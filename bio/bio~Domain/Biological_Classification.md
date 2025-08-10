@@ -1,21 +1,51 @@
 ---
 Commons_category: Taxonomy
 described_by_source:
-  - '[[_Standards/WikiData/WD~Baidu_Baike,803722]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - "[[_Standards/WikiData/WD~Baidu_Baike,803722]]"
+  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
 has_id_wikidata: Q11398
-instance_of: '[[_Standards/WikiData/WD~type_of_classification,121344523]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~taxonomy,8269924]]'
+instance_of: "[[_Standards/WikiData/WD~type_of_classification,121344523]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~taxonomy,8269924]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~specialised_classification_scheme,24249534]]'
-  - '[[_Standards/WikiData/WD~taxonomy,7211]]'
+  - "[[_Standards/WikiData/WD~specialised_classification_scheme,24249534]]"
+  - "[[_Standards/WikiData/WD~taxonomy,7211]]"
 topic_s_main_template:
-  - >-
-    [[_Standards/WikiData/WD~Template_Biological_kingdom_classification,6221922]]
-  - '[[_Standards/WikiData/WD~Template_Biological_classification,6470140]]'
+  - "[[_Standards/WikiData/WD~Template_Biological_kingdom_classification,6221922]]"
+  - "[[_Standards/WikiData/WD~Template_Biological_classification,6470140]]"
 uses:
-  - '[[_Standards/WikiData/WD~cladistics,192210]]'
-  - '[[_Standards/WikiData/WD~form_classification,17105508]]'
+  - "[[_Standards/WikiData/WD~cladistics,192210]]"
+  - "[[_Standards/WikiData/WD~form_classification,17105508]]"
+aliases:
+  - "{ newTitle: null }": 
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate: 
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  "{ \"date:YYYY-MM-DD\": null }": 
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: null }": 
+lang: en
+layout: 
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: null }": 
+publish: false
+publishDate: 
+tags:
+  - "{ newTitle: null }": 
+  - excalidraw
+title:
+  "{ newTitle: null }": 
+type: private_note
 ---
 
 # [[Biological_Classification]] 
@@ -126,3 +156,22 @@ More granular Subdivisions are created by Prefixes to the Rank and differing Suf
 
 ### #is_/same_as :: [Biological_Classification.secret](/_secret/bio/bio~Domain/Biological_Classification.secret.md)
 
+
+# [[Biological_Classification]] 
+
+#is_/part_of :: [[Biological_Classification]] 
+
+![[Biological_Classification.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

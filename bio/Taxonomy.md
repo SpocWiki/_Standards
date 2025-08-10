@@ -4,7 +4,7 @@ has_id_wikidata: Q7211
 
 #is_/same_as :: [[_Standards/WikiData/WD~taxonomy,7211]] 
 
-#has_/examples :: [[Biological_Classification]] 
+#has_/examples :: [[bio~Domain/Biological_Classification]] 
 
 ## #has_/text_of_/abstract 
 

@@ -2,46 +2,11 @@
 title: "Rana cretensis"
 ---
 
-## Phylogeny 
-
--   « Ancestral Groups  
-    -   [Western Palearctic water         frogs](Western_Palearctic_water_frogs)
-    -   [Rana (Pelophylax)](Rana_%28Pelophylax%29)
-    -   [Rana](../../../../Rana.md)
-    -   [\'Ranidae\'](%27Ranidae%27)
-    -   [Neobatrachia](../../../../../../Neobatrachia.md)
-    -   [Salientia](../../../../../../../Salientia.md)
-    -   [Living Amphibians](Living_Amphibians)
-    -   [Terrestrial Vertebrates](../../../../../../../../../Terrestrial.md)
-    -   [Sarcopterygii](../../../../../../../../../../Sarc.md)
-    -   [Gnathostomata](../../../../../../../../../../../Gnath.md)
-    -   [Vertebrata](../../../../../../../../../../../../Vertebrata.md)
-    -   [Craniata](../../../../../../../../../../../../../Craniata.md)
-    -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
-    -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Western Palearctic water frogs
-    -   [Rana saharica](Rana_saharica)
-    -   [Rana perezi](Rana_perezi)
-    -   [Rana epeirotica](Rana_epeirotica)
-    -   [Rana shqiperica](Rana_shqiperica)
-    -   [Rana lessonae](Rana_lessonae)
-    -   Rana cretensis
-    -   [Rana cerigensis](Rana_cerigensis)
-    -   [Rana bedriagae](Rana_bedriagae)
-    -   [Rana ridibunda](Rana_ridibunda)
-
--   » Sub-Groups 
-
-# *Rana cretensis* [Beerli, Hotz, Tunner, Heppich, and Uzzell 1994] 
+## *Rana cretensis* [Beerli, Hotz, Tunner, Heppich, and Uzzell 1994] 
 
 [Peter Beerli](http://www.tolweb.org/)
 
-![ ](cretensis/cretensis.jpg)
+![ ](Rana_cretensis/cretensis.jpg)
 
 Containing group: [Western Palearctic water frogs](../../Western Palearctic water frogs)
 
@@ -92,7 +57,7 @@ samples. Marked yellow pigmentation on posterior flank and inner side of
 femur and tibia. Prominent broad brown dorsolateral fold. Vocal sacs of
 males dark gray.
 
-![ ](cretensis/cretensis_003.jpg)
+![ ](Rana_cretensis/cretensis_003.jpg)
 
 Fig. 1. Rana cretensis: adult female (paratype, MHNG 2543.91) of 72 mm
 body length from Petros river, Crete.
@@ -102,7 +67,7 @@ body length from Petros river, Crete.
 The distribution of this species is restricted to Crete (Greece). It is
 the only water frog species known so far on this island.
 
-![ ](cretensis/cre.gif)
+![ ](Rana_cretensis/cre.gif)
 
 The map is a transverse Mercator projection and was created with GMT 3.0
 ([Wessel and Smith, 1995](http://www.agu.org/eos_elec/95154e.html)) and
@@ -112,7 +77,7 @@ and create them yourself\]
 
 ### Voice
 
-![ ](cretensis/cret.gif)
+![ ](Rana_cretensis/cret.gif)
 
 ### Synonyms
 
@@ -133,20 +98,56 @@ Sciences of Philadelphia 470:1-9.
 
 \[see [full text](http://www.tolweb.org/accessory/Two_New_European_Water_Frog_Species?acc_id=581)\]
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Western Palearctic water         frogs](Western_Palearctic_water_frogs)
+    -   [Rana (Pelophylax)](../../Pelophylax.md)
+    -   [Rana](../../../Rana.md)
+    -   [\'Ranidae\'](%27Ranidae%27)
+    -   [Neobatrachia](../../../../../Neobatrachia.md)
+    -   [Salientia](../../../../../../Salientia.md)
+    -   [Living Amphibians](Living_Amphibians)
+    -   [Terrestrial Vertebrates](../../../../../../../../../Terrestrial.md)
+    -   [Sarcopterygii](../../../../../../../../../Sarc.md)
+    -   [Gnathostomata](../../../../../../../../../../Gnath.md)
+    -   [Vertebrata](../../../../../../../../../../../Vertebrata.md)
+    -   [Craniata](../../../../../../../../../../../../Craniata.md)
+    -   [Chordata](../../../../../../../../../../../../../Chordata.md)
+    -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Western Palearctic water frogs
+    -   [Rana saharica](Rana_saharica.md)
+    -   [Rana perezi](Rana_perezi.md)
+    -   [Rana epeirotica](Rana_epeirotica.md)
+    -   [Rana shqiperica](Rana_shqiperica.md)
+    -   [Rana lessonae](Rana_lessonae.md)
+    -   Rana cretensis
+    -   [Rana cerigensis](Rana_cerigensis.md)
+    -   [Rana bedriagae](Rana_bedriagae.md)
+    -   [Rana ridibunda](Rana_ridibunda.md)
+
+-   » Sub-Groups 
+
 ## Title Illustrations
 
-![](cretensis/cretensis.jpg))
+![](Rana_cretensis/cretensis.jpg))
 
   --------------------------------------------------------------------------
   Scientific Name ::  Rana cretensis
   Type              Paratype
   Copyright ::         © 1995 [Peter Beerli](http://www.csit.fsu.edu/%7Ebeerli) 
-  --------------------------------------------------------------------------
+  --------------------------------------------------------------------------
+
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [cretensis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranidae/Rana/Pelophylax/Western_Water_Frogs/Rana/cretensis.md) 
+### #is_/same_as :: [Rana_cretensis](Rana_cretensis.md) 
 
 ### #is_/same_as :: [cretensis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranidae/Rana/Pelophylax/Western_Water_Frogs/Rana/cretensis.public.md) 
 

@@ -2,46 +2,11 @@
 title: "Rana lessonae"
 ---
 
-## Phylogeny 
-
--   « Ancestral Groups  
-    -   [Western Palearctic water         frogs](Western_Palearctic_water_frogs)
-    -   [Rana (Pelophylax)](Rana_%28Pelophylax%29)
-    -   [Rana](../../../../Rana.md)
-    -   [\'Ranidae\'](%27Ranidae%27)
-    -   [Neobatrachia](../../../../../../Neobatrachia.md)
-    -   [Salientia](../../../../../../../Salientia.md)
-    -   [Living Amphibians](Living_Amphibians)
-    -   [Terrestrial Vertebrates](../../../../../../../../../Terrestrial.md)
-    -   [Sarcopterygii](../../../../../../../../../../Sarc.md)
-    -   [Gnathostomata](../../../../../../../../../../../Gnath.md)
-    -   [Vertebrata](../../../../../../../../../../../../Vertebrata.md)
-    -   [Craniata](../../../../../../../../../../../../../Craniata.md)
-    -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
-    -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
-    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Western Palearctic water frogs
-    -   [Rana saharica](Rana_saharica)
-    -   [Rana perezi](Rana_perezi)
-    -   [Rana epeirotica](Rana_epeirotica)
-    -   [Rana shqiperica](Rana_shqiperica)
-    -   Rana lessonae
-    -   [Rana cretensis](Rana_cretensis)
-    -   [Rana cerigensis](Rana_cerigensis)
-    -   [Rana bedriagae](Rana_bedriagae)
-    -   [Rana ridibunda](Rana_ridibunda)
-
--   » Sub-Groups 
-
-# *Rana lessonae* [Camerano 1882] 
+## *Rana lessonae* [Camerano 1882] 
 
 [Peter Beerli](http://www.tolweb.org/)
 
-![ ](lessonae/lessonae.jpg)
+![ ](Rana_lessonae/lessonae.jpg)
 
 Containing group: [Western Palearctic water frogs](../../Western Palearctic water frogs)
 
@@ -136,20 +101,56 @@ hybridogenetic *Rana esculenta* from Italy. Fifth congress of the
 European Socieity for Evolutionary Biology, Edinburgh 4-8 September
 1995. \[Abstract\].
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Western Palearctic water         frogs](Western_Palearctic_water_frogs)
+    -   [Rana (Pelophylax)](../../Pelophylax.md)
+    -   [Rana](../../../Rana.md)
+    -   [\'Ranidae\'](%27Ranidae%27)
+    -   [Neobatrachia](../../../../../Neobatrachia.md)
+    -   [Salientia](../../../../../../Salientia.md)
+    -   [Living Amphibians](Living_Amphibians)
+    -   [Terrestrial Vertebrates](../../../../../../../../../Terrestrial.md)
+    -   [Sarcopterygii](../../../../../../../../../Sarc.md)
+    -   [Gnathostomata](../../../../../../../../../../Gnath.md)
+    -   [Vertebrata](../../../../../../../../../../../Vertebrata.md)
+    -   [Craniata](../../../../../../../../../../../../Craniata.md)
+    -   [Chordata](../../../../../../../../../../../../../Chordata.md)
+    -   [Deuterostomia](../../../../../../../../../../../../../../Deutero.md)
+    -  [Bilateria](../../../../../../../../../../../../../../../Bilateria.md))
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md))
+    -  [Eukarya](../../../../../../../../../../../../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../../../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Western Palearctic water frogs
+    -   [Rana saharica](Rana_saharica.md)
+    -   [Rana perezi](Rana_perezi.md)
+    -   [Rana epeirotica](Rana_epeirotica.md)
+    -   [Rana shqiperica](Rana_shqiperica.md)
+    -   Rana lessonae
+    -   [Rana cretensis](Rana_cretensis.md)
+    -   [Rana cerigensis](Rana_cerigensis.md)
+    -   [Rana bedriagae](Rana_bedriagae.md)
+    -   [Rana ridibunda](Rana_ridibunda.md)
+
+-   » Sub-Groups 
+
 ## Title Illustrations
 
-![](lessonae/lessonae.jpg))
+![](Rana_lessonae/lessonae.jpg))
 
   ----------
   Scientific Name ::  Rana lessonae
   Location ::        Switzerland
   Copyright ::         © 1995 Hansjürg Hotz
-  ----------
+  ----------
+
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [lessonae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranidae/Rana/Pelophylax/Western_Water_Frogs/Rana/lessonae.md) 
+### #is_/same_as :: [Rana_lessonae](Rana_lessonae.md) 
 
 ### #is_/same_as :: [lessonae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranidae/Rana/Pelophylax/Western_Water_Frogs/Rana/lessonae.public.md) 
 
