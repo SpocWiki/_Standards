@@ -47,7 +47,7 @@ His Novels were used to educate children on Technology.
 > Since the 1980s, his literary reputation has improved.
 >
 > **Jules Verne** has been the second most-translated author in the world since 1979, 
-> ranking below Agatha Christie and above [[../Middle_Age_Writers/Shakespeare,William|William Shakespeare]].  
+> ranking below Agatha Christie and above [[../Middle_Age_Writer/Shakespeare,William|William Shakespeare]].  
 > He has sometimes been called the "father of science fiction", 
 > a title that has also been given to [[../Wells,H.G.]] and [[../Gernsback,Hugo]]. 
 > 

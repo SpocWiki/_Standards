@@ -1,7 +1,7 @@
 ---
 aliases:
 - book
-- book
+- Buch
 - Book
 - is_a_book
 - "dbo:Book"
@@ -15,6 +15,7 @@ cssclasses:
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
 - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
@@ -22,12 +23,15 @@ described_by_source:
 - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification:
+- 002
+- 090
 - 070.573
 - 302.232
-- 090
-- 002
 different_from:
 - '[[_Standards/WikiData/WD~version,_edition_or_translation,3331189]]'
+- '[[_Standards/WikiData/WD~Buch,240226]]'
+- '[[_Standards/WikiData/WD~Book,421300]]'
+- '[[_Standards/WikiData/WD~Livre,892730]]'
 - '[[_Standards/WikiData/WD~Liv,10567996]]'
 - '[[_Standards/WikiData/WD~written_work,47461344]]'
 - '[[_Standards/WikiData/WD~volume,105763458]]'
@@ -35,11 +39,11 @@ different_from:
 draft: false
 entry_in_abbreviations_table: кн.
 equivalent_class:
-- '[[_Standards/WikiData/WD~https___id.oclc.org_worldcat_entity_Q13,13]]'
 - "http://dbpedia.org/ontology/Book"
 - "http://purl.org/net/nknouf/ns/bibtex#Book"
 - "http://purl.org/ontology/bibo/Book"
 - "http://www.ontotext.com/proton/protonext#Book"
+- '[[_Standards/WikiData/WD~https_id.oclc.org_worldcat_entity_Q13,13]]'
 - "https://schema.org/Book"
 exact_match:
 - "http://linked.earth/ontology/#book"
@@ -83,6 +87,7 @@ has_use:
 history_of_topic: '[[_Standards/WikiData/WD~history_of_the_book,15873402]]'
 Iconclass_notation: 49M32
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Reimski%20evan%C4%91elistar.10.jpg"
+IMDb_keyword: book
 instance_of:
 - '[[_Standards/WikiData/WD~type_of_publication,39725049]]'
 - '[[_Standards/WikiData/WD~type_of_mass_media,121132955]]'
@@ -97,6 +102,7 @@ maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Books,8487081]]
 MeSH_tree_code: L01.462.500.682.192
 Nomenclature_for_Museum_Cataloging: 13603
 OmegaWiki_Defined_Meaning: 417
+P8189: 987007283230005171
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q52834100,52834100]]'
 properties_for_this_type:
 - "language of work or name"
@@ -119,7 +125,7 @@ Stack_Exchange_tag:
 - "https://academia.stackexchange.com/tags/books"
 - "https://tex.stackexchange.com/tags/books"
 subclass_of:
-- '[[_Standards/WikiData/WD~medium,340169]]'
+- '[[_Standards/WikiData/WD~communications_media,340169]]'
 - '[[_Standards/WikiData/WD~publication,732577]]'
 - '[[_Standards/WikiData/WD~product,2424752]]'
 - '[[_Standards/WikiData/WD~document,49848]]'
@@ -139,20 +145,21 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Books,10880143]]
 type: Type
 UMLS_CUI: C0005990
 Unicode_character:
-- "\U0001F4DA"
+- "\U0001F56E"
 - "\U0001F4D5"
+- "\U0001F4D6"
 - "\U0001F4D7"
 - "\U0001F4D8"
-- "\U0001F4D6"
 - "\U0001F4D9"
-- "\U0001F56E"
+- "\U0001F4DA"
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier: 10639916
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_books,7112569]]'
 Wolfram_Language_entity_type: Book
 ---
 
-﻿
+# [[Book]] 
+
 Class of all books.
 
 Tag Instances like this: 
@@ -166,16 +173,23 @@ A book.
 
 [ #has_/properties :: [ about, abridged, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, bookEdition, bookFormat, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, illustrator, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, isbn, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, numberOfPages, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
+#is_/same_as :: [[../../../../WikiData/WD~Book,571]]
 
 ## #has_/text_of_/abstract 
 
-> A **Book** is a medium for recording information in the form of writing or images. Modern books are typically in codex format, composed of many pages that are bound together and protected by a cover; they were preceded by several earlier formats, including the scroll and the tablet. The book publishing process is the series of steps involved in their creation and dissemination.
+> A **Book** is a structured presentation of recorded information, primarily verbal and graphical, through a medium. 
+> Originally physical, electronic books and audiobooks are now existent. 
+> Physical books are objects that contain printed material, mostly of writing and images. 
+> Modern books are typically composed of many pages bound together and protected by a cover, 
+> what is known as the codex format; older formats include the scroll and the tablet.
 >
 > As a conceptual object, a book refers to a written work of substantial length, which may be distributed either physically or digitally as an electronic book (ebook). These works can be broadly classified into fiction (containing invented content, often narratives) and non-fiction (containing content intended as factual truth). A physical book may not contain such a work: for example, it may contain only drawings, engravings, photographs, puzzles, or removable content like paper dolls. It may also be left empty for personal use, as in the case of account books, appointment books, autograph books, notebooks, diaries and sketchbooks.
 >
-> Books are sold at both regular stores and specialized bookstores, as well as online for delivery, and can be borrowed from libraries. The reception of books has led to a number of social consequences, including censorship.
+> The modern book industry has seen several major changes due to new technologies, including ebooks and audiobooks (recordings of books being read aloud). Awareness of the needs of print-disabled people has led to a rise in formats designed for greater accessibility such as braille printing and large-print editions.
 >
-> The modern book industry has seen several major changes due to new technologies, including ebooks and audiobooks (recordings of books being read aloud). Awareness of the needs of print-disabled people has led to a rise in formats designed for greater accessibility, such as braille printing and large-print editions. Google Books estimated in 2010 that approximately 130 million total unique books had been published.
+> Google Books estimated in 2010 that approximately 130 million total unique books had been published. The book publishing process is the series of steps involved in book creation and dissemination. Books are sold at both regular stores and specialized bookstores, as well as online (for delivery), and can be borrowed from libraries or public bookcases. The reception of books has led to a number of social consequences, including censorship.
+>
+> Books are sometimes contrasted with periodical literature, such as newspapers or magazines, where new editions are published according to a regular schedule. Related items, also broadly categorized as "books", are left empty for personal use: as in the case of account books, appointment books, autograph books, notebooks, diaries and sketchbooks.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Book)
 

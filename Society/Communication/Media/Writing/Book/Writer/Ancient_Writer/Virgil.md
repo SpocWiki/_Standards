@@ -101,11 +101,11 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 > and stood as the most popular Latin poet through [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Late_Antiquity|late antiquity]], the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Middle_Ages|Middle Ages]], and early modernity, 
 > exerting inestimable influence on all subsequent Western literature. 
 > 
-> [[../Middle_Age_Writers/Chaucer,Geoffrey|Geoffrey Chaucer]] assigned Virgil a uniquely position among all the celebrities of human history 
+> [[../Middle_Age_Writer/Chaucer,Geoffrey|Geoffrey Chaucer]] assigned Virgil a uniquely position among all the celebrities of human history 
 > in The House of Fame (1374–85), describing him as standing on a pilere / that was of tinned yren clere 
 > ("on a pillar that was of bright tin-plated iron"), 
 > and in the [[Divine_Comedy]], in which Virgil appears as the author's guide through Hell and Purgatory, 
-> [[../Middle_Age_Writers/Alighieri,Dante|Dante]] pays tribute to Virgil with the words 
+> [[../Middle_Age_Writer/Alighieri,Dante|Dante]] pays tribute to Virgil with the words 
 > "tu se' solo colui da cu'io tolsi / lo bello stile che m'ha fatto onore" (Inf. I.86–7) 
 > ("thou art alone the one from whom I took the beautiful style that has done honour to me"). 
 > 

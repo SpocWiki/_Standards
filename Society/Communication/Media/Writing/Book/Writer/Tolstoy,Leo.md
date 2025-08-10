@@ -219,7 +219,7 @@ has_time_stopped: 1910-11-20
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started`
 
-Tolstoy liked the Novels of [[Modern_Writers/Verne,Jules]]. 
+Tolstoy liked the Novels of [[Modern_Writer/Verne,Jules]]. 
 
 ## #has_/text_of_/abstract 
 

@@ -263,7 +263,7 @@ used_metre: '[[_Standards/WikiData/WD~Terza_rima,968679]]'
 ## #has_/text_of_/abstract 
 
 > The Divine Comedy (Italian: Divina Commedia, pronounced [diˈviːna komˈmɛːdja]) 
-> is an Italian narrative poem by [[../Middle_Age_Writers/Alighieri,Dante|Dante Alighieri]], begun c. 1308 and completed around 1321, 
+> is an Italian narrative poem by [[../Middle_Age_Writer/Alighieri,Dante|Dante Alighieri]], begun c. 1308 and completed around 1321, 
 > shortly before the author's death. 
 > 
 > It is widely considered the pre-eminent work in Italian literature 

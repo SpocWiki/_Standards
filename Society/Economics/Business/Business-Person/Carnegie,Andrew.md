@@ -80,7 +80,7 @@ P8189: "987007259572305171"
 
 # [[Carnegie,Andrew]] 
 
-#is_/different_from :: [[../../../Communication/Media/Writing/Book/Writer/Modern_Writers/Carnegie,Dale]] 
+#is_/different_from :: [[../../../Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale]] 
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

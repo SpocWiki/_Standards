@@ -1,14 +1,24 @@
 ---
+aliases:
+- book
+- Buch
+- Book
+- is_a_book
+- "dbo:Book"
+- "schema:Book"
 Amazon_com_browse_node: 1000
 Commons_category: Books
 Commons_gallery: Book
+confidential: public
+cssclasses:
+- Type
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
 - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
@@ -18,12 +28,15 @@ Dewey_Decimal_Classification:
 - 070.573
 - 302.232
 different_from:
+- '[[_Standards/WikiData/WD~version,_edition_or_translation,3331189]]'
 - '[[_Standards/WikiData/WD~Buch,240226]]'
 - '[[_Standards/WikiData/WD~Book,421300]]'
 - '[[_Standards/WikiData/WD~Livre,892730]]'
 - '[[_Standards/WikiData/WD~Liv,10567996]]'
 - '[[_Standards/WikiData/WD~written_work,47461344]]'
+- '[[_Standards/WikiData/WD~volume,105763458]]'
 - '[[_Standards/WikiData/WD~book,126946186]]'
+draft: false
 entry_in_abbreviations_table: кн.
 equivalent_class:
 - "http://dbpedia.org/ontology/Book"
@@ -37,6 +50,7 @@ exact_match:
 - "http://purl.org/coar/resource_type/c_2f33"
 - "http://purl.org/spar/fabio/Book"
 - "https://citationstyles.org/ontology/type/book"
+expiryDate: 
 GitHub_topic: books
 GS1_GPC_code: 60010200
 has_characteristic:
@@ -72,11 +86,18 @@ has_use:
 - '[[_Standards/WikiData/WD~imagination,34516]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_the_book,15873402]]'
 Iconclass_notation: 49M32
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Americanstudbookvolume2open.jpg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Reimski%20evan%C4%91elistar.10.jpg"
 IMDb_keyword: book
 instance_of:
 - '[[_Standards/WikiData/WD~type_of_publication,39725049]]'
 - '[[_Standards/WikiData/WD~type_of_mass_media,121132955]]'
+isDeleted: false
+isReadOnly: false
+keywords:
+- book
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_book Class"
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Books,8487081]]'
 MeSH_tree_code: L01.462.500.682.192
 Nomenclature_for_Museum_Cataloging: 13603
@@ -97,6 +118,8 @@ properties_for_this_type:
 - "copyright status"
 - author
 - ISBN-13
+publish: true
+publishDate: 
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Boekdocument.ogg"
 Stack_Exchange_tag:
 - "https://academia.stackexchange.com/tags/books"
@@ -107,6 +130,10 @@ subclass_of:
 - '[[_Standards/WikiData/WD~product,2424752]]'
 - '[[_Standards/WikiData/WD~document,49848]]'
 subreddit: books
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_book Class"
 topic_s_main_category:
 - '[[_Standards/WikiData/WD~Q9721595,9721595]]'
 - '[[_Standards/WikiData/WD~Q33098516,33098516]]'
@@ -115,6 +142,7 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Infobox_book_2,22835068]]'
 - '[[_Standards/WikiData/WD~Template_Books,47482683]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Books,10880143]]'
+type: Type
 UMLS_CUI: C0005990
 Unicode_character:
 - "\U0001F56E"
@@ -132,6 +160,19 @@ Wolfram_Language_entity_type: Book
 
 # [[Book]] 
 
+Class of all books.
+
+Tag Instances like this: 
+#is_a_/book
+
+A book.
+
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
+
+[ #has_/sub_classes :: [ Audiobook ] ]
+
+[ #has_/properties :: [ about, abridged, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, bookEdition, bookFormat, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, illustrator, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, isbn, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, numberOfPages, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
+
 #is_/same_as :: [[../../../../WikiData/WD~Book,571]]
 
 ## #has_/text_of_/abstract 
@@ -142,7 +183,7 @@ Wolfram_Language_entity_type: Book
 > Modern books are typically composed of many pages bound together and protected by a cover, 
 > what is known as the codex format; older formats include the scroll and the tablet.
 >
-> As a conceptual object, a book often refers to a written work of substantial length by one or more authors, which may also be distributed digitally as an electronic book (ebook). These kinds of works can be broadly classified into fiction (containing invented content, often narratives) and non-fiction (containing content intended as factual truth). But a physical book may not contain a written work: for example, it may contain only drawings, engravings, photographs, sheet music, puzzles, or removable content like paper dolls.
+> As a conceptual object, a book refers to a written work of substantial length, which may be distributed either physically or digitally as an electronic book (ebook). These works can be broadly classified into fiction (containing invented content, often narratives) and non-fiction (containing content intended as factual truth). A physical book may not contain such a work: for example, it may contain only drawings, engravings, photographs, puzzles, or removable content like paper dolls. It may also be left empty for personal use, as in the case of account books, appointment books, autograph books, notebooks, diaries and sketchbooks.
 >
 > The modern book industry has seen several major changes due to new technologies, including ebooks and audiobooks (recordings of books being read aloud). Awareness of the needs of print-disabled people has led to a rise in formats designed for greater accessibility such as braille printing and large-print editions.
 >
