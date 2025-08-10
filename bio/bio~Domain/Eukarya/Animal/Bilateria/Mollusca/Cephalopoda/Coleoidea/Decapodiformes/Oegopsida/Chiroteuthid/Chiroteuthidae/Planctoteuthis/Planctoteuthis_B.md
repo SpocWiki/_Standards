@@ -2,36 +2,11 @@
 title: "New Genus B"
 ---
 
-## Phylogeny 
-
--   « Ancestral Groups  
-    -  [Chiroteuthidae](../../Chiroteuthidae.md))
-    -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Chiroteuthidae
-    -  [Asperoteuthis](../Asperoteuthis.md))
-    -  [Chiroteuthis](../Chiroteuthis.md))
-    -   [Grimalditeuthis         bonplandi](Grimalditeuthis_bonplandi)
-    -  [Planctoteuthis](../Planctoteuthis.md))
-    -   New Genus B
-    -   [New Genus C](New_Genus_C)
-
--   » Sub-Groups 
-
 # *New Genus B* 
 
 [Kir Nesis and Irene Nikitina]()
 
-![ ](B/GenusB.jpg)
+![ ](Planctoteuthis_B/GenusB.jpg)
 
 This unnamed species is based on two paralarvae.
 
@@ -55,14 +30,14 @@ of the funnel locking-apparatus may also be unusual.\
 2.  Tentacular club
     1.  Developing adult club with suckers in six series.
 
-       ![ ](B/GenusBClubEnlarge.jpg))
+       ![ ](Planctoteuthis_B/GenusBClubEnlarge.jpg))
         Figure. Enlargement of base of club from previous drawing.
 
     2.  Doratopsid club (=distal portion of club) with aboral elongated
         yellowish swelling between keel and protective membrane
         (indicated by arrow).
 
-       ![ ](B/GenusBLock.jpg))
+       ![ ](Planctoteuthis_B/GenusBLock.jpg))
         **Figure**. Funnel component of the funnel-mantle locking
         apparatus, scale bar = ??, original.
 
@@ -108,6 +83,31 @@ The two paralarvae were taken in a single, open Isaacs-Kidd trawl that
 fished at a depth of about 350m at 40°06.6\'S, 49°59\'W in the
 southwestern Atlantic Ocean.
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -  [Chiroteuthidae](../../Chiroteuthidae.md))
+    -   [Chiroteuthid families](Chiroteuthid_families)
+    -  [Oegopsida](../../../../Oegopsida.md))
+    -  [Decapodiformes](../../../../../Decapodiformes.md))
+    -  [Coleoidea](../../../../../../Coleoidea.md))
+    -  [Cephalopoda](../../../../../../../Cephalopoda.md))
+    -  [Mollusca](../../../../../../../../Mollusca.md))
+    -  [Bilateria](../../../../../../../../../Bilateria.md))
+    -  [Animals](../../../../../../../../../../Animals.md))
+    -  [Eukarya](../../../../../../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Chiroteuthidae
+    -  [Asperoteuthis](../Asperoteuthis.md))
+    -  [Chiroteuthis](../Chiroteuthis.md))
+    -   [Grimalditeuthis         bonplandi](Grimalditeuthis_bonplandi)
+    -  [Planctoteuthis](../Planctoteuthis.md))
+    -   New Genus B
+    -   [New Genus C](New_Genus_C)
+
+-   » Sub-Groups 
+
 ### References
 
 Nesis, K. N. 1974. Oceanic cephalopods of the southwestern Atlantic
@@ -121,19 +121,20 @@ Neptune City, NJ, 351pp.
 
 ## Title Illustrations
 
-![](B/GenusB.jpg))
+![](Planctoteuthis_B/GenusB.jpg))
 
   --------------
   Scientific Name ::  New Genus B
   Comments          scale bar = 15 mm
   Size              96 mm ML
   Copyright ::         © 1999 K. Nesis and I. Nikitina
-  --------------
+  --------------
+
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [B](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/B.md) 
+### #is_/same_as :: [Planctoteuthis_B](Planctoteuthis_B.md) 
 
 ### #is_/same_as :: [B.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/B.public.md) 
 

@@ -2,29 +2,7 @@
 title: "Promachoteuthis sp. D"
 ---
 
-## Phylogeny 
-
--   « Ancestral Groups  
-    -   [Promachoteuthis](Promachoteuthis)
-    -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Promachoteuthis
-    -   [Promachoteuthis         megaptera](Promachoteuthis_megaptera)
-    -   [Promachoteuthis sloani](Promachoteuthis_sloani)
-    -   [Promachoteuthis sp. B](Promachoteuthis_sp._B)
-    -   [Promachoteuthis sulcus](Promachoteuthis_sulcus)
-    -   Promachoteuthis sp. D
-
--   » Sub-Groups 
+# [[Promachoteuthis_D]] 
 
 # *Promachoteuthis sp. D* 
 
@@ -95,6 +73,30 @@ orientation. Photograph by R. Young.
 Type locality: 16°35\'E, 34°15\'S in the south Atlantic Ocean. Captured
 from the WALTHER HERWIG at 1550 m depth.
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Promachoteuthis](Promachoteuthis)
+    -   [Chiroteuthid families](Chiroteuthid_families)
+    -  [Oegopsida](../../../Oegopsida.md))
+    -  [Decapodiformes](../../../../Decapodiformes.md))
+    -  [Coleoidea](../../../../../Coleoidea.md))
+    -  [Cephalopoda](../../../../../../Cephalopoda.md))
+    -  [Mollusca](../../../../../../../Mollusca.md))
+    -  [Bilateria](../../../../../../../../Bilateria.md))
+    -  [Animals](../../../../../../../../../Animals.md))
+    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Promachoteuthis
+    -   [Promachoteuthis         megaptera](Promachoteuthis_megaptera)
+    -   [Promachoteuthis sloani](Promachoteuthis_sloani)
+    -   [Promachoteuthis sp. B](Promachoteuthis_sp._B)
+    -   [Promachoteuthis sulcus](Promachoteuthis_sulcus)
+    -   Promachoteuthis sp. D
+
+-   » Sub-Groups 
+
 ## Title Illustrations
 
 ![](D/PromachSpDdraw.jpg))
@@ -127,7 +129,8 @@ from the WALTHER HERWIG at 1550 m depth.
   Specimen Condition   Dead Specimen
   View                 Ventral
   Copyright ::            © 2003 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  --------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------
+
 
 
 ## Confidential Links & Embeds: 

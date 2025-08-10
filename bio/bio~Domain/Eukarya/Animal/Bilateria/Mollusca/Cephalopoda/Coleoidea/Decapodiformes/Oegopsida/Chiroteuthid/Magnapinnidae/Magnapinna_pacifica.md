@@ -2,37 +2,13 @@
 title: "Magnapinna pacifica"
 ---
 
-## Phylogeny 
-
--   « Ancestral Groups  
-    -   [Magnapinna](Magnapinna)
-    -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Magnapinna
-    -   [Magnapinna atlantica](Magnapinna_atlantica)
-    -   [Magnapinna sp. B](Magnapinna_sp._B)
-    -   [Magnapinna sp. C](Magnapinna_sp._C)
-    -   Magnapinna pacifica
-    -   [Magnapinna talismani](Magnapinna_talismani)
-
--   » Sub-Groups 
-
 # *Magnapinna pacifica* [Vecchione and Young, 1998]
 
 ## Pacific bigfin squid 
 
 [Michael Vecchione and Richard E. Young]()
 
-![ ](pacifica/Magnapinna.jpg)![ ](pacifica/MagnapinnaDraw.jpg))
+![ ](Magnapinna_pacifica/Magnapinna.jpg)![ ](Magnapinna_pacifica/MagnapinnaDraw.jpg))
 
 Containing group:[Magnapinnidae](../Magnapinnidae.md))
 
@@ -61,7 +37,7 @@ A ***Magnapinna*** with \...
 
     3.  Inner sucker rings probably smooth.
 
-       ![ ](pacifica/mpacificaholoclub.jpg))\
+       ![ ](Magnapinna_pacifica/mpacificaholoclub.jpg))\
 
         **Figure**. **Left** - Oral view of the brachial crown of ***M.
         pacifica***, holotype, showing sucker arrangement on proximal
@@ -74,7 +50,7 @@ A ***Magnapinna*** with \...
 
     5.  Distal-tentacles vermiform.\
 
-       ![ ](pacifica/MagnpinnaBerryFil.jpg)){width="373"}
+       ![ ](Magnapinna_pacifica/MagnpinnaBerryFil.jpg)){width="373"}
         **Figure**. Dorsolateral view of the head and brachial crown of
         ***M. pacifica***, Berry specimen. This specimen had dried out
         and has been reconstituted. Note the large, broad tentacles and
@@ -87,7 +63,7 @@ A ***Magnapinna*** with \...
 3.  Funnel
     1.  Funnel locking-apparatus with oval depression.
 
-       ![ ](pacifica/MagnapinnafunLoc.JPG)){width="339"}
+       ![ ](Magnapinna_pacifica/MagnapinnafunLoc.JPG)){width="339"}
         **Figure**. Funnel locking-apparatus of ***M. pacifica***,
         holotype. Arrow points to funnel lock, insert shows drawing of
         the same lock. Drawing from Vecchione and Young (1998).
@@ -99,7 +75,7 @@ A ***Magnapinna*** with \...
     2.  Fins terminal.
     3.  Width approximates length.
 
-       ![ ](pacifica/MagPacificaBerry2.jpg))
+       ![ ](Magnapinna_pacifica/MagPacificaBerry2.jpg))
         **Figure**. Ventral view of ***M. pacifica***, Berry specimen,
         49 mm ML (USNM 885787). Photograph from Vecchione and
         Young (1998) which was found in the archives of S. S. Berry.
@@ -207,7 +183,7 @@ Only a single paralarva is known. It has the following characteristics:
     1.  Muscular mantle overlaps anterior of fins by 15% of fin length.
     2.  Fins extend onto a tail posteriorly.
 
-   ![ ](pacifica/MagnapinnaParal2.jpg)){height="292" width="439"}
+   ![ ](Magnapinna_pacifica/MagnapinnaParal2.jpg)){height="292" width="439"}
 
     **Figure**. Paralarvae of ***M. pacifica***. **Left** - Ventral and
     dorsal views, 19.1 mm ML, Hawaiian waters. **Middle** - Dorsal view
@@ -230,10 +206,35 @@ The capture localities are:
 -   Juvenile, 49 mm ML; 30° 22\'N, 129° 45\'W.
 -   Paralarva, 19.1 mm ML; 21° 20\'N, 158° 20\'W.
 -   Atlantic specimen, 51 mm ML: 26°52\'N, 85°52\"W.\
-![ ](pacifica/magnamap.jpg))
+![ ](Magnapinna_pacifica/magnamap.jpg))
 
 **Figure**. Distribution chart of ***M. pacifica***. White dots indicate
 capture localities. Chart modified from Vecchione and Young (1998).
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Magnapinna](Magnapinna)
+    -   [Chiroteuthid families](Chiroteuthid_families)
+    -  [Oegopsida](../../../Oegopsida.md))
+    -  [Decapodiformes](../../../../Decapodiformes.md))
+    -  [Coleoidea](../../../../../Coleoidea.md))
+    -  [Cephalopoda](../../../../../../Cephalopoda.md))
+    -  [Mollusca](../../../../../../../Mollusca.md))
+    -  [Bilateria](../../../../../../../../Bilateria.md))
+    -  [Animals](../../../../../../../../../Animals.md))
+    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Magnapinna
+    -   [Magnapinna atlantica](Magnapinna_atlantica)
+    -   [Magnapinna sp. B](Magnapinna_sp._B)
+    -   [Magnapinna sp. C](Magnapinna_sp._C)
+    -   Magnapinna pacifica
+    -   [Magnapinna talismani](Magnapinna_talismani)
+
+-   » Sub-Groups 
+
 ### References
 
 Vecchione, M. and R. E. Young. 1998. The Magnapinnidae, a newly
@@ -242,7 +243,7 @@ African Journal of Marine Science, 20: 429-437.
 
 ## Title Illustrations
 
-![](pacifica/Magnapinna.jpg))
+![](Magnapinna_pacifica/Magnapinna.jpg))
 
   -------------------------------------------------------------------------
   Scientific Name ::     Magnapinna pacifica
@@ -253,7 +254,7 @@ African Journal of Marine Science, 20: 429-437.
   Type                 Holotype
   Copyright ::            © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
   -------------------------------------------------------------------------
-![](pacifica/MagnapinnaDraw.jpg))
+![](Magnapinna_pacifica/MagnapinnaDraw.jpg))
 
   ------------------------------------------------------------------------
   Scientific Name ::  Magnapinna pacifica
@@ -263,12 +264,13 @@ African Journal of Marine Science, 20: 429-437.
   Size              51 mm ML
   Type              Holotype
   Copyright ::         © 2004 [Michael Vecchione](mailto:vecchiom@si.edu) 
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------
+
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [pacifica](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/pacifica.md) 
+### #is_/same_as :: [Magnapinna_pacifica](Magnapinna_pacifica.md) 
 
 ### #is_/same_as :: [pacifica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/pacifica.public.md) 
 

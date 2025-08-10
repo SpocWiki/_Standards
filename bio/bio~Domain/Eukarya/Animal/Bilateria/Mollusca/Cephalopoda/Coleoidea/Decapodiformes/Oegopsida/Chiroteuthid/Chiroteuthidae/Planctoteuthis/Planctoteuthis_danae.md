@@ -2,12 +2,13 @@
 title: "Planctoteuthis danae"
 ---
 
-# Planctoteuthis [[danae]] 
-[(Joubin 1931)] 
+# [[Planctoteuthis_danae]] 
+
+#has_/creator :: Joubin 1931 
 
 [Richard E. Young and Clyde F. E. Roper]()
 
-![ ](danae/PDanaeType.jpg)
+![ ](Planctoteuthis_danae/PDanaeType.jpg)
 
 The holotype is deposited in the Zoological Museum, University of
 Copenhagen, Denmark.
@@ -31,7 +32,7 @@ A ***Planctoteuthis*** with
 1.  Arms
     1.  Arms IV with 12-13 suckers each.\
 
-       ![ ](danae/PDanaeHoloArm4.jpg)){width="353"}\
+       ![ ](Planctoteuthis_danae/PDanaeHoloArm4.jpg)){width="353"}\
         **Figure**. Oral view of ***P. danae***, holotype, showing arm
         IV suckers. Note the two enlarged suckers on arm II (upper right
         in photograph). Photograph by R. Young.
@@ -41,7 +42,7 @@ A ***Planctoteuthis*** with
 
     2.  Club length 12-18% of ML.\
 
-       ![ ](danae/PDanaeFunLoc31.jpg))
+       ![ ](Planctoteuthis_danae/PDanaeFunLoc31.jpg))
 
         **Figure**. Frontal view of the funnel locking-apparatus, ***P.
         danae***, subadult, eastern Pacific. Photograph by R. Young.
@@ -76,7 +77,7 @@ Young, 1972, both from the Pacific Ocean. The identification of the
 species upon which this vertical distribution is based needs
 confirmation. We know of no other records of ***P. danae*** in the
 Atlantic Ocean. The data could refer to ***P. lippula***.
-![ ](danae/PlanctoDanaeDist.jpg))
+![ ](Planctoteuthis_danae/PlanctoDanaeDist.jpg))
 
 **Figure**. Vertical distribution graph based on opening/closing nets
 with tows at two localities, one at 11°N Lat. and the other at 18°N
@@ -120,7 +121,7 @@ Lu, 1975 and Lu and Clarke, 1975).
 
 ## Title Illustrations
 
-------------------------------------------------------------------------------![](danae/PDanaeType.jpg))
+------------------------------------------------------------------------------![](Planctoteuthis_danae/PDanaeType.jpg))
 Scientific Name ::     Planctoteuthis danae
 Reference            Joubin, L. 1931. Notes preliminaires sur les cephalopodes des croiseires du "Dana" (1921-1922). Annales de l'Institut Oceanographique, 10: 169-211.
 Specimen Condition   Preserved
@@ -132,7 +133,7 @@ Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [danae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/danae.md) 
+### #is_/same_as :: [Planctoteuthis_danae](Planctoteuthis_danae.md) 
 
 ### #is_/same_as :: [danae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/danae.public.md) 
 

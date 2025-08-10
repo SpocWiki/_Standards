@@ -2,36 +2,12 @@
 title: "Magnapinna sp. C"
 ---
 
-## Phylogeny 
-
--   « Ancestral Groups  
-    -   [Magnapinna](Magnapinna)
-    -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Magnapinna
-    -   [Magnapinna atlantica](Magnapinna_atlantica)
-    -   [Magnapinna sp. B](Magnapinna_sp._B)
-    -   Magnapinna sp. C
-    -   [Magnapinna pacifica](Magnapinna_pacifica)
-    -   [Magnapinna talismani](Magnapinna_talismani)
-
--   » Sub-Groups 
-
 # *Magnapinna sp. C* 
 
 [Michael Vecchione and Richard E. Young]()
 
-![ ](C/bmsquid7.jpg)
-![ ](C/HardysSquid1.gif)
+![ ](Magnapinna_C/bmsquid7.jpg)
+![ ](Magnapinna_C/HardysSquid1.gif)
 
 Containing group:[Magnapinnidae](../Magnapinnidae.md))
 
@@ -68,7 +44,7 @@ A Magnapinna \...
     1.  Tentacles badly damaged, suckers absent.
     2.  Tentacle diameter at base less than arm diameter.
 
-   ![ ](C/BMsquidVisc1.jpg))
+   ![ ](Magnapinna_C/BMsquidVisc1.jpg))
     **Figure**. Ventral view of the viscera of ***Magnapinna*** sp. C.
     Photograph by Wen-Sung Chung.
 
@@ -83,6 +59,30 @@ present whether this represents a separate species or is conspecific
 with ***M. atlantica*** and/or ***M. talismani***. This specimen needs
 to be re-examined. 
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Magnapinna](Magnapinna)
+    -   [Chiroteuthid families](Chiroteuthid_families)
+    -  [Oegopsida](../../../Oegopsida.md))
+    -  [Decapodiformes](../../../../Decapodiformes.md))
+    -  [Coleoidea](../../../../../Coleoidea.md))
+    -  [Cephalopoda](../../../../../../Cephalopoda.md))
+    -  [Mollusca](../../../../../../../Mollusca.md))
+    -  [Bilateria](../../../../../../../../Bilateria.md))
+    -  [Animals](../../../../../../../../../Animals.md))
+    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Magnapinna
+    -   [Magnapinna atlantica](Magnapinna_atlantica)
+    -   [Magnapinna sp. B](Magnapinna_sp._B)
+    -   Magnapinna sp. C
+    -   [Magnapinna pacifica](Magnapinna_pacifica)
+    -   [Magnapinna talismani](Magnapinna_talismani)
+
+-   » Sub-Groups 
+
 ### References
 
 Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
@@ -91,7 +91,7 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
 
 ## Title Illustrations
 
-![](C/bmsquid7.jpg))
+![](Magnapinna_C/bmsquid7.jpg))
 
   ----------
   Scientific Name ::     Magnapinna sp. C
@@ -102,7 +102,7 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
   Size                 79 mm ML
   Copyright ::            © Wen-Sung Chung
   ----------
-![](C/HardysSquid1.gif))
+![](Magnapinna_C/HardysSquid1.gif))
 
   ------------------------------------------
   Scientific Name ::     Magnapinna sp. C
@@ -110,12 +110,12 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
   Reference            Hardy, A. 1956. The Open Sea. Fisher, J., J. Gilmour, J. Huxley, M. Davies, and E. Hosking, Eds., Collins, London, 1956.
   Specimen Condition   Dead Specimen
   View                 Dorsal
-  ------------------------------------------
+  ------------------------------------------
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [C](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/C.md) 
+### #is_/same_as :: [Magnapinna_C](Magnapinna_C.md) 
 
 ### #is_/same_as :: [C.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/C.public.md) 
 

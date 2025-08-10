@@ -2,32 +2,8 @@
 title: "Magnapinna atlantica"
 ---
 
-## Phylogeny 
-
--   « Ancestral Groups  
-    -   [Magnapinna](Magnapinna)
-    -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Magnapinna
-    -   Magnapinna atlantica
-    -   [Magnapinna sp. B](Magnapinna_sp._B)
-    -   [Magnapinna sp. C](Magnapinna_sp._C)
-    -   [Magnapinna pacifica](Magnapinna_pacifica)
-    -   [Magnapinna talismani](Magnapinna_talismani)
-
--   » Sub-Groups 
-
 # *Magnapinna atlantica* [Vecchione and Young 2006] 
-![ ](atlantica/MagnpinnaSpA.jpg))
+![ ](Magnapinna_atlantica/MagnpinnaSpA.jpg))
 
 Containing group:[Magnapinnidae](../Magnapinnidae.md))
 
@@ -106,7 +82,7 @@ specimen assigned to ***M. talismani*** (see the ***M. talismani*** page
 on the ToL)  has proximal tentacles in in fairly good condition and they
 show no trace of glandular regions. The absence could be size related
 but this seems unlikely. 
-![ ](atlantica/MagnapinnaSpNMagTalis.jpg)){width="457"}
+![ ](Magnapinna_atlantica/MagnapinnaSpNMagTalis.jpg)){width="457"}
 
 **Figure**. Oral-oblique views of the buccal region of the holotypes of
 ***Magnapinna atlantica*** (left) and ***M. talismani*** (right).
@@ -123,6 +99,30 @@ R/S ALVIN from the N.W. Gulf of Mexico (26°10\'51\"N, 94°37\'22\"W) at a
 depth of 2739 m. The adult male was taken by theR/V R.S. CARNEY from the
 N.W. Gulf of Mexico (26°05\'00\"N, 94°36\'30\"W) in a beam trawl that
 fished at a depth of 2928-2849 m in May of 2006.\
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Magnapinna](Magnapinna)
+    -   [Chiroteuthid families](Chiroteuthid_families)
+    -  [Oegopsida](../../../Oegopsida.md))
+    -  [Decapodiformes](../../../../Decapodiformes.md))
+    -  [Coleoidea](../../../../../Coleoidea.md))
+    -  [Cephalopoda](../../../../../../Cephalopoda.md))
+    -  [Mollusca](../../../../../../../Mollusca.md))
+    -  [Bilateria](../../../../../../../../Bilateria.md))
+    -  [Animals](../../../../../../../../../Animals.md))
+    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Magnapinna
+    -   Magnapinna atlantica
+    -   [Magnapinna sp. B](Magnapinna_sp._B)
+    -   [Magnapinna sp. C](Magnapinna_sp._C)
+    -   [Magnapinna pacifica](Magnapinna_pacifica)
+    -   [Magnapinna talismani](Magnapinna_talismani)
+
+-   » Sub-Groups 
 
 ##### ### References
 
@@ -143,7 +143,7 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
 
 ## Title Illustrations
 
-![](atlantica/MagnpinnaSpA.jpg))
+![](Magnapinna_atlantica/MagnpinnaSpA.jpg))
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Magnapinna atlantica
@@ -155,12 +155,13 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
   Size                 59 mm ML
   Type                 Holotype
   Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------
+
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [atlantica](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/atlantica.md) 
+### #is_/same_as :: [Magnapinna_atlantica](Magnapinna_atlantica.md) 
 
 ### #is_/same_as :: [atlantica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/atlantica.public.md) 
 

@@ -2,36 +2,13 @@
 title: "Promachoteuthis sp. B"
 ---
 
-## Phylogeny 
-
--   « Ancestral Groups  
-    -   [Promachoteuthis](Promachoteuthis)
-    -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Promachoteuthis
-    -   [Promachoteuthis         megaptera](Promachoteuthis_megaptera)
-    -   [Promachoteuthis sloani](Promachoteuthis_sloani)
-    -   Promachoteuthis sp. B
-    -   [Promachoteuthis sulcus](Promachoteuthis_sulcus)
-    -   [Promachoteuthis sp. D](Promachoteuthis_sp._D)
-
--   » Sub-Groups 
-
+## [[Promachoteuthis_B]] 
 # *Promachoteuthis sp. B* 
 
 [Richard E. Young and Michael Vecchione]()
 
-![ ](B/PromachSpBDors.jpg)
-![ ](B/Promach1Vent.jpg)
+![ ](Promachoteuthis_B/PromachSpBDors.jpg)
+![ ](Promachoteuthis_B/Promach1Vent.jpg)
 
 Containing group:[Promachoteuthidae](../Promachoteuthidae.md))
 
@@ -72,7 +49,7 @@ A promachoteuthid\...
 
     5.  No dark pigment band near base; stalk lightly pigmented.
 
-       ![ ](B/PromachSpBNucFus.jpg))
+       ![ ](Promachoteuthis_B/PromachSpBNucFus.jpg))
 
         **Figure**. Side view of ***Promachoteuthis*** sp. B showing
         nuchal fusion, 17 mm ML. Drawing from Roper and Young (1968).
@@ -89,7 +66,7 @@ The above discription is taken from Roper and Young (1968). [More details of the
 
 The smallest known specimen (see drawing) is 10.5 mm ML and looks much
 like the larger specimen except that the fins are relatively smaller.
-![ ](B/PromachSmall.jpg))
+![ ](Promachoteuthis_B/PromachSmall.jpg))
 
 **Figure**. Ventral view of ***Promachoteuthis.*** sp. B, 10.5 mm ML.
 Drawing from Roper and Young (1968).
@@ -108,6 +85,30 @@ and Guerrero-Kommritz (2000) from the western North Atlantic at
 42°44\'N, 13°29.W (depth not given). If these are all correct
 identifications, this species has the broadest distribution of any
 species in the genus.
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Promachoteuthis](Promachoteuthis)
+    -   [Chiroteuthid families](Chiroteuthid_families)
+    -  [Oegopsida](../../../Oegopsida.md))
+    -  [Decapodiformes](../../../../Decapodiformes.md))
+    -  [Coleoidea](../../../../../Coleoidea.md))
+    -  [Cephalopoda](../../../../../../Cephalopoda.md))
+    -  [Mollusca](../../../../../../../Mollusca.md))
+    -  [Bilateria](../../../../../../../../Bilateria.md))
+    -  [Animals](../../../../../../../../../Animals.md))
+    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Promachoteuthis
+    -   [Promachoteuthis         megaptera](Promachoteuthis_megaptera)
+    -   [Promachoteuthis sloani](Promachoteuthis_sloani)
+    -   Promachoteuthis sp. B
+    -   [Promachoteuthis sulcus](Promachoteuthis_sulcus)
+    -   [Promachoteuthis sp. D](Promachoteuthis_sp._D)
+
+-   » Sub-Groups 
 
 ### References
 
@@ -129,7 +130,7 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
 
 ## Title Illustrations
 
-![](B/PromachSpBDors.jpg))
+![](Promachoteuthis_B/PromachSpBDors.jpg))
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Promachoteuthis sp. B
@@ -138,7 +139,7 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
   Size              17 mm ML
   Copyright ::         © 1968 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
   -----------------------------------------------------------------------------
-![](B/Promach1Vent.jpg))
+![](Promachoteuthis_B/Promach1Vent.jpg))
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Promachoteuthis sp. B
@@ -146,12 +147,13 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
   View              Ventral
   Size              17 mm ML
   Copyright ::         © 1968 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
-  -----------------------------------------------------------------------------
+  -----------------------------------------------------------------------------
+
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [B](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/B.md) 
+### #is_/same_as :: [Promachoteuthis_B](Promachoteuthis_B.md) 
 
 ### #is_/same_as :: [B.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/B.public.md) 
 
