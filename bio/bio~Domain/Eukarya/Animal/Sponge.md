@@ -8,6 +8,9 @@ title: Porifera
 
 # [[Sponge]] 
 
+#is_a/bio-Phylum  
+#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+
 Sponges 
 
 ![ ](Sponge/haliclona.gif) ![ ](Sponge/microciona.gif) 

@@ -2,24 +2,10 @@
 title: Ancyromonas
 ---
 
-## Phylogeny 
+# [[Ancyromonas]] 
 
--   « Ancestral Groups  
-    -   [The other protists](The_other_protists)
-    -  [Eukarya](../../Eukarya.md))
-    -   [Tree of Life](../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  The other protists
-    -   Ancyromonas
-    -   [Luffisphaera](Luffisphaera.md)
-    -   [Apusomonads](Apusomonads.md)
-    -   [Chlorarachniophytes](Chlorarachniophytes.md)
-
--   » Sub-Groups
-    -   [Ancyromonas sigmoides](Ancyromonas_sigmoides)
-    -   [Ancyromonas melba](Ancyromonas_melba)
-
-# *Ancyromonas* [Kent 1880] 
+#has_/creator :: Kent 
+#has_/time_/started ::  1880-06 
 
 [David J. Patterson](http://www.tolweb.org/)
 
@@ -67,6 +53,23 @@ site at which the anterior flagellum inserts.
 Phylogenetic relationships among the species in this genus have not yet
 been investigated.
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [The other protists](The_other_protists)
+    -  [Eukarya](../../Eukarya.md))
+    -   [Tree of Life](../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  The other protists
+    -   Ancyromonas
+    -   [Luffisphaera](Luffisphaera.md)
+    -   [Apusomonads](Apusomonads.md)
+    -   [Chlorarachniophytes](Chlorarachniophytes.md)
+
+-   » Sub-Groups
+    -   [Ancyromonas sigmoides](Ancyromonas_sigmoides)
+    -   [Ancyromonas melba](Ancyromonas_melba)
+
 ### References
 
 Atkins, M. S., A. G. McArthur, and A. P. Teske. 2000. Ancyromonadida: a
@@ -93,7 +96,8 @@ European Journal of Protistology 32:423-448.
   Scientific Name ::  Ancyromonas sigmoides
   Comments          Scanning electron micrograph
   Copyright ::         © 2000 Michael S. Atkins and O. Roger Anderson
-  ------------------
+  ------------------
+
 
 
 ## Confidential Links & Embeds: 

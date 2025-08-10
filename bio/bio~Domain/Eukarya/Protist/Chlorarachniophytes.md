@@ -2,22 +2,10 @@
 title: Chlorarachniophytes
 ---
 
-## Phylogeny 
+# [[Chlorarachniophytes]] 
 
--   « Ancestral Groups  
-    -   [The other protists](The_other_protists)
-    -  [Eukarya](../../Eukarya.md))
-    -   [Tree of Life](../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  The other protists
-    -   [Ancyromonas](Ancyromonas.md)
-    -   [Luffisphaera](Luffisphaera.md)
-    -   [Apusomonads](Apusomonads.md)
-    -   Chlorarachniophytes
-
--   » Sub-Groups 
-
-# Chlorarachniophytes 
+#is_a/bio-Phylum  
+#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
 
 [Ken-ichiro Ishida and Geoff I. McFadden](http://www.tolweb.org/)
 
@@ -265,6 +253,21 @@ stellata* may be closely related to *L. amoeboformis* (Ishida et al.
 *Cryptochlora perforans* is not clear, because neither molecular nor
 ultrastructural data are yet available.
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [The other protists](The_other_protists)
+    -  [Eukarya](../../Eukarya.md))
+    -   [Tree of Life](../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  The other protists
+    -   [Ancyromonas](Ancyromonas.md)
+    -   [Luffisphaera](Luffisphaera.md)
+    -   [Apusomonads](Apusomonads.md)
+    -   Chlorarachniophytes
+
+-   » Sub-Groups 
+
 ### References
 
 **Review Articles**
@@ -411,7 +414,8 @@ variation in 18S rRNA. J. Mol. Evol. 45:619-630.
   Scientific Name ::  Gymnochlora stellata
   Comments          Fluorescent micrograph of a cell stained with DAPI, showing chloroplasts (red autofluorescences), a nuclear DNA (a big blue-white sphare) and probable nucleomorph DNAs (small blue-white dots).
   Copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
-  -----------------------------------------------------------------------------
+  -----------------------------------------------------------------------------
+
 
 
 ## Confidential Links & Embeds: 

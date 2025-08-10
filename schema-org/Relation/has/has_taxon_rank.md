@@ -37,9 +37,9 @@ typically the ranks from TDWG TaxonRank ontology
 or equivalent Wikidata URIs.
 
 Relation describes that: 
-[ #has_/domain  :: Taxon ]
-( #has_/name :: is_taxon_rank )
-( #has_/range :: PropertyValue, Text, URL )
+ #has_/domain  :: [[../../../bio/Taxon_Rank/Taxon|Taxon]]  
+( #has_/name :: has_taxon_rank )
+( #has_/range :: [[../../../bio/Taxon_Rank|Taxon_Rank]] )
 
 
 ## Confidential Links & Embeds: 

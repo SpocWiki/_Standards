@@ -5,6 +5,10 @@ has_id_wikidata: Q174698
 
 # [[Basidiomycota]]
 
+#is_a/bio-Phylum  
+#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+
+
 ![](Basidiomycota/Gymnosporangium.jpg)![](Basidiomycota/Tilletia_controversa.jpg))![](Basidiomycota/Amanita_rubrovaginata.jpg))
 
 

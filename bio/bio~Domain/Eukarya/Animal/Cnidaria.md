@@ -4,6 +4,9 @@ title: Cnidaria
 
 # [[Cnidaria]]
 
+#is_a/bio-Phylum  
+#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+
 Sea anemones, corals, jellyfish, sea pens, hydra 
 
 ![ ](Cnidaria/Heteractis_malu.jpg) ![ ](Cnidaria/Aglantha_digitale.gif) 

@@ -10,6 +10,10 @@ title: "The other protists"
 
 # Other protists 
 
+#is_a/bio-Kingdom 
+#is_a :: [[../../Taxon_Rank/bio-Kingdom|bio-Kingdom]]  
+
+
 ![Entosiphon sulcatum](Protist/Entosiphon_Sulcatum.jpg)  ![Myxomycetes Slime](Protist/slime(Myxomycetes).jpg) 
 
 ## #has_/text_of_/abstract 

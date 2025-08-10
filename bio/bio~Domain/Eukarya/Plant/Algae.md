@@ -34,11 +34,28 @@ taxon_name: Algae
 
 # [[Algae]] 
 
+#is_a/bio-Phylum  
+#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+
+
 #is_/same_as :: [[../../../../WikiData/WD~Algae,37868]] 
 
 ## #has_/text_of_/abstract 
 
-> **Algae** (UK:  AL-ghee, US:  AL-jee; sg.: alga  AL-gə) is an informal term for any organisms of a large and diverse group of photosynthetic eukaryotes, which include species from multiple distinct clades. Such organisms range from unicellular microalgae such as Chlorella, Prototheca and the diatoms, to multicellular macroalgae such as the giant kelp, a large brown alga which may grow up to 50 metres (160 ft) in length. Most algae are aquatic organisms and lack many of the distinct cell and tissue types, such as stomata, xylem and phloem that are found in land plants. The largest and most complex marine algae are called seaweeds. In contrast, the most complex freshwater forms are the Charophyta, a division of green algae which includes, for example, Spirogyra and stoneworts. Algae that are carried passively by water are plankton, specifically phytoplankton.
+> **Algae** (UK:  AL-ghee, US:  AL-jee; sg.: alga  AL-gə) is an informal term for 
+> any organisms of a large and diverse group of photosynthetic eukaryotes, 
+> which include species from multiple distinct clades. 
+> 
+> Such organisms range from unicellular microalgae such as Chlorella, Prototheca and the diatoms, 
+> to multicellular macroalgae such as the giant kelp, a large brown alga 
+> which may grow up to 50 metres (160 ft) in length. 
+> 
+> Most algae are aquatic organisms and lack many of the distinct cell and tissue types, 
+> such as stomata, xylem and phloem that are found in land plants. 
+> The largest and most complex marine algae are called seaweeds. 
+> In contrast, the most complex freshwater forms are the Charophyta, 
+> a division of green algae which includes, for example, Spirogyra and stoneworts. 
+> Algae that are carried passively by water are plankton, specifically phytoplankton.
 >
 > Algae constitute a polyphyletic group since they do not include a common ancestor, and although their chlorophyll-bearing plastids seem to have a single origin (from symbiogenesis with cyanobacteria), they were acquired in different ways. Green algae are a prominent example of algae that have primary chloroplasts derived from endosymbiont cyanobacteria. Diatoms and brown algae are examples of algae with secondary chloroplasts derived from endosymbiotic red algae, which they acquired via phagocytosis. Algae exhibit a wide range of reproductive strategies, from simple asexual cell division to complex forms of sexual reproduction via spores.
 >

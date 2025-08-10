@@ -24,7 +24,7 @@ title: has_star-rating
 type: Predi_Quantity
 ---
 
-[[../../Predicate|Predicate]] to describe the relative Quality of a [[../../../Society/Organization/Local_Business/food_establishment|FoodEstablishment]], [[../../../Society/Organization/Local_Business/lodging_business|LodgingBusiness]]  etc.
+[[../../Predicate|Predicate]] to describe the relative Quality of a [[../../../Society/Agent/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]], [[../../../Society/Agent/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]]  etc.
 
 #is_/similar_to :: [[../has_value_for/has_value_for_rating|has_value_for_rating]] 
 
@@ -46,11 +46,11 @@ Use it like this:
 
 An official rating for a lodging business or food establishment, e.g. from national associations or standards bodies. 
 
-Use the [[../../Relation/has/has_author|has_author]] property to indicate the rating [[../../Class/is_a_/Agent|Agent]], [[../../Class/is_a_/person|Person]] or [[../../../Society/Organization|Organization]], 
+Use the [[../../Relation/has/has_author|has_author]] property to indicate the rating [[../../../Society/Agent|Agent]], [[../../../Society/Agent/Person|Person]] or [[../../../Society/Agent/Organization|Organization]], 
 e.g. as an Organization with name such as (e.g. HOTREC, DEHOGA, WHR, or Hotelstars).
 
 Predicate describes that: 
-[ #has_/domain  :: [ [[../../../Society/Organization/Local_Business/food_establishment|FoodEstablishment]], [[../../../Society/Organization/Local_Business/lodging_business|LodgingBusiness]] ] ]
+[ #has_/domain  :: [ [[../../../Society/Agent/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]], [[../../../Society/Agent/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]] ] ]
 ( #has_/name :: has_number_of_stars_rating )
 ( #has_/range :: [[../../Class/is_a_/Intangible/rating|Rating]] )
 

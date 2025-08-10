@@ -8,6 +8,9 @@ title: Embryophytes
 
 # [[Land_Plant]]
 
+#is_a/bio-Phylum  
+#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+
 
 ![ ](Land_Plant/Rosa_canina.jpg) ![](Land_Plant/Asplenium_australasicum.jpg) 
 

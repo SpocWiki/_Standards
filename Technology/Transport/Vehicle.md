@@ -31,7 +31,7 @@ Tag Instances like this:
 
 A vehicle is a device that is designed or used to transport people or cargo over land, water, air, or through space.
 
-[ #is_/sub_class_of :: [[../../schema-org/Class/is_a_/product]] ]
+[ #is_/sub_class_of :: [[../../Society/Agent/Organization/Business/Product]] ]
 
 [ #has_/sub_classes :: [ BusOrCoach, Car, Motorcycle, MotorizedBicycle ] ]
 

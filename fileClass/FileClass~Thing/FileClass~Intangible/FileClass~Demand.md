@@ -322,7 +322,7 @@ The GTIN-8 code of the product, or the product to which the offer refers. This c
 Gtin8:: {"type":"Input","options":{}}
 
 ### IncludesObject
-This links to a node or nodes indicating the exact quantity of the products included in  an [[Offer]] or [[ProductCollection]].
+This links to a node or nodes indicating the exact quantity of the products included in  an [[../../../Society/Agent/Organization/Business/Offer]] or [[ProductCollection]].
 
 IncludesObject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/TypeAndQuantityNode')"}}
 

@@ -26,6 +26,10 @@ title: "is_an_action Class"
 type: Type
 ---
 
+# [[Action]] 
+
+#is_/similar_to :: [[Activity]]  
+
 Class of all actions.
 #class/Action
 

@@ -21,7 +21,7 @@ version: 2.0
 # OfferForPurchase
 This is a kind of [[FileClass~Offer]]
 
-An [[OfferForPurchase]] in Schema.org represents an [[Offer]] to sell something, i.e. an [[Offer]] whose  
+An [[OfferForPurchase]] in Schema.org represents an [[../../../../Society/Agent/Organization/Business/Offer]] to sell something, i.e. an [[../../../../Society/Agent/Organization/Business/Offer]] whose  
  [[businessFunction]] is [sell](http://purl.org/goodrelations/v1#Sell.). See [Good Relations](https://en.wikipedia.org/wiki/GoodRelations) for  
  background on the underlying concepts.
 

@@ -83,6 +83,9 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Was%20sind%20Viren%20
 
 # [[Virus]] 
 
+#is_a/bio-Domain 
+#is_a :: [[../bio~Domain|bio~Domain]] 
+
 Class of all viruses.
 
 Tag Instances like this: 

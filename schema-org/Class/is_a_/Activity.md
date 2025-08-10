@@ -5,6 +5,10 @@ aliases:
 - "schema:Activity"
 ---
 
+# [[Activity]] 
+
+#is_/similar_to :: [[Action]] 
+
 Class of Activities, i.e. Processes that happened (in the past).
 This Description can either be 
 - concrete, i.e. concerning actual (usually physical) Instances of Objects 

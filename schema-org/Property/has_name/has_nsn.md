@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/text_of_/nsn :: Text ] or 
 - [ has_text_of_nsn :: Text ] 
 
-Indicates the [NATO stock number](https://en.wikipedia.org/wiki/NATO_Stock_Number) (nsn) of a [[Product]].
+Indicates the [NATO stock number](https://en.wikipedia.org/wiki/NATO_Stock_Number) (nsn) of a [[../../../Society/Agent/Organization/Business/Product]].
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]

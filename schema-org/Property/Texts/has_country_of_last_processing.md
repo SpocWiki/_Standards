@@ -35,7 +35,7 @@ Use it like this:
 - [ #has_/text_of_/country_of_last_processing :: Text ] or 
 - [ has_text_of_country_of_last_processing :: Text ] 
 
-The place where the item (typically [[Product]]) was last processed and tested before importation.
+The place where the item (typically [[../../../Society/Agent/Organization/Business/Product]]) was last processed and tested before importation.
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]

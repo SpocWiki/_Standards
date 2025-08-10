@@ -7,6 +7,10 @@ title: Euryarchaeota
 
 # [[Methanobacteriota]] 
 
+
+#is_a/bio-Phylum  
+#is_a :: [[bio-Phylum]]  
+
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Domain
   - dominion
   - superkingdom
   - realm
@@ -19,11 +20,16 @@ Commons_category: Domains (biology)
 
 # [[bio~Domain]] 
 
+#has_/time_/started : 1990-06 
+
+#is_a_/taxon_rank  
+#is_a_ :: [[Taxon_Rank]] 
+
+#has_/next_/item ::[[Taxon_Rank/bio-Kingdom]]] 
+
 Top-Level Distinction of [[Life]], rooted at the [[LUCA(Last_Universal_Common_Ancestor)]] . 
 
-#has_/time_/started : 1990-06 
 #is_/same_as :: [[../WikiData/WD~Domain,146481]] 
-#has_/next_/item ::[[bio~Domain/Eukarya/bio~Kingdom]]] 
 
 ## #has_/text_of_/abstract 
 

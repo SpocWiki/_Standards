@@ -96,6 +96,10 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Brown%20bear%20fishin
 
 #is_/subject_of ::  [[../../Zoology|Zoology]] 
 
+#is_a/bio-Kingdom 
+#is_a :: [[../../Taxon_Rank/bio-Kingdom|bio-Kingdom]]  
+
+
 ![Grasshopper](Animal/grasshopper.gif) ![](Animal/1618ctenophore.jpg) ![](Animal/haliclona.jpg) ![](Animal/haliplanella.gif) 
 
 Animalia and their sibling groups within the domain Eukaryota share a common ancestry.

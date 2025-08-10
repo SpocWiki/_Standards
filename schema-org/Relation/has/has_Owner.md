@@ -6,7 +6,7 @@ Use it like this:
 Relation describes [[../../../../Knowledge/Business/Business-Entity/Ownership|Ownership]] from the Side of the [[../../Property|Property]]: 
 [ #has_/domain  :: [[../../Property|Property]] ]
 ( #has_/name :: [[has_Owner]] )
-( #has_/range :: [[../../Class/is_a_/Agent|Agent]] )
+( #has_/range :: [[../../../Society/Agent|Agent]] )
 
 #is_/inverse_of :: [[has_own]] 
 

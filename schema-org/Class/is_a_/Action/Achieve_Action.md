@@ -24,12 +24,15 @@ title: "is_an_achieve_action Class"
 type: Type
 ---
 
+# [[Achieve_Action]] 
+
 Class of all achieve_actions.
 
 Tag Instances like this: 
 #is_an_/achieve_action
 
-The act of accomplishing something via previous efforts. It is an instantaneous action rather than an ongoing process.
+The act of accomplishing something via previous efforts. 
+It is an instantaneous action rather than an ongoing process.
 
 [ #is_/sub_class_of :: [[../Action]] ]
 

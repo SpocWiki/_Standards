@@ -11,6 +11,9 @@ title: "Green plants"
 
 # [[Plant]] 
 
+#is_a/bio-Kingdom 
+#is_a :: [[../../Taxon_Rank/bio-Kingdom|bio-Kingdom]]  
+
 #is_/subject_of ::  [[../../Botany|Botany]]
 
 ![Chlamydomonas](Plant/chlamydomonas.gif)  ![Spirogyra](Plant/spirogyra.gif)  ![Coleochaete](Plant/coleochaete.gif)  ![Hepatica](Plant/hepatican_arrow.gif) 
@@ -24,7 +27,7 @@ The scientific study of plants is known as [[../../Botany|botany]], a branch of 
 
 > **Plant**s are the [[../Eukarya|eukaryotes]] that form the kingdom Plantae; they are predominantly photosynthetic. 
 > This means that they obtain their energy from sunlight, 
-> using chloroplasts derived from [[../../Metabolism/Symbiosis|endosymbiosis]] with [[../Bacteria/Cyanobacteria|cyanobacteria]] 
+> using chloroplasts derived from [[../../Metabolism/Symbiosis|endosymbiosis]] with [[../Bacteria/Bacillati/Cyanobacteria|cyanobacteria]] 
 > to produce sugars from carbon dioxide and water, using the green pigment chlorophyll. 
 > 
 > Exceptions are parasitic plants that have lost the genes for chlorophyll and photosynthesis, 

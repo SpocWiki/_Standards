@@ -24,6 +24,8 @@ title: "is_a_molecular_entity Class"
 type: Type
 ---
 
+# [[Molecular_Entity]] 
+
 Class of all molecular_entitys.
 
 Tag Instances like this: 
@@ -31,11 +33,13 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity.
+Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., 
+identifiable as a separately distinguishable entity.
 
 [ #is_/sub_class_of :: [[../bio_chem_entity]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, inChI, inChIKey, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, iupacName, mainEntityOfPage, molecularFormula, molecularWeight, monoisotopicMolecularWeight, name, potentialAction, potentialUse, sameAs, smiles, subjectOf, taxonomicRange, url ] ]
+
 
 
 ## Confidential Links & Embeds: 

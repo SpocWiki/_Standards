@@ -23,9 +23,9 @@ This is a kind of [[FileClass~LocalBusiness]]
 
 Original definition: "provider of professional services."
 
-The general [[ProfessionalService]] type for local businesses was deprecated due to confusion with [[Service]]. For reference, the types that it included were: [[../../../../Society/Organization/Local_Business/dentist]],  
- [[AccountingService]], [[../../../../Society/Organization/Local_Business/legal_service/attorney]], [[../../../../Society/Organization/Local_Business/legal_service/notary]], as well as types for several kinds of [[HomeAndConstructionBusiness]]: [[../../../../Society/Organization/Local_Business/home_and_construction_business/electrician]], [[GeneralContractor]],  
- [[HousePainter]], [[../../../../Society/Organization/Local_Business/home_and_construction_business/locksmith]], [[../../../../Society/Organization/Local_Business/home_and_construction_business/plumber]], [[RoofingContractor]]. [[LegalService]] was introduced as a more inclusive supertype of [[../../../../Society/Organization/Local_Business/legal_service/attorney]].
+The general [[ProfessionalService]] type for local businesses was deprecated due to confusion with [[../../../../Society/Agent/Organization/Business/Service]]. For reference, the types that it included were: [[../../../../Society/Agent/Organization/Business/Local_Business/Dentist]],  
+ [[AccountingService]], [[../../../../Society/Agent/Organization/Business/Local_Business/Legal_Service/Attorney]], [[../../../../Society/Agent/Organization/Business/Local_Business/Legal_Service/Notary]], as well as types for several kinds of [[HomeAndConstructionBusiness]]: [[../../../../Society/Agent/Organization/Business/Local_Business/Home_and_Construction_Business/Electrician]], [[GeneralContractor]],  
+ [[HousePainter]], [[../../../../Society/Agent/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith]], [[../../../../Society/Agent/Organization/Business/Local_Business/Home_and_Construction_Business/Plumber]], [[RoofingContractor]]. [[LegalService]] was introduced as a more inclusive supertype of [[../../../../Society/Agent/Organization/Business/Local_Business/Legal_Service/Attorney]].
 
 
 ## Use one of these Tags for Objects of this Type:

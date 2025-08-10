@@ -21,7 +21,7 @@ version: 2.0
 # Consortium
 This is a kind of [[FileClass~Organization]]
 
-A Consortium is a membership [[../../../Society/Organization]] whose members are typically Organizations.
+A Consortium is a membership [[../../../Society/Agent/Organization]] whose members are typically Organizations.
 
 
 ## Use one of these Tags for Objects of this Type:

@@ -26,16 +26,16 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/employees :: [[Person]] ] or 
-- [ has_employees :: [[Person]] ] 
+- [ #has_/employees :: [[../../../Society/Agent/Person]] ] or 
+- [ has_employees :: [[../../../Society/Agent/Person]] ] 
 
 People working for this organization.
 Rather use [[has_employer]]! 
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Society/Organization]] ]
+[ #has_/domain  :: [[../../../Society/Agent/Organization]] ]
 ( #has_/name :: has_employees )
-( #has_/range :: [[Person]] )
+( #has_/range :: [[../../../Society/Agent/Person]] )
 
 #is_/inverse_of :: [[has_employer]] 
 

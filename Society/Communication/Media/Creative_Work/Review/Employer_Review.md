@@ -31,7 +31,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-An [[EmployerReview]] is a review of an [[../../../../../Society/Organization]] regarding its role as an employer, written by a current or former employee of that organization.
+An [[EmployerReview]] is a review of an [[../../../../Agent/Organization]] regarding its role as an employer, written by a current or former employee of that organization.
 
 [ #is_/sub_class_of :: [[../Review]] ]
 

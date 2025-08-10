@@ -2,23 +2,10 @@
 title: Glomeromycota
 ---
 
-## Phylogeny 
+# [[Glomeromycota]]
 
--   « Ancestral Groups  
-    -  [Fungi](../Fungi.md))
-    -  [Eukarya](../../Eukarya.md))
-    -   [Tree of Life](../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Fungi
-    -  [Basidiomycota](Basidiomycota.md))
-    -  [Ascomycota](Ascomycota.md))
-    -   Glomeromycota
-    -   [Chytridiomycota](Chytridiomycota)
-    -  [Zygomycota](Zygomycota.md))
-
--   » Sub-Groups 
-
-# Glomeromycota
+#is_a/bio-Phylum  
+#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
 
 ## Arbuscular mycorrhizal fungi and their relative(s) 
 
@@ -340,6 +327,22 @@ lineages of land plants. Although this symbiosis apparently was lost or
 replaced by other mycorrhizae several times during the evolution of
 terrestrial plant life, it represents the archetypal mycorrhiza.
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -  [Fungi](../Fungi.md))
+    -  [Eukarya](../../Eukarya.md))
+    -   [Tree of Life](../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Fungi
+    -  [Basidiomycota](Basidiomycota.md))
+    -  [Ascomycota](Ascomycota.md))
+    -   Glomeromycota
+    -   [Chytridiomycota](Chytridiomycota)
+    -  [Zygomycota](Zygomycota.md))
+
+-   » Sub-Groups 
+
 ### References
 
 Becard, G., Pfeffer, P.E., 1993. Status of Nuclear Division in
@@ -524,7 +527,8 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
   Comments          Roots of Plantago media (plantain) colonized with Glomus clarum. Note the hyphae and spores on the roots.
   Size              Diameter of larger spores is approximately 200 µm
   Copyright ::         © [Dirk Redecker](http://www.unibas.ch/bothebel/people/redecker/redecker.htm) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
+
 
 
 ## Confidential Links & Embeds: 

@@ -129,12 +129,12 @@ collectiondate - Date for which patient counts are reported.
 CvdCollectionDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 ### CvdFacilityCounty
-Name of the County of the NHSN facility that this data record applies to. Use [[cvdFacilityId]] to identify the facility. To provide other details, [[healthcareReportingData]] can be used on a [[../../../../Society/Organization/Local_Business/Emergency_Service/hospital]] entry.
+Name of the County of the NHSN facility that this data record applies to. Use [[cvdFacilityId]] to identify the facility. To provide other details, [[healthcareReportingData]] can be used on a [[../../../../Society/Agent/Organization/Business/Local_Business/Emergency_Service/Hospital]] entry.
 
 CvdFacilityCounty:: {"type":"Input","options":{}}
 
 ### CvdFacilityId
-Identifier of the NHSN facility that this data record applies to. Use [[cvdFacilityCounty]] to indicate the county. To provide other details, [[healthcareReportingData]] can be used on a [[../../../../Society/Organization/Local_Business/Emergency_Service/hospital]] entry.
+Identifier of the NHSN facility that this data record applies to. Use [[cvdFacilityCounty]] to indicate the county. To provide other details, [[healthcareReportingData]] can be used on a [[../../../../Society/Agent/Organization/Business/Local_Business/Emergency_Service/Hospital]] entry.
 
 CvdFacilityId:: {"type":"Input","options":{}}
 
