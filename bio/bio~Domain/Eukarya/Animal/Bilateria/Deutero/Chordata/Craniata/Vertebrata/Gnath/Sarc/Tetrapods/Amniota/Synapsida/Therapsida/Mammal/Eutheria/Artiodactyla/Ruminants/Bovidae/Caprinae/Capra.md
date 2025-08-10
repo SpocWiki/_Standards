@@ -1,6 +1,59 @@
 ---
 title: Capra
+aliases:
+  - Capra
+  - Goat
+has_id_wikidata: Q172923
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[_Standards/WikiData/WD~Capra,12786688]]"
+parent_taxon: "[[_Standards/WikiData/WD~Caprini,19806047]]"
+start_time: -2600000-01-01T00:00:00Z
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+ITIS_TSN: "180714"
+OmegaWiki_Defined_Meaning: "1033135"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-Ziegen.wav
+taxon_author_citation: Linnaeus, 1758
+Commons_gallery: Capra
+Commons_category: Capra
+taxon_name: Capra
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bouquetin01.jpg
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Capra%20range%20map2.jpg
+EPPO_Code: 1CAPAG
+P8189: "987007283348305171"
+Krugosvet_article: nauka_i_tehnika/biologiya/KOZLI.html
+NBN_System_Key: NHMSYS0000376187
 ---
+
+# [[Capra]] 
+
+![[Capra/Goat/Goat.jpg]]  
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Capra,172923|WD~Capra,172923]] 
+## #has_/text_of_/abstract 
+
+> **Capra** is a genus of mammals, the goats, comprising ten species, 
+> including the markhor and several species known as ibexes. 
+> 
+> The domestic goat (Capra hircus) is a domesticated species derived from the bezoar ibex 
+> (Capra aegagrus aegagrus). 
+> It is one of the oldest domesticated species of animal—according to archaeological evidence 
+> its earliest domestication occurred in Iran at 10,000 calibrated calendar years ago.
+>
+> Wild goats are animals of mountain habitats. 
+> They are very agile and hardy, able to climb on bare rock and survive on sparse vegetation. 
+> They can be distinguished from the genus Ovis, which includes sheep, 
+> by the presence of scent glands close to the feet, in the groin, and in front of the eyes, 
+> and the absence of other facial glands, 
+> and by the presence of a beard in some specimens, 
+> and of hairless calluses on the knees of the forelegs.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Capra%20(genus))
 
 ## Phylogeny 
 
@@ -43,7 +96,7 @@ title: Capra
 
 # *Capra* 
 
-![ ](Capra/k8595-9.jpg)
+![ ](Capra/Goat/Goat.jpg)
 
 -   *Capra caucasica* [(West Caucasian tur)]
 -   *Capra cylindricornis* [(East Caucasian tur)]
@@ -75,7 +128,7 @@ and Evolution 40(3):739-749.
 
 ## Title Illustrations
 
-![](Capra/k8595-9.jpg))
+![](Capra/Goat/Goat.jpg))
 
   ---------------------------
   Scientific Name ::     Capra hircus
@@ -87,7 +140,7 @@ and Evolution 40(3):739-749.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capra](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Capra.md) 
+### #is_/same_as :: [Capra](Capra.md) 
 
 ### #is_/same_as :: [Capra.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Capra.public.md) 
 

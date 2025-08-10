@@ -5,6 +5,30 @@ has_id_wikidata: Q7368
 title: Ovis
 ---
 
+# *Ovis* 
+
+[[Ovis/Ovis_canadensis.jpg]]
+
+-   *Ovis ammon* [(argali)]
+-   *[Ovis aries](Ovis_aries)* [(mouflon,
+    feral sheep)]
+-   *Ovis canadensis* [(bighorn sheep)]
+-   *Ovis dalli* [(dall sheep, Dall\'s sheep, Fannin\'s sheep, Stone\'s
+    sheep)]
+-   *Ovis nivicola* [(snow sheep)]
+-   *Ovis vignei* [(urial)]
+
+Containing group: [Caprinae](../Caprinae.md)
+
+
+
+## #has_/text_of_/abstract 
+
+> **Ovis** is a genus of mammals, part of the Caprinae subfamily of the ruminant family Bovidae. Its seven highly sociable species are known as sheep or ovines. Domestic sheep are members of the genus, and are thought to be descended from the wild mouflon of central and southwest Asia.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Ovis) 
+
+
 ## Phylogeny 
 
 -   « Ancestral Groups  
@@ -44,30 +68,6 @@ title: Ovis
 
 -   » Sub-Groups
     -   [Ovis aries](Ovis_aries)
-
-# *Ovis* 
-
-![ ](Ovis_canadensis1374192.jpg)
-
--   *Ovis ammon* [(argali)]
--   *[Ovis aries](Ovis_aries)* [(mouflon,
-    feral sheep)]
--   *Ovis canadensis* [(bighorn sheep)]
--   *Ovis dalli* [(dall sheep, Dall\'s sheep, Fannin\'s sheep, Stone\'s
-    sheep)]
--   *Ovis nivicola* [(snow sheep)]
--   *Ovis vignei* [(urial)]
-
-Containing group: [Caprinae](../Caprinae.md)
-
-
-
-## #has_/text_of_/abstract 
-
-> **Ovis** is a genus of mammals, part of the Caprinae subfamily of the ruminant family Bovidae. Its seven highly sociable species are known as sheep or ovines. Domestic sheep are members of the genus, and are thought to be descended from the wild mouflon of central and southwest Asia.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Ovis) 
-
 
 ### References
 
