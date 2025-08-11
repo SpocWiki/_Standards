@@ -81,7 +81,7 @@ e.g. contact info, [[openingHours]], [[Event]], [[FAQPage]] etc.
 
 By linking to those pages from a [[SpecialAnnouncement]] you can help 
 make it clearer that the events are related to the situation (e.g. Coronavirus) 
-indicated by the [[category]] property of the [[SpecialAnnouncement]].
+indicated by the [[../../../../Mathematics/Category_Theory/Category(Math)]] property of the [[SpecialAnnouncement]].
 
 Many [[SpecialAnnouncement]]s will relate to particular regions and to identifiable local organizations. 
 
