@@ -34,7 +34,7 @@ Formal language code tags expressed in <a href="https://en.wikipedia.org/wiki/IE
 can be used via the [[alternateName]] property. 
 
 Tag Instances like this: 
-#is_a_/language
+#is_a_/language 
 
 The Language type **previously** also covered programming languages 
 such as Scheme and Lisp, 
