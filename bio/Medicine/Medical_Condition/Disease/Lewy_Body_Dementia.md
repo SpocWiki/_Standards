@@ -33,17 +33,17 @@ It is one of the most common types of dementia, after[[Alzheimer's_Disease]]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lewy_Body_Dementia](Lewy_Body_Dementia.md) 
+### #is_/same_as :: [Lewy_Body_Dementia](/_Standards/bio/Medicine/Medical_Condition/Disease/Lewy_Body_Dementia.md) 
 
-### #is_/same_as :: [Lewy_Body_Dementia.public](/_public/bio/Medicine/Disease/Lewy_Body_Dementia.public.md) 
+### #is_/same_as :: [Lewy_Body_Dementia.public](/_public/bio/Medicine/Medical_Condition/Disease/Lewy_Body_Dementia.public.md) 
 
-### #is_/same_as :: [Lewy_Body_Dementia.internal](/_internal/bio/Medicine/Disease/Lewy_Body_Dementia.internal.md) 
+### #is_/same_as :: [Lewy_Body_Dementia.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Lewy_Body_Dementia.internal.md) 
 
-### #is_/same_as :: [Lewy_Body_Dementia.protect](/_protect/bio/Medicine/Disease/Lewy_Body_Dementia.protect.md) 
+### #is_/same_as :: [Lewy_Body_Dementia.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Lewy_Body_Dementia.protect.md) 
 
-### #is_/same_as :: [Lewy_Body_Dementia.private](/_private/bio/Medicine/Disease/Lewy_Body_Dementia.private.md) 
+### #is_/same_as :: [Lewy_Body_Dementia.private](/_private/bio/Medicine/Medical_Condition/Disease/Lewy_Body_Dementia.private.md) 
 
-### #is_/same_as :: [Lewy_Body_Dementia.personal](/_personal/bio/Medicine/Disease/Lewy_Body_Dementia.personal.md) 
+### #is_/same_as :: [Lewy_Body_Dementia.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Lewy_Body_Dementia.personal.md) 
 
-### #is_/same_as :: [Lewy_Body_Dementia.secret](/_secret/bio/Medicine/Disease/Lewy_Body_Dementia.secret.md)
+### #is_/same_as :: [Lewy_Body_Dementia.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Lewy_Body_Dementia.secret.md)
 

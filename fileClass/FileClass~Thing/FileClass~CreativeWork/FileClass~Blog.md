@@ -32,7 +32,7 @@ version: 2.0
 # Blog
 This is a kind of [[FileClass~CreativeWork]]
 
-A [blog](https://en.wikipedia.org/wiki/Blog), sometimes known as a "weblog". Note that the individual posts ([[BlogPosting]]s) in a [[Blog]] are often colloquially referred to by the same term.
+A [blog](https://en.wikipedia.org/wiki/Blog), sometimes known as a "weblog". Note that the individual posts ([[BlogPosting]]s) in a [[../../../Society/Communication/Media/Creative_Work/Blog]] are often colloquially referred to by the same term.
 
 
 ## Use one of these Tags for Objects of this Type:

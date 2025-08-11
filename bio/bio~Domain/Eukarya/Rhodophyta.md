@@ -7,6 +7,10 @@ title: Rhodophyta
 
 # [[Rhodophyta]]
 
+#is_a/bio-Kingdom 
+#is_a :: [[../../Taxon_Rank/bio-Kingdom|bio-Kingdom]]  
+
+
 Red Algae 
 
 ![Kallymenia perforata](Rhodophyta/Kallymenia_perforata.jpg) ![](Rhodophyta/Gibsmithia_hawaiiensis.jpg) ![](Rhodophyta/Porphyra_carolinensis.jpg) 

@@ -24,7 +24,7 @@ title: has_text_of_abstract
 type: Pred_Text
 ---
 
-[[../../Predicate|Predicate]] to describe the Text of [[../../Class/is_a_/creative_work|CreativeWork]].
+[[../../Predicate|Predicate]] to describe the Text of [[../../../Society/Communication/Media/Creative_Work|CreativeWork]].
 An abstract is a short description that summarizes a [[CreativeWork]].
 
 #is_/similar_to :: #has_/text_of_/description 

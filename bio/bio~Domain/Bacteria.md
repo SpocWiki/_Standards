@@ -119,6 +119,9 @@ WordLift_URL: "http://data.wordlift.io/wl01714/entity/bacteria"
 
 # [[Bacteria]] 
 
+#is_a/bio-Domain 
+#is_a :: [[../bio~Domain|bio~Domain]] 
+
 Class of all bacteria.
 
 Tag Instances like this: 
@@ -134,7 +137,7 @@ In [[../../schema-org]]: Pathogenic bacteria that cause bacterial infection.
 #is_/same_as :: [[../../WikiData/WD~Bacteria,10876|WD~Bacteria,10876]] 
 
 
-![Scanning Electron Micrograph of Enterococcus](Enterococcus.jpg)  ![Scanning Electron Micrograph of Pseudomonas aeruginosa](Bacteria/Pseudomonas_aeruginosa.jpg)  ![A photomicrograph of Bacillus anthracis bacteria using Gram stain technique](Bacteria/Bacillus_anthracis.jpg) 
+![Scanning Electron Micrograph of Enterococcus](Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus/Enterococcus.jpg)  ![Scanning Electron Micrograph of Pseudomonas aeruginosa](Bacteria/Pseudomonadati/Pseudomonas_aeruginosa.jpg)  ![A photomicrograph of Bacillus anthracis bacteria using Gram stain technique](Bacteria/Bacillati/Bacillota/Bacillus_anthracis/Bacillus_anthracis.jpg) 
 
 Eubacteria, also known as true bacteria or simply bacteria, 
 are one of the two major domains of prokaryotic microorganisms, the other being [[Archaea]]. 
@@ -148,7 +151,7 @@ as well as their diverse metabolic capabilities and ecological roles.
 
 ## #has_/text_of_/abstract 
 
-> **Bacteria** ( ; sg.: bacterium) are ubiquitous, mostly free-living organisms 
+> **Bacteria** (sg.: bacterium) are ubiquitous, mostly free-living organisms 
 > often consisting of one biological cell. 
 > They constitute a large domain of prokaryotic microorganisms. 
 > 
@@ -272,36 +275,36 @@ with significant impacts on the environment, human health, and biotechnological 
 
 -   » Sub-Groups
 
-    -   [Aquificae](Aquificae.md)
-    -   [Thermotogae](Thermotogae.md)
-    -   [Thermodesulfobacteria](Thermodesulfobacteria.md)
+    -   [Aquificae](Bacteria/Pseudomonadati/Aquificae.md)
+    -   [Thermotogae](Bacteria/Thermotogati/Thermotogota/Thermotogae.md)
+    -   [Thermodesulfobacteria](Bacteria/Pseudomonadati/Thermodesulfobacteria.md)
     -   [Chrysiogenes arsenatis](Chrysiogenes_arsenatis)
-    -   [Nitrospira](Nitrospira.md)
-    -   [Deferribacteres](Deferribacteres.md)
-    -   [Chloroflexi](Chloroflexi.md)
-    -   [Thermomicrobium](Thermomicrobium.md)
-    -   [Fibrobacteres](Fibrobacteres.md)
-    -   [Proteobacteria](Proteobacteria.md)
-    -   [Planctomycetes](Planctomycetes.md)
-    -   [Chlamydiae](Chlamydiae.md)
-    -   [Spirochaetes](Spirochaetes.md)
-    -   [Bacteroidetes](Bacteroidetes.md)
-    -   [Chlorobi](Chlorobi.md)
-    -   [Actinobacteria](Actinobacteria.md)
-    -   [Deinococcus-Thermus](Deinococcus-Thermus.md)
-    -   [Cyanobacteria](Cyanobacteria.md)
-    -   [Firmicutes](Firmicutes.md)
+    -   [Nitrospira](Bacteria/Pseudomonadati/Nitrospira.md)
+    -   [Deferribacteres](Bacteria/Pseudomonadati/Deferribacteres.md)
+    -   [Chloroflexi](Bacteria/Bacillati/Chloroflexota/Chloroflexi.md)
+    -   [Thermomicrobium](Bacteria/Pseudomonadati/Thermomicrobium.md)
+    -   [Fibrobacteres](Bacteria/Pseudomonadati/Fibrobacteres.md)
+    -   [Proteobacteria](Bacteria/Pseudomonadati/Proteobacteria.md)
+    -   [Planctomycetes](Bacteria/Pseudomonadati/Planctomycetes.md)
+    -   [Chlamydiae](Bacteria/Pseudomonadati/Chlamydiae.md)
+    -   [Spirochaetes](Bacteria/Pseudomonadati/Spirochaetes.md)
+    -   [Bacteroidetes](Bacteria/Pseudomonadati/Bacteroidetes.md)
+    -   [Chlorobi](Bacteria/Pseudomonadati/Chlorobi.md)
+    -   [Actinobacteria](Bacteria/Bacillati/Actinobacteria.md)
+    -   [Deinococcus-Thermus](Bacteria/Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.md)
+    -   [Cyanobacteria](Bacteria/Bacillati/Cyanobacteria.md)
+    -   [Bacillota](Bacteria/Bacillati/Bacillota.md)
     -   [Fusobacteria](Fusobacteria.md)
-    -   [Verrucomicrobia](Verrucomicrobia.md)
-    -   [Acidobacteria](Acidobacteria.md)
-    -   [Dictyoglomi](Dictyoglomi.md)
+    -   [Verrucomicrobia](Bacteria/Pseudomonadati/Verrucomicrobia.md)
+    -   [Acidobacteria](Bacteria/Pseudomonadati/Acidobacteria.md)
+    -   [Dictyoglomi](Bacteria/Pseudomonadati/Dictyoglomi.md)
     -   [Gemmatimonas aurantiaca](Gemmatimonas_aurantiaca)
 
 
 ## Title Illustrations
 
 --------------------------
-![Scanning Electron Micrograph of Enterococcus](Enterococcus.jpg)
+![Scanning Electron Micrograph of Enterococcus](Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus/Enterococcus.jpg)
 Scientific Name ::     Enterococcus
 Comments             Scanning Electron Micrograph of Enterococcus
 Creator              CDC/Janice Carr
@@ -309,7 +312,7 @@ Specimen Condition   Dead Specimen
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 --------------------------
-![Scanning Electron Micrograph of Pseudomonas aeruginosa](Bacteria/Pseudomonas_aeruginosa.jpg)
+![Scanning Electron Micrograph of Pseudomonas aeruginosa](Bacteria/Pseudomonadati/Pseudomonas_aeruginosa.jpg)
 Scientific Name ::     Pseudomonas aeruginosa
 Comments             Scanning Electron Micrograph of Pseudomonas aeruginosa
 Creator              CDC/Janice Carr
@@ -317,7 +320,7 @@ Specimen Condition   Dead Specimen
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 --------------------------
-![A photomicrograph of Bacillus anthracis bacteria using Gram stain technique](Bacteria/Bacillus_anthracis.jpg)
+![A photomicrograph of Bacillus anthracis bacteria using Gram stain technique](Bacteria/Bacillati/Bacillota/Bacillus_anthracis/Bacillus_anthracis.jpg)
 Scientific Name ::     Bacillus anthracis
 Comments             A photomicrograph of the Anthrax bacterium, Bacillus anthracis, using Gram stain technique
 Specimen Condition   Dead Specimen

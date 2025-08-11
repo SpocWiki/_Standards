@@ -1,6 +1,36 @@
 ---
-title: Bovidae
+title:
+  "{ newTitle: null }": 
 has_id_wikidata: Q25497
+aliases:
+  - "{ newTitle: null }": 
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate: 
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  "{ \"date:YYYY-MM-DD\": null }": 
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: null }": 
+lang: en
+layout: 
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: null }": 
+publish: false
+publishDate: 
+tags:
+  - "{ newTitle: null }": 
+  - excalidraw
+type: private_note
 ---
 
 # [[Bovidae]]
@@ -141,3 +171,22 @@ Copyright ::            © Kenneth M. Gale
 
 ### #is_/same_as :: [Bovidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae.secret.md)
 
+
+# [[Bovidae]] 
+
+#is_/part_of :: [[Bovidae]] 
+
+![[Bovidae.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

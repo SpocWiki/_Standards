@@ -40,17 +40,17 @@ Place of worship, such as a church, synagogue, or mosque.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Place_of_Worship](Place_of_Worship.md) 
+### #is_/same_as :: [Place_of_Worship](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship.md) 
 
-### #is_/same_as :: [place_of_worship.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship.public.md) 
+### #is_/same_as :: [Place_of_Worship.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship.public.md) 
 
-### #is_/same_as :: [place_of_worship.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship.internal.md) 
+### #is_/same_as :: [Place_of_Worship.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.internal.md) 
 
-### #is_/same_as :: [place_of_worship.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship.protect.md) 
+### #is_/same_as :: [Place_of_Worship.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship.protect.md) 
 
-### #is_/same_as :: [place_of_worship.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship.private.md) 
+### #is_/same_as :: [Place_of_Worship.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship.private.md) 
 
-### #is_/same_as :: [place_of_worship.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship.personal.md) 
+### #is_/same_as :: [Place_of_Worship.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.personal.md) 
 
-### #is_/same_as :: [place_of_worship.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship.secret.md)
+### #is_/same_as :: [Place_of_Worship.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship.secret.md)
 

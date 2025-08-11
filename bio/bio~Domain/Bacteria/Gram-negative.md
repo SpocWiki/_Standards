@@ -1,4 +1,8 @@
 
+# [[Gram-negative]] 
+
+#is_/opposite_of :: [[Gram-positive]]
+
 ## #has_/text_of_/abstract 
 
 > **Gram-negative** bacteria are [[../Bacteria|bacteria]] that, unlike gram-positive bacteria, 

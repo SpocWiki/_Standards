@@ -38,17 +38,17 @@ Any collection of tests commonly ordered together.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Test_Panel](Medical_Test_Panel.md) 
+### #is_/same_as :: [Medical_Test_Panel](/_Standards/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.md) 
 
-### #is_/same_as :: [medical_test_panel.public](/_public/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.public.md) 
+### #is_/same_as :: [Medical_Test_Panel.public](/_public/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.public.md) 
 
-### #is_/same_as :: [medical_test_panel.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.internal.md) 
+### #is_/same_as :: [Medical_Test_Panel.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.internal.md) 
 
-### #is_/same_as :: [medical_test_panel.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.protect.md) 
+### #is_/same_as :: [Medical_Test_Panel.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.protect.md) 
 
-### #is_/same_as :: [medical_test_panel.private](/_private/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.private.md) 
+### #is_/same_as :: [Medical_Test_Panel.private](/_private/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.private.md) 
 
-### #is_/same_as :: [medical_test_panel.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.personal.md) 
+### #is_/same_as :: [Medical_Test_Panel.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.personal.md) 
 
-### #is_/same_as :: [medical_test_panel.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.secret.md)
+### #is_/same_as :: [Medical_Test_Panel.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.secret.md)
 

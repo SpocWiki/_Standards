@@ -38,17 +38,17 @@ A bridge.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bridge](Bridge.md) 
+### #is_/same_as :: [Bridge](/_Standards/Earth/Geography/Place/Civic_Structure/Bridge.md) 
 
-### #is_/same_as :: [bridge.public](/_public/schema-org/Class/is_a_/place/civic_structure/bridge.public.md) 
+### #is_/same_as :: [Bridge.public](/_public/Earth/Geography/Place/Civic_Structure/Bridge.public.md) 
 
-### #is_/same_as :: [bridge.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/bridge.internal.md) 
+### #is_/same_as :: [Bridge.internal](/_internal/Earth/Geography/Place/Civic_Structure/Bridge.internal.md) 
 
-### #is_/same_as :: [bridge.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/bridge.protect.md) 
+### #is_/same_as :: [Bridge.protect](/_protect/Earth/Geography/Place/Civic_Structure/Bridge.protect.md) 
 
-### #is_/same_as :: [bridge.private](/_private/schema-org/Class/is_a_/place/civic_structure/bridge.private.md) 
+### #is_/same_as :: [Bridge.private](/_private/Earth/Geography/Place/Civic_Structure/Bridge.private.md) 
 
-### #is_/same_as :: [bridge.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/bridge.personal.md) 
+### #is_/same_as :: [Bridge.personal](/_personal/Earth/Geography/Place/Civic_Structure/Bridge.personal.md) 
 
-### #is_/same_as :: [bridge.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/bridge.secret.md)
+### #is_/same_as :: [Bridge.secret](/_secret/Earth/Geography/Place/Civic_Structure/Bridge.secret.md)
 

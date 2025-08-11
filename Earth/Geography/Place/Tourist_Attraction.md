@@ -38,17 +38,17 @@ A tourist attraction.  In principle any Thing can be a [[TouristAttraction]], f[
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tourist_Attraction](Tourist_Attraction.md) 
+### #is_/same_as :: [Tourist_Attraction](/_Standards/Earth/Geography/Place/Tourist_Attraction.md) 
 
-### #is_/same_as :: [tourist_attraction.public](/_public/schema-org/Class/is_a_/place/tourist_attraction.public.md) 
+### #is_/same_as :: [Tourist_Attraction.public](/_public/Earth/Geography/Place/Tourist_Attraction.public.md) 
 
-### #is_/same_as :: [tourist_attraction.internal](/_internal/schema-org/Class/is_a_/place/tourist_attraction.internal.md) 
+### #is_/same_as :: [Tourist_Attraction.internal](/_internal/Earth/Geography/Place/Tourist_Attraction.internal.md) 
 
-### #is_/same_as :: [tourist_attraction.protect](/_protect/schema-org/Class/is_a_/place/tourist_attraction.protect.md) 
+### #is_/same_as :: [Tourist_Attraction.protect](/_protect/Earth/Geography/Place/Tourist_Attraction.protect.md) 
 
-### #is_/same_as :: [tourist_attraction.private](/_private/schema-org/Class/is_a_/place/tourist_attraction.private.md) 
+### #is_/same_as :: [Tourist_Attraction.private](/_private/Earth/Geography/Place/Tourist_Attraction.private.md) 
 
-### #is_/same_as :: [tourist_attraction.personal](/_personal/schema-org/Class/is_a_/place/tourist_attraction.personal.md) 
+### #is_/same_as :: [Tourist_Attraction.personal](/_personal/Earth/Geography/Place/Tourist_Attraction.personal.md) 
 
-### #is_/same_as :: [tourist_attraction.secret](/_secret/schema-org/Class/is_a_/place/tourist_attraction.secret.md)
+### #is_/same_as :: [Tourist_Attraction.secret](/_secret/Earth/Geography/Place/Tourist_Attraction.secret.md)
 

@@ -40,17 +40,17 @@ A public toilet is a room or small building containing one or more toilets (and 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Public_Toilet](Public_Toilet.md) 
+### #is_/same_as :: [Public_Toilet](/_Standards/Earth/Geography/Place/Civic_Structure/Public_Toilet.md) 
 
-### #is_/same_as :: [public_toilet.public](/_public/schema-org/Class/is_a_/place/civic_structure/public_toilet.public.md) 
+### #is_/same_as :: [Public_Toilet.public](/_public/Earth/Geography/Place/Civic_Structure/Public_Toilet.public.md) 
 
-### #is_/same_as :: [public_toilet.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/public_toilet.internal.md) 
+### #is_/same_as :: [Public_Toilet.internal](/_internal/Earth/Geography/Place/Civic_Structure/Public_Toilet.internal.md) 
 
-### #is_/same_as :: [public_toilet.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/public_toilet.protect.md) 
+### #is_/same_as :: [Public_Toilet.protect](/_protect/Earth/Geography/Place/Civic_Structure/Public_Toilet.protect.md) 
 
-### #is_/same_as :: [public_toilet.private](/_private/schema-org/Class/is_a_/place/civic_structure/public_toilet.private.md) 
+### #is_/same_as :: [Public_Toilet.private](/_private/Earth/Geography/Place/Civic_Structure/Public_Toilet.private.md) 
 
-### #is_/same_as :: [public_toilet.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/public_toilet.personal.md) 
+### #is_/same_as :: [Public_Toilet.personal](/_personal/Earth/Geography/Place/Civic_Structure/Public_Toilet.personal.md) 
 
-### #is_/same_as :: [public_toilet.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/public_toilet.secret.md)
+### #is_/same_as :: [Public_Toilet.secret](/_secret/Earth/Geography/Place/Civic_Structure/Public_Toilet.secret.md)
 

@@ -38,17 +38,17 @@ An event venue.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event_Venue](Event_Venue.md) 
+### #is_/same_as :: [Event_Venue](/_Standards/Earth/Geography/Place/Civic_Structure/Event_Venue.md) 
 
-### #is_/same_as :: [event_venue.public](/_public/schema-org/Class/is_a_/place/civic_structure/event_venue.public.md) 
+### #is_/same_as :: [Event_Venue.public](/_public/Earth/Geography/Place/Civic_Structure/Event_Venue.public.md) 
 
-### #is_/same_as :: [event_venue.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/event_venue.internal.md) 
+### #is_/same_as :: [Event_Venue.internal](/_internal/Earth/Geography/Place/Civic_Structure/Event_Venue.internal.md) 
 
-### #is_/same_as :: [event_venue.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/event_venue.protect.md) 
+### #is_/same_as :: [Event_Venue.protect](/_protect/Earth/Geography/Place/Civic_Structure/Event_Venue.protect.md) 
 
-### #is_/same_as :: [event_venue.private](/_private/schema-org/Class/is_a_/place/civic_structure/event_venue.private.md) 
+### #is_/same_as :: [Event_Venue.private](/_private/Earth/Geography/Place/Civic_Structure/Event_Venue.private.md) 
 
-### #is_/same_as :: [event_venue.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/event_venue.personal.md) 
+### #is_/same_as :: [Event_Venue.personal](/_personal/Earth/Geography/Place/Civic_Structure/Event_Venue.personal.md) 
 
-### #is_/same_as :: [event_venue.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/event_venue.secret.md)
+### #is_/same_as :: [Event_Venue.secret](/_secret/Earth/Geography/Place/Civic_Structure/Event_Venue.secret.md)
 

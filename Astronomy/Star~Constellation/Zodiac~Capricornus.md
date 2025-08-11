@@ -41,7 +41,6 @@ has_id_wikidata: Q10535
 > [Wikipedia](https://en.wikipedia.org/wiki/Capricornus) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Capricornus](/_Standards/Astronomy/Star~Constellation/Zodiac~Capricornus.md) 

@@ -40,17 +40,17 @@ Any bodily activity that enhances or maintains physical fitness and overall heal
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physical_Activity](Physical_Activity.md) 
+### #is_/same_as :: [Physical_Activity](/_Standards/bio/Medicine/Therapy/Lifestyle_Modification/Physical_Activity.md) 
 
-### #is_/same_as :: [physical_activity.public](/_public/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.public.md) 
+### #is_/same_as :: [Physical_Activity.public](/_public/bio/Medicine/Therapy/Lifestyle_Modification/Physical_Activity.public.md) 
 
-### #is_/same_as :: [physical_activity.internal](/_internal/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.internal.md) 
+### #is_/same_as :: [Physical_Activity.internal](/_internal/bio/Medicine/Therapy/Lifestyle_Modification/Physical_Activity.internal.md) 
 
-### #is_/same_as :: [physical_activity.protect](/_protect/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.protect.md) 
+### #is_/same_as :: [Physical_Activity.protect](/_protect/bio/Medicine/Therapy/Lifestyle_Modification/Physical_Activity.protect.md) 
 
-### #is_/same_as :: [physical_activity.private](/_private/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.private.md) 
+### #is_/same_as :: [Physical_Activity.private](/_private/bio/Medicine/Therapy/Lifestyle_Modification/Physical_Activity.private.md) 
 
-### #is_/same_as :: [physical_activity.personal](/_personal/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.personal.md) 
+### #is_/same_as :: [Physical_Activity.personal](/_personal/bio/Medicine/Therapy/Lifestyle_Modification/Physical_Activity.personal.md) 
 
-### #is_/same_as :: [physical_activity.secret](/_secret/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.secret.md)
+### #is_/same_as :: [Physical_Activity.secret](/_secret/bio/Medicine/Therapy/Lifestyle_Modification/Physical_Activity.secret.md)
 

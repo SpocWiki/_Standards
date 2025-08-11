@@ -69,3 +69,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carotenoid) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carotenoid](/_Standards/Chemistry/organic/Carotenoid.md) 
+
+### #is_/same_as :: [Carotenoid.public](/_public/Chemistry/organic/Carotenoid.public.md) 
+
+### #is_/same_as :: [Carotenoid.internal](/_internal/Chemistry/organic/Carotenoid.internal.md) 
+
+### #is_/same_as :: [Carotenoid.protect](/_protect/Chemistry/organic/Carotenoid.protect.md) 
+
+### #is_/same_as :: [Carotenoid.private](/_private/Chemistry/organic/Carotenoid.private.md) 
+
+### #is_/same_as :: [Carotenoid.personal](/_personal/Chemistry/organic/Carotenoid.personal.md) 
+
+### #is_/same_as :: [Carotenoid.secret](/_secret/Chemistry/organic/Carotenoid.secret.md)
+

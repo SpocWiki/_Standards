@@ -38,17 +38,17 @@ A taxi stand.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taxi_Stand](Taxi_Stand.md) 
+### #is_/same_as :: [Taxi_Stand](/_Standards/Earth/Geography/Place/Civic_Structure/Taxi_Stand.md) 
 
-### #is_/same_as :: [taxi_stand.public](/_public/schema-org/Class/is_a_/place/civic_structure/taxi_stand.public.md) 
+### #is_/same_as :: [Taxi_Stand.public](/_public/Earth/Geography/Place/Civic_Structure/Taxi_Stand.public.md) 
 
-### #is_/same_as :: [taxi_stand.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/taxi_stand.internal.md) 
+### #is_/same_as :: [Taxi_Stand.internal](/_internal/Earth/Geography/Place/Civic_Structure/Taxi_Stand.internal.md) 
 
-### #is_/same_as :: [taxi_stand.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/taxi_stand.protect.md) 
+### #is_/same_as :: [Taxi_Stand.protect](/_protect/Earth/Geography/Place/Civic_Structure/Taxi_Stand.protect.md) 
 
-### #is_/same_as :: [taxi_stand.private](/_private/schema-org/Class/is_a_/place/civic_structure/taxi_stand.private.md) 
+### #is_/same_as :: [Taxi_Stand.private](/_private/Earth/Geography/Place/Civic_Structure/Taxi_Stand.private.md) 
 
-### #is_/same_as :: [taxi_stand.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/taxi_stand.personal.md) 
+### #is_/same_as :: [Taxi_Stand.personal](/_personal/Earth/Geography/Place/Civic_Structure/Taxi_Stand.personal.md) 
 
-### #is_/same_as :: [taxi_stand.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/taxi_stand.secret.md)
+### #is_/same_as :: [Taxi_Stand.secret](/_secret/Earth/Geography/Place/Civic_Structure/Taxi_Stand.secret.md)
 

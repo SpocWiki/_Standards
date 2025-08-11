@@ -40,17 +40,17 @@ An educational organization.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Educational_Organization](Educational_Organization.md) 
+### #is_/same_as :: [Educational_Organization](/_Standards/Earth/Geography/Place/Civic_Structure/Educational_Organization.md) 
 
-### #is_/same_as :: [educational_organization.public](/_public/schema-org/Class/is_a_/place/civic_structure/educational_organization.public.md) 
+### #is_/same_as :: [Educational_Organization.public](/_public/Earth/Geography/Place/Civic_Structure/Educational_Organization.public.md) 
 
-### #is_/same_as :: [educational_organization.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/educational_organization.internal.md) 
+### #is_/same_as :: [Educational_Organization.internal](/_internal/Earth/Geography/Place/Civic_Structure/Educational_Organization.internal.md) 
 
-### #is_/same_as :: [educational_organization.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/educational_organization.protect.md) 
+### #is_/same_as :: [Educational_Organization.protect](/_protect/Earth/Geography/Place/Civic_Structure/Educational_Organization.protect.md) 
 
-### #is_/same_as :: [educational_organization.private](/_private/schema-org/Class/is_a_/place/civic_structure/educational_organization.private.md) 
+### #is_/same_as :: [Educational_Organization.private](/_private/Earth/Geography/Place/Civic_Structure/Educational_Organization.private.md) 
 
-### #is_/same_as :: [educational_organization.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/educational_organization.personal.md) 
+### #is_/same_as :: [Educational_Organization.personal](/_personal/Earth/Geography/Place/Civic_Structure/Educational_Organization.personal.md) 
 
-### #is_/same_as :: [educational_organization.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/educational_organization.secret.md)
+### #is_/same_as :: [Educational_Organization.secret](/_secret/Earth/Geography/Place/Civic_Structure/Educational_Organization.secret.md)
 

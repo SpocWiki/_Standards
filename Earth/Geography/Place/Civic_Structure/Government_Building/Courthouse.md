@@ -38,17 +38,17 @@ A courthouse.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Courthouse](Courthouse.md) 
+### #is_/same_as :: [Courthouse](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.md) 
 
-### #is_/same_as :: [courthouse.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.public.md) 
+### #is_/same_as :: [Courthouse.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.public.md) 
 
-### #is_/same_as :: [courthouse.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.internal.md) 
+### #is_/same_as :: [Courthouse.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.internal.md) 
 
-### #is_/same_as :: [courthouse.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.protect.md) 
+### #is_/same_as :: [Courthouse.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.protect.md) 
 
-### #is_/same_as :: [courthouse.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.private.md) 
+### #is_/same_as :: [Courthouse.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.private.md) 
 
-### #is_/same_as :: [courthouse.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.personal.md) 
+### #is_/same_as :: [Courthouse.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.personal.md) 
 
-### #is_/same_as :: [courthouse.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.secret.md)
+### #is_/same_as :: [Courthouse.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.secret.md)
 

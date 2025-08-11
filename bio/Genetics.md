@@ -1,3 +1,54 @@
+---
+All_Science_Journal_Classification_Codes: '1311'
+Basisklassifikation: '42.20'
+Commons_category: Genetics
+Colon_Classification: G:6
+Dewey_Decimal_Classification: '576.5'
+GitHub_topic: genetic
+IAB_code: '468'
+IPTC_NewsCode: mediatopic/20000721
+Krugosvet_article: nauka_i_tehnika/biologiya/GENETIKA.html
+MeSH_tree_code: H01.158.273.343
+OmegaWiki_Defined_Meaning: '1637'
+P8189: '987007562698805171'
+Stack_Exchange_tag: https://biology.stackexchange.com/tags/genetics
+Universal_Decimal_Classification: '575'
+U_S_National_Archives_Identifier: '10639210'
+UMLS_CUI: C0017398
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_genetics,7112645]]'
+aliases:
+  - Genetik
+different_from: '[[_Standards/WikiData/WD~genology,3508604]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+founded_by:
+  - '[[_Standards/WikiData/WD~Erich_von_Tschermak,93385]]'
+  - '[[_Standards/WikiData/WD~Hugo_de_Vries,160192]]'
+  - '[[_Standards/WikiData/WD~Gregor_Mendel,37970]]'
+  - '[[_Standards/WikiData/WD~Carl_Correns,62096]]'
+has_id_wikidata: Q7162
+history_of_topic: '[[_Standards/WikiData/WD~history_of_genetics,465920]]'
+instance_of:
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~branch_of_biology,28598684]]'
+  - '[[_Standards/WikiData/WD~science,336]]'
+inception: '1900-01-01T00:00:00Z'
+is_the_study_of: '[[_Standards/WikiData/WD~genome,7020]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Gene.png
+practiced_by: '[[_Standards/WikiData/WD~geneticist,3126128]]'
+part_of: '[[_Standards/WikiData/WD~biology,420]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~introduction_to_genetics,3243680]]'
+subclass_of: '[[_Standards/WikiData/WD~biology,420]]'
+social_media_followers: 87661
+subreddit: genetics
+topic_has_template:
+  - '[[_Standards/WikiData/WD~Template_Genetics,6339146]]'
+  - '[[_Standards/WikiData/WD~Template_Genetics_sidebar,12269758]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Genetics,11046531]]'
+---
+
+# [[Genetics]] 
+
+#is_/same_as :: [[../WikiData/WD~Genetics,7162|WD~Genetics,7162]] 
 
 ## #has_/text_of_/abstract 
 
@@ -32,4 +83,3 @@
 ### #is_/same_as :: [Genetics.personal](/_personal/bio/Genetics.personal.md) 
 
 ### #is_/same_as :: [Genetics.secret](/_secret/bio/Genetics.secret.md)
-

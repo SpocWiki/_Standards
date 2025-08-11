@@ -4,6 +4,10 @@ title: Choanoflagellates
 
 # [[Choanoflagellates]] 
 
+
+#is_a/bio-Kingdom 
+#is_a :: [[../../Taxon_Rank/bio-Kingdom|bio-Kingdom]]  
+
 Choanoflagellida, collared-flagellates 
 
 ![Monosiga_brevicollis](Choanoflagellates/Monosiga_brevicollis.jpg) ![Proterospongia](Choanoflagellates/Proterospongia.jpg) 

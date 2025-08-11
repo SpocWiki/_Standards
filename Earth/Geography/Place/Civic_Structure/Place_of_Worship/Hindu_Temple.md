@@ -38,17 +38,17 @@ A Hindu temple.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hindu_Temple](Hindu_Temple.md) 
+### #is_/same_as :: [Hindu_Temple](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Hindu_Temple.md) 
 
-### #is_/same_as :: [hindu_temple.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/hindu_temple.public.md) 
+### #is_/same_as :: [Hindu_Temple.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Hindu_Temple.public.md) 
 
-### #is_/same_as :: [hindu_temple.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/hindu_temple.internal.md) 
+### #is_/same_as :: [Hindu_Temple.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Hindu_Temple.internal.md) 
 
-### #is_/same_as :: [hindu_temple.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/hindu_temple.protect.md) 
+### #is_/same_as :: [Hindu_Temple.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Hindu_Temple.protect.md) 
 
-### #is_/same_as :: [hindu_temple.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/hindu_temple.private.md) 
+### #is_/same_as :: [Hindu_Temple.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Hindu_Temple.private.md) 
 
-### #is_/same_as :: [hindu_temple.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/hindu_temple.personal.md) 
+### #is_/same_as :: [Hindu_Temple.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Hindu_Temple.personal.md) 
 
-### #is_/same_as :: [hindu_temple.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/hindu_temple.secret.md)
+### #is_/same_as :: [Hindu_Temple.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Hindu_Temple.secret.md)
 

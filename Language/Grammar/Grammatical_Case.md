@@ -3,14 +3,14 @@ aliases:
   - Fall
 has_id_wikidata: Q128234
 described_by_source:
-  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Otto's_encyclopedia]]"
-  - "[[db/Yuzhakov_Big_Encyclopedia]]"
-  - "[[db/Small_Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Great_Soviet_Encyclopedia_(1926_1947)]]"
-  - "[[db/Armenian_Soviet_Encyclopedia,_vol._6]]"
-subclass_of: "[[db/grammatical_category]]"
-different_from: "[[db/case_grammar]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+subclass_of: "[[_Standards/WikiData/WD~grammatical_category,980357]]"
+different_from: "[[_Standards/WikiData/WD~case_grammar,1735511]]"
 Wikidata_property: has grammatical case
 OmegaWiki_Defined_Meaning: "423305"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%95.wav
@@ -61,4 +61,23 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/PADEZH.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grammatical%20case) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grammatical_Case](/_Standards/Language/Grammar/Grammatical_Case.md) 
+
+### #is_/same_as :: [Grammatical_Case.public](/_public/Language/Grammar/Grammatical_Case.public.md) 
+
+### #is_/same_as :: [Grammatical_Case.internal](/_internal/Language/Grammar/Grammatical_Case.internal.md) 
+
+### #is_/same_as :: [Grammatical_Case.protect](/_protect/Language/Grammar/Grammatical_Case.protect.md) 
+
+### #is_/same_as :: [Grammatical_Case.private](/_private/Language/Grammar/Grammatical_Case.private.md) 
+
+### #is_/same_as :: [Grammatical_Case.personal](/_personal/Language/Grammar/Grammatical_Case.personal.md) 
+
+### #is_/same_as :: [Grammatical_Case.secret](/_secret/Language/Grammar/Grammatical_Case.secret.md)
 

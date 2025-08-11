@@ -2,40 +2,6 @@
 title: "Mastigoteuthis agassizii"
 ---
 
-## Phylogeny 
-
--   « Ancestral Groups  
-    -   [Mastigoteuthis](Mastigoteuthis)
-    -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../../Oegopsida.md))
-    -  [Decapodiformes](../../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Mastigoteuthis
-    -   [Mastigoteuthis tyroi](Mastigoteuthis_tyroi)
-    -   [Mastigoteuthis schmidti](Mastigoteuthis_schmidti)
-    -   [Mastigoteuthis pyrodes](Mastigoteuthis_pyrodes)
-    -   [Mastigoteuthis         psychrophila](Mastigoteuthis_psychrophila)
-    -   [Mastigoteuthis magna](Mastigoteuthis_magna)
-    -   [Mastigoteuthis hjorti](Mastigoteuthis_hjorti)
-    -   [Mastigoteuthis         glaukopis](Mastigoteuthis_glaukopis)
-    -   [Mastigoteuthis         grimaldii](Mastigoteuthis_grimaldii)
-    -   [Mastigoteuthis flammea](Mastigoteuthis_flammea)
-    -   [Mastigoteuthis famelica](Mastigoteuthis_famelica)
-    -   [Mastigoteuthis dentata](Mastigoteuthis_dentata)
-    -   [Mastigoteuthis danae](Mastigoteuthis_danae)
-    -   [Mastigoteuthis         cordiformis](Mastigoteuthis_cordiformis)
-    -   [Mastigoteuthis         atlantica](Mastigoteuthis_atlantica)
-    -   Mastigoteuthis agassizii
-
--   » Sub-Groups 
-
 # *Mastigoteuthis agassizii* [Verrill, 1881] 
 
 [Michael Vecchione and Richard E. Young]()
@@ -125,6 +91,40 @@ photophores but smooth arm sucker rings.
 Type locality: Off northeast coast of the United States at 33°25\'N,
 76°W and 34°28\'N, 75°23\'W.
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Mastigoteuthis](Mastigoteuthis)
+    -   [Chiroteuthid families](Chiroteuthid_families)
+    -  [Oegopsida](../../../Oegopsida.md))
+    -  [Decapodiformes](../../../../Decapodiformes.md))
+    -  [Coleoidea](../../../../../Coleoidea.md))
+    -  [Cephalopoda](../../../../../../Cephalopoda.md))
+    -  [Mollusca](../../../../../../../Mollusca.md))
+    -  [Bilateria](../../../../../../../../Bilateria.md))
+    -  [Animals](../../../../../../../../../Animals.md))
+    -  [Eukarya](../../../../../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Mastigoteuthis
+    -   [Mastigoteuthis tyroi](Mastigoteuthis_tyroi)
+    -   [Mastigoteuthis schmidti](Mastigoteuthis_schmidti)
+    -   [Mastigoteuthis pyrodes](Mastigoteuthis_pyrodes)
+    -   [Mastigoteuthis         psychrophila](Mastigoteuthis_psychrophila)
+    -   [Mastigoteuthis magna](Mastigoteuthis_magna)
+    -   [Mastigoteuthis hjorti](Mastigoteuthis_hjorti)
+    -   [Mastigoteuthis         glaukopis](Mastigoteuthis_glaukopis)
+    -   [Mastigoteuthis         grimaldii](Mastigoteuthis_grimaldii)
+    -   [Mastigoteuthis flammea](Mastigoteuthis_flammea)
+    -   [Mastigoteuthis famelica](Mastigoteuthis_famelica)
+    -   [Mastigoteuthis dentata](Mastigoteuthis_dentata)
+    -   [Mastigoteuthis danae](Mastigoteuthis_danae)
+    -   [Mastigoteuthis         cordiformis](Mastigoteuthis_cordiformis)
+    -   [Mastigoteuthis         atlantica](Mastigoteuthis_atlantica)
+    -   Mastigoteuthis agassizii
+
+-   » Sub-Groups 
+
 ### References
 
 Verrill, A.E. 1881a. Report on the Cephalopods, and on Some Additional
@@ -148,7 +148,8 @@ Academy of Sciences, 5: 259-446.
   Specimen Condition   Live Specimen
   Identified By        M. Vecchione
   Copyright ::            © 2004 David Shale
-  -----------------------------------------------
+  -----------------------------------------------
+
 
 
 ## Confidential Links & Embeds: 

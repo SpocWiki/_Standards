@@ -346,7 +346,7 @@ The place where the product was assembled.
 CountryOfAssembly:: {"type":"Input","options":{}}
 
 ### CountryOfLastProcessing
-The place where the item (typically [[Product]]) was last processed and tested before importation.
+The place where the item (typically [[../../Society/Agent/Organization/Business/Product]]) was last processed and tested before importation.
 
 CountryOfLastProcessing:: {"type":"Input","options":{}}
 
@@ -468,7 +468,7 @@ specific dimensions only (so it defines both a set of variants,
 as well as which values distinguish amongst those variants). 
 
 When used with [[ProductGroup]], this property can 
-apply to any [[Product]] included in the group.
+apply to any [[../../Society/Agent/Organization/Business/Product]] included in the group.
 
 IsVariantOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product/ProductGroup')"}}
 
@@ -499,7 +499,7 @@ Material:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ### MobileUrl
 The [[mobileUrl]] property is provided for specific situations in which data consumers need to determine whether one of several provided URLs is a dedicated 'mobile site'.  
- To discourage over-use, and reflecting intial usecases, the property is expected only on [[Product]] and [[Offer]], rather than [[Thing]]. The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive\_web\_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[url]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[url]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[Product]] and [[Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
+ To discourage over-use, and reflecting intial usecases, the property is expected only on [[../../Society/Agent/Organization/Business/Product]] and [[../../Society/Agent/Organization/Business/Offer]], rather than [[Thing]]. The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive\_web\_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[url]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[url]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[../../Society/Agent/Organization/Business/Product]] and [[../../Society/Agent/Organization/Business/Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
 
 MobileUrl:: {"type":"Input","options":{}}
 
@@ -517,13 +517,13 @@ Mpn:: {"type":"Input","options":{}}
 Provides negative considerations regarding something, 
 most typically in pro/con lists for reviews (alongside [[positiveNotes]]). 
 For symmetry  
- In the case of a [[Review]], the property describes the [[itemReviewed]] 
+ In the case of a [[../../Society/Communication/Media/Creative_Work/Review]], the property describes the [[itemReviewed]] 
  from the perspective of the review; 
- in the case of a [[Product]], the product itself is being described. 
+ in the case of a [[../../Society/Agent/Organization/Business/Product]], the product itself is being described. 
  
  Since product descriptions tend to emphasise positive claims, 
  it may be relatively unusual to find [[negativeNotes]] used in this way. 
- Nevertheless for the sake of symmetry, [[negativeNotes]] can be used on [[Product]].  
+ Nevertheless for the sake of symmetry, [[negativeNotes]] can be used on [[../../Society/Agent/Organization/Business/Product]].  
  The property values can be expressed either as unstructured text 
  (repeated as necessary), or if ordered, 
  as a list (in which case the most negative is at the beginning of the list).
@@ -531,7 +531,7 @@ For symmetry
 NegativeNotes:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ItemList')"}}
 
 ### Nsn
-Indicates the [NATO stock number](https://en.wikipedia.org/wiki/NATO\_Stock\_Number) (nsn) of a [[Product]].
+Indicates the [NATO stock number](https://en.wikipedia.org/wiki/NATO\_Stock\_Number) (nsn) of a [[../../Society/Agent/Organization/Business/Product]].
 
 Nsn:: {"type":"Input","options":{}}
 
@@ -547,7 +547,7 @@ Pattern:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ### PositiveNotes
 Provides positive considerations regarding something, for example product highlights or (alongside [[negativeNotes]]) pro/con lists for reviews.  
- In the case of a [[Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[Product]], the product itself is being described.  
+ In the case of a [[../../Society/Communication/Media/Creative_Work/Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[../../Society/Agent/Organization/Business/Product]], the product itself is being described.  
  The property values can be expressed either as unstructured text (repeated as necessary), or if ordered, as a list (in which case the most positive is at the beginning of the list).
 
 PositiveNotes:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ItemList')"}}

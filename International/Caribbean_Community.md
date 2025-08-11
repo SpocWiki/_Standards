@@ -63,3 +63,22 @@ short_name: CARICOM
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Caribbean%20Community) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Caribbean_Community](/_Standards/International/Caribbean_Community.md) 
+
+### #is_/same_as :: [Caribbean_Community.public](/_public/International/Caribbean_Community.public.md) 
+
+### #is_/same_as :: [Caribbean_Community.internal](/_internal/International/Caribbean_Community.internal.md) 
+
+### #is_/same_as :: [Caribbean_Community.protect](/_protect/International/Caribbean_Community.protect.md) 
+
+### #is_/same_as :: [Caribbean_Community.private](/_private/International/Caribbean_Community.private.md) 
+
+### #is_/same_as :: [Caribbean_Community.personal](/_personal/International/Caribbean_Community.personal.md) 
+
+### #is_/same_as :: [Caribbean_Community.secret](/_secret/International/Caribbean_Community.secret.md)
+

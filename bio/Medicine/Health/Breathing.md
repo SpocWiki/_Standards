@@ -2,17 +2,17 @@
 aliases:
   - Atmung
 has_id_wikidata: Q9530
-part_of: "[[db/respiration]]"
+part_of: "[[_Standards/WikiData/WD~respiration,472287]]"
 described_by_source:
-  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Small_Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 has_part_s_:
-  - "[[db/inhalation]]"
-  - "[[db/exhalation]]"
-subclass_of: "[[db/gas_exchange]]"
-instance_of: "[[db/biological_process]]"
-class_of_object_s_of_occurrence: "[[db/air]]"
-product_or_material_produced: "[[db/breath]]"
+  - "[[_Standards/WikiData/WD~inhalation,840343]]"
+  - "[[_Standards/WikiData/WD~exhalation,2197000]]"
+subclass_of: "[[_Standards/WikiData/WD~gas_exchange,1146120]]"
+instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
+class_of_object_s_of_occurrence: "[[_Standards/WikiData/WD~air,7391292]]"
+product_or_material_produced: "[[_Standards/WikiData/WD~breath,13428325]]"
 Commons_category: Respiration
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Diaphragmatic%20breathing.gif
 video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20wichtig%20ist%20tiefes%20Atmen.webm

@@ -13,7 +13,7 @@ title: "Eastern Palearctic water frogs"
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -   [Rana (Pelophylax)](Rana_%28Pelophylax%29)
+    -   [Rana (Pelophylax)](../Pelophylax.md)
     -   [Rana](../../Rana.md)
     -   [\'Ranidae\'](%27Ranidae%27)
     -   [Neobatrachia](../../../../Neobatrachia.md)

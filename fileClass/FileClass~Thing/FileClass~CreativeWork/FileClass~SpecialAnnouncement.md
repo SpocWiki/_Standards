@@ -113,7 +113,7 @@ A SpecialAnnouncement combines a simple date-stamped textual information update
  We expect that in many cases the page referenced might contain more specialized structured data, e.g. contact info, [[openingHours]], [[Event]], [[FAQPage]] etc. By linking to those pages from a [[SpecialAnnouncement]] you can help make it clearer that the events are related to the situation (e.g. Coronavirus) indicated by the [[category]] property of the [[SpecialAnnouncement]].  
  Many [[SpecialAnnouncement]]s will relate to particular regions and to identifiable local organizations. Use [[spatialCoverage]] for the region, and [[announcementLocation]] to indicate specific [[LocalBusiness]]es and [[CivicStructure]]s. If the announcement affects both a particular region and a specific location (for example, a library closure that serves an entire region), use both [[spatialCoverage]] and [[announcementLocation]].  
  The [[about]] property can be used to indicate entities that are the focus of the announcement. We now recommend using [[about]] only  
- for representing non-location entities (e.g. a [[Course]] or a [[RadioStation]]). For places, use [[announcementLocation]] and [[spatialCoverage]]. Consumers of this markup should be aware that the initial design encouraged the use of [[about]] for locations too.  
+ for representing non-location entities (e.g. a [[../../../Society/Communication/Media/Creative_Work/Course]] or a [[RadioStation]]). For places, use [[announcementLocation]] and [[spatialCoverage]]. Consumers of this markup should be aware that the initial design encouraged the use of [[about]] for locations too.  
  The basic content of [[SpecialAnnouncement]] is similar to that of an [RSS](https://en.wikipedia.org/wiki/RSS) or [Atom](https://en.wikipedia.org/wiki/Atom\_(Web\_standard)) feed. For publishers without such feeds, basic feed-like information can be shared by posting  
  [[SpecialAnnouncement]] updates in a page, e.g. using JSON-LD. For sites with Atom/RSS functionality, you can point to a feed  
  with the [[webFeed]] property. This can be a simple URL, or an inline [[DataFeed]] object, with [[encodingFormat]] providing  
@@ -150,7 +150,7 @@ DiseasePreventionInfo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages
 
 ### DiseaseSpreadStatistics
 Statistical information about the spread of a disease, either as [[WebContent]], or  
- described directly as a [[Dataset]], or the specific [[Observation]]s in the dataset. When a [[WebContent]] URL is  
+ described directly as a [[../../../Society/Communication/Media/Creative_Work/Dataset]], or the specific [[Observation]]s in the dataset. When a [[WebContent]] URL is  
  provided, the page indicated might also contain more such markup.
 
 DiseaseSpreadStatistics:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Dataset')"}}

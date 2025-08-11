@@ -159,3 +159,22 @@ RTECS_number: FF6400000
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carbon%20dioxide) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carbon_Dioxide](/_Standards/Chemistry/inOrganic/Carbon_Dioxide.md) 
+
+### #is_/same_as :: [Carbon_Dioxide.public](/_public/Chemistry/inOrganic/Carbon_Dioxide.public.md) 
+
+### #is_/same_as :: [Carbon_Dioxide.internal](/_internal/Chemistry/inOrganic/Carbon_Dioxide.internal.md) 
+
+### #is_/same_as :: [Carbon_Dioxide.protect](/_protect/Chemistry/inOrganic/Carbon_Dioxide.protect.md) 
+
+### #is_/same_as :: [Carbon_Dioxide.private](/_private/Chemistry/inOrganic/Carbon_Dioxide.private.md) 
+
+### #is_/same_as :: [Carbon_Dioxide.personal](/_personal/Chemistry/inOrganic/Carbon_Dioxide.personal.md) 
+
+### #is_/same_as :: [Carbon_Dioxide.secret](/_secret/Chemistry/inOrganic/Carbon_Dioxide.secret.md)
+

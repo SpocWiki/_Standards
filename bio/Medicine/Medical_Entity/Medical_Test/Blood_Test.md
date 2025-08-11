@@ -38,17 +38,17 @@ A medical test performed on a sample of a patient's blood.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blood_Test](Blood_Test.md) 
+### #is_/same_as :: [Blood_Test](/_Standards/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.md) 
 
-### #is_/same_as :: [blood_test.public](/_public/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.public.md) 
+### #is_/same_as :: [Blood_Test.public](/_public/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.public.md) 
 
-### #is_/same_as :: [blood_test.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.internal.md) 
+### #is_/same_as :: [Blood_Test.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.internal.md) 
 
-### #is_/same_as :: [blood_test.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.protect.md) 
+### #is_/same_as :: [Blood_Test.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.protect.md) 
 
-### #is_/same_as :: [blood_test.private](/_private/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.private.md) 
+### #is_/same_as :: [Blood_Test.private](/_private/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.private.md) 
 
-### #is_/same_as :: [blood_test.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.personal.md) 
+### #is_/same_as :: [Blood_Test.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.personal.md) 
 
-### #is_/same_as :: [blood_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.secret.md)
+### #is_/same_as :: [Blood_Test.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Test/Blood_Test.secret.md)
 

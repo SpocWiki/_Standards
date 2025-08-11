@@ -53,17 +53,17 @@ Baidu_Tieba_name: 骨折
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bone_Fracture](Bone_Fracture.md) 
+### #is_/same_as :: [Bone_Fracture](/_Standards/bio/Medicine/Medical_Condition/Injury/Bone_Fracture.md) 
 
-### #is_/same_as :: [Bone_Fracture.public](/_public/bio/Medicine/Injury/Bone_Fracture.public.md) 
+### #is_/same_as :: [Bone_Fracture.public](/_public/bio/Medicine/Medical_Condition/Injury/Bone_Fracture.public.md) 
 
-### #is_/same_as :: [Bone_Fracture.internal](/_internal/bio/Medicine/Injury/Bone_Fracture.internal.md) 
+### #is_/same_as :: [Bone_Fracture.internal](/_internal/bio/Medicine/Medical_Condition/Injury/Bone_Fracture.internal.md) 
 
-### #is_/same_as :: [Bone_Fracture.protect](/_protect/bio/Medicine/Injury/Bone_Fracture.protect.md) 
+### #is_/same_as :: [Bone_Fracture.protect](/_protect/bio/Medicine/Medical_Condition/Injury/Bone_Fracture.protect.md) 
 
-### #is_/same_as :: [Bone_Fracture.private](/_private/bio/Medicine/Injury/Bone_Fracture.private.md) 
+### #is_/same_as :: [Bone_Fracture.private](/_private/bio/Medicine/Medical_Condition/Injury/Bone_Fracture.private.md) 
 
-### #is_/same_as :: [Bone_Fracture.personal](/_personal/bio/Medicine/Injury/Bone_Fracture.personal.md) 
+### #is_/same_as :: [Bone_Fracture.personal](/_personal/bio/Medicine/Medical_Condition/Injury/Bone_Fracture.personal.md) 
 
-### #is_/same_as :: [Bone_Fracture.secret](/_secret/bio/Medicine/Injury/Bone_Fracture.secret.md)
+### #is_/same_as :: [Bone_Fracture.secret](/_secret/bio/Medicine/Medical_Condition/Injury/Bone_Fracture.secret.md)
 

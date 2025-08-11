@@ -82,17 +82,17 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20sch%C3%BCtzt%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Infectious_Disease](Infectious_Disease.md) 
+### #is_/same_as :: [Infectious_Disease](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease.md) 
 
-### #is_/same_as :: [Infectious_Disease.public](/_public/bio/Medicine/Disease/Infectious_Disease.public.md) 
+### #is_/same_as :: [Infectious_Disease.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease.public.md) 
 
-### #is_/same_as :: [Infectious_Disease.internal](/_internal/bio/Medicine/Disease/Infectious_Disease.internal.md) 
+### #is_/same_as :: [Infectious_Disease.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease.internal.md) 
 
-### #is_/same_as :: [Infectious_Disease.protect](/_protect/bio/Medicine/Disease/Infectious_Disease.protect.md) 
+### #is_/same_as :: [Infectious_Disease.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease.protect.md) 
 
-### #is_/same_as :: [Infectious_Disease.private](/_private/bio/Medicine/Disease/Infectious_Disease.private.md) 
+### #is_/same_as :: [Infectious_Disease.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease.private.md) 
 
-### #is_/same_as :: [Infectious_Disease.personal](/_personal/bio/Medicine/Disease/Infectious_Disease.personal.md) 
+### #is_/same_as :: [Infectious_Disease.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease.personal.md) 
 
-### #is_/same_as :: [Infectious_Disease.secret](/_secret/bio/Medicine/Disease/Infectious_Disease.secret.md)
+### #is_/same_as :: [Infectious_Disease.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease.secret.md)
 

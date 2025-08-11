@@ -31,7 +31,7 @@ Use it like this:
 - [ #has_/corrections_policy :: CreativeWork, URL ] or 
 - [ has_corrections_policy :: CreativeWork, URL ] 
 
-For an [[../../../Society/Organization]] (e.g. [[NewsMediaOrganization]],
+For an [[../../../Society/Agent/Organization]] (e.g. [[NewsMediaOrganization]],
 a statement describing (in news media, the newsrooms) disclosure and correction policy for errors.
 
 Relation describes that: 

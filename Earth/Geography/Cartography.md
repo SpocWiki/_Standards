@@ -85,3 +85,22 @@ P8189: "987007284876105171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cartography) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cartography](/_Standards/Earth/Geography/Cartography.md) 
+
+### #is_/same_as :: [Cartography.public](/_public/Earth/Geography/Cartography.public.md) 
+
+### #is_/same_as :: [Cartography.internal](/_internal/Earth/Geography/Cartography.internal.md) 
+
+### #is_/same_as :: [Cartography.protect](/_protect/Earth/Geography/Cartography.protect.md) 
+
+### #is_/same_as :: [Cartography.private](/_private/Earth/Geography/Cartography.private.md) 
+
+### #is_/same_as :: [Cartography.personal](/_personal/Earth/Geography/Cartography.personal.md) 
+
+### #is_/same_as :: [Cartography.secret](/_secret/Earth/Geography/Cartography.secret.md)
+

@@ -38,17 +38,17 @@ A country.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Country](Country.md) 
+### #is_/same_as :: [Country](/_Standards/Earth/Geography/Place/Administrative_Area/Country.md) 
 
-### #is_/same_as :: [country.public](/_public/schema-org/Class/is_a_/place/administrative_area/country.public.md) 
+### #is_/same_as :: [Country.public](/_public/Earth/Geography/Place/Administrative_Area/Country.public.md) 
 
-### #is_/same_as :: [country.internal](/_internal/schema-org/Class/is_a_/place/administrative_area/country.internal.md) 
+### #is_/same_as :: [Country.internal](/_internal/Earth/Geography/Place/Administrative_Area/Country.internal.md) 
 
-### #is_/same_as :: [country.protect](/_protect/schema-org/Class/is_a_/place/administrative_area/country.protect.md) 
+### #is_/same_as :: [Country.protect](/_protect/Earth/Geography/Place/Administrative_Area/Country.protect.md) 
 
-### #is_/same_as :: [country.private](/_private/schema-org/Class/is_a_/place/administrative_area/country.private.md) 
+### #is_/same_as :: [Country.private](/_private/Earth/Geography/Place/Administrative_Area/Country.private.md) 
 
-### #is_/same_as :: [country.personal](/_personal/schema-org/Class/is_a_/place/administrative_area/country.personal.md) 
+### #is_/same_as :: [Country.personal](/_personal/Earth/Geography/Place/Administrative_Area/Country.personal.md) 
 
-### #is_/same_as :: [country.secret](/_secret/schema-org/Class/is_a_/place/administrative_area/country.secret.md)
+### #is_/same_as :: [Country.secret](/_secret/Earth/Geography/Place/Administrative_Area/Country.secret.md)
 

@@ -51,17 +51,17 @@ document on the use of schema.org for marking up hotels and other forms of accom
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Campground](Campground.md) 
+### #is_/same_as :: [Campground](/_Standards/Earth/Geography/Place/Civic_Structure/Campground.md) 
 
-### #is_/same_as :: [campground.public](/_public/schema-org/Class/is_a_/place/civic_structure/campground.public.md) 
+### #is_/same_as :: [Campground.public](/_public/Earth/Geography/Place/Civic_Structure/Campground.public.md) 
 
-### #is_/same_as :: [campground.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/campground.internal.md) 
+### #is_/same_as :: [Campground.internal](/_internal/Earth/Geography/Place/Civic_Structure/Campground.internal.md) 
 
-### #is_/same_as :: [campground.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/campground.protect.md) 
+### #is_/same_as :: [Campground.protect](/_protect/Earth/Geography/Place/Civic_Structure/Campground.protect.md) 
 
-### #is_/same_as :: [campground.private](/_private/schema-org/Class/is_a_/place/civic_structure/campground.private.md) 
+### #is_/same_as :: [Campground.private](/_private/Earth/Geography/Place/Civic_Structure/Campground.private.md) 
 
-### #is_/same_as :: [campground.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/campground.personal.md) 
+### #is_/same_as :: [Campground.personal](/_personal/Earth/Geography/Place/Civic_Structure/Campground.personal.md) 
 
-### #is_/same_as :: [campground.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/campground.secret.md)
+### #is_/same_as :: [Campground.secret](/_secret/Earth/Geography/Place/Civic_Structure/Campground.secret.md)
 

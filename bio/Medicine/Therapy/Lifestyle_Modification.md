@@ -40,17 +40,17 @@ A process of care involving exercise, changes to diet, fitness routines, and oth
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lifestyle_Modification](Lifestyle_Modification.md) 
+### #is_/same_as :: [Lifestyle_Modification](/_Standards/bio/Medicine/Therapy/Lifestyle_Modification.md) 
 
-### #is_/same_as :: [lifestyle_modification.public](/_public/schema-org/Class/is_a_/medical_entity/lifestyle_modification.public.md) 
+### #is_/same_as :: [Lifestyle_Modification.public](/_public/bio/Medicine/Therapy/Lifestyle_Modification.public.md) 
 
-### #is_/same_as :: [lifestyle_modification.internal](/_internal/schema-org/Class/is_a_/medical_entity/lifestyle_modification.internal.md) 
+### #is_/same_as :: [Lifestyle_Modification.internal](/_internal/bio/Medicine/Therapy/Lifestyle_Modification.internal.md) 
 
-### #is_/same_as :: [lifestyle_modification.protect](/_protect/schema-org/Class/is_a_/medical_entity/lifestyle_modification.protect.md) 
+### #is_/same_as :: [Lifestyle_Modification.protect](/_protect/bio/Medicine/Therapy/Lifestyle_Modification.protect.md) 
 
-### #is_/same_as :: [lifestyle_modification.private](/_private/schema-org/Class/is_a_/medical_entity/lifestyle_modification.private.md) 
+### #is_/same_as :: [Lifestyle_Modification.private](/_private/bio/Medicine/Therapy/Lifestyle_Modification.private.md) 
 
-### #is_/same_as :: [lifestyle_modification.personal](/_personal/schema-org/Class/is_a_/medical_entity/lifestyle_modification.personal.md) 
+### #is_/same_as :: [Lifestyle_Modification.personal](/_personal/bio/Medicine/Therapy/Lifestyle_Modification.personal.md) 
 
-### #is_/same_as :: [lifestyle_modification.secret](/_secret/schema-org/Class/is_a_/medical_entity/lifestyle_modification.secret.md)
+### #is_/same_as :: [Lifestyle_Modification.secret](/_secret/bio/Medicine/Therapy/Lifestyle_Modification.secret.md)
 

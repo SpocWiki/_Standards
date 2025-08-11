@@ -80,3 +80,22 @@ UMLS_CUI: C0334726
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astronomer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Astronomer](/_Standards/Astronomy/Astronomer.md) 
+
+### #is_/same_as :: [Astronomer.public](/_public/Astronomy/Astronomer.public.md) 
+
+### #is_/same_as :: [Astronomer.internal](/_internal/Astronomy/Astronomer.internal.md) 
+
+### #is_/same_as :: [Astronomer.protect](/_protect/Astronomy/Astronomer.protect.md) 
+
+### #is_/same_as :: [Astronomer.private](/_private/Astronomy/Astronomer.private.md) 
+
+### #is_/same_as :: [Astronomer.personal](/_personal/Astronomy/Astronomer.personal.md) 
+
+### #is_/same_as :: [Astronomer.secret](/_secret/Astronomy/Astronomer.secret.md)
+

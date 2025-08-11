@@ -1,5 +1,5 @@
 
-#is_a :: [[../../../../../../schema-org/Class/is_a_/creative_work/movie|movie]] 
+#is_a :: [[../../../Creative_Work/Movie|movie]] 
 #has_/director :: [[Brad Silberling]] 
 
 > **Lemony Snicket's A Series of Unfortunate Events** 

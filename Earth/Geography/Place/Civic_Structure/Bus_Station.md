@@ -38,17 +38,17 @@ A bus station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bus_Station](Bus_Station.md) 
+### #is_/same_as :: [Bus_Station](/_Standards/Earth/Geography/Place/Civic_Structure/Bus_Station.md) 
 
-### #is_/same_as :: [bus_station.public](/_public/schema-org/Class/is_a_/place/civic_structure/bus_station.public.md) 
+### #is_/same_as :: [Bus_Station.public](/_public/Earth/Geography/Place/Civic_Structure/Bus_Station.public.md) 
 
-### #is_/same_as :: [bus_station.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/bus_station.internal.md) 
+### #is_/same_as :: [Bus_Station.internal](/_internal/Earth/Geography/Place/Civic_Structure/Bus_Station.internal.md) 
 
-### #is_/same_as :: [bus_station.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/bus_station.protect.md) 
+### #is_/same_as :: [Bus_Station.protect](/_protect/Earth/Geography/Place/Civic_Structure/Bus_Station.protect.md) 
 
-### #is_/same_as :: [bus_station.private](/_private/schema-org/Class/is_a_/place/civic_structure/bus_station.private.md) 
+### #is_/same_as :: [Bus_Station.private](/_private/Earth/Geography/Place/Civic_Structure/Bus_Station.private.md) 
 
-### #is_/same_as :: [bus_station.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/bus_station.personal.md) 
+### #is_/same_as :: [Bus_Station.personal](/_personal/Earth/Geography/Place/Civic_Structure/Bus_Station.personal.md) 
 
-### #is_/same_as :: [bus_station.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/bus_station.secret.md)
+### #is_/same_as :: [Bus_Station.secret](/_secret/Earth/Geography/Place/Civic_Structure/Bus_Station.secret.md)
 

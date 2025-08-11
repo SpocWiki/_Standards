@@ -4,10 +4,10 @@ aliases:
   - metallic bonding
 has_id_wikidata: Q191390
 has_effect:
-  - "[[db/electrical_conductivity]]"
-  - "[[db/electron_delocalization]]"
-partially_coincident_with: "[[db/metal_metal_bond]]"
-subclass_of: "[[db/chemical_bond]]"
+  - "[[_Standards/WikiData/WD~electrical_conductivity,4593291]]"
+  - "[[_Standards/WikiData/WD~electron_delocalization,56627491]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~metal_metal_bond,100701043]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_bond,44424]]"
 Commons_category: Metallic bonding
 ---
 
@@ -33,4 +33,23 @@ Commons_category: Metallic bonding
 > Another example of a metal–metal covalent bond is the mercurous ion (Hg2+2).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metallic%20bonding) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metallic_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.md) 
+
+### #is_/same_as :: [Metallic_Bond.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.public.md) 
+
+### #is_/same_as :: [Metallic_Bond.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.internal.md) 
+
+### #is_/same_as :: [Metallic_Bond.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.protect.md) 
+
+### #is_/same_as :: [Metallic_Bond.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.private.md) 
+
+### #is_/same_as :: [Metallic_Bond.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.personal.md) 
+
+### #is_/same_as :: [Metallic_Bond.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.secret.md)
 

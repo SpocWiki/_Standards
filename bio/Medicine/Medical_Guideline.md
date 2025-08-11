@@ -40,17 +40,17 @@ Any recommendation made by a standard society (e.g. ACC/AHA) or consensus statem
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Guideline](Medical_Guideline.md) 
+### #is_/same_as :: [Medical_Guideline](/_Standards/bio/Medicine/Medical_Guideline.md) 
 
-### #is_/same_as :: [medical_guideline.public](/_public/schema-org/Class/is_a_/medical_entity/medical_guideline.public.md) 
+### #is_/same_as :: [Medical_Guideline.public](/_public/bio/Medicine/Medical_Guideline.public.md) 
 
-### #is_/same_as :: [medical_guideline.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_guideline.internal.md) 
+### #is_/same_as :: [Medical_Guideline.internal](/_internal/bio/Medicine/Medical_Guideline.internal.md) 
 
-### #is_/same_as :: [medical_guideline.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_guideline.protect.md) 
+### #is_/same_as :: [Medical_Guideline.protect](/_protect/bio/Medicine/Medical_Guideline.protect.md) 
 
-### #is_/same_as :: [medical_guideline.private](/_private/schema-org/Class/is_a_/medical_entity/medical_guideline.private.md) 
+### #is_/same_as :: [Medical_Guideline.private](/_private/bio/Medicine/Medical_Guideline.private.md) 
 
-### #is_/same_as :: [medical_guideline.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_guideline.personal.md) 
+### #is_/same_as :: [Medical_Guideline.personal](/_personal/bio/Medicine/Medical_Guideline.personal.md) 
 
-### #is_/same_as :: [medical_guideline.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_guideline.secret.md)
+### #is_/same_as :: [Medical_Guideline.secret](/_secret/bio/Medicine/Medical_Guideline.secret.md)
 

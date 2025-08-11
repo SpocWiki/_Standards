@@ -81,17 +81,17 @@ Eiswein
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mixture](Mixture.md) 
+### #is_/same_as :: [Mixture](/_Standards/Chemistry/Substance/Mixture.md) 
 
-### #is_/same_as :: [Mixture.public](/_public/Chemistry/Mixture.public.md) 
+### #is_/same_as :: [Mixture.public](/_public/Chemistry/Substance/Mixture.public.md) 
 
-### #is_/same_as :: [Mixture.internal](/_internal/Chemistry/Mixture.internal.md) 
+### #is_/same_as :: [Mixture.internal](/_internal/Chemistry/Substance/Mixture.internal.md) 
 
-### #is_/same_as :: [Mixture.protect](/_protect/Chemistry/Mixture.protect.md) 
+### #is_/same_as :: [Mixture.protect](/_protect/Chemistry/Substance/Mixture.protect.md) 
 
-### #is_/same_as :: [Mixture.private](/_private/Chemistry/Mixture.private.md) 
+### #is_/same_as :: [Mixture.private](/_private/Chemistry/Substance/Mixture.private.md) 
 
-### #is_/same_as :: [Mixture.personal](/_personal/Chemistry/Mixture.personal.md) 
+### #is_/same_as :: [Mixture.personal](/_personal/Chemistry/Substance/Mixture.personal.md) 
 
-### #is_/same_as :: [Mixture.secret](/_secret/Chemistry/Mixture.secret.md)
+### #is_/same_as :: [Mixture.secret](/_secret/Chemistry/Substance/Mixture.secret.md)
 

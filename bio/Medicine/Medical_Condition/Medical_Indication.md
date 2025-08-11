@@ -40,17 +40,17 @@ A condition or factor that indicates use of a medical therapy, including signs, 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Indication](Medical_Indication.md) 
+### #is_/same_as :: [Medical_Indication](/_Standards/bio/Medicine/Medical_Condition/Medical_Indication.md) 
 
-### #is_/same_as :: [medical_indication.public](/_public/schema-org/Class/is_a_/medical_entity/medical_indication.public.md) 
+### #is_/same_as :: [Medical_Indication.public](/_public/bio/Medicine/Medical_Condition/Medical_Indication.public.md) 
 
-### #is_/same_as :: [medical_indication.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_indication.internal.md) 
+### #is_/same_as :: [Medical_Indication.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Indication.internal.md) 
 
-### #is_/same_as :: [medical_indication.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_indication.protect.md) 
+### #is_/same_as :: [Medical_Indication.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Indication.protect.md) 
 
-### #is_/same_as :: [medical_indication.private](/_private/schema-org/Class/is_a_/medical_entity/medical_indication.private.md) 
+### #is_/same_as :: [Medical_Indication.private](/_private/bio/Medicine/Medical_Condition/Medical_Indication.private.md) 
 
-### #is_/same_as :: [medical_indication.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_indication.personal.md) 
+### #is_/same_as :: [Medical_Indication.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Indication.personal.md) 
 
-### #is_/same_as :: [medical_indication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_indication.secret.md)
+### #is_/same_as :: [Medical_Indication.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Indication.secret.md)
 

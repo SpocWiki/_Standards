@@ -2,6 +2,7 @@
 aliases:
   - Carl Edward Sagan
   - Carl Sagan
+  - Sagan
 has_id_wikidata: Q410
 field_of_work:
   - "[[_Standards/WikiData/WD~planetary_science,104499]]"
@@ -47,7 +48,8 @@ occupation:
   - "[[_Standards/WikiData/WD~naturalist,18805]]"
   - "[[_Standards/WikiData/WD~screenwriter,28389]]"
   - "[[_Standards/WikiData/WD~writer,36180]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Gerard_Kuiper,192948]]"
+doctoral_advisor:
+  - "[[_Standards/WikiData/WD~Gerard_Kuiper,192948]]"
 spouse:
   - "[[_Standards/WikiData/WD~Lynn_Margulis,234583]]"
   - "[[_Standards/WikiData/WD~Linda_Salzman_Sagan,4526447]]"
@@ -72,7 +74,8 @@ award_received:
   - "[[_Standards/WikiData/WD~Fellow_of_the_Committee_for_Skeptical_Inquiry,61745062]]"
   - "[[_Standards/WikiData/WD~International_Space_Hall_of_Fame,99951011]]"
   - "[[_Standards/WikiData/WD~The_Hillman_Prize_for_Magazine_Journalism,104595293]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Agnosticism,288928]]"
+religion_or_worldview:
+  - "[[_Standards/WikiData/WD~Agnosticism,288928]]"
 child:
   - "[[_Standards/WikiData/WD~Nick_Sagan,329743]]"
   - "[[_Standards/WikiData/WD~Dorion_Sagan,5297869]]"
@@ -85,9 +88,12 @@ notable_work:
   - "[[_Standards/WikiData/WD~The_Demon_Haunted_World,2482106]]"
   - "[[_Standards/WikiData/WD~Broca's_Brain_Reflections_on_the_Romance_of_Science,4972600]]"
   - "[[_Standards/WikiData/WD~Pale_Blue_Dot,5231098]]"
-medical_condition: "[[_Standards/WikiData/WD~myelodysplastic_syndrome,954625]]"
-given_name: "[[_Standards/WikiData/WD~Carl,2529610]]"
-nominated_for: "[[_Standards/WikiData/WD~Locus_Award_for_Best_Science_Fiction_Novel,2576795]]"
+medical_condition:
+  - "[[_Standards/WikiData/WD~myelodysplastic_syndrome,954625]]"
+given_name:
+  - "[[_Standards/WikiData/WD~Carl,2529610]]"
+nominated_for:
+  - "[[_Standards/WikiData/WD~Locus_Award_for_Best_Science_Fiction_Novel,2576795]]"
 manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Carl_Sagan,6863611]]"
@@ -103,7 +109,8 @@ languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
 place_of_death: "[[_Standards/WikiData/WD~Seattle,5083]]"
 cause_of_death: "[[_Standards/WikiData/WD~pneumonia,12192]]"
 place_of_birth: "[[_Standards/WikiData/WD~Brooklyn,18419]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
 Erdős_number: 4
 social_media_followers: 160000
@@ -126,7 +133,8 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Sagan%20Sig
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/SaganGrave%20LakeViewCemetery.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Carl%20Sagan%20%28hablado%20por%20voz%20AI%29.mp3
 official_website: https://carlsagan.com
-ISNI: "0000000121282295"
+ISNI:
+  - "0000000121282295"
 ---
 
 # [[Sagan,Carl_Edward]] 
@@ -149,4 +157,23 @@ ISNI: "0000000121282295"
 > Sagan was a popular public advocate of skeptical scientific inquiry and the scientific method; he pioneered the field of exobiology and promoted the search for extraterrestrial intelligence (SETI). He spent most of his career as a professor of astronomy at Cornell University, where he directed the Laboratory for Planetary Studies. Sagan and his works received numerous awards and honors, including the NASA Distinguished Public Service Medal, the National Academy of Sciences Public Welfare Medal, the Pulitzer Prize for General Nonfiction (for his book The Dragons of Eden), and (for Cosmos: A Personal Voyage) two Emmy Awards, the Peabody Award, and the Hugo Award. He married three times and had five children. After developing myelodysplasia, Sagan died of pneumonia at the age of 62 on December 20, 1996.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Sagan) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sagan,Carl_Edward](/_Standards/Astronomy/Astrophysicist/Sagan,Carl_Edward.md) 
+
+### #is_/same_as :: [Sagan,Carl_Edward.public](/_public/Astronomy/Astrophysicist/Sagan,Carl_Edward.public.md) 
+
+### #is_/same_as :: [Sagan,Carl_Edward.internal](/_internal/Astronomy/Astrophysicist/Sagan,Carl_Edward.internal.md) 
+
+### #is_/same_as :: [Sagan,Carl_Edward.protect](/_protect/Astronomy/Astrophysicist/Sagan,Carl_Edward.protect.md) 
+
+### #is_/same_as :: [Sagan,Carl_Edward.private](/_private/Astronomy/Astrophysicist/Sagan,Carl_Edward.private.md) 
+
+### #is_/same_as :: [Sagan,Carl_Edward.personal](/_personal/Astronomy/Astrophysicist/Sagan,Carl_Edward.personal.md) 
+
+### #is_/same_as :: [Sagan,Carl_Edward.secret](/_secret/Astronomy/Astrophysicist/Sagan,Carl_Edward.secret.md)
 

@@ -1,12 +1,12 @@
 ---
 aliases: 
 has_id_wikidata: Q183998
-different_from: "[[db/Camera_obscura]]"
-instance_of: "[[db/still_camera]]"
+different_from: "[[_Standards/WikiData/WD~Camera_obscura,253465]]"
+instance_of: "[[_Standards/WikiData/WD~still_camera,313600]]"
 described_by_source:
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/The_Nuttall_Encyclopædia]]"
-subclass_of: "[[db/optical_instrument]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+subclass_of: "[[_Standards/WikiData/WD~optical_instrument,1751850]]"
 described_at_URL:
   - https://www.accademiatf.eu/post/la-camera-obscura-come-tecnica-di-ripresa
   - https://www.hsm.ox.ac.uk/camera-obscura

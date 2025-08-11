@@ -38,17 +38,17 @@ A stadium.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stadium_or_Arena](Stadium_or_Arena.md) 
+### #is_/same_as :: [Stadium_or_Arena](/_Standards/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.md) 
 
-### #is_/same_as :: [stadium_or_arena.public](/_public/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.public.md) 
+### #is_/same_as :: [Stadium_or_Arena.public](/_public/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.public.md) 
 
-### #is_/same_as :: [stadium_or_arena.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.internal.md) 
+### #is_/same_as :: [Stadium_or_Arena.internal](/_internal/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.internal.md) 
 
-### #is_/same_as :: [stadium_or_arena.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.protect.md) 
+### #is_/same_as :: [Stadium_or_Arena.protect](/_protect/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.protect.md) 
 
-### #is_/same_as :: [stadium_or_arena.private](/_private/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.private.md) 
+### #is_/same_as :: [Stadium_or_Arena.private](/_private/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.private.md) 
 
-### #is_/same_as :: [stadium_or_arena.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.personal.md) 
+### #is_/same_as :: [Stadium_or_Arena.personal](/_personal/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.personal.md) 
 
-### #is_/same_as :: [stadium_or_arena.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.secret.md)
+### #is_/same_as :: [Stadium_or_Arena.secret](/_secret/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.secret.md)
 

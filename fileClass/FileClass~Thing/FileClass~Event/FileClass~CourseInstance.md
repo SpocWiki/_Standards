@@ -43,7 +43,7 @@ version: 2.0
 # CourseInstance
 This is a kind of [[FileClass~Event]]
 
-An instance of a [[Course]] which is distinct from other instances because it is offered at a different time or location or through different media or modes of study or to a specific section of students.
+An instance of a [[../../../Society/Communication/Media/Creative_Work/Course]] which is distinct from other instances because it is offered at a different time or location or through different media or modes of study or to a specific section of students.
 
 
 ## Use one of these Tags for Objects of this Type:

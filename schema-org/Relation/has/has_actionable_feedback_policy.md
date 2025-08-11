@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/actionable_feedback_policy :: CreativeWork, URL ] or 
 - [ has_actionable_feedback_policy :: CreativeWork, URL ] 
 
-For a [[NewsMediaOrganization]] or other news-related [[../../../Society/Organization]];
+For a [[NewsMediaOrganization]] or other news-related [[../../../Society/Agent/Organization]];
 A statement about public engagement activities (for news media, the newsroom�s),
 including involving the public - digitally or otherwise -- 
 in coverage decisions, reporting and activities after publication.

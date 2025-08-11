@@ -49,3 +49,22 @@ subreddit: CARTOON
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cartoon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cartoon](/_Standards/Society/Communication/Media/Painting/Cartoon.md) 
+
+### #is_/same_as :: [Cartoon.public](/_public/Society/Communication/Media/Painting/Cartoon.public.md) 
+
+### #is_/same_as :: [Cartoon.internal](/_internal/Society/Communication/Media/Painting/Cartoon.internal.md) 
+
+### #is_/same_as :: [Cartoon.protect](/_protect/Society/Communication/Media/Painting/Cartoon.protect.md) 
+
+### #is_/same_as :: [Cartoon.private](/_private/Society/Communication/Media/Painting/Cartoon.private.md) 
+
+### #is_/same_as :: [Cartoon.personal](/_personal/Society/Communication/Media/Painting/Cartoon.personal.md) 
+
+### #is_/same_as :: [Cartoon.secret](/_secret/Society/Communication/Media/Painting/Cartoon.secret.md)
+

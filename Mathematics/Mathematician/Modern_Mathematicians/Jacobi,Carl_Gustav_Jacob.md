@@ -147,3 +147,22 @@ P8189: "987007272029105171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Gustav%20Jacob%20Jacobi) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob](/_Standards/Mathematics/Mathematician/Modern_Mathematicians/Jacobi,Carl_Gustav_Jacob.md) 
+
+### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob.public](/_public/Mathematics/Mathematician/Modern_Mathematicians/Jacobi,Carl_Gustav_Jacob.public.md) 
+
+### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob.internal](/_internal/Mathematics/Mathematician/Modern_Mathematicians/Jacobi,Carl_Gustav_Jacob.internal.md) 
+
+### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob.protect](/_protect/Mathematics/Mathematician/Modern_Mathematicians/Jacobi,Carl_Gustav_Jacob.protect.md) 
+
+### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob.private](/_private/Mathematics/Mathematician/Modern_Mathematicians/Jacobi,Carl_Gustav_Jacob.private.md) 
+
+### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob.personal](/_personal/Mathematics/Mathematician/Modern_Mathematicians/Jacobi,Carl_Gustav_Jacob.personal.md) 
+
+### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob.secret](/_secret/Mathematics/Mathematician/Modern_Mathematicians/Jacobi,Carl_Gustav_Jacob.secret.md)
+

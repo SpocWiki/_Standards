@@ -38,17 +38,17 @@ A synagogue.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Synagogue](Synagogue.md) 
+### #is_/same_as :: [Synagogue](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.md) 
 
-### #is_/same_as :: [synagogue.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.public.md) 
+### #is_/same_as :: [Synagogue.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.public.md) 
 
-### #is_/same_as :: [synagogue.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.internal.md) 
+### #is_/same_as :: [Synagogue.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.internal.md) 
 
-### #is_/same_as :: [synagogue.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.protect.md) 
+### #is_/same_as :: [Synagogue.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.protect.md) 
 
-### #is_/same_as :: [synagogue.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.private.md) 
+### #is_/same_as :: [Synagogue.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.private.md) 
 
-### #is_/same_as :: [synagogue.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.personal.md) 
+### #is_/same_as :: [Synagogue.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.personal.md) 
 
-### #is_/same_as :: [synagogue.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.secret.md)
+### #is_/same_as :: [Synagogue.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.secret.md)
 

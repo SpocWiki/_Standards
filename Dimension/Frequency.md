@@ -69,3 +69,22 @@ Gujarati_Vishwakosh_entry: આવૃત્તિ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Frequency) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Frequency](/_Standards/Dimension/Frequency.md) 
+
+### #is_/same_as :: [Frequency.public](/_public/Dimension/Frequency.public.md) 
+
+### #is_/same_as :: [Frequency.internal](/_internal/Dimension/Frequency.internal.md) 
+
+### #is_/same_as :: [Frequency.protect](/_protect/Dimension/Frequency.protect.md) 
+
+### #is_/same_as :: [Frequency.private](/_private/Dimension/Frequency.private.md) 
+
+### #is_/same_as :: [Frequency.personal](/_personal/Dimension/Frequency.personal.md) 
+
+### #is_/same_as :: [Frequency.secret](/_secret/Dimension/Frequency.secret.md)
+

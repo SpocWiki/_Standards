@@ -4,6 +4,8 @@ title: Labyrinthulomycetes
 
 # [[Labyrinthulomycetes]] 
 
+#is_a/bio-Phylum  
+#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
 
 ## #has_/text_of_/abstract 
 

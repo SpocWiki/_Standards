@@ -106,17 +106,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_diabetes,7112608]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diabetes_mellitus](Diabetes_mellitus.md) 
+### #is_/same_as :: [Diabetes_mellitus](/_Standards/bio/Medicine/Medical_Condition/Disease/Diabetes_mellitus.md) 
 
-### #is_/same_as :: [Diabetes_mellitus.public](/_public/bio/Medicine/Disease/Diabetes_mellitus.public.md) 
+### #is_/same_as :: [Diabetes_mellitus.public](/_public/bio/Medicine/Medical_Condition/Disease/Diabetes_mellitus.public.md) 
 
-### #is_/same_as :: [Diabetes_mellitus.internal](/_internal/bio/Medicine/Disease/Diabetes_mellitus.internal.md) 
+### #is_/same_as :: [Diabetes_mellitus.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Diabetes_mellitus.internal.md) 
 
-### #is_/same_as :: [Diabetes_mellitus.protect](/_protect/bio/Medicine/Disease/Diabetes_mellitus.protect.md) 
+### #is_/same_as :: [Diabetes_mellitus.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Diabetes_mellitus.protect.md) 
 
-### #is_/same_as :: [Diabetes_mellitus.private](/_private/bio/Medicine/Disease/Diabetes_mellitus.private.md) 
+### #is_/same_as :: [Diabetes_mellitus.private](/_private/bio/Medicine/Medical_Condition/Disease/Diabetes_mellitus.private.md) 
 
-### #is_/same_as :: [Diabetes_mellitus.personal](/_personal/bio/Medicine/Disease/Diabetes_mellitus.personal.md) 
+### #is_/same_as :: [Diabetes_mellitus.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Diabetes_mellitus.personal.md) 
 
-### #is_/same_as :: [Diabetes_mellitus.secret](/_secret/bio/Medicine/Disease/Diabetes_mellitus.secret.md)
+### #is_/same_as :: [Diabetes_mellitus.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Diabetes_mellitus.secret.md)
 

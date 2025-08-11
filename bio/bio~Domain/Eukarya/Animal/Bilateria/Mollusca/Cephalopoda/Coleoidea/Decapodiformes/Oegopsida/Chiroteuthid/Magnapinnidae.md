@@ -2,35 +2,6 @@
 title: Magnapinna
 ---
 
-## Phylogeny 
-
--   « Ancestral Groups  
-    -   [Chiroteuthid families](Chiroteuthid_families)
-    -  [Oegopsida](../../Oegopsida.md))
-    -  [Decapodiformes](../../../Decapodiformes.md))
-    -  [Coleoidea](../../../../Coleoidea.md))
-    -  [Cephalopoda](../../../../../Cephalopoda.md))
-    -  [Mollusca](../../../../../../Mollusca.md))
-    -  [Bilateria](../../../../../../../Bilateria.md))
-    -  [Animals](../../../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Chiroteuthid families
-    -   [Batoteuthis skolops](Batoteuthis_skolops)
-    -  [Chiroteuthidae](Chiroteuthidae.md))
-    -   [Joubiniteuthis portieri](Joubiniteuthis_portieri)
-    -   Magnapinna
-    -   [Mastigoteuthis](Mastigoteuthis)
-    -   [Promachoteuthis](Promachoteuthis)
-
--   » Sub-Groups
-    -   [Magnapinna atlantica](Magnapinna_atlantica)
-    -   [Magnapinna sp. B](Magnapinna_sp._B)
-    -   [Magnapinna sp. C](Magnapinna_sp._C)
-    -   [Magnapinna pacifica](Magnapinna_pacifica)
-    -   [Magnapinna talismani](Magnapinna_talismani)
-
 ## Magnapinnidae [Vecchione and Young, 1998] 
 
 # *Magnapinna* [Vecchione and Young, 1998] 
@@ -199,6 +170,35 @@ The list includes the current status and type species of all genera, and
 the current status, type repository and type locality of all species and
 all pertinent references.
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Chiroteuthid families](Chiroteuthid_families)
+    -  [Oegopsida](../../Oegopsida.md))
+    -  [Decapodiformes](../../../Decapodiformes.md))
+    -  [Coleoidea](../../../../Coleoidea.md))
+    -  [Cephalopoda](../../../../../Cephalopoda.md))
+    -  [Mollusca](../../../../../../Mollusca.md))
+    -  [Bilateria](../../../../../../../Bilateria.md))
+    -  [Animals](../../../../../../../../Animals.md))
+    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Chiroteuthid families
+    -   [Batoteuthis skolops](Batoteuthis_skolops)
+    -  [Chiroteuthidae](Chiroteuthidae.md))
+    -   [Joubiniteuthis portieri](Joubiniteuthis_portieri)
+    -   Magnapinna
+    -   [Mastigoteuthis](Mastigoteuthis)
+    -   [Promachoteuthis](Promachoteuthis)
+
+-   » Sub-Groups
+    -   [Magnapinna atlantica](Magnapinna_atlantica)
+    -   [Magnapinna sp. B](Magnapinna_sp._B)
+    -   [Magnapinna sp. C](Magnapinna_sp._C)
+    -   [Magnapinna pacifica](Magnapinna_pacifica)
+    -   [Magnapinna talismani](Magnapinna_talismani)
+
 ### References
 
 Guerra, A., Gonzalez, A. F., Rocha, F., Segonzac, M., Gracia, J. 2002.
@@ -229,7 +229,8 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
   View                 Side
   Size                 ca. 7 m
   Copyright ::            © NOAA Undersea Research Program, Minerals Management Service and National Energy Technology Lab.
-  ------------------------------------
+  ------------------------------------
+
 
 
 ## Confidential Links & Embeds: 

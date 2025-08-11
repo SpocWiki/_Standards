@@ -58,3 +58,22 @@ Krugosvet_article: muzyka/kariyon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carillon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carillon](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Carillon.md) 
+
+### #is_/same_as :: [Carillon.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Carillon.public.md) 
+
+### #is_/same_as :: [Carillon.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Carillon.internal.md) 
+
+### #is_/same_as :: [Carillon.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Carillon.protect.md) 
+
+### #is_/same_as :: [Carillon.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Carillon.private.md) 
+
+### #is_/same_as :: [Carillon.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Carillon.personal.md) 
+
+### #is_/same_as :: [Carillon.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Carillon.secret.md)
+

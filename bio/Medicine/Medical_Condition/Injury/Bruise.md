@@ -55,17 +55,17 @@ MeSH_tree_code: C26.974.250
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bruise](Bruise.md) 
+### #is_/same_as :: [Bruise](/_Standards/bio/Medicine/Medical_Condition/Injury/Bruise.md) 
 
-### #is_/same_as :: [Bruise.public](/_public/bio/Medicine/Injury/Bruise.public.md) 
+### #is_/same_as :: [Bruise.public](/_public/bio/Medicine/Medical_Condition/Injury/Bruise.public.md) 
 
-### #is_/same_as :: [Bruise.internal](/_internal/bio/Medicine/Injury/Bruise.internal.md) 
+### #is_/same_as :: [Bruise.internal](/_internal/bio/Medicine/Medical_Condition/Injury/Bruise.internal.md) 
 
-### #is_/same_as :: [Bruise.protect](/_protect/bio/Medicine/Injury/Bruise.protect.md) 
+### #is_/same_as :: [Bruise.protect](/_protect/bio/Medicine/Medical_Condition/Injury/Bruise.protect.md) 
 
-### #is_/same_as :: [Bruise.private](/_private/bio/Medicine/Injury/Bruise.private.md) 
+### #is_/same_as :: [Bruise.private](/_private/bio/Medicine/Medical_Condition/Injury/Bruise.private.md) 
 
-### #is_/same_as :: [Bruise.personal](/_personal/bio/Medicine/Injury/Bruise.personal.md) 
+### #is_/same_as :: [Bruise.personal](/_personal/bio/Medicine/Medical_Condition/Injury/Bruise.personal.md) 
 
-### #is_/same_as :: [Bruise.secret](/_secret/bio/Medicine/Injury/Bruise.secret.md)
+### #is_/same_as :: [Bruise.secret](/_secret/bio/Medicine/Medical_Condition/Injury/Bruise.secret.md)
 

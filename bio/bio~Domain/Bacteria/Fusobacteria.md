@@ -8,6 +8,10 @@ title: Fusobacteria
 
 # [[Fusobacteria]] 
 
+#is_a/bio-Kingdom 
+#is_a :: [[../../Taxon_Rank/bio-Kingdom|bio-Kingdom]]  
+
+
 ## #has_/text_of_/abstract 
 
 > Fusobacteriota are obligately anaerobic non-sporeforming Gram-negative bacilli. 
@@ -49,29 +53,29 @@ title: Fusobacteria
     -   [Tree of Life](../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Eubacteria
-    -   [Aquificae](Aquificae.md)
-    -   [Thermotogae](Thermotogae.md)
-    -   [Thermodesulfobacteria](Thermodesulfobacteria.md)
+    -   [Aquificae](Pseudomonadati/Aquificae.md)
+    -   [Thermotogae](Thermotogati/Thermotogota/Thermotogae.md)
+    -   [Thermodesulfobacteria](Pseudomonadati/Thermodesulfobacteria.md)
     -   [Chrysiogenes arsenatis](Chrysiogenes_arsenatis)
-    -   [Nitrospira](Nitrospira.md)
-    -   [Deferribacteres](Deferribacteres.md)
-    -   [Chloroflexi](Chloroflexi.md)
-    -   [Thermomicrobium](Thermomicrobium.md)
-    -   [Fibrobacteres](Fibrobacteres.md)
-    -   [Proteobacteria](Proteobacteria.md)
-    -   [Planctomycetes](Planctomycetes.md)
-    -   [Chlamydiae](Chlamydiae.md)
-    -   [Spirochaetes](Spirochaetes.md)
-    -   [Bacteroidetes](Bacteroidetes.md)
-    -   [Chlorobi](Chlorobi.md)
-    -   [Actinobacteria](Actinobacteria.md)
-    -   [Deinococcus-Thermus](Deinococcus-Thermus.md)
-    -   [Cyanobacteria](Cyanobacteria.md)
-    -   [Firmicutes](Firmicutes.md)
+    -   [Nitrospira](Pseudomonadati/Nitrospira.md)
+    -   [Deferribacteres](Pseudomonadati/Deferribacteres.md)
+    -   [Chloroflexi](Bacillati/Chloroflexota/Chloroflexi.md)
+    -   [Thermomicrobium](Pseudomonadati/Thermomicrobium.md)
+    -   [Fibrobacteres](Pseudomonadati/Fibrobacteres.md)
+    -   [Proteobacteria](Pseudomonadati/Proteobacteria.md)
+    -   [Planctomycetes](Pseudomonadati/Planctomycetes.md)
+    -   [Chlamydiae](Pseudomonadati/Chlamydiae.md)
+    -   [Spirochaetes](Pseudomonadati/Spirochaetes.md)
+    -   [Bacteroidetes](Pseudomonadati/Bacteroidetes.md)
+    -   [Chlorobi](Pseudomonadati/Chlorobi.md)
+    -   [Actinobacteria](Bacillati/Actinobacteria.md)
+    -   [Deinococcus-Thermus](Thermotogati/Thermotogota/Thermotogae/Deinococcus-Thermus.md)
+    -   [Cyanobacteria](Bacillati/Cyanobacteria.md)
+    -   [Bacillota](Bacillati/Bacillota.md)
     -   Fusobacteria
-    -   [Verrucomicrobia](Verrucomicrobia.md)
-    -   [Acidobacteria](Acidobacteria.md)
-    -   [Dictyoglomi](Dictyoglomi.md)
+    -   [Verrucomicrobia](Pseudomonadati/Verrucomicrobia.md)
+    -   [Acidobacteria](Pseudomonadati/Acidobacteria.md)
+    -   [Dictyoglomi](Pseudomonadati/Dictyoglomi.md)
     -   [Gemmatimonas aurantiaca](Gemmatimonas_aurantiaca)
 
 -   » Sub-Groups 

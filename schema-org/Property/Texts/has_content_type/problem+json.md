@@ -26,3 +26,22 @@ The `problem+json` document type structures error details in a standardized JSON
 }
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [problem+json](/_Standards/schema-org/Property/Texts/has_content_type/problem+json.md) 
+
+### #is_/same_as :: [problem+json.public](/_public/schema-org/Property/Texts/has_content_type/problem+json.public.md) 
+
+### #is_/same_as :: [problem+json.internal](/_internal/schema-org/Property/Texts/has_content_type/problem+json.internal.md) 
+
+### #is_/same_as :: [problem+json.protect](/_protect/schema-org/Property/Texts/has_content_type/problem+json.protect.md) 
+
+### #is_/same_as :: [problem+json.private](/_private/schema-org/Property/Texts/has_content_type/problem+json.private.md) 
+
+### #is_/same_as :: [problem+json.personal](/_personal/schema-org/Property/Texts/has_content_type/problem+json.personal.md) 
+
+### #is_/same_as :: [problem+json.secret](/_secret/schema-org/Property/Texts/has_content_type/problem+json.secret.md)
+

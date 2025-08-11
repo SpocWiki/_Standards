@@ -42,6 +42,9 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/A-Detailed-History-of
 
 # [[Eukarya]]
 
+#is_a/bio-Domain 
+#is_a :: [[../bio~Domain|bio~Domain]] 
+
 Eukaryota, Organisms with nucleated cells 
 
 ![pair of saguaros](Eukarya/saguaro.jpg) ![Acantharea](Eukarya/acantb.jpg) ![Ithomiine butterfly feeding on Senecio flowers](Eukarya/clearwing.jpg) 

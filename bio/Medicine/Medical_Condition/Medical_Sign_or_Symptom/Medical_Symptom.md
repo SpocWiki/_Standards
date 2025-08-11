@@ -38,17 +38,17 @@ Any complaint sensed and expressed by the patient (therefore defined as subjecti
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Symptom](Medical_Symptom.md) 
+### #is_/same_as :: [Medical_Symptom](/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.md) 
 
-### #is_/same_as :: [medical_symptom.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.public.md) 
+### #is_/same_as :: [Medical_Symptom.public](/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.public.md) 
 
-### #is_/same_as :: [medical_symptom.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.internal.md) 
+### #is_/same_as :: [Medical_Symptom.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.internal.md) 
 
-### #is_/same_as :: [medical_symptom.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.protect.md) 
+### #is_/same_as :: [Medical_Symptom.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.protect.md) 
 
-### #is_/same_as :: [medical_symptom.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.private.md) 
+### #is_/same_as :: [Medical_Symptom.private](/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.private.md) 
 
-### #is_/same_as :: [medical_symptom.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.personal.md) 
+### #is_/same_as :: [Medical_Symptom.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.personal.md) 
 
-### #is_/same_as :: [medical_symptom.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.secret.md)
+### #is_/same_as :: [Medical_Symptom.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Symptom.secret.md)
 

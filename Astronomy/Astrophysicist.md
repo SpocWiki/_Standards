@@ -57,3 +57,22 @@ P8189: "987007295071805171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astrophysics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Astrophysicist](/_Standards/Astronomy/Astrophysicist.md) 
+
+### #is_/same_as :: [Astrophysicist.public](/_public/Astronomy/Astrophysicist.public.md) 
+
+### #is_/same_as :: [Astrophysicist.internal](/_internal/Astronomy/Astrophysicist.internal.md) 
+
+### #is_/same_as :: [Astrophysicist.protect](/_protect/Astronomy/Astrophysicist.protect.md) 
+
+### #is_/same_as :: [Astrophysicist.private](/_private/Astronomy/Astrophysicist.private.md) 
+
+### #is_/same_as :: [Astrophysicist.personal](/_personal/Astronomy/Astrophysicist.personal.md) 
+
+### #is_/same_as :: [Astrophysicist.secret](/_secret/Astronomy/Astrophysicist.secret.md)
+

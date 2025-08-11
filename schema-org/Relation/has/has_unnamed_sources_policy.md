@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/unnamed_sources_policy :: CreativeWork, URL ] or 
 - [ has_unnamed_sources_policy :: CreativeWork, URL ] 
 
-For an [[../../../Society/Organization]] (typically a [[NewsMediaOrganization]]), a statement about policy on use of unnamed sources and the decision process required.
+For an [[../../../Society/Agent/Organization]] (typically a [[NewsMediaOrganization]]), a statement about policy on use of unnamed sources and the decision process required.
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization, Organization ]

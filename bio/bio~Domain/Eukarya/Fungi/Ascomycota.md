@@ -4,6 +4,9 @@ title: Ascomycota
 
 # [[Ascomycota]]
 
+#is_a/bio-Phylum  
+#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+
 #is_/same_as :: [[../../../../WikiData/WD~Ascomycota,174726|WD~Ascomycota,174726]] 
 ## Sac Fungi 
 

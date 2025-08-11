@@ -2,24 +2,10 @@
 title: Apusomonads
 ---
 
-## Phylogeny 
+# [[Apusomonads]]
 
--   « Ancestral Groups  
-    -   [The other protists](The_other_protists)
-    -  [Eukarya](../../Eukarya.md))
-    -   [Tree of Life](../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  The other protists
-    -   [Ancyromonas](Ancyromonas.md)
-    -   [Luffisphaera](Luffisphaera.md)
-    -   Apusomonads
-    -   [Chlorarachniophytes](Chlorarachniophytes.md)
-
--   » Sub-Groups
-    -   [Apusomonas](Apusomonads/Apusomonas.md)
-    -   [Amastigomonas](Apusomonads/Amastigomonas.md)
-
-# Apusomonads
+#is_a/bio-Phylum  
+#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
 
 ## Apusomonadidae [Karpov & Mylnikov 1989] 
 
@@ -73,6 +59,23 @@ trait is not seen in any other taxa and is believed to be derived. The
 genus *Amastigomonas* may be paraphyletic since there are no known
 synapomorphies for the five species contained within this group.
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [The other protists](The_other_protists)
+    -  [Eukarya](../../Eukarya.md))
+    -   [Tree of Life](../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  The other protists
+    -   [Ancyromonas](Ancyromonas.md)
+    -   [Luffisphaera](Luffisphaera.md)
+    -   Apusomonads
+    -   [Chlorarachniophytes](Chlorarachniophytes.md)
+
+-   » Sub-Groups
+    -   [Apusomonas](Apusomonads/Apusomonas.md)
+    -   [Amastigomonas](Apusomonads/Amastigomonas.md)
+
 ### References
 
 Cavalier-Smith, T. and Chao, E.E. 1995. The opalozoan Apusomonas is
@@ -107,7 +110,8 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
   ------------
   Scientific Name ::  Apusomonas proboscidea
   Copyright ::         © 2000 Flemming Ekelund
-  ------------
+  ------------
+
 
 
 ## Confidential Links & Embeds: 

@@ -38,17 +38,17 @@ A mosque.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mosque](Mosque.md) 
+### #is_/same_as :: [Mosque](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.md) 
 
-### #is_/same_as :: [mosque.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.public.md) 
+### #is_/same_as :: [Mosque.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.public.md) 
 
-### #is_/same_as :: [mosque.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.internal.md) 
+### #is_/same_as :: [Mosque.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.internal.md) 
 
-### #is_/same_as :: [mosque.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.protect.md) 
+### #is_/same_as :: [Mosque.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.protect.md) 
 
-### #is_/same_as :: [mosque.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.private.md) 
+### #is_/same_as :: [Mosque.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.private.md) 
 
-### #is_/same_as :: [mosque.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.personal.md) 
+### #is_/same_as :: [Mosque.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.personal.md) 
 
-### #is_/same_as :: [mosque.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.secret.md)
+### #is_/same_as :: [Mosque.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.secret.md)
 

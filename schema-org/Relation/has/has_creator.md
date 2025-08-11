@@ -31,7 +31,7 @@ Use it like this:
 - [ #has_/creator :: Organization, Person ] or 
 - [ has_creator :: Organization, Person ] 
 
-Specifies the creator/author of this [[../../Class/is_a_/creative_work|CreativeWork]]. 
+Specifies the creator/author of this [[../../../Society/Communication/Media/Creative_Work|CreativeWork]]. 
 This is the same as the [[has_author]] property for CreativeWork.
 
 Relation describes that: 

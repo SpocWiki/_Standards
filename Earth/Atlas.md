@@ -1,4 +1,33 @@
 ---
+aliases:
+  - atlas
+  - Atlas
+  - is_an_atlas
+  - "{ newTitle: null }": 
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+  - atlas
+layout: 
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: null }": 
+publish: false
+publishDate: 
+tags:
+  - class/Class
+  - schema-org/Class
+  - "{ newTitle: null }": 
+  - excalidraw
+title:
+  "{ newTitle: null }": 
+type: private_note
 has_id_wikidata: Q162827
 instance_of:
   - "[[_Standards/WikiData/WD~literary_genre,223393]]"
@@ -32,11 +61,32 @@ equivalent_class:
 P8189: "987007295068605171"
 UMLS_CUI: C0004171
 entry_in_abbreviations_table: атл.
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  "{ \"date:YYYY-MM-DD\": null }": 
+lang: en
 ---
 
 # [[Atlas]] 
 
-#is_/same_as :: [[../WikiData/WD~Atlas,162827|WD~Atlas,162827]] 
+Class of all Atlasses.
+
+Tag Instances like this: 
+#is_an_/atlas
+
+#is_/different_from :: [[../../../../Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology)|Atlas(Mythology)]] 
+[ #is_/part_of :: https://bib.schema.org ]
+
+A collection or bound volume of maps, charts, plates or tables, physical or in media form illustrating any subject.
+
+[ #is_/sub_class_of :: [[../CreativeWork]] ]
+
+[ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
+
+#is_/same_as :: #is_/same_as :: [[../WikiData/WD~Atlas,162827|WD~Atlas,162827]] 
 
 ## #has_/text_of_/abstract 
 

@@ -40,17 +40,17 @@ Any medical intervention designed to prevent, treat, and cure human diseases and
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Therapy](Medical_Therapy.md) 
+### #is_/same_as :: [Medical_Therapy](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.md) 
 
-### #is_/same_as :: [medical_therapy.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.public.md) 
+### #is_/same_as :: [Medical_Therapy.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.public.md) 
 
-### #is_/same_as :: [medical_therapy.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.internal.md) 
+### #is_/same_as :: [Medical_Therapy.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.internal.md) 
 
-### #is_/same_as :: [medical_therapy.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.protect.md) 
+### #is_/same_as :: [Medical_Therapy.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.protect.md) 
 
-### #is_/same_as :: [medical_therapy.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.private.md) 
+### #is_/same_as :: [Medical_Therapy.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.private.md) 
 
-### #is_/same_as :: [medical_therapy.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.personal.md) 
+### #is_/same_as :: [Medical_Therapy.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.personal.md) 
 
-### #is_/same_as :: [medical_therapy.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.secret.md)
+### #is_/same_as :: [Medical_Therapy.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.secret.md)
 

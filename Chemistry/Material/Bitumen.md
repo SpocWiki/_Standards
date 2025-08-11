@@ -2,22 +2,22 @@
 aliases: 
 has_id_wikidata: Q167510
 different_from:
-  - "[[db/tar]]"
-  - "[[db/asphalt_concrete]]"
-  - "[[db/rock_asphalt]]"
-  - "[[db/bitumen_of_Judea]]"
-made_from_material: "[[db/rock_asphalt]]"
+  - "[[_Standards/WikiData/WD~tar,186209]]"
+  - "[[_Standards/WikiData/WD~asphalt_concrete,189259]]"
+  - "[[_Standards/WikiData/WD~rock_asphalt,202251]]"
+  - "[[_Standards/WikiData/WD~bitumen_of_Judea,4919163]]"
+made_from_material: "[[_Standards/WikiData/WD~rock_asphalt,202251]]"
 has_use:
-  - "[[db/building_material]]"
-  - "[[db/waterproofing]]"
+  - "[[_Standards/WikiData/WD~building_material,206615]]"
+  - "[[_Standards/WikiData/WD~waterproofing,2326110]]"
 subclass_of:
-  - "[[db/building_material]]"
-  - "[[db/petroleum_product]]"
-  - "[[db/film_former]]"
+  - "[[_Standards/WikiData/WD~building_material,206615]]"
+  - "[[_Standards/WikiData/WD~petroleum_product,1059843]]"
+  - "[[_Standards/WikiData/WD~film_former,37931493]]"
 described_by_source:
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/The_Nuttall_Encyclopædia]]"
-produced_by: "[[db/petroleum]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+produced_by: "[[_Standards/WikiData/WD~petroleum,22656]]"
 OmegaWiki_Defined_Meaning: "405"
 Commons_category: Bitumen
 image: http://commons.wikimedia.org/wiki/Special:FilePath/McKittrick%20Tar%20Seep%20North%20of%20Highway%2058.jpg

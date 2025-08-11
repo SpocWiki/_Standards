@@ -95,3 +95,22 @@ Commons_category: Cardiac arrest
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cardiac%20arrest) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cardiac_Arrest](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.md) 
+
+### #is_/same_as :: [Cardiac_Arrest.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.public.md) 
+
+### #is_/same_as :: [Cardiac_Arrest.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.internal.md) 
+
+### #is_/same_as :: [Cardiac_Arrest.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.protect.md) 
+
+### #is_/same_as :: [Cardiac_Arrest.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.private.md) 
+
+### #is_/same_as :: [Cardiac_Arrest.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.personal.md) 
+
+### #is_/same_as :: [Cardiac_Arrest.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.secret.md)
+

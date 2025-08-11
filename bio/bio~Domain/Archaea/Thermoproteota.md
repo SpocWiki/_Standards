@@ -7,6 +7,9 @@ title: Crenarchaeota
 
 # [[Thermoproteota]] 
 
+#is_a/bio-Phylum  
+#is_a :: [[bio-Phylum]]  
+
 
 ![ ](Thermoproteota/pyrodictium.jpg) ![ ](Thermoproteota/pyrolobus.jpg) ![](Thermoproteota/pyrobaculum.jpg) 
 

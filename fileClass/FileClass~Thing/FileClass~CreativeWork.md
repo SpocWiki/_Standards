@@ -871,7 +871,7 @@ DiscussionUrl:: {"type":"Input","options":{}}
 ### EditEIDR
 An [EIDR](https://eidr.org/) (Entertainment Identifier Registry) [[identifier]] representing a specific edit / edition for a work of film or television.  
  For example, the motion picture known as "Ghostbusters" whose [[titleEIDR]] is "10.5240/7EC7-228A-510A-053E-CBB8-J" has several edits, e.g. "10.5240/1F2A-E1C5-680A-14C6-E76B-I" and "10.5240/8A35-3BEE-6497-5D12-9E4F-3".  
- Since schema.org types like [[../../schema-org/Class/is_a_/creative_work/movie]] and [[TVEpisode]] can be used for both works and their multiple expressions, it is possible to use [[titleEIDR]] alone (for a general description), or alongside [[editEIDR]] for a more edit-specific description.
+ Since schema.org types like [[../../Society/Communication/Media/Creative_Work/Movie]] and [[TVEpisode]] can be used for both works and their multiple expressions, it is possible to use [[titleEIDR]] alone (for a general description), or alongside [[editEIDR]] for a more edit-specific description.
 
 EditEIDR:: {"type":"Input","options":{}}
 
@@ -1009,7 +1009,7 @@ Indicates the primary entity described in some page or other CreativeWork.
 MainEntity:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
 
 ### Maintainer
-A maintainer of a [[Dataset]], software package ([[SoftwareApplication]]), or other [[../../Society/Organization/project]]. A maintainer is a [[../../schema-org/Class/is_a_/Person]] or [[../../Society/Organization]] that manages contributions to, and/or publication of, some (typically complex) artifact. It is common for distributions of software and data to be based on "upstream" sources. When [[maintainer]] is applied to a specific version of something e.g. a particular version or packaging of a [[Dataset]], it is always  possible that the upstream source has a different maintainer. The [[isBasedOn]] property can be used to indicate such relationships between datasets to make the different maintenance roles clear. Similarly in the case of software, a package may have dedicated maintainers working on integration into software distributions such as Ubuntu, as well as upstream maintainers of the underlying work.
+A maintainer of a [[../../Society/Communication/Media/Creative_Work/Dataset]], software package ([[SoftwareApplication]]), or other [[../../Society/Agent/Organization/Project]]. A maintainer is a [[../../Society/Agent/Person]] or [[../../Society/Agent/Organization]] that manages contributions to, and/or publication of, some (typically complex) artifact. It is common for distributions of software and data to be based on "upstream" sources. When [[maintainer]] is applied to a specific version of something e.g. a particular version or packaging of a [[../../Society/Communication/Media/Creative_Work/Dataset]], it is always  possible that the upstream source has a different maintainer. The [[isBasedOn]] property can be used to indicate such relationships between datasets to make the different maintenance roles clear. Similarly in the case of software, a package may have dedicated maintainers working on integration into software distributions such as Ubuntu, as well as upstream maintainers of the underlying work.
 
 Maintainer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
@@ -1069,7 +1069,7 @@ The publishing division which published the comic.
 PublisherImprint:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 ### PublishingPrinciples
-The publishingPrinciples property indicates (typically via [[URL]]) a document describing the editorial principles of an [[../../Society/Organization]] (or individual, e.g. a [[../../schema-org/Class/is_a_/Person]] writing a blog) that relate to their activities as a publisher, e.g. ethics or diversity policies. When applied to a [[CreativeWork]] (e.g. [[NewsArticle]]) the principles are those of the party primarily responsible for the creation of the [[CreativeWork]].  
+The publishingPrinciples property indicates (typically via [[URL]]) a document describing the editorial principles of an [[../../Society/Agent/Organization]] (or individual, e.g. a [[../../Society/Agent/Person]] writing a blog) that relate to their activities as a publisher, e.g. ethics or diversity policies. When applied to a [[CreativeWork]] (e.g. [[NewsArticle]]) the principles are those of the party primarily responsible for the creation of the [[CreativeWork]].  
  While such policies are most typically expressed in natural language, sometimes related information (e.g. indicating a [[funder]]) can be expressed using schema.org terminology.
 
 PublishingPrinciples:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}

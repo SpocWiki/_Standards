@@ -38,17 +38,17 @@ Aquarium.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aquarium](Aquarium.md) 
+### #is_/same_as :: [Aquarium](/_Standards/Earth/Geography/Place/Civic_Structure/Aquarium.md) 
 
-### #is_/same_as :: [aquarium.public](/_public/schema-org/Class/is_a_/place/civic_structure/aquarium.public.md) 
+### #is_/same_as :: [Aquarium.public](/_public/Earth/Geography/Place/Civic_Structure/Aquarium.public.md) 
 
-### #is_/same_as :: [aquarium.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/aquarium.internal.md) 
+### #is_/same_as :: [Aquarium.internal](/_internal/Earth/Geography/Place/Civic_Structure/Aquarium.internal.md) 
 
-### #is_/same_as :: [aquarium.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/aquarium.protect.md) 
+### #is_/same_as :: [Aquarium.protect](/_protect/Earth/Geography/Place/Civic_Structure/Aquarium.protect.md) 
 
-### #is_/same_as :: [aquarium.private](/_private/schema-org/Class/is_a_/place/civic_structure/aquarium.private.md) 
+### #is_/same_as :: [Aquarium.private](/_private/Earth/Geography/Place/Civic_Structure/Aquarium.private.md) 
 
-### #is_/same_as :: [aquarium.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/aquarium.personal.md) 
+### #is_/same_as :: [Aquarium.personal](/_personal/Earth/Geography/Place/Civic_Structure/Aquarium.personal.md) 
 
-### #is_/same_as :: [aquarium.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/aquarium.secret.md)
+### #is_/same_as :: [Aquarium.secret](/_secret/Earth/Geography/Place/Civic_Structure/Aquarium.secret.md)
 

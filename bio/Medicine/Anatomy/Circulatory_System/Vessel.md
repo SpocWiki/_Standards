@@ -41,17 +41,17 @@ that transport blood throughout the entire body.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vessel](Vessel.md) 
+### #is_/same_as :: [Vessel](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Vessel.md) 
 
-### #is_/same_as :: [vessel.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.public.md) 
+### #is_/same_as :: [Vessel.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Vessel.public.md) 
 
-### #is_/same_as :: [vessel.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.internal.md) 
+### #is_/same_as :: [Vessel.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Vessel.internal.md) 
 
-### #is_/same_as :: [vessel.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.protect.md) 
+### #is_/same_as :: [Vessel.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Vessel.protect.md) 
 
-### #is_/same_as :: [vessel.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.private.md) 
+### #is_/same_as :: [Vessel.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Vessel.private.md) 
 
-### #is_/same_as :: [vessel.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.personal.md) 
+### #is_/same_as :: [Vessel.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Vessel.personal.md) 
 
-### #is_/same_as :: [vessel.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.secret.md)
+### #is_/same_as :: [Vessel.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Vessel.secret.md)
 

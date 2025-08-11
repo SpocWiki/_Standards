@@ -58,17 +58,17 @@ has_id_wikidata: Q154865
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Botulism](Botulism.md) 
+### #is_/same_as :: [Botulism](/_Standards/bio/Medicine/Medical_Condition/Disease/Botulism.md) 
 
-### #is_/same_as :: [Botulism.public](/_public/bio/Medicine/Disease/Botulism.public.md) 
+### #is_/same_as :: [Botulism.public](/_public/bio/Medicine/Medical_Condition/Disease/Botulism.public.md) 
 
-### #is_/same_as :: [Botulism.internal](/_internal/bio/Medicine/Disease/Botulism.internal.md) 
+### #is_/same_as :: [Botulism.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Botulism.internal.md) 
 
-### #is_/same_as :: [Botulism.protect](/_protect/bio/Medicine/Disease/Botulism.protect.md) 
+### #is_/same_as :: [Botulism.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Botulism.protect.md) 
 
-### #is_/same_as :: [Botulism.private](/_private/bio/Medicine/Disease/Botulism.private.md) 
+### #is_/same_as :: [Botulism.private](/_private/bio/Medicine/Medical_Condition/Disease/Botulism.private.md) 
 
-### #is_/same_as :: [Botulism.personal](/_personal/bio/Medicine/Disease/Botulism.personal.md) 
+### #is_/same_as :: [Botulism.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Botulism.personal.md) 
 
-### #is_/same_as :: [Botulism.secret](/_secret/bio/Medicine/Disease/Botulism.secret.md)
+### #is_/same_as :: [Botulism.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Botulism.secret.md)
 

@@ -95,12 +95,12 @@ A language someone may use with or at the item, service or place. Please use one
 AvailableLanguage:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Language')"}}
 
 ### CourseCode
-The identifier for the [[Course]] used by the course [[provider]] (e.g. CS101 or 6.001).
+The identifier for the [[../../../../Society/Communication/Media/Creative_Work/Course]] used by the course [[provider]] (e.g. CS101 or 6.001).
 
 CourseCode:: {"type":"Input","options":{}}
 
 ### CoursePrerequisites
-Requirements for taking the Course. May be completion of another [[Course]] or a textual description like "permission of instructor". Requirements may be a pre-requisite competency, referenced using [[AlignmentObject]].
+Requirements for taking the Course. May be completion of another [[../../../../Society/Communication/Media/Creative_Work/Course]] or a textual description like "permission of instructor". Requirements may be a pre-requisite competency, referenced using [[AlignmentObject]].
 
 CoursePrerequisites:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/AlignmentObject')"}}
 

@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/healthcare_reporting_data :: CDCPMDRecord, Dataset ] or 
 - [ has_healthcare_reporting_data :: CDCPMDRecord, Dataset ] 
 
-Indicates data describing a hospital, e.g. a CDC [[CDCPMDRecord]] or as some kind of [[Dataset]].
+Indicates data describing a hospital, e.g. a CDC [[CDCPMDRecord]] or as some kind of [[../../../Society/Communication/Media/Creative_Work/Dataset]].
 
 Relation describes that: 
 [ #has_/domain  :: Hospital ]

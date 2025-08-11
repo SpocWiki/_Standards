@@ -85,7 +85,7 @@ version: 2.0
 # MerchantReturnPolicy
 This is a kind of [[FileClass~Intangible]]
 
-A MerchantReturnPolicy provides information about product return policies associated with an [[../../../Society/Organization]], [[Product]], or [[Offer]].
+A MerchantReturnPolicy provides information about product return policies associated with an [[../../../Society/Agent/Organization]], [[../../../Society/Agent/Organization/Business/Product]], or [[../../../Society/Agent/Organization/Business/Offer]].
 
 
 ## Use one of these Tags for Objects of this Type:

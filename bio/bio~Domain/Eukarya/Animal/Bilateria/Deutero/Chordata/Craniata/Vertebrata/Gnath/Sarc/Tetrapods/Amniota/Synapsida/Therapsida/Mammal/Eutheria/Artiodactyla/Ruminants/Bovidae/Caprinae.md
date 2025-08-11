@@ -52,7 +52,7 @@ title: Caprinae
 
 # Caprinae 
 
-![ ](Caprinae/Ovis_canadensis1374216.jpg)
+![ ](Caprinae/Ovis/Ovis_canadensis.jpg)
 ![ ](Oreamnos_americanus1929018.jpg)
 ![](Caprinae/92395489_51a1aa5336_o.jpg)
 
@@ -121,7 +121,7 @@ IUCN, Switzerland and Cambridge, Gland, 390 p.
 
 ## Title Illustrations
 
-![](Caprinae/Ovis_canadensis1374216.jpg))
+![](Caprinae/Ovis/Ovis_canadensis.jpg))
 
   ------------------------------
   Scientific Name ::     Ovis canadensis

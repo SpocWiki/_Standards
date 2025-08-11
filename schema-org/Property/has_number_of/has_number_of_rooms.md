@@ -26,7 +26,7 @@ type: Predi_Count
 
 # [[has_number_of_rooms]] 
 
-Predicate to describe the Number of rooms (excluding bathrooms and closets) of the [[../../../Earth/Geography/Place/Accommodation]],[[../../../Earth/Geography/Place/Accommodation/Apartment]]], [[../../Class/is_a_/Intangible/floor_plan|FloorPlan]],[[../../../Earth/Geography/Place/Accommodation/House]]], [[../../../Society/Organization/Local_Business/lodging_business|LodgingBusiness]], [[../../../Earth/Geography/Place/Accommodation/House/Single_Family_Residence|SingleFamilyResidence]], or [[../../../Earth/Geography/Place/Accommodation/Suite]]. 
+Predicate to describe the Number of rooms (excluding bathrooms and closets) of the [[../../../Earth/Geography/Place/Accommodation]],[[../../../Earth/Geography/Place/Accommodation/Apartment]]], [[../../Class/is_a_/Intangible/floor_plan|FloorPlan]],[[../../../Earth/Geography/Place/Accommodation/House]]], [[../../../Society/Agent/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]], [[../../../Earth/Geography/Place/Accommodation/House/Single_Family_Residence|SingleFamilyResidence]], or [[../../../Earth/Geography/Place/Accommodation/Suite]]. 
 
 Typical unit code(s): ROM for room or C62 for no unit. 
 The type of room can be put in the [[../Texts/has_unit_text|unitText]] property of the [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]]. 

@@ -38,17 +38,17 @@ A Buddhist temple.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buddhist_Temple](Buddhist_Temple.md) 
+### #is_/same_as :: [Buddhist_Temple](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.md) 
 
-### #is_/same_as :: [buddhist_temple.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.public.md) 
+### #is_/same_as :: [Buddhist_Temple.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.public.md) 
 
-### #is_/same_as :: [buddhist_temple.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.internal.md) 
+### #is_/same_as :: [Buddhist_Temple.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.internal.md) 
 
-### #is_/same_as :: [buddhist_temple.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.protect.md) 
+### #is_/same_as :: [Buddhist_Temple.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.protect.md) 
 
-### #is_/same_as :: [buddhist_temple.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.private.md) 
+### #is_/same_as :: [Buddhist_Temple.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.private.md) 
 
-### #is_/same_as :: [buddhist_temple.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.personal.md) 
+### #is_/same_as :: [Buddhist_Temple.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.personal.md) 
 
-### #is_/same_as :: [buddhist_temple.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.secret.md)
+### #is_/same_as :: [Buddhist_Temple.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.secret.md)
 

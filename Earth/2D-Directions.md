@@ -58,3 +58,22 @@ Commons_category: Cardinal direction
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cardinal%20direction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [2D-Directions](/_Standards/Earth/2D-Directions.md) 
+
+### #is_/same_as :: [2D-Directions.public](/_public/Earth/2D-Directions.public.md) 
+
+### #is_/same_as :: [2D-Directions.internal](/_internal/Earth/2D-Directions.internal.md) 
+
+### #is_/same_as :: [2D-Directions.protect](/_protect/Earth/2D-Directions.protect.md) 
+
+### #is_/same_as :: [2D-Directions.private](/_private/Earth/2D-Directions.private.md) 
+
+### #is_/same_as :: [2D-Directions.personal](/_personal/Earth/2D-Directions.personal.md) 
+
+### #is_/same_as :: [2D-Directions.secret](/_secret/Earth/2D-Directions.secret.md)
+

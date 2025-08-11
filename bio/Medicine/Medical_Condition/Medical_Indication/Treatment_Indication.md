@@ -38,17 +38,17 @@ An indication for treating an underlying condition, symptom, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Treatment_Indication](Treatment_Indication.md) 
+### #is_/same_as :: [Treatment_Indication](/_Standards/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.md) 
 
-### #is_/same_as :: [treatment_indication.public](/_public/schema-org/Class/is_a_/medical_entity/medical_indication/treatment_indication.public.md) 
+### #is_/same_as :: [Treatment_Indication.public](/_public/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.public.md) 
 
-### #is_/same_as :: [treatment_indication.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_indication/treatment_indication.internal.md) 
+### #is_/same_as :: [Treatment_Indication.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.internal.md) 
 
-### #is_/same_as :: [treatment_indication.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_indication/treatment_indication.protect.md) 
+### #is_/same_as :: [Treatment_Indication.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.protect.md) 
 
-### #is_/same_as :: [treatment_indication.private](/_private/schema-org/Class/is_a_/medical_entity/medical_indication/treatment_indication.private.md) 
+### #is_/same_as :: [Treatment_Indication.private](/_private/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.private.md) 
 
-### #is_/same_as :: [treatment_indication.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_indication/treatment_indication.personal.md) 
+### #is_/same_as :: [Treatment_Indication.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.personal.md) 
 
-### #is_/same_as :: [treatment_indication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_indication/treatment_indication.secret.md)
+### #is_/same_as :: [Treatment_Indication.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Indication/Treatment_Indication.secret.md)
 

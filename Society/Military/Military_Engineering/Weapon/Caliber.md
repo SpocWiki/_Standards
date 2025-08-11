@@ -3,13 +3,13 @@ aliases:
   - Kaliber
 has_id_wikidata: Q170417
 subclass_of:
-  - "[[db/technical_standard]]"
-  - "[[db/diameter]]"
+  - "[[_Standards/WikiData/WD~technical_standard,317623]]"
+  - "[[_Standards/WikiData/WD~diameter,37221]]"
 different_from:
-  - "[[db/caliber]]"
-  - "[[db/caliber]]"
-  - "[[db/Kaliber]]"
-  - "[[db/Kaliber]]"
+  - "[[_Standards/WikiData/WD~caliber,665240]]"
+  - "[[_Standards/WikiData/WD~caliber,1722214]]"
+  - "[[_Standards/WikiData/WD~Kaliber,3812588]]"
+  - "[[_Standards/WikiData/WD~Kaliber,6352512]]"
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow></mstyle></mrow></math>
 Wikidata_property: caliber
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rifle%2C%20bolt-action%20%28AM%20745326-14%29.jpg

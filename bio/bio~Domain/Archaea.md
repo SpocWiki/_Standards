@@ -307,6 +307,9 @@ UMLS_CUI: C0003732
 
 # [[Archaea]] 
 
+#is_a/bio-Domain 
+#is_a :: [[../bio~Domain|bio~Domain]] 
+
 #is_/same_as :: [[../../WikiData/WD~Archaea,10872]]
 
 ## #has_/text_of_/abstract 

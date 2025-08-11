@@ -108,7 +108,7 @@ under high temperatures and pressures together with mineralic Sources like [[Hyd
 > some of which have left traces as fossils. 
 > 
 > Attempts to classify living things, too, began with Aristotle. 
-> Modern [[Biological_Classification]] began with Carl Linnaeus's system of binomial nomenclature in the 1740s.
+> Modern [[Taxon_Rank/Biological_Classification]] began with Carl Linnaeus's system of binomial nomenclature in the 1740s.
 >
 > Living things are composed of biochemical molecules, formed mainly from a few core chemical elements. 
 > All living things contain two types of large molecule, proteins and nucleic acids, 

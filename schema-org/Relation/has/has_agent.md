@@ -34,7 +34,7 @@ E.g. <em>John</em> wrote a book.
 Relation describes that: 
 [ #has_/domain  :: [Action](../../Class/is_a_/action.md) ]
 ( #has_/name :: has_agent )
-( #has_/range :: [Organization](../../../Society/Organization.md), [Person](../../Class/is_a_/person.md) )
+( #has_/range :: [Organization](../../../Society/Agent/Organization.md), [Person](../../../Society/Agent/Person.md) )
 
 
 ## Confidential Links & Embeds: 

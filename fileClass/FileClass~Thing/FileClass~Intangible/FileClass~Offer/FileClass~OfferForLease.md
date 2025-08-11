@@ -21,7 +21,7 @@ version: 2.0
 # OfferForLease
 This is a kind of [[FileClass~Offer]]
 
-An [[OfferForLease]] in Schema.org represents an [[Offer]] to lease out something, i.e. an [[Offer]] whose  
+An [[OfferForLease]] in Schema.org represents an [[../../../../Society/Agent/Organization/Business/Offer]] to lease out something, i.e. an [[../../../../Society/Agent/Organization/Business/Offer]] whose  
  [[businessFunction]] is [lease out](http://purl.org/goodrelations/v1#LeaseOut.). See [Good Relations](https://en.wikipedia.org/wiki/GoodRelations) for  
  background on the underlying concepts.
 

@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/successor_of :: [[../../Class/is_a_/product/product_model|ProductModel]] ] or 
+- [ #is_/successor_of :: [[../../../Society/Agent/Organization/Business/Product/Product_Model|ProductModel]] ] or 
 - [ is_successor_of :: [[../../Class/is_a_/product/product_model|ProductModel]] ] 
 
 
@@ -38,7 +38,7 @@ often [[../../Class/is_a_/Intangible/enumeration/item_availability/discontinued|
 Relation describes that: 
 [#has_/domain :: [[../../Class/is_a_/product/product_model|ProductModel]] ]
 ( #has_/name :: is_successor_of )
-( #has_/range :: [[../../Class/is_a_/product/product_model|ProductModel]] )
+( #has_/range :: [[../../../Society/Agent/Organization/Business/Product/Product_Model|ProductModel]] )
 
 #is_/similar_to :: [[../has/has_previous_item|has_previous_item]] 
 #is_/inverse_of :: [[../has/has_next_item]]    

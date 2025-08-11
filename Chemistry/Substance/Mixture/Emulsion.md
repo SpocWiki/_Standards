@@ -22,3 +22,22 @@ has_id_wikidata: Q187634
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Emulsion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Emulsion](/_Standards/Chemistry/Substance/Mixture/Emulsion.md) 
+
+### #is_/same_as :: [Emulsion.public](/_public/Chemistry/Substance/Mixture/Emulsion.public.md) 
+
+### #is_/same_as :: [Emulsion.internal](/_internal/Chemistry/Substance/Mixture/Emulsion.internal.md) 
+
+### #is_/same_as :: [Emulsion.protect](/_protect/Chemistry/Substance/Mixture/Emulsion.protect.md) 
+
+### #is_/same_as :: [Emulsion.private](/_private/Chemistry/Substance/Mixture/Emulsion.private.md) 
+
+### #is_/same_as :: [Emulsion.personal](/_personal/Chemistry/Substance/Mixture/Emulsion.personal.md) 
+
+### #is_/same_as :: [Emulsion.secret](/_secret/Chemistry/Substance/Mixture/Emulsion.secret.md)
+

@@ -2,24 +2,10 @@
 title: Zygomycota
 ---
 
-## Phylogeny 
+# [[Zygomycota]]
 
--   « Ancestral Groups  
-    -  [Fungi](../Fungi.md))
-    -  [Eukarya](../../Eukarya.md))
-    -   [Tree of Life](../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Fungi
-    -  [Basidiomycota](Basidiomycota.md))
-    -  [Ascomycota](Ascomycota.md))
-    -  [Glomeromycota](Glomeromycota.md))
-    -   [Chytridiomycota](Chytridiomycota)
-    -   Zygomycota
-
--   » Sub-Groups
-    -   [Harpellales](Harpellales)
-
-# Zygomycota
+#is_a/bio-Phylum  
+#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
 
 ## Microscopic \'Pin\' or \'Sugar\' Molds 
 
@@ -417,6 +403,23 @@ zygospore:
 :   a resting spore produced by the fusion of two compatible gametangia
     (Fig. 2B).
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -  [Fungi](../Fungi.md))
+    -  [Eukarya](../../Eukarya.md))
+    -   [Tree of Life](../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Fungi
+    -  [Basidiomycota](Basidiomycota.md))
+    -  [Ascomycota](Ascomycota.md))
+    -  [Glomeromycota](Glomeromycota.md))
+    -   [Chytridiomycota](Chytridiomycota)
+    -   Zygomycota
+
+-   » Sub-Groups
+    -   [Harpellales](Harpellales)
+
 ### References
 
 Alexopoulos, C. J., C. W. Mims and M. Blackwell. 1996. Introductory
@@ -580,7 +583,8 @@ parasiticum* is not a fungus, but a member of the DRIPs. Protist 151:
   Acknowledgements     Photo courtesy Robert W. Lichwardt. Image from the Mycological Society of America slide collection.
   Specimen Condition   Dead Specimen
   Copyright ::            © [Robert Lichtwardt](mailto:licht@ku.edu) 
-  -----------------------------------------------------------------------
+  -----------------------------------------------------------------------
+
 
 
 ## Confidential Links & Embeds: 

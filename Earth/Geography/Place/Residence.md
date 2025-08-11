@@ -40,17 +40,17 @@ The place where a person lives.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Residence](Residence.md) 
+### #is_/same_as :: [Residence](/_Standards/Earth/Geography/Place/Residence.md) 
 
-### #is_/same_as :: [residence.public](/_public/schema-org/Class/is_a_/place/residence.public.md) 
+### #is_/same_as :: [Residence.public](/_public/Earth/Geography/Place/Residence.public.md) 
 
-### #is_/same_as :: [residence.internal](/_internal/schema-org/Class/is_a_/place/residence.internal.md) 
+### #is_/same_as :: [Residence.internal](/_internal/Earth/Geography/Place/Residence.internal.md) 
 
-### #is_/same_as :: [residence.protect](/_protect/schema-org/Class/is_a_/place/residence.protect.md) 
+### #is_/same_as :: [Residence.protect](/_protect/Earth/Geography/Place/Residence.protect.md) 
 
-### #is_/same_as :: [residence.private](/_private/schema-org/Class/is_a_/place/residence.private.md) 
+### #is_/same_as :: [Residence.private](/_private/Earth/Geography/Place/Residence.private.md) 
 
-### #is_/same_as :: [residence.personal](/_personal/schema-org/Class/is_a_/place/residence.personal.md) 
+### #is_/same_as :: [Residence.personal](/_personal/Earth/Geography/Place/Residence.personal.md) 
 
-### #is_/same_as :: [residence.secret](/_secret/schema-org/Class/is_a_/place/residence.secret.md)
+### #is_/same_as :: [Residence.secret](/_secret/Earth/Geography/Place/Residence.secret.md)
 

@@ -5,13 +5,13 @@ aliases:
   - Buoyancy
 has_id_wikidata: Q6497624
 described_by_source:
-  - "[[db/Archimedes'_principle]]"
-  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Sytin_Military_Encyclopedia]]"
-instance_of: "[[db/physical_phenomenon]]"
-subclass_of: "[[db/surface_force]]"
-statement_is_subject_of: "[[db/object_immersed_in_liquid]]"
-opposite_of: "[[db/weight]]"
+  - "[[_Standards/WikiData/WD~Archimedes'_principle,181404]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+instance_of: "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
+subclass_of: "[[_Standards/WikiData/WD~surface_force,2009590]]"
+statement_is_subject_of: "[[_Standards/WikiData/WD~object_immersed_in_liquid,29591319]]"
+opposite_of: "[[_Standards/WikiData/WD~weight,25288]]"
 Commons_category: Buoyancy
 video: http://commons.wikimedia.org/wiki/Special:FilePath/04.%20%D0%93%D0%B0%D0%BB%D0%B8%D0%BB%D0%B5%D0%B5%D0%B2%D0%BE%20%D1%82%D0%BE%D0%BF%D1%87%D0%B5.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Buoyancy.svg

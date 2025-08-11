@@ -33,7 +33,7 @@ type: Predi_Url
 #has_/url_for_/same_as :: [[../../../Schemas/foaf/foaf~page|foaf:page]] 
 
 
-Predicate to specify the Url of a [[../../Class/is_a_/creative_work/media_object|MediaObject]].
+Predicate to specify the Url of a [[../../../Society/Communication/Media/Media_Object|MediaObject]].
 
 Use it like this: 
 - [ #has_/url_for_/content :: URL ] or 

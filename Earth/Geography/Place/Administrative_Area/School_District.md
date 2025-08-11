@@ -40,17 +40,17 @@ A School District is an administrative area for the administration of schools.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [School_District](School_District.md) 
+### #is_/same_as :: [School_District](/_Standards/Earth/Geography/Place/Administrative_Area/School_District.md) 
 
-### #is_/same_as :: [school_district.public](/_public/schema-org/Class/is_a_/place/administrative_area/school_district.public.md) 
+### #is_/same_as :: [School_District.public](/_public/Earth/Geography/Place/Administrative_Area/School_District.public.md) 
 
-### #is_/same_as :: [school_district.internal](/_internal/schema-org/Class/is_a_/place/administrative_area/school_district.internal.md) 
+### #is_/same_as :: [School_District.internal](/_internal/Earth/Geography/Place/Administrative_Area/School_District.internal.md) 
 
-### #is_/same_as :: [school_district.protect](/_protect/schema-org/Class/is_a_/place/administrative_area/school_district.protect.md) 
+### #is_/same_as :: [School_District.protect](/_protect/Earth/Geography/Place/Administrative_Area/School_District.protect.md) 
 
-### #is_/same_as :: [school_district.private](/_private/schema-org/Class/is_a_/place/administrative_area/school_district.private.md) 
+### #is_/same_as :: [School_District.private](/_private/Earth/Geography/Place/Administrative_Area/School_District.private.md) 
 
-### #is_/same_as :: [school_district.personal](/_personal/schema-org/Class/is_a_/place/administrative_area/school_district.personal.md) 
+### #is_/same_as :: [School_District.personal](/_personal/Earth/Geography/Place/Administrative_Area/School_District.personal.md) 
 
-### #is_/same_as :: [school_district.secret](/_secret/schema-org/Class/is_a_/place/administrative_area/school_district.secret.md)
+### #is_/same_as :: [School_District.secret](/_secret/Earth/Geography/Place/Administrative_Area/School_District.secret.md)
 

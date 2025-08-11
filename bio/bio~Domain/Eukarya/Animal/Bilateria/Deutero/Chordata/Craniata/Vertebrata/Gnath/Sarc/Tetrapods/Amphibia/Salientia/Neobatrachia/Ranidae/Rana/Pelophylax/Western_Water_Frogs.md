@@ -2,7 +2,7 @@
 title: "Western Palearctic water frogs"
 ---
 
-# Western Palearctic water frogs 
+# [[Western_Water_Frogs]] 
 
 ![water frogs](Western_Water_Frogs/lessonae_group.jpg) 
 
@@ -15,9 +15,9 @@ title: "Western Palearctic water frogs"
 
 [Peter Beerli](http://www.tolweb.org/) 
 
-The western palearctic water frogs are a group of frogs which are mostly
-water-bound and commonly found in ponds and rivers throughout Europe,
-northern Africa and the western parts of Asia.
+The western palearctic water frogs are a group of frogs 
+which are mostly water-bound and commonly found in ponds and rivers 
+throughout Europe, northern Africa and the western parts of Asia.
 
 ### Discussion of Phylogenetic Relationships
 
@@ -50,7 +50,7 @@ northern population are found in southern Sweden.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -   [Rana (Pelophylax)](Rana_%28Pelophylax%29)
+    -   [Rana (Pelophylax)](../Pelophylax.md)
     -   [Rana](../../Rana.md)
     -   [\'Ranidae\'](%27Ranidae%27)
     -   [Neobatrachia](../../../../Neobatrachia.md)
@@ -73,15 +73,15 @@ northern population are found in southern Sweden.
     -   [Eastern Palearctic water         frogs](Eastern_Water_Frogs.md)
 
 -   » Sub-Groups
-    -   [Rana saharica](Rana_saharica)
-    -   [Rana perezi](Rana_perezi)
-    -   [Rana epeirotica](Rana_epeirotica)
-    -   [Rana shqiperica](Rana_shqiperica)
-    -   [Rana lessonae](Rana_lessonae)
-    -   [Rana cretensis](Rana_cretensis)
-    -   [Rana cerigensis](Rana_cerigensis)
-    -   [Rana bedriagae](Rana_bedriagae)
-    -   [Rana ridibunda](Rana_ridibunda)
+    -   [Rana saharica](Western_Water_Frogs/Rana_saharica.md)
+    -   [Rana perezi](Western_Water_Frogs/Rana_perezi.md)
+    -   [Rana epeirotica](Western_Water_Frogs/Rana_epeirotica.md)
+    -   [Rana shqiperica](Western_Water_Frogs/Rana_shqiperica.md)
+    -   [Rana lessonae](Western_Water_Frogs/Rana_lessonae.md)
+    -   [Rana cretensis](Western_Water_Frogs/Rana_cretensis.md)
+    -   [Rana cerigensis](Western_Water_Frogs/Rana_cerigensis.md)
+    -   [Rana bedriagae](Western_Water_Frogs/Rana_bedriagae.md)
+    -   [Rana ridibunda](Western_Water_Frogs/Rana_ridibunda.md)
 
 
 ## Title Illustrations

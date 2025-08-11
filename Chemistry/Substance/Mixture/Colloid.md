@@ -1,13 +1,13 @@
 ---
 aliases: 
 has_id_wikidata: Q181780
-subclass_of: "[[db/dispersion]]"
-practiced_by: "[[db/interface_and_colloid_science]]"
-studied_by: "[[db/interface_and_colloid_science]]"
+subclass_of: "[[_Standards/WikiData/WD~dispersion,178697]]"
+practiced_by: "[[_Standards/WikiData/WD~interface_and_colloid_science,909495]]"
+studied_by: "[[_Standards/WikiData/WD~interface_and_colloid_science,909495]]"
 described_by_source:
-  - "[[db/Great_Soviet_Encyclopedia_(1926_1947)]]"
-  - "[[db/Armenian_Soviet_Encyclopedia,_vol._5]]"
-said_to_be_the_same_as: "[[db/colloidal_dispersion]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~colloidal_dispersion,113594664]]"
 Dewey_Decimal_Classification:
   - "546"
   - "541.345"
@@ -58,4 +58,23 @@ Colon_Classification: E:235
 > and expanded by Michael Faraday and Thomas Graham, who coined the term colloid in 1861.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Colloid) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Colloid](/_Standards/Chemistry/Substance/Mixture/Colloid.md) 
+
+### #is_/same_as :: [Colloid.public](/_public/Chemistry/Substance/Mixture/Colloid.public.md) 
+
+### #is_/same_as :: [Colloid.internal](/_internal/Chemistry/Substance/Mixture/Colloid.internal.md) 
+
+### #is_/same_as :: [Colloid.protect](/_protect/Chemistry/Substance/Mixture/Colloid.protect.md) 
+
+### #is_/same_as :: [Colloid.private](/_private/Chemistry/Substance/Mixture/Colloid.private.md) 
+
+### #is_/same_as :: [Colloid.personal](/_personal/Chemistry/Substance/Mixture/Colloid.personal.md) 
+
+### #is_/same_as :: [Colloid.secret](/_secret/Chemistry/Substance/Mixture/Colloid.secret.md)
 

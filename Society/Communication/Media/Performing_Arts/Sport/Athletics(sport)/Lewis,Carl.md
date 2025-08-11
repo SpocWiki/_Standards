@@ -101,3 +101,22 @@ U_S_National_Archives_Identifier: "10568293"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Lewis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lewis,Carl](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Athletics(sport)/Lewis,Carl.md) 
+
+### #is_/same_as :: [Lewis,Carl.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Athletics(sport)/Lewis,Carl.public.md) 
+
+### #is_/same_as :: [Lewis,Carl.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Athletics(sport)/Lewis,Carl.internal.md) 
+
+### #is_/same_as :: [Lewis,Carl.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Athletics(sport)/Lewis,Carl.protect.md) 
+
+### #is_/same_as :: [Lewis,Carl.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Athletics(sport)/Lewis,Carl.private.md) 
+
+### #is_/same_as :: [Lewis,Carl.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Athletics(sport)/Lewis,Carl.personal.md) 
+
+### #is_/same_as :: [Lewis,Carl.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Athletics(sport)/Lewis,Carl.secret.md)
+

@@ -6,6 +6,9 @@ title: Charales
 
 # [[Charales]] 
 
+#is_a/bio-Phylum  
+#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+
 ![ ](Charales/chara.gif)
 
 
@@ -17,21 +20,6 @@ title: Charales
 > Depending on the treatment of the genus Nitellopsis, living (extant) species are placed into either one family (Characeae) or two (Characeae and Feistiellaceae). Further families are used for fossil members of the order. Linnaeus established the genus Chara in 1753.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Charales) 
-
-
-## Phylogeny 
-
--   « Ancestral Groups  
-    -  [Green plants](../Plant.md))
-    -  [Eukarya](../../Eukarya.md))
-    -   [Tree of Life](../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Green plants
-    -   [Zygnematales](Zygnematales.md)
-    -   Charales
-    -   [Land_Plant](Land_Plant.md)
-
--   » Sub-Groups 
 
 
 ## Introduction
@@ -82,6 +70,21 @@ tribe:
          |=========== Tolypella
          |
          ============ Nitella
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -  [Green plants](../Plant.md))
+    -  [Eukarya](../../Eukarya.md))
+    -   [Tree of Life](../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Green plants
+    -   [Zygnematales](Zygnematales.md)
+    -   Charales
+    -   [Land_Plant](Land_Plant.md)
+
+-   » Sub-Groups 
+
 
 ### References
 

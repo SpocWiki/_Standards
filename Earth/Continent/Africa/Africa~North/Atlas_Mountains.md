@@ -1,26 +1,26 @@
 ---
 has_id_wikidata: Q130135
-highest_point: "[[db/Jbel_Toubkal]]"
+highest_point: "[[_Standards/WikiData/WD~Jbel_Toubkal,503433]]"
 described_by_source:
-  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/Pauly_Wissowa]]"
-  - "[[db/The_Nuttall_Encyclopædia]]"
-  - "[[db/Granat_Encyclopedic_Dictionary]]"
-  - "[[db/The_New_Student's_Reference_Work]]"
-  - "[[db/Meyers_Konversations_Lexikon,_4th_edition_(1885_1890)]]"
-  - "[[db/Encyclopædia_Britannica_Ninth_Edition]]"
-  - "[[db/Armenian_Soviet_Encyclopedia,_vol._1]]"
-part_of: "[[db/Alpide_belt]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+part_of: "[[_Standards/WikiData/WD~Alpide_belt,847514]]"
 country:
-  - "[[db/Algeria]]"
-  - "[[db/Tunisia]]"
-  - "[[db/Morocco]]"
-location: "[[db/North_Africa]]"
-continent: "[[db/Africa]]"
+  - "[[_Standards/WikiData/WD~Algeria,262]]"
+  - "[[_Standards/WikiData/WD~Tunisia,948]]"
+  - "[[_Standards/WikiData/WD~Morocco,1028]]"
+location: "[[_Standards/WikiData/WD~North_Africa,27381]]"
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
 width: 300
 length: 2550
-instance_of: "[[db/mountain_range]]"
+instance_of: "[[_Standards/WikiData/WD~mountain_range,46831]]"
 elevation_above_sea_level: 4165
 coordinate_location: Point(-7.916111111 31.061944444)
 locator_map_image:

@@ -4,46 +4,43 @@ aliases:
   - Dancing
 has_id_wikidata: Q11639
 has_part_s_:
-  - "[[db/choreography]]"
-  - "[[db/musical_work]]"
-  - "[[db/performance_work]]"
+  - "[[_Standards/WikiData/WD~choreography,180856]]"
+  - "[[_Standards/WikiData/WD~musical_work,2188189]]"
+  - "[[_Standards/WikiData/WD~performance_work,17538722]]"
 subclass_of:
-  - "[[db/performing_arts]]"
-  - "[[db/physical_activity]]"
+  - "[[_Standards/WikiData/WD~performing_arts,184485]]"
+  - "[[_Standards/WikiData/WD~physical_activity,747883]]"
 described_by_source:
-  - "[[db/Catholic_Encyclopedia]]"
-  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/Pauly_Wissowa]]"
-  - "[[db/Gujin_Tushu_Jicheng]]"
-  - "[[db/Bible_Encyclopedia_of_Archimandrite_Nicephorus]]"
-  - "[[db/Jewish_Encyclopedia_of_Brockhaus_and_Efron]]"
-  - "[[db/1922_Encyclopædia_Britannica]]"
-  - "[[db/Meyers_Konversations_Lexikon,_4th_edition_(1885_1890)]]"
-  - "[[db/Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru]]"
-  - "[[db/Lean_Logic]]"
-  - "[[db/Metropolitan_Museum_of_Art_Tagging_Vocabulary]]"
-has_list: "[[db/list_of_dances]]"
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+has_list: "[[_Standards/WikiData/WD~list_of_dances,1759354]]"
 practiced_by:
-  - "[[db/répétiteur]]"
-  - "[[db/dancer]]"
-studied_by: "[[db/dance_studies]]"
-history_of_topic: "[[db/Dance_in_mythology_and_religion]]"
-Wikimedia_outline: "[[db/outline_of_dance]]"
-topic_s_main_template:
-  - "[[db/Template_Dance]]"
-  - "[[db/Template_Infobox_dance]]"
-used_by: "[[db/dance]]"
+  - "[[_Standards/WikiData/WD~répétiteur,1784753]]"
+  - "[[_Standards/WikiData/WD~dancer,5716684]]"
+studied_by: "[[_Standards/WikiData/WD~dance_studies,2393450]]"
+history_of_topic: "[[_Standards/WikiData/WD~Dance_in_mythology_and_religion,5215255]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_dance,7112602]]"
+used_by: "[[_Standards/WikiData/WD~dance,25543541]]"
 UMLS_CUI: C0010963
 instance_of:
-  - "[[db/performing_arts_genre]]"
-  - "[[db/sport]]"
-  - "[[db/hobby]]"
-maintained_by_WikiProject: "[[db/WikiProject_Performing_arts]]"
+  - "[[_Standards/WikiData/WD~performing_arts_genre,45971958]]"
+  - "[[_Standards/WikiData/WD~sport,349]]"
+  - "[[_Standards/WikiData/WD~hobby,47728]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Performing_arts,59956276]]"
 depicted_by:
-  - "[[db/Ara_of_the_winged_dancers]]"
-  - "[[db/Dance_around_the_tree]]"
-  - "[[db/Dance_of_the_Children_of_Alcinous]]"
+  - "[[_Standards/WikiData/WD~Ara_of_the_winged_dancers,131543621]]"
+  - "[[_Standards/WikiData/WD~Dance_around_the_tree,131613615]]"
+  - "[[_Standards/WikiData/WD~Dance_of_the_Children_of_Alcinous,131719678]]"
 Wikidata_property: dance style
 IAB_code: "203"
 Colon_Classification: NS
@@ -57,14 +54,17 @@ Commons_gallery: Dance
 Commons_category: Dance
 exact_match: http://cv.iptc.org/newscodes/subjectcode/01006000
 Unicode_character:
-  - 💃
   - 🕺
+  - 💃
 Provenio_UUID: 2db51e5b-1ab8-4885-8230-7c489e873b29
 P8189: "987007540962405171"
 MeSH_tree_code: I03.450.642.287
 IPTC_NewsCode: mediatopic/20000007
 Krugosvet_article: muzyka/tanets
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dance-At-Bougival.jpg
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Dance,8085029]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_dance,14473795]]"
 ---
 
 # [[Dance]] 

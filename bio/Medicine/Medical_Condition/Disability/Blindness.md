@@ -73,17 +73,17 @@ U_S_National_Archives_Identifier: 10637723
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blindness](Blindness.md) 
+### #is_/same_as :: [Blindness](/_Standards/bio/Medicine/Medical_Condition/Disability/Blindness.md) 
 
-### #is_/same_as :: [Blindness.public](/_public/bio/Medicine/Disability/Blindness.public.md) 
+### #is_/same_as :: [Blindness.public](/_public/bio/Medicine/Medical_Condition/Disability/Blindness.public.md) 
 
-### #is_/same_as :: [Blindness.internal](/_internal/bio/Medicine/Disability/Blindness.internal.md) 
+### #is_/same_as :: [Blindness.internal](/_internal/bio/Medicine/Medical_Condition/Disability/Blindness.internal.md) 
 
-### #is_/same_as :: [Blindness.protect](/_protect/bio/Medicine/Disability/Blindness.protect.md) 
+### #is_/same_as :: [Blindness.protect](/_protect/bio/Medicine/Medical_Condition/Disability/Blindness.protect.md) 
 
-### #is_/same_as :: [Blindness.private](/_private/bio/Medicine/Disability/Blindness.private.md) 
+### #is_/same_as :: [Blindness.private](/_private/bio/Medicine/Medical_Condition/Disability/Blindness.private.md) 
 
-### #is_/same_as :: [Blindness.personal](/_personal/bio/Medicine/Disability/Blindness.personal.md) 
+### #is_/same_as :: [Blindness.personal](/_personal/bio/Medicine/Medical_Condition/Disability/Blindness.personal.md) 
 
-### #is_/same_as :: [Blindness.secret](/_secret/bio/Medicine/Disability/Blindness.secret.md)
+### #is_/same_as :: [Blindness.secret](/_secret/bio/Medicine/Medical_Condition/Disability/Blindness.secret.md)
 

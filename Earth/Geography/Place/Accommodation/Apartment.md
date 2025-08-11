@@ -38,17 +38,17 @@ An apartment (in American English) or flat (in British English) is a self-contai
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apartment](Apartment.md) 
+### #is_/same_as :: [Apartment](/_Standards/Earth/Geography/Place/Accommodation/Apartment.md) 
 
-### #is_/same_as :: [apartment.public](/_public/schema-org/Class/is_a_/place/accommodation/apartment.public.md) 
+### #is_/same_as :: [Apartment.public](/_public/Earth/Geography/Place/Accommodation/Apartment.public.md) 
 
-### #is_/same_as :: [apartment.internal](/_internal/schema-org/Class/is_a_/place/accommodation/apartment.internal.md) 
+### #is_/same_as :: [Apartment.internal](/_internal/Earth/Geography/Place/Accommodation/Apartment.internal.md) 
 
-### #is_/same_as :: [apartment.protect](/_protect/schema-org/Class/is_a_/place/accommodation/apartment.protect.md) 
+### #is_/same_as :: [Apartment.protect](/_protect/Earth/Geography/Place/Accommodation/Apartment.protect.md) 
 
-### #is_/same_as :: [apartment.private](/_private/schema-org/Class/is_a_/place/accommodation/apartment.private.md) 
+### #is_/same_as :: [Apartment.private](/_private/Earth/Geography/Place/Accommodation/Apartment.private.md) 
 
-### #is_/same_as :: [apartment.personal](/_personal/schema-org/Class/is_a_/place/accommodation/apartment.personal.md) 
+### #is_/same_as :: [Apartment.personal](/_personal/Earth/Geography/Place/Accommodation/Apartment.personal.md) 
 
-### #is_/same_as :: [apartment.secret](/_secret/schema-org/Class/is_a_/place/accommodation/apartment.secret.md)
+### #is_/same_as :: [Apartment.secret](/_secret/Earth/Geography/Place/Accommodation/Apartment.secret.md)
 

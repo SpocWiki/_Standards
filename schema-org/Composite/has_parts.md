@@ -40,7 +40,7 @@ Use it like this:
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
 ( #has_/name :: has_parts )
-( #has_/range :: [[../Class/is_a_/creative_work|CreativeWork]] )
+( #has_/range :: [[../../Society/Communication/Media/Creative_Work|CreativeWork]] )
 
 #is_/inverse_of  :: [[is_part_of|is_part_of]]   
 

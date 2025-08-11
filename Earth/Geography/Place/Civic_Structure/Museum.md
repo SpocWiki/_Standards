@@ -38,17 +38,17 @@ A museum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Museum](Museum.md) 
+### #is_/same_as :: [Museum](/_Standards/Earth/Geography/Place/Civic_Structure/Museum.md) 
 
-### #is_/same_as :: [museum.public](/_public/schema-org/Class/is_a_/place/civic_structure/museum.public.md) 
+### #is_/same_as :: [Museum.public](/_public/Earth/Geography/Place/Civic_Structure/Museum.public.md) 
 
-### #is_/same_as :: [museum.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/museum.internal.md) 
+### #is_/same_as :: [Museum.internal](/_internal/Earth/Geography/Place/Civic_Structure/Museum.internal.md) 
 
-### #is_/same_as :: [museum.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/museum.protect.md) 
+### #is_/same_as :: [Museum.protect](/_protect/Earth/Geography/Place/Civic_Structure/Museum.protect.md) 
 
-### #is_/same_as :: [museum.private](/_private/schema-org/Class/is_a_/place/civic_structure/museum.private.md) 
+### #is_/same_as :: [Museum.private](/_private/Earth/Geography/Place/Civic_Structure/Museum.private.md) 
 
-### #is_/same_as :: [museum.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/museum.personal.md) 
+### #is_/same_as :: [Museum.personal](/_personal/Earth/Geography/Place/Civic_Structure/Museum.personal.md) 
 
-### #is_/same_as :: [museum.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/museum.secret.md)
+### #is_/same_as :: [Museum.secret](/_secret/Earth/Geography/Place/Civic_Structure/Museum.secret.md)
 

@@ -38,17 +38,17 @@ Residence type: Gated community.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gated_Residence_Community](Gated_Residence_Community.md) 
+### #is_/same_as :: [Gated_Residence_Community](/_Standards/Earth/Geography/Place/Residence/Gated_Residence_Community.md) 
 
-### #is_/same_as :: [gated_residence_community.public](/_public/schema-org/Class/is_a_/place/residence/gated_residence_community.public.md) 
+### #is_/same_as :: [Gated_Residence_Community.public](/_public/Earth/Geography/Place/Residence/Gated_Residence_Community.public.md) 
 
-### #is_/same_as :: [gated_residence_community.internal](/_internal/schema-org/Class/is_a_/place/residence/gated_residence_community.internal.md) 
+### #is_/same_as :: [Gated_Residence_Community.internal](/_internal/Earth/Geography/Place/Residence/Gated_Residence_Community.internal.md) 
 
-### #is_/same_as :: [gated_residence_community.protect](/_protect/schema-org/Class/is_a_/place/residence/gated_residence_community.protect.md) 
+### #is_/same_as :: [Gated_Residence_Community.protect](/_protect/Earth/Geography/Place/Residence/Gated_Residence_Community.protect.md) 
 
-### #is_/same_as :: [gated_residence_community.private](/_private/schema-org/Class/is_a_/place/residence/gated_residence_community.private.md) 
+### #is_/same_as :: [Gated_Residence_Community.private](/_private/Earth/Geography/Place/Residence/Gated_Residence_Community.private.md) 
 
-### #is_/same_as :: [gated_residence_community.personal](/_personal/schema-org/Class/is_a_/place/residence/gated_residence_community.personal.md) 
+### #is_/same_as :: [Gated_Residence_Community.personal](/_personal/Earth/Geography/Place/Residence/Gated_Residence_Community.personal.md) 
 
-### #is_/same_as :: [gated_residence_community.secret](/_secret/schema-org/Class/is_a_/place/residence/gated_residence_community.secret.md)
+### #is_/same_as :: [Gated_Residence_Community.secret](/_secret/Earth/Geography/Place/Residence/Gated_Residence_Community.secret.md)
 

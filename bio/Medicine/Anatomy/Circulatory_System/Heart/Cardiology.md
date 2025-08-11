@@ -49,3 +49,22 @@ OpenStreetMap_tag_or_key: Tag:healthcare:speciality=cardiology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cardiology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cardiology](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.md) 
+
+### #is_/same_as :: [Cardiology.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.public.md) 
+
+### #is_/same_as :: [Cardiology.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.internal.md) 
+
+### #is_/same_as :: [Cardiology.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.protect.md) 
+
+### #is_/same_as :: [Cardiology.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.private.md) 
+
+### #is_/same_as :: [Cardiology.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.personal.md) 
+
+### #is_/same_as :: [Cardiology.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.secret.md)
+

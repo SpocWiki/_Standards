@@ -35,7 +35,7 @@ Use it like this:
 - [ #has_/gender :: GenderType, Text ] or 
 - [ has_gender :: GenderType, Text ] 
 
-Gender of something, typically a [[Person]], but possibly also fictional characters, animals, etc. 
+Gender of something, typically a [[../../../Society/Agent/Person]], but possibly also fictional characters, animals, etc. 
 While Male and Female may be used, 
 text strings are also acceptable for people who do not identify as a binary gender. 
 The [[gender]] property can also be used in an extended sense 

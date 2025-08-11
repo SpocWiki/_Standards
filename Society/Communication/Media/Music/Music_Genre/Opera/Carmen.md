@@ -97,3 +97,22 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "BizetsCarmenPremiersPar
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carmen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carmen](/_Standards/Society/Communication/Media/Music/Music_Genre/Opera/Carmen.md) 
+
+### #is_/same_as :: [Carmen.public](/_public/Society/Communication/Media/Music/Music_Genre/Opera/Carmen.public.md) 
+
+### #is_/same_as :: [Carmen.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Opera/Carmen.internal.md) 
+
+### #is_/same_as :: [Carmen.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Opera/Carmen.protect.md) 
+
+### #is_/same_as :: [Carmen.private](/_private/Society/Communication/Media/Music/Music_Genre/Opera/Carmen.private.md) 
+
+### #is_/same_as :: [Carmen.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Opera/Carmen.personal.md) 
+
+### #is_/same_as :: [Carmen.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Opera/Carmen.secret.md)
+

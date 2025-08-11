@@ -41,17 +41,17 @@ A medical procedure intended primarily for therapeutic purposes, aimed at improv
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Therapeutic_Procedure](Therapeutic_Procedure.md) 
+### #is_/same_as :: [Therapeutic_Procedure](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.md) 
 
-### #is_/same_as :: [therapeutic_procedure.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.public.md) 
+### #is_/same_as :: [Therapeutic_Procedure.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.public.md) 
 
-### #is_/same_as :: [therapeutic_procedure.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.internal.md) 
+### #is_/same_as :: [Therapeutic_Procedure.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.internal.md) 
 
-### #is_/same_as :: [therapeutic_procedure.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.protect.md) 
+### #is_/same_as :: [Therapeutic_Procedure.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.protect.md) 
 
-### #is_/same_as :: [therapeutic_procedure.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.private.md) 
+### #is_/same_as :: [Therapeutic_Procedure.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.private.md) 
 
-### #is_/same_as :: [therapeutic_procedure.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.personal.md) 
+### #is_/same_as :: [Therapeutic_Procedure.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.personal.md) 
 
-### #is_/same_as :: [therapeutic_procedure.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.secret.md)
+### #is_/same_as :: [Therapeutic_Procedure.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.secret.md)
 

@@ -38,17 +38,17 @@ A defence establishment, such as an army or navy base.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Defence_Establishment](Defence_Establishment.md) 
+### #is_/same_as :: [Defence_Establishment](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.md) 
 
-### #is_/same_as :: [defence_establishment.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/defence_establishment.public.md) 
+### #is_/same_as :: [Defence_Establishment.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.public.md) 
 
-### #is_/same_as :: [defence_establishment.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building/defence_establishment.internal.md) 
+### #is_/same_as :: [Defence_Establishment.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.internal.md) 
 
-### #is_/same_as :: [defence_establishment.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building/defence_establishment.protect.md) 
+### #is_/same_as :: [Defence_Establishment.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.protect.md) 
 
-### #is_/same_as :: [defence_establishment.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building/defence_establishment.private.md) 
+### #is_/same_as :: [Defence_Establishment.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.private.md) 
 
-### #is_/same_as :: [defence_establishment.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building/defence_establishment.personal.md) 
+### #is_/same_as :: [Defence_Establishment.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.personal.md) 
 
-### #is_/same_as :: [defence_establishment.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/defence_establishment.secret.md)
+### #is_/same_as :: [Defence_Establishment.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.secret.md)
 

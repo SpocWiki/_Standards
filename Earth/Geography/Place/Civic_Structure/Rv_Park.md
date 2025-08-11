@@ -38,17 +38,17 @@ A place offering space for "Recreational Vehicles", Caravans, mobile homes and t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rv_Park](Rv_Park.md) 
+### #is_/same_as :: [Rv_Park](/_Standards/Earth/Geography/Place/Civic_Structure/Rv_Park.md) 
 
-### #is_/same_as :: [rv_park.public](/_public/schema-org/Class/is_a_/place/civic_structure/rv_park.public.md) 
+### #is_/same_as :: [Rv_Park.public](/_public/Earth/Geography/Place/Civic_Structure/Rv_Park.public.md) 
 
-### #is_/same_as :: [rv_park.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/rv_park.internal.md) 
+### #is_/same_as :: [Rv_Park.internal](/_internal/Earth/Geography/Place/Civic_Structure/Rv_Park.internal.md) 
 
-### #is_/same_as :: [rv_park.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/rv_park.protect.md) 
+### #is_/same_as :: [Rv_Park.protect](/_protect/Earth/Geography/Place/Civic_Structure/Rv_Park.protect.md) 
 
-### #is_/same_as :: [rv_park.private](/_private/schema-org/Class/is_a_/place/civic_structure/rv_park.private.md) 
+### #is_/same_as :: [Rv_Park.private](/_private/Earth/Geography/Place/Civic_Structure/Rv_Park.private.md) 
 
-### #is_/same_as :: [rv_park.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/rv_park.personal.md) 
+### #is_/same_as :: [Rv_Park.personal](/_personal/Earth/Geography/Place/Civic_Structure/Rv_Park.personal.md) 
 
-### #is_/same_as :: [rv_park.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/rv_park.secret.md)
+### #is_/same_as :: [Rv_Park.secret](/_secret/Earth/Geography/Place/Civic_Structure/Rv_Park.secret.md)
 

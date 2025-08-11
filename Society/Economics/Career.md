@@ -29,3 +29,22 @@ Stack_Exchange_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Career) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Career](/_Standards/Society/Economics/Career.md) 
+
+### #is_/same_as :: [Career.public](/_public/Society/Economics/Career.public.md) 
+
+### #is_/same_as :: [Career.internal](/_internal/Society/Economics/Career.internal.md) 
+
+### #is_/same_as :: [Career.protect](/_protect/Society/Economics/Career.protect.md) 
+
+### #is_/same_as :: [Career.private](/_private/Society/Economics/Career.private.md) 
+
+### #is_/same_as :: [Career.personal](/_personal/Society/Economics/Career.personal.md) 
+
+### #is_/same_as :: [Career.secret](/_secret/Society/Economics/Career.secret.md)
+

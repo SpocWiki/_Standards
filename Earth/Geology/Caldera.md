@@ -2,10 +2,10 @@
 aliases: 
 has_id_wikidata: Q159954
 subclass_of:
-  - "[[db/depression]]"
-  - "[[db/volcanic_landform]]"
-described_by_source: "[[db/Armenian_Soviet_Encyclopedia,_vol._5]]"
-different_from: "[[db/Caldera]]"
+  - "[[_Standards/WikiData/WD~depression,190429]]"
+  - "[[_Standards/WikiData/WD~volcanic_landform,29025902]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+different_from: "[[_Standards/WikiData/WD~Caldera,3708]]"
 Commons_gallery: Caldera
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Mazama%20eruption%20timeline.PNG
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000096

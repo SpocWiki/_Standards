@@ -1,13 +1,11 @@
 ---
 aliases:
-  - ionic bonding 
-  - Ionenbindung 
+  - ionic bonding
+  - Ionenbindung
 has_id_wikidata: Q62500
-different_from: "[[db/polar_bond]]"
-has_part_s_of_the_class:
-  - "[[db/ion]]"
-subclass_of:
-  - "[[db/chemical_bond]]"
+different_from: "[[_Standards/WikiData/WD~polar_bond,2101022]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~ion,36496]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_bond,44424]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NaF.gif
 Commons_category: Ionic bond
 ---
@@ -47,4 +45,23 @@ Commons_category: Ionic bond
 > Bonds with partially ionic and partially covalent characters are called **polar covalent bonds**.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ionic%20bonding) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ionic_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.md) 
+
+### #is_/same_as :: [Ionic_Bond.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.public.md) 
+
+### #is_/same_as :: [Ionic_Bond.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.internal.md) 
+
+### #is_/same_as :: [Ionic_Bond.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.protect.md) 
+
+### #is_/same_as :: [Ionic_Bond.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.private.md) 
+
+### #is_/same_as :: [Ionic_Bond.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.personal.md) 
+
+### #is_/same_as :: [Ionic_Bond.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.secret.md)
 

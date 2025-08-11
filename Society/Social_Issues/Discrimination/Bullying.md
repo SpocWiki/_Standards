@@ -2,21 +2,20 @@
 aliases: 
 has_id_wikidata: Q240126
 described_by_source:
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/Hanyu_Da_Cidian]]"
-  - "[[db/Meyers_Konversations_Lexikon,_4th_edition_(1885_1890)]]"
-  - "[[db/Revised_Mandarin_Chinese_Dictionary]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Hanyu_Da_Cidian,1138917]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Revised_Mandarin_Chinese_Dictionary,77442279]]"
 subclass_of:
-  - "[[db/verbal_abuse]]"
-  - "[[db/harassment]]"
+  - "[[_Standards/WikiData/WD~verbal_abuse,3138174]]"
+  - "[[_Standards/WikiData/WD~harassment,3240539]]"
 has_cause:
-  - "[[db/superiority_bias]]"
-  - "[[db/jealousy]]"
-practiced_by: "[[db/bully]]"
-facet_of: "[[db/bullying_culture]]"
-topic_s_main_template: "[[db/Template_Bullying]]"
-on_focus_list_of_Wikimedia_project: "[[db/WikiForHumanRights_2019]]"
-opposite_of: "[[db/anti_bullying]]"
+  - "[[_Standards/WikiData/WD~superiority_bias,3246951]]"
+  - "[[_Standards/WikiData/WD~jealousy,6545811]]"
+practiced_by: "[[_Standards/WikiData/WD~bully,3824194]]"
+facet_of: "[[_Standards/WikiData/WD~bullying_culture,5018479]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]"
+opposite_of: "[[_Standards/WikiData/WD~anti_bullying,131035514]]"
 OmegaWiki_Defined_Meaning: "460084"
 IMDb_keyword: bully
 image:
@@ -31,6 +30,8 @@ MeSH_tree_code:
   - F01.145.126.125.550
   - F01.145.813.213.500
   - I01.880.735.070
+topic_has_template: "[[_Standards/WikiData/WD~Template_Bullying,6732929]]"
+hashtag_: bullying
 ---
 
 # [[Bullying]] 

@@ -4,22 +4,22 @@ aliases:
   - gateau
 has_id_wikidata: Q13276
 made_from_material:
-  - "[[db/egg_as_food]]"
-  - "[[db/milk]]"
-  - "[[db/sugar]]"
-  - "[[db/flour]]"
+  - "[[_Standards/WikiData/WD~egg_as_food,93189]]"
+  - "[[_Standards/WikiData/WD~milk,8495]]"
+  - "[[_Standards/WikiData/WD~sugar,11002]]"
+  - "[[_Standards/WikiData/WD~flour,36465]]"
 different_from:
-  - "[[db/torte]]"
-  - "[[db/pastel]]"
-  - "[[db/Cake]]"
-  - "[[db/tart]]"
-  - "[[db/pie]]"
-  - "[[db/biscuit]]"
+  - "[[_Standards/WikiData/WD~torte,130186]]"
+  - "[[_Standards/WikiData/WD~pastel,189085]]"
+  - "[[_Standards/WikiData/WD~Cake,756704]]"
+  - "[[_Standards/WikiData/WD~tart,1142483]]"
+  - "[[_Standards/WikiData/WD~pie,13360264]]"
+  - "[[_Standards/WikiData/WD~biscuit,13270]]"
 subclass_of:
-  - "[[db/torta]]"
-  - "[[db/bánh]]"
-  - "[[db/bakers'_confection]]"
-described_by_source: "[[db/Metropolitan_Museum_of_Art_Tagging_Vocabulary]]"
+  - "[[_Standards/WikiData/WD~torta,3573026]]"
+  - "[[_Standards/WikiData/WD~bánh,5004791]]"
+  - "[[_Standards/WikiData/WD~bakers'_confection,113389041]]"
+described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 USDA_NDB_number: "18135"
 Commons_gallery: Cake
 Unicode_character:
@@ -49,6 +49,7 @@ Commons_category: Cakes
 Wolfram_Language_entity_code: Entity["FoodType", "Cake"]
 Baidu_Tieba_name: 蛋糕
 Wikidata_usage_instructions: Instances of this class are actual cakes.  Cake types are subclasses.
+hashtag_: cake
 ---
 
 # [[Cake]] 
