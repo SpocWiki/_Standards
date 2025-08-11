@@ -90,7 +90,7 @@ video:
 
 # [[Cattle]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Cattle,830|WD~Cattle,830]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cattle,830|WD~Cattle,830]]  
 #is_/same_as :: [[_Standards/WikiData/WD~cow,11748378]] 
 
 ## #has_/text_of_/abstract 

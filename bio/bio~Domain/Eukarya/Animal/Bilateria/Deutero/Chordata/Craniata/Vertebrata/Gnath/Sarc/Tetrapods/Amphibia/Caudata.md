@@ -1,8 +1,14 @@
 ---
 title: Caudata
+aliases:
+  - Caudata
+  - Salamander
+has_id_wikidata: Q53663
 ---
 
 # [[Caudata]]
+
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Caudata,53663|WD~Caudata,53663]] 
 
 Salamanders 
 
