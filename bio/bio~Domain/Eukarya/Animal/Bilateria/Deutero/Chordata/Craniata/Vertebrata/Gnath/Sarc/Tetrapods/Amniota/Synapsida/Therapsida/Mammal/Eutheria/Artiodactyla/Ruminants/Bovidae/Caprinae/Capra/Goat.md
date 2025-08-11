@@ -61,6 +61,16 @@ Krugosvet_article: biologiya/koza
 UMLS_CUI: C1510458
 Commons_category: Goats
 UNII: S1T5L68831
+dv_is_/same_as:
+  path: _Standards/WikiData/WD~Goat,2934.md
+  display: WD~Goat,2934
+  embed: false
+  type: file
+dv_is_same_as:
+  path: _Standards/WikiData/WD~Goat,2934.md
+  display: WD~Goat,2934
+  embed: false
+  type: file
 ---
 
 # [[Goat]] 

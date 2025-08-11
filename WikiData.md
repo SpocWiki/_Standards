@@ -1,3 +1,45 @@
+---
+dv_has_/number_of_/items: 110000000
+dv_is_/similar_to:
+  path: Data/Wikipedia/DbPedia.md
+  display: DbPedia
+  embed: false
+  type: file
+dv_is_/different_from:
+  path: Data/Wikipedia/DbPedia.md
+  embed: false
+  type: file
+dv_has_/url: https://www.wikidata.org/entity/
+dv_has_/url_/prefix: wd
+dv_is_/same_as:
+  - "[WikiData](/_Standards/WikiData.md)"
+  - "[WikiData.public](/_public/WikiData.public.md)"
+  - "[WikiData.internal](/_internal/WikiData.internal.md)"
+  - "[WikiData.protect](/_protect/WikiData.protect.md)"
+  - "[WikiData.private](/_private/WikiData.private.md)"
+  - "[WikiData.personal](/_personal/WikiData.personal.md)"
+  - "[WikiData.secret](/_secret/WikiData.secret.md)"
+dv_has_number_of_items: 110000000
+dv_is_similar_to:
+  path: Data/Wikipedia/DbPedia.md
+  display: DbPedia
+  embed: false
+  type: file
+dv_is_different_from:
+  path: Data/Wikipedia/DbPedia.md
+  embed: false
+  type: file
+dv_has_url: https://www.wikidata.org/entity/
+dv_has_url_prefix: wd
+dv_is_same_as:
+  - "[WikiData](/_Standards/WikiData.md)"
+  - "[WikiData.public](/_public/WikiData.public.md)"
+  - "[WikiData.internal](/_internal/WikiData.internal.md)"
+  - "[WikiData.protect](/_protect/WikiData.protect.md)"
+  - "[WikiData.private](/_private/WikiData.private.md)"
+  - "[WikiData.personal](/_personal/WikiData.personal.md)"
+  - "[WikiData.secret](/_secret/WikiData.secret.md)"
+---
 This Folder contains more than 10_000 Copies of Core-[[../Data/Wikipedia/WikiData|WikiData]] Entities in a flat structure,
 to allow for stable, generic Links formed by the (english) Name and ID of the Subject. 
 To this purpose, configure the [obsidian-wikidata-importer](https://github.com/samwho/obsidian-wikidata-importer) to use 

@@ -1,132 +1,148 @@
 ---
-Colon_Classification: "L35:4261"
+Colon_Classification: L35:4261
 Commons_category: Malaria
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 Dewey_Decimal_Classification:
-- 616.9362
-- 614.532
+  - 616.9362
+  - 614.532
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Ronald_Ross,102034]]'
-- '[[_Standards/WikiData/WD~Charles_Louis_Alphonse_Laveran,189006]]'
+  - "[[_Standards/WikiData/WD~Ronald_Ross,102034]]"
+  - "[[_Standards/WikiData/WD~Charles_Louis_Alphonse_Laveran,189006]]"
 DiseasesDB: 7728
 disease_burden:
-- 216000000
-- 55111095
+  - 216000000
+  - 55111095
 disease_transmission_process:
-- '[[_Standards/WikiData/WD~blood_transfusion,183605]]'
-- '[[_Standards/WikiData/WD~mosquito_borne_transmission,15304532]]'
+  - "[[_Standards/WikiData/WD~blood_transfusion,183605]]"
+  - "[[_Standards/WikiData/WD~mosquito_borne_transmission,15304532]]"
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~quinine,189522]]'
-- '[[_Standards/WikiData/WD~quinidine,412496]]'
-- '[[_Standards/WikiData/WD~cinchonidine,412713]]'
-- '[[_Standards/WikiData/WD~atovaquone,418179]]'
-- '[[_Standards/WikiData/WD~(RS)-primaquine,419834]]'
-- '[[_Standards/WikiData/WD~pyrimethamine,421072]]'
-- '[[_Standards/WikiData/WD~hydroxychloroquine,421094]]'
-- '[[_Standards/WikiData/WD~clindamycin,422273]]'
-- '[[_Standards/WikiData/WD~chloroquine,422438]]'
-- '[[_Standards/WikiData/WD~doxycycline,422442]]'
-- '[[_Standards/WikiData/WD~artemisinin,426921]]'
-- '[[_Standards/WikiData/WD~mefloquine,736270]]'
-- '[[_Standards/WikiData/WD~sulfadiazine,2555060]]'
-- '[[_Standards/WikiData/WD~artesunate_amodiaquine,4797577]]'
-- '[[_Standards/WikiData/WD~primaquine_phosphate,27279400]]'
+  - "[[_Standards/WikiData/WD~quinine,189522]]"
+  - "[[_Standards/WikiData/WD~quinidine,412496]]"
+  - "[[_Standards/WikiData/WD~cinchonidine,412713]]"
+  - "[[_Standards/WikiData/WD~atovaquone,418179]]"
+  - "[[_Standards/WikiData/WD~(RS)-primaquine,419834]]"
+  - "[[_Standards/WikiData/WD~pyrimethamine,421072]]"
+  - "[[_Standards/WikiData/WD~hydroxychloroquine,421094]]"
+  - "[[_Standards/WikiData/WD~clindamycin,422273]]"
+  - "[[_Standards/WikiData/WD~chloroquine,422438]]"
+  - "[[_Standards/WikiData/WD~doxycycline,422442]]"
+  - "[[_Standards/WikiData/WD~artemisinin,426921]]"
+  - "[[_Standards/WikiData/WD~mefloquine,736270]]"
+  - "[[_Standards/WikiData/WD~sulfadiazine,2555060]]"
+  - "[[_Standards/WikiData/WD~artesunate_amodiaquine,4797577]]"
+  - "[[_Standards/WikiData/WD~primaquine_phosphate,27279400]]"
 exact_match:
-- "http://identifiers.org/doid/DOID:12365"
-- "http://purl.obolibrary.org/obo/DOID_12365"
+  - http://identifiers.org/doid/DOID:12365
+  - http://purl.obolibrary.org/obo/DOID_12365
 genetic_association:
-- '[[_Standards/WikiData/WD~ABO,14839826]]'
-- '[[_Standards/WikiData/WD~ATP2B4,17833493]]'
-- '[[_Standards/WikiData/WD~DDC,17913463]]'
+  - "[[_Standards/WikiData/WD~ABO,14839826]]"
+  - "[[_Standards/WikiData/WD~ATP2B4,17833493]]"
+  - "[[_Standards/WikiData/WD~DDC,17913463]]"
 GitHub_topic: malaria
 hashtag: Malaria
 has_cause:
-- '[[_Standards/WikiData/WD~Plasmodium_malariae,133969]]'
-- '[[_Standards/WikiData/WD~Plasmodium_ovale,134445]]'
-- '[[_Standards/WikiData/WD~Plasmodium_knowlesi,241594]]'
-- '[[_Standards/WikiData/WD~Plasmodium_vivax,311376]]'
-- '[[_Standards/WikiData/WD~Plasmodium_falciparum,311383]]'
-has_contributing_factor: '[[_Standards/WikiData/WD~poverty,10294]]'
+  - "[[_Standards/WikiData/WD~Plasmodium_malariae,133969]]"
+  - "[[_Standards/WikiData/WD~Plasmodium_ovale,134445]]"
+  - "[[_Standards/WikiData/WD~Plasmodium_knowlesi,241594]]"
+  - "[[_Standards/WikiData/WD~Plasmodium_vivax,311376]]"
+  - "[[_Standards/WikiData/WD~Plasmodium_falciparum,311383]]"
+has_contributing_factor: "[[_Standards/WikiData/WD~poverty,10294]]"
 has_id_wikidata: Q12156
-has_natural_reservoir: '[[_Standards/WikiData/WD~Anopheles,158597]]'
+has_natural_reservoir: "[[_Standards/WikiData/WD~Anopheles,158597]]"
 health_specialty:
-- '[[_Standards/WikiData/WD~parasitology,180502]]'
-- '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
-- '[[_Standards/WikiData/WD~tropical_medicine,1365243]]'
+  - "[[_Standards/WikiData/WD~parasitology,180502]]"
+  - "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+  - "[[_Standards/WikiData/WD~tropical_medicine,1365243]]"
 ICD_10_CM: B54
 ICD_9_CM:
-- 084
-- 084.6
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Histopathology%20of%20malaria%20exoerythrocytic%20forms%20in%20liver%2007G0024%20lores.jpg"
+  - 84
+  - 84.6
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Histopathology%20of%20malaria%20exoerythrocytic%20forms%20in%20liver%2007G0024%20lores.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~endemic_disease,506680]]'
-- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+  - "[[_Standards/WikiData/WD~endemic_disease,506680]]"
+  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
 Krugosvet_article: medicina/MALYARIYA.html
 maximal_incubation_period_in_humans: 30
 medical_examination:
-- '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]'
-- '[[_Standards/WikiData/WD~blood_film,886475]]'
-- '[[_Standards/WikiData/WD~optical_microscope,912313]]'
+  - "[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]"
+  - "[[_Standards/WikiData/WD~blood_film,886475]]"
+  - "[[_Standards/WikiData/WD~optical_microscope,912313]]"
 MeSH_tree_code:
-- C01.920.852.750
-- C01.610.752.530
+  - C01.920.852.750
+  - C01.610.752.530
 minimal_incubation_period_in_humans: 7
 named_after:
-- '[[_Standards/WikiData/WD~wetland,170321]]'
-- '[[_Standards/WikiData/WD~miasma_theory,607329]]'
+  - "[[_Standards/WikiData/WD~wetland,170321]]"
+  - "[[_Standards/WikiData/WD~miasma_theory,607329]]"
 number_of_cases:
-- 2
-- 500000000
-- 22
-- 729
-- 1974
-- 4114
-- 21309
-- 31479
-- 881730
-- 177767
-- 343527
-- 3769051
+  - 2
+  - 500000000
+  - 22
+  - 729
+  - 1974
+  - 4114
+  - 21309
+  - 31479
+  - 881730
+  - 177767
+  - 343527
+  - 3769051
 number_of_deaths:
-- 445000
-- 627000
+  - 445000
+  - 627000
 OmegaWiki_Defined_Meaning: 2230
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Malaria%20banner%20Mosquito%20net.jpg"
+  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Malaria%20banner%20Mosquito%20net.jpg
 possible_treatment:
-- '[[_Standards/WikiData/WD~antimalarial,521616]]'
-- '[[_Standards/WikiData/WD~antipyretic,582687]]'
-- '[[_Standards/WikiData/WD~symptomatic_treatment,621558]]'
-- '[[_Standards/WikiData/WD~intravenous_fluid_replacement,24885926]]'
-relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_3.3_of_the_Sustainable_Development_Goals,57590755]]'
+  - "[[_Standards/WikiData/WD~antimalarial,521616]]"
+  - "[[_Standards/WikiData/WD~antipyretic,582687]]"
+  - "[[_Standards/WikiData/WD~symptomatic_treatment,621558]]"
+  - "[[_Standards/WikiData/WD~intravenous_fluid_replacement,24885926]]"
+relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target_3.3_of_the_Sustainable_Development_Goals,57590755]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~parasitic_protozoa_infectious_disease,353172]]'
-- '[[_Standards/WikiData/WD~vector-borne_disease,2083837]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
+  - "[[_Standards/WikiData/WD~parasitic_protozoa_infectious_disease,353172]]"
+  - "[[_Standards/WikiData/WD~vector-borne_disease,2083837]]"
+  - "[[_Standards/WikiData/WD~disease,12136]]"
 subreddit: Malaria
 symptoms_and_signs:
-- '[[_Standards/WikiData/WD~jaundice,133244]]'
-- '[[_Standards/WikiData/WD~coma,159557]]'
-- '[[_Standards/WikiData/WD~splenomegaly,1129121]]'
-- '[[_Standards/WikiData/WD~hepatomegaly,1362864]]'
-- '[[_Standards/WikiData/WD~chills,2260058]]'
-- '[[_Standards/WikiData/WD~intermittent_fever,3073147]]'
-- '[[_Standards/WikiData/WD~periodic_fever,29644041]]'
-- '[[_Standards/WikiData/WD~anemia,5445]]'
-- '[[_Standards/WikiData/WD~fever,38933]]'
+  - "[[_Standards/WikiData/WD~jaundice,133244]]"
+  - "[[_Standards/WikiData/WD~coma,159557]]"
+  - "[[_Standards/WikiData/WD~splenomegaly,1129121]]"
+  - "[[_Standards/WikiData/WD~hepatomegaly,1362864]]"
+  - "[[_Standards/WikiData/WD~chills,2260058]]"
+  - "[[_Standards/WikiData/WD~intermittent_fever,3073147]]"
+  - "[[_Standards/WikiData/WD~periodic_fever,29644041]]"
+  - "[[_Standards/WikiData/WD~anemia,5445]]"
+  - "[[_Standards/WikiData/WD~fever,38933]]"
 UMLS_CUI: C0024530
 U_S_National_Archives_Identifier: 10638168
-Wolfram_Language_entity_code: "Entity[\"Disease\", \"ICDNine084\"]"
-WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/malaria"
+Wolfram_Language_entity_code: Entity["Disease", "ICDNine084"]
+WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/malaria
+dv_is_/same_as:
+  - "[Malaria](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.md)"
+  - "[Malaria.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.public.md)"
+  - "[Malaria.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.internal.md)"
+  - "[Malaria.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.protect.md)"
+  - "[Malaria.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.private.md)"
+  - "[Malaria.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.personal.md)"
+  - "[Malaria.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.secret.md)"
+dv_is_same_as:
+  - "[Malaria](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.md)"
+  - "[Malaria.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.public.md)"
+  - "[Malaria.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.internal.md)"
+  - "[Malaria.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.protect.md)"
+  - "[Malaria.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.private.md)"
+  - "[Malaria.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.personal.md)"
+  - "[Malaria.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.secret.md)"
 ---
 
 ## #has_/text_of_/abstract 
