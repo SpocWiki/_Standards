@@ -1,9 +1,9 @@
 ---
 aliases:
-- online-store
-- online_store
-- OnlineStore
-- is_an_online_store
+  - online-store
+  - online_store
+  - OnlineStore
+  - is_an_online_store
 confidential: public
 cssclasses: Type
 draft: false
@@ -11,17 +11,45 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- online_store
+  - online_store
 layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_online_store Class"
+license: CC BY-SA 4.0
+linkTitle: is_an_online_store Class
 publish: true
 publishDate: 
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_online_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_online_store Class
 type: Type
+dv_#is_/part_of: https://pending.schema.org
+dv_#is_/sub_class_of:
+  path: ../OnlineBusiness
+  embed: false
+  type: file
+dv_#has_/properties: "[ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ]"
+dv_is_/same_as:
+  - "[Online_Store](Online_Store.md)"
+  - "[Online_Store.public](/_public/Society/Organization/Online_Business/Online_Store.public.md)"
+  - "[Online_Store.internal](/_internal/Society/Organization/Online_Business/Online_Store.internal.md)"
+  - "[Online_Store.protect](/_protect/Society/Organization/Online_Business/Online_Store.protect.md)"
+  - "[Online_Store.private](/_private/Society/Organization/Online_Business/Online_Store.private.md)"
+  - "[Online_Store.personal](/_personal/Society/Organization/Online_Business/Online_Store.personal.md)"
+  - "[Online_Store.secret](/_secret/Society/Organization/Online_Business/Online_Store.secret.md)"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of:
+  path: ../OnlineBusiness
+  embed: false
+  type: file
+dv_has_properties: "[ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ]"
+dv_is_same_as:
+  - "[Online_Store](Online_Store.md)"
+  - "[Online_Store.public](/_public/Society/Organization/Online_Business/Online_Store.public.md)"
+  - "[Online_Store.internal](/_internal/Society/Organization/Online_Business/Online_Store.internal.md)"
+  - "[Online_Store.protect](/_protect/Society/Organization/Online_Business/Online_Store.protect.md)"
+  - "[Online_Store.private](/_private/Society/Organization/Online_Business/Online_Store.private.md)"
+  - "[Online_Store.personal](/_personal/Society/Organization/Online_Business/Online_Store.personal.md)"
+  - "[Online_Store.secret](/_secret/Society/Organization/Online_Business/Online_Store.secret.md)"
 ---
 
 Class of all online_stores.

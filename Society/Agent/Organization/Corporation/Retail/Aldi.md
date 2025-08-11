@@ -50,6 +50,36 @@ X_Twitter_username:
 inception: 1946-01-01T00:00:00Z
 official_website: https://www.aldi.com
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ALDI%20Woerden%2002.JPG
+dv_has_/competitor:
+  path: _Standards/Society/Agent/Organization/Corporation/Retail/Lidl.md
+  embed: false
+  type: file
+dv_is_/same_as:
+  - path: _Standards/WikiData/WD~Aldi,125054.md
+    embed: false
+    type: file
+  - "[Aldi](Aldi.md)"
+  - "[Aldi.public](/_public/Society/Economics/Business/Business-Entity/Retail/Aldi.public.md)"
+  - "[Aldi.internal](/_internal/Society/Economics/Business/Business-Entity/Retail/Aldi.internal.md)"
+  - "[Aldi.protect](/_protect/Society/Economics/Business/Business-Entity/Retail/Aldi.protect.md)"
+  - "[Aldi.private](/_private/Society/Economics/Business/Business-Entity/Retail/Aldi.private.md)"
+  - "[Aldi.personal](/_personal/Society/Economics/Business/Business-Entity/Retail/Aldi.personal.md)"
+  - "[Aldi.secret](/_secret/Society/Economics/Business/Business-Entity/Retail/Aldi.secret.md)"
+dv_has_competitor:
+  path: _Standards/Society/Agent/Organization/Corporation/Retail/Lidl.md
+  embed: false
+  type: file
+dv_is_same_as:
+  - path: _Standards/WikiData/WD~Aldi,125054.md
+    embed: false
+    type: file
+  - "[Aldi](Aldi.md)"
+  - "[Aldi.public](/_public/Society/Economics/Business/Business-Entity/Retail/Aldi.public.md)"
+  - "[Aldi.internal](/_internal/Society/Economics/Business/Business-Entity/Retail/Aldi.internal.md)"
+  - "[Aldi.protect](/_protect/Society/Economics/Business/Business-Entity/Retail/Aldi.protect.md)"
+  - "[Aldi.private](/_private/Society/Economics/Business/Business-Entity/Retail/Aldi.private.md)"
+  - "[Aldi.personal](/_personal/Society/Economics/Business/Business-Entity/Retail/Aldi.personal.md)"
+  - "[Aldi.secret](/_secret/Society/Economics/Business/Business-Entity/Retail/Aldi.secret.md)"
 ---
 
 # [[Aldi]] 

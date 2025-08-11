@@ -24,11 +24,19 @@ title: has_category
 type: Predi_Relation
 ---
 
+# [[has_category]] 
+
 Use it like this: 
 - [ #has_/category :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL ] or 
 - [ has_category :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL ] 
 
-A category for the item. Greater signs or slashes can be used to informally indicate a category hierarchy.
+A category for the item. Categories don't form a controlled Vocabulary; they are often strings. 
+Greater signs or slashes can be used to informally indicate a category hierarchy, similar to a [[../../../bio/Taxonomy|Taxonomy]].
+Categories are less formal than [[../../Class|Class]]es, which are extensions to [[Set]]s based on strict Predicates. 
+Therefore Categories cannot be used for inference. 
+
+Instead they are used for Navigation and Discovery and can be overlapping or even inconsistent,
+so no unique Categorization is possible. 
 
 Relation describes that: 
 [ #has_/domain  :: ActionAccessSpecification, Invoice, Offer, PhysicalActivity, Product, Recommendation, Service, SpecialAnnouncement ]
