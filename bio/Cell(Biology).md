@@ -42,9 +42,20 @@ Terminologia_Histologica: H1.00.01.0.00001
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 ---
 
+# [[Cell(Biology)]] 
+
+#is_/same_as :: [[../WikiData/WD~Cell,7868|WD~Cell,7868]] 
+
 ## #has_/text_of_/abstract 
 
-> The cell is the basic structural and functional unit of all forms of life. Every cell consists of cytoplasm enclosed within a membrane; many cells contain organelles, each with a specific function. The term comes from the Latin word cellula meaning 'small room'. Most cells are only visible under a microscope. Cells emerged on Earth about 4 billion years ago. All cells are capable of replication, protein synthesis, and motility. 
+> The cell is the basic structural and functional unit of all forms of life. 
+> Every cell consists of cytoplasm enclosed within a membrane; 
+> many cells contain organelles, each with a specific function. 
+> 
+> The term comes from the Latin word cellula meaning 'small room'. 
+> Most cells are only visible under a microscope. 
+> Cells emerged on Earth about 4 billion years ago. 
+> All cells are capable of replication, protein synthesis, and motility. 
 >
 > Cells are broadly categorized into two types: eukaryotic cells, which possess a nucleus, and prokaryotic cells, which lack a nucleus but have a nucleoid region. Prokaryotes are single-celled organisms such as bacteria, whereas eukaryotes can be either single-celled, such as amoebae, or multicellular, such as some algae, plants, animals, and fungi. Eukaryotic cells contain organelles including mitochondria, which provide energy for cell functions; chloroplasts, which create sugars by photosynthesis, in plants; and ribosomes, which synthesise proteins.
 >

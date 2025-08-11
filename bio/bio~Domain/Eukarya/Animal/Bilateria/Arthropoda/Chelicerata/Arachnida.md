@@ -102,7 +102,7 @@ Spiders, mites, scorpions, whipscorpions, pseudoscorpions
     -  [Crustacea](../Crustacea.md))
     -  [Pauropoda](../Myriapoda/Pauropoda.md))
     -  [Diplopoda](../Myriapoda/Diplopoda.md))
-    -  [Chilopoda](../Myriapoda/Chilopoda.md))
+    -  [Centipede](../Myriapoda/Centipede.md))
     -  [Symphyla](../Myriapoda/Symphyla.md))
     -   Arachnida
     -   [Sea_Scorpion](Sea_Scorpion.md)

@@ -164,7 +164,7 @@ date_of_death: 2018-08-16T00:00:00Z
 
 # [[Franklin,Aretha]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Aretha_Franklin,125121|WD~Aretha_Franklin,125121]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Aretha_Franklin,125121|WD~Aretha_Franklin,125121]] 
 
 ## #has_/text_of_/abstract 
 

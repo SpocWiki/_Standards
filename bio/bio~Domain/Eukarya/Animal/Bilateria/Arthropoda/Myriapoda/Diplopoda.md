@@ -16,7 +16,7 @@ title: Diplopoda
     -  [Crustacea](../Crustacea.md))
     -  [Pauropoda](Pauropoda.md))
     -   Diplopoda
-    -  [Chilopoda](Chilopoda.md))
+    -  [Centipede](Centipede.md))
     -  [Symphyla](Symphyla.md))
     -  [Arachnida](../Chelicerata/Arachnida.md))
     -   [[Sea_Scorpion](../Chelicerata/Sea_Scorpion.md)    -   [Horseshoe_Crab](../Chelicerata/Horseshoe_Crab.md)

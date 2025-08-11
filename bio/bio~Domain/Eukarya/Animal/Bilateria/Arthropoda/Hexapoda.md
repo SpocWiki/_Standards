@@ -19,7 +19,7 @@ title: Hexapoda
     -  [Crustacea](Crustacea.md))
     -  [Pauropoda](Myriapoda/Pauropoda.md))
     -  [Diplopoda](Myriapoda/Diplopoda.md))
-    -  [Chilopoda](Myriapoda/Chilopoda.md))
+    -  [Centipede](Myriapoda/Centipede.md))
     -  [Symphyla](Myriapoda/Symphyla.md))
     -  [Arachnida](Chelicerata/Arachnida.md))
     -   [[Sea_Scorpion](Chelicerata/Sea_Scorpion.md)    -   [Horseshoe_Crab](Chelicerata/Horseshoe_Crab.md)

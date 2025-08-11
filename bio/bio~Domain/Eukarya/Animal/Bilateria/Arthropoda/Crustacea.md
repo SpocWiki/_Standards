@@ -112,7 +112,7 @@ Crabs, lobsters, shrimp, barnacles, sow bugs, etc.
     -   Crustacea
     -  [Pauropoda](Myriapoda/Pauropoda.md))
     -  [Diplopoda](Myriapoda/Diplopoda.md))
-    -  [Chilopoda](Myriapoda/Chilopoda.md))
+    -  [Centipede](Myriapoda/Centipede.md))
     -  [Symphyla](Myriapoda/Symphyla.md))
     -  [Arachnida](Chelicerata/Arachnida.md))
     -   [Sea_Scorpion](Chelicerata/Sea_Scorpion.md)

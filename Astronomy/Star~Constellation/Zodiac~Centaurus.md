@@ -7,14 +7,15 @@ tags:
 type: Zodiac
 ---
 
+# [[Zodiac~Centaurus]] 
+
 [SpocWebEntityId::28101]
-
-
 
 [name-la::Centaurus]
 [name-genitive::Centauri]
 [name-de::Zentaur]
 
+#is_/same_as :: [[../../WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]  
 
 ## Confidential Links & Embeds: 
 

@@ -5,7 +5,7 @@ title: Scutigeromorpha
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -  [Chilopoda](../Chilopoda.md))
+    -  [Centipede](../Centipede.md))
     -  [Arthropoda](../../../Arthropoda.md))
     -  [Bilateria](../../../../Bilateria.md))
     -  [Animals](../../../../../Animals.md))
@@ -27,7 +27,7 @@ title: Scutigeromorpha
 
 Relationships after Edgecombe & Giribet 2004
 
-Containing group:[Chilopoda](../Chilopoda.md))
+Containing group:[Centipede](../Centipede.md))
 
 ### References
 

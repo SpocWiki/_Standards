@@ -159,7 +159,7 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
     -  [Crustacea](Arthropoda/Crustacea.md))
     -  [Pauropoda](Arthropoda/Myriapoda/Pauropoda.md))
     -  [Diplopoda](Arthropoda/Myriapoda/Diplopoda.md))
-    -  [Chilopoda](Arthropoda/Myriapoda/Chilopoda.md))
+    -  [Centipede](Arthropoda/Myriapoda/Centipede.md))
     -  [Symphyla](Arthropoda/Myriapoda/Symphyla.md))
     -  [Arachnida](Arthropoda/Chelicerata/Arachnida.md))
     -   [Eur[Sea_Scorpion](Arthropoda/Chelicerata/Sea_Scorpion.md) -   [Horseshoe_Crab](Arthropoda/Chelicerata/Horseshoe_Crab.md)

@@ -66,7 +66,7 @@ title: Xiphosura
     -  [Crustacea](../Crustacea.md))
     -  [Pauropoda](../Myriapoda/Pauropoda.md))
     -  [Diplopoda](../Myriapoda/Diplopoda.md))
-    -  [Chilopoda](../Myriapoda/Chilopoda.md))
+    -  [Centipede](../Myriapoda/Centipede.md))
     -  [Symphyla](../Myriapoda/Symphyla.md))
     -  [Arachnida](Arachnida.md))
     -   [Sea_Scorpion](Sea_Scorpion.md)
