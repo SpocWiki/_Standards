@@ -1,6 +1,6 @@
 ---
 aliases:
-- language
+- Sprache
 - language
 - Language
 - is_a_language
@@ -23,6 +23,10 @@ tags:
 title: "is_a_language Class"
 type: Type
 ---
+
+# [[Language]] 
+
+#is_/different_from :: [[ComputerLanguage]] 
 
 Class of all **natural** languages such as Spanish, Tamil, Hindi, English, etc. 
 
