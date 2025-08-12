@@ -38,6 +38,8 @@ A time period from 66.0 million years ago to the present.
 #has_/previous_/item :: [[Era~2~Mesozoic]] 
 #has_/next_/item :: ---
 
+#is_/same_as :: [[../../../WikiData/WD~Cenozoic,102416|WD~Cenozoic,102416]] 
+
 ## #has_/text_of_/abstract 
 
 
