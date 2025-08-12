@@ -18,7 +18,7 @@ Commons_category: Antiparticles
 
 # [[Antiparticle]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Antiparticle,182717|WD~Antiparticle,182717]]
+#is_/same_as :: [[../../../../WikiData/WD~Antiparticle,182717|WD~Antiparticle,182717]]
 
 ## #has_/text_of_/abstract 
 

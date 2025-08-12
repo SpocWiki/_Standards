@@ -57,7 +57,12 @@ Wikidata_property: "item operated"
 
 ## #has_/text_of_/abstract 
 
-> A tool is an object that can extend an individual's ability to modify features of the surrounding environment or help them accomplish a particular task. Although many animals use simple **Tools**, only human beings, whose use of stone tools dates back hundreds of millennia, have been observed using tools to make other tools.
+> A tool is an object that can extend an individual's ability 
+> to modify features of the surrounding environment or help them accomplish a particular task. 
+> 
+> Although many animals use simple **Tools**, 
+> only human beings, whose use of stone tools dates back hundreds of millennia, 
+> have been observed using tools to make other tools.
 >
 > Early human tools, made of such materials as stone, bone, and wood, were used for the preparation of food, hunting, the manufacture of weapons, and the working of materials to produce clothing and useful artifacts and crafts such as pottery, along with the construction of housing, businesses, infrastructure, and transportation. The development of metalworking made additional types of tools possible. Harnessing energy sources, such as animal power, wind, or steam, allowed increasingly complex tools to produce an even larger range of items, with the Industrial Revolution marking an inflection point in the use of tools. The introduction of widespread automation in the 19th and 20th centuries allowed tools to operate with minimal human supervision, further increasing the productivity of human labor.
 >

@@ -1,83 +1,93 @@
 ---
 aliases:
-- Whale
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+  - Whale
+  - Cetacea
+  - kêtos
+CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
+code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 Commons_category: Cetacea
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 EPPO_Code: 1CETAO
 GS1_GPC_code: 10005469
-habitat: '[[_Standards/WikiData/WD~body_of_water,15324]]'
-has_characteristic: '[[_Standards/WikiData/WD~cetacean_intelligence,592525]]'
+habitat: "[[_Standards/WikiData/WD~body_of_water,15324]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~cetacean_intelligence,592525]]"
 has_id_wikidata: Q160
-has_part_s_: '[[_Standards/WikiData/WD~whale,1865281]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Graywhale%20MMC.jpg"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+has_part_s_:
+  - "[[_Standards/WikiData/WD~whale,1865281]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Graywhale%20MMC.jpg
+instance_of:
+  - "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 180403
 Krugosvet_article: biologiya/kitoobraznye
-main_food_source: '[[_Standards/WikiData/WD~zooplankton,842627]]'
+main_food_source:
+  - "[[_Standards/WikiData/WD~zooplankton,842627]]"
 MCN_code: 0106.12.00
-MeSH_tree_code: B01.050.150.900.649.313.875
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cetacea.jpg"
+MeSH_tree_code:
+  - B01.050.150.900.649.313.875
+montage_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cetacea.jpg
 NBN_System_Key: NHMSYS0000376171
 OmegaWiki_Defined_Meaning: 530
-parent_taxon: '[[_Standards/WikiData/WD~Cetaceamorpha,24031895]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q60168844,60168844]]'
+parent_taxon: "[[_Standards/WikiData/WD~Cetaceamorpha,24031895]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q60168844,60168844]]"
 start_time: -50000000-01-01
-studied_in: '[[_Standards/WikiData/WD~cetology,695883]]'
-subreddit: Cetacea
+studied_in:
+  - "[[_Standards/WikiData/WD~cetology,695883]]"
+subreddit:
+  - Cetacea
 taxon_common_name:
-- "Плави кит"
-- Hvaler
-- 고래
-- Cetaceans
-- Wale
-- Hvaler
-- Китообразные
-- Morfil
-- Valar
-- Cetáceo
-- حيتانيات
-- Китоподобни
-- kytovci
-- Cetáceos
-- Valaat
-- Cétacé
-- לווייתנאים
-- Kitovi
-- Cetek
-- Cetacei
-- クジラ目
-- ვეშაპისნაირნი
-- Walvèsachtege
-- "Ikan paus"
-- Walvisachtigen
-- Kvalar
-- walenie
-- อันดับวาฬและโลมา
-- Balinalar
-- Китоподібні
-- 鯨豚類
-- kiti
+  - Плави кит
+  - Hvaler
+  - 고래
+  - Cetaceans
+  - Wale
+  - Hvaler
+  - Китообразные
+  - Morfil
+  - Valar
+  - Cetáceo
+  - حيتانيات
+  - Китоподобни
+  - kytovci
+  - Cetáceos
+  - Valaat
+  - Cétacé
+  - לווייתנאים
+  - Kitovi
+  - Cetek
+  - Cetacei
+  - クジラ目
+  - ვეშაპისნაირნი
+  - Walvèsachtege
+  - Ikan paus
+  - Walvisachtigen
+  - Kvalar
+  - walenie
+  - อันดับวาฬและโลมา
+  - Balinalar
+  - Китоподібні
+  - 鯨豚類
+  - kiti
 taxon_name: Cetacea
-taxon_rank: '[[_Standards/WikiData/WD~infraorder,2889003]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~whale_oil,1053334]]'
+taxon_rank: "[[_Standards/WikiData/WD~infraorder,2889003]]"
+this_taxon_is_source_of:
+  - "[[_Standards/WikiData/WD~whale_oil,1053334]]"
 title: Cetacea
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9658599,9658599]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cetaceans,14615189]]'
+topic_s_main_category: "[[_Standards/WikiData/WD~Q9658599,9658599]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cetaceans,14615189]]"
 UMLS_CUI: C0007896
 ---
 
 # [[Whale]] 
 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Whale,160|WD~Whale,160]] 
-#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Whale,1865281|WD~Whale,1865281]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Cetacea,160|WD~Cetacea,160]]  
 
 ## #has_/text_of_/abstract 
 

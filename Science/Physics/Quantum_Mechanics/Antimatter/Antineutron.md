@@ -4,7 +4,7 @@ has_id_wikidata: Q156530
 
 # [[Antineutron]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Antineutron,156530|WD~Antineutron,156530]] 
+#is_/same_as :: [[../../../../WikiData/WD~Antineutron,156530|WD~Antineutron,156530]] 
 
 ## #has_/text_of_/abstract 
 

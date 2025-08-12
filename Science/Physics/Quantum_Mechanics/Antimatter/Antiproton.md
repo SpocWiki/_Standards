@@ -33,7 +33,7 @@ Dewey_Decimal_Classification: "539.72123"
 
 # [[Antiproton]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Antiproton,107575|WD~Antiproton,107575]] 
+#is_/same_as :: [[../../../../WikiData/WD~Antiproton,107575|WD~Antiproton,107575]] 
 
 ## #has_/text_of_/abstract 
 

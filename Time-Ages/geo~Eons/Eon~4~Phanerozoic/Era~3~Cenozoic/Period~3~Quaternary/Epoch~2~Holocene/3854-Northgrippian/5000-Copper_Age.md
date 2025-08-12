@@ -20,7 +20,7 @@ instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
 named_after:
 - '[[_Standards/WikiData/WD~copper,753]]'
 - '[[_Standards/WikiData/WD~stone,22731]]'
-start_time: -7500
+start_time: -7500 
 ---
 
 # [[Copper-Age]] 
@@ -33,6 +33,7 @@ start_time: -7500
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Chalcolithic,130253|WD~Chalcolithic,130253]] 
 
 ## #has_/text_of_/abstract 
 

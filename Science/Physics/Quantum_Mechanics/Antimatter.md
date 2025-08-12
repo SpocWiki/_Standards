@@ -6,7 +6,7 @@ has_id_wikidata: Q83197
 
 # [[Antimatter]] 
 
-#is_/same_as :: [[../../WikiData/WD~Antimatter,83197|WD~Antimatter,83197]] 
+#is_/same_as :: [[../../../WikiData/WD~Antimatter,83197|WD~Antimatter,83197]] 
 
 ## #has_/text_of_/abstract 
 

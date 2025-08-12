@@ -20,7 +20,7 @@ Commons_category: Antihydrogen
 
 # [[Antihydrogen]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Antihydrogen,216121|WD~Antihydrogen,216121]]
+#is_/same_as :: [[../../../../WikiData/WD~Antihydrogen,216121|WD~Antihydrogen,216121]]
 
 ## #has_/text_of_/abstract 
 

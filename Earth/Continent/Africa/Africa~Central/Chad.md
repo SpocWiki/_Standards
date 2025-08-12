@@ -471,7 +471,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Chad/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: XAF ]
 [	ISO4217-currency_name	 :: CFA Franc BEAC ]
 [	ISO4217-currency_numeric	 :: 950 ]
@@ -535,10 +534,13 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 148 ]
 
-
-
 [ISO2::TD]
-[ISO3::TCD]
+[ISO3::TCD] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Chad,657|WD~Chad,657]] 
+
+## #has_/map 
+
 ```leaflet
 id: Chad
 zoomFeatures: true 

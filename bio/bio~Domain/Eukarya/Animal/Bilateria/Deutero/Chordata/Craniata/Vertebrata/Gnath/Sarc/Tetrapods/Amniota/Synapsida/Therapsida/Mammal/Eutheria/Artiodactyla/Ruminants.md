@@ -9,7 +9,7 @@ title: Ruminantia
 
 # [[Ruminants]] 
 
- ![Giraffa_camelopardalis](Ruminants/Giraffa_camelopardalis.jpg)  ![Kobus_ellipsiprymnus](Ruminants/Kobus_ellipsiprymnus4321001.jpg)  ![Elk](Ruminants/elk.jpg) 
+ ![Giraffa_camelopardalis](Ruminants/Giraffa_camelopardalis.jpg)  ![Kobus_ellipsiprymnus](Ruminants/Kobus_ellipsiprymnus4321001.jpg)  ![Elk](Ruminants/Deer/Wapiti/Wapiti.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -92,7 +92,7 @@ Source Collection    [InsectImages.org](http://www.insectimages.org/)
 Copyright ::            © Kenneth M. Gale
 
 ------------------------------
-![](Ruminants/elk.jpg)
+![](Ruminants/Deer/Wapiti/Wapiti.jpg)
 Scientific Name ::     Cervus elaphus
 Reference            Photograph courtesy [Yellowstone Digital Slide](http://www.nps.gov/yell/slidefile/index.htm)
 Creator              Ed Austin/Herb Jones

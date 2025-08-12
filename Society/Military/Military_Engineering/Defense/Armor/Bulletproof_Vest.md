@@ -16,7 +16,7 @@ Commons_category: Bulletproof vests
 
 # [[Bulletproof_Vest]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Bulletproof_vest,391752|WD~Bulletproof_vest,391752]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Bulletproof_vest,391752|WD~Bulletproof_vest,391752]] 
 
 ## #has_/text_of_/abstract 
 
