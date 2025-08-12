@@ -14,12 +14,12 @@ has_id_wikidata: Q7259
 ## #has_/text_of_/abstract 
 
 > Augusta Ada King, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852), 
-> also known as Ada Lovelace, was an English mathematician and writer 
-> chiefly known for her work on Charles Babbage's 
+> also known as Ada Lovelace, was an English [[../../Mathematician|mathematician]] and writer 
+> chiefly known for her work on [[Babbage,Charles|Charles Babbage]]'s 
 > proposed mechanical general-purpose computer, the Analytical Engine. 
 > She was the first to recognise that the machine had applications beyond pure calculation.
 >
-> Lovelace was the only legitimate child of poet Lord Byron 
+> Lovelace was the only legitimate child of poet [[../../../Society/Communication/Media/Writing/Book/Writer/Byron,Lord|Lord Byron]] 
 > and reformer Anne Isabella Milbanke. 
 > 
 > All her half-siblings, Lord Byron's other children, 
@@ -40,8 +40,8 @@ has_id_wikidata: Q7259
 > Ada thereby becoming Countess of Lovelace.
 >
 > Lovelace's educational and social exploits brought her into contact with scientists 
-> such as Andrew Crosse, Charles Babbage, Sir David Brewster, Charles Wheatstone 
-> and Michael Faraday, and the author Charles Dickens, 
+> such as Andrew Crosse, [[Babbage,Charles|Charles Babbage]], Sir David Brewster, Charles Wheatstone 
+> and [[../../../Science/Scientist/Modern_Scientists/Faraday,Michael|Michael Faraday]], and the author [[../../../Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles|Charles Dickens]], 
 > contacts which she used to further her education. 
 > Lovelace described her approach as "poetical science" 
 > and herself as an "Analyst (& Metaphysician)".
@@ -55,7 +55,7 @@ has_id_wikidata: Q7259
 >
 > Though Babbage's Analytical Engine was never constructed 
 > and exercised no influence on the later invention of electronic computers, 
-> it has been recognised in retrospect as a Turing-complete general-purpose computer 
+> it has been recognised in retrospect as a Turing-complete general-purpose [[../../../Technology/IT/Computer_Hardware/Computer|computer]] 
 > which anticipated the essential features of a modern electronic computer; 
 > Babbage is therefore known as the "father of computers," 
 > and Lovelace is credited with several computing "firsts" for her collaboration with him.

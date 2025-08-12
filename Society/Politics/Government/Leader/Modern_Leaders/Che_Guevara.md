@@ -115,6 +115,10 @@ U_S_National_Archives_Identifier: 10580374
 Wolfram_Language_entity_code: "Entity[\"Person\", \"CheGuevara::95v73\"]"
 ---
 
+# [[Che_Guevara]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Che_Guevara,5809|WD~Che_Guevara,5809]] 
+
 ## #has_/text_of_/abstract 
 
 > Ernesto "Che" Guevara (14 June 1928 – 9 October 1967) was an Argentine Marxist revolutionary, 

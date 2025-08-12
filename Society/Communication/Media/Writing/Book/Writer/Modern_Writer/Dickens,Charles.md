@@ -2,6 +2,7 @@
 aliases:
 - "Charles Dickens"
 - "Charles John Huffam Dickens"
+- Charles_Dickens
 archives_at:
 - '[[_Standards/WikiData/WD~Louis_Round_Wilson_Library,14708020]]'
 - '[[_Standards/WikiData/WD~Leeds_University_Library,24568958]]'
@@ -151,8 +152,12 @@ work_location: '[[_Standards/WikiData/WD~Rochester,507517]]'
 writing_language: '[[_Standards/WikiData/WD~British_English,7979]]'
 ---
 
+# [[Dickens,Charles]] 
+
 #has_/time_/started :: 1812-02-07 
 #has_/time_/started :: 1870-06-09 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Charles_Dickens,5686|WD~Charles_Dickens,5686]] 
 
 ## #has_/text_of_/abstract 
 

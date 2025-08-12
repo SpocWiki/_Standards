@@ -1,15 +1,20 @@
 ---
 aliases:
   - Brettspiel
+  - board game
 has_id_wikidata: Q131436
-uses: "[[_Standards/WikiData/WD~game_board,1258741]]"
+uses:
+  - "[[_Standards/WikiData/WD~game_board,1258741]]"
 has_list: "[[_Standards/WikiData/WD~list_of_board_games,2600160]]"
-different_from: "[[_Standards/WikiData/WD~tabletop_game,3244175]]"
+different_from:
+  - "[[_Standards/WikiData/WD~tabletop_game,3244175]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~tabletop_game,3244175]]"
   - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Board_and_table_games,9456907]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_Board_game,10557372]]"
+maintained_by_WikiProject:
+  - "[[_Standards/WikiData/WD~WikiProject_Board_and_table_games,9456907]]"
+topic_s_main_template:
+  - "[[_Standards/WikiData/WD~Template_Infobox_Board_game,10557372]]"
 subreddit:
   - BoardGamesNews
   - boardgamescirclejerk
@@ -20,7 +25,8 @@ GitHub_topic:
 instance_of:
   - "[[_Standards/WikiData/WD~product_category,63981612]]"
   - "[[_Standards/WikiData/WD~hobby,47728]]"
-practiced_by: "[[_Standards/WikiData/WD~board_game_player,84380764]]"
+practiced_by:
+  - "[[_Standards/WikiData/WD~board_game_player,84380764]]"
 IAB_code: "270"
 Nomenclature_for_Museum_Cataloging: "14217"
 Library_of_Congress_Classification: GV1312-GV1469
@@ -31,7 +37,8 @@ U_S_National_Archives_Identifier: "10647603"
 UNSPSC_Code: "60141102"
 P8189: "987007282544105171"
 Commons_category: Board games
-hashtag: board_games
+hashtag:
+  - board_games
 IMDb_keyword: board-game
 Wolfram_Language_entity_type: BoardGame
 IPTC_NewsCode: mediatopic/20000541

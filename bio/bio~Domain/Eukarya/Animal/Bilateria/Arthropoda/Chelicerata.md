@@ -40,7 +40,7 @@ UMLS_CUI: C0998333
 
 # [[Chelicerata]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Chelicerata,1359|WD~Chelicerata,1359]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Chelicerata,1359|WD~Chelicerata,1359]]  
 
 ## #has_/text_of_/abstract 
 

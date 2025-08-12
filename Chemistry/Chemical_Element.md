@@ -63,7 +63,6 @@ Wolfram_Language_entity_type: Element
 
 # [[Chemical_Element]] 
 
-
 ## Primary Groups 
 8 Groups corresponding to 2 \* 4  Electrons in [[sp-Orbitals]]
 
@@ -112,7 +111,7 @@ Wolfram_Language_entity_type: Element
 
 ### [Group-12-Zinc](Chemical_Element/Group-12-Zinc.md)
 
-
+#is_/same_as :: [[../WikiData/WD~Chemical_element,11344|WD~Chemical_element,11344]] 
 
 ## #has_/text_of_/abstract 
 
