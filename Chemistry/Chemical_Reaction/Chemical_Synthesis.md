@@ -1,8 +1,25 @@
 ---
 aliases:
-  - Chemical synthesis 
+  - Chemical synthesis
   - chemical combination
 has_id_wikidata: Q273499
+different_from:
+  - "[[_Standards/WikiData/WD~synthesis,1134306]]"
+  - "[[_Standards/WikiData/WD~combination_reaction,3305733]]"
+studied_by: "[[_Standards/WikiData/WD~synthetic_chemistry,2963661]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Chemical_synthesis,6363782]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~planned_creation,11398090]]"
+  - "[[_Standards/WikiData/WD~planned_process,104637332]]"
+  - "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q30469750,30469750]]"
+P8189: "987007556786005171"
+Commons_category: Chemical syntheses
+PhilPapers_topic: chemical-synthesis
+MeSH_tree_code:
+  - E05.197
+  - J01.897.836.249
 ---
 
 # [[Chemical_Synthesis]] 
