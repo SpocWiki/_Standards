@@ -64,7 +64,16 @@ has_id_wikidata: Q83147
 > rather than the simple element symbols, numbers, 
 > and simple typographical symbols that define a chemical formula.
 >
-> Chemical formulae may be used in chemical equations to describe chemical reactions and other chemical transformations, such as the dissolving of ionic compounds into solution. While, as noted, chemical formulae do not have the full power of structural formulae to show chemical relationships between atoms, they are sufficient to keep track of numbers of atoms and numbers of electrical charges in chemical reactions, thus balancing chemical equations so that these equations can be used in chemical problems involving conservation of atoms, and conservation of electric charge.
+> Chemical formulae may be used in chemical equations 
+> to describe chemical reactions and other chemical transformations, 
+> such as the dissolving of ionic compounds into solution. 
+> 
+> While, as noted, chemical formulae do not have the full power of structural formulae 
+> to show chemical relationships between atoms, 
+> they are sufficient to keep track of numbers of atoms 
+> and numbers of electrical charges in chemical reactions, 
+> thus balancing chemical equations so that these equations can be used 
+> in chemical problems involving conservation of atoms, and conservation of electric charge.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20formula) 
 
