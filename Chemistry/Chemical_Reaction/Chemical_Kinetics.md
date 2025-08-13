@@ -18,7 +18,11 @@ has_id_wikidata: Q209082
 > which deals with the direction in which a reaction occurs 
 > but in itself tells nothing about its rate. 
 > 
-> Chemical kinetics includes investigations of how experimental conditions influence the speed of a chemical reaction and yield information about the reaction's mechanism and transition states, as well as the construction of mathematical models that also can describe the characteristics of a chemical reaction.
+> Chemical kinetics includes investigations 
+> of how experimental conditions influence the speed of a chemical reaction 
+> and yield information about the reaction's mechanism and transition states, 
+> as well as the construction of mathematical models 
+> that also can describe the characteristics of a chemical reaction.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20kinetics) 
 
