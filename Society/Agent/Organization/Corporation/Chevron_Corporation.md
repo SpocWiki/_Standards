@@ -96,15 +96,44 @@ P8189: "987007376444405171"
 
 ## #has_/text_of_/abstract 
 
-> Chevron Corporation is an American multinational energy corporation predominantly specializing in oil and gas. The second-largest direct descendant of Standard Oil, and originally known as the Standard Oil Company of California (shortened to Socal or CalSo), it is active in more than 180 countries. Within oil and gas, Chevron is vertically integrated and is involved in hydrocarbon exploration, production, refining, marketing and transport, chemicals manufacturing and sales, and power generation.
+> Chevron Corporation is an American multinational energy corporation 
+> predominantly specializing in oil and gas. 
+> The second-largest direct descendant of Standard Oil, 
+> and originally known as the Standard Oil Company of California 
+> (shortened to Socal or CalSo), it is active in more than 180 countries. 
+> Within oil and gas, Chevron is vertically integrated 
+> and is involved in hydrocarbon exploration, production, refining, marketing 
+> and transport, chemicals manufacturing and sales, and power generation.
 >
-> Founded originally in Southern California during the 1870s, the company was then based for many decades in San Francisco, California, before moving its corporate offices to San Ramon, California, in 2001; on August 2, 2024, Chevron announced that it would be transferring its headquarters to Houston, Texas.
+> Founded originally in Southern California during the 1870s, 
+> the company was then based for many decades in San Francisco, California, 
+> before moving its corporate offices to San Ramon, California, in 2001; on August 2, 2024, 
+> Chevron announced that it would be transferring its headquarters to Houston, Texas.
 >
-> Chevron traces its history back to the second half of the 19th century to small California-based oil companies which were acquired by Standard and merged into Standard Oil of California. The company grew quickly on its own after the breakup of Standard Oil by continuing to acquire companies and partnering with others both inside and outside of California, eventually becoming one of the Seven Sisters that dominated the global petroleum industry from the mid-1940s to the 1970s.
+> Chevron traces its history back to the second half of the 19th century 
+> to small California-based oil companies which were acquired by Standard 
+> and merged into Standard Oil of California. 
+> The company grew quickly on its own after the breakup of Standard Oil 
+> by continuing to acquire companies and partnering with others 
+> both inside and outside of California, 
+> eventually becoming one of the Seven Sisters 
+> that dominated the global petroleum industry from the mid-1940s to the 1970s.
 >
-> In 1985, Socal merged with the Pittsburgh-based Gulf Oil and rebranded as Chevron; the newly merged company later merged with Texaco in 2001. Chevron manufactures and sells fuels, lubricants, additives, and petrochemicals, primarily in Western North America,  the US Gulf Coast, Southeast Asia, South Korea and Australia. In 2018, the company produced an average of 791,000 barrels (125,800 m3) of net oil-equivalent per day in United States.
+> In 1985, Socal merged with the Pittsburgh-based Gulf Oil and rebranded as Chevron; 
+> the newly merged company later merged with Texaco in 2001. 
+> Chevron manufactures and sells fuels, lubricants, additives, 
+> and petrochemicals, primarily in Western North America, 
+> the US Gulf Coast, Southeast Asia, South Korea and Australia. 
+> In 2018, the company produced an average of 791,000 barrels (125,800 m3) 
+> of net oil-equivalent per day in United States.
 >
-> Chevron is one of the largest companies in the world and the second-largest oil company based in the United States by revenue, only behind fellow Standard Oil descendant ExxonMobil. Chevron ranked 10th on the Fortune 500 in 2023. The company is also the last-remaining oil-and-gas component of the Dow Jones Industrial Average since ExxonMobil's exit from the index in 2020.
+> Chevron is one of the largest companies in the world 
+> and the second-largest oil company based in the United States by revenue, 
+> only behind fellow Standard Oil descendant ExxonMobil. 
+> 
+> Chevron ranked 10th on the Fortune 500 in 2023. 
+> The company is also the last-remaining oil-and-gas component 
+> of the Dow Jones Industrial Average since ExxonMobil's exit from the index in 2020.
 >
 > Chevron has been subject to numerous controversies.
 >
