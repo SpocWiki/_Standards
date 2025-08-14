@@ -4,7 +4,8 @@ aliases:
   - Mercury (planet)
   - Mercury(Planet)
   - Mercury, Planet
-  - "{ newTitle: null }": 
+  - Mercury
+  - Merkur
 angular_diameter:
   - 13
   - 4.5
@@ -23,7 +24,8 @@ child_astronomical_body:
 Commons_category: Mercury (planet)
 Commons_gallery: Mercury (planet)
 declination: 61.414
-demonym: Mercurien
+demonym:
+  - Mercurien
 density: 5.427
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -44,8 +46,10 @@ flattening: 0
 geography_of_topic: "[[_Standards/WikiData/WD~surface_of_Mercury,12046610]]"
 has_characteristic: "[[_Standards/WikiData/WD~Mercury's_magnetic_field,1752971]]"
 has_id_wikidata: Q308
-has_part_s_: "[[_Standards/WikiData/WD~atmosphere_of_Mercury,245809]]"
-has_use: "[[_Standards/WikiData/WD~colonization_of_Mercury,1140353]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~atmosphere_of_Mercury,245809]]"
+has_use:
+  - "[[_Standards/WikiData/WD~colonization_of_Mercury,1140353]]"
 highest_point: "[[_Standards/WikiData/WD~Caloris_Montes,31340]]"
 Iconclass_notation: 24C14
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mercury%20in%20color%20-%20Prockter07%20centered.jpg
@@ -58,7 +62,8 @@ longitude_of_ascending_node: 48.33076593
 magnetic_moment: 40000000000000000000
 mass: 330
 mean_anomaly: 174.796
-MeSH_tree_code: G01.060.075.730.700.762
+MeSH_tree_code:
+  - G01.060.075.730.700.762
 named_after:
   - "[[_Standards/WikiData/WD~Mercury,1150]]"
   - "[[_Standards/WikiData/WD~Hermes,41484]]"
@@ -109,7 +114,7 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
+expiryDate:
 ---
 
 # [[Mercury,Planet]]]

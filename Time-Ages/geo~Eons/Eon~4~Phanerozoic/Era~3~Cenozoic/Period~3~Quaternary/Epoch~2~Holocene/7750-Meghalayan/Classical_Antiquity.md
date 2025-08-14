@@ -127,7 +127,7 @@ dv.view("TableByName",["Classical_Antiquity.tsv"])
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Classical_Antiquity.svg]] 
 
 
 %%

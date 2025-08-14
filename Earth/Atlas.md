@@ -3,7 +3,7 @@ aliases:
   - atlas
   - Atlas
   - is_an_atlas
-  - "{ newTitle: null }": 
+  - "Atlas": 
 confidential: private
 cssclasses:
   - private
@@ -17,16 +17,16 @@ keywords:
 layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: null }": 
+  "Atlas": 
 publish: false
 publishDate: 
 tags:
   - class/Class
   - schema-org/Class
-  - "{ newTitle: null }": 
+  - "Atlas": 
   - excalidraw
 title:
-  "{ newTitle: null }": 
+  "Atlas": 
 type: private_note
 has_id_wikidata: Q162827
 instance_of:

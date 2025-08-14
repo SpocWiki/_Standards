@@ -25,12 +25,12 @@ instance_of:
 isDeleted: false
 isReadOnly: false
 keywords:
-  '{ newTitle: null }': Null
+  'Biological_Classification': Null
 lang: en
 layout: Null
 license: (c)copyrighted
 linkTitle:
-  '{ newTitle: null }': Null
+  'Biological_Classification': Null
 publish: false
 publishDate: Null
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~taxonomy,8269924]]'
@@ -44,7 +44,7 @@ topic_s_main_template:
 tags:
   - excalidraw
 title:
-  '{ newTitle: null }': Null
+  'Biological_Classification': Null
 type: private_note
 uses:
   - '[[_Standards/WikiData/WD~cladistics,192210]]'
@@ -117,7 +117,7 @@ uses:
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Biological_Classification.svg]] 
 
 
 %%

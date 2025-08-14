@@ -19,7 +19,7 @@ keywords:
 layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: null }": 
+  "Drug": 
 publish: false
 publishDate: 
 tags:
@@ -27,7 +27,7 @@ tags:
   - schema-org/Class
   - excalidraw
 title:
-  "{ newTitle: null }": 
+  "Drug": 
 type: private_note
 excalidraw_autoexport: svg
 excalidraw_open_md: true

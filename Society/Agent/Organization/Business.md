@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "{ newTitle: null }": 
+  - "Business": 
 confidential: private
 cssclasses:
   - private
@@ -16,19 +16,19 @@ has_time_started:
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: null }": 
+  "Business": 
 lang: en
 layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: null }": 
+  "Business": 
 publish: false
 publishDate: 
 tags:
-  - "{ newTitle: null }": 
+  - "Business": 
   - excalidraw
 title:
-  "{ newTitle: null }": 
+  "Business": 
 type: private_note
 dv_is_/part_of:
   path: _Standards/Society/Agent/Organization/Business.md
@@ -242,7 +242,7 @@ Colloquially, Business is anything that keeps you occupied / busy.
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Business.svg]] 
 
 
 %%

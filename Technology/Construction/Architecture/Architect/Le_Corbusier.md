@@ -227,7 +227,7 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"CharlesEdouardJeanneret::46
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Le_Corbusier.svg]] 
 
 
 %%

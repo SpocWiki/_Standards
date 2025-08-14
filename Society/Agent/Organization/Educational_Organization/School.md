@@ -3,7 +3,7 @@ aliases:
   - school
   - School
   - is_a_school
-  - "{ newTitle: null }": 
+  - "School": 
 confidential: private
 cssclasses:
   - private
@@ -17,16 +17,16 @@ keywords:
 layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: null }": 
+  "School": 
 publish: false
 publishDate: 
 tags:
   - class/Class
   - schema-org/Class
-  - "{ newTitle: null }": 
+  - "School": 
   - excalidraw
 title:
-  "{ newTitle: null }": 
+  "School": 
 type: private_note
 excalidraw_autoexport: svg
 excalidraw_open_md: true
