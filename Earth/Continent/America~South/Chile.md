@@ -381,8 +381,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Chile/ReadMe]] 
 
-
-
 [	ISO4217-currency_alphabetic	 :: CLP ]
 [	ISO4217-currency_name	 :: Chilean Peso ]
 [	ISO4217-currency_numeric	 :: 152 ]
@@ -446,14 +444,13 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 152 ]
 
-
-
 [ISO2::CL]
 [ISO3::CHL] 
 
+
+#is_/same_as :: [[../../../WikiData/WD~Chile,298|WD~Chile,298]] 
+
 ## #has_/map  
-
-
 
 
 ```leaflet
