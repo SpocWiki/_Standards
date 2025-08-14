@@ -1,7 +1,7 @@
 
 # [[Catholic_Church]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Catholic_Church,9592|WD~Catholic_Church,9592]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Catholic_Church,9592|WD~Catholic_Church,9592]] 
 
 ## #has_/text_of_/abstract 
 

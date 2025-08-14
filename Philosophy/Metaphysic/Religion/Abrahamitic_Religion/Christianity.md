@@ -1,3 +1,90 @@
+---
+aliases:
+  - Christentum
+  - christian
+has_id_wikidata: Q5043
+Provenio_UUID: 737face9-8d0c-4573-8f11-fffb295f2ab8
+P8189: "987007285740005171"
+UMLS_CUI: C0008530
+GitHub_topic: christianity
+hashtag_: christianity
+MeSH_tree_code:
+  - K01.844.188
+Krugosvet_article: kultura_i_obrazovanie/religiya/HRISTIANSTVO.html
+IPTC_NewsCode: mediatopic/20000659
+OpenStreetMap_tag_or_key: Tag:religion=christian
+practiced_by:
+  - "[[_Standards/WikiData/WD~Christian,106039]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Christianity,235329]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Eastern_Christianity,245177]]"
+  - "[[_Standards/WikiData/WD~Western_Christianity,842798]]"
+  - "[[_Standards/WikiData/WD~Christian_denomination,879146]]"
+  - "[[_Standards/WikiData/WD~Christian_movement,995347]]"
+  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
+named_after:
+  - "[[_Standards/WikiData/WD~Nazareth,430776]]"
+  - "[[_Standards/WikiData/WD~Christ,642420]]"
+  - "[[_Standards/WikiData/WD~Jesus_Christ,302]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Christianity_sidebar,5881848]]"
+  - "[[_Standards/WikiData/WD~Template_Christianity_footer,6923874]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~major_religious_group,6957341]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Christianity,7112229]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Christianity,8586708]]"
+location: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828226,22828226]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q33096581,33096581]]"
+founded_by:
+  - "[[_Standards/WikiData/WD~Jesus_Christ,302]]"
+  - "[[_Standards/WikiData/WD~Mary,345]]"
+  - "[[_Standards/WikiData/WD~Paul_the_Apostle,9200]]"
+  - "[[_Standards/WikiData/WD~Saint_Peter,33923]]"
+location_of_formation: "[[_Standards/WikiData/WD~Jerusalem,1218]]"
+foundational_text:
+  - "[[_Standards/WikiData/WD~Bible,1845]]"
+  - "[[_Standards/WikiData/WD~New_Testament,18813]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~monotheism,9159]]"
+separated_from: "[[_Standards/WikiData/WD~Judaism,9268]]"
+member_count: 2400000000
+subclass_of:
+  - "[[_Standards/WikiData/WD~Abrahamic_religion,47280]]"
+Universal_Decimal_Classification: "27"
+Iconclass_notation: "11"
+IAB_code: "459"
+OmegaWiki_Defined_Meaning: "799124"
+Colon_Classification: Q6
+Unicode_character: ✝
+montage_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Civilization%201.jpg
+IMDb_keyword: christian
+Archive_of_Our_Own_tag: Christianity
+subreddit:
+  - Christianity
+Commons_category: Christianity
+U_S_National_Archives_Identifier: "10644483"
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Latin%20cross%20%28bold%29.svg
+inception: 0033-01-01T00:00:00Z
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Christianity-banner1.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20Holy-Sepulchre%20Jesus-Detail-01.png
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Christendom-article.ogg
+Mastodon_instance_URL:
+  - https://theres.life
+---
+
+# [[Christianity]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Christianity,5043|WD~Christianity,5043]] 
 
 ## #has_/text_of_/abstract 
 

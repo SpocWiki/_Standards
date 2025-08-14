@@ -61,7 +61,7 @@ water_footprint:
 > or they are ground to flour and made into [[../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Bread|bread]], porridge, and other products. 
 > 
 > Cereals have a high [[../../../../../../../../../Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch|starch]] content, 
-> enabling them to be fermented into alcoholic drinks such as [[../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Drink/Beer|beer]]. 
+> enabling them to be fermented into alcoholic drinks such as [[../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Beer|beer]]. 
 > 
 > Cereal farming has a substantial environmental impact, 
 > and is often produced in high-intensity monocultures. 

@@ -1,5 +1,14 @@
+---
+aliases:
+  - Zoologie
+has_id_wikidata: Q431
+---
+
+# [[Zoology]] 
 
 #is_/opposite_of :: [[Botany]]
+
+#is_/same_as :: [[../WikiData/WD~Zoology,431|WD~Zoology,431]] 
 
 ## #has_/text_of_/abstract 
 

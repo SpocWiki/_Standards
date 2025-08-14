@@ -77,7 +77,7 @@ Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Beer\"]"
 
 # [[Beer]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Beer,44|WD~Beer,44]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Beer,44|WD~Beer,44]] 
 
 ## #has_/text_of_/abstract 
 

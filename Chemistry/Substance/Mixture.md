@@ -1,11 +1,16 @@
 ---
-Commons_category: "Chemical mixtures"
+Commons_category: Chemical mixtures
 has_id_wikidata: Q169336
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~pure_substance,578779]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Schematische%20Einteilung%20der%20Stoffe.svg"
-instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
-opposite_of: '[[_Standards/WikiData/WD~pure_substance,578779]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+has_part_s_of_the_class:
+  - "[[_Standards/WikiData/WD~pure_substance,578779]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Schematische%20Einteilung%20der%20Stoffe.svg
+instance_of:
+  - "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
+opposite_of: "[[_Standards/WikiData/WD~pure_substance,578779]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+aliases:
+  - mixtures
 ---
 
 # [[Mixture]] 

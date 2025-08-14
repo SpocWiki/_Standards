@@ -47,7 +47,7 @@ short_name: kath.
 
 # [[Catholicism]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Catholicism,1841|WD~Catholicism,1841]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Catholicism,1841|WD~Catholicism,1841]] 
 
 
 ## #has_/text_of_/abstract 
