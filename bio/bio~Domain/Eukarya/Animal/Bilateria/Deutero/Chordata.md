@@ -93,8 +93,8 @@ UMLS_CUI: C0920312
 
 # [[Chordata]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Chordata,10915|WD~Chordata,10915]] 
-#is_/instance_of :: [[../../bio~Domain/Eukarya/Animal/bio~Phylum|Phylum]]  
+#is_/same_as :: [[../../../../../../WikiData/WD~Chordata,10915|WD~Chordata,10915]]  
+#is_/instance_of :: [[../../../../../Taxon_Rank/bio-Kingdom/bio-Phylum|Phylum]]   
 
 Chordata is a phylum of animals characterized by several key anatomical features, 
 including a [[notochord]], a dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail, 
@@ -144,7 +144,7 @@ and differentiate them from their parent group within the broader context of ani
 
 ## Introduction
 
-[John G. Lundberg]()
+[John G. Lundberg]
 
 The Phylum Chordata includes the well-known vertebrates (fishes,
 amphibians, reptiles, birds, mammals). The vertebrates and hagfishes
@@ -254,40 +254,40 @@ addition to those noted here, that support these same relations among
 and monophyly of the three living chordate groups.
 
 1.  **Calcichordata.** Jeffries (1986) provides descriptions and
-    comparisons and argues for the placement of calcichordates near the
-    Chordata. Other workers believe that calcichordates are closer to
-    echinoderms. Reconstructions of these fossil organisms include
-    visceral (pharyngeal or gill) slits that would suggest chordate
-    affinities, but the mineralized skeleton was composed of calcite,
-    like echinoderms, not bone as in many chordates.
+comparisons and argues for the placement of calcichordates near the
+Chordata. Other workers believe that calcichordates are closer to
+echinoderms. Reconstructions of these fossil organisms include
+visceral (pharyngeal or gill) slits that would suggest chordate
+affinities, but the mineralized skeleton was composed of calcite,
+like echinoderms, not bone as in many chordates.
 2.  **Urochordata.** Evidence that tunicates are chordates comes clearly
-    from the larval \"tadpole\" stage which shows pharyngeal slits and
-    arches, dorsal hollow nerve cord, notochord and post-anal muscular
-    (unsegmented) tail. Adults of most members are sessile filter
-    feeders with an expanded pharynx and, like cephalochordates and
-    larval lampreys, with an endostyle, a mucous food trap in the
-    pharyngeal floor that is homologous with the thyroid gland of
-    vertebrates.
+from the larval \"tadpole\" stage which shows pharyngeal slits and
+arches, dorsal hollow nerve cord, notochord and post-anal muscular
+(unsegmented) tail. Adults of most members are sessile filter
+feeders with an expanded pharynx and, like cephalochordates and
+larval lampreys, with an endostyle, a mucous food trap in the
+pharyngeal floor that is homologous with the thyroid gland of
+vertebrates.
 3.  **Cephalochordata.** Among the living chordates there is little
-    doubt that lancelets are most closely related to the Craniates based
-    on synapomorphies such as segmented axial muscles and metameric
-    organization of the visceral (pharyngeal) arches. Uniquely, the
-    notochord of cephalochordates extends to the tip of the snout, the
-    gonads are segmentally organized, adults have a high number (50+)
-    gill arches, and there is a hood-like atrium covering the pharyngeal
-    region. The Early Cambrian fossil Yunnanozoon possesses the extended
-    notochord and segmental gonads, but lack the atrium and increased
-    number of gill arches.
+doubt that lancelets are most closely related to the Craniates based
+on synapomorphies such as segmented axial muscles and metameric
+organization of the visceral (pharyngeal) arches. Uniquely, the
+notochord of cephalochordates extends to the tip of the snout, the
+gonads are segmentally organized, adults have a high number (50+)
+gill arches, and there is a hood-like atrium covering the pharyngeal
+region. The Early Cambrian fossil Yunnanozoon possesses the extended
+notochord and segmental gonads, but lack the atrium and increased
+number of gill arches.
 4.  **Craniata.** Because hagfishes (Myxini) lack all traces of
-    vertebrae, i.e. a backbone, Janvier (1981) groups the Myxini with
-    all other vertebrates in the higher taxon Craniata (referring to the
-    presence of a head skeleton). The taxon Vertebrata is, therefore, in
-    a strict sense, applied to those animals known or believed to
-    possess at least a simple backbone of neural arches. Synapomorphies
-    of the Craniata include: presence of a cartilaginous (and often
-    bony) head skeleton; relatively large brain plus a unique set of
-    sensory and motor cranial nerves; nephrons as the functional
-    excretory unit; neural crest embryonic tissue.
+vertebrae, i.e. a backbone, Janvier (1981) groups the Myxini with
+all other vertebrates in the higher taxon Craniata (referring to the
+presence of a head skeleton). The taxon Vertebrata is, therefore, in
+a strict sense, applied to those animals known or believed to
+possess at least a simple backbone of neural arches. Synapomorphies
+of the Craniata include: presence of a cartilaginous (and often
+bony) head skeleton; relatively large brain plus a unique set of
+sensory and motor cranial nerves; nephrons as the functional
+excretory unit; neural crest embryonic tissue.
 
 The traditional taxa Agnatha (jawless fishes), Ostracodermi (fossil
 jawless fishes) and Cyclostomata (living lampreys and hagfishes) are
@@ -301,19 +301,19 @@ pages.
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -   [Deuterostomia](../Deutero.md)
-    -  [Bilateria](../../Bilateria.md))
-    -  [Animals](../../../Animals.md))
-    -  [Eukarya](../../../../Eukarya.md))
-    -   [Tree of Life](../../../../Tree_of_Life.md)
+-   [Deuterostomia](../Deutero.md)
+-  [Bilateria](../../Bilateria.md))
+-  [Animals](../../../Animals.md))
+-  [Eukarya](../../../../Eukarya.md))
+-   [Tree of Life](../../../../Tree_of_Life.md)
 
 -   ◊ Sibling Groups of  Deuterostomia
-    -   [Echinodermata](Echinodermata.md)
-    -   [Hemichordata](Hemichordata.md)
-    -   Chordata
+-   [Echinodermata](Echinodermata.md)
+-   [Hemichordata](Hemichordata.md)
+-   Chordata
 
 -   » Sub-Groups
-    -   [Craniata](Chordata/Craniata.md)
+-   [Craniata](Chordata/Craniata.md)
 
 
 ## Title Illustrations

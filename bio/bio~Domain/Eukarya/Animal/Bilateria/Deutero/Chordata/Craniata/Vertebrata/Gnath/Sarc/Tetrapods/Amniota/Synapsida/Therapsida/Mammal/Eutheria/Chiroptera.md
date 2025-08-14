@@ -1,5 +1,12 @@
 ---
 title: Chiroptera
+aliases:
+  - Bat
+  - Bats
+  - Chiroptera
+  - Fledermaus
+  - Fledermäuse
+has_id_wikidata: Q28425
 ---
 
 # [[Chiroptera]]
@@ -8,15 +15,66 @@ title: Chiroptera
 
  ![molossus](Chiroptera/molossus1.gif) ![phyllostomus](Chiroptera/phyllostomus1.gif)) 
 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Chiroptera,28425|WD~Chiroptera,28425]] 
+
 ## #has_/text_of_/abstract 
 
-> Bats are flying mammals of the order **Chiroptera** (). With their forelimbs adapted as wings, they are the only mammals capable of true and sustained flight. Bats are more agile in flight than most birds, flying with their very long spread-out digits covered with a thin membrane or patagium. The smallest bat, and arguably the smallest extant mammal, is Kitti's hog-nosed bat, which is 29–34 mm (1.1–1.3 in) in length, 150 mm (5.9 in) across the wings and 2–2.6 g (0.071–0.092 oz) in mass. The largest bats are the flying foxes, with the giant golden-crowned flying fox (Acerodon jubatus) reaching a weight of 1.6 kg (3.5 lb) and having a wingspan of 1.7 m (5 ft 7 in).
+> Bats are flying mammals of the order **Chiroptera**. 
+> With their forelimbs adapted as wings, 
+> they are the only mammals capable of true and sustained flight. 
+> 
+> Bats are more agile in flight than most birds, 
+> flying with their very long spread-out digits covered with a thin membrane or patagium. 
+> The smallest bat, and arguably the smallest extant mammal, is Kitti's hog-nosed bat, 
+> which is 29–34 mm (1.1–1.3 in) in length, 150 mm (5.9 in) across the wings 
+> and 2–2.6 g (0.071–0.092 oz) in mass. 
+> The largest bats are the flying foxes, with the giant golden-crowned flying fox (Acerodon jubatus) 
+> reaching a weight of 1.6 kg (3.5 lb) and having a wingspan of 1.7 m (5 ft 7 in).
 >
-> The second largest order of mammals after rodents, bats comprise about 20% of all classified mammal species worldwide, with over 1,400 species. These were traditionally divided into two suborders: the largely fruit-eating megabats, and the echolocating microbats. But more recent evidence has supported dividing the order into Yinpterochiroptera and Yangochiroptera, with megabats as members of the former along with several species of microbats. Many bats are insectivores, and most of the rest are frugivores (fruit-eaters) or nectarivores (nectar-eaters). A few species feed on animals other than insects; for example, the vampire bats feed on blood. Most bats are nocturnal, and many roost in caves or other refuges; it is uncertain whether bats have these behaviours to escape predators. Bats are present throughout the world, with the exception of extremely cold regions. They are important in their ecosystems for pollinating flowers and dispersing seeds; many tropical plants depend entirely on bats for these services. Globally, they transfer organic matter into cave ecosystems and arthropod suppression. Insectivory by bats in farmland constitutes an ecosystem service that has paramount value to humans: even in today’s pesticide era, natural enemies account for almost all pest suppression in farmed ecosystems.
+> The second largest order of mammals after rodents, 
+> bats comprise about 20% of all classified mammal species worldwide, with over 1,400 species. 
+> 
+> These were traditionally divided into two suborders: the largely fruit-eating megabats, 
+> and the echolocating microbats. 
+> But more recent evidence has supported dividing the order into 
+> Yinpterochiroptera and Yangochiroptera, with megabats as members of the former 
+> along with several species of microbats. 
+> 
+> Many bats are insectivores, 
+> and most of the rest are frugivores (fruit-eaters) or nectarivores (nectar-eaters). 
+> A few species feed on animals other than insects; for example, the vampire bats feed on blood. 
+> 
+> Most bats are nocturnal, and many roost in caves or other refuges; 
+> it is uncertain whether bats have these behaviours to escape predators. 
+> 
+> Bats are present throughout the world, with the exception of extremely cold regions. 
+> They are important in their ecosystems for pollinating flowers and dispersing seeds; 
+> many tropical plants depend entirely on bats for these services. 
+> Globally, they transfer organic matter into cave ecosystems and arthropod suppression. 
+> 
+> Insectivory by bats in farmland constitutes an ecosystem service 
+> that has paramount value to humans: even in today’s pesticide era, 
+> natural enemies account for almost all pest suppression in farmed ecosystems.
 >
-> Bats provide humans with some direct benefits, at the cost of some disadvantages. Bat dung has been mined as guano from caves and used as fertiliser. Bats consume insect pests, reducing the need for pesticides and other insect management measures. Some bats are also predators of mosquitoes, suppressing the transmission of mosquito-borne diseases. Bats are sometimes numerous enough and close enough to human settlements to serve as tourist attractions, and they are used as food across Asia and the Pacific Rim. However, fruit bats are frequently considered pests by fruit growers. Due to their physiology, bats are one type of animal that acts as a natural reservoir of many pathogens, such as rabies; and since they are highly mobile, social, and long-lived, they can readily spread disease among themselves. If humans interact with bats, these traits become potentially dangerous to humans.
+> Bats provide humans with some direct benefits, at the cost of some disadvantages. 
+> Bat dung has been mined as guano from caves and used as fertiliser. 
+> Bats consume insect pests, 
+> reducing the need for pesticides and other insect management measures. 
+> Some bats are also predators of mosquitoes, 
+> suppressing the transmission of mosquito-borne diseases. 
+> Bats are sometimes numerous enough and close enough to human settlements 
+> to serve as tourist attractions, and they are used as food across Asia and the Pacific Rim. 
+> 
+> However, fruit bats are frequently considered pests by fruit growers. 
+> Due to their physiology, 
+> bats are one type of animal that acts as a natural reservoir of many pathogens, such as rabies; 
+> and since they are highly mobile, social, and long-lived, 
+> they can readily spread disease among themselves. 
+> If humans interact with bats, these traits become potentially dangerous to humans.
 >
-> Depending on the culture, bats may be symbolically associated with positive traits, such as protection from certain diseases or risks, rebirth, or long life, but in the West, bats are popularly associated with darkness, malevolence, witchcraft, vampires, and death.
+> Depending on the culture, bats may be symbolically associated with positive traits, 
+> such as protection from certain diseases or risks, rebirth, or long life, 
+> but in the West, bats are popularly associated with darkness, malevolence, witchcraft, vampires, and death.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bat) 
 

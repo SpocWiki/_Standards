@@ -107,12 +107,14 @@ P8189: "987007546150905171"
 
 #is_/same_as :: [[_Standards/WikiData/WD~singer,177220]] 
 
+#is_/same_as :: [[_Standards/WikiData/WD~singer,177220]]  
+
 ## #has_/text_of_/abstract 
 
 > Singing is the art of creating music with the voice. 
 > It is the oldest form of musical expression, 
 > and the human voice can be considered the first musical instrument. 
-> 
+>
 > The definition of singing varies across sources. 
 > Some sources define singing as the act of creating musical sounds with the voice. 
 > Other common definitions include "the utterance of words or sounds in tuneful succession" 
@@ -130,7 +132,7 @@ P8189: "987007546150905171"
 > Singing can be formal or informal, arranged, or improvised. 
 > It may be done as a form of religious devotion, as a hobby, as a source of pleasure, 
 > comfort, as part of a ritual, during music education or as a profession. 
-> 
+>
 > Excellence in singing requires time, dedication, instruction, and regular practice. 
 > If practice is done regularly then the sounds can become clearer and stronger. 
 > Professional singers usually build their careers around one specific musical genre, 

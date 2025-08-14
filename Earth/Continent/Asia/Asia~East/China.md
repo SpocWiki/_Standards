@@ -961,7 +961,7 @@ Below is a detailed table of the 34 provincial-level divisions in China, which i
 | --------------------------------------------------------------------------- | ------: | -----: | -------: | ---------: | ----- | ---------------------------------------------------------- |
 | [[Anhui]]                                                                   |  61.340 |  139.4 |    4.290 |     69.938 | 0.780 | Known for historical sites and growing industries          |
 | [[Beijing]]                                                                 |  21.930 |   16.4 |    4.051 |    184.015 | 0.919 | Political center, cultural and scientific hub              |
-| [[Chongqing]]                                                               |  32.050 |   82.4 |    2.592 |     80.184 | 0.814 | Major manufacturing base, significant urban-rural mix      |
+| [[China/provinces~China/Chongqing,Province]]                                                               |  32.050 |   82.4 |    2.592 |     80.184 | 0.814 | Major manufacturing base, significant urban-rural mix      |
 | [[Fujian]]                                                                  |  41.540 |  121.4 |    5.000 |    120.362 | 0.815 | Coastal province, growing industries and trade             |
 | [[Gansu]]                                                                   |  25.200 |  425.8 |    1.000 |     39.683 | 0.720 | Rich in mineral resources but economically less developed  |
 | [[Guangdong]]                                                               | 126.010 |  179.8 |   12.436 |     98.987 | 0.848 | Economic powerhouse, technological and manufacturing hub   |
