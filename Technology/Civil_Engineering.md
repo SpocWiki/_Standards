@@ -56,7 +56,7 @@ Krugosvet_article: nauka_i_tehnika/energetika_i_stroitelstvo/STROITELSTVO_GRAZHD
 > Civil engineering is traditionally broken into a number of sub-disciplines. 
 > It is considered the second-oldest engineering discipline after military engineering, 
 > and it is defined to distinguish non-military engineering from military engineering. 
-> 
+>
 > Civil engineering can take place in the public sector 
 > from municipal public works departments through to federal government agencies, 
 > and in the private sector from locally based firms to Fortune Global 500 companies.

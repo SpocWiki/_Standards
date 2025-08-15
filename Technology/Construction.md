@@ -52,6 +52,10 @@ U_S_National_Archives_Identifier: 10639920
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Time-lapse%20of%20building%20demolition%20and%20reconstruction%20in%20Zurich.webm"
 ---
 
+# [[Construction]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~construction,385378]]  
+
 ## #has_/text_of_/abstract 
 
 > **Construction** is a general term meaning the art and science of forming objects, systems, or organizations. It comes from the Latin word constructio (from com- "together" and struere "to pile up") and Old French construction. To 'construct' is a verb: the act of building, and the noun is construction: how something is built or the nature of its structure.
