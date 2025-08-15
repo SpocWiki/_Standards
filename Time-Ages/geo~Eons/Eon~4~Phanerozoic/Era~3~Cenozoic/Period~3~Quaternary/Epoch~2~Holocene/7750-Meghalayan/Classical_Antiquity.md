@@ -77,6 +77,8 @@ type: private_note
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Classical_antiquity,486761|WD~Classical_antiquity,486761]] 
+
 ## #has_/text_of_/abstract 
 
 > **Classical antiquity**, also known as the classical era, classical period, classical age, or simply antiquity, 

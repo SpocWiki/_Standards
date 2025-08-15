@@ -1,11 +1,57 @@
 ---
 aliases:
-- "Classical music"
+  - Classical music
+  - Klassische Musik
+  - Western classical music
+has_id_wikidata: Q9730
+instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Indian_classical_music,1323698]]"
+  - "[[_Standards/WikiData/WD~art_music,1583807]]"
+  - "[[_Standards/WikiData/WD~Classical_period,17723]]"
+partially_coincident_with:
+  - "[[_Standards/WikiData/WD~art_music,1583807]]"
+  - "[[_Standards/WikiData/WD~serious_music,10666381]]"
+subclass_of: "[[_Standards/WikiData/WD~art_music,1583807]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Classical_music,8921101]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Classical_music,17600120]]"
+practiced_by:
+  - "[[_Standards/WikiData/WD~classical_composer,21680663]]"
+  - "[[_Standards/WikiData/WD~classical_musician,81729632]]"
+subreddit:
+  - classical_circlejerk
+  - classicalmusic
+described_by_source: "[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]"
+inception: 0500-01-01T00:00:00Z
+indigenous_to: "[[_Standards/WikiData/WD~Europe,46]]"
+IAB_code: "346"
+OmegaWiki_Defined_Meaning: "1154769"
+short_name: klassisk
+PhilPapers_topic: classical-music
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Classical%20music%20composers%20montage.JPG
+Dewey_Decimal_Classification: "781.68"
+Commons_category: Classical music
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Concert%20Vienna%20banner.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Dorveille%20%28Nucleos%29-musique%20classique.wav
+exact_match: http://cv.iptc.org/newscodes/subjectcode/01011001
+equivalent_class: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_ClassicalMusic
+Archive_of_Our_Own_tag: Classical Music RPF
+IPTC_NewsCode: mediatopic/20000022
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Magic%20Flute%20Overture.ogg
 ---
+
+[[Classical_Music]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Classical_music,9730|WD~Classical_music,9730]] 
 
 ## #has_/text_of_/abstract 
 
-> **Classical music** generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. It is sometimes distinguished as Western classical music, as the term "classical music" can also be applied to non-Western art musics. Classical music is often characterized by formality and complexity in its musical form and harmonic organization, particularly with the use of polyphony. Since at least the ninth century it has been primarily a written tradition, spawning a sophisticated notational system, as well as accompanying literature in analytical, critical, historiographical, musicological and philosophical practices. A foundational component of Western culture, classical music is frequently seen from the perspective of individual or groups of composers, whose compositions, personalities and beliefs have fundamentally shaped its history.
+> **Classical music** generally refers to the art music of the Western world, 
+> considered to be distinct from Western folk music or popular music traditions. 
+> 
+> It is sometimes distinguished as Western classical music, 
+> as the term "classical music" can also be applied to non-Western art musics. 
+> Classical music is often characterized by formality and complexity in its musical form and harmonic organization, particularly with the use of polyphony. Since at least the ninth century it has been primarily a written tradition, spawning a sophisticated notational system, as well as accompanying literature in analytical, critical, historiographical, musicological and philosophical practices. A foundational component of Western culture, classical music is frequently seen from the perspective of individual or groups of composers, whose compositions, personalities and beliefs have fundamentally shaped its history.
 >
 > Rooted in the patronage of churches and royal courts in Western Europe, surviving early medieval music is chiefly religious, monophonic and vocal, with the music of ancient Greece and Rome influencing its thought and theory. The earliest extant music manuscripts date from the Carolingian Empire (800–888), around the time which Western plainchant gradually unified into what is termed Gregorian chant. Musical centers existed at the Abbey of Saint Gall, the Abbey of Saint Martial and Saint Emmeram's Abbey, while the 11th century saw the development of staff notation and increasing output from medieval music theorists. By the mid-12th century France became the major European musical center: The religious Notre-Dame school first fully explored organized rhythms and polyphony, while secular music flourished with the troubadour and trouvère traditions led by poet-musician nobles. This culminated in the court sponsored French ars nova and Italian Trecento, which evolved into ars subtilior, a stylistic movement of extreme rhythmic diversity. Beginning in the early 15th century, Renaissance composers of the influential Franco-Flemish School built off the harmonic principles in the English contenance angloise, bringing choral music to new standards, particularly the mass and motet. Northern Italy soon emerged as the central musical region, where the Roman School engaged in highly sophisticated methods of polyphony in genres such as the madrigal, which inspired the brief English Madrigal School.
 >

@@ -27,9 +27,10 @@ part_of:
 #is_a_/taxon_rank  
 #is_a_ :: [[Taxon_Rank]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Class,37517]] 
 #has_/previous_/item :: [[../bio-Phylum]]  
 #has_/next_/item :: [[bio-Class/bio-Order]]  
+
+#is_/same_as :: [[../../../../../WikiData/WD~Class,37517]] 
 
 ## #has_/text_of_/abstract 
 
