@@ -7,7 +7,7 @@ has_id_wikidata: Q191600
 
 # [[Civil_and_political_Rights]] 
 
-#is_/same_as :: [[../../WikiData/WD~Civil_and_political_Rights,191600|WD~Civil_and_political_Rights,191600]] 
+#is_/same_as :: [[../../../WikiData/WD~Civil_and_political_Rights,191600|WD~Civil_and_political_Rights,191600]] 
 
 ## #has_/text_of_/abstract 
 
