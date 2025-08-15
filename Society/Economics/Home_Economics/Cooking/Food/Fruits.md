@@ -92,6 +92,10 @@ Use it like this:
 - [[Fruits/Banana|Banana]] 
 - [[Fruits/Berry|Berry]] 
 - [[../../../../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry|Blackberry]] 
+- [[Fruits/Cashew|Cashew]] 
+- [[Fruits/Chili_Pepper|Chili_Pepper]] 
+- [[Fruits/Grape|Grape]] 
+- [[Fruits/Nut(fruit)|Nut(fruit)]] 
 
 ## Confidential Links & Embeds: 
 
