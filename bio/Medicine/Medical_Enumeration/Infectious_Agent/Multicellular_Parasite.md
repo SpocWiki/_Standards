@@ -27,7 +27,7 @@ title: "is_a_multicellular_parasite Class"
 type: Type
 ---
 
-# [[multicellular_parasite]] 
+# [[Multicellular_Parasite]] 
 Class of all multicellular_parasites.
 
 Tag Instances like this: 

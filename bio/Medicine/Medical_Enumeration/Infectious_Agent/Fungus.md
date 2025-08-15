@@ -29,7 +29,7 @@ type: Type
 
 ﻿
 
-# [[fungus]] 
+# [[Fungus]] 
 
 Class of all fungi.
 

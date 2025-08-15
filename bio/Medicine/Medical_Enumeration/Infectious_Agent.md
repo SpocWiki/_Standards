@@ -26,9 +26,9 @@ title: "is_an_infectious_agent_class Class"
 type: Type
 ---
 
-# [[infectious_agent]] 
+# [[Infectious_Agent]] 
 
-Class of all [[infectious_agent]]s.
+Class of all [[Infectious_Agent]]s.
 
 Tag Instances like this: 
 #is_an_/infectious_agent

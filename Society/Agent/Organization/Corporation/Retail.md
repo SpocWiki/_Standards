@@ -33,7 +33,7 @@ subreddit: TalesFromRetail
 # [[Retail]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Retail,126793|WD~Retail,126793]] 
-#is_/opposite_of :: [[../../../../../schema-org/Class/is_a_/Intangible/Enumeration/Medical_Enumeration/Drug_Cost_Category/Wholesale]] 
+#is_/opposite_of :: [[../../../../bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Wholesale]] 
 
 ## #has_/text_of_/abstract 
 

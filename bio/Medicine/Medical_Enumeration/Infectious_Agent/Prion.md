@@ -27,7 +27,7 @@ title: "is_a_prion Class"
 type: Type
 ---
 
-# [[prion]] 
+# [[Prion]] 
 Class of all prions.
 
 Tag Instances like this: 

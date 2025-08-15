@@ -27,7 +27,7 @@ title: "is_a_protozoa Class"
 type: Type
 ---
 
-# [[protozoa]] 
+# [[Protozoa]] 
 Class of all protozoas.
 
 Tag Instances like this: 
