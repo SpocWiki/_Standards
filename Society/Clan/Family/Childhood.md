@@ -31,7 +31,7 @@ Baidu_Tieba_name: 童年
 ---
 # [[Childhood]] 
 
-#is_/same_as :: [[../../WikiData/WD~Childhood,276258|WD~Childhood,276258]] 
+#is_/same_as :: [[../../../WikiData/WD~Childhood,276258|WD~Childhood,276258]] 
 
 ## #has_/text_of_/abstract 
 

@@ -11,7 +11,7 @@ subclass_of: "[[_Standards/WikiData/WD~sexual_intercourse,5873]]"
 
 # [[Casual_Sex]] 
 
-#is_/same_as :: [[../../WikiData/WD~Casual_sex,442358|WD~Casual_sex,442358]] 
+#is_/same_as :: [[../../../WikiData/WD~Casual_sex,442358|WD~Casual_sex,442358]] 
 ## #has_/text_of_/abstract 
 
 > Casual sex is sexual activity that takes place outside a romantic relationship 

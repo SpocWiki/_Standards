@@ -73,7 +73,7 @@ Baidu_Tieba_name: 结婚
 
 # [[Marriage]] 
 
-#is_/same_as :: [[../../WikiData/WD~Marriage,8445|WD~Marriage,8445]] 
+#is_/same_as :: [[../../../WikiData/WD~Marriage,8445|WD~Marriage,8445]] 
 
 ## #has_/text_of_/abstract 
 

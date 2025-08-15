@@ -19,7 +19,7 @@ Wolfram_Language_entity_code: Entity["Concept", "CivilUnion::m6653"]
 
 #is_/similar_to :: [[Civil_Marriage]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Civil_union,41075|WD~Civil_union,41075]] 
+#is_/same_as :: [[../../../../WikiData/WD~Civil_union,41075|WD~Civil_union,41075]] 
 
 ## #has_/text_of_/abstract 
 

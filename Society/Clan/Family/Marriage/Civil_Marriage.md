@@ -14,7 +14,7 @@ Commons_category: Civil marriage
 
 # [[Civil_Marriage]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Civil_marriage,205572|WD~Civil_marriage,205572]] 
+#is_/same_as :: [[../../../../WikiData/WD~Civil_marriage,205572|WD~Civil_marriage,205572]] 
 
 ## #has_/text_of_/abstract 
 

@@ -28,7 +28,7 @@ P8189: "987007283981505171"
 
 # [[Boy]] 
 
-#is_/same_as :: [[../../WikiData/WD~Boy,3010|WD~Boy,3010]] 
+#is_/same_as :: [[../../../WikiData/WD~Boy,3010|WD~Boy,3010]] 
 
 ## #has_/text_of_/abstract 
 

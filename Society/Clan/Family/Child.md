@@ -51,7 +51,7 @@ aliases:
 
 # [[Child]] 
 
-#is_/same_as :: [[../../WikiData/WD~Child,7569|WD~Child,7569]] 
+#is_/same_as :: [[../../../WikiData/WD~Child,7569|WD~Child,7569]] 
 
 ## #has_/text_of_/abstract 
 

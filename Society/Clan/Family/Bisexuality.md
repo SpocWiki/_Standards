@@ -53,7 +53,7 @@ MeSH_tree_code:
 
 # [[Bisexuality]] 
 
-#is_/same_as :: [[../../WikiData/WD~Bisexuality,43200|WD~Bisexuality,43200]] 
+#is_/same_as :: [[../../../WikiData/WD~Bisexuality,43200|WD~Bisexuality,43200]] 
 
 ## #has_/text_of_/abstract 
 

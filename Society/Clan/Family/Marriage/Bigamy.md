@@ -17,7 +17,7 @@ P8189: "987007284756605171"
 
 # [[Bigamy]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Bigamy,720243|WD~Bigamy,720243]] 
+#is_/same_as :: [[../../../../WikiData/WD~Bigamy,720243|WD~Bigamy,720243]] 
 
 ## #has_/text_of_/abstract 
 

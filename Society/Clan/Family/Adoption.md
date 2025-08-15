@@ -4,7 +4,7 @@ has_id_wikidata: Q180472
 
 # [[Adoption]] 
 
-#is_/same_as :: [[../../WikiData/WD~Adoption,180472]] 
+#is_/same_as :: [[../../../WikiData/WD~Adoption,180472]] 
 
 ## #has_/text_of_/abstract 
 
