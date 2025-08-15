@@ -1,4 +1,27 @@
 ---
+aliases:
+- country
+- country
+- Country
+- is_a_country
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- country
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_country Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_country Class"
+type: Type
 Commons_category: Countries
 contains_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~first-level_administrative_division,10864048]]'
 described_at_URL: "https://www.whosonfirst.org/docs/placetypes/#country"
@@ -127,6 +150,17 @@ Wikidata_property:
 - "country of citizenship"
 Wolfram_Language_entity_type: Country
 ---
+
+Class of all countrys.
+
+Tag Instances like this: 
+#is_a_/country
+
+A country.
+
+[ #is_/sub_class_of :: [[../AdministrativeArea]] ]
+
+[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## #has_/text_of_/abstract 
 
