@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Big Bang"
+  - Big Bang
+  - Big Bang Theory
 has_id_wikidata: Q323
 time_of_discovery_or_invention: 1931-01-01T00:00:00Z
 named_by: "[[_Standards/WikiData/WD~Fred_Hoyle,183397]]"
@@ -51,7 +52,7 @@ Dewey_Decimal_Classification: "523.18"
 P8189: "987007284759505171"
 ---
 
-# [[Big_Bang_Theory]] 
+# [[Big_Bang]] 
 
 #is_/same_as :: [[../WikiData/WD~Big_Bang_theory,323|WD~Big_Bang_theory,323]] 
 
