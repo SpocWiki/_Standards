@@ -58,6 +58,13 @@ Unicode_range: U+1F347-1F353
 ---
 # [[Fruits]] 
 
+#is_a_/class 
+#is_a_ :: [[../../../../../schema-org/Class|Class]]  
+
+Use it like this: 
+#is_a :: [[Fruit]] 
+#is_a_/fruit 
+
 #is_/same_as ::  [[../../../../../WikiData/WD~Fruit,3314483|WD~Fruit,3314483]]  
 #is_/different_from :: [[../../../../../WikiData/WD~Fruit,1364|WD~Fruit,1364]]  
 
@@ -78,6 +85,13 @@ Unicode_range: U+1F347-1F353
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fruit)
 
+## #has_/examples 
+
+- [[../../../../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Orange(Fruit)|Orange(Fruit)]] 
+- [[Fruits/Apple|Apple]] 
+- [[Fruits/Banana|Banana]] 
+- [[Fruits/Berry|Berry]] 
+- [[../../../../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry|Blackberry]] 
 
 ## Confidential Links & Embeds: 
 

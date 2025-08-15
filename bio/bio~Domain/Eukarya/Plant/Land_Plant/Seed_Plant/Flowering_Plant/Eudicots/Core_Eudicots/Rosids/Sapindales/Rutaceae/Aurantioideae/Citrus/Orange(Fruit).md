@@ -77,7 +77,12 @@ Wolfram_Language_entity_code: Entity["FoodType", "Orange"]
 Gujarati_Vishwakosh_entry: નારંગી
 ---
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Orange,13191|WD~Orange,13191]]  
+# [[Orange(Fruit)]] 
+
+#is_a :: [[Fruit]] 
+#is_a_/fruit 
+
+#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Orange,13191|WD~Orange,13191]]  
 
 ## #has_/text_of_/abstract 
 

@@ -40,8 +40,8 @@ USDA_NDB_number:
 > in the family Rosaceae, hybrids among these species within the subgenus Rubus, 
 > and hybrids between the subgenera Rubus and Idaeobatus. 
 > 
-> The taxonomy of blackberries has historically been confused because of hybridization and 
-> apomixis so that species have often been grouped together and called species aggregates.
+> The taxonomy of blackberries has historically been confused because of hybridization and apomixis 
+> so that species have often been grouped together and called species aggregates.
 >
 > Blackberry fruit production is abundant 
 > with annual volumes of 20,000 pounds (9,100 kg) per 1 acre (0.40 ha) possible, 
