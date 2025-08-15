@@ -12,7 +12,8 @@ title: Rosids
 
 ## #has_/text_of_/abstract 
 
-> The **Rosids** are members of a large clade (monophyletic group) of flowering plants, containing about 70,000 species, more than a quarter of all angiosperms.
+> The **Rosids** are members of a large clade (monophyletic group) of flowering plants, 
+> containing about 70,000 species, more than a quarter of all angiosperms.
 >
 > The clade is divided into 16 to 20 orders, depending upon circumscription and classification. These orders, in turn, together comprise about 140 families.
 >
