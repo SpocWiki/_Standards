@@ -63,7 +63,7 @@ Open_Food_Facts_label: en:in-braille
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Braille](/_Standards/Society/Communication/Media/Writing/Writing_System/Braille.md) 
+### #is_/same_as :: [Braille](Braille.md) 
 
 ### #is_/same_as :: [Braille.public](/_public/Society/Communication/Media/Writing/Writing_System/Braille.public.md) 
 
