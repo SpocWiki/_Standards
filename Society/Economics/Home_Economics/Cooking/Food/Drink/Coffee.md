@@ -69,6 +69,10 @@ Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Coffee\"]"
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/coffee"
 ---
 
+# [[Coffee]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Coffee,8486|WD~Coffee,8486]] 
+
 ## #has_/text_of_/abstract 
 
 > **Coffee** is a beverage brewed from roasted, ground coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans, primarily due to its caffeine content. It has the highest sales in the world market for hot drinks. Decaffeinated coffee is also commercially available.
