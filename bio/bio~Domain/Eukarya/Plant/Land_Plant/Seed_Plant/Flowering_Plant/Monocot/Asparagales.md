@@ -133,7 +133,7 @@ Copyright ::           © 2001 University of Basel, Basel, Switzerland
     -   [Dioscoreales](Dioscoreales.md)
     -   [Palms](Palms.md)
     -   [Zingiberanae](Zingiberanae.md)
-    -   [Commelinanae](Commelinanae.md)
+    -   [Commelinanae](Commelinids/Commelinanae.md)
 
 -   » Sub-Groups
     -   [Hyacinthaceae](Asparagales/Hyacinthaceae.md)

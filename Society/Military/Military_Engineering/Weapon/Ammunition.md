@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Munition
 has_id_wikidata: Q185785
 ---
 

@@ -89,7 +89,7 @@ Morphological synapomorphies for the clade include
     -   [Dioscoreales](Dioscoreales.md)
     -   [Palms](Palms.md)
     -   Zingiberanae
-    -   [Commelinanae](Commelinanae.md)
+    -   [Commelinanae](Commelinids/Commelinanae.md)
 
 -   » Sub-Groups 
 

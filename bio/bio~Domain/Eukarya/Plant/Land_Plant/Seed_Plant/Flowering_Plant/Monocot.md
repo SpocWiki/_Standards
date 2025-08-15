@@ -61,7 +61,7 @@ Images © 1997 [William J. Hahn](mailto:wjh22@georgetown.edu)
     -   [Dioscoreales](Monocot/Dioscoreales.md)
     -   [Palms](Monocot/Palms.md)
     -   [Zingiberanae](Monocot/Zingiberanae.md)
-    -   [Commelinanae](Monocot/Commelinanae.md)
+    -   [Commelinanae](Monocot/Commelinids/Commelinanae.md)
 
 
 ## Introduction

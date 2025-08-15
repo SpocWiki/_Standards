@@ -1,6 +1,7 @@
 
 # [[Psychology]]
 
+#is_/same_as :: [[../WikiData/WD~Psychology,9418|WD~Psychology,9418]] 
 
 ## #has_/text_of_/abstract 
 

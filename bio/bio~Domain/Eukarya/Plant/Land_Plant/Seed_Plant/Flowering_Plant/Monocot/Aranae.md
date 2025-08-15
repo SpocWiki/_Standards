@@ -26,7 +26,7 @@ title: Aranae
     -   [Dioscoreales](Dioscoreales.md)
     -   [Palms](Palms.md)
     -   [Zingiberanae](Zingiberanae.md)
-    -   [Commelinanae](Commelinanae.md)
+    -   [Commelinanae](Commelinids/Commelinanae.md)
 
 -   » Sub-Groups 
 

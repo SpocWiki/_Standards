@@ -45,6 +45,10 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Die%20wichtigsten%20K
 Wikidata_property: "Köppen climate classification"
 ---
 
+# [[Climate]] 
+
+#is_/same_as :: [[../../WikiData/WD~Climate,7937|WD~Climate,7937]] 
+
 ## #has_/text_of_/abstract 
 
 > **Climate** is the long-term weather pattern in a region, typically averaged over 30 years. 

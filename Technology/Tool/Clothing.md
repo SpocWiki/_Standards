@@ -69,6 +69,10 @@ Wikidata_property:
 - "worn by"
 ---
 
+# [[Clothing]] 
+
+#is_/same_as :: [[../../WikiData/WD~Clothing,11460|WD~Clothing,11460]] 
+
 ## #has_/text_of_/abstract 
 
 > **Clothing** (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. 
