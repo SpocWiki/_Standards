@@ -39,9 +39,16 @@ OpenStreetMap_tag_or_key: Tag:historic=archaeological_site
 
 ## #has_/text_of_/abstract 
 
-> An **archaeological site** is a place (or group of physical sites) in which evidence of past activity is preserved (either prehistoric or historic or contemporary), and which has been, or may be, investigated using the discipline of archaeology and represents a part of the archaeological record. Sites may range from those with few or no remains visible above ground, to buildings and other structures still in use.
+> An **archaeological site** is a place (or group of physical sites) 
+> in which evidence of past activity is preserved (either prehistoric or historic or contemporary), 
+> and which has been, or may be, investigated using the discipline of archaeology 
+> and represents a part of the archaeological record. 
+> 
+> Sites may range from those with few or no remains visible above ground, 
+> to buildings and other structures still in use.
 >
-> Beyond this, the definition and geographical extent of a "site" can vary widely, depending on the period studied and the theoretical approach of the archaeologist.
+> Beyond this, the definition and geographical extent of a "site" can vary widely, 
+> depending on the period studied and the theoretical approach of the archaeologist.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Archaeological%20site) 
 
