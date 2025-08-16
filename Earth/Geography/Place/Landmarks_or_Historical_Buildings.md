@@ -24,7 +24,7 @@ title: "is_a_landmarks_or_historical_buildings Class"
 type: Type
 ---
 
-Class of all landmarks_or_historical_buildingss.
+Class of all landmarks or historical buildings.
 
 Tag Instances like this: 
 #is_a_/landmarks_or_historical_buildings
