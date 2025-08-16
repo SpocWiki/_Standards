@@ -1,6 +1,8 @@
 
 # [[Explorer]] 
 
+#has_/created :: [[../Society/Politics/Government/Colonialism|Colonialism]] 
+
 ## #has_/text_of_/abstract 
 
 > Exploration is the process of exploring, 
