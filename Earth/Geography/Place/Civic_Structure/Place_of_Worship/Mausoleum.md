@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - cenotaph
 has_id_wikidata: Q162875
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -25,9 +26,10 @@ OpenStreetMap_tag_or_key: Tag:tomb=mausoleum
 
 ## #has_/text_of_/abstract 
 
-> A **Mausoleum** is an external free-standing building constructed as a monument 
+> A **Mausoleum** is an external free-standing [[../../../../../Technology/Engineering/Civil_Engineering/Construction/Building|building]] constructed as a [[monument]] 
 > enclosing the burial chamber of a deceased person or people. 
 > A mausoleum without the person's remains is called a cenotaph. 
+> 
 > A mausoleum may be considered a type of tomb, 
 > or the tomb may be considered to be within the mausoleum.
 >
