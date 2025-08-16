@@ -33,7 +33,13 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%
 
 ## #has_/text_of_/abstract 
 
-> A **Colony** is a territory subject to a form of foreign rule, which rules the territory and its indigenous peoples separated from the foreign rulers, the colonizer, and their metropole (or "mother country"). This separated rule was often organized into colonial empires, with their metropoles at their centers, making colonies neither annexed or even integrated territories, nor client states. Particularly new imperialism and its colonialism advanced this separated rule and its lasting coloniality. Colonies were most often set up and colonized for exploitation and possibly settlement by colonists.
+> A **Colony** is a territory subject to a form of foreign rule, 
+> which rules the territory and its indigenous peoples separated from the foreign rulers, 
+> the colonizer, and their metropole (or "mother country"). 
+> 
+> This separated rule was often organized into colonial empires, with their metropoles at their centers, 
+> making colonies neither annexed or even integrated territories, nor client states. 
+> Particularly new imperialism and its colonialism advanced this separated rule and its lasting coloniality. Colonies were most often set up and colonized for exploitation and possibly settlement by colonists.
 >
 > The term colony originates from the ancient Roman colonia, a type of Roman settlement. Derived from colonus (farmer, cultivator, planter, or settler), it carries with it the sense of 'farm' and 'landed estate'.
 >
