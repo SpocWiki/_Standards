@@ -24,6 +24,8 @@ title: "is_a_place_of_worship Class"
 type: Type
 ---
 
+# [[Place_of_Worship]] 
+
 Class of all place_of_worships.
 
 Tag Instances like this: 
@@ -37,6 +39,7 @@ Place of worship, such as a church, synagogue, or mosque.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+#is_/same_as :: [[_Standards/WikiData/WD~religious_building,24398318]] 
 
 ## Confidential Links & Embeds: 
 
