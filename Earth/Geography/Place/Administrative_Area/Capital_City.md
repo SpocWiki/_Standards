@@ -6,7 +6,7 @@ has_id_wikidata: Q5119
 
 # [[Capital_City]] 
 
-#is_/same_as :: [[../../WikiData/WD~Capital_city,5119|WD~Capital_city,5119]] 
+#is_/same_as :: [[../../../../WikiData/WD~Capital_city,5119|WD~Capital_city,5119]] 
 
 ## #has_/text_of_/abstract 
 

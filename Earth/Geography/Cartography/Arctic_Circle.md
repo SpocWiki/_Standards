@@ -31,7 +31,7 @@ coordinate_location: Point(0.0 66.561611111)
 
 # [[Arctic_Circle]] 
 
-#is_/same_as :: [[../../WikiData/WD~Arctic_Circle,176609|WD~Arctic_Circle,176609]] 
+#is_/same_as :: [[../../../WikiData/WD~Arctic_Circle,176609|WD~Arctic_Circle,176609]] 
 
 ## #has_/text_of_/abstract 
 
