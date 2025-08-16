@@ -61,9 +61,19 @@ GeoNames_feature_code: S.FT
 > Some settlements in the Indus Valley Civilization were the first small cities to be fortified. 
 > In ancient Greece, large cyclopean stone walls fitted without mortar 
 > had been built in Mycenaean Greece, such as the ancient site of Mycenae. 
-> A Greek phrourion was a fortified collection of buildings used as a military garrison, and is the equivalent of the Roman castellum or fortress. These constructions mainly served the purpose of a watch tower, to guard certain roads, passes, and borders. Though smaller than a real fortress, they acted as a border guard rather than a real strongpoint to watch and maintain the border.
+> 
+> A Greek phrourion was a fortified collection of buildings used as a military garrison, 
+> and is the equivalent of the Roman castellum or fortress. 
+> These constructions mainly served the purpose of a watch tower, 
+> to guard certain roads, passes, and borders. 
+> Though smaller than a real fortress, 
+> they acted as a border guard rather than a real strongpoint to watch and maintain the border.
 >
-> The art of setting out a military camp or constructing a fortification traditionally has been called "castrametation" since the time of the Roman legions. Fortification is usually divided into two branches: permanent fortification and field fortification. There is also an intermediate branch known as semipermanent fortification. Castles are fortifications which are regarded as being distinct from the generic fort or fortress in that they are a residence of a monarch or noble and command a specific defensive territory.
+> The art of setting out a military camp or constructing a fortification 
+> traditionally has been called "castrametation" since the time of the Roman legions. 
+> 
+> Fortification is usually divided into two branches: permanent fortification and field fortification. 
+> There is also an intermediate branch known as semipermanent fortification. Castles are fortifications which are regarded as being distinct from the generic fort or fortress in that they are a residence of a monarch or noble and command a specific defensive territory.
 >
 > Roman forts and hill forts were the main antecedents of castles in Europe, which emerged in the 9th century in the Carolingian Empire. The Early Middle Ages saw the creation of some towns built around castles.
 >
