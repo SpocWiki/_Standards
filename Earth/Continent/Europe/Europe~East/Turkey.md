@@ -662,7 +662,7 @@ markerFolder: ./Turkey//
 [Area-Land::769630]
 has_place_continent:: [[Europe]]  
 [VehicleCode::TR]
-Capital :: [[Istanbul]]  
+Capital :: [[Turkey/Provinces~Turkey/Istanbul,Province]]  
 
 ![[Emblem_of_Turkey.svg|350]]
 
