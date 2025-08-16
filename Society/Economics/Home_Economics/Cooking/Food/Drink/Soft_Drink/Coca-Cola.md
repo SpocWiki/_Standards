@@ -1,8 +1,10 @@
 ---
 aliases:
   - Coke
+  - Cola
 has_id_wikidata: Q2813
-subclass_of: "[[_Standards/WikiData/WD~cola,134041]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~cola,134041]]"
 named_after:
   - "[[_Standards/WikiData/WD~Erythroxylum_coca,158018]]"
   - "[[_Standards/WikiData/WD~kola_nut,912522]]"
