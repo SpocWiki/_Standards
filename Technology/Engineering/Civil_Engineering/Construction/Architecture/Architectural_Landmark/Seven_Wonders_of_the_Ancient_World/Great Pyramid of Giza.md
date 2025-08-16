@@ -6,7 +6,7 @@ has_id_wikidata: Q37200
 
 # [[Great Pyramid of Giza]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Great_Pyramid_of_Giza,37200|WD~Great_Pyramid_of_Giza,37200]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Great_Pyramid_of_Giza,37200|WD~Great_Pyramid_of_Giza,37200]] 
 
 ## #has_/text_of_/abstract 
 

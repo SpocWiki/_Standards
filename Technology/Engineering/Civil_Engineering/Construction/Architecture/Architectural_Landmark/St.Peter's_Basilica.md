@@ -95,9 +95,17 @@ has_time_started: "1506-04-28"
 has_time_started: 1506-04-28 
 ---
 
+# [[St.Peter's_Basilica]] 
+
 ## #has_/text_of_/abstract 
 
-> The Papal Basilica of Saint Peter in the Vatican City (Italian: Basilica Papale di San Pietro in Citta di Vaticano), or simply Saint Peter's Basilica (Latin: Basilica Sancti Petri; Italian: Basilica di San Pietro [baˈziːlika di sam ˈpjɛːtro]), is a church of the Italian High Renaissance located in Vatican City, an independent microstate enclaved within the city of Rome, Italy. It was initially planned in the 15th century by Pope Nicholas V and then Pope Julius II to replace the ageing Old **St. Peter's Basilica**, which was built in the fourth century by Roman emperor Constantine the Great. Construction of the present basilica began on 18 April 1506 and was completed on 18 November 1626.
+> The Papal Basilica of Saint Peter in the Vatican City 
+> (Italian: Basilica Papale di San Pietro in Citta di Vaticano), or simply Saint Peter's Basilica 
+> (Latin: Basilica Sancti Petri; Italian: Basilica di San Pietro [baˈziːlika di sam ˈpjɛːtro]), 
+> is a church of the Italian High Renaissance located in Vatican City, 
+> an independent microstate enclaved within the city of Rome, Italy. 
+> 
+> It was initially planned in the 15th century by Pope Nicholas V and then Pope Julius II to replace the ageing Old **St. Peter's Basilica**, which was built in the fourth century by Roman emperor Constantine the Great. Construction of the present basilica began on 18 April 1506 and was completed on 18 November 1626.
 >
 > Designed principally by Donato Bramante, Michelangelo, and Carlo Maderno, with piazza and fittings by Gian Lorenzo Bernini, St. Peter's is one of the most renowned works of Italian Renaissance architecture and is the largest church in the world by interior measure. While it is neither the mother church of the Catholic Church nor the cathedral of the Diocese of Rome (these equivalent titles being held by the Archbasilica of Saint John Lateran in Rome), St. Peter's is regarded as one of the holiest Catholic shrines. It has been described as "holding a unique position in the Christian world", and as "the greatest of all churches of Christendom."
 >

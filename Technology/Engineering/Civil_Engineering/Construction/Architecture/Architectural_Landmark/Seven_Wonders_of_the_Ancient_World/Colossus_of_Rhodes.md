@@ -1,7 +1,7 @@
 
 # [[Colossus_of_Rhodes]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Colossus_of_Rhodes,41553|WD~Colossus_of_Rhodes,41553]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Colossus_of_Rhodes,41553|WD~Colossus_of_Rhodes,41553]] 
 
 ## #has_/text_of_/abstract 
 

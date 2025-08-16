@@ -38,7 +38,7 @@ video:
 
 # [[Angkor_Wat]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Angkor_Wat,43473|WD~Angkor_Wat,43473]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Angkor_Wat,43473|WD~Angkor_Wat,43473]] 
 
 ## #has_/text_of_/abstract 
 

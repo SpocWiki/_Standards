@@ -8,7 +8,7 @@ has_id_wikidata: Q489772
 
 # [[Seven_Wonders_of_the_Ancient_World]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772|WD~Seven_Wonders_of_the_Ancient_World,489772]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772|WD~Seven_Wonders_of_the_Ancient_World,489772]] 
 
 ## #has_/text_of_/abstract 
 
@@ -17,7 +17,7 @@ has_id_wikidata: Q489772
 > is a list of seven notable structures present during classical antiquity, 
 > first established in the 1572 publication Octo Mundi Miracula using a combination of historical sources.
 >
-> The seven traditional wonders are the [[Great Pyramid of Giza]], the Colossus of Rhodes, the Lighthouse of Alexandria, the Mausoleum at Halicarnassus, the Temple of Artemis, the Statue of Zeus at Olympia, and the Hanging Gardens of Babylon. 
+> The seven traditional wonders are the [[Seven_Wonders_of_the_Ancient_World/Great Pyramid of Giza]], the Colossus of Rhodes, the Lighthouse of Alexandria, the Mausoleum at Halicarnassus, the Temple of Artemis, the Statue of Zeus at Olympia, and the Hanging Gardens of Babylon. 
 > 
 > Using modern-day countries, two of the wonders were located in Greece, 
 > two in Turkey, two in Egypt, and one in Iraq. 
