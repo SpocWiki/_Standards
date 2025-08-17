@@ -43,6 +43,8 @@ coordinate_location: Point(-72.545555555 -13.163055555)
 
 # [[Machu_Picchu]] 
 
+![[../../../assets/Machu_Picchu,Peru.png]] 
+
 #is_/same_as :: [[../../../WikiData/WD~Machu_Picchu,676203|WD~Machu_Picchu,676203]] 
 
 ## #has_/text_of_/abstract 
