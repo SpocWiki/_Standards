@@ -108,14 +108,16 @@ native_label: Colosseum
 
 # [[Colosseum]] 
 
+![[../../../../assets/Colosseum.png]] 
+
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Colosseum,10285|WD~Colosseum,10285]] 
 
 ## #has_/text_of_/abstract 
 
 > The **Colosseum** ( KOL-ə-SEE-əm; Italian: Colosseo [kolosˈsɛːo], 
 > ultimately from Ancient Greek word "kolossos" meaning a large statue or giant) 
-> is an elliptical amphitheatre in the centre of the city of Rome, Italy, 
-> just east of the Roman Forum. It is the largest ancient amphitheatre ever built, 
+> is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. 
+> It is the largest ancient amphitheatre ever built, 
 > and is still the largest standing amphitheatre in the world, despite its age. 
 > 
 > Construction began under the Emperor Vespasian (r. 69–79 AD) in 72 and was completed in AD 80 under his successor and heir, Titus (r. 79–81). Further modifications were made during the reign of Domitian (r. 81–96). The three emperors who were patrons of the work are known as the Flavian dynasty, and the amphitheatre was named the Flavian Amphitheatre (Latin: Amphitheatrum Flavium; Italian: Anfiteatro Flavio [aɱfiteˈaːtro ˈflaːvjo]) by later classicists and archaeologists for its association with their family name (Flavius).
