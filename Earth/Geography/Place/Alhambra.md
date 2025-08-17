@@ -1,4 +1,8 @@
 
+# [[Alhambra]] 
+
+![[../../../assets/Alhambra,Granada,Spain.png]] 
+
 
 ## #has_/text_of_/abstract 
 
