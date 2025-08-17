@@ -129,6 +129,10 @@ Wolfram_Language_entity_code: "Entity[\"Artwork\", \"StatueOfLiberty::FredericAu
 
 # [[Statue_of_Liberty]] 
 
+![[../../../../assets/Pasted image 20250817172358.png]] 
+By <a href="//commons.wikimedia.org/w/index.php?title=User:AskALotl&amp;action=edit&amp;redlink=1" class="new" title="User:AskALotl (page does not exist)">AskALotl</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=149005856">Link</a> 
+
+#is_/same_as :: [[../../../../WikiData/WD~Statue_of_Liberty,9202|WD~Statue_of_Liberty,9202]] 
 
 ## #has_/text_of_/abstract 
 
@@ -140,7 +144,11 @@ Wolfram_Language_entity_code: "Entity[\"Artwork\", \"StatueOfLiberty::FredericAu
 > and its metal framework was built by Gustave Eiffel. 
 > The statue was dedicated on October 28, 1886.
 >
-> The statue is a figure of a classically draped woman, likely inspired by the Roman goddess of liberty Libertas. In a contrapposto pose, she holds a torch above her head with her right hand, and in her left hand carries a tabula ansata inscribed JULY IV MDCCLXXVI (July 4, 1776, in Roman numerals), the date of the U.S. Declaration of Independence. With her left foot she steps on a broken chain and shackle, commemorating the national abolition of slavery following the American Civil War. After its dedication the statue became an icon of freedom and of the United States, being subsequently seen as a symbol of welcome to immigrants arriving by sea.
+> The statue is a figure of a classically draped woman, 
+> likely inspired by the Roman goddess of liberty Libertas. 
+> 
+> In a contrapposto pose, she holds a torch above her head with her right hand, 
+> and in her left hand carries a tabula ansata inscribed JULY IV MDCCLXXVI (July 4, 1776, in Roman numerals), the date of the U.S. Declaration of Independence. With her left foot she steps on a broken chain and shackle, commemorating the national abolition of slavery following the American Civil War. After its dedication the statue became an icon of freedom and of the United States, being subsequently seen as a symbol of welcome to immigrants arriving by sea.
 >
 > The idea for the statue was conceived in 1865, when the French historian and abolitionist Édouard de Laboulaye proposed a monument to commemorate the upcoming centennial of U.S. independence (1876), the perseverance of American democracy and the liberation of the nation's slaves. The Franco-Prussian War delayed progress until 1875, when Laboulaye proposed that the people of France finance the statue and the United States provide the site and build the pedestal. Bartholdi completed the head and the torch-bearing arm before the statue was fully designed, and these pieces were exhibited for publicity at international expositions.
 >
