@@ -73,6 +73,8 @@ Wolfram_Language_entity_code: Entity["Building", "Kaaba::x6fxz"]
 
 # [[Kaaba]] 
 
+![[../../../assets/Kaaba,Mekka,Saudi_Arabia.png]] 
+
 #is_/same_as :: [[../../../WikiData/WD~Kaaba,29466|WD~Kaaba,29466]]
 
 ## #has_/text_of_/abstract 
