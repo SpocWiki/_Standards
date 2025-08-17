@@ -99,6 +99,12 @@ Wolfram_Language_entity_code: "Entity[\"Building\", \"EiffelTower::5h9w8\"]"
 X_Twitter_username: LaTourEiffel
 ---
 
+# [[Eiffel_Tower]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Eiffel_Tower,243|WD~Eiffel_Tower,243]] 
+
+![[../../../../assets/Eiffel_Tower.png]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Eiffel Tower** (  EYE-fəl; French: Tour Eiffel [tuʁ ɛfɛl] ) is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889.
