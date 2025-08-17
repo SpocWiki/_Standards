@@ -43,6 +43,8 @@ video:
 
 ![[../../../../assets/Angkor_Wat.png]] 
 
+![[../../../../assets/angkor_wat_simplified.svg]]
+
 #is_/same_as :: [[../../../../../../WikiData/WD~Angkor_Wat,43473|WD~Angkor_Wat,43473]] 
 
 ## #has_/text_of_/abstract 
