@@ -71,9 +71,18 @@ visitors_per_year:
 width: 4.5
 ---
 
+# [[Great_Wall_of_China]] 
+
+![[../../../../assets/Great_Wall_of_China.png]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Great_Wall_of_China,12501|WD~Great_Wall_of_China,12501]] 
+
 ## #has_/text_of_/abstract 
 
-> The **Great Wall of China** (traditional Chinese: 萬里長城; simplified Chinese: 万里长城; pinyin: Wànlǐ Chángchéng, literally "ten thousand li long wall") is a series of fortifications in China. They were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. The first walls date to the 7th century BC; these were joined together in the Qin dynasty. Successive dynasties expanded the wall system; the best-known sections were built by the Ming dynasty (1368–1644).
+> The **Great Wall of China** (traditional Chinese: 萬里長城; simplified Chinese: 万里长城; 
+> pinyin: Wànlǐ Chángchéng, literally "ten thousand li long wall") is a series of fortifications in China. 
+> 
+> They were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. The first walls date to the 7th century BC; these were joined together in the Qin dynasty. Successive dynasties expanded the wall system; the best-known sections were built by the Ming dynasty (1368–1644).
 >
 > To aid in defense, the Great Wall utilized watchtowers, troop barracks, garrison stations, signaling capabilities through the means of smoke or fire, and its status as a transportation corridor. Other purposes of the Great Wall have included border controls (allowing control of immigration and emigration, and the imposition of duties on goods transported along the Silk Road), and the regulation of trade. 
 >
