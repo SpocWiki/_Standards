@@ -4,7 +4,10 @@ aliases:
 has_id_wikidata:
 ---
 
-# [[St. Basil's Cathedral]] 
+# [[St.Basil's_Cathedral]] 
+
+![[../../../assets/St.Basil's_Cathedral.png]] 
+By <a href="//commons.wikimedia.org/wiki/User:Safa.daneshvar" title="User:Safa.daneshvar">Safa.daneshvar</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=152949490">Link</a>
 
 #is_/same_as :: [[../../../WikiData/WD~St._Basil's_Cathedral,129846|WD~St._Basil's_Cathedral,129846]] 
 

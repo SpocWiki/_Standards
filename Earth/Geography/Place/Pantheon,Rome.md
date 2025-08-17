@@ -102,7 +102,7 @@ street_address:
 
 #is_/same_as :: [[../../../WikiData/WD~Pantheon,99309|WD~Pantheon,99309]] 
 
-![[../../../assets/Pasted image 20250817094822.png]] 
+![[../../../assets/Pantheon,Rome.png]] 
 
 ## #has_/text_of_/abstract 
 

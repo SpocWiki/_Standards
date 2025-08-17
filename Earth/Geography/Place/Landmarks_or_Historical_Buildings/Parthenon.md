@@ -64,13 +64,43 @@ World_Heritage_criteria:
 - '[[_Standards/WikiData/WD~(vi),23038980]]'
 ---
 
+# [[Parthenon]] 
+
+![[../../../../assets/Parthenon,Acropolis,Athens,Greece.png]] 
+By <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/68686051@N00">Steve Swayne</a> - <a href="//commons.wikimedia.org/wiki/File:O_Partenon_de_Atenas.jpg" title="File:O Partenon de Atenas.jpg">File:O Partenon de Atenas.jpg</a>, originally posted to <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a> as <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/68686051@N00/2416778389">The Parthenon Athens</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17065839">Link</a> 
+#is_/same_as :: [[../../../../WikiData/WD~Parthenon,10288|WD~Parthenon,10288]] 
+
 ## #has_/text_of_/abstract 
 
-> The **Parthenon** (; Ancient Greek: Παρθενών, romanized: Parthenōn [par.tʰe.nɔ̌ːn]; Greek: Παρθενώνας, romanized: Parthenónas [parθeˈnonas]) is a former temple on the Athenian Acropolis, Greece, that was dedicated to the goddess Athena. Its decorative sculptures are considered some of the high points of classical Greek art, and the Parthenon is considered an enduring symbol of Ancient Greece, democracy, and Western civilization. 
+> The **Parthenon** (; Ancient Greek: Παρθενών, romanized: Parthenōn [par.tʰe.nɔ̌ːn]; 
+> Greek: Παρθενώνας, romanized: Parthenónas [parθeˈnonas]) 
+> is a former temple on the Athenian Acropolis, Greece, that was dedicated to the goddess Athena. 
+> 
+> Its decorative sculptures are considered some of the high points of classical Greek art, 
+> and the Parthenon is considered an enduring symbol of Ancient Greece, democracy, and Western civilization. 
 >
-> The Parthenon was built in the 5th century BC in thanksgiving for the Hellenic victory over Persian Empire invaders during the Greco-Persian Wars. Like most Greek temples, the Parthenon also served as the city treasury. Construction started in 447 BC when the Delian League was at the peak of its power. It was completed in 438 BC; work on the artwork and decorations continued until 432 BC. For a time, it served as the treasury of the Delian League, which later became the Athenian Empire.
+> The Parthenon was built in the 5th century BC in thanksgiving for 
+> the Hellenic victory over Persian Empire invaders during the Greco-Persian Wars. 
+> 
+> Like most Greek temples, the Parthenon also served as the city treasury. 
+> Construction started in 447 BC when the Delian League was at the peak of its power. 
+> It was completed in 438 BC; work on the artwork and decorations continued until 432 BC. 
+> For a time, it served as the treasury of the Delian League, which later became the Athenian Empire.
 >
-> In the final decade of the 6th century AD, the Parthenon was converted into a Christian church dedicated to the Virgin Mary. After the Ottoman conquest in the mid-15th century, it became a mosque. In the Morean War, a Venetian bomb landed on the Parthenon, which the Ottomans had used as a munitions dump, during the 1687 siege of the Acropolis. The resulting explosion severely damaged the Parthenon. From 1800 to 1803, the 7th Earl of Elgin controversially removed many of the surviving sculptures and subsequently shipped them to England where they are now known as the Elgin Marbles or Parthenon marbles. Since 1975, numerous large-scale restoration projects have been undertaken to preserve remaining artefacts and ensure its structural integrity.
+> In the final decade of the 6th century AD, 
+> the Parthenon was converted into a Christian church dedicated to the Virgin Mary. 
+> 
+> After the Ottoman conquest in the mid-15th century, it became a mosque. 
+> In the Morean War, a Venetian bomb landed on the Parthenon, 
+> which the Ottomans had used as a munitions dump, during the 1687 siege of the Acropolis. 
+> The resulting explosion severely damaged the Parthenon. 
+> 
+> From 1800 to 1803, the 7th Earl of Elgin controversially removed many of the surviving sculptures 
+> and subsequently shipped them to England 
+> where they are now known as the Elgin Marbles or Parthenon marbles. 
+> 
+> Since 1975, numerous large-scale restoration projects have been undertaken 
+> to preserve remaining artefacts and ensure its structural integrity.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parthenon) 
 

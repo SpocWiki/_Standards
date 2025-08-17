@@ -54,6 +54,8 @@ demonym:
 
 # [[Dome_of_the_Rock]] 
 
+![[../../../../assets/Dome_of_the_Rock,Jerusalem.png]] 
+
 #is_/same_as :: [[WD~Dome_of_the_Rock,41470]] 
 
 ## #has_/text_of_/abstract 
