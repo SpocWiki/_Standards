@@ -99,6 +99,8 @@ has_time_started: 1506-04-28
 
 #is_/same_as :: [[../../../../WikiData/WD~St._Peter's_Basilica,12512|WD~St._Peter's_Basilica,12512]] 
 
+![[../../../../assets/St.Peter's_Basilica.png]] 
+
 ## #has_/text_of_/abstract 
 
 > The Papal Basilica of Saint Peter in the Vatican City 

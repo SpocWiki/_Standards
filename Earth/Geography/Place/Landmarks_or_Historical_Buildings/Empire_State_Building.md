@@ -77,6 +77,12 @@ X_Twitter_username:
 - EmpireStateBldg
 ---
 
+# [[Empire_State_Building]] 
+
+![[../../../../assets/Empire_State_Building.png]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Empire_State_Building,9188|WD~Empire_State_Building,9188]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Empire State Building** is a 102-story Art Deco skyscraper in the Midtown South neighborhood of Manhattan in New York City. The building was designed by Shreve, Lamb & Harmon and built from 1930 to 1931. Its name is derived from "Empire State", the nickname of the state of New York. The building has a roof height of 1,250 feet (380 m) and stands a total of 1,454 feet (443.2 m) tall, including its antenna. The Empire State Building was the world's tallest building until the first tower of the World Trade Center was topped out in 1970; following the September 11 attacks in 2001, the Empire State Building was New York City's tallest building until it was surpassed in 2012 by One World Trade Center. As of 2024, the building is the seventh-tallest building in New York City, the ninth-tallest completed skyscraper in the United States, and the 57th-tallest completed skyscraper in the world.
