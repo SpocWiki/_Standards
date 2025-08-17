@@ -4,6 +4,12 @@ aliases:
 has_id_wikidata: Q12506
 ---
 
+# [[Hagia_Sophia]] 
+
+![[../../../../assets/Hagia_Sophia.png]]  
+
+#is_/same_as :: [[../../../../WikiData/WD~Hagia_Sophia,12506|WD~Hagia_Sophia,12506]] 
+
 ## #has_/text_of_/abstract 
 
 > **Hagia Sophia** (Turkish: Ayasofya; Ancient Greek: Ἁγία Σοφία, romanized: Hagía Sophía; Latin: Sancta Sapientia; lit. 'Holy Wisdom'), officially the Hagia Sophia Grand Mosque (Turkish: Ayasofya-i Kebir Cami-i Şerifi; Greek: Μεγάλο Τζαμί της Αγίας Σοφίας), is a mosque and former church serving as a major cultural and historical site in Istanbul, Turkey. The last of three church buildings to be successively erected on the site by the Eastern Roman Empire, it was completed in AD 537, becoming the world's largest interior space and among the first to employ a fully pendentive dome. It is considered the epitome of Byzantine architecture and is said to have "changed the history of architecture". The site was an Eastern rite church from AD 360 to 1453, except for a brief time as a Latin Catholic church between the Fourth Crusade in 1204 and 1261. After the fall of Constantinople in 1453, it served as a mosque until 1935, when it became a museum, before being redesignated as a mosque in 2020.

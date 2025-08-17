@@ -11,7 +11,9 @@ aliases:
 has_id_wikidata: Q41225
 ---
 
-# [[Big Ben]] 
+# [[Big_Ben]] 
+
+![[../../../assets/Big_Ben.png]] 
 
 #is_/same_as :: [[WD~Big_Ben,41225]] 
 
