@@ -66,6 +66,8 @@ street_address: Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - 
 
 # [[Christ_the_Redeemer]] 
 
+![[../../../../assets/Christ_the_Redeemer.png]] 
+
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Christ_the_Redeemer,79961|WD~Christ_the_Redeemer,79961]] 
 
 ## #has_/text_of_/abstract 
