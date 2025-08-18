@@ -25,7 +25,7 @@ Library_of_Congress_Classification: JC337
 ## #has_/text_of_/abstract 
 
 > Civil society can be understood as the "third sector" of society, 
-> distinct from [[Politics/Government|Government]] and [[Agent/Organization/Business|Business]], and including the family and the private sphere. 
+> distinct from [[Politics/Government|Government]] and [[Agent/Community/Organization/Business|Business]], and including the family and the private sphere. 
 > By other authors, civil society is used in the sense of
 > (1) the aggregate of non-governmental organizations and institutions that advance the interests and will of citizens or
 > (2) individuals and organizations in a society which are independent of the government.

@@ -31,15 +31,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/accepted_offer :: [[../../../Society/Agent/Organization/Business/Offer]] ] or 
-- [ has_accepted_offer :: [[../../../Society/Agent/Organization/Business/Offer]] ] 
+- [ #has_/accepted_offer :: [[../../../Society/Agent/Community/Organization/Business/Offer]] ] or 
+- [ has_accepted_offer :: [[../../../Society/Agent/Community/Organization/Business/Offer]] ] 
 
 The offer(s) -- e.g., product, quantity and price combinations -- included in the order.
 
 Relation describes that: 
 [ #has_/domain  :: [[Order]] ]
 ( #has_/name :: has_accepted_offer )
-( #has_/range :: [[../../../Society/Agent/Organization/Business/Offer]] )
+( #has_/range :: [[../../../Society/Agent/Community/Organization/Business/Offer]] )
 
 
 ## Confidential Links & Embeds: 

@@ -88,7 +88,7 @@ This is a kind of [[FileClass~Intangible]]
 
 Describes a reservation for travel, dining or an event. Some reservations require tickets. 
 
-Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, restaurant reservations, flights, or rental cars, use [[../../../Society/Agent/Organization/Business/Offer]].
+Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, restaurant reservations, flights, or rental cars, use [[../../../Society/Agent/Community/Organization/Business/Offer]].
 
 
 ## Use one of these Tags for Objects of this Type:

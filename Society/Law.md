@@ -65,15 +65,52 @@ Wikidata_property: "laws applied"
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/law"
 ---
 
+# [[Law]] 
+
+Law raises important and complex issues concerning equality, fairness, and justice.
+
+| Form of Law   | Definition Basis   | Population Coverage (2025) | Share of World Population | Main Regions of Use                   | Authority Strength |
+| ------------- | ------------------ | -------------------------- | ------------------------- | ------------------------------------- | ------------------ |
+| Common Law    | Judicial precedent | 2.4 billion                | 30%                       | UK, USA, Commonwealth                 | Strong globally    |
+| Civil Law     | Codified statutes  | 3.1 billion                | 40%                       | Europe, Latin America, Asia           | Widespread         |
+| Religious Law | Religious texts    | 1.6 billion                | 20%                       | Middle East, North Africa, South Asia | Faith-driven       |
+| Customary Law | Traditions/customs | 0.5 billion                | 6%                        | Africa, Oceania, Asia                 | Local authority    |
+| Mixed Systems | Hybrid of above    | 1.2 billion                | 15%                       | South Africa, India, Israel           | Moderate-strong    |
+
 ## #has_/text_of_/abstract 
 
-> **Law** is a set of rules that are created and are enforceable by social or governmental institutions to regulate behavior, with its precise definition a matter of longstanding debate. It has been variously described as a science and as the art of justice. State-enforced laws can be made by a legislature, resulting in statutes; by the executive through decrees and regulations; or by judges' decisions, which form precedent in common law jurisdictions. An autocrat may exercise those functions within their realm. The creation of laws themselves may be influenced by a constitution, written or tacit, and the rights encoded therein. The law shapes politics, economics, history and society in various ways and also serves as a mediator of relations between people.
+> **Law** is a set of rules that are created and are enforceable by social or governmental institutions 
+> to regulate behavior, with its precise definition a matter of longstanding debate. 
+> 
+> It has been variously described as a science and as the art of justice. 
+> State-enforced laws can be made 
+> - by a legislature, resulting in statutes; 
+> - by the executive through decrees and regulations; 
+> - or by judges' decisions, which form precedent in common law jurisdictions. 
+> 
+> An autocrat may exercise those functions within their realm. 
+> The creation of laws themselves may be influenced by a constitution, written or tacit, 
+> and the rights encoded therein. 
+> The law shapes politics, economics, history and society in various ways 
+> and also serves as a mediator of relations between people.
 >
-> Legal systems vary between jurisdictions, with their differences analysed in comparative law. In civil law jurisdictions, a legislature or other central body codifies and consolidates the law. In common law systems, judges may make binding case law through precedent, although on occasion this may be overturned by a higher court or the legislature. Religious law is in use in some religious communities and states, and has historically influenced secular law.
+> Legal systems vary between jurisdictions, with their differences analysed in comparative law. 
+> 
+> In civil law jurisdictions, a legislature or other central body codifies and consolidates the law. 
+> 
+> In common law systems, judges may make binding case law through precedent, 
+> although on occasion this may be overturned by a higher court or the legislature. 
+> 
+> Religious law is in use in some religious communities and states, and has historically **influenced secular law**.
 >
-> The scope of law can be divided into two domains: public law concerns government and society, including constitutional law, administrative law, and criminal law; while private law deals with legal disputes between parties in areas such as contracts, property, torts, delicts and commercial law. This distinction is stronger in civil law countries, particularly those with a separate system of administrative courts; by contrast, the public-private law divide is less pronounced in common law jurisdictions.
+> The scope of law can be divided into two domains: 
+> - **public law** concerns government and society, including constitutional law, administrative law, and criminal law; 
+> - while **private law** deals with legal disputes between parties in areas such as contracts, property, torts, delicts and commercial law. 
+> This distinction is stronger in civil law countries, 
+> particularly those with a separate system of administrative courts; 
+> by contrast, the public-private law divide is less pronounced in common law jurisdictions.
 >
-> Law provides a source of scholarly inquiry into legal history, philosophy, economic analysis and sociology. Law also raises important and complex issues concerning equality, fairness, and justice.
+> Law provides a source of scholarly inquiry into legal history, philosophy, economic analysis and sociology. 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Law)
 

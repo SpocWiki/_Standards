@@ -497,7 +497,7 @@ Capital :: [[Accra]]
 > Following more than a century of colonial resistance, the current borders of the country took shape, 
 > encompassing four separate British colonial territories: Gold Coast, Ashanti, the Northern Territories, and British Togoland. 
 >
-> These were unified as an independent dominion within the [[../../../../International/Commonwealth_of_Nations|Commonwealth of Nations]]. 
+> These were unified as an independent dominion within the [[../../../../Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations|Commonwealth of Nations]]. 
 > On 6 March 1957 Ghana became the first colony in Sub-Saharan Africa to achieve sovereignty - 
 > that is, gain independence. 
 > Under President Kwame Nkrumah, it became influential in decolonisation efforts 
@@ -520,7 +520,7 @@ Capital :: [[Accra]]
 > so that it has a significant influence in West Africa and Africa as a whole. 
 > 
 > Ghana is highly integrated in international affairs, 
-> being a founding member of the Non-Aligned Movement and the [[../../../../International/African_Union|African Union]], 
+> being a founding member of the Non-Aligned Movement and the [[../../../../Society/Agent/Community/Organization/International_Organization/African_Union|African Union]], 
 > and a member of the Economic Community of West African States, the Group of 24 
 > and the Commonwealth of Nations.
 >

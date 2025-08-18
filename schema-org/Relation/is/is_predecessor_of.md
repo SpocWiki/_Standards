@@ -26,16 +26,16 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/predecessor_of :: [[../../../Society/Agent/Organization/Business/Product/Product_Model|ProductModel]] ] or 
+- [ #is_/predecessor_of :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] ] or 
 - [ is_predecessor_of :: [[../../Class/is_a_/product/product_model|ProductModel]] ] 
 
 A pointer from a previous, often [[../../Class/is_a_/Intangible/enumeration/item_availability/discontinued|discontinued]] variant of the product 
 to its newer variant.
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Society/Agent/Organization/Business/Product/Product_Model|ProductModel]] ]
+[ #has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] ]
 ( #has_/name :: is_predecessor_of )
-( #has_/range :: [[../../../Society/Agent/Organization/Business/Product/Product_Model|ProductModel]] )
+( #has_/range :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] )
 
 #is_/similar_to :: [[../has/has_next_item]]  
 #is_/inverse_of :: [[../has/has_previous_item]]  

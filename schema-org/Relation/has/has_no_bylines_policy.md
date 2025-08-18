@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/no_bylines_policy :: CreativeWork, URL ] or 
 - [ has_no_bylines_policy :: CreativeWork, URL ] 
 
-For a [[NewsMediaOrganization]] or other news-related [[../../../Society/Agent/Organization]], 
+For a [[NewsMediaOrganization]] or other news-related [[../../../Society/Agent/Community/Organization]], 
 a statement explaining when authors of articles are not named in bylines.
 
 Relation describes that: 

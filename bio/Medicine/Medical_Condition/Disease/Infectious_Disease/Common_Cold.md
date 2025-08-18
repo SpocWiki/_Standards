@@ -88,6 +88,10 @@ UMLS_CUI:
 - C0086066
 ---
 
+# [[Common_Cold]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Common_cold,12125|WD~Common_cold,12125]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Common cold** or the cold is a viral infectious disease of the upper respiratory tract that primarily affects the respiratory mucosa of the nose, throat, sinuses, and larynx. Signs and symptoms may appear in as little as two days after exposure to the virus. These may include coughing, sore throat, runny nose, sneezing, headache, and fever. People usually recover in seven to ten days, but some symptoms may last up to three weeks. Occasionally, those with other health problems may develop pneumonia.

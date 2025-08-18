@@ -31,7 +31,7 @@ Use it like this:
 - [ #has_/ethics_policy :: CreativeWork, URL ] or 
 - [ has_ethics_policy :: CreativeWork, URL ] 
 
-Statement about ethics policy, e.g. of a [[NewsMediaOrganization]] regarding journalistic and publishing practices, or of a [[../../../Society/Agent/Organization/Business/Local_Business/Food_Establishment/Restaurant]], a page describing food source policies. In the case of a [[NewsMediaOrganization]], an ethicsPolicy is typically a statement describing the personal, organizational, and corporate standards of behavior expected by the organization.
+Statement about ethics policy, e.g. of a [[NewsMediaOrganization]] regarding journalistic and publishing practices, or of a [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant]], a page describing food source policies. In the case of a [[NewsMediaOrganization]], an ethicsPolicy is typically a statement describing the personal, organizational, and corporate standards of behavior expected by the organization.
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization, Organization ]

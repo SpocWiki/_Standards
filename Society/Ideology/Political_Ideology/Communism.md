@@ -47,6 +47,7 @@ U_S_National_Archives_Identifier: 10639138
 
 # [[Communism]] 
 
+#is_/same_as :: [[../../../WikiData/WD~Communism,6186|WD~Communism,6186]] 
 
 ## #has_/text_of_/abstract 
 

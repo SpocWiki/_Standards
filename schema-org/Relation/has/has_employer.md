@@ -1,6 +1,6 @@
 
 Use it like this: 
-- [ #has_/employer :: [[../../../Society/Agent/Organization]] ] or 
+- [ #has_/employer :: [[../../../Society/Agent/Community/Organization]] ] or 
 - [ has_employer :: [[../../Class/is_a_/Organization]] ] 
 
 Someone working for this organization.
@@ -8,7 +8,7 @@ Someone working for this organization.
 Relation describes that: 
 [ #has_/domain  :: [[../../../Society/Agent/Person]] ]
 ( #has_/name :: has_employer )
-( #has_/range :: [[../../../Society/Agent/Organization]] )
+( #has_/range :: [[../../../Society/Agent/Community/Organization]] )
 
 #is_/inverse_of :: [[has_employees]] 
 

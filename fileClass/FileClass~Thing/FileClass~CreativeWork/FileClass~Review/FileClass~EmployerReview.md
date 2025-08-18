@@ -21,7 +21,7 @@ version: 2.0
 # EmployerReview
 This is a kind of [[FileClass~Review]]
 
-An [[EmployerReview]] is a review of an [[../../../../Society/Agent/Organization]] regarding its role as an employer, written by a current or former employee of that organization.
+An [[EmployerReview]] is a review of an [[../../../../Society/Agent/Community/Organization]] regarding its role as an employer, written by a current or former employee of that organization.
 
 
 ## Use one of these Tags for Objects of this Type:

@@ -44,11 +44,11 @@ most typically in pro/con lists for reviews (alongside [[positiveNotes]]).
 
 In the case of a [[../../../Society/Communication/Media/Creative_Work/Review]], 
 the property describes the [[itemReviewed]] from the perspective of the review; 
-in the case of a [[../../../Society/Agent/Organization/Business/Product]], the product itself is being described. 
+in the case of a [[../../../Society/Agent/Community/Organization/Business/Product]], the product itself is being described. 
 
 Since product descriptions tend to emphasise positive claims, 
 it may be relatively unusual to find [[negativeNotes]] used in this way. 
-Nevertheless for the sake of symmetry, [[negativeNotes]] can be used on [[../../../Society/Agent/Organization/Business/Product]].
+Nevertheless for the sake of symmetry, [[negativeNotes]] can be used on [[../../../Society/Agent/Community/Organization/Business/Product]].
 
 The property values can be expressed either as unstructured text (repeated as necessary), or if ordered, as a list (in which case the most negative is at the beginning of the list).
 

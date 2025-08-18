@@ -31,7 +31,7 @@ Use it like this:
 - [ has_value_for_height_in_meters :: [[../../Predicate/Quantity/distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] ] 
 
 Predicate describes that: 
-[ #has_/domain  :: [[../../../Society/Communication/Media/Media_Object|MediaObject]], [[../../Class/is_a_/Intangible/structured_value/offer_shipping_details|OfferShippingDetails]], [[../../../Society/Agent/Person|Person]], [[../../../Society/Agent/Organization/Business/Product|Product]], [[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|VisualArtwork]] ]
+[ #has_/domain  :: [[../../../Society/Communication/Media/Media_Object|MediaObject]], [[../../Class/is_a_/Intangible/structured_value/offer_shipping_details|OfferShippingDetails]], [[../../../Society/Agent/Person|Person]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]], [[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|VisualArtwork]] ]
 ( #has_/name :: has_value_for_height_in_meters )
 ( #has_/range :: [[../../Predicate/Quantity/distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] )
 

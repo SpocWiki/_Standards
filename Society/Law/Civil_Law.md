@@ -18,6 +18,7 @@ P8189: "987007283805505171"
 
 # [[Civil_Law]] 
 
+#is_/different_from :: [[Common_Law]] 
 #is_/same_as :: [[../../WikiData/WD~Civil_law,5950118|WD~Civil_law,5950118]] 
 
 ## #has_/text_of_/abstract 

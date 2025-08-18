@@ -31,7 +31,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A set of products (either [[ProductGroup]]s or specific variants) that are listed together e.g. in an [[../../Society/Agent/Organization/Business/Offer]].
+A set of products (either [[ProductGroup]]s or specific variants) that are listed together e.g. in an [[../../Society/Agent/Community/Organization/Business/Offer]].
 
 [ #is_/sub_class_of :: [[../Collection, Product]] ]
 
