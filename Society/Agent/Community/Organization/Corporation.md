@@ -84,6 +84,8 @@ dv_is_same_as:
   - "[Corporation.secret](/_secret/Society/Organization/Corporation.secret.md)"
 ---
 
+# [[Corporation]] 
+
 Class of all Corporations.
 
 Tag Instances like this: 
@@ -109,6 +111,8 @@ Lower Managers, similar to Employees, have no liabilities, except specified by t
 
 
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, tickerSymbol, unnamedSourcesPolicy, url, vatID ] ]
+
+#is_/similar_to :: [[Company]]  
 
 ## #has_/text_of_/abstract 
 
