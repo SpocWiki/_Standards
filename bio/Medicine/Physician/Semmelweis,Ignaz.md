@@ -88,7 +88,7 @@ type: private_note
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Semmelweis,Ignaz.svg]] 
 
 
 %%

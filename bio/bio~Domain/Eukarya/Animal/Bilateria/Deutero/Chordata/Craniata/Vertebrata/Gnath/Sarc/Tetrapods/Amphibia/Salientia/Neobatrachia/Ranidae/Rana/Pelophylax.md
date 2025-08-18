@@ -1,8 +1,8 @@
 ---
 title:
-  "{ newTitle: null }": 
+  "Pelophylax": 
 aliases:
-  - "{ newTitle: null }": 
+  - "Pelophylax": 
 confidential: private
 cssclasses:
   - private
@@ -18,16 +18,16 @@ has_time_started:
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: null }": 
+  "Pelophylax": 
 lang: en
 layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: null }": 
+  "Pelophylax": 
 publish: false
 publishDate: 
 tags:
-  - "{ newTitle: null }": 
+  - "Pelophylax": 
   - excalidraw
 type: private_note
 ---
@@ -117,7 +117,7 @@ Photograph copyright © 1995, Thomas Uzzell.
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Pelophylax.svg]] 
 
 
 %%

@@ -51,6 +51,10 @@ Pre-historic human Societies were hunters and gatherers,
 usually living in Clans or larger Families. 
 Smaller Structures like the Core Family were not robust enough to survive. 
 
+Sociology distinguishes these 3 sectors of society: 
+- [[Society/Civil_Society|Civil_Society]]  
+-  [[Society/Politics/Government|Government]] and 
+- [[Society/Agent/Organization/Business|Business]] 
 
 ## #has_/text_of_/abstract 
 

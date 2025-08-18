@@ -39,7 +39,7 @@ Krugosvet_article: BBCbitesize.com
 UMLS_CUI: C0003842
 MeSH_tree_code: A07.015.114
 aliases:
-  - "{ newTitle: null }": 
+  - "Artery": 
 confidential: private
 cssclasses:
   - private
@@ -55,19 +55,19 @@ has_time_started:
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: null }": 
+  "Artery": 
 lang: en
 layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: null }": 
+  "Artery": 
 publish: false
 publishDate: 
 tags:
-  - "{ newTitle: null }": 
+  - "Artery": 
   - excalidraw
 title:
-  "{ newTitle: null }": 
+  "Artery": 
 type: private_note
 ---
 
@@ -105,7 +105,7 @@ A type of blood vessel that specifically carries blood away from the heart.
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Artery.svg]] 
 
 
 %%

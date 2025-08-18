@@ -6,7 +6,7 @@ aliases:
   - is_a_book
   - dbo:Book
   - schema:Book
-  - "{ newTitle: null }": 
+  - "Book": 
 Amazon_com_browse_node: 1000
 Commons_category: Books
 Commons_gallery: Book
@@ -101,7 +101,7 @@ keywords:
 layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: null }": 
+  "Book": 
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Books,8487081]]"
 MeSH_tree_code: L01.462.500.682.192
 Nomenclature_for_Museum_Cataloging: 13603
@@ -137,10 +137,10 @@ subreddit: books
 tags:
   - class/Class
   - schema-org/Class
-  - "{ newTitle: null }": 
+  - "Book": 
   - excalidraw
 title:
-  "{ newTitle: null }": 
+  "Book": 
 topic_s_main_category:
   - "[[_Standards/WikiData/WD~Q9721595,9721595]]"
   - "[[_Standards/WikiData/WD~Q33098516,33098516]]"

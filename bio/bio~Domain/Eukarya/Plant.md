@@ -5,6 +5,7 @@ aliases:
 - "Green plant"
 - "Green plants"
 - "land plants"
+- Plantae
 has_id_wikidata: Q756
 title: "Green plants"
 ---

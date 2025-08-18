@@ -38,7 +38,7 @@ title: Dioscoreales
     -   Dioscoreales
     -   [Palms](Palms.md)
     -   [Zingiberanae](Zingiberanae.md)
-    -   [Commelinanae](Commelinanae.md)
+    -   [Commelinanae](Commelinids/Commelinanae.md)
 
 -   » Sub-Groups 
 	-   *Burmanniaceae*

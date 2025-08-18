@@ -19,6 +19,7 @@ version: 2.0
 ---
 
 # CatholicChurch
+
 This is a kind of [[FileClass~Church]]
 
 A Catholic church.

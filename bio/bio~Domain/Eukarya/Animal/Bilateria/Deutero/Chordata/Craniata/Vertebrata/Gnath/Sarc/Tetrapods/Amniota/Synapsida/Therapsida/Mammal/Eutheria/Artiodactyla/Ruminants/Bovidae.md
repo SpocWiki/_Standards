@@ -1,9 +1,9 @@
 ---
 title:
-  "{ newTitle: null }": 
+  "Bovidae": 
 has_id_wikidata: Q25497
 aliases:
-  - "{ newTitle: null }": 
+  - "Bovidae": 
 confidential: private
 cssclasses:
   - private
@@ -19,16 +19,16 @@ has_time_started:
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: null }": 
+  "Bovidae": 
 lang: en
 layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: null }": 
+  "Bovidae": 
 publish: false
 publishDate: 
 tags:
-  - "{ newTitle: null }": 
+  - "Bovidae": 
   - excalidraw
 type: private_note
 ---
@@ -182,7 +182,7 @@ Copyright ::            © Kenneth M. Gale
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Bovidae.svg]] 
 
 
 %%

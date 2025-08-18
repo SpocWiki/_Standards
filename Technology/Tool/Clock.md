@@ -32,6 +32,10 @@ subclass_of:
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 ---
 
+# [[Clock]] 
+
+#is_/same_as :: [[../../WikiData/WD~Clock,376|WD~Clock,376]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Clock** or chronometer is a device that measures and displays time. The clock is one of the oldest human inventions, meeting the need to measure intervals of time shorter than the natural units such as the day, the lunar month, and the year. Devices operating on several physical processes have been used over the millennia.

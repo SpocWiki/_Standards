@@ -112,9 +112,6 @@ Wolfram_Language_entity_code: Entity["FoodType", "Apple"]
 
 # [[Apple]] 
 
-#has_/bought :: [[Siri]] for ???$ in 2010 
-#has_/bought :: [[beats]] for ???$ 
-
 ## #has_/text_of_/abstract 
 
 > An **Apple** is a round, edible fruit produced by an [[../../../../../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Appletree|Appletree]]  

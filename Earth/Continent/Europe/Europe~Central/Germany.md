@@ -684,7 +684,7 @@ Major Cities with Population in 1000s as of @2020
 | [[Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City\|Berlin]]     | Berlin                 |  3769 |
 | [[Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City\|Hamburg]]    | Hamburg                |  1841 |
 | Munich     | [[Germany/Germany~West/Bayern\|Bavaria]]                |  1488 |
-| [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln\|Cologne]]    | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |  1085 |
+| [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City\|Cologne]]    | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |  1085 |
 | [[../../../../../heuerm/heuerm~Contacts/Einkaufen/Frankfurt\|Frankfurt]]  | [[Germany/Germany~West/Hessen\|Hesse]]                  |   764 |
 | [[Germany/Germany~West/Baden-Wuerttemberg/Stuttgart\|Stuttgart]]  | [[Germany/Germany~West/Baden-Wuerttemberg\|Baden-Württemberg]]      |   635 |
 | [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf\|Düsseldorf]] | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |   620 |

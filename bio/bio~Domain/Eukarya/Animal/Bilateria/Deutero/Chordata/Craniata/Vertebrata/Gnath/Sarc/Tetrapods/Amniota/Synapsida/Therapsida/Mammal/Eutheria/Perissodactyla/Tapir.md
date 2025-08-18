@@ -2,7 +2,7 @@
 aliases:
   - Tapiridae
   - Tapir
-  - "{ newTitle: null }": 
+  - "Tapir": 
 has_id_wikidata: Q128001
 confidential: private
 cssclasses:
@@ -19,19 +19,19 @@ has_time_started:
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: null }": 
+  "Tapir": 
 lang: en
 layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: null }": 
+  "Tapir": 
 publish: false
 publishDate: 
 tags:
-  - "{ newTitle: null }": 
+  - "Tapir": 
   - excalidraw
 title:
-  "{ newTitle: null }": 
+  "Tapir": 
 type: private_note
 ---
 
@@ -79,7 +79,7 @@ type: private_note
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Tapir.svg]] 
 
 
 %%

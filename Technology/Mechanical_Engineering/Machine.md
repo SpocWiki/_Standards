@@ -1,6 +1,12 @@
 ---
+aliases:
+  - Maschine
 has_id_wikidata: Q11019
 ---
+
+# [[Machine]] 
+
+#is_/same_as :: [[../../WikiData/WD~Machine,11019|WD~Machine,11019]] 
 
 ## #has_/text_of_/abstract 
 

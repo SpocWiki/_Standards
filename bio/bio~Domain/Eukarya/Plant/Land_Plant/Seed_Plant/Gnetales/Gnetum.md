@@ -84,7 +84,7 @@ Sciences157(6, Suppl.): S40-S49.
 
 ## Title Illustrations
 
-![](../Gnetum_gnemon.jpg)
+![](Gnetum_gnemon.jpg)
 
   ----------------------------------------------------------------------
   Scientific Name ::     Gnetum gnemon

@@ -623,7 +623,7 @@ The population figures are based on data from 2024. ([statta.com](https://wwwtis
 
 | City                                                                          | Region                                                 | Pop/k |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------ | ----: |
-| [[Italy/regions~Italy/Lazio/Roma.Province/City/Roma\|Roma]]                   | [[Italy/regions~Italy/Lazio\|Lazio]]                   |  2750 |
+| [[Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città\|Roma]]                   | [[Italy/regions~Italy/Lazio\|Lazio]]                   |  2750 |
 | [[Italy/regions~Italy/Lombardy/Milano.Province/City/Milano,City\|Milano]]     | [[Italy/regions~Italy/Lombardy\|Lombardy]]             |  1350 |
 | [[Italy/regions~Italy/Campania/Napoli.Province/City/Napoli,City\|Napoli]]     | [[Italy/regions~Italy/Campania\|Campania]]             |   910 |
 | [[Italy/regions~Italy/Piedmont/Turin.Province/City/Torino\|Torino]]           | [[Italy/regions~Italy/Piedmont\|Piedmont]]             |   840 |

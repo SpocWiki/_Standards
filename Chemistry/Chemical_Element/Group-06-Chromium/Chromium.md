@@ -113,12 +113,13 @@ WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/chromium
 ZVG_number: 8190
 ---
 
+# [[Chromium]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Chromium,725]] 
 
 [GroupName::Group-06-Chromium]
 [Group:[[../Group-06-Chromium]]]]
-
 
 [Name-en::Chromium]
 [Name-de::Chrom]
@@ -136,6 +137,8 @@ ZVG_number: 8190
 [Enthalpy::16.9]
 [FormEnergy-kj-mol::344.3]
 (PeriodNo::4)
+
+#is_/same_as :: [[../../../WikiData/WD~Chromium,725|WD~Chromium,725]] 
 
 ## #has_/text_of_/abstract 
 

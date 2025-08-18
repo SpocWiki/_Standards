@@ -123,7 +123,7 @@ U_S_National_Archives_Identifier: 10663067
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Academy_Award.svg]] 
 
 
 %%

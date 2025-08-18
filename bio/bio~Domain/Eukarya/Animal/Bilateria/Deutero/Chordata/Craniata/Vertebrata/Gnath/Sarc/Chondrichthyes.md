@@ -1,5 +1,6 @@
 ---
 aliases:
+- Knorpelfisch 
 - Knorpelfische
 - "cartilaginous fish"
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
@@ -25,7 +26,7 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 
 # [[Chondrichthyes]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Chondrichthyes,25371|WD~Chondrichthyes,25371]] 
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Chondrichthyes,25371|WD~Chondrichthyes,25371]]  
 
 ## #has_/text_of_/abstract 
 

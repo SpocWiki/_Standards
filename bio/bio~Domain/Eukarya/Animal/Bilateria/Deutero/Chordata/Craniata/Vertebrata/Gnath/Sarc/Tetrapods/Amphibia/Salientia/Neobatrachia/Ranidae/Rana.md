@@ -1,8 +1,8 @@
 ---
 title:
-  "{ newTitle: null }": 
+  "Rana": 
 aliases:
-  - "{ newTitle: null }": 
+  - "Rana": 
 confidential: private
 cssclasses:
   - private
@@ -18,16 +18,16 @@ has_time_started:
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: null }": 
+  "Rana": 
 lang: en
 layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: null }": 
+  "Rana": 
 publish: false
 publishDate: 
 tags:
-  - "{ newTitle: null }": 
+  - "Rana": 
   - excalidraw
 type: private_note
 ---
@@ -92,7 +92,7 @@ True Frogs
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Rana.svg]] 
 
 
 %%

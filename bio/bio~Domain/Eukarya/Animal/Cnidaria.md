@@ -1,11 +1,37 @@
 ---
 title: Cnidaria
+has_id_wikidata: Q25441
+mode_of_reproduction: "[[_Standards/WikiData/WD~sexual_reproduction,182353]]"
+described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+studied_by: "[[_Standards/WikiData/WD~cnidariology,18387578]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Cnidaria,119788837]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~phylum,38348]]"
+subclass_of: "[[_Standards/WikiData/WD~invertebrate,43806]]"
+ITIS_TSN: "48738"
+Commons_category: Cnidaria
+taxon_name: Cnidaria
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Chrysaora%20quinquecirrha-Sea%20nettle%20%28jellyfish%29.ogv
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cnidaria.png
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%A8%E0%A6%BF%E0%A6%A1%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Schleiden-meduse-2.jpg
+EPPO_Code: 1CNIDP
+P8189: "987007561337805171"
+MeSH_tree_code: B01.050.500.308
+UMLS_CUI: C0009222
+taxon_common_name:
+  - nesledyr
+  - Holtedieren
+  - ožigalkarji
+start_time: -580000000-01-01T00:00:00Z
 ---
 
 # [[Cnidaria]]
 
 #is_a/bio-Phylum  
 #is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+
+#is_/same_as :: [[../../../../WikiData/WD~Cnidaria,25441|WD~Cnidaria,25441]] 
 
 Sea anemones, corals, jellyfish, sea pens, hydra 
 

@@ -169,7 +169,7 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/human_rights"
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Human_Rights.svg]] 
 
 
 %%

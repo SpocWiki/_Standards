@@ -25,12 +25,12 @@ instance_of:
 isDeleted: false
 isReadOnly: false
 keywords:
-  '{ newTitle: null }': Null
+  'Biological_Classification': Null
 lang: en
 layout: Null
 license: (c)copyrighted
 linkTitle:
-  '{ newTitle: null }': Null
+  'Biological_Classification': Null
 publish: false
 publishDate: Null
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~taxonomy,8269924]]'
@@ -44,7 +44,7 @@ topic_s_main_template:
 tags:
   - excalidraw
 title:
-  '{ newTitle: null }': Null
+  'Biological_Classification': Null
 type: private_note
 uses:
   - '[[_Standards/WikiData/WD~cladistics,192210]]'
@@ -75,7 +75,7 @@ uses:
 > - [[bio-Kingdom/bio-Phylum|phylum]] (division is sometimes used in botany in place of phylum), 
 > - [[bio-Kingdom/bio-Phylum/bio-Class|class]], 
 > - [[../../schema-org/Class/is_a_/Intangible/Order|order]], 
-> - [[../../Society/Family|family]], 
+> - [[../../Society/Clan/Family|family]], 
 > - [[bio-Kingdom/bio-Phylum/bio-Class/bio-Order/bio-Family/bio-Genus|genus]], and 
 > - [[bio-Kingdom/bio-Phylum/bio-Class/bio-Order/bio-Family/bio-Genus/bio-Species|species]]. 
 > 
@@ -117,7 +117,7 @@ uses:
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Biological_Classification.svg]] 
 
 
 %%

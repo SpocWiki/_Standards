@@ -1,28 +1,39 @@
 ---
 aliases:
-- "Civil war"
-Commons_category: "Civil wars"
+  - Civil war
+  - Civil wars 
+Commons_category: Civil wars
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
 has_id_wikidata: Q8465
-has_list: '[[_Standards/WikiData/WD~list_of_civil_wars,941002]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Gettysburg.jpg"
-instance_of: '[[_Standards/WikiData/WD~type_of_war,124867660]]'
+has_list: "[[_Standards/WikiData/WD~list_of_civil_wars,941002]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Gettysburg.jpg
+instance_of: "[[_Standards/WikiData/WD~type_of_war,124867660]]"
 IPTC_NewsCode: mediatopic/20000063
 OmegaWiki_Defined_Meaning: 156339
 PhilPapers_topic: civil-war
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/State-based%20conflicts%20since%201946%2C%20OWID.svg"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/State-based%20conflicts%20since%201946%2C%20OWID.svg
 subclass_of:
-- '[[_Standards/WikiData/WD~communal_violence,5153967]]'
-- '[[_Standards/WikiData/WD~war,198]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353206,42353206]]'
+  - "[[_Standards/WikiData/WD~communal_violence,5153967]]"
+  - "[[_Standards/WikiData/WD~war,198]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q42353206,42353206]]"
 U_S_National_Archives_Identifier: 10646216
+P8189: "987007283800305171"
+EcuRed_article: Guerra_civil
 ---
+
+# [[Civil_War]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Civil_war,8465|WD~Civil_war,8465]] 
 
 ## #has_/text_of_/abstract 
 
-> A **Civil war** is a war between organized groups within the same state (or country). The aim of one side may be to take control of the country or a region, to achieve independence for a region, or to change government policies. The term is a calque of Latin bellum civile which was used to refer to the various civil wars of the Roman Republic in the 1st century BC.
+> A **Civil war** is a war between organized groups within the same state (or country). 
+> The aim of one side may be to take control of the country or a region, 
+> to achieve independence for a region, or to change government policies. 
+> 
+> The term is a calque of Latin bellum civile which was used to refer to the various civil wars of the Roman Republic in the 1st century BC.
 >
 > Most modern civil wars involve intervention by outside powers. According to Patrick M. Regan in his book Civil Wars and Foreign Powers (2000) about two thirds of the 138 intrastate conflicts between the end of World War II and 2000 saw international intervention.
 >

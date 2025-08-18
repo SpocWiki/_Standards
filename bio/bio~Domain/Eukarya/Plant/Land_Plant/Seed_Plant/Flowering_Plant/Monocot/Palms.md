@@ -26,7 +26,7 @@ title: Arecanae
     -   [Dioscoreales](Dioscoreales.md)
     -   Arecanae
     -   [Zingiberanae](Zingiberanae.md)
-    -   [Commelinanae](Commelinanae.md)
+    -   [Commelinanae](Commelinids/Commelinanae.md)
 
 -   » Sub-Groups 
 

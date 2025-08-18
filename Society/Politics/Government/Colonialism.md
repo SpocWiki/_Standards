@@ -18,15 +18,54 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Colonialism,1081
 UMLS_CUI: C0009372
 ---
 
+# [[Colonialism]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Colonialism,7167|WD~Colonialism,7167]] 
+
 ## #has_/text_of_/abstract 
 
-> **Colonialism** is the advancement of control over and exploitation of land and people by separation, through another and often foreign group. Colonizers monopolize political power and hold conquered societies and their people to be inferior to their conquerors in legal, administrative, social, cultural, or biological terms. While frequently advanced as an imperialist regime, colonialism can also take the form of settler colonialism, whereby colonial settlers invade and occupy territory to permanently replace an existing society with that of the colonizers, possibly towards a genocide of native populations.
+> **Colonialism** is the advancement of control over and exploitation of land and people by separation, 
+> through another and often foreign group. 
+> 
+> Colonizers monopolize political power and hold conquered societies and their people 
+> to be inferior to their conquerors in legal, administrative, social, cultural, or biological terms. 
+> 
+> While frequently advanced as an imperialist regime, 
+> colonialism can also take the form of settler colonialism, 
+> whereby colonial settlers invade and occupy territory 
+> to permanently replace an existing society with that of the colonizers, 
+> possibly towards a genocide of native populations.
 >
-> Colonialism developed as a concept describing European colonial empires of the modern era, which spread globally from the 15th century to the mid-20th century, spanning 35% of Earth's land by 1800 and peaking at 84% by the beginning of World War I. European colonialism employed mercantilism and chartered companies, and established coloniality, which keeps the colonized socio-economically othered and subaltern through modern biopolitics of sexuality, gender, race, disability and class, among others, resulting in intersectional violence and discrimination. Colonialism has been justified with beliefs of having a civilizing mission to cultivate land and life, based on beliefs of entitlement and superiority, historically often rooted in the belief of a Christian mission.
+> Colonialism developed as a concept describing European colonial empires of the modern era, 
+> which spread globally from the 15th century to the mid-20th century, 
+> spanning 35% of Earth's land by 1800 and peaking at 84% by the beginning of World War I. 
+> 
+> European colonialism employed mercantilism and chartered companies, 
+> and established coloniality, which keeps the colonized socio-economically othered and subaltern 
+> through modern biopolitics of sexuality, gender, race, disability and class, among others, 
+> resulting in intersectional violence and discrimination. 
+> 
+> Colonialism has been justified with beliefs of having a civilizing mission to cultivate land and life, 
+> based on beliefs of entitlement and superiority, 
+> historically often rooted in the belief of a Christian mission.
 >
-> Because of this broad impact different instances of colonialism have been identified from around the world and in history, starting with when colonization was developed by developing colonies and metropoles, the base colonial separation and characteristic.
+> Because of this broad impact 
+> different instances of colonialism have been identified from around the world and in history, 
+> starting with when colonization was developed by developing colonies and metropoles, 
+> the base colonial separation and characteristic.
 >
-> Decolonization, which started in the 18th century, gradually led to the independence of colonies in waves, with a particular large wave of decolonizations happening in the aftermath of World War II between 1945 and 1975. Colonialism has a persistent impact on a wide range of modern outcomes, as scholars have shown that variations in colonial institutions can account for variations in economic development, regime types, and state capacity. Some academics have used the term neocolonialism to describe the continuation or imposition of elements of colonial rule through indirect means in the contemporary period.
+> Decolonization, which started in the 18th century, 
+> gradually led to the independence of colonies in waves, 
+> with a particular large wave of decolonizations happening in the aftermath of World War II 
+> between 1945 and 1975. 
+> 
+> Colonialism has a persistent impact on a wide range of modern outcomes, 
+> as scholars have shown that variations in colonial institutions 
+> can account for variations in economic development, regime types, and state capacity. 
+> 
+> Some academics have used the term neocolonialism 
+> to describe the continuation or imposition of elements of colonial rule 
+> through indirect means in the contemporary period.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Colonialism)
 
