@@ -1,5 +1,8 @@
 ---
-Archive_of_Our_Own_tag: "Sports RPF"
+aliases:
+  - elite sport
+  - High performance sport
+Archive_of_Our_Own_tag: Sports RPF
 Baidu_Tieba_name: 体育
 Basisklassifikation: 76
 Chinese_Library_Classification: G8
@@ -7,83 +10,88 @@ Colon_Classification: MY
 Commons_category: Sports
 Commons_gallery: Sport
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Gender_Glossar,106508758]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Gender_Glossar,106508758]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 Dewey_Decimal_Classification: 306.483
 different_from:
-- '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
-- '[[_Standards/WikiData/WD~physical_preparedness,3409055]]'
-- '[[_Standards/WikiData/WD~sports_competition,13406554]]'
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+  - "[[_Standards/WikiData/WD~sports_discipline,2312410]]"
+  - "[[_Standards/WikiData/WD~physical_preparedness,3409055]]"
+  - "[[_Standards/WikiData/WD~sports_competition,13406554]]"
+  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
 equivalent_class:
-- "http://data.culture.fr/thesaurus/resource/ark:/67717/T1-639"
-- "http://dbpedia.org/ontology/Sport"
+  - http://data.culture.fr/thesaurus/resource/ark:/67717/T1-639
+  - http://dbpedia.org/ontology/Sport
 exact_match:
-- "http://cv.iptc.org/newscodes/productgenre/sport"
-- "http://cv.iptc.org/newscodes/spct/sport"
-fandom: '[[_Standards/WikiData/WD~sports_fandom,132194838]]'
+  - http://cv.iptc.org/newscodes/productgenre/sport
+  - http://cv.iptc.org/newscodes/spct/sport
+fandom: "[[_Standards/WikiData/WD~sports_fandom,132194838]]"
 hashtag:
-- sport
-- sports
-- спорт
-has_characteristic: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+  - sport
+  - sports
+  - спорт
+has_characteristic:
+  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
 has_id_wikidata: Q349
 has_use:
-- '[[_Standards/WikiData/WD~pleasure,208195]]'
-- '[[_Standards/WikiData/WD~physical_fitness,309252]]'
+  - "[[_Standards/WikiData/WD~pleasure,208195]]"
+  - "[[_Standards/WikiData/WD~physical_fitness,309252]]"
 IAB_code: 483
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Youth-soccer-indiana.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Youth-soccer-indiana.jpg
 IPTC_NewsCode:
-- mediatopic/15000000
-- productgenre/sport
-- spct/sport
-- subjectcode/15000000
+  - mediatopic/15000000
+  - productgenre/sport
+  - spct/sport
+  - subjectcode/15000000
 Library_of_Congress_Classification: GV561-GV1198.995
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Sports,8001410]]'
-MeSH_tree_code: I03.450.642.845
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Sports,8001410]]"
+MeSH_tree_code:
+  - I03.450.642.845
 OmegaWiki_Defined_Meaning: 3592
 OpenStreetMap_tag_or_key:
-- "Key:sport"
-- "Tag:sport=multi"
-P8189: 987007529432705171
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Paraglider%20Auvergne%20France%20banner.jpg"
-part_of: '[[_Standards/WikiData/WD~sport,_games,_physical_exercises,66662493]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131947,27131947]]'
+  - Key:sport
+  - Tag:sport=multi
+P8189: 987007529432705200
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Paraglider%20Auvergne%20France%20banner.jpg
+part_of: "[[_Standards/WikiData/WD~sport,_games,_physical_exercises,66662493]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27131947,27131947]]"
 PhilPapers_topic: sport
 practiced_by:
-- '[[_Standards/WikiData/WD~athlete,2066131]]'
-- '[[_Standards/WikiData/WD~sportsperson,50995749]]'
+  - "[[_Standards/WikiData/WD~athlete,2066131]]"
+  - "[[_Standards/WikiData/WD~sportsperson,50995749]]"
 Provenio_UUID: 56c6b65e-d68a-416a-ac1e-ff831d347ca5
-Regensburg_Classification: "ZX - ZY"
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~game-based_sport,4438147]]'
+Regensburg_Classification: ZX - ZY
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~game-based_sport,4438147]]"
 social_media_followers: 74900000
-Stack_Exchange_site_URL: "https://sports.stackexchange.com"
+Stack_Exchange_site_URL: https://sports.stackexchange.com
 studied_in:
-- '[[_Standards/WikiData/WD~sociology_of_sport,594322]]'
-- '[[_Standards/WikiData/WD~sports_science,1298380]]'
-- '[[_Standards/WikiData/WD~sports_technology,2312877]]'
-subclass_of: '[[_Standards/WikiData/WD~physical_activity,747883]]'
-subreddit: sports
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_sport_overview,14397460]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Sports,6566190]]'
+  - "[[_Standards/WikiData/WD~sociology_of_sport,594322]]"
+  - "[[_Standards/WikiData/WD~sports_science,1298380]]"
+  - "[[_Standards/WikiData/WD~sports_technology,2312877]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~physical_activity,747883]]"
+subreddit:
+  - sports
+topic_s_main_template:
+  - "[[_Standards/WikiData/WD~Template_Infobox_sport_overview,14397460]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Sports,6566190]]"
 UMLS_CUI: C1510656
 Unicode_range: U+200D,U+2640,U+2642,U+26BD,U+26BE,U+26F3,U+26F7-26F9,U+FE0F,U+1F396,U+1F3A3,U+1F3B1,U+1F3BD-1F3C0,U+1F3C2,U+1F3C4-1F3CC,U+1F3CF-1F3D3,U+1F3F8,U+1F3F9,U+1F6A3,U+1F6B4,U+1F6B5,U+1F938,U+1F93A,U+1F93C-1F93E,U+1F945,U+1F947-1F94B
 Universal_Decimal_Classification: 796
 uses:
-- '[[_Standards/WikiData/WD~sports_equipment,768186]]'
-- '[[_Standards/WikiData/WD~sports_venue,1076486]]'
-- '[[_Standards/WikiData/WD~sports_field,1202618]]'
-- '[[_Standards/WikiData/WD~pitch,2310214]]'
-- '[[_Standards/WikiData/WD~sports_location,23764314]]'
+  - "[[_Standards/WikiData/WD~sports_equipment,768186]]"
+  - "[[_Standards/WikiData/WD~sports_venue,1076486]]"
+  - "[[_Standards/WikiData/WD~sports_field,1202618]]"
+  - "[[_Standards/WikiData/WD~pitch,2310214]]"
+  - "[[_Standards/WikiData/WD~sports_location,23764314]]"
 U_S_National_Archives_Identifier: 10642049
 Wikidata_property: sport
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sports,16000501]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_sports,16000501]]"
 ---
 
-# [[Sport]] 
+# [[High-Performance_Sport]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sport,349]] 
 
@@ -136,7 +144,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sports,16000501]]'
 > the global sporting industry is worth up to $620 billion as of 2013. 
 > 
 > The world's most accessible and practised sport is running, 
-> while [[Sport/Team_Sport/Football/Association_Football]] is the most popular spectator sport.
+> while [[High-Performance_Sport/Team_Sport/Football/Association_Football]] is the most popular spectator sport.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sport)
 
