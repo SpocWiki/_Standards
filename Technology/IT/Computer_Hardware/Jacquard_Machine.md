@@ -2,10 +2,16 @@
 aliases:
   - Jacquard Machine
   - Jacquard loom
+has_id_wikidata: Q2488528
+has_use: "[[_Standards/WikiData/WD~Jacquard_weaving,589613]]"
+industry: "[[_Standards/WikiData/WD~textile_industry,607081]]"
+part_of: "[[_Standards/WikiData/WD~Jacquard_loom,1369967]]"
+subclass_of: "[[_Standards/WikiData/WD~textile_arts_tool,19394283]]"
 ---
 
 # [[Jacquard_Machine]] 
 
+#has_/creator :: [[Jacquard,Joseph_Marie]] 
 #is_/same_as :: [[../../../WikiData/WD~Joseph_Marie_Jacquard,310833|WD~Joseph_Marie_Jacquard,310833]] 
 
 ## #has_/text_of_/abstract 
