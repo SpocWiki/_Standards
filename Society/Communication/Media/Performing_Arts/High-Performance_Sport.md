@@ -2,6 +2,7 @@
 aliases:
   - elite sport
   - High performance sport
+  - Leistungssport 
 Archive_of_Our_Own_tag: Sports RPF
 Baidu_Tieba_name: 体育
 Basisklassifikation: 76
