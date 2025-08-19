@@ -1,6 +1,7 @@
 ---
 aliases:
   - computer keyboard
+  - keyboard
 has_id_wikidata: Q250
 has_part_s_:
   - "[[_Standards/WikiData/WD~numeric_keypad,199306]]"
@@ -9,7 +10,8 @@ creator: "[[_Standards/WikiData/WD~Sam_Hecht,654495]]"
 different_from:
   - "[[_Standards/WikiData/WD~keyboard_layout,725744]]"
   - "[[_Standards/WikiData/WD~keyboard,1921606]]"
-has_characteristic: "[[_Standards/WikiData/WD~keyboard_layout,725744]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~keyboard_layout,725744]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~human_interface_device,1348085]]"
   - "[[_Standards/WikiData/WD~keyboard,1921606]]"
