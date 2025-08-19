@@ -1,5 +1,37 @@
 ---
 has_id_wikidata: Q11661
+history_of_topic: "[[_Standards/WikiData/WD~history_of_computer_science,1189238]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+practiced_by:
+  - "[[_Standards/WikiData/WD~information_systems_technician,3323515]]"
+  - "[[_Standards/WikiData/WD~technology_specialist,5157565]]"
+  - "[[_Standards/WikiData/WD~Information_Systems_Technician,6030872]]"
+  - "[[_Standards/WikiData/WD~IT_professional,56604309]]"
+  - "[[_Standards/WikiData/WD~information_technology_instructor,56827203]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Information_technology,3874978]]"
+studied_by:
+  - "[[_Standards/WikiData/WD~informatics,4027615]]"
+  - "[[_Standards/WikiData/WD~information_systems_studies,64812807]]"
+different_from: "[[_Standards/WikiData/WD~informatics,4027615]]"
+part_of: "[[_Standards/WikiData/WD~information_and_communications_technology,5268834]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~information_and_communications_technology,5268834]]"
+  - "[[_Standards/WikiData/WD~service,7406919]]"
+industry: "[[_Standards/WikiData/WD~information_technology_industry,110702998]]"
+has_immediate_cause: "[[_Standards/WikiData/WD~information,11028]]"
+has_contributing_factor: "[[_Standards/WikiData/WD~data,42848]]"
+OmegaWiki_Defined_Meaning: "1940"
+short_name: IT
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-X-Javier-technologie%20de%20l%27information.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Ionenlaser-Informationstechnik.wav
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Papertape3.jpg
+Classification_of_Instructional_Programs_code: "11.0103"
+UMLS_CUI: C5201004
+Commons_category: Information technology
+MeSH_tree_code: L01.479
 ---
 
 ## #has_/text_of_/abstract 

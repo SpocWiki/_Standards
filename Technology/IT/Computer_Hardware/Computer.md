@@ -1,86 +1,93 @@
 ---
-atomic_number: 16
-canonical_SMILES: '[S]'
-CAS_Registry_Number: 7704-34-9
-chemical_formula: S
-Commons_category: Sulfur
-Commons_gallery: Sulfur
-CosIng_number: 75467
-density: 2.07
-described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+aliases:
+  - Rechner
+has_id_wikidata: Q68
 different_from:
-- '[[_Standards/WikiData/WD~disulfur,5283603]]'
-- '[[_Standards/WikiData/WD~Kebrit,5805138]]'
-- '[[_Standards/WikiData/WD~Q20674464,20674464]]'
-- '[[_Standards/WikiData/WD~sulfur_atom,106570791]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Antoine_Lavoisier,39607]]'
-DSSTOX_compound_identifier: DTXCID7014941
-EC_number: 231-722-6
-electronegativity: 2.58
-electron_configuration:
-- "[Ne] 3s² 3p⁴"
-- "1s² 2s² 2p⁶ 3s² 3p⁴"
-element_symbol: S
-found_in_taxon:
-- '[[_Standards/WikiData/WD~Rutaceae,146030]]'
-- '[[_Standards/WikiData/WD~Ceratophyllum_demersum,157385]]'
-- '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
-- '[[_Standards/WikiData/WD~Clathria_pyramida,2319118]]'
-- '[[_Standards/WikiData/WD~Euodia,3060383]]'
-- '[[_Standards/WikiData/WD~Lyngbya_majuscula,20720044]]'
-has_id_wikidata: Q682
-has_use: '[[_Standards/WikiData/WD~ecological_crop_protection,65967059]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20-%20El%20Desierto%20mine%2C%20San%20Pablo%20de%20Napa%2C%20Daniel%20Campos%20Province%2C%20Potos%C3%AD%2C%20Bolivia.jpg"
-InChI: InChI=1S/S
-InChIKey: NINIDFKCEFEMDL-UHFFFAOYSA-N
-instance_of:
-- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-ionic_radius:
-- 0.12
-- 0.29
-- 0.37
-- 1.84
-Krugosvet_article: nauka_i_tehnika/himiya/SERA.html
-mass: 32.06
-MeSH_tree_code: D01.268.185.900
-NSC_number: 403664
-OmegaWiki_Defined_Meaning: 3668
-oxidation_state:
-- -2
-- -1
-- 1
-- 2
-- 3
-- 4
-- 5
-- 6
-part_of:
-- '[[_Standards/WikiData/WD~group_16,104567]]'
-- '[[_Standards/WikiData/WD~period_3,211331]]'
-PubChem_CID: 5362487
+  - "[[_Standards/WikiData/WD~computing,179310]]"
+  - "[[_Standards/WikiData/WD~computer_monitor,5290]]"
+  - "[[_Standards/WikiData/WD~central_processing_unit,5300]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~graphics_processing_unit,183484]]"
+  - "[[_Standards/WikiData/WD~input_output_device,2384798]]"
+  - "[[_Standards/WikiData/WD~computer_hardware,3966]]"
+  - "[[_Standards/WikiData/WD~central_processing_unit,5300]]"
+  - "[[_Standards/WikiData/WD~software,7397]]"
+  - "[[_Standards/WikiData/WD~computer_keyboard,250]]"
+uses:
+  - "[[_Standards/WikiData/WD~mechanical_energy,184550]]"
+  - "[[_Standards/WikiData/WD~electronics,11650]]"
+  - "[[_Standards/WikiData/WD~electricity,12725]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~group_16,104567]]'
-- '[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345]]'
-- '[[_Standards/WikiData/WD~nonmetal,19600]]'
-time_of_discovery_or_invention: 1777
-UMLS_CUI: C0038774
-Unicode_character: 硫
-U_S_National_Archives_Identifier: 10645875
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20crystals.webm"
-Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Sulfur\"]"
-ZVG_number: 8130
+  - "[[_Standards/WikiData/WD~computing_platform,241317]]"
+  - "[[_Standards/WikiData/WD~data_terminal_equipment,1172400]]"
+  - "[[_Standards/WikiData/WD~IT_system,1662611]]"
+  - "[[_Standards/WikiData/WD~information_processor,3181395]]"
+  - "[[_Standards/WikiData/WD~computer_file_location,115517465]]"
+  - "[[_Standards/WikiData/WD~machine,11019]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~class_of_computers,716676]]"
+  - "[[_Standards/WikiData/WD~computer_performance,1197550]]"
+  - "[[_Standards/WikiData/WD~computer_configuration,1781447]]"
+  - "[[_Standards/WikiData/WD~computer_interface,23808]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_computing_device,5616658]]"
+influenced_by: "[[_Standards/WikiData/WD~MUSASINO_1,6719084]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_computers,7112590]]"
+instance_of: "[[_Standards/WikiData/WD~invention,14208553]]"
+permanent_duplicated_item:
+  - "[[_Standards/WikiData/WD~Q55744235,55744235]]"
+  - "[[_Standards/WikiData/WD~computer,134875356]]"
+studied_by: "[[_Standards/WikiData/WD~computer_science,21198]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Charles_Babbage,46633]]"
+Commons_gallery: Computer
+OmegaWiki_Defined_Meaning: "5669"
+Nomenclature_for_Museum_Cataloging: "10453"
+social_media_followers: 175367
+hashtag_: computer
+IMDb_keyword: computer
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Apple%20II%20Plus%2C%20Museum%20of%20the%20Moving%20Image.jpg
+Dewey_Decimal_Classification:
+  - "004"
+  - "004.1"
+  - "621.39"
+Iconclass_notation: 49D54
+Commons_category: Computers
+DPLA_subject_term: Computers
+time_of_discovery_or_invention: 1945-01-01T00:00:00Z
+U_S_National_Archives_Identifier: "10636641"
+equivalent_class:
+  - http://cat.aii.caas.cn/concept/21471
+  - http://data.europa.eu/bkc/019.06.02.0450
+  - http://id.cabi.org/cabt/31374
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Laptop%20Wikivoyage%20banner.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Computer-article.ogg
+IEV_number: 171-01-25
+UNSPSC_Code: "43211500"
+UMLS_CUI: C0086044
+subreddit: computers
+PhilPapers_topic: computers
+MeSH_tree_code: L01.224.230.260
+Krugosvet_article: tehnologiya-i-promyshlennost/kompyuter
+Baidu_Tieba_name: 电脑
+name: ꠇꠝ꠆ꠙꠥꠐꠣꠞ
 ---
+
+# [[Computer]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Computer,68|WD~Computer,68]] 
 
 ## #has_/text_of_/abstract 
 
-> A **Computer** is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation). Modern digital electronic computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks. The term computer system may refer to a nominally complete computer that includes the hardware, operating system, software, and peripheral equipment needed and used for full operation; or to a group of computers that are linked and function together, such as a computer network or computer cluster.
+> A **Computer** is a machine that can be programmed 
+> to automatically carry out sequences of arithmetic or logical operations (computation). 
+> 
+> Modern digital electronic computers can perform generic sets of operations known as programs. 
+> These programs enable computers to perform a wide range of tasks. 
+> 
+> The term computer system may refer to a nominally complete computer 
+> that includes the hardware, operating system, software, 
+> and peripheral equipment needed and used for full operation; 
+> or to a group of computers that are linked and function together, 
+> such as a computer network or computer cluster.
 >
 > A broad range of industrial and consumer products use computers as control systems, including simple special-purpose devices like microwave ovens and remote controls, and factory devices like industrial robots. Computers are at the core of general-purpose devices such as personal computers and mobile devices such as smartphones. Computers power the Internet, which links billions of computers and users.
 >
