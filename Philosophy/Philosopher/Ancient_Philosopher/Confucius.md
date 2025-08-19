@@ -162,6 +162,11 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Confucius::55p39\"]"
 work_location: '[[_Standards/WikiData/WD~Lu,736936]]'
 ---
 
+# [[Confucius]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Confucius,4604|WD~Confucius,4604]] 
+
+
 There are no original Texts from Confucius. 
 His lessons were compiled only centuries later, 
 but he was propagating living a 'decent' life, 
@@ -170,8 +175,7 @@ The [[Analects]]
 
 Later his teachings were made more concrete by the so-called 'Legalists', 
 namely [[Xunzi]], who wants to enforce correctness.  
-
-# [[Confucius]] 
+## #has_/text_of_/abstract 
 
 > **Confucius** (孔子; pinyin: Kǒngzǐ; lit. 'Master Kong'; c. 551 – c. 479 BCE), born Kong Qiu (孔丘) 
 > was a Chinese philosopher of the Spring and Autumn period 

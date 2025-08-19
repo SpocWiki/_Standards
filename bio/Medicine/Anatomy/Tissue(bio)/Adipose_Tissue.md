@@ -13,7 +13,7 @@ aliases:
 > Its main role is to store energy in the form of lipids, although it also cushions and insulates the body.
 >
 > Previously treated as being hormonally inert, in recent years 
-> adipose tissue has been recognized as a major endocrine organ, 
+> **adipose tissue has been recognized as a major endocrine organ**, 
 > as it produces hormones such as leptin, estrogen, resistin, and cytokines (especially TNFα). 
 > In obesity, adipose tissue is implicated in the __chronic release of pro-inflammatory markers__ 
 > known as adipokines, which are responsible for the development of metabolic syndrome—
@@ -32,7 +32,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adipose_Tissue](/_Standards/bio/Medicine/Anatomy/Adipose_Tissue.md) 
+### #is_/same_as :: [Adipose_Tissue](Adipose_Tissue.md) 
 
 ### #is_/same_as :: [Adipose_Tissue.public](/_public/bio/Medicine/Anatomy/Adipose_Tissue.public.md) 
 

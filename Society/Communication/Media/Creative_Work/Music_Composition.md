@@ -1,12 +1,12 @@
 ---
 aliases:
-- music-composition
-- music_composition
-- MusicComposition
-- Musical composition
-- composition
-- Komposition
-- is_a_music_composition
+  - music-composition
+  - music_composition
+  - MusicComposition
+  - Musical composition
+  - composition
+  - Komposition
+  - is_a_music_composition
 confidential: public
 cssclasses:
   - Type
@@ -15,24 +15,109 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- music_composition
+  - music_composition
 layout: 
 license: CC BY-SA 4.0
 linkTitle: is_a_music_composition Class
 publish: true
 publishDate: 
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - excalidraw
 title: is_a_music_composition Class
-type: Type
+type: private_note
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+has_Template:
+  - "[[Extract~Note~Template]]"
+has_time_started:
+  "{ \"date:YYYY-MM-DD\": null }": 
+lang: en
+has_id_wikidata: Q105543609
+different_from:
+  - "[[_Standards/WikiData/WD~composed_musical_work,207628]]"
+  - "[[_Standards/WikiData/WD~musical_work,2188189]]"
+  - "[[_Standards/WikiData/WD~music_composing,11895763]]"
+  - "[[_Standards/WikiData/WD~music,115484611]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~musical_work,2188189]]"
+  - "[[_Standards/WikiData/WD~intellectual_work,15621286]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Music,5830855]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_musical_composition,11126863]]"
+fabrication_method: "[[_Standards/WikiData/WD~music_composing,11895763]]"
+instance_of: "[[_Standards/WikiData/WD~metaclass,19478619]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~musical_work,114798209]]"
+inappropriate_property_for_this_type:
+  - record label
+  - subclass of
+  - distribution format
+  - has edition or translation
+  - image
+  - logo image
+properties_for_this_type:
+  - language of work or name
+  - MusicBrainz work ID
+  - has part(s)
+  - publication date
+  - lyricist
+  - contributor to the creative work or subject
+  - dedicated to
+  - tonality
+  - IMSLP ID
+  - instrumentation
+  - catalog
+  - date of first performance
+  - Parsons code
+  - title
+  - tempo marking
+  - has melody
+  - ISWC
+  - AllMusic composition ID
+  - duration
+  - number of parts of this work
+  - SecondHandSongs work ID
+  - sheet music
+  - time signature
+  - location of first performance
+  - BMI work ID
+  - ACE Repertory work ID
+  - derivative work
+  - modified version of
+  - adapted by
+  - Carnegie Hall work ID
+  - samples from work
+  - copyright status
+  - has lyrics
+  - musical quotation or excerpt
+  - musical motif
+  - form of creative work
+  - Global Music Rights work ID
+  - SESAC work number
+  - Songlexikon ID
+  - music created for
+  - Aathavanitli Gani song ID
+  - first performance by
+  - composer
+  - publisher
+  - genre
+  - based on
+  - performer
+equivalent_class:
+  - http://d-nb.info/standards/elementset/gnd#MusicalWork
+  - http://dbpedia.org/ontology/MusicalWork
+  - http://purl.org/ontology/mo/MusicalWork
+  - https://data.bnf.fr/vocabulary/work-form/tum
+  - https://schema.org/MusicComposition
+Wikidata_usage_instructions: Use with P31. This is an attempt at cleaning up and consolidating musical works previously classified as instances of "musical composition" (Q207628), "musical work" (Q2188189), "song" (Q7366), "symphony" (Q9734), etc.
 ---
-# [[Musical_Composition]]
+# [[Music_Composition]] 
 
 Class of all music_compositions.
 
 Tag Instances like this: 
-#is_a_/music_composition
+#is_a_/music_composition 
+#is_a_ :: [[Music_Composition]] 
 
 A musical composition.
 
@@ -40,7 +125,7 @@ A musical composition.
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, composer, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, firstPerformance, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, includedComposition, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, iswcCode, keywords, learningResourceType, license, locationCreated, lyricist, lyrics, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, musicArrangement, musicCompositionForm, musicalKey, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAs, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
-#is_/same_as :: [[wd Musical_Composition]] 
+#is_/same_as :: [[WD~Musical_Composition,105543609]] 
 
 ## #has_/text_of_/abstract 
 
@@ -101,3 +186,22 @@ A musical composition.
 
 ### #is_/same_as :: [Music_Composition.secret](/_secret/Society/Communication/Media/Creative_Work/Music_Composition.secret.md)
 
+
+# [[Music_Composition]] 
+
+#is_/part_of :: [[Musical_Composition]] 
+
+![[Music_Composition.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Music_Composition.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
