@@ -7,6 +7,8 @@ aliases:
 has_id_wikidata: Q483382
 ---
 
+# [[Wozniak,Steve]] 
+
 #has_/time_/started :: 1950-08-11 
 #is_/same_as :: [[/_public/WikiData/WD~Steve_Wozniak,483382]]
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Rechner
+  - Computers
 has_id_wikidata: Q68
 different_from:
   - "[[_Standards/WikiData/WD~computing,179310]]"
@@ -30,13 +31,16 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~computer_configuration,1781447]]"
   - "[[_Standards/WikiData/WD~computer_interface,23808]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_computing_device,5616658]]"
-influenced_by: "[[_Standards/WikiData/WD~MUSASINO_1,6719084]]"
+influenced_by:
+  - "[[_Standards/WikiData/WD~MUSASINO_1,6719084]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_computers,7112590]]"
-instance_of: "[[_Standards/WikiData/WD~invention,14208553]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~invention,14208553]]"
 permanent_duplicated_item:
   - "[[_Standards/WikiData/WD~Q55744235,55744235]]"
   - "[[_Standards/WikiData/WD~computer,134875356]]"
-studied_by: "[[_Standards/WikiData/WD~computer_science,21198]]"
+studied_by:
+  - "[[_Standards/WikiData/WD~computer_science,21198]]"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Charles_Babbage,46633]]"
 Commons_gallery: Computer
 OmegaWiki_Defined_Meaning: "5669"
@@ -63,9 +67,11 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Compute
 IEV_number: 171-01-25
 UNSPSC_Code: "43211500"
 UMLS_CUI: C0086044
-subreddit: computers
+subreddit:
+  - computers
 PhilPapers_topic: computers
-MeSH_tree_code: L01.224.230.260
+MeSH_tree_code:
+  - L01.224.230.260
 Krugosvet_article: tehnologiya-i-promyshlennost/kompyuter
 Baidu_Tieba_name: 电脑
 name: ꠇꠝ꠆ꠙꠥꠐꠣꠞ
