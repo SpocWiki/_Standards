@@ -1,17 +1,20 @@
 ---
 aliases:
-- Music
+  - Music
+  - musical
+  - Musik
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
 expiryDate: 
 has_id_wikidata: 638
-has_Template: '[[Extract~Note~Template]]'
+has_Template:
+  - "[[Extract~Note~Template]]"
 has_time_started: 2025-07-19
 isDeleted: false
 isReadOnly: false
@@ -23,8 +26,8 @@ linkTitle: Music
 publish: false
 publishDate: 
 tags:
-- Music
-- excalidraw
+  - Music
+  - excalidraw
 title: Music
 type: private_note
 ---

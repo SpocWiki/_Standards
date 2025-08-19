@@ -8,8 +8,7 @@ aliases:
 - Komposition
 - is_a_music_composition
 confidential: public
-cssclasses:
-  - Type
+cssclasses: Type
 draft: false
 expiryDate: 
 isDeleted: false
@@ -17,14 +16,14 @@ isReadOnly: false
 keywords:
 - music_composition
 layout: 
-license: CC BY-SA 4.0
-linkTitle: is_a_music_composition Class
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_music_composition Class"
 publish: true
 publishDate: 
 tags:
 - class/Class
 - schema-org/Class
-title: is_a_music_composition Class
+title: "is_a_music_composition Class"
 type: Type
 ---
 # [[Musical_Composition]]
@@ -54,11 +53,11 @@ A musical composition.
 > In many cultures, including Western classical music, 
 > the act of composing typically includes the creation of music notation, such as a sheet music "score", 
 > which is then performed by the composer or by other musicians. 
-> 
+>
 > In popular music and traditional music, 
 > songwriting may involve the creation of a basic outline of the song, called the lead sheet, 
 > which sets out the melody, lyrics and chord progression. 
-> 
+>
 > In classical music, orchestration (choosing the instruments of a large music ensemble such as an orchestra which will play the different parts of music, such as the melody, accompaniment, countermelody, bassline and so on) is typically done by the composer, 
 > but in musical theatre and in pop music, songwriters may hire an arranger to do the orchestration. 
 > 
@@ -100,4 +99,5 @@ A musical composition.
 ### #is_/same_as :: [Music_Composition.personal](/_personal/Society/Communication/Media/Creative_Work/Music_Composition.personal.md) 
 
 ### #is_/same_as :: [Music_Composition.secret](/_secret/Society/Communication/Media/Creative_Work/Music_Composition.secret.md)
+
 

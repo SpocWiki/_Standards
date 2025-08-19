@@ -1,9 +1,9 @@
 ---
 aliases:
-  - comic-issue
-  - comic_issue
-  - ComicIssue
-  - is_a_comic_issue
+- comic-issue
+- comic_issue
+- ComicIssue
+- is_a_comic_issue
 confidential: public
 cssclasses:
   - Type
@@ -12,15 +12,15 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-  - comic_issue
+- comic_issue
 layout: 
 license: CC BY-SA 4.0
 linkTitle: is_a_comic_issue Class
 publish: true
 publishDate: 
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_comic_issue Class
 type: Type
 has_id_wikidata: Q1004
@@ -83,7 +83,7 @@ All comic issues can be uniquely identified by:
 - the issue number; and 
 - the variant description of the issue (if any).
 
-[ #is_/sub_class_of :: [[../PublicationIssue]] ] 
+[ #is_/sub_class_of :: [[../PublicationIssue]] ]
 
 #is_/same_as :: [[../../../../../WikiData/WD~Comics,1004|WD~Comics,1004]] 
 
