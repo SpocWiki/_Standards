@@ -1,27 +1,29 @@
 ---
 aliases:
-- actionable-feedback-policy
-- actionable_feedback_policy
-- actionableFeedbackPolicy
-- has_actionable_feedback_policy
+  - actionable-feedback-policy
+  - actionable_feedback_policy
+  - actionableFeedbackPolicy
+  - has_actionable_feedback_policy
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- actionable
-- feedback
-- policy
-layout: 
-license: "CC BY-SA 4.0"
+  - actionable
+  - feedback
+  - policy
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_actionable_feedback_policy
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_actionable_feedback_policy
 type: Predi_Relation
 ---

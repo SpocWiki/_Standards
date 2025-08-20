@@ -1,41 +1,37 @@
 ---
 aliases:
-- label-dash
-- label_snail
-- label
-- has_label_snail
+  - label-dash
+  - label_snail
+  - label
+  - has_label_snail
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
 enumerationtype:
-  ? enumerationtype: 
-  : 
+  "{ enumerationtype: }":
 equivalent_class:
-  ? equivalentProperty: 
-  : 
-expiryDate: 
+  "{ equivalentProperty: }":
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ? label_snail: 
-  : 
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - "{ label_snail: }":
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 publish: true
-publishDate: 
+publishDate:
 superseded_by:
-  ? supersededBy: 
-  : 
+  "{ supersededBy: }":
 supersedes:
-  ? supersedes: 
-  : 
+  "{ supersedes: }":
 tags:
-- class/Property
-- schema-org/Property
+  - class/Property
+  - schema-org/Property
 title:
-  ? has_label_snail: 
-  : 
+  "{ has_label_snail: }":
 type: Predicate
 ---
 

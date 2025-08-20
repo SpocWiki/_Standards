@@ -1,27 +1,29 @@
 ---
 aliases:
-- video-frame-size
-- video_frame_size
-- videoFrameSize
-- has_text_of_video_frame_size
+  - video-frame-size
+  - video_frame_size
+  - videoFrameSize
+  - has_text_of_video_frame_size
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- video
-- frame
-- size
-layout: 
-license: "CC BY-SA 4.0"
+  - video
+  - frame
+  - size
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_video_frame_size
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_video_frame_size
 type: Pred_Text
 ---

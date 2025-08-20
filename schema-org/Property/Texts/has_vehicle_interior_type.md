@@ -1,27 +1,29 @@
 ---
 aliases:
-- vehicle-interior-type
-- vehicle_interior_type
-- vehicleInteriorType
-- has_text_of_vehicle_interior_type
+  - vehicle-interior-type
+  - vehicle_interior_type
+  - vehicleInteriorType
+  - has_text_of_vehicle_interior_type
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- vehicle
-- interior
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - vehicle
+  - interior
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_vehicle_interior_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_vehicle_interior_type
 type: Pred_Text
 ---

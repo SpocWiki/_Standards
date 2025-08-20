@@ -1,26 +1,28 @@
 ---
 aliases:
-- work-hours
-- work_hours
-- workHours
-- has_text_of_work_hours
+  - work-hours
+  - work_hours
+  - workHours
+  - has_text_of_work_hours
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- work
-- hours
-layout: 
-license: "CC BY-SA 4.0"
+  - work
+  - hours
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_work_hours
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_work_hours
 type: Pred_Text
 ---

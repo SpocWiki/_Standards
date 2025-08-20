@@ -1,26 +1,28 @@
 ---
 aliases:
-- accountable-person
-- accountable_person
-- accountablePerson
-- has_accountable_person
+  - accountable-person
+  - accountable_person
+  - accountablePerson
+  - has_accountable_person
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- accountable
-- person
-layout: 
-license: "CC BY-SA 4.0"
+  - accountable
+  - person
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_accountable_person
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_accountable_person
 type: Predi_Relation
 ---

@@ -1,28 +1,30 @@
 ---
 aliases:
-- accepted-answer
-- accepted_answer
-- acceptedAnswer
-- has_accepted_answer
+  - accepted-answer
+  - accepted_answer
+  - acceptedAnswer
+  - has_accepted_answer
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 fileClass:
-- FileClass-Relation
+  - FileClass-Relation
 isDeleted: false
 isReadOnly: false
 keywords:
-- accepted
-- answer
-layout: 
-license: "CC BY-SA 4.0"
+  - accepted
+  - answer
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_accepted_answer
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_accepted_answer
 type: Predi_Relation
 ---

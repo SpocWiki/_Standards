@@ -31,7 +31,7 @@ Predicate to describe the Number of Accommodation, FloorPlan.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number_of_/number_of_partial_bathrooms :: Number ] or 
+- [ #has_/number_of_/partial_bathrooms :: Number ] or 
 - [ has_number_of_partial_bathrooms :: Number ] 
 
 Number of partial bathrooms - The total number of half and quarter bathrooms in an [[../../../Earth/Geography/Place/Accommodation]]. 

@@ -1,28 +1,30 @@
 ---
 aliases:
-- available-on-device
-- available_on_device
-- availableOnDevice
-- has_text_of_available_on_device
+  - available-on-device
+  - available_on_device
+  - availableOnDevice
+  - has_text_of_available_on_device
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- available
-- on
-- device
-layout: 
-license: "CC BY-SA 4.0"
+  - available
+  - on
+  - device
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_available_on_device
 publish: true
-publishDate: 
+publishDate:
 supersedes: device
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_available_on_device
 type: Pred_Text
 ---

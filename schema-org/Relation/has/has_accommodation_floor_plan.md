@@ -1,27 +1,29 @@
 ---
 aliases:
-- accommodation-floor-plan
-- accommodation_floor_plan
-- accommodationFloorPlan
-- has_accommodation_floor_plan
+  - accommodation-floor-plan
+  - accommodation_floor_plan
+  - accommodationFloorPlan
+  - has_accommodation_floor_plan
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- accommodation
-- floor
-- plan
-layout: 
-license: "CC BY-SA 4.0"
+  - accommodation
+  - floor
+  - plan
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_accommodation_floor_plan
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_accommodation_floor_plan
 type: Predi_Relation
 ---

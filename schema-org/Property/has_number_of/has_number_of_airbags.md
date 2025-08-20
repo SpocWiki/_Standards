@@ -29,7 +29,7 @@ type: Predi_Count
 Predicate to describe the Number of Vehicle.
 
 Use it like this: 
-- [ #has_/number_of_/number_of_airbags :: Number, Text ] or 
+- [ #has_/number_of_/airbags :: Number, Text ] or 
 - [ has_number_of_airbags :: Number, Text ] 
 
 The number or type of airbags in the vehicle.

@@ -1,27 +1,29 @@
 ---
 aliases:
-- access-mode-sufficient
-- access_mode_sufficient
-- accessModeSufficient
-- has_access_mode_sufficient
+  - access-mode-sufficient
+  - access_mode_sufficient
+  - accessModeSufficient
+  - has_access_mode_sufficient
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- access
-- mode
-- sufficient
-layout: 
-license: "CC BY-SA 4.0"
+  - access
+  - mode
+  - sufficient
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_access_mode_sufficient
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_access_mode_sufficient
 type: Predi_Relation
 ---
