@@ -33,7 +33,11 @@ P8189: "987007294817005171"
 
 ## #has_/text_of_/abstract  
 
-> A military, also known collectively as armed forces, is a heavily armed, highly organized force primarily intended for warfare. Militaries are typically authorized and maintained by a sovereign state, with their members identifiable by a distinct military uniform. They may consist of one or more military branches such as an army, navy, air force, space force, marines, or coast guard. The main task of a military is usually defined as defence of their state and its interests against external armed threats.
+> A military, also known collectively as armed forces, 
+> is a heavily armed, highly organized force primarily intended for warfare. 
+> 
+> Militaries are typically authorized and maintained by a sovereign state, 
+> with their members identifiable by a distinct military uniform. They may consist of one or more military branches such as an army, navy, air force, space force, marines, or coast guard. The main task of a military is usually defined as defence of their state and its interests against external armed threats.
 >
 > In broad usage, the terms "armed forces" and "military" are often synonymous, although in technical usage a distinction is sometimes made in which a country's armed forces may include other paramilitary forces such as armed police.
 >
