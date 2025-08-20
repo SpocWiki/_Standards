@@ -1,26 +1,28 @@
 ---
 aliases:
-- track
-- track
-- track
-- has_track
+  - track
+  - track
+  - track
+  - has_track
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- track
-layout: 
-license: "CC BY-SA 4.0"
+  - track
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_track
 publish: true
-publishDate: 
+publishDate:
 supersedes: tracks
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_track
 type: Predi_Relation
 ---

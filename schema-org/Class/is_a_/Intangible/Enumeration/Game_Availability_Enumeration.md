@@ -1,26 +1,27 @@
 ---
 aliases:
-- game-availability-enumeration
-- game_availability_enumeration
-- GameAvailabilityEnumeration
-- is_a_game_availability_enumeration
+  - game-availability-enumeration
+  - game_availability_enumeration
+  - GameAvailabilityEnumeration
+  - is_a_game_availability_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- game_availability_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_game_availability_enumeration Class"
+  - game_availability_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_game_availability_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_game_availability_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_game_availability_enumeration Class
 type: Type
 ---
 

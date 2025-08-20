@@ -1,26 +1,27 @@
 ---
 aliases:
-- childrens-event
-- childrens_event
-- ChildrensEvent
-- is_a_childrens_event
+  - childrens-event
+  - childrens_event
+  - ChildrensEvent
+  - is_a_childrens_event
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- childrens_event
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_childrens_event Class"
+  - childrens_event
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_childrens_event Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_childrens_event Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_childrens_event Class
 type: Type
 ---
 

@@ -1,27 +1,29 @@
 ---
 aliases:
-- price-component-type
-- price_component_type
-- priceComponentType
-- has_price_component_type
+  - price-component-type
+  - price_component_type
+  - priceComponentType
+  - has_price_component_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- price
-- component
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - price
+  - component
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_price_component_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_price_component_type
 type: Predi_Relation
 ---

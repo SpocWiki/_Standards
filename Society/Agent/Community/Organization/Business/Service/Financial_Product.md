@@ -1,26 +1,27 @@
 ---
 aliases:
-- financial-product
-- financial_product
-- FinancialProduct
-- is_a_financial_product
+  - financial-product
+  - financial_product
+  - FinancialProduct
+  - is_a_financial_product
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- financial_product
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_financial_product Class"
+  - financial_product
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_financial_product Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_financial_product Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_financial_product Class
 type: Type
 ---
 

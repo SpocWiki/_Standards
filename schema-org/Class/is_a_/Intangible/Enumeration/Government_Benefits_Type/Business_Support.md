@@ -1,27 +1,28 @@
 ---
 aliases:
-- business-support
-- business_support
-- BusinessSupport
-- is_a_business_support
+  - business-support
+  - business_support
+  - BusinessSupport
+  - is_a_business_support
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- business_support
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_business_support Class"
+  - business_support
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_business_support Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_business_support Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_business_support Class
 type: Type
 ---
 

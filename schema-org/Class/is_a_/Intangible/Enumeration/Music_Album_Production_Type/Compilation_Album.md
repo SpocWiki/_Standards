@@ -1,27 +1,28 @@
 ---
 aliases:
-- compilation-album
-- compilation_album
-- CompilationAlbum
-- is_a_compilation_album
+  - compilation-album
+  - compilation_album
+  - CompilationAlbum
+  - is_a_compilation_album
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- compilation_album
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_compilation_album Class"
+  - compilation_album
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_compilation_album Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_compilation_album Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_compilation_album Class
 type: Type
 ---
 

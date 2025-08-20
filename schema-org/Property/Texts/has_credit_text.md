@@ -1,26 +1,28 @@
 ---
 aliases:
-- credit-text
-- credit_text
-- creditText
-- has_text_of_credit_text
+  - credit-text
+  - credit_text
+  - creditText
+  - has_text_of_credit_text
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- credit
-- text
-layout: 
-license: "CC BY-SA 4.0"
+  - credit
+  - text
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_credit_text
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_credit_text
 type: Pred_Text
 ---

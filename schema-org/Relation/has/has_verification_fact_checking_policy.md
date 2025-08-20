@@ -1,28 +1,30 @@
 ---
 aliases:
-- verification-fact-checking-policy
-- verification_fact_checking_policy
-- verificationFactCheckingPolicy
-- has_verification_fact_checking_policy
+  - verification-fact-checking-policy
+  - verification_fact_checking_policy
+  - verificationFactCheckingPolicy
+  - has_verification_fact_checking_policy
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- verification
-- fact
-- checking
-- policy
-layout: 
-license: "CC BY-SA 4.0"
+  - verification
+  - fact
+  - checking
+  - policy
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_verification_fact_checking_policy
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_verification_fact_checking_policy
 type: Predi_Relation
 ---

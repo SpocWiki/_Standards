@@ -1,26 +1,27 @@
 ---
 aliases:
-- waterfall
-- waterfall
-- Waterfall
-- is_a_waterfall
+  - waterfall
+  - waterfall
+  - Waterfall
+  - is_a_waterfall
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- waterfall
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_waterfall Class"
+  - waterfall
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_waterfall Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_waterfall Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_waterfall Class
 type: Type
 ---
 

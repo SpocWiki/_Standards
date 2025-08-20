@@ -6,18 +6,19 @@ aliases:
   - is_a_landmarks_or_historical_buildings
 has_id_wikidata: Q2319498
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - landmarks_or_historical_buildings
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_a_landmarks_or_historical_buildings Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class

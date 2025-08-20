@@ -1,26 +1,27 @@
 ---
 aliases:
-- web-site
-- web_site
-- WebSite
-- is_a_web_site
+  - web-site
+  - web_site
+  - WebSite
+  - is_a_web_site
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- web_site
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_web_site Class"
+  - web_site
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_web_site Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_web_site Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_web_site Class
 type: Type
 ---
 

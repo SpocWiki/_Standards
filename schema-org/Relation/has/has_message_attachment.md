@@ -1,26 +1,28 @@
 ---
 aliases:
-- message-attachment
-- message_attachment
-- messageAttachment
-- has_message_attachment
+  - message-attachment
+  - message_attachment
+  - messageAttachment
+  - has_message_attachment
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- message
-- attachment
-layout: 
-license: "CC BY-SA 4.0"
+  - message
+  - attachment
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_message_attachment
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_message_attachment
 type: Predi_Relation
 ---

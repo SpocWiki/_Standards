@@ -1,26 +1,27 @@
 ---
 aliases:
-- want-action
-- want_action
-- WantAction
-- is_a_want_action
+  - want-action
+  - want_action
+  - WantAction
+  - is_a_want_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- want_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_want_action Class"
+  - want_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_want_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_want_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_want_action Class
 type: Type
 ---
 

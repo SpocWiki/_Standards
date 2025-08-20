@@ -1,26 +1,27 @@
 ---
 aliases:
-- FALSE
-- FALSE
-- FALSE
-- is_a_FALSE
+  - false
+  - false
+  - false
+  - is_a_FALSE
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- FALSE
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_FALSE Class"
+  - false
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_FALSE Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_FALSE Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_FALSE Class
 type: Type
 ---
 

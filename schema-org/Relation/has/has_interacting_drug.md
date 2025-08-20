@@ -1,26 +1,28 @@
 ---
 aliases:
-- interacting-drug
-- interacting_drug
-- interactingDrug
-- has_interacting_drug
+  - interacting-drug
+  - interacting_drug
+  - interactingDrug
+  - has_interacting_drug
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- interacting
-- drug
-layout: 
-license: "CC BY-SA 4.0"
+  - interacting
+  - drug
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_interacting_drug
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_interacting_drug
 type: Predi_Relation
 ---

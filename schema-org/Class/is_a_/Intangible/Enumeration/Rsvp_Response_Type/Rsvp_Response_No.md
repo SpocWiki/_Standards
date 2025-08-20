@@ -1,27 +1,28 @@
 ---
 aliases:
-- rsvp-response-no
-- rsvp_response_no
-- RsvpResponseNo
-- is_a_rsvp_response_no
+  - rsvp-response-no
+  - rsvp_response_no
+  - RsvpResponseNo
+  - is_a_rsvp_response_no
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: RsvpResponseType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rsvp_response_no
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_rsvp_response_no Class"
+  - rsvp_response_no
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_rsvp_response_no Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_rsvp_response_no Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_rsvp_response_no Class
 type: Type
 ---
 

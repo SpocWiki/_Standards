@@ -1,26 +1,27 @@
 ---
 aliases:
-- Ratak_Chain
+  - Ratak_Chain
 confidential: public
-cssclasses: geo-Region
+cssclasses:
+  - geo-Region
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords:
 Languages:
-- de
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - de
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 location:
-- 6.06
-- 171.98
+  - 6.06
+  - 171.98
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate:
+source: https://datahub.io/core/country-codes
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 title: Ratak_Chain
 type: geo-Region
 ---

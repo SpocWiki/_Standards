@@ -1,27 +1,29 @@
 ---
 aliases:
-- disease-spread-statistics
-- disease_spread_statistics
-- diseaseSpreadStatistics
-- has_disease_spread_statistics
+  - disease-spread-statistics
+  - disease_spread_statistics
+  - diseaseSpreadStatistics
+  - has_disease_spread_statistics
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- disease
-- spread
-- statistics
-layout: 
-license: "CC BY-SA 4.0"
+  - disease
+  - spread
+  - statistics
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_disease_spread_statistics
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_disease_spread_statistics
 type: Predi_Relation
 ---

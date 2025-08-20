@@ -1,26 +1,27 @@
 ---
 aliases:
-- researcher
-- researcher
-- Researcher
-- is_a_researcher
+  - researcher
+  - researcher
+  - Researcher
+  - is_a_researcher
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- researcher
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_researcher Class"
+  - researcher
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_researcher Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_researcher Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_researcher Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-size-group-womens
-- wearable_size_group_womens
-- WearableSizeGroupWomens
-- is_a_wearable_size_group_womens
+  - wearable-size-group-womens
+  - wearable_size_group_womens
+  - WearableSizeGroupWomens
+  - is_a_wearable_size_group_womens
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_size_group_womens
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_size_group_womens Class"
+  - wearable_size_group_womens
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_size_group_womens Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_size_group_womens Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_size_group_womens Class
 type: Type
 ---
 

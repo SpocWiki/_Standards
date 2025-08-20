@@ -1,26 +1,27 @@
 ---
 aliases:
-- warranty-scope
-- warranty_scope
-- WarrantyScope
-- is_a_warranty_scope
+  - warranty-scope
+  - warranty_scope
+  - WarrantyScope
+  - is_a_warranty_scope
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- warranty_scope
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_warranty_scope Class"
+  - warranty_scope
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_warranty_scope Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_warranty_scope Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_warranty_scope Class
 type: Type
 ---
 

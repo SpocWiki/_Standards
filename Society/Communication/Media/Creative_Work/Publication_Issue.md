@@ -1,27 +1,28 @@
 ---
 aliases:
-- publication-issue
-- publication_issue
-- PublicationIssue
-- is_a_publication_issue
+  - publication-issue
+  - publication_issue
+  - PublicationIssue
+  - is_a_publication_issue
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-equivalent_class: "http://purl.org/ontology/bibo/Issue"
-expiryDate: 
+equivalent_class: http://purl.org/ontology/bibo/Issue
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- publication_issue
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_publication_issue Class"
+  - publication_issue
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_publication_issue Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_publication_issue Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_publication_issue Class
 type: Type
 ---
 

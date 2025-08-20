@@ -1,26 +1,28 @@
 ---
 aliases:
-- included-composition
-- included_composition
-- includedComposition
-- has_included_composition
+  - included-composition
+  - included_composition
+  - includedComposition
+  - has_included_composition
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- included
-- composition
-layout: 
-license: "CC BY-SA 4.0"
+  - included
+  - composition
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_included_composition
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_included_composition
 type: Predi_Relation
 ---

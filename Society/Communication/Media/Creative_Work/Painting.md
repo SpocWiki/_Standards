@@ -1,26 +1,27 @@
 ---
 aliases:
-- painting
-- painting
-- Painting
-- is_a_painting
+  - painting
+  - painting
+  - Painting
+  - is_a_painting
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- painting
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_painting Class"
+  - painting
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_painting Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_painting Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_painting Class
 type: Type
 ---
 

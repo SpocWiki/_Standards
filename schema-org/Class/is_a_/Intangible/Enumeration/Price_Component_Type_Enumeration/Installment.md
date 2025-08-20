@@ -1,27 +1,28 @@
 ---
 aliases:
-- installment
-- installment
-- Installment
-- is_an_installment
+  - installment
+  - installment
+  - Installment
+  - is_an_installment
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PriceComponentTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- installment
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_installment Class"
+  - installment
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_installment Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_installment Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_installment Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- health-condition
-- health_condition
-- healthCondition
-- has_health_condition
+  - health-condition
+  - health_condition
+  - healthCondition
+  - has_health_condition
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health
-- condition
-layout: 
-license: "CC BY-SA 4.0"
+  - health
+  - condition
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_health_condition
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_health_condition
 type: Predi_Relation
 ---

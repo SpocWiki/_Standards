@@ -1,27 +1,28 @@
 ---
 aliases:
-- order-pickup-available
-- order_pickup_available
-- OrderPickupAvailable
-- is_an_order_pickup_available
+  - order-pickup-available
+  - order_pickup_available
+  - OrderPickupAvailable
+  - is_an_order_pickup_available
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: OrderStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- order_pickup_available
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_order_pickup_available Class"
+  - order_pickup_available
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_order_pickup_available Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_order_pickup_available Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_order_pickup_available Class
 type: Type
 ---
 

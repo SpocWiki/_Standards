@@ -1,26 +1,27 @@
 ---
 aliases:
-- mobile-phone-store
-- mobile_phone_store
-- MobilePhoneStore
-- is_a_mobile_phone_store
+  - mobile-phone-store
+  - mobile_phone_store
+  - MobilePhoneStore
+  - is_a_mobile_phone_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- mobile_phone_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_mobile_phone_store Class"
+  - mobile_phone_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_mobile_phone_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_mobile_phone_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_mobile_phone_store Class
 type: Type
 ---
 

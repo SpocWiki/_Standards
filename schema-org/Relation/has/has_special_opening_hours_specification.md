@@ -1,28 +1,30 @@
 ---
 aliases:
-- special-opening-hours-specification
-- special_opening_hours_specification
-- specialOpeningHoursSpecification
-- has_special_opening_hours_specification
+  - special-opening-hours-specification
+  - special_opening_hours_specification
+  - specialOpeningHoursSpecification
+  - has_special_opening_hours_specification
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- special
-- opening
-- hours
-- specification
-layout: 
-license: "CC BY-SA 4.0"
+  - special
+  - opening
+  - hours
+  - specification
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_special_opening_hours_specification
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_special_opening_hours_specification
 type: Predi_Relation
 ---

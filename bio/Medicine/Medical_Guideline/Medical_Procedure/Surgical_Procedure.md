@@ -1,27 +1,28 @@
 ---
 aliases:
-- surgical-procedure
-- surgical_procedure
-- SurgicalProcedure
-- is_a_surgical_procedure
+  - surgical-procedure
+  - surgical_procedure
+  - SurgicalProcedure
+  - is_a_surgical_procedure
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-equivalent_class: "http://purl.bioontology.org/ontology/SNOMEDCT/387713003"
-expiryDate: 
+equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/387713003
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- surgical_procedure
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_surgical_procedure Class"
+  - surgical_procedure
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_surgical_procedure Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_surgical_procedure Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_surgical_procedure Class
 type: Type
 ---
 

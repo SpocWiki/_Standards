@@ -1,25 +1,27 @@
 ---
 aliases:
-- child_max_age
-- child-max-age
-- childMaxAge
-- has_value_for_child_max_age
+  - child_max_age
+  - child-max-age
+  - childMaxAge
+  - has_value_for_child_max_age
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- child-max-age
-layout: 
-license: "CC BY-SA 4.0"
+  - child-max-age
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_child-max-age
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_child-max-age
 type: Predi_Quantity
 ---

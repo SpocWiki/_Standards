@@ -1,27 +1,29 @@
 ---
 aliases:
-- return-policy-category
-- return_policy_category
-- returnPolicyCategory
-- has_return_policy_category
+  - return-policy-category
+  - return_policy_category
+  - returnPolicyCategory
+  - has_return_policy_category
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return
-- policy
-- category
-layout: 
-license: "CC BY-SA 4.0"
+  - return
+  - policy
+  - category
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_return_policy_category
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_return_policy_category
 type: Predi_Relation
 ---

@@ -1,27 +1,29 @@
 ---
 aliases:
-- part-of-trip
-- part_of_trip
-- partOfTrip
-- is_part_of_trip
+  - part-of-trip
+  - part_of_trip
+  - partOfTrip
+  - is_part_of_trip
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- part
-- of
-- trip
-layout: 
-license: "CC BY-SA 4.0"
+  - part
+  - of
+  - trip
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_part_of_trip
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_part_of_trip
 type: Predi_Relation
 ---

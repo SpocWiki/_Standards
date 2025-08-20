@@ -1,27 +1,29 @@
 ---
 aliases:
-- legislation-passed-by
-- legislation_passed_by
-- legislationPassedBy
-- is_legislation_passed_by
+  - legislation-passed-by
+  - legislation_passed_by
+  - legislationPassedBy
+  - is_legislation_passed_by
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legislation
-- passed
-- by
-layout: 
-license: "CC BY-SA 4.0"
+  - legislation
+  - passed
+  - by
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_legislation_passed_by
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_legislation_passed_by
 type: Predi_Relation
 ---

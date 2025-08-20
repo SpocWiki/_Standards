@@ -1,25 +1,27 @@
 ---
 aliases:
-- typical-credits-per-term
-- typical_credits_per_term
-- typicalCreditsPerTerm
-- has_number_of_credits_per_term_typical
+  - typical-credits-per-term
+  - typical_credits_per_term
+  - typicalCreditsPerTerm
+  - has_number_of_credits_per_term_typical
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- typical_credits_per_term
-layout: 
-license: "CC BY-SA 4.0"
+  - typical_credits_per_term
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_typical_credits_per_term
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_typical_credits_per_term
 type: Predi_Count
 ---

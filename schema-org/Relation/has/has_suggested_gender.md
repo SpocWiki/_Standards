@@ -1,26 +1,28 @@
 ---
 aliases:
-- suggested-gender
-- suggested_gender
-- suggestedGender
-- has_suggested_gender
+  - suggested-gender
+  - suggested_gender
+  - suggestedGender
+  - has_suggested_gender
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- suggested
-- gender
-layout: 
-license: "CC BY-SA 4.0"
+  - suggested
+  - gender
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_suggested_gender
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_suggested_gender
 type: Predi_Relation
 ---

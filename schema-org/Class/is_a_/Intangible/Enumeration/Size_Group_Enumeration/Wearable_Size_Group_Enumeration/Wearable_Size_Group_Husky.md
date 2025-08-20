@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-size-group-husky
-- wearable_size_group_husky
-- WearableSizeGroupHusky
-- is_a_wearable_size_group_husky
+  - wearable-size-group-husky
+  - wearable_size_group_husky
+  - WearableSizeGroupHusky
+  - is_a_wearable_size_group_husky
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_size_group_husky
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_size_group_husky Class"
+  - wearable_size_group_husky
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_size_group_husky Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_size_group_husky Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_size_group_husky Class
 type: Type
 ---
 

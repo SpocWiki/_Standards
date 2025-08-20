@@ -1,26 +1,27 @@
 ---
 aliases:
-- reservoir
-- reservoir
-- Reservoir
-- is_a_reservoir
+  - reservoir
+  - reservoir
+  - Reservoir
+  - is_a_reservoir
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reservoir
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_reservoir Class"
+  - reservoir
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_reservoir Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_reservoir Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_reservoir Class
 type: Type
 ---
 

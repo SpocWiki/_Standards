@@ -1,26 +1,28 @@
 ---
 aliases:
-- educational-role
-- educational_role
-- educationalRole
-- has_text_of_educational_role
+  - educational-role
+  - educational_role
+  - educationalRole
+  - has_text_of_educational_role
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- educational
-- role
-layout: 
-license: "CC BY-SA 4.0"
+  - educational
+  - role
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_educational_role
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_educational_role
 type: Pred_Text
 ---

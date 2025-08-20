@@ -1,26 +1,28 @@
 ---
 aliases:
-- acriss-code
-- acriss_code
-- acrissCode
-- has_code_acriss
+  - acriss-code
+  - acriss_code
+  - acrissCode
+  - has_code_acriss
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- acriss
-- code
-layout: 
-license: "CC BY-SA 4.0"
+  - acriss
+  - code
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_code_acriss
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_code_acriss
 type: Pred_Text
 ---

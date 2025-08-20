@@ -1,26 +1,27 @@
 ---
 aliases:
-- flight-reservation
-- flight_reservation
-- FlightReservation
-- is_a_flight_reservation
+  - flight-reservation
+  - flight_reservation
+  - FlightReservation
+  - is_a_flight_reservation
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- flight_reservation
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_flight_reservation Class"
+  - flight_reservation
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_flight_reservation Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_flight_reservation Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_flight_reservation Class
 type: Type
 ---
 

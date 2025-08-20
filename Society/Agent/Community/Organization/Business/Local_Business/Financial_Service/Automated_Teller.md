@@ -1,26 +1,27 @@
 ---
 aliases:
-- automated-teller
-- automated_teller
-- AutomatedTeller
-- is_an_automated_teller
+  - automated-teller
+  - automated_teller
+  - AutomatedTeller
+  - is_an_automated_teller
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- automated_teller
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_automated_teller Class"
+  - automated_teller
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_automated_teller Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_automated_teller Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_automated_teller Class
 type: Type
 ---
 

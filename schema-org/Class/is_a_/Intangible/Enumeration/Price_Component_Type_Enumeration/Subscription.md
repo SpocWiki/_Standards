@@ -1,27 +1,28 @@
 ---
 aliases:
-- subscription
-- subscription
-- Subscription
-- is_a_subscription
+  - subscription
+  - subscription
+  - Subscription
+  - is_a_subscription
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PriceComponentTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- subscription
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_subscription Class"
+  - subscription
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_subscription Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_subscription Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_subscription Class
 type: Type
 ---
 

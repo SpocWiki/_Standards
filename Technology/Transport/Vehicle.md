@@ -1,26 +1,27 @@
 ---
 aliases:
-- vehicle
-- vehicle
-- Vehicle
-- is_a_vehicle
+  - vehicle
+  - vehicle
+  - Vehicle
+  - is_a_vehicle
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- vehicle
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_vehicle Class"
+  - vehicle
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_vehicle Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_vehicle Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_vehicle Class
 type: Type
 ---
 

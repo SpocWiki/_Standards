@@ -1,26 +1,27 @@
 ---
 aliases:
-- distillery
-- distillery
-- Distillery
-- is_a_distillery
+  - distillery
+  - distillery
+  - Distillery
+  - is_a_distillery
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- distillery
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_distillery Class"
+  - distillery
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_distillery Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_distillery Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_distillery Class
 type: Type
 ---
 

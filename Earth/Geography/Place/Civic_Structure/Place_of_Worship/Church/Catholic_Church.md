@@ -1,26 +1,27 @@
 ---
 aliases:
-- catholic-church
-- catholic_church
-- CatholicChurch
-- is_a_catholic_church
+  - catholic-church
+  - catholic_church
+  - CatholicChurch
+  - is_a_catholic_church
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- catholic_church
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_catholic_church Class"
+  - catholic_church
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_catholic_church Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_catholic_church Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_catholic_church Class
 type: Type
 ---
 

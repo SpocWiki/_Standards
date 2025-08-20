@@ -1,26 +1,27 @@
 ---
 aliases:
-- media-object
-- media_object
-- MediaObject
-- is_a_media_object
+  - media-object
+  - media_object
+  - MediaObject
+  - is_a_media_object
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- media_object
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_media_object Class"
+  - media_object
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_media_object Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_media_object Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_media_object Class
 type: Type
 ---
 

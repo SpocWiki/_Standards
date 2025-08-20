@@ -1,27 +1,28 @@
 ---
 aliases:
-- invoice-price
-- invoice_price
-- InvoicePrice
-- is_an_invoice_price
+  - invoice-price
+  - invoice_price
+  - InvoicePrice
+  - is_an_invoice_price
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PriceTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- invoice_price
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_invoice_price Class"
+  - invoice_price
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_invoice_price Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_invoice_price Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_invoice_price Class
 type: Type
 ---
 

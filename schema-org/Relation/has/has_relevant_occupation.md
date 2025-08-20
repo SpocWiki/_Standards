@@ -1,26 +1,28 @@
 ---
 aliases:
-- relevant-occupation
-- relevant_occupation
-- relevantOccupation
-- has_relevant_occupation
+  - relevant-occupation
+  - relevant_occupation
+  - relevantOccupation
+  - has_relevant_occupation
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- relevant
-- occupation
-layout: 
-license: "CC BY-SA 4.0"
+  - relevant
+  - occupation
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_relevant_occupation
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_relevant_occupation
 type: Predi_Relation
 ---

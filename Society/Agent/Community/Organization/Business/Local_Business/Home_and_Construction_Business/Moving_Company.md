@@ -1,26 +1,27 @@
 ---
 aliases:
-- moving-company
-- moving_company
-- MovingCompany
-- is_a_moving_company
+  - moving-company
+  - moving_company
+  - MovingCompany
+  - is_a_moving_company
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- moving_company
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_moving_company Class"
+  - moving_company
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_moving_company Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_moving_company Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_moving_company Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- amusement-park
-- amusement_park
-- AmusementPark
-- is_an_amusement_park
+  - amusement-park
+  - amusement_park
+  - AmusementPark
+  - is_an_amusement_park
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- amusement_park
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_amusement_park Class"
+  - amusement_park
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_amusement_park Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_amusement_park Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_amusement_park Class
 type: Type
 ---
 

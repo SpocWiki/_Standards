@@ -1,28 +1,29 @@
 ---
 aliases:
-- order
-- order
-- Order
-- is_an_order
+  - order
+  - order
+  - Order
+  - is_an_order
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 fileClass:
-- FileClass-Class
+  - FileClass-Class
 isDeleted: false
 isReadOnly: false
 keywords:
-- order
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_order Class"
+  - order
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_order Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_order Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_order Class
 type: Type
 ---
 

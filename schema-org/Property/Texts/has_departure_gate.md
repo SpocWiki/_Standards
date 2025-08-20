@@ -1,26 +1,28 @@
 ---
 aliases:
-- departure-gate
-- departure_gate
-- departureGate
-- has_text_of_departure_gate
+  - departure-gate
+  - departure_gate
+  - departureGate
+  - has_text_of_departure_gate
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- departure
-- gate
-layout: 
-license: "CC BY-SA 4.0"
+  - departure
+  - gate
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_departure_gate
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_departure_gate
 type: Pred_Text
 ---

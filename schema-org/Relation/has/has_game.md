@@ -1,25 +1,27 @@
 ---
 aliases:
-- game
-- game
-- game
-- has_game
+  - game
+  - game
+  - game
+  - has_game
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- game
-layout: 
-license: "CC BY-SA 4.0"
+  - game
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_game
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_game
 type: Predi_Relation
 ---

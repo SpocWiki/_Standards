@@ -1,26 +1,27 @@
 ---
 aliases:
-- parent-audience
-- parent_audience
-- ParentAudience
-- is_a_parent_audience
+  - parent-audience
+  - parent_audience
+  - ParentAudience
+  - is_a_parent_audience
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- parent_audience
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_parent_audience Class"
+  - parent_audience
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_parent_audience Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_parent_audience Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_parent_audience Class
 type: Type
 ---
 

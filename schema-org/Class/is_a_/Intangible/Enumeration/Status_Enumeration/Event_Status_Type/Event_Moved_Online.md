@@ -1,27 +1,28 @@
 ---
 aliases:
-- event-moved-online
-- event_moved_online
-- EventMovedOnline
-- is_an_event_moved_online
+  - event-moved-online
+  - event_moved_online
+  - EventMovedOnline
+  - is_an_event_moved_online
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: EventStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- event_moved_online
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_event_moved_online Class"
+  - event_moved_online
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_event_moved_online Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_event_moved_online Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_event_moved_online Class
 type: Type
 ---
 

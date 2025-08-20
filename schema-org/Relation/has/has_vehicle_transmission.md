@@ -1,26 +1,28 @@
 ---
 aliases:
-- vehicle-transmission
-- vehicle_transmission
-- vehicleTransmission
-- has_vehicle_transmission
+  - vehicle-transmission
+  - vehicle_transmission
+  - vehicleTransmission
+  - has_vehicle_transmission
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- vehicle
-- transmission
-layout: 
-license: "CC BY-SA 4.0"
+  - vehicle
+  - transmission
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_vehicle_transmission
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_vehicle_transmission
 type: Predi_Relation
 ---

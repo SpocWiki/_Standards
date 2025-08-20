@@ -1,26 +1,27 @@
 ---
 aliases:
-- postal-address
-- postal_address
-- PostalAddress
-- is_a_postal_address
+  - postal-address
+  - postal_address
+  - PostalAddress
+  - is_a_postal_address
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- postal_address
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_postal_address Class"
+  - postal_address
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_postal_address Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_postal_address Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_postal_address Class
 type: Type
 ---
 

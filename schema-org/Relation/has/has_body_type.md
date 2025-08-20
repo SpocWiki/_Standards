@@ -1,26 +1,28 @@
 ---
 aliases:
-- body-type
-- body_type
-- bodyType
-- has_body_type
+  - body-type
+  - body_type
+  - bodyType
+  - has_body_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- body
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - body
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_body_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_body_type
 type: Predi_Relation
 ---

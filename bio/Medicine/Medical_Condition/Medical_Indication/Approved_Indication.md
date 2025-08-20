@@ -1,26 +1,27 @@
 ---
 aliases:
-- approved-indication
-- approved_indication
-- ApprovedIndication
-- is_an_approved_indication
+  - approved-indication
+  - approved_indication
+  - ApprovedIndication
+  - is_an_approved_indication
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- approved_indication
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_approved_indication Class"
+  - approved_indication
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_approved_indication Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_approved_indication Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_approved_indication Class
 type: Type
 ---
 

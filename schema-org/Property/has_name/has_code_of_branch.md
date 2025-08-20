@@ -1,26 +1,28 @@
 ---
 aliases:
-- branch-code
-- code_of_branch
-- branchCode
-- has_code_of_branch
+  - branch-code
+  - code_of_branch
+  - branchCode
+  - has_code_of_branch
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- branch
-- code
-layout: 
-license: "CC BY-SA 4.0"
+  - branch
+  - code
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_code_of_branch
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_code_of_branch
 type: Pred_Text
 ---

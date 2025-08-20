@@ -1,27 +1,28 @@
 ---
 aliases:
-- randomized-trial
-- randomized_trial
-- RandomizedTrial
-- is_a_randomized_trial
+  - randomized-trial
+  - randomized_trial
+  - RandomizedTrial
+  - is_a_randomized_trial
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalTrialDesign
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- randomized_trial
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_randomized_trial Class"
+  - randomized_trial
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_randomized_trial Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_randomized_trial Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_randomized_trial Class
 type: Type
 ---
 

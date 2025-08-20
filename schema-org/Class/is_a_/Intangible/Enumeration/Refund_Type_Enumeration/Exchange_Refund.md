@@ -1,27 +1,28 @@
 ---
 aliases:
-- exchange-refund
-- exchange_refund
-- ExchangeRefund
-- is_an_exchange_refund
+  - exchange-refund
+  - exchange_refund
+  - ExchangeRefund
+  - is_an_exchange_refund
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: RefundTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- exchange_refund
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_exchange_refund Class"
+  - exchange_refund
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_exchange_refund Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_exchange_refund Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_exchange_refund Class
 type: Type
 ---
 

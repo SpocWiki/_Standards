@@ -1,26 +1,27 @@
 ---
 aliases:
-- radio-episode
-- radio_episode
-- RadioEpisode
-- is_a_radio_episode
+  - radio-episode
+  - radio_episode
+  - RadioEpisode
+  - is_a_radio_episode
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- radio_episode
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_radio_episode Class"
+  - radio_episode
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_radio_episode Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_radio_episode Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_radio_episode Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- preschool
-- preschool
-- Preschool
-- is_a_preschool
+  - preschool
+  - preschool
+  - Preschool
+  - is_a_preschool
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- preschool
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_preschool Class"
+  - preschool
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_preschool Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_preschool Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_preschool Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- payment-status
-- payment_status
-- paymentStatus
-- has_payment_status
+  - payment-status
+  - payment_status
+  - paymentStatus
+  - has_payment_status
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- payment
-- status
-layout: 
-license: "CC BY-SA 4.0"
+  - payment
+  - status
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_payment_status
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_payment_status
 type: Predi_Relation
 ---

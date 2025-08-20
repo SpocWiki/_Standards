@@ -1,27 +1,29 @@
 ---
 aliases:
-- in-ch-i
-- in_ch_i
-- inChI
-- has_text_of_in_ch_i
+  - in-ch-i
+  - in_ch_i
+  - inChI
+  - has_text_of_in_ch_i
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- in
-- ch
-- i
-layout: 
-license: "CC BY-SA 4.0"
+  - in
+  - ch
+  - i
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_in_ch_i
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_in_ch_i
 type: Pred_Text
 ---

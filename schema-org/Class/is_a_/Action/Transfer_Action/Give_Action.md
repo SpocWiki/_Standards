@@ -1,26 +1,27 @@
 ---
 aliases:
-- give-action
-- give_action
-- GiveAction
-- is_a_give_action
+  - give-action
+  - give_action
+  - GiveAction
+  - is_a_give_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- give_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_give_action Class"
+  - give_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_give_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_give_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_give_action Class
 type: Type
 ---
 

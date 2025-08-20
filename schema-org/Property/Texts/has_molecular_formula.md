@@ -1,26 +1,28 @@
 ---
 aliases:
-- molecular-formula
-- molecular_formula
-- molecularFormula
-- has_text_of_molecular_formula
+  - molecular-formula
+  - molecular_formula
+  - molecularFormula
+  - has_text_of_molecular_formula
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- molecular
-- formula
-layout: 
-license: "CC BY-SA 4.0"
+  - molecular
+  - formula
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_molecular_formula
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_molecular_formula
 type: Pred_Text
 ---

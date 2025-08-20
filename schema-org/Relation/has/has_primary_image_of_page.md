@@ -1,28 +1,30 @@
 ---
 aliases:
-- primary-image-of-page
-- primary_image_of_page
-- primaryImageOfPage
-- has_primary_image_of_page
+  - primary-image-of-page
+  - primary_image_of_page
+  - primaryImageOfPage
+  - has_primary_image_of_page
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- primary
-- image
-- of
-- page
-layout: 
-license: "CC BY-SA 4.0"
+  - primary
+  - image
+  - of
+  - page
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_primary_image_of_page
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_primary_image_of_page
 type: Predi_Relation
 ---

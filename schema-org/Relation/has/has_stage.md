@@ -1,25 +1,27 @@
 ---
 aliases:
-- stage
-- stage
-- stage
-- has_stage
+  - stage
+  - stage
+  - stage
+  - has_stage
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- stage
-layout: 
-license: "CC BY-SA 4.0"
+  - stage
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_stage
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_stage
 type: Predi_Relation
 ---

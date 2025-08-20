@@ -1,26 +1,28 @@
 ---
 aliases:
-- shared-content
-- shared_content
-- sharedContent
-- has_shared_content
+  - shared-content
+  - shared_content
+  - sharedContent
+  - has_shared_content
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- shared
-- content
-layout: 
-license: "CC BY-SA 4.0"
+  - shared
+  - content
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_shared_content
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_shared_content
 type: Predi_Relation
 ---

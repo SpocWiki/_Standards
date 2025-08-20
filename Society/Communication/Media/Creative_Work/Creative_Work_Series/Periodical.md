@@ -1,27 +1,28 @@
 ---
 aliases:
-- periodical
-- periodical
-- Periodical
-- is_a_periodical
+  - periodical
+  - periodical
+  - Periodical
+  - is_a_periodical
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-equivalent_class: "http://purl.org/ontology/bibo/Periodical"
-expiryDate: 
+equivalent_class: http://purl.org/ontology/bibo/Periodical
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- periodical
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_periodical Class"
+  - periodical
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_periodical Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_periodical Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_periodical Class
 type: Type
 ---
 

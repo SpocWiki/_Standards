@@ -1,27 +1,28 @@
 ---
 aliases:
-- reservation-hold
-- reservation_hold
-- ReservationHold
-- is_a_reservation_hold
+  - reservation-hold
+  - reservation_hold
+  - ReservationHold
+  - is_a_reservation_hold
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReservationStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reservation_hold
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_reservation_hold Class"
+  - reservation_hold
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_reservation_hold Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_reservation_hold Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_reservation_hold Class
 type: Type
 ---
 

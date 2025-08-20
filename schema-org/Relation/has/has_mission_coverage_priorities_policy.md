@@ -1,28 +1,30 @@
 ---
 aliases:
-- mission-coverage-priorities-policy
-- mission_coverage_priorities_policy
-- missionCoveragePrioritiesPolicy
-- has_mission_coverage_priorities_policy
+  - mission-coverage-priorities-policy
+  - mission_coverage_priorities_policy
+  - missionCoveragePrioritiesPolicy
+  - has_mission_coverage_priorities_policy
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- mission
-- coverage
-- priorities
-- policy
-layout: 
-license: "CC BY-SA 4.0"
+  - mission
+  - coverage
+  - priorities
+  - policy
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_mission_coverage_priorities_policy
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_mission_coverage_priorities_policy
 type: Predi_Relation
 ---

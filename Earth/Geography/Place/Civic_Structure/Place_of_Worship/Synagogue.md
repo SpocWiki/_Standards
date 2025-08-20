@@ -1,26 +1,27 @@
 ---
 aliases:
-- synagogue
-- synagogue
-- Synagogue
-- is_a_synagogue
+  - synagogue
+  - synagogue
+  - Synagogue
+  - is_a_synagogue
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- synagogue
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_synagogue Class"
+  - synagogue
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_synagogue Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_synagogue Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_synagogue Class
 type: Type
 ---
 

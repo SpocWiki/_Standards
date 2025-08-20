@@ -1,27 +1,28 @@
 ---
 aliases:
-- urologic
-- urologic
-- Urologic
-- is_a_urologic
+  - urologic
+  - urologic
+  - Urologic
+  - is_a_urologic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- urologic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_urologic Class"
+  - urologic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_urologic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_urologic Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_urologic Class
 type: Type
 ---
 

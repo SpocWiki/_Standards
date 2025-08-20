@@ -1,26 +1,27 @@
 ---
 aliases:
-- boat-terminal
-- boat_terminal
-- BoatTerminal
-- is_a_boat_terminal
+  - boat-terminal
+  - boat_terminal
+  - BoatTerminal
+  - is_a_boat_terminal
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- boat_terminal
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_boat_terminal Class"
+  - boat_terminal
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_boat_terminal Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_boat_terminal Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_boat_terminal Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- server-status
-- server_status
-- serverStatus
-- has_server_status
+  - server-status
+  - server_status
+  - serverStatus
+  - has_server_status
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- server
-- status
-layout: 
-license: "CC BY-SA 4.0"
+  - server
+  - status
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_server_status
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_server_status
 type: Predi_Relation
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- duplicate-therapy
-- duplicate_therapy
-- duplicateTherapy
-- has_duplicate_therapy
+  - duplicate-therapy
+  - duplicate_therapy
+  - duplicateTherapy
+  - has_duplicate_therapy
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- duplicate
-- therapy
-layout: 
-license: "CC BY-SA 4.0"
+  - duplicate
+  - therapy
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_duplicate_therapy
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_duplicate_therapy
 type: Predi_Relation
 ---

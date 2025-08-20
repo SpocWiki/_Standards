@@ -1,27 +1,29 @@
 ---
 aliases:
-- type-of-bed
-- type_of_bed
-- typeOfBed
-- has_type_of_bed
+  - type-of-bed
+  - type_of_bed
+  - typeOfBed
+  - has_type_of_bed
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- type
-- of
-- bed
-layout: 
-license: "CC BY-SA 4.0"
+  - type
+  - of
+  - bed
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_type_of_bed
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_type_of_bed
 type: Predi_Relation
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- lei-code
-- id_lei
-- leiCode
-- has_id_lei
+  - lei-code
+  - id_lei
+  - leiCode
+  - has_id_lei
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- lei
-- code
-layout: 
-license: "CC BY-SA 4.0"
+  - lei
+  - code
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_lei
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_lei
 type: Pred_Text
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- exercise-plan
-- exercise_plan
-- exercisePlan
-- has_exercise_plan
+  - exercise-plan
+  - exercise_plan
+  - exercisePlan
+  - has_exercise_plan
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- exercise
-- plan
-layout: 
-license: "CC BY-SA 4.0"
+  - exercise
+  - plan
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_exercise_plan
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_exercise_plan
 type: Predi_Relation
 ---

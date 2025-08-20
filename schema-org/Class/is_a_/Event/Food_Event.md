@@ -1,26 +1,27 @@
 ---
 aliases:
-- food-event
-- food_event
-- FoodEvent
-- is_a_food_event
+  - food-event
+  - food_event
+  - FoodEvent
+  - is_a_food_event
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- food_event
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_food_event Class"
+  - food_event
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_food_event Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_food_event Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_food_event Class
 type: Type
 ---
 

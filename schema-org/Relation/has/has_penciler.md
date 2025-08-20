@@ -1,25 +1,27 @@
 ---
 aliases:
-- penciler
-- penciler
-- penciler
-- has_penciler
+  - penciler
+  - penciler
+  - penciler
+  - has_penciler
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- penciler
-layout: 
-license: "CC BY-SA 4.0"
+  - penciler
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_penciler
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_penciler
 type: Predi_Relation
 ---

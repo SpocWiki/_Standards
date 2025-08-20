@@ -1,27 +1,28 @@
 ---
 aliases:
-- neuro
-- neuro
-- Neuro
-- is_a_neuro
+  - neuro
+  - neuro
+  - Neuro
+  - is_a_neuro
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- neuro
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_neuro Class"
+  - neuro
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_neuro Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_neuro Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_neuro Class
 type: Type
 ---
 

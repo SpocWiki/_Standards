@@ -1,26 +1,27 @@
 ---
 aliases:
-- statement
-- statement
-- Statement
-- is_a_statement
+  - statement
+  - statement
+  - Statement
+  - is_a_statement
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- statement
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_statement Class"
+  - statement
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_statement Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_statement Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_statement Class
 type: Type
 ---
 

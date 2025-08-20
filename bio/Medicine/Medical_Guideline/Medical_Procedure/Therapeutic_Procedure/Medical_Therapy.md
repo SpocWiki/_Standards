@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-therapy
-- medical_therapy
-- MedicalTherapy
-- is_a_medical_therapy
+  - medical-therapy
+  - medical_therapy
+  - MedicalTherapy
+  - is_a_medical_therapy
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_therapy
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_therapy Class"
+  - medical_therapy
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_therapy Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_therapy Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_therapy Class
 type: Type
 ---
 

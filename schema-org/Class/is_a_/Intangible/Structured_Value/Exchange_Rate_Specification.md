@@ -1,26 +1,27 @@
 ---
 aliases:
-- exchange-rate-specification
-- exchange_rate_specification
-- ExchangeRateSpecification
-- is_an_exchange_rate_specification
+  - exchange-rate-specification
+  - exchange_rate_specification
+  - ExchangeRateSpecification
+  - is_an_exchange_rate_specification
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- exchange_rate_specification
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_exchange_rate_specification Class"
+  - exchange_rate_specification
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_exchange_rate_specification Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_exchange_rate_specification Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_exchange_rate_specification Class
 type: Type
 ---
 

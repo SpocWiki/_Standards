@@ -1,25 +1,27 @@
 ---
 aliases:
-- pet-allowed
-- pet_allowed
-- petsAllowed
-- is_pet_allowed
+  - pet-allowed
+  - pet_allowed
+  - petsAllowed
+  - is_pet_allowed
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- pet_allowed
-layout: 
-license: "CC BY-SA 4.0"
+  - pet_allowed
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_pet_allowed
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_pet_allowed
 type: Pred_Bool
 ---

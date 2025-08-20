@@ -1,26 +1,27 @@
 ---
 aliases:
-- comment
-- comment
-- Comment
-- is_a_comment
+  - comment
+  - comment
+  - Comment
+  - is_a_comment
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- comment
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_comment Class"
+  - comment
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_comment Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_comment Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_comment Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- proficiency-level
-- proficiency_level
-- proficiencyLevel
-- has_text_of_proficiency_level
+  - proficiency-level
+  - proficiency_level
+  - proficiencyLevel
+  - has_text_of_proficiency_level
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- proficiency
-- level
-layout: 
-license: "CC BY-SA 4.0"
+  - proficiency
+  - level
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_proficiency_level
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_proficiency_level
 type: Pred_Text
 ---

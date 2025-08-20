@@ -1,26 +1,28 @@
 ---
 aliases:
-- address-region
-- address_region
-- addressRegion
-- has_location_address_region
+  - address-region
+  - address_region
+  - addressRegion
+  - has_location_address_region
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- address
-- region
-layout: 
-license: "CC BY-SA 4.0"
+  - address
+  - region
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_address_region
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_location_address_region
 type: Pred_Text
 ---

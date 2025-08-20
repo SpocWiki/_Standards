@@ -1,25 +1,27 @@
 ---
 aliases:
-- video
-- video
-- video
-- has_video
+  - video
+  - video
+  - video
+  - has_video
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- video
-layout: 
-license: "CC BY-SA 4.0"
+  - video
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_video
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_video
 type: Predi_Relation
 ---

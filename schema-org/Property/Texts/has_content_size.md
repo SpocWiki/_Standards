@@ -1,26 +1,28 @@
 ---
 aliases:
-- content-size
-- content_size
-- contentSize
-- has_text_of_content_size
+  - content-size
+  - content_size
+  - contentSize
+  - has_text_of_content_size
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- content
-- size
-layout: 
-license: "CC BY-SA 4.0"
+  - content
+  - size
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_content_size
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_content_size
 type: Pred_Text
 ---

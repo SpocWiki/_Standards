@@ -1,26 +1,27 @@
 ---
 aliases:
-- room
-- room
-- Room
-- is_a_room
+  - room
+  - room
+  - Room
+  - is_a_room
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- room
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_room Class"
+  - room
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_room Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_room Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_room Class
 type: Type
 ---
 

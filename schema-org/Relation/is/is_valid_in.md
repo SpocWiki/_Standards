@@ -1,24 +1,26 @@
 ---
 aliases:
-- valid-in
-- valid_in
-- validIn
-- is_valid_in
+  - valid-in
+  - valid_in
+  - validIn
+  - is_valid_in
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_valid_in
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_valid_in
 type: Predi_Relation
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- guideline-subject
-- guideline_subject
-- guidelineSubject
-- has_guideline_subject
+  - guideline-subject
+  - guideline_subject
+  - guidelineSubject
+  - has_guideline_subject
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- guideline
-- subject
-layout: 
-license: "CC BY-SA 4.0"
+  - guideline
+  - subject
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_guideline_subject
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_guideline_subject
 type: Predi_Relation
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- print-column
-- print_column
-- printColumn
-- has_text_of_print_column
+  - print-column
+  - print_column
+  - printColumn
+  - has_text_of_print_column
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- print
-- column
-layout: 
-license: "CC BY-SA 4.0"
+  - print
+  - column
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_print_column
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_print_column
 type: Pred_Text
 ---

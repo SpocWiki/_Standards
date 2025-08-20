@@ -1,27 +1,29 @@
 ---
 aliases:
-- cvd-facility-id
-- id_cvd_facility
-- cvdFacilityId
-- has_id_cvd_facility
+  - cvd-facility-id
+  - id_cvd_facility
+  - cvdFacilityId
+  - has_id_cvd_facility
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cvd
-- facility
-- id
-layout: 
-license: "CC BY-SA 4.0"
+  - cvd
+  - facility
+  - id
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_cvd_facility
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_cvd_facility
 type: Pred_Text
 ---

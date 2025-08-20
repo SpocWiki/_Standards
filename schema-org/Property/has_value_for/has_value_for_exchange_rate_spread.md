@@ -1,25 +1,27 @@
 ---
 aliases:
-- exchange_rate_spread
-- exchange-rate-spread
-- exchangeRateSpread
-- has_value_for_exchange_rate_spread
+  - exchange_rate_spread
+  - exchange-rate-spread
+  - exchangeRateSpread
+  - has_value_for_exchange_rate_spread
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- exchange-rate-spread
-layout: 
-license: "CC BY-SA 4.0"
+  - exchange-rate-spread
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_exchange-rate-spread
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_exchange-rate-spread
 type: Predi_Quantity
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-measurement-waist
-- wearable_measurement_waist
-- WearableMeasurementWaist
-- is_a_wearable_measurement_waist
+  - wearable-measurement-waist
+  - wearable_measurement_waist
+  - WearableMeasurementWaist
+  - is_a_wearable_measurement_waist
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_measurement_waist
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_measurement_waist Class"
+  - wearable_measurement_waist
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_measurement_waist Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_measurement_waist Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_measurement_waist Class
 type: Type
 ---
 

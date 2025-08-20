@@ -1,26 +1,27 @@
 ---
 aliases:
-- hobby-shop
-- hobby_shop
-- HobbyShop
-- is_a_hobby_shop
+  - hobby-shop
+  - hobby_shop
+  - HobbyShop
+  - is_a_hobby_shop
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hobby_shop
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hobby_shop Class"
+  - hobby_shop
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hobby_shop Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hobby_shop Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hobby_shop Class
 type: Type
 ---
 

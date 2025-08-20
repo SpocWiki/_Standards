@@ -1,25 +1,27 @@
 ---
 aliases:
-- protein_in_gram
-- protein-content
-- proteinContent
-- has_value_for_protein_in_gram
+  - protein_in_gram
+  - protein-content
+  - proteinContent
+  - has_value_for_protein_in_gram
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- protein-content
-layout: 
-license: "CC BY-SA 4.0"
+  - protein-content
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_protein-content
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_protein-content
 type: Predi_Quantity
 ---

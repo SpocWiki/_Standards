@@ -1,27 +1,28 @@
 ---
 aliases:
-- anaerobic-activity
-- anaerobic_activity
-- AnaerobicActivity
-- is_an_anaerobic_activity
+  - anaerobic-activity
+  - anaerobic_activity
+  - AnaerobicActivity
+  - is_an_anaerobic_activity
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalActivityCategory
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- anaerobic_activity
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_anaerobic_activity Class"
+  - anaerobic_activity
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_anaerobic_activity Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_anaerobic_activity Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_anaerobic_activity Class
 type: Type
 ---
 

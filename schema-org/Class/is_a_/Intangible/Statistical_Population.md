@@ -1,26 +1,27 @@
 ---
 aliases:
-- statistical-population
-- statistical_population
-- StatisticalPopulation
-- is_a_statistical_population
+  - statistical-population
+  - statistical_population
+  - StatisticalPopulation
+  - is_a_statistical_population
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- statistical_population
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_statistical_population Class"
+  - statistical_population
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_statistical_population Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_statistical_population Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_statistical_population Class
 type: Type
 ---
 

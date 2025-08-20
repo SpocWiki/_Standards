@@ -1,27 +1,28 @@
 ---
 aliases:
-- offline-temporarily
-- offline_temporarily
-- OfflineTemporarily
-- is_an_offline_temporarily
+  - offline-temporarily
+  - offline_temporarily
+  - OfflineTemporarily
+  - is_an_offline_temporarily
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: GameServerStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- offline_temporarily
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_offline_temporarily Class"
+  - offline_temporarily
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_offline_temporarily Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_offline_temporarily Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_offline_temporarily Class
 type: Type
 ---
 

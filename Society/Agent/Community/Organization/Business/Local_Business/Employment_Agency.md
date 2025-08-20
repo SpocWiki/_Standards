@@ -1,26 +1,27 @@
 ---
 aliases:
-- employment-agency
-- employment_agency
-- EmploymentAgency
-- is_an_employment_agency
+  - employment-agency
+  - employment_agency
+  - EmploymentAgency
+  - is_an_employment_agency
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- employment_agency
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_employment_agency Class"
+  - employment_agency
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_employment_agency Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_employment_agency Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_employment_agency Class
 type: Type
 ---
 

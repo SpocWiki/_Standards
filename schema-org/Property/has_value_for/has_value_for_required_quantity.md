@@ -1,25 +1,27 @@
 ---
 aliases:
-- required_quantity
-- required-quantity
-- requiredQuantity
-- has_value_for_required_quantity
+  - required_quantity
+  - required-quantity
+  - requiredQuantity
+  - has_value_for_required_quantity
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- required-quantity
-layout: 
-license: "CC BY-SA 4.0"
+  - required-quantity
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_required-quantity
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_required-quantity
 type: Predi_Quantity
 ---

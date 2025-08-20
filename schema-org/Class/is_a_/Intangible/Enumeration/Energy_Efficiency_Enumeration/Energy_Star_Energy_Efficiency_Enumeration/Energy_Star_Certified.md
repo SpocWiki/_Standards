@@ -1,27 +1,28 @@
 ---
 aliases:
-- energy-star-certified
-- energy_star_certified
-- EnergyStarCertified
-- is_an_energy_star_certified
+  - energy-star-certified
+  - energy_star_certified
+  - EnergyStarCertified
+  - is_an_energy_star_certified
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: EnergyStarEnergyEfficiencyEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- energy_star_certified
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_energy_star_certified Class"
+  - energy_star_certified
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_energy_star_certified Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_energy_star_certified Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_energy_star_certified Class
 type: Type
 ---
 

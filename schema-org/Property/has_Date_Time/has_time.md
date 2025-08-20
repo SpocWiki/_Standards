@@ -1,25 +1,27 @@
 ---
 aliases:
-- date
-- has_time
-- has-time
-- P585
-- 
+  - date
+  - has_time
+  - has-time
+  - P585
+  - 
 confidential: public
-cssclasses: "Predicate Date_Time"
+cssclasses:
+  - Predicate
+  - Date_Time
 draft: false
-expiryDate: 
+expiryDate:
 is: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+keywords:
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Date
+  - class/Property
+  - schema-org/Property/Date
 title: has_time
 type: Predi_Date_Time
 ---

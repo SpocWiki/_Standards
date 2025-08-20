@@ -1,25 +1,27 @@
 ---
 aliases:
-- follows
-- follows
-- follows
-- is_following
+  - follows
+  - follows
+  - follows
+  - is_following
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- follows
-layout: 
-license: "CC BY-SA 4.0"
+  - follows
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_following
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_following
 type: Predi_Relation
 ---

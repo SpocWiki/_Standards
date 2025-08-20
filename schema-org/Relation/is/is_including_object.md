@@ -1,24 +1,26 @@
 ---
 aliases:
-- includes-object
-- including_object
-- includesObject
-- is_including_object
+  - includes-object
+  - including_object
+  - includesObject
+  - is_including_object
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_including_object
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_including_object
 type: Predi_Relation
 ---

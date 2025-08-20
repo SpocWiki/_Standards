@@ -1,26 +1,28 @@
 ---
 aliases:
-- released-event
-- released_event
-- releasedEvent
-- has_released_event
+  - released-event
+  - released_event
+  - releasedEvent
+  - has_released_event
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- released
-- event
-layout: 
-license: "CC BY-SA 4.0"
+  - released
+  - event
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_released_event
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_released_event
 type: Predi_Relation
 ---

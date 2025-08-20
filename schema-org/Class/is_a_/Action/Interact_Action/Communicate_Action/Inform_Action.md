@@ -1,26 +1,27 @@
 ---
 aliases:
-- inform-action
-- inform_action
-- InformAction
-- is_an_inform_action
+  - inform-action
+  - inform_action
+  - InformAction
+  - is_an_inform_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- inform_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_inform_action Class"
+  - inform_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_inform_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_inform_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_inform_action Class
 type: Type
 ---
 

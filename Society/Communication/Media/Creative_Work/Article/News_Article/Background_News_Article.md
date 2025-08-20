@@ -1,26 +1,27 @@
 ---
 aliases:
-- background-news-article
-- background_news_article
-- BackgroundNewsArticle
-- is_a_background_news_article
+  - background-news-article
+  - background_news_article
+  - BackgroundNewsArticle
+  - is_a_background_news_article
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- background_news_article
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_background_news_article Class"
+  - background_news_article
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_background_news_article Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_background_news_article Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_background_news_article Class
 type: Type
 ---
 

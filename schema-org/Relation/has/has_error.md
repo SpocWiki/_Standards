@@ -1,25 +1,27 @@
 ---
 aliases:
-- error
-- error
-- error
-- has_error
+  - error
+  - error
+  - error
+  - has_error
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- error
-layout: 
-license: "CC BY-SA 4.0"
+  - error
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_error
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_error
 type: Predi_Relation
 ---

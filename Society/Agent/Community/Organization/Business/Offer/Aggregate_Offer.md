@@ -1,26 +1,27 @@
 ---
 aliases:
-- aggregate-offer
-- aggregate_offer
-- AggregateOffer
-- is_an_aggregate_offer
+  - aggregate-offer
+  - aggregate_offer
+  - AggregateOffer
+  - is_an_aggregate_offer
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- aggregate_offer
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_aggregate_offer Class"
+  - aggregate_offer
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_aggregate_offer Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_aggregate_offer Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_aggregate_offer Class
 type: Type
 ---
 

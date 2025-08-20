@@ -1,25 +1,27 @@
 ---
 aliases:
-- to-location
-- to_location
-- toLocation
-- has_location_to
+  - to-location
+  - to_location
+  - toLocation
+  - has_location_to
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- to_location
-layout: 
-license: "CC BY-SA 4.0"
+  - to_location
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_to
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_to
 type: Pred_geo
 ---

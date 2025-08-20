@@ -1,27 +1,28 @@
 ---
 aliases:
-- definitive-legal-value
-- definitive_legal_value
-- DefinitiveLegalValue
-- is_a_definitive_legal_value
+  - definitive-legal-value
+  - definitive_legal_value
+  - DefinitiveLegalValue
+  - is_a_definitive_legal_value
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: LegalValueLevel
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- definitive_legal_value
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_definitive_legal_value Class"
+  - definitive_legal_value
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_definitive_legal_value Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_definitive_legal_value Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_definitive_legal_value Class
 type: Type
 ---
 

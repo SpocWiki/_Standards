@@ -1,26 +1,28 @@
 ---
 aliases:
-- recognizing-authority
-- recognizing_authority
-- recognizingAuthority
-- has_recognizing_authority
+  - recognizing-authority
+  - recognizing_authority
+  - recognizingAuthority
+  - has_recognizing_authority
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- recognizing
-- authority
-layout: 
-license: "CC BY-SA 4.0"
+  - recognizing
+  - authority
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_recognizing_authority
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_recognizing_authority
 type: Predi_Relation
 ---

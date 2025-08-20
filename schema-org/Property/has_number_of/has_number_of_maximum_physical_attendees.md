@@ -1,25 +1,27 @@
 ---
 aliases:
-- maximum-physical-attendee-capacity
-- maximum_physical_attendee_capacity
-- maximumPhysicalAttendeeCapacity
-- has_number_of_maximum_physical_attendees
+  - maximum-physical-attendee-capacity
+  - maximum_physical_attendee_capacity
+  - maximumPhysicalAttendeeCapacity
+  - has_number_of_maximum_physical_attendees
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- maximum_physical_attendee_capacity
-layout: 
-license: "CC BY-SA 4.0"
+  - maximum_physical_attendee_capacity
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_maximum_physical_attendee_capacity
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_maximum_physical_attendee_capacity
 type: Predi_Count
 ---

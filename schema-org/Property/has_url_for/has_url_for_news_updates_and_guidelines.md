@@ -1,25 +1,27 @@
 ---
 aliases:
-- news-updates-and-guidelines
-- news_updates_and_guidelines
-- newsUpdatesAndGuidelines
-- has_url_for_news_updates_and_guidelines
+  - news-updates-and-guidelines
+  - news_updates_and_guidelines
+  - newsUpdatesAndGuidelines
+  - has_url_for_news_updates_and_guidelines
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- news_updates_and_guidelines
-layout: 
-license: "CC BY-SA 4.0"
+  - news_updates_and_guidelines
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_news_updates_and_guidelines
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_news_updates_and_guidelines
 type: Predi_Url
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- funding
-- funding
-- funding
-- has_funding
+  - funding
+  - funding
+  - funding
+  - has_funding
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- funding
-layout: 
-license: "CC BY-SA 4.0"
+  - funding
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_funding
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_funding
 type: Predi_Relation
 ---

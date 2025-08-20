@@ -1,25 +1,27 @@
 ---
 aliases:
-- occupancy
-- occupancy
-- occupancy
-- has_value_for_occupancy
+  - occupancy
+  - occupancy
+  - occupancy
+  - has_value_for_occupancy
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- occupancy
-layout: 
-license: "CC BY-SA 4.0"
+  - occupancy
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_occupancy
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_occupancy
 type: Predi_Quantity
 ---

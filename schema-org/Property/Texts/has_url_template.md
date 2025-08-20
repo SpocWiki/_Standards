@@ -1,26 +1,28 @@
 ---
 aliases:
-- url-template
-- url_template
-- urlTemplate
-- has_text_of_url_template
+  - url-template
+  - url_template
+  - urlTemplate
+  - has_text_of_url_template
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- url
-- template
-layout: 
-license: "CC BY-SA 4.0"
+  - url
+  - template
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_url_template
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_url_template
 type: Pred_Text
 ---

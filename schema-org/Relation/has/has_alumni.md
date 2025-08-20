@@ -1,25 +1,27 @@
 ---
 aliases:
-- alumni
-- alumni
-- alumni
-- has_alumni
+  - alumni
+  - alumni
+  - alumni
+  - has_alumni
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- alumni
-layout: 
-license: "CC BY-SA 4.0"
+  - alumni
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_alumni
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_alumni
 type: Predi_Relation
 ---

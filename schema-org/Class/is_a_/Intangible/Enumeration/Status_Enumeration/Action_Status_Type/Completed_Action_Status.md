@@ -1,27 +1,28 @@
 ---
 aliases:
-- completed-action-status
-- completed_action_status
-- CompletedActionStatus
-- is_a_completed_action_status
+  - completed-action-status
+  - completed_action_status
+  - CompletedActionStatus
+  - is_a_completed_action_status
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ActionStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- completed_action_status
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_completed_action_status Class"
+  - completed_action_status
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_completed_action_status Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_completed_action_status Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_completed_action_status Class
 type: Type
 ---
 

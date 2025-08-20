@@ -1,26 +1,28 @@
 ---
 aliases:
-- chemical-role
-- role_chemical
-- chemicalRole
-- has_role_chemical
+  - chemical-role
+  - role_chemical
+  - chemicalRole
+  - has_role_chemical
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- chemical
-- role
-layout: 
-license: "CC BY-SA 4.0"
+  - chemical
+  - role
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_role_chemical
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_role_chemical
 type: Predi_Relation
 ---

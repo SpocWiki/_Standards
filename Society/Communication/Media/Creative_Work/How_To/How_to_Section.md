@@ -1,26 +1,27 @@
 ---
 aliases:
-- how-to-section
-- how_to_section
-- HowToSection
-- is_a_how_to_section
+  - how-to-section
+  - how_to_section
+  - HowToSection
+  - is_a_how_to_section
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- how_to_section
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_how_to_section Class"
+  - how_to_section
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_how_to_section Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_how_to_section Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_how_to_section Class
 type: Type
 ---
 

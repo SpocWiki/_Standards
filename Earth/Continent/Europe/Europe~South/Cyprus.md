@@ -1,96 +1,96 @@
 ---
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North_Korea,423]]"
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Kuwait,817]]'
-- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~Norway,20]]'
-- '[[_Standards/WikiData/WD~Ireland,27]]'
-- "[[_Standards/WikiData/WD~United_States,30]]"
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- '[[_Standards/WikiData/WD~Egypt,79]]'
-- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Bulgaria,219]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-- '[[_Standards/WikiData/WD~Malta,233]]'
-- '[[_Standards/WikiData/WD~Algeria,262]]'
-- '[[_Standards/WikiData/WD~Armenia,399]]'
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Kuwait,817]]"
+  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~Norway,20]]"
+  - "[[_Standards/WikiData/WD~Ireland,27]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Poland,36]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
+  - "[[_Standards/WikiData/WD~Malta,233]]"
+  - "[[_Standards/WikiData/WD~Algeria,262]]"
+  - "[[_Standards/WikiData/WD~Armenia,399]]"
 member_of:
-- "[[_Standards/WikiData/WD~European_Union,458]]"
-- "[[_Standards/WikiData/WD~United_Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
-- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
-- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
-- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
+  - "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
 part_of:
-- "[[_Standards/WikiData/WD~European_Union,458]]"
-- "[[_Standards/WikiData/WD~Middle_East,7204]]"
-- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
-- "[[_Standards/WikiData/WD~West_Asia,27293]]"
-- "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
+  - "[[_Standards/WikiData/WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~Middle_East,7204]]"
+  - "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
+  - "[[_Standards/WikiData/WD~West_Asia,27293]]"
+  - "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
 shares_border_with:
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-- "[[_Standards/WikiData/WD~Akrotiri_and_Dhekelia,37362]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~Akrotiri_and_Dhekelia,37362]]"
 public_holiday:
-- "[[_Standards/WikiData/WD~April_1,2510]]"
-- "[[_Standards/WikiData/WD~Independence_Day,6015984]]"
-capital: '[[_Standards/WikiData/WD~Nicosia,3856]]'
+  - "[[_Standards/WikiData/WD~April_1,2510]]"
+  - "[[_Standards/WikiData/WD~Independence_Day,6015984]]"
+capital: "[[_Standards/WikiData/WD~Nicosia,3856]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Cyprus,4633]]"
 lowest_point: "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
 instance_of:
-- '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
 basic_form_of_government:
-- '[[_Standards/WikiData/WD~republic,7270]]'
-- "[[_Standards/WikiData/WD~presidential_system,49892]]"
+  - "[[_Standards/WikiData/WD~republic,7270]]"
+  - "[[_Standards/WikiData/WD~presidential_system,49892]]"
 language_used:
-- '[[_Standards/WikiData/WD~Greek,9129]]'
-- "[[_Standards/WikiData/WD~Modern_Greek,36510]]"
-- "[[_Standards/WikiData/WD~Cypriot_Arabic,56416]]"
-- '[[_Standards/WikiData/WD~Turkish,256]]'
+  - "[[_Standards/WikiData/WD~Greek,9129]]"
+  - "[[_Standards/WikiData/WD~Modern_Greek,36510]]"
+  - "[[_Standards/WikiData/WD~Cypriot_Arabic,56416]]"
+  - "[[_Standards/WikiData/WD~Turkish,256]]"
 official_language:
-- '[[_Standards/WikiData/WD~Greek,9129]]'
-- "[[_Standards/WikiData/WD~Modern_Greek,36510]]"
-- '[[_Standards/WikiData/WD~Turkish,256]]'
+  - "[[_Standards/WikiData/WD~Greek,9129]]"
+  - "[[_Standards/WikiData/WD~Modern_Greek,36510]]"
+  - "[[_Standards/WikiData/WD~Turkish,256]]"
 territory_claimed_by: "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
-country: '[[_Standards/WikiData/WD~Cyprus,229]]'
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+country: "[[_Standards/WikiData/WD~Cyprus,229]]"
 compulsory_education_minimum_age_: 5
 compulsory_education_maximum_age_: 15
 unemployment_rate: 16
@@ -100,13 +100,13 @@ VAT_rate: 19
 mains_voltage: 240
 suicide_rate: 3.2
 retirement_age: 65
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.cy,40459]]'
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.cy,40459]]"
 Gini_coefficient: 31.2
 Happy_Planet_Index_score: 49.4
 maritime_identification_digits:
-- 209
-- 212
-- 210
+  - 209
+  - 212
+  - 210
 death_rate:
   - 6.93
   - 6.769
@@ -115,26 +115,26 @@ death_rate:
 Democracy_Index: 7.56
 Inequality_adjusted_Human_Development_Index: 0.819
 has_part_s_:
-- "[[_Standards/WikiData/WD~Paphos_District,59133]]"
-- "[[_Standards/WikiData/WD~Kyrenia_District,59146]]"
-- "[[_Standards/WikiData/WD~Nicosia_District,59147]]"
-- "[[_Standards/WikiData/WD~Limassol_District,59150]]"
-- "[[_Standards/WikiData/WD~Famagusta_District,59148]]"
-- "[[_Standards/WikiData/WD~Larnaca_District,59153]]"
+  - "[[_Standards/WikiData/WD~Paphos_District,59133]]"
+  - "[[_Standards/WikiData/WD~Kyrenia_District,59146]]"
+  - "[[_Standards/WikiData/WD~Nicosia_District,59147]]"
+  - "[[_Standards/WikiData/WD~Limassol_District,59150]]"
+  - "[[_Standards/WikiData/WD~Famagusta_District,59148]]"
+  - "[[_Standards/WikiData/WD~Larnaca_District,59153]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Paphos_District,59133]]"
-- "[[_Standards/WikiData/WD~Kyrenia_District,59146]]"
-- "[[_Standards/WikiData/WD~Nicosia_District,59147]]"
-- "[[_Standards/WikiData/WD~Limassol_District,59150]]"
-- "[[_Standards/WikiData/WD~Famagusta_District,59148]]"
-- "[[_Standards/WikiData/WD~Larnaca_District,59153]]"
+  - "[[_Standards/WikiData/WD~Paphos_District,59133]]"
+  - "[[_Standards/WikiData/WD~Kyrenia_District,59146]]"
+  - "[[_Standards/WikiData/WD~Nicosia_District,59147]]"
+  - "[[_Standards/WikiData/WD~Limassol_District,59150]]"
+  - "[[_Standards/WikiData/WD~Famagusta_District,59148]]"
+  - "[[_Standards/WikiData/WD~Larnaca_District,59153]]"
 Human_Development_Index: 0.896
 total_fertility_rate: 1.446
 number_of_out_of_school_children: 3331
 ISO_3166_1_numeric_code: 196
 M49_code: 196
 BHCL_UUID: 5107be86-5156-462d-aabc-bb6eea760acf
-Unicode_character: 🇨🇾 
+Unicode_character: 🇨🇾
 NUTS_code:
   - CY0
   - CY00
@@ -147,7 +147,7 @@ IPA_transcription:
   - ˈcipros
   - ˈkɯbɾɯs
 Krugosvet_article: strany-mira/kipr
-Commons_gallery: "Κύπρος - Kıbrıs"
+Commons_gallery: Κύπρος - Kıbrıs
 demonym:
   - قبرصي
   - قبرصية
@@ -191,32 +191,32 @@ demonym:
   - cipriota
   - Cypriot
 official_name:
-- "Republik Zypern"
-- "Κυπριακή Δημοκρατία"
-- "Republic of Cyprus"
-- "la République de Chypre"
-- "Republiken Cypern"
-- "Komara Kîprosê"
-- "Kıbrıs Cumhuriyeti"
+  - Republik Zypern
+  - Κυπριακή Δημοκρατία
+  - Republic of Cyprus
+  - la République de Chypre
+  - Republiken Cypern
+  - Komara Kîprosê
+  - Kıbrıs Cumhuriyeti
 native_label:
-- "Κυπριακή Δημοκρατία"
-- "Kıbrıs Cumhuriyeti"
+  - Κυπριακή Δημοκρατία
+  - Kıbrıs Cumhuriyeti
 short_name:
-- Κύπρος
-- "\U0001F1E8\U0001F1FE"
-- Kıbrıs
+  - Κύπρος
+  - 🇨🇾
+  - Kıbrıs
 motto_text:
-- "Cyprus in your heart"
-- "Cyprus yn dy galon"
+  - Cyprus in your heart
+  - Cyprus yn dy galon
 central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Cyprus,74693]]"
 coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Cyprus,124768]]"
 anthem: "[[_Standards/WikiData/WD~Hymn_to_Liberty,176665]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Cyprus,644636]]'
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Cyprus,644636]]"
 highest_point: "[[_Standards/WikiData/WD~Mount_Olympus,819979]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Cyprus,841760]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Cyprus,841760]]"
@@ -231,31 +231,31 @@ has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 replaced_by: "[[_Standards/WikiData/WD~Turkish_Cypriot_General_Committee,4307316]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Cyprus,7112241]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Districts_of_Cyprus,7239289]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cyprus,8133594]]'
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cyprus,8133594]]"
+driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Cyprus,13500530]]"
-different_from: '[[_Standards/WikiData/WD~cypress,14169641]]'
+different_from: "[[_Standards/WikiData/WD~cypress,14169641]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Cyprus_Republic,19358292]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21201213,21201213]]'
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q21201213,21201213]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~1400,25648857]]'
-- '[[_Standards/WikiData/WD~199,25648881]]'
+  - "[[_Standards/WikiData/WD~1400,25648857]]"
+  - "[[_Standards/WikiData/WD~199,25648881]]"
 head_of_state: "[[_Standards/WikiData/WD~Nicos_Christodoulides,48905549]]"
 head_of_government: "[[_Standards/WikiData/WD~Nicos_Christodoulides,48905549]]"
 open_data_portal: "[[_Standards/WikiData/WD~Open_data_portal_Cypern,97019520]]"
 depicted_by: "[[_Standards/WikiData/WD~A_trigonometrical_survey_of_the_island_of_Cyprus,111367270]]"
-satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Cyprus%20sentinel2.jpg"
-ISNI: 0000000123315214
-coordinates_of_northernmost_point: "Point(34.587777777 35.695833333)"
+satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Cyprus%20sentinel2.jpg
+ISNI: 123315214
+coordinates_of_northernmost_point: Point(34.587777777 35.695833333)
 MeSH_tree_code:
   - Z01.542.580.500.300
   - Z01.639.640.300
-coordinate_location: "Point(33.0 35.0)"
+coordinate_location: Point(33.0 35.0)
 nominal_GDP:
   - 28439052741
   - 28408064462
-coordinates_of_easternmost_point: "Point(34.588611111 35.695)"
-coordinates_of_southernmost_point: "Point(32.963333333 34.6325)"
+coordinates_of_easternmost_point: Point(34.588611111 35.695)
+coordinates_of_southernmost_point: Point(32.963333333 34.6325)
 GS1_country_code: 529
 birth_rate:
   - 10.023
@@ -269,7 +269,7 @@ life_expectancy: 80.508
 ISO_3166_1_alpha_3_code: CYP
 IOC_country_code: CYP
 ITU_letter_code: CYP
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cyprus.svg"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cyprus.svg
 Dewey_Decimal_Classification: 2--5693
 rural_population:
   - 407912
@@ -300,57 +300,58 @@ licence_plate_code: CY
 ISO_3166_1_alpha_2_code: CY
 FIPS_10_4_countries_and_regions_: CY
 WIPO_ST_3: CY
-inception: "1960-08-16"
-has_time_started: "1960-08-16"
-coordinates_of_westernmost_point: "Point(32.2697087 35.0704524)"
+inception: 1960-08-16
+has_time_started: 1960-08-16
+coordinates_of_westernmost_point: Point(32.2697087 35.0704524)
 U_S_National_Archives_Identifier: 10035687
 Commons_category: Cyprus
 hashtag: Cyprus
-geoshape: "http://commons.wikimedia.org/data/main/Data:Cyprus.map"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Cyprus%20%282006%29.svg"
-location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Cyprus%20adm%20location%20map.svg"
-relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Cyprus%20relief%20location%20map.jpg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/EU-Cyprus%20highlighted.svg"
+geoshape: http://commons.wikimedia.org/data/main/Data:Cyprus.map
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Cyprus%20%282006%29.svg
+location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Cyprus%20adm%20location%20map.svg
+relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Cyprus%20relief%20location%20map.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/EU-Cyprus%20highlighted.svg
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Zypern.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Cipru.wav"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Vouni%20%28Cyprus%29%20banner.jpg"
-official_website: "http://www.cyprus.gov.cy/"
-country_calling_code: +357
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Zypern.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Cipru.wav
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Vouni%20%28Cyprus%29%20banner.jpg
+official_website: http://www.cyprus.gov.cy/
+country_calling_code: 357
 has_id_wikidata: Q229
 location:
-    - 35.1333
-    - 33.4667
+  - 35.1333
+  - 33.4667
 type: Country
 tags:
-    - geo/Country
-license: "CC BY-SA 4.0"
+  - geo/Country
+license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-source: "https://datahub.io/core/country-codes"
-cssclasses: Country
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
 publish: true
 title: Cyprus
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Cyprus
-- Chipre
-- Chypre
-- قبرص
-- 塞浦路斯
-- Кипр
-- "the Republic of Cyprus"
-- "la República de Chipre"
+  - Cyprus
+  - Chipre
+  - Chypre
+  - قبرص
+  - 塞浦路斯
+  - Кипр
+  - the Republic of Cyprus
+  - la República de Chipre
 Languages:
-- el-CY
-- tr-CY
-- en
+  - el-CY
+  - tr-CY
+  - en
 icon: flag-cy
 ---
 

@@ -1,25 +1,27 @@
 ---
 aliases:
-- nsn
-- nsn
-- nsn
-- has_text_of_nsn
+  - nsn
+  - nsn
+  - nsn
+  - has_text_of_nsn
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nsn
-layout: 
-license: "CC BY-SA 4.0"
+  - nsn
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_nsn
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_nsn
 type: Pred_Text
 ---

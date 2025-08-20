@@ -1,25 +1,27 @@
 ---
 aliases:
-- contributor
-- contributor
-- contributor
-- has_contributor
+  - contributor
+  - contributor
+  - contributor
+  - has_contributor
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- contributor
-layout: 
-license: "CC BY-SA 4.0"
+  - contributor
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_contributor
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_contributor
 type: Predi_Relation
 ---

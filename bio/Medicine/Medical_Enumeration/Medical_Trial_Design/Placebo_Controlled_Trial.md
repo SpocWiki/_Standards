@@ -1,27 +1,28 @@
 ---
 aliases:
-- placebo-controlled-trial
-- placebo_controlled_trial
-- PlaceboControlledTrial
-- is_a_placebo_controlled_trial
+  - placebo-controlled-trial
+  - placebo_controlled_trial
+  - PlaceboControlledTrial
+  - is_a_placebo_controlled_trial
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalTrialDesign
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- placebo_controlled_trial
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_placebo_controlled_trial Class"
+  - placebo_controlled_trial
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_placebo_controlled_trial Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_placebo_controlled_trial Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_placebo_controlled_trial Class
 type: Type
 ---
 

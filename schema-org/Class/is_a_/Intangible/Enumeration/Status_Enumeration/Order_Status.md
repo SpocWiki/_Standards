@@ -1,26 +1,27 @@
 ---
 aliases:
-- order-status
-- order_status
-- OrderStatus
-- is_an_order_status
+  - order-status
+  - order_status
+  - OrderStatus
+  - is_an_order_status
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- order_status
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_order_status Class"
+  - order_status
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_order_status Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_order_status Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_order_status Class
 type: Type
 ---
 

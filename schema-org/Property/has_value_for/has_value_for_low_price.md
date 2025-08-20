@@ -1,25 +1,27 @@
 ---
 aliases:
-- low_price
-- low-price
-- lowPrice
-- has_value_for_low_price
+  - low_price
+  - low-price
+  - lowPrice
+  - has_value_for_low_price
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- low-price
-layout: 
-license: "CC BY-SA 4.0"
+  - low-price
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_low-price
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_low-price
 type: Predi_Quantity
 ---

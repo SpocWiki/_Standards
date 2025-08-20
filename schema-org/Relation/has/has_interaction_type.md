@@ -1,26 +1,28 @@
 ---
 aliases:
-- interaction-type
-- interaction_type
-- interactionType
-- has_interaction_type
+  - interaction-type
+  - interaction_type
+  - interactionType
+  - has_interaction_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- interaction
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - interaction
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_interaction_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_interaction_type
 type: Predi_Relation
 ---

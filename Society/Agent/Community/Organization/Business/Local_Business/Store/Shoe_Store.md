@@ -1,26 +1,27 @@
 ---
 aliases:
-- shoe-store
-- shoe_store
-- ShoeStore
-- is_a_shoe_store
+  - shoe-store
+  - shoe_store
+  - ShoeStore
+  - is_a_shoe_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- shoe_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_shoe_store Class"
+  - shoe_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_shoe_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_shoe_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_shoe_store Class
 type: Type
 ---
 

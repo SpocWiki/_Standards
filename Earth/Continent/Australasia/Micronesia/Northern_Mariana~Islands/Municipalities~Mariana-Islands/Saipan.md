@@ -1,36 +1,37 @@
 ---
 aliases:
-- Saipan
+  - Saipan
 confidential: public
-cssclasses: geo-Region
+cssclasses:
+  - geo-Region
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords:
 Languages:
-- de
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - de
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 location:
-- 15.18333
-- 145.75
+  - 15.18333
+  - 145.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate:
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 36738
 tags:
-- geo/City
-- geo/Country/Region
+  - geo/City
+  - geo/Country/Region
 title: Saipan
 type:
-- City
-- geo-Region
+  - City
+  - geo-Region
 ---
 
 #is_a_/Place  

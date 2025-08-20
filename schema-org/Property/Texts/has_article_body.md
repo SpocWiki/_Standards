@@ -1,26 +1,28 @@
 ---
 aliases:
-- article-body
-- article_body
-- articleBody
-- has_text_of_article_body
+  - article-body
+  - article_body
+  - articleBody
+  - has_text_of_article_body
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- article
-- body
-layout: 
-license: "CC BY-SA 4.0"
+  - article
+  - body
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_article_body
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_article_body
 type: Pred_Text
 ---

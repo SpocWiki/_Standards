@@ -1,26 +1,27 @@
 ---
 aliases:
-- presentation-digital-document
-- presentation_digital_document
-- PresentationDigitalDocument
-- is_a_presentation_digital_document
+  - presentation-digital-document
+  - presentation_digital_document
+  - PresentationDigitalDocument
+  - is_a_presentation_digital_document
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- presentation_digital_document
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_presentation_digital_document Class"
+  - presentation_digital_document
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_presentation_digital_document Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_presentation_digital_document Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_presentation_digital_document Class
 type: Type
 ---
 

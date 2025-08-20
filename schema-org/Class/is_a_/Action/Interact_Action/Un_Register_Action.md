@@ -1,26 +1,27 @@
 ---
 aliases:
-- un-register-action
-- un_register_action
-- UnRegisterAction
-- is_an_un_register_action
+  - un-register-action
+  - un_register_action
+  - UnRegisterAction
+  - is_an_un_register_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- un_register_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_un_register_action Class"
+  - un_register_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_un_register_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_un_register_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_un_register_action Class
 type: Type
 ---
 

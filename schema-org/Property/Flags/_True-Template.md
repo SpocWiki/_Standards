@@ -1,35 +1,31 @@
 ---
 aliases:
-- ? label-dash: 
-  : 
-- ? has_label_snail: 
-  : 
-- ? label: 
-  : 
-- is_{{has_label_snail}}
+  - "{ label-dash: }":
+  - "{ has_label_snail: }":
+  - "{ label: }":
+  - is_{{has_label_snail}}
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ? has_label_snail: 
-  : 
-layout: 
-license: "CC BY-SA 4.0"
+  - "{ has_label_snail: }":
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_{{has_label_snail}}
 publish: true
-publishDate: 
+publishDate:
 superseded_by:
-  ? supersededBy: 
-  : 
+  "{ supersededBy: }":
 supersedes:
-  ? supersedes: 
-  : 
+  "{ supersedes: }":
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_{{has_label_snail}}
 type: Pred_Bool
 ---

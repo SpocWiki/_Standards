@@ -1,26 +1,27 @@
 ---
 aliases:
-- dance-group
-- dance_group
-- DanceGroup
-- is_a_dance_group
+  - dance-group
+  - dance_group
+  - DanceGroup
+  - is_a_dance_group
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dance_group
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_dance_group Class"
+  - dance_group
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_dance_group Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_dance_group Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_dance_group Class
 type: Type
 ---
 

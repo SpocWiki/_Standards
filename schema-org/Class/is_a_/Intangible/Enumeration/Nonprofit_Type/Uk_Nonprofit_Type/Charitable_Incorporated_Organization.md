@@ -1,27 +1,28 @@
 ---
 aliases:
-- charitable-incorporated-organization
-- charitable_incorporated_organization
-- CharitableIncorporatedOrganization
-- is_a_charitable_incorporated_organization
+  - charitable-incorporated-organization
+  - charitable_incorporated_organization
+  - CharitableIncorporatedOrganization
+  - is_a_charitable_incorporated_organization
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: UKNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- charitable_incorporated_organization
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_charitable_incorporated_organization Class"
+  - charitable_incorporated_organization
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_charitable_incorporated_organization Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_charitable_incorporated_organization Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_charitable_incorporated_organization Class
 type: Type
 ---
 

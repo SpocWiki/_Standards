@@ -1,26 +1,27 @@
 ---
 aliases:
-- real-estate-listing
-- real_estate_listing
-- RealEstateListing
-- is_a_real_estate_listing
+  - real-estate-listing
+  - real_estate_listing
+  - RealEstateListing
+  - is_a_real_estate_listing
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- real_estate_listing
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_real_estate_listing Class"
+  - real_estate_listing
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_real_estate_listing Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_real_estate_listing Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_real_estate_listing Class
 type: Type
 ---
 

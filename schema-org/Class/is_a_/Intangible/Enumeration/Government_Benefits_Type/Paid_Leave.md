@@ -1,27 +1,28 @@
 ---
 aliases:
-- paid-leave
-- paid_leave
-- PaidLeave
-- is_a_paid_leave
+  - paid-leave
+  - paid_leave
+  - PaidLeave
+  - is_a_paid_leave
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- paid_leave
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_paid_leave Class"
+  - paid_leave
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_paid_leave Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_paid_leave Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_paid_leave Class
 type: Type
 ---
 

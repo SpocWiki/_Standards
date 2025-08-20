@@ -1,26 +1,27 @@
 ---
 aliases:
-- deactivate-action
-- deactivate_action
-- DeactivateAction
-- is_a_deactivate_action
+  - deactivate-action
+  - deactivate_action
+  - DeactivateAction
+  - is_a_deactivate_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- deactivate_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_deactivate_action Class"
+  - deactivate_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_deactivate_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_deactivate_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_deactivate_action Class
 type: Type
 ---
 

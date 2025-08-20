@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-specialty
-- medical_specialty
-- MedicalSpecialty
-- is_a_medical_specialty
+  - medical-specialty
+  - medical_specialty
+  - MedicalSpecialty
+  - is_a_medical_specialty
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_specialty
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_specialty Class"
+  - medical_specialty
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_specialty Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_specialty Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_specialty Class
 type: Type
 ---
 

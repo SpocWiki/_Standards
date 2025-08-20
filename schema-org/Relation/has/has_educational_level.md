@@ -1,26 +1,28 @@
 ---
 aliases:
-- educational-level
-- educational_level
-- educationalLevel
-- has_educational_level
+  - educational-level
+  - educational_level
+  - educationalLevel
+  - has_educational_level
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- educational
-- level
-layout: 
-license: "CC BY-SA 4.0"
+  - educational
+  - level
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_educational_level
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_educational_level
 type: Predi_Relation
 ---

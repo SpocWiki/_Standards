@@ -1,24 +1,26 @@
 ---
 aliases:
-- is-plan-for-apartment
-- plan_for_apartment
-- isPlanForApartment
-- is_plan_for_apartment
+  - is-plan-for-apartment
+  - plan_for_apartment
+  - isPlanForApartment
+  - is_plan_for_apartment
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_plan_for_apartment
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_plan_for_apartment
 type: Predi_Relation
 ---

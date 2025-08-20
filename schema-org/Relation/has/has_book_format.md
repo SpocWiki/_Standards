@@ -1,26 +1,28 @@
 ---
 aliases:
-- book-format
-- book_format
-- bookFormat
-- has_book_format
+  - book-format
+  - book_format
+  - bookFormat
+  - has_book_format
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- book
-- format
-layout: 
-license: "CC BY-SA 4.0"
+  - book
+  - format
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_book_format
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_book_format
 type: Predi_Relation
 ---

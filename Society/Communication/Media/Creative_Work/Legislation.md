@@ -1,26 +1,27 @@
 ---
 aliases:
-- legislation
-- legislation
-- Legislation
-- is_a_legislation
+  - legislation
+  - legislation
+  - Legislation
+  - is_a_legislation
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legislation
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_legislation Class"
+  - legislation
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_legislation Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_legislation Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_legislation Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- predecessor-of
-- predecessor_of
-- predecessorOf
-- has_successor
+  - predecessor-of
+  - predecessor_of
+  - predecessorOf
+  - has_successor
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- predecessor
-- of
-layout: 
-license: "CC BY-SA 4.0"
+  - predecessor
+  - of
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_predecessor_of
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_predecessor_of
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- news-media-organization
-- news_media_organization
-- NewsMediaOrganization
-- is_a_news_media_organization
+  - news-media-organization
+  - news_media_organization
+  - NewsMediaOrganization
+  - is_a_news_media_organization
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- news_media_organization
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_news_media_organization Class"
+  - news_media_organization
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_news_media_organization Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_news_media_organization Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_news_media_organization Class
 type: Type
 ---
 

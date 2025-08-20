@@ -1,26 +1,27 @@
 ---
 aliases:
-- golf-course
-- golf_course
-- GolfCourse
-- is_a_golf_course
+  - golf-course
+  - golf_course
+  - GolfCourse
+  - is_a_golf_course
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- golf_course
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_golf_course Class"
+  - golf_course
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_golf_course Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_golf_course Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_golf_course Class
 type: Type
 ---
 

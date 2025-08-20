@@ -1,26 +1,28 @@
 ---
 aliases:
-- imaging-technique
-- imaging_technique
-- imagingTechnique
-- has_imaging_technique
+  - imaging-technique
+  - imaging_technique
+  - imagingTechnique
+  - has_imaging_technique
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- imaging
-- technique
-layout: 
-license: "CC BY-SA 4.0"
+  - imaging
+  - technique
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_imaging_technique
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_imaging_technique
 type: Predi_Relation
 ---

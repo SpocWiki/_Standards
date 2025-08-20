@@ -1,27 +1,28 @@
 ---
 aliases:
-- user-comments
-- user_comments
-- UserComments
-- is_a_user_comments
+  - user-comments
+  - user_comments
+  - UserComments
+  - is_a_user_comments
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- user_comments
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_user_comments Class"
+  - user_comments
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_user_comments Class
 publish: true
-publishDate: 
+publishDate:
 superseded_by: InteractionCounter
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_user_comments Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_user_comments Class
 type: Type
 ---
 

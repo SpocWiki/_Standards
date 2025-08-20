@@ -1,25 +1,27 @@
 ---
 aliases:
-- replacer
-- replacer
-- replacer
-- has_replacer
+  - replacer
+  - replacer
+  - replacer
+  - has_replacer
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- replacer
-layout: 
-license: "CC BY-SA 4.0"
+  - replacer
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_replacer
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_replacer
 type: Predi_Relation
 ---

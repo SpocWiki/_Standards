@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-study
-- medical_study
-- MedicalStudy
-- is_a_medical_study
+  - medical-study
+  - medical_study
+  - MedicalStudy
+  - is_a_medical_study
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_study
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_study Class"
+  - medical_study
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_study Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_study Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_study Class
 type: Type
 ---
 

@@ -1,25 +1,27 @@
 ---
 aliases:
-- worst_rating
-- worst-rating
-- worstRating
-- has_value_for_worst_rating
+  - worst_rating
+  - worst-rating
+  - worstRating
+  - has_value_for_worst_rating
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- worst-rating
-layout: 
-license: "CC BY-SA 4.0"
+  - worst-rating
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_worst-rating
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_worst-rating
 type: Predi_Quantity
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- house-painter
-- house_painter
-- HousePainter
-- is_a_house_painter
+  - house-painter
+  - house_painter
+  - HousePainter
+  - is_a_house_painter
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- house_painter
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_house_painter Class"
+  - house_painter
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_house_painter Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_house_painter Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_house_painter Class
 type: Type
 ---
 

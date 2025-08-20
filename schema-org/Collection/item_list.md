@@ -1,26 +1,27 @@
 ---
 aliases:
-- item-list
-- item_list
-- ItemList
-- is_an_item_list
+  - item-list
+  - item_list
+  - ItemList
+  - is_an_item_list
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- item_list
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_item_list Class"
+  - item_list
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_item_list Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_item_list Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_item_list Class
 type: Type
 ---
 

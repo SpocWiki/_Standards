@@ -1,26 +1,27 @@
 ---
 aliases:
-- invite-action
-- invite_action
-- InviteAction
-- is_an_invite_action
+  - invite-action
+  - invite_action
+  - InviteAction
+  - is_an_invite_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- invite_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_invite_action Class"
+  - invite_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_invite_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_invite_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_invite_action Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- ordered-item
-- ordered_item
-- orderedItem
-- has_ordered_item
+  - ordered-item
+  - ordered_item
+  - orderedItem
+  - has_ordered_item
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ordered
-- item
-layout: 
-license: "CC BY-SA 4.0"
+  - ordered
+  - item
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_ordered_item
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_ordered_item
 type: Predi_Relation
 ---

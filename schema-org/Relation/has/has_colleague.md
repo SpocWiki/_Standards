@@ -1,26 +1,28 @@
 ---
 aliases:
-- colleague
-- colleague
-- colleague
-- has_colleague
+  - colleague
+  - colleague
+  - colleague
+  - has_colleague
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- colleague
-layout: 
-license: "CC BY-SA 4.0"
+  - colleague
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_colleague
 publish: true
-publishDate: 
+publishDate:
 supersedes: colleagues
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_colleague
 type: Predi_Relation
 ---

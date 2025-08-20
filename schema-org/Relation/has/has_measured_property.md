@@ -1,26 +1,28 @@
 ---
 aliases:
-- measured-property
-- measured_property
-- measuredProperty
-- has_measured_property
+  - measured-property
+  - measured_property
+  - measuredProperty
+  - has_measured_property
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- measured
-- property
-layout: 
-license: "CC BY-SA 4.0"
+  - measured
+  - property
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_measured_property
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_measured_property
 type: Predi_Relation
 ---

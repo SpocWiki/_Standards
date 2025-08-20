@@ -1,25 +1,27 @@
 ---
 aliases:
-- gtin
-- gtin
-- gtin
-- has_text_of_gtin
+  - gtin
+  - gtin
+  - gtin
+  - has_text_of_gtin
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- gtin
-layout: 
-license: "CC BY-SA 4.0"
+  - gtin
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_gtin
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_gtin
 type: Pred_Text
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- monetary-amount
-- monetary_amount
-- MonetaryAmount
-- is_a_monetary_amount
+  - monetary-amount
+  - monetary_amount
+  - MonetaryAmount
+  - is_a_monetary_amount
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- monetary_amount
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_monetary_amount Class"
+  - monetary_amount
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_monetary_amount Class
 publish: true
-publishDate: 
+publishDate:
 supersedes: DatedMoneySpecification
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_monetary_amount Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_monetary_amount Class
 type: Type
 ---
 

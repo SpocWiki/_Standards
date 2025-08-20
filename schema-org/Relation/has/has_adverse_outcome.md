@@ -1,26 +1,28 @@
 ---
 aliases:
-- adverse-outcome
-- adverse_outcome
-- adverseOutcome
-- has_adverse_outcome
+  - adverse-outcome
+  - adverse_outcome
+  - adverseOutcome
+  - has_adverse_outcome
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- adverse
-- outcome
-layout: 
-license: "CC BY-SA 4.0"
+  - adverse
+  - outcome
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_adverse_outcome
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_adverse_outcome
 type: Predi_Relation
 ---

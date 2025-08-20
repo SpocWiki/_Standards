@@ -1,25 +1,27 @@
 ---
 aliases:
-- activity_frequency
-- activity-frequency
-- activityFrequency
-- has_value_for_activity_frequency
+  - activity_frequency
+  - activity-frequency
+  - activityFrequency
+  - has_value_for_activity_frequency
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- activity-frequency
-layout: 
-license: "CC BY-SA 4.0"
+  - activity-frequency
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_activity-frequency
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_activity-frequency
 type: Predi_Quantity
 ---

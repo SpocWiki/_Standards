@@ -1,26 +1,28 @@
 ---
 aliases:
-- sub-structure
-- sub_structure
-- subStructure
-- has_sub_structure
+  - sub-structure
+  - sub_structure
+  - subStructure
+  - has_sub_structure
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sub
-- structure
-layout: 
-license: "CC BY-SA 4.0"
+  - sub
+  - structure
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sub_structure
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sub_structure
 type: Predi_Relation
 ---

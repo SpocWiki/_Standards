@@ -1,28 +1,30 @@
 ---
 aliases:
-- code-sample-type
-- code_of_sample_type
-- codeSampleType
-- has_code_of_sample_type
+  - code-sample-type
+  - code_of_sample_type
+  - codeSampleType
+  - has_code_of_sample_type
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- code
-- sample
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - code
+  - sample
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_code_of_sample_type
 publish: true
-publishDate: 
+publishDate:
 supersedes: sampleType
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_code_of_sample_type
 type: Pred_Text
 ---

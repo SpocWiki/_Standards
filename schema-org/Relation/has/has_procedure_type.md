@@ -1,26 +1,28 @@
 ---
 aliases:
-- procedure-type
-- procedure_type
-- procedureType
-- has_procedure_type
+  - procedure-type
+  - procedure_type
+  - procedureType
+  - has_procedure_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- procedure
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - procedure
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_procedure_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_procedure_type
 type: Predi_Relation
 ---

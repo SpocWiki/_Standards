@@ -1,25 +1,27 @@
 ---
 aliases:
-- flight_distance
-- flight-distance
-- flightDistance
-- has_value_for_flight_distance_in_meters
+  - flight_distance
+  - flight-distance
+  - flightDistance
+  - has_value_for_flight_distance_in_meters
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- flight-distance
-layout: 
-license: "CC BY-SA 4.0"
+  - flight-distance
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_flight-distance
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_flight-distance
 type: Predi_Quantity
 ---

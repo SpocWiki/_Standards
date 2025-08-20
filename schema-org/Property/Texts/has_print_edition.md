@@ -1,26 +1,28 @@
 ---
 aliases:
-- print-edition
-- print_edition
-- printEdition
-- has_text_of_print_edition
+  - print-edition
+  - print_edition
+  - printEdition
+  - has_text_of_print_edition
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- print
-- edition
-layout: 
-license: "CC BY-SA 4.0"
+  - print
+  - edition
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_print_edition
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_print_edition
 type: Pred_Text
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- retail
-- retail
-- Retail
-- is_a_retail
+  - retail
+  - retail
+  - Retail
+  - is_a_retail
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DrugCostCategory
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- retail
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_retail Class"
+  - retail
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_retail Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_retail Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_retail Class
 type: Type
 ---
 

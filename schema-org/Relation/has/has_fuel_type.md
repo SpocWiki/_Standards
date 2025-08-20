@@ -1,26 +1,28 @@
 ---
 aliases:
-- fuel-type
-- fuel_type
-- fuelType
-- has_fuel_type
+  - fuel-type
+  - fuel_type
+  - fuelType
+  - has_fuel_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- fuel
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - fuel
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_fuel_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_fuel_type
 type: Predi_Relation
 ---

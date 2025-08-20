@@ -1,25 +1,27 @@
 ---
 aliases:
-- order_quantity
-- order-quantity
-- orderQuantity
-- has_value_for_order_quantity
+  - order_quantity
+  - order-quantity
+  - orderQuantity
+  - has_value_for_order_quantity
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- order-quantity
-layout: 
-license: "CC BY-SA 4.0"
+  - order-quantity
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_order-quantity
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_order-quantity
 type: Predi_Quantity
 ---

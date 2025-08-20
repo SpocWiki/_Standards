@@ -1,35 +1,31 @@
 ---
 aliases:
-- ? label-dash: 
-  : 
-- ? label_snail: 
-  : 
-- ? label: 
-  : 
-- has_duration_of_{{label_snail}}
+  - "{ label-dash: }":
+  - "{ label_snail: }":
+  - "{ label: }":
+  - has_duration_of_{{label_snail}}
 confidential: public
-cssclasses: "Predicate Duration"
+cssclasses:
+  - Predicate
+  - Duration
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ? label_snail: 
-  : 
-layout: 
-license: "CC BY-SA 4.0"
+  - "{ label_snail: }":
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_duration_of_{{label_snail}}
 publish: true
-publishDate: 
+publishDate:
 superseded_by:
-  ? supersededBy: 
-  : 
+  "{ supersededBy: }":
 supersedes:
-  ? supersedes: 
-  : 
+  "{ supersedes: }":
 tags:
-- class/Property
-- schema-org/Property/Durations
+  - class/Property
+  - schema-org/Property/Durations
 title: has_duration_of_{{label_snail}}
 type: Predi_Duration
 ---

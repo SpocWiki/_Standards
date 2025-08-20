@@ -1,25 +1,27 @@
 ---
 aliases:
-- cvd_num_vent_use
-- cvd-num-vent-use
-- cvdNumVentUse
-- has_number_of_Covid_vent_use
+  - cvd_num_vent_use
+  - cvd-num-vent-use
+  - cvdNumVentUse
+  - has_number_of_Covid_vent_use
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cvd-num-vent-use
-layout: 
-license: "CC BY-SA 4.0"
+  - cvd-num-vent-use
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_cvd-num-vent-use
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_cvd-num-vent-use
 type: Predi_Count
 ---

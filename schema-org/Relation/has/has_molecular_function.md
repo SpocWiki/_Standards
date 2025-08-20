@@ -1,26 +1,28 @@
 ---
 aliases:
-- has-molecular-function
-- molecular_function
-- hasMolecularFunction
-- has_molecular_function
+  - has-molecular-function
+  - molecular_function
+  - hasMolecularFunction
+  - has_molecular_function
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- molecular
-- function
-layout: 
-license: "CC BY-SA 4.0"
+  - molecular
+  - function
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_molecular_function
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_molecular_function
 type: Predi_Relation
 ---

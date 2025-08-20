@@ -1,25 +1,27 @@
 ---
 aliases:
-- number_of_full_bathrooms
-- number-of-full-bathrooms
-- numberOfFullBathrooms
-- has_number_of_full_bathrooms
+  - number_of_full_bathrooms
+  - number-of-full-bathrooms
+  - numberOfFullBathrooms
+  - has_number_of_full_bathrooms
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- number-of-full-bathrooms
-layout: 
-license: "CC BY-SA 4.0"
+  - number-of-full-bathrooms
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-full-bathrooms
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_number-of-full-bathrooms
 type: Predi_Count
 ---

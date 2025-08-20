@@ -1,27 +1,29 @@
 ---
 aliases:
-- no-bylines-policy
-- no_bylines_policy
-- noBylinesPolicy
-- has_no_bylines_policy
+  - no-bylines-policy
+  - no_bylines_policy
+  - noBylinesPolicy
+  - has_no_bylines_policy
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- no
-- bylines
-- policy
-layout: 
-license: "CC BY-SA 4.0"
+  - no
+  - bylines
+  - policy
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_no_bylines_policy
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_no_bylines_policy
 type: Predi_Relation
 ---

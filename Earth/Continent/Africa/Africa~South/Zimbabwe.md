@@ -1,50 +1,50 @@
 ---
 currency: "[[_Standards/WikiData/WD~Indian_rupee,80524]]"
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-- '[[_Standards/WikiData/WD~country,6256]]'
-- '[[_Standards/WikiData/WD~republic,7270]]'
+  - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~republic,7270]]"
 highest_point: "[[_Standards/WikiData/WD~Mount_Nyangani,152294]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Zimbabwe,159986]]"
 member_of:
-- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]"
-- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United_Nations,1065]]"
-- "[[_Standards/WikiData/WD~African_Union,7159]]"
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~African_Union,7159]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 named_after: "[[_Standards/WikiData/WD~Great_Zimbabwe,209217]]"
 lowest_point: "[[_Standards/WikiData/WD~Runde_River,270986]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Zimbabwe,272235]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Zimbabwe,408167]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Midlands_Province,456556]]"
-- "[[_Standards/WikiData/WD~Matabeleland_North_Province,456562]]"
-- "[[_Standards/WikiData/WD~Mashonaland_West_Province,457189]]"
-- "[[_Standards/WikiData/WD~Manicaland_Province,465847]]"
-- "[[_Standards/WikiData/WD~Mashonaland_East_Province,465853]]"
-- "[[_Standards/WikiData/WD~Masvingo_Province,498351]]"
-- "[[_Standards/WikiData/WD~Matabeleland_South_Province,498355]]"
-- "[[_Standards/WikiData/WD~Mashonaland_Central_Province,596156]]"
-- "[[_Standards/WikiData/WD~Harare_Province,16928358]]"
-- "[[_Standards/WikiData/WD~Bulawayo_Province,24045859]]"
+  - "[[_Standards/WikiData/WD~Midlands_Province,456556]]"
+  - "[[_Standards/WikiData/WD~Matabeleland_North_Province,456562]]"
+  - "[[_Standards/WikiData/WD~Mashonaland_West_Province,457189]]"
+  - "[[_Standards/WikiData/WD~Manicaland_Province,465847]]"
+  - "[[_Standards/WikiData/WD~Mashonaland_East_Province,465853]]"
+  - "[[_Standards/WikiData/WD~Masvingo_Province,498351]]"
+  - "[[_Standards/WikiData/WD~Matabeleland_South_Province,498355]]"
+  - "[[_Standards/WikiData/WD~Mashonaland_Central_Province,596156]]"
+  - "[[_Standards/WikiData/WD~Harare_Province,16928358]]"
+  - "[[_Standards/WikiData/WD~Bulawayo_Province,24045859]]"
 head_of_state: "[[_Standards/WikiData/WD~Emmerson_Mnangagwa,510523]]"
 head_of_government: "[[_Standards/WikiData/WD~Emmerson_Mnangagwa,510523]]"
 anthem: "[[_Standards/WikiData/WD~National_Anthem_of_Zimbabwe,628417]]"
@@ -53,64 +53,64 @@ geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Zimbabwe,980718]]"
 central_bank: "[[_Standards/WikiData/WD~Reserve_Bank_of_Zimbabwe,1025119]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Zimbabwe,1468532]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
-- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+  - "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+  - "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
 culture: "[[_Standards/WikiData/WD~culture_of_Zimbabwe,1997540]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Zimbabwe,2083905]]"
 language_used:
-- '[[_Standards/WikiData/WD~Tswa,2085051]]'
-- '[[_Standards/WikiData/WD~Nsenga,3081996]]'
-- '[[_Standards/WikiData/WD~Nambya,3553981]]'
-- '[[_Standards/WikiData/WD~Kunda,4121130]]'
-- "[[_Standards/WikiData/WD~Zimbabwe_Sign_Language,8072097]]"
-- '[[_Standards/WikiData/WD~Barwe,8826802]]'
-- '[[_Standards/WikiData/WD~Dombe,11001779]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Ndau,13311]]'
-- '[[_Standards/WikiData/WD~Venda,32704]]'
-- '[[_Standards/WikiData/WD~Manyika,33599]]'
-- '[[_Standards/WikiData/WD~Lozi,33628]]'
-- '[[_Standards/WikiData/WD~Kalanga,33672]]'
-- '[[_Standards/WikiData/WD~Shona,34004]]'
-- '[[_Standards/WikiData/WD~Tonga,34101]]'
-- "[[_Standards/WikiData/WD~Northern_Ndebele,35613]]"
+  - "[[_Standards/WikiData/WD~Tswa,2085051]]"
+  - "[[_Standards/WikiData/WD~Nsenga,3081996]]"
+  - "[[_Standards/WikiData/WD~Nambya,3553981]]"
+  - "[[_Standards/WikiData/WD~Kunda,4121130]]"
+  - "[[_Standards/WikiData/WD~Zimbabwe_Sign_Language,8072097]]"
+  - "[[_Standards/WikiData/WD~Barwe,8826802]]"
+  - "[[_Standards/WikiData/WD~Dombe,11001779]]"
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Ndau,13311]]"
+  - "[[_Standards/WikiData/WD~Venda,32704]]"
+  - "[[_Standards/WikiData/WD~Manyika,33599]]"
+  - "[[_Standards/WikiData/WD~Lozi,33628]]"
+  - "[[_Standards/WikiData/WD~Kalanga,33672]]"
+  - "[[_Standards/WikiData/WD~Shona,34004]]"
+  - "[[_Standards/WikiData/WD~Tonga,34101]]"
+  - "[[_Standards/WikiData/WD~Northern_Ndebele,35613]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Zimbabwe,2667564]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~999,3086706]]'
-- '[[_Standards/WikiData/WD~995,25267554]]'
-- '[[_Standards/WikiData/WD~994,25648901]]'
-- '[[_Standards/WikiData/WD~993,25743569]]'
+  - "[[_Standards/WikiData/WD~999,3086706]]"
+  - "[[_Standards/WikiData/WD~995,25267554]]"
+  - "[[_Standards/WikiData/WD~994,25648901]]"
+  - "[[_Standards/WikiData/WD~993,25743569]]"
 official_language:
-- '[[_Standards/WikiData/WD~Nambya,3553981]]'
-- "[[_Standards/WikiData/WD~Zimbabwe_Sign_Language,8072097]]"
-- '[[_Standards/WikiData/WD~Barwe,8826802]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Xhosa,13218]]'
-- '[[_Standards/WikiData/WD~Ndau,13311]]'
-- '[[_Standards/WikiData/WD~Venda,32704]]'
-- '[[_Standards/WikiData/WD~Chewa,33273]]'
-- '[[_Standards/WikiData/WD~Khoisan,33614]]'
-- '[[_Standards/WikiData/WD~Kalanga,33672]]'
-- '[[_Standards/WikiData/WD~Shona,34004]]'
-- '[[_Standards/WikiData/WD~Tonga,34101]]'
-- '[[_Standards/WikiData/WD~Tswana,34137]]'
-- '[[_Standards/WikiData/WD~Tsonga,34327]]'
-- '[[_Standards/WikiData/WD~Sesotho,34340]]'
-- "[[_Standards/WikiData/WD~Northern_Ndebele,35613]]"
+  - "[[_Standards/WikiData/WD~Nambya,3553981]]"
+  - "[[_Standards/WikiData/WD~Zimbabwe_Sign_Language,8072097]]"
+  - "[[_Standards/WikiData/WD~Barwe,8826802]]"
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Xhosa,13218]]"
+  - "[[_Standards/WikiData/WD~Ndau,13311]]"
+  - "[[_Standards/WikiData/WD~Venda,32704]]"
+  - "[[_Standards/WikiData/WD~Chewa,33273]]"
+  - "[[_Standards/WikiData/WD~Khoisan,33614]]"
+  - "[[_Standards/WikiData/WD~Kalanga,33672]]"
+  - "[[_Standards/WikiData/WD~Shona,34004]]"
+  - "[[_Standards/WikiData/WD~Tonga,34101]]"
+  - "[[_Standards/WikiData/WD~Tswana,34137]]"
+  - "[[_Standards/WikiData/WD~Tsonga,34327]]"
+  - "[[_Standards/WikiData/WD~Sesotho,34340]]"
+  - "[[_Standards/WikiData/WD~Northern_Ndebele,35613]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Africa_Harare,4689495]]'
-- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+  - "[[_Standards/WikiData/WD~Africa_Harare,4689495]]"
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Zimbabwe,7112534]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Zimbabwe,11247478]]'
-railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Zimbabwe,11247478]]"
+railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
+driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Zimbabwa,19056184]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Zimbabwa,19056184]]"
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-category_for_people_buried_here: '[[_Standards/WikiData/WD~Q115515756,115515756]]'
+category_for_people_buried_here: "[[_Standards/WikiData/WD~Q115515756,115515756]]"
 studied_in: "[[_Standards/WikiData/WD~Zimbabwean_studies,115669479]]"
-coordinates_of_westernmost_point: "Point(25.23728 -17.90943)"
-coordinates_of_southernmost_point: "Point(31.3093 -22.4208)"
+coordinates_of_westernmost_point: Point(25.23728 -17.90943)
+coordinates_of_southernmost_point: Point(31.3093 -22.4208)
 UMLS_CUI: C0043476
 demonym:
   - زيمبابوية
@@ -149,40 +149,40 @@ demonym:
   - Zimbabwéenne
   - זימבבואי
   - זימבבואית
-ISNI: 0000000122856828
-official_website: "https://www.zim.gov.zw/index.php/"
+ISNI: 122856828
+official_website: https://www.zim.gov.zw/index.php/
 nominal_GDP:
   - 28371238666
   - 20678055598
-coordinates_of_northernmost_point: "Point(29.82371 -15.61136)"
+coordinates_of_northernmost_point: Point(29.82371 -15.61136)
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~South_Africa,258]]"
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North_Korea,423]]"
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Angola,916]]'
-- '[[_Standards/WikiData/WD~Zambia,953]]'
-- '[[_Standards/WikiData/WD~Namibia,1030]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- '[[_Standards/WikiData/WD~Kenya,114]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
+  - "[[_Standards/WikiData/WD~South_Africa,258]]"
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Angola,916]]"
+  - "[[_Standards/WikiData/WD~Zambia,953]]"
+  - "[[_Standards/WikiData/WD~Namibia,1030]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Kenya,114]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
 shares_border_with:
-- "[[_Standards/WikiData/WD~South_Africa,258]]"
-- '[[_Standards/WikiData/WD~Zambia,953]]'
-- '[[_Standards/WikiData/WD~Botswana,963]]'
-- '[[_Standards/WikiData/WD~Mozambique,1029]]'
-country: '[[_Standards/WikiData/WD~Zimbabwe,954]]'
-capital: '[[_Standards/WikiData/WD~Harare,3921]]'
+  - "[[_Standards/WikiData/WD~South_Africa,258]]"
+  - "[[_Standards/WikiData/WD~Zambia,953]]"
+  - "[[_Standards/WikiData/WD~Botswana,963]]"
+  - "[[_Standards/WikiData/WD~Mozambique,1029]]"
+country: "[[_Standards/WikiData/WD~Zimbabwe,954]]"
+capital: "[[_Standards/WikiData/WD~Harare,3921]]"
 part_of:
-- "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
-- "[[_Standards/WikiData/WD~East_Africa,27407]]"
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+  - "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
+  - "[[_Standards/WikiData/WD~East_Africa,27407]]"
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
 water_as_percent_of_area: 1
 BTI_Governance_Index:
   - 2
@@ -211,7 +211,7 @@ BTI_Status_Index:
   - 3.68
   - 3.83
   - 3.91
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.zw,42286]]'
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.zw,42286]]"
 Democracy_Index: 3.16
 Inequality_adjusted_Human_Development_Index: 0.458
 Gini_coefficient: 50.3
@@ -234,15 +234,15 @@ birth_rate:
 maritime_identification_digits: 679
 life_expectancy: 61.163
 IAB_code: 1477
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zimbabwe.svg"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zimbabwe.svg
 FIPS_10_4_countries_and_regions_: ZI
-Unicode_character: 🇿🇼 
+Unicode_character: 🇿🇼
 number_of_out_of_school_children: 1123710
 INSEE_countries_and_foreign_territories_code: 99310
 locator_map_image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Zimbabwe%20%28orthographic%20projection%29.svg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LocationZimbabwe.svg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Zimbabwe%20on%20the%20globe%20%28Africa%20centered%29.svg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Zimbabwe%20%28orthographic%20projection%29.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationZimbabwe.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Zimbabwe%20on%20the%20globe%20%28Africa%20centered%29.svg
 area: 390757
 male_population:
   - 7385220
@@ -271,77 +271,78 @@ rural_population:
   - 10617452
   - 10827136
   - 11033499
-inception: "1980-04-18"
-has_time_started: "1980-04-18"
+inception: 1980-04-18
+has_time_started: 1980-04-18
 Dewey_Decimal_Classification: 2--6891
 ITU_letter_code: ZWE
 ISO_3166_1_alpha_3_code: ZWE
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Zimbabwe.svg"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Zimbabwe.svg
 WIPO_ST_3: ZW
 licence_plate_code: ZW
 ISO_3166_1_alpha_2_code: ZW
 official_name:
-- Zimbabwe
-- Zimbabwe
-- "République du Zimbabwe"
+  - Zimbabwe
+  - Zimbabwe
+  - République du Zimbabwe
 population: 15178979
 IOC_country_code: ZIM
 native_label: Zimbabwe
-short_name: "\U0001F1FF\U0001F1FC"
-coordinates_of_easternmost_point: "Point(33.06254 -19.77631)"
-coordinate_location: "Point(30.0 -19.0)"
-geoshape: "http://commons.wikimedia.org/data/main/Data:Zimbabwe.map"
+short_name: 🇿🇼
+coordinates_of_easternmost_point: Point(33.06254 -19.77631)
+coordinate_location: Point(30.0 -19.0)
+geoshape: http://commons.wikimedia.org/data/main/Data:Zimbabwe.map
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Simbabwe.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%B2%D9%8A%D9%85%D8%A8%D8%A7%D8%A8%D9%88%D9%8A.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Zimb%C3%A0bue.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Zimbabwe.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%9C%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A7%87.wav"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Zimbabwe%20banner.jpg"
-country_calling_code: +263
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Simbabwe.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%B2%D9%8A%D9%85%D8%A8%D8%A7%D8%A8%D9%88%D9%8A.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Zimb%C3%A0bue.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Zimbabwe.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%9C%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A7%87.wav
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Zimbabwe%20banner.jpg
+country_calling_code: 263
 Colon_Classification: SG--613
 Krugosvet_article: strany_mira/ZIMBABVE.html
 MeSH_tree_code: Z01.058.290.175.960
 GitHub_topic: zimbabwe
 CIVICUS_Monitor_country_entry: zimbabwe
 motto_text:
-- "Unitat, llibertat, treball"
-- "Undeb, Rhyddid, Gwaith"
-- "Unity, Freedom, Work"
+  - Unitat, llibertat, treball
+  - Undeb, Rhyddid, Gwaith
+  - Unity, Freedom, Work
 has_id_wikidata: Q954
 location:
-- -17.8333
-- 31.05
+  - -17.8333
+  - 31.05
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27064
 isDeleted: false
 confidential: public
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 isReadOnly: false
-source: "https://datahub.io/core/country-codes"
-cssclasses: Country
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
 publish: true
 title: Zimbabwe
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Zimbabwe
-- زمبابوي
-- 津巴布韦
-- Зимбабве
-- "the Republic of Zimbabwe"
-- "la República de Zimbabwe"
+  - Zimbabwe
+  - زمبابوي
+  - 津巴布韦
+  - Зимбабве
+  - the Republic of Zimbabwe
+  - la República de Zimbabwe
 Languages:
-- en-ZW
-- sn
-- nr
-- nd
+  - en-ZW
+  - sn
+  - nr
+  - nd
 ---
 
 # [[Zimbabwe]] 

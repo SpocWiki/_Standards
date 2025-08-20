@@ -1,25 +1,27 @@
 ---
 aliases:
-- recipe_yield
-- recipe-yield
-- recipeYield
-- has_value_for_is_yielding_servings
+  - recipe_yield
+  - recipe-yield
+  - recipeYield
+  - has_value_for_is_yielding_servings
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- recipe-yield
-layout: 
-license: "CC BY-SA 4.0"
+  - recipe-yield
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_recipe-yield
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_recipe-yield
 type: Predi_Quantity
 ---

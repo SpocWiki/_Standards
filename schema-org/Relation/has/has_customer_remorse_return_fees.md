@@ -1,28 +1,30 @@
 ---
 aliases:
-- customer-remorse-return-fees
-- customer_remorse_return_fees
-- customerRemorseReturnFees
-- has_customer_remorse_return_fees
+  - customer-remorse-return-fees
+  - customer_remorse_return_fees
+  - customerRemorseReturnFees
+  - has_customer_remorse_return_fees
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- customer
-- remorse
-- return
-- fees
-layout: 
-license: "CC BY-SA 4.0"
+  - customer
+  - remorse
+  - return
+  - fees
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_customer_remorse_return_fees
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_customer_remorse_return_fees
 type: Predi_Relation
 ---

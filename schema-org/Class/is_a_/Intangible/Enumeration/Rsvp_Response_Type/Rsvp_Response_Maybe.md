@@ -1,27 +1,28 @@
 ---
 aliases:
-- rsvp-response-maybe
-- rsvp_response_maybe
-- RsvpResponseMaybe
-- is_a_rsvp_response_maybe
+  - rsvp-response-maybe
+  - rsvp_response_maybe
+  - RsvpResponseMaybe
+  - is_a_rsvp_response_maybe
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: RsvpResponseType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rsvp_response_maybe
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_rsvp_response_maybe Class"
+  - rsvp_response_maybe
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_rsvp_response_maybe Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_rsvp_response_maybe Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_rsvp_response_maybe Class
 type: Type
 ---
 

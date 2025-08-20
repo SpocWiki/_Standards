@@ -1,26 +1,27 @@
 ---
 aliases:
-- bus-or-coach
-- bus_or_coach
-- BusOrCoach
-- is_a_bus_or_coach
+  - bus-or-coach
+  - bus_or_coach
+  - BusOrCoach
+  - is_a_bus_or_coach
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bus_or_coach
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_bus_or_coach Class"
+  - bus_or_coach
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_bus_or_coach Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_bus_or_coach Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_bus_or_coach Class
 type: Type
 ---
 

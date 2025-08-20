@@ -1,26 +1,27 @@
 ---
 aliases:
-- people-audience
-- people_audience
-- PeopleAudience
-- is_a_people_audience
+  - people-audience
+  - people_audience
+  - PeopleAudience
+  - is_a_people_audience
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- people_audience
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_people_audience Class"
+  - people_audience
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_people_audience Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_people_audience Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_people_audience Class
 type: Type
 ---
 

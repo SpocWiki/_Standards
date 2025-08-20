@@ -1,26 +1,28 @@
 ---
 aliases:
-- entertainment-business
-- entertainment_business
-- entertainmentBusiness
-- has_entertainment_business
+  - entertainment-business
+  - entertainment_business
+  - entertainmentBusiness
+  - has_entertainment_business
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- entertainment
-- business
-layout: 
-license: "CC BY-SA 4.0"
+  - entertainment
+  - business
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_entertainment_business
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_entertainment_business
 type: Predi_Relation
 ---

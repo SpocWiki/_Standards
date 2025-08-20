@@ -1,27 +1,28 @@
 ---
 aliases:
-- user-likes
-- user_likes
-- UserLikes
-- is_a_user_likes
+  - user-likes
+  - user_likes
+  - UserLikes
+  - is_a_user_likes
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- user_likes
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_user_likes Class"
+  - user_likes
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_user_likes Class
 publish: true
-publishDate: 
+publishDate:
 superseded_by: InteractionCounter
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_user_likes Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_user_likes Class
 type: Type
 ---
 

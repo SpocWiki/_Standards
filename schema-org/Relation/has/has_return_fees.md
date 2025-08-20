@@ -1,26 +1,28 @@
 ---
 aliases:
-- return-fees
-- return_fees
-- returnFees
-- has_return_fees
+  - return-fees
+  - return_fees
+  - returnFees
+  - has_return_fees
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return
-- fees
-layout: 
-license: "CC BY-SA 4.0"
+  - return
+  - fees
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_return_fees
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_return_fees
 type: Predi_Relation
 ---

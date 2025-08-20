@@ -1,25 +1,27 @@
 ---
 aliases:
-- sport
-- sport
-- sport
-- has_text_of_sport
+  - sport
+  - sport
+  - sport
+  - has_text_of_sport
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sport
-layout: 
-license: "CC BY-SA 4.0"
+  - sport
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_sport
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_sport
 type: Pred_Text
 ---

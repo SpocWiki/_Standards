@@ -1,27 +1,28 @@
 ---
 aliases:
-- cardiovascular-exam
-- cardiovascular_exam
-- CardiovascularExam
-- is_a_cardiovascular_exam
+  - cardiovascular-exam
+  - cardiovascular_exam
+  - CardiovascularExam
+  - is_a_cardiovascular_exam
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cardiovascular_exam
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_cardiovascular_exam Class"
+  - cardiovascular_exam
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_cardiovascular_exam Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_cardiovascular_exam Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_cardiovascular_exam Class
 type: Type
 ---
 

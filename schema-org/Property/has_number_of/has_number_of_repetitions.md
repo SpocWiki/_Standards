@@ -1,25 +1,27 @@
 ---
 aliases:
-- repetitions
-- repetitions
-- repetitions
-- has_number_of_repetitions
+  - repetitions
+  - repetitions
+  - repetitions
+  - has_number_of_repetitions
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- repetitions
-layout: 
-license: "CC BY-SA 4.0"
+  - repetitions
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_repetitions
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_repetitions
 type: Predi_Count
 ---

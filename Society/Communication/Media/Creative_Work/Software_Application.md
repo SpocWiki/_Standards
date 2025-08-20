@@ -1,26 +1,27 @@
 ---
 aliases:
-- software-application
-- software_application
-- SoftwareApplication
-- is_a_software_application
+  - software-application
+  - software_application
+  - SoftwareApplication
+  - is_a_software_application
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- software_application
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_software_application Class"
+  - software_application
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_software_application Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_software_application Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_software_application Class
 type: Type
 ---
 

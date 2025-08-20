@@ -5,18 +5,19 @@ aliases:
   - OnlineStore
   - is_an_online_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - online_store
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_an_online_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class

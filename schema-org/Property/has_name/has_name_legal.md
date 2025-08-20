@@ -1,26 +1,28 @@
 ---
 aliases:
-- legal-name
-- name_legal
-- legalName
-- has_name_legal
+  - legal-name
+  - name_legal
+  - legalName
+  - has_name_legal
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legal
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - legal
+  - name
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_name_legal
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_name_legal
 type: Pred_Text
 ---

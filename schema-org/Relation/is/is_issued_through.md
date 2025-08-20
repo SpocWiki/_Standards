@@ -1,26 +1,28 @@
 ---
 aliases:
-- issued-through
-- issued_through
-- issuedThrough
-- is_issued_through
+  - issued-through
+  - issued_through
+  - issuedThrough
+  - is_issued_through
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- issued
-- through
-layout: 
-license: "CC BY-SA 4.0"
+  - issued
+  - through
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_issued_through
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_issued_through
 type: Predi_Relation
 ---

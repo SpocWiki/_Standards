@@ -1,25 +1,27 @@
 ---
 aliases:
-- naics
-- naics
-- naics
-- has_text_of_naics
+  - naics
+  - naics
+  - naics
+  - has_text_of_naics
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- naics
-layout: 
-license: "CC BY-SA 4.0"
+  - naics
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_naics
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_naics
 type: Pred_Text
 ---

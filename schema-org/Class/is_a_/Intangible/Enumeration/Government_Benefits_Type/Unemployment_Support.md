@@ -1,27 +1,28 @@
 ---
 aliases:
-- unemployment-support
-- unemployment_support
-- UnemploymentSupport
-- is_an_unemployment_support
+  - unemployment-support
+  - unemployment_support
+  - UnemploymentSupport
+  - is_an_unemployment_support
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- unemployment_support
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_unemployment_support Class"
+  - unemployment_support
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_unemployment_support Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_unemployment_support Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_unemployment_support Class
 type: Type
 ---
 

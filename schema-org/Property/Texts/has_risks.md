@@ -1,25 +1,27 @@
 ---
 aliases:
-- risks
-- risks
-- risks
-- has_text_of_risks
+  - risks
+  - risks
+  - risks
+  - has_text_of_risks
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- risks
-layout: 
-license: "CC BY-SA 4.0"
+  - risks
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_risks
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_risks
 type: Pred_Text
 ---

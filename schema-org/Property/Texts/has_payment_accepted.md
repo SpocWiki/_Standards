@@ -1,26 +1,28 @@
 ---
 aliases:
-- payment-accepted
-- payment_accepted
-- paymentAccepted
-- has_text_of_payment_accepted
+  - payment-accepted
+  - payment_accepted
+  - paymentAccepted
+  - has_text_of_payment_accepted
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- payment
-- accepted
-layout: 
-license: "CC BY-SA 4.0"
+  - payment
+  - accepted
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_payment_accepted
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_payment_accepted
 type: Pred_Text
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- diet-nutrition
-- diet_nutrition
-- DietNutrition
-- is_a_diet_nutrition
+  - diet-nutrition
+  - diet_nutrition
+  - DietNutrition
+  - is_a_diet_nutrition
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- diet_nutrition
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_diet_nutrition Class"
+  - diet_nutrition
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_diet_nutrition Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_diet_nutrition Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_diet_nutrition Class
 type: Type
 ---
 

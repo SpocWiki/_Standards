@@ -1,25 +1,27 @@
 ---
 aliases:
-- number_of_partial_bathrooms
-- number-of-partial-bathrooms
-- numberOfPartialBathrooms
-- has_number_of_partial_bathrooms
+  - number_of_partial_bathrooms
+  - number-of-partial-bathrooms
+  - numberOfPartialBathrooms
+  - has_number_of_partial_bathrooms
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- number-of-partial-bathrooms
-layout: 
-license: "CC BY-SA 4.0"
+  - number-of-partial-bathrooms
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-partial-bathrooms
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_number-of-partial-bathrooms
 type: Predi_Count
 ---

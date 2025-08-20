@@ -1,26 +1,28 @@
 ---
 aliases:
-- educational-alignment
-- educational_alignment
-- educationalAlignment
-- has_educational_alignment
+  - educational-alignment
+  - educational_alignment
+  - educationalAlignment
+  - has_educational_alignment
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- educational
-- alignment
-layout: 
-license: "CC BY-SA 4.0"
+  - educational
+  - alignment
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_educational_alignment
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_educational_alignment
 type: Predi_Relation
 ---

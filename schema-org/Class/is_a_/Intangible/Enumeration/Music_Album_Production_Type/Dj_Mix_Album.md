@@ -1,27 +1,28 @@
 ---
 aliases:
-- dj-mix-album
-- dj_mix_album
-- DJMixAlbum
-- is_a_dj_mix_album
+  - dj-mix-album
+  - dj_mix_album
+  - DJMixAlbum
+  - is_a_dj_mix_album
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dj_mix_album
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_dj_mix_album Class"
+  - dj_mix_album
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_dj_mix_album Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_dj_mix_album Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_dj_mix_album Class
 type: Type
 ---
 

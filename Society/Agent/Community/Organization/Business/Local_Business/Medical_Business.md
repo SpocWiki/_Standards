@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-business
-- medical_business
-- MedicalBusiness
-- is_a_medical_business
+  - medical-business
+  - medical_business
+  - MedicalBusiness
+  - is_a_medical_business
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_business
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_business Class"
+  - medical_business
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_business Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_business Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_business Class
 type: Type
 ---
 

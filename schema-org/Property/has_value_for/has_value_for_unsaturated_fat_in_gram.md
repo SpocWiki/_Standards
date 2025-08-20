@@ -1,25 +1,27 @@
 ---
 aliases:
-- unsaturated_fat_in_gram
-- unsaturated-fat-content
-- unsaturatedFatContent
-- has_value_for_unsaturated_fat_in_gram
+  - unsaturated_fat_in_gram
+  - unsaturated-fat-content
+  - unsaturatedFatContent
+  - has_value_for_unsaturated_fat_in_gram
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- unsaturated-fat-content
-layout: 
-license: "CC BY-SA 4.0"
+  - unsaturated-fat-content
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_unsaturated-fat-content
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_unsaturated-fat-content
 type: Predi_Quantity
 ---

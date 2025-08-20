@@ -1,25 +1,27 @@
 ---
 aliases:
-- insertion
-- insertion
-- insertion
-- has_insertion
+  - insertion
+  - insertion
+  - insertion
+  - has_insertion
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- insertion
-layout: 
-license: "CC BY-SA 4.0"
+  - insertion
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_insertion
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_insertion
 type: Predi_Relation
 ---

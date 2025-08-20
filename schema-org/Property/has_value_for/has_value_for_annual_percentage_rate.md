@@ -1,25 +1,27 @@
 ---
 aliases:
-- annual_percentage_rate
-- annual-percentage-rate
-- annualPercentageRate
-- has_value_for_annual_percentage_rate
+  - annual_percentage_rate
+  - annual-percentage-rate
+  - annualPercentageRate
+  - has_value_for_annual_percentage_rate
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- annual-percentage-rate
-layout: 
-license: "CC BY-SA 4.0"
+  - annual-percentage-rate
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_annual-percentage-rate
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_annual-percentage-rate
 type: Predi_Quantity
 ---

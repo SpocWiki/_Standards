@@ -1,26 +1,27 @@
 ---
 aliases:
-- news-article
-- news_article
-- NewsArticle
-- is_a_news_article
+  - news-article
+  - news_article
+  - NewsArticle
+  - is_a_news_article
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- news_article
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_news_article Class"
+  - news_article
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_news_article Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_news_article Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_news_article Class
 type: Type
 ---
 

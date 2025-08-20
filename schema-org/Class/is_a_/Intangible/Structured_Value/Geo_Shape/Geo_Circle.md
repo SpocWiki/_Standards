@@ -1,26 +1,27 @@
 ---
 aliases:
-- geo-circle
-- geo_circle
-- GeoCircle
-- is_a_geo_circle
+  - geo-circle
+  - geo_circle
+  - GeoCircle
+  - is_a_geo_circle
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- geo_circle
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_geo_circle Class"
+  - geo_circle
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_geo_circle Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_geo_circle Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_geo_circle Class
 type: Type
 ---
 

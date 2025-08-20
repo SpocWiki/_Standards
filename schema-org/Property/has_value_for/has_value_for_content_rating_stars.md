@@ -1,25 +1,27 @@
 ---
 aliases:
-- content_rating
-- content-rating
-- contentRating
-- has_value_for_content_rating_stars
+  - content_rating
+  - content-rating
+  - contentRating
+  - has_value_for_content_rating_stars
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- content-rating
-layout: 
-license: "CC BY-SA 4.0"
+  - content-rating
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_content-rating
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_content-rating
 type: Predi_Quantity
 ---

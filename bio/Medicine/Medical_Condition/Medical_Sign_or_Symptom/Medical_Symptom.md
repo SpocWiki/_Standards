@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-symptom
-- medical_symptom
-- MedicalSymptom
-- is_a_medical_symptom
+  - medical-symptom
+  - medical_symptom
+  - MedicalSymptom
+  - is_a_medical_symptom
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_symptom
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_symptom Class"
+  - medical_symptom
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_symptom Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_symptom Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_symptom Class
 type: Type
 ---
 

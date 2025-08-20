@@ -1,26 +1,28 @@
 ---
 aliases:
-- food-event
-- food_event
-- foodEvent
-- has_food_event
+  - food-event
+  - food_event
+  - foodEvent
+  - has_food_event
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- food
-- event
-layout: 
-license: "CC BY-SA 4.0"
+  - food
+  - event
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_food_event
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_food_event
 type: Predi_Relation
 ---

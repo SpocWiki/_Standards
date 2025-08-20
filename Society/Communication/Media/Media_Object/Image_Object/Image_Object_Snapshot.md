@@ -1,26 +1,27 @@
 ---
 aliases:
-- image-object-snapshot
-- image_object_snapshot
-- ImageObjectSnapshot
-- is_an_image_object_snapshot
+  - image-object-snapshot
+  - image_object_snapshot
+  - ImageObjectSnapshot
+  - is_an_image_object_snapshot
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- image_object_snapshot
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_image_object_snapshot Class"
+  - image_object_snapshot
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_image_object_snapshot Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_image_object_snapshot Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_image_object_snapshot Class
 type: Type
 ---
 

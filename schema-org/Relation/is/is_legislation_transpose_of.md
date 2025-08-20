@@ -1,26 +1,28 @@
 ---
 aliases:
-- legislation-transposes
-- legislation_transpose_of
-- legislationTransposes
-- is_legislation_transpose_of
+  - legislation-transposes
+  - legislation_transpose_of
+  - legislationTransposes
+  - is_legislation_transpose_of
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legislation
-- transposes
-layout: 
-license: "CC BY-SA 4.0"
+  - legislation
+  - transposes
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_legislation_transpose_of
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_legislation_transpose_of
 type: Predi_Relation
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- weight
-- weight
-- weight
-- has_value_for_weight_in_gram
+  - weight
+  - weight
+  - weight
+  - has_value_for_weight_in_gram
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- weight
-layout: 
-license: "CC BY-SA 4.0"
+  - weight
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_weight
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_weight
 type: Predi_Quantity
 ---

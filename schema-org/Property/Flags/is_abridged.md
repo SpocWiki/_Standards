@@ -1,25 +1,27 @@
 ---
 aliases:
-- abridged
-- abridged
-- abridged
-- is_abridged
+  - abridged
+  - abridged
+  - abridged
+  - is_abridged
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- abridged
-layout: 
-license: "CC BY-SA 4.0"
+  - abridged
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_abridged
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_abridged
 type: Pred_Bool
 ---

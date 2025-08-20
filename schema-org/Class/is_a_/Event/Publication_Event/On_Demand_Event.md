@@ -1,26 +1,27 @@
 ---
 aliases:
-- on-demand-event
-- on_demand_event
-- OnDemandEvent
-- is_an_on_demand_event
+  - on-demand-event
+  - on_demand_event
+  - OnDemandEvent
+  - is_an_on_demand_event
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- on_demand_event
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_on_demand_event Class"
+  - on_demand_event
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_on_demand_event Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_on_demand_event Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_on_demand_event Class
 type: Type
 ---
 

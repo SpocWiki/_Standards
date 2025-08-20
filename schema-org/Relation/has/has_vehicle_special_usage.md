@@ -1,27 +1,29 @@
 ---
 aliases:
-- vehicle-special-usage
-- vehicle_special_usage
-- vehicleSpecialUsage
-- has_vehicle_special_usage
+  - vehicle-special-usage
+  - vehicle_special_usage
+  - vehicleSpecialUsage
+  - has_vehicle_special_usage
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- vehicle
-- special
-- usage
-layout: 
-license: "CC BY-SA 4.0"
+  - vehicle
+  - special
+  - usage
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_vehicle_special_usage
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_vehicle_special_usage
 type: Predi_Relation
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- triple-blinded-trial
-- triple_blinded_trial
-- TripleBlindedTrial
-- is_a_triple_blinded_trial
+  - triple-blinded-trial
+  - triple_blinded_trial
+  - TripleBlindedTrial
+  - is_a_triple_blinded_trial
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalTrialDesign
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- triple_blinded_trial
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_triple_blinded_trial Class"
+  - triple_blinded_trial
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_triple_blinded_trial Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_triple_blinded_trial Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_triple_blinded_trial Class
 type: Type
 ---
 

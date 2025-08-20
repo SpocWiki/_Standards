@@ -1,27 +1,28 @@
 ---
 aliases:
-- user-plus-ones
-- user_plus_ones
-- UserPlusOnes
-- is_a_user_plus_ones
+  - user-plus-ones
+  - user_plus_ones
+  - UserPlusOnes
+  - is_a_user_plus_ones
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- user_plus_ones
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_user_plus_ones Class"
+  - user_plus_ones
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_user_plus_ones Class
 publish: true
-publishDate: 
+publishDate:
 superseded_by: InteractionCounter
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_user_plus_ones Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_user_plus_ones Class
 type: Type
 ---
 

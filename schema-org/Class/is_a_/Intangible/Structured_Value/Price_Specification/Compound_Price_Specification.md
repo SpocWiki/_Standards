@@ -1,26 +1,27 @@
 ---
 aliases:
-- compound-price-specification
-- compound_price_specification
-- CompoundPriceSpecification
-- is_a_compound_price_specification
+  - compound-price-specification
+  - compound_price_specification
+  - CompoundPriceSpecification
+  - is_a_compound_price_specification
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- compound_price_specification
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_compound_price_specification Class"
+  - compound_price_specification
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_compound_price_specification Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_compound_price_specification Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_compound_price_specification Class
 type: Type
 ---
 

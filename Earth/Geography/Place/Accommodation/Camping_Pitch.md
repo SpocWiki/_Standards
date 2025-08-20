@@ -1,26 +1,27 @@
 ---
 aliases:
-- camping-pitch
-- camping_pitch
-- CampingPitch
-- is_a_camping_pitch
+  - camping-pitch
+  - camping_pitch
+  - CampingPitch
+  - is_a_camping_pitch
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- camping_pitch
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_camping_pitch Class"
+  - camping_pitch
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_camping_pitch Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_camping_pitch Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_camping_pitch Class
 type: Type
 ---
 

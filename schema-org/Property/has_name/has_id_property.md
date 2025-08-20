@@ -1,26 +1,28 @@
 ---
 aliases:
-- property-id
-- id_property
-- propertyID
-- has_id_property
+  - property-id
+  - id_property
+  - propertyID
+  - has_id_property
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- property
-- id
-layout: 
-license: "CC BY-SA 4.0"
+  - property
+  - id
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_property
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_property
 type: Pred_Text
 ---

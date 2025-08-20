@@ -1,26 +1,27 @@
 ---
 aliases:
-- drive-wheel-configuration-value
-- drive_wheel_configuration_value
-- DriveWheelConfigurationValue
-- is_a_drive_wheel_configuration_value
+  - drive-wheel-configuration-value
+  - drive_wheel_configuration_value
+  - DriveWheelConfigurationValue
+  - is_a_drive_wheel_configuration_value
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- drive_wheel_configuration_value
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_drive_wheel_configuration_value Class"
+  - drive_wheel_configuration_value
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_drive_wheel_configuration_value Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_drive_wheel_configuration_value Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_drive_wheel_configuration_value Class
 type: Type
 ---
 

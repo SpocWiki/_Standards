@@ -1,26 +1,27 @@
 ---
 aliases:
-- assign-action
-- assign_action
-- AssignAction
-- is_an_assign_action
+  - assign-action
+  - assign_action
+  - AssignAction
+  - is_an_assign_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- assign_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_assign_action Class"
+  - assign_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_assign_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_assign_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_assign_action Class
 type: Type
 ---
 

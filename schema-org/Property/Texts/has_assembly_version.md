@@ -1,26 +1,28 @@
 ---
 aliases:
-- assembly-version
-- assembly_version
-- assemblyVersion
-- has_text_of_assembly_version
+  - assembly-version
+  - assembly_version
+  - assemblyVersion
+  - has_text_of_assembly_version
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- assembly
-- version
-layout: 
-license: "CC BY-SA 4.0"
+  - assembly
+  - version
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_assembly_version
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_assembly_version
 type: Pred_Text
 ---

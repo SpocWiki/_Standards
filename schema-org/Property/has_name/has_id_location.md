@@ -1,27 +1,29 @@
 ---
 aliases:
-- global-location-number
-- id_location
-- globalLocationNumber
-- has_id_location
+  - global-location-number
+  - id_location
+  - globalLocationNumber
+  - has_id_location
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- global
-- location
-- number
-layout: 
-license: "CC BY-SA 4.0"
+  - global
+  - location
+  - number
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_location
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_location
 type: Pred_Text
 ---

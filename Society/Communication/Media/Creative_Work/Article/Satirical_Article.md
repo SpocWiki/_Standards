@@ -1,26 +1,27 @@
 ---
 aliases:
-- satirical-article
-- satirical_article
-- SatiricalArticle
-- is_a_satirical_article
+  - satirical-article
+  - satirical_article
+  - SatiricalArticle
+  - is_a_satirical_article
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- satirical_article
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_satirical_article Class"
+  - satirical_article
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_satirical_article Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_satirical_article Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_satirical_article Class
 type: Type
 ---
 

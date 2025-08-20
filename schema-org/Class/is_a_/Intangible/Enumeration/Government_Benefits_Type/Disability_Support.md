@@ -1,27 +1,28 @@
 ---
 aliases:
-- disability-support
-- disability_support
-- DisabilitySupport
-- is_a_disability_support
+  - disability-support
+  - disability_support
+  - DisabilitySupport
+  - is_a_disability_support
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- disability_support
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_disability_support Class"
+  - disability_support
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_disability_support Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_disability_support Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_disability_support Class
 type: Type
 ---
 

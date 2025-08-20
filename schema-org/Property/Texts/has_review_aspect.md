@@ -1,26 +1,28 @@
 ---
 aliases:
-- review-aspect
-- review_aspect
-- reviewAspect
-- has_text_of_review_aspect
+  - review-aspect
+  - review_aspect
+  - reviewAspect
+  - has_text_of_review_aspect
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- review
-- aspect
-layout: 
-license: "CC BY-SA 4.0"
+  - review
+  - aspect
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_review_aspect
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_review_aspect
 type: Pred_Text
 ---

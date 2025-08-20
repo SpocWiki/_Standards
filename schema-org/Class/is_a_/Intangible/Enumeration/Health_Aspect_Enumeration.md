@@ -1,26 +1,27 @@
 ---
 aliases:
-- health-aspect-enumeration
-- health_aspect_enumeration
-- HealthAspectEnumeration
-- is_a_health_aspect_enumeration
+  - health-aspect-enumeration
+  - health_aspect_enumeration
+  - HealthAspectEnumeration
+  - is_a_health_aspect_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health_aspect_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_health_aspect_enumeration Class"
+  - health_aspect_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_health_aspect_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_health_aspect_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_health_aspect_enumeration Class
 type: Type
 ---
 

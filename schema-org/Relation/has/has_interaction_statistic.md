@@ -1,27 +1,29 @@
 ---
 aliases:
-- interaction-statistic
-- interaction_statistic
-- interactionStatistic
-- has_interaction_statistic
+  - interaction-statistic
+  - interaction_statistic
+  - interactionStatistic
+  - has_interaction_statistic
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- interaction
-- statistic
-layout: 
-license: "CC BY-SA 4.0"
+  - interaction
+  - statistic
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_interaction_statistic
 publish: true
-publishDate: 
+publishDate:
 supersedes: interactionCount
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_interaction_statistic
 type: Predi_Relation
 ---

@@ -1,27 +1,29 @@
 ---
 aliases:
-- action-application
-- action_application
-- actionApplication
-- has_action_application
+  - action-application
+  - action_application
+  - actionApplication
+  - has_action_application
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- action
-- application
-layout: 
-license: "CC BY-SA 4.0"
+  - action
+  - application
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_action_application
 publish: true
-publishDate: 
+publishDate:
 supersedes: application
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_action_application
 type: Predi_Relation
 ---

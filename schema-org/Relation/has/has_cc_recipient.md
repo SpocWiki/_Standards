@@ -1,26 +1,28 @@
 ---
 aliases:
-- cc-recipient
-- cc_recipient
-- ccRecipient
-- has_cc_recipient
+  - cc-recipient
+  - cc_recipient
+  - ccRecipient
+  - has_cc_recipient
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cc
-- recipient
-layout: 
-license: "CC BY-SA 4.0"
+  - cc
+  - recipient
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_cc_recipient
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_cc_recipient
 type: Predi_Relation
 ---

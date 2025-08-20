@@ -1,25 +1,27 @@
 ---
 aliases:
-- copyright_year
-- copyright-year
-- copyrightYear
-- has_value_for_copyright_year
+  - copyright_year
+  - copyright-year
+  - copyrightYear
+  - has_value_for_copyright_year
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- copyright-year
-layout: 
-license: "CC BY-SA 4.0"
+  - copyright-year
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_copyright-year
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_copyright-year
 type: Predi_Quantity
 ---

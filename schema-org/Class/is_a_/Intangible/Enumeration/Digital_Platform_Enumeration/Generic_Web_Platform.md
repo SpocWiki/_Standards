@@ -1,27 +1,28 @@
 ---
 aliases:
-- generic-web-platform
-- generic_web_platform
-- GenericWebPlatform
-- is_a_generic_web_platform
+  - generic-web-platform
+  - generic_web_platform
+  - GenericWebPlatform
+  - is_a_generic_web_platform
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DigitalPlatformEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- generic_web_platform
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_generic_web_platform Class"
+  - generic_web_platform
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_generic_web_platform Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_generic_web_platform Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_generic_web_platform Class
 type: Type
 ---
 

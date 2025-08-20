@@ -1,26 +1,28 @@
 ---
 aliases:
-- discount-currency
-- discount_currency
-- discountCurrency
-- has_text_of_discount_currency
+  - discount-currency
+  - discount_currency
+  - discountCurrency
+  - has_text_of_discount_currency
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- discount
-- currency
-layout: 
-license: "CC BY-SA 4.0"
+  - discount
+  - currency
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_discount_currency
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_discount_currency
 type: Pred_Text
 ---

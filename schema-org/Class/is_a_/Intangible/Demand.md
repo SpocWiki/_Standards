@@ -1,26 +1,27 @@
 ---
 aliases:
-- demand
-- demand
-- Demand
-- is_a_demand
+  - demand
+  - demand
+  - Demand
+  - is_a_demand
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- demand
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_demand Class"
+  - demand
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_demand Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_demand Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_demand Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- event-postponed
-- event_postponed
-- EventPostponed
-- is_an_event_postponed
+  - event-postponed
+  - event_postponed
+  - EventPostponed
+  - is_an_event_postponed
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: EventStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- event_postponed
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_event_postponed Class"
+  - event_postponed
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_event_postponed Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_event_postponed Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_event_postponed Class
 type: Type
 ---
 

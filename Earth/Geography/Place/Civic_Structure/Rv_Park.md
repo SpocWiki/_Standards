@@ -1,26 +1,27 @@
 ---
 aliases:
-- rv-park
-- rv_park
-- RVPark
-- is_a_rv_park
+  - rv-park
+  - rv_park
+  - RVPark
+  - is_a_rv_park
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rv_park
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_rv_park Class"
+  - rv_park
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_rv_park Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_rv_park Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_rv_park Class
 type: Type
 ---
 

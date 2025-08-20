@@ -1,26 +1,28 @@
 ---
 aliases:
-- seat-section
-- seat_section
-- seatSection
-- has_text_of_seat_section
+  - seat-section
+  - seat_section
+  - seatSection
+  - has_text_of_seat_section
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- seat
-- section
-layout: 
-license: "CC BY-SA 4.0"
+  - seat
+  - section
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_seat_section
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_seat_section
 type: Pred_Text
 ---

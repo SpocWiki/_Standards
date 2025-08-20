@@ -1,25 +1,27 @@
 ---
 aliases:
-- comment-count
-- comment_count
-- commentCount
-- has_number_of_comments
+  - comment-count
+  - comment_count
+  - commentCount
+  - has_number_of_comments
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- comment_count
-layout: 
-license: "CC BY-SA 4.0"
+  - comment_count
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_comment_count
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_comment_count
 type: Predi_Count
 ---

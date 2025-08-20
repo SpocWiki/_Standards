@@ -1,91 +1,91 @@
 ---
 flag: "[[_Standards/WikiData/WD~flag_of_Sierra_Leone,168912]]"
 member_of:
-- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-- "[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]"
-- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
-- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Mano_River_Union,1505172]]"
-- "[[_Standards/WikiData/WD~United_Nations,1065]]"
-- "[[_Standards/WikiData/WD~African_Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]"
+  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Mano_River_Union,1505172]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~African_Union,7159]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Sierra_Leone,242938]]"
 head_of_state: "[[_Standards/WikiData/WD~Julius_Maada_Bio,283829]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 anthem: "[[_Standards/WikiData/WD~High_We_Exalt_Thee,_Realm_of_the_Free,549704]]"
 highest_point: "[[_Standards/WikiData/WD~Mount_Bintumani,769525]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Southern_Province,772185]]"
-- "[[_Standards/WikiData/WD~Northern_Province,912359]]"
-- "[[_Standards/WikiData/WD~Western_Area,1050475]]"
-- "[[_Standards/WikiData/WD~Eastern_Province,1050497]]"
-- "[[_Standards/WikiData/WD~North_West_Province,43371075]]"
+  - "[[_Standards/WikiData/WD~Southern_Province,772185]]"
+  - "[[_Standards/WikiData/WD~Northern_Province,912359]]"
+  - "[[_Standards/WikiData/WD~Western_Area,1050475]]"
+  - "[[_Standards/WikiData/WD~Eastern_Province,1050497]]"
+  - "[[_Standards/WikiData/WD~North_West_Province,43371075]]"
 central_bank: "[[_Standards/WikiData/WD~Bank_of_Sierra_Leone,806691]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Sierra_Leone,890010]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Sierra_Leone,1138130]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Sierra_Leone,1477561]]"
 language_used:
-- '[[_Standards/WikiData/WD~Mende,1478672]]'
-- '[[_Standards/WikiData/WD~Kuranko,3198896]]'
-- '[[_Standards/WikiData/WD~Loko,3914912]]'
-- "[[_Standards/WikiData/WD~Sierra_Leonean_Sign_Language,7511448]]"
-- "[[_Standards/WikiData/WD~Eastern_Maninkaka,11002130]]"
-- "[[_Standards/WikiData/WD~Southern_Kissi,11028974]]"
-- "[[_Standards/WikiData/WD~East_Limba,11034212]]"
-- "[[_Standards/WikiData/WD~Northern_Kissi,19921576]]"
-- "[[_Standards/WikiData/WD~West-Central_Limba,32867815]]"
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Susu,33990]]'
-- "[[_Standards/WikiData/WD~Bullom_So,35061]]"
-- '[[_Standards/WikiData/WD~Bom,35088]]'
-- '[[_Standards/WikiData/WD~Gola,35482]]'
-- '[[_Standards/WikiData/WD~Yalunka,35524]]'
-- '[[_Standards/WikiData/WD~Kono,35675]]'
-- '[[_Standards/WikiData/WD~Krio,35744]]'
-- '[[_Standards/WikiData/WD~Sherbro,36339]]'
-- '[[_Standards/WikiData/WD~Temne,36613]]'
-- '[[_Standards/WikiData/WD~Vai,36939]]'
+  - "[[_Standards/WikiData/WD~Mende,1478672]]"
+  - "[[_Standards/WikiData/WD~Kuranko,3198896]]"
+  - "[[_Standards/WikiData/WD~Loko,3914912]]"
+  - "[[_Standards/WikiData/WD~Sierra_Leonean_Sign_Language,7511448]]"
+  - "[[_Standards/WikiData/WD~Eastern_Maninkaka,11002130]]"
+  - "[[_Standards/WikiData/WD~Southern_Kissi,11028974]]"
+  - "[[_Standards/WikiData/WD~East_Limba,11034212]]"
+  - "[[_Standards/WikiData/WD~Northern_Kissi,19921576]]"
+  - "[[_Standards/WikiData/WD~West-Central_Limba,32867815]]"
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Susu,33990]]"
+  - "[[_Standards/WikiData/WD~Bullom_So,35061]]"
+  - "[[_Standards/WikiData/WD~Bom,35088]]"
+  - "[[_Standards/WikiData/WD~Gola,35482]]"
+  - "[[_Standards/WikiData/WD~Yalunka,35524]]"
+  - "[[_Standards/WikiData/WD~Kono,35675]]"
+  - "[[_Standards/WikiData/WD~Krio,35744]]"
+  - "[[_Standards/WikiData/WD~Sherbro,36339]]"
+  - "[[_Standards/WikiData/WD~Temne,36613]]"
+  - "[[_Standards/WikiData/WD~Vai,36939]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
-- "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+  - "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+  - "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Pedro_de_Sintra,1620277]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Sierra_Leone,1990590]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Sierra_Leone,2477601]]"
 culture: "[[_Standards/WikiData/WD~Sierra_Leonean_culture,3007281]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~999,3086706]]'
-- '[[_Standards/WikiData/WD~019,60061869]]'
+  - "[[_Standards/WikiData/WD~999,3086706]]"
+  - "[[_Standards/WikiData/WD~019,60061869]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Sierra_Leone,3143033]]"
 different_from: "[[_Standards/WikiData/WD~Sierra_Leone_River,3445630]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-- '[[_Standards/WikiData/WD~country,6256]]'
-- '[[_Standards/WikiData/WD~republic,7270]]'
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~republic,7270]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Africa_Freetown,4689493]]'
-- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+  - "[[_Standards/WikiData/WD~Africa_Freetown,4689493]]"
+  - "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Sierra_Leone,7112449]]"
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Sierra_Leone,14616219]]"
 replaces: "[[_Standards/WikiData/WD~Commonwealth_realm_of_Sierra_Leone,14920623]]"
 follows: "[[_Standards/WikiData/WD~Commonwealth_realm_of_Sierra_Leone,14920623]]"
@@ -100,58 +100,58 @@ nominal_GDP:
   - 4249234574
 UMLS_CUI: C0037063
 demonym:
-- سيراليوني
-- سيراليونيات
-- سيراليونية
-- سيراليونيين
-- "Siarra Leonach"
-- سيراليوني
-- سيراليونية
-- سيراليونيون
-- sierralleonés
-- sierralleonesa
-- "সিয়েরা লিয়নীয়"
-- serralleonès
-- serralleonesa
-- "Sierra Leonean"
-- sieraleonano
-- Sierraléonais
-- Sierraléonaise
-- "סיירה לאוני"
-- "סיירה לאונית"
-- "Sierra Leone-i"
-- sierraleonese
-- sierraleonesi
-- sieraleonian
-- "Sierra Leoner"
-- sierałeoneza
-- sierałeoneze
-- sierałeonezi
-- sierałeonezo
-- Sieraleonänan
+  - سيراليوني
+  - سيراليونيات
+  - سيراليونية
+  - سيراليونيين
+  - Siarra Leonach
+  - سيراليوني
+  - سيراليونية
+  - سيراليونيون
+  - sierralleonés
+  - sierralleonesa
+  - সিয়েরা লিয়নীয়
+  - serralleonès
+  - serralleonesa
+  - Sierra Leonean
+  - sieraleonano
+  - Sierraléonais
+  - Sierraléonaise
+  - סיירה לאוני
+  - סיירה לאונית
+  - Sierra Leone-i
+  - sierraleonese
+  - sierraleonesi
+  - sieraleonian
+  - Sierra Leoner
+  - sierałeoneza
+  - sierałeoneze
+  - sierałeonezi
+  - sierałeonezo
+  - Sieraleonänan
 MeSH_tree_code: Z01.058.290.190.725
-coordinates_of_northernmost_point: "Point(-11.5 10.0)"
+coordinates_of_northernmost_point: Point(-11.5 10.0)
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North_Korea,423]]"
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Liberia,1014]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~United_States,30]]"
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Germany,183]]'
+  - "[[_Standards/WikiData/WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Liberia,1014]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
 shares_border_with:
-- '[[_Standards/WikiData/WD~Guinea,1006]]'
-- '[[_Standards/WikiData/WD~Liberia,1014]]'
+  - "[[_Standards/WikiData/WD~Guinea,1006]]"
+  - "[[_Standards/WikiData/WD~Liberia,1014]]"
 country: "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Krio,35744]]'
-capital: '[[_Standards/WikiData/WD~Freetown,3780]]'
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Krio,35744]]"
+capital: "[[_Standards/WikiData/WD~Freetown,3780]]"
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 part_of: "[[_Standards/WikiData/WD~West_Africa,4412]]"
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
 lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 water_as_percent_of_area: 0.2
@@ -162,7 +162,7 @@ age_of_majority: 21
 mains_voltage: 230
 Happy_Planet_Index_score: 29
 Inequality_adjusted_Human_Development_Index: 0.309
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.sl,43767]]'
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.sl,43767]]"
 Gini_coefficient: 35.7
 Human_Development_Index: 0.477
 BTI_Governance_Index:
@@ -187,23 +187,23 @@ BTI_Status_Index:
   - 5.44
 mobile_country_code: 619
 basic_form_of_government: "[[_Standards/WikiData/WD~presidential_system,49892]]"
-geoshape: "http://commons.wikimedia.org/data/main/Data:Sierra+Leone.map"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Sierra%20Leone.svg"
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sierra%20Leone.svg"
+geoshape: http://commons.wikimedia.org/data/main/Data:Sierra+Leone.map
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Sierra%20Leone.svg
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sierra%20Leone.svg
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Sierra%20Leone.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%B3%D9%8A%D8%B1%D8%A7%D9%84%D9%8A%D9%88%D9%86.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Sierra%20Leone.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0%E0%A6%BE%20%E0%A6%B2%E0%A6%BF%E0%A6%93%E0%A6%A8.wav"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Sierra%20Leone.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%B3%D9%8A%D8%B1%D8%A7%D9%84%D9%8A%D9%88%D9%86.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Sierra%20Leone.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0%E0%A6%BE%20%E0%A6%B2%E0%A6%BF%E0%A6%93%E0%A6%A8.wav
 locator_map_image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LocationSierraLeone.svg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20Leone%20%28orthographic%20projection%29.svg"
-detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20Leone-Mappa.gif"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20Leone-Mappa.gif"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20Leone%20banner%20Village%20beach.jpg"
-official_website: "https://statehouse.gov.sl/"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationSierraLeone.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20Leone%20%28orthographic%20projection%29.svg
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20Leone-Mappa.gif
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20Leone-Mappa.gif
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20Leone%20banner%20Village%20beach.jpg
+official_website: https://statehouse.gov.sl/
 IPA_transcription: "'sɪæɾɑ lɛ'oːnə"
-country_calling_code: +232
+country_calling_code: 232
 U_S_National_Archives_Identifier: 10035817
 IAB_code: 1402
 Dewey_Decimal_Classification: 2--664
@@ -215,8 +215,8 @@ INSEE_countries_and_foreign_territories_code: 99342
 PM20_geo_code: C55
 Instagram_username: presidentmaadabio
 Colon_Classification: SG--6591
-Commons_category: "Sierra Leone"
-Commons_gallery: "Sierra Leone"
+Commons_category: Sierra Leone
+Commons_gallery: Sierra Leone
 GitHub_topic: sierra-leone
 CIVICUS_Monitor_country_entry: sierra-leone
 subreddit: SierraLeone
@@ -224,7 +224,7 @@ hashtag: SierraLeone
 ISO_3166_1_alpha_2_code: SL
 FIPS_10_4_countries_and_regions_: SL
 WIPO_ST_3: SL
-Unicode_character: 🇸🇱 
+Unicode_character: 🇸🇱
 ISO_3166_1_alpha_3_code: SLE
 IOC_country_code: SLE
 ITU_letter_code: SRL
@@ -232,15 +232,15 @@ Krugosvet_article: strany_mira/SERRA-LEONE.html
 Libris_URI: vs688hwd1kqw9rk
 licence_plate_code: WAL
 official_name:
-- "República de Sierra Leone"
-- "Sierra Leone"
-- "République de Sierra Leone"
-- "Repubblica della Sierra Leone"
-native_label: "Republic of Sierra Leone"
+  - República de Sierra Leone
+  - Sierra Leone
+  - République de Sierra Leone
+  - Repubblica della Sierra Leone
+native_label: Republic of Sierra Leone
 motto_text:
-- "The freedom to explore"
-- "Unity, Freedom, Justice"
-short_name: "\U0001F1F8\U0001F1F1"
+  - The freedom to explore
+  - Unity, Freedom, Justice
+short_name: 🇸🇱
 birth_rate:
   - 31.36
   - 30.788
@@ -259,8 +259,8 @@ urban_population:
   - 3534267
   - 3771972
 life_expectancy: 51.835
-inception: "1971-04-19"
-has_time_started: "1971-04-19"
+inception: 1971-04-19
+has_time_started: 1971-04-19
 female_population:
   - 4016374
   - 4109203
@@ -277,41 +277,42 @@ rural_population:
   - 4768441
   - 4833746
 population: 7557212
-coordinate_location: "Point(-12.1 8.5)"
+coordinate_location: Point(-12.1 8.5)
 has_id_wikidata: Q1044
 location:
-- 8.48445
-- -13.2345
+  - 8.48445
+  - -13.2345
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27019
 isDeleted: false
 confidential: public
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 isReadOnly: false
-source: "https://datahub.io/core/country-codes"
-cssclasses: Country
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
 publish: true
-title: "Sierra Leone"
-linkTitle: 
-keywords: 
-layout: 
+title: Sierra Leone
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- "Sierra Leone"
-- "Sierra Leona"
-- سيراليون
-- 塞拉利昂
-- Сьерра-Леоне
-- "the Republic of Sierra Leone"
-- "la República de Sierra Leona"
+  - Sierra Leone
+  - Sierra Leona
+  - سيراليون
+  - 塞拉利昂
+  - Сьерра-Леоне
+  - the Republic of Sierra Leone
+  - la República de Sierra Leona
 Languages:
-- en-SL
-- men
-- tem
+  - en-SL
+  - men
+  - tem
 ---
 
 # [[Sierra_Leone]] 

@@ -1,27 +1,29 @@
 ---
 aliases:
-- expects-acceptance-of
-- expects_acceptance_of
-- expectsAcceptanceOf
-- is_expecting_acceptance_of
+  - expects-acceptance-of
+  - expects_acceptance_of
+  - expectsAcceptanceOf
+  - is_expecting_acceptance_of
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- expects
-- acceptance
-- of
-layout: 
-license: "CC BY-SA 4.0"
+  - expects
+  - acceptance
+  - of
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_expecting_acceptance_of
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_expecting_acceptance_of
 type: Predi_Relation
 ---

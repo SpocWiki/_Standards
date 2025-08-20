@@ -1,26 +1,27 @@
 ---
 aliases:
-- how-to
-- how_to
-- HowTo
-- is_a_how_to
+  - how-to
+  - how_to
+  - HowTo
+  - is_a_how_to
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- how_to
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_how_to Class"
+  - how_to
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_how_to Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_how_to Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_how_to Class
 type: Type
 ---
 

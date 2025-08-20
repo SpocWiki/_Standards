@@ -1,27 +1,28 @@
 ---
 aliases:
-- online-only
-- online_only
-- OnlineOnly
-- is_online_only
+  - online-only
+  - online_only
+  - OnlineOnly
+  - is_online_only
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- online_only
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_online_only Class"
+  - online_only
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_online_only Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_online_only Class"
+  - class/Class
+  - schema-org/Class
+title: is_online_only Class
 type: Type
 ---
 

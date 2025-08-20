@@ -1,29 +1,31 @@
 ---
 aliases:
-- Json-LD
-- 
+  - Json-LD
+  - 
 confidential: private
-cssclasses: "private note"
+cssclasses:
+  - private
+  - note
 draft: true
-expiryDate: 
+expiryDate:
 has_time_started: 2023-10-26
 isDeleted: false
 isReadOnly: false
 Key: Value
 keywords:
-- Json-LD
+  - Json-LD
 lang: en
-layout: 
+layout:
 license: (c)copyrighted
 linkTitle: Json-LD
-Predicate: '[[Object]]'
+Predicate: "[[Object]]"
 publish: false
-publishDate: 
+publishDate:
 tags:
-- Json-LD
-- "rather use"
+  - Json-LD
+  - rather use
 title: Json-LD
-type: "private note"
+type: private note
 ---
 
 # [[JSON-LD]]

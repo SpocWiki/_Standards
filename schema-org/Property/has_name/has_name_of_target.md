@@ -1,26 +1,28 @@
 ---
 aliases:
-- target-name
-- name_of_target
-- targetName
-- has_name_of_target
+  - target-name
+  - name_of_target
+  - targetName
+  - has_name_of_target
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- target
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - target
+  - name
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_name_of_target
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_name_of_target
 type: Pred_Text
 ---

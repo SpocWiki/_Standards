@@ -1,25 +1,27 @@
 ---
 aliases:
-- step_value
-- step-value
-- stepValue
-- has_value_for_step
+  - step_value
+  - step-value
+  - stepValue
+  - has_value_for_step
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- step-value
-layout: 
-license: "CC BY-SA 4.0"
+  - step-value
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_step-value
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_step-value
 type: Predi_Quantity
 ---

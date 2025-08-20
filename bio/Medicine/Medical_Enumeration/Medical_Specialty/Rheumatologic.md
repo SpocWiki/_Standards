@@ -1,27 +1,28 @@
 ---
 aliases:
-- rheumatologic
-- rheumatologic
-- Rheumatologic
-- is_a_rheumatologic
+  - rheumatologic
+  - rheumatologic
+  - Rheumatologic
+  - is_a_rheumatologic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rheumatologic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_rheumatologic Class"
+  - rheumatologic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_rheumatologic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_rheumatologic Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_rheumatologic Class
 type: Type
 ---
 

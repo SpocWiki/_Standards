@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-procedure-type
-- medical_procedure_type
-- MedicalProcedureType
-- is_a_medical_procedure_type
+  - medical-procedure-type
+  - medical_procedure_type
+  - MedicalProcedureType
+  - is_a_medical_procedure_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_procedure_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_procedure_type Class"
+  - medical_procedure_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_procedure_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_procedure_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_procedure_type Class
 type: Type
 ---
 

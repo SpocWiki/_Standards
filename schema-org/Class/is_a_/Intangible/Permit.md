@@ -1,26 +1,27 @@
 ---
 aliases:
-- permit
-- permit
-- Permit
-- is_a_permit
+  - permit
+  - permit
+  - Permit
+  - is_a_permit
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- permit
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_permit Class"
+  - permit
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_permit Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_permit Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_permit Class
 type: Type
 ---
 

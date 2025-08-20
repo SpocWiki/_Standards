@@ -1,27 +1,28 @@
 ---
 aliases:
-- dangerous-good-consideration
-- dangerous_good_consideration
-- DangerousGoodConsideration
-- is_a_dangerous_good_consideration
+  - dangerous-good-consideration
+  - dangerous_good_consideration
+  - DangerousGoodConsideration
+  - is_a_dangerous_good_consideration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: AdultOrientedEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dangerous_good_consideration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_dangerous_good_consideration Class"
+  - dangerous_good_consideration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_dangerous_good_consideration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_dangerous_good_consideration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_dangerous_good_consideration Class
 type: Type
 ---
 

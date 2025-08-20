@@ -1,27 +1,28 @@
 ---
 aliases:
-- order-processing
-- order_processing
-- OrderProcessing
-- is_an_order_processing
+  - order-processing
+  - order_processing
+  - OrderProcessing
+  - is_an_order_processing
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: OrderStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- order_processing
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_order_processing Class"
+  - order_processing
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_order_processing Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_order_processing Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_order_processing Class
 type: Type
 ---
 

@@ -1,27 +1,29 @@
 ---
 aliases:
-- day-of-week
-- day_of_week
-- dayOfWeek
-- has_day_of_week
+  - day-of-week
+  - day_of_week
+  - dayOfWeek
+  - has_day_of_week
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- day
-- of
-- week
-layout: 
-license: "CC BY-SA 4.0"
+  - day
+  - of
+  - week
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_day_of_week
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_day_of_week
 type: Predi_Relation
 ---

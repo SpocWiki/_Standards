@@ -5,18 +5,19 @@ aliases:
   - AutoBodyShop
   - is_an_auto_body_shop
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - auto_body_shop
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_an_auto_body_shop Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class

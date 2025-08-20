@@ -1,27 +1,28 @@
 ---
 aliases:
-- event-cancelled
-- event_cancelled
-- EventCancelled
-- is_an_event_cancelled
+  - event-cancelled
+  - event_cancelled
+  - EventCancelled
+  - is_an_event_cancelled
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: EventStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- event_cancelled
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_event_cancelled Class"
+  - event_cancelled
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_event_cancelled Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_event_cancelled Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_event_cancelled Class
 type: Type
 ---
 

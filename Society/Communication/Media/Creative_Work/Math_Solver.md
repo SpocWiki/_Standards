@@ -1,26 +1,27 @@
 ---
 aliases:
-- math-solver
-- math_solver
-- MathSolver
-- is_a_math_solver
+  - math-solver
+  - math_solver
+  - MathSolver
+  - is_a_math_solver
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- math_solver
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_math_solver Class"
+  - math_solver
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_math_solver Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_math_solver Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_math_solver Class
 type: Type
 ---
 

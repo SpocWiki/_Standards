@@ -1,26 +1,27 @@
 ---
 aliases:
-- live-blog-posting
-- live_blog_posting
-- LiveBlogPosting
-- is_a_live_blog_posting
+  - live-blog-posting
+  - live_blog_posting
+  - LiveBlogPosting
+  - is_a_live_blog_posting
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- live_blog_posting
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_live_blog_posting Class"
+  - live_blog_posting
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_live_blog_posting Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_live_blog_posting Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_live_blog_posting Class
 type: Type
 ---
 

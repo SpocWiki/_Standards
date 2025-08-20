@@ -1,25 +1,27 @@
 ---
 aliases:
-- direct-apply
-- direct_apply
-- directApply
-- is_direct_apply
+  - direct-apply
+  - direct_apply
+  - directApply
+  - is_direct_apply
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- direct_apply
-layout: 
-license: "CC BY-SA 4.0"
+  - direct_apply
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_direct_apply
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_direct_apply
 type: Pred_Bool
 ---

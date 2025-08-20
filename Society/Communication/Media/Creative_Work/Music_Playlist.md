@@ -1,26 +1,27 @@
 ---
 aliases:
-- music-playlist
-- music_playlist
-- MusicPlaylist
-- is_a_music_playlist
+  - music-playlist
+  - music_playlist
+  - MusicPlaylist
+  - is_a_music_playlist
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- music_playlist
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_music_playlist Class"
+  - music_playlist
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_music_playlist Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_music_playlist Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_music_playlist Class
 type: Type
 ---
 

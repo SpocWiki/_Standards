@@ -1,25 +1,27 @@
 ---
 aliases:
-- thumbnail
-- thumbnail
-- thumbnail
-- has_thumbnail
+  - thumbnail
+  - thumbnail
+  - thumbnail
+  - has_thumbnail
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- thumbnail
-layout: 
-license: "CC BY-SA 4.0"
+  - thumbnail
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_thumbnail
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_thumbnail
 type: Predi_Relation
 ---

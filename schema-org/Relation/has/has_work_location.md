@@ -1,26 +1,28 @@
 ---
 aliases:
-- work-location
-- work_location
-- workLocation
-- has_work_location
+  - work-location
+  - work_location
+  - workLocation
+  - has_work_location
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- work
-- location
-layout: 
-license: "CC BY-SA 4.0"
+  - work
+  - location
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_work_location
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_work_location
 type: Predi_Relation
 ---

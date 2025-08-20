@@ -1,25 +1,27 @@
 ---
 aliases:
-- best_rating
-- best-rating
-- bestRating
-- has_value_for_best_rating
+  - best_rating
+  - best-rating
+  - bestRating
+  - has_value_for_best_rating
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- best-rating
-layout: 
-license: "CC BY-SA 4.0"
+  - best-rating
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_best-rating
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_best-rating
 type: Predi_Quantity
 ---

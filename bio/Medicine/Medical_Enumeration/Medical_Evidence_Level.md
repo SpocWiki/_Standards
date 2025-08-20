@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-evidence-level
-- medical_evidence_level
-- MedicalEvidenceLevel
-- is_a_medical_evidence_level
+  - medical-evidence-level
+  - medical_evidence_level
+  - MedicalEvidenceLevel
+  - is_a_medical_evidence_level
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_evidence_level
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_evidence_level Class"
+  - medical_evidence_level
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_evidence_level Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_evidence_level Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_evidence_level Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- expert-considerations
-- expert_considerations
-- expertConsiderations
-- has_text_of_expert_considerations
+  - expert-considerations
+  - expert_considerations
+  - expertConsiderations
+  - has_text_of_expert_considerations
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- expert
-- considerations
-layout: 
-license: "CC BY-SA 4.0"
+  - expert
+  - considerations
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_expert_considerations
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_expert_considerations
 type: Pred_Text
 ---

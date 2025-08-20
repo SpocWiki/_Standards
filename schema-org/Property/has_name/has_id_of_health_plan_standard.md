@@ -1,29 +1,31 @@
 ---
 aliases:
-- uses-health-plan-id-standard
-- id_of_health_plan_standard
-- usesHealthPlanIdStandard
-- has_id_of_health_plan_standard
+  - uses-health-plan-id-standard
+  - id_of_health_plan_standard
+  - usesHealthPlanIdStandard
+  - has_id_of_health_plan_standard
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- uses
-- health
-- plan
-- id
-- standard
-layout: 
-license: "CC BY-SA 4.0"
+  - uses
+  - health
+  - plan
+  - id
+  - standard
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_of_health_plan_standard
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_of_health_plan_standard
 type: Pred_Text
 ---

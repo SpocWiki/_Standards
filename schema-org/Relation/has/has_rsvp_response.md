@@ -1,26 +1,28 @@
 ---
 aliases:
-- rsvp-response
-- rsvp_response
-- rsvpResponse
-- has_rsvp_response
+  - rsvp-response
+  - rsvp_response
+  - rsvpResponse
+  - has_rsvp_response
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rsvp
-- response
-layout: 
-license: "CC BY-SA 4.0"
+  - rsvp
+  - response
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_rsvp_response
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_rsvp_response
 type: Predi_Relation
 ---

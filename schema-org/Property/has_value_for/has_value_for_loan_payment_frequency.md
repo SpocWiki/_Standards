@@ -1,25 +1,27 @@
 ---
 aliases:
-- loan_payment_frequency
-- loan-payment-frequency
-- loanPaymentFrequency
-- has_value_for_loan_payment_frequency
+  - loan_payment_frequency
+  - loan-payment-frequency
+  - loanPaymentFrequency
+  - has_value_for_loan_payment_frequency
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- loan-payment-frequency
-layout: 
-license: "CC BY-SA 4.0"
+  - loan-payment-frequency
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_loan-payment-frequency
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_loan-payment-frequency
 type: Predi_Quantity
 ---

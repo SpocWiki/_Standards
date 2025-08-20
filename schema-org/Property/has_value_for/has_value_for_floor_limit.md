@@ -1,25 +1,27 @@
 ---
 aliases:
-- floor_limit
-- floor-limit
-- floorLimit
-- has_value_for_floor_limit
+  - floor_limit
+  - floor-limit
+  - floorLimit
+  - has_value_for_floor_limit
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- floor-limit
-layout: 
-license: "CC BY-SA 4.0"
+  - floor-limit
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_floor-limit
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_floor-limit
 type: Predi_Quantity
 ---

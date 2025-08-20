@@ -1,27 +1,28 @@
 ---
 aliases:
-- zone-boarding-policy
-- zone_boarding_policy
-- ZoneBoardingPolicy
-- is_a_zone_boarding_policy
+  - zone-boarding-policy
+  - zone_boarding_policy
+  - ZoneBoardingPolicy
+  - is_a_zone_boarding_policy
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: BoardingPolicyType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- zone_boarding_policy
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_zone_boarding_policy Class"
+  - zone_boarding_policy
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_zone_boarding_policy Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_zone_boarding_policy Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_zone_boarding_policy Class
 type: Type
 ---
 

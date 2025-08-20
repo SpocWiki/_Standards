@@ -1,27 +1,28 @@
 ---
 aliases:
-- four-wheel-drive-configuration
-- four_wheel_drive_configuration
-- FourWheelDriveConfiguration
-- is_a_four_wheel_drive_configuration
+  - four-wheel-drive-configuration
+  - four_wheel_drive_configuration
+  - FourWheelDriveConfiguration
+  - is_a_four_wheel_drive_configuration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DriveWheelConfigurationValue
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- four_wheel_drive_configuration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_four_wheel_drive_configuration Class"
+  - four_wheel_drive_configuration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_four_wheel_drive_configuration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_four_wheel_drive_configuration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_four_wheel_drive_configuration Class
 type: Type
 ---
 

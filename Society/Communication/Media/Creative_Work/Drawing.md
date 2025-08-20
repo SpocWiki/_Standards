@@ -1,26 +1,27 @@
 ---
 aliases:
-- drawing
-- drawing
-- Drawing
-- is_a_drawing
+  - drawing
+  - drawing
+  - Drawing
+  - is_a_drawing
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- drawing
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_drawing Class"
+  - drawing
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_drawing Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_drawing Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_drawing Class
 type: Type
 ---
 

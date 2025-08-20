@@ -1,25 +1,27 @@
 ---
 aliases:
-- benefits-summary-url
-- benefits_summary_url
-- benefitsSummaryUrl
-- has_url_for_benefits_summary_url
+  - benefits-summary-url
+  - benefits_summary_url
+  - benefitsSummaryUrl
+  - has_url_for_benefits_summary_url
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- benefits_summary_url
-layout: 
-license: "CC BY-SA 4.0"
+  - benefits_summary_url
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_benefits_summary_url
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_benefits_summary_url
 type: Predi_Url
 ---

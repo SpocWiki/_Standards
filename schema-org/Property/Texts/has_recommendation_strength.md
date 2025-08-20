@@ -1,26 +1,28 @@
 ---
 aliases:
-- recommendation-strength
-- recommendation_strength
-- recommendationStrength
-- has_text_of_recommendation_strength
+  - recommendation-strength
+  - recommendation_strength
+  - recommendationStrength
+  - has_text_of_recommendation_strength
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- recommendation
-- strength
-layout: 
-license: "CC BY-SA 4.0"
+  - recommendation
+  - strength
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_recommendation_strength
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_recommendation_strength
 type: Pred_Text
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-measurement-outside-leg
-- wearable_measurement_outside_leg
-- WearableMeasurementOutsideLeg
-- is_a_wearable_measurement_outside_leg
+  - wearable-measurement-outside-leg
+  - wearable_measurement_outside_leg
+  - WearableMeasurementOutsideLeg
+  - is_a_wearable_measurement_outside_leg
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_measurement_outside_leg
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_measurement_outside_leg Class"
+  - wearable_measurement_outside_leg
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_measurement_outside_leg Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_measurement_outside_leg Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_measurement_outside_leg Class
 type: Type
 ---
 

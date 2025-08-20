@@ -1,27 +1,28 @@
 ---
 aliases:
-- merchant-return-enumeration
-- merchant_return_enumeration
-- MerchantReturnEnumeration
-- is_a_merchant_return_enumeration
+  - merchant-return-enumeration
+  - merchant_return_enumeration
+  - MerchantReturnEnumeration
+  - is_a_merchant_return_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- merchant_return_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_merchant_return_enumeration Class"
+  - merchant_return_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_merchant_return_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 supersedes: ProductReturnEnumeration
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_merchant_return_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_merchant_return_enumeration Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- return-shipping-fees
-- return_shipping_fees
-- ReturnShippingFees
-- is_a_return_shipping_fees
+  - return-shipping-fees
+  - return_shipping_fees
+  - ReturnShippingFees
+  - is_a_return_shipping_fees
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReturnFeesEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return_shipping_fees
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_return_shipping_fees Class"
+  - return_shipping_fees
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_return_shipping_fees Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_return_shipping_fees Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_return_shipping_fees Class
 type: Type
 ---
 

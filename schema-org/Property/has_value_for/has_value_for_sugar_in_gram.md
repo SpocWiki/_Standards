@@ -1,25 +1,27 @@
 ---
 aliases:
-- sugar_in_gram
-- sugar-content
-- sugarContent
-- has_value_for_sugar_in_gram
+  - sugar_in_gram
+  - sugar-content
+  - sugarContent
+  - has_value_for_sugar_in_gram
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sugar-content
-layout: 
-license: "CC BY-SA 4.0"
+  - sugar-content
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sugar-content
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_sugar-content
 type: Predi_Quantity
 ---

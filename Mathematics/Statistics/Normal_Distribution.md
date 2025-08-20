@@ -1,39 +1,41 @@
 ---
 aliases:
-- Normal_Distribution
-- 
+  - Normal_Distribution
+  - 
 confidential: private
-cssclasses: "private note"
+cssclasses:
+  - private
+  - note
 draft: true
-expiryDate: 
+expiryDate:
 has_id_wikidata: Q133871
 has_Template:
-- Extract~Note~Template
+  - Extract~Note~Template
 has_time_started: 2024-12-15
 isDeleted: false
 isReadOnly: false
 keywords: Normal_Distribution
 lang: en
-layout: 
+layout:
 license: (c)copyrighted
 linkTitle: Normal_Distribution
 publish: false
-publishDate: 
+publishDate:
 TableByName:
   Normal_Distribution.tsv:
     columns:
-    - x
-    - norm_cum
-    - norm_dist
-    - x_sqr
+      - x
+      - norm_cum
+      - norm_dist
+      - x_sqr
     headings:
-    - x
-    - cum%
-    - dist%
-    - 1-x²
+      - x
+      - cum%
+      - dist%
+      - 1-x²
 tags:
-- Normal_Distribution
-- 
+  - Normal_Distribution
+  - 
 title: Normal_Distribution
 type: private_note
 ---

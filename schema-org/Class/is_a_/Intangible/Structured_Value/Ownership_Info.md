@@ -1,26 +1,27 @@
 ---
 aliases:
-- ownership-info
-- ownership_info
-- OwnershipInfo
-- is_an_ownership_info
+  - ownership-info
+  - ownership_info
+  - OwnershipInfo
+  - is_an_ownership_info
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ownership_info
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_ownership_info Class"
+  - ownership_info
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_ownership_info Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_ownership_info Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_ownership_info Class
 type: Type
 ---
 

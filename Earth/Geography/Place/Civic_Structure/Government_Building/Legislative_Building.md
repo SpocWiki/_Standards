@@ -1,26 +1,27 @@
 ---
 aliases:
-- legislative-building
-- legislative_building
-- LegislativeBuilding
-- is_a_legislative_building
+  - legislative-building
+  - legislative_building
+  - LegislativeBuilding
+  - is_a_legislative_building
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legislative_building
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_legislative_building Class"
+  - legislative_building
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_legislative_building Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_legislative_building Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_legislative_building Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- narcotic-consideration
-- narcotic_consideration
-- NarcoticConsideration
-- is_a_narcotic_consideration
+  - narcotic-consideration
+  - narcotic_consideration
+  - NarcoticConsideration
+  - is_a_narcotic_consideration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: AdultOrientedEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- narcotic_consideration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_narcotic_consideration Class"
+  - narcotic_consideration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_narcotic_consideration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_narcotic_consideration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_narcotic_consideration Class
 type: Type
 ---
 

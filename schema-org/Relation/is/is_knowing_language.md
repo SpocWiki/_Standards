@@ -1,26 +1,28 @@
 ---
 aliases:
-- knows-language
-- knows_language
-- knowsLanguage
-- is_knowing_language
+  - knows-language
+  - knows_language
+  - knowsLanguage
+  - is_knowing_language
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- knows
-- language
-layout: 
-license: "CC BY-SA 4.0"
+  - knows
+  - language
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_knowing_language
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_knowing_language
 type: Predi_Relation
 ---

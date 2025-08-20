@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-sign
-- medical_sign
-- MedicalSign
-- is_a_medical_sign
+  - medical-sign
+  - medical_sign
+  - MedicalSign
+  - is_a_medical_sign
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_sign
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_sign Class"
+  - medical_sign
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_sign Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_sign Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_sign Class
 type: Type
 ---
 

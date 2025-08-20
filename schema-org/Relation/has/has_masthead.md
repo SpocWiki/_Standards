@@ -1,25 +1,27 @@
 ---
 aliases:
-- masthead
-- masthead
-- masthead
-- has_masthead
+  - masthead
+  - masthead
+  - masthead
+  - has_masthead
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- masthead
-layout: 
-license: "CC BY-SA 4.0"
+  - masthead
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_masthead
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_masthead
 type: Predi_Relation
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- sign-detected
-- sign_detected
-- signDetected
-- has_sign_detected
+  - sign-detected
+  - sign_detected
+  - signDetected
+  - has_sign_detected
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sign
-- detected
-layout: 
-license: "CC BY-SA 4.0"
+  - sign
+  - detected
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sign_detected
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sign_detected
 type: Predi_Relation
 ---

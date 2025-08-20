@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-device-purpose
-- medical_device_purpose
-- MedicalDevicePurpose
-- is_a_medical_device_purpose
+  - medical-device-purpose
+  - medical_device_purpose
+  - MedicalDevicePurpose
+  - is_a_medical_device_purpose
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_device_purpose
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_device_purpose Class"
+  - medical_device_purpose
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_device_purpose Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_device_purpose Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_device_purpose Class
 type: Type
 ---
 

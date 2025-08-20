@@ -1,26 +1,28 @@
 ---
 aliases:
-- recipe-cuisine
-- recipe_cuisine
-- recipeCuisine
-- has_text_of_recipe_cuisine
+  - recipe-cuisine
+  - recipe_cuisine
+  - recipeCuisine
+  - has_text_of_recipe_cuisine
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- recipe
-- cuisine
-layout: 
-license: "CC BY-SA 4.0"
+  - recipe
+  - cuisine
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_recipe_cuisine
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_recipe_cuisine
 type: Pred_Text
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- readonly-value
-- readonly
-- readonlyValue
-- is_readonly
+  - readonly-value
+  - readonly
+  - readonlyValue
+  - is_readonly
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- readonly
-layout: 
-license: "CC BY-SA 4.0"
+  - readonly
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_readonly
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_readonly
 type: Pred_Bool
 ---

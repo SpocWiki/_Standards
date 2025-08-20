@@ -1,26 +1,28 @@
 ---
 aliases:
-- hospital-affiliation
-- hospital_affiliation
-- hospitalAffiliation
-- has_hospital_affiliation
+  - hospital-affiliation
+  - hospital_affiliation
+  - hospitalAffiliation
+  - has_hospital_affiliation
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hospital
-- affiliation
-layout: 
-license: "CC BY-SA 4.0"
+  - hospital
+  - affiliation
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_hospital_affiliation
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_hospital_affiliation
 type: Predi_Relation
 ---

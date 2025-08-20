@@ -1,26 +1,27 @@
 ---
 aliases:
-- legal-value-level
-- legal_value_level
-- LegalValueLevel
-- is_a_legal_value_level
+  - legal-value-level
+  - legal_value_level
+  - LegalValueLevel
+  - is_a_legal_value_level
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legal_value_level
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_legal_value_level Class"
+  - legal_value_level
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_legal_value_level Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_legal_value_level Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_legal_value_level Class
 type: Type
 ---
 

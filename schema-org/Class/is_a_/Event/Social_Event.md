@@ -1,26 +1,27 @@
 ---
 aliases:
-- social-event
-- social_event
-- SocialEvent
-- is_a_social_event
+  - social-event
+  - social_event
+  - SocialEvent
+  - is_a_social_event
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- social_event
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_social_event Class"
+  - social_event
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_social_event Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_social_event Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_social_event Class
 type: Type
 ---
 

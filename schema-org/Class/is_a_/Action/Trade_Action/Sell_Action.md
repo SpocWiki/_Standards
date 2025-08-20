@@ -1,26 +1,27 @@
 ---
 aliases:
-- sell-action
-- sell_action
-- SellAction
-- is_a_sell_action
+  - sell-action
+  - sell_action
+  - SellAction
+  - is_a_sell_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sell_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_sell_action Class"
+  - sell_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_sell_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_sell_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_sell_action Class
 type: Type
 ---
 

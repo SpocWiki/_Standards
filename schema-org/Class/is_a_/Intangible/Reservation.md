@@ -1,26 +1,27 @@
 ---
 aliases:
-- reservation
-- reservation
-- Reservation
-- is_a_reservation
+  - reservation
+  - reservation
+  - Reservation
+  - is_a_reservation
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reservation
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_reservation Class"
+  - reservation
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_reservation Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_reservation Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_reservation Class
 type: Type
 ---
 

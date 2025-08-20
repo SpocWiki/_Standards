@@ -1,26 +1,27 @@
 ---
 aliases:
-- performance-role
-- performance_role
-- PerformanceRole
-- is_a_performance_role
+  - performance-role
+  - performance_role
+  - PerformanceRole
+  - is_a_performance_role
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- performance_role
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_performance_role Class"
+  - performance_role
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_performance_role Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_performance_role Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_performance_role Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- abdomen
-- abdomen
-- Abdomen
-- is_an_abdomen
+  - abdomen
+  - abdomen
+  - Abdomen
+  - is_an_abdomen
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- abdomen
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_abdomen Class"
+  - abdomen
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_abdomen Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_abdomen Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_abdomen Class
 type: Type
 ---
 

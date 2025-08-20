@@ -1,26 +1,28 @@
 ---
 aliases:
-- natural-progression
-- natural_progression
-- naturalProgression
-- has_text_of_natural_progression
+  - natural-progression
+  - natural_progression
+  - naturalProgression
+  - has_text_of_natural_progression
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- natural
-- progression
-layout: 
-license: "CC BY-SA 4.0"
+  - natural
+  - progression
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_natural_progression
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_natural_progression
 type: Pred_Text
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- order-delivery
-- order_delivery
-- orderDelivery
-- has_order_delivery
+  - order-delivery
+  - order_delivery
+  - orderDelivery
+  - has_order_delivery
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- order
-- delivery
-layout: 
-license: "CC BY-SA 4.0"
+  - order
+  - delivery
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_order_delivery
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_order_delivery
 type: Predi_Relation
 ---

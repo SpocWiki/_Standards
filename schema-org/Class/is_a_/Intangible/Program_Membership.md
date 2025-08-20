@@ -1,26 +1,27 @@
 ---
 aliases:
-- program-membership
-- program_membership
-- ProgramMembership
-- is_a_program_membership
+  - program-membership
+  - program_membership
+  - ProgramMembership
+  - is_a_program_membership
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- program_membership
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_program_membership Class"
+  - program_membership
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_program_membership Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_program_membership Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_program_membership Class
 type: Type
 ---
 

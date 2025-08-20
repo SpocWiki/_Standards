@@ -1,24 +1,26 @@
 ---
 aliases:
-- is-encoded-by-bio-chem-entity
-- encoded_by_bio_chem_entity
-- isEncodedByBioChemEntity
-- is_encoded_by_bio_chem_entity
+  - is-encoded-by-bio-chem-entity
+  - encoded_by_bio_chem_entity
+  - isEncodedByBioChemEntity
+  - is_encoded_by_bio_chem_entity
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_encoded_by_bio_chem_entity
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_encoded_by_bio_chem_entity
 type: Predi_Relation
 ---

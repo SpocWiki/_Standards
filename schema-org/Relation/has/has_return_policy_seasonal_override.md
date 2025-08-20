@@ -1,28 +1,30 @@
 ---
 aliases:
-- return-policy-seasonal-override
-- return_policy_seasonal_override
-- returnPolicySeasonalOverride
-- has_return_policy_seasonal_override
+  - return-policy-seasonal-override
+  - return_policy_seasonal_override
+  - returnPolicySeasonalOverride
+  - has_return_policy_seasonal_override
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return
-- policy
-- seasonal
-- override
-layout: 
-license: "CC BY-SA 4.0"
+  - return
+  - policy
+  - seasonal
+  - override
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_return_policy_seasonal_override
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_return_policy_seasonal_override
 type: Predi_Relation
 ---

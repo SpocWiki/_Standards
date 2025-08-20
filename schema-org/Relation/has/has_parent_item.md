@@ -1,26 +1,28 @@
 ---
 aliases:
-- parent-item
-- parent_item
-- parentItem
-- has_parent_item
+  - parent-item
+  - parent_item
+  - parentItem
+  - has_parent_item
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- parent
-- item
-layout: 
-license: "CC BY-SA 4.0"
+  - parent
+  - item
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_parent_item
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_parent_item
 type: Predi_Relation
 ---

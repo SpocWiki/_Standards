@@ -1,27 +1,29 @@
 ---
 aliases:
-- healthcare-reporting-data
-- healthcare_reporting_data
-- healthcareReportingData
-- has_healthcare_reporting_data
+  - healthcare-reporting-data
+  - healthcare_reporting_data
+  - healthcareReportingData
+  - has_healthcare_reporting_data
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- healthcare
-- reporting
-- data
-layout: 
-license: "CC BY-SA 4.0"
+  - healthcare
+  - reporting
+  - data
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_healthcare_reporting_data
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_healthcare_reporting_data
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- delivery-event
-- delivery_event
-- DeliveryEvent
-- is_a_delivery_event
+  - delivery-event
+  - delivery_event
+  - DeliveryEvent
+  - is_a_delivery_event
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- delivery_event
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_delivery_event Class"
+  - delivery_event
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_delivery_event Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_delivery_event Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_delivery_event Class
 type: Type
 ---
 

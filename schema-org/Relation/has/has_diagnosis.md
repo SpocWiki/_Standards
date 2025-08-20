@@ -1,25 +1,27 @@
 ---
 aliases:
-- diagnosis
-- diagnosis
-- diagnosis
-- has_diagnosis
+  - diagnosis
+  - diagnosis
+  - diagnosis
+  - has_diagnosis
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- diagnosis
-layout: 
-license: "CC BY-SA 4.0"
+  - diagnosis
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_diagnosis
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_diagnosis
 type: Predi_Relation
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-measurement-collar
-- wearable_measurement_collar
-- WearableMeasurementCollar
-- is_a_wearable_measurement_collar
+  - wearable-measurement-collar
+  - wearable_measurement_collar
+  - WearableMeasurementCollar
+  - is_a_wearable_measurement_collar
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_measurement_collar
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_measurement_collar Class"
+  - wearable_measurement_collar
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_measurement_collar Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_measurement_collar Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_measurement_collar Class
 type: Type
 ---
 

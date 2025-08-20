@@ -1,27 +1,29 @@
 ---
 aliases:
-- recipe-ingredient
-- recipe_ingredient
-- recipeIngredient
-- has_text_of_recipe_ingredient
+  - recipe-ingredient
+  - recipe_ingredient
+  - recipeIngredient
+  - has_text_of_recipe_ingredient
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- recipe
-- ingredient
-layout: 
-license: "CC BY-SA 4.0"
+  - recipe
+  - ingredient
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_recipe_ingredient
 publish: true
-publishDate: 
+publishDate:
 supersedes: ingredients
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_recipe_ingredient
 type: Pred_Text
 ---

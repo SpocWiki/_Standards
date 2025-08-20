@@ -1,26 +1,28 @@
 ---
 aliases:
-- subtitle-language
-- subtitle_language
-- subtitleLanguage
-- has_subtitle_language
+  - subtitle-language
+  - subtitle_language
+  - subtitleLanguage
+  - has_subtitle_language
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- subtitle
-- language
-layout: 
-license: "CC BY-SA 4.0"
+  - subtitle
+  - language
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_subtitle_language
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_subtitle_language
 type: Predi_Relation
 ---

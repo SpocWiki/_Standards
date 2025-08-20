@@ -1,27 +1,28 @@
 ---
 aliases:
-- pharmacy-specialty
-- pharmacy_specialty
-- PharmacySpecialty
-- is_a_pharmacy_specialty
+  - pharmacy-specialty
+  - pharmacy_specialty
+  - PharmacySpecialty
+  - is_a_pharmacy_specialty
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- pharmacy_specialty
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_pharmacy_specialty Class"
+  - pharmacy_specialty
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_pharmacy_specialty Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_pharmacy_specialty Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_pharmacy_specialty Class
 type: Type
 ---
 

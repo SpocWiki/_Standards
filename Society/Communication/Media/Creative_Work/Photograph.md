@@ -1,26 +1,27 @@
 ---
 aliases:
-- photograph
-- photograph
-- Photograph
-- is_a_photograph
+  - photograph
+  - photograph
+  - Photograph
+  - is_a_photograph
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- photograph
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_photograph Class"
+  - photograph
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_photograph Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_photograph Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_photograph Class
 type: Type
 ---
 

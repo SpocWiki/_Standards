@@ -1,26 +1,28 @@
 ---
 aliases:
-- contact-option
-- contact_option
-- contactOption
-- has_contact_option
+  - contact-option
+  - contact_option
+  - contactOption
+  - has_contact_option
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- contact
-- option
-layout: 
-license: "CC BY-SA 4.0"
+  - contact
+  - option
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_contact_option
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_contact_option
 type: Predi_Relation
 ---

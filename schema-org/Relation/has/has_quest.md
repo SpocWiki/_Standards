@@ -1,25 +1,27 @@
 ---
 aliases:
-- quest
-- quest
-- quest
-- has_quest
+  - quest
+  - quest
+  - quest
+  - has_quest
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- quest
-layout: 
-license: "CC BY-SA 4.0"
+  - quest
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_quest
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_quest
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-scholarly-article
-- medical_scholarly_article
-- MedicalScholarlyArticle
-- is_a_medical_scholarly_article
+  - medical-scholarly-article
+  - medical_scholarly_article
+  - MedicalScholarlyArticle
+  - is_a_medical_scholarly_article
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_scholarly_article
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_scholarly_article Class"
+  - medical_scholarly_article
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_scholarly_article Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_scholarly_article Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_scholarly_article Class
 type: Type
 ---
 

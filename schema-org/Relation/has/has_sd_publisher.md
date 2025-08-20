@@ -1,26 +1,28 @@
 ---
 aliases:
-- sd-publisher
-- sd_publisher
-- sdPublisher
-- has_sd_publisher
+  - sd-publisher
+  - sd_publisher
+  - sdPublisher
+  - has_sd_publisher
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sd
-- publisher
-layout: 
-license: "CC BY-SA 4.0"
+  - sd
+  - publisher
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sd_publisher
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sd_publisher
 type: Predi_Relation
 ---

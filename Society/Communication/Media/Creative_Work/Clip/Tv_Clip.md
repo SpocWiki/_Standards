@@ -1,26 +1,27 @@
 ---
 aliases:
-- tv-clip
-- tv_clip
-- TVClip
-- is_a_tv_clip
+  - tv-clip
+  - tv_clip
+  - TVClip
+  - is_a_tv_clip
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tv_clip
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_tv_clip Class"
+  - tv_clip
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_tv_clip Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_tv_clip Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_tv_clip Class
 type: Type
 ---
 

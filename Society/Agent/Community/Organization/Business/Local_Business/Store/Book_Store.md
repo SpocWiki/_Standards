@@ -1,26 +1,27 @@
 ---
 aliases:
-- book-store
-- book_store
-- BookStore
-- is_a_book_store
+  - book-store
+  - book_store
+  - BookStore
+  - is_a_book_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- book_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_book_store Class"
+  - book_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_book_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_book_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_book_store Class
 type: Type
 ---
 

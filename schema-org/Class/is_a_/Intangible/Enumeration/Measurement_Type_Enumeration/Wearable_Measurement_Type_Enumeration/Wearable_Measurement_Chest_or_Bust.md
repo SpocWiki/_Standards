@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-measurement-chest-or-bust
-- wearable_measurement_chest_or_bust
-- WearableMeasurementChestOrBust
-- is_a_wearable_measurement_chest_or_bust
+  - wearable-measurement-chest-or-bust
+  - wearable_measurement_chest_or_bust
+  - WearableMeasurementChestOrBust
+  - is_a_wearable_measurement_chest_or_bust
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_measurement_chest_or_bust
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_measurement_chest_or_bust Class"
+  - wearable_measurement_chest_or_bust
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_measurement_chest_or_bust Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_measurement_chest_or_bust Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_measurement_chest_or_bust Class
 type: Type
 ---
 

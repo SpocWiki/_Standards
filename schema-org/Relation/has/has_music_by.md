@@ -1,26 +1,28 @@
 ---
 aliases:
-- music-by
-- music_by
-- musicBy
-- has_music_by
+  - music-by
+  - music_by
+  - musicBy
+  - has_music_by
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- music
-- by
-layout: 
-license: "CC BY-SA 4.0"
+  - music
+  - by
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_music_by
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_music_by
 type: Predi_Relation
 ---

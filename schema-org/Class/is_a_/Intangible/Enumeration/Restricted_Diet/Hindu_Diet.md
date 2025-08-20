@@ -1,27 +1,28 @@
 ---
 aliases:
-- hindu-diet
-- hindu_diet
-- HinduDiet
-- is_a_hindu_diet
+  - hindu-diet
+  - hindu_diet
+  - HinduDiet
+  - is_a_hindu_diet
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hindu_diet
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hindu_diet Class"
+  - hindu_diet
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hindu_diet Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hindu_diet Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hindu_diet Class
 type: Type
 ---
 

@@ -1,25 +1,27 @@
 ---
 aliases:
-- strength_value
-- strength-value
-- strengthValue
-- has_value_for_strength
+  - strength_value
+  - strength-value
+  - strengthValue
+  - has_value_for_strength
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- strength-value
-layout: 
-license: "CC BY-SA 4.0"
+  - strength-value
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_strength-value
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_strength-value
 type: Predi_Quantity
 ---

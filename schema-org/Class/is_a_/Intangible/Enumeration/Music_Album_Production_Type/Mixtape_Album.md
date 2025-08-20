@@ -1,27 +1,28 @@
 ---
 aliases:
-- mixtape-album
-- mixtape_album
-- MixtapeAlbum
-- is_a_mixtape_album
+  - mixtape-album
+  - mixtape_album
+  - MixtapeAlbum
+  - is_a_mixtape_album
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- mixtape_album
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_mixtape_album Class"
+  - mixtape_album
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_mixtape_album Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_mixtape_album Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_mixtape_album Class
 type: Type
 ---
 

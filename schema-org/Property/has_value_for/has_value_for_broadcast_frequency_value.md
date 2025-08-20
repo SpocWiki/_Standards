@@ -1,25 +1,27 @@
 ---
 aliases:
-- broadcast_frequency_value
-- broadcast-frequency-value
-- broadcastFrequencyValue
-- has_value_for_broadcast_frequency
+  - broadcast_frequency_value
+  - broadcast-frequency-value
+  - broadcastFrequencyValue
+  - has_value_for_broadcast_frequency
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast-frequency-value
-layout: 
-license: "CC BY-SA 4.0"
+  - broadcast-frequency-value
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_broadcast-frequency-value
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_broadcast-frequency-value
 type: Predi_Quantity
 ---

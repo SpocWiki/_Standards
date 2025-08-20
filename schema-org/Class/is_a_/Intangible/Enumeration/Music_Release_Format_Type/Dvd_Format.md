@@ -1,27 +1,28 @@
 ---
 aliases:
-- dvd-format
-- dvd_format
-- DVDFormat
-- is_a_dvd_format
+  - dvd-format
+  - dvd_format
+  - DVDFormat
+  - is_a_dvd_format
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicReleaseFormatType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dvd_format
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_dvd_format Class"
+  - dvd_format
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_dvd_format Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_dvd_format Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_dvd_format Class
 type: Type
 ---
 

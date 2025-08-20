@@ -1,26 +1,28 @@
 ---
 aliases:
-- study-design
-- study_design
-- studyDesign
-- has_study_design
+  - study-design
+  - study_design
+  - studyDesign
+  - has_study_design
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- study
-- design
-layout: 
-license: "CC BY-SA 4.0"
+  - study
+  - design
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_study_design
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_study_design
 type: Predi_Relation
 ---

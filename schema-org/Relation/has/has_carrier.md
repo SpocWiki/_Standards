@@ -1,26 +1,28 @@
 ---
 aliases:
-- carrier
-- carrier
-- carrier
-- has_carrier
+  - carrier
+  - carrier
+  - carrier
+  - has_carrier
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- carrier
-layout: 
-license: "CC BY-SA 4.0"
+  - carrier
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_carrier
 publish: true
-publishDate: 
+publishDate:
 superseded_by: provider
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_carrier
 type: Predi_Relation
 ---

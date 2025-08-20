@@ -1,27 +1,28 @@
 ---
 aliases:
-- body-measurement-weight
-- body_measurement_weight
-- BodyMeasurementWeight
-- is_a_body_measurement_weight
+  - body-measurement-weight
+  - body_measurement_weight
+  - BodyMeasurementWeight
+  - is_a_body_measurement_weight
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- body_measurement_weight
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_body_measurement_weight Class"
+  - body_measurement_weight
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_body_measurement_weight Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_body_measurement_weight Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_body_measurement_weight Class
 type: Type
 ---
 

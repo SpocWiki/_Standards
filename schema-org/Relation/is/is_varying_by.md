@@ -1,24 +1,26 @@
 ---
 aliases:
-- varies-by
-- varying_by
-- variesBy
-- is_varying_by
+  - varies-by
+  - varying_by
+  - variesBy
+  - is_varying_by
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_varying_by
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_varying_by
 type: Predi_Relation
 ---

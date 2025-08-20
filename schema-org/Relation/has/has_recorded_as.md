@@ -1,26 +1,28 @@
 ---
 aliases:
-- recorded-as
-- recorded_as
-- recordedAs
-- has_recorded_as
+  - recorded-as
+  - recorded_as
+  - recordedAs
+  - has_recorded_as
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- recorded
-- as
-layout: 
-license: "CC BY-SA 4.0"
+  - recorded
+  - as
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_recorded_as
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_recorded_as
 type: Predi_Relation
 ---

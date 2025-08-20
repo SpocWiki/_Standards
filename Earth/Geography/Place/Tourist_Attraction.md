@@ -1,26 +1,27 @@
 ---
 aliases:
-- tourist-attraction
-- tourist_attraction
-- TouristAttraction
-- is_a_tourist_attraction
+  - tourist-attraction
+  - tourist_attraction
+  - TouristAttraction
+  - is_a_tourist_attraction
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tourist_attraction
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_tourist_attraction Class"
+  - tourist_attraction
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_tourist_attraction Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_tourist_attraction Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_tourist_attraction Class
 type: Type
 ---
 

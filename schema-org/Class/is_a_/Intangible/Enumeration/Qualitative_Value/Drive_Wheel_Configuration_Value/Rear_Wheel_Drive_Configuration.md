@@ -1,27 +1,28 @@
 ---
 aliases:
-- rear-wheel-drive-configuration
-- rear_wheel_drive_configuration
-- RearWheelDriveConfiguration
-- is_a_rear_wheel_drive_configuration
+  - rear-wheel-drive-configuration
+  - rear_wheel_drive_configuration
+  - RearWheelDriveConfiguration
+  - is_a_rear_wheel_drive_configuration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DriveWheelConfigurationValue
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rear_wheel_drive_configuration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_rear_wheel_drive_configuration Class"
+  - rear_wheel_drive_configuration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_rear_wheel_drive_configuration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_rear_wheel_drive_configuration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_rear_wheel_drive_configuration Class
 type: Type
 ---
 

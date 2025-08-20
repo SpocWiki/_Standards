@@ -1,26 +1,28 @@
 ---
 aliases:
-- sub-trip
-- sub_trip
-- subTrip
-- has_sub_trip
+  - sub-trip
+  - sub_trip
+  - subTrip
+  - has_sub_trip
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sub
-- trip
-layout: 
-license: "CC BY-SA 4.0"
+  - sub
+  - trip
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sub_trip
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sub_trip
 type: Predi_Relation
 ---

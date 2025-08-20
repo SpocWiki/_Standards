@@ -1,27 +1,28 @@
 ---
 aliases:
-- nonprofit501c19
-- nonprofit501c19
-- Nonprofit501c19
-- is_a_nonprofit501c19
+  - nonprofit501c19
+  - nonprofit501c19
+  - Nonprofit501c19
+  - is_a_nonprofit501c19
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nonprofit501c19
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nonprofit501c19 Class"
+  - nonprofit501c19
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nonprofit501c19 Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nonprofit501c19 Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nonprofit501c19 Class
 type: Type
 ---
 

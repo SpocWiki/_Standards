@@ -1,26 +1,27 @@
 ---
 aliases:
-- observation
-- observation
-- Observation
-- is_an_observation
+  - observation
+  - observation
+  - Observation
+  - is_an_observation
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- observation
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_observation Class"
+  - observation
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_observation Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_observation Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_observation Class
 type: Type
 ---
 

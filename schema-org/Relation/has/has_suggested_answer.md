@@ -1,26 +1,28 @@
 ---
 aliases:
-- suggested-answer
-- suggested_answer
-- suggestedAnswer
-- has_suggested_answer
+  - suggested-answer
+  - suggested_answer
+  - suggestedAnswer
+  - has_suggested_answer
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- suggested
-- answer
-layout: 
-license: "CC BY-SA 4.0"
+  - suggested
+  - answer
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_suggested_answer
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_suggested_answer
 type: Predi_Relation
 ---

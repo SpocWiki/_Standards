@@ -1,26 +1,27 @@
 ---
 aliases:
-- communicate-action
-- communicate_action
-- CommunicateAction
-- is_a_communicate_action
+  - communicate-action
+  - communicate_action
+  - CommunicateAction
+  - is_a_communicate_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- communicate_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_communicate_action Class"
+  - communicate_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_communicate_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_communicate_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_communicate_action Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- bus-station
-- bus_station
-- BusStation
-- is_a_bus_station
+  - bus-station
+  - bus_station
+  - BusStation
+  - is_a_bus_station
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bus_station
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_bus_station Class"
+  - bus_station
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_bus_station Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_bus_station Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_bus_station Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- digital-format
-- digital_format
-- DigitalFormat
-- is_a_digital_format
+  - digital-format
+  - digital_format
+  - DigitalFormat
+  - is_a_digital_format
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicReleaseFormatType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- digital_format
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_digital_format Class"
+  - digital_format
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_digital_format Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_digital_format Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_digital_format Class
 type: Type
 ---
 

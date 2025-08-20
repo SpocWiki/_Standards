@@ -1,27 +1,28 @@
 ---
 aliases:
-- activation-fee
-- activation_fee
-- ActivationFee
-- is_an_activation_fee
+  - activation-fee
+  - activation_fee
+  - ActivationFee
+  - is_an_activation_fee
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PriceComponentTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- activation_fee
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_activation_fee Class"
+  - activation_fee
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_activation_fee Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_activation_fee Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_activation_fee Class
 type: Type
 ---
 

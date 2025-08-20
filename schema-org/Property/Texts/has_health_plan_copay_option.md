@@ -1,28 +1,30 @@
 ---
 aliases:
-- health-plan-copay-option
-- health_plan_copay_option
-- healthPlanCopayOption
-- has_text_of_health_plan_copay_option
+  - health-plan-copay-option
+  - health_plan_copay_option
+  - healthPlanCopayOption
+  - has_text_of_health_plan_copay_option
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health
-- plan
-- copay
-- option
-layout: 
-license: "CC BY-SA 4.0"
+  - health
+  - plan
+  - copay
+  - option
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_health_plan_copay_option
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_health_plan_copay_option
 type: Pred_Text
 ---

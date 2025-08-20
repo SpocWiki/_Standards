@@ -1,26 +1,27 @@
 ---
 aliases:
-- notary
-- notary
-- Notary
-- is_a_notary
+  - notary
+  - notary
+  - Notary
+  - is_a_notary
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- notary
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_notary Class"
+  - notary
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_notary Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_notary Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_notary Class
 type: Type
 ---
 

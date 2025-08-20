@@ -1,27 +1,28 @@
 ---
 aliases:
-- osteopathic
-- osteopathic
-- Osteopathic
-- is_an_osteopathic
+  - osteopathic
+  - osteopathic
+  - Osteopathic
+  - is_an_osteopathic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicineSystem
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- osteopathic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_osteopathic Class"
+  - osteopathic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_osteopathic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_osteopathic Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_osteopathic Class
 type: Type
 ---
 

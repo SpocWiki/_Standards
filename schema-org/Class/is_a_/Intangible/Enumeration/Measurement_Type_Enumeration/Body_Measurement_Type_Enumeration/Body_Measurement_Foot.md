@@ -1,27 +1,28 @@
 ---
 aliases:
-- body-measurement-foot
-- body_measurement_foot
-- BodyMeasurementFoot
-- is_a_body_measurement_foot
+  - body-measurement-foot
+  - body_measurement_foot
+  - BodyMeasurementFoot
+  - is_a_body_measurement_foot
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- body_measurement_foot
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_body_measurement_foot Class"
+  - body_measurement_foot
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_body_measurement_foot Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_body_measurement_foot Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_body_measurement_foot Class
 type: Type
 ---
 

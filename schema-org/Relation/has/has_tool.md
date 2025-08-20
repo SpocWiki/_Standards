@@ -1,25 +1,27 @@
 ---
 aliases:
-- tool
-- tool
-- tool
-- has_tool
+  - tool
+  - tool
+  - tool
+  - has_tool
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tool
-layout: 
-license: "CC BY-SA 4.0"
+  - tool
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_tool
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_tool
 type: Predi_Relation
 ---

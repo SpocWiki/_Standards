@@ -1,25 +1,27 @@
 ---
 aliases:
-- base_salary
-- base-salary
-- baseSalary
-- has_value_for_base_salary
+  - base_salary
+  - base-salary
+  - baseSalary
+  - has_value_for_base_salary
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- base-salary
-layout: 
-license: "CC BY-SA 4.0"
+  - base-salary
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_base-salary
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_base-salary
 type: Predi_Quantity
 ---

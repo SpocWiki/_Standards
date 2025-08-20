@@ -1,26 +1,27 @@
 ---
 aliases:
-- tv-series
-- tv_series
-- TVSeries
-- is_a_tv_series
+  - tv-series
+  - tv_series
+  - TVSeries
+  - is_a_tv_series
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tv_series
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_tv_series Class"
+  - tv_series
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_tv_series Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_tv_series Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_tv_series Class
 type: Type
 ---
 

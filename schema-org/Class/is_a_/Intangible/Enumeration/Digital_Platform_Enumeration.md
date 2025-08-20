@@ -1,26 +1,27 @@
 ---
 aliases:
-- digital-platform-enumeration
-- digital_platform_enumeration
-- DigitalPlatformEnumeration
-- is_a_digital_platform_enumeration
+  - digital-platform-enumeration
+  - digital_platform_enumeration
+  - DigitalPlatformEnumeration
+  - is_a_digital_platform_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- digital_platform_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_digital_platform_enumeration Class"
+  - digital_platform_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_digital_platform_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_digital_platform_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_digital_platform_enumeration Class
 type: Type
 ---
 

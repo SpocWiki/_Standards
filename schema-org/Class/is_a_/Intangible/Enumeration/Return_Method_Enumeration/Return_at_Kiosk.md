@@ -1,27 +1,28 @@
 ---
 aliases:
-- return-at-kiosk
-- return_at_kiosk
-- ReturnAtKiosk
-- is_a_return_at_kiosk
+  - return-at-kiosk
+  - return_at_kiosk
+  - ReturnAtKiosk
+  - is_a_return_at_kiosk
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReturnMethodEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return_at_kiosk
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_return_at_kiosk Class"
+  - return_at_kiosk
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_return_at_kiosk Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_return_at_kiosk Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_return_at_kiosk Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- health-plan-network
-- health_plan_network
-- HealthPlanNetwork
-- is_a_health_plan_network
+  - health-plan-network
+  - health_plan_network
+  - HealthPlanNetwork
+  - is_a_health_plan_network
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health_plan_network
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_health_plan_network Class"
+  - health_plan_network
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_health_plan_network Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_health_plan_network Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_health_plan_network Class
 type: Type
 ---
 

@@ -1,25 +1,27 @@
 ---
 aliases:
-- jurisdiction
-- jurisdiction
-- jurisdiction
-- has_jurisdiction
+  - jurisdiction
+  - jurisdiction
+  - jurisdiction
+  - has_jurisdiction
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- jurisdiction
-layout: 
-license: "CC BY-SA 4.0"
+  - jurisdiction
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_jurisdiction
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_jurisdiction
 type: Predi_Relation
 ---

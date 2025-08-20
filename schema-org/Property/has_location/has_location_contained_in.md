@@ -1,26 +1,28 @@
 ---
 aliases:
-- contained-in
-- contained_in
-- containedIn
-- has_location_contained_in
+  - contained-in
+  - contained_in
+  - containedIn
+  - has_location_contained_in
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- contained_in
-layout: 
-license: "CC BY-SA 4.0"
+  - contained_in
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_contained_in
 publish: true
-publishDate: 
+publishDate:
 superseded_by: containedInPlace
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_contained_in
 type: Pred_geo
 ---

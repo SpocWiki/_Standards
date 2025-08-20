@@ -1,27 +1,28 @@
 ---
 aliases:
-- pulmonary
-- pulmonary
-- Pulmonary
-- is_a_pulmonary
+  - pulmonary
+  - pulmonary
+  - Pulmonary
+  - is_a_pulmonary
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- pulmonary
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_pulmonary Class"
+  - pulmonary
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_pulmonary Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_pulmonary Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_pulmonary Class
 type: Type
 ---
 

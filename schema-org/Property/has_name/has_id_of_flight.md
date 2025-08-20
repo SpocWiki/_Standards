@@ -1,26 +1,28 @@
 ---
 aliases:
-- flight-number
-- id_of_flight
-- flightNumber
-- has_id_of_flight
+  - flight-number
+  - id_of_flight
+  - flightNumber
+  - has_id_of_flight
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- flight
-- number
-layout: 
-license: "CC BY-SA 4.0"
+  - flight
+  - number
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_of_flight
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_of_flight
 type: Pred_Text
 ---

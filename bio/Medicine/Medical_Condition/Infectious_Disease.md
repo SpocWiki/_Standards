@@ -1,26 +1,27 @@
 ---
 aliases:
-- infectious-disease
-- infectious_disease
-- InfectiousDisease
-- is_an_infectious_disease
+  - infectious-disease
+  - infectious_disease
+  - InfectiousDisease
+  - is_an_infectious_disease
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- infectious_disease
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_infectious_disease Class"
+  - infectious_disease
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_infectious_disease Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_infectious_disease Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_infectious_disease Class
 type: Type
 ---
 

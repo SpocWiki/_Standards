@@ -1,26 +1,27 @@
 ---
 aliases:
-- data-type
-- data_type
-- DataType
-- is_a_data_type
+  - data-type
+  - data_type
+  - DataType
+  - is_a_data_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- data_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_data_type Class"
+  - data_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_data_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_data_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_data_type Class
 type: Type
 ---
 

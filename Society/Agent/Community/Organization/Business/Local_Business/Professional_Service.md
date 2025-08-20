@@ -1,26 +1,27 @@
 ---
 aliases:
-- professional-service
-- professional_service
-- ProfessionalService
-- is_a_professional_service
+  - professional-service
+  - professional_service
+  - ProfessionalService
+  - is_a_professional_service
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- professional_service
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_professional_service Class"
+  - professional_service
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_professional_service Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_professional_service Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_professional_service Class
 type: Type
 ---
 

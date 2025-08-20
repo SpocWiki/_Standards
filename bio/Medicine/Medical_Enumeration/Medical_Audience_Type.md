@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-audience-type
-- medical_audience_type
-- MedicalAudienceType
-- is_a_medical_audience_type
+  - medical-audience-type
+  - medical_audience_type
+  - MedicalAudienceType
+  - is_a_medical_audience_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_audience_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_audience_type Class"
+  - medical_audience_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_audience_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_audience_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_audience_type Class
 type: Type
 ---
 

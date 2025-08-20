@@ -1,25 +1,27 @@
 ---
 aliases:
-- remaining-attendee-capacity
-- remaining_attendee_capacity
-- remainingAttendeeCapacity
-- has_number_of_remaining_attendees
+  - remaining-attendee-capacity
+  - remaining_attendee_capacity
+  - remainingAttendeeCapacity
+  - has_number_of_remaining_attendees
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- remaining_attendee_capacity
-layout: 
-license: "CC BY-SA 4.0"
+  - remaining_attendee_capacity
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_remaining_attendee_capacity
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_remaining_attendee_capacity
 type: Predi_Count
 ---

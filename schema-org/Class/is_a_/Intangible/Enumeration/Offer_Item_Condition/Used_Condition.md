@@ -1,27 +1,28 @@
 ---
 aliases:
-- used-condition
-- used_condition
-- UsedCondition
-- is_a_used_condition
+  - used-condition
+  - used_condition
+  - UsedCondition
+  - is_a_used_condition
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: OfferItemCondition
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- used_condition
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_used_condition Class"
+  - used_condition
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_used_condition Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_used_condition Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_used_condition Class
 type: Type
 ---
 

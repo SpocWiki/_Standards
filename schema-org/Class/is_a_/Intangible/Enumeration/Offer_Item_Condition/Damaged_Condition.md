@@ -1,27 +1,28 @@
 ---
 aliases:
-- damaged-condition
-- damaged_condition
-- DamagedCondition
-- is_a_damaged_condition
+  - damaged-condition
+  - damaged_condition
+  - DamagedCondition
+  - is_a_damaged_condition
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: OfferItemCondition
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- damaged_condition
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_damaged_condition Class"
+  - damaged_condition
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_damaged_condition Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_damaged_condition Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_damaged_condition Class
 type: Type
 ---
 

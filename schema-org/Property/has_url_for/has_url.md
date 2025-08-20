@@ -1,23 +1,25 @@
 ---
 aliases:
-- url
-- has_url_for_url
+  - url
+  - has_url_for_url
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- url
-layout: 
-license: "CC BY-SA 4.0"
+  - url
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_url
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_url
 type: Predi_Url
 ---

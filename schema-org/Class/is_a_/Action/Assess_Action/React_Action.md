@@ -1,26 +1,27 @@
 ---
 aliases:
-- react-action
-- react_action
-- ReactAction
-- is_a_react_action
+  - react-action
+  - react_action
+  - ReactAction
+  - is_a_react_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- react_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_react_action Class"
+  - react_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_react_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_react_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_react_action Class
 type: Type
 ---
 

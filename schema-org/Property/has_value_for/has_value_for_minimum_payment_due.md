@@ -1,25 +1,27 @@
 ---
 aliases:
-- minimum_payment_due
-- minimum-payment-due
-- minimumPaymentDue
-- has_value_for_minimum_payment_due
+  - minimum_payment_due
+  - minimum-payment-due
+  - minimumPaymentDue
+  - has_value_for_minimum_payment_due
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- minimum-payment-due
-layout: 
-license: "CC BY-SA 4.0"
+  - minimum-payment-due
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_minimum-payment-due
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_minimum-payment-due
 type: Predi_Quantity
 ---

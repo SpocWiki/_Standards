@@ -1,27 +1,28 @@
 ---
 aliases:
-- renal
-- renal
-- Renal
-- is_a_renal
+  - renal
+  - renal
+  - Renal
+  - is_a_renal
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- renal
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_renal Class"
+  - renal
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_renal Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_renal Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_renal Class
 type: Type
 ---
 

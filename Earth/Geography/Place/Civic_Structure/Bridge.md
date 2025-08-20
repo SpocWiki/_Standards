@@ -113,18 +113,19 @@ aliases:
   - Bridge
   - is_a_bridge
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - bridge
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_a_bridge Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class

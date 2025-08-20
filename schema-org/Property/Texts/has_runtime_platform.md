@@ -1,27 +1,29 @@
 ---
 aliases:
-- runtime-platform
-- runtime_platform
-- runtimePlatform
-- has_text_of_runtime_platform
+  - runtime-platform
+  - runtime_platform
+  - runtimePlatform
+  - has_text_of_runtime_platform
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- runtime
-- platform
-layout: 
-license: "CC BY-SA 4.0"
+  - runtime
+  - platform
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_runtime_platform
 publish: true
-publishDate: 
+publishDate:
 supersedes: runtime
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_runtime_platform
 type: Pred_Text
 ---

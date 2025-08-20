@@ -1,26 +1,27 @@
 ---
 aliases:
-- child-care
-- child_care
-- ChildCare
-- is_a_child_care
+  - child-care
+  - child_care
+  - ChildCare
+  - is_a_child_care
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- child_care
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_child_care Class"
+  - child_care
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_child_care Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_child_care Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_child_care Class
 type: Type
 ---
 

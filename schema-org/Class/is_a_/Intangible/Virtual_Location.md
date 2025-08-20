@@ -1,26 +1,27 @@
 ---
 aliases:
-- virtual-location
-- virtual_location
-- VirtualLocation
-- is_a_virtual_location
+  - virtual-location
+  - virtual_location
+  - VirtualLocation
+  - is_a_virtual_location
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- virtual_location
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_virtual_location Class"
+  - virtual_location
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_virtual_location Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_virtual_location Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_virtual_location Class
 type: Type
 ---
 

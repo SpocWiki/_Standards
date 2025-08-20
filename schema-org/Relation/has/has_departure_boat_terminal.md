@@ -1,27 +1,29 @@
 ---
 aliases:
-- departure-boat-terminal
-- departure_boat_terminal
-- departureBoatTerminal
-- has_departure_boat_terminal
+  - departure-boat-terminal
+  - departure_boat_terminal
+  - departureBoatTerminal
+  - has_departure_boat_terminal
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- departure
-- boat
-- terminal
-layout: 
-license: "CC BY-SA 4.0"
+  - departure
+  - boat
+  - terminal
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_departure_boat_terminal
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_departure_boat_terminal
 type: Predi_Relation
 ---

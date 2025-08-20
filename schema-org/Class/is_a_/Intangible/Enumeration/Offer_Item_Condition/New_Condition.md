@@ -1,27 +1,28 @@
 ---
 aliases:
-- new-condition
-- new_condition
-- NewCondition
-- is_a_new_condition
+  - new-condition
+  - new_condition
+  - NewCondition
+  - is_a_new_condition
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: OfferItemCondition
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- new_condition
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_new_condition Class"
+  - new_condition
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_new_condition Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_new_condition Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_new_condition Class
 type: Type
 ---
 

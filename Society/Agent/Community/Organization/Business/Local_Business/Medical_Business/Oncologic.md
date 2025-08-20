@@ -1,27 +1,28 @@
 ---
 aliases:
-- oncologic
-- oncologic
-- Oncologic
-- is_an_oncologic
+  - oncologic
+  - oncologic
+  - Oncologic
+  - is_an_oncologic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- oncologic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_oncologic Class"
+  - oncologic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_oncologic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_oncologic Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_oncologic Class
 type: Type
 ---
 

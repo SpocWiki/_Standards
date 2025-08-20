@@ -1,27 +1,29 @@
 ---
 aliases:
-- departure-bus-stop
-- departure_bus_stop
-- departureBusStop
-- has_departure_bus_stop
+  - departure-bus-stop
+  - departure_bus_stop
+  - departureBusStop
+  - has_departure_bus_stop
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- departure
-- bus
-- stop
-layout: 
-license: "CC BY-SA 4.0"
+  - departure
+  - bus
+  - stop
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_departure_bus_stop
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_departure_bus_stop
 type: Predi_Relation
 ---

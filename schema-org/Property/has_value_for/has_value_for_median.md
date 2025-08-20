@@ -1,25 +1,27 @@
 ---
 aliases:
-- median
-- median
-- median
-- has_value_for_median
+  - median
+  - median
+  - median
+  - has_value_for_median
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- median
-layout: 
-license: "CC BY-SA 4.0"
+  - median
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_median
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_median
 type: Predi_Quantity
 ---

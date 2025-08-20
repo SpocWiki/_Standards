@@ -1,26 +1,27 @@
 ---
 aliases:
-- table
-- table
-- Table
-- is_a_table
+  - table
+  - table
+  - Table
+  - is_a_table
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- table
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_table Class"
+  - table
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_table Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_table Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_table Class
 type: Type
 ---
 

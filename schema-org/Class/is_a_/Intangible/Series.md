@@ -1,26 +1,27 @@
 ---
 aliases:
-- series
-- series
-- Series
-- is_a_series
+  - series
+  - series
+  - Series
+  - is_a_series
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- series
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_series Class"
+  - series
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_series Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_series Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_series Class
 type: Type
 ---
 

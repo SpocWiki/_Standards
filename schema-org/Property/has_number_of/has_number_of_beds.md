@@ -1,25 +1,27 @@
 ---
 aliases:
-- number_of_beds
-- number-of-beds
-- numberOfBeds
-- has_number_of_beds
+  - number_of_beds
+  - number-of-beds
+  - numberOfBeds
+  - has_number_of_beds
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- number-of-beds
-layout: 
-license: "CC BY-SA 4.0"
+  - number-of-beds
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-beds
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_number-of-beds
 type: Predi_Count
 ---

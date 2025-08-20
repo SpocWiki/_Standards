@@ -1,26 +1,27 @@
 ---
 aliases:
-- action-status-type
-- action_status_type
-- ActionStatusType
-- is_an_action_status_type
+  - action-status-type
+  - action_status_type
+  - ActionStatusType
+  - is_an_action_status_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- action_status_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_action_status_type Class"
+  - action_status_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_action_status_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_action_status_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_action_status_type Class
 type: Type
 ---
 

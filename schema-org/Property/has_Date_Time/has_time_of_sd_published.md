@@ -1,24 +1,26 @@
 ---
 aliases:
-- sd-date-published
-- sd_date_published
-- sdDatePublished
-- has_time_of_sd_published
+  - sd-date-published
+  - sd_date_published
+  - sdDatePublished
+  - has_time_of_sd_published
 confidential: public
-cssclasses: "Predicate Date_Time"
+cssclasses:
+  - Predicate
+  - Date_Time
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+keywords:
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Date
+  - class/Property
+  - schema-org/Property/Date
 title: has_time_of_sd_published
 type: Predi_Date_Time
 ---

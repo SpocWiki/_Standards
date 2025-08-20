@@ -1,27 +1,28 @@
 ---
 aliases:
-- open-trial
-- open_trial
-- OpenTrial
-- is_an_open_trial
+  - open-trial
+  - open_trial
+  - OpenTrial
+  - is_an_open_trial
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalTrialDesign
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- open_trial
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_open_trial Class"
+  - open_trial
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_open_trial Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_open_trial Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_open_trial Class
 type: Type
 ---
 

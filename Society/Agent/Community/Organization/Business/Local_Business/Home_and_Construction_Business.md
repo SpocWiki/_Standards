@@ -1,26 +1,27 @@
 ---
 aliases:
-- home-and-construction-business
-- home_and_construction_business
-- HomeAndConstructionBusiness
-- is_a_home_and_construction_business
+  - home-and-construction-business
+  - home_and_construction_business
+  - HomeAndConstructionBusiness
+  - is_a_home_and_construction_business
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- home_and_construction_business
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_home_and_construction_business Class"
+  - home_and_construction_business
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_home_and_construction_business Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_home_and_construction_business Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_home_and_construction_business Class
 type: Type
 ---
 

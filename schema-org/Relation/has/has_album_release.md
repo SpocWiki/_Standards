@@ -1,26 +1,28 @@
 ---
 aliases:
-- album-release
-- album_release
-- albumRelease
-- has_album_release
+  - album-release
+  - album_release
+  - albumRelease
+  - has_album_release
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- album
-- release
-layout: 
-license: "CC BY-SA 4.0"
+  - album
+  - release
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_album_release
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_album_release
 type: Predi_Relation
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- archived-at
-- archived_at
-- archivedAt
-- has_url_for_archived_at
+  - archived-at
+  - archived_at
+  - archivedAt
+  - has_url_for_archived_at
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- archived_at
-layout: 
-license: "CC BY-SA 4.0"
+  - archived_at
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_archived_at
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_archived_at
 type: Predi_Url
 ---

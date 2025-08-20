@@ -1,25 +1,27 @@
 ---
 aliases:
-- box
-- box
-- box
-- has_text_of_box
+  - box
+  - box
+  - box
+  - has_text_of_box
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- box
-layout: 
-license: "CC BY-SA 4.0"
+  - box
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_box
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_box
 type: Pred_Text
 ---

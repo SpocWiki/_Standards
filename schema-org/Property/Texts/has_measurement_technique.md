@@ -1,26 +1,28 @@
 ---
 aliases:
-- measurement-technique
-- measurement_technique
-- measurementTechnique
-- has_text_of_measurement_technique
+  - measurement-technique
+  - measurement_technique
+  - measurementTechnique
+  - has_text_of_measurement_technique
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- measurement
-- technique
-layout: 
-license: "CC BY-SA 4.0"
+  - measurement
+  - technique
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_measurement_technique
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_measurement_technique
 type: Pred_Text
 ---

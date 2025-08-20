@@ -1,27 +1,29 @@
 ---
 aliases:
-- countries-not-supported
-- countries_not_supported
-- countriesNotSupported
-- has_text_of_countries_not_supported
+  - countries-not-supported
+  - countries_not_supported
+  - countriesNotSupported
+  - has_text_of_countries_not_supported
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- countries
-- not
-- supported
-layout: 
-license: "CC BY-SA 4.0"
+  - countries
+  - not
+  - supported
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_countries_not_supported
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_countries_not_supported
 type: Pred_Text
 ---

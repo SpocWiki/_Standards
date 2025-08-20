@@ -1,25 +1,27 @@
 ---
 aliases:
-- fuel_efficiency
-- fuel-efficiency
-- fuelEfficiency
-- has_value_for_fuel_efficiency
+  - fuel_efficiency
+  - fuel-efficiency
+  - fuelEfficiency
+  - has_value_for_fuel_efficiency
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- fuel-efficiency
-layout: 
-license: "CC BY-SA 4.0"
+  - fuel-efficiency
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_fuel-efficiency
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_fuel-efficiency
 type: Predi_Quantity
 ---

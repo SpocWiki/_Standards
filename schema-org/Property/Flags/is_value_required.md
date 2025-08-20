@@ -1,25 +1,27 @@
 ---
 aliases:
-- value-required
-- value_required
-- valueRequired
-- is_value_required
+  - value-required
+  - value_required
+  - valueRequired
+  - is_value_required
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- value_required
-layout: 
-license: "CC BY-SA 4.0"
+  - value_required
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_value_required
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_value_required
 type: Pred_Bool
 ---

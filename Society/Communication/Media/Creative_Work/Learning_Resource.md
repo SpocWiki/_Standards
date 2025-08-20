@@ -1,26 +1,27 @@
 ---
 aliases:
-- learning-resource
-- learning_resource
-- LearningResource
-- is_a_learning_resource
+  - learning-resource
+  - learning_resource
+  - LearningResource
+  - is_a_learning_resource
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- learning_resource
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_learning_resource Class"
+  - learning_resource
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_learning_resource Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_learning_resource Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_learning_resource Class
 type: Type
 ---
 

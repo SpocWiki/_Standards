@@ -1,26 +1,28 @@
 ---
 aliases:
-- discount-code
-- code_for_discount
-- discountCode
-- has_code_for_discount
+  - discount-code
+  - code_for_discount
+  - discountCode
+  - has_code_for_discount
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- discount
-- code
-layout: 
-license: "CC BY-SA 4.0"
+  - discount
+  - code
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_code_for_discount
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_code_for_discount
 type: Pred_Text
 ---

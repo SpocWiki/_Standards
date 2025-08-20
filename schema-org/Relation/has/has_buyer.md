@@ -1,25 +1,27 @@
 ---
 aliases:
-- buyer
-- buyer
-- buyer
-- has_buyer
+  - buyer
+  - buyer
+  - buyer
+  - has_buyer
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- buyer
-layout: 
-license: "CC BY-SA 4.0"
+  - buyer
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_buyer
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_buyer
 type: Predi_Relation
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- offer-count
-- offer_count
-- offerCount
-- has_number_of_offers
+  - offer-count
+  - offer_count
+  - offerCount
+  - has_number_of_offers
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- offer_count
-layout: 
-license: "CC BY-SA 4.0"
+  - offer_count
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_offer_count
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_offer_count
 type: Predi_Count
 ---

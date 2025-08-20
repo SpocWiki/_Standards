@@ -1,26 +1,28 @@
 ---
 aliases:
-- legislation-jurisdiction
-- legislation_jurisdiction
-- legislationJurisdiction
-- is_legislation_jurisdiction_of
+  - legislation-jurisdiction
+  - legislation_jurisdiction
+  - legislationJurisdiction
+  - is_legislation_jurisdiction_of
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legislation
-- jurisdiction
-layout: 
-license: "CC BY-SA 4.0"
+  - legislation
+  - jurisdiction
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_legislation_jurisdiction_of
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_legislation_jurisdiction_of
 type: Predi_Relation
 ---

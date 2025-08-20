@@ -1,25 +1,27 @@
 ---
 aliases:
-- organizer
-- organizer
-- organizer
-- has_organizer
+  - organizer
+  - organizer
+  - organizer
+  - has_organizer
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- organizer
-layout: 
-license: "CC BY-SA 4.0"
+  - organizer
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_organizer
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_organizer
 type: Predi_Relation
 ---

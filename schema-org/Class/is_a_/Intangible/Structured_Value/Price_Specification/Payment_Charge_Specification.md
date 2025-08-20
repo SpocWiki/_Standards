@@ -1,26 +1,27 @@
 ---
 aliases:
-- payment-charge-specification
-- payment_charge_specification
-- PaymentChargeSpecification
-- is_a_payment_charge_specification
+  - payment-charge-specification
+  - payment_charge_specification
+  - PaymentChargeSpecification
+  - is_a_payment_charge_specification
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- payment_charge_specification
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_payment_charge_specification Class"
+  - payment_charge_specification
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_payment_charge_specification Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_payment_charge_specification Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_payment_charge_specification Class
 type: Type
 ---
 

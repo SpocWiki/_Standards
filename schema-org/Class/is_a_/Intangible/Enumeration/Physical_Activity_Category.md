@@ -1,26 +1,27 @@
 ---
 aliases:
-- physical-activity-category
-- physical_activity_category
-- PhysicalActivityCategory
-- is_a_physical_activity_category
+  - physical-activity-category
+  - physical_activity_category
+  - PhysicalActivityCategory
+  - is_a_physical_activity_category
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- physical_activity_category
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_physical_activity_category Class"
+  - physical_activity_category
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_physical_activity_category Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_physical_activity_category Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_physical_activity_category Class
 type: Type
 ---
 

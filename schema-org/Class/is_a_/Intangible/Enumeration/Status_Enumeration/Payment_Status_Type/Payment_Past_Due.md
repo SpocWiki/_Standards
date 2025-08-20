@@ -1,27 +1,28 @@
 ---
 aliases:
-- payment-past-due
-- payment_past_due
-- PaymentPastDue
-- is_a_payment_past_due
+  - payment-past-due
+  - payment_past_due
+  - PaymentPastDue
+  - is_a_payment_past_due
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PaymentStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- payment_past_due
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_payment_past_due Class"
+  - payment_past_due
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_payment_past_due Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_payment_past_due Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_payment_past_due Class
 type: Type
 ---
 

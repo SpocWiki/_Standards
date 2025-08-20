@@ -1,25 +1,27 @@
 ---
 aliases:
-- travel-bans
-- travel_bans
-- travelBans
-- has_url_for_travel_bans
+  - travel-bans
+  - travel_bans
+  - travelBans
+  - has_url_for_travel_bans
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- travel_bans
-layout: 
-license: "CC BY-SA 4.0"
+  - travel_bans
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_travel_bans
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_travel_bans
 type: Predi_Url
 ---

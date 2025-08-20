@@ -1,26 +1,28 @@
 ---
 aliases:
-- access-code
-- access_code
-- accessCode
-- has_code_access
+  - access-code
+  - access_code
+  - accessCode
+  - has_code_access
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- access
-- code
-layout: 
-license: "CC BY-SA 4.0"
+  - access
+  - code
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_code_access
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_code_access
 type: Pred_Text
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- recording-of
-- recording_of
-- recordingOf
-- has_recording_of
+  - recording-of
+  - recording_of
+  - recordingOf
+  - has_recording_of
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- recording
-- of
-layout: 
-license: "CC BY-SA 4.0"
+  - recording
+  - of
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_recording_of
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_recording_of
 type: Predi_Relation
 ---

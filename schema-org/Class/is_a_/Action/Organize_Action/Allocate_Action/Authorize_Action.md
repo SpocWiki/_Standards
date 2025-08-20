@@ -1,26 +1,27 @@
 ---
 aliases:
-- authorize-action
-- authorize_action
-- AuthorizeAction
-- is_an_authorize_action
+  - authorize-action
+  - authorize_action
+  - AuthorizeAction
+  - is_an_authorize_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- authorize_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_authorize_action Class"
+  - authorize_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_authorize_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_authorize_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_authorize_action Class
 type: Type
 ---
 

@@ -1,25 +1,27 @@
 ---
 aliases:
-- alternative-of
-- alternative_to
-- alternativeTo
-- is_alternative_to
+  - alternative-of
+  - alternative_to
+  - alternativeTo
+  - is_alternative_to
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- alternative
-layout: 
-license: "CC BY-SA 4.0"
+  - alternative
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_alternative_to
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_alternative_to
 type: Predi_Relation
 ---

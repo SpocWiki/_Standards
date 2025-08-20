@@ -1,25 +1,27 @@
 ---
 aliases:
-- character
-- character
-- character
-- has_character
+  - character
+  - character
+  - character
+  - has_character
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- character
-layout: 
-license: "CC BY-SA 4.0"
+  - character
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_character
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_character
 type: Predi_Relation
 ---

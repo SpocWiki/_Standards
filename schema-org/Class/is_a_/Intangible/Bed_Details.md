@@ -1,28 +1,29 @@
 ---
 aliases:
-- bed-details
-- bed_details
-- BedDetails
-- is_a_bed_details
+  - bed-details
+  - bed_details
+  - BedDetails
+  - is_a_bed_details
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 fileClass:
-- FileClass~Class
+  - FileClass~Class
 isDeleted: false
 isReadOnly: false
 keywords:
-- bed_details
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_bed_details Class"
+  - bed_details
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_bed_details Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_bed_details Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_bed_details Class
 type: Type
 ---
 

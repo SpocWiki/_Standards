@@ -1,25 +1,27 @@
 ---
 aliases:
-- customer_remorse_return_shipping_fees_amount
-- customer-remorse-return-shipping-fees-amount
-- customerRemorseReturnShippingFeesAmount
-- has_value_for_customer_remorse_return_shipping_fees_amount
+  - customer_remorse_return_shipping_fees_amount
+  - customer-remorse-return-shipping-fees-amount
+  - customerRemorseReturnShippingFeesAmount
+  - has_value_for_customer_remorse_return_shipping_fees_amount
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- customer-remorse-return-shipping-fees-amount
-layout: 
-license: "CC BY-SA 4.0"
+  - customer-remorse-return-shipping-fees-amount
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_customer-remorse-return-shipping-fees-amount
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_customer-remorse-return-shipping-fees-amount
 type: Predi_Quantity
 ---

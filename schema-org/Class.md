@@ -1,31 +1,32 @@
 ---
 aliases:
-- class
-- Class
-- additional-type
-- additional_type
-- additionalType
-- has_url_for_additional_type
-- rdfs~Class
-- is_a_class
+  - class
+  - Class
+  - additional-type
+  - additional_type
+  - additionalType
+  - has_url_for_additional_type
+  - rdfs~Class
+  - is_a_class
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-equivalent_class: "rdfs:class"
-expiryDate: 
+equivalent_class: rdfs:class
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- class
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_class Class"
+  - class
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_class Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_class Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_class Class
 type: Type
 ---
 

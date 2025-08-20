@@ -1,25 +1,27 @@
 ---
 aliases:
-- suggested_max_age
-- suggested-max-age
-- suggestedMaxAge
-- has_value_for_suggested_max_age
+  - suggested_max_age
+  - suggested-max-age
+  - suggestedMaxAge
+  - has_value_for_suggested_max_age
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- suggested-max-age
-layout: 
-license: "CC BY-SA 4.0"
+  - suggested-max-age
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_suggested-max-age
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_suggested-max-age
 type: Predi_Quantity
 ---

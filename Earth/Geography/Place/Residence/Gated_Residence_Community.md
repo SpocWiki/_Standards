@@ -1,26 +1,27 @@
 ---
 aliases:
-- gated-residence-community
-- gated_residence_community
-- GatedResidenceCommunity
-- is_a_gated_residence_community
+  - gated-residence-community
+  - gated_residence_community
+  - GatedResidenceCommunity
+  - is_a_gated_residence_community
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- gated_residence_community
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_gated_residence_community Class"
+  - gated_residence_community
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_gated_residence_community Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_gated_residence_community Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_gated_residence_community Class
 type: Type
 ---
 

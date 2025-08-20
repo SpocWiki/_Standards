@@ -1,25 +1,27 @@
 ---
 aliases:
-- has-representation
-- representation
-- hasRepresentation
-- has_representation
+  - has-representation
+  - representation
+  - hasRepresentation
+  - has_representation
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- representation
-layout: 
-license: "CC BY-SA 4.0"
+  - representation
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_representation
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_representation
 type: Predi_Relation
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- publication
-- publication
-- publication
-- has_publication
+  - publication
+  - publication
+  - publication
+  - has_publication
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- publication
-layout: 
-license: "CC BY-SA 4.0"
+  - publication
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_publication
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_publication
 type: Predi_Relation
 ---

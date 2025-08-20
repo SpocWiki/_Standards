@@ -1,26 +1,27 @@
 ---
 aliases:
-- motel
-- motel
-- Motel
-- is_a_motel
+  - motel
+  - motel
+  - Motel
+  - is_a_motel
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- motel
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_motel Class"
+  - motel
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_motel Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_motel Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_motel Class
 type: Type
 ---
 

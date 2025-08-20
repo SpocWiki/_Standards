@@ -1,27 +1,29 @@
 ---
 aliases:
-- greater-or-equal
-- greater_or_equal
-- greaterOrEqual
-- is_greater_or_equal_to
+  - greater-or-equal
+  - greater_or_equal
+  - greaterOrEqual
+  - is_greater_or_equal_to
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- greater
-- or
-- equal
-layout: 
-license: "CC BY-SA 4.0"
+  - greater
+  - or
+  - equal
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_greater_or_equal_to
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_greater_or_equal_to
 type: Predi_Relation
 ---

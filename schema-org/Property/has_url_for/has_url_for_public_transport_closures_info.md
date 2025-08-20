@@ -1,25 +1,27 @@
 ---
 aliases:
-- public-transport-closures-info
-- public_transport_closures_info
-- publicTransportClosuresInfo
-- has_url_for_public_transport_closures_info
+  - public-transport-closures-info
+  - public_transport_closures_info
+  - publicTransportClosuresInfo
+  - has_url_for_public_transport_closures_info
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- public_transport_closures_info
-layout: 
-license: "CC BY-SA 4.0"
+  - public_transport_closures_info
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_public_transport_closures_info
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_public_transport_closures_info
 type: Predi_Url
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- reviewed-by
-- reviewed_by
-- reviewedBy
-- is_reviewed_by
+  - reviewed-by
+  - reviewed_by
+  - reviewedBy
+  - is_reviewed_by
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reviewed
-- by
-layout: 
-license: "CC BY-SA 4.0"
+  - reviewed
+  - by
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_reviewed_by
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_reviewed_by
 type: Predi_Relation
 ---

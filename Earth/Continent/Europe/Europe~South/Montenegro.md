@@ -1,106 +1,106 @@
 ---
 member_of:
-- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
-- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Montenegro_Ukraine_Free_Trade_Area,61466832]]"
-- "[[_Standards/WikiData/WD~United_Nations,1065]]"
-- '[[_Standards/WikiData/WD~NATO,7184]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Montenegro_Ukraine_Free_Trade_Area,61466832]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~NATO,7184]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 anthem: "[[_Standards/WikiData/WD~Oj,_svijetla_majska_zoro,157999]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Montenegro,162980]]"
 language_used:
-- '[[_Standards/WikiData/WD~Gheg,181037]]'
-- '[[_Standards/WikiData/WD~Croatian,6654]]'
-- '[[_Standards/WikiData/WD~Montenegrin,8821]]'
-- '[[_Standards/WikiData/WD~Serbian,9299]]'
-- '[[_Standards/WikiData/WD~Bosnian,9303]]'
+  - "[[_Standards/WikiData/WD~Gheg,181037]]"
+  - "[[_Standards/WikiData/WD~Croatian,6654]]"
+  - "[[_Standards/WikiData/WD~Montenegrin,8821]]"
+  - "[[_Standards/WikiData/WD~Serbian,9299]]"
+  - "[[_Standards/WikiData/WD~Bosnian,9303]]"
 coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Montenegro,191728]]"
-different_from: '[[_Standards/WikiData/WD~Montenegro,357350]]'
+different_from: "[[_Standards/WikiData/WD~Montenegro,357350]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Montenegro,374009]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Montenegro,628024]]"
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Montenegro,1149153]]"
 replaces:
-- "[[_Standards/WikiData/WD~Republic_of_Montenegro,1150680]]"
-- "[[_Standards/WikiData/WD~Serbia_and_Montenegro,37024]]"
-named_after: '[[_Standards/WikiData/WD~Lovćen,1370044]]'
+  - "[[_Standards/WikiData/WD~Republic_of_Montenegro,1150680]]"
+  - "[[_Standards/WikiData/WD~Serbia_and_Montenegro,37024]]"
+named_after: "[[_Standards/WikiData/WD~Lovćen,1370044]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Montenegro,1579497]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Montenegro,2093187]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Montenegro,2346276]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Montenegro,2353252]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Andrijevica_Municipality,2384773]]"
-- "[[_Standards/WikiData/WD~Bar_Municipality,2604068]]"
-- "[[_Standards/WikiData/WD~Rožaje_Municipality,3296677]]"
-- "[[_Standards/WikiData/WD~Mojkovac_Municipality,3299782]]"
-- "[[_Standards/WikiData/WD~Pljevlja_Municipality,3299950]]"
-- "[[_Standards/WikiData/WD~Kolašin_Municipality,3303233]]"
-- "[[_Standards/WikiData/WD~Žabljak_Municipality,3304454]]"
-- "[[_Standards/WikiData/WD~Old_Royal_Capital_Cetinje,3305075]]"
-- "[[_Standards/WikiData/WD~Ulcinj_Municipality,3305169]]"
-- "[[_Standards/WikiData/WD~Podgorica_Municipality,3305250]]"
-- "[[_Standards/WikiData/WD~Herceg_Novi_Municipality,3317366]]"
-- "[[_Standards/WikiData/WD~Tivat_Municipality,3738564]]"
-- "[[_Standards/WikiData/WD~Budva_Municipality,3739214]]"
-- "[[_Standards/WikiData/WD~Danilovgrad_Municipality,3741507]]"
-- "[[_Standards/WikiData/WD~Bijelo_Polje_Municipality,4086488]]"
-- "[[_Standards/WikiData/WD~Berane_Municipality,4853794]]"
-- "[[_Standards/WikiData/WD~Kotor_Municipality,4856305]]"
-- "[[_Standards/WikiData/WD~Plav_Municipality,4859821]]"
-- "[[_Standards/WikiData/WD~Plužine_Municipality,4864476]]"
-- "[[_Standards/WikiData/WD~Nikšić_Municipality,4865016]]"
-- "[[_Standards/WikiData/WD~Zeta_Municipality,12750430]]"
-- "[[_Standards/WikiData/WD~Tuzi_Municipality,12750439]]"
-- "[[_Standards/WikiData/WD~Šavnik_Municipality,13365880]]"
-- "[[_Standards/WikiData/WD~Petnjica_Municipality,15630696]]"
-- "[[_Standards/WikiData/WD~Gusinje_Municipality,16085370]]"
+  - "[[_Standards/WikiData/WD~Andrijevica_Municipality,2384773]]"
+  - "[[_Standards/WikiData/WD~Bar_Municipality,2604068]]"
+  - "[[_Standards/WikiData/WD~Rožaje_Municipality,3296677]]"
+  - "[[_Standards/WikiData/WD~Mojkovac_Municipality,3299782]]"
+  - "[[_Standards/WikiData/WD~Pljevlja_Municipality,3299950]]"
+  - "[[_Standards/WikiData/WD~Kolašin_Municipality,3303233]]"
+  - "[[_Standards/WikiData/WD~Žabljak_Municipality,3304454]]"
+  - "[[_Standards/WikiData/WD~Old_Royal_Capital_Cetinje,3305075]]"
+  - "[[_Standards/WikiData/WD~Ulcinj_Municipality,3305169]]"
+  - "[[_Standards/WikiData/WD~Podgorica_Municipality,3305250]]"
+  - "[[_Standards/WikiData/WD~Herceg_Novi_Municipality,3317366]]"
+  - "[[_Standards/WikiData/WD~Tivat_Municipality,3738564]]"
+  - "[[_Standards/WikiData/WD~Budva_Municipality,3739214]]"
+  - "[[_Standards/WikiData/WD~Danilovgrad_Municipality,3741507]]"
+  - "[[_Standards/WikiData/WD~Bijelo_Polje_Municipality,4086488]]"
+  - "[[_Standards/WikiData/WD~Berane_Municipality,4853794]]"
+  - "[[_Standards/WikiData/WD~Kotor_Municipality,4856305]]"
+  - "[[_Standards/WikiData/WD~Plav_Municipality,4859821]]"
+  - "[[_Standards/WikiData/WD~Plužine_Municipality,4864476]]"
+  - "[[_Standards/WikiData/WD~Nikšić_Municipality,4865016]]"
+  - "[[_Standards/WikiData/WD~Zeta_Municipality,12750430]]"
+  - "[[_Standards/WikiData/WD~Tuzi_Municipality,12750439]]"
+  - "[[_Standards/WikiData/WD~Šavnik_Municipality,13365880]]"
+  - "[[_Standards/WikiData/WD~Petnjica_Municipality,15630696]]"
+  - "[[_Standards/WikiData/WD~Gusinje_Municipality,16085370]]"
 highest_point: "[[_Standards/WikiData/WD~Zla_Kolata,2720697]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Montenegro,3491143]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-- "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
-- "[[_Standards/WikiData/WD~successor_state,127693126]]"
-- '[[_Standards/WikiData/WD~country,6256]]'
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
+  - "[[_Standards/WikiData/WD~successor_state,127693126]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
 central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Montenegro,4504284]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Montenegro,7112368]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Montenegro,10815265]]'
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Montenegro,10815265]]"
 part_of: "[[_Standards/WikiData/WD~post-Yugoslavia_states,10860602]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Montenegro_topics,13672542]]"
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~122,25648812]]'
-- '[[_Standards/WikiData/WD~124,25648826]]'
-- '[[_Standards/WikiData/WD~123,25648825]]'
+  - "[[_Standards/WikiData/WD~122,25648812]]"
+  - "[[_Standards/WikiData/WD~124,25648826]]"
+  - "[[_Standards/WikiData/WD~123,25648825]]"
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q27102976,27102976]]'
-- '[[_Standards/WikiData/WD~Q52883469,52883469]]'
+  - "[[_Standards/WikiData/WD~Q27102976,27102976]]"
+  - "[[_Standards/WikiData/WD~Q52883469,52883469]]"
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 open_data_portal: "[[_Standards/WikiData/WD~Montenegro_open_data,97119108]]"
 head_of_government: "[[_Standards/WikiData/WD~Milojko_Spajić,101225458]]"
 head_of_state: "[[_Standards/WikiData/WD~Jakov_Milatović,104417661]]"
 highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Montenegro,119716607]]"
-coordinates_of_easternmost_point: "Point(20.35748262 42.83261529)"
+coordinates_of_easternmost_point: Point(20.35748262 42.83261529)
 BHCL_UUID: d54ddcea-d683-4f1f-aca6-64a37329d7a1
 demonym:
   - Črnogorec
@@ -150,60 +150,60 @@ demonym:
   - montenegrini
   - Montenegrijn
 official_name:
-- "Crna Gora"
-- "Црна Гора"
+  - Crna Gora
+  - Црна Гора
 native_label:
-- "Crna Gora"
-- "Црна Гора"
-coordinates_of_southernmost_point: "Point(19.36818302 41.84773005)"
+  - Crna Gora
+  - Црна Гора
+coordinates_of_southernmost_point: Point(19.36818302 41.84773005)
 motto_text:
-- "Harddwch gwyllt"
-- "Áilleacht fhiáin"
+  - Harddwch gwyllt
+  - Áilleacht fhiáin
 MeSH_tree_code: Z01.542.248.609
-official_website: "https://www.gov.me/"
+official_website: https://www.gov.me/
 nominal_GDP:
   - 6095978868
   - 5861430526
 shares_border_with:
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- "[[_Standards/WikiData/WD~European_Union,458]]"
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~Albania,222]]'
-- '[[_Standards/WikiData/WD~Croatia,224]]'
-- "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~Albania,222]]"
+  - "[[_Standards/WikiData/WD~Croatia,224]]"
+  - "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- "[[_Standards/WikiData/WD~North_Korea,423]]"
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Libya,1016]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United_States,30]]"
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Slovenia,215]]'
-- '[[_Standards/WikiData/WD~Ukraine,212]]'
-- '[[_Standards/WikiData/WD~Bulgaria,219]]'
-- '[[_Standards/WikiData/WD~Albania,222]]'
-- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
-- '[[_Standards/WikiData/WD~Croatia,224]]'
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Libya,1016]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Slovenia,215]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
+  - "[[_Standards/WikiData/WD~Albania,222]]"
+  - "[[_Standards/WikiData/WD~North_Macedonia,221]]"
+  - "[[_Standards/WikiData/WD~Croatia,224]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
-- "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
-official_language: '[[_Standards/WikiData/WD~Montenegrin,8821]]'
+  - "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+  - "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~republic,7270]]"
+official_language: "[[_Standards/WikiData/WD~Montenegrin,8821]]"
 lowest_point: "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
 located_in_on_physical_feature:
-- '[[_Standards/WikiData/WD~Balkans,23522]]'
-- "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
-capital: '[[_Standards/WikiData/WD~Podgorica,23564]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
-country: '[[_Standards/WikiData/WD~Montenegro,236]]'
+  - "[[_Standards/WikiData/WD~Balkans,23522]]"
+  - "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
+capital: "[[_Standards/WikiData/WD~Podgorica,23564]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+country: "[[_Standards/WikiData/WD~Montenegro,236]]"
 unemployment_rate: 19
 VAT_rate: 21
 mains_voltage: 230
@@ -223,7 +223,7 @@ birth_rate:
   - 11.4
   - 11.6
 Gini_coefficient: 29.4
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.me,43673]]'
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.me,43673]]"
 Happy_Planet_Index_score: 41.3
 trunk_prefix: 0
 maritime_identification_digits: 262
@@ -261,7 +261,7 @@ ISO_3166_1_numeric_code: 499
 M49_code: 499
 life_expectancy: 77.116
 OmegaWiki_Defined_Meaning: 7931
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Montenegro.svg"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Montenegro.svg
 licence_plate_code: MNE
 ISO_3166_1_alpha_3_code: MNE
 IOC_country_code: MNE
@@ -286,72 +286,73 @@ urban_population:
   - 419986
   - 420717
 INSEE_countries_and_foreign_territories_code: 99120
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Montenegro.svg"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Montenegro.svg
 population: 617213
 Commons_category: Montenegro
 hashtag: Montenegro
-Commons_gallery: "Црна Гора / Crna Gora"
-short_name: "\U0001F1F2\U0001F1EA"
-inception: "2006-06-03"
-has_time_started: "2006-06-03"
-coordinate_location: "Point(19.216667 42.766667)"
-coordinates_of_westernmost_point: "Point(18.4338221 42.48397418)"
-coordinates_of_northernmost_point: "Point(18.98 43.55)"
+Commons_gallery: Црна Гора / Crna Gora
+short_name: 🇲🇪
+inception: 2006-06-03
+has_time_started: 2006-06-03
+coordinate_location: Point(19.216667 42.766667)
+coordinates_of_westernmost_point: Point(18.4338221 42.48397418)
+coordinates_of_northernmost_point: Point(18.98 43.55)
 GitHub_topic: montenegro
 CIVICUS_Monitor_country_entry: montenegro
 subreddit: montenegro
-geoshape: "http://commons.wikimedia.org/data/main/Data:Montenegro.map"
+geoshape: http://commons.wikimedia.org/data/main/Data:Montenegro.map
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/CrnaGora.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Montenegro.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Muntenegru.wav"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/LocationMontenegro.svg"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Montenegro%20banner.jpg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/R-1%20regional%20road%20%28Montenegro%29%2007.jpg"
-country_calling_code: +382
+  - http://commons.wikimedia.org/wiki/Special:FilePath/CrnaGora.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Montenegro.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Muntenegru.wav
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/LocationMontenegro.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Montenegro%20banner.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/R-1%20regional%20road%20%28Montenegro%29%2007.jpg
+country_calling_code: 382
 U_S_National_Archives_Identifier: 10046442
 Libris_URI: fcrtsnjz1zlrqm2
-Unicode_character: 🇲🇪 
+Unicode_character: 🇲🇪
 Colon_Classification: SG--592245
 Krugosvet_article: strany_mira/CHERNOGORIYA.html
 IPA_transcription:
-- t͡ɕɪrnɐˈɡorʲɪjə
-- "t͡sr̩̂ːnaː ɡɔ̌ra"
+  - t͡ɕɪrnɐˈɡorʲɪjə
+  - t͡sr̩̂ːnaː ɡɔ̌ra
 has_id_wikidata: Q236
 location:
-    - 42.7833
-    - 19.4667
+  - 42.7833
+  - 19.4667
 type: Country
 tags:
-    - geo/Country
+  - geo/Country
 SpocWebEntityId: 4941
 isDeleted: false
 confidential: public
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 isReadOnly: false
-source: "https://datahub.io/core/country-codes"
-cssclasses: Country
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
 publish: true
 title: Montenegro
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Montenegro
-- Monténégro
-- "الجبل الأسود"
-- 黑山
-- Черногория
+  - Montenegro
+  - Monténégro
+  - الجبل الأسود
+  - 黑山
+  - Черногория
 Languages:
-- sr
-- hu
-- bs
-- sq
-- hr
-- rom
+  - sr
+  - hu
+  - bs
+  - sq
+  - hr
+  - rom
 icon: flag-me
 ---
 

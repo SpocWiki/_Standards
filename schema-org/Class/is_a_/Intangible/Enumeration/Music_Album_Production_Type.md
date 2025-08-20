@@ -1,26 +1,27 @@
 ---
 aliases:
-- music-album-production-type
-- music_album_production_type
-- MusicAlbumProductionType
-- is_a_music_album_production_type
+  - music-album-production-type
+  - music_album_production_type
+  - MusicAlbumProductionType
+  - is_a_music_album_production_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- music_album_production_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_music_album_production_type Class"
+  - music_album_production_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_music_album_production_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_music_album_production_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_music_album_production_type Class
 type: Type
 ---
 

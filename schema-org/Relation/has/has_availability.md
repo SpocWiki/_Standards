@@ -1,25 +1,27 @@
 ---
 aliases:
-- availability
-- availability
-- availability
-- has_availability
+  - availability
+  - availability
+  - availability
+  - has_availability
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- availability
-layout: 
-license: "CC BY-SA 4.0"
+  - availability
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_availability
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_availability
 type: Predi_Relation
 ---

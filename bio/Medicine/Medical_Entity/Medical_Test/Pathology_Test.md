@@ -1,26 +1,27 @@
 ---
 aliases:
-- pathology-test
-- pathology_test
-- PathologyTest
-- is_a_pathology_test
+  - pathology-test
+  - pathology_test
+  - PathologyTest
+  - is_a_pathology_test
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- pathology_test
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_pathology_test Class"
+  - pathology_test
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_pathology_test Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_pathology_test Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_pathology_test Class
 type: Type
 ---
 

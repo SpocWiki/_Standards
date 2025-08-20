@@ -1,26 +1,27 @@
 ---
 aliases:
-- tattoo-parlor
-- tattoo_parlor
-- TattooParlor
-- is_a_tattoo_parlor
+  - tattoo-parlor
+  - tattoo_parlor
+  - TattooParlor
+  - is_a_tattoo_parlor
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tattoo_parlor
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_tattoo_parlor Class"
+  - tattoo_parlor
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_tattoo_parlor Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_tattoo_parlor Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_tattoo_parlor Class
 type: Type
 ---
 

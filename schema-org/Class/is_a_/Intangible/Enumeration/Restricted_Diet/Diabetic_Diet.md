@@ -1,27 +1,28 @@
 ---
 aliases:
-- diabetic-diet
-- diabetic_diet
-- DiabeticDiet
-- is_a_diabetic_diet
+  - diabetic-diet
+  - diabetic_diet
+  - DiabeticDiet
+  - is_a_diabetic_diet
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- diabetic_diet
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_diabetic_diet Class"
+  - diabetic_diet
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_diabetic_diet Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_diabetic_diet Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_diabetic_diet Class
 type: Type
 ---
 

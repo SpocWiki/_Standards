@@ -1,26 +1,27 @@
 ---
 aliases:
-- video-object-snapshot
-- video_object_snapshot
-- VideoObjectSnapshot
-- is_a_video_object_snapshot
+  - video-object-snapshot
+  - video_object_snapshot
+  - VideoObjectSnapshot
+  - is_a_video_object_snapshot
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- video_object_snapshot
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_video_object_snapshot Class"
+  - video_object_snapshot
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_video_object_snapshot Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_video_object_snapshot Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_video_object_snapshot Class
 type: Type
 ---
 

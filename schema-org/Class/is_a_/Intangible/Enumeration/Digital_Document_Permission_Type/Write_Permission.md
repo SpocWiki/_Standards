@@ -1,27 +1,28 @@
 ---
 aliases:
-- write-permission
-- write_permission
-- WritePermission
-- is_a_write_permission
+  - write-permission
+  - write_permission
+  - WritePermission
+  - is_a_write_permission
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DigitalDocumentPermissionType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- write_permission
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_write_permission Class"
+  - write_permission
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_write_permission Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_write_permission Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_write_permission Class
 type: Type
 ---
 

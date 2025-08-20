@@ -1,25 +1,27 @@
 ---
 aliases:
-- label-details
-- label_details
-- labelDetails
-- has_url_for_label_details
+  - label-details
+  - label_details
+  - labelDetails
+  - has_url_for_label_details
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- label_details
-layout: 
-license: "CC BY-SA 4.0"
+  - label_details
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_label_details
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_label_details
 type: Predi_Url
 ---

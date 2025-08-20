@@ -1,26 +1,27 @@
 ---
 aliases:
-- contact-point
-- contact_point
-- ContactPoint
-- is_a_contact_point
+  - contact-point
+  - contact_point
+  - ContactPoint
+  - is_a_contact_point
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- contact_point
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_contact_point Class"
+  - contact_point
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_contact_point Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_contact_point Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_contact_point Class
 type: Type
 ---
 

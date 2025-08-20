@@ -1,26 +1,27 @@
 ---
 aliases:
-- tech-article
-- tech_article
-- TechArticle
-- is_a_tech_article
+  - tech-article
+  - tech_article
+  - TechArticle
+  - is_a_tech_article
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tech_article
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_tech_article Class"
+  - tech_article
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_tech_article Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_tech_article Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_tech_article Class
 type: Type
 ---
 

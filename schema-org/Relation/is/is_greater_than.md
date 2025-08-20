@@ -1,25 +1,27 @@
 ---
 aliases:
-- greater
-- greater
-- greater
-- is_greater_than
+  - greater
+  - greater
+  - greater
+  - is_greater_than
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- greater
-layout: 
-license: "CC BY-SA 4.0"
+  - greater
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_greater_than
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_greater_than
 type: Predi_Relation
 ---

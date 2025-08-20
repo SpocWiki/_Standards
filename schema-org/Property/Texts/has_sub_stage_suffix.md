@@ -1,27 +1,29 @@
 ---
 aliases:
-- sub-stage-suffix
-- sub_stage_suffix
-- subStageSuffix
-- has_text_of_sub_stage_suffix
+  - sub-stage-suffix
+  - sub_stage_suffix
+  - subStageSuffix
+  - has_text_of_sub_stage_suffix
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sub
-- stage
-- suffix
-layout: 
-license: "CC BY-SA 4.0"
+  - sub
+  - stage
+  - suffix
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_sub_stage_suffix
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_sub_stage_suffix
 type: Pred_Text
 ---

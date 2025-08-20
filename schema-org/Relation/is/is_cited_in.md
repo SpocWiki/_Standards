@@ -1,26 +1,28 @@
 ---
 aliases:
-- citation
-- citation
-- citation
-- has_citation_in
-- is_cited_in
+  - citation
+  - citation
+  - citation
+  - has_citation_in
+  - is_cited_in
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- citation
-layout: 
-license: "CC BY-SA 4.0"
+  - citation
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_citation_in
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_citation_in
 type: Predi_Relation
 ---

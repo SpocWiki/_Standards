@@ -1,25 +1,27 @@
 ---
 aliases:
-- star_rating
-- star-rating
-- starRating
-- has_number_of_stars_rating
+  - star_rating
+  - star-rating
+  - starRating
+  - has_number_of_stars_rating
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- star-rating
-layout: 
-license: "CC BY-SA 4.0"
+  - star-rating
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_star-rating
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_star-rating
 type: Predi_Quantity
 ---

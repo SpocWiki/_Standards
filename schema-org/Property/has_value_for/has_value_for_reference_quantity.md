@@ -1,25 +1,27 @@
 ---
 aliases:
-- reference_quantity
-- reference-quantity
-- referenceQuantity
-- has_value_for_reference_quantity
+  - reference_quantity
+  - reference-quantity
+  - referenceQuantity
+  - has_value_for_reference_quantity
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reference-quantity
-layout: 
-license: "CC BY-SA 4.0"
+  - reference-quantity
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_reference-quantity
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_reference-quantity
 type: Predi_Quantity
 ---

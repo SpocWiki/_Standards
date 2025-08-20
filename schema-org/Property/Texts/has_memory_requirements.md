@@ -1,26 +1,28 @@
 ---
 aliases:
-- memory-requirements
-- memory_requirements
-- memoryRequirements
-- has_text_of_memory_requirements
+  - memory-requirements
+  - memory_requirements
+  - memoryRequirements
+  - has_text_of_memory_requirements
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- memory
-- requirements
-layout: 
-license: "CC BY-SA 4.0"
+  - memory
+  - requirements
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_memory_requirements
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_memory_requirements
 type: Pred_Text
 ---

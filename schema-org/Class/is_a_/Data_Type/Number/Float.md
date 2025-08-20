@@ -1,26 +1,27 @@
 ---
 aliases:
-- float
-- float
-- Float
-- is_a_float
+  - float
+  - float
+  - Float
+  - is_a_float
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- float
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_float Class"
+  - float
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_float Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_float Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_float Class
 type: Type
 ---
 

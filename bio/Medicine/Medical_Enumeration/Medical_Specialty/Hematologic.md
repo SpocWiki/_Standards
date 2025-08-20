@@ -1,27 +1,28 @@
 ---
 aliases:
-- hematologic
-- hematologic
-- Hematologic
-- is_a_hematologic
+  - hematologic
+  - hematologic
+  - Hematologic
+  - is_a_hematologic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hematologic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hematologic Class"
+  - hematologic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hematologic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hematologic Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hematologic Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- diagnostic-lab
-- diagnostic_lab
-- DiagnosticLab
-- is_a_diagnostic_lab
+  - diagnostic-lab
+  - diagnostic_lab
+  - DiagnosticLab
+  - is_a_diagnostic_lab
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- diagnostic_lab
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_diagnostic_lab Class"
+  - diagnostic_lab
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_diagnostic_lab Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_diagnostic_lab Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_diagnostic_lab Class
 type: Type
 ---
 

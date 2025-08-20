@@ -2,33 +2,33 @@
 age_of_majority: 18
 aircraft_registration_prefix: SX
 aliases:
-- Greece
-- Grecia
-- Grèce
-- اليونان
-- 希腊
-- Греция
-- "the Hellenic Republic"
-- "la República Helénica"
-anthem: '[[_Standards/WikiData/WD~Hymn_to_Liberty,176665]]'
+  - Greece
+  - Grecia
+  - Grèce
+  - اليونان
+  - 希腊
+  - Греция
+  - the Hellenic Republic
+  - la República Helénica
+anthem: "[[_Standards/WikiData/WD~Hymn_to_Liberty,176665]]"
 area: 131957
-audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hymn%20to%20liberty%20instrumental.oga"
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hymn%20to%20liberty%20instrumental.oga
 Baidu_Tieba_name: 希腊
-basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
 Basisklassifikation: 15.69
 BHCL_UUID: 4dc9811e-720f-4a48-a9e2-9a406a6e4d35
-bibliography: '[[_Standards/WikiData/WD~bibliography_of_Greece,4903347]]'
+bibliography: "[[_Standards/WikiData/WD~bibliography_of_Greece,4903347]]"
 birth_rate:
-- 7.3
-- 7.8
-- 7.9
-- 8.1
-capital: '[[_Standards/WikiData/WD~Athens,1524]]'
-category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q7981805,7981805]]'
-central_bank: '[[_Standards/WikiData/WD~euro_bank,806700]]'
+  - 7.3
+  - 7.8
+  - 7.9
+  - 8.1
+capital: "[[_Standards/WikiData/WD~Athens,1524]]"
+category_for_honorary_citizens_of_entity: "[[_Standards/WikiData/WD~Q7981805,7981805]]"
+central_bank: "[[_Standards/WikiData/WD~euro_bank,806700]]"
 CIVICUS_Monitor_country_entry: greece
-coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Greece,181147]]'
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Greece.svg"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Greece,181147]]"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Greece.svg
 Colon_Classification: SG--51
 Commons_category: Greece
 Commons_gallery: Ελλάδα
@@ -36,440 +36,441 @@ compulsory_education_maximum_age_: 16
 compulsory_education_minimum_age_: 5
 confidential: public
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Western_Macedonia,165408]]'
-- '[[_Standards/WikiData/WD~West_Greece_Region,170291]]'
-- '[[_Standards/WikiData/WD~Eastern_Macedonia_and_Thrace,171314]]'
-- '[[_Standards/WikiData/WD~South_Aegean_Region,173616]]'
-- '[[_Standards/WikiData/WD~North_Aegean_Region,173620]]'
-- '[[_Standards/WikiData/WD~Epirus_Region,180484]]'
-- '[[_Standards/WikiData/WD~Central_Greece_Region,199580]]'
-- '[[_Standards/WikiData/WD~Peloponnese_Region,202484]]'
-- '[[_Standards/WikiData/WD~Attica_Region,758056]]'
-- '[[_Standards/WikiData/WD~monastic_community_of_Mount_Athos,780149]]'
-- '[[_Standards/WikiData/WD~Ionian_Islands_Region,1147674]]'
-- '[[_Standards/WikiData/WD~Crete_Region,1267522]]'
-- '[[_Standards/WikiData/WD~Central_Macedonia,17152]]'
-- '[[_Standards/WikiData/WD~Thessaly_Region,22807284]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
-coordinates_of_easternmost_point: "Point(29.7291 35.9229)"
-coordinates_of_northernmost_point: "Point(26.17267 41.74886)"
-coordinates_of_southernmost_point: "Point(24.09585 34.69698)"
-coordinates_of_westernmost_point: "Point(20.0084424 39.69181618)"
-coordinate_location: "Point(23.0 38.5)"
-country: '[[_Standards/WikiData/WD~Greece,41]]'
-country_calling_code: +30
-cssclasses: Country
-culture: '[[_Standards/WikiData/WD~culture_of_Greece,1149548]]'
+  - "[[_Standards/WikiData/WD~Western_Macedonia,165408]]"
+  - "[[_Standards/WikiData/WD~West_Greece_Region,170291]]"
+  - "[[_Standards/WikiData/WD~Eastern_Macedonia_and_Thrace,171314]]"
+  - "[[_Standards/WikiData/WD~South_Aegean_Region,173616]]"
+  - "[[_Standards/WikiData/WD~North_Aegean_Region,173620]]"
+  - "[[_Standards/WikiData/WD~Epirus_Region,180484]]"
+  - "[[_Standards/WikiData/WD~Central_Greece_Region,199580]]"
+  - "[[_Standards/WikiData/WD~Peloponnese_Region,202484]]"
+  - "[[_Standards/WikiData/WD~Attica_Region,758056]]"
+  - "[[_Standards/WikiData/WD~monastic_community_of_Mount_Athos,780149]]"
+  - "[[_Standards/WikiData/WD~Ionian_Islands_Region,1147674]]"
+  - "[[_Standards/WikiData/WD~Crete_Region,1267522]]"
+  - "[[_Standards/WikiData/WD~Central_Macedonia,17152]]"
+  - "[[_Standards/WikiData/WD~Thessaly_Region,22807284]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+coordinates_of_easternmost_point: Point(29.7291 35.9229)
+coordinates_of_northernmost_point: Point(26.17267 41.74886)
+coordinates_of_southernmost_point: Point(24.09585 34.69698)
+coordinates_of_westernmost_point: Point(20.0084424 39.69181618)
+coordinate_location: Point(23.0 38.5)
+country: "[[_Standards/WikiData/WD~Greece,41]]"
+country_calling_code: 30
+cssclasses:
+  - Country
+culture: "[[_Standards/WikiData/WD~culture_of_Greece,1149548]]"
 death_rate:
-- 11.7
-- 12.2
-- 13.4
-- 13.6
+  - 11.7
+  - 12.2
+  - 13.4
+  - 13.6
 Democracy_Index: 7.39
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Greece,958485]]'
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Greece,958485]]"
 demonym:
-- يوناني
-- يونانية
-- يونانيين
-- يونانيات
-- Gréagach
-- Grk
-- Грк
-- Έλληνας
-- Έλληνες
-- греки
-- Greek
-- Grec
-- Ελληνίδα
-- يونانية
-- griegu
-- grec
-- görög
-- greco
-- elinica
-- grego
-- يوناني
-- ギリシャ人
-- grec
-- грек
-- Грци
-- Grkinja
-- griega
-- গ্রিক
-- græker
-- Grieche
-- Griechin
-- griechisch
-- Ελληνίδες
-- greko
-- grecque
-- Grecque
-- יווני
-- יוונייה
-- Grekiano
-- greca
-- greche
-- greci
-- Griek
-- greci
-- grecoaică
-- гречанка
-- Гркиња
-- grega
-- greghe
-- greghi
-- Grikänan
+  - يوناني
+  - يونانية
+  - يونانيين
+  - يونانيات
+  - Gréagach
+  - Grk
+  - Грк
+  - Έλληνας
+  - Έλληνες
+  - греки
+  - Greek
+  - Grec
+  - Ελληνίδα
+  - يونانية
+  - griegu
+  - grec
+  - görög
+  - greco
+  - elinica
+  - grego
+  - يوناني
+  - ギリシャ人
+  - grec
+  - грек
+  - Грци
+  - Grkinja
+  - griega
+  - গ্রিক
+  - græker
+  - Grieche
+  - Griechin
+  - griechisch
+  - Ελληνίδες
+  - greko
+  - grecque
+  - Grecque
+  - יווני
+  - יוונייה
+  - Grekiano
+  - greca
+  - greche
+  - greci
+  - Griek
+  - greci
+  - grecoaică
+  - гречанка
+  - Гркиња
+  - grega
+  - greghe
+  - greghi
+  - Grikänan
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 Dewey_Decimal_Classification: 2--495
-different_from: '[[_Standards/WikiData/WD~Anaxagoras,83041]]'
+different_from: "[[_Standards/WikiData/WD~Anaxagoras,83041]]"
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Holy_See,159583]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~Norway,20]]'
-- '[[_Standards/WikiData/WD~Ireland,27]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Spain,29]]'
-- '[[_Standards/WikiData/WD~Sweden,34]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Finland,33]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~Switzerland,39]]'
-- '[[_Standards/WikiData/WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Lithuania,37]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Austria,40]]'
-- '[[_Standards/WikiData/WD~Netherlands,55]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-- '[[_Standards/WikiData/WD~Kenya,114]]'
-- '[[_Standards/WikiData/WD~Ethiopia,115]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Brazil,155]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Belarus,184]]'
-- '[[_Standards/WikiData/WD~Estonia,191]]'
-- '[[_Standards/WikiData/WD~Iceland,189]]'
-- '[[_Standards/WikiData/WD~Latvia,211]]'
-- '[[_Standards/WikiData/WD~Ukraine,212]]'
-- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
-- '[[_Standards/WikiData/WD~Romania,218]]'
-- '[[_Standards/WikiData/WD~Bulgaria,219]]'
-- '[[_Standards/WikiData/WD~Moldova,217]]'
-- '[[_Standards/WikiData/WD~Albania,222]]'
-- '[[_Standards/WikiData/WD~North_Macedonia,221]]'
-- '[[_Standards/WikiData/WD~Azerbaijan,227]]'
-- '[[_Standards/WikiData/WD~Croatia,224]]'
-- '[[_Standards/WikiData/WD~Cyprus,229]]'
-- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
-- '[[_Standards/WikiData/WD~Malta,233]]'
-- '[[_Standards/WikiData/WD~Montenegro,236]]'
-- '[[_Standards/WikiData/WD~Cuba,241]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~Algeria,262]]'
-- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-- '[[_Standards/WikiData/WD~Chile,298]]'
-- '[[_Standards/WikiData/WD~Armenia,399]]'
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~Peru,419]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~New_Zealand,664]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Venezuela,717]]'
-- '[[_Standards/WikiData/WD~Colombia,739]]'
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~Iraq,796]]'
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Jordan,810]]'
-- '[[_Standards/WikiData/WD~Nicaragua,811]]'
-- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
-- '[[_Standards/WikiData/WD~Lebanon,822]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
-- '[[_Standards/WikiData/WD~Syria,858]]'
-- '[[_Standards/WikiData/WD~Tajikistan,863]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~South_Korea,884]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Philippines,928]]'
-- '[[_Standards/WikiData/WD~Zimbabwe,954]]'
-- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
-- '[[_Standards/WikiData/WD~Nigeria,1033]]'
+  - "[[_Standards/WikiData/WD~Holy_See,159583]]"
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~Norway,20]]"
+  - "[[_Standards/WikiData/WD~Ireland,27]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Belgium,31]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Spain,29]]"
+  - "[[_Standards/WikiData/WD~Sweden,34]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Finland,33]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Switzerland,39]]"
+  - "[[_Standards/WikiData/WD~Poland,36]]"
+  - "[[_Standards/WikiData/WD~Lithuania,37]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Austria,40]]"
+  - "[[_Standards/WikiData/WD~Netherlands,55]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~Kenya,114]]"
+  - "[[_Standards/WikiData/WD~Ethiopia,115]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Belarus,184]]"
+  - "[[_Standards/WikiData/WD~Estonia,191]]"
+  - "[[_Standards/WikiData/WD~Iceland,189]]"
+  - "[[_Standards/WikiData/WD~Latvia,211]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Czech_Republic,213]]"
+  - "[[_Standards/WikiData/WD~Romania,218]]"
+  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
+  - "[[_Standards/WikiData/WD~Moldova,217]]"
+  - "[[_Standards/WikiData/WD~Albania,222]]"
+  - "[[_Standards/WikiData/WD~North_Macedonia,221]]"
+  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
+  - "[[_Standards/WikiData/WD~Croatia,224]]"
+  - "[[_Standards/WikiData/WD~Cyprus,229]]"
+  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+  - "[[_Standards/WikiData/WD~Malta,233]]"
+  - "[[_Standards/WikiData/WD~Montenegro,236]]"
+  - "[[_Standards/WikiData/WD~Cuba,241]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252]]"
+  - "[[_Standards/WikiData/WD~South_Africa,258]]"
+  - "[[_Standards/WikiData/WD~Algeria,262]]"
+  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
+  - "[[_Standards/WikiData/WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Armenia,399]]"
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Peru,419]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~New_Zealand,664]]"
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Venezuela,717]]"
+  - "[[_Standards/WikiData/WD~Colombia,739]]"
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Iraq,796]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Jordan,810]]"
+  - "[[_Standards/WikiData/WD~Nicaragua,811]]"
+  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
+  - "[[_Standards/WikiData/WD~Lebanon,822]]"
+  - "[[_Standards/WikiData/WD~Malaysia,833]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+  - "[[_Standards/WikiData/WD~Syria,858]]"
+  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~South_Korea,884]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Philippines,928]]"
+  - "[[_Standards/WikiData/WD~Zimbabwe,954]]"
+  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
+  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
 draft: false
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Greece,45074]]'
+driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Greece,45074]]"
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~100,25648793]]'
-- '[[_Standards/WikiData/WD~166,25648841]]'
-- '[[_Standards/WikiData/WD~199,25648881]]'
-ethnic_group: '[[_Standards/WikiData/WD~Greeks,539051]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_Greece,15260617]]'
-expiryDate: 
+  - "[[_Standards/WikiData/WD~100,25648793]]"
+  - "[[_Standards/WikiData/WD~166,25648841]]"
+  - "[[_Standards/WikiData/WD~199,25648881]]"
+ethnic_group: "[[_Standards/WikiData/WD~Greeks,539051]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Greece,15260617]]"
+expiryDate:
 female_population:
-- 5323993
-- 5391653
-- 5456292
-- 5467106
+  - 5323993
+  - 5391653
+  - 5456292
+  - 5467106
 FIPS_10_4_countries_and_regions_: GR
-flag: '[[_Standards/WikiData/WD~flag_of_Greece,129132]]'
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg"
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Greece,375433]]'
-geoshape: "http://commons.wikimedia.org/data/main/Data:Greece.map"
+flag: "[[_Standards/WikiData/WD~flag_of_Greece,129132]]"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Greece,375433]]"
+geoshape: http://commons.wikimedia.org/data/main/Data:Greece.map
 Gini_coefficient: 33.1
 GitHub_topic: greece
 Gregorian_calendar_start_date: 1923-03-01
 GS1_country_code:
-- 520
-- 521
+  - 520
+  - 521
 Happy_Planet_Index_score: 48.8
 hashtag: greece
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 has_id_wikidata: Q41
-has_part_s_: '[[_Standards/WikiData/WD~Greek_Islands,25162136]]'
+has_part_s_: "[[_Standards/WikiData/WD~Greek_Islands,25162136]]"
 has_time_started: 1821-04-06
-head_of_government: '[[_Standards/WikiData/WD~Kyriakos_Mitsotakis,552751]]'
-head_of_state: '[[_Standards/WikiData/WD~Katerina_Sakellaropoulou,57415743]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Court_of_Cassation,174932]]'
-highest_point: '[[_Standards/WikiData/WD~Mount_Olympus,80344]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Greece,7794]]'
+head_of_government: "[[_Standards/WikiData/WD~Kyriakos_Mitsotakis,552751]]"
+head_of_state: "[[_Standards/WikiData/WD~Katerina_Sakellaropoulou,57415743]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Court_of_Cassation,174932]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Olympus,80344]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Greece,7794]]"
 Human_Development_Index: 0.887
 IAB_code: 1303
 icon: flag-gr
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Acropolis%20and%20Mount%20Hymettus%20from%20Philopappos%20Hill%20on%20July%2018%2C%202019.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Acropolis%20and%20Mount%20Hymettus%20from%20Philopappos%20Hill%20on%20July%2018%2C%202019.jpg
 inception: 1821-04-06
 Inequality_adjusted_Human_Development_Index: 0.791
 INSEE_countries_and_foreign_territories_code: 99126
 instance_of:
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
 IOC_country_code: GRE
 IPA_transcription: ˈɡrʲet͡sɨjə
 isDeleted: false
-ISNI: 0000000405552357
+ISNI: 405552357
 ISO_3166_1_alpha_2_code: GR
 ISO_3166_1_alpha_3_code: GRC
 ISO_3166_1_numeric_code: 300
 isReadOnly: false
 ITU_letter_code: GRC
-keywords: 
+keywords:
 Krugosvet_article: strany_mira/GRETSIYA.html
 Languages:
-- el-GR
-- en
-- fr
+  - el-GR
+  - en
+  - fr
 language_used:
-- '[[_Standards/WikiData/WD~Tosk,180937]]'
-- '[[_Standards/WikiData/WD~Tsakonian,220607]]'
-- '[[_Standards/WikiData/WD~Cappadocian_Greek,853414]]'
-- '[[_Standards/WikiData/WD~Greek_Sign_Language,3565084]]'
-- '[[_Standards/WikiData/WD~Romano-Greek,3915435]]'
-- '[[_Standards/WikiData/WD~Bulgarian,7918]]'
-- '[[_Standards/WikiData/WD~Greek,9129]]'
-- '[[_Standards/WikiData/WD~Macedonian,9296]]'
-- '[[_Standards/WikiData/WD~Megleno-Romanian,13358]]'
-- '[[_Standards/WikiData/WD~Aromanian,29316]]'
-- '[[_Standards/WikiData/WD~Arvanitic,29347]]'
-- '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
-- '[[_Standards/WikiData/WD~Modern_Greek,36510]]'
-- '[[_Standards/WikiData/WD~Pontic_Greek,36748]]'
-- '[[_Standards/WikiData/WD~Turkish,256]]'
-layout: 
-legislative_body: '[[_Standards/WikiData/WD~Hellenic_Parliament,477089]]'
+  - "[[_Standards/WikiData/WD~Tosk,180937]]"
+  - "[[_Standards/WikiData/WD~Tsakonian,220607]]"
+  - "[[_Standards/WikiData/WD~Cappadocian_Greek,853414]]"
+  - "[[_Standards/WikiData/WD~Greek_Sign_Language,3565084]]"
+  - "[[_Standards/WikiData/WD~Romano-Greek,3915435]]"
+  - "[[_Standards/WikiData/WD~Bulgarian,7918]]"
+  - "[[_Standards/WikiData/WD~Greek,9129]]"
+  - "[[_Standards/WikiData/WD~Macedonian,9296]]"
+  - "[[_Standards/WikiData/WD~Megleno-Romanian,13358]]"
+  - "[[_Standards/WikiData/WD~Aromanian,29316]]"
+  - "[[_Standards/WikiData/WD~Arvanitic,29347]]"
+  - "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+  - "[[_Standards/WikiData/WD~Modern_Greek,36510]]"
+  - "[[_Standards/WikiData/WD~Pontic_Greek,36748]]"
+  - "[[_Standards/WikiData/WD~Turkish,256]]"
+layout:
+legislative_body: "[[_Standards/WikiData/WD~Hellenic_Parliament,477089]]"
 Libris_URI: 75kml65r2vq53rp
 licence_plate_code: GR
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 life_expectancy: 81.1
-linkTitle: 
+linkTitle:
 located_in_on_physical_feature:
-- '[[_Standards/WikiData/WD~Southeast_Europe,263686]]'
-- '[[_Standards/WikiData/WD~Balkans,23522]]'
-- '[[_Standards/WikiData/WD~Southern_Europe,27449]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+  - "[[_Standards/WikiData/WD~Southeast_Europe,263686]]"
+  - "[[_Standards/WikiData/WD~Balkans,23522]]"
+  - "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
 location:
-- 38.6175
-- 23.0356
-location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Greece%20location%20map.svg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Greece%20on%20the%20globe%20%28Europe%20centered%29.svg"
-lowest_point: '[[_Standards/WikiData/WD~Calypso_Deep,1027846]]'
+  - 38.6175
+  - 23.0356
+location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Greece%20location%20map.svg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Greece%20on%20the%20globe%20%28Europe%20centered%29.svg
+lowest_point: "[[_Standards/WikiData/WD~Calypso_Deep,1027846]]"
 M49_code: 300
 mains_voltage: 230
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Greece,10740384]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Greece,10740384]]"
 male_population:
-- 5102926
-- 5177554
-- 5242307
-- 5254476
+  - 5102926
+  - 5177554
+  - 5242307
+  - 5254476
 maritime_identification_digits:
-- 240
-- 241
-- 237
-- 239
+  - 240
+  - 241
+  - 237
+  - 239
 marriageable_age: 18
 member_of:
-- '[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
-- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- '[[_Standards/WikiData/WD~Australia_Group,782942]]'
-- '[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]'
-- '[[_Standards/WikiData/WD~International_Energy_Agency,826700]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]'
-- '[[_Standards/WikiData/WD~European_Payments_Union,1377612]]'
-- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]'
-- '[[_Standards/WikiData/WD~Schengen_Area,1969730]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~NATO,7184]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Q131720477,131720477]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
-- '[[_Standards/WikiData/WD~European_Space_Agency,42262]]'
-- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]'
+  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
+  - "[[_Standards/WikiData/WD~Australia_Group,782942]]"
+  - "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
+  - "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
+  - "[[_Standards/WikiData/WD~European_Payments_Union,1377612]]"
+  - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
+  - "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
+  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~NATO,7184]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Q131720477,131720477]]"
+  - "[[_Standards/WikiData/WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
+  - "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
+  - "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
 MeSH_tree_code: Z01.542.383
 mobile_country_code: 202
-motto: '[[_Standards/WikiData/WD~Eleftheria_i_thanatos,2746673]]'
+motto: "[[_Standards/WikiData/WD~Eleftheria_i_thanatos,2746673]]"
 motto_text:
-- "Rhyddid neu farwolaeth"
-- "Ελευθερία ή Θάνατος"
-- "All Time Classic"
-named_after: '[[_Standards/WikiData/WD~Greeks,539051]]'
-name_in_native_language: "Ελληνική Δημοκρατία"
+  - Rhyddid neu farwolaeth
+  - Ελευθερία ή Θάνατος
+  - All Time Classic
+named_after: "[[_Standards/WikiData/WD~Greeks,539051]]"
+name_in_native_language: Ελληνική Δημοκρατία
 native_label:
-- Ελλάδα
-- "Ελληνική Δημοκρατία"
-- Ελλάς
+  - Ελλάδα
+  - Ελληνική Δημοκρατία
+  - Ελλάς
 nominal_GDP:
-- 214873879834
-- 219065872466
+  - 214873879834
+  - 219065872466
 number_of_out_of_school_children: 45430
 NUTS_code: EL
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Greece,4377230]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Greece,3409203]]'
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Greece,4377230]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Greece,3409203]]"
 official_language:
-- '[[_Standards/WikiData/WD~Greek,9129]]'
-- '[[_Standards/WikiData/WD~Demotic_Greek,35392]]'
-- '[[_Standards/WikiData/WD~Modern_Greek,36510]]'
+  - "[[_Standards/WikiData/WD~Greek,9129]]"
+  - "[[_Standards/WikiData/WD~Demotic_Greek,35392]]"
+  - "[[_Standards/WikiData/WD~Modern_Greek,36510]]"
 official_name:
-- "Ελληνική Δημοκρατία"
-- "République hellénique"
-- "Republiken Grekland"
-official_website: "https://www.government.gov.gr"
+  - Ελληνική Δημοκρατία
+  - République hellénique
+  - Republiken Grekland
+official_website: https://www.government.gov.gr
 OmegaWiki_Defined_Meaning: 7958
-open_data_portal: '[[_Standards/WikiData/WD~geodata.gov.gr,97012113]]'
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Kompsatos%20river%20bridge%2C%20Thrace.jpg"
+open_data_portal: "[[_Standards/WikiData/WD~geodata.gov.gr,97012113]]"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Kompsatos%20river%20bridge%2C%20Thrace.jpg
 part_of:
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~European_Economic_Area,8932]]'
-- '[[_Standards/WikiData/WD~Southern_Europe,27449]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21201900,21201900]]'
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
+  - "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
+  - "[[_Standards/WikiData/WD~European_Union,458]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q21201900,21201900]]"
 PM20_geo_code: A45
 population: 10482487
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Hu-G%C3%B6r%C3%B6gorsz%C3%A1g.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Griicheland.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Grecia.wav"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Hu-G%C3%B6r%C3%B6gorsz%C3%A1g.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Griicheland.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Grecia.wav
 public_holiday:
-- '[[_Standards/WikiData/WD~Epiphany,132001]]'
-- '[[_Standards/WikiData/WD~Rosenmontag,153134]]'
-- '[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]'
-- '[[_Standards/WikiData/WD~Easter_Monday,209663]]'
-- '[[_Standards/WikiData/WD~Easter_Sunday,1512337]]'
-- '[[_Standards/WikiData/WD~Christmas,19809]]'
-- '[[_Standards/WikiData/WD~New_Year,34812]]'
-- '[[_Standards/WikiData/WD~Good_Friday,40317]]'
-- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+  - "[[_Standards/WikiData/WD~Epiphany,132001]]"
+  - "[[_Standards/WikiData/WD~Rosenmontag,153134]]"
+  - "[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]"
+  - "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
+  - "[[_Standards/WikiData/WD~Easter_Sunday,1512337]]"
+  - "[[_Standards/WikiData/WD~Christmas,19809]]"
+  - "[[_Standards/WikiData/WD~New_Year,34812]]"
+  - "[[_Standards/WikiData/WD~Good_Friday,40317]]"
+  - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
 publish: true
-publishDate: 
-railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
-replaces: '[[_Standards/WikiData/WD~Third_Hellenic_Republic,17765809]]'
+publishDate:
+railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
+replaces: "[[_Standards/WikiData/WD~Third_Hellenic_Republic,17765809]]"
 retirement_age: 67
 right_to_vote:
-- '[[_Standards/WikiData/WD~universal_suffrage,319891]]'
-- '[[_Standards/WikiData/WD~voting_age,338753]]'
+  - "[[_Standards/WikiData/WD~universal_suffrage,319891]]"
+  - "[[_Standards/WikiData/WD~voting_age,338753]]"
 rural_population:
-- 2048160
-- 2109825
-- 2170211
-- 2209932
+  - 2048160
+  - 2109825
+  - 2170211
+  - 2209932
 shares_border_with:
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Bulgaria,219]]'
-- '[[_Standards/WikiData/WD~Albania,222]]'
-- '[[_Standards/WikiData/WD~North_Macedonia,221]]'
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
+  - "[[_Standards/WikiData/WD~Albania,222]]"
+  - "[[_Standards/WikiData/WD~North_Macedonia,221]]"
 short_name:
-- el
-- "\U0001F1EC\U0001F1F7"
-source: "https://datahub.io/core/country-codes"
+  - el
+  - 🇬🇷
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26910
-Stack_Exchange_tag: "https://travel.stackexchange.com/tags/greece"
-studied_in: '[[_Standards/WikiData/WD~Hellenic_studies,489119]]'
+Stack_Exchange_tag: https://travel.stackexchange.com/tags/greece
+studied_in: "[[_Standards/WikiData/WD~Hellenic_studies,489119]]"
 subreddit: greece
 suicide_rate: 3.6
 tags:
-- geo/Country
+  - geo/Country
 title: Greece
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Administrative_regions_of_Greece,6839551]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Greece,6218181]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.gr,37893]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Administrative_regions_of_Greece,6839551]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Greece,6218181]]"
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.gr,37893]]"
 total_fertility_rate: 1.3
 type: Country
 UIC_alphabetical_country_code: GR
 UIC_numerical_country_code: 73
 unemployment_rate: 18.5
-Unicode_character: "\U0001F1EC\U0001F1F7"
+Unicode_character: 🇬🇷
 urban_population:
-- 8511650
-- 8378759
-- 8459382
-- 8528388
+  - 8511650
+  - 8378759
+  - 8459382
+  - 8528388
 U_S_National_Archives_Identifier: 10035789
 VAT_rate: 24
 water_as_percent_of_area: 2.3
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Greece,7112276]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Greece,7112276]]"
 WIPO_ST_3: GR
 ---
 

@@ -1,28 +1,30 @@
 ---
 aliases:
-- fees-and-commissions-specification
-- fees_and_commissions_specification
-- feesAndCommissionsSpecification
-- has_text_of_fees_and_commissions_specification
+  - fees-and-commissions-specification
+  - fees_and_commissions_specification
+  - feesAndCommissionsSpecification
+  - has_text_of_fees_and_commissions_specification
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- fees
-- and
-- commissions
-- specification
-layout: 
-license: "CC BY-SA 4.0"
+  - fees
+  - and
+  - commissions
+  - specification
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_fees_and_commissions_specification
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_fees_and_commissions_specification
 type: Pred_Text
 ---

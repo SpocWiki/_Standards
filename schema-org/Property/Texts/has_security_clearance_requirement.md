@@ -1,27 +1,29 @@
 ---
 aliases:
-- security-clearance-requirement
-- security_clearance_requirement
-- securityClearanceRequirement
-- has_text_of_security_clearance_requirement
+  - security-clearance-requirement
+  - security_clearance_requirement
+  - securityClearanceRequirement
+  - has_text_of_security_clearance_requirement
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- security
-- clearance
-- requirement
-layout: 
-license: "CC BY-SA 4.0"
+  - security
+  - clearance
+  - requirement
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_security_clearance_requirement
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_security_clearance_requirement
 type: Pred_Text
 ---

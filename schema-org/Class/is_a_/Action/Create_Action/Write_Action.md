@@ -1,26 +1,27 @@
 ---
 aliases:
-- write-action
-- write_action
-- WriteAction
-- is_a_write_action
+  - write-action
+  - write_action
+  - WriteAction
+  - is_a_write_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- write_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_write_action Class"
+  - write_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_write_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_write_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_write_action Class
 type: Type
 ---
 

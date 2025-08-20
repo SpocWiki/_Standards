@@ -1,25 +1,27 @@
 ---
 aliases:
-- account_minimum_inflow
-- account-minimum-inflow
-- accountMinimumInflow
-- has_value_for_account_minimum_inflow
+  - account_minimum_inflow
+  - account-minimum-inflow
+  - accountMinimumInflow
+  - has_value_for_account_minimum_inflow
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- account-minimum-inflow
-layout: 
-license: "CC BY-SA 4.0"
+  - account-minimum-inflow
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_account-minimum-inflow
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_account-minimum-inflow
 type: Predi_Quantity
 ---

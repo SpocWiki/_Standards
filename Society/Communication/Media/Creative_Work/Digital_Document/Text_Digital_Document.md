@@ -1,26 +1,27 @@
 ---
 aliases:
-- text-digital-document
-- text_digital_document
-- TextDigitalDocument
-- is_a_text_digital_document
+  - text-digital-document
+  - text_digital_document
+  - TextDigitalDocument
+  - is_a_text_digital_document
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- text_digital_document
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_text_digital_document Class"
+  - text_digital_document
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_text_digital_document Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_text_digital_document Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_text_digital_document Class
 type: Type
 ---
 

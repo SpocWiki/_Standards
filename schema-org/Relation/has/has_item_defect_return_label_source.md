@@ -1,29 +1,31 @@
 ---
 aliases:
-- item-defect-return-label-source
-- item_defect_return_label_source
-- itemDefectReturnLabelSource
-- has_item_defect_return_label_source
+  - item-defect-return-label-source
+  - item_defect_return_label_source
+  - itemDefectReturnLabelSource
+  - has_item_defect_return_label_source
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- item
-- defect
-- return
-- label
-- source
-layout: 
-license: "CC BY-SA 4.0"
+  - item
+  - defect
+  - return
+  - label
+  - source
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_item_defect_return_label_source
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_item_defect_return_label_source
 type: Predi_Relation
 ---

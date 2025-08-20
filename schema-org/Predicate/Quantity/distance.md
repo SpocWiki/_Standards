@@ -1,26 +1,27 @@
 ---
 aliases:
-- distance
-- distance
-- Distance
-- is_a_distance
+  - distance
+  - distance
+  - Distance
+  - is_a_distance
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- distance
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_distance Class"
+  - distance
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_distance Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_distance Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_distance Class
 type: Type
 ---
 

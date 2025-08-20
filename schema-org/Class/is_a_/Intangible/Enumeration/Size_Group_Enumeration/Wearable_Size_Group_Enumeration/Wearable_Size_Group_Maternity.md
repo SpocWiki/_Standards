@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-size-group-maternity
-- wearable_size_group_maternity
-- WearableSizeGroupMaternity
-- is_a_wearable_size_group_maternity
+  - wearable-size-group-maternity
+  - wearable_size_group_maternity
+  - WearableSizeGroupMaternity
+  - is_a_wearable_size_group_maternity
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_size_group_maternity
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_size_group_maternity Class"
+  - wearable_size_group_maternity
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_size_group_maternity Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_size_group_maternity Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_size_group_maternity Class
 type: Type
 ---
 

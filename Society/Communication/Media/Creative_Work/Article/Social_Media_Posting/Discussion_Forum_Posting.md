@@ -1,26 +1,27 @@
 ---
 aliases:
-- discussion-forum-posting
-- discussion_forum_posting
-- DiscussionForumPosting
-- is_a_discussion_forum_posting
+  - discussion-forum-posting
+  - discussion_forum_posting
+  - DiscussionForumPosting
+  - is_a_discussion_forum_posting
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- discussion_forum_posting
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_discussion_forum_posting Class"
+  - discussion_forum_posting
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_discussion_forum_posting Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_discussion_forum_posting Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_discussion_forum_posting Class
 type: Type
 ---
 

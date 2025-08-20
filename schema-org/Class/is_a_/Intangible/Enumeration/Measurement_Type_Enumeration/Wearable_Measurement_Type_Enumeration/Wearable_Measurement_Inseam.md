@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-measurement-inseam
-- wearable_measurement_inseam
-- WearableMeasurementInseam
-- is_a_wearable_measurement_inseam
+  - wearable-measurement-inseam
+  - wearable_measurement_inseam
+  - WearableMeasurementInseam
+  - is_a_wearable_measurement_inseam
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_measurement_inseam
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_measurement_inseam Class"
+  - wearable_measurement_inseam
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_measurement_inseam Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_measurement_inseam Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_measurement_inseam Class
 type: Type
 ---
 

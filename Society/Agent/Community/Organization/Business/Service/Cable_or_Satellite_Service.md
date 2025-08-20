@@ -1,26 +1,27 @@
 ---
 aliases:
-- cable-or-satellite-service
-- cable_or_satellite_service
-- CableOrSatelliteService
-- is_a_cable_or_satellite_service
+  - cable-or-satellite-service
+  - cable_or_satellite_service
+  - CableOrSatelliteService
+  - is_a_cable_or_satellite_service
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cable_or_satellite_service
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_cable_or_satellite_service Class"
+  - cable_or_satellite_service
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_cable_or_satellite_service Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_cable_or_satellite_service Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_cable_or_satellite_service Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- cancel-action
-- cancel_action
-- CancelAction
-- is_a_cancel_action
+  - cancel-action
+  - cancel_action
+  - CancelAction
+  - is_a_cancel_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cancel_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_cancel_action Class"
+  - cancel_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_cancel_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_cancel_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_cancel_action Class
 type: Type
 ---
 

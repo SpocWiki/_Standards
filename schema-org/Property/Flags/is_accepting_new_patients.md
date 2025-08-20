@@ -1,25 +1,27 @@
 ---
 aliases:
-- accepting-new-patients
-- accepting_new_patients
-- isAcceptingNewPatients
-- is_accepting_new_patients
+  - accepting-new-patients
+  - accepting_new_patients
+  - isAcceptingNewPatients
+  - is_accepting_new_patients
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- accepting_new_patients
-layout: 
-license: "CC BY-SA 4.0"
+  - accepting_new_patients
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_accepting_new_patients
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_accepting_new_patients
 type: Pred_Bool
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- pediatric
-- pediatric
-- Pediatric
-- is_a_pediatric
+  - pediatric
+  - pediatric
+  - Pediatric
+  - is_a_pediatric
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- pediatric
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_pediatric Class"
+  - pediatric
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_pediatric Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_pediatric Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_pediatric Class
 type: Type
 ---
 

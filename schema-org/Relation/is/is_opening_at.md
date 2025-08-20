@@ -1,25 +1,27 @@
 ---
 aliases:
-- opens
-- opens
-- opens
-- is_opening_at
+  - opens
+  - opens
+  - opens
+  - is_opening_at
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- opens
-layout: 
-license: "CC BY-SA 4.0"
+  - opens
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_opening_at
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_opening_at
 type: Predi_Relation
 ---

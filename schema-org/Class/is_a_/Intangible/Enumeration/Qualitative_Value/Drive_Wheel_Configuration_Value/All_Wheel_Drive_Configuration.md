@@ -1,27 +1,28 @@
 ---
 aliases:
-- all-wheel-drive-configuration
-- all_wheel_drive_configuration
-- AllWheelDriveConfiguration
-- is_an_all_wheel_drive_configuration
+  - all-wheel-drive-configuration
+  - all_wheel_drive_configuration
+  - AllWheelDriveConfiguration
+  - is_an_all_wheel_drive_configuration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DriveWheelConfigurationValue
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- all_wheel_drive_configuration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_all_wheel_drive_configuration Class"
+  - all_wheel_drive_configuration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_all_wheel_drive_configuration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_all_wheel_drive_configuration Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_all_wheel_drive_configuration Class
 type: Type
 ---
 

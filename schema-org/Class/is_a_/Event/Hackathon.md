@@ -1,26 +1,27 @@
 ---
 aliases:
-- hackathon
-- hackathon
-- Hackathon
-- is_a_hackathon
+  - hackathon
+  - hackathon
+  - Hackathon
+  - is_a_hackathon
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hackathon
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hackathon Class"
+  - hackathon
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hackathon Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hackathon Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hackathon Class
 type: Type
 ---
 

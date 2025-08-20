@@ -1,26 +1,28 @@
 ---
 aliases:
-- possible-complication
-- possible_complication
-- possibleComplication
-- has_text_of_possible_complication
+  - possible-complication
+  - possible_complication
+  - possibleComplication
+  - has_text_of_possible_complication
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- possible
-- complication
-layout: 
-license: "CC BY-SA 4.0"
+  - possible
+  - complication
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_possible_complication
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_possible_complication
 type: Pred_Text
 ---

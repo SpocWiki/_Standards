@@ -1,25 +1,27 @@
 ---
 aliases:
-- has-course
-- course
-- hasCourse
-- has_course
+  - has-course
+  - course
+  - hasCourse
+  - has_course
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- course
-layout: 
-license: "CC BY-SA 4.0"
+  - course
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_course
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_course
 type: Predi_Relation
 ---

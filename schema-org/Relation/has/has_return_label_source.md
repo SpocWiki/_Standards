@@ -1,27 +1,29 @@
 ---
 aliases:
-- return-label-source
-- return_label_source
-- returnLabelSource
-- has_return_label_source
+  - return-label-source
+  - return_label_source
+  - returnLabelSource
+  - has_return_label_source
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return
-- label
-- source
-layout: 
-license: "CC BY-SA 4.0"
+  - return
+  - label
+  - source
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_return_label_source
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_return_label_source
 type: Predi_Relation
 ---

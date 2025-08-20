@@ -1,25 +1,27 @@
 ---
 aliases:
-- total-job-openings
-- total_job_openings
-- totalJobOpenings
-- has_number_of_total_job_openings
+  - total-job-openings
+  - total_job_openings
+  - totalJobOpenings
+  - has_number_of_total_job_openings
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- total_job_openings
-layout: 
-license: "CC BY-SA 4.0"
+  - total_job_openings
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_total_job_openings
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_total_job_openings
 type: Predi_Count
 ---

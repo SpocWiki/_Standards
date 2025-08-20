@@ -1,27 +1,28 @@
 ---
 aliases:
-- patient
-- patient
-- Patient
-- is_a_patient
+  - patient
+  - patient
+  - Patient
+  - is_a_patient
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-equivalent_class: "http://purl.bioontology.org/ontology/SNOMEDCT/116154003"
-expiryDate: 
+equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/116154003
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- patient
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_patient Class"
+  - patient
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_patient Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_patient Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_patient Class
 type: Type
 ---
 

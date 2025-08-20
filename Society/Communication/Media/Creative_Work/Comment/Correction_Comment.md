@@ -1,26 +1,27 @@
 ---
 aliases:
-- correction-comment
-- correction_comment
-- CorrectionComment
-- is_a_correction_comment
+  - correction-comment
+  - correction_comment
+  - CorrectionComment
+  - is_a_correction_comment
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- correction_comment
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_correction_comment Class"
+  - correction_comment
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_correction_comment Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_correction_comment Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_correction_comment Class
 type: Type
 ---
 

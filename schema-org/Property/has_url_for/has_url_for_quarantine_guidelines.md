@@ -1,25 +1,27 @@
 ---
 aliases:
-- quarantine-guidelines
-- quarantine_guidelines
-- quarantineGuidelines
-- has_url_for_quarantine_guidelines
+  - quarantine-guidelines
+  - quarantine_guidelines
+  - quarantineGuidelines
+  - has_url_for_quarantine_guidelines
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- quarantine_guidelines
-layout: 
-license: "CC BY-SA 4.0"
+  - quarantine_guidelines
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_quarantine_guidelines
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_quarantine_guidelines
 type: Predi_Url
 ---

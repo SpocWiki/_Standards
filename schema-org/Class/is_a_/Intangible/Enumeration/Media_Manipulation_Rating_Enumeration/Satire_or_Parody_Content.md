@@ -1,27 +1,28 @@
 ---
 aliases:
-- satire-or-parody-content
-- satire_or_parody_content
-- SatireOrParodyContent
-- is_a_satire_or_parody_content
+  - satire-or-parody-content
+  - satire_or_parody_content
+  - SatireOrParodyContent
+  - is_a_satire_or_parody_content
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MediaManipulationRatingEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- satire_or_parody_content
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_satire_or_parody_content Class"
+  - satire_or_parody_content
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_satire_or_parody_content Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_satire_or_parody_content Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_satire_or_parody_content Class
 type: Type
 ---
 

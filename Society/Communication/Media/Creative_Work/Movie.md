@@ -1,26 +1,27 @@
 ---
 aliases:
-- movie
-- movie
-- Movie
-- is_a_movie
+  - movie
+  - movie
+  - Movie
+  - is_a_movie
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- movie
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_movie Class"
+  - movie
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_movie Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_movie Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_movie Class
 type: Type
 ---
 

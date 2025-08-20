@@ -1,29 +1,31 @@
 ---
 aliases:
-- arterial-branch
-- arterial_branch
-- arterialBranch
-- has_arterial_branch
+  - arterial-branch
+  - arterial_branch
+  - arterialBranch
+  - has_arterial_branch
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 fileClass:
-- FileClass-Relation
+  - FileClass-Relation
 isDeleted: false
 isReadOnly: false
 keywords:
-- arterial
-- branch
-layout: 
-license: "CC BY-SA 4.0"
+  - arterial
+  - branch
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_arterial_branch
 publish: true
-publishDate: 
+publishDate:
 supersedes: branch
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_arterial_branch
 type: Predi_Relation
 ---

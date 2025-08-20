@@ -1,26 +1,27 @@
 ---
 aliases:
-- imaging-test
-- imaging_test
-- ImagingTest
-- is_an_imaging_test
+  - imaging-test
+  - imaging_test
+  - ImagingTest
+  - is_an_imaging_test
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- imaging_test
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_imaging_test Class"
+  - imaging_test
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_imaging_test Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_imaging_test Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_imaging_test Class
 type: Type
 ---
 

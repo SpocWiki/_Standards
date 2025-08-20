@@ -1,27 +1,29 @@
 ---
 aliases:
-- postal-code-begin
-- postal_code_begin
-- postalCodeBegin
-- has_text_of_postal_code_begin
+  - postal-code-begin
+  - postal_code_begin
+  - postalCodeBegin
+  - has_text_of_postal_code_begin
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- postal
-- code
-- begin
-layout: 
-license: "CC BY-SA 4.0"
+  - postal
+  - code
+  - begin
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_postal_code_begin
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_postal_code_begin
 type: Pred_Text
 ---

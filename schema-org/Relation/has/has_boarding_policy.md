@@ -1,26 +1,28 @@
 ---
 aliases:
-- boarding-policy
-- boarding_policy
-- boardingPolicy
-- has_boarding_policy
+  - boarding-policy
+  - boarding_policy
+  - boardingPolicy
+  - has_boarding_policy
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- boarding
-- policy
-layout: 
-license: "CC BY-SA 4.0"
+  - boarding
+  - policy
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_boarding_policy
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_boarding_policy
 type: Predi_Relation
 ---

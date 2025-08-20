@@ -1,25 +1,27 @@
 ---
 aliases:
-- item_defect_return_shipping_fees_amount
-- item-defect-return-shipping-fees-amount
-- itemDefectReturnShippingFeesAmount
-- has_value_for_item_defect_return_shipping_fees_amount
+  - item_defect_return_shipping_fees_amount
+  - item-defect-return-shipping-fees-amount
+  - itemDefectReturnShippingFeesAmount
+  - has_value_for_item_defect_return_shipping_fees_amount
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- item-defect-return-shipping-fees-amount
-layout: 
-license: "CC BY-SA 4.0"
+  - item-defect-return-shipping-fees-amount
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_item-defect-return-shipping-fees-amount
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_item-defect-return-shipping-fees-amount
 type: Predi_Quantity
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- rsvp-response-type
-- rsvp_response_type
-- RsvpResponseType
-- is_a_rsvp_response_type
+  - rsvp-response-type
+  - rsvp_response_type
+  - RsvpResponseType
+  - is_a_rsvp_response_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rsvp_response_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_rsvp_response_type Class"
+  - rsvp_response_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_rsvp_response_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_rsvp_response_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_rsvp_response_type Class
 type: Type
 ---
 

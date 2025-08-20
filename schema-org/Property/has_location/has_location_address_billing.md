@@ -1,25 +1,27 @@
 ---
 aliases:
-- billing-address
-- address_billing
-- billingAddress
-- has_location_address_billing
+  - billing-address
+  - address_billing
+  - billingAddress
+  - has_location_address_billing
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- address_billing
-layout: 
-license: "CC BY-SA 4.0"
+  - address_billing
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_address_billing
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_address_billing
 type: Pred_geo
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- diet
-- diet
-- diet
-- has_diet
+  - diet
+  - diet
+  - diet
+  - has_diet
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- diet
-layout: 
-license: "CC BY-SA 4.0"
+  - diet
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_diet
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_diet
 type: Predi_Relation
 ---

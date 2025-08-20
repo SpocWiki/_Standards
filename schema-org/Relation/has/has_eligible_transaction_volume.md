@@ -1,27 +1,29 @@
 ---
 aliases:
-- eligible-transaction-volume
-- eligible_transaction_volume
-- eligibleTransactionVolume
-- has_eligible_transaction_volume
+  - eligible-transaction-volume
+  - eligible_transaction_volume
+  - eligibleTransactionVolume
+  - has_eligible_transaction_volume
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- eligible
-- transaction
-- volume
-layout: 
-license: "CC BY-SA 4.0"
+  - eligible
+  - transaction
+  - volume
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_eligible_transaction_volume
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_eligible_transaction_volume
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-risk-factor
-- medical_risk_factor
-- MedicalRiskFactor
-- is_a_medical_risk_factor
+  - medical-risk-factor
+  - medical_risk_factor
+  - MedicalRiskFactor
+  - is_a_medical_risk_factor
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_risk_factor
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_risk_factor Class"
+  - medical_risk_factor
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_risk_factor Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_risk_factor Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_risk_factor Class
 type: Type
 ---
 

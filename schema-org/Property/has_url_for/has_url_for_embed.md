@@ -1,25 +1,27 @@
 ---
 aliases:
-- embed-url
-- embed_url
-- embedUrl
-- has_url_for_embed_url
+  - embed-url
+  - embed_url
+  - embedUrl
+  - has_url_for_embed_url
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- embed_url
-layout: 
-license: "CC BY-SA 4.0"
+  - embed_url
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_embed_url
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_embed_url
 type: Predi_Url
 ---

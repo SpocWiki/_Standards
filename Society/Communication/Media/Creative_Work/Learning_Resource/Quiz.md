@@ -1,26 +1,27 @@
 ---
 aliases:
-- quiz
-- quiz
-- Quiz
-- is_a_quiz
+  - quiz
+  - quiz
+  - Quiz
+  - is_a_quiz
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- quiz
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_quiz Class"
+  - quiz
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_quiz Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_quiz Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_quiz Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- cross-sectional
-- cross_sectional
-- CrossSectional
-- is_a_cross_sectional
+  - cross-sectional
+  - cross_sectional
+  - CrossSectional
+  - is_a_cross_sectional
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalObservationalStudyDesign
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cross_sectional
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_cross_sectional Class"
+  - cross_sectional
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_cross_sectional Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_cross_sectional Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_cross_sectional Class
 type: Type
 ---
 

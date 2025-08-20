@@ -1,26 +1,27 @@
 ---
 aliases:
-- hospital
-- hospital
-- Hospital
-- is_a_hospital
+  - hospital
+  - hospital
+  - Hospital
+  - is_a_hospital
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hospital
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hospital Class"
+  - hospital
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hospital Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hospital Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hospital Class
 type: Type
 ---
 

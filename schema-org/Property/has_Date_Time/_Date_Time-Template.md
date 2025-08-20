@@ -1,35 +1,31 @@
 ---
 aliases:
-- ? label-dash: 
-  : 
-- ? label_snail: 
-  : 
-- ? label: 
-  : 
-- has_time_of_{{label_snail}}
+  - "{ label-dash: }":
+  - "{ label_snail: }":
+  - "{ label: }":
+  - has_time_of_{{label_snail}}
 confidential: public
-cssclasses: "Predicate Date_Time"
+cssclasses:
+  - Predicate
+  - Date_Time
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ? label_snail: 
-  : 
-layout: 
-license: "CC BY-SA 4.0"
+  - "{ label_snail: }":
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_time_of_{{label_snail}}
 publish: true
-publishDate: 
+publishDate:
 superseded_by:
-  ? supersededBy: 
-  : 
+  "{ supersededBy: }":
 supersedes:
-  ? supersedes: 
-  : 
+  "{ supersedes: }":
 tags:
-- class/Property
-- schema-org/Property/Date
+  - class/Property
+  - schema-org/Property/Date
 title: has_time_of_{{label_snail}}
 type: Predi_Date_Time
 ---

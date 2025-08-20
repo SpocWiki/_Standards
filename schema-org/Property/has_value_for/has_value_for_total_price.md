@@ -1,25 +1,27 @@
 ---
 aliases:
-- total_price
-- total-price
-- totalPrice
-- has_value_for_total_price
+  - total_price
+  - total-price
+  - totalPrice
+  - has_value_for_total_price
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- total-price
-layout: 
-license: "CC BY-SA 4.0"
+  - total-price
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_total-price
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_total-price
 type: Predi_Quantity
 ---

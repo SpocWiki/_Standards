@@ -1,25 +1,27 @@
 ---
 aliases:
-- mentions
-- mentions
-- mentions
-- is_mentioning
+  - mentions
+  - mentions
+  - mentions
+  - is_mentioning
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- mentions
-layout: 
-license: "CC BY-SA 4.0"
+  - mentions
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_mentioning
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_mentioning
 type: Predi_Relation
 ---

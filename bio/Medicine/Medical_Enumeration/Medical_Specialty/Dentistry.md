@@ -1,27 +1,28 @@
 ---
 aliases:
-- dentistry
-- dentistry
-- Dentistry
-- is_a_dentistry
+  - dentistry
+  - dentistry
+  - Dentistry
+  - is_a_dentistry
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dentistry
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_dentistry Class"
+  - dentistry
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_dentistry Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_dentistry Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_dentistry Class
 type: Type
 ---
 

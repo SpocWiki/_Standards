@@ -1,25 +1,27 @@
 ---
 aliases:
-- height
-- height
-- height
-- has_value_for_height_in_meters
+  - height
+  - height
+  - height
+  - has_value_for_height_in_meters
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- height
-layout: 
-license: "CC BY-SA 4.0"
+  - height
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_height
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_height
 type: Predi_Quantity
 ---

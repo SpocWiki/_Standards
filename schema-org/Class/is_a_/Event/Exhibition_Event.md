@@ -1,26 +1,27 @@
 ---
 aliases:
-- exhibition-event
-- exhibition_event
-- ExhibitionEvent
-- is_an_exhibition_event
+  - exhibition-event
+  - exhibition_event
+  - ExhibitionEvent
+  - is_an_exhibition_event
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- exhibition_event
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_exhibition_event Class"
+  - exhibition_event
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_exhibition_event Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_exhibition_event Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_exhibition_event Class
 type: Type
 ---
 

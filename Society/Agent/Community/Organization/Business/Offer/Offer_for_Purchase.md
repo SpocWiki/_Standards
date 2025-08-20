@@ -1,26 +1,27 @@
 ---
 aliases:
-- offer-for-purchase
-- offer_for_purchase
-- OfferForPurchase
-- is_an_offer_for_purchase
+  - offer-for-purchase
+  - offer_for_purchase
+  - OfferForPurchase
+  - is_an_offer_for_purchase
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- offer_for_purchase
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_offer_for_purchase Class"
+  - offer_for_purchase
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_offer_for_purchase Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_offer_for_purchase Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_offer_for_purchase Class
 type: Type
 ---
 

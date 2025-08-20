@@ -1,26 +1,27 @@
 ---
 aliases:
-- drug-pregnancy-category
-- drug_pregnancy_category
-- DrugPregnancyCategory
-- is_a_drug_pregnancy_category
+  - drug-pregnancy-category
+  - drug_pregnancy_category
+  - DrugPregnancyCategory
+  - is_a_drug_pregnancy_category
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- drug_pregnancy_category
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_drug_pregnancy_category Class"
+  - drug_pregnancy_category
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_drug_pregnancy_category Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_drug_pregnancy_category Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_drug_pregnancy_category Class
 type: Type
 ---
 

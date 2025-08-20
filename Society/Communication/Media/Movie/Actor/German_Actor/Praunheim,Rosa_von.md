@@ -1,26 +1,28 @@
 ---
 aliases:
-- "Rosa von Praunheim"
-- 
+  - Rosa von Praunheim
+  - 
 confidential: private
-cssclasses: "private note"
+cssclasses:
+  - private
+  - note
 draft: true
-expiryDate: 
+expiryDate:
 has_Template:
-- Extract~Note~Template
+  - Extract~Note~Template
 isDeleted: false
 isReadOnly: false
-keywords: "Rosa von Praunheim"
+keywords: Rosa von Praunheim
 lang: en
-layout: 
+layout:
 license: (c)copyrighted
-linkTitle: "Rosa von Praunheim"
+linkTitle: Rosa von Praunheim
 publish: false
-publishDate: 
+publishDate:
 tags:
-- "Rosa von Praunheim"
-- 
-title: "Rosa von Praunheim"
+  - Rosa von Praunheim
+  - 
+title: Rosa von Praunheim
 type: private_note
 ---
 

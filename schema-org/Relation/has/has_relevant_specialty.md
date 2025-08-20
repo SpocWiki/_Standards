@@ -1,26 +1,28 @@
 ---
 aliases:
-- relevant-specialty
-- relevant_specialty
-- relevantSpecialty
-- has_relevant_specialty
+  - relevant-specialty
+  - relevant_specialty
+  - relevantSpecialty
+  - has_relevant_specialty
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- relevant
-- specialty
-layout: 
-license: "CC BY-SA 4.0"
+  - relevant
+  - specialty
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_relevant_specialty
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_relevant_specialty
 type: Predi_Relation
 ---

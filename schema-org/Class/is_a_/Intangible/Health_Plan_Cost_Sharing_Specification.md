@@ -1,26 +1,27 @@
 ---
 aliases:
-- health-plan-cost-sharing-specification
-- health_plan_cost_sharing_specification
-- HealthPlanCostSharingSpecification
-- is_a_health_plan_cost_sharing_specification
+  - health-plan-cost-sharing-specification
+  - health_plan_cost_sharing_specification
+  - HealthPlanCostSharingSpecification
+  - is_a_health_plan_cost_sharing_specification
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health_plan_cost_sharing_specification
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_health_plan_cost_sharing_specification Class"
+  - health_plan_cost_sharing_specification
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_health_plan_cost_sharing_specification Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_health_plan_cost_sharing_specification Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_health_plan_cost_sharing_specification Class
 type: Type
 ---
 

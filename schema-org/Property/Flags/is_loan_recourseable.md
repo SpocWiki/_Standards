@@ -1,25 +1,27 @@
 ---
 aliases:
-- recourse-loan
-- loan_recourseable
-- recourseLoan
-- is_loan_recourseable
+  - recourse-loan
+  - loan_recourseable
+  - recourseLoan
+  - is_loan_recourseable
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- loan_recourseable
-layout: 
-license: "CC BY-SA 4.0"
+  - loan_recourseable
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_loan_recourseable
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_loan_recourseable
 type: Pred_Bool
 ---

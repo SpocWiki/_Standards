@@ -1,24 +1,26 @@
 ---
 aliases:
-- encoding
-- has_encoding
+  - encoding
+  - has_encoding
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- encoding
-layout: 
-license: "CC BY-SA 4.0"
+  - encoding
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_encoding
 publish: true
-publishDate: 
+publishDate:
 supersedes: encodings
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_encoding
 type: Predi_Relation
 ---

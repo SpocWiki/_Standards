@@ -1,27 +1,28 @@
 ---
 aliases:
-- medical-researcher
-- medical_researcher
-- MedicalResearcher
-- is_a_medical_researcher
+  - medical-researcher
+  - medical_researcher
+  - MedicalResearcher
+  - is_a_medical_researcher
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalAudienceType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_researcher
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_researcher Class"
+  - medical_researcher
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_researcher Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_researcher Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_researcher Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- wholesale
-- wholesale
-- Wholesale
-- is_a_wholesale
+  - wholesale
+  - wholesale
+  - Wholesale
+  - is_a_wholesale
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DrugCostCategory
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wholesale
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wholesale Class"
+  - wholesale
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wholesale Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wholesale Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wholesale Class
 type: Type
 ---
 

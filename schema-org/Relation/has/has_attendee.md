@@ -1,26 +1,28 @@
 ---
 aliases:
-- attendee
-- attendee
-- attendee
-- has_attendee
+  - attendee
+  - attendee
+  - attendee
+  - has_attendee
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- attendee
-layout: 
-license: "CC BY-SA 4.0"
+  - attendee
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_attendee
 publish: true
-publishDate: 
+publishDate:
 supersedes: attendees
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_attendee
 type: Predi_Relation
 ---

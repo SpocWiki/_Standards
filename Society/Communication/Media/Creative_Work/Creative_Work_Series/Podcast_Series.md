@@ -1,26 +1,27 @@
 ---
 aliases:
-- podcast-series
-- podcast_series
-- PodcastSeries
-- is_a_podcast_series
+  - podcast-series
+  - podcast_series
+  - PodcastSeries
+  - is_a_podcast_series
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- podcast_series
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_podcast_series Class"
+  - podcast_series
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_podcast_series Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_podcast_series Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_podcast_series Class
 type: Type
 ---
 

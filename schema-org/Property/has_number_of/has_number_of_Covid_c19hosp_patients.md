@@ -1,25 +1,27 @@
 ---
 aliases:
-- cvd_num_c19hosp_pats
-- cvd-num-c19hosp-pats
-- cvdNumC19HospPats
-- has_number_of_Covid_c19hosp_patients
+  - cvd_num_c19hosp_pats
+  - cvd-num-c19hosp-pats
+  - cvdNumC19HospPats
+  - has_number_of_Covid_c19hosp_patients
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cvd-num-c19hosp-pats
-layout: 
-license: "CC BY-SA 4.0"
+  - cvd-num-c19hosp-pats
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_cvd-num-c19hosp-pats
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_cvd-num-c19hosp-pats
 type: Predi_Count
 ---

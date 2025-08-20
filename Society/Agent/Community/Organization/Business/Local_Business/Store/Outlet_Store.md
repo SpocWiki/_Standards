@@ -1,26 +1,27 @@
 ---
 aliases:
-- outlet-store
-- outlet_store
-- OutletStore
-- is_an_outlet_store
+  - outlet-store
+  - outlet_store
+  - OutletStore
+  - is_an_outlet_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- outlet_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_outlet_store Class"
+  - outlet_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_outlet_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_outlet_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_outlet_store Class
 type: Type
 ---
 

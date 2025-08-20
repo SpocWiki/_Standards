@@ -1,25 +1,27 @@
 ---
 aliases:
-- resizable
-- resizable
-- isResizable
-- is_resizable
+  - resizable
+  - resizable
+  - isResizable
+  - is_resizable
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- resizable
-layout: 
-license: "CC BY-SA 4.0"
+  - resizable
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_resizable
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_resizable
 type: Pred_Bool
 ---

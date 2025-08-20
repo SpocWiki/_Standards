@@ -1,25 +1,27 @@
 ---
 aliases:
-- distance
-- distance
-- distance
-- has_value_for_distance_in_meters
+  - distance
+  - distance
+  - distance
+  - has_value_for_distance_in_meters
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- distance
-layout: 
-license: "CC BY-SA 4.0"
+  - distance
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_distance
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_distance
 type: Predi_Quantity
 ---

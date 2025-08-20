@@ -1,27 +1,28 @@
 ---
 aliases:
-- original-media-content
-- original_media_content
-- OriginalMediaContent
-- is_an_original_media_content
+  - original-media-content
+  - original_media_content
+  - OriginalMediaContent
+  - is_an_original_media_content
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MediaManipulationRatingEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- original_media_content
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_original_media_content Class"
+  - original_media_content
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_original_media_content Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_original_media_content Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_original_media_content Class
 type: Type
 ---
 

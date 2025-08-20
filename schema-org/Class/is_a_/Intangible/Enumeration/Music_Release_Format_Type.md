@@ -1,26 +1,27 @@
 ---
 aliases:
-- music-release-format-type
-- music_release_format_type
-- MusicReleaseFormatType
-- is_a_music_release_format_type
+  - music-release-format-type
+  - music_release_format_type
+  - MusicReleaseFormatType
+  - is_a_music_release_format_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- music_release_format_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_music_release_format_type Class"
+  - music_release_format_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_music_release_format_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_music_release_format_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_music_release_format_type Class
 type: Type
 ---
 

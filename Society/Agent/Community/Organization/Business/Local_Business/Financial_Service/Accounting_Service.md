@@ -1,26 +1,27 @@
 ---
 aliases:
-- accounting-service
-- accounting_service
-- AccountingService
-- is_an_accounting_service
+  - accounting-service
+  - accounting_service
+  - AccountingService
+  - is_an_accounting_service
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- accounting_service
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_accounting_service Class"
+  - accounting_service
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_accounting_service Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_accounting_service Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_accounting_service Class
 type: Type
 ---
 

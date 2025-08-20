@@ -1,27 +1,28 @@
 ---
 aliases:
-- otolaryngologic
-- otolaryngologic
-- Otolaryngologic
-- is_an_otolaryngologic
+  - otolaryngologic
+  - otolaryngologic
+  - Otolaryngologic
+  - is_an_otolaryngologic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- otolaryngologic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_otolaryngologic Class"
+  - otolaryngologic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_otolaryngologic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_otolaryngologic Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_otolaryngologic Class
 type: Type
 ---
 

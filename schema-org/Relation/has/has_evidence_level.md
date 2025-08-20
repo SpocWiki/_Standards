@@ -1,26 +1,28 @@
 ---
 aliases:
-- evidence-level
-- evidence_level
-- evidenceLevel
-- has_evidence_level
+  - evidence-level
+  - evidence_level
+  - evidenceLevel
+  - has_evidence_level
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- evidence
-- level
-layout: 
-license: "CC BY-SA 4.0"
+  - evidence
+  - level
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_evidence_level
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_evidence_level
 type: Predi_Relation
 ---

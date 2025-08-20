@@ -1,25 +1,27 @@
 ---
 aliases:
-- duration_of_warranty
-- duration-of-warranty
-- durationOfWarranty
-- has_value_for_duration_of_warranty
+  - duration_of_warranty
+  - duration-of-warranty
+  - durationOfWarranty
+  - has_value_for_duration_of_warranty
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- duration-of-warranty
-layout: 
-license: "CC BY-SA 4.0"
+  - duration-of-warranty
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_duration-of-warranty
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_duration-of-warranty
 type: Predi_Quantity
 ---

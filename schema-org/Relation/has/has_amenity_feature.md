@@ -1,26 +1,28 @@
 ---
 aliases:
-- amenity-feature
-- amenity_feature
-- amenityFeature
-- has_amenity_feature
+  - amenity-feature
+  - amenity_feature
+  - amenityFeature
+  - has_amenity_feature
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- amenity
-- feature
-layout: 
-license: "CC BY-SA 4.0"
+  - amenity
+  - feature
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_amenity_feature
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_amenity_feature
 type: Predi_Relation
 ---

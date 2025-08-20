@@ -1,27 +1,29 @@
 ---
 aliases:
-- game-availability-type
-- game_availability_type
-- gameAvailabilityType
-- has_game_availability_type
+  - game-availability-type
+  - game_availability_type
+  - gameAvailabilityType
+  - has_game_availability_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- game
-- availability
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - game
+  - availability
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_game_availability_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_game_availability_type
 type: Predi_Relation
 ---

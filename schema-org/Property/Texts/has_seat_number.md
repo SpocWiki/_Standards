@@ -1,26 +1,28 @@
 ---
 aliases:
-- seat-number
-- seat_number
-- seatNumber
-- has_text_of_seat_number
+  - seat-number
+  - seat_number
+  - seatNumber
+  - has_text_of_seat_number
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- seat
-- number
-layout: 
-license: "CC BY-SA 4.0"
+  - seat
+  - number
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_seat_number
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_seat_number
 type: Pred_Text
 ---

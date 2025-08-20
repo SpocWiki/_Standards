@@ -1,25 +1,27 @@
 ---
 aliases:
-- inker
-- inker
-- inker
-- has_inker
+  - inker
+  - inker
+  - inker
+  - has_inker
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- inker
-layout: 
-license: "CC BY-SA 4.0"
+  - inker
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_inker
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_inker
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- educational-audience
-- educational_audience
-- EducationalAudience
-- is_an_educational_audience
+  - educational-audience
+  - educational_audience
+  - EducationalAudience
+  - is_an_educational_audience
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- educational_audience
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_educational_audience Class"
+  - educational_audience
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_educational_audience Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_educational_audience Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_educational_audience Class
 type: Type
 ---
 

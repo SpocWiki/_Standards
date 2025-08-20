@@ -1,27 +1,28 @@
 ---
 aliases:
-- item-list-unordered
-- item_list_unordered
-- ItemListUnordered
-- is_an_item_list_unordered
+  - item-list-unordered
+  - item_list_unordered
+  - ItemListUnordered
+  - is_an_item_list_unordered
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ItemListOrderType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- item_list_unordered
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_item_list_unordered Class"
+  - item_list_unordered
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_item_list_unordered Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_item_list_unordered Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_item_list_unordered Class
 type: Type
 ---
 

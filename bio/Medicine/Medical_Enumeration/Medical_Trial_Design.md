@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-trial-design
-- medical_trial_design
-- MedicalTrialDesign
-- is_a_medical_trial_design
+  - medical-trial-design
+  - medical_trial_design
+  - MedicalTrialDesign
+  - is_a_medical_trial_design
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_trial_design
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_trial_design Class"
+  - medical_trial_design
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_trial_design Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_trial_design Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_trial_design Class
 type: Type
 ---
 

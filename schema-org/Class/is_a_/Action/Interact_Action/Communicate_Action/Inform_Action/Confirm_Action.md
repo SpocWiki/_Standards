@@ -1,26 +1,27 @@
 ---
 aliases:
-- confirm-action
-- confirm_action
-- ConfirmAction
-- is_a_confirm_action
+  - confirm-action
+  - confirm_action
+  - ConfirmAction
+  - is_a_confirm_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- confirm_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_confirm_action Class"
+  - confirm_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_confirm_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_confirm_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_confirm_action Class
 type: Type
 ---
 

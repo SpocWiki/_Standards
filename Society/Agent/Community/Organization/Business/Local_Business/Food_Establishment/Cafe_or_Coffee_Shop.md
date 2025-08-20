@@ -1,26 +1,27 @@
 ---
 aliases:
-- cafe-or-coffee-shop
-- cafe_or_coffee_shop
-- CafeOrCoffeeShop
-- is_a_cafe_or_coffee_shop
+  - cafe-or-coffee-shop
+  - cafe_or_coffee_shop
+  - CafeOrCoffeeShop
+  - is_a_cafe_or_coffee_shop
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cafe_or_coffee_shop
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_cafe_or_coffee_shop Class"
+  - cafe_or_coffee_shop
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_cafe_or_coffee_shop Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_cafe_or_coffee_shop Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_cafe_or_coffee_shop Class
 type: Type
 ---
 

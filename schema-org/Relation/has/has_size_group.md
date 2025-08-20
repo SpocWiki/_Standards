@@ -1,26 +1,28 @@
 ---
 aliases:
-- size-group
-- size_group
-- sizeGroup
-- has_size_group
+  - size-group
+  - size_group
+  - sizeGroup
+  - has_size_group
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- size
-- group
-layout: 
-license: "CC BY-SA 4.0"
+  - size
+  - group
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_size_group
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_size_group
 type: Predi_Relation
 ---

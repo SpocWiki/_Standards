@@ -1,25 +1,27 @@
 ---
 aliases:
-- value_max_text_length
-- value-max-text-length
-- valueMaxTextLength
-- has_value_for_max_text_length
+  - value_max_text_length
+  - value-max-text-length
+  - valueMaxTextLength
+  - has_value_for_max_text_length
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- value-max-text-length
-layout: 
-license: "CC BY-SA 4.0"
+  - value-max-text-length
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_value-max-text-length
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_value-max-text-length
 type: Predi_Quantity
 ---

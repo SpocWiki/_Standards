@@ -1,27 +1,28 @@
 ---
 aliases:
-- nose
-- nose
-- Nose
-- is_a_nose
+  - nose
+  - nose
+  - Nose
+  - is_a_nose
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nose
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nose Class"
+  - nose
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nose Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nose Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nose Class
 type: Type
 ---
 

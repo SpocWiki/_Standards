@@ -1,25 +1,27 @@
 ---
 aliases:
-- min_price
-- min-price
-- minPrice
-- has_value_for_min_price
+  - min_price
+  - min-price
+  - minPrice
+  - has_value_for_min_price
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- min-price
-layout: 
-license: "CC BY-SA 4.0"
+  - min-price
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_min-price
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_min-price
 type: Predi_Quantity
 ---

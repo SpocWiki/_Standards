@@ -1,26 +1,28 @@
 ---
 aliases:
-- software-help
-- software_help
-- softwareHelp
-- has_software_help
+  - software-help
+  - software_help
+  - softwareHelp
+  - has_software_help
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- software
-- help
-layout: 
-license: "CC BY-SA 4.0"
+  - software
+  - help
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_software_help
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_software_help
 type: Predi_Relation
 ---

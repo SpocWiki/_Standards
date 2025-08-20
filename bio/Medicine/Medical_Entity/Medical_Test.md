@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-test
-- medical_test
-- MedicalTest
-- is_a_medical_test
+  - medical-test
+  - medical_test
+  - MedicalTest
+  - is_a_medical_test
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_test
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_test Class"
+  - medical_test
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_test Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_test Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_test Class
 type: Type
 ---
 

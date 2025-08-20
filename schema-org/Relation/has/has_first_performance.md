@@ -1,26 +1,28 @@
 ---
 aliases:
-- first-performance
-- first_performance
-- firstPerformance
-- has_first_performance
+  - first-performance
+  - first_performance
+  - firstPerformance
+  - has_first_performance
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- first
-- performance
-layout: 
-license: "CC BY-SA 4.0"
+  - first
+  - performance
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_first_performance
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_first_performance
 type: Predi_Relation
 ---

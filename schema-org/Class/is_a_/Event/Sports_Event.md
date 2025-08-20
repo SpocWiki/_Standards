@@ -1,26 +1,27 @@
 ---
 aliases:
-- sports-event
-- sports_event
-- SportsEvent
-- is_a_sports_event
+  - sports-event
+  - sports_event
+  - SportsEvent
+  - is_a_sports_event
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sports_event
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_sports_event Class"
+  - sports_event
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_sports_event Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_sports_event Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_sports_event Class
 type: Type
 ---
 

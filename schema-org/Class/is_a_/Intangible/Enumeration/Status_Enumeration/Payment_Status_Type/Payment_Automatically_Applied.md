@@ -1,27 +1,28 @@
 ---
 aliases:
-- payment-automatically-applied
-- payment_automatically_applied
-- PaymentAutomaticallyApplied
-- is_a_payment_automatically_applied
+  - payment-automatically-applied
+  - payment_automatically_applied
+  - PaymentAutomaticallyApplied
+  - is_a_payment_automatically_applied
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PaymentStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- payment_automatically_applied
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_payment_automatically_applied Class"
+  - payment_automatically_applied
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_payment_automatically_applied Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_payment_automatically_applied Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_payment_automatically_applied Class
 type: Type
 ---
 

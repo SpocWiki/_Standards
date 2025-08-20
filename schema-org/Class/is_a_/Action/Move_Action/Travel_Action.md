@@ -1,26 +1,27 @@
 ---
 aliases:
-- travel-action
-- travel_action
-- TravelAction
-- is_a_travel_action
+  - travel-action
+  - travel_action
+  - TravelAction
+  - is_a_travel_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- travel_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_travel_action Class"
+  - travel_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_travel_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_travel_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_travel_action Class
 type: Type
 ---
 

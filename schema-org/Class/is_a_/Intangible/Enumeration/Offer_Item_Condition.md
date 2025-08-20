@@ -1,26 +1,27 @@
 ---
 aliases:
-- offer-item-condition
-- offer_item_condition
-- OfferItemCondition
-- is_an_offer_item_condition
+  - offer-item-condition
+  - offer_item_condition
+  - OfferItemCondition
+  - is_an_offer_item_condition
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- offer_item_condition
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_offer_item_condition Class"
+  - offer_item_condition
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_offer_item_condition Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_offer_item_condition Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_offer_item_condition Class
 type: Type
 ---
 

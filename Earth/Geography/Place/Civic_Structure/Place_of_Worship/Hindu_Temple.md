@@ -1,26 +1,27 @@
 ---
 aliases:
-- hindu-temple
-- hindu_temple
-- HinduTemple
-- is_a_hindu_temple
+  - hindu-temple
+  - hindu_temple
+  - HinduTemple
+  - is_a_hindu_temple
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hindu_temple
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hindu_temple Class"
+  - hindu_temple
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hindu_temple Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hindu_temple Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hindu_temple Class
 type: Type
 ---
 

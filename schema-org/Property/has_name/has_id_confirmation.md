@@ -1,26 +1,28 @@
 ---
 aliases:
-- confirmation-number
-- id_confirmation
-- confirmationNumber
-- has_id_confirmation
+  - confirmation-number
+  - id_confirmation
+  - confirmationNumber
+  - has_id_confirmation
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- confirmation
-- number
-layout: 
-license: "CC BY-SA 4.0"
+  - confirmation
+  - number
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_confirmation
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_confirmation
 type: Pred_Text
 ---

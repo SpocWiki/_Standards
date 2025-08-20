@@ -1,26 +1,28 @@
 ---
 aliases:
-- distinguishing-sign
-- distinguishing_sign
-- distinguishingSign
-- has_distinguishing_sign
+  - distinguishing-sign
+  - distinguishing_sign
+  - distinguishingSign
+  - has_distinguishing_sign
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- distinguishing
-- sign
-layout: 
-license: "CC BY-SA 4.0"
+  - distinguishing
+  - sign
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_distinguishing_sign
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_distinguishing_sign
 type: Predi_Relation
 ---

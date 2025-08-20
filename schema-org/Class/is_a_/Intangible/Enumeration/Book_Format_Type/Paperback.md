@@ -1,27 +1,28 @@
 ---
 aliases:
-- paperback
-- paperback
-- Paperback
-- is_a_paperback
+  - paperback
+  - paperback
+  - Paperback
+  - is_a_paperback
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: BookFormatType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- paperback
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_paperback Class"
+  - paperback
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_paperback Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_paperback Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_paperback Class
 type: Type
 ---
 

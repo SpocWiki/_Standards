@@ -1,25 +1,27 @@
 ---
 aliases:
-- game-location
-- game_location
-- gameLocation
-- has_location_game
+  - game-location
+  - game_location
+  - gameLocation
+  - has_location_game
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- game_location
-layout: 
-license: "CC BY-SA 4.0"
+  - game_location
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_game
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_game
 type: Pred_geo
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- number-of-pages
-- number_of_pages
-- numberOfPages
-- has_number_of_pages
+  - number-of-pages
+  - number_of_pages
+  - numberOfPages
+  - has_number_of_pages
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- number_of_pages
-layout: 
-license: "CC BY-SA 4.0"
+  - number_of_pages
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_pages
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_pages
 type: Predi_Count
 ---

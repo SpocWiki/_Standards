@@ -1,25 +1,27 @@
 ---
 aliases:
-- constraining-property
-- constraining_property
-- constrainingProperty
-- has_number_of_constraining_properties
+  - constraining-property
+  - constraining_property
+  - constrainingProperty
+  - has_number_of_constraining_properties
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- constraining_property
-layout: 
-license: "CC BY-SA 4.0"
+  - constraining_property
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_constraining_property
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_constraining_property
 type: Predi_Count
 ---

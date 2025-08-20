@@ -1,27 +1,29 @@
 ---
 aliases:
-- incentive-compensation
-- incentive_compensation
-- incentiveCompensation
-- has_text_of_incentive_compensation
+  - incentive-compensation
+  - incentive_compensation
+  - incentiveCompensation
+  - has_text_of_incentive_compensation
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- incentive
-- compensation
-layout: 
-license: "CC BY-SA 4.0"
+  - incentive
+  - compensation
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_incentive_compensation
 publish: true
-publishDate: 
+publishDate:
 supersedes: incentives
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_incentive_compensation
 type: Pred_Text
 ---

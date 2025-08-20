@@ -1,26 +1,27 @@
 ---
 aliases:
-- parcel-delivery
-- parcel_delivery
-- ParcelDelivery
-- is_a_parcel_delivery
+  - parcel-delivery
+  - parcel_delivery
+  - ParcelDelivery
+  - is_a_parcel_delivery
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- parcel_delivery
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_parcel_delivery Class"
+  - parcel_delivery
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_parcel_delivery Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_parcel_delivery Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_parcel_delivery Class
 type: Type
 ---
 

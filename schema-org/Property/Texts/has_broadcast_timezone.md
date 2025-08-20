@@ -1,26 +1,28 @@
 ---
 aliases:
-- broadcast-timezone
-- broadcast_timezone
-- broadcastTimezone
-- has_text_of_broadcast_timezone
+  - broadcast-timezone
+  - broadcast_timezone
+  - broadcastTimezone
+  - has_text_of_broadcast_timezone
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast
-- timezone
-layout: 
-license: "CC BY-SA 4.0"
+  - broadcast
+  - timezone
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_broadcast_timezone
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_broadcast_timezone
 type: Pred_Text
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- follow-action
-- follow_action
-- FollowAction
-- is_a_follow_action
+  - follow-action
+  - follow_action
+  - FollowAction
+  - is_a_follow_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- follow_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_follow_action Class"
+  - follow_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_follow_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_follow_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_follow_action Class
 type: Type
 ---
 

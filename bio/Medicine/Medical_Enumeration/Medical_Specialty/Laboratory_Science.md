@@ -1,27 +1,28 @@
 ---
 aliases:
-- laboratory-science
-- laboratory_science
-- LaboratoryScience
-- is_a_laboratory_science
+  - laboratory-science
+  - laboratory_science
+  - LaboratoryScience
+  - is_a_laboratory_science
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- laboratory_science
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_laboratory_science Class"
+  - laboratory_science
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_laboratory_science Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_laboratory_science Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_laboratory_science Class
 type: Type
 ---
 

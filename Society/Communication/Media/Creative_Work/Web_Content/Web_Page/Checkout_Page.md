@@ -1,26 +1,27 @@
 ---
 aliases:
-- checkout-page
-- checkout_page
-- CheckoutPage
-- is_a_checkout_page
+  - checkout-page
+  - checkout_page
+  - CheckoutPage
+  - is_a_checkout_page
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- checkout_page
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_checkout_page Class"
+  - checkout_page
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_checkout_page Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_checkout_page Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_checkout_page Class
 type: Type
 ---
 

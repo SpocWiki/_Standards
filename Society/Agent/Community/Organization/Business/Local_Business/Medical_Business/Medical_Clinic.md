@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-clinic
-- medical_clinic
-- MedicalClinic
-- is_a_medical_clinic
+  - medical-clinic
+  - medical_clinic
+  - MedicalClinic
+  - is_a_medical_clinic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_clinic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_clinic Class"
+  - medical_clinic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_clinic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_clinic Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_clinic Class
 type: Type
 ---
 

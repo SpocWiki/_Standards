@@ -1,27 +1,29 @@
 ---
 aliases:
-- free-shipping-threshold
-- free_shipping_threshold
-- freeShippingThreshold
-- has_free_shipping_threshold
+  - free-shipping-threshold
+  - free_shipping_threshold
+  - freeShippingThreshold
+  - has_free_shipping_threshold
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- free
-- shipping
-- threshold
-layout: 
-license: "CC BY-SA 4.0"
+  - free
+  - shipping
+  - threshold
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_free_shipping_threshold
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_free_shipping_threshold
 type: Predi_Relation
 ---

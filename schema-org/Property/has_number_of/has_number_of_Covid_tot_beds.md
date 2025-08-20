@@ -1,25 +1,27 @@
 ---
 aliases:
-- cvd_num_tot_beds
-- cvd-num-tot-beds
-- cvdNumTotBeds
-- has_number_of_Covid_tot_beds
+  - cvd_num_tot_beds
+  - cvd-num-tot-beds
+  - cvdNumTotBeds
+  - has_number_of_Covid_tot_beds
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cvd-num-tot-beds
-layout: 
-license: "CC BY-SA 4.0"
+  - cvd-num-tot-beds
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_cvd-num-tot-beds
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_cvd-num-tot-beds
 type: Predi_Count
 ---

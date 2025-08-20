@@ -1,26 +1,27 @@
 ---
 aliases:
-- archive-component
-- archive_component
-- ArchiveComponent
-- is_an_archive_component
+  - archive-component
+  - archive_component
+  - ArchiveComponent
+  - is_an_archive_component
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- archive_component
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_archive_component Class"
+  - archive_component
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_archive_component Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_archive_component Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_archive_component Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- public-swimming-pool
-- public_swimming_pool
-- PublicSwimmingPool
-- is_a_public_swimming_pool
+  - public-swimming-pool
+  - public_swimming_pool
+  - PublicSwimmingPool
+  - is_a_public_swimming_pool
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- public_swimming_pool
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_public_swimming_pool Class"
+  - public_swimming_pool
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_public_swimming_pool Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_public_swimming_pool Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_public_swimming_pool Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- hyper-toc-entry
-- hyper_toc_entry
-- HyperTocEntry
-- is_a_hyper_toc_entry
+  - hyper-toc-entry
+  - hyper_toc_entry
+  - HyperTocEntry
+  - is_a_hyper_toc_entry
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hyper_toc_entry
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hyper_toc_entry Class"
+  - hyper_toc_entry
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hyper_toc_entry Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hyper_toc_entry Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hyper_toc_entry Class
 type: Type
 ---
 

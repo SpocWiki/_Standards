@@ -1,27 +1,28 @@
 ---
 aliases:
-- single-release
-- single_release
-- SingleRelease
-- is_a_single_release
+  - single-release
+  - single_release
+  - SingleRelease
+  - is_a_single_release
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicAlbumReleaseType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- single_release
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_single_release Class"
+  - single_release
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_single_release Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_single_release Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_single_release Class
 type: Type
 ---
 

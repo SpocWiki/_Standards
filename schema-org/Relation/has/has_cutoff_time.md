@@ -1,26 +1,28 @@
 ---
 aliases:
-- cutoff-time
-- cutoff_time
-- cutoffTime
-- has_cutoff_time
+  - cutoff-time
+  - cutoff_time
+  - cutoffTime
+  - has_cutoff_time
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cutoff
-- time
-layout: 
-license: "CC BY-SA 4.0"
+  - cutoff
+  - time
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_cutoff_time
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_cutoff_time
 type: Predi_Relation
 ---

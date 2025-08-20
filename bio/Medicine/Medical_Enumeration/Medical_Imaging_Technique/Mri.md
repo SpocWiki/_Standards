@@ -1,27 +1,28 @@
 ---
 aliases:
-- mri
-- mri
-- MRI
-- is_a_mri
+  - mri
+  - mri
+  - MRI
+  - is_a_mri
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalImagingTechnique
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- mri
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_mri Class"
+  - mri
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_mri Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_mri Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_mri Class
 type: Type
 ---
 

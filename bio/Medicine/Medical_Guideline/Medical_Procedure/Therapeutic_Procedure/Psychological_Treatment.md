@@ -1,26 +1,27 @@
 ---
 aliases:
-- psychological-treatment
-- psychological_treatment
-- PsychologicalTreatment
-- is_a_psychological_treatment
+  - psychological-treatment
+  - psychological_treatment
+  - PsychologicalTreatment
+  - is_a_psychological_treatment
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- psychological_treatment
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_psychological_treatment Class"
+  - psychological_treatment
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_psychological_treatment Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_psychological_treatment Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_psychological_treatment Class
 type: Type
 ---
 

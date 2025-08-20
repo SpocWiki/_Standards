@@ -1,26 +1,27 @@
 ---
 aliases:
-- money-transfer
-- money_transfer
-- MoneyTransfer
-- is_a_money_transfer
+  - money-transfer
+  - money_transfer
+  - MoneyTransfer
+  - is_a_money_transfer
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- money_transfer
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_money_transfer Class"
+  - money_transfer
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_money_transfer Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_money_transfer Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_money_transfer Class
 type: Type
 ---
 

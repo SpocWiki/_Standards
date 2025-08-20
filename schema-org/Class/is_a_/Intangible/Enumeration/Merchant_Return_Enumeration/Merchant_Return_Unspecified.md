@@ -1,28 +1,29 @@
 ---
 aliases:
-- merchant-return-unspecified
-- merchant_return_unspecified
-- MerchantReturnUnspecified
-- is_a_merchant_return_unspecified
+  - merchant-return-unspecified
+  - merchant_return_unspecified
+  - MerchantReturnUnspecified
+  - is_a_merchant_return_unspecified
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MerchantReturnEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- merchant_return_unspecified
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_merchant_return_unspecified Class"
+  - merchant_return_unspecified
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_merchant_return_unspecified Class
 publish: true
-publishDate: 
+publishDate:
 supersedes: ProductReturnUnspecified
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_merchant_return_unspecified Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_merchant_return_unspecified Class
 type: Type
 ---
 

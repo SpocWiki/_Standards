@@ -1,26 +1,27 @@
 ---
 aliases:
-- museum
-- museum
-- Museum
-- is_a_museum
+  - museum
+  - museum
+  - Museum
+  - is_a_museum
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- museum
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_museum Class"
+  - museum
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_museum Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_museum Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_museum Class
 type: Type
 ---
 

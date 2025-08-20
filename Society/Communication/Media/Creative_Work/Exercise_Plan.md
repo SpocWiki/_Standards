@@ -1,26 +1,27 @@
 ---
 aliases:
-- exercise-plan
-- exercise_plan
-- ExercisePlan
-- is_an_exercise_plan
+  - exercise-plan
+  - exercise_plan
+  - ExercisePlan
+  - is_an_exercise_plan
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- exercise_plan
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_exercise_plan Class"
+  - exercise_plan
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_exercise_plan Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_exercise_plan Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_exercise_plan Class
 type: Type
 ---
 

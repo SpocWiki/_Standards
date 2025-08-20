@@ -1,26 +1,27 @@
 ---
 aliases:
-- fast-food-restaurant
-- fast_food_restaurant
-- FastFoodRestaurant
-- is_a_fast_food_restaurant
+  - fast-food-restaurant
+  - fast_food_restaurant
+  - FastFoodRestaurant
+  - is_a_fast_food_restaurant
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- fast_food_restaurant
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_fast_food_restaurant Class"
+  - fast_food_restaurant
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_fast_food_restaurant Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_fast_food_restaurant Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_fast_food_restaurant Class
 type: Type
 ---
 

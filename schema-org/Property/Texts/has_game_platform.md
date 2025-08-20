@@ -1,26 +1,28 @@
 ---
 aliases:
-- game-platform
-- game_platform
-- gamePlatform
-- has_text_of_game_platform
+  - game-platform
+  - game_platform
+  - gamePlatform
+  - has_text_of_game_platform
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- game
-- platform
-layout: 
-license: "CC BY-SA 4.0"
+  - game
+  - platform
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_game_platform
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_game_platform
 type: Pred_Text
 ---

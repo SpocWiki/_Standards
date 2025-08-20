@@ -1,27 +1,29 @@
 ---
 aliases:
-- type-of-good
-- type_of_good
-- typeOfGood
-- has_type_of_good
+  - type-of-good
+  - type_of_good
+  - typeOfGood
+  - has_type_of_good
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- type
-- of
-- good
-layout: 
-license: "CC BY-SA 4.0"
+  - type
+  - of
+  - good
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_type_of_good
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_type_of_good
 type: Predi_Relation
 ---

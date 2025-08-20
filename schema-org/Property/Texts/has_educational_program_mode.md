@@ -1,27 +1,29 @@
 ---
 aliases:
-- educational-program-mode
-- educational_program_mode
-- educationalProgramMode
-- has_text_of_educational_program_mode
+  - educational-program-mode
+  - educational_program_mode
+  - educationalProgramMode
+  - has_text_of_educational_program_mode
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- educational
-- program
-- mode
-layout: 
-license: "CC BY-SA 4.0"
+  - educational
+  - program
+  - mode
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_educational_program_mode
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_educational_program_mode
 type: Pred_Text
 ---

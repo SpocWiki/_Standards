@@ -1,26 +1,27 @@
 ---
 aliases:
-- physical-exam
-- physical_exam
-- PhysicalExam
-- is_a_physical_exam
+  - physical-exam
+  - physical_exam
+  - PhysicalExam
+  - is_a_physical_exam
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- physical_exam
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_physical_exam Class"
+  - physical_exam
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_physical_exam Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_physical_exam Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_physical_exam Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- record-label
-- record_label
-- recordLabel
-- has_record_label
+  - record-label
+  - record_label
+  - recordLabel
+  - has_record_label
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- record
-- label
-layout: 
-license: "CC BY-SA 4.0"
+  - record
+  - label
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_record_label
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_record_label
 type: Predi_Relation
 ---

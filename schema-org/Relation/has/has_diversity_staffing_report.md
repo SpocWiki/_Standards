@@ -1,27 +1,29 @@
 ---
 aliases:
-- diversity-staffing-report
-- diversity_staffing_report
-- diversityStaffingReport
-- has_diversity_staffing_report
+  - diversity-staffing-report
+  - diversity_staffing_report
+  - diversityStaffingReport
+  - has_diversity_staffing_report
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- diversity
-- staffing
-- report
-layout: 
-license: "CC BY-SA 4.0"
+  - diversity
+  - staffing
+  - report
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_diversity_staffing_report
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_diversity_staffing_report
 type: Predi_Relation
 ---

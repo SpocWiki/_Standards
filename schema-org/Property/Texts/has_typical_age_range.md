@@ -1,27 +1,29 @@
 ---
 aliases:
-- typical-age-range
-- typical_age_range
-- typicalAgeRange
-- has_text_of_typical_age_range
+  - typical-age-range
+  - typical_age_range
+  - typicalAgeRange
+  - has_text_of_typical_age_range
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- typical
-- age
-- range
-layout: 
-license: "CC BY-SA 4.0"
+  - typical
+  - age
+  - range
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_typical_age_range
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_typical_age_range
 type: Pred_Text
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- audiobook-format
-- audiobook_format
-- AudiobookFormat
-- is_an_audiobook_format
+  - audiobook-format
+  - audiobook_format
+  - AudiobookFormat
+  - is_an_audiobook_format
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: BookFormatType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- audiobook_format
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_audiobook_format Class"
+  - audiobook_format
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_audiobook_format Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_audiobook_format Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_audiobook_format Class
 type: Type
 ---
 

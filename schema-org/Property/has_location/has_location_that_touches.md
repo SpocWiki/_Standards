@@ -1,25 +1,27 @@
 ---
 aliases:
-- geo-touches
-- geo_touches
-- geoTouches
-- has_location_touches
+  - geo-touches
+  - geo_touches
+  - geoTouches
+  - has_location_touches
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- geo_touches
-layout: 
-license: "CC BY-SA 4.0"
+  - geo_touches
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_touches
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_touches
 type: Pred_geo
 ---

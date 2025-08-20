@@ -1,25 +1,27 @@
 ---
 aliases:
-- spatial-coverage
-- spatial_coverage
-- spatialCoverage
-- has_location_spatial_coverage
+  - spatial-coverage
+  - spatial_coverage
+  - spatialCoverage
+  - has_location_spatial_coverage
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- spatial_coverage
-layout: 
-license: "CC BY-SA 4.0"
+  - spatial_coverage
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_spatial_coverage
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_spatial_coverage
 type: Pred_geo
 ---

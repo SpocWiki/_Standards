@@ -1,25 +1,27 @@
 ---
 aliases:
-- in-store-returns-offered
-- in_store_return_offered
-- inStoreReturnsOffered
-- is_in_store_return_offered
+  - in-store-returns-offered
+  - in_store_return_offered
+  - inStoreReturnsOffered
+  - is_in_store_return_offered
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- in_store_return_offered
-layout: 
-license: "CC BY-SA 4.0"
+  - in_store_return_offered
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_in_store_return_offered
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_in_store_return_offered
 type: Pred_Bool
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- answer
-- answer
-- Answer
-- is_an_answer
+  - answer
+  - answer
+  - Answer
+  - is_an_answer
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- answer
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_answer Class"
+  - answer
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_answer Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_answer Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_answer Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- pharmacy
-- pharmacy
-- Pharmacy
-- is_a_pharmacy
+  - pharmacy
+  - pharmacy
+  - Pharmacy
+  - is_a_pharmacy
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- pharmacy
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_pharmacy Class"
+  - pharmacy
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_pharmacy Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_pharmacy Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_pharmacy Class
 type: Type
 ---
 

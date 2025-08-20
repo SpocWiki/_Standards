@@ -1,26 +1,28 @@
 ---
 aliases:
-- event
-- event
-- event
-- has_event
+  - event
+  - event
+  - event
+  - has_event
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- event
-layout: 
-license: "CC BY-SA 4.0"
+  - event
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_event
 publish: true
-publishDate: 
+publishDate:
 supersedes: events
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_event
 type: Predi_Relation
 ---

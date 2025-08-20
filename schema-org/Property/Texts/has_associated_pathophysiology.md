@@ -1,26 +1,28 @@
 ---
 aliases:
-- associated-pathophysiology
-- associated_pathophysiology
-- associatedPathophysiology
-- has_text_of_associated_pathophysiology
+  - associated-pathophysiology
+  - associated_pathophysiology
+  - associatedPathophysiology
+  - has_text_of_associated_pathophysiology
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- associated
-- pathophysiology
-layout: 
-license: "CC BY-SA 4.0"
+  - associated
+  - pathophysiology
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_associated_pathophysiology
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_associated_pathophysiology
 type: Pred_Text
 ---

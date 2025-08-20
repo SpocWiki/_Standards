@@ -1,26 +1,28 @@
 ---
 aliases:
-- tourist-type
-- tourist_type
-- touristType
-- has_tourist_type
+  - tourist-type
+  - tourist_type
+  - touristType
+  - has_tourist_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tourist
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - tourist
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_tourist_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_tourist_type
 type: Predi_Relation
 ---

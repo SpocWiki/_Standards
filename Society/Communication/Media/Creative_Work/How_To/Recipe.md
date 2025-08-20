@@ -1,26 +1,27 @@
 ---
 aliases:
-- recipe
-- recipe
-- Recipe
-- is_a_recipe
+  - recipe
+  - recipe
+  - Recipe
+  - is_a_recipe
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- recipe
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_recipe Class"
+  - recipe
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_recipe Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_recipe Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_recipe Class
 type: Type
 ---
 

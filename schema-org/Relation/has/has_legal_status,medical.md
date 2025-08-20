@@ -1,26 +1,28 @@
 ---
 aliases:
-- legal-status
-- legal_status
-- legalStatus
-- has_legal_status
+  - legal-status
+  - legal_status
+  - legalStatus
+  - has_legal_status
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legal
-- status
-layout: 
-license: "CC BY-SA 4.0"
+  - legal
+  - status
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_legal_status
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_legal_status
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- hostel
-- hostel
-- Hostel
-- is_a_hostel
+  - hostel
+  - hostel
+  - Hostel
+  - is_a_hostel
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hostel
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hostel Class"
+  - hostel
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hostel Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hostel Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hostel Class
 type: Type
 ---
 

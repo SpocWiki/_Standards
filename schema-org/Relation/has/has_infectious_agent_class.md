@@ -1,27 +1,29 @@
 ---
 aliases:
-- infectious-agent-class
-- infectious_agent_class
-- infectiousAgentClass
-- has_infectious_agent_class
+  - infectious-agent-class
+  - infectious_agent_class
+  - infectiousAgentClass
+  - has_infectious_agent_class
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- infectious
-- agent
-- class
-layout: 
-license: "CC BY-SA 4.0"
+  - infectious
+  - agent
+  - class
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_infectious_agent_class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_infectious_agent_class
 type: Predi_Relation
 ---

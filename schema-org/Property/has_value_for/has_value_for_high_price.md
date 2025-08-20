@@ -1,25 +1,27 @@
 ---
 aliases:
-- high_price
-- high-price
-- highPrice
-- has_value_for_high_price
+  - high_price
+  - high-price
+  - highPrice
+  - has_value_for_high_price
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- high-price
-layout: 
-license: "CC BY-SA 4.0"
+  - high-price
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_high-price
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_high-price
 type: Predi_Quantity
 ---

@@ -1,27 +1,29 @@
 ---
 aliases:
-- has-energy-efficiency-category
-- energy_efficiency_category
-- hasEnergyEfficiencyCategory
-- has_energy_efficiency_category
+  - has-energy-efficiency-category
+  - energy_efficiency_category
+  - hasEnergyEfficiencyCategory
+  - has_energy_efficiency_category
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- energy
-- efficiency
-- category
-layout: 
-license: "CC BY-SA 4.0"
+  - energy
+  - efficiency
+  - category
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_energy_efficiency_category
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_energy_efficiency_category
 type: Predi_Relation
 ---

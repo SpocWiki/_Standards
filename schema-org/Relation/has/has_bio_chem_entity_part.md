@@ -1,28 +1,30 @@
 ---
 aliases:
-- has-bio-chem-entity-part
-- bio_chem_entity_part
-- hasBioChemEntityPart
-- has_bio_chem_entity_part
+  - has-bio-chem-entity-part
+  - bio_chem_entity_part
+  - hasBioChemEntityPart
+  - has_bio_chem_entity_part
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bio
-- chem
-- entity
-- part
-layout: 
-license: "CC BY-SA 4.0"
+  - bio
+  - chem
+  - entity
+  - part
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_bio_chem_entity_part
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_bio_chem_entity_part
 type: Predi_Relation
 ---

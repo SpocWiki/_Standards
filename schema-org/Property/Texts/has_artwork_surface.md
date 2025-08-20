@@ -1,27 +1,29 @@
 ---
 aliases:
-- artwork-surface
-- artwork_surface
-- artworkSurface
-- has_text_of_artwork_surface
+  - artwork-surface
+  - artwork_surface
+  - artworkSurface
+  - has_text_of_artwork_surface
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- artwork
-- surface
-layout: 
-license: "CC BY-SA 4.0"
+  - artwork
+  - surface
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_artwork_surface
 publish: true
-publishDate: 
+publishDate:
 supersedes: surface
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_artwork_surface
 type: Pred_Text
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- neurologic
-- neurologic
-- Neurologic
-- is_a_neurologic
+  - neurologic
+  - neurologic
+  - Neurologic
+  - is_a_neurologic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- neurologic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_neurologic Class"
+  - neurologic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_neurologic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_neurologic Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_neurologic Class
 type: Type
 ---
 

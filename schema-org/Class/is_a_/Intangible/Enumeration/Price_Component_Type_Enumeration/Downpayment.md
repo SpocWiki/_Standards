@@ -1,27 +1,28 @@
 ---
 aliases:
-- downpayment
-- downpayment
-- Downpayment
-- is_a_downpayment
+  - downpayment
+  - downpayment
+  - Downpayment
+  - is_a_downpayment
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PriceComponentTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- downpayment
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_downpayment Class"
+  - downpayment
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_downpayment Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_downpayment Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_downpayment Class
 type: Type
 ---
 

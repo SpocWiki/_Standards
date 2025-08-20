@@ -1,25 +1,27 @@
 ---
 aliases:
-- required-min-age
-- required_min_age
-- requiredMinAge
-- has_value_for_required_min_age
+  - required-min-age
+  - required_min_age
+  - requiredMinAge
+  - has_value_for_required_min_age
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- required_min_age
-layout: 
-license: "CC BY-SA 4.0"
+  - required_min_age
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_required_min_age
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_required_min_age
 type: Predi_Quantity
 ---

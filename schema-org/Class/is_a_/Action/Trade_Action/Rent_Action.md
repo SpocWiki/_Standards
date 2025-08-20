@@ -1,26 +1,27 @@
 ---
 aliases:
-- rent-action
-- rent_action
-- RentAction
-- is_a_rent_action
+  - rent-action
+  - rent_action
+  - RentAction
+  - is_a_rent_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rent_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_rent_action Class"
+  - rent_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_rent_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_rent_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_rent_action Class
 type: Type
 ---
 

@@ -1,25 +1,27 @@
 ---
 aliases:
-- The_Night_does_not_belong_to_God
-- 
+  - The_Night_does_not_belong_to_God
+  - 
 confidential: private
-cssclasses: "private note"
+cssclasses:
+  - private
+  - note
 draft: true
-expiryDate: 
-has_Template: '[[Extract~Note~Template]]'
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
 has_time_started: 2024-08-04
 isDeleted: false
 isReadOnly: false
 keywords: The_Night_does_not_belong_to_God
 lang: en
-layout: 
+layout:
 license: (c)copyrighted
 linkTitle: The_Night_does_not_belong_to_God
 publish: false
-publishDate: 
+publishDate:
 tags:
-- The_Night_does_not_belong_to_God
-- 
+  - The_Night_does_not_belong_to_God
+  - 
 title: The_Night_does_not_belong_to_God
 type: private_note
 ---

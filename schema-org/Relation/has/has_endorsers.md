@@ -1,25 +1,27 @@
 ---
 aliases:
-- endorsers
-- endorsers
-- endorsers
-- has_endorsers
+  - endorsers
+  - endorsers
+  - endorsers
+  - has_endorsers
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- endorsers
-layout: 
-license: "CC BY-SA 4.0"
+  - endorsers
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_endorsers
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_endorsers
 type: Predi_Relation
 ---

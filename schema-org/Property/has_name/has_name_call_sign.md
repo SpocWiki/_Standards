@@ -1,26 +1,28 @@
 ---
 aliases:
-- call-sign
-- call_sign
-- callSign
-- has_name_call_sign
+  - call-sign
+  - call_sign
+  - callSign
+  - has_name_call_sign
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- call
-- sign
-layout: 
-license: "CC BY-SA 4.0"
+  - call
+  - sign
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_name_call_sign
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_name_call_sign
 type: Pred_Text
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- ticket-number
-- id_ticket
-- ticketNumber
-- has_id_ticket
+  - ticket-number
+  - id_ticket
+  - ticketNumber
+  - has_id_ticket
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ticket
-- number
-layout: 
-license: "CC BY-SA 4.0"
+  - ticket
+  - number
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_ticket
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_ticket
 type: Pred_Text
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- number_of_loan_payments
-- number-of-loan-payments
-- numberOfLoanPayments
-- has_number_of_loan_payments
+  - number_of_loan_payments
+  - number-of-loan-payments
+  - numberOfLoanPayments
+  - has_number_of_loan_payments
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- number-of-loan-payments
-layout: 
-license: "CC BY-SA 4.0"
+  - number-of-loan-payments
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-loan-payments
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_number-of-loan-payments
 type: Predi_Count
 ---

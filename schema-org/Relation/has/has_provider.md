@@ -1,26 +1,28 @@
 ---
 aliases:
-- provider
-- provider
-- provider
-- has_provider
+  - provider
+  - provider
+  - provider
+  - has_provider
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- provider
-layout: 
-license: "CC BY-SA 4.0"
+  - provider
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_provider
 publish: true
-publishDate: 
+publishDate:
 supersedes: carrier
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_provider
 type: Predi_Relation
 ---

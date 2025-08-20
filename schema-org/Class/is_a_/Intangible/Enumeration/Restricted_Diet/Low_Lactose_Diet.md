@@ -1,27 +1,28 @@
 ---
 aliases:
-- low-lactose-diet
-- low_lactose_diet
-- LowLactoseDiet
-- is_a_low_lactose_diet
+  - low-lactose-diet
+  - low_lactose_diet
+  - LowLactoseDiet
+  - is_a_low_lactose_diet
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- low_lactose_diet
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_low_lactose_diet Class"
+  - low_lactose_diet
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_low_lactose_diet Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_low_lactose_diet Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_low_lactose_diet Class
 type: Type
 ---
 

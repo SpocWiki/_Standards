@@ -6,18 +6,19 @@ aliases:
   - is_a_mountain
 has_id_wikidata: Q8502
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - mountain
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_a_mountain Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class

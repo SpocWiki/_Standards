@@ -1,27 +1,28 @@
 ---
 aliases:
-- online
-- online
-- Online
-- is_an_online
+  - online
+  - online
+  - Online
+  - is_an_online
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: GameServerStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- online
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_online Class"
+  - online
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_online Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_online Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_online Class
 type: Type
 ---
 

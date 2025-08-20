@@ -1,27 +1,29 @@
 ---
 aliases:
-- vehicle-identification-number
-- id_of_vehicle
-- vehicleIdentificationNumber
-- has_id_of_vehicle
+  - vehicle-identification-number
+  - id_of_vehicle
+  - vehicleIdentificationNumber
+  - has_id_of_vehicle
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- vehicle
-- identification
-- number
-layout: 
-license: "CC BY-SA 4.0"
+  - vehicle
+  - identification
+  - number
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_of_vehicle
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_of_vehicle
 type: Pred_Text
 ---

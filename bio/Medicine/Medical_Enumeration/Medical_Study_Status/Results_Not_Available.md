@@ -1,27 +1,28 @@
 ---
 aliases:
-- results-not-available
-- results_not_available
-- ResultsNotAvailable
-- is_a_results_not_available
+  - results-not-available
+  - results_not_available
+  - ResultsNotAvailable
+  - is_a_results_not_available
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalStudyStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- results_not_available
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_results_not_available Class"
+  - results_not_available
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_results_not_available Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_results_not_available Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_results_not_available Class
 type: Type
 ---
 

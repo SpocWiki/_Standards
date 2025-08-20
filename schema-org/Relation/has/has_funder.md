@@ -1,25 +1,27 @@
 ---
 aliases:
-- funder
-- funder
-- funder
-- has_funder
+  - funder
+  - funder
+  - funder
+  - has_funder
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- funder
-layout: 
-license: "CC BY-SA 4.0"
+  - funder
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_funder
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_funder
 type: Predi_Relation
 ---

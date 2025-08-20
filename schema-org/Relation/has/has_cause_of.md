@@ -1,26 +1,28 @@
 ---
 aliases:
-- cause-of
-- cause_of
-- causeOf
-- has_cause_of
+  - cause-of
+  - cause_of
+  - causeOf
+  - has_cause_of
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cause
-- of
-layout: 
-license: "CC BY-SA 4.0"
+  - cause
+  - of
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_cause_of
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_cause_of
 type: Predi_Relation
 ---

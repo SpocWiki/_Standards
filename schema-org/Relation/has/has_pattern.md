@@ -1,25 +1,27 @@
 ---
 aliases:
-- pattern
-- pattern
-- pattern
-- has_pattern
+  - pattern
+  - pattern
+  - pattern
+  - has_pattern
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- pattern
-layout: 
-license: "CC BY-SA 4.0"
+  - pattern
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_pattern
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_pattern
 type: Predi_Relation
 ---

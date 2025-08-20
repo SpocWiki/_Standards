@@ -1,25 +1,27 @@
 ---
 aliases:
-- dependencies
-- dependencies
-- dependencies
-- has_text_of_dependencies
+  - dependencies
+  - dependencies
+  - dependencies
+  - has_text_of_dependencies
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dependencies
-layout: 
-license: "CC BY-SA 4.0"
+  - dependencies
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_dependencies
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_dependencies
 type: Pred_Text
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- available-generically
-- available_generically
-- isAvailableGenerically
-- is_available_generically
+  - available-generically
+  - available_generically
+  - isAvailableGenerically
+  - is_available_generically
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- available_generically
-layout: 
-license: "CC BY-SA 4.0"
+  - available_generically
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_available_generically
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_available_generically
 type: Pred_Bool
 ---

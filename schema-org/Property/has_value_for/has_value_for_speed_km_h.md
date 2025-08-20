@@ -1,25 +1,27 @@
 ---
 aliases:
-- speed
-- speed
-- speed
-- has_value_for_speed_km_h
+  - speed
+  - speed
+  - speed
+  - has_value_for_speed_km_h
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- speed
-layout: 
-license: "CC BY-SA 4.0"
+  - speed
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_speed
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_speed
 type: Predi_Quantity
 ---

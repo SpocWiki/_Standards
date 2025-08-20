@@ -1,27 +1,28 @@
 ---
 aliases:
-- body-measurement-inside-leg
-- body_measurement_inside_leg
-- BodyMeasurementInsideLeg
-- is_a_body_measurement_inside_leg
+  - body-measurement-inside-leg
+  - body_measurement_inside_leg
+  - BodyMeasurementInsideLeg
+  - is_a_body_measurement_inside_leg
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- body_measurement_inside_leg
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_body_measurement_inside_leg Class"
+  - body_measurement_inside_leg
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_body_measurement_inside_leg Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_body_measurement_inside_leg Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_body_measurement_inside_leg Class
 type: Type
 ---
 

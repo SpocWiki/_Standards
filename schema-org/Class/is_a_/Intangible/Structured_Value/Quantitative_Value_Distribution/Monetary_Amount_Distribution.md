@@ -1,26 +1,27 @@
 ---
 aliases:
-- monetary-amount-distribution
-- monetary_amount_distribution
-- MonetaryAmountDistribution
-- is_a_monetary_amount_distribution
+  - monetary-amount-distribution
+  - monetary_amount_distribution
+  - MonetaryAmountDistribution
+  - is_a_monetary_amount_distribution
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- monetary_amount_distribution
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_monetary_amount_distribution Class"
+  - monetary_amount_distribution
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_monetary_amount_distribution Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_monetary_amount_distribution Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_monetary_amount_distribution Class
 type: Type
 ---
 

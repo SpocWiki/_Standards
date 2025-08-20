@@ -1,26 +1,28 @@
 ---
 aliases:
-- employment-unit
-- employment_unit
-- employmentUnit
-- has_employment_unit
+  - employment-unit
+  - employment_unit
+  - employmentUnit
+  - has_employment_unit
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- employment
-- unit
-layout: 
-license: "CC BY-SA 4.0"
+  - employment
+  - unit
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_employment_unit
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_employment_unit
 type: Predi_Relation
 ---

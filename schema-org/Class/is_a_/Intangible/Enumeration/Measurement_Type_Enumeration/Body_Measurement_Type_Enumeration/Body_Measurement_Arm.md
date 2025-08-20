@@ -1,27 +1,28 @@
 ---
 aliases:
-- body-measurement-arm
-- body_measurement_arm
-- BodyMeasurementArm
-- is_a_body_measurement_arm
+  - body-measurement-arm
+  - body_measurement_arm
+  - BodyMeasurementArm
+  - is_a_body_measurement_arm
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- body_measurement_arm
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_body_measurement_arm Class"
+  - body_measurement_arm
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_body_measurement_arm Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_body_measurement_arm Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_body_measurement_arm Class
 type: Type
 ---
 

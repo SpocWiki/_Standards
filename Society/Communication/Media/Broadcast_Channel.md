@@ -1,26 +1,27 @@
 ---
 aliases:
-- broadcast-channel
-- broadcast_channel
-- BroadcastChannel
-- is_a_broadcast_channel
+  - broadcast-channel
+  - broadcast_channel
+  - BroadcastChannel
+  - is_a_broadcast_channel
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast_channel
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_broadcast_channel Class"
+  - broadcast_channel
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_broadcast_channel Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_broadcast_channel Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_broadcast_channel Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- game-edition
-- game_edition
-- gameEdition
-- has_text_of_game_edition
+  - game-edition
+  - game_edition
+  - gameEdition
+  - has_text_of_game_edition
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- game
-- edition
-layout: 
-license: "CC BY-SA 4.0"
+  - game
+  - edition
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_game_edition
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_game_edition
 type: Pred_Text
 ---

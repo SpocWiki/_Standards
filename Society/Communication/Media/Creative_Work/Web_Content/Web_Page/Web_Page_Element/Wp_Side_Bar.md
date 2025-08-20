@@ -1,26 +1,27 @@
 ---
 aliases:
-- wp-side-bar
-- wp_side_bar
-- WPSideBar
-- is_a_wp_side_bar
+  - wp-side-bar
+  - wp_side_bar
+  - WPSideBar
+  - is_a_wp_side_bar
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wp_side_bar
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wp_side_bar Class"
+  - wp_side_bar
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wp_side_bar Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wp_side_bar Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wp_side_bar Class
 type: Type
 ---
 

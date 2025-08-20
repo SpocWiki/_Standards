@@ -1,26 +1,27 @@
 ---
 aliases:
-- residence
-- residence
-- Residence
-- is_a_residence
+  - residence
+  - residence
+  - Residence
+  - is_a_residence
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- residence
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_residence Class"
+  - residence
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_residence Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_residence Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_residence Class
 type: Type
 ---
 

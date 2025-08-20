@@ -1,27 +1,28 @@
 ---
 aliases:
-- payment-due
-- payment_due
-- PaymentDue
-- is_a_payment_due
+  - payment-due
+  - payment_due
+  - PaymentDue
+  - is_a_payment_due
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PaymentStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- payment_due
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_payment_due Class"
+  - payment_due
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_payment_due Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_payment_due Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_payment_due Class
 type: Type
 ---
 

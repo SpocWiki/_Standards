@@ -1,26 +1,27 @@
 ---
 aliases:
-- payment-card
-- payment_card
-- PaymentCard
-- is_a_payment_card
+  - payment-card
+  - payment_card
+  - PaymentCard
+  - is_a_payment_card
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- payment_card
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_payment_card Class"
+  - payment_card
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_payment_card Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_payment_card Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_payment_card Class
 type: Type
 ---
 

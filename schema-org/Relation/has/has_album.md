@@ -1,26 +1,28 @@
 ---
 aliases:
-- album
-- album
-- album
-- has_album
+  - album
+  - album
+  - album
+  - has_album
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- album
-layout: 
-license: "CC BY-SA 4.0"
+  - album
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_album
 publish: true
-publishDate: 
+publishDate:
 supersedes: albums
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_album
 type: Predi_Relation
 ---

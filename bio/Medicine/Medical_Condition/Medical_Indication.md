@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-indication
-- medical_indication
-- MedicalIndication
-- is_a_medical_indication
+  - medical-indication
+  - medical_indication
+  - MedicalIndication
+  - is_a_medical_indication
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_indication
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_indication Class"
+  - medical_indication
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_indication Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_indication Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_indication Class
 type: Type
 ---
 

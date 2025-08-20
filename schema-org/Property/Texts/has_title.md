@@ -1,25 +1,27 @@
 ---
 aliases:
-- title
-- title
-- title
-- has_text_of_title
+  - title
+  - title
+  - title
+  - has_text_of_title
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- title
-layout: 
-license: "CC BY-SA 4.0"
+  - title
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_title
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_title
 type: Pred_Text
 ---

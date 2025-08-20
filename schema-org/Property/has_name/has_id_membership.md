@@ -1,26 +1,28 @@
 ---
 aliases:
-- membership-number
-- id_membership
-- membershipNumber
-- has_id_membership
+  - membership-number
+  - id_membership
+  - membershipNumber
+  - has_id_membership
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- membership
-- number
-layout: 
-license: "CC BY-SA 4.0"
+  - membership
+  - number
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_membership
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_membership
 type: Pred_Text
 ---

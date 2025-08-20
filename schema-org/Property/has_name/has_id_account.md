@@ -1,26 +1,28 @@
 ---
 aliases:
-- account-id
-- id_account
-- accountId
-- has_id_account
+  - account-id
+  - id_account
+  - accountId
+  - has_id_account
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- account
-- id
-layout: 
-license: "CC BY-SA 4.0"
+  - account
+  - id
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_account
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_account
 type: Pred_Text
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- game-server
-- game_server
-- gameServer
-- has_game_server
+  - game-server
+  - game_server
+  - gameServer
+  - has_game_server
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- game
-- server
-layout: 
-license: "CC BY-SA 4.0"
+  - game
+  - server
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_game_server
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_game_server
 type: Predi_Relation
 ---

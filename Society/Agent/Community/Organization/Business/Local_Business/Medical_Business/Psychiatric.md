@@ -1,27 +1,28 @@
 ---
 aliases:
-- psychiatric
-- psychiatric
-- Psychiatric
-- is_a_psychiatric
+  - psychiatric
+  - psychiatric
+  - Psychiatric
+  - is_a_psychiatric
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- psychiatric
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_psychiatric Class"
+  - psychiatric
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_psychiatric Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_psychiatric Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_psychiatric Class
 type: Type
 ---
 

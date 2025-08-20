@@ -1,26 +1,28 @@
 ---
 aliases:
-- claim-interpreter
-- claim_interpreter
-- claimInterpreter
-- has_claim_interpreter
+  - claim-interpreter
+  - claim_interpreter
+  - claimInterpreter
+  - has_claim_interpreter
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- claim
-- interpreter
-layout: 
-license: "CC BY-SA 4.0"
+  - claim
+  - interpreter
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_claim_interpreter
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_claim_interpreter
 type: Predi_Relation
 ---

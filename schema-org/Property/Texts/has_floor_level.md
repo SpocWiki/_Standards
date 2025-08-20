@@ -1,26 +1,28 @@
 ---
 aliases:
-- floor-level
-- floor_level
-- floorLevel
-- has_text_of_floor_level
+  - floor-level
+  - floor_level
+  - floorLevel
+  - has_text_of_floor_level
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- floor
-- level
-layout: 
-license: "CC BY-SA 4.0"
+  - floor
+  - level
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_floor_level
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_floor_level
 type: Pred_Text
 ---

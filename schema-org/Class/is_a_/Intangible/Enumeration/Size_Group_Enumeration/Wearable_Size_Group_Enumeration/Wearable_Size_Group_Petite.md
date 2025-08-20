@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-size-group-petite
-- wearable_size_group_petite
-- WearableSizeGroupPetite
-- is_a_wearable_size_group_petite
+  - wearable-size-group-petite
+  - wearable_size_group_petite
+  - WearableSizeGroupPetite
+  - is_a_wearable_size_group_petite
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_size_group_petite
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_size_group_petite Class"
+  - wearable_size_group_petite
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_size_group_petite Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_size_group_petite Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_size_group_petite Class
 type: Type
 ---
 

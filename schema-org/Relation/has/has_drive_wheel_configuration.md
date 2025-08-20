@@ -1,27 +1,29 @@
 ---
 aliases:
-- drive-wheel-configuration
-- drive_wheel_configuration
-- driveWheelConfiguration
-- has_drive_wheel_configuration
+  - drive-wheel-configuration
+  - drive_wheel_configuration
+  - driveWheelConfiguration
+  - has_drive_wheel_configuration
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- drive
-- wheel
-- configuration
-layout: 
-license: "CC BY-SA 4.0"
+  - drive
+  - wheel
+  - configuration
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_drive_wheel_configuration
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_drive_wheel_configuration
 type: Predi_Relation
 ---

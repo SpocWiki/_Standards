@@ -1,25 +1,27 @@
 ---
 aliases:
-- margin_of_error
-- margin-of-error
-- marginOfError
-- has_value_for_margin_of_error
+  - margin_of_error
+  - margin-of-error
+  - marginOfError
+  - has_value_for_margin_of_error
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- margin-of-error
-layout: 
-license: "CC BY-SA 4.0"
+  - margin-of-error
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_margin-of-error
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_margin-of-error
 type: Predi_Quantity
 ---

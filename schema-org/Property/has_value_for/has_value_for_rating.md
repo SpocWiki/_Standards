@@ -1,25 +1,27 @@
 ---
 aliases:
-- rating_value
-- rating-value
-- ratingValue
-- has_value_for_rating
+  - rating_value
+  - rating-value
+  - ratingValue
+  - has_value_for_rating
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rating-value
-layout: 
-license: "CC BY-SA 4.0"
+  - rating-value
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_rating-value
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_rating-value
 type: Predi_Quantity
 ---

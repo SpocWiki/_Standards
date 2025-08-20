@@ -1,26 +1,27 @@
 ---
 aliases:
-- aggregate-rating
-- aggregate_rating
-- AggregateRating
-- is_an_aggregate_rating
+  - aggregate-rating
+  - aggregate_rating
+  - AggregateRating
+  - is_an_aggregate_rating
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- aggregate_rating
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_aggregate_rating Class"
+  - aggregate_rating
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_aggregate_rating Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_aggregate_rating Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_aggregate_rating Class
 type: Type
 ---
 

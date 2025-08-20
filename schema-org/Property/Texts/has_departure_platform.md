@@ -1,26 +1,28 @@
 ---
 aliases:
-- departure-platform
-- departure_platform
-- departurePlatform
-- has_text_of_departure_platform
+  - departure-platform
+  - departure_platform
+  - departurePlatform
+  - has_text_of_departure_platform
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- departure
-- platform
-layout: 
-license: "CC BY-SA 4.0"
+  - departure
+  - platform
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_departure_platform
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_departure_platform
 type: Pred_Text
 ---

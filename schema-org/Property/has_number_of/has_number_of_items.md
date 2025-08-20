@@ -1,25 +1,27 @@
 ---
 aliases:
-- number-of-items
-- number_of_items
-- numberOfItems
-- has_number_of_items
+  - number-of-items
+  - number_of_items
+  - numberOfItems
+  - has_number_of_items
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- number_of_items
-layout: 
-license: "CC BY-SA 4.0"
+  - number_of_items
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_items
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_items
 type: Predi_Count
 ---

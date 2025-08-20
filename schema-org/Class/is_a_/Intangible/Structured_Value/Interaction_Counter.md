@@ -1,27 +1,28 @@
 ---
 aliases:
-- interaction-counter
-- interaction_counter
-- InteractionCounter
-- is_an_interaction_counter
+  - interaction-counter
+  - interaction_counter
+  - InteractionCounter
+  - is_an_interaction_counter
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- interaction_counter
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_interaction_counter Class"
+  - interaction_counter
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_interaction_counter Class
 publish: true
-publishDate: 
-supersedes: "UserPlusOnes, UserCheckins, UserBlocks, UserLikes, UserDownloads, UserPageVisits, UserComments, UserTweets, UserInteraction, UserPlays"
+publishDate:
+supersedes: UserPlusOnes, UserCheckins, UserBlocks, UserLikes, UserDownloads, UserPageVisits, UserComments, UserTweets, UserInteraction, UserPlays
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_interaction_counter Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_interaction_counter Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- dance-event
-- dance_event
-- DanceEvent
-- is_a_dance_event
+  - dance-event
+  - dance_event
+  - DanceEvent
+  - is_a_dance_event
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dance_event
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_dance_event Class"
+  - dance_event
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_dance_event Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_dance_event Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_dance_event Class
 type: Type
 ---
 

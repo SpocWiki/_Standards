@@ -1,27 +1,28 @@
 ---
 aliases:
-- flexibility
-- flexibility
-- Flexibility
-- is_a_flexibility
+  - flexibility
+  - flexibility
+  - Flexibility
+  - is_a_flexibility
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalActivityCategory
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- flexibility
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_flexibility Class"
+  - flexibility
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_flexibility Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_flexibility Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_flexibility Class
 type: Type
 ---
 

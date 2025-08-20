@@ -1,26 +1,28 @@
 ---
 aliases:
-- course-prerequisites
-- course_prerequisites
-- coursePrerequisites
-- has_course_prerequisites
+  - course-prerequisites
+  - course_prerequisites
+  - coursePrerequisites
+  - has_course_prerequisites
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- course
-- prerequisites
-layout: 
-license: "CC BY-SA 4.0"
+  - course
+  - prerequisites
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_course_prerequisites
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_course_prerequisites
 type: Predi_Relation
 ---

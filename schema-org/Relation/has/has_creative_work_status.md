@@ -1,27 +1,29 @@
 ---
 aliases:
-- creative-work-status
-- creative_work_status
-- creativeWorkStatus
-- has_creative_work_status
+  - creative-work-status
+  - creative_work_status
+  - creativeWorkStatus
+  - has_creative_work_status
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- creative
-- work
-- status
-layout: 
-license: "CC BY-SA 4.0"
+  - creative
+  - work
+  - status
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_creative_work_status
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_creative_work_status
 type: Predi_Relation
 ---

@@ -1,27 +1,29 @@
 ---
 aliases:
-- program-membership-used
-- program_membership_used
-- programMembershipUsed
-- has_program_membership_used
+  - program-membership-used
+  - program_membership_used
+  - programMembershipUsed
+  - has_program_membership_used
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- program
-- membership
-- used
-layout: 
-license: "CC BY-SA 4.0"
+  - program
+  - membership
+  - used
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_program_membership_used
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_program_membership_used
 type: Predi_Relation
 ---

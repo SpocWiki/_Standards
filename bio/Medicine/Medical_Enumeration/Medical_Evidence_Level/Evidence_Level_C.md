@@ -1,27 +1,28 @@
 ---
 aliases:
-- evidence-level-c
-- evidence_level_c
-- EvidenceLevelC
-- is_an_evidence_level_c
+  - evidence-level-c
+  - evidence_level_c
+  - EvidenceLevelC
+  - is_an_evidence_level_c
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalEvidenceLevel
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- evidence_level_c
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_evidence_level_c Class"
+  - evidence_level_c
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_evidence_level_c Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_evidence_level_c Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_evidence_level_c Class
 type: Type
 ---
 

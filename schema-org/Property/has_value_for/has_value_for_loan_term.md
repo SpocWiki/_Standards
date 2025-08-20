@@ -1,25 +1,27 @@
 ---
 aliases:
-- loan_term
-- loan-term
-- loanTerm
-- has_value_for_loan_term
+  - loan_term
+  - loan-term
+  - loanTerm
+  - has_value_for_loan_term
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- loan-term
-layout: 
-license: "CC BY-SA 4.0"
+  - loan-term
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_loan-term
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_loan-term
 type: Predi_Quantity
 ---

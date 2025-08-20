@@ -1,26 +1,27 @@
 ---
 aliases:
-- computer-store
-- computer_store
-- ComputerStore
-- is_a_computer_store
+  - computer-store
+  - computer_store
+  - ComputerStore
+  - is_a_computer_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- computer_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_computer_store Class"
+  - computer_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_computer_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_computer_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_computer_store Class
 type: Type
 ---
 

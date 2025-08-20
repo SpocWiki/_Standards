@@ -1,26 +1,27 @@
 ---
 aliases:
-- audiobook
-- audiobook
-- Audiobook
-- is_an_audiobook
+  - audiobook
+  - audiobook
+  - Audiobook
+  - is_an_audiobook
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- audiobook
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_audiobook Class"
+  - audiobook
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_audiobook Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_audiobook Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_audiobook Class
 type: Type
 ---
 

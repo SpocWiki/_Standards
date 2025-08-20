@@ -1,26 +1,27 @@
 ---
 aliases:
-- funding-agency
-- funding_agency
-- FundingAgency
-- is_a_funding_agency
+  - funding-agency
+  - funding_agency
+  - FundingAgency
+  - is_a_funding_agency
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- funding_agency
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_funding_agency Class"
+  - funding_agency
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_funding_agency Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_funding_agency Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_funding_agency Class
 type: Type
 ---
 

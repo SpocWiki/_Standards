@@ -1,27 +1,29 @@
 ---
 aliases:
-- spoken-by-character
-- spoken_by_character
-- spokenByCharacter
-- has_spoken_by_character
+  - spoken-by-character
+  - spoken_by_character
+  - spokenByCharacter
+  - has_spoken_by_character
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- spoken
-- by
-- character
-layout: 
-license: "CC BY-SA 4.0"
+  - spoken
+  - by
+  - character
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_spoken_by_character
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_spoken_by_character
 type: Predi_Relation
 ---

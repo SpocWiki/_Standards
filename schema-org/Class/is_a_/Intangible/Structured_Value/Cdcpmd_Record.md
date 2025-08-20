@@ -1,26 +1,27 @@
 ---
 aliases:
-- cdcpmd-record
-- cdcpmd_record
-- CDCPMDRecord
-- is_a_cdcpmd_record
+  - cdcpmd-record
+  - cdcpmd_record
+  - CDCPMDRecord
+  - is_a_cdcpmd_record
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cdcpmd_record
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_cdcpmd_record Class"
+  - cdcpmd_record
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_cdcpmd_record Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_cdcpmd_record Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_cdcpmd_record Class
 type: Type
 ---
 

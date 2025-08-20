@@ -1,26 +1,27 @@
 ---
 aliases:
-- web-application
-- web_application
-- WebApplication
-- is_a_web_application
+  - web-application
+  - web_application
+  - WebApplication
+  - is_a_web_application
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- web_application
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_web_application Class"
+  - web_application
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_web_application Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_web_application Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_web_application Class
 type: Type
 ---
 

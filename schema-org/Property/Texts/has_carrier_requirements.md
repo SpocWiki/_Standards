@@ -1,26 +1,28 @@
 ---
 aliases:
-- carrier-requirements
-- carrier_requirements
-- carrierRequirements
-- has_text_of_carrier_requirements
+  - carrier-requirements
+  - carrier_requirements
+  - carrierRequirements
+  - has_text_of_carrier_requirements
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- carrier
-- requirements
-layout: 
-license: "CC BY-SA 4.0"
+  - carrier
+  - requirements
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_carrier_requirements
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_carrier_requirements
 type: Pred_Text
 ---

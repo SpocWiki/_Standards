@@ -1,26 +1,27 @@
 ---
 aliases:
-- legal-service
-- legal_service
-- LegalService
-- is_a_legal_service
+  - legal-service
+  - legal_service
+  - LegalService
+  - is_a_legal_service
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legal_service
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_legal_service Class"
+  - legal_service
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_legal_service Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_legal_service Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_legal_service Class
 type: Type
 ---
 

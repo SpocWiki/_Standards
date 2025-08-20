@@ -1,23 +1,25 @@
 ---
 aliases:
-- torque
-- has_value_for_torque_Nm
+  - torque
+  - has_value_for_torque_Nm
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- torque
-layout: 
-license: "CC BY-SA 4.0"
+  - torque
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_torque
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_torque
 type: Predi_Quantity
 ---

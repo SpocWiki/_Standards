@@ -1,26 +1,27 @@
 ---
 aliases:
-- music-album
-- music_album
-- MusicAlbum
-- is_a_music_album
+  - music-album
+  - music_album
+  - MusicAlbum
+  - is_a_music_album
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- music_album
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_music_album Class"
+  - music_album
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_music_album Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_music_album Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_music_album Class
 type: Type
 ---
 

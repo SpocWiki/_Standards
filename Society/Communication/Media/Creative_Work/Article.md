@@ -1,26 +1,27 @@
 ---
 aliases:
-- article
-- article
-- Article
-- is_an_article
+  - article
+  - article
+  - Article
+  - is_an_article
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- article
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_article Class"
+  - article
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_article Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_article Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_article Class
 type: Type
 ---
 

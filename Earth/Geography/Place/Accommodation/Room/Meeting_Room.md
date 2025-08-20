@@ -1,26 +1,27 @@
 ---
 aliases:
-- meeting-room
-- meeting_room
-- MeetingRoom
-- is_a_meeting_room
+  - meeting-room
+  - meeting_room
+  - MeetingRoom
+  - is_a_meeting_room
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- meeting_room
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_meeting_room Class"
+  - meeting_room
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_meeting_room Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_meeting_room Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_meeting_room Class
 type: Type
 ---
 

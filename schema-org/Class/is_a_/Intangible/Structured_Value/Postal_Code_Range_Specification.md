@@ -1,26 +1,27 @@
 ---
 aliases:
-- postal-code-range-specification
-- postal_code_range_specification
-- PostalCodeRangeSpecification
-- is_a_postal_code_range_specification
+  - postal-code-range-specification
+  - postal_code_range_specification
+  - PostalCodeRangeSpecification
+  - is_a_postal_code_range_specification
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- postal_code_range_specification
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_postal_code_range_specification Class"
+  - postal_code_range_specification
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_postal_code_range_specification Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_postal_code_range_specification Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_postal_code_range_specification Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- add-on
-- add_on
-- addOn
-- has_add_on
+  - add-on
+  - add_on
+  - addOn
+  - has_add_on
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- add
-- on
-layout: 
-license: "CC BY-SA 4.0"
+  - add
+  - on
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_add_on
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_add_on
 type: Predi_Relation
 ---

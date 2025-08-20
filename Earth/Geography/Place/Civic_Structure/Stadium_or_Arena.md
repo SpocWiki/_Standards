@@ -1,26 +1,27 @@
 ---
 aliases:
-- stadium-or-arena
-- stadium_or_arena
-- StadiumOrArena
-- is_a_stadium_or_arena
+  - stadium-or-arena
+  - stadium_or_arena
+  - StadiumOrArena
+  - is_a_stadium_or_arena
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- stadium_or_arena
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_stadium_or_arena Class"
+  - stadium_or_arena
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_stadium_or_arena Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_stadium_or_arena Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_stadium_or_arena Class
 type: Type
 ---
 

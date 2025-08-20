@@ -1,26 +1,27 @@
 ---
 aliases:
-- broadcast-service
-- broadcast_service
-- BroadcastService
-- is_a_broadcast_service
+  - broadcast-service
+  - broadcast_service
+  - BroadcastService
+  - is_a_broadcast_service
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast_service
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_broadcast_service Class"
+  - broadcast_service
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_broadcast_service Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_broadcast_service Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_broadcast_service Class
 type: Type
 ---
 

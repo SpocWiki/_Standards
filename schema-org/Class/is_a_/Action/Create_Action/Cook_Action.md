@@ -1,26 +1,27 @@
 ---
 aliases:
-- cook-action
-- cook_action
-- CookAction
-- is_a_cook_action
+  - cook-action
+  - cook_action
+  - CookAction
+  - is_a_cook_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cook_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_cook_action Class"
+  - cook_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_cook_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_cook_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_cook_action Class
 type: Type
 ---
 

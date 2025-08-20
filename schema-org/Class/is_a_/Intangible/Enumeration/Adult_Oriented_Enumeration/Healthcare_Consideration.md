@@ -1,27 +1,28 @@
 ---
 aliases:
-- healthcare-consideration
-- healthcare_consideration
-- HealthcareConsideration
-- is_a_healthcare_consideration
+  - healthcare-consideration
+  - healthcare_consideration
+  - HealthcareConsideration
+  - is_a_healthcare_consideration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: AdultOrientedEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- healthcare_consideration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_healthcare_consideration Class"
+  - healthcare_consideration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_healthcare_consideration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_healthcare_consideration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_healthcare_consideration Class
 type: Type
 ---
 

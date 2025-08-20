@@ -1,27 +1,29 @@
 ---
 aliases:
-- in-broadcast-lineup
-- in_broadcast_lineup
-- inBroadcastLineup
-- is_in_broadcast_lineup
+  - in-broadcast-lineup
+  - in_broadcast_lineup
+  - inBroadcastLineup
+  - is_in_broadcast_lineup
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- in
-- broadcast
-- lineup
-layout: 
-license: "CC BY-SA 4.0"
+  - in
+  - broadcast
+  - lineup
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_in_broadcast_lineup
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_in_broadcast_lineup
 type: Predi_Relation
 ---

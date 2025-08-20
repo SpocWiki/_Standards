@@ -1,25 +1,27 @@
 ---
 aliases:
-- has-variant
-- variant
-- hasVariant
-- has_variant
+  - has-variant
+  - variant
+  - hasVariant
+  - has_variant
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- variant
-layout: 
-license: "CC BY-SA 4.0"
+  - variant
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_variant
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_variant
 type: Predi_Relation
 ---

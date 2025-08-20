@@ -1,26 +1,27 @@
 ---
 aliases:
-- floor-plan
-- floor_plan
-- FloorPlan
-- is_a_floor_plan
+  - floor-plan
+  - floor_plan
+  - FloorPlan
+  - is_a_floor_plan
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- floor_plan
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_floor_plan Class"
+  - floor_plan
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_floor_plan Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_floor_plan Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_floor_plan Class
 type: Type
 ---
 

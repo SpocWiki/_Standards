@@ -1,27 +1,28 @@
 ---
 aliases:
-- ear
-- ear
-- Ear
-- is_an_ear
+  - ear
+  - ear
+  - Ear
+  - is_an_ear
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ear
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_ear Class"
+  - ear
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_ear Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_ear Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_ear Class
 type: Type
 ---
 

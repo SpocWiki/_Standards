@@ -1,26 +1,27 @@
 ---
 aliases:
-- visual-artwork
-- visual_artwork
-- VisualArtwork
-- is_a_visual_artwork
+  - visual-artwork
+  - visual_artwork
+  - VisualArtwork
+  - is_a_visual_artwork
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- visual_artwork
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_visual_artwork Class"
+  - visual_artwork
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_visual_artwork Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_visual_artwork Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_visual_artwork Class
 type: Type
 ---
 

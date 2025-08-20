@@ -1,27 +1,29 @@
 ---
 aliases:
-- broadcast-service-tier
-- broadcast_service_tier
-- broadcastServiceTier
-- has_text_of_broadcast_service_tier
+  - broadcast-service-tier
+  - broadcast_service_tier
+  - broadcastServiceTier
+  - has_text_of_broadcast_service_tier
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast
-- service
-- tier
-layout: 
-license: "CC BY-SA 4.0"
+  - broadcast
+  - service
+  - tier
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_broadcast_service_tier
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_broadcast_service_tier
 type: Pred_Text
 ---

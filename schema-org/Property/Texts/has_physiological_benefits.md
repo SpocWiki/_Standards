@@ -1,26 +1,28 @@
 ---
 aliases:
-- physiological-benefits
-- physiological_benefits
-- physiologicalBenefits
-- has_text_of_physiological_benefits
+  - physiological-benefits
+  - physiological_benefits
+  - physiologicalBenefits
+  - has_text_of_physiological_benefits
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- physiological
-- benefits
-layout: 
-license: "CC BY-SA 4.0"
+  - physiological
+  - benefits
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_physiological_benefits
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_physiological_benefits
 type: Pred_Text
 ---

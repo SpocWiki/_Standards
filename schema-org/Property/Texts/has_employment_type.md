@@ -1,26 +1,28 @@
 ---
 aliases:
-- employment-type
-- employment_type
-- employmentType
-- has_text_of_employment_type
+  - employment-type
+  - employment_type
+  - employmentType
+  - has_text_of_employment_type
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- employment
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - employment
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_employment_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_employment_type
 type: Pred_Text
 ---

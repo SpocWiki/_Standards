@@ -1,25 +1,27 @@
 ---
 aliases:
-- party-size
-- party_size
-- partySize
-- has_number_of_party_members
+  - party-size
+  - party_size
+  - partySize
+  - has_number_of_party_members
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- party_size
-layout: 
-license: "CC BY-SA 4.0"
+  - party_size
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_party_size
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_party_size
 type: Predi_Count
 ---

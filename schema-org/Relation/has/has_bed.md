@@ -1,25 +1,27 @@
 ---
 aliases:
-- bed
-- bed
-- bed
-- has_bed
+  - bed
+  - bed
+  - bed
+  - has_bed
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bed
-layout: 
-license: "CC BY-SA 4.0"
+  - bed
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_bed
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_bed
 type: Predi_Relation
 ---

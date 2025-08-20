@@ -1,26 +1,27 @@
 ---
 aliases:
-- health-plan-formulary
-- health_plan_formulary
-- HealthPlanFormulary
-- is_a_health_plan_formulary
+  - health-plan-formulary
+  - health_plan_formulary
+  - HealthPlanFormulary
+  - is_a_health_plan_formulary
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health_plan_formulary
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_health_plan_formulary Class"
+  - health_plan_formulary
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_health_plan_formulary Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_health_plan_formulary Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_health_plan_formulary Class
 type: Type
 ---
 

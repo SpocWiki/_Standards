@@ -1,25 +1,27 @@
 ---
 aliases:
-- trailer
-- trailer
-- trailer
-- has_trailer
+  - trailer
+  - trailer
+  - trailer
+  - has_trailer
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- trailer
-layout: 
-license: "CC BY-SA 4.0"
+  - trailer
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_trailer
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_trailer
 type: Predi_Relation
 ---

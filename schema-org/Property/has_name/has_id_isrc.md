@@ -1,26 +1,28 @@
 ---
 aliases:
-- id_isrc-code
-- id_isrc_code
-- id_isrcCode
-- has_id_isrc_code
+  - id_isrc-code
+  - id_isrc_code
+  - id_isrcCode
+  - has_id_isrc_code
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- id_isrc
-- code
-layout: 
-license: "CC BY-SA 4.0"
+  - id_isrc
+  - code
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_isrc_code
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_isrc_code
 type: Pred_Text
 ---

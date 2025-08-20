@@ -1,26 +1,27 @@
 ---
 aliases:
-- service-channel
-- service_channel
-- ServiceChannel
-- is_a_service_channel
+  - service-channel
+  - service_channel
+  - ServiceChannel
+  - is_a_service_channel
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- service_channel
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_service_channel Class"
+  - service_channel
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_service_channel Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_service_channel Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_service_channel Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- ios-platform
-- ios_platform
-- IOSPlatform
-- is_an_ios_platform
+  - ios-platform
+  - ios_platform
+  - IOSPlatform
+  - is_an_ios_platform
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DigitalPlatformEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ios_platform
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_ios_platform Class"
+  - ios_platform
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_ios_platform Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_ios_platform Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_ios_platform Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- order-returned
-- order_returned
-- OrderReturned
-- is_an_order_returned
+  - order-returned
+  - order_returned
+  - OrderReturned
+  - is_an_order_returned
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: OrderStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- order_returned
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_order_returned Class"
+  - order_returned
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_order_returned Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_order_returned Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_order_returned Class
 type: Type
 ---
 

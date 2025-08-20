@@ -1,27 +1,29 @@
 ---
 aliases:
-- available-delivery-method
-- available_delivery_method
-- availableDeliveryMethod
-- has_available_delivery_method
+  - available-delivery-method
+  - available_delivery_method
+  - availableDeliveryMethod
+  - has_available_delivery_method
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- available
-- delivery
-- method
-layout: 
-license: "CC BY-SA 4.0"
+  - available
+  - delivery
+  - method
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_available_delivery_method
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_available_delivery_method
 type: Predi_Relation
 ---

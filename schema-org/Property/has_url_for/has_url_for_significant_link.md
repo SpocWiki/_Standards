@@ -1,26 +1,28 @@
 ---
 aliases:
-- significant-link
-- significant_link
-- significantLink
-- has_url_for_significant_link
+  - significant-link
+  - significant_link
+  - significantLink
+  - has_url_for_significant_link
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- significant_link
-layout: 
-license: "CC BY-SA 4.0"
+  - significant_link
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_significant_link
 publish: true
-publishDate: 
+publishDate:
 supersedes: significantLinks
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_significant_link
 type: Predi_Url
 ---

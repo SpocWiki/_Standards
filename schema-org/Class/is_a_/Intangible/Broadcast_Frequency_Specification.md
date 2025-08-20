@@ -1,26 +1,27 @@
 ---
 aliases:
-- broadcast-frequency-specification
-- broadcast_frequency_specification
-- BroadcastFrequencySpecification
-- is_a_broadcast_frequency_specification
+  - broadcast-frequency-specification
+  - broadcast_frequency_specification
+  - BroadcastFrequencySpecification
+  - is_a_broadcast_frequency_specification
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast_frequency_specification
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_broadcast_frequency_specification Class"
+  - broadcast_frequency_specification
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_broadcast_frequency_specification Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_broadcast_frequency_specification Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_broadcast_frequency_specification Class
 type: Type
 ---
 

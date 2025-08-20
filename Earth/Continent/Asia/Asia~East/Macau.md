@@ -1,33 +1,34 @@
 ---
 aliases:
-- Macau
-- "China, Macao Special Administrative Region"
-- "China, región administrativa especial de Macao"
-- "Chine, région administrative spéciale de Macao"
-- "منطقة ماكاو الإدارية الخاصة التابعة للصين"
-- 中国澳门特别行政区
-- "Китай, Специальный административный район Макао"
-- 
+  - Macau
+  - China, Macao Special Administrative Region
+  - China, región administrativa especial de Macao
+  - Chine, région administrative spéciale de Macao
+  - منطقة ماكاو الإدارية الخاصة التابعة للصين
+  - 中国澳门特别行政区
+  - Китай, Специальный административный район Макао
+  - 
 confidential: public
-cssclasses: Country
+cssclasses:
+  - Country
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords:
 Languages:
-- zh
-- zh-MO
-- pt
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - zh
+  - zh-MO
+  - pt
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate:
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26965
 tags:
-- geo/Country
+  - geo/Country
 title: Macau
 type: Country
 ---

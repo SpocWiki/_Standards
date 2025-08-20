@@ -1,26 +1,27 @@
 ---
 aliases:
-- geospatial-geometry
-- geospatial_geometry
-- GeospatialGeometry
-- is_a_geospatial_geometry
+  - geospatial-geometry
+  - geospatial_geometry
+  - GeospatialGeometry
+  - is_a_geospatial_geometry
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- geospatial_geometry
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_geospatial_geometry Class"
+  - geospatial_geometry
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_geospatial_geometry Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_geospatial_geometry Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_geospatial_geometry Class
 type: Type
 ---
 

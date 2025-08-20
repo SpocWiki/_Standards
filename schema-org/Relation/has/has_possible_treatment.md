@@ -1,26 +1,28 @@
 ---
 aliases:
-- possible-treatment
-- possible_treatment
-- possibleTreatment
-- has_possible_treatment
+  - possible-treatment
+  - possible_treatment
+  - possibleTreatment
+  - has_possible_treatment
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- possible
-- treatment
-layout: 
-license: "CC BY-SA 4.0"
+  - possible
+  - treatment
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_possible_treatment
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_possible_treatment
 type: Predi_Relation
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- data-download
-- data_download
-- DataDownload
-- is_a_data_download
+  - data-download
+  - data_download
+  - DataDownload
+  - is_a_data_download
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-equivalent_class: "http://www.w3.org/ns/dcat#Distribution"
-expiryDate: 
+equivalent_class: http://www.w3.org/ns/dcat#Distribution
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- data_download
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_data_download Class"
+  - data_download
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_data_download Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_data_download Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_data_download Class
 type: Type
 ---
 

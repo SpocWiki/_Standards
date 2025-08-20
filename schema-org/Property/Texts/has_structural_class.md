@@ -1,26 +1,28 @@
 ---
 aliases:
-- structural-class
-- structural_class
-- structuralClass
-- has_text_of_structural_class
+  - structural-class
+  - structural_class
+  - structuralClass
+  - has_text_of_structural_class
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- structural
-- class
-layout: 
-license: "CC BY-SA 4.0"
+  - structural
+  - class
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_structural_class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_structural_class
 type: Pred_Text
 ---

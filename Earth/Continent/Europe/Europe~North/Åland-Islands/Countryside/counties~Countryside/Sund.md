@@ -1,26 +1,27 @@
 ---
 aliases:
-- Sund
+  - Sund
 confidential: public
-cssclasses: geo-Region
+cssclasses:
+  - geo-Region
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords:
 Languages:
-- de
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - de
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 location:
-- 60.2
-- 20.2
+  - 60.2
+  - 20.2
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate:
+source: https://datahub.io/core/country-codes
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 title: Sund
 type: geo-Region
 ---

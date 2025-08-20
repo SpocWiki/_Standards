@@ -1,26 +1,27 @@
 ---
 aliases:
-- police-station
-- police_station
-- PoliceStation
-- is_a_police_station
+  - police-station
+  - police_station
+  - PoliceStation
+  - is_a_police_station
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- police_station
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_police_station Class"
+  - police_station
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_police_station Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_police_station Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_police_station Class
 type: Type
 ---
 

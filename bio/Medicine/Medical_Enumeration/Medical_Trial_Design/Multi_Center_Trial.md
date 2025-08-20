@@ -1,27 +1,28 @@
 ---
 aliases:
-- multi-center-trial
-- multi_center_trial
-- MultiCenterTrial
-- is_a_multi_center_trial
+  - multi-center-trial
+  - multi_center_trial
+  - MultiCenterTrial
+  - is_a_multi_center_trial
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalTrialDesign
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- multi_center_trial
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_multi_center_trial Class"
+  - multi_center_trial
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_multi_center_trial Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_multi_center_trial Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_multi_center_trial Class
 type: Type
 ---
 

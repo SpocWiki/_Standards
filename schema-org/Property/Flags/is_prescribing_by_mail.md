@@ -1,25 +1,27 @@
 ---
 aliases:
-- has-prescription-by-mail
-- prescribing_by_mail
-- offersPrescriptionByMail
-- is_prescribing_by_mail
+  - has-prescription-by-mail
+  - prescribing_by_mail
+  - offersPrescriptionByMail
+  - is_prescribing_by_mail
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- prescribing_by_mail
-layout: 
-license: "CC BY-SA 4.0"
+  - prescribing_by_mail
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_prescribing_by_mail
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_prescribing_by_mail
 type: Pred_Bool
 ---

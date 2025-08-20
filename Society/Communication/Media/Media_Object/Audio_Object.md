@@ -1,26 +1,27 @@
 ---
 aliases:
-- audio-object
-- audio_object
-- AudioObject
-- is_an_audio_object
+  - audio-object
+  - audio_object
+  - AudioObject
+  - is_an_audio_object
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- audio_object
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_audio_object Class"
+  - audio_object
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_audio_object Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_audio_object Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_audio_object Class
 type: Type
 ---
 

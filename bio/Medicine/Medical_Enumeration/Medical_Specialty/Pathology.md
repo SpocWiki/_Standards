@@ -1,27 +1,28 @@
 ---
 aliases:
-- pathology
-- pathology
-- Pathology
-- is_a_pathology
+  - pathology
+  - pathology
+  - Pathology
+  - is_a_pathology
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- pathology
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_pathology Class"
+  - pathology
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_pathology Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_pathology Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_pathology Class
 type: Type
 ---
 

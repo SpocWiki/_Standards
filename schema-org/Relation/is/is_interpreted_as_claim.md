@@ -1,27 +1,29 @@
 ---
 aliases:
-- interpreted-as-claim
-- interpreted_as_claim
-- interpretedAsClaim
-- is_interpreted_as_claim
+  - interpreted-as-claim
+  - interpreted_as_claim
+  - interpretedAsClaim
+  - is_interpreted_as_claim
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- interpreted
-- as
-- claim
-layout: 
-license: "CC BY-SA 4.0"
+  - interpreted
+  - as
+  - claim
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_interpreted_as_claim
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_interpreted_as_claim
 type: Predi_Relation
 ---

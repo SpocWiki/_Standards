@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-measurement-width
-- wearable_measurement_width
-- WearableMeasurementWidth
-- is_a_wearable_measurement_width
+  - wearable-measurement-width
+  - wearable_measurement_width
+  - WearableMeasurementWidth
+  - is_a_wearable_measurement_width
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_measurement_width
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_measurement_width Class"
+  - wearable_measurement_width
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_measurement_width Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_measurement_width Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_measurement_width Class
 type: Type
 ---
 

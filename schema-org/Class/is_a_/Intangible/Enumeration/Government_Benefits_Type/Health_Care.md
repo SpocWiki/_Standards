@@ -1,27 +1,28 @@
 ---
 aliases:
-- health-care
-- health_care
-- HealthCare
-- is_a_health_care
+  - health-care
+  - health_care
+  - HealthCare
+  - is_a_health_care
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health_care
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_health_care Class"
+  - health_care
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_health_care Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_health_care Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_health_care Class
 type: Type
 ---
 

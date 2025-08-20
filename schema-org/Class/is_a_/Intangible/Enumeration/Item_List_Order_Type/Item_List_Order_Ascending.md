@@ -1,27 +1,28 @@
 ---
 aliases:
-- item-list-order-ascending
-- item_list_order_ascending
-- ItemListOrderAscending
-- is_an_item_list_order_ascending
+  - item-list-order-ascending
+  - item_list_order_ascending
+  - ItemListOrderAscending
+  - is_an_item_list_order_ascending
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ItemListOrderType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- item_list_order_ascending
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_item_list_order_ascending Class"
+  - item_list_order_ascending
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_item_list_order_ascending Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_item_list_order_ascending Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_item_list_order_ascending Class
 type: Type
 ---
 

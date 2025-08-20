@@ -1,26 +1,28 @@
 ---
 aliases:
-- vehicle-engine
-- vehicle_engine
-- vehicleEngine
-- has_vehicle_engine
+  - vehicle-engine
+  - vehicle_engine
+  - vehicleEngine
+  - has_vehicle_engine
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- vehicle
-- engine
-layout: 
-license: "CC BY-SA 4.0"
+  - vehicle
+  - engine
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_vehicle_engine
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_vehicle_engine
 type: Predi_Relation
 ---

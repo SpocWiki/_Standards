@@ -1,27 +1,28 @@
 ---
 aliases:
-- emergency
-- emergency
-- Emergency
-- is_an_emergency
+  - emergency
+  - emergency
+  - Emergency
+  - is_an_emergency
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- emergency
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_emergency Class"
+  - emergency
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_emergency Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_emergency Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_emergency Class
 type: Type
 ---
 

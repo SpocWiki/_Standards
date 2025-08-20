@@ -1,27 +1,28 @@
 ---
 aliases:
-- withdrawn
-- withdrawn
-- Withdrawn
-- is_a_withdrawn
+  - withdrawn
+  - withdrawn
+  - Withdrawn
+  - is_a_withdrawn
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalStudyStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- withdrawn
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_withdrawn Class"
+  - withdrawn
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_withdrawn Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_withdrawn Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_withdrawn Class
 type: Type
 ---
 

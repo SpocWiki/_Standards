@@ -1,27 +1,28 @@
 ---
 aliases:
-- original-shipping-fees
-- original_shipping_fees
-- OriginalShippingFees
-- is_an_original_shipping_fees
+  - original-shipping-fees
+  - original_shipping_fees
+  - OriginalShippingFees
+  - is_an_original_shipping_fees
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReturnFeesEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- original_shipping_fees
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_original_shipping_fees Class"
+  - original_shipping_fees
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_original_shipping_fees Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_original_shipping_fees Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_original_shipping_fees Class
 type: Type
 ---
 

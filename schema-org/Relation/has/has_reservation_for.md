@@ -1,26 +1,28 @@
 ---
 aliases:
-- reservation-for
-- reservation_for
-- reservationFor
-- has_reservation_for
+  - reservation-for
+  - reservation_for
+  - reservationFor
+  - has_reservation_for
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reservation
-- for
-layout: 
-license: "CC BY-SA 4.0"
+  - reservation
+  - for
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_reservation_for
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_reservation_for
 type: Predi_Relation
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- alcohol-warning
-- alcohol_warning
-- alcoholWarning
-- has_text_of_alcohol_warning
+  - alcohol-warning
+  - alcohol_warning
+  - alcoholWarning
+  - has_text_of_alcohol_warning
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- alcohol
-- warning
-layout: 
-license: "CC BY-SA 4.0"
+  - alcohol
+  - warning
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_alcohol_warning
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_alcohol_warning
 type: Pred_Text
 ---

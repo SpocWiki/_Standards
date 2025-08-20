@@ -1,27 +1,28 @@
 ---
 aliases:
-- user-interaction
-- user_interaction
-- UserInteraction
-- is_a_user_interaction
+  - user-interaction
+  - user_interaction
+  - UserInteraction
+  - is_a_user_interaction
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- user_interaction
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_user_interaction Class"
+  - user_interaction
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_user_interaction Class
 publish: true
-publishDate: 
+publishDate:
 superseded_by: InteractionCounter
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_user_interaction Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_user_interaction Class
 type: Type
 ---
 

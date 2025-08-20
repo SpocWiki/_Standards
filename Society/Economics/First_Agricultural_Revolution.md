@@ -1,26 +1,28 @@
 ---
 aliases:
-- "First Agricultural Revolution"
-- "Neolithic Revolution"
+  - First Agricultural Revolution
+  - Neolithic Revolution
 confidential: private
-cssclasses: "private note"
+cssclasses:
+  - private
+  - note
 draft: true
-expiryDate: 
-has_Template: '[[Extract~Note~Template]]'
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
 has_time_started: 2024-06-23
 isDeleted: false
 isReadOnly: false
-keywords: "First Agricultural Revolution"
+keywords: First Agricultural Revolution
 lang: en
-layout: 
+layout:
 license: (c)copyrighted
-linkTitle: "First Agricultural Revolution"
+linkTitle: First Agricultural Revolution
 publish: false
-publishDate: 
+publishDate:
 tags:
-- "First Agricultural Revolution"
-- 
-title: "First Agricultural Revolution"
+  - First Agricultural Revolution
+  - 
+title: First Agricultural Revolution
 type: private_note
 ---
 

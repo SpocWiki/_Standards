@@ -5,18 +5,19 @@ aliases:
   - Continent
   - is_a_continent
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - continent
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_a_continent Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class

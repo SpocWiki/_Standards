@@ -1,25 +1,27 @@
 ---
 aliases:
-- number-of-episodes
-- number_of_episodes
-- numberOfEpisodes
-- has_number_of_episodes
+  - number-of-episodes
+  - number_of_episodes
+  - numberOfEpisodes
+  - has_number_of_episodes
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- number_of_episodes
-layout: 
-license: "CC BY-SA 4.0"
+  - number_of_episodes
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_episodes
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_episodes
 type: Predi_Count
 ---

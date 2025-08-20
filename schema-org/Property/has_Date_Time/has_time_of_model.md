@@ -1,24 +1,26 @@
 ---
 aliases:
-- model-date
-- model_date
-- modelDate
-- has_time_of_model
+  - model-date
+  - model_date
+  - modelDate
+  - has_time_of_model
 confidential: public
-cssclasses: "Predicate Date_Time"
+cssclasses:
+  - Predicate
+  - Date_Time
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+keywords:
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Date
+  - class/Property
+  - schema-org/Property/Date
 title: has_time_of_model
 type: Predi_Date_Time
 ---

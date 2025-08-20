@@ -1,26 +1,27 @@
 ---
 aliases:
-- hotel
-- hotel
-- Hotel
-- is_a_hotel
+  - hotel
+  - hotel
+  - Hotel
+  - is_a_hotel
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hotel
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hotel Class"
+  - hotel
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hotel Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hotel Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hotel Class
 type: Type
 ---
 

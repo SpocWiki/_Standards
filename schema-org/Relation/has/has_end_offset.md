@@ -1,26 +1,28 @@
 ---
 aliases:
-- end-offset
-- end_offset
-- endOffset
-- has_end_offset
+  - end-offset
+  - end_offset
+  - endOffset
+  - has_end_offset
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- end
-- offset
-layout: 
-license: "CC BY-SA 4.0"
+  - end
+  - offset
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_end_offset
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_end_offset
 type: Predi_Relation
 ---

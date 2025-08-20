@@ -1,26 +1,27 @@
 ---
 aliases:
-- profile-page
-- profile_page
-- ProfilePage
-- is_a_profile_page
+  - profile-page
+  - profile_page
+  - ProfilePage
+  - is_a_profile_page
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- profile_page
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_profile_page Class"
+  - profile_page
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_profile_page Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_profile_page Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_profile_page Class
 type: Type
 ---
 

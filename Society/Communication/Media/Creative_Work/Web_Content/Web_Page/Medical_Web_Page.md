@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-web-page
-- medical_web_page
-- MedicalWebPage
-- is_a_medical_web_page
+  - medical-web-page
+  - medical_web_page
+  - MedicalWebPage
+  - is_a_medical_web_page
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_web_page
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_web_page Class"
+  - medical_web_page
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_web_page Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_web_page Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_web_page Class
 type: Type
 ---
 

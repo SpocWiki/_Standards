@@ -1,27 +1,28 @@
 ---
 aliases:
-- android-platform
-- android_platform
-- AndroidPlatform
-- is_an_android_platform
+  - android-platform
+  - android_platform
+  - AndroidPlatform
+  - is_an_android_platform
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DigitalPlatformEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- android_platform
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_android_platform Class"
+  - android_platform
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_android_platform Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_android_platform Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_android_platform Class
 type: Type
 ---
 

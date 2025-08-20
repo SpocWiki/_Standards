@@ -1,27 +1,28 @@
 ---
 aliases:
-- creative-work-season
-- creative_work_season
-- CreativeWorkSeason
-- is_a_creative_work_season
+  - creative-work-season
+  - creative_work_season
+  - CreativeWorkSeason
+  - is_a_creative_work_season
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- creative_work_season
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_creative_work_season Class"
+  - creative_work_season
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_creative_work_season Class
 publish: true
-publishDate: 
+publishDate:
 supersedes: Season
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_creative_work_season Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_creative_work_season Class
 type: Type
 ---
 

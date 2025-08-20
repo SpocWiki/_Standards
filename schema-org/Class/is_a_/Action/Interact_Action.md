@@ -1,26 +1,27 @@
 ---
 aliases:
-- interact-action
-- interact_action
-- InteractAction
-- is_an_interact_action
+  - interact-action
+  - interact_action
+  - InteractAction
+  - is_an_interact_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- interact_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_interact_action Class"
+  - interact_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_interact_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_interact_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_interact_action Class
 type: Type
 ---
 

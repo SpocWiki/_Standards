@@ -1,25 +1,27 @@
 ---
 aliases:
-- width
-- width
-- width
-- has_value_for_width_in_meters
+  - width
+  - width
+  - width
+  - has_value_for_width_in_meters
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- width
-layout: 
-license: "CC BY-SA 4.0"
+  - width
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_width
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_width
 type: Predi_Quantity
 ---

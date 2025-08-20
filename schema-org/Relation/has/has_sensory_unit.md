@@ -1,26 +1,28 @@
 ---
 aliases:
-- sensory-unit
-- sensory_unit
-- sensoryUnit
-- has_sensory_unit
+  - sensory-unit
+  - sensory_unit
+  - sensoryUnit
+  - has_sensory_unit
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sensory
-- unit
-layout: 
-license: "CC BY-SA 4.0"
+  - sensory
+  - unit
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sensory_unit
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sensory_unit
 type: Predi_Relation
 ---

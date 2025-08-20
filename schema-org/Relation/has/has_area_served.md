@@ -1,28 +1,30 @@
 ---
 aliases:
-- area-served
-- area_served
-- areaServed
-- has_area_served
+  - area-served
+  - area_served
+  - areaServed
+  - has_area_served
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- area
-- served
-layout: 
-license: "CC BY-SA 4.0"
+  - area
+  - served
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_area_served
 publish: true
-publishDate: 
-superseded_by: 
+publishDate:
+superseded_by:
 supersedes: serviceArea
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_area_served
 type: Predi_Relation
 ---

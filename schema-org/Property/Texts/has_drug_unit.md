@@ -1,26 +1,28 @@
 ---
 aliases:
-- drug-unit
-- drug_unit
-- drugUnit
-- has_text_of_drug_unit
+  - drug-unit
+  - drug_unit
+  - drugUnit
+  - has_text_of_drug_unit
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- drug
-- unit
-layout: 
-license: "CC BY-SA 4.0"
+  - drug
+  - unit
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_drug_unit
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_drug_unit
 type: Pred_Text
 ---

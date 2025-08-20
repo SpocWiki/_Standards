@@ -1,27 +1,28 @@
 ---
 aliases:
-- friday
-- friday
-- Friday
-- is_a_friday
+  - friday
+  - friday
+  - Friday
+  - is_a_friday
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DayOfWeek
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- friday
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_friday Class"
+  - friday
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_friday Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_friday Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_friday Class
 type: Type
 ---
 

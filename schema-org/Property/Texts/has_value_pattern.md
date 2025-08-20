@@ -1,26 +1,28 @@
 ---
 aliases:
-- value-pattern
-- value_pattern
-- valuePattern
-- has_text_of_value_pattern
+  - value-pattern
+  - value_pattern
+  - valuePattern
+  - has_text_of_value_pattern
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- value
-- pattern
-layout: 
-license: "CC BY-SA 4.0"
+  - value
+  - pattern
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_value_pattern
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_value_pattern
 type: Pred_Text
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- broker
-- broker
-- broker
-- has_broker
+  - broker
+  - broker
+  - broker
+  - has_broker
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broker
-layout: 
-license: "CC BY-SA 4.0"
+  - broker
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_broker
 publish: true
-publishDate: 
+publishDate:
 supersedes: bookingAgent
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_broker
 type: Predi_Relation
 ---

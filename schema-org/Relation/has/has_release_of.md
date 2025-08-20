@@ -1,26 +1,28 @@
 ---
 aliases:
-- release-of
-- release_of
-- releaseOf
-- has_release_of
+  - release-of
+  - release_of
+  - releaseOf
+  - has_release_of
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- release
-- of
-layout: 
-license: "CC BY-SA 4.0"
+  - release
+  - of
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_release_of
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_release_of
 type: Predi_Relation
 ---

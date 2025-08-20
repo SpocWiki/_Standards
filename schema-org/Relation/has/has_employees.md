@@ -1,26 +1,28 @@
 ---
 aliases:
-- employee
-- employee
-- employee
-- has_employee
+  - employee
+  - employee
+  - employee
+  - has_employee
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- employee
-layout: 
-license: "CC BY-SA 4.0"
+  - employee
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_employee
 publish: true
-publishDate: 
+publishDate:
 supersedes: employees
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_employee
 type: Predi_Relation
 ---

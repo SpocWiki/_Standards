@@ -1,27 +1,29 @@
 ---
 aliases:
-- conditions-of-access
-- conditions_of_access
-- conditionsOfAccess
-- has_text_of_conditions_of_access
+  - conditions-of-access
+  - conditions_of_access
+  - conditionsOfAccess
+  - has_text_of_conditions_of_access
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- conditions
-- of
-- access
-layout: 
-license: "CC BY-SA 4.0"
+  - conditions
+  - of
+  - access
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_conditions_of_access
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_conditions_of_access
 type: Pred_Text
 ---

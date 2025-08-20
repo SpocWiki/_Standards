@@ -1,25 +1,27 @@
 ---
 aliases:
-- itinerary
-- itinerary
-- itinerary
-- has_itinerary
+  - itinerary
+  - itinerary
+  - itinerary
+  - has_itinerary
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- itinerary
-layout: 
-license: "CC BY-SA 4.0"
+  - itinerary
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_itinerary
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_itinerary
 type: Predi_Relation
 ---

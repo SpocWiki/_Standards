@@ -1,27 +1,28 @@
 ---
 aliases:
-- venue-map
-- venue_map
-- VenueMap
-- is_a_venue_map
+  - venue-map
+  - venue_map
+  - VenueMap
+  - is_a_venue_map
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MapCategoryType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- venue_map
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_venue_map Class"
+  - venue_map
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_venue_map Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_venue_map Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_venue_map Class
 type: Type
 ---
 

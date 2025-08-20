@@ -1,26 +1,28 @@
 ---
 aliases:
-- normal-range
-- normal_range
-- normalRange
-- has_normal_range
+  - normal-range
+  - normal_range
+  - normalRange
+  - has_normal_range
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- normal
-- range
-layout: 
-license: "CC BY-SA 4.0"
+  - normal
+  - range
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_normal_range
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_normal_range
 type: Predi_Relation
 ---

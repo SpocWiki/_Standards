@@ -1,27 +1,29 @@
 ---
 aliases:
-- clinical-pharmacology
-- clinical_pharmacology
-- clinicalPharmacology
-- has_text_of_clinical_pharmacology
+  - clinical-pharmacology
+  - clinical_pharmacology
+  - clinicalPharmacology
+  - has_text_of_clinical_pharmacology
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- clinical
-- pharmacology
-layout: 
-license: "CC BY-SA 4.0"
+  - clinical
+  - pharmacology
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_clinical_pharmacology
 publish: true
-publishDate: 
+publishDate:
 supersedes: clincalPharmacology
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_clinical_pharmacology
 type: Pred_Text
 ---

@@ -5,18 +5,19 @@ aliases:
   - LocalBusiness
   - is_a_local_business
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - local_business
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_a_local_business Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class

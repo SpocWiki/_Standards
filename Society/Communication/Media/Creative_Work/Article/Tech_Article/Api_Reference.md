@@ -1,26 +1,27 @@
 ---
 aliases:
-- api-reference
-- api_reference
-- APIReference
-- is_an_api_reference
+  - api-reference
+  - api_reference
+  - APIReference
+  - is_an_api_reference
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- api_reference
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_api_reference Class"
+  - api_reference
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_api_reference Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_api_reference Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_api_reference Class
 type: Type
 ---
 

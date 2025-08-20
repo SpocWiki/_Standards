@@ -1,25 +1,27 @@
 ---
 aliases:
-- colorist
-- colorist
-- colorist
-- has_colorist
+  - colorist
+  - colorist
+  - colorist
+  - has_colorist
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- colorist
-layout: 
-license: "CC BY-SA 4.0"
+  - colorist
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_colorist
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_colorist
 type: Predi_Relation
 ---

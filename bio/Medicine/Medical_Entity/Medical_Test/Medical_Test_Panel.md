@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-test-panel
-- medical_test_panel
-- MedicalTestPanel
-- is_a_medical_test_panel
+  - medical-test-panel
+  - medical_test_panel
+  - MedicalTestPanel
+  - is_a_medical_test_panel
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_test_panel
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_test_panel Class"
+  - medical_test_panel
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_test_panel Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_test_panel Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_test_panel Class
 type: Type
 ---
 

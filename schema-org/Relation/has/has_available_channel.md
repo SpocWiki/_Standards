@@ -1,26 +1,28 @@
 ---
 aliases:
-- available-channel
-- available_channel
-- availableChannel
-- has_available_channel
+  - available-channel
+  - available_channel
+  - availableChannel
+  - has_available_channel
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- available
-- channel
-layout: 
-license: "CC BY-SA 4.0"
+  - available
+  - channel
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_available_channel
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_available_channel
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- category-code-set
-- category_code_set
-- CategoryCodeSet
-- is_a_category_code_set
+  - category-code-set
+  - category_code_set
+  - CategoryCodeSet
+  - is_a_category_code_set
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- category_code_set
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_category_code_set Class"
+  - category_code_set
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_category_code_set Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_category_code_set Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_category_code_set Class
 type: Type
 ---
 

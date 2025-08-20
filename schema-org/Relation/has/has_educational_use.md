@@ -1,26 +1,28 @@
 ---
 aliases:
-- educational-use
-- educational_use
-- educationalUse
-- has_educational_use
+  - educational-use
+  - educational_use
+  - educationalUse
+  - has_educational_use
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- educational
-- use
-layout: 
-license: "CC BY-SA 4.0"
+  - educational
+  - use
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_educational_use
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_educational_use
 type: Predi_Relation
 ---

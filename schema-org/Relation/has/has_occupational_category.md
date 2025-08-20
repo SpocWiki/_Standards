@@ -1,26 +1,28 @@
 ---
 aliases:
-- occupational-category
-- occupational_category
-- occupationalCategory
-- has_occupational_category
+  - occupational-category
+  - occupational_category
+  - occupationalCategory
+  - has_occupational_category
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- occupational
-- category
-layout: 
-license: "CC BY-SA 4.0"
+  - occupational
+  - category
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_occupational_category
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_occupational_category
 type: Predi_Relation
 ---

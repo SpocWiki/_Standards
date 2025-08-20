@@ -1,27 +1,28 @@
 ---
 aliases:
-- ep-release
-- ep_release
-- EPRelease
-- is_an_ep_release
+  - ep-release
+  - ep_release
+  - EPRelease
+  - is_an_ep_release
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicAlbumReleaseType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ep_release
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_ep_release Class"
+  - ep_release
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_ep_release Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_ep_release Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_ep_release Class
 type: Type
 ---
 

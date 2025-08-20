@@ -1,27 +1,28 @@
 ---
 aliases:
-- user-checkins
-- user_checkins
-- UserCheckins
-- is_a_user_checkins
+  - user-checkins
+  - user_checkins
+  - UserCheckins
+  - is_a_user_checkins
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- user_checkins
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_user_checkins Class"
+  - user_checkins
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_user_checkins Class
 publish: true
-publishDate: 
+publishDate:
 superseded_by: InteractionCounter
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_user_checkins Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_user_checkins Class
 type: Type
 ---
 

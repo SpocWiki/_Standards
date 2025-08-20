@@ -1,26 +1,27 @@
 ---
 aliases:
-- food-establishment-reservation
-- food_establishment_reservation
-- FoodEstablishmentReservation
-- is_a_food_establishment_reservation
+  - food-establishment-reservation
+  - food_establishment_reservation
+  - FoodEstablishmentReservation
+  - is_a_food_establishment_reservation
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- food_establishment_reservation
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_food_establishment_reservation Class"
+  - food_establishment_reservation
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_food_establishment_reservation Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_food_establishment_reservation Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_food_establishment_reservation Class
 type: Type
 ---
 

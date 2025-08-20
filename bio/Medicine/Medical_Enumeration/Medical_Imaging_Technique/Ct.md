@@ -1,27 +1,28 @@
 ---
 aliases:
-- ct
-- ct
-- CT
-- is_a_ct
+  - ct
+  - ct
+  - CT
+  - is_a_ct
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalImagingTechnique
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ct
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_ct Class"
+  - ct
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_ct Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_ct Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_ct Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- competency-required
-- competency_required
-- competencyRequired
-- has_competency_required
+  - competency-required
+  - competency_required
+  - competencyRequired
+  - has_competency_required
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- competency
-- required
-layout: 
-license: "CC BY-SA 4.0"
+  - competency
+  - required
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_competency_required
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_competency_required
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- work-based-program
-- work_based_program
-- WorkBasedProgram
-- is_a_work_based_program
+  - work-based-program
+  - work_based_program
+  - WorkBasedProgram
+  - is_a_work_based_program
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- work_based_program
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_work_based_program Class"
+  - work_based_program
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_work_based_program Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_work_based_program Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_work_based_program Class
 type: Type
 ---
 

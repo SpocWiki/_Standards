@@ -1,25 +1,27 @@
 ---
 aliases:
-- broadcaster
-- broadcaster
-- broadcaster
-- has_broadcaster
+  - broadcaster
+  - broadcaster
+  - broadcaster
+  - has_broadcaster
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcaster
-layout: 
-license: "CC BY-SA 4.0"
+  - broadcaster
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_broadcaster
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_broadcaster
 type: Predi_Relation
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- by-month-day
-- by_month_day
-- byMonthDay
-- has_number_of_day_in_month
+  - by-month-day
+  - by_month_day
+  - byMonthDay
+  - has_number_of_day_in_month
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- by_month_day
-layout: 
-license: "CC BY-SA 4.0"
+  - by_month_day
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_by_month_day
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_by_month_day
 type: Predi_Count
 ---

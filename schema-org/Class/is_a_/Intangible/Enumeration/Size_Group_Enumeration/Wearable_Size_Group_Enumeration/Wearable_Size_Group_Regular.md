@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-size-group-regular
-- wearable_size_group_regular
-- WearableSizeGroupRegular
-- is_a_wearable_size_group_regular
+  - wearable-size-group-regular
+  - wearable_size_group_regular
+  - WearableSizeGroupRegular
+  - is_a_wearable_size_group_regular
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_size_group_regular
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_size_group_regular Class"
+  - wearable_size_group_regular
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_size_group_regular Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_size_group_regular Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_size_group_regular Class
 type: Type
 ---
 

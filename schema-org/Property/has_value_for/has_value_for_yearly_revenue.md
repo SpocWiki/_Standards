@@ -1,25 +1,27 @@
 ---
 aliases:
-- yearly_revenue
-- yearly-revenue
-- yearlyRevenue
-- has_value_for_yearly_revenue
+  - yearly_revenue
+  - yearly-revenue
+  - yearlyRevenue
+  - has_value_for_yearly_revenue
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- yearly-revenue
-layout: 
-license: "CC BY-SA 4.0"
+  - yearly-revenue
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_yearly-revenue
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_yearly-revenue
 type: Predi_Quantity
 ---

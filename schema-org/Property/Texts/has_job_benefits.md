@@ -1,27 +1,29 @@
 ---
 aliases:
-- job-benefits
-- job_benefits
-- jobBenefits
-- has_text_of_job_benefits
+  - job-benefits
+  - job_benefits
+  - jobBenefits
+  - has_text_of_job_benefits
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- job
-- benefits
-layout: 
-license: "CC BY-SA 4.0"
+  - job
+  - benefits
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_job_benefits
 publish: true
-publishDate: 
+publishDate:
 supersedes: benefits
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_job_benefits
 type: Pred_Text
 ---

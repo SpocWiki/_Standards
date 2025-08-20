@@ -1,26 +1,28 @@
 ---
 aliases:
-- about
-- about
-- about
-- is_about
-- has_as_subject
+  - about
+  - about
+  - about
+  - is_about
+  - has_as_subject
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- about
-layout: 
-license: "CC BY-SA 4.0"
+  - about
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_about
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_about
 type: Predi_Relation
 ---

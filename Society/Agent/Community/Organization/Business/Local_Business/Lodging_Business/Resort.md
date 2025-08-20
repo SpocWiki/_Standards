@@ -1,26 +1,27 @@
 ---
 aliases:
-- resort
-- resort
-- Resort
-- is_a_resort
+  - resort
+  - resort
+  - Resort
+  - is_a_resort
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- resort
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_resort Class"
+  - resort
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_resort Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_resort Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_resort Class
 type: Type
 ---
 

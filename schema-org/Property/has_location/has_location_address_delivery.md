@@ -1,25 +1,27 @@
 ---
 aliases:
-- delivery-address
-- address_delivery
-- deliveryAddress
-- has_location_address_delivery
+  - delivery-address
+  - address_delivery
+  - deliveryAddress
+  - has_location_address_delivery
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- address_delivery
-layout: 
-license: "CC BY-SA 4.0"
+  - address_delivery
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_address_delivery
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_address_delivery
 type: Pred_geo
 ---

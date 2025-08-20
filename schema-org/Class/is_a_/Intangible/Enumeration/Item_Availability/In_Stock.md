@@ -1,27 +1,28 @@
 ---
 aliases:
-- in-stock
-- in_stock
-- InStock
-- is_in_stock
+  - in-stock
+  - in_stock
+  - InStock
+  - is_in_stock
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- in_stock
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_in_stock Class"
+  - in_stock
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_in_stock Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_in_stock Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_in_stock Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- acquired-from
-- acquired_from
-- acquiredFrom
-- is_acquired_from
+  - acquired-from
+  - acquired_from
+  - acquiredFrom
+  - is_acquired_from
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- acquired
-- from
-layout: 
-license: "CC BY-SA 4.0"
+  - acquired
+  - from
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_acquired_from
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_acquired_from
 type: Predi_Relation
 ---

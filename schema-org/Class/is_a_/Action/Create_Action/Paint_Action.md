@@ -1,26 +1,27 @@
 ---
 aliases:
-- paint-action
-- paint_action
-- PaintAction
-- is_a_paint_action
+  - paint-action
+  - paint_action
+  - PaintAction
+  - is_a_paint_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- paint_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_paint_action Class"
+  - paint_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_paint_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_paint_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_paint_action Class
 type: Type
 ---
 

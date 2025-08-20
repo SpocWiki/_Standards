@@ -1,25 +1,27 @@
 ---
 aliases:
-- loan_mortgage_mandate_amount
-- loan-mortgage-mandate-amount
-- loanMortgageMandateAmount
-- has_value_for_loan_mortgage_mandate_amount
+  - loan_mortgage_mandate_amount
+  - loan-mortgage-mandate-amount
+  - loanMortgageMandateAmount
+  - has_value_for_loan_mortgage_mandate_amount
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- loan-mortgage-mandate-amount
-layout: 
-license: "CC BY-SA 4.0"
+  - loan-mortgage-mandate-amount
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_loan-mortgage-mandate-amount
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_loan-mortgage-mandate-amount
 type: Predi_Quantity
 ---

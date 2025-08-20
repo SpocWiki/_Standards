@@ -1,25 +1,27 @@
 ---
 aliases:
-- tributary
-- tributary
-- tributary
-- has_tributary
+  - tributary
+  - tributary
+  - tributary
+  - has_tributary
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tributary
-layout: 
-license: "CC BY-SA 4.0"
+  - tributary
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_tributary
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_tributary
 type: Predi_Relation
 ---

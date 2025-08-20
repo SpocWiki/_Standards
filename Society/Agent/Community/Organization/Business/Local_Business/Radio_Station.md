@@ -1,26 +1,27 @@
 ---
 aliases:
-- radio-station
-- radio_station
-- RadioStation
-- is_a_radio_station
+  - radio-station
+  - radio_station
+  - RadioStation
+  - is_a_radio_station
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- radio_station
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_radio_station Class"
+  - radio_station
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_radio_station Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_radio_station Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_radio_station Class
 type: Type
 ---
 

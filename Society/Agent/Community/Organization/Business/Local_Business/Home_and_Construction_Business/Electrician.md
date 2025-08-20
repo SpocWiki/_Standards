@@ -1,26 +1,27 @@
 ---
 aliases:
-- electrician
-- electrician
-- Electrician
-- is_an_electrician
+  - electrician
+  - electrician
+  - Electrician
+  - is_an_electrician
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- electrician
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_electrician Class"
+  - electrician
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_electrician Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_electrician Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_electrician Class
 type: Type
 ---
 

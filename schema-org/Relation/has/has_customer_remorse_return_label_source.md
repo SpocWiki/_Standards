@@ -1,29 +1,31 @@
 ---
 aliases:
-- customer-remorse-return-label-source
-- customer_remorse_return_label_source
-- customerRemorseReturnLabelSource
-- has_customer_remorse_return_label_source
+  - customer-remorse-return-label-source
+  - customer_remorse_return_label_source
+  - customerRemorseReturnLabelSource
+  - has_customer_remorse_return_label_source
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- customer
-- remorse
-- return
-- label
-- source
-layout: 
-license: "CC BY-SA 4.0"
+  - customer
+  - remorse
+  - return
+  - label
+  - source
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_customer_remorse_return_label_source
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_customer_remorse_return_label_source
 type: Predi_Relation
 ---

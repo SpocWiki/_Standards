@@ -1,26 +1,27 @@
 ---
 aliases:
-- plumber
-- plumber
-- Plumber
-- is_a_plumber
+  - plumber
+  - plumber
+  - Plumber
+  - is_a_plumber
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- plumber
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_plumber Class"
+  - plumber
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_plumber Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_plumber Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_plumber Class
 type: Type
 ---
 

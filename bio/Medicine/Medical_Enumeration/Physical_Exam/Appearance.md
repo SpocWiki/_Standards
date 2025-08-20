@@ -1,27 +1,28 @@
 ---
 aliases:
-- appearance
-- appearance
-- Appearance
-- is_an_appearance
+  - appearance
+  - appearance
+  - Appearance
+  - is_an_appearance
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- appearance
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_appearance Class"
+  - appearance
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_appearance Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_appearance Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_appearance Class
 type: Type
 ---
 

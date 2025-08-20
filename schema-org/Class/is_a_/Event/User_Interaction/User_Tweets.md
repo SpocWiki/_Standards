@@ -1,27 +1,28 @@
 ---
 aliases:
-- user-tweets
-- user_tweets
-- UserTweets
-- is_a_user_tweets
+  - user-tweets
+  - user_tweets
+  - UserTweets
+  - is_a_user_tweets
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- user_tweets
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_user_tweets Class"
+  - user_tweets
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_user_tweets Class
 publish: true
-publishDate: 
+publishDate:
 superseded_by: InteractionCounter
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_user_tweets Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_user_tweets Class
 type: Type
 ---
 

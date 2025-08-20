@@ -1,27 +1,29 @@
 ---
 aliases:
-- unnamed-sources-policy
-- unnamed_sources_policy
-- unnamedSourcesPolicy
-- has_unnamed_sources_policy
+  - unnamed-sources-policy
+  - unnamed_sources_policy
+  - unnamedSourcesPolicy
+  - has_unnamed_sources_policy
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- unnamed
-- sources
-- policy
-layout: 
-license: "CC BY-SA 4.0"
+  - unnamed
+  - sources
+  - policy
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_unnamed_sources_policy
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_unnamed_sources_policy
 type: Predi_Relation
 ---

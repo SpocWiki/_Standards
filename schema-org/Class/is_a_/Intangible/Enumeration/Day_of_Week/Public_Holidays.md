@@ -1,27 +1,28 @@
 ---
 aliases:
-- public-holidays
-- public_holidays
-- PublicHolidays
-- is_a_public_holidays
+  - public-holidays
+  - public_holidays
+  - PublicHolidays
+  - is_a_public_holidays
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DayOfWeek
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- public_holidays
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_public_holidays Class"
+  - public_holidays
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_public_holidays Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_public_holidays Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_public_holidays Class
 type: Type
 ---
 

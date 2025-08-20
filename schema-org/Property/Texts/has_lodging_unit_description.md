@@ -1,27 +1,29 @@
 ---
 aliases:
-- lodging-unit-description
-- lodging_unit_description
-- lodgingUnitDescription
-- has_text_of_lodging_unit_description
+  - lodging-unit-description
+  - lodging_unit_description
+  - lodgingUnitDescription
+  - has_text_of_lodging_unit_description
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- lodging
-- unit
-- description
-layout: 
-license: "CC BY-SA 4.0"
+  - lodging
+  - unit
+  - description
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_lodging_unit_description
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_lodging_unit_description
 type: Pred_Text
 ---

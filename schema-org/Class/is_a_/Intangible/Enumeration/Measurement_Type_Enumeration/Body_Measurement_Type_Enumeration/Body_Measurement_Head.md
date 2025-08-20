@@ -1,27 +1,28 @@
 ---
 aliases:
-- body-measurement-head
-- body_measurement_head
-- BodyMeasurementHead
-- is_a_body_measurement_head
+  - body-measurement-head
+  - body_measurement_head
+  - BodyMeasurementHead
+  - is_a_body_measurement_head
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- body_measurement_head
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_body_measurement_head Class"
+  - body_measurement_head
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_body_measurement_head Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_body_measurement_head Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_body_measurement_head Class
 type: Type
 ---
 

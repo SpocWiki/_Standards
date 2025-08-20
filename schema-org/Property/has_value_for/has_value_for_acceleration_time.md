@@ -1,25 +1,27 @@
 ---
 aliases:
-- acceleration_time
-- acceleration-time
-- accelerationTime
-- has_value_for_acceleration_time
+  - acceleration_time
+  - acceleration-time
+  - accelerationTime
+  - has_value_for_acceleration_time
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- acceleration-time
-layout: 
-license: "CC BY-SA 4.0"
+  - acceleration-time
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_acceleration-time
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_acceleration-time
 type: Predi_Quantity
 ---

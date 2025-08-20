@@ -1,27 +1,28 @@
 ---
 aliases:
-- free-return
-- free_return
-- FreeReturn
-- is_a_free_return
+  - free-return
+  - free_return
+  - FreeReturn
+  - is_a_free_return
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReturnFeesEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- free_return
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_free_return Class"
+  - free_return
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_free_return Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_free_return Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_free_return Class
 type: Type
 ---
 

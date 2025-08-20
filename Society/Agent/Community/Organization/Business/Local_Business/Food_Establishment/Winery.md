@@ -1,26 +1,27 @@
 ---
 aliases:
-- winery
-- winery
-- Winery
-- is_a_winery
+  - winery
+  - winery
+  - Winery
+  - is_a_winery
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- winery
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_winery Class"
+  - winery
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_winery Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_winery Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_winery Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- review-action
-- review_action
-- ReviewAction
-- is_a_review_action
+  - review-action
+  - review_action
+  - ReviewAction
+  - is_a_review_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- review_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_review_action Class"
+  - review_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_review_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_review_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_review_action Class
 type: Type
 ---
 

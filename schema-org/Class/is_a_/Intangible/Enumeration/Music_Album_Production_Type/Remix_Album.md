@@ -1,27 +1,28 @@
 ---
 aliases:
-- remix-album
-- remix_album
-- RemixAlbum
-- is_a_remix_album
+  - remix-album
+  - remix_album
+  - RemixAlbum
+  - is_a_remix_album
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- remix_album
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_remix_album Class"
+  - remix_album
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_remix_album Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_remix_album Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_remix_album Class
 type: Type
 ---
 

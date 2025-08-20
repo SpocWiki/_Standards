@@ -1,26 +1,27 @@
 ---
 aliases:
-- exercise-action
-- exercise_action
-- ExerciseAction
-- is_an_exercise_action
+  - exercise-action
+  - exercise_action
+  - ExerciseAction
+  - is_an_exercise_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- exercise_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_exercise_action Class"
+  - exercise_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_exercise_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_exercise_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_exercise_action Class
 type: Type
 ---
 

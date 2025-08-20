@@ -1,26 +1,28 @@
 ---
 aliases:
-- departure-terminal
-- departure_terminal
-- departureTerminal
-- has_text_of_departure_terminal
+  - departure-terminal
+  - departure_terminal
+  - departureTerminal
+  - has_text_of_departure_terminal
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- departure
-- terminal
-layout: 
-license: "CC BY-SA 4.0"
+  - departure
+  - terminal
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_departure_terminal
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_departure_terminal
 type: Pred_Text
 ---

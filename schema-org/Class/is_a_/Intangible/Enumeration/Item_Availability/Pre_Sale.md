@@ -1,27 +1,28 @@
 ---
 aliases:
-- pre-sale
-- pre_sale
-- PreSale
-- is_a_pre_sale
+  - pre-sale
+  - pre_sale
+  - PreSale
+  - is_a_pre_sale
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- pre_sale
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_pre_sale Class"
+  - pre_sale
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_pre_sale Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_pre_sale Class"
+  - class/Class
+  - schema-org/Class
+title: is_pre_sale Class
 type: Type
 ---
 

@@ -1,25 +1,27 @@
 ---
 aliases:
-- engine_power
-- engine-power
-- enginePower
-- has_value_for_engine_power_watt
+  - engine_power
+  - engine-power
+  - enginePower
+  - has_value_for_engine_power_watt
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- engine-power
-layout: 
-license: "CC BY-SA 4.0"
+  - engine-power
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_engine-power
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_engine-power
 type: Predi_Quantity
 ---

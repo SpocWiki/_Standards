@@ -1,27 +1,28 @@
 ---
 aliases:
-- tuesday
-- tuesday
-- Tuesday
-- is_a_tuesday
+  - tuesday
+  - tuesday
+  - Tuesday
+  - is_a_tuesday
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DayOfWeek
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tuesday
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_tuesday Class"
+  - tuesday
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_tuesday Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_tuesday Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_tuesday Class
 type: Type
 ---
 

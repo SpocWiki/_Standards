@@ -1,26 +1,28 @@
 ---
 aliases:
-- potential-action
-- potential_action
-- potentialAction
-- has_potential_action
+  - potential-action
+  - potential_action
+  - potentialAction
+  - has_potential_action
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- potential
-- action
-layout: 
-license: "CC BY-SA 4.0"
+  - potential
+  - action
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_potential_action
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_potential_action
 type: Predi_Relation
 ---

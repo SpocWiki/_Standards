@@ -1,26 +1,28 @@
 ---
 aliases:
-- nonprofit-status
-- nonprofit_status
-- nonprofitStatus
-- has_nonprofit_status
+  - nonprofit-status
+  - nonprofit_status
+  - nonprofitStatus
+  - has_nonprofit_status
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nonprofit
-- status
-layout: 
-license: "CC BY-SA 4.0"
+  - nonprofit
+  - status
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_nonprofit_status
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_nonprofit_status
 type: Predi_Relation
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- geo-midpoint
-- geo_midpoint
-- geoMidpoint
-- has_location_midpoint
+  - geo-midpoint
+  - geo_midpoint
+  - geoMidpoint
+  - has_location_midpoint
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- geo_midpoint
-layout: 
-license: "CC BY-SA 4.0"
+  - geo_midpoint
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_midpoint
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_midpoint
 type: Pred_geo
 ---

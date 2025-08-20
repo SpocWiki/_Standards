@@ -1,26 +1,28 @@
 ---
 aliases:
-- engine-type
-- engine_type
-- engineType
-- has_engine_type
+  - engine-type
+  - engine_type
+  - engineType
+  - has_engine_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- engine
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - engine
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_engine_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_engine_type
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- event-venue
-- event_venue
-- EventVenue
-- is_an_event_venue
+  - event-venue
+  - event_venue
+  - EventVenue
+  - is_an_event_venue
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- event_venue
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_event_venue Class"
+  - event_venue
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_event_venue Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_event_venue Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_event_venue Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- credit-card
-- credit_card
-- CreditCard
-- is_a_credit_card
+  - credit-card
+  - credit_card
+  - CreditCard
+  - is_a_credit_card
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- credit_card
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_credit_card Class"
+  - credit_card
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_credit_card Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_credit_card Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_credit_card Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- podiatric
-- podiatric
-- Podiatric
-- is_a_podiatric
+  - podiatric
+  - podiatric
+  - Podiatric
+  - is_a_podiatric
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- podiatric
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_podiatric Class"
+  - podiatric
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_podiatric Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_podiatric Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_podiatric Class
 type: Type
 ---
 

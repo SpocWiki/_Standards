@@ -1,26 +1,27 @@
 ---
 aliases:
-- nutrition-information
-- nutrition_information
-- NutritionInformation
-- is_a_nutrition_information
+  - nutrition-information
+  - nutrition_information
+  - NutritionInformation
+  - is_a_nutrition_information
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nutrition_information
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nutrition_information Class"
+  - nutrition_information
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nutrition_information Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nutrition_information Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nutrition_information Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- additional-variable
-- additional_variable
-- additionalVariable
-- has_text_of_additional_variable
+  - additional-variable
+  - additional_variable
+  - additionalVariable
+  - has_text_of_additional_variable
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- additional
-- variable
-layout: 
-license: "CC BY-SA 4.0"
+  - additional
+  - variable
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_additional_variable
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_additional_variable
 type: Pred_Text
 ---

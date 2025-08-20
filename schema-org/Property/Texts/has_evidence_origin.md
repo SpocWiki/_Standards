@@ -1,26 +1,28 @@
 ---
 aliases:
-- evidence-origin
-- evidence_origin
-- evidenceOrigin
-- has_text_of_evidence_origin
+  - evidence-origin
+  - evidence_origin
+  - evidenceOrigin
+  - has_text_of_evidence_origin
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- evidence
-- origin
-layout: 
-license: "CC BY-SA 4.0"
+  - evidence
+  - origin
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_evidence_origin
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_evidence_origin
 type: Pred_Text
 ---

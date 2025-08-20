@@ -92,7 +92,8 @@ coordinates_of_westernmost_point: Point(-73.98274899 -7.53472218)
 coordinate_location: Point(-53.0 -14.0)
 country: "[[_Standards/WikiData/WD~Brazil,155]]"
 country_calling_code: 55
-cssclasses: Country
+cssclasses:
+  - Country
 culture: "[[_Standards/WikiData/WD~culture_of_Brazil,2717920]]"
 Danbooru_tag: brazil
 death_rate: 8.139
@@ -259,7 +260,7 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~White_Brazilians,2995285]]"
   - "[[_Standards/WikiData/WD~Asian_Brazilians,3624751]]"
 executive_body: "[[_Standards/WikiData/WD~Federal_Government_of_Brazil,5440531]]"
-expiryDate: 
+expiryDate:
 external_data_available_at_URL: http://dados.gov.br
 female_population:
   - 108417015
@@ -307,7 +308,7 @@ ISO_3166_1_alpha_3_code: BRA
 ISO_3166_1_numeric_code: 76
 isReadOnly: false
 ITU_letter_code: B
-keywords: 
+keywords:
 Krugosvet_article: strany_mira/BRAZILIYA.html
 Languages:
   - pt-BR
@@ -538,13 +539,13 @@ language_used:
   - "[[_Standards/WikiData/WD~Bakairi,56846]]"
   - "[[_Standards/WikiData/WD~Waimiri-Atroarí,56865]]"
   - "[[_Standards/WikiData/WD~Tiriyó,56885]]"
-layout: 
+layout:
 legislative_body: "[[_Standards/WikiData/WD~National_Congress_of_Brazil,949699]]"
 Libris_URI: 31fhgvzm2hg6014
 licence_plate_code: BR
 license: CC BY-SA 4.0
 life_expectancy: 75.723
-linkTitle: 
+linkTitle:
 literacy_rate: 93.22
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_American_Plate,119490]]"
 located_in_or_next_to_body_of_water:
@@ -673,7 +674,7 @@ public_holiday:
   - http://www.wikidata.org/.well-known/genid/aa322070be920bef867957a77d8cd62e
   - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
 publish: true
-publishDate: 
+publishDate:
 replaces:
   - "[[_Standards/WikiData/WD~Empire_of_Brazil,217230]]"
   - "[[_Standards/WikiData/WD~Colonial_Brazil,2088324]]"

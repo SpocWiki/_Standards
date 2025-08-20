@@ -1,26 +1,27 @@
 ---
 aliases:
-- toy-store
-- toy_store
-- ToyStore
-- is_a_toy_store
+  - toy-store
+  - toy_store
+  - ToyStore
+  - is_a_toy_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- toy_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_toy_store Class"
+  - toy_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_toy_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_toy_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_toy_store Class
 type: Type
 ---
 

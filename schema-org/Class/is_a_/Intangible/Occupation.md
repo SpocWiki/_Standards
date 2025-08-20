@@ -1,26 +1,27 @@
 ---
 aliases:
-- occupation
-- occupation
-- Occupation
-- is_an_occupation
+  - occupation
+  - occupation
+  - Occupation
+  - is_an_occupation
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- occupation
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_occupation Class"
+  - occupation
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_occupation Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_occupation Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_occupation Class
 type: Type
 ---
 

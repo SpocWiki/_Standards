@@ -1,25 +1,27 @@
 ---
 aliases:
-- screen_count
-- screen-count
-- screenCount
-- has_number_of_screen_count
+  - screen_count
+  - screen-count
+  - screenCount
+  - has_number_of_screen_count
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- screen-count
-layout: 
-license: "CC BY-SA 4.0"
+  - screen-count
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_screen-count
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_screen-count
 type: Predi_Count
 ---

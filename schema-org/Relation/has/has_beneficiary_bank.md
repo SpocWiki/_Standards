@@ -1,26 +1,28 @@
 ---
 aliases:
-- beneficiary-bank
-- beneficiary_bank
-- beneficiaryBank
-- has_beneficiary_bank
+  - beneficiary-bank
+  - beneficiary_bank
+  - beneficiaryBank
+  - has_beneficiary_bank
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- beneficiary
-- bank
-layout: 
-license: "CC BY-SA 4.0"
+  - beneficiary
+  - bank
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_beneficiary_bank
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_beneficiary_bank
 type: Predi_Relation
 ---

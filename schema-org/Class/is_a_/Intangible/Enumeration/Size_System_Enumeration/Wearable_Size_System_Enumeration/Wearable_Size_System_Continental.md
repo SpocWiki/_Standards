@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-size-system-continental
-- wearable_size_system_continental
-- WearableSizeSystemContinental
-- is_a_wearable_size_system_continental
+  - wearable-size-system-continental
+  - wearable_size_system_continental
+  - WearableSizeSystemContinental
+  - is_a_wearable_size_system_continental
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableSizeSystemEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_size_system_continental
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_size_system_continental Class"
+  - wearable_size_system_continental
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_size_system_continental Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_size_system_continental Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_size_system_continental Class
 type: Type
 ---
 

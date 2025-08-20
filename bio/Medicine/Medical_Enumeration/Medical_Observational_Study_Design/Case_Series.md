@@ -1,27 +1,28 @@
 ---
 aliases:
-- case-series
-- case_series
-- CaseSeries
-- is_a_case_series
+  - case-series
+  - case_series
+  - CaseSeries
+  - is_a_case_series
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalObservationalStudyDesign
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- case_series
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_case_series Class"
+  - case_series
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_case_series Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_case_series Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_case_series Class
 type: Type
 ---
 

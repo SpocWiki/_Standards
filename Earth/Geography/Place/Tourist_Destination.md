@@ -1,26 +1,27 @@
 ---
 aliases:
-- tourist-destination
-- tourist_destination
-- TouristDestination
-- is_a_tourist_destination
+  - tourist-destination
+  - tourist_destination
+  - TouristDestination
+  - is_a_tourist_destination
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tourist_destination
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_tourist_destination Class"
+  - tourist_destination
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_tourist_destination Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_tourist_destination Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_tourist_destination Class
 type: Type
 ---
 

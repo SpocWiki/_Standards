@@ -1,27 +1,28 @@
 ---
 aliases:
-- western-conventional
-- western_conventional
-- WesternConventional
-- is_a_western_conventional
+  - western-conventional
+  - western_conventional
+  - WesternConventional
+  - is_a_western_conventional
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicineSystem
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- western_conventional
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_western_conventional Class"
+  - western_conventional
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_western_conventional Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_western_conventional Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_western_conventional Class
 type: Type
 ---
 

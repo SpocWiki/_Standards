@@ -1,27 +1,28 @@
 ---
 aliases:
-- taxi-vehicle-usage
-- taxi_vehicle_usage
-- TaxiVehicleUsage
-- is_a_taxi_vehicle_usage
+  - taxi-vehicle-usage
+  - taxi_vehicle_usage
+  - TaxiVehicleUsage
+  - is_a_taxi_vehicle_usage
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: CarUsageType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- taxi_vehicle_usage
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_taxi_vehicle_usage Class"
+  - taxi_vehicle_usage
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_taxi_vehicle_usage Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_taxi_vehicle_usage Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_taxi_vehicle_usage Class
 type: Type
 ---
 

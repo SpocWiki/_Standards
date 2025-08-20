@@ -1,27 +1,28 @@
 ---
 aliases:
-- nonprofit501c25
-- nonprofit501c25
-- Nonprofit501c25
-- is_a_nonprofit501c25
+  - nonprofit501c25
+  - nonprofit501c25
+  - Nonprofit501c25
+  - is_a_nonprofit501c25
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nonprofit501c25
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nonprofit501c25 Class"
+  - nonprofit501c25
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nonprofit501c25 Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nonprofit501c25 Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nonprofit501c25 Class
 type: Type
 ---
 

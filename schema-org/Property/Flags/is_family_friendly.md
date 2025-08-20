@@ -1,25 +1,27 @@
 ---
 aliases:
-- family-friendly
-- family_friendly
-- isFamilyFriendly
-- is_family_friendly
+  - family-friendly
+  - family_friendly
+  - isFamilyFriendly
+  - is_family_friendly
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- family_friendly
-layout: 
-license: "CC BY-SA 4.0"
+  - family_friendly
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_family_friendly
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_family_friendly
 type: Pred_Bool
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- eligible-region
-- eligible_region
-- eligibleRegion
-- has_location_eligible_region
+  - eligible-region
+  - eligible_region
+  - eligibleRegion
+  - has_location_eligible_region
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- eligible_region
-layout: 
-license: "CC BY-SA 4.0"
+  - eligible_region
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_eligible_region
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_eligible_region
 type: Pred_geo
 ---

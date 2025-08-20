@@ -1,28 +1,30 @@
 ---
 aliases:
-- eligibility-to-work-requirement
-- eligibility_to_work_requirement
-- eligibilityToWorkRequirement
-- has_text_of_eligibility_to_work_requirement
+  - eligibility-to-work-requirement
+  - eligibility_to_work_requirement
+  - eligibilityToWorkRequirement
+  - has_text_of_eligibility_to_work_requirement
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- eligibility
-- to
-- work
-- requirement
-layout: 
-license: "CC BY-SA 4.0"
+  - eligibility
+  - to
+  - work
+  - requirement
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_eligibility_to_work_requirement
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_eligibility_to_work_requirement
 type: Pred_Text
 ---

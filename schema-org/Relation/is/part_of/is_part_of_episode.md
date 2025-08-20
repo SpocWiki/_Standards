@@ -1,27 +1,29 @@
 ---
 aliases:
-- part-of-episode
-- part_of_episode
-- partOfEpisode
-- is_part_of_episode
+  - part-of-episode
+  - part_of_episode
+  - partOfEpisode
+  - is_part_of_episode
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- part
-- of
-- episode
-layout: 
-license: "CC BY-SA 4.0"
+  - part
+  - of
+  - episode
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_part_of_episode
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_part_of_episode
 type: Predi_Relation
 ---

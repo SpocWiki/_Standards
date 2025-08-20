@@ -1,25 +1,27 @@
 ---
 aliases:
-- service-postal-address
-- service_postal_address
-- servicePostalAddress
-- has_location_address_postal_service
+  - service-postal-address
+  - service_postal_address
+  - servicePostalAddress
+  - has_location_address_postal_service
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- service_postal_address
-layout: 
-license: "CC BY-SA 4.0"
+  - service_postal_address
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_address_postal_service
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_address_postal_service
 type: Pred_geo
 ---

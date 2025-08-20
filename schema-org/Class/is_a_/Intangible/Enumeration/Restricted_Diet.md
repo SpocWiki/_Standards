@@ -1,26 +1,27 @@
 ---
 aliases:
-- restricted-diet
-- restricted_diet
-- RestrictedDiet
-- is_a_restricted_diet
+  - restricted-diet
+  - restricted_diet
+  - RestrictedDiet
+  - is_a_restricted_diet
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- restricted_diet
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_restricted_diet Class"
+  - restricted_diet
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_restricted_diet Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_restricted_diet Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_restricted_diet Class
 type: Type
 ---
 

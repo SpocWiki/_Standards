@@ -1,26 +1,27 @@
 ---
 aliases:
-- manuscript
-- manuscript
-- Manuscript
-- is_a_manuscript
+  - manuscript
+  - manuscript
+  - Manuscript
+  - is_a_manuscript
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- manuscript
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_manuscript Class"
+  - manuscript
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_manuscript Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_manuscript Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_manuscript Class
 type: Type
 ---
 

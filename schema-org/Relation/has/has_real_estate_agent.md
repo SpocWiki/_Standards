@@ -1,27 +1,29 @@
 ---
 aliases:
-- real-estate-agent
-- real_estate_agent
-- realEstateAgent
-- has_real_estate_agent
+  - real-estate-agent
+  - real_estate_agent
+  - realEstateAgent
+  - has_real_estate_agent
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- real
-- estate
-- agent
-layout: 
-license: "CC BY-SA 4.0"
+  - real
+  - estate
+  - agent
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_real_estate_agent
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_real_estate_agent
 type: Predi_Relation
 ---

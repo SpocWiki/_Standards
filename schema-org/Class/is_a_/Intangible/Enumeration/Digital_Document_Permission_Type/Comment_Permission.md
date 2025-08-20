@@ -1,28 +1,29 @@
 ---
 aliases:
-- comment-permission
-- comment_permission
-- CommentPermission
-- is_a_comment_permission
-- Contributor_role
+  - comment-permission
+  - comment_permission
+  - CommentPermission
+  - is_a_comment_permission
+  - Contributor_role
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DigitalDocumentPermissionType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- comment_permission
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_comment_permission Class"
+  - comment_permission
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_comment_permission Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_comment_permission Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_comment_permission Class
 type: Type
 ---
 

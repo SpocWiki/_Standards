@@ -1,26 +1,27 @@
 ---
 aliases:
-- quantitative-value-distribution
-- quantitative_value_distribution
-- QuantitativeValueDistribution
-- is_a_quantitative_value_distribution
+  - quantitative-value-distribution
+  - quantitative_value_distribution
+  - QuantitativeValueDistribution
+  - is_a_quantitative_value_distribution
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- quantitative_value_distribution
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_quantitative_value_distribution Class"
+  - quantitative_value_distribution
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_quantitative_value_distribution Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_quantitative_value_distribution Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_quantitative_value_distribution Class
 type: Type
 ---
 

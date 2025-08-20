@@ -1,26 +1,27 @@
 ---
 aliases:
-- recommendation
-- recommendation
-- Recommendation
-- is_a_recommendation
+  - recommendation
+  - recommendation
+  - Recommendation
+  - is_a_recommendation
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- recommendation
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_recommendation Class"
+  - recommendation
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_recommendation Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_recommendation Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_recommendation Class
 type: Type
 ---
 

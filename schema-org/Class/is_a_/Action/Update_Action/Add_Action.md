@@ -1,26 +1,27 @@
 ---
 aliases:
-- add-action
-- add_action
-- AddAction
-- is_an_add_action
+  - add-action
+  - add_action
+  - AddAction
+  - is_an_add_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- add_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_add_action Class"
+  - add_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_add_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_add_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_add_action Class
 type: Type
 ---
 

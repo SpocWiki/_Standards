@@ -1,26 +1,27 @@
 ---
 aliases:
-- reserve-action
-- reserve_action
-- ReserveAction
-- is_a_reserve_action
+  - reserve-action
+  - reserve_action
+  - ReserveAction
+  - is_a_reserve_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reserve_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_reserve_action Class"
+  - reserve_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_reserve_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_reserve_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_reserve_action Class
 type: Type
 ---
 

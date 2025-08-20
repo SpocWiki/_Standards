@@ -1,26 +1,27 @@
 ---
 aliases:
-- television-station
-- television_station
-- TelevisionStation
-- is_a_television_station
+  - television-station
+  - television_station
+  - TelevisionStation
+  - is_a_television_station
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- television_station
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_television_station Class"
+  - television_station
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_television_station Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_television_station Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_television_station Class
 type: Type
 ---
 

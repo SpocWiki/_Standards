@@ -1,26 +1,28 @@
 ---
 aliases:
-- processor-requirements
-- processor_requirements
-- processorRequirements
-- has_text_of_processor_requirements
+  - processor-requirements
+  - processor_requirements
+  - processorRequirements
+  - has_text_of_processor_requirements
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- processor
-- requirements
-layout: 
-license: "CC BY-SA 4.0"
+  - processor
+  - requirements
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_processor_requirements
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_processor_requirements
 type: Pred_Text
 ---

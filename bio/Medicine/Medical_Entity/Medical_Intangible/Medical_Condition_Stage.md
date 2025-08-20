@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-condition-stage
-- medical_condition_stage
-- MedicalConditionStage
-- is_a_medical_condition_stage
+  - medical-condition-stage
+  - medical_condition_stage
+  - MedicalConditionStage
+  - is_a_medical_condition_stage
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_condition_stage
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_condition_stage Class"
+  - medical_condition_stage
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_condition_stage Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_condition_stage Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_condition_stage Class
 type: Type
 ---
 

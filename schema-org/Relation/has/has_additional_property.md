@@ -1,26 +1,28 @@
 ---
 aliases:
-- additional-property
-- additional_property
-- additionalProperty
-- has_additional_property
+  - additional-property
+  - additional_property
+  - additionalProperty
+  - has_additional_property
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- additional
-- property
-layout: 
-license: "CC BY-SA 4.0"
+  - additional
+  - property
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_additional_property
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_additional_property
 type: Predi_Relation
 ---

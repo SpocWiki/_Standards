@@ -1,27 +1,28 @@
 ---
 aliases:
-- nonprofit501c22
-- nonprofit501c22
-- Nonprofit501c22
-- is_a_nonprofit501c22
+  - nonprofit501c22
+  - nonprofit501c22
+  - Nonprofit501c22
+  - is_a_nonprofit501c22
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nonprofit501c22
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nonprofit501c22 Class"
+  - nonprofit501c22
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nonprofit501c22 Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nonprofit501c22 Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nonprofit501c22 Class
 type: Type
 ---
 

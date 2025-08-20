@@ -1,27 +1,28 @@
 ---
 aliases:
-- gynecologic
-- gynecologic
-- Gynecologic
-- is_a_gynecologic
+  - gynecologic
+  - gynecologic
+  - Gynecologic
+  - is_a_gynecologic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- gynecologic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_gynecologic Class"
+  - gynecologic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_gynecologic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_gynecologic Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_gynecologic Class
 type: Type
 ---
 

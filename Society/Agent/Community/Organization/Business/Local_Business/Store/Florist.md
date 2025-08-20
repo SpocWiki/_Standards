@@ -1,26 +1,27 @@
 ---
 aliases:
-- florist
-- florist
-- Florist
-- is_a_florist
+  - florist
+  - florist
+  - Florist
+  - is_a_florist
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- florist
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_florist Class"
+  - florist
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_florist Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_florist Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_florist Class
 type: Type
 ---
 

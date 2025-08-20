@@ -1,26 +1,27 @@
 ---
 aliases:
-- day-of-week
-- day_of_week
-- DayOfWeek
-- is_a_day_of_week
+  - day-of-week
+  - day_of_week
+  - DayOfWeek
+  - is_a_day_of_week
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- day_of_week
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_day_of_week Class"
+  - day_of_week
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_day_of_week Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_day_of_week Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_day_of_week Class
 type: Type
 ---
 

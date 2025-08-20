@@ -1,27 +1,29 @@
 ---
 aliases:
-- media-item-appearance
-- media_item_appearance
-- mediaItemAppearance
-- has_media_item_appearance
+  - media-item-appearance
+  - media_item_appearance
+  - mediaItemAppearance
+  - has_media_item_appearance
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- media
-- item
-- appearance
-layout: 
-license: "CC BY-SA 4.0"
+  - media
+  - item
+  - appearance
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_media_item_appearance
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_media_item_appearance
 type: Predi_Relation
 ---

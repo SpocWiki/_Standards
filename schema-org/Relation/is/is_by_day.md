@@ -1,26 +1,28 @@
 ---
 aliases:
-- by-day
-- by_day
-- byDay
-- is_by_day
+  - by-day
+  - by_day
+  - byDay
+  - is_by_day
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- by
-- day
-layout: 
-license: "CC BY-SA 4.0"
+  - by
+  - day
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_by_day
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_by_day
 type: Predi_Relation
 ---

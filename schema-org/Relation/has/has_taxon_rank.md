@@ -1,26 +1,28 @@
 ---
 aliases:
-- taxon-rank
-- taxon_rank
-- taxonRank
-- has_taxon_rank
+  - taxon-rank
+  - taxon_rank
+  - taxonRank
+  - has_taxon_rank
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- taxon
-- rank
-layout: 
-license: "CC BY-SA 4.0"
+  - taxon
+  - rank
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_taxon_rank
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_taxon_rank
 type: Predi_Relation
 ---

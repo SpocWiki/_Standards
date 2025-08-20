@@ -1,27 +1,29 @@
 ---
 aliases:
-- eligible-customer-type
-- eligible_customer_type
-- eligibleCustomerType
-- has_eligible_customer_type
+  - eligible-customer-type
+  - eligible_customer_type
+  - eligibleCustomerType
+  - has_eligible_customer_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- eligible
-- customer
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - eligible
+  - customer
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_eligible_customer_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_eligible_customer_type
 type: Predi_Relation
 ---

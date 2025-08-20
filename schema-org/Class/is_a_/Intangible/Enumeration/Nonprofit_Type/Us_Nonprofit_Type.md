@@ -1,26 +1,27 @@
 ---
 aliases:
-- us-nonprofit-type
-- us_nonprofit_type
-- USNonprofitType
-- is_a_us_nonprofit_type
+  - us-nonprofit-type
+  - us_nonprofit_type
+  - USNonprofitType
+  - is_a_us_nonprofit_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- us_nonprofit_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_us_nonprofit_type Class"
+  - us_nonprofit_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_us_nonprofit_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_us_nonprofit_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_us_nonprofit_type Class
 type: Type
 ---
 

@@ -1,27 +1,29 @@
 ---
 aliases:
-- lesser-or-equal
-- lesser_or_equal
-- lesserOrEqual
-- is_lesser_or_equal_to
+  - lesser-or-equal
+  - lesser_or_equal
+  - lesserOrEqual
+  - is_lesser_or_equal_to
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- lesser
-- or
-- equal
-layout: 
-license: "CC BY-SA 4.0"
+  - lesser
+  - or
+  - equal
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_lesser_or_equal_to
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_lesser_or_equal_to
 type: Predi_Relation
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- estimated_cost
-- estimated-cost
-- estimatedCost
-- has_value_for_estimated_cost
+  - estimated_cost
+  - estimated-cost
+  - estimatedCost
+  - has_value_for_estimated_cost
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- estimated-cost
-layout: 
-license: "CC BY-SA 4.0"
+  - estimated-cost
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_estimated-cost
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_estimated-cost
 type: Predi_Quantity
 ---

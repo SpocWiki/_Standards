@@ -1,25 +1,27 @@
 ---
 aliases:
-- wheelbase
-- wheelbase
-- wheelbase
-- has_value_for_wheelbase
+  - wheelbase
+  - wheelbase
+  - wheelbase
+  - has_value_for_wheelbase
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wheelbase
-layout: 
-license: "CC BY-SA 4.0"
+  - wheelbase
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_wheelbase
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_wheelbase
 type: Predi_Quantity
 ---

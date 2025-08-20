@@ -1,25 +1,27 @@
 ---
 aliases:
-- estimated_salary
-- estimated-salary
-- estimatedSalary
-- has_value_for_estimated_salary
+  - estimated_salary
+  - estimated-salary
+  - estimatedSalary
+  - has_value_for_estimated_salary
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- estimated-salary
-layout: 
-license: "CC BY-SA 4.0"
+  - estimated-salary
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_estimated-salary
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_estimated-salary
 type: Predi_Quantity
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- net_worth
-- net-worth
-- netWorth
-- has_value_for_net_worth
+  - net_worth
+  - net-worth
+  - netWorth
+  - has_value_for_net_worth
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- net-worth
-layout: 
-license: "CC BY-SA 4.0"
+  - net-worth
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_net-worth
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_net-worth
 type: Predi_Quantity
 ---

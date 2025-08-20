@@ -1,26 +1,27 @@
 ---
 aliases:
-- hotel-room
-- hotel_room
-- HotelRoom
-- is_a_hotel_room
+  - hotel-room
+  - hotel_room
+  - HotelRoom
+  - is_a_hotel_room
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hotel_room
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hotel_room Class"
+  - hotel_room
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hotel_room Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hotel_room Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hotel_room Class
 type: Type
 ---
 

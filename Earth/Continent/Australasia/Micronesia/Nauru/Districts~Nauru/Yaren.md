@@ -1,36 +1,37 @@
 ---
 aliases:
-- Yaren
+  - Yaren
 confidential: public
-cssclasses: geo-Region
+cssclasses:
+  - geo-Region
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords:
 Languages:
-- de
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - de
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 location:
-- -0.5477778
-- 166.9208
+  - -0.5477778
+  - 166.9208
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate:
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 36745
 tags:
-- geo/City
-- geo/Country/Region
+  - geo/City
+  - geo/Country/Region
 title: Yaren
 type:
-- City
-- geo-Region
+  - City
+  - geo-Region
 ---
 
 #is_a_/Place  

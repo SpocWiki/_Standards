@@ -1,25 +1,27 @@
 ---
 aliases:
-- customer
-- customer
-- customer
-- has_customer
+  - customer
+  - customer
+  - customer
+  - has_customer
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- customer
-layout: 
-license: "CC BY-SA 4.0"
+  - customer
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_customer
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_customer
 type: Predi_Relation
 ---

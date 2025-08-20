@@ -1,25 +1,27 @@
 ---
 aliases:
-- number_of_accommodation_units
-- number-of-accommodation-units
-- numberOfAccommodationUnits
-- has_number_of_accommodation_units
+  - number_of_accommodation_units
+  - number-of-accommodation-units
+  - numberOfAccommodationUnits
+  - has_number_of_accommodation_units
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- number-of-accommodation-units
-layout: 
-license: "CC BY-SA 4.0"
+  - number-of-accommodation-units
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-accommodation-units
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_number-of-accommodation-units
 type: Predi_Count
 ---

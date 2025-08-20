@@ -1,25 +1,27 @@
 ---
 aliases:
-- borrower
-- borrower
-- borrower
-- has_borrower
+  - borrower
+  - borrower
+  - borrower
+  - has_borrower
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- borrower
-layout: 
-license: "CC BY-SA 4.0"
+  - borrower
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_borrower
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_borrower
 type: Predi_Relation
 ---

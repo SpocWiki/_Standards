@@ -1,26 +1,28 @@
 ---
 aliases:
-- rating-explanation
-- rating_explanation
-- ratingExplanation
-- has_text_of_rating_explanation
+  - rating-explanation
+  - rating_explanation
+  - ratingExplanation
+  - has_text_of_rating_explanation
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rating
-- explanation
-layout: 
-license: "CC BY-SA 4.0"
+  - rating
+  - explanation
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_rating_explanation
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_rating_explanation
 type: Pred_Text
 ---

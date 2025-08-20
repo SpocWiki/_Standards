@@ -1,26 +1,28 @@
 ---
 aliases:
-- code-value
-- code_value
-- codeValue
-- has_code_value
+  - code-value
+  - code_value
+  - codeValue
+  - has_code_value
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- code
-- value
-layout: 
-license: "CC BY-SA 4.0"
+  - code
+  - value
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_code_value
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_code_value
 type: Pred_Text
 ---

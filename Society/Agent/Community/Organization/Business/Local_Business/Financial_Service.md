@@ -1,26 +1,27 @@
 ---
 aliases:
-- financial-service
-- financial_service
-- FinancialService
-- is_a_financial_service
+  - financial-service
+  - financial_service
+  - FinancialService
+  - is_a_financial_service
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- financial_service
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_financial_service Class"
+  - financial_service
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_financial_service Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_financial_service Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_financial_service Class
 type: Type
 ---
 

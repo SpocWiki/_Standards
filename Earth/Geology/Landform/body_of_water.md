@@ -1,26 +1,27 @@
 ---
 aliases:
-- body-of-water
-- body_of_water
-- BodyOfWater
-- is_a_body_of_water
+  - body-of-water
+  - body_of_water
+  - BodyOfWater
+  - is_a_body_of_water
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- body_of_water
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_body_of_water Class"
+  - body_of_water
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_body_of_water Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_body_of_water Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_body_of_water Class
 type: Type
 ---
 

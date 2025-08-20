@@ -1,25 +1,27 @@
 ---
 aliases:
-- is-different-from
-- different_from
-- isDifferentFrom
-- is_different_from
-- owl~differentFrom
+  - is-different-from
+  - different_from
+  - isDifferentFrom
+  - is_different_from
+  - owl~differentFrom
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_different_from
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_different_from
 type: Predi_Relation
 ---

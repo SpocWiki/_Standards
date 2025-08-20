@@ -1,27 +1,28 @@
 ---
 aliases:
-- alcohol-consideration
-- alcohol_consideration
-- AlcoholConsideration
-- is_an_alcohol_consideration
+  - alcohol-consideration
+  - alcohol_consideration
+  - AlcoholConsideration
+  - is_an_alcohol_consideration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: AdultOrientedEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- alcohol_consideration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_alcohol_consideration Class"
+  - alcohol_consideration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_alcohol_consideration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_alcohol_consideration Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_alcohol_consideration Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- start-offset
-- start_offset
-- startOffset
-- has_start_offset
+  - start-offset
+  - start_offset
+  - startOffset
+  - has_start_offset
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- start
-- offset
-layout: 
-license: "CC BY-SA 4.0"
+  - start
+  - offset
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_start_offset
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_start_offset
 type: Predi_Relation
 ---

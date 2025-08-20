@@ -1,27 +1,28 @@
 ---
 aliases:
-- how-it-works-health-aspect
-- how_it_works_health_aspect
-- HowItWorksHealthAspect
-- is_a_how_it_works_health_aspect
+  - how-it-works-health-aspect
+  - how_it_works_health_aspect
+  - HowItWorksHealthAspect
+  - is_a_how_it_works_health_aspect
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- how_it_works_health_aspect
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_how_it_works_health_aspect Class"
+  - how_it_works_health_aspect
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_how_it_works_health_aspect Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_how_it_works_health_aspect Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_how_it_works_health_aspect Class
 type: Type
 ---
 

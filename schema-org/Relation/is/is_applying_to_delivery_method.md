@@ -1,24 +1,26 @@
 ---
 aliases:
-- applies-to-delivery-method
-- applying_to_delivery_method
-- appliesToDeliveryMethod
-- is_applying_to_delivery_method
+  - applies-to-delivery-method
+  - applying_to_delivery_method
+  - appliesToDeliveryMethod
+  - is_applying_to_delivery_method
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_applying_to_delivery_method
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_applying_to_delivery_method
 type: Predi_Relation
 ---

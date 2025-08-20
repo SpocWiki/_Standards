@@ -1,27 +1,28 @@
 ---
 aliases:
-- nursing
-- nursing
-- Nursing
-- is_a_nursing
+  - nursing
+  - nursing
+  - Nursing
+  - is_a_nursing
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nursing
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nursing Class"
+  - nursing
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nursing Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nursing Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nursing Class
 type: Type
 ---
 

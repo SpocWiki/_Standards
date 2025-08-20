@@ -1,24 +1,26 @@
 ---
 aliases:
-- expected-arrival-from
-- expected_arrival_from
-- expectedArrivalFrom
-- has_time_of_expected_arrival_from
+  - expected-arrival-from
+  - expected_arrival_from
+  - expectedArrivalFrom
+  - has_time_of_expected_arrival_from
 confidential: public
-cssclasses: "Predicate Date_Time"
+cssclasses:
+  - Predicate
+  - Date_Time
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+keywords:
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Date
+  - class/Property
+  - schema-org/Property/Date
 title: has_time_of_expected_arrival_from
 type: Predi_Date_Time
 ---

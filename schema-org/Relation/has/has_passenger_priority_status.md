@@ -1,27 +1,29 @@
 ---
 aliases:
-- passenger-priority-status
-- passenger_priority_status
-- passengerPriorityStatus
-- has_passenger_priority_status
+  - passenger-priority-status
+  - passenger_priority_status
+  - passengerPriorityStatus
+  - has_passenger_priority_status
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- passenger
-- priority
-- status
-layout: 
-license: "CC BY-SA 4.0"
+  - passenger
+  - priority
+  - status
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_passenger_priority_status
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_passenger_priority_status
 type: Predi_Relation
 ---

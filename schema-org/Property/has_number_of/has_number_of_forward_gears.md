@@ -1,25 +1,27 @@
 ---
 aliases:
-- number_of_forward_gears
-- number-of-forward-gears
-- numberOfForwardGears
-- has_number_of_forward_gears
+  - number_of_forward_gears
+  - number-of-forward-gears
+  - numberOfForwardGears
+  - has_number_of_forward_gears
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- number-of-forward-gears
-layout: 
-license: "CC BY-SA 4.0"
+  - number-of-forward-gears
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-forward-gears
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_number-of-forward-gears
 type: Predi_Count
 ---

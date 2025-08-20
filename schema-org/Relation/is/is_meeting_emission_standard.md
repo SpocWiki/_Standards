@@ -1,27 +1,29 @@
 ---
 aliases:
-- meets-emission-standard
-- meeting_emission_standard
-- meetsEmissionStandard
-- is_meeting_emission_standard
+  - meets-emission-standard
+  - meeting_emission_standard
+  - meetsEmissionStandard
+  - is_meeting_emission_standard
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- meets
-- emission
-- standard
-layout: 
-license: "CC BY-SA 4.0"
+  - meets
+  - emission
+  - standard
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_meeting_emission_standard
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_meeting_emission_standard
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- bowling-alley
-- bowling_alley
-- BowlingAlley
-- is_a_bowling_alley
+  - bowling-alley
+  - bowling_alley
+  - BowlingAlley
+  - is_a_bowling_alley
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bowling_alley
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_bowling_alley Class"
+  - bowling_alley
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_bowling_alley Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_bowling_alley Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_bowling_alley Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- apartment-complex
-- apartment_complex
-- ApartmentComplex
-- is_an_apartment_complex
+  - apartment-complex
+  - apartment_complex
+  - ApartmentComplex
+  - is_an_apartment_complex
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- apartment_complex
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_apartment_complex Class"
+  - apartment_complex
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_apartment_complex Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_apartment_complex Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_apartment_complex Class
 type: Type
 ---
 

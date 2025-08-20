@@ -1,26 +1,28 @@
 ---
 aliases:
-- icao-code
-- code_icao
-- icaoCode
-- has_code_icao
+  - icao-code
+  - code_icao
+  - icaoCode
+  - has_code_icao
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- icao
-- code
-layout: 
-license: "CC BY-SA 4.0"
+  - icao
+  - code
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_code_icao
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_code_icao
 type: Pred_Text
 ---

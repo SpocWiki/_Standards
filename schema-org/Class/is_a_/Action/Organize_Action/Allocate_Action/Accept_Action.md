@@ -1,26 +1,27 @@
 ---
 aliases:
-- accept-action
-- accept_action
-- AcceptAction
-- is_an_accept_action
+  - accept-action
+  - accept_action
+  - AcceptAction
+  - is_an_accept_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- accept_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_accept_action Class"
+  - accept_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_accept_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_accept_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_accept_action Class
 type: Type
 ---
 

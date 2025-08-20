@@ -1,25 +1,27 @@
 ---
 aliases:
-- billing_increment
-- billing-increment
-- billingIncrement
-- has_value_for_billing_increment
+  - billing_increment
+  - billing-increment
+  - billingIncrement
+  - has_value_for_billing_increment
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- billing-increment
-layout: 
-license: "CC BY-SA 4.0"
+  - billing-increment
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_billing-increment
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_billing-increment
 type: Predi_Quantity
 ---

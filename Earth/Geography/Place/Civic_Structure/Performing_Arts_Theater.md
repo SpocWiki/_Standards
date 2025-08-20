@@ -1,26 +1,27 @@
 ---
 aliases:
-- performing-arts-theater
-- performing_arts_theater
-- PerformingArtsTheater
-- is_a_performing_arts_theater
+  - performing-arts-theater
+  - performing_arts_theater
+  - PerformingArtsTheater
+  - is_a_performing_arts_theater
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- performing_arts_theater
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_performing_arts_theater Class"
+  - performing_arts_theater
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_performing_arts_theater Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_performing_arts_theater Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_performing_arts_theater Class
 type: Type
 ---
 

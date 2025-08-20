@@ -1,26 +1,27 @@
 ---
 aliases:
-- radiation-therapy
-- radiation_therapy
-- RadiationTherapy
-- is_a_radiation_therapy
+  - radiation-therapy
+  - radiation_therapy
+  - RadiationTherapy
+  - is_a_radiation_therapy
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- radiation_therapy
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_radiation_therapy Class"
+  - radiation_therapy
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_radiation_therapy Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_radiation_therapy Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_radiation_therapy Class
 type: Type
 ---
 

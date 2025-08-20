@@ -1,29 +1,31 @@
 ---
 aliases:
-- Population-Groups
-- 
+  - Population-Groups
+  - 
 confidential: private
-cssclasses: "private note"
+cssclasses:
+  - private
+  - note
 draft: true
-expiryDate: 
+expiryDate:
 has_time_started: 2024-02-04
 isDeleted: false
 isReadOnly: false
 Key: Value
 keywords:
-- Population-Groups
+  - Population-Groups
 lang: en
-layout: 
+layout:
 license: (c)copyrighted
 linkTitle: Population-Groups
-Predicate: '[[Object]]'
+Predicate: "[[Object]]"
 publish: false
-publishDate: 
+publishDate:
 tags:
-- Population-Groups
-- "rather use"
+  - Population-Groups
+  - rather use
 title: Population-Groups
-type: "private note"
+type: private note
 ---
 
 # [[Population-Groups]] 

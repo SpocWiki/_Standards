@@ -1,26 +1,28 @@
 ---
 aliases:
-- complement-of
-- complement_of
-- is_complement_of
-- is_opposite_to
-- is_opposite_of
-- is_negation_of
+  - complement-of
+  - complement_of
+  - is_complement_of
+  - is_opposite_to
+  - is_opposite_of
+  - is_negation_of
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_complement_of
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_complement_of
 type: Predi_Relation
 ---

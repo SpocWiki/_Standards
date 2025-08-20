@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-cause
-- medical_cause
-- MedicalCause
-- is_a_medical_cause
+  - medical-cause
+  - medical_cause
+  - MedicalCause
+  - is_a_medical_cause
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_cause
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_cause Class"
+  - medical_cause
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_cause Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_cause Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_cause Class
 type: Type
 ---
 

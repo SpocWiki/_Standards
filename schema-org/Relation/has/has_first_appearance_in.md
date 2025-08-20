@@ -1,26 +1,28 @@
 ---
 aliases:
-- first-appearance
-- first_appearance
-- firstAppearance
-- has_first_appearance_in
+  - first-appearance
+  - first_appearance
+  - firstAppearance
+  - has_first_appearance_in
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- first
-- appearance
-layout: 
-license: "CC BY-SA 4.0"
+  - first
+  - appearance
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_first_appearance_in
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_first_appearance_in
 type: Predi_Relation
 ---

@@ -1,28 +1,29 @@
 ---
 aliases:
-- dermatology
-- dermatology
-- Dermatology
-- is_a_dermatology
+  - dermatology
+  - dermatology
+  - Dermatology
+  - is_a_dermatology
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dermatology
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_dermatology Class"
+  - dermatology
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_dermatology Class
 publish: true
-publishDate: 
+publishDate:
 supersedes: Dermatologic
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_dermatology Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_dermatology Class
 type: Type
 ---
 

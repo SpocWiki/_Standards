@@ -1,27 +1,28 @@
 ---
 aliases:
-- gastroenterologic
-- gastroenterologic
-- Gastroenterologic
-- is_a_gastroenterologic
+  - gastroenterologic
+  - gastroenterologic
+  - Gastroenterologic
+  - is_a_gastroenterologic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- gastroenterologic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_gastroenterologic Class"
+  - gastroenterologic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_gastroenterologic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_gastroenterologic Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_gastroenterologic Class
 type: Type
 ---
 

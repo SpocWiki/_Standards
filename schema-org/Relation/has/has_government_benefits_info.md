@@ -1,27 +1,29 @@
 ---
 aliases:
-- government-benefits-info
-- government_benefits_info
-- governmentBenefitsInfo
-- has_government_benefits_info
+  - government-benefits-info
+  - government_benefits_info
+  - governmentBenefitsInfo
+  - has_government_benefits_info
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- government
-- benefits
-- info
-layout: 
-license: "CC BY-SA 4.0"
+  - government
+  - benefits
+  - info
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_government_benefits_info
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_government_benefits_info
 type: Predi_Relation
 ---

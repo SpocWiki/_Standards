@@ -1,27 +1,28 @@
 ---
 aliases:
-- surgical
-- surgical
-- Surgical
-- is_a_surgical
+  - surgical
+  - surgical
+  - Surgical
+  - is_a_surgical
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- surgical
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_surgical Class"
+  - surgical
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_surgical Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_surgical Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_surgical Class
 type: Type
 ---
 

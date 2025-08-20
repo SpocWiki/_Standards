@@ -1,26 +1,28 @@
 ---
 aliases:
-- episode
-- episode
-- episode
-- has_episode
+  - episode
+  - episode
+  - episode
+  - has_episode
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- episode
-layout: 
-license: "CC BY-SA 4.0"
+  - episode
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_episode
 publish: true
-publishDate: 
+publishDate:
 supersedes: episodes
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_episode
 type: Predi_Relation
 ---
