@@ -1,6 +1,6 @@
 - Member:: [[Police(Band)/Sting(musician)]], [[Copeland,Stuart]], [[Summers,Andy]] 
 
-#is_/instance_of :: [[../../../../../Agent/Organization/Performing_Group/Music_Group|MusicGroup]] 
+#is_/instance_of :: [[../../../../../Agent/Community/Organization/Performing_Group/Music_Group|MusicGroup]] 
 
 #has_/time_/started :: 1977-06-01 
 #has_/time_/stopped  :: 1986-06-01 

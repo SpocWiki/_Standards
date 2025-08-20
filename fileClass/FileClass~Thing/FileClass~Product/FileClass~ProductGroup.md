@@ -38,7 +38,7 @@ version: 2.0
 # ProductGroup
 This is a kind of [[FileClass~Product]]
 
-A ProductGroup represents a group of [[../../../Society/Agent/Organization/Business/Product]]s that vary only in certain well-described ways, such as by [[size][[../../../bio/Psychology/Color]]]]],[[../../../Chemistry/Material]]] etc.  
+A ProductGroup represents a group of [[../../../Society/Agent/Community/Organization/Business/Product]]s that vary only in certain well-described ways, such as by [[size][[../../../bio/Psychology/Color]]]]],[[../../../Chemistry/Material]]] etc.  
  While a ProductGroup itself is not directly offered for sale, the various varying products that it represents can be. The ProductGroup serves as a prototype or template, standing in for all of the products who have an [[isVariantOf]] relationship to it. As such, properties (including additional types) can be applied to the ProductGroup to represent characteristics shared by each of the (possibly very many) variants. Properties that reference a ProductGroup are not included in this mechanism; neither are the following specific properties [[variesBy]], [[hasVariant]], [[url]].
 
 
@@ -51,7 +51,7 @@ A ProductGroup represents a group of [[../../../Society/Agent/Organization/Busin
 ## Properties:
 
 ### HasVariant
-Indicates a [[../../../Society/Agent/Organization/Business/Product]] that is a member of this [[ProductGroup]] (or [[ProductModel]]).
+Indicates a [[../../../Society/Agent/Community/Organization/Business/Product]] that is a member of this [[ProductGroup]] (or [[ProductModel]]).
 
 HasVariant:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product')"}}
 

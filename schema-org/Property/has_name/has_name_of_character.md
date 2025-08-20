@@ -25,16 +25,16 @@ title: has_name_of_character
 type: Pred_Text
 ---
 
-Predicate to describe the Text of [[../../../Society/Agent/Organization/Role/Performance_Role|PerformanceRole]].
+Predicate to describe the Text of [[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]].
 
 Use it like this: 
 - [ #has_/name_/of_character :: Text ] or 
 - [ has_name_of_character :: Text ] 
 
-The name of a character played in some acting or performing role, i.e. in a [[../../../Society/Agent/Organization/Role/Performance_Role|PerformanceRole]].
+The name of a character played in some acting or performing role, i.e. in a [[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]].
 
 Predicated describes that: 
-[ #has_/domain  :: [[../../../Society/Agent/Organization/Role/Performance_Role|PerformanceRole]] ]
+[ #has_/domain  :: [[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]] ]
 ( #has_/name :: has_name_of_character )
 ( #has_/range :: Text )
 

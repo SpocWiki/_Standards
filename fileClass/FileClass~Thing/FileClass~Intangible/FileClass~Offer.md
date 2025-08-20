@@ -442,7 +442,7 @@ Specifies a MerchantReturnPolicy that may be applicable.
 HasMerchantReturnPolicy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/MerchantReturnPolicy')"}}
 
 ### IncludesObject
-This links to a node or nodes indicating the exact quantity of the products included in  an [[../../../Society/Agent/Organization/Business/Offer]] or [[ProductCollection]].
+This links to a node or nodes indicating the exact quantity of the products included in  an [[../../../Society/Agent/Community/Organization/Business/Offer]] or [[ProductCollection]].
 
 IncludesObject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/TypeAndQuantityNode')"}}
 
@@ -474,13 +474,13 @@ An item being offered (or demanded). The transactional nature of the offer or de
 ItemOffered:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Offer/AggregateOffer')"}}
 
 ### LeaseLength
-Length of the lease for some [[../../../Earth/Geography/Place/Accommodation]], either particular to some [[../../../Society/Agent/Organization/Business/Offer]] or in some cases intrinsic to the property.
+Length of the lease for some [[../../../Earth/Geography/Place/Accommodation]], either particular to some [[../../../Society/Agent/Community/Organization/Business/Offer]] or in some cases intrinsic to the property.
 
 LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}}
 
 ### MobileUrl
 The [[mobileUrl]] property is provided for specific situations in which data consumers need to determine whether one of several provided URLs is a dedicated 'mobile site'.  
- To discourage over-use, and reflecting intial usecases, the property is expected only on [[../../../Society/Agent/Organization/Business/Product]] and [[../../../Society/Agent/Organization/Business/Offer]], rather than [[Thing]]. The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive\_web\_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[url]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[url]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[../../../Society/Agent/Organization/Business/Product]] and [[../../../Society/Agent/Organization/Business/Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
+ To discourage over-use, and reflecting intial usecases, the property is expected only on [[../../../Society/Agent/Community/Organization/Business/Product]] and [[../../../Society/Agent/Community/Organization/Business/Offer]], rather than [[Thing]]. The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive\_web\_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[url]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[url]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[../../../Society/Agent/Community/Organization/Business/Product]] and [[../../../Society/Agent/Community/Organization/Business/Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
 
 MobileUrl:: {"type":"Input","options":{}}
 
@@ -539,7 +539,7 @@ The serial number or any alphanumeric identifier of a particular product. When a
 SerialNumber:: {"type":"Input","options":{}}
 
 ### ShippingDetails
-Indicates information about the shipping policies and options associated with an [[../../../Society/Agent/Organization/Business/Offer]].
+Indicates information about the shipping policies and options associated with an [[../../../Society/Agent/Community/Organization/Business/Offer]].
 
 ShippingDetails:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/OfferShippingDetails')"}}
 

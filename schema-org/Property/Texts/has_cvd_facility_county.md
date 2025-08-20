@@ -34,7 +34,7 @@ Use it like this:
 - [ #has_/text_of_/cvd_facility_county :: Text ] or 
 - [ has_text_of_cvd_facility_county :: Text ] 
 
-Name of the County of the NHSN facility that this data record applies to. Use [[cvdFacilityId]] to identify the facility. To provide other details, [[healthcareReportingData]] can be used on a [[../../../Society/Agent/Organization/Business/Local_Business/Emergency_Service/Hospital]] entry.
+Name of the County of the NHSN facility that this data record applies to. Use [[cvdFacilityId]] to identify the facility. To provide other details, [[healthcareReportingData]] can be used on a [[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital]] entry.
 
 Predicated describes that: 
 [ #has_/domain  :: CDCPMDRecord ]

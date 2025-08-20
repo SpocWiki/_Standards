@@ -9,7 +9,7 @@ An Agent is an active Party performing [Activities](Activity.md).
 
 Notable subclasses are 
 - [Person](Agent/Person.md) 
-- [Organization](Agent/Organization.md)
+- [Organization](Agent/Community/Organization.md)
 
 
 ## Confidential Links & Embeds: 

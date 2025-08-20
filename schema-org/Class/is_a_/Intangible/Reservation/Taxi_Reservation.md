@@ -31,7 +31,7 @@ Tag Instances like this:
 
 A reservation for a taxi.
 
-Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, use [[../../../../../Society/Agent/Organization/Business/Offer]].
+Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, use [[../../../../../Society/Agent/Community/Organization/Business/Offer]].
 
 [ #is_/sub_class_of :: [[../Reservation]] ]
 

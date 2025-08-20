@@ -47,6 +47,8 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_communication,7112587]]'
 
 # [[Communication]] 
 
+#is_/same_as :: [[../WikiData/WD~Communication,11024|WD~Communication,11024]] 
+
 ## #has_/text_of_/abstract 
 
 > **Communication** is commonly defined as the transmission of information. 

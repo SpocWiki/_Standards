@@ -28,7 +28,7 @@ Google_Doodle: first-hot-air-balloon-flight
 
 # [[Balloon]] 
 
-#is_/similar_to :: [[../../Society/Communication/Media/Performing_Arts/Sport/Ball_Game/Ball|Ball]] 
+#is_/similar_to :: [[../../Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Ball|Ball]] 
 #is_/similar_to :: [[../../../Knowledge/Math/Geometry/3D-Geometry/Spheric_Geometry/Sphere|Sphere]] 
 #is_/same_as :: [[../../WikiData/WD~Balloon,183951|WD~Balloon,183951]] 
 

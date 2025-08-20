@@ -357,10 +357,13 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 174 ]
 
-
-
 [ISO2::KM]
-[ISO3::COM]
+[ISO3::COM] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Comoros,970|WD~Comoros,970]] 
+
+## #has_/map 
+
 ```leaflet
 id: Comoros
 zoomFeatures: true 

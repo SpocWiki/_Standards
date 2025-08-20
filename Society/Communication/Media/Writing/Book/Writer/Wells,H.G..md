@@ -51,7 +51,7 @@ aliases:
 > led to the suggestion that he was a worthy successor to [[Modern_Writer/Dickens,Charles|Charles Dickens]],:  
 > but Wells described a range of social strata 
 > and even attempted, in Tono-Bungay (1909), a diagnosis of English society as a whole. 
-> Wells was nominated for the [[../../../../../../International/NGO/Nobel_Prize|Nobel Prize]] in Literature four times.
+> Wells was nominated for the [[../../../../../Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize|Nobel Prize]] in Literature four times.
 >
 > Wells's earliest specialised training was in biology, 
 > and his thinking on ethical matters took place in a Darwinian context. 

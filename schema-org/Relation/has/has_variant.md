@@ -30,7 +30,7 @@ Use it like this:
 - [ #has_/variant :: Product ] or 
 - [ has_variant :: Product ] 
 
-Indicates a [[../../../Society/Agent/Organization/Business/Product]] that is a member of this [[ProductGroup]] (or [[ProductModel]]).
+Indicates a [[../../../Society/Agent/Community/Organization/Business/Product]] that is a member of this [[ProductGroup]] (or [[ProductModel]]).
 
 Relation describes that: 
 [ #has_/domain  :: ProductGroup ]

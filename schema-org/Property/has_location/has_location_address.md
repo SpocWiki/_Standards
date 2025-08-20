@@ -26,7 +26,7 @@ title: has_location_address
 type: Pred_geo
 ---
 
-Predicate to describe the geo of [[geo_coordinates]], [[Geo_Shape]], [[../../../Society/Agent/Organization]], [[../../../Society/Agent/Person]], [[../../../Earth/Geography/Place]].
+Predicate to describe the geo of [[geo_coordinates]], [[Geo_Shape]], [[../../../Society/Agent/Community/Organization]], [[../../../Society/Agent/Person]], [[../../../Earth/Geography/Place]].
 
 Use it like this: 
 - [ #has_/location_/address :: PostalAddress, Text ] or 

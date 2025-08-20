@@ -24,16 +24,21 @@ title: "is_a_comic_story Class"
 type: Type
 ---
 
+# [[Comic_Story]] 
+
 Class of all comic_storys.
 
 Tag Instances like this: 
 #is_a_/comic_story
 
 [ #is_/part_of :: https://bib.schema.org ]
+#is_/part_of :: [[Publication_Issue/Comic_Issue|Comic_Issue]] 
 
-The term "story" is any indivisible, re-printable
-		unit of a comic, including the interior stories, covers, and backmatter. Most
-		comics have at least two stories: a cover (ComicCoverArt) and an interior story.
+Represents the **narrative content of a comic** (i.e., the actual story being told). 
+
+The term "story" is any indivisible, re-printable unit of a comic, 
+including the interior stories, covers, and backmatter. 
+Most comics have at least two parts: a cover (ComicCoverArt) and an interior story.
 
 [ #is_/sub_class_of :: [[../CreativeWork]] ]
 

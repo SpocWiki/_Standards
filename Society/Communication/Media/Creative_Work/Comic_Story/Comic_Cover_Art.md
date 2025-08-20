@@ -24,6 +24,8 @@ title: "is_a_comic_cover_art Class"
 type: Type
 ---
 
+# [[Comic_Cover_Art]] 
+
 Class of all comic_cover_arts.
 
 Tag Instances like this: 
@@ -32,6 +34,7 @@ Tag Instances like this:
 [ #is_/part_of :: https://bib.schema.org ]
 
 The artwork on the cover of a comic.
+#is_/part_of :: [[Publication_Issue/Comic_Issue|Comic_Issue]] 
 
 [ #is_/sub_class_of :: [[../ComicStory, CoverArt]] ]
 

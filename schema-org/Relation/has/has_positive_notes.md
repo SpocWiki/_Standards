@@ -42,7 +42,7 @@ Provides positive considerations regarding something, for example product highli
 
 
 
-In the case of a [[../../../Society/Communication/Media/Creative_Work/Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[../../../Society/Agent/Organization/Business/Product]], the product itself is being described.
+In the case of a [[../../../Society/Communication/Media/Creative_Work/Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[../../../Society/Agent/Community/Organization/Business/Product]], the product itself is being described.
 
 
 
