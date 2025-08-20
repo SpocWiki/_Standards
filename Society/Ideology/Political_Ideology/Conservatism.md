@@ -45,9 +45,15 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Reagan%27
 
 # [[Conservatism]] 
 
+#is_/same_as :: [[../../../WikiData/WD~Conservatism,7169|WD~Conservatism,7169]] 
+
 ## #has_/text_of_/abstract 
 
-> **Conservatism** is a cultural, social, and political philosophy and ideology that seeks to promote and preserve traditional institutions, customs, and values. The central tenets of conservatism may vary in relation to the culture and civilization in which it appears. In Western culture, depending on the particular nation, conservatives seek to promote and preserve a range of institutions, such as the nuclear family, organized religion, the military, the nation-state, property rights, rule of law, aristocracy, and monarchy. Conservatives tend to favor institutions and practices that enhance social order and historical continuity.
+> **Conservatism** is a cultural, social, and political philosophy and ideology 
+> that seeks to promote and preserve traditional institutions, customs, and values. 
+> 
+> The central tenets of conservatism may vary in relation to the culture and civilization in which it appears. 
+> In Western culture, depending on the particular nation, conservatives seek to promote and preserve a range of institutions, such as the nuclear family, organized religion, the military, the nation-state, property rights, rule of law, aristocracy, and monarchy. Conservatives tend to favor institutions and practices that enhance social order and historical continuity.
 >
 > The 18th-century Anglo-Irish statesman Edmund Burke, who opposed the French Revolution but supported the American Revolution, is credited as one of the forefathers of conservative thought in the 1790s along with Savoyard statesman Joseph de Maistre. The first established use of the term in a political context originated in 1818 with François-René de Chateaubriand during the period of Bourbon Restoration that sought to roll back the policies of the French Revolution and establish social order.
 >
