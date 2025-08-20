@@ -1,4 +1,28 @@
 ---
+aliases:
+  - Sprache
+  - language
+  - Language
+  - is_a_language
+confidential: public
+cssclasses:
+  - Type
+draft: false
+expiryDate:
+isDeleted: false
+isReadOnly: false
+keywords:
+  - language
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_language Class
+publish: true
+publishDate:
+tags:
+  - class/Class
+  - schema-org/Class
+title: is_a_language Class
+type: Type
 Archive_of_Our_Own_tag: Language
 Commons_category: Language
 Commons_gallery: Language
@@ -74,6 +98,50 @@ used_by: '[[_Standards/WikiData/WD~human,5]]'
 uses: '[[_Standards/WikiData/WD~capacity_for_language,4536530]]'
 Wolfram_Language_entity_type: Language
 ---
+
+# [[Language]] 
+
+#is_/different_from :: [[ComputerLanguage]] 
+
+Class of all **natural** languages such as Spanish, Tamil, Hindi, English, etc. 
+
+Formal language code tags expressed in <a href="https://en.wikipedia.org/wiki/IETF_language_tag">BCP 47</a> 
+can be used via the [[alternateName]] property. 
+
+Tag Instances like this: 
+#is_a_/language 
+
+The Language type **previously** also covered programming languages 
+such as Scheme and Lisp, 
+which are now best represented using [[ComputerLanguage]].
+
+[ #is_/sub_class_of :: [[../Intangible]] ]
+
+[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
+
+## Examples
+
+### Microdata 
+```html
+<div itemscope itemtype="https://schema.org/Hotel">
+	<h1><span itemprop="name"> Hotel Innsbruck</span></h1>
+	<span itemprop="description">A beautifully located business hotel.</span>
+	We speak:
+	<ul>
+		<li itemprop="availableLanguage" itemscope itemtype="https://schema.org/Language">
+			<span itemprop="name">English</span>
+		</li>
+		<li itemprop="availableLanguage" itemscope itemtype="https://schema.org/Language">
+			<span itemprop="name">German</span>
+		</li>
+	</ul>
+</div>
+```
+
+Alternatively use the RDFa-Lite:
+```html
+
+```
 
 ﻿The Entities in this Folder describes 'natural', human Languages and Scripts, 
 ﻿as well as Data- and Programming Languages. 

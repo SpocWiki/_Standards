@@ -4,20 +4,22 @@ aliases:
   - college_or_university
   - CollegeOrUniversity
   - is_a_college_or_university
+  - College
+  - University
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - college_or_university
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_a_college_or_university Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class
