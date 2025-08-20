@@ -1,26 +1,28 @@
 ---
 aliases:
-- product-supported
-- product_supported
-- productSupported
-- has_product_supported
+  - product-supported
+  - product_supported
+  - productSupported
+  - has_product_supported
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- product
-- supported
-layout: 
-license: "CC BY-SA 4.0"
+  - product
+  - supported
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_product_supported
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_product_supported
 type: Predi_Relation
 ---

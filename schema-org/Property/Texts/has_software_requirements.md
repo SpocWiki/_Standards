@@ -1,27 +1,29 @@
 ---
 aliases:
-- software-requirements
-- software_requirements
-- softwareRequirements
-- has_text_of_software_requirements
+  - software-requirements
+  - software_requirements
+  - softwareRequirements
+  - has_text_of_software_requirements
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- software
-- requirements
-layout: 
-license: "CC BY-SA 4.0"
+  - software
+  - requirements
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_software_requirements
 publish: true
-publishDate: 
+publishDate:
 supersedes: requirements
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_software_requirements
 type: Pred_Text
 ---

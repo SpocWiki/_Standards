@@ -1,25 +1,27 @@
 ---
 aliases:
-- floor_size
-- floor-size
-- floorSize
-- has_value_for_floor_size_m2
+  - floor_size
+  - floor-size
+  - floorSize
+  - has_value_for_floor_size_m2
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- floor-size
-layout: 
-license: "CC BY-SA 4.0"
+  - floor-size
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_floor-size
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_floor-size
 type: Predi_Quantity
 ---

@@ -1,23 +1,25 @@
 ---
 aliases:
-- owns
-- is_owning
+  - owns
+  - is_owning
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- owns
-layout: 
-license: "CC BY-SA 4.0"
+  - owns
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_owning
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_owning
 type: Predi_Relation
 ---

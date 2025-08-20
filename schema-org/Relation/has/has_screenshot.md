@@ -1,25 +1,27 @@
 ---
 aliases:
-- screenshot
-- screenshot
-- screenshot
-- has_screenshot
+  - screenshot
+  - screenshot
+  - screenshot
+  - has_screenshot
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- screenshot
-layout: 
-license: "CC BY-SA 4.0"
+  - screenshot
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_screenshot
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_screenshot
 type: Predi_Relation
 ---

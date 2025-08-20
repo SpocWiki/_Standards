@@ -1,26 +1,27 @@
 ---
 aliases:
-- literary-event
-- literary_event
-- LiteraryEvent
-- is_a_literary_event
+  - literary-event
+  - literary_event
+  - LiteraryEvent
+  - is_a_literary_event
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- literary_event
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_literary_event Class"
+  - literary_event
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_literary_event Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_literary_event Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_literary_event Class
 type: Type
 ---
 

@@ -1,25 +1,27 @@
 ---
 aliases:
-- spatial
-- spatial
-- spatial
-- has_location_spatial
+  - spatial
+  - spatial
+  - spatial
+  - has_location_spatial
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- spatial
-layout: 
-license: "CC BY-SA 4.0"
+  - spatial
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_spatial
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_spatial
 type: Pred_geo
 ---

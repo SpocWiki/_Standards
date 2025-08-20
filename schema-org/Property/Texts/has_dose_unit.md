@@ -1,26 +1,28 @@
 ---
 aliases:
-- dose-unit
-- dose_unit
-- doseUnit
-- has_text_of_dose_unit
+  - dose-unit
+  - dose_unit
+  - doseUnit
+  - has_text_of_dose_unit
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dose
-- unit
-layout: 
-license: "CC BY-SA 4.0"
+  - dose
+  - unit
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_dose_unit
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_dose_unit
 type: Pred_Text
 ---

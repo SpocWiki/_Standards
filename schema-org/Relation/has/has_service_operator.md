@@ -1,26 +1,28 @@
 ---
 aliases:
-- service-operator
-- service_operator
-- serviceOperator
-- has_service_operator
+  - service-operator
+  - service_operator
+  - serviceOperator
+  - has_service_operator
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- service
-- operator
-layout: 
-license: "CC BY-SA 4.0"
+  - service
+  - operator
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_service_operator
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_service_operator
 type: Predi_Relation
 ---

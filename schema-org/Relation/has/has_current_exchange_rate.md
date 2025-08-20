@@ -1,27 +1,29 @@
 ---
 aliases:
-- current-exchange-rate
-- current_exchange_rate
-- currentExchangeRate
-- has_current_exchange_rate
+  - current-exchange-rate
+  - current_exchange_rate
+  - currentExchangeRate
+  - has_current_exchange_rate
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- current
-- exchange
-- rate
-layout: 
-license: "CC BY-SA 4.0"
+  - current
+  - exchange
+  - rate
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_current_exchange_rate
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_current_exchange_rate
 type: Predi_Relation
 ---

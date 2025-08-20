@@ -1,26 +1,27 @@
 ---
 aliases:
-- train-reservation
-- train_reservation
-- TrainReservation
-- is_a_train_reservation
+  - train-reservation
+  - train_reservation
+  - TrainReservation
+  - is_a_train_reservation
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- train_reservation
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_train_reservation Class"
+  - train_reservation
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_train_reservation Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_train_reservation Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_train_reservation Class
 type: Type
 ---
 

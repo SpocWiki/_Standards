@@ -1,25 +1,27 @@
 ---
 aliases:
-- geo-equals
-- geo_equals
-- geoEquals
-- has_location_equals
+  - geo-equals
+  - geo_equals
+  - geoEquals
+  - has_location_equals
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- geo_equals
-layout: 
-license: "CC BY-SA 4.0"
+  - geo_equals
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_equals
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_equals
 type: Pred_geo
 ---

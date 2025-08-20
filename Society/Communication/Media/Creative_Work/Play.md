@@ -1,26 +1,27 @@
 ---
 aliases:
-- play
-- play
-- Play
-- is_a_play
+  - play
+  - play
+  - Play
+  - is_a_play
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- play
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_play Class"
+  - play
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_play Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_play Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_play Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- vegetarian-diet
-- vegetarian_diet
-- VegetarianDiet
-- is_a_vegetarian_diet
+  - vegetarian-diet
+  - vegetarian_diet
+  - VegetarianDiet
+  - is_a_vegetarian_diet
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- vegetarian_diet
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_vegetarian_diet Class"
+  - vegetarian_diet
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_vegetarian_diet Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_vegetarian_diet Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_vegetarian_diet Class
 type: Type
 ---
 

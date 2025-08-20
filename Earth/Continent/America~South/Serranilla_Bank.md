@@ -1,26 +1,27 @@
 ---
 aliases:
-- Serranilla_Bank
+  - Serranilla_Bank
 confidential: public
-cssclasses: geo-Region
+cssclasses:
+  - geo-Region
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords:
 Languages:
-- de
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - de
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 location:
-- 15.866
-- -78.638
+  - 15.866
+  - -78.638
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate:
+source: https://datahub.io/core/country-codes
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 title: Serranilla_Bank
 type: geo-Region
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- serves-cuisine
-- serves_cuisine
-- servesCuisine
-- has_text_of_serves_cuisine
+  - serves-cuisine
+  - serves_cuisine
+  - servesCuisine
+  - has_text_of_serves_cuisine
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- serves
-- cuisine
-layout: 
-license: "CC BY-SA 4.0"
+  - serves
+  - cuisine
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_serves_cuisine
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_serves_cuisine
 type: Pred_Text
 ---

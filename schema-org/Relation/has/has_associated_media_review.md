@@ -1,27 +1,29 @@
 ---
 aliases:
-- associated-media-review
-- associated_media_review
-- associatedMediaReview
-- has_associated_media_review
+  - associated-media-review
+  - associated_media_review
+  - associatedMediaReview
+  - has_associated_media_review
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- associated
-- media
-- review
-layout: 
-license: "CC BY-SA 4.0"
+  - associated
+  - media
+  - review
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_associated_media_review
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_associated_media_review
 type: Predi_Relation
 ---

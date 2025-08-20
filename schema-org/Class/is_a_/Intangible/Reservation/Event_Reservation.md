@@ -1,26 +1,27 @@
 ---
 aliases:
-- event-reservation
-- event_reservation
-- EventReservation
-- is_an_event_reservation
+  - event-reservation
+  - event_reservation
+  - EventReservation
+  - is_an_event_reservation
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- event_reservation
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_event_reservation Class"
+  - event_reservation
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_event_reservation Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_event_reservation Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_event_reservation Class
 type: Type
 ---
 

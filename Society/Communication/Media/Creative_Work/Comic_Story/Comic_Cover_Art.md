@@ -1,26 +1,27 @@
 ---
 aliases:
-- comic-cover-art
-- comic_cover_art
-- ComicCoverArt
-- is_a_comic_cover_art
+  - comic-cover-art
+  - comic_cover_art
+  - ComicCoverArt
+  - is_a_comic_cover_art
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- comic_cover_art
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_comic_cover_art Class"
+  - comic_cover_art
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_comic_cover_art Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_comic_cover_art Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_comic_cover_art Class
 type: Type
 ---
 

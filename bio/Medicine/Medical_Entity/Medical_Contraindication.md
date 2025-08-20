@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-contraindication
-- medical_contraindication
-- MedicalContraindication
-- is_a_medical_contraindication
+  - medical-contraindication
+  - medical_contraindication
+  - MedicalContraindication
+  - is_a_medical_contraindication
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_contraindication
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_contraindication Class"
+  - medical_contraindication
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_contraindication Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_contraindication Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_contraindication Class
 type: Type
 ---
 

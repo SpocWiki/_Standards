@@ -1,27 +1,29 @@
 ---
 aliases:
-- item-list-element
-- item_list_element
-- itemListElement
-- has_item_list_element
+  - item-list-element
+  - item_list_element
+  - itemListElement
+  - has_item_list_element
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- item
-- list
-- element
-layout: 
-license: "CC BY-SA 4.0"
+  - item
+  - list
+  - element
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_item_list_element
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_item_list_element
 type: Predi_Relation
 ---

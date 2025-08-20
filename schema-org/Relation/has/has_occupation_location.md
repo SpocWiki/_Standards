@@ -1,26 +1,28 @@
 ---
 aliases:
-- occupation-location
-- occupation_location
-- occupationLocation
-- has_occupation_location
+  - occupation-location
+  - occupation_location
+  - occupationLocation
+  - has_occupation_location
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- occupation
-- location
-layout: 
-license: "CC BY-SA 4.0"
+  - occupation
+  - location
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_occupation_location
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_occupation_location
 type: Predi_Relation
 ---

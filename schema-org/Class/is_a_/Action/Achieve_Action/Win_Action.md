@@ -1,26 +1,27 @@
 ---
 aliases:
-- win-action
-- win_action
-- WinAction
-- is_a_win_action
+  - win-action
+  - win_action
+  - WinAction
+  - is_a_win_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- win_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_win_action Class"
+  - win_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_win_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_win_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_win_action Class
 type: Type
 ---
 

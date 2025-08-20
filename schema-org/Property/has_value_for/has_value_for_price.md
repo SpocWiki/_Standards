@@ -1,25 +1,27 @@
 ---
 aliases:
-- price
-- price
-- price
-- has_value_for_price
+  - price
+  - price
+  - price
+  - has_value_for_price
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- price
-layout: 
-license: "CC BY-SA 4.0"
+  - price
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_price
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_price
 type: Predi_Quantity
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- bcc-recipient
-- bcc_recipient
-- bccRecipient
-- has_bcc_recipient
+  - bcc-recipient
+  - bcc_recipient
+  - bccRecipient
+  - has_bcc_recipient
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bcc
-- recipient
-layout: 
-license: "CC BY-SA 4.0"
+  - bcc
+  - recipient
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_bcc_recipient
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_bcc_recipient
 type: Predi_Relation
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- gluten-free-diet
-- gluten_free_diet
-- GlutenFreeDiet
-- is_a_gluten_free_diet
+  - gluten-free-diet
+  - gluten_free_diet
+  - GlutenFreeDiet
+  - is_a_gluten_free_diet
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- gluten_free_diet
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_gluten_free_diet Class"
+  - gluten_free_diet
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_gluten_free_diet Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_gluten_free_diet Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_gluten_free_diet Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- image-object
-- image_object
-- ImageObject
-- is_an_image_object
+  - image-object
+  - image_object
+  - ImageObject
+  - is_an_image_object
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-equivalent_class: "http://purl.org/dc/dcmitype/Image"
-expiryDate: 
+equivalent_class: http://purl.org/dc/dcmitype/Image
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- image_object
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_image_object Class"
+  - image_object
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_image_object Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_image_object Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_image_object Class
 type: Type
 ---
 

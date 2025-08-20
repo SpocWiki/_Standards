@@ -1,26 +1,27 @@
 ---
 aliases:
-- ngo
-- ngo
-- NGO
-- is_a_ngo
+  - ngo
+  - ngo
+  - NGO
+  - is_a_ngo
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ngo
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_ngo Class"
+  - ngo
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_ngo Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_ngo Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_ngo Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- after-media
-- after_media
-- afterMedia
-- has_after_media
+  - after-media
+  - after_media
+  - afterMedia
+  - has_after_media
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- after
-- media
-layout: 
-license: "CC BY-SA 4.0"
+  - after
+  - media
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_after_media
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_after_media
 type: Predi_Relation
 ---

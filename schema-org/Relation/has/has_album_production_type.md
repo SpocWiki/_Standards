@@ -1,27 +1,29 @@
 ---
 aliases:
-- album-production-type
-- album_production_type
-- albumProductionType
-- has_album_production_type
+  - album-production-type
+  - album_production_type
+  - albumProductionType
+  - has_album_production_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- album
-- production
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - album
+  - production
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_album_production_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_album_production_type
 type: Predi_Relation
 ---

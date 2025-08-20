@@ -1,27 +1,28 @@
 ---
 aliases:
-- longitudinal
-- longitudinal
-- Longitudinal
-- is_a_longitudinal
+  - longitudinal
+  - longitudinal
+  - Longitudinal
+  - is_a_longitudinal
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalObservationalStudyDesign
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- longitudinal
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_longitudinal Class"
+  - longitudinal
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_longitudinal Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_longitudinal Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_longitudinal Class
 type: Type
 ---
 

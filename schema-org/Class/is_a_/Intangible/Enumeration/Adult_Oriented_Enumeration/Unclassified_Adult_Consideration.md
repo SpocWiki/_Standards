@@ -1,27 +1,28 @@
 ---
 aliases:
-- unclassified-adult-consideration
-- unclassified_adult_consideration
-- UnclassifiedAdultConsideration
-- is_an_unclassified_adult_consideration
+  - unclassified-adult-consideration
+  - unclassified_adult_consideration
+  - UnclassifiedAdultConsideration
+  - is_an_unclassified_adult_consideration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: AdultOrientedEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- unclassified_adult_consideration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_unclassified_adult_consideration Class"
+  - unclassified_adult_consideration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_unclassified_adult_consideration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_unclassified_adult_consideration Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_unclassified_adult_consideration Class
 type: Type
 ---
 

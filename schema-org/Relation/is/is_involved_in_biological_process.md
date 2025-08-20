@@ -1,24 +1,26 @@
 ---
 aliases:
-- is-involved-in-biological-process
-- involved_in_biological_process
-- isInvolvedInBiologicalProcess
-- is_involved_in_biological_process
+  - is-involved-in-biological-process
+  - involved_in_biological_process
+  - isInvolvedInBiologicalProcess
+  - is_involved_in_biological_process
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_involved_in_biological_process
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_involved_in_biological_process
 type: Predi_Relation
 ---

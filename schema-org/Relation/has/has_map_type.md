@@ -1,26 +1,28 @@
 ---
 aliases:
-- map-type
-- map_type
-- mapType
-- has_map_type
+  - map-type
+  - map_type
+  - mapType
+  - has_map_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- map
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - map
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_map_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_map_type
 type: Predi_Relation
 ---

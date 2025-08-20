@@ -1,26 +1,27 @@
 ---
 aliases:
-- faq-page
-- faq_page
-- FAQPage
-- is_a_faq_page
+  - faq-page
+  - faq_page
+  - FAQPage
+  - is_a_faq_page
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- faq_page
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_faq_page Class"
+  - faq_page
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_faq_page Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_faq_page Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_faq_page Class
 type: Type
 ---
 

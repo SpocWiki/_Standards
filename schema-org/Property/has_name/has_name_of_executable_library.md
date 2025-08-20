@@ -1,28 +1,30 @@
 ---
 aliases:
-- executable-library-name
-- name_executable_library
-- executableLibraryName
-- has_name_executable_library
+  - executable-library-name
+  - name_executable_library
+  - executableLibraryName
+  - has_name_executable_library
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- executable
-- library
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - executable
+  - library
+  - name
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_name_executable_library
 publish: true
-publishDate: 
+publishDate:
 supersedes: assembly
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_name_executable_library
 type: Pred_Text
 ---

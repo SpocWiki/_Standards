@@ -1,26 +1,27 @@
 ---
 aliases:
-- claim-review
-- claim_review
-- ClaimReview
-- is_a_claim_review
+  - claim-review
+  - claim_review
+  - ClaimReview
+  - is_a_claim_review
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- claim_review
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_claim_review Class"
+  - claim_review
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_claim_review Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_claim_review Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_claim_review Class
 type: Type
 ---
 

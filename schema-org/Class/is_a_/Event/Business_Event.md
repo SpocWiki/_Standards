@@ -1,26 +1,27 @@
 ---
 aliases:
-- business-event
-- business_event
-- BusinessEvent
-- is_a_business_event
+  - business-event
+  - business_event
+  - BusinessEvent
+  - is_a_business_event
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- business_event
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_business_event Class"
+  - business_event
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_business_event Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_business_event Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_business_event Class
 type: Type
 ---
 

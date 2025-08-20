@@ -1,28 +1,30 @@
 ---
 aliases:
-- health-plan-pharmacy-category
-- health_plan_pharmacy_category
-- healthPlanPharmacyCategory
-- has_text_of_health_plan_pharmacy_category
+  - health-plan-pharmacy-category
+  - health_plan_pharmacy_category
+  - healthPlanPharmacyCategory
+  - has_text_of_health_plan_pharmacy_category
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health
-- plan
-- pharmacy
-- category
-layout: 
-license: "CC BY-SA 4.0"
+  - health
+  - plan
+  - pharmacy
+  - category
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_health_plan_pharmacy_category
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_health_plan_pharmacy_category
 type: Pred_Text
 ---

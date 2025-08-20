@@ -1,26 +1,27 @@
 ---
 aliases:
-- suite
-- suite
-- Suite
-- is_a_suite
+  - suite
+  - suite
+  - Suite
+  - is_a_suite
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- suite
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_suite Class"
+  - suite
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_suite Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_suite Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_suite Class
 type: Type
 ---
 

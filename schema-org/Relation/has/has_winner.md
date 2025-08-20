@@ -1,25 +1,27 @@
 ---
 aliases:
-- winner
-- winner
-- winner
-- has_winner
+  - winner
+  - winner
+  - winner
+  - has_winner
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- winner
-layout: 
-license: "CC BY-SA 4.0"
+  - winner
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_winner
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_winner
 type: Predi_Relation
 ---

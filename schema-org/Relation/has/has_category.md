@@ -1,25 +1,27 @@
 ---
 aliases:
-- category
-- category
-- Kategorie
-- has_category
+  - category
+  - category
+  - Kategorie
+  - has_category
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- category
-layout: 
-license: "CC BY-SA 4.0"
+  - category
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_category
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_category
 type: Predi_Relation
 ---

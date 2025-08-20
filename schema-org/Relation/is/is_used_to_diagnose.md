@@ -1,27 +1,29 @@
 ---
 aliases:
-- used-to-diagnose
-- used_to_diagnose
-- usedToDiagnose
-- is_used_to_diagnose
+  - used-to-diagnose
+  - used_to_diagnose
+  - usedToDiagnose
+  - is_used_to_diagnose
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- used
-- to
-- diagnose
-layout: 
-license: "CC BY-SA 4.0"
+  - used
+  - to
+  - diagnose
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_used_to_diagnose
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_used_to_diagnose
 type: Predi_Relation
 ---

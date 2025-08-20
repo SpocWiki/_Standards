@@ -1,26 +1,28 @@
 ---
 aliases:
-- has-broadcast-channel
-- broadcast_channel
-- hasBroadcastChannel
-- has_broadcast_channel
+  - has-broadcast-channel
+  - broadcast_channel
+  - hasBroadcastChannel
+  - has_broadcast_channel
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast
-- channel
-layout: 
-license: "CC BY-SA 4.0"
+  - broadcast
+  - channel
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_broadcast_channel
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_broadcast_channel
 type: Predi_Relation
 ---

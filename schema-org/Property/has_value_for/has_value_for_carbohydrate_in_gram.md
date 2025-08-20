@@ -1,25 +1,27 @@
 ---
 aliases:
-- carbohydrate_in_gram
-- carbohydrate-content
-- carbohydrateContent
-- has_value_for_carbohydrate_in_gram
+  - carbohydrate_in_gram
+  - carbohydrate-content
+  - carbohydrateContent
+  - has_value_for_carbohydrate_in_gram
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- carbohydrate-content
-layout: 
-license: "CC BY-SA 4.0"
+  - carbohydrate-content
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_carbohydrate-content
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_carbohydrate-content
 type: Predi_Quantity
 ---

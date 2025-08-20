@@ -1,27 +1,29 @@
 ---
 aliases:
-- in-support-of
-- in_support_of
-- inSupportOf
-- has_text_of_in_support_of
+  - in-support-of
+  - in_support_of
+  - inSupportOf
+  - has_text_of_in_support_of
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- in
-- support
-- of
-layout: 
-license: "CC BY-SA 4.0"
+  - in
+  - support
+  - of
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_in_support_of
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_in_support_of
 type: Pred_Text
 ---

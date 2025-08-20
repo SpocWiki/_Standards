@@ -5,18 +5,19 @@ aliases:
   - OceanBodyOfWater
   - is_an_ocean_body_of_water
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - ocean_body_of_water
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_an_ocean_body_of_water Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class

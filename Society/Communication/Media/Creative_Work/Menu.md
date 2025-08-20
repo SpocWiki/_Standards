@@ -1,26 +1,27 @@
 ---
 aliases:
-- menu
-- menu
-- Menu
-- is_a_menu
+  - menu
+  - menu
+  - Menu
+  - is_a_menu
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- menu
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_menu Class"
+  - menu
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_menu Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_menu Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_menu Class
 type: Type
 ---
 

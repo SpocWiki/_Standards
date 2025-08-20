@@ -1,27 +1,29 @@
 ---
 aliases:
-- example-of-work
-- example_of_work
-- exampleOfWork
-- has_example_of_work
+  - example-of-work
+  - example_of_work
+  - exampleOfWork
+  - has_example_of_work
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- example
-- of
-- work
-layout: 
-license: "CC BY-SA 4.0"
+  - example
+  - of
+  - work
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_example_of_work
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_example_of_work
 type: Predi_Relation
 ---

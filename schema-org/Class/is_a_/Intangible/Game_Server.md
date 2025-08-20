@@ -1,26 +1,27 @@
 ---
 aliases:
-- game-server
-- game_server
-- GameServer
-- is_a_game_server
+  - game-server
+  - game_server
+  - GameServer
+  - is_a_game_server
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- game_server
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_game_server Class"
+  - game_server
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_game_server Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_game_server Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_game_server Class
 type: Type
 ---
 

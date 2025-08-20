@@ -1,25 +1,27 @@
 ---
 aliases:
-- prescribing-info
-- prescribing_info
-- prescribingInfo
-- has_url_for_prescribing_info
+  - prescribing-info
+  - prescribing_info
+  - prescribingInfo
+  - has_url_for_prescribing_info
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- prescribing_info
-layout: 
-license: "CC BY-SA 4.0"
+  - prescribing_info
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_prescribing_info
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_prescribing_info
 type: Predi_Url
 ---

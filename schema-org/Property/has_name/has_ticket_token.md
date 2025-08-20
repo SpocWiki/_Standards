@@ -1,26 +1,28 @@
 ---
 aliases:
-- ticket-token
-- ticket_token
-- ticketToken
-- has_text_of_ticket_token
+  - ticket-token
+  - ticket_token
+  - ticketToken
+  - has_text_of_ticket_token
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ticket
-- token
-layout: 
-license: "CC BY-SA 4.0"
+  - ticket
+  - token
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_ticket_token
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_ticket_token
 type: Pred_Text
 ---

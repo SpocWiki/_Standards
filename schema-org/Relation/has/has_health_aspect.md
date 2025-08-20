@@ -1,26 +1,28 @@
 ---
 aliases:
-- has-health-aspect
-- health_aspect
-- hasHealthAspect
-- has_health_aspect
+  - has-health-aspect
+  - health_aspect
+  - hasHealthAspect
+  - has_health_aspect
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health
-- aspect
-layout: 
-license: "CC BY-SA 4.0"
+  - health
+  - aspect
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_health_aspect
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_health_aspect
 type: Predi_Relation
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- suggested_measurement
-- suggested-measurement
-- suggestedMeasurement
-- has_value_for_suggested_measurement
+  - suggested_measurement
+  - suggested-measurement
+  - suggestedMeasurement
+  - has_value_for_suggested_measurement
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- suggested-measurement
-layout: 
-license: "CC BY-SA 4.0"
+  - suggested-measurement
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_suggested-measurement
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_suggested-measurement
 type: Predi_Quantity
 ---

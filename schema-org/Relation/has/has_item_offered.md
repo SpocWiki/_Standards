@@ -1,26 +1,28 @@
 ---
 aliases:
-- item-offered
-- item_offered
-- itemOffered
-- has_item_offered
+  - item-offered
+  - item_offered
+  - itemOffered
+  - has_item_offered
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- item
-- offered
-layout: 
-license: "CC BY-SA 4.0"
+  - item
+  - offered
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_item_offered
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_item_offered
 type: Predi_Relation
 ---

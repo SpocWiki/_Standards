@@ -1,26 +1,27 @@
 ---
 aliases:
-- qualitative-value
-- qualitative_value
-- QualitativeValue
-- is_a_qualitative_value
+  - qualitative-value
+  - qualitative_value
+  - QualitativeValue
+  - is_a_qualitative_value
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- qualitative_value
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_qualitative_value Class"
+  - qualitative_value
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_qualitative_value Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_qualitative_value Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_qualitative_value Class
 type: Type
 ---
 

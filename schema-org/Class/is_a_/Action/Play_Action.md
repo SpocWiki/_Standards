@@ -1,26 +1,27 @@
 ---
 aliases:
-- play-action
-- play_action
-- PlayAction
-- is_a_play_action
+  - play-action
+  - play_action
+  - PlayAction
+  - is_a_play_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- play_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_play_action Class"
+  - play_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_play_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_play_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_play_action Class
 type: Type
 ---
 

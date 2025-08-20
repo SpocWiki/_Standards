@@ -1,26 +1,28 @@
 ---
 aliases:
-- has-offer-catalog
-- offer_catalog
-- hasOfferCatalog
-- has_offer_catalog
+  - has-offer-catalog
+  - offer_catalog
+  - hasOfferCatalog
+  - has_offer_catalog
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- offer
-- catalog
-layout: 
-license: "CC BY-SA 4.0"
+  - offer
+  - catalog
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_offer_catalog
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_offer_catalog
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- search-action
-- search_action
-- SearchAction
-- is_a_search_action
+  - search-action
+  - search_action
+  - SearchAction
+  - is_a_search_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- search_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_search_action Class"
+  - search_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_search_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_search_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_search_action Class
 type: Type
 ---
 

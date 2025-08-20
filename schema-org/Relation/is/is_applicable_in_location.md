@@ -1,26 +1,28 @@
 ---
 aliases:
-- applicable-location
-- applicable_location
-- applicableLocation
-- is_applicable_in_location
+  - applicable-location
+  - applicable_location
+  - applicableLocation
+  - is_applicable_in_location
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- applicable
-- location
-layout: 
-license: "CC BY-SA 4.0"
+  - applicable
+  - location
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_applicable_in_location
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_applicable_in_location
 type: Predi_Relation
 ---

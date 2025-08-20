@@ -1,26 +1,27 @@
 ---
 aliases:
-- web-content
-- web_content
-- WebContent
-- is_a_web_content
+  - web-content
+  - web_content
+  - WebContent
+  - is_a_web_content
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- web_content
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_web_content Class"
+  - web_content
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_web_content Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_web_content Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_web_content Class
 type: Type
 ---
 

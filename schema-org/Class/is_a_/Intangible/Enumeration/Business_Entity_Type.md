@@ -1,26 +1,27 @@
 ---
 aliases:
-- business-entity-type
-- business_entity_type
-- BusinessEntityType
-- is_a_business_entity_type
+  - business-entity-type
+  - business_entity_type
+  - BusinessEntityType
+  - is_a_business_entity_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- business_entity_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_business_entity_type Class"
+  - business_entity_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_business_entity_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_business_entity_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_business_entity_type Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- layout-image
-- layout_image
-- layoutImage
-- has_layout_image
+  - layout-image
+  - layout_image
+  - layoutImage
+  - has_layout_image
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- layout
-- image
-layout: 
-license: "CC BY-SA 4.0"
+  - layout
+  - image
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_layout_image
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_layout_image
 type: Predi_Relation
 ---

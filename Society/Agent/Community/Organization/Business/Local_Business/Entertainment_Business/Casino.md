@@ -1,26 +1,27 @@
 ---
 aliases:
-- casino
-- casino
-- Casino
-- is_a_casino
+  - casino
+  - casino
+  - Casino
+  - is_a_casino
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- casino
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_casino Class"
+  - casino
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_casino Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_casino Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_casino Class
 type: Type
 ---
 

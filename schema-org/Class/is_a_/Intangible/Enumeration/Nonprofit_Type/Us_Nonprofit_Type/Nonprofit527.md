@@ -1,27 +1,28 @@
 ---
 aliases:
-- nonprofit527
-- nonprofit527
-- Nonprofit527
-- is_a_nonprofit527
+  - nonprofit527
+  - nonprofit527
+  - Nonprofit527
+  - is_a_nonprofit527
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nonprofit527
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nonprofit527 Class"
+  - nonprofit527
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nonprofit527 Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nonprofit527 Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nonprofit527 Class
 type: Type
 ---
 

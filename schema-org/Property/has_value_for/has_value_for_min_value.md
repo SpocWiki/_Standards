@@ -1,25 +1,27 @@
 ---
 aliases:
-- min_value
-- min-value
-- minValue
-- has_value_for_min
+  - min_value
+  - min-value
+  - minValue
+  - has_value_for_min
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- min-value
-layout: 
-license: "CC BY-SA 4.0"
+  - min-value
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_min-value
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_min-value
 type: Predi_Quantity
 ---

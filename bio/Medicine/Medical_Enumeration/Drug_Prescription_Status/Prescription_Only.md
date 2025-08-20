@@ -1,27 +1,28 @@
 ---
 aliases:
-- prescription-only
-- prescription_only
-- PrescriptionOnly
-- is_a_prescription_only
+  - prescription-only
+  - prescription_only
+  - PrescriptionOnly
+  - is_a_prescription_only
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DrugPrescriptionStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- prescription_only
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_prescription_only Class"
+  - prescription_only
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_prescription_only Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_prescription_only Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_prescription_only Class
 type: Type
 ---
 

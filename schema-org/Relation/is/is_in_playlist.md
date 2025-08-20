@@ -1,26 +1,28 @@
 ---
 aliases:
-- in-playlist
-- in_playlist
-- inPlaylist
-- is_in_playlist
+  - in-playlist
+  - in_playlist
+  - inPlaylist
+  - is_in_playlist
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- in
-- playlist
-layout: 
-license: "CC BY-SA 4.0"
+  - in
+  - playlist
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_in_playlist
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_in_playlist
 type: Predi_Relation
 ---

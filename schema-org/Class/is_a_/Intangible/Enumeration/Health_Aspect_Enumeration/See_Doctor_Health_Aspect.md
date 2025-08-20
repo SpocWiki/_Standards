@@ -1,27 +1,28 @@
 ---
 aliases:
-- see-doctor-health-aspect
-- see_doctor_health_aspect
-- SeeDoctorHealthAspect
-- is_a_see_doctor_health_aspect
+  - see-doctor-health-aspect
+  - see_doctor_health_aspect
+  - SeeDoctorHealthAspect
+  - is_a_see_doctor_health_aspect
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- see_doctor_health_aspect
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_see_doctor_health_aspect Class"
+  - see_doctor_health_aspect
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_see_doctor_health_aspect Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_see_doctor_health_aspect Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_see_doctor_health_aspect Class
 type: Type
 ---
 

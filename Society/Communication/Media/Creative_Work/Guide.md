@@ -1,26 +1,27 @@
 ---
 aliases:
-- guide
-- guide
-- Guide
-- is_a_guide
+  - guide
+  - guide
+  - Guide
+  - is_a_guide
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- guide
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_guide Class"
+  - guide
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_guide Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_guide Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_guide Class
 type: Type
 ---
 

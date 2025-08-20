@@ -1,26 +1,27 @@
 ---
 aliases:
-- course
-- course
-- Course
-- is_a_course
+  - course
+  - course
+  - Course
+  - is_a_course
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- course
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_course Class"
+  - course
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_course Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_course Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_course Class
 type: Type
 ---
 

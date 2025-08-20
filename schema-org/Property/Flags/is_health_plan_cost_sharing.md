@@ -1,25 +1,27 @@
 ---
 aliases:
-- health-plan-cost-sharing
-- health_plan_cost_sharing
-- healthPlanCostSharing
-- is_health_plan_cost_sharing
+  - health-plan-cost-sharing
+  - health_plan_cost_sharing
+  - healthPlanCostSharing
+  - is_health_plan_cost_sharing
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health_plan_cost_sharing
-layout: 
-license: "CC BY-SA 4.0"
+  - health_plan_cost_sharing
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_health_plan_cost_sharing
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_health_plan_cost_sharing
 type: Pred_Bool
 ---

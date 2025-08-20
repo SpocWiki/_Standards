@@ -1,25 +1,27 @@
 ---
 aliases:
-- preparation
-- preparation
-- preparation
-- has_preparation
+  - preparation
+  - preparation
+  - preparation
+  - has_preparation
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- preparation
-layout: 
-license: "CC BY-SA 4.0"
+  - preparation
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_preparation
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_preparation
 type: Predi_Relation
 ---

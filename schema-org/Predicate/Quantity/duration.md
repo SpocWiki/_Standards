@@ -1,26 +1,27 @@
 ---
 aliases:
-- duration
-- duration
-- Duration
-- is_a_duration
+  - duration
+  - duration
+  - Duration
+  - is_a_duration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- duration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_duration Class"
+  - duration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_duration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_duration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_duration Class
 type: Type
 ---
 

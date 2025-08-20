@@ -1,26 +1,27 @@
 ---
 aliases:
-- newspaper
-- newspaper
-- Newspaper
-- is_a_newspaper
+  - newspaper
+  - newspaper
+  - Newspaper
+  - is_a_newspaper
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- newspaper
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_newspaper Class"
+  - newspaper
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_newspaper Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_newspaper Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_newspaper Class
 type: Type
 ---
 

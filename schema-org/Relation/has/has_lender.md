@@ -1,25 +1,27 @@
 ---
 aliases:
-- lender
-- lender
-- lender
-- has_lender
+  - lender
+  - lender
+  - lender
+  - has_lender
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- lender
-layout: 
-license: "CC BY-SA 4.0"
+  - lender
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_lender
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_lender
 type: Predi_Relation
 ---

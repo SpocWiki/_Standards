@@ -1,26 +1,27 @@
 ---
 aliases:
-- attorney
-- attorney
-- Attorney
-- is_an_attorney
+  - attorney
+  - attorney
+  - Attorney
+  - is_an_attorney
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- attorney
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_attorney Class"
+  - attorney
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_attorney Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_attorney Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_attorney Class
 type: Type
 ---
 

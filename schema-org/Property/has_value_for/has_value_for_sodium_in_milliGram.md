@@ -1,25 +1,27 @@
 ---
 aliases:
-- sodium_in_gram
-- sodium-content
-- sodiumContent
-- has_value_for_sodium_in_milliGram
+  - sodium_in_gram
+  - sodium-content
+  - sodiumContent
+  - has_value_for_sodium_in_milliGram
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sodium-content
-layout: 
-license: "CC BY-SA 4.0"
+  - sodium-content
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sodium-content
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_sodium-content
 type: Predi_Quantity
 ---

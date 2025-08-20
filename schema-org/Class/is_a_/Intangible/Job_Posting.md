@@ -1,26 +1,27 @@
 ---
 aliases:
-- job-posting
-- job_posting
-- JobPosting
-- is_a_job_posting
+  - job-posting
+  - job_posting
+  - JobPosting
+  - is_a_job_posting
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- job_posting
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_job_posting Class"
+  - job_posting
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_job_posting Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_job_posting Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_job_posting Class
 type: Type
 ---
 

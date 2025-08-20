@@ -1,26 +1,27 @@
 ---
 aliases:
-- diagnostic-procedure
-- diagnostic_procedure
-- DiagnosticProcedure
-- is_a_diagnostic_procedure
+  - diagnostic-procedure
+  - diagnostic_procedure
+  - DiagnosticProcedure
+  - is_a_diagnostic_procedure
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- diagnostic_procedure
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_diagnostic_procedure Class"
+  - diagnostic_procedure
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_diagnostic_procedure Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_diagnostic_procedure Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_diagnostic_procedure Class
 type: Type
 ---
 

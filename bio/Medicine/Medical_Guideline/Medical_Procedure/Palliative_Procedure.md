@@ -1,26 +1,27 @@
 ---
 aliases:
-- palliative-procedure
-- palliative_procedure
-- PalliativeProcedure
-- is_a_palliative_procedure
+  - palliative-procedure
+  - palliative_procedure
+  - PalliativeProcedure
+  - is_a_palliative_procedure
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- palliative_procedure
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_palliative_procedure Class"
+  - palliative_procedure
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_palliative_procedure Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_palliative_procedure Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_palliative_procedure Class
 type: Type
 ---
 

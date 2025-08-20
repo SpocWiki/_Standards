@@ -1,27 +1,28 @@
 ---
 aliases:
-- contagiousness-health-aspect
-- contagiousness_health_aspect
-- ContagiousnessHealthAspect
-- is_a_contagiousness_health_aspect
+  - contagiousness-health-aspect
+  - contagiousness_health_aspect
+  - ContagiousnessHealthAspect
+  - is_a_contagiousness_health_aspect
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- contagiousness_health_aspect
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_contagiousness_health_aspect Class"
+  - contagiousness_health_aspect
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_contagiousness_health_aspect Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_contagiousness_health_aspect Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_contagiousness_health_aspect Class
 type: Type
 ---
 

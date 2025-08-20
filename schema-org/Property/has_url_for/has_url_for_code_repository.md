@@ -1,25 +1,27 @@
 ---
 aliases:
-- code-repository
-- code_repository
-- codeRepository
-- has_url_for_code_repository
+  - code-repository
+  - code_repository
+  - codeRepository
+  - has_url_for_code_repository
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- code_repository
-layout: 
-license: "CC BY-SA 4.0"
+  - code_repository
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_code_repository
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_code_repository
 type: Predi_Url
 ---

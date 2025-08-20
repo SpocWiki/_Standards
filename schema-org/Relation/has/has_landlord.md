@@ -1,25 +1,27 @@
 ---
 aliases:
-- landlord
-- landlord
-- landlord
-- has_landlord
+  - landlord
+  - landlord
+  - landlord
+  - has_landlord
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- landlord
-layout: 
-license: "CC BY-SA 4.0"
+  - landlord
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_landlord
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_landlord
 type: Predi_Relation
 ---

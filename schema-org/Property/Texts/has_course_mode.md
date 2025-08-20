@@ -1,26 +1,28 @@
 ---
 aliases:
-- course-mode
-- course_mode
-- courseMode
-- has_text_of_course_mode
+  - course-mode
+  - course_mode
+  - courseMode
+  - has_text_of_course_mode
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- course
-- mode
-layout: 
-license: "CC BY-SA 4.0"
+  - course
+  - mode
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_course_mode
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_course_mode
 type: Pred_Text
 ---

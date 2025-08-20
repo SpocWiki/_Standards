@@ -1,26 +1,28 @@
 ---
 aliases:
-- identifying-exam
-- identifying_exam
-- identifyingExam
-- has_identifying_exam
+  - identifying-exam
+  - identifying_exam
+  - identifyingExam
+  - has_identifying_exam
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- identifying
-- exam
-layout: 
-license: "CC BY-SA 4.0"
+  - identifying
+  - exam
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_identifying_exam
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_identifying_exam
 type: Predi_Relation
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- number-of-credits
-- number_of_credits
-- numberOfCredits
-- has_number_of_credits
+  - number-of-credits
+  - number_of_credits
+  - numberOfCredits
+  - has_number_of_credits
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- number_of_credits
-layout: 
-license: "CC BY-SA 4.0"
+  - number_of_credits
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_credits
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_credits
 type: Predi_Count
 ---

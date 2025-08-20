@@ -1,26 +1,27 @@
 ---
 aliases:
-- map
-- map
-- Map
-- is_a_map
+  - map
+  - map
+  - Map
+  - is_a_map
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- map
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_map Class"
+  - map
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_map Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_map Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_map Class
 type: Type
 ---
 

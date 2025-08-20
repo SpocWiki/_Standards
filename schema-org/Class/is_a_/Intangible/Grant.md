@@ -1,26 +1,27 @@
 ---
 aliases:
-- grant
-- grant
-- Grant
-- is_a_grant
+  - grant
+  - grant
+  - Grant
+  - is_a_grant
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- grant
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_grant Class"
+  - grant
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_grant Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_grant Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_grant Class
 type: Type
 ---
 

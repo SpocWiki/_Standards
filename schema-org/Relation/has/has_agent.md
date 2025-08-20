@@ -1,25 +1,27 @@
 ---
 aliases:
-- agent
-- agent
-- agent
-- has_agent
+  - agent
+  - agent
+  - agent
+  - has_agent
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- agent
-layout: 
-license: "CC BY-SA 4.0"
+  - agent
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_agent
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_agent
 type: Predi_Relation
 ---

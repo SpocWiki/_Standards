@@ -1,25 +1,27 @@
 ---
 aliases:
-- monoisotopic_molecular_weight
-- monoisotopic-molecular-weight
-- monoisotopicMolecularWeight
-- has_value_for_monoisotopic_molecular_weight
+  - monoisotopic_molecular_weight
+  - monoisotopic-molecular-weight
+  - monoisotopicMolecularWeight
+  - has_value_for_monoisotopic_molecular_weight
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- monoisotopic-molecular-weight
-layout: 
-license: "CC BY-SA 4.0"
+  - monoisotopic-molecular-weight
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_monoisotopic-molecular-weight
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_monoisotopic-molecular-weight
 type: Predi_Quantity
 ---

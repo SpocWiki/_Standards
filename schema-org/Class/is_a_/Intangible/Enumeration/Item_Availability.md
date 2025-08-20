@@ -1,27 +1,28 @@
 ---
 aliases:
-- item-availability
-- item_availability
-- ItemAvailability
-- is_an_item_availability
-- is_available_for
+  - item-availability
+  - item_availability
+  - ItemAvailability
+  - is_an_item_availability
+  - is_available_for
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- item_availability
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_item_availability Class"
+  - item_availability
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_item_availability Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_item_availability Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_item_availability Class
 type: Type
 ---
 

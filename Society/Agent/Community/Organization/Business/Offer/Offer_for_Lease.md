@@ -1,26 +1,27 @@
 ---
 aliases:
-- offer-for-lease
-- offer_for_lease
-- OfferForLease
-- is_an_offer_for_lease
+  - offer-for-lease
+  - offer_for_lease
+  - OfferForLease
+  - is_an_offer_for_lease
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- offer_for_lease
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_offer_for_lease Class"
+  - offer_for_lease
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_offer_for_lease Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_offer_for_lease Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_offer_for_lease Class
 type: Type
 ---
 

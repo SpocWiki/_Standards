@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-measurement-hips
-- wearable_measurement_hips
-- WearableMeasurementHips
-- is_a_wearable_measurement_hips
+  - wearable-measurement-hips
+  - wearable_measurement_hips
+  - WearableMeasurementHips
+  - is_a_wearable_measurement_hips
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_measurement_hips
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_measurement_hips Class"
+  - wearable_measurement_hips
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_measurement_hips Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_measurement_hips Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_measurement_hips Class
 type: Type
 ---
 

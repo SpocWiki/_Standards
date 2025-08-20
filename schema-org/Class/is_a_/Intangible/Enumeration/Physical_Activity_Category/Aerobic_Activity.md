@@ -1,27 +1,28 @@
 ---
 aliases:
-- aerobic-activity
-- aerobic_activity
-- AerobicActivity
-- is_an_aerobic_activity
+  - aerobic-activity
+  - aerobic_activity
+  - AerobicActivity
+  - is_an_aerobic_activity
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalActivityCategory
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- aerobic_activity
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_aerobic_activity Class"
+  - aerobic_activity
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_aerobic_activity Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_aerobic_activity Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_aerobic_activity Class
 type: Type
 ---
 

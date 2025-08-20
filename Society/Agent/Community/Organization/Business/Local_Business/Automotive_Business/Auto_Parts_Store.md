@@ -1,26 +1,27 @@
 ---
 aliases:
-- auto-parts-store
-- auto_parts_store
-- AutoPartsStore
-- is_an_auto_parts_store
+  - auto-parts-store
+  - auto_parts_store
+  - AutoPartsStore
+  - is_an_auto_parts_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- auto_parts_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_auto_parts_store Class"
+  - auto_parts_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_auto_parts_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_auto_parts_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_auto_parts_store Class
 type: Type
 ---
 

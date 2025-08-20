@@ -1,25 +1,27 @@
 ---
 aliases:
-- responsibilities
-- responsibilities
-- responsibilities
-- has_text_of_responsibilities
+  - responsibilities
+  - responsibilities
+  - responsibilities
+  - has_text_of_responsibilities
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- responsibilities
-layout: 
-license: "CC BY-SA 4.0"
+  - responsibilities
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_responsibilities
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_responsibilities
 type: Pred_Text
 ---

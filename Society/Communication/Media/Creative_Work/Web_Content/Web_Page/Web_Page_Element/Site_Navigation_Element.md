@@ -1,26 +1,27 @@
 ---
 aliases:
-- site-navigation-element
-- site_navigation_element
-- SiteNavigationElement
-- is_a_site_navigation_element
+  - site-navigation-element
+  - site_navigation_element
+  - SiteNavigationElement
+  - is_a_site_navigation_element
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- site_navigation_element
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_site_navigation_element Class"
+  - site_navigation_element
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_site_navigation_element Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_site_navigation_element Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_site_navigation_element Class
 type: Type
 ---
 

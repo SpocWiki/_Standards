@@ -1,25 +1,27 @@
 ---
 aliases:
-- instructor
-- instructor
-- instructor
-- has_instructor
+  - instructor
+  - instructor
+  - instructor
+  - has_instructor
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- instructor
-layout: 
-license: "CC BY-SA 4.0"
+  - instructor
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_instructor
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_instructor
 type: Predi_Relation
 ---

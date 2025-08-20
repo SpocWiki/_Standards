@@ -1,26 +1,28 @@
 ---
 aliases:
-- usage-info
-- usage_info
-- usageInfo
-- has_usage_info
+  - usage-info
+  - usage_info
+  - usageInfo
+  - has_usage_info
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- usage
-- info
-layout: 
-license: "CC BY-SA 4.0"
+  - usage
+  - info
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_usage_info
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_usage_info
 type: Predi_Relation
 ---

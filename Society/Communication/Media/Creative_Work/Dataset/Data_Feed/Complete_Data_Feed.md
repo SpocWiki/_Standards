@@ -1,26 +1,27 @@
 ---
 aliases:
-- complete-data-feed
-- complete_data_feed
-- CompleteDataFeed
-- is_a_complete_data_feed
+  - complete-data-feed
+  - complete_data_feed
+  - CompleteDataFeed
+  - is_a_complete_data_feed
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- complete_data_feed
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_complete_data_feed Class"
+  - complete_data_feed
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_complete_data_feed Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_complete_data_feed Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_complete_data_feed Class
 type: Type
 ---
 

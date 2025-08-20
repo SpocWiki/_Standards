@@ -1,25 +1,27 @@
 ---
 aliases:
-- max_value
-- max-value
-- maxValue
-- has_value_for_max
+  - max_value
+  - max-value
+  - maxValue
+  - has_value_for_max
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- max-value
-layout: 
-license: "CC BY-SA 4.0"
+  - max-value
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_max-value
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_max-value
 type: Predi_Quantity
 ---

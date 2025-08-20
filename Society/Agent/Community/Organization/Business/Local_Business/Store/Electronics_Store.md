@@ -1,26 +1,27 @@
 ---
 aliases:
-- electronics-store
-- electronics_store
-- ElectronicsStore
-- is_an_electronics_store
+  - electronics-store
+  - electronics_store
+  - ElectronicsStore
+  - is_an_electronics_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- electronics_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_electronics_store Class"
+  - electronics_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_electronics_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_electronics_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_electronics_store Class
 type: Type
 ---
 

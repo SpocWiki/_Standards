@@ -1,26 +1,27 @@
 ---
 aliases:
-- entertainment-business
-- entertainment_business
-- EntertainmentBusiness
-- is_an_entertainment_business
+  - entertainment-business
+  - entertainment_business
+  - EntertainmentBusiness
+  - is_an_entertainment_business
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- entertainment_business
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_entertainment_business Class"
+  - entertainment_business
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_entertainment_business Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_entertainment_business Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_entertainment_business Class
 type: Type
 ---
 

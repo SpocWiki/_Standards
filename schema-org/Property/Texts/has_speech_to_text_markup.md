@@ -1,28 +1,30 @@
 ---
 aliases:
-- speech-to-text-markup
-- speech_to_text_markup
-- speechToTextMarkup
-- has_text_of_speech_to_text_markup
+  - speech-to-text-markup
+  - speech_to_text_markup
+  - speechToTextMarkup
+  - has_text_of_speech_to_text_markup
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- speech
-- to
-- text
-- markup
-layout: 
-license: "CC BY-SA 4.0"
+  - speech
+  - to
+  - text
+  - markup
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_speech_to_text_markup
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_speech_to_text_markup
 type: Pred_Text
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- defined-term-set
-- defined_term_set
-- DefinedTermSet
-- is_a_defined_term_set
+  - defined-term-set
+  - defined_term_set
+  - DefinedTermSet
+  - is_a_defined_term_set
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- defined_term_set
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_defined_term_set Class"
+  - defined_term_set
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_defined_term_set Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_defined_term_set Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_defined_term_set Class
 type: Type
 ---
 

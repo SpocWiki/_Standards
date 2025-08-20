@@ -1,26 +1,27 @@
 ---
 aliases:
-- type-and-quantity-node
-- type_and_quantity_node
-- TypeAndQuantityNode
-- is_a_type_and_quantity_node
+  - type-and-quantity-node
+  - type_and_quantity_node
+  - TypeAndQuantityNode
+  - is_a_type_and_quantity_node
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- type_and_quantity_node
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_type_and_quantity_node Class"
+  - type_and_quantity_node
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_type_and_quantity_node Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_type_and_quantity_node Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_type_and_quantity_node Class
 type: Type
 ---
 

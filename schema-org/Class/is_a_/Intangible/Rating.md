@@ -1,26 +1,27 @@
 ---
 aliases:
-- rating
-- rating
-- Rating
-- is_a_rating
+  - rating
+  - rating
+  - Rating
+  - is_a_rating
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rating
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_rating Class"
+  - rating
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_rating Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_rating Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_rating Class
 type: Type
 ---
 

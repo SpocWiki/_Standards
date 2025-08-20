@@ -1,28 +1,29 @@
 ---
 aliases:
-- merchant-return-unlimited-window
-- merchant_return_unlimited_window
-- MerchantReturnUnlimitedWindow
-- is_a_merchant_return_unlimited_window
+  - merchant-return-unlimited-window
+  - merchant_return_unlimited_window
+  - MerchantReturnUnlimitedWindow
+  - is_a_merchant_return_unlimited_window
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MerchantReturnEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- merchant_return_unlimited_window
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_merchant_return_unlimited_window Class"
+  - merchant_return_unlimited_window
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_merchant_return_unlimited_window Class
 publish: true
-publishDate: 
+publishDate:
 supersedes: ProductReturnUnlimitedWindow
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_merchant_return_unlimited_window Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_merchant_return_unlimited_window Class
 type: Type
 ---
 

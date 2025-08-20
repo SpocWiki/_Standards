@@ -1,27 +1,28 @@
 ---
 aliases:
-- nonprofit501c28
-- nonprofit501c28
-- Nonprofit501c28
-- is_a_nonprofit501c28
+  - nonprofit501c28
+  - nonprofit501c28
+  - Nonprofit501c28
+  - is_a_nonprofit501c28
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nonprofit501c28
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nonprofit501c28 Class"
+  - nonprofit501c28
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nonprofit501c28 Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nonprofit501c28 Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nonprofit501c28 Class
 type: Type
 ---
 

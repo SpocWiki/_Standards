@@ -1,26 +1,27 @@
 ---
 aliases:
-- bar-or-pub
-- bar_or_pub
-- BarOrPub
-- is_a_bar_or_pub
+  - bar-or-pub
+  - bar_or_pub
+  - BarOrPub
+  - is_a_bar_or_pub
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bar_or_pub
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_bar_or_pub Class"
+  - bar_or_pub
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_bar_or_pub Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_bar_or_pub Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_bar_or_pub Class
 type: Type
 ---
 

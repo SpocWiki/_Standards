@@ -1,27 +1,29 @@
 ---
 aliases:
-- job-location-type
-- job_location_type
-- jobLocationType
-- has_text_of_job_location_type
+  - job-location-type
+  - job_location_type
+  - jobLocationType
+  - has_text_of_job_location_type
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- job
-- location
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - job
+  - location
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_job_location_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_job_location_type
 type: Pred_Text
 ---

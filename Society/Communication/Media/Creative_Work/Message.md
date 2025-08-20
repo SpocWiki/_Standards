@@ -1,26 +1,27 @@
 ---
 aliases:
-- message
-- message
-- Message
-- is_a_message
+  - message
+  - message
+  - Message
+  - is_a_message
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- message
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_message Class"
+  - message
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_message Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_message Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_message Class
 type: Type
 ---
 

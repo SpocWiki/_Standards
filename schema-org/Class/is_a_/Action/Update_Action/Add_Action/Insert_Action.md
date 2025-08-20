@@ -1,26 +1,27 @@
 ---
 aliases:
-- insert-action
-- insert_action
-- InsertAction
-- is_an_insert_action
+  - insert-action
+  - insert_action
+  - InsertAction
+  - is_an_insert_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- insert_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_insert_action Class"
+  - insert_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_insert_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_insert_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_insert_action Class
 type: Type
 ---
 

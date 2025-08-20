@@ -1,26 +1,27 @@
 ---
 aliases:
-- screening-event
-- screening_event
-- ScreeningEvent
-- is_a_screening_event
+  - screening-event
+  - screening_event
+  - ScreeningEvent
+  - is_a_screening_event
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- screening_event
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_screening_event Class"
+  - screening_event
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_screening_event Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_screening_event Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_screening_event Class
 type: Type
 ---
 

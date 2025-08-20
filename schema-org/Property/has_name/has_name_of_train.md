@@ -1,26 +1,28 @@
 ---
 aliases:
-- train-name
-- name_of_train
-- trainName
-- has_name_of_train
+  - train-name
+  - name_of_train
+  - trainName
+  - has_name_of_train
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- train
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - train
+  - name
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_name_of_train
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_name_of_train
 type: Pred_Text
 ---

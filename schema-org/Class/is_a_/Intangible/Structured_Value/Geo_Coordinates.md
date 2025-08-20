@@ -1,26 +1,27 @@
 ---
 aliases:
-- geo-coordinates
-- geo_coordinates
-- GeoCoordinates
-- is_a_geo_coordinates
+  - geo-coordinates
+  - geo_coordinates
+  - GeoCoordinates
+  - is_a_geo_coordinates
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- geo_coordinates
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_geo_coordinates Class"
+  - geo_coordinates
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_geo_coordinates Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_geo_coordinates Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_geo_coordinates Class
 type: Type
 ---
 

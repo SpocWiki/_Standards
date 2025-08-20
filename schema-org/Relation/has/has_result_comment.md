@@ -1,26 +1,28 @@
 ---
 aliases:
-- result-comment
-- result_comment
-- resultComment
-- has_result_comment
+  - result-comment
+  - result_comment
+  - resultComment
+  - has_result_comment
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- result
-- comment
-layout: 
-license: "CC BY-SA 4.0"
+  - result
+  - comment
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_result_comment
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_result_comment
 type: Predi_Relation
 ---

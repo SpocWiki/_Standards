@@ -1,25 +1,27 @@
 ---
 aliases:
-- skills
-- skills
-- skills
-- has_skills
+  - skills
+  - skills
+  - skills
+  - has_skills
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- skills
-layout: 
-license: "CC BY-SA 4.0"
+  - skills
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_skills
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_skills
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- mobile-application
-- mobile_application
-- MobileApplication
-- is_a_mobile_application
+  - mobile-application
+  - mobile_application
+  - MobileApplication
+  - is_a_mobile_application
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- mobile_application
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_mobile_application Class"
+  - mobile_application
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_mobile_application Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_mobile_application Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_mobile_application Class
 type: Type
 ---
 

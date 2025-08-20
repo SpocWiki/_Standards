@@ -1,26 +1,27 @@
 ---
 aliases:
-- convenience-store
-- convenience_store
-- ConvenienceStore
-- is_a_convenience_store
+  - convenience-store
+  - convenience_store
+  - ConvenienceStore
+  - is_a_convenience_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- convenience_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_convenience_store Class"
+  - convenience_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_convenience_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_convenience_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_convenience_store Class
 type: Type
 ---
 

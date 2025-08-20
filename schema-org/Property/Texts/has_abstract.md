@@ -1,25 +1,27 @@
 ---
 aliases:
-- abstract
-- abstract
-- abstract
-- has_text_of_abstract
+  - abstract
+  - abstract
+  - abstract
+  - has_text_of_abstract
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- abstract
-layout: 
-license: "CC BY-SA 4.0"
+  - abstract
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_abstract
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_abstract
 type: Pred_Text
 ---

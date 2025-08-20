@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-size-group-misses
-- wearable_size_group_misses
-- WearableSizeGroupMisses
-- is_a_wearable_size_group_misses
+  - wearable-size-group-misses
+  - wearable_size_group_misses
+  - WearableSizeGroupMisses
+  - is_a_wearable_size_group_misses
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_size_group_misses
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_size_group_misses Class"
+  - wearable_size_group_misses
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_size_group_misses Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_size_group_misses Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_size_group_misses Class
 type: Type
 ---
 

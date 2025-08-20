@@ -1,25 +1,27 @@
 ---
 aliases:
-- trans_fat_in_gram
-- trans-fat-content
-- transFatContent
-- has_value_for_trans_fat_in_gram
+  - trans_fat_in_gram
+  - trans-fat-content
+  - transFatContent
+  - has_value_for_trans_fat_in_gram
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- trans-fat-content
-layout: 
-license: "CC BY-SA 4.0"
+  - trans-fat-content
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_trans-fat-content
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_trans-fat-content
 type: Predi_Quantity
 ---

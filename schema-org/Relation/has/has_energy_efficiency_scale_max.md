@@ -1,28 +1,30 @@
 ---
 aliases:
-- energy-efficiency-scale-max
-- energy_efficiency_scale_max
-- energyEfficiencyScaleMax
-- has_energy_efficiency_scale_max
+  - energy-efficiency-scale-max
+  - energy_efficiency_scale_max
+  - energyEfficiencyScaleMax
+  - has_energy_efficiency_scale_max
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- energy
-- efficiency
-- scale
-- max
-layout: 
-license: "CC BY-SA 4.0"
+  - energy
+  - efficiency
+  - scale
+  - max
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_energy_efficiency_scale_max
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_energy_efficiency_scale_max
 type: Predi_Relation
 ---

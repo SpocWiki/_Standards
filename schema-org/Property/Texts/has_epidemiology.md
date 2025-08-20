@@ -1,25 +1,27 @@
 ---
 aliases:
-- epidemiology
-- epidemiology
-- epidemiology
-- has_text_of_epidemiology
+  - epidemiology
+  - epidemiology
+  - epidemiology
+  - has_text_of_epidemiology
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- epidemiology
-layout: 
-license: "CC BY-SA 4.0"
+  - epidemiology
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_epidemiology
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_epidemiology
 type: Pred_Text
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- read-by
-- read_by
-- readBy
-- has_read_by
+  - read-by
+  - read_by
+  - readBy
+  - has_read_by
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- read
-- by
-layout: 
-license: "CC BY-SA 4.0"
+  - read
+  - by
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_read_by
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_read_by
 type: Predi_Relation
 ---

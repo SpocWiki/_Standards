@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-guideline-recommendation
-- medical_guideline_recommendation
-- MedicalGuidelineRecommendation
-- is_a_medical_guideline_recommendation
+  - medical-guideline-recommendation
+  - medical_guideline_recommendation
+  - MedicalGuidelineRecommendation
+  - is_a_medical_guideline_recommendation
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_guideline_recommendation
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_guideline_recommendation Class"
+  - medical_guideline_recommendation
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_guideline_recommendation Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_guideline_recommendation Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_guideline_recommendation Class
 type: Type
 ---
 

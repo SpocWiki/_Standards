@@ -1,26 +1,27 @@
 ---
 aliases:
-- boolean
-- boolean
-- Boolean
-- is_a_boolean
+  - boolean
+  - boolean
+  - Boolean
+  - is_a_boolean
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- boolean
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_boolean Class"
+  - boolean
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_boolean Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_boolean Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_boolean Class
 type: Type
 ---
 

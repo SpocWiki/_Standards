@@ -1,27 +1,28 @@
 ---
 aliases:
-- return-by-mail
-- return_by_mail
-- ReturnByMail
-- is_a_return_by_mail
+  - return-by-mail
+  - return_by_mail
+  - ReturnByMail
+  - is_a_return_by_mail
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReturnMethodEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return_by_mail
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_return_by_mail Class"
+  - return_by_mail
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_return_by_mail Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_return_by_mail Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_return_by_mail Class
 type: Type
 ---
 

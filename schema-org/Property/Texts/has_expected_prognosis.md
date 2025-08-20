@@ -1,26 +1,28 @@
 ---
 aliases:
-- expected-prognosis
-- expected_prognosis
-- expectedPrognosis
-- has_text_of_expected_prognosis
+  - expected-prognosis
+  - expected_prognosis
+  - expectedPrognosis
+  - has_text_of_expected_prognosis
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- expected
-- prognosis
-layout: 
-license: "CC BY-SA 4.0"
+  - expected
+  - prognosis
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_expected_prognosis
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_expected_prognosis
 type: Pred_Text
 ---

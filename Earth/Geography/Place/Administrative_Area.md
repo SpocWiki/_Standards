@@ -1,26 +1,27 @@
 ---
 aliases:
-- administrative-area
-- administrative_area
-- AdministrativeArea
-- is_an_administrative_area
+  - administrative-area
+  - administrative_area
+  - AdministrativeArea
+  - is_an_administrative_area
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- administrative_area
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_administrative_area Class"
+  - administrative_area
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_administrative_area Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_administrative_area Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_administrative_area Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- potential-use
-- potential_use
-- potentialUse
-- has_potential_use
+  - potential-use
+  - potential_use
+  - potentialUse
+  - has_potential_use
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- potential
-- use
-layout: 
-license: "CC BY-SA 4.0"
+  - potential
+  - use
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_potential_use
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_potential_use
 type: Predi_Relation
 ---

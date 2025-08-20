@@ -1,26 +1,28 @@
 ---
 aliases:
-- sub-reservation
-- sub_reservation
-- subReservation
-- has_sub_reservation
+  - sub-reservation
+  - sub_reservation
+  - subReservation
+  - has_sub_reservation
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sub
-- reservation
-layout: 
-license: "CC BY-SA 4.0"
+  - sub
+  - reservation
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sub_reservation
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sub_reservation
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- physical-activity
-- physical_activity
-- PhysicalActivity
-- is_a_physical_activity
+  - physical-activity
+  - physical_activity
+  - PhysicalActivity
+  - is_a_physical_activity
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- physical_activity
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_physical_activity Class"
+  - physical_activity
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_physical_activity Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_physical_activity Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_physical_activity Class
 type: Type
 ---
 

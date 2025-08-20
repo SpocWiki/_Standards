@@ -1,26 +1,27 @@
 ---
 aliases:
-- anatomical-system
-- anatomical_system
-- AnatomicalSystem
-- is_an_anatomical_system
+  - anatomical-system
+  - anatomical_system
+  - AnatomicalSystem
+  - is_an_anatomical_system
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- anatomical_system
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_anatomical_system Class"
+  - anatomical_system
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_anatomical_system Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_anatomical_system Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_anatomical_system Class
 type: Type
 ---
 

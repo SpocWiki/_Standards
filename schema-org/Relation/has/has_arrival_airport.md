@@ -1,26 +1,28 @@
 ---
 aliases:
-- arrival-airport
-- arrival_airport
-- arrivalAirport
-- has_arrival_airport
+  - arrival-airport
+  - arrival_airport
+  - arrivalAirport
+  - has_arrival_airport
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- arrival
-- airport
-layout: 
-license: "CC BY-SA 4.0"
+  - arrival
+  - airport
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_arrival_airport
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_arrival_airport
 type: Predi_Relation
 ---

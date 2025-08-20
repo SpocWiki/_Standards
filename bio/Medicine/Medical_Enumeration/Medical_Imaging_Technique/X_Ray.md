@@ -1,27 +1,28 @@
 ---
 aliases:
-- x-ray
-- x_ray
-- XRay
-- is_a_x_ray
+  - x-ray
+  - x_ray
+  - XRay
+  - is_a_x_ray
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalImagingTechnique
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- x_ray
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_x_ray Class"
+  - x_ray
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_x_ray Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_x_ray Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_x_ray Class
 type: Type
 ---
 

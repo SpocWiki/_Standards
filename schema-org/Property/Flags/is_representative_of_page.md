@@ -1,25 +1,27 @@
 ---
 aliases:
-- representative-of-page
-- representative_of_page
-- representativeOfPage
-- is_representative_of_page
+  - representative-of-page
+  - representative_of_page
+  - representativeOfPage
+  - is_representative_of_page
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- representative_of_page
-layout: 
-license: "CC BY-SA 4.0"
+  - representative_of_page
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_representative_of_page
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_representative_of_page
 type: Pred_Bool
 ---

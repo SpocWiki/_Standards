@@ -1,27 +1,28 @@
 ---
 aliases:
-- primary-care
-- primary_care
-- PrimaryCare
-- is_a_primary_care
+  - primary-care
+  - primary_care
+  - PrimaryCare
+  - is_a_primary_care
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- primary_care
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_primary_care Class"
+  - primary_care
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_primary_care Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_primary_care Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_primary_care Class
 type: Type
 ---
 

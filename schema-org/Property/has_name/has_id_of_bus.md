@@ -1,26 +1,28 @@
 ---
 aliases:
-- bus-number
-- id_of_bus
-- busNumber
-- has_id_of_bus
+  - bus-number
+  - id_of_bus
+  - busNumber
+  - has_id_of_bus
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bus
-- number
-layout: 
-license: "CC BY-SA 4.0"
+  - bus
+  - number
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_of_bus
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_of_bus
 type: Pred_Text
 ---

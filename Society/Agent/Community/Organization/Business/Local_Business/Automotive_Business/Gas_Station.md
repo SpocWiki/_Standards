@@ -1,26 +1,27 @@
 ---
 aliases:
-- gas-station
-- gas_station
-- GasStation
-- is_a_gas_station
+  - gas-station
+  - gas_station
+  - GasStation
+  - is_a_gas_station
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- gas_station
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_gas_station Class"
+  - gas_station
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_gas_station Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_gas_station Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_gas_station Class
 type: Type
 ---
 

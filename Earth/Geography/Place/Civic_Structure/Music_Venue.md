@@ -1,26 +1,27 @@
 ---
 aliases:
-- music-venue
-- music_venue
-- MusicVenue
-- is_a_music_venue
+  - music-venue
+  - music_venue
+  - MusicVenue
+  - is_a_music_venue
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- music_venue
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_music_venue Class"
+  - music_venue
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_music_venue Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_music_venue Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_music_venue Class
 type: Type
 ---
 

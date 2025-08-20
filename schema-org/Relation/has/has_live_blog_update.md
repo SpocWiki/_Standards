@@ -1,27 +1,29 @@
 ---
 aliases:
-- live-blog-update
-- live_blog_update
-- liveBlogUpdate
-- has_live_blog_update
+  - live-blog-update
+  - live_blog_update
+  - liveBlogUpdate
+  - has_live_blog_update
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- live
-- blog
-- update
-layout: 
-license: "CC BY-SA 4.0"
+  - live
+  - blog
+  - update
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_live_blog_update
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_live_blog_update
 type: Predi_Relation
 ---

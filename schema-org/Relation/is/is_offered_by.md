@@ -1,26 +1,28 @@
 ---
 aliases:
-- offered-by
-- offered_by
-- offeredBy
-- is_offered_by
+  - offered-by
+  - offered_by
+  - offeredBy
+  - is_offered_by
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- offered
-- by
-layout: 
-license: "CC BY-SA 4.0"
+  - offered
+  - by
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_offered_by
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_offered_by
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- hair-salon
-- hair_salon
-- HairSalon
-- is_a_hair_salon
+  - hair-salon
+  - hair_salon
+  - HairSalon
+  - is_a_hair_salon
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hair_salon
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hair_salon Class"
+  - hair_salon
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hair_salon Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hair_salon Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hair_salon Class
 type: Type
 ---
 

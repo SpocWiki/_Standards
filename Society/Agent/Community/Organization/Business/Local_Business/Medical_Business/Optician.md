@@ -1,26 +1,27 @@
 ---
 aliases:
-- optician
-- optician
-- Optician
-- is_an_optician
+  - optician
+  - optician
+  - Optician
+  - is_an_optician
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- optician
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_optician Class"
+  - optician
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_optician Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_optician Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_optician Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- occupational-therapy
-- occupational_therapy
-- OccupationalTherapy
-- is_an_occupational_therapy
+  - occupational-therapy
+  - occupational_therapy
+  - OccupationalTherapy
+  - is_an_occupational_therapy
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- occupational_therapy
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_occupational_therapy Class"
+  - occupational_therapy
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_occupational_therapy Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_occupational_therapy Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_occupational_therapy Class
 type: Type
 ---
 

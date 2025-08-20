@@ -1,26 +1,28 @@
 ---
 aliases:
-- work-performed
-- work_performed
-- workPerformed
-- has_work_performed
+  - work-performed
+  - work_performed
+  - workPerformed
+  - has_work_performed
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- work
-- performed
-layout: 
-license: "CC BY-SA 4.0"
+  - work
+  - performed
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_work_performed
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_work_performed
 type: Predi_Relation
 ---

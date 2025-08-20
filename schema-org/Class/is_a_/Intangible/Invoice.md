@@ -1,26 +1,27 @@
 ---
 aliases:
-- invoice
-- invoice
-- Invoice
-- is_an_invoice
+  - invoice
+  - invoice
+  - Invoice
+  - is_an_invoice
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- invoice
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_invoice Class"
+  - invoice
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_invoice Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_invoice Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_invoice Class
 type: Type
 ---
 

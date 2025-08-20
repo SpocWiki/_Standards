@@ -1,26 +1,27 @@
 ---
 aliases:
-- apartment
-- apartment
-- Apartment
-- is_an_apartment
+  - apartment
+  - apartment
+  - Apartment
+  - is_an_apartment
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- apartment
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_apartment Class"
+  - apartment
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_apartment Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_apartment Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_apartment Class
 type: Type
 ---
 

@@ -1,25 +1,27 @@
 ---
 aliases:
-- eligible_duration
-- eligible-duration
-- eligibleDuration
-- has_value_for_eligible_duration
+  - eligible_duration
+  - eligible-duration
+  - eligibleDuration
+  - has_value_for_eligible_duration
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- eligible-duration
-layout: 
-license: "CC BY-SA 4.0"
+  - eligible-duration
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_eligible-duration
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_eligible-duration
 type: Predi_Quantity
 ---

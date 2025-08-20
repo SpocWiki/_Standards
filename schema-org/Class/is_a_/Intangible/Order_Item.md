@@ -1,26 +1,27 @@
 ---
 aliases:
-- order-item
-- order_item
-- OrderItem
-- is_an_order_item
+  - order-item
+  - order_item
+  - OrderItem
+  - is_an_order_item
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- order_item
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_order_item Class"
+  - order_item
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_order_item Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_order_item Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_order_item Class
 type: Type
 ---
 

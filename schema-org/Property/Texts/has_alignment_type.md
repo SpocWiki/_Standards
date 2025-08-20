@@ -1,26 +1,28 @@
 ---
 aliases:
-- alignment-type
-- alignment_type
-- alignmentType
-- has_text_of_alignment_type
+  - alignment-type
+  - alignment_type
+  - alignmentType
+  - has_text_of_alignment_type
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- alignment
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - alignment
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_alignment_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_alignment_type
 type: Pred_Text
 ---

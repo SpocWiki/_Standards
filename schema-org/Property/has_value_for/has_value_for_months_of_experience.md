@@ -1,25 +1,27 @@
 ---
 aliases:
-- months_of_experience
-- months-of-experience
-- monthsOfExperience
-- has_value_for_months_of_experience
+  - months_of_experience
+  - months-of-experience
+  - monthsOfExperience
+  - has_value_for_months_of_experience
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- months-of-experience
-layout: 
-license: "CC BY-SA 4.0"
+  - months-of-experience
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_months-of-experience
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_months-of-experience
 type: Predi_Quantity
 ---

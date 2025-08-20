@@ -1,26 +1,27 @@
 ---
 aliases:
-- boat-trip
-- boat_trip
-- BoatTrip
-- is_a_boat_trip
+  - boat-trip
+  - boat_trip
+  - BoatTrip
+  - is_a_boat_trip
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- boat_trip
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_boat_trip Class"
+  - boat_trip
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_boat_trip Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_boat_trip Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_boat_trip Class
 type: Type
 ---
 

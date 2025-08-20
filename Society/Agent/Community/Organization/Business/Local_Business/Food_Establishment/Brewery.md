@@ -1,26 +1,27 @@
 ---
 aliases:
-- brewery
-- brewery
-- Brewery
-- is_a_brewery
+  - brewery
+  - brewery
+  - Brewery
+  - is_a_brewery
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- brewery
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_brewery Class"
+  - brewery
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_brewery Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_brewery Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_brewery Class
 type: Type
 ---
 

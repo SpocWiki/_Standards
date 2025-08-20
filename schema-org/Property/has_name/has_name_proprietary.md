@@ -1,26 +1,28 @@
 ---
 aliases:
-- proprietary-name
-- name_proprietary
-- proprietaryName
-- has_name_proprietary
+  - proprietary-name
+  - name_proprietary
+  - proprietaryName
+  - has_name_proprietary
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- proprietary
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - proprietary
+  - name
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_name_proprietary
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_name_proprietary
 type: Pred_Text
 ---

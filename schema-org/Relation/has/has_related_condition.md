@@ -1,26 +1,28 @@
 ---
 aliases:
-- related-condition
-- related_condition
-- relatedCondition
-- has_related_condition
+  - related-condition
+  - related_condition
+  - relatedCondition
+  - has_related_condition
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- related
-- condition
-layout: 
-license: "CC BY-SA 4.0"
+  - related
+  - condition
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_related_condition
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_related_condition
 type: Predi_Relation
 ---

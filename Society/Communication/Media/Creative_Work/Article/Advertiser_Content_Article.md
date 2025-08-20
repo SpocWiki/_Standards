@@ -1,26 +1,27 @@
 ---
 aliases:
-- advertiser-content-article
-- advertiser_content_article
-- AdvertiserContentArticle
-- is_an_advertiser_content_article
+  - advertiser-content-article
+  - advertiser_content_article
+  - AdvertiserContentArticle
+  - is_an_advertiser_content_article
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- advertiser_content_article
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_advertiser_content_article Class"
+  - advertiser_content_article
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_advertiser_content_article Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_advertiser_content_article Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_advertiser_content_article Class
 type: Type
 ---
 

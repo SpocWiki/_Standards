@@ -1,26 +1,28 @@
 ---
 aliases:
-- comprised-of
-- comprised_of
-- comprisedOf
-- is_comprised_of
+  - comprised-of
+  - comprised_of
+  - comprisedOf
+  - is_comprised_of
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- comprised
-- of
-layout: 
-license: "CC BY-SA 4.0"
+  - comprised
+  - of
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_comprised_of
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_comprised_of
 type: Predi_Relation
 ---

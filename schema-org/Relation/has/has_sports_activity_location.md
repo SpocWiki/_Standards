@@ -1,27 +1,29 @@
 ---
 aliases:
-- sports-activity-location
-- sports_activity_location
-- sportsActivityLocation
-- has_sports_activity_location
+  - sports-activity-location
+  - sports_activity_location
+  - sportsActivityLocation
+  - has_sports_activity_location
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sports
-- activity
-- location
-layout: 
-license: "CC BY-SA 4.0"
+  - sports
+  - activity
+  - location
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sports_activity_location
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sports_activity_location
 type: Predi_Relation
 ---

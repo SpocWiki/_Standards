@@ -1,27 +1,28 @@
 ---
 aliases:
-- may-treat-health-aspect
-- may_treat_health_aspect
-- MayTreatHealthAspect
-- is_a_may_treat_health_aspect
+  - may-treat-health-aspect
+  - may_treat_health_aspect
+  - MayTreatHealthAspect
+  - is_a_may_treat_health_aspect
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- may_treat_health_aspect
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_may_treat_health_aspect Class"
+  - may_treat_health_aspect
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_may_treat_health_aspect Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_may_treat_health_aspect Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_may_treat_health_aspect Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- measured-value
-- measured_value
-- measuredValue
-- has_measured_value
+  - measured-value
+  - measured_value
+  - measuredValue
+  - has_measured_value
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- measured
-- value
-layout: 
-license: "CC BY-SA 4.0"
+  - measured
+  - value
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_measured_value
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_measured_value
 type: Predi_Relation
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- web-feed
-- web_feed
-- webFeed
-- has_web_feed
+  - web-feed
+  - web_feed
+  - webFeed
+  - has_web_feed
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- web
-- feed
-layout: 
-license: "CC BY-SA 4.0"
+  - web
+  - feed
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_web_feed
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_web_feed
 type: Predi_Relation
 ---

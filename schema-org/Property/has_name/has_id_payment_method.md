@@ -1,27 +1,29 @@
 ---
 aliases:
-- payment-method-id
-- id_payment_method
-- paymentMethodId
-- has_id_payment_method
+  - payment-method-id
+  - id_payment_method
+  - paymentMethodId
+  - has_id_payment_method
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- payment
-- method
-- id
-layout: 
-license: "CC BY-SA 4.0"
+  - payment
+  - method
+  - id
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_payment_method
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_payment_method
 type: Pred_Text
 ---

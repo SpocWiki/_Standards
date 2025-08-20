@@ -1,26 +1,28 @@
 ---
 aliases:
-- refund-type
-- refund_type
-- refundType
-- has_refund_type
+  - refund-type
+  - refund_type
+  - refundType
+  - has_refund_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- refund
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - refund
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_refund_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_refund_type
 type: Predi_Relation
 ---

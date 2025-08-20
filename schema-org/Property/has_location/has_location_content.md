@@ -1,25 +1,27 @@
 ---
 aliases:
-- content-location
-- content_location
-- contentLocation
-- has_location_content
+  - content-location
+  - content_location
+  - contentLocation
+  - has_location_content
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- content_location
-layout: 
-license: "CC BY-SA 4.0"
+  - content_location
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_content
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_content
 type: Pred_geo
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- return-label-customer-responsibility
-- return_label_customer_responsibility
-- ReturnLabelCustomerResponsibility
-- is_a_return_label_customer_responsibility
+  - return-label-customer-responsibility
+  - return_label_customer_responsibility
+  - ReturnLabelCustomerResponsibility
+  - is_a_return_label_customer_responsibility
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReturnLabelSourceEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return_label_customer_responsibility
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_return_label_customer_responsibility Class"
+  - return_label_customer_responsibility
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_return_label_customer_responsibility Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_return_label_customer_responsibility Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_return_label_customer_responsibility Class
 type: Type
 ---
 

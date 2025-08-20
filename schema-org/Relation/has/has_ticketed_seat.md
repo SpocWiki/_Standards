@@ -1,26 +1,28 @@
 ---
 aliases:
-- ticketed-seat
-- ticketed_seat
-- ticketedSeat
-- has_ticketed_seat
+  - ticketed-seat
+  - ticketed_seat
+  - ticketedSeat
+  - has_ticketed_seat
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ticketed
-- seat
-layout: 
-license: "CC BY-SA 4.0"
+  - ticketed
+  - seat
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_ticketed_seat
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_ticketed_seat
 type: Predi_Relation
 ---

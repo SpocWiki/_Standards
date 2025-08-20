@@ -1,26 +1,27 @@
 ---
 aliases:
-- data-feed-item
-- data_feed_item
-- DataFeedItem
-- is_a_data_feed_item
+  - data-feed-item
+  - data_feed_item
+  - DataFeedItem
+  - is_a_data_feed_item
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- data_feed_item
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_data_feed_item Class"
+  - data_feed_item
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_data_feed_item Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_data_feed_item Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_data_feed_item Class
 type: Type
 ---
 

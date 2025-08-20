@@ -1,25 +1,27 @@
 ---
 aliases:
-- rating-count
-- rating_count
-- ratingCount
-- has_number_of_ratings
+  - rating-count
+  - rating_count
+  - ratingCount
+  - has_number_of_ratings
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rating_count
-layout: 
-license: "CC BY-SA 4.0"
+  - rating_count
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_rating_count
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_rating_count
 type: Predi_Count
 ---

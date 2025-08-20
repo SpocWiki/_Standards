@@ -1,26 +1,28 @@
 ---
 aliases:
-- available-language
-- available_language
-- availableLanguage
-- is_available_in_language
+  - available-language
+  - available_language
+  - availableLanguage
+  - is_available_in_language
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- available
-- language
-layout: 
-license: "CC BY-SA 4.0"
+  - available
+  - language
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_available_in_language
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_available_in_language
 type: Predi_Relation
 ---

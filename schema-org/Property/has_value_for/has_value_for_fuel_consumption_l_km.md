@@ -1,25 +1,27 @@
 ---
 aliases:
-- fuel_consumption
-- fuel-consumption
-- fuelConsumption
-- has_value_for_fuel_consumption_l_km
+  - fuel_consumption
+  - fuel-consumption
+  - fuelConsumption
+  - has_value_for_fuel_consumption_l_km
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- fuel-consumption
-layout: 
-license: "CC BY-SA 4.0"
+  - fuel-consumption
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_fuel-consumption
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_fuel-consumption
 type: Predi_Quantity
 ---

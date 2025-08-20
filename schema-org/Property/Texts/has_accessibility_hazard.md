@@ -1,26 +1,28 @@
 ---
 aliases:
-- accessibility-hazard
-- accessibility_hazard
-- accessibilityHazard
-- has_text_of_accessibility_hazard
+  - accessibility-hazard
+  - accessibility_hazard
+  - accessibilityHazard
+  - has_text_of_accessibility_hazard
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- accessibility
-- hazard
-layout: 
-license: "CC BY-SA 4.0"
+  - accessibility
+  - hazard
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_accessibility_hazard
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_accessibility_hazard
 type: Pred_Text
 ---

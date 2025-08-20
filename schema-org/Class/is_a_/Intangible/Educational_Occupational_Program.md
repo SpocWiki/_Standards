@@ -1,26 +1,27 @@
 ---
 aliases:
-- educational-occupational-program
-- educational_occupational_program
-- EducationalOccupationalProgram
-- is_an_educational_occupational_program
+  - educational-occupational-program
+  - educational_occupational_program
+  - EducationalOccupationalProgram
+  - is_an_educational_occupational_program
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- educational_occupational_program
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_educational_occupational_program Class"
+  - educational_occupational_program
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_educational_occupational_program Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_educational_occupational_program Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_educational_occupational_program Class
 type: Type
 ---
 

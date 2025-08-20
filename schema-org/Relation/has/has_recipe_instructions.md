@@ -1,26 +1,28 @@
 ---
 aliases:
-- recipe-instructions
-- recipe_instructions
-- recipeInstructions
-- has_recipe_instructions
+  - recipe-instructions
+  - recipe_instructions
+  - recipeInstructions
+  - has_recipe_instructions
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- recipe
-- instructions
-layout: 
-license: "CC BY-SA 4.0"
+  - recipe
+  - instructions
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_recipe_instructions
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_recipe_instructions
 type: Predi_Relation
 ---

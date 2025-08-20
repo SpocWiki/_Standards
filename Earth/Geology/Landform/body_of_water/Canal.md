@@ -4,15 +4,16 @@ aliases:
   - Canal
   - is_a_canal
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 isDeleted: false
 isReadOnly: false
 keywords:
   - canal
-layout: 
+layout:
 license: CC BY-SA 4.0
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class

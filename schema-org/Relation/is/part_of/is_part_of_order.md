@@ -1,27 +1,29 @@
 ---
 aliases:
-- part-of-order
-- part_of_order
-- partOfOrder
-- is_part_of_order
+  - part-of-order
+  - part_of_order
+  - partOfOrder
+  - is_part_of_order
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- part
-- of
-- order
-layout: 
-license: "CC BY-SA 4.0"
+  - part
+  - of
+  - order
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_part_of_order
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_part_of_order
 type: Predi_Relation
 ---

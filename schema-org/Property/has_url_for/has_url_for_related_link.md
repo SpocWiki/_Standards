@@ -1,25 +1,27 @@
 ---
 aliases:
-- related-link
-- related_link
-- relatedLink
-- has_url_for_related_link
+  - related-link
+  - related_link
+  - relatedLink
+  - has_url_for_related_link
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- related_link
-layout: 
-license: "CC BY-SA 4.0"
+  - related_link
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_related_link
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_related_link
 type: Predi_Url
 ---

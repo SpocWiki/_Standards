@@ -1,27 +1,28 @@
 ---
 aliases:
-- full-refund
-- full_refund
-- FullRefund
-- is_a_full_refund
+  - full-refund
+  - full_refund
+  - FullRefund
+  - is_a_full_refund
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: RefundTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- full_refund
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_full_refund Class"
+  - full_refund
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_full_refund Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_full_refund Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_full_refund Class
 type: Type
 ---
 

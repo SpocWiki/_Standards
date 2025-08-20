@@ -1,27 +1,29 @@
 ---
 aliases:
-- data-feed-element
-- data_feed_element
-- dataFeedElement
-- has_data_feed_element
+  - data-feed-element
+  - data_feed_element
+  - dataFeedElement
+  - has_data_feed_element
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- data
-- feed
-- element
-layout: 
-license: "CC BY-SA 4.0"
+  - data
+  - feed
+  - element
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_data_feed_element
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_data_feed_element
 type: Predi_Relation
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- nonprofit501c8
-- nonprofit501c8
-- Nonprofit501c8
-- is_a_nonprofit501c8
+  - nonprofit501c8
+  - nonprofit501c8
+  - Nonprofit501c8
+  - is_a_nonprofit501c8
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nonprofit501c8
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nonprofit501c8 Class"
+  - nonprofit501c8
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nonprofit501c8 Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nonprofit501c8 Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nonprofit501c8 Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- item-list-order-type
-- item_list_order_type
-- ItemListOrderType
-- is_an_item_list_order_type
+  - item-list-order-type
+  - item_list_order_type
+  - ItemListOrderType
+  - is_an_item_list_order_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- item_list_order_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_item_list_order_type Class"
+  - item_list_order_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_item_list_order_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_item_list_order_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_item_list_order_type Class
 type: Type
 ---
 

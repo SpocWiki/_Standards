@@ -1,27 +1,28 @@
 ---
 aliases:
-- plastic-surgery
-- plastic_surgery
-- PlasticSurgery
-- is_a_plastic_surgery
+  - plastic-surgery
+  - plastic_surgery
+  - PlasticSurgery
+  - is_a_plastic_surgery
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- plastic_surgery
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_plastic_surgery Class"
+  - plastic_surgery
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_plastic_surgery Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_plastic_surgery Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_plastic_surgery Class
 type: Type
 ---
 

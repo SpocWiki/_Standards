@@ -1,25 +1,27 @@
 ---
 aliases:
-- geo_radius
-- geo-radius
-- geoRadius
-- has_value_for_geo_radius_in_meters
+  - geo_radius
+  - geo-radius
+  - geoRadius
+  - has_value_for_geo_radius_in_meters
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- geo-radius
-layout: 
-license: "CC BY-SA 4.0"
+  - geo-radius
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_geo-radius
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_geo-radius
 type: Predi_Quantity
 ---

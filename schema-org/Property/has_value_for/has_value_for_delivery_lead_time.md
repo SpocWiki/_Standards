@@ -1,25 +1,27 @@
 ---
 aliases:
-- delivery_lead_time
-- delivery-lead-time
-- deliveryLeadTime
-- has_value_for_delivery_lead_time
+  - delivery_lead_time
+  - delivery-lead-time
+  - deliveryLeadTime
+  - has_value_for_delivery_lead_time
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- delivery-lead-time
-layout: 
-license: "CC BY-SA 4.0"
+  - delivery-lead-time
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_delivery-lead-time
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_delivery-lead-time
 type: Predi_Quantity
 ---

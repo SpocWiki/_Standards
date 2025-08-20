@@ -1,26 +1,28 @@
 ---
 aliases:
-- price-currency
-- price_currency
-- priceCurrency
-- has_text_of_price_currency
+  - price-currency
+  - price_currency
+  - priceCurrency
+  - has_text_of_price_currency
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- price
-- currency
-layout: 
-license: "CC BY-SA 4.0"
+  - price
+  - currency
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_price_currency
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_price_currency
 type: Pred_Text
 ---

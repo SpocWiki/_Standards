@@ -1,26 +1,27 @@
 ---
 aliases:
-- watch-action
-- watch_action
-- WatchAction
-- is_a_watch_action
+  - watch-action
+  - watch_action
+  - WatchAction
+  - is_a_watch_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- watch_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_watch_action Class"
+  - watch_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_watch_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_watch_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_watch_action Class
 type: Type
 ---
 

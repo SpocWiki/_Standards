@@ -1,26 +1,27 @@
 ---
 aliases:
-- perform-action
-- perform_action
-- PerformAction
-- is_a_perform_action
+  - perform-action
+  - perform_action
+  - PerformAction
+  - is_a_perform_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- perform_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_perform_action Class"
+  - perform_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_perform_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_perform_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_perform_action Class
 type: Type
 ---
 

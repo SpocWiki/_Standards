@@ -1,26 +1,27 @@
 ---
 aliases:
-- organization-role
-- organization_role
-- OrganizationRole
-- is_an_organization_role
+  - organization-role
+  - organization_role
+  - OrganizationRole
+  - is_an_organization_role
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- organization_role
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_organization_role Class"
+  - organization_role
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_organization_role Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_organization_role Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_organization_role Class
 type: Type
 ---
 

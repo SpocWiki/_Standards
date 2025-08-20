@@ -1,26 +1,27 @@
 ---
 aliases:
-- drug-cost-category
-- drug_cost_category
-- DrugCostCategory
-- is_a_drug_cost_category
+  - drug-cost-category
+  - drug_cost_category
+  - DrugCostCategory
+  - is_a_drug_cost_category
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- drug_cost_category
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_drug_cost_category Class"
+  - drug_cost_category
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_drug_cost_category Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_drug_cost_category Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_drug_cost_category Class
 type: Type
 ---
 

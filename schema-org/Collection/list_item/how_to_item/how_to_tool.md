@@ -1,26 +1,27 @@
 ---
 aliases:
-- how-to-tool
-- how_to_tool
-- HowToTool
-- is_a_how_to_tool
+  - how-to-tool
+  - how_to_tool
+  - HowToTool
+  - is_a_how_to_tool
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- how_to_tool
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_how_to_tool Class"
+  - how_to_tool
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_how_to_tool Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_how_to_tool Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_how_to_tool Class
 type: Type
 ---
 

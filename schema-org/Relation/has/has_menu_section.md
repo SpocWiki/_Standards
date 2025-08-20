@@ -1,26 +1,28 @@
 ---
 aliases:
-- has-menu-section
-- menu_section
-- hasMenuSection
-- has_menu_section
+  - has-menu-section
+  - menu_section
+  - hasMenuSection
+  - has_menu_section
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- menu
-- section
-layout: 
-license: "CC BY-SA 4.0"
+  - menu
+  - section
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_menu_section
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_menu_section
 type: Predi_Relation
 ---

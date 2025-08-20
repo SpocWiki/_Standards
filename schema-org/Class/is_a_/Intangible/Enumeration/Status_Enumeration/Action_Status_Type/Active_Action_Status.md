@@ -1,27 +1,28 @@
 ---
 aliases:
-- active-action-status
-- active_action_status
-- ActiveActionStatus
-- is_an_active_action_status
+  - active-action-status
+  - active_action_status
+  - ActiveActionStatus
+  - is_an_active_action_status
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ActionStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- active_action_status
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_active_action_status Class"
+  - active_action_status
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_active_action_status Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_active_action_status Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_active_action_status Class
 type: Type
 ---
 

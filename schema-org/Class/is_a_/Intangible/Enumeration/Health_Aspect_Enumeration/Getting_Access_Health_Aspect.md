@@ -1,27 +1,28 @@
 ---
 aliases:
-- getting-access-health-aspect
-- getting_access_health_aspect
-- GettingAccessHealthAspect
-- is_a_getting_access_health_aspect
+  - getting-access-health-aspect
+  - getting_access_health_aspect
+  - GettingAccessHealthAspect
+  - is_a_getting_access_health_aspect
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- getting_access_health_aspect
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_getting_access_health_aspect Class"
+  - getting_access_health_aspect
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_getting_access_health_aspect Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_getting_access_health_aspect Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_getting_access_health_aspect Class
 type: Type
 ---
 

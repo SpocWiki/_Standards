@@ -1,29 +1,31 @@
 ---
 aliases:
-- accepted-payment-method
-- accepted_payment_method
-- acceptedPaymentMethod
-- has_accepted_payment_method
+  - accepted-payment-method
+  - accepted_payment_method
+  - acceptedPaymentMethod
+  - has_accepted_payment_method
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 fileClass:
-- FileClass-Relation
+  - FileClass-Relation
 isDeleted: false
 isReadOnly: false
 keywords:
-- accepted
-- payment
-- method
-layout: 
-license: "CC BY-SA 4.0"
+  - accepted
+  - payment
+  - method
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_accepted_payment_method
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_accepted_payment_method
 type: Predi_Relation
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- job-title
-- job_title
-- jobTitle
-- has_job_title
+  - job-title
+  - job_title
+  - jobTitle
+  - has_job_title
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- job
-- title
-layout: 
-license: "CC BY-SA 4.0"
+  - job
+  - title
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_job_title
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_job_title
 type: Predi_Relation
 ---

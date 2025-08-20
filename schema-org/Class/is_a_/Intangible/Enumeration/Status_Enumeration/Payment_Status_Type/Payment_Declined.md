@@ -1,27 +1,28 @@
 ---
 aliases:
-- payment-declined
-- payment_declined
-- PaymentDeclined
-- is_a_payment_declined
+  - payment-declined
+  - payment_declined
+  - PaymentDeclined
+  - is_a_payment_declined
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PaymentStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- payment_declined
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_payment_declined Class"
+  - payment_declined
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_payment_declined Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_payment_declined Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_payment_declined Class
 type: Type
 ---
 

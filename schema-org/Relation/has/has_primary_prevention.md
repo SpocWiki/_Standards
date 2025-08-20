@@ -1,26 +1,28 @@
 ---
 aliases:
-- primary-prevention
-- primary_prevention
-- primaryPrevention
-- has_primary_prevention
+  - primary-prevention
+  - primary_prevention
+  - primaryPrevention
+  - has_primary_prevention
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- primary
-- prevention
-layout: 
-license: "CC BY-SA 4.0"
+  - primary
+  - prevention
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_primary_prevention
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_primary_prevention
 type: Predi_Relation
 ---

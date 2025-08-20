@@ -1,27 +1,28 @@
 ---
 aliases:
-- e-book
-- e_book
-- EBook
-- is_an_e_book
+  - e-book
+  - e_book
+  - EBook
+  - is_an_e_book
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: BookFormatType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- e_book
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_e_book Class"
+  - e_book
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_e_book Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_e_book Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_e_book Class
 type: Type
 ---
 

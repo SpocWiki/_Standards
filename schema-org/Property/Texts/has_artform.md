@@ -1,25 +1,27 @@
 ---
 aliases:
-- artform
-- artform
-- artform
-- has_text_of_artform
+  - artform
+  - artform
+  - artform
+  - has_text_of_artform
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- artform
-layout: 
-license: "CC BY-SA 4.0"
+  - artform
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_artform
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_artform
 type: Pred_Text
 ---

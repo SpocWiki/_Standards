@@ -1,27 +1,29 @@
 ---
 aliases:
-- broadcast-sub-channel
-- broadcast_sub_channel
-- broadcastSubChannel
-- has_text_of_broadcast_sub_channel
+  - broadcast-sub-channel
+  - broadcast_sub_channel
+  - broadcastSubChannel
+  - has_text_of_broadcast_sub_channel
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast
-- sub
-- channel
-layout: 
-license: "CC BY-SA 4.0"
+  - broadcast
+  - sub
+  - channel
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_broadcast_sub_channel
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_broadcast_sub_channel
 type: Pred_Text
 ---

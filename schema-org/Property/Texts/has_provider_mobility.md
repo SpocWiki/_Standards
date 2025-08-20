@@ -1,26 +1,28 @@
 ---
 aliases:
-- provider-mobility
-- provider_mobility
-- providerMobility
-- has_text_of_provider_mobility
+  - provider-mobility
+  - provider_mobility
+  - providerMobility
+  - has_text_of_provider_mobility
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- provider
-- mobility
-layout: 
-license: "CC BY-SA 4.0"
+  - provider
+  - mobility
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_provider_mobility
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_provider_mobility
 type: Pred_Text
 ---

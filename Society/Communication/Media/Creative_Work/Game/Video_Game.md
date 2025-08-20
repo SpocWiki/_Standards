@@ -1,26 +1,27 @@
 ---
 aliases:
-- video-game
-- video_game
-- VideoGame
-- is_a_video_game
+  - video-game
+  - video_game
+  - VideoGame
+  - is_a_video_game
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- video_game
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_video_game Class"
+  - video_game
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_video_game Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_video_game Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_video_game Class
 type: Type
 ---
 

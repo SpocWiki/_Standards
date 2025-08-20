@@ -1,26 +1,28 @@
 ---
 aliases:
-- math-expression
-- math_expression
-- mathExpression
-- has_math_expression
+  - math-expression
+  - math_expression
+  - mathExpression
+  - has_math_expression
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- math
-- expression
-layout: 
-license: "CC BY-SA 4.0"
+  - math
+  - expression
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_math_expression
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_math_expression
 type: Predi_Relation
 ---

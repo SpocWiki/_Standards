@@ -1,24 +1,26 @@
 ---
 aliases:
-- references-order
-- referencing_order
-- referencesOrder
-- is_referencing_order
+  - references-order
+  - referencing_order
+  - referencesOrder
+  - is_referencing_order
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_referencing_order
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_referencing_order
 type: Predi_Relation
 ---

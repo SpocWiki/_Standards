@@ -1,26 +1,27 @@
 ---
 aliases:
-- vital-sign
-- vital_sign
-- VitalSign
-- is_a_vital_sign
+  - vital-sign
+  - vital_sign
+  - VitalSign
+  - is_a_vital_sign
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- vital_sign
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_vital_sign Class"
+  - vital_sign
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_vital_sign Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_vital_sign Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_vital_sign Class
 type: Type
 ---
 

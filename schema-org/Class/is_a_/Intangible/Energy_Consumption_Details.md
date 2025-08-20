@@ -1,26 +1,27 @@
 ---
 aliases:
-- energy-consumption-details
-- energy_consumption_details
-- EnergyConsumptionDetails
-- is_an_energy_consumption_details
+  - energy-consumption-details
+  - energy_consumption_details
+  - EnergyConsumptionDetails
+  - is_an_energy_consumption_details
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- energy_consumption_details
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_energy_consumption_details Class"
+  - energy_consumption_details
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_energy_consumption_details Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_energy_consumption_details Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_energy_consumption_details Class
 type: Type
 ---
 

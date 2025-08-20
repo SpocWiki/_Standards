@@ -1,26 +1,27 @@
 ---
 aliases:
-- read-action
-- read_action
-- ReadAction
-- is_a_read_action
+  - read-action
+  - read_action
+  - ReadAction
+  - is_a_read_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- read_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_read_action Class"
+  - read_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_read_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_read_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_read_action Class
 type: Type
 ---
 

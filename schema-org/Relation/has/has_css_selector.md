@@ -1,26 +1,28 @@
 ---
 aliases:
-- css-selector
-- css_selector
-- cssSelector
-- has_css_selector
+  - css-selector
+  - css_selector
+  - cssSelector
+  - has_css_selector
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- css
-- selector
-layout: 
-license: "CC BY-SA 4.0"
+  - css
+  - selector
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_css_selector
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_css_selector
 type: Predi_Relation
 ---

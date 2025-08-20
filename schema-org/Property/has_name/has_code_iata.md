@@ -1,26 +1,28 @@
 ---
 aliases:
-- iata-code
-- code_iata
-- iataCode
-- has_code_iata
+  - iata-code
+  - code_iata
+  - iataCode
+  - has_code_iata
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- iata
-- code
-layout: 
-license: "CC BY-SA 4.0"
+  - iata
+  - code
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_code_iata
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_code_iata
 type: Pred_Text
 ---

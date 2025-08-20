@@ -1,26 +1,28 @@
 ---
 aliases:
-- maximum-intake
-- maximum_intake
-- maximumIntake
-- has_maximum_intake
+  - maximum-intake
+  - maximum_intake
+  - maximumIntake
+  - has_maximum_intake
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- maximum
-- intake
-layout: 
-license: "CC BY-SA 4.0"
+  - maximum
+  - intake
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_maximum_intake
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_maximum_intake
 type: Predi_Relation
 ---

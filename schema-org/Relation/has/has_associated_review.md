@@ -1,26 +1,28 @@
 ---
 aliases:
-- associated-review
-- associated_review
-- associatedReview
-- has_associated_review
+  - associated-review
+  - associated_review
+  - associatedReview
+  - has_associated_review
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- associated
-- review
-layout: 
-license: "CC BY-SA 4.0"
+  - associated
+  - review
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_associated_review
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_associated_review
 type: Predi_Relation
 ---

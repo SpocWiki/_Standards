@@ -1,26 +1,27 @@
 ---
 aliases:
-- defined-region
-- defined_region
-- DefinedRegion
-- is_a_defined_region
+  - defined-region
+  - defined_region
+  - DefinedRegion
+  - is_a_defined_region
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- defined_region
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_defined_region Class"
+  - defined_region
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_defined_region Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_defined_region Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_defined_region Class
 type: Type
 ---
 

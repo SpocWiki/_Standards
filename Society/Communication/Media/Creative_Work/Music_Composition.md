@@ -1,26 +1,27 @@
 ---
 aliases:
-- music-composition
-- music_composition
-- MusicComposition
-- is_a_music_composition
+  - music-composition
+  - music_composition
+  - MusicComposition
+  - is_a_music_composition
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- music_composition
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_music_composition Class"
+  - music_composition
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_music_composition Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_music_composition Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_music_composition Class
 type: Type
 ---
 

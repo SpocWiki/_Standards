@@ -1,26 +1,28 @@
 ---
 aliases:
-- arrival-gate
-- arrival_gate
-- arrivalGate
-- has_text_of_arrival_gate
+  - arrival-gate
+  - arrival_gate
+  - arrivalGate
+  - has_text_of_arrival_gate
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- arrival
-- gate
-layout: 
-license: "CC BY-SA 4.0"
+  - arrival
+  - gate
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_arrival_gate
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_arrival_gate
 type: Pred_Text
 ---

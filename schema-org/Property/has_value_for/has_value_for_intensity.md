@@ -1,25 +1,27 @@
 ---
 aliases:
-- intensity
-- intensity
-- intensity
-- has_value_for_intensity
+  - intensity
+  - intensity
+  - intensity
+  - has_value_for_intensity
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- intensity
-layout: 
-license: "CC BY-SA 4.0"
+  - intensity
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_intensity
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_intensity
 type: Predi_Quantity
 ---

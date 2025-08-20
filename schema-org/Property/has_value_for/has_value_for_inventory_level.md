@@ -1,25 +1,27 @@
 ---
 aliases:
-- inventory_level
-- inventory-level
-- inventoryLevel
-- has_value_for_inventory_level
+  - inventory_level
+  - inventory-level
+  - inventoryLevel
+  - has_value_for_inventory_level
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- inventory-level
-layout: 
-license: "CC BY-SA 4.0"
+  - inventory-level
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_inventory-level
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_inventory-level
 type: Predi_Quantity
 ---

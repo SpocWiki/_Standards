@@ -9,30 +9,31 @@ has_id_wikidata: Q399
 SpocWebEntityId: 26831
 isDeleted: false
 confidential: public
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 isReadOnly: false
-source: "https://datahub.io/core/country-codes"
-cssclasses: Country
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
 publish: true
 title: Armenia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Armenia
-- Arménie
-- أرمينيا
-- 亚美尼亚
-- Армения
-- "the Republic of Armenia"
-- "la República de Armenia"
+  - Armenia
+  - Arménie
+  - أرمينيا
+  - 亚美尼亚
+  - Армения
+  - the Republic of Armenia
+  - la República de Armenia
 Languages:
   - hy
 icon: flag-am
-ISNI: 0000000121643812
+ISNI: 121643812
 nominal_GDP:
   - 19502783988
   - 13861409969
@@ -41,88 +42,88 @@ MeSH_tree_code:
   - Z01.542.931.099
   - Z01.586.035.150
   - Z01.586.950.099
-coordinate_location: "Point(44.95 40.383333)"
+coordinate_location: Point(44.95 40.383333)
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Singapore,334]]'
-- "[[_Standards/WikiData/WD~North_Korea,423]]"
-- "[[_Standards/WikiData/WD~European_Union,458]]"
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Lebanon,822]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Syria,858]]'
-- '[[_Standards/WikiData/WD~Tajikistan,863]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United_States,30]]"
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~Switzerland,39]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- '[[_Standards/WikiData/WD~Portugal,45]]'
-- '[[_Standards/WikiData/WD~Egypt,79]]'
-- '[[_Standards/WikiData/WD~Uruguay,77]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Brazil,155]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Ukraine,212]]'
-- '[[_Standards/WikiData/WD~Romania,218]]'
-- '[[_Standards/WikiData/WD~Bulgaria,219]]'
-- '[[_Standards/WikiData/WD~Azerbaijan,227]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-- '[[_Standards/WikiData/WD~Cyprus,229]]'
-- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
-country: '[[_Standards/WikiData/WD~Armenia,399]]'
+  - "[[_Standards/WikiData/WD~Singapore,334]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Lebanon,822]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Syria,858]]"
+  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Switzerland,39]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Portugal,45]]"
+  - "[[_Standards/WikiData/WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Romania,218]]"
+  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
+  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
+  - "[[_Standards/WikiData/WD~Cyprus,229]]"
+  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+country: "[[_Standards/WikiData/WD~Armenia,399]]"
 shares_border_with:
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Azerbaijan,227]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
 member_of: "[[_Standards/WikiData/WD~United_Nations,1065]]"
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Yerevan,1953]]'
-- "[[_Standards/WikiData/WD~Kotayk_Province,4511]]"
-- "[[_Standards/WikiData/WD~Aragatsotn_Province,17915]]"
-- "[[_Standards/WikiData/WD~Ararat_Province,199880]]"
-- "[[_Standards/WikiData/WD~Gegharkunik_Province,199905]]"
-- "[[_Standards/WikiData/WD~Vayots_Dzor_Province,200124]]"
-- "[[_Standards/WikiData/WD~Lori_Province,200350]]"
-- "[[_Standards/WikiData/WD~Shirak_Province,201063]]"
-- "[[_Standards/WikiData/WD~Tavush_Province,201140]]"
-- "[[_Standards/WikiData/WD~Armavir_Province,201147]]"
-- "[[_Standards/WikiData/WD~Syunik_Province,2523428]]"
-capital: '[[_Standards/WikiData/WD~Yerevan,1953]]'
-official_religion: '[[_Standards/WikiData/WD~Christianity,5043]]'
+  - "[[_Standards/WikiData/WD~Yerevan,1953]]"
+  - "[[_Standards/WikiData/WD~Kotayk_Province,4511]]"
+  - "[[_Standards/WikiData/WD~Aragatsotn_Province,17915]]"
+  - "[[_Standards/WikiData/WD~Ararat_Province,199880]]"
+  - "[[_Standards/WikiData/WD~Gegharkunik_Province,199905]]"
+  - "[[_Standards/WikiData/WD~Vayots_Dzor_Province,200124]]"
+  - "[[_Standards/WikiData/WD~Lori_Province,200350]]"
+  - "[[_Standards/WikiData/WD~Shirak_Province,201063]]"
+  - "[[_Standards/WikiData/WD~Tavush_Province,201140]]"
+  - "[[_Standards/WikiData/WD~Armavir_Province,201147]]"
+  - "[[_Standards/WikiData/WD~Syunik_Province,2523428]]"
+capital: "[[_Standards/WikiData/WD~Yerevan,1953]]"
+official_religion: "[[_Standards/WikiData/WD~Christianity,5043]]"
 instance_of:
-- '[[_Standards/WikiData/WD~country,6256]]'
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+04_00,6779]]"
 basic_form_of_government:
-- '[[_Standards/WikiData/WD~republic,7270]]'
-- "[[_Standards/WikiData/WD~parliamentary_system,166747]]"
-- "[[_Standards/WikiData/WD~unitary_state,179164]]"
+  - "[[_Standards/WikiData/WD~republic,7270]]"
+  - "[[_Standards/WikiData/WD~parliamentary_system,166747]]"
+  - "[[_Standards/WikiData/WD~unitary_state,179164]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Armenia,8077]]"
-official_language: '[[_Standards/WikiData/WD~Armenian,8785]]'
+official_language: "[[_Standards/WikiData/WD~Armenian,8785]]"
 language_used:
-- '[[_Standards/WikiData/WD~Armenian,8785]]'
-- '[[_Standards/WikiData/WD~Kurmanji,36163]]'
-- "[[_Standards/WikiData/WD~Western_Armenian,180945]]"
-- '[[_Standards/WikiData/WD~Lomavren,2495696]]'
-- "[[_Standards/WikiData/WD~Armenian_Sign_Language,3446604]]"
-- "[[_Standards/WikiData/WD~North_Azerbaijani,3515311]]"
+  - "[[_Standards/WikiData/WD~Armenian,8785]]"
+  - "[[_Standards/WikiData/WD~Kurmanji,36163]]"
+  - "[[_Standards/WikiData/WD~Western_Armenian,180945]]"
+  - "[[_Standards/WikiData/WD~Lomavren,2495696]]"
+  - "[[_Standards/WikiData/WD~Armenian_Sign_Language,3446604]]"
+  - "[[_Standards/WikiData/WD~North_Azerbaijani,3515311]]"
 replaces: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 part_of:
-- "[[_Standards/WikiData/WD~West_Asia,27293]]"
-- "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+  - "[[_Standards/WikiData/WD~West_Asia,27293]]"
+  - "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
+continent: "[[_Standards/WikiData/WD~Asia,48]]"
 literacy_rate: 100
 VAT_rate: 20
 flag: "[[_Standards/WikiData/WD~flag_of_Armenia,33213]]"
@@ -138,8 +139,8 @@ birth_rate:
   - 12.455
   - 12.892
 top_level_Internet_domain:
-- '[[_Standards/WikiData/WD~.am,37245]]'
-- '[[_Standards/WikiData/WD~.հայ,18578153]]'
+  - "[[_Standards/WikiData/WD~.am,37245]]"
+  - "[[_Standards/WikiData/WD~.հայ,18578153]]"
 Gini_coefficient: 25.2
 Colon_Classification: SG--5856
 Krugosvet_article: strany_mira/ARMENIYA.html
@@ -196,76 +197,76 @@ demonym:
   - أرمينيات
   - আর্মেনীয়
   - Armenian
-short_name: "\U0001F1E6\U0001F1F2"
+short_name: 🇦🇲
 urban_population:
   - 1776315
   - 1783156
   - 1767628
   - 1770343
 native_label:
-- Հայաստան
-- "Հայաստանի Հանրապետություն"
+  - Հայաստան
+  - Հայաստանի Հանրապետություն
 official_name: Հայաստան
-coordinates_of_northernmost_point: "Point(45.0 41.3)"
+coordinates_of_northernmost_point: Point(45.0 41.3)
 U_S_National_Archives_Identifier: 10045258
-name_in_native_language: "Հայաստանի Հանրապետություն"
-inception: "1991-09-23"
-has_time_started: "1991-09-23"
+name_in_native_language: Հայաստանի Հանրապետություն
+inception: 1991-09-23
+has_time_started: 1991-09-23
 CIVICUS_Monitor_country_entry: armenia
 subreddit: armenia
 X_Twitter_username: armenia
 GitHub_topic: armenia
-coordinates_of_southernmost_point: "Point(46.17385671 38.84024871)"
-coordinates_of_westernmost_point: "Point(43.44726183 41.09928053)"
+coordinates_of_southernmost_point: Point(46.17385671 38.84024871)
+coordinates_of_westernmost_point: Point(43.44726183 41.09928053)
 Commons_category: Armenia
 hashtag: Armenia
-coordinates_of_easternmost_point: "Point(46.63421983 39.23099254)"
-geoshape: "http://commons.wikimedia.org/data/main/Data:Armenia.map"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Armenia%20%28orthographic%20projection%29.svg"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Armenia.svg"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%80%D5%A1%D5%B5%D5%A1%D5%BD%D5%BF%D5%A1%D5%B6%20%28Armenia%29.ogg"
+coordinates_of_easternmost_point: Point(46.63421983 39.23099254)
+geoshape: http://commons.wikimedia.org/data/main/Data:Armenia.map
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Armenia%20%28orthographic%20projection%29.svg
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Armenia.svg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%80%D5%A1%D5%B5%D5%A1%D5%BD%D5%BF%D5%A1%D5%B6%20%28Armenia%29.ogg
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Armenien.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Armenia.wav"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Armenien.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Armenia.wav
 official_website:
-- "http://www.gov.am/en/"
-- "https://courrier.am"
-country_calling_code: +374
+  - http://www.gov.am/en/
+  - https://courrier.am
+country_calling_code: 374
 BHCL_UUID: 5e92f8ca-a880-4bc1-95e4-d7b3bc56358b
 Unicode_character: 🇦🇲
 ethnic_group:
-- '[[_Standards/WikiData/WD~Armenians,79797]]'
-- '[[_Standards/WikiData/WD~Yazidis,200885]]'
+  - "[[_Standards/WikiData/WD~Armenians,79797]]"
+  - "[[_Standards/WikiData/WD~Yazidis,200885]]"
 anthem: "[[_Standards/WikiData/WD~Mer_Hayrenik,164259]]"
 coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Armenia,171384]]"
 central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Armenia,190223]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Armenia,193688]]"
 highest_point: "[[_Standards/WikiData/WD~Mount_Aragats,203568]]"
-different_from: '[[_Standards/WikiData/WD~Armenia,226316]]'
+different_from: "[[_Standards/WikiData/WD~Armenia,226316]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]"
-- "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-- "[[_Standards/WikiData/WD~Croatian_Encyclopedia,1789619]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]"
+  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+  - "[[_Standards/WikiData/WD~Croatian_Encyclopedia,1789619]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Armenia,1123764]]"
-lowest_point: '[[_Standards/WikiData/WD~Debed,1140988]]'
+lowest_point: "[[_Standards/WikiData/WD~Debed,1140988]]"
 legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Armenia,1337463]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Armenia,1404758]]"
 culture: "[[_Standards/WikiData/WD~culture_of_Armenia,1818127]]"
@@ -275,19 +276,19 @@ head_of_state: "[[_Standards/WikiData/WD~Vahagn_Khachatryan,3553274]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Armenia,4283840]]"
 head_of_government: "[[_Standards/WikiData/WD~Nikol_Pashinyan,7035479]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Armenia,7112187]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Armenia,7959143]]'
-category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q7981767,7981767]]'
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Armenia,7959143]]"
+category_for_honorary_citizens_of_entity: "[[_Standards/WikiData/WD~Q7981767,7981767]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Armenia,11254503]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Armenia,13417106]]"
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20517659,20517659]]'
+driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
+railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q20517659,20517659]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~101,25648794]]'
-- '[[_Standards/WikiData/WD~102,25648798]]'
-- '[[_Standards/WikiData/WD~103,25648811]]'
+  - "[[_Standards/WikiData/WD~101,25648794]]"
+  - "[[_Standards/WikiData/WD~102,25648798]]"
+  - "[[_Standards/WikiData/WD~103,25648811]]"
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Noravank%20panorama.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Noravank%20panorama.jpg
 area: 29743.423459
 UMLS_CUI: C0003798
 Libris_URI: 1zcfdqzk3pmntnv
@@ -324,8 +325,8 @@ death_rate:
   - 11.881
   - 12.792
   - 13.007
-ISO_3166_1_numeric_code: 051
-M49_code: 051
+ISO_3166_1_numeric_code: 51
+M49_code: 51
 GS1_country_code: 485
 IAB_code: 1240
 ISO_3166_1_alpha_3_code: ARM
@@ -339,8 +340,8 @@ licence_plate_code: AM
 WIPO_ST_3: AM
 UIC_alphabetical_country_code: AM
 social_media_followers: 107544
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Armenia.svg"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Noravank%20banner.jpg"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Armenia.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Noravank%20banner.jpg
 female_population:
   - 1530390
   - 1534475

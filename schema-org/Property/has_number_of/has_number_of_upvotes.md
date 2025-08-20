@@ -1,25 +1,27 @@
 ---
 aliases:
-- upvote-count
-- upvote_count
-- upvoteCount
-- has_number_of_upvotes
+  - upvote-count
+  - upvote_count
+  - upvoteCount
+  - has_number_of_upvotes
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- upvote_count
-layout: 
-license: "CC BY-SA 4.0"
+  - upvote_count
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_upvote_count
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_upvote_count
 type: Predi_Count
 ---

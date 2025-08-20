@@ -1,26 +1,27 @@
 ---
 aliases:
-- auto-repair
-- auto_repair
-- AutoRepair
-- is_an_auto_repair
+  - auto-repair
+  - auto_repair
+  - AutoRepair
+  - is_an_auto_repair
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- auto_repair
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_auto_repair Class"
+  - auto_repair
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_auto_repair Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_auto_repair Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_auto_repair Class
 type: Type
 ---
 

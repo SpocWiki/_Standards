@@ -1,26 +1,28 @@
 ---
 aliases:
-- exercise-course
-- exercise_course
-- exerciseCourse
-- has_location_exercise_course
+  - exercise-course
+  - exercise_course
+  - exerciseCourse
+  - has_location_exercise_course
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- exercise_course
-layout: 
-license: "CC BY-SA 4.0"
+  - exercise_course
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_exercise_course
 publish: true
-publishDate: 
+publishDate:
 supersedes: course
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_exercise_course
 type: Pred_geo
 ---

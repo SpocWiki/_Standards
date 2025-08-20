@@ -1,26 +1,27 @@
 ---
 aliases:
-- shipping-delivery-time
-- shipping_delivery_time
-- ShippingDeliveryTime
-- is_a_shipping_delivery_time
+  - shipping-delivery-time
+  - shipping_delivery_time
+  - ShippingDeliveryTime
+  - is_a_shipping_delivery_time
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- shipping_delivery_time
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_shipping_delivery_time Class"
+  - shipping_delivery_time
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_shipping_delivery_time Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_shipping_delivery_time Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_shipping_delivery_time Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-size-group-juniors
-- wearable_size_group_juniors
-- WearableSizeGroupJuniors
-- is_a_wearable_size_group_juniors
+  - wearable-size-group-juniors
+  - wearable_size_group_juniors
+  - WearableSizeGroupJuniors
+  - is_a_wearable_size_group_juniors
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_size_group_juniors
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_size_group_juniors Class"
+  - wearable_size_group_juniors
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_size_group_juniors Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_size_group_juniors Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_size_group_juniors Class
 type: Type
 ---
 

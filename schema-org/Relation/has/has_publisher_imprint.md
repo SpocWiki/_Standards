@@ -1,26 +1,28 @@
 ---
 aliases:
-- publisher-imprint
-- publisher_imprint
-- publisherImprint
-- has_publisher_imprint
+  - publisher-imprint
+  - publisher_imprint
+  - publisherImprint
+  - has_publisher_imprint
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- publisher
-- imprint
-layout: 
-license: "CC BY-SA 4.0"
+  - publisher
+  - imprint
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_publisher_imprint
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_publisher_imprint
 type: Predi_Relation
 ---

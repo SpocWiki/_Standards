@@ -1,26 +1,28 @@
 ---
 aliases:
-- physical-requirement
-- physical_requirement
-- physicalRequirement
-- has_physical_requirement
+  - physical-requirement
+  - physical_requirement
+  - physicalRequirement
+  - has_physical_requirement
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- physical
-- requirement
-layout: 
-license: "CC BY-SA 4.0"
+  - physical
+  - requirement
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_physical_requirement
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_physical_requirement
 type: Predi_Relation
 ---

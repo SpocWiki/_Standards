@@ -1,27 +1,28 @@
 ---
 aliases:
-- return-in-store
-- return_in_store
-- ReturnInStore
-- is_a_return_in_store
+  - return-in-store
+  - return_in_store
+  - ReturnInStore
+  - is_a_return_in_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReturnMethodEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return_in_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_return_in_store Class"
+  - return_in_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_return_in_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_return_in_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_return_in_store Class
 type: Type
 ---
 

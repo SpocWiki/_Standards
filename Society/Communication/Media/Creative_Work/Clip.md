@@ -1,26 +1,27 @@
 ---
 aliases:
-- clip
-- clip
-- Clip
-- is_a_clip
+  - clip
+  - clip
+  - Clip
+  - is_a_clip
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- clip
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_clip Class"
+  - clip
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_clip Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_clip Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_clip Class
 type: Type
 ---
 

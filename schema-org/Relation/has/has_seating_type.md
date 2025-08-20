@@ -1,26 +1,28 @@
 ---
 aliases:
-- seating-type
-- seating_type
-- seatingType
-- has_seating_type
+  - seating-type
+  - seating_type
+  - seatingType
+  - has_seating_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- seating
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - seating
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_seating_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_seating_type
 type: Predi_Relation
 ---

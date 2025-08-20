@@ -1,28 +1,30 @@
 ---
 aliases:
-- item-defect-return-fees
-- item_defect_return_fees
-- itemDefectReturnFees
-- has_item_defect_return_fees
+  - item-defect-return-fees
+  - item_defect_return_fees
+  - itemDefectReturnFees
+  - has_item_defect_return_fees
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- item
-- defect
-- return
-- fees
-layout: 
-license: "CC BY-SA 4.0"
+  - item
+  - defect
+  - return
+  - fees
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_item_defect_return_fees
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_item_defect_return_fees
 type: Predi_Relation
 ---

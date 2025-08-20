@@ -1,26 +1,28 @@
 ---
 aliases:
-- copyright-holder
-- copyright_holder
-- copyrightHolder
-- has_copyright_holder
+  - copyright-holder
+  - copyright_holder
+  - copyrightHolder
+  - has_copyright_holder
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- copyright
-- holder
-layout: 
-license: "CC BY-SA 4.0"
+  - copyright
+  - holder
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_copyright_holder
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_copyright_holder
 type: Predi_Relation
 ---

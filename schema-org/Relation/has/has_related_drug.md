@@ -1,26 +1,28 @@
 ---
 aliases:
-- related-drug
-- related_drug
-- relatedDrug
-- has_related_drug
+  - related-drug
+  - related_drug
+  - relatedDrug
+  - has_related_drug
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- related
-- drug
-layout: 
-license: "CC BY-SA 4.0"
+  - related
+  - drug
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_related_drug
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_related_drug
 type: Predi_Relation
 ---

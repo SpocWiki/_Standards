@@ -1,27 +1,29 @@
 ---
 aliases:
-- order-item-number
-- id_order_item
-- orderItemNumber
-- has_id_order_item
+  - order-item-number
+  - id_order_item
+  - orderItemNumber
+  - has_id_order_item
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- order
-- item
-- number
-layout: 
-license: "CC BY-SA 4.0"
+  - order
+  - item
+  - number
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_order_item
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_order_item
 type: Pred_Text
 ---

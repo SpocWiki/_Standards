@@ -1,26 +1,27 @@
 ---
 aliases:
-- art-gallery
-- art_gallery
-- ArtGallery
-- is_an_art_gallery
+  - art-gallery
+  - art_gallery
+  - ArtGallery
+  - is_an_art_gallery
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- art_gallery
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_art_gallery Class"
+  - art_gallery
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_art_gallery Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_art_gallery Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_art_gallery Class
 type: Type
 ---
 

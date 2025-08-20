@@ -1,26 +1,28 @@
 ---
 aliases:
-- schedule-timezone
-- schedule_timezone
-- scheduleTimezone
-- has_text_of_schedule_timezone
+  - schedule-timezone
+  - schedule_timezone
+  - scheduleTimezone
+  - has_text_of_schedule_timezone
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- schedule
-- timezone
-layout: 
-license: "CC BY-SA 4.0"
+  - schedule
+  - timezone
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_schedule_timezone
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_schedule_timezone
 type: Pred_Text
 ---

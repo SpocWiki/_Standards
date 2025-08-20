@@ -1,26 +1,28 @@
 ---
 aliases:
-- region-drained
-- region_drained
-- regionDrained
-- has_region_drained
+  - region-drained
+  - region_drained
+  - regionDrained
+  - has_region_drained
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- region
-- drained
-layout: 
-license: "CC BY-SA 4.0"
+  - region
+  - drained
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_region_drained
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_region_drained
 type: Predi_Relation
 ---

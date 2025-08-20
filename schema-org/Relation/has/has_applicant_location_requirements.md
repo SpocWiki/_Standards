@@ -1,27 +1,29 @@
 ---
 aliases:
-- applicant-location-requirements
-- applicant_location_requirements
-- applicantLocationRequirements
-- has_applicant_location_requirements
+  - applicant-location-requirements
+  - applicant_location_requirements
+  - applicantLocationRequirements
+  - has_applicant_location_requirements
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- applicant
-- location
-- requirements
-layout: 
-license: "CC BY-SA 4.0"
+  - applicant
+  - location
+  - requirements
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_applicant_location_requirements
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_applicant_location_requirements
 type: Predi_Relation
 ---

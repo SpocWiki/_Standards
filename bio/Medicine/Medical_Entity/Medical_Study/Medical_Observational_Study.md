@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-observational-study
-- medical_observational_study
-- MedicalObservationalStudy
-- is_a_medical_observational_study
+  - medical-observational-study
+  - medical_observational_study
+  - MedicalObservationalStudy
+  - is_a_medical_observational_study
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_observational_study
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_observational_study Class"
+  - medical_observational_study
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_observational_study Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_observational_study Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_observational_study Class
 type: Type
 ---
 

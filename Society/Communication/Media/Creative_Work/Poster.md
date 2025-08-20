@@ -1,26 +1,27 @@
 ---
 aliases:
-- poster
-- poster
-- Poster
-- is_a_poster
+  - poster
+  - poster
+  - Poster
+  - is_a_poster
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- poster
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_poster Class"
+  - poster
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_poster Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_poster Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_poster Class
 type: Type
 ---
 

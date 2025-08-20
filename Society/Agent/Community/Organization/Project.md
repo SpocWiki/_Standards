@@ -1,26 +1,27 @@
 ---
 aliases:
-- project
-- project
-- Project
-- is_a_project
+  - project
+  - project
+  - Project
+  - is_a_project
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- project
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_project Class"
+  - project
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_project Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_project Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_project Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- drug-legal-status
-- drug_legal_status
-- DrugLegalStatus
-- is_a_drug_legal_status
+  - drug-legal-status
+  - drug_legal_status
+  - DrugLegalStatus
+  - is_a_drug_legal_status
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- drug_legal_status
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_drug_legal_status Class"
+  - drug_legal_status
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_drug_legal_status Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_drug_legal_status Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_drug_legal_status Class
 type: Type
 ---
 

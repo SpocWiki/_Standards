@@ -1,26 +1,28 @@
 ---
 aliases:
-- affected-by
-- affected_by
-- affectedBy
-- is_affected_by
+  - affected-by
+  - affected_by
+  - affectedBy
+  - is_affected_by
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- affected
-- by
-layout: 
-license: "CC BY-SA 4.0"
+  - affected
+  - by
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_affected_by
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_affected_by
 type: Predi_Relation
 ---

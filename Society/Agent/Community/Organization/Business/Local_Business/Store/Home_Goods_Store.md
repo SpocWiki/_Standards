@@ -1,26 +1,27 @@
 ---
 aliases:
-- home-goods-store
-- home_goods_store
-- HomeGoodsStore
-- is_a_home_goods_store
+  - home-goods-store
+  - home_goods_store
+  - HomeGoodsStore
+  - is_a_home_goods_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- home_goods_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_home_goods_store Class"
+  - home_goods_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_home_goods_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_home_goods_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_home_goods_store Class
 type: Type
 ---
 

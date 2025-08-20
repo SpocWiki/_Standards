@@ -1,26 +1,27 @@
 ---
 aliases:
-- motorcycle-dealer
-- motorcycle_dealer
-- MotorcycleDealer
-- is_a_motorcycle_dealer
+  - motorcycle-dealer
+  - motorcycle_dealer
+  - MotorcycleDealer
+  - is_a_motorcycle_dealer
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- motorcycle_dealer
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_motorcycle_dealer Class"
+  - motorcycle_dealer
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_motorcycle_dealer Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_motorcycle_dealer Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_motorcycle_dealer Class
 type: Type
 ---
 

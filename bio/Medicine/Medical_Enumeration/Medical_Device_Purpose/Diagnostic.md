@@ -1,27 +1,28 @@
 ---
 aliases:
-- diagnostic
-- diagnostic
-- Diagnostic
-- is_a_diagnostic
+  - diagnostic
+  - diagnostic
+  - Diagnostic
+  - is_a_diagnostic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalDevicePurpose
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- diagnostic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_diagnostic Class"
+  - diagnostic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_diagnostic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_diagnostic Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_diagnostic Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- discontinued
-- discontinued
-- Discontinued
-- is_discontinued
+  - discontinued
+  - discontinued
+  - Discontinued
+  - is_discontinued
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- discontinued
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_discontinued Class"
+  - discontinued
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_discontinued Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_discontinued Class"
+  - class/Class
+  - schema-org/Class
+title: is_discontinued Class
 type: Type
 ---
 

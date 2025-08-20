@@ -1,25 +1,27 @@
 ---
 aliases:
-- supply
-- supply
-- supply
-- has_supply
+  - supply
+  - supply
+  - supply
+  - has_supply
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- supply
-layout: 
-license: "CC BY-SA 4.0"
+  - supply
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_supply
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_supply
 type: Predi_Relation
 ---

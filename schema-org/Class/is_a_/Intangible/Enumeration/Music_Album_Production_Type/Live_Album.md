@@ -1,27 +1,28 @@
 ---
 aliases:
-- live-album
-- live_album
-- LiveAlbum
-- is_a_live_album
+  - live-album
+  - live_album
+  - LiveAlbum
+  - is_a_live_album
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- live_album
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_live_album Class"
+  - live_album
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_live_album Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_live_album Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_live_album Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- eat-action
-- eat_action
-- EatAction
-- is_an_eat_action
+  - eat-action
+  - eat_action
+  - EatAction
+  - is_an_eat_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- eat_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_eat_action Class"
+  - eat_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_eat_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_eat_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_eat_action Class
 type: Type
 ---
 

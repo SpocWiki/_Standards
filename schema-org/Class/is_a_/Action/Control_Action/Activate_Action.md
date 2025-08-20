@@ -1,26 +1,27 @@
 ---
 aliases:
-- activate-action
-- activate_action
-- ActivateAction
-- is_an_activate_action
+  - activate-action
+  - activate_action
+  - ActivateAction
+  - is_an_activate_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- activate_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_activate_action Class"
+  - activate_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_activate_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_activate_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_activate_action Class
 type: Type
 ---
 

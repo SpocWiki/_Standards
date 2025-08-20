@@ -1,26 +1,27 @@
 ---
 aliases:
-- physician
-- physician
-- Physician
-- is_a_physician
+  - physician
+  - physician
+  - Physician
+  - is_a_physician
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- physician
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_physician Class"
+  - physician
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_physician Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_physician Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_physician Class
 type: Type
 ---
 

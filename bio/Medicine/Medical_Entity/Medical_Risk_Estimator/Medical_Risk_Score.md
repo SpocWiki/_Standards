@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-risk-score
-- medical_risk_score
-- MedicalRiskScore
-- is_a_medical_risk_score
+  - medical-risk-score
+  - medical_risk_score
+  - MedicalRiskScore
+  - is_a_medical_risk_score
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_risk_score
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_risk_score Class"
+  - medical_risk_score
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_risk_score Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_risk_score Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_risk_score Class
 type: Type
 ---
 

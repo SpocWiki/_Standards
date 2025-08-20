@@ -1,26 +1,27 @@
 ---
 aliases:
-- category-code
-- category_code
-- CategoryCode
-- is_a_category_code
+  - category-code
+  - category_code
+  - CategoryCode
+  - is_a_category_code
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- category_code
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_category_code Class"
+  - category_code
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_category_code Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_category_code Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_category_code Class
 type: Type
 ---
 

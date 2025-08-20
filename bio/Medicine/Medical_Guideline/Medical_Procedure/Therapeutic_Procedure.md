@@ -1,27 +1,28 @@
 ---
 aliases:
-- therapeutic-procedure
-- therapeutic_procedure
-- TherapeuticProcedure
-- is_a_therapeutic_procedure
+  - therapeutic-procedure
+  - therapeutic_procedure
+  - TherapeuticProcedure
+  - is_a_therapeutic_procedure
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-equivalent_class: "http://purl.bioontology.org/ontology/SNOMEDCT/277132007"
-expiryDate: 
+equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/277132007
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- therapeutic_procedure
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_therapeutic_procedure Class"
+  - therapeutic_procedure
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_therapeutic_procedure Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_therapeutic_procedure Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_therapeutic_procedure Class
 type: Type
 ---
 

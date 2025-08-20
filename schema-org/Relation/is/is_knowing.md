@@ -1,25 +1,27 @@
 ---
 aliases:
-- knows
-- knows
-- knows
-- is_knowing
+  - knows
+  - knows
+  - knows
+  - is_knowing
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- knows
-layout: 
-license: "CC BY-SA 4.0"
+  - knows
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_knowing
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_knowing
 type: Predi_Relation
 ---

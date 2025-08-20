@@ -1,26 +1,27 @@
 ---
 aliases:
-- accommodation
-- accommodation
-- Accommodation
-- is_an_accommodation
+  - accommodation
+  - accommodation
+  - Accommodation
+  - is_an_accommodation
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- accommodation
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_accommodation Class"
+  - accommodation
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_accommodation Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_accommodation Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_accommodation Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- tourist-trip
-- tourist_trip
-- TouristTrip
-- is_a_tourist_trip
+  - tourist-trip
+  - tourist_trip
+  - TouristTrip
+  - is_a_tourist_trip
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tourist_trip
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_tourist_trip Class"
+  - tourist_trip
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_tourist_trip Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_tourist_trip Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_tourist_trip Class
 type: Type
 ---
 

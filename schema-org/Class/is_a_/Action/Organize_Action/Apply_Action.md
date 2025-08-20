@@ -1,26 +1,27 @@
 ---
 aliases:
-- apply-action
-- apply_action
-- ApplyAction
-- is_an_apply_action
+  - apply-action
+  - apply_action
+  - ApplyAction
+  - is_an_apply_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- apply_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_apply_action Class"
+  - apply_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_apply_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_apply_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_apply_action Class
 type: Type
 ---
 

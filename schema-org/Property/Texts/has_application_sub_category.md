@@ -1,27 +1,29 @@
 ---
 aliases:
-- application-sub-category
-- application_sub_category
-- applicationSubCategory
-- has_text_of_application_sub_category
+  - application-sub-category
+  - application_sub_category
+  - applicationSubCategory
+  - has_text_of_application_sub_category
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- application
-- sub
-- category
-layout: 
-license: "CC BY-SA 4.0"
+  - application
+  - sub
+  - category
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_application_sub_category
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_application_sub_category
 type: Pred_Text
 ---

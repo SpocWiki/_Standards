@@ -1,25 +1,27 @@
 ---
 aliases:
-- slogan
-- slogan
-- slogan
-- has_text_of_slogan
+  - slogan
+  - slogan
+  - slogan
+  - has_text_of_slogan
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- slogan
-layout: 
-license: "CC BY-SA 4.0"
+  - slogan
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_slogan
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_slogan
 type: Pred_Text
 ---

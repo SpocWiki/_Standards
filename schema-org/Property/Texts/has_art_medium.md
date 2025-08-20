@@ -1,26 +1,28 @@
 ---
 aliases:
-- art-medium
-- art_medium
-- artMedium
-- has_text_of_art_medium
+  - art-medium
+  - art_medium
+  - artMedium
+  - has_text_of_art_medium
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- art
-- medium
-layout: 
-license: "CC BY-SA 4.0"
+  - art
+  - medium
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_art_medium
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_art_medium
 type: Pred_Text
 ---

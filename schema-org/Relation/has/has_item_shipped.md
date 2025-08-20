@@ -1,26 +1,28 @@
 ---
 aliases:
-- item-shipped
-- item_shipped
-- itemShipped
-- has_item_shipped
+  - item-shipped
+  - item_shipped
+  - itemShipped
+  - has_item_shipped
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- item
-- shipped
-layout: 
-license: "CC BY-SA 4.0"
+  - item
+  - shipped
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_item_shipped
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_item_shipped
 type: Predi_Relation
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- halal-diet
-- halal_diet
-- HalalDiet
-- is_a_halal_diet
+  - halal-diet
+  - halal_diet
+  - HalalDiet
+  - is_a_halal_diet
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- halal_diet
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_halal_diet Class"
+  - halal_diet
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_halal_diet Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_halal_diet Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_halal_diet Class
 type: Type
 ---
 

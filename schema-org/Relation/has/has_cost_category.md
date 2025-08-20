@@ -1,26 +1,28 @@
 ---
 aliases:
-- cost-category
-- cost_category
-- costCategory
-- has_cost_category
+  - cost-category
+  - cost_category
+  - costCategory
+  - has_cost_category
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cost
-- category
-layout: 
-license: "CC BY-SA 4.0"
+  - cost
+  - category
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_cost_category
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_cost_category
 type: Predi_Relation
 ---

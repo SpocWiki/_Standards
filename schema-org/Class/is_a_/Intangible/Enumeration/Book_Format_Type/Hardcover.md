@@ -1,27 +1,28 @@
 ---
 aliases:
-- hardcover
-- hardcover
-- Hardcover
-- is_a_hardcover
+  - hardcover
+  - hardcover
+  - Hardcover
+  - is_a_hardcover
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: BookFormatType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hardcover
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hardcover Class"
+  - hardcover
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hardcover Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hardcover Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hardcover Class
 type: Type
 ---
 

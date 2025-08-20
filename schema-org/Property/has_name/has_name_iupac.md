@@ -1,26 +1,28 @@
 ---
 aliases:
-- iupac-name
-- name_iupac
-- iupacName
-- has_name_iupac
+  - iupac-name
+  - name_iupac
+  - iupacName
+  - has_name_iupac
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- iupac
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - iupac
+  - name
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_name_iupac
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_name_iupac
 type: Pred_Text
 ---

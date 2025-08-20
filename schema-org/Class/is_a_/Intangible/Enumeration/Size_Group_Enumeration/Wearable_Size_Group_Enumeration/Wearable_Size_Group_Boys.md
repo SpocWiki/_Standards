@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-size-group-boys
-- wearable_size_group_boys
-- WearableSizeGroupBoys
-- is_a_wearable_size_group_boys
+  - wearable-size-group-boys
+  - wearable_size_group_boys
+  - WearableSizeGroupBoys
+  - is_a_wearable_size_group_boys
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_size_group_boys
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_size_group_boys Class"
+  - wearable_size_group_boys
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_size_group_boys Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_size_group_boys Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_size_group_boys Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- nonprofit-sbbi
-- nonprofit_sbbi
-- NonprofitSBBI
-- is_a_nonprofit_sbbi
+  - nonprofit-sbbi
+  - nonprofit_sbbi
+  - NonprofitSBBI
+  - is_a_nonprofit_sbbi
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: NLNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nonprofit_sbbi
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nonprofit_sbbi Class"
+  - nonprofit_sbbi
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nonprofit_sbbi Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nonprofit_sbbi Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nonprofit_sbbi Class
 type: Type
 ---
 

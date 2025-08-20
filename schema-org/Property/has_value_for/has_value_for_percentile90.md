@@ -1,25 +1,27 @@
 ---
 aliases:
-- percentile90
-- percentile90
-- percentile90
-- has_value_for_percentile90
+  - percentile90
+  - percentile90
+  - percentile90
+  - has_value_for_percentile90
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- percentile90
-layout: 
-license: "CC BY-SA 4.0"
+  - percentile90
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_percentile90
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_percentile90
 type: Predi_Quantity
 ---

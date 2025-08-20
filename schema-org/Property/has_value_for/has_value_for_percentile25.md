@@ -1,25 +1,27 @@
 ---
 aliases:
-- percentile25
-- percentile25
-- percentile25
-- has_value_for_percentile25
+  - percentile25
+  - percentile25
+  - percentile25
+  - has_value_for_percentile25
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- percentile25
-layout: 
-license: "CC BY-SA 4.0"
+  - percentile25
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_percentile25
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_percentile25
 type: Predi_Quantity
 ---

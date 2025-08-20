@@ -1,26 +1,28 @@
 ---
 aliases:
-- education-requirements
-- education_requirements
-- educationRequirements
-- has_education_requirements
+  - education-requirements
+  - education_requirements
+  - educationRequirements
+  - has_education_requirements
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- education
-- requirements
-layout: 
-license: "CC BY-SA 4.0"
+  - education
+  - requirements
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_education_requirements
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_education_requirements
 type: Predi_Relation
 ---

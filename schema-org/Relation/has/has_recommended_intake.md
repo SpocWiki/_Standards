@@ -1,26 +1,28 @@
 ---
 aliases:
-- recommended-intake
-- recommended_intake
-- recommendedIntake
-- has_recommended_intake
+  - recommended-intake
+  - recommended_intake
+  - recommendedIntake
+  - has_recommended_intake
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- recommended
-- intake
-layout: 
-license: "CC BY-SA 4.0"
+  - recommended
+  - intake
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_recommended_intake
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_recommended_intake
 type: Predi_Relation
 ---

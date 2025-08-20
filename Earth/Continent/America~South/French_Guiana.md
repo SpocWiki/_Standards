@@ -1,35 +1,36 @@
 ---
 aliases:
-- "French Guiana"
-- "Guayana Francesa"
-- "Guyane française"
-- "غيانا الفرنسية"
-- 法属圭亚那
-- "Французская Гвиана"
-- 
+  - French Guiana
+  - Guayana Francesa
+  - Guyane française
+  - غيانا الفرنسية
+  - 法属圭亚那
+  - Французская Гвиана
+  - 
 confidential: public
-cssclasses: Country
+cssclasses:
+  - Country
 draft: false
-expiryDate: 
+expiryDate:
 icon: flag-gf
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords:
 Languages:
-- fr-GF
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - fr-GF
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 location:
-- 4.92
-- -52.3
+  - 4.92
+  - -52.3
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate:
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26902
 tags:
-- geo/Country
-title: "French Guiana"
+  - geo/Country
+title: French Guiana
 type: Country
 ---
 

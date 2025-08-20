@@ -1,26 +1,28 @@
 ---
 aliases:
-- applicable-country
-- applicable_country
-- applicableCountry
-- is_applicable_in_country
+  - applicable-country
+  - applicable_country
+  - applicableCountry
+  - is_applicable_in_country
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- applicable
-- country
-layout: 
-license: "CC BY-SA 4.0"
+  - applicable
+  - country
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_applicable_in_country
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_applicable_in_country
 type: Predi_Relation
 ---

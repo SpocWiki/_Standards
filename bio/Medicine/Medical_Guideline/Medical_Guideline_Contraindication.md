@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-guideline-contraindication
-- medical_guideline_contraindication
-- MedicalGuidelineContraindication
-- is_a_medical_guideline_contraindication
+  - medical-guideline-contraindication
+  - medical_guideline_contraindication
+  - MedicalGuidelineContraindication
+  - is_a_medical_guideline_contraindication
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_guideline_contraindication
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_guideline_contraindication Class"
+  - medical_guideline_contraindication
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_guideline_contraindication Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_guideline_contraindication Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_guideline_contraindication Class
 type: Type
 ---
 

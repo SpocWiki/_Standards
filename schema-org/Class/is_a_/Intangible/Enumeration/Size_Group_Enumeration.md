@@ -1,26 +1,27 @@
 ---
 aliases:
-- size-group-enumeration
-- size_group_enumeration
-- SizeGroupEnumeration
-- is_a_size_group_enumeration
+  - size-group-enumeration
+  - size_group_enumeration
+  - SizeGroupEnumeration
+  - is_a_size_group_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- size_group_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_size_group_enumeration Class"
+  - size_group_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_size_group_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_size_group_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_size_group_enumeration Class
 type: Type
 ---
 

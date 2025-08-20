@@ -1,26 +1,27 @@
 ---
 aliases:
-- discover-action
-- discover_action
-- DiscoverAction
-- is_a_discover_action
+  - discover-action
+  - discover_action
+  - DiscoverAction
+  - is_a_discover_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- discover_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_discover_action Class"
+  - discover_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_discover_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_discover_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_discover_action Class
 type: Type
 ---
 

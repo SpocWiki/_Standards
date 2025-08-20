@@ -1,25 +1,27 @@
 ---
 aliases:
-- reservation-accepted
-- reservation_accepted
-- acceptsReservations
-- is_reservation_accepted
+  - reservation-accepted
+  - reservation_accepted
+  - acceptsReservations
+  - is_reservation_accepted
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reservation_accepted
-layout: 
-license: "CC BY-SA 4.0"
+  - reservation_accepted
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_reservation_accepted
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_reservation_accepted
 type: Pred_Bool
 ---

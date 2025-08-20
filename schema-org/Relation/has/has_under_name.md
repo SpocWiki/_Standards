@@ -1,26 +1,28 @@
 ---
 aliases:
-- under-name
-- under_name
-- underName
-- has_under_name
+  - under-name
+  - under_name
+  - underName
+  - has_under_name
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- under
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - under
+  - name
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_under_name
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_under_name
 type: Predi_Relation
 ---

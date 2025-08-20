@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-size-system-en13402
-- wearable_size_system_en13402
-- WearableSizeSystemEN13402
-- is_a_wearable_size_system_en13402
+  - wearable-size-system-en13402
+  - wearable_size_system_en13402
+  - WearableSizeSystemEN13402
+  - is_a_wearable_size_system_en13402
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableSizeSystemEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_size_system_en13402
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_size_system_en13402 Class"
+  - wearable_size_system_en13402
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_size_system_en13402 Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_size_system_en13402 Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_size_system_en13402 Class
 type: Type
 ---
 

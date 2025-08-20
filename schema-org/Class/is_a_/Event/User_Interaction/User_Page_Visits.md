@@ -1,27 +1,28 @@
 ---
 aliases:
-- user-page-visits
-- user_page_visits
-- UserPageVisits
-- is_a_user_page_visits
+  - user-page-visits
+  - user_page_visits
+  - UserPageVisits
+  - is_a_user_page_visits
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- user_page_visits
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_user_page_visits Class"
+  - user_page_visits
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_user_page_visits Class
 publish: true
-publishDate: 
+publishDate:
 superseded_by: InteractionCounter
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_user_page_visits Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_user_page_visits Class
 type: Type
 ---
 

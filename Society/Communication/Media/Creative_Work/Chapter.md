@@ -1,26 +1,27 @@
 ---
 aliases:
-- chapter
-- chapter
-- Chapter
-- is_a_chapter
+  - chapter
+  - chapter
+  - Chapter
+  - is_a_chapter
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- chapter
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_chapter Class"
+  - chapter
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_chapter Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_chapter Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_chapter Class
 type: Type
 ---
 

@@ -1,27 +1,29 @@
 ---
 aliases:
-- has-energy-consumption-details
-- energy_consumption_details
-- hasEnergyConsumptionDetails
-- has_energy_consumption_details
+  - has-energy-consumption-details
+  - energy_consumption_details
+  - hasEnergyConsumptionDetails
+  - has_energy_consumption_details
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- energy
-- consumption
-- details
-layout: 
-license: "CC BY-SA 4.0"
+  - energy
+  - consumption
+  - details
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_energy_consumption_details
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_energy_consumption_details
 type: Predi_Relation
 ---

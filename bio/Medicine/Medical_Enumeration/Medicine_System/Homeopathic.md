@@ -1,27 +1,28 @@
 ---
 aliases:
-- homeopathic
-- homeopathic
-- Homeopathic
-- is_a_homeopathic
+  - homeopathic
+  - homeopathic
+  - Homeopathic
+  - is_a_homeopathic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicineSystem
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- homeopathic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_homeopathic Class"
+  - homeopathic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_homeopathic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_homeopathic Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_homeopathic Class
 type: Type
 ---
 

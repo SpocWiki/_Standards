@@ -1,25 +1,27 @@
 ---
 aliases:
-- transit_time
-- transit-time
-- transitTime
-- has_value_for_transit_time
+  - transit_time
+  - transit-time
+  - transitTime
+  - has_value_for_transit_time
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- transit-time
-layout: 
-license: "CC BY-SA 4.0"
+  - transit-time
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_transit-time
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_transit-time
 type: Predi_Quantity
 ---

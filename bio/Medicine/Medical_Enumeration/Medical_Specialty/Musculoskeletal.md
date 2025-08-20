@@ -1,27 +1,28 @@
 ---
 aliases:
-- musculoskeletal
-- musculoskeletal
-- Musculoskeletal
-- is_a_musculoskeletal
+  - musculoskeletal
+  - musculoskeletal
+  - Musculoskeletal
+  - is_a_musculoskeletal
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- musculoskeletal
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_musculoskeletal Class"
+  - musculoskeletal
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_musculoskeletal Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_musculoskeletal Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_musculoskeletal Class
 type: Type
 ---
 

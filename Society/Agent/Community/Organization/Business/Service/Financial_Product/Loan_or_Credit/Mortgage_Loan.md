@@ -1,26 +1,27 @@
 ---
 aliases:
-- mortgage-loan
-- mortgage_loan
-- MortgageLoan
-- is_a_mortgage_loan
+  - mortgage-loan
+  - mortgage_loan
+  - MortgageLoan
+  - is_a_mortgage_loan
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- mortgage_loan
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_mortgage_loan Class"
+  - mortgage_loan
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_mortgage_loan Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_mortgage_loan Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_mortgage_loan Class
 type: Type
 ---
 

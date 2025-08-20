@@ -1,26 +1,27 @@
 ---
 aliases:
-- search-results-page
-- search_results_page
-- SearchResultsPage
-- is_a_search_results_page
+  - search-results-page
+  - search_results_page
+  - SearchResultsPage
+  - is_a_search_results_page
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- search_results_page
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_search_results_page Class"
+  - search_results_page
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_search_results_page Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_search_results_page Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_search_results_page Class
 type: Type
 ---
 

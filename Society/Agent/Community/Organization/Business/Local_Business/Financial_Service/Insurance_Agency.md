@@ -1,26 +1,27 @@
 ---
 aliases:
-- insurance-agency
-- insurance_agency
-- InsuranceAgency
-- is_an_insurance_agency
+  - insurance-agency
+  - insurance_agency
+  - InsuranceAgency
+  - is_an_insurance_agency
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- insurance_agency
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_insurance_agency Class"
+  - insurance_agency
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_insurance_agency Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_insurance_agency Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_insurance_agency Class
 type: Type
 ---
 

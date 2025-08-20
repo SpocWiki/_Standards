@@ -1,27 +1,28 @@
 ---
 aliases:
-- nonprofit-anbi
-- nonprofit_anbi
-- NonprofitANBI
-- is_a_nonprofit_anbi
+  - nonprofit-anbi
+  - nonprofit_anbi
+  - NonprofitANBI
+  - is_a_nonprofit_anbi
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: NLNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nonprofit_anbi
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nonprofit_anbi Class"
+  - nonprofit_anbi
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nonprofit_anbi Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nonprofit_anbi Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nonprofit_anbi Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- property-value-specification
-- property_value_specification
-- PropertyValueSpecification
-- is_a_property_value_specification
+  - property-value-specification
+  - property_value_specification
+  - PropertyValueSpecification
+  - is_a_property_value_specification
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- property_value_specification
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_property_value_specification Class"
+  - property_value_specification
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_property_value_specification Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_property_value_specification Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_property_value_specification Class
 type: Type
 ---
 

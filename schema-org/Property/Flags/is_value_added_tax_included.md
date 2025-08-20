@@ -1,25 +1,27 @@
 ---
 aliases:
-- value-added-tax-included
-- value_added_tax_included
-- valueAddedTaxIncluded
-- is_value_added_tax_included
+  - value-added-tax-included
+  - value_added_tax_included
+  - valueAddedTaxIncluded
+  - is_value_added_tax_included
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- value_added_tax_included
-layout: 
-license: "CC BY-SA 4.0"
+  - value_added_tax_included
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_value_added_tax_included
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_value_added_tax_included
 type: Pred_Bool
 ---

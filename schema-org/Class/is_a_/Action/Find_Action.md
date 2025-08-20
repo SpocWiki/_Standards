@@ -1,26 +1,27 @@
 ---
 aliases:
-- find-action
-- find_action
-- FindAction
-- is_a_find_action
+  - find-action
+  - find_action
+  - FindAction
+  - is_a_find_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- find_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_find_action Class"
+  - find_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_find_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_find_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_find_action Class
 type: Type
 ---
 

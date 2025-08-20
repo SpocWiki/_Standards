@@ -1,25 +1,27 @@
 ---
 aliases:
-- num-constraints
-- num_constraints
-- numConstraints
-- has_number_of_constraints
+  - num-constraints
+  - num_constraints
+  - numConstraints
+  - has_number_of_constraints
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- num_constraints
-layout: 
-license: "CC BY-SA 4.0"
+  - num_constraints
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_num_constraints
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_num_constraints
 type: Predi_Count
 ---

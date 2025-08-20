@@ -1,26 +1,27 @@
 ---
 aliases:
-- tourist-information-center
-- tourist_information_center
-- TouristInformationCenter
-- is_a_tourist_information_center
+  - tourist-information-center
+  - tourist_information_center
+  - TouristInformationCenter
+  - is_a_tourist_information_center
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tourist_information_center
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_tourist_information_center Class"
+  - tourist_information_center
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_tourist_information_center Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_tourist_information_center Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_tourist_information_center Class
 type: Type
 ---
 

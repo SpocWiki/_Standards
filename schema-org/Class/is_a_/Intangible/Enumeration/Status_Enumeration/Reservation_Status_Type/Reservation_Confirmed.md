@@ -1,27 +1,28 @@
 ---
 aliases:
-- reservation-confirmed
-- reservation_confirmed
-- ReservationConfirmed
-- is_a_reservation_confirmed
+  - reservation-confirmed
+  - reservation_confirmed
+  - ReservationConfirmed
+  - is_a_reservation_confirmed
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReservationStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reservation_confirmed
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_reservation_confirmed Class"
+  - reservation_confirmed
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_reservation_confirmed Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_reservation_confirmed Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_reservation_confirmed Class
 type: Type
 ---
 

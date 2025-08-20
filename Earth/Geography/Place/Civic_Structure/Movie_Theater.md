@@ -1,26 +1,27 @@
 ---
 aliases:
-- movie-theater
-- movie_theater
-- MovieTheater
-- is_a_movie_theater
+  - movie-theater
+  - movie_theater
+  - MovieTheater
+  - is_a_movie_theater
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- movie_theater
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_movie_theater Class"
+  - movie_theater
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_movie_theater Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_movie_theater Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_movie_theater Class
 type: Type
 ---
 

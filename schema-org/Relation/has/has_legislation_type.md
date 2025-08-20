@@ -1,26 +1,28 @@
 ---
 aliases:
-- legislation-type
-- legislation_type
-- legislationType
-- has_legislation_type
+  - legislation-type
+  - legislation_type
+  - legislationType
+  - has_legislation_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legislation
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - legislation
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_legislation_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_legislation_type
 type: Predi_Relation
 ---

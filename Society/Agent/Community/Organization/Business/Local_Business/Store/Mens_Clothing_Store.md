@@ -1,26 +1,27 @@
 ---
 aliases:
-- mens-clothing-store
-- mens_clothing_store
-- MensClothingStore
-- is_a_mens_clothing_store
+  - mens-clothing-store
+  - mens_clothing_store
+  - MensClothingStore
+  - is_a_mens_clothing_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- mens_clothing_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_mens_clothing_store Class"
+  - mens_clothing_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_mens_clothing_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_mens_clothing_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_mens_clothing_store Class
 type: Type
 ---
 

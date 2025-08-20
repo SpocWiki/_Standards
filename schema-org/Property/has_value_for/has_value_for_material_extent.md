@@ -1,25 +1,27 @@
 ---
 aliases:
-- material_extent
-- material-extent
-- materialExtent
-- has_value_for_material_extent
+  - material_extent
+  - material-extent
+  - materialExtent
+  - has_value_for_material_extent
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- material-extent
-layout: 
-license: "CC BY-SA 4.0"
+  - material-extent
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_material-extent
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_material-extent
 type: Predi_Quantity
 ---

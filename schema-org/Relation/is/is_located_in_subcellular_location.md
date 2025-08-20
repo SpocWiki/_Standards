@@ -1,24 +1,26 @@
 ---
 aliases:
-- is-located-in-subcellular-location
-- located_in_subcellular_location
-- isLocatedInSubcellularLocation
-- is_located_in_subcellular_location
+  - is-located-in-subcellular-location
+  - located_in_subcellular_location
+  - isLocatedInSubcellularLocation
+  - is_located_in_subcellular_location
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_located_in_subcellular_location
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_located_in_subcellular_location
 type: Predi_Relation
 ---

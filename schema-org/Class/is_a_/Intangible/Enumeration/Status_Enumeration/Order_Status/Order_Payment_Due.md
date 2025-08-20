@@ -1,27 +1,28 @@
 ---
 aliases:
-- order-payment-due
-- order_payment_due
-- OrderPaymentDue
-- is_an_order_payment_due
+  - order-payment-due
+  - order_payment_due
+  - OrderPaymentDue
+  - is_an_order_payment_due
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: OrderStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- order_payment_due
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_order_payment_due Class"
+  - order_payment_due
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_order_payment_due Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_order_payment_due Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_order_payment_due Class
 type: Type
 ---
 

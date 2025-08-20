@@ -1,26 +1,28 @@
 ---
 aliases:
-- hosting-organization
-- hosting_organization
-- hostingOrganization
-- has_hosting_organization
+  - hosting-organization
+  - hosting_organization
+  - hostingOrganization
+  - has_hosting_organization
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hosting
-- organization
-layout: 
-license: "CC BY-SA 4.0"
+  - hosting
+  - organization
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_hosting_organization
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_hosting_organization
 type: Predi_Relation
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- experience-in-place-of-education
-- experience_in_place_of_education
-- experienceInPlaceOfEducation
-- is_experience_in_place_of_education
+  - experience-in-place-of-education
+  - experience_in_place_of_education
+  - experienceInPlaceOfEducation
+  - is_experience_in_place_of_education
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- experience_in_place_of_education
-layout: 
-license: "CC BY-SA 4.0"
+  - experience_in_place_of_education
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_experience_in_place_of_education
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_experience_in_place_of_education
 type: Pred_Bool
 ---

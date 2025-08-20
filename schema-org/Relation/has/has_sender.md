@@ -1,25 +1,27 @@
 ---
 aliases:
-- sender
-- sender
-- sender
-- has_sender
+  - sender
+  - sender
+  - sender
+  - has_sender
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sender
-layout: 
-license: "CC BY-SA 4.0"
+  - sender
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sender
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sender
 type: Predi_Relation
 ---

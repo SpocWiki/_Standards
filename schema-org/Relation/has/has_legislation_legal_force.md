@@ -1,27 +1,29 @@
 ---
 aliases:
-- legislation-legal-force
-- legislation_legal_force
-- legislationLegalForce
-- has_legislation_legal_force
+  - legislation-legal-force
+  - legislation_legal_force
+  - legislationLegalForce
+  - has_legislation_legal_force
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legislation
-- legal
-- force
-layout: 
-license: "CC BY-SA 4.0"
+  - legislation
+  - legal
+  - force
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_legislation_legal_force
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_legislation_legal_force
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- TRUE
-- TRUE
-- TRUE
-- is_a_TRUE
+  - true
+  - true
+  - true
+  - is_a_TRUE
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- TRUE
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_TRUE Class"
+  - true
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_TRUE Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_TRUE Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_TRUE Class
 type: Type
 ---
 

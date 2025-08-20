@@ -1,26 +1,27 @@
 ---
 aliases:
-- quantitative-value
-- quantitative_value
-- QuantitativeValue
-- is_a_quantitative_value
+  - quantitative-value
+  - quantitative_value
+  - QuantitativeValue
+  - is_a_quantitative_value
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- quantitative_value
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_quantitative_value Class"
+  - quantitative_value
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_quantitative_value Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_quantitative_value Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_quantitative_value Class
 type: Type
 ---
 

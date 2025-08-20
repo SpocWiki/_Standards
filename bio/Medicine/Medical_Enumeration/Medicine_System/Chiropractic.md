@@ -1,27 +1,28 @@
 ---
 aliases:
-- chiropractic
-- chiropractic
-- Chiropractic
-- is_a_chiropractic
+  - chiropractic
+  - chiropractic
+  - Chiropractic
+  - is_a_chiropractic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicineSystem
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- chiropractic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_chiropractic Class"
+  - chiropractic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_chiropractic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_chiropractic Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_chiropractic Class
 type: Type
 ---
 

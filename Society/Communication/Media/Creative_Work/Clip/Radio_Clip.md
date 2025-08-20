@@ -1,26 +1,27 @@
 ---
 aliases:
-- radio-clip
-- radio_clip
-- RadioClip
-- is_a_radio_clip
+  - radio-clip
+  - radio_clip
+  - RadioClip
+  - is_a_radio_clip
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- radio_clip
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_radio_clip Class"
+  - radio_clip
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_radio_clip Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_radio_clip Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_radio_clip Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- veterinary-care
-- veterinary_care
-- VeterinaryCare
-- is_a_veterinary_care
+  - veterinary-care
+  - veterinary_care
+  - VeterinaryCare
+  - is_a_veterinary_care
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- veterinary_care
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_veterinary_care Class"
+  - veterinary_care
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_veterinary_care Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_veterinary_care Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_veterinary_care Class
 type: Type
 ---
 

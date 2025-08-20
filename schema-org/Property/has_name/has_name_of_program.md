@@ -1,26 +1,28 @@
 ---
 aliases:
-- program-name
-- name_of_program
-- programName
-- has_name_of_program
+  - program-name
+  - name_of_program
+  - programName
+  - has_name_of_program
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- program
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - program
+  - name
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_name_of_program
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_name_of_program
 type: Pred_Text
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- beach
-- beach
-- Beach
-- is_a_beach
+  - beach
+  - beach
+  - Beach
+  - is_a_beach
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- beach
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_beach Class"
+  - beach
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_beach Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_beach Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_beach Class
 type: Type
 ---
 

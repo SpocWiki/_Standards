@@ -1,27 +1,28 @@
 ---
 aliases:
-- return-label-in-box
-- return_label_in_box
-- ReturnLabelInBox
-- is_a_return_label_in_box
+  - return-label-in-box
+  - return_label_in_box
+  - ReturnLabelInBox
+  - is_a_return_label_in_box
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReturnLabelSourceEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return_label_in_box
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_return_label_in_box Class"
+  - return_label_in_box
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_return_label_in_box Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_return_label_in_box Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_return_label_in_box Class
 type: Type
 ---
 

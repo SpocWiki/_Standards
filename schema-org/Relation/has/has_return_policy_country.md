@@ -1,27 +1,29 @@
 ---
 aliases:
-- return-policy-country
-- return_policy_country
-- returnPolicyCountry
-- has_return_policy_country
+  - return-policy-country
+  - return_policy_country
+  - returnPolicyCountry
+  - has_return_policy_country
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return
-- policy
-- country
-layout: 
-license: "CC BY-SA 4.0"
+  - return
+  - policy
+  - country
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_return_policy_country
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_return_policy_country
 type: Predi_Relation
 ---

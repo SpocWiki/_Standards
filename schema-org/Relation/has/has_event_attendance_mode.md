@@ -1,27 +1,29 @@
 ---
 aliases:
-- event-attendance-mode
-- event_attendance_mode
-- eventAttendanceMode
-- has_event_attendance_mode
+  - event-attendance-mode
+  - event_attendance_mode
+  - eventAttendanceMode
+  - has_event_attendance_mode
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- event
-- attendance
-- mode
-layout: 
-license: "CC BY-SA 4.0"
+  - event
+  - attendance
+  - mode
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_event_attendance_mode
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_event_attendance_mode
 type: Predi_Relation
 ---

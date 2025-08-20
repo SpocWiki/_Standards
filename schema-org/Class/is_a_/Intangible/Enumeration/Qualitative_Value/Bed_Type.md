@@ -1,26 +1,27 @@
 ---
 aliases:
-- bed-type
-- bed_type
-- BedType
-- is_a_bed_type
+  - bed-type
+  - bed_type
+  - BedType
+  - is_a_bed_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bed_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_bed_type Class"
+  - bed_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_bed_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_bed_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_bed_type Class
 type: Type
 ---
 

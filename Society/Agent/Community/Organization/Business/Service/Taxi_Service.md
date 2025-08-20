@@ -1,27 +1,28 @@
 ---
 aliases:
-- taxi-service
-- taxi_service
-- TaxiService
-- is_a_taxi_service
+  - taxi-service
+  - taxi_service
+  - TaxiService
+  - is_a_taxi_service
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- taxi_service
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_taxi_service Class"
+  - taxi_service
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_taxi_service Class
 publish: true
-publishDate: 
+publishDate:
 supersedes: Taxi
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_taxi_service Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_taxi_service Class
 type: Type
 ---
 

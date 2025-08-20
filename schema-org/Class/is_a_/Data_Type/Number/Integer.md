@@ -1,26 +1,27 @@
 ---
 aliases:
-- integer
-- integer
-- Integer
-- is_an_integer
+  - integer
+  - integer
+  - Integer
+  - is_an_integer
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- integer
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_integer Class"
+  - integer
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_integer Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_integer Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_integer Class
 type: Type
 ---
 

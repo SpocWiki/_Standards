@@ -1,27 +1,29 @@
 ---
 aliases:
-- has-digital-document-permission
-- digital_document_permission
-- hasDigitalDocumentPermission
-- has_digital_document_permission
+  - has-digital-document-permission
+  - digital_document_permission
+  - hasDigitalDocumentPermission
+  - has_digital_document_permission
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- digital
-- document
-- permission
-layout: 
-license: "CC BY-SA 4.0"
+  - digital
+  - document
+  - permission
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_digital_document_permission
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_digital_document_permission
 type: Predi_Relation
 ---

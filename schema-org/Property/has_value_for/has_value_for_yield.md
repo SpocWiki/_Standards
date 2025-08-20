@@ -1,25 +1,27 @@
 ---
 aliases:
-- yield
-- yield
-- yield
-- has_value_for_yield
+  - yield
+  - yield
+  - yield
+  - has_value_for_yield
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- yield
-layout: 
-license: "CC BY-SA 4.0"
+  - yield
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_yield
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_yield
 type: Predi_Quantity
 ---

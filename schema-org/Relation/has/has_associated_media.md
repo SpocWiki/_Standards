@@ -1,26 +1,28 @@
 ---
 aliases:
-- associated-media
-- associated_media
-- associatedMedia
-- has_associated_media
+  - associated-media
+  - associated_media
+  - associatedMedia
+  - has_associated_media
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- associated
-- media
-layout: 
-license: "CC BY-SA 4.0"
+  - associated
+  - media
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_associated_media
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_associated_media
 type: Predi_Relation
 ---

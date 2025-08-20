@@ -1,25 +1,27 @@
 ---
 aliases:
-- warning
-- warning
-- warning
-- has_text_of_warning
+  - warning
+  - warning
+  - warning
+  - has_text_of_warning
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- warning
-layout: 
-license: "CC BY-SA 4.0"
+  - warning
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_warning
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_warning
 type: Pred_Text
 ---

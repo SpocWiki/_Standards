@@ -1,25 +1,27 @@
 ---
 aliases:
-- maximum-virtual-attendee-capacity
-- maximum_virtual_attendee_capacity
-- maximumVirtualAttendeeCapacity
-- has_number_of_maximum_virtual_attendees
+  - maximum-virtual-attendee-capacity
+  - maximum_virtual_attendee_capacity
+  - maximumVirtualAttendeeCapacity
+  - has_number_of_maximum_virtual_attendees
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- maximum_virtual_attendee_capacity
-layout: 
-license: "CC BY-SA 4.0"
+  - maximum_virtual_attendee_capacity
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_maximum_virtual_attendee_capacity
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_maximum_virtual_attendee_capacity
 type: Predi_Count
 ---

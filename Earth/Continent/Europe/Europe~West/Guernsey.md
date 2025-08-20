@@ -1,33 +1,34 @@
 ---
 aliases:
-- Guernsey
-- Guernesey
-- غيرنزي
-- 根西
-- Гернси
-- 
+  - Guernsey
+  - Guernesey
+  - غيرنزي
+  - 根西
+  - Гернси
+  - 
 confidential: public
-cssclasses: Country
+cssclasses:
+  - Country
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords:
 Languages:
-- en
-- nrf
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - en
+  - nrf
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 location:
-- 49.45
-- -2.55
+  - 49.45
+  - -2.55
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate:
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 57601
 tags:
-- geo/Country
+  - geo/Country
 title: Guernsey
 type: Country
 ---

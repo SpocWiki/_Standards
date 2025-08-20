@@ -1,26 +1,27 @@
 ---
 aliases:
-- publication-volume
-- publication_volume
-- PublicationVolume
-- is_a_publication_volume
+  - publication-volume
+  - publication_volume
+  - PublicationVolume
+  - is_a_publication_volume
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- publication_volume
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_publication_volume Class"
+  - publication_volume
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_publication_volume Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_publication_volume Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_publication_volume Class
 type: Type
 ---
 

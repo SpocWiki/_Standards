@@ -1,25 +1,27 @@
 ---
 aliases:
-- grantee
-- grantee
-- grantee
-- has_grantee
+  - grantee
+  - grantee
+  - grantee
+  - has_grantee
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- grantee
-layout: 
-license: "CC BY-SA 4.0"
+  - grantee
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_grantee
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_grantee
 type: Predi_Relation
 ---

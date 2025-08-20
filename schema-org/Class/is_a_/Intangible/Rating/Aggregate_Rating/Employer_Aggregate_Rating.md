@@ -1,26 +1,27 @@
 ---
 aliases:
-- employer-aggregate-rating
-- employer_aggregate_rating
-- EmployerAggregateRating
-- is_an_employer_aggregate_rating
+  - employer-aggregate-rating
+  - employer_aggregate_rating
+  - EmployerAggregateRating
+  - is_an_employer_aggregate_rating
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- employer_aggregate_rating
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_employer_aggregate_rating Class"
+  - employer_aggregate_rating
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_employer_aggregate_rating Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_employer_aggregate_rating Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_employer_aggregate_rating Class
 type: Type
 ---
 

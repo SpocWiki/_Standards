@@ -1,26 +1,28 @@
 ---
 aliases:
-- program-type
-- program_type
-- programType
-- has_program_type
+  - program-type
+  - program_type
+  - programType
+  - has_program_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- program
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - program
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_program_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_program_type
 type: Predi_Relation
 ---

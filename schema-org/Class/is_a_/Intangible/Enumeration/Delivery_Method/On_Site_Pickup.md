@@ -1,27 +1,28 @@
 ---
 aliases:
-- on-site-pickup
-- on_site_pickup
-- OnSitePickup
-- is_an_on_site_pickup
+  - on-site-pickup
+  - on_site_pickup
+  - OnSitePickup
+  - is_an_on_site_pickup
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DeliveryMethod
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- on_site_pickup
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_on_site_pickup Class"
+  - on_site_pickup
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_on_site_pickup Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_on_site_pickup Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_on_site_pickup Class
 type: Type
 ---
 

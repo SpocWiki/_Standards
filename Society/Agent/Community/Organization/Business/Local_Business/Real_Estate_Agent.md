@@ -1,26 +1,27 @@
 ---
 aliases:
-- real-estate-agent
-- real_estate_agent
-- RealEstateAgent
-- is_a_real_estate_agent
+  - real-estate-agent
+  - real_estate_agent
+  - RealEstateAgent
+  - is_a_real_estate_agent
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- real_estate_agent
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_real_estate_agent Class"
+  - real_estate_agent
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_real_estate_agent Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_real_estate_agent Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_real_estate_agent Class
 type: Type
 ---
 

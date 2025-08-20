@@ -1,27 +1,28 @@
 ---
 aliases:
-- read-permission
-- read_permission
-- ReadPermission
-- is_a_read_permission
+  - read-permission
+  - read_permission
+  - ReadPermission
+  - is_a_read_permission
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DigitalDocumentPermissionType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- read_permission
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_read_permission Class"
+  - read_permission
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_read_permission Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_read_permission Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_read_permission Class
 type: Type
 ---
 

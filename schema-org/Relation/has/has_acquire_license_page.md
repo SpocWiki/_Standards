@@ -1,27 +1,29 @@
 ---
 aliases:
-- acquire-license-page
-- acquire_license_page
-- acquireLicensePage
-- has_acquire_license_page
+  - acquire-license-page
+  - acquire_license_page
+  - acquireLicensePage
+  - has_acquire_license_page
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- acquire
-- license
-- page
-layout: 
-license: "CC BY-SA 4.0"
+  - acquire
+  - license
+  - page
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_acquire_license_page
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_acquire_license_page
 type: Predi_Relation
 ---

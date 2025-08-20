@@ -1,26 +1,27 @@
 ---
 aliases:
-- question
-- question
-- Question
-- is_a_question
+  - question
+  - question
+  - Question
+  - is_a_question
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- question
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_question Class"
+  - question
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_question Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_question Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_question Class
 type: Type
 ---
 

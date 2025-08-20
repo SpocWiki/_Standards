@@ -1,38 +1,39 @@
 ---
 aliases:
-- "Solomon Islands"
-- "Islas Salomón"
-- "Îles Salomon"
-- "جزر سليمان"
-- 所罗门群岛
-- "Соломоновы Острова"
-- "las Islas Salomón"
-- "Islas Salomón (las)"
+  - Solomon Islands
+  - Islas Salomón
+  - Îles Salomon
+  - جزر سليمان
+  - 所罗门群岛
+  - Соломоновы Острова
+  - las Islas Salomón
+  - Islas Salomón (las)
 confidential: public
-cssclasses: Country
+cssclasses:
+  - Country
 draft: false
-expiryDate: 
+expiryDate:
 has_id_wikidata: Q685
 icon: flag-sb
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords:
 Languages:
-- en-SB
-- tpi
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - en-SB
+  - tpi
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 location:
-- -9.46667
-- 159.817
+  - -9.46667
+  - 159.817
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate:
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 27010
 tags:
-- geo/Country
-title: "Solomon Islands"
+  - geo/Country
+title: Solomon Islands
 type: Country
 ---
 

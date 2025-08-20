@@ -1,27 +1,28 @@
 ---
 aliases:
-- tobacco-nicotine-consideration
-- tobacco_nicotine_consideration
-- TobaccoNicotineConsideration
-- is_a_tobacco_nicotine_consideration
+  - tobacco-nicotine-consideration
+  - tobacco_nicotine_consideration
+  - TobaccoNicotineConsideration
+  - is_a_tobacco_nicotine_consideration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: AdultOrientedEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tobacco_nicotine_consideration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_tobacco_nicotine_consideration Class"
+  - tobacco_nicotine_consideration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_tobacco_nicotine_consideration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_tobacco_nicotine_consideration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_tobacco_nicotine_consideration Class
 type: Type
 ---
 

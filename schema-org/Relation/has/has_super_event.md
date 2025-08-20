@@ -1,26 +1,28 @@
 ---
 aliases:
-- super-event
-- super_event
-- superEvent
-- has_super_event
+  - super-event
+  - super_event
+  - superEvent
+  - has_super_event
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- super
-- event
-layout: 
-license: "CC BY-SA 4.0"
+  - super
+  - event
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_super_event
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_super_event
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- claim
-- claim
-- Claim
-- is_a_claim
+  - claim
+  - claim
+  - Claim
+  - is_a_claim
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- claim
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_claim Class"
+  - claim
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_claim Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_claim Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_claim Class
 type: Type
 ---
 

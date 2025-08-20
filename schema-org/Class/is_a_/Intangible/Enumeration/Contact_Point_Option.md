@@ -1,26 +1,27 @@
 ---
 aliases:
-- contact-point-option
-- contact_point_option
-- ContactPointOption
-- is_a_contact_point_option
+  - contact-point-option
+  - contact_point_option
+  - ContactPointOption
+  - is_a_contact_point_option
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- contact_point_option
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_contact_point_option Class"
+  - contact_point_option
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_contact_point_option Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_contact_point_option Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_contact_point_option Class
 type: Type
 ---
 

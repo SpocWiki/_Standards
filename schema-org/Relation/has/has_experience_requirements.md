@@ -1,26 +1,28 @@
 ---
 aliases:
-- experience-requirements
-- experience_requirements
-- experienceRequirements
-- has_experience_requirements
+  - experience-requirements
+  - experience_requirements
+  - experienceRequirements
+  - has_experience_requirements
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- experience
-- requirements
-layout: 
-license: "CC BY-SA 4.0"
+  - experience
+  - requirements
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_experience_requirements
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_experience_requirements
 type: Predi_Relation
 ---

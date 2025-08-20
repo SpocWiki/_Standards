@@ -1,27 +1,28 @@
 ---
 aliases:
-- endocrine
-- endocrine
-- Endocrine
-- is_an_endocrine
+  - endocrine
+  - endocrine
+  - Endocrine
+  - is_an_endocrine
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- endocrine
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_endocrine Class"
+  - endocrine
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_endocrine Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_endocrine Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_endocrine Class
 type: Type
 ---
 

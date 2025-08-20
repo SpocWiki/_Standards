@@ -1,26 +1,27 @@
 ---
 aliases:
-- medicine-system
-- medicine_system
-- MedicineSystem
-- is_a_medicine_system
+  - medicine-system
+  - medicine_system
+  - MedicineSystem
+  - is_a_medicine_system
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medicine_system
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medicine_system Class"
+  - medicine_system
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medicine_system Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medicine_system Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medicine_system Class
 type: Type
 ---
 

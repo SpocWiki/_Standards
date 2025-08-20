@@ -1,26 +1,28 @@
 ---
 aliases:
-- music-arrangement
-- music_arrangement
-- musicArrangement
-- has_music_arrangement
+  - music-arrangement
+  - music_arrangement
+  - musicArrangement
+  - has_music_arrangement
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- music
-- arrangement
-layout: 
-license: "CC BY-SA 4.0"
+  - music
+  - arrangement
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_music_arrangement
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_music_arrangement
 type: Predi_Relation
 ---

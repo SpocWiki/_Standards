@@ -1,25 +1,27 @@
 ---
 aliases:
-- asin
-- asin
-- asin
-- has_text_of_asin
+  - asin
+  - asin
+  - asin
+  - has_text_of_asin
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- asin
-layout: 
-license: "CC BY-SA 4.0"
+  - asin
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_asin
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_asin
 type: Pred_Text
 ---

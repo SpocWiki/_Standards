@@ -1,25 +1,27 @@
 ---
 aliases:
-- image
-- image
-- image
-- has_image
+  - image
+  - image
+  - image
+  - has_image
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- image
-layout: 
-license: "CC BY-SA 4.0"
+  - image
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_image
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_image
 type: Predi_Relation
 ---

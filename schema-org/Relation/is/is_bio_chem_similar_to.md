@@ -1,27 +1,29 @@
 ---
 aliases:
-- bio-chem-similarity
-- bio_chem_similarity
-- bioChemSimilarity
-- has_bio_chem_similarity
+  - bio-chem-similarity
+  - bio_chem_similarity
+  - bioChemSimilarity
+  - has_bio_chem_similarity
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bio
-- chem
-- similarity
-layout: 
-license: "CC BY-SA 4.0"
+  - bio
+  - chem
+  - similarity
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_bio_chem_similarity
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_bio_chem_similarity
 type: Predi_Relation
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- has-defined-term
-- defined_term
-- hasDefinedTerm
-- has_defined_term
+  - has-defined-term
+  - defined_term
+  - hasDefinedTerm
+  - has_defined_term
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- defined
-- term
-layout: 
-license: "CC BY-SA 4.0"
+  - defined
+  - term
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_defined_term
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_defined_term
 type: Predi_Relation
 ---

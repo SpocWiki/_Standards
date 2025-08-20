@@ -1,27 +1,28 @@
 ---
 aliases:
-- spoken-word-album
-- spoken_word_album
-- SpokenWordAlbum
-- is_a_spoken_word_album
+  - spoken-word-album
+  - spoken_word_album
+  - SpokenWordAlbum
+  - is_a_spoken_word_album
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- spoken_word_album
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_spoken_word_album Class"
+  - spoken_word_album
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_spoken_word_album Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_spoken_word_album Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_spoken_word_album Class
 type: Type
 ---
 

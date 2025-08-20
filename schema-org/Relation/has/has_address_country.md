@@ -1,26 +1,28 @@
 ---
 aliases:
-- address-country
-- address_country
-- addressCountry
-- has_address_country
+  - address-country
+  - address_country
+  - addressCountry
+  - has_address_country
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- address
-- country
-layout: 
-license: "CC BY-SA 4.0"
+  - address
+  - country
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_address_country
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_address_country
 type: Predi_Relation
 ---

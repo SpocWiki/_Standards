@@ -1,27 +1,29 @@
 ---
 aliases:
-- action-accessibility-requirement
-- action_accessibility_requirement
-- actionAccessibilityRequirement
-- has_action_accessibility_requirement
+  - action-accessibility-requirement
+  - action_accessibility_requirement
+  - actionAccessibilityRequirement
+  - has_action_accessibility_requirement
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- action
-- accessibility
-- requirement
-layout: 
-license: "CC BY-SA 4.0"
+  - action
+  - accessibility
+  - requirement
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_action_accessibility_requirement
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_action_accessibility_requirement
 type: Predi_Relation
 ---

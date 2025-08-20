@@ -1,26 +1,27 @@
 ---
 aliases:
-- price-type-enumeration
-- price_type_enumeration
-- PriceTypeEnumeration
-- is_a_price_type_enumeration
+  - price-type-enumeration
+  - price_type_enumeration
+  - PriceTypeEnumeration
+  - is_a_price_type_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- price_type_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_price_type_enumeration Class"
+  - price_type_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_price_type_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_price_type_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_price_type_enumeration Class
 type: Type
 ---
 

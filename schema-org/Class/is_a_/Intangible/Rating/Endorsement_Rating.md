@@ -1,26 +1,27 @@
 ---
 aliases:
-- endorsement-rating
-- endorsement_rating
-- EndorsementRating
-- is_an_endorsement_rating
+  - endorsement-rating
+  - endorsement_rating
+  - EndorsementRating
+  - is_an_endorsement_rating
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- endorsement_rating
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_endorsement_rating Class"
+  - endorsement_rating
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_endorsement_rating Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_endorsement_rating Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_endorsement_rating Class
 type: Type
 ---
 

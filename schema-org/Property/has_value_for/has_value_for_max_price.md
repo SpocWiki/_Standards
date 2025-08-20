@@ -1,25 +1,27 @@
 ---
 aliases:
-- max_price
-- max-price
-- maxPrice
-- has_value_for_max_price
+  - max_price
+  - max-price
+  - maxPrice
+  - has_value_for_max_price
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- max-price
-layout: 
-license: "CC BY-SA 4.0"
+  - max-price
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_max-price
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_max-price
 type: Predi_Quantity
 ---

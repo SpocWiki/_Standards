@@ -1,27 +1,28 @@
 ---
 aliases:
-- genitourinary
-- genitourinary
-- Genitourinary
-- is_a_genitourinary
+  - genitourinary
+  - genitourinary
+  - Genitourinary
+  - is_a_genitourinary
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- genitourinary
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_genitourinary Class"
+  - genitourinary
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_genitourinary Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_genitourinary Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_genitourinary Class
 type: Type
 ---
 

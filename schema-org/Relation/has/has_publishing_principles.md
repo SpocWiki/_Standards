@@ -1,26 +1,28 @@
 ---
 aliases:
-- publishing-principles
-- publishing_principles
-- publishingPrinciples
-- has_publishing_principles
+  - publishing-principles
+  - publishing_principles
+  - publishingPrinciples
+  - has_publishing_principles
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- publishing
-- principles
-layout: 
-license: "CC BY-SA 4.0"
+  - publishing
+  - principles
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_publishing_principles
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_publishing_principles
 type: Predi_Relation
 ---

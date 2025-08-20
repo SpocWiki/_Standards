@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-organization
-- medical_organization
-- MedicalOrganization
-- is_a_medical_organization
+  - medical-organization
+  - medical_organization
+  - MedicalOrganization
+  - is_a_medical_organization
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_organization
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_organization Class"
+  - medical_organization
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_organization Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_organization Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_organization Class
 type: Type
 ---
 

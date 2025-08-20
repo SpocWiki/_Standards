@@ -1,26 +1,28 @@
 ---
 aliases:
-- application-contact
-- application_contact
-- applicationContact
-- has_application_contact
+  - application-contact
+  - application_contact
+  - applicationContact
+  - has_application_contact
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- application
-- contact
-layout: 
-license: "CC BY-SA 4.0"
+  - application
+  - contact
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_application_contact
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_application_contact
 type: Predi_Relation
 ---

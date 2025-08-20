@@ -1,26 +1,28 @@
 ---
 aliases:
-- accessibility-control
-- accessibility_control
-- accessibilityControl
-- has_text_of_accessibility_control
+  - accessibility-control
+  - accessibility_control
+  - accessibilityControl
+  - has_text_of_accessibility_control
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- accessibility
-- control
-layout: 
-license: "CC BY-SA 4.0"
+  - accessibility
+  - control
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_accessibility_control
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_accessibility_control
 type: Pred_Text
 ---

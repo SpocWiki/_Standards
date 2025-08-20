@@ -1,26 +1,27 @@
 ---
 aliases:
-- reservation-status-type
-- reservation_status_type
-- ReservationStatusType
-- is_a_reservation_status_type
+  - reservation-status-type
+  - reservation_status_type
+  - ReservationStatusType
+  - is_a_reservation_status_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reservation_status_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_reservation_status_type Class"
+  - reservation_status_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_reservation_status_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_reservation_status_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_reservation_status_type Class
 type: Type
 ---
 

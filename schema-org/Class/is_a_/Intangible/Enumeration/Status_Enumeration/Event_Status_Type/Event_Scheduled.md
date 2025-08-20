@@ -1,27 +1,28 @@
 ---
 aliases:
-- event-scheduled
-- event_scheduled
-- EventScheduled
-- is_an_event_scheduled
+  - event-scheduled
+  - event_scheduled
+  - EventScheduled
+  - is_an_event_scheduled
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: EventStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- event_scheduled
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_event_scheduled Class"
+  - event_scheduled
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_event_scheduled Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_event_scheduled Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_event_scheduled Class
 type: Type
 ---
 

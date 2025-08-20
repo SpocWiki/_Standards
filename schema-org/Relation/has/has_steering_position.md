@@ -1,26 +1,28 @@
 ---
 aliases:
-- steering-position
-- steering_position
-- steeringPosition
-- has_steering_position
+  - steering-position
+  - steering_position
+  - steeringPosition
+  - has_steering_position
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- steering
-- position
-layout: 
-license: "CC BY-SA 4.0"
+  - steering
+  - position
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_steering_position
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_steering_position
 type: Predi_Relation
 ---

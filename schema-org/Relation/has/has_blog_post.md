@@ -1,27 +1,29 @@
 ---
 aliases:
-- blog-post
-- blog_post
-- blogPost
-- has_blog_post
+  - blog-post
+  - blog_post
+  - blogPost
+  - has_blog_post
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- blog
-- post
-layout: 
-license: "CC BY-SA 4.0"
+  - blog
+  - post
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_blog_post
 publish: true
-publishDate: 
+publishDate:
 supersedes: blogPosts
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_blog_post
 type: Predi_Relation
 ---

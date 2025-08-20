@@ -1,25 +1,27 @@
 ---
 aliases:
-- maintainer
-- maintainer
-- maintainer
-- has_maintainer
+  - maintainer
+  - maintainer
+  - maintainer
+  - has_maintainer
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- maintainer
-layout: 
-license: "CC BY-SA 4.0"
+  - maintainer
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_maintainer
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_maintainer
 type: Predi_Relation
 ---

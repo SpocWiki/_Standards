@@ -1,26 +1,27 @@
 ---
 aliases:
-- vessel
-- vessel
-- Vessel
-- is_a_vessel
+  - vessel
+  - vessel
+  - Vessel
+  - is_a_vessel
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- vessel
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_vessel Class"
+  - vessel
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_vessel Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_vessel Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_vessel Class
 type: Type
 ---
 

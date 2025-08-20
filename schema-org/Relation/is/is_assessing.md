@@ -1,23 +1,25 @@
 ---
 aliases:
-- assesses
-- is_assessing
+  - assesses
+  - is_assessing
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- assesses
-layout: 
-license: "CC BY-SA 4.0"
+  - assesses
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_assessing
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_assessing
 type: Predi_Relation
 ---

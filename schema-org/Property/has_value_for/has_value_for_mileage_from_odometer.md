@@ -1,25 +1,27 @@
 ---
 aliases:
-- mileage_from_odometer
-- mileage-from-odometer
-- mileageFromOdometer
-- has_value_for_mileage_from_odometer
+  - mileage_from_odometer
+  - mileage-from-odometer
+  - mileageFromOdometer
+  - has_value_for_mileage_from_odometer
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- mileage-from-odometer
-layout: 
-license: "CC BY-SA 4.0"
+  - mileage-from-odometer
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_mileage-from-odometer
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_mileage-from-odometer
 type: Predi_Quantity
 ---

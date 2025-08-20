@@ -1,25 +1,27 @@
 ---
 aliases:
-- loser
-- loser
-- loser
-- has_loser
+  - loser
+  - loser
+  - loser
+  - has_loser
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- loser
-layout: 
-license: "CC BY-SA 4.0"
+  - loser
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_loser
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_loser
 type: Predi_Relation
 ---

@@ -1,24 +1,26 @@
 ---
 aliases:
-- runs-to
-- running_to
-- runsTo
-- is_running_to
+  - runs-to
+  - running_to
+  - runsTo
+  - is_running_to
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_running_to
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_running_to
 type: Predi_Relation
 ---

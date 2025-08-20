@@ -1,27 +1,28 @@
 ---
 aliases:
-- obstetric
-- obstetric
-- Obstetric
-- is_an_obstetric
+  - obstetric
+  - obstetric
+  - Obstetric
+  - is_an_obstetric
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- obstetric
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_obstetric Class"
+  - obstetric
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_obstetric Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_obstetric Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_obstetric Class
 type: Type
 ---
 

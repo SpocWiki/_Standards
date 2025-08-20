@@ -1,27 +1,28 @@
 ---
 aliases:
-- suspended
-- suspended
-- Suspended
-- is_a_suspended
+  - suspended
+  - suspended
+  - Suspended
+  - is_a_suspended
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalStudyStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- suspended
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_suspended Class"
+  - suspended
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_suspended Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_suspended Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_suspended Class
 type: Type
 ---
 

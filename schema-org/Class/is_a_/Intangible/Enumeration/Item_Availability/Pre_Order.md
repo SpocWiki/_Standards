@@ -1,27 +1,28 @@
 ---
 aliases:
-- pre-order
-- pre_order
-- PreOrder
-- is_pre_ordered
+  - pre-order
+  - pre_order
+  - PreOrder
+  - is_pre_ordered
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- pre_order
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_pre_ordered Class"
+  - pre_order
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_pre_ordered Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_pre_ordered Class"
+  - class/Class
+  - schema-org/Class
+title: is_pre_ordered Class
 type: Type
 ---
 

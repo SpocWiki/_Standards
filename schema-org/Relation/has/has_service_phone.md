@@ -1,26 +1,28 @@
 ---
 aliases:
-- service-phone
-- service_phone
-- servicePhone
-- has_service_phone
+  - service-phone
+  - service_phone
+  - servicePhone
+  - has_service_phone
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- service
-- phone
-layout: 
-license: "CC BY-SA 4.0"
+  - service
+  - phone
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_service_phone
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_service_phone
 type: Predi_Relation
 ---

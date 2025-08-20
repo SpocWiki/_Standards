@@ -1,26 +1,27 @@
 ---
 aliases:
-- car-usage-type
-- car_usage_type
-- CarUsageType
-- is_a_car_usage_type
+  - car-usage-type
+  - car_usage_type
+  - CarUsageType
+  - is_a_car_usage_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- car_usage_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_car_usage_type Class"
+  - car_usage_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_car_usage_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_car_usage_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_car_usage_type Class
 type: Type
 ---
 

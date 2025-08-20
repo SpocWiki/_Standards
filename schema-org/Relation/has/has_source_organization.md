@@ -1,26 +1,28 @@
 ---
 aliases:
-- source-organization
-- source_organization
-- sourceOrganization
-- has_source_organization
+  - source-organization
+  - source_organization
+  - sourceOrganization
+  - has_source_organization
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- source
-- organization
-layout: 
-license: "CC BY-SA 4.0"
+  - source
+  - organization
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_source_organization
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_source_organization
 type: Predi_Relation
 ---

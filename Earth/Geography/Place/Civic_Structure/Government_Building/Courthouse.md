@@ -1,26 +1,27 @@
 ---
 aliases:
-- courthouse
-- courthouse
-- Courthouse
-- is_a_courthouse
+  - courthouse
+  - courthouse
+  - Courthouse
+  - is_a_courthouse
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- courthouse
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_courthouse Class"
+  - courthouse
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_courthouse Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_courthouse Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_courthouse Class
 type: Type
 ---
 

@@ -1,25 +1,27 @@
 ---
 aliases:
-- early_prepayment_penalty
-- early-prepayment-penalty
-- earlyPrepaymentPenalty
-- has_value_for_early_prepayment_penalty
+  - early_prepayment_penalty
+  - early-prepayment-penalty
+  - earlyPrepaymentPenalty
+  - has_value_for_early_prepayment_penalty
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- early-prepayment-penalty
-layout: 
-license: "CC BY-SA 4.0"
+  - early-prepayment-penalty
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_early-prepayment-penalty
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_early-prepayment-penalty
 type: Predi_Quantity
 ---

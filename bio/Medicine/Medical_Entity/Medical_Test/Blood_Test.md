@@ -1,26 +1,27 @@
 ---
 aliases:
-- blood-test
-- blood_test
-- BloodTest
-- is_a_blood_test
+  - blood-test
+  - blood_test
+  - BloodTest
+  - is_a_blood_test
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- blood_test
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_blood_test Class"
+  - blood_test
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_blood_test Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_blood_test Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_blood_test Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- quantity
-- quantity
-- Quantity
-- is_a_quantity
+  - quantity
+  - quantity
+  - Quantity
+  - is_a_quantity
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- quantity
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_quantity Class"
+  - quantity
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_quantity Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_quantity Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_quantity Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- loan-or-credit
-- loan_or_credit
-- LoanOrCredit
-- is_a_loan_or_credit
+  - loan-or-credit
+  - loan_or_credit
+  - LoanOrCredit
+  - is_a_loan_or_credit
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- loan_or_credit
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_loan_or_credit Class"
+  - loan_or_credit
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_loan_or_credit Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_loan_or_credit Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_loan_or_credit Class
 type: Type
 ---
 

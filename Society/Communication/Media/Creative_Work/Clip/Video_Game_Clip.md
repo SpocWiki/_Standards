@@ -1,26 +1,27 @@
 ---
 aliases:
-- video-game-clip
-- video_game_clip
-- VideoGameClip
-- is_a_video_game_clip
+  - video-game-clip
+  - video_game_clip
+  - VideoGameClip
+  - is_a_video_game_clip
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- video_game_clip
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_video_game_clip Class"
+  - video_game_clip
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_video_game_clip Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_video_game_clip Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_video_game_clip Class
 type: Type
 ---
 

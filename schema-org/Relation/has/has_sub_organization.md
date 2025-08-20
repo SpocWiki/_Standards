@@ -1,26 +1,28 @@
 ---
 aliases:
-- sub-organization
-- sub_organization
-- subOrganization
-- has_sub_organization
+  - sub-organization
+  - sub_organization
+  - subOrganization
+  - has_sub_organization
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sub
-- organization
-layout: 
-license: "CC BY-SA 4.0"
+  - sub
+  - organization
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sub_organization
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sub_organization
 type: Predi_Relation
 ---

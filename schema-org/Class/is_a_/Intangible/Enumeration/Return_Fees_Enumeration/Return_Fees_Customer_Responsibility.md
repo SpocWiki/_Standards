@@ -1,27 +1,28 @@
 ---
 aliases:
-- return-fees-customer-responsibility
-- return_fees_customer_responsibility
-- ReturnFeesCustomerResponsibility
-- is_a_return_fees_customer_responsibility
+  - return-fees-customer-responsibility
+  - return_fees_customer_responsibility
+  - ReturnFeesCustomerResponsibility
+  - is_a_return_fees_customer_responsibility
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReturnFeesEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return_fees_customer_responsibility
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_return_fees_customer_responsibility Class"
+  - return_fees_customer_responsibility
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_return_fees_customer_responsibility Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_return_fees_customer_responsibility Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_return_fees_customer_responsibility Class
 type: Type
 ---
 

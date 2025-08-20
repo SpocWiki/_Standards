@@ -1,26 +1,27 @@
 ---
 aliases:
-- flight
-- flight
-- Flight
-- is_a_flight
+  - flight
+  - flight
+  - Flight
+  - is_a_flight
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- flight
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_flight Class"
+  - flight
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_flight Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_flight Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_flight Class
 type: Type
 ---
 

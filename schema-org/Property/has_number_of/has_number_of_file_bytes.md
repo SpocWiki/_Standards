@@ -1,26 +1,28 @@
 ---
 aliases:
-- file-size
-- file_bytes
-- fileSize
-- has_number_of_file_bytes
+  - file-size
+  - file_bytes
+  - fileSize
+  - has_number_of_file_bytes
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- file
-- size
-layout: 
-license: "CC BY-SA 4.0"
+  - file
+  - size
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_file_bytes
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_number_of_file_bytes
 type: Pred_Text
 ---

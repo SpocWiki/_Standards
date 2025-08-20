@@ -1,29 +1,31 @@
 ---
 aliases:
-- in-product-group-with-id
-- id_of_product_group
-- inProductGroupWithID
-- has_id_of_product_group
+  - in-product-group-with-id
+  - id_of_product_group
+  - inProductGroupWithID
+  - has_id_of_product_group
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- in
-- product
-- group
-- with
-- id
-layout: 
-license: "CC BY-SA 4.0"
+  - in
+  - product
+  - group
+  - with
+  - id
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_of_product_group
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_of_product_group
 type: Pred_Text
 ---

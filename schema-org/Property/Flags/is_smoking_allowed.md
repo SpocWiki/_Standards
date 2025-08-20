@@ -1,25 +1,27 @@
 ---
 aliases:
-- smoking-allowed
-- smoking_allowed
-- smokingAllowed
-- is_smoking_allowed
+  - smoking-allowed
+  - smoking_allowed
+  - smokingAllowed
+  - is_smoking_allowed
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- smoking_allowed
-layout: 
-license: "CC BY-SA 4.0"
+  - smoking_allowed
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_smoking_allowed
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_smoking_allowed
 type: Pred_Bool
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- ethics-policy
-- ethics_policy
-- ethicsPolicy
-- has_ethics_policy
+  - ethics-policy
+  - ethics_policy
+  - ethicsPolicy
+  - has_ethics_policy
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ethics
-- policy
-layout: 
-license: "CC BY-SA 4.0"
+  - ethics
+  - policy
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_ethics_policy
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_ethics_policy
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-code
-- medical_code
-- MedicalCode
-- is_a_medical_code
+  - medical-code
+  - medical_code
+  - MedicalCode
+  - is_a_medical_code
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_code
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_code Class"
+  - medical_code
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_code Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_code Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_code Class
 type: Type
 ---
 

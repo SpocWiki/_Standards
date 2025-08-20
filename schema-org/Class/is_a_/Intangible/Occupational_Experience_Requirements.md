@@ -1,26 +1,27 @@
 ---
 aliases:
-- occupational-experience-requirements
-- occupational_experience_requirements
-- OccupationalExperienceRequirements
-- is_an_occupational_experience_requirements
+  - occupational-experience-requirements
+  - occupational_experience_requirements
+  - OccupationalExperienceRequirements
+  - is_an_occupational_experience_requirements
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- occupational_experience_requirements
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_occupational_experience_requirements Class"
+  - occupational_experience_requirements
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_occupational_experience_requirements Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_occupational_experience_requirements Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_occupational_experience_requirements Class
 type: Type
 ---
 

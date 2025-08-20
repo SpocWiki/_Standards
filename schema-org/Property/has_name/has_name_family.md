@@ -1,26 +1,28 @@
 ---
 aliases:
-- family-name
-- has_name_family
-- familyName
-- has_name_family
+  - family-name
+  - has_name_family
+  - familyName
+  - has_name_family
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- family
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - family
+  - name
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_name_family
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_name_family
 type: Pred_Text
 ---

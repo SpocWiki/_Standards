@@ -1,27 +1,29 @@
 ---
 aliases:
-- time-of-day
-- time_of_day
-- timeOfDay
-- has_text_of_time_of_day
+  - time-of-day
+  - time_of_day
+  - timeOfDay
+  - has_text_of_time_of_day
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- time
-- of
-- day
-layout: 
-license: "CC BY-SA 4.0"
+  - time
+  - of
+  - day
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_time_of_day
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_time_of_day
 type: Pred_Text
 ---

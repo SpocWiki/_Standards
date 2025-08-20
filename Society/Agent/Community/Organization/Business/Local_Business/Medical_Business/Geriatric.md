@@ -1,27 +1,28 @@
 ---
 aliases:
-- geriatric
-- geriatric
-- Geriatric
-- is_a_geriatric
+  - geriatric
+  - geriatric
+  - Geriatric
+  - is_a_geriatric
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- geriatric
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_geriatric Class"
+  - geriatric
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_geriatric Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_geriatric Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_geriatric Class
 type: Type
 ---
 

@@ -1,27 +1,29 @@
 ---
 aliases:
-- music-composition-form
-- music_composition_form
-- musicCompositionForm
-- has_text_of_music_composition_form
+  - music-composition-form
+  - music_composition_form
+  - musicCompositionForm
+  - has_text_of_music_composition_form
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- music
-- composition
-- form
-layout: 
-license: "CC BY-SA 4.0"
+  - music
+  - composition
+  - form
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_music_composition_form
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_music_composition_form
 type: Pred_Text
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- drug-cost
-- drug_cost
-- DrugCost
-- is_a_drug_cost
+  - drug-cost
+  - drug_cost
+  - DrugCost
+  - is_a_drug_cost
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- drug_cost
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_drug_cost Class"
+  - drug_cost
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_drug_cost Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_drug_cost Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_drug_cost Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- infectious-agent
-- infectious_agent
-- infectiousAgent
-- has_text_of_infectious_agent
+  - infectious-agent
+  - infectious_agent
+  - infectiousAgent
+  - has_text_of_infectious_agent
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- infectious
-- agent
-layout: 
-license: "CC BY-SA 4.0"
+  - infectious
+  - agent
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_infectious_agent
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_infectious_agent
 type: Pred_Text
 ---

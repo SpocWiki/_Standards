@@ -1,26 +1,27 @@
 ---
 aliases:
-- playground
-- playground
-- Playground
-- is_a_playground
+  - playground
+  - playground
+  - Playground
+  - is_a_playground
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- playground
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_playground Class"
+  - playground
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_playground Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_playground Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_playground Class
 type: Type
 ---
 

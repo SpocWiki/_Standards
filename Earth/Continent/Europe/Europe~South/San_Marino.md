@@ -1,36 +1,37 @@
 ---
 aliases:
-- "San Marino"
-- Saint-Marin
-- "سان مارينو"
-- 圣马力诺
-- Сан-Марино
-- "the Republic of San Marino"
-- "la República de San Marino"
+  - San Marino
+  - Saint-Marin
+  - سان مارينو
+  - 圣马力诺
+  - Сан-Марино
+  - the Republic of San Marino
+  - la República de San Marino
 confidential: public
-cssclasses: Country
+cssclasses:
+  - Country
 draft: false
-expiryDate: 
+expiryDate:
 has_id_wikidata: Q238
 icon: flag-sm
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords:
 Languages:
-- it-SM
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - it-SM
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 location:
-- 43.93
-- 12.45
+  - 43.93
+  - 12.45
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate:
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 27020
 tags:
-- geo/Country
-title: "San Marino"
+  - geo/Country
+title: San Marino
 type: Country
 ---
 

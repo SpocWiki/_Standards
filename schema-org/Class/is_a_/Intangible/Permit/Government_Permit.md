@@ -1,26 +1,27 @@
 ---
 aliases:
-- government-permit
-- government_permit
-- GovernmentPermit
-- is_a_government_permit
+  - government-permit
+  - government_permit
+  - GovernmentPermit
+  - is_a_government_permit
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- government_permit
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_government_permit Class"
+  - government_permit
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_government_permit Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_government_permit Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_government_permit Class
 type: Type
 ---
 

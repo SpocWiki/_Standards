@@ -1,26 +1,27 @@
 ---
 aliases:
-- rental-car-reservation
-- rental_car_reservation
-- RentalCarReservation
-- is_a_rental_car_reservation
+  - rental-car-reservation
+  - rental_car_reservation
+  - RentalCarReservation
+  - is_a_rental_car_reservation
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rental_car_reservation
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_rental_car_reservation Class"
+  - rental_car_reservation
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_rental_car_reservation Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_rental_car_reservation Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_rental_car_reservation Class
 type: Type
 ---
 

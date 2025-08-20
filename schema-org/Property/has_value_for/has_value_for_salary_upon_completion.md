@@ -1,25 +1,27 @@
 ---
 aliases:
-- salary_upon_completion
-- salary-upon-completion
-- salaryUponCompletion
-- has_value_for_salary_upon_completion
+  - salary_upon_completion
+  - salary-upon-completion
+  - salaryUponCompletion
+  - has_value_for_salary_upon_completion
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- salary-upon-completion
-layout: 
-license: "CC BY-SA 4.0"
+  - salary-upon-completion
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_salary-upon-completion
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_salary-upon-completion
 type: Predi_Quantity
 ---

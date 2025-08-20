@@ -1,26 +1,28 @@
 ---
 aliases:
-- legislation-responsible
-- legislation_responsible
-- legislationResponsible
-- has_legislation_responsible
+  - legislation-responsible
+  - legislation_responsible
+  - legislationResponsible
+  - has_legislation_responsible
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legislation
-- responsible
-layout: 
-license: "CC BY-SA 4.0"
+  - legislation
+  - responsible
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_legislation_responsible
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_legislation_responsible
 type: Predi_Relation
 ---

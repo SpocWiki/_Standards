@@ -1,26 +1,27 @@
 ---
 aliases:
-- government-office
-- government_office
-- GovernmentOffice
-- is_a_government_office
+  - government-office
+  - government_office
+  - GovernmentOffice
+  - is_a_government_office
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- government_office
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_government_office Class"
+  - government_office
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_government_office Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_government_office Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_government_office Class
 type: Type
 ---
 

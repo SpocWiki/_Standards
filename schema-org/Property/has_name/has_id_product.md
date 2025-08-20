@@ -1,26 +1,28 @@
 ---
 aliases:
-- product-id
-- id_product
-- productID
-- has_id_product
+  - product-id
+  - id_product
+  - productID
+  - has_id_product
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- product
-- id
-layout: 
-license: "CC BY-SA 4.0"
+  - product
+  - id
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_product
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_product
 type: Pred_Text
 ---

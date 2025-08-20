@@ -1,25 +1,27 @@
 ---
 aliases:
-- fat_in_gram
-- fat-content
-- fatContent
-- has_value_for_fat_in_gram
+  - fat_in_gram
+  - fat-content
+  - fatContent
+  - has_value_for_fat_in_gram
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- fat-content
-layout: 
-license: "CC BY-SA 4.0"
+  - fat-content
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_fat-content
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_fat-content
 type: Predi_Quantity
 ---

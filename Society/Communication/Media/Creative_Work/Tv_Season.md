@@ -1,26 +1,27 @@
 ---
 aliases:
-- tv-season
-- tv_season
-- TVSeason
-- is_a_tv_season
+  - tv-season
+  - tv_season
+  - TVSeason
+  - is_a_tv_season
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tv_season
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_tv_season Class"
+  - tv_season
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_tv_season Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_tv_season Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_tv_season Class
 type: Type
 ---
 

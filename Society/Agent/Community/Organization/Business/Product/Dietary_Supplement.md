@@ -1,26 +1,27 @@
 ---
 aliases:
-- dietary-supplement
-- dietary_supplement
-- DietarySupplement
-- is_a_dietary_supplement
+  - dietary-supplement
+  - dietary_supplement
+  - DietarySupplement
+  - is_a_dietary_supplement
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dietary_supplement
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_dietary_supplement Class"
+  - dietary_supplement
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_dietary_supplement Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_dietary_supplement Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_dietary_supplement Class
 type: Type
 ---
 

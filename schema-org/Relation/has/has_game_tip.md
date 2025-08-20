@@ -1,26 +1,28 @@
 ---
 aliases:
-- game-tip
-- game_tip
-- gameTip
-- has_game_tip
+  - game-tip
+  - game_tip
+  - gameTip
+  - has_game_tip
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- game
-- tip
-layout: 
-license: "CC BY-SA 4.0"
+  - game
+  - tip
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_game_tip
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_game_tip
 type: Predi_Relation
 ---

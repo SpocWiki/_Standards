@@ -1,26 +1,27 @@
 ---
 aliases:
-- report
-- report
-- Report
-- is_a_report
+  - report
+  - report
+  - Report
+  - is_a_report
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- report
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_report Class"
+  - report
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_report Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_report Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_report Class
 type: Type
 ---
 

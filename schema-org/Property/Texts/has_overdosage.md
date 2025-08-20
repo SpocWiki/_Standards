@@ -1,25 +1,27 @@
 ---
 aliases:
-- overdosage
-- overdosage
-- overdosage
-- has_text_of_overdosage
+  - overdosage
+  - overdosage
+  - overdosage
+  - has_text_of_overdosage
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- overdosage
-layout: 
-license: "CC BY-SA 4.0"
+  - overdosage
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_overdosage
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_overdosage
 type: Pred_Text
 ---

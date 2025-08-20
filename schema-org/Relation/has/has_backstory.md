@@ -1,25 +1,27 @@
 ---
 aliases:
-- backstory
-- backstory
-- backstory
-- has_backstory
+  - backstory
+  - backstory
+  - backstory
+  - has_backstory
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- backstory
-layout: 
-license: "CC BY-SA 4.0"
+  - backstory
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_backstory
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_backstory
 type: Predi_Relation
 ---

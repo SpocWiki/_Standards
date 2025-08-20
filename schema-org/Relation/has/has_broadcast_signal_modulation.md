@@ -1,27 +1,29 @@
 ---
 aliases:
-- broadcast-signal-modulation
-- broadcast_signal_modulation
-- broadcastSignalModulation
-- has_broadcast_signal_modulation
+  - broadcast-signal-modulation
+  - broadcast_signal_modulation
+  - broadcastSignalModulation
+  - has_broadcast_signal_modulation
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast
-- signal
-- modulation
-layout: 
-license: "CC BY-SA 4.0"
+  - broadcast
+  - signal
+  - modulation
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_broadcast_signal_modulation
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_broadcast_signal_modulation
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- food-service
-- food_service
-- FoodService
-- is_a_food_service
+  - food-service
+  - food_service
+  - FoodService
+  - is_a_food_service
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- food_service
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_food_service Class"
+  - food_service
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_food_service Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_food_service Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_food_service Class
 type: Type
 ---
 

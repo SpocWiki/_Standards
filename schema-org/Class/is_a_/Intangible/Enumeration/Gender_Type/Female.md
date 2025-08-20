@@ -1,27 +1,28 @@
 ---
 aliases:
-- female
-- female
-- Female
-- is_a_female
+  - female
+  - female
+  - Female
+  - is_a_female
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: GenderType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- female
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_female Class"
+  - female
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_female Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_female Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_female Class
 type: Type
 ---
 

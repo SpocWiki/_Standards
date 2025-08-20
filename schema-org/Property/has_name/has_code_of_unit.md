@@ -1,26 +1,28 @@
 ---
 aliases:
-- unit-code
-- code_of_unit
-- unitCode
-- has_code_of_unit
+  - unit-code
+  - code_of_unit
+  - unitCode
+  - has_code_of_unit
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- unit
-- code
-layout: 
-license: "CC BY-SA 4.0"
+  - unit
+  - code
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_code_of_unit
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_code_of_unit
 type: Pred_Text
 ---

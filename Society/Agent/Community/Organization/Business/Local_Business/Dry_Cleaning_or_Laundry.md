@@ -1,26 +1,27 @@
 ---
 aliases:
-- dry-cleaning-or-laundry
-- dry_cleaning_or_laundry
-- DryCleaningOrLaundry
-- is_a_dry_cleaning_or_laundry
+  - dry-cleaning-or-laundry
+  - dry_cleaning_or_laundry
+  - DryCleaningOrLaundry
+  - is_a_dry_cleaning_or_laundry
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dry_cleaning_or_laundry
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_dry_cleaning_or_laundry Class"
+  - dry_cleaning_or_laundry
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_dry_cleaning_or_laundry Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_dry_cleaning_or_laundry Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_dry_cleaning_or_laundry Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- eu-energy-efficiency-category-a3plus
-- eu_energy_efficiency_category_a3plus
-- EUEnergyEfficiencyCategoryA3Plus
-- is_an_eu_energy_efficiency_category_a3plus
+  - eu-energy-efficiency-category-a3plus
+  - eu_energy_efficiency_category_a3plus
+  - EUEnergyEfficiencyCategoryA3Plus
+  - is_an_eu_energy_efficiency_category_a3plus
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: EUEnergyEfficiencyEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- eu_energy_efficiency_category_a3plus
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_eu_energy_efficiency_category_a3plus Class"
+  - eu_energy_efficiency_category_a3plus
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_eu_energy_efficiency_category_a3plus Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_eu_energy_efficiency_category_a3plus Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_eu_energy_efficiency_category_a3plus Class
 type: Type
 ---
 

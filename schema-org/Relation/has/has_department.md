@@ -1,25 +1,27 @@
 ---
 aliases:
-- department
-- department
-- department
-- has_department
+  - department
+  - department
+  - department
+  - has_department
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- department
-layout: 
-license: "CC BY-SA 4.0"
+  - department
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_department
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_department
 type: Predi_Relation
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- observed-node
-- observed_node
-- observedNode
-- has_observed_node
+  - observed-node
+  - observed_node
+  - observedNode
+  - has_observed_node
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- observed
-- node
-layout: 
-license: "CC BY-SA 4.0"
+  - observed
+  - node
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_observed_node
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_observed_node
 type: Predi_Relation
 ---

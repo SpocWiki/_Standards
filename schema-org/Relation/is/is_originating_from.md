@@ -1,24 +1,26 @@
 ---
 aliases:
-- originates-from
-- originating_from
-- originatesFrom
-- is_originating_from
+  - originates-from
+  - originating_from
+  - originatesFrom
+  - is_originating_from
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_originating_from
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_originating_from
 type: Predi_Relation
 ---

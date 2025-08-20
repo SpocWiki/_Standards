@@ -1,26 +1,27 @@
 ---
 aliases:
-- trip
-- trip
-- Trip
-- is_a_trip
+  - trip
+  - trip
+  - Trip
+  - is_a_trip
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- trip
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_trip Class"
+  - trip
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_trip Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_trip Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_trip Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- elementary-school
-- elementary_school
-- ElementarySchool
-- is_an_elementary_school
+  - elementary-school
+  - elementary_school
+  - ElementarySchool
+  - is_an_elementary_school
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- elementary_school
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_elementary_school Class"
+  - elementary_school
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_elementary_school Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_elementary_school Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_elementary_school Class
 type: Type
 ---
 

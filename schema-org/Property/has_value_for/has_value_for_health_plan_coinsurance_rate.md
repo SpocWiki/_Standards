@@ -1,25 +1,27 @@
 ---
 aliases:
-- health_plan_coinsurance_rate
-- health-plan-coinsurance-rate
-- healthPlanCoinsuranceRate
-- has_value_for_health_plan_coinsurance_rate
+  - health_plan_coinsurance_rate
+  - health-plan-coinsurance-rate
+  - healthPlanCoinsuranceRate
+  - has_value_for_health_plan_coinsurance_rate
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health-plan-coinsurance-rate
-layout: 
-license: "CC BY-SA 4.0"
+  - health-plan-coinsurance-rate
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_health-plan-coinsurance-rate
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_health-plan-coinsurance-rate
 type: Predi_Quantity
 ---

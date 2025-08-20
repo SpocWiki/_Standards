@@ -1,26 +1,27 @@
 ---
 aliases:
-- mosque
-- mosque
-- Mosque
-- is_a_mosque
+  - mosque
+  - mosque
+  - Mosque
+  - is_a_mosque
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- mosque
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_mosque Class"
+  - mosque
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_mosque Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_mosque Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_mosque Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- steering-position-value
-- steering_position_value
-- SteeringPositionValue
-- is_a_steering_position_value
+  - steering-position-value
+  - steering_position_value
+  - SteeringPositionValue
+  - is_a_steering_position_value
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- steering_position_value
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_steering_position_value Class"
+  - steering_position_value
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_steering_position_value Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_steering_position_value Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_steering_position_value Class
 type: Type
 ---
 

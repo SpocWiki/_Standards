@@ -1,27 +1,28 @@
 ---
 aliases:
-- strength-training
-- strength_training
-- StrengthTraining
-- is_a_strength_training
+  - strength-training
+  - strength_training
+  - StrengthTraining
+  - is_a_strength_training
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalActivityCategory
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- strength_training
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_strength_training Class"
+  - strength_training
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_strength_training Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_strength_training Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_strength_training Class
 type: Type
 ---
 

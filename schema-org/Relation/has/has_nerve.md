@@ -1,25 +1,27 @@
 ---
 aliases:
-- nerve
-- nerve
-- nerve
-- has_nerve
+  - nerve
+  - nerve
+  - nerve
+  - has_nerve
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nerve
-layout: 
-license: "CC BY-SA 4.0"
+  - nerve
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_nerve
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_nerve
 type: Predi_Relation
 ---

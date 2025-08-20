@@ -1,25 +1,27 @@
 ---
 aliases:
-- years_in_operation
-- years-in-operation
-- yearsInOperation
-- has_value_for_years_in_operation
+  - years_in_operation
+  - years-in-operation
+  - yearsInOperation
+  - has_value_for_years_in_operation
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- years-in-operation
-layout: 
-license: "CC BY-SA 4.0"
+  - years-in-operation
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_years-in-operation
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_years-in-operation
 type: Predi_Quantity
 ---

@@ -5,18 +5,19 @@ aliases:
   - Corporation
   - is_a_corporation
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - corporation
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_a_corporation Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class

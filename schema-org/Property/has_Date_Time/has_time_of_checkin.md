@@ -1,24 +1,26 @@
 ---
 aliases:
-- checkin-time
-- checkin_time
-- checkinTime
-- has_time_of_checkin
+  - checkin-time
+  - checkin_time
+  - checkinTime
+  - has_time_of_checkin
 confidential: public
-cssclasses: "Predicate Date_Time"
+cssclasses:
+  - Predicate
+  - Date_Time
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+keywords:
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Date
+  - class/Property
+  - schema-org/Property/Date
 title: has_time_of_checkin
 type: Predi_time_Time
 ---

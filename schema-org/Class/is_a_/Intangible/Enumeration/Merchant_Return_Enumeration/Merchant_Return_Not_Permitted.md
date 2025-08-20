@@ -1,28 +1,29 @@
 ---
 aliases:
-- merchant-return-not-permitted
-- merchant_return_not_permitted
-- MerchantReturnNotPermitted
-- is_a_merchant_return_not_permitted
+  - merchant-return-not-permitted
+  - merchant_return_not_permitted
+  - MerchantReturnNotPermitted
+  - is_a_merchant_return_not_permitted
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MerchantReturnEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- merchant_return_not_permitted
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_merchant_return_not_permitted Class"
+  - merchant_return_not_permitted
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_merchant_return_not_permitted Class
 publish: true
-publishDate: 
+publishDate:
 supersedes: ProductReturnNotPermitted
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_merchant_return_not_permitted Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_merchant_return_not_permitted Class
 type: Type
 ---
 

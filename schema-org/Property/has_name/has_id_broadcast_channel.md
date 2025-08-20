@@ -1,27 +1,29 @@
 ---
 aliases:
-- broadcast-channel-id
-- id_broadcast_channel
-- broadcastChannelId
-- has_id_broadcast_channel
+  - broadcast-channel-id
+  - id_broadcast_channel
+  - broadcastChannelId
+  - has_id_broadcast_channel
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast
-- channel
-- id
-layout: 
-license: "CC BY-SA 4.0"
+  - broadcast
+  - channel
+  - id
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_broadcast_channel
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_broadcast_channel
 type: Pred_Text
 ---

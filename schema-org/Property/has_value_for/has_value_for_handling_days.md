@@ -1,25 +1,27 @@
 ---
 aliases:
-- handling_time
-- handling-time
-- handlingTime
-- has_value_for_handling_days
+  - handling_time
+  - handling-time
+  - handlingTime
+  - has_value_for_handling_days
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- handling-time
-layout: 
-license: "CC BY-SA 4.0"
+  - handling-time
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_handling-time
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_handling-time
 type: Predi_Quantity
 ---

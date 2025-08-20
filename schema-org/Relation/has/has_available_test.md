@@ -1,26 +1,28 @@
 ---
 aliases:
-- available-test
-- available_test
-- availableTest
-- has_available_test
+  - available-test
+  - available_test
+  - availableTest
+  - has_available_test
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- available
-- test
-layout: 
-license: "CC BY-SA 4.0"
+  - available
+  - test
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_available_test
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_available_test
 type: Predi_Relation
 ---

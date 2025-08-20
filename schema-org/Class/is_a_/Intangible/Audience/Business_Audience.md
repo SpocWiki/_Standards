@@ -1,26 +1,27 @@
 ---
 aliases:
-- business-audience
-- business_audience
-- BusinessAudience
-- is_a_business_audience
+  - business-audience
+  - business_audience
+  - BusinessAudience
+  - is_a_business_audience
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- business_audience
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_business_audience Class"
+  - business_audience
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_business_audience Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_business_audience Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_business_audience Class
 type: Type
 ---
 

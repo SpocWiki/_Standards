@@ -1,26 +1,28 @@
 ---
 aliases:
-- warranty-scope
-- warranty_scope
-- warrantyScope
-- has_warranty_scope
+  - warranty-scope
+  - warranty_scope
+  - warrantyScope
+  - has_warranty_scope
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- warranty
-- scope
-layout: 
-license: "CC BY-SA 4.0"
+  - warranty
+  - scope
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_warranty_scope
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_warranty_scope
 type: Predi_Relation
 ---

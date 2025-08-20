@@ -1,26 +1,28 @@
 ---
 aliases:
-- isic-v4
-- isic_v4
-- isicV4
-- has_text_of_isic_v4
+  - isic-v4
+  - isic_v4
+  - isicV4
+  - has_text_of_isic_v4
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- isic
-- v4
-layout: 
-license: "CC BY-SA 4.0"
+  - isic
+  - v4
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_isic_v4
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_isic_v4
 type: Pred_Text
 ---

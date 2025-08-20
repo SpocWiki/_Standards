@@ -1,26 +1,28 @@
 ---
 aliases:
-- permitted-usage
-- permitted_usage
-- permittedUsage
-- has_text_of_permitted_usage
+  - permitted-usage
+  - permitted_usage
+  - permittedUsage
+  - has_text_of_permitted_usage
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- permitted
-- usage
-layout: 
-license: "CC BY-SA 4.0"
+  - permitted
+  - usage
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_permitted_usage
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_permitted_usage
 type: Pred_Text
 ---

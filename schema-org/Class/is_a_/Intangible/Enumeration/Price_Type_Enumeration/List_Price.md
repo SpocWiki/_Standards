@@ -1,27 +1,28 @@
 ---
 aliases:
-- list-price
-- list_price
-- ListPrice
-- is_a_list_price
+  - list-price
+  - list_price
+  - ListPrice
+  - is_a_list_price
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PriceTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- list_price
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_list_price Class"
+  - list_price
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_list_price Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_list_price Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_list_price Class
 type: Type
 ---
 

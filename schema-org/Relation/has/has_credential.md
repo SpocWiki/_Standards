@@ -1,25 +1,27 @@
 ---
 aliases:
-- has-credential
-- credential
-- hasCredential
-- has_credential
+  - has-credential
+  - credential
+  - hasCredential
+  - has_credential
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- credential
-layout: 
-license: "CC BY-SA 4.0"
+  - credential
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_credential
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_credential
 type: Predi_Relation
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- smiles
-- smiles
-- smiles
-- has_text_of_smiles
+  - smiles
+  - smiles
+  - smiles
+  - has_text_of_smiles
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- smiles
-layout: 
-license: "CC BY-SA 4.0"
+  - smiles
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_smiles
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_smiles
 type: Pred_Text
 ---

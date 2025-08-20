@@ -1,26 +1,27 @@
 ---
 aliases:
-- bank-account
-- bank_account
-- BankAccount
-- is_a_bank_account
+  - bank-account
+  - bank_account
+  - BankAccount
+  - is_a_bank_account
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bank_account
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_bank_account Class"
+  - bank_account
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_bank_account Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_bank_account Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_bank_account Class
 type: Type
 ---
 

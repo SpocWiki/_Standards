@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-guideline
-- medical_guideline
-- MedicalGuideline
-- is_a_medical_guideline
+  - medical-guideline
+  - medical_guideline
+  - MedicalGuideline
+  - is_a_medical_guideline
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_guideline
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_guideline Class"
+  - medical_guideline
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_guideline Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_guideline Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_guideline Class
 type: Type
 ---
 

@@ -1,25 +1,27 @@
 ---
 aliases:
-- suggested_min_age
-- suggested-min-age
-- suggestedMinAge
-- has_value_for_suggested_min_age
+  - suggested_min_age
+  - suggested-min-age
+  - suggestedMinAge
+  - has_value_for_suggested_min_age
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- suggested-min-age
-layout: 
-license: "CC BY-SA 4.0"
+  - suggested-min-age
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_suggested-min-age
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_suggested-min-age
 type: Predi_Quantity
 ---

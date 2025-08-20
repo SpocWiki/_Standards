@@ -1,25 +1,27 @@
 ---
 aliases:
-- shipping_rate
-- shipping-rate
-- shippingRate
-- has_value_for_shipping_rate
+  - shipping_rate
+  - shipping-rate
+  - shippingRate
+  - has_value_for_shipping_rate
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- shipping-rate
-layout: 
-license: "CC BY-SA 4.0"
+  - shipping-rate
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_shipping-rate
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_shipping-rate
 type: Predi_Quantity
 ---

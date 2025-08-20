@@ -1,27 +1,28 @@
 ---
 aliases:
-- noninvasive-procedure
-- noninvasive_procedure
-- NoninvasiveProcedure
-- is_a_noninvasive_procedure
+  - noninvasive-procedure
+  - noninvasive_procedure
+  - NoninvasiveProcedure
+  - is_a_noninvasive_procedure
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalProcedureType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- noninvasive_procedure
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_noninvasive_procedure Class"
+  - noninvasive_procedure
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_noninvasive_procedure Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_noninvasive_procedure Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_noninvasive_procedure Class
 type: Type
 ---
 

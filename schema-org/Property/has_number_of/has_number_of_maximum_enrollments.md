@@ -1,25 +1,27 @@
 ---
 aliases:
-- maximum-enrollment
-- maximum_enrollment
-- maximumEnrollment
-- has_number_of_maximum_enrollments
+  - maximum-enrollment
+  - maximum_enrollment
+  - maximumEnrollment
+  - has_number_of_maximum_enrollments
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- maximum_enrollment
-layout: 
-license: "CC BY-SA 4.0"
+  - maximum_enrollment
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_maximum_enrollment
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_maximum_enrollment
 type: Predi_Count
 ---

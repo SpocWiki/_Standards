@@ -1,27 +1,29 @@
 ---
 aliases:
-- postal-code-end
-- postal_code_end
-- postalCodeEnd
-- has_text_of_postal_code_end
+  - postal-code-end
+  - postal_code_end
+  - postalCodeEnd
+  - has_text_of_postal_code_end
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- postal
-- code
-- end
-layout: 
-license: "CC BY-SA 4.0"
+  - postal
+  - code
+  - end
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_postal_code_end
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_postal_code_end
 type: Pred_Text
 ---

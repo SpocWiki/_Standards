@@ -1,26 +1,27 @@
 ---
 aliases:
-- adult-oriented-enumeration
-- adult_oriented_enumeration
-- AdultOrientedEnumeration
-- is_an_adult_oriented_enumeration
+  - adult-oriented-enumeration
+  - adult_oriented_enumeration
+  - AdultOrientedEnumeration
+  - is_an_adult_oriented_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- adult_oriented_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_adult_oriented_enumeration Class"
+  - adult_oriented_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_adult_oriented_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_adult_oriented_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_adult_oriented_enumeration Class
 type: Type
 ---
 

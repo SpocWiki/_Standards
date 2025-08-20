@@ -1,27 +1,28 @@
 ---
 aliases:
-- software-source-code
-- software_source_code
-- SoftwareSourceCode
-- is_a_software_source_code
+  - software-source-code
+  - software_source_code
+  - SoftwareSourceCode
+  - is_a_software_source_code
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- software_source_code
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_software_source_code Class"
+  - software_source_code
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_software_source_code Class
 publish: true
-publishDate: 
+publishDate:
 supersedes: Code
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_software_source_code Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_software_source_code Class
 type: Type
 ---
 

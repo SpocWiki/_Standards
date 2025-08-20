@@ -1,26 +1,28 @@
 ---
 aliases:
-- post-op
-- post_op
-- postOp
-- has_text_of_post_op
+  - post-op
+  - post_op
+  - postOp
+  - has_text_of_post_op
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- post
-- op
-layout: 
-license: "CC BY-SA 4.0"
+  - post
+  - op
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_post_op
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_post_op
 type: Pred_Text
 ---

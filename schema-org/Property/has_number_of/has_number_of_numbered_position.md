@@ -1,25 +1,27 @@
 ---
 aliases:
-- numbered_position
-- numbered-position
-- numberedPosition
-- has_number_of_numbered_position
+  - numbered_position
+  - numbered-position
+  - numberedPosition
+  - has_number_of_numbered_position
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- numbered-position
-layout: 
-license: "CC BY-SA 4.0"
+  - numbered-position
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_numbered-position
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_numbered-position
 type: Predi_Count
 ---

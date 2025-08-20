@@ -1,27 +1,29 @@
 ---
 aliases:
-- included-risk-factor
-- included_risk_factor
-- includedRiskFactor
-- has_included_risk_factor
+  - included-risk-factor
+  - included_risk_factor
+  - includedRiskFactor
+  - has_included_risk_factor
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- included
-- risk
-- factor
-layout: 
-license: "CC BY-SA 4.0"
+  - included
+  - risk
+  - factor
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_included_risk_factor
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_included_risk_factor
 type: Predi_Relation
 ---

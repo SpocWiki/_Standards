@@ -1,27 +1,28 @@
 ---
 aliases:
-- skin
-- skin
-- Skin
-- is_a_skin
+  - skin
+  - skin
+  - Skin
+  - is_a_skin
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- skin
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_skin Class"
+  - skin
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_skin Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_skin Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_skin Class
 type: Type
 ---
 

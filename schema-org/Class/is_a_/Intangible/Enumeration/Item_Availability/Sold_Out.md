@@ -1,27 +1,28 @@
 ---
 aliases:
-- sold-out
-- sold_out
-- SoldOut
-- is_sold_out
+  - sold-out
+  - sold_out
+  - SoldOut
+  - is_sold_out
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sold_out
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_sold_out Class"
+  - sold_out
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_sold_out Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_sold_out Class"
+  - class/Class
+  - schema-org/Class
+title: is_sold_out Class
 type: Type
 ---
 

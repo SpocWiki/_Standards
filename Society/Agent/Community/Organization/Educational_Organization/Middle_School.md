@@ -1,26 +1,27 @@
 ---
 aliases:
-- middle-school
-- middle_school
-- MiddleSchool
-- is_a_middle_school
+  - middle-school
+  - middle_school
+  - MiddleSchool
+  - is_a_middle_school
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- middle_school
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_middle_school Class"
+  - middle_school
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_middle_school Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_middle_school Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_middle_school Class
 type: Type
 ---
 

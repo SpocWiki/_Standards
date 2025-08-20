@@ -1,26 +1,27 @@
 ---
 aliases:
-- general-contractor
-- general_contractor
-- GeneralContractor
-- is_a_general_contractor
+  - general-contractor
+  - general_contractor
+  - GeneralContractor
+  - is_a_general_contractor
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- general_contractor
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_general_contractor Class"
+  - general_contractor
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_general_contractor Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_general_contractor Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_general_contractor Class
 type: Type
 ---
 

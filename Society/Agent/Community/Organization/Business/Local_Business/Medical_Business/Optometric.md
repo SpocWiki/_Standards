@@ -1,27 +1,28 @@
 ---
 aliases:
-- optometric
-- optometric
-- Optometric
-- is_an_optometric
+  - optometric
+  - optometric
+  - Optometric
+  - is_an_optometric
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- optometric
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_optometric Class"
+  - optometric
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_optometric Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_optometric Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_optometric Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- defence-establishment
-- defence_establishment
-- DefenceEstablishment
-- is_a_defence_establishment
+  - defence-establishment
+  - defence_establishment
+  - DefenceEstablishment
+  - is_a_defence_establishment
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- defence_establishment
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_defence_establishment Class"
+  - defence_establishment
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_defence_establishment Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_defence_establishment Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_defence_establishment Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- medical-procedure
-- medical_procedure
-- MedicalProcedure
-- is_a_medical_procedure
+  - medical-procedure
+  - medical_procedure
+  - MedicalProcedure
+  - is_a_medical_procedure
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-equivalent_class: "http://purl.bioontology.org/ontology/SNOMEDCT/50731006"
-expiryDate: 
+equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/50731006
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_procedure
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_procedure Class"
+  - medical_procedure
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_procedure Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_procedure Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_procedure Class
 type: Type
 ---
 

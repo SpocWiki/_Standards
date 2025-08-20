@@ -1,28 +1,30 @@
 ---
 aliases:
-- country-of-last-processing
-- country_of_last_processing
-- countryOfLastProcessing
-- has_text_of_country_of_last_processing
+  - country-of-last-processing
+  - country_of_last_processing
+  - countryOfLastProcessing
+  - has_text_of_country_of_last_processing
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- country
-- of
-- last
-- processing
-layout: 
-license: "CC BY-SA 4.0"
+  - country
+  - of
+  - last
+  - processing
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_country_of_last_processing
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_country_of_last_processing
 type: Pred_Text
 ---

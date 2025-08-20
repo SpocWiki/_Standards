@@ -1,26 +1,28 @@
 ---
 aliases:
-- exif-data
-- exif_data
-- exifData
-- has_exif_data
+  - exif-data
+  - exif_data
+  - exifData
+  - has_exif_data
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- exif
-- data
-layout: 
-license: "CC BY-SA 4.0"
+  - exif
+  - data
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_exif_data
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_exif_data
 type: Predi_Relation
 ---

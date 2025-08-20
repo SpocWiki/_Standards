@@ -1,25 +1,27 @@
 ---
 aliases:
-- num-adults
-- num_adults
-- numAdults
-- has_number_of_adults
+  - num-adults
+  - num_adults
+  - numAdults
+  - has_number_of_adults
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- num_adults
-layout: 
-license: "CC BY-SA 4.0"
+  - num_adults
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_num_adults
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_num_adults
 type: Predi_Count
 ---

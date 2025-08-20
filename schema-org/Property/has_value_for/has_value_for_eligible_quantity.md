@@ -1,25 +1,27 @@
 ---
 aliases:
-- eligible_quantity
-- eligible-quantity
-- eligibleQuantity
-- has_value_for_eligible_quantity
+  - eligible_quantity
+  - eligible-quantity
+  - eligibleQuantity
+  - has_value_for_eligible_quantity
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- eligible-quantity
-layout: 
-license: "CC BY-SA 4.0"
+  - eligible-quantity
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_eligible-quantity
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_eligible-quantity
 type: Predi_Quantity
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- lesser
-- lesser
-- lesser
-- is_lesser_than
+  - lesser
+  - lesser
+  - lesser
+  - is_lesser_than
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- lesser
-layout: 
-license: "CC BY-SA 4.0"
+  - lesser
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_lesser_than
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_lesser_than
 type: Predi_Relation
 ---

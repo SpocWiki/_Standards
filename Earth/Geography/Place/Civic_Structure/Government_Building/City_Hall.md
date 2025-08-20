@@ -1,26 +1,27 @@
 ---
 aliases:
-- city-hall
-- city_hall
-- CityHall
-- is_a_city_hall
+  - city-hall
+  - city_hall
+  - CityHall
+  - is_a_city_hall
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- city_hall
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_city_hall Class"
+  - city_hall
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_city_hall Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_city_hall Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_city_hall Class
 type: Type
 ---
 

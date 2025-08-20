@@ -1,27 +1,29 @@
 ---
 aliases:
-- suitable-for-diet
-- suitable_for_diet
-- suitableForDiet
-- has_suitable_for_diet
+  - suitable-for-diet
+  - suitable_for_diet
+  - suitableForDiet
+  - has_suitable_for_diet
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- suitable
-- for
-- diet
-layout: 
-license: "CC BY-SA 4.0"
+  - suitable
+  - for
+  - diet
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_suitable_for_diet
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_suitable_for_diet
 type: Predi_Relation
 ---

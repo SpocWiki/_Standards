@@ -1,26 +1,27 @@
 ---
 aliases:
-- sporting-goods-store
-- sporting_goods_store
-- SportingGoodsStore
-- is_a_sporting_goods_store
+  - sporting-goods-store
+  - sporting_goods_store
+  - SportingGoodsStore
+  - is_a_sporting_goods_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sporting_goods_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_sporting_goods_store Class"
+  - sporting_goods_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_sporting_goods_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_sporting_goods_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_sporting_goods_store Class
 type: Type
 ---
 

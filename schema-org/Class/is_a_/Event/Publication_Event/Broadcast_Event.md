@@ -1,26 +1,27 @@
 ---
 aliases:
-- broadcast-event
-- broadcast_event
-- BroadcastEvent
-- is_a_broadcast_event
+  - broadcast-event
+  - broadcast_event
+  - BroadcastEvent
+  - is_a_broadcast_event
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast_event
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_broadcast_event Class"
+  - broadcast_event
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_broadcast_event Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_broadcast_event Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_broadcast_event Class
 type: Type
 ---
 

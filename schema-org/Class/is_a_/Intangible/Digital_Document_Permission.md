@@ -1,26 +1,27 @@
 ---
 aliases:
-- digital-document-permission
-- digital_document_permission
-- DigitalDocumentPermission
-- is_a_digital_document_permission
+  - digital-document-permission
+  - digital_document_permission
+  - DigitalDocumentPermission
+  - is_a_digital_document_permission
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- digital_document_permission
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_digital_document_permission Class"
+  - digital_document_permission
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_digital_document_permission Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_digital_document_permission Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_digital_document_permission Class
 type: Type
 ---
 

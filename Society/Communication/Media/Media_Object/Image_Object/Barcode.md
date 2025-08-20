@@ -1,26 +1,27 @@
 ---
 aliases:
-- barcode
-- barcode
-- Barcode
-- is_a_barcode
+  - barcode
+  - barcode
+  - Barcode
+  - is_a_barcode
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- barcode
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_barcode Class"
+  - barcode
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_barcode Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_barcode Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_barcode Class
 type: Type
 ---
 

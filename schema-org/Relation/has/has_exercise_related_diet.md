@@ -1,27 +1,29 @@
 ---
 aliases:
-- exercise-related-diet
-- exercise_related_diet
-- exerciseRelatedDiet
-- has_exercise_related_diet
+  - exercise-related-diet
+  - exercise_related_diet
+  - exerciseRelatedDiet
+  - has_exercise_related_diet
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- exercise
-- related
-- diet
-layout: 
-license: "CC BY-SA 4.0"
+  - exercise
+  - related
+  - diet
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_exercise_related_diet
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_exercise_related_diet
 type: Predi_Relation
 ---

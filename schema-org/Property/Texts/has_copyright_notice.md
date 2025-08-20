@@ -1,26 +1,28 @@
 ---
 aliases:
-- copyright-notice
-- copyright_notice
-- copyrightNotice
-- has_text_of_copyright_notice
+  - copyright-notice
+  - copyright_notice
+  - copyrightNotice
+  - has_text_of_copyright_notice
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- copyright
-- notice
-layout: 
-license: "CC BY-SA 4.0"
+  - copyright
+  - notice
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_copyright_notice
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_copyright_notice
 type: Pred_Text
 ---

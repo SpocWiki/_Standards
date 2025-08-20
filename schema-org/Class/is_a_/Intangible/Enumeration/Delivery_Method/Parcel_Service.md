@@ -1,27 +1,28 @@
 ---
 aliases:
-- parcel-service
-- parcel_service
-- ParcelService
-- is_a_parcel_service
+  - parcel-service
+  - parcel_service
+  - ParcelService
+  - is_a_parcel_service
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DeliveryMethod
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- parcel_service
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_parcel_service Class"
+  - parcel_service
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_parcel_service Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_parcel_service Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_parcel_service Class
 type: Type
 ---
 

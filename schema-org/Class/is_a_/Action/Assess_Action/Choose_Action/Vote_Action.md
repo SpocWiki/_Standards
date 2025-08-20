@@ -1,26 +1,27 @@
 ---
 aliases:
-- vote-action
-- vote_action
-- VoteAction
-- is_a_vote_action
+  - vote-action
+  - vote_action
+  - VoteAction
+  - is_a_vote_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- vote_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_vote_action Class"
+  - vote_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_vote_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_vote_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_vote_action Class
 type: Type
 ---
 

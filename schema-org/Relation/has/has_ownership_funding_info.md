@@ -1,27 +1,29 @@
 ---
 aliases:
-- ownership-funding-info
-- ownership_funding_info
-- ownershipFundingInfo
-- has_ownership_funding_info
+  - ownership-funding-info
+  - ownership_funding_info
+  - ownershipFundingInfo
+  - has_ownership_funding_info
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ownership
-- funding
-- info
-layout: 
-license: "CC BY-SA 4.0"
+  - ownership
+  - funding
+  - info
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_ownership_funding_info
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_ownership_funding_info
 type: Predi_Relation
 ---

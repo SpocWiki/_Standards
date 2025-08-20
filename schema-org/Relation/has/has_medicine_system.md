@@ -1,26 +1,28 @@
 ---
 aliases:
-- medicine-system
-- medicine_system
-- medicineSystem
-- has_medicine_system
+  - medicine-system
+  - medicine_system
+  - medicineSystem
+  - has_medicine_system
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medicine
-- system
-layout: 
-license: "CC BY-SA 4.0"
+  - medicine
+  - system
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_medicine_system
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_medicine_system
 type: Predi_Relation
 ---

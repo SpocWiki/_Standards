@@ -1,26 +1,27 @@
 ---
 aliases:
-- brain-structure
-- brain_structure
-- BrainStructure
-- is_a_brain_structure
+  - brain-structure
+  - brain_structure
+  - BrainStructure
+  - is_a_brain_structure
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- brain_structure
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_brain_structure Class"
+  - brain_structure
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_brain_structure Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_brain_structure Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_brain_structure Class
 type: Type
 ---
 

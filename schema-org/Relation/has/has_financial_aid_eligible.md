@@ -1,27 +1,29 @@
 ---
 aliases:
-- financial-aid-eligible
-- financial_aid_eligible
-- financialAidEligible
-- has_financial_aid_eligible
+  - financial-aid-eligible
+  - financial_aid_eligible
+  - financialAidEligible
+  - has_financial_aid_eligible
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- financial
-- aid
-- eligible
-layout: 
-license: "CC BY-SA 4.0"
+  - financial
+  - aid
+  - eligible
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_financial_aid_eligible
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_financial_aid_eligible
 type: Predi_Relation
 ---

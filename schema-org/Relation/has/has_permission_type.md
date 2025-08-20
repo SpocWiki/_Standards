@@ -1,26 +1,28 @@
 ---
 aliases:
-- permission-type
-- permission_type
-- permissionType
-- has_permission_type
+  - permission-type
+  - permission_type
+  - permissionType
+  - has_permission_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- permission
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - permission
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_permission_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_permission_type
 type: Predi_Relation
 ---

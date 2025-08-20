@@ -1,25 +1,27 @@
 ---
 aliases:
-- version
-- version
-- version
-- has_value_for_version
+  - version
+  - version
+  - version
+  - has_value_for_version
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- version
-layout: 
-license: "CC BY-SA 4.0"
+  - version
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_version
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_version
 type: Predi_Quantity
 ---

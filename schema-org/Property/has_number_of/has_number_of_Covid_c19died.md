@@ -1,25 +1,27 @@
 ---
 aliases:
-- cvd_num_c19died
-- cvd-num-c19died
-- cvdNumC19Died
-- has_number_of_Covid_c19died
+  - cvd_num_c19died
+  - cvd-num-c19died
+  - cvdNumC19Died
+  - has_number_of_Covid_c19died
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cvd-num-c19died
-layout: 
-license: "CC BY-SA 4.0"
+  - cvd-num-c19died
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_cvd-num-c19died
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_cvd-num-c19died
 type: Predi_Count
 ---

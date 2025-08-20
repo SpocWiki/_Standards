@@ -1,27 +1,28 @@
 ---
 aliases:
-- reservation-cancelled
-- reservation_cancelled
-- ReservationCancelled
-- is_a_reservation_cancelled
+  - reservation-cancelled
+  - reservation_cancelled
+  - ReservationCancelled
+  - is_a_reservation_cancelled
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReservationStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reservation_cancelled
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_reservation_cancelled Class"
+  - reservation_cancelled
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_reservation_cancelled Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_reservation_cancelled Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_reservation_cancelled Class
 type: Type
 ---
 

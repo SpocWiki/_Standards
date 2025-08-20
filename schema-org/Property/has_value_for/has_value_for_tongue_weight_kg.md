@@ -1,25 +1,27 @@
 ---
 aliases:
-- tongue_weight
-- tongue-weight
-- tongueWeight
-- has_value_for_tongue_weight_kg
+  - tongue_weight
+  - tongue-weight
+  - tongueWeight
+  - has_value_for_tongue_weight_kg
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tongue-weight
-layout: 
-license: "CC BY-SA 4.0"
+  - tongue-weight
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_tongue-weight
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_tongue-weight
 type: Predi_Quantity
 ---

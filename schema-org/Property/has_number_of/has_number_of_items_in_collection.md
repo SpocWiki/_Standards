@@ -1,25 +1,27 @@
 ---
 aliases:
-- collection-size
-- collection_size
-- collectionSize
-- has_number_of_items_in_collection
+  - collection-size
+  - collection_size
+  - collectionSize
+  - has_number_of_items_in_collection
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- collection_size
-layout: 
-license: "CC BY-SA 4.0"
+  - collection_size
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_collection_size
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_collection_size
 type: Predi_Count
 ---

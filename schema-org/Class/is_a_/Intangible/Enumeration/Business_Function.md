@@ -1,26 +1,27 @@
 ---
 aliases:
-- business-function
-- business_function
-- BusinessFunction
-- is_a_business_function
+  - business-function
+  - business_function
+  - BusinessFunction
+  - is_a_business_function
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- business_function
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_business_function Class"
+  - business_function
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_business_function Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_business_function Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_business_function Class
 type: Type
 ---
 

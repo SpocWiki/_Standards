@@ -1,25 +1,27 @@
 ---
 aliases:
-- diagram
-- diagram
-- diagram
-- has_diagram
+  - diagram
+  - diagram
+  - diagram
+  - has_diagram
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- diagram
-layout: 
-license: "CC BY-SA 4.0"
+  - diagram
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_diagram
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_diagram
 type: Predi_Relation
 ---

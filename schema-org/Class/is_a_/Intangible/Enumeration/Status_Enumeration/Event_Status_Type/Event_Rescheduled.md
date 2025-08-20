@@ -1,27 +1,28 @@
 ---
 aliases:
-- event-rescheduled
-- event_rescheduled
-- EventRescheduled
-- is_an_event_rescheduled
+  - event-rescheduled
+  - event_rescheduled
+  - EventRescheduled
+  - is_an_event_rescheduled
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: EventStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- event_rescheduled
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_event_rescheduled Class"
+  - event_rescheduled
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_event_rescheduled Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_event_rescheduled Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_event_rescheduled Class
 type: Type
 ---
 

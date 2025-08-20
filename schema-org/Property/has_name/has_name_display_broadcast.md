@@ -1,27 +1,29 @@
 ---
 aliases:
-- broadcast-display-name
-- name_display_broadcast
-- broadcastDisplayName
-- has_name_display_broadcast
+  - broadcast-display-name
+  - name_display_broadcast
+  - broadcastDisplayName
+  - has_name_display_broadcast
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast
-- display
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - broadcast
+  - display
+  - name
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_name_display_broadcast
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_name_display_broadcast
 type: Pred_Text
 ---

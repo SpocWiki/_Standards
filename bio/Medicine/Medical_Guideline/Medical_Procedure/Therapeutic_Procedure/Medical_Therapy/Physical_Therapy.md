@@ -1,26 +1,27 @@
 ---
 aliases:
-- physical-therapy
-- physical_therapy
-- PhysicalTherapy
-- is_a_physical_therapy
+  - physical-therapy
+  - physical_therapy
+  - PhysicalTherapy
+  - is_a_physical_therapy
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- physical_therapy
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_physical_therapy Class"
+  - physical_therapy
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_physical_therapy Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_physical_therapy Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_physical_therapy Class
 type: Type
 ---
 

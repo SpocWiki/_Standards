@@ -1,27 +1,28 @@
 ---
 aliases:
-- anesthesia
-- anesthesia
-- Anesthesia
-- is_an_anesthesia
+  - anesthesia
+  - anesthesia
+  - Anesthesia
+  - is_an_anesthesia
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- anesthesia
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_anesthesia Class"
+  - anesthesia
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_anesthesia Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_anesthesia Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_anesthesia Class
 type: Type
 ---
 

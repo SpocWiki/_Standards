@@ -1,27 +1,29 @@
 ---
 aliases:
-- loan-repayment-form
-- loan_repayment_form
-- loanRepaymentForm
-- has_loan_repayment_form
+  - loan-repayment-form
+  - loan_repayment_form
+  - loanRepaymentForm
+  - has_loan_repayment_form
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- loan
-- repayment
-- form
-layout: 
-license: "CC BY-SA 4.0"
+  - loan
+  - repayment
+  - form
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_loan_repayment_form
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_loan_repayment_form
 type: Predi_Relation
 ---

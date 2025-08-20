@@ -1,26 +1,27 @@
 ---
 aliases:
-- airline
-- airline
-- Airline
-- is_an_airline
+  - airline
+  - airline
+  - Airline
+  - is_an_airline
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- airline
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_airline Class"
+  - airline
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_airline Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_airline Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_airline Class
 type: Type
 ---
 

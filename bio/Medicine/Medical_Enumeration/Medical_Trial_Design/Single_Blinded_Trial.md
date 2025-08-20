@@ -1,27 +1,28 @@
 ---
 aliases:
-- single-blinded-trial
-- single_blinded_trial
-- SingleBlindedTrial
-- is_a_single_blinded_trial
+  - single-blinded-trial
+  - single_blinded_trial
+  - SingleBlindedTrial
+  - is_a_single_blinded_trial
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalTrialDesign
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- single_blinded_trial
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_single_blinded_trial Class"
+  - single_blinded_trial
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_single_blinded_trial Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_single_blinded_trial Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_single_blinded_trial Class
 type: Type
 ---
 

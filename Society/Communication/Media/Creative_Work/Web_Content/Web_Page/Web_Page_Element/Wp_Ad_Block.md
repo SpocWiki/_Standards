@@ -1,26 +1,27 @@
 ---
 aliases:
-- wp-ad-block
-- wp_ad_block
-- WPAdBlock
-- is_a_wp_ad_block
+  - wp-ad-block
+  - wp_ad_block
+  - WPAdBlock
+  - is_a_wp_ad_block
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wp_ad_block
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wp_ad_block Class"
+  - wp_ad_block
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wp_ad_block Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wp_ad_block Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wp_ad_block Class
 type: Type
 ---
 

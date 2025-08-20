@@ -1,26 +1,28 @@
 ---
 aliases:
-- application-suite
-- application_suite
-- applicationSuite
-- has_text_of_application_suite
+  - application-suite
+  - application_suite
+  - applicationSuite
+  - has_text_of_application_suite
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- application
-- suite
-layout: 
-license: "CC BY-SA 4.0"
+  - application
+  - suite
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_application_suite
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_application_suite
 type: Pred_Text
 ---

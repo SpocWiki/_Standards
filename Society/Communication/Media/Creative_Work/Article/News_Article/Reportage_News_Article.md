@@ -1,26 +1,27 @@
 ---
 aliases:
-- reportage-news-article
-- reportage_news_article
-- ReportageNewsArticle
-- is_a_reportage_news_article
+  - reportage-news-article
+  - reportage_news_article
+  - ReportageNewsArticle
+  - is_a_reportage_news_article
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reportage_news_article
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_reportage_news_article Class"
+  - reportage_news_article
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_reportage_news_article Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_reportage_news_article Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_reportage_news_article Class
 type: Type
 ---
 

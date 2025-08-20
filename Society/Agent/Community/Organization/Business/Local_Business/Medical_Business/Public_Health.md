@@ -1,27 +1,28 @@
 ---
 aliases:
-- public-health
-- public_health
-- PublicHealth
-- is_a_public_health
+  - public-health
+  - public_health
+  - PublicHealth
+  - is_a_public_health
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- public_health
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_public_health Class"
+  - public_health
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_public_health Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_public_health Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_public_health Class
 type: Type
 ---
 

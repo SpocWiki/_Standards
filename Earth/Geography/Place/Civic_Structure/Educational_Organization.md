@@ -1,26 +1,27 @@
 ---
 aliases:
-- educational-organization
-- educational_organization
-- EducationalOrganization
-- is_an_educational_organization
+  - educational-organization
+  - educational_organization
+  - EducationalOrganization
+  - is_an_educational_organization
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- educational_organization
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_educational_organization Class"
+  - educational_organization
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_educational_organization Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_educational_organization Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_educational_organization Class
 type: Type
 ---
 

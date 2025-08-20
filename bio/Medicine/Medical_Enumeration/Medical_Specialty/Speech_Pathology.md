@@ -1,27 +1,28 @@
 ---
 aliases:
-- speech-pathology
-- speech_pathology
-- SpeechPathology
-- is_a_speech_pathology
+  - speech-pathology
+  - speech_pathology
+  - SpeechPathology
+  - is_a_speech_pathology
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- speech_pathology
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_speech_pathology Class"
+  - speech_pathology
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_speech_pathology Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_speech_pathology Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_speech_pathology Class
 type: Type
 ---
 

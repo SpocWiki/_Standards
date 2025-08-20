@@ -1,26 +1,28 @@
 ---
 aliases:
-- work-featured
-- work_featured
-- workFeatured
-- has_work_featured
+  - work-featured
+  - work_featured
+  - workFeatured
+  - has_work_featured
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- work
-- featured
-layout: 
-license: "CC BY-SA 4.0"
+  - work
+  - featured
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_work_featured
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_work_featured
 type: Predi_Relation
 ---

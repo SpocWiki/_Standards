@@ -1,27 +1,29 @@
 ---
 aliases:
-- health-plan-id
-- id_health_plan
-- healthPlanId
-- has_id_health_plan
+  - health-plan-id
+  - id_health_plan
+  - healthPlanId
+  - has_id_health_plan
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health
-- plan
-- id
-layout: 
-license: "CC BY-SA 4.0"
+  - health
+  - plan
+  - id
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_health_plan
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_health_plan
 type: Pred_Text
 ---

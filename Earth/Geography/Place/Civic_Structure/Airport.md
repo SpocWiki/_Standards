@@ -1,26 +1,27 @@
 ---
 aliases:
-- airport
-- airport
-- Airport
-- is_an_airport
+  - airport
+  - airport
+  - Airport
+  - is_an_airport
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- airport
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_airport Class"
+  - airport
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_airport Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_airport Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_airport Class
 type: Type
 ---
 

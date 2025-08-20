@@ -1,27 +1,28 @@
 ---
 aliases:
-- uk-trust
-- uk_trust
-- UKTrust
-- is_a_uk_trust
+  - uk-trust
+  - uk_trust
+  - UKTrust
+  - is_a_uk_trust
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: UKNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- uk_trust
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_uk_trust Class"
+  - uk_trust
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_uk_trust Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_uk_trust Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_uk_trust Class
 type: Type
 ---
 

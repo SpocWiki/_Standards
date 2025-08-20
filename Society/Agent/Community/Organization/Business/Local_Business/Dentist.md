@@ -1,26 +1,27 @@
 ---
 aliases:
-- dentist
-- dentist
-- Dentist
-- is_a_dentist
+  - dentist
+  - dentist
+  - Dentist
+  - is_a_dentist
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dentist
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_dentist Class"
+  - dentist
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_dentist Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_dentist Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_dentist Class
 type: Type
 ---
 

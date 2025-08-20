@@ -1,26 +1,27 @@
 ---
 aliases:
-- ask-action
-- ask_action
-- AskAction
-- is_an_ask_action
+  - ask-action
+  - ask_action
+  - AskAction
+  - is_an_ask_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ask_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_ask_action Class"
+  - ask_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_ask_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_ask_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_ask_action Class
 type: Type
 ---
 

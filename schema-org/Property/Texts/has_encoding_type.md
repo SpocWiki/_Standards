@@ -1,26 +1,28 @@
 ---
 aliases:
-- encoding-type
-- encoding_type
-- encodingType
-- has_text_of_encoding_type
+  - encoding-type
+  - encoding_type
+  - encodingType
+  - has_text_of_encoding_type
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- encoding
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - encoding
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_encoding_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_encoding_type
 type: Pred_Text
 ---

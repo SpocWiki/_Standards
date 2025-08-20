@@ -1,26 +1,28 @@
 ---
 aliases:
-- meal-service
-- meal_service
-- mealService
-- has_text_of_meal_service
+  - meal-service
+  - meal_service
+  - mealService
+  - has_text_of_meal_service
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- meal
-- service
-layout: 
-license: "CC BY-SA 4.0"
+  - meal
+  - service
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_meal_service
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_meal_service
 type: Pred_Text
 ---

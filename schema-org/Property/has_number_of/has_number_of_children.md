@@ -1,25 +1,27 @@
 ---
 aliases:
-- num-children
-- num_children
-- numChildren
-- has_number_of_children
+  - num-children
+  - num_children
+  - numChildren
+  - has_number_of_children
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- num_children
-layout: 
-license: "CC BY-SA 4.0"
+  - num_children
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_num_children
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_num_children
 type: Predi_Count
 ---

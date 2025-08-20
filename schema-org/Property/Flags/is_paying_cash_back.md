@@ -1,25 +1,27 @@
 ---
 aliases:
-- cash-back
-- paying_cash_back
-- cashBack
-- is_paying_cash_back
+  - cash-back
+  - paying_cash_back
+  - cashBack
+  - is_paying_cash_back
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- paying_cash_back
-layout: 
-license: "CC BY-SA 4.0"
+  - paying_cash_back
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_paying_cash_back
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_paying_cash_back
 type: Pred_Bool
 ---

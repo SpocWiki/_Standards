@@ -1,26 +1,28 @@
 ---
 aliases:
-- special-commitments
-- special_commitments
-- specialCommitments
-- has_text_of_special_commitments
+  - special-commitments
+  - special_commitments
+  - specialCommitments
+  - has_text_of_special_commitments
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- special
-- commitments
-layout: 
-license: "CC BY-SA 4.0"
+  - special
+  - commitments
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_special_commitments
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_special_commitments
 type: Pred_Text
 ---

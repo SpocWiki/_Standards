@@ -1,27 +1,28 @@
 ---
 aliases:
-- head
-- head
-- Head
-- is_a_head
+  - head
+  - head
+  - Head
+  - is_a_head
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- head
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_head Class"
+  - head
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_head Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_head Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_head Class
 type: Type
 ---
 

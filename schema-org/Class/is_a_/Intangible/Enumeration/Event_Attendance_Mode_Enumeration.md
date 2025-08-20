@@ -1,26 +1,27 @@
 ---
 aliases:
-- event-attendance-mode-enumeration
-- event_attendance_mode_enumeration
-- EventAttendanceModeEnumeration
-- is_an_event_attendance_mode_enumeration
+  - event-attendance-mode-enumeration
+  - event_attendance_mode_enumeration
+  - EventAttendanceModeEnumeration
+  - is_an_event_attendance_mode_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- event_attendance_mode_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_event_attendance_mode_enumeration Class"
+  - event_attendance_mode_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_event_attendance_mode_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_event_attendance_mode_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_event_attendance_mode_enumeration Class
 type: Type
 ---
 

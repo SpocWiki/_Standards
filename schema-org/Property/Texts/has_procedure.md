@@ -1,25 +1,27 @@
 ---
 aliases:
-- procedure
-- procedure
-- procedure
-- has_text_of_procedure
+  - procedure
+  - procedure
+  - procedure
+  - has_text_of_procedure
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- procedure
-layout: 
-license: "CC BY-SA 4.0"
+  - procedure
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_procedure
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_procedure
 type: Pred_Text
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- required-max-age
-- required_max_age
-- requiredMaxAge
-- has_value_for_required_max_age
+  - required-max-age
+  - required_max_age
+  - requiredMaxAge
+  - has_value_for_required_max_age
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- required_max_age
-layout: 
-license: "CC BY-SA 4.0"
+  - required_max_age
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_required_max_age
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_required_max_age
 type: Predi_Quantity
 ---

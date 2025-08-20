@@ -1,25 +1,27 @@
 ---
 aliases:
-- total_payment_due
-- total-payment-due
-- totalPaymentDue
-- has_value_for_total_payment_due
+  - total_payment_due
+  - total-payment-due
+  - totalPaymentDue
+  - has_value_for_total_payment_due
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- total-payment-due
-layout: 
-license: "CC BY-SA 4.0"
+  - total-payment-due
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_total-payment-due
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_total-payment-due
 type: Predi_Quantity
 ---

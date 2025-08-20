@@ -1,23 +1,24 @@
 ---
 aliases:
-- Part
-- Member
-- Component
-- 
+  - Part
+  - Member
+  - Component
+  - 
 confidential: public
-cssclasses: Element
+cssclasses:
+  - Element
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: Part
 publish: true
-publishDate: 
+publishDate:
 tags:
-- schema-org/Composite
+  - schema-org/Composite
 title: Part
 type: Predi_Relation
 ---

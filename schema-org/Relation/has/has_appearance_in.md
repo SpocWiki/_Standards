@@ -1,26 +1,28 @@
 ---
 aliases:
-- appearance
-- appearance
-- appearance
-- has_appearance_in
-- is_appearing_in
+  - appearance
+  - appearance
+  - appearance
+  - has_appearance_in
+  - is_appearing_in
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- appearance
-layout: 
-license: "CC BY-SA 4.0"
+  - appearance
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_appearance_in
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_appearance_in
 type: Predi_Relation
 ---

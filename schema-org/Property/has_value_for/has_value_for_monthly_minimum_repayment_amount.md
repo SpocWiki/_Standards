@@ -1,25 +1,27 @@
 ---
 aliases:
-- monthly_minimum_repayment_amount
-- monthly-minimum-repayment-amount
-- monthlyMinimumRepaymentAmount
-- has_value_for_monthly_minimum_repayment_amount
+  - monthly_minimum_repayment_amount
+  - monthly-minimum-repayment-amount
+  - monthlyMinimumRepaymentAmount
+  - has_value_for_monthly_minimum_repayment_amount
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- monthly-minimum-repayment-amount
-layout: 
-license: "CC BY-SA 4.0"
+  - monthly-minimum-repayment-amount
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_monthly-minimum-repayment-amount
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_monthly-minimum-repayment-amount
 type: Predi_Quantity
 ---

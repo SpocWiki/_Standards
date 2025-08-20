@@ -1,27 +1,29 @@
 ---
 aliases:
-- broadcast-affiliate-of
-- broadcast_affiliate_of
-- broadcastAffiliateOf
-- has_broadcast_affiliate_of
+  - broadcast-affiliate-of
+  - broadcast_affiliate_of
+  - broadcastAffiliateOf
+  - has_broadcast_affiliate_of
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast
-- affiliate
-- of
-layout: 
-license: "CC BY-SA 4.0"
+  - broadcast
+  - affiliate
+  - of
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_broadcast_affiliate_of
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_broadcast_affiliate_of
 type: Predi_Relation
 ---

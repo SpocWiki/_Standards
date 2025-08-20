@@ -1,26 +1,27 @@
 ---
 aliases:
-- install-action
-- install_action
-- InstallAction
-- is_an_install_action
+  - install-action
+  - install_action
+  - InstallAction
+  - is_an_install_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- install_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_install_action Class"
+  - install_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_install_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_install_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_install_action Class
 type: Type
 ---
 

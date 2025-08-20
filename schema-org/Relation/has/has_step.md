@@ -1,26 +1,28 @@
 ---
 aliases:
-- step
-- step
-- step
-- has_step
+  - step
+  - step
+  - step
+  - has_step
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- step
-layout: 
-license: "CC BY-SA 4.0"
+  - step
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_step
 publish: true
-publishDate: 
+publishDate:
 supersedes: steps
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_step
 type: Predi_Relation
 ---

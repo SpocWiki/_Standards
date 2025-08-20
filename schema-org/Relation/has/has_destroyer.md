@@ -1,25 +1,27 @@
 ---
 aliases:
-- destroyer
-- destroyer
-- destroyer
-- has_destroyer
+  - destroyer
+  - destroyer
+  - destroyer
+  - has_destroyer
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- destroyer
-layout: 
-license: "CC BY-SA 4.0"
+  - destroyer
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_destroyer
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_destroyer
 type: Predi_Relation
 ---

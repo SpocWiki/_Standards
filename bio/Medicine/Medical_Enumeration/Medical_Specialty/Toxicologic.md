@@ -1,27 +1,28 @@
 ---
 aliases:
-- toxicologic
-- toxicologic
-- Toxicologic
-- is_a_toxicologic
+  - toxicologic
+  - toxicologic
+  - Toxicologic
+  - is_a_toxicologic
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- toxicologic
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_toxicologic Class"
+  - toxicologic
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_toxicologic Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_toxicologic Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_toxicologic Class
 type: Type
 ---
 

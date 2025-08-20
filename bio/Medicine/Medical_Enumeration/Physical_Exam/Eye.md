@@ -1,26 +1,27 @@
 ---
 aliases:
-- eye
-- Eye
-- is_an_eye
+  - eye
+  - Eye
+  - is_an_eye
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- eye
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_eye Class"
+  - eye
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_eye Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_eye Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_eye Class
 type: Type
 ---
 

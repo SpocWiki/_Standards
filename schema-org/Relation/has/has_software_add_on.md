@@ -1,27 +1,29 @@
 ---
 aliases:
-- software-add-on
-- software_add_on
-- softwareAddOn
-- has_software_add_on
+  - software-add-on
+  - software_add_on
+  - softwareAddOn
+  - has_software_add_on
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- software
-- add
-- on
-layout: 
-license: "CC BY-SA 4.0"
+  - software
+  - add
+  - on
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_software_add_on
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_software_add_on
 type: Predi_Relation
 ---

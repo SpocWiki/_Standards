@@ -1,26 +1,27 @@
 ---
 aliases:
-- book-format-type
-- book_format_type
-- BookFormatType
-- is_a_book_format_type
+  - book-format-type
+  - book_format_type
+  - BookFormatType
+  - is_a_book_format_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- book_format_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_book_format_type Class"
+  - book_format_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_book_format_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_book_format_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_book_format_type Class
 type: Type
 ---
 

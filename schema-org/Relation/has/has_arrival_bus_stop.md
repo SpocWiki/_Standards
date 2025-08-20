@@ -1,27 +1,29 @@
 ---
 aliases:
-- arrival-bus-stop
-- arrival_bus_stop
-- arrivalBusStop
-- has_arrival_bus_stop
+  - arrival-bus-stop
+  - arrival_bus_stop
+  - arrivalBusStop
+  - has_arrival_bus_stop
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- arrival
-- bus
-- stop
-layout: 
-license: "CC BY-SA 4.0"
+  - arrival
+  - bus
+  - stop
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_arrival_bus_stop
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_arrival_bus_stop
 type: Predi_Relation
 ---

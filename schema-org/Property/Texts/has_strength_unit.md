@@ -1,26 +1,28 @@
 ---
 aliases:
-- strength-unit
-- strength_unit
-- strengthUnit
-- has_text_of_strength_unit
+  - strength-unit
+  - strength_unit
+  - strengthUnit
+  - has_text_of_strength_unit
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- strength
-- unit
-layout: 
-license: "CC BY-SA 4.0"
+  - strength
+  - unit
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_strength_unit
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_strength_unit
 type: Pred_Text
 ---

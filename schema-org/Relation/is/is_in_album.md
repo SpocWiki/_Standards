@@ -1,26 +1,28 @@
 ---
 aliases:
-- in-album
-- in_album
-- inAlbum
-- is_in_album
+  - in-album
+  - in_album
+  - inAlbum
+  - is_in_album
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- in
-- album
-layout: 
-license: "CC BY-SA 4.0"
+  - in
+  - album
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_in_album
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_in_album
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- computer-language
-- computer_language
-- ComputerLanguage
-- is_a_computer_language
+  - computer-language
+  - computer_language
+  - ComputerLanguage
+  - is_a_computer_language
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- computer_language
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_computer_language Class"
+  - computer_language
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_computer_language Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_computer_language Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_computer_language Class
 type: Type
 ---
 

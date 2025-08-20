@@ -1,26 +1,27 @@
 ---
 aliases:
-- archive-organization
-- archive_organization
-- ArchiveOrganization
-- is_an_archive_organization
+  - archive-organization
+  - archive_organization
+  - ArchiveOrganization
+  - is_an_archive_organization
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- archive_organization
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_archive_organization Class"
+  - archive_organization
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_archive_organization Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_archive_organization Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_archive_organization Class
 type: Type
 ---
 

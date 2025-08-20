@@ -1,25 +1,27 @@
 ---
 aliases:
-- saturated_fat_in_gram
-- saturated-fat-content
-- saturatedFatContent
-- has_value_for_saturated_fat_in_gram
+  - saturated_fat_in_gram
+  - saturated-fat-content
+  - saturatedFatContent
+  - has_value_for_saturated_fat_in_gram
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- saturated-fat-content
-layout: 
-license: "CC BY-SA 4.0"
+  - saturated-fat-content
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_saturated-fat-content
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_saturated-fat-content
 type: Predi_Quantity
 ---

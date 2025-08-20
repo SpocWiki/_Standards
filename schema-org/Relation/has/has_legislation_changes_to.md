@@ -1,26 +1,28 @@
 ---
 aliases:
-- legislation-changes
-- legislation_changes
-- legislationChanges
-- has_legislation_changes
+  - legislation-changes
+  - legislation_changes
+  - legislationChanges
+  - has_legislation_changes
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legislation
-- changes
-layout: 
-license: "CC BY-SA 4.0"
+  - legislation
+  - changes
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_legislation_changes
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_legislation_changes
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- motorcycle
-- motorcycle
-- Motorcycle
-- is_a_motorcycle
+  - motorcycle
+  - motorcycle
+  - Motorcycle
+  - is_a_motorcycle
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- motorcycle
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_motorcycle Class"
+  - motorcycle
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_motorcycle Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_motorcycle Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_motorcycle Class
 type: Type
 ---
 

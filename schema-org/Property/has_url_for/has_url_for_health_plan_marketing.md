@@ -1,25 +1,27 @@
 ---
 aliases:
-- health-plan-marketing-url
-- health_plan_marketing_url
-- healthPlanMarketingUrl
-- has_url_for_health_plan_marketing_url
+  - health-plan-marketing-url
+  - health_plan_marketing_url
+  - healthPlanMarketingUrl
+  - has_url_for_health_plan_marketing_url
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health_plan_marketing_url
-layout: 
-license: "CC BY-SA 4.0"
+  - health_plan_marketing_url
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_health_plan_marketing_url
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_health_plan_marketing_url
 type: Predi_Url
 ---

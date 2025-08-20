@@ -1,26 +1,28 @@
 ---
 aliases:
-- available-strength
-- available_strength
-- availableStrength
-- has_available_strength
+  - available-strength
+  - available_strength
+  - availableStrength
+  - has_available_strength
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- available
-- strength
-layout: 
-license: "CC BY-SA 4.0"
+  - available
+  - strength
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_available_strength
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_available_strength
 type: Predi_Relation
 ---

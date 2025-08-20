@@ -1,26 +1,28 @@
 ---
 aliases:
-- event-schedule
-- event_schedule
-- eventSchedule
-- has_event_schedule
+  - event-schedule
+  - event_schedule
+  - eventSchedule
+  - has_event_schedule
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- event
-- schedule
-layout: 
-license: "CC BY-SA 4.0"
+  - event
+  - schedule
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_event_schedule
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_event_schedule
 type: Predi_Relation
 ---

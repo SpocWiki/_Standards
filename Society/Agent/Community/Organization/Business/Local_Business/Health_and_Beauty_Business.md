@@ -1,26 +1,27 @@
 ---
 aliases:
-- health-and-beauty-business
-- health_and_beauty_business
-- HealthAndBeautyBusiness
-- is_a_health_and_beauty_business
+  - health-and-beauty-business
+  - health_and_beauty_business
+  - HealthAndBeautyBusiness
+  - is_a_health_and_beauty_business
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health_and_beauty_business
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_health_and_beauty_business Class"
+  - health_and_beauty_business
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_health_and_beauty_business Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_health_and_beauty_business Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_health_and_beauty_business Class
 type: Type
 ---
 

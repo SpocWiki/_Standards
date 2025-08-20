@@ -1,26 +1,28 @@
 ---
 aliases:
-- has-adult-consideration
-- adult_consideration
-- hasAdultConsideration
-- has_adult_consideration
+  - has-adult-consideration
+  - adult_consideration
+  - hasAdultConsideration
+  - has_adult_consideration
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- adult
-- consideration
-layout: 
-license: "CC BY-SA 4.0"
+  - adult
+  - consideration
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_adult_consideration
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_adult_consideration
 type: Predi_Relation
 ---

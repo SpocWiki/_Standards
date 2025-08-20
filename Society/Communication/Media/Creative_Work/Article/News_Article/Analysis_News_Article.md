@@ -1,26 +1,27 @@
 ---
 aliases:
-- analysis-news-article
-- analysis_news_article
-- AnalysisNewsArticle
-- is_an_analysis_news_article
+  - analysis-news-article
+  - analysis_news_article
+  - AnalysisNewsArticle
+  - is_an_analysis_news_article
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- analysis_news_article
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_analysis_news_article Class"
+  - analysis_news_article
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_analysis_news_article Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_analysis_news_article Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_analysis_news_article Class
 type: Type
 ---
 

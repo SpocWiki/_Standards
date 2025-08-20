@@ -1,25 +1,27 @@
 ---
 aliases:
-- competitor
-- competitor
-- competitor
-- has_competitor
+  - competitor
+  - competitor
+  - competitor
+  - has_competitor
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- competitor
-layout: 
-license: "CC BY-SA 4.0"
+  - competitor
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_competitor
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_competitor
 type: Predi_Relation
 ---

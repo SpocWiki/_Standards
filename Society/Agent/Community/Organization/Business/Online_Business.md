@@ -1,26 +1,27 @@
 ---
 aliases:
-- online-business
-- online_business
-- OnlineBusiness
-- is_an_online_business
+  - online-business
+  - online_business
+  - OnlineBusiness
+  - is_an_online_business
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- online_business
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_online_business Class"
+  - online_business
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_online_business Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_online_business Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_online_business Class
 type: Type
 ---
 

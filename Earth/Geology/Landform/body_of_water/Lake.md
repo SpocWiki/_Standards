@@ -1,26 +1,27 @@
 ---
 aliases:
-- lake-body-of-water
-- lake_body_of_water
-- LakeBodyOfWater
-- is_a_lake_body_of_water
+  - lake-body-of-water
+  - lake_body_of_water
+  - LakeBodyOfWater
+  - is_a_lake_body_of_water
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- lake_body_of_water
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_lake_body_of_water Class"
+  - lake_body_of_water
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_lake_body_of_water Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_lake_body_of_water Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_lake_body_of_water Class
 type: Type
 ---
 

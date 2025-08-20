@@ -1,26 +1,27 @@
 ---
 aliases:
-- seek-to-action
-- seek_to_action
-- SeekToAction
-- is_a_seek_to_action
+  - seek-to-action
+  - seek_to_action
+  - SeekToAction
+  - is_a_seek_to_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- seek_to_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_seek_to_action Class"
+  - seek_to_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_seek_to_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_seek_to_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_seek_to_action Class
 type: Type
 ---
 

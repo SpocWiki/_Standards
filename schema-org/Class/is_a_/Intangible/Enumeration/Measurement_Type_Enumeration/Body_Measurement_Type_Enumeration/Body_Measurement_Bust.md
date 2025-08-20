@@ -1,27 +1,28 @@
 ---
 aliases:
-- body-measurement-bust
-- body_measurement_bust
-- BodyMeasurementBust
-- is_a_body_measurement_bust
+  - body-measurement-bust
+  - body_measurement_bust
+  - BodyMeasurementBust
+  - is_a_body_measurement_bust
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- body_measurement_bust
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_body_measurement_bust Class"
+  - body_measurement_bust
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_body_measurement_bust Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_body_measurement_bust Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_body_measurement_bust Class
 type: Type
 ---
 

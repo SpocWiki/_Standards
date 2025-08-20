@@ -1,27 +1,28 @@
 ---
 aliases:
-- fd-acategory-d
-- fd_acategory_d
-- FDAcategoryD
-- is_a_fd_acategory_d
+  - fd-acategory-d
+  - fd_acategory_d
+  - FDAcategoryD
+  - is_a_fd_acategory_d
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DrugPregnancyCategory
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- fd_acategory_d
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_fd_acategory_d Class"
+  - fd_acategory_d
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_fd_acategory_d Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_fd_acategory_d Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_fd_acategory_d Class
 type: Type
 ---
 

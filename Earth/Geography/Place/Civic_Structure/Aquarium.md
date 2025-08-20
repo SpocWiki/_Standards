@@ -1,26 +1,27 @@
 ---
 aliases:
-- aquarium
-- aquarium
-- Aquarium
-- is_an_aquarium
+  - aquarium
+  - aquarium
+  - Aquarium
+  - is_an_aquarium
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- aquarium
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_aquarium Class"
+  - aquarium
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_aquarium Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_aquarium Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_aquarium Class
 type: Type
 ---
 

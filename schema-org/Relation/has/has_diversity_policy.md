@@ -1,26 +1,28 @@
 ---
 aliases:
-- diversity-policy
-- diversity_policy
-- diversityPolicy
-- has_diversity_policy
+  - diversity-policy
+  - diversity_policy
+  - diversityPolicy
+  - has_diversity_policy
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- diversity
-- policy
-layout: 
-license: "CC BY-SA 4.0"
+  - diversity
+  - policy
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_diversity_policy
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_diversity_policy
 type: Predi_Relation
 ---

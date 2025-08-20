@@ -1,24 +1,26 @@
 ---
 aliases:
-- legislation-date-version
-- legislation_date_version
-- legislationDateVersion
-- has_time_of_legislation_version
+  - legislation-date-version
+  - legislation_date_version
+  - legislationDateVersion
+  - has_time_of_legislation_version
 confidential: public
-cssclasses: "Predicate Date_Time"
+cssclasses:
+  - Predicate
+  - Date_Time
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+keywords:
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Date
+  - class/Property
+  - schema-org/Property/Date
 title: has_time_of_legislation_version
 type: Predi_Date_Time
 ---

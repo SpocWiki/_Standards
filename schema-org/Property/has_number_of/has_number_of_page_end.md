@@ -1,25 +1,27 @@
 ---
 aliases:
-- page-end
-- page_end
-- pageEnd
-- has_number_of_page_end
+  - page-end
+  - page_end
+  - pageEnd
+  - has_number_of_page_end
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- page_end
-layout: 
-license: "CC BY-SA 4.0"
+  - page_end
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_page_end
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_page_end
 type: Predi_Count
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- contact-page
-- contact_page
-- ContactPage
-- is_a_contact_page
+  - contact-page
+  - contact_page
+  - ContactPage
+  - is_a_contact_page
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- contact_page
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_contact_page Class"
+  - contact_page
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_contact_page Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_contact_page Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_contact_page Class
 type: Type
 ---
 

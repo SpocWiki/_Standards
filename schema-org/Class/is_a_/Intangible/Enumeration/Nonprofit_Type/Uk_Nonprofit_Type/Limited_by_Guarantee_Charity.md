@@ -1,27 +1,28 @@
 ---
 aliases:
-- limited-by-guarantee-charity
-- limited_by_guarantee_charity
-- LimitedByGuaranteeCharity
-- is_a_limited_by_guarantee_charity
+  - limited-by-guarantee-charity
+  - limited_by_guarantee_charity
+  - LimitedByGuaranteeCharity
+  - is_a_limited_by_guarantee_charity
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: UKNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- limited_by_guarantee_charity
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_limited_by_guarantee_charity Class"
+  - limited_by_guarantee_charity
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_limited_by_guarantee_charity Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_limited_by_guarantee_charity Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_limited_by_guarantee_charity Class
 type: Type
 ---
 

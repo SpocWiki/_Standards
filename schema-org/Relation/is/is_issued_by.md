@@ -1,26 +1,28 @@
 ---
 aliases:
-- issued-by
-- issued_by
-- issuedBy
-- is_issued_by
+  - issued-by
+  - issued_by
+  - issuedBy
+  - is_issued_by
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- issued
-- by
-layout: 
-license: "CC BY-SA 4.0"
+  - issued
+  - by
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_issued_by
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_issued_by
 type: Predi_Relation
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-measurement-cup
-- wearable_measurement_cup
-- WearableMeasurementCup
-- is_a_wearable_measurement_cup
+  - wearable-measurement-cup
+  - wearable_measurement_cup
+  - WearableMeasurementCup
+  - is_a_wearable_measurement_cup
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_measurement_cup
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_measurement_cup Class"
+  - wearable_measurement_cup
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_measurement_cup Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_measurement_cup Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_measurement_cup Class
 type: Type
 ---
 

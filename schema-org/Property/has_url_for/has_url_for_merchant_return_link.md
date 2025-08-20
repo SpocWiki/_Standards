@@ -1,26 +1,28 @@
 ---
 aliases:
-- merchant-return-link
-- merchant_return_link
-- merchantReturnLink
-- has_url_for_merchant_return_link
+  - merchant-return-link
+  - merchant_return_link
+  - merchantReturnLink
+  - has_url_for_merchant_return_link
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- merchant_return_link
-layout: 
-license: "CC BY-SA 4.0"
+  - merchant_return_link
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_merchant_return_link
 publish: true
-publishDate: 
+publishDate:
 supersedes: productReturnLink
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_merchant_return_link
 type: Predi_Url
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- seat
-- seat
-- Seat
-- is_a_seat
+  - seat
+  - seat
+  - Seat
+  - is_a_seat
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- seat
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_seat Class"
+  - seat
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_seat Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_seat Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_seat Class
 type: Type
 ---
 

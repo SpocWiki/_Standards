@@ -1,25 +1,26 @@
 ---
 aliases:
-- zoo
-- Zoo
-- is_a_zoo
+  - zoo
+  - Zoo
+  - is_a_zoo
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- zoo
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_zoo Class"
+  - zoo
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_zoo Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_zoo Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_zoo Class
 type: Type
 ---
 

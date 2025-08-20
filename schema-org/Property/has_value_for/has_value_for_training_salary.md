@@ -1,25 +1,27 @@
 ---
 aliases:
-- training_salary
-- training-salary
-- trainingSalary
-- has_value_for_training_salary
+  - training_salary
+  - training-salary
+  - trainingSalary
+  - has_value_for_training_salary
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- training-salary
-layout: 
-license: "CC BY-SA 4.0"
+  - training-salary
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_training-salary
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_training-salary
 type: Predi_Quantity
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- not-yet-recruiting
-- not_yet_recruiting
-- NotYetRecruiting
-- is_a_not_yet_recruiting
+  - not-yet-recruiting
+  - not_yet_recruiting
+  - NotYetRecruiting
+  - is_a_not_yet_recruiting
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalStudyStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- not_yet_recruiting
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_not_yet_recruiting Class"
+  - not_yet_recruiting
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_not_yet_recruiting Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_not_yet_recruiting Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_not_yet_recruiting Class
 type: Type
 ---
 

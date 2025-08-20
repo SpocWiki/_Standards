@@ -1,26 +1,27 @@
 ---
 aliases:
-- media-manipulation-rating-enumeration
-- media_manipulation_rating_enumeration
-- MediaManipulationRatingEnumeration
-- is_a_media_manipulation_rating_enumeration
+  - media-manipulation-rating-enumeration
+  - media_manipulation_rating_enumeration
+  - MediaManipulationRatingEnumeration
+  - is_a_media_manipulation_rating_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- media_manipulation_rating_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_media_manipulation_rating_enumeration Class"
+  - media_manipulation_rating_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_media_manipulation_rating_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_media_manipulation_rating_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_media_manipulation_rating_enumeration Class
 type: Type
 ---
 

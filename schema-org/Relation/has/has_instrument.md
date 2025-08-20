@@ -1,25 +1,27 @@
 ---
 aliases:
-- instrument
-- instrument
-- instrument
-- has_instrument
+  - instrument
+  - instrument
+  - instrument
+  - has_instrument
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- instrument
-layout: 
-license: "CC BY-SA 4.0"
+  - instrument
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_instrument
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_instrument
 type: Predi_Relation
 ---

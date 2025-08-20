@@ -1,25 +1,27 @@
 ---
 aliases:
-- identifier
-- identifier
-- identifier
-- has_identifier
+  - identifier
+  - identifier
+  - identifier
+  - has_identifier
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- identifier
-layout: 
-license: "CC BY-SA 4.0"
+  - identifier
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_identifier
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_identifier
 type: Predi_Relation
 ---

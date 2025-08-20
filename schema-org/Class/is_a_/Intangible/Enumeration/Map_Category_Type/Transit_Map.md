@@ -1,27 +1,28 @@
 ---
 aliases:
-- transit-map
-- transit_map
-- TransitMap
-- is_a_transit_map
+  - transit-map
+  - transit_map
+  - TransitMap
+  - is_a_transit_map
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MapCategoryType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- transit_map
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_transit_map Class"
+  - transit_map
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_transit_map Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_transit_map Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_transit_map Class
 type: Type
 ---
 

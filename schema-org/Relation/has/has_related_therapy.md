@@ -1,26 +1,28 @@
 ---
 aliases:
-- related-therapy
-- related_therapy
-- relatedTherapy
-- has_related_therapy
+  - related-therapy
+  - related_therapy
+  - relatedTherapy
+  - has_related_therapy
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- related
-- therapy
-layout: 
-license: "CC BY-SA 4.0"
+  - related
+  - therapy
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_related_therapy
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_related_therapy
 type: Predi_Relation
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- expressed-in
-- expressed_in
-- expressedIn
-- is_expressed_in
+  - expressed-in
+  - expressed_in
+  - expressedIn
+  - is_expressed_in
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- expressed
-- in
-layout: 
-license: "CC BY-SA 4.0"
+  - expressed
+  - in
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_expressed_in
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_expressed_in
 type: Predi_Relation
 ---

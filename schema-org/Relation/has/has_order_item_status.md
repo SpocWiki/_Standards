@@ -1,27 +1,29 @@
 ---
 aliases:
-- order-item-status
-- order_item_status
-- orderItemStatus
-- has_order_item_status
+  - order-item-status
+  - order_item_status
+  - orderItemStatus
+  - has_order_item_status
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- order
-- item
-- status
-layout: 
-license: "CC BY-SA 4.0"
+  - order
+  - item
+  - status
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_order_item_status
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_order_item_status
 type: Predi_Relation
 ---

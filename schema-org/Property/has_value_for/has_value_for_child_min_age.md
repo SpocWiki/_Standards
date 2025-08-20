@@ -1,25 +1,27 @@
 ---
 aliases:
-- child_min_age
-- child-min-age
-- childMinAge
-- has_value_for_child_min_age
+  - child_min_age
+  - child-min-age
+  - childMinAge
+  - has_value_for_child_min_age
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- child-min-age
-layout: 
-license: "CC BY-SA 4.0"
+  - child-min-age
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_child-min-age
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_child-min-age
 type: Predi_Quantity
 ---

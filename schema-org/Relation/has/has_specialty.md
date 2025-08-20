@@ -1,25 +1,27 @@
 ---
 aliases:
-- specialty
-- specialty
-- specialty
-- has_specialty
+  - specialty
+  - specialty
+  - specialty
+  - has_specialty
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- specialty
-layout: 
-license: "CC BY-SA 4.0"
+  - specialty
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_specialty
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_specialty
 type: Predi_Relation
 ---

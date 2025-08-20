@@ -1,26 +1,27 @@
 ---
 aliases:
-- create-action
-- create_action
-- CreateAction
-- is_a_create_action
+  - create-action
+  - create_action
+  - CreateAction
+  - is_a_create_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- create_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_create_action Class"
+  - create_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_create_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_create_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_create_action Class
 type: Type
 ---
 

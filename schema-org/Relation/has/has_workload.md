@@ -1,25 +1,27 @@
 ---
 aliases:
-- workload
-- workload
-- workload
-- has_workload
+  - workload
+  - workload
+  - workload
+  - has_workload
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- workload
-layout: 
-license: "CC BY-SA 4.0"
+  - workload
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_workload
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_workload
 type: Predi_Relation
 ---

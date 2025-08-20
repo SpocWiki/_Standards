@@ -1,26 +1,27 @@
 ---
 aliases:
-- video-game-series
-- video_game_series
-- VideoGameSeries
-- is_a_video_game_series
+  - video-game-series
+  - video_game_series
+  - VideoGameSeries
+  - is_a_video_game_series
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- video_game_series
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_video_game_series Class"
+  - video_game_series
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_video_game_series Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_video_game_series Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_video_game_series Class
 type: Type
 ---
 

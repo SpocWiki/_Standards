@@ -1,26 +1,28 @@
 ---
 aliases:
-- result-review
-- result_review
-- resultReview
-- has_result_review
+  - result-review
+  - result_review
+  - resultReview
+  - has_result_review
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- result
-- review
-layout: 
-license: "CC BY-SA 4.0"
+  - result
+  - review
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_result_review
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_result_review
 type: Predi_Relation
 ---

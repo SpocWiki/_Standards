@@ -1,25 +1,27 @@
 ---
 aliases:
-- value_min_text_length
-- value-min-text-length
-- valueMinTextLength
-- has_value_for_min_text_length
+  - value_min_text_length
+  - value-min-text-length
+  - valueMinTextLength
+  - has_value_for_min_text_length
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- value-min-text-length
-layout: 
-license: "CC BY-SA 4.0"
+  - value-min-text-length
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_value-min-text-length
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_value-min-text-length
 type: Predi_Quantity
 ---

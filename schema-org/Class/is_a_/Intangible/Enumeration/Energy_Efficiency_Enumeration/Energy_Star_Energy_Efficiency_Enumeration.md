@@ -1,26 +1,27 @@
 ---
 aliases:
-- energy-star-energy-efficiency-enumeration
-- energy_star_energy_efficiency_enumeration
-- EnergyStarEnergyEfficiencyEnumeration
-- is_an_energy_star_energy_efficiency_enumeration
+  - energy-star-energy-efficiency-enumeration
+  - energy_star_energy_efficiency_enumeration
+  - EnergyStarEnergyEfficiencyEnumeration
+  - is_an_energy_star_energy_efficiency_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- energy_star_energy_efficiency_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_energy_star_energy_efficiency_enumeration Class"
+  - energy_star_energy_efficiency_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_energy_star_energy_efficiency_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_energy_star_energy_efficiency_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_energy_star_energy_efficiency_enumeration Class
 type: Type
 ---
 

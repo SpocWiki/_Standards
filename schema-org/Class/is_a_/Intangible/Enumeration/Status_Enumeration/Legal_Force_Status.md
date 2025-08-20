@@ -1,26 +1,27 @@
 ---
 aliases:
-- legal-force-status
-- legal_force_status
-- LegalForceStatus
-- is_a_legal_force_status
+  - legal-force-status
+  - legal_force_status
+  - LegalForceStatus
+  - is_a_legal_force_status
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legal_force_status
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_legal_force_status Class"
+  - legal_force_status
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_legal_force_status Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_legal_force_status Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_legal_force_status Class
 type: Type
 ---
 

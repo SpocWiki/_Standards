@@ -1,26 +1,27 @@
 ---
 aliases:
-- merchant-return-policy-seasonal-override
-- merchant_return_policy_seasonal_override
-- MerchantReturnPolicySeasonalOverride
-- is_a_merchant_return_policy_seasonal_override
+  - merchant-return-policy-seasonal-override
+  - merchant_return_policy_seasonal_override
+  - MerchantReturnPolicySeasonalOverride
+  - is_a_merchant_return_policy_seasonal_override
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- merchant_return_policy_seasonal_override
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_merchant_return_policy_seasonal_override Class"
+  - merchant_return_policy_seasonal_override
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_merchant_return_policy_seasonal_override Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_merchant_return_policy_seasonal_override Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_merchant_return_policy_seasonal_override Class
 type: Type
 ---
 

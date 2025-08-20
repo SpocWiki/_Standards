@@ -1,26 +1,27 @@
 ---
 aliases:
-- replace-action
-- replace_action
-- ReplaceAction
-- is_a_replace_action
+  - replace-action
+  - replace_action
+  - ReplaceAction
+  - is_a_replace_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- replace_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_replace_action Class"
+  - replace_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_replace_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_replace_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_replace_action Class
 type: Type
 ---
 

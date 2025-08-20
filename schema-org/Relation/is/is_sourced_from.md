@@ -1,26 +1,28 @@
 ---
 aliases:
-- sourced-from
-- sourced_from
-- sourcedFrom
-- is_sourced_from
+  - sourced-from
+  - sourced_from
+  - sourcedFrom
+  - is_sourced_from
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sourced
-- from
-layout: 
-license: "CC BY-SA 4.0"
+  - sourced
+  - from
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_sourced_from
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_sourced_from
 type: Predi_Relation
 ---

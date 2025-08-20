@@ -1,26 +1,27 @@
 ---
 aliases:
-- special-announcement
-- special_announcement
-- SpecialAnnouncement
-- is_a_special_announcement
+  - special-announcement
+  - special_announcement
+  - SpecialAnnouncement
+  - is_a_special_announcement
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- special_announcement
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_special_announcement Class"
+  - special_announcement
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_special_announcement Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_special_announcement Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_special_announcement Class
 type: Type
 ---
 

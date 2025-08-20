@@ -1,26 +1,28 @@
 ---
 aliases:
-- accessibility-summary
-- accessibility_summary
-- accessibilitySummary
-- has_text_of_accessibility_summary
+  - accessibility-summary
+  - accessibility_summary
+  - accessibilitySummary
+  - has_text_of_accessibility_summary
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- accessibility
-- summary
-layout: 
-license: "CC BY-SA 4.0"
+  - accessibility
+  - summary
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_accessibility_summary
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_accessibility_summary
 type: Pred_Text
 ---

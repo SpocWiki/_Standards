@@ -1,27 +1,28 @@
 ---
 aliases:
-- nonprofit501c16
-- nonprofit501c16
-- Nonprofit501c16
-- is_a_nonprofit501c16
+  - nonprofit501c16
+  - nonprofit501c16
+  - Nonprofit501c16
+  - is_a_nonprofit501c16
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nonprofit501c16
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nonprofit501c16 Class"
+  - nonprofit501c16
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nonprofit501c16 Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nonprofit501c16 Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nonprofit501c16 Class
 type: Type
 ---
 

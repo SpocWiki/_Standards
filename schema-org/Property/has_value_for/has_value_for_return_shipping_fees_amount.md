@@ -1,25 +1,27 @@
 ---
 aliases:
-- return_shipping_fees_amount
-- return-shipping-fees-amount
-- returnShippingFeesAmount
-- has_value_for_return_shipping_fees_amount
+  - return_shipping_fees_amount
+  - return-shipping-fees-amount
+  - returnShippingFeesAmount
+  - has_value_for_return_shipping_fees_amount
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return-shipping-fees-amount
-layout: 
-license: "CC BY-SA 4.0"
+  - return-shipping-fees-amount
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_return-shipping-fees-amount
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_return-shipping-fees-amount
 type: Predi_Quantity
 ---

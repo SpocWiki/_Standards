@@ -1,25 +1,27 @@
 ---
 aliases:
-- from-location
-- from_location
-- fromLocation
-- has_location_from
+  - from-location
+  - from_location
+  - fromLocation
+  - has_location_from
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- from_location
-layout: 
-license: "CC BY-SA 4.0"
+  - from_location
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_from
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_from
 type: Pred_geo
 ---

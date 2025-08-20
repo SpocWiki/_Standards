@@ -1,26 +1,28 @@
 ---
 aliases:
-- required-gender
-- required_gender
-- requiredGender
-- has_text_of_required_gender
+  - required-gender
+  - required_gender
+  - requiredGender
+  - has_text_of_required_gender
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- required
-- gender
-layout: 
-license: "CC BY-SA 4.0"
+  - required
+  - gender
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_required_gender
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_required_gender
 type: Pred_Text
 ---

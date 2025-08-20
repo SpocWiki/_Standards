@@ -1,26 +1,28 @@
 ---
 aliases:
-- item-condition
-- item_condition
-- itemCondition
-- has_item_condition
+  - item-condition
+  - item_condition
+  - itemCondition
+  - has_item_condition
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- item
-- condition
-layout: 
-license: "CC BY-SA 4.0"
+  - item
+  - condition
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_item_condition
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_item_condition
 type: Predi_Relation
 ---

@@ -1,27 +1,29 @@
 ---
 aliases:
-- role-name
-- role_
-- roleName
-- has_role_
+  - role-name
+  - role_
+  - roleName
+  - has_role_
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- role
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - role
+  - name
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_role_
 publish: true
-publishDate: 
+publishDate:
 supersedes: namedPosition
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_role_
 type: Pred_Text
 ---

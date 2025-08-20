@@ -1,26 +1,28 @@
 ---
 aliases:
-- toc-entry
-- toc_entry
-- tocEntry
-- has_toc_entry
+  - toc-entry
+  - toc_entry
+  - tocEntry
+  - has_toc_entry
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- toc
-- entry
-layout: 
-license: "CC BY-SA 4.0"
+  - toc
+  - entry
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_toc_entry
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_toc_entry
 type: Predi_Relation
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- nonprofit501c24
-- nonprofit501c24
-- Nonprofit501c24
-- is_a_nonprofit501c24
+  - nonprofit501c24
+  - nonprofit501c24
+  - Nonprofit501c24
+  - is_a_nonprofit501c24
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nonprofit501c24
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nonprofit501c24 Class"
+  - nonprofit501c24
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nonprofit501c24 Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nonprofit501c24 Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nonprofit501c24 Class
 type: Type
 ---
 

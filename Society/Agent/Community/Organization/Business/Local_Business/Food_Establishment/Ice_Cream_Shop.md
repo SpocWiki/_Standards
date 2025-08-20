@@ -1,26 +1,27 @@
 ---
 aliases:
-- ice-cream-shop
-- ice_cream_shop
-- IceCreamShop
-- is_an_ice_cream_shop
+  - ice-cream-shop
+  - ice_cream_shop
+  - IceCreamShop
+  - is_an_ice_cream_shop
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ice_cream_shop
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_ice_cream_shop Class"
+  - ice_cream_shop
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_ice_cream_shop Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_ice_cream_shop Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_ice_cream_shop Class
 type: Type
 ---
 

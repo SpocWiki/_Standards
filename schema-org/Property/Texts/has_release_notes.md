@@ -1,26 +1,28 @@
 ---
 aliases:
-- release-notes
-- release_notes
-- releaseNotes
-- has_text_of_release_notes
+  - release-notes
+  - release_notes
+  - releaseNotes
+  - has_text_of_release_notes
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- release
-- notes
-layout: 
-license: "CC BY-SA 4.0"
+  - release
+  - notes
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_release_notes
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_release_notes
 type: Pred_Text
 ---

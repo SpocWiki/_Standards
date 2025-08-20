@@ -1,27 +1,28 @@
 ---
 aliases:
-- single-player
-- single_player
-- SinglePlayer
-- is_a_single_player
+  - single-player
+  - single_player
+  - SinglePlayer
+  - is_a_single_player
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: GamePlayMode
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- single_player
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_single_player Class"
+  - single_player
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_single_player Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_single_player Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_single_player Class
 type: Type
 ---
 

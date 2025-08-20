@@ -1,26 +1,28 @@
 ---
 aliases:
-- typical-test
-- typical_test
-- typicalTest
-- has_typical_test
+  - typical-test
+  - typical_test
+  - typicalTest
+  - has_typical_test
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- typical
-- test
-layout: 
-license: "CC BY-SA 4.0"
+  - typical
+  - test
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_typical_test
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_typical_test
 type: Predi_Relation
 ---

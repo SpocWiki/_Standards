@@ -1,26 +1,27 @@
 ---
 aliases:
-- otc
-- OTC
-- is_an_otc
+  - otc
+  - OTC
+  - is_an_otc
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DrugPrescriptionStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- otc
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_otc Class"
+  - otc
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_otc Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_otc Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_otc Class
 type: Type
 ---
 

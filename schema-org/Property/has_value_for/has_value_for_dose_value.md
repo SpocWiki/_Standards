@@ -1,25 +1,27 @@
 ---
 aliases:
-- dose_value
-- dose-value
-- doseValue
-- has_value_for_dose
+  - dose_value
+  - dose-value
+  - doseValue
+  - has_value_for_dose
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dose-value
-layout: 
-license: "CC BY-SA 4.0"
+  - dose-value
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_dose-value
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_dose-value
 type: Predi_Quantity
 ---

@@ -1,48 +1,48 @@
 ---
 instance_of:
-- "[[_Standards/WikiData/WD~island_country,112099]]"
-- "[[_Standards/WikiData/WD~unitary_state,179164]]"
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-- "[[_Standards/WikiData/WD~archipelagic_state,13107770]]"
-- '[[_Standards/WikiData/WD~country,6256]]'
+  - "[[_Standards/WikiData/WD~island_country,112099]]"
+  - "[[_Standards/WikiData/WD~unitary_state,179164]]"
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~archipelagic_state,13107770]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Fiji,167927]]"
 member_of:
-- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
-- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
-- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-- "[[_Standards/WikiData/WD~United_Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Eastern_Division,182169]]"
-- '[[_Standards/WikiData/WD~Rotuma,459763]]'
-- "[[_Standards/WikiData/WD~Central_Division,1053789]]"
-- "[[_Standards/WikiData/WD~Northern_Division,1062430]]"
-- "[[_Standards/WikiData/WD~Western_Division,1062451]]"
+  - "[[_Standards/WikiData/WD~Eastern_Division,182169]]"
+  - "[[_Standards/WikiData/WD~Rotuma,459763]]"
+  - "[[_Standards/WikiData/WD~Central_Division,1053789]]"
+  - "[[_Standards/WikiData/WD~Northern_Division,1062430]]"
+  - "[[_Standards/WikiData/WD~Western_Division,1062451]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Fiji,182514]]"
 anthem: "[[_Standards/WikiData/WD~God_Bless_Fiji,211130]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~911,533806]]'
-- '[[_Standards/WikiData/WD~000,2806478]]'
-- '[[_Standards/WikiData/WD~919,25648815]]'
+  - "[[_Standards/WikiData/WD~911,533806]]"
+  - "[[_Standards/WikiData/WD~000,2806478]]"
+  - "[[_Standards/WikiData/WD~919,25648815]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 head_of_government: "[[_Standards/WikiData/WD~Sitiveni_Rabuka,981549]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Fiji,1469153]]"
 highest_point: "[[_Standards/WikiData/WD~Mount_Tomanivi,1513944]]"
@@ -53,106 +53,106 @@ economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Fiji,2726945]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Fiji,3044364]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Fiji,3055375]]"
 language_used:
-- "[[_Standards/WikiData/WD~Western_Fijian,3062751]]"
-- "[[_Standards/WikiData/WD~Gone_Dau,3110470]]"
-- '[[_Standards/WikiData/WD~Lomaiviti,3130221]]'
-- '[[_Standards/WikiData/WD~Namosi-Naitasiri-Serua,3130290]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Fijian,33295]]'
-- '[[_Standards/WikiData/WD~Lauan,35682]]'
-- '[[_Standards/WikiData/WD~Rotuman,36754]]'
-- "[[_Standards/WikiData/WD~Fiji_Hindi,46728]]"
+  - "[[_Standards/WikiData/WD~Western_Fijian,3062751]]"
+  - "[[_Standards/WikiData/WD~Gone_Dau,3110470]]"
+  - "[[_Standards/WikiData/WD~Lomaiviti,3130221]]"
+  - "[[_Standards/WikiData/WD~Namosi-Naitasiri-Serua,3130290]]"
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Fijian,33295]]"
+  - "[[_Standards/WikiData/WD~Lauan,35682]]"
+  - "[[_Standards/WikiData/WD~Rotuman,36754]]"
+  - "[[_Standards/WikiData/WD~Fiji_Hindi,46728]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Fiji,4345425]]"
 replaces: "[[_Standards/WikiData/WD~Dominion_of_Fiji,5291089]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Fiji,7112261]]"
-different_from: '[[_Standards/WikiData/WD~Q9259435,9259435]]'
+different_from: "[[_Standards/WikiData/WD~Q9259435,9259435]]"
 culture: "[[_Standards/WikiData/WD~culture_of_Fiji,10750092]]"
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13207839,13207839]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fiji,18882015]]'
+driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q13207839,13207839]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Fiji,18882015]]"
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Pacific_Fiji,63285964]]'
-- '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
+  - "[[_Standards/WikiData/WD~Pacific_Fiji,63285964]]"
+  - "[[_Standards/WikiData/WD~UTC+12_00,7105]]"
 part_of:
-- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
-- '[[_Standards/WikiData/WD~Melanesia,37394]]'
+  - "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
+  - "[[_Standards/WikiData/WD~Melanesia,37394]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Fiji,76292543]]"
 head_of_state: "[[_Standards/WikiData/WD~Wiliame_Katonivere,109012733]]"
-coordinates_of_northernmost_point: "Point(176.98 -12.47)"
+coordinates_of_northernmost_point: Point(176.98 -12.47)
 UMLS_CUI: C0016080
 demonym:
-- فيدجية
-- فيدجيين
-- فيدجيات
-- Fidsíoch
-- فيجية
-- fijià
-- Fijian
-- Fidjien
-- figiano
-- fijian
-- viti
-- فيجيون
-- فيجي
-- فيدجي
-- fixana
-- fixanu
-- ফিজিয়ান
-- fijiana
-- fijianer
-- Fidjienne
-- "פיג'יאני"
-- "פיג'יאנית"
-- Fidzsi-szigeteki
-- figiana
-- figiane
-- figiani
-- фиджийцы
-- fizan
-- fizana
-- fizane
-- fizani
-ISNI: 0000000405566054
+  - فيدجية
+  - فيدجيين
+  - فيدجيات
+  - Fidsíoch
+  - فيجية
+  - fijià
+  - Fijian
+  - Fidjien
+  - figiano
+  - fijian
+  - viti
+  - فيجيون
+  - فيجي
+  - فيدجي
+  - fixana
+  - fixanu
+  - ফিজিয়ান
+  - fijiana
+  - fijianer
+  - Fidjienne
+  - פיג'יאני
+  - פיג'יאנית
+  - Fidzsi-szigeteki
+  - figiana
+  - figiane
+  - figiani
+  - фиджийцы
+  - fizan
+  - fizana
+  - fizane
+  - fizani
+ISNI: 405566054
 motto_text:
-- "Ble mae Hapusrwydd yn eich Canfod"
-- "Бой се от Бога, почитай кралицата"
-- "Fear God and honour the Queen"
-- "Where Happiness Finds You"
-- "Rerevaka na Kalou ka Doka na Tui"
-coordinates_of_easternmost_point: "Point(-178.25 -19.816666666)"
-coordinate_location: "Point(178.0 -18.0)"
+  - Ble mae Hapusrwydd yn eich Canfod
+  - Бой се от Бога, почитай кралицата
+  - Fear God and honour the Queen
+  - Where Happiness Finds You
+  - Rerevaka na Kalou ka Doka na Tui
+coordinates_of_easternmost_point: Point(-178.25 -19.816666666)
+coordinate_location: Point(178.0 -18.0)
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North_Korea,423]]"
-- "[[_Standards/WikiData/WD~New_Zealand,664]]"
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Tuvalu,672]]'
-- '[[_Standards/WikiData/WD~Tonga,678]]'
-- "[[_Standards/WikiData/WD~Solomon_Islands,685]]"
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~South_Korea,884]]"
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~United_States,30]]"
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~New_Zealand,664]]"
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Tuvalu,672]]"
+  - "[[_Standards/WikiData/WD~Tonga,678]]"
+  - "[[_Standards/WikiData/WD~Solomon_Islands,685]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Malaysia,833]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~South_Korea,884]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252]]"
 continent: "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
 shares_border_with: "[[_Standards/WikiData/WD~Solomon_Islands,685]]"
-country: '[[_Standards/WikiData/WD~Fiji,712]]'
+country: "[[_Standards/WikiData/WD~Fiji,712]]"
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Fijian,33295]]'
-- "[[_Standards/WikiData/WD~Fiji_Hindi,46728]]"
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Fijian,33295]]"
+  - "[[_Standards/WikiData/WD~Fiji_Hindi,46728]]"
 lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 inception: "1970"
-has_time_started: 1970-06 
+has_time_started: 1970-06
 suicide_rate: 5
 unemployment_rate: 8
 VAT_rate: 15
@@ -161,9 +161,9 @@ age_of_majority: 18
 mains_voltage: 240
 life_expectancy: 68
 Human_Development_Index: 0.73
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Melanesia,37394]]'
-capital: '[[_Standards/WikiData/WD~Suva,38807]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.fj,39878]]'
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Melanesia,37394]]"
+capital: "[[_Standards/WikiData/WD~Suva,38807]]"
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.fj,39878]]"
 Gini_coefficient: 30.7
 Democracy_Index: 5.72
 Inequality_adjusted_Human_Development_Index: 0.608
@@ -202,89 +202,90 @@ female_population:
 Krugosvet_article: strany_mira/FIDZHI.html
 MeSH_tree_code: Z01.639.760.590.373
 native_label:
-- "Republic of Fiji"
-- "Matanitu Tugalala o Viti"
-- Viti
-- "Fidźi Ganaradźja"
+  - Republic of Fiji
+  - Matanitu Tugalala o Viti
+  - Viti
+  - Fidźi Ganaradźja
 official_name:
-- "Republic of Fiji"
-- "Matanitu ko Viti"
-- Viti
-- "République des Fidji"
-- Fiji
+  - Republic of Fiji
+  - Matanitu ko Viti
+  - Viti
+  - République des Fidji
+  - Fiji
 short_name:
-- Viti
-- "\U0001F1EB\U0001F1EF"
-- Fiji
-coordinates_of_southernmost_point: "Point(174.64 -21.73833)"
+  - Viti
+  - 🇫🇯
+  - Fiji
+coordinates_of_southernmost_point: Point(174.64 -21.73833)
 nominal_GDP:
   - 4943248200
   - 4296235428
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Fiji.svg"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Fiji.svg
 PM20_geo_code: D40
 population: 926276
 IOC_country_code: FIJ
-coordinates_of_westernmost_point: "Point(176.9292 -17.1379)"
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Fiji.svg"
+coordinates_of_westernmost_point: Point(176.9292 -17.1379)
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Fiji.svg
 Commons_category: Fiji
 hashtag: Fiji
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fiji%20%28orthographic%20projection%29.svg"
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Fiji%20%28orthographic%20projection%29.svg
 ISO_3166_1_alpha_2_code: FJ
 WIPO_ST_3: FJ
 FIPS_10_4_countries_and_regions_: FJ
 licence_plate_code: FJI
 ISO_3166_1_alpha_3_code: FJI
 ITU_letter_code: FJI
-geoshape: "http://commons.wikimedia.org/data/main/Data:Fiji.map"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D1%83%D0%B8%D0%BD%D1%81-%D1%80%D0%BE%D1%83%D0%B4%2C%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%20%D0%9D%D0%B0%D0%BD%D0%B4%D0%B8%20%28Queens%20Rd.%2C%20Nadi%29.jpg"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Fiji%20banner%20Shangri-La%20Fijian%20Resort.jpg"
+geoshape: http://commons.wikimedia.org/data/main/Data:Fiji.map
+image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D1%83%D0%B8%D0%BD%D1%81-%D1%80%D0%BE%D1%83%D0%B4%2C%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%20%D0%9D%D0%B0%D0%BD%D0%B4%D0%B8%20%28Queens%20Rd.%2C%20Nadi%29.jpg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Fiji%20banner%20Shangri-La%20Fijian%20Resort.jpg
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Fidschi.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Fiji.wav"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Fiji-article.ogg"
-official_website: "https://www.fiji.gov.fj/Home"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Fidschi.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Fiji.wav
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Fiji-article.ogg
+official_website: https://www.fiji.gov.fj/Home
 IPA_transcription: "'fɪdʂɪ"
-country_calling_code: +679
+country_calling_code: 679
 U_S_National_Archives_Identifier: 10044435
 Libris_URI: 42gjh1pn1qq3mrr
-Wolfram_Language_entity_code: "Entity[\"Country\", \"Fiji\"]"
+Wolfram_Language_entity_code: Entity["Country", "Fiji"]
 CIVICUS_Monitor_country_entry: fiji
-Commons_gallery: "Fiji / Viti"
+Commons_gallery: Fiji / Viti
 subreddit: FijiIslands
-Unicode_character: 🇫🇯 
+Unicode_character: 🇫🇯
 has_id_wikidata: Q712
 location:
-    - -18.1667
-    - 178.45
+  - -18.1667
+  - 178.45
 type: Country
 tags:
-    - geo/Country
+  - geo/Country
 SpocWebEntityId: 26892
 isDeleted: false
 confidential: public
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 isReadOnly: false
-source: "https://datahub.io/core/country-codes"
-cssclasses: Country
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
 publish: true
 title: Fiji
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Fiji
-- Fidji
-- فيجي
-- 斐济
-- Фиджи
-- "the Republic of Fiji"
-- "la República de Fiji"
+  - Fiji
+  - Fidji
+  - فيجي
+  - 斐济
+  - Фиджи
+  - the Republic of Fiji
+  - la República de Fiji
 Languages:
-    - en-FJ
-    - fj
+  - en-FJ
+  - fj
 icon: flag-fj
 ---
 

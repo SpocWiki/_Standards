@@ -1,27 +1,28 @@
 ---
 aliases:
-- mixed-event-attendance-mode
-- mixed_event_attendance_mode
-- MixedEventAttendanceMode
-- is_a_mixed_event_attendance_mode
+  - mixed-event-attendance-mode
+  - mixed_event_attendance_mode
+  - MixedEventAttendanceMode
+  - is_a_mixed_event_attendance_mode
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: EventAttendanceModeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- mixed_event_attendance_mode
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_mixed_event_attendance_mode Class"
+  - mixed_event_attendance_mode
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_mixed_event_attendance_mode Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_mixed_event_attendance_mode Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_mixed_event_attendance_mode Class
 type: Type
 ---
 

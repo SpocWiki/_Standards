@@ -1,26 +1,27 @@
 ---
 aliases:
-- search-rescue-organization
-- search_rescue_organization
-- SearchRescueOrganization
-- is_a_search_rescue_organization
+  - search-rescue-organization
+  - search_rescue_organization
+  - SearchRescueOrganization
+  - is_a_search_rescue_organization
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- search_rescue_organization
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_search_rescue_organization Class"
+  - search_rescue_organization
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_search_rescue_organization Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_search_rescue_organization Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_search_rescue_organization Class
 type: Type
 ---
 

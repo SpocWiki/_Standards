@@ -1,26 +1,28 @@
 ---
 aliases:
-- tax-id
-- id_tax
-- taxID
-- has_id_tax
+  - tax-id
+  - id_tax
+  - taxID
+  - has_id_tax
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tax
-- id
-layout: 
-license: "CC BY-SA 4.0"
+  - tax
+  - id
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_tax
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_tax
 type: Pred_Text
 ---

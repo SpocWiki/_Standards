@@ -1,27 +1,28 @@
 ---
 aliases:
-- low-calorie-diet
-- low_calorie_diet
-- LowCalorieDiet
-- is_a_low_calorie_diet
+  - low-calorie-diet
+  - low_calorie_diet
+  - LowCalorieDiet
+  - is_a_low_calorie_diet
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- low_calorie_diet
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_low_calorie_diet Class"
+  - low_calorie_diet
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_low_calorie_diet Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_low_calorie_diet Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_low_calorie_diet Class
 type: Type
 ---
 

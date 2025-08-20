@@ -1,25 +1,27 @@
 ---
 aliases:
-- sponsor
-- sponsor
-- sponsor
-- has_sponsor
+  - sponsor
+  - sponsor
+  - sponsor
+  - has_sponsor
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sponsor
-layout: 
-license: "CC BY-SA 4.0"
+  - sponsor
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sponsor
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sponsor
 type: Predi_Relation
 ---

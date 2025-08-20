@@ -1,24 +1,26 @@
 ---
 aliases:
-- includes-health-plan-network
-- including_health_plan_network
-- includesHealthPlanNetwork
-- is_including_health_plan_network
+  - includes-health-plan-network
+  - including_health_plan_network
+  - includesHealthPlanNetwork
+  - is_including_health_plan_network
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_including_health_plan_network
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_including_health_plan_network
 type: Predi_Relation
 ---

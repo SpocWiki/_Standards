@@ -1,27 +1,29 @@
 ---
 aliases:
-- has-map
-- map
-- hasMap
-- has_map
-- has_place_map
+  - has-map
+  - map
+  - hasMap
+  - has_map
+  - has_place_map
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- map
-layout: 
-license: "CC BY-SA 4.0"
+  - map
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_place_map
 publish: true
-publishDate: 
-supersedes: "map, maps"
+publishDate:
+supersedes: map, maps
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_place_map
 type: Predi_Relation
 ---

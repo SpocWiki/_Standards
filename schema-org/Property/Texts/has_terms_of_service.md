@@ -1,27 +1,29 @@
 ---
 aliases:
-- terms-of-service
-- terms_of_service
-- termsOfService
-- has_text_of_terms_of_service
+  - terms-of-service
+  - terms_of_service
+  - termsOfService
+  - has_text_of_terms_of_service
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- terms
-- of
-- service
-layout: 
-license: "CC BY-SA 4.0"
+  - terms
+  - of
+  - service
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_terms_of_service
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_terms_of_service
 type: Pred_Text
 ---

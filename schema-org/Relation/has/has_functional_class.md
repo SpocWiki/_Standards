@@ -1,26 +1,28 @@
 ---
 aliases:
-- functional-class
-- functional_class
-- functionalClass
-- has_functional_class
+  - functional-class
+  - functional_class
+  - functionalClass
+  - has_functional_class
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- functional
-- class
-layout: 
-license: "CC BY-SA 4.0"
+  - functional
+  - class
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_functional_class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_functional_class
 type: Predi_Relation
 ---

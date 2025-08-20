@@ -1,26 +1,27 @@
 ---
 aliases:
-- hardware-store
-- hardware_store
-- HardwareStore
-- is_a_hardware_store
+  - hardware-store
+  - hardware_store
+  - HardwareStore
+  - is_a_hardware_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hardware_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hardware_store Class"
+  - hardware_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hardware_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hardware_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hardware_store Class
 type: Type
 ---
 

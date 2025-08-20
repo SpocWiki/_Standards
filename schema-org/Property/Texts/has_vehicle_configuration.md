@@ -1,26 +1,28 @@
 ---
 aliases:
-- vehicle-configuration
-- vehicle_configuration
-- vehicleConfiguration
-- has_text_of_vehicle_configuration
+  - vehicle-configuration
+  - vehicle_configuration
+  - vehicleConfiguration
+  - has_text_of_vehicle_configuration
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- vehicle
-- configuration
-layout: 
-license: "CC BY-SA 4.0"
+  - vehicle
+  - configuration
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_vehicle_configuration
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_vehicle_configuration
 type: Pred_Text
 ---

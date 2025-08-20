@@ -1,26 +1,28 @@
 ---
 aliases:
-- shipping-origin
-- shipping_origin
-- shippingOrigin
-- has_shipping_origin
+  - shipping-origin
+  - shipping_origin
+  - shippingOrigin
+  - has_shipping_origin
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- shipping
-- origin
-layout: 
-license: "CC BY-SA 4.0"
+  - shipping
+  - origin
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_shipping_origin
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_shipping_origin
 type: Predi_Relation
 ---

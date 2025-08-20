@@ -1,25 +1,27 @@
 ---
 aliases:
-- cvd_num_icu_beds
-- cvd-num-icu-beds
-- cvdNumICUBeds
-- has_number_of_Covid_icu_beds
+  - cvd_num_icu_beds
+  - cvd-num-icu-beds
+  - cvdNumICUBeds
+  - has_number_of_Covid_icu_beds
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cvd-num-icu-beds
-layout: 
-license: "CC BY-SA 4.0"
+  - cvd-num-icu-beds
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_cvd-num-icu-beds
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_cvd-num-icu-beds
 type: Predi_Count
 ---

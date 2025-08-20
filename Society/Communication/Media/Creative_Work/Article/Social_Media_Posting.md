@@ -1,26 +1,27 @@
 ---
 aliases:
-- social-media-posting
-- social_media_posting
-- SocialMediaPosting
-- is_a_social_media_posting
+  - social-media-posting
+  - social_media_posting
+  - SocialMediaPosting
+  - is_a_social_media_posting
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- social_media_posting
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_social_media_posting Class"
+  - social_media_posting
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_social_media_posting Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_social_media_posting Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_social_media_posting Class
 type: Type
 ---
 

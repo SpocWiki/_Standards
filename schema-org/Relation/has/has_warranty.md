@@ -1,26 +1,28 @@
 ---
 aliases:
-- warranty
-- warranty
-- warranty
-- has_warranty
+  - warranty
+  - warranty
+  - warranty
+  - has_warranty
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- warranty
-layout: 
-license: "CC BY-SA 4.0"
+  - warranty
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_warranty
 publish: true
-publishDate: 
+publishDate:
 supersedes: warrantyPromise
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_warranty
 type: Predi_Relation
 ---

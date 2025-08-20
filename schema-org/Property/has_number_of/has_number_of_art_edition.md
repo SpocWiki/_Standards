@@ -1,25 +1,27 @@
 ---
 aliases:
-- art-edition
-- art_edition
-- artEdition
-- has_number_of_art_edition
+  - art-edition
+  - art_edition
+  - artEdition
+  - has_number_of_art_edition
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- art_edition
-layout: 
-license: "CC BY-SA 4.0"
+  - art_edition
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_art_edition
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_art_edition
 type: Predi_Count
 ---

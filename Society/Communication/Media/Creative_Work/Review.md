@@ -1,26 +1,27 @@
 ---
 aliases:
-- review
-- review
-- Review
-- is_a_review
+  - review
+  - review
+  - Review
+  - is_a_review
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- review
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_review Class"
+  - review
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_review Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_review Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_review Class
 type: Type
 ---
 

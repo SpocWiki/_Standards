@@ -1,26 +1,28 @@
 ---
 aliases:
-- nerve-motor
-- nerve_motor
-- nerveMotor
-- has_nerve_motor
+  - nerve-motor
+  - nerve_motor
+  - nerveMotor
+  - has_nerve_motor
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nerve
-- motor
-layout: 
-license: "CC BY-SA 4.0"
+  - nerve
+  - motor
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_nerve_motor
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_nerve_motor
 type: Predi_Relation
 ---

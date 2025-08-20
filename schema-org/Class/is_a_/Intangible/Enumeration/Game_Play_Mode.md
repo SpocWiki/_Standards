@@ -1,26 +1,27 @@
 ---
 aliases:
-- game-play-mode
-- game_play_mode
-- GamePlayMode
-- is_a_game_play_mode
+  - game-play-mode
+  - game_play_mode
+  - GamePlayMode
+  - is_a_game_play_mode
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- game_play_mode
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_game_play_mode Class"
+  - game_play_mode
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_game_play_mode Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_game_play_mode Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_game_play_mode Class
 type: Type
 ---
 

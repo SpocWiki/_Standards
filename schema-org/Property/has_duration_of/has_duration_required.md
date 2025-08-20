@@ -1,24 +1,26 @@
 ---
 aliases:
-- time-required
-- time_required
-- timeRequired
-- has_duration_required
+  - time-required
+  - time_required
+  - timeRequired
+  - has_duration_required
 confidential: public
-cssclasses: "Predicate Duration"
+cssclasses:
+  - Predicate
+  - Duration
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+keywords:
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Durations
+  - class/Property
+  - schema-org/Property/Durations
 title: has_duration_required
 type: Predi_Duration
 ---

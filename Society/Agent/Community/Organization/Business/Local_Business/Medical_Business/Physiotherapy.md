@@ -1,27 +1,28 @@
 ---
 aliases:
-- physiotherapy
-- physiotherapy
-- Physiotherapy
-- is_a_physiotherapy
+  - physiotherapy
+  - physiotherapy
+  - Physiotherapy
+  - is_a_physiotherapy
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- physiotherapy
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_physiotherapy Class"
+  - physiotherapy
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_physiotherapy Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_physiotherapy Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_physiotherapy Class
 type: Type
 ---
 

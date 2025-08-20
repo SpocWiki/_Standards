@@ -1,26 +1,27 @@
 ---
 aliases:
-- office-equipment-store
-- office_equipment_store
-- OfficeEquipmentStore
-- is_an_office_equipment_store
+  - office-equipment-store
+  - office_equipment_store
+  - OfficeEquipmentStore
+  - is_an_office_equipment_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- office_equipment_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_office_equipment_store Class"
+  - office_equipment_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_office_equipment_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_office_equipment_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_office_equipment_store Class
 type: Type
 ---
 

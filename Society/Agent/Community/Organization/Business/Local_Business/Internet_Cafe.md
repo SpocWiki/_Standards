@@ -1,26 +1,27 @@
 ---
 aliases:
-- internet-cafe
-- internet_cafe
-- InternetCafe
-- is_an_internet_cafe
+  - internet-cafe
+  - internet_cafe
+  - InternetCafe
+  - is_an_internet_cafe
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- internet_cafe
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_internet_cafe Class"
+  - internet_cafe
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_internet_cafe Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_internet_cafe Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_internet_cafe Class
 type: Type
 ---
 

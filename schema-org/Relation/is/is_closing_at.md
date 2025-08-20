@@ -1,25 +1,27 @@
 ---
 aliases:
-- closes
-- closes
-- closes
-- is_closing_at
+  - closes
+  - closes
+  - closes
+  - is_closing_at
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- closes
-layout: 
-license: "CC BY-SA 4.0"
+  - closes
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_closing_at
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_closing_at
 type: Predi_Relation
 ---

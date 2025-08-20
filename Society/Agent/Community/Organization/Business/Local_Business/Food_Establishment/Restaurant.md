@@ -1,26 +1,27 @@
 ---
 aliases:
-- restaurant
-- restaurant
-- Restaurant
-- is_a_restaurant
+  - restaurant
+  - restaurant
+  - Restaurant
+  - is_a_restaurant
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- restaurant
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_restaurant Class"
+  - restaurant
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_restaurant Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_restaurant Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_restaurant Class
 type: Type
 ---
 

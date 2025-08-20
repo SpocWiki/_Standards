@@ -1,26 +1,28 @@
 ---
 aliases:
-- interactivity-type
-- interactivity_type
-- interactivityType
-- has_text_of_interactivity_type
+  - interactivity-type
+  - interactivity_type
+  - interactivityType
+  - has_text_of_interactivity_type
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- interactivity
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - interactivity
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_interactivity_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_interactivity_type
 type: Pred_Text
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- plan-action
-- plan_action
-- PlanAction
-- is_a_plan_action
+  - plan-action
+  - plan_action
+  - PlanAction
+  - is_a_plan_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- plan_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_plan_action Class"
+  - plan_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_plan_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_plan_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_plan_action Class
 type: Type
 ---
 

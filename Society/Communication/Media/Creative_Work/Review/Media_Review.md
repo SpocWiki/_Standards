@@ -1,26 +1,27 @@
 ---
 aliases:
-- media-review
-- media_review
-- MediaReview
-- is_a_media_review
+  - media-review
+  - media_review
+  - MediaReview
+  - is_a_media_review
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- media_review
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_media_review Class"
+  - media_review
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_media_review Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_media_review Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_media_review Class
 type: Type
 ---
 

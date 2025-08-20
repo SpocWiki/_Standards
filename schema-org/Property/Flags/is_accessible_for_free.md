@@ -1,26 +1,28 @@
 ---
 aliases:
-- accessible-for-free
-- accessible_for_free
-- isAccessibleForFree
-- is_accessible_for_free
+  - accessible-for-free
+  - accessible_for_free
+  - isAccessibleForFree
+  - is_accessible_for_free
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- accessible_for_free
-layout: 
-license: "CC BY-SA 4.0"
+  - accessible_for_free
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_accessible_for_free
 publish: true
-publishDate: 
+publishDate:
 supersedes: free
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_accessible_for_free
 type: Pred_Bool
 ---

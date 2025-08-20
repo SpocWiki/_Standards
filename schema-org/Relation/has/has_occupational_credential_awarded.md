@@ -1,27 +1,29 @@
 ---
 aliases:
-- occupational-credential-awarded
-- occupational_credential_awarded
-- occupationalCredentialAwarded
-- has_occupational_credential_awarded
+  - occupational-credential-awarded
+  - occupational_credential_awarded
+  - occupationalCredentialAwarded
+  - has_occupational_credential_awarded
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- occupational
-- credential
-- awarded
-layout: 
-license: "CC BY-SA 4.0"
+  - occupational
+  - credential
+  - awarded
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_occupational_credential_awarded
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_occupational_credential_awarded
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- size-specification
-- size_specification
-- SizeSpecification
-- is_a_size_specification
+  - size-specification
+  - size_specification
+  - SizeSpecification
+  - is_a_size_specification
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- size_specification
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_size_specification Class"
+  - size_specification
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_size_specification Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_size_specification Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_size_specification Class
 type: Type
 ---
 

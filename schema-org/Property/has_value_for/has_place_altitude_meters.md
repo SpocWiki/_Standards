@@ -1,25 +1,27 @@
 ---
 aliases:
-- altitude_meters
-- altitude
-- has_value_for_altitude_meters
-- has_place_altitude_meters
+  - altitude_meters
+  - altitude
+  - has_value_for_altitude_meters
+  - has_place_altitude_meters
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- altitude
-layout: 
-license: "CC BY-SA 4.0"
+  - altitude
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_altitude_meters
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_altitude_meters
 type: Predi_Quantity
 ---

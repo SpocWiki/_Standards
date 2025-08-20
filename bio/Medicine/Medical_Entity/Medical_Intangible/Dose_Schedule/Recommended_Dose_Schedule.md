@@ -1,26 +1,27 @@
 ---
 aliases:
-- recommended-dose-schedule
-- recommended_dose_schedule
-- RecommendedDoseSchedule
-- is_a_recommended_dose_schedule
+  - recommended-dose-schedule
+  - recommended_dose_schedule
+  - RecommendedDoseSchedule
+  - is_a_recommended_dose_schedule
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- recommended_dose_schedule
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_recommended_dose_schedule Class"
+  - recommended_dose_schedule
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_recommended_dose_schedule Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_recommended_dose_schedule Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_recommended_dose_schedule Class
 type: Type
 ---
 

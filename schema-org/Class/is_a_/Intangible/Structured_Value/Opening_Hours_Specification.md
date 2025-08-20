@@ -1,26 +1,27 @@
 ---
 aliases:
-- opening-hours-specification
-- opening_hours_specification
-- OpeningHoursSpecification
-- is_an_opening_hours_specification
+  - opening-hours-specification
+  - opening_hours_specification
+  - OpeningHoursSpecification
+  - is_an_opening_hours_specification
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- opening_hours_specification
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_opening_hours_specification Class"
+  - opening_hours_specification
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_opening_hours_specification Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_opening_hours_specification Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_opening_hours_specification Class
 type: Type
 ---
 

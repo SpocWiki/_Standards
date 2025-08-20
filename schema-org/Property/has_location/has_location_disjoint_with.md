@@ -1,25 +1,27 @@
 ---
 aliases:
-- geo-disjoint
-- geo_disjoint
-- geoDisjoint
-- has_location_disjoint
+  - geo-disjoint
+  - geo_disjoint
+  - geoDisjoint
+  - has_location_disjoint
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- geo_disjoint
-layout: 
-license: "CC BY-SA 4.0"
+  - geo_disjoint
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_disjoint
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_disjoint
 type: Pred_geo
 ---

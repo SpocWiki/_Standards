@@ -1,26 +1,27 @@
 ---
 aliases:
-- offer
-- offer
-- Offer
-- is_an_offer
+  - offer
+  - offer
+  - Offer
+  - is_an_offer
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- offer
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_offer Class"
+  - offer
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_offer Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_offer Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_offer Class
 type: Type
 ---
 

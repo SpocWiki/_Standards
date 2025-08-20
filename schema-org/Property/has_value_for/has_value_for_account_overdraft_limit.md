@@ -1,25 +1,27 @@
 ---
 aliases:
-- account_overdraft_limit
-- account-overdraft-limit
-- accountOverdraftLimit
-- has_value_for_account_overdraft_limit
+  - account_overdraft_limit
+  - account-overdraft-limit
+  - accountOverdraftLimit
+  - has_value_for_account_overdraft_limit
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- account-overdraft-limit
-layout: 
-license: "CC BY-SA 4.0"
+  - account-overdraft-limit
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_account-overdraft-limit
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_account-overdraft-limit
 type: Predi_Quantity
 ---

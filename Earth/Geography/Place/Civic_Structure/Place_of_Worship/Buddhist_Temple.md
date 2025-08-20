@@ -1,26 +1,27 @@
 ---
 aliases:
-- buddhist-temple
-- buddhist_temple
-- BuddhistTemple
-- is_a_buddhist_temple
+  - buddhist-temple
+  - buddhist_temple
+  - BuddhistTemple
+  - is_a_buddhist_temple
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- buddhist_temple
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_buddhist_temple Class"
+  - buddhist_temple
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_buddhist_temple Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_buddhist_temple Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_buddhist_temple Class
 type: Type
 ---
 

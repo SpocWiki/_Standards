@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-trial
-- medical_trial
-- MedicalTrial
-- is_a_medical_trial
+  - medical-trial
+  - medical_trial
+  - MedicalTrial
+  - is_a_medical_trial
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_trial
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_trial Class"
+  - medical_trial
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_trial Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_trial Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_trial Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- business-days
-- business_days
-- businessDays
-- has_business_days
+  - business-days
+  - business_days
+  - businessDays
+  - has_business_days
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- business
-- days
-layout: 
-license: "CC BY-SA 4.0"
+  - business
+  - days
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_business_days
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_business_days
 type: Predi_Relation
 ---

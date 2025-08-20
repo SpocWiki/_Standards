@@ -1,26 +1,27 @@
 ---
 aliases:
-- bus-trip
-- bus_trip
-- BusTrip
-- is_a_bus_trip
+  - bus-trip
+  - bus_trip
+  - BusTrip
+  - is_a_bus_trip
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bus_trip
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_bus_trip Class"
+  - bus_trip
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_bus_trip Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_bus_trip Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_bus_trip Class
 type: Type
 ---
 

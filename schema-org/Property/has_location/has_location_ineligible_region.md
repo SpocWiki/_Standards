@@ -1,25 +1,27 @@
 ---
 aliases:
-- ineligible-region
-- ineligible_region
-- ineligibleRegion
-- has_location_ineligible_region
+  - ineligible-region
+  - ineligible_region
+  - ineligibleRegion
+  - has_location_ineligible_region
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ineligible_region
-layout: 
-license: "CC BY-SA 4.0"
+  - ineligible_region
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_ineligible_region
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_ineligible_region
 type: Pred_geo
 ---

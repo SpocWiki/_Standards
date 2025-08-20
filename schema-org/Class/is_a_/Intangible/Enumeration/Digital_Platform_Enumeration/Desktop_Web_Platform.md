@@ -1,27 +1,28 @@
 ---
 aliases:
-- desktop-web-platform
-- desktop_web_platform
-- DesktopWebPlatform
-- is_a_desktop_web_platform
+  - desktop-web-platform
+  - desktop_web_platform
+  - DesktopWebPlatform
+  - is_a_desktop_web_platform
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DigitalPlatformEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- desktop_web_platform
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_desktop_web_platform Class"
+  - desktop_web_platform
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_desktop_web_platform Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_desktop_web_platform Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_desktop_web_platform Class
 type: Type
 ---
 

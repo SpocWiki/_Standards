@@ -1,26 +1,27 @@
 ---
 aliases:
-- movie-series
-- movie_series
-- MovieSeries
-- is_a_movie_series
+  - movie-series
+  - movie_series
+  - MovieSeries
+  - is_a_movie_series
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- movie_series
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_movie_series Class"
+  - movie_series
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_movie_series Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_movie_series Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_movie_series Class
 type: Type
 ---
 

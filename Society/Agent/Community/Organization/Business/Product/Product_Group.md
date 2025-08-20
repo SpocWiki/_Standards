@@ -1,26 +1,27 @@
 ---
 aliases:
-- product-group
-- product_group
-- ProductGroup
-- is_a_product_group
+  - product-group
+  - product_group
+  - ProductGroup
+  - is_a_product_group
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- product_group
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_product_group Class"
+  - product_group
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_product_group Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_product_group Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_product_group Class
 type: Type
 ---
 

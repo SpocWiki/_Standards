@@ -1,34 +1,35 @@
 ---
 aliases:
-- "New Caledonia"
-- "Nueva Caledonia"
-- Nouvelle-Calédonie
-- "كاليدونيا الجديدة"
-- 新喀里多尼亚
-- "Новая Каледония"
-- 
+  - New Caledonia
+  - Nueva Caledonia
+  - Nouvelle-Calédonie
+  - كاليدونيا الجديدة
+  - 新喀里多尼亚
+  - Новая Каледония
+  - 
 confidential: public
-cssclasses: Country
+cssclasses:
+  - Country
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords:
 Languages:
-- fr-NC
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - fr-NC
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 location:
-- -22.2758
-- 166.458
+  - -22.2758
+  - 166.458
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate:
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26978
 tags:
-- geo/Country
-title: "New Caledonia"
+  - geo/Country
+title: New Caledonia
 type: Country
 ---
 

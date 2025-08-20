@@ -1,25 +1,27 @@
 ---
 aliases:
-- year_built
-- year-built
-- yearBuilt
-- has_value_for_year_built
+  - year_built
+  - year-built
+  - yearBuilt
+  - has_value_for_year_built
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- year-built
-layout: 
-license: "CC BY-SA 4.0"
+  - year-built
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_year-built
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_year-built
 type: Predi_Quantity
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- return-method
-- return_method
-- returnMethod
-- has_return_method
+  - return-method
+  - return_method
+  - returnMethod
+  - has_return_method
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return
-- method
-layout: 
-license: "CC BY-SA 4.0"
+  - return
+  - method
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_return_method
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_return_method
 type: Predi_Relation
 ---

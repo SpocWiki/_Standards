@@ -1,25 +1,27 @@
 ---
 aliases:
-- cost_per_unit
-- cost-per-unit
-- costPerUnit
-- has_value_for_cost_per_unit
+  - cost_per_unit
+  - cost-per-unit
+  - costPerUnit
+  - has_value_for_cost_per_unit
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cost-per-unit
-layout: 
-license: "CC BY-SA 4.0"
+  - cost-per-unit
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_cost-per-unit
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_cost-per-unit
 type: Predi_Quantity
 ---

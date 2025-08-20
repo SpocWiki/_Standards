@@ -1,27 +1,29 @@
 ---
 aliases:
-- serious-adverse-outcome
-- serious_adverse_outcome
-- seriousAdverseOutcome
-- has_serious_adverse_outcome
+  - serious-adverse-outcome
+  - serious_adverse_outcome
+  - seriousAdverseOutcome
+  - has_serious_adverse_outcome
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- serious
-- adverse
-- outcome
-layout: 
-license: "CC BY-SA 4.0"
+  - serious
+  - adverse
+  - outcome
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_serious_adverse_outcome
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_serious_adverse_outcome
 type: Predi_Relation
 ---

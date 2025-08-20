@@ -1,26 +1,27 @@
 ---
 aliases:
-- funding-scheme
-- funding_scheme
-- FundingScheme
-- is_a_funding_scheme
+  - funding-scheme
+  - funding_scheme
+  - FundingScheme
+  - is_a_funding_scheme
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- funding_scheme
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_funding_scheme Class"
+  - funding_scheme
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_funding_scheme Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_funding_scheme Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_funding_scheme Class
 type: Type
 ---
 

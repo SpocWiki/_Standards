@@ -1,26 +1,27 @@
 ---
 aliases:
-- specialty
-- specialty
-- Specialty
-- is_a_specialty
+  - specialty
+  - specialty
+  - Specialty
+  - is_a_specialty
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- specialty
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_specialty Class"
+  - specialty
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_specialty Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_specialty Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_specialty Class
 type: Type
 ---
 

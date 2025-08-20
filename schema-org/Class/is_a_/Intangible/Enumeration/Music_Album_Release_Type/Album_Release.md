@@ -1,27 +1,28 @@
 ---
 aliases:
-- album-release
-- album_release
-- AlbumRelease
-- is_an_album_release
+  - album-release
+  - album_release
+  - AlbumRelease
+  - is_an_album_release
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicAlbumReleaseType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- album_release
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_album_release Class"
+  - album_release
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_album_release Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_album_release Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_album_release Class
 type: Type
 ---
 

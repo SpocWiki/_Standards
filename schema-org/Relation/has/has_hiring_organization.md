@@ -1,26 +1,28 @@
 ---
 aliases:
-- hiring-organization
-- hiring_organization
-- hiringOrganization
-- has_hiring_organization
+  - hiring-organization
+  - hiring_organization
+  - hiringOrganization
+  - has_hiring_organization
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hiring
-- organization
-layout: 
-license: "CC BY-SA 4.0"
+  - hiring
+  - organization
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_hiring_organization
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_hiring_organization
 type: Predi_Relation
 ---

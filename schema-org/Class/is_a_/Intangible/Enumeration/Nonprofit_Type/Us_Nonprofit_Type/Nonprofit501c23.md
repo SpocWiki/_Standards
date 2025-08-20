@@ -1,27 +1,28 @@
 ---
 aliases:
-- nonprofit501c23
-- nonprofit501c23
-- Nonprofit501c23
-- is_a_nonprofit501c23
+  - nonprofit501c23
+  - nonprofit501c23
+  - Nonprofit501c23
+  - is_a_nonprofit501c23
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nonprofit501c23
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nonprofit501c23 Class"
+  - nonprofit501c23
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nonprofit501c23 Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nonprofit501c23 Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nonprofit501c23 Class
 type: Type
 ---
 

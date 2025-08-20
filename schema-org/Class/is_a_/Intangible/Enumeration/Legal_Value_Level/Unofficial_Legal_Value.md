@@ -1,27 +1,28 @@
 ---
 aliases:
-- unofficial-legal-value
-- unofficial_legal_value
-- UnofficialLegalValue
-- is_an_unofficial_legal_value
+  - unofficial-legal-value
+  - unofficial_legal_value
+  - UnofficialLegalValue
+  - is_an_unofficial_legal_value
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: LegalValueLevel
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- unofficial_legal_value
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_unofficial_legal_value Class"
+  - unofficial_legal_value
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_unofficial_legal_value Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_unofficial_legal_value Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_unofficial_legal_value Class
 type: Type
 ---
 

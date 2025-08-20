@@ -1,25 +1,27 @@
 ---
 aliases:
-- emissions_co2
-- emissions-co2
-- emissionsCO2
-- has_value_for_emissions_co2_in_Gram_per_km
+  - emissions_co2
+  - emissions-co2
+  - emissionsCO2
+  - has_value_for_emissions_co2_in_Gram_per_km
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- emissions-co2
-layout: 
-license: "CC BY-SA 4.0"
+  - emissions-co2
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_emissions-co2
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_emissions-co2
 type: Predi_Quantity
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- area
-- area
-- area
-- has_location_area
+  - area
+  - area
+  - area
+  - has_location_area
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- area
-layout: 
-license: "CC BY-SA 4.0"
+  - area
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_area
 publish: true
-publishDate: 
+publishDate:
 superseded_by: serviceArea
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_area
 type: Pred_geo
 ---

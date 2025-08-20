@@ -1,25 +1,27 @@
 ---
 aliases:
-- tour-booking-page
-- tour_booking_page
-- tourBookingPage
-- has_url_for_tour_booking_page
+  - tour-booking-page
+  - tour_booking_page
+  - tourBookingPage
+  - has_url_for_tour_booking_page
 confidential: public
-cssclasses: "Predicate Url"
+cssclasses:
+  - Predicate
+  - Url
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tour_booking_page
-layout: 
-license: "CC BY-SA 4.0"
+  - tour_booking_page
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_url_for_tour_booking_page
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Url
+  - class/Property
+  - schema-org/Property/Url
 title: has_url_for_tour_booking_page
 type: Predi_Url
 ---

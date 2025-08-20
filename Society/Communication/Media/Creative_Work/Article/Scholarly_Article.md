@@ -1,26 +1,27 @@
 ---
 aliases:
-- scholarly-article
-- scholarly_article
-- ScholarlyArticle
-- is_a_scholarly_article
+  - scholarly-article
+  - scholarly_article
+  - ScholarlyArticle
+  - is_a_scholarly_article
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- scholarly_article
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_scholarly_article Class"
+  - scholarly_article
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_scholarly_article Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_scholarly_article Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_scholarly_article Class
 type: Type
 ---
 

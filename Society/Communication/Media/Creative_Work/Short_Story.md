@@ -1,26 +1,27 @@
 ---
 aliases:
-- short-story
-- short_story
-- ShortStory
-- is_a_short_story
+  - short-story
+  - short_story
+  - ShortStory
+  - is_a_short_story
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- short_story
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_short_story Class"
+  - short_story
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_short_story Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_short_story Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_short_story Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- supporting-data
-- supporting_data
-- supportingData
-- has_supporting_data
+  - supporting-data
+  - supporting_data
+  - supportingData
+  - has_supporting_data
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- supporting
-- data
-layout: 
-license: "CC BY-SA 4.0"
+  - supporting
+  - data
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_supporting_data
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_supporting_data
 type: Predi_Relation
 ---

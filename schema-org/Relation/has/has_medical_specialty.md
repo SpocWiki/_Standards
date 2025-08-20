@@ -1,26 +1,28 @@
 ---
 aliases:
-- medical-specialty
-- medical_specialty
-- medicalSpecialty
-- has_medical_specialty
+  - medical-specialty
+  - medical_specialty
+  - medicalSpecialty
+  - has_medical_specialty
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical
-- specialty
-layout: 
-license: "CC BY-SA 4.0"
+  - medical
+  - specialty
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_medical_specialty
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_medical_specialty
 type: Predi_Relation
 ---

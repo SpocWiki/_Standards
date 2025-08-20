@@ -1,25 +1,27 @@
 ---
 aliases:
-- volume-number
-- volume_number
-- volumeNumber
-- has_number_of_volume
+  - volume-number
+  - volume_number
+  - volumeNumber
+  - has_number_of_volume
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- volume_number
-layout: 
-license: "CC BY-SA 4.0"
+  - volume_number
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_volume_number
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_volume_number
 type: Predi_Count
 ---

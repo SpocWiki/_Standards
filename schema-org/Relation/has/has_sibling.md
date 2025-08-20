@@ -1,26 +1,28 @@
 ---
 aliases:
-- sibling
-- sibling
-- sibling
-- has_sibling
+  - sibling
+  - sibling
+  - sibling
+  - has_sibling
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sibling
-layout: 
-license: "CC BY-SA 4.0"
+  - sibling
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sibling
 publish: true
-publishDate: 
+publishDate:
 supersedes: siblings
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sibling
 type: Predi_Relation
 ---

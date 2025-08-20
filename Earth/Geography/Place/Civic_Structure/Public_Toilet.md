@@ -1,26 +1,27 @@
 ---
 aliases:
-- public-toilet
-- public_toilet
-- PublicToilet
-- is_a_public_toilet
+  - public-toilet
+  - public_toilet
+  - PublicToilet
+  - is_a_public_toilet
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- public_toilet
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_public_toilet Class"
+  - public_toilet
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_public_toilet Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_public_toilet Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_public_toilet Class
 type: Type
 ---
 

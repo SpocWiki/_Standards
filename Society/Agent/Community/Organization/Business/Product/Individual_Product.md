@@ -1,26 +1,27 @@
 ---
 aliases:
-- individual-product
-- individual_product
-- IndividualProduct
-- is_an_individual_product
+  - individual-product
+  - individual_product
+  - IndividualProduct
+  - is_an_individual_product
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- individual_product
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_individual_product Class"
+  - individual_product
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_individual_product Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_individual_product Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_individual_product Class
 type: Type
 ---
 

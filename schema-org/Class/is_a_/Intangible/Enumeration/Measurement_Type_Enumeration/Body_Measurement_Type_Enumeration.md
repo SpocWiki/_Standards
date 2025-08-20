@@ -1,26 +1,27 @@
 ---
 aliases:
-- body-measurement-type-enumeration
-- body_measurement_type_enumeration
-- BodyMeasurementTypeEnumeration
-- is_a_body_measurement_type_enumeration
+  - body-measurement-type-enumeration
+  - body_measurement_type_enumeration
+  - BodyMeasurementTypeEnumeration
+  - is_a_body_measurement_type_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- body_measurement_type_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_body_measurement_type_enumeration Class"
+  - body_measurement_type_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_body_measurement_type_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_body_measurement_type_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_body_measurement_type_enumeration Class
 type: Type
 ---
 

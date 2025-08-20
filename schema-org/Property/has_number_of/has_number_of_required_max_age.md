@@ -1,25 +1,27 @@
 ---
 aliases:
-- required-max-age
-- required_max_age
-- requiredMaxAge
-- has_number_of_required_max_age
+  - required-max-age
+  - required_max_age
+  - requiredMaxAge
+  - has_number_of_required_max_age
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- required_max_age
-layout: 
-license: "CC BY-SA 4.0"
+  - required_max_age
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_required_max_age
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_required_max_age
 type: Predi_Count
 ---

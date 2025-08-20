@@ -1,26 +1,27 @@
 ---
 aliases:
-- music-event
-- music_event
-- MusicEvent
-- is_a_music_event
+  - music-event
+  - music_event
+  - MusicEvent
+  - is_a_music_event
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- music_event
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_music_event Class"
+  - music_event
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_music_event Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_music_event Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_music_event Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- knows-about
-- knows_about
-- knowsAbout
-- has_text_of_knows_about
+  - knows-about
+  - knows_about
+  - knowsAbout
+  - has_text_of_knows_about
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- knows
-- about
-layout: 
-license: "CC BY-SA 4.0"
+  - knows
+  - about
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_knows_about
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_knows_about
 type: Pred_Text
 ---

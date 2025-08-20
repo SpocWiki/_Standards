@@ -1,26 +1,28 @@
 ---
 aliases:
-- legislation-consolidates
-- legislation_consolidates
-- legislationConsolidates
-- is_legislation_consolidated_from
+  - legislation-consolidates
+  - legislation_consolidates
+  - legislationConsolidates
+  - is_legislation_consolidated_from
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- legislation
-- consolidates
-layout: 
-license: "CC BY-SA 4.0"
+  - legislation
+  - consolidates
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_legislation_consolidated_from
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_legislation_consolidated_from
 type: Predi_Relation
 ---

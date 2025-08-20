@@ -1,26 +1,27 @@
 ---
 aliases:
-- performing-group
-- performing_group
-- PerformingGroup
-- is_a_performing_group
+  - performing-group
+  - performing_group
+  - PerformingGroup
+  - is_a_performing_group
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- performing_group
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_performing_group Class"
+  - performing_group
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_performing_group Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_performing_group Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_performing_group Class
 type: Type
 ---
 

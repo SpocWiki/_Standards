@@ -1,27 +1,29 @@
 ---
 aliases:
-- embedded-text-caption
-- embedded_text_caption
-- embeddedTextCaption
-- has_text_of_embedded_text_caption
+  - embedded-text-caption
+  - embedded_text_caption
+  - embeddedTextCaption
+  - has_text_of_embedded_text_caption
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- embedded
-- text
-- caption
-layout: 
-license: "CC BY-SA 4.0"
+  - embedded
+  - text
+  - caption
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_embedded_text_caption
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_embedded_text_caption
 type: Pred_Text
 ---

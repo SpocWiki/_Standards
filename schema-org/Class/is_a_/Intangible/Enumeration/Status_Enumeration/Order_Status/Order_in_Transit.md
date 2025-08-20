@@ -1,27 +1,28 @@
 ---
 aliases:
-- order-in-transit
-- order_in_transit
-- OrderInTransit
-- is_an_order_in_transit
+  - order-in-transit
+  - order_in_transit
+  - OrderInTransit
+  - is_an_order_in_transit
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: OrderStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- order_in_transit
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_order_in_transit Class"
+  - order_in_transit
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_order_in_transit Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_order_in_transit Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_order_in_transit Class
 type: Type
 ---
 

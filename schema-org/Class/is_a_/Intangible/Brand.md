@@ -1,26 +1,27 @@
 ---
 aliases:
-- brand
-- brand
-- Brand
-- is_a_brand
+  - brand
+  - brand
+  - Brand
+  - is_a_brand
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- brand
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_brand Class"
+  - brand
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_brand Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_brand Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_brand Class
 type: Type
 ---
 

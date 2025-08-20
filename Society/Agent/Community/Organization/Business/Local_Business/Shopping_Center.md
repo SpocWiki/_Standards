@@ -1,26 +1,27 @@
 ---
 aliases:
-- shopping-center
-- shopping_center
-- ShoppingCenter
-- is_a_shopping_center
+  - shopping-center
+  - shopping_center
+  - ShoppingCenter
+  - is_a_shopping_center
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- shopping_center
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_shopping_center Class"
+  - shopping_center
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_shopping_center Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_shopping_center Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_shopping_center Class
 type: Type
 ---
 

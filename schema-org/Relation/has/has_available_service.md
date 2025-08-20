@@ -1,26 +1,28 @@
 ---
 aliases:
-- available-service
-- available_service
-- availableService
-- has_available_service
+  - available-service
+  - available_service
+  - availableService
+  - has_available_service
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- available
-- service
-layout: 
-license: "CC BY-SA 4.0"
+  - available
+  - service
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_available_service
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_available_service
 type: Predi_Relation
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- postal-code-range
-- postal_code_range
-- postalCodeRange
-- has_location_postal_code_range
+  - postal-code-range
+  - postal_code_range
+  - postalCodeRange
+  - has_location_postal_code_range
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- postal_code_range
-layout: 
-license: "CC BY-SA 4.0"
+  - postal_code_range
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_postal_code_range
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_postal_code_range
 type: Pred_geo
 ---

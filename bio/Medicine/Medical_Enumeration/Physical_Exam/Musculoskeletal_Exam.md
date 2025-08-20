@@ -1,27 +1,28 @@
 ---
 aliases:
-- musculoskeletal-exam
-- musculoskeletal_exam
-- MusculoskeletalExam
-- is_a_musculoskeletal_exam
+  - musculoskeletal-exam
+  - musculoskeletal_exam
+  - MusculoskeletalExam
+  - is_a_musculoskeletal_exam
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- musculoskeletal_exam
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_musculoskeletal_exam Class"
+  - musculoskeletal_exam
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_musculoskeletal_exam Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_musculoskeletal_exam Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_musculoskeletal_exam Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- health-insurance-plan
-- health_insurance_plan
-- HealthInsurancePlan
-- is_a_health_insurance_plan
+  - health-insurance-plan
+  - health_insurance_plan
+  - HealthInsurancePlan
+  - is_a_health_insurance_plan
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health_insurance_plan
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_health_insurance_plan Class"
+  - health_insurance_plan
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_health_insurance_plan Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_health_insurance_plan Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_health_insurance_plan Class
 type: Type
 ---
 

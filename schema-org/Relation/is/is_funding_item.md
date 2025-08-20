@@ -1,26 +1,28 @@
 ---
 aliases:
-- funded-item
-- funding_item
-- fundedItem
-- is_funding_item
+  - funded-item
+  - funding_item
+  - fundedItem
+  - is_funding_item
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- funded
-- item
-layout: 
-license: "CC BY-SA 4.0"
+  - funded
+  - item
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_funding_item
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_funding_item
 type: Predi_Relation
 ---

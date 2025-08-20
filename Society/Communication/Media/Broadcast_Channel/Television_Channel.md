@@ -1,26 +1,27 @@
 ---
 aliases:
-- television-channel
-- television_channel
-- TelevisionChannel
-- is_a_television_channel
+  - television-channel
+  - television_channel
+  - TelevisionChannel
+  - is_a_television_channel
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- television_channel
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_television_channel Class"
+  - television_channel
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_television_channel Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_television_channel Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_television_channel Class
 type: Type
 ---
 

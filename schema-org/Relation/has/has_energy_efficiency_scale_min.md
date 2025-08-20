@@ -1,28 +1,30 @@
 ---
 aliases:
-- energy-efficiency-scale-min
-- energy_efficiency_scale_min
-- energyEfficiencyScaleMin
-- has_energy_efficiency_scale_min
+  - energy-efficiency-scale-min
+  - energy_efficiency_scale_min
+  - energyEfficiencyScaleMin
+  - has_energy_efficiency_scale_min
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- energy
-- efficiency
-- scale
-- min
-layout: 
-license: "CC BY-SA 4.0"
+  - energy
+  - efficiency
+  - scale
+  - min
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_energy_efficiency_scale_min
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_energy_efficiency_scale_min
 type: Predi_Relation
 ---

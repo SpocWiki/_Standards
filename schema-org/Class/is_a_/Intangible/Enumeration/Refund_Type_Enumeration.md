@@ -1,26 +1,27 @@
 ---
 aliases:
-- refund-type-enumeration
-- refund_type_enumeration
-- RefundTypeEnumeration
-- is_a_refund_type_enumeration
+  - refund-type-enumeration
+  - refund_type_enumeration
+  - RefundTypeEnumeration
+  - is_a_refund_type_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- refund_type_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_refund_type_enumeration Class"
+  - refund_type_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_refund_type_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_refund_type_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_refund_type_enumeration Class
 type: Type
 ---
 

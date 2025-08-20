@@ -1,26 +1,27 @@
 ---
 aliases:
-- move-action
-- move_action
-- MoveAction
-- is_a_move_action
+  - move-action
+  - move_action
+  - MoveAction
+  - is_a_move_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- move_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_move_action Class"
+  - move_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_move_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_move_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_move_action Class
 type: Type
 ---
 

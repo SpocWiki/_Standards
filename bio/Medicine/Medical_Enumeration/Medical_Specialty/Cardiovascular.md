@@ -1,27 +1,28 @@
 ---
 aliases:
-- cardiovascular
-- cardiovascular
-- Cardiovascular
-- is_a_cardiovascular
+  - cardiovascular
+  - cardiovascular
+  - Cardiovascular
+  - is_a_cardiovascular
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalSpecialty
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cardiovascular
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_cardiovascular Class"
+  - cardiovascular
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_cardiovascular Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_cardiovascular Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_cardiovascular Class
 type: Type
 ---
 

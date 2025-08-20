@@ -1,27 +1,28 @@
 ---
 aliases:
-- neck
-- neck
-- Neck
-- is_a_neck
+  - neck
+  - neck
+  - Neck
+  - is_a_neck
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- neck
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_neck Class"
+  - neck
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_neck Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_neck Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_neck Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- cover-art
-- cover_art
-- CoverArt
-- is_a_cover_art
+  - cover-art
+  - cover_art
+  - CoverArt
+  - is_a_cover_art
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cover_art
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_cover_art Class"
+  - cover_art
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_cover_art Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_cover_art Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_cover_art Class
 type: Type
 ---
 

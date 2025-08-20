@@ -1,27 +1,28 @@
 ---
 aliases:
-- user-downloads
-- user_downloads
-- UserDownloads
-- is_a_user_downloads
+  - user-downloads
+  - user_downloads
+  - UserDownloads
+  - is_a_user_downloads
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- user_downloads
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_user_downloads Class"
+  - user_downloads
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_user_downloads Class
 publish: true
-publishDate: 
+publishDate:
 superseded_by: InteractionCounter
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_user_downloads Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_user_downloads Class
 type: Type
 ---
 

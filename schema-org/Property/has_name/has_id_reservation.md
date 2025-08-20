@@ -1,26 +1,28 @@
 ---
 aliases:
-- reservation-id
-- id_reservation
-- reservationId
-- has_id_reservation
+  - reservation-id
+  - id_reservation
+  - reservationId
+  - has_id_reservation
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reservation
-- id
-layout: 
-license: "CC BY-SA 4.0"
+  - reservation
+  - id
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_reservation
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_reservation
 type: Pred_Text
 ---

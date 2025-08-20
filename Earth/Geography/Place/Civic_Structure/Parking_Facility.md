@@ -1,26 +1,27 @@
 ---
 aliases:
-- parking-facility
-- parking_facility
-- ParkingFacility
-- is_a_parking_facility
+  - parking-facility
+  - parking_facility
+  - ParkingFacility
+  - is_a_parking_facility
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- parking_facility
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_parking_facility Class"
+  - parking_facility
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_parking_facility Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_parking_facility Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_parking_facility Class
 type: Type
 ---
 

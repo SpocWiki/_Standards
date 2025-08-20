@@ -1,26 +1,28 @@
 ---
 aliases:
-- secondary-prevention
-- secondary_prevention
-- secondaryPrevention
-- has_secondary_prevention
+  - secondary-prevention
+  - secondary_prevention
+  - secondaryPrevention
+  - has_secondary_prevention
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- secondary
-- prevention
-layout: 
-license: "CC BY-SA 4.0"
+  - secondary
+  - prevention
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_secondary_prevention
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_secondary_prevention
 type: Predi_Relation
 ---

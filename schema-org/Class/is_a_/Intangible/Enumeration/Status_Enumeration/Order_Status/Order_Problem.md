@@ -1,27 +1,28 @@
 ---
 aliases:
-- order-problem
-- order_problem
-- OrderProblem
-- is_an_order_problem
+  - order-problem
+  - order_problem
+  - OrderProblem
+  - is_an_order_problem
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: OrderStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- order_problem
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_order_problem Class"
+  - order_problem
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_order_problem Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_order_problem Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_order_problem Class
 type: Type
 ---
 

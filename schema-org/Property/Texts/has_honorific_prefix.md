@@ -1,26 +1,28 @@
 ---
 aliases:
-- honorific-prefix
-- honorific_prefix
-- honorificPrefix
-- has_text_of_honorific_prefix
+  - honorific-prefix
+  - honorific_prefix
+  - honorificPrefix
+  - has_text_of_honorific_prefix
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- honorific
-- prefix
-layout: 
-license: "CC BY-SA 4.0"
+  - honorific
+  - prefix
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_honorific_prefix
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_honorific_prefix
 type: Pred_Text
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- play-mode
-- play_mode
-- playMode
-- has_play_mode
+  - play-mode
+  - play_mode
+  - playMode
+  - has_play_mode
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- play
-- mode
-layout: 
-license: "CC BY-SA 4.0"
+  - play
+  - mode
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_play_mode
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_play_mode
 type: Predi_Relation
 ---

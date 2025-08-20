@@ -1,26 +1,28 @@
 ---
 aliases:
-- reserved-ticket
-- reserved_ticket
-- reservedTicket
-- has_reserved_ticket
+  - reserved-ticket
+  - reserved_ticket
+  - reservedTicket
+  - has_reserved_ticket
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reserved
-- ticket
-layout: 
-license: "CC BY-SA 4.0"
+  - reserved
+  - ticket
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_reserved_ticket
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_reserved_ticket
 type: Predi_Relation
 ---

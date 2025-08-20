@@ -1,26 +1,28 @@
 ---
 aliases:
-- work-presented
-- work_presented
-- workPresented
-- has_work_presented
+  - work-presented
+  - work_presented
+  - workPresented
+  - has_work_presented
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- work
-- presented
-layout: 
-license: "CC BY-SA 4.0"
+  - work
+  - presented
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_work_presented
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_work_presented
 type: Predi_Relation
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- nonprofit501f
-- nonprofit501f
-- Nonprofit501f
-- is_a_nonprofit501f
+  - nonprofit501f
+  - nonprofit501f
+  - Nonprofit501f
+  - is_a_nonprofit501f
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- nonprofit501f
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_nonprofit501f Class"
+  - nonprofit501f
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_nonprofit501f Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_nonprofit501f Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_nonprofit501f Class
 type: Type
 ---
 

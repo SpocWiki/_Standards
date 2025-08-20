@@ -1,26 +1,28 @@
 ---
 aliases:
-- superseded-by
-- superseded_by
-- supersededBy
-- is_superseded_by
+  - superseded-by
+  - superseded_by
+  - supersededBy
+  - is_superseded_by
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- superseded
-- by
-layout: 
-license: "CC BY-SA 4.0"
+  - superseded
+  - by
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_superseded_by
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_superseded_by
 type: Predi_Relation
 ---

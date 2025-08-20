@@ -1,27 +1,28 @@
 ---
 aliases:
-- left-hand-driving
-- left_hand_driving
-- LeftHandDriving
-- is_a_left_hand_driving
+  - left-hand-driving
+  - left_hand_driving
+  - LeftHandDriving
+  - is_a_left_hand_driving
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: SteeringPositionValue
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- left_hand_driving
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_left_hand_driving Class"
+  - left_hand_driving
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_left_hand_driving Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_left_hand_driving Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_left_hand_driving Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- rental-vehicle-usage
-- rental_vehicle_usage
-- RentalVehicleUsage
-- is_a_rental_vehicle_usage
+  - rental-vehicle-usage
+  - rental_vehicle_usage
+  - RentalVehicleUsage
+  - is_a_rental_vehicle_usage
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: CarUsageType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- rental_vehicle_usage
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_rental_vehicle_usage Class"
+  - rental_vehicle_usage
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_rental_vehicle_usage Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_rental_vehicle_usage Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_rental_vehicle_usage Class
 type: Type
 ---
 

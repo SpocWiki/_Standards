@@ -1,27 +1,28 @@
 ---
 aliases:
-- completed
-- completed
-- Completed
-- is_a_completed
+  - completed
+  - completed
+  - Completed
+  - is_a_completed
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalStudyStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- completed
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_completed Class"
+  - completed
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_completed Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_completed Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_completed Class
 type: Type
 ---
 

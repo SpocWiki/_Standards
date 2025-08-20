@@ -1,27 +1,28 @@
 ---
 aliases:
-- vinyl-format
-- vinyl_format
-- VinylFormat
-- is_a_vinyl_format
+  - vinyl-format
+  - vinyl_format
+  - VinylFormat
+  - is_a_vinyl_format
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicReleaseFormatType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- vinyl_format
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_vinyl_format Class"
+  - vinyl_format
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_vinyl_format Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_vinyl_format Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_vinyl_format Class
 type: Type
 ---
 

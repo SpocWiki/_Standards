@@ -1,25 +1,27 @@
 ---
 aliases:
-- discount
-- discount
-- discount
-- has_value_for_discount
+  - discount
+  - discount
+  - discount
+  - has_value_for_discount
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- discount
-layout: 
-license: "CC BY-SA 4.0"
+  - discount
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_discount
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_discount
 type: Predi_Quantity
 ---

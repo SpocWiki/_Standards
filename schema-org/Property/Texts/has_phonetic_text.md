@@ -1,26 +1,28 @@
 ---
 aliases:
-- phonetic-text
-- phonetic_text
-- phoneticText
-- has_text_of_phonetic_text
+  - phonetic-text
+  - phonetic_text
+  - phoneticText
+  - has_text_of_phonetic_text
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- phonetic
-- text
-layout: 
-license: "CC BY-SA 4.0"
+  - phonetic
+  - text
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_phonetic_text
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_phonetic_text
 type: Pred_Text
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- mass
-- mass
-- Mass
-- is_a_mass
+  - mass
+  - mass
+  - Mass
+  - is_a_mass
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- mass
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_mass Class"
+  - mass
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_mass Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_mass Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_mass Class
 type: Type
 ---
 

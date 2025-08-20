@@ -1,26 +1,27 @@
 ---
 aliases:
-- film-action
-- film_action
-- FilmAction
-- is_a_film_action
+  - film-action
+  - film_action
+  - FilmAction
+  - is_a_film_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- film_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_film_action Class"
+  - film_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_film_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_film_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_film_action Class
 type: Type
 ---
 

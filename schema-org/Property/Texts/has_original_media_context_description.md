@@ -1,28 +1,30 @@
 ---
 aliases:
-- original-media-context-description
-- original_media_context_description
-- originalMediaContextDescription
-- has_text_of_original_media_context_description
+  - original-media-context-description
+  - original_media_context_description
+  - originalMediaContextDescription
+  - has_text_of_original_media_context_description
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- original
-- media
-- context
-- description
-layout: 
-license: "CC BY-SA 4.0"
+  - original
+  - media
+  - context
+  - description
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_original_media_context_description
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_original_media_context_description
 type: Pred_Text
 ---

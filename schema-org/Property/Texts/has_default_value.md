@@ -1,26 +1,28 @@
 ---
 aliases:
-- default-value
-- default_value
-- defaultValue
-- has_text_of_default_value
+  - default-value
+  - default_value
+  - defaultValue
+  - has_text_of_default_value
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- default
-- value
-layout: 
-license: "CC BY-SA 4.0"
+  - default
+  - value
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_default_value
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_default_value
 type: Pred_Text
 ---

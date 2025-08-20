@@ -1,26 +1,27 @@
 ---
 aliases:
-- sheet-music
-- sheet_music
-- SheetMusic
-- is_a_sheet_music
+  - sheet-music
+  - sheet_music
+  - SheetMusic
+  - is_a_sheet_music
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sheet_music
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_sheet_music Class"
+  - sheet_music
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_sheet_music Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_sheet_music Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_sheet_music Class
 type: Type
 ---
 

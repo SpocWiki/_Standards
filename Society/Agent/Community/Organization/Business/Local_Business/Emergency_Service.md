@@ -1,26 +1,27 @@
 ---
 aliases:
-- emergency-service
-- emergency_service
-- EmergencyService
-- is_an_emergency_service
+  - emergency-service
+  - emergency_service
+  - EmergencyService
+  - is_an_emergency_service
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- emergency_service
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_emergency_service Class"
+  - emergency_service
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_emergency_service Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_emergency_service Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_emergency_service Class
 type: Type
 ---
 

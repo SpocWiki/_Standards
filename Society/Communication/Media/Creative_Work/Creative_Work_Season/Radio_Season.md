@@ -1,26 +1,27 @@
 ---
 aliases:
-- radio-season
-- radio_season
-- RadioSeason
-- is_a_radio_season
+  - radio-season
+  - radio_season
+  - RadioSeason
+  - is_a_radio_season
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- radio_season
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_radio_season Class"
+  - radio_season
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_radio_season Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_radio_season Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_radio_season Class
 type: Type
 ---
 

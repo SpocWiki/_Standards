@@ -1,26 +1,27 @@
 ---
 aliases:
-- bus-stop
-- bus_stop
-- BusStop
-- is_a_bus_stop
+  - bus-stop
+  - bus_stop
+  - BusStop
+  - is_a_bus_stop
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bus_stop
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_bus_stop Class"
+  - bus_stop
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_bus_stop Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_bus_stop Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_bus_stop Class
 type: Type
 ---
 

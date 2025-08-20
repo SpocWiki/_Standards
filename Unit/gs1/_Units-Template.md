@@ -1,24 +1,24 @@
 ---
 aliases:
-- Unit_{{Code}}
-- 
+  - Unit_{{Code}}
+  - 
 confidential: public
-cssclasses: Unit
+cssclasses:
+  - Unit
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- Unit
-- ? Code: 
-  : 
-layout: 
-license: "CC BY-SA 4.0"
+  - Unit
+  - "{ Code: }":
+layout:
+license: CC BY-SA 4.0
 linkTitle: Unit_{{Code}}
 publish: true
-publishDate: 
+publishDate:
 tags:
-- gs1_/Unit
+  - gs1_/Unit
 title: Unit_{{Code}}
 type: Unit
 ---

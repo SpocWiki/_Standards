@@ -1,27 +1,28 @@
 ---
 aliases:
-- data-catalog
-- data_catalog
-- DataCatalog
-- is_a_data_catalog
+  - data-catalog
+  - data_catalog
+  - DataCatalog
+  - is_a_data_catalog
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-equivalent_class: "http://www.w3.org/ns/dcat#Catalog"
-expiryDate: 
+equivalent_class: http://www.w3.org/ns/dcat#Catalog
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- data_catalog
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_data_catalog Class"
+  - data_catalog
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_data_catalog Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_data_catalog Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_data_catalog Class
 type: Type
 ---
 

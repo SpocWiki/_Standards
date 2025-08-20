@@ -1,26 +1,28 @@
 ---
 aliases:
-- operating-system
-- operating_system
-- operatingSystem
-- has_text_of_operating_system
+  - operating-system
+  - operating_system
+  - operatingSystem
+  - has_text_of_operating_system
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- operating
-- system
-layout: 
-license: "CC BY-SA 4.0"
+  - operating
+  - system
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_operating_system
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_operating_system
 type: Pred_Text
 ---

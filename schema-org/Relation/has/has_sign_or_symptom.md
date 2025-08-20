@@ -1,27 +1,29 @@
 ---
 aliases:
-- sign-or-symptom
-- sign_or_symptom
-- signOrSymptom
-- has_sign_or_symptom
+  - sign-or-symptom
+  - sign_or_symptom
+  - signOrSymptom
+  - has_sign_or_symptom
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sign
-- or
-- symptom
-layout: 
-license: "CC BY-SA 4.0"
+  - sign
+  - or
+  - symptom
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sign_or_symptom
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sign_or_symptom
 type: Predi_Relation
 ---

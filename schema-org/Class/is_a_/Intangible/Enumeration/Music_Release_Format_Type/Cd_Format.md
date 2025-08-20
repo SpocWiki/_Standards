@@ -1,27 +1,28 @@
 ---
 aliases:
-- cd-format
-- cd_format
-- CDFormat
-- is_a_cd_format
+  - cd-format
+  - cd_format
+  - CDFormat
+  - is_a_cd_format
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicReleaseFormatType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cd_format
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_cd_format Class"
+  - cd_format
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_cd_format Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_cd_format Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_cd_format Class
 type: Type
 ---
 

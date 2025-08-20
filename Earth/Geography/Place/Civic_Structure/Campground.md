@@ -1,26 +1,27 @@
 ---
 aliases:
-- campground
-- campground
-- Campground
-- is_a_campground
+  - campground
+  - campground
+  - Campground
+  - is_a_campground
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- campground
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_campground Class"
+  - campground
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_campground Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_campground Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_campground Class
 type: Type
 ---
 

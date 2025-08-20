@@ -1,27 +1,28 @@
 ---
 aliases:
-- percutaneous-procedure
-- percutaneous_procedure
-- PercutaneousProcedure
-- is_a_percutaneous_procedure
+  - percutaneous-procedure
+  - percutaneous_procedure
+  - PercutaneousProcedure
+  - is_a_percutaneous_procedure
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalProcedureType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- percutaneous_procedure
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_percutaneous_procedure Class"
+  - percutaneous_procedure
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_percutaneous_procedure Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_percutaneous_procedure Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_percutaneous_procedure Class
 type: Type
 ---
 

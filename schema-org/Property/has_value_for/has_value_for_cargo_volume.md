@@ -1,25 +1,27 @@
 ---
 aliases:
-- cargo_volume
-- cargo-volume
-- cargoVolume
-- has_value_for_cargo_volume
+  - cargo_volume
+  - cargo-volume
+  - cargoVolume
+  - has_value_for_cargo_volume
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cargo-volume
-layout: 
-license: "CC BY-SA 4.0"
+  - cargo-volume
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_cargo-volume
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_cargo-volume
 type: Predi_Quantity
 ---

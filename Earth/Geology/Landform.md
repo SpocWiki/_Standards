@@ -1,26 +1,27 @@
 ---
 aliases:
-- landform
-- landform
-- Landform
-- is_a_landform
+  - landform
+  - landform
+  - Landform
+  - is_a_landform
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- landform
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_landform Class"
+  - landform
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_landform Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_landform Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_landform Class
 type: Type
 ---
 

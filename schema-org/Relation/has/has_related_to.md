@@ -1,26 +1,28 @@
 ---
 aliases:
-- related-to
-- related_to
-- relatedTo
-- has_related_to
+  - related-to
+  - related_to
+  - relatedTo
+  - has_related_to
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- related
-- to
-layout: 
-license: "CC BY-SA 4.0"
+  - related
+  - to
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_related_to
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_related_to
 type: Predi_Relation
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-size-system-br
-- wearable_size_system_br
-- WearableSizeSystemBR
-- is_a_wearable_size_system_br
+  - wearable-size-system-br
+  - wearable_size_system_br
+  - WearableSizeSystemBR
+  - is_a_wearable_size_system_br
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableSizeSystemEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_size_system_br
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_size_system_br Class"
+  - wearable_size_system_br
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_size_system_br Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_size_system_br Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_size_system_br Class
 type: Type
 ---
 

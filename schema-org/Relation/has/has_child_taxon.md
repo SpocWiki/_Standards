@@ -1,26 +1,28 @@
 ---
 aliases:
-- child-taxon
-- child_taxon
-- childTaxon
-- has_child_taxon
+  - child-taxon
+  - child_taxon
+  - childTaxon
+  - has_child_taxon
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- child
-- taxon
-layout: 
-license: "CC BY-SA 4.0"
+  - child
+  - taxon
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_child_taxon
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_child_taxon
 type: Predi_Relation
 ---

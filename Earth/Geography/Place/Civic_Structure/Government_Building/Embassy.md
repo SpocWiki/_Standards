@@ -1,26 +1,27 @@
 ---
 aliases:
-- embassy
-- embassy
-- Embassy
-- is_an_embassy
+  - embassy
+  - embassy
+  - Embassy
+  - is_an_embassy
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- embassy
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_embassy Class"
+  - embassy
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_embassy Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_embassy Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_embassy Class
 type: Type
 ---
 

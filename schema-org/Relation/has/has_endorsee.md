@@ -1,25 +1,27 @@
 ---
 aliases:
-- endorsee
-- endorsee
-- endorsee
-- has_endorsee
+  - endorsee
+  - endorsee
+  - endorsee
+  - has_endorsee
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- endorsee
-layout: 
-license: "CC BY-SA 4.0"
+  - endorsee
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_endorsee
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_endorsee
 type: Predi_Relation
 ---

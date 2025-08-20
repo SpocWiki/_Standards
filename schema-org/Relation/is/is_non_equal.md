@@ -1,27 +1,29 @@
 ---
 aliases:
-- non-equal
-- non_equal
-- nonEqual
-- is_non_equal
-- is_not_equal
+  - non-equal
+  - non_equal
+  - nonEqual
+  - is_non_equal
+  - is_not_equal
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- non
-- equal
-layout: 
-license: "CC BY-SA 4.0"
+  - non
+  - equal
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_non_equal
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_non_equal
 type: Predi_Relation
 ---

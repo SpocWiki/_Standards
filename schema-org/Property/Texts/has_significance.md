@@ -1,25 +1,27 @@
 ---
 aliases:
-- significance
-- significance
-- significance
-- has_text_of_significance
+  - significance
+  - significance
+  - significance
+  - has_text_of_significance
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- significance
-layout: 
-license: "CC BY-SA 4.0"
+  - significance
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_significance
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_significance
 type: Pred_Text
 ---

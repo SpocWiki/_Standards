@@ -1,26 +1,27 @@
 ---
 aliases:
-- recycling-center
-- recycling_center
-- RecyclingCenter
-- is_a_recycling_center
+  - recycling-center
+  - recycling_center
+  - RecyclingCenter
+  - is_a_recycling_center
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- recycling_center
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_recycling_center Class"
+  - recycling_center
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_recycling_center Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_recycling_center Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_recycling_center Class
 type: Type
 ---
 

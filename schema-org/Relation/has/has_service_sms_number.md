@@ -1,27 +1,29 @@
 ---
 aliases:
-- service-sms-number
-- service_sms_number
-- serviceSmsNumber
-- has_service_sms_number
+  - service-sms-number
+  - service_sms_number
+  - serviceSmsNumber
+  - has_service_sms_number
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- service
-- sms
-- number
-layout: 
-license: "CC BY-SA 4.0"
+  - service
+  - sms
+  - number
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_service_sms_number
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_service_sms_number
 type: Predi_Relation
 ---

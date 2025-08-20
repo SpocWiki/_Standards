@@ -1,25 +1,27 @@
 ---
 aliases:
-- molecular_weight
-- molecular-weight
-- molecularWeight
-- has_value_for_molecular_weight
+  - molecular_weight
+  - molecular-weight
+  - molecularWeight
+  - has_value_for_molecular_weight
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- molecular-weight
-layout: 
-license: "CC BY-SA 4.0"
+  - molecular-weight
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_molecular-weight
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_molecular-weight
 type: Predi_Quantity
 ---

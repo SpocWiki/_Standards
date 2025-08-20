@@ -1,27 +1,28 @@
 ---
 aliases:
-- digital-audio-tape-format
-- digital_audio_tape_format
-- DigitalAudioTapeFormat
-- is_a_digital_audio_tape_format
+  - digital-audio-tape-format
+  - digital_audio_tape_format
+  - DigitalAudioTapeFormat
+  - is_a_digital_audio_tape_format
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicReleaseFormatType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- digital_audio_tape_format
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_digital_audio_tape_format Class"
+  - digital_audio_tape_format
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_digital_audio_tape_format Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_digital_audio_tape_format Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_digital_audio_tape_format Class
 type: Type
 ---
 

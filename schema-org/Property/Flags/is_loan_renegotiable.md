@@ -1,25 +1,27 @@
 ---
 aliases:
-- renegotiable-loan
-- loan_renegotiable
-- renegotiableLoan
-- is_loan_renegotiable
+  - renegotiable-loan
+  - loan_renegotiable
+  - renegotiableLoan
+  - is_loan_renegotiable
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- loan_renegotiable
-layout: 
-license: "CC BY-SA 4.0"
+  - loan_renegotiable
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_loan_renegotiable
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_loan_renegotiable
 type: Pred_Bool
 ---

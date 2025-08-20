@@ -1,26 +1,28 @@
 ---
 aliases:
-- next-item
-- next_item
-- nextItem
-- has_next_item
+  - next-item
+  - next_item
+  - nextItem
+  - has_next_item
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- next
-- item
-layout: 
-license: "CC BY-SA 4.0"
+  - next
+  - item
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_next_item
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_next_item
 type: Predi_Relation
 ---

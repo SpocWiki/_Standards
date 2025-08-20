@@ -1,27 +1,28 @@
 ---
 aliases:
-- dataset
-- dataset
-- Dataset
-- is_a_dataset
+  - dataset
+  - dataset
+  - Dataset
+  - is_a_dataset
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-equivalent_class: "http://purl.org/dc/dcmitype/Dataset, http://www.w3.org/ns/dcat#Dataset, http://rdfs.org/ns/void#Dataset"
-expiryDate: 
+equivalent_class: http://purl.org/dc/dcmitype/Dataset, http://www.w3.org/ns/dcat#Dataset, http://rdfs.org/ns/void#Dataset
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- dataset
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_dataset Class"
+  - dataset
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_dataset Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_dataset Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_dataset Class
 type: Type
 ---
 

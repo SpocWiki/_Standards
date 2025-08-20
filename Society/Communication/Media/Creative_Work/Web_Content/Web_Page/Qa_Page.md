@@ -1,26 +1,27 @@
 ---
 aliases:
-- qa-page
-- qa_page
-- QAPage
-- is_a_qa_page
+  - qa-page
+  - qa_page
+  - QAPage
+  - is_a_qa_page
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- qa_page
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_qa_page Class"
+  - qa_page
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_qa_page Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_qa_page Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_qa_page Class
 type: Type
 ---
 

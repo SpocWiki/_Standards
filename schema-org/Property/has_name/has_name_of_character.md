@@ -1,26 +1,28 @@
 ---
 aliases:
-- character-name
-- character_name
-- characterName
-- has_name_of_character
+  - character-name
+  - character_name
+  - characterName
+  - has_name_of_character
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- character
-- name
-layout: 
-license: "CC BY-SA 4.0"
+  - character
+  - name
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_name_of_character
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_name_of_character
 type: Pred_Text
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- circle
-- circle
-- circle
-- has_text_of_circle
+  - circle
+  - circle
+  - circle
+  - has_text_of_circle
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- circle
-layout: 
-license: "CC BY-SA 4.0"
+  - circle
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_circle
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_circle
 type: Pred_Text
 ---

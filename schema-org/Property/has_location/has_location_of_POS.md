@@ -1,25 +1,27 @@
 ---
 aliases:
-- has-pos
-- has_POS
-- hasPOS
-- has_location_of_POS
+  - has-pos
+  - has_POS
+  - hasPOS
+  - has_location_of_POS
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- has_POS
-layout: 
-license: "CC BY-SA 4.0"
+  - has_POS
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_of_POS
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_of_POS
 type: Pred_geo
 ---

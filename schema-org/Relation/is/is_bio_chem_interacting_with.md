@@ -1,28 +1,30 @@
 ---
 aliases:
-- bio-chem-interaction
-- bio_chem_interaction
-- bioChemInteraction
-- has_bio_chem_interaction
-- is_bio_chem_interacting_with
+  - bio-chem-interaction
+  - bio_chem_interaction
+  - bioChemInteraction
+  - has_bio_chem_interaction
+  - is_bio_chem_interacting_with
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bio
-- chem
-- interaction
-layout: 
-license: "CC BY-SA 4.0"
+  - bio
+  - chem
+  - interaction
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_bio_chem_interaction
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_bio_chem_interaction
 type: Predi_Relation
 ---

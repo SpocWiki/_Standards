@@ -1,26 +1,28 @@
 ---
 aliases:
-- exercise-type
-- exercise_type
-- exerciseType
-- has_text_of_exercise_type
+  - exercise-type
+  - exercise_type
+  - exerciseType
+  - has_text_of_exercise_type
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- exercise
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - exercise
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_exercise_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_exercise_type
 type: Pred_Text
 ---

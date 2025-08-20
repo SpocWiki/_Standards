@@ -1,28 +1,30 @@
 ---
 aliases:
-- has-bio-polymer-sequence
-- has_bio_polymer_sequence
-- hasBioPolymerSequence
-- has_text_of_has_bio_polymer_sequence
+  - has-bio-polymer-sequence
+  - has_bio_polymer_sequence
+  - hasBioPolymerSequence
+  - has_text_of_has_bio_polymer_sequence
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- has
-- bio
-- polymer
-- sequence
-layout: 
-license: "CC BY-SA 4.0"
+  - has
+  - bio
+  - polymer
+  - sequence
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_has_bio_polymer_sequence
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_has_bio_polymer_sequence
 type: Pred_Text
 ---

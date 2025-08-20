@@ -1,26 +1,28 @@
 ---
 aliases:
-- sd-license
-- sd_license
-- sdLicense
-- has_sd_license
+  - sd-license
+  - sd_license
+  - sdLicense
+  - has_sd_license
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- sd
-- license
-layout: 
-license: "CC BY-SA 4.0"
+  - sd
+  - license
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_sd_license
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_sd_license
 type: Predi_Relation
 ---

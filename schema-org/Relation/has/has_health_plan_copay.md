@@ -1,27 +1,29 @@
 ---
 aliases:
-- health-plan-copay
-- health_plan_copay
-- healthPlanCopay
-- has_health_plan_copay
+  - health-plan-copay
+  - health_plan_copay
+  - healthPlanCopay
+  - has_health_plan_copay
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health
-- plan
-- copay
-layout: 
-license: "CC BY-SA 4.0"
+  - health
+  - plan
+  - copay
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_health_plan_copay
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_health_plan_copay
 type: Predi_Relation
 ---

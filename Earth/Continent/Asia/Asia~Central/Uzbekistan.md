@@ -9,130 +9,131 @@ has_id_wikidata: Q265
 SpocWebEntityId: 27049
 isDeleted: false
 confidential: public
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 isReadOnly: false
-source: "https://datahub.io/core/country-codes"
-cssclasses: Country
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
 publish: true
 title: Uzbekistan
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Uzbekistan
-- Uzbekistán
-- Ouzbékistan
-- أوزبكستان
-- 乌兹别克斯坦
-- Узбекистан
-- "the Republic of Uzbekistan"
-- "la República de Uzbekistán"
+  - Uzbekistan
+  - Uzbekistán
+  - Ouzbékistan
+  - أوزبكستان
+  - 乌兹别克斯坦
+  - Узбекистан
+  - the Republic of Uzbekistan
+  - la República de Uzbekistán
 Languages:
   - uz
   - ru
   - tg
 icon: flag-uz
 ethnic_group:
-- '[[_Standards/WikiData/WD~Kazakhs,80040]]'
-- '[[_Standards/WikiData/WD~Karakalpaks,276315]]'
-- '[[_Standards/WikiData/WD~Uzbeks,483047]]'
-- '[[_Standards/WikiData/WD~Tajiks,483505]]'
-- "[[_Standards/WikiData/WD~Russians_in_Uzbekistan,4400608]]"
-- '[[_Standards/WikiData/WD~Tatars,35565]]'
+  - "[[_Standards/WikiData/WD~Kazakhs,80040]]"
+  - "[[_Standards/WikiData/WD~Karakalpaks,276315]]"
+  - "[[_Standards/WikiData/WD~Uzbeks,483047]]"
+  - "[[_Standards/WikiData/WD~Tajiks,483505]]"
+  - "[[_Standards/WikiData/WD~Russians_in_Uzbekistan,4400608]]"
+  - "[[_Standards/WikiData/WD~Tatars,35565]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
-- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
-- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-- "[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693]]"
-- "[[_Standards/WikiData/WD~GUAM_Organization_for_Democracy_and_Economic_Development,326816]]"
-- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207]]"
-- "[[_Standards/WikiData/WD~Organization_of_Turkic_States,596850]]"
-- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783]]"
-- "[[_Standards/WikiData/WD~Central_Asian_Cooperation_Organization,2297670]]"
-- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United_Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]"
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693]]"
+  - "[[_Standards/WikiData/WD~GUAM_Organization_for_Democracy_and_Economic_Development,326816]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207]]"
+  - "[[_Standards/WikiData/WD~Organization_of_Turkic_States,596850]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783]]"
+  - "[[_Standards/WikiData/WD~Central_Asian_Cooperation_Organization,2297670]]"
+  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
 anthem: "[[_Standards/WikiData/WD~National_Anthem_of_Uzbekistan,120143]]"
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-- '[[_Standards/WikiData/WD~country,6256]]'
+  - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
 culture: "[[_Standards/WikiData/WD~culture_of_Uzbekistan,195060]]"
 lowest_point: "[[_Standards/WikiData/WD~Sarygamysh_Lake,257416]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Namangan_Region,474876]]"
-- '[[_Standards/WikiData/WD~Karakalpakstan,484245]]'
-- "[[_Standards/WikiData/WD~Fergana_Region,487089]]"
-- "[[_Standards/WikiData/WD~Bukhara_Region,487372]]"
-- "[[_Standards/WikiData/WD~Andijan_Region,487384]]"
-- "[[_Standards/WikiData/WD~Samarqand_Region,487532]]"
-- "[[_Standards/WikiData/WD~Surxondaryo_Region,487537]]"
-- "[[_Standards/WikiData/WD~Sirdaryo_Region,487547]]"
-- "[[_Standards/WikiData/WD~Xorazm_Region,487561]]"
-- "[[_Standards/WikiData/WD~Navoiy_Region,487570]]"
-- "[[_Standards/WikiData/WD~Qashqadaryo_Region,487577]]"
-- "[[_Standards/WikiData/WD~Tashkent_Region,487585]]"
-- "[[_Standards/WikiData/WD~Jizzakh_Region,488811]]"
-- '[[_Standards/WikiData/WD~Tashkent,269]]'
-public_holiday: '[[_Standards/WikiData/WD~Novruz,483236]]'
+  - "[[_Standards/WikiData/WD~Namangan_Region,474876]]"
+  - "[[_Standards/WikiData/WD~Karakalpakstan,484245]]"
+  - "[[_Standards/WikiData/WD~Fergana_Region,487089]]"
+  - "[[_Standards/WikiData/WD~Bukhara_Region,487372]]"
+  - "[[_Standards/WikiData/WD~Andijan_Region,487384]]"
+  - "[[_Standards/WikiData/WD~Samarqand_Region,487532]]"
+  - "[[_Standards/WikiData/WD~Surxondaryo_Region,487537]]"
+  - "[[_Standards/WikiData/WD~Sirdaryo_Region,487547]]"
+  - "[[_Standards/WikiData/WD~Xorazm_Region,487561]]"
+  - "[[_Standards/WikiData/WD~Navoiy_Region,487570]]"
+  - "[[_Standards/WikiData/WD~Qashqadaryo_Region,487577]]"
+  - "[[_Standards/WikiData/WD~Tashkent_Region,487585]]"
+  - "[[_Standards/WikiData/WD~Jizzakh_Region,488811]]"
+  - "[[_Standards/WikiData/WD~Tashkent,269]]"
+public_holiday: "[[_Standards/WikiData/WD~Novruz,483236]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Uzbekistan,483774]]"
 replaces:
-- "[[_Standards/WikiData/WD~Uzbek_Soviet_Socialist_Republic,484578]]"
-- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - "[[_Standards/WikiData/WD~Uzbek_Soviet_Socialist_Republic,484578]]"
+  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Uzbekistan,487081]]"
 highest_point: "[[_Standards/WikiData/WD~Khazret_Sultan,519822]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Uzbekistan,940589]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Uzbekistan,1024872]]"
 language_used:
-- "[[_Standards/WikiData/WD~Northern_Uzbek,1066766]]"
-- "[[_Standards/WikiData/WD~Uzbeki_Arabic,3399507]]"
-- '[[_Standards/WikiData/WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~Kazakh,9252]]'
-- '[[_Standards/WikiData/WD~Tajik,9260]]'
-- '[[_Standards/WikiData/WD~Uzbek,9264]]'
-- '[[_Standards/WikiData/WD~Karakalpak,33541]]'
+  - "[[_Standards/WikiData/WD~Northern_Uzbek,1066766]]"
+  - "[[_Standards/WikiData/WD~Uzbeki_Arabic,3399507]]"
+  - "[[_Standards/WikiData/WD~Russian,7737]]"
+  - "[[_Standards/WikiData/WD~Kazakh,9252]]"
+  - "[[_Standards/WikiData/WD~Tajik,9260]]"
+  - "[[_Standards/WikiData/WD~Uzbek,9264]]"
+  - "[[_Standards/WikiData/WD~Karakalpak,33541]]"
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
+  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+  - "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Uzbekistan,1348717]]"
 legislative_body: "[[_Standards/WikiData/WD~Oliy_Majlis,1583318]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Uzbekistan,2414675]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Uzbekistan,3031121]]"
 central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Uzbekistan,4504278]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Asia_Tashkent,4806306]]'
-- '[[_Standards/WikiData/WD~Asia_Samarkand,63285960]]'
-- '[[_Standards/WikiData/WD~UTC+05_00,6806]]'
+  - "[[_Standards/WikiData/WD~Asia_Tashkent,4806306]]"
+  - "[[_Standards/WikiData/WD~Asia_Samarkand,63285960]]"
+  - "[[_Standards/WikiData/WD~UTC+05_00,6806]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Uzbekistan,7112504]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Republic_of_Uzbekistan,7466263]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Uzbekistan,12829589]]"
-railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Uzbekistan,14614995]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103824,27103824]]'
+railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
+driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Uzbekistan,14614995]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27103824,27103824]]"
 head_of_government: "[[_Standards/WikiData/WD~Abdulla_Nigmatovich_Aripov,28002959]]"
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 described_by_source: "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Uzbekistan,97062054]]"
-coordinates_of_easternmost_point: "Point(73.1375 40.816666666)"
+coordinates_of_easternmost_point: Point(73.1375 40.816666666)
 UMLS_CUI: C0042177
 demonym:
   - ؤزباكي
@@ -176,46 +177,46 @@ demonym:
   - uzbequistanín
   - uzbequistanina
   - উজবেক
-name_in_native_language: "O‘zbekiston Respublikasi"
-official_name: "O‘zbekiston Respublikasi"
-ISNI: 0000000406118341
-coordinate_location: "Point(66.0 41.0)"
+name_in_native_language: O‘zbekiston Respublikasi
+official_name: O‘zbekiston Respublikasi
+ISNI: 406118341
+coordinate_location: Point(66.0 41.0)
 MeSH_tree_code:
   - Z01.252.100.975
   - Z01.542.931.975
   - Z01.586.950.975
-country: '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-capital: '[[_Standards/WikiData/WD~Tashkent,269]]'
+country: "[[_Standards/WikiData/WD~Uzbekistan,265]]"
+capital: "[[_Standards/WikiData/WD~Tashkent,269]]"
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- "[[_Standards/WikiData/WD~North_Korea,423]]"
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Tajikistan,863]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-- "[[_Standards/WikiData/WD~United_States,30]]"
-- '[[_Standards/WikiData/WD~Greece,41]]'
-- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Estonia,191]]'
-- '[[_Standards/WikiData/WD~Ukraine,212]]'
-- '[[_Standards/WikiData/WD~Romania,218]]'
-- '[[_Standards/WikiData/WD~Bulgaria,219]]'
-- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
+  - "[[_Standards/WikiData/WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
+  - "[[_Standards/WikiData/WD~Malaysia,833]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Turkmenistan,874]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Estonia,191]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Romania,218]]"
+  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
+  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
 shares_border_with:
-- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
-- '[[_Standards/WikiData/WD~Tajikistan,863]]'
-- '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-- '[[_Standards/WikiData/WD~Afghanistan,889]]'
-- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
-official_language: '[[_Standards/WikiData/WD~Uzbek,9264]]'
+  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
+  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
+  - "[[_Standards/WikiData/WD~Turkmenistan,874]]"
+  - "[[_Standards/WikiData/WD~Afghanistan,889]]"
+  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+official_language: "[[_Standards/WikiData/WD~Uzbek,9264]]"
 part_of: "[[_Standards/WikiData/WD~Central_Asia,27275]]"
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+continent: "[[_Standards/WikiData/WD~Asia,48]]"
 VAT_rate: 20
 death_rate:
   - 5
@@ -253,7 +254,7 @@ birth_rate:
   - 24.6
   - 25.9
   - 26.2
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.uz,41846]]'
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.uz,41846]]"
 Gini_coefficient: 35.3
 trunk_prefix: 8
 Happy_Planet_Index_score: 54.1
@@ -268,7 +269,7 @@ maritime_identification_digits: 437
 ISO_3166_1_numeric_code: 860
 M49_code: 860
 life_expectancy: 71.314
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg
 OmegaWiki_Defined_Meaning: 7798
 INSEE_countries_and_foreign_territories_code: 99258
 Dewey_Decimal_Classification: 2--587
@@ -294,13 +295,13 @@ urban_population:
   - 17990170
   - 16935578
   - 17606637
-seal_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Uzbekistan.svg"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Uzbekistan.svg"
+seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Uzbekistan.svg
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Uzbekistan.svg
 PM20_geo_code: B15
-coordinates_of_northernmost_point: "Point(58.65 45.6)"
+coordinates_of_northernmost_point: Point(58.65 45.6)
 native_label:
-- Oʻzbekiston
-- "Oʻzbekiston Respublikasi"
+  - Oʻzbekiston
+  - Oʻzbekiston Respublikasi
 female_population:
   - 16783206
   - 17107641
@@ -308,28 +309,28 @@ female_population:
   - 17809564
 U_S_National_Archives_Identifier: 10045283
 inception: "1991"
-has_time_started: 1991-06 
-coordinates_of_westernmost_point: "Point(56.0 41.319444444)"
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Aral%20Sea%201989-2008.jpg"
+has_time_started: 1991-06
+coordinates_of_westernmost_point: Point(56.0 41.319444444)
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Aral%20Sea%201989-2008.jpg
 FIPS_10_4_countries_and_regions_: UZ
 licence_plate_code: UZ
 ISO_3166_1_alpha_2_code: UZ
 WIPO_ST_3: UZ
 UIC_alphabetical_country_code: UZ
-geoshape: "http://commons.wikimedia.org/data/main/Data:Uzbekistan.map"
+geoshape: http://commons.wikimedia.org/data/main/Data:Uzbekistan.map
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Usbekistan.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Uzbekistan.wav"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Registan%20banner.jpg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/UZB%20orthographic.svg"
-official_website: "https://www.gov.uz/en"
-country_calling_code: +998
-short_name: "\U0001F1FA\U0001F1FF"
-coordinates_of_southernmost_point: "Point(67.788888888 37.1875)"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Usbekistan.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Uzbekistan.wav
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Registan%20banner.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/UZB%20orthographic.svg
+official_website: https://www.gov.uz/en
+country_calling_code: 998
+short_name: 🇺🇿
+coordinates_of_southernmost_point: Point(67.788888888 37.1875)
 Commons_gallery: Oʻzbekiston
 Libris_URI: pm1339771nt8scw
 Krugosvet_article: strany_mira/UZBEKISTAN.html
-Unicode_character: 🇺🇿 
+Unicode_character: 🇺🇿
 GitHub_topic: uzbekistan
 CIVICUS_Monitor_country_entry: uzbekistan
 Commons_category: Uzbekistan

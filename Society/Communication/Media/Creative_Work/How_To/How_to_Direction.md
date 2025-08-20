@@ -1,26 +1,27 @@
 ---
 aliases:
-- how-to-direction
-- how_to_direction
-- HowToDirection
-- is_a_how_to_direction
+  - how-to-direction
+  - how_to_direction
+  - HowToDirection
+  - is_a_how_to_direction
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- how_to_direction
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_how_to_direction Class"
+  - how_to_direction
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_how_to_direction Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_how_to_direction Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_how_to_direction Class
 type: Type
 ---
 

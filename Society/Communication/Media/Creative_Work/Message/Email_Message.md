@@ -1,26 +1,27 @@
 ---
 aliases:
-- email-message
-- email_message
-- EmailMessage
-- is_an_email_message
+  - email-message
+  - email_message
+  - EmailMessage
+  - is_an_email_message
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- email_message
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_email_message Class"
+  - email_message
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_email_message Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_email_message Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_email_message Class
 type: Type
 ---
 

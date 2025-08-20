@@ -1,24 +1,26 @@
 ---
 aliases:
-- color
-- P462
-- has_text_of_color
+  - color
+  - P462
+  - has_text_of_color
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- color
-layout: 
-license: "CC BY-SA 4.0"
+  - color
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_color
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_color
 type: Pred_Text
 ---

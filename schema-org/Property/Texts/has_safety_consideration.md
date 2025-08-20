@@ -1,26 +1,28 @@
 ---
 aliases:
-- safety-consideration
-- safety_consideration
-- safetyConsideration
-- has_text_of_safety_consideration
+  - safety-consideration
+  - safety_consideration
+  - safetyConsideration
+  - has_text_of_safety_consideration
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- safety
-- consideration
-layout: 
-license: "CC BY-SA 4.0"
+  - safety
+  - consideration
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_safety_consideration
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_safety_consideration
 type: Pred_Text
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- throat
-- throat
-- Throat
-- is_a_throat
+  - throat
+  - throat
+  - Throat
+  - is_a_throat
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: PhysicalExam
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- throat
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_throat Class"
+  - throat
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_throat Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_throat Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_throat Class
 type: Type
 ---
 

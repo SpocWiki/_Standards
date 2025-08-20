@@ -1,26 +1,28 @@
 ---
 aliases:
-- browser-requirements
-- browser_requirements
-- browserRequirements
-- has_text_of_browser_requirements
+  - browser-requirements
+  - browser_requirements
+  - browserRequirements
+  - has_text_of_browser_requirements
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- browser
-- requirements
-layout: 
-license: "CC BY-SA 4.0"
+  - browser
+  - requirements
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_browser_requirements
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_browser_requirements
 type: Pred_Text
 ---

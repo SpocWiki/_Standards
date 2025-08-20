@@ -1,26 +1,27 @@
 ---
 aliases:
-- blog
-- blog
-- Blog
-- is_a_blog
+  - blog
+  - blog
+  - Blog
+  - is_a_blog
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- blog
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_blog Class"
+  - blog
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_blog Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_blog Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_blog Class
 type: Type
 ---
 

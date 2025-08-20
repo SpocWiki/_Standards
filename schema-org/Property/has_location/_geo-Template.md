@@ -1,35 +1,31 @@
 ---
 aliases:
-- ? label-dash: 
-  : 
-- ? label_snail: 
-  : 
-- ? label: 
-  : 
-- has_location_{{label_snail}}
+  - "{ label-dash: }":
+  - "{ label_snail: }":
+  - "{ label: }":
+  - has_location_{{label_snail}}
 confidential: public
-cssclasses: "Predicate geo"
+cssclasses:
+  - Predicate
+  - geo
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- ? label_snail: 
-  : 
-layout: 
-license: "CC BY-SA 4.0"
+  - "{ label_snail: }":
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_location_{{label_snail}}
 publish: true
-publishDate: 
+publishDate:
 superseded_by:
-  ? supersededBy: 
-  : 
+  "{ supersededBy: }":
 supersedes:
-  ? supersedes: 
-  : 
+  "{ supersedes: }":
 tags:
-- class/Property
-- schema-org/Property/geo
+  - class/Property
+  - schema-org/Property/geo
 title: has_location_{{label_snail}}
 type: Pred_geo
 ---

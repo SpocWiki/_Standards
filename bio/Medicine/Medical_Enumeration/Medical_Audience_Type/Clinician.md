@@ -1,27 +1,28 @@
 ---
 aliases:
-- clinician
-- clinician
-- Clinician
-- is_a_clinician
+  - clinician
+  - clinician
+  - Clinician
+  - is_a_clinician
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalAudienceType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- clinician
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_clinician Class"
+  - clinician
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_clinician Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_clinician Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_clinician Class
 type: Type
 ---
 

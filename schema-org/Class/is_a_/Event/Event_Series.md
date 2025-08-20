@@ -1,26 +1,27 @@
 ---
 aliases:
-- event-series
-- event_series
-- EventSeries
-- is_an_event_series
+  - event-series
+  - event_series
+  - EventSeries
+  - is_an_event_series
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- event_series
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_event_series Class"
+  - event_series
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_event_series Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_event_series Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_event_series Class
 type: Type
 ---
 

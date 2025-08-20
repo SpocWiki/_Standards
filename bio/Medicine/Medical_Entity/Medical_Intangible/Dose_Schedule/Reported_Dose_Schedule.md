@@ -1,26 +1,27 @@
 ---
 aliases:
-- reported-dose-schedule
-- reported_dose_schedule
-- ReportedDoseSchedule
-- is_a_reported_dose_schedule
+  - reported-dose-schedule
+  - reported_dose_schedule
+  - ReportedDoseSchedule
+  - is_a_reported_dose_schedule
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- reported_dose_schedule
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_reported_dose_schedule Class"
+  - reported_dose_schedule
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_reported_dose_schedule Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_reported_dose_schedule Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_reported_dose_schedule Class
 type: Type
 ---
 

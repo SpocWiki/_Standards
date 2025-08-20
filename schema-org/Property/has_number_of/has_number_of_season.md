@@ -1,25 +1,27 @@
 ---
 aliases:
-- season-number
-- season_number
-- seasonNumber
-- has_number_of_season
+  - season-number
+  - season_number
+  - seasonNumber
+  - has_number_of_season
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- season_number
-layout: 
-license: "CC BY-SA 4.0"
+  - season_number
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_season_number
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_season_number
 type: Predi_Count
 ---

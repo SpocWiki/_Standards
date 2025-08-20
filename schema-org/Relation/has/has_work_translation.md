@@ -1,26 +1,28 @@
 ---
 aliases:
-- work-translation
-- work_translation
-- workTranslation
-- has_work_translation
+  - work-translation
+  - work_translation
+  - workTranslation
+  - has_work_translation
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- work
-- translation
-layout: 
-license: "CC BY-SA 4.0"
+  - work
+  - translation
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_work_translation
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_work_translation
 type: Predi_Relation
 ---

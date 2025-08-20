@@ -1,26 +1,27 @@
 ---
 aliases:
-- diet
-- diet
-- Diet
-- is_a_diet
+  - diet
+  - diet
+  - Diet
+  - is_a_diet
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- diet
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_diet Class"
+  - diet
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_diet Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_diet Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_diet Class
 type: Type
 ---
 

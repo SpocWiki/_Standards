@@ -1,26 +1,28 @@
 ---
 aliases:
-- arrival-station
-- arrival_station
-- arrivalStation
-- has_arrival_station
+  - arrival-station
+  - arrival_station
+  - arrivalStation
+  - has_arrival_station
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- arrival
-- station
-layout: 
-license: "CC BY-SA 4.0"
+  - arrival
+  - station
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_arrival_station
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_arrival_station
 type: Predi_Relation
 ---

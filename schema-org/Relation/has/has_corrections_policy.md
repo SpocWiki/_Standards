@@ -1,26 +1,28 @@
 ---
 aliases:
-- corrections-policy
-- corrections_policy
-- correctionsPolicy
-- has_corrections_policy
+  - corrections-policy
+  - corrections_policy
+  - correctionsPolicy
+  - has_corrections_policy
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- corrections
-- policy
-layout: 
-license: "CC BY-SA 4.0"
+  - corrections
+  - policy
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_corrections_policy
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_corrections_policy
 type: Predi_Relation
 ---

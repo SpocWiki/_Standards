@@ -1,25 +1,27 @@
 ---
 aliases:
-- number_of_doors
-- number-of-doors
-- numberOfDoors
-- has_number_of_doors
+  - number_of_doors
+  - number-of-doors
+  - numberOfDoors
+  - has_number_of_doors
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- number-of-doors
-layout: 
-license: "CC BY-SA 4.0"
+  - number-of-doors
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-doors
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_number-of-doors
 type: Predi_Count
 ---

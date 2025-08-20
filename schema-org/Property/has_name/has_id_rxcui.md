@@ -1,25 +1,27 @@
 ---
 aliases:
-- id_rxcui
-- id_rxcui
-- id_rxcui
-- has_id_rxcui
+  - id_rxcui
+  - id_rxcui
+  - id_rxcui
+  - has_id_rxcui
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- id_rxcui
-layout: 
-license: "CC BY-SA 4.0"
+  - id_rxcui
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_id_rxcui
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_id_rxcui
 type: Pred_Text
 ---

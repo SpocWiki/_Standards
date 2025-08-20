@@ -1,27 +1,28 @@
 ---
 aliases:
-- front-wheel-drive-configuration
-- front_wheel_drive_configuration
-- FrontWheelDriveConfiguration
-- is_a_front_wheel_drive_configuration
+  - front-wheel-drive-configuration
+  - front_wheel_drive_configuration
+  - FrontWheelDriveConfiguration
+  - is_a_front_wheel_drive_configuration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: DriveWheelConfigurationValue
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- front_wheel_drive_configuration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_front_wheel_drive_configuration Class"
+  - front_wheel_drive_configuration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_front_wheel_drive_configuration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_front_wheel_drive_configuration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_front_wheel_drive_configuration Class
 type: Type
 ---
 

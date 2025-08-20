@@ -1,25 +1,27 @@
 ---
 aliases:
-- documentation
-- documentation
-- documentation
-- has_documentation
+  - documentation
+  - documentation
+  - documentation
+  - has_documentation
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- documentation
-layout: 
-license: "CC BY-SA 4.0"
+  - documentation
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_documentation
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_documentation
 type: Predi_Relation
 ---

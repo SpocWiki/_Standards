@@ -1,27 +1,29 @@
 ---
 aliases:
-- contact-point
-- contact_point
-- contactPoint
-- has_contact_point
+  - contact-point
+  - contact_point
+  - contactPoint
+  - has_contact_point
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- contact
-- point
-layout: 
-license: "CC BY-SA 4.0"
+  - contact
+  - point
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_contact_point
 publish: true
-publishDate: 
+publishDate:
 supersedes: contactPoints
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_contact_point
 type: Predi_Relation
 ---

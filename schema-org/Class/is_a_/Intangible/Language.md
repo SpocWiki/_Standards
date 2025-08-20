@@ -1,26 +1,27 @@
 ---
 aliases:
-- Sprache
-- language
-- Language
-- is_a_language
+  - Sprache
+  - language
+  - Language
+  - is_a_language
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- language
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_language Class"
+  - language
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_language Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_language Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_language Class
 type: Type
 ---
 

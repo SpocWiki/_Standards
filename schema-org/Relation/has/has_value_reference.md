@@ -1,26 +1,28 @@
 ---
 aliases:
-- value-reference
-- value_reference
-- valueReference
-- has_value_reference
+  - value-reference
+  - value_reference
+  - valueReference
+  - has_value_reference
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- value
-- reference
-layout: 
-license: "CC BY-SA 4.0"
+  - value
+  - reference
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_value_reference
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_value_reference
 type: Predi_Relation
 ---

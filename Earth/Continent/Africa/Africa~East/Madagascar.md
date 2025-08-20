@@ -1,34 +1,35 @@
 ---
 aliases:
-- Madagascar
-- مدغشقر
-- 马达加斯加
-- Мадагаскар
-- "the Republic of Madagascar"
-- "la República de Madagascar"
+  - Madagascar
+  - مدغشقر
+  - 马达加斯加
+  - Мадагаскар
+  - the Republic of Madagascar
+  - la República de Madagascar
 confidential: public
-cssclasses: Country
+cssclasses:
+  - Country
 draft: false
-expiryDate: 
+expiryDate:
 has_id_wikidata: Q1019
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords:
 Languages:
-- fr-MG
-- mg
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - fr-MG
+  - mg
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 location:
-- -18.8933
-- 47.5083
+  - -18.8933
+  - 47.5083
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate:
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26959
 tags:
-- geo/Country
+  - geo/Country
 title: Madagascar
 type: Country
 ---

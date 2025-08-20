@@ -1,26 +1,28 @@
 ---
 aliases:
-- educational-framework
-- educational_framework
-- educationalFramework
-- has_text_of_educational_framework
+  - educational-framework
+  - educational_framework
+  - educationalFramework
+  - has_text_of_educational_framework
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- educational
-- framework
-layout: 
-license: "CC BY-SA 4.0"
+  - educational
+  - framework
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_educational_framework
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_educational_framework
 type: Pred_Text
 ---

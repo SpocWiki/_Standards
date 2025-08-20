@@ -1,26 +1,27 @@
 ---
 aliases:
-- superficial-anatomy
-- superficial_anatomy
-- SuperficialAnatomy
-- is_a_superficial_anatomy
+  - superficial-anatomy
+  - superficial_anatomy
+  - SuperficialAnatomy
+  - is_a_superficial_anatomy
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- superficial_anatomy
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_superficial_anatomy Class"
+  - superficial_anatomy
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_superficial_anatomy Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_superficial_anatomy Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_superficial_anatomy Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- health-club
-- health_club
-- HealthClub
-- is_a_health_club
+  - health-club
+  - health_club
+  - HealthClub
+  - is_a_health_club
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- health_club
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_health_club Class"
+  - health_club
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_health_club Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_health_club Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_health_club Class
 type: Type
 ---
 

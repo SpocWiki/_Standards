@@ -1,24 +1,26 @@
 ---
 aliases:
-- pickup-time
-- pickup_time
-- pickupTime
-- has_time_to_pick_up
+  - pickup-time
+  - pickup_time
+  - pickupTime
+  - has_time_to_pick_up
 confidential: public
-cssclasses: "Predicate Date_Time"
+cssclasses:
+  - Predicate
+  - Date_Time
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+keywords:
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Date
+  - class/Property
+  - schema-org/Property/Date
 title: has_time_to_pick_up
 type: Predi_Date_Time
 ---

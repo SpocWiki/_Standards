@@ -1,27 +1,29 @@
 ---
 aliases:
-- part-of-season
-- part_of_season
-- partOfSeason
-- is_part_of_season
+  - part-of-season
+  - part_of_season
+  - partOfSeason
+  - is_part_of_season
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- part
-- of
-- season
-layout: 
-license: "CC BY-SA 4.0"
+  - part
+  - of
+  - season
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_part_of_season
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_part_of_season
 type: Predi_Relation
 ---

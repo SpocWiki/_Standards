@@ -1,26 +1,28 @@
 ---
 aliases:
-- departure-station
-- departure_station
-- departureStation
-- has_departure_station
+  - departure-station
+  - departure_station
+  - departureStation
+  - has_departure_station
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- departure
-- station
-layout: 
-license: "CC BY-SA 4.0"
+  - departure
+  - station
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_departure_station
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_departure_station
 type: Predi_Relation
 ---

@@ -1,27 +1,29 @@
 ---
 aliases:
-- media-authenticity-category
-- media_authenticity_category
-- mediaAuthenticityCategory
-- has_media_authenticity_category
+  - media-authenticity-category
+  - media_authenticity_category
+  - mediaAuthenticityCategory
+  - has_media_authenticity_category
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- media
-- authenticity
-- category
-layout: 
-license: "CC BY-SA 4.0"
+  - media
+  - authenticity
+  - category
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_media_authenticity_category
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_media_authenticity_category
 type: Predi_Relation
 ---

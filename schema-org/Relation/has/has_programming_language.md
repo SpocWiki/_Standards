@@ -1,26 +1,28 @@
 ---
 aliases:
-- programming-language
-- programming_language
-- programmingLanguage
-- has_programming_language
+  - programming-language
+  - programming_language
+  - programmingLanguage
+  - has_programming_language
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- programming
-- language
-layout: 
-license: "CC BY-SA 4.0"
+  - programming
+  - language
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_programming_language
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_programming_language
 type: Predi_Relation
 ---

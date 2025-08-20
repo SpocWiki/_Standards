@@ -1,25 +1,27 @@
 ---
 aliases:
-- proprietary
-- proprietary
-- isProprietary
-- is_proprietary
+  - proprietary
+  - proprietary
+  - isProprietary
+  - is_proprietary
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- proprietary
-layout: 
-license: "CC BY-SA 4.0"
+  - proprietary
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_proprietary
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_proprietary
 type: Pred_Bool
 ---

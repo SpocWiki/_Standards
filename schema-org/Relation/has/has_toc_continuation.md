@@ -1,26 +1,28 @@
 ---
 aliases:
-- toc-continuation
-- toc_continuation
-- tocContinuation
-- has_toc_continuation
+  - toc-continuation
+  - toc_continuation
+  - tocContinuation
+  - has_toc_continuation
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- toc
-- continuation
-layout: 
-license: "CC BY-SA 4.0"
+  - toc
+  - continuation
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_toc_continuation
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_toc_continuation
 type: Predi_Relation
 ---

@@ -1,26 +1,28 @@
 ---
 aliases:
-- permit-audience
-- permit_audience
-- permitAudience
-- has_permit_audience
+  - permit-audience
+  - permit_audience
+  - permitAudience
+  - has_permit_audience
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- permit
-- audience
-layout: 
-license: "CC BY-SA 4.0"
+  - permit
+  - audience
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_permit_audience
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_permit_audience
 type: Predi_Relation
 ---

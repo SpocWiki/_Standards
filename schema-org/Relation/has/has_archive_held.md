@@ -1,26 +1,28 @@
 ---
 aliases:
-- archive-held
-- archive_held
-- archiveHeld
-- has_archive_held
+  - archive-held
+  - archive_held
+  - archiveHeld
+  - has_archive_held
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- archive
-- held
-layout: 
-license: "CC BY-SA 4.0"
+  - archive
+  - held
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_archive_held
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_archive_held
 type: Predi_Relation
 ---

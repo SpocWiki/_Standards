@@ -1,26 +1,28 @@
 ---
 aliases:
-- accessibility-api
-- accessibility_api
-- accessibilityAPI
-- has_text_of_accessibility_api
+  - accessibility-api
+  - accessibility_api
+  - accessibilityAPI
+  - has_text_of_accessibility_api
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- accessibility
-- api
-layout: 
-license: "CC BY-SA 4.0"
+  - accessibility
+  - api
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_accessibility_api
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_accessibility_api
 type: Pred_Text
 ---

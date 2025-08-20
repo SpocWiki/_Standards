@@ -1,26 +1,27 @@
 ---
 aliases:
-- hvac-business
-- hvac_business
-- HVACBusiness
-- is_a_hvac_business
+  - hvac-business
+  - hvac_business
+  - HVACBusiness
+  - is_a_hvac_business
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- hvac_business
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_hvac_business Class"
+  - hvac_business
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_hvac_business Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_hvac_business Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_hvac_business Class
 type: Type
 ---
 

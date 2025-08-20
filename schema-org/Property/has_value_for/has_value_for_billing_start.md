@@ -1,25 +1,27 @@
 ---
 aliases:
-- billing_start
-- billing-start
-- billingStart
-- has_value_for_billing_start
+  - billing_start
+  - billing-start
+  - billingStart
+  - has_value_for_billing_start
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- billing-start
-layout: 
-license: "CC BY-SA 4.0"
+  - billing-start
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_billing-start
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_billing-start
 type: Predi_Quantity
 ---

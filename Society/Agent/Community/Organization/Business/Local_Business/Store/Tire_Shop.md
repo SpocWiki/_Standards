@@ -1,26 +1,27 @@
 ---
 aliases:
-- tire-shop
-- tire_shop
-- TireShop
-- is_a_tire_shop
+  - tire-shop
+  - tire_shop
+  - TireShop
+  - is_a_tire_shop
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- tire_shop
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_tire_shop Class"
+  - tire_shop
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_tire_shop Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_tire_shop Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_tire_shop Class
 type: Type
 ---
 

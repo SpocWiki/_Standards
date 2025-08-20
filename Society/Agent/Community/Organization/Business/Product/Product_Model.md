@@ -1,26 +1,27 @@
 ---
 aliases:
-- product-model
-- product_model
-- ProductModel
-- is_a_product_model
+  - product-model
+  - product_model
+  - ProductModel
+  - is_a_product_model
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- product_model
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_product_model Class"
+  - product_model
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_product_model Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_product_model Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_product_model Class
 type: Type
 ---
 

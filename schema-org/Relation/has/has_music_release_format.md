@@ -1,27 +1,29 @@
 ---
 aliases:
-- music-release-format
-- music_release_format
-- musicReleaseFormat
-- has_music_release_format
+  - music-release-format
+  - music_release_format
+  - musicReleaseFormat
+  - has_music_release_format
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- music
-- release
-- format
-layout: 
-license: "CC BY-SA 4.0"
+  - music
+  - release
+  - format
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_music_release_format
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_music_release_format
 type: Predi_Relation
 ---

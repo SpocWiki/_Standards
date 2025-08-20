@@ -1,26 +1,28 @@
 ---
 aliases:
-- target-population
-- target_population
-- targetPopulation
-- has_text_of_target_population
+  - target-population
+  - target_population
+  - targetPopulation
+  - has_text_of_target_population
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- target
-- population
-layout: 
-license: "CC BY-SA 4.0"
+  - target
+  - population
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_target_population
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_target_population
 type: Pred_Text
 ---

@@ -1,25 +1,27 @@
 ---
 aliases:
-- payload
-- payload
-- payload
-- has_value_for_payload_kg
+  - payload
+  - payload
+  - payload
+  - has_value_for_payload_kg
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- payload
-layout: 
-license: "CC BY-SA 4.0"
+  - payload
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_payload
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_payload
 type: Predi_Quantity
 ---

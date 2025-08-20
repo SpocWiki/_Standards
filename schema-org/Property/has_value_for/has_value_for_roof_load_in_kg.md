@@ -1,25 +1,27 @@
 ---
 aliases:
-- roof_load
-- roof-load
-- roofLoad
-- has_value_for_roof_load_in_kg
+  - roof_load
+  - roof-load
+  - roofLoad
+  - has_value_for_roof_load_in_kg
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- roof-load
-layout: 
-license: "CC BY-SA 4.0"
+  - roof-load
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_roof-load
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_roof-load
 type: Predi_Quantity
 ---

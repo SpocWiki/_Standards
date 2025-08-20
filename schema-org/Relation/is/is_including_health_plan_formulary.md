@@ -1,24 +1,26 @@
 ---
 aliases:
-- includes-health-plan-formulary
-- including_health_plan_formulary
-- includesHealthPlanFormulary
-- is_including_health_plan_formulary
+  - includes-health-plan-formulary
+  - including_health_plan_formulary
+  - includesHealthPlanFormulary
+  - is_including_health_plan_formulary
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_including_health_plan_formulary
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_including_health_plan_formulary
 type: Predi_Relation
 ---

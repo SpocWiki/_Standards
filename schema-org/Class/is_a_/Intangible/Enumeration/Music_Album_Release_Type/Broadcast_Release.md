@@ -1,27 +1,28 @@
 ---
 aliases:
-- broadcast-release
-- broadcast_release
-- BroadcastRelease
-- is_a_broadcast_release
+  - broadcast-release
+  - broadcast_release
+  - BroadcastRelease
+  - is_a_broadcast_release
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MusicAlbumReleaseType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast_release
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_broadcast_release Class"
+  - broadcast_release
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_broadcast_release Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_broadcast_release Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_broadcast_release Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- prevention-indication
-- prevention_indication
-- PreventionIndication
-- is_a_prevention_indication
+  - prevention-indication
+  - prevention_indication
+  - PreventionIndication
+  - is_a_prevention_indication
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- prevention_indication
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_prevention_indication Class"
+  - prevention_indication
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_prevention_indication Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_prevention_indication Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_prevention_indication Class
 type: Type
 ---
 

@@ -1,27 +1,28 @@
 ---
 aliases:
-- demo-game-availability
-- demo_game_availability
-- DemoGameAvailability
-- is_a_demo_game_availability
+  - demo-game-availability
+  - demo_game_availability
+  - DemoGameAvailability
+  - is_a_demo_game_availability
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: GameAvailabilityEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- demo_game_availability
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_demo_game_availability Class"
+  - demo_game_availability
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_demo_game_availability Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_demo_game_availability Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_demo_game_availability Class
 type: Type
 ---
 

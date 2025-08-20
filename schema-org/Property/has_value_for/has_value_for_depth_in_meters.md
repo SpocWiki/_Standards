@@ -1,25 +1,27 @@
 ---
 aliases:
-- depth
-- depth
-- depth
-- has_value_for_depth_in_meters
+  - depth
+  - depth
+  - depth
+  - has_value_for_depth_in_meters
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- depth
-layout: 
-license: "CC BY-SA 4.0"
+  - depth
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_depth
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_depth
 type: Predi_Quantity
 ---

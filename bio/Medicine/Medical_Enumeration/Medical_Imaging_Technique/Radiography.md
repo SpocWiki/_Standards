@@ -1,27 +1,28 @@
 ---
 aliases:
-- radiography
-- radiography
-- Radiography
-- is_a_radiography
+  - radiography
+  - radiography
+  - Radiography
+  - is_a_radiography
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalImagingTechnique
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- radiography
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_radiography Class"
+  - radiography
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_radiography Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_radiography Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_radiography Class
 type: Type
 ---
 

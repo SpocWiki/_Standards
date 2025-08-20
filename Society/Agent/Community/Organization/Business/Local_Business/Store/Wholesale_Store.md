@@ -1,26 +1,27 @@
 ---
 aliases:
-- wholesale-store
-- wholesale_store
-- WholesaleStore
-- is_a_wholesale_store
+  - wholesale-store
+  - wholesale_store
+  - WholesaleStore
+  - is_a_wholesale_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wholesale_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wholesale_store Class"
+  - wholesale_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wholesale_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wholesale_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wholesale_store Class
 type: Type
 ---
 

@@ -1,28 +1,30 @@
 ---
 aliases:
-- main-entity-of-page
-- main_entity_of_page
-- mainEntityOfPage
-- is_main_entity_of_page
+  - main-entity-of-page
+  - main_entity_of_page
+  - mainEntityOfPage
+  - is_main_entity_of_page
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- main
-- entity
-- of
-- page
-layout: 
-license: "CC BY-SA 4.0"
+  - main
+  - entity
+  - of
+  - page
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_main_entity_of_page
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_main_entity_of_page
 type: Predi_Relation
 ---

@@ -1,26 +1,27 @@
 ---
 aliases:
-- fire-station
-- fire_station
-- FireStation
-- is_a_fire_station
+  - fire-station
+  - fire_station
+  - FireStation
+  - is_a_fire_station
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- fire_station
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_fire_station Class"
+  - fire_station
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_fire_station Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_fire_station Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_fire_station Class
 type: Type
 ---
 

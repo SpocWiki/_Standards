@@ -1,25 +1,27 @@
 ---
 aliases:
-- artist
-- artist
-- artist
-- has_artist
+  - artist
+  - artist
+  - artist
+  - has_artist
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- artist
-layout: 
-license: "CC BY-SA 4.0"
+  - artist
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_artist
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_artist
 type: Predi_Relation
 ---

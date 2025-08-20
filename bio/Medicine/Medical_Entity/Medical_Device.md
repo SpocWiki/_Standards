@@ -1,27 +1,28 @@
 ---
 aliases:
-- medical-device
-- medical_device
-- MedicalDevice
-- is_a_medical_device
+  - medical-device
+  - medical_device
+  - MedicalDevice
+  - is_a_medical_device
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-equivalent_class: "http://purl.bioontology.org/ontology/SNOMEDCT/63653004"
-expiryDate: 
+equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/63653004
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_device
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_device Class"
+  - medical_device
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_device Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_device Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_device Class
 type: Type
 ---
 

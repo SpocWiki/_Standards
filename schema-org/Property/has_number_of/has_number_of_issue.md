@@ -1,25 +1,27 @@
 ---
 aliases:
-- issue-number
-- issue_number
-- issueNumber
-- has_number_of_issue
+  - issue-number
+  - issue_number
+  - issueNumber
+  - has_number_of_issue
 confidential: public
-cssclasses: "Predicate Count"
+cssclasses:
+  - Predicate
+  - Count
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- issue_number
-layout: 
-license: "CC BY-SA 4.0"
+  - issue_number
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_number_of_issue_number
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Count
+  - class/Property
+  - schema-org/Property/Count
 title: has_number_of_issue_number
 type: Predi_Count
 ---

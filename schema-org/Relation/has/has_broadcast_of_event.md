@@ -1,27 +1,29 @@
 ---
 aliases:
-- broadcast-of-event
-- broadcast_of_event
-- broadcastOfEvent
-- has_broadcast_of_event
+  - broadcast-of-event
+  - broadcast_of_event
+  - broadcastOfEvent
+  - has_broadcast_of_event
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast
-- of
-- event
-layout: 
-license: "CC BY-SA 4.0"
+  - broadcast
+  - of
+  - event
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_broadcast_of_event
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_broadcast_of_event
 type: Predi_Relation
 ---

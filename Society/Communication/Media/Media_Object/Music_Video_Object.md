@@ -1,26 +1,27 @@
 ---
 aliases:
-- music-video-object
-- music_video_object
-- MusicVideoObject
-- is_a_music_video_object
+  - music-video-object
+  - music_video_object
+  - MusicVideoObject
+  - is_a_music_video_object
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- music_video_object
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_music_video_object Class"
+  - music_video_object
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_music_video_object Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_music_video_object Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_music_video_object Class
 type: Type
 ---
 

@@ -1,25 +1,27 @@
 ---
 aliases:
-- coach
-- coach
-- coach
-- has_coach
+  - coach
+  - coach
+  - coach
+  - has_coach
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- coach
-layout: 
-license: "CC BY-SA 4.0"
+  - coach
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_coach
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_coach
 type: Predi_Relation
 ---

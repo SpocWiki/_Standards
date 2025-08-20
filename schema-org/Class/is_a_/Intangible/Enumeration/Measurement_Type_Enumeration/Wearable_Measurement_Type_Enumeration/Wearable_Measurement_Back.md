@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-measurement-back
-- wearable_measurement_back
-- WearableMeasurementBack
-- is_a_wearable_measurement_back
+  - wearable-measurement-back
+  - wearable_measurement_back
+  - WearableMeasurementBack
+  - is_a_wearable_measurement_back
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_measurement_back
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_measurement_back Class"
+  - wearable_measurement_back
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_measurement_back Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_measurement_back Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_measurement_back Class
 type: Type
 ---
 

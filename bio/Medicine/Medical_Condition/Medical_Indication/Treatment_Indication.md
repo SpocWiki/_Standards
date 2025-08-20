@@ -1,26 +1,27 @@
 ---
 aliases:
-- treatment-indication
-- treatment_indication
-- TreatmentIndication
-- is_a_treatment_indication
+  - treatment-indication
+  - treatment_indication
+  - TreatmentIndication
+  - is_a_treatment_indication
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- treatment_indication
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_treatment_indication Class"
+  - treatment_indication
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_treatment_indication Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_treatment_indication Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_treatment_indication Class
 type: Type
 ---
 

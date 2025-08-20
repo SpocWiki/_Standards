@@ -1,26 +1,27 @@
 ---
 aliases:
-- action-access-specification
-- action_access_specification
-- ActionAccessSpecification
-- is_an_action_access_specification
+  - action-access-specification
+  - action_access_specification
+  - ActionAccessSpecification
+  - is_an_action_access_specification
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- action_access_specification
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_action_access_specification Class"
+  - action_access_specification
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_action_access_specification Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_action_access_specification Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_action_access_specification Class
 type: Type
 ---
 

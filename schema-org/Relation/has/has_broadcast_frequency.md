@@ -1,26 +1,28 @@
 ---
 aliases:
-- broadcast-frequency
-- broadcast_frequency
-- broadcastFrequency
-- has_broadcast_frequency
+  - broadcast-frequency
+  - broadcast_frequency
+  - broadcastFrequency
+  - has_broadcast_frequency
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- broadcast
-- frequency
-layout: 
-license: "CC BY-SA 4.0"
+  - broadcast
+  - frequency
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_broadcast_frequency
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_broadcast_frequency
 type: Predi_Relation
 ---

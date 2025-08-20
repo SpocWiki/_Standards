@@ -1,26 +1,27 @@
 ---
 aliases:
-- radio-channel
-- radio_channel
-- RadioChannel
-- is_a_radio_channel
+  - radio-channel
+  - radio_channel
+  - RadioChannel
+  - is_a_radio_channel
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- radio_channel
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_radio_channel Class"
+  - radio_channel
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_radio_channel Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_radio_channel Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_radio_channel Class
 type: Type
 ---
 

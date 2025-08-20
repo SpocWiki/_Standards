@@ -1,25 +1,27 @@
 ---
 aliases:
-- permissions
-- permissions
-- permissions
-- has_text_of_permissions
+  - permissions
+  - permissions
+  - permissions
+  - has_text_of_permissions
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- permissions
-layout: 
-license: "CC BY-SA 4.0"
+  - permissions
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_permissions
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_permissions
 type: Pred_Text
 ---

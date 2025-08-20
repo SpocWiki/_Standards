@@ -1,26 +1,28 @@
 ---
 aliases:
-- size-system
-- size_system
-- sizeSystem
-- has_size_system
+  - size-system
+  - size_system
+  - sizeSystem
+  - has_size_system
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- size
-- system
-layout: 
-license: "CC BY-SA 4.0"
+  - size
+  - system
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_size_system
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_size_system
 type: Predi_Relation
 ---

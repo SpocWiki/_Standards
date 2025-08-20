@@ -1,24 +1,26 @@
 ---
 aliases:
-- estimates-risk-of
-- estimating_risk_of
-- estimatesRiskOf
-- is_estimating_risk_of
+  - estimates-risk-of
+  - estimating_risk_of
+  - estimatesRiskOf
+  - is_estimating_risk_of
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
-layout: 
-license: "CC BY-SA 4.0"
+keywords:
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_estimating_risk_of
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: is_estimating_risk_of
 type: Predi_Relation
 ---

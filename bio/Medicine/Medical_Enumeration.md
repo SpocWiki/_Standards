@@ -1,26 +1,27 @@
 ---
 aliases:
-- medical-enumeration
-- medical_enumeration
-- MedicalEnumeration
-- is_a_medical_enumeration
+  - medical-enumeration
+  - medical_enumeration
+  - MedicalEnumeration
+  - is_a_medical_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- medical_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_medical_enumeration Class"
+  - medical_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_medical_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_medical_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_medical_enumeration Class
 type: Type
 ---
 

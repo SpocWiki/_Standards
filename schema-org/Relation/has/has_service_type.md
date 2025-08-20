@@ -1,26 +1,28 @@
 ---
 aliases:
-- service-type
-- service_type
-- serviceType
-- has_service_type
+  - service-type
+  - service_type
+  - serviceType
+  - has_service_type
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- service
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - service
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_service_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_service_type
 type: Predi_Relation
 ---

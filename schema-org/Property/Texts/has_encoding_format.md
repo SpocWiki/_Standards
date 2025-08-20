@@ -1,27 +1,29 @@
 ---
 aliases:
-- encoding-format
-- encoding_format
-- encodingFormat
-- has_text_of_encoding_format
+  - encoding-format
+  - encoding_format
+  - encodingFormat
+  - has_text_of_encoding_format
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- encoding
-- format
-layout: 
-license: "CC BY-SA 4.0"
+  - encoding
+  - format
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_encoding_format
 publish: true
-publishDate: 
+publishDate:
 supersedes: fileFormat
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_encoding_format
 type: Pred_Text
 ---

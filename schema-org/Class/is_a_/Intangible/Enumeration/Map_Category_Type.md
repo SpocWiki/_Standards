@@ -1,26 +1,27 @@
 ---
 aliases:
-- map-category-type
-- map_category_type
-- MapCategoryType
-- is_a_map_category_type
+  - map-category-type
+  - map_category_type
+  - MapCategoryType
+  - is_a_map_category_type
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- map_category_type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_map_category_type Class"
+  - map_category_type
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_map_category_type Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_map_category_type Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_map_category_type Class
 type: Type
 ---
 

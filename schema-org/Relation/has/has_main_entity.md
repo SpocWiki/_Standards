@@ -1,26 +1,28 @@
 ---
 aliases:
-- main-entity
-- main_entity
-- mainEntity
-- has_main_entity
+  - main-entity
+  - main_entity
+  - mainEntity
+  - has_main_entity
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- main
-- entity
-layout: 
-license: "CC BY-SA 4.0"
+  - main
+  - entity
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_main_entity
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_main_entity
 type: Predi_Relation
 ---

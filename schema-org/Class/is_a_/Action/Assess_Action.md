@@ -1,26 +1,27 @@
 ---
 aliases:
-- assess-action
-- assess_action
-- AssessAction
-- is_an_assess_action
+  - assess-action
+  - assess_action
+  - AssessAction
+  - is_an_assess_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- assess_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_assess_action Class"
+  - assess_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_assess_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_assess_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_assess_action Class
 type: Type
 ---
 

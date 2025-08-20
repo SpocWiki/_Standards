@@ -1,26 +1,28 @@
 ---
 aliases:
-- item-reviewed
-- item_reviewed
-- itemReviewed
-- has_item_reviewed
+  - item-reviewed
+  - item_reviewed
+  - itemReviewed
+  - has_item_reviewed
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- item
-- reviewed
-layout: 
-license: "CC BY-SA 4.0"
+  - item
+  - reviewed
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_item_reviewed
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_item_reviewed
 type: Predi_Relation
 ---

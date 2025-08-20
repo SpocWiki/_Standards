@@ -1,27 +1,28 @@
 ---
 aliases:
-- not-in-force
-- not_in_force
-- NotInForce
-- is_a_not_in_force
+  - not-in-force
+  - not_in_force
+  - NotInForce
+  - is_a_not_in_force
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: LegalForceStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- not_in_force
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_not_in_force Class"
+  - not_in_force
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_not_in_force Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_not_in_force Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_not_in_force Class
 type: Type
 ---
 

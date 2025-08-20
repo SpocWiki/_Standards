@@ -1,25 +1,27 @@
 ---
 aliases:
-- has-value
-- true
-- value
-- is_true
+  - has-value
+  - true
+  - value
+  - is_true
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- true
-layout: 
-license: "CC BY-SA 4.0"
+  - true
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_true
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_true
 type: Pred_Bool
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- return-label-download-and-print
-- return_label_download_and_print
-- ReturnLabelDownloadAndPrint
-- is_a_return_label_download_and_print
+  - return-label-download-and-print
+  - return_label_download_and_print
+  - ReturnLabelDownloadAndPrint
+  - is_a_return_label_download_and_print
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReturnLabelSourceEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return_label_download_and_print
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_return_label_download_and_print Class"
+  - return_label_download_and_print
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_return_label_download_and_print Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_return_label_download_and_print Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_return_label_download_and_print Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- food-establishment
-- food_establishment
-- foodEstablishment
-- has_food_establishment
+  - food-establishment
+  - food_establishment
+  - foodEstablishment
+  - has_food_establishment
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- food
-- establishment
-layout: 
-license: "CC BY-SA 4.0"
+  - food
+  - establishment
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_food_establishment
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_food_establishment
 type: Predi_Relation
 ---

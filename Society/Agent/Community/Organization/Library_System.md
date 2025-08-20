@@ -1,26 +1,27 @@
 ---
 aliases:
-- library-system
-- library_system
-- LibrarySystem
-- is_a_library_system
+  - library-system
+  - library_system
+  - LibrarySystem
+  - is_a_library_system
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- library_system
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_library_system Class"
+  - library_system
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_library_system Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_library_system Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_library_system Class
 type: Type
 ---
 

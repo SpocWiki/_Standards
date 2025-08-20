@@ -1,25 +1,27 @@
 ---
 aliases:
-- fiber_in_gram
-- fiber-content
-- fiberContent
-- has_value_for_fiber_in_gram
+  - fiber_in_gram
+  - fiber-content
+  - fiberContent
+  - has_value_for_fiber_in_gram
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- fiber-content
-layout: 
-license: "CC BY-SA 4.0"
+  - fiber-content
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_fiber-content
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_fiber-content
 type: Predi_Quantity
 ---

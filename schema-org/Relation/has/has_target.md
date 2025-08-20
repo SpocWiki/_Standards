@@ -1,25 +1,27 @@
 ---
 aliases:
-- target
-- target
-- target
-- has_target
+  - target
+  - target
+  - target
+  - has_target
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- target
-layout: 
-license: "CC BY-SA 4.0"
+  - target
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_target
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_target
 type: Predi_Relation
 ---

@@ -1,32 +1,33 @@
 ---
 aliases:
-- "U.S. Outlying Islands"
-- "United States Minor Outlying Islands"
-- "Islas menores alejadas de Estados Unidos"
-- "Îles mineures éloignées des États-Unis"
-- "نائية التابعة للولايات المتحدة"
-- 美国本土外小岛屿
-- "Внешние малые острова Coeдинeнныx Штaтoв"
-- 
+  - U.S. Outlying Islands
+  - United States Minor Outlying Islands
+  - Islas menores alejadas de Estados Unidos
+  - Îles mineures éloignées des États-Unis
+  - نائية التابعة للولايات المتحدة
+  - 美国本土外小岛屿
+  - Внешние малые острова Coeдинeнныx Штaтoв
+  - 
 confidential: public
-cssclasses: Country
+cssclasses:
+  - Country
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords:
 Languages:
-- en-UM
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - en-UM
+layout:
+license: CC BY-SA 4.0
+linkTitle:
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate:
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 27046
 tags:
-- geo/Country
-title: "U.S. Outlying Islands"
+  - geo/Country
+title: U.S. Outlying Islands
 type: Country
 ---
 

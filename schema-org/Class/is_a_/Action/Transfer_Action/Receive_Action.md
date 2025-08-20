@@ -1,26 +1,27 @@
 ---
 aliases:
-- receive-action
-- receive_action
-- ReceiveAction
-- is_a_receive_action
+  - receive-action
+  - receive_action
+  - ReceiveAction
+  - is_a_receive_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- receive_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_receive_action Class"
+  - receive_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_receive_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_receive_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_receive_action Class
 type: Type
 ---
 

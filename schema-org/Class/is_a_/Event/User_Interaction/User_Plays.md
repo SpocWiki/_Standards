@@ -1,27 +1,28 @@
 ---
 aliases:
-- user-plays
-- user_plays
-- UserPlays
-- is_a_user_plays
+  - user-plays
+  - user_plays
+  - UserPlays
+  - is_a_user_plays
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- user_plays
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_user_plays Class"
+  - user_plays
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_user_plays Class
 publish: true
-publishDate: 
+publishDate:
 superseded_by: InteractionCounter
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_user_plays Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_user_plays Class
 type: Type
 ---
 

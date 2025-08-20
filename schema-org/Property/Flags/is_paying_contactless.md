@@ -1,25 +1,27 @@
 ---
 aliases:
-- contactless-payment
-- paying_contactless
-- contactlessPayment
-- is_paying_contactless
+  - contactless-payment
+  - paying_contactless
+  - contactlessPayment
+  - is_paying_contactless
 confidential: public
-cssclasses: "Predicate Boolean"
+cssclasses:
+  - Predicate
+  - Boolean
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- paying_contactless
-layout: 
-license: "CC BY-SA 4.0"
+  - paying_contactless
+layout:
+license: CC BY-SA 4.0
 linkTitle: is_paying_contactless
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/True
+  - class/Property
+  - schema-org/Property/True
 title: is_paying_contactless
 type: Pred_Bool
 ---

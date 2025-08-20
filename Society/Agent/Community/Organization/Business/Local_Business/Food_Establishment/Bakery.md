@@ -1,26 +1,27 @@
 ---
 aliases:
-- bakery
-- bakery
-- Bakery
-- is_a_bakery
+  - bakery
+  - bakery
+  - Bakery
+  - is_a_bakery
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- bakery
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_bakery Class"
+  - bakery
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_bakery Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_bakery Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_bakery Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- return-label-source-enumeration
-- return_label_source_enumeration
-- ReturnLabelSourceEnumeration
-- is_a_return_label_source_enumeration
+  - return-label-source-enumeration
+  - return_label_source_enumeration
+  - ReturnLabelSourceEnumeration
+  - is_a_return_label_source_enumeration
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- return_label_source_enumeration
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_return_label_source_enumeration Class"
+  - return_label_source_enumeration
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_return_label_source_enumeration Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_return_label_source_enumeration Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_return_label_source_enumeration Class
 type: Type
 ---
 

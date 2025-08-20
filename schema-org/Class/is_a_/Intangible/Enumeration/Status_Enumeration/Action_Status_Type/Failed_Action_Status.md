@@ -1,27 +1,28 @@
 ---
 aliases:
-- failed-action-status
-- failed_action_status
-- FailedActionStatus
-- is_a_failed_action_status
+  - failed-action-status
+  - failed_action_status
+  - FailedActionStatus
+  - is_a_failed_action_status
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ActionStatusType
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- failed_action_status
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_failed_action_status Class"
+  - failed_action_status
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_failed_action_status Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_failed_action_status Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_failed_action_status Class
 type: Type
 ---
 

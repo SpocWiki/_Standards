@@ -1,26 +1,28 @@
 ---
 aliases:
-- trial-design
-- trial_design
-- trialDesign
-- has_trial_design
+  - trial-design
+  - trial_design
+  - trialDesign
+  - has_trial_design
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- trial
-- design
-layout: 
-license: "CC BY-SA 4.0"
+  - trial
+  - design
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_trial_design
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_trial_design
 type: Predi_Relation
 ---

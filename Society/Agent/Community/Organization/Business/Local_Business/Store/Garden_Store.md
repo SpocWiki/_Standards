@@ -1,26 +1,27 @@
 ---
 aliases:
-- garden-store
-- garden_store
-- GardenStore
-- is_a_garden_store
+  - garden-store
+  - garden_store
+  - GardenStore
+  - is_a_garden_store
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- garden_store
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_garden_store Class"
+  - garden_store
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_garden_store Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_garden_store Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_garden_store Class
 type: Type
 ---
 

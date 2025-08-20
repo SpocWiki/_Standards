@@ -1,27 +1,28 @@
 ---
 aliases:
-- restocking-fees
-- restocking_fees
-- RestockingFees
-- is_a_restocking_fees
+  - restocking-fees
+  - restocking_fees
+  - RestockingFees
+  - is_a_restocking_fees
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ReturnFeesEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- restocking_fees
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_restocking_fees Class"
+  - restocking_fees
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_restocking_fees Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_restocking_fees Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_restocking_fees Class
 type: Type
 ---
 

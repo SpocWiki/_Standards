@@ -1,27 +1,28 @@
 ---
 aliases:
-- observational
-- observational
-- Observational
-- is_an_observational
+  - observational
+  - observational
+  - Observational
+  - is_an_observational
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: MedicalObservationalStudyDesign
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- observational
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_observational Class"
+  - observational
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_observational Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_observational Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_observational Class
 type: Type
 ---
 

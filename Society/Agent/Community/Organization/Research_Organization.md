@@ -1,26 +1,27 @@
 ---
 aliases:
-- research-organization
-- research_organization
-- ResearchOrganization
-- is_a_research_organization
+  - research-organization
+  - research_organization
+  - ResearchOrganization
+  - is_a_research_organization
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- research_organization
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_research_organization Class"
+  - research_organization
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_research_organization Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_research_organization Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_research_organization Class
 type: Type
 ---
 

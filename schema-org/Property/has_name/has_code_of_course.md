@@ -1,26 +1,28 @@
 ---
 aliases:
-- course-code
-- code_of_course
-- courseCode
-- has_code_of_course
+  - course-code
+  - code_of_course
+  - courseCode
+  - has_code_of_course
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- course
-- code
-layout: 
-license: "CC BY-SA 4.0"
+  - course
+  - code
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_code_of_course
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_code_of_course
 type: Pred_Text
 ---

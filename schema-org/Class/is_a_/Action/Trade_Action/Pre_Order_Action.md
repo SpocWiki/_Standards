@@ -1,26 +1,27 @@
 ---
 aliases:
-- pre-order-action
-- pre_order_action
-- PreOrderAction
-- is_a_pre_order_action
+  - pre-order-action
+  - pre_order_action
+  - PreOrderAction
+  - is_a_pre_order_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- pre_order_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_pre_order_action Class"
+  - pre_order_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_pre_order_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_pre_order_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_pre_order_action Class
 type: Type
 ---
 

@@ -1,26 +1,28 @@
 ---
 aliases:
-- cheat-code
-- cheat_code
-- cheatCode
-- has_cheat_code
+  - cheat-code
+  - cheat_code
+  - cheatCode
+  - has_cheat_code
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- cheat
-- code
-layout: 
-license: "CC BY-SA 4.0"
+  - cheat
+  - code
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_cheat_code
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_cheat_code
 type: Predi_Relation
 ---

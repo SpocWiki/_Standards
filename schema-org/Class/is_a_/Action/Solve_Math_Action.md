@@ -1,26 +1,27 @@
 ---
 aliases:
-- solve-math-action
-- solve_math_action
-- SolveMathAction
-- is_a_solve_math_action
+  - solve-math-action
+  - solve_math_action
+  - SolveMathAction
+  - is_a_solve_math_action
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- solve_math_action
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_solve_math_action Class"
+  - solve_math_action
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_solve_math_action Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_solve_math_action Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_solve_math_action Class
 type: Type
 ---
 

@@ -1,26 +1,27 @@
 ---
 aliases:
-- single-family-residence
-- single_family_residence
-- SingleFamilyResidence
-- is_a_single_family_residence
+  - single-family-residence
+  - single_family_residence
+  - SingleFamilyResidence
+  - is_a_single_family_residence
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- single_family_residence
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_single_family_residence Class"
+  - single_family_residence
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_single_family_residence Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_single_family_residence Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_single_family_residence Class
 type: Type
 ---
 

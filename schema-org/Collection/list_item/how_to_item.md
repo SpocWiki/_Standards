@@ -1,26 +1,27 @@
 ---
 aliases:
-- how-to-item
-- how_to_item
-- HowToItem
-- is_a_how_to_item
+  - how-to-item
+  - how_to_item
+  - HowToItem
+  - is_a_how_to_item
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- how_to_item
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_how_to_item Class"
+  - how_to_item
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_how_to_item Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_how_to_item Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_how_to_item Class
 type: Type
 ---
 

@@ -1,25 +1,27 @@
 ---
 aliases:
-- advance_booking_requirement
-- advance-booking-requirement
-- advanceBookingRequirement
-- has_value_for_advance_booking_requirement
+  - advance_booking_requirement
+  - advance-booking-requirement
+  - advanceBookingRequirement
+  - has_value_for_advance_booking_requirement
 confidential: public
-cssclasses: "Predicate Quantity"
+cssclasses:
+  - Predicate
+  - Quantity
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- advance-booking-requirement
-layout: 
-license: "CC BY-SA 4.0"
+  - advance-booking-requirement
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_advance-booking-requirement
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Quantity
+  - class/Property
+  - schema-org/Property/Quantity
 title: has_advance-booking-requirement
 type: Predi_Quantity
 ---

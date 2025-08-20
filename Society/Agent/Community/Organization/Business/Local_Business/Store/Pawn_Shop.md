@@ -1,26 +1,27 @@
 ---
 aliases:
-- pawn-shop
-- pawn_shop
-- PawnShop
-- is_a_pawn_shop
+  - pawn-shop
+  - pawn_shop
+  - PawnShop
+  - is_a_pawn_shop
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- pawn_shop
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_pawn_shop Class"
+  - pawn_shop
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_pawn_shop Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_pawn_shop Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_pawn_shop Class
 type: Type
 ---
 

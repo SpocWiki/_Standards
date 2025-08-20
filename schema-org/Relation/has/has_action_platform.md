@@ -1,26 +1,28 @@
 ---
 aliases:
-- action-platform
-- action_platform
-- actionPlatform
-- has_action_platform
+  - action-platform
+  - action_platform
+  - actionPlatform
+  - has_action_platform
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- action
-- platform
-layout: 
-license: "CC BY-SA 4.0"
+  - action
+  - platform
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_action_platform
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_action_platform
 type: Predi_Relation
 ---

@@ -1,27 +1,28 @@
 ---
 aliases:
-- wearable-size-system-jp
-- wearable_size_system_jp
-- WearableSizeSystemJP
-- is_a_wearable_size_system_jp
+  - wearable-size-system-jp
+  - wearable_size_system_jp
+  - WearableSizeSystemJP
+  - is_a_wearable_size_system_jp
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: WearableSizeSystemEnumeration
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- wearable_size_system_jp
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_wearable_size_system_jp Class"
+  - wearable_size_system_jp
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_wearable_size_system_jp Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_wearable_size_system_jp Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_wearable_size_system_jp Class
 type: Type
 ---
 

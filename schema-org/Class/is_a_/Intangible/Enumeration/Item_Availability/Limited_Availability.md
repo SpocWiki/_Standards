@@ -1,27 +1,28 @@
 ---
 aliases:
-- limited-availability
-- limited_availability
-- LimitedAvailability
-- is_limited_available
+  - limited-availability
+  - limited_availability
+  - LimitedAvailability
+  - is_limited_available
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- limited_availability
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_limited_availability Class"
+  - limited_availability
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_limited_availability Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_limited_availability Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_limited_availability Class
 type: Type
 ---
 

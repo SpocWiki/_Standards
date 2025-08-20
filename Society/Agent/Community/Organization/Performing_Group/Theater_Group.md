@@ -1,26 +1,27 @@
 ---
 aliases:
-- theater-group
-- theater_group
-- TheaterGroup
-- is_a_theater_group
+  - theater-group
+  - theater_group
+  - TheaterGroup
+  - is_a_theater_group
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- theater_group
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_theater_group Class"
+  - theater_group
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_theater_group Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_theater_group Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_theater_group Class
 type: Type
 ---
 

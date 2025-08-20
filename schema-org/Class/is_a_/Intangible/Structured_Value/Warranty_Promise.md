@@ -1,26 +1,27 @@
 ---
 aliases:
-- warranty-promise
-- warranty_promise
-- WarrantyPromise
-- is_a_warranty_promise
+  - warranty-promise
+  - warranty_promise
+  - WarrantyPromise
+  - is_a_warranty_promise
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- warranty_promise
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_warranty_promise Class"
+  - warranty_promise
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_warranty_promise Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_warranty_promise Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_warranty_promise Class
 type: Type
 ---
 

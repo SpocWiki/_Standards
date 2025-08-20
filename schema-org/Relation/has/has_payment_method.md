@@ -1,26 +1,28 @@
 ---
 aliases:
-- payment-method
-- payment_method
-- paymentMethod
-- has_payment_method
+  - payment-method
+  - payment_method
+  - paymentMethod
+  - has_payment_method
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- payment
-- method
-layout: 
-license: "CC BY-SA 4.0"
+  - payment
+  - method
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_payment_method
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_payment_method
 type: Predi_Relation
 ---

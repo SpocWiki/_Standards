@@ -1,25 +1,27 @@
 ---
 aliases:
-- calories
-- calories
-- calories
-- has_calories
+  - calories
+  - calories
+  - calories
+  - has_calories
 confidential: public
-cssclasses: "Predicate Relation"
+cssclasses:
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- calories
-layout: 
-license: "CC BY-SA 4.0"
+  - calories
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_calories
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_calories
 type: Predi_Relation
 ---

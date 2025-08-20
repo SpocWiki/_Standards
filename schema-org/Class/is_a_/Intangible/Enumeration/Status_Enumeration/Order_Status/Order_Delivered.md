@@ -1,27 +1,28 @@
 ---
 aliases:
-- order-delivered
-- order_delivered
-- OrderDelivered
-- is_an_order_delivered
+  - order-delivered
+  - order_delivered
+  - OrderDelivered
+  - is_an_order_delivered
 confidential: public
-cssclasses: Type
+cssclasses:
+  - Type
 draft: false
 enumerationtype: OrderStatus
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- order_delivered
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_order_delivered Class"
+  - order_delivered
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_order_delivered Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_order_delivered Class"
+  - class/Class
+  - schema-org/Class
+title: is_an_order_delivered Class
 type: Type
 ---
 
