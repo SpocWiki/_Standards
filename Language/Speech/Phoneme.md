@@ -32,7 +32,7 @@ Wikidata_property: "has phoneme"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phoneme](/_Standards/Language/Word/Phoneme.md) 
+### #is_/same_as :: [Phoneme](Phoneme.md) 
 
 ### #is_/same_as :: [Phoneme.public](/_public/Language/Word/Phoneme.public.md) 
 

@@ -61,8 +61,7 @@ topic_s_main_template:
 Wikidata_property: continent
 ---
 
-﻿
-# Continent 
+# [[Continent]] 
 
 Naively described as  contiguous Surface-Land 
 surrounded by Surface-Water 
@@ -85,6 +84,8 @@ One of the continents (for example, Europe or Africa).
 [ #is_/sub_class_of ::[[Geology/Landform]]] ]
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+
+#is_/same_as :: [[../WikiData/WD~Continent,5107|WD~Continent,5107]] 
 
 ## Abstract 
 

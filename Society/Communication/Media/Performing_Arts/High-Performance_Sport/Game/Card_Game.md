@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kartenspiel
+  - card game
 has_id_wikidata: Q142714
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
