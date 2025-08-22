@@ -4,8 +4,12 @@ isDeleted: false
 isReadOnly: false
 SpocWebEntityId: 28185
 tags:
-- astro/StarClass
+  - astro/StarClass
 type: StarClass
+_name: S
+_Temperature: 1700
+_Radius-sol: 0
+_Mass-sol: 1700
 ---
 
 [name::S]

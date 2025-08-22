@@ -4,8 +4,12 @@ isDeleted: false
 isReadOnly: false
 SpocWebEntityId: 28193
 tags:
-- astro/StarClass
+  - astro/StarClass
 type: StarClass
+_name: M
+_Temperature: 3350
+_Radius-sol: 0.4
+_Mass-sol: 0.3
 ---
 
 [name::M]

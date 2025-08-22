@@ -4,8 +4,17 @@ isDeleted: false
 isReadOnly: false
 SpocWebEntityId: 28189
 tags:
-- astro/StarClass
+  - astro/StarClass
 type: StarClass
+_name: A
+_name.first: A
+_name/last: A
+_name middle: A
+_Temperature: 9750
+_Radius-sol: 2
+_Mass-sol: 3.2
+_namefirst: A
+_namelast: A
 ---
 
 [name::A]

@@ -4,8 +4,12 @@ isDeleted: false
 isReadOnly: false
 SpocWebEntityId: 28187
 tags:
-- astro/StarClass
+  - astro/StarClass
 type: StarClass
+_name: O
+_Temperature: 50000
+_Radius-sol: 0
+_Mass-sol: 60
 ---
 
 [name::O]

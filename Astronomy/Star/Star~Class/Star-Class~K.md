@@ -4,8 +4,12 @@ isDeleted: false
 isReadOnly: false
 SpocWebEntityId: 28192
 tags:
-- astro/StarClass
+  - astro/StarClass
 type: StarClass
+_name: K
+_Temperature: 4850
+_Radius-sol: 0.7
+_Mass-sol: 0.8
 ---
 
 [name::K]

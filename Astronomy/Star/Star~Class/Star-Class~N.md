@@ -4,8 +4,12 @@ isDeleted: false
 isReadOnly: false
 SpocWebEntityId: 28197
 tags:
-- astro/StarClass
+  - astro/StarClass
 type: StarClass
+_name: N
+_Temperature: 2200
+_Radius-sol: 0
+_Mass-sol: 2200
 ---
 
 [name::N]

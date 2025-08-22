@@ -4,8 +4,12 @@ isDeleted: false
 isReadOnly: false
 SpocWebEntityId: 28190
 tags:
-- astro/StarClass
+  - astro/StarClass
 type: StarClass
+_name: F
+_Temperature: 7350
+_Radius-sol: 1.5
+_Mass-sol: 1.7
 ---
 
 [name::F]

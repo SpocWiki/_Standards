@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Astronomy/Star/Star~Class")
+        - file.ext == "md"
+        - '!file.name.contains("Template")'
+        - '!file.name.contains("DbFolder")'
+    order:
+      - file.name
+      - _name
+      - _Temperature
+      - _Radius-sol
+      - _Mass-sol
+      - SpocWebEntityId
+    sort:
+      - property: _Temperature
+        direction: ASC

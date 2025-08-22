@@ -4,8 +4,12 @@ isDeleted: false
 isReadOnly: false
 SpocWebEntityId: 28186
 tags:
-- astro/StarClass
+  - astro/StarClass
 type: StarClass
+_name: W
+_Temperature: 0
+_Radius-sol: 0
+_Mass-sol: 0
 ---
 
 [name::W]

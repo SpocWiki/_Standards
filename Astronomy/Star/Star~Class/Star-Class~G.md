@@ -1,17 +1,21 @@
 ---
+_Radius-sol: 1.2
+_Temperature: 5900
+_name: G
 confidential: public
 isDeleted: false
 isReadOnly: false
 SpocWebEntityId: 28191
 tags:
-- astro/StarClass
+  - astro/StarClass
 type: StarClass
+_Mass-sol: 1.1
 ---
 
-[name::G]
-[Temperature::5900]
-[Radius-sol::1.2]
-[Mass-sol::1.1]
+[name::G] 
+[Temperature::5900] 
+[Radius-sol::1.2] 
+[Mass-sol::1.1] 
 
 
 ## Confidential Links & Embeds: 

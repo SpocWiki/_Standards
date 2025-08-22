@@ -4,8 +4,12 @@ isDeleted: false
 isReadOnly: false
 SpocWebEntityId: 28188
 tags:
-- astro/StarClass
+  - astro/StarClass
 type: StarClass
+_name: B
+_Temperature: 30000
+_Radius-sol: 6
+_Mass-sol: 18
 ---
 
 [name::B]

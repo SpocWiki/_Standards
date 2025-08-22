@@ -4,8 +4,12 @@ isDeleted: false
 isReadOnly: false
 SpocWebEntityId: 28194
 tags:
-- astro/StarClass
+  - astro/StarClass
 type: StarClass
+_name: L
+_Temperature: 2000
+_Radius-sol: 0
+_Mass-sol: 0.07
 ---
 
 [name::L]

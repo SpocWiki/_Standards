@@ -1,20 +1,19 @@
 ---
 aliases:
-- 
+  - 
 confidential: public
 isDeleted: false
 isReadOnly: false
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 publish: true
 tags:
-- astro/StarClass
+  - astro/StarClass
 type: StarClass
+_Temperature: 500
+_name: Y
+_Radius-sol: 0.1
+_Mass-sol: 0.1
 ---
-
-[name::Y] 
-[Temperature::600] 
-[Radius-sol::{{Radius}}] 
-[Mass-sol::{{Mass}}] 
 
 
 ## Confidential Links & Embeds: 
