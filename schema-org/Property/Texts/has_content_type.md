@@ -1,55 +1,30 @@
 ---
-<<<<<<< HEAD
 aliases:
-- content-type
-- content_type
-- contentType
-- has_text_of_content_type
+  - content-type
+  - content_type
+  - contentType
+  - has_text_of_content_type
 confidential: public
-cssclasses: "Predicate Text"
+cssclasses:
+  - Predicate
+  - Text
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- content
-- type
-layout: 
-license: "CC BY-SA 4.0"
+  - content
+  - type
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_text_of_content_type
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Property
-- schema-org/Property/Text
+  - class/Property
+  - schema-org/Property/Text
 title: has_text_of_content_type
 type: Pred_Text
-=======
-aliases:
-- content-type
-- content_type
-- contentType
-- has_text_of_content_type
-confidential: public
-cssclasses: "Predicate Text"
-draft: false
-expiryDate: 
-isDeleted: false
-isReadOnly: false
-keywords:
-- content
-- type
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: has_text_of_content_type
-publish: true
-publishDate: 
-tags:
-- class/Property
-- schema-org/Property/Text
-title: has_text_of_content_type
-type: Pred_Text
->>>>>>> c26b3c60a0f5d641bb5191251926c0ae31724cfe
 ---
 
 Predicate to describe the Meta-Type Text of EntryPoint.
