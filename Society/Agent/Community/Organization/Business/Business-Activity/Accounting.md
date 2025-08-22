@@ -3,28 +3,6 @@ aliases:
   - accountancy
   - financial reporting
 has_id_wikidata: Q4116214
-dv_is_/same_as:
-  - path: ../../../../[[../../../../../WikiData/WD~Accounting,4116214|WD~Accounting,4116214]]  embed: false
-    type: file
-  - "[Accounting](/_Standards/Society/Economics/Business/Business-Activity/Accounting.md)"
-  - "[Accounting.public](/_public/Society/Economics/Business/Business-Activity/Accounting.public.md)"
-  - "[Accounting.internal](/_internal/Society/Economics/Business/Business-Activity/Accounting.internal.md)"
-  - "[Accounting.protect](/_protect/Society/Economics/Business/Business-Activity/Accounting.protect.md)"
-  - "[Accounting.private](/_private/Society/Economics/Business/Business-Activity/Accounting.private.md)"
-  - "[Accounting.personal](/_personal/Society/Economics/Business/Business-Activity/Accounting.personal.md)"
-  - "[Accounting.secret](/_secret/Society/Economics/Business/Business-Activity/Accounting.secret.md)"
-dv_is_same_as:
-  - path: ../../../../WikiData/WD~Accounting,4116214
-    display: WD~Accounting,4116214
-    embed: false
-    type: file
-  - "[Accounting](/_Standards/Society/Economics/Business/Business-Activity/Accounting.md)"
-  - "[Accounting.public](/_public/Society/Economics/Business/Business-Activity/Accounting.public.md)"
-  - "[Accounting.internal](/_internal/Society/Economics/Business/Business-Activity/Accounting.internal.md)"
-  - "[Accounting.protect](/_protect/Society/Economics/Business/Business-Activity/Accounting.protect.md)"
-  - "[Accounting.private](/_private/Society/Economics/Business/Business-Activity/Accounting.private.md)"
-  - "[Accounting.personal](/_personal/Society/Economics/Business/Business-Activity/Accounting.personal.md)"
-  - "[Accounting.secret](/_secret/Society/Economics/Business/Business-Activity/Accounting.secret.md)"
 ---
 
 # [[Accounting]] 
