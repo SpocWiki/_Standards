@@ -1,18 +1,14 @@
-# Star-Class.base
-# Converted from DbFolder definition
-# Description: List of all Star-Classes formed by Temperature
-
 source:
-  folder: "."
-
+  folder: .
 view:
   type: table
   properties:
-    - "name"
-    - "SpocWebEntityId"
-    - "Temperature"
-    - "Radius-sol"
-    - "Mass-sol"
-    - "__file__"
-    # "__modified__" available but hidden in DbFolder; uncomment to show
-    # - "__modified__"
+    - name
+    - SpocWebEntityId
+    - Temperature
+    - Radius-sol
+    - Mass-sol
+    - __file__
+views:
+  - type: table
+    name: Table
