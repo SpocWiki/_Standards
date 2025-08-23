@@ -133,7 +133,14 @@ Instagram_username: councilofeurope
 
 # [[Council_of_Europe]]
 
+#is_/different_from :: [[EU(European_Union)/Council_of_the_European_Union|Council_of_the_European_Union]] 
 #is_/same_as :: [[../../../WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]] 
+
+## #has_/text_of_/responsibilities 
+
+- **Human Rights**: Oversees the **European Court of Human Rights (ECtHR)**.
+- **Legal Standards**: Promotes rule of law, democracy, and cultural cooperation.
+- **Conventions**: Developed the **European Convention on Human Rights** (1950).
 
 ## #has_/text_of_/abstract 
 
@@ -145,6 +152,7 @@ Instagram_username: councilofeurope
 > representing 46 member states from Europe, 
 > with a population of approximately 675 million as of 2023; 
 > it operates with an annual ordinary budget of approximately 500 million euros.
+> [[Europe~East/Russia|Russia]] joined 1996 but was expelled in 2022 after invading the [[Europe~East/Ukraine|Ukraine]]. 
 >
 > The organisation is distinct from the European Union (EU), 
 > although people sometimes confuse the two organisations – 
@@ -163,7 +171,12 @@ Instagram_username: councilofeurope
 >
 > The council's two statutory bodies are the Committee of Ministers, which comprises the foreign ministers of each member state, and the Parliamentary Assembly of the Council of Europe (PACE), which is composed of members of the national parliaments of each member state. The Commissioner for Human Rights is an institution within the Council of Europe, mandated to promote awareness of and respect for human rights within the member states. The secretary general presides over the secretariat of the organisation. Other major CoE bodies include the European Directorate for the Quality of Medicines & HealthCare (EDQM) and the European Audiovisual Observatory.
 >
-> The headquarters of the Council of Europe, as well as its Court of Human Rights, are situated in Strasbourg, France. The Council uses English and French as its two official languages. The Committee of Ministers, the PACE, and the Congress of the Council of Europe also use German and Italian for some of their work.
+> The headquarters of the Council of Europe, as well as its Court of Human Rights, 
+> are situated in Strasbourg, France. 
+> 
+> The Council uses English and French as its two official languages. 
+> The Committee of Ministers, the PACE, and the Congress of the Council of Europe 
+> also use German and Italian for some of their work.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Council%20of%20Europe) 
 
