@@ -131,6 +131,8 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Copper\"]"
 ZVG_number: 8240
 ---
 
+# [[Copper]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Copper,753]] 
 
