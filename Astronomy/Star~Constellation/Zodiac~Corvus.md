@@ -7,14 +7,15 @@ tags:
 type: Zodiac
 ---
 
+# [[Zodiac~Corvus]] 
+
 [SpocWebEntityId::28110]
-
-
 
 [name-la::Corvus]
 [name-genitive::Corvi]
 [name-de::Rabe]
 
+#is_/same_as :: [[../../WikiData/WD~Corvus,10517|WD~Corvus,10517]] 
 
 ## Confidential Links & Embeds: 
 

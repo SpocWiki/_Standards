@@ -17,7 +17,7 @@ Commons_category: Celestial equator
 
 # [[Celestial_Equator]] 
 
-#is_/same_as :: [[../WikiData/WD~Celestial_equator,187646|WD~Celestial_equator,187646]] 
+#is_/same_as :: [[../../WikiData/WD~Celestial_equator,187646|WD~Celestial_equator,187646]] 
 
 ## #has_/text_of_/abstract 
 

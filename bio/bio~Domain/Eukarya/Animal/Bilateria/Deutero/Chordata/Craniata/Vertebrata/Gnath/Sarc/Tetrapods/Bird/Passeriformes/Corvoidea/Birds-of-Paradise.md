@@ -2,6 +2,32 @@
 has_id_wikidata: Q179333
 aliases:
   - Paradisaeidae
+parent_taxon: "[[_Standards/WikiData/WD~songbirds,194240]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~paradisier,3363288]]"
+named_after: "[[_Standards/WikiData/WD~paradise,3363340]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q9063396,9063396]]"
+different_from: "[[_Standards/WikiData/WD~Apus,10506]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+ITIS_TSN: "179664"
+Merriam_Webster_online_dictionary_entry: Paradisaeidae
+Commons_gallery: Paradisaeidae
+Commons_category: Paradisaeidae
+taxon_name: Paradisaeidae
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lesser%20Bird%20of%20Paradise.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Paradisaea%20apoda%20-Bali%20Bird%20Park-6.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wilson%27s%20Bird%20of%20Paradise.jpg
+EPPO_Code: 1PRDSF
+Iconclass_notation: 25F35(BIRD OF PARADISE)
+UMLS_CUI: C0326448
+taxon_common_name: paradisfuglfamilien
 ---
 
 # [[Birds-of-Paradise]] 
