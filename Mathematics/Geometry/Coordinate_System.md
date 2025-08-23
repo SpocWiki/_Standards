@@ -19,8 +19,9 @@ maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BF%D5%B8%D5%B8%D6%80%D5%A4%D5%AB%D5%B6%D5%A1%D5%BF%D5%A1%D5%B5%D5%AB%D5%B6%20%D5%B0%D5%A1%D5%B4%D5%A1%D5%AF%D5%A1%D6%80%D5%A3%20%28Coordinate%20systems%29.ogg"
 ---
 
-#is_/same_as :: [[_Standards/WikiData/WD~Coordinate_system,11210]]  
+# [[Coordinate_System]] 
 
+#is_/same_as :: [[_Standards/WikiData/WD~Coordinate_system,11210]]  
 
 ## #has_/text_of_/abstract 
 

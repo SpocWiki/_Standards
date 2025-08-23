@@ -2,11 +2,13 @@
 title: Sauropodomorpha
 aliases:
   - sauropod
+has_id_wikidata:
 ---
 
 # [[Sauropodomorpha]] 
 
-Long-necked plant-eating dinosaurs 
+
+Long-necked plant-eating dinosaurs. 
 
 ## #has_/text_of_/abstract 
 
