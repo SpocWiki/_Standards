@@ -34,6 +34,12 @@ Library_of_Congress_Classification: BC199.C38
 #is_/better_than :: [[Correlation]] 
 #is_/same_as :: [[../../../WikiData/WD~Causality,179289|WD~Causality,179289]] 
 
+Causality has fundamental importance for any Agent, 
+because it allows them to identify the Variables to modify
+(and also to which degree) to obtain a desired Outcome. 
+
+Causal Inference can build a chain of Causes to identify indirect Causality. 
+
 ## #has_/text_of_/abstract 
 
 > Causality is an influence by which one event, process, state, or object (a cause) 
