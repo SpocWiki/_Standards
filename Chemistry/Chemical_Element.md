@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Chemical Element
 Commons_category: Chemical elements
 Commons_gallery: Chemical element
 described_by_source:
@@ -59,8 +61,6 @@ topic_s_main_template:
 UMLS_CUI: C0013879
 union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 Wolfram_Language_entity_type: Element
-aliases:
-  - Chemical Element
 ---
 
 # [[Chemical_Element]] 

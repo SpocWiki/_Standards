@@ -35,10 +35,16 @@ Library_of_Congress_Classification: BC199.C38
 #is_/same_as :: [[../../../WikiData/WD~Causality,179289|WD~Causality,179289]] 
 
 Causality has fundamental importance for any Agent, 
-because it allows them to identify the Variables to modify
-(and also to which degree) to obtain a desired Outcome. 
+because it allows them to identify modifiable Variables  
+(and also in which direction to change them and how much so) 
+to obtain a desired Outcome. 
 
 Causal Inference can build a chain of Causes to identify indirect Causality. 
+In reverse causal inference, working backward from **Y = Obesity**:
+- We identify **modifiable levers** (Diet, Exercise, Stress).
+- We recognize **confounders** (Socioeconomic Status must be controlled or randomized).
+- We note **non-modifiable causes** (Genetics cannot be changed).
+- We track **downstream benefits** (Reducing obesity lowers diabetes risk). 
 
 ```mermaid
 flowchart TD

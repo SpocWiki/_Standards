@@ -1,6 +1,7 @@
 ---
 aliases:
   - chemische Reaktion
+  - chemical reaction
 has_id_wikidata: Q36534
 has_effect: "[[_Standards/WikiData/WD~product,542929]]"
 described_by_source:
