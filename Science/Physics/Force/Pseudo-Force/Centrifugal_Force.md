@@ -29,7 +29,7 @@ Commons_category: Centrifugal force
 
 # [[Centrifugal_Force]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Centrifugal_force,178733|WD~Centrifugal_force,178733]] 
+#is_/same_as :: [[../../../../WikiData/WD~Centrifugal_force,178733|WD~Centrifugal_force,178733]] 
 
 ## #has_/text_of_/abstract 
 

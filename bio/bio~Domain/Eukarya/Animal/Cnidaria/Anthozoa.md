@@ -291,7 +291,8 @@ Kansas Press, Lawrence.
   Scientific Name ::  Alcyonaria
   Comments          Colony of alcyonarians (\"soft corals\"). Note eight tentacles on each polyp.
   Copyright ::         © 1999 George Miller
-  ----------------------------
+  ----------------------------
+
 
 
 ## Confidential Links & Embeds: 

@@ -9,13 +9,13 @@ aliases:
 - "panel study"
 ---
 
-#is_/worse_than :: [[Observational_Study/Cross-sectional_Study]]
+#is_/better_than :: [[Cross-sectional_Study]] 
 #is_/different_from :: [[../Experiment]]
 
 ## #has_/text_of_/abstract 
 
 > A longitudinal study (or longitudinal survey, or panel study) is a research design that involves 
-> repeated observations of the same variables (e.g., people) over long periods of time 
+> repeated observations of the **same variables** (e.g., people) over long periods of time 
 > (i.e., uses longitudinal data). 
 > 
 > It is often a type of observational study, 
@@ -31,13 +31,13 @@ aliases:
 > 
 > The reason for this is that, unlike cross-sectional studies, 
 > in which different individuals with the same characteristics are compared, 
-> longitudinal studies track the same people, and so the differences observed in those people 
-> are less likely to be the result of cultural differences across generations, that is, the [[cohort effect]]. 
+> longitudinal studies track the same people, and so **the differences observed in those people** 
+> **are less likely to be the result of cultural differences across generations**, that is, the [[cohort effect]]. 
 > 
 > Longitudinal studies thus make observing changes more accurate 
-> and are applied in various other fields. I
+> and are applied in various other fields. 
 > 
-> n medicine, the design is used to uncover predictors of certain diseases. 
+> In medicine, the design is used to uncover predictors of certain diseases. 
 > In advertising, the design is used to identify the changes 
 > that advertising has produced in the attitudes and behaviors of those within the target audience 
 > who have seen the advertising campaign. 

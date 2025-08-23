@@ -4,6 +4,8 @@ aliases:
 - "Observational study"
 ---
 
+# [[Observational_Study]] 
+
 #is_/different_from :: [[Experiment]] 
 
 ## #has_/text_of_/abstract 
