@@ -4,7 +4,7 @@ has_id_wikidata: Q46952
 
 # [[Organized_Crime]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Organized_crime,46952]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Organized_crime,46952]] 
 ## #has_/text_of_/abstract 
 
 > Organized crime refers to transnational, national, or local groups of centralized enterprises that engage in illegal activities, most commonly for profit. While organized crime is generally considered a form of illegal business, some criminal organizations, such as terrorist groups, rebel groups, and separatists, are politically motivated. Many criminal organizations rely on fear or terror to achieve their goals and maintain control within their ranks. These groups may adopt tactics similar to those used by authoritarian regimes to maintain power. Some forms of organized crime exist simply to meet demand for illegal goods or to facilitate trade in products and services banned by the state, such as illegal drugs or firearms. In other cases, criminal organizations force people to do business with them, as when gangs extort protection money from shopkeepers. Street gangs may be classified as organized crime groups under broader definitions, or may develop sufficient discipline to be considered organized crime under stricter definitions.

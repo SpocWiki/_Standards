@@ -72,7 +72,7 @@ U_S_National_Archives_Identifier: 10580795
 
 # [[Al_Capone]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Al_Capone,80048]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Al_Capone,80048]] 
 
 ## #has_/text_of_/abstract 
 

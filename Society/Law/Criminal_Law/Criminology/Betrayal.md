@@ -19,7 +19,7 @@ MeSH_tree_code: F01.829.401.023
 
 # [[Betrayal]] 
 
-#is_/same_as :: [[../../WikiData/WD~Betrayal,2166722|WD~Betrayal,2166722]] 
+#is_/same_as :: [[../../../../WikiData/WD~Betrayal,2166722|WD~Betrayal,2166722]] 
 ## #has_/text_of_/abstract 
 
 > **Betrayal** is the breaking or violation of a presumptive contract, trust, or confidence 

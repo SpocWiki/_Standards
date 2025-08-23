@@ -40,7 +40,7 @@ U_S_National_Archives_Identifier: 10638880
 
 # [[Criminology]] 
 
-#is_/same_as :: [[../WikiData/WD~Criminology,161733]] 
+#is_/same_as :: [[../../../WikiData/WD~Criminology,161733]] 
 
 ## #has_/text_of_/abstract 
 

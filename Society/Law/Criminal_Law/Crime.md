@@ -51,7 +51,7 @@ WordLift_URL: "https://data.wordlift.io/wl76541/entity/criminal"
 
 # [[Crime]]
 
-#is_/same_as :: [[../../WikiData/WD~Crime,83267]] 
+#is_/same_as :: [[../../../../WikiData/WD~Crime,83267]] 
 
 ## #has_/text_of_/abstract 
 
