@@ -25,6 +25,8 @@ title: is_a_link_role Class
 type: Type
 ---
 
+# [[Link_Role]] 
+
 Class of all link_roles.
 
 Tag Instances like this: 

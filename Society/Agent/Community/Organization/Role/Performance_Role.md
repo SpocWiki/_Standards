@@ -25,6 +25,8 @@ title: is_a_performance_role Class
 type: Type
 ---
 
+# [[Performance_Role]] 
+
 Class of all performance_roles.
 
 Tag Instances like this: 
