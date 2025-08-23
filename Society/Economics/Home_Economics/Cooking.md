@@ -58,6 +58,10 @@ uses:
 U_S_National_Archives_Identifier: 10675369
 ---
 
+# [[Cooking]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Cooking,38695|WD~Cooking,38695]] 
+
 ## #has_/text_of_/abstract 
 
 > **Cooking**, also known as cookery or professionally as the culinary arts, is the art, science and craft of using heat to make food more palatable, digestible, nutritious, or safe. Cooking techniques and ingredients vary widely, from grilling food over an open fire, to using electric stoves, to baking in various types of ovens, reflecting local conditions. Cooking is an aspect of all human societies and a cultural universal.
