@@ -40,6 +40,30 @@ because it allows them to identify the Variables to modify
 
 Causal Inference can build a chain of Causes to identify indirect Causality. 
 
+```mermaid
+flowchart TD
+
+    C1[Socioeconomic Status = Confounder]
+    X1[Diet = X1, modifiable]
+    X2[Exercise = X2, modifiable]
+    X3[Genetics = X3, non-modifiable]
+    M1[Stress = Mediator]
+    Y[Obesity = Outcome]
+    D[Diabetes = Downstream outcome]
+
+    %% Edges
+    C1 --> X1
+    C1 --> X2
+    C1 --> Y
+    X1 --> Y
+    X2 --> Y
+    X3 --> Y
+    X1 --> M1
+    M1 --> Y
+    Y --> D
+```
+
+
 ## #has_/text_of_/abstract 
 
 > Causality is an influence by which one event, process, state, or object (a cause) 
