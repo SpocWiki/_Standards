@@ -41,6 +41,10 @@ UNSPSC_Code: 11121802
 U_S_National_Archives_Identifier: 10639678
 ---
 
+# [[Cotton]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Cotton,11457|WD~Cotton,11457]] 
+
 ## #has_/text_of_/abstract 
 
 > **Cotton** (from Arabic  qutn) is a soft, fluffy staple fiber that grows in a boll, or protective case, 
