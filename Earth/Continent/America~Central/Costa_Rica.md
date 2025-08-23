@@ -1,6 +1,13 @@
 ---
-CIVICUS_Monitor_country_entry: costa-rica
+aliases:
+  - Costa Rica
+  - كوستاريكا
+  - 哥斯达黎加
+  - Коста-Рика
+  - the Republic of Costa Rica
+  - la República de Costa Rica
 subreddit: costarica
+CIVICUS_Monitor_country_entry: costa-rica
 hashtag: CostaRica
 Unicode_character: 🇨🇷
 Colon_Classification: SG--758
@@ -295,13 +302,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Costa Rica
-  - كوستاريكا
-  - 哥斯达黎加
-  - Коста-Рика
-  - the Republic of Costa Rica
-  - la República de Costa Rica
 Languages:
   - es-CR
   - en
@@ -314,7 +314,6 @@ For more Details, check out this Repository into this Subfolder:
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Costa_Rica 
 
 [[Costa_Rica/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: CRC ]
 [	ISO4217-currency_name	 :: Costa Rican Colon ]
@@ -379,10 +378,10 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 188 ]
 
-
-
 [ISO2::CR] 
 [ISO3::CRI] 
+
+#is_/same_as :: [[../../../WikiData/WD~Costa_Rica,800|WD~Costa_Rica,800]] 
 
 ## #has_/map  
 
