@@ -18,7 +18,7 @@ Commons_category: Conglomerate
 Krugosvet_article: Earth_sciences/geologiya/KONGLOMERAT.html
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Conglomerate,191704|WD~Conglomerate,191704]] 
+#is_/same_as :: [[../../../../WikiData/WD~Conglomerate,191704|WD~Conglomerate,191704]] 
 
 ## #has_/text_of_/abstract 
 

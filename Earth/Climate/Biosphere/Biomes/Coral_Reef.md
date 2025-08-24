@@ -33,7 +33,7 @@ OpenStreetMap_tag_or_key: Tag:reef=coral
 
 # [[Coral_Reef]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Coral_reef,11292|WD~Coral_reef,11292]] 
+#is_/same_as :: [[../../../../WikiData/WD~Coral_reef,11292|WD~Coral_reef,11292]] 
 
 ## #has_/text_of_/abstract 
 
