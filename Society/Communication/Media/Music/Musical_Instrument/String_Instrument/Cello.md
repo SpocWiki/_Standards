@@ -7,7 +7,7 @@ has_id_wikidata:
 
 # [[Cello]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Cello,8371|WD~Cello,8371]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Cello,8371|WD~Cello,8371]] 
 
 ## #has_/text_of_/abstract 
 

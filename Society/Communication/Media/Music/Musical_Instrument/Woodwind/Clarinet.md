@@ -40,7 +40,7 @@ Krugosvet_article: muzyka/klarnet
 
 # [[Clarinet]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Clarinet,8343|WD~Clarinet,8343]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Clarinet,8343|WD~Clarinet,8343]] 
 
 ## #has_/text_of_/abstract 
 

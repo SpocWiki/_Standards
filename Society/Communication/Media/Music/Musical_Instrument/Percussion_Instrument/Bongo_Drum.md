@@ -17,7 +17,7 @@ P8189: "987007283102205171"
 
 # [[Bongo_Drum]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Bongo_drum,243998|WD~Bongo_drum,243998]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Bongo_drum,243998|WD~Bongo_drum,243998]] 
 
 ## #has_/text_of_/abstract 
 

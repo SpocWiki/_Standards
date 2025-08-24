@@ -80,6 +80,10 @@ spouse:
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"CyrusII::spbg8\"]"
 ---
 
+# [[Cyrus_the_Great]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Cyrus_the_Great,8423|WD~Cyrus_the_Great,8423]] 
+
 ## #has_/text_of_/abstract 
 
 > Cyrus II of Persia (Old Persian: 𐎤𐎢𐎽𐎢𐏁 Kūruš; c. 600 – 530 BC), known as **Cyrus the Great**, 

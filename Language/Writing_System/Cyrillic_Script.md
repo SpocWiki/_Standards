@@ -48,6 +48,10 @@ Unicode_range:
 - U+A640-A69F
 ---
 
+# [[Cyrillic_Script]] 
+
+#is_/same_as :: [[../../WikiData/WD~Cyrillic_script,8209|WD~Cyrillic_script,8209]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Cyrillic script** (  sih-RIH-lick) is a writing system used for various languages across Eurasia. It is the designated national script in various Slavic, Turkic, Mongolic, Uralic, Caucasian and Iranic-speaking countries in Southeastern Europe, Eastern Europe, the Caucasus, Central Asia, North Asia, and East Asia, and used by many other minority languages.

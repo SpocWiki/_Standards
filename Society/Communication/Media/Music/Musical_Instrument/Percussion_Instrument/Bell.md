@@ -74,7 +74,7 @@ Krugosvet_article: muzyka/kolokol
 
 # [[Bell]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Bell,101401|WD~Bell,101401]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Bell,101401|WD~Bell,101401]] 
 
 ## #has_/text_of_/abstract 
 
