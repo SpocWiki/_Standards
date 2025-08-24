@@ -4,7 +4,7 @@ title: Cucurbitales
 
 # [[Cucurbitales]] 
 
-![Begonia froebelii](Cucurbitales/Begonia_froebelii.jpg)  ![Cucumis_sativus](Cucurbitales/Cucumis_sativus.jpg)  ![Datisca_cannabina](Cucurbitales/Datisca_cannabina.jpg) 
+![Begonia froebelii](Cucurbitales/Begonia_froebelii.jpg)  ![Cucumis_sativus](Cucurbitales/Cucurbitaceae/Cucumber/Cucumis_sativus.jpg)  ![Datisca_cannabina](Cucurbitales/Datisca_cannabina.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -74,7 +74,7 @@ Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/boti
 Sex ::              Male
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
----------------------------------------------------------------------![Cucumber plant, Cucumis sativus](Cucurbitales/Cucumis_sativus.jpg))
+---------------------------------------------------------------------![Cucumber plant, Cucumis sativus](Cucurbitales/Cucurbitaceae/Cucumber/Cucumis_sativus.jpg))
 Scientific Name ::  Cucumis sativus
 Comments          Cucumber plant (Cucurbitaceae)
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
