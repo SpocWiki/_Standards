@@ -17,7 +17,7 @@ Commons_category: Clydesdale
 image: http://commons.wikimedia.org/wiki/Special:FilePath/3%20Clydesdale%20horses.JPG
 ---
 
-# [[Clydesdale_Horse1]] 
+# [[Clydesdale_Horse]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Clydesdale_horse,844058|WD~Clydesdale_horse,844058]] 
 
