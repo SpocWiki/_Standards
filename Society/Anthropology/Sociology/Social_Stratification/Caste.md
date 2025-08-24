@@ -39,7 +39,7 @@ Krugosvet_article: religiya/kasty
 
 # [[Caste]] 
 
-#is_/same_as :: [[../WikiData/WD~Caste,484416|WD~Caste,484416]] 
+#is_/same_as :: [[../../../../WikiData/WD~Caste,484416|WD~Caste,484416]] 
 
 ## #has_/text_of_/abstract 
 

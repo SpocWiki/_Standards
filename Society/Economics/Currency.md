@@ -44,9 +44,15 @@ Unicode_character: "\U0001F4B5"
 Wikidata_property: currency
 ---
 
+# [[Currency]] 
+
+#is_/same_as :: [[../../WikiData/WD~Currency,8142|WD~Currency,8142]] 
+
 ## #has_/text_of_/abstract 
 
-> A **Currency** is a standardization of money in any form, in use or circulation as a medium of exchange, for example banknotes and coins. A more general definition is that a currency is a system of money in common use within a specific environment over time, especially for people in a nation state. Under this definition, the British Pound sterling (£), euros (€), Japanese yen (¥), and U.S. dollars (US$) are examples of (government-issued) fiat currencies. Currencies may act as stores of value and be traded between nations in foreign exchange markets, which determine the relative values of the different currencies. Currencies in this sense are either chosen by users or decreed by governments, and each type has limited boundaries of acceptance; i.e., legal tender laws may require a particular unit of account for payments to government agencies.
+> A **Currency** is a standardization of money in any form, in use or circulation as a medium of exchange, 
+> for example banknotes and coins. 
+> A more general definition is that a currency is a system of money in common use within a specific environment over time, especially for people in a nation state. Under this definition, the British Pound sterling (£), euros (€), Japanese yen (¥), and U.S. dollars (US$) are examples of (government-issued) fiat currencies. Currencies may act as stores of value and be traded between nations in foreign exchange markets, which determine the relative values of the different currencies. Currencies in this sense are either chosen by users or decreed by governments, and each type has limited boundaries of acceptance; i.e., legal tender laws may require a particular unit of account for payments to government agencies.
 >
 > Other definitions of the term currency appear in the respective synonymous articles: banknote, coin, and money. This article uses the definition which focuses on the currency systems of countries.
 >

@@ -3,8 +3,6 @@ aliases:
   - Cupressus
   - cypress
   - Zypresse
-has_id_wikidata: Q146911
-taxon_common_name:
   - Чемпрес
   - Chiparos
   - cipresa
@@ -29,6 +27,7 @@ taxon_common_name:
   - Sypressit
   - Cyprès
   - イトスギ属
+has_id_wikidata: Q146911
 taxon_synonym:
   - "[[_Standards/WikiData/WD~Xanthocyparis,133623]]"
   - "[[_Standards/WikiData/WD~Hesperocyparis,16983101]]"

@@ -18,7 +18,7 @@ UMLS_CUI: C0008870
 
 # [[Civilization]] 
 
-#is_/same_as :: [[../WikiData/WD~Civilization,8432|WD~Civilization,8432]] 
+#is_/same_as :: [[../../WikiData/WD~Civilization,8432|WD~Civilization,8432]] 
 
 ## #has_/text_of_/abstract 
 

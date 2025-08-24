@@ -45,7 +45,7 @@ Unicode_character: 🥢
 
 # [[Chopsticks]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Chopsticks,81980|WD~Chopsticks,81980]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Chopsticks,81980|WD~Chopsticks,81980]] 
 
 ## #has_/text_of_/abstract 
 
