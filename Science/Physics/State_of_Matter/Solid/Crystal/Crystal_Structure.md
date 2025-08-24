@@ -10,9 +10,16 @@ has_id_wikidata: Q895901
 
 ## #has_/text_of_/abstract 
 
-> In crystallography, crystal structure is a description of the ordered arrangement of atoms, ions, or molecules in a crystalline material. Ordered structures occur from the intrinsic nature of constituent particles to form symmetric patterns that repeat along the principal directions of three-dimensional space in matter.
+> In crystallography, crystal structure is a description of the ordered 
+> arrangement of atoms, ions, or molecules in a crystalline material. 
+> Ordered structures occur from the intrinsic nature of constituent particles 
+> to form symmetric patterns that repeat along the principal directions of three-dimensional space in matter.
 >
-> The smallest group of particles in a material that constitutes this repeating pattern is the unit cell of the structure. The unit cell completely reflects the symmetry and structure of the entire crystal, which is built up by repetitive translation of the unit cell along its principal axes. The translation vectors define the nodes of the Bravais lattice.
+> The smallest group of particles in a material that constitutes this repeating pattern 
+> is the unit cell of the structure. 
+> The unit cell completely reflects the symmetry and structure of the entire crystal, 
+> which is built up by repetitive translation of the unit cell along its principal axes. 
+> The translation vectors define the nodes of the Bravais lattice.
 >
 > The lengths of principal axes/edges, of the unit cell and angles between them are lattice constants, also called lattice parameters or cell parameters. The symmetry properties of a crystal are described by the concept of space groups. All possible symmetric arrangements of particles in three-dimensional space may be described by 230 space groups.
 >
