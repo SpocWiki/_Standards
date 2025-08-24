@@ -43,7 +43,7 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Infobox_weather_type,20376438]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Weather,10814956]]'
 U_S_National_Archives_Identifier: 10642860
-Wikidata_property: "weather history"
+has_id_wikidata: "weather history"
 ---
 
 ## #has_/text_of_/abstract 

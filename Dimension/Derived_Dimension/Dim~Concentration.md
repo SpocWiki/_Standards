@@ -9,7 +9,7 @@ subclass_of:
 instance_of: "[[_Standards/WikiData/WD~physical_property,4373292]]"
 described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 different_from: "[[_Standards/WikiData/WD~particle_concentration,39078574]]"
-Wikidata_property: concentration
+has_id_wikidata: concentration
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dilution-concentration%20simple%20example.jpg
 IEV_number: 112-03-17
 ---

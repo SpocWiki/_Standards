@@ -87,7 +87,7 @@ topic_s_main_template:
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q108629336,108629336]]'
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier: 10642341
-Wikidata_property: conflict
+has_id_wikidata: conflict
 ---
 
 ## #has_/text_of_/abstract 

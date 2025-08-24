@@ -63,7 +63,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~residential_building,11755880]]'
 - '[[_Standards/WikiData/WD~building,41176]]'
 Unicode_character: "\U0001F3E1"
-Wikidata_property: "number of houses"
+has_id_wikidata: "number of houses"
 ---
 
 ## #has_/text_of_/abstract 

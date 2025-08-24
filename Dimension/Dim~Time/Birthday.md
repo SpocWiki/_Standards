@@ -15,7 +15,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
 commemorates: "[[_Standards/WikiData/WD~birth,14819852]]"
-Wikidata_property: birthday
+has_id_wikidata: birthday
 IAB_code: "170"
 OmegaWiki_Defined_Meaning: "5907"
 hashtag:

@@ -14,7 +14,7 @@ field_of_this_occupation:
   - "[[_Standards/WikiData/WD~invention,108696953]]"
 category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q59522191,59522191]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-Wikidata_property: discoverer or inventor
+has_id_wikidata: discoverer or inventor
 IMDb_keyword: inventor
 female_form_of_label:
   - inventora

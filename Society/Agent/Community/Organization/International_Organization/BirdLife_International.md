@@ -18,7 +18,7 @@ Bluesky_handle: birdlifeglobal.bsky.social
 industry: "[[_Standards/WikiData/WD~environment,130370849]]"
 headquarters_location: "[[_Standards/WikiData/WD~Cambridge,350]]"
 language_used: "[[_Standards/WikiData/WD~English,1860]]"
-Wikidata_property: BirdLife taxon ID
+has_id_wikidata: BirdLife taxon ID
 country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 employees:
   - 196

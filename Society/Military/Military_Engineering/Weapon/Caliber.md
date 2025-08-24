@@ -11,7 +11,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Kaliber,3812588]]"
   - "[[_Standards/WikiData/WD~Kaliber,6352512]]"
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow></mstyle></mrow></math>
-Wikidata_property: caliber
+has_id_wikidata: caliber
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rifle%2C%20bolt-action%20%28AM%20745326-14%29.jpg
 Commons_category: Pistol and rifle cartridges
 ---

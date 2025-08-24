@@ -32,7 +32,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~moment,13222844]]'
 UMLS_CUI: C0376590
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D1%80%D0%B0%D1%89%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82.webm"
-Wikidata_property: torque
+has_id_wikidata: torque
 ---
 
 

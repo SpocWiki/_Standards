@@ -20,7 +20,7 @@ different_from:
   - "[[_Standards/WikiData/WD~former_cathedral,97588309]]"
   - "[[_Standards/WikiData/WD~Katedra,105415360]]"
 depicted_by: "[[_Standards/WikiData/WD~Cathedral,131576649]]"
-Wikidata_property: cathedral
+has_id_wikidata: cathedral
 subclass_of: "[[_Standards/WikiData/WD~church_building,16970]]"
 Nomenclature_for_Museum_Cataloging: "588"
 U_S_National_Archives_Identifier: "10674952"

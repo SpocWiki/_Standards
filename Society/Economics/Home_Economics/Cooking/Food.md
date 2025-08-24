@@ -100,7 +100,7 @@ Unicode_range: U+2615,U+1F33D,U+1F345-1F37C,U+1F382
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 used_by: '[[_Standards/WikiData/WD~organism,7239]]'
 U_S_National_Archives_Identifier: 10640291
-Wikidata_property: "FoodData Central ID"
+has_id_wikidata: "FoodData Central ID"
 ---
 
 # [[Food]] 

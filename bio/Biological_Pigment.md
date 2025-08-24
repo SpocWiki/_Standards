@@ -7,7 +7,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 topic_s_main_category: "[[_Standards/WikiData/WD~Q9082861,9082861]]"
 studied_by: "[[_Standards/WikiData/WD~biology_of_colour,105582462]]"
-Wikidata_property: flower color
+has_id_wikidata: flower color
 Commons_category: Biological pigments
 P8189: "987007548571405171"
 UMLS_CUI: C1571592

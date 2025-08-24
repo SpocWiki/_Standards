@@ -31,7 +31,7 @@ Stack_Exchange_tag: "https://stackoverflow.com/tags/numbers"
 subclass_of: '[[_Standards/WikiData/WD~mathematical_object,246672]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Number_systems,6443303]]'
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20zenbaki%20arrazionalak.webm"
-Wikidata_property: "numeric value"
+has_id_wikidata: "numeric value"
 ---
 
 ## #has_/text_of_/abstract 

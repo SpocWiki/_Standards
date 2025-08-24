@@ -37,7 +37,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~physical_quantity,107715]]'
 - '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
 - '[[_Standards/WikiData/WD~reciprocal_duration,98690850]]'
-Wikidata_property: frequency
+has_id_wikidata: frequency
 ---
 
 # [[Dim~Frequency]] 

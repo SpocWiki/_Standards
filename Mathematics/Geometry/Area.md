@@ -128,7 +128,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~area,111811675]]"
   - "[[_Standards/WikiData/WD~geometric_measure,123410660]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Contents_Portals,5008867]]"
-Wikidata_property: area
+has_id_wikidata: area
 ---
 
 # [[Area]] 

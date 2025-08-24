@@ -11,7 +11,7 @@ practiced_by:
 described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-Wikidata_property: choreography for
+has_id_wikidata: choreography for
 U_S_National_Archives_Identifier: "10639933"
 Commons_category: Choreography
 OmegaWiki_Defined_Meaning: "927564"

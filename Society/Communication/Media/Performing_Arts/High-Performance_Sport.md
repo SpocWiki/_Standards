@@ -89,7 +89,7 @@ uses:
   - "[[_Standards/WikiData/WD~pitch,2310214]]"
   - "[[_Standards/WikiData/WD~sports_location,23764314]]"
 U_S_National_Archives_Identifier: 10642049
-Wikidata_property: sport
+has_id_wikidata: sport
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_sports,16000501]]"
 ---
 

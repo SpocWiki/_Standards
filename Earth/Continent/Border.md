@@ -23,7 +23,7 @@ subclass_of:
 has_list: "[[_Standards/WikiData/WD~list_of_political_and_geographic_borders,6634113]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_border,11838883]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Borders,64827278]]"
-Wikidata_property: shares border with
+has_id_wikidata: shares border with
 OmegaWiki_Defined_Meaning: "419"
 BHCL_UUID: f304c3a0-e6b3-41d9-aad6-aa625075f2ac
 IMDb_keyword: border

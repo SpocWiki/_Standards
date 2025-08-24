@@ -53,7 +53,7 @@ Unicode_character:
 - "\U0001F57A"
 used_by: '[[_Standards/WikiData/WD~dance,25543541]]'
 U_S_National_Archives_Identifier: 10638328
-Wikidata_property: "dance style"
+has_id_wikidata: "dance style"
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_dance,7112602]]'
 ---
 

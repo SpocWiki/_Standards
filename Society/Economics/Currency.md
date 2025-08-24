@@ -41,7 +41,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~unit_of_measurement,47574]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_currency,6453809]]'
 Unicode_character: "\U0001F4B5"
-Wikidata_property: currency
+has_id_wikidata: currency
 ---
 
 # [[Currency]] 

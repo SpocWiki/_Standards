@@ -34,7 +34,7 @@ develops_from:
   - "[[_Standards/WikiData/WD~mixed_bud,25502105]]"
 has_characteristic: "[[_Standards/WikiData/WD~flowering_stage,30513971]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q134124751,134124751]]"
-Wikidata_property: flower color
+has_id_wikidata: flower color
 Dewey_Decimal_Classification: "582"
 Commons_gallery: Flowers
 Commons_category: Flowers

@@ -11,7 +11,7 @@ different_from:
 subclass_of: "[[_Standards/WikiData/WD~geographic_direction,13179187]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25681577,25681577]]"
 instance_of: "[[_Standards/WikiData/WD~tetrad,29428373]]"
-Wikidata_property: direction relative to location
+has_id_wikidata: direction relative to location
 studied_by: "[[_Standards/WikiData/WD~geography,1071]]"
 Iconclass_notation: 25A14
 image:

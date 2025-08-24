@@ -21,7 +21,7 @@ properties_for_this_type:
   - number of deaths
   - order of battle
   - country
-Wikidata_property: participated in conflict
+has_id_wikidata: participated in conflict
 part_of: "[[_Standards/WikiData/WD~war,198]]"
 IMDb_keyword: battle
 OmegaWiki_Defined_Meaning: "158617"

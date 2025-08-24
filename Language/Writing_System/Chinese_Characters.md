@@ -38,7 +38,7 @@ language_of_work_or_name:
 - '[[_Standards/WikiData/WD~Vietnamese,9199]]'
 - '[[_Standards/WikiData/WD~Zhuang,13216]]'
 - '[[_Standards/WikiData/WD~Okinawan,34233]]'
-Wikidata_property: "Han character in this lexeme"
+has_id_wikidata: "Han character in this lexeme"
 subclass_of: "[[_Standards/WikiData/WD~writing_system,8192]]"
 country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
 ISO_15924_numeric_code: 500

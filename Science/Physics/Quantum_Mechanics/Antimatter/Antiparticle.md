@@ -4,7 +4,7 @@ instance_of: "[[_Standards/WikiData/WD~correspondence,1322856]]"
 subclass_of: "[[_Standards/WikiData/WD~particle,1621273]]"
 different_from: "[[_Standards/WikiData/WD~antiquark_or_antilepton,28739684]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-Wikidata_property: antiparticle
+has_id_wikidata: antiparticle
 interaction: "[[_Standards/WikiData/WD~gravity,11412]]"
 studied_by: "[[_Standards/WikiData/WD~particle_physics,18334]]"
 OmegaWiki_Defined_Meaning: "367908"

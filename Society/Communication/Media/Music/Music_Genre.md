@@ -30,7 +30,7 @@ subclass_of: '[[_Standards/WikiData/WD~art_genre,1792379]]'
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Infobox_music_genre,5618084]]'
 - '[[_Standards/WikiData/WD~Template_Music_genres,10708640]]'
-Wikidata_property: genre
+has_id_wikidata: genre
 ---
 
 ## #has_/text_of_/abstract 

@@ -19,7 +19,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Magnetic%20field%20of
 OmegaWiki_Defined_Meaning: 684678
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681476,25681476]]'
 subclass_of: '[[_Standards/WikiData/WD~current,56298508]]'
-Wikidata_property: "maximum current"
+has_id_wikidata: "maximum current"
 ---
 
 # [[Electric_Current]] 

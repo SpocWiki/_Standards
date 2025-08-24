@@ -40,7 +40,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~legal_tender,1643989]]'
 - '[[_Standards/WikiData/WD~nominal_good,1659862]]'
 - '[[_Standards/WikiData/WD~standard_of_deferred_payment,7598359]]'
-Wikidata_property: cash
+has_id_wikidata: cash
 ---
 
 #has_/Pros :: has/creates Trust 

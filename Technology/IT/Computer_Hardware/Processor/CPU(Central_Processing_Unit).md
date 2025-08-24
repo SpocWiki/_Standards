@@ -20,7 +20,7 @@ topic_has_template:
   - "[[_Standards/WikiData/WD~Template_Infobox_CPU,6978288]]"
   - "[[_Standards/WikiData/WD~Template_Processor_technologies,8084425]]"
 instance_of: "[[_Standards/WikiData/WD~processor_type,124996351]]"
-Wikidata_property: CPU
+has_id_wikidata: CPU
 properties_for_this_type:
   - socket supported
   - instruction set

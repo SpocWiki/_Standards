@@ -27,7 +27,7 @@ part_of: "[[_Standards/WikiData/WD~phase,104837]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~type,21146257]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_States_of_matter,6147219]]"
-Wikidata_property: phase of matter
+has_id_wikidata: phase of matter
 Wolfram_Language_entity_type: MatterPhase
 ---
 

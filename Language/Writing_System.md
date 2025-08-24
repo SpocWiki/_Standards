@@ -37,7 +37,7 @@ used_by:
   - "[[_Standards/WikiData/WD~written_work,47461344]]"
   - "[[_Standards/WikiData/WD~paleographic_index,65768889]]"
   - "[[_Standards/WikiData/WD~typing_hand,65768893]]"
-Wikidata_property: writing system
+has_id_wikidata: writing system
 Wolfram_Language_entity_type: WritingScript
 confidential: private
 cssclasses:

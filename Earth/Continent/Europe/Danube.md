@@ -417,13 +417,41 @@ U_S_National_Archives_Identifier: 10045695
 watershed_area: 801463
 ---
 
+# [[Danube]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Danube,1653|WD~Danube,1653]] 
+
 ## #has_/text_of_/abstract 
 
-> The **Danube** ( DAN-yoob; see also other names) is the second-longest river in Europe, after the Volga in Russia. It flows through Central and Southeastern Europe, from the Black Forest south into the Black Sea. A large and historically important river, it was once a frontier of the Roman Empire. In the 21st century, it connects ten European countries, running through their territories or marking a border. Originating in Germany, the Danube flows southeast for 2,850 km (1,770 mi), passing through or bordering Austria, Slovakia, Hungary, Croatia, Serbia, Romania, Bulgaria, Moldova, and Ukraine. Among the many cities on the river are four national capitals: Vienna, Bratislava, Budapest, and Belgrade. Its drainage basin amounts to 817,000 km2 (315,000 sq mi) and extends into nine more countries.
+> The **Danube** ( DAN-yoob; see also other names) is the second-longest river in Europe, 
+> after the Volga in Russia. 
+> 
+> It flows through Central and Southeastern Europe, from the Black Forest south into the Black Sea. 
+> A large and historically important river, it was once a frontier of the Roman Empire. 
+> 
+> In the 21st century, it connects ten European countries, 
+> running through their territories or marking a border. 
+> 
+> Originating in Germany, the Danube flows southeast for 2,850 km (1,770 mi), passing through 
+> or bordering Austria, Slovakia, Hungary, Croatia, Serbia, Romania, Bulgaria, Moldova, and Ukraine. 
+> Among the many cities on the river are four national capitals: Vienna, Bratislava, Budapest, and Belgrade. 
+> 
+> Its drainage basin amounts to 817,000 km2 (315,000 sq mi) and extends into nine more countries.
 >
-> The Danube's longest headstream Breg rises in Furtwangen im Schwarzwald, while the river carries its name from its source confluence in the palace park in Donaueschingen onwards. Since ancient times, the Danube has been a traditional trade route in Europe. Today, 2,415 km (1,501 mi) of its total length are navigable. The Danube is linked to the North Sea via the Rhine–Main–Danube Canal, connecting the Danube at Kelheim with the Main at Bamberg. The river is also an important source of hydropower and drinking water.
+> The Danube's longest headstream Breg rises in Furtwangen im Schwarzwald, 
+> while the river carries its name from its source confluence in the palace park in Donaueschingen onwards. 
+> 
+> Since ancient times, the Danube has been a traditional trade route in Europe. 
+> Today, 2,415 km (1,501 mi) of its total length are navigable. 
+> 
+> The Danube is linked to the North Sea via the Rhine–Main–Danube Canal, 
+> connecting the Danube at Kelheim with the Main at Bamberg. 
+> The river is also an important source of hydropower and drinking water.
 >
-> The Danube river basin is home to such fish species as pike, zander, huchen, Wels catfish, burbot and tench. It is also home to numerous diverse carp and sturgeon, as well as salmon and trout. A few species of euryhaline fish, such as European seabass, mullet, and eel, inhabit the Danube Delta and the lower portion of the river.
+> The Danube river basin is home to fish species as pike, zander, huchen, Wels catfish, burbot and tench. 
+> It is also home to numerous diverse carp and sturgeon, as well as salmon and trout. 
+> A few species of euryhaline fish, such as European seabass, mullet, and eel, 
+> inhabit the Danube Delta and the lower portion of the river.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Danube) 
 

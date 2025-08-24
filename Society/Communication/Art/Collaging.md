@@ -10,7 +10,7 @@ practiced_by: "[[_Standards/WikiData/WD~collagist,22343478]]"
 product_or_material_produced: "[[_Standards/WikiData/WD~collage,22669857]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-Wikidata_property: montage image
+has_id_wikidata: montage image
 used_by: "[[_Standards/WikiData/WD~Dada,6034]]"
 subclass_of: "[[_Standards/WikiData/WD~visual_arts,36649]]"
 Commons_gallery: Collage

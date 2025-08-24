@@ -42,7 +42,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~intensive_quantity,3387041]]'
 - '[[_Standards/WikiData/WD~quotient,41118]]'
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.webm"
-Wikidata_property: density
+has_id_wikidata: density
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Density,29539_WD~Density,29539]]

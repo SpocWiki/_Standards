@@ -82,15 +82,27 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Defo
 ISNI: "0000000458753523"
 ---
 
-# [[Daniel_Defoe]] 
+# [[Defoe,Daniel]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Daniel_Defoe,40946|WD~Daniel_Defoe,40946]] 
 
 ## #has_/text_of_/abstract 
 
-> Daniel Defoe ( c. 1660 – 24 April 1731) was an English writer, merchant and spy. He is most famous for his novel Robinson Crusoe, published in 1719, which is claimed to be second only to the Bible in its number of translations. He has been seen as one of the earliest proponents of the English novel, and helped to popularise the form in Britain with others such as Aphra Behn and Samuel Richardson. Defoe wrote many political tracts, was often in trouble with the authorities, and spent a period in prison. Intellectuals and political leaders paid attention to his fresh ideas and sometimes consulted him.
+> Daniel Defoe ( c. 1660 – 24 April 1731) was an English writer, merchant and spy. 
+> He is most famous for his novel Robinson Crusoe, published in 1719, 
+> which is claimed to be second only to the Bible in its number of translations. 
+> 
+> He has been seen as one of the earliest proponents of the English novel, 
+> and helped to popularise the form in Britain with others such as Aphra Behn and Samuel Richardson. 
+> 
+> Defoe wrote many political tracts, was often in trouble with the authorities, and spent a period in prison. 
+> Intellectuals and political leaders paid attention to his fresh ideas and sometimes consulted him.
 >
-> Defoe was a prolific and versatile writer, producing more than three hundred works—books, pamphlets, and journals—on diverse topics, including politics, crime, religion, marriage, psychology and the supernatural. He was also a pioneer of business journalism and economic journalism.
+> Defoe was a prolific and versatile writer, producing more than three hundred works—
+> books, pamphlets, and journals—on diverse topics, including politics, crime, 
+> religion, marriage, psychology and the supernatural. 
+> 
+> He was also a pioneer of business journalism and economic journalism.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Daniel%20Defoe) 
 

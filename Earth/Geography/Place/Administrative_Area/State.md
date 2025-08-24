@@ -90,7 +90,7 @@ title: is_a_state Class
 topic_s_main_category: "[[_Standards/WikiData/WD~Q9798786,9798786]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_country,5621162]]"
 type: Type
-Wikidata_property: country
+has_id_wikidata: country
 ---
 
 # [[State]] 

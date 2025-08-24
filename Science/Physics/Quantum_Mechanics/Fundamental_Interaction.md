@@ -17,7 +17,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
 - '[[_Standards/WikiData/WD~interaction,52948]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_FundamentalForces,8081453]]'
-Wikidata_property: interaction
+has_id_wikidata: interaction
 ---
 
 ## #has_/text_of_/abstract 

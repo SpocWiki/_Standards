@@ -29,7 +29,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~transformation,65757353]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Translation_info,106979019]]'
 U_S_National_Archives_Identifier: 10632699
-Wikidata_property: translation
+has_id_wikidata: translation
 ---
 
 ## #has_/text_of_/abstract 

@@ -48,7 +48,7 @@ used_by:
 - '[[_Standards/WikiData/WD~agent,24229398]]'
 - '[[_Standards/WikiData/WD~human,5]]'
 U_S_National_Archives_Identifier: 10644093
-Wikidata_property: "item operated"
+has_id_wikidata: "item operated"
 ---
 
 # [[Tool]] 

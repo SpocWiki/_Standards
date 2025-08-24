@@ -8,7 +8,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
 subclass_of: "[[_Standards/WikiData/WD~transportable_goods,2449671]]"
 different_from: "[[_Standards/WikiData/WD~payload,7641034]]"
-Wikidata_property: carries passengers or cargo
+has_id_wikidata: carries passengers or cargo
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tankcontainer%20Verladung.jpg
 P8189: "987007550649105171"
 Commons_category: Freight
