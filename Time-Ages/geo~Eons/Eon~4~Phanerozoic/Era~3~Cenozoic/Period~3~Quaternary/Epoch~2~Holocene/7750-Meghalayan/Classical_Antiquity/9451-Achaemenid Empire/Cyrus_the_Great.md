@@ -82,7 +82,7 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"CyrusII::spbg8\"]"
 
 # [[Cyrus_the_Great]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Cyrus_the_Great,8423|WD~Cyrus_the_Great,8423]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Cyrus_the_Great,8423|WD~Cyrus_the_Great,8423]] 
 
 ## #has_/text_of_/abstract 
 

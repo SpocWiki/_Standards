@@ -524,7 +524,6 @@ male_population:
   - 42175029
   - 42581376
 inception: "1923-10-29"
-has_time_started: "1923-10-29"
 has_time_started: 1923-10-29 
 has_id_wikidata: Q43
 location:
