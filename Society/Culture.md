@@ -56,9 +56,17 @@ Wikidata_property: culture
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_culture,4773237]]'
 ---
 
+# [[Culture]] 
+
+#is_/same_as :: [[../WikiData/WD~Culture,11042|WD~Culture,11042]] 
+
 ## #has_/text_of_/abstract 
 
-> **Culture** ( KUL-chər) is a concept that encompasses the social behavior, institutions, and norms found in human societies, as well as the knowledge, beliefs, arts, laws, customs, capabilities, attitudes, and habits of the individuals in these groups. Culture often originates from or is attributed to a specific region or location.
+> **Culture** ( KUL-chər) is a concept that encompasses 
+> - the social behavior, institutions, and norms found in human societies, as well as 
+> - the knowledge, beliefs, arts, laws, customs, capabilities, attitudes, and habits of the individuals in these groups. 
+> 
+> Culture often originates from or is attributed to a specific region or location.
 >
 > Humans acquire culture through the learning processes of enculturation and socialization, which is shown by the diversity of cultures across societies.
 >

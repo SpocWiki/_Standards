@@ -37,6 +37,10 @@ winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Winter%20sun%20s
 studied_by: "[[_Standards/WikiData/WD~nephology,691312]]"
 subreddit: CLOUDS
 P8189: "987007283918205171"
+aliases:
+  - Clouds
+  - Wolke
+  - Wolken
 ---
 
 # [[Cloud]] 
