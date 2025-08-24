@@ -10,7 +10,7 @@ title: Conifers
 
 # [[Conifers]] 
 
-![Pinus resinosa](Conifers/Pinus_resinosa1301047.jpg)  ![Podocarpus](Conifers/Podocarpus4342.jpg)  ![California Incense Cedar](Conifers/Libocedrus_decurrens0069.jpg)
+ ![Pinus resinosa](Conifers/Pinus_resinosa1301047.jpg)  ![Podocarpus](Conifers/Podocarpus4342.jpg)  ![California Incense Cedar](Conifers/Libocedrus_decurrens0069.jpg)
 
 
 ## #has_/text_of_/abstract 

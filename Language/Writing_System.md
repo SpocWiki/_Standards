@@ -1,7 +1,8 @@
 ---
 aliases:
   - script
-  - "{ newTitle: null }": 
+  - Writing system
+  - Writing systems 
 has_id_wikidata: Q8192
 Commons_category: Writing systems
 described_by_source:
