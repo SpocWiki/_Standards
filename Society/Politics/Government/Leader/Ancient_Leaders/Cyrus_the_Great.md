@@ -90,15 +90,58 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"CyrusII::spbg8\"]"
 > was the founder of the Persian Achaemenid Empire. 
 > 
 > Hailing from Persis, he brought the Achaemenid dynasty to power by defeating the Median Empire 
-> and embracing all of the previous civilized states of the ancient Near East, expanding vastly and eventually conquering most of West Asia and much of Central Asia to create what would soon become the largest polity in human history at the time. The Achaemenid Empire's largest territorial extent was achieved under Darius the Great, whose rule stretched from Southeast Europe in the west to the Indus River valley in the east.
+> and embracing all of the previous civilized states of the ancient Near East, expanding vastly 
+> and eventually conquering most of West Asia and much of Central Asia 
+> to create what would soon become the largest polity in human history at the time. 
+> 
+> The Achaemenid Empire's largest territorial extent was achieved under Darius the Great, 
+> whose rule stretched from Southeast Europe in the west to the Indus River valley in the east.
 >
-> After conquering the Median Empire, Cyrus led the Achaemenids to conquer Lydia and eventually the Neo-Babylonian Empire. He also led an expedition into Central Asia, which resulted in major military campaigns that were described as having brought "into subjection every nation without exception"; Cyrus allegedly died in battle with the Massagetae, a nomadic Eastern Iranian tribal confederation, along the Syr Darya in December 530 BC. However, Xenophon of Athens claimed that Cyrus did not die fighting and had instead returned to the city of Pasargadae, which served as the Achaemenid ceremonial capital. He was succeeded by his son Cambyses II, whose campaigns into North Africa led to the conquests of Egypt, Nubia, and Cyrenaica during his short rule.
+> After conquering the Median Empire, 
+> Cyrus led the Achaemenids to conquer Lydia and eventually the Neo-Babylonian Empire. 
+> He also led an expedition into Central Asia, which resulted in major military campaigns 
+> that were described as having brought "into subjection every nation without exception"; 
+> 
+> Cyrus allegedly died in battle with the Massagetae, a nomadic Eastern Iranian tribal confederation, along the Syr Darya in December 530 BC. 
+> However, Xenophon of Athens claimed that Cyrus did not die fighting 
+> and had instead returned to the city of Pasargadae, 
+> which served as the Achaemenid ceremonial capital. 
+> He was succeeded by his son Cambyses II, whose campaigns into North Africa 
+> led to the conquests of Egypt, Nubia, and Cyrenaica during his short rule.
 >
-> To the Greeks, he was known as Cyrus the Elder (Κῦρος ὁ Πρεσβύτερος Kŷros ho Presbýteros). Cyrus was particularly renowned among contemporary scholars because of his habitual policy of respecting peoples' customs and religions in the lands that he conquered. He was influential in developing the system of a central administration at Pasargadae to govern the Achaemenid Empire's satraps, which worked for the profit of both rulers and subjects.
+> To the Greeks, he was known as Cyrus the Elder (Κῦρος ὁ Πρεσβύτερος Kŷros ho Presbýteros). 
+> Cyrus was particularly renowned among contemporary scholars 
+> because of his habitual policy of respecting peoples' customs and religions 
+> in the lands that he conquered. 
+> 
+> He was influential in developing the system of a central administration at Pasargadae 
+> to govern the Achaemenid Empire's satraps, which worked for the profit of both rulers and subjects.
 >
-> Following the Persian conquest of Babylon, Cyrus issued the Edict of Restoration, in which he authorized and encouraged the return of the Jewish people to what had been the Kingdom of Judah, officially ending the Babylonian captivity. He is mentioned in the Hebrew Bible and left a lasting legacy on Judaism due to his role in facilitating the return to Zion, a migratory event in which the Jews returned to the Land of Israel following Cyrus's establishment of Yehud Medinata and subsequently rebuilt the Temple in Jerusalem, which had been destroyed by the Babylonian siege of Jerusalem. According to Isaiah 45:1, Cyrus was anointed by Yahweh for this task as a biblical messiah; he is the only non-Jewish figure to be revered in this capacity.
+> Following the Persian conquest of Babylon, Cyrus issued the Edict of Restoration, 
+> in which he authorized and encouraged the return of the Jewish people 
+> to what had been the Kingdom of Judah, officially ending the Babylonian captivity. 
+> 
+> He is mentioned in the Hebrew Bible and left a lasting legacy on Judaism 
+> due to his role in facilitating the return to Zion, a migratory event in which the Jews 
+> returned to the Land of Israel following Cyrus's establishment of Yehud Medinata 
+> and subsequently rebuilt the Temple in Jerusalem, 
+> which had been destroyed by the Babylonian siege of Jerusalem. 
+> According to Isaiah 45:1, Cyrus was anointed by Yahweh for this task as a biblical messiah; 
+> he is the only non-Jewish figure to be revered in this capacity.
 >
-> In addition to his influence on traditions in both the Eastern and Western worlds, Cyrus is also recognized for his achievements in human rights, politics, and military strategy. The Achaemenid Empire's prestige in the ancient world would eventually extend as far west as Athens, where upper-class Greeks adopted aspects of the culture of the ruling Persian class as their own. As the founder of the Persian Achaemenid Empire, Cyrus played a crucial role in defining the national identity of the Iranian nation; the Achaemenid Empire was instrumental in spreading the ideals of Zoroastrianism as far east as China. He remains a cult figure in Iran, with the Tomb of Cyrus at Pasargadae serving as a spot of reverence for millions of the country's citizens.
+> In addition to his influence on traditions in both the Eastern and Western worlds, 
+> Cyrus is also recognized for his achievements in human rights, politics, and military strategy. 
+> The Achaemenid Empire's prestige in the ancient world would 
+> eventually extend as far west as Athens, 
+> where upper-class Greeks adopted aspects of the culture of the ruling Persian class as their own. 
+> 
+> As the founder of the Persian Achaemenid Empire, 
+> Cyrus played a crucial role in defining the national identity of the Iranian nation; 
+> the Achaemenid Empire was instrumental in 
+> spreading the ideals of Zoroastrianism as far east as China. 
+> 
+> He remains a cult figure in Iran, with the Tomb of Cyrus at Pasargadae 
+> serving as a spot of reverence for millions of the country's citizens.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cyrus%20the%20Great)
 

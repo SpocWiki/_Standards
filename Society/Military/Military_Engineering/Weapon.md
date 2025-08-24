@@ -63,6 +63,8 @@ uses:
 U_S_National_Archives_Identifier: 10641755
 ---
 
+# [[Weapon]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Weapon**, arm, or armament is any implement or device that is used to deter, threaten, inflict physical damage, harm, or kill. Weapons are used to increase the efficacy and efficiency of activities such as hunting, crime (e.g., murder), law enforcement, self-defense, warfare, or suicide. In a broader context, weapons may be construed to include anything used to gain a tactical, strategic, material, or mental advantage over an adversary or enemy target.

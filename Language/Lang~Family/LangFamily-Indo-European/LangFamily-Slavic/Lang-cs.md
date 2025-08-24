@@ -1,13 +1,20 @@
 
+# [[Lang-cs]] 
+
 #has_/name_/cs_ :: čeština
 #has_/name_/en_ :: Czech
 #has_/name_/de_ :: Tschechisch 
 [NumSpeakers:: 10e6]
 [NumSpeakers_native::10e6]
 
-> Czech (; endonym: čeština [ˈtʃɛʃcɪna]), 
+#is_/same_as :: [[../../../../WikiData/WD~Czech,9056|WD~Czech,9056]] 
+
+## #has_/text_of_/abstract 
+
+> Czech (endonym: čeština [ˈtʃɛʃcɪna]), 
 > historically also known as Bohemian (; Latin: lingua Bohemica), 
 > is a West Slavic language of the Czech–Slovak group, written in Latin script. 
+> 
 > Spoken by over 10 million people, 
 > it serves as the official language of the Czech Republic. 
 > Czech is closely related to Slovak, to the point of high mutual intelligibility, 
