@@ -1,4 +1,56 @@
+---
+aliases:
+has_id_wikidata: Q5375
+different_from: "[[_Standards/WikiData/WD~croquet,193387]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~team_sport,216048]]"
+  - "[[_Standards/WikiData/WD~ball_game,877517]]"
+  - "[[_Standards/WikiData/WD~bat_and_ball_game,2238071]]"
+uses:
+  - "[[_Standards/WikiData/WD~cricket_bat,577263]]"
+  - "[[_Standards/WikiData/WD~cricket_ball,1139973]]"
+  - "[[_Standards/WikiData/WD~wicket,1196454]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+authority: "[[_Standards/WikiData/WD~International_Cricket_Council,722694]]"
+practiced_by: "[[_Standards/WikiData/WD~cricketer,12299841]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cricket,14615431]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+country_of_origin: "[[_Standards/WikiData/WD~England,21]]"
+IAB_code: "491"
+OmegaWiki_Defined_Meaning: "7773"
+subreddit: Cricket
+Commons_gallery: Cricket
+Commons_category: Cricket
+U_S_National_Archives_Identifier: "10646451"
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Cricket%20pictogram.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cricket%20banner%20Local%20cricket%20match%20Leeds.JPG
+schematic:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cricket%20fielding%20positions2.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cricket%20shots.png
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BF%D6%80%D5%AB%D5%AF%D5%A5%D5%BF%20%28Cricket%29.ogg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F.wav
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Muralitharan%20bowling%20to%20Adam%20Gilchrist.jpg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/This%20is%20cricket.ogv
+official_website: http://ICC-Cricket.com
+UMLS_CUI: C0851172
+Archive_of_Our_Own_tag: Cricket RPF
+IMDb_keyword: cricket-the-sport
+MeSH_tree_code: I03.450.642.845.255
+IPTC_NewsCode: mediatopic/20000888
+Colon_Classification: MY2141
+Krugosvet_article: sport/kriket
+OpenStreetMap_tag_or_key: Tag:sport=cricket
+Unicode_character: 🏏
+inception: 1909-01-01T00:00:00Z
+---
 
+# [[Cricket]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Cricket,5375|WD~Cricket,5375]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,20 +1,24 @@
 ---
+aliases:
+  - Crater
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-- astro/Zodiac
+  - astro/Zodiac
 type: Zodiac
+has_id_wikidata: Q9282
 ---
 
+# [[Zodiac~Crater]] 
+
 [SpocWebEntityId::28111]
-
-
 
 [name-la::Crater]
 [name-genitive::Crateris]
 [name-de::Becher]
 
+#is_/same_as :: [[../../WikiData/WD~Crater,9282|WD~Crater,9282]] 
 
 ## Confidential Links & Embeds: 
 
