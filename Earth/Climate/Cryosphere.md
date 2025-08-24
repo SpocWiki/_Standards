@@ -5,7 +5,7 @@ has_id_wikidata: Q493109
 
 # [[Cryosphere]] 
 
-#is_/same_as :: [[../WikiData/WD~Cryosphere,493109|WD~Cryosphere,493109]] 
+#is_/same_as :: [[../../WikiData/WD~Cryosphere,493109|WD~Cryosphere,493109]] 
 
 ## #has_/text_of_/abstract 
 

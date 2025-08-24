@@ -21,7 +21,7 @@ Krugosvet_article: nauka_i_tehnika/himiya/LITOSFERA.html
 
 # [[Lithosphere]] 
 
-#is_/same_as :: [[../WikiData/WD~Lithosphere,83296|WD~Lithosphere,83296]] 
+#is_/same_as :: [[../../WikiData/WD~Lithosphere,83296|WD~Lithosphere,83296]] 
 
 ## #has_/text_of_/abstract 
 
