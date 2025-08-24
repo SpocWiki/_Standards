@@ -2,6 +2,8 @@
 aliases:
   - American actor
   - American actress
+  - US Actor
+  - US actress
 ---
 
 

@@ -130,7 +130,7 @@ writing_language: "[[_Standards/WikiData/WD~French,150]]"
 
 # [[Pascal,Blaise]] 
 
-#is_/same_as :: [[../../WikiData/WD~Blaise_Pascal,1290|WD~Blaise_Pascal,1290]] 
+#is_/same_as :: [[../../../WikiData/WD~Blaise_Pascal,1290|WD~Blaise_Pascal,1290]] 
 
 ## #has_/text_of_/abstract 
 

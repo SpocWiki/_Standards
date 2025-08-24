@@ -6,9 +6,9 @@ aliases:
 has_id_wikidata: Q92624
 ---
 
-# [[Dan_Bricklin]] 
+# [[Bricklin,Dan]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Dan_Bricklin,92624|WD~Dan_Bricklin,92624]] 
+#is_/same_as :: [[../../../../WikiData/WD~Dan_Bricklin,92624|WD~Dan_Bricklin,92624]] 
 
 ## #has_/text_of_/abstract 
 
