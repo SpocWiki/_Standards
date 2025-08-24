@@ -9,7 +9,7 @@ aliases:
 #has_/time_/started :: 1054-07-10 
 #has_/time_/stopped :: 1056-04-12 
 #has_/duration :: `=this.has_time_stopped - this.has_time_started` 
-#has_/created :: [[Crab Nebula]] 
+#has_/created :: [[Crab_Nebula]] 
 
 ## #has_/text_of_/abstract 
 
