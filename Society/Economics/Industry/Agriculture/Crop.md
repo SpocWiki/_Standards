@@ -28,6 +28,10 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier: 10639679
 ---
 
+# [[Crop]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Crop,235352|WD~Crop,235352]]
+
 ## #has_/text_of_/abstract 
 
 > A **Crop** is a plant that can be grown and harvested extensively for profit or subsistence.  In other words, a crop is a plant or plant product that is grown for a specific purpose such as food, fibre, or fuel. 

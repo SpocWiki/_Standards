@@ -406,7 +406,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Croatia/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: HRK ]
 [	ISO4217-currency_name	 :: Kuna ]
 [	ISO4217-currency_numeric	 :: 191 ]
@@ -470,17 +469,15 @@ Sub-region_Name ::  [[Southern Europe]]
 
 [	ISO3166-1-numeric	 :: 191 ]
 
-
-
 SpocWebEntityId: 26919
 isDeleted: false
 confidential: public
 [ISO2::HR]
 [ISO3::HRV] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Croatia,224|WD~Croatia,224]] 
+
 ## #has_/map  
-
-
 
 
 ```leaflet
