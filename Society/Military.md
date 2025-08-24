@@ -1,6 +1,72 @@
+---
+aliases:
+  - Militär
+has_id_wikidata: Q8473
+field_of_work:
+  - "[[_Standards/WikiData/WD~military_science,192386]]"
+  - "[[_Standards/WikiData/WD~military_affairs,1791716]]"
+studied_by:
+  - "[[_Standards/WikiData/WD~military_history,192781]]"
+  - "[[_Standards/WikiData/WD~military_sociology,1262403]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+different_from:
+  - "[[_Standards/WikiData/WD~armed_forces,772547]]"
+  - "[[_Standards/WikiData/WD~irregular_military,1673189]]"
+  - "[[_Standards/WikiData/WD~Ejército,110643802]]"
+  - "[[_Standards/WikiData/WD~police_force,35535]]"
+  - "[[_Standards/WikiData/WD~army,37726]]"
+  - "[[_Standards/WikiData/WD~military_personnel,47064]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~armed_forces,772547]]"
+said_to_be_the_same_as:
+  - "[[_Standards/WikiData/WD~armed_forces,772547]]"
+  - "[[_Standards/WikiData/WD~Q3921135,3921135]]"
+facet_of: "[[_Standards/WikiData/WD~military_affairs,1791716]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Military,10632410]]"
+subclass_of: "[[_Standards/WikiData/WD~armed_organization,17149090]]"
+instance_of: "[[_Standards/WikiData/WD~armed_organization,17149090]]"
+item_operated: "[[_Standards/WikiData/WD~military_equipment,18643213]]"
+properties_for_this_type:
+  - chairperson
+  - has part(s)
+  - participated in conflict
+  - official website
+  - replaces
+  - short name
+  - budget
+  - minimum age
+  - maximum age
+  - commanded by
+  - country
+  - flag image
+  - item operated
+  - headquarters location
+  - seal image
+  - military branch
+social_media_followers: 464704
+IMDb_keyword: military
+OpenStreetMap_tag_or_key: Key:military
+Iconclass_notation: 45D21
+subreddit: Military
+Commons_category: Military
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Composite%20images%20%E2%80%94%20Military%20-%20animated.gif
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Defending%20the%20Polish%20banner%20at%20Chocim%2C%20by%20Juliusz%20Kossak%2C%201892.jpg
+Basisklassifikation: "89.81"
+short_name:
+  - Milit.
+  - milit.
+---
 
 # [[Military]] 
 
+#is_/same_as :: [[../WikiData/WD~Military,8473|WD~Military,8473]] 
 
 ## #has_/text_of_/abstract 
 

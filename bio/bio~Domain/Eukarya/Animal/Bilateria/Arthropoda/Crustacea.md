@@ -47,7 +47,7 @@ Crabs, lobsters, shrimp, barnacles, sow bugs, etc.
 
 ![Daphnia_pulex](Crustacea/Daphnia_pulex.jpg)  ![Grapsus_grapsus](Crustacea/Grapsus_grapsus.jpg)  ![Semibalanus_cariosus](Crustacea/Semibalanus_cariosus.jpg) 
 
-#is_/same_as :: [[../../../WikiData/WD~Crustacea,25364|WD~Crustacea,25364]]
+#is_/same_as :: [[../../../../../../WikiData/WD~Crustacea,25364|WD~Crustacea,25364]]  
 
 ## #has_/text_of_/abstract 
 
