@@ -1,6 +1,7 @@
 ---
 aliases:
   - Dattel
+  - Date
 has_id_wikidata: Q1652093
 different_from:
   - "[[_Standards/WikiData/WD~Datil,200587]]"
@@ -37,7 +38,7 @@ Common_Procurement_Vocabulary_code: "03222114"
 UNII: H3O7QI5HY7
 ---
 
-# [[Date (fruit)]] 
+# [[Date(fruit)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Date,1652093|WD~Date,1652093]] 
 
