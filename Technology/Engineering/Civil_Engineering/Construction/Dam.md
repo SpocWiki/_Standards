@@ -52,6 +52,10 @@ has_id_wikidata: dam
 Wolfram_Language_entity_type: Dam
 ---
 
+# [[Dam]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Dam,12323|WD~Dam,12323]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Dam** is a barrier that stops or restricts the flow of surface water or underground streams. Reservoirs created by dams not only suppress floods but also provide water for activities such as irrigation, human consumption, industrial use, aquaculture, and navigability. Hydropower is often used in conjunction with dams to generate electricity. A dam can also be used to collect or store water which can be evenly distributed between locations. Dams generally serve the primary purpose of retaining water, while other structures such as floodgates or levees (also known as dikes) are used to manage or prevent water flow into specific land regions.
