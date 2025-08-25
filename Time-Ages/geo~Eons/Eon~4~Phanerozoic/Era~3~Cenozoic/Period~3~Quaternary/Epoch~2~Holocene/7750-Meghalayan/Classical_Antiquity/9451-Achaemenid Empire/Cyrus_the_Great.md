@@ -86,7 +86,7 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"CyrusII::spbg8\"]"
 
 ## #has_/text_of_/abstract 
 
-> Cyrus II of Persia (Old Persian: 𐎤𐎢𐎽𐎢𐏁 Kūruš; c. 600 – 530 BC), known as **Cyrus the Great**, 
+> Cyrus II of Persia (Old Persian: 𐎤𐎢𐎽𐎢𐏁 Kūruš; c. 600 – 530 BC), known as Cyrus the Great, 
 > was the founder of the Persian Achaemenid Empire. 
 > 
 > Hailing from Persis, he brought the Achaemenid dynasty to power by defeating the Median Empire 
@@ -106,6 +106,7 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"CyrusII::spbg8\"]"
 > However, Xenophon of Athens claimed that Cyrus did not die fighting 
 > and had instead returned to the city of Pasargadae, 
 > which served as the Achaemenid ceremonial capital. 
+> 
 > He was succeeded by his son Cambyses II, whose campaigns into North Africa 
 > led to the conquests of Egypt, Nubia, and Cyrenaica during his short rule.
 >
