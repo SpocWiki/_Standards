@@ -5,8 +5,9 @@ has_id_wikidata: Q5329
 
 # [[Decibel]] 
 
-#is_/same_as :: [[../../WikiData/WD~Decibel,5329|WD~Decibel,5329]] 
+#is_/similar_to :: [[Bit]] 
 #is_/similar_to :: [[Neper]] 
+#is_/same_as :: [[../../WikiData/WD~Decibel,5329|WD~Decibel,5329]] 
 
 ## #has_/text_of_/abstract 
 
