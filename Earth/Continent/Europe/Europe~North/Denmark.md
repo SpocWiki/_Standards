@@ -590,10 +590,12 @@ Sub-region_Name ::  [[Northern Europe]]
 
 [	ISO3166-1-numeric	 :: 208 ]
 
-
-
 [ISO2::DK]
 [ISO3::DNK]
+
+#is_/same_as :: [[../../../../WikiData/WD~Denmark,35|WD~Denmark,35]] 
+
+## #has_/map 
 
 ```leaflet
 id: Denmark

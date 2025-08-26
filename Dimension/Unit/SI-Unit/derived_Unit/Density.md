@@ -1,52 +1,164 @@
 ---
-Colon_Classification: "C2:1"
+aliases:
+  - mass density 
+  - volumetric mass density 
+  - specific mass
+Colon_Classification: C2:1
 Commons_category: Density
-defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\rho ={\\frac {\\mathrm {d} m}{\\mathrm {d} V}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>&#x03C1;<!-- ρ --></mi>\n        <mo>=</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mi mathvariant=\"normal\">d</mi>\n              </mrow>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mi mathvariant=\"normal\">d</mi>\n              </mrow>\n              <mi>V</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\rho ={\\frac {\\mathrm {d} m}{\\mathrm {d} V}}}</annotation>\n  </semantics>\n</math>"
+defining_formula: |-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \rho ={\frac {\mathrm {d} m}{\mathrm {d} V}}}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>&#x03C1;<!-- ρ --></mi>
+          <mo>=</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">d</mi>
+                </mrow>
+                <mi>m</mi>
+              </mrow>
+              <mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">d</mi>
+                </mrow>
+                <mi>V</mi>
+              </mrow>
+            </mfrac>
+          </mrow>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle \rho ={\frac {\mathrm {d} m}{\mathrm {d} V}}}</annotation>
+    </semantics>
+  </math>
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units_Part_4__Mechanics,73391977]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units_Part_4__Mechanics,73391977]]"
 different_from:
-- '[[_Standards/WikiData/WD~density,483525]]'
-- '[[_Standards/WikiData/WD~surface_density,1907514]]'
-- '[[_Standards/WikiData/WD~volumetric_quantity,67598515]]'
-- '[[_Standards/WikiData/WD~population_density,22856]]'
+  - "[[_Standards/WikiData/WD~density,483525]]"
+  - "[[_Standards/WikiData/WD~surface_density,1907514]]"
+  - "[[_Standards/WikiData/WD~volumetric_quantity,67598515]]"
+  - "[[_Standards/WikiData/WD~population_density,22856]]"
 has_id_wikidata: Q29539
 IEV_number: 113-03-07
 instance_of:
-- '[[_Standards/WikiData/WD~measurand,1924249]]'
-- '[[_Standards/WikiData/WD~mechanical_property,5725005]]'
+  - "[[_Standards/WikiData/WD~measurand,1924249]]"
+  - "[[_Standards/WikiData/WD~mechanical_property,5725005]]"
 in_defining_formula:
-- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle m}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>m</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle m}</annotation>\n  </semantics>\n</math>"
-- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle V}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>V</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle V}</annotation>\n  </semantics>\n</math>"
-- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\rho }\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>&#x03C1;<!-- ρ --></mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\rho }</annotation>\n  </semantics>\n</math>"
-ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}^{-3}{\\mathsf {M}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">L</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>3</mn>\n          </mrow>\n        </msup>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">M</mi>\n          </mrow>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}^{-3}{\\mathsf {M}}}</annotation>\n  </semantics>\n</math>"
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+  - |-
+    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle m}">
+      <semantics>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="true" scriptlevel="0">
+            <mi>m</mi>
+          </mstyle>
+        </mrow>
+        <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+      </semantics>
+    </math>
+  - |-
+    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle V}">
+      <semantics>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="true" scriptlevel="0">
+            <mi>V</mi>
+          </mstyle>
+        </mrow>
+        <annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+      </semantics>
+    </math>
+  - |-
+    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \rho }">
+      <semantics>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="true" scriptlevel="0">
+            <mi>&#x03C1;<!-- ρ --></mi>
+          </mstyle>
+        </mrow>
+        <annotation encoding="application/x-tex">{\displaystyle \rho }</annotation>
+      </semantics>
+    </math>
+ISQ_dimension: |-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {L}}^{-3}{\mathsf {M}}}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <msup>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="sans-serif">L</mi>
+              </mrow>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo>&#x2212;<!-- − --></mo>
+              <mn>3</mn>
+            </mrow>
+          </msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="sans-serif">M</mi>
+            </mrow>
+          </mrow>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}^{-3}{\mathsf {M}}}</annotation>
+    </semantics>
+  </math>
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 OmegaWiki_Defined_Meaning: 4458
-opposite_of: '[[_Standards/WikiData/WD~specific_volume,683556]]'
+opposite_of: "[[_Standards/WikiData/WD~specific_volume,683556]]"
 quantity_symbol_LaTeX_:
-- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\rho _{m}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msub>\n          <mi>&#x03C1;<!-- ρ --></mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi>m</mi>\n          </mrow>\n        </msub>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\rho _{m}}</annotation>\n  </semantics>\n</math>"
-- "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\rho }\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>&#x03C1;<!-- ρ --></mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\rho }</annotation>\n  </semantics>\n</math>"
+  - |-
+    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \rho _{m}}">
+      <semantics>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="true" scriptlevel="0">
+            <msub>
+              <mi>&#x03C1;<!-- ρ --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>m</mi>
+              </mrow>
+            </msub>
+          </mstyle>
+        </mrow>
+        <annotation encoding="application/x-tex">{\displaystyle \rho _{m}}</annotation>
+      </semantics>
+    </math>
+  - |-
+    <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \rho }">
+      <semantics>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="true" scriptlevel="0">
+            <mi>&#x03C1;<!-- ρ --></mi>
+          </mstyle>
+        </mrow>
+        <annotation encoding="application/x-tex">{\displaystyle \rho }</annotation>
+      </semantics>
+    </math>
 quantity_symbol_string_: ρ
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~kilogram_per_cubic_metre,844211]]'
-- '[[_Standards/WikiData/WD~kilogram_per_litre,104907192]]'
-- '[[_Standards/WikiData/WD~tonne_per_cubic_metre,106513670]]'
+  - "[[_Standards/WikiData/WD~kilogram_per_cubic_metre,844211]]"
+  - "[[_Standards/WikiData/WD~kilogram_per_litre,104907192]]"
+  - "[[_Standards/WikiData/WD~tonne_per_cubic_metre,106513670]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~intensive_quantity,3387041]]'
-- '[[_Standards/WikiData/WD~quotient,41118]]'
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.webm"
+  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+  - "[[_Standards/WikiData/WD~intensive_quantity,3387041]]"
+  - "[[_Standards/WikiData/WD~quotient,41118]]"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.webm
 Wikidata_property: density
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Density,29539_WD~Density,29539]]
+# [[Density]] 
 
+#is_/same_as :: [[../../../WikiData/WD~Density,29539|WD~Density,29539]] 
 
 ## examples 
 
