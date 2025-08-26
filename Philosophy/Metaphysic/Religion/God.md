@@ -115,11 +115,39 @@ Gujarati_Vishwakosh_entry: ઈશ્વર
 
 ## #has_/text_of_/abstract 
 
-> In monotheistic belief systems, **God** is usually viewed as the supreme being, creator, and principal object of faith. In polytheistic belief systems, a god is "a spirit or being believed to have created, or for controlling some part of the universe or life, for which such a deity is often worshipped". Belief in the existence of at least one deity, who may interact with the world, is called theism.
+> In monotheistic belief systems, 
+> **God** is usually viewed as the supreme being, creator, and principal object of faith. 
+> In polytheistic belief systems, a god is "a spirit or being believed to have created, 
+> or for controlling some part of the universe or life, for which such a deity is often worshipped". 
+> 
+> Belief in the existence of at least one deity, who may interact with the world, is called theism.
 >
-> Conceptions of God vary considerably. Many notable theologians and philosophers have developed arguments for and against the existence of God. Atheism rejects the belief in any deity. Agnosticism is the belief that the existence of God is unknown or unknowable. Some theists view knowledge concerning God as derived from faith. God is often conceived as the greatest entity in existence. God is often believed to be the cause of all things and so is seen as the creator, sustainer, and ruler of the universe. God is often thought of as incorporeal and independent of the material creation, which was initially called pantheism, although church theologians, in attacking pantheism, described pantheism as the belief that God is the material universe itself. God is sometimes seen as omnibenevolent, while deism holds that God is not involved with humanity apart from creation.
+> Conceptions of God vary considerably. 
+> Many notable theologians and philosophers 
+> have developed arguments for and against the existence of God. 
+> 
+> Atheism rejects the belief in any deity. 
+> Agnosticism is the belief that the existence of God is unknown or unknowable. 
+> Some theists view knowledge concerning God as derived from faith. 
+> 
+> God is often conceived as the greatest entity in existence. 
+> God is often believed to be the cause of all things 
+> and so is seen as the creator, sustainer, and ruler of the universe. 
+> God is often thought of as incorporeal and independent of the material creation, 
+> which was initially called pantheism, although church theologians, in attacking pantheism, 
+> described pantheism as the belief that God is the material universe itself. 
+> God is sometimes seen as omnibenevolent, 
+> while deism holds that God is not involved with humanity apart from creation.
 >
-> Some traditions attach spiritual significance to maintaining some form of relationship with God, often involving acts such as worship and prayer, and see God as the source of all moral obligation. God is sometimes described without reference to gender, while others use terminology that is gender-specific. God is referred to by different names depending on the language and cultural tradition, sometimes with different titles of God used in reference to God's various attributes.
+> Some traditions attach spiritual significance to maintaining some form of relationship with God, 
+> often involving acts such as worship and prayer, 
+> and see God as the source of all moral obligation. 
+> 
+> God is sometimes described without reference to gender, 
+> while others use terminology that is gender-specific. 
+> 
+> God is referred to by different names depending on the language and cultural tradition, 
+> sometimes with different titles of God used in reference to God's various attributes.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/God) 
 
