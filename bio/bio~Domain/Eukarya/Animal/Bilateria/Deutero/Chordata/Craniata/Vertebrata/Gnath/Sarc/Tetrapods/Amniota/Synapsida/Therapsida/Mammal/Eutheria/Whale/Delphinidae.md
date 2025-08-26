@@ -1,4 +1,35 @@
+---
+aliases:
+has_id_wikidata: Q215760
+main_food_source:
+  - "[[_Standards/WikiData/WD~Teuthida,81900]]"
+  - "[[_Standards/WikiData/WD~fish_as_food,600396]]"
+parent_taxon: "[[_Standards/WikiData/WD~Odontoceti,144144]]"
+taxonomic_type: "[[_Standards/WikiData/WD~Delphinus,312257]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+ITIS_TSN: "180415"
+Commons_category: Delphinidae
+taxon_name: Delphinidae
+image: http://commons.wikimedia.org/wiki/Special:FilePath/PacificWhiteSidedDolphine.jpg
+EPPO_Code: 1DLPNF
+NBN_System_Key: NHMSYS0000376173
+taxon_common_name:
+  - delfinfamilien
+  - delfini
+start_time: -30000000-01-01T00:00:00Z
+---
 
+# [[Delphinidae]] 
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Delphinidae,215760|WD~Delphinidae,215760]]
 
 ## #has_/text_of_/abstract 
 
