@@ -16,7 +16,7 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_cuisine,10809581]
 described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_cuisines,48769813]]"
 instance_of: "[[_Standards/WikiData/WD~first_order_class,104086571]]"
-has_id_wikidata: cuisine
+Wikidata_property: cuisine
 different_from: "[[_Standards/WikiData/WD~kitchen,43164]]"
 GitHub_topic: cuisine
 OpenStreetMap_tag_or_key: Key:cuisine

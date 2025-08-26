@@ -73,7 +73,7 @@ Stack_Exchange_tag: "https://hsm.stackexchange.com/tags/mathematicians"
 subclass_of: '[[_Standards/WikiData/WD~scientist,901]]'
 UMLS_CUI: C0402139
 uses: '[[_Standards/WikiData/WD~mathematical_terminology,66785817]]'
-has_id_wikidata: "zbMATH author ID"
+Wikidata_property: "zbMATH author ID"
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Mathematician::42t84\"]"
 ---
 

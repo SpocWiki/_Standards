@@ -16,7 +16,7 @@ said_to_be_the_same_as:
 subclass_of:
   - "[[_Standards/WikiData/WD~domestic_partnership,3449014]]"
 described_by_source: "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-has_id_wikidata: unmarried partner
+Wikidata_property: unmarried partner
 OmegaWiki_Defined_Meaning: "1232073"
 Commons_category: Cohabitation
 ---

@@ -61,7 +61,7 @@ Universal_Decimal_Classification: 34
 U_S_National_Archives_Identifier:
   - 10636756
   - 10629340
-has_id_wikidata: laws applied
+Wikidata_property: laws applied
 WordLift_URL: http://data.thenextweb.com/tnw/entity/law
 aliases:
   - legal

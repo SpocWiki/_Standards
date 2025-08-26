@@ -20,7 +20,7 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Accounting,6667859]]"
 subclass_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
 described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q108629452,108629452]]"
-has_id_wikidata: airline accounting code
+Wikidata_property: airline accounting code
 Universal_Decimal_Classification: "657"
 Dewey_Decimal_Classification: "657"
 All_Science_Journal_Classification_Codes: "1402"

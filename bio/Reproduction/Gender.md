@@ -47,7 +47,7 @@ described_by_source:
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~gendered,99485732]]"
 opposite_of: "[[_Standards/WikiData/WD~gender_critical,124606716]]"
 instance_of: "[[_Standards/WikiData/WD~social_science_concept,131362181]]"
-has_id_wikidata: sex or gender
+Wikidata_property: sex or gender
 facet_of: "[[_Standards/WikiData/WD~gender_identity,48264]]"
 Commons_category: Gender
 Wolfram_Language_entity_type: Gender

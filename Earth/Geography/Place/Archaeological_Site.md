@@ -19,7 +19,7 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Historical_Plac
 described_by_source:
   - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-has_id_wikidata: archaeological site of
+Wikidata_property: archaeological site of
 studied_by: "[[_Standards/WikiData/WD~archaeology,23498]]"
 OmegaWiki_Defined_Meaning: "237"
 U_S_National_Archives_Identifier: "10646987"

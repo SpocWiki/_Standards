@@ -34,7 +34,7 @@ subclass_of: '[[_Standards/WikiData/WD~printing_technique,3514338]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Letterpress,17232646]]'
 UMLS_CUI: C0033161
 uses: '[[_Standards/WikiData/WD~printing_machine,12820205]]'
-has_id_wikidata: "printed by"
+Wikidata_property: "printed by"
 ---
 
 ## #has_/text_of_/abstract 

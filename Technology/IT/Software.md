@@ -98,7 +98,7 @@ subreddit: software
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_software,5621231]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Software,15021033]]'
 Universal_Decimal_Classification: 004.42
-has_id_wikidata: "PRONOM software ID"
+Wikidata_property: "PRONOM software ID"
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_software,18922260]]'
 ---
 

@@ -24,7 +24,7 @@ narrower_external_class: "http://purl.obolibrary.org/obo/IAO_0000414"
 part_of: '[[_Standards/WikiData/WD~metrology,394]]'
 subclass_of: '[[_Standards/WikiData/WD~estimation,791801]]'
 U_S_National_Archives_Identifier: 10639531
-has_id_wikidata: measures
+Wikidata_property: measures
 ---
 
 ## #has_/text_of_/abstract 

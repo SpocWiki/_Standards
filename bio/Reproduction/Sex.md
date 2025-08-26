@@ -45,7 +45,7 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Sex_(biology),24379920]]'
 - '[[_Standards/WikiData/WD~Template_Sex_sidebar,25733581]]'
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-has_id_wikidata: "sex or gender"
+Wikidata_property: "sex or gender"
 ---
 
 ## #has_/text_of_/abstract 

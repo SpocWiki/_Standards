@@ -55,7 +55,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~medicinal_product,12034612]]"
   - "[[_Standards/WikiData/WD~drug,8386]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_drug,6033882]]"
-has_id_wikidata: drug or therapy used for treatment
+Wikidata_property: drug or therapy used for treatment
 ---
 
 # [[Medicine]] 

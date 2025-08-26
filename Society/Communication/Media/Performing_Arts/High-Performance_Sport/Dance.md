@@ -41,7 +41,7 @@ depicted_by:
   - "[[_Standards/WikiData/WD~Ara_of_the_winged_dancers,131543621]]"
   - "[[_Standards/WikiData/WD~Dance_around_the_tree,131613615]]"
   - "[[_Standards/WikiData/WD~Dance_of_the_Children_of_Alcinous,131719678]]"
-has_id_wikidata: dance style
+Wikidata_property: dance style
 IAB_code: "203"
 Colon_Classification: NS
 OmegaWiki_Defined_Meaning: "1060654"

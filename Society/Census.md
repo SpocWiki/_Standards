@@ -26,7 +26,7 @@ different_from:
 has_effect: "[[_Standards/WikiData/WD~apportionment_of_seats,2286103]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_census,16911771]]"
 has_use: "[[_Standards/WikiData/WD~population_estimation,29051383]]"
-has_id_wikidata: has census
+Wikidata_property: has census
 OmegaWiki_Defined_Meaning: "4462"
 Dewey_Decimal_Classification: "304.6021"
 Commons_category: Census

@@ -27,7 +27,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~skill,205961]]'
 - '[[_Standards/WikiData/WD~basic_study_subject,116671462]]'
 U_S_National_Archives_Identifier: 10638160
-has_id_wikidata: "literacy rate"
+Wikidata_property: "literacy rate"
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Literacy::6z454\"]"
 ---
 

@@ -24,7 +24,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_material,18534
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier: 10638724
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Materialak%20denboraren%20aurka.webm"
-has_id_wikidata: "made from material"
+Wikidata_property: "made from material"
 ---
 
 ## #has_/text_of_/abstract 

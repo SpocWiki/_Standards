@@ -23,7 +23,7 @@ subclass_of:
 instance_of:
   - "[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]"
   - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
-has_id_wikidata: arterial supply
+Wikidata_property: arterial supply
 different_from: "[[_Standards/WikiData/WD~vein,9609]]"
 opposite_of: "[[_Standards/WikiData/WD~vein,9609]]"
 TA98_Latin_term: arteria

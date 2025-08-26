@@ -42,7 +42,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_climate,198030
 UMLS_CUI: C0008946
 U_S_National_Archives_Identifier: 10640493
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Die%20wichtigsten%20Klimafaktoren%20%28ZDF%2C%20Terra%20X%29%20720p%2050FPS.webm"
-has_id_wikidata: "Köppen climate classification"
+Wikidata_property: "Köppen climate classification"
 ---
 
 # [[Climate]] 

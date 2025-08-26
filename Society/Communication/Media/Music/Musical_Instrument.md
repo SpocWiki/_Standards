@@ -54,7 +54,7 @@ used_by:
   - "[[_Standards/WikiData/WD~musician,639669]]"
   - "[[_Standards/WikiData/WD~instrumentalist,1278335]]"
 U_S_National_Archives_Identifier: 10645892
-has_id_wikidata: instrument
+Wikidata_property: instrument
 Wolfram_Language_entity_type: MusicalInstrument
 ---
 

@@ -41,7 +41,7 @@ uses:
 - '[[_Standards/WikiData/WD~blind_carbon_copy,11680886]]'
 - '[[_Standards/WikiData/WD~carbon_copy,59164214]]'
 U_S_National_Archives_Identifier: 10636085
-has_id_wikidata: "email address"
+Wikidata_property: "email address"
 ---
 
 ## #has_/text_of_/abstract 

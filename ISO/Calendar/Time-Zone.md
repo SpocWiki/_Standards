@@ -23,7 +23,7 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_UTC_time_offsets,7474166]]'
 - '[[_Standards/WikiData/WD~Template_Infobox_time_zone,11001401]]'
 - '[[_Standards/WikiData/WD~Template_Infobox_time_zone_UTC,13520154]]'
-has_id_wikidata: "located in time zone"
+Wikidata_property: "located in time zone"
 Wolfram_Language_entity_type: TimeZone
 ---
 

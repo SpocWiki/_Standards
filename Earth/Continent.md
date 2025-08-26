@@ -58,7 +58,7 @@ subclass_of:
 topic_s_main_template:
   - "[[_Standards/WikiData/WD~Template_Infobox_continent,6075519]]"
   - "[[_Standards/WikiData/WD~Template_Continents_of_Earth,6263301]]"
-has_id_wikidata: continent
+Wikidata_property: continent
 ---
 
 # [[Continent]] 

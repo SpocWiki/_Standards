@@ -20,7 +20,7 @@ start_time: 1894-01-01T00:00:00Z
 inception: 1894-01-01T00:00:00Z
 field_of_work: "[[_Standards/WikiData/WD~music,638]]"
 language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-has_id_wikidata: Billboard artist ID
+Wikidata_property: Billboard artist ID
 country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"

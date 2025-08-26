@@ -61,7 +61,7 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Infobox_political_party,5622823]]'
 - '[[_Standards/WikiData/WD~Template_Party_politics,14398758]]'
 U_S_National_Archives_Identifier: 10644794
-has_id_wikidata: "member of political party"
+Wikidata_property: "member of political party"
 ---
 
 ## #has_/text_of_/abstract 
