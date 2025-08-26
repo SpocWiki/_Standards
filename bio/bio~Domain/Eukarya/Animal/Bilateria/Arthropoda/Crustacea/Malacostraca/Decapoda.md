@@ -24,7 +24,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Decapoda,112034186]]'
 
 ![Callianassa_californiensis](Decapoda/Callianassa_californiensis.jpg) ![](Decapoda/Panulirus_argus1075.jpg)) ![](Decapoda/Hemigrapsus_nudus0008.jpg)) 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Decapoda,4610|WD~Decapoda,4610]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Decapoda,4610|WD~Decapoda,4610]]  
 
 ## #has_/text_of_/abstract 
 

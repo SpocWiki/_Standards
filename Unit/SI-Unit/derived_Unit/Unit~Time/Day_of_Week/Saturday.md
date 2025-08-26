@@ -40,7 +40,7 @@ The day of the week between Friday and Sunday.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [saturday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.md) 
+### #is_/same_as :: [Saturday](Saturday.md) 
 
 ### #is_/same_as :: [saturday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.public.md) 
 

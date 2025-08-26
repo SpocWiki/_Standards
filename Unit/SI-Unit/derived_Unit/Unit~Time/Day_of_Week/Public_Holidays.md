@@ -40,7 +40,7 @@ This stands for any day that is a public holiday; it is a placeholder for all of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [public_holidays](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.md) 
+### #is_/same_as :: [Public_Holidays](Public_Holidays.md) 
 
 ### #is_/same_as :: [public_holidays.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.public.md) 
 

@@ -7,7 +7,7 @@ aliases:
 has_id_wikidata: Q215359
 ---
 
-# [[Dean_Martin]] 
+# [[Martin,Dean]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Dean_Martin,215359|WD~Dean_Martin,215359]] 
 
@@ -30,7 +30,7 @@ has_id_wikidata: Q215359
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dean_Martin](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Dean_Martin.md) 
+### #is_/same_as :: [Martin,Dean](Martin,Dean.md) 
 
 ### #is_/same_as :: [Dean_Martin.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Dean_Martin.public.md) 
 

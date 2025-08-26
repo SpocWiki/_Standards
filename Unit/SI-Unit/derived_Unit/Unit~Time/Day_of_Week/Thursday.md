@@ -40,7 +40,7 @@ The day of the week between Wednesday and Friday.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [thursday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/thursday.md) 
+### #is_/same_as :: [Thursday](Thursday.md) 
 
 ### #is_/same_as :: [thursday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/thursday.public.md) 
 

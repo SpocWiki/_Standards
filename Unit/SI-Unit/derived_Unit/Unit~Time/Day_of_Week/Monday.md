@@ -40,7 +40,7 @@ The day of the week between Sunday and Tuesday.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [monday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.md) 
+### #is_/same_as :: [Monday](Monday.md) 
 
 ### #is_/same_as :: [monday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.public.md) 
 
