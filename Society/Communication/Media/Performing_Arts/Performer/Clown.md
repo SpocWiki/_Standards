@@ -57,7 +57,7 @@ Unicode_character: 🤡
 
 # [[Clown]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Clown,7358|WD~Clown,7358]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Clown,7358|WD~Clown,7358]] 
 
 ## #has_/text_of_/abstract 
 
