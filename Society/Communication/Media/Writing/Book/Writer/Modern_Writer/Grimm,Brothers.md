@@ -29,7 +29,7 @@ Commons_category: Brothers Grimm
 Krugosvet_article: kultura_i_obrazovanie/literatura/GRIMM_YAKOB_I_VILGELM.html
 ---
 
-# [[Brothers_Grimm]] 
+# [[Grimm,Brothers]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Brothers_Grimm,2793|WD~Brothers_Grimm,2793]] 
 
@@ -86,7 +86,7 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/GRIMM_YAKOB_I_VILGELM.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brothers_Grimm](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Brothers_Grimm.md) 
+### #is_/same_as :: [Grimm,Brothers](Grimm,Brothers.md) 
 
 ### #is_/same_as :: [Brothers_Grimm.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Brothers_Grimm.public.md) 
 

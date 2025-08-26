@@ -3,6 +3,7 @@ has_id_wikidata: Q9204
 aliases:
   - Clive Staples Lewis
   - C. S. Lewis
+  - Lewis
 influenced_by:
   - "[[_Standards/WikiData/WD~John_Milton,79759]]"
   - "[[_Standards/WikiData/WD~William_Morris,182589]]"
@@ -135,7 +136,7 @@ Europeana_entity: agent/base/59903
 subreddit: CSLewis
 ---
 
-# [[C.S.Lewis]] 
+# [[Lewis,C.S.]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~C._S._Lewis,9204|WD~C._S._Lewis,9204]] 
 
@@ -179,7 +180,7 @@ subreddit: CSLewis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [C.S.Lewis](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/C.S.Lewis.md) 
+### #is_/same_as :: [Lewis,C.S.](Lewis,C.S..md) 
 
 ### #is_/same_as :: [C.S.Lewis.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/C.S.Lewis.public.md) 
 
