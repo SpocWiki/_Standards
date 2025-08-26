@@ -72,7 +72,7 @@ Baidu_Tieba_name: 天体物理
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astrophysics](/_Standards/Astrophysics.md) 
+### #is_/same_as :: [Astrophysics](Astrophysics.md) 
 
 ### #is_/same_as :: [Astrophysics.public](/_public/Astrophysics.public.md) 
 

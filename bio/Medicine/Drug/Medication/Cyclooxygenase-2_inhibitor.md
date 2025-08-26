@@ -21,7 +21,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cyclooxygenase-2_inhibitor](/_Standards/bio/Medicine/Drug/Medicine/Cyclooxygenase-2_inhibitor.md) 
+### #is_/same_as :: [Cyclooxygenase-2_inhibitor](Cyclooxygenase-2_inhibitor.md) 
 
 ### #is_/same_as :: [Cyclooxygenase-2_inhibitor.public](/_public/bio/Medicine/Drug/Medicine/Cyclooxygenase-2_inhibitor.public.md) 
 

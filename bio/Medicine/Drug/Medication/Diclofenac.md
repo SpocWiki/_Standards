@@ -41,7 +41,7 @@ Cool against Inflammation.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diclofenac](/_Standards/bio/Medicine/Drug/Medicine/Diclofenac.md) 
+### #is_/same_as :: [Diclofenac](Diclofenac.md) 
 
 ### #is_/same_as :: [Diclofenac.public](/_public/bio/Medicine/Drug/Medicine/Diclofenac.public.md) 
 
