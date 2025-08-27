@@ -87,8 +87,12 @@ topic_s_main_template:
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q108629336,108629336]]'
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier: 10642341
-has_id_wikidata: conflict
+Wikidata_property: conflict
 ---
+
+# [[War]] 
+
+#is_/same_as :: [[../../WikiData/WD~War,198|WD~War,198]] 
 
 ## #has_/text_of_/abstract 
 
@@ -98,6 +102,27 @@ has_id_wikidata: conflict
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/War)
 
+
+```mermaid
+graph TD
+    Q19632["Douglas MacArthur (Q19632)"]
+    Q362["World War II (Q362)"]
+    S["Statement Node (s:Q19632-UUID)"]
+    P580["Start time (1941)"]
+    P582["End time (1945)"]
+    REF["Reference (NYT Article)"]
+
+    %% Simple triple
+    Q19632 -- "wdt:P607" --> Q362
+
+    %% Reified structure
+    Q19632 -- "p:P607" --> S
+    S -- "ps:P607" --> Q362
+    S -- "pq:P580" --> P580
+    S -- "pq:P582" --> P582
+    S -- "prov:wasDerivedFrom" --> REF
+
+```
 
 ## Confidential Links & Embeds: 
 

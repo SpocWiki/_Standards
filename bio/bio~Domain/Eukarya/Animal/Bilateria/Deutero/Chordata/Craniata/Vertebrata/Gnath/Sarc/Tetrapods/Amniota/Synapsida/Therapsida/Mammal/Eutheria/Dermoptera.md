@@ -1,11 +1,31 @@
 ---
+aliases:
 title: Dermoptera
+has_id_wikidata: Q183383
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[_Standards/WikiData/WD~Latawce,11753158]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "179984"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Colugo%20%28Galeopterus%20variegatus%2C%20adult%20female%29%2C%20Central%20Catchment%20Area%2C%20Singapore%20-%2020060618.jpg
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/DistributionDermopteraCorrecting.png
+EPPO_Code: 1DRMPO
+UMLS_CUI: C0324718
+Commons_category: Dermoptera
+taxon_name: Dermoptera
+taxon_common_name: skjermflygere
+start_time: -37000000-01-01T00:00:00Z
 ---
 
 # Dermoptera
 
 ## Colugos or flying lemurs and their extinct relatives 
 ![ ](Dermoptera/453554996_ec252c76e5_o.jpg))
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Dermoptera,183383|WD~Dermoptera,183383]] 
 
 ## #has_/text_of_/abstract 
 

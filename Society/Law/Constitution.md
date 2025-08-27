@@ -35,7 +35,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~structure,6671777]]'
 - '[[_Standards/WikiData/WD~authorizing_legislation,106706188]]'
 U_S_National_Archives_Identifier: 10639950
-has_id_wikidata: "main regulatory text"
+Wikidata_property: "main regulatory text"
 ---
 
 ## #has_/text_of_/abstract 

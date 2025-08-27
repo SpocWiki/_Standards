@@ -92,7 +92,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~musical_occupation,135106813]]"
 properties_for_this_type: voice type
 product_or_material_produced: "[[_Standards/WikiData/WD~song,7366]]"
-has_id_wikidata: performer
+Wikidata_property: performer
 ISCO_08_occupation_class: "2652"
 ROME_Occupation_Code: "11733"
 DataTrek_identifier: Q12256

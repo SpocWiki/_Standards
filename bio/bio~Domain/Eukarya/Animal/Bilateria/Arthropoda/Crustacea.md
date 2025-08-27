@@ -38,7 +38,7 @@ this_taxon_is_source_of: '[[_Standards/WikiData/WD~shellfish,6501235]]'
 title: Crustacea
 topic_s_main_category: '[[_Standards/WikiData/WD~Q8922920,8922920]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Crustaceans,20630742]]'
-has_id_wikidata: "time in the pouch"
+Wikidata_property: "time in the pouch"
 ---
 
 # [[Crustacea]]

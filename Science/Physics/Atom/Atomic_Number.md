@@ -29,7 +29,7 @@ quantity_symbol_LaTeX_: |-
       <annotation encoding="application/x-tex">{\displaystyle Z}</annotation>
     </semantics>
   </math>
-has_id_wikidata: atomic number
+Wikidata_property: atomic number
 counts_number_of: "[[_Standards/WikiData/WD~proton,2294]]"
 characteristic_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 recommended_unit_of_measurement: "[[_Standards/WikiData/WD~1,199]]"

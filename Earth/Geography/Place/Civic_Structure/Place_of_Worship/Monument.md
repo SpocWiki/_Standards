@@ -31,7 +31,7 @@ properties_for_this_type:
   - located in the administrative territorial entity
   - creator
   - depicts
-has_id_wikidata: list of monuments
+Wikidata_property: list of monuments
 OmegaWiki_Defined_Meaning: "2408"
 Nomenclature_for_Museum_Cataloging: "523"
 Commons_category: Monuments and memorials

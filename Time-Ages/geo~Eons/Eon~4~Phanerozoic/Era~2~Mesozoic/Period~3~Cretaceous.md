@@ -1,3 +1,29 @@
+---
+aliases:
+  - Kreide
+has_id_wikidata: Q44626
+named_after: "[[_Standards/WikiData/WD~chalk,183670]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~period,392928]]"
+  - "[[_Standards/WikiData/WD~system,403523]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+different_from: "[[_Standards/WikiData/WD~Kreda,616401]]"
+named_by: "[[_Standards/WikiData/WD~Jean_Baptiste_Julien_d'Omalius_d'Halloy,1323652]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -66000000-01-01T00:00:00Z
+Commons_category: Cretaceous
+start_time: -145000000-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20105%20Ma%20%28Albian%20Age%29.png
+IPA_transcription: /krɪˈteɪʃəs/
+sRGB_color_hex_triplet: 7FC64E
+---
 
 # [[Period~3~Cretaceous]] 
 
@@ -9,6 +35,7 @@ A time period from 145.0 to 66.0 million years ago.
 
 #has_/previous_/item :: [[Period~2~Jurassic]] 
 #has_/next_/item :: [[../Era~3~Cenozoic/Period~1~Paleogene|Period~1~Paleogene]] 
+#is_/same_as :: [[../../../../WikiData/WD~Cretaceous,44626|WD~Cretaceous,44626]] 
 
 ## #has_/text_of_/abstract 
 

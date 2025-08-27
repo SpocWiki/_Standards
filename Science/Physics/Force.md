@@ -157,7 +157,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
   - "[[_Standards/WikiData/WD~vector_quantity,2672914]]"
   - "[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]"
-has_id_wikidata: force
+Wikidata_property: force
 aliases:
   - Kraft
 ---

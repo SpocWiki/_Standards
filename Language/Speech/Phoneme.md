@@ -20,7 +20,7 @@ Stack_Exchange_tag:
 studied_in: '[[_Standards/WikiData/WD~phonology,40998]]'
 subclass_of: '[[_Standards/WikiData/WD~vocal_sound,4393922]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_IPA,5614568]]'
-has_id_wikidata: "has phoneme"
+Wikidata_property: "has phoneme"
 ---
 
 ## #has_/text_of_/abstract 

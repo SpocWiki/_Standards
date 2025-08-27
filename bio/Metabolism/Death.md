@@ -1,98 +1,111 @@
 ---
+aliases:
+  - Death
+  - Tod
 Archive_of_Our_Own_tag: Death
-Colon_Classification: "Q:361"
+Colon_Classification: Q:361
 Commons_category: Death
-described_at_URL: "https://leanlogic.online/glossary/death/"
+described_at_URL: https://leanlogic.online/glossary/death/
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 Dewey_Decimal_Classification:
-- 393
-- 306.9
-- 155.937
-- 202.3
-- 128.5
-- 179.7
-- 571.939
-- 616.078
-- 636.0896078
+  - 393
+  - 306.9
+  - 155.937
+  - 202.3
+  - 128.5
+  - 179.7
+  - 571.939
+  - 616.078
+  - 636.0896078
 different_from:
-- '[[_Standards/WikiData/WD~Death,393832]]'
-- '[[_Standards/WikiData/WD~Tod,405101]]'
-- '[[_Standards/WikiData/WD~Maut,1911820]]'
-- '[[_Standards/WikiData/WD~Döden,19526941]]'
-equivalent_class: "http://pcp-on-web.de/ontology#Death"
-exact_match: "http://erlangen-crm.org/current/E69_Death"
+  - "[[_Standards/WikiData/WD~Death,393832]]"
+  - "[[_Standards/WikiData/WD~Tod,405101]]"
+  - "[[_Standards/WikiData/WD~Maut,1911820]]"
+  - "[[_Standards/WikiData/WD~Döden,19526941]]"
+equivalent_class: http://pcp-on-web.de/ontology#Death
+exact_match: http://erlangen-crm.org/current/E69_Death
 facet_of:
-- '[[_Standards/WikiData/WD~life,3]]'
-- '[[_Standards/WikiData/WD~development_of_the_human_body,2347178]]'
+  - "[[_Standards/WikiData/WD~life,3]]"
+  - "[[_Standards/WikiData/WD~development_of_the_human_body,2347178]]"
 GitHub_topic: death
 has_cause:
-- '[[_Standards/WikiData/WD~suicide,10737]]'
-- '[[_Standards/WikiData/WD~homicide,149086]]'
-- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
+  - "[[_Standards/WikiData/WD~suicide,10737]]"
+  - "[[_Standards/WikiData/WD~homicide,149086]]"
+  - "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
 has_characteristic:
-- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
-- '[[_Standards/WikiData/WD~manner_of_death,2438541]]'
-has_effect: '[[_Standards/WikiData/WD~dead,83978562]]'
+  - "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
+  - "[[_Standards/WikiData/WD~manner_of_death,2438541]]"
+has_effect: "[[_Standards/WikiData/WD~dead,83978562]]"
 has_id_wikidata: Q4
 has_immediate_cause:
-- '[[_Standards/WikiData/WD~dying,267505]]'
-- '[[_Standards/WikiData/WD~clinical_death,1989450]]'
+  - "[[_Standards/WikiData/WD~dying,267505]]"
+  - "[[_Standards/WikiData/WD~clinical_death,1989450]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~cell_death,2383867]]'
-- '[[_Standards/WikiData/WD~single-organism_process,22269530]]'
-- '[[_Standards/WikiData/WD~multi-organism_process,22269697]]'
-- '[[_Standards/WikiData/WD~philosophy_of_death,113540506]]'
+  - "[[_Standards/WikiData/WD~cell_death,2383867]]"
+  - "[[_Standards/WikiData/WD~single-organism_process,22269530]]"
+  - "[[_Standards/WikiData/WD~multi-organism_process,22269697]]"
+  - "[[_Standards/WikiData/WD~philosophy_of_death,113540506]]"
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
-- '[[_Standards/WikiData/WD~manner_of_death,2438541]]'
-- '[[_Standards/WikiData/WD~place_of_death,18658526]]'
-- '[[_Standards/WikiData/WD~date_of_death,18748141]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dead%20dog%20in%20Ulaanbaatar.jpg"
+  - "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
+  - "[[_Standards/WikiData/WD~manner_of_death,2438541]]"
+  - "[[_Standards/WikiData/WD~place_of_death,18658526]]"
+  - "[[_Standards/WikiData/WD~date_of_death,18748141]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Dead%20dog%20in%20Ulaanbaatar.jpg
 IMDb_keyword: death
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~property,937228]]'
-- '[[_Standards/WikiData/WD~end,12769393]]'
+  - "[[_Standards/WikiData/WD~concept,151885]]"
+  - "[[_Standards/WikiData/WD~property,937228]]"
+  - "[[_Standards/WikiData/WD~end,12769393]]"
 Krugosvet_article: medicina/SMERT_I_UMIRANIE.html
 Library_of_Congress_Classification: BD443.8-BD445
 MeSH_tree_code: C23.550.260
 OmegaWiki_Defined_Meaning: 387598
-opposite_of: '[[_Standards/WikiData/WD~birth,14819852]]'
+opposite_of: "[[_Standards/WikiData/WD~birth,14819852]]"
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Ms-MY-Ajal.ogg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ms-MY-Ajal.ogg
 properties_for_this_type:
-- location
-- "cause of death"
-- "point in time"
-- "manner of death"
+  - location
+  - cause of death
+  - point in time
+  - manner of death
 Provenio_UUID: d38fc7f6-f474-4ccc-a109-a8570f4eb16d
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~brain_death,223867]]'
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~brain_death,223867]]"
 studied_in:
-- '[[_Standards/WikiData/WD~medical_jurisprudence,454812]]'
-- '[[_Standards/WikiData/WD~thanatology,620462]]'
-- '[[_Standards/WikiData/WD~sociology_of_death,1712831]]'
-- '[[_Standards/WikiData/WD~philosophy_of_death,113540506]]'
-subclass_of: '[[_Standards/WikiData/WD~occurrence,1190554]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Death,10728979]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Death,11109938]]'
+  - "[[_Standards/WikiData/WD~medical_jurisprudence,454812]]"
+  - "[[_Standards/WikiData/WD~thanatology,620462]]"
+  - "[[_Standards/WikiData/WD~sociology_of_death,1712831]]"
+  - "[[_Standards/WikiData/WD~philosophy_of_death,113540506]]"
+subclass_of: "[[_Standards/WikiData/WD~occurrence,1190554]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Death,10728979]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Death,11109938]]"
 Unicode_character:
-- ☠
-- "\U0001F480"
+  - ☠
+  - 💀
 U_S_National_Archives_Identifier: 10639416
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Wann%20tritt%20der%20klinische%20Tod%20ein%3F.webm"
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_death,25047919]]'
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/death"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Wann%20tritt%20der%20klinische%20Tod%20ein%3F.webm
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_death,25047919]]"
+WordLift_URL: http://data.thenextweb.com/tnw/entity/death
+studied_by:
+  - "[[_Standards/WikiData/WD~medical_jurisprudence,454812]]"
+  - "[[_Standards/WikiData/WD~Thanatology,620462]]"
+  - "[[_Standards/WikiData/WD~sociology_of_death,1712831]]"
+  - "[[_Standards/WikiData/WD~philosophy_of_death,113540506]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Death,10728979]]"
 ---
+
+# [[Death]]
+
+#is_/same_as :: [[../../WikiData/WD~Death,4|WD~Death,4]] 
 
 ## #has_/text_of_/abstract 
 

@@ -38,7 +38,7 @@ model_item:
   - "[[_Standards/WikiData/WD~genetic_sex,126193261]]"
   - "[[_Standards/WikiData/WD~anatomical_sex,126193284]]"
 facet_of: "[[_Standards/WikiData/WD~reproduction,11990]]"
-has_id_wikidata: sex or gender
+Wikidata_property: sex or gender
 contributing_factor_of: "[[_Standards/WikiData/WD~biodiversity,47041]]"
 subreddit: sex
 Commons_category: Sex

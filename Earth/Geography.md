@@ -66,7 +66,7 @@ UMLS_CUI:
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 Universal_Decimal_Classification: 91
 U_S_National_Archives_Identifier: 10639745
-has_id_wikidata: "geography of topic"
+Wikidata_property: "geography of topic"
 ---
 
 ## #has_/text_of_/abstract 

@@ -26,7 +26,7 @@ ISQ_dimension: |-
       <annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
     </semantics>
   </math>
-has_id_wikidata: apparent magnitude
+Wikidata_property: apparent magnitude
 image: http://commons.wikimedia.org/wiki/Special:FilePath/65Cyb-LB3-apmag.jpg
 IEV_number: 845-21-097
 ---

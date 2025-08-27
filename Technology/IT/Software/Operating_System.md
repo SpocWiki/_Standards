@@ -102,7 +102,7 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Infobox_OS_version,6326708]]'
 - '[[_Standards/WikiData/WD~Template_Operating_system,7731997]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Operating_systems,108630976]]'
-has_id_wikidata: "operating system"
+Wikidata_property: "operating system"
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"OperatingSystem::8bhpb\"]"
 ---
 

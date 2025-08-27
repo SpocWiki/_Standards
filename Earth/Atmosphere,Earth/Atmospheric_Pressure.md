@@ -8,7 +8,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 facet_of: "[[_Standards/WikiData/WD~air,7391292]]"
-has_id_wikidata: lowest atmospheric pressure
+Wikidata_property: lowest atmospheric pressure
 has_cause:
   - "[[_Standards/WikiData/WD~atmosphere,8104]]"
   - "[[_Standards/WikiData/WD~gravity,11412]]"

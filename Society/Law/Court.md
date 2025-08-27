@@ -27,7 +27,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Q25605453,25605453]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_court,10809999]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q108109790,108109790]]"
-has_id_wikidata: court
+Wikidata_property: court
 facet_of: "[[_Standards/WikiData/WD~law,7748]]"
 Dewey_Decimal_Classification:
   - "347"

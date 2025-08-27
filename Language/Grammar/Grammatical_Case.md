@@ -11,7 +11,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 subclass_of: "[[_Standards/WikiData/WD~grammatical_category,980357]]"
 different_from: "[[_Standards/WikiData/WD~case_grammar,1735511]]"
-has_id_wikidata: has grammatical case
+Wikidata_property: has grammatical case
 OmegaWiki_Defined_Meaning: "423305"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%95.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Number%20of%20grammatical%20cases%20hic01.png

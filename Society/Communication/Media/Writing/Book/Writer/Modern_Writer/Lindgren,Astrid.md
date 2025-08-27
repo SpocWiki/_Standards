@@ -4,6 +4,7 @@ aliases:
   - Astrid Anna Emilia Ericsson
   - Astrid Lindgren
   - Astrid_Lindgren
+  - Lindgren
 has_id_wikidata: Q55767
 member_of_political_party: "[[_Standards/WikiData/WD~Swedish_Social_Democratic_Party,105112]]"
 genre:

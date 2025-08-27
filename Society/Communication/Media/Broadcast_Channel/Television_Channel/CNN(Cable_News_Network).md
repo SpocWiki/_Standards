@@ -45,7 +45,7 @@ child_organization_unit: "[[_Standards/WikiData/WD~CNN_Films,15994987]]"
 parent_organization: "[[_Standards/WikiData/WD~Warner_Bros._Discovery,107074885]]"
 owned_by: "[[_Standards/WikiData/WD~Warner_Bros._Discovery,107074885]]"
 language_used: "[[_Standards/WikiData/WD~English,1860]]"
-has_id_wikidata: CNN contributor ID
+Wikidata_property: CNN contributor ID
 industry: "[[_Standards/WikiData/WD~journalism,11030]]"
 operating_area: "[[_Standards/WikiData/WD~Canada,16]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"

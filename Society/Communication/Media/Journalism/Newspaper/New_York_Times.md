@@ -114,7 +114,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_New_York_Times_topic,1
 total_produced: 443000
 web_feed_URL:
 - "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
-has_id_wikidata: "New York Times contributor ID"
+Wikidata_property: "New York Times contributor ID"
 X_Twitter_username:
 - nytchinese
 - nytgraphics

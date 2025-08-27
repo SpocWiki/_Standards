@@ -26,10 +26,10 @@ title: is_drive_through_service
 type: Pred_Bool
 ---
 
-Indicates whether some facility (e.g. [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment]], [[../../../Society/Agent/Community/Organization/Business/Local_Business/Medical_Business/Medical_Clinic/Covid_Testing_Facility]]) 
+Indicates whether some facility (e.g. [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment]], [[../../../bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility]]) 
 offers a service that can be used by driving through in a car. 
 
-In the case of [[../../../Society/Agent/Community/Organization/Business/Local_Business/Medical_Business/Medical_Clinic/Covid_Testing_Facility]] 
+In the case of [[../../../bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility]] 
 such facilities could potentially help with social distancing from other potentially-infected users.
 
 Renamed from `hasDriveThroughService`, because it is a boolean Type. 

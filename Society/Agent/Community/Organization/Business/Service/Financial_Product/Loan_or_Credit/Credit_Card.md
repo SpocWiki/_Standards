@@ -4,6 +4,7 @@ aliases:
   - credit_card
   - CreditCard
   - is_a_credit_card
+  - Kreditkarte
 confidential: public
 cssclasses:
   - Type
@@ -23,7 +24,12 @@ tags:
   - schema-org/Class
 title: is_a_credit_card Class
 type: Type
+has_id_wikidata: Q161380
 ---
+
+# [[Credit_Card]] 
+
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Credit_card,161380|WD~Credit_card,161380]] 
 
 Class of all credit_cards.
 

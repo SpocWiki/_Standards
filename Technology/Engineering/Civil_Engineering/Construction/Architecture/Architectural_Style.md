@@ -8,7 +8,7 @@ history_of_topic: "[[_Standards/WikiData/WD~timeline_of_architectural_styles,246
 has_list: "[[_Standards/WikiData/WD~list_of_architectural_styles,18192578]]"
 instance_of: "[[_Standards/WikiData/WD~metaclass,19478619]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_architectural_style,22839691]]"
-has_id_wikidata: architectural style
+Wikidata_property: architectural style
 is_metaclass_for: "[[_Standards/WikiData/WD~building,41176]]"
 OpenStreetMap_tag_or_key: Key:building:architecture
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20The%20dream%20of%20the%20architect%20210%20Sun%20Unedited.jpg

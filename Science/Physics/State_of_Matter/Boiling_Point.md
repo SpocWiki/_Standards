@@ -6,7 +6,7 @@ different_from: "[[_Standards/WikiData/WD~condensation_point,3014744]]"
 described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 instance_of: "[[_Standards/WikiData/WD~thermal_property,65939908]]"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/11.%20%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%82%D0%B0%20%D0%B8%20%D0%B2%D1%80%D0%B8%D0%B5%D1%9A%D0%B5%D1%82%D0%BE%20%D0%BD%D0%B0%20%D1%82%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82.ogv
-has_id_wikidata: boiling point
+Wikidata_property: boiling point
 subclass_of: "[[_Standards/WikiData/WD~temperature,11466]]"
 greater_than: "[[_Standards/WikiData/WD~melting_point,15318]]"
 OmegaWiki_Defined_Meaning: "416"

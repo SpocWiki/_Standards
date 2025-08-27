@@ -93,7 +93,7 @@ topic_s_main_template:
   - "[[_Standards/WikiData/WD~Template_Infobox_building,5906647]]"
 UMLS_CUI: C1999269
 U_S_National_Archives_Identifier: 10640473
-has_id_wikidata: adjacent building
+Wikidata_property: adjacent building
 Wolfram_Language_entity_type: Building
 aliases:
 ---

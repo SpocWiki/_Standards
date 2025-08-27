@@ -26,7 +26,7 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_General_injuries,14446
 described_by_source:
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
   - "[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]"
-has_id_wikidata: number of injured
+Wikidata_property: number of injured
 IAB_code: "298"
 DiseasesDB: "28858"
 MeSH_tree_code: C26

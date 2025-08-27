@@ -102,7 +102,7 @@ properties_for_this_type:
   - child
   - movement
 notable_work: "[[_Standards/WikiData/WD~music,638]]"
-has_id_wikidata: composer
+Wikidata_property: composer
 ISCO_88_occupation_class: "2453"
 ISCO_08_occupation_class: "2652"
 ROME_Occupation_Code: "12783"

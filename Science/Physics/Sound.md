@@ -37,7 +37,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~acoustic_wave,3882459]]'
 UMLS_CUI: C0037709
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/23.%20%D0%97%D0%B2%D1%83%D1%87%D0%BD%D0%B8%20%D0%B2%D0%B8%D1%99%D1%83%D1%88%D0%BA%D0%B8.ogv"
-has_id_wikidata: "produced sound"
+Wikidata_property: "produced sound"
 ---
 
 ## #has_/text_of_/abstract 

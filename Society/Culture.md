@@ -52,7 +52,7 @@ subclass_of: '[[_Standards/WikiData/WD~pattern_of_behavior,2515887]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Culture,7743800]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Culture,6652637]]'
 U_S_National_Archives_Identifier: 10640511
-has_id_wikidata: culture
+Wikidata_property: culture
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_culture,4773237]]'
 ---
 
