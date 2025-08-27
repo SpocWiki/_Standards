@@ -13,6 +13,10 @@ schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Schopenhauers%20b
 subclass_of: '[[_Standards/WikiData/WD~discourse,190539]]'
 ---
 
+# [[Dialectic]] 
+
+#is_/same_as :: [[../../WikiData/WD~Dialectic,9453|WD~Dialectic,9453]] 
+
 ## #has_/text_of_/abstract 
 
 > **Dialectic** (Ancient Greek: διαλεκτική, romanized: dialektikḗ; German: Dialektik), also known as the dialectical method, refers originally to dialogue between people holding different points of view about a subject but wishing to arrive at the truth through reasoned argument. Dialectic resembles debate, but the concept excludes subjective elements such as emotional appeal and rhetoric. It has its origins in ancient philosophy and continued to be developed in the Middle Ages.

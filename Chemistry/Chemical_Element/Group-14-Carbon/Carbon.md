@@ -78,8 +78,7 @@ ZVG_number: 8040
 
 #chemic/Element 
 [GroupName::Group-14-Carbon]
-[Group:[[../Group-14-Carbon]]]]
-
+[Group : [[../Group-14-Carbon]]]]
 
 [Name-en::Carbon]
 [Name-de::Kohlenstoff]
@@ -100,7 +99,6 @@ ZVG_number: 8040
 (GroupNo::14)
 
 #is_/same_as :: [[../../../WikiData/WD~Carbon,623]] 
-
 
 ## #has_/text_of_/abstract 
 

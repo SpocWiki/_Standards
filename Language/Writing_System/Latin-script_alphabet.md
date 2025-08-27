@@ -48,6 +48,8 @@ Unicode_range:
 - U+FB00-FB06
 ---
 
+# [[Latin-script_alphabet]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Latin-script alphabet** (Latin alphabet or Roman alphabet) is an alphabet that uses letters of the Latin script. The 21-letter archaic Latin alphabet and the 23-letter classical Latin alphabet belong to the oldest of this group. The 26-letter modern Latin alphabet is the newest of this group.
