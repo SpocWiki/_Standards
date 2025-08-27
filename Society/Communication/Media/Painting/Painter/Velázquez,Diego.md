@@ -177,8 +177,12 @@ work_location:
 - '[[_Standards/WikiData/WD~Rome,220]]'
 ---
 
+# [[Velázquez,Diego]] 
+
 #has_/time_/started :: 1599-06-06 
 #has_/time_/started :: 1660-08-06 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Diego_Velázquez,297|WD~Diego_Velázquez,297]] 
 
 ## #has_/text_of_/abstract 
 
