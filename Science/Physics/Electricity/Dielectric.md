@@ -24,7 +24,10 @@ has_id_wikidata: Q184996
 > If a dielectric is composed of weakly bonded molecules, those molecules not only become polarised, 
 > but also reorient so that their symmetry axes align to the field.
 >
-> The study of dielectric properties concerns storage and dissipation of electric and magnetic energy in materials. Dielectrics are important for explaining various phenomena in electronics, optics, solid-state physics and cell biophysics.
+> The study of dielectric properties concerns 
+> storage and dissipation of electric and magnetic energy in materials. 
+> Dielectrics are important for explaining various phenomena in electronics, 
+> optics, solid-state physics and cell biophysics.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dielectric) 
 

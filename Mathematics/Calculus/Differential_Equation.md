@@ -28,6 +28,10 @@ topic_s_main_template:
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 ---
 
+# [[Differential_Equation]] 
+
+#is_/same_as :: [[../../WikiData/WD~Differential_equation,11214|WD~Differential_equation,11214]] 
+
 ## #has_/text_of_/abstract 
 
 > In mathematics, a **Differential equation** is an equation that relates one or more unknown functions and their derivatives. In applications, the functions generally represent physical quantities, the derivatives represent their rates of change, and the differential equation defines a relationship between the two. Such relations are common in mathematical models and scientific laws; therefore, differential equations play a prominent role in many disciplines including engineering, physics, economics, and biology.

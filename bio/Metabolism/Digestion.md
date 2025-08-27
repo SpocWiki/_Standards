@@ -24,6 +24,10 @@ studied_in: '[[_Standards/WikiData/WD~digestive_physiology,130261998]]'
 subclass_of: '[[_Standards/WikiData/WD~multicellular_organismal_process,22299433]]'
 ---
 
+# [[Digestion]] 
+
+#is_/same_as :: [[../../WikiData/WD~Digestion,11978|WD~Digestion,11978]] 
+
 ## #has_/text_of_/abstract 
 
 > **Digestion** is the breakdown of large insoluble food compounds 
