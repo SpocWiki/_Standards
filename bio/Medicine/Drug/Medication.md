@@ -58,7 +58,7 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_drug,6033882]]
 Wikidata_property: drug or therapy used for treatment
 ---
 
-# [[Medicine]] 
+# [[Medication]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Medication,12140|WD~Medication,12140]] 
 
@@ -79,7 +79,7 @@ Wikidata_property: drug or therapy used for treatment
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medicine](/_Standards/bio/Medicine/Drug/Medicine.md) 
+### #is_/same_as :: [Medication](Medication.md) 
 
 ### #is_/same_as :: [Medicine.public](/_public/bio/Medicine/Drug/Medicine.public.md) 
 

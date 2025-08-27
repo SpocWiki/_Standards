@@ -90,6 +90,10 @@ U_S_National_Archives_Identifier: 10642341
 Wikidata_property: conflict
 ---
 
+# [[War]] 
+
+#is_/same_as :: [[../../WikiData/WD~War,198|WD~War,198]] 
+
 ## #has_/text_of_/abstract 
 
 > **War** is an armed conflict between the armed forces of states, or between governmental forces and armed groups that are organized under a certain command structure and have the capacity to sustain military operations, or between such organized groups. It is generally characterized by widespread violence, destruction, and mortality, using regular or irregular military forces. Warfare refers to the common activities and characteristics of types of war, or of wars in general. Total war is warfare that is not restricted to purely legitimate military targets, and can result in massive civilian or other non-combatant suffering and casualties.
@@ -98,6 +102,27 @@ Wikidata_property: conflict
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/War)
 
+
+```mermaid
+graph TD
+    Q19632["Douglas MacArthur (Q19632)"]
+    Q362["World War II (Q362)"]
+    S["Statement Node (s:Q19632-UUID)"]
+    P580["Start time (1941)"]
+    P582["End time (1945)"]
+    REF["Reference (NYT Article)"]
+
+    %% Simple triple
+    Q19632 -- "wdt:P607" --> Q362
+
+    %% Reified structure
+    Q19632 -- "p:P607" --> S
+    S -- "ps:P607" --> Q362
+    S -- "pq:P580" --> P580
+    S -- "pq:P582" --> P582
+    S -- "prov:wasDerivedFrom" --> REF
+
+```
 
 ## Confidential Links & Embeds: 
 

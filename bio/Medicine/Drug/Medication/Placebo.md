@@ -37,7 +37,7 @@ UMLS_CUI: C0032042
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Placebo](/_Standards/bio/Medicine/Drug/Medicine/Placebo.md) 
+### #is_/same_as :: [Placebo](Placebo.md) 
 
 ### #is_/same_as :: [Placebo.public](/_public/bio/Medicine/Drug/Medicine/Placebo.public.md) 
 
