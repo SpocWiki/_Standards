@@ -24,7 +24,7 @@ Baidu_Tieba_name: 早餐
 
 # [[Breakfast]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Breakfast,80973|WD~Breakfast,80973]] 
+#is_/same_as :: [[../../../../WikiData/WD~Breakfast,80973|WD~Breakfast,80973]] 
 
 ## #has_/text_of_/abstract 
 
