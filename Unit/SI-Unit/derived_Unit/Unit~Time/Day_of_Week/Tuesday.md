@@ -40,7 +40,7 @@ The day of the week between Monday and Wednesday.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [tuesday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.md) 
+### #is_/same_as :: [Tuesday](Tuesday.md) 
 
 ### #is_/same_as :: [tuesday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.public.md) 
 

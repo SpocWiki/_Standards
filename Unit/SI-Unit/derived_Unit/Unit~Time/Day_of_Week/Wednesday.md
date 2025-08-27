@@ -40,7 +40,7 @@ The day of the week between Tuesday and Thursday.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [wednesday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.md) 
+### #is_/same_as :: [Wednesday](Wednesday.md) 
 
 ### #is_/same_as :: [wednesday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.public.md) 
 

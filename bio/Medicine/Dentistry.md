@@ -41,6 +41,10 @@ U_S_National_Archives_Identifier: 10646970
 WordLift_URL: "http://data.wordlift.io/wl01714/entity/dentistry"
 ---
 
+# [[Dentistry]] 
+
+#is_/same_as :: [[../../WikiData/WD~Dentistry,12128|WD~Dentistry,12128]] 
+
 ## #has_/text_of_/abstract 
 
 > **Dentistry**, also known as dental medicine and oral medicine, is the branch of medicine focused on the teeth, gums, and mouth. It consists of the study, diagnosis, prevention, management, and treatment of diseases, disorders, and conditions of the mouth, most commonly focused on dentition (the development and arrangement of teeth) as well as the oral mucosa. Dentistry may also encompass other aspects of the craniofacial complex including the temporomandibular joint. The practitioner is called a dentist.
