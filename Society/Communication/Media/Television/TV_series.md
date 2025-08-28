@@ -1,3 +1,14 @@
+---
+aliases:
+  - TV Series
+  - TV Serie
+  - Fernsehserie
+  - 
+---
+
+# [[TV_Series]] 
+
+#is_/same_as :: 
 
 ## #has_/text_of_/abstract 
 
