@@ -61,7 +61,7 @@ U_S_National_Archives_Identifier: "10568293"
 
 # [[Lewis,Carl]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Carl_Lewis,131237|WD~Carl_Lewis,131237]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Carl_Lewis,131237|WD~Carl_Lewis,131237]] 
 
 ## #has_/text_of_/abstract 
 
