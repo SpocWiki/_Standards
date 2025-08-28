@@ -22,7 +22,7 @@ Colon_Classification: E:235
 
 # [[Colloid]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Colloid,181780|WD~Colloid,181780]] 
+#is_/same_as :: [[../../../../WikiData/WD~Colloid,181780|WD~Colloid,181780]] 
 
 ## #has_/text_of_/abstract 
 

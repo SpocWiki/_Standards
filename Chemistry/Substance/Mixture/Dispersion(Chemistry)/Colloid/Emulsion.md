@@ -5,12 +5,13 @@ has_id_wikidata: Q187634
 
 # [[Emulsion]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Emulsion,187634|WD~Emulsion,187634]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Emulsion,187634|WD~Emulsion,187634]] 
 
 ## #has_/text_of_/abstract 
 
 > An **Emulsion** is a mixture of two or more liquids that are normally immiscible (unmixable or unblendable) 
 > owing to liquid-liquid phase separation. 
+> 
 > Emulsions are part of a more general class of two-phase systems of matter called colloids. 
 > Although the terms colloid and emulsion are sometimes used interchangeably, emulsion more narrowly refers to when both phases, dispersed and continuous, are liquids. In an emulsion, one liquid (the dispersed phase) is dispersed in the other (the continuous phase). Examples of emulsions include vinaigrettes, homogenized milk, liquid biomolecular condensates, and some cutting fluids for metal working.
 >

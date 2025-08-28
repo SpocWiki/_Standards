@@ -20,10 +20,9 @@ MeSH_tree_code:
   - D26.255.165.810
 ---
 
-# [[Suspension(chemistry)]] 
+# [[Suspension(Chemistry)]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Suspension,26100|WD~Suspension,26100]] 
-
+#is_/same_as :: [[../../../../WikiData/WD~Suspension,26100|WD~Suspension,26100]] 
 
 ## #has_/text_of_/abstract 
 
