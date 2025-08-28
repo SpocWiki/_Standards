@@ -58,6 +58,8 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/dinosaur
 
 # [[Dinosaur]] 
 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Dinosaur,430|WD~Dinosaur,430]] 
+
 ## #has_/text_of_/abstract 
 
 > **Dinosaur**s are a diverse group of reptiles of the clade Dinosauria. 
