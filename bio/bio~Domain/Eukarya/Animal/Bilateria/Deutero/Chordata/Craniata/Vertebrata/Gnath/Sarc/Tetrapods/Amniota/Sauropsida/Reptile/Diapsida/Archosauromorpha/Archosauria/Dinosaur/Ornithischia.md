@@ -18,7 +18,7 @@ Bird-hipped plant-eating dinosaurs
 ## Phylogeny 
 
 -   « Ancestral Groups  
-    -   [Dinosauria](../Dinosauria.md)
+    -   [Dinosaur](../Dinosaur.md)
     -   [Archosauria](../../Archosauria.md)
     -   [Archosauromorpha](../../../Archosauromorpha.md)
     -   [Diapsida](../../../../Diapsida.md)

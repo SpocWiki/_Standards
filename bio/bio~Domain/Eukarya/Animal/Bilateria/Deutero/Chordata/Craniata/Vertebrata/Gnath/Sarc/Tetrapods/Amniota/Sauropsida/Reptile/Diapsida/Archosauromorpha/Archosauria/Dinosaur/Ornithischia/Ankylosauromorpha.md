@@ -156,7 +156,7 @@ relationship, the *Ankylosauromorpha* consists of *Scelidosaurus* +
 
 -   « Ancestral Groups  
     -   [Ornithischia](../Ornithischia.md)
-    -   [Dinosauria](../../Dinosauria.md)
+    -   [Dinosaur](../../Dinosaur.md)
     -   [Archosauria](../../../Archosauria.md)
     -   [Archosauromorpha](../../../../Archosauromorpha.md)
     -   [Diapsida](../../../../../Diapsida.md)

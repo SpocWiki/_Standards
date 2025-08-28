@@ -56,7 +56,7 @@ Wolfram_Language_entity_type: Dinosaur
 WordLift_URL: http://data.thenextweb.com/tnw/entity/dinosaur
 ---
 
-# [[Dinosauria]] 
+# [[Dinosaur]] 
 
 ## #has_/text_of_/abstract 
 
@@ -161,9 +161,9 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/dinosaur
     -   Dinosauria
 
 -   » Sub-Groups
-    -   [Ornithischia](Dinosauria/Ornithischia.md)
-    -   [Sauropodomorpha](Dinosauria/Sauropodomorpha.md)
-    -   [Theropoda](Dinosauria/Theropoda.md)
+    -   [Ornithischia](Dinosaur/Ornithischia.md)
+    -   [Sauropodomorpha](Dinosaur/Sauropodomorpha.md)
+    -   [Theropoda](Dinosaur/Theropoda.md)
 
 
 ## Confidential Links & Embeds: 

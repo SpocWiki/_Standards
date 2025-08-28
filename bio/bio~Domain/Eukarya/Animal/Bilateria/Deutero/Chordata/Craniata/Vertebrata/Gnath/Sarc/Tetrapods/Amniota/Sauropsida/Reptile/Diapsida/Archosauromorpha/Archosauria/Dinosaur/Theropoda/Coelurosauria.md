@@ -24,7 +24,7 @@ Birds, tyrannosaurs, velociraptors, etc.
 
 -   « Ancestral Groups  
     -   [Theropoda](../Theropoda.md)
-    -   [Dinosauria](../../Dinosauria.md)
+    -   [Dinosaur](../../Dinosaur.md)
     -   [Archosauria](../../../Archosauria.md)
     -   [Archosauromorpha](../../../../Archosauromorpha.md)
     -   [Diapsida](../../../../../Diapsida.md)

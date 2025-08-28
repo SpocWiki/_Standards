@@ -148,7 +148,7 @@ these species, regardless of their position relative to
 -   « Ancestral Groups  
     -   [Coelurosauria](../Coelurosauria.md)
     -   [Theropoda](../../Theropoda.md)
-    -   [Dinosauria](../../../Dinosauria.md)
+    -   [Dinosaur](../../../Dinosaur.md)
     -   [Archosauria](../../../../Archosauria.md)
     -   [Archosauromorpha](../../../../../Archosauromorpha.md)
     -   [Diapsida](../../../../../../Diapsida.md)
