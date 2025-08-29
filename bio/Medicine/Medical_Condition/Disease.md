@@ -92,6 +92,10 @@ Wikidata_property:
 Wolfram_Language_entity_type: Disease
 ---
 
+# [[Disease]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Disease,12136|WD~Disease,12136]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Disease** is a particular abnormal condition that adversely affects the structure or function of all or part of an organism and is not immediately due to any external injury. Diseases are often known to be medical conditions that are associated with specific signs and symptoms. A disease may be caused by external factors such as pathogens or by internal dysfunctions. For example, internal dysfunctions of the immune system can produce a variety of different diseases, including various forms of immunodeficiency, hypersensitivity, allergies, and autoimmune disorders.

@@ -1,5 +1,7 @@
 ---
 aliases:
+  - continuous uniform distributions 
+  - rectangular distributions
 has_id_wikidata: Q274506
 subclass_of:
   - "[[_Standards/WikiData/WD~location_scale_family,6664772]]"
@@ -19,7 +21,7 @@ excess_kurtosis: <math class="mwe-math-element mwe-math-element-inline" xmlns="h
 Commons_category: Uniform distribution
 ---
 
-# [[Continuous_uniform_distribution]] 
+# [[Continuous_uniform_Distribution]] 
 
 #is_/same_as :: [[../../WikiData/WD~Continuous_uniform_distribution,274506|WD~Continuous_uniform_distribution,274506]] 
 

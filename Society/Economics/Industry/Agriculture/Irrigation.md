@@ -32,6 +32,7 @@ U_S_National_Archives_Identifier: 10639786
 
 # [[Irrigation]] 
 
+#is_/opposite_of :: [[Drainage]] 
  #is_/same_as :: [[../../../../WikiData/WD~Agricultural_irrigation,11453|WD~Agricultural_irrigation,11453]] 
  
 ## #has_/text_of_/abstract 

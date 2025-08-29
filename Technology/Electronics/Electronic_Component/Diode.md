@@ -1,18 +1,28 @@
 ---
+aliases:
+  - Diodes
+  - Dioden
 Commons_category: Diodes
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 has_id_wikidata: Q11656
-has_use: '[[_Standards/WikiData/WD~electrical_resistance,25358]]'
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Diode01.svg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Diode-closeup.jpg"
-instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]'
+has_use: "[[_Standards/WikiData/WD~electrical_resistance,25358]]"
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Diode01.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Diode-closeup.jpg
+instance_of: "[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]"
 Nomenclature_for_Museum_Cataloging: 8836
 subclass_of:
-- '[[_Standards/WikiData/WD~nonlinear_electrical_element,7049472]]'
-- '[[_Standards/WikiData/WD~passive_electronic_component,9252564]]'
-- '[[_Standards/WikiData/WD~active_electronic_component,12492106]]'
-- '[[_Standards/WikiData/WD~electronic_component,11653]]'
+  - "[[_Standards/WikiData/WD~nonlinear_electrical_element,7049472]]"
+  - "[[_Standards/WikiData/WD~passive_electronic_component,9252564]]"
+  - "[[_Standards/WikiData/WD~active_electronic_component,12492106]]"
+  - "[[_Standards/WikiData/WD~electronic_component,11653]]"
+maintained_by_WikiProject:
+  - "[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Electronics,10802636]]"
 ---
+
+# [[Diode]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Diode,11656|WD~Diode,11656]] 
 
 ## #has_/text_of_/abstract 
 

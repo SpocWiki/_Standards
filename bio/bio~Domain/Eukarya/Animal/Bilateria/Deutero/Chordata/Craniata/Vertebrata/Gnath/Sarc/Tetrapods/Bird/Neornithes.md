@@ -39,9 +39,9 @@ which includes the two primary taxa Galloanserae and Neoaves.
 
 -   « Ancestral Groups  
     -  [Bird](../Bird.md)) 
-    -  [Coelurosauria](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.md))
-    -  [Theropoda](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda.md))
-    -  [Dinosauria](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria.md))
+    -  [Coelurosauria](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.md))
+    -  [Theropoda](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda.md))
+    -  [Dinosaur](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur.md))
     -  [Archosauria](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria.md))
     -  [Archosauromorpha](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha.md))
     -  [Diapsida](../Amniota/Sauropsida/Reptile/Diapsida.md))

@@ -481,9 +481,9 @@ For more Details, check out this Repository into this Subfolder:
 [ISO2::CZ]
 [ISO3::CZE] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]] 
+
 ## #has_/map  
-
-
 
 
 ```leaflet

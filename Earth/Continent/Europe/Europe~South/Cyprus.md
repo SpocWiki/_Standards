@@ -362,7 +362,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Cyprus/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -426,17 +425,15 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 196 ]
 
-
-
 SpocWebEntityId: 4948
 isDeleted: false
 confidential: public
 [ISO2::CY]
 [ISO3::CYP]
- 
+
+ #is_/same_as :: [[../../../../WikiData/WD~Cyprus,229|WD~Cyprus,229]] 
 
 ## #has_/map  
-
 
 
 ```leaflet

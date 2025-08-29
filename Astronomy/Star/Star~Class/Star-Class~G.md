@@ -12,6 +12,8 @@ type: StarClass
 _Mass-sol: 1.1
 ---
 
+# [[Star-Class~G]] 
+
 [name::G] 
 [Temperature::5900] 
 [Radius-sol::1.2] 

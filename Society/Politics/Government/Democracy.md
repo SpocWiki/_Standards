@@ -49,6 +49,10 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_democracy,25112605]]'
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/democracy"
 ---
 
+# [[Democracy]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Democracy,7174|WD~Democracy,7174]] 
+
 ## Types of Democracies
 
 Each characteristic is given a binary distinction, representing possible alternatives:

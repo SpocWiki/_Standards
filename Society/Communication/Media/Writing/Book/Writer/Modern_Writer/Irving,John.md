@@ -1,9 +1,10 @@
 ---
 aliases:
-- Irving,John
-- "John Winslow Irving"
-- "John Irving"
-- "John Wallace Blunt"
+  - Irving,John
+  - John Winslow Irving
+  - John Irving
+  - John Wallace Blunt
+  - Irving
 ---
 
 # [[Irving,John]]

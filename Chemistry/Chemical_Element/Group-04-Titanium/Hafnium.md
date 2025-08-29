@@ -101,7 +101,7 @@ ZVG_number: 7720
 > A lustrous, silvery gray, tetravalent transition metal, hafnium chemically resembles zirconium 
 > and is found in many zirconium minerals. 
 > 
-> Its existence was predicted by [[../../../Science/Scientist/Modern_Scientists/Mendeleev,Dmitri]] in 1869, 
+> Its existence was predicted by [[../../Chemist/Mendeleev,Dmitri]] in 1869, 
 > though it was not identified until 1922, by Dirk Coster and George de Hevesy. 
 > Hafnium is named after Hafnia, the Latin name for Copenhagen, where it was discovered.
 >

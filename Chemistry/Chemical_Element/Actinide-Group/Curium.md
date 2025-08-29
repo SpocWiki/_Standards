@@ -51,14 +51,11 @@ Unicode_character: 鋦
 UNII: M5LL84MZ2W
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Curium,1876]] 
-
+# [[Curium]] 
 
 #chemic/Element 
 [GroupName::Actinide-Group]
 [Group:[[../Actinide-Group]]]]
-
-
 
 [Name-en::Curium]
 [Name-de::Curium]
@@ -81,7 +78,7 @@ UNII: M5LL84MZ2W
 []
 (Charge-e::96)
 
-
+#is_/same_as :: [[../../../WikiData/WD~Curium,1876]] 
 
 ## #has_/text_of_/abstract 
 

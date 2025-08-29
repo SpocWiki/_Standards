@@ -70,7 +70,7 @@ title: Archosauria
     -   Archosauria
 
 -   » Sub-Groups
-    -   [Dinosauria](Archosauria/Dinosauria.md)
+    -   [Dinosaur](Archosauria/Dinosaur.md)
 	-   *Pterosauria* †
 	-   *Lagosuchis* †
 	-   *Ornithosuchidae* †

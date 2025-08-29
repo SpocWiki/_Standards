@@ -155,9 +155,9 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_birds,6210059]]'
 ## Phylogeny 
 
 -   « Ancestral Groups  in ascending order 
-    -  [Coelurosauria](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.md))
-    -  [Theropoda](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda.md))
-    -  [Dinosauria](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria.md))
+    -  [Coelurosauria](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria.md))
+    -  [Theropoda](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda.md))
+    -  [Dinosaur](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur.md))
     -  [Archosauria](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria.md))
     -  [Archosauromorpha](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha.md))
     -  [Diapsida](Amniota/Sauropsida/Reptile/Diapsida.md))
@@ -175,7 +175,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_birds,6210059]]'
     -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md) 
 
 -   ◊ Sibling Groups of  Coelurosauria
-    -  [Tyrannosauroidea](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.md))
+    -  [Tyrannosauroidea](Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria/Tyrannosauroidea.md))
     -   Aves
 	-   *Confuciusornithidae* †
 	-   *Enantiornithes* †

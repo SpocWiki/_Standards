@@ -74,8 +74,11 @@ name:
 - dévanâgarî
 inception: "1100"
 has_time_started: 1100-06 
-has_time_started: 1100-01-01 
 ---
+
+# [[Devanagari]] 
+
+#is_/same_as :: [[../../WikiData/WD~Devanagari,38592|WD~Devanagari,38592]] 
 
 ## #has_/text_of_/abstract 
 

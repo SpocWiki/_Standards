@@ -1,4 +1,3 @@
-
 ---
 aliases:
 - "film director"

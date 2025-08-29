@@ -7,14 +7,15 @@ tags:
 type: Zodiac
 ---
 
+# [[Zodiac~Cygnus]] 
+
 [SpocWebEntityId::28113]
-
-
 
 [name-la::Cygnus]
 [name-genitive::Cygni]
 [name-de::Schwan]
 
+#is_/same_as :: [[../../WikiData/WD~Cygnus,8921|WD~Cygnus,8921]] 
 
 ## Confidential Links & Embeds: 
 

@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Jules Verne"
-- "Jules Gabriel Verne"
+  - Jules Verne
+  - Jules Gabriel Verne
+  - Verne
 ---
 
 Verne had a Notes system, similar to [[../../../../../../../../_orga/Zettelkasten]] that he destroyed before his death. 
