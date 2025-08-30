@@ -125,6 +125,10 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_North_America,7112387]]'
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"NorthAmerica\"]"
 ---
 
+# [[America~North]] 
+
+## #has_/map 
+
 ```leaflet
 id: North-America
 minZoom: 2 
@@ -145,16 +149,57 @@ lat: 45
 ## #has_/text_of_/abstract 
 
 > **North America** is a continent in the Northern and Western Hemispheres. 
+> 
 > North America is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, 
-> to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. The region includes the Bahamas, Bermuda, Canada, the Caribbean, Central America, Clipperton Island, Greenland, Mexico, Saint Pierre and Miquelon, the Turks and Caicos Islands, and the United States.
+> to the southeast by South America and the Caribbean Sea, 
+> and to the west and south by the Pacific Ocean. 
+> 
+> The region includes the Bahamas, Bermuda, Canada, the Caribbean, 
+> Central America, Clipperton Island, Greenland, Mexico, Saint Pierre and Miquelon, 
+> the Turks and Caicos Islands, and the United States.
 >
-> North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles), representing approximately 16.5% of the Earth's land area and 4.8% of its total surface area. It is the third-largest continent by size after Asia and Africa, and the fourth-largest continent by population after Asia, Africa, and Europe. As of 2021, North America's population was estimated as over 592 million people in 23 independent states, or about 7.5% of the world's population. In human geography, the terms "North America" and "North American" can refer to Canada, the United States, Mexico, and Greenland or, alternatively, Canada, Greenland and the US (Mexico being classified as part of Latin America) or simply Canada and the US (Greenland being classified as either Arctic or European (due to its political status as a part of Denmark) and Mexico classified as Latin American).
+> North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles), 
+> representing approximately 16.5% of the Earth's land area and 4.8% of its total surface area. 
+> 
+> It is the third-largest continent by size after Asia and Africa, 
+> and the fourth-largest continent by population after Asia, Africa, and Europe. 
+> 
+> As of 2021, North America's population was estimated as over 592 million people 
+> in 23 independent states, or about 7.5% of the world's population. 
+> 
+> In human geography, the terms "North America" and "North American" 
+> can refer to Canada, the United States, Mexico, and Greenland or, 
+> alternatively, Canada, Greenland and the US (Mexico being classified as part of Latin America) 
+> or simply Canada and the US (Greenland being classified as either Arctic or European
+>  (due to its political status as a part of Denmark) and Mexico classified as Latin American).
 >
-> It is unknown with certainty how and when first human populations first reached North America. People were known to live in the Americas at least 20,000 years ago, but various evidence points to possibly earlier dates. The Paleo-Indian period in North America followed the Last Glacial Period, and lasted until about 10,000 years ago when the Archaic period began. The classic stage followed the Archaic period, and lasted from approximately the 6th to 13th centuries. Beginning in 1000 AD, the Norse were the first Europeans to begin exploring and ultimately colonizing areas of North America.
+> It is unknown with certainty how and when first human populations first reached North America. 
+> People were known to live in the Americas at least 20,000 years ago, 
+> but various evidence points to possibly earlier dates. 
+> 
+> The Paleo-Indian period in North America followed the Last Glacial Period, 
+> and lasted until about 10,000 years ago when the Archaic period began. 
+> The classic stage followed the Archaic period, 
+> and lasted from approximately the 6th to 13th centuries. 
+> 
+> Beginning in 1000 AD, 
+> the Norse were the first Europeans to begin exploring and ultimately colonizing areas of North America.
 >
-> In 1492, the exploratory voyages of Christopher Columbus led to a transatlantic exchange, including migrations of European settlers during the Age of Discovery and the early modern period. Present-day cultural and ethnic patterns reflect interactions between European colonists, indigenous peoples, enslaved Africans, immigrants from Europe, Asia, and descendants of these respective groups.
+> In 1492, the exploratory voyages of Christopher Columbus led to a transatlantic exchange, 
+> including migrations of European settlers during the Age of Discovery 
+> and the early modern period. 
+> 
+> Present-day cultural and ethnic patterns reflect interactions between European colonists, 
+> indigenous peoples, enslaved Africans, immigrants from Europe, Asia, 
+> and descendants of these respective groups.
 >
-> Europe's colonization in North America led to most North Americans speaking European languages, such as English, Spanish, and French, and the cultures of the region commonly reflect Western traditions. However, relatively small parts of North America in Canada, the United States, Mexico, and Central America have indigenous populations that continue adhering to their respective pre-European colonial cultural and linguistic traditions.
+> Europe's colonization in North America led to 
+> most North Americans speaking European languages, such as English, Spanish, and French, 
+> and the cultures of the region commonly reflect Western traditions. 
+> 
+> However, relatively small parts of North America in Canada, the United States, Mexico, 
+> and Central America have indigenous populations 
+> that continue adhering to their respective pre-European colonial cultural and linguistic traditions.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/North%20America)
 
