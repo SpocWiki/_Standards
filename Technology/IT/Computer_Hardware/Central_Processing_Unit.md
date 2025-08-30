@@ -1,6 +1,12 @@
 ---
 has_id_wikidata: Q5300
+aliases:
+  - Processor
 ---
+
+# [[Central_Processing_Unit]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Central_processing_unit,5300|WD~Central_processing_unit,5300]] 
 
 ## #has_/text_of_/abstract 
 

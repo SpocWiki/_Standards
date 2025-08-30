@@ -56,6 +56,8 @@ UNII: 1D4N45714Q
 ZVG_number: 7660
 ---
 
+# [[Dysprosium]] 
+
 #is_/same_as :: [[../../../WikiData/WD~Dysprosium,1843]] 
 
 
@@ -82,6 +84,7 @@ ZVG_number: 7660
 (PeriodNo::6)
 (GroupNo::32)
 
+#is_/same_as :: [[../../../WikiData/WD~Dysprosium,1843|WD~Dysprosium,1843]] 
 
 ## #has_/text_of_/abstract 
 

@@ -23,7 +23,7 @@ Krugosvet_article: nauka_i_tehnika/matematika/HAOSA_TEORIYA.html
 
 # [[Chaos_Theory]] 
 
-#is_/same_as :: [[../WikiData/WD~Chaos_theory,166314|WD~Chaos_theory,166314]] 
+#is_/same_as :: [[../../WikiData/WD~Chaos_theory,166314|WD~Chaos_theory,166314]] 
 
 ## #has_/text_of_/abstract 
 
