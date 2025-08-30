@@ -16,7 +16,7 @@ Commons_category: Declarations of war
 
 # [[Declaration_of_War]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Declaration_of_war,334516|WD~Declaration_of_war,334516]] 
+#is_/same_as :: [[../../../../WikiData/WD~Declaration_of_war,334516|WD~Declaration_of_war,334516]] 
 
 ## #has_/text_of_/abstract 
 

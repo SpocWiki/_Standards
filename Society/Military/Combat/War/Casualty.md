@@ -13,8 +13,8 @@ vocalized_name: חָלָל
 
 # [[Casualty]] 
 
-#is_/similar_to :: [[../../../bio/Medicine/Anatomy/Corpse|Corpse]] 
-#is_/same_as :: [[../../../WikiData/WD~Casualty,1056901|WD~Casualty,1056901]]
+#is_/similar_to :: [[../../../../bio/Medicine/Anatomy/Corpse|Corpse]] 
+#is_/same_as :: [[../../../../WikiData/WD~Casualty,1056901|WD~Casualty,1056901]]
 
 ## #has_/text_of_/abstract 
 

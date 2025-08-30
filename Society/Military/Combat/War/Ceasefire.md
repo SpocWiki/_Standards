@@ -18,7 +18,7 @@ described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th
 # [[Ceasefire]] 
 
 
-#is_/same_as :: [[../../../WikiData/WD~Ceasefire,208383|WD~Ceasefire,208383]] 
+#is_/same_as :: [[../../../../WikiData/WD~Ceasefire,208383|WD~Ceasefire,208383]] 
 
 ## #has_/text_of_/abstract 
 

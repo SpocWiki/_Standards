@@ -9,7 +9,7 @@ subclass_of: "[[_Standards/WikiData/WD~war,198]]"
 
 # [[Conventional_Warfare]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Conventional_warfare,429245|WD~Conventional_warfare,429245]] 
+#is_/same_as :: [[../../../../WikiData/WD~Conventional_warfare,429245|WD~Conventional_warfare,429245]] 
 
 ## #has_/text_of_/abstract 
 

@@ -6,7 +6,7 @@ has_id_wikidata: Q45635
 
 # [[Casus_Belli]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Casus_belli,45635|WD~Casus_belli,45635]] 
+#is_/same_as :: [[../../../../WikiData/WD~Casus_belli,45635|WD~Casus_belli,45635]] 
 
 ## #has_/text_of_/abstract 
 

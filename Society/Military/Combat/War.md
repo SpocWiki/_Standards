@@ -92,7 +92,7 @@ Wikidata_property: conflict
 
 # [[War]] 
 
-#is_/same_as :: [[../../WikiData/WD~War,198|WD~War,198]] 
+#is_/same_as :: [[../../../WikiData/WD~War,198|WD~War,198]] 
 
 ## #has_/text_of_/abstract 
 

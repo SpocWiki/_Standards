@@ -25,7 +25,7 @@ EcuRed_article: Guerra_civil
 
 # [[Civil_War]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Civil_war,8465|WD~Civil_war,8465]] 
+#is_/same_as :: [[../../../../WikiData/WD~Civil_war,8465|WD~Civil_war,8465]] 
 
 ## #has_/text_of_/abstract 
 

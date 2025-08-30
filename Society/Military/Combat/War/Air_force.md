@@ -23,7 +23,7 @@ U_S_National_Archives_Identifier: 10636847
 
 # [[Air_force]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Air_force,61883]] 
+#is_/same_as :: [[../../../../WikiData/WD~Air_force,61883]] 
 
 ## #has_/text_of_/abstract 
 

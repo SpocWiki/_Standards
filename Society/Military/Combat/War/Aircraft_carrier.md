@@ -23,7 +23,7 @@ U_S_National_Archives_Identifier: 10638244
 
 # [[Aircraft_carrier]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Aircraft_carrier,17205]] 
+#is_/same_as :: [[../../../../WikiData/WD~Aircraft_carrier,17205]] 
 
 ## #has_/text_of_/abstract 
 

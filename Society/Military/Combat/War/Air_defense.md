@@ -4,7 +4,7 @@ has_id_wikidata: Q843941
 
 # [[Air_defense]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Air_defense,843941]] 
+#is_/same_as :: [[../../../../WikiData/WD~Air_defense,843941]] 
 
 ## #has_/text_of_/abstract 
 

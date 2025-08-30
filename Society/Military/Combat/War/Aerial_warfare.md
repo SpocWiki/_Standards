@@ -4,7 +4,7 @@ has_id_wikidata: Q471145
 
 # [[Aerial_warfare]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Aerial_warfare,471145]] 
+#is_/same_as :: [[../../../../WikiData/WD~Aerial_warfare,471145]] 
 
 ## #has_/text_of_/abstract 
 
