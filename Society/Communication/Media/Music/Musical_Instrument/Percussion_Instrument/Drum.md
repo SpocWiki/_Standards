@@ -34,6 +34,10 @@ subclass_of: '[[_Standards/WikiData/WD~struck_membranophone,19588483]]'
 Unicode_character: "\U0001F941"
 ---
 
+# [[Drum]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Drum,11404|WD~Drum,11404]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Drum** is a member of the percussion group of musical instruments. In the Hornbostel-Sachs classification system, it is a membranophone. Drums consist of at least one membrane, called a drumhead or drum skin, that is stretched over a shell and struck, either directly with the player's hands, or with a percussion mallet, to produce sound. There is usually a resonant head on the underside of the drum. Other techniques have been used to cause drums to make sound, such as the thumb roll. Drums are the world's oldest and most ubiquitous musical instruments, and the basic design has remained virtually unchanged for thousands of years.

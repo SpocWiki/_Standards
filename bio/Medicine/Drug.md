@@ -82,6 +82,8 @@ although clinical knowledge makes a clear difference between them.
 
 [ #has_/properties :: [ activeIngredient, additionalProperty, additionalType, administrationRoute, aggregateRating, alcoholWarning, alternateName, asin, audience, availableStrength, award, awards, brand, breastfeedingWarning, category, clincalPharmacology, clinicalPharmacology, code, color, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, depth, description, disambiguatingDescription, dosageForm, doseSchedule, drugClass, drugUnit, foodWarning, funding, gtin, gtin12, gtin13, gtin14, gtin8, guideline, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasProductReturnPolicy, height, identifier, image, inProductGroupWithID, includedInHealthInsurancePlan, interactingDrug, isAccessoryOrSparePartFor, isAvailableGenerically, isConsumableFor, isFamilyFriendly, isProprietary, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, labelDetails, legalStatus, logo, mainEntityOfPage, manufacturer, material, maximumIntake, mechanismOfAction, medicineSystem, mobileUrl, model, mpn, name, negativeNotes, nonProprietaryName, nsn, offers, overdosage, pattern, positiveNotes, potentialAction, pregnancyCategory, pregnancyWarning, prescribingInfo, prescriptionStatus, productID, productionDate, proprietaryName, purchaseDate, recognizingAuthority, relatedDrug, releaseDate, relevantSpecialty, review, reviews, rxcui, sameAs, size, sku, slogan, study, subjectOf, url, warning, weight, width ] ]
 
+#is_/same_as :: [[../../WikiData/WD~Drug,8386|WD~Drug,8386]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Drug** is any chemical substance **other than a nutrient or an essential dietary ingredient**, 
