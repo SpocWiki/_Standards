@@ -75,6 +75,7 @@ Libris_URI: 0xbfk45j01x4337
 
 # [[Franklin,Rosalind]] 
 
+#is_/similar_to :: [[Hodgkin,Dorothy]]  
 #is_/same_as :: [[WD~Rosalind_Franklin,7474]] 
 
 ## #has_/text_of_/abstract 

@@ -7,9 +7,9 @@ tags:
 type: Zodiac
 ---
 
+# [[Zodiac~Piscis_Australis]] 
+
 [SpocWebEntityId::28149]
-
-
 
 [name-la::Piscis Australis]
 [name-genitive::Piscis Australis]

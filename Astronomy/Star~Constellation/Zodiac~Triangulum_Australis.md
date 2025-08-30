@@ -7,9 +7,9 @@ tags:
 type: Zodiac
 ---
 
+# [[Zodiac~Triangulum_Australis]] 
+
 [SpocWebEntityId::28163]
-
-
 
 [name-la::Triangulum Australis]
 [name-genitive::Trianguli Australis]

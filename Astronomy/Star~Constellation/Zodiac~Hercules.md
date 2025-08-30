@@ -1,20 +1,23 @@
 ---
+aliases:
+  - Herkules
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-- astro/Zodiac
+  - astro/Zodiac
 type: Zodiac
 ---
 
+# [[Zodiac~Hercules]] 
+
 [SpocWebEntityId::28122]
-
-
 
 [name-la::Hercules]
 [name-genitive::Herculis]
 [name-de::Herkules]
 
+#is_/same_as :: 
 
 ## Confidential Links & Embeds: 
 

@@ -1,20 +1,23 @@
 ---
+aliases:
+  - Kranich
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-- astro/Zodiac
+  - astro/Zodiac
 type: Zodiac
 ---
 
+# [[Zodiac~Grus]] 
+
 [SpocWebEntityId::28121]
-
-
 
 [name-la::Grus]
 [name-genitive::Gruis]
 [name-de::Kranich]
 
+#is_/same_as :: 
 
 ## Confidential Links & Embeds: 
 

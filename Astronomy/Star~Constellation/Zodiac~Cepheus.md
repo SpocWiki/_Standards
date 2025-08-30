@@ -1,11 +1,12 @@
 ---
+aliases:
+  - Kepheus
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-aliases: 
 has_id_wikidata: Q10468
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"

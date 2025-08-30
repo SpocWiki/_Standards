@@ -118,7 +118,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Canemangia.ogv"
 
 # [[Dog]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Dog,144|WD~Dog,144]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dog,144|WD~Dog,144]]  
 
 ## #has_/text_of_/abstract 
 

@@ -7,14 +7,16 @@ tags:
 type: Zodiac
 ---
 
+# [[Zodiac~Eridanus]] 
+
+
 [SpocWebEntityId::28118]
-
-
 
 [name-la::Eridanus]
 [name-genitive::Eridani]
 [name-de::Eridanus]
 
+#is_/same_as :: [[../../WikiData/WD~Eridanus,10433|WD~Eridanus,10433]] 
 
 ## Confidential Links & Embeds: 
 

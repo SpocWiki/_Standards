@@ -3,18 +3,22 @@ confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-- astro/Zodiac
+  - astro/Zodiac
 type: Zodiac
+aliases:
+  - Leier
+  - Lyra
+has_id_wikidata: Q10484
 ---
+# [[Zodiac~Lyra]] 
 
 [SpocWebEntityId::28134]
-
-
 
 [name-la::Lyra]
 [name-genitive::Lyrae]
 [name-de::Leier]
 
+#is_/same_as :: [[../../WikiData/WD~Lyra,10484|WD~Lyra,10484]] 
 
 ## Confidential Links & Embeds: 
 

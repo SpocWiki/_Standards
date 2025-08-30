@@ -3,17 +3,22 @@ confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-- astro/Zodiac
+  - astro/Zodiac
 type: Zodiac
+aliases:
+  - Mikroskop
+has_id_wikidata: Q10492
 ---
 
-[SpocWebEntityId::28136]
+# [[Zodiac~Microscopium]] 
 
+[SpocWebEntityId::28136]
 
 [name-la::Microscopium]
 [name-genitive::Microscopii]
 [name-de::Mikroskop]
 
+#is_/same_as :: [[_Standards/WikiData/WD~Microscopium,10492]] 
 
 ## Confidential Links & Embeds: 
 

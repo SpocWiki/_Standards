@@ -3,18 +3,22 @@ confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-- astro/Zodiac
+  - astro/Zodiac
 type: Zodiac
+aliases:
+  - Zirkel
+has_id_wikidata:
 ---
 
+# [[Zodiac~Circinus]] 
+
 [SpocWebEntityId::28105]
-
-
 
 [name-la::Circinus]
 [name-genitive::Circini]
 [name-de::Zirkel]
 
+#is_/same_as :: 
 
 ## Confidential Links & Embeds: 
 

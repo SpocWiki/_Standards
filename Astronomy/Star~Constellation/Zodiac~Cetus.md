@@ -7,6 +7,7 @@ tags:
 type: Zodiac
 aliases:
   - Cetus
+  - Walfisch
 has_id_wikidata: Q8839
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"

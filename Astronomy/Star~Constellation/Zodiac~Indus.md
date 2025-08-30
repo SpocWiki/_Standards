@@ -7,14 +7,15 @@ tags:
 type: Zodiac
 ---
 
+# [[Zodiac~Indus]] 
+
 [SpocWebEntityId::28126]
-
-
 
 [name-la::Indus]
 [name-genitive::Indi]
 [name-de::Inder]
 
+#is_/same_as :: 
 
 ## Confidential Links & Embeds: 
 

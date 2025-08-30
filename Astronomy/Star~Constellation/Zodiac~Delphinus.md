@@ -1,10 +1,41 @@
 ---
+aliases:
+  - Delphin
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-- astro/Zodiac
+  - astro/Zodiac
 type: Zodiac
+has_id_wikidata: Q9302
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+  - "[[_Standards/WikiData/WD~Delphinus,105122286]]"
+part_of: "[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Q10729013,10729013]]"
+  - "[[_Standards/WikiData/WD~Template_Stars_of_Delphinus,14336008]]"
+named_after: "[[_Standards/WikiData/WD~dolphin,7369]]"
+shares_border_with:
+  - "[[_Standards/WikiData/WD~Pegasus,8864]]"
+  - "[[_Standards/WikiData/WD~Equuleus,10438]]"
+  - "[[_Standards/WikiData/WD~Sagitta,10513]]"
+  - "[[_Standards/WikiData/WD~Vulpecula,10519]]"
+  - "[[_Standards/WikiData/WD~Aquarius,10576]]"
+  - "[[_Standards/WikiData/WD~Aquila,10586]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+area: 189
+official_name: Delphinus
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Delphinus%20constellation%20map.svg
+short_name: Del
+Commons_gallery: Delphinus (constellation)
+Commons_category: Delphinus (constellation)
+astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Delphinus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/DelphinusCC.jpg
 ---
 
 # [[Zodiac~Delphinus]] 

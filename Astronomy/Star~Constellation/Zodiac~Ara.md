@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Altar
 confidential: public
 isDeleted: false
 isReadOnly: false

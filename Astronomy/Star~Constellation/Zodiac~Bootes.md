@@ -7,6 +7,7 @@ tags:
 type: Zodiac
 aliases:
   - Boötes
+  - Bärenhüter
 has_id_wikidata: Q8667
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"

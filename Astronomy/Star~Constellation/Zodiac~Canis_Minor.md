@@ -7,6 +7,7 @@ tags:
 type: Zodiac
 aliases:
   - Kleiner Hund
+  - Canis Minor
 has_id_wikidata: Q9305
 described_by_source:
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Wassermann
 confidential: public
 isDeleted: false
 isReadOnly: false

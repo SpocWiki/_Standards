@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("Astronomy/Star/Star~Class")
+        - file.inFolder("_Standards/Astronomy/Star/Star~Class")
         - file.ext == "md"
         - '!file.name.contains("Template")'
         - '!file.name.contains("DbFolder")'

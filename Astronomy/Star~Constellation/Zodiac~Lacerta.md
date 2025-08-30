@@ -1,20 +1,24 @@
 ---
+aliases:
+  - Eidechse
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-- astro/Zodiac
+  - astro/Zodiac
 type: Zodiac
+has_id_wikidata: Q10430
 ---
 
+# [[Zodiac~Lacerta]] 
+
 [SpocWebEntityId::28127]
-
-
 
 [name-la::Lacerta]
 [name-genitive::Lacertae]
 [name-de::Eidechse]
 
+#is_/same_as :: [[../../WikiData/WD~Lacerta,10430|WD~Lacerta,10430]] 
 
 ## Confidential Links & Embeds: 
 

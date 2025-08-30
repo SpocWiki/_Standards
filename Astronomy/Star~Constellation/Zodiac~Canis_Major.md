@@ -6,8 +6,38 @@ tags:
   - astro/Zodiac
 type: Zodiac
 aliases:
-  - Gro�er Hund
+  - Großer Hund
+  - Canis Major
 has_id_wikidata: Q10538
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+named_after:
+  - "[[_Standards/WikiData/WD~Laelaps,907245]]"
+  - "[[_Standards/WikiData/WD~dog,144]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Canis_Major,6460472]]"
+  - "[[_Standards/WikiData/WD~Q10729139,10729139]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+shares_border_with:
+  - "[[_Standards/WikiData/WD~Puppis,9251]]"
+  - "[[_Standards/WikiData/WD~Columba,10425]]"
+  - "[[_Standards/WikiData/WD~Monoceros,10428]]"
+  - "[[_Standards/WikiData/WD~Lepus,10446]]"
+area: 380
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Canis%20Major%20constellation%20map.svg
+astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Canis%20Major%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/CanisMajorCC.jpg
+Hederich_encyclopedia_article: Canis
+Commons_gallery: Canis Major
+Commons_category: Canis Major
+official_name: Canis Major
+short_name: CMa
 ---
 
 # [[Zodiac~Canis_Major]] 
