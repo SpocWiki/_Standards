@@ -159,7 +159,7 @@ work_location: '[[_Standards/WikiData/WD~Frombork,497115]]'
 
 ## #has_/text_of_/abstract 
 
-> **Nicolaus Copernicus** (19 February 1473 – 24 May 1543) was a Renaissance [[../../../../../../../../../IT/Programming/Prog~Process/Polymath|polymath]] 
+> **Nicolaus Copernicus** (19 February 1473 – 24 May 1543) was a Renaissance [[../../../../../../../../Science/Polymath|polymath]] 
 > who formulated a model of the universe that placed the Sun rather than Earth at its center. 
 > Copernicus likely developed his model independently of Aristarchus of Samos, 
 > an ancient Greek astronomer who had formulated such a model some eighteen centuries earlier.

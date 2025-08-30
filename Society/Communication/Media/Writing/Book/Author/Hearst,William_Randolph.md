@@ -130,7 +130,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > ordering his journalists to publish favorable coverage of [[../../../_Standards/bio/Society/History/Modern_History/Nazi_Germany|Nazi Germany]], 
 > and allowing leading Nazis to publish articles in his newspapers. 
 > 
-> He was a leading supporter of [[../../../../../../../Knowledge/History.internal/History~USA/US~President/Roosevelt,Franklin_Delano|Franklin D. Roosevelt]] in 1932–1934, 
+> He was a leading supporter of [[../../../../../../../_public/geo/Continent/America~North/US~President/Roosevelt,Franklin_Delano|Franklin D. Roosevelt]] in 1932–1934, 
 > but then broke with FDR and became his most prominent enemy on the right. 
 > 
 > Hearst's publication reached a peak circulation of 20 million readers a day in the mid-1930s. 

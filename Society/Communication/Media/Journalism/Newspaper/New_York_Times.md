@@ -165,7 +165,7 @@ X_Twitter_username:
 >
 > In 1971, The New York Times published the Pentagon Papers, an internal Department of Defense document 
 > detailing the United States's historical involvement in the [[../../_Standards/bio/Society/History/Modern_History/Vietnam_War|Vietnam War]], 
-> despite pushback from then-president [[../../../../../../../Knowledge/History.internal/History~USA/US~President/Nixon,Richard|Richard Nixon]]. 
+> despite pushback from then-president [[../../../../../../_public/geo/Continent/America~North/US~President/Nixon,Richard|Richard Nixon]]. 
 > In the landmark decision New York Times Co. v. United States (1971), 
 > the Supreme Court ruled that the First Amendment guaranteed the right to publish the Pentagon Papers. 
 > 

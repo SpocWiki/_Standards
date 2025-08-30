@@ -26,6 +26,8 @@ subclass_of: '[[_Standards/WikiData/WD~abstract_entity,7048977]]'
 writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
 ---
 
+# [[Mind]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Mind** is that which thinks, feels, perceives, imagines, remembers, and wills. It covers the totality of mental phenomena, including both conscious processes, through which an individual is aware of external and internal circumstances, and unconscious processes, which can influence an individual without intention or awareness. The mind plays a central role in most aspects of human life but its exact nature is disputed. Some characterizations focus on internal aspects, saying that the mind transforms information and is not directly accessible to outside observers. Others stress its relation to outward conduct, understanding mental phenomena as dispositions to engage in observable behavior.

@@ -21,7 +21,7 @@ has_participants:
 > 
 > Announced in August and September 2020 
 > and signed in Washington,D.C. on September 15, 2020, 
-> the accords were mediated by the United States under President [[../../../../../Knowledge/History.internal/History~USA/US~President/Trump,Donald|Donald Trump]]. 
+> the accords were mediated by the United States under President [[../../../../../_public/geo/Continent/America~North/US~President/Trump,Donald|Donald Trump]]. 
 > 
 > The UAE and [[Bahrain]] became the first Arab countries to formally recognize Israel since [[Jordan]] in 1994. 
 > In the months that followed, Sudan and [[../../Africa/Africa~North/Morocco|Morocco]] also agreed to normalize relations with Israel, 

@@ -33,7 +33,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_thought,7112801]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thought](/_Standards/bio/Psychology/Thought.md) 
+### #is_/same_as :: [Thought](Thought.md) 
 
 ### #is_/same_as :: [Thought.public](/_public/bio/Psychology/Thought.public.md) 
 
