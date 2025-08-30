@@ -24,6 +24,7 @@ publishDate:
 expiryDate:
 aliases:
   - Russia
+  - Russian
   - Russian Federation
   - Federación de Rusia
   - Fédération de Russie
