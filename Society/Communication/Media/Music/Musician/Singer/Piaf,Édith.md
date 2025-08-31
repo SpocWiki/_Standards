@@ -1,6 +1,8 @@
 ---
 aliases:
   - Édith_Piaf
+  - Édith Piaf
+  - Edith Piaf
   - Édith Giovanna Gassion
 has_id_wikidata: Q1631
 award_received:
@@ -107,7 +109,7 @@ IPI_name_number:
   - "00024250523"
 ---
 
-# [[Édith_Piaf]] 
+# [[Piaf,Édith]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Édith_Piaf,1631|WD~Édith_Piaf,1631]] 
 
