@@ -26,8 +26,8 @@ described_at_URL:
 
 # [[Statics]] 
 
-#is_/opposite_of :: [[Dynamics]] 
-#is_/same_as :: [[../../WikiData/WD~Statics,169019|WD~Statics,169019]] 
+#is_/opposite_of :: [[Classical_Mechanics/Dynamics]] 
+#is_/same_as :: [[../../../WikiData/WD~Statics,169019|WD~Statics,169019]] 
 
 
 ## #has_/text_of_/abstract 

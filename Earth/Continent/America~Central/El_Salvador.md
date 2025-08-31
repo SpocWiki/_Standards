@@ -331,8 +331,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[El_Salvador/ReadMe]] 
 
-
-
 [	ISO4217-currency_alphabetic	 :: SVC,USD ]
 [	ISO4217-currency_name	 :: El Salvador Colon,US Dollar ]
 [	ISO4217-currency_numeric	 :: 222,840 ]
@@ -396,13 +394,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 222 ]
 
-
-
 [ISO2::SV] 
 [ISO3::SLV]  
 
-## #has_/map  
+#is_/same_as :: [[../../../WikiData/WD~El_Salvador,792|WD~El_Salvador,792]] 
 
+## #has_/map  
 
 
 ```leaflet

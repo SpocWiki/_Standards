@@ -24,7 +24,7 @@ Krugosvet_article: nauka_i_tehnika/fizika/DINAMIKA.html
 # [[Dynamics]] 
 
 #is_/opposite_of :: [[Statics]] 
-#is_/same_as :: [[../../WikiData/WD~Dynamics,128030|WD~Dynamics,128030]] 
+#is_/same_as :: [[../../../WikiData/WD~Dynamics,128030|WD~Dynamics,128030]] 
 
 ## #has_/text_of_/abstract 
 
