@@ -586,7 +586,7 @@ Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]
 | [[Uruguay/departments~Uruguay/Maldonado\|Maldonado]]           | Maldonado         |  190.500 |     4.793 | 0.807 | Punta del Este, Tourism          |
 | [[Uruguay/departments~Uruguay/Montevideo\|Montevideo]]         | Montevideo        | 1319.108 |      .530 | 0.832 | Capital City, Cultural Hub       |
 | [[Uruguay/departments~Uruguay/Paysandú\|Paysandú]]             | Paysandú          |  113.292 |    13.922 | 0.778 | Paper Industry, Tourism          |
-| [[Uruguay/departments~Uruguay/Río_Negro\|Río Negro]]           | Fray Bentos       |   54.765 |     9.282 | 0.747 | UNESCO World Heritage Site       |
+| [[Uruguay/departments~Uruguay/Río_Negro,Uruguay\|Río Negro]]           | Fray Bentos       |   54.765 |     9.282 | 0.747 | UNESCO World Heritage Site       |
 | [[Uruguay/departments~Uruguay/Rivera\|Rivera]]                 | Rivera            |  103.493 |     9.370 | 0.755 | International Border City        |
 | [[Uruguay/departments~Uruguay/Rocha\|Rocha]]                   | Rocha             |   70.374 |    10.551 | 0.749 | Coastal Tourism, Lagoons         |
 | [[Uruguay/departments~Uruguay/Salto\|Salto]]                   | Salto             |  124.878 |    14.163 | 0.781 | Thermal Baths, Agric. Production |
