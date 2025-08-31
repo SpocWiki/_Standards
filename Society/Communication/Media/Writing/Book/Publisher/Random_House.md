@@ -1,6 +1,6 @@
 
 
-#is_a_ :: [[../../../../../Agent/Community/Organization/Corporation|Corporation]] 
+#is_a_ :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 
 
 
 > **Random House** is an American book publisher and 

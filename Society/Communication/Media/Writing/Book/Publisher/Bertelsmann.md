@@ -1,6 +1,6 @@
 
 
-#is_a_ :: [[../../../../../Agent/Community/Organization/Corporation|Corporation]] 
+#is_a_ :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 
 
 
 > The **Bertelsmann** SE & Co. KGaA, commonly known as Bertelsmann 

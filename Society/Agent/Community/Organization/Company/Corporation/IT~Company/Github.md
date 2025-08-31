@@ -1,0 +1,56 @@
+
+# [[Github]] 
+
+#has_/creator :: [ [[Tom_Preston-Werner]], [[Chris_Wanstrath]] ] 
+
+
+
+> **Github**, Inc. () is a platform and cloud-based service for software development and version control using [[../../../../../../../../IT/Algorithms/Code-Versioning/Git]], 
+> allowing developers to store and manage their code. 
+> 
+> It provides the distributed version control of Git plus 
+> - access control, 
+> - bug tracking, 
+> - software feature requests, 
+> - task management, 
+> - continuous integration, 
+> - and wikis for every project. 
+>  
+> Headquartered in California, it has been a subsidiary of Microsoft since 2018. 
+> It is commonly used to host open source software development projects. 
+> 
+> As of January 2023, GitHub reported having over 100 million developers  and more than 372 million repositories, including at least 28 million public repositories. 
+> 
+> It is the world's largest source code host as of June 2023.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
+
+## All Contents 
+
+
+
+
+```folderv
+```
+
+```ccard
+type: folder_brief_live
+```
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Github](Github.md) 
+
+### #is_/same_as :: [Github.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Github.public.md) 
+
+### #is_/same_as :: [Github.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Github.internal.md) 
+
+### #is_/same_as :: [Github.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Github.protect.md) 
+
+### #is_/same_as :: [Github.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Github.private.md) 
+
+### #is_/same_as :: [Github.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Github.personal.md) 
+
+### #is_/same_as :: [Github.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Github.secret.md)
+

@@ -47,7 +47,7 @@ inception: 1769-01-01T00:00:00Z
 
 # [[Mechanical_Turk]] 
 
-#is_/similar_to :: [[../../../../../../../Society/Agent/Community/Organization/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk]] 
+#is_/similar_to :: [[../../../../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk]] 
 
 ## #has_/text_of_/abstract  
 

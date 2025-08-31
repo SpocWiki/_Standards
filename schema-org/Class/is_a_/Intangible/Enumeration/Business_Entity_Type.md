@@ -44,7 +44,7 @@ Commonly used values:
 Businesses are also distinguished by Ownership:: 
 - [[../../../../../../Knowledge/Business/Business-Entity/Sole_Proprietor|Sole_Proprietor]] 
 - [[../../../../../../Knowledge/Business/Business-Entity/Partnership]] 
-- [[../../../../../Society/Agent/Community/Organization/Corporation]]  
+- [[../../../../../Society/Agent/Community/Organization/Company/Corporation]]  
 - [[../../../../../../Knowledge/Business/Business-Entity/LLC(Limited_Liability_Company)]] 
  
 

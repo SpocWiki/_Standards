@@ -38,28 +38,34 @@ Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/FIRMA.html
 
 # [[Company]] 
 
-#is_/similar_to :: [[Corporation]] 
+#is_/similar_to :: [[Company/Corporation]] 
 #is_/same_as :: [[../../../../WikiData/WD~Company,783794|WD~Company,783794]] 
 
 ## #has_/text_of_/abstract 
 
-> A **Company**, abbreviated as co., is a legal entity representing an association of legal people, whether natural, juridical or a mixture of both, with a specific objective. Company members share a common purpose and unite to achieve specific, declared goals.
+> A **Company**, abbreviated as co., is a legal entity representing an association of legal people, 
+> whether natural, juridical or a mixture of both, with a specific objective. 
+> Company members share a common purpose and unite to achieve specific, declared goals.
 >
-> Over time, companies have evolved to have the following features: "separate legal personality, limited liability, transferable shares, investor ownership, and a managerial hierarchy". The company, as an entity, was created by the state which granted the privilege of incorporation.
+> Over time, companies have evolved to have the following features: 
+> "separate legal personality, limited liability, transferable shares, investor ownership, 
+> and a managerial hierarchy". 
+> The company, as an entity, was created by the state which granted the privilege of incorporation.
 >
 > Companies take various forms, such as:
+> - voluntary associations, which may include nonprofit organizations
+> - business entities, whose aim is to generate sales, revenue, and profit
+> - financial entities and banks
+> - programs or educational institutions
 >
+> A company can be created as a legal person so that the company itself has limited liability 
+> as members perform or fail to discharge their duties 
+> according to the publicly declared incorporation published policy. 
 > 
->
-> voluntary associations, which may include nonprofit organizations
->
-> business entities, whose aim is to generate sales, revenue, and profit
->
-> financial entities and banks
->
-> programs or educational institutions
->
-> A company can be created as a legal person so that the company itself has limited liability as members perform or fail to discharge their duties according to the publicly declared incorporation published policy. When a company closes, it may need to be liquidated to avoid further legal obligations. Companies may associate and collectively register themselves as new companies; the resulting entities are often known as corporate groups, collections of parent and subsidiary corporations.
+> When a company closes, it may need to be liquidated to avoid further legal obligations. 
+> Companies may associate and collectively register themselves as new companies; 
+> the resulting entities are often known as corporate groups, 
+> collections of parent and subsidiary corporations.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Company) 
 
