@@ -39,11 +39,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/CompassRose%20%28mul%2
 Iconclass_notation: 25A142
 ---
 
+# [[Direction~East]] 
+
 #has_/name_/ar_/Latn :: Ash_Sharqiyah 
 #has_/name_/ar-/Arab :: الشرقية 
 
-**Al Sharqiyah**, **Ash Sharqiyah** (Arabic: الشرقية, from Arabic شرقية) or its variants, meaning 'eastern' or loosely 'oriental', may refer to:
+#is_/same_as :: [[../../WikiData/WD~East,684|WD~East,684]] 
 
+**Al Sharqiyah**, **Ash Sharqiyah** (Arabic: الشرقية, from Arabic شرقية) or its variants, 
+meaning 'eastern' or loosely 'oriental'.
+
+## #has_/text_of_/abstract 
+
+> **East** is one of the four cardinal directions or points of the compass. 
+> It is the opposite direction from west and is the direction from which the Sun rises on the Earth.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/East)
 
 ## Confidential Links & Embeds: 
 

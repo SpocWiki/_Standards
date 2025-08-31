@@ -1,6 +1,8 @@
 ---
 aliases:
   - Economics
+  - Wirtschaftswissenschaft
+  - Ökonomie
 Colon_Classification: X
 Commons_category: Economics
 confidential: private
@@ -25,7 +27,7 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
+expiryDate:
 hashtag: Economics
 has_characteristic:
   - "[[_Standards/WikiData/WD~faculty_of_economics,5350543]]"
@@ -72,7 +74,7 @@ is_the_study_of:
 keywords: Economics
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/EKONOMIKA.html
 lang: en
-layout: 
+layout:
 Library_of_Congress_Classification: HB1-HB130
 license: (c)copyrighted
 linkTitle: Economics
@@ -102,7 +104,7 @@ practiced_by:
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Wirtschaftswissenschaft.ogg
 Provenio_UUID: 29057c11-a389-493e-af6b-6ee9d20ee02c
 publish: false
-publishDate: 
+publishDate:
 Regensburg_Classification: Q
 significant_person:
   - "[[_Standards/WikiData/WD~Joseph_Schumpeter,78477]]"
@@ -161,9 +163,9 @@ dv_is_same_as:
 
 # [[Economics]] 
 
-#is_/same_as :: [[/_public/WikiData/WD~Economics,8134]] 
+#is_/same_as :: [[../WikiData/WD~Economics,8134|WD~Economics,8134]]  
 
-For Information about actual 
+For Information about actual Economies see [[Economics/Economy]]
 
 ## #has_/text_of_/abstract 
 
