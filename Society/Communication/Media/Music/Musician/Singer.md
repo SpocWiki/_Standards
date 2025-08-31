@@ -107,8 +107,6 @@ P8189: "987007546150905171"
 
 #is_/same_as :: [[_Standards/WikiData/WD~singer,177220]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~singer,177220]]  
-
 ## #has_/text_of_/abstract 
 
 > Singing is the art of creating music with the voice. 
