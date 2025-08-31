@@ -1,6 +1,7 @@
 ---
 aliases:
   - Edgar Allan Poe
+  - Edgar_Allan_Poe
   - Edgar Poe
   - Poe
 archives_at:
