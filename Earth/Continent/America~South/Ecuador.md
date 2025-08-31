@@ -1,28 +1,78 @@
 ---
-member_of:
-  - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
-  - "[[_Standards/WikiData/WD~Andean_Community,471690]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Ecuador,165542]]"
-replaces: "[[_Standards/WikiData/WD~Gran_Colombia,199821]]"
+aliases:
+  - Ecuador
+  - Équateur
+  - إكوادور
+  - 厄瓜多尔
+  - Эквадор
+  - the Republic of Ecuador
+  - la República del Ecuador
+  - Ecuador (el)
+BTI_Governance_Index:
+  - 3.66
+  - 3.73
+  - 4.37
+  - 4.42
+  - 4.48
+  - 4.57
+  - 4.88
+  - 4.99
+  - 5.22
+BTI_Status_Index:
+  - 5.39
+  - 5.55
+  - 5.56
+  - 5.62
+  - 5.65
+  - 5.72
+  - 5.75
+  - 6.23
+  - 6.48
+Baidu_Tieba_name: 厄瓜多尔
+Commons_category: Ecuador
+Commons_gallery: Ecuador
+Colon_Classification: SG--79163
+CIVICUS_Monitor_country_entry: ecuador
+Democracy_Index: 5.71
+Dewey_Decimal_Classification: 2--866
+Gini_coefficient: 47.3
+GS1_country_code: 786
+Human_Development_Index: 0.74
+Happy_Planet_Index_score: 58.8
+ISO_3166_1_numeric_code: 218
+Inequality_adjusted_Human_Development_Index: 0.604
+IAB_code: 1285
+INSEE_countries_and_foreign_territories_code: 99420
+M49_code: 218
+ISO_3166_1_alpha_3_code: ECU
+IOC_country_code: ECU
+ISO_3166_1_alpha_2_code: EC
+FIPS_10_4_countries_and_regions_: EC
+GitHub_topic: ecuador
+ISNI: 122909811
+IPA_transcription: ɛkʋɑ'doːɾ
+ITU_letter_code: EQA
+Krugosvet_article: strany_mira/EKVADOR.html
+Libris_URI: wt798q8f27vk3cx
+Languages:
+  - es-EC
+MeSH_tree_code: Z01.107.757.362
+OmegaWiki_Defined_Meaning: 8349
+PM20_geo_code: E77
+SpocWebEntityId: 26884
+Unicode_character: 🇪🇨
+UMLS_CUI: C0016968
+U_S_National_Archives_Identifier: 10035721
+VAT_rate: 12
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Ecuador,7112249]]"
+WIPO_ST_3: EC
+anthem: "[[_Standards/WikiData/WD~Salve,_Oh_Patria,623039]]"
+age_of_majority: 18
+area: 257204.27
+basic_form_of_government:
+  - "[[_Standards/WikiData/WD~presidential_system,49892]]"
+  - "[[_Standards/WikiData/WD~republic,7270]]"
+birth_rate: 16.583
 contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Napo_Province,211900]]"
   - "[[_Standards/WikiData/WD~Pastaza_Province,214814]]"
@@ -49,6 +99,21 @@ contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Santo_Domingo_de_los_Tsáchilas_Province,1123208]]"
   - "[[_Standards/WikiData/WD~Santa_Elena_Province,1124125]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Ecuador,244988]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Ecuador,1797646]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Ecuador,2668789]]"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Ecuador.svg
+coordinates_of_westernmost_point: Point(-91.55 -0.37)
+coordinate_location: Point(-78.0 -1.0)
+country: "[[_Standards/WikiData/WD~Ecuador,736]]"
+capital: "[[_Standards/WikiData/WD~Quito,2900]]"
+continent: "[[_Standards/WikiData/WD~South_America,18]]"
+coordinates_of_easternmost_point: Point(-75.1887341 -0.9709694)
+coordinates_of_southernmost_point: Point(-79.0101853 -5.0120903)
+coordinates_of_northernmost_point: Point(-78.87 1.45)
+country_calling_code: 593
+confidential: public
+cssclasses:
+  - Country
 described_by_source:
   - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -60,194 +125,8 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
   - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Ecuador,339807]]"
-emergency_phone_number:
-  - "[[_Standards/WikiData/WD~911,533806]]"
-  - "[[_Standards/WikiData/WD~101,25648794]]"
-  - "[[_Standards/WikiData/WD~102,25648798]]"
-  - "[[_Standards/WikiData/WD~131,25648848]]"
-language_used:
-  - "[[_Standards/WikiData/WD~Shuar,617291]]"
-  - "[[_Standards/WikiData/WD~Waorani,758570]]"
-  - "[[_Standards/WikiData/WD~Tsachila,2567055]]"
-  - "[[_Standards/WikiData/WD~Cha'palaa,2591329]]"
-  - "[[_Standards/WikiData/WD~Awa_Pit,2603103]]"
-  - "[[_Standards/WikiData/WD~Cofán,2669254]]"
-  - "[[_Standards/WikiData/WD~Achuar,2823170]]"
-  - "[[_Standards/WikiData/WD~Ecuadorian_Sign_Language,3436769]]"
-  - "[[_Standards/WikiData/WD~Secoya,3477218]]"
-  - "[[_Standards/WikiData/WD~Siona,3485116]]"
-  - "[[_Standards/WikiData/WD~Teteté,7706087]]"
-  - "[[_Standards/WikiData/WD~Cañar_Highland_Quichua,12953846]]"
-  - "[[_Standards/WikiData/WD~Salasaca_Highland_Quichua,12953847]]"
-  - "[[_Standards/WikiData/WD~Chimborazo_Highland_Quichua,12953845]]"
-  - "[[_Standards/WikiData/WD~Northern_Pastaza_Quichua,12953848]]"
-  - "[[_Standards/WikiData/WD~Calderón_Highland_Quichua,25559690]]"
-  - "[[_Standards/WikiData/WD~Loja_Highland_Quichua,25559700]]"
-  - "[[_Standards/WikiData/WD~Imbabura_Highland_Quichua,25559701]]"
-  - "[[_Standards/WikiData/WD~Napo_Lowland_Quechua,25559706]]"
-  - "[[_Standards/WikiData/WD~Media_Lengua,36066]]"
-  - "[[_Standards/WikiData/WD~Tena_Lowland_Quichua,62387937]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~Záparo,10206]]"
-official_language:
-  - "[[_Standards/WikiData/WD~Shuar,617291]]"
-  - "[[_Standards/WikiData/WD~Northern_Quichua,1740805]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-anthem: "[[_Standards/WikiData/WD~Salve,_Oh_Patria,623039]]"
-part_of:
-  - "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
-  - "[[_Standards/WikiData/WD~Americas,828]]"
-  - "[[_Standards/WikiData/WD~Latin_America,12585]]"
-  - "[[_Standards/WikiData/WD~South_America,18]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Ecuador,732562]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Ecuador,732562]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Ecuador,922932]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Ecuador,926416]]"
-legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1319595]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Ecuador,1471278]]"
-central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Ecuador,1797646]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Ecuador,2668789]]"
-instance_of:
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~National_Court_of_Justice,5789488]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Ecuador,7112249]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ecuador,10500107]]"
 driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-electrical_plug_type:
-  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27096263,27096263]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-age_of_majority: 18
-Human_Development_Index: 0.74
-suicide_rate: 7.7
-life_expectancy: 78
-total_fertility_rate: 2.21
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.ec,41113]]"
-BTI_Governance_Index:
-  - 3.66
-  - 3.73
-  - 4.37
-  - 4.42
-  - 4.48
-  - 4.57
-  - 4.88
-  - 4.99
-  - 5.22
-Gini_coefficient: 47.3
 death_rate: 4.85
-ISO_3166_1_numeric_code: 218
-M49_code: 218
-BTI_Status_Index:
-  - 5.39
-  - 5.55
-  - 5.56
-  - 5.62
-  - 5.65
-  - 5.72
-  - 5.75
-  - 6.23
-  - 6.48
-basic_form_of_government:
-  - "[[_Standards/WikiData/WD~presidential_system,49892]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
-Democracy_Index: 5.71
-Happy_Planet_Index_score: 58.8
-Inequality_adjusted_Human_Development_Index: 0.604
-IAB_code: 1285
-birth_rate: 16.583
-mobile_country_code: 740
-GS1_country_code: 786
-maritime_identification_digits: 735
-flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ecuador.svg
-Unicode_character: 🇪🇨
-OmegaWiki_Defined_Meaning: 8349
-number_of_out_of_school_children: 225277
-short_name:
-  - ECU
-  - Ecuador
-  - Ecuador
-  - Équateur
-  - Ecuador
-  - Ecuador
-  - اکوادور
-  - Ecuador
-  - Ecuador
-  - Ecuador
-  - الإكوادور
-  - ইকুয়েডর
-  - Equador
-  - Ekuador
-  - ECU
-  - ईक्वाडोर
-  - Ekuador
-  - エクアドル
-  - 에콰도르
-  - Ekwador
-  - Equador
-  - Ecuador
-  - எக்குவடோர்
-  - Ekvador
-  - Еквадор
-  - Ecuador
-  - 厄瓜多尔
-  - 🇪🇨
-  - EC
-  - Эквадор
-  - אקוודור
-INSEE_countries_and_foreign_territories_code: 99420
-ISO_3166_1_alpha_3_code: ECU
-IOC_country_code: ECU
-official_name:
-  - Ecuador
-  - اکوادورِ جمهوری
-  - جمهورية الإكوادور
-  - ইকুয়েডর প্রজাতন্ত্র
-  - República de l'Equador
-  - Republik Ecuador
-  - Republic of Ecuador
-  - República del Ecuador
-  - جمهوری اکوادور
-  - la République d’Équateur
-  - République de l'Équateur
-  - ईक्वाडोर गणराज्य
-  - Republik Ekuador
-  - Repubblica dell'Ecuador
-  - エクアドル共和国
-  - 에콰도르 공화국
-  - Res Publica Aequatoriae
-  - Republiek Ecuador
-  - Republika Ekwadoru
-  - República do Equador
-  - Ikwayur Runaq Imayka
-  - Республика Эквадор
-  - Republika Ekvador
-  - எக்வடோர் குடியரசு
-  - Республіка Еквадор
-  - جمہوریہ ایکواڈور
-  - Cộng hòa Ecuador
-  - 厄瓜多共和國
-Commons_category: Ecuador
-hashtag: Ecuador
-Commons_gallery: Ecuador
-licence_plate_code: EC
-ISO_3166_1_alpha_2_code: EC
-WIPO_ST_3: EC
-FIPS_10_4_countries_and_regions_: EC
-executive_body: "[[_Standards/WikiData/WD~Government_of_Ecuador,55645704]]"
-located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Pacific_Galapagos,63286095]]"
-  - "[[_Standards/WikiData/WD~America_Guayaquil,63286093]]"
-  - "[[_Standards/WikiData/WD~UTC_06_00,5385]]"
-  - "[[_Standards/WikiData/WD~UTC_05_00,5390]]"
-open_data_portal:
-  - "[[_Standards/WikiData/WD~Open_Data_Colombia,97073891]]"
-  - "[[_Standards/WikiData/WD~Open_Data_platform_of_the_Republic_of_Ecuador.,97095863]]"
-coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Ecuador.svg
-head_of_state: "[[_Standards/WikiData/WD~Daniel_Noboa,112075625]]"
-head_of_government: "[[_Standards/WikiData/WD~Daniel_Noboa,112075625]]"
-UMLS_CUI: C0016968
 demonym:
   - إكواطوري
   - إكواطورية
@@ -293,17 +172,6 @@ demonym:
   - ecuatoriana
   - إكوادوريون
   - Ecuadorian
-ISNI: 122909811
-motto_text:
-  - « Allah,Vətən və Azadlıq "
-  - Duw, Mamwlad a Rhyddid
-coordinates_of_westernmost_point: Point(-91.55 -0.37)
-nominal_GDP:
-  - 106165866000
-  - 115049476000
-inception: 1840-02-16
-has_time_started: 1840-02-16
-coordinate_location: Point(-78.0 -1.0)
 diplomatic_relation:
   - "[[_Standards/WikiData/WD~Serbia,403]]"
   - "[[_Standards/WikiData/WD~Australia,408]]"
@@ -319,110 +187,242 @@ diplomatic_relation:
   - "[[_Standards/WikiData/WD~Russia,159]]"
   - "[[_Standards/WikiData/WD~Germany,183]]"
   - "[[_Standards/WikiData/WD~Georgia,230]]"
-shares_border_with:
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-country: "[[_Standards/WikiData/WD~Ecuador,736]]"
-capital: "[[_Standards/WikiData/WD~Quito,2900]]"
+draft: false
+emergency_phone_number:
+  - "[[_Standards/WikiData/WD~911,533806]]"
+  - "[[_Standards/WikiData/WD~101,25648794]]"
+  - "[[_Standards/WikiData/WD~102,25648798]]"
+  - "[[_Standards/WikiData/WD~131,25648848]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Ecuador,1471278]]"
+electrical_plug_type:
+  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Ecuador,55645704]]"
+external_data_available_at_URL: http://www.datosabiertos.gob.ec/
+expiryDate:
+flag: "[[_Standards/WikiData/WD~flag_of_Ecuador,165542]]"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ecuador.svg
+female_population:
+  - 8670974
+  - 8798448
+  - 8910903
+  - 9016398
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Ecuador,922932]]"
+geoshape: http://commons.wikimedia.org/data/main/Data:Ecuador.map
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Ecuador,926416]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~National_Court_of_Justice,5789488]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
+hashtag: Ecuador
+head_of_state: "[[_Standards/WikiData/WD~Daniel_Noboa,112075625]]"
+head_of_government: "[[_Standards/WikiData/WD~Daniel_Noboa,112075625]]"
+has_time_started: 1840-02-16
 highest_point: "[[_Standards/WikiData/WD~Chimborazo,14081]]"
-named_after: "[[_Standards/WikiData/WD~equator,23538]]"
-continent: "[[_Standards/WikiData/WD~South_America,18]]"
+has_id_wikidata: Q736
+instance_of:
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+inception: 1840-02-16
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Ecuador%20Blue%20Marble.png
+isDeleted: false
+isReadOnly: false
+icon: flag-ec
+keywords:
+language_used:
+  - "[[_Standards/WikiData/WD~Shuar,617291]]"
+  - "[[_Standards/WikiData/WD~Waorani,758570]]"
+  - "[[_Standards/WikiData/WD~Tsachila,2567055]]"
+  - "[[_Standards/WikiData/WD~Cha'palaa,2591329]]"
+  - "[[_Standards/WikiData/WD~Awa_Pit,2603103]]"
+  - "[[_Standards/WikiData/WD~Cofán,2669254]]"
+  - "[[_Standards/WikiData/WD~Achuar,2823170]]"
+  - "[[_Standards/WikiData/WD~Ecuadorian_Sign_Language,3436769]]"
+  - "[[_Standards/WikiData/WD~Secoya,3477218]]"
+  - "[[_Standards/WikiData/WD~Siona,3485116]]"
+  - "[[_Standards/WikiData/WD~Teteté,7706087]]"
+  - "[[_Standards/WikiData/WD~Cañar_Highland_Quichua,12953846]]"
+  - "[[_Standards/WikiData/WD~Salasaca_Highland_Quichua,12953847]]"
+  - "[[_Standards/WikiData/WD~Chimborazo_Highland_Quichua,12953845]]"
+  - "[[_Standards/WikiData/WD~Northern_Pastaza_Quichua,12953848]]"
+  - "[[_Standards/WikiData/WD~Calderón_Highland_Quichua,25559690]]"
+  - "[[_Standards/WikiData/WD~Loja_Highland_Quichua,25559700]]"
+  - "[[_Standards/WikiData/WD~Imbabura_Highland_Quichua,25559701]]"
+  - "[[_Standards/WikiData/WD~Napo_Lowland_Quechua,25559706]]"
+  - "[[_Standards/WikiData/WD~Media_Lengua,36066]]"
+  - "[[_Standards/WikiData/WD~Tena_Lowland_Quichua,62387937]]"
+  - "[[_Standards/WikiData/WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~Záparo,10206]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1319595]]"
+life_expectancy: 78
+licence_plate_code: EC
+located_in_time_zone:
+  - "[[_Standards/WikiData/WD~Pacific_Galapagos,63286095]]"
+  - "[[_Standards/WikiData/WD~America_Guayaquil,63286093]]"
+  - "[[_Standards/WikiData/WD~UTC_06_00,5385]]"
+  - "[[_Standards/WikiData/WD~UTC_05_00,5390]]"
 lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-unemployment_rate: 5
+locator_map_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/ECU%20orthographic.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationEcuador.svg
+location:
+  - -0.23
+  - -78.5
+license: CC BY-SA 4.0
+linkTitle:
+layout:
+member_of:
+  - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
+  - "[[_Standards/WikiData/WD~Andean_Community,471690]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+mobile_country_code: 740
+maritime_identification_digits: 735
+motto_text:
+  - « Allah,Vətən və Azadlıq "
+  - Duw, Mamwlad a Rhyddid
 mains_voltage: 120
-VAT_rate: 12
 marriageable_age: 18
-IPA_transcription: ɛkʋɑ'doːɾ
-Colon_Classification: SG--79163
-Krugosvet_article: strany_mira/EKVADOR.html
-Libris_URI: wt798q8f27vk3cx
-MeSH_tree_code: Z01.107.757.362
-Baidu_Tieba_name: 厄瓜多尔
+male_population:
+  - 8672767
+  - 8790148
+  - 8886835
+  - 8984602
+number_of_out_of_school_children: 225277
+nominal_GDP:
+  - 106165866000
+  - 115049476000
+named_after: "[[_Standards/WikiData/WD~equator,23538]]"
 native_label: República del Ecuador
-area: 257204.27
-coordinates_of_easternmost_point: Point(-75.1887341 -0.9709694)
-coordinates_of_southernmost_point: Point(-79.0101853 -5.0120903)
-PM20_geo_code: E77
-rural_population:
-  - 6246175
-  - 6302697
-  - 6342935
-  - 6377754
+official_language:
+  - "[[_Standards/WikiData/WD~Shuar,617291]]"
+  - "[[_Standards/WikiData/WD~Northern_Quichua,1740805]]"
+  - "[[_Standards/WikiData/WD~Spanish,1321]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Ecuador,732562]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Ecuador,732562]]"
+official_name:
+  - Ecuador
+  - اکوادورِ جمهوری
+  - جمهورية الإكوادور
+  - ইকুয়েডর প্রজাতন্ত্র
+  - República de l'Equador
+  - Republik Ecuador
+  - Republic of Ecuador
+  - República del Ecuador
+  - جمهوری اکوادور
+  - la République d’Équateur
+  - République de l'Équateur
+  - ईक्वाडोर गणराज्य
+  - Republik Ekuador
+  - Repubblica dell'Ecuador
+  - エクアドル共和国
+  - 에콰도르 공화국
+  - Res Publica Aequatoriae
+  - Republiek Ecuador
+  - Republika Ekwadoru
+  - República do Equador
+  - Ikwayur Runaq Imayka
+  - Республика Эквадор
+  - Republika Ekvador
+  - எக்வடோர் குடியரசு
+  - Республіка Еквадор
+  - جمہوریہ ایکواڈور
+  - Cộng hòa Ecuador
+  - 厄瓜多共和國
+open_data_portal:
+  - "[[_Standards/WikiData/WD~Open_Data_Colombia,97073891]]"
+  - "[[_Standards/WikiData/WD~Open_Data_platform_of_the_Republic_of_Ecuador.,97095863]]"
 official_website:
   - http://www.culturaypatrimonio.gob.ec/
   - http://www.turismo.gob.ec/
   - http://www.cancilleria.gob.ec/
   - http://www.presidencia.gob.ec/
   - https://educacion.gob.ec/
-female_population:
-  - 8670974
-  - 8798448
-  - 8910903
-  - 9016398
-male_population:
-  - 8672767
-  - 8790148
-  - 8886835
-  - 8984602
+part_of:
+  - "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
+  - "[[_Standards/WikiData/WD~Americas,828]]"
+  - "[[_Standards/WikiData/WD~Latin_America,12585]]"
+  - "[[_Standards/WikiData/WD~South_America,18]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27096263,27096263]]"
+population: 16938986
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Ecuador%20banner.jpg
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Ecuador.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Ecuador.wav
+publish: true
+publishDate:
+replaces: "[[_Standards/WikiData/WD~Gran_Colombia,199821]]"
+rural_population:
+  - 6246175
+  - 6302697
+  - 6342935
+  - 6377754
+suicide_rate: 7.7
+short_name:
+  - ECU
+  - Ecuador
+  - Ecuador
+  - Équateur
+  - Ecuador
+  - Ecuador
+  - اکوادور
+  - Ecuador
+  - Ecuador
+  - Ecuador
+  - الإكوادور
+  - ইকুয়েডর
+  - Equador
+  - Ekuador
+  - ECU
+  - ईक्वाडोर
+  - Ekuador
+  - エクアドル
+  - 에콰도르
+  - Ekwador
+  - Equador
+  - Ecuador
+  - எக்குவடோர்
+  - Ekvador
+  - Еквадор
+  - Ecuador
+  - 厄瓜多尔
+  - 🇪🇨
+  - EC
+  - Эквадор
+  - אקוודור
+shares_border_with:
+  - "[[_Standards/WikiData/WD~Peru,419]]"
+  - "[[_Standards/WikiData/WD~Colombia,739]]"
+subreddit: ecuador
+source: https://datahub.io/core/country-codes
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ecuador,10500107]]"
+total_fertility_rate: 2.21
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.ec,41113]]"
+type: Country
+tags:
+  - geo/Country
+title: Ecuador
+unemployment_rate: 5
 urban_population:
   - 11097565
   - 11285898
   - 11454802
   - 11623246
-population: 16938986
-coordinates_of_northernmost_point: Point(-78.87 1.45)
-CIVICUS_Monitor_country_entry: ecuador
-subreddit: ecuador
-GitHub_topic: ecuador
-geoshape: http://commons.wikimedia.org/data/main/Data:Ecuador.map
-locator_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/ECU%20orthographic.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationEcuador.svg
-page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Ecuador%20banner.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Ecuador%20Blue%20Marble.png
-pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Ecuador.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Ecuador.wav
-external_data_available_at_URL: http://www.datosabiertos.gob.ec/
-country_calling_code: 593
-U_S_National_Archives_Identifier: 10035721
-Dewey_Decimal_Classification: 2--866
-ITU_letter_code: EQA
-has_id_wikidata: Q736
-location:
-  - -0.23
-  - -78.5
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 26884
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
-publish: true
-title: Ecuador
-linkTitle:
-keywords:
-layout:
-draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Ecuador
-  - Équateur
-  - إكوادور
-  - 厄瓜多尔
-  - Эквадор
-  - the Republic of Ecuador
-  - la República del Ecuador
-  - Ecuador (el)
-Languages:
-  - es-EC
-icon: flag-ec
 ---
 
 # [[Ecuador]] 
@@ -431,7 +431,6 @@ For more Details, check out this Repository into this Subfolder:
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Ecuador 
 
 [[Ecuador/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: USD ]
 [	ISO4217-currency_name	 :: US Dollar ]
@@ -496,10 +495,10 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 218 ]
 
-
-
 [ISO2::EC]
 [ISO3::ECU] 
+
+#is_/same_as :: [[../../../WikiData/WD~Ecuador,736|WD~Ecuador,736]] 
 
 ## #has_/map  
 
@@ -564,4 +563,3 @@ Capital :: [[Ecuador/Counties/Pichincha/City/Quito]]
 ### #is_/same_as :: [Ecuador.personal](/_personal/Earth/Continent/America~South/Ecuador.personal.md) 
 
 ### #is_/same_as :: [Ecuador.secret](/_secret/Earth/Continent/America~South/Ecuador.secret.md)
-
