@@ -28,6 +28,35 @@ Commons_category: Electric current
 There are many Units for Current, but the SI-Unit is the [[../Unit/SI-Unit/Unit~Ampere|Unit~Ampere]]. 
 
 
+## #has_/text_of_/abstract 
+
+> An electric current is a flow of charged particles, such as electrons or ions, 
+> moving through an electrical conductor or space. 
+> 
+> It is defined as the net rate of flow of electric charge through a surface. 
+> The moving particles are called charge carriers, 
+> which may be one of several types of particles, depending on the conductor.  
+> 
+> In electric circuits the charge carriers are often electrons moving through a wire. 
+> In semiconductors they can be electrons or holes. 
+> In an electrolyte the charge carriers are ions, while in plasma, an ionized gas, they are ions and electrons.
+>
+> In the International System of Units (SI), electric current is expressed in units of ampere 
+> (sometimes called an "amp", symbol A), which is equivalent to one coulomb per second. 
+> The ampere is an SI base unit and electric current 
+> is a base quantity in the International System of Quantities (ISQ). 
+> Electric current is also known as amperage and is measured using a device called an ammeter.
+>
+> Electric currents create magnetic fields, 
+> which are used in motors, generators, inductors, and transformers. 
+> In ordinary conductors, they cause Joule heating, which creates light in incandescent light bulbs. 
+> Time-varying currents emit electromagnetic waves, 
+> which are used in telecommunications to broadcast information.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Electric%20current) 
+
+
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Current,electric](/_Standards/Dimension/Current,electric.md) 
