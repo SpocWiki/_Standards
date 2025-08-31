@@ -95,6 +95,8 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/education
 
 #has_/payoff_/percent :: 10 
 
+#is_/same_as :: [[../../WikiData/WD~Education,8434|WD~Education,8434]] 
+
 ## #has_/text_of_/abstract 
 
 > **Education** is the transmission of knowledge, skills, character traits and manifests in various forms. 

@@ -4,6 +4,7 @@ aliases:
   - Euclidean Vector
   - geometric vector
   - spatial vector
+  - vectors
 has_id_wikidata: Q44528
 different_from: "[[_Standards/WikiData/WD~Vektor,1420778]]"
 has_characteristic:

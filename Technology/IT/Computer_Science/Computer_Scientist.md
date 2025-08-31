@@ -2,6 +2,71 @@
 aliases:
   - computer scientist
 has_id_wikidata: Q82594
+patron_saint: "[[_Standards/WikiData/WD~Isidore_of_Seville,166876]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~systems_analyst,942569]]"
+  - "[[_Standards/WikiData/WD~technology_specialist,5157565]]"
+  - "[[_Standards/WikiData/WD~scientist,901]]"
+said_to_be_the_same_as:
+  - "[[_Standards/WikiData/WD~computer_science_expert,1391300]]"
+  - "[[_Standards/WikiData/WD~IT_professional,56604309]]"
+industry:
+  - "[[_Standards/WikiData/WD~service_sector,1959446]]"
+  - "[[_Standards/WikiData/WD~industrial_sector,8148]]"
+has_list: "[[_Standards/WikiData/WD~list_of_computer_scientists,2476620]]"
+uses:
+  - "[[_Standards/WikiData/WD~computing_terminology,3457057]]"
+  - "[[_Standards/WikiData/WD~computer_science_journal,127867413]]"
+different_from: "[[_Standards/WikiData/WD~computational_scientist,5157338]]"
+category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q59241091,59241091]]"
+field_of_this_occupation: "[[_Standards/WikiData/WD~computer_science,21198]]"
+instance_of: "[[_Standards/WikiData/WD~profession,28640]]"
+KldB_2010_occupation_code: "43124"
+ISCO_08_occupation_class: "2511"
+OmegaWiki_Defined_Meaning: "1516968"
+male_form_of_label:
+  - informatyk
+  - informatico
+  - informaticien
+  - عالم حاسوب
+  - informatik
+  - cientista da computação
+  - информатичар
+  - enhormáticu teóricu
+  - Informatiker
+  - kompiuterių mokslininkas
+  - дослідник у галузі інформатики
+  - hinünömavan
+female_form_of_label:
+  - informatica
+  - Informatikerin
+  - informaticienne
+  - informatica
+  - informàtica
+  - cientista da computação
+  - informatyczka
+  - מדענית מחשב
+  - informaticiană
+  - عَالِمَة حاسوب
+  - informática teórica
+  - informatička
+  - komputikistino
+  - informática teórica
+  - enhormática teórica
+  - informática teórica
+  - komputatoro-ciencistino
+  - Informatikerin
+  - kompiuterių mokslininkė
+  - datorzinātniece
+  - računalničarka
+  - shkencëtare e kompjuterit
+  - информатичарка
+  - дослідниця у галузі інформатики
+  - jinünömavan
+Commons_category: Computer scientists
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Ingenieur%20reseaux.jpg
+Dewey_Decimal_Classification: "004.092"
+Wolfram_Language_entity_code: Entity["Concept", "ComputerScientist::n3qj3"]
 ---
 
 # [[Computer_Scientist]] 
