@@ -4,9 +4,24 @@ aliases:
   - E-field
   - electrisches Feld
 has_id_wikidata: Q46221
+subclass_of:
+  - "[[_Standards/WikiData/WD~field,185674]]"
+  - "[[_Standards/WikiData/WD~vector_field,186247]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+instance_of: "[[_Standards/WikiData/WD~mathematical_expression,6498784]]"
+different_from: "[[_Standards/WikiData/WD~electric_field_strength,20989]]"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/14.%20%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%B8%20%D1%81%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%20%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8.ogv
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Van%20de%20Graaff%20Generator%20-%20Science%20City%20-%20Calcutta%201997%20444.JPG
+described_at_URL: https://phys.libretexts.org/Bookshelves/Electricity_and_Magnetism/Electricity_and_Magnetism_(Tatum)/01%3A_Electric_Fields
+IEV_number: 121-11-67
+OmegaWiki_Defined_Meaning: "1590718"
+Commons_category: Electric field
 ---
 
-# [[Electric_Field]] 
+# [[Field,Electric]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Electric_field,46221|WD~Electric_field,46221]] 
 
@@ -41,10 +56,7 @@ has_id_wikidata: Q46221
 >
 > The electric field is defined as a vector field 
 > that associates to each point in space the force per unit of charge 
-> exerted on an infinitesimal test charge at rest at that point. 
-> 
-> The SI unit for the electric field is the volt per meter (V/m), 
-> which is equal to the newton per coulomb (N/C).
+> exerted on an infinitesimal test charge at rest at that point. The SI unit for the electric field is the volt per meter (V/m), which is equal to the newton per coulomb (N/C).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20field) 
 
