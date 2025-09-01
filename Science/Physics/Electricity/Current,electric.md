@@ -2,6 +2,7 @@
 aliases:
   - Electric current
   - Electric_Current
+  - Elektrischer Strom
 Colon_Classification: C62
 Commons_category: Electric current
 described_by_source:

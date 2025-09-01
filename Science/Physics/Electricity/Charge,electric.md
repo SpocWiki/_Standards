@@ -1,6 +1,7 @@
 ---
 aliases:
   - Electric Charge
+  - Electric_Charge
   - Elektrische Ladung
 has_id_wikidata: Q1111
 subclass_of:
