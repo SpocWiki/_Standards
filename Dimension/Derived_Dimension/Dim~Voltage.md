@@ -1,7 +1,7 @@
 
 # [[Dim~Voltage]] 
 
-Voltage is the Energy per [[../Charge,electric]]. 
+Voltage is the Energy per [[../../Science/Physics/Electricity/Charge,electric]]. 
 
 It's SI Unit is the [[../../Unit/SI-Unit/derived_Unit/Unit~Volt]].  
 

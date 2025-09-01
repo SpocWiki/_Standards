@@ -25,20 +25,20 @@ Wikidata_property: maximum current
 
 # [[Current,electric]]   
 
-#is_/same_as :: [[../WikiData/WD~Electric_current,11651|WD~Electric_current,11651]] 
+#is_/same_as :: [[../../../WikiData/WD~Electric_current,11651|WD~Electric_current,11651]] 
 
-There are many Units for Current, but the SI-Unit is the [[../Unit/SI-Unit/Unit~Ampere|Unit~Ampere]]. 
+There are many Units for Current, but the SI-Unit is the [[../../../Dimension/Unit/SI-Unit/Unit~Ampere|Unit~Ampere]]. 
 
 
 ## #has_/text_of_/abstract 
 
 > An electric current is a flow of charged particles, such as electrons or ions, 
 > moving through an electrical conductor or space. 
->
+> 
 > It is defined as the net rate of flow of electric charge through a surface. 
 > The moving particles are called charge carriers, 
 > which may be one of several types of particles, depending on the conductor.  
->
+> 
 > In electric circuits the charge carriers are often electrons moving through a wire. 
 > In semiconductors they can be electrons or holes. 
 > In an electrolyte the charge carriers are ions, while in plasma, an ionized gas, they are ions and electrons.
@@ -55,22 +55,23 @@ There are many Units for Current, but the SI-Unit is the [[../Unit/SI-Unit/Unit~
 > Time-varying currents emit electromagnetic waves, 
 > which are used in telecommunications to broadcast information.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Electric%20current)
+> [Wikipedia](https://en.wikipedia.org/wiki/Electric%20current) 
+
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electric_Current](/_Standards/Science/Physics/Electricity/Electric_Current.md) 
+### #is_/same_as :: [Current,electric](/_Standards/Dimension/Current,electric.md) 
 
-### #is_/same_as :: [Electric_Current.public](/_public/Science/Physics/Electricity/Electric_Current.public.md) 
+### #is_/same_as :: [Current,electric.public](/_public/Dimension/Current,electric.public.md) 
 
-### #is_/same_as :: [Electric_Current.internal](/_internal/Science/Physics/Electricity/Electric_Current.internal.md) 
+### #is_/same_as :: [Current,electric.internal](/_internal/Dimension/Current,electric.internal.md) 
 
-### #is_/same_as :: [Electric_Current.protect](/_protect/Science/Physics/Electricity/Electric_Current.protect.md) 
+### #is_/same_as :: [Current,electric.protect](/_protect/Dimension/Current,electric.protect.md) 
 
-### #is_/same_as :: [Electric_Current.private](/_private/Science/Physics/Electricity/Electric_Current.private.md) 
+### #is_/same_as :: [Current,electric.private](/_private/Dimension/Current,electric.private.md) 
 
-### #is_/same_as :: [Electric_Current.personal](/_personal/Science/Physics/Electricity/Electric_Current.personal.md) 
+### #is_/same_as :: [Current,electric.personal](/_personal/Dimension/Current,electric.personal.md) 
 
-### #is_/same_as :: [Electric_Current.secret](/_secret/Science/Physics/Electricity/Electric_Current.secret.md)
+### #is_/same_as :: [Current,electric.secret](/_secret/Dimension/Current,electric.secret.md)
 
