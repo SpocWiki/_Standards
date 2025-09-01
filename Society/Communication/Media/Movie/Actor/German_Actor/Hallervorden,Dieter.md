@@ -3,6 +3,7 @@ aliases:
   - Dieter_Hallervorden
   - Dieter Hallervorden
   - Didi Hallervorden
+has_id_wikidata: Q78006
 ---
 
 # [[Hallervorden,Dieter]] 
