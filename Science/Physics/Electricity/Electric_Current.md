@@ -1,25 +1,26 @@
 ---
 aliases:
-- "Electric current"
+  - Electric current
+  - Electric_Current
 Colon_Classification: C62
-Commons_category: "Electric current"
+Commons_category: Electric current
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 different_from:
-- '[[_Standards/WikiData/WD~electric_current_density,234072]]'
-- '[[_Standards/WikiData/WD~flux_density,51720768]]'
-- '[[_Standards/WikiData/WD~electric_current,29996]]'
-facet_of: '[[_Standards/WikiData/WD~electricity,12725]]'
+  - "[[_Standards/WikiData/WD~electric_current_density,234072]]"
+  - "[[_Standards/WikiData/WD~flux_density,51720768]]"
+  - "[[_Standards/WikiData/WD~electric_current,29996]]"
+facet_of: "[[_Standards/WikiData/WD~electricity,12725]]"
 has_id_wikidata: Q11651
-has_part_s_: '[[_Standards/WikiData/WD~ion_current,6063423]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Magnetic%20field%20of%20a%20steady%20current.svg"
+has_part_s_: "[[_Standards/WikiData/WD~ion_current,6063423]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Magnetic%20field%20of%20a%20steady%20current.svg
 OmegaWiki_Defined_Meaning: 684678
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681476,25681476]]'
-subclass_of: '[[_Standards/WikiData/WD~current,56298508]]'
-Wikidata_property: "maximum current"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25681476,25681476]]"
+subclass_of: "[[_Standards/WikiData/WD~current,56298508]]"
+Wikidata_property: maximum current
 ---
 
 # [[Current,electric]]   
