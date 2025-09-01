@@ -3,6 +3,14 @@ aliases:
   - electric piano
   - E-Piano
 has_id_wikidata: Q1136507
+different_from:
+  - "[[_Standards/WikiData/WD~synthesizer,163829]]"
+  - "[[_Standards/WikiData/WD~electronic_piano,3503387]]"
+subclass_of: "[[_Standards/WikiData/WD~electromechanical_instruments,1372823]]"
+Hornbostel_Sachs_classification: "52"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/6f%201.png
+Commons_category: Electric pianos
+Baidu_Tieba_name: 电钢琴
 ---
 
 # [[Electric_Piano]] 
