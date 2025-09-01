@@ -1,4 +1,4 @@
-#is_/same_as :: [[dimension math]]---
+---
 Commons_category: Cooking
 described_at_URL: "https://neal.fun/earth-reviews/cooking"
 described_by_source:

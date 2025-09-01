@@ -33,6 +33,10 @@ time_of_discovery_or_invention: 1821
 U_S_National_Archives_Identifier: 10639437
 ---
 
+# [[Electricity]] 
+
+#is_/same_as :: [[../../WikiData/WD~Electricity,12725|WD~Electricity,12725]] 
+
 ## #has_/text_of_/abstract 
 
 > **Electricity** is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge. Electricity is related to magnetism, both being part of the phenomenon of electromagnetism, as described by Maxwell's equations. Common phenomena are related to electricity, including lightning, static electricity, electric heating, electric discharges and many others.
