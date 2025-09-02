@@ -1,6 +1,8 @@
 ---
 aliases:
   - Charm Quark
+  - Charm_Quark
+  - Charm-Quark
   - charmed quark
   - c quark
 has_id_wikidata: Q6754

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Strange Quark
+  - Strange-Quark
+  - Strange_Quark
   - s quark
 has_id_wikidata: Q6763
 interaction:

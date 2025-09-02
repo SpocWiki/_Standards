@@ -1,6 +1,8 @@
 ---
 aliases:
   - Up Quark
+  - Up Quarks
+  - Up-Quark
   - Up_quark
 has_id_wikidata: Q6732
 interaction:

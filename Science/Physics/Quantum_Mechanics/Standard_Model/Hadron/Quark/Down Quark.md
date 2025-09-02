@@ -1,6 +1,8 @@
 ---
 aliases:
   - Down Quark
+  - Down_Quark
+  - Down-Quark
 has_id_wikidata: Q6745
 interaction:
   - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"

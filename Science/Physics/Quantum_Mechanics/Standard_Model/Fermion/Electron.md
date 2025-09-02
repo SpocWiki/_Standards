@@ -40,3 +40,17 @@ has_id_wikidata: Q2225
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electron) 
 
+
+## Size-Paradox 
+
+Experiments show the electron is **pointlike** to at least 1e−19m, much smaller than Re​.
+For a uniformly charged sphere of radius R, the electrostatic self-energy is U(R)=e²/(8πεR) 
+
+Equating this to mc² gives Re=2.82 fm
+
+So **if** the mass came purely from field energy, shrinking R would make U(R) exceed the rest energy. 
+The paradox vanishes once you adopt modern quantum field theory:
+ 
+ The **electron mass** is not field energy, but set by its **Higgs Yukawa coupling**, 
+ with QED renormalization handling divergent self-energies.
+    

@@ -2,6 +2,9 @@
 has_id_wikidata: Q6778
 aliases:
   - truth quark
+  - top quark
+  - top-quark
+  - top_quark
 interaction:
   - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
   - "[[_Standards/WikiData/WD~strong_interaction,11415]]"
