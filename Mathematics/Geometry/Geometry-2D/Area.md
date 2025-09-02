@@ -133,7 +133,7 @@ Wikidata_property: area
 
 # [[Area]] 
 
-#is_/same_as :: [[../../WikiData/WD~Area,11500|WD~Area,11500]] 
+#is_/same_as :: [[../../../WikiData/WD~Area,11500|WD~Area,11500]] 
 
 ## #has_/text_of_/abstract 
 

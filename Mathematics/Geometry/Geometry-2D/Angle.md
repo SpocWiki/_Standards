@@ -52,7 +52,7 @@ aliases:
 
 #is_a_ :: [[Pseudo-Vector]] 
 #is_/similar_to :: [[Vector]] 
-#is_/same_as :: [[../../WikiData/WD~Angle,11352|WD~Angle,11352]] 
+#is_/same_as :: [[../../../WikiData/WD~Angle,11352|WD~Angle,11352]] 
 
 ## #has_/parts 
 

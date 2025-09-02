@@ -21,7 +21,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Vector%20from%20A%20to
 # [[Vector]] 
 
 #is_/same_as :: [[../../WikiData/WD~Euclidean_vector,44528|WD~Euclidean_vector,44528]] 
-#is_/similar_to :: [[Angle]]  
+#is_/similar_to :: [[Geometry-2D/Angle]]  
 
 ## #has_/text_of_/abstract 
 

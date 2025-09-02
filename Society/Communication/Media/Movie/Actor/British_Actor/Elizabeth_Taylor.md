@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Dame Elizabeth Rosemond Taylor
+  - Elizabeth Rosemond Taylor
+  - Elizabeth Taylor
 has_id_wikidata: Q34851
 nominated_for:
   - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
@@ -144,11 +147,43 @@ date_of_death: 2011-03-23T00:00:00Z
 
 ## #has_/text_of_/abstract 
 
-> Dame Elizabeth Rosemond Taylor (February 27, 1932 – March 23, 2011) was an English-American actress. She began her career as a child actress in the early 1940s and was one of the most popular stars of classical Hollywood cinema in the 1950s. She then became the world's highest-paid movie star in the 1960s, remaining a well-known public figure for the rest of her life. In 1999, the American Film Institute ranked her seventh on its greatest female screen legends list.
+> Dame Elizabeth Rosemond Taylor (February 27, 1932 – March 23, 2011) was an English-American actress. 
+> She began her career as a child actress in the early 1940s 
+> and was one of the most popular stars of classical Hollywood cinema in the 1950s. 
+> She then became the world's highest-paid movie star in the 1960s, 
+> remaining a well-known public figure for the rest of her life. 
+> In 1999, the American Film Institute ranked her seventh on its greatest female screen legends list.
 >
-> Born in London to socially prominent American parents, Taylor moved with her family to Los Angeles in 1939 at the age of 7. She made her acting debut with a minor role in the Universal Pictures film There's One Born Every Minute (1942), but the studio ended her contract after a year. She was then signed by Metro-Goldwyn-Mayer and became a popular teen star after appearing in National Velvet (1944). She transitioned to mature roles in the 1950s, when she starred in the comedy Father of the Bride (1950) and received critical acclaim for her performance in the drama A Place in the Sun (1951). She starred in the historical adventure epic Ivanhoe (1952) with Robert Taylor and Joan Fontaine. Despite being one of MGM's most bankable stars, Taylor wished to end her career in the early 1950s. She resented the studio's control and disliked many of the films to which she was assigned.
+> Born in London to socially prominent American parents, 
+> Taylor moved with her family to Los Angeles in 1939 at the age of 7. 
+> She made her acting debut with a minor role in the Universal Pictures film There's One Born Every Minute (1942), 
+> but the studio ended her contract after a year. 
+> She was then signed by Metro-Goldwyn-Mayer 
+> and became a popular teen star after appearing in National Velvet (1944). 
+> She transitioned to mature roles in the 1950s, 
+> when she starred in the comedy Father of the Bride (1950) 
+> and received critical acclaim for her performance in the drama A Place in the Sun (1951). 
+> She starred in the historical adventure epic Ivanhoe (1952) with Robert Taylor and Joan Fontaine. 
+> Despite being one of MGM's most bankable stars, Taylor wished to end her career in the early 1950s. 
+> She resented the studio's control and disliked many of the films to which she was assigned.
 >
-> She began receiving more enjoyable roles in the mid-1950s, beginning with the epic drama Giant (1956), and starred in several critically and commercially successful films in the following years. These included two film adaptations of plays by Tennessee Williams: Cat on a Hot Tin Roof (1958), and Suddenly, Last Summer (1959); Taylor won a Golden Globe for Best Actress for the latter. Although she disliked her role as a call girl in BUtterfield 8 (1960), her last film for MGM, she won the Academy Award for Best Actress for her performance. During the production of the film Cleopatra in 1961, Taylor and co-star Richard Burton began an extramarital affair, which caused a scandal. Despite public disapproval, they continued their relationship and were married in 1964. Dubbed "Liz and Dick" by the media, they starred in 11 films together, including The V.I.P.s (1963), The Sandpiper (1965), The Taming of the Shrew (1967), and Who's Afraid of Virginia Woolf? (1966). Taylor received the best reviews of her career for Woolf, winning her second Academy Award and several other awards for her performance. She and Burton divorced in 1974 but reconciled soon after, remarrying in 1975. The second marriage ended in divorce in 1976.
+> She began receiving more enjoyable roles in the mid-1950s, beginning with the epic drama Giant (1956), 
+> and starred in several critically and commercially successful films in the following years. 
+> 
+> These included two film adaptations of plays by Tennessee Williams: Cat on a Hot Tin Roof (1958), 
+> and Suddenly, Last Summer (1959); Taylor won a Golden Globe for Best Actress for the latter. 
+> 
+> Although she disliked her role as a call girl in BUtterfield 8 (1960), her last film for MGM, 
+> she won the Academy Award for Best Actress for her performance. 
+> 
+> During the production of the film Cleopatra in 1961, 
+> Taylor and co-star Richard Burton began an extramarital affair, which caused a scandal. 
+> Despite public disapproval, they continued their relationship and were married in 1964. 
+> Dubbed "Liz and Dick" by the media, they starred in 11 films together, including The V.I.P.s (1963), The Sandpiper (1965), The Taming of the Shrew (1967), and Who's Afraid of Virginia Woolf? (1966). 
+> Taylor received the best reviews of her career for Woolf, 
+> winning her second Academy Award and several other awards for her performance. 
+> She and Burton divorced in 1974 but reconciled soon after, remarrying in 1975. 
+> The second marriage ended in divorce in 1976.
 >
 > Taylor's acting career began to decline in the late 1960s, although she continued starring in films until the mid-1970s, after which she focused on supporting the career of her sixth husband, United States Senator John Warner. In the 1980s, she acted in her first substantial stage roles and in several television films and series. She became the second celebrity to launch a perfume brand after Sophia Loren. Taylor was one of the first celebrities to take part in HIV/AIDS activism. She co-founded the American Foundation for AIDS Research in 1985 and the Elizabeth Taylor AIDS Foundation in 1991. From the early 1990s until her death, she dedicated her time to philanthropy, for which she received several accolades, including the Presidential Citizens Medal in 2001.
 >
