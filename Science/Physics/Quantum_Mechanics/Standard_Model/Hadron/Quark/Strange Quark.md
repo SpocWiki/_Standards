@@ -23,7 +23,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Strange%20quark.svg
 
 # [[Strange Quark]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Strange_quark,6763|WD~Strange_quark,6763]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Strange_quark,6763|WD~Strange_quark,6763]] 
 
 ## #has_/text_of_/abstract 
 

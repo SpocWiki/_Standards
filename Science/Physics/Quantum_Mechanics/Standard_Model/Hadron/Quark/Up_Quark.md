@@ -25,7 +25,7 @@ electric_charge: 0.6666666666666666
 
 # [[Up_Quark]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Up_quark,6732|WD~Up_quark,6732]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Up_quark,6732|WD~Up_quark,6732]] 
 
 ## #has_/text_of_/abstract 
 

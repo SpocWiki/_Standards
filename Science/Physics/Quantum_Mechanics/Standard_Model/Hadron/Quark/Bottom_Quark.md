@@ -8,7 +8,7 @@ has_id_wikidata: Q6786
 
 # [[Bottom_Quark]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Bottom_quark,6786|WD~Bottom_quark,6786]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Bottom_quark,6786|WD~Bottom_quark,6786]] 
 
 ## #has_/text_of_/abstract 
 

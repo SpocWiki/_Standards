@@ -23,7 +23,7 @@ electric_charge: -0.3333333333333333
 
 # [[Down Quark]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Down_quark,6745|WD~Down_quark,6745]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Down_quark,6745|WD~Down_quark,6745]] 
 
 ## #has_/text_of_/abstract 
 

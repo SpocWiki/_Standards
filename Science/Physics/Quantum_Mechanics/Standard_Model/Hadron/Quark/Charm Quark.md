@@ -24,7 +24,7 @@ Wolfram_Language_entity_code: Entity["Particle", "CharmQuark"]
 
 # [[Charm Quark]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Charm_quark,6754|WD~Charm_quark,6754]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Charm_quark,6754|WD~Charm_quark,6754]] 
 
 ## #has_/text_of_/abstract 
 

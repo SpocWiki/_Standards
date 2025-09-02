@@ -24,7 +24,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Top%20quark.svg
 
 # [[Top_Quark]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Top_quark,6778|WD~Top_quark,6778]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Top_quark,6778|WD~Top_quark,6778]] 
 
 ## #has_/text_of_/abstract 
 

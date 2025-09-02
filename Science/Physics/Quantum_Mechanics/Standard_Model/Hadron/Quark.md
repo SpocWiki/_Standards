@@ -33,7 +33,7 @@ P8189: "987007550891605171"
 
 # [[Quark]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Quark,6718|WD~Quark,6718]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Quark,6718|WD~Quark,6718]] 
 
 ## #has_/text_of_/abstract 
 
