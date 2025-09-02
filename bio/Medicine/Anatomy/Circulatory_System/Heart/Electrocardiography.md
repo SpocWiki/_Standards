@@ -29,8 +29,6 @@ MeSH_tree_code:
 
 > **Electrocardiography** is the process of producing an electrocardiogram (ECG or EKG), a recording of the heart's electrical activity through repeated cardiac cycles. It is an electrogram of the heart which is a graph of voltage versus time of the electrical activity of the heart using electrodes placed on the skin. These electrodes detect the small electrical changes that are a consequence of cardiac muscle depolarization followed by repolarization during each cardiac cycle (heartbeat). Changes in the normal ECG pattern occur in numerous cardiac abnormalities, including:
 >
-> 
->
 > Cardiac rhythm disturbances, such as atrial fibrillation and ventricular tachycardia;
 >
 > Inadequate coronary artery blood flow, such as myocardial ischemia and myocardial infarction;

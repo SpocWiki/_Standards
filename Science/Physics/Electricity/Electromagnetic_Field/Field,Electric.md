@@ -23,7 +23,7 @@ Commons_category: Electric field
 
 # [[Field,Electric]]  
 
-#is_/same_as :: [[../../../WikiData/WD~Electric_field,46221|WD~Electric_field,46221]] 
+#is_/same_as :: [[../../../../WikiData/WD~Electric_field,46221|WD~Electric_field,46221]] 
 
 ## #has_/text_of_/abstract 
 
