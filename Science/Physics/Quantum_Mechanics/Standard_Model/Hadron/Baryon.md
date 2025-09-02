@@ -28,7 +28,8 @@ Commons_category: Baryons
 ## #has_/text_of_/abstract 
 
 > In particle physics, a **Baryon** is a type of composite subatomic particle 
-> that contains an **odd number of valence quarks**, conventionally three. 
+> that contains an **odd number of valence quarks**, conventionally three of different color,
+> to yield a total white color Charge. 
 > 
 > Protons and neutrons are examples of baryons; because baryons are composed of quarks, 
 > they belong to the hadron family of particles. 

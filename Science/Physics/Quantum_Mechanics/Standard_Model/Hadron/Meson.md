@@ -37,7 +37,7 @@ MeSH_tree_code: G01.249.600
 ## #has_/text_of_/abstract 
 
 > In particle physics, a **Meson** is a type of hadronic subatomic particle 
-> composed of an equal number of quarks and antiquarks, 
+> composed of an **equal number of quarks and antiquarks**, to yield a white total Color,
 > usually one of each, bound together by the strong interaction. 
 > 
 > Because mesons are composed of quark subparticles, they have a meaningful physical size, 

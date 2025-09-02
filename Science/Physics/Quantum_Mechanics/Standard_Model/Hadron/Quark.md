@@ -35,7 +35,27 @@ P8189: "987007550891605171"
 
 #is_/same_as :: [[../../../../../WikiData/WD~Quark,6718|WD~Quark,6718]] 
 
-Each type of Quark has its own [[../../Antimatter/Antiparticle|Antiparticle]]. 
+- Each type of Quark has its own [[../../Antimatter/Antiparticle|Antiparticle]] with the anti-color. 
+- **Quarks are never found isolated** due to **color confinement**; they only exist inside hadrons (baryons or mesons).
+- A baryon is always **color-neutral**, combining three quarks of different colors.
+- A meson is also color-neutral, combining a quark and an antiquark of **matching color-anticolor**.
+
+| Property        | Up (u) | Down (d) | Charm (c) | Strange (s) | Top (t) | Bottom (b) | anti       |
+| --------------- | ------ | -------- | --------- | ----------- | ------- | ---------- | ---------- |
+| Charge (e)      | +2/3   | -1/3     | +2/3      | -1/3        | +2/3    | -1/3       | anti       |
+| Mass (MeV/c²)   | 2.2    | 4.7      | 1270      | 96          | 173,100 | 4,180      | same       |
+| Spin (ℏ)        | 1/2    | 1/2      | 1/2       | 1/2         | 1/2     | 1/2        | same       |
+| Baryon Number   | +1/3   | +1/3     | +1/3      | +1/3        | +1/3    | +1/3       | -1/3       |
+| Color Charge    | R/G/B  | R/G/B    | R/G/B     | R/G/B       | R/G/B   | R/G/B      | anti-R/G/B |
+| Generation      | 1      | 1        | 2         | 2           | 3       | 3          | same       |
+| Strangeness (S) | 0      | 0        | 0         | -1          | 0       | 0          | anti       |
+| Charm (C)       | 0      | 0        | +1        | 0           | 0       | 0          | anti       |
+| Bottomness (B′) | 0      | 0        | 0         | 0           | 0       | -1         | anti       |
+| Topness (T)     | 0      | 0        | 0         | 0           | +1      | 0          | anti       |
+| Isospin (I)     | 1/2    | 1/2      | 0         | 0           | 0       | 0          | same       |
+| I₃              | +1/2   | -1/2     | 0         | 0           | 0       | 0          | anti       |
+| Parity (P)      | +      | +        | +         | +           | +       | +          | immer +    |
+
 
 ## #has_/text_of_/abstract 
 
@@ -57,6 +77,50 @@ Each type of Quark has its own [[../../Antimatter/Antiparticle|Antiparticle]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quark)
 
+
+## Definition of Quark Generation
+
+The **generation of a quark** refers to its classification in terms of **mass and weak interaction properties** within the Standard Model of particle physics. Quarks are elementary particles that combine to form hadrons (e.g., protons and neutrons). They are grouped into **three generations**, each consisting of **two types (flavors)**: an “up-type” quark with charge +23e+\frac{2}{3}e+32​e and a “down-type” quark with charge −13e-\frac{1}{3}e−31​e.
+
+### The Three Generations
+
+| Generation | Up-type Quark | Down-type Quark | Mass Range (approx.) |
+| ---------- | ------------- | --------------- | -------------------- |
+| 1st        | Up (u)        | Down (d)        | 2.2 MeV – 4.7 MeV    |
+| 2nd        | Charm (c)     | Strange (s)     | 1.27 GeV – 96 MeV    |
+| 3rd        | Top (t)       | Bottom (b)      | 173 GeV – 4.18 GeV   |
+
+### Significance of Generations
+
+The **generation number** correlates strongly with **mass and stability**:
+
+- **1st generation** quarks (u, d) are the lightest and **stable**, forming ordinary matter
+    
+- **2nd generation** quarks (c, s) are heavier and **unstable**, decaying into 1st generation quarks through weak interactions
+    
+- **3rd generation** quarks (t, b) are **very heavy**, with the top quark decaying extremely rapidly (∼5×10−25 s\sim 5 \times 10^{-25} \, \text{s}∼5×10−25s)
+    
+
+### Weak Interaction and Flavor Changing
+
+Quark generations are also crucial in **weak interactions**, where transitions between generations occur via the **CKM (Cabibbo-Kobayashi-Maskawa) matrix**. These transitions are probabilistic:
+
+- 1st ↔ 2nd generation: high probability (~97%)
+    
+- 2nd ↔ 3rd generation: low probability (~2–3%)
+    
+- 1st ↔ 3rd generation: very low probability (<0.1%)
+    
+
+### Implications
+
+The generation concept explains why:
+
+- Only the **1st generation quarks** are abundant in ordinary matter
+    
+- Higher generations are produced in **high-energy environments** such as particle accelerators or cosmic rays
+    
+- Quark mass hierarchy affects **particle decay rates** and **CP violation**
 
 ## Confidential Links & Embeds: 
 

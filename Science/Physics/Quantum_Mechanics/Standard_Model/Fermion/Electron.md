@@ -6,6 +6,7 @@ has_id_wikidata: Q2225
 
 # [[Electron]] 
 
+#is_/opposite_of ::  [[../../Antimatter/Positron|Positron]] 
 #is_/same_as :: [[../../../../../WikiData/WD~Electron,2225|WD~Electron,2225]] 
 
 ## #has_/text_of_/abstract 
