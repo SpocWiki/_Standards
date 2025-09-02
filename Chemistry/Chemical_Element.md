@@ -1,6 +1,7 @@
 ---
 aliases:
   - Chemical Element
+  - Element
 Commons_category: Chemical elements
 Commons_gallery: Chemical element
 described_by_source:

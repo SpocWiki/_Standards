@@ -37,13 +37,21 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Proboscidea_Genera,544
 
 ![ ](Elephantidae/01004elephants.jpg))  ![Elephas_maximus](Elephantidae/Elephas_maximus.jpg)  
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Elephantidae,2372824|WD~Elephantidae,2372824]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Elephantidae,2372824|WD~Elephantidae,2372824]]  
 
 ## #has_/text_of_/abstract 
 
-> **Elephantidae** is a family of large, herbivorous proboscidean mammals which includes the living elephants (belonging to the genera Elephas and Loxodonta), as well as a number of extinct genera like Mammuthus (mammoths) and Palaeoloxodon. They are large terrestrial mammals with a snout modified into a trunk and teeth modified into tusks. Most genera and species in the family are extinct.
+> **Elephantidae** is a family of large, herbivorous proboscidean mammals 
+> which includes the living elephants (belonging to the genera Elephas and Loxodonta), 
+> as well as a number of extinct genera like Mammuthus (mammoths) and Palaeoloxodon. 
+> 
+> They are large terrestrial mammals with a snout modified into a trunk 
+> and teeth modified into tusks. 
+> Most genera and species in the family are extinct.
 >
-> The family was first described by John Edward Gray in 1821, and later assigned to taxonomic ranks within the order Proboscidea. Elephantidae has been revised by various authors to include or exclude other extinct proboscidean genera.
+> The family was first described by John Edward Gray in 1821, 
+> and later assigned to taxonomic ranks within the order Proboscidea. 
+> Elephantidae has been revised by various authors to include or exclude other extinct proboscidean genera.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Elephantidae) 
 
