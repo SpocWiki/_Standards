@@ -79,11 +79,20 @@ mass: 1.008966491595
 > consist of neutrons at the density of atomic nuclei but a total mass more than the Sun.
 >
 > Neutron properties and interactions are described by nuclear physics.  
-> Neutrons are not elementary particles; each is composed of three quarks. A free neutron spontaneously decays to a proton, an electron, and an antineutrino, with a mean lifetime of about 15 minutes.
+> Neutrons are composed of one [[../../Quark/Up_Quark|up quark]] of charge +⁠2e/3⁠, and two [[../../Quark/Down Quark|down quark]] of charge −⁠e/3 each. 
+> A free neutron spontaneously decays to a proton, an electron, and an antineutrino, 
+> with a mean lifetime of about 15 minutes.
 >
 > The neutron is essential to the production of nuclear power. 
 >
-> Dedicated neutron sources like neutron generators, research reactors and spallation sources produce free neutrons for use in irradiation and in neutron scattering experiments.  Free neutrons do not directly ionize atoms, but they do indirectly cause ionizing radiation, so they can be a biological hazard, depending on dose. A small natural "neutron background" flux of free neutrons exists on Earth, caused by cosmic rays, and by the natural radioactivity of spontaneously fissionable elements in the Earth's crust.
+> Dedicated neutron sources like neutron generators, research reactors and spallation sources 
+> produce free neutrons for use in irradiation and in neutron scattering experiments.  
+> 
+> Free neutrons do not directly ionize atoms, but they do indirectly cause ionizing radiation, 
+> so they can be a biological hazard, depending on dose. 
+> 
+> A small natural "neutron background" flux of free neutrons exists on Earth, 
+> caused by cosmic rays, and by the natural radioactivity of spontaneously fissionable elements in the Earth's crust.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neutron) 
 

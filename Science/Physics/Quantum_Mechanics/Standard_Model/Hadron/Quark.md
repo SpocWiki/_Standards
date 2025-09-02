@@ -35,6 +35,8 @@ P8189: "987007550891605171"
 
 #is_/same_as :: [[../../../../../WikiData/WD~Quark,6718|WD~Quark,6718]] 
 
+Each type of Quark has its own [[../../Antimatter/Antiparticle|Antiparticle]]. 
+
 ## #has_/text_of_/abstract 
 
 > A **Quark** is a type of elementary particle and a fundamental constituent of matter. 
