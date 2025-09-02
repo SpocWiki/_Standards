@@ -2,6 +2,7 @@
 aliases:
   - Elektronenpaarbindung
   - covalent bonding
+  - covalent bond
 has_id_wikidata: Q127920
 has_part_s_: "[[_Standards/WikiData/WD~Bonding_electron,863666]]"
 described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"

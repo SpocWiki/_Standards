@@ -25,6 +25,10 @@ used_by: '[[_Standards/WikiData/WD~electronic_circuit,1815901]]'
 uses: '[[_Standards/WikiData/WD~lead,947546]]'
 ---
 
+# [[Electronic_Component]] 
+
+#is_/same_as :: [[../../WikiData/WD~Electronic_component,11653|WD~Electronic_component,11653]] 
+
 ## #has_/text_of_/abstract 
 
 > An **Electronic component** is any basic discrete electronic device or physical entity part of an electronic system used to affect electrons or their associated fields. Electronic components are mostly industrial products, available in a singular form and are not to be confused with electrical elements, which are conceptual abstractions representing idealized electronic components and elements. A datasheet for an electronic component is a technical document that provides detailed information about the component's specifications, characteristics, and performance. Discrete circuits are made of individual electronic components that only perform one function each as packaged, which are known as discrete components, although strictly the term discrete component refers to such a component with semiconductor material such as individual transistors.

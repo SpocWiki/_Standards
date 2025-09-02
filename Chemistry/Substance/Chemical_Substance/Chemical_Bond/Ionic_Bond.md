@@ -1,6 +1,7 @@
 ---
 aliases:
   - ionic bonding
+  - ionic bond
   - Ionenbindung
 has_id_wikidata: Q62500
 different_from: "[[_Standards/WikiData/WD~polar_bond,2101022]]"
