@@ -45,7 +45,7 @@ name: digka
 
 # [[Axe]] 
 
-#is_/same_as :: [[../../WikiData/WD~Axe,39397|WD~Axe,39397]] 
+#is_/same_as :: [[../../../WikiData/WD~Axe,39397|WD~Axe,39397]] 
 
 ## #has_/text_of_/abstract 
 

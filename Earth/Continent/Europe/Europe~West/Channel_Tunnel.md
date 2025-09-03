@@ -67,7 +67,7 @@ service_entry: 1994-11-14T00:00:00Z
 
 # [[Channel_Tunnel]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Channel_Tunnel,10257|WD~Channel_Tunnel,10257]] 
+#is_/same_as :: [[../../../../WikiData/WD~Channel_Tunnel,10257|WD~Channel_Tunnel,10257]] 
 
 ## #has_/text_of_/abstract 
 

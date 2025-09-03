@@ -28,7 +28,7 @@ OpenStreetMap_tag_or_key: Tag:man_made=crane
 
 # [[Crane(Machine)]] 
 
-#is_/same_as :: [[../../WikiData/WD~Crane,178692|WD~Crane,178692]] 
+#is_/same_as :: [[../../../WikiData/WD~Crane,178692|WD~Crane,178692]] 
 
 ## #has_/text_of_/abstract 
 

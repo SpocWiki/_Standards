@@ -2,6 +2,7 @@
 aliases:
   - matrimony
   - wedlock
+  - Ehe
 has_id_wikidata: Q8445
 follows:
   - "[[_Standards/WikiData/WD~engagement,157512]]"
@@ -73,6 +74,7 @@ Baidu_Tieba_name: 结婚
 
 # [[Marriage]] 
 
+#has_/next_/item :: [[Marriage/Divorce|Divorce]] 
 #is_/same_as :: [[../../../../../WikiData/WD~Marriage,8445|WD~Marriage,8445]] 
 
 ## #has_/text_of_/abstract 

@@ -38,7 +38,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Displacement.gif
 
 ## #has_/text_of_/abstract 
 
-> An engine or **Motor** is a machine designed to **convert one or more forms of energy into mechanical energy**.
+> An engine or **Motor** is a [[Mechanical_Engineering/Machine|Machine]] designed to **convert one or more forms of energy into mechanical energy**.
 >
 > Available energy sources include 
 > - potential energy (e.g. energy of the Earth's gravitational field as exploited in hydroelectric power generation), 

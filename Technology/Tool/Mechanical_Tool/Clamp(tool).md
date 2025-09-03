@@ -8,7 +8,7 @@ has_id_wikidata: Q846600
 
 # [[Clamp(tool)]] 
 
-#is_/same_as :: [[../../WikiData/WD~Clamp,846600|WD~Clamp,846600]] 
+#is_/same_as :: [[../../../WikiData/WD~Clamp,846600|WD~Clamp,846600]] 
 
 ## #has_/text_of_/abstract 
 

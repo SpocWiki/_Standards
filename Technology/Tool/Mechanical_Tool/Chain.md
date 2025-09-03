@@ -37,12 +37,12 @@ Unicode_character: ⛓
 
 # [[Chain]] 
 
-#is_/same_as :: [[../../WikiData/WD~Chain,2397485|WD~Chain,2397485]] 
+#is_/same_as :: [[../../../WikiData/WD~Chain,2397485|WD~Chain,2397485]] 
 
 ## #has_/text_of_/abstract 
 
 > A **Chain** is a serial assembly of connected pieces, called links, typically made of metal, 
-> with an overall character similar to that of a [[../Tool/Rope]] 
+> with an overall character similar to that of a [[Rope]] 
 > in that it is flexible and curved in compression but linear, rigid, and load-bearing in tension. 
 > 
 > A chain may consist of two or more links. Chains can be classified by their design, which can be dictated by their use:

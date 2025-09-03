@@ -37,7 +37,7 @@ P8189: "987007546263905171"
 
 # [[Rope]] 
 
-#is_/same_as :: [[../../WikiData/WD~Rope,31029|WD~Rope,31029]] 
+#is_/same_as :: [[../../../WikiData/WD~Rope,31029|WD~Rope,31029]] 
 
 ## #has_/text_of_/abstract 
 

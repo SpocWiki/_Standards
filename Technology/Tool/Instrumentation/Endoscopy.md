@@ -1,7 +1,7 @@
 
-# [[Endoscope]] 
+# [[Endoscopy]] 
 
-#is_/same_as :: 
+#is_/same_as :: [[../../../WikiData/WD~Endoscopy,212809|WD~Endoscopy,212809]] 
 
 ## #has_/text_of_/abstract 
 
@@ -22,7 +22,9 @@
 > It is used to examine the internal organs like the throat or esophagus. 
 > 
 > Specialized instruments are named after their target organ. 
-> Examples include the cystoscope (bladder), nephroscope (kidney), bronchoscope (bronchus), arthroscope (joints) and colonoscope (colon), and laparoscope (abdomen or pelvis). They can be used to examine visually and diagnose, or assist in surgery such as an arthroscopy.
+> Examples include the cystoscope (bladder), nephroscope (kidney), bronchoscope (bronchus), arthroscope (joints) and colonoscope (colon), and laparoscope (abdomen or pelvis). 
+> 
+> They can be used to examine visually and diagnose, or assist in surgery such as an arthroscopy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Endoscope) 
 
