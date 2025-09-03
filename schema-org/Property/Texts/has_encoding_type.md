@@ -30,6 +30,8 @@ type: Pred_Text
 # [[has_encoding_type]] 
 
 Predicate to indicates the supported [[has_content_type|content-type]]s of a Service-[[../../Class/is_a_/Intangible/entry_point|EntryPoint]]. 
+Use **`encodingType`** only when you want to **strictly specify a MIME type** for a MediaObject,
+otherwise rather use #see :: [[has_encoding_format]]  . 
 
 Use it like this: 
 - [ #has_/text_of_/encoding_type :: Text ] or 

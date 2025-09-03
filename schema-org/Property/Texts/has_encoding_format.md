@@ -30,8 +30,8 @@ type: Pred_Text
 
 # [[has_encoding_format]] 
 
-
 Predicate to describe the media type or MIME type of a [[CreativeWork]] or [[MediaObject]].
+Use **`encodingFormat`** in most cases, since it is more general and widely adopted. 
 
 Use it like this: 
 - [ #has_/text_of_/encoding_format :: Text, URL ] or 
