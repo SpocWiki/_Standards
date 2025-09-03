@@ -155,7 +155,7 @@ worshipped_by:
 ## #has_/text_of_/abstract 
 
 > **Abraham** (originally Abram) is the common Hebrew patriarch of the Abrahamic religions, 
-> including Judaism, Christianity, and Islam. 
+> including Judaism, [[Christianity]], and [[Islam]]. 
 > 
 > In Judaism, he is the founding father 
 > who began the covenantal relationship between the Jewish people and God; 
@@ -166,11 +166,62 @@ worshipped_by:
 >
 > The story of the life of Abraham, as told in the narrative of the Book of Genesis in the Hebrew Bible, revolves around the themes of posterity and land. He is said to have been called by God to leave the house of his father Terah and settle in the land of Canaan, which God now promises to Abraham and his progeny. This promise is subsequently inherited by Isaac, Abraham's son by his wife Sarah, while Isaac's half-brother Ishmael is also promised that he will be the founder of a great nation. Abraham purchases a tomb (the Cave of the Patriarchs) at Hebron to be Sarah's grave, thus establishing his right to the land; and, in the second generation, his heir Isaac is married to a woman from his own kin to earn his parents' approval. Abraham later marries Keturah and has six more sons; but, on his death, when he is buried beside Sarah, it is Isaac who receives "all Abraham's goods" while the other sons receive only "gifts".
 >
-> Most scholars view the patriarchal age, along with the Exodus and the period of the biblical judges, as a late literary construct that does not relate to any particular historical era. It is largely concluded that the Torah, the series of books that includes Genesis, was composed during the Persian period, as a result of tensions between Jewish landowners who had stayed in Judah during the Babylonian captivity and traced their right to the land through their "father Abraham", and the returning exiles who based their counterclaim on Moses and the Exodus tradition of the Israelites.
+> Most scholars view the patriarchal age, 
+> along with the Exodus and the period of the biblical judges, 
+> as a late literary construct that does not relate to any particular historical era. 
+> It is largely concluded that the Torah, the series of books that includes Genesis, 
+> was composed during the Persian period, 
+> as a result of tensions between Jewish landowners 
+> who had stayed in Judah during the Babylonian captivity 
+> and traced their right to the land through their "father Abraham", 
+> and the returning exiles who based their counterclaim on Moses 
+> and the Exodus tradition of the Israelites.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Abraham) 
 
 
+```mermaid
+graph TD
+    A[Abraham,-1900] --> I[Isaac,-1800]
+    I --> C[Jacob/Israel,-1750]
+    C --> L[Levi,-1700]
+    C --> R[Reuben]
+    C --> S[Simeon]
+    C --> C4[Judah]
+    C --> D[Dan]
+    C --> N[Naphtali]
+    C --> C7[Gad]
+    C --> C8[Asher]
+    C --> C9[Issachar]
+    C --> Z[Zebulun]
+    C --> J[Joseph]
+    C --> B[Benjamin]
+    
+    %% Levi Lineage
+    L --> K[Kohath]
+    K --> E[Amram,-1350]
+    E --> F[Aaron]
+    E --> G[Miriam]
+    E --> M[Moses,-1250]
+    
+    J --> Manasseh
+    J --> Ephraim
+    
+    %% Abraham's Other Line
+    A --> Il[Ishmael, forefather of 12 islamic tribes in Arabia]
+```
+
+### Jacob
+
+- Jacob is called _Israel_ in Genesis 32:28, after wrestling with an angel. 
+- His 12 sons became heads of the families that later grew into tribes across Canaan.
+- The exception is **Joseph**, whose inheritance was given to his two sons, **Manasseh** and **Ephraim**, 
+  thus creating **two half-tribes** in place of Joseph. This preserved the symbolic number “12.”
+- The **Levites**, while descended from Levi, were set apart for priestly duties instead of receiving contiguous tribal territory. 
+
+## Ishmael 
+
+Ishmael is the **first son of Abraham**, born through Hagar. He lived **137 years** (Genesis 25:17) and, like Jacob, was said to have **12 sons**, each becoming a tribal chief in Arabia.
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Abraham](/_Standards/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.md) 
