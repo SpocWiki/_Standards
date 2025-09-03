@@ -27,6 +27,8 @@ title: has_text_of_encoding_type
 type: Pred_Text
 ---
 
+# [[has_encoding_type]] 
+
 Predicate to indicates the supported [[has_content_type|content-type]]s of a Service-[[../../Class/is_a_/Intangible/entry_point|EntryPoint]]. 
 
 Use it like this: 
