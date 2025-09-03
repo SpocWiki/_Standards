@@ -27,7 +27,7 @@ which cost MOS 1M$ in Layer Fees and 300k$ Damage.
 [[Commodore_Int]] was also affected by [[Texas_Instruments]]' Strategy 
 and acquired [[MOS]] for a ridiculously low Price to produce Calculator Chips. 
 [[Commodore_Int]] didn't intend to build a Computer, 
-but [[Radioshack]] requested a Computer from Commodore, so they turned to [[../../../../../../../../../IT/HardWare/HW~Companies/Apple_Inc]] first. 
+but [[Radioshack]] requested a Computer from Commodore, so they turned to [[../../../../../../../../Technology/IT/Computer_Hardware/Apple_Inc]] first. 
 But Steve Jobs would not sell their company. (Eventually the [[Apple_II]] used a [[MOS6502]]. ) 
 Commodore tried to spice up the Deal with Calculators, then Radioshack also turned them down. 
 So Radioshack built their own Computer hosting a [[Zilog~Z80]]. 

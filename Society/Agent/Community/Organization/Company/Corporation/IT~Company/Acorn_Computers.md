@@ -34,7 +34,7 @@ The same happened for the [[Acorn_Electron]]
 They missed the Home Computer Market at Christmas 1983 
 and by 1984 were overtaken by 16 Bit Computers and taken over by [[Olivetti]].
 
-Acorn was named after [[../../../../../../../../IT/HardWare/HW~Companies/Apple_Inc]] so it comes before them in a Phone Book. 
+Acorn was named after [[../../../../../../../Technology/IT/Computer_Hardware/Apple_Inc]] so it comes before them in a Phone Book. 
 
 
 ## Confidential Links & Embeds: 

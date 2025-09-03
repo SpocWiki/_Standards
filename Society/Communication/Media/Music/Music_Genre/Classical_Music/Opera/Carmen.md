@@ -64,7 +64,7 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "BizetsCarmenPremiersPar
 
 # [[Carmen]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Carmen,185968|WD~Carmen,185968]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Carmen,185968|WD~Carmen,185968]] 
 
 ## #has_/text_of_/abstract 
 
@@ -102,7 +102,7 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "BizetsCarmenPremiersPar
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carmen](/_Standards/Society/Communication/Media/Music/Music_Genre/Opera/Carmen.md) 
+### #is_/same_as :: [Carmen](Carmen.md) 
 
 ### #is_/same_as :: [Carmen.public](/_public/Society/Communication/Media/Music/Music_Genre/Opera/Carmen.public.md) 
 

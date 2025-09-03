@@ -25,7 +25,7 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/ARIYA.html
 
 # [[Aria]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Aria,178122|WD~Aria,178122]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Aria,178122|WD~Aria,178122]] 
 
 ## #has_/text_of_/abstract 
 
@@ -38,7 +38,7 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/ARIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aria](/_Standards/Society/Communication/Media/Music/Music_Genre/Opera/Aria.md) 
+### #is_/same_as :: [Aria](Aria.md) 
 
 ### #is_/same_as :: [Aria.public](/_public/Society/Communication/Media/Music/Music_Genre/Opera/Aria.public.md) 
 

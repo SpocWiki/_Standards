@@ -2,7 +2,7 @@
 ## #has_/text_of_/abstract 
 
 > **Apple II** ("apple two", stylized as `Apple ][`) is a series of microcomputers 
-> manufactured by [[../../../../../IT/HardWare/HW~Companies/Apple_Inc|Apple Computer, Inc]]. from 1977 to 1993. 
+> manufactured by [[../Apple_Inc|Apple Computer, Inc]]. from 1977 to 1993. 
 > The original Apple II model, which gave the series its name, 
 > was designed by [[Wozniak,Steve]] and was first sold on June 10, 1977. 
 > 
