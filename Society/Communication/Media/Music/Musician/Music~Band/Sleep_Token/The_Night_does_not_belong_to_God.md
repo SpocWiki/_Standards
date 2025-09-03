@@ -31,7 +31,7 @@ type: private_note
 #is_/part_of :: [[../Sleep_Token]] 
 #is_/similar_to :: [[Euclid(Sleep_Token)]] 
 
-## #has_/lyrics 
+## #has_/text_of_/lyrics 
 
 ```lyrics
 When you live, by daylight  

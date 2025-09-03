@@ -16,7 +16,7 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Everlong)
 
 
-## #has_/lyrics 
+## #has_/text_of_/lyrics 
 
 (
 du du  du du  du du  dubidu

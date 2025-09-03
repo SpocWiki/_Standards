@@ -35,7 +35,7 @@ Ends with the same chords in Major
 as [[#The Night does not belong to God]] which starts in Minor, 
 so you can mash them up together, literally "entangled endlessly". 
 
-## #has_/lyrics 
+## #has_/text_of_/lyrics 
 
 Just run it back, give me five whole minutes  
 I am thick tar on the inside burning  

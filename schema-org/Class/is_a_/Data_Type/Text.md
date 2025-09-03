@@ -28,10 +28,15 @@ type: Type
 
 # [[text]] 
 
+#is_/similar_to :: [[../../../../../IT/Data/Data~Text/JSON(JavaScript_Object_Notation)/Type~primitive/Type~String]] 
+
 Class of all texts.
 
 Tag Instances like this: 
-#is_a_/text
+#is_a_/text 
+
+but typically this is not necessary, because Text is treated as a Scalar/Struct instead of an Object. 
+
 
 Data type: Text.
 
