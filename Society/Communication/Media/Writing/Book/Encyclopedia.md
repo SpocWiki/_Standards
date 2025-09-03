@@ -59,6 +59,10 @@ UMLS_CUI: C0014095
 UNSPSC_Code: 55101525
 ---
 
+# [[Encyclopedia]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Encyclopedia,5292|WD~Encyclopedia,5292]] 
+
 ## #has_/text_of_/abstract 
 
 > An **Encyclopedia** is a reference work or compendium providing summaries of knowledge, either general or special, in a particular field or discipline. Encyclopedias are divided into articles or entries that are arranged alphabetically by article name or by thematic categories, or else are hyperlinked and searchable. Encyclopedia entries are longer and more detailed than those in most dictionaries. Generally speaking, encyclopedia articles focus on factual information concerning the subject named in the article's title; this is unlike dictionary entries, which focus on linguistic information about words, such as their etymology, meaning, pronunciation, use, and grammatical forms.

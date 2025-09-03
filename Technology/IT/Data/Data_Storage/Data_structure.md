@@ -5,7 +5,7 @@ has_id_wikidata: Q175263
 
 # [[Data_structure]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Data_structure,175263|WD~Data_structure,175263]] 
+#is_/same_as :: [[../../../../WikiData/WD~Data_structure,175263|WD~Data_structure,175263]] 
 
 It mostly relates to the Structure in the Working Memory (RAM), 
 to allow for fast access by the CPU, 

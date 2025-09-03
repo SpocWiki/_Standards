@@ -41,7 +41,7 @@ Media type typically expressed using a MIME format (see [IANA site](http://www.i
 e.g. application/zip for a SoftwareApplication binary, audio/mpeg for .mp3 etc.
 
 In cases where a [[CreativeWork]] has several media type representations, 
-[[encoding]] can be used to indicate each [[MediaObject]] alongside particular [[encodingFormat]] information.
+[[../../../Technology/IT/Data/Code/Encoding]] can be used to indicate each [[MediaObject]] alongside particular [[encodingFormat]] information.
 
 Unregistered or niche encoding and file formats can be indicated instead via the most appropriate URL, 
 e.g. defining Web page or a Wikipedia/Wikidata entry.

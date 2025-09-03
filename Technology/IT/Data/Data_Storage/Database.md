@@ -43,7 +43,7 @@ IEV_number: 171-09-21
 
 # [[Database]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Database,8513|WD~Database,8513]] 
+#is_/same_as :: [[../../../../WikiData/WD~Database,8513|WD~Database,8513]] 
 
 ## #has_/text_of_/abstract 
 

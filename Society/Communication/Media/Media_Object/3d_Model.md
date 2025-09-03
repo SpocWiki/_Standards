@@ -32,7 +32,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A 3D model represents some kind of 3D content, which may have [[encoding]]s in one or more [[MediaObject]]s. 
+A 3D model represents some kind of 3D content, which may have [[../../../../Technology/IT/Data/Code/Encoding]]s in one or more [[MediaObject]]s. 
 
 Many 3D formats are available (e.g. see <a href="https://en.wikipedia.org/wiki/Category:3D_graphics_file_formats">Wikipedia</a>); 
 specific encoding formats can be represented using the [[encodingFormat]] property applied to the relevant [[MediaObject]]. 

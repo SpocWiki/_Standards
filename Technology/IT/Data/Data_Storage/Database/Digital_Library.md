@@ -36,7 +36,7 @@ name_in_kana: でんしとしょかん
 
 # [[Digital_Library]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Digital_library,212805|WD~Digital_library,212805]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Digital_library,212805|WD~Digital_library,212805]] 
 
 ## #has_/text_of_/abstract 
 

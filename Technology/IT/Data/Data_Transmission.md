@@ -15,7 +15,7 @@ Commons_category: Data transmission
 
 # [[Data_Transmission]] 
 
-#is_/same_as :: [[../../WikiData/WD~Data_transmission,389772|WD~Data_transmission,389772]] 
+#is_/same_as :: [[../../../WikiData/WD~Data_transmission,389772|WD~Data_transmission,389772]] 
 
 ## #has_/text_of_/abstract 
 

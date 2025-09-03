@@ -18,7 +18,7 @@ MeSH_tree_code:
 
 # [[Data_Warehouse]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Data_warehouses,193351|WD~Data_warehouses,193351]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Data_warehouses,193351|WD~Data_warehouses,193351]] 
 
 ## #has_/text_of_/abstract 
 
