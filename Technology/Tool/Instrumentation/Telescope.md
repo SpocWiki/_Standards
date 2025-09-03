@@ -43,7 +43,7 @@ Commons_gallery: Telescope
 
 # [[Telescope]] 
 
-#is_/same_as :: [[../../WikiData/WD~Telescope,4213|WD~Telescope,4213]] 
+#is_/same_as :: [[../../../WikiData/WD~Telescope,4213|WD~Telescope,4213]] 
 
 ## #has_/text_of_/abstract 
 

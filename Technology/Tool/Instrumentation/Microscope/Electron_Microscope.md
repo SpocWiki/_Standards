@@ -25,7 +25,7 @@ time_of_discovery_or_invention: 1931-01-01T00:00:00Z
 
 # [[Electron_Microscope]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Electron_microscope,132560|WD~Electron_microscope,132560]] 
+#is_/same_as :: [[../../../../WikiData/WD~Electron_microscope,132560|WD~Electron_microscope,132560]] 
 
 ## #has_/text_of_/abstract 
 

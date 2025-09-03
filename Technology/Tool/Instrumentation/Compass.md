@@ -37,7 +37,7 @@ Krugosvet_article: geografiya/kompas
 
 # [[Compass]] 
 
-#is_/same_as :: [[../../WikiData/WD~Compass,34735|WD~Compass,34735]] 
+#is_/same_as :: [[../../../WikiData/WD~Compass,34735|WD~Compass,34735]] 
 
 ## #has_/text_of_/abstract 
 

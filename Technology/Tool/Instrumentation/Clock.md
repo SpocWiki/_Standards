@@ -34,7 +34,7 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 
 # [[Clock]] 
 
-#is_/same_as :: [[../../WikiData/WD~Clock,376|WD~Clock,376]] 
+#is_/same_as :: [[../../../WikiData/WD~Clock,376|WD~Clock,376]] 
 
 ## #has_/text_of_/abstract 
 

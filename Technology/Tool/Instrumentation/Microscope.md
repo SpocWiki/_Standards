@@ -35,7 +35,7 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/MIKROSKOP.html
 
 # [[Microscope]] 
 
-#is_/same_as :: [[../../WikiData/WD~Microscope,196538|WD~Microscope,196538]] 
+#is_/same_as :: [[../../../WikiData/WD~Microscope,196538|WD~Microscope,196538]] 
 
 ## #has_/text_of_/abstract 
 
