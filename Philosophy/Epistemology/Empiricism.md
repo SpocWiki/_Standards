@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Empirismus
 has_id_wikidata: Q83368
 opposite_of:
   - "[[_Standards/WikiData/WD~rationalism,483024]]"
@@ -31,7 +32,11 @@ MeSH_tree_code: K01.752.667.400
 
 ## #has_/text_of_/abstract 
 
-> In philosophy, **Empiricism** is an epistemological view which holds that true knowledge or justification comes only or primarily from sensory experience and empirical evidence. It is one of several competing views within epistemology, along with rationalism and skepticism. Empiricists argue that empiricism is a more reliable method of finding the truth than purely using logical reasoning, because humans have cognitive biases and limitations which lead to errors of judgement. Empiricism emphasizes the central role of empirical evidence in the formation of ideas, rather than innate ideas or traditions. Empiricists may argue that traditions (or customs) arise due to relations of previous sensory experiences. 
+> In philosophy, **Empiricism** is an epistemological view which holds 
+> that true knowledge or justification comes only or primarily from sensory experience and empirical evidence. 
+> It is one of several competing views within [[../Epistemology|epistemology]], along with [[rationalism]] and [[skepticism]]. 
+> 
+> Empiricists argue that empiricism is a more reliable method of finding the truth than purely using logical reasoning, because humans have cognitive biases and limitations which lead to errors of judgement. Empiricism emphasizes the central role of empirical evidence in the formation of ideas, rather than innate ideas or traditions. Empiricists may argue that traditions (or customs) arise due to relations of previous sensory experiences. 
 >
 > Historically, empiricism was associated with the "blank slate" concept (tabula rasa), according to which the human mind is "blank" at birth and develops its thoughts only through later experience. 
 >

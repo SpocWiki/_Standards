@@ -1,6 +1,27 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q187634
+subclass_of: "[[_Standards/WikiData/WD~colloid,181780]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+OmegaWiki_Defined_Meaning: "1162"
+UNSPSC_Code: "12161804"
+Dewey_Decimal_Classification:
+  - "615.19"
+  - "541.34514"
+  - "660.294514"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Emulsions.svg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Emulsie-article.ogg
+exact_match: http://purl.obolibrary.org/obo/ENVO_00010506
+UMLS_CUI: C0014020
+MeSH_tree_code:
+  - D20.280.260
+  - D26.255.165.260
+Commons_category: Emulsions
 ---
 
 # [[Emulsion]] 
