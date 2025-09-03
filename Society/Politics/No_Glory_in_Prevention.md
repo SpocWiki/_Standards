@@ -8,7 +8,7 @@ The saying that there is [[No Glory in Prevention]] can be applied in any number
 - [[../../../Life/Existential_Threat/Climate_Change|Climate_Change]] 
 - [[../../../Knowledge/Military.internal/Military~Aggressor|Military~Aggressor]] 
 - [[../../schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care|HealthCare]] 
-	- e.g. [[Vaccination]] 
+	- e.g. [[../../../_private/bio/Medicine/Health/Vaccination]] 
 - [[../../../IT/Programming/Refactoring|Refactoring]] 
 - [[Reform]] vs [[../../../_protect/Society/Sociology/Revolution|Revolution]] 
 - etc. 
