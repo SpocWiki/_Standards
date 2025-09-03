@@ -77,7 +77,7 @@ type: Type
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_energy,7112616]]'
 ---
 
-# [[has_energy]] 
+# [[has_value_for_energy]] 
 
 Class of all energy-values.
 
@@ -86,9 +86,9 @@ Tag Instances like this:
 
 Properties that take Energy as values are of the form '{Number} {Energy unit of measure}'.
 
-[ #is_/sub_class_of :: [[../Quantity]]]] ] 
+#is_/sub_class_of :: [[../Quantity]] 
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] 
 
 
 

@@ -105,7 +105,7 @@ Properties that take Energy as values are of the form '{Number} {Energy unit of 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [energy](/_Standards/schema-org/Predicate/Quantity/energy.md) 
+### #is_/same_as :: [has_energy](has_energy.md) 
 
 ### #is_/same_as :: [energy.public](/_public/schema-org/Predicate/Quantity/energy.public.md) 
 
