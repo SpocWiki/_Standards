@@ -28,6 +28,9 @@ title: has_text_of_encoding_format
 type: Pred_Text
 ---
 
+# [[has_encoding_format]] 
+
+
 Predicate to describe the media type or MIME type of a [[CreativeWork]] or [[MediaObject]].
 
 Use it like this: 
