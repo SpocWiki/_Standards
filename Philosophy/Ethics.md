@@ -51,6 +51,8 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/ethics"
 
 # [[Ethics]] 
 
+#is_/same_as :: [[../WikiData/WD~Ethics,9465|WD~Ethics,9465]] 
+
 ## #has_/text_of_/abstract 
 
 > **Ethics** is the philosophical study of moral phenomena. Also called moral philosophy, it investigates normative questions about what people ought to do or which behavior is morally right. Its main branches include normative ethics, applied ethics, and metaethics.

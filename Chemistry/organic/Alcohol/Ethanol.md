@@ -258,6 +258,7 @@ H-C-C-O-H
 C-C-O
 ```
 
+#is_/same_as :: [[../../../WikiData/WD~Ethanol,153|WD~Ethanol,153]] 
 
 ## #has_/text_of_/abstract 
 

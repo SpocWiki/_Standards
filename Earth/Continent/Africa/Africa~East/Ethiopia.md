@@ -458,7 +458,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Ethiopia/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: ETB ]
 [	ISO4217-currency_name	 :: Ethiopian Birr ]
 [	ISO4217-currency_numeric	 :: 230 ]
@@ -522,10 +521,13 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 231 ]
 
-
-
 [ISO2::ET]
 [ISO3::ETH]
+
+#is_/same_as :: [[../../../../WikiData/WD~Ethiopia,115|WD~Ethiopia,115]] 
+
+## #has_/map 
+
 ```leaflet
 id: Ethiopia
 zoomFeatures: true 
