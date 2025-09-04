@@ -19,7 +19,9 @@ Commons_category: Astrometry
 
 ## #has_/text_of_/abstract 
 
-> **Astrometry** is a branch of astronomy that involves precise measurements of the positions and movements of stars and other celestial bodies. It provides the kinematics and physical origin of the Solar System and this galaxy, the Milky Way.
+> **Astrometry** is a branch of astronomy that involves precise measurements 
+> of the positions and movements of stars and other celestial bodies. 
+> It provides the kinematics and physical origin of the Solar System and this galaxy, the Milky Way.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astrometry) 
 

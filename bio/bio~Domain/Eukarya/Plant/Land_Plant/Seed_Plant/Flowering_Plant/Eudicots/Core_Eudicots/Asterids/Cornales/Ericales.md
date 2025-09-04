@@ -1,10 +1,23 @@
 ---
 title: Ericales
+has_id_wikidata: Q21737
+parent_taxon: "[[_Standards/WikiData/WD~asterids,747502]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "23443"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/RhododendronSimsiiFlowers2.jpg
+Commons_category: Ericales
+taxon_name: Ericales
+EPPO_Code: 1ERIO
+NBN_System_Key: NHMSYS0021060388
+taxon_common_name: 杜鹃花目
 ---
 
 # [[Ericales]] 
 
 ![Erica_vagans](Ericales/Erica_vagans.jpg)  ![Primula_patens](Ericales/Primula_patens.jpg)  ![Sarracenia_alabamensis](Ericales/Sarracenia_alabamensis.jpg) 
+
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Ericales,21737|WD~Ericales,21737]] 
 
 ## #has_/text_of_/abstract 
 

@@ -30,13 +30,42 @@ MeSH_tree_code: F01.145.813.105
 
 ## #has_/text_of_/abstract 
 
-> **Competition** is a rivalry where two or more parties strive for a common goal which cannot be shared: where one's gain is the other's loss (an example of which is a zero-sum game). Competition can arise between entities such as organisms, individuals, economic and social groups, etc. The rivalry can be over attainment of any exclusive goal, including recognition.
+> **Competition** is a rivalry where two or more parties strive 
+> for a common goal which cannot be shared: where one's gain is the other's loss 
+> (an example of which is a zero-sum game). 
 >
-> Competition occurs in nature, between living organisms which co-exist in the same environment. Animals compete over water supplies, food, mates, and other biological resources. Humans usually compete for food and mates, though when these needs are met deep rivalries often arise over the pursuit of wealth, power, prestige, and fame when in a static, repetitive, or unchanging environment. Competition is a major tenet of market economies and business, often associated with business competition as companies are in competition with at least one other firm over the same group of customers. Competition inside a company is usually stimulated with the larger purpose of meeting and reaching higher quality of services or improved products that the company may produce or develop.
+> Competition can arise between entities eg organisms, individuals, economic, social groups, etc. 
+> The rivalry can be over attainment of any exclusive goal, including recognition.
 >
-> Competition is often considered to be the opposite of cooperation; however, in the real world, mixtures of cooperation and competition are the norm. In economies, as the philosopher R. G. Collingwood argued "the presence of these two opposites together is essential to an economic system. The parties to an economic action co-operate in competing, like two chess players". Optimal strategies to achieve goals are studied in the branch of mathematics known as game theory.
+> Competition occurs in nature, between living 
+> organisms which co-exist in the same environment. 
+> Animals compete over water supplies, food, mates, and other biological resources. 
 >
-> Competition has been studied in several fields, including psychology, sociology and anthropology. Social psychologists, for instance, study the nature of competition. They investigate the natural urge of competition and its circumstances. They also study group dynamics, to detect how competition emerges and what its effects are. Sociologists, meanwhile, study the effects of competition on society as a whole. Additionally, anthropologists study the history and prehistory of competition in various cultures. They also investigate how competition manifested itself in various cultural settings in the past, and how competition has developed over time.
+> Humans usually compete for food and mates, though when these needs are met 
+> deep rivalries often arise over the pursuit of wealth, power, prestige, and fame 
+> when in a static, repetitive, or unchanging environment. 
+> 
+> Competition is a major tenet of market economies and business, 
+> often associated with business competition among companies.
+> Competition inside a company is usually stimulated with the larger purpose of meeting 
+> and reaching higher quality of services or improved products that the company may produce or develop.
+>
+> Competition is often considered to be the opposite of cooperation; 
+> however, in the real world, mixtures of cooperation and competition are the norm. 
+> In economies, as the philosopher R. G. Collingwood argued 
+> "the presence of these two opposites together is essential to an economic system. 
+> The parties to an economic action co-operate in competing, like two chess players". 
+> Optimal strategies to achieve goals are studied in the branch of 
+> mathematics known as [[Game_Theory]].
+>
+> Competition has been studied in several fields, including psychology, sociology and anthropology. 
+> Social psychologists, for instance, study the nature of competition. 
+> They investigate the natural urge of competition and its circumstances. 
+> They also study group dynamics, to detect how competition emerges and what its effects are. 
+> Sociologists, meanwhile, study the effects of competition on society as a whole. 
+> Additionally, anthropologists study the history and prehistory of competition in various cultures. 
+> They also investigate how competition manifested itself in various cultural settings in the past, 
+> and how competition has developed over time.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Competition) 
 

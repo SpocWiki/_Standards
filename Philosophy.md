@@ -1,99 +1,103 @@
 ---
 All_Science_Journal_Classification_Codes: 1211
 Baidu_Tieba_name: 哲学
-Basisklassifikation: 08
+Basisklassifikation: 8
 Colon_Classification: R
 Commons_category: Philosophy
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 Dewey_Decimal_Classification:
-- 109
-- 100
+  - 109
+  - 100
 DFG_Science_Classification: 108
-different_from: '[[_Standards/WikiData/WD~dogma,620749]]'
+different_from: "[[_Standards/WikiData/WD~dogma,620749]]"
 GitHub_topic: philosophy
 hashtag: philosophy
-has_characteristic: '[[_Standards/WikiData/WD~interdisciplinarity,849359]]'
-has_effect: '[[_Standards/WikiData/WD~philosophical_viewpoint,30046560]]'
+has_characteristic: "[[_Standards/WikiData/WD~interdisciplinarity,849359]]"
+has_effect: "[[_Standards/WikiData/WD~philosophical_viewpoint,30046560]]"
 has_id_wikidata: Q5891
 has_list:
-- '[[_Standards/WikiData/WD~list_of_schools_of_philosophy,1031854]]'
-- '[[_Standards/WikiData/WD~list_of_philosophies,1743282]]'
+  - "[[_Standards/WikiData/WD~list_of_schools_of_philosophy,1031854]]"
+  - "[[_Standards/WikiData/WD~list_of_philosophies,1743282]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~political_philosophy,179805]]'
-- '[[_Standards/WikiData/WD~philosophy_of_mathematics,180536]]'
-- '[[_Standards/WikiData/WD~philosophy_of_history,190721]]'
-- '[[_Standards/WikiData/WD~philosophy_of_religion,209295]]'
-- '[[_Standards/WikiData/WD~philosophy_of_language,484761]]'
-- '[[_Standards/WikiData/WD~philosophy_of_logic,2476757]]'
-- '[[_Standards/WikiData/WD~moral_philosophy,16669800]]'
-- '[[_Standards/WikiData/WD~logic,8078]]'
-- '[[_Standards/WikiData/WD~ethics,9465]]'
-- '[[_Standards/WikiData/WD~epistemology,9471]]'
-- '[[_Standards/WikiData/WD~philosophy_of_mind,23407]]'
-- '[[_Standards/WikiData/WD~metaphysics,35277]]'
-- '[[_Standards/WikiData/WD~aesthetics,35986]]'
-- '[[_Standards/WikiData/WD~ontology,44325]]'
-- '[[_Standards/WikiData/WD~philosophy_of_science,59115]]'
+  - "[[_Standards/WikiData/WD~political_philosophy,179805]]"
+  - "[[_Standards/WikiData/WD~philosophy_of_mathematics,180536]]"
+  - "[[_Standards/WikiData/WD~philosophy_of_history,190721]]"
+  - "[[_Standards/WikiData/WD~philosophy_of_religion,209295]]"
+  - "[[_Standards/WikiData/WD~philosophy_of_language,484761]]"
+  - "[[_Standards/WikiData/WD~philosophy_of_logic,2476757]]"
+  - "[[_Standards/WikiData/WD~moral_philosophy,16669800]]"
+  - "[[_Standards/WikiData/WD~logic,8078]]"
+  - "[[_Standards/WikiData/WD~ethics,9465]]"
+  - "[[_Standards/WikiData/WD~epistemology,9471]]"
+  - "[[_Standards/WikiData/WD~philosophy_of_mind,23407]]"
+  - "[[_Standards/WikiData/WD~metaphysics,35277]]"
+  - "[[_Standards/WikiData/WD~aesthetics,35986]]"
+  - "[[_Standards/WikiData/WD~ontology,44325]]"
+  - "[[_Standards/WikiData/WD~philosophy_of_science,59115]]"
 history_of_topic:
-- '[[_Standards/WikiData/WD~Eastern_philosophy,307043]]'
-- '[[_Standards/WikiData/WD~Western_philosophy,842333]]'
-- '[[_Standards/WikiData/WD~history_of_philosophy,27654]]'
+  - "[[_Standards/WikiData/WD~Eastern_philosophy,307043]]"
+  - "[[_Standards/WikiData/WD~Western_philosophy,842333]]"
+  - "[[_Standards/WikiData/WD~history_of_philosophy,27654]]"
 Iconclass_notation: 49C2
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hortus%20Deliciarum%2C%20Philosophy%20and%20the%20seven%20liberal%20arts%20%28cropped%29.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Hortus%20Deliciarum%2C%20Philosophy%20and%20the%20seven%20liberal%20arts%20%28cropped%29.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~genre,483394]]'
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - "[[_Standards/WikiData/WD~genre,483394]]"
+  - "[[_Standards/WikiData/WD~field_of_work,627436]]"
+  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 IPTC_NewsCode: mediatopic/20000751
 is_the_study_of:
-- '[[_Standards/WikiData/WD~condition,813912]]'
-- '[[_Standards/WikiData/WD~phenomenon,16722960]]'
-- '[[_Standards/WikiData/WD~knowledge,9081]]'
-- '[[_Standards/WikiData/WD~reality,9510]]'
+  - "[[_Standards/WikiData/WD~condition,813912]]"
+  - "[[_Standards/WikiData/WD~phenomenon,16722960]]"
+  - "[[_Standards/WikiData/WD~knowledge,9081]]"
+  - "[[_Standards/WikiData/WD~reality,9510]]"
 Krugosvet_article: gumanitarnye_nauki/filosofiya/FILOSOFIYA.html
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]"
 MeSH_tree_code: K01.752
-named_by: '[[_Standards/WikiData/WD~Pythagoras,10261]]'
+named_by: "[[_Standards/WikiData/WD~Pythagoras,10261]]"
 OmegaWiki_Defined_Meaning: 2773
-part_of: '[[_Standards/WikiData/WD~humanities,80083]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12960900,12960900]]'
+part_of: "[[_Standards/WikiData/WD~humanities,80083]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q12960900,12960900]]"
 practiced_by:
-- '[[_Standards/WikiData/WD~philosopher,4964182]]'
-- '[[_Standards/WikiData/WD~professor_of_philosophy,26973007]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8.wav"
+  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
+  - "[[_Standards/WikiData/WD~professor_of_philosophy,26973007]]"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8.wav
 Provenio_UUID: 9409ac0f-d4ca-4293-8f76-d3874a78be28
-Regensburg_Classification: "CA - CK"
+Regensburg_Classification: CA - CK
 spoken_text_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/F%C9%99ls%C9%99f%C9%99.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Philosophy%20%28spoken%20by%20AI%20voice%29.mp3"
-Stack_Exchange_site_URL: "https://philosophy.stackexchange.com/"
-subclass_of: '[[_Standards/WikiData/WD~knowledge_system,105948247]]'
+  - http://commons.wikimedia.org/wiki/Special:FilePath/F%C9%99ls%C9%99f%C9%99.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Philosophy%20%28spoken%20by%20AI%20voice%29.mp3
+Stack_Exchange_site_URL: https://philosophy.stackexchange.com/
+subclass_of: "[[_Standards/WikiData/WD~knowledge_system,105948247]]"
 subreddit:
-- philosophie
-- philosophy
+  - philosophie
+  - philosophy
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Philosophy_sidebar,5621485]]'
-- '[[_Standards/WikiData/WD~Template_Philosophy_topics,6176449]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Philosophy,3290113]]'
+  - "[[_Standards/WikiData/WD~Template_Philosophy_sidebar,5621485]]"
+  - "[[_Standards/WikiData/WD~Template_Philosophy_topics,6176449]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Philosophy,3290113]]"
 uses:
-- '[[_Standards/WikiData/WD~thought_experiment,147027]]'
-- '[[_Standards/WikiData/WD~phenomenology,179235]]'
-- '[[_Standards/WikiData/WD~intuition,189222]]'
-- '[[_Standards/WikiData/WD~common_sense,332880]]'
-- '[[_Standards/WikiData/WD~philosophical_analysis,488152]]'
-- '[[_Standards/WikiData/WD~Socratic_questioning,4926165]]'
-- '[[_Standards/WikiData/WD~ordinary_language,7100846]]'
-- '[[_Standards/WikiData/WD~philosophical_method,7186193]]'
+  - "[[_Standards/WikiData/WD~thought_experiment,147027]]"
+  - "[[_Standards/WikiData/WD~phenomenology,179235]]"
+  - "[[_Standards/WikiData/WD~intuition,189222]]"
+  - "[[_Standards/WikiData/WD~common_sense,332880]]"
+  - "[[_Standards/WikiData/WD~philosophical_analysis,488152]]"
+  - "[[_Standards/WikiData/WD~Socratic_questioning,4926165]]"
+  - "[[_Standards/WikiData/WD~ordinary_language,7100846]]"
+  - "[[_Standards/WikiData/WD~philosophical_method,7186193]]"
 U_S_National_Archives_Identifier: 10642509
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/philosophy"
+WordLift_URL: http://data.thenextweb.com/tnw/entity/philosophy
+aliases:
+  - Philosophie
+  - philosophisch
+  - philosophical
 ---
 
 # [[Philosophy]] 

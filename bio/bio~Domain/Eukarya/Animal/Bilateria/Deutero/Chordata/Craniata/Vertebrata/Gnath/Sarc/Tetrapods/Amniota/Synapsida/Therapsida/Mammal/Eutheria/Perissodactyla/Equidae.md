@@ -1,19 +1,48 @@
 ---
 has_id_wikidata: Q165115
+aliases:
+  - horse family
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+parent_taxon:
+  - "[[_Standards/WikiData/WD~Hippomorpha,2292292]]"
+  - "[[_Standards/WikiData/WD~Equoidea,21445554]]"
+has_list: "[[_Standards/WikiData/WD~glossary_of_equestrian_terms,2950573]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Taxonomy_Equidae,13218338]]"
+code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+OmegaWiki_Defined_Meaning: "1335"
+ITIS_TSN: "180688"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Equus%20species.jpg
+EPPO_Code: 1EQUUF
+MeSH_tree_code: B01.050.150.900.649.313.984.235
+UMLS_CUI: C0324146
+Commons_category: Equidae
+taxon_name: Equidae
+NBN_System_Key: NHMSYS0000376630
+taxon_common_name: hestefamilien
+start_time: -54000000-01-01T00:00:00Z
 ---
 
 # [[Equidae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Equidae,165115|WD~Equidae,165115]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Equidae,165115|WD~Equidae,165115]]  
 
 ## #has_/text_of_/abstract 
 
-> **Equidae** (sometimes known as the horse family) is the taxonomic family of horses and related animals, including the extant horses, asses, and zebras, and many other species known only from fossils. 
+> **Equidae** (sometimes known as the horse family) is the taxonomic family of horses and related animals, 
+> including the extant horses, asses, and zebras, and many other species known only from fossils. 
 > 
-> The family evolved around 50 million years ago from a small, multi-toed ungulate into larger, single-toed animals. 
+> The family evolved around 50 million years ago from a small, multi-toed ungulate 
+> into larger, single-toed animals. 
 > 
 > All extant species are in the genus Equus, which originated in North America. 
-> Equidae belongs to the order Perissodactyla, 
+> Equidae belongs to the order [[../Perissodactyla|Perissodactyla]] , 
 > which includes the extant tapirs and rhinoceros, and several extinct families.
 >
 > The term equid refers to any member of this family, including any equine.
@@ -35,13 +64,13 @@ Here are some notable members of the Equidae family:
 ## Horse (Equus ferus caballus):  
 
 Domesticated over thousands of years, horses have served humans in various capacities, from transportation and agriculture to warfare and sports.
-![[Equidae/Andalusier.jpg]]]
+![[Equidae/Horse/Andalusier.jpg]]]
 
 
 ## Donkey (Equus africanus asinus): 
 
 Donkeys have been domesticated for thousands of years and are used primarily as working animals, particularly in areas with rough terrain where they excel due to their surefootedness and ability to carry heavy loads.
-![[Equidae/Donkey.jpg]]] 
+![[Equidae/Donkey/Donkey.jpg]]] 
 
 ## Zebra (several species in the genus Equus): 
 

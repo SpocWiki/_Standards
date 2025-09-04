@@ -1,4 +1,9 @@
 ---
+aliases:
+  - astronomical
+  - astro
+  - celestial
+  - astronomisch
 All_Science_Journal_Classification_Codes: 3100
 Basisklassifikation: 39
 Colon_Classification: B9
@@ -68,8 +73,6 @@ UMLS_CUI: C0004117
 Universal_Decimal_Classification: 52
 U_S_National_Archives_Identifier: 10637421
 WordLift_URL: http://data.thenextweb.com/tnw/entity/astronomy
-aliases:
-  - astronomical
 ---
 
 # [[Astronomy]] 

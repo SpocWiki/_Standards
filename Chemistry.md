@@ -1,6 +1,9 @@
 ---
 aliases:
   - Chemistry
+  - Chemie
+  - chemical
+  - chemisch
 icon: ":atom symbol:"
 has_id_wikidata: Q2329
 is_the_study_of:

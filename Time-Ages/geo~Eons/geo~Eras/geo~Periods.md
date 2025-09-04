@@ -25,7 +25,7 @@ Wolfram_Language_entity_type: GeologicalPeriod
 # [[geo~Periods]]
 
 #is_/part_of :: [[../geo~Eras]]
-#has_/parts :: [[geo~Periods/geo~Epochs]] 
+#has_/parts :: [[geo~Periods/geo~Epoch]] 
 
 A period is equivalent to a chronostratigraphic system. These are millions to tens of millions of years in length.
 

@@ -47,6 +47,10 @@ narrative_motif:
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%AB%D5%AC%D5%A3%D5%A1%D5%B4%D5%A5%D5%B7%20%28%D5%A7%D5%BA%D5%B8%D5%BD%29%20-%20Epic%20of%20Gilgamesh.ogg"
 ---
 
+# [[Gilgamesh_Epic]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Epic_of_Gilgamesh,8272|WD~Epic_of_Gilgamesh,8272]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Epic of Gilgamesh** () is an epic from ancient Mesopotamia. The literary history of Gilgamesh begins with five Sumerian poems about Gilgamesh (formerly read as Sumerian "Bilgames"), king of Uruk, some of which may date back to the Third Dynasty of Ur (c. 2100 BCE). These independent stories were later used as source material for a combined epic in Akkadian. The first surviving version of this combined epic, known as the "Old Babylonian" version, dates back to the 18th century BCE and is titled after its incipit, Shūtur eli sharrī ("Surpassing All Other Kings"). Only a few tablets of it have survived. The later Standard Babylonian version compiled by Sîn-lēqi-unninni dates to somewhere between the 13th to the 10th centuries BCE and bears the incipit Sha naqba īmuru ("He who Saw the Deep(s)", lit. '"He who Sees the Unknown"'). Approximately two-thirds of this longer, twelve-tablet version have been recovered. Some of the best copies were discovered in the library ruins of the 7th-century BCE Assyrian king Ashurbanipal.

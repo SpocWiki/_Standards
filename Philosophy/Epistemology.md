@@ -35,6 +35,10 @@ topic_s_main_template:
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_epistemology,7112624]]'
 ---
 
+# [[Epistemology]] 
+
+#is_/same_as :: [[../WikiData/WD~Epistemology,9471|WD~Epistemology,9471]] 
+
 ## #has_/text_of_/abstract 
 
 > **Epistemology** is the branch of philosophy that examines the nature, origin, and limits of knowledge. 
