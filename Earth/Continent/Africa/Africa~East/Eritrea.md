@@ -369,10 +369,13 @@ Sub-region_Name ::  [[Sub-Saharan_Africa]]
 
 [	ISO3166-1-numeric	 :: 232 ]
 
-
-
 [ISO2::ER]
-[ISO3::ERI]
+[ISO3::ERI] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Eritrea,986|WD~Eritrea,986]] 
+
+## #has_/map 
+
 ```leaflet
 id: Eritrea
 zoomFeatures: true 
