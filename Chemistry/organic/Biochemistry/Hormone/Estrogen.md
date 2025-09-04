@@ -1,6 +1,7 @@
 ---
 aliases:
-- oestrogen
+- Oestrogen
+- Östrogen
 Commons_category: Estrogens
 different_from: '[[_Standards/WikiData/WD~estrin,30611685]]'
 has_id_wikidata: Q277954
@@ -22,6 +23,10 @@ subclass_of:
 - '[[_Standards/WikiData/WD~hormone,11364]]'
 WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/estrogens"
 ---
+
+# [[Estrogen]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Estrogen,277954|WD~Estrogen,277954]] 
 
 ## #has_/text_of_/abstract 
 

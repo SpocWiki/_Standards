@@ -1,6 +1,7 @@
 ---
 aliases:
   - Wettbewerb
+  - "{ newTitle: }":
 has_id_wikidata: Q476300
 opposite_of:
   - "[[_Standards/WikiData/WD~cooperation,380962]]"
@@ -22,6 +23,35 @@ image:
 equivalent_class: http://dbpedia.org/ontology/Contest
 UMLS_CUI: C0009495
 MeSH_tree_code: F01.145.813.105
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
 
 # [[Competition]] 
@@ -69,3 +99,22 @@ MeSH_tree_code: F01.145.813.105
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Competition) 
 
+
+# [[Competition]] 
+
+#is_/part_of :: [[Competition]] 
+
+![[Competition.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Competition.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

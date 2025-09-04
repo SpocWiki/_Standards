@@ -416,7 +416,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Estonia/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -480,14 +479,12 @@ Sub-region_Name ::  [[Northern Europe]]
 
 [	ISO3166-1-numeric	 :: 233 ]
 
-
-
 [ISO2::EE]
 [ISO3::EST] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Estonia,191|WD~Estonia,191]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Estonia

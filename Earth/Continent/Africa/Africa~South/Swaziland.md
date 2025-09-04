@@ -278,6 +278,11 @@ For more Details, check out this Repository into this Subfolder:
 
 [ISO2::SZ]
 [ISO3::SWZ]
+
+#is_/same_as :: [[../../../../WikiData/WD~Eswatini,1050|WD~Eswatini,1050]] 
+
+## #has_/map 
+
 ```leaflet
 id: Swaziland
 zoomFeatures: true 
