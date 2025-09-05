@@ -2,6 +2,8 @@
 aliases:
   - computer network
   - network
+  - computer networking
+  - networking
 has_id_wikidata: Q1301371
 uses:
   - "[[_Standards/WikiData/WD~communication_protocol,132364]]"
