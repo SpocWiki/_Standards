@@ -1,3 +1,31 @@
+---
+aliases:
+  - Euclidean geometry
+has_id_wikidata: Q162886
+different_from:
+  - "[[_Standards/WikiData/WD~non_Euclidean_geometry,233858]]"
+  - "[[_Standards/WikiData/WD~Euclidean_space,17295]]"
+described_by_source: "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~classical_geometry,3123519]]"
+has_part_s_: "[[_Standards/WikiData/WD~Euclidean_plane_geometry,3760348]]"
+has_characteristic: "[[_Standards/WikiData/WD~Euclid's_postulates,5197118]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Euclidean_geometry,25717473]]"
+start_time: -0300-01-01T00:00:00Z
+part_of: "[[_Standards/WikiData/WD~geometry,8087]]"
+subclass_of: "[[_Standards/WikiData/WD~geometry,8087]]"
+named_after: "[[_Standards/WikiData/WD~Euclid,8747]]"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Dodecahedron.gif
+  - http://commons.wikimedia.org/wiki/Special:FilePath/HC%20R3-P3-A3-Pr3.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Newton%20theorem.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wallpaper%20group-p6m-4.jpg
+Stack_Exchange_tag:
+  - https://math.stackexchange.com/tags/euclidean-geometry
+  - https://mathoverflow.net/tags/euclidean-geometry
+Commons_category: Euclidean geometry
+---
 
 # [[Euclidean_Geometry]] 
 
@@ -6,11 +34,24 @@
 ## #has_/text_of_/abstract 
 
 > Euclidean geometry is a mathematical system attributed to Euclid, 
-> an ancient Greek mathematician, which he described in his textbook on geometry, [[Euclids_Elements|Elements]] . 
+> an ancient Greek mathematician, which he described in his textbook on geometry, [[Euclids_Elements|Elements]]. 
 > 
-> Euclid's approach consists in assuming a small set of intuitively appealing axioms (postulates) and deducing many other propositions (theorems) from these. One of those is the parallel postulate which relates to parallel lines on a Euclidean plane. Although many of Euclid's results had been stated earlier, Euclid was the first to organize these propositions into a logical system in which each result is proved from axioms and previously proved theorems.
+> Euclid's approach consists in assuming a small set of intuitively appealing axioms (postulates) 
+> and deducing many other propositions (theorems) from these. 
+> 
+> One of those is the parallel postulate which relates to parallel lines on a Euclidean plane. 
+> Although many of Euclid's results had been stated earlier, 
+> 
+> Euclid was the first to organize these propositions into a logical system 
+> in which each result is proved from axioms and previously proved theorems.
 >
-> The Elements begins with plane geometry, still taught in secondary school (high school) as the first axiomatic system and the first examples of mathematical proofs. It goes on to the solid geometry of three dimensions. Much of the Elements states results of what are now called algebra and number theory, explained in geometrical language.
+> The Elements begins with plane geometry, 
+> still taught in secondary school (high school) as the first axiomatic system 
+> and the first examples of mathematical proofs. 
+> 
+> It goes on to the solid geometry of three dimensions. 
+> Much of the Elements states results of what are now called algebra and number theory, 
+> explained in geometrical language.
 >
 > For more than two thousand years, the adjective "Euclidean" was unnecessary because
 >
