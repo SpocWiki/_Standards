@@ -1,7 +1,8 @@
 ---
 aliases:
-- "Wilhelm Busch"
-- "Heinrich Christian Wilhelm Busch"
+  - Wilhelm Busch
+  - Heinrich Christian Wilhelm Busch
+  - Wilhelm_Busch
 ---
 
 # [[Busch,Wilhelm]] 

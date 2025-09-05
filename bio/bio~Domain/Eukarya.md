@@ -3,6 +3,7 @@ AlgaeBase_URL: "https://www.algaebase.org/browse/taxonomy/detail/?taxonid=86701"
 aliases:
 - Eukaryotes
 - Eukaryota
+- Eukaryote
 - Eukarya
 Commons_category: Eukaryota
 described_by_source: "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
@@ -49,7 +50,7 @@ Eukaryota, Organisms with nucleated cells
 
 ![pair of saguaros](Eukarya/saguaro.jpg) ![Acantharea](Eukarya/acantb.jpg) ![Ithomiine butterfly feeding on Senecio flowers](Eukarya/clearwing.jpg) 
 
-#is_/same_as :: [[../../WikiData/WD~Eukaryote,19088]] 
+#is_/same_as :: [[../../WikiData/WD~Eukaryote,19088|WD~Eukaryote,19088]]  
 
 ## #has_/text_of_/abstract 
 
