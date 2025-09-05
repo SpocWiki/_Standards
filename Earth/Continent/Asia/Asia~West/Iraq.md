@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Iraq
+  - العراق
+  - 伊拉克
+  - Ирак
+  - the Republic of Iraq
+  - la República del Iraq
+  - Iraq (el)
+  - Irak
 follows: "[[_Standards/WikiData/WD~Kingdom_of_Iraq,149805]]"
 member_of:
   - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
@@ -367,14 +376,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Iraq
-  - العراق
-  - 伊拉克
-  - Ирак
-  - the Republic of Iraq
-  - la República del Iraq
-  - Iraq (el)
 Languages:
   - ar-IQ
   - ku
@@ -388,7 +389,6 @@ For more Details, check out this Repository into this Subfolder:
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Iraq 
 
 [[Iraq/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: IQD ]
 [	ISO4217-currency_name	 :: Iraqi Dinar ]
@@ -442,7 +442,7 @@ Sub-region_Name ::  [[Western Asia]]
 [	ITU	 :: IRQ ]
 [	DS	 :: IRQ ]
 [	TLD	 :: .iq ]
-[	EDGAR	 :: L0 ]
+[	EDGAR	 :: L0 ] 
 [	M49	 :: 368 ]
 
 [	is_independent	 :: Yes ]
@@ -453,13 +453,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 368 ]
 
-
-
 [ISO2::IQ]
 [ISO3::IRQ] 
 
-## #has_/map  
+#is_/same_as :: [[../../../../WikiData/WD~Iraq,796|WD~Iraq,796]] 
 
+## #has_/map  
 
 
 ```leaflet
