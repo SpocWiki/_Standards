@@ -2,6 +2,7 @@
 aliases:
   - Blasinstrument
   - labrosone
+  - brass instrument
 has_id_wikidata: Q180744
 subclass_of: "[[_Standards/WikiData/WD~wind_instrument,173453]]"
 uses: "[[_Standards/WikiData/WD~embouchure,175234]]"

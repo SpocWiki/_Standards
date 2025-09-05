@@ -103,6 +103,10 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_mathematics,3610632]]"
 WordLift_URL: http://data.thenextweb.com/tnw/entity/mathematics
 ---
 
+# [[Mathematics]] 
+
+#is_/same_as :: [[WikiData/WD~Mathematics,395|WD~Mathematics,395]] 
+
 ## #has_/text_of_/abstract 
 
 > **Mathematics** is a field of study that discovers and organizes methods, theories 

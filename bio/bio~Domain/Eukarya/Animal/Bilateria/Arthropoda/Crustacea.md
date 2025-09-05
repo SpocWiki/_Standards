@@ -1,44 +1,47 @@
 ---
 aliases:
-- Krustentier
+  - Krustentier
+  - Krustentiere
+  - crustacean
+  - crustaceans
 Biology_Online_Biology_Dictionary_entry: crustacean
 Commons_category: Crustacea
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 EPPO_Code: 1CRUSQ
 GS1_GPC_code: 10005450
 has_id_wikidata: Q25364
 Iconclass_notation: 25F716
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Crustacea%20diversity.jpg"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Crustacea%20diversity.jpg
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 83677
 Krugosvet_article: biologiya/rakoobraznye
 MeSH_tree_code: B01.050.500.131.365
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Crustacea%20collage.png"
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Crustacea%20collage.png
 OmegaWiki_Defined_Meaning: 799
-parent_taxon: '[[_Standards/WikiData/WD~Pancrustacea,671280]]'
+parent_taxon: "[[_Standards/WikiData/WD~Pancrustacea,671280]]"
 start_time: -511000000-01-01
-studied_by: '[[_Standards/WikiData/WD~carcinology,2183296]]'
+studied_by: "[[_Standards/WikiData/WD~carcinology,2183296]]"
 taxon_common_name:
-- krepsdyr
-- Kreeftachtigen
-- skorupiaki
-- ракообразные
-- raki
-- Krebstiere
+  - krepsdyr
+  - Kreeftachtigen
+  - skorupiaki
+  - ракообразные
+  - raki
+  - Krebstiere
 taxon_name: Crustacea
-taxon_rank: '[[_Standards/WikiData/WD~subphylum,1153785]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~shellfish,6501235]]'
+taxon_rank: "[[_Standards/WikiData/WD~subphylum,1153785]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~shellfish,6501235]]"
 title: Crustacea
-topic_s_main_category: '[[_Standards/WikiData/WD~Q8922920,8922920]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Crustaceans,20630742]]'
-Wikidata_property: "time in the pouch"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q8922920,8922920]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Crustaceans,20630742]]"
+Wikidata_property: time in the pouch
 ---
 
 # [[Crustacea]]
