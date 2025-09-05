@@ -34,7 +34,7 @@ Commons_category: Euclidean geometry
 ## #has_/text_of_/abstract 
 
 > Euclidean geometry is a mathematical system attributed to Euclid, 
-> an ancient Greek mathematician, which he described in his textbook on geometry, [[Euclids_Elements|Elements]]. 
+> an ancient Greek mathematician, which he described in his textbook on geometry, [[Euclidean_Geometry/Euclids_Elements|Elements]]. 
 > 
 > Euclid's approach consists in assuming a small set of intuitively appealing axioms (postulates) 
 > and deducing many other propositions (theorems) from these. 

@@ -58,7 +58,7 @@ title: Στοιχεῖα
 
 # [[Euclids_Elements]] 
 
-#is_/same_as :: [[../../WikiData/WD~Elements,172891|WD~Elements,172891]] 
+#is_/same_as :: [[../../../WikiData/WD~Elements,172891|WD~Elements,172891]] 
 
 ## #has_/text_of_/abstract 
 
