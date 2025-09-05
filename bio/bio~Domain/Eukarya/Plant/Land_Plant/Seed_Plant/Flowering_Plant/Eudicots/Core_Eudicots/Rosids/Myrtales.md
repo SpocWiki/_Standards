@@ -6,7 +6,7 @@ title: Myrtales
 
 # [[Myrtales]] 
 
-![Clidemia_hirta](Myrtales/Clidemia_hirta.jpg)  ![Oenothera_californica](Myrtales/Oenothera_californica.jpg)  ![Eucalyptus_viminalis](Myrtales/Eucalyptus_viminalis.jpg) 
+![Clidemia_hirta](Myrtales/Clidemia_hirta.jpg)  ![Oenothera_californica](Myrtales/Oenothera_californica.jpg)  ![Eucalyptus_viminalis](Myrtales/Myrtaceae/Eucalyptus/Eucalyptus_viminalis.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -70,7 +70,7 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
 
-------------------------------------------------------------------------------![Manna gum, Eucalyptus viminalis](Myrtales/Eucalyptus_viminalis.jpg))
+------------------------------------------------------------------------------![Manna gum, Eucalyptus viminalis](Myrtales/Myrtaceae/Eucalyptus/Eucalyptus_viminalis.jpg))
 Scientific Name ::    Eucalyptus viminalis (Myrtaceae)
 Location ::          Native to Australia, specimen photographed in Sunol (Alameda County, California, USA)
 Comments            Manna gum
