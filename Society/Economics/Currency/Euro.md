@@ -96,6 +96,8 @@ Wolfram_Language_unit_code: "\"Euros\""
 
 #is_a_/Currency 
 
+#is_/same_as :: [[../../../WikiData/WD~Euro,4916|WD~Euro,4916]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Euro** (symbol: €; currency code: EUR) is the official currency of 20 of the 27 member states of the European Union. This group of states is officially known as the euro area or, more commonly, the eurozone. The euro is divided into 100 euro cents.

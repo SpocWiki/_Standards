@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Council of the European Union
+  - Council of Ministers
+  - 
 has_id_wikidata: Q8896
 native_label:
   - Az Európai Unió Tanácsa
