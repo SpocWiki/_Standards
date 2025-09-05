@@ -5,6 +5,176 @@ aliases:
   - Eurasian eagle-owl
   - eagle-owl
 has_id_wikidata: Q130933
+IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
+parent_taxon: "[[_Standards/WikiData/WD~Bubo,214293]]"
+subclass_of: "[[_Standards/WikiData/WD~Bubo,214293]]"
+award_received:
+  - "[[_Standards/WikiData/WD~Bird_of_the_Year,896971]]"
+  - "[[_Standards/WikiData/WD~Q1970703,1970703]]"
+taxon_range:
+  - "[[_Standards/WikiData/WD~Nanling_Mountains,1195285]]"
+  - "[[_Standards/WikiData/WD~Africa,15]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+endemic_to: "[[_Standards/WikiData/WD~Namdapha_National_Park,1815612]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
+CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
+different_from: "[[_Standards/WikiData/WD~Puchacz,11830852]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+Status_in_the_Red_List_of_Threatened_Species_in_the_Czech_Republic: "[[_Standards/WikiData/WD~endangered,56660246]]"
+diel_cycle: "[[_Standards/WikiData/WD~nocturnal,101029366]]"
+original_combination: "[[_Standards/WikiData/WD~Strix_bubo,122583548]]"
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+mass:
+  - 80
+  - 2.38
+  - 2.992
+litter_size: 2.8
+wingspan: 174
+EURING_number: "7440"
+OmegaWiki_Defined_Meaning: "1071487"
+taxon_common_name:
+  - berguv
+  - Uhu
+  - אוח
+  - Bufi
+  - Eurasian Eagle-owl
+  - Филин
+  - Cuccu
+  - Piv grond
+  - Bufnița
+  - Пугач
+  - Модьугу
+  - Bumbbástat
+  - Lidnu
+  - Buljina
+  - výr skalný
+  - Výr skalný
+  - velika uharica
+  - Jïhpe
+  - Liddno
+  - Велика ушара
+  - Berguv
+  - Kungwi wa Ulaya
+  - Puhu
+  - Bayağı puhu
+  - Кызыл үгү
+  - Үгү
+  - Ыйбааңгы
+  - Пугач
+  - Пугач звичайний
+  - пугач палеарктичний
+  - Hübj
+  - 鵰鴞
+  - 恨狐
+  - 老兔
+  - 角鸱
+  - 雕号鸟
+  - 雕鸮
+  - Bubón
+  - البومة النسارية
+  - البوهة
+  - البوهة بومة أم قرون
+  - بومة نسّارية
+  - uxu
+  - Adi yapalaq
+  - Iri yapalaq
+  - Өкө
+  - Auf
+  - Пугач
+  - Філін
+  - Бухал
+  - Toud meur
+  - duc eurasiàtic
+  - Gran duc
+  - výr velký
+  - Ӳхĕ
+  - eryrdylluan Ewrop
+  - Tylluan fawr
+  - Stor hornugle
+  - Stor Hornugle
+  - Šubut
+  - Wjelika sowa
+  - Μ
+  - eurasian eagle owl
+  - Eurasian Eagle Owl
+  - Eurasian Eagle-Owl
+  - Northern Eagle Owl
+  - Gufo
+  - Búho real
+  - kassikakk
+  - Kassikakk
+  - Hontz handi
+  - شاهبوف
+  - huuhkaja
+  - Grand-duc d'Europe
+  - Grand-duc d’Europe
+  - hibou grand-duc
+  - Hibou grand-duc
+  - Dűc
+  - Oehoe
+  - Rí-ulchabhán
+  - Comhachag mhòr
+  - Bufo real
+  - Huheler
+  - Hullad vooar
+  - אוח מצוי
+  - Komban kottaan
+  - ušara
+  - Ušara
+  - Pujwuj
+  - uhu
+  - Uhu
+  - Բվեճ (Bvech)
+  - Gufo
+  - Úfur
+  - Gufo reale
+  - ワシミミズク
+  - ワシミミズク (Washi-mimizuku)
+  - ზარნაშო
+  - Жьынду
+  - Үкі
+  - 수리부엉이
+  - Сюзь
+  - Şakund
+  - Erula
+  - Oula bras
+  - Uhu
+  - Duch
+  - Didysis apuokas
+  - paprastasis didysis apuokas
+  - ūpis
+  - Ūpis
+  - Голем був
+  - Эгэл шар шувуу
+  - Ӱнгӹ
+  - Kokka imperjali
+  - Булдыгай
+  - Hubro
+  - Uhu
+  - oehoe
+  - Oehoe
+  - Hubro
+  - Ducàs
+  - puchacz (zwyczajny)
+  - Puchacz zwyczajny
+  - Cioch ëd montagna
+  - bufo-real
+  - Bufo-real
+ITIS_TSN: "555404"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Hubro%20%28Bubo%20bubo%29.JPG
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bubo%20bubo%20distribution%20map.png
+sequenced_genome_URL: http://www.ensembl.org/Bubo_bubo
+Commons_gallery: Bubo bubo
+Commons_category: Bubo bubo
+taxon_name: Bubo bubo
+EPPO_Code: BUBOBU
+UMLS_CUI: C1003255
+BTO_five_letter_code: EAGOW
+NBN_System_Key: NHMSYS0000532935
+short_name: B. bubo
 ---
 
 # [[Eurasian_Eagle-owl]] 
@@ -23,7 +193,10 @@ has_id_wikidata: Q130933
 > 
 > This bird has distinctive ear tufts, 
 > with upper parts that are mottled with darker blackish colouring and tawny. 
-> The wings and tail are barred. The underparts are a variably hued buff, streaked with darker colouring. The facial disc is not very defined. The orange eyes are distinctive. At least 12 subspecies of the Eurasian eagle-owl are described.
+> The wings and tail are barred. The underparts are a variably hued buff, streaked with darker colouring. 
+> The facial disc is not very defined. The orange eyes are distinctive. 
+> 
+> At least 12 subspecies of the Eurasian eagle-owl are described.
 >
 > Eurasian eagle-owls are found in many habitats; mostly mountainous and rocky areas, often near varied woodland edge and near shrubby areas with openings or wetlands. They also inhabit coniferous forests, steppes, and remote areas. Occasionally, they are found in farmland and in park-like settings in European and Asian cities and, very rarely, in busier urban areas.
 >
