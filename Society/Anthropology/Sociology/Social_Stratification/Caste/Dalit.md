@@ -13,7 +13,7 @@ Commons_category: Dalit
 
 # [[Dalit]] 
 
-#is_/same_as :: [[../../WikiData/WD~Dalit,219517|WD~Dalit,219517]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Dalit,219517|WD~Dalit,219517]] 
 
 ## #has_/text_of_/abstract 
 
