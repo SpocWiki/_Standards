@@ -1,6 +1,7 @@
 ---
 aliases:
   - Euclid's Elements
+  - Elements
 has_id_wikidata: Q172891
 different_from: "[[_Standards/WikiData/WD~Element,180750]]"
 after_a_work_by:
