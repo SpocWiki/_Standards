@@ -3,14 +3,15 @@ aliases:
 - "Alexander Pushkin"
 - "Alexander Sergeyevich Pushkin"
 - "Александр Сергеевич Пушкин"
+ArhivX_LOD: 4444
 artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
 BHCL_UUID: 5f455afb-640d-45a6-9c54-8ae2f54fe371
 cause_of_death: '[[_Standards/WikiData/WD~gunshot_wound,2140674]]'
 child:
-- '[[_Standards/WikiData/WD~Natalya_Pushkina,3870579]]'
+- '[[_Standards/WikiData/WD~Natalya_Alexandrovna_Pushkina,3870579]]'
 - '[[_Standards/WikiData/WD~Maria_Pushkina,4133961]]'
 - '[[_Standards/WikiData/WD~Alexander_Alexandrovich_Pushkin,4384708]]'
-- '[[_Standards/WikiData/WD~Grigory_Pushkin,4384717]]'
+- '[[_Standards/WikiData/WD~Grigory_Aleksandrovich_Pushkin,4384717]]'
 civil_rank: '[[_Standards/WikiData/WD~titular_councillor,1336636]]'
 Commons_category: "Aleksandr Pushkin"
 Commons_Creator_page: "Aleksandr Pushkin"
@@ -18,11 +19,11 @@ Commons_gallery: "Aleksandr Pushkin"
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 CYT_CCS:
-- AC000072681
-- AC000151941
 - AC000151983
-date_of_birth: "1799-06-06T00:00:00Z"
-date_of_death: "1837-02-10T00:00:00Z"
+- AC000151941
+- AC000072681
+date_of_birth: 1799-06-06
+date_of_death: 1837-02-10
 depicted_by:
 - '[[_Standards/WikiData/WD~Portrait_of_Alexander_Pushkin,18688281]]'
 - '[[_Standards/WikiData/WD~Alexander_Pushkin_memorial,126364392]]'
@@ -35,7 +36,7 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
 - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
@@ -55,6 +56,7 @@ field_of_work:
 genre:
 - '[[_Standards/WikiData/WD~historical_prose_literature,136472]]'
 - '[[_Standards/WikiData/WD~opinion_journalism,156035]]'
+- '[[_Standards/WikiData/WD~historical_novel,192239]]'
 - '[[_Standards/WikiData/WD~verse_novel,948970]]'
 - '[[_Standards/WikiData/WD~robber_novel,1543634]]'
 - '[[_Standards/WikiData/WD~short_novel,12799318]]'
@@ -80,7 +82,7 @@ influenced_by:
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 IPI_name_number: 00025078792
 ISNI: 0000000121372055
-killed_by: "[[_Standards/WikiData/WD~Georges_Charles_de_Heeckeren_d'Anthès,709997]]"
+killed_by: "[[_Standards/WikiData/WD~Georges-Charles_de_Heeckeren_d'Anthès,709997]]"
 Krugosvet_article: kultura_i_obrazovanie/literatura/PUSHKIN_ALEKSANDR_SERGEEVICH.html
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Russian,7737]]'
 Libris_URI: 75kmjwfr4d93z03
@@ -109,6 +111,7 @@ occupation:
 - '[[_Standards/WikiData/WD~historian,201788]]'
 - '[[_Standards/WikiData/WD~playwright,214917]]'
 - '[[_Standards/WikiData/WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~author,482980]]'
 - '[[_Standards/WikiData/WD~dramaturge,487596]]'
 - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
 - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
@@ -165,8 +168,8 @@ Swedish_Royal_Theater_Archive: Person/823
 Wolfram_Language_entity_code:
 - "Entity[\"Concept\", \"AleksandrSergeyevichPushkin::bb9xx\"]"
 - "Entity[\"Person\", \"AleksandrPushkin::62n39\"]"
-work_period_end_: "1837-01-01T00:00:00Z"
-work_period_start_: "1814-01-01T00:00:00Z"
+work_period_end_: 1837
+work_period_start_: 1814
 writing_language:
 - '[[_Standards/WikiData/WD~Russian,7737]]'
 - '[[_Standards/WikiData/WD~French,150]]'
@@ -174,11 +177,14 @@ writing_language:
 
 # [[Pushkin,Alexander]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Alexander_Pushkin,7200]] 
 #has_/time_/started :: 1799-06-06 
 #has_/time_/stopped :: 1837-02-10 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Alexander_Pushkin,7200]] 
+
+## #has_/text_of_/abstract 
 
 > Alexander Sergeyevich Pushkin (Russian: Александр Сергеевич Пушкин, IPA: [ɐlʲɪkˈsandr sʲɪrˈɡʲe(j)ɪvʲɪtɕ ˈpuʂkʲɪn] ; 6 June [O.S. 26 May] 1799 – 10 February [O.S. 29 January] 1837) 
 > was a Russian poet, playwright, and novelist of the Romantic era. 
@@ -187,10 +193,9 @@ writing_language:
 >
 > Pushkin was born into the Russian nobility in Moscow. 
 > His father, Sergey Lvovich Pushkin, belonged to an old noble family. 
-> His maternal great-grandfather was Major-General Abram Petrovich Gannibal, 
+> One of his maternal great-grandfathers was Major-General Abram Petrovich Gannibal, 
 > a nobleman of African origin who was kidnapped from his homeland by the Ottomans, 
-> then freed by the Russian Emperor and raised in the Emperor's court household 
-> as his godson.
+> then freed by the Russian Emperor and raised in the Emperor's court household as his godson.
 >
 > He published his first poem at the age of 15, 
 > and was widely recognized by the literary establishment 
@@ -198,12 +203,13 @@ writing_language:
 > 
 > Upon graduation from the Lycée, Pushkin recited his controversial poem "Ode to Liberty", 
 > one of several that led to his exile by Emperor Alexander I. 
+> 
 > While under strict surveillance by the Emperor's political police and unable to publish, 
 > Pushkin wrote his most famous play, [[Boris_Godunov]]. 
 > His novel in verse [[Eugene Onegin]] was serialized between 1825 and 1832. 
 > Pushkin was fatally wounded in a duel with his wife's alleged lover 
-> and her sister's husband, Georges-Charles de Heeckeren d'Anthès, 
-> also known as Dantes-Gekkern, a French officer serving with the Chevalier Guard Regiment.
+> and her sister's husband, Georges-Charles de Heeckeren d'Anthès, also known as Dantes-Gekkern, 
+> a French officer serving with the Chevalier Guard Regiment.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20Pushkin)
 

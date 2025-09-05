@@ -2,6 +2,7 @@
 aliases:
 - "Alexander Pushkin"
 - "Alexander Sergeyevich Pushkin"
+- "Александр Сергеевич Пушкин"
 ArhivX_LOD: 4444
 artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
 BHCL_UUID: 5f455afb-640d-45a6-9c54-8ae2f54fe371
@@ -39,7 +40,7 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
 - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- '[[_Standards/WikiData/WD~Russian_writers__XIX_c._2_2_,125555366]]'
+- '[[_Standards/WikiData/WD~Russian_writers_XIX_c._2_2_,125555366]]'
 different_from:
 - '[[_Standards/WikiData/WD~Alexander_Pichushkin,317496]]'
 - '[[_Standards/WikiData/WD~Alexander_Pushkin,15210311]]'
@@ -53,6 +54,7 @@ field_of_work:
 - '[[_Standards/WikiData/WD~translation,7553]]'
 - '[[_Standards/WikiData/WD~criticism,17955]]'
 genre:
+- '[[_Standards/WikiData/WD~historical_prose_literature,136472]]'
 - '[[_Standards/WikiData/WD~opinion_journalism,156035]]'
 - '[[_Standards/WikiData/WD~historical_novel,192239]]'
 - '[[_Standards/WikiData/WD~verse_novel,948970]]'
@@ -123,6 +125,7 @@ occupation:
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~poet,49757]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+P8189: 987007310784505171
 patronym_or_matronym: '[[_Standards/WikiData/WD~Sergeyevich,47517078]]'
 place_of_birth: '[[_Standards/WikiData/WD~Moscow,649]]'
 place_of_burial: '[[_Standards/WikiData/WD~Svyatogorsky_Monastery,4411519]]'
@@ -160,7 +163,7 @@ sibling:
 - '[[_Standards/WikiData/WD~Lev_Sergeyevich_Pushkin,4384725]]'
 signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Pushkin%20Signature.svg"
 spouse: '[[_Standards/WikiData/WD~Natalia_Pushkina,274331]]'
-studied_in: '[[_Standards/WikiData/WD~Pushkin_studies,4384741]]'
+studied_by: '[[_Standards/WikiData/WD~Pushkin_studies,4384741]]'
 Swedish_Royal_Theater_Archive: Person/823
 Wolfram_Language_entity_code:
 - "Entity[\"Concept\", \"AleksandrSergeyevichPushkin::bb9xx\"]"
@@ -176,12 +179,14 @@ writing_language:
 
 #has_/time_/started :: 1799-06-06  
 #has_/time_/stopped  :: 1837-02-10 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Alexander_Pushkin,7200]] 
 
 ## #has_/text_of_/abstract 
 
-> Alexander Sergeyevich Pushkin (6 June [O.S. 26 May] 1799 – 10 February [O.S. 29 January] 1837) 
+> Alexander Sergeyevich Pushkin (Russian: Александр Сергеевич Пушкин, IPA: [ɐlʲɪkˈsandr sʲɪrˈɡʲe(j)ɪvʲɪtɕ ˈpuʂkʲɪn] ; 6 June [O.S. 26 May] 1799 – 10 February [O.S. 29 January] 1837) 
 > was a Russian poet, playwright, and novelist of the Romantic era. 
 > He is considered by many to be the greatest Russian poet, 
 > as well as the founder of modern Russian literature.
@@ -195,13 +200,13 @@ writing_language:
 > He published his first poem at the age of 15, 
 > and was widely recognized by the literary establishment 
 > by the time of his graduation from the Tsarskoye Selo Lyceum. 
+> 
 > Upon graduation from the Lycée, Pushkin recited his controversial poem "Ode to Liberty", 
 > one of several that led to his exile by Emperor Alexander I. 
 > 
 > While under strict surveillance by the Emperor's political police and unable to publish, 
-> Pushkin wrote his most famous play, Boris Godunov. 
-> 
-> His novel in verse Eugene Onegin was serialized between 1825 and 1832. 
+> Pushkin wrote his most famous play, [[Boris_Godunov]]. 
+> His novel in verse [[Eugene Onegin]] was serialized between 1825 and 1832. 
 > Pushkin was fatally wounded in a duel with his wife's alleged lover 
 > and her sister's husband, Georges-Charles de Heeckeren d'Anthès, also known as Dantes-Gekkern, 
 > a French officer serving with the Chevalier Guard Regiment.
