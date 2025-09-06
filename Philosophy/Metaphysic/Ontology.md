@@ -70,9 +70,21 @@ Library_of_Congress_Classification: BD300-BD450
 > the use of intuitions and thought experiments, and the integration of findings from natural science. 
 > 
 > Formal ontology investigates the most abstract features of objects, 
-> while applied ontology utilizes ontological theories and principles to study entities within specific domains. For example, social ontology examines basic concepts used in the social sciences. Applied ontology is particularly relevant to information and computer science, which develop conceptual frameworks of limited domains. These frameworks facilitate the structured storage of information, such as in a college database tracking academic activities. Ontology is also pertinent to the fields of logic, theology, and anthropology.
+> while applied ontology utilizes ontological theories 
+> and principles to study entities within specific domains. 
+> 
+> For example, social ontology examines basic concepts used in the social sciences. 
+> Applied ontology is particularly relevant to information and computer science, 
+> which develop conceptual frameworks of limited domains. 
+> 
+> These frameworks facilitate the structured storage of information, 
+> such as in a college database tracking academic activities. 
+> Ontology is also pertinent to the fields of logic, theology, and anthropology.
 >
-> The origins of ontology lie in the ancient period with speculations about the nature of being and the source of the universe, including ancient Indian, Chinese, and Greek philosophy. In the modern period, philosophers conceived ontology as a distinct academic discipline and coined its name.
+> The origins of ontology lie in the ancient period with speculations about the nature of being 
+> and the source of the universe, including ancient Indian, Chinese, and Greek philosophy. 
+> In the modern period, 
+> philosophers conceived ontology as a distinct academic discipline and coined its name.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ontology) 
 
