@@ -6,7 +6,7 @@ has_id_wikidata: Q3574718
 
 # [[Discrete_uniform_Distribution]] 
 
-#is_/same_as :: [[../../WikiData/WD~Discrete_uniform_distribution,3574718|WD~Discrete_uniform_distribution,3574718]] 
+#is_/same_as :: [[../../../../WikiData/WD~Discrete_uniform_distribution,3574718|WD~Discrete_uniform_distribution,3574718]] 
 
 ## #has_/text_of_/abstract 
 

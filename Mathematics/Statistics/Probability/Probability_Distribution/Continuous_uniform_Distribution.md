@@ -23,7 +23,7 @@ Commons_category: Uniform distribution
 
 # [[Continuous_uniform_Distribution]] 
 
-#is_/same_as :: [[../../WikiData/WD~Continuous_uniform_distribution,274506|WD~Continuous_uniform_distribution,274506]] 
+#is_/same_as :: [[../../../../WikiData/WD~Continuous_uniform_distribution,274506|WD~Continuous_uniform_distribution,274506]] 
 
 ## #has_/text_of_/abstract 
 

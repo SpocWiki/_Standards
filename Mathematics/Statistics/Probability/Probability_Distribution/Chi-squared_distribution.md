@@ -1,7 +1,7 @@
 
 # [[Chi-squared_distribution]] 
 
-#is_/same_as :: [[../../WikiData/WD~Chi-squared_distribution,243462|WD~Chi-squared_distribution,243462]] 
+#is_/same_as :: [[../../../../WikiData/WD~Chi-squared_distribution,243462|WD~Chi-squared_distribution,243462]] 
 
 ## #has_/text_of_/abstract 
 

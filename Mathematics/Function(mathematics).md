@@ -2,6 +2,8 @@
 has_id_wikidata: Q11348
 ---
 
+
+
 ## #has_/text_of_/abstract 
 
 > In mathematics, a function from a set X to a set Y assigns to each element of X exactly one element of Y. The set X is called the domain of the function and the set Y is called the codomain of the function.
