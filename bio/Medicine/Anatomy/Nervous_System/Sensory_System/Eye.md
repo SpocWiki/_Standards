@@ -59,6 +59,10 @@ Unicode_character:
 - "\U0001F441"
 ---
 
+# [[Eye]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Eye,7364|WD~Eye,7364]] 
+
 ## #has_/text_of_/abstract 
 
 > An **Eye** is a sensory organ that allows an organism to perceive visual information. It detects light and converts it into electro-chemical impulses in neurons (neurones). It is part of an organism's visual system.

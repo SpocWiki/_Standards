@@ -26,7 +26,7 @@ title: is_a_cohort_study Class
 type: Type
 ---
 
-Class of all cohort_studys.
+Class of all cohort studies.
 
 Tag Instances like this: 
 #is_a_/cohort_study

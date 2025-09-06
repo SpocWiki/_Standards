@@ -1,12 +1,29 @@
 ---
 aliases:
-- Fabales
+  - Fabales
 title: Fabales
+has_id_wikidata: Q21878
+parent_taxon: "[[_Standards/WikiData/WD~fabids,2683213]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+OmegaWiki_Defined_Meaning: "358691"
+ITIS_TSN: "500022"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Fabaceae%20flower.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Polygala%20senega%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-247.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Senna%20occidentalis%28Flower%29.jpg
+EPPO_Code: 1FABO
+Commons_category: Fabales
+taxon_name: Fabales
+NBN_System_Key: NHMSYS0000066094
+taxon_common_name: 豆目
 ---
 
 # [[Fabales]] 
 
 ![Cytisus_scoparius](Fabales/Cytisus_scoparius.jpg)  ![Securidaca](Fabales/Securidaca_diversifolia.jpg)  ![Quillaja saponaria](Fabales/Quillaja_saponaria.jpg)  ![Suriana_maritima](Fabales/Suriana_maritima.jpg) 
+
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Fabales,21878|WD~Fabales,21878]] 
 
 ## #has_/text_of_/abstract 
 

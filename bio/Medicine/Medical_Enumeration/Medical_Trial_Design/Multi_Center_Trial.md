@@ -29,7 +29,7 @@ type: Type
 Class of all multi_center_trials.
 
 Tag Instances like this: 
-#is_a_/multi_center_trial
+#is_a_/trial_/multi_center 
 
 A trial that takes place at multiple centers.
 

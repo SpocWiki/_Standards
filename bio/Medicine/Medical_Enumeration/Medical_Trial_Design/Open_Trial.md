@@ -29,7 +29,7 @@ type: Type
 Class of all open_trials.
 
 Tag Instances like this: 
-#is_an_/open_trial
+#is_a_/trial_/open 
 
 A trial design in which the researcher knows the full details of the treatment, and so does the patient.
 

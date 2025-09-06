@@ -32,6 +32,7 @@ Commons_category: Exponentiation
 
 # [[Exponentiation]] 
 
+#is_/inverse_of :: [[Logarithm]] 
 #is_/same_as :: [[../../../WikiData/WD~Exponentiation,33456|WD~Exponentiation,33456]] 
 
 ## #has_/text_of_/abstract 

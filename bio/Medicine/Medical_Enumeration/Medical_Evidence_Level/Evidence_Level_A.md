@@ -26,7 +26,7 @@ title: is_an_evidence_level_a Class
 type: Type
 ---
 
-Class of all evidence_level_as.
+Class of all evidence_level_A.
 
 Tag Instances like this: 
 #is_an_/evidence_level_a

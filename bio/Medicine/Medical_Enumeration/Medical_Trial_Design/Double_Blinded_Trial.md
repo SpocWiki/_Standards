@@ -29,7 +29,7 @@ type: Type
 Class of all double_blinded_trials.
 
 Tag Instances like this: 
-#is_a_/double_blinded_trial
+#is_a_/trial_/double_blinded
 
 A trial design in which neither the researcher nor the patient knows the details of the treatment the patient was randomly assigned to.
 
