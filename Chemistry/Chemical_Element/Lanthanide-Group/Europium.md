@@ -49,8 +49,7 @@ UNII: 444W947O8O
 ZVG_number: 7630
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Europium,1396]] 
-
+# [[Europium]] 
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
@@ -75,6 +74,7 @@ ZVG_number: 7630
 (PeriodNo::6)
 (GroupNo::29)
 
+#is_/same_as :: [[../../../WikiData/WD~Europium,1396]] 
 
 
 ## #has_/text_of_/abstract 
