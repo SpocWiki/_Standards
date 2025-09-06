@@ -1,5 +1,31 @@
+---
+aliases:
+has_id_wikidata: Q101965
+has_part_s_: "[[_Standards/WikiData/WD~protocol,367158]]"
+different_from: "[[_Standards/WikiData/WD~Experiment,445178]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~test,1003030]]"
+  - "[[_Standards/WikiData/WD~research_work,118563234]]"
+practiced_by: "[[_Standards/WikiData/WD~laboratory_technician,1483433]]"
+part_of: "[[_Standards/WikiData/WD~experimentation,3331334]]"
+described_by_source: "[[_Standards/WikiData/WD~ISO_3534_3_2013(en)_Statistics_Vocabulary_and_symbols_Part_3_Design_of_experiments,116196923]]"
+OmegaWiki_Defined_Meaning: "1382"
+Dewey_Decimal_Classification:
+  - "507.2"
+  - "001.434"
+  - 1--0724
+  - 1--078
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Chodowiecki%20Basedow%20Tafel%2012%20d.jpg
+Commons_category: Experiments
+IMDb_keyword:
+  - science-experiment
+  - scientific-experiment
+---
+
+# [[Experiment]] 
 
 #is_/different_from :: [[Observational_Study]] 
+#is_/same_as :: [[../../WikiData/WD~Experiment,101965|WD~Experiment,101965]] 
 
 ## #has_/text_of_/abstract 
 
