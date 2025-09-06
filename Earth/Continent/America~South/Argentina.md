@@ -413,7 +413,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Argentina/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: ARS ]
 [	ISO4217-currency_name	 :: Argentine Peso ]
 [	ISO4217-currency_numeric	 :: 032 ]
@@ -482,9 +481,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 #is_/same_as :: [[../../../WikiData/WD~Argentina,414|WD~Argentina,414]]  
 
-
 ## #has_/map  
-
 
 ```leaflet
 id: Argentina

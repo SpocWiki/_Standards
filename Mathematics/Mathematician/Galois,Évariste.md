@@ -51,6 +51,10 @@ work_location: '[[_Standards/WikiData/WD~Paris,90]]'
 writing_language: '[[_Standards/WikiData/WD~French,150]]'
 ---
 
+# [[Galois,Évariste]] 
+
+#is_/same_as :: [[../../WikiData/WD~Évariste_Galois,7091|WD~Évariste_Galois,7091]] 
+
 ## #has_/text_of_/abstract 
 
 > **Évariste Galois** (; French: [evaʁist ɡalwa]; 25 October 1811 – 31 May 1832) 

@@ -1,31 +1,33 @@
 ---
-Colon_Classification: "G:33"
+aliases:
+  - metabolic
+Colon_Classification: G:33
 Commons_category: Metabolism
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Metabolizm,11777586]]'
-exact_match: "http://purl.obolibrary.org/obo/GO_0008152"
-has_contributing_factor: '[[_Standards/WikiData/WD~nutrition,2138622]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[_Standards/WikiData/WD~Metabolizm,11777586]]"
+exact_match: http://purl.obolibrary.org/obo/GO_0008152
+has_contributing_factor: "[[_Standards/WikiData/WD~nutrition,2138622]]"
 has_id_wikidata: Q1057
 has_part_s_:
-- '[[_Standards/WikiData/WD~anabolism,184681]]'
-- '[[_Standards/WikiData/WD~catabolic_process,21130714]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Metabolism-en.svg"
-instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+  - "[[_Standards/WikiData/WD~anabolism,184681]]"
+  - "[[_Standards/WikiData/WD~catabolic_process,21130714]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Metabolism-en.svg
+instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
 Krugosvet_article: nauka_i_tehnika/biologiya/METABOLIZM.html
 MeSH_tree_code: G03
 OmegaWiki_Defined_Meaning: 2313
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%86%D5%B5%D5%B8%D6%82%D5%A9%D5%A1%D6%83%D5%B8%D5%AD%D5%A1%D5%B6%D5%A1%D5%AF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Metabolism%29.ogg"
-subclass_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Metabolism,8085091]]'
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%86%D5%B5%D5%B8%D6%82%D5%A9%D5%A1%D6%83%D5%B8%D5%AD%D5%A1%D5%B6%D5%A1%D5%AF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Metabolism%29.ogg
+subclass_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Metabolism,8085091]]"
 UMLS_CUI:
-- C2350543
-- C0025519
+  - C2350543
+  - C0025519
 ---
 
 ## #has_/text_of_/abstract 
