@@ -20,7 +20,7 @@ aliases:
 
 > In logic, mathematics, and computer science, 
 > **Arity** ( ) is the number of arguments or operands 
-> taken by a [[../../Knowledge/Math/Function(Math)|Function(Math)]], operation, operator, [[Tuple]], [[Record]] or [[Relation]]. 
+> taken by a [[../Mathematics/Function(Math)|Function(Math)]], operation, operator, [[Tuple]], [[Record]] or [[Relation]]. 
 > 
 > In mathematics, arity may also be called __rank__, but this word can have many other meanings. 
 > In logic and philosophy, arity may also be called adicity and degree. 

@@ -117,8 +117,8 @@ Relations are equivalent to directed [[Graph(Math)]].
 >  for deducing the value of the function at a particular value; for example, if 
 >      f(x)=x²+1,
 >  then 
->      f(4)=4²+1=17.
->
+>  f(4)=4²+1=17. 
+>  
 > Given its domain and its codomain, a function is uniquely represented by the set of all pairs (x, f (x)), 
 > called the __graph of the function__, a popular means of illustrating the function. 
 > When the domain and the codomain are sets of real numbers, 
@@ -127,22 +127,6 @@ Relations are equivalent to directed [[Graph(Math)]].
 > Functions are widely used in science, engineering, and in most fields of mathematics. 
 > It has been said that functions are "the central objects of investigation" in most fields of mathematics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Function%20(mathematics)) 
+> [Wikipedia](https://en.wikipedia.org/wiki/Function%20(mathematics))
 
-
-## Confidential Links & Embeds: 
-
-### #is_/same_as :: [Function(mathematics)](/_Standards/Mathematics/Function(mathematics).md) 
-
-### #is_/same_as :: [Function(mathematics).public](/_public/Mathematics/Function(mathematics).public.md) 
-
-### #is_/same_as :: [Function(mathematics).internal](/_internal/Mathematics/Function(mathematics).internal.md) 
-
-### #is_/same_as :: [Function(mathematics).protect](/_protect/Mathematics/Function(mathematics).protect.md) 
-
-### #is_/same_as :: [Function(mathematics).private](/_private/Mathematics/Function(mathematics).private.md) 
-
-### #is_/same_as :: [Function(mathematics).personal](/_personal/Mathematics/Function(mathematics).personal.md) 
-
-### #is_/same_as :: [Function(mathematics).secret](/_secret/Mathematics/Function(mathematics).secret.md)
 
