@@ -35,7 +35,7 @@ UMLS_CUI: C0582515
 Wikidata_SPARQL_query_equivalent: wd:Q131255 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 ---
 
-# [[Dim~Farad]] 
+# [[Unit~Farad]] 
 
 #is_/same_as :: [[../WikiData/WD~Farad,131255|WD~Farad,131255]] 
 
@@ -49,4 +49,5 @@ Wikidata_SPARQL_query_equivalent: wd:Q131255 p:P2370/psn:P2370 [wikibase:quantit
 > In SI base units 1 F = 1 kg−1⋅m−2⋅s4⋅A2.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Farad) 
+
 
