@@ -51,11 +51,21 @@ Colon_Classification: Y:351
 > This includes oral traditions such as tales, myths, legends, proverbs, poems, jokes, 
 > and other oral traditions. 
 > 
-> This also includes material culture, such as traditional building styles common to the group. Folklore also encompasses customary lore, taking actions for folk beliefs, including folk religion, and the forms and rituals of celebrations such as festivals, weddings, folk dances, and initiation rites. 
+> This also includes material culture, such as traditional building styles common to the group. 
+> Folklore also encompasses customary lore, taking actions for folk beliefs, including folk religion, 
+> and the forms and rituals of celebrations such as festivals, weddings, folk dances, and initiation rites. 
 >
-> Each one of these, either singly or in combination, is considered a folklore artifact or traditional cultural expression. Just as essential as the form, folklore also encompasses the transmission of these artifacts from one region to another or from one generation to the next. Folklore is not something one can typically gain from a formal school curriculum or study in the fine arts. Instead, these traditions are passed along informally from one individual to another, either through verbal instruction or demonstration.
+> Each one of these, either singly or in combination, 
+> is considered a folklore artifact or traditional cultural expression. 
+> Just as essential as the form, folklore also encompasses the transmission of these artifacts 
+> from one region to another or from one generation to the next. 
+> 
+> Folklore is not something one can typically gain from a formal school curriculum or study in the fine arts. 
+> Instead, these traditions are passed along informally from one individual to another, 
+> either through verbal instruction or demonstration.
 >
-> The academic study of folklore is called folklore studies or folkloristics, and it can be explored at the undergraduate, graduate, and Ph.D. levels.
+> The academic study of folklore is called folklore studies or folkloristics, 
+> and it can be explored at the undergraduate, graduate, and Ph.D. levels.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Folklore) 
 
