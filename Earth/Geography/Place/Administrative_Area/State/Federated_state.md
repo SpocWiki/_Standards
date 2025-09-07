@@ -2,9 +2,27 @@
 aliases:
   - Bundesland
 has_id_wikidata: Q107390
+different_from:
+  - "[[_Standards/WikiData/WD~autonomous_administrative_territorial_entity,788176]]"
+  - "[[_Standards/WikiData/WD~constituent_state,1763527]]"
+  - "[[_Standards/WikiData/WD~Q111818978,111818978]]"
+  - "[[_Standards/WikiData/WD~state,7275]]"
+part_of:
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~federation,43702]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~former_or_current_state,96196009]]"
+  - "[[_Standards/WikiData/WD~state,7275]]"
+  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
+has_characteristic: "[[_Standards/WikiData/WD~sovereignty,42008]]"
+equivalent_class: https://schema.org/State
+Commons_category: Federated states
+OpenStreetMap_tag_or_key: Tag:place=state
 ---
 
-# [[Federated_state]] 
+# [[Federated_State]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Federated_state,107390|WD~Federated_state,107390]] 
 
@@ -35,7 +53,14 @@ has_id_wikidata: Q107390
 > such as to protect a cross-border resource like water or other shared matters.
 >
 > In some cases, a federation is created from the union of political entities 
-> that are either independent or dependent territories of another sovereign entity (most commonly a colonial power). In other cases, federated states have been created out of the administrative divisions of previously unitary states. Once a federal constitution is formed, the rules governing the relationship between federal and regional powers become part of the country's constitutional law and not international law.
+> that are either independent or dependent territories of another sovereign entity 
+> (most commonly a colonial power). 
+> 
+> In other cases, 
+> federated states have been created out of the administrative divisions of previously unitary states. 
+> Once a federal constitution is formed, 
+> the rules governing the relationship between federal and regional powers 
+> become part of the country's constitutional law and not international law.
 >
 > In countries with federal constitutions, there is a division of power between the central government and the component states. These entities – states, provinces, counties, cantons, Länder, etc. – are partially self-governing and are afforded a degree of constitutionally guaranteed autonomy that varies substantially from one federation to another. Depending on the form the decentralization of powers takes, a federated state's legislative powers may or may not be overruled or vetoed by the federal government. Laws governing the relationship between federal and regional powers can be amended through the national or federal constitution, and, if they exist, state constitutions as well.
 >
