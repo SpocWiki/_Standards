@@ -1,3 +1,8 @@
+---
+aliases:
+  - Mode
+has_id_wikidata: Q12684
+---
 
 # [[Fashion]] 
 
