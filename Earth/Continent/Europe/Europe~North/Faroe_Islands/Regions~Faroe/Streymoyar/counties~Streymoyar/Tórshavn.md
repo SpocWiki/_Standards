@@ -35,7 +35,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tórshavn](/_Standards/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.md) 
+### #is_/same_as :: [Tórshavn](Tórshavn.md) 
 
 ### #is_/same_as :: [Tórshavn.public](/_public/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.public.md) 
 
