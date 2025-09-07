@@ -19,7 +19,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stachyose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.md) 
+### #is_/same_as :: [Stachyose](Stachyose.md) 
 
 ### #is_/same_as :: [Stachyose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.public.md) 
 

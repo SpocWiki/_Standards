@@ -42,7 +42,7 @@ used_by: '[[_Standards/WikiData/WD~infrared_perception,47015713]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Infrared](/_Standards/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.md) 
+### #is_/same_as :: [Infrared](Infrared.md) 
 
 ### #is_/same_as :: [Infrared.public](/_public/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.public.md) 
 

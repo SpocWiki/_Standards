@@ -24,7 +24,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maltose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.md) 
+### #is_/same_as :: [Maltose](Maltose.md) 
 
 ### #is_/same_as :: [Maltose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.public.md) 
 

@@ -27,6 +27,10 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Materialak%20denborar
 Wikidata_property: "made from material"
 ---
 
+# [[Material]] 
+
+#is_/same_as :: [[../WikiData/WD~Material,214609|WD~Material,214609]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Material** is a substance or mixture of substances that constitutes an object. 

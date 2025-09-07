@@ -129,7 +129,7 @@ taxon_name: Puma concolor
 
 # [[Cougar]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Cougar,35255|WD~Cougar,35255]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cougar,35255|WD~Cougar,35255]] 
 
 ## #has_/text_of_/abstract 
 

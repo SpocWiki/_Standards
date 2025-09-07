@@ -94,7 +94,7 @@ taxon_common_name: gepard grzywiasty
 
 # [[Cheetah]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Cheetah,23907|WD~Cheetah,23907]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cheetah,23907|WD~Cheetah,23907]] 
 
 ## #has_/text_of_/abstract 
 

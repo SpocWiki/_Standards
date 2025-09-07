@@ -44,7 +44,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Circular.Polarization
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electromagnetic_Radiation](/_Standards/Science/Physics/Electricity/Electromagnetic_Radiation.md) 
+### #is_/same_as :: [Electromagnetic_Radiation](Electromagnetic_Radiation.md) 
 
 ### #is_/same_as :: [Electromagnetic_Radiation.public](/_public/Science/Physics/Electricity/Electromagnetic_Radiation.public.md) 
 

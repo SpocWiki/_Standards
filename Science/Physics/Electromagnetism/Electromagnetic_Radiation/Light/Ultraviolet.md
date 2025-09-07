@@ -17,7 +17,7 @@ has_id_wikidata: Q11391
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ultraviolet](/_Standards/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Ultraviolet.md) 
+### #is_/same_as :: [Ultraviolet](Ultraviolet.md) 
 
 ### #is_/same_as :: [Ultraviolet.public](/_public/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Ultraviolet.public.md) 
 

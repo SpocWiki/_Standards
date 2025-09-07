@@ -16,7 +16,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Raffinose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Raffinose.md) 
+### #is_/same_as :: [Raffinose](Raffinose.md) 
 
 ### #is_/same_as :: [Raffinose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Raffinose.public.md) 
 

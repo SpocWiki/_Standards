@@ -55,7 +55,7 @@ UMLS_CUI: C0006080
 
 # [[Boxing]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Boxing,32112|WD~Boxing,32112]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Boxing,32112|WD~Boxing,32112]] 
 ## #has_/text_of_/abstract 
 
 > **Boxing** is a combat sport and martial art. Taking place in a boxing ring, it involves two people – usually wearing protective equipment, such as protective gloves, hand wraps, and mouthguards – throwing punches at each other for a predetermined amount of time.

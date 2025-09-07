@@ -64,7 +64,7 @@ Below is a detailed explanation:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glycogen](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.md) 
+### #is_/same_as :: [Glycogen](Glycogen.md) 
 
 ### #is_/same_as :: [Glycogen.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.public.md) 
 

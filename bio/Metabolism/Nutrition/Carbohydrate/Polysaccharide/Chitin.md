@@ -70,7 +70,7 @@ isomeric_SMILES: N([C@@H]1[C@H](O[C@@H]([C@@H]([C@H]1O)O)CO)*O*[C@@H]1[C@@H](O)[
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chitin](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.md) 
+### #is_/same_as :: [Chitin](Chitin.md) 
 
 ### #is_/same_as :: [Chitin.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.public.md) 
 

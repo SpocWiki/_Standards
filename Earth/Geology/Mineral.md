@@ -4,11 +4,21 @@ has_id_wikidata: Q7946
 
 ## #has_/text_of_/abstract 
 
-> In geology and **Mineral**ogy, a mineral or mineral species is, broadly speaking, a solid substance with a fairly well-defined chemical composition and a specific crystal structure that occurs naturally in pure form.
+> In geology and **Mineral**ogy, a mineral or mineral species is, broadly speaking, 
+> a solid substance with a fairly well-defined chemical composition 
+> and a specific crystal structure that occurs naturally in pure form.
 >
-> The geological definition of mineral normally excludes compounds that occur only in living organisms. However, some minerals are often biogenic (such as calcite) or organic compounds in the sense of chemistry (such as mellite). Moreover, living organisms often synthesize inorganic minerals (such as hydroxylapatite) that also occur in rocks.
+> The geological definition of mineral normally excludes compounds that occur only in living organisms. 
+> However, some minerals are often biogenic (such as calcite) 
+> or organic compounds in the sense of chemistry (such as mellite). 
+> Moreover, living organisms often synthesize inorganic minerals (such as hydroxylapatite) 
+> that also occur in rocks.
 >
-> The concept of mineral is distinct from rock, which is any bulk solid geologic material that is relatively homogeneous at a large enough scale. A rock may consist of one type of mineral or may be an aggregate of two or more different types of minerals, spacially segregated into distinct phases.
+> The concept of mineral is distinct from rock, which is any bulk solid geologic material 
+> that is relatively homogeneous at a large enough scale. 
+> A rock may consist of one type of mineral 
+> or may be an aggregate of two or more different types of minerals, 
+> spacially segregated into distinct phases.
 >
 > Some natural solid substances without a definite crystalline structure, such as opal or obsidian, are more properly called mineraloids.  If a chemical compound occurs naturally with different crystal structures, each structure is considered a different mineral species. Thus, for example, quartz and stishovite are two different minerals consisting of the same compound, silicon dioxide.
 >
@@ -25,7 +35,7 @@ has_id_wikidata: Q7946
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mineral](/_Standards/Chemistry/Material/Mineral.md) 
+### #is_/same_as :: [Mineral](Mineral.md) 
 
 ### #is_/same_as :: [Mineral.public](/_public/Chemistry/Material/Mineral.public.md) 
 

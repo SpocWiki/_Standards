@@ -49,7 +49,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fructose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.md) 
+### #is_/same_as :: [Fructose](Fructose.md) 
 
 ### #is_/same_as :: [Fructose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.public.md) 
 

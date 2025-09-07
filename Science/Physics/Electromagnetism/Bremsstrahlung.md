@@ -118,7 +118,7 @@ P8189: "987007282511805171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bremsstrahlung](/_Standards/Science/Physics/Electricity/Bremsstrahlung.md) 
+### #is_/same_as :: [Bremsstrahlung](Bremsstrahlung.md) 
 
 ### #is_/same_as :: [Bremsstrahlung.public](/_public/Science/Physics/Electricity/Bremsstrahlung.public.md) 
 

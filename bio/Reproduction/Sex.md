@@ -50,9 +50,25 @@ Wikidata_property: "sex or gender"
 
 ## #has_/text_of_/abstract 
 
-> **Sex** is the biological trait that determines whether a sexually reproducing organism produces male or female gametes. During sexual reproduction, a male and a female gamete fuse to form a zygote, which develops into an offspring that inherits traits from each parent.  By convention, organisms that produce smaller, more mobile gametes (spermatozoa, sperm) are called male, while organisms that produce larger, non-mobile gametes (ova, often called egg cells) are called female. An organism that produces both types of gamete is hermaphrodite.  
+> **Sex** is the biological trait that determines 
+> whether a sexually reproducing organism produces male or female gametes. 
+> 
+> During sexual reproduction, a male and a female gamete fuse to form a zygote, 
+> which develops into an offspring that inherits traits from each parent.  
+> By convention, organisms that produce smaller, more mobile gametes 
+> (spermatozoa, sperm) are called male, 
+> while organisms that produce larger, non-mobile gametes (ova, often called egg cells) 
+> are called female. 
+> An organism that produces both types of gamete is hermaphrodite.  
 >
-> In non-hermaphroditic species, the sex of an individual is determined through one of several biological sex-determination systems.  Most mammalian species have the XY sex-determination system, where the male usually carries an X and a Y chromosome (XY), and the female usually carries two X chromosomes (XX). Other chromosomal sex-determination systems in animals include the ZW system in birds, and the XO system in some insects. Various environmental systems include temperature-dependent sex determination in reptiles and crustaceans.
+> In non-hermaphroditic species, the sex of an individual 
+> is determined through one of several biological sex-determination systems.  
+> Most mammalian species have the XY sex-determination system, 
+> where the male usually carries an X and a Y chromosome (XY), 
+> and the female usually carries two X chromosomes (XX). 
+> 
+> Other chromosomal sex-determination systems in animals include the ZW system in birds, 
+> and the XO system in some insects. Various environmental systems include temperature-dependent sex determination in reptiles and crustaceans.
 >
 > The male and female of a species may be physically alike (sexual monomorphism) or have physical differences (sexual dimorphism).  In sexually dimorphic species, including most birds and mammals, the sex of an individual is usually identified through observation of that individual's sexual characteristics.  Sexual selection or mate choice can accelerate the evolution of differences between the sexes.
 >

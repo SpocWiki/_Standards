@@ -62,7 +62,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Light](/_Standards/Science/Physics/Electricity/Electromagnetic_Radiation/Light.md) 
+### #is_/same_as :: [Light](Light.md) 
 
 ### #is_/same_as :: [Light.public](/_public/Science/Physics/Electricity/Electromagnetic_Radiation/Light.public.md) 
 

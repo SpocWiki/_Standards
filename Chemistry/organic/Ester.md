@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Esters
 has_id_wikidata: Q101487
 different_from:
   - "[[_Standards/WikiData/WD~carboxylate_ester,355518]]"
