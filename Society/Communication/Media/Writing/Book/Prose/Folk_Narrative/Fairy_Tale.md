@@ -11,12 +11,22 @@ has_id_wikidata: Q699
 
 # [[Fairy_Tale]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Fairy_tale,699|WD~Fairy_tale,699]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Fairy_tale,699|WD~Fairy_tale,699]] 
 
 ## #has_/text_of_/abstract 
 
 > A fairy tale (alternative names include fairytale, fairy story, household tale, magic tale, or wonder tale) 
-> is a short story that belongs to the folklore genre. Such stories typically feature magic, enchantments, and mythical or fanciful beings. In most cultures, there is no clear line separating myth from folk or fairy tale; all these together form the literature of preliterate societies. Fairy tales may be distinguished from other folk narratives such as legends (which generally involve belief in the veracity of the events described) and explicit moral tales, including beast fables. Prevalent elements include dragons, dwarfs, elves, fairies, giants, gnomes, goblins, griffins, merfolk, monsters, monarchy, pixies, talking animals, trolls, unicorns, witches, wizards, magic, and enchantments.
+> is a short story that belongs to the folklore genre. 
+> 
+> Such stories typically feature magic, enchantments, and mythical or fanciful beings. 
+> In most cultures, there is no clear line separating myth from folk or fairy tale; 
+> all these together form the literature of preliterate societies. 
+> 
+> Fairy tales may be distinguished from other folk narratives such as legends 
+> (which generally involve belief in the veracity of the events described) 
+> and explicit moral tales, including beast fables. 
+> 
+> Prevalent elements include dragons, dwarfs, elves, fairies, giants, gnomes, goblins, griffins, merfolk, monsters, monarchy, pixies, talking animals, trolls, unicorns, witches, wizards, magic, and enchantments.
 >
 > In less technical contexts, the term is also used to describe something blessed with unusual happiness, as in "fairy-tale ending" (a happy ending) or "fairy-tale romance". Colloquially, the term "fairy tale" or "fairy story" can also mean any far-fetched story or tall tale; it is used especially to describe any story that not only is not true, but also could not possibly be true. Legends are perceived as real within their culture; fairy tales may merge into legends, where the narrative is perceived both by teller and hearers as being grounded in historical truth. However, unlike legends and epics, fairy tales usually do not contain more than superficial references to religion and to actual places, people, and events; they take place "once upon a time" rather than in actual times.
 >

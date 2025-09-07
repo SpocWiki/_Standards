@@ -32,7 +32,7 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/BASNYA.html
 
 # [[Fable]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Fable,693|WD~Fable,693]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Fable,693|WD~Fable,693]] 
 
 ## #has_/text_of_/abstract 
 
