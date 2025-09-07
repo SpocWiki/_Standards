@@ -28,6 +28,10 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier: 10636986
 ---
 
+# [[Fossil_Fuel]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Fossil_fuel,12748|WD~Fossil_fuel,12748]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Fossil fuel** is a carbon compound- or hydrocarbon-containing material formed naturally in the Earth's crust from the buried remains of prehistoric organisms (animals, plants or planktons), a process that occurs within geological formations. Reservoirs of such compound mixtures, such as coal, petroleum and natural gas, can be extracted and burnt as fuel for human consumption to provide energy for direct use (such as for cooking, heating or lighting), to power heat engines (such as steam or internal combustion engines) that can propel vehicles, or to generate electricity via steam turbine generators. Some fossil fuels are further refined into derivatives such as kerosene, gasoline and diesel, or converted into petrochemicals such as polyolefins (plastics), aromatics and synthetic resins.

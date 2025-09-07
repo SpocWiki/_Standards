@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Formicidae
 has_id_wikidata: Q7386
 Krugosvet_article: nauka_i_tehnika/biologiya/MURAVI.html
 NBN_System_Key: NBNSYS0000037030
