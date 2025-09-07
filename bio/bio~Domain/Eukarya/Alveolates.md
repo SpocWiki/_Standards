@@ -6,7 +6,7 @@ title: Alveolates
 
 
 #is_a/bio-Kingdom 
-#is_a :: [[../../Taxon_Rank/bio-Kingdom|bio-Kingdom]]  
+#is_a :: [[../../Taxon_Rank/bio~Kingdom|bio~Kingdom]]  
 
 
 ![Ceratium dinoflagellate](Alveolates/ceratium_Dinoflagellates.jpg) ![](Alveolates/Ciliates~Stylonychia.jpg)

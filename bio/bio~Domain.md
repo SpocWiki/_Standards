@@ -25,7 +25,7 @@ Commons_category: Domains (biology)
 #is_a_/taxon_rank  
 #is_a_ :: [[Taxon_Rank]] 
 
-#has_/next_/item ::[[Taxon_Rank/bio-Kingdom]]] 
+#has_/next_/item ::[[Taxon_Rank/bio~Kingdom]]] 
 
 Top-Level Distinction of [[Life]], rooted at the [[LUCA(Last_Universal_Common_Ancestor)]] . 
 

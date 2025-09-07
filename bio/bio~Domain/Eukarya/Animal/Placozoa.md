@@ -5,7 +5,7 @@ title: Placozoa
 # [[Placozoa]] 
 
 #is_a/bio-Phylum  
-#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+#is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 
 ![ ](Placozoa/placazoan.gif)

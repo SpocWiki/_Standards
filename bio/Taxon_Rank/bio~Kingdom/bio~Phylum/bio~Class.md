@@ -22,13 +22,13 @@ part_of:
 - '[[_Standards/WikiData/WD~superclass,3504061]]'
 ---
 
-# [[bio-Class]] 
+# [[bio~Class]] 
 
 #is_a_/taxon_rank  
 #is_a_ :: [[Taxon_Rank]] 
 
-#has_/previous_/item :: [[../bio-Phylum]]  
-#has_/next_/item :: [[bio-Class/bio-Order]]  
+#has_/previous_/item :: [[../bio~Phylum]]  
+#has_/next_/item :: [[bio~Class/bio~Order]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Class,37517]] 
 
@@ -46,7 +46,7 @@ part_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio-Class](bio-Class.md) 
+### #is_/same_as :: [bio~Class](bio~Class.md) 
 
 ### #is_/same_as :: [bio~Class.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class.public.md) 
 

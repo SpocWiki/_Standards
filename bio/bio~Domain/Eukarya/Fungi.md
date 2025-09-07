@@ -68,7 +68,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fungi,39087041]]'
 # [[Fungi]] 
 
 #is_a/bio-Kingdom 
-#is_a :: [[../../Taxon_Rank/bio-Kingdom|bio-Kingdom]]  
+#is_a :: [[../../Taxon_Rank/bio~Kingdom|bio~Kingdom]]  
 
 #is_/subject_of ::  [[../../Mycology|Mycology]] 
 

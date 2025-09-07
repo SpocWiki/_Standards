@@ -7,13 +7,13 @@ aliases:
 has_id_wikidata: Q38348
 ---
 
-# [[bio-Phylum]] 
+# [[bio~Phylum]] 
 
 #is_a_/taxon_rank 
 #is_a_ :: [[Taxon_Rank]] 
 
-#has_/previous_/item :: [[../bio-Kingdom]]  
-#has_/next_/item :: [[bio-Phylum/bio-Class]]  
+#has_/previous_/item :: [[../bio~Kingdom]]  
+#has_/next_/item :: [[bio~Phylum/bio~Class]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Phylum,38348]] 
 
@@ -37,7 +37,7 @@ has_id_wikidata: Q38348
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio-Phylum](bio-Phylum.md) 
+### #is_/same_as :: [bio~Phylum](bio~Phylum.md) 
 
 ### #is_/same_as :: [bio~Phylum.public](/_public/bio/bio~Domain/Eukarya/Animal/bio~Phylum.public.md) 
 

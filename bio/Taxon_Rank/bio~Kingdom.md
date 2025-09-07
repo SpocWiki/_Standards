@@ -20,14 +20,14 @@ part_of:
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Full_biological_kingdom_classification,6458785]]'
 ---
 
-# [[bio-Kingdom]] 
+# [[bio~Kingdom]] 
 
 - #is_a_/taxon_rank  
 - #is_a_ :: [[Taxon_Rank]] 
 - 
 - #is_/same_as :: [[../../../WikiData/WD~Kingdom,36732]] 
 - #has_/previous_/item :: [[../bio~Domain]] 
-- #has_/next_/item :: [[bio-Kingdom/bio-Phylum]] 
+- #has_/next_/item :: [[bio~Kingdom/bio~Phylum]] 
 
 ## #has_/text_of_/abstract 
 
@@ -50,7 +50,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Full_biological_kingdo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio-Kingdom](bio-Kingdom.md) 
+### #is_/same_as :: [bio~Kingdom](bio~Kingdom.md) 
 
 ### #is_/same_as :: [bio~Kingdom.public](/_public/bio/bio~Domain/Eukarya/bio~Kingdom.public.md) 
 

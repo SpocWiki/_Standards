@@ -8,7 +8,7 @@ title: Proteobacteria
 # [[Proteobacteria]] 
 
 #is_a/bio-Phylum  
-#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+#is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 
 ![electron micrograph of an Escherichia coli cluster](Proteobacteria/Escherichia_coli/Escherichia_coli1355024.jpg)

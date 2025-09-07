@@ -5,7 +5,7 @@ title: Apusomonads
 # [[Apusomonads]]
 
 #is_a/bio-Phylum  
-#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+#is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 ## Apusomonadidae [Karpov & Mylnikov 1989] 
 

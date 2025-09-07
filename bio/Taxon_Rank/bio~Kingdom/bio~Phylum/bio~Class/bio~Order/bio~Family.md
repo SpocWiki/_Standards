@@ -26,14 +26,14 @@ part_of:
 - '[[_Standards/WikiData/WD~order,36602]]'
 ---
 
-# [[bio-Family]] 
+# [[bio~Family]] 
 
 #is_a_/taxon_rank  
 #is_a_ :: [[Taxon_Rank]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Family,35409|WD~Family,35409]]  
-#has_/previous_/item :: [[../bio-Order]]  
-#has_/next_/item :: [[bio-Family/bio-Genus]]  
+#has_/previous_/item :: [[../bio~Order]]  
+#has_/next_/item :: [[bio~Family/bio-Genus]]  
 
 ## #has_/text_of_/abstract 
 
@@ -61,7 +61,7 @@ part_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio-Family](bio-Family.md) 
+### #is_/same_as :: [bio~Family](bio~Family.md) 
 
 ### #is_/same_as :: [bio~Family.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family.public.md) 
 

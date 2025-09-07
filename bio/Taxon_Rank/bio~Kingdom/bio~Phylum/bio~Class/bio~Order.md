@@ -21,14 +21,14 @@ part_of:
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%97.wav"
 ---
 
-# [[bio-Order]] 
+# [[bio~Order]] 
 
 #is_a_/taxon_rank  
 #is_a_ :: [[Taxon_Rank]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Order,36602|WD~Order,36602]]   
-#has_/previous_/item :: [[../bio-Class]]  
-#has_/next_/item :: [[bio-Order/bio-Family]]  
+#has_/previous_/item :: [[../bio~Class]]  
+#has_/next_/item :: [[bio~Order/bio~Family]]  
 
 |Name|Latin [prefix](https://en.wikipedia.org/wiki/Prefix "Prefix")|Examples|
 |---|---|---|
@@ -71,7 +71,7 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q961
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio-Order](bio-Order.md) 
+### #is_/same_as :: [bio~Order](bio~Order.md) 
 
 ### #is_/same_as :: [bio~Order.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order.public.md) 
 

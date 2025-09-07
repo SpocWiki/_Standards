@@ -10,7 +10,7 @@ title: Spirochaetes
 # [[Spirochaetes]] 
 
 #is_a/bio-Phylum  
-#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+#is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 
 ![Photomicrograph of Borrelia burgdorferi, the bacterium that causes Lyme disease](Spirochaetes/Borrelia_burgdorferi.jpg) ![Scanning electron micrograph of Leptospira interrogans strain RGA](Spirochaetes/Leptospira_interrogans.jpg) 

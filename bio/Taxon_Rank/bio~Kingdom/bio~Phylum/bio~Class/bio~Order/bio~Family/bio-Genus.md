@@ -34,7 +34,7 @@ short_name: g.
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Genus,34740|WD~Genus,34740]]  
 
-#has_/previous_/item :: [[../bio-Family]]  
+#has_/previous_/item :: [[../bio~Family]]  
 #has_/next_/item :: [[bio-Genus/bio-Species]] 
 
 

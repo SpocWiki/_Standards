@@ -29,7 +29,7 @@ start_time: -580000000-01-01T00:00:00Z
 # [[Cnidaria]]
 
 #is_a/bio-Phylum  
-#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+#is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Cnidaria,25441|WD~Cnidaria,25441]] 
 

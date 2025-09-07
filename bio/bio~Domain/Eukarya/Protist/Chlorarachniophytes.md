@@ -5,7 +5,7 @@ title: Chlorarachniophytes
 # [[Chlorarachniophytes]] 
 
 #is_a/bio-Phylum  
-#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+#is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 [Ken-ichiro Ishida and Geoff I. McFadden](http://www.tolweb.org/)
 
