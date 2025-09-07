@@ -3,30 +3,30 @@ aliases:
 has_id_wikidata: Q7386
 Krugosvet_article: nauka_i_tehnika/biologiya/MURAVI.html
 NBN_System_Key: NBNSYS0000037030
-Gujarati_Vishwakosh_entry: ????
+Gujarati_Vishwakosh_entry: કીડી
 taxon_common_name:
-  - ????????????
-  - ???
-  - ??????
-  - "*amaitija"
-  - "*miurija"
+  - النَمْلِيّات
+  - مور
+  - مورنیک
+  - "*āmaitijā"
+  - "*miurijā"
   - mravlje
-  - ???????
+  - муравьи
   - ants
   - maur
 named_after: "[[_Standards/WikiData/WD~cutting,196751]]"
 studied_by: "[[_Standards/WikiData/WD~myrmecology,499578]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclop�dia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclop�dia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Encyclop�dia_Britannica,455]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]"
 parent_taxon: "[[_Standards/WikiData/WD~Formicoidea,4038925]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_ants,7112553]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
@@ -98,3 +98,22 @@ UMLS_CUI: C0003455
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ant) 
 
+
+# [[Ant]] 
+
+#is_/part_of :: [[Formicidae]] 
+
+![[Ant.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Ant.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
