@@ -4,7 +4,7 @@ aliases:
   - car racing
   - motor racing
   - automobile racing
-has_id_wikidata:
+has_id_wikidata: Q5386
 ---
 
 
@@ -18,4 +18,21 @@ has_id_wikidata:
 > There are now numerous different categories, each with different rules and regulations.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Auto%20racing) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Auto_Racing](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Auto_Racing.md) 
+
+### #is_/same_as :: [Auto_Racing.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Auto_Racing.public.md) 
+
+### #is_/same_as :: [Auto_Racing.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Auto_Racing.internal.md) 
+
+### #is_/same_as :: [Auto_Racing.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Auto_Racing.protect.md) 
+
+### #is_/same_as :: [Auto_Racing.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Auto_Racing.private.md) 
+
+### #is_/same_as :: [Auto_Racing.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Auto_Racing.personal.md) 
+
+### #is_/same_as :: [Auto_Racing.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Auto_Racing.secret.md)
 
