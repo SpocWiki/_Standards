@@ -89,8 +89,8 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_agriculture,7112548]]"
 
 ## #has_/text_of_/abstract 
 
-> **Agriculture** encompasses crop and livestock production, aquaculture, 
-> and forestry for food and non-food products. 
+> **Agriculture** encompasses crop and livestock production, [[Agriculture/Aquaculture|Aquaculture]] , 
+> and [[Forestry]] for food and non-food products. 
 > 
 > Agriculture was a key factor in the rise of **sedentary human civilization**, 
 > whereby farming of domesticated species created food surpluses 
