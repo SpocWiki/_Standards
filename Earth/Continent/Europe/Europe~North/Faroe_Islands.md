@@ -145,12 +145,11 @@ top_level_Internet_domain: "[[_Standards/WikiData/WD~.fo,41446]]"
 
 # [[Faroe_Islands]] 
 
-
-[	ISO4217-currency_alphabetic	 :: DKK ]
-[	ISO4217-currency_name	 :: Danish Krone ]
-[	ISO4217-currency_numeric	 :: 208 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: FAROE ISLANDS ]
+[	ISO4217-currency_alphabetic	 :: DKK ] 
+[	ISO4217-currency_name	 :: Danish Krone ] 
+[	ISO4217-currency_numeric	 :: 208 ] 
+[	ISO4217-currency_minor_unit	 :: 2 ] 
+[	ISO4217-currency_country_name	 :: FAROE ISLANDS ] 
 
 [	Telephone	 :: 298 ]
 
@@ -213,6 +212,8 @@ Sub-region_Name ::  [[Northern Europe]]
 [ISO3::FRO]
 
 #is_/same_as :: [[../../../../WikiData/WD~Faroe_Islands,4628|WD~Faroe_Islands,4628]] 
+
+## #has_/map 
 
 ```leaflet
 id: Faeroe Islands
