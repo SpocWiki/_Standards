@@ -13,7 +13,7 @@ image:
 
 # [[Early_human_migrations]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Early_human_migrations,858288|WD~Early_human_migrations,858288]]
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Early_human_migrations,858288|WD~Early_human_migrations,858288]]
 
 ## #has_/text_of_/abstract 
 

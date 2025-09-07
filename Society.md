@@ -45,7 +45,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_society,7112731]]'
 
 # [[Society]] 
 
-#see [[../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History|History]] 
+#see [[Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History|History]] 
 
 Pre-historic human Societies were hunters and gatherers, 
 usually living in Clans or larger Families. 

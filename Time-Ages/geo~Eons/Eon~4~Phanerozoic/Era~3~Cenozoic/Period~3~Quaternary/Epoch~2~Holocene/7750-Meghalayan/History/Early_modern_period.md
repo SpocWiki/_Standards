@@ -21,7 +21,7 @@ start_time: 1500-01-01T00:00:00Z
 
 # [[Early_modern_period]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Early_modern_period,5308718|WD~Early_modern_period,5308718]]
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Early_modern_period,5308718|WD~Early_modern_period,5308718]]
 
 
 ## #has_/text_of_/abstract 

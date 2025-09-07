@@ -38,7 +38,7 @@ dissolved_abolished_or_demolished_date: 0962-01-01T00:00:00Z
 
 # [[East_Francia]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~East_Francia,153080|WD~East_Francia,153080]]
+#is_/same_as :: [[../../../../../../../../WikiData/WD~East_Francia,153080|WD~East_Francia,153080]]
 
 ## #has_/text_of_/abstract 
 

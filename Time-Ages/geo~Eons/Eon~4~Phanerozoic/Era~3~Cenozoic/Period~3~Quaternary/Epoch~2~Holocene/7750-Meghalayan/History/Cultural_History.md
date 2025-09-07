@@ -7,7 +7,7 @@ has_id_wikidata: Q858517
 
 # [[Cultural_History]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Cultural_history,858517|WD~Cultural_history,858517]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Cultural_history,858517|WD~Cultural_history,858517]] 
 
 ## #has_/text_of_/abstract 
 

@@ -14,7 +14,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/How%20%28and%20when%29
 
 # [[Control_of_fire_by_early_humans]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Control_of_fire_by_early_humans,912205|WD~Control_of_fire_by_early_humans,912205]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Control_of_fire_by_early_humans,912205|WD~Control_of_fire_by_early_humans,912205]] 
 
 ## #has_/text_of_/abstract 
 
