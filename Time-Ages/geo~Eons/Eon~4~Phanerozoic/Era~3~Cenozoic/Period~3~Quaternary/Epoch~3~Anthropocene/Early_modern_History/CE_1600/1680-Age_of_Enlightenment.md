@@ -75,7 +75,7 @@ has_id_wikidata: Q12539
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1680-Age_of_Enlightenment](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1680-Age_of_Enlightenment.md) 
+### #is_/same_as :: [1680-Age_of_Enlightenment](1680-Age_of_Enlightenment.md) 
 
 ### #is_/same_as :: [1680-Age_of_Enlightenment.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1680-Age_of_Enlightenment.public.md) 
 

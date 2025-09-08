@@ -26,7 +26,7 @@ Commons_category: Condensation
 
 ## #has_/text_of_/abstract 
 
-> **Condensation** is the change of the [[../State_of_Matter|state of matter]] from the [[gas]] phase into the [[liquid]] phase, 
+> **Condensation** is the change of the [[../State_of_Matter|state of matter]] from the [[Gas]] phase into the [[liquid]] phase, 
 > and is the reverse of [[Vaporization]]. 
 > 
 > The word most often refers to the water cycle. 

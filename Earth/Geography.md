@@ -1,73 +1,89 @@
 ---
-aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Land%20ocean%20ice%20cloud%201024.jpg"
+aliases:
+  - Geography
+  - Geografie
+aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Land%20ocean%20ice%20cloud%201024.jpg
 Baidu_Tieba_name: 地理
-Basisklassifikation: 74
+Basisklassifikation: "74"
 Classification_of_Instructional_Programs_code:
-- 45.0701
-- 45.0799
+  - "45.0701"
+  - "45.0799"
 Colon_Classification: U
 Commons_category: Geography
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Geography,1194350]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Geography,1194350]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 Dewey_Decimal_Classification:
-- 372.891
-- 372.892
-- 910
+  - "910"
+  - "372.891"
+  - "372.892"
 different_from:
-- '[[_Standards/WikiData/WD~Geography,1194350]]'
-- '[[_Standards/WikiData/WD~geology,1069]]'
+  - "[[_Standards/WikiData/WD~Geography,1194350]]"
+  - "[[_Standards/WikiData/WD~geology,1069]]"
 GitHub_topic: geography
 hashtag: geography
 has_id_wikidata: Q1071
-history_of_topic: '[[_Standards/WikiData/WD~history_of_geography,911070]]'
+history_of_topic: "[[_Standards/WikiData/WD~history_of_geography,911070]]"
 IAB_code:
-- 1219
-- 469
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20332979%20ccDiegoNaive%20geography.svg"
+  - "469"
+  - "1219"
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20332979%20ccDiegoNaive%20geography.svg
 Iconclass_notation: 49I
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/OrteliusWorldMap.jpeg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/OrteliusWorldMap.jpeg
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 IPTC_NewsCode: mediatopic/20000746
-is_the_study_of: '[[_Standards/WikiData/WD~geographic_location,2221906]]'
+is_the_study_of: "[[_Standards/WikiData/WD~geographic_location,2221906]]"
 MeSH_tree_code: H01.277.500
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~earth_science,8008]]'
-- '[[_Standards/WikiData/WD~social_science,34749]]'
+  - "[[_Standards/WikiData/WD~Earth_science,8008]]"
+  - "[[_Standards/WikiData/WD~social_science,34749]]"
 PhilPapers_topic: geography
-practiced_by: '[[_Standards/WikiData/WD~geographer,901402]]'
+practiced_by: "[[_Standards/WikiData/WD~geographer,901402]]"
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%AD%E0%A9%82%E0%A8%97%E0%A9%8B%E0%A8%B2.wav"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%AD%E0%A9%82%E0%A8%97%E0%A9%8B%E0%A8%B2.wav
 Provenio_UUID: 1c8994ae-55bc-4dd4-b3d7-ce7c13375cf2
 Regensburg_Classification: R
-Stack_Exchange_tag: "https://stackoverflow.com/tags/geography"
+Stack_Exchange_tag: https://stackoverflow.com/tags/geography
 studied_in:
-- '[[_Standards/WikiData/WD~history_of_geography,911070]]'
-- '[[_Standards/WikiData/WD~Q3589295,3589295]]'
-subclass_of: '[[_Standards/WikiData/WD~science,336]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q16918667,16918667]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Geography_topics,8083477]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Geography,3271988]]'
+  - "[[_Standards/WikiData/WD~history_of_geography,911070]]"
+  - "[[_Standards/WikiData/WD~Q3589295,3589295]]"
+subclass_of: "[[_Standards/WikiData/WD~science,336]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q16918667,16918667]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Geography_topics,8083477]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Geography,3271988]]"
 UMLS_CUI:
-- C0020126
-- C0017444
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-Universal_Decimal_Classification: 91
-U_S_National_Archives_Identifier: 10639745
-Wikidata_property: "geography of topic"
+  - C0017444
+  - C0020126
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+Universal_Decimal_Classification: "91"
+U_S_National_Archives_Identifier: "10639745"
+Wikidata_property: geography of topic
+hashtag_: geography
+studied_by:
+  - "[[_Standards/WikiData/WD~history_of_geography,911070]]"
+  - "[[_Standards/WikiData/WD~Q3589295,3589295]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Geography_topics,8083477]]"
+  - "[[_Standards/WikiData/WD~Template_Geography_sidebar,14459699]]"
+has_part_s_: "[[_Standards/WikiData/WD~evolutionary_geography,135995350]]"
 ---
+
+
+# [[Geography]]
+
+#is_/same_as :: [[wd Geography]]
 
 ## #has_/text_of_/abstract 
 

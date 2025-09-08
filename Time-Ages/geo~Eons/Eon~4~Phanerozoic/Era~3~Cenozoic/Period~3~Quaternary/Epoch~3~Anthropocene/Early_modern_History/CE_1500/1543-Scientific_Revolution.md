@@ -33,7 +33,7 @@ start_time: 1543-06
 > which formulated the laws of motion and universal gravitation, 
 > thereby completing the synthesis of a new cosmology. 
 > 
-> The subsequent [[../CE_1700/1680-Age_of_Enlightenment|Age of Enlightenment]] saw the concept of a scientific revolution 
+> The subsequent [[1680-Age_of_Enlightenment|Age of Enlightenment]] saw the concept of a scientific revolution 
 > emerge in the 18th-century work of Jean Sylvain Bailly, 
 > who described a two-stage process of sweeping away the old and establishing the new. 
 > There continues to be scholarly engagement regarding the boundaries of the Scientific Revolution and its chronology.
@@ -43,7 +43,7 @@ start_time: 1543-06
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1543-Scientific_Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1543-Scientific_Revolution.md) 
+### #is_/same_as :: [1543-Scientific_Revolution](1543-Scientific_Revolution.md) 
 
 ### #is_/same_as :: [1543-Scientific_Revolution.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1543-Scientific_Revolution.public.md) 
 
