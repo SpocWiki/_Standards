@@ -8,7 +8,7 @@ title: Stramenopiles
 # [[Stramenopiles]] 
 
 #is_a/bio-Kingdom 
-#is_a :: [[../../Taxon_Rank/bio-Kingdom|bio-Kingdom]]  
+#is_a :: [[../../Taxon_Rank/bio~Kingdom|bio~Kingdom]]  
 
 
 ![ ](Stramenopiles/Cymbella_tumida-Diatomee.jpg)  ![](Stramenopiles/Macrocystis.jpg) 

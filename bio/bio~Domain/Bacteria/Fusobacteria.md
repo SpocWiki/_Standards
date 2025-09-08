@@ -9,7 +9,7 @@ title: Fusobacteria
 # [[Fusobacteria]] 
 
 #is_a/bio-Kingdom 
-#is_a :: [[../../Taxon_Rank/bio-Kingdom|bio-Kingdom]]  
+#is_a :: [[../../Taxon_Rank/bio~Kingdom|bio~Kingdom]]  
 
 
 ## #has_/text_of_/abstract 

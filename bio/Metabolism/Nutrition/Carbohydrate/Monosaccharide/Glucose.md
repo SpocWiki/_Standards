@@ -38,7 +38,7 @@ The North-American [[Wood_Frog]] accumulates Urea and Glucoses in Cells and Bloo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glucose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.md) 
+### #is_/same_as :: [Glucose](Glucose.md) 
 
 ### #is_/same_as :: [Glucose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.public.md) 
 

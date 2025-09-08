@@ -69,6 +69,10 @@ UMLS_CUI: C0023741
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_linguistics,7112675]]'
 ---
 
+# [[Linguistics]] 
+
+#is_/same_as :: [[../WikiData/WD~Linguistics,8162|WD~Linguistics,8162]] 
+
 ## #has_/text_of_/abstract 
 
 > **Linguistics** is the scientific study of language. The areas of linguistic analysis are syntax (rules governing the structure of sentences), semantics (meaning), morphology (structure of words), phonetics (speech sounds and equivalent gestures in sign languages), phonology (the abstract sound system of a particular language, and analogous systems of sign languages), and pragmatics (how the context of use contributes to meaning). Subdisciplines such as biolinguistics (the study of the biological variables and evolution of language) and psycholinguistics (the study of psychological factors in human language) bridge many of these divisions.

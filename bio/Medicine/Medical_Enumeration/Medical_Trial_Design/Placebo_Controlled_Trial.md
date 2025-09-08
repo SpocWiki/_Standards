@@ -29,7 +29,7 @@ type: Type
 Class of all placebo_controlled_trials.
 
 Tag Instances like this: 
-#is_a_/placebo_controlled_trial
+#is_a_/trial_/placebo_controlled 
 
 A placebo-controlled trial design.
 

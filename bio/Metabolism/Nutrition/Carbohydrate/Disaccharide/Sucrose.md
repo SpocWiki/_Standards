@@ -42,7 +42,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sucrose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.md) 
+### #is_/same_as :: [Sucrose](Sucrose.md) 
 
 ### #is_/same_as :: [Sucrose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.public.md) 
 

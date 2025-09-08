@@ -2,6 +2,7 @@
 aliases:
 - "Felix Christian Klein"
 - "Felix Klein"
+- Felix_Klein
 archives_at:
 - '[[_Standards/WikiData/WD~Göttingen_State_and_University_Library,564783]]'
 award_received:

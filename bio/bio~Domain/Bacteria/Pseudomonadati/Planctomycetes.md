@@ -3,7 +3,7 @@ aliases:
   - Planctomycetota
   - Planctomycetes
 title: Planctomycetes
-dv_is_a: "[[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]"
+dv_is_a: "[[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]"
 dv_is_/same_as:
   - "[Planctomycetes](Planctomycetes.md)"
   - "[Planctomycetes.public](/_public/bio/bio~Domain/Bacteria/Planctomycetes.public.md)"
@@ -25,7 +25,7 @@ dv_is_same_as:
 # [[Planctomycetes]] 
 
 #is_a/bio-Phylum  
-#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+#is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 ## #has_/text_of_/abstract 
 

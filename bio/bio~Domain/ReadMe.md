@@ -11,7 +11,7 @@ has_id_wikidata: Q146481
 #is_/same_as :: [[../WikiData/WD~Domain,146481]] 
 
 #has_/time_/started : 1990-06 
-#has_/next_/item ::[[../Taxon_Rank/bio-Kingdom]]] 
+#has_/next_/item ::[[../Taxon_Rank/bio~Kingdom]]] 
 
 Top-Level Distinction of [[Life]], rooted at the [[LUCA(Last_Universal_Common_Ancestor)]] . 
 

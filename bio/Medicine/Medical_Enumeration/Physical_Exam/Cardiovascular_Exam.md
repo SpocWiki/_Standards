@@ -29,7 +29,7 @@ type: Type
 Class of all cardiovascular_exams.
 
 Tag Instances like this: 
-#is_a_/cardiovascular_exam
+#is_an_/examination_of_the_/cardiovascular_exam  
 
 Cardiovascular system assessment with clinical examination.
 

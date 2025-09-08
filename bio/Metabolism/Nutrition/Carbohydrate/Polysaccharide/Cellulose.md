@@ -104,7 +104,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cellulose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.md) 
+### #is_/same_as :: [Cellulose](Cellulose.md) 
 
 ### #is_/same_as :: [Cellulose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.public.md) 
 

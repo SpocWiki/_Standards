@@ -81,6 +81,7 @@ Wikidata_property:
 # [[Family]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Family,8436]] 
+
 ## #has_/text_of_/abstract 
 
 > **Family** (from Latin: familia) is a group of people related 

@@ -15,7 +15,12 @@ subclass_of: '[[_Standards/WikiData/WD~abstract_art,128115]]'
 
 ## #has_/text_of_/abstract 
 
-> Abstract expressionism in the United States emerged as a distinct art movement in the aftermath of World War II and gained mainstream acceptance in the 1950s, a shift from the American social realism of the 1930s influenced by the Great Depression and Mexican muralists. The term was first applied to American art in 1946 by the art critic Robert Coates. Key figures in the New York School, which was the center of this movement, included such artists as Arshile Gorky, Jackson Pollock, Franz Kline, Mark Rothko, Norman Lewis, Willem de Kooning, Adolph Gottlieb, Clyfford Still, Robert Motherwell, Theodoros Stamos, and Lee Krasner among others.
+> Abstract expressionism in the United States emerged as a distinct art movement in the aftermath of World War II 
+> and gained mainstream acceptance in the 1950s, 
+> a shift from the American social realism of the 1930s influenced by the Great Depression and Mexican muralists. 
+> 
+> The term was first applied to American art in 1946 by the art critic Robert Coates. 
+> Key figures in the New York School, which was the center of this movement, included such artists as Arshile Gorky, Jackson Pollock, Franz Kline, Mark Rothko, Norman Lewis, Willem de Kooning, Adolph Gottlieb, Clyfford Still, Robert Motherwell, Theodoros Stamos, and Lee Krasner among others.
 >
 > The movement was not limited to painting but included influential collagists and sculptors, such as David Smith, Louise Nevelson, and others. Abstract expressionism was notably influenced by the spontaneous and subconscious creation methods of Surrealist artists like André Masson and Max Ernst. Artists associated with the movement combined the emotional intensity of German Expressionism with the radical visual vocabularies of European avant-garde schools like Futurism, the Bauhaus, and Synthetic Cubism.
 >

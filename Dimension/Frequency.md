@@ -45,7 +45,7 @@ Gujarati_Vishwakosh_entry: આવૃત્તિ
 # [[Frequency]] 
 
 #is_/same_as :: [[../WikiData/WD~Frequency,11652|WD~Frequency,11652]] 
-#has_/unit_for_ :: [[Dim~Time/Hertz|Hertz]] 
+#has_/unit_ :: [[Dim~Time/Hertz|Hertz]] 
 
 ## #has_/text_of_/abstract 
 

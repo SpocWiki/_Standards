@@ -9,7 +9,7 @@ title: Cyanobacteria
 # [[Cyanobacteria]] 
 
 #is_a/bio-Phylum  
-#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+#is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 
 ![Fischerella,Cyanobacteria](Cyanobacteria/fischerella.gif) ![Prochloron,Cyanobacteria](Cyanobacteria/prochloron.jpg) ![Spirulina,Cyanobacteria](Cyanobacteria/spirulina.jpg) 

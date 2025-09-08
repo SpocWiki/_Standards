@@ -5,7 +5,7 @@ title: Bilateria
 # [[Bilateria]] 
 
 #is_a/bio-Phylum  
-#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+#is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 
 Triploblasts, Bilaterally symmetrical animals with three germ layers 

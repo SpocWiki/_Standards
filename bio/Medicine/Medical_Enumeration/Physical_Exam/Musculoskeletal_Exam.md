@@ -29,7 +29,7 @@ type: Type
 Class of all musculoskeletal_exams.
 
 Tag Instances like this: 
-#is_a_/musculoskeletal_exam
+#is_an_/examination_of_the_/musculoskeletal
 
 Musculoskeletal system clinical examination.
 

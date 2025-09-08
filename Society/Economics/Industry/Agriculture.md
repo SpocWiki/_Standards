@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Farming
 Basisklassifikation: 83.66
 Classification_of_Instructional_Programs_code:
   - 1
@@ -87,16 +89,20 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_agriculture,7112548]]"
 
 ## #has_/text_of_/abstract 
 
-> **Agriculture** encompasses crop and livestock production, aquaculture, 
-> and forestry for food and non-food products. 
-> Agriculture was a key factor in the rise of sedentary human civilization, 
+> **Agriculture** encompasses crop and livestock production, [[Agriculture/Aquaculture|Aquaculture]] , 
+> and [[Forestry]] for food and non-food products. 
+> 
+> Agriculture was a key factor in the rise of **sedentary human civilization**, 
 > whereby farming of domesticated species created food surpluses 
 > that enabled people to live in the cities. 
 > 
 > While humans started gathering grains at least 105,000 years ago, 
 > nascent farmers only began planting them around 11,500 years ago. 
+> 
 > Sheep, goats, pigs, and cattle were domesticated around 10,000 years ago. 
+> 
 > Plants were independently cultivated in at least 11 regions of the world. 
+> 
 > In the 20th century, industrial agriculture based on large-scale monocultures 
 > came to dominate agricultural output.
 >

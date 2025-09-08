@@ -1,9 +1,48 @@
 ---
 aliases:
-- Fabaceae
-- Leguminosae
-- legume
+  - Fabaceae
+  - Leguminosae
+  - legume family
+  - pea family
+  - bean family
+has_id_wikidata: Q44448
 title: Fabaceae
+taxon_common_name:
+  - metuljnice
+  - Vlinderbloemenfamilie
+  - วงศ์ถั่ว
+  - 콩과
+  - 豆科
+  - 蝶形花科
+different_from: "[[_Standards/WikiData/WD~Caesalpinioideae,157156]]"
+this_taxon_is_source_of:
+  - "[[_Standards/WikiData/WD~bean,379813]]"
+  - "[[_Standards/WikiData/WD~mung_bean_sprout,7635866]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Flora_partis_europaeae_URSS,113988328]]"
+taxon_synonym: "[[_Standards/WikiData/WD~Leguminosae,14856098]]"
+taxonomic_type: "[[_Standards/WikiData/WD~Faba,64752871]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+parent_taxon: "[[_Standards/WikiData/WD~Fabales,21878]]"
+taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+ITIS_TSN: "500059"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Fabaceae%20flower.jpg
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Legume%20Biogeography.svg
+Montana_Plant_Life_URL: http://montana.plant-life.org/cgi-bin/family03.cgi?Fabaceae
+GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=440
+EPPO_Code: 1LEGF
+MeSH_tree_code: B01.875.800.575.912.250.401
+UMLS_CUI: C0023263
+Commons_category: Fabaceae
+taxon_name: Fabaceae
+Krugosvet_article: nauka_i_tehnika/biologiya/BOBOVIE.html
+NBN_System_Key: NBNSYS0000003201
 ---
 
 # [[Fabaceae]]
@@ -13,6 +52,8 @@ Legumes
 ![Bauhinia_blakeana](Fabaceae/Bauhinia_blakeana.jpg) 
 ![Lablab_purpureus](Fabaceae/Lablab_purpureus.jpg) 
 ![Prosopis pallida](Fabaceae/Prosopis_pallida.jpg) 
+
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Fabaceae,44448|WD~Fabaceae,44448]] 
 
 ## #has_/text_of_/abstract 
 
@@ -448,4 +489,3 @@ Copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr)
 ### #is_/same_as :: [Fabaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae.personal.md) 
 
 ### #is_/same_as :: [Fabaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae.secret.md)
-

@@ -76,17 +76,63 @@ U_S_National_Archives_Identifier: 10638645
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/feminism"
 ---
 
+# [[Feminism]] 
+
+#is_/same_as :: [[../../WikiData/WD~Feminism,7252|WD~Feminism,7252]] 
+
 ## #has_/text_of_/abstract 
 
-> **Feminism** is a range of socio-political movements and ideologies that aim to define and establish the political, economic, personal, and social equality of the sexes. Feminism holds the position that modern societies are patriarchal—they prioritize the male point of view—and that women are treated unjustly in these societies. Efforts to change this include fighting against gender stereotypes and improving educational, professional, and interpersonal opportunities and outcomes for women.
+> **Feminism** is a range of socio-political movements and ideologies 
+> that aim to define and establish the political, economic, personal, and social equality of the sexes. 
+> 
+> Feminism holds the position that modern societies are patriarchal—they prioritize the male point of view—
+> and that women are treated unjustly in these societies. 
+> Efforts to change this include fighting against gender stereotypes 
+> and improving educational, professional, and interpersonal opportunities and outcomes for women.
 >
-> Originating in late 18th-century Europe, feminist movements have campaigned and continue to campaign for women's rights, including the right to vote, run for public office, work, earn equal pay, own property, receive education, enter into contracts, have equal rights within marriage, and maternity leave. Feminists have also worked to ensure access to contraception, legal abortions, and social integration; and to protect women and girls from sexual assault, sexual harassment, and domestic violence. Changes in female dress standards and acceptable physical activities for women have also been part of feminist movements.
+> Originating in late 18th-century Europe, feminist movements have campaigned 
+> and continue to campaign for women's rights, including the right to vote, 
+> run for public office, work, earn equal pay, own property, receive education, 
+> enter into contracts, have equal rights within marriage, and maternity leave. 
+> 
+> Feminists have also worked to ensure access to contraception, legal abortions, and social integration; 
+> and to protect women and girls from sexual assault, sexual harassment, and domestic violence. 
+> Changes in female dress standards and acceptable physical activities for women 
+> have also been part of feminist movements.
 >
-> Many scholars consider feminist campaigns to be a main force behind major historical societal changes for women's rights, particularly in the West, where they are near-universally credited with achieving women's suffrage, gender-neutral language, reproductive rights for women (including access to contraceptives and abortion), and the right to enter into contracts and own property. Although feminist advocacy is, and has been, mainly focused on women's rights, some argue for the inclusion of men's liberation within its aims, because they believe that men are also harmed by traditional gender roles. Feminist theory, which emerged from feminist movements, aims to understand the nature of gender inequality by examining women's social roles and lived experiences. Feminist theorists have developed theories in a variety of disciplines in order to respond to issues concerning gender.
+> Many scholars consider feminist campaigns to be 
+> a main force behind major historical societal changes for women's rights, particularly in the West, 
+> where they are near-universally credited with achieving women's suffrage, gender-neutral language, 
+> reproductive rights for women (including access to contraceptives and abortion), 
+> and the right to enter into contracts and own property. 
+> 
+> Although feminist advocacy is, and has been, mainly focused on women's rights, 
+> some argue for the inclusion of men's liberation within its aims, 
+> because they believe that men are also harmed by traditional gender roles. 
+> 
+> Feminist theory, which emerged from feminist movements, 
+> aims to understand the nature of gender inequality by examining women's social roles and lived experiences. 
+> Feminist theorists have developed theories in a variety of disciplines 
+> in order to respond to issues concerning gender.
 >
-> Numerous feminist movements and ideologies have developed over the years, representing different viewpoints and political aims. Traditionally, since the 19th century, first-wave liberal feminism, which sought political and legal equality through reforms within a liberal democratic framework, was contrasted with labour-based proletarian women's movements that over time developed into socialist and Marxist feminism based on class struggle theory. Since the 1960s, both of these traditions are also contrasted with the radical feminism that arose from the radical wing of second-wave feminism and that calls for a radical reordering of society to eliminate patriarchy. Liberal, socialist, and radical feminism are sometimes referred to as the "Big Three" schools of feminist thought.
+> Numerous feminist movements and ideologies have developed over the years, 
+> representing different viewpoints and political aims. 
+> Traditionally, since the 19th century, first-wave liberal feminism, 
+> which sought political and legal equality through reforms within a liberal democratic framework, 
+> was contrasted with labour-based proletarian women's movements 
+> that over time developed into socialist and Marxist feminism based on class struggle theory. 
+> 
+> Since the 1960s, both of these traditions are also contrasted with 
+> the radical feminism that arose from the radical wing of second-wave feminism 
+> and that calls for a radical reordering of society to eliminate patriarchy. 
+> Liberal, socialist, and radical feminism are sometimes referred to as 
+> the "Big Three" schools of feminist thought.
 >
-> Since the late 20th century, many newer forms of feminism have emerged. Some forms, such as white feminism and gender-critical feminism, have been criticized as taking into account only white, middle class, college-educated, heterosexual, or cisgender perspectives. These criticisms have led to the creation of ethnically specific or multicultural forms of feminism, such as black feminism and intersectional feminism.
+> Since the late 20th century, many newer forms of feminism have emerged. 
+> Some forms, such as white feminism and gender-critical feminism, have been criticized 
+> as taking into account only white, middle class, college-educated, heterosexual, or cisgender perspectives. 
+> These criticisms have led to the creation of ethnically specific or multicultural forms of feminism, 
+> such as black feminism and intersectional feminism.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Feminism)
 

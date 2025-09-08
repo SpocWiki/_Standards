@@ -11,7 +11,7 @@ title: Zygnematales
 # [[Zygnematales]]  
 
 #is_a/bio-Phylum  
-#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+#is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 ![Spirogyra,Zygnemataceae,Zygnematales](Zygnematales/Spirogyra,Zygnemataceae,Zygnematales.gif)  ![Penium,Peniaceae,Zygnematales](Zygnematales/Penium,Peniaceae,Zygnematales.gif)  ![Micrasterias,Desmidiaceae,Zygnematales](Zygnematales/Micrasterias,Desmidiaceae,Zygnematales.gif) 
 Photographs copyright © 1995, Rick McCourt.

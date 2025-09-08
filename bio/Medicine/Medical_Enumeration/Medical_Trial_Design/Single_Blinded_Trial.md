@@ -29,7 +29,7 @@ type: Type
 Class of all single_blinded_trials.
 
 Tag Instances like this: 
-#is_a_/single_blinded_trial
+#is_a_/trial_/single_blinded 
 
 A trial design in which the researcher knows which treatment the patient was randomly assigned to but the patient does not.
 

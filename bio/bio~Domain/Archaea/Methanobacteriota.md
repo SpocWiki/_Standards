@@ -9,7 +9,7 @@ title: Euryarchaeota
 
 
 #is_a/bio-Phylum  
-#is_a :: [[bio-Phylum]]  
+#is_a :: [[../../Taxon_Rank/bio~Kingdom/bio~Phylum]]  
 
 ## Phylogeny 
 

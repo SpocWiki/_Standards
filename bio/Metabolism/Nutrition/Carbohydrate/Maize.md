@@ -56,7 +56,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maize](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Maize.md) 
+### #is_/same_as :: [Maize](Maize.md) 
 
 ### #is_/same_as :: [Maize.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Maize.public.md) 
 

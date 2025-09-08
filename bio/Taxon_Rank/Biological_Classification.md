@@ -71,13 +71,13 @@ uses:
 > 
 > The principal ranks in modern use are 
 > - [[../bio~Domain|domain]], 
-> - [[bio-Kingdom|kingdom]], 
-> - [[bio-Kingdom/bio-Phylum|phylum]] (division is sometimes used in botany in place of phylum), 
-> - [[bio-Kingdom/bio-Phylum/bio-Class|class]], 
+> - [[bio~Kingdom|kingdom]], 
+> - [[bio~Kingdom/bio~Phylum|phylum]] (division is sometimes used in botany in place of phylum), 
+> - [[bio~Kingdom/bio~Phylum/bio~Class|class]], 
 > - [[../../schema-org/Class/is_a_/Intangible/Order|order]], 
 > - [[../../Society/Agent/Community/Clan/Family|family]], 
-> - [[bio-Kingdom/bio-Phylum/bio-Class/bio-Order/bio-Family/bio-Genus|genus]], and 
-> - [[bio-Kingdom/bio-Phylum/bio-Class/bio-Order/bio-Family/bio-Genus/bio-Species|species]]. 
+> - [[bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus|genus]], and 
+> - [[bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species|species]]. 
 > 
 > The Swedish botanist [[../../Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl|Carl Linnaeus]] is regarded as 
 > the founder of the current system of taxonomy, 

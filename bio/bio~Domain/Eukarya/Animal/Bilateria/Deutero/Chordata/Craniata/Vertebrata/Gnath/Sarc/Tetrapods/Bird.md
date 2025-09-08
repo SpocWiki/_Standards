@@ -1,84 +1,87 @@
 ---
 aliases:
-- Bird
-- Aves
+  - Bird
+  - Aves
+  - Birds
+  - Vogel
+  - Vögel
 Archive_of_Our_Own_tag: Birds
-audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Tooth-billed%20Catbird%20audio09.ogg"
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Tooth-billed%20Catbird%20audio09.ogg
+code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 Colon_Classification: K96
 Commons_category: Aves
 Commons_gallery: Aves
 depicted_by:
-- '[[_Standards/WikiData/WD~Textile_with_Animals_and_Birds,131557490]]'
-- '[[_Standards/WikiData/WD~Textile_with_Birds,_Leaves,_and_Arabesques,131557494]]'
-- '[[_Standards/WikiData/WD~Two_Handled_Jar_with_Birds_and_a_Coat_of_Arms,131557543]]'
-- '[[_Standards/WikiData/WD~Stanza_degli_Uccelli,131578331]]'
-- '[[_Standards/WikiData/WD~Mosaic_with_birds_and_vases,131579636]]'
-- '[[_Standards/WikiData/WD~Mosaico_pavimentale_con_uccelli,131579643]]'
+  - "[[_Standards/WikiData/WD~Textile_with_Animals_and_Birds,131557490]]"
+  - "[[_Standards/WikiData/WD~Textile_with_Birds,_Leaves,_and_Arabesques,131557494]]"
+  - "[[_Standards/WikiData/WD~Two_Handled_Jar_with_Birds_and_a_Coat_of_Arms,131557543]]"
+  - "[[_Standards/WikiData/WD~Stanza_degli_Uccelli,131578331]]"
+  - "[[_Standards/WikiData/WD~Mosaic_with_birds_and_vases,131579636]]"
+  - "[[_Standards/WikiData/WD~Mosaico_pavimentale_con_uccelli,131579643]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 Dewey_Decimal_Classification:
-- 598
-- 636.6
-- 333.958
+  - 598
+  - 636.6
+  - 333.958
 EPPO_Code: 1AVESC
 GS1_GPC_code: 10005457
 hashtag:
-- bird
-- birds
-- birb
+  - bird
+  - birds
+  - birb
 has_id_wikidata: Q5113
-has_list: '[[_Standards/WikiData/WD~list_of_birds,28854985]]'
+has_list: "[[_Standards/WikiData/WD~list_of_birds,28854985]]"
 IAB_code: 423
 Iconclass_notation: 25F3
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Female%20house%20sparrow%20at%20Kodai.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Female%20house%20sparrow%20at%20Kodai.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+  - "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
+  - "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 174371
 Krugosvet_article: biologiya/ptitsy
 MeSH_tree_code: B01.050.150.900.248
-mode_of_reproduction: '[[_Standards/WikiData/WD~oviparity,212306]]'
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bird%20Diversity%202013.png"
+mode_of_reproduction: "[[_Standards/WikiData/WD~oviparity,212306]]"
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bird%20Diversity%202013.png
 OmegaWiki_Defined_Meaning: 400
-produced_sound: '[[_Standards/WikiData/WD~bird_vocalization,1126556]]'
+produced_sound: "[[_Standards/WikiData/WD~bird_vocalization,1126556]]"
 Provenio_UUID: 89f68bd5-4ae2-4684-b774-71e05abe1606
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Bird%20%28Intro%29.ogg"
-studied_by: '[[_Standards/WikiData/WD~ornithology,44703]]'
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bird%20%28Intro%29.ogg
+studied_by: "[[_Standards/WikiData/WD~ornithology,44703]]"
 subreddit:
-- birds
-- Birbs
+  - birds
+  - Birbs
 taxon_common_name:
-- birds
-- fugler
-- 鳥
-- ptiči
-- chiáu
+  - birds
+  - fugler
+  - 鳥
+  - ptiči
+  - chiáu
 taxon_name: Aves
-taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~egg_as_food,93189]]'
-- '[[_Standards/WikiData/WD~feather,50998618]]'
-- '[[_Standards/WikiData/WD~bird_faeces,118868277]]'
-- '[[_Standards/WikiData/WD~meat,10990]]'
+  - "[[_Standards/WikiData/WD~egg_as_food,93189]]"
+  - "[[_Standards/WikiData/WD~feather,50998618]]"
+  - "[[_Standards/WikiData/WD~bird_faeces,118868277]]"
+  - "[[_Standards/WikiData/WD~meat,10990]]"
 title: Aves
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Birds,6719357]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Birds,4162252]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Birds,6719357]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Birds,4162252]]"
 UMLS_CUI: C0005595
-Unicode_character: "\U0001F426"
+Unicode_character: 🐦
 uses:
-- '[[_Standards/WikiData/WD~bird_food,471236]]'
-- '[[_Standards/WikiData/WD~bird_flight,1991038]]'
-- '[[_Standards/WikiData/WD~broodiness,4201371]]'
+  - "[[_Standards/WikiData/WD~bird_food,471236]]"
+  - "[[_Standards/WikiData/WD~bird_flight,1991038]]"
+  - "[[_Standards/WikiData/WD~broodiness,4201371]]"
 U_S_National_Archives_Identifier: 10639913
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_birds,6210059]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_birds,6210059]]"
 ---
 
 # [[Bird]](Aves)

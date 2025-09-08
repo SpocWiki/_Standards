@@ -5,7 +5,7 @@ title: Glomeromycota
 # [[Glomeromycota]]
 
 #is_a/bio-Phylum  
-#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+#is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 ## Arbuscular mycorrhizal fungi and their relative(s) 
 

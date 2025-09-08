@@ -1,34 +1,18 @@
 ---
 aliases:
-- "Core Eudicots"
-- "Core Tricolpates"
-title: "Core Eudicots"
+  - Core Eudicots
+  - Core Tricolpates
+title: Core Eudicots
+has_id_wikidata: Q869087
+subclass_of: "[[_Standards/WikiData/WD~eudicots,165468]]"
+parent_taxon: "[[_Standards/WikiData/WD~eudicots,165468]]"
+instance_of: "[[_Standards/WikiData/WD~clade,713623]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~core_eudicots,124037561]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Leucophyllum%20frutescens%20%28Purple%20Sage%29%20W%20IMG%201125.jpg
+taxon_name: core eudicots
+Commons_category: Core eudicots
+EPPO_Code: ROBSL
 ---
-
-## Phylogeny 
-
--   « Ancestral Groups  
-    -   [Eudicots](../Eudicots.md)
-    -   [Flowering_Plant](../../Flowering_Plant.md)
-    -   [Seed_Plant](../../../Seed_Plant.md)
-    -   [Land_Plant](../../../../Land_Plant.md)
-    -  [Green plants](../../../../../Plant.md))
-    -  [Eukarya](../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  eudicots
-    -   [Buxaceae](Buxaceae.md)
-    -   [Ranunculales](Ranunculales.md)
-    -   [Proteales](Proteales.md)
-    -   Core Eudicots
-
--   » Sub-Groups
-    -   [Santalales](Core_Eudicots/Santalales.md)
-    -   [Saxifragales](Core_Eudicots/Saxifragales.md)
-    -   [Berberidopsidales](Core_Eudicots/Berberidopsidales.md)
-    -   [Rosids](Core_Eudicots/Rosids.md)
-    -   [Caryophyllales](Core_Eudicots/Caryophyllales.md)
-    -   [Asterids](Core_Eudicots/Asterids.md)
 
 # [[Core_Eudicots]]
 
@@ -36,6 +20,7 @@ Core Tricolpates
 
 ![Echinocactus_acanthodes](Core_Eudicots/Echinocactus_acanthodes.jpg)  ![Catananche_caerulea](Core_Eudicots/Catananche_caerulea.jpg)  ![Populus_tremuloides](Core_Eudicots/Populus_tremuloides.jpg) 
 
+#is_/same_as :: [[_Standards/WikiData/WD~core_eudicots,869087]]
 ## Introduction
 
 [Doug Soltis, Pam Soltis, and Christine Edwards]()
@@ -355,6 +340,31 @@ More representatives of the asterid clade, including the flower of
 Paul Corogin), the flowers of *Buchnera subacaulis* (Apocynaceae:
 Lamiales: euasterids I; photo © Paul Corogin), and the flowers of
 *Cornus nuttallii* (Cornaceae: Cornales; photo © Matyas Buzgo).
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Eudicots](../Eudicots.md)
+    -   [Flowering_Plant](../../Flowering_Plant.md)
+    -   [Seed_Plant](../../../Seed_Plant.md)
+    -   [Land_Plant](../../../../Land_Plant.md)
+    -  [Green plants](../../../../../Plant.md))
+    -  [Eukarya](../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  eudicots
+    -   [Buxaceae](Buxaceae.md)
+    -   [Ranunculales](Ranunculales.md)
+    -   [Proteales](Proteales.md)
+    -   Core Eudicots
+
+-   » Sub-Groups
+    -   [Santalales](Core_Eudicots/Santalales.md)
+    -   [Saxifragales](Core_Eudicots/Saxifragales.md)
+    -   [Berberidopsidales](Core_Eudicots/Berberidopsidales.md)
+    -   [Rosids](Core_Eudicots/Rosids.md)
+    -   [Caryophyllales](Core_Eudicots/Caryophyllales.md)
+    -   [Asterids](Core_Eudicots/Asterids.md)
 
 ## Title Illustrations
 

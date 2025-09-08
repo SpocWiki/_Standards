@@ -29,7 +29,7 @@ type: Type
 Class of all single_center_trials.
 
 Tag Instances like this: 
-#is_a_/single_center_trial
+#is_a_/trial_/single_center 
 
 A trial that takes place at a single center.
 

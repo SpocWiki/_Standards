@@ -94,7 +94,7 @@ UMLS_CUI: C0920312
 # [[Chordata]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Chordata,10915|WD~Chordata,10915]]  
-#is_/instance_of :: [[../../../../../Taxon_Rank/bio-Kingdom/bio-Phylum|Phylum]]   
+#is_/instance_of :: [[../../../../../Taxon_Rank/bio~Kingdom/bio~Phylum|Phylum]]   
 
 Chordata is a phylum of animals characterized by several key anatomical features, 
 including a [[notochord]], a dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail, 

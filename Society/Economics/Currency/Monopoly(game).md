@@ -9,7 +9,7 @@ has_id_wikidata: Q17243
 
 # [[Monopoly(game)]] 
 
-#is_/different_from :: [[Monopoly]] 
+#is_/different_from :: [[../Monopoly]] 
 #is_/same_as :: [[_Standards/WikiData/WD~Monopoly_(game),17243]]
 
 

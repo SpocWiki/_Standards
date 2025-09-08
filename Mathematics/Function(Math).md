@@ -121,6 +121,7 @@ Relations are equivalent to directed [[Graph(Math)]].
 >  
 > Given its domain and its codomain, a function is uniquely represented by the set of all pairs (x, f (x)), 
 > called the __graph of the function__, a popular means of illustrating the function. 
+
 > When the domain and the codomain are sets of real numbers, 
 > each such pair may be thought of as the Cartesian coordinates of a point in the plane.
 >
@@ -130,3 +131,33 @@ Relations are equivalent to directed [[Graph(Math)]].
 > [Wikipedia](https://en.wikipedia.org/wiki/Function%20(mathematics))
 
 
+![[Function(Math).svg]] 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Function(mathematics)](/_Standards/Mathematics/Function(mathematics).md) 
+
+### #is_/same_as :: [Function(mathematics).public](/_public/Mathematics/Function(mathematics).public.md) 
+
+### #is_/same_as :: [Function(mathematics).internal](/_internal/Mathematics/Function(mathematics).internal.md) 
+
+### #is_/same_as :: [Function(mathematics).protect](/_protect/Mathematics/Function(mathematics).protect.md) 
+
+### #is_/same_as :: [Function(mathematics).private](/_private/Mathematics/Function(mathematics).private.md) 
+
+### #is_/same_as :: [Function(mathematics).personal](/_personal/Mathematics/Function(mathematics).personal.md) 
+
+### #is_/same_as :: [Function(mathematics).secret](/_secret/Mathematics/Function(mathematics).secret.md)
+
+
+
+## Embedded Graph 
+
+![[Function(Math).svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

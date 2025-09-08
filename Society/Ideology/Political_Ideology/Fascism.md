@@ -91,6 +91,7 @@ U_S_National_Archives_Identifier: 10640824
 
 # [[Fascism]] 
 
+#is_/same_as :: [[../../../WikiData/WD~Fascism,6223|WD~Fascism,6223]] 
 
 ## #has_/text_of_/abstract 
 

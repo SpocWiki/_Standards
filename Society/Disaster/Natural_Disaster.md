@@ -1,6 +1,7 @@
 ---
 aliases:
-- "Natural disaster"
+  - Natural disaster
+  - natural disasters
 has_id_wikidata: Q8065
 has_effect:
   - "[[_Standards/WikiData/WD~damage,481609]]"

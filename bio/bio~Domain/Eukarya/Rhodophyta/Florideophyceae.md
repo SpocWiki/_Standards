@@ -5,7 +5,7 @@ title: Florideophyceae
 # [[Florideophyceae]] 
 
 #is_a/bio-Phylum  
-#is_a :: [[../../../Taxon_Rank/bio-Kingdom/bio-Phylum|bio-Phylum]]  
+#is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 
 ![Botryocladia pseudodichotoma](Florideophyceae/Botryocladia_pseudodichotoma.jpg) ![](Florideophyceae/Mazaella_cornucopiae.jpg) ![ ](Florideophyceae/Gracilaria.jpg) 

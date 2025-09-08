@@ -41,14 +41,13 @@ Unicode_character: 鐨
 UNII: Q70I3KBF4W
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Fermium,1896]] 
+# [[Fermium]] 
 
+#is_/same_as :: [[../../../WikiData/WD~Fermium,1896]] 
 
 #chemic/Element 
 [GroupName::Actinide-Group]
 [Group:[[../Actinide-Group]]]]
-
-
 
 [Name-en::Fermium]
 [Name-de::Fermium]
@@ -71,7 +70,7 @@ UNII: Q70I3KBF4W
 []
 (Charge-e::100)
 
-
+#is_/same_as :: [[../../../WikiData/WD~Fermium,1896|WD~Fermium,1896]] 
 
 ## #has_/text_of_/abstract 
 

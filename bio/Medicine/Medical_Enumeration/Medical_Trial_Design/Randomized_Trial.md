@@ -29,7 +29,7 @@ type: Type
 Class of all randomized_trials.
 
 Tag Instances like this: 
-#is_a_/randomized_trial
+#is_a_/trial_/randomized 
 
 A randomized trial design.
 
