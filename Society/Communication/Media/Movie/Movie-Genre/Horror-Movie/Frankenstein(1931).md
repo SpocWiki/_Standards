@@ -4,7 +4,7 @@
 
 > Frankenstein is a 1931 American Gothic pre-Code science fiction horror film 
 > directed by James Whale, produced by Carl Laemmle Jr., and adapted from a 1927 play by Peggy Webling, 
-> which in turn was based on [[../../books/Authors/Shelley,Mary|Mary Shelley]]'s 1818 novel Frankenstein; or, The [[../../../../../../../_protect/Society/Communication/Media/Literature/Genres/Frankenstein|Modern Prometheus]]. 
+> which in turn was based on [[../../books/Authors/Shelley,Mary|Mary Shelley]]'s 1818 novel Frankenstein; or, The [[../../../Writing/Book/Writer/Shelley,Mary/Frankenstein|Modern Prometheus]]. 
 > 
 > The Webling play was adapted by John L. Balderston 
 > and the screenplay written by Francis Edward Faragoh and Garrett Fort, 

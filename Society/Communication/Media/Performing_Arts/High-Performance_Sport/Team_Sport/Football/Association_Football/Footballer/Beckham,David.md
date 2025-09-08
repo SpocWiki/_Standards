@@ -121,7 +121,7 @@ Facebook_username: Beckham
 
 # [[Beckham,David]]
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~David_Beckham,10520|WD~David_Beckham,10520]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~David_Beckham,10520|WD~David_Beckham,10520]] 
 
 
 ## #has_/text_of_/abstract 

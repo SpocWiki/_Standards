@@ -19,7 +19,7 @@ Commons_category: Enthalpy of vaporization
 
 # [[Enthalpy_of_Vaporization]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Enthalpy_of_vaporization,483538|WD~Enthalpy_of_vaporization,483538]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Enthalpy_of_vaporization,483538|WD~Enthalpy_of_vaporization,483538]] 
 
 ## #has_/text_of_/abstract 
 

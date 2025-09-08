@@ -90,7 +90,7 @@ date_of_death: 2020-11-25T00:00:00Z
 
 # [[Maradona,Diego]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Diego_Maradona,17515|WD~Diego_Maradona,17515]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Diego_Maradona,17515|WD~Diego_Maradona,17515]] 
 
 ## #has_/text_of_/abstract 
 

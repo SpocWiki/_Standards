@@ -4,6 +4,7 @@ aliases:
   - Katholische Kirche
   - Roman Catholic Church
   - Ecclesia Catholica
+  - catholic
 has_id_wikidata: Q9592
 executive_body: "[[_Standards/WikiData/WD~Roman_Curia,108169]]"
 owner_of:

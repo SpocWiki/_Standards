@@ -7,7 +7,7 @@ has_id_wikidata: Q15318
 
 # [[Melting_Point]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Melting_point,15318|WD~Melting_point,15318]] 
+#is_/same_as :: [[../../../../WikiData/WD~Melting_point,15318|WD~Melting_point,15318]] 
 
 ## #has_/text_of_/abstract 
 
@@ -24,7 +24,7 @@ has_id_wikidata: Q15318
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Melting_Point](/_Standards/Science/Physics/State_of_Matter/Melting_Point.md) 
+### #is_/same_as :: [Melting_Point](Melting_Point.md) 
 
 ### #is_/same_as :: [Melting_Point.public](/_public/Science/Physics/State_of_Matter/Melting_Point.public.md) 
 

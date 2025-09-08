@@ -22,7 +22,7 @@ Commons_category: Dew point
 
 # [[Dew_Point]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Dew_point,178828|WD~Dew_point,178828]] 
+#is_/same_as :: [[../../../../WikiData/WD~Dew_point,178828|WD~Dew_point,178828]] 
 
 ## #has_/text_of_/abstract 
 

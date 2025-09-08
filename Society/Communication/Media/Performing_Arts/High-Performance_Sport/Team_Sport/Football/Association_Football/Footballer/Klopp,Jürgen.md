@@ -1,7 +1,13 @@
 ---
 aliases:
-- "Jürgen Klopp"
+  - Jürgen Klopp
+  - Jürgen Norbert Klopp
+  - Klopp
 ---
+
+# [[Klopp,Jürgen]] 
+
+## #has_/text_of_/abstract  
 
 > Jürgen Norbert Klopp (German pronunciation: [ˈjʏʁɡn̩ ˈklɔp] ; born 16 June 1967) 
 > is a German football executive and former manager and player 

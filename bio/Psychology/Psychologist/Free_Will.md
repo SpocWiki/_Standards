@@ -21,6 +21,10 @@ Stack_Exchange_tag:
 - "https://physics.stackexchange.com/tags/free-will"
 ---
 
+# [[Free_Will]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Free_will,9476|WD~Free_will,9476]]  
+
 ## #has_/text_of_/abstract 
 
 > **Free will** is the capacity or ability to choose between different possible courses of action.

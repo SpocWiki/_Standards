@@ -139,7 +139,7 @@ Munzinger_Sport_number: "01000006594"
 
 # [[Ronaldo,Cristiano]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Cristiano_Ronaldo,11571|WD~Cristiano_Ronaldo,11571]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Cristiano_Ronaldo,11571|WD~Cristiano_Ronaldo,11571]] 
 
 ## #has_/text_of_/abstract 
 

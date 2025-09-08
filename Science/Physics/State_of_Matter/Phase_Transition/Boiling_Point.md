@@ -33,7 +33,7 @@ ISQ_dimension: |-
 
 # [[Boiling_Point]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Boiling_point,1003183|WD~Boiling_point,1003183]] 
+#is_/same_as :: [[../../../../WikiData/WD~Boiling_point,1003183|WD~Boiling_point,1003183]] 
 
 #see :: [[Clausius-Clapeyron_Equation]]
 
@@ -73,7 +73,7 @@ $\ln\left(\frac{P_2}{P_1}\right) = -\frac{\Delta H_{vap}}{R} \left(\frac{1}{T_2}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boiling_Point](/_Standards/Science/Physics/State_of_Matter/Boiling_Point.md) 
+### #is_/same_as :: [Boiling_Point](Boiling_Point.md) 
 
 ### #is_/same_as :: [Boiling_Point.public](/_public/Science/Physics/State_of_Matter/Boiling_Point.public.md) 
 

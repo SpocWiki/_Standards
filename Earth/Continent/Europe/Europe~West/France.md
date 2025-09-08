@@ -1,4 +1,15 @@
 ---
+aliases:
+  - France
+  - Francia
+  - فرنسا
+  - 法国
+  - Франция
+  - the French Republic
+  - la República Francesa
+  - french
+  - francais
+  - französisch
 title: France
 linkTitle:
 type: Country
@@ -22,14 +33,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - France
-  - Francia
-  - فرنسا
-  - 法国
-  - Франция
-  - the French Republic
-  - la República Francesa
 Languages:
   - fr-FR
   - frp
@@ -601,6 +604,8 @@ relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/France%2
 [ISO2::FR]
 [ISO3::FRA]
 
+#is_/same_as :: [[../../../../WikiData/WD~France,142|WD~France,142]] 
+
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-France)
 into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[France/ReadMe]] 
@@ -608,7 +613,6 @@ into a Subfolder named `France`, so that this Link into the Sub-Repository works
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-France 
 
 > [!warning] This can considerably increase the total size and depth of your wiki.
-
 
 
 ## #has_/parts 

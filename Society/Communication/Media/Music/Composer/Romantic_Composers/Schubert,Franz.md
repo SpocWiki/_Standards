@@ -2,6 +2,7 @@
 aliases:
 - "Franz Schubert"
 - "Franz Peter Schubert"
+- Franz_Schubert
 BHCL_UUID: 6cde0efa-445b-446a-9bb2-8fc0df62e766
 birth_name: "Franz Peter Schubert"
 catalogue_raisonné: '[[_Standards/WikiData/WD~Deutsch_catalogue,1201890]]'
@@ -88,6 +89,10 @@ work_location: '[[_Standards/WikiData/WD~Vienna,1741]]'
 work_period_start_: 1810
 writing_language: '[[_Standards/WikiData/WD~German,188]]'
 ---
+
+# [[Schubert,Franz]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Franz_Schubert,7312|WD~Franz_Schubert,7312]] 
 
 ## #has_/text_of_/abstract 
 

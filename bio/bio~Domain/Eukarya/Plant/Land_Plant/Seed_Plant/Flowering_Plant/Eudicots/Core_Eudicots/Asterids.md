@@ -4,7 +4,7 @@ title: Asterids
 
 # [[Asterids]]  
 
-![Fraxinus_excelsior](Asterids/Fraxinus_excelsior.jpg)  ![Erica_cinera](Asterids/Erica_cinera.jpg)  ![Lactuca](Asterids/Lactuca.jpg) 
+![Fraxinus_excelsior](Asterids/Lamiales/Oleaceae/Fraxinus/Fraxinus_excelsior.jpg)  ![Erica_cinera](Asterids/Erica_cinera.jpg)  ![Lactuca](Asterids/Lactuca.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -56,7 +56,7 @@ title: Asterids
 ## Title Illustrations
 
 
-------------------------------------------------------------------------![European ash, Fraxinus excelsior](Asterids/Fraxinus_excelsior.jpg))
+------------------------------------------------------------------------![European ash, Fraxinus excelsior](Asterids/Lamiales/Oleaceae/Fraxinus/Fraxinus_excelsior.jpg))
 Scientific Name ::   Fraxinus excelsior
 Location ::         Allschwil, Basel, Switzerland.
 Comments           European ash (Lamiales, Oleaceae)
