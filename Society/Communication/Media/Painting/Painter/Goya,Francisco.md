@@ -251,8 +251,12 @@ work_location:
 - '[[_Standards/WikiData/WD~Rome,220]]'
 ---
 
+# [[Goya,Francisco]] 
+
 #has_/time_/started :: 1746-03-30 
 #has_/time_/started :: 1828-04-16 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Francisco_Goya,5432|WD~Francisco_Goya,5432]] 
 
 ## #has_/text_of_/abstract 
 
