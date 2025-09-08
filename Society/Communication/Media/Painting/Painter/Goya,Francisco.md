@@ -2,6 +2,7 @@
 aliases:
 - "Francisco José de Goya y Lucientes"
 - "Francisco Goya"
+- Francisco_Goya
 artist_files_at:
 - '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
 - '[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art_Library_and_Archives,89574171]]'
