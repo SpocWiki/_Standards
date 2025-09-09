@@ -1,7 +1,10 @@
 ---
 aliases:
 - "Galileo Galilei"
+- Galileo_Galilei
 - "Galileo di Vincenzo Bonaiuti de' Galilei"
+- Galilei
+- Galileo
 ArhivX_LOD: 11875
 attested_in: '[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]'
 award_received: '[[_Standards/WikiData/WD~International_Space_Hall_of_Fame,99951011]]'
@@ -159,10 +162,14 @@ writing_language:
 - '[[_Standards/WikiData/WD~Italian,652]]'
 ---
 
+# [[Galilei,Galileo]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Galileo_Galilei,307|WD~Galileo_Galilei,307]] 
+
 ## #has_/text_of_/abstract 
 
 > Galileo di Vincenzo Bonaiuti de' Galilei (15 February 1564 – 8 January 1642), 
-> commonly referred to as **Galileo Galilei** (, US also ; Italian: [ɡaliˈlɛːo ɡaliˈlɛːi]) or mononymously as Galileo, 
+> commonly referred to as **Galileo Galilei** (US also ; Italian: [ɡaliˈlɛːo ɡaliˈlɛːi]) or mononymously as Galileo, 
 > was an Italian astronomer, physicist and engineer, sometimes described as a polymath. 
 > He was born in the city of Pisa, then part of the Duchy of Florence. 
 > Galileo has been called the father of observational astronomy, modern-era classical physics, 
