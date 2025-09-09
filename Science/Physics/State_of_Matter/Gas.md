@@ -27,8 +27,7 @@ U_S_National_Archives_Identifier: 10637828
 
 # [[Gas]]
 
-#is_/same_as :: [[../../WikiData/WD~Gas,11432|WD~Gas,11432]]
-
+#is_/same_as :: [[../../../WikiData/WD~Gas,11432|WD~Gas,11432]] 
 
 ## #has_/text_of_/abstract 
 
