@@ -61,6 +61,10 @@ U_S_National_Archives_Identifier: 10044268
 watershed_area: 1060000
 ---
 
+# [[Ganges]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Ganges,5089|WD~Ganges,5089]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Ganges** ( GAN-jeez; in India: Ganga,  GUNG-ah; in Bangladesh: Padma,  PUD-mə) is a trans-boundary river of Asia which flows through India and Bangladesh. The 2,525-kilometre-long (1,569 mi) river rises in the western Himalayas in the Indian state of Uttarakhand. It flows south and east through the Gangetic plain of North India, receiving the right-bank tributary, the Yamuna, which also rises in the western Indian Himalayas, and several left-bank tributaries from Nepal that account for the bulk of its flow. In West Bengal state, India, a feeder canal taking off from its right bank diverts 50% of its flow southwards, artificially connecting it to the Hooghly River. The Ganges continues into Bangladesh, its name changing to the Padma. It is then joined by the Jamuna, the lower stream of the Brahmaputra, and eventually the Meghna, forming the major estuary of the Ganges Delta, and emptying into the Bay of Bengal. The Ganges–Brahmaputra–Meghna system is the second-largest river on earth by discharge.

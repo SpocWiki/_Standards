@@ -1,4 +1,23 @@
+---
+aliases:
+has_id_wikidata: Q24886094
+practiced_by: "[[_Standards/WikiData/WD~farmer,131512]]"
+facet_of: "[[_Standards/WikiData/WD~farm,131596]]"
+instance_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Agricultural%20waste%20from%20weeding%20in%20a%20farm.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Dirty%20palm.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Farm%20waste%20gotten%20after%20weeding.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Mushrooms%20at%20the%20base%20of%20a%20trunk%20tree.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Some%20growing%20plant.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Vernonia%20amygdalina%20plant.jpg
+---
 # [[Farming]] 
+
+#is_/similar_to :: [[../../../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening|Gardening]] 
+#is_/same_as :: [[_Standards/WikiData/WD~farming,24886094]]
+
+## #has_/text_of_/abstract 
 
 > Agriculture encompasses crop and livestock production, aquaculture, fisheries, 
 > and forestry for food and non-food products. 
