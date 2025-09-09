@@ -1,6 +1,7 @@
 ---
 aliases:
 - "Frida Kahlo"
+- Frida_Kahlo
 - "Magdalena Carmen Frida Kahlo y Calderón"
 artist_files_at:
 - '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
@@ -105,8 +106,12 @@ work_location:
 X_username: FridaKahlo
 ---
 
+# [[Kahlo,Frida]] 
+
 #has_/time_/started :: 1907-07-06 
 #has_/time_/started :: 1954-07-13 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Frida_Kahlo,5588|WD~Frida_Kahlo,5588]] 
 
 ## #has_/text_of_/abstract 
 

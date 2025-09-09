@@ -62,8 +62,9 @@ Unicode_range: U+1F347-1F353
 #is_a_ :: [[../../../../../schema-org/Class|Class]]  
 
 Use it like this: 
-#is_a :: [[Fruit]] 
-#is_a_/fruit 
+#is_a :: [[Fruits]] 
+#is_a_/fruits 
+#is_/different_from :: [[../../../../../bio/Botany/Fruit|Fruit]]   
 
 #is_/same_as ::  [[../../../../../WikiData/WD~Fruit,3314483|WD~Fruit,3314483]]  
 #is_/different_from :: [[../../../../../WikiData/WD~Fruit,1364|WD~Fruit,1364]]  

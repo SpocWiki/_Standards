@@ -2,6 +2,8 @@
 academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
 aliases:
 - "Friedrich Nietzsche"
+- Friedrich_Nietzsche
+- Nietzsche
 - "Friedrich Wilhelm Nietzsche"
 BHCL_UUID: 4366c11a-587e-4fdb-a27d-ff7358ebc829
 bibliography: '[[_Standards/WikiData/WD~Friedrich_Nietzsche_bibliography,3256303]]'
@@ -201,10 +203,12 @@ work_period_start_: 1865
 writing_language: '[[_Standards/WikiData/WD~German,188]]'
 ---
 
+# [[Nietzsche,Friedrich]] 
+
 #has_/time_/started :: 1844-10-15
 #has_/time_/stopped :: 1900-08-25 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
-
+#is_/same_as :: [[../../../WikiData/WD~Friedrich_Nietzsche,9358|WD~Friedrich_Nietzsche,9358]] 
 
 ## #has_/text_of_/abstract 
 
