@@ -2,6 +2,7 @@
 aliases:
 - "Gabriel García Márquez"
 - "Gabriel José García Márquez"
+- Gabriel_García_Márquez
 - Gabito
 - Gabo
 archives_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
@@ -100,8 +101,12 @@ work_period_start_: 1947
 writing_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
 ---
 
+# [[Márquez,Gabriel_García]] 
+
 #has_/time_/started :: 1927-03-06 
 #has_/time_/started :: 2014-04-17 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Gabriel_García_Márquez,5878|WD~Gabriel_García_Márquez,5878]] 
 
 ## #has_/text_of_/abstract 
 
