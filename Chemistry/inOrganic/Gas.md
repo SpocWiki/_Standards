@@ -38,10 +38,28 @@ Krugosvet_article: nauka_i_tehnika/himiya/GAZ.html
 
 ## #has_/text_of_/abstract 
 
-> **Gas** is a state of matter with neither fixed volume nor fixed shape. It is a compressible form of fluid. A pure gas consists of individual atoms (e.g. a noble gas like neon), or molecules (e.g. oxygen (O2) or carbon dioxide). Pure gases can also be mixed together such as in the air. What distinguishes gases from liquids and solids is the vast separation of the individual gas particles. This separation can make some gases invisible to the human observer.
+> **Gas** is one of the four fundamental states of matter. The others are solid, liquid, and plasma. A pure gas may be made up of individual atoms (e.g. a noble gas like neon), elemental molecules made from one type of atom (e.g. oxygen), or compound molecules made from a variety of atoms (e.g. carbon dioxide). A gas mixture, such as air, contains a variety of pure gases. What distinguishes gases from liquids and solids is the vast separation of the individual gas particles. This separation usually makes a colorless gas invisible to the human observer.
 >
 > The gaseous state of matter occurs between the liquid and plasma states, the latter of which provides the upper-temperature boundary for gases. Bounding the lower end of the temperature scale lie degenerative quantum gases which are gaining increasing attention.
 >
 > High-density atomic gases super-cooled to very low temperatures are classified by their statistical behavior as either Bose gases or Fermi gases. For a comprehensive listing of these exotic states of matter, see list of states of matter.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gas)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gas](/_Standards/Science/Physics/State_of_Matter/Gas.md) 
+
+### #is_/same_as :: [Gas.public](/_public/Science/Physics/State_of_Matter/Gas.public.md) 
+
+### #is_/same_as :: [Gas.internal](/_internal/Science/Physics/State_of_Matter/Gas.internal.md) 
+
+### #is_/same_as :: [Gas.protect](/_protect/Science/Physics/State_of_Matter/Gas.protect.md) 
+
+### #is_/same_as :: [Gas.private](/_private/Science/Physics/State_of_Matter/Gas.private.md) 
+
+### #is_/same_as :: [Gas.personal](/_personal/Science/Physics/State_of_Matter/Gas.personal.md) 
+
+### #is_/same_as :: [Gas.secret](/_secret/Science/Physics/State_of_Matter/Gas.secret.md)
+

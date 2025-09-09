@@ -24,6 +24,12 @@ topic_s_main_category: '[[_Standards/WikiData/WD~Q6509956,6509956]]'
 U_S_National_Archives_Identifier: 10637828
 ---
 
+
+# [[Gas]]
+
+#is_/same_as :: [[../../WikiData/WD~Gas,11432|WD~Gas,11432]]
+
+
 ## #has_/text_of_/abstract 
 
 > **Gas** is one of the four fundamental states of matter. The others are solid, liquid, and plasma. A pure gas may be made up of individual atoms (e.g. a noble gas like neon), elemental molecules made from one type of atom (e.g. oxygen), or compound molecules made from a variety of atoms (e.g. carbon dioxide). A gas mixture, such as air, contains a variety of pure gases. What distinguishes gases from liquids and solids is the vast separation of the individual gas particles. This separation usually makes a colorless gas invisible to the human observer.
