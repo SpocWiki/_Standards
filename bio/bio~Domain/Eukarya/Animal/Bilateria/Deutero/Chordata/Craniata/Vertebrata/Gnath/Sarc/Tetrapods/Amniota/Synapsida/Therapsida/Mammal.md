@@ -3,6 +3,8 @@ aliases:
 - Mammal
 - Mammals
 - Mammalia
+- Säugetier
+- Säugetiere
 Colon_Classification: K97
 Commons_category: Mammalia
 Commons_gallery: Mammalia
