@@ -424,8 +424,8 @@ For more Details, check out this Repository into this Subfolder:
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Georgia 
 [[Georgia,Europe/ReadMe]]] 
 
-[ISO2::GE]
-[ISO3::GEO] 
+[ISO2::GE] 
+[ISO3::GEO]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Georgia,230|WD~Georgia,230]] 
 
