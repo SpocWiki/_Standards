@@ -418,7 +418,7 @@ U_S_National_Archives_Identifier: 10045259
 country_calling_code: +995
 ---
 
-#[[Georgia,Europe]]] 
+# [[Georgia,Europe]] 
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Georgia 
@@ -427,10 +427,9 @@ For more Details, check out this Repository into this Subfolder:
 [ISO2::GE]
 [ISO3::GEO] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Georgia,230|WD~Georgia,230]] 
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Georgia

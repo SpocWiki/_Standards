@@ -100,8 +100,7 @@ Libris_URI: gdsvpsv01w1kcbk
 
 # [[Genghis_Khan]]
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Genghis_Khan,720|WD~Genghis_Khan,720]]
-
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Genghis_Khan,720|WD~Genghis_Khan,720]] 
 
 ## #has_/text_of_/abstract 
 
