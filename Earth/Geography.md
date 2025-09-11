@@ -80,7 +80,6 @@ topic_has_template:
 has_part_s_: "[[_Standards/WikiData/WD~evolutionary_geography,135995350]]"
 ---
 
-
 # [[Geography]]
 
 #is_/same_as :: [[wd Geography]]
