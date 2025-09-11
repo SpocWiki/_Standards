@@ -1,5 +1,20 @@
 ---
 title: Gentianales
+aliases:
+has_id_wikidata: Q21754
+parent_taxon: "[[_Standards/WikiData/WD~lamiids,2182368]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "29910"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Gentiana%20cruciata%202.jpg
+PAEnflowered_taxon_URL: https://www.paenflowered.org/apgii/gentianales
+EPPO_Code: 1GENO
+MeSH_tree_code: B01.875.800.575.912.250.456
+UMLS_CUI: C1080874
+Commons_category: Gentianales
+taxon_name: Gentianales
+NBN_System_Key: NHMSYS0000066120
+taxon_common_name: 龙胆目
 ---
 
 # [[Gentianales]] 
@@ -8,6 +23,7 @@ title: Gentianales
 ![Gentiana_calycosa](Gentianales/Gentiana_calycosa.jpg) 
 ![Galium_ambiguum](Gentianales/Galium_ambiguum.jpg) 
 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Gentianales,21754|WD~Gentianales,21754]] 
 ## #has_/text_of_/abstract 
 
 > **Gentianales** is an order of flowering plant, included within the asterid clade of eudicots. It comprises more than 20,000 species in about 1,200 genera in 5 families. More than 80% of the species in this order belong to the family Rubiaceae.

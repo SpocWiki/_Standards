@@ -1,6 +1,7 @@
 ---
 aliases:
 - "Geoffrey Chaucer"
+- Geoffrey_Chaucer
 BHCL_UUID: 53d2d252-bcf7-4911-a58b-36d5fd91748f
 child:
 - '[[_Standards/WikiData/WD~Thomas_Chaucer,334148]]'
@@ -83,8 +84,12 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Chaucer::f2kcz\"]"
 writing_language: '[[_Standards/WikiData/WD~Middle_English,36395]]'
 ---
 
+# [[Chaucer,Geoffrey]] 
+
 #has_/time_/started :: 1343-06
 #has_/time_/started :: 1400-10-25 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Geoffrey_Chaucer,5683|WD~Geoffrey_Chaucer,5683]] 
 
 ## #has_/text_of_/abstract 
 

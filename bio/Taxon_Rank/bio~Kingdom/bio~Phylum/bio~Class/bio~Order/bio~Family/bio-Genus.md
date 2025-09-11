@@ -32,11 +32,10 @@ short_name: g.
 #is_a_/taxon_rank  
 #is_a_ :: [[Taxon_Rank]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Genus,34740|WD~Genus,34740]]  
-
 #has_/previous_/item :: [[../bio~Family]]  
 #has_/next_/item :: [[bio-Genus/bio-Species]] 
 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Genus,34740|WD~Genus,34740]]  
 
 ## #has_/text_of_/abstract 
 

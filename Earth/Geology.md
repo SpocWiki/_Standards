@@ -61,11 +61,9 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_geology,7112648]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Geology,15077486]]"
 ---
 
-
 # [[Geology]]
 
 #is_/same_as :: [[../WikiData/WD~Geology,1069|WD~Geology,1069]]
-
 
 ## #has_/text_of_/abstract 
 

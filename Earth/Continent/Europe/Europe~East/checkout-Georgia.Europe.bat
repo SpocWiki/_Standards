@@ -1,1 +1,0 @@
-git clone "https://github.com/SpocWiki/Europe-Georgia" Georgia.Europe

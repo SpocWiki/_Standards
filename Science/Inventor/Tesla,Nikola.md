@@ -2,6 +2,7 @@
 aliases:
 - "Nikola Tesla"
 - "Никола Тесла"
+- Tesla
 award_received:
 - '[[_Standards/WikiData/WD~Order_of_the_White_Lion,93728]]'
 - '[[_Standards/WikiData/WD~IEEE_Fellow,111734]]'
@@ -120,6 +121,10 @@ spoken_text_audio:
 Stack_Exchange_tag: "https://hsm.stackexchange.com/tags/tesla"
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 ---
+
+# [[Tesla,Nikola]] 
+
+#has_/employer :: [[Westinghouse,George]] 
 
 ## #has_/text_of_/abstract 
 
