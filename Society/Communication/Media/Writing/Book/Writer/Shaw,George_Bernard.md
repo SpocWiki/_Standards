@@ -2,6 +2,7 @@
 aliases:
 - "George Bernard Shaw"
 - "Bernard Shaw"
+- Shaw
 archives_at:
 - '[[_Standards/WikiData/WD~National_Library_of_Wales,666063]]'
 - '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
