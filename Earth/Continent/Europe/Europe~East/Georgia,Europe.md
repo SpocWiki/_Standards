@@ -427,9 +427,9 @@ For more Details, check out this Repository into this Subfolder:
 [ISO2::GE]
 [ISO3::GEO] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Georgia,230|WD~Georgia,230]] 
+
 ## #has_/map  
-
-
 
 
 ```leaflet
