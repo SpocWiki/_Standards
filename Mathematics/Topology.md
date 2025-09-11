@@ -1,5 +1,6 @@
 ---
 aliases:
+  - topological
 has_id_wikidata: Q42989
 different_from:
   - "[[_Standards/WikiData/WD~topography,134435]]"
