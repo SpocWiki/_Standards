@@ -24,8 +24,8 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 
 # Gnathostomata 
 
-#is_/instance_of :: [[InfraPhylum]]  
-#is_/same_as :: [[../../../../../../WikiData/WD~Gnathostomata,26214|WD~Gnathostomata,26214]] 
+#is_/instance_of :: [[../../../../../../../../Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum]]  
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Gnathostomata,26214|WD~Gnathostomata,26214]]   
 
 ![Gnathostomata](Gnath/Hippopotamus.jpg) 
 
