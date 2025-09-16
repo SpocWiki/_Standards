@@ -27,11 +27,9 @@ NBN_System_Key: NHMSYS0000376721
 Unicode_character: 🦍
 ---
 
-
 # [[Gorilla]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Gorilla,36611|WD~Gorilla,36611]]
-
 
 ## #has_/text_of_/abstract 
 

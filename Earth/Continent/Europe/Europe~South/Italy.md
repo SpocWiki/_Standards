@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Italy
+  - Italia
+  - Italie
+  - إيطاليا
+  - 意大利
+  - Италия
+  - the Republic of Italy
+  - la República Italiana
+  - italian
 title: Italy
 linkTitle:
 type: Country
@@ -22,15 +32,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Italy
-  - Italia
-  - Italie
-  - إيطاليا
-  - 意大利
-  - Италия
-  - the Republic of Italy
-  - la República Italiana
 Languages:
   - it-IT
   - de-IT
