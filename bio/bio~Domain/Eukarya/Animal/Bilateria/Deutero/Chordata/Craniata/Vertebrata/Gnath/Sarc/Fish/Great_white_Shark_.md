@@ -107,11 +107,9 @@ EPPO_Code: KCHRCA
 NBN_System_Key: NHMSYS0001745235
 ---
 
-
-# [[Great_white_shark]]
+# [[Great_white_Shark_]]
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Great_white_shark,129026|WD~Great_white_shark,129026]]
-
 
 ## #has_/text_of_/abstract 
 
