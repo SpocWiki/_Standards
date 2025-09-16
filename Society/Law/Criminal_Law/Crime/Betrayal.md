@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Verrat
 has_id_wikidata: Q2166722
 opposite_of: "[[_Standards/WikiData/WD~loyalty,1132131]]"
 partially_coincident_with: "[[_Standards/WikiData/WD~transgression,3537603]]"

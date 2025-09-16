@@ -2,6 +2,7 @@
 aliases:
   - Franz Kafka
   - Kafka
+  - Franz_Kafka
 archives_at: "[[_Standards/WikiData/WD~Bodleian_Library,82133]]"
 ArhivX_LOD: 3802
 BHCL_UUID: 0a77a533-17eb-4f46-a206-e8dec3d17ee8
@@ -129,8 +130,12 @@ work_period_start_: 1904
 writing_language: "[[_Standards/WikiData/WD~German,188]]"
 ---
 
+# [[Kafka,Franz]] 
+
 #has_/time_/started :: 1883-07-03
 #has_/time_/started :: 1924-06-03 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Franz_Kafka,905|WD~Franz_Kafka,905]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - dwarf galaxy
+  - dwarf galaxies
 has_id_wikidata: Q190438
 instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
 subclass_of: "[[_Standards/WikiData/WD~galaxy,318]]"

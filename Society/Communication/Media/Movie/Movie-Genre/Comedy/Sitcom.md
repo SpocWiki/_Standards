@@ -1,5 +1,6 @@
 
-> Die **Sitcom** (Kofferwort für situation comedy „Situationskomödie“, siehe auch: Comedy) ist eine Unterhaltungssendung, die auf die US-amerikanischen Comedy-Shows im Hörfunk der 1930er und 1940er Jahre (Amos ’n’ Andy, The Goldbergs) zurückgeht. Das Fernsehen adaptierte das Genre, wobei es – wie früher im Radio – meist als Serie ausgestrahlt wird.
+> Die **Sitcom** (Kofferwort für situation comedy „Situationskomödie“, siehe auch: Comedy) 
+> ist eine Unterhaltungssendung, die auf die US-amerikanischen Comedy-Shows im Hörfunk der 1930er und 1940er Jahre (Amos ’n’ Andy, The Goldbergs) zurückgeht. Das Fernsehen adaptierte das Genre, wobei es – wie früher im Radio – meist als Serie ausgestrahlt wird.
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Sitcom)
 

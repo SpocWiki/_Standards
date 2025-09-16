@@ -1303,7 +1303,7 @@ into a Subfolder named `India`, so that this Link into the Sub-Repository works:
 
 > [!warning] This can considerably increase the total size and depth of your wiki!
 
-
+#is_/same_as :: [[../../../../WikiData/WD~India,668|WD~India,668]] 
 
 ## #has_/parts_  
 

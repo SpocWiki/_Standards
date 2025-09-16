@@ -23,7 +23,7 @@ aliases:
 > 
 > His starring roles included productions of As You Like It (his West End debut for the company at the Aldwych Theatre in 1967), Much Ado About Nothing, Richard III, The Tempest, A Midsummer Night's Dream, Hamlet and The Merry Wives of Windsor. Also known for his television roles, he received four Primetime Emmy Award nominations for his performances in Murderers Among Us: The Simon Wiesenthal Story (1989), Joseph (1995), Anne Frank: The Whole Story (2001), and Mrs. Harris (2006).
 >
-> In film, Kingsley is known for his starring role as[[../../../../../Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand|Mahatma Gandhi]]] in [[Attenborough,Richard|Richard Attenborough]]'s Gandhi (1982), 
+> In film, Kingsley is known for his starring role as :: [[../../../../../Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand|Mahatma Gandhi]]] in [[Attenborough,Richard|Richard Attenborough]]'s Gandhi (1982), 
 > for which he subsequently won the [[../../TV-Series/Academy_Award|Academy Award]] for Best Actor and BAFTA Award for Best Actor in a Leading Role. 
 > 
 > For his portrayal of Itzhak Stern in [[Spielberg,Steven|Steven Spielberg]]'s Schindler's List (1993), 

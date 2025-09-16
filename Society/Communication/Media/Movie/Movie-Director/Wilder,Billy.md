@@ -24,7 +24,7 @@ aliases:
 > The rise of the Nazi Party and antisemitism in Germany saw him move to Paris. 
 > He then moved to Hollywood in 1934, and had a major hit 
 > when he, Charles Brackett and Walter Reisch wrote the screenplay 
-> for the Academy Award-nominated film [[Ninotchka(1939)]]. 
+> for the Academy Award-nominated film [[Lubitsch,Ernst/Ninotchka(1939)]]. 
 > 
 > Wilder established his directorial reputation and received his first nomination for the Academy Award for Best Director with Double Indemnity (1944), a film noir based on the novel by James M. Cain with a screenplay by Wilder and Raymond Chandler. Wilder won the Best Director and Best Screenplay Academy Awards for The Lost Weekend (1945), which also won the Academy Award for Best Picture.
 >

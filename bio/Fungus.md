@@ -1,58 +1,65 @@
 ---
-AlgaeBase_URL: "https://www.algaebase.org/browse/taxonomy/detail/?taxonid=92070"
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Nomenclature_for_algae,_fungi,_and_plants,693148]]'
+aliases:
+  - Fungi
+  - funguses
+  - Pilz
+  - Pilze
+AlgaeBase_URL: https://www.algaebase.org/browse/taxonomy/detail/?taxonid=92070
+code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Nomenclature_for_algae,_fungi,_and_plants,693148]]"
 Colon_Classification: I23
 Commons_category: Fungi
 Commons_gallery: Fungi
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 Dewey_Decimal_Classification:
-- 579.5
-- 664.001579
-- 579.6
-- 579
-different_from: '[[_Standards/WikiData/WD~plant,756]]'
+  - 579.5
+  - 664.001579
+  - 579.6
+  - 579
+different_from: "[[_Standards/WikiData/WD~plant,756]]"
 EPPO_Code: 1FUNGK
 FoodEx2_code: A0ETG
 has_id_wikidata: Q764
 has_part_s_:
-- '[[_Standards/WikiData/WD~mushroom,83093]]'
-- '[[_Standards/WikiData/WD~mycelium,326228]]'
+  - "[[_Standards/WikiData/WD~mushroom,83093]]"
+  - "[[_Standards/WikiData/WD~mycelium,326228]]"
 has_time_started: -410000000
 Iconclass_notation: 25G54
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/2006-08-09%20Amanita%20citrina%2046465%20cropped.jpg"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/2006-08-09%20Amanita%20citrina%2046465%20cropped.jpg
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 555705
 Krugosvet_article: nauka_i_tehnika/biologiya/GRIBI.html
 Library_of_Congress_Classification: QK600-QK638
 MeSH_tree_code: B01.300
 montage_image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20collage.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20Diversity.jpg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20collage.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20Diversity.jpg
 OmegaWiki_Defined_Meaning: 1588
-parent_taxon: '[[_Standards/WikiData/WD~Holomycota,2943473]]'
+parent_taxon: "[[_Standards/WikiData/WD~Holomycota,2943473]]"
 start_time: -410000000
-studied_in: '[[_Standards/WikiData/WD~mycology,7175]]'
-subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
+studied_in: "[[_Standards/WikiData/WD~mycology,7175]]"
+subclass_of: "[[_Standards/WikiData/WD~organism,7239]]"
 taxon_name: Fungi
-taxon_rank: '[[_Standards/WikiData/WD~kingdom,36732]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~plant-based_food,107122728]]'
+taxon_rank: "[[_Standards/WikiData/WD~kingdom,36732]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~plant-based_food,107122728]]"
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Fungus_navs,10977052]]'
-- '[[_Standards/WikiData/WD~Template_Fungus,14403518]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fungi,10814969]]'
+  - "[[_Standards/WikiData/WD~Template_Fungus_navs,10977052]]"
+  - "[[_Standards/WikiData/WD~Template_Fungus,14403518]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Fungi,10814969]]"
 UMLS_CUI:
-- C0369241
-- C0016832
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fungi,39087041]]'
+  - C0369241
+  - C0016832
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_fungi,39087041]]"
 ---
+
+# [[Fungus]] 
 
 #is_/same_as :: [[../WikiData/WD~Fungus,764|WD~Fungus,764]] 
 
@@ -61,6 +68,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fungi,39087041]]'
 > A **Fungus** (pl.: fungi or funguses) is any member of the group of 
 > eukaryotic organisms that includes microorganisms such as yeasts and molds, 
 > as well as the more familiar mushrooms. 
+> 
 > These organisms are classified as one of the traditional eukaryotic kingdoms, 
 > along with Animalia, Plantae, and either Protista or Protozoa and Chromista.
 >

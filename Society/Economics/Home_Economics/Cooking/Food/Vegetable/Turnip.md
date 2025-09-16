@@ -36,7 +36,7 @@ UNII: Z38C7FBM49
 
 # [[Turnip]]
 
-#is_/same_as [[WD ]]
+#is_/same_as :: [[WD ]]
 
 ## #has_/text_of_/abstract 
 

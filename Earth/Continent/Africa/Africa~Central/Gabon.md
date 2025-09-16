@@ -345,7 +345,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Gabon/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: XAF ]
 [	ISO4217-currency_name	 :: CFA Franc BEAC ]
 [	ISO4217-currency_numeric	 :: 950 ]
@@ -409,10 +408,12 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 266 ]
 
-
-
 [ISO2::GA]
 [ISO3::GAB]
+
+#is_/same_as :: [[../../../../WikiData/WD~Gabon,1000|WD~Gabon,1000]] 
+
+## #has_/map  
 
 ```leaflet
 id: Gabon

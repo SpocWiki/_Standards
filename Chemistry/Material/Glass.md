@@ -61,6 +61,10 @@ tensile_modulus_of_elasticity:
 UMLS_CUI: C0017596
 ---
 
+# [[Glass]] 
+
+#is_/same_as :: [[../../WikiData/WD~Glass,11469|WD~Glass,11469]] 
+
 ## #has_/text_of_/abstract 
 
 > **Glass** is an amorphous (non-crystalline) solid. Because it is often transparent and chemically inert, glass has found widespread practical, technological, and decorative use in window panes, tableware, and optics. Some common objects made of glass are named after the material, e.g., a "glass" for drinking, "glasses" for vision correction, and a "magnifying glass".

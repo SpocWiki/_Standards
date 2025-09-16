@@ -390,24 +390,24 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Iraq/ReadMe]] 
 
-[	ISO4217-currency_alphabetic	 :: IQD ]
-[	ISO4217-currency_name	 :: Iraqi Dinar ]
-[	ISO4217-currency_numeric	 :: 368 ]
-[	ISO4217-currency_minor_unit	 :: 3 ]
-[	ISO4217-currency_country_name	 :: IRAQ ]
+[	ISO4217-currency_alphabetic	 :: IQD ] 
+[	ISO4217-currency_name	 :: Iraqi Dinar ] 
+[	ISO4217-currency_numeric	 :: 368 ] 
+[	ISO4217-currency_minor_unit	 :: 3 ] 
+[	ISO4217-currency_country_name	 :: IRAQ ] 
 
-[	Telephone	 :: 964 ]
+[	Telephone	 :: 964 ] 
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+[	Global	 :: True ] 
+[	Global_Name	 :: World ] 
 
-[	name	 :: Iraq ]
-[	name-en	 :: Iraq ]
-[	name-es	 :: Iraq ]
-[	name-fr	 :: Iraq ]
-[	name-cn	 :: 伊拉克 ]
-[	name-ar	 :: العراق ]
-[	name-ru	 :: Ирак ]
+[	name	 :: Iraq ] 
+[	name-en	 :: Iraq ] 
+[	name-es	 :: Iraq ] 
+[	name-fr	 :: Iraq ] 
+[	name-cn	 :: 伊拉克 ] 
+[	name-ar	 :: العراق ] 
+[	name-ru	 :: Ирак ] 
 
 [	CLDR_display_name	 :: Iraq ]
 

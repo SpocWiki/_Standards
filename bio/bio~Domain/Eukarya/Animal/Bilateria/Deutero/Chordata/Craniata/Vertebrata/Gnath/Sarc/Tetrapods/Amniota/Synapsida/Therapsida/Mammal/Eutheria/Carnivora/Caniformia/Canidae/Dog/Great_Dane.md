@@ -27,14 +27,16 @@ exact_match:
 subreddit: greatdanes
 ---
 
-
 # [[Great_Dane]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Great_Dane,5414|WD~Great_Dane,5414]]
 
-
 ## #has_/text_of_/abstract 
 
-> The **Great Dane** is a German breed of large mastiff-sighthound, which descends from hunting dogs of the Middle Ages used to hunt bears, wild boar, and deer. They were also used as guardian dogs of German nobility. It is one of the two largest dog breeds in the world, along with the Irish Wolfhound.
+> The **Great Dane** is a German breed of large mastiff-sighthound, 
+> which descends from hunting dogs of the Middle Ages used to hunt bears, wild boar, and deer. 
+> They were also used as guardian dogs of German nobility. 
+> It is one of the two largest dog breeds in the world, along with the Irish Wolfhound.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Dane)
+> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Dane) 
+

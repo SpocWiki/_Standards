@@ -1,5 +1,53 @@
+---
+aliases:
+  - Glykogen
+has_id_wikidata: Q174936
+found_in_taxon:
+  - "[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]"
+  - "[[_Standards/WikiData/WD~Streptomyces_coelicolor,2355919]]"
+  - "[[_Standards/WikiData/WD~Streptomyces_albidoflavus,22286833]]"
+  - "[[_Standards/WikiData/WD~queen_conch,106121203]]"
+  - "[[_Standards/WikiData/WD~Lobatus_gigas,62603]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~polysaccharide,134219]]"
+  - "[[_Standards/WikiData/WD~glucan,416796]]"
+part_of:
+  - "[[_Standards/WikiData/WD~glycogen_catabolic_process,680603]]"
+  - "[[_Standards/WikiData/WD~glycogen_biosynthetic_process,14863063]]"
+  - "[[_Standards/WikiData/WD~glycogen_metabolic_process,14902477]]"
+  - "[[_Standards/WikiData/WD~glycophagy,21113302]]"
+  - "[[_Standards/WikiData/WD~glycogen_binding,21113301]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+mass: 666.221858
+has_part_s_:
+  - "[[_Standards/WikiData/WD~hydrogen,556]]"
+  - "[[_Standards/WikiData/WD~carbon,623]]"
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
+CosIng_number: "34127"
+PubChem_CID: "439177"
+InChIKey: BYSGBSNPRWKUQH-UJDJLXLFSA-N
+chemical_formula: C₂₄H₄₂O₂₁
+chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Glykogen.svg
+EC_number: 232-683-8
+UNII: 309GSC92U1
+CAS_Registry_Number: 9005-79-2
+isomeric_SMILES: C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)O[C@@H]3[C@H](O[C@@H]([C@@H]([C@H]3O)O)O)CO)O)O)O[C@@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O)O
+canonical_SMILES: C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3C(OC(C(C3O)O)O)CO)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O)O)O
+UMLS_CUI: C0017911
+MeSH_tree_code:
+  - D05.750.078.562.388
+  - D09.698.365.388
+Commons_category: Glycogen
+InChI: InChI=1S/C24H42O21/c25-1-5-9(28)11(30)16(35)22(41-5)39-4-8-20(45-23-17(36)12(31)10(29)6(2-26)42-23)14(33)18(37)24(43-8)44-19-7(3-27)40-21(38)15(34)13(19)32/h5-38H,1-4H2/t5-,6-,7-,8-,9-,10-,11+,12+,13-,14-,15-,16-,17-,18-,19-,20-,21+,22+,23-,24-/m1/s1
+---
+
+# [[Glycogen]]
 
 #is_/instance_of :: [[../Polysaccharide]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Glycogen,174936|WD~Glycogen,174936]] 
 
 - The **branching** structure means glucose is stored compactly, 
   with branch points occurring every **8 to 12 glucose units**.

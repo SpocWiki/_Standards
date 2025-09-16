@@ -63,7 +63,6 @@ Colon_Classification: J374
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Grape,10978|WD~Grape,10978]]
 
-
 ## #has_/text_of_/abstract 
 
 > A **Grape** is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis. Grapes are a non-climacteric type of fruit, generally occurring in clusters.

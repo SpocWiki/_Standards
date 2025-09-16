@@ -46,6 +46,7 @@ aliases:
 
 # [[Fruit]] 
 
+#is_/different_from::  [[../../Society/Economics/Home_Economics/Cooking/Food/Fruits|Fruits]]   
 #is_/different_from::  [[../../../../../WikiData/WD~Fruit,3314483|WD~Fruit,3314483]]  
 #is_/same_as :: [[../../../../../WikiData/WD~Fruit,1364|WD~Fruit,1364]]  
 

@@ -1,41 +1,45 @@
 ---
-astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20symbol%20%28rotated%29.svg"
+astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20symbol%20%28rotated%29.svg
 Commons_category: Galaxies
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
 Dewey_Decimal_Classification: 523.112
-different_from: '[[_Standards/WikiData/WD~Milky_Way,321]]'
+different_from: "[[_Standards/WikiData/WD~Milky_Way,321]]"
 EntitySchema_for_this_class: E441
-equivalent_class: "http://dbpedia.org/ontology/Galaxy"
-exact_match: "http://purl.obolibrary.org/obo/ENVO_01000807"
+equivalent_class: http://dbpedia.org/ontology/Galaxy
+exact_match: http://purl.obolibrary.org/obo/ENVO_01000807
 has_id_wikidata: Q318
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Space-icon.png"
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Space-icon.png
 Iconclass_notation: 24D2
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/NGC%204414%20%28NASA-med%29.jpg"
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/NGC%204414%20%28NASA-med%29.jpg
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
 Krugosvet_article: nauka_i_tehnika/astronomiya/GALAKTIKI.html
 MeSH_tree_code: G01.060.075.320
 model_item:
-- "[[_Standards/WikiData/WD~Hoag's_Object,872197]]"
-- '[[_Standards/WikiData/WD~ESO_137-001,3329830]]'
-- '[[_Standards/WikiData/WD~Milky_Way,321]]'
-- '[[_Standards/WikiData/WD~Andromeda_Galaxy,2469]]'
-- '[[_Standards/WikiData/WD~Messier_87,14041]]'
-named_after: '[[_Standards/WikiData/WD~Milky_Way,321]]'
+  - "[[_Standards/WikiData/WD~Hoag's_Object,872197]]"
+  - "[[_Standards/WikiData/WD~ESO_137-001,3329830]]"
+  - "[[_Standards/WikiData/WD~Milky_Way,321]]"
+  - "[[_Standards/WikiData/WD~Andromeda_Galaxy,2469]]"
+  - "[[_Standards/WikiData/WD~Messier_87,14041]]"
+named_after: "[[_Standards/WikiData/WD~Milky_Way,321]]"
 OmegaWiki_Defined_Meaning: 8322
-part_of: '[[_Standards/WikiData/WD~galaxy_group_or_cluster,14515149]]'
-properties_for_this_type: "galaxy morphological type"
-Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/galaxy"
-studied_in: '[[_Standards/WikiData/WD~galaxy_formation_and_evolution,1995140]]'
-subclass_of: '[[_Standards/WikiData/WD~deep-sky_object,249389]]'
+part_of: "[[_Standards/WikiData/WD~galaxy_group_or_cluster,14515149]]"
+properties_for_this_type: galaxy morphological type
+Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/galaxy
+studied_in: "[[_Standards/WikiData/WD~galaxy_formation_and_evolution,1995140]]"
+subclass_of: "[[_Standards/WikiData/WD~deep-sky_object,249389]]"
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_galaxy,5882327]]'
-- '[[_Standards/WikiData/WD~Template_Galaxy,13225613]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_galaxy_2,26187337]]'
+  - "[[_Standards/WikiData/WD~Template_Infobox_galaxy,5882327]]"
+  - "[[_Standards/WikiData/WD~Template_Galaxy,13225613]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_galaxy_2,26187337]]"
 UMLS_CUI: C0282063
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_galaxies,48835084]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_galaxies,48835084]]"
 Wolfram_Language_entity_type: Galaxy
+aliases:
+  - galaxies
+  - Galaxien
+  - Galaxie
 ---
 
 ## #has_/text_of_/abstract 

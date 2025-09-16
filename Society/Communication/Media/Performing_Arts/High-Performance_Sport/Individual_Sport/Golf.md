@@ -54,6 +54,10 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Stacy%20Prammanasudh%
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_golf,28453699]]'
 ---
 
+# [[Golf]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Golf,5377|WD~Golf,5377]] 
+
 ## #has_/text_of_/abstract 
 
 > **Golf** is a club-and-ball sport in which players use various clubs to hit a ball into a series of holes on a course in as few strokes as possible.

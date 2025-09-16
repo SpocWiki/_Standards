@@ -1,7 +1,9 @@
 ---
 aliases:
   - Fyodor Dostoyevsky
+  - Fyodor_Dostoyevsky
   - Dostoyevsky
+  - Fyodor Mikhailovich Dostoevsky
 allegiance: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
 BHCL_UUID: 6a003c2a-7533-4509-a180-62dbe6d6a24f
 cause_of_death:
@@ -147,9 +149,12 @@ work_period_start_: 1844
 writing_language: "[[_Standards/WikiData/WD~Russian,7737]]"
 ---
 
+# [[Dostoyevsky,Fyodor]] 
+
 #has_/time_/started :: 1821-11-11 
 #has_/time_/started :: 1881-02-09 
 
+#is_/same_as :: [[../../../../../../WikiData/WD~Fyodor_Dostoyevsky,991|WD~Fyodor_Dostoyevsky,991]] 
 ## #has_/text_of_/abstract 
 
 > Fyodor Mikhailovich Dostoevsky (11 November 1821 – 9 February 1881), 

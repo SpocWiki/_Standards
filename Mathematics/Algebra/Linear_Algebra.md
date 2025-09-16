@@ -36,6 +36,8 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Linear_algebra,1121261
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"LinearAlgebra::f2mkf\"]"
 ---
 
+# [[Linear_Algebra]] 
+
 ## #has_/text_of_/abstract 
 
 > **Linear algebra** is the branch of mathematics concerning linear equations such as: 

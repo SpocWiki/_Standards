@@ -1,4 +1,11 @@
 ---
+aliases:
+  - gene
+  - gene
+  - Gen
+  - is_a_gene
+  - genetic
+  - genetisch
 Commons_category: Genes
 Colon_Classification: E116
 EntitySchema_for_this_class:
@@ -6,28 +13,23 @@ EntitySchema_for_this_class:
   - E258
 MeSH_tree_code: G05.360.340.024.340
 NCI_Dictionary_of_Genetics_Terms_entry: gene
-OmegaWiki_Defined_Meaning: '1629'
-P8189: '987007546668705171'
+OmegaWiki_Defined_Meaning: "1629"
+P8189: "987007546668705171"
 Stack_Exchange_tag: https://bioinformatics.stackexchange.com/tags/gene
 Wikidata_property:
   - OMIM ID
   - Ensembl gene ID
   - has role in modeling
 Wolfram_Language_entity_type: Gene
-aliases:
-  - gene
-  - gene
-  - Gen
-  - is_a_gene
 confidential: public
 cssclasses:
   - Type
 draft: false
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Genoa,1449]]'
-  - '[[_Standards/WikiData/WD~genome,7020]]'
-expiryDate: Null
+  - "[[_Standards/WikiData/WD~Genoa,1449]]"
+  - "[[_Standards/WikiData/WD~genome,7020]]"
+expiryDate:
 equivalent_class:
   - http://bioschemas.org/Gene
   - http://dbpedia.org/ontology/Gene
@@ -39,27 +41,25 @@ exact_match:
   - http://semanticscience.org/resource/SIO_010035
 has_id_wikidata: Q7187
 has_characteristic:
-  - '[[_Standards/WikiData/WD~genetic_characteristic,42138532]]'
-  - '[[_Standards/WikiData/WD~type_of_gene,131679239]]'
+  - "[[_Standards/WikiData/WD~genetic_characteristic,42138532]]"
+  - "[[_Standards/WikiData/WD~type_of_gene,131679239]]"
 isDeleted: false
 isReadOnly: false
 image:
-  - >-
-    http://commons.wikimedia.org/wiki/Special:FilePath/Gene%20structure%20eukaryote%202%20annotated.svg
-  - >-
-    http://commons.wikimedia.org/wiki/Special:FilePath/Gene%20structure%20prokaryote%202%20annotated.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gene%20structure%20eukaryote%202%20annotated.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gene%20structure%20prokaryote%202%20annotated.svg
 keywords:
   - gene
-layout: Null
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_a_gene Class
-model_item: '[[_Standards/WikiData/WD~acetylcholinesterase,22676679]]'
+model_item: "[[_Standards/WikiData/WD~acetylcholinesterase,22676679]]"
 publish: true
-publishDate: Null
+publishDate:
 part_of:
-  - '[[_Standards/WikiData/WD~gene_cluster,1501261]]'
-  - '[[_Standards/WikiData/WD~genome,7020]]'
-  - '[[_Standards/WikiData/WD~chromosome,37748]]'
+  - "[[_Standards/WikiData/WD~gene_cluster,1501261]]"
+  - "[[_Standards/WikiData/WD~genome,7020]]"
+  - "[[_Standards/WikiData/WD~chromosome,37748]]"
 properties_for_this_type:
   - HGNC gene symbol
   - HGNC ID
@@ -67,18 +67,17 @@ properties_for_this_type:
   - encodes
   - altered regulation leads to
   - NCBI locus tag
-subject_has_role: '[[_Standards/WikiData/WD~heredity,178694]]'
-subclass_of: '[[_Standards/WikiData/WD~biomolecular_structure,15712714]]'
-spoken_text_audio: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%A5%D5%B6%20%28Gene%29.ogg
+subject_has_role: "[[_Standards/WikiData/WD~heredity,178694]]"
+subclass_of: "[[_Standards/WikiData/WD~biomolecular_structure,15712714]]"
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%A5%D5%B6%20%28Gene%29.ogg
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_gene Class
 type: Type
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Gene,10543105]]'
-  - '[[_Standards/WikiData/WD~Template_Infobox_gene,23833192]]'
+  - "[[_Standards/WikiData/WD~Template_Gene,10543105]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_gene,23833192]]"
 ---
 
 # [[Gene]] 

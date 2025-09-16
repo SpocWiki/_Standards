@@ -54,6 +54,11 @@ Krugosvet_article: nauka_i_tehnika/matematika/FUNKTSIYA.html
 described_at_URL:
   - https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:functions
   - https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/a-more-formal-understanding-of-functions
+aliases:
+  - mathematical function
+  - function
+  - mathematical functions
+  - functions
 ---
 
 # [[Function(Math)]] 

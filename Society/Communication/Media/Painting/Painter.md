@@ -3,6 +3,10 @@ aliases:
 - Painters
 ---
 
+# [[Painter]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~painter,1028181]] 
+
 ## #has_/text_of_/abstract 
 
 > Painting is a visual art, which is characterized by the practice of applying paint, pigment, color or other medium to a solid surface (called "matrix" or "support"). The medium is commonly applied to the base with a brush, but other implements, such as knives, sponges, and airbrushes, may be used. One who produces paintings is called a **Painter**.

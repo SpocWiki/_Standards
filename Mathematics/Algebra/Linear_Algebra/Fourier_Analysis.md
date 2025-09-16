@@ -1,6 +1,25 @@
 ---
 aliases:
 has_id_wikidata: Q1365258
+has_use:
+  - "[[_Standards/WikiData/WD~acoustics,82811]]"
+  - "[[_Standards/WikiData/WD~digital_signal_processing,173142]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~mathematical_physics,156495]]"
+  - "[[_Standards/WikiData/WD~harmonic_analysis,876215]]"
+uses:
+  - "[[_Standards/WikiData/WD~Fourier_series,179467]]"
+  - "[[_Standards/WikiData/WD~frequency_domain,786423]]"
+  - "[[_Standards/WikiData/WD~Fourier_transform,6520159]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+named_after: "[[_Standards/WikiData/WD~Joseph_Fourier,8772]]"
+publication_date: 1822-01-01T00:00:00Z
+Stack_Exchange_tag: https://mathoverflow.net/tags/fourier-analysis
+MeSH_tree_code:
+  - E05.377
+  - G17.226
+  - L01.224.800.625
+Commons_category: Fourier analysis
 ---
 
 # [[Fourier_Analysis]] 

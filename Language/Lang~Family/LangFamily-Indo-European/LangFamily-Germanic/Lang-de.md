@@ -180,7 +180,6 @@ writing_system:
 - '[[_Standards/WikiData/WD~Latin_script,8229]]'
 ---
 
-﻿
 # [[Lang-de]] 
 
 [SpocWebEntityId:: 497 ]
@@ -197,8 +196,9 @@ writing_system:
 #has_/name_/en_ :: German 
 #has_/name_/de_ :: Deutsch  
 
+#is_/same_as :: [[../../../../WikiData/WD~German,188|WD~German,188]] 
 
-## Abstract 
+## #has_/text_of_/abstract   
 
 
 > German (Standard High German: Deutsch, pronounced [dɔɪtʃ] ) is a West Germanic language mainly spoken in Western and Central Europe. It is the most widely spoken and official or co-official language in Germany, Austria, Switzerland, Liechtenstein, and the Italian province of South Tyrol. It is also an official language of Luxembourg and Belgium, as well as a recognized national language in Namibia. Outside Germany, it is also spoken by German communities in France (Alsace), Czech Republic (North Bohemia), Poland (Upper Silesia), Slovakia (Košice Region, Spiš, and Hauerland), and Hungary (Sopron).

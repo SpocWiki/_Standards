@@ -20,7 +20,7 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poor%20Things)
 
-It is a modification of [[../../books/Authors/Shelley,Mary]]s [[../../../../../../../_protect/Society/Communication/Media/Literature/Genres/Frankenstein|Frankenstein]] 
+It is a modification of [[../../books/Authors/Shelley,Mary]]s [[../../../Writing/Book/Writer/Shelley,Mary/Frankenstein|Frankenstein]] 
 With many Allusions to the novel and its Metadata: 
 
 Godwin is the Name of [[../../books/Authors/Godwin,William|Godwin,William]], Mary Shelleys Father, but the short form "God" also fits very much. 

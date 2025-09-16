@@ -1,87 +1,89 @@
 ---
+aliases:
+  - artistic
 Commons_category: Umění
 Commons_gallery: Art
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
 Dewey_Decimal_Classification: 700
 different_from:
-- '[[_Standards/WikiData/WD~work_of_art,838948]]'
-- '[[_Standards/WikiData/WD~Sztuka,9352290]]'
-- '[[_Standards/WikiData/WD~art,55336315]]'
+  - "[[_Standards/WikiData/WD~work_of_art,838948]]"
+  - "[[_Standards/WikiData/WD~Sztuka,9352290]]"
+  - "[[_Standards/WikiData/WD~art,55336315]]"
 GitHub_topic: art
 hashtag:
-- Kunst
-- artwork
-- art
+  - Kunst
+  - artwork
+  - art
 has_characteristic:
-- '[[_Standards/WikiData/WD~art_genre,1792379]]'
-- '[[_Standards/WikiData/WD~art_style,1792644]]'
-- '[[_Standards/WikiData/WD~Classificatory_disputes_about_art,2976552]]'
-- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+  - "[[_Standards/WikiData/WD~art_genre,1792379]]"
+  - "[[_Standards/WikiData/WD~art_style,1792644]]"
+  - "[[_Standards/WikiData/WD~Classificatory_disputes_about_art,2976552]]"
+  - "[[_Standards/WikiData/WD~type_of_arts,56055944]]"
 has_id_wikidata: Q735
-history_of_topic: '[[_Standards/WikiData/WD~history_of_art,50641]]'
+history_of_topic: "[[_Standards/WikiData/WD~history_of_art,50641]]"
 IAB_code: 248
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20336883%20ccAlexanderSkowalsky%20art.svg"
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20336883%20ccAlexanderSkowalsky%20art.svg
 Iconclass_notation: 48
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20Ricci%20002.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20Ricci%20002.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~essentially_contested_concept,576639]]'
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~economic_sector,3958441]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~topic,26256810]]'
+  - "[[_Standards/WikiData/WD~essentially_contested_concept,576639]]"
+  - "[[_Standards/WikiData/WD~field_of_work,627436]]"
+  - "[[_Standards/WikiData/WD~economic_sector,3958441]]"
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~topic,26256810]]"
 Krugosvet_article:
-- kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/ISKUSSTVO.html
-- zhivopis-i-grafika/iskusstvo
+  - kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/ISKUSSTVO.html
+  - zhivopis-i-grafika/iskusstvo
 Library_of_Congress_Classification: N
 Mastodon_instance_URL:
-- "https://mastodon.art"
-- "https://sunny.garden"
+  - https://mastodon.art
+  - https://sunny.garden
 MeSH_tree_code: K01.093
 Nomenclature_for_Museum_Cataloging: 12894
 OmegaWiki_Defined_Meaning:
-- 256
-- 8514
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+  - 256
+  - 8514
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
 part_of:
-- '[[_Standards/WikiData/WD~arts,2018526]]'
-- '[[_Standards/WikiData/WD~culture,11042]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828630,22828630]]'
+  - "[[_Standards/WikiData/WD~arts,2018526]]"
+  - "[[_Standards/WikiData/WD~culture,11042]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828630,22828630]]"
 practiced_by:
-- '[[_Standards/WikiData/WD~artist,483501]]'
-- '[[_Standards/WikiData/WD~art_writer,88190618]]'
-- '[[_Standards/WikiData/WD~fictional_artist,125938151]]'
-product_material_or_service_produced_or_provided: '[[_Standards/WikiData/WD~work_of_art,838948]]'
+  - "[[_Standards/WikiData/WD~artist,483501]]"
+  - "[[_Standards/WikiData/WD~art_writer,88190618]]"
+  - "[[_Standards/WikiData/WD~fictional_artist,125938151]]"
+product_material_or_service_produced_or_provided: "[[_Standards/WikiData/WD~work_of_art,838948]]"
 properties_for_this_type:
-- "Commons category"
-- "topic's main category"
-- country
+  - Commons category
+  - topic's main category
+  - country
 Provenio_UUID: 1b91cb36-1d88-4688-831c-d08315879b27
 social_media_followers:
-- 22520234
-- 1093170
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Art.mp3"
-Stack_Exchange_tag: "https://stackoverflow.com/tags/art"
+  - 22520234
+  - 1093170
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Art.mp3
+Stack_Exchange_tag: https://stackoverflow.com/tags/art
 studied_in:
-- '[[_Standards/WikiData/WD~humanities,80083]]'
-- '[[_Standards/WikiData/WD~sociology_of_art,1792635]]'
-- '[[_Standards/WikiData/WD~art,55336315]]'
-- '[[_Standards/WikiData/WD~art_practice,62302889]]'
-- '[[_Standards/WikiData/WD~art_history,50637]]'
-subclass_of: '[[_Standards/WikiData/WD~creative_work,17537576]]'
+  - "[[_Standards/WikiData/WD~humanities,80083]]"
+  - "[[_Standards/WikiData/WD~sociology_of_art,1792635]]"
+  - "[[_Standards/WikiData/WD~art,55336315]]"
+  - "[[_Standards/WikiData/WD~art_practice,62302889]]"
+  - "[[_Standards/WikiData/WD~art_history,50637]]"
+subclass_of: "[[_Standards/WikiData/WD~creative_work,17537576]]"
 subreddit:
-- ArtPorn
-- Art
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Authority_control_(arts),105654429]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Arts,3918365]]'
+  - ArtPorn
+  - Art
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Authority_control_(arts),105654429]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Arts,3918365]]"
 UMLS_CUI: C0003826
 Universal_Decimal_Classification: 7
 U_S_National_Archives_Identifier: 10637981

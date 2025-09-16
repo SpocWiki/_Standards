@@ -2,6 +2,7 @@
 aliases:
 - "Francisco José de Goya y Lucientes"
 - "Francisco Goya"
+- Francisco_Goya
 artist_files_at:
 - '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
 - '[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art_Library_and_Archives,89574171]]'
@@ -250,8 +251,12 @@ work_location:
 - '[[_Standards/WikiData/WD~Rome,220]]'
 ---
 
+# [[Goya,Francisco]] 
+
 #has_/time_/started :: 1746-03-30 
 #has_/time_/started :: 1828-04-16 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Francisco_Goya,5432|WD~Francisco_Goya,5432]] 
 
 ## #has_/text_of_/abstract 
 
