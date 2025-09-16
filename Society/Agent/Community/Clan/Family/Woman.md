@@ -1,67 +1,81 @@
 ---
 Baidu_Tieba_name: 女人
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q60607743,60607743]]'
+category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q60607743,60607743]]"
 Colon_Classification: Y15
 Commons_category: Women
 Commons_gallery: Woman
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~Encyclopedia_of_Women_in_Today's_World,101407938]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-Dewey_Decimal_Classification: 920.72
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Women_in_Today's_World,101407938]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+Dewey_Decimal_Classification: "920.72"
 different_from:
-- '[[_Standards/WikiData/WD~wife,188830]]'
-- '[[_Standards/WikiData/WD~Dame,229756]]'
-- '[[_Standards/WikiData/WD~Woman,911993]]'
-- '[[_Standards/WikiData/WD~Frau,1159762]]'
-- '[[_Standards/WikiData/WD~female,6581072]]'
-- '[[_Standards/WikiData/WD~female_human,84048852]]'
-- '[[_Standards/WikiData/WD~girlfriend,49835]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-follows: '[[_Standards/WikiData/WD~girl,3031]]'
+  - "[[_Standards/WikiData/WD~wife,188830]]"
+  - "[[_Standards/WikiData/WD~Dame,229756]]"
+  - "[[_Standards/WikiData/WD~Woman,911993]]"
+  - "[[_Standards/WikiData/WD~Frau,1159762]]"
+  - "[[_Standards/WikiData/WD~female,6581072]]"
+  - "[[_Standards/WikiData/WD~female_human,84048852]]"
+  - "[[_Standards/WikiData/WD~girlfriend,49835]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+follows: "[[_Standards/WikiData/WD~girl,3031]]"
 hashtag: woman
 has_characteristic:
-- '[[_Standards/WikiData/WD~menstrual_cycle,83864]]'
-- '[[_Standards/WikiData/WD~female_reproductive_system,844342]]'
-- '[[_Standards/WikiData/WD~fertility,964401]]'
-- '[[_Standards/WikiData/WD~female_body_shape,3543843]]'
-- '[[_Standards/WikiData/WD~female_voice,50810224]]'
+  - "[[_Standards/WikiData/WD~menstrual_cycle,83864]]"
+  - "[[_Standards/WikiData/WD~female_reproductive_system,844342]]"
+  - "[[_Standards/WikiData/WD~fertility,964401]]"
+  - "[[_Standards/WikiData/WD~female_body_shape,3543843]]"
+  - "[[_Standards/WikiData/WD~female_voice,50810224]]"
 has_id_wikidata: Q467
-has_list: '[[_Standards/WikiData/WD~list_of_lists_of_nude_women,6626611]]'
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/FemaleBlack.svg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Human-woman.png"
+has_list: "[[_Standards/WikiData/WD~list_of_lists_of_women,6626611]]"
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/FemaleBlack.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Human-woman.png
 IPTC_NewsCode: asportfacetvalue/women
-label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/Csc-dona-spreadthesign.ogv"
+label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-dona-spreadthesign.ogv
 literal_translation:
-- woman
-- female
-- женщина
-- жінка
-- אישה
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Women,21712210]]'
+  - female
+  - woman
+  - женщина
+  - אישה
+  - жінка
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Women,21712210]]"
 MeSH_tree_code: M01.975
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20Montage%20%281%29.jpg"
-OmegaWiki_Defined_Meaning: 4165
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-opposite_of: '[[_Standards/WikiData/WD~man,8441]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828751,22828751]]'
-produced_sound: '[[_Standards/WikiData/WD~female_voice,50810224]]'
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20Montage%20%281%29.jpg
+OmegaWiki_Defined_Meaning: "4165"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+opposite_of: "[[_Standards/WikiData/WD~man,8441]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828751,22828751]]"
+produced_sound: "[[_Standards/WikiData/WD~female_voice,50810224]]"
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Frau2.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%B2%E0%A6%BE.wav"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Frau2.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%B2%E0%A6%BE.wav
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~womyn,3569775]]'
-- '[[_Standards/WikiData/WD~womxn,65090566]]'
+  - "[[_Standards/WikiData/WD~womyn,3569775]]"
+  - "[[_Standards/WikiData/WD~womxn,65090566]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~adult_human,9584157]]'
-- '[[_Standards/WikiData/WD~female_human,84048852]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Women,15656558]]'
-Unicode_character: "\U0001F469"
-U_S_National_Archives_Identifier: 10642093
+  - "[[_Standards/WikiData/WD~adult_human,9584157]]"
+  - "[[_Standards/WikiData/WD~female_human,84048852]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Women,15656558]]"
+Unicode_character: 👩
+U_S_National_Archives_Identifier: "10642093"
+depicted_by:
+  - "[[_Standards/WikiData/WD~Portrait_of_a_Lady_as_Mary_Magdalen,28797582]]"
+  - "[[_Standards/WikiData/WD~Model_of_the_Virgin_Mary_and_Three_Holy_Women,131501714]]"
+IMDb_keyword:
+  - woman
+  - women
+hashtag_: woman
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Body%20female%20realistic%20by%20Dan%20Ulrich%20%28CC0%29.stl
 ---
+
+# [[Woman]]
+
+#is_/same_as :: [[../../../../../WikiData/WD~Woman,467|WD~Woman,467]]
+
 
 ## #has_/text_of_/abstract 
 

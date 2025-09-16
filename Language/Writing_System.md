@@ -2,14 +2,15 @@
 aliases:
   - script
   - Writing system
-  - Writing systems 
+  - Writing systems
 has_id_wikidata: Q8192
 Commons_category: Writing systems
 described_by_source:
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-Dewey_Decimal_Classification: 411
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+Dewey_Decimal_Classification: "411"
 different_from: "[[_Standards/WikiData/WD~handwriting_style,33260112]]"
 Gujarati_Vishwakosh_entry: લિપિ
 has_characteristic: "[[_Standards/WikiData/WD~type_of_writing_system,119520394]]"
@@ -20,7 +21,7 @@ has_part_s_:
 history_of_topic: "[[_Standards/WikiData/WD~history_of_writing,1340267]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20alphabets%20%26%20writing%20systems.svg
 instance_of: "[[_Standards/WikiData/WD~type_of_system,96116695]]"
-OmegaWiki_Defined_Meaning: 739994
+OmegaWiki_Defined_Meaning: "739994"
 part_of: "[[_Standards/WikiData/WD~linguistic_system,6554068]]"
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%AB%D6%80%20%28Writing%20systems%29.ogg
 studied_in: "[[_Standards/WikiData/WD~graphemics,1411056]]"
@@ -31,7 +32,7 @@ topic_s_main_template:
   - "[[_Standards/WikiData/WD~Template_Writing_systems,13410525]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Writing_system,13256088]]"
 union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-Universal_Decimal_Classification: 3.2
+Universal_Decimal_Classification: "003.2"
 used_by:
   - "[[_Standards/WikiData/WD~scribe,916292]]"
   - "[[_Standards/WikiData/WD~written_work,47461344]]"
@@ -47,27 +48,32 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
+expiryDate:
 has_Template: "[[Extract~Note~Template]]"
 has_time_started:
-  "{ \"date:YYYY-MM-DD\": null }": 
+  '{ "date:YYYY-MM-DD": null }':
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: null }": 
+  "{ newTitle: null }":
 lang: en
-layout: 
+layout:
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: null }": 
+  "{ newTitle: null }":
 publish: false
-publishDate: 
+publishDate:
 tags:
-  - "{ newTitle: null }": 
+  - "{ newTitle: null }":
   - excalidraw
 title:
-  "{ newTitle: null }": 
+  "{ newTitle: null }":
 type: private_note
+studied_by: "[[_Standards/WikiData/WD~graphemics,1411056]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Infobox_writing_system,5640628]]"
+  - "[[_Standards/WikiData/WD~Template_Writing_systems_sidebar,6238870]]"
+  - "[[_Standards/WikiData/WD~Template_Writing_systems,13410525]]"
 ---
 
 # [[Writing_System]] 
