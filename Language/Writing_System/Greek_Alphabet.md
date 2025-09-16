@@ -1,8 +1,67 @@
 ---
 aliases:
-- "Greek alphabet"
+  - Greek alphabet
 has_id_wikidata: Q8216
+location_of_creation: "[[_Standards/WikiData/WD~Classical_Athens,844930]]"
+described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Greek_alphabet_sidebar,6492593]]"
+script_directionality: "[[_Standards/WikiData/WD~left_to_right,17321844]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~Greek_letter,19793459]]"
+writing_system: "[[_Standards/WikiData/WD~Greek_script,135275130]]"
+facet_of: "[[_Standards/WikiData/WD~Greek,9129]]"
+language_of_work_or_name:
+  - "[[_Standards/WikiData/WD~Greek,9129]]"
+  - "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+  - "[[_Standards/WikiData/WD~Pontic_Greek,36748]]"
+has_use:
+  - "[[_Standards/WikiData/WD~Greek,9129]]"
+  - "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+instance_of: "[[_Standards/WikiData/WD~alphabet,9779]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Α_α,9887]]"
+  - "[[_Standards/WikiData/WD~Ω_ω,9890]]"
+  - "[[_Standards/WikiData/WD~Μ_μ,9902]]"
+  - "[[_Standards/WikiData/WD~Φ_φ,10029]]"
+  - "[[_Standards/WikiData/WD~Λ,10897]]"
+  - "[[_Standards/WikiData/WD~beta,14382]]"
+  - "[[_Standards/WikiData/WD~Γ,14387]]"
+  - "[[_Standards/WikiData/WD~delta,14390]]"
+  - "[[_Standards/WikiData/WD~Ζ,14394]]"
+  - "[[_Standards/WikiData/WD~E,14392]]"
+  - "[[_Standards/WikiData/WD~Θ_θ,14398]]"
+  - "[[_Standards/WikiData/WD~iota,14399]]"
+  - "[[_Standards/WikiData/WD~Η,14396]]"
+  - "[[_Standards/WikiData/WD~nu,14402]]"
+  - "[[_Standards/WikiData/WD~kappa,14401]]"
+  - "[[_Standards/WikiData/WD~Ξ_ξ,14406]]"
+  - "[[_Standards/WikiData/WD~Ο_ο,14408]]"
+  - "[[_Standards/WikiData/WD~Τ,14415]]"
+  - "[[_Standards/WikiData/WD~Ρ,14412]]"
+  - "[[_Standards/WikiData/WD~Σ,14413]]"
+  - "[[_Standards/WikiData/WD~Υ,14423]]"
+  - "[[_Standards/WikiData/WD~Χ_χ,14425]]"
+  - "[[_Standards/WikiData/WD~Ψ,14432]]"
+  - "[[_Standards/WikiData/WD~pi,168]]"
+ISO_15924_numeric_code: "200"
+OmegaWiki_Defined_Meaning: "635416"
+name:
+  - Greek
+  - grec
+ISO_15924_alpha_4_code: Grek
+inception: -0900-01-01T00:00:00Z
+Unicode_range:
+  - U+1F00-1FFF
+  - U+10140-1018F
+  - U+0370-03FF
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ell-AlphabitosUpload.ogg
+Commons_gallery: Greek alphabet
+Commons_category: Greek alphabet
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Richtungsschild%20auf%20der%20Insel%20Ikaria%2C%202005.jpg
 ---
+
+# [[Greek_Alphabet]] 
+
+#is_/same_as :: [[../../WikiData/WD~Greek_alphabet,8216|WD~Greek_alphabet,8216]] 
 
 ## #has_/text_of_/abstract 
 
