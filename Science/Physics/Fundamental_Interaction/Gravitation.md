@@ -71,6 +71,10 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Schwerkraft%20als%20K
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/gravity"
 ---
 
+# [[Gravitation]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~Gravitation,361496]] 
+
 ## #has_/text_of_/abstract 
 
 > In physics, gravity (from Latin  gravitas 'weight') is a fundamental interaction primarily observed as a mutual attraction between all things that have mass. Gravity is, by far, the weakest of the four fundamental interactions, approximately 1038 times weaker than the strong interaction, 1036 times weaker than the electromagnetic force, and 1029 times weaker than the weak interaction. As a result, it has no significant influence at the level of subatomic particles. However, gravity is the most significant interaction between objects at the macroscopic scale, and it determines the motion of planets, stars, galaxies, and even light.

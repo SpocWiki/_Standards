@@ -42,6 +42,10 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_globalization,17164731]]
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Globalisation::zbks4\"]"
 ---
 
+# [[Globalization]] 
+
+#is_/same_as :: [[../../WikiData/WD~Globalisation,7181|WD~Globalisation,7181]] 
+
 ## #has_/text_of_/abstract 
 
 > **Globalization** is the process of interaction 

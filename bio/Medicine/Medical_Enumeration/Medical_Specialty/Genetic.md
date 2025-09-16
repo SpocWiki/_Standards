@@ -26,12 +26,15 @@ title: is_a_genetic Class
 type: Type
 ---
 
+# [[Genetic]] 
+
 Class of all genetics.
 
 Tag Instances like this: 
 #is_a_/genetic
 
-A specific branch of medical science that pertains to hereditary transmission and the variation of inherited characteristics and disorders.
+A specific branch of medical science that pertains to hereditary transmission by [[../../../Genetics/Gene|Gene]]s
+and the variation of inherited characteristics and disorders.
 
 [ #is_/sub_class_of :: [[../MedicalSpecialty]] ]
 

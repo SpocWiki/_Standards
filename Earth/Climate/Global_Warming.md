@@ -55,6 +55,10 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"GlobalWarming::j9953\"]"
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/global_warming"
 ---
 
+# [[Global_Warming]] 
+
+#is_/same_as :: [[../../WikiData/WD~Global_warming,7942|WD~Global_warming,7942]]  
+
 ## #has_/text_of_/abstract 
 
 > Present-day climate change includes both **Global warming**—the ongoing increase in global average temperature—and its wider effects on Earth’s climate system. Climate change in a broader sense also includes previous long-term changes to Earth's climate. The current rise in global temperatures is driven by human activities, especially fossil fuel burning since the Industrial Revolution. Fossil fuel use, deforestation, and some agricultural and industrial practices release greenhouse gases. These gases absorb some of the heat that the Earth radiates after it warms from sunlight, warming the lower atmosphere. Carbon dioxide, the primary gas driving global warming, has increased in concentration by about 50% since the pre-industrial era to levels not seen for millions of years.

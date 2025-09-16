@@ -1,55 +1,60 @@
 ---
 aliases:
-- "Go (game)"
+  - Go (game)
+  - Go
 authority:
-- '[[_Standards/WikiData/WD~International_Go_Federation,921135]]'
-- '[[_Standards/WikiData/WD~American_Go_Association,1112770]]'
-- '[[_Standards/WikiData/WD~Nihon_Ki-in,1634097]]'
-- '[[_Standards/WikiData/WD~European_Go_Federation,2328638]]'
+  - "[[_Standards/WikiData/WD~International_Go_Federation,921135]]"
+  - "[[_Standards/WikiData/WD~American_Go_Association,1112770]]"
+  - "[[_Standards/WikiData/WD~Nihon_Ki-in,1634097]]"
+  - "[[_Standards/WikiData/WD~European_Go_Federation,2328638]]"
 Baidu_Tieba_name: 围棋
 Bilibili_UID: 3461565862906475
-Commons_category: "Go (game)"
-Commons_gallery: "Go (board game)"
+Commons_category: Go (game)
+Commons_gallery: Go (board game)
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 different_from:
-- '[[_Standards/WikiData/WD~Go,219221]]'
-- '[[_Standards/WikiData/WD~Othello,748139]]'
-- '[[_Standards/WikiData/WD~Ludus_latrunculorum,1700280]]'
+  - "[[_Standards/WikiData/WD~Go,219221]]"
+  - "[[_Standards/WikiData/WD~Othello,748139]]"
+  - "[[_Standards/WikiData/WD~Ludus_latrunculorum,1700280]]"
 has_id_wikidata: Q11413
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Go,2383545]]'
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Go%20%28game%29%20pictogram.svg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Go%20board.jpg"
-inception: "http://www.wikidata.org/.well-known/genid/608be816cb2411d765977da3b7caf000"
-indigenous_to: '[[_Standards/WikiData/WD~China,29520]]'
-instance_of: '[[_Standards/WikiData/WD~mind_sport,1188693]]'
-intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Beijing_Municipal_Intangible_Cultural_Heritage,10902288]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Go,2383545]]"
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Go%20%28game%29%20pictogram.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Go%20board.jpg
+inception: http://www.wikidata.org/.well-known/genid/608be816cb2411d765977da3b7caf000
+indigenous_to: "[[_Standards/WikiData/WD~China,29520]]"
+instance_of: "[[_Standards/WikiData/WD~mind_sport,1188693]]"
+intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~Beijing_Municipal_Intangible_Cultural_Heritage,10902288]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 maximum_number_of_players: 2
 OmegaWiki_Defined_Meaning: 334648
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Go%20banner.png"
-part_of: '[[_Standards/WikiData/WD~four_arts_of_the_Chinese_scholar,1751511]]'
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Go%20banner.png
+part_of: "[[_Standards/WikiData/WD~four_arts_of_the_Chinese_scholar,1751511]]"
 practiced_by:
-- '[[_Standards/WikiData/WD~Go_professional,3186699]]'
-- '[[_Standards/WikiData/WD~female_Go_player,11446504]]'
-- '[[_Standards/WikiData/WD~Go_player,12039558]]'
+  - "[[_Standards/WikiData/WD~Go_professional,3186699]]"
+  - "[[_Standards/WikiData/WD~female_Go_player,11446504]]"
+  - "[[_Standards/WikiData/WD~Go_player,12039558]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~board_game,131436]]'
-- '[[_Standards/WikiData/WD~two-player_game,7858742]]'
-- '[[_Standards/WikiData/WD~game_on_cell_board,18703581]]'
+  - "[[_Standards/WikiData/WD~board_game,131436]]"
+  - "[[_Standards/WikiData/WD~two-player_game,7858742]]"
+  - "[[_Standards/WikiData/WD~game_on_cell_board,18703581]]"
 subreddit: baduk
 time_of_discovery_or_invention: -2254
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Go,14614575]]'
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Go,14614575]]"
 uses:
-- '[[_Standards/WikiData/WD~Goban,1352055]]'
-- '[[_Standards/WikiData/WD~Go_stone,7887414]]'
-- '[[_Standards/WikiData/WD~go_equipment,17640628]]'
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/9x9%20Go.ogv"
-Wolfram_Language_entity_code: "Entity[\"BoardGame\", \"Go\"]"
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/go"
+  - "[[_Standards/WikiData/WD~Goban,1352055]]"
+  - "[[_Standards/WikiData/WD~Go_stone,7887414]]"
+  - "[[_Standards/WikiData/WD~go_equipment,17640628]]"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/9x9%20Go.ogv
+Wolfram_Language_entity_code: Entity["BoardGame", "Go"]
+WordLift_URL: http://data.thenextweb.com/tnw/entity/go
 ---
+
+# [[Go(Game)]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Go,11413|WD~Go,11413]] 
 
 ## #has_/text_of_/abstract 
 

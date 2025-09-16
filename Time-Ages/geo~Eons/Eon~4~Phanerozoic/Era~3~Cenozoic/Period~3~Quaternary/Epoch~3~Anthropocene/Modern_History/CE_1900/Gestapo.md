@@ -1,6 +1,7 @@
 ---
 aliases:
   - Gestapo
+  - Geheime Staatspolizei
 has_id_wikidata: Q43250
 parent_organization: "[[_Standards/WikiData/WD~Reich_Main_Security_Office,152698]]"
 instance_of:
@@ -34,17 +35,19 @@ IMDb_keyword: gestapo
 coordinate_location: Point(13.3825 52.507222)
 ---
 
-
 # [[Gestapo]]
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Gestapo,43250|WD~Gestapo,43250]]
 
-
 ## #has_/text_of_/abstract 
 
-> The Geheime Staatspolizei ([ɡəˈhaɪmə ˈʃtaːtspoliˌtsaɪ] , lit. ''Secret State Police''), abbreviated **Gestapo** ([ɡəˈstaːpo] ), was the official secret police of Nazi Germany and in German-occupied Europe.
+> The Geheime Staatspolizei ([ɡəˈhaɪmə ˈʃtaːtspoliˌtsaɪ] , lit. ''Secret State Police''), 
+> abbreviated **Gestapo** ([ɡəˈstaːpo] ), 
+> was the official secret police of Nazi Germany and in German-occupied Europe.
 >
-> The force was created by Hermann Göring in 1933 by combining the various political police agencies of Prussia into one organisation. On 20 April 1934, oversight of the Gestapo passed to the head of the Schutzstaffel (SS), Heinrich Himmler, who was also appointed Chief of German Police by Hitler in 1936. Instead of being exclusively a Prussian state agency, the Gestapo became a national one as a sub-office of the Sicherheitspolizei (SiPo; Security Police). From 27 September 1939, it was administered by the Reich Security Main Office (RSHA). It became known as Amt (Dept) 4 of the RSHA and was considered a sister organisation to the Sicherheitsdienst (SD; Security Service).
+> The force was created by Hermann Göring in 1933 
+> by combining the various political police agencies of Prussia into one organisation. 
+> On 20 April 1934, oversight of the Gestapo passed to the head of the Schutzstaffel (SS), Heinrich Himmler, who was also appointed Chief of German Police by Hitler in 1936. Instead of being exclusively a Prussian state agency, the Gestapo became a national one as a sub-office of the Sicherheitspolizei (SiPo; Security Police). From 27 September 1939, it was administered by the Reich Security Main Office (RSHA). It became known as Amt (Dept) 4 of the RSHA and was considered a sister organisation to the Sicherheitsdienst (SD; Security Service).
 >
 > The Gestapo committed widespread atrocities during its existence. The power of the Gestapo was used to focus upon political opponents, ideological dissenters (clergy and religious organisations), career criminals, the Sinti and Roma population, handicapped persons, homosexuals, and, above all, the Jews. Those arrested by the Gestapo were often held without judicial process, and political prisoners throughout Germany—and from 1941, throughout the occupied territories under the Night and Fog Decree (German: Nacht und Nebel)—simply disappeared while in Gestapo custody. Contrary to popular perception, the Gestapo was actually a relatively small organization with limited surveillance capability; still it proved extremely effective due to the willingness of ordinary Germans to report on fellow citizens. During World War II, the Gestapo played a key role in the Holocaust. After the war ended, the Gestapo was declared a criminal organisation by the International Military Tribunal (IMT) at the Nuremberg trials, and several top Gestapo members were sentenced to death.
 >
