@@ -37,6 +37,10 @@ U_S_National_Archives_Identifier: 10044502
 volume_as_quantity: 22725
 ---
 
+# [[Great_Lakes]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Great_Lakes,7347|WD~Great_Lakes,7347]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Great Lakes**, also called the Great Lakes of North America, are a series of large interconnected freshwater lakes spanning the Canada–United States border. The five lakes are Superior, Michigan, Huron, Erie, and Ontario (though hydrologically, Michigan and Huron are a single body of water; they are joined by the Straits of Mackinac). The Great Lakes Waterway enables modern travel and shipping by water among the lakes. The lakes connect to the Atlantic Ocean via the Saint Lawrence River, and to the Mississippi River basin through the Illinois Waterway.

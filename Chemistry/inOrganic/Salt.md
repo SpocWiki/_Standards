@@ -1,3 +1,51 @@
+---
+aliases:
+  - Salt
+  - Salz
+has_id_wikidata: Q12370
+has_part_s_:
+  - "[[_Standards/WikiData/WD~anion,107968]]"
+  - "[[_Standards/WikiData/WD~cation,326277]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~ionic_compound,2366155]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~ionic_compound,2366155]]"
+  - "[[_Standards/WikiData/WD~mineral_substance,12037703]]"
+part_of:
+  - "[[_Standards/WikiData/WD~response_to_salt,22273555]]"
+  - "[[_Standards/WikiData/WD~cellular_response_to_salt,22273556]]"
+  - "[[_Standards/WikiData/WD~salt_transmembrane_transporter_activity,22324829]]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+different_from:
+  - "[[_Standards/WikiData/WD~sodium_chloride,2314]]"
+  - "[[_Standards/WikiData/WD~table_salt,11254]]"
+OmegaWiki_Defined_Meaning: "3299"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ammonium-cerium%28IV%29-sulfate-sample.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cobalt%28II%29-chloride-hexahydrate-sample.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Nickel%28II%29-chloride-hexahydrate-sample.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Nickel%28II%29-sulfate-hexahydrate-sample.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Potassium-dichromate-sample.jpg
+name_in_kana: えん
+Dewey_Decimal_Classification:
+  - "546.34"
+  - "553.63"
+  - "661.4"
+UMLS_CUI: C0036140
+MeSH_tree_code: D01.786
+Commons_category: Salts
+---
+
+# [[Salt]]
+
+#is_/same_as :: [[../../WikiData/WD~Salt,12370|WD~Salt,12370]]
 
 
 ## #has_/text_of_/abstract 

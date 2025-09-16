@@ -35,7 +35,7 @@ coordinate_location: Point(90.0 65.0)
 ---
 
 
-# [[1936-1938_Great_Purge]]
+# [[1936-Great_Purge-1938]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Great_Purge,187650|WD~Great_Purge,187650]]
 

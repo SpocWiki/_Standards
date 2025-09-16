@@ -1,6 +1,9 @@
 ---
 aliases:
   - Great white shark
+  - white shark
+  - white pointer
+  - great white
 has_id_wikidata: Q129026
 taxon_common_name:
   - tiburón blancu
@@ -107,15 +110,28 @@ EPPO_Code: KCHRCA
 NBN_System_Key: NHMSYS0001745235
 ---
 
-
-# [[Great_white_shark]]
+# [[Great_white_Shark]]
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Great_white_shark,129026|WD~Great_white_shark,129026]]
 
-
 ## #has_/text_of_/abstract 
 
-> The **Great white shark** (Carcharodon carcharias), also known as the white shark, white pointer, or simply great white, is a species of large mackerel shark which can be found in the coastal surface waters of all the major oceans. It is the only known surviving species of its genus Carcharodon. The great white shark is notable for its size, with the largest preserved female specimen measuring 5.83 m (19.1 ft) in length and around 2,000 kg (4,400 lb) in weight at maturity. However, most are smaller; males measure 3.4 to 4.0 m (11 to 13 ft), and females measure 4.6 to 4.9 m (15 to 16 ft) on average. According to a 2014 study, the lifespan of great white sharks is estimated to be as long as 70 years or more, well above previous estimates, making it one of the longest lived cartilaginous fishes currently known. According to the same study, male great white sharks take 26 years to reach sexual maturity, while the females take 33 years to be ready to produce offspring. Great white sharks can swim at speeds of 25 km/h (16 mph) for short bursts and to depths of 1,200 m (3,900 ft).
+> The **Great white shark** (Carcharodon carcharias), also known as the white shark, 
+> white pointer, or simply great white, is a species of large mackerel shark 
+> which can be found in the coastal surface waters of all the major oceans. 
+> 
+> It is the only known surviving species of its genus Carcharodon. 
+> The great white shark is notable for its size, 
+> with the largest preserved female specimen measuring 5.83 m (19.1 ft) in length 
+> and around 2,000 kg (4,400 lb) in weight at maturity. 
+> 
+> However, most are smaller; males measure 3.4 to 4.0 m (11 to 13 ft), 
+> and females measure 4.6 to 4.9 m (15 to 16 ft) on average. 
+> According to a 2014 study, the lifespan of great white sharks 
+> is estimated to be as long as 70 years or more, well above previous estimates, 
+> making it one of the longest lived cartilaginous fishes currently known. 
+> 
+> According to the same study, male great white sharks take 26 years to reach sexual maturity, while the females take 33 years to be ready to produce offspring. Great white sharks can swim at speeds of 25 km/h (16 mph) for short bursts and to depths of 1,200 m (3,900 ft).
 >
 > The great white shark is arguably the world's largest-known extant macropredatory fish, and is one of the primary predators of marine mammals, such as pinnipeds and dolphins. The great white shark is also known to prey upon a variety of other animals, including fish, other sharks, and seabirds. It has only one recorded natural predator, the orca.
 >

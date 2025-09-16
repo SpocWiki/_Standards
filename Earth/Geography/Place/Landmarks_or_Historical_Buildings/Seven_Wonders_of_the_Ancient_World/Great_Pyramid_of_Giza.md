@@ -51,6 +51,7 @@ inception: -2559-01-01T00:00:00Z
 
 ![[../../../../../assets/Great_Pyramid_of_Giza.png]] 
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Dvdzee&amp;action=edit&amp;redlink=1" class="new" title="User:Dvdzee (page does not exist)">Douwe C. van der Zee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=138278511">Link</a> 
+
 #is_/same_as :: [[../../../../../../../WikiData/WD~Great_Pyramid_of_Giza,37200|WD~Great_Pyramid_of_Giza,37200]] 
 
 ## #has_/text_of_/abstract 
