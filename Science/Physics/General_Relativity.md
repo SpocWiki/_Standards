@@ -46,6 +46,10 @@ Stack_Exchange_tag: "https://physics.stackexchange.com/tags/general-relativity"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_General_relativity_sidebar,5932282]]'
 ---
 
+# [[General_Relativity]] 
+
+#is_/same_as :: [[WD~General_relativity,11452]] 
+
 ## #has_/text_of_/abstract 
 
 > **General relativity**, also known as the general theory of relativity, and as Einstein's theory of gravity, is the geometric theory of gravitation published by Albert Einstein in 1915 and is the current description of gravitation in modern physics. General relativity generalizes special relativity and refines Newton's law of universal gravitation, providing a unified description of gravity as a geometric property of space and time, or four-dimensional spacetime. In particular, the curvature of spacetime is directly related to the energy and momentum of whatever is 
