@@ -1,6 +1,51 @@
 ---
 type: ElementGroup
+has_id_wikidata: Q19609
+instance_of:
+  - "[[_Standards/WikiData/WD~group,83306]]"
+  - "[[_Standards/WikiData/WD~main_group,428830]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~inertness,262175]]"
+  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
+  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
+  - "[[_Standards/WikiData/WD~tastelessness,30100868]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+  - "[[_Standards/WikiData/WD~inert_gas,11136680]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+different_from: "[[_Standards/WikiData/WD~inert_gas,11136680]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Noble_gases,18177184]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~helium,560]]"
+  - "[[_Standards/WikiData/WD~neon,654]]"
+  - "[[_Standards/WikiData/WD~argon,696]]"
+  - "[[_Standards/WikiData/WD~krypton,888]]"
+  - "[[_Standards/WikiData/WD~xenon,1106]]"
+  - "[[_Standards/WikiData/WD~radon,1133]]"
+  - "[[_Standards/WikiData/WD~oganesson,1307]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+part_of: "[[_Standards/WikiData/WD~periodic_table,10693]]"
+OmegaWiki_Defined_Meaning: "1129"
+Dewey_Decimal_Classification:
+  - "665.822"
+  - "546.75"
+  - "553.97"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Edelgas.ogg
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Glowing%20noble%20gases.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Noble-gas%20spe.png
+UMLS_CUI: C0017112
+MeSH_tree_code:
+  - D01.268.613
+  - D01.362.641
+Commons_category: Noble gases
 ---
+
+# [[Group-18-Nobel-Gases]]
+
+#is_/same_as :: [[../../WikiData/WD~Noble_gases,19609|WD~Noble_gases,19609]]
+
 
 #chemic/Group 
 

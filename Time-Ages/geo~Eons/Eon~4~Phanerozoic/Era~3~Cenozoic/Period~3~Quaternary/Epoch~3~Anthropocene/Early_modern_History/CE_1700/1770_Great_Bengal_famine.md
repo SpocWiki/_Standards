@@ -13,11 +13,9 @@ end_time: 1773-01-01T00:00:00Z
 start_time: 1767-01-01T00:00:00Z
 ---
 
-
-# [[1770_Great_Bengal_famine_of_1770]]
+# [[1770_Great_Bengal_famine]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Great_Bengal_famine_of_1770,2477522|WD~Great_Bengal_famine_of_1770,2477522]]
-
 
 ## #has_/text_of_/abstract 
 

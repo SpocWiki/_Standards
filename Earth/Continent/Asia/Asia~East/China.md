@@ -10,6 +10,11 @@ aliases:
   - Cathay
   - the People's Republic of China
   - la República Popular China
+  - chinese
+  - chinesisch
+  - chinesischer
+  - chinesische
+  - chinesisches
 anthem: "[[_Standards/WikiData/WD~March_of_the_Volunteers,156136]]"
 archives_at: "[[_Standards/WikiData/WD~Hong_Kong_Baptist_University_Library_Special_Collections_&_Archives,117812074]]"
 area: 9596961

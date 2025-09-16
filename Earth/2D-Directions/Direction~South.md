@@ -44,6 +44,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/CompassRose%20%28mul%2
 
 # [[Direction~South]] 
 
+#is_/same_as :: [[wd South]]
 #has_/name_/ar_/Latn :: Al-Janubiyah  
 #has_/name_/ar_/Arab ::  الجنوبية 
 

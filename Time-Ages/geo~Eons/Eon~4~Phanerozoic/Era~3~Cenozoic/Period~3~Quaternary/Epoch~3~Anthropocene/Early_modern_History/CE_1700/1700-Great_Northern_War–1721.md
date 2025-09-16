@@ -38,14 +38,28 @@ Krugosvet_article: istoriya/SEVERNAYA_VONA.html
 ---
 
 
-# [[1700–1721_Great_Northern_War]]
+# [[1700-Great_Northern_War–1721]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Great_Northern_War,151616|WD~Great_Northern_War,151616]]
 
 
 ## #has_/text_of_/abstract 
 
-> In the **Great Northern War** (1700–1721) a coalition led by Russia successfully contested the supremacy of Sweden in Northern, Central and Eastern Europe. The initial leaders of the anti-Swedish alliance were Peter I of Russia, Frederick IV of Denmark–Norway and Augustus II the Strong of Saxony–Poland–Lithuania. Frederick IV and Augustus II were defeated by Sweden, under Charles XII, and forced out of the alliance in 1700 and 1706 respectively, but rejoined it in 1709 after the defeat of Charles XII at the Battle of Poltava. George I of Great Britain and the Electorate of Hanover joined the coalition in 1714 for Hanover and in 1717 for Britain, and Frederick William I of Brandenburg-Prussia joined it in 1715.
+> In the Great Northern War (1700–1721) a coalition led by Russia 
+> successfully contested the supremacy of Sweden in Northern, Central and Eastern Europe. 
+>
+> The initial leaders of the anti-Swedish alliance were 
+> - Peter I of Russia, 
+> - Frederick IV of Denmark–Norway and 
+> - Augustus II the Strong of Saxony–Poland–Lithuania. 
+> 
+> Frederick IV and Augustus II were defeated by Sweden, under Charles XII, 
+> and forced out of the alliance in 1700 and 1706 respectively, 
+> but rejoined it in 1709 after the defeat of Charles XII at the Battle of Poltava. 
+> 
+> George I of Great Britain and the Electorate of Hanover joined the coalition 
+> in 1714 for Hanover and in 1717 for Britain, and 
+> Frederick William I of Brandenburg-Prussia joined it in 1715.
 >
 > Charles XII led the Swedish Army. Swedish allies included Holstein-Gottorp, several Polish magnates under Stanisław I Leszczyński (1704–1710) and Cossacks under the Ukrainian Hetman Ivan Mazepa (1708–1710). The Ottoman Empire temporarily hosted Charles XII of Sweden and intervened against Peter I.
 >
@@ -55,4 +69,4 @@ Krugosvet_article: istoriya/SEVERNAYA_VONA.html
 >
 > The war ended with the defeat of Sweden, leaving Russia as the new dominant power in the Baltic region and as a new major force in European politics. The Western powers, Great Britain and France, became caught up in the separate War of the Spanish Succession (1701–1714), which broke out over the Bourbon Philip of Anjou's succession to the Spanish throne and a possible joining of France and Spain. The formal conclusion of the Great Northern War came with the Swedish-Hanoverian and Swedish-Prussian Treaties of Stockholm (1719), the Dano-Swedish Treaty of Frederiksborg (1720), and the Russo-Swedish Treaty of Nystad (1721). By these treaties Sweden ceded its exemption from the Sound Dues and lost the Baltic provinces and the southern part of Swedish Pomerania. The peace treaties also ended its alliance with Holstein-Gottorp. Hanover gained Bremen-Verden, Brandenburg-Prussia incorporated the Oder estuary (Stettin Lagoons), Russia secured the Baltic Provinces, and Denmark strengthened its position in Schleswig-Holstein. In Sweden, the absolute monarchy had come to an end with the death of Charles XII, and Sweden's Age of Liberty began.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Northern%20War)
+> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Northern%20War) 

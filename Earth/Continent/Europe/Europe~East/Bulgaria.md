@@ -412,8 +412,10 @@ WIPO_ST_3: BG
 
 # [[Bulgaria]] 
 
-#has_/number_of_/people :: 
-Population :: shrank from 9mio in the 1990s down to 5mio in 2020. 
+#has_/number_of_/people :: 6.795803e6 
+Population :: shrank from 9mio in the 1990s down to 5mio in 2020 to 6.7mio in 2025. 
+
+#has_/population_/density :: `=this.population/this.area`
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Bulgaria 

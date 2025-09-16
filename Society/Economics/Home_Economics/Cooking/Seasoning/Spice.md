@@ -24,9 +24,7 @@ OmegaWiki_Defined_Meaning: "332437"
 social_media_followers: 239749
 subreddit: spicy
 Commons_gallery: Spice
-image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Antonio%20Barbieri%20-%20Apothecary%20shop.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Spices1.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Spices1.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AE%E0%A6%B8%E0%A6%B2%E0%A6%BE.wav
 P8189: "987007565809505171"
 Provenio_UUID: c02667df-1feb-4c93-a692-551ed71b447e

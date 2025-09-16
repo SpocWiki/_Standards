@@ -23,7 +23,7 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "GermanReuinification"]
 ---
 
 
-# [[1990_German_reunification]]
+# [[1990-German_reunification]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~German_reunification,56039|WD~German_reunification,56039]]
 
