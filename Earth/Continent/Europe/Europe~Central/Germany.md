@@ -644,9 +644,12 @@ Wolfram_Language_entity_code: Entity["Country", "Germany"]
 [has_place_longitude::10.1207] 
 [has_place_latitude::50.8699] 
 
+#has_/time_/started :: 1949-05-23 
+
+#has_/population_/density :: `=this.population/this.area`
+
 #is_/same_as :: [[../../../../WikiData/WD~Germany,183|WD~Germany,183]]
 
-#has_/time_/started :: 1949-05-23 
 ## International Names
 
 [	name	 :: Germany ]

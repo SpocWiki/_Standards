@@ -1,46 +1,107 @@
 ---
-location:
-  - -35.4776
-  - 149.027
-type: Country
-tags:
-  - geo/Country
-has_id_wikidata: Q408
-SpocWebEntityId: 26838
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
-publish: true
-title: Australia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
   - Australia
   - Australie
   - أستراليا
   - 澳大利亚
   - Австралия
+  - australian
+  - australische
+  - australischer
+  - australisches
+Baidu_Tieba_name: 澳大利亚
+BHCL_UUID:
+  - c7ae36ae-6cb9-46a2-b624-635895df7396
+  - f413fd89-9aad-4c39-be8c-a80802c59425
+Basisklassifikation: 74.27
+Commons_category: Australia
+Commons_gallery: Australia
+Colon_Classification: SG--8
+CIVICUS_Monitor_country_entry: australia
+Democracy_Index: 8.96
+DPLA_subject_term: Australia
+Dewey_Decimal_Classification: 2--94
+Gini_coefficient: 32.4
+GOST_7_67_cyrillic: АВС
+FIPS_10_4_countries_and_regions_: AS
+GS1_country_code: 930-939
+GitHub_topic: australia
+Happy_Planet_Index_score: 43.1
+Human_Development_Index: 0.951
+Inequality_adjusted_Human_Development_Index: 0.876
+IAB_code: 1242
+ISO_3166_1_numeric_code: 36
+Iconclass_notation: 25A26
+IPA_transcription: əsˈtreɪljə
+ISNI: 120969976
+INSEE_countries_and_foreign_territories_code: 99501
+ISO_3166_1_alpha_3_code: AUS
+IOC_country_code: AUS
+ITU_letter_code: AUS
+ISO_3166_1_alpha_2_code: AU
+Krugosvet_article: strany_mira/AVSTRALIYA.html
 Languages:
   - en-AU
-icon: flag-au
-flag: "[[_Standards/WikiData/WD~flag_of_Australia,81676]]"
-located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Coral_Sea,82931]]"
-  - "[[_Standards/WikiData/WD~Arafura_Sea,128880]]"
-  - "[[_Standards/WikiData/WD~Timor_Sea,131418]]"
-  - "[[_Standards/WikiData/WD~Bass_Strait,171846]]"
-  - "[[_Standards/WikiData/WD~Great_Australian_Bight,186733]]"
-  - "[[_Standards/WikiData/WD~South_Pacific_Ocean,12355425]]"
-  - "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
-  - "[[_Standards/WikiData/WD~Tasman_Sea,33254]]"
+Libris_URI: 97mpn0ft3gmr61w
+M49_code: 36
+MeSH_tree_code:
+  - Z01.639.100
+  - Z01.678.100.373
+OmegaWiki_Defined_Meaning: 5776
+PM20_geo_code: D30
+SpocWebEntityId: 26838
+Swedish_Anbytarforum: 21978
+Stack_Exchange_tag: https://travel.stackexchange.com/tags/Australia
+UMLS_CUI: C0006888
+UIC_numerical_country_code: 61
+UNDP_country_code: AUL
+Unicode_character: 🇦🇺
+UN_LOCODE: AU
+UIC_alphabetical_country_code: AU
+U_S_National_Archives_Identifier: 10044423
+VAT_rate: 10
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Australia,7112191]]"
+Wolfram_Language_entity_code: Entity["Country", "Australia"]
+WordLift_URL: https://data.thenextweb.com/tnw/entity/australia.html
+WOEID: 23424748
+WIPO_ST_3: AU
+anthem: "[[_Standards/WikiData/WD~Advance_Australia_Fair,170601]]"
+archives_at: "[[_Standards/WikiData/WD~National_Archives_of_Australia,1684918]]"
+age_of_consent:
+  - 16
+  - 17
+age_of_candidacy: 18
+age_of_majority: 18
+aircraft_registration_prefix:
+  - VI
+  - VH
+  - VL
+  - VN
+  - AX
+  - VK
+  - VM
+  - VJ
+annual_number_of_weddings:
+  - 78987
+  - 89167
+  - 113815
+  - 119186
+  - 127161
+audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Navy%20Band%2C%20Advance%20Australia%20Fair%20%28instrumental%29.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Navy%20Band%2C%20Advance%20Australia%20Fair%20%28abridged%29.oga
+area: 7692024
+basic_form_of_government:
+  - "[[_Standards/WikiData/WD~representative_democracy,188759]]"
+  - "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
+  - "[[_Standards/WikiData/WD~federation,43702]]"
+birth_rate:
+  - 11.5
+  - 11.6
+  - 12.1
+confidential: public
+cssclasses:
+  - Country
 contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Heard_Island_and_McDonald_Islands,131198]]"
   - "[[_Standards/WikiData/WD~Ashmore_and_Cartier_Islands,133888]]"
@@ -58,6 +119,26 @@ contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Cocos_(Keeling)_Islands,36004]]"
   - "[[_Standards/WikiData/WD~Queensland,36074]]"
   - "[[_Standards/WikiData/WD~Victoria,36687]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Australia,221024]]"
+central_bank: "[[_Standards/WikiData/WD~Reserve_Bank_of_Australia,1506724]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Australia,2440952]]"
+capital: "[[_Standards/WikiData/WD~Canberra,3114]]"
+compulsory_education_minimum_age_: 6
+compulsory_education_maximum_age_: 17
+coastline: 34000
+central_government_debt_as_a_percent_of_GDP:
+  - 38.3
+  - 40.5
+continent: "[[_Standards/WikiData/WD~Oceania,55643]]"
+country_calling_code: 61
+coordinates_of_westernmost_point: Point(113.155 -26.151388888)
+coordinates_of_easternmost_point: Point(153.637222222 -28.6375)
+coordinates_of_northernmost_point: Point(142.53151 -10.68717)
+country: "[[_Standards/WikiData/WD~Australia,408]]"
+coordinate_location: Point(133.0 -25.0)
+coordinates_of_southernmost_point: Point(146.825 -43.644444444)
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Australia.svg
+draft: false
 diplomatic_relation:
   - "[[_Standards/WikiData/WD~Holy_See,159583]]"
   - "[[_Standards/WikiData/WD~Guyana,734]]"
@@ -188,6 +269,96 @@ diplomatic_relation:
   - "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
   - "[[_Standards/WikiData/WD~Mongolia,711]]"
   - "[[_Standards/WikiData/WD~Fiji,712]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Willem_Janszoon,174085]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+  - "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"
+  - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Siebenter_Band,131314460]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Astraea,742680]]"
+  - "[[_Standards/WikiData/WD~mainland_Australia,2872203]]"
+  - "[[_Standards/WikiData/WD~Australien,13431386]]"
+  - "[[_Standards/WikiData/WD~Australian_continent,3960]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Australia,2088388]]"
+driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
+death_rate:
+  - 6.3
+  - 6.7
+  - 7.3
+demonym:
+  - أسترالي
+  - أسترالية
+  - australiana
+  - australianu
+  - австралийска
+  - австралийски
+  - অস্ট্রেলীয়
+  - Australan
+  - Australanka
+  - Awstraliad
+  - Αυστραλή
+  - Αυστραλός
+  - aŭstraliano
+  - australiana
+  - australiano
+  - Australien
+  - Australienne
+  - אוסטרלי
+  - אוסטרלית
+  - Australiano
+  - australiana
+  - australiane
+  - australiani
+  - australiano
+  - australian
+  - Australiër
+  - australian
+  - australiancă
+  - australieni
+  - австралиец
+  - австралийка
+  - australisk
+  - австралієць
+  - австралійка
+  - australian
+  - australiana
+  - australiane
+  - australiani
+  - Laustralänan
+  - ؤسطرالي
+  - ؤسطرالية
+  - ؤسطراليين
+  - ؤسطراليات
+  - Avstralec
+  - Avstralka
+  - Astrálach
+  - Australian
+  - أستراليون
+  - Australier
+  - Aussies
+  - Australians
+  - ausztrál
+  - австралийцы
+  - австралійці
+  - Aussie
+  - australier
+  - Australierin
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Australia%20map%20%28English%29.svg
+described_at_URL: https://www.dfat.gov.au/about-australia
+expiryDate:
 ethnic_group:
   - "[[_Standards/WikiData/WD~indigenous_Australians,170355]]"
   - "[[_Standards/WikiData/WD~Irish_people,170826]]"
@@ -200,34 +371,57 @@ ethnic_group:
   - "[[_Standards/WikiData/WD~English_people,42406]]"
   - "[[_Standards/WikiData/WD~Germans,42884]]"
   - "[[_Standards/WikiData/WD~Italians,50001]]"
-anthem: "[[_Standards/WikiData/WD~Advance_Australia_Fair,170601]]"
-official_symbol:
-  - "[[_Standards/WikiData/WD~opal,171058]]"
-  - "[[_Standards/WikiData/WD~Acacia_pycnantha,516233]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Willem_Janszoon,174085]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Australia,1154521]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
+emergency_phone_number: "[[_Standards/WikiData/WD~000,2806478]]"
+executive_body: "[[_Standards/WikiData/WD~Australian_Government,2991162]]"
+escutcheon_image: http://commons.wikimedia.org/wiki/Special:FilePath/Shield%20of%20arms%20of%20Australia.svg
+external_data_available_at_URL: https://data.gov.au/
+flag: "[[_Standards/WikiData/WD~flag_of_Australia,81676]]"
 follows: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+foundational_text: "[[_Standards/WikiData/WD~Constitution_of_Australia,1144614]]"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg
+female_population: 12877635
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Australia,1134461]]"
+geoshape: http://commons.wikimedia.org/data/main/Data:Australia.map
+has_id_wikidata: Q408
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Australia,174825]]"
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~state_or_territory_of_Australia,178712]]"
-lowest_point: "[[_Standards/WikiData/WD~Kati_Thanda_Lake_Eyre,179970]]"
-basic_form_of_government:
-  - "[[_Standards/WikiData/WD~representative_democracy,188759]]"
-  - "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
-  - "[[_Standards/WikiData/WD~federation,43702]]"
-public_holiday:
-  - "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
-  - "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
-  - "[[_Standards/WikiData/WD~Anzac_Day,295859]]"
-  - "[[_Standards/WikiData/WD~Australia_Day,502375]]"
-  - "[[_Standards/WikiData/WD~Boxing_Day,956699]]"
-  - "[[_Standards/WikiData/WD~Christmas,19809]]"
-  - "[[_Standards/WikiData/WD~Good_Friday,40317]]"
-official_color:
-  - "[[_Standards/WikiData/WD~gold,208045]]"
-  - "[[_Standards/WikiData/WD~green,3133]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Australia,221024]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Australia,319145]]"
-named_after: "[[_Standards/WikiData/WD~Terra_Australis,323750]]"
 head_of_government: "[[_Standards/WikiData/WD~Anthony_Albanese,335697]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~High_Court_of_Australia,1358798]]"
+highest_point: "[[_Standards/WikiData/WD~Mawson_Peak,2114101]]"
+has_cabinet: "[[_Standards/WikiData/WD~Federal_Executive_Council_(Australia),2988632]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+has_time_started: 1901-06
+has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great_Seal_of_Australia,119084894]]"
+head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
+hashtag: Australia
+isDeleted: false
+isReadOnly: false
+icon: flag-au
+instance_of:
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~federation,43702]]"
+inception: "1901"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Australia%20satellite%20plane.jpg
+keywords:
+location:
+  - -35.4776
+  - 149.027
+license: CC BY-SA 4.0
+linkTitle:
+layout:
+located_in_or_next_to_body_of_water:
+  - "[[_Standards/WikiData/WD~Coral_Sea,82931]]"
+  - "[[_Standards/WikiData/WD~Arafura_Sea,128880]]"
+  - "[[_Standards/WikiData/WD~Timor_Sea,131418]]"
+  - "[[_Standards/WikiData/WD~Bass_Strait,171846]]"
+  - "[[_Standards/WikiData/WD~Great_Australian_Bight,186733]]"
+  - "[[_Standards/WikiData/WD~South_Pacific_Ocean,12355425]]"
+  - "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+  - "[[_Standards/WikiData/WD~Tasman_Sea,33254]]"
+lowest_point: "[[_Standards/WikiData/WD~Kati_Thanda_Lake_Eyre,179970]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Australia,382118]]"
 language_used:
   - "[[_Standards/WikiData/WD~Bunuba,580923]]"
@@ -643,89 +837,93 @@ language_used:
   - http://www.wikidata.org/.well-known/genid/c707e3766cc3066460cd57100d115a1f
   - "[[_Standards/WikiData/WD~Turkish,256]]"
   - "[[_Standards/WikiData/WD~Italian,652]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
-  - "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"
-  - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Siebenter_Band,131314460]]"
-different_from:
-  - "[[_Standards/WikiData/WD~Astraea,742680]]"
+located_in_on_physical_feature:
   - "[[_Standards/WikiData/WD~mainland_Australia,2872203]]"
-  - "[[_Standards/WikiData/WD~Australien,13431386]]"
-  - "[[_Standards/WikiData/WD~Australian_continent,3960]]"
+  - "[[_Standards/WikiData/WD~Tasmania,3593416]]"
+list_of_monuments: "[[_Standards/WikiData/WD~Monuments_of_Australia,6906957]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+10_00,7056]]"
+literacy_rate: 99
+length: 3860
+life_expectancy: 83.2
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/AUS%20orthographic.svg
+location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Australia%20location%20map%20with%20floral.png
+licence_plate_code: AUS
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Australia,1144614]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Australia,11036831]]"
+member_of: "[[_Standards/WikiData/WD~United_Nations,1065]]"
+minimum_temperature_record: -23
+marriageable_age:
+  - 16
+  - 18
+mains_voltage: 230
+mean_age: 38
+median_income: 65000
+minimum_wage: 24.1
+maximum_temperature_record: 50.7
+maritime_identification_digits: 503
+mobile_country_code: 505
+motto_text: There's NOTHING like Australia
+male_population: 12545154
+named_after: "[[_Standards/WikiData/WD~Terra_Australis,323750]]"
+native_label: Australia
+name: ꠅꠡ꠆ꠐꠦꠟꠤꠀ
+number_of_out_of_school_children: 107065
+nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20Image%20of%20Australia.jpg
+nominal_GDP: 1675418665067
+nominal_GDP_per_capita: 54348.23
+number_of_households: 10852208
+official_symbol:
+  - "[[_Standards/WikiData/WD~opal,171058]]"
+  - "[[_Standards/WikiData/WD~Acacia_pycnantha,516233]]"
+official_color:
+  - "[[_Standards/WikiData/WD~gold,208045]]"
+  - "[[_Standards/WikiData/WD~green,3133]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Australia,319145]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_Australia,14931512]]"
+open_data_portal: "[[_Standards/WikiData/WD~data.gov.au,97016727]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
+official_language:
+  - "[[_Standards/WikiData/WD~Auslan,29525]]"
+  - "[[_Standards/WikiData/WD~Australian_English,44679]]"
+official_website: https://www.australia.gov.au/
+official_name: Commonwealth of Australia
+publish: true
+publishDate:
+public_holiday:
+  - "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+  - "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
+  - "[[_Standards/WikiData/WD~Anzac_Day,295859]]"
+  - "[[_Standards/WikiData/WD~Australia_Day,502375]]"
+  - "[[_Standards/WikiData/WD~Boxing_Day,956699]]"
+  - "[[_Standards/WikiData/WD~Christmas,19809]]"
+  - "[[_Standards/WikiData/WD~Good_Friday,40317]]"
 part_of:
   - "[[_Standards/WikiData/WD~MIKTA,865479]]"
   - "[[_Standards/WikiData/WD~Australia_and_New_Zealand,107323313]]"
   - "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
   - "[[_Standards/WikiData/WD~Australasia,45256]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Australia,1134461]]"
-foundational_text: "[[_Standards/WikiData/WD~Constitution_of_Australia,1144614]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Australia,1144614]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Australia,1154521]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~High_Court_of_Australia,1358798]]"
-central_bank: "[[_Standards/WikiData/WD~Reserve_Bank_of_Australia,1506724]]"
-archives_at: "[[_Standards/WikiData/WD~National_Archives_of_Australia,1684918]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Australia,2088388]]"
-highest_point: "[[_Standards/WikiData/WD~Mawson_Peak,2114101]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Australia,2440952]]"
-emergency_phone_number: "[[_Standards/WikiData/WD~000,2806478]]"
-located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~mainland_Australia,2872203]]"
-  - "[[_Standards/WikiData/WD~Tasmania,3593416]]"
-has_cabinet: "[[_Standards/WikiData/WD~Federal_Executive_Council_(Australia),2988632]]"
-executive_body: "[[_Standards/WikiData/WD~Australian_Government,2991162]]"
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Australia,3248546]]"
-instance_of:
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~federation,43702]]"
-studied_in: "[[_Standards/WikiData/WD~Australian_studies,4825228]]"
-list_of_monuments: "[[_Standards/WikiData/WD~Monuments_of_Australia,6906957]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Australia,7112191]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Australia_topics,11010674]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Australia,11036831]]"
-railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
-driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_Australia,14931512]]"
 permanent_duplicated_item:
   - "[[_Standards/WikiData/WD~Q20514998,20514998]]"
   - "[[_Standards/WikiData/WD~Q41336722,41336722]]"
-inception: "1901"
-has_time_started: 1901-06
-open_data_portal: "[[_Standards/WikiData/WD~data.gov.au,97016727]]"
-has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great_Seal_of_Australia,119084894]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
-Swedish_Anbytarforum: 21978
-native_label: Australia
-Baidu_Tieba_name: 澳大利亚
-UMLS_CUI: C0006888
-name: ꠅꠡ꠆ꠐꠦꠟꠤꠀ
-member_of: "[[_Standards/WikiData/WD~United_Nations,1065]]"
-capital: "[[_Standards/WikiData/WD~Canberra,3114]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+10_00,7056]]"
-official_language:
-  - "[[_Standards/WikiData/WD~Auslan,29525]]"
-  - "[[_Standards/WikiData/WD~Australian_English,44679]]"
-minimum_temperature_record: -23
+perimeter:
+  - 35877
+  - 59736
+population: 26473055
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-au-Australia.ogg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Uluru-Kata%20Tjuta%20banner%20Uluru%20Sunset.jpg
+railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
+retirement_age: 67
+relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Australia%20relief%20map.jpg
+rural_population:
+  - 3515460
+  - 3529080
+  - 3502976
+  - 3515066
+source: https://datahub.io/core/country-codes
+studied_in: "[[_Standards/WikiData/WD~Australian_studies,4825228]]"
 speed_limit:
   - 100
   - 50
-VAT_rate: 10
-width: 4000
 shares_border_with:
   - "[[_Standards/WikiData/WD~Indonesia,252]]"
   - "[[_Standards/WikiData/WD~New_Caledonia,33788]]"
@@ -734,235 +932,41 @@ shares_border_with:
   - "[[_Standards/WikiData/WD~Vanuatu,686]]"
   - "[[_Standards/WikiData/WD~Solomon_Islands,685]]"
   - "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
-compulsory_education_minimum_age_: 6
-unemployment_rate: 6
-water_as_percent_of_area: 0.8
-marriageable_age:
-  - 16
-  - 18
-age_of_consent:
-  - 16
-  - 17
-compulsory_education_maximum_age_: 17
-age_of_candidacy: 18
-age_of_majority: 18
-mains_voltage: 230
-coastline: 34000
-mean_age: 38
-death_rate:
-  - 6.3
-  - 6.7
-  - 7.3
-median_income: 65000
-retirement_age: 67
-literacy_rate: 99
 suicide_rate: 11.3
-birth_rate:
-  - 11.5
-  - 11.6
-  - 12.1
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.au,37420]]"
-total_fertility_rate: 1.74
-minimum_wage: 24.1
-Gini_coefficient: 32.4
-head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
-central_government_debt_as_a_percent_of_GDP:
-  - 38.3
-  - 40.5
-length: 3860
-Happy_Planet_Index_score: 43.1
-trunk_prefix: 0
-maximum_temperature_record: 50.7
-maritime_identification_digits: 503
-continent: "[[_Standards/WikiData/WD~Oceania,55643]]"
-vehicles_per_thousand_people: 784
-life_expectancy: 83.2
-Inequality_adjusted_Human_Development_Index: 0.876
-Democracy_Index: 8.96
-Human_Development_Index: 0.951
-UIC_numerical_country_code: 61
 social_media_followers:
   - 9552
   - 9576
   - 9583
-aircraft_registration_prefix:
-  - VI
-  - VH
-  - VL
-  - VN
-  - AX
-  - VK
-  - VM
-  - VJ
-IAB_code: 1242
-mobile_country_code: 505
-Commons_category: Australia
-DPLA_subject_term: Australia
-hashtag: Australia
-Commons_gallery: Australia
-perimeter:
-  - 35877
-  - 59736
-ISO_3166_1_numeric_code: 36
-M49_code: 36
-annual_number_of_weddings:
-  - 78987
-  - 89167
-  - 113815
-  - 119186
-  - 127161
-number_of_out_of_school_children: 107065
-Colon_Classification: SG--8
-Krugosvet_article: strany_mira/AVSTRALIYA.html
 subreddit:
   - straya
   - Australia_
   - australia
-MeSH_tree_code:
-  - Z01.639.100
-  - Z01.678.100.373
-demonym:
-  - أسترالي
-  - أسترالية
-  - australiana
-  - australianu
-  - австралийска
-  - австралийски
-  - অস্ট্রেলীয়
-  - Australan
-  - Australanka
-  - Awstraliad
-  - Αυστραλή
-  - Αυστραλός
-  - aŭstraliano
-  - australiana
-  - australiano
-  - Australien
-  - Australienne
-  - אוסטרלי
-  - אוסטרלית
-  - Australiano
-  - australiana
-  - australiane
-  - australiani
-  - australiano
-  - australian
-  - Australiër
-  - australian
-  - australiancă
-  - australieni
-  - австралиец
-  - австралийка
-  - australisk
-  - австралієць
-  - австралійка
-  - australian
-  - australiana
-  - australiane
-  - australiani
-  - Laustralänan
-  - ؤسطرالي
-  - ؤسطرالية
-  - ؤسطراليين
-  - ؤسطراليات
-  - Avstralec
-  - Avstralka
-  - Astrálach
-  - Australian
-  - أستراليون
-  - Australier
-  - Aussies
-  - Australians
-  - ausztrál
-  - австралийцы
-  - австралійці
-  - Aussie
-  - australier
-  - Australierin
-motto_text: There's NOTHING like Australia
-UNDP_country_code: AUL
-GOST_7_67_cyrillic: АВС
+satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Australia%20satellite%20plane.jpg
+spoken_text_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%BE%D5%BD%D5%BF%D6%80%D5%A1%D5%AC%D5%AB%D5%A1%20%28Australia%29.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Australi%C3%AB%20%28land%29-article.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Australia%20%28spoken%20by%20AI%20voice%29.mp3
+seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Seal%20of%20Australia%201973-.png
+short_name: AUS
+type: Country
+tags:
+  - geo/Country
+title: Australia
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Australia,3248546]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Australia_topics,11010674]]"
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.au,37420]]"
+total_fertility_rate: 1.74
+trunk_prefix: 0
+total_exports: 464925000000
+unemployment_rate: 6
 urban_population:
   - 21819366
   - 22120168
   - 22182436
   - 22499333
-audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Navy%20Band%2C%20Advance%20Australia%20Fair%20%28instrumental%29.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Navy%20Band%2C%20Advance%20Australia%20Fair%20%28abridged%29.oga
-country_calling_code: 61
-flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg
-Unicode_character: 🇦🇺
-coordinates_of_westernmost_point: Point(113.155 -26.151388888)
-population: 26473055
-geoshape: http://commons.wikimedia.org/data/main/Data:Australia.map
-locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/AUS%20orthographic.svg
-relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Australia%20relief%20map.jpg
-satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Australia%20satellite%20plane.jpg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Australia%20satellite%20plane.jpg
-pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-au-Australia.ogg
-spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%BE%D5%BD%D5%BF%D6%80%D5%A1%D5%AC%D5%AB%D5%A1%20%28Australia%29.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Australi%C3%AB%20%28land%29-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Australia%20%28spoken%20by%20AI%20voice%29.mp3
-page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Uluru-Kata%20Tjuta%20banner%20Uluru%20Sunset.jpg
-official_website: https://www.australia.gov.au/
-Iconclass_notation: 25A26
-Libris_URI: 97mpn0ft3gmr61w
-BHCL_UUID:
-  - c7ae36ae-6cb9-46a2-b624-635895df7396
-  - f413fd89-9aad-4c39-be8c-a80802c59425
-Wolfram_Language_entity_code: Entity["Country", "Australia"]
-location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Australia%20location%20map%20with%20floral.png
-IPA_transcription: əsˈtreɪljə
-nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20Image%20of%20Australia.jpg
-WordLift_URL: https://data.thenextweb.com/tnw/entity/australia.html
-Stack_Exchange_tag: https://travel.stackexchange.com/tags/Australia
-Dewey_Decimal_Classification: 2--94
-escutcheon_image: http://commons.wikimedia.org/wiki/Special:FilePath/Shield%20of%20arms%20of%20Australia.svg
-detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Australia%20map%20%28English%29.svg
-ISNI: 120969976
-described_at_URL: https://www.dfat.gov.au/about-australia
-nominal_GDP: 1675418665067
-seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Seal%20of%20Australia%201973-.png
-official_name: Commonwealth of Australia
-coordinates_of_easternmost_point: Point(153.637222222 -28.6375)
-coordinates_of_northernmost_point: Point(142.53151 -10.68717)
-country: "[[_Standards/WikiData/WD~Australia,408]]"
-OmegaWiki_Defined_Meaning: 5776
-FIPS_10_4_countries_and_regions_: AS
-rural_population:
-  - 3515460
-  - 3529080
-  - 3502976
-  - 3515066
-total_exports: 464925000000
-INSEE_countries_and_foreign_territories_code: 99501
-ISO_3166_1_alpha_3_code: AUS
-licence_plate_code: AUS
-IOC_country_code: AUS
-ITU_letter_code: AUS
-coordinate_location: Point(133.0 -25.0)
-PM20_geo_code: D30
-WOEID: 23424748
-GS1_country_code: 930-939
-nominal_GDP_per_capita: 54348.23
-ISO_3166_1_alpha_2_code: AU
-UN_LOCODE: AU
-WIPO_ST_3: AU
-UIC_alphabetical_country_code: AU
-area: 7692024
-external_data_available_at_URL: https://data.gov.au/
-coordinates_of_southernmost_point: Point(146.825 -43.644444444)
-number_of_households: 10852208
-Basisklassifikation: 74.27
-GitHub_topic: australia
-CIVICUS_Monitor_country_entry: australia
-short_name: AUS
-male_population: 12545154
-female_population: 12877635
-U_S_National_Archives_Identifier: 10044423
-coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Australia.svg
+vehicles_per_thousand_people: 784
+width: 4000
+water_as_percent_of_area: 0.8
 ---
 
 # [[Australia]] 
@@ -1106,4 +1110,3 @@ Capital :: [[Canberra]]
 ### #is_/same_as :: [Australia.personal](/_personal/Earth/Continent/Australasia/Australia.personal.md) 
 
 ### #is_/same_as :: [Australia.secret](/_secret/Earth/Continent/Australasia/Australia.secret.md)
-

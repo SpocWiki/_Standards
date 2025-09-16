@@ -17,7 +17,7 @@ Commons_category: Great Chinese Famine
 ---
 
 
-# [[1959-1961_Great_Chinese_Famine]]
+# [[1959-Great_Chinese_Famine-1961]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Great_Chinese_Famine,2454958|WD~Great_Chinese_Famine,2454958]]
 

@@ -25,11 +25,9 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Vienna%20Battle%201683
 Commons_category: Great Turkish War
 ---
 
-
-# [[1683–1699_Great_Turkish_War]]
+# [[1683-Great_Turkish_War–1699]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Great_Turkish_War,74623|WD~Great_Turkish_War,74623]]
-
 
 ## #has_/text_of_/abstract 
 
