@@ -485,8 +485,6 @@ into a Subfolder named `Greece`, so that this Link into the Sub-Repository works
 
 > [!warning] This can considerably increase the total size and depth of your wiki!
 
-
-
 [[Greece/ReadMe]] 
 
 
@@ -553,11 +551,12 @@ Sub-region_Name ::  [[Southern Europe]]
 
 [	ISO3166-1-numeric	 :: 300 ]
 
-
-
 [ISO2::GR] 
 [ISO3::GRC] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Greece,41|WD~Greece,41]] 
+
+## #has_/map 
 
 ```leaflet
 id: Greece
