@@ -3,6 +3,7 @@ aliases:
   - Autumn
   - fall
   - harvesttime
+  - Herbst
 has_id_wikidata: Q1314
 different_from:
   - "[[_Standards/WikiData/WD~Autumn,254372]]"
