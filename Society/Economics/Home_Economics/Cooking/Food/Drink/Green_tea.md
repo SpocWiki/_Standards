@@ -33,11 +33,9 @@ UMLS_CUI: C0795620
 UNII: W2ZU1RY8B0
 ---
 
-
 # [[Green_tea]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Green_tea,484083|WD~Green_tea,484083]]
-
 
 ## #has_/text_of_/abstract 
 
@@ -45,4 +43,5 @@ UNII: W2ZU1RY8B0
 >
 > Several varieties of green tea exist, which differ substantially based on the variety of C. sinensis used, growing conditions, horticultural methods, production processing, and time of harvest. While it may slightly lower blood pressure and improve alertness, current scientific evidence does not support most health benefit claims, and excessive intake of green tea extracts can cause liver damage and other side effects.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Green%20tea)
+> [Wikipedia](https://en.wikipedia.org/wiki/Green%20tea) 
+

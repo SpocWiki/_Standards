@@ -3,6 +3,7 @@ aliases:
   - Grau
   - Grey
   - Gris
+  - Gray
 has_id_wikidata: Q42519
 instance_of:
   - "[[_Standards/WikiData/WD~web_color,376346]]"
@@ -32,18 +33,26 @@ Wolfram_Language_entity_code:
 OpenStreetMap_tag_or_key: Tag:colour=gray
 ---
 
-
 # [[Gray]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Gray,42519|WD~Gray,42519]]
 
-
 ## #has_/text_of_/abstract 
 
-> Grey (more frequent in British English) or **Gray** (more frequent in American English) is an intermediate color between black and white. It is a neutral or achromatic color, meaning that it has no chroma. It is the color of a cloud-covered sky, of ash, and of lead.
+> Grey (more frequent in British English) or **Gray** (more frequent in American English) 
+> is an intermediate color between black and white. 
+> It is a neutral or achromatic color, meaning that it has no chroma. 
+> It is the color of a cloud-covered sky, of ash, and of lead.
 >
-> The first recorded use of grey as a color name in the English language was in 700 CE. Grey is the dominant spelling in European and Commonwealth English, while gray is more common in American English; however, both spellings are valid in both varieties of English.
+> The first recorded use of grey as a color name in the English language was in 700 CE. 
+> Grey is the dominant spelling in European and Commonwealth English, 
+> while gray is more common in American English; however, 
+> both spellings are valid in both varieties of English.
 >
-> In Europe and North America, surveys show that gray is the color most commonly associated with neutrality, conformity, boredom, uncertainty, old age, indifference, and modesty. Only one percent of respondents chose it as their favorite color.
+> In Europe and North America, surveys show that 
+> gray is the color most commonly associated with neutrality, conformity, 
+> boredom, uncertainty, old age, indifference, and modesty. 
+> 
+> Only one percent of respondents chose it as their favorite color.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grey)
