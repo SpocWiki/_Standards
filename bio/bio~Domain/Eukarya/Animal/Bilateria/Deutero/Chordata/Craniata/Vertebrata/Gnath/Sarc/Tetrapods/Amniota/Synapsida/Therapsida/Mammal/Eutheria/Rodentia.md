@@ -159,7 +159,7 @@ U_S_National_Archives_Identifier:
 
 -   » Sub-Groups
     -  [Muroidea](Rodentia/Muroidea.md))
-    -   [Squirrel](Rodentia/Squirrel.md)
+    -   [Squirrel](Rodentia/Sciuromorpha/Squirrel.md)
 
 
 ## Title Illustrations

@@ -36,6 +36,7 @@ Commons_category: Evil
 
 # [[Evil]] 
 
+#is_/opposite_of :: [[Good]] 
 #is_/same_as :: [[../../WikiData/WD~Evil,15292|WD~Evil,15292]] 
 
 ## #has_/text_of_/abstract 

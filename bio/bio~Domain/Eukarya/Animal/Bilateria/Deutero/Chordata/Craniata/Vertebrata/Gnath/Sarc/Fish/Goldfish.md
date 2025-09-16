@@ -119,11 +119,9 @@ exact_match:
   - http://wordnet-rdf.princeton.edu/wn31/101446282-n
 ---
 
-
 # [[Goldfish]]
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Goldfish,123141|WD~Goldfish,123141]]
-
 
 ## #has_/text_of_/abstract 
 

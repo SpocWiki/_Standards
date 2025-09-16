@@ -1,65 +1,66 @@
 ---
 aliases:
-- "Middle Ages"
-- Middle_Ages
-Commons_category: "Middle Ages"
-Commons_gallery: "Middle Ages"
+  - Middle Ages
+  - Middle_Ages
+  - medieval
+Commons_category: Middle Ages
+Commons_gallery: Middle Ages
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 draft: true
 end_time: 1500-06
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
+expiryDate:
 has_id_wikidata: Q12554
-has_Template: '[[Extract~Note~Template]]'
+has_Template: "[[Extract~Note~Template]]"
 has_time_started: 2025-03-30
 has_time_stopped: 1500-06
 Iconclass_notation: 23T25
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich-barbarossa-und-soehne-welfenchronik%201-1000x1540.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich-barbarossa-und-soehne-welfenchronik%201-1000x1540.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~age,17522177]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+  - "[[_Standards/WikiData/WD~age,17522177]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
 isDeleted: false
 isReadOnly: false
 keywords: Middle_Ages
-layout: 
+layout:
 license: (c)copyrighted
 linkTitle: Middle_Ages
-location: '[[_Standards/WikiData/WD~Europe,46]]'
+location: "[[_Standards/WikiData/WD~Europe,46]]"
 MeSH_tree_code: K01.400.500
 OmegaWiki_Defined_Meaning: 1757744
-OpenStreetMap_tag_or_key: "Tag:historic:civilization=middle-ages"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20von%20Azincourt%20%28cropped%29.jpg"
+OpenStreetMap_tag_or_key: Tag:historic:civilization=middle-ages
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20von%20Azincourt%20%28cropped%29.jpg
 Provenio_UUID: 44b7f32e-0d01-4964-9102-a67e76b0755d
 publish: false
-publishDate: 
-Stack_Exchange_tag: "https://history.stackexchange.com/questions/tagged/middle-ages"
+publishDate:
+Stack_Exchange_tag: https://history.stackexchange.com/questions/tagged/middle-ages
 Stadtwiki_Dresden_article: Mittelalter
 start_time: 0476-06
 studied_in:
-- '[[_Standards/WikiData/WD~medieval_archaeology,1671076]]'
-- '[[_Standards/WikiData/WD~medieval_history,27992545]]'
-- '[[_Standards/WikiData/WD~medieval_studies,119190]]'
+  - "[[_Standards/WikiData/WD~medieval_archaeology,1671076]]"
+  - "[[_Standards/WikiData/WD~medieval_history,27992545]]"
+  - "[[_Standards/WikiData/WD~medieval_studies,119190]]"
 tags:
-- Middle_Ages
-- excalidraw
+  - Middle_Ages
+  - excalidraw
 title:
-- - Middle_Ages
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Middle_Ages,3248279]]'
+  - - Middle_Ages
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Middle_Ages,3248279]]"
 type: private_note
 U_S_National_Archives_Identifier: 10641432
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Middle_Ages,7112768]]'
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/middle_ages"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Middle_Ages,7112768]]"
+WordLift_URL: http://data.thenextweb.com/tnw/entity/middle_ages
 ---
 
 # [[Middle_Ages]] 
