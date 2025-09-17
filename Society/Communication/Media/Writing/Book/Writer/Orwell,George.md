@@ -138,7 +138,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > and the dystopian novel [[Orwell,George/Nineteen_Eighty-Four]] (1949), 
 > although his works also encompass literary criticism, poetry, fiction and polemical journalism. 
 > 
-> H[[../../../../Genre/Non-Fiction|non-fiction]]]]] works, including The [[Road to Wigan Pier]] (1937), 
+> H[[../../../../Genre/Non-Fiction|non-fiction]]] works, including The [[Road to Wigan Pier]] (1937), 
 > documenting his experience of working-class life in the industrial north of England, 
 > and [[Homage to Catalonia]] (1938), an account of his experiences 
 > soldiering for the Republican faction of the [[Spanish Civil War]] (1936–1939), 
