@@ -24,11 +24,9 @@ subreddit: Greyhounds
 Baidu_Tieba_name: 格力犬
 ---
 
-
 # [[Greyhound]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Greyhound,38571|WD~Greyhound,38571]]
-
 
 ## #has_/text_of_/abstract 
 
@@ -40,4 +38,5 @@ Baidu_Tieba_name: 格力犬
 >
 > However, the most common speeds at which they usually win races are 58–61 km/h (36–38 mph). Its maximum speed is attained whether running on a straight track or a curved track.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Greyhound)
+> [Wikipedia](https://en.wikipedia.org/wiki/Greyhound) 
+
