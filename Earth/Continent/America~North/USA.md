@@ -809,7 +809,7 @@ Major Cities with Population in 1000s as of @2020
 | [[Jacksonville]]                                                                                                          | [[USA/USA~Eastern/Florida\|Florida]]               |  949.611 |
 | [[USA/USA~Mountain/Texas/counties~Texas/Tarrant,County/cities~Tarrant/Fort_Worth\|Fort_Worth]]                            | [[USA/USA~Mountain/Texas\|Texas]]                  |  918.915 |
 | [[USA/USA~Central/Ohio/counties~Ohio/Franklin,Ohio,County/cities~Franklin,Ohio/Columbus\|Columbus]]                       | [[USA/USA~Central/Ohio\|Ohio]]                     |  905.748 |
-| [[Charlotte]]                                                                                                             | [[USA/USA~Eastern/North_Carolina\|North Carolina]] |  874.579 |
+| [[../America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines/Counties/Charlotte]]                                                                                                             | [[USA/USA~Eastern/North_Carolina\|North Carolina]] |  874.579 |
 | [[USA/USA~Pacific/California/counties~California/San_Francisco,County/cities~San_Francisco/San_Francisco\|San Francisco]] | [[USA/USA~Pacific/California\|California]]         |  873.965 |
 | [[USA/USA~Central/Indiana/counties~Indiana/Marion,County/cities~Marion/Indianapolis\|Indianapolis]]                       | [[USA/USA~Central/Indiana\|Indiana]]               |  887.642 |
 | [[USA/USA~Pacific/Washington/counties~Washington/King,County/cities~King/Seattle\|Seattle]]                               | [[USA/USA~Pacific/Washington\|Washington]]         |  737.015 |

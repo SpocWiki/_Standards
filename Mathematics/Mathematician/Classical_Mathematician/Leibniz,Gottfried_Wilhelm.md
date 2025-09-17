@@ -236,7 +236,7 @@ writing_language:
 ---
 
 - [[#has_/time_/started :: 1646-07-01]]  [#has_/place_/started :: [[Leipzig]] ]
-- [[#has_/time_/stopped :: 1716-11-14]] [#has_/place_/stopped :: [[Hanover]] ] 
+- [[#has_/time_/stopped :: 1716-11-14]] [#has_/place_/stopped :: [[../../../Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Hanover]] ] 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #is_/same_as :: [[../../../WikiData/WD~Gottfried_Wilhelm_Leibniz,9047|WD~Gottfried_Wilhelm_Leibniz,9047]] 
 

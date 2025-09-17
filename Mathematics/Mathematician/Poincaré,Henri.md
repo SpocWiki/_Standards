@@ -40,7 +40,7 @@ has_id_wikidata: Q81082
 >
 > Early in the 20th century he formulated the Poincaré conjecture, 
 > which became, over time, one of the famous unsolved problems in mathematics. 
-> It was solved in 2002–2003 by [[Grigori Perelman]].
+> It was solved in 2002–2003 by [[Modern_Mathematicians/Perelman,Grigori]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Henri%20Poincar%C3%A9)
 

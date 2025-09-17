@@ -233,15 +233,80 @@ writing_language:
 - '[[_Standards/WikiData/WD~French,150]]'
 ---
 
+# [[Churchill,Winston]] 
+
+#has_/created_/quote :: No Sports 
+#has_/created_/quote :: Never waste a good Crisis 
+(to push through reforms)
+
 ## #has_/text_of_/abstract 
 
-> Sir Winston Leonard Spencer Churchill (30 November 1874 – 24 January 1965) was a British statesman, military officer, and writer who was Prime Minister of the United Kingdom from 1940 to 1945 (during the Second World War) and again from 1951 to 1955. For some 62 of the years between 1900 and 1964, he was a member of Parliament (MP)  and represented a total of five constituencies over that time. Ideologically an adherent to economic liberalism and imperialism, he was for most of his career a member of the Conservative Party, which he led from 1940 to 1955. He was a member of the Liberal Party from 1904 to 1924.
+> Sir Winston Leonard Spencer Churchill (30 November 1874 – 24 January 1965) 
+> was a British statesman, military officer, and writer 
+> who was Prime Minister of the United Kingdom from 1940 to 1945 (during the Second World War) 
+> and again from 1951 to 1955. 
+> 
+> For some 62 of the years between 1900 and 1964, he was a member of Parliament (MP) 
+> and represented a total of five constituencies over that time. 
+> Ideologically an adherent to economic liberalism and imperialism, 
+> he was for most of his career a member of the Conservative Party, which he led from 1940 to 1955. 
+> He was a member of the Liberal Party from 1904 to 1924.
 >
-> Of mixed English and American parentage, Churchill was born in Oxfordshire into the wealthy, aristocratic Spencer family. He joined the British Army in 1895 and saw action in British India, the Mahdist War and the Second Boer War, gaining fame as a war correspondent and writing books about his campaigns. Elected a Conservative MP in 1900, he defected to the Liberals in 1904. In H. H. Asquith's Liberal government, Churchill was president of the Board of Trade and Home Secretary, championing prison reform and workers' social security. As First Lord of the Admiralty during the First World War, he oversaw the Gallipoli campaign, but after it proved a disaster, was demoted to Chancellor of the Duchy of Lancaster. He resigned in November 1915 and joined the Royal Scots Fusiliers on the Western Front for six months. In 1917, he returned to government under David Lloyd George and served successively as Minister of Munitions, Secretary of State for War, Secretary of State for Air, and Secretary of State for the Colonies, overseeing the Anglo-Irish Treaty and British foreign policy in the Middle East. After two years out of Parliament, he was Chancellor of the Exchequer in Stanley Baldwin's Conservative government, returning sterling in 1925 to the gold standard, depressing the UK economy.
+> Of mixed English and American parentage, Churchill was born in Oxfordshire 
+> into the wealthy, aristocratic Spencer family. 
+> He joined the British Army in 1895 and saw action in British India, 
+> the Mahdist War and the Second Boer War, gaining fame as a war correspondent 
+> and writing books about his campaigns. 
+> 
+> Elected a Conservative MP in 1900, he defected to the Liberals in 1904. 
+> In H. H. Asquith's Liberal government, 
+> Churchill was president of the Board of Trade and Home Secretary, 
+> championing prison reform and workers' social security. 
+> 
+> As First Lord of the Admiralty during the First World War, he oversaw the Gallipoli campaign, 
+> but after it proved a disaster, was demoted to Chancellor of the Duchy of Lancaster. 
+> He resigned in November 1915 
+> and joined the Royal Scots Fusiliers on the Western Front for six months. 
+> In 1917, he returned to government under David Lloyd George 
+> and served successively as Minister of Munitions, Secretary of State for War, 
+> Secretary of State for Air, and Secretary of State for the Colonies, 
+> overseeing the Anglo-Irish Treaty and British foreign policy in the Middle East. 
+> 
+> After two years out of Parliament, 
+> he was Chancellor of the Exchequer in Stanley Baldwin's Conservative government, 
+> returning sterling in 1925 to the gold standard, depressing the UK economy.
 >
-> Out of government during his so-called "wilderness years" in the 1930s, Churchill took the lead in calling for rearmament to counter the threat of militarism in Nazi Germany. At the outbreak of the Second World War he was re-appointed First Lord of the Admiralty. In May 1940, he became prime minister, succeeding Neville Chamberlain. Churchill formed a national government and oversaw British involvement in the Allied war effort against the Axis powers, resulting in victory in 1945. After the Conservatives' defeat in the 1945 general election, he became Leader of the Opposition. Amid the developing Cold War with the Soviet Union, he publicly warned of an "iron curtain" of Soviet influence in Europe and promoted European unity. Between his terms, he wrote several books recounting his experience during the war. He was awarded the Nobel Prize in Literature in 1953. He lost the 1950 election but was returned to office in 1951. His second term was preoccupied with foreign affairs, especially Anglo-American relations and preservation of what remained of the British Empire, with India no longer a part of it. Domestically, his government's priority was their extensive housebuilding programme, in which they were successful. In declining health, Churchill resigned in 1955, remaining an MP until 1964. Upon his death in 1965, he was given a state funeral.
+> Out of government during his so-called "wilderness years" in the 1930s, 
+> Churchill took the lead in calling for rearmament 
+> to counter the threat of militarism in Nazi Germany. 
+> 
+> At the outbreak of the Second World War he was re-appointed First Lord of the Admiralty. 
+> In May 1940, he became prime minister, succeeding Neville Chamberlain. 
+> Churchill formed a national government and oversaw British involvement in the Allied war effort 
+> against the Axis powers, resulting in victory in 1945. 
+> After the Conservatives' defeat in the 1945 general election, he became Leader of the Opposition. 
+> Amid the developing Cold War with the Soviet Union, 
+> he publicly warned of an "iron curtain" of Soviet influence in Europe and promoted European unity. 
+> 
+> Between his terms, he wrote several books recounting his experience during the war. 
+> He was awarded the Nobel Prize in Literature in 1953. 
+> He lost the 1950 election but was returned to office in 1951. 
+> His second term was preoccupied with foreign affairs, especially Anglo-American relations 
+> and preservation of what remained of the British Empire, with India no longer a part of it. 
+> Domestically, his government's priority was their extensive housebuilding programme, 
+> in which they were successful. 
+> 
+> In declining health, Churchill resigned in 1955, remaining an MP until 1964. 
+> Upon his death in 1965, he was given a state funeral.
 >
-> One of the 20th century's most significant figures, Churchill remains popular in the UK and the rest of the Anglosphere. He is generally viewed as a victorious wartime leader who played an integral role in defending liberal democracy against the spread of fascism. He has sometimes been criticised for his imperialism and certain comments on race, in addition to some wartime decisions such as area bombing, but historians nevertheless rank Churchill as one of the greatest British prime ministers.
+> One of the 20th century's most significant figures, 
+> Churchill remains popular in the UK and the rest of the Anglosphere. 
+> 
+> He is generally viewed as a victorious wartime leader 
+> who played an integral role in defending liberal democracy against the spread of fascism. 
+> He has sometimes been criticised for his imperialism and certain comments on race, 
+> in addition to some wartime decisions such as area bombing, 
+> but historians nevertheless rank Churchill as one of the greatest British prime ministers.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Winston%20Churchill)
 
