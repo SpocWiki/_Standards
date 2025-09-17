@@ -558,7 +558,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 [ISO2::CO]
 [ISO3::COL] 
 
-#is_/same_as :: [[../../../WikiData/WD~Colombia,739|WD~Colombia,739]]  
+#is_/same_as :: [[../../../../WikiData/WD~Colombia,739|WD~Colombia,739]]  
 
 ## #has_/map  
 

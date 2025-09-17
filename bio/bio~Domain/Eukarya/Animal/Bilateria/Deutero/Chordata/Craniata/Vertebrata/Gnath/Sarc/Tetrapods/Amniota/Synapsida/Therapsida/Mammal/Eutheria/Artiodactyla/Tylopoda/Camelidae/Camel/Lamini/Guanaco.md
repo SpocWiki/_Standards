@@ -1,15 +1,44 @@
 ---
 aliases:
-- guanaco
-- "Lama guanicoe"
-- Guanako
+  - guanaco
+  - Lama guanicoe
+  - Guanako
 has_id_wikidata: Q172886
-title: "Lama guanicoe"
+title: Lama guanicoe
+IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
+parent_taxon: "[[_Standards/WikiData/WD~Lama,753853]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+this_taxon_is_source_of:
+  - "[[_Standards/WikiData/WD~guanaco,1552716]]"
+  - "[[_Standards/WikiData/WD~guanaco_fiber,28070615]]"
+CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
+original_combination: "[[_Standards/WikiData/WD~Camelus_guanicoe,27064372]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+longest_observed_lifespan: 33.7
+gestation_period: 352
+ITIS_TSN: "625029"
+taxon_common_name:
+  - Guanaco
+  - Guanako
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Guanaco%20at%20SF%20Zoo.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Guanaco%20Patagonico.jpg
+winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Lama%20guanicoe%20455869946.jpg
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lama%20guanicoe%20range.png
+Commons_gallery: Lama guanicoe
+Commons_category: Lama guanicoe
+taxon_name: Lama guanicoe
+NBN_System_Key: NHMSYS0020975298
+short_name: L. guanicoe
 ---
 
 # [[Guanaco]] 
 
 ![ ](Guanaco/153179~2.JPG)
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Guanaco,172886|WD~Guanaco,172886]] 
 
 ## #has_/text_of_/abstract 
 

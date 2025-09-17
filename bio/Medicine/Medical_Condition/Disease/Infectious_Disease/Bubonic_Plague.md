@@ -70,7 +70,7 @@ UMLS_CUI: C0282312
 > Without treatment, plague results in the death of 30% to 90% of those infected. 
 > Death, if it occurs, is typically within 10 days. With treatment, the risk of death is around 10%. 
 > Globally between 2010 and 2015 there were 3,248 documented cases, which resulted in 584 deaths. 
-> The countries with the greatest number of cases are the [[../../../../../Earth/Continent/Africa/Africa~Central/Congo~Kinshasa|Democratic Republic of the Congo]], [[../../../../../Earth/Continent/Africa/Africa~East/Madagascar|Madagascar]], and [[../../../../../Earth/Continent/America~South/Peru|Peru]].
+> The countries with the greatest number of cases are the [[../../../../../Earth/Continent/Africa/Africa~Central/Congo~Kinshasa|Democratic Republic of the Congo]], [[../../../../../Earth/Continent/Africa/Africa~East/Madagascar|Madagascar]], and [[../../../../../Earth/Continent/America~South/Andes/Peru|Peru]].
 >
 > The plague is considered the likely cause of the Black Death that swept through Asia, Europe, 
 > and Africa in the 14th century and killed an estimated 50 million people, 

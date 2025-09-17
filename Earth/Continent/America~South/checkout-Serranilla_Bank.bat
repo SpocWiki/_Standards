@@ -1,1 +1,0 @@
-git clone "https://github.com/SpocWiki/America-Serranilla_Bank" Serranilla_Bank

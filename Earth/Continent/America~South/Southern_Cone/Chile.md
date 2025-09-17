@@ -449,7 +449,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 [ISO3::CHL] 
 
 
-#is_/same_as :: [[../../../WikiData/WD~Chile,298|WD~Chile,298]] 
+#is_/same_as :: [[../../../../WikiData/WD~Chile,298|WD~Chile,298]] 
 
 ## #has_/map  
 

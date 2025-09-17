@@ -1,12 +1,26 @@
+---
+aliases:
+  - Simon Bolivar
+  - Bolivar
+  - Bolívar
+  - Simón Bolívar
+  - Simón_Bolívar
+  - Simón José Antonio de la Santísima Trinidad Bolívar Palacios Ponte y Blanco
+  - El Libertador
+has_id_wikidata: Q8605
+---
 
-# [[Simón_Bolívar]] 
+# [[Bolívar,Simón]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Simón_Bolívar,8605|WD~Simón_Bolívar,8605]] 
 
 ## #has_/text_of_/abstract 
 
 > Simón José Antonio de la Santísima Trinidad Bolívar Palacios Ponte y Blanco 
 > (24 July 1783 – 17 December 1830) was a Venezuelan military and political leader 
-> who led what are currently the countries of Colombia, Venezuela, Ecuador, Peru, 
-> Panama, and Bolivia to independence from the Spanish Empire. 
+> who led what are currently the countries of Colombia, Venezuela, Ecuador, Peru, Panama, 
+> and Bolivia to independence from the Spanish Empire. 
+> 
 > He is known colloquially as El Libertador, or the Liberator of America.
 >
 > Simón Bolívar was born in Caracas in the Captaincy General of Venezuela 

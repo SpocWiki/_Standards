@@ -498,7 +498,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 [ISO2::EC]
 [ISO3::ECU] 
 
-#is_/same_as :: [[../../../WikiData/WD~Ecuador,736|WD~Ecuador,736]] 
+#is_/same_as :: [[../../../../WikiData/WD~Ecuador,736|WD~Ecuador,736]] 
 
 ## #has_/map  
 

@@ -317,7 +317,6 @@ urban_population:
   - 9141704
 inception: "1821"
 has_time_started: 1821-06 
-has_time_started: 1821-01-01 
 population: 17263239
 licence_plate_code: GCA
 ITU_letter_code: GTM
@@ -385,7 +384,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Guatemala/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: GTQ ]
 [	ISO4217-currency_name	 :: Quetzal ]
 [	ISO4217-currency_numeric	 :: 320 ]
@@ -449,20 +447,18 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 320 ]
 
-
-
 [ISO2::GT]
 [ISO3::GTM] 
 
+#is_/same_as :: [[../../../WikiData/WD~Guatemala,774|WD~Guatemala,774]] 
+
 ## #has_/map  
-
-
 
 
 ```leaflet
 id: Guatemala
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 5 
 maxZoom: 18
 geojsonFolder: ./Guatemala//
 markerFolder: ./Guatemala/

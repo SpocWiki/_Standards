@@ -637,7 +637,7 @@ Numbers are of 2022-06
 | [[../../Africa/Africa~East/Mascarene-Islands/Reunion\|Réunion]]                  |  0.860 |  2.512 |    32.142 |   37.400 | 0.880 | Overseas department; volcanic landscapes                |
 | [[../../America~Caribbean/Guadeloupe\|Guadeloupe]]                               |  0.400 |  1.628 |    15.559 |   38.050 | 0.875 | Caribbean island; tourism and agriculture               |
 | [[../../America~Caribbean/Martinique\|Martinique]]                               |  0.360 |  1.128 |    14.320 |   40.587 | 0.870 | Caribbean island; rum production                        |
-| [[../../America~South/French_Guiana\|French Guiana]]                             |  0.300 | 83.846 |     6.767 |   22.556 | 0.850 | Amazon rainforest; spaceport location                   |
+| [[../../America~South/Guianas/French_Guiana\|French Guiana]]                             |  0.300 | 83.846 |     6.767 |   22.556 | 0.850 | Amazon rainforest; spaceport location                   |
 | [[../../Africa/Africa~East/Mayotte\|Mayotte]]                                    |  0.270 |  0.374 |     4.965 |   18.389 | 0.800 | Indian Ocean island; youngest French department         |
 
 

@@ -470,7 +470,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 [ISO2::BO]
 [ISO3::BOL] 
 
-#is_/same_as :: [[../../../WikiData/WD~Bolivia,750|WD~Bolivia,750]] 
+#is_/same_as :: [[../../../../WikiData/WD~Bolivia,750|WD~Bolivia,750]] 
 
 ## #has_/map  
 

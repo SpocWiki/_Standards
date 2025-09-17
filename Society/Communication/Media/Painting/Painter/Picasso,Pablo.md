@@ -365,8 +365,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PIKA
 
 # [[Picasso,Pablo]]
 
-#is_/same_as :: [[../../../../../WikiData/WD~Pablo_Picasso,5593|WD~Pablo_Picasso,5593]]
-
+#is_/same_as :: [[../../../../../WikiData/WD~Pablo_Picasso,5593|WD~Pablo_Picasso,5593]] 
 
 #has_/time_/started :: 1881-10-25 
 #has_/time_/started :: 1973-04-08 

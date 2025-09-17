@@ -365,7 +365,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 [ISO2::GY]
 [ISO3::GUY] 
 
-#is_/same_as :: [[../../../WikiData/WD~Guyana,734|WD~Guyana,734]] 
+#is_/same_as :: [[../../../../WikiData/WD~Guyana,734|WD~Guyana,734]] 
 
 ## #has_/map  
 

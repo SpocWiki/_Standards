@@ -263,14 +263,12 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 
 [	ISO3166-1-numeric	 :: 316 ] 
 
-
-
 [ISO2::GU] 
 [ISO3::GUM]  
 
+#is_/same_as :: [[../../../../WikiData/WD~Guam,16635|WD~Guam,16635]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Guam

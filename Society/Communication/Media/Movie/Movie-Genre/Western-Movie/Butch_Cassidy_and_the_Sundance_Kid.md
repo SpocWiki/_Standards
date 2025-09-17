@@ -14,7 +14,7 @@ aliases:
 > Robert LeRoy Parker, known as Butch Cassidy ([[Paul Newman]]), 
 > and his partner Harry Longabaugh, the "Sundance Kid" ([[Redford,Robert]]), 
 > who are on the run from a crack US posse after a string of train robberies. 
-> The pair and Sundance's lover, Etta Place (Katharine Ross), flee to [[../../../../../../Earth/Continent/America~South/Bolivia|Bolivia]] to escape the posse.
+> The pair and Sundance's lover, Etta Place (Katharine Ross), flee to [[../../../../../../Earth/Continent/America~South/Andes/Bolivia|Bolivia]] to escape the posse.
 >
 > In 2003, the film was selected for preservation in the United States National Film Registry 
 > by the Library of Congress as being "culturally, historically, or aesthetically significant". 

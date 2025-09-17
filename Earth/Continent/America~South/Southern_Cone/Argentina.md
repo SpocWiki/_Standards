@@ -479,7 +479,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 [ISO2::AR]
 [ISO3::ARG] 
 
-#is_/same_as :: [[../../../WikiData/WD~Argentina,414|WD~Argentina,414]]  
+#is_/same_as :: [[../../../../WikiData/WD~Argentina,414|WD~Argentina,414]]  
 
 ## #has_/map  
 

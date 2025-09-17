@@ -958,7 +958,7 @@ Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]
 
 | State               | Capital        | Population (2022–2024) | Area (km²) | HDI          | Notable Features                                                            |
 | ------------------- | -------------- | ---------------------- | ---------- | ------------ | --------------------------------------------------------------------------- |
-| [[Brazil/states~Brazil/Acre\|Acre]]                | Rio Branco     | 909 000 inhab.         | 164 123    | 0.709–0.714  | Amazon rainforest; border with [[Peru]]                                         |
+| [[Brazil/states~Brazil/Acre\|Acre]]                | Rio Branco     | 909 000 inhab.         | 164 123    | 0.709–0.714  | Amazon rainforest; border with [[Andes/Peru]]                                         |
 | [[Brazil/states~Brazil/Alagoas\|Alagoas]]             | Maceió         | 3 365 350 inhab.       | 27 779     | ~0.712       | Coastal tourism; historical Quilombo dos Palmares                           |
 | [[Brazil/states~Brazil/Amapá\|Amapá]]               | Macapá         | 877 610 inhab.         | 142 829    | ~0.741       | Equatorial rainforest; state of the equator                                 |
 | [[Brazil/states~Brazil/Amazonas\|Amazonas]]            | Manaus         | 4 270 000 inhab.       | 1 559 159  | ~0.730       | [[Amazon_River\|Amazon River]] basin; industrial Manaus Free Trade Zone                       |
