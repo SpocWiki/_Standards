@@ -79,7 +79,7 @@ ZVG_number: 8180
 #is_/same_as :: [[../../../WikiData/WD~Vanadium,722]] 
 
 [GroupName::Group-05-Vanadium]
-[Group:[[../Group-05-Vanadium]]]]
+[Group:[[../Group-05-Vanadium]]
 
 
 [Name-en::Vanadium]

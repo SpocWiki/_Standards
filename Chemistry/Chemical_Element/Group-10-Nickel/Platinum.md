@@ -62,7 +62,7 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Platinum\"]"
 #is_/same_as :: [[../../../WikiData/WD~Platinum,880]] 
 
 [GroupName::Group-10-Nickel]
-[Group:[[../Group-10-Nickel]]]]
+[Group:[[../Group-10-Nickel]]
 
 
 [Name-en::Platinum]

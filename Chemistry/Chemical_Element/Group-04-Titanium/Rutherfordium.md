@@ -36,7 +36,7 @@ Unicode_character: 鑪
 #is_/same_as :: [[../../../WikiData/WD~Rutherfordium,1226]] 
 
 [GroupName::Group-04-Titanium]
-[Group:[[../Group-04-Titanium]]]]
+[Group:[[../Group-04-Titanium]]
 
 
 [Name-en::Rutherfordium]

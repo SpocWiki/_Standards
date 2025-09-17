@@ -100,7 +100,7 @@ ZVG_number: 8490
 #is_/same_as :: [[../../../WikiData/WD~Mercury,925]] 
 
 [GroupName::Group-12-Zinc]
-[Group:[[../Group-12-Zinc]]]]
+[Group:[[../Group-12-Zinc]]
 
 
 [Name-en::Mercury]

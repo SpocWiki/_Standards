@@ -47,7 +47,7 @@ UNII: 2ZRJ207R3E
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide-Group]]]]
+[Group:[[../Lanthanide-Group]]
 
 
 [Name-en::Nobelium]

@@ -82,7 +82,7 @@ ZVG_number: 7020
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
-[Group:[[../Group-18-Nobel-Gases]]]]
+[Group:[[../Group-18-Nobel-Gases]]
 
 
 [Name-en::Helium]

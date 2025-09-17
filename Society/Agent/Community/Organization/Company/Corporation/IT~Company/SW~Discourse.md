@@ -21,7 +21,7 @@ type:
 
 # SW~Discourse
 
-[has_/creator::[[../../../../../../../../Knowledge/Science/Scientist/Atwood,Jeff]]]]
+[has_/creator::[[../../../../../../../../Knowledge/Science/Scientist/Atwood,Jeff]]
 #is_/different_from :: [[Discord|Discord]] 
 
 [Discourse New User Tips and Tricks](https://blog.discourse.org/2016/12/discourse-new-user-tips-and-tricks/)

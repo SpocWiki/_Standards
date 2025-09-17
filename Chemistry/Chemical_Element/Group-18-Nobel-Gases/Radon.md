@@ -59,7 +59,7 @@ UNII: Q74S4N8N1G
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
-[Group:[[../Group-18-Nobel-Gases]]]]
+[Group:[[../Group-18-Nobel-Gases]]
 
 
 [Name-en::Radon]

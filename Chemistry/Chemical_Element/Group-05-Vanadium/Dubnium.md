@@ -36,7 +36,7 @@ Unicode_character: "\U000289C0"
 #is_/same_as :: [[../../../WikiData/WD~Dubnium,1232]] 
 
 [GroupName::Group-05-Vanadium]
-[Group:[[../Group-05-Vanadium]]]]
+[Group:[[../Group-05-Vanadium]]
 
 
 [Name-en::Dubnium]

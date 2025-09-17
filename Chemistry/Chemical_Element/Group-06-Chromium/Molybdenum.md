@@ -97,7 +97,7 @@ ZVG_number: 8330
 #is_/same_as :: [[../../../WikiData/WD~Molybdenum,1053]] 
 
 [GroupName::Group-06-Chromium]
-[Group:[[../Group-06-Chromium]]]]
+[Group:[[../Group-06-Chromium]]
 
 
 [Name-en::Molybdenum]

@@ -69,7 +69,7 @@ ZVG_number: 7210
 #is_/same_as :: [[../../../WikiData/WD~Scandium,713]] 
 
 [GroupName::Group-03-Scandium]
-[Group:[[../Group-03-Scandium]]]]
+[Group:[[../Group-03-Scandium]]
 
 
 [Name-en::Scandium]

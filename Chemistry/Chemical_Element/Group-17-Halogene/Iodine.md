@@ -75,7 +75,7 @@ Unicode_character: 碘
 
 #chemic/Element 
 [GroupName::Group-17-Halogene]
-[Group:[[../Group-17-Halogene]]]]
+[Group:[[../Group-17-Halogene]]
 
 
 [Name-en::Iodine]

@@ -70,7 +70,7 @@ ZVG_number: 7720
 #is_/same_as :: [[../../../WikiData/WD~Hafnium,1119]] 
 
 [GroupName::Group-04-Titanium]
-[Group:[[../Group-04-Titanium]]]]
+[Group:[[../Group-04-Titanium]]
 
 
 [Name-en::Hafnium]

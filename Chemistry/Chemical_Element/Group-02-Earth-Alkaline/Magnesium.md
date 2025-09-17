@@ -99,7 +99,7 @@ ZVG_number:
 #is_/same_as :: [[../../../WikiData/WD~Magnesium,660]] 
 
 [GroupName::Group-02-Earth-Alkaline]
-[Group:[[../Group-02-Earth-Alkaline]]]]
+[Group:[[../Group-02-Earth-Alkaline]]
 
 
 [Name-en::Magnesium]

@@ -9,7 +9,7 @@ type: Element
 
 #chemic/Element 
 [GroupName::Group-16-Chalcogene]
-[Group:[[../Group-16-Chalcogene]]]]
+[Group:[[../Group-16-Chalcogene]]
 
 
 [Name-en::Polonium]

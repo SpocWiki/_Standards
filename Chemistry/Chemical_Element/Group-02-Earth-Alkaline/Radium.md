@@ -57,7 +57,7 @@ UNII: W90AYD6R3Q
 #is_/same_as :: [[../../../WikiData/WD~Radium,1128]] 
 
 [GroupName::Group-02-Earth-Alkaline]
-[Group:[[../Group-02-Earth-Alkaline]]]]
+[Group:[[../Group-02-Earth-Alkaline]]
 
 
 [Name-en::Radium]

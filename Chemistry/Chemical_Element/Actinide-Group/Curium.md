@@ -55,7 +55,7 @@ UNII: M5LL84MZ2W
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide-Group]]]]
+[Group:[[../Actinide-Group]]
 
 [Name-en::Curium]
 [Name-de::Curium]

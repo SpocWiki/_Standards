@@ -85,7 +85,7 @@ ZVG_number: 8440
 #is_/same_as :: [[../../../WikiData/WD~Tantalum,1123]] 
 
 [GroupName::Group-05-Vanadium]
-[Group:[[../Group-05-Vanadium]]]]
+[Group:[[../Group-05-Vanadium]]
 
 `=this["Dewey Decimal Classification"]`
 `=this.Dewey_Decimal_Classification`

@@ -93,7 +93,7 @@ ZVG_number: 8160
 #is_/same_as :: [[../../../WikiData/WD~Calcium,706]] 
 
 [GroupName::Group-02-Earth-Alkaline]
-[Group:[[../Group-02-Earth-Alkaline]]]]
+[Group:[[../Group-02-Earth-Alkaline]]
 
 
 [Name-en::Calcium]

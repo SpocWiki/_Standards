@@ -47,7 +47,7 @@ UNII: Q70I3KBF4W
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide-Group]]]]
+[Group:[[../Actinide-Group]]
 
 [Name-en::Fermium]
 [Name-de::Fermium]

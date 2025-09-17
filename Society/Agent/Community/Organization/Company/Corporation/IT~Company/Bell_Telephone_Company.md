@@ -37,7 +37,7 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Bell%20System)
 
 AT&T started with [Bell Patent Association](https://en.wikipedia.org/wiki/Bell_Patent_Association "Bell Patent Association"), a legal entity established in 1874 
-to protect the patent rights o[[../../../../../../../../Knowledge/Science/Scientist/Bell,Alexander_Graham]]]] after he invented the telephone system. 
+to protect the patent rights o[[../../../../../../../../Knowledge/Science/Scientist/Bell,Alexander_Graham]] after he invented the telephone system. 
 
 Originally a verbal agreement, it was formalized in writing in 1875 as [Bell Telephone Company](https://en.wikipedia.org/wiki/Bell_Telephone_Company "Bell Telephone Company").
 

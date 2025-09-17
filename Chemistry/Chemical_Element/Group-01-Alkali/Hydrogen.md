@@ -80,7 +80,7 @@ Wolfram_Language_entity_code: "Entity[\"Element\", \"Hydrogen\"]"
 
 #chemic/Element 
 [GroupName::Group-01-Alkali]
-[Group:[[../Group-01-Alkali]]]]
+[Group:[[../Group-01-Alkali]]
 #has_/created :: [[Hydrogen/Hydrogen_Embrittlement]] 
 
 [Name-en::Hydrogenium]

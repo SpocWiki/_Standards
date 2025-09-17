@@ -63,7 +63,7 @@ ZVG_number: 7750
 #is_/same_as :: [[../../../WikiData/WD~Rhenium,737]] 
 
 [GroupName::Group-07-Manganese]
-[Group:[[../Group-07-Manganese]]]]
+[Group:[[../Group-07-Manganese]]
 
 
 [Name-en::Rhenium]

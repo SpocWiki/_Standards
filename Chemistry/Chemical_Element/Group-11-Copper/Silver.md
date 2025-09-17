@@ -115,7 +115,7 @@ ZVG_number: 8350
 #is_/same_as :: [[../../../WikiData/WD~Silver,1090]] 
 
 [GroupName::Group-11-Copper]
-[Group:[[../Group-11-Copper]]]]
+[Group:[[../Group-11-Copper]]
 
 
 [Name-en::Silver]

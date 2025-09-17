@@ -67,7 +67,7 @@ ZVG_number: 7410
 #is_/same_as :: [[../../../WikiData/WD~Niobium,1046]] 
 
 [GroupName::Group-05-Vanadium]
-[Group:[[../Group-05-Vanadium]]]]
+[Group:[[../Group-05-Vanadium]]
 
 
 [Name-en::Niobium]

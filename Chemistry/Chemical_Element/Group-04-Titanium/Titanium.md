@@ -101,7 +101,7 @@ ZVG_number: 8170
 #is_/same_as :: [[../../../WikiData/WD~Titanium,716]] 
 
 [GroupName::Group-04-Titanium]
-[Group:[[../Group-04-Titanium]]]]
+[Group:[[../Group-04-Titanium]]
 
 
 [Name-en::Titanium]

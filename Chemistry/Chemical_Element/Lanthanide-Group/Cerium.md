@@ -203,7 +203,7 @@ ZVG_number: 8430
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide-Group]]]]
+[Group:[[../Lanthanide-Group]]
 
 [Name-en::Cerium]
 [Name-de::Cer]

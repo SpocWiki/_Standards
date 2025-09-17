@@ -67,7 +67,7 @@ vapor_pressure: 1
 
 #chemic/Element 
 [GroupName::Group-17-Halogene]
-[Group:[[../Group-17-Halogene]]]]
+[Group:[[../Group-17-Halogene]]
 
 
 [Name-en::Fluorine]

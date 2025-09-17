@@ -79,7 +79,7 @@ ZVG_number: 7550
 
 #chemic/Element 
 [GroupName::Group-01-Alkali]
-[Group:[[../Group-01-Alkali]]]]
+[Group:[[../Group-01-Alkali]]
 
 
 [Name-en::Caesium]

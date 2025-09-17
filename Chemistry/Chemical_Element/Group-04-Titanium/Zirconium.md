@@ -83,7 +83,7 @@ ZVG_number:
 #is_/same_as :: [[../../../WikiData/WD~Zirconium,1038]] 
 
 [GroupName::Group-04-Titanium]
-[Group:[[../Group-04-Titanium]]]]
+[Group:[[../Group-04-Titanium]]
 
 
 [Name-en::Zirconium]

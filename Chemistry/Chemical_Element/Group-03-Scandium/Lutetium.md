@@ -59,7 +59,7 @@ UNII: 5H0DOZ21UJ
 #is_/same_as :: [[../../../WikiData/WD~Lutetium,1857]] 
 
 [GroupName::Group-03-Scandium]
-[Group:[[../Group-03-Scandium]]]]
+[Group:[[../Group-03-Scandium]]
 
 
 
