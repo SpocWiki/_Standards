@@ -6,7 +6,7 @@ aliases:
   - 
 ---
 
-# [[TV_Series]] 
+# [[TV_series]] 
 
 #is_/same_as :: 
 
