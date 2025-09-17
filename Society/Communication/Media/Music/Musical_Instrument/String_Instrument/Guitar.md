@@ -59,11 +59,33 @@ used_by: '[[_Standards/WikiData/WD~guitarist,855091]]'
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Mongrain-AirTap.ogv"
 ---
 
+# [[Guitar]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Guitar,6607|WD~Guitar,6607]] 
+
 ## #has_/text_of_/abstract 
 
-> The **Guitar** is a stringed musical instrument that is usually fretted (with some exceptions) and typically has six or twelve strings. It is usually held flat against the player's body and played by strumming or plucking the strings with the dominant hand, while simultaneously pressing selected strings against frets with the fingers of the opposite hand. A guitar pick may also be used to strike the strings. The sound of the guitar is projected either acoustically, by means of a resonant hollow chamber on the guitar, or amplified by an electronic pickup and an amplifier.
+> The **Guitar** is a stringed musical instrument that is usually fretted (with some exceptions) 
+> and typically has six or twelve strings. 
+> 
+> It is usually held flat against the player's body and played 
+> by strumming or plucking the strings with the dominant hand, 
+> while simultaneously pressing selected strings against frets with the fingers of the opposite hand. 
+> A guitar pick may also be used to strike the strings. 
+> 
+> The sound of the guitar is projected either acoustically, 
+> by means of a resonant hollow chamber on the guitar, 
+> or amplified by an electronic pickup and an amplifier.
 >
-> The guitar is classified as a chordophone, meaning the sound is produced by a vibrating string stretched between two fixed points.  Historically, a guitar was constructed from wood, with its strings made of catgut. Steel guitar strings were introduced near the end of the nineteenth century in the United States, but nylon and steel strings became mainstream only following World War II. The guitar's ancestors include the gittern, the vihuela, the four-course Renaissance guitar, and the five-course baroque guitar, all of which contributed to the development of the modern six-string instrument.
+> The guitar is classified as a chordophone, meaning 
+> the sound is produced by a vibrating string stretched between two fixed points.  
+> 
+> Historically, a guitar was constructed from wood, with its strings made of catgut. 
+> Steel guitar strings were introduced near the end of the nineteenth century in the United States, 
+> but nylon and steel strings became mainstream only following World War II. 
+> The guitar's ancestors include the gittern, the vihuela, the four-course Renaissance guitar, 
+> and the five-course baroque guitar, 
+> all of which contributed to the development of the modern six-string instrument.
 >
 > There are three main types of modern guitar: the classical guitar (Spanish guitar); the steel-string acoustic guitar or electric guitar; and the Hawaiian guitar (played  across the player's lap). Traditional acoustic guitars include the flat top guitar (typically with a large sound hole) or the archtop guitar, which is sometimes called a "jazz guitar". The tone of an acoustic guitar is produced by the strings' vibration, amplified by the hollow body of the guitar, which acts as a resonating chamber. The classical Spanish guitar is often played as a solo instrument using a comprehensive fingerstyle technique where each string is plucked individually by the player's fingers, as opposed to being strummed. The term "finger-picking" can also refer to a specific tradition of folk, blues, bluegrass, and country guitar playing in the United States.
 >

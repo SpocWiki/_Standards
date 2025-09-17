@@ -2,6 +2,9 @@
 aliases:
   - Guinea-pig
   - Meerschweinchen
+  - Cavia porcellus
+  - guinea pig 
+  - domestic guinea pig
 has_id_wikidata: Q79803
 instance_of:
   - "[[_Standards/WikiData/WD~model_organism,213907]]"
@@ -48,11 +51,9 @@ Baidu_Tieba_name:
 taxon_common_name: Domesticated Guinea Pig
 ---
 
-
 # [[Guinea-pig]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Guinea-pig,79803|WD~Guinea-pig,79803]]
-
 
 ## #has_/text_of_/abstract 
 

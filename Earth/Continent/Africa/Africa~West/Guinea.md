@@ -353,7 +353,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Guinea/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: GNF ]
 [	ISO4217-currency_name	 :: Guinean Franc ]
 [	ISO4217-currency_numeric	 :: 324 ]
@@ -417,10 +416,13 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 324 ]
 
-
-
 [ISO2::GN]
 [ISO3::GIN]
+
+#is_/same_as :: [[../../../../WikiData/WD~Guinea,1006|WD~Guinea,1006]] 
+
+## #has_/map 
+
 ```leaflet
 id: Guinea
 zoomFeatures: true 
