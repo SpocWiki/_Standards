@@ -293,7 +293,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Guinea-Bissau/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: XOF ]
 [	ISO4217-currency_name	 :: CFA Franc BCEAO ]
 [	ISO4217-currency_numeric	 :: 952 ]
@@ -357,10 +356,13 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 624 ]
 
-
-
 [ISO2::GW]
 [ISO3::GNB]
+
+#is_/same_as :: [[../../../../WikiData/WD~Guinea-Bissau,1007|WD~Guinea-Bissau,1007]] 
+
+## #has_/map 
+
 ```leaflet
 id: Guinea-Bissau
 zoomFeatures: true 
