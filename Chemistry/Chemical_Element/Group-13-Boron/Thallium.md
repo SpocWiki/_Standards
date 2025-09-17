@@ -64,7 +64,7 @@ ZVG_number: 7810
 #is_/same_as :: [[../../../WikiData/WD~Thallium,932]] 
 
 [GroupName::Group-13-Boron]
-[Group:[[../Group-13-Boron]]]]
+[Group:[[../Group-13-Boron]]
 
 
 [Name-en::Thallium]

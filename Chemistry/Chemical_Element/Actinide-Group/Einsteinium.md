@@ -50,7 +50,7 @@ UNII: WV8XL34X3O
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide-Group]]]]
+[Group:[[../Actinide-Group]]
 
 
 

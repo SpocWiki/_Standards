@@ -137,7 +137,7 @@ ZVG_number: 8240
 #is_/same_as :: [[../../../WikiData/WD~Copper,753]] 
 
 [GroupName::Group-11-Copper]
-[Group:[[../Group-11-Copper]]]]
+[Group:[[../Group-11-Copper]]
 
 
 [Name-en::Copper]

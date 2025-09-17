@@ -50,7 +50,7 @@ UNII: 8RKC5ATI4P
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide-Group]]]]
+[Group:[[../Lanthanide-Group]]
 
 
 [Name-en::Thulium]

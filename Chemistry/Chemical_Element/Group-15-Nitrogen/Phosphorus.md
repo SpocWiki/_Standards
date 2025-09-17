@@ -91,7 +91,7 @@ ZVG_number: 3930
 
 #chemic/Element 
 [GroupName::Group-15-Nitrogen]
-[Group:[[../Group-15-Nitrogen]]]]
+[Group:[[../Group-15-Nitrogen]]
 
 
 [Name-en::Phosphorus]

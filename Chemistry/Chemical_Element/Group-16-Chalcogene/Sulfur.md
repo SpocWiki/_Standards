@@ -88,7 +88,7 @@ ZVG_number: 8130
 #is_/same_as :: [[../../../WikiData/WD~Sulfur,682]] 
 
 [GroupName::Group-16-Chalcogene]
-[Group:[[../Group-16-Chalcogene]]]]
+[Group:[[../Group-16-Chalcogene]]
 
 
 [Name-en::Sulfur]

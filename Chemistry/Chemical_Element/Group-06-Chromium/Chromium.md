@@ -119,7 +119,7 @@ ZVG_number: 8190
 #is_/same_as :: [[../../../WikiData/WD~Chromium,725]] 
 
 [GroupName::Group-06-Chromium]
-[Group:[[../Group-06-Chromium]]]]
+[Group:[[../Group-06-Chromium]]
 
 [Name-en::Chromium]
 [Name-de::Chrom]

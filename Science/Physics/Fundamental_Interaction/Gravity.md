@@ -1,6 +1,8 @@
 ---
 aliases:
   - Gravity
+  - Gravitation
+  - gravitational
 Commons_category: Gravitation
 Dewey_Decimal_Classification:
   - "521.1"
@@ -77,7 +79,7 @@ studied_by:
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Schwerkraft%20als%20Kr%C3%BCmmung%20des%20Raumes%20%28CC%20BY%204.0%29.webm
 ---
 
-# [[Gravitation]] 
+# [[Gravity]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Gravity,11412]] 
 #is_/same_as :: [[_Standards/WikiData/WD~Gravitation,361496]] 
@@ -141,7 +143,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Schwerkraft%20als%20Kr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gravitation](Gravitation.md) 
+### #is_/same_as :: [Gravity](Gravity.md) 
 
 ### #is_/same_as :: [Gravitation.public](/_public/Science/Physics/Gravitation.public.md) 
 

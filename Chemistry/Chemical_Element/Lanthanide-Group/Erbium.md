@@ -62,7 +62,7 @@ ZVG_number: 7680
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide-Group]]]]
+[Group:[[../Lanthanide-Group]]
 
 
 [Name-en::Erbium]

@@ -76,7 +76,7 @@ ZVG_number: 7920
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide-Group]]]]
+[Group:[[../Actinide-Group]]
 
 
 

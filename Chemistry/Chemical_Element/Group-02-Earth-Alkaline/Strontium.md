@@ -71,7 +71,7 @@ ZVG_number: 8310
 #is_/same_as :: [[../../../WikiData/WD~Strontium,938]] 
 
 [GroupName::Group-02-Earth-Alkaline]
-[Group:[[../Group-02-Earth-Alkaline]]]]
+[Group:[[../Group-02-Earth-Alkaline]]
 
 
 [Name-en::Strontium]

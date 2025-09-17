@@ -53,7 +53,7 @@ UNII: MNQ4O4WSI1
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide-Group]]]]
+[Group:[[../Lanthanide-Group]]
 
 
 [Name-en::Ytterbium]

@@ -66,7 +66,7 @@ ZVG_number: 7440
 #is_/same_as :: [[../../../WikiData/WD~Ruthenium,1086]] 
 
 [GroupName::Group-08-Iron]
-[Group:[[../Group-08-Iron]]]]
+[Group:[[../Group-08-Iron]]
 
 
 [Name-en::Ruthenium]

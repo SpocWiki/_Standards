@@ -113,7 +113,7 @@ ZVG_number: 7570
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide-Group]]]]
+[Group:[[../Lanthanide-Group]]
 
 
 

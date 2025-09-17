@@ -91,7 +91,7 @@ ZVG_number: 8020
 #is_/same_as :: [[../../../WikiData/WD~Beryllium,569]] 
 
 [GroupName::Group-02-Earth-Alkaline]
-[Group:[[../Group-02-Earth-Alkaline]]]]
+[Group:[[../Group-02-Earth-Alkaline]]
 
 
 [Name-de::Beryllium]

@@ -57,7 +57,7 @@ Unicode_character: 溴
 
 #chemic/Element 
 [GroupName::Group-17-Halogene]
-[Group:[[../Group-17-Halogene]]]]
+[Group:[[../Group-17-Halogene]]
 
 
 [Name-en::Bromine]

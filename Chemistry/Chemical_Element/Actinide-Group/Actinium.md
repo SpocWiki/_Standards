@@ -61,7 +61,7 @@ UNII: NIK1K0956U
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide-Group]]]]
+[Group:[[../Actinide-Group]]
 
 
 [Name-en::Actinium]

@@ -107,7 +107,7 @@ ZVG_number: 8480
 #is_/same_as :: [[../../../WikiData/WD~Gold,897]] 
 
 [GroupName::Group-11-Copper]
-[Group:[[../Group-11-Copper]]]]
+[Group:[[../Group-11-Copper]]
 
 
 [Name-en::Gold]

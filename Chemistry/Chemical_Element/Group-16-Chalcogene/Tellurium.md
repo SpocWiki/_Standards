@@ -74,7 +74,7 @@ ZVG_number: 7520
 
 #chemic/Element 
 [GroupName::Group-16-Chalcogene]
-[Group:[[../Group-16-Chalcogene]]]]
+[Group:[[../Group-16-Chalcogene]]
 
 
 [Name-en::Tellurium]

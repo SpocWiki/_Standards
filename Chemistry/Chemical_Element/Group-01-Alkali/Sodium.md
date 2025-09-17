@@ -126,7 +126,7 @@ ZVG_number: 8080
 #is_/same_as :: [[../../../WikiData/WD~Sodium,658]] 
 
 [GroupName::Group-01-Alkali]
-[Group:[[../Group-01-Alkali]]]]
+[Group:[[../Group-01-Alkali]]
 
 
 [Name-en::Sodium]

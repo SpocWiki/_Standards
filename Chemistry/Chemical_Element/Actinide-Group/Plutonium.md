@@ -58,7 +58,7 @@ UNII: 53023GN24M
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide-Group]]]]
+[Group:[[../Actinide-Group]]
 
 
 [Name-en::Plutonium]

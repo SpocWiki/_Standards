@@ -111,7 +111,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/MARGANETS.html
 #is_/same_as :: [[../../../WikiData/WD~Manganese,731]] 
 
 [GroupName::Group-07-Manganese]
-[Group:[[../Group-07-Manganese]]]]
+[Group:[[../Group-07-Manganese]]
 
 
 [Name-en::Manganese]

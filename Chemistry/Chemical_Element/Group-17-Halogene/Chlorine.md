@@ -73,7 +73,7 @@ Unicode_character: 氯
 
 #chemic/Element 
 [GroupName::Group-17-Halogene]
-[Group:[[../Group-17-Halogene]]]]
+[Group:[[../Group-17-Halogene]]
 
 
 [Name-en::Chlorine] 

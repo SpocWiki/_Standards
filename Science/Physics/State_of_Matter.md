@@ -46,7 +46,7 @@ Wolfram_Language_entity_type: MatterPhase
 > and some states only exist under extreme conditions, such as 
 > - Bose–Einstein condensates like Super-Fluids and 
 > - Fermionic condensates (in extreme cold), 
-> [[Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion]]]]s 
+> [[Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion]]s 
 > - neutron-degenerate matter (in extreme density), and 
 > - quark–gluon plasma (at extremely high energy).
 >

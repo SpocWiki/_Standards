@@ -80,7 +80,7 @@ ZVG_number: 7340
 
 #chemic/Element 
 [GroupName::Group-16-Chalcogene]
-[Group:[[../Group-16-Chalcogene]]]]
+[Group:[[../Group-16-Chalcogene]]
 
 
 

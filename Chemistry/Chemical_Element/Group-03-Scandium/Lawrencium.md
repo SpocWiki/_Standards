@@ -44,7 +44,7 @@ UNII: QRT37X99RQ
 #is_/same_as :: [[../../../WikiData/WD~Lawrencium,1905]] 
 
 [GroupName::Group-03-Scandium]
-[Group:[[../Group-03-Scandium]]]]
+[Group:[[../Group-03-Scandium]]
 
 
 [Name-en::Lawrencium]

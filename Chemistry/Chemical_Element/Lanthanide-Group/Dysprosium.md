@@ -63,7 +63,7 @@ ZVG_number: 7660
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide-Group]]]]
+[Group:[[../Lanthanide-Group]]
 
 
 [Name-en::Dysprosium]

@@ -91,7 +91,7 @@ ZVG_number:
 #is_/same_as :: [[../../../WikiData/WD~Cadmium,1091]]  
 
 [GroupName::Group-12-Zinc]
-[Group:[[../Group-12-Zinc]]]]
+[Group:[[../Group-12-Zinc]]
 
 
 [Name-en::Cadmium]

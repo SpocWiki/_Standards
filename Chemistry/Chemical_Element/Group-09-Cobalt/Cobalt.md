@@ -87,7 +87,7 @@ ZVG_number: 7270
 #is_/same_as :: [[../../../WikiData/WD~Cobalt,740]] 
 
 [GroupName::Group-09-Cobalt]
-[Group:[[../Group-09-Cobalt]]]]
+[Group:[[../Group-09-Cobalt]]
 
 
 [Name-en::Cobalt]

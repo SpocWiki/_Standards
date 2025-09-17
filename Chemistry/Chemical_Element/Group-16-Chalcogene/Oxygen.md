@@ -93,7 +93,7 @@ Krugosvet_article_archived_: himiya/kislorod
 
 #chemic/Element 
 [GroupName::Group-16-Chalcogene]
-[Group:[[../Group-16-Chalcogene]]]]
+[Group:[[../Group-16-Chalcogene]]
 
 
 [Name-en::Oxygen]

@@ -77,7 +77,7 @@ ZVG_number: 8370
 #is_/same_as :: [[../../../WikiData/WD~Indium,1094]] 
 
 [GroupName::Group-13-Boron]
-[Group:[[../Group-13-Boron]]]]
+[Group:[[../Group-13-Boron]]
 
 
 [Name-en::Indium]

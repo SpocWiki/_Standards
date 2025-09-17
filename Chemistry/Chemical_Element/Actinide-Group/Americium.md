@@ -50,7 +50,7 @@ UNII: VW92PHU2UY
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide-Group]]]]
+[Group:[[../Actinide-Group]]
 
 
 

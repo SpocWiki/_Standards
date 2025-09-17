@@ -105,7 +105,7 @@ ZVG_number: 8210
 #is_/same_as :: [[../../../WikiData/WD~Iron,677]] 
 
 [GroupName::Group-08-Iron]
-[Group:[[../Group-08-Iron]]]]
+[Group:[[../Group-08-Iron]]
 
 
 [Name-en::Iron]

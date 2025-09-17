@@ -70,7 +70,7 @@ ZVG_number: 8260
 #is_/same_as :: [[../../../WikiData/WD~Gallium,861]] 
 
 [GroupName::Group-13-Boron]
-[Group:[[../Group-13-Boron]]]]
+[Group:[[../Group-13-Boron]]
 
 
 [Name-en::Gallium]

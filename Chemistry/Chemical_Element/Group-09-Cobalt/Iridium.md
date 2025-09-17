@@ -60,7 +60,7 @@ ZVG_number: 8460
 #is_/same_as :: [[../../../WikiData/WD~Iridium,877]] 
 
 [GroupName::Group-09-Cobalt]
-[Group:[[../Group-09-Cobalt]]]]
+[Group:[[../Group-09-Cobalt]]
 
 
 [Name-en::Iridium]

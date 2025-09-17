@@ -18,7 +18,7 @@ aliases:
 > was an English author, humorist, and satirist, 
 > best known for his 41 comic fantasy novels set on the Discworld, 
 > and for the apocalyptic comedy novel Good Omens (1990) 
-> which he wrote wit[[../Gaiman,Neil|Neil Gaiman]]]].
+> which he wrote wit[[../Gaiman,Neil|Neil Gaiman]].
 >
 > Pratchett's first novel, The [[Carpet People]], was published in 1971. 
 > The first Discworld novel, The [[Colour of Magic]], was published in 1983, 

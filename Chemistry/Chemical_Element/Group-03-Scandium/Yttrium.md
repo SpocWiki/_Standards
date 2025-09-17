@@ -187,7 +187,7 @@ ZVG_number: 7390
 #is_/same_as :: [[../../../WikiData/WD~Yttrium,941]] 
 
 [GroupName::Group-03-Scandium]
-[Group:[[../Group-03-Scandium]]]]
+[Group:[[../Group-03-Scandium]]
 
 
 [Name-en::Yttrium]

@@ -116,7 +116,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NIKEL.
 #is_/same_as :: [[../../../WikiData/WD~Nickel,744]] 
 
 [GroupName::Group-10-Nickel]
-[Group:[[../Group-10-Nickel]]]]
+[Group:[[../Group-10-Nickel]]
 
 
 [Name-en::Nickel]

@@ -101,7 +101,7 @@ ZVG_number: 7740
 #is_/same_as :: [[../../../WikiData/WD~Tungsten,743]] 
 
 [GroupName::Group-06-Chromium]
-[Group:[[../Group-06-Chromium]]]]
+[Group:[[../Group-06-Chromium]]
 
 
 [Name-en::Tungsten]

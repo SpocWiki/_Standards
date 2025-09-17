@@ -102,7 +102,7 @@ ZVG_number: 8150
 #is_/same_as :: [[../../../WikiData/WD~Potassium,703]] 
 
 [GroupName::Group-01-Alkali]
-[Group:[[../Group-01-Alkali]]]]
+[Group:[[../Group-01-Alkali]]
 
 
 [Name-en::Potassium]

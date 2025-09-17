@@ -70,7 +70,7 @@ ZVG_number: 8340
 #is_/same_as :: [[../../../WikiData/WD~Palladium,1089]] 
 
 [GroupName::Group-10-Nickel]
-[Group:[[../Group-10-Nickel]]]]
+[Group:[[../Group-10-Nickel]]
 
 
 [Name-en::Palladium]

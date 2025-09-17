@@ -51,7 +51,7 @@ ZVG_number: 7640
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide-Group]]]]
+[Group:[[../Lanthanide-Group]]
 
 
 [Name-en::Gadolinium]

@@ -76,7 +76,7 @@ ZVG_number: 7450
 #is_/same_as :: [[../../../WikiData/WD~Rhodium,1087]] 
 
 [GroupName::Group-09-Cobalt]
-[Group:[[../Group-09-Cobalt]]]]
+[Group:[[../Group-09-Cobalt]]
 
 
 [Name-en::Rhodium]

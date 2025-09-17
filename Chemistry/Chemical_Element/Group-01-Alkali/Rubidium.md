@@ -77,7 +77,7 @@ ZVG_number: 7370
 #chemic/Element 
 
 [GroupName::Group-01-Alkali]
-[Group:[[../Group-01-Alkali]]]]
+[Group:[[../Group-01-Alkali]]
 
 
 [Name-en::Rubidium]

@@ -64,7 +64,7 @@ ZVG_number: 7760
 #is_/same_as :: [[../../../WikiData/WD~Osmium,751]] 
 
 [GroupName::Group-08-Iron]
-[Group:[[../Group-08-Iron]]]]
+[Group:[[../Group-08-Iron]]
 
 
 [Name-en::Osmium]

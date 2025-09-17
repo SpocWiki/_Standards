@@ -69,7 +69,7 @@ UNSPSC_Code: 12141742
 #is_/same_as :: [[../../../WikiData/WD~Technetium,1054]] 
 
 [GroupName::Group-07-Manganese]
-[Group:[[../Group-07-Manganese]]]]
+[Group:[[../Group-07-Manganese]]
 
 
 [Name-en::Technetium]

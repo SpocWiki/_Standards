@@ -55,7 +55,7 @@ Wikidata_property: frequency
 
 The Frequency is the number of Events within a [[../Dim~Time|Dim~Time]]- Interval. 
 
-It has the same Dimension as th[[../Angular_Dimension/Angular_Velocity]]]], 
+It has the same Dimension as th[[../Angular_Dimension/Angular_Velocity]], 
 because the Events are often completed Circles of 2*[[Pi]]. 
 
 ## [[../../../_private/Society/Communication/Media/music]] 

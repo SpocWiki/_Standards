@@ -38,7 +38,7 @@ X_username: hedislimanetwit
 
 #chemic/Element 
 [GroupName::Group-01-Alkali]
-[Group:[[../Group-01-Alkali]]]]
+[Group:[[../Group-01-Alkali]]
 
 
 [Name-en::Lithium]
