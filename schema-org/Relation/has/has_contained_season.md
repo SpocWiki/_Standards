@@ -36,7 +36,7 @@ Use it like this:
 - [ has_contained_season :: [[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]] ] 
 
 [[../../Relation|Relation]] describes that: 
-[ #has_/domain  :: [ [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]], [[../../../Society/Communication/Media/Creative_Work/TV_Series|TVSeries]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]] ] ] 
+[ #has_/domain  :: [ [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]], [[../../../Society/Communication/Media/Television/TV_Series|TVSeries]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]] ] ] 
 ( #has_/name :: has_contained_season )
 ( #has_/range :: [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]] )
 
