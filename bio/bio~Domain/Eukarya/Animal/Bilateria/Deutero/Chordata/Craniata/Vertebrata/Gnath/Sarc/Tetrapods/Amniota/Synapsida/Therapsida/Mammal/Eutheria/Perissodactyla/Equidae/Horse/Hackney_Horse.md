@@ -15,7 +15,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Hackney%20horse.jpg
 Commons_category: Hackney horse
 ---
 
-# [[Hackney-Horse]]
+# [[Hackney_Horse]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Hackney_horse,635926|WD~Hackney_horse,635926]]
 
