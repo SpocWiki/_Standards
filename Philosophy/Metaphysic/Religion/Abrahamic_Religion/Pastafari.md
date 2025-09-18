@@ -63,11 +63,16 @@ inception: 2005-01-01T00:00:00Z
 > and sightings of the Flying Spaghetti Monster, and display crafts representing images of it.
 >
 > Because of its popularity and exposure, the Flying Spaghetti Monster is often used as 
-> a more modern version of Russell's teapot—
+> a more modern version of [[Russell's_teapot]]—
 > an argument that the philosophic burden of proof lies upon those who make unfalsifiable claims, 
 > not on those who reject them. 
 > 
-> Pastafarians have engaged in disputes with creationists, including in Polk County, Florida, where they played a role in dissuading the local school board from adopting new rules on teaching evolution. Pastafarianism has received praise from the scientific community and criticism from proponents of intelligent design. There are reported to be tens of thousands of Pastafarians, primarily located in North America, Western Europe, Australia, and New Zealand.
+> Pastafarians have engaged in disputes with creationists, including in Polk County, Florida, 
+> where they played a role in dissuading the local school board from adopting new rules on teaching evolution. 
+> 
+> Pastafarianism has received praise from the scientific community and criticism from proponents of intelligent design. 
+> There are reported to be tens of thousands of Pastafarians, 
+> primarily located in North America, Western Europe, Australia, and New Zealand.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Flying%20Spaghetti%20Monster) 
 
