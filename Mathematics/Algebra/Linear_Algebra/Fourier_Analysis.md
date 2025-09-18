@@ -25,6 +25,7 @@ Commons_category: Fourier analysis
 # [[Fourier_Analysis]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fourier_analysis,1365258|WD~Fourier_analysis,1365258]] 
+#is_/similar_to :: [[Harmonic_Analysis]] 
 
 ## #has_/text_of_/abstract 
 
