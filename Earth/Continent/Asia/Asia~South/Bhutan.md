@@ -401,7 +401,7 @@ Sub-region_Name ::  [[Southern Asia]]
 ```leaflet
 id: Bhutan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bhutan/
 markerFolder: ./Bhutan/

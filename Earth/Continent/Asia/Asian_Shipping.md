@@ -12,7 +12,7 @@ type: Country
 ```leaflet
 id: Asian Shipping
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Asian_Shipping/
 markerFolder: ./Asian_Shipping/

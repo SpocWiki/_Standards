@@ -379,7 +379,7 @@ Sub-region_Name ::  [[Sub-Saharan_Africa]]
 ```leaflet
 id: Eritrea
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Eritrea//
 markerFolder: ./Eritrea//

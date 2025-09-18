@@ -18,7 +18,7 @@ Eritrea gained independence from Ethiopia in 1993 after a 30-year-long war.
 ```leaflet
 id: Eritrea and Ethiopia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: [./Eritrea//,./Ethiopia//]
 markerFolder: [./Eritrea/,./Ethiopia/]

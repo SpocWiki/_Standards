@@ -31,7 +31,7 @@ type: geo-Region
 ```leaflet
 id: Solomon~Islands~Western
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Solomon~Islands~Western/
 markerFolder: ./Solomon~Islands~Western/

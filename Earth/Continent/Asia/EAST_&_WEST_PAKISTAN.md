@@ -12,7 +12,7 @@ type: Country
 ```leaflet
 id: EAST &amp; WEST PAKISTAN
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./EAST_&amp;_WEST_PAKISTAN/
 markerFolder: ./EAST_&amp;_WEST_PAKISTAN/

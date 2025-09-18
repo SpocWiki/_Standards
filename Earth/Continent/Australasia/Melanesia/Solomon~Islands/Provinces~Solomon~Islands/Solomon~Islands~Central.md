@@ -31,7 +31,7 @@ type: geo-Region
 ```leaflet
 id: Solomon~Islands~Central
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Solomon~Islands~Central/
 markerFolder: ./Solomon~Islands~Central/

@@ -502,7 +502,7 @@ Sub-region_Name ::  [[Eastern Europe]]
 ```leaflet
 id: Ukraine
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ukraine//
 markerFolder: ./Ukraine//

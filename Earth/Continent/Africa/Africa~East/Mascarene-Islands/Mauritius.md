@@ -417,7 +417,7 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 ```leaflet
 id: Mauritius
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Mauritius//
 markerFolder: ./Mauritius//

@@ -524,7 +524,7 @@ Sub-region_Name ::  [[Southern Europe]]
 ```leaflet
 id: Serbia excluding Kosovo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Serbia//
 markerFolder: ./Serbia//

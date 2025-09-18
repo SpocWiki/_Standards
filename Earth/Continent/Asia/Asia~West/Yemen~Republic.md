@@ -344,7 +344,7 @@ I contains the Country's Provinces and Cities,
 ```leaflet
 id: Yemen, Rep.
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Yemen~Republic//
 markerFolder: ./Yemen~Republic/

@@ -81,7 +81,7 @@ For more Details, check out this Repository into this Subfolder:
 ```leaflet
 id: Oceania
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Oceania//
 markerFolder: ./Oceania/

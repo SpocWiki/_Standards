@@ -373,7 +373,7 @@ For more Details, check out this Repository into this Subfolder:
 ```leaflet
 id: South Africa
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sudan~South//
 markerFolder: ./Sudan~South//

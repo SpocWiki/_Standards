@@ -457,7 +457,7 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 ```leaflet
 id: Burkina Faso
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Burkina_Faso//
 markerFolder: ./Burkina_Faso//

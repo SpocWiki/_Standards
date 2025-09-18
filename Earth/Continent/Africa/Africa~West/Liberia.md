@@ -416,7 +416,7 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 ```leaflet
 id: Liberia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Liberia//
 markerFolder: ./Liberia//

@@ -19,7 +19,7 @@ SpocWebEntityId: {{SpocWebEntityId}}
 ```leaflet
 id: {{EnglishName}}
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./{{EnglishName}}/
 markerFolder: ./{{EnglishName}}/

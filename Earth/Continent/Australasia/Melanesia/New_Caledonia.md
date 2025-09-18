@@ -113,7 +113,7 @@ Sub-region_Name ::  [[Melanesia]]
 ```leaflet
 id: New Caledonia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./New_Caledonia//
 markerFolder: ./New_Caledonia/

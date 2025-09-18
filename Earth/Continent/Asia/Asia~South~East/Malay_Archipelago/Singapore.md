@@ -491,7 +491,7 @@ Sub-region_Name ::  [[South-eastern Asia]]
 ```leaflet
 id: Singapore
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Singapore//
 markerFolder: ./Singapore/

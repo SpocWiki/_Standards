@@ -395,7 +395,7 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 ```leaflet
 id: Sierra Leone
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sierra_Leone//
 markerFolder: ./Sierra_Leone//

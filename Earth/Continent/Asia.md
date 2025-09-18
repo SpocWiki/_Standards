@@ -155,7 +155,7 @@ Wikitribune_category: asia
 ```leaflet
 id: Asia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 defaultZoom: 3
 long: 99.0

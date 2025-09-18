@@ -550,7 +550,7 @@ Sub-region_Name ::  [[South-eastern Asia]]
 ```leaflet
 id: Thailand
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Thailand//
 markerFolder: ./Thailand/

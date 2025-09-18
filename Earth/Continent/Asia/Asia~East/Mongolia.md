@@ -436,7 +436,7 @@ Sub-region_Name ::  [[Eastern Asia]]
 ```leaflet
 id: Mongolia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Mongolia/
 markerFolder: ./Mongolia/

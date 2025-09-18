@@ -546,7 +546,7 @@ Sub-region_Name ::  [[Southern Asia]]
 ```leaflet
 id: Afghanistan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Afghanistan//
 markerFolder: ./Afghanistan/

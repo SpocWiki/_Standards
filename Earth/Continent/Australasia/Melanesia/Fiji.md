@@ -366,7 +366,7 @@ Sub-region_Name ::  [[../../../../../../Australasia/Melanesia]]
 ```leaflet
 id: Fiji
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Fiji///
 markerFolder: ./Fiji///

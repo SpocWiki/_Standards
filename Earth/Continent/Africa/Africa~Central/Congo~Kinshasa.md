@@ -575,7 +575,7 @@ For more Details, check out this Repository into this Subfolder:
 ```leaflet
 id: Congo, Dem. Rep.
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 coordinates: [[Congo~Kinshasa]]
 geojsonFolder: ./Congo~Kinshasa//

@@ -27,7 +27,7 @@ For more Details, check out this Repository into this Subfolder:
 ```leaflet
 id: Saint-Pierre-et-Miquelon
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint-Pierre-et-Miquelon//
 markerFolder: ./Saint-Pierre-et-Miquelon///

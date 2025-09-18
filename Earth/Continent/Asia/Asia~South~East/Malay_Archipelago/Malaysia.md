@@ -664,7 +664,7 @@ Sub-region_Name ::  [[South-eastern Asia]]
 ```leaflet
 id: Malaysia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Malaysia//
 markerFolder: ./Malaysia/

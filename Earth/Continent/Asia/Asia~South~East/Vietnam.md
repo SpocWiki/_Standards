@@ -598,7 +598,7 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 ```leaflet
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 id: Vietnam
 geojsonFolder: ./Vietnam//

@@ -31,7 +31,7 @@ type: geo-Region
 ```leaflet
 id: Ratak_Chain
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ratak_Chain/
 markerFolder: ./Ratak_Chain/

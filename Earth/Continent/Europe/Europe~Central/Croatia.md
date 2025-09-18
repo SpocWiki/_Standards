@@ -483,7 +483,7 @@ confidential: public
 ```leaflet
 id: Croatia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Croatia//
 markerFolder: ./Croatia//

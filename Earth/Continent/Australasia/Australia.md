@@ -1054,7 +1054,7 @@ Sub-region_Name ::  [[Australia and New Zealand]]
 ```leaflet
 id: Australia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Australia//
 markerFolder: ./Australia/

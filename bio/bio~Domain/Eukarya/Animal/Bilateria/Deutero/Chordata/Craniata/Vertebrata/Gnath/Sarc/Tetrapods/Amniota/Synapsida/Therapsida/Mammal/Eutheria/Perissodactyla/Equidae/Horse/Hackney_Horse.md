@@ -21,6 +21,15 @@ Commons_category: Hackney horse
 
 ## #has_/text_of_/abstract 
 
-> The Hackney is a recognized breed of horse that was developed in Great Britain. In recent decades, the breeding of the Hackney has been directed toward producing horses that are ideal for carriage driving. They are an elegant high stepping breed of carriage horse that is popular for showing in harness events. Hackneys possess good stamina, and are capable of trotting at high speed for extended periods of time.
+> The Hackney is a recognized breed of horse that was developed in Great Britain. 
+> 
+> In recent decades, the breeding of the Hackney has been directed toward producing 
+> horses that are ideal for carriage driving. 
+> 
+> They are an elegant high stepping breed of carriage horse 
+> that is popular for showing in harness events. 
+> 
+> Hackneys possess good stamina, 
+> and are capable of trotting at high speed for extended periods of time.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hackney%20horse)

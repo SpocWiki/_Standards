@@ -519,7 +519,7 @@ Sub-region_Name ::  [[Northern Africa]]
 ```leaflet
 id: Egypt
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Egypt//
 markerFolder: ./Egypt//

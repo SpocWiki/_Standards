@@ -53,7 +53,7 @@ coordinates: [[Saipan]]
 markerFile: [[Saipan]] 
 defaultZoom: 11 
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saipan/
 markerFolder: ./Saipan/

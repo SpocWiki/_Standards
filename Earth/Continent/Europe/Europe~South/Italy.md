@@ -739,7 +739,7 @@ The population figures are based on data from 2024. ([statta.com](https://wwwtis
 ```leaflet
 id: Italy
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Italy///
 markerFolder: ./Italy//

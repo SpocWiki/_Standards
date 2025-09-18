@@ -781,7 +781,7 @@ Population in 1000s as of @2019
 ```leaflet
 id: France
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./France//
 markerFolder: ./France//

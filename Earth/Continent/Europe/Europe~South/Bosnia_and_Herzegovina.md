@@ -381,7 +381,7 @@ confidential: public
 ```leaflet
 id: Bosnia and Herzegovina
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bosnia_and_Herzegovina//
 markerFolder: ./Bosnia_and_Herzegovina//

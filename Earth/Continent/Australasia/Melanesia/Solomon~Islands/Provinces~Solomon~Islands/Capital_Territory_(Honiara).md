@@ -31,7 +31,7 @@ type: geo-Region
 ```leaflet
 id: Capital_Territory_(Honiara)
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Capital_Territory_(Honiara)/
 markerFolder: ./Capital_Territory_(Honiara)/

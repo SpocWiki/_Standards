@@ -13,7 +13,7 @@ confidential: public
 ```leaflet
 id: Channel Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Channel-Islands/
 markerFolder: ./Channel-Islands/

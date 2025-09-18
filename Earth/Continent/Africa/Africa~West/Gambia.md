@@ -365,7 +365,7 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 ```leaflet
 id: Gambia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Gambia//
 markerFolder: ./Gambia//

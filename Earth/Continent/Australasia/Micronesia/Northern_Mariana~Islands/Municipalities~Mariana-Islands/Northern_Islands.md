@@ -31,7 +31,7 @@ type: geo-Region
 ```leaflet
 id: Northern_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Northern_Islands/
 markerFolder: ./Northern_Islands/

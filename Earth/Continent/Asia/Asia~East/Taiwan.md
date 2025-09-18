@@ -548,7 +548,7 @@ Sub-region_Name ::  "[[]]" ]
 ```leaflet
 id: Taiwan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Taiwan/
 markerFolder: ./Taiwan/

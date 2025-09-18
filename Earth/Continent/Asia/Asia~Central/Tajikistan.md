@@ -407,7 +407,7 @@ Sub-region_Name ::  [[Central Asia]]
 ```leaflet
 id: Tajikistan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Tajikistan//
 markerFolder: ./Tajikistan/

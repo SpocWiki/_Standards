@@ -1426,7 +1426,7 @@ Sub-region_Name ::  [[Southern Asia]]
 ```leaflet
 id: India
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./India/
 markerFolder: ./India/

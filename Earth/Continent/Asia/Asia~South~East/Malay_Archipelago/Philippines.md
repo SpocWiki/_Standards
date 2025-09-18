@@ -725,7 +725,7 @@ Sub-region_Name ::  [[South-eastern Asia]]
 ```leaflet
 id: Philippines
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Philippines/
 markerFolder: ./Philippines/

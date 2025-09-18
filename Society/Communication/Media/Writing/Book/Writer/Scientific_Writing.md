@@ -1,4 +1,7 @@
 
+# [[Scientific_Writing]]
+
+
 ## Taboos of Scientific Writing
 
 ### Me 
@@ -6,11 +9,6 @@
 ### Metaphor 
 
 ### Narration 
-
-
-
-
-# [[Scientific_Writing]]
 
 ## #has_/text_of_/abstract 
 

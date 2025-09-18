@@ -534,7 +534,7 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 ```leaflet
 id: South Africa
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./South_Africa//
 markerFolder: ./South_Africa//

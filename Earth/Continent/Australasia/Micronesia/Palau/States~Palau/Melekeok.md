@@ -52,7 +52,7 @@ id: Melekeok
 coordinates: [[Melekeok]] 
 markerFile: [[Melekeok]] 
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 defaultZoom: 11 
 maxZoom: 18
 geojsonFolder: ./Melekeok/

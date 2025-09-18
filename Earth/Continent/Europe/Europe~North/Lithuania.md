@@ -432,7 +432,7 @@ Sub-region_Name ::  [[Northern Europe]]
 ```leaflet
 id: Lithuania
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Lithuania//
 markerFolder: ./Lithuania//

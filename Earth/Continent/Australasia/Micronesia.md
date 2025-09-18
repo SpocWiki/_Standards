@@ -258,7 +258,7 @@ official_name: "les États fédérés de Micronésie"
 ```leaflet
 id: Micronesia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Micronesia//
 markerFolder: ./Micronesia/

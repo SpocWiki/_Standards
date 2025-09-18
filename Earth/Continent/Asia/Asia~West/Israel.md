@@ -599,7 +599,7 @@ Sub-region_Name ::  [[Western Asia]]
 ```leaflet
 id: Israel
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Israel//
 markerFolder: ./Israel///

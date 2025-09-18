@@ -828,7 +828,7 @@ with numbers as of 2023-06
 ```leaflet
 id: Germany
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Germany//
 markerFolder: ./Germany/

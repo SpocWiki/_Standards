@@ -381,7 +381,7 @@ confidential: public
 ```leaflet
 id: Andorra
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Andorra//
 markerFolder: ./Andorra//

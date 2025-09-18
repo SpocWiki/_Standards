@@ -617,7 +617,7 @@ Sub-region_Name ::  [[Southern Asia]]
 ```leaflet
 id: Iran
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Iran//
 markerFolder: ./Iran/

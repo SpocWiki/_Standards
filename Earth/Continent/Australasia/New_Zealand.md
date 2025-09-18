@@ -464,7 +464,7 @@ Sub-region_Name ::  [[Australia and New Zealand]]
 ```leaflet
 id: New Zealand
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./New_Zealand//
 markerFolder: ./New_Zealand/

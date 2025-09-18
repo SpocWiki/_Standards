@@ -412,7 +412,7 @@ For more Details, check out this Repository into this Subfolder:
 ```leaflet
 id: Cote D'ivoire
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cote_d'ivoire//
 markerFolder: ./Cote_d'ivoire//

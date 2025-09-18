@@ -681,7 +681,7 @@ Major Cities with Population in 1000s as of @2020
 ```leaflet
 id: United Kingdom
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./UK//
 markerFolder: ./UK/City/

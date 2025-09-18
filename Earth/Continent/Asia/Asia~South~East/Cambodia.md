@@ -438,7 +438,7 @@ Sub-region_Name ::  [[South-eastern Asia]]
 ```leaflet
 id: Cambodia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cambodia// 
 markerFolder: ./Cambodia/

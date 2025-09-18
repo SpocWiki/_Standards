@@ -729,7 +729,7 @@ Population @2024 in 1000s.
 ```leaflet
 id: Spain
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Spain///
 markerFolder: ./Spain/

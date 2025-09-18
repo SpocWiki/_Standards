@@ -112,7 +112,7 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 ```leaflet
 id: British Indian Ocean Territory
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./British_Indian_Ocean_Territory/
 markerFolder: ./British_Indian_Ocean_Territory/

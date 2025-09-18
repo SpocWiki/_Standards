@@ -408,7 +408,7 @@ For more Details, check out this Repository into this Subfolder:
 ```leaflet
 id: Central African Rep.
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Central_African_Rep//
 markerFolder: ./Central_African_Rep//

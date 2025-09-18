@@ -412,7 +412,7 @@ Sub-region_Name ::  [[Central Asia]]
 ```leaflet
 id: Kyrgyzstan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kyrgyzstan//
 markerFolder: ./Kyrgyzstan/

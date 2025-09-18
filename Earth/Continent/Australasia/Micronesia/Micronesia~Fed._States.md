@@ -263,7 +263,7 @@ Krugosvet_article: strany_mira/MIKRONEZIYA.html
 ```leaflet
 id: Micronesia, Fed. States
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Micronesia~Fed._States/////
 markerFolder: ./Micronesia~Fed._States/

@@ -417,7 +417,7 @@ Sub-region_Name ::  [[Western Asia]]
 ```leaflet
 id: Syria
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Syria//
 markerFolder: ./Syria/

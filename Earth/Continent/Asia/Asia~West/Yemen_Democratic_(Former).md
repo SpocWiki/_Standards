@@ -12,7 +12,7 @@ type: Country
 ```leaflet
 id: Yemen Democratic (Former)
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Yemen_Democratic_(Former)/
 markerFolder: ./Yemen_Democratic_(Former)/

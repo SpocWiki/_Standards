@@ -31,7 +31,7 @@ type: geo-Region
 ```leaflet
 id: Rotuma
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Rotuma/
 markerFolder: ./Rotuma/

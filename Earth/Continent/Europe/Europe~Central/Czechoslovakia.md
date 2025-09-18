@@ -203,7 +203,7 @@ confidential: public
 ```leaflet
 id: Czechoslovakia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Czechoslovakia/
 markerFolder: ./Czechoslovakia/

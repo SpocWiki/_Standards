@@ -439,7 +439,7 @@ Sub-region_Name ::  [[Southern Europe]]
 ```leaflet
 id: Montenegro
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Montenegro//
 markerFolder: ./Montenegro//

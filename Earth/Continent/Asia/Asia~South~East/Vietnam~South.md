@@ -15,7 +15,7 @@ type: Country
 ```leaflet
 id: South Vietnam
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Vietnam~South/
 markerFolder: ./Vietnam~South/

@@ -421,7 +421,7 @@ Sub-region_Name ::  [[Southern Asia]]
 ```leaflet
 id: Sri Lanka
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sri_Lanka//
 markerFolder: ./Sri_Lanka//

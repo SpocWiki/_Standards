@@ -474,7 +474,7 @@ Sub-region_Name ::  [[Melanesia]]
 ```leaflet
 id: Vanuatu
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Vanuatu/
 markerFolder: ./Vanuatu/

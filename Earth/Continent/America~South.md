@@ -137,7 +137,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_South_America,7112458]]'
 ```leaflet
 id: South America
 defaultZoom: 3 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 long: -65
 lat: -25

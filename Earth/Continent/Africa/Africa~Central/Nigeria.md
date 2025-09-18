@@ -996,7 +996,7 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 ```leaflet
 id: Nigeria
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 coordinates: [[Nigeria]]
 geojsonFolder: ./Nigeria//

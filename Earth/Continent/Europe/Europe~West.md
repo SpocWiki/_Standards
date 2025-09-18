@@ -13,7 +13,7 @@ into more manageable Groups.
 ```leaflet
 id: Austria
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Europe~West///
 markerFolder: ./Europe~West///

@@ -12,7 +12,7 @@ type: Country
 ```leaflet
 id: FRENCH WEST AFRICA
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./FRENCH_WEST_AFRICA/
 markerFolder: ./FRENCH_WEST_AFRICA/

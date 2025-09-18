@@ -605,7 +605,7 @@ Sub-region_Name ::  [[Eastern Europe]]
 ```leaflet
 id: Hungary
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Hungary//
 markerFolder: ./Hungary///

@@ -209,7 +209,7 @@ Sub-region_Name ::  [[Northern Africa]]
 ```leaflet
 id: Western Sahara
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Western_Sahara//
 markerFolder: ./Western_Sahara//

@@ -87,7 +87,7 @@ Wolfram_Language_entity_type: Element
 
 ### [Group-16-Chalcogene](Chemical_Element/Group-16-Chalcogene.md)
 
-### [Group-17-Halogene](Chemical_Element/Group-17-Halogene.md)
+### [Group-17-Halogen](Chemical_Element/Group-17-Halogen.md)
 
 ### [Group-18-Nobel-Gases](Chemical_Element/Group-18-Nobel-Gases.md)
 

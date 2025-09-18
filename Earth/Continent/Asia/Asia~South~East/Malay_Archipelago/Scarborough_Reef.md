@@ -52,7 +52,7 @@ type: geo-Region
 ```leaflet
 id: Scarborough_Reef
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Scarborough_Reef/
 markerFolder: ./Scarborough_Reef/

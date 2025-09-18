@@ -31,7 +31,7 @@ type: geo-Region
 ```leaflet
 id: Kayangel
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kayangel/
 markerFolder: ./Kayangel/

@@ -103,7 +103,7 @@ Sub-region_Name ::  [[Eastern Asia]]
 ```leaflet
 id: Macau
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Macau/
 markerFolder: ./Macau/

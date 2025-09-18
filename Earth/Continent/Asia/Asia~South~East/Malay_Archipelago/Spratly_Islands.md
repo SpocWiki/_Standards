@@ -31,7 +31,7 @@ type: geo-Region
 ```leaflet
 id: Spratly_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Spratly_Islands/
 markerFolder: ./Spratly_Islands/

@@ -770,7 +770,7 @@ into the Subfolder `USA` so this Link can be resolved: [[USA/ReadMe]]
 ```leaflet
 id: United States of America
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./USA//
 markerFolder: ./USA/

@@ -515,7 +515,7 @@ Sub-region_Name ::  [[Eastern Europe]]
 ```leaflet
 id: Romania
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Romania//
 markerFolder: ./Romania//

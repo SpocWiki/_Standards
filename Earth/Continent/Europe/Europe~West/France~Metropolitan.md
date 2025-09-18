@@ -12,7 +12,7 @@ type: Country
 ```leaflet
 id: France, Metropolitan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./France~Metropolitan/
 markerFolder: ./France~Metropolitan/

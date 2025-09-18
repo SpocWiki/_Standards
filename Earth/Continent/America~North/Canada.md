@@ -669,7 +669,7 @@ Major Cities with Population in 1000s as of @2021
 ```leaflet
 id: Canada
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Canada//
 markerFolder: ./Canada/

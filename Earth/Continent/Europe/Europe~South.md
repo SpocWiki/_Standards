@@ -12,7 +12,7 @@ Southern Europe is commonly associated with the countries at the Mediterranean S
 ```leaflet
 id: Austria
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Europe~South//
 markerFolder: ./Europe~South///

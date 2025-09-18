@@ -513,7 +513,7 @@ Sub-region_Name ::  [[Northern Africa]]
 ```leaflet
 id: Morocco
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Morocco//
 markerFolder: ./Morocco//

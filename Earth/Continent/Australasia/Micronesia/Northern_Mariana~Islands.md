@@ -114,7 +114,7 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 ```leaflet
 id: Northern Mariana Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Northern_Mariana_Islands/
 markerFolder: ./Northern_Mariana_Islands/

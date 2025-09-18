@@ -208,7 +208,7 @@ Wolfram_Language_entity_code: "Entity[\"GeographicRegion\", \"Africa\"]"
 
 ```leaflet
 id: Africa
-minZoom: 2 
+minZoom: 4 
 defaultZoom: 3
 maxZoom: 18
 geojsonFolder: ./Africa/

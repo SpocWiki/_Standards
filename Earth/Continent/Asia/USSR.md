@@ -18,7 +18,7 @@ type: Country
 ```leaflet
 id: USSR
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Russia~Asia//
 markerFolder: ./Russia~Asia//

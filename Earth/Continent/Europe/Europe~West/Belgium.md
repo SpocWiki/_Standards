@@ -504,7 +504,7 @@ coordinates_of_westernmost_point: Point(2.545269566 51.089449723)
 ```leaflet
 id: Belgium
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Belgium//
 markerFolder: ./Belgium//

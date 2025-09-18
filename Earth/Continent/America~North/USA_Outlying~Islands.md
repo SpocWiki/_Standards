@@ -101,7 +101,7 @@ Sub-region_Name :: [[../Australasia/Micronesia]]]
 ```leaflet
 id: USA minor outlying Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./USA_Outlying~Islands/
 markerFolder: ./USA_Outlying~Islands/

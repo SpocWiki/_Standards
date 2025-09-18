@@ -31,7 +31,7 @@ type: geo-Region
 ```leaflet
 id: Railik_Chain
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Railik_Chain/
 markerFolder: ./Railik_Chain/

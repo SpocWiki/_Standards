@@ -53,7 +53,7 @@ coordinates: [[Yaren]]
 markerFile: [[Yaren]] 
 defaultZoom: 11 
 zoomFeatures: false 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Yaren/
 markerFolder: ./Yaren/

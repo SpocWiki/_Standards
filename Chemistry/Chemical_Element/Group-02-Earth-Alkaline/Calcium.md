@@ -137,7 +137,7 @@ ZVG_number: 8160
 > though their chemistry was unknown until the seventeenth century. 
 > 
 > Pure calcium was isolated in 1808 via electrolysis of its oxide 
-> by [[../Group-17-Halogene/Davy,Humphry]], who named the element. 
+> by [[../Group-17-Halogen/Davy,Humphry]], who named the element. 
 > 
 > Calcium compounds are widely used in many industries: 
 > in foods and pharmaceuticals for calcium supplementation, 

@@ -489,7 +489,7 @@ Sub-region_Name ::  [[Eastern Europe]]
 ```leaflet
 id: Belarus
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Belarus//
 markerFolder: ./Belarus//

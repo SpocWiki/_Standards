@@ -31,7 +31,7 @@ type: geo-Region
 ```leaflet
 id: Brunei_and_Muara
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Brunei_and_Muara/
 markerFolder: ./Brunei_and_Muara/

@@ -19,7 +19,7 @@ has_id_wikidata: Q7259
 > proposed mechanical general-purpose computer, the Analytical Engine. 
 > She was the first to recognise that the machine had applications beyond pure calculation.
 >
-> Lovelace was the only legitimate child of poet [[../../../Society/Communication/Media/Writing/Book/Writer/Byron,Lord|Lord Byron]] 
+> Lovelace was the only legitimate child of poet [[../../../Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord|Lord Byron]] 
 > and reformer Anne Isabella Milbanke. 
 > 
 > All her half-siblings, Lord Byron's other children, 

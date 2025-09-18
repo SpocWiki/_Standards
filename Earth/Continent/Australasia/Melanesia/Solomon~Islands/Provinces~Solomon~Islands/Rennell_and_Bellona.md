@@ -31,7 +31,7 @@ type: geo-Region
 ```leaflet
 id: Rennell_and_Bellona
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Rennell_and_Bellona/
 markerFolder: ./Rennell_and_Bellona/

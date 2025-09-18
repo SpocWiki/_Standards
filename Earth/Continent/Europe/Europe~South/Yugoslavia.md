@@ -41,7 +41,7 @@ these major Groups were fighting and splitting after the Yugoslav Wars
 ```leaflet
 id: Yugoslavia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Serbia//
 markerFolder: ./Serbia//

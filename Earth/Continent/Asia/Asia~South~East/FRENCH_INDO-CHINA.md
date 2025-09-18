@@ -12,7 +12,7 @@ type: Country
 ```leaflet
 id: FRENCH INDO-CHINA
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./FRENCH_INDO-CHINA/
 markerFolder: ./FRENCH_INDO-CHINA/

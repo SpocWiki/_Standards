@@ -570,7 +570,7 @@ Sub-region_Name ::  [[Northern Europe]]
 ```leaflet
 id: Norway
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Norway/
 markerFolder: ./Norway//

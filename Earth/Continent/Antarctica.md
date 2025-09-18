@@ -117,7 +117,7 @@ There is also an (inofficial) [Country~Antarctica](Antarctica/Country~Antarctica
 ```leaflet
 id: Antarctica
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Antarctica/
 markerFolder: ./Antarctica/

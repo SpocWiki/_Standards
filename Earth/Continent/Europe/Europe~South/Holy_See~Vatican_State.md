@@ -13,7 +13,7 @@ type: Country
 ```leaflet
 id: Holy See (Vatican State)
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Holy_See_(Vatican_State)/
 markerFolder: ./Holy_See_(Vatican_State)/

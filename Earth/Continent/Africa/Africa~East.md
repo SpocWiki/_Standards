@@ -38,7 +38,7 @@ aliases:
 
 ```leaflet
 id: Africa~East
-minZoom: 2 
+minZoom: 4 
 defaultZoom: 3
 maxZoom: 18
 geojsonFolder: ./Africa~East/

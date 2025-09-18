@@ -455,7 +455,7 @@ Sub-region_Name ::  [[Central Asia]]
 ```leaflet
 id: Kazakhstan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kazakhstan//
 markerFolder: ./Kazakhstan/

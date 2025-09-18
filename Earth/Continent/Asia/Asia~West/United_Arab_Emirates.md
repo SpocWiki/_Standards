@@ -528,7 +528,7 @@ Sub-region_Name ::  [[Western Asia]]
 ```leaflet
 id: United Arab Emirates
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./United_Arab_Emirates//
 markerFolder: ./United_Arab_Emirates/

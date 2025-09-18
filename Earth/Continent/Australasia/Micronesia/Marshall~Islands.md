@@ -355,7 +355,7 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 ```leaflet
 id: Marshall Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 defaultZoom: 11
 maxZoom: 18
 geojsonFolder: ./Marshall~Islands///

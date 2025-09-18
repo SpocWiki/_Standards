@@ -738,7 +738,7 @@ EXCLUDING_THE_RUYUKU_ISLANDS
 ```leaflet
 id: Japan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Japan/
 markerFolder: ./Japan/

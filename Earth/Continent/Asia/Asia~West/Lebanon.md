@@ -439,7 +439,7 @@ Sub-region_Name ::  [[Western Asia]]
 ```leaflet
 id: Lebanon
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Lebanon//
 markerFolder: ./Lebanon/

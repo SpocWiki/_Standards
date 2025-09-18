@@ -439,7 +439,7 @@ confidential: public
 ```leaflet
 id: Cyprus
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cyprus//
 markerFolder: ./Cyprus//

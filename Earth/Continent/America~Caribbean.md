@@ -12,7 +12,7 @@ For more Details, check out this Repository into this Subfolder:
 ```leaflet
 id: Puerto Rico
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./America~Caribbean//
 markerFolder: ./America~Caribbean/

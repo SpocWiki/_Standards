@@ -315,7 +315,7 @@ Sub-region_Name ::  [[Polynesia]]
 ```leaflet
 id: Tuvalu
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Tuvalu/
 markerFolder: ./Tuvalu/

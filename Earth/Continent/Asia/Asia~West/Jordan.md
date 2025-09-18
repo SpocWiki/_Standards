@@ -407,7 +407,7 @@ Sub-region_Name ::  [[Western Asia]]
 ```leaflet
 id: Jordan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Jordan//
 markerFolder: ./Jordan/

@@ -120,7 +120,7 @@ Sub-region_Name ::  [[Western Asia]]
 ```leaflet
 id: Azerbaijan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Azerbaijan///
 markerFolder: ./Azerbaijan/

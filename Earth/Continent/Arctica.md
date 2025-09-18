@@ -8,7 +8,7 @@ than in this cylindrical Projection:
 ```leaflet
 id: Arctica
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Arctica/
 markerFolder: ./Arctica/

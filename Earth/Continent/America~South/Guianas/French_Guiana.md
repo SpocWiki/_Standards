@@ -117,7 +117,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 ```leaflet
 id: French Guiana
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./French_Guiana/
 markerFolder: ./French_Guiana/

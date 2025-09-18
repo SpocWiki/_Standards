@@ -509,7 +509,7 @@ Sub-region_Name ::  [[Southern Asia]]
 ```leaflet
 id: Bangladesh
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bangladesh/
 markerFolder: ./Bangladesh/

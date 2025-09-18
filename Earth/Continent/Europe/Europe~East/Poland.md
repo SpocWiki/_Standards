@@ -689,7 +689,7 @@ Population in 1000s as of @2024
 ```leaflet
 id: Poland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Poland//
 markerFolder: ./Poland//

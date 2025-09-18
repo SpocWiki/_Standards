@@ -325,7 +325,7 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 ```leaflet
 id: Nauru
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Nauru//
 markerFolder: ./Nauru/

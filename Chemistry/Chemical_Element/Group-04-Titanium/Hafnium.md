@@ -66,12 +66,13 @@ vapor_pressure: 0
 ZVG_number: 7720
 ---
 
+# [[Hafnium]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Hafnium,1119]] 
 
 [GroupName::Group-04-Titanium]
 [Group:[[../Group-04-Titanium]]
-
 
 [Name-en::Hafnium]
 [Name-de::Hafnium]
@@ -94,6 +95,7 @@ ZVG_number: 7720
 []
 (Charge-e::72)
 
+#is_/same_as :: [[../../../WikiData/WD~Hafnium,1119|WD~Hafnium,1119]] 
 
 ## #has_/text_of_/abstract 
 

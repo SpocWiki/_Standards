@@ -289,7 +289,7 @@ which now largely represents Europe.
 id: Europe
 zoomFeatures: true 
 defaultZoom: 4
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 long = 0
 lat = 50

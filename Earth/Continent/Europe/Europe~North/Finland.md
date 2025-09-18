@@ -655,7 +655,7 @@ Sub-region_Name ::  [[Northern Europe]]
 ```leaflet
 id: Finland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Finland/////
 markerFolder: ./Finland/

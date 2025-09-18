@@ -18,7 +18,7 @@ type: Country
 ```leaflet
 id: Tanganyika
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Tanganyika//
 markerFolder: ./Tanganyika//

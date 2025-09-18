@@ -464,7 +464,7 @@ Sub-region_Name ::  [[Western Asia]]
 ```leaflet
 id: Iraq
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Iraq//
 markerFolder: ./Iraq/

@@ -522,7 +522,7 @@ For more Details, check out this Repository into this Subfolder:
 ```leaflet
 id: Korea, Dem. Rep.
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Korea~North/
 markerFolder: ./Korea~North/

@@ -118,7 +118,7 @@ Sub-region_Name ::  [[South-eastern Asia]]
 ```leaflet
 id: Myanmar
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Myanmar//
 markerFolder: ./Myanmar/

@@ -114,7 +114,7 @@ has_place_country:: [[UK]]
 ```leaflet
 id: Gibraltar
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Gibraltar/
 markerFolder: ./Gibraltar/

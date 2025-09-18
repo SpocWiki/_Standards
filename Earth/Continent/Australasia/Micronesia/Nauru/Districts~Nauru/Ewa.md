@@ -30,7 +30,7 @@ type: geo-Region
 ```leaflet
 id: Ewa
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ewa/
 markerFolder: ./Ewa/

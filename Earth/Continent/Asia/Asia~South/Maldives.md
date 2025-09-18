@@ -372,7 +372,7 @@ Sub-region_Name ::  [[Southern Asia]]
 ```leaflet
 id: Maldives
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Maldives/
 markerFolder: ./Maldives/

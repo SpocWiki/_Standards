@@ -108,7 +108,7 @@ Sub-region_Name ::  [[Northern Europe]]
 ```leaflet
 id: Åland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Åland-Islands////
 markerFolder: ./Åland-Islands//

@@ -35,15 +35,18 @@ Wolfram_Language_entity_code: Entity["FoodType", "Ham"]
 Commons_category: Ham (food)
 ---
 
-
 # [[Ham]]
 
-#is_/same_as :: [[wd Ham]]
+#is_/same_as :: [[../../../../../../WikiData/WD~Ham,170486|WD~Ham,170486]] 
 
 ## #has_/text_of_/abstract 
 
-> **Ham** is pork from a leg cut that has been preserved by wet or dry curing, with or without smoking. As a processed meat, the term ham includes both whole cuts of meat and ones that have been mechanically formed.
+> **Ham** is pork from a leg cut that has been preserved by wet or dry curing, with or without smoking. 
+> As a processed meat, the term ham includes both whole cuts of meat 
+> and ones that have been mechanically formed.
 >
-> Ham is made around the world, including a number of regional specialties. In addition, numerous ham products have specific geographical naming protection.
+> Ham is made around the world, including a number of regional specialties. 
+> In addition, numerous ham products have specific geographical naming protection.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ham)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ham) 
+

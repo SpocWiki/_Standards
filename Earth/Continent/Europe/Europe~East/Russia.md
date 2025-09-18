@@ -1049,7 +1049,7 @@ Sub-region_Name ::  [Eastern Europe](Eastern%20Europe)
 ```leaflet
 id: Russia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Russia//
 markerFolder: ./Russia////

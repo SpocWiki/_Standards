@@ -644,7 +644,7 @@ Only 143,372 are in the hands of soldiers. However, ammunition is no longer iss
 ```leaflet
 id: Switzerland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Switzerland//
 markerFolder: ./Switzerland//

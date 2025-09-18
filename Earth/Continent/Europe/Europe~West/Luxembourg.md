@@ -454,7 +454,7 @@ Sub-region_Name ::  [[Western Europe]]
 ```leaflet
 id: Luxembourg
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Luxembourg/
 markerFolder: ./Luxembourg//

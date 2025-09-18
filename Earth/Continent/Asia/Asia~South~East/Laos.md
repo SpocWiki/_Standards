@@ -457,7 +457,7 @@ Sub-region_Name ::  [[South-eastern Asia]]
 ```leaflet
 id: Laos
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Laos//
 markerFolder: ./Laos/

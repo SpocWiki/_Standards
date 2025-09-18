@@ -12,7 +12,7 @@ type: Country
 ```leaflet
 id: FRENCH EQUATORIAL AFRICA
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./FRENCH_EQUATORIAL_AFRICA/
 markerFolder: ./FRENCH_EQUATORIAL_AFRICA/

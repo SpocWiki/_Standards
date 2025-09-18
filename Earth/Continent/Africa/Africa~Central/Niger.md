@@ -429,7 +429,7 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 ```leaflet
 id: Niger
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 coordinates: [[Niger]]
 geojsonFolder: ./Niger//

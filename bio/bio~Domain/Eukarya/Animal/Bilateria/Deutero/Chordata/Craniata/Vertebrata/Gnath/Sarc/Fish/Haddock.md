@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Haddock
+  - Schellfisch
 has_id_wikidata: Q202406
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Vulnerable,278113]]"
 subclass_of: "[[_Standards/WikiData/WD~fish_as_food,600396]]"
@@ -54,14 +54,25 @@ EPPO_Code: MGRMAE
 NBN_System_Key: NBNSYS0000176397
 ---
 
-
 # [[Haddock]]
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Haddock,202406|WD~Haddock,202406]]
 
-
 ## #has_/text_of_/abstract 
 
-> The **Haddock** (Melanogrammus aeglefinus) is a saltwater ray-finned fish from the family Gadidae, the true cods. It is the only species in the monotypic genus Melanogrammus. It is found in the North Atlantic Ocean and associated seas, where it is an important species for fisheries, especially in northern Europe, where it is marketed fresh, frozen and smoked; smoked varieties include the Finnan haddie and the Arbroath smokie.  Other smoked versions include long boneless, the fileted side of larger haddock smoked in oak chips with the skin left on the fillet.
+> The **Haddock** (Melanogrammus aeglefinus) is a saltwater ray-finned fish 
+> from the family Gadidae, the true cods. 
+> 
+> It is the only species in the monotypic genus Melanogrammus. 
+> 
+> It is found in the North Atlantic Ocean and associated seas, 
+> where it is an important species for fisheries, especially in northern Europe, 
+> where it is marketed fresh, frozen and smoked. 
+> 
+> Smoked varieties include the Finnan haddie and the Arbroath smokie.  
+> 
+> Other smoked versions include long boneless, 
+> the fileted side of larger haddock smoked in oak chips with the skin left on the fillet.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Haddock)
+> [Wikipedia](https://en.wikipedia.org/wiki/Haddock) 
+

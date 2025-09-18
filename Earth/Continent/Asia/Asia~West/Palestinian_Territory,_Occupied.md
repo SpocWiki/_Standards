@@ -15,7 +15,7 @@ type: Country
 ```leaflet
 id: Palestinian Territory, Occupied
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Palestinian_Territory,_Occupied//
 markerFolder: ./Palestinian_Territory,_Occupied/

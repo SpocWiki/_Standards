@@ -652,7 +652,7 @@ Sub-region_Name ::  [[Southern Europe]]
 ```leaflet
 id: Slovenia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Slovenia//
 markerFolder: ./Slovenia//

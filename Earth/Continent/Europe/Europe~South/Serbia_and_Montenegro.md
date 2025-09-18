@@ -15,7 +15,7 @@ type: Country
 ```leaflet
 id: Serbia and Montenegro
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Serbia_and_Montenegro/
 markerFolder: ./Serbia_and_Montenegro/

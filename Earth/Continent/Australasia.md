@@ -22,7 +22,7 @@ to separate [[Oceania/Polynesia]] out to the Pacific-based [[Oceania]].
 
 ```leaflet
 id: Australia
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 defaultZoom: 3
 geojsonFolder: ./Australasia//

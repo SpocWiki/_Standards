@@ -69,7 +69,7 @@ aliases:
 > Le Guin influenced many other authors, including 
 > - Booker Prize winner Salman Rushdie, 
 > - David Mitchell, 
-> -[[../../../Media/Writing/Book/Writer/Gaiman,Neil|Neil Gaiman]]], and 
+> -[[../../../Media/Writing/Book/Writer/English_Writer/Gaiman,Neil|Neil Gaiman]]], and 
 > - Iain Banks. 
 > 
 > After her death in 2018, critic John Clute wrote that 

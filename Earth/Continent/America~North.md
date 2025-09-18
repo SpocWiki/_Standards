@@ -133,7 +133,7 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "NorthAmerica"]
 
 ```leaflet
 id: North-America
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 defaultZoom: 4
 geojsonFolder: ./America~North/

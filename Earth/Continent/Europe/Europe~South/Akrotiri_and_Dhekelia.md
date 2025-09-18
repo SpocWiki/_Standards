@@ -15,7 +15,7 @@ type: Country
 ```leaflet
 id: Akrotiri and Dhekelia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Akrotiri_and_Dhekelia/
 markerFolder: ./Akrotiri_and_Dhekelia/

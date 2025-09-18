@@ -114,7 +114,7 @@ Sub-region_Name ::  [[Melanesia]]
 ```leaflet
 id: Solomon Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Solomon_Islands/
 markerFolder: ./Solomon_Islands/

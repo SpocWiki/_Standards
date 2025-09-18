@@ -253,7 +253,7 @@ For more Details, check out this Repository into this Subfolder:
 ```leaflet
 id: Sao Tome And Principe
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sao_Tome_and_Principe//
 markerFolder: ./Sao_Tome_and_Principe//

@@ -352,7 +352,7 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 ```leaflet
 id: Palau
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Palau/
 markerFolder: ./Palau/
