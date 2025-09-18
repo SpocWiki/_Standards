@@ -27,7 +27,7 @@ markerFolder: ./Rhodesia-Nyasaland//
 [Area-Land::]
 has_place_continent:: [[Africa]]  
 [VehicleCode::]
-Capital :: [[Harare]]  
+Capital :: [[Zimbabwe/Provinces~Zimbabwe/Harare,Province]]  
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  

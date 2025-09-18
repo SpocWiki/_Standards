@@ -417,10 +417,13 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 716 ]
 
-
-
 [ISO2::ZW]
 [ISO3::ZWE]
+
+#is_/same_as :: [[../../../../WikiData/WD~Zimbabwe,954|WD~Zimbabwe,954]] 
+
+## #has_/map 
+
 ```leaflet
 id: Zimbabwe
 zoomFeatures: true 
@@ -443,7 +446,7 @@ markerFolder: ./Zimbabwe//
 [Area-Land::386850]
 has_place_continent:: [[Africa]]  
 [VehicleCode::ZW]
-Capital :: [[Harare]]  
+Capital :: [[Zimbabwe/Provinces~Zimbabwe/Harare,Province]]  
 [Alcohol-l::5.1]
 [Language-Id::499]
 #is_a_/Place  
