@@ -28,6 +28,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RASTAFARIANSTVO.html
 
 # [[Rastafari]] 
 
+#is_/different_from :: [[Pastafari]] 
 #is_/same_as :: [[_Standards/WikiData/WD~Rastafari,101462]] 
 
 ## #has_/text_of_/abstract 
@@ -74,7 +75,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RASTAFARIANSTVO.html
 > Enthusiasm for Rastafari declined in the 1980s, following the deaths of Haile Selassie and Marley, 
 > but the movement survived and has a presence in many parts of the world.
 >
-> The Rastafari movement is decentralised and organised on a largely sectarian basis. There are several denominations, or "Mansions of Rastafari", the most prominent of which are the Nyahbinghi, Bobo Ashanti, and the Twelve Tribes of Israel, each offering a different interpretation of Rastafari belief. There are an estimated 700,000 to one million Rastafari across the world. The largest population is in Jamaica, although small communities can be found in most of the world's major population centres. Most Rastafari are of African descent, and some groups accept only black members, but non-black groups have also emerged.
+> The Rastafari movement is decentralised and organised on a largely sectarian basis. 
+> There are several denominations, or "Mansions of Rastafari", 
+> the most prominent of which are the Nyahbinghi, Bobo Ashanti, and the Twelve Tribes of Israel, 
+> each offering a different interpretation of Rastafari belief. 
+> 
+> There are an estimated 700,000 to one million Rastafari across the world. 
+> The largest population is in Jamaica, 
+> although small communities can be found in most of the world's major population centres. 
+> 
+> Most Rastafari are of African descent, and some groups accept only black members, 
+> but non-black groups have also emerged.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rastafari) 
 
