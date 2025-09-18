@@ -298,7 +298,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Guyana/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: GYD ]
 [	ISO4217-currency_name	 :: Guyana Dollar ]
 [	ISO4217-currency_numeric	 :: 328 ]
@@ -369,13 +368,10 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 ## #has_/map  
 
-
-
-
 ```leaflet
 id: Guyana
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Guyana//
 markerFolder: ./Guyana/
