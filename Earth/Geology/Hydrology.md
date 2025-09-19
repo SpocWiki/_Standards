@@ -52,13 +52,15 @@ Gujarati_Vishwakosh_entry: જળવિદ્યા-અને-જળસ્રો
 
 # [[Hydrology]] 
 
+#has_/study_subject :: [[../Hydrosphere]]  
 #is_/same_as :: [[../../WikiData/WD~Hydrology,42250|WD~Hydrology,42250]] 
 
 ## #has_/text_of_/abstract 
 
 > **hydrology** (from Ancient Greek  ὕδωρ (húdōr) 'water' and  -λογία (-logía) 'study of') 
-> is the scientific study of the movement, distribution, and management of water on Earth 
-> and other planets, including the water cycle, water resources, and drainage basin sustainability. 
+> is the scientific study of the movement, distribution, 
+> and management of water on Earth and other planets, including the water cycle, 
+> water resources, and drainage basin sustainability. 
 > 
 > A practitioner of hydrology is called a hydrologist. 
 > Hydrologists are scientists studying earth or environmental science, 

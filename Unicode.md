@@ -33,7 +33,7 @@
 > 
 > The Unicode Standard itself defines three encodings: UTF-8, UTF-16, and UTF-32, though several others exist. 
 > Of these, UTF-8 is the most widely used by a large margin, 
-> due to its backwards-compatibility with ASCII and its space-conservation for [[Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en|English]] Text and [[Base64]] .
+> due to its backwards-compatibility with ASCII and its space-conservation for [[Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng|English]] Text and [[Base64]] .
 > Before that [[Latin1]] was the most common [[Technology/IT/Data/Code/Encoding]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Unicode)
