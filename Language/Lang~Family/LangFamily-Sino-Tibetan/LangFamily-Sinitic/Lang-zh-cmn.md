@@ -72,8 +72,6 @@ WALS_lect_code: mnd
 writing_system: '[[_Standards/WikiData/WD~Chinese_characters,8201]]'
 ---
 
-﻿
- 
 # [[Lang-zh-cmn]] 
 
 [SpocWebEntityId:: 485 ]
@@ -94,6 +92,7 @@ writing_system: '[[_Standards/WikiData/WD~Chinese_characters,8201]]'
 #has_/name_/en_ :: Mandarin 
 #has_/name_/de_ :: Mandarin    
 
+#is_/same_as :: [[../../../../WikiData/WD~Mandarin,9192|WD~Mandarin,9192]]  
 
 ## #has_/text_of_/abstract  
 

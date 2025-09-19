@@ -62,7 +62,7 @@ writing_system:
 ---
 
 ﻿
- # [[Lang-hi]] 
+ # [[Lang-hin]] 
 
 
 [SpocWebEntityId:: 246 ]

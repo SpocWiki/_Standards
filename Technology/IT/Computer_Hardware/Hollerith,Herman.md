@@ -47,7 +47,6 @@ date_of_death: 1929-11-17T00:00:00Z
 
 #is_/same_as ::  [[../../../WikiData/WD~Herman_Hollerith,192145|WD~Herman_Hollerith,192145]]  
 
-
 ## #has_/text_of_/abstract 
 
 > Herman Hollerith (February 29, 1860 – November 17, 1929) was a German-American statistician, 

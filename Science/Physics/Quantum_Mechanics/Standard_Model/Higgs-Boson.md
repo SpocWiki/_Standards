@@ -3,6 +3,7 @@ aliases:
   - Higgs-Boson
   - Higgs Boson
   - Higgs particle
+  - Higgs_Boson
 has_id_wikidata: Q402
 theorized_by:
   - "[[_Standards/WikiData/WD~François_Englert,151746]]"
@@ -59,7 +60,6 @@ Commons_category: Higgs boson
 time_of_discovery_or_invention: 2012-01-01T00:00:00Z
 ---
 
-
 # [[Higgs-Boson]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Higgs_boson,402|WD~Higgs_boson,402]] 
@@ -73,7 +73,6 @@ time_of_discovery_or_invention: 2012-01-01T00:00:00Z
 | Charm quark (cc)   |         1.28 | GeV  |              7.36×10^-3 |                      2,503 |
 | Bottom quark (bb)  |         4.18 | GeV  |              2.40×10^-2 |                      8,150 |
 | Top quark (tt)     |        172.8 | GeV  |                0.99 ≈ 1 |                    337,000 |
-
 
 ## #has_/text_of_/abstract 
 
