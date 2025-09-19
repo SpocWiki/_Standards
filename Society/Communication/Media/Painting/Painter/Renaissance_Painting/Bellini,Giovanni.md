@@ -199,7 +199,7 @@ ISNI: "0000000114532217"
 Europeana_entity: agent/base/62238
 ---
 
-# [[Giovanni_Bellini]] 
+# [[Bellini,Giovanni]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Giovanni_Bellini,17169|WD~Giovanni_Bellini,17169]] 
 ## #has_/text_of_/abstract 

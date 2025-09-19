@@ -277,8 +277,12 @@ work_location:
 - '[[_Standards/WikiData/WD~Nice,33959]]'
 ---
 
+# [[Matisse,Henri]] 
+
 #has_/time_/started :: 1869-12-31 
 #has_/time_/started :: 1954-11-03
+
+#is_/same_as :: [[../../../../../WikiData/WD~Henri_Matisse,5589|WD~Henri_Matisse,5589]] 
 
 ## #has_/text_of_/abstract 
 

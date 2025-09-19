@@ -89,7 +89,7 @@ Unicode_character:
 
 # [[Tiger]]
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Tiger,19939|WD~Tiger,19939]]
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tiger,19939|WD~Tiger,19939]]
 
 
 ## #has_/text_of_/abstract 

@@ -1,50 +1,82 @@
 ---
 aliases:
-- Hexapoda
+  - Hexapoda
 has_id_wikidata: Q105146
 title: Hexapoda
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+parent_taxon: "[[_Standards/WikiData/WD~Allotriocarida,81196012]]"
+start_time: -440000000-01-01T00:00:00Z
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
+Commons_category: Hexapoda
+taxon_name: Hexapoda
+ITIS_TSN: "563886"
+taxon_common_name:
+  - hexápodos
+  - Sechsfüßer
+  - سداسيات الأرجل
+  - Altıayaqlılar
+  - Шасціногія
+  - Шесткраки
+  - Hexàpodes
+  - šestinozí
+  - Εξάποδα
+  - hexapods
+  - Kuusijalkaiset
+  - Hexapodes
+  - Sechsfießer
+  - Hatlábúak
+  - Artikopodo
+  - Sexfætlur
+  - Esapodi
+  - 六脚亜門 (ろっきゃくあもん)
+  - 육각아문(六脚亞門)
+  - Шестоноги
+  - Sessfööt
+  - Zespotigen
+  - Seksfotingar
+  - Sześcionogi
+  - Hexápodes
+  - Шестиногие
+  - šesteronožni členonožci
+  - அறுகாலி (arukaali)
+  - Altı bacaklılar
+  - Loài sáu chân
+  - 六足亞門
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20of%20Entognatha.jpg
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Common%20blue%20damselfly02.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Diptera%2001gg.jpg
+IPA_transcription: ˈhɛksəˈpɑdə
+EPPO_Code: 1HEXAQ
+NBN_System_Key: NHMSYS0020191879
 ---
 
-## Phylogeny 
-
--   « Ancestral Groups  
-    -  [Arthropoda](../Arthropoda.md))
-    -  [Bilateria](../../Bilateria.md))
-    -  [Animals](../../../Animals.md))
-    -  [Eukarya](../../../../Eukarya.md))
-    -   [Tree of Life](../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Arthropoda
-    -   Hexapoda
-    -  [Crustacea](Crustacea.md))
-    -  [Pauropoda](Myriapoda/Pauropoda.md))
-    -  [Diplopoda](Myriapoda/Diplopoda.md))
-    -  [Centipede](Myriapoda/Centipede.md))
-    -  [Symphyla](Myriapoda/Symphyla.md))
-    -  [Arachnida](Chelicerata/Arachnida.md))
-    -   [[Sea_Scorpion](Chelicerata/Sea_Scorpion.md)    -   [Horseshoe_Crab](Chelicerata/Horseshoe_Crab.md)
-    -   [Sea_Spider](Chelicerata/Sea_Spider.md)
-    -  [Trilobites](Trilobites.md))
-
--   » Sub-Groups
-    -   [Springtail](Hexapoda/Springtail.md)
-    -  [Protura](Hexapoda/Protura.md))
-    -  [Diplura](Hexapoda/Diplura.md))
-    -   [Insecta](Insecta.md)
-
-# [[Hexapoda]]
+# [[Hexapoda]] 
 
 Insects, springtails, diplurans, and proturans 
 
 ![Monobella grassei](Hexapoda/Monobella_grassei.jpg)  ![campodeid](Hexapoda/campodeid.jpg) ![Mantis_religiosa](Hexapoda/Mantis_religiosa250.jpg)) 
 
-[[../../../WikiData/WD~Hexapoda,105146|WD~Hexapoda,105146]] 
+#is_/same_as  [[../../../../../../WikiData/WD~Hexapoda,105146|WD~Hexapoda,105146]]  
 
 ## #has_/text_of_/abstract 
 
-> The subphylum **Hexapoda** (from Greek for 'six legs') or hexapods comprises the largest clade of arthropods and includes most of the extant arthropod species. It includes the crown group class Insecta (true insects), as well as the much smaller clade Entognatha, which includes three classes of wingless arthropods that were once considered insects: Collembola (springtails), Protura (coneheads) and Diplura (two-pronged bristletails). The insects and springtails are very abundant and are some of the most important pollinators, basal consumers, scavengers/detritivores and micropredators in terrestrial environments.
+> The subphylum **Hexapoda** (from Greek for 'six legs') or hexapods 
+> comprises the largest clade of arthropods and includes most of the extant arthropod species. 
+> 
+> It includes the crown group class Insecta (true insects), as well as the much smaller clade Entognatha, 
+> which includes three classes of wingless arthropods that were once considered insects: 
+> Collembola (springtails), Protura (coneheads) and Diplura (two-pronged bristletails). 
+> The insects and springtails are very abundant and are some of the most important pollinators, 
+> basal consumers, scavengers/detritivores and micropredators in terrestrial environments.
 >
-> Hexapods are named for their most distinctive feature: a three-part body plan with a consolidated thorax and three pairs of legs. Most other arthropods have more than three pairs of legs. Most recent studies have recovered Hexapoda as a subgroup of Pancrustacea.
+> Hexapods are named for their most distinctive feature: a three-part body plan 
+> with a consolidated thorax and three pairs of legs. 
+> Most other arthropods have more than three pairs of legs. 
+> Most recent studies have recovered Hexapoda as a subgroup of Pancrustacea.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hexapoda) 
 
@@ -133,6 +165,33 @@ Creator              Photograph by Robert Potts
 Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2002 [California Academy of Sciences](http://www.calacademy.org/) 
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -  [Arthropoda](../Arthropoda.md))
+    -  [Bilateria](../../Bilateria.md))
+    -  [Animals](../../../Animals.md))
+    -  [Eukarya](../../../../Eukarya.md))
+    -   [Tree of Life](../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Arthropoda
+    -   Hexapoda
+    -  [Crustacea](Crustacea.md))
+    -  [Pauropoda](Myriapoda/Pauropoda.md))
+    -  [Diplopoda](Myriapoda/Diplopoda.md))
+    -  [Centipede](Myriapoda/Centipede.md))
+    -  [Symphyla](Myriapoda/Symphyla.md))
+    -  [Arachnida](Chelicerata/Arachnida.md))
+    -   [[Sea_Scorpion](Chelicerata/Sea_Scorpion.md)    -   [Horseshoe_Crab](Chelicerata/Horseshoe_Crab.md)
+    -   [Sea_Spider](Chelicerata/Sea_Spider.md)
+    -  [Trilobites](Trilobites.md))
+
+-   » Sub-Groups
+    -   [Springtail](Hexapoda/Springtail.md)
+    -  [Protura](Hexapoda/Protura.md))
+    -  [Diplura](Hexapoda/Diplura.md))
+    -   [Insecta](Insecta.md)
 
 
 ## Confidential Links & Embeds: 

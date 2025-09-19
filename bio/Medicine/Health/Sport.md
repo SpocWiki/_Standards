@@ -85,6 +85,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sports,16000501]]'
 
 # [[Sport]] 
 
+#is_/different_from :: [[../../../Society/Communication/Media/Performing_Arts/High-Performance_Sport|High-Performance_Sport]] 
 #is_/same_as :: [[../../../WikiData/WD~Sport,349]] 
 
 ## #has_/text_of_/abstract 

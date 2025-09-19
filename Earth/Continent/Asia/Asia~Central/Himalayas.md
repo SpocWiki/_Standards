@@ -44,13 +44,40 @@ part_of:
 width: 250
 ---
 
+# [[Himalayas]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Himalayas,5451|WD~Himalayas,5451]] 
+
 ## #has_/text_of_/abstract 
 
-> The **Himalayas**, or Himalaya ( HIM-ə-LAY-ə, hih-MAH-lə-yə) is a mountain range in Asia, separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 m (23,600 ft) above sea level lie in the Himalayas.
+> The **Himalayas**, or Himalaya ( HIM-ə-LAY-ə, hih-MAH-lə-yə) is a mountain range in Asia, 
+> separating the plains of the Indian subcontinent from the Tibetan Plateau. 
+> The range has some of the Earth's highest peaks, including the highest, Mount Everest. 
+> More than 100 peaks exceeding elevations of 7,200 m (23,600 ft) above sea level lie in the Himalayas.
 >
-> The Himalayas cross, border on, or end at the territories of six countries: Nepal, China, Pakistan, Bhutan, India and Afghanistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China. The Himalayan range is bordered on the northwest by the Karakoram and Hindu Kush ranges, on the north by the Tibetan Plateau, and on the south by the Indo-Gangetic Plain. Some of the world's major rivers, the Indus, the Ganges, and the Tsangpo–Brahmaputra, rise in the vicinity of the Himalayas, and their combined drainage basin is home to some 600 million people; 53 million people live in the Himalayas. The Himalayas have profoundly shaped the cultures of South Asia and Tibet. Many Himalayan peaks are sacred in Hinduism and Buddhism. The summits of several—Kangchenjunga (from the Indian side), Gangkhar Puensum, Machapuchare, Nanda Devi, and Kailash in the Tibetan Transhimalaya—are off-limits to climbers.
+> The Himalayas cross, border on, or end at the territories of six countries: 
+> Nepal, China, Pakistan, Bhutan, India and Afghanistan. 
+> 
+> The sovereignty of the range in the Kashmir region 
+> is disputed among India, Pakistan, and China. 
+> 
+> The Himalayan range is bordered on the northwest 
+> by the Karakoram and Hindu Kush ranges, on the north by the Tibetan Plateau, 
+> and on the south by the Indo-Gangetic Plain. 
+> 
+> Some of the world's major rivers, the Indus, the Ganges, and the Tsangpo–Brahmaputra, 
+> rise in the vicinity of the Himalayas, 
+> and their combined drainage basin is home to some 600 million people; 
+> 53 million people live in the Himalayas. 
+> 
+> The Himalayas have profoundly shaped the cultures of South Asia and Tibet. 
+> Many Himalayan peaks are sacred in Hinduism and Buddhism. 
+> The summits of several—Kangchenjunga (from the Indian side), Gangkhar Puensum, 
+> Machapuchare, Nanda Devi, and Kailash in the Tibetan Transhimalaya—
+> are off-limits to climbers.
 >
-> Lifted by the subduction of the Indian tectonic plate under the Eurasian Plate, the Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long. Its western anchor, Nanga Parbat, lies just south of the northernmost bend of the Indus river. Its eastern anchor, Namcha Barwa, lies immediately west of the great bend of the Yarlung Tsangpo River. The range varies in width from 350 km (220 mi) in the west to 150 km (93 mi) in the east.
+> Lifted by the subduction of the Indian tectonic plate under the Eurasian Plate, 
+> the Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long. Its western anchor, Nanga Parbat, lies just south of the northernmost bend of the Indus river. Its eastern anchor, Namcha Barwa, lies immediately west of the great bend of the Yarlung Tsangpo River. The range varies in width from 350 km (220 mi) in the west to 150 km (93 mi) in the east.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Himalayas) 
 
