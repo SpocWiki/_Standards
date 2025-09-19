@@ -1,3 +1,7 @@
+---
+aliases:
+  - German writer
+---
 
 # [[German_Writer]] 
 
