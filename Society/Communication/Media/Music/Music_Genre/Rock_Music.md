@@ -1,9 +1,48 @@
 ---
+aliases:
+  - rock
 has_id_wikidata: Q11399
+instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
+different_from: "[[_Standards/WikiData/WD~Rock,280874]]"
+subclass_of: "[[_Standards/WikiData/WD~popular_music,373342]]"
+has_list:
+  - "[[_Standards/WikiData/WD~list_of_rock_music_albums,3242854]]"
+  - "[[_Standards/WikiData/WD~glossary_of_rock_music_vocabulary,3562003]]"
+practiced_by:
+  - "[[_Standards/WikiData/WD~rock_band,5741069]]"
+  - "[[_Standards/WikiData/WD~rock_musician,12374149]]"
+  - "[[_Standards/WikiData/WD~rock_drummer,62974259]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Rock_music,10722391]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Rock_music,12127554]]"
+history_of_topic: "[[_Standards/WikiData/WD~electronics_in_rock_music,48834365]]"
+described_by_source: "[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]"
+country_of_origin:
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+IAB_code: "363"
+social_media_followers: 108332
+subreddit: rock
+short_name: рок
+hashtag_: Rock
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Beatles%20ad%201965%20just%20the%20beatles%20crop.jpg
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Big%20Rock%20%28ISRC%20USUAN1100305%29.mp3
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Deep%20Purple%20guitars%20banner.jpg
+exact_match: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Rock
+equivalent_class: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Rock
+U_S_National_Archives_Identifier: "10644564"
+Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/ROK-MUZIKA.html
+IPTC_NewsCode:
+  - mediatopic/20000027
+  - subjectcode/01011006
+Commons_category: Rock music
+Archive_of_Our_Own_tag: Rock Music RPF
+IMDb_keyword: rock-music
+inception: 1948-01-01T00:00:00Z
 ---
 
 # [[Rock_Music]] 
 
+#is_/same_as :: [[../../../../../WikiData/WD~Rock_music,11399|WD~Rock_music,11399]] 
 
 ## #has_/text_of_/abstract 
 
@@ -12,7 +51,12 @@ has_id_wikidata: Q11399
 > developing into a range of different styles from the mid-1960s, 
 > primarily in the United States and the United Kingdom. 
 > 
-> It has its roots in rock and roll, a style that drew directly from the black musical genres of blues, rhythm and blues, and country music. Rock also drew strongly from genres such as electric blues and folk, and incorporated influences from jazz and other musical styles. For instrumentation, rock is typically centered on the electric guitar, usually as part of a rock group with electric bass guitar, drums, and one or more singers. Usually, rock is song-based music with a 44 time signature and utilizing a verse–chorus form, but the genre has become extremely diverse. Like pop music, lyrics often stress romantic love but also address a wide variety of other themes that are frequently social or political. Rock was the most popular genre of music in the U.S. and much of the Western world from the 1950s to the 2010s.
+> It has its roots in rock and roll, a style that drew directly from the black musical genres of 
+> blues, rhythm and blues, and country music. 
+> 
+> Rock also drew strongly from genres such as electric blues and folk, 
+> and incorporated influences from jazz and other musical styles. 
+> For instrumentation, rock is typically centered on the electric guitar, usually as part of a rock group with electric bass guitar, drums, and one or more singers. Usually, rock is song-based music with a 44 time signature and utilizing a verse–chorus form, but the genre has become extremely diverse. Like pop music, lyrics often stress romantic love but also address a wide variety of other themes that are frequently social or political. Rock was the most popular genre of music in the U.S. and much of the Western world from the 1950s to the 2010s.
 >
 > **Rock music**ians in the mid-1960s began to advance the album ahead of the single as the dominant form of recorded music expression and consumption, with the Beatles at the forefront of this development. Their contributions lent the genre a cultural legitimacy in the mainstream and initiated a rock-informed album era in the music industry for the next several decades. By the late 1960s "classic rock" period, a few distinct rock music subgenres had emerged, including hybrids like blues rock, folk rock, country rock, Southern rock, raga rock, and jazz rock, which contributed to the development of psychedelic rock, influenced by the countercultural psychedelic and hippie scene. New genres that emerged included progressive rock, which extended artistic elements, heavy metal, which emphasized an aggressive thick sound, and glam rock, which highlighted showmanship and visual style. In the second half of the 1970s, punk rock reacted by producing stripped-down, energetic social and political critiques. Punk was an influence in the 1980s on new wave, post-punk and eventually alternative rock.
 >

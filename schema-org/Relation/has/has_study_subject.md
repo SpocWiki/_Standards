@@ -27,6 +27,10 @@ title: has_study_subject
 type: Predi_Relation
 ---
 
+# [[has_study_subject]] 
+
+#is_/same_as :: wd:is_the_study_of
+
 Use it like this: 
 - [ #has_/study_subject :: MedicalEntity ] or 
 - [ has_study_subject :: MedicalEntity ] 

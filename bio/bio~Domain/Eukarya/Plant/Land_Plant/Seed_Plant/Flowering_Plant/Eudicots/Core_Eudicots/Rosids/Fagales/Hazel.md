@@ -1,7 +1,7 @@
 ---
 aliases:
-- Hazel
-- hazelnut
+  - Hazel
+  - hazelnut
 Amazon_com_browse_node: 6492300011
 carbon_footprint: 5.3
 Commons_category: Hazelnuts
@@ -23,8 +23,8 @@ subclass_of:
 - '[[_Standards/WikiData/WD~nut,11009]]'
 UNII: 4U47CHZ7DL
 water_footprint:
-- 5258
-- 10515
+  - 5258
+  - 10515
 ---
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Hazelnut,578307|WD~Hazelnut,578307]]

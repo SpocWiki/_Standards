@@ -1,6 +1,6 @@
 
 
-> Heidi, Girl of the Alps ([[../../../../../../../Language/Lang~Family/LangFamily-Japonic/Lang-ja|Japanese]]: アルプスの少女ハイジ, Hepburn: Arupusu no Shōjo Haiji) 
+> Heidi, Girl of the Alps ([[../../../../../../../Language/Lang~Family/LangFamily-Japonic/Lang-jpn|Japanese]]: アルプスの少女ハイジ, Hepburn: Arupusu no Shōjo Haiji) 
 > is an anime television series produced by Zuiyo Eizo and is based on the novel 
 > Heidi's Years of Wandering and Learning by Johanna Spyri (1880). 
 > It was directed by [[Takahata,Isao|Isao Takahata]] and features contributions by numerous other anime filmmakers, 

@@ -52,7 +52,11 @@ IPTC_NewsCode: mediatopic/20000023
 > identifiable by both folk lyrics and harmonies accompanied by banjos, fiddles, harmonicas, 
 > and many types of guitar; either acoustic, electric, steel, or resonator guitars.
 >
-> Country music likely originated in the Southern United States, and spread throughout the Piedmont area of United States, from Louisiana along the Appalachian Mountains to New York. The music is believed to be derived from British folk music, brought to the United States during early waves of immigration. Rooted in American folk music, such as old-time and Southern Appalachian music, many other traditions – particularly African-American traditional folk songs and hymns – blended to become the genre known as country music. Once called hillbilly music, the term country music was popularized in the 1940s.
+> Country music likely originated in the Southern United States, 
+> and spread throughout the Piedmont area of United States, 
+> from Louisiana along the Appalachian Mountains to New York. 
+> 
+> The music is believed to be derived from British folk music, brought to the United States during early waves of immigration. Rooted in American folk music, such as old-time and Southern Appalachian music, many other traditions – particularly African-American traditional folk songs and hymns – blended to become the genre known as country music. Once called hillbilly music, the term country music was popularized in the 1940s.
 >
 > Mexican, Irish, and Hawaiian music have had a formative influence on the genre, as well as blues modes from blues music, which have shaped the evolution of country music.
 >
