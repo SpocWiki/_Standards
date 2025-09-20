@@ -116,9 +116,14 @@ time_of_discovery_or_invention: 1959
 UMLS_CUI: C0001175
 ---
 
+# [[AIDS]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~HIV_AIDS,12199|WD~HIV_AIDS,12199]] 
+
 ## #has_/text_of_/abstract 
 
-> The human immunodeficiency virus (HIV) is a retrovirus that attacks the immune system. It is a preventable disease. It can be managed with treatment and become a manageable chronic health condition. While there is no cure or vaccine for HIV, antiretroviral treatment can slow the course of the disease and enable people living with HIV to lead long and healthy lives. An HIV-positive person on treatment can expect to live a normal life, and die with the virus, not of it. Effective treatment for HIV-positive people (people living with HIV) involves a life-long regimen of medicine to suppress the virus, making the viral load undetectable. Without treatment it can lead to a spectrum of conditions including acquired immunodeficiency syndrome (**AIDS**). 
+> The human immunodeficiency virus (HIV) is a retrovirus that attacks the immune system. 
+> It is a preventable disease. It can be managed with treatment and become a manageable chronic health condition. While there is no cure or vaccine for HIV, antiretroviral treatment can slow the course of the disease and enable people living with HIV to lead long and healthy lives. An HIV-positive person on treatment can expect to live a normal life, and die with the virus, not of it. Effective treatment for HIV-positive people (people living with HIV) involves a life-long regimen of medicine to suppress the virus, making the viral load undetectable. Without treatment it can lead to a spectrum of conditions including acquired immunodeficiency syndrome (**AIDS**). 
 >
 > Treatment is recommended as soon as the diagnosis is made. An HIV-positive person who has an undetectable viral load as a result of long-term treatment has effectively no risk of transmitting HIV sexually. Campaigns by UNAIDS and organizations around the world have communicated this as Undetectable = Untransmittable. Without treatment the infection can interfere with the immune system, and eventually progress to AIDS, sometimes taking many years. Following initial infection an individual may not notice any symptoms, or may experience a brief period of influenza-like illness. During this period the person may not know that they are HIV-positive, yet they will be able to pass on the virus. Typically, this period is followed by a prolonged incubation period with no symptoms. Eventually the HIV infection increases the risk of developing other infections such as tuberculosis, as well as other opportunistic infections, and tumors which are rare in people who have normal immune function. The late stage is often also associated with unintended weight loss. Without treatment a person living with HIV can expect to live for 11 years. Early testing can show if treatment is needed to stop this progression and to prevent infecting others.
 >
@@ -128,7 +133,7 @@ UMLS_CUI: C0001175
 >
 > HIV made the jump from other primates to humans in west-central Africa in the early-to-mid-20th century. AIDS was first recognized by the U.S. Centers for Disease Control and Prevention (CDC) in 1981 and its cause—HIV infection—was identified in the early part of the decade. Between the first time AIDS was readily identified through 2024, the disease is estimated to have caused at least 42.3 million deaths worldwide. In 2023, 630,000 people died from HIV-related causes, an estimated 1.3 million people acquired HIV and about 39.9 million people worldwide living with HIV, 65% of whom are in the World Health Organization (WHO) African Region. HIV/AIDS is considered a pandemic—a disease outbreak which is present over a large area and is actively spreading. The United States' National Institutes of Health (NIH) and the Gates Foundation have pledged $200 million focused on developing a global cure for AIDS.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/HIV/AIDS)
+> [Wikipedia](https://en.wikipedia.org/wiki/HIV/AIDS) 
 
 
 ## Confidential Links & Embeds: 

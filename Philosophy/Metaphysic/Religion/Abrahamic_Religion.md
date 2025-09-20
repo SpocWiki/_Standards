@@ -1,6 +1,8 @@
 ---
 aliases:
   - Abrahamitische Religion
+  - Abrahamic religions
+  - Abrahamic religion
 has_id_wikidata: Q47280
 topic_has_template: "[[_Standards/WikiData/WD~Template_Religions,15934234]]"
 subclass_of: "[[_Standards/WikiData/WD~monotheistic_religion,19842652]]"

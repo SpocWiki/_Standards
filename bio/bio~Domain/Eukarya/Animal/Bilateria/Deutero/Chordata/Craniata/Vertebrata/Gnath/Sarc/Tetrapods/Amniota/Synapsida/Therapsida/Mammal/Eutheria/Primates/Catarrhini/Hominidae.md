@@ -1,14 +1,57 @@
 ---
 aliases:
-- "great ape"
-- hominid
+  - great ape
+  - hominid
+  - Hominoidea
 title: Hominidae
+has_id_wikidata: Q102470
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+taxon_rank: "[[_Standards/WikiData/WD~superfamily,2136103]]"
+start_time: -20400000-01-01T00:00:00Z
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+ITIS_TSN: "943782"
+U_S_National_Archives_Identifier: "10648081"
+IMDb_keyword: ape
+subreddit: ape
+taxon_common_name:
+  - ape
+  - Akaatia
+  - hominoidi
+  - homoideo
+  - Hominoideos
+  - Hominoïdes
+  - Minskoortagen
+  - Hominoideos
+  - Ominoidi
+  - ヒト上科
+  - 사람상과
+  - Małpy człekokształtne
+  - Hominoideos
+  - Человекообразные обезьяны
+  - človečnjaki
+  - Gibboner och hominider (Hominoider)
+  - İnsanımsılar
+  - 人型超科
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Weisshandgibbon%20tierpark%20berlin.jpg
+equivalent_class: http://kbpedia.org/kko/rc/Ape
+exact_match: http://purl.obolibrary.org/obo/IDOMAL_0001220
+Iconclass_notation: 25F22
+Commons_gallery: Ape
+UMLS_CUI: C1675848
+Commons_category: Hominoidea
+taxon_name: Hominoidea
+Krugosvet_article_archived_: nauka_i_tehnika/biologiya/CHELOVEKOOBRAZNIE_OBEZYANI.html
 ---
 
 # [[Hominidae]]
 
 #is_/instance_of :: [[../../../../../../../../../../../../../../../bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family|bio~Family]] 
 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Hominoidea,102470|WD~Hominoidea,102470]] 
 ## Humans, great apes, and their extinct relatives 
 ![chimpanzee](Hominidae/Pan_troglodytes0113.jpg)) ![](Hominidae/Gorilla_gorilla0088.jpg) ![Orangutan](Hominidae/Pongo_pygmaeus0055.jpg) 
 

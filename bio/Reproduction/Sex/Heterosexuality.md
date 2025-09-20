@@ -1,3 +1,38 @@
+---
+aliases:
+  - Heterosexual
+  - Heterosexualität
+  - Heterosexuell
+has_id_wikidata: Q1035954
+named_by: "[[_Standards/WikiData/WD~Karl_Maria_Kertbeny,94382]]"
+opposite_of:
+  - "[[_Standards/WikiData/WD~non_heterosexuality,339014]]"
+  - "[[_Standards/WikiData/WD~homosexuality,6636]]"
+subclass_of: "[[_Standards/WikiData/WD~monosexuality,1632385]]"
+named_after:
+  - "[[_Standards/WikiData/WD~sexuality,3043188]]"
+  - "[[_Standards/WikiData/WD~hetero_,12822258]]"
+different_from:
+  - "[[_Standards/WikiData/WD~heterosociality,3733713]]"
+  - "[[_Standards/WikiData/WD~heteroromantic,96187874]]"
+flag: "[[_Standards/WikiData/WD~heterosexual_flag,107481079]]"
+used_by: "[[_Standards/WikiData/WD~heterosexual,110541178]]"
+instance_of: "[[_Standards/WikiData/WD~sexual_orientation,17888]]"
+OmegaWiki_Defined_Meaning: "373156"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Just%20a%20touch%20is%20all%20I%20need.jpg
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Heterosexual%20flag%20%28black-white%20stripes%29.svg
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Heterosexual%20symbol%20%28bold%2C%20pink%20blue%29.svg
+Unicode_character: ⚤
+MeSH_tree_code:
+  - F01.145.802.975.400
+  - G08.686.867.400
+hashtag_: heterosexual
+APA_Dictionary_of_Psychology_entry: heterosexuality
+PhilPapers_topic: heterosexuality
+Commons_category: Heterosexuality
+female_form_of_label: hétera
+IMDb_keyword: heterosexual-sex
+---
 
 # [[Heterosexuality]] 
 

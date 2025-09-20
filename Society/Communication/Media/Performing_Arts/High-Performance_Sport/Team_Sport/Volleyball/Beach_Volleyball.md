@@ -32,7 +32,7 @@ time_of_discovery_or_invention: 1920-01-01T00:00:00Z
 
 # [[Beach_Volleyball]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Beach_volleyball,4543|WD~Beach_volleyball,4543]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Beach_volleyball,4543|WD~Beach_volleyball,4543]] 
 
 ## #has_/text_of_/abstract 
 

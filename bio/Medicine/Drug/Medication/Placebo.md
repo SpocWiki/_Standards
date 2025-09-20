@@ -20,6 +20,10 @@ subclass_of:
 UMLS_CUI: C0032042
 ---
 
+# [[Placebo]] 
+
+#is_/opposite_of :: [[Nocebo]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Placebo** ( plə-SEE-boh) is a substance or treatment which is designed to have no therapeutic value. 

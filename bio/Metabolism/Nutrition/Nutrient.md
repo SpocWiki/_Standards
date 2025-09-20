@@ -42,7 +42,7 @@ These are not classified as essential, but they provide health benefits:
 | Probiotics          | Gut health, immune function               | Yogurt, fermented foods (e.g., kimchi) |
 | Phytonutrients      | Antioxidant and anti-inflammatory effects | Fruits, vegetables, nuts, tea          |
 | Choline             | Brain development, liver health           | Eggs, meat, fish, nuts                 |
-| Lutein & Zeaxanthin | Eye health                                | Leafy greens, [[Carbohydrate/Maize\|corn]], eggs               |
+| Lutein & Zeaxanthin | Eye health                                | Leafy greens, [[../../bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Cereal/Maize\|corn]], eggs               |
 | Carnitine           | [[Fat]] metabolism                            | Meat, fish, dairy                      |
 
 

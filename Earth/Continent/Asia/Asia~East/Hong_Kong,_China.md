@@ -27,7 +27,7 @@ markerFolder: ./Hong_Kong,_China/
 [Area-Land::0]
 has_place_continent:: [[Asia]]  
 [VehicleCode::HK]
-Capital :: [[China/Hong_Kong]]  
+Capital :: [[China/provinces~China/Guangdong/Hong_Kong]]  
 [Alcohol-l::]
 [Language-Id::485]
 #is_a_/Place  

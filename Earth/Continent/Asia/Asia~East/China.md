@@ -995,7 +995,7 @@ Below is a detailed table of the 34 provincial-level divisions in China, which i
 | [[Xinjiang_Uygur\|Xinjiang Uyghur]]                                         |  25.950 | 1664.9 |    1.485 |     58.134 | 0.668 | Diverse ethnic cultures, significant energy resources      |
 | [[Yunnan]]                                                                  |  48.300 |  394.0 |    2.600 |     56.254 | 0.748 | Known for biodiversity and ethnic diversity                |
 | [[Zhejiang]]                                                                |  64.760 |  105.5 |    7.350 |    113.444 | 0.824 | Rapidly growing economy, significant industrial base       |
-| [[Hong_Kong\|Hong Kong]]                                                    |   7.480 |    1.1 |    2.870 |    383.418 | 0.949 | Major financial hub, autonomous economic region            |
+| [[China/provinces~China/Guangdong/Hong_Kong\|Hong Kong]]                                                    |   7.480 |    1.1 |    2.870 |    383.418 | 0.949 | Major financial hub, autonomous economic region            |
 | [[Earth/Continent/Asia/Asia~East/China/Macau\|Macau]]                       |    .680 |     .1 |    0.366 |    537.629 | 0.922 | Renowned for gaming and tourism, high per capita income    |
 
 

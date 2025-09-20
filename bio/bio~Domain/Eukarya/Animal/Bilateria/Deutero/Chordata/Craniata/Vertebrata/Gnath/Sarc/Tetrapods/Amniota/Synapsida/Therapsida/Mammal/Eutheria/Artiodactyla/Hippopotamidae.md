@@ -5,7 +5,7 @@ title: Hippopotamidae
 # [[Hippopotamidae]] 
 
 ![Pygmy hippo (Hexaprotodon liberiensis)](Hippopotamidae/pigmy_hippo.jpg) 
-![Hippopotamus amphibius](Hippopotamidae/Hippopotamus_amphibius.jpg) 
+![Hippopotamus amphibius](Hippopotamidae/Hippopotamus/Hippopotamus_amphibius.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -83,7 +83,7 @@ View                 Fronto-lateral
 Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 -------------------------------------------------------------------------
-![](Hippopotamidae/Hippopotamus_amphibius.jpg)
+![](Hippopotamidae/Hippopotamus/Hippopotamus_amphibius.jpg)
 Scientific Name ::     Hippopotamus amphibius
 Location ::           Okavango Delta of Botswana
 Comments             hippo adult and 3-4-month-old juvenile on bank

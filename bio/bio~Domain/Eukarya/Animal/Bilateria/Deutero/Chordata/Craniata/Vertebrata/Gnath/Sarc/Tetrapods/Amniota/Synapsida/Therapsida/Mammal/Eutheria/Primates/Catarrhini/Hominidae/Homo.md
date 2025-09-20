@@ -52,7 +52,7 @@ title: Homo
 
 -   » Sub-Groups
     -  [Homo sapiens](Homo/Homo_sapiens.md))
-	-   *[[Homo_erectus]]* †
+	-   *[[Homo/Homo_erectus]]* †
 	-   *[[Homo_ergaster]]* †
 	-   *[[Homo_rudolfensis]]* †
 	-   *[[Homo_habilis]]* †

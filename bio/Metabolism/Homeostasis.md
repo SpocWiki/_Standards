@@ -20,6 +20,10 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Human_homeostasis,2275
 UMLS_CUI: C0019868
 ---
 
+# [[Homeostasis]] 
+
+#is_/same_as :: [[../../WikiData/WD~Homeostasis,103191|WD~Homeostasis,103191]] 
+
 ## #has_/text_of_/abstract 
 
 > In biology, **Homeostasis** (British also homoeostasis;  hoh-mee-oh-STAY-sis) is the state of steady internal physical and chemical conditions maintained by living systems. This is the condition of optimal functioning for the organism and includes many variables, such as body temperature and fluid balance, being kept within certain pre-set limits (homeostatic range). Other variables include the pH of extracellular fluid, the concentrations of sodium, potassium, and calcium ions, as well as the blood sugar level, and these need to be regulated despite changes in the environment, diet, or level of activity. Each of these variables is controlled by one or more regulators or homeostatic mechanisms, which together maintain life.

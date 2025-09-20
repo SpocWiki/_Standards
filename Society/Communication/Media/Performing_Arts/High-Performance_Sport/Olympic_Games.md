@@ -128,10 +128,10 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 1960 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Squaw Valley]]                |  W  | 1960-02-18 | 1984-02-28 |
 | 1960 | [[../../../../../../Earth/Continent/Europe/Europe~South/Italy\|Italy]]               | [[Rome]]                        |  S  | 1960-08-25 | 1984-09-11 |
 | 1964 | [[../../../../../../Earth/Continent/Europe/Europe~Central/Austria\|Austria]]                                                                                 | [[../../../../../Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Innsbruck]] |  W  | 1964-01-29 | 1980-02-09 |
-| 1964 | [[../../../../../../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                    | [[Tokyo]]                       |  S  | 1964-10-10 | 1980-10-24 |
+| 1964 | [[../../../../../../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                    | [[../../../../../Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo]]                       |  S  | 1964-10-10 | 1980-10-24 |
 | 1968 | [[../../../../../../Earth/Continent/Europe/Europe~West/France\|France]]              | [[Grenoble]]                    |  W  | 1968-02-06 | 1976-02-18 |
 | 1968 | [[../../../../../../Earth/Continent/America~Central/Mexico\|Mexico]]                 | [[Mexico City]]                 |  S  | 1968-10-12 | 1976-10-27 |
-| 1972 | [[../../../../../../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                    | [[Sapporo]]                     |  W  | 1972-02-03 | 1972-02-13 |
+| 1972 | [[../../../../../../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                    | [[../../../../../Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Sapporo]]                     |  W  | 1972-02-03 | 1972-02-13 |
 | 1972 | [[Germany/Germany~West]]                                                          | [[Munich]]                      |  S  | 1972-08-26 | 1972-09-11 |
 | 1976 | [[../../../../../../Earth/Continent/Europe/Europe~Central/Austria\|Austria]]                                                                                 | [[../../../../../Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Innsbruck]] |  W  | 1976-02-04 | 1968-02-15 |
 | 1976 | [[../../../../../../Earth/Continent/America~North/Canada\|Canada]]                   | [[Montreal]]                    |  S  | 1976-07-17 | 1968-08-01 |
@@ -145,7 +145,7 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 1992 | [[../../../../../../Earth/Continent/Europe/Europe~South/Spain\|Spain]]               | [[Barcelona]]                   |  S  | 1992-07-25 | 1952-08-09 |
 | 1994 | [[../../../../../../Earth/Continent/Europe/Europe~North/Norway\|Norway]]             | [[Lillehammer]]                 |  W  | 1994-02-12 | 1948-02-27 |
 | 1996 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         |[[../../../../../bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta]]]                     |  S  | 1996-07-19 | 1948-08-04 |
-| 1998 | [[../../../../../../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                    | [[Nagano]]                      |  W  | 1998-02-07 | 1936-02-22 |
+| 1998 | [[../../../../../../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                    | [[../../../../../Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Nagano]]                      |  W  | 1998-02-07 | 1936-02-22 |
 | 2000 | [[../../../../../../Earth/Continent/Australasia/Australia\|Australia]]               | [[Sydney]]                      |  S  | 2000-09-15 | 1936-10-01 |
 | 2002 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Salt Lake City]]              |  W  | 2002-02-08 | 1932-02-24 |
 | 2004 | [[../../../../../../Earth/Continent/Europe/Europe~South/Greece\|Greece]]             | [[Athens]]                      |  S  | 2004-08-13 | 1932-08-29 |
@@ -156,7 +156,7 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 2014 | [[../../../../../../Earth/Continent/Europe/Europe~East/Russia\|Russia]]              | [[Sochi]]                       |  W  | 2014-02-07 | 1920-02-23 |
 | 2016 | [[../../../../../../Earth/Continent/America~South/Brazil\|Brazil]]                   | [[Rio de Janeiro]]              |  S  | 2016-08-05 | 1912-08-21 |
 | 2018 | [[../../../../../../Earth/Continent/Asia/Asia~East/Korea~South\|Korea~South]]        | [[Pyeongchang]]                 |  W  | 2018-02-09 | 1908-02-25 |
-| 2020 | [[../../../../../../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                    | [[Tokyo]]                       |  S  | 2021-07-23 | 1904-08-08 |
+| 2020 | [[../../../../../../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                    | [[../../../../../Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo]]                       |  S  | 2021-07-23 | 1904-08-08 |
 | 2022 | [[../../../../../../Earth/Continent/Asia/Asia~East/China\|China]]                    | [[Beijing]]                     |  W  | 2022-02-04 | 1900-02-20 |
 | 2026 | [[../../../../../../Earth/Continent/Europe/Europe~South/Italy\|Italy]]               | [[Milan]] [[Cortina d'Ampezzo]] |  W  | 2026-02-06 | 2026-02-22 |
 | 2028 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Los Angeles]]                 |  S  | 2028-07-14 | 2028-07-30 |

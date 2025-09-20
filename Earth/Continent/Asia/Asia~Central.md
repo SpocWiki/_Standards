@@ -9,7 +9,7 @@ maxZoom: 18
 defaultZoom: 3
 long: 99.0
 lat: 40
-geojsonFolder: ./Asia~Central///
+geojsonFolder: ./Asia~Central//
 markerFolder: ./Asia~Central//
 ```
 

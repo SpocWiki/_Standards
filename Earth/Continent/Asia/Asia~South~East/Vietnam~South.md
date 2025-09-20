@@ -27,7 +27,7 @@ markerFolder: ./Vietnam~South/
 [Area-Land::]
 has_place_continent:: [[Asia]]  
 [VehicleCode::]
-Capital :: [[Saigon]]  
+Capital :: [[Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City]]  
 ![[Coat_of_arms_of_Vietnam.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Vietnam.mp3]]
 ![[Flag_of_Vietnam.svg|350]]
