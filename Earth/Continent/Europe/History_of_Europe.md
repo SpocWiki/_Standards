@@ -1,6 +1,21 @@
 ---
 aliases:
 has_id_wikidata: Q7787
+part_of: "[[_Standards/WikiData/WD~history_of_Eurasia,1949625]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Europe,9478882]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685]]"
+facet_of:
+  - "[[_Standards/WikiData/WD~history,309]]"
+  - "[[_Standards/WikiData/WD~Europe,46]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+Dewey_Decimal_Classification: "940"
+Commons_category: History of Europe
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Ortelius%20Map%20of%20Europe.jpg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%201989%2C%20Fall%20of%20the%20wall%2C%20cropped%20banner.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-Histoire%20de%20l%27Europe.ogg
+Classification_of_Instructional_Programs_code: "54.0103"
 ---
 
 # [[History_of_Europe]] 

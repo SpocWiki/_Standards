@@ -26,6 +26,10 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Hormones,7139889]]'
 UMLS_CUI: C0019932
 ---
 
+# [[Hormone]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Hormone,11364|WD~Hormone,11364]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Hormone** (from the Greek participle ὁρμῶν, "setting in motion") 
