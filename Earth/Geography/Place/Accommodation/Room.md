@@ -25,10 +25,13 @@ title: is_a_room Class
 type: Type
 ---
 
+# [[Room]] 
+
 Class of all rooms.
 
 Tag Instances like this: 
 #is_a_/room
+#is_a_ :: [[Room]] 
 
 A room is a distinguishable space within a structure, usually separated from other spaces by interior walls (source: Wikipedia, the free encyclopedia, see <a href="http://en.wikipedia.org/wiki/Room">http://en.wikipedia.org/wiki/Room</a>).
 

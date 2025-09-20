@@ -1,6 +1,8 @@
 ---
 aliases:
   - Felis
+  - Felis catus
+  - domestic cat
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Meow.ogg
 Baidu_Tieba_name:
   - 猫咪
@@ -127,7 +129,7 @@ Wolfram_Language_entity_code: Entity["Concept", "DomesticCat::jpx55"]
 
 # [[Cat]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Cat,146]]  
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~House_cat,146|WD~House_cat,146]]   
 
 ## #has_/text_of_/abstract 
 

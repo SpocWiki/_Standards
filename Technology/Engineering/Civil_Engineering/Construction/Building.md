@@ -1,4 +1,5 @@
 ---
+aliases:
 Commons_category: Buildings
 connects_with:
   - "[[_Standards/WikiData/WD~exterior_space,21950738]]"
@@ -95,7 +96,6 @@ UMLS_CUI: C1999269
 U_S_National_Archives_Identifier: 10640473
 Wikidata_property: adjacent building
 Wolfram_Language_entity_type: Building
-aliases:
 ---
 
 # [[Building]] 

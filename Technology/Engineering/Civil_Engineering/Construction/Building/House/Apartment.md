@@ -1,4 +1,8 @@
 ---
+aliases:
+  - flat
+  - tenement
+  - unit
 has_id_wikidata: Q188507
 different_from:
   - "[[_Standards/WikiData/WD~Apartment,617820]]"
@@ -29,10 +33,6 @@ P8189:
   - "987007294184605171"
   - "987007294186505171"
 IMDb_keyword: apartment
-aliases:
-  - flat
-  - tenement
-  - unit
 ---
 
 # [[Apartment]] 
