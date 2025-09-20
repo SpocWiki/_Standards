@@ -19,7 +19,7 @@ aliases:
 > Pure, dry fructose is a sweet, white, odorless, crystalline solid, and is the most water-soluble of all the sugars. 
 > Fructose is found in honey, tree and vine fruits, flowers, berries, and most root vegetables.
 >
-> Commercially, fructose is derived from sugar cane, sugar beets, and [[../Maize]]. 
+> Commercially, fructose is derived from sugar cane, sugar beets, and [[../../../../bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Cereal/Maize]]. 
 > High-fructose corn syrup is a mixture of glucose and fructose as monosaccharides. 
 > 
 > Sucrose is a compound with one molecule of glucose covalently linked to one molecule of fructose. 
