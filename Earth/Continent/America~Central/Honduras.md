@@ -330,7 +330,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Honduras/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: HNL ] 
 [	ISO4217-currency_name	 :: Lempira ]
 [	ISO4217-currency_numeric	 :: 340 ]
@@ -394,15 +393,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 340 ]
 
-
-
 [ISO2::HN]
 [ISO3::HND] 
 
+#is_/same_as :: [[../../../WikiData/WD~Honduras,783|WD~Honduras,783]] 
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Honduras
