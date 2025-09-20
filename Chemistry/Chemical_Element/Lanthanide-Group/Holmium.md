@@ -58,8 +58,7 @@ UNII: W1XX32SQN1
 ZVG_number: 7670
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Holmium,1846]] 
-
+# [[Holmium]] 
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
@@ -84,6 +83,7 @@ ZVG_number: 7670
 (PeriodNo::6)
 (GroupNo::33)
 
+#is_/same_as :: [[../../../WikiData/WD~Holmium,1846]] 
 
 
 ## #has_/text_of_/abstract 

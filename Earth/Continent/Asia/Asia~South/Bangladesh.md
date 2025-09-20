@@ -433,7 +433,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Bangladesh/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: BDT ]
 [	ISO4217-currency_name	 :: Taka ]
 [	ISO4217-currency_numeric	 :: 050 ]
@@ -503,8 +502,6 @@ Sub-region_Name ::  [[Southern Asia]]
 #is_/same_as :: [[_Standards/WikiData/WD~Bangladesh,902]]  
 
 ## #has_/map  
-
-
 
 ```leaflet
 id: Bangladesh
