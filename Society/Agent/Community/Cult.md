@@ -20,6 +20,17 @@ subreddit: cults
 
 #is_/same_as :: [[../../../WikiData/WD~Cult,11038979|WD~Cult,11038979]] 
 
+## Criteria for a Cult 
+
+- [ ] no tolerance for questioning 
+- [ ] Charismatic Leader(s) 
+- [ ] Abuse (sexual, work, financial...) 
+- [ ] No financial transparency 
+- [ ] No exit Strategy 
+- [ ] Paranoia of Others 
+
+
+
 ## #has_/text_of_/abstract 
 
 > **Cult**s are social groups which have unusual, and often extreme, religious, spiritual, 

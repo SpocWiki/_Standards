@@ -79,6 +79,11 @@ Wikidata_property:
 Wolfram_Language_entity_type: ProgrammingLanguage
 ---
 
+# [[Programming_Language]] 
+
+#is_/different_from :: [[../Data/Data_Language|Data_Language]] 
+#is_/same_as :: [[../../../WikiData/WD~Programming_language,9143|WD~Programming_language,9143]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Programming language** is a system of notation for writing computer programs.
