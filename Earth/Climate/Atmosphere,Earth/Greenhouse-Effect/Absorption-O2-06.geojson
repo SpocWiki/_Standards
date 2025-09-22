@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"creator": "svg2geojson v0.7.0",
+"name": "Atmospheric_Transmission-en",
+"features": [
+{ "type": "Feature", 
+"properties": {
+	"id": "1576",
+	"fill": "#00F",
+	"title": "02-Absorption-06",
+	"name": "02-06-Absorption"
+}, 
+"geometry": { "type": "Polygon", "coordinates": [ 
+[ [ 20.172461, 34.580145 ], [ 20.427701, 34.580146 ], [ 20.412465, 34.596145 ], [ 20.37818, 34.600498 ], [ 20.357226, 34.616944 ], [ 20.315321, 34.6242 ], [ 20.296273, 34.640162 ], [ 20.231511, 34.639678 ], [ 20.220076, 34.617427 ], [ 20.17817, 34.611139 ], [ 20.172461, 34.580145 ] ] ] } }
+]}
