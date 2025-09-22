@@ -42,7 +42,7 @@ Colon_Classification: Y:4353
 > Deaths caused by famine declined sharply beginning in the 1970s, with numbers falling further since 2000. 
 > Since 2010, [[../../Earth/Continent/Africa|Africa]] has been the most affected continent in the world by famine. 
 > As of 2025,  [[../../Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti|Haiti]] and [[../../Earth/Continent/Asia/Asia~Central/Afghanistan|Afghanistan]] are the two states with the most catastrophic 
-> and widespread states of famine, followed by [[../../Earth/Continent/Africa/Africa~East/Sudan~North|Sudan]].
+> and widespread states of famine, followed by [[../../Earth/Continent/Africa/Africa~East/Sudan/Sudan~North|Sudan]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Famine) 
 
