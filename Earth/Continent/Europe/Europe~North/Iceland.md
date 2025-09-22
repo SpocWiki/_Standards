@@ -325,12 +325,6 @@ icon: flag-is
 
 # [[Iceland]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Iceland 
-
-[[Iceland/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: ISK ]
 [	ISO4217-currency_name	 :: Iceland Krona ]
 [	ISO4217-currency_numeric	 :: 352 ]
@@ -394,14 +388,17 @@ Sub-region_Name ::  [[Northern Europe]]
 
 [	ISO3166-1-numeric	 :: 352 ]
 
-
-
 [ISO2::IS]
 [ISO3::ISL] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Iceland,189|WD~Iceland,189]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Iceland 
+
+[[Iceland/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Iceland
