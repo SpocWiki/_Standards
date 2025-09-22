@@ -75,9 +75,6 @@ Wolfram_Language_entity_code: "Entity[\"Element\", \"Hydrogen\"]"
 # [[Hydrogen]] 
 
 
-#is_/same_as :: [[../../../WikiData/WD~Hydrogen,556]] 
-
-
 #chemic/Element 
 [GroupName::Group-01-Alkali]
 [Group:[[../Group-01-Alkali]]
@@ -103,6 +100,7 @@ Wolfram_Language_entity_code: "Entity[\"Element\", \"Hydrogen\"]"
 (GroupNo::1)
 (Charge-e::1)
 
+#is_/same_as :: [[../../../WikiData/WD~Hydrogen,556]] 
 
 ## #has_/text_of_/abstract 
 

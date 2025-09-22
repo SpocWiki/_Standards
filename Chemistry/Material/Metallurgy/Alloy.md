@@ -1,4 +1,8 @@
 ---
+aliases:
+  - alloys
+  - Legierung
+  - Legierungen
 All_Science_Journal_Classification_Codes: 2506
 Commons_category: Alloys
 Common_Procurement_Vocabulary_code: 14620000-3
@@ -31,8 +35,6 @@ topic_s_main_template:
   - "[[_Standards/WikiData/WD~Q25745539,25745539]]"
 UMLS_CUI: C0002154
 U_S_National_Archives_Identifier: 10646992
-aliases:
-  - alloys
 ---
 
 # [[Alloy]] 

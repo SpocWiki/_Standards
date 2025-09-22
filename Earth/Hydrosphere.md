@@ -24,8 +24,9 @@ Commons_category: Hydrosphere
 ## #has_/text_of_/abstract 
 
 > The **Hydrosphere** (from Ancient Greek  ὕδωρ (húdōr) 'water' and  σφαῖρα (sphaîra) 'sphere') 
-> is the combined mass of water found on, under, and above the surface 
+> is the combined mass of water found **on, under, and above the surface** 
 > of a planet, minor planet, or natural satellite. 
+> 
 > Although Earth's hydrosphere has been around for about 4 billion years, 
 > it continues to change in shape. 
 > This is caused by seafloor spreading and continental drift, which rearranges the land and ocean.
