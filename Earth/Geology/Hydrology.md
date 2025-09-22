@@ -52,7 +52,7 @@ Gujarati_Vishwakosh_entry: જળવિદ્યા-અને-જળસ્રો
 
 # [[Hydrology]] 
 
-#has_/study_subject :: [[../Hydrosphere]]  
+#has_/study_subject :: [[../Climate/Hydrosphere]]  
 #is_/same_as :: [[../../WikiData/WD~Hydrology,42250|WD~Hydrology,42250]] 
 
 ## #has_/text_of_/abstract 
