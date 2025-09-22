@@ -10,7 +10,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 studied_by: "[[_Standards/WikiData/WD~Semitic_studies,2142577]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Semitic_languages,6605576]]"
-inception: -3000-01-01T00:00:00Z
+inception: -3000-06
 subclass_of: "[[_Standards/WikiData/WD~Afroasiatic,25268]]"
 instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
 different_from: "[[_Standards/WikiData/WD~Semitic_people,62928]]"

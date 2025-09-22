@@ -40,7 +40,7 @@ World_Heritage_criteria:
 depicted_by: "[[_Standards/WikiData/WD~Stonehenge_with_Sheep,52155456]]"
 historic_county: "[[_Standards/WikiData/WD~Wiltshire,67575300]]"
 inception:
-  - -3000-01-01T00:00:00Z
+  - -3000-06
   - -1848-01-01T00:00:00Z
 topic_has_template: "[[_Standards/WikiData/WD~Template_Stonehenge,99540863]]"
 has_part_s_: "[[_Standards/WikiData/WD~Stonehenge_stone_150,110065002]]"

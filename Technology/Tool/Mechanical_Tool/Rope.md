@@ -26,7 +26,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 connects_with: "[[_Standards/WikiData/WD~sheave,1057381]]"
 different_from: "[[_Standards/WikiData/WD~string,11064354]]"
-earliest_date: -26000-01-01T00:00:00Z
+earliest_date: -26000-06
 Nomenclature_for_Museum_Cataloging: "6548"
 Commons_gallery: Rope
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rope.jpg

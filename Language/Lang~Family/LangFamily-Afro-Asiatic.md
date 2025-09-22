@@ -18,7 +18,7 @@ named_after:
   - "[[_Standards/WikiData/WD~Afro_Asia,125965270]]"
   - "[[_Standards/WikiData/WD~Africa,15]]"
   - "[[_Standards/WikiData/WD~Asia,48]]"
-inception: -7000-01-01T00:00:00Z
+inception: -7000-06
 has_part_s_:
   - "[[_Standards/WikiData/WD~Berber,25448]]"
   - "[[_Standards/WikiData/WD~Chadic,33184]]"

@@ -27,7 +27,7 @@ ITIS_TSN: "180580"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Panthera%20tigris%20tigris%20edited2.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tiger-zoologie.de0001%2022.JPG
-start_time: -25000000-01-01T00:00:00Z
+start_time: -25000000-06
 Commons_category: Felidae
 taxon_name: Felidae
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Felid%20Distribution.png

@@ -55,7 +55,7 @@ MeSH_tree_code:
   - J02.500.375.200
 Colon_Classification: KX31:73
 Unicode_character: 🧈
-inception: -8000-01-01T00:00:00Z
+inception: -8000-06
 ---
 
 # [[Butter]] 

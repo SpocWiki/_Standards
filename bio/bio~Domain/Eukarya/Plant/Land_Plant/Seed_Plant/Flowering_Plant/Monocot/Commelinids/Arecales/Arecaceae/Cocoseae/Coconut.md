@@ -45,7 +45,7 @@ Universal_Decimal_Classification:
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 hardiness_of_plant: "[[_Standards/WikiData/WD~10,99549892]]"
 NZTCS_conservation_status: "[[_Standards/WikiData/WD~vagrant,108448817]]"
-start_time: -55000000-01-01T00:00:00Z
+start_time: -55000000-06
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
 taxon_range:

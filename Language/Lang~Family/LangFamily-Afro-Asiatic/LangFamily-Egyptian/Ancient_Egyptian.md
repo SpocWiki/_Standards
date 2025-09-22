@@ -18,7 +18,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Egyptian_Arabic,29919]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Egyptian,34610803]]"
 subclass_of: "[[_Standards/WikiData/WD~Egyptian,34610803]]"
-inception: -4000-01-01T00:00:00Z
+inception: -4000-06
 dissolved_abolished_or_demolished_date: 1700-01-01T00:00:00Z
 country:
   - "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"

@@ -9,7 +9,7 @@ described_by_source:
 uses: "[[_Standards/WikiData/WD~tool_use_by_non_humans,1109139]]"
 has_list: "[[_Standards/WikiData/WD~list_of_crows,6567946]]"
 parent_taxon: "[[_Standards/WikiData/WD~Corvinae,20003762]]"
-start_time: -17000000-01-01T00:00:00Z
+start_time: -17000000-06
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 length:
   - 27

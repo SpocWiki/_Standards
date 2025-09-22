@@ -15,7 +15,7 @@ topic_s_main_category: "[[_Standards/WikiData/WD~Q9689569,9689569]]"
 award_received: "[[_Standards/WikiData/WD~Q25385081,25385081]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q65320373,65320373]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q65320373,65320373]]"
-start_time: -8000000-01-01T00:00:00Z
+start_time: -8000000-06
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 mass: 8.5
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"

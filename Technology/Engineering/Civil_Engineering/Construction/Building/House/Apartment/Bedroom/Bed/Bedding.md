@@ -20,7 +20,7 @@ subclass_of:
 different_from: "[[_Standards/WikiData/WD~bed,806617]]"
 part_of: "[[_Standards/WikiData/WD~consumer_economics,3578714]]"
 instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
-earliest_date: -75000-01-01T00:00:00Z
+earliest_date: -75000-06
 has_use: "[[_Standards/WikiData/WD~bed,42177]]"
 location: "[[_Standards/WikiData/WD~bed,42177]]"
 Nomenclature_for_Museum_Cataloging: "968"

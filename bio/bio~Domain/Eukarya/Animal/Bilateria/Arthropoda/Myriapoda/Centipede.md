@@ -40,7 +40,7 @@ taxon_common_name:
   - ტუჩფეხიანები
   - 순각류
   - skolopendere
-start_time: -418000000-01-01T00:00:00Z
+start_time: -418000000-06
 NBN_System_Key: NBNSYS0000159664
 ---
 

@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q25557
 topic_s_main_category: "[[_Standards/WikiData/WD~Q8970387,8970387]]"
-start_time: -66000000-01-01T00:00:00Z
+start_time: -66000000-06
 code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_range: "[[_Standards/WikiData/WD~Brazil,155]]"

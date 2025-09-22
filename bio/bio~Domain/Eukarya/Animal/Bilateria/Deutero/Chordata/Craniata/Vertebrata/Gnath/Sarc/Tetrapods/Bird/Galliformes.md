@@ -9,7 +9,7 @@ described_by_source:
 parent_taxon:
   - "[[_Standards/WikiData/WD~Pangalliformes,15731102]]"
   - "[[_Standards/WikiData/WD~bird,5113]]"
-start_time: -55000000-01-01T00:00:00Z
+start_time: -55000000-06
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_range: "[[_Standards/WikiData/WD~Brazil,155]]"
 taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"

@@ -7,7 +7,7 @@ topic_s_main_template:
   - "[[_Standards/WikiData/WD~Template_Taxonomy_Canidae,13217763]]"
 parent_taxon: "[[_Standards/WikiData/WD~Canoidea,21446607]]"
 means_of_locomotion: "[[_Standards/WikiData/WD~quadrupedalism,21907045]]"
-start_time: -39750000-01-01T00:00:00Z
+start_time: -39750000-06
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
 OmegaWiki_Defined_Meaning: "481"

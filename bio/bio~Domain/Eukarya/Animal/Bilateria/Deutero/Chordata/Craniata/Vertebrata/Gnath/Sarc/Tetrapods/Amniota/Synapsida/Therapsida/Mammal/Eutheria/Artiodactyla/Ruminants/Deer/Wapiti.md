@@ -30,7 +30,7 @@ different_from:
 ITIS_TSN: "898259"
 short_name:
   - C. canadensis
-start_time: -2500000-01-01T00:00:00Z
+start_time: -2500000-06
 taxon_common_name:
   - Wapiti
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Elkbellow.ogg

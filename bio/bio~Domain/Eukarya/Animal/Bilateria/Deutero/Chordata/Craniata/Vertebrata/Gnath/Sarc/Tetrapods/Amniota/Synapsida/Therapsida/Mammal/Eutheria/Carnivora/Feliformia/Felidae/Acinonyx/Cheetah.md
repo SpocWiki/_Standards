@@ -57,7 +57,7 @@ Wildlife_Protection_Act_1972_India_schedule: "[[_Standards/WikiData/WD~Schedule_
 has_pattern: "[[_Standards/WikiData/WD~stain,97119922]]"
 original_combination: "[[_Standards/WikiData/WD~Felis_jubata,122360017]]"
 depicted_by: "[[_Standards/WikiData/WD~Sala_dei_ghepardi,131813421]]"
-start_time: -1900000-01-01T00:00:00Z
+start_time: -1900000-06
 color:
   - "[[_Standards/WikiData/WD~yellow,943]]"
   - "[[_Standards/WikiData/WD~black,23445]]"

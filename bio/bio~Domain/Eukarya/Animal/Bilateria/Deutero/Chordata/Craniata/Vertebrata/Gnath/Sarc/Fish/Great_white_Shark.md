@@ -73,7 +73,7 @@ taxon_common_name:
   - withaai
   - قرش أبيض كبير
 short_name: C. carcharias
-start_time: -16000000-01-01T00:00:00Z
+start_time: -16000000-06
 taxon_range:
   - "[[_Standards/WikiData/WD~Gulf_of_California,132811]]"
   - "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"

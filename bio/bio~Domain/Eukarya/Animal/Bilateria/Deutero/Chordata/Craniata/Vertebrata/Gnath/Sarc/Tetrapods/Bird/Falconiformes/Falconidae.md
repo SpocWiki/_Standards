@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q21744
 topic_has_template: "[[_Standards/WikiData/WD~Q25720737,25720737]]"
-start_time: -50000000-01-01T00:00:00Z
+start_time: -50000000-06
 code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 parent_taxon: "[[_Standards/WikiData/WD~Falconiformes,25370]]"

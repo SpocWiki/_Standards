@@ -28,7 +28,7 @@ Wikidata_property:
 Iconclass_notation: "42E23"
 Library_of_Congress_Classification: KBP184.55
 Commons_category: Burials
-inception: -100000-01-01T00:00:00Z
+inception: -100000-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mechelen%20St-Jan%20Van%20hoecke%20Entombment%20of%20Christ%2001.jpg
 UMLS_CUI: C0006407
 MeSH_tree_code: I01.076.201.450.550.150

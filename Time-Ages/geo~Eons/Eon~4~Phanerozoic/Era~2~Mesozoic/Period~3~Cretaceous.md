@@ -17,9 +17,9 @@ described_by_source:
 different_from: "[[_Standards/WikiData/WD~Kreda,616401]]"
 named_by: "[[_Standards/WikiData/WD~Jean_Baptiste_Julien_d'Omalius_d'Halloy,1323652]]"
 part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-end_time: -66000000-01-01T00:00:00Z
+end_time: -66000000-06
 Commons_category: Cretaceous
-start_time: -145000000-01-01T00:00:00Z
+start_time: -145000000-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20105%20Ma%20%28Albian%20Age%29.png
 IPA_transcription: /krɪˈteɪʃəs/
 sRGB_color_hex_triplet: 7FC64E

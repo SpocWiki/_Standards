@@ -41,7 +41,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/A%20Shot%20Of%20Formic%20Acid.jpg
 Commons_category: Formicidae
 taxon_name: Formicidae
-start_time: -140000000-01-01T00:00:00Z
+start_time: -140000000-06
 Commons_gallery: Ant
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ant%20attacks%20ladybeetle.ogv

@@ -15,7 +15,7 @@ this_zoological_name_is_coordinate_with: "[[_Standards/WikiData/WD~Hydrophiidae,
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: "1057565"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aipysurus%20laevis.jpg
-start_time: -3600000-01-01T00:00:00Z
+start_time: -3600000-06
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sea%20Snake%20range.png
 Commons_category: Hydrophiinae
 taxon_name: Hydrophiinae

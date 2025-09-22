@@ -12,7 +12,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 different_from: "[[_Standards/WikiData/WD~Capra,12786688]]"
 parent_taxon: "[[_Standards/WikiData/WD~Caprini,19806047]]"
-start_time: -2600000-01-01T00:00:00Z
+start_time: -2600000-06
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
 ITIS_TSN: "180714"

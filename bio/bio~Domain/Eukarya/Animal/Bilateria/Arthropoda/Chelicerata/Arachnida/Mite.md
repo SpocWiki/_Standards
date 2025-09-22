@@ -16,7 +16,7 @@ Krugosvet_article: biologiya/kleshchi
 MeSH_tree_code: B01.050.500.131.166.132
 OmegaWiki_Defined_Meaning: 2386
 P8189: 987007553463905171
-start_time: "-400000000-01-01T00:00:00Z"
+start_time: "-400000000-06"
 taxon_common_name:
 - клещи
 - midd

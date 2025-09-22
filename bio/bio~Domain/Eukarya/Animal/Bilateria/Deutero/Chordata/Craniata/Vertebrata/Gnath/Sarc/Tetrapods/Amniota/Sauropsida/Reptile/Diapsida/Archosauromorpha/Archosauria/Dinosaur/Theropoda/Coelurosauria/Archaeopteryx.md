@@ -28,8 +28,8 @@ size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Arch
 P8189: "987007294839505171"
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Archaeopteryx"]
 taxon_common_name: 始祖鳥
-end_time: -148500000-01-01T00:00:00Z
-start_time: -150800000-01-01T00:00:00Z
+end_time: -148500000-06
+start_time: -150800000-06
 ---
 
 # [[Archaeopteryx]] 

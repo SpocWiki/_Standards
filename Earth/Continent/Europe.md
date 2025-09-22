@@ -71,8 +71,8 @@ partially_coincident_with: "[[_Standards/WikiData/WD~Europe_as_a_continent,92076
 coordinates_of_easternmost_point: Point(41.0 56.0)
 coordinates_of_westernmost_point: Point(-10.0 52.0)
 time_of_discovery_or_invention:
-  - -200000-01-01T00:00:00Z
-  - -1200000-01-01T00:00:00Z
+  - -200000-06
+  - -1200000-06
 coordinate_location: Point(9.14062 48.690959)
 most_populous_urban_area: "[[_Standards/WikiData/WD~Istanbul,406]]"
 lowest_point: "[[_Standards/WikiData/WD~Caspian_Sea,5484]]"

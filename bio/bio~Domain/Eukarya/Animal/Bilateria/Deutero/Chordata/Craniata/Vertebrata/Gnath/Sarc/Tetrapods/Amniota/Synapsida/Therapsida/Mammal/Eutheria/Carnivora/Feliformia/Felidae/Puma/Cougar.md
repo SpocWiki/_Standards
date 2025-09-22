@@ -78,7 +78,7 @@ CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
 subclass_of: "[[_Standards/WikiData/WD~big_cat,6667323]]"
 taxon_synonym: "[[_Standards/WikiData/WD~Felis_concolor,109647288]]"
 original_combination: "[[_Standards/WikiData/WD~Felis_concolor,109647288]]"
-start_time: -300000-01-01T00:00:00Z
+start_time: -300000-06
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 gestation_period: 94

@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q101362
 instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
-start_time: -1900000-01-01T00:00:00Z
+start_time: -1900000-06
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 taxon_common_name:
   - Caveman
@@ -23,7 +23,7 @@ Krugosvet_article_archived_: biologiya/chelovek-pryamokhodyashchii
 Commons_category: Homo erectus
 taxon_name: Homo erectus
 short_name: H. erectus
-end_time: -143000-01-01T00:00:00Z
+end_time: -143000-06
 ---
 
 # [[Homo_erectus]] 

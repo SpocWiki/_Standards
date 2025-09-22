@@ -15,7 +15,7 @@ Commons_gallery: Alligator
 Commons_category: Alligator
 taxon_name: Alligator
 IMDb_keyword: alligator
-start_time: -37000000-01-01T00:00:00Z
+start_time: -37000000-06
 audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Alligatorbellow1.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Alligatorhiss.ogg

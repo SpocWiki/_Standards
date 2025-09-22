@@ -17,7 +17,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~grain_storage_building,60168923]]"
 has_use: "[[_Standards/WikiData/WD~storage,2534289]]"
 different_from: "[[_Standards/WikiData/WD~Q13220228,13220228]]"
-start_time: -9000-01-01T00:00:00Z
+start_time: -9000-06
 Nomenclature_for_Museum_Cataloging: "555"
 BHCL_UUID: e339faf2-a429-4368-a380-bace90ebff21
 image:

@@ -81,7 +81,7 @@ Instagram_username: amnesty
 X_Twitter_username: amnesty
 floruit:
   - 1997-01-01T00:00:00Z
-  - 2000-01-01T00:00:00Z
+  - 2000-06
   - 2000-09-01T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Amnesty%20international%20Logo.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Amnesty%20International%20Sections%202012.svg

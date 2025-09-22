@@ -12,7 +12,7 @@ has_characteristic: "[[_Standards/WikiData/WD~monotheism,9159]]"
 named_after: "[[_Standards/WikiData/WD~Abraham,9181]]"
 founded_by: "[[_Standards/WikiData/WD~Abraham,9181]]"
 Universal_Decimal_Classification: 26/28
-inception: -2000-01-01T00:00:00Z
+inception: -2000-06
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%22Family%20tree%22%20of%20the%20Abrahamic%20religions.jpeg
   - http://commons.wikimedia.org/wiki/Special:FilePath/%22Family%20tree%22%20of%20the%20Abrahamic%20religions.png

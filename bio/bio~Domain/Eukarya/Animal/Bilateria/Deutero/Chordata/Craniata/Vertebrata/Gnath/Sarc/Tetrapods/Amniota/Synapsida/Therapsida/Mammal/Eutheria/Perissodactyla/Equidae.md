@@ -26,7 +26,7 @@ Commons_category: Equidae
 taxon_name: Equidae
 NBN_System_Key: NHMSYS0000376630
 taxon_common_name: hestefamilien
-start_time: -54000000-01-01T00:00:00Z
+start_time: -54000000-06
 ---
 
 # [[Equidae]] 

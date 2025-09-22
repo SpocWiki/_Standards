@@ -9,7 +9,7 @@ immediate_cause_of:
   - "[[_Standards/WikiData/WD~impact_winter,3032301]]"
 has_cause: "[[_Standards/WikiData/WD~Chicxulub_impactor,5096573]]"
 described_by_source: "[[_Standards/WikiData/WD~Q38103952,38103952]]"
-point_in_time: -66000000-01-01T00:00:00Z
+point_in_time: -66000000-06
 instance_of: "[[_Standards/WikiData/WD~extinction_event,55814]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Impact%20event.jpg
 Commons_category: K/T Event

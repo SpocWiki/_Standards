@@ -36,7 +36,7 @@ pronunciation_audio:
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_Enzyklopädie_(19_ed.),17377889]]"
   - "[[_Standards/WikiData/WD~Q135297649,135297649]]"
-point_in_time: -13798000000-01-01T00:00:00Z
+point_in_time: -13798000000-06
 studied_by:
   - "[[_Standards/WikiData/WD~cosmology,338]]"
   - "[[_Standards/WikiData/WD~theory_of_relativity,43514]]"

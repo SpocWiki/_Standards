@@ -11,7 +11,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 taxon_rank: "[[_Standards/WikiData/WD~superfamily,2136103]]"
-start_time: -20400000-01-01T00:00:00Z
+start_time: -20400000-06
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: "943782"
 U_S_National_Archives_Identifier: "10648081"
