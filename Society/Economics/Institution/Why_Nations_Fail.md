@@ -1,9 +1,16 @@
 
+# [[Why_Nations_Fail]] 
+
+#is_a_/Book 
+#is_a_ :: [[../../Communication/Media/Writing/Book|Book]]  
+
+#has_/url_ :: 
+
 ## #has_/text_of_/abstract 
 
 > Why Nations Fail: The Origins of Power, Prosperity, and Poverty, first published in 2012, 
-> is a book by economists Daron Acemoglu and James A. Robinson, who jointly 
-> received the 2024 [[../../Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Economy_Nobel_Prize|Nobel Economics Prize]] (alongside Simon Johnson) 
+> is a book by economists Daron Acemoglu and James A. Robinson, 
+> who jointly received the 2024 [[../../Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Economy_Nobel_Prize|Nobel Economics Prize]] (alongside Simon Johnson) 
 > for their contribution in comparative studies of prosperity between nations. 
 > 
 > The book applies insights from institutional economics, development economics, 
@@ -14,7 +21,7 @@
 > The authors also maintain a website (with a blog inactive since 2014) 
 > about the ongoing discussion of the book.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Why%20Nations%20Fail) 
+> [Wikipedia](https://en.wikipedia.org/wiki/Why%20Nations%20Fail)  
 
 
 ## Confidential Links & Embeds: 

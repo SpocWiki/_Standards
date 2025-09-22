@@ -70,7 +70,7 @@ IPTC_NewsCode:
 
 # [[Gender]] 
 
-#is_/different_from :: [[Biological_Sex]] 
+#is_/different_from :: [[Sex/Biological_Sex]] 
 #is_/same_as :: [[../../../WikiData/WD~gender,48277]]
 
 ## #has_/text_of_/abstract 

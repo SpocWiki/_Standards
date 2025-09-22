@@ -2,6 +2,7 @@
 aliases:
 - "Hundred Year War"
 - "Hundred Years War"
+- "100 Years War"
 - "Hundred Years' War"
 BHCL_UUID: 622e9677-7ebf-4fb9-86f8-aa0fdd57fd6e
 Commons_category: "Hundred Years' War"
