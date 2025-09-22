@@ -39,7 +39,9 @@ ATC_code: S01XA07
 
 ## #has_/text_of_/abstract 
 
-> An **Alum** is a type of chemical compound, usually a hydrated double sulfate salt of aluminium with the general formula XAl(SO4)2·12 H2O, such that X is a monovalent cation such as potassium or ammonium. By itself, alum often refers to potassium alum, with the formula KAl(SO4)2·12 H2O. Other alums are named after the monovalent ion, such as sodium alum and ammonium alum.
+> An **Alum** is a type of chemical compound, usually a hydrated double sulfate salt of aluminium with the general formula XAl(SO4)2·12 H2O, such that X is a monovalent cation such as potassium or ammonium. 
+> 
+> By itself, alum often refers to potassium alum, with the formula KAl(SO4)2·12 H2O. Other alums are named after the monovalent ion, such as sodium alum and ammonium alum.
 >
 > The name alum is also used, more generally, for salts with the same formula and structure, except that aluminium is replaced by another trivalent metal ion like chromiumIII, or sulfur is replaced by another chalcogen like selenium. The most common of these analogs is chrome alum KCr(SO4)2·12 H2O.
 >

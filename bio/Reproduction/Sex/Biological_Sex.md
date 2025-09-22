@@ -57,7 +57,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%
 # [[Biological_Sex]] 
 
 #is_/different_from :: [[Gender]]
-#is_/same_as :: [[../../WikiData/WD~Biological_sex,290|WD~Biological_sex,290]] 
+#is_/same_as :: [[../../../WikiData/WD~Biological_sex,290|WD~Biological_sex,290]] 
 
 ## #has_/text_of_/abstract 
 

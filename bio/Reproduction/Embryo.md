@@ -38,6 +38,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%AD%D0%BC%D0%B1%D1%
 
 # [[Embryo]] 
 
+#has_/next_/state :: [[Embryo/Human_Fetus|Human_Fetus]]  
 #is_/same_as :: [[../../WikiData/WD~Embryo,33196|WD~Embryo,33196]] 
 
 ## #has_/text_of_/abstract 

@@ -49,6 +49,10 @@ video:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Metaux%20et%20isolants%2C%20explication%20quantique%20de%20la%20difference.ogv"
 ---
 
+# [[Metal]] 
+
+#is_/same_as :: [[../../WikiData/WD~Metal,11426|WD~Metal,11426]] 
+
 ## #has_/text_of_/abstract  
 
 > A **Metal** (from Ancient Greek  μέταλλον (métallon) 'mine, quarry, metal') 

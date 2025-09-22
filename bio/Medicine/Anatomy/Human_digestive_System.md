@@ -44,6 +44,10 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Gabonetako%20digestio
 WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/digestive_system"
 ---
 
+# [[Human_digestive_System]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Human_digestive_system,9649|WD~Human_digestive_system,9649]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Human digestive system** consists of the gastrointestinal tract plus the accessory organs of digestion (the tongue, salivary glands, pancreas, liver, and gallbladder). Digestion involves the breakdown of food into smaller and smaller components, until they can be absorbed and assimilated into the body. The process of digestion has three stages: the cephalic phase, the gastric phase, and the intestinal phase.

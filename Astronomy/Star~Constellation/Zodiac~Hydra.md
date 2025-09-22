@@ -6,34 +6,42 @@ tags:
   - astro/Zodiac
 type: Zodiac
 aliases:
-has_id_wikidata: Q102701
+has_id_wikidata: Q10578
+different_from: "[[_Standards/WikiData/WD~Hydra,102701]]"
 named_after: "[[_Standards/WikiData/WD~Hydra,170379]]"
-instance_of: "[[_Standards/WikiData/WD~moon_of_Pluto,184246]]"
-discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Marc_Buie,1339888]]"
-  - "[[_Standards/WikiData/WD~Alan_Stern,2331659]]"
-part_of: "[[_Standards/WikiData/WD~Pluto_System,108855214]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~Pluto,339]]"
-site_of_astronomical_discovery: "[[_Standards/WikiData/WD~Hubble_Space_Telescope,2513]]"
-different_from: "[[_Standards/WikiData/WD~Hydra,10578]]"
-mass: 50000000000000000
-temperature:
-  - 33
-  - 55
-albedo: 0.35
-orbital_eccentricity: 0.0051
-orbital_inclination: 0.242
-radius: 57.5
-apparent_magnitude: 23.38
-orbital_period: 38.206
-semi_major_axis_of_an_orbit: 64749
-pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Hydra.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydra%2014.07.2015.jpg
-astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydra%20moon%20symbol%20%28fixed%20width%29.svg
-IPA_transcription: ˈhyːdʁa
-Commons_category: Hydra (moon)
-provisional_designation: S/2005 P 1
-time_of_discovery_or_invention: 2005-05-15T00:00:00Z
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+  - "[[_Standards/WikiData/WD~Hydra,105091422]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Q10729033,10729033]]"
+  - "[[_Standards/WikiData/WD~Template_Stars_of_Hydra,14336006]]"
+shares_border_with:
+  - "[[_Standards/WikiData/WD~Virgo,8842]]"
+  - "[[_Standards/WikiData/WD~Centaurus,8844]]"
+  - "[[_Standards/WikiData/WD~Cancer,8849]]"
+  - "[[_Standards/WikiData/WD~Leo,8853]]"
+  - "[[_Standards/WikiData/WD~Puppis,9251]]"
+  - "[[_Standards/WikiData/WD~Crater,9282]]"
+  - "[[_Standards/WikiData/WD~Canis_Minor,9305]]"
+  - "[[_Standards/WikiData/WD~Monoceros,10428]]"
+  - "[[_Standards/WikiData/WD~Pyxis,10473]]"
+  - "[[_Standards/WikiData/WD~Antlia,10481]]"
+  - "[[_Standards/WikiData/WD~Corvus,10517]]"
+  - "[[_Standards/WikiData/WD~Sextans,10525]]"
+  - "[[_Standards/WikiData/WD~Lupus,10571]]"
+  - "[[_Standards/WikiData/WD~Libra,10580]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+area: 1303
+official_name: Hydra
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydra%20constellation%20map.svg
+astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydra%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/HydraCC.jpg
+Commons_gallery: Hydra (constellation)
+Commons_category: Hydra (constellation)
+short_name: Hya
 ---
 
 # [[Zodiac~Hydra]] 
@@ -44,8 +52,18 @@ time_of_discovery_or_invention: 2005-05-15T00:00:00Z
 [name-genitive::Hydrae]
 [name-de::Wasserschlange]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hydra,102701]] 
+#is_/same_as :: [[WD~Hydra,10578]] 
 
+## #has_/text_of_/abstract 
+
+> Hydra is the largest of the 88 modern constellations, measuring 1303 square degrees, 
+> and also the longest at over 100 degrees. 
+> 
+> Its southern end borders Libra and Centaurus and its northern end borders Cancer. 
+> It was included among the 48 constellations listed by the 2nd century astronomer Ptolemy. 
+> Commonly represented as a water snake, it straddles the celestial equator.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Hydra%20(constellation)) 
 
 ## Confidential Links & Embeds: 
 

@@ -1,0 +1,75 @@
+---
+aliases:
+  - Human Pregnancy
+has_id_wikidata: Q11995
+Commons_gallery: Human pregnancy
+Commons_category: Human pregnancy
+Krugosvet_article_archived_: nauka_i_tehnika/biologiya/BEREMENNOST_I_RODI.html
+Unicode_character:
+  - 🤰
+  - 🫃
+  - 🫄
+has_cause:
+  - "[[_Standards/WikiData/WD~in_vitro_fertilization,200117]]"
+  - "[[_Standards/WikiData/WD~human_fertilization,2666904]]"
+part_of:
+  - "[[_Standards/WikiData/WD~adulthood,378915]]"
+  - "[[_Standards/WikiData/WD~motherhood,1956046]]"
+  - "[[_Standards/WikiData/WD~mother,7560]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+health_specialty: "[[_Standards/WikiData/WD~gynaecology,1221899]]"
+subclass_of: "[[_Standards/WikiData/WD~pregnancy,1490716]]"
+maintained_by_WikiProject:
+  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Sexology_and_sexuality,8485943]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Women's_History,18377637]]"
+  - "[[_Standards/WikiData/WD~Reproductive_medicine_task_force,21830355]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Women's_Health,21831121]]"
+instance_of: "[[_Standards/WikiData/WD~physiological_condition,7189713]]"
+facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Pregnancy,13099510]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27135171,27135171]]"
+on_focus_list_of_Wikimedia_project:
+  - "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+different_from: "[[_Standards/WikiData/WD~gestation,28627]]"
+duration: 38
+has_effect: "[[_Standards/WikiData/WD~parturition,34581]]"
+IAB_code: "305"
+DiseasesDB: "10545"
+OmegaWiki_Defined_Meaning: "1232378"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/PregnancyinCrossSection.jpg
+Iconclass_notation: 42A1
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Baby-1295826.svg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%97%E0%AC%B0%E0%AD%8D%E0%AC%AD%E0%AC%BE%E0%AC%AC%E0%AC%B8%E0%AD%8D%E0%AC%A5%E0%AC%BE.wav
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Pregnant%20asian%20woman.jpg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Time%20Lapse%20Pregnancy%20-%206800%20pictures%20in%2037%20seconds.webm
+UMLS_CUI: C0032961
+Terminologia_Embryologica: E1.0.2.6.1.0.1
+MeSH_tree_code: G08.686.784.769
+---
+
+# [[Human_Pregnancy]] 
+
+#is_/same_as :: [[WD~Human_pregnancy,11995]] 
+
+## #has_/text_of_/abstract 
+
+> Pregnancy is the time during which one or more offspring gestates inside a woman's uterus. 
+> A multiple pregnancy involves more than one offspring, such as with twins.
+>
+> Conception usually occurs following vaginal intercourse, but can also occur through assisted reproductive technology procedures. A pregnancy may end in a live birth, a miscarriage, an induced abortion, or a stillbirth. Childbirth typically occurs around 40 weeks from the start of the last menstrual period (LMP), a span known as the gestational age; this is just over nine months. Counting by fertilization age, the length is about 38 weeks. Implantation occurs on average 8–9 days after fertilization. An embryo is the term for the developing offspring during the first seven weeks following implantation (i.e. ten weeks' gestational age), after which the term fetus is used until the birth of a baby.
+>
+> Signs and symptoms of early pregnancy may include missed periods, tender breasts, morning sickness (nausea and vomiting), hunger, implantation bleeding, and frequent urination. Pregnancy may be confirmed with a pregnancy test. Methods of "birth control"—or, more accurately, contraception—are used to avoid pregnancy.
+>
+> Pregnancy is divided into three trimesters of approximately three months each. The first trimester includes conception, which is when the sperm fertilizes the egg. The fertilized egg then travels down the fallopian tube and attaches to the inside of the uterus, where it begins to form the embryo and placenta. During the first trimester, the possibility of miscarriage (natural death of embryo or fetus) is at its highest. Around the middle of the second trimester, movement of the fetus may be felt. At 28 weeks, more than 90% of babies can survive outside of the uterus if provided with high-quality medical care, though babies born at this time will likely experience serious health complications such as heart and respiratory problems and long-term intellectual and developmental disabilities.
+>
+> Prenatal care improves pregnancy outcomes. Nutrition during pregnancy is important to ensure healthy growth of the fetus.  Prenatal care also include avoiding recreational drugs (including tobacco and alcohol), taking regular exercise, having blood tests, and regular physical examinations. Complications of pregnancy may include disorders of high blood pressure, gestational diabetes, iron-deficiency anemia, and severe nausea and vomiting. In the ideal childbirth, labour begins on its own "at term". Babies born before 37 weeks are "preterm" and at higher risk of health problems such as cerebral palsy. Babies born between weeks 37 and 39 are considered "early term" while those born between weeks 39 and 41 are considered "full term". Babies born between weeks 41 and 42 weeks are considered "late-term" while after 42 weeks they are considered "post-term". Delivery before 39 weeks by labour induction or caesarean section is not recommended unless required for other medical reasons.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Pregnancy) 
+

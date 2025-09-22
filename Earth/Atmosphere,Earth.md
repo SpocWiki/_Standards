@@ -68,7 +68,7 @@ Roughly speaking 80% [[../Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen|
 | [[../Chemistry/Chemical_Element/Group-14-Carbon/Carbon\|Carbon]] Dioxide | 0.04           |
 | [[../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon\|Neon]]        | 0.0018         |
 | [[../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium\|Helium]]    | 0.0005         |
-| [[../Chemistry/organic/Alkane/Methane\|Methane]]                               | 0.0002         |
+| [[../Chemistry/organic/Hydrocarbon/Alkane/Methane\|Methane]]                               | 0.0002         |
 | [[../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton\|Krypton]]  | 0.0001         |
 | [[../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon\|Xenon]]      | 0.000009       |
 | [[../Chemistry/inOrganic/Water\|Water]]                                 | 0–4 (variable) |
