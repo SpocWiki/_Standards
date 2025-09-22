@@ -70,7 +70,7 @@ CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
 taxonomic_type: "[[_Standards/WikiData/WD~North_African_ostrich,3976170]]"
 diel_cycle: "[[_Standards/WikiData/WD~diurnality,4284186]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-start_time: -15000000-01-01T00:00:00Z
+start_time: -15000000-06
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_range: "[[_Standards/WikiData/WD~Africa,15]]"

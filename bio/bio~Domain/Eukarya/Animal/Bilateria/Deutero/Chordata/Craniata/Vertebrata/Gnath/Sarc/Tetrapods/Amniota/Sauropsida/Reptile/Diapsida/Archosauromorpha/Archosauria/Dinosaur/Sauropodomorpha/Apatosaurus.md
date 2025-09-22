@@ -6,7 +6,7 @@ location_of_discovery:
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Brontosaurus,3222766]]"
 described_by_source: "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
-end_time: -151000000-01-01T00:00:00Z
+end_time: -151000000-06
 length:
   - 21
   - 22.8
@@ -21,7 +21,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Louisae.jpg
 P8189: "987007532188805171"
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Apatosaurus"]
 taxon_common_name: 迷惑龍
-start_time: -152000000-01-01T00:00:00Z
+start_time: -152000000-06
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Apatosaurus%20distribution%20map.png
 ---
 

@@ -31,7 +31,7 @@ taxon_common_name:
   - spurvefugler
   - Сырддонцъиухуызтӕ
   - воробьинообразные
-start_time: -52500000-01-01T00:00:00Z
+start_time: -52500000-06
 ---
 
 # [[Passeriformes]] 

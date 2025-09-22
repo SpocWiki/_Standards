@@ -25,7 +25,7 @@ P8189: 987007292976505171
 parent_taxon: '[[_Standards/WikiData/WD~Orycteropus,1975774]]'
 sequenced_genome_URL: "https://www.dnazoo.org/assemblies/Orycteropus_afer"
 short_name: "O. afer"
-start_time: "-5000000-01-01T00:00:00Z"
+start_time: "-5000000-06"
 subclass_of: '[[_Standards/WikiData/WD~insectivore,677088]]'
 taxon_common_name:
 - Aardvark

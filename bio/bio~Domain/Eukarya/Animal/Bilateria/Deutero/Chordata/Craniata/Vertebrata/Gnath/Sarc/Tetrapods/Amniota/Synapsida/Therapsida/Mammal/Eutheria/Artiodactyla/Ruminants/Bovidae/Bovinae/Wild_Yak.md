@@ -25,7 +25,7 @@ CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
 diel_cycle: "[[_Standards/WikiData/WD~cathemeral,5052479]]"
 taxon_synonym_of: "[[_Standards/WikiData/WD~Bos_grunniens_mutus,20908497]]"
 different_from: "[[_Standards/WikiData/WD~yak,44192898]]"
-start_time: -5000000-01-01T00:00:00Z
+start_time: -5000000-06
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 endemic_to: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 gestation_period: 258

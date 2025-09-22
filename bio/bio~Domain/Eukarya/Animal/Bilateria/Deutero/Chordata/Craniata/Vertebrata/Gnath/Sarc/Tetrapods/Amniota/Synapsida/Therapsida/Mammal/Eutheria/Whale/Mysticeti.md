@@ -6,7 +6,7 @@ title: Mysticeti
 
 ## Baleen whales 
 
-![Humpback whale](Mysticeti/Megaptera_novaeangliae58.jpg)
+![Humpback whale](Mysticeti/Balaenopteridae/Humpback_Whale/Megaptera_novaeangliae58.jpg)
 
 ## #has_/text_of_/abstract 
 
@@ -135,7 +135,7 @@ groups.
 ## Title Illustrations
 
 
-![Humpback whale](Mysticeti/Megaptera_novaeangliae58.jpg)
+![Humpback whale](Mysticeti/Balaenopteridae/Humpback_Whale/Megaptera_novaeangliae58.jpg)
 
 ------------------------------------------------------------------------------
 Scientific Name ::     Megaptera novaeangliae

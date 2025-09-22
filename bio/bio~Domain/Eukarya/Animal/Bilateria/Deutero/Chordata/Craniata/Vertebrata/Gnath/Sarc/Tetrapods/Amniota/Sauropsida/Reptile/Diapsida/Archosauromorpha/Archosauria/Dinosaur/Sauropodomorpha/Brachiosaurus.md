@@ -9,7 +9,7 @@ maintained_by_WikiProject:
   - "[[_Standards/WikiData/WD~WikiProject_Palaeontology,10565469]]"
   - "[[_Standards/WikiData/WD~WikiProject_United_States,10816993]]"
 instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
-start_time: -154000000-01-01T00:00:00Z
+start_time: -154000000-06
 length:
   - 30
   - 21
@@ -25,7 +25,7 @@ size_comparison_diagram:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Human-brachiosaurus%20size%20comparison.png
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Morrison%20Formation%20Brachiosauridae%20map.png
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Brachiosaurus"]
-end_time: -150000000-01-01T00:00:00Z
+end_time: -150000000-06
 ---
 # [[Brachiosaurus]] 
 

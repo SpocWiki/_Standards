@@ -27,7 +27,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~fine_ceramic,125274801]]"
   - "[[_Standards/WikiData/WD~heavy_clay_ceramic,125275163]]"
 instance_of: "[[_Standards/WikiData/WD~ethnological_term,129133491]]"
-start_time: -29000-01-01T00:00:00Z
+start_time: -29000-06
 made_from_material: "[[_Standards/WikiData/WD~clay,42302]]"
 Dewey_Decimal_Classification: "666"
 Commons_category: Ceramics

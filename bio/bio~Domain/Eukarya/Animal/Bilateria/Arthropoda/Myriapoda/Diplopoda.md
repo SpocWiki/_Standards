@@ -9,7 +9,7 @@ described_by_source:
 has_effect: "[[_Standards/WikiData/WD~millipede_burn,4331898]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~millipede,11185669]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Millipedes,20367008]]"
-start_time: -428000000-01-01T00:00:00Z
+start_time: -428000000-06
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 parent_taxon: "[[_Standards/WikiData/WD~Myriapoda,25823]]"
 taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"

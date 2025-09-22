@@ -6,7 +6,7 @@ location_of_discovery:
   - "[[_Standards/WikiData/WD~Morrison_Formation,1195552]]"
   - "[[_Standards/WikiData/WD~United_States,30]]"
 instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
-start_time: -154000000-01-01T00:00:00Z
+start_time: -154000000-06
 length:
   - 26
   - 32
@@ -26,7 +26,7 @@ taxon_common_name:
   - diplodoco
   - ディプロドクス
   - Диплодок
-end_time: -152000000-01-01T00:00:00Z
+end_time: -152000000-06
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Diplodocus%20species%20size%20comparison.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WLA%20hmns%20Diplodocus.jpg
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Diplodocus"]

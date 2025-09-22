@@ -16,7 +16,7 @@ described_by_source:
 taxon_synonym:
   - "[[_Standards/WikiData/WD~Psiloxylaceae,13633878]]"
   - "[[_Standards/WikiData/WD~Heteropyxidaceae,13633887]]"
-start_time: -22000000-01-01T00:00:00Z
+start_time: -22000000-06
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 parent_taxon: "[[_Standards/WikiData/WD~Myrtales,21866]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"

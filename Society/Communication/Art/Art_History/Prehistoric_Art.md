@@ -8,7 +8,7 @@ described_by_source:
 instance_of:
   - "[[_Standards/WikiData/WD~type_of_arts,56055944]]"
   - "[[_Standards/WikiData/WD~aspect_in_a_historical_period,111676757]]"
-inception: -35000-01-01T00:00:00Z
+inception: -35000-06
 subclass_of: "[[_Standards/WikiData/WD~art,735]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20of%20Willendorf%20frontview%20retouched%202.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/DOPISMENNIE_FORMI_ISKUSSTVA.html

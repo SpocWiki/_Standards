@@ -28,7 +28,7 @@ end_time: 0554-01-01T00:00:00Z
 
 # [[535-Gothic_War-554]]
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Gothic_War_of_535–554,477973|WD~Gothic_War_of_535–554,477973]]
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Gothic_War_of_535–554,477973|WD~Gothic_War_of_535–554,477973]]
 
 ## #has_/text_of_/abstract 
 

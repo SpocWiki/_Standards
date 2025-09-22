@@ -1,6 +1,8 @@
 ---
 aliases:
   - Ghana Empire
+  - Ghanata
+  - Wagadu
 has_id_wikidata: Q206789
 capital: "[[_Standards/WikiData/WD~Koumbi_Saleh,682728]]"
 instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
@@ -25,15 +27,19 @@ coordinate_location: Point(-8.0 15.66666667)
 ---
 
 
-# [[c._200–c._1200s_Ghana_Empire]]
+# [[0200-Ghana_Empire–1200]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Ghana_Empire,206789|WD~Ghana_Empire,206789]]
 
 ## #has_/text_of_/abstract 
 
-> The **Ghana Empire** (Arabic: غانا), also known as simply Ghana, Ghanata, or Wagadu, was an ancient western-Sahelian empire based in the modern-day southeast of Mauritania and western Mali.
+> The **Ghana Empire** (Arabic: غانا), also known as simply Ghana, Ghanata, or Wagadu, 
+> was an ancient western-Sahelian empire based in the modern-day southeast of Mauritania and western Mali.
 >
-> It is uncertain among historians when Ghana's ruling dynasty began. The first identifiable mention of the imperial dynasty in written records was made by Muḥammad ibn Mūsā al-Khwārizmī in 830. Further information about the empire was provided by the accounts of Cordoban scholar al-Bakri when he wrote about the region in the 11th century.
+> It is uncertain among historians when Ghana's ruling dynasty began. 
+> The first identifiable mention of the imperial dynasty in written records 
+> was made by Muḥammad ibn Mūsā al-Khwārizmī in 830. 
+> Further information about the empire was provided by the accounts of Cordoban scholar al-Bakri when he wrote about the region in the 11th century.
 >
 > After centuries of prosperity, the empire began its decline in the second millennium, and would finally become a vassal state of the rising Mali Empire at some point in the 13th century. Despite its collapse, the empire's influence can be felt in the establishment of numerous urban centers throughout its former territory. In 1957, the British colony of the Gold Coast, under the leadership of Kwame Nkrumah named itself Ghana upon independence.
 >

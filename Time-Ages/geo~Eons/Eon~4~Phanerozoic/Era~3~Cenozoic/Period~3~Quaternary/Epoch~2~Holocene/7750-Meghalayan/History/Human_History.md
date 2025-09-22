@@ -12,7 +12,7 @@ on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Q6173448,6173448]]
 studied_by: "[[_Standards/WikiData/WD~world_history,6457238]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Human_history,7875947]]"
 instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-start_time: -2600000-01-01T00:00:00Z
+start_time: -2600000-06
 subclass_of: "[[_Standards/WikiData/WD~history,309]]"
 significant_place: "[[_Standards/WikiData/WD~Africa,15]]"
 Colon_Classification: V1

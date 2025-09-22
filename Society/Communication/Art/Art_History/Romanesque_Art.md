@@ -19,7 +19,7 @@ subclass_of: "[[_Standards/WikiData/WD~medieval_art,3624153]]"
 end_time: 1200-01-01T00:00:00Z
 location: "[[_Standards/WikiData/WD~Europe,46]]"
 subject_named_as: Romanik
-start_time: 1000-01-01T00:00:00Z
+start_time: 1000-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pante%C3%B3nSanIsidoroLe%C3%B3n.jpg
 Commons_gallery: Romanesque art
 Commons_category: Romanesque art

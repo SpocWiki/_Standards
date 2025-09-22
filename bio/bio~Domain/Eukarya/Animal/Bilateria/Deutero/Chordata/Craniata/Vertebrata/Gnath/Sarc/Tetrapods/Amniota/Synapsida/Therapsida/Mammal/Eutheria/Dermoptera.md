@@ -17,7 +17,7 @@ UMLS_CUI: C0324718
 Commons_category: Dermoptera
 taxon_name: Dermoptera
 taxon_common_name: skjermflygere
-start_time: -37000000-01-01T00:00:00Z
+start_time: -37000000-06
 ---
 
 # Dermoptera

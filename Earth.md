@@ -237,7 +237,7 @@ history_of_topic:
 icon: earth_americas
 Iconclass_notation: "25"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20%285052124705%29.jpg
-inception: -4540000000-01-01T00:00:00Z
+inception: -4540000000-06
 instance_of:
   - "[[_Standards/WikiData/WD~terrestrial_planet,128207]]"
   - "[[_Standards/WikiData/WD~inner_planet_of_the_Solar_System,3504248]]"

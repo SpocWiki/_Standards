@@ -47,8 +47,8 @@ taxon_range_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Allosaurus%20distribution%20map.png
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Allosaurus%20size%20comparison.svg
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Allosaurus"]
-end_time: -145000000-01-01T00:00:00Z
-start_time: -155000000-01-01T00:00:00Z
+end_time: -145000000-06
+start_time: -155000000-06
 ---
 
 # [[Allosaurus]] 

@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/parent_organization :: Organization ] or 
+- [ #has_/parent_/organization :: Organization ] or 
 - [ has_parent_organization :: Organization ] 
 
 The larger organization that this organization is a [[subOrganization]] of, if any.

@@ -48,7 +48,7 @@ fruit_color:
 subclass_of: "[[_Standards/WikiData/WD~useful_plant,11992872]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 hardiness_of_plant: "[[_Standards/WikiData/WD~10,99549892]]"
-start_time: -15000000-01-01T00:00:00Z
+start_time: -15000000-06
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
 taxon_range:

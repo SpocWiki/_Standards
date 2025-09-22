@@ -23,7 +23,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~cooking_appliance,57583712]]"
   - "[[_Standards/WikiData/WD~heating_equipment,111509483]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Oven,22862253]]"
-start_time: -29000-01-01T00:00:00Z
+start_time: -29000-06
 Nomenclature_for_Museum_Cataloging: "4110"
 IMDb_keyword: oven
 MCN_code: 8516.60.00

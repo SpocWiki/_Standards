@@ -61,7 +61,7 @@ subclass_of: "[[_Standards/WikiData/WD~flowering_plant,886167]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 parent_taxon: "[[_Standards/WikiData/WD~Asparagales,26229]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-start_time: -60000000-01-01T00:00:00Z
+start_time: -60000000-06
 ITIS_TSN: "43190"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Babiana%20sambucina%201.jpg
 Montana_Plant_Life_URL: http://montana.plant-life.org/cgi-bin/family03.cgi?Iridaceae

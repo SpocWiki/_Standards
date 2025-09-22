@@ -33,7 +33,7 @@ Wolfram_Language_entity_code: "Entity[\"MilitaryConflict\", \"HundredYearsWar\"]
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
-
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Hundred_Years'_War,12551|WD~Hundred_Years'_War,12551]] 
 
 ## #has_/text_of_/abstract 
 

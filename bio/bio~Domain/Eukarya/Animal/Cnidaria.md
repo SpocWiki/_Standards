@@ -23,7 +23,7 @@ taxon_common_name:
   - nesledyr
   - Holtedieren
   - ožigalkarji
-start_time: -580000000-01-01T00:00:00Z
+start_time: -580000000-06
 ---
 
 # [[Cnidaria]]

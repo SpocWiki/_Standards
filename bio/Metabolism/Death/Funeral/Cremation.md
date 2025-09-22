@@ -33,7 +33,7 @@ Commons_gallery: Cremation
 MeSH_tree_code: I01.076.201.450.550.175
 EAGLE_id: objtyp/lod/231
 Library_of_Congress_Classification: RA631-RA636.7
-earliest_date: -40000-01-01T00:00:00Z
+earliest_date: -40000-06
 ---
 
 # [[Cremation]] 

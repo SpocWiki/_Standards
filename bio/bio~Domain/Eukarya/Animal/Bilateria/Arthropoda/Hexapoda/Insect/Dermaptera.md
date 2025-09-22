@@ -14,7 +14,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 uses: "[[_Standards/WikiData/WD~cannibalism_in_animals,908508]]"
-start_time: -208000000-01-01T00:00:00Z
+start_time: -208000000-06
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
 OmegaWiki_Defined_Meaning: "885"

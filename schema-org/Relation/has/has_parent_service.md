@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/parent_service :: BroadcastService ] or 
+- [ #has_/parent_/service :: BroadcastService ] or 
 - [ has_parent_service :: BroadcastService ] 
 
 A broadcast service to which the broadcast service may belong to 

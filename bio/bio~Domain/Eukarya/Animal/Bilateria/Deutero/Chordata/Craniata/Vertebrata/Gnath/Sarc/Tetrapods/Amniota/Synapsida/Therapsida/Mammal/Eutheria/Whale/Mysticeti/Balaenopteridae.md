@@ -6,7 +6,7 @@ title: Balaenopteridae
 
 ## Rorquals 
 
-![Humpback whale](Balaenopteridae/Megaptera_novaeangliae60.jpg)
+![Humpback whale](Balaenopteridae/Humpback_Whale/Megaptera_novaeangliae60.jpg)
 
 ## #has_/text_of_/abstract 
 
@@ -67,7 +67,7 @@ title: Balaenopteridae
 ## Title Illustrations
 
 
-![Humpback whale](Balaenopteridae/Megaptera_novaeangliae60.jpg)
+![Humpback whale](Balaenopteridae/Humpback_Whale/Megaptera_novaeangliae60.jpg)
 
 ------------------------------------------------------------------------------
 Scientific Name ::     Megaptera novaeangliae

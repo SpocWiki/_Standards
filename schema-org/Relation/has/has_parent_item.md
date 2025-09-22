@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/parent_item :: Comment ] or 
+- [ #has_/parent_/item :: Comment ] or 
 - [ has_parent_item :: Comment ] 
 
 The parent of a question, answer or item in general.

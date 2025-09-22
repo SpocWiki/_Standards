@@ -24,7 +24,7 @@ NBN_System_Key: NHMSYS0000376173
 taxon_common_name:
   - delfinfamilien
   - delfini
-start_time: -30000000-01-01T00:00:00Z
+start_time: -30000000-06
 ---
 
 # [[Delphinidae]] 
