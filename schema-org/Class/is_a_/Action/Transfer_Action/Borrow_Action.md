@@ -25,6 +25,8 @@ title: is_a_borrow_action Class
 type: Type
 ---
 
+# [[Borrow_Action]] 
+
 Class of all borrow_actions.
 
 Tag Instances like this: 
@@ -41,6 +43,14 @@ Related actions:
 [ #is_/sub_class_of :: [[../TransferAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, lender, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
+
+## #has_/text_of_/abstract 
+
+> Borrow or **borrowing** can mean: to receive (something) from somebody temporarily, expecting to return it.
+>
+> In finance, monetary [[../../../../../Society/Economics/Money/Debt|Debt]] 
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Borrow)
 
 
 ## Confidential Links & Embeds: 

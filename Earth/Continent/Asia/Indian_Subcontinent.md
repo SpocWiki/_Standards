@@ -33,6 +33,21 @@ subreddit: subcontinent
 
 #is_/same_as :: [[WikiData/WD~Indian_subcontinent,60140|WD~Indian_subcontinent,60140]] 
 
+## #has_/map 
+
+```leaflet
+id: Asia
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+defaultZoom: 3
+long: 99.0
+lat: 40
+geojsonFolder: ./Indian_Subcontinent//
+markerFolder: ./Indian_Subcontinent/
+```
+
+
 ## #has_/text_of_/abstract 
 
 > The Indian subcontinent is a physiographic region of Asia below the Himalayas 
@@ -50,21 +65,6 @@ subreddit: subcontinent
 > which is not  considered part of the subcontinent even in extended usage.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indian%20subcontinent) 
-
-
-## #has_/map 
-
-```leaflet
-id: Asia
-zoomFeatures: true 
-minZoom: 4 
-maxZoom: 18
-defaultZoom: 3
-long: 99.0
-lat: 40
-geojsonFolder: ./Indian_Subcontinent//
-markerFolder: ./Indian_Subcontinent/
-```
 
 
 ```folderv

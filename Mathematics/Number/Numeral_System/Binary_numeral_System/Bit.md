@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Bits
+  - Shannon
+  - Shannons 
 has_id_wikidata: Q8805
 instance_of:
   - "[[_Standards/WikiData/WD~concept,151885]]"
@@ -30,18 +34,20 @@ OmegaWiki_Defined_Meaning: "356586"
 Stack_Exchange_tag: https://stackoverflow.com/tags/bit
 Wolfram_Language_unit_code: '"Bits"'
 IEV_number: 171-02-11
-aliases:
-  - Bits
 ---
 
 # [[Bit]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bit,8805|WD~Bit,8805]] 
+#is_/similar_to :: [[Nat]] 
+#is_a :: [[../Digit|Digit]] 
 
 ## #has_/text_of_/abstract 
 
-> The **Bit** is the most basic unit of information in computing and digital communication. 
-> The name is a portmanteau of binary digit. The bit represents a logical state with one of two possible values. 
+> The **Bit** is the most basic unit of [[../../../../Dimension/Information_Entropy|Information_Entropy]] in computing and digital communication. 
+> The name is a portmanteau of binary digit. 
+> 
+> The bit represents a logical state with one of two possible values. 
 > These values are most commonly represented as either "1" or "0", 
 > but other representations such as true/false, yes/no, on/off, or +/− are also widely used.
 >
