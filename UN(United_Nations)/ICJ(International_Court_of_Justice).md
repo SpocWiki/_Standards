@@ -66,6 +66,14 @@ social_media_followers:
 X_Twitter_username: cij_icj
 ---
 
+# [[ICJ(International_Court_of_Justice)]] 
+
+#is_/different_from :: [[../WikiData/ICC(International_Criminal_Court)|ICC(International_Criminal_Court)]] 
+#is_/same_as :: [[../WikiData/WD~International_Court_of_Justice,7801|WD~International_Court_of_Justice,7801]] 
+
+- Handles **disputes between states** and **advisory opinions** for UN organs and agencies.
+- Jurisdiction depends on **state consent**, which may be expressed by treaty provisions, declarations, or specific agreements.
+
 ## #has_/text_of_/abstract 
 
 > The **International Court of Justice** (ICJ; French: Cour internationale de justice, CIJ), 
