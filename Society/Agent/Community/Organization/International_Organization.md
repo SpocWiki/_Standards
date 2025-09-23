@@ -39,7 +39,8 @@ IPTC_NewsCode: mediatopic/20000644
 > and nongovernmental organizations. 
 > Additionally, entities (including states) may hold observer status.
 >
-> Examples for international organizations include: UN General Assembly, World Trade Organization, African Development Bank, UN Economic and Social Council, UN Security Council, Asian Development Bank, International Bank for Reconstruction and Development, International Monetary Fund, International Finance Corporation, Inter-American Development Bank, United Nations Environment Programme.
+> Examples for international organizations include: 
+> UN General Assembly, World Trade Organization, African Development Bank, UN Economic and Social Council, UN Security Council, Asian Development Bank, International Bank for Reconstruction and Development, International Monetary Fund, International Finance Corporation, Inter-American Development Bank, United Nations Environment Programme.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20organization) 
 

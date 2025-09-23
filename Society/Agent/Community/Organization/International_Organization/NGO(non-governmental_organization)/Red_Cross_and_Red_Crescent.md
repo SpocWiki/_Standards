@@ -1,6 +1,7 @@
 ---
 aliases:
 - "International Red Cross and Red Crescent Movement"
+- International_Red_Cross_and_Red_Crescent_Movement
 - "Red Cross"
 - "Red Crescent"
 award_received: '[[_Standards/WikiData/WD~Four_Freedoms_Award___Freedom_Medal,20203866]]'
@@ -94,9 +95,14 @@ uses:
 X_Twitter_username: icrc
 ---
 
+# [[Red_Cross_and_Red_Crescent]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~International_Red_Cross_and_Red_Crescent_Movement,7178|WD~International_Red_Cross_and_Red_Crescent_Movement,7178]] 
+
 ## #has_/text_of_/abstract 
 
-> The organized **International Red Cross and Red Crescent Movement** is a humanitarian movement 
+> The organized **International Red Cross and Red Crescent Movement** 
+> is a humanitarian movement 
 > with approximately 16 million volunteers, members, and staff worldwide. 
 > It was founded to protect human life and health, to ensure respect for all human beings, 
 > and to prevent and alleviate human suffering.

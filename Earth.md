@@ -415,7 +415,7 @@ hashtag_:
 > Earth's axis of rotation is tilted with respect to its orbital plane around the Sun, 
 > producing seasons. 
 > 
-> Earth is orbited by one permanent natural satellite, the [[Earth/Moon|Moon]], 
+> Earth is orbited by one permanent natural satellite, the [[Earth/Satellite/Moon|Moon]], 
 > which orbits Earth at 384,400 km (1.28 light seconds) 
 > and is roughly a quarter as wide as Earth. 
 > 
