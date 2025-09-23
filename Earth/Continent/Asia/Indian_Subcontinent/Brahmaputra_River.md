@@ -46,17 +46,17 @@ has_id_wikidata: Q45403
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brahmaputra_River](/_Standards/Earth/Continent/Asia/Asia~South/Brahmaputra_River.md) 
+### #is_/same_as :: [Brahmaputra_River](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.md) 
 
-### #is_/same_as :: [Brahmaputra_River.public](/_public/Earth/Continent/Asia/Asia~South/Brahmaputra_River.public.md) 
+### #is_/same_as :: [Brahmaputra_River.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.public.md) 
 
-### #is_/same_as :: [Brahmaputra_River.internal](/_internal/Earth/Continent/Asia/Asia~South/Brahmaputra_River.internal.md) 
+### #is_/same_as :: [Brahmaputra_River.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.internal.md) 
 
-### #is_/same_as :: [Brahmaputra_River.protect](/_protect/Earth/Continent/Asia/Asia~South/Brahmaputra_River.protect.md) 
+### #is_/same_as :: [Brahmaputra_River.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.protect.md) 
 
-### #is_/same_as :: [Brahmaputra_River.private](/_private/Earth/Continent/Asia/Asia~South/Brahmaputra_River.private.md) 
+### #is_/same_as :: [Brahmaputra_River.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.private.md) 
 
-### #is_/same_as :: [Brahmaputra_River.personal](/_personal/Earth/Continent/Asia/Asia~South/Brahmaputra_River.personal.md) 
+### #is_/same_as :: [Brahmaputra_River.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.personal.md) 
 
-### #is_/same_as :: [Brahmaputra_River.secret](/_secret/Earth/Continent/Asia/Asia~South/Brahmaputra_River.secret.md)
+### #is_/same_as :: [Brahmaputra_River.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.secret.md)
 

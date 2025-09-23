@@ -1331,7 +1331,7 @@ with numbers as of 2021-06
 | [[India/States~India/Mizoram]]                                                                             |   1.200 |  21.081 |    20.548 |     163.128 | 0.700 | Known for hilly terrain, rich biodiversity                      |
 | [[India/States~India/Nagaland]]                                                                            |   2.200 |  16.579 |    27.283 |     112.156 | 0.682 | Cultural heritage, significant tribal population                |
 | [[India/States~India/Odisha]]                                                                              |  46.000 | 155.707 |   601.562 |     123.340 | 0.682 | Known for mining, cultural festivals                            |
-| [[Earth/Continent/Asia/Asia~South/India/States~India/Punjab\|Punjab]]                   |  30.000 |  50.362 |   567.912 |     177.165 | 0.725 | Agricultural backbone, significant historical sites             |
+| [[Earth/Continent/Asia/Indian_Subcontinent/India/States~India/Punjab\|Punjab]]                   |  30.000 |  50.362 |   567.912 |     177.165 | 0.725 | Agricultural backbone, significant historical sites             |
 | [[India/States~India/Rajasthan]]                                                                           |  83.000 | 342.239 |   884.741 |     108.583 | 0.682 | Known for its deserts, rich in minerals                         |
 | [[India/States~India/Sikkim]]                                                                              |    .680 |   7.096 |    29.758 |     438.582 | 0.755 | Famous for biodiversity, smallest state in population           |
 | [[India/States~India/Tamil_Nadu\|Tamil Nadu]]                                                              |  78.000 | 130.058 |  2091.728 |     269.500 | 0.708 | Industrial growth hub, rich cultural heritage                   |
@@ -1469,17 +1469,17 @@ Capital :: [[India/Counties/Delhi/City/New_Delhi]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [India](/_Standards/Earth/Continent/Asia/Asia~South/India.md) 
+### #is_/same_as :: [India](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India.md) 
 
-### #is_/same_as :: [India.public](/_public/Earth/Continent/Asia/Asia~South/India.public.md) 
+### #is_/same_as :: [India.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India.public.md) 
 
-### #is_/same_as :: [India.internal](/_internal/Earth/Continent/Asia/Asia~South/India.internal.md) 
+### #is_/same_as :: [India.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India.internal.md) 
 
-### #is_/same_as :: [India.protect](/_protect/Earth/Continent/Asia/Asia~South/India.protect.md) 
+### #is_/same_as :: [India.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India.protect.md) 
 
-### #is_/same_as :: [India.private](/_private/Earth/Continent/Asia/Asia~South/India.private.md) 
+### #is_/same_as :: [India.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India.private.md) 
 
-### #is_/same_as :: [India.personal](/_personal/Earth/Continent/Asia/Asia~South/India.personal.md) 
+### #is_/same_as :: [India.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India.personal.md) 
 
-### #is_/same_as :: [India.secret](/_secret/Earth/Continent/Asia/Asia~South/India.secret.md)
+### #is_/same_as :: [India.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India.secret.md)
 

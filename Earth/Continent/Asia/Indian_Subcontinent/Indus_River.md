@@ -75,17 +75,17 @@ watershed_area: 1165000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Indus_River](/_Standards/Earth/Continent/Asia/Asia~South/Indus_River.md) 
+### #is_/same_as :: [Indus_River](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Indus_River.md) 
 
-### #is_/same_as :: [Indus_River.public](/_public/Earth/Continent/Asia/Asia~South/Indus_River.public.md) 
+### #is_/same_as :: [Indus_River.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Indus_River.public.md) 
 
-### #is_/same_as :: [Indus_River.internal](/_internal/Earth/Continent/Asia/Asia~South/Indus_River.internal.md) 
+### #is_/same_as :: [Indus_River.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Indus_River.internal.md) 
 
-### #is_/same_as :: [Indus_River.protect](/_protect/Earth/Continent/Asia/Asia~South/Indus_River.protect.md) 
+### #is_/same_as :: [Indus_River.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Indus_River.protect.md) 
 
-### #is_/same_as :: [Indus_River.private](/_private/Earth/Continent/Asia/Asia~South/Indus_River.private.md) 
+### #is_/same_as :: [Indus_River.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Indus_River.private.md) 
 
-### #is_/same_as :: [Indus_River.personal](/_personal/Earth/Continent/Asia/Asia~South/Indus_River.personal.md) 
+### #is_/same_as :: [Indus_River.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Indus_River.personal.md) 
 
-### #is_/same_as :: [Indus_River.secret](/_secret/Earth/Continent/Asia/Asia~South/Indus_River.secret.md)
+### #is_/same_as :: [Indus_River.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Indus_River.secret.md)
 

@@ -80,17 +80,17 @@ watershed_area: 1060000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ganges](/_Standards/Earth/Continent/Asia/Asia~South/Ganges.md) 
+### #is_/same_as :: [Ganges](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Ganges.md) 
 
-### #is_/same_as :: [Ganges.public](/_public/Earth/Continent/Asia/Asia~South/Ganges.public.md) 
+### #is_/same_as :: [Ganges.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Ganges.public.md) 
 
-### #is_/same_as :: [Ganges.internal](/_internal/Earth/Continent/Asia/Asia~South/Ganges.internal.md) 
+### #is_/same_as :: [Ganges.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Ganges.internal.md) 
 
-### #is_/same_as :: [Ganges.protect](/_protect/Earth/Continent/Asia/Asia~South/Ganges.protect.md) 
+### #is_/same_as :: [Ganges.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Ganges.protect.md) 
 
-### #is_/same_as :: [Ganges.private](/_private/Earth/Continent/Asia/Asia~South/Ganges.private.md) 
+### #is_/same_as :: [Ganges.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Ganges.private.md) 
 
-### #is_/same_as :: [Ganges.personal](/_personal/Earth/Continent/Asia/Asia~South/Ganges.personal.md) 
+### #is_/same_as :: [Ganges.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Ganges.personal.md) 
 
-### #is_/same_as :: [Ganges.secret](/_secret/Earth/Continent/Asia/Asia~South/Ganges.secret.md)
+### #is_/same_as :: [Ganges.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Ganges.secret.md)
 

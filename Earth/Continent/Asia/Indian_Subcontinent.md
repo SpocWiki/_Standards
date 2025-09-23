@@ -62,8 +62,8 @@ maxZoom: 18
 defaultZoom: 3
 long: 99.0
 lat: 40
-geojsonFolder: ./Asia~South//
-markerFolder: ./Asia~South/
+geojsonFolder: ./Indian_Subcontinent//
+markerFolder: ./Indian_Subcontinent/
 ```
 
 
@@ -78,17 +78,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asia~South](/_Standards/Earth/Continent/Asia/Asia~South.md) 
+### #is_/same_as :: [Indian_Subcontinent](/_Standards/Earth/Continent/Asia/Indian_Subcontinent.md) 
 
-### #is_/same_as :: [Asia~South.public](/_public/Earth/Continent/Asia/Asia~South.public.md) 
+### #is_/same_as :: [Indian_Subcontinent.public](/_public/Earth/Continent/Asia/Indian_Subcontinent.public.md) 
 
-### #is_/same_as :: [Asia~South.internal](/_internal/Earth/Continent/Asia/Asia~South.internal.md) 
+### #is_/same_as :: [Indian_Subcontinent.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent.internal.md) 
 
-### #is_/same_as :: [Asia~South.protect](/_protect/Earth/Continent/Asia/Asia~South.protect.md) 
+### #is_/same_as :: [Indian_Subcontinent.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent.protect.md) 
 
-### #is_/same_as :: [Asia~South.private](/_private/Earth/Continent/Asia/Asia~South.private.md) 
+### #is_/same_as :: [Indian_Subcontinent.private](/_private/Earth/Continent/Asia/Indian_Subcontinent.private.md) 
 
-### #is_/same_as :: [Asia~South.personal](/_personal/Earth/Continent/Asia/Asia~South.personal.md) 
+### #is_/same_as :: [Indian_Subcontinent.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent.personal.md) 
 
-### #is_/same_as :: [Asia~South.secret](/_secret/Earth/Continent/Asia/Asia~South.secret.md)
+### #is_/same_as :: [Indian_Subcontinent.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent.secret.md)
 
