@@ -1,15 +1,31 @@
 ---
 aliases:
-- Inertia
-- Mass
-- 
+  - Inertia
+  - Mass
+  - 
+has_id_wikidata: Q122508
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+measurement_scale: "[[_Standards/WikiData/WD~inertial_mass,843816]]"
+subclass_of: "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/01.%D0%9E%D0%BF%D0%B8%D1%82%20%D0%BD%D0%B0%20%D0%A2%D0%B8%D1%81%D0%B0%D0%BD%D0%B4%D0%B8.ogv
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Corioliskraftanimation.gif
+IEV_number: 113-03-02
+Krugosvet_article_archived_: nauka_i_tehnika/fizika/INERTSIYA_INERTNOST.html
 ---
 
 # [[Mass]] 
 
-#is_/same_as :: [[Moment_of_Inertia]] 
+#is_/similar_to :: [[Moment_of_Inertia]] 
+#is_/same_as :: [[../WikiData/WD~Inertia,122508|WD~Inertia,122508]]  
 
-This measures the Inertia of a Body 
+Measures the Inertia of a Body 
 when exposed to a Force. 
 This is equivalent to the [[Angular_Dimension/Moment_of_Inertia|Moment_of_Inertia]] for Rotation. 
 
@@ -19,7 +35,6 @@ the same Value operates as Weight,
 so inert Mass and heavy Mass are always proportional to each other. 
 
 There are many Units for Mass, but the SI-Unit is the [[../Unit/SI-Unit/Unit~Gram|Unit~Gram]] 
-
 
 ## #has_/text_of_/abstract 
 

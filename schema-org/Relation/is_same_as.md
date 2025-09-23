@@ -30,11 +30,13 @@ title: has_url_for_same_as
 type: Predi_Url
 ---
 
-Predicate to specify another [[../Class/is_a_/data_type/text/URL|url]] of a [[../Class/Thing|Thing]].
+# [[is_same_as]] 
 
 #is_/complement_of :: [[is_different_from]] 
 #is_/different_from :: [[is_similar_to]]
 #is_/similar_to :: [[is_similar_to]]
+
+Predicate to specify another [[../Class/is_a_/data_type/text/URL|url]] for the same [[../Class/Thing|Thing]].
 
 URLs of reference Web pages that unambiguously indicate the item's identity. 
 E.g. the URLs of the item's Wikidata entry, 

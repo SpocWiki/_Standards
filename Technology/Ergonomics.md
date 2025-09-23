@@ -3,15 +3,42 @@ aliases:
   - human factors
   - human factors engineering
   - Ergonomie
+has_id_wikidata: Q1750812
+facet_of:
+  - "[[_Standards/WikiData/WD~human_computer_interaction,207434]]"
+  - "[[_Standards/WikiData/WD~human_machine_relationship,102414150]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_ergonomics,7112625]]"
+practiced_by: "[[_Standards/WikiData/WD~ergonomist,11697052]]"
+instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+subclass_of: "[[_Standards/WikiData/WD~engineering,11023]]"
+OmegaWiki_Defined_Meaning: "1338"
+All_Science_Journal_Classification_Codes: "3307"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Computer%20Workstation%20Variables.jpg
+Stack_Exchange_tag: https://stackoverflow.com/tags/ergonomics
+Dewey_Decimal_Classification:
+  - "004.019"
+  - "005.019"
+  - "620.82"
+  - "621.3984"
+Commons_category: Ergonomics
+MeSH_tree_code:
+  - F02.784.412
+  - J01.293.556
+Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/ERGONOMIKA.html
 ---
 
 # [[Ergonomics]] 
 
-#is_/same_as :: [[Ergonomics]]  
+#is_/same_as :: [[WD~Ergonomics,1750812]]  
 
 ## #has_/text_of_/abstract 
 
-> **ergonomics**, also known as human factors or human factors engineering (HFE), is the application of psychological and physiological principles to the engineering and design of products, processes, and systems. Primary goals of human factors engineering are to reduce human error, increase productivity and system availability, and enhance safety, health and comfort with a specific focus on the interaction between the human and equipment.
+> **Ergonomics**, also known as human factors or human factors engineering (HFE), 
+> is the application of psychological and physiological principles 
+> to the engineering and design of products, processes, and systems. 
+> Primary goals of human factors engineering are to reduce human error, 
+> increase productivity and system availability, and enhance safety, health and comfort 
+> with a specific focus on the interaction between the human and equipment.
 >
 > The field is a combination of numerous disciplines, such as psychology, sociology, engineering, biomechanics, industrial design, physiology, anthropometry, interaction design, visual design, user experience, and user interface design. Human factors research employs methods and approaches from these and other knowledge disciplines to study human behavior and generate data relevant to previously stated goals. In studying and sharing learning on the design of equipment, devices, and processes that fit the human body and its cognitive abilities, the two terms, "human factors" and "ergonomics", are essentially synonymous as to their referent and meaning in current literature.
 >

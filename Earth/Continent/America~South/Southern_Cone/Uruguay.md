@@ -476,10 +476,10 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 858 ]
 
-
-
 [ISO2::UY]
 [ISO3::URY] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Uruguay,77|WD~Uruguay,77]] 
 
 ## #has_/map  
 

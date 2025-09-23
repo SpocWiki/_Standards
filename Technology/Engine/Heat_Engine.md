@@ -64,7 +64,7 @@ Energy --> Electricity --> Work
 > During this process, some heat is normally lost to the surroundings and is not converted to work. 
 > Also, some energy is unusable because of friction and drag.
 >
-> In general, an [[../Mechanical_Engineering/Engine|Engine]] is any machine that converts Energy to mechanical Work. 
+> In general, an [[../Engineering/Mechanical_Engineering/Engine|Engine]] is any machine that converts Energy to mechanical Work. 
 > 
 > Heat engines distinguish themselves from other types of engines by the fact 
 > that their efficiency is fundamentally limited by Carnot's theorem of thermodynamics. 

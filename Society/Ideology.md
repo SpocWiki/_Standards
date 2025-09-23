@@ -15,6 +15,10 @@ spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Ideolo
 subclass_of: '[[_Standards/WikiData/WD~world_view,49447]]'
 ---
 
+# [[Ideology]] 
+
+#is_/same_as :: [[../WikiData/WD~Ideology,7257|WD~Ideology,7257]] 
+
 ## #has_/text_of_/abstract 
 
 > An **Ideology** is a set of beliefs or values attributed to a person or group of persons, especially those held for reasons that are not purely about belief in certain knowledge, in which "practical elements are as prominent as theoretical ones". Formerly applied primarily to economic, political, or religious theories and policies, in a tradition going back to Karl Marx and Friedrich Engels, more recent use treats the term as mainly condemnatory.
