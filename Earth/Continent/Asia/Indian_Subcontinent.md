@@ -2,6 +2,7 @@
 aliases:
   - South Asia
   - Indian subcontinent
+  - Asia~South
 has_id_wikidata: Q60140
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~South_Asia,771405]]"
 instance_of: "[[_Standards/WikiData/WD~subcontinent,855697]]"
@@ -50,6 +51,8 @@ subreddit: subcontinent
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indian%20subcontinent) 
 
+
+## #has_/map 
 
 ```leaflet
 id: Asia
