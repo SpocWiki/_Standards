@@ -1,29 +1,31 @@
 ---
-described_by_source: '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-different_from:
-- '[[_Standards/WikiData/WD~Behaviour,1206352]]'
-- '[[_Standards/WikiData/WD~Verhalten,2515872]]'
-- '[[_Standards/WikiData/WD~Behavior,60796659]]'
-facet_of: '[[_Standards/WikiData/WD~psychology,9418]]'
-has_characteristic:
-- '[[_Standards/WikiData/WD~habit,1299714]]'
-- '[[_Standards/WikiData/WD~normality,1375683]]'
-- '[[_Standards/WikiData/WD~pattern_of_behavior,2515887]]'
-- '[[_Standards/WikiData/WD~abnormality,2724302]]'
+aliases:
+  - Behaviour
 has_id_wikidata: Q9332
+described_by_source: "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Behaviour,1206352]]"
+  - "[[_Standards/WikiData/WD~Verhalten,2515872]]"
+  - "[[_Standards/WikiData/WD~Behavior,60796659]]"
+facet_of: "[[_Standards/WikiData/WD~psychology,9418]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~habit,1299714]]"
+  - "[[_Standards/WikiData/WD~normality,1375683]]"
+  - "[[_Standards/WikiData/WD~pattern_of_behavior,2515887]]"
+  - "[[_Standards/WikiData/WD~abnormality,2724302]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~animal_behavior,2990593]]'
-- '[[_Standards/WikiData/WD~human_behavior,3769299]]'
-- '[[_Standards/WikiData/WD~action,4026292]]'
-- '[[_Standards/WikiData/WD~system_behaviour,108427150]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Adams%20and%20Westlake%20%283092762993%29.jpg"
-instance_of: '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
+  - "[[_Standards/WikiData/WD~animal_behavior,2990593]]"
+  - "[[_Standards/WikiData/WD~human_behavior,3769299]]"
+  - "[[_Standards/WikiData/WD~action,4026292]]"
+  - "[[_Standards/WikiData/WD~system_behaviour,108427150]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Adams%20and%20Westlake%20%283092762993%29.jpg
+instance_of: "[[_Standards/WikiData/WD~psychology_concept,96634632]]"
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~behavior,2515874]]'
-- '[[_Standards/WikiData/WD~conduct,106803732]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Ugali.wav"
-studied_in: '[[_Standards/WikiData/WD~behavioral_sciences,3919817]]'
-subclass_of: '[[_Standards/WikiData/WD~pattern,2083958]]'
+  - "[[_Standards/WikiData/WD~behavior,2515874]]"
+  - "[[_Standards/WikiData/WD~conduct,106803732]]"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Ugali.wav
+studied_in: "[[_Standards/WikiData/WD~behavioral_sciences,3919817]]"
+subclass_of: "[[_Standards/WikiData/WD~pattern,2083958]]"
 U_S_National_Archives_Identifier: 10676224
 ---
 

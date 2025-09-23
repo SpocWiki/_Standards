@@ -20,7 +20,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Pirate%20street%20vend
 
 # [[Copyright_Infringement]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Copyright_infringement,647578|WD~Copyright_infringement,647578]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Copyright_infringement,647578|WD~Copyright_infringement,647578]] 
 
 ## #has_/text_of_/abstract 
 

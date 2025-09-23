@@ -25,8 +25,10 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/DVIGATEL_TEPLOVO
 
 Heat Engines are bounded by the **Carnot efficiency**: η = 1 − TCold / THot 
 Steam Turbines (Peak 47%) or internal Combustion Engines (Peak 45%) 
- are less efficient than Gas Turbines (Peak 62%) and using the Heat adds another 20%. 
-Their advantage is that all other Forms of Energy can be converted to Heat, 
+ are less efficient than Combined Gas Turbines (Peak 62%). 
+ Using the remaining Heat for Heating adds another 20%. 
+ 
+Heat Engines advantage is that ALL other Forms of Energy can be converted to Heat, 
 but direct conversion to Work e.g. via electrochemical cell would be more efficient. 
 
 ```mermaid 
@@ -38,6 +40,12 @@ better are Fuel-Cells:
 graph LR
 Energy --> Electricity --> Work
 ```
+
+### Bottom line
+
+- **For mobile applications:** Internal combustion engines are generally more efficient and practical.
+- **For large stationary power plants:** External combustion engines (steam turbines) can be as efficient, but the cutting-edge combined-cycle gas turbines (internal combustion at core) lead in efficiency today.
+
 
 ## #has_/text_of_/abstract 
 

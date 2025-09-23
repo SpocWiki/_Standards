@@ -26,7 +26,7 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~evidential_value,110953222]]"
 
 # [[Evidence]] 
 
-#is_/same_as :: [[../../WikiData/WD~Evidence,176763|WD~Evidence,176763]] 
+#is_/same_as :: [[../../../WikiData/WD~Evidence,176763|WD~Evidence,176763]] 
 
 ## #has_/text_of_/abstract 
 

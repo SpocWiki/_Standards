@@ -26,6 +26,9 @@ subclass_of: '[[_Standards/WikiData/WD~cardinality,4049983]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infinity,15603314]]'
 ---
 
+# [[Infinity]] 
+
+
 ## #has_/text_of_/abstract 
 
 > **Infinity** is something which is boundless, endless, or larger than any natural number. 

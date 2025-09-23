@@ -22,15 +22,37 @@ PhilPapers_topic: constitutional-law
 
 # [[Constitutional_Law]] 
 
-#is_/same_as :: [[../../WikiData/WD~Constitutional_law,11206|WD~Constitutional_law,11206]] 
+#is_/same_as :: [[../../../WikiData/WD~Constitutional_law,11206|WD~Constitutional_law,11206]] 
 
 ## #has_/text_of_/abstract 
 
-> Constitutional law is a body of law which defines the role, powers, and structure of different entities within a state, namely, the executive, the parliament or legislature, and the judiciary; as well as the basic rights of citizens and their relationship with their governments, and in federal countries such as the United States and Canada, the relationship between the central government and state, provincial, or territorial governments. 
+> Constitutional law is a body of law 
+> which defines the role, powers, and structure of different entities within a state, 
+> namely, the executive, the parliament or legislature, and the judiciary; 
+> as well as the basic rights of citizens and their relationship with their governments, 
+> and in federal countries such as the United States and Canada, 
+> the relationship between the central government and state, provincial, or territorial governments. 
 >
-> Not all nation states have codified constitutions, though all such states have a jus commune, or law of the land, that may consist of a variety of imperative and consensual rules. These may include customary law, conventions, statutory law, judge-made law, or international law. Constitutional law deals with the fundamental principles by which the government exercises its authority. In some instances, these principles grant specific powers to the government, such as the power to tax and spend for the welfare of the population. Other times, constitutional principles act to place limits on what the government can do, such as prohibiting the arrest of an individual without sufficient cause.
+> Not all nation states have codified constitutions, though all such states have a jus commune, 
+> or law of the land, that may consist of a variety of imperative and consensual rules. 
+> These may include customary law, conventions, statutory law, judge-made law, 
+> or international law. 
+> 
+> Constitutional law deals with the fundamental principles 
+> by which the government exercises its authority. 
+> 
+> In some instances, these principles grant specific powers to the government, 
+> such as the power to tax and spend for the welfare of the population. 
+> Other times, constitutional principles act to place limits on what the government can do, 
+> such as prohibiting the arrest of an individual without sufficient cause.
 >
-> In most nations, such as the United States, India, and Singapore, constitutional law is based on the text of a document ratified at the time the nation came into being. Other constitutions, notably that of the United Kingdom, rely heavily on uncodified rules, as several legislative statutes and constitutional conventions, their status within constitutional law varies, and the terms of conventions are in some cases strongly contested.
+> In most nations, such as the United States, India, and Singapore, 
+> constitutional law is based on the text of a document ratified at the time the nation came into being. 
+> 
+> Other constitutions, notably that of the United Kingdom, rely heavily on uncodified rules, 
+> as several legislative statutes and constitutional conventions, 
+> their status within constitutional law varies, 
+> and the terms of conventions are in some cases strongly contested.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Constitutional%20law) 
 

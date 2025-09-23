@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Information_technology
+  - Information Technology
 has_id_wikidata: Q11661
 history_of_topic: "[[_Standards/WikiData/WD~history_of_computer_science,1189238]]"
 instance_of:

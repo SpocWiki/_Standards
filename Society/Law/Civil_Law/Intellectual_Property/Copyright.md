@@ -52,7 +52,7 @@ MeSH_tree_code:
 
 # [[Copyright]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Copyright,1297822|WD~Copyright,1297822]] 
+#is_/same_as :: [[../../../../WikiData/WD~Copyright,1297822|WD~Copyright,1297822]] 
 
 ## #has_/text_of_/abstract 
 
