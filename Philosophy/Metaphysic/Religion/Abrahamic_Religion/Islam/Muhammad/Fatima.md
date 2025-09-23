@@ -74,7 +74,7 @@ Wolfram_Language_entity_code: Entity["Person", "Fatimah::drf95"]
 > Her name and her epithets remain popular choices for Muslim girls.
 >
 > When Muhammad died in 632, 
-> Fatima and her husband Ali refused to acknowledge the authority of the first caliph, [[../Caliph/Abu_Bakr|Abu_Bakr]] . 
+> Fatima and her husband Ali refused to acknowledge the authority of the first caliph, [[../Muslim/Caliph/Abu_Bakr|Abu_Bakr]] . 
 > The couple and their supporters held that Ali was the rightful successor of Muhammad, 
 > possibly referring to his announcement at the Ghadir Khumm. 
 > 

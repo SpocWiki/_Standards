@@ -8,8 +8,8 @@ has_id_wikidata: Q334923
 
 # [[Abu_Bakr]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Abu_Bakr,334923|WD~Abu_Bakr,334923]] 
-#has_/children_/in_law :: [[../Muhammad]]  
+#is_/same_as :: [[../../../../../../../WikiData/WD~Abu_Bakr,334923|WD~Abu_Bakr,334923]] 
+#has_/children_/in_law :: [[../../Muhammad]]  
 
 ## #has_/text_of_/abstract 
 
@@ -51,10 +51,10 @@ has_id_wikidata: Q334923
 > would lead to the establishment of one of the largest empires in history. 
 > 
 > His decisive victory over the local Arab rebel forces marks a significant chapter in Islamic history. 
-> [[../../../../../../../Knowledge/Military.internal/War/Palestine-Wars/Sunni-Islam|Sunni-Islam]] tradition revere Abu Bakr as the first of the Rashidun caliphs 
+> [[../../../../../../../../Knowledge/Military.internal/War/Palestine-Wars/Sunni-Islam|Sunni-Islam]] tradition revere Abu Bakr as the first of the Rashidun caliphs 
 > and the greatest individual after the prophets and messengers. 
 > 
-> [[../../../../../../../Knowledge/Military.internal/War/Palestine-Wars/Shia-Islam|Shia-Islam]] tradition views Abu Bakr as an usurper of the caliphate and an adversary of the ahl al-bayt.
+> [[../../../../../../../../Knowledge/Military.internal/War/Palestine-Wars/Shia-Islam|Shia-Islam]] tradition views Abu Bakr as an usurper of the caliphate and an adversary of the ahl al-bayt.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Abu%20Bakr) 
 

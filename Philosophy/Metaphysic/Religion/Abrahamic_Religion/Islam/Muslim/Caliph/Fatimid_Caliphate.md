@@ -64,7 +64,7 @@ Commons_category: Fatimid Caliphate
 
 # [[Fatimid_Caliphate]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Fatimid_Caliphate,160307|WD~Fatimid_Caliphate,160307]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Fatimid_Caliphate,160307|WD~Fatimid_Caliphate,160307]] 
 
 ## #has_/text_of_/abstract 
 

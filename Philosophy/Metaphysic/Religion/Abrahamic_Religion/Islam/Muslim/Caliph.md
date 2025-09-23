@@ -39,8 +39,8 @@ female_form_of_label: خليفة د لمسلمين
 
 # [[Caliph]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Caliph,65997|WD~Caliph,65997]] 
-#is_/same_as :: [[../../../../../WikiData/WD~Caliphate,131401|WD~Caliphate,131401]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Caliph,65997|WD~Caliph,65997]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Caliphate,131401|WD~Caliphate,131401]] 
 
 ## #has_/text_of_/abstract 
 
