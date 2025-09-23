@@ -41,13 +41,13 @@ flag: "[[_Standards/WikiData/WD~flag_of_Saint_Pierre_and_Miquelon,234956]]"
 basic_form_of_government: "[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487]]"
 instance_of: "[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclop�dia_Britannica,15987490]]"
 list_of_monuments: "[[_Standards/WikiData/WD~Q2365400,2365400]]"
 legislative_body: "[[_Standards/WikiData/WD~Territorial_Council_of_Saint_Pierre_and_Miquelon,2994335]]"
 highest_point: "[[_Standards/WikiData/WD~Morne_de_la_Grande_Montagne,3051597]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Saint_Pierre_and_Miquelon,3123285]]"
-head_of_government: "[[_Standards/WikiData/WD~Stéphane_Artano,3501568]]"
+head_of_government: "[[_Standards/WikiData/WD~St�phane_Artano,3501568]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Saint_Pierre_and_Miquelon,5256072]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Saint_Pierre_and_Miquelon,5333763]]"
 driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
@@ -96,7 +96,7 @@ U_S_National_Archives_Identifier: "10044678"
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Armoiries%20SaintPierreetMiquelon.svg
 Dewey_Decimal_Classification: 2--7188
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Miquelon%20banner.jpg
-Unicode_character: 🇵🇲
+Unicode_character: ????
 geoshape: http://commons.wikimedia.org/data/main/Data:Saint+Pierre+and+Miquelon.map
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Saint-Pierre-et-Miquelon%20collectivity%20relief%20location%20map.jpg
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint-Pierre%20and%20Miquelon%20EEZ%20map-en.svg
@@ -141,7 +141,7 @@ has_place_continent:: [[North-America]]
 
 ## #has_/text_of_/abstract 
 
-> **Saint Pierre and Miquelon** ( MEEK-ə-lon), officially the Territorial Collectivity of Saint Pierre and Miquelon (French: Collectivité territoriale de Saint-Pierre-et-Miquelon), 
+> **Saint Pierre and Miquelon** ( MEEK-?-lon), officially the Territorial Collectivity of Saint Pierre and Miquelon (French: Collectivit� territoriale de Saint-Pierre-et-Miquelon), 
 > is a self-governing territorial overseas collectivity of France in the northwestern Atlantic Ocean, 
 > located near the Canadian province of Newfoundland and Labrador. 
 > 
@@ -163,7 +163,7 @@ has_place_continent:: [[North-America]]
 > which extends into the southwestern coast of Newfoundland, 
 > near the Grand Banks of Newfoundland. 
 > 
-> St. Pierre is 19 kilometres (10+1⁄2 nautical miles) from Point May on the Burin Peninsula of Newfoundland and 3,819 kilometres (2,373 mi) from Brest, the nearest city in Metropolitan France. The tiny Canadian Green Island lies 10 kilometres (5+1⁄2 nmi) east of Saint Pierre, roughly halfway to Point May.
+> St. Pierre is 19 kilometres (10+1/2 nautical miles) from Point May on the Burin Peninsula of Newfoundland and 3,819 kilometres (2,373 mi) from Brest, the nearest city in Metropolitan France. The tiny Canadian Green Island lies 10 kilometres (5+1/2 nmi) east of Saint Pierre, roughly halfway to Point May.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saint%20Pierre%20and%20Miquelon) 
 

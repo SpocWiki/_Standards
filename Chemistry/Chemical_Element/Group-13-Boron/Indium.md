@@ -73,6 +73,8 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Indium\"]"
 ZVG_number: 8370
 ---
 
+# [[Indium]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Indium,1094]] 
 
@@ -98,6 +100,7 @@ ZVG_number: 8370
 (PeriodNo::5)
 (GroupNo::13)
 
+#is_/same_as :: [[../../../WikiData/WD~Indium,1094|WD~Indium,1094]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"creator": "svg2geojson v0.7.0",
+"name": "Atmospheric_Transmission-en",
+"features": [
+{ "type": "Feature", 
+"properties": {
+	"id": "1576",
+	"fill": "#F0F",
+	"title": "Earth-Emission-01",
+	"name": "Earth-01-Emission"
+}, 
+"geometry": { "type": "Polygon", "coordinates": [ 
+[ [ 20.081403, 38.153356 ], [ 20.671851, 38.153356 ], [ 20.58085, 38.197258 ], [ 20.479999, 38.209454 ], [ 20.417569, 38.21799 ], [ 20.393557, 38.202136 ], [ 20.335928, 38.204576 ], [ 20.302311, 38.219211 ], [ 20.134229, 38.225309 ], [ 20.11502, 38.193601 ], [ 20.081403, 38.153356 ] ]
+ ] } }
+]}

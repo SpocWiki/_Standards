@@ -28,12 +28,14 @@ significant_person:
 subclass_of: '[[_Standards/WikiData/WD~-ism,158646]]'
 ---
 
+# [[Individualism]] 
+
 #has_/creator :: [[../../../../_protect/Society/Sociology/Politics/UK_Politics/Hobbes,Thomas|Hobbes,Thomas]] 
 #has_/creator :: [[../../../../Philosophy/Philosopher/Early_modern_Philosopher/Locke,John|Locke,John]]  
 #has_/creator :: [[../../../../Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques|Rousseau,Jean-Jacques]]  
 
-#is_/same_as :: [[../../../../WikiData/WD~Individualism,171995_WD~Individualism,171995]] 
 #is_/opposite_of :: [[../../../../_protect/Society/Sociology/Politics/isms/Communitarianism|Communitarianism]]  
+#is_/same_as :: [[../../../../WikiData/WD~Individualism,171995|WD~Individualism,171995]] 
 
 ## #has_/text_of_/abstract 
 

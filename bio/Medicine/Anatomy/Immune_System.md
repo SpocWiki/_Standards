@@ -15,6 +15,10 @@ UMLS_CUI: C0020962
 WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/immune_system_2"
 ---
 
+# [[Immune_System]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Immune_system,1059|WD~Immune_system,1059]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Immune system** is a network of biological systems that protects an organism from diseases. It detects and responds to a wide variety of pathogens, from viruses to bacteria, as well as cancer cells, parasitic worms, and also objects such as wood splinters, distinguishing them from the organism's own healthy tissue. Many species have two major subsystems of the immune system. The innate immune system provides a preconfigured response to broad groups of situations and stimuli. The adaptive immune system provides a tailored response to each stimulus by learning to recognize molecules it has previously encountered. Both use molecules and cells to perform their functions.
