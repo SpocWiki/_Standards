@@ -92,7 +92,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/December-banner-
 
 # [[December]]
 
-#is_/same_as :: [[../../../../../WikiData/WD~December,126|WD~December,126]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~December,126|WD~December,126]] 
 
 ## #has_/text_of_/abstract 
 

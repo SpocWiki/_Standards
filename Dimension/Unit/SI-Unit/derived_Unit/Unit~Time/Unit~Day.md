@@ -78,7 +78,7 @@ Wolfram_Language_unit_code: '"Days"'
 
 #has_/scale :: 86400 
 
-#is_/same_as :: [[../../../../WikiData/WD~Day,573|WD~Day,573]]
+#is_/same_as :: [[../../../../../WikiData/WD~Day,573|WD~Day,573]]
 
 ## #has_/text_of_/abstract 
 

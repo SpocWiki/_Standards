@@ -53,7 +53,7 @@ The day of the week, e.g. used to specify to which day the opening hours of an O
 
 Originally, URLs from <a href="http://purl.org/goodrelations/v1">GoodRelations</a> were used (for [[Day_of_Week/Monday]], [[Day_of_Week/Tuesday]], [[Day_of_Week/Wednesday]], [[Day_of_Week/Thursday]], [[Day_of_Week/Friday]], [[Day_of_Week/Saturday]], [[Day_of_Week/Sunday]] plus a special entry for [[PublicHolidays]]); these have now been integrated directly into schema.org.
 
-[ #is_/sub_class_of :: [[../../../../schema-org/Class/is_a_/Intangible/Enumeration]] ]
+[ #is_/sub_class_of :: [[../../../../../schema-org/Class/is_a_/Intangible/Enumeration]] ]
 
 #is_/same_as :: [[../../../../../WikiData/WD~Day_of_the_week,41825|WD~Day_of_the_week,41825]]
 

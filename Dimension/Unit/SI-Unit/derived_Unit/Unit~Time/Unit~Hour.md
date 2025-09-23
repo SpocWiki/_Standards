@@ -63,7 +63,7 @@ Wikidata_SPARQL_query_equivalent: wd:Q25235 p:P2370/psn:P2370 [wikibase:quantity
 
 #has_/scale :: 3600 
 
-#is_/same_as :: [[../../../../WikiData/WD~Hour,25235|WD~Hour,25235]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Hour,25235|WD~Hour,25235]] 
 
 ## #has_/text_of_/abstract 
 

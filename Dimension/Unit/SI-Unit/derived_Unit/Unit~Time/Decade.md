@@ -30,7 +30,7 @@ Iconclass_notation: 23B7
 
 # [[Decade]]
 
-#is_/same_as :: [[../../../../WikiData/WD~Decade,39911|WD~Decade,39911]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Decade,39911|WD~Decade,39911]] 
 
 ## #has_/text_of_/abstract 
 

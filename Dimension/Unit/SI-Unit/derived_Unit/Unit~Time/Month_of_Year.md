@@ -6,7 +6,7 @@ has_id_wikidata: Q5151
 
 # [[Month_of_Year]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Month,5151|WD~Month,5151]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Month,5151|WD~Month,5151]] 
 
 ## #has_/text_of_/abstract 
 

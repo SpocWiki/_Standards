@@ -86,7 +86,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/June-banner-01.j
 
 # [[June]]
 
-#is_/same_as :: [[../../../../../WikiData/WD~June,120|WD~June,120]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~June,120|WD~June,120]] 
 
 ## #has_/text_of_/abstract 
 

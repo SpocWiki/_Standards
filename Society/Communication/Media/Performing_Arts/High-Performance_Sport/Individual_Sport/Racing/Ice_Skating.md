@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Ice skating
 has_id_wikidata: Q779272
 uses: "[[_Standards/WikiData/WD~ice_skate,108640]]"
 subclass_of:
@@ -35,6 +36,7 @@ OpenStreetMap_tag: sport=ice_skating
 > using metal-bladed ice skates. 
 > 
 > People skate for various reasons, including recreation (fun), exercise, competitive sports, and commuting. 
+> 
 > Ice skating may be performed on naturally frozen bodies of water, 
 > such as ponds, lakes, canals, and rivers, 
 > and on human-made ice surfaces both indoors and outdoors.
@@ -45,7 +47,12 @@ OpenStreetMap_tag: sport=ice_skating
 > Man-made ice surfaces include ice rinks, ice hockey rinks, bandy fields, ice tracks required for the sport of ice cross downhill, and arenas.
 >
 > Various formal sports involving ice skating have emerged since the 19th century. 
-> Ice hockey, bandy, rinkball, and ringette are team sports played with, respectively, a flat sliding puck, a ball, and a rubber ring. Synchronized skating is a unique artistic team sport derived from figure skating. Figure skating, ice cross downhill, speed skating, and barrel jumping (a discipline of speed skating) are among the sporting disciplines for individuals.
+> Ice hockey, bandy, rinkball, and ringette are team sports played with, respectively, 
+> a flat sliding puck, a ball, and a rubber ring. 
+> 
+> Synchronized skating is a unique artistic team sport derived from figure skating. 
+> Figure skating, ice cross downhill, speed skating, and barrel jumping (a discipline of speed skating) 
+> are among the sporting disciplines for individuals.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ice%20skating) 
 

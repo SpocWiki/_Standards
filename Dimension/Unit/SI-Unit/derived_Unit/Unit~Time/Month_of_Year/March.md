@@ -90,7 +90,7 @@ UMLS_CUI: C3829202
 
 # [[March]]
 
-#is_/same_as :: [[../../../../../WikiData/WD~March,110|WD~March,110]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~March,110|WD~March,110]] 
 
 ## #has_/text_of_/abstract 
 

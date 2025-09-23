@@ -7,7 +7,7 @@ has_id_wikidata: Q108
 
 # [[January]]
 
-#is_/same_as :: [[../../../../../WikiData/WD~January,108|WD~January,108]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~January,108|WD~January,108]] 
 
 ## #has_/text_of_/abstract 
 

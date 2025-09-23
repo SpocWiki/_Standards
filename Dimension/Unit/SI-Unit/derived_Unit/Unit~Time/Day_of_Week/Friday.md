@@ -84,11 +84,14 @@ The day of the week between Thursday and Saturday.
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
-#is_/same_as :: [[../../../../../WikiData/WD~Friday,130|WD~Friday,130]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Friday,130|WD~Friday,130]] 
 
 ## #has_/text_of_/abstract 
 
-> **Friday** is the day of the week between Thursday and Saturday. In countries that adopt the traditional "Sunday-first" convention, it is the sixth day of the week. In countries adopting the ISO 8601-defined "Monday-first" convention, it is the fifth day of the week. 
+> **Friday** is the day of the week between Thursday and Saturday. 
+> In countries that adopt the traditional "Sunday-first" convention, it is the sixth day of the week. 
+> In countries adopting the ISO 8601-defined "Monday-first" convention, 
+> it is the fifth day of the week. 
 >
 > In most Western countries, Friday is the fifth and final day of the working week. In some other countries, Friday is the first day of the weekend, with Saturday the second. In Iran, Friday is the last day of the weekend, with Saturday as the first day of the working week. Bahrain, the United Arab Emirates (UAE), Saudi Arabia and Kuwait also followed this convention until they changed to a Friday–Saturday weekend on September 1, 2006, in Bahrain and the UAE, and a year later in Kuwait. In Israel, by Jewish tradition, Friday is the sixth day of the week, and the last working day.
 >

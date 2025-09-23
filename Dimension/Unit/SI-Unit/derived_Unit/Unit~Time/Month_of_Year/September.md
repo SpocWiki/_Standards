@@ -83,7 +83,7 @@ pronunciation_audio:
 
 # [[September]]
 
-#is_/same_as :: [[../../../../../WikiData/WD~September,123|WD~September,123]]
+#is_/same_as :: [[../../../../../../WikiData/WD~September,123|WD~September,123]]
 
 ## #has_/text_of_/abstract 
 
