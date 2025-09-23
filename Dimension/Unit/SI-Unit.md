@@ -83,7 +83,7 @@ SI-Units are defined since 1967 and standardized in ISO_80000.
 > (specifically inconsistencies between electrostatic and electromagnetic units) 
 > and the lack of coordination between the various disciplines that used them. 
 > 
-> The [[CGPM(General_Conference_on_Weights_and_Measures)]] (French: Conférence générale des poids et mesures – CGPM), which was established by the Metre Convention of 1875, 
+> The [[SI-Unit/CGPM(General_Conference_on_Weights_and_Measures)]] (French: Conférence générale des poids et mesures – CGPM), which was established by the Metre Convention of 1875, 
 > brought together many international organisations 
 > to establish the definitions and standards of a new system 
 > and to standardise the rules for writing and presenting measurements. 

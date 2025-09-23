@@ -33,7 +33,7 @@ short_name: графический
 # [[GUI(Graphical_User_Interface)]] 
 
 #is_/same_as :: [[WD~Graphical_user_interface,782543]] 
-#is_/alternative_to :: [[CLI(Command-Line_Interface)]] 
+#is_/alternative_to :: [[GUI(Graphical_User_Interface)/CLI(Command-Line_Interface)]] 
 
 ## #has_/text_of_/abstract 
 
