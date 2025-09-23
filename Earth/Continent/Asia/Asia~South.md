@@ -26,7 +26,7 @@ Commons_category: Indian subcontinent
 subreddit: subcontinent
 ---
 
-# [[Indian_Subcontinent]] 
+# [[Asia~South]] 
 
 #is_/same_as :: [[WikiData/WD~Indian_subcontinent,60140|WD~Indian_subcontinent,60140]] 
 
