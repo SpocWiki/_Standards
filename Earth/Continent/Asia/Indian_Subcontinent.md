@@ -1,5 +1,7 @@
 ---
 aliases:
+  - South Asia
+  - Indian subcontinent
 has_id_wikidata: Q60140
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~South_Asia,771405]]"
 instance_of: "[[_Standards/WikiData/WD~subcontinent,855697]]"
@@ -26,7 +28,7 @@ Commons_category: Indian subcontinent
 subreddit: subcontinent
 ---
 
-# [[Asia~South]] 
+# [[Indian_Subcontinent]] 
 
 #is_/same_as :: [[WikiData/WD~Indian_subcontinent,60140|WD~Indian_subcontinent,60140]] 
 
@@ -57,7 +59,7 @@ maxZoom: 18
 defaultZoom: 3
 long: 99.0
 lat: 40
-geojsonFolder: ./Asia~South///
+geojsonFolder: ./Asia~South//
 markerFolder: ./Asia~South/
 ```
 
