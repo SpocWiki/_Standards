@@ -1,4 +1,15 @@
 ---
+has_id_wikidata: Q252
+aliases:
+  - Indonesia
+  - Indonésie
+  - إندونيسيا
+  - 印度尼西亚
+  - Индонезия
+  - the Republic of Indonesia
+  - la República de Indonesia
+  - indonesian
+  - indonesisch
 flag: "[[_Standards/WikiData/WD~flag_of_Indonesia,101472]]"
 instance_of:
   - "[[_Standards/WikiData/WD~island_country,112099]]"
@@ -1196,7 +1207,6 @@ official_name:
   - Indonésia
   - Indonesia
   - Republik Indonesia
-has_id_wikidata: Q252
 location:
   - -6.695
   - 109.755
@@ -1219,14 +1229,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Indonesia
-  - Indonésie
-  - إندونيسيا
-  - 印度尼西亚
-  - Индонезия
-  - the Republic of Indonesia
-  - la República de Indonesia
 Languages:
   - id
   - en
@@ -1237,7 +1239,7 @@ icon: flag-id
 
 # [[Indonesia]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Indonesia,252]]  
+#is_/same_as :: [[../../../../../WikiData/WD~Indonesia,252|WD~Indonesia,252]]   
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Indonesia 
@@ -1246,7 +1248,6 @@ For more Details, check out this Repository into this Subfolder:
 
  
 ![[Flag_of_Indonesia.svg|350]]
-
 
  
 [	ISO4217-currency_alphabetic	 :: IDR ]
@@ -1312,10 +1313,10 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 [	ISO3166-1-numeric	 :: 360 ]
 
-
-
 [ISO2::ID]
 [ISO3::IDN] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Indonesia,252|WD~Indonesia,252]] 
 
 ## #has_/map  
 
