@@ -81,7 +81,7 @@ UMLS_CUI: C0282312
 > Some historians see this as a turning point in European economic development. 
 > The disease is also considered to have been responsible for the Plague of Justinian, 
 > originating in the Eastern Roman Empire in the 6th century CE, 
-> as well as the third epidemic, affecting [[../../../../../Earth/Continent/Asia/Asia~East/China|China]], [[../../../../../Earth/Continent/Asia/Asia~East/Mongolia|Mongolia]], and [[../../../../../Earth/Continent/Asia/Asia~South/India|India]], 
+> as well as the third epidemic, affecting [[../../../../../Earth/Continent/Asia/Asia~East/China|China]], [[../../../../../Earth/Continent/Asia/Asia~East/Mongolia|Mongolia]], and [[../../../../../Earth/Continent/Asia/Indian_Subcontinent/India|India]], 
 > originating in the Yunnan Province in 1855. 
 > The term bubonic is derived from the Greek word βουβών, meaning 'groin'.
 >

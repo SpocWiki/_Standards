@@ -23,7 +23,6 @@ For more Details, check out this Repository into this Subfolder:
 
 ## #has_/map  
 
-
 ```leaflet
 id: Saint-Pierre-et-Miquelon
 zoomFeatures: true 

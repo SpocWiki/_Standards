@@ -1,18 +1,75 @@
 ---
 aliases:
-- "Indo-European languages"
+  - Indo-European languages
 has_id_wikidata: Q19860
 tags:
-- Lang_Family
+  - Lang_Family
 type: LangFamily
+Libris_URI: sq465tmb482jlbg
+GOST_7_75_97_code: ино 208
+short_name:
+  - Indo-Hethitisch
+  - Indoeuropäisch
+  - Indogermanisch
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Italic,131848]]"
+  - "[[_Standards/WikiData/WD~Balto_Slavic,147356]]"
+  - "[[_Standards/WikiData/WD~Hellenic,2042538]]"
+  - "[[_Standards/WikiData/WD~Paeonian,2705672]]"
+  - "[[_Standards/WikiData/WD~Albanian,8748]]"
+  - "[[_Standards/WikiData/WD~Armenian,8785]]"
+  - "[[_Standards/WikiData/WD~Germanic_languages,21200]]"
+  - "[[_Standards/WikiData/WD~Celtic_languages,25293]]"
+  - "[[_Standards/WikiData/WD~Indo_Iranian,33514]]"
+  - "[[_Standards/WikiData/WD~Liburnian,35835]]"
+  - "[[_Standards/WikiData/WD~Lusitanian,35960]]"
+  - "[[_Standards/WikiData/WD~Illyrian,35976]]"
+  - "[[_Standards/WikiData/WD~Messapian,36383]]"
+  - "[[_Standards/WikiData/WD~Phrygian,36751]]"
+  - "[[_Standards/WikiData/WD~Thracian,36793]]"
+  - "[[_Standards/WikiData/WD~Tocharian,37029]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Jones,273969]]"
+linguistic_typology: "[[_Standards/WikiData/WD~fusional_language,318917]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~Eurasiatic,771861]]"
+  - "[[_Standards/WikiData/WD~human_language,20162172]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Indo_European_languages,18707455]]"
+named_after:
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Europe,46]]"
+instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
+follows: "[[_Standards/WikiData/WD~Proto_Indo_European,37178]]"
+number_of_speakers_writers_or_signers: 3390000000
+OmegaWiki_Defined_Meaning: "343595"
+distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/IE%20countries.png
+image: http://commons.wikimedia.org/wiki/Special:FilePath/IndoEuropeanTree.svg
+exact_match: http://publications.europa.eu/resource/authority/language/INE
+described_at_URL: http://www.sorosoro.org/famille-des-langues-indo-europeennes/
+Dewey_Decimal_Classification:
+  - "417.7"
+  - 6--1
+Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/INDOEVROPESKIE_YAZIKI.html
+Linguist_List_code: ieur
+Commons_category: Indo-European languages
+Glottolog_code: indo1319
+WALS_family_code: indoeuropean
+IETF_language_tag: ine
+ISO_639_2_code: ine
+ISO_639_5_code: ine
+ISO_639_6_code: ineu
 ---
+
+# [[LangFamily-Indo-European]] 
 
  [SpocWebEntityId:: 233 ]
 [Name::Indo-European ]
-
+#is_/same_as :: [[../../WikiData/WD~Indo-European,19860|WD~Indo-European,19860]] 
 
 ## #has_/text_of_/abstract  
-
 
 > The Indo-European languages are a language family native to the overwhelming majority of Europe, the Iranian plateau, and the northern Indian subcontinent. Some European languages of this family—English, French, Portuguese, Russian, Dutch, and Spanish—have expanded through colonialism in the modern period and are now spoken across several continents. The Indo-European family is divided into several branches or sub-families, of which there are eight groups with languages still alive today: Albanian, Armenian, Balto-Slavic, Celtic, Germanic, Hellenic, Indo-Iranian, and Italic/Romance; and another nine subdivisions that are now extinct.
 >
