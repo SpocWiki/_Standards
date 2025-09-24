@@ -29,7 +29,7 @@ type: private_note
 # [[First Agricultural Revolution]] 
 
 #is_/part_of :: [[../../../Knowledge/Economy/Agricultural_Revolution]] 
-#is_/different_from :: [[Second_Agricultural_Revolution]]  
+#is_/different_from :: [[Industry/Agriculture/Second_Agricultural_Revolution]]  
 
 ## First Agricultural Revolution
 (circa 10,000 BC), the prehistoric transition from hunting and gathering 

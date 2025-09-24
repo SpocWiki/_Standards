@@ -62,7 +62,8 @@ IMDb_keyword: nuclear-weapon
 > aims to prevent nuclear warfare via the threat of unacceptable damage 
 > and the danger of escalation to nuclear holocaust. 
 > 
-> A nuclear arms race for weapons and their delivery systems was a defining component of the Cold War. 
+> A nuclear arms race for weapons and their delivery systems 
+> was a defining component of the Cold War. 
 >
 > Strategic nuclear weapons 
 > are targeted against civilian, industrial, and military infrastructure, 

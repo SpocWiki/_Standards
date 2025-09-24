@@ -70,13 +70,13 @@ UMLS_CUI: C0021968
 Unicode_character: 碘
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Iodine,1103]]  
+# [[Iodine]] 
 
+#is_/same_as :: [[../../../WikiData/WD~Iodine,1103]]  
 
 #chemic/Element 
 [GroupName::Group-17-Halogene]
 [Group:[[../Group-17-Halogen]]
-
 
 [Name-en::Iodine]
 [Name-de::Iod]
@@ -96,7 +96,7 @@ Unicode_character: 碘
 (PeriodNo::5)
 (GroupNo::17)
 
-
+#is_/same_as :: [[../../../WikiData/WD~Iodine,1103|WD~Iodine,1103]] 
 
 ## #has_/text_of_/abstract 
 

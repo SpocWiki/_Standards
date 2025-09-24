@@ -327,7 +327,7 @@ writing_system:
 - '[[_Standards/WikiData/WD~Latin_script,8229]]'
 ---
 
- # [[Lang-eng]] 
+# [[Lang-eng]] 
 
 
 [SpocWebEntityId:: 499 ]
@@ -360,6 +360,16 @@ writing_system:
 > Thus, although most of its total vocabulary now comes from Romance languages, its grammar, phonology, and most commonly-used words keep it genealogically classified under the Germanic branch. English exists on a dialect continuum with Scots and then is most closely related to the Low Saxon and Frisian languages.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/English%20language)
+
+
+| Cockney Feature                | Estuary English |
+| ------------------------------ | --------------: |
+| Non-rhoticity                  |             100 |
+| Glottal stops (t → ʔ)          |              70 |
+| "L-vocalisation" (milk → miwk) |              80 |
+| TH-fronting (think → fink)     |              50 |
+| Diphthong shifts (face, goat)  |              50 |
+| rhyming slang usage            |              10 |
 
 
 ## Confidential Links & Embeds: 

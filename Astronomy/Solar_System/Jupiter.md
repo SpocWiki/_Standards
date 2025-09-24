@@ -225,7 +225,7 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Jupiter\"]"
 > Jupiter is surrounded by a faint planetary ring system and has a powerful magnetosphere, 
 > the second largest contiguous structure in the Solar System (after the heliosphere). 
 > Jupiter forms a system of 95 known moons and probably many more, including the 
-> four large moons discovered by Galileo Galilei in 1610: [[Io]], [[Europa,Moon]], [[Ganymede]], and [[Callisto]]. 
+> four large moons discovered by Galileo Galilei in 1610: [[Jupiter/Io]], [[Europa,Moon]], [[Ganymede]], and [[Callisto]]. 
 > Ganymede, the largest of the four, is larger than the planet Mercury. 
 > Callisto is the second largest; Io and Europa are approximately the size of Earth's Moon.
 >

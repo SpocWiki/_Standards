@@ -130,7 +130,7 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Capitalism::qk623\"]"
 > 
 > The [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|1760-Industrial_Revolution]] of the 18th century 
 > established capitalism as a dominant mode of production, 
-> characterized by [[factory work]] and a complex [[../../Economics/Division_of_Labor|division of labor]]. 
+> characterized by [[factory work]] and a complex [[../../Economics/Economic_Strategy/Division_of_Labor|division of labor]]. 
 > 
 > Through the process of [[../../Social_Issues/Globalization|globalization]], 
 > capitalism spread across the world in the 19th and 20th centuries, 

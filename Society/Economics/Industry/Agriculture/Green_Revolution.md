@@ -45,7 +45,7 @@ Wolfram_Language_entity_code: Entity["Concept", "GreenRevolution::2bt99"]
 > were heavily involved in its initial development in Mexico. 
 > 
 > A key leader was agricultural scientist [[Borlaug,Norman]], the "Father of the Green Revolution", 
-> who received the [[../Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Peace_Nobel_Prize|Nobel Peace Prize]] in 1970. 
+> who received the [[../../../Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Peace_Nobel_Prize|Nobel Peace Prize]] in 1970. 
 > He is credited with saving over a billion people from starvation. 
 > 
 > Another important scientific figure was [[Yuan Longping]], 
