@@ -1,37 +1,55 @@
 ---
-Commons_category: "Electromagnetic radiation"
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Heinrich_Hertz,41257]]'
-exact_match: "http://purl.obolibrary.org/obo/ENVO_01001026"
-has_id_wikidata: Q12969754
-has_part_s_:
-- '[[_Standards/WikiData/WD~photon,3198]]'
-- '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
+Commons_category: Electromagnetic radiation
 IEV_number: 845-21-001
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/EM%20spectrumrevised.png"
 Krugosvet_article: nauka_i_tehnika/fizika/ELEKTROMAGNITNOE_IZLUCHENIE.html
 MeSH_tree_code:
-- G01.358.500.505
-- G01.750.250
-part_of: '[[_Standards/WikiData/WD~electromagnetic_field,177625]]'
+  - G01.358.500.505
+  - G01.750.250
+UMLS_CUI: C0034519
+aliases:
+  - electromagnetic radiation
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Heinrich_Hertz,41257]]'
+exact_match: http://purl.obolibrary.org/obo/ENVO_01001026
+has_id_wikidata: Q12969754
+has_part_s_:
+  - '[[_Standards/WikiData/WD~photon,3198]]'
+  - '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/EM%20spectrumrevised.png
+part_of:
+  - '[[_Standards/WikiData/WD~electromagnetic_field,177625]]'
+  - '[[_Standards/WikiData/WD~electromagnetism,11406]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
 subclass_of: '[[_Standards/WikiData/WD~radiation,18335]]'
-time_of_discovery_or_invention: 1886-11-13
-topic_s_main_template: '[[_Standards/WikiData/WD~Q20696574,20696574]]'
-UMLS_CUI: C0034519
+time_of_discovery_or_invention: '1886-11-13'
+topic_has_template: '[[_Standards/WikiData/WD~Q20696574,20696574]]'
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Circular.Polarization.Circularly.Polarized.Light%20Right.Handed.Animation.305x190.255Colors.gif"
+video: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Circular.Polarization.Circularly.Polarized.Light%20Right.Handed.Animation.305x190.255Colors.gif
 ---
+
+# [[Electromagnetic_Radiation]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Electromagnetic_radiation,12969754|WD~Electromagnetic_radiation,12969754]] 
 
 ## #has_/text_of_/abstract 
 
-> In physics, **Electromagnetic radiation** (EMR) is the set of waves of an electromagnetic (EM) field, which propagate through space and carry momentum and electromagnetic radiant energy.
+> In physics, electromagnetic radiation (EMR) is a self-propagating wave  of the electromagnetic field 
+> that carries momentum and radiant energy through space. 
 >
-> Classically, electromagnetic radiation consists of electromagnetic waves, which are synchronized oscillations of electric and magnetic fields. In a vacuum, electromagnetic waves travel at the speed of light, commonly denoted c. The frequency of the wave's oscillation determines its wavelength in the electromagnetic spectrum. In homogeneous, isotropic media, the oscillations of the two fields are on average perpendicular to each other and perpendicular to the direction of energy and wave propagation, forming a transverse wave.
+> It encompasses a broad spectrum, classified by frequency (or its inverse - wavelength), 
+> ranging from radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, to gamma rays. 
+> Classically, electromagnetic radiation consists of electromagnetic waves, which are synchronized oscillations of electric and magnetic fields. In a vacuum, electromagnetic waves travel at the speed of light, commonly denoted c. The frequency of the wave's oscillation determines its wavelength in the electromagnetic spectrum. 
+> In homogeneous, isotropic media, the oscillations of the two fields are on average perpendicular to each other and perpendicular to the direction of energy and wave propagation, forming a transverse wave.
 >
 > Electromagnetic radiation is commonly referred to as "light", EM, EMR, or electromagnetic waves.
 >
+> All forms of EMR travel at the speed of light in a vacuum 
+> and exhibit wave–particle duality, behaving both as waves and as discrete particles called photons. 
+>
 > The position of an electromagnetic wave within the electromagnetic spectrum can be characterized by either its frequency of oscillation or its wavelength. Electromagnetic waves of different frequency are called by different names since they have different sources and effects on matter. In order of increasing frequency and decreasing wavelength, the electromagnetic spectrum includes: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays.
+>
+> Its interaction with matter depends on wavelength, influencing its uses in communication, medicine, industry, and scientific research. Radio waves enable broadcasting and wireless communication, infrared is used in thermal imaging, visible light is essential for vision, and higher-energy radiation, such as X-rays and gamma rays, is applied in medical imaging, cancer treatment, and industrial inspection. Exposure to high-energy radiation can pose health risks, making shielding and regulation necessary in certain applications.
 >
 > Electromagnetic waves are emitted by electrically charged particles undergoing acceleration, and these waves can subsequently interact with other charged particles, exerting force on them. EM waves carry energy, momentum, and angular momentum away from their source particle and can impart those quantities to matter with which they interact. Electromagnetic radiation is associated with those EM waves that are free to propagate themselves ("radiate") without the continuing influence of the moving charges that produced them, because they have achieved sufficient distance from those charges. Thus, EMR is sometimes referred to as the far field, while the near field refers to EM fields near the charges and current that directly produced them, specifically electromagnetic induction and electrostatic induction phenomena.
 >
@@ -57,4 +75,3 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Circular.Polarization
 ### #is_/same_as :: [Electromagnetic_Radiation.personal](/_personal/Science/Physics/Electricity/Electromagnetic_Radiation.personal.md) 
 
 ### #is_/same_as :: [Electromagnetic_Radiation.secret](/_secret/Science/Physics/Electricity/Electromagnetic_Radiation.secret.md)
-

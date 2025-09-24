@@ -11,7 +11,7 @@ P8189: "987007282511805171"
 
 # [[Bremsstrahlung]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Bremsstrahlung,655904|WD~Bremsstrahlung,655904]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Bremsstrahlung,655904|WD~Bremsstrahlung,655904]] 
 
 ## #has_/text_of_/abstract 
 
