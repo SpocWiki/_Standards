@@ -8,24 +8,23 @@ MeSH_tree_code:
 UMLS_CUI: C0034519
 aliases:
   - electromagnetic radiation
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Heinrich_Hertz,41257]]'
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Heinrich_Hertz,41257]]"
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001026
 has_id_wikidata: Q12969754
 has_part_s_:
-  - '[[_Standards/WikiData/WD~photon,3198]]'
-  - '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
+  - "[[_Standards/WikiData/WD~photon,3198]]"
+  - "[[_Standards/WikiData/WD~electromagnetic_wave,11386]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EM%20spectrumrevised.png
 part_of:
-  - '[[_Standards/WikiData/WD~electromagnetic_field,177625]]'
-  - '[[_Standards/WikiData/WD~electromagnetism,11406]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
-subclass_of: '[[_Standards/WikiData/WD~radiation,18335]]'
-time_of_discovery_or_invention: '1886-11-13'
-topic_has_template: '[[_Standards/WikiData/WD~Q20696574,20696574]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-video: >-
-  http://commons.wikimedia.org/wiki/Special:FilePath/Circular.Polarization.Circularly.Polarized.Light%20Right.Handed.Animation.305x190.255Colors.gif
+  - "[[_Standards/WikiData/WD~electromagnetic_field,177625]]"
+  - "[[_Standards/WikiData/WD~electromagnetism,11406]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~electromagnetic_wave,11386]]"
+subclass_of: "[[_Standards/WikiData/WD~radiation,18335]]"
+time_of_discovery_or_invention: 1886-11-13
+topic_has_template: "[[_Standards/WikiData/WD~Q20696574,20696574]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Circular.Polarization.Circularly.Polarized.Light%20Right.Handed.Animation.305x190.255Colors.gif
 ---
 
 # [[Electromagnetic_Radiation]] 
