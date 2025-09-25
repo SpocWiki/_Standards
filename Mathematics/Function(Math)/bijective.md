@@ -1,5 +1,5 @@
 
-#is_/same_as :: [[Isomorphism]] 
+#is_/same_as :: [[../Isomorphism]] 
 
 
 A function is bijective 

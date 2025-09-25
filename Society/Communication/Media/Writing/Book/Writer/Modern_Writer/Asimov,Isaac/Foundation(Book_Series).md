@@ -1,5 +1,5 @@
 
-#has_/creator :: [[../Isaac_Asimov]] 
+#has_/creator :: [[../Asimov,Isaac]] 
 
 Actors: 
 - Hari Seldon 

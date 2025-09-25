@@ -56,6 +56,8 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Iridium\"]"
 ZVG_number: 8460
 ---
 
+# [[Iridium]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Iridium,877]] 
 
@@ -81,6 +83,7 @@ ZVG_number: 8460
 (PeriodNo::6)
 (GroupNo::9)
 
+#is_/same_as :: [[../../../WikiData/WD~Iridium,877|WD~Iridium,877]] 
 
 ## #has_/text_of_/abstract 
 

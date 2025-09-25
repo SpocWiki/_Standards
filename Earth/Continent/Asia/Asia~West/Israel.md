@@ -515,12 +515,6 @@ X_Twitter_username:
 
 # [[Israel]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Israel 
-
-[[Israel/ReadMe]] 
-
-
 #has_/time_/started :: 1948-05-14 
 
 [	ISO4217-currency_alphabetic	 :: ILS ]
@@ -586,15 +580,17 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 376 ]
 
-
-
 [ISO2::IL]
 [ISO3::ISR] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Israel,801|WD~Israel,801]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Israel 
+
+[[Israel/ReadMe]] 
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Israel

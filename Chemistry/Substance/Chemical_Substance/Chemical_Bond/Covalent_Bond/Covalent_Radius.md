@@ -14,7 +14,7 @@ Commons_category: Covalent radius
 
 # [[Covalent_Radius]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Covalent_radius,485360|WD~Covalent_radius,485360]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Covalent_radius,485360|WD~Covalent_radius,485360]] 
 
 ## #has_/text_of_/abstract 
 
