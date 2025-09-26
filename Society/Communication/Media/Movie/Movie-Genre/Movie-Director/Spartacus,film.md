@@ -24,7 +24,7 @@ aliases:
 > It was the only film directed by Kubrick where he did not have complete artistic control. 
 > Screenwriter Dalton Trumbo was blacklisted at the time as one of the [[Hollywood Ten]]. 
 > Douglas publicly announced that Trumbo was the screenwriter of Spartacus, 
-> and President [[../../../../../../../_public/geo/Continent/America~North/US~President/Kennedy,John_F|John F. Kennedy]] crossed American Legion picket lines to view the film, helping to end blacklisting; 
+> and President [[../../../../../../Earth/Continent/America~North/US~President/Kennedy,John_F|John F. Kennedy]] crossed American Legion picket lines to view the film, helping to end blacklisting; 
 > Howard Fast's book had also been blacklisted and he had to self-publish the original edition.
 >
 > The film won four [[../../TV-Series/Academy_Award|Academy Awards]] (Best Supporting Actor for Ustinov, Best Cinematography, Best Art Direction and Best Costume Design) from six nominations. It also received six nominations at the Golden Globes, including Woody Strode‘s only career Golden Globe nomination (for Best Supporting Actor), ultimately winning one (Best Motion Picture – Drama). 

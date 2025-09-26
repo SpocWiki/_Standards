@@ -34,7 +34,7 @@ aliases:
 >
 > As a registered member of the Republican Party, 
 > Schwarzenegger chaired the President's Council on Physical Fitness and Sports 
-> during most of the [[../../../../../../../_public/geo/Continent/America~North/US~President/Bush,George_H_W|George H. W. Bush]] administration. 
+> during most of the [[../../../../../../Earth/Continent/America~North/US~President/Bush,George_H_W|George H. W. Bush]] administration. 
 > 
 > In 2003, he was elected governor of California in a special recall election to replace Gray Davis, the governor at the time. He received 48.6 percent of the vote, 17 points ahead of the runner-up, Cruz Bustamante of the Democratic Party. He was sworn in on November 17 to serve the remainder of Davis' term, and was reelected in the 2006 gubernatorial election with an increased vote share of 55.9 percent to serve a full term. In 2011 he reached his term limit as governor and returned to acting.
 >

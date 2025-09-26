@@ -75,7 +75,7 @@ Commons_category: Polymaths
 	- [[../../../_Standards/Mathematics/Mathematician/Russell,Bertrand|Bertrand Russell]]
 	- Thomas Young
 	- Sequoyah
-	- [[../../_public/geo/Continent/America~North/US~President/Jefferson,Thomas|Thomas Jefferson]]
+	- [[../Earth/Continent/America~North/US~President/Jefferson,Thomas|Thomas Jefferson]]
 	- Pierre-Simon Laplace
 	- Friedrich Engels
 	- William Whewell 
