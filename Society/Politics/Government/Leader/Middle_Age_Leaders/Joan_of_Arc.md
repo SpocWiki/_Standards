@@ -78,8 +78,10 @@ significant_event: '[[_Standards/WikiData/WD~interrogation,327018]]'
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"JeanneDArc::98yg9\"]"
 ---
 
-#has_/time_/started :: 1412-01-15 
+# [[Joan_of_Arc]] 
 
+#has_/time_/started :: 1412-01-15 
+#is_/same_as :: [[../../../../../WikiData/WD~Joan_of_Arc,7226|WD~Joan_of_Arc,7226]] 
 
 ## #has_/text_of_/abstract 
 

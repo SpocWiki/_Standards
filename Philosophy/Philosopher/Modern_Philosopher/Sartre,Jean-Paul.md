@@ -127,6 +127,10 @@ Wolfram_Language_entity_code: "Entity[\"Person\", \"Jean-PaulSartre::2n797\"]"
 writing_language: '[[_Standards/WikiData/WD~French,150]]'
 ---
 
+# [[Sartre,Jean-Paul]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Jean-Paul_Sartre,9364|WD~Jean-Paul_Sartre,9364]] 
+
 ## #has_/text_of_/abstract 
 
 > Jean-Paul Charles Aymard Sartre (, US also ; French: [saʁtʁ]; 21 June 1905 – 15 April 1980) 

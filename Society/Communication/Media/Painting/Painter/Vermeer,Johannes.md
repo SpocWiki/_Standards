@@ -1,6 +1,9 @@
 ---
 aliases:
   - Johannes Vermeer
+  - Johannes_Vermeer
+  - Jan Vermeer
+  - Vermeer
 has_id_wikidata: Q41264
 has_works_in_the_collection:
   - "[[_Standards/WikiData/WD~Kunsthistorisches_Museum,95569]]"
@@ -121,18 +124,30 @@ described_at_URL: http://www.essentialvermeer.com
 ISNI: 000000010901268X
 ---
 
-
-# [[Vermeer_Johannes]]
+# [[Vermeer,Johannes]]
 
 #is_/same_as :: [[../../../../../WikiData/WD~Johannes_Vermeer,41264|WD~Johannes_Vermeer,41264]]
 
-
 ## #has_/text_of_/abstract 
 
-> Johannes Vermeer ( vər-MEER, vər-MAIR, Dutch: [joːˈɦɑnəs fərˈmeːr]; see below; also known as Jan Vermeer; October 1632 – 15 December 1675) was a Dutch painter who specialized in domestic interior scenes of middle-class life. He is considered one of the greatest painters of the Dutch Golden Age. During his lifetime, he was a moderately successful provincial genre painter, recognized in Delft and The Hague. He produced relatively few paintings, primarily earning his living as an art dealer. He was not wealthy; at his death, his wife was left in debt.
+> Johannes Vermeer ( vər-MEER, vər-MAIR, Dutch: [joːˈɦɑnəs fərˈmeːr]; see below; AKA Jan Vermeer; 
+> October 1632 – 15 December 1675) 
+> was a Dutch painter who specialized in domestic interior scenes of middle-class life. 
+> 
+> He is considered one of the greatest painters of the Dutch Golden Age. 
+> During his lifetime, he was a moderately successful provincial genre painter, 
+> recognized in Delft and The Hague. 
+> He produced relatively few paintings, primarily earning his living as an art dealer. 
+> He was not wealthy; at his death, his wife was left in debt.
 >
-> Vermeer worked slowly and with great care, and frequently used very expensive pigments. He is particularly renowned for making masterful use of light in his work. "Almost all his paintings", Hans Koningsberger wrote, "are apparently set in two smallish rooms in his house in Delft; they show the same furniture and decorations in various arrangements and they often portray the same people, mostly women."
+> Vermeer worked slowly and with great care, and frequently used very expensive pigments. 
+> He is particularly renowned for making masterful use of light in his work. 
+> 
+> "Almost all his paintings", Hans Koningsberger wrote, "are apparently set in two smallish rooms in his house in Delft; 
+> they show the same furniture and decorations in various arrangements 
+> and they often portray the same people, mostly women."
 >
-> The modest celebrity he enjoyed during his life gave way to obscurity after his death. He was barely mentioned in Arnold Houbraken's major source book on 17th-century Dutch painting (Grand Theatre of Dutch Painters and Women Artists, published 1718) and, as a result, was omitted from subsequent surveys of Dutch art for nearly two centuries. In the 19th century, Vermeer was rediscovered by Gustav Friedrich Waagen and Théophile Thoré-Bürger, who published an essay attributing 66 pictures to him, although only 34 paintings are universally attributed to him today. Since that time, Vermeer's reputation has grown enormously.
+> The modest celebrity he enjoyed during his life gave way to obscurity after his death. 
+> He was barely mentioned in Arnold Houbraken's major source book on 17th-century Dutch painting (Grand Theatre of Dutch Painters and Women Artists, published 1718) and, as a result, was omitted from subsequent surveys of Dutch art for nearly two centuries. In the 19th century, Vermeer was rediscovered by Gustav Friedrich Waagen and Théophile Thoré-Bürger, who published an essay attributing 66 pictures to him, although only 34 paintings are universally attributed to him today. Since that time, Vermeer's reputation has grown enormously.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Vermeer)
