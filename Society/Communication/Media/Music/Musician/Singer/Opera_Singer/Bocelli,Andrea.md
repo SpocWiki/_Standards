@@ -79,7 +79,7 @@ Facebook_username: AndreaBocelliOfficial
 
 # [[Bocelli,Andrea]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Andrea_Bocelli,42402|WD~Andrea_Bocelli,42402]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Andrea_Bocelli,42402|WD~Andrea_Bocelli,42402]] 
 
 ## #has_/text_of_/abstract 
 

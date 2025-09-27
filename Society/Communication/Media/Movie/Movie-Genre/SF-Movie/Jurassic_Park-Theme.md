@@ -1,7 +1,7 @@
 
 # [[Jurassic_Park-Theme]] 
 
-The idiomatic Horn Section is repeated in the Song [[greatest_Gift]] by [[../../../Music/Musician/Bocelli,Andrea]] 
+The idiomatic Horn Section is repeated in the Song [[greatest_Gift]] by [[../../../Music/Musician/Singer/Opera_Singer/Bocelli,Andrea]] 
 
 
 ## Confidential Links & Embeds: 

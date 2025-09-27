@@ -1,5 +1,9 @@
 ---
 aliases:
+  - Robert William Gary Moore
+  - Gary Moore
+  - Moore
+  - Gary_Moore
 has_id_wikidata: Q185147
 genre:
   - "[[_Standards/WikiData/WD~hard_rock,83270]]"
@@ -70,7 +74,7 @@ work_period_end_: 2011-01-01T00:00:00Z
 date_of_death: 2011-02-06T00:00:00Z
 ---
 
-# [[Gary_Moore]] 
+# [[Moore,Gary]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Gary_Moore,185147|WD~Gary_Moore,185147]] 
 
