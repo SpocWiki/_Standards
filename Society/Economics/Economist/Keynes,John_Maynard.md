@@ -1,6 +1,8 @@
 ---
 aliases:
 - "John Maynard Keynes"
+- John_Maynard_Keynes
+- Keynes
 award_received:
 - '[[_Standards/WikiData/WD~Adam_Smith_Prize,4679816]]'
 - '[[_Standards/WikiData/WD~Companion_of_the_Order_of_the_Bath,12177472]]'
@@ -104,6 +106,10 @@ unmarried_partner:
 - '[[_Standards/WikiData/WD~Daniel_Macmillan,18670964]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 ---
+
+# [[Keynes,John_Maynard]] 
+
+#is_/same_as :: [[../../../WikiData/WD~John_Maynard_Keynes,9317|WD~John_Maynard_Keynes,9317]] 
 
 ## #has_/text_of_/abstract 
 

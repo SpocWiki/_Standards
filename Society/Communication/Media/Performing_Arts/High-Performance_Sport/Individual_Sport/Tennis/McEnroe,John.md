@@ -1,11 +1,15 @@
 ---
 aliases:
-- "John McEnroe"
+  - John McEnroe
+  - John_McEnroe
+has_id_wikidata: Q16474
 ---
+
+# [[McEnroe,John]] 
 
 #has_/time_/started :: 1959-02-16
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
-
+#is_/same_as :: [[../../../../../../../WikiData/WD~John_McEnroe,16474|WD~John_McEnroe,16474]] 
 
 ## #has_/text_of_/abstract 
 
