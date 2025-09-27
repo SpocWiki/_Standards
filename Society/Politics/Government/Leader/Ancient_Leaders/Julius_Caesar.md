@@ -176,6 +176,8 @@ worshipped_by:
 writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 ---
 
+# [[Julius_Caesar]] 
+
 ## #has_/text_of_/abstract 
 
 > Gaius **Julius Caesar** (12 July 100 BC – 15 March 44 BC) was a Roman general and statesman. 

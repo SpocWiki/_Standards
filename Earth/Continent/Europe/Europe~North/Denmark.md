@@ -602,7 +602,7 @@ id: Denmark
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Denmark//
+geojsonFolder: ./Denmark///
 markerFolder: ./Denmark//
 ```
 
@@ -612,7 +612,7 @@ markerFolder: ./Denmark//
 [Area-Land::42430]
 has_place_continent:: [[Europe]]  
 [VehicleCode::DK]
-Capital :: [[Copenhagen]]  
+Capital :: [[Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen]]  
 ![[Coat_of_arms_of_Denmark.svg|350]] 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Denmark.mp3]]  
 ![[Flag_of_Denmark.svg|350]]
@@ -631,11 +631,11 @@ with numbers as of 2022-06
 
 | Region                     | Pop/k |   kkm² | GDP/G€ | GDPpP/k€ |   HDI | Notable Properties                                 |
 | -------------------------- | ----: | -----: | -----: | -------: | ----: | -------------------------------------------------- |
-| [[Denmark/Regions~Denmark/Hovedstaden\|Capital Region of Denmark]]  |  1910 |  2.568 |  161.1 |     84.3 | 0.970 | Includes Copenhagen; economic and political center |
-| [[Denmark/Regions~Denmark/Midtjylland\|Central Denmark Region]]     |  1333 | 13.053 |   69.7 |     53.1 | 0.948 | Home to Aarhus; diverse economy                    |
-| [[Denmark/Regions~Denmark/Nordjylland\|North Denmark Region]]       |   590 |  7.933 |   26.9 |     45.7 | 0.931 | Includes Aalborg; significant energy sector        |
-| [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |  1223 | 12.191 |   55.9 |     45.7 | 0.940 | Includes Odense; strong manufacturing base         |
-| [[Denmark/Regions~Denmark/Sjælland\|Region Zealand]]             |   835 |  7.273 |   36.2 |     43.4 | 0.938 | Surrounds Copenhagen; mix of urban and rural areas |
+| [[Denmark/Regions~Denmark/Zealand/Hovedstaden\|Capital Region of Denmark]]  |  1910 |  2.568 |  161.1 |     84.3 | 0.970 | Includes Copenhagen; economic and political center |
+| [[Denmark/Regions~Denmark/Jutland/Midtjylland\|Central Denmark Region]]     |  1333 | 13.053 |   69.7 |     53.1 | 0.948 | Home to Aarhus; diverse economy                    |
+| [[Denmark/Regions~Denmark/Jutland/Nordjylland\|North Denmark Region]]       |   590 |  7.933 |   26.9 |     45.7 | 0.931 | Includes Aalborg; significant energy sector        |
+| [[Denmark/Regions~Denmark/Jutland/Syddanmark\|Region of Southern Denmark]] |  1223 | 12.191 |   55.9 |     45.7 | 0.940 | Includes Odense; strong manufacturing base         |
+| [[Denmark/Regions~Denmark/Zealand/Sjælland\|Region Zealand]]             |   835 |  7.273 |   36.2 |     43.4 | 0.938 | Surrounds Copenhagen; mix of urban and rural areas |
 
 ## #has_/place_/city   
 
@@ -643,15 +643,15 @@ Major Cities with Population in 1000s as of @2024
 
 | City                                                                | Region                                                             |    Pop/k |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | -------: |
-| [[Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen\|Copenhagen]] | [[Denmark/Regions~Denmark/Hovedstaden\|Capital Region of Denmark]] | 1378.649 |
-| [[Denmark/Regions~Denmark/Midtjylland/City/Aarhus\|Aarhus]]         | [[Denmark/Regions~Denmark/Midtjylland\|Central Denmark Region]]    |  295.688 |
-| [[Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Odense,County/Odense,City\|Odense]]          | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |  183.763 |
-| [[Denmark/Regions~Denmark/Nordjylland/City/Aalborg\|Aalborg]]       | [[Denmark/Regions~Denmark/Nordjylland\|North Denmark Region]]      |  120.700 |
-| [[Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City\|Esbjerg]]                                   | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |   71.505 |
-| [[Denmark/Regions~Denmark/Midtjylland/City/Randers\|Randers]]       | [[Denmark/Regions~Denmark/Midtjylland\|Central Denmark Region]]    |   64.158 |
-| [[Horsens]]                                                         | [[Denmark/Regions~Denmark/Midtjylland\|Central Denmark Region]]    |   63.903 |
-| [[Kolding]]                                                         | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |   62.444 |
-| [[Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Vejle,County/Vejle,City\|Vejle]]            | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |   61.706 |
+| [[Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen\|Copenhagen]] | [[Denmark/Regions~Denmark/Zealand/Hovedstaden\|Capital Region of Denmark]] | 1378.649 |
+| [[Denmark/Regions~Denmark/Jutland/Midtjylland/City/Aarhus\|Aarhus]]         | [[Denmark/Regions~Denmark/Jutland/Midtjylland\|Central Denmark Region]]    |  295.688 |
+| [[Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Odense,County/Odense,City\|Odense]]          | [[Denmark/Regions~Denmark/Jutland/Syddanmark\|Region of Southern Denmark]] |  183.763 |
+| [[Denmark/Regions~Denmark/Jutland/Nordjylland/City/Aalborg\|Aalborg]]       | [[Denmark/Regions~Denmark/Jutland/Nordjylland\|North Denmark Region]]      |  120.700 |
+| [[Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City\|Esbjerg]]                                   | [[Denmark/Regions~Denmark/Jutland/Syddanmark\|Region of Southern Denmark]] |   71.505 |
+| [[Denmark/Regions~Denmark/Jutland/Midtjylland/City/Randers\|Randers]]       | [[Denmark/Regions~Denmark/Jutland/Midtjylland\|Central Denmark Region]]    |   64.158 |
+| [[Horsens]]                                                         | [[Denmark/Regions~Denmark/Jutland/Midtjylland\|Central Denmark Region]]    |   63.903 |
+| [[Kolding]]                                                         | [[Denmark/Regions~Denmark/Jutland/Syddanmark\|Region of Southern Denmark]] |   62.444 |
+| [[Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Vejle,County/Vejle,City\|Vejle]]            | [[Denmark/Regions~Denmark/Jutland/Syddanmark\|Region of Southern Denmark]] |   61.706 |
 
 
 ## #has_/text_of_/abstract 

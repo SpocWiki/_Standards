@@ -1,6 +1,8 @@
 ---
 aliases:
 - "Jorge Luis Borges"
+- Jorge_Luis_Borges
+- Borges
 - "Jorge Francisco Isidoro Luis Borges Acevedo"
 archives_at:
 - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
@@ -148,8 +150,12 @@ writing_language:
 - '[[_Standards/WikiData/WD~French,150]]'
 ---
 
+# [[Borges,Jorge_Luis]] 
+
 #has_/time_/started ::  1899-08-24
 #has_/time_/started ::  1986-06-14 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Jorge_Luis_Borges,909|WD~Jorge_Luis_Borges,909]] 
 
 ## #has_/text_of_/abstract 
 

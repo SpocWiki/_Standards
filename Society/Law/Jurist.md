@@ -1,16 +1,16 @@
 
 # [[Jurist]] 
 
-#is_/same_as :: [[WD~Jurist,185351]] 
 #is_/similar_to :: [[Jurist/Lawyer]] 
+#is_/same_as :: [[WD~Jurist,185351]] 
 
-|Attribute|Jurist|Lawyer|
-|---|---|---|
-|Primary activity|Legal scholarship, theory, jurisprudence|Legal practice, client representation|
-|Required qualification|Advanced study in law (often doctoral level)|Law degree + professional license|
-|Courtroom presence|Rare or none|Frequent and central|
-|Output|Publications, doctrines, commentaries|Advice, contracts, pleadings, defenses|
-|Social role|Shapes legal thought, influences legislation|Defends rights, enforces laws, protects clients|
+| Attribute              | Jurist                                       | Lawyer                                          |
+| ---------------------- | -------------------------------------------- | ----------------------------------------------- |
+| Primary activity       | Legal scholarship, theory, jurisprudence     | Legal practice, client representation           |
+| Required qualification | Advanced study in law (often doctoral level) | Law degree + professional license               |
+| Courtroom presence     | Rare or none                                 | Frequent and central                            |
+| Output                 | Publications, doctrines, commentaries        | Advice, contracts, pleadings, defenses          |
+| Social role            | Shapes legal thought, influences legislation | Defends rights, enforces laws, protects clients |
 
 ## #has_/text_of_/abstract 
 

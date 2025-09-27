@@ -10,6 +10,8 @@ A time period from
 #has_/previous_/item :: [[Period~1~Triassic]] 
 #has_/next_/item :: [[Period~3~Cretaceous]] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Jurassic,45805|WD~Jurassic,45805]] 
+
 ## #has_/text_of_/abstract 
 
 

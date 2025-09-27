@@ -1,30 +1,30 @@
 ---
 aliases:
-- person
-- person
-- Person
-- is_a_person
-- "dbo:Person"
-- "schema:Person"
+  - person
+  - Person
+  - is_a_person
+  - dbo:Person
+  - schema:Person
+  - natural person
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-equivalent_class: "http://xmlns.com/foaf/0.1/Person"
-expiryDate: 
+equivalent_class: http://xmlns.com/foaf/0.1/Person
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- person
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_person Class"
+  - person
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_a_person Class
 publish: true
-publishDate: 
+publishDate:
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_person Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_person Class
 type: Type
 ---
 
@@ -34,6 +34,7 @@ Class of all natural persons.
 
 Tag Instances like this: 
 #is_a_/person
+#is_a_ :: [[Person]]
 
 A person (alive, dead, undead, or fictional).
 

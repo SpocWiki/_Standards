@@ -191,6 +191,8 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Jupiter\"]"
 #is_/same_as :: [[../../WikiData/WD~Jupiter,319]] 
 #is_/different_from  :: [[../../WikiData/WD~Jupiter,4649]]  
 
+#is_/same_as :: [[../../WikiData/WD~Jupiter,319|WD~Jupiter,319]] 
+
 ## #has_/text_of_/abstract 
 
 > **Jupiter** is the fifth planet from the Sun and the largest in the Solar System. 

@@ -68,6 +68,7 @@ native_label: Ἥρα
 
 # [[Hera]] 
 
+#is_/similar_to :: [[../../../../../WikiData/Juno|Juno]]  
 #is_/same_as :: [[WD~Hera,38012]] 
 
 ## #has_/text_of_/abstract 

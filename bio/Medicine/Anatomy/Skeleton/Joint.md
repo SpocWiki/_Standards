@@ -56,8 +56,6 @@ Krugosvet_article: medicina/SUSTAV.html
 
 # [[Joint]]
 
-#is_/same_as :: [[../../../../WikiData/WD~Joint,9644|WD~Joint,9644]] 
-
 Class of all joints.
 
 Tag Instances like this: 
@@ -69,6 +67,7 @@ The anatomical location at which two or more bones make contact.
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, biomechnicalClass, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, functionalClass, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, structuralClass, study, subStructure, subjectOf, url ] ]
 
+#is_/same_as :: [[../../../../WikiData/WD~Joint,9644|WD~Joint,9644]] 
 
 ## #has_/text_of_/abstract 
 

@@ -30,13 +30,13 @@ Class of all medical_researchers.
 
 Tag Instances like this: 
 #is_a_/medical_researcher
+#is_a_ :: [[Medical_Researcher]] 
 
 Medical researchers.
 
 [ #is_/sub_class_of :: [[../MedicalAudienceType]] ]
 
 [ #is_/enum_of :: [[../MedicalAudienceType]] ]
-
 
 ## Confidential Links & Embeds: 
 

@@ -41,6 +41,10 @@ U_S_National_Archives_Identifier: 10638984
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_journalism,7112670]]'
 ---
 
+# [[Journalism]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Journalism,11030|WD~Journalism,11030]] 
+
 ## #has_/text_of_/abstract 
 
 > **Journalism** is the production and distribution of 

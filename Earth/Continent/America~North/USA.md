@@ -824,7 +824,7 @@ Major Cities with Population in 1000s as of @2020
 | [[USA/USA~Pacific/Nevada/counties~Nevada/Clark,County/Las_Vegas\|Las_Vegas]]                                              | [[USA/USA~Pacific/Nevada\|Nevada]]                 |  641.903 |
 | [[USA/USA~Central/Tennessee/counties~Tennessee/Shelby,County/cities~Shelby/Memphis\|Memphis]]                             | [[USA/USA~Central/Tennessee\|Tennessee]]           |  633.104 |
 | [[Louisville]]                                                                                                            | [[USA/USA~Central/Kentucky\|Kentucky]]             |  617.638 |
-| [[Baltimore]]                                                                                                             | [[USA/USA~Eastern/Maryland\|Maryland]]             |  585.708 |
+| [[../Europe/Europe~North/Ireland/City/Baltimore]]                                                                                                             | [[USA/USA~Eastern/Maryland\|Maryland]]             |  585.708 |
 | [[Milwaukee]]                                                                                                             | [[USA/USA~Central/Wisconsin\|Wisconsin]]           |  577.222 |
 | [[Albuquerque]]                                                                                                           | [[USA/USA~Mountain/New_Mexico\|New_Mexico]]        |  564.559 |
 | [[Tucson]]                                                                                                                | [[USA/USA~Mountain/Arizona\|Arizona]]              |  542.629 |

@@ -331,7 +331,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Jordan/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: JOD ]
 [	ISO4217-currency_name	 :: Jordanian Dinar ]
 [	ISO4217-currency_numeric	 :: 400 ]
@@ -395,10 +394,10 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 400 ]
 
-
-
 [ISO2::JO]
 [ISO3::JOR] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Jordan,810|WD~Jordan,810]] 
 
 ## #has_/map  
 

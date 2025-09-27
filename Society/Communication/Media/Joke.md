@@ -1,10 +1,12 @@
 
 # [[Joke]] 
 
+#is_/same_as :: [[../../../WikiData/WD~Joke,131138|WD~Joke,131138]] 
 
 ## #has_/text_of_/abstract 
 
-> A **Joke** is a display of humour in which words are used within a specific and well-defined narrative structure 
+> A **Joke** is a display of humour in which 
+> words are used within a specific and well-defined narrative structure 
 > to make people laugh and is usually not meant to be interpreted literally. 
 > 
 > It usually takes the form of a story, often with dialogue, 
@@ -18,9 +20,10 @@
 > Linguist Robert Hetzron offers the definition:
 > A joke is a short humorous piece of oral literature in which the funniness culminates in the final sentence, called the punchline… 
 > In fact, the main condition is that the tension should reach its highest level at the very end. 
-> No continuation relieving the tension should be added
+> No continuation relieving the tension should be added. 
 > 
-> . As for its being "oral," it is true that jokes may appear printed, but when further transferred, there is no obligation to reproduce the text verbatim, as in the case of poetry.
+> As for its being "oral," it is true that jokes may appear printed, but when further transferred, 
+> there is no obligation to reproduce the text verbatim, as in the case of poetry.
 >
 > It is generally held that jokes benefit from brevity, containing no more detail than is needed to set the scene for the punchline at the end. In the case of riddle jokes or one-liners, the setting is implicitly understood, leaving only the dialogue and punchline to be verbalised. However, subverting these and other common guidelines can also be a source of humour—the shaggy dog story is an example of an anti-joke; although presented as a joke, it contains a long drawn-out narrative of time, place and character, rambles through many pointless inclusions and finally fails to deliver a punchline. Jokes are a form of humour, but not all humour is in the form of a joke. Some humorous forms which are not verbal jokes are: involuntary humour, situational humour, practical jokes, slapstick and anecdotes.
 >
