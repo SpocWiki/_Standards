@@ -109,7 +109,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 #has_/time_/stopped :: 1910-08-26 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 
-#has_/created :: [[Knowledge/Philosophy/Pragmatism]] 
+#has_/created :: [[../../Pragmatism]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~William_James,125249]] 
 
@@ -123,7 +123,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > and the "Father of American psychology."
 >
 > Along with [[../../../Mathematics/Mathematician/Peirce,Charles_Sanders|Charles Sanders Peirce]], 
-> James established the philosophical school known as [[Knowledge/Philosophy/Pragmatism|pragmatism]], 
+> James established the philosophical school known as [[../../Pragmatism|pragmatism]], 
 > and is also cited as one of the founders of functional psychology. 
 > 
 > A Review of General Psychology analysis, published in 2002, 

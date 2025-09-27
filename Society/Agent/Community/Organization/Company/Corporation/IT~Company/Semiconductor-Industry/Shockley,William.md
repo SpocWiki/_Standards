@@ -7,7 +7,7 @@
 > was an American inventor, physicist, and eugenicist. 
 > 
 > He was the manager of a research group at Bell Labs 
-> that included [[Bardeen,John]] and [[Brattain,Walter]]. 
+> that included [[../../../../../../../../Science/Physics/Physicist/Bardeen,John]] and [[Brattain,Walter]]. 
 > 
 > The three scientists were jointly awarded the 1956 Nobel Prize in Physics 
 > for "their researches on semiconductors and their discovery of the transistor effect".
