@@ -72,7 +72,7 @@ described_at_URL: https://baike.sogou.com/v4997475.htm
 ISNI: "0000000121197891"
 ---
 
-# [[John_D._Rockefeller]] 
+# [[Rockefeller,John_D.]] 
 
 #is_/same_as :: [[WD~John_D._Rockefeller,160278]] 
 
