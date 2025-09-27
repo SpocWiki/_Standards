@@ -155,7 +155,7 @@ worshipped_by:
 ## #has_/text_of_/abstract 
 
 > **Abraham** (originally Abram) is the common Hebrew patriarch of the Abrahamic religions, 
-> including Judaism, [[Christianity]], and [[Islam]]. 
+> including Judaism, [[Christianity]], and [[../Islam]]. 
 > 
 > In Judaism, he is the founding father 
 > who began the covenantal relationship between the Jewish people and God; 

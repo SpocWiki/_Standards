@@ -57,6 +57,8 @@ work_period_end_: 1975
 work_period_start_: 1923
 ---
 
+# [[Kulthum,Umm]] 
+
 #has_/time_/started ::  1898-12
 #has_/time_/stopped ::  1975-02-03  
 
@@ -67,11 +69,12 @@ work_period_start_: 1923
 > She was given the honorific title Kawkab el-Sharq (Arabic: كوكب الشرق, lit. 'Planet of the Orient'). 
 > 
 > Immensely popular throughout the Middle East and beyond, 
-> Kulthum is a national icon in her native Egypt; she has been dubbed "The Voice of Egypt" 
-> and "Egypt's Fourth Pyramid". 
+> Kulthum is a national icon in her native Egypt; 
+> she has been dubbed "The Voice of Egypt" and "Egypt's Fourth Pyramid". 
 > In 2023, Rolling Stone ranked Kulthum at number 61 on its list of the 200 Greatest Singers of All Time.
 >
-> Her funeral in 1975 drew a crowd of over 4 million people, the largest human gathering in Egypt's history, 
+> Her funeral in 1975 drew a crowd of over 4 million people, 
+> the largest human gathering in Egypt's history, 
 > even surpassing that of president Nasser.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Umm%20Kulthum)
