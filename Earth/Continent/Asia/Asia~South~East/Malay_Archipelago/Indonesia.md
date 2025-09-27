@@ -1337,7 +1337,7 @@ markerFolder: ./Indonesia/
 [Area-Land::1919440]
 has_place_continent:: [[Oceania]]  
 [VehicleCode::RI]
-Capital :: [[Djakarta]]  
+Capital :: [[Indonesia/provinces~Indonesia/Jakarta_Raya/City/Jakarta]]  
 [Alcohol-l::0.6]
 [Language-Id::]
 #is_a_/Place  

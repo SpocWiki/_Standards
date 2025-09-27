@@ -1,96 +1,100 @@
 ---
 aliases:
-- "James Cook"
-archives_at: '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
-award_received: '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+  - James Cook
+  - James_Cook
+  - Cook
+archives_at: "[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]"
+award_received: "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
 BHCL_UUID: ff936950-b45c-4238-a2e7-ec435486fd5f
 botanist_author_abbreviation: Cook
-cause_of_death: '[[_Standards/WikiData/WD~stab_wound,4228595]]'
+cause_of_death: "[[_Standards/WikiData/WD~stab_wound,4228595]]"
 child:
-- '[[_Standards/WikiData/WD~James_Cook,76246015]]'
-- '[[_Standards/WikiData/WD~Joseph_Cook,76246019]]'
-- '[[_Standards/WikiData/WD~Nathaniel_Cook,76246016]]'
-- '[[_Standards/WikiData/WD~Elizabeth_Cook,76246017]]'
-- '[[_Standards/WikiData/WD~Hugh_Cook,76246022]]'
-- '[[_Standards/WikiData/WD~George_Cook,76246021]]'
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Cook%20Coat%20of%20Arms.svg"
-Commons_category: "James Cook"
-Commons_gallery: "James Cook"
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+  - "[[_Standards/WikiData/WD~James_Cook,76246015]]"
+  - "[[_Standards/WikiData/WD~Joseph_Cook,76246019]]"
+  - "[[_Standards/WikiData/WD~Nathaniel_Cook,76246016]]"
+  - "[[_Standards/WikiData/WD~Elizabeth_Cook,76246017]]"
+  - "[[_Standards/WikiData/WD~Hugh_Cook,76246022]]"
+  - "[[_Standards/WikiData/WD~George_Cook,76246021]]"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/James%20Cook%20Coat%20of%20Arms.svg
+Commons_category: James Cook
+Commons_gallery: James Cook
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
 date_of_birth: 1728-10-27
 date_of_death: 1779-02-14
 described_at_URL:
-- "http://www.digiporta.net/index.php?id=275174503"
-- "http://www.digiporta.net/index.php?id=434394195"
-- "http://www.digiporta.net/index.php?id=115530505"
-- "http://www.digiporta.net/index.php?id=457306125"
-- "http://www.digiporta.net/index.php?id=664636342"
-- "http://www.digiporta.net/index.php?id=971790800"
-- "http://www.digiporta.net/index.php?id=804271720"
-- "http://www.digiporta.net/index.php?id=956471585"
-- "http://www.digiporta.net/index.php?id=693266906"
+  - http://www.digiporta.net/index.php?id=275174503
+  - http://www.digiporta.net/index.php?id=434394195
+  - http://www.digiporta.net/index.php?id=115530505
+  - http://www.digiporta.net/index.php?id=457306125
+  - http://www.digiporta.net/index.php?id=664636342
+  - http://www.digiporta.net/index.php?id=971790800
+  - http://www.digiporta.net/index.php?id=804271720
+  - http://www.digiporta.net/index.php?id=956471585
+  - http://www.digiporta.net/index.php?id=693266906
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Q27058682,27058682]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-different_from: '[[_Standards/WikiData/WD~Captain_Cook,2297592]]'
-family_name: '[[_Standards/WikiData/WD~Cook,2671214]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Q27058682,27058682]]"
+  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+different_from: "[[_Standards/WikiData/WD~Captain_Cook,2297592]]"
+family_name: "[[_Standards/WikiData/WD~Cook,2671214]]"
 field_of_work:
-- '[[_Standards/WikiData/WD~exploration,6502154]]'
-- '[[_Standards/WikiData/WD~cartography,42515]]'
-given_name: '[[_Standards/WikiData/WD~James,677191]]'
+  - "[[_Standards/WikiData/WD~exploration,6502154]]"
+  - "[[_Standards/WikiData/WD~cartography,42515]]"
+given_name: "[[_Standards/WikiData/WD~James,677191]]"
 has_id_wikidata: Q7324
 has_works_in_the_collection:
-- '[[_Standards/WikiData/WD~Australian_National_Maritime_Museum,844329]]'
-- '[[_Standards/WikiData/WD~Wereldmuseum_Rotterdam,2042754]]'
-- '[[_Standards/WikiData/WD~Netherlands_Photo_Museum,2191118]]'
-- '[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Captainjamescookportrait.jpg"
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-ISNI: 0000000122779981
+  - "[[_Standards/WikiData/WD~Australian_National_Maritime_Museum,844329]]"
+  - "[[_Standards/WikiData/WD~Wereldmuseum_Rotterdam,2042754]]"
+  - "[[_Standards/WikiData/WD~Netherlands_Photo_Museum,2191118]]"
+  - "[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Captainjamescookportrait.jpg
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+ISNI: 122779981
 Krugosvet_article: istoriya/KUK_DZHEMS.html
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~French,150]]"
 Libris_URI: 0xbdd8xj2s1p259
-manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
-member_of: '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-military_branch: '[[_Standards/WikiData/WD~Royal_Navy,172771]]'
-military_or_police_rank: '[[_Standards/WikiData/WD~captain,5036514]]'
-mother: '[[_Standards/WikiData/WD~Grace_Pace,50360122]]'
-name_in_native_language: "James Cook"
-native_language: '[[_Standards/WikiData/WD~English,1860]]'
+manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
+member_of: "[[_Standards/WikiData/WD~Royal_Society,123885]]"
+military_branch: "[[_Standards/WikiData/WD~Royal_Navy,172771]]"
+military_or_police_rank: "[[_Standards/WikiData/WD~captain,5036514]]"
+mother: "[[_Standards/WikiData/WD~Grace_Pace,50360122]]"
+name_in_native_language: James Cook
+native_language: "[[_Standards/WikiData/WD~English,1860]]"
 occupation:
-- '[[_Standards/WikiData/WD~cartographer,1734662]]'
-- '[[_Standards/WikiData/WD~botanist,2374149]]'
-- '[[_Standards/WikiData/WD~naval_officer,10669499]]'
-- '[[_Standards/WikiData/WD~explorer,11900058]]'
-- '[[_Standards/WikiData/WD~seafarer,12038843]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
-place_of_birth: '[[_Standards/WikiData/WD~Marton,441541]]'
-place_of_death: '[[_Standards/WikiData/WD~Kealakekua_Bay,2879655]]'
+  - "[[_Standards/WikiData/WD~cartographer,1734662]]"
+  - "[[_Standards/WikiData/WD~botanist,2374149]]"
+  - "[[_Standards/WikiData/WD~naval_officer,10669499]]"
+  - "[[_Standards/WikiData/WD~explorer,11900058]]"
+  - "[[_Standards/WikiData/WD~seafarer,12038843]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
+place_of_birth: "[[_Standards/WikiData/WD~Marton,441541]]"
+place_of_death: "[[_Standards/WikiData/WD~Kealakekua_Bay,2879655]]"
 Royal_Academy_new_identifier: james-cook
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-signature: "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Cook%20Signature.svg"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-James%20Cook-article.ogg"
-spouse: '[[_Standards/WikiData/WD~Elizabeth_Cook,1331180]]'
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/James%20Cook%20Signature.svg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-James%20Cook-article.ogg
+spouse: "[[_Standards/WikiData/WD~Elizabeth_Cook,1331180]]"
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/2248651
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 ---
+
+# [[Cook,James]] 
 
 #has_/time_/started  :: 1728-10-27 
 #has_/time_/stopped :: 1779-02-14 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
-
+#is_/same_as :: [[../../../WikiData/WD~James_Cook,7324|WD~James_Cook,7324]] 
 
 ## #has_/text_of_/abstract 
 

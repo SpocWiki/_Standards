@@ -17,7 +17,7 @@ ROTAS
 
 > **Tenet** is a 2020 science fiction action thriller film written and directed by [[Christopher Nolan]], 
 > who also produced it with his wife Emma Thomas. 
-> It stars [[../../Actor/US_Actor/Washington,John_David]], [[../../Actor/British_Actor/Pattinson,Robert]], [[Debicki,Elizabeth]], Dimple Kapadia, [[../../Actor/British_Actor/Caine,Michael]], and [[../../Actor/Irish_Actor/Branagh,Kenneth]]. 
+> It stars [[../../Actor/US_Actor/Washington,John_David]], [[../../Actor/British_Actor/Pattinson,Robert]], [[../../Actor/Debicki,Elizabeth]], Dimple Kapadia, [[../../Actor/British_Actor/Caine,Michael]], and [[../../Actor/Irish_Actor/Branagh,Kenneth]]. 
 > 
 > The film follows a former CIA agent who is recruited into a secret organization, 
 > tasked with tracing the origin of objects that are traveling backward through time 

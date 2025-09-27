@@ -335,8 +335,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Kyrgyzstan/ReadMe]] 
 
-
-
 [	ISO4217-currency_alphabetic	 :: KGS ]
 [	ISO4217-currency_name	 :: Som ]
 [	ISO4217-currency_numeric	 :: 417 ]
@@ -400,14 +398,12 @@ Sub-region_Name ::  [[Central Asia]]
 
 [	ISO3166-1-numeric	 :: 417 ]
 
-
-
 [ISO2::KG]
 [ISO3::KGZ] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Kyrgyzstan

@@ -1,6 +1,7 @@
 ---
 aliases:
   - James Watson
+  - James D. Watson
   - James_D._Watson
   - James Dewey Watson
 has_id_wikidata: Q83333
@@ -111,7 +112,8 @@ Krugosvet_article: nauka_i_tehnika/biologiya/UOTSON_DZHEMS_DEVE.html
 
 ## #has_/text_of_/abstract 
 
-> James Dewey Watson (born April 6, 1928) is an American molecular biologist, geneticist, and zoologist. In 1953, he co-authored with Francis Crick the academic paper in Nature proposing the double helix structure of the DNA molecule. Watson, Crick and Maurice Wilkins were awarded the 1962 Nobel Prize in Physiology or Medicine "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material".
+> James Dewey Watson (born April 6, 1928) is an American molecular biologist, geneticist, and zoologist. 
+> In 1953, he co-authored with Francis Crick the academic paper in Nature proposing the double helix structure of the DNA molecule. Watson, Crick and Maurice Wilkins were awarded the 1962 Nobel Prize in Physiology or Medicine "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material".
 >
 > Watson earned degrees at the University of Chicago (Bachelor of Science, 1947) and Indiana University Bloomington (PhD, 1950). Following a post-doctoral year at the University of Copenhagen with Herman Kalckar and Ole Maaløe, Watson worked at the University of Cambridge's Cavendish Laboratory in England, where he first met his future collaborator Francis Crick. From 1956 to 1976, Watson was on the faculty of the Harvard University Biology Department, promoting research in molecular biology.
 >

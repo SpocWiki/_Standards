@@ -575,8 +575,10 @@ population: 58850717
 [	name-ru	 :: Италия ]
 [name-de::Italien]
 
-[ISO2::IT]
-[ISO3::ITA]
+[ISO2::IT] 
+[ISO3::ITA] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Italy,38|WD~Italy,38]] 
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-France)

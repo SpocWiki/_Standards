@@ -1,6 +1,7 @@
 ---
 aliases:
 - "James Prescott Joule"
+- James_Prescott_Joule
 award_received:
 - '[[_Standards/WikiData/WD~Albert_Medal,4710826]]'
 - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
@@ -64,9 +65,13 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"JamesPrescottJoule::z3947\"
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 ---
 
+# [[Joule,James_Prescott]] 
+
+#is_/same_as :: [[../../../WikiData/WD~James_Prescott_Joule,8962|WD~James_Prescott_Joule,8962]] 
+
 ## #has_/text_of_/abstract 
 
-> **James Prescott Joule** (; 24 December 1818 –  11 October 1889) was an English physicist. 
+> **James Prescott Joule** (24 December 1818 –  11 October 1889) was an English physicist. 
 > Joule studied the nature of heat and discovered its relationship to mechanical work. 
 > This led to the law of conservation of energy, 
 > which in turn led to the development of the first law of thermodynamics. 

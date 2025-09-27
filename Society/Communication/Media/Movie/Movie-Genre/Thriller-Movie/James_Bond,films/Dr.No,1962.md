@@ -31,7 +31,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dr.%20No%20(film))
 
-Museumsraub im Grünen Gewölbe in [[../../../../../../../Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden|Dresden]] 
+Museumsraub im Grünen Gewölbe in [[../../../../../../../../Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden|Dresden]] 
 August der Starke hat das Grüne Gewölbe der Öffentlichkeit geöffnet. 1700 
 114 mio € 
 

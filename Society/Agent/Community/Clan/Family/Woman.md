@@ -74,8 +74,7 @@ hashtag_: woman
 
 # [[Woman]]
 
-#is_/same_as :: [[../../../../../WikiData/WD~Woman,467|WD~Woman,467]]
-
+#is_/same_as :: [[../../../../../WikiData/WD~Woman,467|WD~Woman,467]] 
 
 ## #has_/text_of_/abstract 
 

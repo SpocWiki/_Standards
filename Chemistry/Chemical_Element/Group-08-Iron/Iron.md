@@ -101,6 +101,8 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Iron\"]"
 ZVG_number: 8210
 ---
 
+# [[Iron]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Iron,677]] 
 
@@ -125,6 +127,7 @@ ZVG_number: 8210
 [FormEnergy-kj-mol::349.6]
 (PeriodNo::4)
 
+#is_/same_as :: [[../../../WikiData/WD~Iron,677|WD~Iron,677]] 
 
 ## #has_/text_of_/abstract 
 

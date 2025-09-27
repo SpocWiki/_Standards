@@ -25,8 +25,9 @@ type: Lang
 #has_/name_/en_ :: Javanese  
 #has_/name_/de_ :: Javanisch   
 
-## #has_/text_of_/abstract  
+#is_/same_as :: [[../../../WikiData/WD~Javanese,33549|WD~Javanese,33549]] 
 
+## #has_/text_of_/abstract  
 
 > Javanese ( JAH-və-NEEZ,  JAV-ə-,  -⁠NEESS; basa Jawa, Aksara Jawa: ꦧꦱꦗꦮ, Pegon: بَاسَا جَاوَا‎, IPA: [bɔsɔ d͡ʒɔwɔ]) is a Malayo-Polynesian language spoken by the Javanese people from the central and eastern parts of the island of Java, Indonesia. There are also pockets of Javanese speakers on the northern coast of western Java. It is the native language of more than 98 million people.Javanese is the largest of the Austronesian languages in number of native speakers. It has several regional dialects and a number of clearly distinct status styles. Its closest relatives are the neighboring languages such as Sundanese, Madurese, and Balinese. Most speakers of Javanese also speak Indonesian for official and commercial purposes as well as a means to communicate with non-Javanese-speaking Indonesians.
 >

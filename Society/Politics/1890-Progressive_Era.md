@@ -9,8 +9,8 @@ aliases:
 #has_/time_/stopped  :: 1920-06 
 #has_/place_ :: [[../../Earth/Continent/America~North/USA|USA]] 
 
-#see :: [[../../../_public/geo/Continent/America~North/US~President/Roosevelt,Theodore|Roosevelt,Theodore]] 
-#see :: [[../../../_public/geo/Continent/America~North/US~President/Wilson,Woodrow|Wilson,Woodrow]] 
+#see :: [[../../Earth/Continent/America~North/US~President/Roosevelt,Theodore|Roosevelt,Theodore]] 
+#see :: [[../../Earth/Continent/America~North/US~President/Wilson,Woodrow|Wilson,Woodrow]] 
 
 ## #has_/text_of_/abstract 
 

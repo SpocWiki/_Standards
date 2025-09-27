@@ -1,3 +1,7 @@
+---
+aliases:
+  - Indian Religion
+---
 
 # [[India~Religions]] 
 
