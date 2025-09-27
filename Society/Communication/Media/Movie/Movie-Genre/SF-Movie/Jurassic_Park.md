@@ -3,6 +3,9 @@ aliases:
 - "Jurassic Park"
 ---
 
+# [[Jurassic_Park]] 
+
+
 ## #has_/text_of_/abstract 
 
 > **Jurassic Park**, later also referred to as Jurassic World, is an American science fiction media franchise 
@@ -20,7 +23,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jurassic_Park](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_Park.md) 
+### #is_/same_as :: [Jurassic_Park](Jurassic_Park.md) 
 
 ### #is_/same_as :: [Jurassic_Park.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_Park.public.md) 
 

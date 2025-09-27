@@ -31,7 +31,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scholz,Tom](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Boston(band)/Scholz,Tom.md) 
+### #is_/same_as :: [Scholz,Tom](Scholz,Tom.md) 
 
 ### #is_/same_as :: [Scholz,Tom.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Boston(band)/Scholz,Tom.public.md) 
 

@@ -4,7 +4,7 @@
 #has_/time_/started :: 1965-10-26 
 #has_/age_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #is_/different_from :: [[../../../Mathematics/Mathematician/Weisstein,Eric_Wolfgang]] 
-#has_/sponsor :: [[Thiel,Peter]] 
+#has_/sponsor :: [[../../../Society/Economics/Capital(Economics)/Investor/Thiel,Peter]] 
 
 ## #has_/text_of_/abstract 
 
