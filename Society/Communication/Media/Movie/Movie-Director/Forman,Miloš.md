@@ -32,8 +32,8 @@ aliases:
 > One Flew Over the Cuckoo's Nest (1975) and the biographical drama Amadeus (1984). 
 > 
 > During this time, he also directed notable and acclaimed films such as Black Peter (1964), 
-> Loves of a Blonde (1965), [[../Horror-Movie/Hair(1978)]], Ragtime (1981), [[../Horror-Movie/Valmont(1989)]], 
-> The [[People vs. Larry Flynt]] (1996) and [[../Horror-Movie/Man_on_the_Moon(film)]] (1999).
+> Loves of a Blonde (1965), [[../Movie-Genre/Horror-Movie/Hair(1978)]], Ragtime (1981), [[../Movie-Genre/Horror-Movie/Valmont(1989)]], 
+> The [[People vs. Larry Flynt]] (1996) and [[../Movie-Genre/Horror-Movie/Man_on_the_Moon(film)]] (1999).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Milo%C5%A1%20Forman)
 

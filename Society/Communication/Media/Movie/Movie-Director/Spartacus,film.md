@@ -7,7 +7,7 @@ aliases:
 
 ## #has_/text_of_/abstract 
 
-> Spartacus is a 1960 American epic historical drama film directed by [[Kubrick,Stanley|Stanley Kubrick]] 
+> Spartacus is a 1960 American epic historical drama film directed by [[../Movie-Director/Kubrick,Stanley|Stanley Kubrick]] 
 > and starring [[Douglas,Kirk|Kirk Douglas]] in the title role, 
 > a slave and gladiator who leads a rebellion against Rome during the events of the [[Third Servile War]]. 
 > 

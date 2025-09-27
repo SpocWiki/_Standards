@@ -16,7 +16,7 @@ aliases:
 > as well as nominations for four Academy Awards and two Golden Globe Awards. 
 > 
 > His most acclaimed works include the films Thief (1981), Manhunter (1986), 
-> The Last of the Mohicans (1992), [[../Thriller-Movie/Heat(1995)]] (1995), The Insider (1999), 
+> The Last of the Mohicans (1992), [[../Movie-Genre/Thriller-Movie/Heat(1995)]] (1995), The Insider (1999), 
 > Ali (2001), Collateral (2004), Public Enemies (2009), and Ferrari (2023). 
 > 
 > He is also known for his role as executive producer on the popular TV series Miami Vice (1984–90), 

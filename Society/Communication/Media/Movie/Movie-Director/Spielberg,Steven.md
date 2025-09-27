@@ -25,7 +25,7 @@ aliases:
 > and became a household name with the 1975 summer blockbuster [[Jaws]]. 
 > He directed more box office successes with Close Encounters of the Third Kind (1977), E.T. the Extra-Terrestrial (1982), and the original Indiana Jones trilogy (1981–89). He subsequently explored drama in The Color Purple (1985) and Empire of the Sun (1987).
 >
-> In 1993, Spielberg directed back-to-back blockbuster hits with the science fiction thriller [[../../Actor/US_Actor/Jurassic_Park]], 
+> In 1993, Spielberg directed back-to-back blockbuster hits with the science fiction thriller [[../Actor/US_Actor/Jurassic_Park]], 
 > the highest-grossing film ever at the time, and the Holocaust drama [[Schindler's List]], 
 > which has often been listed as one of the greatest films ever made. 
 > He won the Academy Award for Best Director for the latter 

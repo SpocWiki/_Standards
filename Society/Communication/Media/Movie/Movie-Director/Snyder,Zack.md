@@ -12,7 +12,7 @@ aliases:
 > He made his feature film debut in 2004 with [[Dawn of the Dead(2004)]], 
 > a remake of the 1978 horror film of the same name. 
 > Since then, he has directed or produced a number of comic book and superhero films, 
-> including [[../Fantasy-Movie/300(film)]] and [[../Fantasy-Movie/Watchmen(film)]], 
+> including [[../Movie-Genre/Fantasy-Movie/300(film)]] and [[../Movie-Genre/Fantasy-Movie/Watchmen(film)]], 
 > as well as the Superman film that started the DC Extended Universe, [[Man of Steel (2013)]], 
 > and its follow-ups, [[Batman v Superman: Dawn of Justice (2016)]] and [[Justice League (2017)]], 
 > as well as the director's cut of Justice League that was later released in 2021. 

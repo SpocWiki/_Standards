@@ -11,7 +11,7 @@ aliases:
 > It is a remake of the 2015 Swedish film A Man Called Ove, 
 > which was based on the 2012 novel of the same name by Fredrik Backman. 
 > 
-> The film stars [[../../Actor/US_Actor/Hanks,Tom|Tom Hanks]] in the title role, and his son Truman as the younger Otto,
+> The film stars [[../Actor/US_Actor/Hanks,Tom|Tom Hanks]] in the title role, and his son Truman as the younger Otto,
 > with Mariana Treviño, Rachel Keller, and Manuel Garcia-Rulfo in supporting roles. 
 > The plot follows a bitter old man who reluctantly gets involved in the lives of his neighbors.
 >

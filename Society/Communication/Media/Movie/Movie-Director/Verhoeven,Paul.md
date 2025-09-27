@@ -16,7 +16,7 @@
 >
 > In 1985, Verhoeven made his first Hollywood film [[Flesh_and_Blood]] 
 > and later had a successful career in the United States, 
-> directing science fiction films such as [[../SF-Movie/RoboCop]] (1987), [[Total_Recall]] (1990), [[Starship_Troopers]] (1997) and [[Hollow_Man]] (2000), as well as the erotic thriller [[Basic_Instinct]] (1992).
+> directing science fiction films such as [[../Movie-Genre/SF-Movie/RoboCop]] (1987), [[Total_Recall]] (1990), [[Starship_Troopers]] (1997) and [[Hollow_Man]] (2000), as well as the erotic thriller [[Basic_Instinct]] (1992).
 >
 > He later returned to Europe, making the Dutch war film Black Book (2006), 
 > French psychological thriller Elle (2016) and 
@@ -31,7 +31,7 @@
 > and the first to directly attend the ceremony to receive it. 
 > Showgirls was a notorious box office flop at its initial theatrical release, 
 > but later enjoyed huge success in the home video market and became a cult classic. 
-> Verhoeven's films have received a total of nine [[../../Academy_Award]] nominations, 
+> Verhoeven's films have received a total of nine [[../Academy_Award]] nominations, 
 > mainly for editing and effects.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Verhoeven)

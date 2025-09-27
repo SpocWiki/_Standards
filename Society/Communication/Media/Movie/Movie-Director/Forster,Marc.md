@@ -10,7 +10,7 @@ aliases:
 > - Monster's Ball, 
 > - Finding Neverland, 
 > - Stranger than Fiction, 
-> - [[../Thriller-Movie/James_Bond,films/Quantum_of_Solace,2008|Quantum of Solace]], 
+> - [[../Movie-Genre/Thriller-Movie/James_Bond,films/Quantum_of_Solace,2008|Quantum of Solace]], 
 > - [[World War Z]], 
 > - [[Man_Called_Otto]] and 
 > - Christopher Robin, 

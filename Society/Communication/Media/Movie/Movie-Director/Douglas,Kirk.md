@@ -37,7 +37,7 @@ aliases:
 >
 > In September 1949, he established Bryna Productions, 
 > which began producing films as varied as [[Paths of Glory]] (1957) and [[Spartacus,film]]. 
-> In those two films, he collaborated with the then relatively unknown director [[Kubrick,Stanley]], 
+> In those two films, he collaborated with the then relatively unknown director [[../Movie-Director/Kubrick,Stanley]], 
 > taking lead roles in both films. 
 > 
 > Douglas helped to break the Hollywood blacklist 

@@ -35,13 +35,13 @@ has_id_wikidata: Q56008
 > and [[Sweeney Todd: The Demon Barber of Fleet Street]] (2007) 
 > and the biographical dramas [[Ed_Wood,1994]] and [[Big_Eyes,2014]]. 
 > 
-> Starting in 2022 Burton has directed several episodes for the [[../Media-Corporations/Streaming_Services/Netflix/Wednesday,Netflix_series]], 
+> Starting in 2022 Burton has directed several episodes for the [[../Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Wednesday,Netflix_series]], 
 > for which he received a nomination for the Primetime Emmy Award 
 > for Outstanding Directing for a Comedy Series.
 >
-> Burton has frequently collaborated with [[Ryder,Winona]], [[Keaton,Michael]], [[../../Actor/US_Actor/Depp,Johnny]], 
+> Burton has frequently collaborated with [[Ryder,Winona]], [[Keaton,Michael]], [[../Actor/US_Actor/Depp,Johnny]], 
 > [[Ortega,Jenna]], [[Bonham-Carter,Helena]] (his former domestic partner), [[O’Hara,Catherine]], 
-> [[Green,Eva]] and [[../../Actor/British_Actor/Lee,Christopher]] 
+> [[Green,Eva]] and [[../Actor/British_Actor/Lee,Christopher]] 
 > as well with composer [[Elfman,Danny]], who scored all but three of Burton's films. 
 > 
 > Burton has released several books including The Melancholy Death of Oyster Boy & Other Stories (1997).

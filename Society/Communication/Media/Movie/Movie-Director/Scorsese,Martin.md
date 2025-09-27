@@ -33,7 +33,7 @@ aliases:
 > His 1973 crime film Mean Streets was a blueprint for his filmmaking styles.
 >
 > Scorsese won the Palme d'Or at Cannes with his 1976 psychological thriller [[Taxi Driver]], 
-> which starred [[../../Actor/US_Actor/De_Niro,Robert]], who became associated with Scorsese through eight more films 
+> which starred [[../Actor/US_Actor/De_Niro,Robert]], who became associated with Scorsese through eight more films 
 > including New York, New York (1977), Raging Bull (1980) The King of Comedy (1982), 
 > Goodfellas (1990), and Casino (1995). 
 > In the following decades, he garnered box office success 

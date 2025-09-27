@@ -38,7 +38,7 @@
 > - the horror sequel Amityville 3-D (1983). 
 >
 > Fleischer worked with many of the top Hollywood stars of his time, including: 
-> - [[Douglas,Kirk]], [[Robert Mitchum]], [[James Mason]], [[Tony Curtis]], [[Victor Mature]], [[Richard Egan]], [[Ray Milland]], [[Farley Granger]], [[../../books/Authors/Welles,Orson]], Diane Varsi, [[Quinn,Anthony]], [[../../Actor/British_Actor/Harrison,Rex]], Anthony Newley, [[Mia Farrow]], [[George C. Scott]], [[Charles Bronson]], [[Attenborough,Richard]], [[Charlton Heston]], [[Lee Marvin]], Glenda Jackson, and [[Schwarzenegger,Arnold]]. 
+> - [[Douglas,Kirk]], [[Robert Mitchum]], [[James Mason]], [[Tony Curtis]], [[Victor Mature]], [[Richard Egan]], [[Ray Milland]], [[Farley Granger]], [[../../books/Authors/Welles,Orson]], Diane Varsi, [[Quinn,Anthony]], [[../Actor/British_Actor/Harrison,Rex]], Anthony Newley, [[Mia Farrow]], [[George C. Scott]], [[Charles Bronson]], [[Attenborough,Richard]], [[Charlton Heston]], [[Lee Marvin]], Glenda Jackson, and [[Schwarzenegger,Arnold]]. 
 > 
 > He was noted for his versatility, 
 > able to work in almost any genre under wildly varying conditions and budgets, 
