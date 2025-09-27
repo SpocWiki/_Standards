@@ -9,7 +9,7 @@ aliases:
 ## #has_/text_of_/abstract 
 
 > Bradley Edward Delp (June 12, 1951 – March 9, 2007) was an American-Canadian musician 
-> who was the original lead singer and frontman of the rock band [[../Boston (Band)]]. 
+> who was the original lead singer and frontman of the rock band [[../Boston(Band)]]. 
 > 
 > He joined the band in 1970 and appeared on every album except Walk On (1994) 
 > and also participated in every tour prior to his death in 2007. 

@@ -1,13 +1,13 @@
 
-# [[Boston (Band)]]
+# [[Boston(Band)]]
 
 ## #has_/text_of_/abstract 
 
-> Boston is an American rock band formed in 1975 by [[Boston (Band)/Scholz,Tom|Tom Scholz]] in Boston, Massachusetts, 
+> Boston is an American rock band formed in 1975 by [[Boston(Band)/Scholz,Tom|Tom Scholz]] in Boston, Massachusetts, 
 > that experienced significant commercial success during the 1970s and 1980s. 
 > The band's core members include multi-instrumentalist, founder and leader Scholz, 
 > who played the majority of instruments on the band's 1976 self-titled debut album, 
-> and former lead vocalist [[Boston (Band)/Delp,Brad|Brad Delp]], 
+> and former lead vocalist [[Boston(Band)/Delp,Brad|Brad Delp]], 
 > among a number of other musicians who varied from album to album.
 >
 > Boston's best-known songs include: "More Than a Feeling", "Peace of Mind", 
@@ -28,7 +28,7 @@
 > and have been hinting at an upcoming seventh studio album. 
 > Boston was ranked the 63rd-best hard rock artist by VH1.
 >
-> After original longtime lead singer [[Boston (Band)/Delp,Brad]] died in 2007, 
+> After original longtime lead singer [[Boston(Band)/Delp,Brad]] died in 2007, 
 > a number of vocalists have taken the stage, 
 > including Stryper frontman and vocalist Michael Sweet. 
 > Since 2013, Tommy DeCarlo has been the group's lead singer. 
@@ -40,7 +40,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boston (Band)](Boston%20(Band).md) 
+### #is_/same_as :: [Boston(Band)](Boston(Band).md) 
 
 ### #is_/same_as :: [Boston(band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).public.md) 
 
