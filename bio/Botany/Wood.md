@@ -62,9 +62,16 @@ used_by:
 ZVG_number: 531358
 ---
 
+# [[Wood]] 
+
+#is_/same_as :: [[../../WikiData/WD~Wood,287|WD~Wood,287]] 
+
 ## #has_/text_of_/abstract 
 
-> **Wood** is a structural tissue/material found as xylem in the stems and roots of trees and other woody plants. It is an organic material – a natural composite of cellulosic fibers that are strong in tension and embedded in a matrix of lignin that resists compression. Wood is sometimes defined as only the secondary xylem in the stems of trees, or more broadly to include the same type of tissue elsewhere, such as in the roots of trees or shrubs. In a living tree, it performs a mechanical-support function, enabling woody plants to grow large or to stand up by themselves. It also conveys water and nutrients among the leaves, other growing tissues, and the roots. Wood may also refer to other plant materials with comparable properties, and to material engineered from wood, woodchips, or fibers.
+> **Wood** is a structural tissue/material found as xylem 
+> in the stems and roots of trees and other woody plants. 
+> 
+> It is an organic material – a natural composite of cellulosic fibers that are strong in tension and embedded in a matrix of lignin that resists compression. Wood is sometimes defined as only the secondary xylem in the stems of trees, or more broadly to include the same type of tissue elsewhere, such as in the roots of trees or shrubs. In a living tree, it performs a mechanical-support function, enabling woody plants to grow large or to stand up by themselves. It also conveys water and nutrients among the leaves, other growing tissues, and the roots. Wood may also refer to other plant materials with comparable properties, and to material engineered from wood, woodchips, or fibers.
 >
 > Wood has been used for thousands of years for fuel, as a construction material, for making tools and weapons, furniture and paper. More recently it emerged as a feedstock for the production of purified cellulose and its derivatives, such as cellophane and cellulose acetate.
 >

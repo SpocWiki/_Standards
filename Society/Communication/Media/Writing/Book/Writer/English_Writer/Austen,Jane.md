@@ -1,6 +1,8 @@
 ---
 aliases:
 - "Jane Austen"
+- Jane_Austen
+- Austen
 Archive_of_Our_Own_tag: "AUSTEN Jane - Works"
 BHCL_UUID: 3915ed65-7142-4146-a2d2-822b62a1fa8b
 birth_name: "Jane Austen"
@@ -101,6 +103,10 @@ work_location: '[[_Standards/WikiData/WD~England,21]]'
 work_period_start_: 1787
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 ---
+
+# [[Austen,Jane]] 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Jane_Austen,36322|WD~Jane_Austen,36322]] 
 
 ## #has_/text_of_/abstract 
 

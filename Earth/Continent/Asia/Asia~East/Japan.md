@@ -597,70 +597,6 @@ icon: flag-jp
 
 # [[Japan]] 
 
-
-#is_/same_as :: [[_Standards/WikiData/WD~Japan,17]]  
-
-> [!info] This Article is only a Stub. 
-For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Japan)
-into a Subfolder named `Japan`, so that this Link into the Sub-Repository works: [[Japan/ReadMe]] 
-
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Japan 
-
-> [!warning] This can considerably increase the total size and depth of your wiki!
-
-Here is a detailed table of Japan's 47 prefectures with Data of 2020: 
-
-| Prefecture                                                                                    |  Pop/M |   kkm² | GPP/TJPY | pP/kJPY | HDI   | Notable Properties                                                                                                                                             |
-| --------------------------------------------------------------------------------------------- | -----: | -----: | -------: | ------: | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi]]                                                                                     |  7.539 |  5.172 |   40.861 | 542.128 | 0.918 | Automotive industry hub (Toyota), advanced manufacturing                                                                                                       |
-| [[Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Akita]]                                                                                     |  0.960 | 11.612 |    4.072 | 424.167 | 0.902 | Known for rice farming and rich cultural heritage                                                                                                              |
-| [[Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Aomori]]                                                                                    |  1.223 |  9.645 |    4.595 | 375.843 | 0.903 | Famous for apple production and natural scenery                                                                                                                |
-| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Chiba]]                                                                                     |  6.283 |  5.157 |   23.231 | 369.537 | 0.917 | Important industrial and transport center (Narita Airport)                                                                                                     |
-| [[Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Ehime]]                                                                                     |  1.328 |  5.676 |    5.410 | 407.831 | 0.908 | Citrus fruit production and shipbuilding industry                                                                                                              |
-| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Fukui]]                                                                                     |  0.760 |  4.190 |    3.237 | 425.395 | 0.912 | Rich in cultural heritage, known for textiles                                                                                                                  |
-| [[./Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka\|Fukuoka]]                          |  5.101 |  4.986 |   18.185 | 356.695 | 0.923 | Major urban area, technological and cultural hub                                                                                                               |
-| [[Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Fukushima]]                                                                                 |  1.817 | 13.784 |    7.284 | 400.000 | 0.905 | Recovery after 2011 earthquake, diverse agriculture                                                                                                            |
-| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Gifu]]                                                                                      |  1.954 | 10.621 |    7.365 | 376.960 | 0.913 | Renowned for traditional crafts and scenic beauty                                                                                                              |
-| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Gunma]]                                                                                     |  1.934 |  6.363 |    8.315 | 429.838 | 0.916 | Manufacturing and agricultural diversity                                                                                                                       |
-| [[./Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima\|Hiroshima]]                    |  2.799 |  8.477 |   13.421 | 479.671 | 0.922 | Automobile industry, historical sites ([[Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima\|Hiroshima]] Peace Memorial) |
-| [[Japan/Islands~Japan/Hokkaido]]                                                                                  |  5.281 | 83.424 |   20.479 | 387.897 | 0.911 | Known for agriculture, natural parks, and tourism                                                                                                              |
-| Hyogo                                                                                         |  5.469 |  8.401 |   21.268 | 388.987 | 0.921 | Key port of Kobe, diverse industries                                                                                                                           |
-| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Ibaraki]]                                                                                   |  2.840 |  6.097 |   11.766 | 414.014 | 0.914 | Known for agriculture and industrial development                                                                                                               |
-| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Ishikawa]]                                                                                  |  1.137 |  4.186 |    4.926 | 433.179 | 0.913 | Renowned for traditional arts and craftsmanship                                                                                                                |
-| [[Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Iwate]]                                                                                     |  1.218 | 15.275 |    5.473 | 448.935 | 0.904 | Large forestry industry, scenic landscapes                                                                                                                     |
-| [[Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kagawa]]                                                                                    |  0.947 |  1.877 |    3.744 | 395.877 | 0.908 | Known for agriculture, especially olives and udon                                                                                                              |
-| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Kagoshima]]                                                                                 |  1.612 |  9.188 |    6.478 | 402.733 | 0.907 | Unique cultural heritage, volcanic activity                                                                                                                    |
-| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa]]                                                                                  |  9.240 |  2.415 |   38.649 | 418.367 | 0.933 | Part of the Greater Tokyo Area, strong economic presence                                                                                                       |
-| [[Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kochi]]                                                                                     |  0.692 |  7.103 |    2.604 | 376.733 | 0.904 | Rich in forestry resources, cultural uniqueness                                                                                                                |
-| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Kumamoto]]                                                                                  |  1.738 |  7.409 |    7.713 | 444.000 | 0.910 | Known for agricultural production, reconstruction activities                                                                                                   |
-| [[Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto]]                                                                                     |  2.568 |  4.613 |   11.985 | 466.680 | 0.922 | Cultural heart of Japan, rich historical significance                                                                                                          |
-| [[Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Mie]]                                                                                       |  1.782 |  5.776 |    8.255 | 463.207 | 0.913 | Diverse industrial base, rich in pearl cultivation                                                                                                             |
-| [[Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Miyagi]]                                                                                    |  2.304 |  7.285 |   10.286 | 446.507 | 0.916 | Recovery from 2011 disaster, vibrant coastal areas                                                                                                             |
-| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Miyazaki]]                                                                                  |  1.062 |  7.735 |    4.040 | 380.875 | 0.905 | Rich natural landscapes, agriculture focused                                                                                                                   |
-| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Nagano]]                                                                                    |  2.048 | 13.561 |    8.866 | 433.036 | 0.917 | Renowned for mountain tourism and agriculture                                                                                                                  |
-| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Nagasaki]]                                                                                  |  1.314 |  4.130 |    5.932 | 451.314 | 0.910 | Known for history, significant port city                                                                                                                       |
-| [[Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Nara]]                                                                                      |  1.310 |  3.691 |    4.951 | 378.702 | 0.915 | Rich historic and cultural significance                                                                                                                        |
-| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Niigata]]                                                                                   |  2.194 | 12.585 |    8.456 | 385.434 | 0.912 | Famous for rice production and coastal industries                                                                                                              |
-| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Oita]]                                                                                      |  1.114 |  6.341 |    4.746 | 425.177 | 0.909 | Known for hot springs and tourism                                                                                                                              |
-| [[Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Okayama]]                                                                                   |  1.898 |  7.114 |    9.240 | 486.231 | 0.914 | Agricultural richness, manufacturing base                                                                                                                      |
-| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Okinawa]]                                                                                   |  1.497 |  2.282 |    4.605 | 307.622 | 0.888 | Unique Ryukyu culture, significant U.S. military presence                                                                                                      |
-| [[Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka\|Osaka]] |  8.804 |  1.905 |   40.773 | 463.212 | 0.921 | Major economic hub, known for commerce and culture                                                                                                             |
-| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Saga]]                                                                                      |  0.812 |  2.440 |    3.319 | 408.856 | 0.911 | Known for ceramics industry, agriculture                                                                                                                       |
-| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Saitama]]                                                                                   |  7.323 |  3.797 |   22.498 | 307.151 | 0.919 | Part of Greater Tokyo Area, residential and industrial mix                                                                                                     |
-| [[Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Shiga]]                                                                                     |  1.417 |  4.017 |    6.600 | 465.421 | 0.916 | Known for Lake Biwa, cultural and natural attractions                                                                                                          |
-| [[Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Shimane]]                                                                                   |  0.665 |  6.708 |    2.790 | 419.849 | 0.905 | Known for traditional crafts, historical significance                                                                                                          |
-| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Shizuoka]]                                                                                  |  3.598 |  7.777 |   17.698 | 491.586 | 0.917 | Known for Mount Fuji, automotive industry hub (Suzuki)                                                                                                         |
-| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tochigi]]                                                                                   |  1.906 |  6.408 |    8.194 | 429.704 | 0.915 | Ever-growing industries, cultural attractions                                                                                                                  |
-| [[Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Tokushima]]                                                                                 |  0.727 |  4.147 |    3.129 | 430.512 | 0.906 | Rich in agriculture, known for Awa Dance Festival                                                                                                              |
-| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo]]                                                                                     | 13.988 |  2.194 |  106.328 | 837.434 | 0.940 | Capital city, major economic, political, and cultural center                                                                                                   |
-| [[Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Tottori]]                                                                                   |  0.556 |  3.507 |    2.053 | 369.064 | 0.903 | Smallest by population, rich natural beauty                                                                                                                    |
-| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Toyama]]                                                                                    |  1.036 |  4.248 |    4.965 | 479.528 | 0.912 | Known for manufacturing and pharmaceuticals                                                                                                                    |
-| [[Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Wakayama]]                                                                                  |  0.944 |  4.725 |    3.763 | 398.083 | 0.908 | Rich in history and cultural heritage                                                                                                                          |
-| [[Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Yamagata]]                                                                                  |  1.082 |  9.325 |    4.860 | 449.075 | 0.907 | Known for rice production, natural beauty                                                                                                                      |
-| [[Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Yamaguchi]]                                                                                 |  1.326 |  6.113 |    5.996 | 451.560 | 0.912 | Known for chemical industry and scenic coastlines                                                                                                              |
-| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Yamanashi]]                                                                                 |  0.817 |  4.465 |    3.657 | 447.484 | 0.910 | Known for fruit production and Mount Fuji proximity                                                                                                            |
-
-
 [	ISO4217-currency_alphabetic	 :: JPY ]
 [	ISO4217-currency_name	 :: Yen ]
 [	ISO4217-currency_numeric	 :: 392 ]
@@ -726,23 +662,8 @@ Sub-region_Name ::  [[Eastern Asia]]
 
 [	ISO3166-1-numeric	 :: 392 ]
 
-
-
 [ISO2::JP]
 [ISO3::JPN] 
-
-## #has_/map  
-
-
-EXCLUDING_THE_RUYUKU_ISLANDS
-```leaflet
-id: Japan
-zoomFeatures: true 
-minZoom: 4 
-maxZoom: 18
-geojsonFolder: ./Japan/
-markerFolder: ./Japan/
-```
 
 [name-en::Japan]
 [name-de::Japan] 
@@ -760,6 +681,83 @@ Capital :: [[Japan/Counties/Tokyo/City/Tokio]]
 #is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::137.199]
 [has_place_latitude::36.8617]
+
+#is_/same_as :: [[../../../../WikiData/WD~Japan,17|WD~Japan,17]]  
+
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Japan)
+into a Subfolder named `Japan`, so that this Link into the Sub-Repository works: [[Japan/ReadMe]] 
+
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Japan 
+
+> [!warning] This can considerably increase the total size and depth of your wiki!
+
+## #has_/map  
+
+EXCLUDING_THE_RUYUKU_ISLANDS
+```leaflet
+id: Japan
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Japan/
+markerFolder: ./Japan/
+```
+
+
+## Prefectures 
+
+Here is a detailed table of Japan's 47 prefectures with Data of 2020: 
+
+| Prefecture                                                                                    |  Pop/M |   kkm² | GPP/TJPY | pP/kJPY | HDI   | Notable Properties                                                                                                                                             |
+| --------------------------------------------------------------------------------------------- | -----: | -----: | -------: | ------: | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi]]                                  |  7.539 |  5.172 |   40.861 | 542.128 | 0.918 | Automotive industry hub (Toyota), advanced manufacturing                                                                                                       |
+| [[Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Akita]]                                |  0.960 | 11.612 |    4.072 | 424.167 | 0.902 | Known for rice farming and rich cultural heritage                                                                                                              |
+| [[Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Aomori]]                               |  1.223 |  9.645 |    4.595 | 375.843 | 0.903 | Famous for apple production and natural scenery                                                                                                                |
+| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Chiba]]                                  |  6.283 |  5.157 |   23.231 | 369.537 | 0.917 | Important industrial and transport center (Narita Airport)                                                                                                     |
+| [[Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Ehime]]                                     |  1.328 |  5.676 |    5.410 | 407.831 | 0.908 | Citrus fruit production and shipbuilding industry                                                                                                              |
+| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Fukui]]                                  |  0.760 |  4.190 |    3.237 | 425.395 | 0.912 | Rich in cultural heritage, known for textiles                                                                                                                  |
+| [[./Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka\|Fukuoka]]                          |  5.101 |  4.986 |   18.185 | 356.695 | 0.923 | Major urban area, technological and cultural hub                                                                                                               |
+| [[Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Fukushima]]                            |  1.817 | 13.784 |    7.284 | 400.000 | 0.905 | Recovery after 2011 earthquake, diverse agriculture                                                                                                            |
+| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Gifu]]                                   |  1.954 | 10.621 |    7.365 | 376.960 | 0.913 | Renowned for traditional crafts and scenic beauty                                                                                                              |
+| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Gunma]]                                  |  1.934 |  6.363 |    8.315 | 429.838 | 0.916 | Manufacturing and agricultural diversity                                                                                                                       |
+| [[./Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima\|Hiroshima]]                    |  2.799 |  8.477 |   13.421 | 479.671 | 0.922 | Automobile industry, historical sites ([[Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima\|Hiroshima]] Peace Memorial) |
+| [[Japan/Islands~Japan/Hokkaido]]                                                              |  5.281 | 83.424 |   20.479 | 387.897 | 0.911 | Known for agriculture, natural parks, and tourism                                                                                                              |
+| Hyogo                                                                                         |  5.469 |  8.401 |   21.268 | 388.987 | 0.921 | Key port of Kobe, diverse industries                                                                                                                           |
+| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Ibaraki]]                                |  2.840 |  6.097 |   11.766 | 414.014 | 0.914 | Known for agriculture and industrial development                                                                                                               |
+| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Ishikawa]]                               |  1.137 |  4.186 |    4.926 | 433.179 | 0.913 | Renowned for traditional arts and craftsmanship                                                                                                                |
+| [[Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Iwate]]                                |  1.218 | 15.275 |    5.473 | 448.935 | 0.904 | Large forestry industry, scenic landscapes                                                                                                                     |
+| [[Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kagawa]]                                    |  0.947 |  1.877 |    3.744 | 395.877 | 0.908 | Known for agriculture, especially olives and udon                                                                                                              |
+| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Kagoshima]]                                   |  1.612 |  9.188 |    6.478 | 402.733 | 0.907 | Unique cultural heritage, volcanic activity                                                                                                                    |
+| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa]]                               |  9.240 |  2.415 |   38.649 | 418.367 | 0.933 | Part of the Greater Tokyo Area, strong economic presence                                                                                                       |
+| [[Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kochi]]                                     |  0.692 |  7.103 |    2.604 | 376.733 | 0.904 | Rich in forestry resources, cultural uniqueness                                                                                                                |
+| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Kumamoto]]                                    |  1.738 |  7.409 |    7.713 | 444.000 | 0.910 | Known for agricultural production, reconstruction activities                                                                                                   |
+| [[Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto]]                                |  2.568 |  4.613 |   11.985 | 466.680 | 0.922 | Cultural heart of Japan, rich historical significance                                                                                                          |
+| [[Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Mie]]                                  |  1.782 |  5.776 |    8.255 | 463.207 | 0.913 | Diverse industrial base, rich in pearl cultivation                                                                                                             |
+| [[Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Miyagi]]                               |  2.304 |  7.285 |   10.286 | 446.507 | 0.916 | Recovery from 2011 disaster, vibrant coastal areas                                                                                                             |
+| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Miyazaki]]                                    |  1.062 |  7.735 |    4.040 | 380.875 | 0.905 | Rich natural landscapes, agriculture focused                                                                                                                   |
+| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Nagano]]                                 |  2.048 | 13.561 |    8.866 | 433.036 | 0.917 | Renowned for mountain tourism and agriculture                                                                                                                  |
+| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Nagasaki]]                                    |  1.314 |  4.130 |    5.932 | 451.314 | 0.910 | Known for history, significant port city                                                                                                                       |
+| [[Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Nara]]                                 |  1.310 |  3.691 |    4.951 | 378.702 | 0.915 | Rich historic and cultural significance                                                                                                                        |
+| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Niigata]]                                |  2.194 | 12.585 |    8.456 | 385.434 | 0.912 | Famous for rice production and coastal industries                                                                                                              |
+| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Oita]]                                        |  1.114 |  6.341 |    4.746 | 425.177 | 0.909 | Known for hot springs and tourism                                                                                                                              |
+| [[Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Okayama]]                            |  1.898 |  7.114 |    9.240 | 486.231 | 0.914 | Agricultural richness, manufacturing base                                                                                                                      |
+| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Okinawa]]                                     |  1.497 |  2.282 |    4.605 | 307.622 | 0.888 | Unique Ryukyu culture, significant U.S. military presence                                                                                                      |
+| [[Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka\|Osaka]] |  8.804 |  1.905 |   40.773 | 463.212 | 0.921 | Major economic hub, known for commerce and culture                                                                                                             |
+| [[Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Saga]]                                        |  0.812 |  2.440 |    3.319 | 408.856 | 0.911 | Known for ceramics industry, agriculture                                                                                                                       |
+| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Saitama]]                                |  7.323 |  3.797 |   22.498 | 307.151 | 0.919 | Part of Greater Tokyo Area, residential and industrial mix                                                                                                     |
+| [[Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Shiga]]                                |  1.417 |  4.017 |    6.600 | 465.421 | 0.916 | Known for Lake Biwa, cultural and natural attractions                                                                                                          |
+| [[Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Shimane]]                            |  0.665 |  6.708 |    2.790 | 419.849 | 0.905 | Known for traditional crafts, historical significance                                                                                                          |
+| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Shizuoka]]                               |  3.598 |  7.777 |   17.698 | 491.586 | 0.917 | Known for Mount Fuji, automotive industry hub (Suzuki)                                                                                                         |
+| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tochigi]]                                |  1.906 |  6.408 |    8.194 | 429.704 | 0.915 | Ever-growing industries, cultural attractions                                                                                                                  |
+| [[Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Tokushima]]                                 |  0.727 |  4.147 |    3.129 | 430.512 | 0.906 | Rich in agriculture, known for Awa Dance Festival                                                                                                              |
+| [[Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo]]                                  | 13.988 |  2.194 |  106.328 | 837.434 | 0.940 | Capital city, major economic, political, and cultural center                                                                                                   |
+| [[Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Tottori]]                            |  0.556 |  3.507 |    2.053 | 369.064 | 0.903 | Smallest by population, rich natural beauty                                                                                                                    |
+| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Toyama]]                                 |  1.036 |  4.248 |    4.965 | 479.528 | 0.912 | Known for manufacturing and pharmaceuticals                                                                                                                    |
+| [[Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Wakayama]]                             |  0.944 |  4.725 |    3.763 | 398.083 | 0.908 | Rich in history and cultural heritage                                                                                                                          |
+| [[Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Yamagata]]                             |  1.082 |  9.325 |    4.860 | 449.075 | 0.907 | Known for rice production, natural beauty                                                                                                                      |
+| [[Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Yamaguchi]]                          |  1.326 |  6.113 |    5.996 | 451.560 | 0.912 | Known for chemical industry and scenic coastlines                                                                                                              |
+| [[Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Yamanashi]]                              |  0.817 |  4.465 |    3.657 | 447.484 | 0.910 | Known for fruit production and Mount Fuji proximity                                                                                                            |
 
 
 ## #has_/text_of_/abstract 

@@ -26,7 +26,7 @@ OpenStreetMap_tag_or_key: Tag:athletics=discus_throw
 
 # [[Discus_Throw]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Discus_throw,182570|WD~Discus_throw,182570]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Discus_throw,182570|WD~Discus_throw,182570]] 
 
 ## #has_/text_of_/abstract 
 

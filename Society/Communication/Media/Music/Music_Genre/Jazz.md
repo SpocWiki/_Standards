@@ -51,6 +51,10 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_jazz,7112669]]'
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Jazz::jnm2g\"]"
 ---
 
+# [[Jazz]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Jazz,8341|WD~Jazz,8341]] 
+
 ## #has_/text_of_/abstract 
 
 > **Jazz** is a music genre that originated in the African-American communities of New Orleans, Louisiana, in the late 19th and early 20th centuries, with its roots in blues, ragtime, European harmony, African rhythmic rituals, spirituals, hymns, marches, vaudeville song, and dance music. Since the 1920s Jazz Age, it has been recognized as a major form of musical expression in traditional and popular music. Jazz is characterized by swing and blue notes, complex chords, call and response vocals, polyrhythms and improvisation.

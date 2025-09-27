@@ -572,7 +572,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Turkey/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: TRY ]
 [	ISO4217-currency_name	 :: Turkish Lira ]
 [	ISO4217-currency_numeric	 :: 949 ]
@@ -636,15 +635,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 792 ]
 
-
-
 [ISO2::TR]
 [ISO3::TUR] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Turkey,43|WD~Turkey,43]] 
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Turkey
@@ -661,7 +657,7 @@ markerFolder: ./Turkey//
 [Area-Land::769630]
 has_place_continent:: [[Europe]]  
 [VehicleCode::TR]
-Capital :: [[Turkey/Provinces~Turkey/Istanbul,Province]]  
+Capital :: [[Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province]]  
 
 ![[Emblem_of_Turkey.svg|350]]
 

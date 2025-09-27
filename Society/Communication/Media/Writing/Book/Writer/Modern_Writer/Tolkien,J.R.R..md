@@ -1,6 +1,7 @@
 ---
 aliases:
   - J._R._R._Tolkien
+  - John Ronald Reuel Tolkien
 has_id_wikidata: Q892
 notable_work:
   - "[[_Standards/WikiData/WD~The_Hobbit,74287]]"
@@ -179,17 +180,26 @@ official_website: https://tolkienestate.com
 ISNI: "0000000121441970"
 ---
 
-
-# [[Tolkien_J._R._R.]]
+# [[Tolkien,J.R.R.]]
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~J._R._R._Tolkien,892|WD~J._R._R._Tolkien,892]]
 
-
 ## #has_/text_of_/abstract 
 
-> John Ronald Reuel Tolkien (, 3 January 1892 – 2 September 1973) was an English writer and philologist. He was the author of the high fantasy works The Hobbit and The Lord of the Rings.
+> John Ronald Reuel Tolkien (, 3 January 1892 – 2 September 1973) 
+> was an English writer and philologist. 
+> He was the author of the high fantasy works The Hobbit and The Lord of the Rings.
 >
-> From 1925 to 1945 Tolkien was the Rawlinson and Bosworth Professor of Anglo-Saxon and a Fellow of Pembroke College, both at the University of Oxford. He then moved within the same university to become the Merton Professor of English Language and Literature and Fellow of Merton College, and held these positions from 1945 until his retirement in 1959. Tolkien was a close friend of C. S. Lewis, a co-member of the Inklings, an informal literary discussion group. He was appointed a Commander of the Order of the British Empire by Queen Elizabeth II on 28 March 1972.
+> From 1925 to 1945 Tolkien was the Rawlinson and Bosworth Professor of Anglo-Saxon 
+> and a Fellow of Pembroke College, both at the University of Oxford. 
+> 
+> He then moved within the same university to become 
+> the Merton Professor of English Language and Literature and Fellow of Merton College, 
+> and held these positions from 1945 until his retirement in 1959. 
+> 
+> Tolkien was a close friend of C. S. Lewis, 
+> a co-member of the Inklings, an informal literary discussion group. 
+> He was appointed a Commander of the Order of the British Empire by Queen Elizabeth II on 28 March 1972.
 >
 > After Tolkien's death his son Christopher published a series of works based on his father's extensive notes and unpublished manuscripts, including The Silmarillion. These, together with The Hobbit and The Lord of the Rings, form a connected body of tales, poems, fictional histories, invented languages, and literary essays about a fantasy world called Arda and, within it, Middle-earth. Between 1951 and 1955 Tolkien applied the term legendarium to the larger part of these writings.
 >

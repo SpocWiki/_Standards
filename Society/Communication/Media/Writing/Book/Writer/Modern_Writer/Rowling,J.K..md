@@ -1,6 +1,8 @@
 ---
 aliases:
   - J._K._Rowling
+  - Joanne Rowling
+  - Rowling
 has_id_wikidata: Q34660
 influenced_by:
   - "[[_Standards/WikiData/WD~J._D._Salinger,79904]]"
@@ -169,15 +171,17 @@ ISNI: 000000012148628X
 NLC_authorities: "051064532"
 ---
 
-
-# [[Rowling_J._K.]]
+# [[Rowling,J.K.]]
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~J._K._Rowling,34660|WD~J._K._Rowling,34660]]
 
-
 ## #has_/text_of_/abstract 
 
-> Joanne Rowling (  ROH-ling; born 31 July 1965), better known by her pen name J. K. Rowling, is a British novelist and author of Harry Potter, a seven-volume series about a young wizard. Published from 1997 to 2007, the fantasy novels are the  best-selling book series in history, with over 600 million copies sold. They have been translated into 84 languages and have spawned a global media franchise including films and video games. She writes Cormoran Strike, an ongoing crime fiction series, under the alias Robert Galbraith. 
+> Joanne Rowling (  ROH-ling; born 31 July 1965), 
+> better known by her pen name J. K. Rowling, 
+> is a British novelist and author of Harry Potter, a seven-volume series about a young wizard. 
+> 
+> Published from 1997 to 2007, the fantasy novels are the  best-selling book series in history, with over 600 million copies sold. They have been translated into 84 languages and have spawned a global media franchise including films and video games. She writes Cormoran Strike, an ongoing crime fiction series, under the alias Robert Galbraith. 
 >
 > Born in Yate, Gloucestershire, Rowling was working as a researcher and bilingual secretary for Amnesty International in 1990 when she conceived the idea for the Harry Potter series. The seven-year period that followed saw the death of her mother, the birth of her first child, divorce from her first husband, and relative poverty until the first novel in the series, Harry Potter and the Philosopher's Stone, was published in 1997. Six sequels followed, concluding with Harry Potter and the Deathly Hallows (2007). By 2008, Forbes had named her the world's highest-paid author.
 >

@@ -2,6 +2,7 @@
 aliases:
 - "James Joyce"
 - "James Augustine Aloysius Joyce"
+- James_Joyce
 archives_at:
 - '[[_Standards/WikiData/WD~Zürich_James_Joyce_Foundation,230416]]'
 - '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
@@ -128,8 +129,13 @@ work_period_start_: 1904
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 ---
 
+# [[Joyce,James]] 
+
 #has_/time_/started ::  1882-02-02
 #has_/time_/started ::  1941-01-13 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~James_Joyce,6882|WD~James_Joyce,6882]] 
+
 
 ## #has_/text_of_/abstract 
 
