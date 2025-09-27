@@ -102,6 +102,10 @@ visitors_per_year:
 - 891
 ---
 
+# [[Mount_Everest]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Mount_Everest,513|WD~Mount_Everest,513]] 
+
 ## #has_/text_of_/abstract 
 
 > **Mount Everest**, known locally as Sagarmatha or Qomolangma,  is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas. The China–Nepal border runs across its summit point. Its elevation (snow height) of 8,848.86 m (29,031 ft 8+1⁄2 in) was most recently established in 2020 by the Chinese and Nepali authorities.
