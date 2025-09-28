@@ -36,13 +36,29 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Trekking%20K2%20
 RIA_Novosti_reference: "52699902"
 ---
 
+# [[K2-Mountain]] 
+
 #is_/same_as :: [[../../../../../WikiData/WD~K2,43512|WD~K2,43512]]  
 ## #has_/text_of_/abstract 
 
 > **K2**, at 8,611 metres (28,251 ft) above sea level, is the second-highest mountain on Earth, 
-> after Mount Everest at 8,849 metres (29,032 ft). It lies in the Karakoram range, partially in the Gilgit-Baltistan region of Pakistan-administered Kashmir and partially in the China-administered Trans-Karakoram Tract in the Taxkorgan Tajik Autonomous County of Xinjiang.
+> after Mount Everest at 8,849 metres (29,032 ft). 
+> 
+> It lies in the Karakoram range, 
+> - partially in the Gilgit-Baltistan region of Pakistan-administered Kashmir and 
+> - partially in the China-administered Trans-Karakoram Tract 
+> in the Taxkorgan Tajik Autonomous County of Xinjiang.
 >
-> K2 became known as the Savage Mountain after George Bell—a climber on the 1953 American expedition—said, "It's a savage mountain that tries to kill you." Of the five highest mountains in the world, K2 has long been the deadliest: prior to 2021, approximately one person had died on the mountain for every four who reached the summit. After an increase in successful attempts, as of August 2023, an estimated 800 people have summited K2, with 96 deaths during attempted climbs.
+> K2 became known as the Savage Mountain after George Bell—
+> a climber on the 1953 American expedition—
+> said, "It's a savage mountain that tries to kill you." 
+> 
+> Of the five highest mountains in the world, K2 has long been the deadliest: 
+> prior to 2021, approximately one person had died on the mountain 
+> for every four who reached the summit. 
+> 
+> After an increase in successful attempts, as of August 2023, 
+> an estimated 800 people have summited K2, with 96 deaths during attempted climbs.
 >
 > Also occasionally known as Mount Godwin-Austen, other nicknames for K2 are The King of Mountains and The Mountaineers' Mountain, as well as The Mountain of Mountains after prominent Italian climber Reinhold Messner titled his book about K2 the same. Although the summit of Everest is at a higher altitude, K2 is a more difficult and dangerous climb. This is due in part to its more northern location, where inclement weather is more common. The summit was reached for the first time by the Italian climbers Lino Lacedelli and Achille Compagnoni on a 1954 Italian expedition led by Ardito Desio.
 >

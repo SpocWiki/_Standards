@@ -186,7 +186,7 @@ tagNames:
 tags:
 - class/FileClass
 - class/Thing
-- '#is_/a_/Thing'
+- '#is_a_/Thing'
 - class/Thing
 version: 2.13
 ---

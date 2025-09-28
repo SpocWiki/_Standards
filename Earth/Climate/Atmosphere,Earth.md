@@ -55,7 +55,7 @@ Krugosvet_article: nauka_i_tehnika/himiya/ATMOSFERA_ZEMLI.html
 # [[Atmosphere,Earth]] 
 
 #is_/same_as :: [[../../WikiData/WD~Atmosphere_of_Earth,3230|WD~Atmosphere_of_Earth,3230]] 
-
+#is_a_ :: [[../../Astronomy/Planet/Atmosphere|Atmosphere]] 
 ## Atmosphere-Composition 
 
 Roughly speaking 80% [[../../Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen|Nitrogen]] and 20% [[../../Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen|Oxygen]]. 
@@ -95,6 +95,10 @@ Below 3km
 | GEO                  |                                                                   |       | Geostationary Orbit, 24h                                                                      |                                     |   35786 |
 | HEO (Elliptical)     |                                                                   |       | specialized communications and remote sensing                                                 |                                     | Varying |
 
+The Exosphere can be deformed by charged Particle Streams 
+and also expand due to heating from Solar Winds. 
+This is a Problem for Satellites in LEO, because they are decelerated 
+and need to spend fuel to actively change position, while also aligning with other Satellites. 
 
 ## #has_/text_of_/abstract 
 
