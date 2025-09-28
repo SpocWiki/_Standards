@@ -28,9 +28,10 @@
 > and have been hinting at an upcoming seventh studio album. 
 > Boston was ranked the 63rd-best hard rock artist by VH1.
 >
-> After original longtime lead singer [[Boston(Band)/Delp,Brad]] died in 2007, 
+> After original longtime lead singer [[Boston(Band)/Delp,Brad|Brad Delp]] died in 2007, 
 > a number of vocalists have taken the stage, 
 > including Stryper frontman and vocalist Michael Sweet. 
+> 
 > Since 2013, Tommy DeCarlo has been the group's lead singer. 
 > Other current members of the band include guitarist Gary Pihl, 
 > bassist Tracy Ferrie, drummer Jeff Neal and vocalist/multi-instrumentalist Beth Cohen.

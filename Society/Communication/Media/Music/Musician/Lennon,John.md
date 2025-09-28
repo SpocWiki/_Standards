@@ -176,6 +176,7 @@ date_of_birth: 1940-10-09T00:00:00Z
 
 # [[Lennon,John]] 
 
+#is_/part_of_ :: [[Music~Band/Beatles|Beatles]] 
 #is_/same_as :: [[WD~John_Lennon,1203]] 
 
 ## #has_/text_of_/abstract 
