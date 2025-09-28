@@ -22,7 +22,7 @@ aliases:
 > with implications for engineering, systems control, computer science, biology, neuroscience, philosophy, 
 > and the organization of society. 
 > 
-> His work heavily influenced computer pioneer [[von_Neumann,John|John von Neumann]], information theorist Claude Shannon, 
+> His work heavily influenced computer pioneer [[Neumann,John_von|John von Neumann]], information theorist Claude Shannon, 
 > anthropologists Margaret Mead and [[../../../../Knowledge/Psychology.internal/Psychologist/Bateson,Gregory|Gregory Bateson]], and others.
 >
 > Wiener is credited as being one of the first to theorize 

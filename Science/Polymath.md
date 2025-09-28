@@ -55,7 +55,7 @@ Commons_category: Polymaths
 	- [[../Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von|Goethe,Johann_Wolfgang_von]]]
 	- [[../../../_Standards/Mathematics/Mathematician/Turing,Alan|Alan Turing]]
 	- Benjamin Franklin
-	- [[../../../_Standards/Mathematics/Mathematician/von_Neumann,John|John von Neumann]]
+	- [[../Mathematics/Mathematician/Neumann,John_von|John von Neumann]]
 	- Omar Khayyam
 	- [[../../../_Standards/Mathematics/Mathematician/Peirce,Charles_Sanders|Charles Sanders Peirce]]
 	- [[../../../_Standards/Mathematics/Mathematician/Poincaré,Henri|Henri Poincaré]]

@@ -1,6 +1,7 @@
 ---
 aliases:
 - "John Locke"
+- John_Locke
 award_received: '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
 BHCL_UUID: 48cb6882-ef92-4e17-aa81-87fc85ba6354
 cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
@@ -105,14 +106,17 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/45303
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 ---
 
+# [[Locke,John]] 
+
 #has_/time_/started :: 1632-08-29 
 #has_/time_/stopped  :: 1704-10-28 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/previous_item :: [[Bacon,Francis]] 
+#is_/same_as :: [[../../../WikiData/WD~John_Locke,9353|WD~John_Locke,9353]] 
 
 ## #has_/text_of_/abstract  
 
-> **John Locke** (; 29 August 1632 (O.S.) – 28 October 1704 (O.S.)) was an English philosopher and physician, 
+> **John Locke** (29 August 1632 (O.S.) – 28 October 1704 (O.S.)) was an English philosopher and physician, 
 > widely regarded as one of the most influential of Enlightenment thinkers 
 > and commonly known as the "father of liberalism". 
 > 
