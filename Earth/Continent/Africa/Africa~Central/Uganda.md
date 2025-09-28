@@ -576,7 +576,7 @@ markerFolder: ./Uganda//
 [Area-Land::199650]
 has_place_continent:: [[Africa]]  
 [VehicleCode::EAU]
-Capital :: [[Kampala]]  
+Capital :: [[Uganda/regions~Uganda/Uganda~Central/Kampala]]  
 
 ![[Coat_of_arms_of_Uganda.svg|450]]
 
