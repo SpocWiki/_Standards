@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Kiribati
+  - كيريباس
+  - 基里巴斯
+  - Кирибати
+  - the Republic of Kiribati
+  - la República de Kiribati
+has_id_wikidata: Q710
 instance_of:
   - "[[_Standards/WikiData/WD~island_country,112099]]"
   - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
@@ -218,7 +226,6 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Kiribati.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Kiribati.wav
 official_website: https://www.kiribati.gov.ki
-has_id_wikidata: Q710
 location:
   - 1.4
   - 172.967
@@ -241,13 +248,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Kiribati
-  - كيريباس
-  - 基里巴斯
-  - Кирибати
-  - the Republic of Kiribati
-  - la República de Kiribati
 Languages:
   - en-KI
   - gil
@@ -321,15 +321,12 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 
 [	ISO3166-1-numeric	 :: 296 ] 
 
-
-
 [ISO2::KI] 
 [ISO3::KIR]  
 
+#is_/same_as :: [[../../../../WikiData/WD~Kiribati,710|WD~Kiribati,710]] 
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Kiribati

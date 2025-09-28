@@ -61,6 +61,10 @@ Wikidata_SPARQL_query_equivalent: "wd:Q11570 p:P2370/psn:P2370 [wikibase:quantit
 Wolfram_Language_unit_code: "\"Kilograms\""
 ---
 
+# [[Unit~Kilogram]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Kilogram,11570|WD~Kilogram,11570]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Kilogram** (also spelled kilogramme) is the base unit of mass in the International System of Units (SI), 

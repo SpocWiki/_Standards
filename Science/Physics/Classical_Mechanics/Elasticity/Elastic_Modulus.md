@@ -29,7 +29,7 @@ MeSH_tree_code: G01.374.590.605
 
 # [[Elastic_Modulus]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Elastic_modulus,192005|WD~Elastic_modulus,192005]] 
+#is_/same_as :: [[../../../../WikiData/WD~Elastic_modulus,192005|WD~Elastic_modulus,192005]] 
 
 ## #has_/text_of_/abstract 
 

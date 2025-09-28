@@ -53,7 +53,7 @@ Unicode_character: 🤺
 
 # [[Fencing]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Fencing,12100|WD~Fencing,12100]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Fencing,12100|WD~Fencing,12100]] 
 
 ## #has_/text_of_/abstract 
 

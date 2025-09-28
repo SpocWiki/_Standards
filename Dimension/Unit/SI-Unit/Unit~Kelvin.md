@@ -1,9 +1,52 @@
+---
+aliases:
+  - Kelvin
+has_id_wikidata: Q11579
+named_after: "[[_Standards/WikiData/WD~William_Thomson,_1st_Baron_Kelvin,122701]]"
+measured_physical_quantity:
+  - "[[_Standards/WikiData/WD~dew_point,178828]]"
+  - "[[_Standards/WikiData/WD~Curie_temperature,191073]]"
+  - "[[_Standards/WikiData/WD~thermodynamic_temperature,264647]]"
+  - "[[_Standards/WikiData/WD~color_temperature,327408]]"
+  - "[[_Standards/WikiData/WD~Néel_temperature,830311]]"
+  - "[[_Standards/WikiData/WD~Debye_temperature,3517821]]"
+  - "[[_Standards/WikiData/WD~Fermi_temperature,105942324]]"
+  - "[[_Standards/WikiData/WD~superconduction_transition_temperature,106103037]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~SI_base_unit,223662]]"
+  - "[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]"
+  - "[[_Standards/WikiData/WD~unit_of_thermodynamic_temperature,68723978]]"
+  - "[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]"
+uses: "[[_Standards/WikiData/WD~zero_based_numbering,4355278]]"
+described_by_source: "[[_Standards/WikiData/WD~SI_Brochure_(8th_edition),19606873]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Q58538806,58538806]]"
+  - "[[_Standards/WikiData/WD~kelvin_difference,69363953]]"
+conversion_to_SI_unit: 1
+UCUM_code: K
+Unicode_character: K
+unit_symbol:
+  - K
+  - К
+  - K
+  - K
+  - K
+  - K
+UN_CEFACT_Common_Code: KEL
+image: http://commons.wikimedia.org/wiki/Special:FilePath/CelsiusKelvinThermometer.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A6%AD%E0%A6%BF%E0%A6%A8.wav
+Wolfram_Language_unit_code: '"Kelvins"'
+IEV_number: 112-02-08
+Commons_category: Kelvin temperature
+Wikidata_SPARQL_query_equivalent: wd:Q11579 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
+---
 
 # [[Unit~Kelvin]] 
 
 #is_an_ :: [[../SI-Unit]] 
 Unit :: #Unit/SI/K
 #is_a_/unit_/for_/temperature 
+#is_/same_as :: [[../../../WikiData/WD~Kelvin,11579|WD~Kelvin,11579]] 
 
 Temperature is a macroscopic, statistical Energy Measurement. 
 Therefore Temperature can be expressed as mean Energy: 

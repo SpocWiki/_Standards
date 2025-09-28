@@ -3,7 +3,7 @@ aliases:
   - Indian Religion
 ---
 
-# [[India~Religions]] 
+# [[Indian_Religion]] 
 
 
 ## #has_/text_of_/abstract 

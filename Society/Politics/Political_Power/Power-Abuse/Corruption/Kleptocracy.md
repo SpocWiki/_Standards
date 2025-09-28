@@ -12,6 +12,8 @@ described_by_source: "[[_Standards/WikiData/WD~Siyasî_Düşünce_Sözlüğü,12
 OmegaWiki_Defined_Meaning: "1493200"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Corrupt-Legislation-Vedder-Highsmith-detail-1.jpeg
 ---
+
+# [[Kleptocracy]] 
 ﻿
 #is_/same_as :: [[/_public/WikiData/WD~Kleptocracy,191244]] 
 
