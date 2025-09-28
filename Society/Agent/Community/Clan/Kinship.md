@@ -32,8 +32,8 @@ exact_match: https://w3id.org/italia/onto/CPCO/ParentalRelationshipType
 
 # [[Kinship]] 
 
+#is_/worse_than :: [[Consanguinity]] 
 #is_/same_as :: [[WD~Kinship,171318]] 
-#ismore
 
 ## #has_/text_of_/abstract 
 
