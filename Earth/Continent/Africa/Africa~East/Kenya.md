@@ -413,14 +413,6 @@ WIPO_ST_3: KE
 
 # [[Kenya]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kenya,114]]  
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Kenya 
-
-[[Kenya/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: KES ]
 [	ISO4217-currency_name	 :: Kenyan Shilling ]
 [	ISO4217-currency_numeric	 :: 404 ]
@@ -484,10 +476,19 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 404 ]
 
+[ISO2::KE] 
+[ISO3::KEN] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Kenya,114|WD~Kenya,114]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Kenya 
+
+[[Kenya/ReadMe]] 
 
 
-[ISO2::KE]
-[ISO3::KEN]
+## #has_/map  
+
 ```leaflet
 id: Kenya
 zoomFeatures: true 

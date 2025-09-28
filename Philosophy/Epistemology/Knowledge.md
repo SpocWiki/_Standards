@@ -49,10 +49,11 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_knowledge,7112676]]'
 
 # [[Knowledge]] 
 
-
 #is_/better_than :: [[Information]]  
 #is_/worse_than :: [[Insight]]  
 #is_/same_as :: [[../../WikiData/WD~Knowledge,9081|WD~Knowledge,9081]] 
+
+mental possession of information or skills, contributing to understanding
 
 ## #has_/text_of_/abstract 
 

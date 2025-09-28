@@ -26,6 +26,7 @@ MeSH_tree_code:
 
 # [[Consanguinity]] 
 
+#is_/better_than :: [[Kinship]] 
 #is_/same_as :: [[../../../../WikiData/WD~Consanguinity,774347|WD~Consanguinity,774347]] 
 
 ## #has_/text_of_/abstract 
