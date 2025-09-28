@@ -374,12 +374,6 @@ icon: flag-kz
 
 # [[Kazakhstan]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Kazakhstan 
-
-[[Kazakhstan/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: KZT ]
 [	ISO4217-currency_name	 :: Tenge ]
 [	ISO4217-currency_numeric	 :: 398 ]
@@ -443,14 +437,17 @@ Sub-region_Name ::  [[Central Asia]]
 
 [	ISO3166-1-numeric	 :: 398 ]
 
-
-
 [ISO2::KZ]
 [ISO3::KAZ] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Kazakhstan 
+
+[[Kazakhstan/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Kazakhstan
@@ -485,7 +482,14 @@ Capital :: [[Kazakhstan/Counties/Astana/City/Astana-City]]
 
 ## #has_/text_of_/abstract 
 
-> **Kazakhstan**, officially the Republic of Kazakhstan, is a landlocked country primarily in Central Asia, with a small portion situated in Eastern Europe. It borders Russia to the north and west, China to the east, Kyrgyzstan to the southeast, Uzbekistan to the south, and Turkmenistan to the southwest, with a coastline along the Caspian Sea. Its capital is Astana, while the largest city and leading cultural and commercial hub is Almaty. 
+> **Kazakhstan**, officially the Republic of Kazakhstan, 
+> is a landlocked country primarily in Central Asia, 
+> with a small portion situated in Eastern Europe. 
+> 
+> It borders Russia to the north and west, China to the east, Kyrgyzstan to the southeast, 
+> Uzbekistan to the south, and Turkmenistan to the southwest, 
+> with a coastline along the Caspian Sea. 
+> Its capital is Astana, while the largest city and leading cultural and commercial hub is Almaty. 
 >
 > Kazakhstan is the world's ninth-largest country by land area and the largest landlocked country. Hilly plateaus and plains account for nearly half its vast territory, with lowlands composing another third; its southern and eastern frontiers are composed of low mountainous regions. Kazakhstan has a population of 20 million and one of the lowest population densities in the world, with fewer than 6 people per square kilometre (16 people/sq mi). Ethnic Kazakhs constitute a majority, while ethnic Russians form a significant minority. Officially secular, Kazakhstan is a Muslim-majority country with a sizeable Christian community.
 >

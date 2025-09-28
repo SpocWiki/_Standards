@@ -1,6 +1,7 @@
 
 # [[Control_Theory]] 
 
+#is_/similar_to :: [[../../../Society/Agent/Management|Management]] 
 #is_/same_as :: [[../../../WikiData/WD~Control_theory,6501221|WD~Control_theory,6501221]] 
 
 ## #has_/text_of_/abstract 
