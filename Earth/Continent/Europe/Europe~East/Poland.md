@@ -589,7 +589,7 @@ Population in 1000s as of @2024
 | City                                                                                                                                         | Voivodeship                                                          | Pop/k |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---: |
 | [[Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Warszawa\|Warszawa]]                                                                 | [[Poland/Provinces~Poland/Masovian\|Masovian]]                       | 1860 |
-| [[Poland/Provinces~Poland/Lesser_Poland/City/Kraków\|Krakau]]                                                                                | [[Poland/Provinces~Poland/Lesser_Poland\|Lesser_Poland]]             |  800 |
+| [[Poland/Provinces~Poland/Lesser_Poland/counties~Małopolskie/Kraków,City\|Krakau]]                                                                                | [[Poland/Provinces~Poland/Lesser_Poland\|Lesser_Poland]]             |  800 |
 | [[Poland/Provinces~Poland/Łódź,Province/counties~Łódzkie/Lodz-city\|Lodz-city]]                                                              | [[Poland/Provinces~Poland/Łódź,Province\|Łódź]]                      |  660 |
 | [[Poland/Provinces~Poland/Lower_Silesian/counties~Dolnośląskie/Wrocław/cities~Wrocław/Kąty_Wrocławskie\|Wrocław]]                            | [[Poland/Provinces~Poland/Lower_Silesian\|Lower_Silesian]]           |  640 |
 | [[Poland/Provinces~Poland/Greater_Poland/City/Poznań\|Poznań]]                                                                               | [[Poland/Provinces~Poland/Greater_Poland\|Greater_Poland]]           |  540 |
@@ -607,7 +607,7 @@ Population in 1000s as of @2024
 > and is the fifth-most populous member state of the European Union. 
 > 
 > [[Warsaw]] is the nation's capital and largest metropolis. 
-> Other major cities include [[Kraków]], [[Wrocław]], [[Poland/Provinces~Poland/Łódź,Province]], [[Poznań]], and [[Gdańsk]].
+> Other major cities include [[Poland/Provinces~Poland/Lesser_Poland/counties~Małopolskie/Kraków,City]], [[Wrocław]], [[Poland/Provinces~Poland/Łódź,Province]], [[Poznań]], and [[Gdańsk]].
 >
 > Poland has a temperate transitional climate, 
 > and its territory traverses the Central European Plain, 
