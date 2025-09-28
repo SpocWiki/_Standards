@@ -56,8 +56,7 @@ UNSPSC_Code: 12142003
 ZVG_number: 7360
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Krypton,888]]  
-
+# [[Krypton]] 
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
@@ -82,9 +81,10 @@ ZVG_number: 7360
 (PeriodNo::4)
 (GroupNo::18)
 
+#is_/same_as :: [[../../../WikiData/WD~Krypton,888]]  
+
 
 ## #has_/text_of_/abstract 
-
 
 > **Krypton** (from Ancient Greek: κρυπτός, romanized: kryptos 'the hidden one') 
 > is a chemical element with the symbol (Abbr::Kr) and atomic number (Charge-e::36). 
