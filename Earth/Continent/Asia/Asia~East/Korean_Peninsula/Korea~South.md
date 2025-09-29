@@ -459,7 +459,7 @@ Capital ::  [[Korea~South/City/Seoul]] ]
 [Alcohol-l::14.8]
 [Language-Id::459]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::126.97]
 [has_place_latitude::37.55]
 
