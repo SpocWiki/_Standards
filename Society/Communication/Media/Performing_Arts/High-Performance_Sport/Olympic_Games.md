@@ -140,7 +140,7 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 1984 | [[../../../../../../Earth/Continent/Europe/Europe~South/Yugoslavia\|Yugoslavia]]     | [[Sarajevo]]                    |  W  | 1984-02-08 | 1960-02-19 |
 | 1984 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Los Angeles]]                 |  S  | 1984-07-28 | 1960-08-12 |
 | 1988 | [[../../../../../../Earth/Continent/America~North/Canada\|Canada]]                   | [[Calgary]]                     |  W  | 1988-02-13 | 1956-02-28 |
-| 1988 | [[../../../../../../Earth/Continent/Asia/Asia~East/Korea~South\|South Korea]]        | [[Seoul]]                       |  S  | 1988-09-17 | 1956-10-02 |
+| 1988 | [[../../../../../Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South\|South Korea]]        | [[../../../../../Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Seoul]]                       |  S  | 1988-09-17 | 1956-10-02 |
 | 1992 | [[../../../../../../Earth/Continent/Europe/Europe~West/France\|France]]              | [[Albertville]]                 |  W  | 1992-02-08 | 1952-02-23 |
 | 1992 | [[../../../../../../Earth/Continent/Europe/Europe~South/Spain\|Spain]]               | [[Barcelona]]                   |  S  | 1992-07-25 | 1952-08-09 |
 | 1994 | [[../../../../../../Earth/Continent/Europe/Europe~North/Norway\|Norway]]             | [[Lillehammer]]                 |  W  | 1994-02-12 | 1948-02-27 |
@@ -155,7 +155,7 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 2012 | [[../../../../../../Earth/Continent/Europe/Europe~North/UK\|United Kingdom]]         | [[London]]                      |  S  | 2012-07-27 | 1924-08-12 |
 | 2014 | [[../../../../../../Earth/Continent/Europe/Europe~East/Russia\|Russia]]              | [[Sochi]]                       |  W  | 2014-02-07 | 1920-02-23 |
 | 2016 | [[../../../../../../Earth/Continent/America~South/Brazil\|Brazil]]                   | [[Rio de Janeiro]]              |  S  | 2016-08-05 | 1912-08-21 |
-| 2018 | [[../../../../../../Earth/Continent/Asia/Asia~East/Korea~South\|Korea~South]]        | [[Pyeongchang]]                 |  W  | 2018-02-09 | 1908-02-25 |
+| 2018 | [[../../../../../Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South\|Korea~South]]        | [[Pyeongchang]]                 |  W  | 2018-02-09 | 1908-02-25 |
 | 2020 | [[../../../../../../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                    | [[../../../../../Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo]]                       |  S  | 2021-07-23 | 1904-08-08 |
 | 2022 | [[../../../../../../Earth/Continent/Asia/Asia~East/China\|China]]                    | [[Beijing]]                     |  W  | 2022-02-04 | 1900-02-20 |
 | 2026 | [[../../../../../../Earth/Continent/Europe/Europe~South/Italy\|Italy]]               | [[Milan]] [[Cortina d'Ampezzo]] |  W  | 2026-02-06 | 2026-02-22 |

@@ -606,7 +606,6 @@ icon: flag-jp
 #has_/telephone_/Prefix_/International :: 010 
 #has_/telephone_/Prefix_/country:: 81 
 
-
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
 

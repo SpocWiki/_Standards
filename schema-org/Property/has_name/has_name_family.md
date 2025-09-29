@@ -46,8 +46,8 @@ Predicated describes that:
 
 - [[../../../Earth/Continent/Asia/Asia~East/China|China]] 
 - [[../../../Earth/Continent/Asia/Asia~East/Japan|Japan]] 
-- [[../../../Earth/Continent/Asia/Asia~East/Korea~North|Korea~North]] 
-- [[../../../Earth/Continent/Asia/Asia~East/Korea~South|Korea~South]] 
+- [[../../../Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North|Korea~North]] 
+- [[../../../Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South|Korea~South]] 
 - [[../../../Earth/Continent/Asia/Asia~South~East/Vietnam|Vietnam]] 
 - [[../../../Earth/Continent/Europe/Europe~East/Hungary|Hungary]] 
 - [[../../../Earth/Continent/Asia/Asia~East/Mongolia|Mongolia]] 
