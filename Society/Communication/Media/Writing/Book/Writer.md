@@ -128,6 +128,7 @@ Wolfram_Language_entity_code: Entity["Concept", "Writer::5vx3r"]
 
 #is_/same_as :: [[_Standards/WikiData/WD~writer,36180]]
 
+
 ## #has_/text_of_/abstract 
 
 > A **Writer** is a person who uses written words in different writing styles, genres and techniques 
