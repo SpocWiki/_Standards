@@ -1,6 +1,7 @@
 ---
 aliases:
 - "Lake Victoria"
+location: [-1.0, 33.0]
 area: 68100
 basin_country:
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
@@ -60,13 +61,48 @@ watershed_area: 238900
 width: 240
 ---
 
+# [[Lake_Victoria]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Lake_Victoria,5505|WD~Lake_Victoria,5505]]  
+
+## #has_/map 
+
+```leaflet
+id: Lake_Victoria
+minZoom: 4 
+defaultZoom: 7 
+maxZoom: 18
+geojsonFolder: ./Lake_Victoria////
+markerFolder: ./Lake_Victoria/
+coordinates: [[Lake_Victoria]] 
+markerFile: [[Lake_Victoria]] 
+```
+
+
 ## #has_/text_of_/abstract 
 
-> **Lake Victoria** is one of the African Great Lakes. With a surface area of approximately 59,947 km2 (23,146 sq mi), Lake Victoria is Africa's largest lake by area, the world's largest tropical lake, and the world's second-largest fresh water lake by surface area after Lake Superior in North America. In terms of volume, Lake Victoria is the world's ninth-largest continental lake, containing about 2,424 km3 (1.965×109 acre⋅ft) of water. Lake Victoria occupies a shallow depression in Africa. The lake has an average depth of 40 m (130 ft) and a maximum depth of 80–81 m (262–266 ft). Its catchment area covers 169,858 km2 (65,583 sq mi).  The lake has a shoreline of 7,142 km (4,438 mi) when digitized at the 1:25,000 level, with islands constituting 3.7% of this length. 
+> **Lake Victoria** is one of the African Great Lakes. 
+> With a surface area of approximately 59,947 km2 (23,146 sq mi), 
+> Lake Victoria is Africa's largest lake by area, the world's largest tropical lake, 
+> and the world's second-largest fresh water lake by surface area after Lake Superior in North America. 
+> 
+> In terms of volume, Lake Victoria is the world's ninth-largest continental lake, 
+> containing about 2,424 km3 (1.965×109 acre⋅ft) of water. 
+> 
+> Lake Victoria occupies a shallow depression in Africa. 
+> The lake has an average depth of 40 m (130 ft) and a maximum depth of 80–81 m (262–266 ft). 
+> 
+> Its catchment area covers 169,858 km2 (65,583 sq mi).  
+> The lake has a shoreline of 7,142 km (4,438 mi) when digitized at the 1:25,000 level, 
+> with islands constituting 3.7% of this length. 
 >
-> The lake's area is divided among three countries: Tanzania occupies 49% (33,700 km2 (13,000 sq mi)),  Uganda 45% (31,000 km2 (12,000 sq mi)), and Kenya 6% (4,100 km2 (1,600 sq mi)).
+> The lake's area is divided among three countries: 
+> - Tanzania occupies 49% (33,700 km2 (13,000 sq mi)),  
+> - Uganda 45% (31,000 km2 (12,000 sq mi)), and 
+> - Kenya 6% (4,100 km2 (1,600 sq mi)).
 >
-> The lake is home to many species of fish which live nowhere else, especially cichlids. Invasive fish, such as the Nile perch, have driven many endemic species to extinction.
+> The lake is home to many species of fish which live nowhere else, especially cichlids. 
+> Invasive fish, such as the Nile perch, have driven many endemic species to extinction.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Victoria) 
 
