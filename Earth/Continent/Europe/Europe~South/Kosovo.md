@@ -282,10 +282,9 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Kosovo/ReadMe]] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Kosovo,1246|WD~Kosovo,1246]] 
 
 ## #has_/map  
-
-
 
 ```leaflet
 id: Niedersachsen
