@@ -1,6 +1,7 @@
 ---
 aliases:
 - "Lake Tanganyika"
+location: [-6.1, 29.5]
 area: 32900
 basin_country:
 - '[[_Standards/WikiData/WD~Tanzania,924]]'
@@ -52,9 +53,39 @@ watershed_area: 231000
 width: 72
 ---
 
+# [[Lake_Tanganyika]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Lake_Tanganyika,5511|WD~Lake_Tanganyika,5511]] 
+
+## #has_/map 
+
+```leaflet
+id: Lake_Tanganyika
+minZoom: 4 
+defaultZoom: 6 
+maxZoom: 18
+geojsonFolder: ./Lake_Tanganyika/
+markerFolder: ./Lake_Tanganyika/
+coordinates: [[Lake_Tanganyika]] 
+markerFile: [[Lake_Tanganyika]] 
+```
+
+
 ## #has_/text_of_/abstract 
 
-> **Lake Tanganyika** ( TANG-gən-YEE-kə, -⁠gan-; Kirundi: Ikiyaga ca Tanganyika) is an African Great Lake. It is the second-largest freshwater lake by volume and the second deepest, in both cases after Lake Baikal in Siberia. It is the world's longest freshwater lake. The lake is shared among four countries—Tanzania, the Democratic Republic of the Congo (the DRC), Burundi, and Zambia—with Tanzania (46%) and the DRC (40%) possessing the majority of the lake. It drains via the Lukuga River into the Congo River system, which ultimately discharges at Banana, Democratic Republic of the Congo into the Atlantic Ocean.
+> **Lake Tanganyika** ( TANG-gən-YEE-kə, -⁠gan-; Kirundi: Ikiyaga ca Tanganyika) is an African Great Lake. 
+> It is the second-largest freshwater lake by volume and the second deepest, 
+> in both cases after Lake Baikal in Siberia. 
+> 
+> It is the world's longest freshwater lake. 
+> The lake is shared among four countries
+> - Tanzania (46%) , 
+> - Democratic Republic of the Congo (the DRC 40%), 
+> - Burundi, and 
+> - Zambia 
+> 
+> It drains via the Lukuga River into the Congo River system, 
+> which ultimately discharges at Banana, Democratic Republic of the Congo into the Atlantic Ocean.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Tanganyika) 
 

@@ -4,6 +4,7 @@ aliases:
   - lake_body_of_water
   - LakeBodyOfWater
   - is_a_lake_body_of_water
+has_id_wikidata: Q23397
 confidential: public
 cssclasses:
   - Type
@@ -23,6 +24,71 @@ tags:
   - schema-org/Class
 title: is_a_lake_body_of_water Class
 type: Type
+MeSH_tree_code:
+  - G01.311.580
+  - G16.500.275.280.500
+  - N06.230.232.500
+entry_in_abbreviations_table: оз.
+OpenStreetMap_tag: water=lake
+studied_by:
+  - "[[_Standards/WikiData/WD~limnology,165838]]"
+  - "[[_Standards/WikiData/WD~limnology,840436]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~landform,271669]]"
+  - "[[_Standards/WikiData/WD~still_waters,337567]]"
+  - "[[_Standards/WikiData/WD~open_water,2479431]]"
+  - "[[_Standards/WikiData/WD~overground_still_body_of_fresh_water,3391202]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Lakes,5497887]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Infobox_lake,5825790]]"
+  - "[[_Standards/WikiData/WD~Template_Lake_stub,13401990]]"
+  - "[[_Standards/WikiData/WD~Q26019895,26019895]]"
+  - "[[_Standards/WikiData/WD~Q26189069,26189069]]"
+instance_of: "[[_Standards/WikiData/WD~feature_type,12046615]]"
+different_from: "[[_Standards/WikiData/WD~lake_water_body,30092776]]"
+depicted_by: "[[_Standards/WikiData/WD~Le_acque_sognanti._L'enigma_del_lago,131937094]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q134291924,134291924]]"
+Wikidata_property: lake on watercourse
+properties_for_this_type:
+  - inception
+  - coordinate location
+  - length
+  - elevation above sea level
+  - area
+  - width
+  - watershed area
+  - volume as quantity
+  - perimeter
+  - thickness
+  - residence time of water
+  - vertical depth
+  - created by dam
+  - country
+  - outflows
+  - inflows
+  - basin country
+GeoNames_feature_code: H.LK
+OmegaWiki_Defined_Meaning: "2061"
+Commons_gallery: Lake
+Wolfram_Language_entity_type: Lake
+U_S_National_Archives_Identifier: "10639250"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Gentau%20Pic%20du%20Midi%20Ossau.jpg
+Commons_category: Lakes
+equivalent_class:
+  - http://dbpedia.org/ontology/Lake
+  - http://purl.obolibrary.org/obo/ENVO_00000020
+  - https://schema.org/LakeBodyOfWater
+exact_match: http://purl.obolibrary.org/obo/ENVO_00000020
+UMLS_CUI: C0337049
+Krugosvet_article_archived_: Earth_sciences/geografiya/OZERO.html
 ---
 
 # [[Lake]] 
@@ -38,6 +104,7 @@ A lake (for example, Lake Pontrachain).
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+#is_/same_as :: [[../../../../WikiData/WD~Lake,23397|WD~Lake,23397]] 
 
 ## #has_/text_of_/abstract 
 
