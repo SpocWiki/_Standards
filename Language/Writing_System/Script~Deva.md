@@ -3,7 +3,7 @@ aliases:
 - Devanagari
 ---
 
-Devanagari Script is used to write [[../Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hin|Hindi-Urdu]]
+Devanagari Script is used to write [[../Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hin|Hindi-Urdu]]
 
 
 3. **Hindi:**

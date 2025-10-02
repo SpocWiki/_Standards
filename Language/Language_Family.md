@@ -1,12 +1,45 @@
 ---
 aliases:
-- "Language family"
+  - Language family
 has_id_wikidata: Q25295
+studied_by:
+  - "[[_Standards/WikiData/WD~sociolinguistics,160845]]"
+  - "[[_Standards/WikiData/WD~linguistics,8162]]"
+different_from: "[[_Standards/WikiData/WD~sprachbund,839463]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~language_group,941501]]"
+  - "[[_Standards/WikiData/WD~languoid,17376908]]"
+part_of:
+  - "[[_Standards/WikiData/WD~macrofamily,949344]]"
+  - "[[_Standards/WikiData/WD~genetic_classification,25521366]]"
+has_part_s_: "[[_Standards/WikiData/WD~language_subfamily,11820611]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Language_families,13099669]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]"
+instance_of: "[[_Standards/WikiData/WD~languoid_class,28923954]]"
+properties_for_this_type:
+  - Freebase ID
+  - Glottolog code
+  - WALS family code
+  - ISO 639-5 code
+has_list: "[[_Standards/WikiData/WD~list_of_language_families,33898]]"
+OmegaWiki_Defined_Meaning: "1282916"
+exact_match: https://ontology.londisizwe.org/mola#LanguageFamily
+Wolfram_Language_entity_type: LanguageFamily
+Commons_category: Languages by family
 ---
+
+# [[Language_Family]] 
+
+#is_/same_as :: [[../WikiData/WD~Language_family,25295|WD~Language_family,25295]] 
 
 ## #has_/text_of_/abstract 
 
-> A **Language family** is a group of languages related through descent from a common ancestor, called the proto-language of that family. The term family is a metaphor borrowed from biology, with the tree model used in historical linguistics analogous to a family tree, or to phylogenetic trees of taxa used in evolutionary taxonomy. Linguists thus describe the daughter languages within a language family as being genetically related. The divergence of a proto-language into daughter languages typically occurs through geographical separation, with different regional dialects of the proto-language undergoing different language changes and thus becoming distinct languages over time. 
+> A **Language family** is a group of languages related through descent from a common ancestor, 
+> called the proto-language of that family. 
+> 
+> The term family is a metaphor borrowed from biology, with the tree model used in historical linguistics analogous to a family tree, or to phylogenetic trees of taxa used in evolutionary taxonomy. Linguists thus describe the daughter languages within a language family as being genetically related. The divergence of a proto-language into daughter languages typically occurs through geographical separation, with different regional dialects of the proto-language undergoing different language changes and thus becoming distinct languages over time. 
 >
 > One well-known example of a language family is the Romance languages, including Spanish, French, Italian, Portuguese, Romanian, Catalan, and many others, all of which are descended from Vulgar Latin. The Romance family itself is part of the larger Indo-European family, which includes many other languages native to Europe and South Asia, all believed to have descended from a common ancestor known as Proto-Indo-European.
 >

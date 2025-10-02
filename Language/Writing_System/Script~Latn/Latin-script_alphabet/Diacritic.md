@@ -25,7 +25,7 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/DIAKRITICHESKIE_ZNAKI.html
 
 # [[Diacritic]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Diacritic,162940|WD~Diacritic,162940]] 
+#is_/same_as :: [[../../../../WikiData/WD~Diacritic,162940|WD~Diacritic,162940]] 
 
 ## #has_/text_of_/abstract 
 

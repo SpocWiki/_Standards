@@ -30,7 +30,7 @@ Glottolog_code: indo1320
 Libris_URI: zw9cb0sh4mdhtcr
 ---
 
-# [[Lang-ira]] 
+# [[LangFamily-Indo-Iranian/Lang-ira]] 
 
 #is_/same_as :: [[WD~Indo-Iranian,33514]] 
 
