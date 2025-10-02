@@ -1,7 +1,7 @@
 ---
 aliases:
-- "Latin Script"
-- "Roman Script"
+  - Latin Script
+  - Roman Script
 has_id_wikidata: Q8229
 subclass_of: "[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Latin_alphabet,3772237]]"
@@ -51,7 +51,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Latijns
 described_at_URL: https://wikipesija.org/wiki/sitelen_Lasina
 ---
 
-# [[Latin_Script]] 
+# [[Script~Latn]] 
 
 #is_/same_as :: [[WD~Latin_script,8229]] 
 
