@@ -498,7 +498,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Latvia/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -562,15 +561,12 @@ Sub-region_Name ::  [[Northern Europe]]
 
 [	ISO3166-1-numeric	 :: 428 ]
 
-
-
 [ISO2::LV]
 [ISO3::LVA] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Latvia,211|WD~Latvia,211]] 
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Latvia

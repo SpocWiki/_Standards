@@ -69,6 +69,8 @@ aliases:
 
 # [[Law]] 
 
+#is_/same_as :: [[../WikiData/WD~Law,7748|WD~Law,7748]] 
+
 Law raises important and complex issues concerning equality, fairness, and justice.
 
 | Form of Law   | Definition Basis   | Population Coverage (2025) | Share of World Population | Main Regions of Use                   | Authority Strength |

@@ -83,7 +83,7 @@ topic_s_main_category: '[[_Standards/WikiData/WD~Q7158108,7158108]]'
 #has_/time_/stopped  :: 1946-04-18 
 #has_/next_/item :: [[../../../../../../_Standards/UN(United_Nations)|UN(United_Nations)]] 
 
-#is_/same_as :: [[../../../../../../_Standards/WikiData/WD~League_of_Nations,38130]]
+#is_/same_as :: [[../WikiData/WD~League_of_Nations,38130|WD~League_of_Nations,38130]]
 
 ## #has_/text_of_/abstract  
 
