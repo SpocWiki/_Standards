@@ -75,6 +75,11 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 temple_name: 聖祖
 ---
 
+# [[Laozi]] 
+
+#has_/created :: [[../../Metaphysic/Religion/Taoism|Taoism]] 
+#is_/same_as :: [[../../../WikiData/WD~Laozi,9333|WD~Laozi,9333]] 
+
 ## #has_/text_of_/abstract 
 
 > **Laozi**, also romanized as Lao Tzu among other ways, 

@@ -75,7 +75,7 @@ Commons_category: Hangul
 
 #is_/same_as :: [[../../WikiData/WD~Hangul,8222|WD~Hangul,8222]] 
 
-Hangul Script is used in [[../Lang~Family/LangFamily-Koreanic/Lang-kor|Korean]] Language, together with [[Script~Hani]] 
+Hangul Script is used in [[../Language_Family/LangFamily-Koreanic/Lang-kor|Korean]] Language, together with [[Script~Hani]] 
 
 7. **Korean:**
     - Hangul Script: ko-Hang

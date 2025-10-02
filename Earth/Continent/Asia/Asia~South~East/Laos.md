@@ -381,7 +381,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Laos/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: LAK ]
 [	ISO4217-currency_name	 :: Lao Kip ]
 [	ISO4217-currency_numeric	 :: 418 ]
@@ -445,14 +444,12 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 [	ISO3166-1-numeric	 :: 418 ]
 
-
-
 [ISO2::LA]
 [ISO3::LAO] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Laos,819|WD~Laos,819]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Laos
@@ -487,7 +484,10 @@ Capital :: [[Laos/Counties/Vientiane]]
 
 ## #has_/text_of_/abstract 
 
-> **Laos**, officially the Lao People's Democratic Republic (Lao PDR or LPDR), is the only landlocked country in Southeast Asia. It is bordered by Myanmar and China to the northwest, Vietnam to the east, Cambodia to the southeast, and Thailand to the west and southwest. Its capital and most populous city is Vientiane. The country is characterized by mountainous terrain, Buddhist temples including the UNESCO World Heritage site of Luang Prabang, and French colonial architecture.
+> **Laos**, officially the Lao People's Democratic Republic (Lao PDR or LPDR), 
+> is the only landlocked country in Southeast Asia. 
+> 
+> It is bordered by Myanmar and China to the northwest, Vietnam to the east, Cambodia to the southeast, and Thailand to the west and southwest. Its capital and most populous city is Vientiane. The country is characterized by mountainous terrain, Buddhist temples including the UNESCO World Heritage site of Luang Prabang, and French colonial architecture.
 >
 > The country traces its historic and cultural identity to Lan Xang, a kingdom which existed from the 13th to 18th centuries. Through its location, the kingdom is a hub for overland trade. In 1707, Lan Xang split into three kingdoms: Luang Prabang, Vientiane, and Champasak. In 1893, these kingdoms were unified under French protection as part of French Indochina. Laos was under Japanese administration during World War II, gaining independence in 1945 before returning to French administration until achieving autonomy in 1949. The country regained full independence in 1953 as the Kingdom of Laos, with a constitutional monarchy under Sisavang Vong. A civil war from 1959 to 1975 saw the communist Pathet Lao, supported by North Vietnam and the Soviet Union, oppose the Royal Lao Armed Forces, backed by the United States. The war ended with the establishment of the Lao People's Democratic Republic in 1975, a one-party socialist state aligned with the Soviet Union until its dissolution in 1991. Since then, Laos has transitioned toward market-oriented reforms, marking a new phase of development.
 >
