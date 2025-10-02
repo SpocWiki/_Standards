@@ -1,14 +1,37 @@
 ---
+has_id_wikidata: Q21742
+aliases:
+  - mint order
 title: Lamiales
+parent_taxon: "[[_Standards/WikiData/WD~lamiids,2182368]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "31632"
+OmegaWiki_Defined_Meaning: "358548"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lamium%20album4%20ies.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20070906-9094%20Sutera%20cordata.jpg
+taxon_common_name: 唇形目
+Commons_category: Lamiales
+taxon_name: Lamiales
+EPPO_Code: 1LAMO
+MeSH_tree_code: B01.875.800.575.912.250.583
+UMLS_CUI: C1080876
+NBN_System_Key: NHMSYS0021060389
 ---
 
 # [[Lamiales]] 
+
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Lamiales,21742|WD~Lamiales,21742]] 
 
 ![Castilleja_rubicundula](Lamiales/Castilleja_rubicundula.jpg)  ![Satureja_thymbra](Lamiales/Satureja_thymbra.jpg)  ![Globularia_punctata](Lamiales/Globularia_punctata.jpg) 
 
 ## #has_/text_of_/abstract 
 
-> The **Lamiales** (also known as the mint order) are an order of flowering plants in the asterids clade of the Eudicots. Under the APG IV system of flowering plant classification the order consists of 24 families, and includes about 23,810 species and 1,059 genera with representatives found all over the world. Well-known or economically important members of this order include aromatic, culinary, and medicinal herbs such as basil, mint, rosemary, sage, savory, marjoram, oregano, hyssop, thyme, lavender, perilla, lemon verbena, catnip, bee balm, wild dagga, and oriental motherwort, as well as olives, ash trees, teak, foxgloves, lilacs, jasmine, snapdragons, African violets, Jacarandas, Paulownias, butterfly bushes, sesame, and psyllium.
+> The **Lamiales** (also known as the mint order) 
+> are an order of flowering plants in the asterids clade of the Eudicots. 
+> 
+> Under the APG IV system of flowering plant classification the order consists of 24 families, and includes about 23,810 species and 1,059 genera with representatives found all over the world. Well-known or economically important members of this order include aromatic, culinary, and medicinal herbs such as basil, mint, rosemary, sage, savory, marjoram, oregano, hyssop, thyme, lavender, perilla, lemon verbena, catnip, bee balm, wild dagga, and oriental motherwort, as well as olives, ash trees, teak, foxgloves, lilacs, jasmine, snapdragons, African violets, Jacarandas, Paulownias, butterfly bushes, sesame, and psyllium.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lamiales) 
 
