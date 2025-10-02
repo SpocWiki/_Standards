@@ -1,10 +1,32 @@
 ---
 aliases:
-- Lagomorpha
-- Rabbit
-- hare
-- pika
+  - Lagomorpha
+  - Rabbit
+  - hare
+  - pika
+  - lagomorphs
+  - lagomorph
 title: Lagomorpha
+has_id_wikidata: Q25401
+parent_taxon: "[[_Standards/WikiData/WD~Glires,660432]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Master_Lampe,1918298]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Lagomorpha,106498011]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "180105"
+taxon_common_name:
+  - خرگوش
+  - харгӯш
+  - haredyr
+  - қоянтәрізділер
+Commons_category: Lagomorpha
+taxon_name: Lagomorpha
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lagomorpha%20range.png
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Ochotona%20princeps.jpg
+EPPO_Code: 1LAGOO
+MeSH_tree_code: B01.050.150.900.649.313.968
+Krugosvet_article_archived_: nauka_i_tehnika/biologiya/ZATSEOBRAZNIE.html
+NBN_System_Key: NBNSYS0000160265
 ---
 
 # [[Lagomorpha]]
@@ -12,9 +34,11 @@ title: Lagomorpha
 ## Rabbits, hares, and pikas 
 ![ ](Lagomorpha/snowshoe.jpg))
 
-## #has_/text_of_/abstract 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Lagomorpha,25401|WD~Lagomorpha,25401]] 
 
-> The lagomorphs () are the members of the taxonomic order **Lagomorpha**, of which there are two living families: the Leporidae (rabbits and hares) and the Ochotonidae (pikas). There are 110 recent species of lagomorph, of which 109 species in twelve genera are extant, including ten genera of rabbits (42 species); one genus of hare (33 species) and one genus of pika (34 species). The name of the order is derived from the Ancient Greek lagos (λαγώς, "hare") + morphē (μορφή, "form").
+## #has_/text_of_/abstract  
+
+> The lagomorphs are the members of the taxonomic order **Lagomorpha**, of which there are two living families: the Leporidae (rabbits and hares) and the Ochotonidae (pikas). There are 110 recent species of lagomorph, of which 109 species in twelve genera are extant, including ten genera of rabbits (42 species); one genus of hare (33 species) and one genus of pika (34 species). The name of the order is derived from the Ancient Greek lagos (λαγώς, "hare") + morphē (μορφή, "form").
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lagomorpha) 
 

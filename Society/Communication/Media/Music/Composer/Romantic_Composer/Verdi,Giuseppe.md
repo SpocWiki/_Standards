@@ -122,6 +122,7 @@ Europeana_entity: agent/base/146827
 > 
 > He was born near Busseto, a small town in the province of Parma, to a family of moderate means, 
 > receiving a musical education with the help of a local patron, Antonio Barezzi. 
+> 
 > Verdi came to dominate the Italian opera scene after the era of Gioachino Rossini, 
 > Vincenzo Bellini, and Gaetano Donizetti, whose works significantly influenced him.
 >

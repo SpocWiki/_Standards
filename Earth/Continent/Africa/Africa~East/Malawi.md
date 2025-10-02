@@ -320,12 +320,6 @@ Languages:
 
 # [[Malawi]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Malawi 
-
-[[Malawi/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: MWK ]
 [	ISO4217-currency_name	 :: Malawi Kwacha ]
 [	ISO4217-currency_numeric	 :: 454 ]
@@ -389,10 +383,18 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 454 ]
 
-
-
 [ISO2::MW]
 [ISO3::MWI]
+
+#is_/same_as :: [[../../../../WikiData/WD~Malawi,1020|WD~Malawi,1020]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Malawi 
+
+[[Malawi/ReadMe]] 
+
+## #has_/map  
+
 ```leaflet
 id: Malawi
 zoomFeatures: true 

@@ -2,6 +2,7 @@
 aliases:
 - "Lake Baikal"
 area: 31722
+location: [53.30277778, 108.00472222] 
 basin_country:
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
@@ -84,11 +85,34 @@ World_Heritage_criteria:
 
 #is_/same_as :: [[../../../../WikiData/WD~Lake_Baikal,5513|WD~Lake_Baikal,5513]] 
 
+<<<<<<< HEAD
+=======
+## #has_/map 
+
+```leaflet
+id: Lake_Baikal
+minZoom: 4 
+defaultZoom: 6 
+maxZoom: 18
+geojsonFolder: ./Lake_Baikal/
+markerFolder: ./Lake_Baikal/
+coordinates: [[Lake_Baikal]] 
+markerFile: [[Lake_Baikal]] 
+```
+
+
+>>>>>>> 370b8a0a1b16b553cb29269d6d2a9631a9eb36a1
 ## #has_/text_of_/abstract 
 
 > **Lake Baikal** is a rift lake and the deepest lake in the world. 
 > 
+<<<<<<< HEAD
 > It is situated in southern Siberia, Russia between the federal subjects of Irkutsk Oblast to the northwest and the Republic of Buryatia to the southeast.
+=======
+> It is situated in southern Siberia, Russia between 
+> - the federal subjects of Irkutsk Oblast to the northwest and 
+> - the Republic of Buryatia to the southeast.
+>>>>>>> 370b8a0a1b16b553cb29269d6d2a9631a9eb36a1
 >
 > At 31,722 km2 (12,248 sq mi)—slightly larger than Belgium—Lake Baikal is the world's seventh-largest lake by surface area, as well as the second largest lake in Eurasia after the Caspian Sea. However, because it is also the deepest lake, with a maximum depth of 1,642 metres (5,387 feet; 898 fathoms), Lake Baikal is the world's largest freshwater lake by volume, containing 23,615.39 km3 (5,670 cu mi) of water or 22–23% of the world's fresh surface water, more than all of the North American Great Lakes combined. It is also the world's oldest lake at 25–30 million years, and among the clearest.
 >
