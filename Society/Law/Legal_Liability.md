@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Haftbarkeit
 has_id_wikidata: Q1404417
 subclass_of:
   - "[[_Standards/WikiData/WD~responsibility,1274115]]"
