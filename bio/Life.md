@@ -75,6 +75,9 @@ UMLS_CUI: C0376558
 
 # [[Life]] 
 
+Material structure, capable of extracting energy from the environment for replication, 
+reducing Entropy locally. 
+
 Life has a Chicken-and-Egg Problem: 
 - Protein-Synthesis is encoded in DNA 
 - [[DNA_Replication]] requires  encodes the Proteins, especially necessary Enzymes 
@@ -82,6 +85,8 @@ Life has a Chicken-and-Egg Problem:
 [[LUCA(Last_Universal_Common_Ancestor)]] has hundreds of chemical Reaction chains. 
 Current investigations check whether these Enzymes can appear or be substituted naturally 
 under high temperatures and pressures together with mineralic Sources like [[Hydrothermal_Vent]]s. 
+
+#is_/same_as :: [[../WikiData/WD~Life,3|WD~Life,3]] 
 
 ## #has_/text_of_/abstract 
 
