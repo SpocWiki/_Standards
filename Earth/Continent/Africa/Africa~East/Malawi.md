@@ -410,7 +410,7 @@ markerFolder: ./Malawi//
 [Area-Land::94080]
 has_place_continent:: [[Africa]]  
 [VehicleCode::MW]
-Capital :: [[Lilongwe]]  
+Capital :: [[Malawi/Districts~Malawi/Lilongwe]]  
 
 ![[Coat_of_arms_of_Malawi.svg|550]]
 
