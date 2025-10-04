@@ -177,15 +177,27 @@ name_in_native_language: Linus Carl Pauling
 > For his scientific work, Pauling was awarded the [[../../Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Chemistry_Nobel_Prize|Nobel Prize in Chemistry]] in 1954. 
 > For his peace activism, he was awarded the [[../../Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Peace_Nobel_Prize|Nobel Peace Prize]] in 1962. 
 > He is one of five people to have won more than one [[../../Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize|Nobel Prize]]. 
-> Of these, he is the only person to have been awarded two unshared Nobel Prizes, 
-> and one of two people to be awarded Nobel Prizes in different fields, 
+> Of these, he is the only person to have been awarded **two unshared Nobel Prizes**, 
+> and one of two people to be awarded Nobel Prizes **in different fields**, 
 > the other being [[../../Science/Scientist/Modern_Scientists/Curie,Marie|Marie Skłodowska-Curie]].
 >
 > Pauling was one of the founders of the fields of quantum chemistry and molecular biology. 
 > His contributions to the theory of the chemical bond include the concept of orbital hybridisation 
-> and the first accurate scale of electronegativities of the elements. Pauling also worked on the structures of biological molecules, and showed the importance of the alpha helix and beta sheet in protein secondary structure. Pauling's approach combined methods and results from X-ray crystallography, molecular model building, and quantum chemistry. His discoveries inspired the work of [[Franklin,Rosalind|Rosalind Franklin]], [[../../bio/Biologist/Watson,James|James Watson]], [[../../bio/Biologist/Crick,Francis|Francis Crick]], and [[../../bio/Biologist/Wilkins,Maurice|Maurice Wilkins]] on the structure of DNA, which in turn made it possible for geneticists to crack the DNA code of all organisms.
+> and the first accurate scale of electronegativities of the elements. 
+> 
+> Pauling also worked on the structures of biological molecules, 
+> and showed the importance of the alpha helix and beta sheet in protein secondary structure. 
+> Pauling's approach combined methods and results from X-ray crystallography, 
+> molecular model building, and quantum chemistry. 
+> His discoveries inspired the work of [[Franklin,Rosalind|Rosalind Franklin]], [[../../bio/Biologist/Watson,James|James Watson]], [[../../bio/Biologist/Crick,Francis|Francis Crick]], 
+> and [[../../bio/Biologist/Wilkins,Maurice|Maurice Wilkins]] on the structure of DNA, 
+> which in turn made it possible for geneticists to crack the DNA code of all organisms.
 >
-> In his later years, he promoted nuclear disarmament, as well as orthomolecular medicine, megavitamin therapy, and dietary supplements, especially ascorbic acid (commonly known as Vitamin C). None of his ideas concerning the medical usefulness of large doses of vitamins have gained much acceptance in the mainstream scientific community. He was married to the American human rights activist Ava Helen Pauling.
+> In his later years, he promoted nuclear disarmament, as well as orthomolecular medicine, 
+> megavitamin therapy, and dietary supplements, especially ascorbic acid (Vitamin C). 
+> None of his ideas concerning the medical usefulness of large doses of vitamins 
+> have gained much acceptance in the mainstream scientific community. 
+> He was married to the American human rights activist Ava Helen Pauling.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Linus%20Pauling) 
 
