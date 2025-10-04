@@ -67,11 +67,9 @@ Krugosvet_article: muzyka/led-zeppelin
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Led%20zeppelin%20revista%20pelo%201971.jpg
 ---
 
-
 # [[Led_Zeppelin]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Led_Zeppelin,2331|WD~Led_Zeppelin,2331]]
-
 
 ## #has_/text_of_/abstract 
 

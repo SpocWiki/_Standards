@@ -40,12 +40,13 @@ Unicode_character: 鐒
 UNII: QRT37X99RQ
 ---
 
+# [[Lawrencium]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Lawrencium,1905]] 
 
 [GroupName::Group-03-Scandium]
 [Group:[[../Group-03-Scandium]]
-
 
 [Name-en::Lawrencium]
 [Name-de::Lawrencium]
@@ -65,9 +66,10 @@ UNII: QRT37X99RQ
 [FormEnergy-kj-mol::0]
 (PeriodNo::7)
 (GroupNo::37)
-[]
+
 (Charge-e::103)
 
+#is_/same_as :: [[../../../WikiData/WD~Lawrencium,1905|WD~Lawrencium,1905]] 
 
 ## #has_/text_of_/abstract 
 

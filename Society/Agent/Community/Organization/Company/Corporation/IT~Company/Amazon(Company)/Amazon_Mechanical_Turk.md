@@ -1,50 +1,14 @@
 ---
 aliases:
   - MTurk
-dv_is_/similar_to:
-  path: _Standards/Society/Agent/Organization/Corporation/IT~Company/Amazon(Company)/Mechanical_Turk.md
-  embed: false
-  type: file
-dv_is_/used_by:
-  path: _Standards/Society/Agent/Organization/Corporation/IT~Company/Amazon(Company)/ImageNet.md
-  embed: false
-  type: file
-dv_has_/traits_of:
-  path: _Standards/Society/Agent/Organization/Corporation/IT~Company/Amazon(Company)/Dehumanization.md
-  embed: false
-  type: file
-dv_is_/same_as:
-  - "[Amazon_Mechanical_Turk](Amazon_Mechanical_Turk.md)"
-  - "[Amazon_Mechanical_Turk.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.public.md)"
-  - "[Amazon_Mechanical_Turk.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.internal.md)"
-  - "[Amazon_Mechanical_Turk.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.protect.md)"
-  - "[Amazon_Mechanical_Turk.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.private.md)"
-  - "[Amazon_Mechanical_Turk.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.personal.md)"
-  - "[Amazon_Mechanical_Turk.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.secret.md)"
-dv_is_similar_to:
-  path: _Standards/Society/Agent/Organization/Corporation/IT~Company/Amazon(Company)/Mechanical_Turk.md
-  embed: false
-  type: file
-dv_is_used_by:
-  path: _Standards/Society/Agent/Organization/Corporation/IT~Company/Amazon(Company)/ImageNet.md
-  embed: false
-  type: file
-dv_has_traits_of:
-  path: _Standards/Society/Agent/Organization/Corporation/IT~Company/Amazon(Company)/Dehumanization.md
-  embed: false
-  type: file
-dv_is_same_as:
-  - "[Amazon_Mechanical_Turk](Amazon_Mechanical_Turk.md)"
-  - "[Amazon_Mechanical_Turk.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.public.md)"
-  - "[Amazon_Mechanical_Turk.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.internal.md)"
-  - "[Amazon_Mechanical_Turk.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.protect.md)"
-  - "[Amazon_Mechanical_Turk.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.private.md)"
-  - "[Amazon_Mechanical_Turk.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.personal.md)"
-  - "[Amazon_Mechanical_Turk.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.secret.md)"
 ---
+# [[Amazon_Mechanical_Turk]] 
 
-#is_/similar_to :: [[../../../../../../../../bio/Psychology/Emotion/Humor/Joke/Practical_Joke/Hoax/Mechanical_Turk]] 
+#is_/similar_to :: [[../../../../../../../../bio/Psychology/Emotion/Humor/Joke/Practical_Joke/Hoax/Mechanical_Turk|Mechanical_Turk]] 
+#is_/similar_to :: [[Fiverr]] 
+#is_/similar_to :: [[Upwork]] 
 
+## #has_/text_of_/abstract  
 
 > Amazon Mechanical Turk (MTurk) is a crowdsourcing website with which businesses can hire remotely located "crowdworkers" to perform discrete on-demand tasks that computers are currently unable to do as economically. 
 > 
