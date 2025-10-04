@@ -38,7 +38,17 @@ NBN_System_Key: NBNSYS0000160265
 
 ## #has_/text_of_/abstract  
 
-> The lagomorphs are the members of the taxonomic order **Lagomorpha**, of which there are two living families: the Leporidae (rabbits and hares) and the Ochotonidae (pikas). There are 110 recent species of lagomorph, of which 109 species in twelve genera are extant, including ten genera of rabbits (42 species); one genus of hare (33 species) and one genus of pika (34 species). The name of the order is derived from the Ancient Greek lagos (λαγώς, "hare") + morphē (μορφή, "form").
+> The lagomorphs are the members of the taxonomic order **Lagomorpha**, 
+> of which there are two living families: 
+> - the Leporidae (rabbits and hares) and 
+> - the Ochotonidae (pikas). 
+> 
+> There are 110 recent species of lagomorph, 
+> of which 109 species in twelve genera are extant, including 
+> - ten genera of rabbits (42 species); 
+> - one genus of hare (33 species) and 
+> - one genus of pika (34 species). 
+> The name of the order is derived from the Ancient Greek lagos (λαγώς, "hare") + morphē (μορφή, "form").
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lagomorpha) 
 

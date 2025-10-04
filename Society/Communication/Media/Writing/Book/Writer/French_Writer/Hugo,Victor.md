@@ -200,6 +200,10 @@ work_period_start_: 1819
 writing_language: '[[_Standards/WikiData/WD~French,150]]'
 ---
 
+# [[Hugo,Victor]] 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Victor_Hugo,535|WD~Victor_Hugo,535]] 
+
 ## #has_/text_of_/abstract 
 
 > Victor-Marie Hugo, vicomte Hugo (French: [viktɔʁ maʁi yɡo] ; 26 February 1802 – 22 May 1885) 
