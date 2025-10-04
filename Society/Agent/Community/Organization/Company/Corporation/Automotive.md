@@ -60,30 +60,6 @@ name:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Final%20assembly%202.jpg
 U_S_National_Archives_Identifier: "10641705"
 P8189: "987007556280005171"
-dv_is_/same_as:
-  - path: _Standards/WikiData/WD~Automotive_industry,190117.md
-    display: WD~Automotive_industry,190117
-    embed: false
-    type: file
-  - "[Automotive](Automotive.md)"
-  - "[Automotive.public](/_public/Society/Economics/Business/Business-Entity/Automotive.public.md)"
-  - "[Automotive.internal](/_internal/Society/Economics/Business/Business-Entity/Automotive.internal.md)"
-  - "[Automotive.protect](/_protect/Society/Economics/Business/Business-Entity/Automotive.protect.md)"
-  - "[Automotive.private](/_private/Society/Economics/Business/Business-Entity/Automotive.private.md)"
-  - "[Automotive.personal](/_personal/Society/Economics/Business/Business-Entity/Automotive.personal.md)"
-  - "[Automotive.secret](/_secret/Society/Economics/Business/Business-Entity/Automotive.secret.md)"
-dv_is_same_as:
-  - path: _Standards/WikiData/WD~Automotive_industry,190117.md
-    display: WD~Automotive_industry,190117
-    embed: false
-    type: file
-  - "[Automotive](Automotive.md)"
-  - "[Automotive.public](/_public/Society/Economics/Business/Business-Entity/Automotive.public.md)"
-  - "[Automotive.internal](/_internal/Society/Economics/Business/Business-Entity/Automotive.internal.md)"
-  - "[Automotive.protect](/_protect/Society/Economics/Business/Business-Entity/Automotive.protect.md)"
-  - "[Automotive.private](/_private/Society/Economics/Business/Business-Entity/Automotive.private.md)"
-  - "[Automotive.personal](/_personal/Society/Economics/Business/Business-Entity/Automotive.personal.md)"
-  - "[Automotive.secret](/_secret/Society/Economics/Business/Business-Entity/Automotive.secret.md)"
 ---
 
 # [[Automotive]] 
