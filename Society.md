@@ -51,10 +51,28 @@ Pre-historic human Societies were hunters and gatherers,
 usually living in Clans or larger Families. 
 Smaller Structures like the Core Family were not robust enough to survive. 
 
-Sociology distinguishes these 3 sectors of society: 
+[[Society/Anthropology/Sociology|Sociology]] distinguishes these 3 sectors of society: 
 - [[Society/Civil_Society|Civil_Society]]  
--  [[Society/Politics/Government|Government]] and 
+- [[Society/Politics/Government|Government]] and 
 - [[Society/Agent/Community/Organization/Business|Business]] 
+
+This Folder also covers all types of social Sciences: 
+- [[./Society/Anthropology/Sociology|Sociology]], 
+- [[./Society/Anthropology|Anthropology]], 
+- [[./Society/Anthropology/Sociology/Political_Science|Political_Science]] , 
+- [[./Society/Economics|Economics]], 
+- human geography is covered in [[./Earth]] ,  
+- [[./bio/Psychology|Psychology]] is handled in , 
+- [[./Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History|History]] is handled [[./Time-Ages]] .
+
+| Dimension                              | Social Science                                               | Sociology                                                    |
+| -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Definition**                         | Broad field studying society and human behavior              | Sub-discipline focusing on social relations and institutions |
+| **Disciplines Included**               | 7–10 main fields (economics, anthropology, psychology, etc.) | 1 field within social sciences                               |
+| **Scope**                              | Macro: society, economy, politics, history                   | Micro–macro: groups, classes, institutions                   |
+| **Methods**                            | Quantitative + qualitative (varies by field)                 | Mixed, often qualitative-heavy                               |
+| **Applications**                       | Policy, economics, governance, education, health             | Social justice, inequality, culture, identity                |
+| **Global Publications (2023, Scopus)** | ≈ 2.8 million papers/year                                    | ≈ 180,000 papers/year                                        |
 
 ## #has_/text_of_/abstract 
 

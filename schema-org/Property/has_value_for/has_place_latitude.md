@@ -29,6 +29,8 @@ title: has_latitude
 type: Predi_Quantity
 ---
 
+# [[has_place_latitude]] 
+
 The latitude of a location on the WGS84 Geoid in Degrees with decimal Fractions. 
 For example <code>37.42242</code> (<a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84</a>).
 
@@ -47,6 +49,7 @@ Predicate describes that:
 ( #has_/name :: has_place_latitude )
 ( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 
+#is_/similar_to :: [[../../../WikiData/WD~Latitude,34027|WD~Latitude,34027]] 
 
 ## Confidential Links & Embeds: 
 

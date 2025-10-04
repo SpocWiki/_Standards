@@ -47,4 +47,4 @@ Library_of_Congress_Classification: HM1251
 > [Wikipedia](https://en.wikipedia.org/wiki/Authority)
 
 Authority was derived from the [[Social_Contract]] in which each Participant gives up some of their Sovereignty in exchange for Stability. 
-[[UK_Politics/Hobbes,Thomas]] and [[../../../../../_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques]] 
+[[../../../Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas]] and [[../../../../../_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques]] 

@@ -357,12 +357,6 @@ Wolfram_Language_entity_code: "Entity[\"Country\", \"Lebanon\"]"
 
 # [[Lebanon]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Lebanon 
-
-[[Lebanon/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: LBP ]
 [	ISO4217-currency_name	 :: Lebanese Pound ]
 [	ISO4217-currency_numeric	 :: 422 ]
@@ -433,8 +427,13 @@ Sub-region_Name ::  [[Western Asia]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Lebanon,822|WD~Lebanon,822]] 
 
-## #has_/map  
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Lebanon 
 
+[[Lebanon/ReadMe]] 
+
+
+## #has_/map  
 
 ```leaflet
 id: Lebanon
@@ -443,6 +442,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Lebanon//
 markerFolder: ./Lebanon/
+coordinates: [[Lebanon]] 
+markerFile: [[Lebanon]] 
 ```
 
 [name-en::Lebanon]

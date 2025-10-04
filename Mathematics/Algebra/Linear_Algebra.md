@@ -38,14 +38,15 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"LinearAlgebra::f2mkf\"]"
 
 # [[Linear_Algebra]] 
 
+#is_/same_as :: [[../../WikiData/WD~Linear_algebra,82571|WD~Linear_algebra,82571]] 
+
 ## #has_/text_of_/abstract 
 
 > **Linear algebra** is the branch of mathematics concerning linear equations such as: 
->     {\displaystyle a_{1}x_{1}+\cdots +a_{n}x_{n}=b,}
+>     $a_{1}x_{1}+\cdots +a_{n}x_{n}=b$,
 >
 > linear maps such as:
->
->     {\displaystyle (x_{1},\ldots ,x_{n})\mapsto a_{1}x_{1}+\cdots +a_{n}x_{n},}
+>     $(x_{1},\ldots ,x_{n})\mapsto a_{1}x_{1}+\cdots +a_{n}x_{n}$,
 >
 > and their representations in vector spaces and through matrices.
 >

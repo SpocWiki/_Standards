@@ -30,7 +30,7 @@ subclass_of: '[[_Standards/WikiData/WD~-ism,158646]]'
 
 # [[Individualism]] 
 
-#has_/creator :: [[../../../../_protect/Society/Sociology/Politics/UK_Politics/Hobbes,Thomas|Hobbes,Thomas]] 
+#has_/creator :: [[../../../Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas|Hobbes,Thomas]] 
 #has_/creator :: [[../../../../Philosophy/Philosopher/Early_modern_Philosopher/Locke,John|Locke,John]]  
 #has_/creator :: [[../../../../Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques|Rousseau,Jean-Jacques]]  
 

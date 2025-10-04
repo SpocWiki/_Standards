@@ -91,13 +91,11 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Lead\"]"
 ZVG_number: 8510
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Lead,708]] 
-
+# [[Lead]] 
 
 #chemic/Element 
 [GroupName::Group-14-Carbon]
 [Group:[[../Group-14-Carbon]]
-
 
 [Name-en::Lead]
 [Name-de::Blei]
@@ -116,6 +114,8 @@ ZVG_number: 8510
 [FormEnergy-kj-mol::177.7]
 (PeriodNo::6)
 (GroupNo::14)
+
+#is_/same_as :: [[../../../WikiData/WD~Lead,708|WD~Lead,708]] 
 
 ## #has_/text_of_/abstract 
 

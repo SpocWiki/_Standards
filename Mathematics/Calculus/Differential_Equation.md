@@ -51,6 +51,10 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Differential%20equation)
 
+## Well-known Differential Equations: 
+
+Logistic 
+
 
 ## Confidential Links & Embeds: 
 
