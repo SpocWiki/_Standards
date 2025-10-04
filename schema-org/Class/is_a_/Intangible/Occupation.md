@@ -1,6 +1,6 @@
 ---
 aliases:
-  - occupation
+  - Beschäftigung
   - occupation
   - Occupation
   - is_an_occupation
@@ -24,6 +24,8 @@ tags:
 title: is_an_occupation Class
 type: Type
 ---
+
+# [[Occupation]] 
 
 Class of all occupations.
 

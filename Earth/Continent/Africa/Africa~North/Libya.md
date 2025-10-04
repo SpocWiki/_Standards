@@ -373,14 +373,6 @@ WIPO_ST_3: LY
 # [[Libya]] 
 
 
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Libya 
-
-[[Libya/ReadMe]] 
-
-
-
 [	ISO4217-currency_alphabetic	 :: LYD ]
 [	ISO4217-currency_name	 :: Libyan Dinar ]
 [	ISO4217-currency_numeric	 :: 434 ]
@@ -444,10 +436,18 @@ Sub-region_Name ::  [[Northern Africa]]
 
 [	ISO3166-1-numeric	 :: 434 ]
 
-
-
 [ISO2::LY]
 [ISO3::LBY]
+
+#is_/same_as :: [[../../../../WikiData/WD~Libya,1016|WD~Libya,1016]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Libya 
+
+[[Libya/ReadMe]] 
+
+## #has_/map 
+
 ```leaflet
 id: Libya
 zoomFeatures: true 
