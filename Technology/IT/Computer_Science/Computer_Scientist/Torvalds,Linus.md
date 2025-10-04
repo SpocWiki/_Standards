@@ -100,7 +100,7 @@ Mastodon_address: torvalds@social.kernel.org
 birth_name: Linus Benedict Torvalds
 ---
 
-# [[Linus_Torvalds]] 
+# [[Torvalds,Linus]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Linus_Torvalds,34253|WD~Linus_Torvalds,34253]]  
 
