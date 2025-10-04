@@ -114,10 +114,13 @@ For more Details, check out this Repository into this Subfolder:
 [[Antarctica/ReadMe]] 
 
 There is also an (inofficial) [Country~Antarctica](Antarctica/Country~Antarctica) 
+
+## #has_/map 
+
 ```leaflet
 id: Antarctica
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Antarctica/
 markerFolder: ./Antarctica/

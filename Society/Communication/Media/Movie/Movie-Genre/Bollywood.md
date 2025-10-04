@@ -11,14 +11,14 @@ has_id_wikidata: Q93196
 
 | Industry Name   | Language  | films/year | Primary City   | Notable Feature                   |
 | --------------- | --------- | ---------: | -------------- | --------------------------------- |
-| Tollywood       | [[../../../../../Language/Lang~Family/LangFamily-Dravidian/Lang-tel\|Telugu]]    |        250 | Hyderabad      | Large-scale productions (_RRR_)   |
-| Kollywood       | [[../../../../../Language/Lang~Family/LangFamily-Dravidian/Lang-tam\|Tamil]]     |    200–220 | Chennai        | Political narratives, innovation  |
+| Tollywood       | [[../../../../../Language/Language_Family/LangFamily-Dravidian/Lang-tel\|Telugu]]    |        250 | Hyderabad      | Large-scale productions (_RRR_)   |
+| Kollywood       | [[../../../../../Language/Language_Family/LangFamily-Dravidian/Lang-tam\|Tamil]]     |    200–220 | Chennai        | Political narratives, innovation  |
 | [[../../../../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood\|Sandalwood]]      | Kannada   |    120–150 | Bengaluru      | Pan-India hits (_KGF_)            |
 | Mollywood       | Malayalam |    120–140 | Kochi          | Realism, literary depth           |
-| Bengali Cinema  | [[../../../../../Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben\|Bengali]]   |    100–120 | Kolkata        | Art cinema legacy                 |
+| Bengali Cinema  | [[../../../../../Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben\|Bengali]]   |    100–120 | Kolkata        | Art cinema legacy                 |
 | Bhojpuri Cinema | Bhojpuri  |    100–150 | Varanasi/Patna | Rural and mythological focus      |
-| Marathi Cinema  | [[../../../../../Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mar\|Marathi]]   |     90–120 | Mumbai/Pune    | Deep theatrical tradition         |
-| Punjabi Cinema  | [[../../../../../Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pan\|Punjabi]]   |      60–90 | Chandigarh     | Diaspora and music-centered films |
+| Marathi Cinema  | [[../../../../../Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mar\|Marathi]]   |     90–120 | Mumbai/Pune    | Deep theatrical tradition         |
+| Punjabi Cinema  | [[../../../../../Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pan\|Punjabi]]   |      60–90 | Chandigarh     | Diaspora and music-centered films |
 | Assamese Cinema | Assamese  |      20–30 | Guwahati       | Regional realism                  |
 | Manipuri Cinema | Meitei    |      10–20 | Imphal         | Indigenous and political themes   |
 

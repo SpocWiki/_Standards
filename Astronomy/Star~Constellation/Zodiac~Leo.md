@@ -72,6 +72,20 @@ Baidu_Tieba_name: 狮子座
 
 #is_/same_as :: [[../../WikiData/WD~Leo,8853|WD~Leo,8853]] 
 
+## #has_/text_of_/abstract 
+
+> Leo  is one of the constellations of the zodiac, between Cancer the crab to the west 
+> and Virgo the maiden to the east. 
+> 
+> It is located in the Northern celestial hemisphere. 
+> Its name is Latin for lion, and to the ancient Greeks represented the Nemean Lion 
+> killed by the mythical Greek hero Heracles as one of his twelve labors. 
+> 
+> Its old astronomical symbol is  (♌︎). One of the 48 constellations described by the 2nd-century astronomer Ptolemy, Leo remains one of the 88 modern constellations today, and one of the most easily recognizable due to its many bright stars and a distinctive shape that is reminiscent of the crouching lion it depicts.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Leo%20(constellation)) 
+
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Leo](/_Standards/Astronomy/Star~Constellation/Zodiac~Leo.md) 

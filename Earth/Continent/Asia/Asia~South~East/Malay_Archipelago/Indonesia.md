@@ -1334,9 +1334,12 @@ Utara → North
 id: Indonesia
 zoomFeatures: true 
 minZoom: 4 
+defaultZoom: 6 
 maxZoom: 18
 geojsonFolder: ./Indonesia//
 markerFolder: ./Indonesia/
+coordinates: [[Indonesia]] 
+markerFile: [[Indonesia]] 
 ```
 
 [name-en::Indonesia]

@@ -16,6 +16,8 @@ instance_of:
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Late_antiquity,10968580]]'
 ---
 
+# [[Late_Antiquity]] 
+
 #has_/time_/started :: 0250-06 
 #has_/time_/stopped :: 0750-06 
 
@@ -25,6 +27,7 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Late_antiquity,1
 #has_/previous_item :: [[Classical_Antiquity]]  
 #has_/next_/item :: [[Middle_Ages/0750-Early_Middle-Ages]]
 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Late_antiquity,217050|WD~Late_antiquity,217050]] 
 
 ## #has_/text_of_/abstract 
 

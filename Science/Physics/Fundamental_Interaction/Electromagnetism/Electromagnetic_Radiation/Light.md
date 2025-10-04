@@ -48,6 +48,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification
 
 # [[Light]] 
 
+#is_/same_as :: [[../../../../../WikiData/WD~Light,9128|WD~Light,9128]] 
 
 ## #has_/text_of_/abstract 
 

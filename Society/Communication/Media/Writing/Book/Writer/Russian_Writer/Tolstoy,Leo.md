@@ -1,6 +1,7 @@
 ---
 aliases:
 - "Leo Tolstoy"
+- Leo_Tolstoy
 - "Count Lev Nikolayevich Tolstoy"
 ArhivX_LOD: 16435
 artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
@@ -220,6 +221,8 @@ has_time_stopped: 1910-11-20
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started`
 
 #has_/created_/quote :: All greate Literature is one of two stories: 1) a man goes on a journey or 2) a stranger comes to town. 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Leo_Tolstoy,7243|WD~Leo_Tolstoy,7243]] 
 
 Tolstoy liked the Novels of [[Modern_Writer/Verne,Jules]]. 
 

@@ -4,7 +4,8 @@ aliases:
   - language
   - Language
   - is_a_language
-  - "{ newTitle: }":
+  - Languages
+has_id_wikidata: Q315
 confidential: private
 cssclasses:
   - Type
@@ -18,17 +19,13 @@ keywords:
   - language
 layout:
 license: (c)copyrighted
-linkTitle:
-  "{ newTitle: }":
 publish: false
 publishDate:
 tags:
   - class/Class
   - schema-org/Class
-  - "{ newTitle: }":
   - excalidraw
 title:
-  "{ newTitle: }":
 type: private_note
 Archive_of_Our_Own_tag: Language
 Commons_category: Language
@@ -61,7 +58,6 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~language_variety,3329375]]"
   - "[[_Standards/WikiData/WD~type_of_language,20829075]]"
   - "[[_Standards/WikiData/WD~grammar,8091]]"
-has_id_wikidata: Q315
 has_part_s_:
   - "[[_Standards/WikiData/WD~text,234460]]"
   - "[[_Standards/WikiData/WD~language,4113741]]"
@@ -132,6 +128,8 @@ which are now best represented using [[ComputerLanguage]].
 [ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
+
+#is_/same_as :: [[WikiData/WD~Language,315|WD~Language,315]] 
 
 ## Examples
 
