@@ -77,13 +77,13 @@ IRC_channel_URL: irc://irc.freenode.net/linux
 
 # [[OS~Linux]] 
 
-#has_/creator :: [[Linus_Thorvalds]]  
+#has_/parts_ :: [[OS~Linux/Linux_Kernel]] 
 #is_/same_as :: [[../../../../WikiData/WD~Linux,388|WD~Linux,388]] 
 
 ## #has_/text_of_/abstract 
 
 > **linux** ( LIN-uuks) is a family of open-source [[OS~Unix]]-like operating systems 
-> based on the Linux kernel, an operating system kernel first released on 1991-09-17, 
+> based on the [[OS~Linux/Linux_Kernel]], an operating system kernel first released on 1991-09-17, 
 > by Linus Torvalds. 
 > 
 > Linux is typically packaged as a Linux distribution (distro), 
