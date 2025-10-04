@@ -565,7 +565,6 @@ population: 58850717
 
 ## International Names
 
-
 [	name	 :: Italy ]
 [	name-en	 :: Italy ]
 [	name-es	 :: Italia ]

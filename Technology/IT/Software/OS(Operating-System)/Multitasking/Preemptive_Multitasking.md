@@ -14,7 +14,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Preemptive_Multitasking](/_Standards/Technology/IT/Software/Operating_System/Preemptive_Multitasking.md) 
+### #is_/same_as :: [Preemptive_Multitasking](Preemptive_Multitasking.md) 
 
 ### #is_/same_as :: [Preemptive_Multitasking.public](/_public/Technology/IT/Software/Operating_System/Preemptive_Multitasking.public.md) 
 
