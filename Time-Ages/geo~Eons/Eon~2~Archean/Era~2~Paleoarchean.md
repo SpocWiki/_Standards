@@ -1,3 +1,16 @@
+---
+has_id_wikidata: Q738167
+instance_of:
+  - "[[_Standards/WikiData/WD~era,630830]]"
+  - "[[_Standards/WikiData/WD~erathem,2464485]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -3200000000-01-01T00:00:00Z
+start_time: -3600000000-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Vaalbara%20Continent.jpg
+Commons_gallery: Paleoarchean
+Commons_category: Paleoarchean
+sRGB_color_hex_triplet: F4449F
+---
 # [[Era~2~Paleoarchean]] 
 
 #is_a_/time_/Era 

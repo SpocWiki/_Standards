@@ -1,31 +1,40 @@
 ---
-applies_to_jurisdiction: '[[_Standards/WikiData/WD~Germany,183]]'
-has_id_wikidata: Q336530
-has_time_started: 1894-06-04
-instance_of: '[[_Standards/WikiData/WD~Federal_Act_(Germany),1006079]]'
-short_name:
-- Abzahlungsgesetz
-- AbzG
-start_time: 1894-06-04
-title: "Gesetz betreffend die Abzahlungsgeschäfte"
+has_id_wikidata: Q210611
+instance_of:
+  - "[[_Standards/WikiData/WD~era,630830]]"
+  - "[[_Standards/WikiData/WD~erathem,2464485]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -1000000000-01-01T00:00:00Z
+start_time: -1600000000-01-01T00:00:00Z
+sRGB_color_hex_triplet: FDB462
+Commons_category: Mesoproterozoic
 ---
 
 # [[Era~2~Mesoproterozoic]] 
 
 #is_a_/time_/Era 
 
-A time period from 1600 to 1000 million years ago. 
-
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Era~1~Paleoproterozoic]] 
 #has_/next_/item :: [[Era~3~Neoproterozoic]] 
 
+A time period from 1600 to 1000 million years ago. 
+This was a time of stagnancy with Methane Atmosphere and a stratified Ocean. 
+Earths Core was still so hot that the continent was boiled together from all sides. 
+Currently the subduction zones are melted only half, which creates a draft that pulls at the Continents. 
+Little biological diversion happened. 
+
 ## #has_/text_of_/abstract 
 
-> The **Mesoproterozoic** Era is a geologic era that occurred from 1,600 to 1,000 million years ago. The Mesoproterozoic was the first era of Earth's history for which a fairly definitive geological record survives. Continents existed during the preceding era (the Paleoproterozoic), but little is known about them. 
+> The **Mesoproterozoic** Era is a geologic era that occurred from 1,600 to 1,000 million years ago. 
+> The Mesoproterozoic was the first era of Earth's history 
+> for which a fairly definitive geological record survives. 
+> Continents existed during the preceding era (the Paleoproterozoic), but little is known about them. 
 > 
-> The continental masses of the Mesoproterozoic were more or less the same ones that exist today, although their arrangement on the Earth's surface was different.
+> The continental masses of the Mesoproterozoic were more or less the same ones that exist today, 
+> although their arrangement on the Earth's surface was different.
+> Only this conservation gives us a record. 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mesoproterozoic)
 
