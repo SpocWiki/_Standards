@@ -20,8 +20,8 @@ Commons_category: Mesoproterozoic
 #has_/next_/item :: [[Era~3~Neoproterozoic]] 
 
 A time period from 1600 to 1000 million years ago. 
-This was a time of stagnancy with Methane Atmosphere and a stratified Ocean 
-
+This was a time of stagnancy with Methane Atmosphere and a stratified Ocean. 
+Little biological diversion happened. 
 
 ## #has_/text_of_/abstract 
 
