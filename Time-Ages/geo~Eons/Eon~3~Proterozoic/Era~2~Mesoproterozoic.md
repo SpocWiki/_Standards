@@ -21,6 +21,8 @@ Commons_category: Mesoproterozoic
 
 A time period from 1600 to 1000 million years ago. 
 This was a time of stagnancy with Methane Atmosphere and a stratified Ocean. 
+Earths Core was still so hot that the continent was boiled together from all sides. 
+Currently the subduction zones are melted only half, which creates a draft that pulls at the Continents. 
 Little biological diversion happened. 
 
 ## #has_/text_of_/abstract 
