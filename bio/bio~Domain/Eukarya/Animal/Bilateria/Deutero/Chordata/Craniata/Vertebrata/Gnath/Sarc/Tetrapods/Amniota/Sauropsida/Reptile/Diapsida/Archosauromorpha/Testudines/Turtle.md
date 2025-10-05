@@ -3,7 +3,6 @@ title: Testudines
 aliases:
   - Turtle
   - Schildkröte
-  - Testudines
 has_id_wikidata: Q223044
 Commons_category: Testudines
 taxon_name: Testudines
@@ -40,7 +39,7 @@ instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
 OmegaWiki_Defined_Meaning: "1200609"
 ITIS_TSN: "948936"
-hashtag: turtle
+hashtag_: turtle
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hawaii%20turtle%202.JPG
 Commons_gallery: Turtle
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Turtle-ar.wav
@@ -49,9 +48,10 @@ UNII: 1PQ73201F8
 EPPO_Code: 1TESTO
 MeSH_tree_code: B01.050.150.900.833.848
 UMLS_CUI: C3164084
-Krugosvet_article_archived_: nauka_i_tehnika/biologiya/CHEREPAHI.html
+Krugosvet_article: nauka_i_tehnika/biologiya/CHEREPAHI.html
 NBN_System_Key: NHMSYS0021053576
 ---
+
 
 # [[Turtle]]
 
@@ -64,7 +64,7 @@ Turtles, tortoises and terrapins
 ## #has_/text_of_/abstract 
 
 > Turtles are reptiles of the order **Testudines**, characterized by a special shell developed mainly from their ribs. 
-> 
+>
 > Modern turtles are divided into two major groups, 
 > - the Pleurodira (side necked turtles) and 
 > - Cryptodira (hidden necked turtles), 
