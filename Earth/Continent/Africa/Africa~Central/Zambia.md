@@ -483,7 +483,7 @@ markerFolder: ./Zambia//
 [Area-Land::743390]
 has_place_continent:: [[Africa]]  
 [VehicleCode::Z]
-Capital :: [[Lusaka]]  
+Capital :: [[Zambia/Provinces~Zambia/Lusaka,District]]  
 [Alcohol-l::3.9]
 [Language-Id::499]
 #is_a_/Place  
