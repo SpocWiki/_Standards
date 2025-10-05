@@ -36,11 +36,6 @@ type: Country
 
 # [[Madagascar]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Madagascar 
-
-[[Madagascar/ReadMe]] 
-
 [	ISO4217-currency_alphabetic	 :: MGA ]
 [	ISO4217-currency_name	 :: Malagasy Ariary ]
 [	ISO4217-currency_numeric	 :: 969 ]
@@ -104,16 +99,25 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 450 ]
 
-
-
 [ISO2::MG] 
 [ISO3::MDG] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Madagascar,1019|WD~Madagascar,1019]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Madagascar 
+
+[[Madagascar/ReadMe]] 
+
+## #has_/map 
 
 ```leaflet
 id: Madagascar
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
+coordinates: [[Madagascar]] 
+markerFile: [[Madagascar]] 
 geojsonFolder: ./Madagascar//
 markerFolder: ./Madagascar//
 ```
@@ -139,6 +143,23 @@ Capital :: [[Antananarivo]]
 [has_place_longitude::47.5083]
 [has_place_latitude::-18.8933]
 
+## #has_/text_of_/abstract 
+
+> **Madagascar**, officially the Republic of Madagascar, is an island country in the Indian Ocean 
+> that includes the island of Madagascar and numerous smaller peripheral islands. 
+> 
+> Lying off the southeastern coast of Africa, it is the world's fourth-largest island, 
+> the second-largest island country, and the 46th-largest country overall. 
+> 
+> Its capital and largest city is Antananarivo.
+>
+> Following the prehistoric breakup of the supercontinent Gondwana, Madagascar split from Africa during the Early Jurassic period, around 180 million years ago, and separated from the Indian subcontinent approximately 90 million years ago. This isolation allowed native plants and animals to evolve in relative seclusion; as a result, Madagascar is a biodiversity hotspot and one of the world's 17 megadiverse countries, with over 90% of its wildlife being endemic. The island has a subtropical to tropical maritime climate. Madagascar was first permanently settled during or before the mid-first millennium AD (roughly AD 500 to AD 700) by Austronesian peoples, presumably arriving on outrigger canoes from present-day Indonesia. These were joined around the ninth century AD by Bantu groups crossing the Mozambique Channel from East Africa. Other groups continued to settle on Madagascar over time, each one making lasting contributions to Malagasy cultural life. Consequently, there are 18 or more classified peoples of Madagascar, the most numerous being the Merina of the central highlands.
+>
+> Until the late 18th century, the island of Madagascar was ruled by a fragmented assortment of shifting sociopolitical alliances. Beginning in the early 19th century, most of it was united and ruled as the Kingdom of Madagascar by a series of Merina nobles. The monarchy was ended in 1897 by the annexation by France, from which Madagascar gained independence in 1960. The country has since undergone four major constitutional periods, termed republics, and has been governed as a constitutional democracy since 1992. Following a political crisis and military coup in 2009, Madagascar underwent a protracted transition towards its fourth and current republic, with constitutional governance being restored in January 2014.
+>
+> Madagascar is a member of the United Nations (UN), the African Union (AU), the Southern African Development Community (SADC), and the Organisation Internationale de la Francophonie. Malagasy and French are both official languages of the state. Christianity is the country's predominant religion, with a significant minority still practising traditional faiths. Madagascar is classified as a least developed country by the UN. Ecotourism and agriculture, paired with greater investments in education, health and private enterprise, are key elements of its development strategy. Despite substantial economic growth since the early 2000s, income disparities have widened, and quality of life remains low for the majority of the population. As of 2021, 68.4% of the population was considered to be multidimensionally poor.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Madagascar)
 
 ## Confidential Links & Embeds: 
 

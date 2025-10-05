@@ -33,7 +33,7 @@ has_id_wikidata: Q37615
 > From the beginning of his professional career as a tenor in 1961 in Italy 
 > to his final performance of "Nessun dorma" at the 2006 Winter Olympics in [[Turin]], 
 > Pavarotti was at his best in bel canto operas, pre-Aida Verdi roles, and Puccini works 
-> such as [[La bohème]], [[Tosca]], [[Turandot]] and [[Madame_Butterfly]]. 
+> such as [[La bohème]], [[Tosca]], [[Turandot]] and [[../../../Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly]]. 
 > 
 > He sold over 100 million records, and the first Three Tenors recording 
 > became the best-selling classical album of all time. 

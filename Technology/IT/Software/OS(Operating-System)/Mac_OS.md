@@ -3,6 +3,8 @@ aliases:
   - Mac OS
   - macOS
   - Mac OS X
+  - Mac operating system
+  - Macintosh operating system
 has_id_wikidata: Q43627
 named_after: "[[_Standards/WikiData/WD~Mac,75687]]"
 platform:
@@ -23,7 +25,7 @@ IMDb_keyword: macintosh
 Commons_category: Macintosh operating systems
 ---
 
-# [[Macintosh_Operating_Systems]] 
+# [[Mac_OS]] 
 
 #is_/same_as :: [[WD~Macintosh_operating_systems,43627]] 
 
