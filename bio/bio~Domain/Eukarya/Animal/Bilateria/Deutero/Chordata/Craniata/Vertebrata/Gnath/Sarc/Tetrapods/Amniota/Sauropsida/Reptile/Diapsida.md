@@ -292,7 +292,7 @@ divergence between lepidosauromorphs and archosauromorphs (Laurin,
 
 -   ◊ Sibling Groups of  Amniota
     -   [Synapsida](../../Synapsida.md)
-    -   [Testudines](Diapsida/Archosauromorpha/Testudines.md)
+    -   [Turtle](Diapsida/Archosauromorpha/Turtle.md)
     -   Diapsida
 
 -   » Sub-Groups

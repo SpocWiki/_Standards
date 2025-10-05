@@ -4,6 +4,8 @@ aliases:
   - Turtle
   - Schildkröte
   - Testudines
+  - tortoise 
+  - terrapin
 has_id_wikidata: Q223044
 Commons_category: Testudines
 taxon_name: Testudines
@@ -53,7 +55,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/CHEREPAHI.html
 NBN_System_Key: NHMSYS0021053576
 ---
 
-# [[Testudines]]
+# [[Turtle]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Turtle,223044|WD~Turtle,223044]]
 
