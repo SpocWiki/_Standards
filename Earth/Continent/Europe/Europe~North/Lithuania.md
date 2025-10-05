@@ -350,12 +350,6 @@ icon: flag-lt
 
 # [[Lithuania]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Lithuania 
-
-[[Lithuania/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -419,15 +413,17 @@ Sub-region_Name ::  [[Northern Europe]]
 
 [	ISO3166-1-numeric	 :: 440 ]
 
-
-
 [ISO2::LT]
 [ISO3::LTU] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Lithuania,37|WD~Lithuania,37]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Lithuania 
+
+[[Lithuania/ReadMe]] 
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Lithuania

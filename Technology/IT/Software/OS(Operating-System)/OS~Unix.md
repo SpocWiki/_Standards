@@ -229,8 +229,8 @@ which might have cost a half million dollars at the minimum.
 Second, the Unix source code was written in an attractive, 
 higher-level programming language called "C" - the first such OS like this.
 
-Dennis Ritchie had produced "[[../../../../../IT/Programming/Prog~Language/Prog~Structured/Structured_Prog-Lang/Prog~C|Prog~C]] " from "B". 
-Ken Thompson created "B" when he ported the [[../../../../../IT/Programming/Prog~Language/Prog~Imperative/Prog~BCPL|Prog~BCPL]]  by Martin Richards at MIT. 
+Dennis Ritchie had produced "[[../../Prog~Language/Prog~Structured/Structured_Prog-Lang/Prog~C|Prog~C]] " from "B". 
+Ken Thompson created "B" when he ported the [[../../Prog~Language/Prog~Imperative/Prog~BCPL|Prog~BCPL]]  by Martin Richards at MIT. 
 
 It was far easier and portable to program in C 
 than in low-level machine assembly language.

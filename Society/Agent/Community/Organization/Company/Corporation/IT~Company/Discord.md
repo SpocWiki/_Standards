@@ -1,9 +1,9 @@
 # [[Discord]] 
 
-#has_/Frameworks :: [[../../../../../../../../IT/Programming/Prog~Language/Prog~Functional/Prog~Lisp/Prog~Erlang]], [[../../../../../../../../IT/Programming/Prog~Language/Prog~OO/OO-Lang/Prog~Go|Prog~Go]] 
+#has_/Frameworks :: [[../../../../../../../Technology/IT/Prog~Language/Prog~Functional/Prog~LISP/Prog~Erlang]], [[../../../../../../../Technology/IT/Prog~Language/Prog~OO/OO-Lang/Prog~Go|Prog~Go]] 
 #is_/different_from :: [[SW~Discourse|SW~Discourse]]  
 
-Discord is rewritten in [[../../../../../../../../IT/Programming/Prog~Language/Prog~Functional/Prog~Rust|Prog~Rust]] because of the [[Garbage Collection]] pauses.  
+Discord is rewritten in [[../../../../../../../Technology/IT/Prog~Language/Prog~Functional/Prog~Rust|Prog~Rust]] because of the [[Garbage Collection]] pauses.  
 
 > **Discord** is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. 
 > 

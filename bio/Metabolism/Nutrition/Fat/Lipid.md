@@ -18,6 +18,10 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Lipids,14336537]]'
 UMLS_CUI: C0023779
 ---
 
+# [[Lipid]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Lipid,11367|WD~Lipid,11367]] 
+
 ## #has_/text_of_/abstract 
 
 > **Lipid**s are a broad group of organic compounds which include fats, waxes, sterols, 

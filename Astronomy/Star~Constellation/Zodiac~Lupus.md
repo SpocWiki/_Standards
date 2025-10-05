@@ -43,7 +43,14 @@ official_name: Lupus
 
 #is_/same_as :: [[../../WikiData/WD~Lupus,10571|WD~Lupus,10571]] 
 
+## #has_/text_of_/abstract 
 
+> Lupus is a constellation of the mid-Southern Sky. Its name is Latin for wolf. 
+> Lupus was one of the 48 constellations listed by the 2nd-century astronomer Ptolemy, 
+> and it remains one of the 88 modern constellations 
+> but was long an asterism associated with the just westerly, larger constellation Centaurus.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Lupus%20(constellation)) 
 
 ## Confidential Links & Embeds: 
 

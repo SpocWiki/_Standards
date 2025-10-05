@@ -46,6 +46,10 @@ venous_drainage: '[[_Standards/WikiData/WD~hepatic_vein,1578686]]'
 Wolfram_Language_entity_code: "Entity[\"AnatomicalStructure\", \"Liver\"]"
 ---
 
+# [[Liver]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Liver,9368|WD~Liver,9368]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Liver** is a major metabolic organ exclusively found in vertebrate animals, which performs many essential biological functions such as detoxification of the organism, and the synthesis of proteins and various other biochemicals necessary for digestion and growth. In humans, it is located in the right upper quadrant of the abdomen, below the diaphragm and mostly shielded by the lower right rib cage. Its other metabolic roles include carbohydrate metabolism, the production of hormones, conversion and storage of nutrients such as glucose and glycogen, and the decomposition of red blood cells.

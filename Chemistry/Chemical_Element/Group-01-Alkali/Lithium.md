@@ -34,8 +34,6 @@ X_username: hedislimanetwit
 
 # [[Lithium]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Lithium,568_WD~Lithium,568]] 
-
 #chemic/Element 
 [GroupName::Group-01-Alkali]
 [Group:[[../Group-01-Alkali]]
@@ -60,6 +58,9 @@ X_username: hedislimanetwit
 (PeriodNo::2)
 (GroupNo::1)
 (Charge-e::3)
+
+#is_/same_as :: [[../../../WikiData/WD~Lithium,568|WD~Lithium,568]]  
+
 
 ## #has_/text_of_/abstract 
 
