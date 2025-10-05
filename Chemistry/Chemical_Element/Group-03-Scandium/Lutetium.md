@@ -55,13 +55,13 @@ Unicode_character: 鎦
 UNII: 5H0DOZ21UJ
 ---
 
+# [[Lutetium]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Lutetium,1857]] 
 
 [GroupName::Group-03-Scandium]
 [Group:[[../Group-03-Scandium]]
-
-
 
 [Name-en::Lutetium]
 [Name-de::Lutetium]
@@ -81,14 +81,15 @@ UNII: 5H0DOZ21UJ
 [FormEnergy-kj-mol::355.9]
 (PeriodNo::6)
 (GroupNo::37)
-[]
 (Charge-e::71)
 
+#is_/same_as :: [[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]] 
 
 ## #has_/text_of_/abstract 
 
 > **Lutetium** is a chemical element; it has symbol Lu and atomic number 71. 
 > It is a silvery white metal, which resists corrosion in dry air, but not in moist air. 
+> 
 > Lutetium is the last element in the lanthanide series, 
 > and it is traditionally counted among the rare earth elements; 
 > it can also be classified as the first element of the 6th-period transition metals.
