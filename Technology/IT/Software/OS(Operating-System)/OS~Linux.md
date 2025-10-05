@@ -137,7 +137,7 @@ IRC_channel_URL: irc://irc.freenode.net/linux
 > [Wikipedia](https://en.wikipedia.org/wiki/Linux)  
 
 
-[[Mac-OS]] is based on Linux too. 
+[[Mac_OS]] is based on Linux too. 
 
 
 2002 Munich switched to Linux because Mayor Ude didn't like the forced Update from Windows NT 4 to Windows XP. 
