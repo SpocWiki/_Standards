@@ -1,7 +1,11 @@
 ---
 aliases:
-- "Luciano Pavarotti"
+  - Luciano Pavarotti
+  - Luciano_Pavarotti
+has_id_wikidata: Q37615
 ---
+
+# [[Pavarotti,Luciano]] 
 
 #has_/time_/started :: 1935-10-12   
 #has_/time_/stopped  :: 2007-09-06  
@@ -10,6 +14,8 @@ aliases:
 #has_/id_/wikidata :: Q37615
 
 ![[../../../../../../../../assets/Pictures/People/Public/Luciano_Pavarotti_2004.jpg]]
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Luciano_Pavarotti,37615|WD~Luciano_Pavarotti,37615]] 
 
 ## #has_/text_of_/abstract 
 
