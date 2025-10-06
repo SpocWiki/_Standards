@@ -460,7 +460,7 @@ markerFolder: ./Angola//
 [Area-Land::1246700]
 has_place_continent:: [[Africa]]  
 [VehicleCode::ANG]
-Capital :: [[../Africa~South/Angola/City/Luanda]]  
+Capital :: [[Angola/Provinces~Angola/Luanda,Province/Luanda,City]]  
 
 ![[../Africa~South/Angola/Emblem_of_Angola.svg|350]] 
 

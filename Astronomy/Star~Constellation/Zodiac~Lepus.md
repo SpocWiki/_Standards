@@ -47,6 +47,18 @@ official_name: Lepus
 
 #is_/same_as :: [[../../WikiData/WD~Lepus,10446|WD~Lepus,10446]] 
 
+## #has_/text_of_/abstract 
+
+> Lepus is a constellation lying just south of the celestial equator. Its name is Latin for hare. 
+> It is located below—immediately south—of Orion (the hunter), 
+> and is sometimes represented as a hare being chased by Orion or by Orion's hunting dogs.
+>
+> Although the hare does not represent any particular figure in Greek mythology, 
+> Lepus was one of the 48 constellations listed by the 2nd-century astronomer Ptolemy, 
+> and it remains one of the 88 modern constellations.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Lepus%20(constellation)) 
+> 
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Lepus](/_Standards/Astronomy/Star~Constellation/Zodiac~Lepus.md) 

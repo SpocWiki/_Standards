@@ -18,6 +18,7 @@ Commons_category: Longitudes
 
 #is_/same_as :: [[../../WikiData/WD~Longitude,36477|WD~Longitude,36477]] 
 #is_/different_from :: [[../../schema-org/Property/has_value_for/has_place_longitude|has_place_longitude]]  
+
 the latter is the Property to assign the Value for this Dimension 
 
 ## #has_/text_of_/abstract 

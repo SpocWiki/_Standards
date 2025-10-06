@@ -26,6 +26,10 @@ subclass_of:
 U_S_National_Archives_Identifier: 10665147
 ---
 
+# [[Machine_Gun]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Machine_gun,12800|WD~Machine_gun,12800]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Machine gun** (MG) is a fully automatic and rifled firearm designed for sustained direct fire with rifle cartridges. Other automatic firearms such as automatic shotguns and automatic rifles (including assault rifles and battle rifles) are typically designed more for firing short bursts rather than continuous firepower and are not considered true machine guns. Submachine guns fire handgun cartridges rather than rifle cartridges, therefore they are not considered machine guns, while automatic firearms of 20 mm (0.79 in) caliber or more are classified as autocannons rather than machine guns.

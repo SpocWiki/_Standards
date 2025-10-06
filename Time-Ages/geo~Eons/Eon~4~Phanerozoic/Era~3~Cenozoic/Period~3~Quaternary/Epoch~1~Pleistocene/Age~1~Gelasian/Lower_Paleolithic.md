@@ -1,9 +1,15 @@
 ---
 aliases:
-- "Lower Paleolithic"
-- "Lower Palaeolithic"
-- "Old Stone Age"
-- Altpaläolithikum
+  - Lower Paleolithic
+  - Lower Palaeolithic
+  - Old Stone Age
+  - Altpaläolithikum
+has_id_wikidata: Q7463501
+instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
+end_time: -300000-01-01T00:00:00Z
+start_time: -3300000-01-01T00:00:00Z
+Commons_category: Lower Paleolithic
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Lower%20Palaeolithic.jpg
 ---
 
 # [[Lower_Paleolithic]] 
@@ -15,6 +21,7 @@ aliases:
 
 #has_/duration_/years :: `$=Math.round((Number(dv.current().has_time_stopped) - dv.current().has_time_started))` 
 #has_/duration_/Ma :: `=number(this.has_time_stopped) - number(this.has_time_started)` 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Lower_Paleolithic,7463501|WD~Lower_Paleolithic,7463501]] 
 
 ## #has_/text_of_/abstract  
 
