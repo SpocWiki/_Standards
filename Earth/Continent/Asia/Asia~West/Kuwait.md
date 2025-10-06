@@ -290,12 +290,6 @@ CIVICUS_Monitor_country_entry: kuwait
 
 # [[Kuwait]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Kuwait 
-
-[[Kuwait/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: KWD ]
 [	ISO4217-currency_name	 :: Kuwaiti Dinar ]
 [	ISO4217-currency_numeric	 :: 414 ]
@@ -359,14 +353,17 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 414 ]
 
-
-
 [ISO2::KW]
 [ISO3::KWT] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Kuwait,817|WD~Kuwait,817]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Kuwait 
+
+[[Kuwait/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Kuwait
@@ -409,6 +406,14 @@ Capital :: [[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kuwait)
 
+|Governorate|[ISO 3166-2:KW](https://en.wikipedia.org/wiki/ISO_3166-2:KW "ISO 3166-2:KW")|Formation|Population|Area (km2)|Notes|
+|---|---|---|---|---|---|
+|[Ahmadi Governorate](https://en.wikipedia.org/wiki/Ahmadi_Governorate "Ahmadi Governorate")|KW-AH|1962|959,009|5,120|It was named after Sheikh [Ahmad Al-Jaber Al-Sabah](https://en.wikipedia.org/wiki/Ahmad_Al-Jaber_Al-Sabah "Ahmad Al-Jaber Al-Sabah"), 10th ruler of Kuwait.|
+|[Asimah Governorate](https://en.wikipedia.org/wiki/Capital_Governorate_\(Kuwait\) "Capital Governorate (Kuwait)")|KW-KU|1962|568,567|175|It houses most of Kuwait's financial and business centres such as the [Kuwait Stock Exchange](https://en.wikipedia.org/wiki/Kuwait_Stock_Exchange "Kuwait Stock Exchange").|
+|[Farwaniya Governorate](https://en.wikipedia.org/wiki/Farwaniya_Governorate "Farwaniya Governorate")|KW-FA|1988|1,169,312|204|It is the most populated governorate.|
+|[Hawalli Governorate](https://en.wikipedia.org/wiki/Hawalli_Governorate "Hawalli Governorate")|KW-HA|1962|939,792|85|It is the smallest and most densely populated governorate.|
+|[Jahra Governorate](https://en.wikipedia.org/wiki/Jahra_Governorate "Jahra Governorate")|KW-JA|1979|540,910|11,230|It is the largest governorate and contains the agricultural area.|
+|[Mubarak Al-Kabeer Governorate](https://en.wikipedia.org/wiki/Mubarak_Al-Kabeer_Governorate "Mubarak Al-Kabeer Governorate")|KW-MU|1999|254,999|104|The newest governorate of Kuwait, founded in 1999 and the least populated governorate in Kuwait.|
 
 ## Confidential Links & Embeds: 
 

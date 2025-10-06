@@ -29,7 +29,7 @@ Commons_category: Fresnel lenses
 > The simpler dioptric (purely refractive) form of the lens 
 > was first proposed by Georges-Louis Leclerc, Comte de Buffon, 
 > and independently reinvented by the French physicist Augustin-Jean Fresnel 
-> (1788–1827) for use in [[lighthouse]]s. 
+> (1788–1827) for use in [[../../../../Technology/Engineering/Civil_Engineering/Construction/Architecture/Lighthouse]]s. 
 > 
 > The catadioptric (combining refraction and reflection) form of the lens, 
 > entirely invented by Fresnel, has outer prismatic elements 

@@ -26,12 +26,15 @@ title: is_a_laboratory_science Class
 type: Type
 ---
 
+# [[Laboratory_Science]] 
+
 Class of all laboratory_sciences.
 
 Tag Instances like this: 
 #is_a_/laboratory_science
 
-A medical science pertaining to chemical, hematological, immunologic, microscopic, or bacteriological diagnostic analyses or research.
+A medical science pertaining to chemical, hematological, immunologic, microscopic, 
+or bacteriological diagnostic analyses or research.
 
 [ #is_/sub_class_of :: [[../MedicalSpecialty]] ]
 

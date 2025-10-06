@@ -111,15 +111,13 @@ Sub-region_Name :: [[../../../Australasia/Melanesia]]]
 
 ## #has_/map  
 
-
-
 ```leaflet
-id: Papua New Guinea
+id: Papua-New_Guinea
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Papua_New_Guinea/
-markerFolder: ./Papua_New_Guinea/
+geojsonFolder: ./Papua-New_Guinea//
+markerFolder: ./Papua-New_Guinea/
 ```
 
 [name-en::Papua New Guinea] 

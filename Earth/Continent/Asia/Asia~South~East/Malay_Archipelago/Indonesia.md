@@ -1318,17 +1318,28 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 #is_/same_as :: [[../../../../../WikiData/WD~Indonesia,252|WD~Indonesia,252]] 
 
+## Directions in Indonesian 
+
+These Directions could be abbreviated to reduce the Path Depth! 
+
+Barat → West  
+Selatan → South  
+Tengah → Central / Middle  
+Timur → East  
+Utara → North
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Indonesia
 zoomFeatures: true 
 minZoom: 4 
+defaultZoom: 6 
 maxZoom: 18
 geojsonFolder: ./Indonesia//
 markerFolder: ./Indonesia/
+coordinates: [[Indonesia]] 
+markerFile: [[Indonesia]] 
 ```
 
 [name-en::Indonesia]
