@@ -28,7 +28,7 @@ Krugosvet_article: meditsina/bred
 
 # [[Delusion]] 
 
-#is_/same_as :: [[../../WikiData/WD~Delusion,189643|WD~Delusion,189643]] 
+#is_/same_as :: [[../../../WikiData/WD~Delusion,189643|WD~Delusion,189643]] 
 
 ## #has_/text_of_/abstract 
 

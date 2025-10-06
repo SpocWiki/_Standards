@@ -145,7 +145,7 @@ MeSH_tree_code: F03.625.164.113.500
 
 # [[Autism]] 
 
-#is_/same_as :: [[../../WikiData/WD~Autism,38404|WD~Autism,38404]] 
+#is_/same_as :: [[../../../WikiData/WD~Autism,38404|WD~Autism,38404]] 
 
 ## #has_/text_of_/abstract 
 
@@ -162,7 +162,7 @@ MeSH_tree_code: F03.625.164.113.500
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Autism](/_Standards/bio/Psychology/Autism.md) 
+### #is_/same_as :: [Autism](Autism.md) 
 
 ### #is_/same_as :: [Autism.public](/_public/bio/Psychology/Autism.public.md) 
 

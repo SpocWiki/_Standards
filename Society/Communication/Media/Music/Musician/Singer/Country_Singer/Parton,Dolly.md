@@ -7,7 +7,7 @@ has_id_wikidata: Q180453
 
 # [[Parton,Dolly]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Dolly_Parton,180453|WD~Dolly_Parton,180453]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Dolly_Parton,180453|WD~Dolly_Parton,180453]] 
 
 ## #has_/text_of_/abstract 
 

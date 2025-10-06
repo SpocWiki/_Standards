@@ -76,7 +76,7 @@ date_of_death: 2011-02-06T00:00:00Z
 
 # [[Moore,Gary]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Gary_Moore,185147|WD~Gary_Moore,185147]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Gary_Moore,185147|WD~Gary_Moore,185147]] 
 
 ## #has_/text_of_/abstract 
 

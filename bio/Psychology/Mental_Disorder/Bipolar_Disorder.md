@@ -6,7 +6,7 @@ aliases:
 
 # [[Bipolar_Disorder]] 
 
-#is_/same_as :: [[../../WikiData/WD~Bipolar_disorder,131755|WD~Bipolar_disorder,131755]] 
+#is_/same_as :: [[../../../WikiData/WD~Bipolar_disorder,131755|WD~Bipolar_disorder,131755]] 
 
 ## #has_/text_of_/abstract 
 
@@ -29,7 +29,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bipolar_Disorder](/_Standards/bio/Psychology/Bipolar_Disorder.md) 
+### #is_/same_as :: [Bipolar_Disorder](Bipolar_Disorder.md) 
 
 ### #is_/same_as :: [Bipolar_Disorder.public](/_public/bio/Psychology/Bipolar_Disorder.public.md) 
 

@@ -133,7 +133,7 @@ date_of_birth: 1940-12-21T00:00:00Z
 
 # [[Zappa,Frank]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Frank_Zappa,127330|WD~Frank_Zappa,127330]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Frank_Zappa,127330|WD~Frank_Zappa,127330]] 
 
 ## #has_/text_of_/abstract 
 

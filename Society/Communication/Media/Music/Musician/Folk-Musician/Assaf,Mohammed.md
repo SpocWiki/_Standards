@@ -24,7 +24,7 @@ aliases:
 > He was also named ambassador of culture and arts by the Palestinian government 
 > and was offered a position with "diplomatic standing" by Palestinian President Mahmoud Abbas. 
 > 
-> Assaf's story is the basis of the [[../../../../../../_Standards/Society/Communication/Media/Movie/Idol(2015)]], directed by Hany Abu-Assad. 
+> Assaf's story is the basis of the [[../../../Movie/Idol(2015)]], directed by Hany Abu-Assad. 
 > After Arab Idol, Assaf has gone on to enjoy huge popularity in the Arab World and the Arab diaspora 
 > and has released two albums and a great number of singles and collaborations. 
 > Most of his music is sung in the Iraqi and Gulf dialects.

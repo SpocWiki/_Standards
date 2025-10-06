@@ -95,12 +95,13 @@ ZVG_number:
 - 500042
 ---
 
+# [[Magnesium]]
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Magnesium,660]] 
 
 [GroupName::Group-02-Earth-Alkaline]
 [Group:[[../Group-02-Earth-Alkaline]]
-
 
 [Name-en::Magnesium]
 [Name-de::Magnesium]
@@ -119,6 +120,8 @@ ZVG_number:
 [FormEnergy-kj-mol::127.4]
 (PeriodNo::3)
 (GroupNo::2)
+
+#is_/same_as :: [[../../../WikiData/WD~Magnesium,660|WD~Magnesium,660]] 
 
 ## #has_/text_of_/abstract 
 
