@@ -330,11 +330,6 @@ icon: flag-kg
 
 # [[Kyrgyzstan]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Kyrgyzstan 
-
-[[Kyrgyzstan/ReadMe]] 
-
 [	ISO4217-currency_alphabetic	 :: KGS ]
 [	ISO4217-currency_name	 :: Som ]
 [	ISO4217-currency_numeric	 :: 417 ]
@@ -402,6 +397,11 @@ Sub-region_Name ::  [[Central Asia]]
 [ISO3::KGZ] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Kyrgyzstan 
+
+[[Kyrgyzstan/ReadMe]] 
 
 ## #has_/map  
 

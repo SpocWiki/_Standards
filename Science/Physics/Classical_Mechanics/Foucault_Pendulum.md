@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Foucault pendulum
 has_id_wikidata: Q178841
 creator: "[[_Standards/WikiData/WD~Léon_Foucault,187966]]"
 named_after: "[[_Standards/WikiData/WD~Léon_Foucault,187966]]"

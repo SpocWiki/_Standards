@@ -1,4 +1,8 @@
 ---
+has_id_wikidata: Q1014
+location:
+  - 6.31667
+  - -10.8
 member_of:
   - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
@@ -303,10 +307,6 @@ Unicode_character: 🇱🇷
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Liberia.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Liberian%20Capitol%20Building.jpg
 coordinates_of_northernmost_point: Point(-9.77 8.55)
-has_id_wikidata: Q1014
-location:
-  - 6.31667
-  - -10.8
 type: Country
 tags:
   - geo/Country
@@ -339,12 +339,6 @@ Languages:
 ---
 
 # [[Liberia]] 
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Liberia 
-
-[[Liberia/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: LRD ]
 [	ISO4217-currency_name	 :: Liberian Dollar ]
@@ -409,17 +403,28 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 430 ]
 
-
-
 [ISO2::LR]
 [ISO3::LBR]
+
+#is_/same_as :: [[../../../../WikiData/WD~Liberia,1014|WD~Liberia,1014]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Liberia 
+
+[[Liberia/ReadMe]] 
+
+## #has_/map 
+
 ```leaflet
 id: Liberia
 zoomFeatures: true 
+defaultZoom: 6 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Liberia//
 markerFolder: ./Liberia//
+coordinates: [[Liberia]] 
+markerFile: [[Liberia]] 
 ```
 
 [name-en::Liberia]
@@ -440,7 +445,6 @@ Capital :: [[Monrovia]]
 [Language-Id::499]
 [has_place_longitude::-10.8]
 [has_place_latitude::6.31667]
-
 
 ## #has_/text_of_/abstract 
 

@@ -3,7 +3,40 @@ aliases:
   - Seven Wonders of the Ancient World
   - Seven Wonders of the World
   - Seven Wonders
+  - 7 Wonders
 has_id_wikidata: Q489772
+different_from:
+  - "[[_Standards/WikiData/WD~Wonders_of_the_World,209287]]"
+  - "[[_Standards/WikiData/WD~7_Wonders,17276]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~Wonders_of_the_World,209287]]"
+  - "[[_Standards/WikiData/WD~seven_wonders,3703274]]"
+  - "[[_Standards/WikiData/WD~heptad,29441572]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Seven_Wonders_of_the_Ancient_World,5677179]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]"
+country:
+  - "[[_Standards/WikiData/WD~Babylon,5684]]"
+  - "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Great_Pyramid_of_Giza,37200]]"
+  - "[[_Standards/WikiData/WD~Colossus_of_Rhodes,41553]]"
+  - "[[_Standards/WikiData/WD~Hanging_Gardens_of_Babylon,41931]]"
+  - "[[_Standards/WikiData/WD~Temple_of_Ephesian_Artemis,43018]]"
+  - "[[_Standards/WikiData/WD~Lighthouse_of_Alexandria,43244]]"
+  - "[[_Standards/WikiData/WD~Mausoleum_of_Maussollos,45368]]"
+  - "[[_Standards/WikiData/WD~Statue_of_Zeus_at_Olympia,46239]]"
+Iconclass_notation: 25M
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/SevenWondersOfTheWorld.png
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Halikarnassus.jpg
+Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/SEM_CHUDES_SVETA.html
+Library_of_Congress_Classification: N5333
+Commons_category: Seven Wonders of the Ancient World
 ---
 
 # [[Seven_Wonders_of_the_Ancient_World]] 
@@ -32,3 +65,5 @@ has_id_wikidata: Q489772
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seven%20Wonders%20of%20the%20Ancient%20World) 
 
+
+![[https://upload.wikimedia.org/wikipedia/commons/8/85/Ancient_seven_wonders_timeline.svg]] 

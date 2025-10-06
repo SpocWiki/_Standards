@@ -2,6 +2,7 @@
 aliases:
 - "Kwame Nkrumah"
 - "Francis Kwame Nkrumah"
+- Kwame_Nkrumah
 award_received:
 - '[[_Standards/WikiData/WD~Order_of_the_Companions_of_O._R._Tambo,727815]]'
 - '[[_Standards/WikiData/WD~Knight_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic,14539990]]'
@@ -91,9 +92,13 @@ work_location:
 - '[[_Standards/WikiData/WD~Elmina,968662]]'
 ---
 
+# [[Nkrumah,Kwame]] 
+
 #has_/time_/started ::  1909-09-21
 #has_/time_/started ::  1972-04-27 
 #has_/created_/quote :: Capitalism is a Refinement from Feudalism just as Feudalism is a Refinement from Slavery. Capitalism is but the Gentleman's Method of Slavery. 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Kwame_Nkrumah,8620|WD~Kwame_Nkrumah,8620]] 
 
 ## #has_/text_of_/abstract 
 

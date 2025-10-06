@@ -54,6 +54,10 @@ subreddit: Liberal
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Liberalism,12269868]]'
 ---
 
+# [[Liberalism]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Liberalism,6216|WD~Liberalism,6216]] 
+
 ## #has_/text_of_/abstract 
 
 > **Liberalism** is a political and moral philosophy based on the rights of the individual, liberty, consent of the governed, political equality, the right to private property and equality before the law. Liberals espouse various and often mutually warring views depending on their understanding of these principles but generally support private property, market economies, individual rights (including civil rights and human rights), liberal democracy, secularism, rule of law, economic and political freedom, freedom of speech, freedom of the press, freedom of assembly, and freedom of religion. Liberalism is frequently cited as the dominant ideology of modern history.: 11 

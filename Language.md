@@ -4,6 +4,7 @@ aliases:
   - language
   - Language
   - is_a_language
+  - Languages
 has_id_wikidata: Q315
 confidential: private
 cssclasses:
