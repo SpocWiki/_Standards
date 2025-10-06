@@ -33,16 +33,23 @@ Wolfram_Language_entity_type: MatterPhase
 
 # [[State_of_Matter]] 
 
+|        | Shape | Volume | Isolation | Magnetic |
+| ------ | ----- | ------ | --------- | -------- |
+| Solid  | Y     | Y      | Y/N       | N        |
+| Liquid | N     | Y      | Y/N       | N        |
+| Gas    | N     | N      | N         | N        |
+| Plasma | N     | N      | Y         | Y        |
+
 ## #has_/text_of_/abstract 
 
 > In physics, a **State of matter** is one of the distinct forms in which matter can exist. 
 > Four states of matter are observable in everyday life: 
-> - [[State_of_Matter/Solid]], 
-> - [[State_of_Matter/Liquid]], 
-> - [[State_of_Matter/Gas]], and 
-> - plasma. 
+> - [[State_of_Matter/Solid|Solid]], 
+> - [[State_of_Matter/Liquid|Liquid]], 
+> - [[State_of_Matter/Gas|Gas]], and 
+> - [[State_of_Matter/Plasma|Plasma]]. 
 > 
-> Many intermediate states are known to exist, such as liquid crystal, 
+> Many **intermediate states** are known to exist, such as liquid crystal, 
 > and some states only exist under extreme conditions, such as 
 > - Bose–Einstein condensates like Super-Fluids and 
 > - Fermionic condensates (in extreme cold), 
@@ -51,10 +58,20 @@ Wolfram_Language_entity_type: MatterPhase
 > - quark–gluon plasma (at extremely high energy).
 >
 > Historically, the distinction is based on qualitative differences in properties. 
+> 
 > Matter in the solid state maintains a fixed volume (assuming no change in temperature or air pressure) 
-> and shape, with component particles (atoms, molecules or ions) close together and fixed into place. Matter in the liquid state maintains a fixed volume (assuming no change in temperature or air pressure), but has a variable shape that adapts to fit its container. Its particles are still close together but move freely. Matter in the gaseous state has both variable volume and shape, adapting both to fit its container. Its particles are neither close together nor fixed in place. Matter in the plasma state has variable volume and shape, and contains neutral atoms as well as a significant number of ions and electrons, both of which can move around freely.
+> and shape, with component particles (atoms, molecules or ions) close together and fixed into place. 
+> 
+> Matter in the liquid state maintains a fixed volume (assuming no change in temperature or air pressure), but has a variable shape that adapts to fit its container. Its particles are still close together but move freely. 
+> 
+> Matter in the gaseous state has both variable volume and shape, adapting both to fit its container. Its particles are neither close together nor fixed in place. 
+> 
+> Matter in the plasma state has variable volume and shape, and contains neutral atoms as well as a significant number of ions and electrons, both of which can move around freely.
 >
-> The term phase is sometimes used as a synonym for state of matter, but it is possible for a single compound to form different phases that are in the same state of matter. For example, ice is the solid state of water, but there are multiple phases of ice with different crystal structures, which are formed at different pressures and temperatures.
+> The term phase is sometimes used as a synonym for state of matter, 
+> but it is possible for a single compound to form different phases that are in the same state of matter. 
+> For example, ice is the solid state of water, but there are multiple phases of ice with different crystal structures, 
+> which are formed at different pressures and temperatures.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/State%20of%20matter)
 

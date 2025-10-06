@@ -3,7 +3,7 @@ aliases:
   - Mohandas Karamchand Gandhi
   - Mahatma Gandhi
   - Gandhi,Mohandas_Karamchand
-  - 
+  - Gandhi
 ArhivX_LOD: 50078
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/Gandhi%20-%20His%20Spiritual%20Message%20to%20the%20World%2C%2017%20October%201931.mp3
 award_received:
@@ -176,12 +176,15 @@ writing_language:
   - "[[_Standards/WikiData/WD~Gujarati,5137]]"
 ---
 
+# [[Gandhi,Mohandas_Karamchand]] 
+
 #has_/time_/started :: 1869-10-02
 #has_/time_/stopped :: 1948-01-30 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/name_/family :: Gandhi 
 #has_/name_/given :: Mohandas Karamchand   
 
+#is_/same_as :: [[../../../../../WikiData/WD~Mahatma_Gandhi,1001|WD~Mahatma_Gandhi,1001]] 
 
 Die sieben sozialen Sünden von [[Gandhi,Mahatma]], analog to the [[../Christianity/Seven deadly Sins]].
 1. Politik ohne Prinzipien 

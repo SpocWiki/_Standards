@@ -165,15 +165,67 @@ work_period_start_: 1782
 writing_language: '[[_Standards/WikiData/WD~German,188]]'
 ---
 
+# [[Beethoven,Ludwig_van]] 
+
+#is_/same_as  :: [[../../../../../../WikiData/WD~Ludwig_van_Beethoven,255|WD~Ludwig_van_Beethoven,255]] 
+
 ## #has_/text_of_/abstract 
 
-> **Ludwig van Beethoven** (baptised 17 December 1770 – 26 March 1827) was a German composer and pianist. He is one of the most revered figures in the history of Western music; his works rank among the most performed of the classical music repertoire and span the transition from the Classical period to the Romantic era in classical music. His early period, during which he forged his craft, is typically considered to have lasted until 1802. From 1802 to around 1812, his middle period showed an individual development from the styles of Joseph Haydn and Wolfgang Amadeus Mozart, and is sometimes characterised as heroic. During this time, Beethoven began to grow increasingly deaf. In his late period, from 1812 to 1827, he extended his innovations in musical form and expression.
+> **Ludwig van Beethoven** (baptised 17 December 1770 – 26 March 1827) 
+> was a German composer and pianist. 
+> 
+> He is one of the most revered figures in the history of Western music; 
+> his works rank among the most performed of the classical music repertoire 
+> and span the transition from the Classical period to the Romantic era in classical music. 
+> 
+> His early period, during which he forged his craft, is typically considered to have lasted until 1802. 
+> From 1802 to around 1812, his middle period showed an individual development 
+> from the styles of Joseph Haydn and Wolfgang Amadeus Mozart, 
+> and is sometimes characterised as heroic. 
+> 
+> During this time, Beethoven began to grow increasingly deaf. 
+> In his late period, from 1812 to 1827, he extended his innovations in musical form and expression.
 >
-> Born in Bonn, Beethoven displayed his musical talent at a young age. He was initially taught intensively by his father, Johann van Beethoven, and later by Christian Gottlob Neefe. Under Neefe's tutelage in 1783, he published his first work, a set of keyboard variations. He found relief from a dysfunctional home life with the family of Helene von Breuning, whose children he loved, befriended, and taught piano. At age 21, he moved to Vienna, which subsequently became his base, and studied composition with Haydn. Beethoven then gained a reputation as a virtuoso pianist, and was soon patronised by Karl Alois, Prince Lichnowsky for compositions, which resulted in his three Opus 1 piano trios (the earliest works to which he accorded an opus number) in 1795.
+> Born in Bonn, Beethoven displayed his musical talent at a young age. 
+> He was initially taught intensively by his father, Johann van Beethoven, and later by Christian Gottlob Neefe. 
+> 
+> Under Neefe's tutelage in 1783, he published his first work, a set of keyboard variations. 
+> He found relief from a dysfunctional home life with the family of Helene von Breuning, 
+> whose children he loved, befriended, and taught piano. 
+> 
+> At age 21, he moved to Vienna, which subsequently became his base, 
+> and studied composition with Haydn. 
+> 
+> Beethoven then gained a reputation as a virtuoso pianist, 
+> and was soon patronised by Karl Alois, Prince Lichnowsky for compositions, 
+> which resulted in his three Opus 1 piano trios (the earliest works to which he accorded an opus number) in 1795.
 >
-> Beethoven's first major orchestral work, the First Symphony, premiered in 1800, and his first set of string quartets was published in 1801. Despite his advancing deafness during this period, he continued to conduct, premiering his Third and Fifth Symphonies in 1804 and 1808, respectively. His Violin Concerto appeared in 1806. His last piano concerto (No. 5, Op. 73, known as the Emperor), dedicated to his frequent patron Archduke Rudolf of Austria, premiered in 1811, without Beethoven as soloist. He was almost completely deaf by 1815, and he then gave up performing and appearing in public. He described his problems with health and his unfulfilled personal life in two letters, his Heiligenstadt Testament (1802) to his brothers and his unsent love letter to an unknown "Immortal Beloved" (1812).
+> Beethoven's first major orchestral work, the First Symphony, premiered in 1800, 
+> and his first set of string quartets was published in 1801. 
+> Despite his advancing deafness during this period, he continued to conduct, 
+> premiering his Third and Fifth Symphonies in 1804 and 1808, respectively. 
+> 
+> His Violin Concerto appeared in 1806. 
+> His last piano concerto (No. 5, Op. 73, known as the Emperor), 
+> dedicated to his frequent patron Archduke Rudolf of Austria, 
+> premiered in 1811, without Beethoven as soloist. 
+> 
+> He was almost completely deaf by 1815, and gave up performing and appearing in public. 
+> He described his problems with health and his unfulfilled personal life in two letters, 
+> his Heiligenstadt Testament (1802) to his brothers and his unsent love letter to an unknown "Immortal Beloved" (1812).
 >
-> After 1810, increasingly less socially involved as his hearing loss worsened, Beethoven composed many of his most admired works, including later symphonies, mature chamber music and the late piano sonatas. His only opera, Fidelio, first performed in 1805, was revised to its final version in 1814. He composed Missa solemnis between 1819 and 1823 and his final Symphony, No. 9, the first major example of a choral symphony, between 1822 and 1824. Written in his last years, his late string quartets, including the Grosse Fuge, of 1825–1826 are among his final achievements. After several months of illness, which left him bedridden, he died on 26 March 1827 at the age of 56.
+> After 1810, increasingly less socially involved as his hearing loss worsened, 
+> Beethoven composed many of his most admired works, including later symphonies, 
+> mature chamber music and the late piano sonatas. 
+> 
+> His only opera, Fidelio, first performed in 1805, was revised to its final version in 1814. 
+> He composed Missa solemnis between 1819 and 1823 and his final Symphony, No. 9, 
+> the first major example of a choral symphony, between 1822 and 1824. 
+> 
+> Written in his last years, his late string quartets, 
+> including the Grosse Fuge, of 1825–1826 are among his final achievements. 
+> 
+> After several months of illness, which left him bedridden, he died on 26 March 1827 at the age of 56.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ludwig%20van%20Beethoven)
 

@@ -68,11 +68,33 @@ UMLS_CUI:
 - C0029516
 ---
 
+# [[Mental_Disorder]] 
+
+#is_/same_as :: [[../../WikiData/WD~Mental_disorder,12135|WD~Mental_disorder,12135]] 
+
 ## #has_/text_of_/abstract 
 
-> A **Mental disorder**, also referred to as a mental illness, a mental health condition, or a psychiatric disability, is a behavioral or mental pattern that causes significant distress or impairment of personal functioning. A mental disorder is also characterized by a clinically significant disturbance in an individual's cognition, emotional regulation, or behavior, often in a social context. Such disturbances may occur as single episodes, may be persistent, or may be relapsing–remitting. There are many different types of mental disorders, with signs and symptoms that vary widely between specific disorders. A mental disorder is one aspect of mental health.
+> A mental disorder, also referred to as a mental illness, a mental health condition, or a psychiatric disability, 
+> is a behavioral or mental pattern that causes significant distress or impairment of personal functioning. 
 >
-> The causes of mental disorders are often unclear. Theories incorporate findings from a range of fields.  Disorders may be associated with particular regions or functions of the brain. Disorders are usually diagnosed or assessed by a mental health professional, such as a clinical psychologist, psychiatrist, psychiatric nurse, or clinical social worker, using various methods such as psychometric tests, but often relying on observation and questioning. Cultural and religious beliefs, as well as social norms, should be taken into account when making a diagnosis.
+> A mental disorder is also characterized by a clinically significant disturbance in an individual's 
+> cognition, emotional regulation, or behavior, often in a social context. 
+> 
+> Such disturbances may occur as single episodes, may be persistent, or may be relapsing–remitting. 
+> There are many different types of mental disorders, 
+> with signs and symptoms that vary widely between specific disorders. 
+> A mental disorder is one aspect of mental health.
+>
+> The causes of mental disorders are often unclear. Theories incorporate findings from a range of fields.  
+> 
+> Disorders may be associated with particular regions or functions of the brain. 
+> Disorders are usually diagnosed or assessed by a mental health professional, such as a 
+> - clinical psychologist, 
+> - psychiatrist, 
+> - psychiatric nurse, or 
+> - clinical social worker, 
+> using various methods such as psychometric tests, but often relying on observation and questioning. 
+> Cultural and religious beliefs, as well as social norms, should be taken into account when making a diagnosis.
 >
 > Services for mental disorders are usually based in psychiatric hospitals, outpatient clinics, or in the community, Treatments are provided by mental health professionals. Common treatment options are  psychotherapy or psychiatric medication, while lifestyle changes, social interventions, peer support, and self-help are also options. In a minority of cases, there may be involuntary detention or treatment. Prevention programs have been shown to reduce depression.
 >

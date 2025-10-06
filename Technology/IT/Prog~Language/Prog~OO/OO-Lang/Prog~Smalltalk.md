@@ -1,0 +1,24 @@
+# [[Prog~Smalltalk]] 
+
+#is_a_/ComputerLanguage 
+#is_a_/computer_language  
+
+#has_/creator :: [[Kay~Alan]], [[Xerox-PARC]] 
+#has_/time_/started :: 1969-07-01 
+#has_/parent :: [[../../Prog~Functional/Prog~LISP|Prog~LISP]], [[Simula]], [[Prog~Logo]]
+
+> **Smalltalk** is a purely object oriented programming language (OOP) that was originally created in the 1970s for educational use, specifically for constructionist learning, but later found use in business. It was created at Xerox PARC by Learning Research Group (LRG) scientists, including Alan Kay, Dan Ingalls, Adele Goldberg, Ted Kaehler, Diana Merry, and Scott Wallace.
+>
+> In Smalltalk, executing programs are built of opaque, atomic, so-called objects, which are instances of template code stored in classes. These objects intercommunicate by passing of messages, via an intermediary virtual machine environment (VM). A relatively small number of objects, called primitives, are not amenable to live redefinition, sometimes being defined independently of the Smalltalk programming environment.
+>
+> Having undergone significant industry development toward other uses, including business and database functions, Smalltalk is still in use today. When first publicly released, Smalltalk-80 presented innovative and foundational ideas for the nascent field of object-oriented programming (OOP).
+>
+> Since inception, the language provided interactive programming via an integrated development environment. This requires reflection and late binding in the language execution of code. Later development has led to at least one instance of Smalltalk execution environment which lacks such an integrated graphical user interface or front-end.
+>
+> Smalltalk-like languages are in active development and have gathered loyal communities of users around them. ANSI Smalltalk was ratified in 1998 and represents the standard version of Smalltalk.
+> 
+> Smalltalk took second place for "most loved programming language" in the Stack Overflow Developer Survey in 2017, but it was not among the 26 most loved programming languages of the 2018 survey.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Smalltalk)
+
+

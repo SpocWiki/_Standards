@@ -31,6 +31,10 @@ Wikidata_property: "literacy rate"
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Literacy::6z454\"]"
 ---
 
+# [[Literacy]] 
+
+#is_/same_as  :: [[../WikiData/WD~Literacy,8236|WD~Literacy,8236]]
+
 ## #has_/text_of_/abstract 
 
 > **Literacy** is the ability to read and write. Some researchers suggest that the study of "literacy" as a concept can be divided into two periods: the period before 1950, when literacy was understood solely as alphabetical literacy (word and letter recognition); and the period after 1950, when literacy slowly began to be considered as a wider concept and process, including the social and cultural aspects of reading and writing and functional literacy.

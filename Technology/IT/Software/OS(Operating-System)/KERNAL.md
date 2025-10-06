@@ -10,7 +10,7 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/KERNAL)
 
 The Kernal was separated from the [[Commodore_BASIC]], 
-which is a Port of Microsofts [[6502_BASIC]] which again was a Port from [[../../../../../IT/Programming/Prog~Language/Prog~Structured/Structured_Prog-Lang/Microsoft_BASIC|Microsoft_BASIC]], 
+which is a Port of Microsofts [[6502_BASIC]] which again was a Port from [[../../Prog~Language/Prog~Structured/Structured_Prog-Lang/Microsoft_BASIC|Microsoft_BASIC]], 
 originally written for the [[Intel_8080]] Processor. 
 
 The Commodore 8-bit machines' KERNAL consists of the low-level, close-to-the-hardware OS routines 

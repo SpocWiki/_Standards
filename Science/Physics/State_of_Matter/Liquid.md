@@ -26,11 +26,20 @@ schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20model.sv
 subclass_of: '[[_Standards/WikiData/WD~fluid,102205]]'
 ---
 
+# [[Liquid]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Liquid,11435|WD~Liquid,11435]] 
+
 ## #has_/text_of_/abstract 
 
-> A **Liquid** is a nearly incompressible fluid that conforms to the shape of its container but retains a nearly constant volume independent of pressure. It is one of the four fundamental states of matter (the others being solid, gas, and plasma), and is the only state with a definite volume but no fixed shape.
+> A **Liquid** is a nearly incompressible fluid that conforms to the shape of its container 
+> but retains a nearly constant volume independent of pressure. 
+> 
+> It is one of the four fundamental states of matter (the others being solid, gas, and plasma), 
+> and is the only state with a definite volume but no fixed shape.
 >
-> The density of a liquid is usually close to that of a solid, and much higher than that of a gas. Therefore, liquid and solid are both termed condensed matter. On the other hand, as liquids and gases share the ability to flow, they are both called fluids.
+> The density of a liquid is usually close to that of a solid, and much higher than that of a gas. 
+> Therefore, liquid and solid are both termed condensed matter. On the other hand, as liquids and gases share the ability to flow, they are both called fluids.
 >
 > A liquid is made up of tiny vibrating particles of matter, such as atoms, held together by intermolecular bonds. Like a gas, a liquid is able to flow and take the shape of a container. Unlike a gas, a liquid maintains a fairly constant density and does not disperse to fill every space of a container.
 >

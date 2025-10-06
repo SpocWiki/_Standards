@@ -145,6 +145,10 @@ dv_is_same_as:
   - "[Malaria.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.secret.md)"
 ---
 
+# [[Malaria]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Malaria,12156|WD~Malaria,12156]] 
+
 ## #has_/text_of_/abstract 
 
 > **Malaria** is a mosquito-borne infectious disease that affects vertebrates and Anopheles mosquitoes. Human malaria causes symptoms that typically include fever, fatigue, vomiting, and headaches. In severe cases, it can cause jaundice, seizures, coma, or death. Symptoms usually begin 10 to 15 days after being bitten by an infected Anopheles mosquito. If not properly treated, people may have recurrences of the disease months later. In those who have recently survived an infection, reinfection usually causes milder symptoms. This partial resistance disappears over months to years if the person has no continuing exposure to malaria. The mosquito vector is itself harmed by Plasmodium infections, causing reduced lifespan.
