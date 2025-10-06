@@ -69,7 +69,7 @@ UNSPSC_Code: 11111501
 
 # [[Soil]] 
 
-#is_/same_as :: [[../WikiData/WD~Soil,36133|WD~Soil,36133]]
+#is_/same_as :: [[../../WikiData/WD~Soil,36133|WD~Soil,36133]]
 
 ## #has_/text_of_/abstract 
 
