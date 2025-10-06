@@ -372,12 +372,6 @@ icon: flag-lu
 
 # [[Luxembourg]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Luxembourg 
-
-[[Luxembourg/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -446,10 +440,14 @@ Sub-region_Name ::  [[Western Europe]]
 [ISO2::LU]
 [ISO3::LUX] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Luxembourg,32|WD~Luxembourg,32]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Luxembourg 
+
+[[Luxembourg/ReadMe]] 
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Luxembourg
@@ -458,6 +456,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Luxembourg/
 markerFolder: ./Luxembourg//
+coordinates: [[Luxembourg]] 
+markerFile: [[Luxembourg]] 
 ```
 
 [name-en::Luxembourg]

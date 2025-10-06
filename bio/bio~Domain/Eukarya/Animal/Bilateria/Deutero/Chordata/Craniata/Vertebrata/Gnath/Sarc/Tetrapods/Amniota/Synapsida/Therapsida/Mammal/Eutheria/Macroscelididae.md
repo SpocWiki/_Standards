@@ -1,5 +1,7 @@
 ---
 title: Macroscelididae
+aliases:
+has_id_wikidata: Q9324400
 ---
 
 ## Macroscelidea 
@@ -10,6 +12,8 @@ title: Macroscelididae
 
 ![ ](Macroscelididae/elephantulus.jpg)
 ![](Macroscelididae/138405085_592f80cc48_o.jpg)
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Macroscelididae,9324400|WD~Macroscelididae,9324400]] 
 
 ## #has_/text_of_/abstract 
 

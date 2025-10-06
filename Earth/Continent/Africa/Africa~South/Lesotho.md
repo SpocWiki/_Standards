@@ -299,12 +299,6 @@ Languages:
 
 # [[Lesotho]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Lesotho 
-
-[[Lesotho/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: LSL,ZAR ]
 [	ISO4217-currency_name	 :: Loti,Rand ]
 [	ISO4217-currency_numeric	 :: 426,710 ]
@@ -400,6 +394,13 @@ Capital :: [[Maseru]]
 #is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::27.9333]
 [has_place_latitude::-29.4667]
+
+#is_/same_as :: [[../../../../WikiData/WD~Lesotho,1013|WD~Lesotho,1013]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Lesotho 
+
+[[Lesotho/ReadMe]] 
 
 
 ## #has_/text_of_/abstract 

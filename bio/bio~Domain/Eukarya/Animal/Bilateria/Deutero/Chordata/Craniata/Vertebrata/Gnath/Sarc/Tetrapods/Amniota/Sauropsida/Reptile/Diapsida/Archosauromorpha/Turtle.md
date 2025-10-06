@@ -1,6 +1,11 @@
 ---
 title: Testudines
 aliases:
+  - Turtle
+  - Schildkröte
+  - Testudines
+  - tortoise 
+  - terrapin
 has_id_wikidata: Q223044
 Commons_category: Testudines
 taxon_name: Testudines
@@ -50,9 +55,9 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/CHEREPAHI.html
 NBN_System_Key: NHMSYS0021053576
 ---
 
-# [[Testudines]]
+# [[Turtle]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Testudines,223044]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Turtle,223044|WD~Turtle,223044]]
 
 Turtles, tortoises and terrapins 
 
@@ -60,9 +65,22 @@ Turtles, tortoises and terrapins
 
 ## #has_/text_of_/abstract 
 
-> Turtles are reptiles of the order **Testudines**, characterized by a special shell developed mainly from their ribs. Modern turtles are divided into two major groups, the Pleurodira (side necked turtles) and Cryptodira (hidden necked turtles), which differ in the way the head retracts. There are 360 living and recently extinct species of turtles, including land-dwelling tortoises and freshwater terrapins. They are found on most continents, some islands and, in the case of sea turtles, much of the ocean. Like other amniotes (reptiles, birds, and mammals) they breathe air and do not lay eggs underwater, although many species live in or around water. 
+> Turtles are reptiles of the order **Testudines**, characterized by a special shell developed mainly from their ribs. 
+> 
+> Modern turtles are divided into two major groups, 
+> - the Pleurodira (side necked turtles) and 
+> - Cryptodira (hidden necked turtles), 
+> which differ in the way the head retracts. 
+> 
+> There are 360 living and recently extinct species of turtles, including land-dwelling tortoises and freshwater terrapins. 
+> They are found on most continents, some islands and, 
+> in the case of sea turtles, much of the ocean. 
+> 
+> Like other amniotes (reptiles, birds, and mammals) they breathe air 
+> and do not lay eggs underwater, although many species live in or around water. 
 >
-> Turtle shells are made mostly of bone; the upper part is the domed carapace, while the underside is the flatter plastron or belly-plate. Its outer surface is covered in scales made of keratin, the material of hair, horns, and claws. The carapace bones develop from ribs that grow sideways and develop into broad flat plates that join up to cover the body. Turtles are ectotherms or "cold-blooded", meaning that their internal temperature varies with their direct environment. They are generally opportunistic omnivores and mainly feed on plants and animals with limited movements. Many turtles migrate short distances seasonally. Sea turtles are the only reptiles that migrate long distances to lay their eggs on a favored beach.
+> Turtle shells are made mostly of bone; the upper part is the domed carapace, while the underside is the flatter plastron or belly-plate. 
+> Its outer surface is covered in scales made of keratin, the material of hair, horns, and claws. The carapace bones develop from ribs that grow sideways and develop into broad flat plates that join up to cover the body. Turtles are ectotherms or "cold-blooded", meaning that their internal temperature varies with their direct environment. They are generally opportunistic omnivores and mainly feed on plants and animals with limited movements. Many turtles migrate short distances seasonally. Sea turtles are the only reptiles that migrate long distances to lay their eggs on a favored beach.
 >
 > Turtles have appeared in myths and folktales around the world. Some terrestrial and freshwater species are widely kept as pets. Turtles have been hunted for their meat, for use in traditional medicine, and for their shells. Sea turtles are often killed accidentally as bycatch in fishing nets. Turtle habitats around the world are being destroyed. As a result of these pressures, many species are extinct or threatened with extinction.
 >
