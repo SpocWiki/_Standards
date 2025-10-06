@@ -583,12 +583,6 @@ icon: flag-my
 
 # [[Malaysia]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Malaysia 
-
-[[Malaysia/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: MYR ]
 [	ISO4217-currency_name	 :: Malaysian Ringgit ]
 [	ISO4217-currency_numeric	 :: 458 ]
@@ -657,17 +651,25 @@ Sub-region_Name ::  [[South-eastern Asia]]
 [ISO2::MY]
 [ISO3::MYS] 
 
+#is_/same_as :: [[../../../../../WikiData/WD~Malaysia,833|WD~Malaysia,833]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Malaysia 
+
+[[Malaysia/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Malaysia
 zoomFeatures: true 
 minZoom: 4 
+defaultZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Malaysia//
 markerFolder: ./Malaysia/
+coordinates: [[Malaysia]] 
+markerFile: [[Malaysia]] 
 ```
 
 [name-en::Malaysia]
