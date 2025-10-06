@@ -94,6 +94,12 @@ U_S_National_Archives_Identifier: 10637981
 #is_/same_as :: [[../../WikiData/WD~Art,735]] 
 #is_/same_as :: [[../../WikiData/WD~Arts,2018526|WD~Arts,2018526]] 
 
+| Aspect              | Art                                                       | Fine Arts                                                      | Creative Arts                                                       |
+| ------------------- | --------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Scope               | Broad umbrella covering all forms of expression           | Narrower, focused on aesthetic disciplines                     | Interdisciplinary, combining art with applied/innovative fields     |
+| Typical Disciplines | Visual arts, performing arts, applied arts, literary arts | Painting, sculpture, dance, theater, music                     | Digital media, design, film, fashion, advertising, creative writing |
+| Academic Programs   | Bachelor/Master of Arts (BA/MA)                           | Bachelor/Master of Fine Arts (BFA/MFA)                         | Bachelor/Master of Creative Arts (BCA/MCA)                          |
+| Orientation         | Both practical and theoretical                            | Primarily aesthetic, traditional, performance- or studio-based | Innovation-driven, often career-oriented, experimental              |
 ## #has_/text_of_/abstract 
 
 > **Art** describes a diverse range of cultural activity centered around 

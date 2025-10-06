@@ -30,16 +30,28 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/security
 
 # [[Security]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Security,2526135|WD~Security,2526135]]
+#is_/similar_to :: [[Safety]] 
+
+| Aspect             | [[Safety]]                                        | [[Security]]                                |
+| ------------------ | ------------------------------------------------- | ------------------------------------------- |
+| Source of Risk     | **Natural events**, technical failures, accidents | **Human adversaries**, deliberate attacks   |
+| Intentionality     | 0% (unintentional)                                | 100% (intentional)                          |
+| Example Domains    | Health, engineering, environment                  | Cyber, defense, law enforcement             |
+| Prevention Methods | Redundancy, regulations, fail-safe designs        | Firewalls, encryption, surveillance         |
+| Measurement        | Accident rates, failure probabilities (%)         | Breach attempts, threat detection rates (%) |
+| Time Horizon       | Long-term, systemic resilience                    | Real-time, adaptive defense                 |
+
+#is_/same_as :: [[../../../../WikiData/WD~Security,2526135|WD~Security,2526135]] 
 
 ## #has_/text_of_/abstract 
 
 > **Security** is protection from, or resilience against, potential harm (or other unwanted coercion). 
+> 
 > Beneficiaries (technically referents) of security may be persons and social groups, objects 
 > and institutions, ecosystems, or any other entity or phenomenon vulnerable to unwanted change. 
 >
-> Security mostly refers to **protection from hostile forces**, but it has a wide range of other senses: 
-> for example, 
+> Security mostly refers to **protection from hostile forces**, 
+> but it has a wide range of other senses, for example:
 > - as the absence of harm (e.g., freedom from want); 
 > - as the presence of an essential good (e.g., food security); 
 > - as resilience against potential damage or harm (e.g. secure foundations); 
@@ -53,7 +65,15 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/security
 > This distinction is usually not very clear to express in the English language.
 >
 > The term is also used to refer to acts and systems whose purpose may be to provide security: 
-> security company, security police, security forces, security service, security agency, security guard, cyber security systems, security cameras, remote guarding). 
+> - security company, 
+> - security police, 
+> - security forces, 
+> - security service, 
+> - security agency, 
+> - security guard, 
+> - cyber security systems, 
+> - security cameras, 
+> - remote guarding. 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Security) 
 

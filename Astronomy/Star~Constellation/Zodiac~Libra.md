@@ -61,6 +61,19 @@ official_name: Libra
 
 #is_/same_as :: [[../../WikiData/WD~Libra,10580|WD~Libra,10580]] 
 
+## #has_/text_of_/abstract 
+
+> Libra  is a constellation of the zodiac and is located in the Southern celestial hemisphere. 
+> Its name is Latin for weighing scales. Its old astronomical symbol is  (♎︎).  
+> 
+> It is fairly faint, with no first magnitude stars, and lies between Virgo to the west 
+> and Scorpius to the east. 
+> 
+> Beta Librae, also known as Zubeneschamali, is the brightest star in the constellation. 
+> Three star systems are known to have planets.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Libra%20(constellation)) 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Libra](/_Standards/Astronomy/Star~Constellation/Zodiac~Libra.md) 

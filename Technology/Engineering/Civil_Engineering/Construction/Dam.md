@@ -48,12 +48,12 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_dam,5653690]]'
 UNSPSC_Code: 30222207
 U_S_National_Archives_Identifier: 10638327
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Dam%20in%20Europe%20at%20Autumn%20as%20viewed%20from%20FPV%20drone.webm"
-has_id_wikidata: dam
 Wolfram_Language_entity_type: Dam
 ---
 
 # [[Dam]] 
 
+#is_/different_from :: [[../../../../WikiData/Levee|Levee]] 
 #is_/same_as :: [[../../../../WikiData/WD~Dam,12323|WD~Dam,12323]] 
 
 ## #has_/text_of_/abstract 
