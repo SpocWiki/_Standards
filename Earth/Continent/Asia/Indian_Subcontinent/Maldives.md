@@ -291,12 +291,6 @@ Wolfram_Language_entity_code: Entity["Country", "Maldives"]
 
 # [[Maldives]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Maldives 
-
-[[Maldives/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: MVR ]
 [	ISO4217-currency_name	 :: Rufiyaa ]
 [	ISO4217-currency_numeric	 :: 462 ]
@@ -365,9 +359,14 @@ Sub-region_Name ::  [[Southern Asia]]
 [ISO2::MV]
 [ISO3::MDV] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Maldives,826|WD~Maldives,826]]
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Maldives 
+
+[[Maldives/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Maldives
@@ -376,6 +375,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Maldives/
 markerFolder: ./Maldives/
+coordinates: [[Maldives]] 
+markerFile: [[Maldives]] 
 ```
 
 [name-en::Maldives]

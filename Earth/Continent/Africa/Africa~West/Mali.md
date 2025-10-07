@@ -402,11 +402,6 @@ Languages:
 
 # [[Mali]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Mali 
-
-[[Mali/ReadMe]] 
-
 [	ISO4217-currency_alphabetic	 :: XOF ]
 [	ISO4217-currency_name	 :: CFA Franc BCEAO ]
 [	ISO4217-currency_numeric	 :: 952 ]
@@ -474,6 +469,11 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 [ISO3::MLI]
 
 #is_/same_as :: [[../../../../WikiData/WD~Mali,912|WD~Mali,912]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Mali 
+
+[[Mali/ReadMe]] 
 
 ## #has_/map  
 
