@@ -2,10 +2,10 @@
 # [[Borderline_Personality_Disorder]] 
 
 #is_/better_than :: [[../Psychosis|Psychosis]] 
-#is_/worse_than :: [[Neurosis]] 
+#is_/worse_than :: [[../Mental_Disorder/Neurosis]] 
 #is_/same_as :: [[Borderline_Personality_Disorder]]
 
-Named, because it lies at the Border between early Definitions of [[../Neurosis|Neurosis]] and [[../Psychosis|Psychosis]]. 
+Named, because it lies at the Border between early Definitions of [[../Mental_Disorder/Neurosis|Neurosis]] and [[../Psychosis|Psychosis]]. 
 Emotion Regulation does not work. 
 Genetic factors and adverse childhood experiences (Abuse or Neglect) cause this. 
 

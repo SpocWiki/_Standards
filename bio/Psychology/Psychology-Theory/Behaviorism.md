@@ -53,7 +53,7 @@ MeSH_tree_code: F02.739.138
 > 
 > While Watson and Ivan Pavlov investigated how (conditioned) neutral stimuli elicit reflexes in respondent conditioning, [[../Psychologist/Skinner,B.F.|Skinner]] assessed the reinforcement histories of the discriminative (antecedent) stimuli that emits behavior; the process became known as operant conditioning.
 >
-> The application of radical behaviorism—known as applied behavior analysis—is used in a variety of contexts, including, for example, applied animal behavior and organizational behavior management to treatment of mental disorders, such as autism and substance abuse. In addition, while behaviorism and cognitive schools of psychological thought do not agree theoretically, they have complemented each other in the cognitive-behavioral therapies, which have demonstrated utility in treating certain pathologies, including simple phobias, [[../../Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder|PTSD]], and mood disorders.
+> The application of radical behaviorism—known as applied behavior analysis—is used in a variety of contexts, including, for example, applied animal behavior and organizational behavior management to treatment of mental disorders, such as autism and substance abuse. In addition, while behaviorism and cognitive schools of psychological thought do not agree theoretically, they have complemented each other in the cognitive-behavioral therapies, which have demonstrated utility in treating certain pathologies, including simple phobias, [[../Mental_Disorder/Posttraumatic_Stress_Disorder|PTSD]], and mood disorders.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Behaviorism) 
 

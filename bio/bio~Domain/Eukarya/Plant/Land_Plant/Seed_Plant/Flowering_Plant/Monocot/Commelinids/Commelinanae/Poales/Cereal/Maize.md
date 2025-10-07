@@ -194,6 +194,10 @@ water_footprint:
   - 1314
 ---
 
+# [[Maize]] 
+
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Maize,11575|WD~Maize,11575]] 
+
 ## #has_/text_of_/abstract 
 
 > **Maize**  (Zea mays), also known as corn in North American English, 

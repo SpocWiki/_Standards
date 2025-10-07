@@ -35,6 +35,10 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/So%20funktioniert%20d
 WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/lungs"
 ---
 
+# [[Lung]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Lung,7886|WD~Lung,7886]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Lung**s are the primary organs of the respiratory system in many animals, including humans. In mammals and most other tetrapods, two lungs are located near the backbone on either side of the heart. Their function in the respiratory system is to extract oxygen from the atmosphere and transfer it into the bloodstream, and to release carbon dioxide from the bloodstream into the atmosphere, in a process of gas exchange. Respiration is driven by different muscular systems in different species. Mammals, reptiles and birds use their musculoskeletal systems to support and foster breathing. In early tetrapods, air was driven into the lungs by the pharyngeal muscles via buccal pumping, a mechanism still seen in amphibians. In humans, the primary muscle that drives breathing is the diaphragm. The lungs also provide airflow that makes vocalisation including speech possible.

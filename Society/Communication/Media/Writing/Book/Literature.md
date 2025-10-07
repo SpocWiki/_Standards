@@ -67,6 +67,8 @@ U_S_National_Archives_Identifier: 10638161
 
 # [[Literature]] 
 
+#is_/same_as :: [[../../../../../WikiData/WD~Literature,8242|WD~Literature,8242]] 
+
 ## #has_/text_of_/abstract 
 
 > **Literature** is any collection of written work, but it is also used more narrowly for writings specifically considered to be an art form, especially novels, plays, and poems. It includes both print and digital writing. In recent centuries, the definition has expanded to include oral literature, much of which has been transcribed. Literature is a method of recording, preserving, and transmitting knowledge and entertainment. It can also have a social, psychological, spiritual, or political role.

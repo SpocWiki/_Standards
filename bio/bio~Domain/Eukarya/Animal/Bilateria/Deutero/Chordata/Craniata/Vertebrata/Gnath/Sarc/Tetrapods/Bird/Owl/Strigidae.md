@@ -2,6 +2,7 @@
 aliases:
   - true owls
   - typical owls
+  - Strigidae
 has_id_wikidata: Q26012
 topic_s_main_category: "[[_Standards/WikiData/WD~Q9132343,9132343]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"

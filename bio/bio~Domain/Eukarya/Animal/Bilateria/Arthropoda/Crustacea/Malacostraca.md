@@ -27,7 +27,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Malacostraca,14334371]
 
 ![Hyalella_aztecak](Malacostraca/Hyalella_aztecak.jpg)  ![Elassochirus_gilli](Malacostraca/Elassochirus_gilli.jpg) ![Alima_gracilis](Malacostraca/Alima_gracilis.jpg)) 
 
-#is_/same_as :: [[../../../../WikiData/WD~Malacostraca,182978|WD~Malacostraca,182978]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Malacostraca,182978|WD~Malacostraca,182978]] 
 
 ## #has_/text_of_/abstract 
 

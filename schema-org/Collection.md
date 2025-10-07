@@ -54,7 +54,7 @@ Tag Instances like this:
 
 ## Heap Management with Collections 
 
-In C++ Collections the [[../../IT/Programming/Prog~Language/Prog~Functional/Prog~Rust/Rust~Lifetime|Rust~Lifetime]] Management/Ownership is 
+In C++ Collections the [[../Technology/IT/Prog~Language/Prog~Functional/Prog~Rust/Rust~Lifetime|Rust~Lifetime]] Management/Ownership is 
 usually transferred to the Collection on adding items, 
 and resumed on removing them. 
 

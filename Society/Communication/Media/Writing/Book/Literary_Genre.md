@@ -35,6 +35,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_literary_genre
 
 # [[Literary_Genre]] 
 
+#is_/same_as :: [[../../../../../WikiData/WD~Literary_genre,223393|WD~Literary_genre,223393]] 
 
 ## #has_/text_of_/abstract 
 
