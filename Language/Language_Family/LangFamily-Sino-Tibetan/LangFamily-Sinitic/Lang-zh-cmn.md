@@ -85,7 +85,6 @@ writing_system: '[[_Standards/WikiData/WD~Chinese_characters,8201]]'
 [Iso2::zh]
 [Iso3::cmn]
 
-
 #has_/name_/zh_/Hans :: 普通话 
 #has_/name_/zh_/Hant :: 普通話 
 #has_/name_/zh_/Latn :: pǔ tōng huà 

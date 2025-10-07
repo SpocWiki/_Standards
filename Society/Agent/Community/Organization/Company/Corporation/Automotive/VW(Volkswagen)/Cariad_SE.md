@@ -1,20 +1,4 @@
 ---
-dv_is_/same_as:
-  - "[Cariad_SE](Cariad_SE.md)"
-  - "[Cariad_SE.public](/_public/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.public.md)"
-  - "[Cariad_SE.internal](/_internal/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.internal.md)"
-  - "[Cariad_SE.protect](/_protect/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.protect.md)"
-  - "[Cariad_SE.private](/_private/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.private.md)"
-  - "[Cariad_SE.personal](/_personal/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.personal.md)"
-  - "[Cariad_SE.secret](/_secret/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.secret.md)"
-dv_is_same_as:
-  - "[Cariad_SE](Cariad_SE.md)"
-  - "[Cariad_SE.public](/_public/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.public.md)"
-  - "[Cariad_SE.internal](/_internal/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.internal.md)"
-  - "[Cariad_SE.protect](/_protect/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.protect.md)"
-  - "[Cariad_SE.private](/_private/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.private.md)"
-  - "[Cariad_SE.personal](/_personal/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.personal.md)"
-  - "[Cariad_SE.secret](/_secret/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.secret.md)"
 ---
 
 ## #has_/text_of_/abstract 

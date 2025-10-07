@@ -25,28 +25,6 @@ studied_by:
 subclass_of: "[[_Standards/WikiData/WD~intentional_human_activity,451967]]"
 subreddit: business
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_business,1817462]]"
-dv_is_/same_as:
-  - path: _Standards/WikiData/WD~business_activity,19862406
-    embed: false
-    type: file
-  - "[Business-Activity](Business-Activity.md)"
-  - "[Business-Activity.public](/_public/Society/Economics/Business/Business-Activity.public.md)"
-  - "[Business-Activity.internal](/_internal/Society/Economics/Business/Business-Activity.internal.md)"
-  - "[Business-Activity.protect](/_protect/Society/Economics/Business/Business-Activity.protect.md)"
-  - "[Business-Activity.private](/_private/Society/Economics/Business/Business-Activity.private.md)"
-  - "[Business-Activity.personal](/_personal/Society/Economics/Business/Business-Activity.personal.md)"
-  - "[Business-Activity.secret](/_secret/Society/Economics/Business/Business-Activity.secret.md)"
-dv_is_same_as:
-  - path: _Standards/WikiData/WD~business_activity,19862406
-    embed: false
-    type: file
-  - "[Business-Activity](Business-Activity.md)"
-  - "[Business-Activity.public](/_public/Society/Economics/Business/Business-Activity.public.md)"
-  - "[Business-Activity.internal](/_internal/Society/Economics/Business/Business-Activity.internal.md)"
-  - "[Business-Activity.protect](/_protect/Society/Economics/Business/Business-Activity.protect.md)"
-  - "[Business-Activity.private](/_private/Society/Economics/Business/Business-Activity.private.md)"
-  - "[Business-Activity.personal](/_personal/Society/Economics/Business/Business-Activity.personal.md)"
-  - "[Business-Activity.secret](/_secret/Society/Economics/Business/Business-Activity.secret.md)"
 ---
 
 # [[Business-Activity]] 
