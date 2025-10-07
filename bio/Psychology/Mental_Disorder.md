@@ -4,6 +4,7 @@ aliases:
   - mental illness
   - mental health condition
   - psychiatric disability
+  - "{ newTitle: }":
 has_id_wikidata: Q12135
 Commons_category: Mental and behavioural diseases and disorders
 PhilPapers_topic:
@@ -72,6 +73,35 @@ UMLS_CUI:
   - C0029516
   - C0376338
   - C4046029
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
 
 # [[Mental_Disorder]] 
@@ -104,7 +134,7 @@ UMLS_CUI:
 >
 > Services for mental disorders are usually based in psychiatric hospitals, outpatient clinics, or in the community, Treatments are provided by mental health professionals. Common treatment options are psychotherapy or psychiatric medication, while lifestyle changes, social interventions, peer support, and self-help are also options. In a minority of cases, there may be involuntary detention or treatment. Prevention programs have been shown to reduce depression.
 >
-> In 2019, common mental disorders around the globe include: depression, which affects about 264 million people; dementia, which affects about 50 million; bipolar disorder, which affects about 45 million; and schizophrenia and other psychoses, which affect about 20 million people. Neurodevelopmental disorders include attention deficit hyperactivity disorder (ADHD), autism spectrum disorder (ASD), and intellectual disability, of which onset occurs early in the developmental period. Stigma and discrimination can add to the suffering and disability associated with mental disorders, leading to various social movements attempting to increase understanding and challenge social exclusion.
+> In 2019, common mental disorders around the globe include: depression, which affects about 264 million people; dementia, which affects about 50 million; bipolar disorder, which affects about 45 million; and schizophrenia and other psychoses, which affect about 20 million people. Neurodevelopmen[Mental_Disorder](Mental_Disorder.md)isorder (ASD), and intellectual disability, of which onset occurs early in the developmental period. Stigma and discrimination can add to the suffering and disability associated with mental disorders, leading to various social movements attempting to increase understanding and challenge social exclusion.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mental%20disorder) 
 
@@ -125,3 +155,22 @@ UMLS_CUI:
 
 ### #is_/same_as :: [Mental_Disorder.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.secret.md)
 
+
+# [[Mental_Disorder]] 
+
+#is_/part_of :: [[Mental_Disorder]] 
+
+![[Mental_Disorder.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Mental_Disorder.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
