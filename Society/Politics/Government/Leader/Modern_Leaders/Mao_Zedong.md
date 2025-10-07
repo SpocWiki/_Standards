@@ -123,6 +123,10 @@ Wolfram_Language_entity_code: "Entity[\"Person\", \"MaoZedong::ksc4t\"]"
 work_period_end_: 1976
 ---
 
+# [[Mao_Zedong]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Mao_Zedong,5816|WD~Mao_Zedong,5816]] 
+
 ## #has_/text_of_/abstract 
 
 > **Mao Zedong** (26 December 1893 – 9 September 1976), also known as Chairman Mao, 
