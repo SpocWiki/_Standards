@@ -8,8 +8,9 @@
 ```leaflet
 id: Pacific~South
 minZoom: 2 
-defaultZoom: 3
+defaultZoom: 4
 maxZoom: 18
+zoomFeatures: true
 geojsonFolder: ./Pacific~South/
 markerFolder: ./Pacific~South/
 long: -135

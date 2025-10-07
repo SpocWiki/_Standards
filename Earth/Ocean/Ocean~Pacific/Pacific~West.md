@@ -10,11 +10,13 @@ id: Pacific~West
 minZoom: 2 
 defaultZoom: 3
 maxZoom: 18
+zoomFeatures: true
 geojsonFolder: ./Pacific~West/
 markerFolder: ./Pacific~West/
+coordinates: [[Pacific~West]] 
+markerFile: [[Pacific~West]] 
 long: 135
 lat: 30
-
 ```
 
 

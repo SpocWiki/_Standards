@@ -237,7 +237,6 @@ IOC_country_code: MHL
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Marshall%20Islands.svg"
 Commons_category: "Marshall Islands"
 inception: "1986-10-21"
-has_time_started: "1986-10-21"
 has_time_started: 1986-10-21 
 has_id_wikidata: Q709
 location:
@@ -278,7 +277,7 @@ Languages:
 icon: flag-mh
 ---
 
-# [[Marshall~Islands]] 
+# [[Marshall_Islands]] 
 
 [	ISO4217-currency_alphabetic	 :: USD ] 
 [	ISO4217-currency_name	 :: US Dollar ] 
@@ -343,14 +342,12 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 
 [	ISO3166-1-numeric	 :: 584 ] 
 
-
-
 [ISO2::MH] 
 [ISO3::MHL]  
 
+#is_/same_as :: [[../../../../WikiData/WD~Marshall_Islands,709|WD~Marshall_Islands,709]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Marshall Islands
@@ -368,7 +365,7 @@ markerFolder: ./Marshall~Islands////
 [Area-Land::0] 
 has_place_continent:: [[Oceania]]  
 [VehicleCode::MH] 
-Capital :: [[Majuro]]  
+Capital :: [[Marshall_Islands/Counties/Ratak_Chain/Majuro]]  
 [Alcohol-l::] 
 [Language-Id::499] 
 #is_a_/Place  
