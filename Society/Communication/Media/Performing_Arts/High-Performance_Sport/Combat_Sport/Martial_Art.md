@@ -42,6 +42,10 @@ U_S_National_Archives_Identifier: 10637896
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_martial_arts,7112681]]'
 ---
 
+# [[Martial_Art]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Martial_art,11417|WD~Martial_art,11417]] 
+
 ## #has_/text_of_/abstract 
 
 > **Martial arts** are codified systems and traditions of combat practiced for a number of reasons 
