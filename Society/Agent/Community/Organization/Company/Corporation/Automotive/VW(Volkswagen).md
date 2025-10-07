@@ -1,28 +1,4 @@
 ---
-dv_has_/parts:
-  path: _Standards/Society/Agent/Organization/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.md
-  embed: false
-  type: file
-dv_is_/same_as:
-  - "[VW(Volkswagen)](VW(Volkswagen).md)"
-  - "[VW(Volkswagen).public](/_public/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).public.md)"
-  - "[VW(Volkswagen).internal](/_internal/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).internal.md)"
-  - "[VW(Volkswagen).protect](/_protect/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).protect.md)"
-  - "[VW(Volkswagen).private](/_private/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).private.md)"
-  - "[VW(Volkswagen).personal](/_personal/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).personal.md)"
-  - "[VW(Volkswagen).secret](/_secret/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).secret.md)"
-dv_has_parts:
-  path: _Standards/Society/Agent/Organization/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.md
-  embed: false
-  type: file
-dv_is_same_as:
-  - "[VW(Volkswagen)](VW(Volkswagen).md)"
-  - "[VW(Volkswagen).public](/_public/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).public.md)"
-  - "[VW(Volkswagen).internal](/_internal/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).internal.md)"
-  - "[VW(Volkswagen).protect](/_protect/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).protect.md)"
-  - "[VW(Volkswagen).private](/_private/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).private.md)"
-  - "[VW(Volkswagen).personal](/_personal/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).personal.md)"
-  - "[VW(Volkswagen).secret](/_secret/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).secret.md)"
 ---
 
 ## #has_/text_of_/abstract 

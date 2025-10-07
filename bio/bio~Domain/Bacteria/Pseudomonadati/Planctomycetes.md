@@ -3,23 +3,6 @@ aliases:
   - Planctomycetota
   - Planctomycetes
 title: Planctomycetes
-dv_is_a: "[[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]"
-dv_is_/same_as:
-  - "[Planctomycetes](Planctomycetes.md)"
-  - "[Planctomycetes.public](/_public/bio/bio~Domain/Bacteria/Planctomycetes.public.md)"
-  - "[Planctomycetes.internal](/_internal/bio/bio~Domain/Bacteria/Planctomycetes.internal.md)"
-  - "[Planctomycetes.protect](/_protect/bio/bio~Domain/Bacteria/Planctomycetes.protect.md)"
-  - "[Planctomycetes.private](/_private/bio/bio~Domain/Bacteria/Planctomycetes.private.md)"
-  - "[Planctomycetes.personal](/_personal/bio/bio~Domain/Bacteria/Planctomycetes.personal.md)"
-  - "[Planctomycetes.secret](/_secret/bio/bio~Domain/Bacteria/Planctomycetes.secret.md)"
-dv_is_same_as:
-  - "[Planctomycetes](Planctomycetes.md)"
-  - "[Planctomycetes.public](/_public/bio/bio~Domain/Bacteria/Planctomycetes.public.md)"
-  - "[Planctomycetes.internal](/_internal/bio/bio~Domain/Bacteria/Planctomycetes.internal.md)"
-  - "[Planctomycetes.protect](/_protect/bio/bio~Domain/Bacteria/Planctomycetes.protect.md)"
-  - "[Planctomycetes.private](/_private/bio/bio~Domain/Bacteria/Planctomycetes.private.md)"
-  - "[Planctomycetes.personal](/_personal/bio/bio~Domain/Bacteria/Planctomycetes.personal.md)"
-  - "[Planctomycetes.secret](/_secret/bio/bio~Domain/Bacteria/Planctomycetes.secret.md)"
 ---
 
 # [[Planctomycetes]] 

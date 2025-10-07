@@ -23,34 +23,6 @@ tags:
   - schema-org/Class
 title: is_an_automotive_business Class
 type: Type
-dv_#is_/sub_class_of:
-  path: ../LocalBusiness
-  embed: false
-  type: file
-dv_#has_/sub_classes: "[ AutoBodyShop, AutoDealer, AutoPartsStore, AutoRental, AutoRepair, AutoWash, GasStation, MotorcycleDealer, MotorcycleRepair ]"
-dv_#has_/properties: "[ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]"
-dv_is_/same_as:
-  - "[Automotive_Business](Automotive_Business.md)"
-  - "[Automotive_Business.public](/_public/Society/Organization/Local_Business/Automotive_Business.public.md)"
-  - "[Automotive_Business.internal](/_internal/Society/Organization/Local_Business/Automotive_Business.internal.md)"
-  - "[Automotive_Business.protect](/_protect/Society/Organization/Local_Business/Automotive_Business.protect.md)"
-  - "[Automotive_Business.private](/_private/Society/Organization/Local_Business/Automotive_Business.private.md)"
-  - "[Automotive_Business.personal](/_personal/Society/Organization/Local_Business/Automotive_Business.personal.md)"
-  - "[Automotive_Business.secret](/_secret/Society/Organization/Local_Business/Automotive_Business.secret.md)"
-dv_is_sub_class_of:
-  path: ../LocalBusiness
-  embed: false
-  type: file
-dv_has_sub_classes: "[ AutoBodyShop, AutoDealer, AutoPartsStore, AutoRental, AutoRepair, AutoWash, GasStation, MotorcycleDealer, MotorcycleRepair ]"
-dv_has_properties: "[ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]"
-dv_is_same_as:
-  - "[Automotive_Business](Automotive_Business.md)"
-  - "[Automotive_Business.public](/_public/Society/Organization/Local_Business/Automotive_Business.public.md)"
-  - "[Automotive_Business.internal](/_internal/Society/Organization/Local_Business/Automotive_Business.internal.md)"
-  - "[Automotive_Business.protect](/_protect/Society/Organization/Local_Business/Automotive_Business.protect.md)"
-  - "[Automotive_Business.private](/_private/Society/Organization/Local_Business/Automotive_Business.private.md)"
-  - "[Automotive_Business.personal](/_personal/Society/Organization/Local_Business/Automotive_Business.personal.md)"
-  - "[Automotive_Business.secret](/_secret/Society/Organization/Local_Business/Automotive_Business.secret.md)"
 ---
 
 Class of all automotive_businesss.

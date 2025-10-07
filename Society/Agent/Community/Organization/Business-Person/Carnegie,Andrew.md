@@ -76,42 +76,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Carnegie%2C%2
 ISNI: "0000000122831065"
 Libris_URI: 75kmmjsr1frtcbj
 P8189: "987007259572305171"
-dv_is_/different_from:
-  path: _Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.md
-  embed: false
-  type: file
-dv_has_/duration_/years: NaN
-dv_has_/duration_: ""
-dv_is_/same_as:
-  - path: _Standards/WikiData/WD~Andrew_Carnegie,484265.md
-    display: WD~Andrew_Carnegie,484265
-    embed: false
-    type: file
-  - "[Carnegie,Andrew](Carnegie,Andrew.md)"
-  - "[Carnegie,Andrew.public](/_public/Society/Economics/Business/Business-Person/Carnegie,Andrew.public.md)"
-  - "[Carnegie,Andrew.internal](/_internal/Society/Economics/Business/Business-Person/Carnegie,Andrew.internal.md)"
-  - "[Carnegie,Andrew.protect](/_protect/Society/Economics/Business/Business-Person/Carnegie,Andrew.protect.md)"
-  - "[Carnegie,Andrew.private](/_private/Society/Economics/Business/Business-Person/Carnegie,Andrew.private.md)"
-  - "[Carnegie,Andrew.personal](/_personal/Society/Economics/Business/Business-Person/Carnegie,Andrew.personal.md)"
-  - "[Carnegie,Andrew.secret](/_secret/Society/Economics/Business/Business-Person/Carnegie,Andrew.secret.md)"
-dv_is_different_from:
-  path: _Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale.md
-  embed: false
-  type: file
-dv_has_duration_years: NaN
-dv_has_duration_: ""
-dv_is_same_as:
-  - path: _Standards/WikiData/WD~Andrew_Carnegie,484265.md
-    display: WD~Andrew_Carnegie,484265
-    embed: false
-    type: file
-  - "[Carnegie,Andrew](Carnegie,Andrew.md)"
-  - "[Carnegie,Andrew.public](/_public/Society/Economics/Business/Business-Person/Carnegie,Andrew.public.md)"
-  - "[Carnegie,Andrew.internal](/_internal/Society/Economics/Business/Business-Person/Carnegie,Andrew.internal.md)"
-  - "[Carnegie,Andrew.protect](/_protect/Society/Economics/Business/Business-Person/Carnegie,Andrew.protect.md)"
-  - "[Carnegie,Andrew.private](/_private/Society/Economics/Business/Business-Person/Carnegie,Andrew.private.md)"
-  - "[Carnegie,Andrew.personal](/_personal/Society/Economics/Business/Business-Person/Carnegie,Andrew.personal.md)"
-  - "[Carnegie,Andrew.secret](/_secret/Society/Economics/Business/Business-Person/Carnegie,Andrew.secret.md)"
 ---
 
 # [[Carnegie,Andrew]] 

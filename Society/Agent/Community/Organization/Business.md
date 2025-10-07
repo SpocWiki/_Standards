@@ -30,36 +30,6 @@ tags:
 title:
   "Business": 
 type: private_note
-dv_is_/part_of:
-  path: _Standards/Society/Agent/Organization/Business.md
-  embed: false
-  type: file
-dv_is_/same_as:
-  - path: ../../WikiData/WD~Business,4830453
-    embed: false
-    type: file
-  - "[Business](/_Standards/Society/Economics/Business.md)"
-  - "[Business.public](/_public/Society/Economics/Business.public.md)"
-  - "[Business.internal](/_internal/Society/Economics/Business.internal.md)"
-  - "[Business.protect](/_protect/Society/Economics/Business.protect.md)"
-  - "[Business.private](/_private/Society/Economics/Business.private.md)"
-  - "[Business.personal](/_personal/Society/Economics/Business.personal.md)"
-  - "[Business.secret](/_secret/Society/Economics/Business.secret.md)"
-dv_is_part_of:
-  path: _Standards/Society/Agent/Organization/Business.md
-  embed: false
-  type: file
-dv_is_same_as:
-  - path: ../../WikiData/WD~Business,4830453
-    embed: false
-    type: file
-  - "[Business](/_Standards/Society/Economics/Business.md)"
-  - "[Business.public](/_public/Society/Economics/Business.public.md)"
-  - "[Business.internal](/_internal/Society/Economics/Business.internal.md)"
-  - "[Business.protect](/_protect/Society/Economics/Business.protect.md)"
-  - "[Business.private](/_private/Society/Economics/Business.private.md)"
-  - "[Business.personal](/_personal/Society/Economics/Business.personal.md)"
-  - "[Business.secret](/_secret/Society/Economics/Business.secret.md)"
 ---
 
 # [[Business]] 

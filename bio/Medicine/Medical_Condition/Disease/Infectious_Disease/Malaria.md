@@ -127,22 +127,6 @@ UMLS_CUI: C0024530
 U_S_National_Archives_Identifier: 10638168
 Wolfram_Language_entity_code: Entity["Disease", "ICDNine084"]
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/malaria
-dv_is_/same_as:
-  - "[Malaria](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.md)"
-  - "[Malaria.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.public.md)"
-  - "[Malaria.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.internal.md)"
-  - "[Malaria.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.protect.md)"
-  - "[Malaria.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.private.md)"
-  - "[Malaria.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.personal.md)"
-  - "[Malaria.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.secret.md)"
-dv_is_same_as:
-  - "[Malaria](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.md)"
-  - "[Malaria.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.public.md)"
-  - "[Malaria.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.internal.md)"
-  - "[Malaria.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.protect.md)"
-  - "[Malaria.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.private.md)"
-  - "[Malaria.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.personal.md)"
-  - "[Malaria.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.secret.md)"
 ---
 
 # [[Malaria]] 
