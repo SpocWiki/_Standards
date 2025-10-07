@@ -49,11 +49,9 @@ Baidu_Tieba_name: 芒果
 Unicode_character: 🥭
 ---
 
-
 # [[Mango]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Mango,169|WD~Mango,169]]
-
 
 ## #has_/text_of_/abstract 
 

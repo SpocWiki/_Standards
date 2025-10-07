@@ -1,16 +1,32 @@
 ---
 aliases:
-- Malpighiales
+  - Malpighiales
 title: Malpighiales
+has_id_wikidata: Q21887
+parent_taxon: "[[_Standards/WikiData/WD~fabids,2683213]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+start_time: -100000000-01-01T00:00:00Z
+ITIS_TSN: "822428"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20010309-0546%20Calophyllum%20inophyllum.jpg
+EPPO_Code: 1MALO
+MeSH_tree_code: B01.875.800.575.912.250.859.797
+Commons_category: Malpighiales
+taxon_name: Malpighiales
+NBN_System_Key: NHMSYS0020824592
+taxon_common_name: 金虎尾目
 ---
 
 # [[Malpighiales]] 
 
 ![Salix_laevigata](Malpighiales/Salix_laevigata.jpg)  ![Euphorbia_canariensis](Malpighiales/Euphorbia_canariensis.jpg)  ![Hypericum_cerastoides](Malpighiales/Hypericum_cerastoides.jpg) 
 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Malpighiales,21887|WD~Malpighiales,21887]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Malpighiales** comprise one of the largest orders of flowering plants. 
+> 
 > The order is very diverse, with well-known members including 
 > willows, violets, aspens and poplars, poinsettia, corpse flower, coca plant, cassava, 
 > flaxseed, castor bean, Saint John's wort, passionfruit, mangosteen, and manchineel tree.

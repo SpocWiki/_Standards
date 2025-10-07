@@ -40,6 +40,10 @@ Unicode_character: "\U0001F468"
 U_S_National_Archives_Identifier: 10637899
 ---
 
+# [[Man]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Man,8441|WD~Man,8441]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Man** is an adult male human. Before adulthood, a male human is referred to as a boy 

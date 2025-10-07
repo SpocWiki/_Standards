@@ -323,12 +323,6 @@ icon: flag-mt
 
 # [[Malta]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Malta 
-
-[[Malta/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -392,14 +386,17 @@ Sub-region_Name ::  [[Southern Europe]]
 
 [	ISO3166-1-numeric	 :: 470 ]
 
-
-
 [ISO2::MT]
 [ISO3::MLT] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Malta,233|WD~Malta,233]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Malta 
+
+[[Malta/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Malta
@@ -408,6 +405,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Malta//
 markerFolder: ./Malta/
+coordinates: [[Malta]] 
+markerFile: [[Malta]] 
 ```
 
 [name-en::Malta]

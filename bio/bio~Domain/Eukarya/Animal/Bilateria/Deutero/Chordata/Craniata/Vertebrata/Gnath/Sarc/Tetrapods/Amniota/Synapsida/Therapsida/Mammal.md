@@ -64,7 +64,7 @@ Mammals
 
 ![African lion](Mammal/lion.jpg))  ![](Mammal/possums.jpg) 
 
-
+#is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Mammal,7377|WD~Mammal,7377]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,48 +1,25 @@
 ---
 title: Malvales
+aliases:
+has_id_wikidata: Q219087
+subclass_of: "[[_Standards/WikiData/WD~strategy,185451]]"
+part_of: "[[_Standards/WikiData/WD~military_art,2560087]]"
+instance_of: "[[_Standards/WikiData/WD~military_term,66740226]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+Provenio_UUID: 6ed2b551-86d7-4e1d-8982-963d0efe325e
+UNSPSC_Code: "92111705"
 ---
-
-## Phylogeny 
-
--   « Ancestral Groups  
-    -   [Rosids](../Rosids.md)
-    -  [Core Eudicots](../../Core_Eudicots.md))
-    -   [Eudicots](../../../Eudicots.md)
-    -   [Flowering_Plant](../../../../Flowering_Plant.md)
-    -   [Seed_Plant](../../../../../Seed_Plant.md)
-    -   [Land_Plant](../../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../../Plant.md))
-    -  [Eukarya](../../../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Rosids
-    -   [Gerrardina](Gerrardina)
-    -   [Fagales](Fagales.md)
-    -   [Cucurbitales](Cucurbitales.md)
-    -   [Rosales](Rosales.md)
-    -   [Fabales](Fabales.md)
-    -   [Zygophyllales](Zygophyllales.md)
-    -   [Oxalidales](Oxalidales.md)
-    -   [Malpighiales](Malpighiales.md)
-    -   [Celastrales](Celastrales.md)
-    -   [Geraniales](Geraniales.md)
-    -   [Crossosomatales](Crossosomatales.md)
-    -   [Myrtales](Myrtales.md)
-    -   [Brassicales](Brassicales.md)
-    -   Malvales
-    -   [Sapindales](Sapindales.md)
-
--   » Sub-Groups
-    -  [Core Malvales](Malvales/Core_Malvales.md))
 
 # Malvales 
 
 ![Rock rose, Cistus](Malvales/Cistus.jpg)  ![Adansonia_digitata](Malvales/Adansonia_digitata.jpg)  ![Malva_sylvestris](Malvales/Malva_sylvestris.jpg) 
 
+#is_/same_as :: [[../../../../../../../../../../_Standards/WikiData/WD~Malvales,21908|WD~Malvales,21908]] 
 
 ## #has_/text_of_/abstract 
 
-> The **Malvales** are an order of flowering plants. As circumscribed by APG II-system, 
+> The **Malvales** are an order of flowering plants. 
+> As circumscribed by APG II-system, 
 > the order includes about 6000 species within nine families. 
 > The order is placed in the eurosids II, which are part of the eudicots.
 >
@@ -118,8 +95,41 @@ to the Dipterocarpaceae+Sarcolaenaceae+Cistaceace+Muntingiaceae
 most likely to belong at the base of the Malvales, although no studies
 have been able to place it with certainty.
 
-## Title Illustrations
+## Phylogeny 
 
+-   « Ancestral Groups  
+    -   [Rosids](../Rosids.md)
+    -  [Core Eudicots](../../Core_Eudicots.md))
+    -   [Eudicots](../../../Eudicots.md)
+    -   [Flowering_Plant](../../../../Flowering_Plant.md)
+    -   [Seed_Plant](../../../../../Seed_Plant.md)
+    -   [Land_Plant](../../../../../../Land_Plant.md)
+    -  [Green plants](../../../../../../../Plant.md))
+    -  [Eukarya](../../../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Rosids
+    -   [Gerrardina](Gerrardina)
+    -   [Fagales](Fagales.md)
+    -   [Cucurbitales](Cucurbitales.md)
+    -   [Rosales](Rosales.md)
+    -   [Fabales](Fabales.md)
+    -   [Zygophyllales](Zygophyllales.md)
+    -   [Oxalidales](Oxalidales.md)
+    -   [Malpighiales](Malpighiales.md)
+    -   [Celastrales](Celastrales.md)
+    -   [Geraniales](Geraniales.md)
+    -   [Crossosomatales](Crossosomatales.md)
+    -   [Myrtales](Myrtales.md)
+    -   [Brassicales](Brassicales.md)
+    -   Malvales
+    -   [Sapindales](Sapindales.md)
+
+-   » Sub-Groups
+    -  [Core Malvales](Malvales/Core_Malvales.md))
+
+
+## Title Illustrations
 
 ------------------------------------------------------------------------------![Rock rose, Cistus](Malvales/Cistus.jpg))
 Scientific Name ::     Cistus

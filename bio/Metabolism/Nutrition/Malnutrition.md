@@ -26,6 +26,10 @@ UMLS_CUI: C0162429
 U_S_National_Archives_Identifier: 10638452
 ---
 
+# [[Malnutrition]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Malnutrition,12167|WD~Malnutrition,12167]] 
+
 ## #has_/text_of_/abstract 
 
 > **Malnutrition** occurs when an organism gets too few or too many nutrients, resulting in health problems. 
