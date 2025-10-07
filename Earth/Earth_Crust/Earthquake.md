@@ -79,7 +79,7 @@ Baidu_Tieba_name: 地震
 
 # [[Earthquake]]
 
-#is_/same_as :: [[../WikiData/WD~Earthquake,7944|WD~Earthquake,7944]]
+#is_/same_as :: [[../../WikiData/WD~Earthquake,7944|WD~Earthquake,7944]]
 
 ## #has_/text_of_/abstract 
 
