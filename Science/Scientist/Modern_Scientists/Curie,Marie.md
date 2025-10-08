@@ -8,6 +8,7 @@ aliases:
   - Maria Salomea Skłodowska-Curie
   - Marie Skłodowska-Curie
   - Curie
+  - Marie_Curie
 archives_at: "[[_Standards/WikiData/WD~Bibliothèque_nationale_de_France,193563]]"
 award_received:
   - "[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]"
@@ -187,6 +188,10 @@ writing_language:
   - "[[_Standards/WikiData/WD~Polish,809]]"
   - "[[_Standards/WikiData/WD~French,150]]"
 ---
+
+# [[Curie,Marie]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Marie_Curie,7186|WD~Marie_Curie,7186]] 
 
 ## #has_/text_of_/abstract 
 

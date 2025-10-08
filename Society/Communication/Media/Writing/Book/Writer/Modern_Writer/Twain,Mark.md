@@ -3,6 +3,7 @@ aliases:
   - Mark Twain
   - Samuel Langhorne Clemens
   - Twain
+  - Mark_Twain
 archives_at:
   - "[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]"
   - "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
@@ -136,13 +137,18 @@ writing_language:
   - "[[_Standards/WikiData/WD~German,188]]"
 ---
 
+# [[Twain,Mark]] 
+
 #has_/time_/started ::  1835-11-30
 #has_/time_/started ::  1910-04-21 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Mark_Twain,7245|WD~Mark_Twain,7245]] 
 
 ## #has_/text_of_/abstract 
 
-> Samuel Langhorne Clemens (November 30, 1835 – April 21, 1910), known by the pen name **Mark Twain**, 
+> Samuel Langhorne Clemens (November 30, 1835 – April 21, 1910), 
+> known by the pen name **Mark Twain**, 
 > was an American writer, humorist, and essayist. 
+> 
 > He was praised as the "greatest humorist the United States has produced," 
 > with William Faulkner calling him "the father of American literature." 
 > 
@@ -151,16 +157,19 @@ writing_language:
 > 
 > He also wrote A Connecticut Yankee in King Arthur's Court (1889) and Pudd'nhead Wilson (1894) 
 > and cowrote The Gilded Age: A Tale of Today (1873) with Charles Dudley Warner. 
+> 
 > The novelist Ernest Hemingway claimed that 
 > "All modern American literature comes from one book by Mark Twain called Huckleberry Finn."
 >
 > Twain was raised in Hannibal, Missouri, 
 > which later provided the setting for both Tom Sawyer and Huckleberry Finn. 
+> 
 > He served an apprenticeship with a printer early in his career, and then worked as a typesetter, 
 > contributing articles to his older brother Orion Clemens' newspaper. 
 > 
 > Twain then became a riverboat pilot on the Mississippi River, 
 > which provided him the material for Life on the Mississippi (1883). 
+> 
 > Soon after, Twain headed west to join Orion in Nevada. 
 > He referred humorously to his lack of success at mining, 
 > turning to journalism for the Virginia City Territorial Enterprise.
@@ -171,7 +180,9 @@ writing_language:
 > in Angels Camp, California, where Twain had spent some time while he was working as a miner. 
 > The short story brought Twain international attention. 
 > 
-> He wrote both fiction and non-fiction. As his fame grew, Twain became a much sought-after speaker. 
+> He wrote both fiction and non-fiction. 
+> 
+> As his fame grew, Twain became a much sought-after speaker. 
 > His wit and satire, both in prose and in speech, earned praise from critics and peers, 
 > and Twain was a friend to presidents, artists, industrialists, and European royalty.
 >
@@ -179,12 +190,14 @@ writing_language:
 > he later reversed his position, going on to become vice president of the American Anti-Imperialist League 
 > from 1901 until his death in 1910, coming out strongly against the Philippine–American War 
 > and American colonialism. 
+> 
 > Twain published a satirical pamphlet, "King Leopold's Soliloquy", in 1905 
 > about Belgian atrocities in the Congo Free State.
 >
 > Twain earned a great deal of money from his writing and lectures, 
 > but invested in ventures that lost most of it, such as the Paige Compositor, 
 > a mechanical typesetter that failed because of its complexity and imprecision. 
+> 
 > He filed for bankruptcy in the wake of these financial setbacks, 
 > but in time overcame his financial troubles 
 > with the help of Standard Oil executive Henry Huttleston Rogers. 
@@ -193,7 +206,13 @@ writing_language:
 > even though his declaration of bankruptcy meant he was not required to do so. 
 > One hundred years after his death, the first volume of his autobiography was published. 
 > 
-> Twain was born shortly after an appearance of Halley's Comet and predicted that his death would accompany it as well, writing in 1909: “I came in with Halley’s Comet in 1835; it’s coming again next year, and I expect to go out with it. It would be a great disappointment in my life if I don’t. The Almighty has said, no doubt: 'Now here are these two unaccountable freaks; they came in together, they must go out together.'" He died a day after the comet was at its closest to Earth.
+> Twain was born shortly after an appearance of Halley's Comet 
+> and predicted that his death would accompany it as well, 
+> writing in 1909: “I came in with Halley’s Comet in 1835; it’s coming again next year, 
+> and I expect to go out with it. It would be a great disappointment in my life if I don’t. 
+> The Almighty has said, no doubt: 'Now here are these two unaccountable freaks; 
+> they came in together, they must go out together.'" 
+> He died a day after the comet was at its closest to Earth.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mark%20Twain)
 

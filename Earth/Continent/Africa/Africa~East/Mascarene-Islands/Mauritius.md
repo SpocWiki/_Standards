@@ -410,10 +410,13 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 480 ]
 
-
-
 [ISO2::MU] 
 [ISO3::MUS] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Mauritius,1027|WD~Mauritius,1027]] 
+
+## #has_/map 
+
 ```leaflet
 id: Mauritius
 zoomFeatures: true 

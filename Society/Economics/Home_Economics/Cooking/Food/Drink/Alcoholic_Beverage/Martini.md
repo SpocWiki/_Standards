@@ -30,11 +30,9 @@ Commons_category: Martini (cocktail)
 official_website: https://iba-world.com/iba-cocktails/
 ---
 
-
 # [[Martini]]
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Martini,273027|WD~Martini,273027]]
-
 
 ## #has_/text_of_/abstract 
 
