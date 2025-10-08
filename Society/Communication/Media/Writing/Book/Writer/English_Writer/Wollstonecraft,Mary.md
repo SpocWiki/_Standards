@@ -3,12 +3,15 @@ aliases:
 - "Mary Wollstonecraft"
 ---
 
+# [[Wollstonecraft,Mary]] 
+
 #has_/time_/started :: 1759-04-27  
 #has_/time_/stopped :: 1797-09-10 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 #has_/children :: [[English_Writer/Shelley,Mary|Mary Shelley]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Mary_Wollstonecraft,101638|WD~Mary_Wollstonecraft,101638]] 
 
 ## #has_/text_of_/abstract 
 

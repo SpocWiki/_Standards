@@ -40,7 +40,7 @@ Wikidata_property: "made from material"
 >
 > In industry, materials are inputs to manufacturing processes to produce products or more complex materials.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Material)
+> [Wikipedia](https://en.wikipedia.org/wiki/Material)  
 
 
 ## Confidential Links & Embeds: 
