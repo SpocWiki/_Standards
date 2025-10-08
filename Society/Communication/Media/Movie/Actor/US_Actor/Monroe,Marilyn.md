@@ -2,6 +2,7 @@
 aliases:
 - "Marilyn Monroe"
 - "Norma Jeane Mortenson"
+- Marilyn_Monroe
 Archive_of_Our_Own_tag: "Marilyn Monroe"
 award_received:
 - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture___Musical_or_Comedy,1011564]]'
@@ -120,10 +121,12 @@ work_period_start_: 1945
 writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 ---
 
+# [[Monroe,Marilyn]] 
+
 #has_/time_/started :: 1926-06-01 
 #has_/time_/stopped  ::  1962-08-04 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
-
+#is_/same_as :: [[../../../../../../WikiData/WD~Marilyn_Monroe,4616|WD~Marilyn_Monroe,4616]] 
 
 ## #has_/text_of_/abstract 
 
