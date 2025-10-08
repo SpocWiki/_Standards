@@ -3,27 +3,59 @@ aliases:
   - Inertia
   - Mass
   - 
-has_id_wikidata: Q122508
+has_id_wikidata: Q11423
+subclass_of:
+  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+  - "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
+  - "[[_Standards/WikiData/WD~extensive_quantity,3386703]]"
+  - "[[_Standards/WikiData/WD~additive_quantity,117865208]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~inertia,122508]]"
+  - "[[_Standards/WikiData/WD~energy,11379]]"
+different_from:
+  - "[[_Standards/WikiData/WD~quality,185957]]"
+  - "[[_Standards/WikiData/WD~apparent_weight,3900737]]"
+  - "[[_Standards/WikiData/WD~weight,25288]]"
+recommended_unit_of_measurement:
+  - "[[_Standards/WikiData/WD~tonne,191118]]"
+  - "[[_Standards/WikiData/WD~kilogram,11570]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-measurement_scale: "[[_Standards/WikiData/WD~inertial_mass,843816]]"
-subclass_of: "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
-video: http://commons.wikimedia.org/wiki/Special:FilePath/01.%D0%9E%D0%BF%D0%B8%D1%82%20%D0%BD%D0%B0%20%D0%A2%D0%B8%D1%81%D0%B0%D0%BD%D0%B4%D0%B8.ogv
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Corioliskraftanimation.gif
-IEV_number: 113-03-02
-Krugosvet_article_archived_: nauka_i_tehnika/fizika/INERTSIYA_INERTNOST.html
+  - "[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]"
+  - "[[_Standards/WikiData/WD~SI_Brochure_(9th_edition)_Concise_summary,68977959]]"
+  - "[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]"
+model_item: "[[_Standards/WikiData/WD~rest_mass_(invariant_mass)_or_rest_energy,1097654]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~ISQ_base_quantity,30337748]]"
+  - "[[_Standards/WikiData/WD~kind_of_quantity,110653654]]"
+ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow></mstyle></mrow></math>
+Wikidata_property: mass
+has_effect: "[[_Standards/WikiData/WD~force,11402]]"
+invariant_under: "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
+OmegaWiki_Defined_Meaning: "8357"
+quantity_symbol_string_:
+  - M
+  - m
+quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>m</mi></mstyle></mrow></math>
+Dewey_Decimal_Classification: "531.14"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/2kg%20Gewicht%20freigeschnitten.jpg
+Stack_Exchange_tag: https://physics.stackexchange.com/tags/mass
+equivalent_class: https://schema.org/Mass
+IEV_number: 113-03-03
+Commons_category: Mass (physical property)
+Krugosvet_article_archived_: nauka_i_tehnika/fizika/MASSA.html
 ---
 
 # [[Mass]] 
 
 #is_/similar_to :: [[Moment_of_Inertia]] 
 #is_/same_as :: [[../WikiData/WD~Inertia,122508|WD~Inertia,122508]]  
+#is_/same_as :: [[../WikiData/WD~Mass,11423|WD~Mass,11423]] 
 
 Measures the Inertia of a Body 
 when exposed to a Force. 
