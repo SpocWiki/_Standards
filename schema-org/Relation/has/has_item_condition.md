@@ -1,7 +1,6 @@
 ---
 aliases:
   - has item-condition
-  - item_condition
   - itemCondition
   - has_item_condition
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - item_condition
   - item
   - condition
 layout:

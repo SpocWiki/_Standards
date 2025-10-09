@@ -1,7 +1,6 @@
 ---
 aliases:
   - has interaction-type
-  - interaction_type
   - interactionType
   - has_interaction_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - interaction_type
   - interaction
   - type
 layout:

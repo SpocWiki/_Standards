@@ -1,7 +1,6 @@
 ---
 aliases:
   - has included-risk-factor
-  - included_risk_factor
   - includedRiskFactor
   - has_included_risk_factor
 confidential: public
@@ -16,6 +15,7 @@ keywords:
   - included
   - risk
   - factor
+  - included_risk_factor
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_included_risk_factor

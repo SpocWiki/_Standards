@@ -1,7 +1,6 @@
 ---
 aliases:
   - has interacting-drug
-  - interacting_drug
   - interactingDrug
   - has_interacting_drug
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - interacting_drug
   - interacting
   - drug
 layout:

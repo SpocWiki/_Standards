@@ -1,7 +1,6 @@
 ---
 aliases:
   - has item-reviewed
-  - item_reviewed
   - itemReviewed
   - has_item_reviewed
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - item_reviewed
   - item
   - reviewed
 layout:

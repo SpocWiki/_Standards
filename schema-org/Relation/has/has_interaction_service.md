@@ -1,7 +1,6 @@
 ---
 aliases:
   - has interaction-service
-  - interaction_service
   - interactionService
   - has_interaction_service
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - interaction_service
   - interaction
   - service
 layout:

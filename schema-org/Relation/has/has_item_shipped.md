@@ -1,7 +1,6 @@
 ---
 aliases:
   - has item-shipped
-  - item_shipped
   - itemShipped
   - has_item_shipped
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - item_shipped
   - item
   - shipped
 layout:

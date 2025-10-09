@@ -1,7 +1,6 @@
 ---
 aliases:
   - has item-list-order
-  - item_list_order
   - itemListOrder
   - has_item_list_order
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - item_list_order
   - item
   - list
   - order

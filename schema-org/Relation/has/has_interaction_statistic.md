@@ -1,7 +1,6 @@
 ---
 aliases:
   - has interaction-statistic
-  - interaction_statistic
   - interactionStatistic
   - has_interaction_statistic
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - interaction_statistic
   - interaction
   - statistic
 layout:

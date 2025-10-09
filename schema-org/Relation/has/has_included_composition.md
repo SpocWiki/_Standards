@@ -1,7 +1,6 @@
 ---
 aliases:
   - has included-composition
-  - included_composition
   - includedComposition
   - has_included_composition
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - included
   - composition
+  - included_composition
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_included_composition

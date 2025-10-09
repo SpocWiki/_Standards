@@ -1,7 +1,6 @@
 ---
 aliases:
   - has job-title
-  - job_title
   - jobTitle
   - has_job_title
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - job_title
   - job
   - title
 layout:
