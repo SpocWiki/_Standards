@@ -1,7 +1,6 @@
 ---
 aliases:
 - service-output
-- service_output
 - serviceOutput
 - has_service_output
 - is_producing
@@ -15,6 +14,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+- service_output
 - service
 - output
 layout: 

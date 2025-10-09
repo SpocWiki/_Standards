@@ -1,8 +1,9 @@
 ---
 aliases:
-  - has read-by
+  - is read-by
   - readBy
-  - has_read_by
+  - is_read_by
+  - has_reader
 confidential: public
 cssclasses:
   - Predicate

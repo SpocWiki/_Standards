@@ -1,7 +1,6 @@
 ---
 aliases:
   - has real-estate-agent
-  - real_estate_agent
   - realEstateAgent
   - has_real_estate_agent
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - real_estate_agent
   - real
   - estate
   - agent

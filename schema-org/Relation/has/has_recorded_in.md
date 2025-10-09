@@ -1,7 +1,6 @@
 ---
 aliases:
   - has recorded-in
-  - recorded_in
   - recordedIn
   - has_recorded_in
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - recorded_in
   - recorded
   - in
 layout:

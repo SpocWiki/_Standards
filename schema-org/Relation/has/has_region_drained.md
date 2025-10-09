@@ -1,7 +1,6 @@
 ---
 aliases:
   - has region-drained
-  - region_drained
   - regionDrained
   - has_region_drained
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - region_drained
   - region
   - drained
 layout:

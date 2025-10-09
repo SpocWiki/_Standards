@@ -1,7 +1,6 @@
 ---
 aliases:
   - has server-status
-  - server_status
   - serverStatus
   - has_server_status
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - server_status
   - server
   - status
 layout:

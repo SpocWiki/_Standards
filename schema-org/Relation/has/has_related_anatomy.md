@@ -1,7 +1,6 @@
 ---
 aliases:
   - has related-anatomy
-  - related_anatomy
   - relatedAnatomy
   - has_related_anatomy
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - related_anatomy
   - related
   - anatomy
 layout:

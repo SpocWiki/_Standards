@@ -1,7 +1,6 @@
 ---
 aliases:
   - has service-operator
-  - service_operator
   - serviceOperator
   - has_service_operator
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - service_operator
   - service
   - operator
 layout:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - has rsvp-response
-  - rsvp_response
   - rsvpResponse
   - has_rsvp_response
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - rsvp_response
   - rsvp
   - response
 layout:

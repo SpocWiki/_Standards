@@ -1,7 +1,6 @@
 ---
 aliases:
   - has sensory-unit
-  - sensory_unit
   - sensoryUnit
   - has_sensory_unit
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - sensory_unit
   - sensory
   - unit
 layout:

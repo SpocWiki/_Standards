@@ -1,7 +1,6 @@
 ---
 aliases:
   - has recognizing-authority
-  - recognizing_authority
   - recognizingAuthority
   - has_recognizing_authority
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - recognizing_authority
   - recognizing
   - authority
 layout:

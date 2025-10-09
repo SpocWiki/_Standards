@@ -1,7 +1,6 @@
 ---
 aliases:
   - has recommended-intake
-  - recommended_intake
   - recommendedIntake
   - has_recommended_intake
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - recommended_intake
   - recommended
   - intake
 layout:

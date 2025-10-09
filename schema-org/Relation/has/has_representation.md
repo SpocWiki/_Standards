@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-representation
-  - representation
   - hasRepresentation
   - has_representation
 confidential: public

@@ -1,7 +1,6 @@
 ---
 aliases:
   - has sd-publisher
-  - sd_publisher
   - sdPublisher
   - has_sd_publisher
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - sd_publisher
   - sd
   - publisher
 layout:

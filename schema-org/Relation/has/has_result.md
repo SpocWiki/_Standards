@@ -1,8 +1,6 @@
 ---
 aliases:
   - has result
-  - result
-  - result
   - has_result
 confidential: public
 cssclasses:

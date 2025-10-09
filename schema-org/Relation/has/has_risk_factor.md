@@ -1,7 +1,6 @@
 ---
 aliases:
   - has risk-factor
-  - risk_factor
   - riskFactor
   - has_risk_factor
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - risk_factor
   - risk
   - factor
 layout:

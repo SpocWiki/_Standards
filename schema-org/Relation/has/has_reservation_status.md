@@ -1,7 +1,6 @@
 ---
 aliases:
   - has reservation-status
-  - reservation_status
   - reservationStatus
   - has_reservation_status
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - reservation_status
   - reservation
   - status
 layout:

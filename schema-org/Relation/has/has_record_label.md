@@ -1,7 +1,6 @@
 ---
 aliases:
   - has record-label
-  - record_label
   - recordLabel
   - has_record_label
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - record_label
   - record
   - label
 layout:

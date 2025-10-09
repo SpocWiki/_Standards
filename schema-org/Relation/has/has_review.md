@@ -1,6 +1,5 @@
 ---
 aliases:
-- review
 - has_review
 - "schema:review"
 - "dbo:review"

@@ -1,7 +1,6 @@
 ---
 aliases:
   - has return-policy-category
-  - return_policy_category
   - returnPolicyCategory
   - has_return_policy_category
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - return_policy_category
   - return
   - policy
   - category

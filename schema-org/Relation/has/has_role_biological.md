@@ -1,7 +1,6 @@
 ---
 aliases:
   - has biological-role
-  - role_biological
   - biologicalRole
   - has_role_biological
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - role_biological
   - biological
   - role
 layout:
