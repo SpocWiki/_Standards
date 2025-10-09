@@ -39,6 +39,7 @@ Universal_Decimal_Classification: 517
 
 # [[Analysis(Math)]] 
 
+#is_/same_as :: [[../../WikiData/WD~Mathematical_analysis,7754|WD~Mathematical_analysis,7754]] 
 
 ## #has_/text_of_/abstract 
 

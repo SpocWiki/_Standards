@@ -1,8 +1,7 @@
 ---
 aliases:
-  - median
-  - median
-  - median
+  - has median
+  - has_median
   - has_value_for_median
 confidential: public
 cssclasses:
