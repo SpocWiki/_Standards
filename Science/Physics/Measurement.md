@@ -27,6 +27,10 @@ U_S_National_Archives_Identifier: 10639531
 Wikidata_property: measures
 ---
 
+# [[Measurement]] 
+
+#is_/same_as :: [[../../WikiData/WD~Measurement,12453|WD~Measurement,12453]] 
+
 ## #has_/text_of_/abstract 
 
 > **Measurement** is the quantification of attributes of an object or event, 
