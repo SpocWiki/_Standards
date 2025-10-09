@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sensory-unit
+  - has sensory-unit
   - sensory_unit
   - sensoryUnit
   - has_sensory_unit

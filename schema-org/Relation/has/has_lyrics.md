@@ -1,6 +1,6 @@
 ---
 aliases:
-  - lyrics
+  - has lyrics
   - lyrics
   - lyrics
   - has_lyrics

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sensory-requirement
+  - has sensory-requirement
   - sensory_requirement
   - sensoryRequirement
   - has_sensory_requirement

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - legislation-changes
+  - has legislation-changes
   - legislation_changes
   - legislationChanges
   - has_legislation_changes

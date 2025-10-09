@@ -1,6 +1,6 @@
 ---
 aliases:
-  - study-subject
+  - has study-subject
   - study_subject
   - studySubject
   - has_study_subject

@@ -12,6 +12,7 @@ isReadOnly: false
 keywords:
   - associated
   - disease
+  - associatedDisease
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_associated_disease

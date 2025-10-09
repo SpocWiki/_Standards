@@ -1,6 +1,6 @@
 ---
 aliases:
-  - recognizing-authority
+  - has recognizing-authority
   - recognizing_authority
   - recognizingAuthority
   - has_recognizing_authority

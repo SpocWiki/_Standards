@@ -1,6 +1,6 @@
 ---
 aliases:
-  - item-offered
+  - has item-offered
   - item_offered
   - itemOffered
   - has_item_offered

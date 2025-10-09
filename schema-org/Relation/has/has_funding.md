@@ -1,6 +1,6 @@
 ---
 aliases:
-  - funding
+  - has funding
   - funding
   - funding
   - has_funding

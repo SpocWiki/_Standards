@@ -1,6 +1,6 @@
 ---
 aliases:
-  - exercise-plan
+  - has exercise-plan
   - exercise_plan
   - exercisePlan
   - has_exercise_plan

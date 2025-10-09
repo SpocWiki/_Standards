@@ -1,6 +1,6 @@
 ---
 aliases:
-  - typical-test
+  - has typical-test
   - typical_test
   - typicalTest
   - has_typical_test

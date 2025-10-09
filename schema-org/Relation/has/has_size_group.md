@@ -1,6 +1,6 @@
 ---
 aliases:
-  - size-group
+  - has size-group
   - size_group
   - sizeGroup
   - has_size_group

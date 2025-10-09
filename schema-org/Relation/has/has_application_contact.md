@@ -12,6 +12,7 @@ isReadOnly: false
 keywords:
   - application
   - contact
+  - applicationContact
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_application_contact

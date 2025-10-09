@@ -1,6 +1,6 @@
 ---
 aliases:
-  - payment-status
+  - has payment-status
   - payment_status
   - paymentStatus
   - has_payment_status

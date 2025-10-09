@@ -1,6 +1,6 @@
 ---
 aliases:
-  - educational-level
+  - has educational-level
   - educational_level
   - educationalLevel
   - has_educational_level

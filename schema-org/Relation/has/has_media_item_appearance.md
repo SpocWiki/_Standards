@@ -1,6 +1,6 @@
 ---
 aliases:
-  - media-item-appearance
+  - has media-item-appearance
   - media_item_appearance
   - mediaItemAppearance
   - has_media_item_appearance

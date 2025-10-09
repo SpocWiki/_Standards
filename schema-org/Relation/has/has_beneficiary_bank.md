@@ -1,8 +1,6 @@
 ---
 aliases:
-  - beneficiary-bank
-  - beneficiary_bank
-  - beneficiaryBank
+  - has beneficiary-bank
   - has_beneficiary_bank
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - beneficiary
   - bank
+  - beneficiary_bank
+  - beneficiaryBank
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_beneficiary_bank

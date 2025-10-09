@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-adult-consideration
-  - hasAdultConsideration
   - has_adult_consideration
   - has adult consideration
 confidential: public
@@ -14,6 +13,7 @@ isDeleted: false
 isReadOnly: false
 keywords:
   - adult
+  - AdultConsideration
   - consideration
 layout:
 license: CC BY-SA 4.0

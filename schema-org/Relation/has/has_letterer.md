@@ -1,6 +1,6 @@
 ---
 aliases:
-  - letterer
+  - has letterer
   - letterer
   - letterer
   - has_letterer

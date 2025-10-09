@@ -1,6 +1,6 @@
 ---
 aliases:
-  - product-supported
+  - has product-supported
   - product_supported
   - productSupported
   - has_product_supported

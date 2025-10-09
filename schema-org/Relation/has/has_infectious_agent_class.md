@@ -1,6 +1,6 @@
 ---
 aliases:
-  - infectious-agent-class
+  - has infectious-agent-class
   - infectious_agent_class
   - infectiousAgentClass
   - has_infectious_agent_class

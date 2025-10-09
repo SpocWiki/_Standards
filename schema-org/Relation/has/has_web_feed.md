@@ -1,6 +1,6 @@
 ---
 aliases:
-  - web-feed
+  - has web-feed
   - web_feed
   - webFeed
   - has_web_feed

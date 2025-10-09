@@ -1,6 +1,6 @@
 ---
 aliases:
-  - publishing-principles
+  - has publishing-principles
   - publishing_principles
   - publishingPrinciples
   - has_publishing_principles

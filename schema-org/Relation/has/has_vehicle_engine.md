@@ -1,6 +1,6 @@
 ---
 aliases:
-  - vehicle-engine
+  - has vehicle-engine
   - vehicle_engine
   - vehicleEngine
   - has_vehicle_engine

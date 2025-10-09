@@ -1,6 +1,6 @@
 ---
 aliases:
-  - study-design
+  - has study-design
   - study_design
   - studyDesign
   - has_study_design

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sd-publisher
+  - has sd-publisher
   - sd_publisher
   - sdPublisher
   - has_sd_publisher

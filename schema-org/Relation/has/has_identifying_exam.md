@@ -1,6 +1,6 @@
 ---
 aliases:
-  - identifying-exam
+  - has identifying-exam
   - identifying_exam
   - identifyingExam
   - has_identifying_exam

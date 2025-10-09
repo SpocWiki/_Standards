@@ -1,8 +1,6 @@
 ---
 aliases:
-  - broker
-  - broker
-  - broker
+  - has broker
   - has_broker
 confidential: public
 cssclasses:

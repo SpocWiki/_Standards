@@ -1,6 +1,6 @@
 ---
 aliases:
-  - payment-method
+  - has payment-method
   - payment_method
   - paymentMethod
   - has_payment_method

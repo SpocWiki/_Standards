@@ -1,6 +1,6 @@
 ---
 aliases:
-  - relevant-specialty
+  - has relevant-specialty
   - relevant_specialty
   - relevantSpecialty
   - has_relevant_specialty

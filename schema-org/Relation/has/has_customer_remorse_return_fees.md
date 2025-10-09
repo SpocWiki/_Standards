@@ -1,8 +1,6 @@
 ---
 aliases:
-  - customer-remorse-return-fees
-  - customer_remorse_return_fees
-  - customerRemorseReturnFees
+  - has customer-remorse-return-fees
   - has_customer_remorse_return_fees
 confidential: public
 cssclasses:
@@ -17,6 +15,8 @@ keywords:
   - remorse
   - return
   - fees
+  - customer_remorse_return_fees
+  - customerRemorseReturnFees
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_customer_remorse_return_fees

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - employee
+  - has employee
   - employee
   - employee
   - has_employee

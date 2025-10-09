@@ -1,6 +1,6 @@
 ---
 aliases:
-  - serious-adverse-outcome
+  - has serious-adverse-outcome
   - serious_adverse_outcome
   - seriousAdverseOutcome
   - has_serious_adverse_outcome

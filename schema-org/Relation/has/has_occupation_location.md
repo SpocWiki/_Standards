@@ -1,6 +1,6 @@
 ---
 aliases:
-  - occupation-location
+  - has occupation-location
   - occupation_location
   - occupationLocation
   - has_occupation_location

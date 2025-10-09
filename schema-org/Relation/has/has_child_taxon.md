@@ -1,8 +1,6 @@
 ---
 aliases:
-  - child-taxon
-  - child_taxon
-  - childTaxon
+  - has child-taxon
   - has_child_taxon
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - child
   - taxon
+  - child_taxon
+  - childTaxon
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_child_taxon

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - industry
+  - has industry
   - industry
   - industry
   - has_industry

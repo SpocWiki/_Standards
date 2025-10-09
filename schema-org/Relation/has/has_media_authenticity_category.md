@@ -1,6 +1,6 @@
 ---
 aliases:
-  - media-authenticity-category
+  - has media-authenticity-category
   - media_authenticity_category
   - mediaAuthenticityCategory
   - has_media_authenticity_category

@@ -12,6 +12,7 @@ isReadOnly: false
 keywords:
   - area
   - served
+  - areaServed
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_area_served

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - financial-aid-eligible
+  - has financial-aid-eligible
   - financial_aid_eligible
   - financialAidEligible
   - has_financial_aid_eligible

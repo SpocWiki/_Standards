@@ -1,6 +1,6 @@
 ---
 aliases:
-  - usage-info
+  - has usage-info
   - usage_info
   - usageInfo
   - has_usage_info

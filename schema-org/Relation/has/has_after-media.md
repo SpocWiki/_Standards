@@ -1,6 +1,7 @@
 ---
 aliases:
   - has_after_media
+  - has_after-media
 confidential: public
 cssclasses:
   - Predicate
@@ -12,6 +13,7 @@ isReadOnly: false
 keywords:
   - after
   - media
+  - afterMedia
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_after_media
@@ -23,6 +25,12 @@ tags:
 title: has_after_media
 type: Predi_Relation
 ---
+
+# [[has_after-media]] 
+
+#is_/similar_to :: [[has_during-media]] 
+#is_/similar_to :: [[has_before-media]] 
+
 
 Use it like this: 
 - [ #has_/after_media :: MediaObject, URL ] or 

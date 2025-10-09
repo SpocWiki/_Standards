@@ -17,6 +17,7 @@ keywords:
   - accepted
   - payment
   - method
+  - acceptedPaymentMethod
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_accepted_payment_method

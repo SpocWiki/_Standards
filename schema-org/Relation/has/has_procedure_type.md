@@ -1,6 +1,6 @@
 ---
 aliases:
-  - procedure-type
+  - has procedure-type
   - procedure_type
   - procedureType
   - has_procedure_type

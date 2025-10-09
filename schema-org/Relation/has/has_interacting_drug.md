@@ -1,6 +1,6 @@
 ---
 aliases:
-  - interacting-drug
+  - has interacting-drug
   - interacting_drug
   - interactingDrug
   - has_interacting_drug

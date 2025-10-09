@@ -1,6 +1,6 @@
 ---
 aliases:
-  - parent-service
+  - has parent-service
   - parent_service
   - parentService
   - has_parent_service

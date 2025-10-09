@@ -1,6 +1,6 @@
 ---
 aliases:
-  - nerve
+  - has nerve
   - nerve
   - nerve
   - has_nerve

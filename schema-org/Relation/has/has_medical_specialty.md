@@ -1,6 +1,6 @@
 ---
 aliases:
-  - medical-specialty
+  - has medical-specialty
   - medical_specialty
   - medicalSpecialty
   - has_medical_specialty

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - broadcast-affiliate-of
-  - broadcast_affiliate_of
-  - broadcastAffiliateOf
+  - has broadcast-affiliate-of
   - has_broadcast_affiliate_of
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - broadcast
   - affiliate
   - of
+  - broadcast_affiliate_of
+  - broadcastAffiliateOf
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_broadcast_affiliate_of

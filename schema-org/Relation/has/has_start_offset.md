@@ -1,6 +1,6 @@
 ---
 aliases:
-  - start-offset
+  - has start-offset
   - start_offset
   - startOffset
   - has_start_offset

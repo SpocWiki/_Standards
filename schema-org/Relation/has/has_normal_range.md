@@ -1,6 +1,6 @@
 ---
 aliases:
-  - normal-range
+  - has normal-range
   - normal_range
   - normalRange
   - has_normal_range

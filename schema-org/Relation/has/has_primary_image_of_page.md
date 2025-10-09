@@ -1,6 +1,6 @@
 ---
 aliases:
-  - primary-image-of-page
+  - has primary-image-of-page
   - primary_image_of_page
   - primaryImageOfPage
   - has_primary_image_of_page

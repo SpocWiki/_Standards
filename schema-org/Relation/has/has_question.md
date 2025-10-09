@@ -1,6 +1,6 @@
 ---
 aliases:
-  - question
+  - has question
   - question
   - question
   - has_question

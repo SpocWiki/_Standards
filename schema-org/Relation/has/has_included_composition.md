@@ -1,6 +1,6 @@
 ---
 aliases:
-  - included-composition
+  - has included-composition
   - included_composition
   - includedComposition
   - has_included_composition

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - ethics-policy
+  - has ethics-policy
   - ethics_policy
   - ethicsPolicy
   - has_ethics_policy

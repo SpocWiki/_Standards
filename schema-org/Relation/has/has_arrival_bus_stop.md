@@ -13,6 +13,7 @@ keywords:
   - arrival
   - bus
   - stop
+  - arrivalBusStop
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_arrival_bus_stop

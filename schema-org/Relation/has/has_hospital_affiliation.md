@@ -1,6 +1,6 @@
 ---
 aliases:
-  - hospital-affiliation
+  - has hospital-affiliation
   - hospital_affiliation
   - hospitalAffiliation
   - has_hospital_affiliation

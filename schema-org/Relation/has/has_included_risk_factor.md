@@ -1,6 +1,6 @@
 ---
 aliases:
-  - included-risk-factor
+  - has included-risk-factor
   - included_risk_factor
   - includedRiskFactor
   - has_included_risk_factor

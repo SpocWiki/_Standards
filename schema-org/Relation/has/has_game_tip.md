@@ -1,6 +1,6 @@
 ---
 aliases:
-  - game-tip
+  - has game-tip
   - game_tip
   - gameTip
   - has_game_tip

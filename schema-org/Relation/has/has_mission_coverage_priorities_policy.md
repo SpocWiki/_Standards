@@ -1,6 +1,6 @@
 ---
 aliases:
-  - mission-coverage-priorities-policy
+  - has mission-coverage-priorities-policy
   - mission_coverage_priorities_policy
   - missionCoveragePrioritiesPolicy
   - has_mission_coverage_priorities_policy

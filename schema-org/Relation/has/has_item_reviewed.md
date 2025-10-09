@@ -1,6 +1,6 @@
 ---
 aliases:
-  - item-reviewed
+  - has item-reviewed
   - item_reviewed
   - itemReviewed
   - has_item_reviewed

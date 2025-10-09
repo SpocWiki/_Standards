@@ -1,6 +1,6 @@
 ---
 aliases:
-  - object
+  - has object
   - object
   - object
   - has_object

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - return-fees
+  - has return-fees
   - return_fees
   - returnFees
   - has_return_fees

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - permit-audience
+  - has permit-audience
   - permit_audience
   - permitAudience
   - has_permit_audience

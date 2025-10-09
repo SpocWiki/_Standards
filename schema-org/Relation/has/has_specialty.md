@@ -1,6 +1,6 @@
 ---
 aliases:
-  - specialty
+  - has specialty
   - specialty
   - specialty
   - has_specialty

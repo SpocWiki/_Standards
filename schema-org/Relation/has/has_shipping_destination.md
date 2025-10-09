@@ -1,6 +1,6 @@
 ---
 aliases:
-  - shipping-destination
+  - has shipping-destination
   - shipping_destination
   - shippingDestination
   - has_shipping_destination

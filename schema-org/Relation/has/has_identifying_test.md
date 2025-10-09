@@ -1,6 +1,6 @@
 ---
 aliases:
-  - identifying-test
+  - has identifying-test
   - identifying_test
   - identifyingTest
   - has_identifying_test

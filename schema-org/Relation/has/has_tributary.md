@@ -1,6 +1,6 @@
 ---
 aliases:
-  - tributary
+  - has tributary
   - tributary
   - tributary
   - has_tributary

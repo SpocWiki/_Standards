@@ -1,6 +1,6 @@
 ---
 aliases:
-  - lender
+  - has lender
   - lender
   - lender
   - has_lender

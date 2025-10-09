@@ -1,6 +1,6 @@
 ---
 aliases:
-  - result-review
+  - has result-review
   - result_review
   - resultReview
   - has_result_review

@@ -1,9 +1,8 @@
 ---
 aliases:
-  - during-media
-  - during_media
-  - duringMedia
+  - has during-media
   - has_during-media
+  - has_during_media
 confidential: public
 cssclasses:
   - Predicate
@@ -15,6 +14,8 @@ isReadOnly: false
 keywords:
   - during
   - media
+  - during_media
+  - duringMedia
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_during-media
@@ -26,6 +27,12 @@ tags:
 title: has_during-media
 type: Predi_Relation
 ---
+
+# #has_/during-media  
+
+#is_/similar_to :: [[has_after-media]] 
+#is_/similar_to :: [[has_during-media]] 
+#is_/similar_to :: [[has_before-media]] 
 
 Use it like this: 
 - [ #has_/during-media :: MediaObject, URL ] or 

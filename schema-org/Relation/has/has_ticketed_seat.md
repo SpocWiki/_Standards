@@ -1,6 +1,6 @@
 ---
 aliases:
-  - ticketed-seat
+  - has ticketed-seat
   - ticketed_seat
   - ticketedSeat
   - has_ticketed_seat

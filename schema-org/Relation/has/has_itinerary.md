@@ -1,6 +1,6 @@
 ---
 aliases:
-  - itinerary
+  - has itinerary
   - itinerary
   - itinerary
   - has_itinerary

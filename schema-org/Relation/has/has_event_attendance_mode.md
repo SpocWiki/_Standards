@@ -1,6 +1,6 @@
 ---
 aliases:
-  - event-attendance-mode
+  - has event-attendance-mode
   - event_attendance_mode
   - eventAttendanceMode
   - has_event_attendance_mode

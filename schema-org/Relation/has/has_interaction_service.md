@@ -1,6 +1,6 @@
 ---
 aliases:
-  - interaction-service
+  - has interaction-service
   - interaction_service
   - interactionService
   - has_interaction_service

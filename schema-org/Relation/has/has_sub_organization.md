@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sub-organization
+  - has sub-organization
   - sub_organization
   - subOrganization
   - has_sub_organization

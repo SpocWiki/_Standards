@@ -1,6 +1,6 @@
 ---
 aliases:
-  - maintainer
+  - has maintainer
   - maintainer
   - maintainer
   - has_maintainer

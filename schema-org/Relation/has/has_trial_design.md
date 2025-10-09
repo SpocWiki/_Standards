@@ -1,6 +1,6 @@
 ---
 aliases:
-  - trial-design
+  - has trial-design
   - trial_design
   - trialDesign
   - has_trial_design

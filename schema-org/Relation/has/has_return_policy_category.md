@@ -1,6 +1,6 @@
 ---
 aliases:
-  - return-policy-category
+  - has return-policy-category
   - return_policy_category
   - returnPolicyCategory
   - has_return_policy_category

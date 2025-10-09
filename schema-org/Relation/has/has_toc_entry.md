@@ -1,6 +1,6 @@
 ---
 aliases:
-  - toc-entry
+  - has toc-entry
   - toc_entry
   - tocEntry
   - has_toc_entry

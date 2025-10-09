@@ -1,8 +1,6 @@
 ---
 aliases:
   - has-bio-chem-entity-part
-  - bio_chem_entity_part
-  - hasBioChemEntityPart
   - has_bio_chem_entity_part
 confidential: public
 cssclasses:
@@ -17,6 +15,8 @@ keywords:
   - chem
   - entity
   - part
+  - bio_chem_entity_part
+  - BioChemEntityPart
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_bio_chem_entity_part

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - legislation-responsible
+  - has legislation-responsible
   - legislation_responsible
   - legislationResponsible
   - has_legislation_responsible

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - government-benefits-info
+  - has government-benefits-info
   - government_benefits_info
   - governmentBenefitsInfo
   - has_government_benefits_info

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - supply-to
+  - has supply-to
   - supply_to
   - supplyTo
   - has_supply_to

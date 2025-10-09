@@ -1,6 +1,6 @@
 ---
 aliases:
-  - related-anatomy
+  - has related-anatomy
   - related_anatomy
   - relatedAnatomy
   - has_related_anatomy

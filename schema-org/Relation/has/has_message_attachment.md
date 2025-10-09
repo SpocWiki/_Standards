@@ -1,6 +1,6 @@
 ---
 aliases:
-  - message-attachment
+  - has message-attachment
   - message_attachment
   - messageAttachment
   - has_message_attachment

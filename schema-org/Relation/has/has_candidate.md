@@ -1,8 +1,6 @@
 ---
 aliases:
-  - candidate
-  - candidate
-  - candidate
+  - has candidate
   - has_candidate
 confidential: public
 cssclasses:

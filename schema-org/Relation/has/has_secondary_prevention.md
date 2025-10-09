@@ -1,6 +1,6 @@
 ---
 aliases:
-  - secondary-prevention
+  - has secondary-prevention
   - secondary_prevention
   - secondaryPrevention
   - has_secondary_prevention

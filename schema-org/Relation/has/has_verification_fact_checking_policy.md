@@ -1,6 +1,6 @@
 ---
 aliases:
-  - verification-fact-checking-policy
+  - has verification-fact-checking-policy
   - verification_fact_checking_policy
   - verificationFactCheckingPolicy
   - has_verification_fact_checking_policy

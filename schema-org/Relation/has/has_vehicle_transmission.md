@@ -1,6 +1,6 @@
 ---
 aliases:
-  - vehicle-transmission
+  - has vehicle-transmission
   - vehicle_transmission
   - vehicleTransmission
   - has_vehicle_transmission

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - related-drug
+  - has related-drug
   - related_drug
   - relatedDrug
   - has_related_drug

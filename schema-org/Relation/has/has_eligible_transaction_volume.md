@@ -1,6 +1,6 @@
 ---
 aliases:
-  - eligible-transaction-volume
+  - has eligible-transaction-volume
   - eligible_transaction_volume
   - eligibleTransactionVolume
   - has_eligible_transaction_volume

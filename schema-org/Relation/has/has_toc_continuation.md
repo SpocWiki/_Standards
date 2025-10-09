@@ -1,6 +1,6 @@
 ---
 aliases:
-  - toc-continuation
+  - has toc-continuation
   - toc_continuation
   - tocContinuation
   - has_toc_continuation

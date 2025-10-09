@@ -1,6 +1,6 @@
 ---
 aliases:
-  - possible-treatment
+  - has possible-treatment
   - possible_treatment
   - possibleTreatment
   - has_possible_treatment

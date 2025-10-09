@@ -1,8 +1,6 @@
 ---
 aliases:
-  - credential-category
-  - credential_category
-  - credentialCategory
+  - has credential-category
   - has_credential_category
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - credential
   - category
+  - credential_category
+  - credentialCategory
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_credential_category

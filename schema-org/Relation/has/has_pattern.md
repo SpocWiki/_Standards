@@ -1,6 +1,6 @@
 ---
 aliases:
-  - pattern
+  - has pattern
   - pattern
   - pattern
   - has_pattern

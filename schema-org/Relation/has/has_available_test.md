@@ -12,6 +12,7 @@ isReadOnly: false
 keywords:
   - available
   - test
+  - availableTest
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_available_test

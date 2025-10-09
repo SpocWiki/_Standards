@@ -1,6 +1,6 @@
 ---
 aliases:
-  - home-location
+  - has home-location
   - home_location
   - homeLocation
   - has_home_location

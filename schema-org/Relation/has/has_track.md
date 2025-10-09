@@ -1,6 +1,6 @@
 ---
 aliases:
-  - track
+  - has track
   - track
   - track
   - has_track

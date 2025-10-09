@@ -1,6 +1,6 @@
 ---
 aliases:
-  - status
+  - has status
   - status
   - status
   - has_status

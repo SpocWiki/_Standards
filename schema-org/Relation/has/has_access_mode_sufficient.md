@@ -1,8 +1,6 @@
 ---
 aliases:
   - has_sufficient_access-mode
-  - has_access_mode
-  - has_access-mode
   - has_access_mode_sufficient
   - has_sufficient_access_mode
 confidential: public
@@ -17,6 +15,8 @@ keywords:
   - access
   - mode
   - sufficient
+  - access_mode_sufficient
+  - access-mode_sufficient
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_access_mode_sufficient

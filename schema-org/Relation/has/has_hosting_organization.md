@@ -1,6 +1,6 @@
 ---
 aliases:
-  - hosting-organization
+  - has hosting-organization
   - hosting_organization
   - hostingOrganization
   - has_hosting_organization

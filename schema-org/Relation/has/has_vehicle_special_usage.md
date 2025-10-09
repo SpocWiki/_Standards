@@ -1,6 +1,6 @@
 ---
 aliases:
-  - vehicle-special-usage
+  - has vehicle-special-usage
   - vehicle_special_usage
   - vehicleSpecialUsage
   - has_vehicle_special_usage

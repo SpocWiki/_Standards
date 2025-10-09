@@ -1,6 +1,6 @@
 ---
 aliases:
-  - relevant-occupation
+  - has relevant-occupation
   - relevant_occupation
   - relevantOccupation
   - has_relevant_occupation

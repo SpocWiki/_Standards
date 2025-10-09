@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sd-license
+  - has sd-license
   - sd_license
   - sdLicense
   - has_sd_license

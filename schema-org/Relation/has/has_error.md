@@ -1,6 +1,6 @@
 ---
 aliases:
-  - error
+  - has error
   - error
   - error
   - has_error

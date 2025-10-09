@@ -12,6 +12,7 @@ isReadOnly: false
 keywords:
   - bcc
   - recipient
+  - bccRecipient
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_bcc_recipient

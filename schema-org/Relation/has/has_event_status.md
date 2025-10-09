@@ -1,6 +1,6 @@
 ---
 aliases:
-  - event-status
+  - has event-status
   - event_status
   - eventStatus
   - has_event_status

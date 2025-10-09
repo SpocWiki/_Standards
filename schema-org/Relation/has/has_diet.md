@@ -1,8 +1,6 @@
 ---
 aliases:
-  - diet
-  - diet
-  - diet
+  - has diet
   - has_diet
 confidential: public
 cssclasses:

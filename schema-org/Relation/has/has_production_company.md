@@ -1,6 +1,6 @@
 ---
 aliases:
-  - production-company
+  - has production-company
   - production_company
   - productionCompany
   - has_production_company

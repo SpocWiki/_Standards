@@ -1,6 +1,6 @@
 ---
 aliases:
-  - math-expression
+  - has math-expression
   - math_expression
   - mathExpression
   - has_math_expression

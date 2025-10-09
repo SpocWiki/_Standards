@@ -14,6 +14,7 @@ isReadOnly: false
 keywords:
   - arterial
   - branch
+  - arterialBranch
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_arterial_branch

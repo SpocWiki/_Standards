@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sign-or-symptom
+  - has sign-or-symptom
   - sign_or_symptom
   - signOrSymptom
   - has_sign_or_symptom

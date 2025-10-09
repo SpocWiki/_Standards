@@ -1,6 +1,6 @@
 ---
 aliases:
-  - rsvp-response
+  - has rsvp-response
   - rsvp_response
   - rsvpResponse
   - has_rsvp_response

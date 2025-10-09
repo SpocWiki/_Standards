@@ -1,6 +1,6 @@
 ---
 aliases:
-  - suggested-gender
+  - has suggested-gender
   - suggested_gender
   - suggestedGender
   - has_suggested_gender

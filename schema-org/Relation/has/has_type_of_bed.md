@@ -1,6 +1,6 @@
 ---
 aliases:
-  - type-of-bed
+  - has type-of-bed
   - type_of_bed
   - typeOfBed
   - has_type_of_bed

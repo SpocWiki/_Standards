@@ -1,6 +1,6 @@
 ---
 aliases:
-  - jurisdiction
+  - has jurisdiction
   - jurisdiction
   - jurisdiction
   - has_jurisdiction

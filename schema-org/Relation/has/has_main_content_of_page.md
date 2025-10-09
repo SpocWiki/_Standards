@@ -1,6 +1,6 @@
 ---
 aliases:
-  - main-content-of-page
+  - has main-content-of-page
   - main_content_of_page
   - mainContentOfPage
   - has_main_content_of_page

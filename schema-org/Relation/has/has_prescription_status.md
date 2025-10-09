@@ -1,6 +1,6 @@
 ---
 aliases:
-  - prescription-status
+  - has prescription-status
   - prescription_status
   - prescriptionStatus
   - has_prescription_status

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sibling
+  - has sibling
   - sibling
   - sibling
   - has_sibling

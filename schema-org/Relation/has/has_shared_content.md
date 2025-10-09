@@ -1,6 +1,6 @@
 ---
 aliases:
-  - shared-content
+  - has shared-content
   - shared_content
   - sharedContent
   - has_shared_content

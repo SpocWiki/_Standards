@@ -1,6 +1,6 @@
 ---
 aliases:
-  - ordered-item
+  - has ordered-item
   - ordered_item
   - orderedItem
   - has_ordered_item

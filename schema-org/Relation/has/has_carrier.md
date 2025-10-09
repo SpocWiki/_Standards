@@ -1,8 +1,6 @@
 ---
 aliases:
-  - carrier
-  - carrier
-  - carrier
+  - has carrier
   - has_carrier
 confidential: public
 cssclasses:

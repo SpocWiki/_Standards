@@ -1,6 +1,6 @@
 ---
 aliases:
-  - end-offset
+  - has end-offset
   - end_offset
   - endOffset
   - has_end_offset

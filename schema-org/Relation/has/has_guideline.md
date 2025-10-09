@@ -1,6 +1,6 @@
 ---
 aliases:
-  - guideline
+  - has guideline
   - guideline
   - guideline
   - has_guideline

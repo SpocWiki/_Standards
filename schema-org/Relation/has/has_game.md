@@ -1,6 +1,6 @@
 ---
 aliases:
-  - game
+  - has game
   - game
   - game
   - has_game

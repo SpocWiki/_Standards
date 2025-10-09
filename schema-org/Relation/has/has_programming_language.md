@@ -1,6 +1,6 @@
 ---
 aliases:
-  - programming-language
+  - has programming-language
   - programming_language
   - programmingLanguage
   - has_programming_language

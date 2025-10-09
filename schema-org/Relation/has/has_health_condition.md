@@ -1,6 +1,6 @@
 ---
 aliases:
-  - health-condition
+  - has health-condition
   - health_condition
   - healthCondition
   - has_health_condition

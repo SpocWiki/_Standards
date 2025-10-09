@@ -1,6 +1,6 @@
 ---
 aliases:
-  - size
+  - has size
   - size
   - size
   - has_size

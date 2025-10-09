@@ -1,6 +1,6 @@
 ---
 aliases:
-  - main-entity
+  - has main-entity
   - main_entity
   - mainEntity
   - has_main_entity

@@ -13,6 +13,7 @@ isReadOnly: false
 keywords:
   - address
   - country
+  - addressCountry
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_address_country

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - item-list-element
+  - has item-list-element
   - item_list_element
   - itemListElement
   - has_item_list_element

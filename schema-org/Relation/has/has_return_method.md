@@ -1,6 +1,6 @@
 ---
 aliases:
-  - return-method
+  - has return-method
   - return_method
   - returnMethod
   - has_return_method

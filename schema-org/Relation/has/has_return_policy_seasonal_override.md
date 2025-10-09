@@ -1,6 +1,6 @@
 ---
 aliases:
-  - return-policy-seasonal-override
+  - has return-policy-seasonal-override
   - return_policy_seasonal_override
   - returnPolicySeasonalOverride
   - has_return_policy_seasonal_override

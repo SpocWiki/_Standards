@@ -1,6 +1,6 @@
 ---
 aliases:
-  - release-of
+  - has release-of
   - release_of
   - releaseOf
   - has_release_of

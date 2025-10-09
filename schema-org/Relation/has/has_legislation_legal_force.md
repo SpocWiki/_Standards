@@ -1,6 +1,6 @@
 ---
 aliases:
-  - legislation-legal-force
+  - has legislation-legal-force
   - legislation_legal_force
   - legislationLegalForce
   - has_legislation_legal_force

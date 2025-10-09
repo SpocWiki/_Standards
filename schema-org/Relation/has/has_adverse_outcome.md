@@ -13,6 +13,7 @@ isReadOnly: false
 keywords:
   - adverse
   - outcome
+  - adverseOutcome
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_adverse_outcome

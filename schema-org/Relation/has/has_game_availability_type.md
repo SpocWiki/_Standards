@@ -1,6 +1,6 @@
 ---
 aliases:
-  - game-availability-type
+  - has game-availability-type
   - game_availability_type
   - gameAvailabilityType
   - has_game_availability_type

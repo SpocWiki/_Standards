@@ -1,6 +1,6 @@
 ---
 aliases:
-  - food-event
+  - has food-event
   - food_event
   - foodEvent
   - has_food_event

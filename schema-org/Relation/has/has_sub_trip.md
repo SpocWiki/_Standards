@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sub-trip
+  - has sub-trip
   - sub_trip
   - subTrip
   - has_sub_trip

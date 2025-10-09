@@ -1,6 +1,6 @@
 ---
 aliases:
-  - recipient
+  - has recipient
   - recipient
   - recipient
   - has_recipient

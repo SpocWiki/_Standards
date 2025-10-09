@@ -1,6 +1,6 @@
 ---
 aliases:
-  - workload
+  - has workload
   - workload
   - workload
   - has_workload

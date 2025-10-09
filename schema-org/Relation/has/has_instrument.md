@@ -1,6 +1,6 @@
 ---
 aliases:
-  - instrument
+  - has instrument
   - instrument
   - instrument
   - has_instrument

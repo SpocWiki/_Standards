@@ -1,6 +1,6 @@
 ---
 aliases:
-  - population-type
+  - has population-type
   - population_type
   - populationType
   - has_population_type

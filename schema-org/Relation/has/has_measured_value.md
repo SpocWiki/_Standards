@@ -1,6 +1,6 @@
 ---
 aliases:
-  - measured-value
+  - has measured-value
   - measured_value
   - measuredValue
   - has_measured_value

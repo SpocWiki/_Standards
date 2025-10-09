@@ -13,6 +13,7 @@ keywords:
   - associated
   - claim
   - review
+  - associatedClaimReview
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_associated_claim_review

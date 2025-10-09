@@ -1,6 +1,6 @@
 ---
 aliases:
-  - publisher-imprint
+  - has publisher-imprint
   - publisher_imprint
   - publisherImprint
   - has_publisher_imprint

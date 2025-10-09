@@ -1,6 +1,6 @@
 ---
 aliases:
-  - chemical-role
+  - has chemical-role
   - role_chemical
   - chemicalRole
   - has_role_chemical

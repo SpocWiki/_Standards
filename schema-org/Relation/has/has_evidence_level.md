@@ -1,6 +1,6 @@
 ---
 aliases:
-  - evidence-level
+  - has evidence-level
   - evidence_level
   - evidenceLevel
   - has_evidence_level

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - material
+  - has material
   - material
   - material
   - has_material

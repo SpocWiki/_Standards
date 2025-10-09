@@ -1,6 +1,6 @@
 ---
 aliases:
-  - item-shipped
+  - has item-shipped
   - item_shipped
   - itemShipped
   - has_item_shipped

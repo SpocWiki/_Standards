@@ -1,6 +1,6 @@
 ---
 aliases:
-  - server-status
+  - has server-status
   - server_status
   - serverStatus
   - has_server_status

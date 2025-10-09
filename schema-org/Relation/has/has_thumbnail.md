@@ -1,6 +1,6 @@
 ---
 aliases:
-  - thumbnail
+  - has thumbnail
   - thumbnail
   - thumbnail
   - has_thumbnail

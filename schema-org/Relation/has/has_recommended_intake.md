@@ -1,6 +1,6 @@
 ---
 aliases:
-  - recommended-intake
+  - has recommended-intake
   - recommended_intake
   - recommendedIntake
   - has_recommended_intake

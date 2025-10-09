@@ -1,6 +1,6 @@
 ---
 aliases:
-  - parent-item
+  - has parent-item
   - parent_item
   - parentItem
   - has_parent_item

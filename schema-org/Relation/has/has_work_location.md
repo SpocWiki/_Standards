@@ -1,6 +1,6 @@
 ---
 aliases:
-  - work-location
+  - has work-location
   - work_location
   - workLocation
   - has_work_location

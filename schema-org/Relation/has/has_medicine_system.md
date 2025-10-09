@@ -1,6 +1,6 @@
 ---
 aliases:
-  - medicine-system
+  - has medicine-system
   - medicine_system
   - medicineSystem
   - has_medicine_system

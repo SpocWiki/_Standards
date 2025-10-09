@@ -1,6 +1,6 @@
 ---
 aliases:
-  - organizer
+  - has organizer
   - organizer
   - organizer
   - has_organizer

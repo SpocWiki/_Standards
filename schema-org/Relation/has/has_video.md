@@ -1,6 +1,6 @@
 ---
 aliases:
-  - video
+  - has video
   - video
   - video
   - has_video

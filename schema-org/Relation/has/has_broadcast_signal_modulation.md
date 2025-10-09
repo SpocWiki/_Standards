@@ -1,8 +1,6 @@
 ---
 aliases:
-  - broadcast-signal-modulation
-  - broadcast_signal_modulation
-  - broadcastSignalModulation
+  - has broadcast-signal-modulation
   - has_broadcast_signal_modulation
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - broadcast
   - signal
   - modulation
+  - broadcast_signal_modulation
+  - broadcastSignalModulation
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_broadcast_signal_modulation

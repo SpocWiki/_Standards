@@ -1,6 +1,6 @@
 ---
 aliases:
-  - potential-action
+  - has potential-action
   - potential_action
   - potentialAction
   - has_potential_action

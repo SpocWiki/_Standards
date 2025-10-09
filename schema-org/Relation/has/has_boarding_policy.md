@@ -1,8 +1,6 @@
 ---
 aliases:
-  - boarding-policy
-  - boarding_policy
-  - boardingPolicy
+  - has boarding-policy
   - has_boarding_policy
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - boarding
   - policy
+  - boarding_policy
+  - boardingPolicy
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_boarding_policy

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - instructor
+  - has instructor
   - instructor
   - instructor
   - has_instructor

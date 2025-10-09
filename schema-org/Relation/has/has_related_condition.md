@@ -1,6 +1,6 @@
 ---
 aliases:
-  - related-condition
+  - has related-condition
   - related_condition
   - relatedCondition
   - has_related_condition

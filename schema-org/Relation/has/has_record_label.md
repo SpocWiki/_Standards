@@ -1,6 +1,6 @@
 ---
 aliases:
-  - record-label
+  - has record-label
   - record_label
   - recordLabel
   - has_record_label

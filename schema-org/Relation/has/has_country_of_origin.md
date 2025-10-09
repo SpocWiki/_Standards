@@ -1,9 +1,7 @@
 ---
 aliases:
-- country-of-origin
-- country_of_origin
-- countryOfOrigin
 - has_country_of_origin
+- has country of origin
 - "schema:countryOfOrigin"
 - "dbo:country"
 - "wdt:P495"
@@ -19,6 +17,9 @@ keywords:
 - country
 - of
 - origin
+- country-of-origin
+- country_of_origin
+- countryOfOrigin
 layout: 
 license: "CC BY-SA 4.0"
 linkTitle: has_country_of_origin

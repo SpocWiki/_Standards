@@ -1,6 +1,6 @@
 ---
 aliases:
-  - speakable
+  - has speakable
   - speakable
   - speakable
   - has_speakable

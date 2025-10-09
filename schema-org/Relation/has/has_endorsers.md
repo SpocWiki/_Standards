@@ -1,6 +1,6 @@
 ---
 aliases:
-  - endorsers
+  - has endorsers
   - endorsers
   - endorsers
   - has_endorsers

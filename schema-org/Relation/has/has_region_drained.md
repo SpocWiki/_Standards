@@ -1,6 +1,6 @@
 ---
 aliases:
-  - region-drained
+  - has region-drained
   - region_drained
   - regionDrained
   - has_region_drained

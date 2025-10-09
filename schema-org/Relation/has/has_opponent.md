@@ -1,6 +1,6 @@
 ---
 aliases:
-  - opponent
+  - has opponent
   - opponent
   - opponent
   - has_opponent

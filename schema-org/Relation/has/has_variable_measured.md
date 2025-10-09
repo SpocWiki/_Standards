@@ -1,6 +1,6 @@
 ---
 aliases:
-  - variable-measured
+  - has variable-measured
   - variable_measured
   - variableMeasured
   - has_variable_measured

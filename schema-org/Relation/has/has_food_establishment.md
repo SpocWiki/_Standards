@@ -1,6 +1,6 @@
 ---
 aliases:
-  - food-establishment
+  - has food-establishment
   - food_establishment
   - foodEstablishment
   - has_food_establishment

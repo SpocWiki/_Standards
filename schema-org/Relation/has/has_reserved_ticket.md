@@ -1,6 +1,6 @@
 ---
 aliases:
-  - reserved-ticket
+  - has reserved-ticket
   - reserved_ticket
   - reservedTicket
   - has_reserved_ticket

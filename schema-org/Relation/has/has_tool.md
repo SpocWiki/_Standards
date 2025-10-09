@@ -1,6 +1,6 @@
 ---
 aliases:
-  - tool
+  - has tool
   - tool
   - tool
   - has_tool

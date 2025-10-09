@@ -1,8 +1,6 @@
 ---
 aliases:
-  - cost-category
-  - cost_category
-  - costCategory
+  - has cost-category
   - has_cost_category
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - cost
   - category
+  - cost_category
+  - costCategory
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_cost_category

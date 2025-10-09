@@ -1,6 +1,6 @@
 ---
 aliases:
-  - item-list-order
+  - has item-list-order
   - item_list_order
   - itemListOrder
   - has_item_list_order

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - winner
+  - has winner
   - winner
   - winner
   - has_winner

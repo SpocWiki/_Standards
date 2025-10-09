@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sub-structure
+  - has sub-structure
   - sub_structure
   - subStructure
   - has_sub_structure

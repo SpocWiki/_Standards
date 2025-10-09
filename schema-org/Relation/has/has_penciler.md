@@ -1,6 +1,6 @@
 ---
 aliases:
-  - penciler
+  - has penciler
   - penciler
   - penciler
   - has_penciler

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - educational-alignment
+  - has educational-alignment
   - educational_alignment
   - educationalAlignment
   - has_educational_alignment

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - spoken-by-character
+  - has spoken-by-character
   - spoken_by_character
   - spokenByCharacter
   - has_spoken_by_character

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - observed-node
+  - has observed-node
   - observed_node
   - observedNode
   - has_observed_node

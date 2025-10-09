@@ -1,6 +1,6 @@
 ---
 aliases:
-  - software-add-on
+  - has software-add-on
   - software_add_on
   - softwareAddOn
   - has_software_add_on

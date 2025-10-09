@@ -1,6 +1,6 @@
 ---
 aliases:
-  - nonprofit-status
+  - has nonprofit-status
   - nonprofit_status
   - nonprofitStatus
   - has_nonprofit_status

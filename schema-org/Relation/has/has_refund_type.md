@@ -1,6 +1,6 @@
 ---
 aliases:
-  - refund-type
+  - has refund-type
   - refund_type
   - refundType
   - has_refund_type

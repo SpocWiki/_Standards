@@ -1,6 +1,6 @@
 ---
 aliases:
-  - educational-credential-awarded
+  - has educational-credential-awarded
   - educational_credential_awarded
   - educationalCredentialAwarded
   - has_educational_credential_awarded

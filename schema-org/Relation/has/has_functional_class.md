@@ -1,6 +1,6 @@
 ---
 aliases:
-  - functional-class
+  - has functional-class
   - functional_class
   - functionalClass
   - has_functional_class

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - work-translation
+  - has work-translation
   - work_translation
   - workTranslation
   - has_work_translation

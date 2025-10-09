@@ -1,6 +1,6 @@
 ---
 aliases:
-  - medical-audience
+  - has medical-audience
   - medical_audience
   - medicalAudience
   - has_medical_audience

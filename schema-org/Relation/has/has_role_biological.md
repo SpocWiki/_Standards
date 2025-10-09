@@ -1,6 +1,6 @@
 ---
 aliases:
-  - biological-role
+  - has biological-role
   - role_biological
   - biologicalRole
   - has_role_biological

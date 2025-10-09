@@ -1,6 +1,6 @@
 ---
 aliases:
-  - game-server
+  - has game-server
   - game_server
   - gameServer
   - has_game_server

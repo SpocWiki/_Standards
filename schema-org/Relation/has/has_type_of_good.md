@@ -1,6 +1,6 @@
 ---
 aliases:
-  - type-of-good
+  - has type-of-good
   - type_of_good
   - typeOfGood
   - has_type_of_good

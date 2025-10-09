@@ -1,6 +1,6 @@
 ---
 aliases:
-  - imaging-technique
+  - has imaging-technique
   - imaging_technique
   - imagingTechnique
   - has_imaging_technique

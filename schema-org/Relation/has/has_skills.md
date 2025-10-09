@@ -1,6 +1,6 @@
 ---
 aliases:
-  - skills
+  - has skills
   - skills
   - skills
   - has_skills

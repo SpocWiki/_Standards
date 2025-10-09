@@ -1,6 +1,7 @@
 ---
 aliases:
   - has_before_media
+  - has_before-media
 confidential: public
 cssclasses:
   - Predicate
@@ -12,6 +13,7 @@ isReadOnly: false
 keywords:
   - before
   - media
+  - beforeMedia
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_before_media

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - owns
+  - has owns
   - is_owning
 confidential: public
 cssclasses:

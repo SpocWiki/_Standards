@@ -1,6 +1,6 @@
 ---
 aliases:
-  - reservation-for
+  - has reservation-for
   - reservation_for
   - reservationFor
   - has_reservation_for

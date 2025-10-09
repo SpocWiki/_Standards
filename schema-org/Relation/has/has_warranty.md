@@ -1,6 +1,6 @@
 ---
 aliases:
-  - warranty
+  - has warranty
   - warranty
   - warranty
   - has_warranty

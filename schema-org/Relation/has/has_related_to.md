@@ -1,6 +1,6 @@
 ---
 aliases:
-  - related-to
+  - has related-to
   - related_to
   - relatedTo
   - has_related_to

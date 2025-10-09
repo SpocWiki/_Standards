@@ -1,6 +1,6 @@
 ---
 aliases:
-  - reservation-status
+  - has reservation-status
   - reservation_status
   - reservationStatus
   - has_reservation_status

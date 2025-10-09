@@ -1,8 +1,6 @@
 ---
 aliases:
-  - character-attribute
-  - character_attribute
-  - characterAttribute
+  - has character-attribute
   - has_character_attribute
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - character
   - attribute
+  - character_attribute
+  - characterAttribute
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_character_attribute

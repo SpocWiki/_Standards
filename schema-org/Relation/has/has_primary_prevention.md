@@ -1,6 +1,6 @@
 ---
 aliases:
-  - primary-prevention
+  - has primary-prevention
   - primary_prevention
   - primaryPrevention
   - has_primary_prevention

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - first-performance
+  - has first-performance
   - first_performance
   - firstPerformance
   - has_first_performance

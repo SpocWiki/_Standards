@@ -1,6 +1,6 @@
 ---
 aliases:
-  - unnamed-sources-policy
+  - has unnamed-sources-policy
   - unnamed_sources_policy
   - unnamedSourcesPolicy
   - has_unnamed_sources_policy

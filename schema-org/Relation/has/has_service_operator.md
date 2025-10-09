@@ -1,6 +1,6 @@
 ---
 aliases:
-  - service-operator
+  - has service-operator
   - service_operator
   - serviceOperator
   - has_service_operator

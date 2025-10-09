@@ -1,6 +1,6 @@
 ---
 aliases:
-  - menu-add-on
+  - has menu-add-on
   - menu_add_on
   - menuAddOn
   - has_menu_add_on

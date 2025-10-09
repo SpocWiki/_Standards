@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sponsor
+  - has sponsor
   - sponsor
   - sponsor
   - has_sponsor

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - source-organization
+  - has source-organization
   - source_organization
   - sourceOrganization
   - has_source_organization

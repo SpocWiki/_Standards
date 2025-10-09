@@ -1,6 +1,6 @@
 ---
 aliases:
-  - value-reference
+  - has value-reference
   - value_reference
   - valueReference
   - has_value_reference

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - taxonomic-range
+  - has taxonomic-range
   - taxonomic_range
   - taxonomicRange
   - has_taxonomic_range

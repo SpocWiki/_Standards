@@ -1,6 +1,6 @@
 ---
 aliases:
-  - xpath
+  - has xpath
   - xpath
   - xpath
   - has_xpath

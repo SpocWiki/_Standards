@@ -1,6 +1,6 @@
 ---
 aliases:
-  - energy-efficiency-scale-min
+  - has energy-efficiency-scale-min
   - energy_efficiency_scale_min
   - energyEfficiencyScaleMin
   - has_energy_efficiency_scale_min

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - stage
+  - has stage
   - stage
   - stage
   - has_stage

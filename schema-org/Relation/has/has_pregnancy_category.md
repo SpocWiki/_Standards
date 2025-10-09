@@ -1,6 +1,6 @@
 ---
 aliases:
-  - pregnancy-category
+  - has pregnancy-category
   - pregnancy_category
   - pregnancyCategory
   - has_pregnancy_category

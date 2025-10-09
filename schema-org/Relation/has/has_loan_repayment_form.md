@@ -1,6 +1,6 @@
 ---
 aliases:
-  - loan-repayment-form
+  - has loan-repayment-form
   - loan_repayment_form
   - loanRepaymentForm
   - has_loan_repayment_form

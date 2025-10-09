@@ -1,6 +1,6 @@
 ---
 aliases:
-  - works-for
+  - has works-for
   - works_for
   - worksFor
   - has_works_for

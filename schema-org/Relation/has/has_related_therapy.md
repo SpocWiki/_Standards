@@ -1,6 +1,6 @@
 ---
 aliases:
-  - related-therapy
+  - has related-therapy
   - related_therapy
   - relatedTherapy
   - has_related_therapy

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - insertion
+  - has insertion
   - insertion
   - insertion
   - has_insertion

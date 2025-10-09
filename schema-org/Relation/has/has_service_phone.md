@@ -1,6 +1,6 @@
 ---
 aliases:
-  - service-phone
+  - has service-phone
   - service_phone
   - servicePhone
   - has_service_phone

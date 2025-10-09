@@ -1,6 +1,6 @@
 ---
 aliases:
-  - interaction-type
+  - has interaction-type
   - interaction_type
   - interactionType
   - has_interaction_type

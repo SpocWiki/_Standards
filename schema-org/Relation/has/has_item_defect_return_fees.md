@@ -1,6 +1,6 @@
 ---
 aliases:
-  - item-defect-return-fees
+  - has item-defect-return-fees
   - item_defect_return_fees
   - itemDefectReturnFees
   - has_item_defect_return_fees

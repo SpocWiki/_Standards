@@ -1,6 +1,6 @@
 ---
 aliases:
-  - home-team
+  - has home-team
   - home_team
   - homeTeam
   - has_home_team

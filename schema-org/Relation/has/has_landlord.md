@@ -1,6 +1,6 @@
 ---
 aliases:
-  - landlord
+  - has landlord
   - landlord
   - landlord
   - has_landlord

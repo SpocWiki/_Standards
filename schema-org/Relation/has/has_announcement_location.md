@@ -12,6 +12,7 @@ isReadOnly: false
 keywords:
   - announcement
   - location
+  - announcementLocation
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_announcement_location

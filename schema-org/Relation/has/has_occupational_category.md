@@ -1,6 +1,6 @@
 ---
 aliases:
-  - occupational-category
+  - has occupational-category
   - occupational_category
   - occupationalCategory
   - has_occupational_category

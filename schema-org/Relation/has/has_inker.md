@@ -1,6 +1,6 @@
 ---
 aliases:
-  - inker
+  - has inker
   - inker
   - inker
   - has_inker

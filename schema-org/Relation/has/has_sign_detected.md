@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sign-detected
+  - has sign-detected
   - sign_detected
   - signDetected
   - has_sign_detected

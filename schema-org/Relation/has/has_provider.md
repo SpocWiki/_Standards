@@ -1,6 +1,6 @@
 ---
 aliases:
-  - provider
+  - has provider
   - provider
   - provider
   - has_provider

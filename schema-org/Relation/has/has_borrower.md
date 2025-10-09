@@ -1,8 +1,6 @@
 ---
 aliases:
-  - borrower
-  - borrower
-  - borrower
+  - has borrower
   - has_borrower
 confidential: public
 cssclasses:

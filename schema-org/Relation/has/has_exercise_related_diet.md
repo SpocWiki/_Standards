@@ -1,6 +1,6 @@
 ---
 aliases:
-  - exercise-related-diet
+  - has exercise-related-diet
   - exercise_related_diet
   - exerciseRelatedDiet
   - has_exercise_related_diet

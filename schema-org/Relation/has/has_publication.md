@@ -1,6 +1,6 @@
 ---
 aliases:
-  - publication
+  - has publication
   - publication
   - publication
   - has_publication

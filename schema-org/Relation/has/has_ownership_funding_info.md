@@ -1,6 +1,6 @@
 ---
 aliases:
-  - ownership-funding-info
+  - has ownership-funding-info
   - ownership_funding_info
   - ownershipFundingInfo
   - has_ownership_funding_info

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - healthcare-reporting-data
+  - has healthcare-reporting-data
   - healthcare_reporting_data
   - healthcareReportingData
   - has_healthcare_reporting_data

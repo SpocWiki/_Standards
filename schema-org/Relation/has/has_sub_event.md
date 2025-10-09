@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sub-event
+  - has sub-event
   - sub_event
   - subEvent
   - has_sub_event

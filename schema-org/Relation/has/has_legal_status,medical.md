@@ -1,6 +1,6 @@
 ---
 aliases:
-  - legal-status
+  - has legal-status
   - legal_status
   - legalStatus
   - has_legal_status

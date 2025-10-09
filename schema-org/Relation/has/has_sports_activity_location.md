@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sports-activity-location
+  - has sports-activity-location
   - sports_activity_location
   - sportsActivityLocation
   - has_sports_activity_location

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - masthead
+  - has masthead
   - masthead
   - masthead
   - has_masthead

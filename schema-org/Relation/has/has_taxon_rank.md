@@ -1,6 +1,6 @@
 ---
 aliases:
-  - taxon-rank
+  - has taxon-rank
   - taxon_rank
   - taxonRank
   - has_taxon_rank

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - supporting-data
+  - has supporting-data
   - supporting_data
   - supportingData
   - has_supporting_data

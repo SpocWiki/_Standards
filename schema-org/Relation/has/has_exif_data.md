@@ -1,6 +1,6 @@
 ---
 aliases:
-  - exif-data
+  - has exif-data
   - exif_data
   - exifData
   - has_exif_data

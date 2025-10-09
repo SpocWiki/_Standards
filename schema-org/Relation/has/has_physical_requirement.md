@@ -1,6 +1,6 @@
 ---
 aliases:
-  - physical-requirement
+  - has physical-requirement
   - physical_requirement
   - physicalRequirement
   - has_physical_requirement

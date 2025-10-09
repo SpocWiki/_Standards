@@ -1,6 +1,6 @@
 ---
 aliases:
-  - permission-type
+  - has permission-type
   - permission_type
   - permissionType
   - has_permission_type

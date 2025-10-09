@@ -1,6 +1,6 @@
 ---
 aliases:
-  - nerve-motor
+  - has nerve-motor
   - nerve_motor
   - nerveMotor
   - has_nerve_motor

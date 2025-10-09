@@ -1,6 +1,6 @@
 ---
 aliases:
-  - hiring-organization
+  - has hiring-organization
   - hiring_organization
   - hiringOrganization
   - has_hiring_organization

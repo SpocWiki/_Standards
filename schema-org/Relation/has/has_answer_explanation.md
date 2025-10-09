@@ -12,6 +12,7 @@ isReadOnly: false
 keywords:
   - answer
   - explanation
+  - answerExplanation
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_answer_explanation

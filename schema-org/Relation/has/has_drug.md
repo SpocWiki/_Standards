@@ -1,8 +1,6 @@
 ---
 aliases:
-  - drug
-  - drug
-  - drug
+  - has drug
   - has_drug
 confidential: public
 cssclasses:

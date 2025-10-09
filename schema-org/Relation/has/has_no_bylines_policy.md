@@ -1,6 +1,6 @@
 ---
 aliases:
-  - no-bylines-policy
+  - has no-bylines-policy
   - no_bylines_policy
   - noBylinesPolicy
   - has_no_bylines_policy

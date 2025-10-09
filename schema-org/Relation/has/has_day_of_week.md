@@ -1,8 +1,6 @@
 ---
 aliases:
-  - day-of-week
-  - day_of_week
-  - dayOfWeek
+  - has day-of-week
   - has_day_of_week
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - day
   - of
   - week
+  - day_of_week
+  - dayOfWeek
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_day_of_week

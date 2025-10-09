@@ -1,6 +1,6 @@
 ---
 aliases:
-  - work-featured
+  - has work-featured
   - work_featured
   - workFeatured
   - has_work_featured

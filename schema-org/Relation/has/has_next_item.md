@@ -1,6 +1,6 @@
 ---
 aliases:
-  - next-item
+  - has next-item
   - next_item
   - nextItem
   - has_next_item

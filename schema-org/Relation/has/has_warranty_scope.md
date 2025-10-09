@@ -1,6 +1,6 @@
 ---
 aliases:
-  - warranty-scope
+  - has warranty-scope
   - warranty_scope
   - warrantyScope
   - has_warranty_scope

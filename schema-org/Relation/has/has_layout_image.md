@@ -1,6 +1,6 @@
 ---
 aliases:
-  - layout-image
+  - has layout-image
   - layout_image
   - layoutImage
   - has_layout_image

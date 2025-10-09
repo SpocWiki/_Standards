@@ -12,6 +12,7 @@ isReadOnly: false
 keywords:
   - arrival
   - station
+  - arrivalStation
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_arrival_station

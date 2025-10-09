@@ -1,6 +1,6 @@
 ---
 aliases:
-  - order-item-status
+  - has order-item-status
   - order_item_status
   - orderItemStatus
   - has_order_item_status

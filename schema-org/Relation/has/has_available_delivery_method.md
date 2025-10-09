@@ -13,6 +13,7 @@ keywords:
   - available
   - delivery
   - method
+  - availableDeliveryMethod
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_available_delivery_method

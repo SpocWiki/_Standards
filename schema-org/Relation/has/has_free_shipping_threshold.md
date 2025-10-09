@@ -1,6 +1,6 @@
 ---
 aliases:
-  - free-shipping-threshold
+  - has free-shipping-threshold
   - free_shipping_threshold
   - freeShippingThreshold
   - has_free_shipping_threshold

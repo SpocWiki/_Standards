@@ -1,6 +1,6 @@
 ---
 aliases:
-  - passenger-priority-status
+  - has passenger-priority-status
   - passenger_priority_status
   - passengerPriorityStatus
   - has_passenger_priority_status

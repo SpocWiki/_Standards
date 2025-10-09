@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-defined-term
-  - defined_term
   - hasDefinedTerm
   - has_defined_term
 confidential: public
@@ -15,6 +14,8 @@ isReadOnly: false
 keywords:
   - defined
   - term
+  - defined_term
+  - definedTerm
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_defined_term

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - loser
+  - has loser
   - loser
   - loser
   - has_loser

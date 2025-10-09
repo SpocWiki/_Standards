@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sports-event
+  - has sports-event
   - sports_event
   - sportsEvent
   - has_sports_event

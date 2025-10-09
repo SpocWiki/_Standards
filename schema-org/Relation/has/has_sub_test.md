@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sub-test
+  - has sub-test
   - sub_test
   - subTest
   - has_sub_test

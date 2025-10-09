@@ -1,8 +1,6 @@
 ---
 aliases:
-  - diagram
-  - diagram
-  - diagram
+  - has diagram
   - has_diagram
 confidential: public
 cssclasses:

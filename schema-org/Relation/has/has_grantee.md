@@ -1,6 +1,6 @@
 ---
 aliases:
-  - grantee
+  - has grantee
   - grantee
   - grantee
   - has_grantee

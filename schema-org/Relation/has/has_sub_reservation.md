@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sub-reservation
+  - has sub-reservation
   - sub_reservation
   - subReservation
   - has_sub_reservation

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - photo
+  - has photo
   - photo
   - photo
   - has_photo

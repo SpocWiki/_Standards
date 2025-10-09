@@ -1,6 +1,6 @@
 ---
 aliases:
-  - quest
+  - has quest
   - quest
   - quest
   - has_quest

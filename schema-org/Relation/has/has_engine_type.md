@@ -1,6 +1,6 @@
 ---
 aliases:
-  - engine-type
+  - has engine-type
   - engine_type
   - engineType
   - has_engine_type

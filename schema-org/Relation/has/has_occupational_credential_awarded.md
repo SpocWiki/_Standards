@@ -1,6 +1,6 @@
 ---
 aliases:
-  - occupational-credential-awarded
+  - has occupational-credential-awarded
   - occupational_credential_awarded
   - occupationalCredentialAwarded
   - has_occupational_credential_awarded

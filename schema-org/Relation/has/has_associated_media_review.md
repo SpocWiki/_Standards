@@ -13,6 +13,7 @@ keywords:
   - associated
   - media
   - review
+  - associatedMediaReview
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_associated_media_review

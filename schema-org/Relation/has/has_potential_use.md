@@ -1,6 +1,6 @@
 ---
 aliases:
-  - potential-use
+  - has potential-use
   - potential_use
   - potentialUse
   - has_potential_use

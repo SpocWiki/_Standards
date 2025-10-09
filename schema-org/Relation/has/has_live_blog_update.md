@@ -1,6 +1,6 @@
 ---
 aliases:
-  - live-blog-update
+  - has live-blog-update
   - live_blog_update
   - liveBlogUpdate
   - has_live_blog_update

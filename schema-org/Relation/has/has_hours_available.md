@@ -1,6 +1,6 @@
 ---
 aliases:
-  - hours-available
+  - has hours-available
   - hours_available
   - hoursAvailable
   - has_hours_available

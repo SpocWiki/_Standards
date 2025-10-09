@@ -1,6 +1,6 @@
 ---
 aliases:
-  - order-delivery
+  - has order-delivery
   - order_delivery
   - orderDelivery
   - has_order_delivery

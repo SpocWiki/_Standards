@@ -1,6 +1,6 @@
 ---
 aliases:
-  - suggested-answer
+  - has suggested-answer
   - suggested_answer
   - suggestedAnswer
   - has_suggested_answer

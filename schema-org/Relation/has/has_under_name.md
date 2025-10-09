@@ -1,6 +1,6 @@
 ---
 aliases:
-  - under-name
+  - has under-name
   - under_name
   - underName
   - has_under_name

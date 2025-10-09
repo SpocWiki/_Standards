@@ -1,6 +1,6 @@
 ---
 aliases:
-  - step
+  - has step
   - step
   - step
   - has_step

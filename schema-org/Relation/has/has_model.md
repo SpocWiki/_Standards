@@ -1,6 +1,6 @@
 ---
 aliases:
-  - model
+  - has model
   - model
   - model
   - has_model

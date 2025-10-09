@@ -1,8 +1,6 @@
 ---
 aliases:
-  - destroyer
-  - destroyer
-  - destroyer
+  - has destroyer
   - has_destroyer
 confidential: public
 cssclasses:

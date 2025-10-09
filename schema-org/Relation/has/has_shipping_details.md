@@ -1,6 +1,6 @@
 ---
 aliases:
-  - shipping-details
+  - has shipping-details
   - shipping_details
   - shippingDetails
   - has_shipping_details

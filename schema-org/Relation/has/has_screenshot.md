@@ -1,6 +1,6 @@
 ---
 aliases:
-  - screenshot
+  - has screenshot
   - screenshot
   - screenshot
   - has_screenshot

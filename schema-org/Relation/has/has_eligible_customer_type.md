@@ -1,6 +1,6 @@
 ---
 aliases:
-  - eligible-customer-type
+  - has eligible-customer-type
   - eligible_customer_type
   - eligibleCustomerType
   - has_eligible_customer_type

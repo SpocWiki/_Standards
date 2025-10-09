@@ -1,6 +1,6 @@
 ---
 aliases:
-  - geographic-area
+  - has geographic-area
   - geographic_area
   - geographicArea
   - has_geographic_area

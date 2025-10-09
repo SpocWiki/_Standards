@@ -1,6 +1,6 @@
 ---
 aliases:
-  - qualifications
+  - has qualifications
   - qualifications
   - qualifications
   - has_qualifications

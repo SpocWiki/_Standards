@@ -1,6 +1,6 @@
 ---
 aliases:
-  - to-recipient
+  - has to-recipient
   - to_recipient
   - toRecipient
   - has_to_recipient

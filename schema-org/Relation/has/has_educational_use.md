@@ -1,6 +1,6 @@
 ---
 aliases:
-  - educational-use
+  - has educational-use
   - educational_use
   - educationalUse
   - has_educational_use

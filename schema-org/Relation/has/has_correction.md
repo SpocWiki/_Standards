@@ -1,8 +1,6 @@
 ---
 aliases:
-  - correction
-  - correction
-  - correction
+  - has correction
   - has_correction
 confidential: public
 cssclasses:

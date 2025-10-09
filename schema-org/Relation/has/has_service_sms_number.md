@@ -1,6 +1,6 @@
 ---
 aliases:
-  - service-sms-number
+  - has service-sms-number
   - service_sms_number
   - serviceSmsNumber
   - has_service_sms_number

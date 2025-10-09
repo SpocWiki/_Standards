@@ -1,6 +1,6 @@
 ---
 aliases:
-  - merchant
+  - has merchant
   - merchant
   - merchant
   - has_merchant

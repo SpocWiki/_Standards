@@ -1,6 +1,6 @@
 ---
 aliases:
-  - map-type
+  - has map-type
   - map_type
   - mapType
   - has_map_type

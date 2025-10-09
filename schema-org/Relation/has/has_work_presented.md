@@ -1,6 +1,6 @@
 ---
 aliases:
-  - work-presented
+  - has work-presented
   - work_presented
   - workPresented
   - has_work_presented

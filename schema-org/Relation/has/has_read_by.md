@@ -1,6 +1,6 @@
 ---
 aliases:
-  - read-by
+  - has read-by
   - read_by
   - readBy
   - has_read_by

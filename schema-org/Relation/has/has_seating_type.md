@@ -1,6 +1,6 @@
 ---
 aliases:
-  - seating-type
+  - has seating-type
   - seating_type
   - seatingType
   - has_seating_type

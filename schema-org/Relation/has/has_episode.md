@@ -1,6 +1,6 @@
 ---
 aliases:
-  - episode
+  - has episode
   - episode
   - episode
   - has_episode

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - fuel-type
+  - has fuel-type
   - fuel_type
   - fuelType
   - has_fuel_type

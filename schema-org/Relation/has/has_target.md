@@ -1,6 +1,6 @@
 ---
 aliases:
-  - target
+  - has target
   - target
   - target
   - has_target

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - measured-property
+  - has measured-property
   - measured_property
   - measuredProperty
   - has_measured_property

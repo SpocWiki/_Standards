@@ -1,6 +1,6 @@
 ---
 aliases:
-  - item-condition
+  - has item-condition
   - item_condition
   - itemCondition
   - has_item_condition

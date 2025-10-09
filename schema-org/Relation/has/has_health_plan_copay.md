@@ -1,6 +1,6 @@
 ---
 aliases:
-  - health-plan-copay
+  - has health-plan-copay
   - health_plan_copay
   - healthPlanCopay
   - has_health_plan_copay

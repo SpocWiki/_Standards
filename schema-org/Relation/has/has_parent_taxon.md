@@ -1,6 +1,6 @@
 ---
 aliases:
-  - parent-taxon
+  - has parent-taxon
   - parent_taxon
   - parentTaxon
   - has_parent_taxon

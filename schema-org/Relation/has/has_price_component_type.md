@@ -1,6 +1,6 @@
 ---
 aliases:
-  - price-component-type
+  - has price-component-type
   - price_component_type
   - priceComponentType
   - has_price_component_type

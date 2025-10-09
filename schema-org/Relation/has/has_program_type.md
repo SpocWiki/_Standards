@@ -1,6 +1,6 @@
 ---
 aliases:
-  - program-type
+  - has program-type
   - program_type
   - programType
   - has_program_type

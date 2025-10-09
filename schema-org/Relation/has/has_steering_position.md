@@ -1,6 +1,6 @@
 ---
 aliases:
-  - steering-position
+  - has steering-position
   - steering_position
   - steeringPosition
   - has_steering_position

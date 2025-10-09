@@ -1,6 +1,6 @@
 ---
 aliases:
-  - maximum-intake
+  - has maximum-intake
   - maximum_intake
   - maximumIntake
   - has_maximum_intake

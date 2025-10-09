@@ -1,6 +1,6 @@
 ---
 aliases:
-  - education-requirements
+  - has education-requirements
   - education_requirements
   - educationRequirements
   - has_education_requirements

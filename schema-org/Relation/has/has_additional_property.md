@@ -14,6 +14,7 @@ isReadOnly: false
 keywords:
   - additional
   - property
+  - additionalProperty
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_additional_property

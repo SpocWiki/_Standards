@@ -1,6 +1,6 @@
 ---
 aliases:
-  - price-specification
+  - has price-specification
   - price_specification
   - priceSpecification
   - has_price_specification

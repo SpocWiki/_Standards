@@ -1,6 +1,6 @@
 ---
 aliases:
-  - work-performed
+  - has work-performed
   - work_performed
   - workPerformed
   - has_work_performed

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - work-example
+  - has work-example
   - work_example
   - workExample
   - has_work_example

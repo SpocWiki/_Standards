@@ -1,6 +1,6 @@
 ---
 aliases:
-  - entertainment-business
+  - has entertainment-business
   - entertainment_business
   - entertainmentBusiness
   - has_entertainment_business

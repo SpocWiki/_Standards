@@ -1,6 +1,6 @@
 ---
 aliases:
-  - recorded-as
+  - has recorded-as
   - recorded_as
   - recordedAs
   - has_recorded_as

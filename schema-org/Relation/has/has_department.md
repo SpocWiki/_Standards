@@ -1,8 +1,6 @@
 ---
 aliases:
-  - department
-  - department
-  - department
+  - has department
   - has_department
 confidential: public
 cssclasses:

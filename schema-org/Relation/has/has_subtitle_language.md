@@ -1,6 +1,6 @@
 ---
 aliases:
-  - subtitle-language
+  - has subtitle-language
   - subtitle_language
   - subtitleLanguage
   - has_subtitle_language

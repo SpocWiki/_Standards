@@ -1,6 +1,6 @@
 ---
 aliases:
-  - price-type
+  - has price-type
   - price_type
   - priceType
   - has_price_type

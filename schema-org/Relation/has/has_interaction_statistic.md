@@ -1,6 +1,6 @@
 ---
 aliases:
-  - interaction-statistic
+  - has interaction-statistic
   - interaction_statistic
   - interactionStatistic
   - has_interaction_statistic

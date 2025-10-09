@@ -1,6 +1,6 @@
 ---
 aliases:
-  - special-opening-hours-specification
+  - has special-opening-hours-specification
   - special_opening_hours_specification
   - specialOpeningHoursSpecification
   - has_special_opening_hours_specification

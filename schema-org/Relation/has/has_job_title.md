@@ -1,6 +1,6 @@
 ---
 aliases:
-  - job-title
+  - has job-title
   - job_title
   - jobTitle
   - has_job_title

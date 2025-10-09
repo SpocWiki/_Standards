@@ -1,6 +1,6 @@
 ---
 aliases:
-  - study-location
+  - has study-location
   - study_location
   - studyLocation
   - has_study_location

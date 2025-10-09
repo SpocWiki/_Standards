@@ -1,6 +1,6 @@
 ---
 aliases:
-  - music-by
+  - has music-by
   - music_by
   - musicBy
   - has_music_by

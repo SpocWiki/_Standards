@@ -1,8 +1,6 @@
 ---
 aliases:
-  - css-selector
-  - css_selector
-  - cssSelector
+  - has css-selector
   - has_css_selector
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - css
   - selector
+  - css_selector
+  - cssSelector
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_css_selector

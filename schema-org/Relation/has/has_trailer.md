@@ -1,6 +1,6 @@
 ---
 aliases:
-  - trailer
+  - has trailer
   - trailer
   - trailer
   - has_trailer

@@ -12,6 +12,7 @@ isReadOnly: false
 keywords:
   - away
   - team
+  - awayTeam
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_away_team

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - first-appearance
+  - has first-appearance
   - first_appearance
   - firstAppearance
   - has_first_appearance_in

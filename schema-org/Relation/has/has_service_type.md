@@ -1,6 +1,6 @@
 ---
 aliases:
-  - service-type
+  - has service-type
   - service_type
   - serviceType
   - has_service_type

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - recipe-instructions
+  - has recipe-instructions
   - recipe_instructions
   - recipeInstructions
   - has_recipe_instructions

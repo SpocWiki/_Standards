@@ -1,6 +1,6 @@
 ---
 aliases:
-  - legislation-type
+  - has legislation-type
   - legislation_type
   - legislationType
   - has_legislation_type

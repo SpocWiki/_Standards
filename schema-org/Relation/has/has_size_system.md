@@ -1,6 +1,6 @@
 ---
 aliases:
-  - size-system
+  - has size-system
   - size_system
   - sizeSystem
   - has_size_system

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - lodging-unit-type
+  - has lodging-unit-type
   - lodging_unit_type
   - lodgingUnitType
   - has_lodging_unit_type

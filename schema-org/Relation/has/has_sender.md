@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sender
+  - has sender
   - sender
   - sender
   - has_sender

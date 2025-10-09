@@ -1,6 +1,6 @@
 ---
 aliases:
-  - event-schedule
+  - has event-schedule
   - event_schedule
   - eventSchedule
   - has_event_schedule

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - music-arrangement
+  - has music-arrangement
   - music_arrangement
   - musicArrangement
   - has_music_arrangement

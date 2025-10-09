@@ -1,6 +1,6 @@
 ---
 aliases:
-  - program-prerequisites
+  - has program-prerequisites
   - program_prerequisites
   - programPrerequisites
   - has_program_prerequisites

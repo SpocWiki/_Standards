@@ -1,6 +1,6 @@
 ---
 aliases:
-  - lyricist
+  - has lyricist
   - lyricist
   - lyricist
   - has_lyricist

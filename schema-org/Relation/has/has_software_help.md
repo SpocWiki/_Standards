@@ -1,6 +1,6 @@
 ---
 aliases:
-  - software-help
+  - has software-help
   - software_help
   - softwareHelp
   - has_software_help

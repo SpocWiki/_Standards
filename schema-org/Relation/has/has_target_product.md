@@ -1,6 +1,6 @@
 ---
 aliases:
-  - target-product
+  - has target-product
   - target_product
   - targetProduct
   - has_target_product

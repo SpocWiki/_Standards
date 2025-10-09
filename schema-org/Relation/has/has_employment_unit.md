@@ -1,6 +1,6 @@
 ---
 aliases:
-  - employment-unit
+  - has employment-unit
   - employment_unit
   - employmentUnit
   - has_employment_unit

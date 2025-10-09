@@ -1,6 +1,6 @@
 ---
 aliases:
-  - energy-efficiency-scale-max
+  - has energy-efficiency-scale-max
   - energy_efficiency_scale_max
   - energyEfficiencyScaleMax
   - has_energy_efficiency_scale_max

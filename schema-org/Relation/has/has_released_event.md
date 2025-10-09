@@ -1,6 +1,6 @@
 ---
 aliases:
-  - released-event
+  - has released-event
   - released_event
   - releasedEvent
   - has_released_event

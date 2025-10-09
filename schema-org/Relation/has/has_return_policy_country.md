@@ -1,6 +1,6 @@
 ---
 aliases:
-  - return-policy-country
+  - has return-policy-country
   - return_policy_country
   - returnPolicyCountry
   - has_return_policy_country

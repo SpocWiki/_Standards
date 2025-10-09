@@ -1,8 +1,6 @@
 ---
 aliases:
-  - departure-boat-terminal
-  - departure_boat_terminal
-  - departureBoatTerminal
+  - has departure-boat-terminal
   - has_departure_boat_terminal
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - departure
   - boat
   - terminal
+  - departure_boat_terminal
+  - departureBoatTerminal
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_departure_boat_terminal

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - play-mode
+  - has play-mode
   - play_mode
   - playMode
   - has_play_mode

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - suitable-for-diet
+  - has suitable-for-diet
   - suitable_for_diet
   - suitableForDiet
   - has_suitable_for_diet

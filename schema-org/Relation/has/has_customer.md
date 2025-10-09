@@ -1,8 +1,6 @@
 ---
 aliases:
-  - customer
-  - customer
-  - customer
+  - has customer
   - has_customer
 confidential: public
 cssclasses:

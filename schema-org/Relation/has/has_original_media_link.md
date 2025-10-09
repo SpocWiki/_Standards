@@ -1,6 +1,6 @@
 ---
 aliases:
-  - original-media-link
+  - has original-media-link
   - original_media_link
   - originalMediaLink
   - has_original_media_link

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - preparation
+  - has preparation
   - preparation
   - preparation
   - has_preparation

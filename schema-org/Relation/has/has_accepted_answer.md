@@ -17,6 +17,7 @@ isReadOnly: false
 keywords:
   - accepted
   - answer
+  - acceptedAnswer
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_accepted_answer

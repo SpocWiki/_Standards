@@ -1,6 +1,6 @@
 ---
 aliases:
-  - recording-of
+  - has recording-of
   - recording_of
   - recordingOf
   - has_recording_of

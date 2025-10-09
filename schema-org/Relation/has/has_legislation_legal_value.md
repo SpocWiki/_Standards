@@ -1,6 +1,6 @@
 ---
 aliases:
-  - legislation-legal-value
+  - has legislation-legal-value
   - legislation_legal_value
   - legislationLegalValue
   - has_legislation_legal_value

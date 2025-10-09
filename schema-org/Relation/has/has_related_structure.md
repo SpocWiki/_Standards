@@ -1,6 +1,6 @@
 ---
 aliases:
-  - related-structure
+  - has related-structure
   - related_structure
   - relatedStructure
   - has_related_structure

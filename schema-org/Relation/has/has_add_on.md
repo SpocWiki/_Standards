@@ -10,6 +10,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - addOn
   - add
   - on
 layout:

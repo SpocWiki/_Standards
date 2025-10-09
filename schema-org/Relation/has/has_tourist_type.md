@@ -1,6 +1,6 @@
 ---
 aliases:
-  - tourist-type
+  - has tourist-type
   - tourist_type
   - touristType
   - has_tourist_type

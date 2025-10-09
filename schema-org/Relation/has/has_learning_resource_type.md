@@ -1,6 +1,6 @@
 ---
 aliases:
-  - learning-resource-type
+  - has learning-resource-type
   - learning_resource_type
   - learningResourceType
   - has_learning_resource_type

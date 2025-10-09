@@ -1,6 +1,6 @@
 ---
 aliases:
-  - recorded-in
+  - has recorded-in
   - recorded_in
   - recordedIn
   - has_recorded_in

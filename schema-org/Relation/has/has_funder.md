@@ -1,6 +1,6 @@
 ---
 aliases:
-  - funder
+  - has funder
   - funder
   - funder
   - has_funder

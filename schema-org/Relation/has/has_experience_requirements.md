@@ -1,6 +1,6 @@
 ---
 aliases:
-  - experience-requirements
+  - has experience-requirements
   - experience_requirements
   - experienceRequirements
   - has_experience_requirements
