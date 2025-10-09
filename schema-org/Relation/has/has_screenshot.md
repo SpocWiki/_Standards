@@ -1,8 +1,6 @@
 ---
 aliases:
-  - screenshot
-  - screenshot
-  - screenshot
+  - has screenshot
   - has_screenshot
 confidential: public
 cssclasses:

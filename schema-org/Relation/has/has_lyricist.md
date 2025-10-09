@@ -1,8 +1,6 @@
 ---
 aliases:
-  - lyricist
-  - lyricist
-  - lyricist
+  - has lyricist
   - has_lyricist
 confidential: public
 cssclasses:

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - supporting-data
-  - supporting_data
+  - has supporting-data
   - supportingData
   - has_supporting_data
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - supporting_data
   - supporting
   - data
 layout:

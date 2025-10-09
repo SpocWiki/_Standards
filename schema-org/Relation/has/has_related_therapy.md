@@ -1,7 +1,6 @@
 ---
 aliases:
-  - related-therapy
-  - related_therapy
+  - has related-therapy
   - relatedTherapy
   - has_related_therapy
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - related_therapy
   - related
   - therapy
 layout:

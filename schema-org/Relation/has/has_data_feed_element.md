@@ -1,8 +1,6 @@
 ---
 aliases:
-  - data-feed-element
-  - data_feed_element
-  - dataFeedElement
+  - has data-feed-element
   - has_data_feed_element
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - data
   - feed
   - element
+  - data_feed_element
+  - dataFeedElement
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_data_feed_element

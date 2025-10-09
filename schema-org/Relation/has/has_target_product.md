@@ -1,7 +1,6 @@
 ---
 aliases:
-  - target-product
-  - target_product
+  - has target-product
   - targetProduct
   - has_target_product
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - target_product
   - target
   - product
 layout:

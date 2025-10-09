@@ -1,8 +1,6 @@
 ---
 aliases:
-  - masthead
-  - masthead
-  - masthead
+  - has masthead
   - has_masthead
 confidential: public
 cssclasses:

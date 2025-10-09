@@ -1,7 +1,6 @@
 ---
 aliases:
-  - sports-activity-location
-  - sports_activity_location
+  - has sports-activity-location
   - sportsActivityLocation
   - has_sports_activity_location
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - sports_activity_location
   - sports
   - activity
   - location

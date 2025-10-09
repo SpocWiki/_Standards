@@ -1,7 +1,6 @@
 ---
 aliases:
-  - government-benefits-info
-  - government_benefits_info
+  - has government-benefits-info
   - governmentBenefitsInfo
   - has_government_benefits_info
 confidential: public
@@ -16,6 +15,7 @@ keywords:
   - government
   - benefits
   - info
+  - government_benefits_info
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_government_benefits_info

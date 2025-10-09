@@ -1,8 +1,5 @@
 ---
 aliases:
-  - availability
-  - availability
-  - availability
   - has_availability
 confidential: public
 cssclasses:

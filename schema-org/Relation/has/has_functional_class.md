@@ -1,7 +1,6 @@
 ---
 aliases:
-  - functional-class
-  - functional_class
+  - has functional-class
   - functionalClass
   - has_functional_class
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - functional
   - class
+  - functional_class
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_functional_class

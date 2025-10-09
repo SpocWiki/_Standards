@@ -1,8 +1,6 @@
 ---
 aliases:
-  - preparation
-  - preparation
-  - preparation
+  - has preparation
   - has_preparation
 confidential: public
 cssclasses:

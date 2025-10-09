@@ -1,8 +1,6 @@
 ---
 aliases:
-  - competency-required
-  - competency_required
-  - competencyRequired
+  - has competency-required
   - has_competency_required
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - competency
   - required
+  - competency_required
+  - competencyRequired
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_competency_required

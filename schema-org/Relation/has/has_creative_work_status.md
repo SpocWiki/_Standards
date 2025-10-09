@@ -1,8 +1,6 @@
 ---
 aliases:
-  - creative-work-status
-  - creative_work_status
-  - creativeWorkStatus
+  - has creative-work-status
   - has_creative_work_status
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - creative
   - work
   - status
+  - creative_work_status
+  - creativeWorkStatus
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_creative_work_status

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - healthcare-reporting-data
-  - healthcare_reporting_data
+  - has healthcare-reporting-data
   - healthcareReportingData
   - has_healthcare_reporting_data
 confidential: public
@@ -16,6 +15,7 @@ keywords:
   - healthcare
   - reporting
   - data
+  - healthcare_reporting_data
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_healthcare_reporting_data

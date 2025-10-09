@@ -1,8 +1,6 @@
 ---
 aliases:
-  - blood-supply
-  - blood_supply
-  - bloodSupply
+  - has blood-supply
   - has_blood_supply
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - blood
   - supply
+  - blood_supply
+  - bloodSupply
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_blood_supply

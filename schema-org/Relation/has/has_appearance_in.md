@@ -1,9 +1,7 @@
 ---
 aliases:
-  - appearance
-  - appearance
-  - appearance
   - has_appearance_in
+  - has_appeared_in
   - is_appearing_in
 confidential: public
 cssclasses:
@@ -15,6 +13,7 @@ isDeleted: false
 isReadOnly: false
 keywords:
   - appearance
+  - appearanceIn
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_appearance_in

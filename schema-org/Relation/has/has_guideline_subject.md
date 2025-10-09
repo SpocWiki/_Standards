@@ -1,7 +1,6 @@
 ---
 aliases:
-  - guideline-subject
-  - guideline_subject
+  - has guideline-subject
   - guidelineSubject
   - has_guideline_subject
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - guideline_subject
   - guideline
   - subject
 layout:

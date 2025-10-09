@@ -1,8 +1,5 @@
 ---
 aliases:
-  - available-service
-  - available_service
-  - availableService
   - has_available_service
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - available
   - service
+  - availableService
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_available_service

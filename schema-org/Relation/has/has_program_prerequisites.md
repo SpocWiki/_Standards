@@ -1,7 +1,6 @@
 ---
 aliases:
-  - program-prerequisites
-  - program_prerequisites
+  - has program-prerequisites
   - programPrerequisites
   - has_program_prerequisites
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - program_prerequisites
   - program
   - prerequisites
 layout:

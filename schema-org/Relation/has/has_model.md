@@ -1,8 +1,6 @@
 ---
 aliases:
-  - model
-  - model
-  - model
+  - has model
   - has_model
 confidential: public
 cssclasses:

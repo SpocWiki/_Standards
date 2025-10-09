@@ -1,8 +1,6 @@
 ---
 aliases:
-  - industry
-  - industry
-  - industry
+  - has industry
   - has_industry
 confidential: public
 cssclasses:

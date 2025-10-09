@@ -1,8 +1,5 @@
 ---
 aliases:
-  - album-release
-  - album_release
-  - albumRelease
   - has_album_release
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - album
   - release
+  - albumRelease
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_album_release

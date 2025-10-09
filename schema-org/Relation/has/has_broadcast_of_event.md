@@ -1,8 +1,6 @@
 ---
 aliases:
-  - broadcast-of-event
-  - broadcast_of_event
-  - broadcastOfEvent
+  - has broadcast-of-event
   - has_broadcast_of_event
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - broadcast
   - of
   - event
+  - broadcast_of_event
+  - broadcastOfEvent
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_broadcast_of_event

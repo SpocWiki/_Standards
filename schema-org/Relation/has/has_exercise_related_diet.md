@@ -1,7 +1,6 @@
 ---
 aliases:
-  - exercise-related-diet
-  - exercise_related_diet
+  - has exercise-related-diet
   - exerciseRelatedDiet
   - has_exercise_related_diet
 confidential: public
@@ -16,6 +15,7 @@ keywords:
   - exercise
   - related
   - diet
+  - exercise_related_diet
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_exercise_related_diet

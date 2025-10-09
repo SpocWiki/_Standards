@@ -1,7 +1,6 @@
 ---
 aliases:
-  - related-condition
-  - related_condition
+  - has related-condition
   - relatedCondition
   - has_related_condition
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - related_condition
   - related
   - condition
 layout:

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - mission-coverage-priorities-policy
-  - mission_coverage_priorities_policy
+  - has mission-coverage-priorities-policy
   - missionCoveragePrioritiesPolicy
   - has_mission_coverage_priorities_policy
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - mission_coverage_priorities_policy
   - mission
   - coverage
   - priorities

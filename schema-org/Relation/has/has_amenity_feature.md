@@ -1,8 +1,5 @@
 ---
 aliases:
-  - amenity-feature
-  - amenity_feature
-  - amenityFeature
   - has_amenity_feature
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - amenity
   - feature
+  - amenityFeature
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_amenity_feature

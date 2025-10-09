@@ -1,6 +1,5 @@
 ---
 aliases:
-- spouse
 - has_spouse
 - "schema:spouse"
 - "dbo:spouse"

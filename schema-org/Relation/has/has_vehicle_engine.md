@@ -1,7 +1,6 @@
 ---
 aliases:
-  - vehicle-engine
-  - vehicle_engine
+  - has vehicle-engine
   - vehicleEngine
   - has_vehicle_engine
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - vehicle_engine
   - vehicle
   - engine
 layout:

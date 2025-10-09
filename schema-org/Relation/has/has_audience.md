@@ -1,6 +1,5 @@
 ---
 aliases:
-- audience
 - has_audience
 - "schema:audience"
 - "dbo:audience"

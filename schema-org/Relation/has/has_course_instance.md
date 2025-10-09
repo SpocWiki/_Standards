@@ -1,8 +1,6 @@
 ---
 aliases:
   - has-course-instance
-  - course_instance
-  - hasCourseInstance
   - has_course_instance
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - course
   - instance
+  - course_instance
+  - hasCourseInstance
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_course_instance

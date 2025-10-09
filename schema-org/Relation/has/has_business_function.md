@@ -1,8 +1,6 @@
 ---
 aliases:
-  - business-function
-  - business_function
-  - businessFunction
+  - has business-function
   - has_business_function
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - business
   - function
+  - business_function
+  - businessFunction
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_business_function

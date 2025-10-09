@@ -1,8 +1,6 @@
 ---
 aliases:
-  - body-type
-  - body_type
-  - bodyType
+  - has body-type
   - has_body_type
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - body
   - type
+  - body_type
+  - bodyType
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_body_type

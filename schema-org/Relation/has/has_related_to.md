@@ -1,7 +1,6 @@
 ---
 aliases:
-  - related-to
-  - related_to
+  - has related-to
   - relatedTo
   - has_related_to
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - related_to
   - related
   - to
 layout:

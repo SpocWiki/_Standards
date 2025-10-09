@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-health-aspect
-  - health_aspect
   - hasHealthAspect
   - has_health_aspect
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - health_aspect
   - health
   - aspect
 layout:

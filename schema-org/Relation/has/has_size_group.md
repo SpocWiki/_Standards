@@ -1,7 +1,6 @@
 ---
 aliases:
-  - size-group
-  - size_group
+  - has size-group
   - sizeGroup
   - has_size_group
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - size_group
   - size
   - group
 layout:

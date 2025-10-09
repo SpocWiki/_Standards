@@ -1,8 +1,5 @@
 ---
 aliases:
-- nationality
-- nationality
-- nationality
 - has_nationality
 - "schema:nationality"
 - "dbo:nationality"

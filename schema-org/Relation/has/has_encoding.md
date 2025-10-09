@@ -1,6 +1,6 @@
 ---
 aliases:
-  - encoding
+  - has encoding
   - has_encoding
 confidential: public
 cssclasses:

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - identifying-test
-  - identifying_test
+  - has identifying-test
   - identifyingTest
   - has_identifying_test
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - identifying_test
   - identifying
   - test
 layout:

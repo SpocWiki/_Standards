@@ -1,7 +1,6 @@
 ---
 aliases:
-  - recorded-as
-  - recorded_as
+  - has recorded-as
   - recordedAs
   - has_recorded_as
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - recorded_as
   - recorded
   - as
 layout:

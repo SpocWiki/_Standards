@@ -1,8 +1,6 @@
 ---
 aliases:
-  - object
-  - object
-  - object
+  - has object
   - has_object
 confidential: public
 cssclasses:

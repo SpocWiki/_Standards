@@ -1,8 +1,6 @@
 ---
 aliases:
-  - question
-  - question
-  - question
+  - has question
   - has_question
 confidential: public
 cssclasses:

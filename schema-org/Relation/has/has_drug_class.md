@@ -1,8 +1,6 @@
 ---
 aliases:
-  - drug-class
-  - drug_class
-  - drugClass
+  - has drug-class
   - has_drug_class
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - drug
   - class
+  - drug_class
+  - drugClass
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_drug_class

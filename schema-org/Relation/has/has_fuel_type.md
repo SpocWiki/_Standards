@@ -1,7 +1,6 @@
 ---
 aliases:
-  - fuel-type
-  - fuel_type
+  - has fuel-type
   - fuelType
   - has_fuel_type
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - fuel
   - type
+  - fuel_type
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_fuel_type

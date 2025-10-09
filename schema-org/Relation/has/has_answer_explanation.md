@@ -1,8 +1,5 @@
 ---
 aliases:
-  - answer-explanation
-  - answer_explanation
-  - answerExplanation
   - has_answer_explanation
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - answer
   - explanation
+  - answerExplanation
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_answer_explanation

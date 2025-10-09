@@ -1,8 +1,6 @@
 ---
 aliases:
-  - code
-  - code
-  - code
+  - has code
   - has_code
   - has_abbreviation
 confidential: public

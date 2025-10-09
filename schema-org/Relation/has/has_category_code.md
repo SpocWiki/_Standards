@@ -1,8 +1,6 @@
 ---
 aliases:
   - has-category-code
-  - category_code
-  - hasCategoryCode
   - has_category_code
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - category
   - code
+  - category_code
+  - categoryCode
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_category_code

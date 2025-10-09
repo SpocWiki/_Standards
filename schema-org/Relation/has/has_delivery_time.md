@@ -1,8 +1,6 @@
 ---
 aliases:
-  - delivery-time
-  - delivery_time
-  - deliveryTime
+  - has delivery-time
   - has_delivery_time
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - delivery
   - time
+  - delivery_time
+  - deliveryTime
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_delivery_time

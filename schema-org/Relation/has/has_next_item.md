@@ -1,7 +1,6 @@
 ---
 aliases:
-  - next-item
-  - next_item
+  - has next-item
   - nextItem
   - has_next_item
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - next_item
   - next
   - item
 layout:

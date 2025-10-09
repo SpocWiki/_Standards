@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-offer-catalog
-  - offer_catalog
   - hasOfferCatalog
   - has_offer_catalog
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - offer_catalog
   - offer
   - catalog
 layout:

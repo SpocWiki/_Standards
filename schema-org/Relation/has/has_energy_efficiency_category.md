@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-energy-efficiency-category
-  - energy_efficiency_category
   - hasEnergyEfficiencyCategory
   - has_energy_efficiency_category
 confidential: public
@@ -16,6 +15,8 @@ keywords:
   - energy
   - efficiency
   - category
+  - energy_efficiency_category
+  - energyEfficiencyCategory
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_energy_efficiency_category

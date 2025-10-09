@@ -1,7 +1,6 @@
 ---
 aliases:
-  - food-event
-  - food_event
+  - has food-event
   - foodEvent
   - has_food_event
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - food
   - event
+  - food_event
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_food_event

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - work-translation
-  - work_translation
+  - has work-translation
   - workTranslation
   - has_work_translation
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - work_translation
   - work
   - translation
 layout:

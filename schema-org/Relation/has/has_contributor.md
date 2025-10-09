@@ -1,8 +1,6 @@
 ---
 aliases:
-  - contributor
-  - contributor
-  - contributor
+  - has contributor
   - has_contributor
 confidential: public
 cssclasses:

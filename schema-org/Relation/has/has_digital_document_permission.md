@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-digital-document-permission
-  - digital_document_permission
   - hasDigitalDocumentPermission
   - has_digital_document_permission
 confidential: public
@@ -16,6 +15,8 @@ keywords:
   - digital
   - document
   - permission
+  - digital_document_permission
+  - digitalDocumentPermission
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_digital_document_permission

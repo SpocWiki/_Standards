@@ -1,7 +1,6 @@
 ---
 aliases:
-  - sub-reservation
-  - sub_reservation
+  - has sub-reservation
   - subReservation
   - has_sub_reservation
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - sub_reservation
   - sub
   - reservation
 layout:

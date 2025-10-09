@@ -1,8 +1,6 @@
 ---
 aliases:
-  - duplicate-therapy
-  - duplicate_therapy
-  - duplicateTherapy
+  - has duplicate-therapy
   - has_duplicate_therapy
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - duplicate
   - therapy
+  - duplicate_therapy
+  - duplicateTherapy
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_duplicate_therapy

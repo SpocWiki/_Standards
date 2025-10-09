@@ -1,8 +1,6 @@
 ---
 aliases:
-  - instrument
-  - instrument
-  - instrument
+  - has instrument
   - has_instrument
 confidential: public
 cssclasses:

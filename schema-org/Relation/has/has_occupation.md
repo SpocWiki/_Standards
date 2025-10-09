@@ -1,7 +1,6 @@
 ---
 aliases:
 - has-occupation
-- occupation
 - hasOccupation
 - has_occupation
 - "schema:occupation"

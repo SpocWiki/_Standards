@@ -1,8 +1,5 @@
 ---
 aliases:
-  - album-release-type
-  - album_release_type
-  - albumReleaseType
   - has_album_release_type
 confidential: public
 cssclasses:
@@ -16,6 +13,7 @@ keywords:
   - album
   - release
   - type
+  - AlbumReleaseType
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_album_release_type

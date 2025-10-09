@@ -1,7 +1,6 @@
 ---
 aliases:
-  - parent-service
-  - parent_service
+  - has parent-service
   - parentService
   - has_parent_service
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - parent_service
   - parent
   - service
 layout:

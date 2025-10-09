@@ -1,8 +1,5 @@
 ---
 aliases:
-- children
-- children
-- children
 - has_children
 - "schema:child"
 - "dbo:child"

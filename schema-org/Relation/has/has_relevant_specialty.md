@@ -1,7 +1,6 @@
 ---
 aliases:
-  - relevant-specialty
-  - relevant_specialty
+  - has relevant-specialty
   - relevantSpecialty
   - has_relevant_specialty
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - relevant_specialty
   - relevant
   - specialty
 layout:

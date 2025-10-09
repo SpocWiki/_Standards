@@ -1,8 +1,6 @@
 ---
 aliases:
-  - tributary
-  - tributary
-  - tributary
+  - has tributary
   - has_tributary
 confidential: public
 cssclasses:

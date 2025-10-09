@@ -1,8 +1,6 @@
 ---
 aliases:
-  - merchant
-  - merchant
-  - merchant
+  - has merchant
   - has_merchant
 confidential: public
 cssclasses:

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - parent-taxon
-  - parent_taxon
+  - has parent-taxon
   - parentTaxon
   - has_parent_taxon
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - parent_taxon
   - parent
   - taxon
 layout:

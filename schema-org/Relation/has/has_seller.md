@@ -1,8 +1,5 @@
 ---
 aliases:
-- seller
-- seller
-- seller
 - has_seller
 - has_merchant
 - has_vendor

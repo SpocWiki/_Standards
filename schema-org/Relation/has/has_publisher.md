@@ -1,6 +1,5 @@
 ---
 aliases:
-- publisher
 - has_publisher
 - "dbo:publisher"
 - "schema:publisher"

@@ -1,9 +1,7 @@
 ---
 aliases:
-  - adverse-outcome
-  - adverse_outcome
-  - adverseOutcome
   - has_adverse_outcome
+  - has adverse outcome
 confidential: public
 cssclasses:
   - Predicate
@@ -15,6 +13,7 @@ isReadOnly: false
 keywords:
   - adverse
   - outcome
+  - adverseOutcome
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_adverse_outcome

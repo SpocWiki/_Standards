@@ -1,8 +1,5 @@
 ---
 aliases:
-  - arrival-boat-terminal
-  - arrival_boat_terminal
-  - arrivalBoatTerminal
   - has_arrival_boat_terminal
 confidential: public
 cssclasses:
@@ -16,6 +13,7 @@ keywords:
   - arrival
   - boat
   - terminal
+  - arrivalBoatTerminal
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_arrival_boat_terminal

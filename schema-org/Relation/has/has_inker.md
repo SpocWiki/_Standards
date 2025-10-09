@@ -1,8 +1,6 @@
 ---
 aliases:
-  - inker
-  - inker
-  - inker
+  - has inker
   - has_inker
 confidential: public
 cssclasses:

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - landlord
-  - landlord
-  - landlord
+  - has landlord
   - has_landlord
 confidential: public
 cssclasses:

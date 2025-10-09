@@ -1,7 +1,6 @@
 ---
 aliases:
-  - imaging-technique
-  - imaging_technique
+  - has imaging-technique
   - imagingTechnique
   - has_imaging_technique
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - imaging_technique
   - imaging
   - technique
 layout:

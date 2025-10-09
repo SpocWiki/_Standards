@@ -1,7 +1,6 @@
 ---
 aliases:
-  - legislation-changes
-  - legislation_changes
+  - has legislation-changes
   - legislationChanges
   - has_legislation_changes
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - legislation_changes
   - legislation
   - changes
 layout:

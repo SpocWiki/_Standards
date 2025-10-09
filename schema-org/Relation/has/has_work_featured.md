@@ -1,7 +1,6 @@
 ---
 aliases:
-  - work-featured
-  - work_featured
+  - has work-featured
   - workFeatured
   - has_work_featured
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - work_featured
   - work
   - featured
 layout:

@@ -1,8 +1,5 @@
 ---
 aliases:
-  - available-strength
-  - available_strength
-  - availableStrength
   - has_available_strength
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - available
   - strength
+  - availableStrength
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_available_strength

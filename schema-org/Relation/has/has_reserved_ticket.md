@@ -1,7 +1,6 @@
 ---
 aliases:
-  - reserved-ticket
-  - reserved_ticket
+  - has reserved-ticket
   - reservedTicket
   - has_reserved_ticket
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - reserved_ticket
   - reserved
   - ticket
 layout:

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - customer-remorse-return-label-source
-  - customer_remorse_return_label_source
-  - customerRemorseReturnLabelSource
+  - has customer-remorse-return-label-source
   - has_customer_remorse_return_label_source
 confidential: public
 cssclasses:
@@ -18,6 +16,8 @@ keywords:
   - return
   - label
   - source
+  - customer_remorse_return_label_source
+  - customerRemorseReturnLabelSource
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_customer_remorse_return_label_source

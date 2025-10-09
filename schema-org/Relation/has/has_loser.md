@@ -1,8 +1,6 @@
 ---
 aliases:
-  - loser
-  - loser
-  - loser
+  - has loser
   - has_loser
 confidential: public
 cssclasses:

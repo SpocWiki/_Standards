@@ -1,7 +1,6 @@
 ---
 aliases:
-  - service-sms-number
-  - service_sms_number
+  - has service-sms-number
   - serviceSmsNumber
   - has_service_sms_number
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - service_sms_number
   - service
   - sms
   - number

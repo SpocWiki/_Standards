@@ -1,7 +1,6 @@
 ---
 aliases:
-  - main-entity
-  - main_entity
+  - has main-entity
   - mainEntity
   - has_main_entity
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - main_entity
   - main
   - entity
 layout:

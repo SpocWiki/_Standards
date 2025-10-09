@@ -1,8 +1,6 @@
 ---
 aliases:
-  - educational-use
-  - educational_use
-  - educationalUse
+  - has educational-use
   - has_educational_use
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - educational
   - use
+  - educational_use
+  - educationalUse
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_educational_use

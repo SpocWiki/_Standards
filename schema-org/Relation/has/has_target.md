@@ -1,8 +1,6 @@
 ---
 aliases:
-  - target
-  - target
-  - target
+  - has target
   - has_target
 confidential: public
 cssclasses:

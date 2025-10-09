@@ -1,7 +1,6 @@
 ---
 aliases:
-  - maximum-intake
-  - maximum_intake
+  - has maximum-intake
   - maximumIntake
   - has_maximum_intake
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - maximum_intake
   - maximum
   - intake
 layout:

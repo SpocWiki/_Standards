@@ -1,8 +1,6 @@
 ---
 aliases:
-  - specialty
-  - specialty
-  - specialty
+  - has specialty
   - has_specialty
 confidential: public
 cssclasses:

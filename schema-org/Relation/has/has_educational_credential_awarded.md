@@ -1,8 +1,6 @@
 ---
 aliases:
-  - educational-credential-awarded
-  - educational_credential_awarded
-  - educationalCredentialAwarded
+  - has educational-credential-awarded
   - has_educational_credential_awarded
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - educational
   - credential
   - awarded
+  - educational_credential_awarded
+  - educationalCredentialAwarded
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_educational_credential_awarded

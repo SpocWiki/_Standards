@@ -1,8 +1,6 @@
 ---
 aliases:
-  - character
-  - character
-  - character
+  - has character
   - has_character
 confidential: public
 cssclasses:

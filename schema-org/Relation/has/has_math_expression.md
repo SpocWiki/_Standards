@@ -1,7 +1,6 @@
 ---
 aliases:
-  - math-expression
-  - math_expression
+  - has math-expression
   - mathExpression
   - has_math_expression
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - math_expression
   - math
   - expression
 layout:

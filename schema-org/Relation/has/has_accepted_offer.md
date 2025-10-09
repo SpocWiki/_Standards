@@ -1,8 +1,6 @@
 ---
 aliases:
-- accepted-offer
-- accepted_offer
-- acceptedOffer
+- has accepted offer
 - has_accepted_offer
 confidential: public
 cssclasses:
@@ -18,6 +16,7 @@ isReadOnly: false
 keywords:
 - accepted
 - offer
+- acceptedOffer
 layout: 
 license: "CC BY-SA 4.0"
 linkTitle: has_accepted_offer

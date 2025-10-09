@@ -1,8 +1,5 @@
 ---
 aliases:
-  - available-delivery-method
-  - available_delivery_method
-  - availableDeliveryMethod
   - has_available_delivery_method
 confidential: public
 cssclasses:
@@ -16,6 +13,7 @@ keywords:
   - available
   - delivery
   - method
+  - availableDeliveryMethod
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_available_delivery_method

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - seating-type
-  - seating_type
+  - has seating-type
   - seatingType
   - has_seating_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - seating_type
   - seating
   - type
 layout:

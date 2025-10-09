@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-energy-consumption-details
-  - energy_consumption_details
   - hasEnergyConsumptionDetails
   - has_energy_consumption_details
 confidential: public
@@ -16,6 +15,8 @@ keywords:
   - energy
   - consumption
   - details
+  - energy_consumption_details
+  - energyConsumptionDetails
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_energy_consumption_details

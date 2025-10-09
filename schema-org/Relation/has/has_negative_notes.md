@@ -1,7 +1,6 @@
 ---
 aliases:
 - negative-notes
-- negative_notes
 - negativeNotes
 - has_negative_notes
 - has_cons
@@ -15,6 +14,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+- negative_notes
 - negative
 - notes
 layout: 

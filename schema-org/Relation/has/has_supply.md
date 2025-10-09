@@ -1,8 +1,6 @@
 ---
 aliases:
-  - supply
-  - supply
-  - supply
+  - has supply
   - has_supply
 confidential: public
 cssclasses:

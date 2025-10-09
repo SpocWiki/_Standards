@@ -1,7 +1,6 @@
 ---
 aliases:
-  - nonprofit-status
-  - nonprofit_status
+  - has nonprofit-status
   - nonprofitStatus
   - has_nonprofit_status
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - nonprofit_status
   - nonprofit
   - status
 layout:

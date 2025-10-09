@@ -1,7 +1,6 @@
 ---
 aliases:
-  - shipping-origin
-  - shipping_origin
+  - has shipping-origin
   - shippingOrigin
   - has_shipping_origin
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - shipping_origin
   - shipping
   - origin
 layout:

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - occupational-category
-  - occupational_category
+  - has occupational-category
   - occupationalCategory
   - has_occupational_category
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - occupational_category
   - occupational
   - category
 layout:

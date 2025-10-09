@@ -1,8 +1,5 @@
 ---
 aliases:
-- author
-- author
-- author
 - has_author
 - "schema:author"
 - "dbo:author"

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - buyer
-  - buyer
-  - buyer
+  - has buyer
   - has_buyer
 confidential: public
 cssclasses:

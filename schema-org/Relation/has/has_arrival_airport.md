@@ -1,8 +1,5 @@
 ---
 aliases:
-  - arrival-airport
-  - arrival_airport
-  - arrivalAirport
   - has_arrival_airport
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - arrival
   - airport
+  - arrivalAirport
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_arrival_airport

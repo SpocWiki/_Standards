@@ -1,7 +1,6 @@
 ---
 aliases:
-  - item-offered
-  - item_offered
+  - has item-offered
   - itemOffered
   - has_item_offered
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - item_offered
   - item
   - offered
 layout:

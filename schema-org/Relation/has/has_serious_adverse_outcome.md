@@ -1,7 +1,6 @@
 ---
 aliases:
-  - serious-adverse-outcome
-  - serious_adverse_outcome
+  - has serious-adverse-outcome
   - seriousAdverseOutcome
   - has_serious_adverse_outcome
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - serious_adverse_outcome
   - serious
   - adverse
   - outcome

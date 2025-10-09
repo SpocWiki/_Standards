@@ -1,8 +1,6 @@
 ---
 aliases:
-  - qualifications
-  - qualifications
-  - qualifications
+  - has qualifications
   - has_qualifications
 confidential: public
 cssclasses:

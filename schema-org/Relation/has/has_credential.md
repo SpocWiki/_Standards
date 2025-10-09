@@ -1,8 +1,7 @@
 ---
 aliases:
   - has-credential
-  - credential
-  - hasCredential
+  - has Credential
   - has_credential
 confidential: public
 cssclasses:

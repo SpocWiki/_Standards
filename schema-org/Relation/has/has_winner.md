@@ -1,8 +1,6 @@
 ---
 aliases:
-  - winner
-  - winner
-  - winner
+  - has winner
   - has_winner
 confidential: public
 cssclasses:

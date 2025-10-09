@@ -1,7 +1,6 @@
 ---
 aliases:
-  - financial-aid-eligible
-  - financial_aid_eligible
+  - has financial-aid-eligible
   - financialAidEligible
   - has_financial_aid_eligible
 confidential: public
@@ -16,6 +15,7 @@ keywords:
   - financial
   - aid
   - eligible
+  - financial_aid_eligible
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_financial_aid_eligible

@@ -1,8 +1,5 @@
 ---
 aliases:
-  - audio
-  - audio
-  - audio
   - has_audio
 confidential: public
 cssclasses:

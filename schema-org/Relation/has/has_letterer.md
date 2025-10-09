@@ -1,8 +1,6 @@
 ---
 aliases:
-  - letterer
-  - letterer
-  - letterer
+  - has letterer
   - has_letterer
 confidential: public
 cssclasses:

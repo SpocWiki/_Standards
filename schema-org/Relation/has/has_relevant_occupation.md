@@ -1,7 +1,6 @@
 ---
 aliases:
-  - relevant-occupation
-  - relevant_occupation
+  - has relevant-occupation
   - relevantOccupation
   - has_relevant_occupation
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - relevant_occupation
   - relevant
   - occupation
 layout:

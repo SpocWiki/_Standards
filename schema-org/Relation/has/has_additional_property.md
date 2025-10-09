@@ -1,9 +1,8 @@
 ---
 aliases:
-  - additional-property
-  - additional_property
-  - additionalProperty
   - has_additional_property
+  - has additional property
+  - has property
 confidential: public
 cssclasses:
   - Predicate
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - additional
   - property
+  - additionalProperty
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_additional_property

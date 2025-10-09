@@ -1,8 +1,6 @@
 ---
 aliases:
-  - blog-post
-  - blog_post
-  - blogPost
+  - has blog-post
   - has_blog_post
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - blog
   - post
+  - blog_post
+  - blogPost
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_blog_post

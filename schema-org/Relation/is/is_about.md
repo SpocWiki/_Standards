@@ -1,8 +1,5 @@
 ---
 aliases:
-  - about
-  - about
-  - about
   - is_about
   - has_as_subject
 confidential: public

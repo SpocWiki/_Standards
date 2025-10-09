@@ -1,7 +1,6 @@
 ---
 aliases:
 - previous-item
-- previous_item
 - previousItem
 - has_previous_item
 - prev-item
@@ -14,6 +13,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+- previous_item
 - previous
 - item
 layout: 

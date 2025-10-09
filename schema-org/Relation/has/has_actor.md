@@ -1,6 +1,5 @@
 ---
 aliases:
-- actor
 - has_actor
 - "schema:actor"
 - "dbo:starring"
