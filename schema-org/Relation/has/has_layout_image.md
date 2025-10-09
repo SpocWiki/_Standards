@@ -1,7 +1,6 @@
 ---
 aliases:
   - has layout-image
-  - layout_image
   - layoutImage
   - has_layout_image
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - layout_image
   - layout
   - image
 layout:

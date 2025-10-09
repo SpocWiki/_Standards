@@ -1,7 +1,6 @@
 ---
 aliases:
   - has lodging-unit-type
-  - lodging_unit_type
   - lodgingUnitType
   - has_lodging_unit_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - lodging_unit_type
   - lodging
   - unit
   - type

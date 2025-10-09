@@ -1,7 +1,6 @@
 ---
 aliases:
   - has map-type
-  - map_type
   - mapType
   - has_map_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - map_type
   - map
   - type
 layout:

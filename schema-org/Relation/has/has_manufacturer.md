@@ -1,6 +1,5 @@
 ---
 aliases:
-- manufacturer
 - has_manufacturer
 - "schema:manufacturer"
 - "dbo:manufacturer"

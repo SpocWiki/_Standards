@@ -1,8 +1,5 @@
 ---
 aliases:
-- keywords
-- keywords
-- keywords
 - has_keywords
 - "schema:keywords"
 - "dbo:keywords"

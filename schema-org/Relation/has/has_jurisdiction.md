@@ -1,8 +1,6 @@
 ---
 aliases:
   - has jurisdiction
-  - jurisdiction
-  - jurisdiction
   - has_jurisdiction
 confidential: public
 cssclasses:

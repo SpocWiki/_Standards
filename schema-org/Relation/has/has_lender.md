@@ -1,8 +1,6 @@
 ---
 aliases:
   - has lender
-  - lender
-  - lender
   - has_lender
 confidential: public
 cssclasses:

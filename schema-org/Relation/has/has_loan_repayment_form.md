@@ -1,7 +1,6 @@
 ---
 aliases:
   - has loan-repayment-form
-  - loan_repayment_form
   - loanRepaymentForm
   - has_loan_repayment_form
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - loan_repayment_form
   - loan
   - repayment
   - form
