@@ -1,8 +1,5 @@
 ---
 aliases:
-  - amenity-feature
-  - amenity_feature
-  - amenityFeature
   - has_amenity_feature
 confidential: public
 cssclasses:

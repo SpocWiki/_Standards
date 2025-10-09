@@ -1,6 +1,5 @@
 ---
 aliases:
-- affiliation
 - has_affiliation_with
 - is_affiliated_with
 - "schema:affiliation"

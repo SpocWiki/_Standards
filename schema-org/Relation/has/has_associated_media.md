@@ -1,8 +1,5 @@
 ---
 aliases:
-  - associated-media
-  - associated_media
-  - associatedMedia
   - has_associated_media
 confidential: public
 cssclasses:

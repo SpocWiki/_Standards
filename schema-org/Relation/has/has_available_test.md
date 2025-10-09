@@ -1,8 +1,5 @@
 ---
 aliases:
-  - available-test
-  - available_test
-  - availableTest
   - has_available_test
 confidential: public
 cssclasses:

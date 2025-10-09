@@ -1,9 +1,9 @@
 ---
 aliases:
   - has-adult-consideration
-  - adult_consideration
   - hasAdultConsideration
   - has_adult_consideration
+  - has adult consideration
 confidential: public
 cssclasses:
   - Predicate

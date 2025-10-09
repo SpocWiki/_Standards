@@ -1,8 +1,5 @@
 ---
 aliases:
-  - arterial-branch
-  - arterial_branch
-  - arterialBranch
   - has_arterial_branch
 confidential: public
 cssclasses:

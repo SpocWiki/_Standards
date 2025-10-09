@@ -1,8 +1,5 @@
 ---
 aliases:
-  - associated-anatomy
-  - associated_anatomy
-  - associatedAnatomy
   - has_associated_anatomy
 confidential: public
 cssclasses:

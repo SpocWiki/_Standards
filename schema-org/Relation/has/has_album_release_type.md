@@ -1,8 +1,5 @@
 ---
 aliases:
-  - album-release-type
-  - album_release_type
-  - albumReleaseType
   - has_album_release_type
 confidential: public
 cssclasses:

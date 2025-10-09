@@ -1,8 +1,5 @@
 ---
 aliases:
-  - arrival-boat-terminal
-  - arrival_boat_terminal
-  - arrivalBoatTerminal
   - has_arrival_boat_terminal
 confidential: public
 cssclasses:

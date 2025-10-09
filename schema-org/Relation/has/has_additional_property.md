@@ -1,9 +1,8 @@
 ---
 aliases:
-  - additional-property
-  - additional_property
-  - additionalProperty
   - has_additional_property
+  - has additional property
+  - has property
 confidential: public
 cssclasses:
   - Predicate

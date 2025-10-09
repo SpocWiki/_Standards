@@ -1,8 +1,5 @@
 ---
 aliases:
-  - antagonist
-  - antagonist
-  - antagonist
   - has_antagonist
 confidential: public
 cssclasses:

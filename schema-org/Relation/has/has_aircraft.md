@@ -1,9 +1,7 @@
 ---
 aliases:
-  - aircraft
-  - aircraft
-  - aircraft
   - has_aircraft
+  - with_aircraft
 confidential: public
 cssclasses:
   - Predicate

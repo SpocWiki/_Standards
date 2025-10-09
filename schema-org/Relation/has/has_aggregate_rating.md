@@ -1,8 +1,5 @@
 ---
 aliases:
-- aggregate-rating
-- aggregate_rating
-- aggregateRating
 - has_aggregate_rating
 - "schema:aggregateRating"
 - "dbo:rating"

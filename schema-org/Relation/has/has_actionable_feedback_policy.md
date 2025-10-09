@@ -1,8 +1,5 @@
 ---
 aliases:
-  - actionable-feedback-policy
-  - actionable_feedback_policy
-  - actionableFeedbackPolicy
   - has_actionable_feedback_policy
 confidential: public
 cssclasses:

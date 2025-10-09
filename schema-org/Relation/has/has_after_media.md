@@ -1,8 +1,5 @@
 ---
 aliases:
-  - after-media
-  - after_media
-  - afterMedia
   - has_after_media
 confidential: public
 cssclasses:

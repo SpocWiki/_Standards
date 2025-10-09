@@ -1,8 +1,5 @@
 ---
 aliases:
-  - album-production-type
-  - album_production_type
-  - albumProductionType
   - has_album_production_type
 confidential: public
 cssclasses:

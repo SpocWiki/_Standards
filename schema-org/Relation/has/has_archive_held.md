@@ -1,8 +1,5 @@
 ---
 aliases:
-  - archive-held
-  - archive_held
-  - archiveHeld
   - has_archive_held
 confidential: public
 cssclasses:

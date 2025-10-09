@@ -1,8 +1,5 @@
 ---
 aliases:
-  - announcement-location
-  - announcement_location
-  - announcementLocation
   - has_announcement_location
 confidential: public
 cssclasses:

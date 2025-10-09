@@ -1,9 +1,7 @@
 ---
 aliases:
-  - adverse-outcome
-  - adverse_outcome
-  - adverseOutcome
   - has_adverse_outcome
+  - has adverse outcome
 confidential: public
 cssclasses:
   - Predicate

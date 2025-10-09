@@ -1,8 +1,5 @@
 ---
 aliases:
-  - available-delivery-method
-  - available_delivery_method
-  - availableDeliveryMethod
   - has_available_delivery_method
 confidential: public
 cssclasses:

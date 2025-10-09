@@ -1,8 +1,5 @@
 ---
 aliases:
-  - available-service
-  - available_service
-  - availableService
   - has_available_service
 confidential: public
 cssclasses:

@@ -1,8 +1,5 @@
 ---
 aliases:
-  - answer-explanation
-  - answer_explanation
-  - answerExplanation
   - has_answer_explanation
 confidential: public
 cssclasses:

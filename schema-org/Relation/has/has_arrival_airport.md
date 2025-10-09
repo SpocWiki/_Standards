@@ -1,8 +1,5 @@
 ---
 aliases:
-  - arrival-airport
-  - arrival_airport
-  - arrivalAirport
   - has_arrival_airport
 confidential: public
 cssclasses:

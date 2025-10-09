@@ -1,8 +1,5 @@
 ---
 aliases:
-  - associated-claim-review
-  - associated_claim_review
-  - associatedClaimReview
   - has_associated_claim_review
 confidential: public
 cssclasses:

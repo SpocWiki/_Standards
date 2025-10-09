@@ -1,8 +1,5 @@
 ---
 aliases:
-  - action-status
-  - action_status
-  - actionStatus
   - has_action_status
 confidential: public
 cssclasses:

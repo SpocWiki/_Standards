@@ -1,8 +1,5 @@
 ---
 aliases:
-  - add-on
-  - add_on
-  - addOn
   - has_add_on
 confidential: public
 cssclasses:

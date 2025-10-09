@@ -1,8 +1,5 @@
 ---
 aliases:
-  - available-strength
-  - available_strength
-  - availableStrength
   - has_available_strength
 confidential: public
 cssclasses:

@@ -1,8 +1,5 @@
 ---
 aliases:
-  - application-contact
-  - application_contact
-  - applicationContact
   - has_application_contact
 confidential: public
 cssclasses:

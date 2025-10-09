@@ -1,8 +1,5 @@
 ---
 aliases:
-  - associated-media-review
-  - associated_media_review
-  - associatedMediaReview
   - has_associated_media_review
 confidential: public
 cssclasses:

@@ -1,8 +1,5 @@
 ---
 aliases:
-  - arrival-bus-stop
-  - arrival_bus_stop
-  - arrivalBusStop
   - has_arrival_bus_stop
 confidential: public
 cssclasses:

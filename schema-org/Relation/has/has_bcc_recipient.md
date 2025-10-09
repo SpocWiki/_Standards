@@ -1,8 +1,5 @@
 ---
 aliases:
-  - bcc-recipient
-  - bcc_recipient
-  - bccRecipient
   - has_bcc_recipient
 confidential: public
 cssclasses:

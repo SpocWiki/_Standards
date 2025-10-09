@@ -1,8 +1,5 @@
 ---
 aliases:
-  - associated-article
-  - associated_article
-  - associatedArticle
   - has_associated_article
 confidential: public
 cssclasses:

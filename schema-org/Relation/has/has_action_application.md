@@ -1,8 +1,5 @@
 ---
 aliases:
-  - action-application
-  - action_application
-  - actionApplication
   - has_action_application
 confidential: public
 cssclasses:

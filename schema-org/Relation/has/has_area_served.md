@@ -1,8 +1,5 @@
 ---
 aliases:
-  - area-served
-  - area_served
-  - areaServed
   - has_area_served
 confidential: public
 cssclasses:

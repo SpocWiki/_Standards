@@ -1,9 +1,7 @@
 ---
 aliases:
-  - appearance
-  - appearance
-  - appearance
   - has_appearance_in
+  - has_appeared_in
   - is_appearing_in
 confidential: public
 cssclasses:

@@ -1,8 +1,5 @@
 ---
 aliases:
-  - action-platform
-  - action_platform
-  - actionPlatform
   - has_action_platform
 confidential: public
 cssclasses:

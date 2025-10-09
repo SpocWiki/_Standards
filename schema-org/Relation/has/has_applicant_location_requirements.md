@@ -1,8 +1,5 @@
 ---
 aliases:
-  - applicant-location-requirements
-  - applicant_location_requirements
-  - applicantLocationRequirements
   - has_applicant_location_requirements
 confidential: public
 cssclasses:

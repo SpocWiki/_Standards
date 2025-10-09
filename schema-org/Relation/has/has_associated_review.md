@@ -1,8 +1,5 @@
 ---
 aliases:
-  - associated-review
-  - associated_review
-  - associatedReview
   - has_associated_review
 confidential: public
 cssclasses:

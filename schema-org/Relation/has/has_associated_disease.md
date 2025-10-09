@@ -1,8 +1,5 @@
 ---
 aliases:
-  - associated-disease
-  - associated_disease
-  - associatedDisease
   - has_associated_disease
 confidential: public
 cssclasses:

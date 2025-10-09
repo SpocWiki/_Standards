@@ -1,8 +1,5 @@
 ---
 aliases:
-  - available-channel
-  - available_channel
-  - availableChannel
   - has_available_channel
 confidential: public
 cssclasses:

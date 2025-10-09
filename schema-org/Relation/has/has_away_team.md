@@ -1,8 +1,5 @@
 ---
 aliases:
-  - away-team
-  - away_team
-  - awayTeam
   - has_away_team
 confidential: public
 cssclasses:

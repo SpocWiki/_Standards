@@ -1,8 +1,5 @@
 ---
 aliases:
-  - arrival-station
-  - arrival_station
-  - arrivalStation
   - has_arrival_station
 confidential: public
 cssclasses:

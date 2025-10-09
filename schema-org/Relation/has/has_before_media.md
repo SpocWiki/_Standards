@@ -1,8 +1,5 @@
 ---
 aliases:
-  - before-media
-  - before_media
-  - beforeMedia
   - has_before_media
 confidential: public
 cssclasses:

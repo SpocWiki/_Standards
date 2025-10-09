@@ -1,9 +1,7 @@
 ---
 aliases:
-  - address-country
-  - address_country
-  - addressCountry
   - has_address_country
+  - has address country
 confidential: public
 cssclasses:
   - Predicate
