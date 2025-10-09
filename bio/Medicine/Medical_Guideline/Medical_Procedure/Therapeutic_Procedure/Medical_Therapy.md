@@ -25,12 +25,26 @@ title: is_a_medical_therapy Class
 type: Type
 ---
 
+# [[Medical_Therapy]] 
+
 Class of all medical_therapys.
 
 Tag Instances like this: 
 #is_a_/medical_therapy
 
-Any medical intervention designed to prevent, treat, and cure human diseases and medical conditions, including both curative and palliative therapies. Medical therapies are typically processes of care relying upon pharmacotherapy, behavioral therapy, supportive therapy (with fluid or nutrition for example), or detoxification (e.g. hemodialysis) aimed at improving or preventing a health condition.
+Any medical intervention designed to prevent, treat, and cure 
+human diseases and medical conditions, including both curative and palliative therapies. 
+
+Medical therapies are typically processes of care relying upon pharmacotherapy, 
+behavioral therapy, supportive therapy (with fluid or nutrition for example), 
+or detoxification (e.g. hemodialysis) aimed at improving or preventing a health condition.
+
+Medical therapy refers to the **use of pharmacological agents** or **medical procedures** to treat disease.  
+It usually includes:
+- **Drug therapy (Pharmacotherapy)**: e.g., antibiotics, insulin, antidepressants
+- **Surgical therapy**: e.g., appendectomy, cardiac bypass
+- **Radiation therapy**: e.g., oncology treatments
+- **Gene and cell therapy**: e.g., CAR-T, CRISPR applications
 
 [ #is_/sub_class_of :: [[../TherapeuticProcedure]] ]
 

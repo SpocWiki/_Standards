@@ -25,6 +25,8 @@ title: is_a_medical_guideline Class
 type: Type
 ---
 
+# [[Medical_Guideline]] 
+
 Class of all medical_guidelines.
 
 Tag Instances like this: 
