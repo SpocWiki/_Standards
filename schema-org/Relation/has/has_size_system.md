@@ -1,7 +1,6 @@
 ---
 aliases:
   - has size-system
-  - size_system
   - sizeSystem
   - has_size_system
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - size_system
   - size
   - system
 layout:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - has study-design
-  - study_design
   - studyDesign
   - has_study_design
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - study_design
   - study
   - design
 layout:

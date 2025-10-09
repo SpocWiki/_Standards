@@ -1,7 +1,6 @@
 ---
 aliases:
   - has software-add-on
-  - software_add_on
   - softwareAddOn
   - has_software_add_on
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - software_add_on
   - software
   - add
   - on

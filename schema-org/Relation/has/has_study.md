@@ -1,8 +1,6 @@
 ---
 aliases:
   - has study
-  - study
-  - study
   - has_study
 confidential: public
 cssclasses:

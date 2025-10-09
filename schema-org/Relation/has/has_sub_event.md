@@ -1,7 +1,6 @@
 ---
 aliases:
   - has sub-event
-  - sub_event
   - subEvent
   - has_sub_event
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - sub_event
   - sub
   - event
 layout:

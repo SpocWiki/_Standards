@@ -1,7 +1,6 @@
 ---
 aliases:
   - has study-subject
-  - study_subject
   - studySubject
   - has_study_subject
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - study_subject
   - study
   - subject
 layout:

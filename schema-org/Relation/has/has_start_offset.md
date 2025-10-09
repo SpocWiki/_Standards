@@ -1,7 +1,6 @@
 ---
 aliases:
   - has start-offset
-  - start_offset
   - startOffset
   - has_start_offset
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - start_offset
   - start
   - offset
 layout:

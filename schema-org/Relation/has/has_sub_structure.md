@@ -1,7 +1,6 @@
 ---
 aliases:
   - has sub-structure
-  - sub_structure
   - subStructure
   - has_sub_structure
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - sub_structure
   - sub
   - structure
 layout:

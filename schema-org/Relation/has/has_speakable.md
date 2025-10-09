@@ -1,8 +1,6 @@
 ---
 aliases:
   - has speakable
-  - speakable
-  - speakable
   - has_speakable
 confidential: public
 cssclasses:

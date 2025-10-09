@@ -1,7 +1,6 @@
 ---
 aliases:
   - has super-event
-  - super_event
   - superEvent
   - has_super_event
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - super_event
   - super
   - event
 layout:

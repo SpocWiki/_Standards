@@ -1,7 +1,6 @@
 ---
 aliases:
   - has taxon-rank
-  - taxon_rank
   - taxonRank
   - has_taxon_rank
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - taxon_rank
   - taxon
   - rank
 layout:

@@ -1,8 +1,6 @@
 ---
 aliases:
   - has sponsor
-  - sponsor
-  - sponsor
   - has_sponsor
 confidential: public
 cssclasses:

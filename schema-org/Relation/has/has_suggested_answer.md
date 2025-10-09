@@ -1,7 +1,6 @@
 ---
 aliases:
   - has suggested-answer
-  - suggested_answer
   - suggestedAnswer
   - has_suggested_answer
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - suggested_answer
   - suggested
   - answer
 layout:

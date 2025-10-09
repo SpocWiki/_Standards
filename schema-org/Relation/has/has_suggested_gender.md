@@ -1,7 +1,6 @@
 ---
 aliases:
   - has suggested-gender
-  - suggested_gender
   - suggestedGender
   - has_suggested_gender
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - suggested_gender
   - suggested
   - gender
 layout:

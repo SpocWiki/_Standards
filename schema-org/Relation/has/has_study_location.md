@@ -1,7 +1,6 @@
 ---
 aliases:
   - has study-location
-  - study_location
   - studyLocation
   - has_study_location
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - study_location
   - study
   - location
 layout:

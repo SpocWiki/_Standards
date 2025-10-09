@@ -1,8 +1,6 @@
 ---
 aliases:
   - has stage
-  - stage
-  - stage
   - has_stage
 confidential: public
 cssclasses:

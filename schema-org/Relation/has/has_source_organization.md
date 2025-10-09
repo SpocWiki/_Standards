@@ -1,7 +1,6 @@
 ---
 aliases:
   - has source-organization
-  - source_organization
   - sourceOrganization
   - has_source_organization
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - source_organization
   - source
   - organization
 layout:

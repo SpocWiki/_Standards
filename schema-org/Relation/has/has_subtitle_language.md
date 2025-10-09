@@ -1,7 +1,6 @@
 ---
 aliases:
   - has subtitle-language
-  - subtitle_language
   - subtitleLanguage
   - has_subtitle_language
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - subtitle_language
   - subtitle
   - language
 layout:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - has sign-detected
-  - sign_detected
   - signDetected
   - has_sign_detected
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - sign_detected
   - sign
   - detected
 layout:

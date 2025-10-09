@@ -1,7 +1,6 @@
 ---
 aliases:
   - has sign-or-symptom
-  - sign_or_symptom
   - signOrSymptom
   - has_sign_or_symptom
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - sign_or_symptom
   - sign
   - or
   - symptom

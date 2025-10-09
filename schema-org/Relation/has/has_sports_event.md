@@ -1,7 +1,6 @@
 ---
 aliases:
   - has sports-event
-  - sports_event
   - sportsEvent
   - has_sports_event
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - sports_event
   - sports
   - event
 layout:

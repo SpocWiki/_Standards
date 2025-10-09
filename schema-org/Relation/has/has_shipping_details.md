@@ -1,7 +1,6 @@
 ---
 aliases:
   - has shipping-details
-  - shipping_details
   - shippingDetails
   - has_shipping_details
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - shipping_details
   - shipping
   - details
 layout:

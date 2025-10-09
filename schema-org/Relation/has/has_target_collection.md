@@ -1,7 +1,6 @@
 ---
 aliases:
 - target-collection
-- target_collection
 - targetCollection
 - has_target_collection
 - is_in_collection
@@ -14,6 +13,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+- target_collection
 - target
 - collection
 layout: 

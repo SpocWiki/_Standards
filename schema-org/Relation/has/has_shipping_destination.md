@@ -1,7 +1,6 @@
 ---
 aliases:
   - has shipping-destination
-  - shipping_destination
   - shippingDestination
   - has_shipping_destination
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - shipping_destination
   - shipping
   - destination
 layout:

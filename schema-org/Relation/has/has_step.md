@@ -1,8 +1,6 @@
 ---
 aliases:
   - has step
-  - step
-  - step
   - has_step
 confidential: public
 cssclasses:
