@@ -22,7 +22,7 @@ MeSH_tree_code:
 
 # [[Biopsy]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Biopsy,179991|WD~Biopsy,179991]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Biopsy,179991|WD~Biopsy,179991]] 
 
 ## #has_/text_of_/abstract 
 

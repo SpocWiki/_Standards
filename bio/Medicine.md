@@ -69,6 +69,8 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/medicine
 
 # [[Medicine]] 
 
+#is_/same_as :: [[../WikiData/WD~Medicine,11190|WD~Medicine,11190]] 
+
 ## #has_/text_of_/abstract 
 
 > **Medicine** is the science and practice of caring for patients, managing the diagnosis, prognosis, 
