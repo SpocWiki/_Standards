@@ -1,9 +1,9 @@
 ---
 aliases:
-  - accommodation-floor-plan
-  - accommodation_floor_plan
-  - accommodationFloorPlan
+  - has_floor_plan
   - has_accommodation_floor_plan
+  - has floor plan
+  - has accommodation floor plan
 confidential: public
 cssclasses:
   - Predicate

@@ -1,8 +1,5 @@
 ---
 aliases:
-  - diagnosis
-  - diagnosis
-  - diagnosis
   - has_diagnosis
 confidential: public
 cssclasses:

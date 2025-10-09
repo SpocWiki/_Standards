@@ -1,9 +1,9 @@
 ---
 aliases:
-  - accepted-answer
-  - accepted_answer
-  - acceptedAnswer
+  - has_answer
   - has_accepted_answer
+  - has answer
+  - has accepted answer
 confidential: public
 cssclasses:
   - Predicate

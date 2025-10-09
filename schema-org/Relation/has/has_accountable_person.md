@@ -1,8 +1,6 @@
 ---
 aliases:
-  - accountable-person
-  - accountable_person
-  - accountablePerson
+  - has accountable person
   - has_accountable_person
 confidential: public
 cssclasses:

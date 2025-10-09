@@ -1,9 +1,10 @@
 ---
 aliases:
-  - access-mode-sufficient
-  - access_mode_sufficient
-  - accessModeSufficient
+  - has_sufficient_access-mode
+  - has_access_mode
+  - has_access-mode
   - has_access_mode_sufficient
+  - has_sufficient_access_mode
 confidential: public
 cssclasses:
   - Predicate

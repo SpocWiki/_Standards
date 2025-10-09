@@ -1,8 +1,6 @@
 ---
 aliases:
-- accepted-offer
-- accepted_offer
-- acceptedOffer
+- has accepted offer
 - has_accepted_offer
 confidential: public
 cssclasses:

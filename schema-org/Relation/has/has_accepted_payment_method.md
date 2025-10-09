@@ -1,8 +1,7 @@
 ---
 aliases:
-  - accepted-payment-method
-  - accepted_payment_method
-  - acceptedPaymentMethod
+  - has accepted payment method
+  - has payment method
   - has_accepted_payment_method
 confidential: public
 cssclasses:
