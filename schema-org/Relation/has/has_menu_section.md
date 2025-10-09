@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-menu-section
-  - menu_section
   - hasMenuSection
   - has_menu_section
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - menu_section
   - menu
   - section
 layout:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - has potential-action
-  - potential_action
   - potentialAction
   - has_potential_action
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - potential_action
   - potential
   - action
 layout:

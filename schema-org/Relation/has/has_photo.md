@@ -1,8 +1,6 @@
 ---
 aliases:
   - has photo
-  - photo
-  - photo
   - has_photo
 confidential: public
 cssclasses:

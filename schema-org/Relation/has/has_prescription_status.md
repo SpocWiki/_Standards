@@ -1,7 +1,6 @@
 ---
 aliases:
   - has prescription-status
-  - prescription_status
   - prescriptionStatus
   - has_prescription_status
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - prescription_status
   - prescription
   - status
 layout:

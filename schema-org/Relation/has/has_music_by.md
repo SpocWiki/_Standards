@@ -1,7 +1,6 @@
 ---
 aliases:
   - has music-by
-  - music_by
   - musicBy
   - has_music_by
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - music_by
   - music
   - by
 layout:

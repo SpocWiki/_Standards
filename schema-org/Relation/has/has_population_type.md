@@ -1,7 +1,6 @@
 ---
 aliases:
   - has population-type
-  - population_type
   - populationType
   - has_population_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - population_type
   - population
   - type
 layout:

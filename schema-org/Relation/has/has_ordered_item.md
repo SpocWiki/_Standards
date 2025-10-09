@@ -1,7 +1,6 @@
 ---
 aliases:
   - has ordered-item
-  - ordered_item
   - orderedItem
   - has_ordered_item
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - ordered_item
   - ordered
   - item
 layout:

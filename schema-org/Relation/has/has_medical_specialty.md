@@ -1,7 +1,6 @@
 ---
 aliases:
   - has medical-specialty
-  - medical_specialty
   - medicalSpecialty
   - has_medical_specialty
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - medical_specialty
   - medical
   - specialty
 layout:

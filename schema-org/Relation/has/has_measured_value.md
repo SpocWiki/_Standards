@@ -1,7 +1,6 @@
 ---
 aliases:
   - has measured-value
-  - measured_value
   - measuredValue
   - has_measured_value
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - measured_value
   - measured
   - value
 layout:

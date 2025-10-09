@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-map
-  - map
   - hasMap
   - has_map
   - has_place_map

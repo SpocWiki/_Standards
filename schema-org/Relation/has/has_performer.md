@@ -1,6 +1,5 @@
 ---
 aliases:
-- performer
 - has_performer
 - "schema:performer"
 - "dbo:performer"

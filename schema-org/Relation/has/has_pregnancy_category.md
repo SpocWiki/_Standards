@@ -1,7 +1,6 @@
 ---
 aliases:
   - has pregnancy-category
-  - pregnancy_category
   - pregnancyCategory
   - has_pregnancy_category
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - pregnancy_category
   - pregnancy
   - category
 layout:

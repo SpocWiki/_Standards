@@ -1,7 +1,6 @@
 ---
 aliases:
   - has opening-hours-specification
-  - opening_hours_specification
   - openingHoursSpecification
   - has_opening_hours_specification
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - opening_hours_specification
   - opening
   - hours
   - specification

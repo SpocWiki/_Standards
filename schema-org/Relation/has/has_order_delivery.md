@@ -1,7 +1,6 @@
 ---
 aliases:
   - has order-delivery
-  - order_delivery
   - orderDelivery
   - has_order_delivery
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - order_delivery
   - order
   - delivery
 layout:

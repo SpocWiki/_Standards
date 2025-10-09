@@ -1,7 +1,6 @@
 ---
 aliases:
   - has original-media-link
-  - original_media_link
   - originalMediaLink
   - has_original_media_link
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - original_media_link
   - original
   - media
   - link

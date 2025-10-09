@@ -1,7 +1,6 @@
 ---
 aliases:
   - has order-status
-  - order_status
   - orderStatus
   - has_order_status
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - order_status
   - order
   - status
 layout:

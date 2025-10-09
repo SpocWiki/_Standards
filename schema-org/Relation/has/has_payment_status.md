@@ -1,7 +1,6 @@
 ---
 aliases:
   - has payment-status
-  - payment_status
   - paymentStatus
   - has_payment_status
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - payment_status
   - payment
   - status
 layout:

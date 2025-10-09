@@ -1,8 +1,6 @@
 ---
 aliases:
   - has pattern
-  - pattern
-  - pattern
   - has_pattern
 confidential: public
 cssclasses:

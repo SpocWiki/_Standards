@@ -1,7 +1,6 @@
 ---
 aliases:
   - has play-mode
-  - play_mode
   - playMode
   - has_play_mode
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - play_mode
   - play
   - mode
 layout:

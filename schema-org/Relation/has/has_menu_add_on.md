@@ -1,7 +1,6 @@
 ---
 aliases:
   - has menu-add-on
-  - menu_add_on
   - menuAddOn
   - has_menu_add_on
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - menu_add_on
   - menu
   - add
   - on

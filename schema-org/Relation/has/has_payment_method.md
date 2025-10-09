@@ -1,7 +1,6 @@
 ---
 aliases:
   - has payment-method
-  - payment_method
   - paymentMethod
   - has_payment_method
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - payment_method
   - payment
   - method
 layout:

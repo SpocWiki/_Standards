@@ -1,7 +1,6 @@
 ---
 aliases:
   - has permission-type
-  - permission_type
   - permissionType
   - has_permission_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - permission_type
   - permission
   - type
 layout:

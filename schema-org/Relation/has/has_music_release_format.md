@@ -1,7 +1,6 @@
 ---
 aliases:
   - has music-release-format
-  - music_release_format
   - musicReleaseFormat
   - has_music_release_format
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - music_release_format
   - music
   - release
   - format

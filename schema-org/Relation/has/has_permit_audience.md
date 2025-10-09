@@ -1,7 +1,6 @@
 ---
 aliases:
   - has permit-audience
-  - permit_audience
   - permitAudience
   - has_permit_audience
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - permit_audience
   - permit
   - audience
 layout:

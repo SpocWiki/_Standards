@@ -1,7 +1,6 @@
 ---
 aliases:
 - has-merchant-return-policy
-- merchant_return_policy
 - hasMerchantReturnPolicy
 - has_merchant_return_policy
 - hasProductReturnPolicy
@@ -16,6 +15,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+- merchant_return_policy
 - merchant
 - return
 - policy

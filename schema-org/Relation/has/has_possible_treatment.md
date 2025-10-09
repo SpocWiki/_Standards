@@ -1,7 +1,6 @@
 ---
 aliases:
   - has possible-treatment
-  - possible_treatment
   - possibleTreatment
   - has_possible_treatment
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - possible_treatment
   - possible
   - treatment
 layout:

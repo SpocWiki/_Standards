@@ -1,7 +1,6 @@
 ---
 aliases:
   - has occupation-location
-  - occupation_location
   - occupationLocation
   - has_occupation_location
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - occupation_location
   - occupation
   - location
 layout:

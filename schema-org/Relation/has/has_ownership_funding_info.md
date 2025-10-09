@@ -1,7 +1,6 @@
 ---
 aliases:
   - has ownership-funding-info
-  - ownership_funding_info
   - ownershipFundingInfo
   - has_ownership_funding_info
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - ownership_funding_info
   - ownership
   - funding
   - info

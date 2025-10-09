@@ -1,8 +1,6 @@
 ---
 aliases:
   - has penciler
-  - penciler
-  - penciler
   - has_penciler
 confidential: public
 cssclasses:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - has message-attachment
-  - message_attachment
   - messageAttachment
   - has_message_attachment
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - message_attachment
   - message
   - attachment
 layout:

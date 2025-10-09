@@ -1,7 +1,6 @@
 ---
 aliases:
   - has potential-use
-  - potential_use
   - potentialUse
   - has_potential_use
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - potential_use
   - potential
   - use
 layout:

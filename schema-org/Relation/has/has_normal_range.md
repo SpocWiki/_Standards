@@ -1,7 +1,6 @@
 ---
 aliases:
   - has normal-range
-  - normal_range
   - normalRange
   - has_normal_range
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - normal_range
   - normal
   - range
 layout:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - has medicine-system
-  - medicine_system
   - medicineSystem
   - has_medicine_system
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - medicine_system
   - medicine
   - system
 layout:
