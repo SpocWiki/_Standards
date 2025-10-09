@@ -1,7 +1,6 @@
 ---
 aliases:
   - is-accessory-or-spare-part-for
-  - accessory_or_spare_part_for
   - isAccessoryOrSparePartFor
   - is_accessory_or_spare_part_for
 confidential: public
@@ -19,6 +18,7 @@ linkTitle: is_accessory_or_spare_part_for
 publish: true
 publishDate:
 tags:
+  - accessory_or_spare_part_for
   - class/Relation
   - schema-org/Relation
 title: is_accessory_or_spare_part_for

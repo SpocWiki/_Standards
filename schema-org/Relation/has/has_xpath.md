@@ -1,8 +1,6 @@
 ---
 aliases:
   - has xpath
-  - xpath
-  - xpath
   - has_xpath
 confidential: public
 cssclasses:

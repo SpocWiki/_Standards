@@ -1,7 +1,6 @@
 ---
 aliases:
   - has ticketed-seat
-  - ticketed_seat
   - ticketedSeat
   - has_ticketed_seat
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - ticketed_seat
   - ticketed
   - seat
 layout:

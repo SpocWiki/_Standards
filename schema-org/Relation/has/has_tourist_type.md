@@ -1,7 +1,6 @@
 ---
 aliases:
   - has tourist-type
-  - tourist_type
   - touristType
   - has_tourist_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - tourist_type
   - tourist
   - type
 layout:

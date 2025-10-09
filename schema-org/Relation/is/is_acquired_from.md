@@ -1,7 +1,7 @@
 ---
 aliases:
   - acquired-from
-  - acquired_from
+  - is acquired from
   - acquiredFrom
   - is_acquired_from
 confidential: public

@@ -1,7 +1,6 @@
 ---
 aliases:
   - has trial-design
-  - trial_design
   - trialDesign
   - has_trial_design
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - trial_design
   - trial
   - design
 layout:

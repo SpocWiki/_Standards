@@ -1,7 +1,6 @@
 ---
 aliases:
   - has web-feed
-  - web_feed
   - webFeed
   - has_web_feed
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - web_feed
   - web
   - feed
 layout:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - has usage-info
-  - usage_info
   - usageInfo
   - has_usage_info
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - usage_info
   - usage
   - info
 layout:

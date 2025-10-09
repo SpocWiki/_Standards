@@ -1,8 +1,6 @@
 ---
 aliases:
   - has tool
-  - tool
-  - tool
   - has_tool
 confidential: public
 cssclasses:

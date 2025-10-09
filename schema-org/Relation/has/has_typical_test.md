@@ -1,7 +1,6 @@
 ---
 aliases:
   - has typical-test
-  - typical_test
   - typicalTest
   - has_typical_test
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - typical_test
   - typical
   - test
 layout:

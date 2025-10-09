@@ -1,7 +1,6 @@
 ---
 aliases:
   - has vehicle-transmission
-  - vehicle_transmission
   - vehicleTransmission
   - has_vehicle_transmission
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - vehicle_transmission
   - vehicle
   - transmission
 layout:

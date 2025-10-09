@@ -1,7 +1,6 @@
 ---
 aliases:
   - has toc-entry
-  - toc_entry
   - tocEntry
   - has_toc_entry
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - toc_entry
   - toc
   - entry
 layout:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - has type-of-good
-  - type_of_good
   - typeOfGood
   - has_type_of_good
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - type_of_good
   - type
   - of
   - good

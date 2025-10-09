@@ -1,7 +1,6 @@
 ---
 aliases:
   - has vehicle-special-usage
-  - vehicle_special_usage
   - vehicleSpecialUsage
   - has_vehicle_special_usage
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - vehicle_special_usage
   - vehicle
   - special
   - usage

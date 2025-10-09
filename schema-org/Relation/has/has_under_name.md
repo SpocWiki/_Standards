@@ -1,7 +1,6 @@
 ---
 aliases:
   - has under-name
-  - under_name
   - underName
   - has_under_name
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - under_name
   - under
   - name
 layout:

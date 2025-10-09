@@ -1,7 +1,6 @@
 ---
 aliases:
   - has taxonomic-range
-  - taxonomic_range
   - taxonomicRange
   - has_taxonomic_range
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - taxonomic_range
   - taxonomic
   - range
 layout:

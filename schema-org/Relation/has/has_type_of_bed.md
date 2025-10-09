@@ -1,7 +1,6 @@
 ---
 aliases:
   - has type-of-bed
-  - type_of_bed
   - typeOfBed
   - has_type_of_bed
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - type_of_bed
   - type
   - of
   - bed

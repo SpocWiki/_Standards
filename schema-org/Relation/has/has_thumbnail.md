@@ -1,8 +1,6 @@
 ---
 aliases:
   - has thumbnail
-  - thumbnail
-  - thumbnail
   - has_thumbnail
 confidential: public
 cssclasses:

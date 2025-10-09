@@ -1,7 +1,6 @@
 ---
 aliases:
   - has work-performed
-  - work_performed
   - workPerformed
   - has_work_performed
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - work_performed
   - work
   - performed
 layout:

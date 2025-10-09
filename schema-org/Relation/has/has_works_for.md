@@ -1,7 +1,6 @@
 ---
 aliases:
   - has works-for
-  - works_for
   - worksFor
   - has_works_for
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - works_for
   - works
   - for
 layout:

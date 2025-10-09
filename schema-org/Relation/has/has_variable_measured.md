@@ -1,7 +1,6 @@
 ---
 aliases:
   - has variable-measured
-  - variable_measured
   - variableMeasured
   - has_variable_measured
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - variable_measured
   - variable
   - measured
 layout:
