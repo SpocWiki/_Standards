@@ -1,7 +1,6 @@
 ---
 aliases:
   - has price-specification
-  - price_specification
   - priceSpecification
   - has_price_specification
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - price_specification
   - price
   - specification
 layout:
