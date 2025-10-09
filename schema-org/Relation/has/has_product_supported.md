@@ -1,7 +1,6 @@
 ---
 aliases:
   - has product-supported
-  - product_supported
   - productSupported
   - has_product_supported
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - product_supported
   - product
   - supported
 layout:

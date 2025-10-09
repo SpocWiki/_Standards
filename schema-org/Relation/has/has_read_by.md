@@ -1,7 +1,6 @@
 ---
 aliases:
   - has read-by
-  - read_by
   - readBy
   - has_read_by
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - read_by
   - read
   - by
 layout:

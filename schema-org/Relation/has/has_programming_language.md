@@ -1,7 +1,6 @@
 ---
 aliases:
   - has programming-language
-  - programming_language
   - programmingLanguage
   - has_programming_language
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - programming_language
   - programming
   - language
 layout:

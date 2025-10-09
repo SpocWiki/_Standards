@@ -1,7 +1,6 @@
 ---
 aliases:
   - has program-type
-  - program_type
   - programType
   - has_program_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - program_type
   - program
   - type
 layout:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - has publisher-imprint
-  - publisher_imprint
   - publisherImprint
   - has_publisher_imprint
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - publisher_imprint
   - publisher
   - imprint
 layout:
