@@ -1,7 +1,6 @@
 ---
 aliases:
   - has home-team
-  - home_team
   - homeTeam
   - has_home_team
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - home_team
   - home
   - team
 layout:

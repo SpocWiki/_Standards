@@ -1,6 +1,5 @@
 ---
 aliases:
-- editor
 - has_editor
 - "schema:editor"
 - "dbo:editor"

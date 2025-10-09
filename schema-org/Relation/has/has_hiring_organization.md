@@ -1,7 +1,6 @@
 ---
 aliases:
   - has hiring-organization
-  - hiring_organization
   - hiringOrganization
   - has_hiring_organization
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - hiring
   - organization
+  - hiring_organization
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_hiring_organization

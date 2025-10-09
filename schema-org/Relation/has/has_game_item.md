@@ -1,7 +1,6 @@
 ---
 aliases:
   - has game-item
-  - game_item
   - gameItem
   - has_game_item
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - game
   - item
+  - game_item
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_game_item

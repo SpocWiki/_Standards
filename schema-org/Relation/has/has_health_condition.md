@@ -1,7 +1,6 @@
 ---
 aliases:
   - has health-condition
-  - health_condition
   - healthCondition
   - has_health_condition
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - health
   - condition
+  - health_condition
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_health_condition

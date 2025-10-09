@@ -1,8 +1,6 @@
 ---
 aliases:
   - has entertainment-business
-  - entertainment_business
-  - entertainmentBusiness
   - has_entertainment_business
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - entertainment
   - business
+  - entertainment_business
+  - entertainmentBusiness
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_entertainment_business

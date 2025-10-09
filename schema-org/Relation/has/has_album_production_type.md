@@ -13,6 +13,7 @@ keywords:
   - album
   - production
   - type
+  - albumProductionType
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_album_production_type

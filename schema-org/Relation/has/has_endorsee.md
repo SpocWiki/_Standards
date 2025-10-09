@@ -1,8 +1,6 @@
 ---
 aliases:
   - has endorsee
-  - endorsee
-  - endorsee
   - has_endorsee
 confidential: public
 cssclasses:

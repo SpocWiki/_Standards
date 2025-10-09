@@ -1,7 +1,6 @@
 ---
 aliases:
   - has event-attendance-mode
-  - event_attendance_mode
   - eventAttendanceMode
   - has_event_attendance_mode
 confidential: public
@@ -16,6 +15,7 @@ keywords:
   - event
   - attendance
   - mode
+  - event_attendance_mode
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_event_attendance_mode

@@ -1,8 +1,6 @@
 ---
 aliases:
   - has employment-unit
-  - employment_unit
-  - employmentUnit
   - has_employment_unit
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - employment
   - unit
+  - employment_unit
+  - employmentUnit
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_employment_unit

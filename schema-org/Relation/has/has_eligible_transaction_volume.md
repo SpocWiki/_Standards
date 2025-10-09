@@ -1,8 +1,6 @@
 ---
 aliases:
   - has eligible-transaction-volume
-  - eligible_transaction_volume
-  - eligibleTransactionVolume
   - has_eligible_transaction_volume
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - eligible
   - transaction
   - volume
+  - eligible_transaction_volume
+  - eligibleTransactionVolume
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_eligible_transaction_volume

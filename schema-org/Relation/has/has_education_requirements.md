@@ -1,8 +1,6 @@
 ---
 aliases:
   - has education-requirements
-  - education_requirements
-  - educationRequirements
   - has_education_requirements
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - education
   - requirements
+  - education_requirements
+  - educationRequirements
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_education_requirements

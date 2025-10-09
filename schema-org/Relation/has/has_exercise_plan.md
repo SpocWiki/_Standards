@@ -1,7 +1,6 @@
 ---
 aliases:
   - has exercise-plan
-  - exercise_plan
   - exercisePlan
   - has_exercise_plan
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - exercise
   - plan
+  - exercise_plan
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_exercise_plan

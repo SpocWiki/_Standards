@@ -1,8 +1,6 @@
 ---
 aliases:
   - has funding
-  - funding
-  - funding
   - has_funding
 confidential: public
 cssclasses:

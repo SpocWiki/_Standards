@@ -1,8 +1,6 @@
 ---
 aliases:
   - has end-offset
-  - end_offset
-  - endOffset
   - has_end_offset
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - end
   - offset
+  - end_offset
+  - endOffset
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_end_offset

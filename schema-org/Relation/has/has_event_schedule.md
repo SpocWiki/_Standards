@@ -1,7 +1,6 @@
 ---
 aliases:
   - has event-schedule
-  - event_schedule
   - eventSchedule
   - has_event_schedule
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - event
   - schedule
+  - event_schedule
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_event_schedule

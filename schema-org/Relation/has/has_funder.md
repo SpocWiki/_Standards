@@ -1,8 +1,6 @@
 ---
 aliases:
   - has funder
-  - funder
-  - funder
   - has_funder
 confidential: public
 cssclasses:

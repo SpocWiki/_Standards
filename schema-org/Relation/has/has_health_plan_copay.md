@@ -1,7 +1,6 @@
 ---
 aliases:
   - has health-plan-copay
-  - health_plan_copay
   - healthPlanCopay
   - has_health_plan_copay
 confidential: public
@@ -16,6 +15,7 @@ keywords:
   - health
   - plan
   - copay
+  - health_plan_copay
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_health_plan_copay

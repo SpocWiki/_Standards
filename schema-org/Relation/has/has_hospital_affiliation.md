@@ -1,7 +1,6 @@
 ---
 aliases:
   - has hospital-affiliation
-  - hospital_affiliation
   - hospitalAffiliation
   - has_hospital_affiliation
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - hospital
   - affiliation
+  - hospital_affiliation
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_hospital_affiliation

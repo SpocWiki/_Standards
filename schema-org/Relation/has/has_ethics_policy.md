@@ -1,7 +1,6 @@
 ---
 aliases:
   - has ethics-policy
-  - ethics_policy
   - ethicsPolicy
   - has_ethics_policy
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - ethics_policy
   - ethics
   - policy
 layout:

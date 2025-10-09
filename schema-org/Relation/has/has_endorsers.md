@@ -1,8 +1,6 @@
 ---
 aliases:
   - has endorsers
-  - endorsers
-  - endorsers
   - has_endorsers
 confidential: public
 cssclasses:

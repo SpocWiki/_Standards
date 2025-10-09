@@ -1,7 +1,6 @@
 ---
 aliases:
   - has game-availability-type
-  - game_availability_type
   - gameAvailabilityType
   - has_game_availability_type
 confidential: public
@@ -16,6 +15,7 @@ keywords:
   - game
   - availability
   - type
+  - game_availability_type
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_game_availability_type

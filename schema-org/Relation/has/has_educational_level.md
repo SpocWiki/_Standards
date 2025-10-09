@@ -1,8 +1,6 @@
 ---
 aliases:
   - has educational-level
-  - educational_level
-  - educationalLevel
   - has_educational_level
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - educational
   - level
+  - educational_level
+  - educationalLevel
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_educational_level

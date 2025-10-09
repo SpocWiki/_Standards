@@ -1,7 +1,6 @@
 ---
 aliases:
   - has hours-available
-  - hours_available
   - hoursAvailable
   - has_hours_available
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - hours_available
   - hours
   - available
 layout:

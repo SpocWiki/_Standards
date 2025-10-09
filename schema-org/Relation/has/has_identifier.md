@@ -1,8 +1,6 @@
 ---
 aliases:
   - has identifier
-  - identifier
-  - identifier
   - has_identifier
 confidential: public
 cssclasses:

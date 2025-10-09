@@ -1,8 +1,6 @@
 ---
 aliases:
   - has episode
-  - episode
-  - episode
   - has_episode
 confidential: public
 cssclasses:

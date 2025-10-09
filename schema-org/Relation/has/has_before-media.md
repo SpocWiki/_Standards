@@ -26,6 +26,11 @@ title: has_before_media
 type: Predi_Relation
 ---
 
+# [[has_before-media]] 
+
+#is_/similar_to :: [[has_after-media]] 
+#is_/similar_to :: [[has_during-media]] 
+
 Use it like this: 
 - [ #has_/before_media :: MediaObject, URL ] or 
 - [ has_before_media :: MediaObject, URL ] 

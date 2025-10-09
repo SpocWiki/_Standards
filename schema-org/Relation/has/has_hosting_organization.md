@@ -1,7 +1,6 @@
 ---
 aliases:
   - has hosting-organization
-  - hosting_organization
   - hostingOrganization
   - has_hosting_organization
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - hosting
   - organization
+  - hosting_organization
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_hosting_organization

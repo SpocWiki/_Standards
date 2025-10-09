@@ -1,7 +1,6 @@
 ---
 aliases:
   - has game-tip
-  - game_tip
   - gameTip
   - has_game_tip
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - game
   - tip
+  - game_tip
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_game_tip

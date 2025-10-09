@@ -1,7 +1,6 @@
 ---
 aliases:
   - has evidence-level
-  - evidence_level
   - evidenceLevel
   - has_evidence_level
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - evidence
   - level
+  - evidence_level
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_evidence_level
