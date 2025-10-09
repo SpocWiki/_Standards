@@ -39,14 +39,11 @@ Unicode_character: 鍆
 UNII: LW3E571O0Z
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Mendelevium,1898]] 
-
+# [[Mendelevium]] 
 
 #chemic/Element 
 [GroupName::Actinide-Group]
 [Group:[[../Actinide-Group]]
-
-
 
 [Name-en::Mendelevium]
 [Name-de::Mendelevium]
@@ -66,10 +63,9 @@ UNII: LW3E571O0Z
 [FormEnergy-kj-mol::0]
 (PeriodNo::7)
 (GroupNo::35)
-[]
 (Charge-e::101)
 
-
+#is_/same_as :: [[../../../WikiData/WD~Mendelevium,1898]] 
 
 ## #has_/text_of_/abstract 
 
