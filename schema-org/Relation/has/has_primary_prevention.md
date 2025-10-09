@@ -1,7 +1,6 @@
 ---
 aliases:
   - has primary-prevention
-  - primary_prevention
   - primaryPrevention
   - has_primary_prevention
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - primary_prevention
   - primary
   - prevention
 layout:

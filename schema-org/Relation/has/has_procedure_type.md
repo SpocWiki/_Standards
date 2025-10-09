@@ -1,7 +1,6 @@
 ---
 aliases:
   - has procedure-type
-  - procedure_type
   - procedureType
   - has_procedure_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - procedure_type
   - procedure
   - type
 layout:

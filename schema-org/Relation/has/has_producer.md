@@ -1,8 +1,6 @@
 ---
 aliases:
   - has producer
-  - producer
-  - producer
   - has_producer
 confidential: public
 cssclasses:
