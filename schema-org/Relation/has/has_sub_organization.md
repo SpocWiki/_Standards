@@ -1,7 +1,6 @@
 ---
 aliases:
-  - sub-organization
-  - sub_organization
+  - has sub-organization
   - subOrganization
   - has_sub_organization
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - sub_organization
   - sub
   - organization
 layout:

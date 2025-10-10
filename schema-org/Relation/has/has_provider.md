@@ -1,8 +1,6 @@
 ---
 aliases:
-  - provider
-  - provider
-  - provider
+  - has provider
   - has_provider
 confidential: public
 cssclasses:

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - diversity-policy
-  - diversity_policy
-  - diversityPolicy
+  - has diversity-policy
   - has_diversity_policy
 confidential: public
 cssclasses:

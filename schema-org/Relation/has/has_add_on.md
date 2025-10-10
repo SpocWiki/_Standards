@@ -1,8 +1,5 @@
 ---
 aliases:
-  - add-on
-  - add_on
-  - addOn
   - has_add_on
 confidential: public
 cssclasses:
@@ -13,6 +10,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - addOn
   - add
   - on
 layout:

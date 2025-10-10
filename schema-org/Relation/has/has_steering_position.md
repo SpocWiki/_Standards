@@ -1,7 +1,6 @@
 ---
 aliases:
-  - steering-position
-  - steering_position
+  - has steering-position
   - steeringPosition
   - has_steering_position
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - steering_position
   - steering
   - position
 layout:

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - work-presented
-  - work_presented
+  - has work-presented
   - workPresented
   - has_work_presented
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - work_presented
   - work
   - presented
 layout:

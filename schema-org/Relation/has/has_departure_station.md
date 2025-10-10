@@ -1,8 +1,6 @@
 ---
 aliases:
-  - departure-station
-  - departure_station
-  - departureStation
+  - has departure-station
   - has_departure_station
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - departure
   - station
+  - departure_station
+  - departureStation
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_departure_station

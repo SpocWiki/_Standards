@@ -1,8 +1,6 @@
 ---
 aliases:
-  - cheat-code
-  - cheat_code
-  - cheatCode
+  - has cheat-code
   - has_cheat_code
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - cheat
   - code
+  - cheat_code
+  - cheatCode
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_cheat_code

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - coach
-  - coach
-  - coach
+  - has coach
   - has_coach
 confidential: public
 cssclasses:

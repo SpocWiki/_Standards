@@ -1,7 +1,6 @@
 ---
 aliases:
-  - return-fees
-  - return_fees
+  - has return-fees
   - returnFees
   - has_return_fees
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - return_fees
   - return
   - fees
 layout:

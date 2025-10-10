@@ -1,7 +1,6 @@
 ---
 aliases:
-  - legislation-legal-value
-  - legislation_legal_value
+  - has legislation-legal-value
   - legislationLegalValue
   - has_legislation_legal_value
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - legislation_legal_value
   - legislation
   - legal
   - value

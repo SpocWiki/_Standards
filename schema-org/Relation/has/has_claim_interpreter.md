@@ -1,8 +1,6 @@
 ---
 aliases:
-  - claim-interpreter
-  - claim_interpreter
-  - claimInterpreter
+  - has claim-interpreter
   - has_claim_interpreter
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - claim
   - interpreter
+  - claim_interpreter
+  - claimInterpreter
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_claim_interpreter

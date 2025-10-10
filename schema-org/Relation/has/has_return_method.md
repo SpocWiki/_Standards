@@ -1,7 +1,6 @@
 ---
 aliases:
-  - return-method
-  - return_method
+  - has return-method
   - returnMethod
   - has_return_method
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - return_method
   - return
   - method
 layout:

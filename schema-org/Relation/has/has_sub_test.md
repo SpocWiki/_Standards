@@ -1,7 +1,6 @@
 ---
 aliases:
-  - sub-test
-  - sub_test
+  - has sub-test
   - subTest
   - has_sub_test
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - sub_test
   - sub
   - test
 layout:

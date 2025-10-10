@@ -1,7 +1,6 @@
 ---
 aliases:
-  - service-type
-  - service_type
+  - has service-type
   - serviceType
   - has_service_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - service_type
   - service
   - type
 layout:

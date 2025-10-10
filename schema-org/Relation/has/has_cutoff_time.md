@@ -1,8 +1,6 @@
 ---
 aliases:
-  - cutoff-time
-  - cutoff_time
-  - cutoffTime
+  - has cutoff-time
   - has_cutoff_time
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - cutoff
   - time
+  - cutoff_time
+  - cutoffTime
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_cutoff_time

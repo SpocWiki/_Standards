@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-delivery-method
-  - delivery_method
   - hasDeliveryMethod
   - has_delivery_method
 confidential: public
@@ -15,6 +14,8 @@ isReadOnly: false
 keywords:
   - delivery
   - method
+  - delivery_method
+  - deliveryMethod
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_delivery_method

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - current-exchange-rate
-  - current_exchange_rate
-  - currentExchangeRate
+  - has current-exchange-rate
   - has_current_exchange_rate
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - current
   - exchange
   - rate
+  - current_exchange_rate
+  - currentExchangeRate
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_current_exchange_rate

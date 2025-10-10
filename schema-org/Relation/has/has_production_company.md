@@ -1,7 +1,6 @@
 ---
 aliases:
-  - production-company
-  - production_company
+  - has production-company
   - productionCompany
   - has_production_company
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - production_company
   - production
   - company
 layout:

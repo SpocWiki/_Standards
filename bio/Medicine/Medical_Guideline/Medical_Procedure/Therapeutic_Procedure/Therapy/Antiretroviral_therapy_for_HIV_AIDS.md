@@ -11,7 +11,7 @@ Commons_category: Antiretroviral drugs
 
 # [[Antiretroviral_therapy_for_HIV_AIDS]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Antiretroviral_therapy_for_HIV_AIDS,583050|WD~Antiretroviral_therapy_for_HIV_AIDS,583050]]
+#is_/same_as :: [[../../../../../../WikiData/WD~Antiretroviral_therapy_for_HIV_AIDS,583050|WD~Antiretroviral_therapy_for_HIV_AIDS,583050]]
 
 ## #has_/text_of_/abstract 
 

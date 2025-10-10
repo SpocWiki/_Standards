@@ -1,8 +1,6 @@
 ---
 aliases:
-  - broadcaster
-  - broadcaster
-  - broadcaster
+  - has broadcaster
   - has_broadcaster
 confidential: public
 cssclasses:

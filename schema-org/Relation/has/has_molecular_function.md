@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-molecular-function
-  - molecular_function
   - hasMolecularFunction
   - has_molecular_function
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - molecular_function
   - molecular
   - function
 layout:

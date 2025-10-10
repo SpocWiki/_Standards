@@ -1,4 +1,6 @@
 
+# [[has_employer]] 
+
 Use it like this: 
 - [ #has_/employer :: [[../../../Society/Agent/Community/Organization]] ] or 
 - [ has_employer :: [[../../Class/is_a_/Organization]] ] 

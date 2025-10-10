@@ -1,6 +1,5 @@
 ---
 aliases:
-- recipe
 - has_recipe
 - "schema:recipe"
 - "dbo:recipe"

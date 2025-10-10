@@ -1,8 +1,6 @@
 ---
 aliases:
-  - nerve
-  - nerve
-  - nerve
+  - has nerve
   - has_nerve
 confidential: public
 cssclasses:

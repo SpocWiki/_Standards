@@ -1,8 +1,6 @@
 ---
 aliases:
-  - cc-recipient
-  - cc_recipient
-  - ccRecipient
+  - has cc-recipient
   - has_cc_recipient
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - cc
   - recipient
+  - cc_recipient
+  - ccRecipient
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_cc_recipient

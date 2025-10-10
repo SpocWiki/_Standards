@@ -1,7 +1,6 @@
 ---
 aliases:
-  - work-location
-  - work_location
+  - has work-location
   - workLocation
   - has_work_location
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - work_location
   - work
   - location
 layout:

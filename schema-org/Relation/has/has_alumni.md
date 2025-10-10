@@ -1,8 +1,5 @@
 ---
 aliases:
-  - alumni
-  - alumni
-  - alumni
   - has_alumni
 confidential: public
 cssclasses:

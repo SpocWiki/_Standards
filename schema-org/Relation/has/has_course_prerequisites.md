@@ -1,8 +1,6 @@
 ---
 aliases:
-  - course-prerequisites
-  - course_prerequisites
-  - coursePrerequisites
+  - has course-prerequisites
   - has_course_prerequisites
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - course
   - prerequisites
+  - course_prerequisites
+  - coursePrerequisites
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_course_prerequisites

@@ -1,8 +1,6 @@
 ---
 aliases:
   - has-broadcast-channel
-  - broadcast_channel
-  - hasBroadcastChannel
   - has_broadcast_channel
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - broadcast
   - channel
+  - broadcast_channel
+  - hasBroadcastChannel
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_broadcast_channel

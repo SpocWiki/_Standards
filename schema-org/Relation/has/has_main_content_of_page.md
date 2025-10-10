@@ -1,7 +1,6 @@
 ---
 aliases:
-  - main-content-of-page
-  - main_content_of_page
+  - has main-content-of-page
   - mainContentOfPage
   - has_main_content_of_page
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - main_content_of_page
   - main
   - content
   - of

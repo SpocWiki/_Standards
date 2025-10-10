@@ -1,8 +1,5 @@
 ---
 aliases:
-- menu
-- menu
-- menu
 - has_menu
 confidential: public
 cssclasses:

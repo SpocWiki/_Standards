@@ -1,7 +1,6 @@
 ---
 aliases:
-  - result-review
-  - result_review
+  - has result-review
   - resultReview
   - has_result_review
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - result_review
   - result
   - review
 layout:

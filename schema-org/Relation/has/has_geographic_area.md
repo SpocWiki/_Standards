@@ -1,7 +1,6 @@
 ---
 aliases:
-  - geographic-area
-  - geographic_area
+  - has geographic-area
   - geographicArea
   - has_geographic_area
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - geographic
   - area
+  - geographic_area
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_geographic_area

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - sender
-  - sender
-  - sender
+  - has sender
   - has_sender
 confidential: public
 cssclasses:

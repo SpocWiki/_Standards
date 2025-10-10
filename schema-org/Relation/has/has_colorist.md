@@ -1,8 +1,6 @@
 ---
 aliases:
-  - colorist
-  - colorist
-  - colorist
+  - has colorist
   - has_colorist
 confidential: public
 cssclasses:

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - instructor
-  - instructor
-  - instructor
+  - has instructor
   - has_instructor
 confidential: public
 cssclasses:

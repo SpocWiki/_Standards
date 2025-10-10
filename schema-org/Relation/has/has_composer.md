@@ -1,8 +1,5 @@
 ---
 aliases:
-- composer
-- composer
-- composer
 - has_composer
 - "schema:composer"
 - "dbo:composer"

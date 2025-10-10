@@ -1,4 +1,5 @@
 ---
+has_id_wikidata: Q796194
 aliases:
   - medical-procedure
   - medical_procedure
@@ -26,6 +27,8 @@ title: is_a_medical_procedure Class
 type: Type
 ---
 
+# [[Medical_Procedure]] 
+
 Class of all medical_procedures.
 
 Tag Instances like this: 
@@ -38,6 +41,21 @@ A process of care used in either a diagnostic, therapeutic, preventive or pallia
 [ #has_/sub_classes :: [ DiagnosticProcedure, PalliativeProcedure, PhysicalExam, SurgicalProcedure, TherapeuticProcedure ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, bodyLocation, code, description, disambiguatingDescription, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ] ]
+
+#is_/same_as :: [[_Standards/WikiData/WD~medical_procedure,796194]] 
+
+## #has_/text_of_/abstract 
+
+> A medical procedure is a course of action intended to achieve a result in the delivery of healthcare.
+>
+> A medical procedure with the intention of determining, measuring, or diagnosing 
+> a patient condition or parameter is also called a medical test. 
+> 
+> Other common kinds of procedures are therapeutic 
+> (i.e., intended to treat, cure, or restore function or structure), 
+> such as surgical and physical rehabilitation procedures.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Medical%20procedure) 
 
 
 ## Confidential Links & Embeds: 

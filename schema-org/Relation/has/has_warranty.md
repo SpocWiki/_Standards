@@ -1,8 +1,6 @@
 ---
 aliases:
-  - warranty
-  - warranty
-  - warranty
+  - has warranty
   - has_warranty
 confidential: public
 cssclasses:

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - employee
-  - employee
-  - employee
+  - has employee
   - has_employee
 confidential: public
 cssclasses:
@@ -13,6 +11,8 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - employee
+  - employee
   - employee
 layout:
 license: CC BY-SA 4.0

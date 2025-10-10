@@ -1,8 +1,5 @@
 ---
 aliases:
-- aggregate-rating
-- aggregate_rating
-- aggregateRating
 - has_aggregate_rating
 - "schema:aggregateRating"
 - "dbo:rating"
@@ -18,6 +15,7 @@ isReadOnly: false
 keywords:
 - aggregate
 - rating
+- aggregateRating
 layout: 
 license: "CC BY-SA 4.0"
 linkTitle: has_aggregate_rating

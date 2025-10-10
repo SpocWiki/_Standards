@@ -1,7 +1,6 @@
 ---
 aliases:
-  - free-shipping-threshold
-  - free_shipping_threshold
+  - has free-shipping-threshold
   - freeShippingThreshold
   - has_free_shipping_threshold
 confidential: public
@@ -16,6 +15,7 @@ keywords:
   - free
   - shipping
   - threshold
+  - free_shipping_threshold
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_free_shipping_threshold

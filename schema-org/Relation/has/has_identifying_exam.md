@@ -1,7 +1,6 @@
 ---
 aliases:
-  - identifying-exam
-  - identifying_exam
+  - has identifying-exam
   - identifyingExam
   - has_identifying_exam
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - identifying_exam
   - identifying
   - exam
 layout:

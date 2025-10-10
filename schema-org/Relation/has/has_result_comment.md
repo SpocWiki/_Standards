@@ -1,6 +1,6 @@
 ---
 aliases:
-  - result-comment
+  - has result-comment
   - result_comment
   - resultComment
   - has_result_comment

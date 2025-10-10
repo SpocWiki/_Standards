@@ -1,8 +1,5 @@
 ---
 aliases:
-  - agent
-  - agent
-  - agent
   - has_agent
 confidential: public
 cssclasses:

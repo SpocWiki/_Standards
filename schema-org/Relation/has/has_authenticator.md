@@ -1,8 +1,5 @@
 ---
 aliases:
-  - authenticator
-  - authenticator
-  - authenticator
   - has_authenticator
 confidential: public
 cssclasses:

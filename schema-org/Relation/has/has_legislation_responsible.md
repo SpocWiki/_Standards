@@ -1,7 +1,6 @@
 ---
 aliases:
-  - legislation-responsible
-  - legislation_responsible
+  - has legislation-responsible
   - legislationResponsible
   - has_legislation_responsible
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - legislation_responsible
   - legislation
   - responsible
 layout:

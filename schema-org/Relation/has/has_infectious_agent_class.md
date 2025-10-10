@@ -1,7 +1,6 @@
 ---
 aliases:
-  - infectious-agent-class
-  - infectious_agent_class
+  - has infectious-agent-class
   - infectiousAgentClass
   - has_infectious_agent_class
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - infectious_agent_class
   - infectious
   - agent
   - class

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - chemical-role
-  - role_chemical
+  - has chemical-role
   - chemicalRole
   - has_role_chemical
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - role_chemical
   - chemical
   - role
 layout:

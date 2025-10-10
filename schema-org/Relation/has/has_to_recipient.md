@@ -1,7 +1,6 @@
 ---
 aliases:
-  - to-recipient
-  - to_recipient
+  - has to-recipient
   - toRecipient
   - has_to_recipient
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - to_recipient
   - to
   - recipient
 layout:

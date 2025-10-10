@@ -43,6 +43,10 @@ UMLS_CUI: C0025017
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Braucht%20der%20Mensch%20Fleisch%3F.webm"
 ---
 
+# [[Meat]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Meat,10990|WD~Meat,10990]] 
+
 ## #has_/text_of_/abstract 
 
 > **Meat** is animal tissue, often muscle, that is eaten as food. Humans have hunted and farmed other animals for meat since prehistory. The Neolithic Revolution allowed the domestication of vertebrates, including chickens, sheep, goats, pigs, horses, and cattle, starting around 11,000 years ago. Since then, selective breeding has enabled farmers to produce meat with the qualities desired by producers and consumers.

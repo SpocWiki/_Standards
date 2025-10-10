@@ -1,9 +1,7 @@
 ---
 aliases:
-  - acquire-license-page
-  - acquire_license_page
-  - acquireLicensePage
   - has_acquire_license_page
+  - has acquire license page
 confidential: public
 cssclasses:
   - Predicate

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - competitor
-  - competitor
-  - competitor
+  - has competitor
   - has_competitor
 confidential: public
 cssclasses:

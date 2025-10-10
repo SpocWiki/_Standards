@@ -1,7 +1,6 @@
 ---
 aliases:
-  - music-arrangement
-  - music_arrangement
+  - has music-arrangement
   - musicArrangement
   - has_music_arrangement
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - music_arrangement
   - music
   - arrangement
 layout:

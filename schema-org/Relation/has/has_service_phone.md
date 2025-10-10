@@ -1,7 +1,6 @@
 ---
 aliases:
-  - service-phone
-  - service_phone
+  - has service-phone
   - servicePhone
   - has_service_phone
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - service_phone
   - service
   - phone
 layout:

@@ -1,8 +1,5 @@
 ---
 aliases:
-- seeks
-- seeks
-- seeks
 - has_seeks
 - has_demand_for
 confidential: public

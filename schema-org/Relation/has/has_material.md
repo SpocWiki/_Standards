@@ -1,8 +1,6 @@
 ---
 aliases:
-  - material
-  - material
-  - material
+  - has material
   - has_material
 confidential: public
 cssclasses:

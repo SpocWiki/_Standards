@@ -1,7 +1,6 @@
 ---
 aliases:
-  - food-establishment
-  - food_establishment
+  - has food-establishment
   - foodEstablishment
   - has_food_establishment
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - food
   - establishment
+  - food_establishment
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_food_establishment

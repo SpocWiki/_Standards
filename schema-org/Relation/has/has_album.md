@@ -1,8 +1,5 @@
 ---
 aliases:
-  - album
-  - album
-  - album
   - has_album
 confidential: public
 cssclasses:

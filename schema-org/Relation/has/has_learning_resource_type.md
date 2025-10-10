@@ -1,7 +1,6 @@
 ---
 aliases:
-  - learning-resource-type
-  - learning_resource_type
+  - has learning-resource-type
   - learningResourceType
   - has_learning_resource_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - learning_resource_type
   - learning
   - resource
   - type

@@ -1,6 +1,5 @@
 ---
 aliases:
-- license
 - has_license
 - "schema:license"
 - "dbo:license"

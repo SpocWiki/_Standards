@@ -1,8 +1,6 @@
 ---
 aliases:
-  - track
-  - track
-  - track
+  - has track
   - has_track
 confidential: public
 cssclasses:

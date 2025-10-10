@@ -1,8 +1,6 @@
 ---
 aliases:
-  - departure-bus-stop
-  - departure_bus_stop
-  - departureBusStop
+  - has departure-bus-stop
   - has_departure_bus_stop
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - departure
   - bus
   - stop
+  - departure_bus_stop
+  - departureBusStop
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_departure_bus_stop

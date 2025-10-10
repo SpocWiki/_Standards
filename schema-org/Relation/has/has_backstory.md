@@ -1,8 +1,5 @@
 ---
 aliases:
-  - backstory
-  - backstory
-  - backstory
   - has_backstory
 confidential: public
 cssclasses:

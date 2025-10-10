@@ -1,8 +1,5 @@
 ---
 aliases:
-  - action-platform
-  - action_platform
-  - actionPlatform
   - has_action_platform
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - action
   - platform
+  - actionPlatform
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_action_platform

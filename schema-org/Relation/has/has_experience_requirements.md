@@ -1,7 +1,6 @@
 ---
 aliases:
-  - experience-requirements
-  - experience_requirements
+  - has experience-requirements
   - experienceRequirements
   - has_experience_requirements
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - experience
   - requirements
+  - experience_requirements
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_experience_requirements

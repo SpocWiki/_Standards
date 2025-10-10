@@ -1,7 +1,6 @@
 ---
 aliases:
-  - measured-property
-  - measured_property
+  - has measured-property
   - measuredProperty
   - has_measured_property
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - measured
   - property
+  - measured_property
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_measured_property

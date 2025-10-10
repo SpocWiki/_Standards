@@ -1,7 +1,6 @@
 ---
 aliases:
-  - observed-node
-  - observed_node
+  - has observed-node
   - observedNode
   - has_observed_node
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - observed_node
   - observed
   - node
 layout:

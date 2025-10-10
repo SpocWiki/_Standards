@@ -1,7 +1,6 @@
 ---
 aliases:
-  - value-reference
-  - value_reference
+  - has value-reference
   - valueReference
   - has_value_reference
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - value_reference
   - value
   - reference
 layout:

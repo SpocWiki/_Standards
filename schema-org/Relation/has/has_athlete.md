@@ -1,8 +1,5 @@
 ---
 aliases:
-  - athlete
-  - athlete
-  - athlete
   - has_athlete
 confidential: public
 cssclasses:

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - documentation
-  - documentation
-  - documentation
+  - has documentation
   - has_documentation
 confidential: public
 cssclasses:

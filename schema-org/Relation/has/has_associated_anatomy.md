@@ -1,8 +1,5 @@
 ---
 aliases:
-  - associated-anatomy
-  - associated_anatomy
-  - associatedAnatomy
   - has_associated_anatomy
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - associated
   - anatomy
+  - associatedAnatomy
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_associated_anatomy

@@ -52,7 +52,7 @@ Krugosvet_article: medicina/OBREZANIE.html
 
 # [[Circumcision]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Circumcision,83345|WD~Circumcision,83345]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Circumcision,83345|WD~Circumcision,83345]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - disease-spread-statistics
-  - disease_spread_statistics
-  - diseaseSpreadStatistics
+  - has disease-spread-statistics
   - has_disease_spread_statistics
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - disease
   - spread
   - statistics
+  - disease_spread_statistics
+  - diseaseSpreadStatistics
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_disease_spread_statistics

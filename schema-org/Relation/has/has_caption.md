@@ -1,8 +1,6 @@
 ---
 aliases:
-  - caption
-  - caption
-  - caption
+  - has caption
   - has_caption
 confidential: public
 cssclasses:

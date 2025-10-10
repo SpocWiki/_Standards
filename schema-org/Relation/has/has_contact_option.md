@@ -1,8 +1,6 @@
 ---
 aliases:
-  - contact-option
-  - contact_option
-  - contactOption
+  - has contact-option
   - has_contact_option
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - contact
   - option
+  - contact_option
+  - contactOption
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_contact_option

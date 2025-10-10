@@ -1,8 +1,6 @@
 ---
 aliases:
-  - contact-point
-  - contact_point
-  - contactPoint
+  - has contact-point
   - has_contact_point
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - contact
   - point
+  - contact_point
+  - contactPoint
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_contact_point

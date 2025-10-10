@@ -1,7 +1,6 @@
 ---
 aliases:
-  - return-policy-country
-  - return_policy_country
+  - has return-policy-country
   - returnPolicyCountry
   - has_return_policy_country
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - return_policy_country
   - return
   - policy
   - country

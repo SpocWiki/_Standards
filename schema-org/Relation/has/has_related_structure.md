@@ -1,7 +1,6 @@
 ---
 aliases:
-  - related-structure
-  - related_structure
+  - has related-structure
   - relatedStructure
   - has_related_structure
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - related_structure
   - related
   - structure
 layout:

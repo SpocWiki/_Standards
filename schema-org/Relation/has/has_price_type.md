@@ -1,7 +1,6 @@
 ---
 aliases:
-  - price-type
-  - price_type
+  - has price-type
   - priceType
   - has_price_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - price_type
   - price
   - type
 layout:

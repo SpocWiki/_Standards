@@ -1,7 +1,6 @@
 ---
 aliases:
-  - home-location
-  - home_location
+  - has home-location
   - homeLocation
   - has_home_location
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - home_location
   - home
   - location
 layout:

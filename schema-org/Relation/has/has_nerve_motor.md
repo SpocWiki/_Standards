@@ -1,7 +1,6 @@
 ---
 aliases:
-  - nerve-motor
-  - nerve_motor
+  - has nerve-motor
   - nerveMotor
   - has_nerve_motor
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - nerve_motor
   - nerve
   - motor
 layout:

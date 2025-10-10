@@ -1,7 +1,6 @@
 ---
 aliases:
-  - event-status
-  - event_status
+  - has event-status
   - eventStatus
   - has_event_status
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - event
   - status
+  - event_status
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_event_status

@@ -1,8 +1,5 @@
 ---
 aliases:
-  - available-test
-  - available_test
-  - availableTest
   - has_available_test
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - available
   - test
+  - availableTest
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_available_test

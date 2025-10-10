@@ -1,7 +1,6 @@
 ---
 aliases:
-  - item-defect-return-label-source
-  - item_defect_return_label_source
+  - has item-defect-return-label-source
   - itemDefectReturnLabelSource
   - has_item_defect_return_label_source
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - item_defect_return_label_source
   - item
   - defect
   - return

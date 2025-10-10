@@ -1,8 +1,5 @@
 ---
 aliases:
-  - associated-claim-review
-  - associated_claim_review
-  - associatedClaimReview
   - has_associated_claim_review
 confidential: public
 cssclasses:
@@ -16,6 +13,7 @@ keywords:
   - associated
   - claim
   - review
+  - associatedClaimReview
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_associated_claim_review

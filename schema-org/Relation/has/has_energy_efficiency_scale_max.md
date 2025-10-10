@@ -1,8 +1,6 @@
 ---
 aliases:
-  - energy-efficiency-scale-max
-  - energy_efficiency_scale_max
-  - energyEfficiencyScaleMax
+  - has energy-efficiency-scale-max
   - has_energy_efficiency_scale_max
 confidential: public
 cssclasses:
@@ -17,6 +15,8 @@ keywords:
   - efficiency
   - scale
   - max
+  - energy_efficiency_scale_max
+  - energyEfficiencyScaleMax
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_energy_efficiency_scale_max

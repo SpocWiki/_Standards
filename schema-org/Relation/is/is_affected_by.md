@@ -1,8 +1,8 @@
 ---
 aliases:
   - affected-by
-  - affected_by
   - affectedBy
+  - is affected by
   - is_affected_by
 confidential: public
 cssclasses:

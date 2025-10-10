@@ -1,8 +1,6 @@
 ---
 aliases:
-  - organizer
-  - organizer
-  - organizer
+  - has organizer
   - has_organizer
 confidential: public
 cssclasses:

@@ -1,8 +1,5 @@
 ---
 aliases:
-  - actionable-feedback-policy
-  - actionable_feedback_policy
-  - actionableFeedbackPolicy
   - has_actionable_feedback_policy
 confidential: public
 cssclasses:
@@ -16,6 +13,7 @@ keywords:
   - actionable
   - feedback
   - policy
+  - actionableFeedbackPolicy
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_actionable_feedback_policy

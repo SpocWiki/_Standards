@@ -1,8 +1,5 @@
 ---
 aliases:
-  - album-production-type
-  - album_production_type
-  - albumProductionType
   - has_album_production_type
 confidential: public
 cssclasses:
@@ -16,6 +13,7 @@ keywords:
   - album
   - production
   - type
+  - albumProductionType
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_album_production_type

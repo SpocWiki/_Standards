@@ -1,8 +1,5 @@
 ---
 aliases:
-  - arrival-station
-  - arrival_station
-  - arrivalStation
   - has_arrival_station
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - arrival
   - station
+  - arrivalStation
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_arrival_station

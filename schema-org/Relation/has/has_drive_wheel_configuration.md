@@ -1,8 +1,6 @@
 ---
 aliases:
-  - drive-wheel-configuration
-  - drive_wheel_configuration
-  - driveWheelConfiguration
+  - has drive-wheel-configuration
   - has_drive_wheel_configuration
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - drive
   - wheel
   - configuration
+  - drive_wheel_configuration
+  - driveWheelConfiguration
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_drive_wheel_configuration

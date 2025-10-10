@@ -1,8 +1,6 @@
 ---
 aliases:
-  - size
-  - size
-  - size
+  - has size
   - has_size
 confidential: public
 cssclasses:

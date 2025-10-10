@@ -1,8 +1,6 @@
 ---
 aliases:
-  - contraindication
-  - contraindication
-  - contraindication
+  - has contraindication
   - has_contraindication
 confidential: public
 cssclasses:

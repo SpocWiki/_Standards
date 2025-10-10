@@ -1,8 +1,5 @@
 ---
 aliases:
-- creator
-- creator
-- creator
 - has_creator
 - "has creator"
 confidential: public

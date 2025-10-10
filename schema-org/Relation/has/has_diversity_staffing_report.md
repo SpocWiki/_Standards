@@ -1,8 +1,6 @@
 ---
 aliases:
-  - diversity-staffing-report
-  - diversity_staffing_report
-  - diversityStaffingReport
+  - has diversity-staffing-report
   - has_diversity_staffing_report
 confidential: public
 cssclasses:

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - replacee
-  - replacee
-  - replacee
+  - has replacee
   - has_replacee
 confidential: public
 cssclasses:

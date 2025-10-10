@@ -1,7 +1,6 @@
 ---
 aliases:
-  - recipe-instructions
-  - recipe_instructions
+  - has recipe-instructions
   - recipeInstructions
   - has_recipe_instructions
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - recipe_instructions
   - recipe
   - instructions
 layout:

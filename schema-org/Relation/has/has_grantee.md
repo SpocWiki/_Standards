@@ -1,8 +1,6 @@
 ---
 aliases:
-  - grantee
-  - grantee
-  - grantee
+  - has grantee
   - has_grantee
 confidential: public
 cssclasses:

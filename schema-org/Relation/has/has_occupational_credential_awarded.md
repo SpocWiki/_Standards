@@ -1,7 +1,6 @@
 ---
 aliases:
-  - occupational-credential-awarded
-  - occupational_credential_awarded
+  - has occupational-credential-awarded
   - occupationalCredentialAwarded
   - has_occupational_credential_awarded
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - occupational_credential_awarded
   - occupational
   - credential
   - awarded

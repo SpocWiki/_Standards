@@ -1,8 +1,6 @@
 ---
 aliases:
-- translator
-- translator
-- translator
+- has translator
 - has_translator
 - "schema:translator"
 - "dbo:translator"

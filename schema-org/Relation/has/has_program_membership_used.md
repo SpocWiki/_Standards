@@ -1,7 +1,6 @@
 ---
 aliases:
-  - program-membership-used
-  - program_membership_used
+  - has program-membership-used
   - programMembershipUsed
   - has_program_membership_used
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - program_membership_used
   - program
   - membership
   - used

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - no-bylines-policy
-  - no_bylines_policy
+  - has no-bylines-policy
   - noBylinesPolicy
   - has_no_bylines_policy
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - no_bylines_policy
   - no
   - bylines
   - policy

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - capital
+  - has capital
   - has_capital
   - P36
   - 

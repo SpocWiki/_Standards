@@ -1,7 +1,6 @@
 ---
 aliases:
-  - item-list-element
-  - item_list_element
+  - has item-list-element
   - itemListElement
   - has_item_list_element
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - item_list_element
   - item
   - list
   - element

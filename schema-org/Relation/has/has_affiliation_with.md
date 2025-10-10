@@ -1,6 +1,5 @@
 ---
 aliases:
-- affiliation
 - has_affiliation_with
 - is_affiliated_with
 - "schema:affiliation"
@@ -16,6 +15,7 @@ isDeleted: false
 isReadOnly: false
 keywords:
 - affiliation
+- affiliationWith
 layout: 
 license: "CC BY-SA 4.0"
 linkTitle: has_affiliation_with

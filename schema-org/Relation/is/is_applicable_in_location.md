@@ -1,8 +1,8 @@
 ---
 aliases:
   - applicable-location
-  - applicable_location
   - applicableLocation
+  - has applicable location
   - is_applicable_in_location
 confidential: public
 cssclasses:

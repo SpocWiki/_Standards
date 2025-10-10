@@ -1,6 +1,5 @@
 ---
 aliases:
-- founder
 - has_founder
 - "schema:founder"
 - "dbo:founder"

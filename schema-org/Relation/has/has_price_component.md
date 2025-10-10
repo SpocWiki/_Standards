@@ -1,7 +1,6 @@
 ---
 aliases:
-  - price-component
-  - price_component
+  - has price-component
   - priceComponent
   - has_price_component
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - price_component
   - price
   - component
 layout:
