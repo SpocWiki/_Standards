@@ -396,13 +396,16 @@ For more Details, check out this Repository into this Subfolder:
 
 [ISO2::SD]
 [ISO3::SDN]
+
+## #has_/map 
+
 ```leaflet
 id: Sudan
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sudan~North//
-markerFolder: ./Sudan~North//
+markerFolder: ./Sudan~North/
 ```
 
 [name-en::Sudan]
