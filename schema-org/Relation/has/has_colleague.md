@@ -1,8 +1,6 @@
 ---
 aliases:
-  - colleague
-  - colleague
-  - colleague
+  - has colleague
   - has_colleague
 confidential: public
 cssclasses:

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - first-appearance
-  - first_appearance
+  - has first-appearance
   - firstAppearance
   - has_first_appearance_in
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - first
   - appearance
+  - first_appearance
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_first_appearance_in

@@ -1,7 +1,6 @@
 ---
 aliases:
 - parent-organization
-- parent_organization
 - parentOrganization
 - has_parent_organization
 - is_branch_of
@@ -14,6 +13,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+- parent_organization
 - parent
 - organization
 layout: 

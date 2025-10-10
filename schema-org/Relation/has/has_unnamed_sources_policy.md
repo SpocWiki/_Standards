@@ -1,7 +1,6 @@
 ---
 aliases:
-  - unnamed-sources-policy
-  - unnamed_sources_policy
+  - has unnamed-sources-policy
   - unnamedSourcesPolicy
   - has_unnamed_sources_policy
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - unnamed_sources_policy
   - unnamed
   - sources
   - policy

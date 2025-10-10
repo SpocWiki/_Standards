@@ -1,8 +1,6 @@
 ---
 aliases:
-  - publication
-  - publication
-  - publication
+  - has publication
   - has_publication
 confidential: public
 cssclasses:

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - released-event
-  - released_event
+  - has released-event
   - releasedEvent
   - has_released_event
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - released_event
   - released
   - event
 layout:

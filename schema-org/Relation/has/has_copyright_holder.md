@@ -1,8 +1,6 @@
 ---
 aliases:
-  - copyright-holder
-  - copyright_holder
-  - copyrightHolder
+  - has copyright-holder
   - has_copyright_holder
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - copyright
   - holder
+  - copyright_holder
+  - copyrightHolder
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_copyright_holder

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - energy-efficiency-scale-min
-  - energy_efficiency_scale_min
-  - energyEfficiencyScaleMin
+  - has energy-efficiency-scale-min
   - has_energy_efficiency_scale_min
 confidential: public
 cssclasses:
@@ -17,6 +15,8 @@ keywords:
   - efficiency
   - scale
   - min
+  - energy_efficiency_scale_min
+  - energyEfficiencyScaleMin
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_energy_efficiency_scale_min

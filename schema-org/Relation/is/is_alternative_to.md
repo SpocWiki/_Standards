@@ -1,8 +1,8 @@
 ---
 aliases:
   - alternative-of
-  - alternative_to
   - alternativeTo
+  - is alternative to
   - is_alternative_to
 confidential: public
 cssclasses:

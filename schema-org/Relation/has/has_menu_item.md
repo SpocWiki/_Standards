@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-menu-item
-  - menu_item
   - hasMenuItem
   - has_menu_item
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - menu_item
   - menu
   - item
 layout:

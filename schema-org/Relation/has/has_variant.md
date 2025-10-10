@@ -1,7 +1,6 @@
 ---
 aliases:
   - has-variant
-  - variant
   - hasVariant
   - has_variant
 confidential: public

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - cause-of
-  - cause_of
-  - causeOf
+  - has cause-of
   - has_cause_of
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - cause
   - of
+  - cause_of
+  - causeOf
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_cause_of

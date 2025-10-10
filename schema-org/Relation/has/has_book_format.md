@@ -1,8 +1,6 @@
 ---
 aliases:
-  - book-format
-  - book_format
-  - bookFormat
+  - has book-format
   - has_book_format
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - book
   - format
+  - book_format
+  - bookFormat
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_book_format

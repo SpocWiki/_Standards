@@ -1,8 +1,6 @@
 ---
 aliases:
-  - differential-diagnosis
-  - differential_diagnosis
-  - differentialDiagnosis
+  - has differential-diagnosis
   - has_differential_diagnosis
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - differential
   - diagnosis
+  - differential_diagnosis
+  - differentialDiagnosis
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_differential_diagnosis

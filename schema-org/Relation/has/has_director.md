@@ -1,8 +1,6 @@
 ---
 aliases:
-- director
-- director
-- director
+- has director
 - has_director
 - "schema:director"
 - "dbo:director"

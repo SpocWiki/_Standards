@@ -1,7 +1,6 @@
 ---
 aliases:
-  - first-performance
-  - first_performance
+  - has first-performance
   - firstPerformance
   - has_first_performance
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - first
   - performance
+  - first_performance
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_first_performance

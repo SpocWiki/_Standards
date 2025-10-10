@@ -1,8 +1,6 @@
 ---
 aliases:
-  - lyrics
-  - lyrics
-  - lyrics
+  - has lyrics
   - has_lyrics
 confidential: public
 cssclasses:

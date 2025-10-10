@@ -1,7 +1,6 @@
 ---
 aliases:
-  - return-policy-seasonal-override
-  - return_policy_seasonal_override
+  - has return-policy-seasonal-override
   - returnPolicySeasonalOverride
   - has_return_policy_seasonal_override
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - return_policy_seasonal_override
   - return
   - policy
   - seasonal

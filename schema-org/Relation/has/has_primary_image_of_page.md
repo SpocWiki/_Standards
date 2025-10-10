@@ -1,7 +1,6 @@
 ---
 aliases:
-  - primary-image-of-page
-  - primary_image_of_page
+  - has primary-image-of-page
   - primaryImageOfPage
   - has_primary_image_of_page
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - primary_image_of_page
   - primary
   - image
   - of

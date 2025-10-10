@@ -1,8 +1,5 @@
 ---
 aliases:
-  - arrival-bus-stop
-  - arrival_bus_stop
-  - arrivalBusStop
   - has_arrival_bus_stop
 confidential: public
 cssclasses:
@@ -16,6 +13,7 @@ keywords:
   - arrival
   - bus
   - stop
+  - arrivalBusStop
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_arrival_bus_stop

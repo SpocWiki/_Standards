@@ -1,7 +1,6 @@
 ---
 aliases:
-  - software-help
-  - software_help
+  - has software-help
   - softwareHelp
   - has_software_help
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - software_help
   - software
   - help
 layout:

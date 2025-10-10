@@ -1,7 +1,6 @@
 ---
 aliases:
 - nutrition
-- has_nutrition
 - "schema:nutrition"
 - "dbo:nutrition"
 - "wdt:P4224"
@@ -14,6 +13,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+- has_nutrition
 - nutrition
 layout: 
 license: "CC BY-SA 4.0"

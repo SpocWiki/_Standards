@@ -1,7 +1,6 @@
 ---
 aliases:
-  - media-item-appearance
-  - media_item_appearance
+  - has media-item-appearance
   - mediaItemAppearance
   - has_media_item_appearance
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - media_item_appearance
   - media
   - item
   - appearance

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - release-of
-  - release_of
+  - has release-of
   - releaseOf
   - has_release_of
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - release_of
   - release
   - of
 layout:

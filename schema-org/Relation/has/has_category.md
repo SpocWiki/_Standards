@@ -1,8 +1,7 @@
 ---
 aliases:
-  - category
-  - category
-  - Kategorie
+  - has category
+  - hat Kategorie
   - has_category
 confidential: public
 cssclasses:

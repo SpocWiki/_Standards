@@ -1,8 +1,6 @@
 ---
 aliases:
-  - maintainer
-  - maintainer
-  - maintainer
+  - has maintainer
   - has_maintainer
 confidential: public
 cssclasses:

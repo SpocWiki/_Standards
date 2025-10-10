@@ -1,8 +1,6 @@
 ---
 aliases:
-  - broadcast-frequency
-  - broadcast_frequency
-  - broadcastFrequency
+  - has broadcast-frequency
   - has_broadcast_frequency
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - broadcast
   - frequency
+  - broadcast_frequency
+  - broadcastFrequency
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_broadcast_frequency

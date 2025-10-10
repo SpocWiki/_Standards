@@ -1,8 +1,6 @@
 ---
 aliases:
-  - departure-airport
-  - departure_airport
-  - departureAirport
+  - has departure-airport
   - has_departure_airport
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - departure
   - airport
+  - departure_airport
+  - departureAirport
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_departure_airport

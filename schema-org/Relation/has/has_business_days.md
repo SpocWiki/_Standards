@@ -1,8 +1,6 @@
 ---
 aliases:
-  - business-days
-  - business_days
-  - businessDays
+  - has business-days
   - has_business_days
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - business
   - days
+  - business_days
+  - businessDays
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_business_days

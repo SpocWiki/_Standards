@@ -1,8 +1,6 @@
 ---
 aliases:
-  - trailer
-  - trailer
-  - trailer
+  - has trailer
   - has_trailer
 confidential: public
 cssclasses:

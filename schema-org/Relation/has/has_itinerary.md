@@ -1,8 +1,6 @@
 ---
 aliases:
-  - itinerary
-  - itinerary
-  - itinerary
+  - has itinerary
   - has_itinerary
 confidential: public
 cssclasses:

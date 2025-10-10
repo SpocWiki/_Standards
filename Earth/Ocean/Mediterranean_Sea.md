@@ -358,6 +358,7 @@ volume_as_quantity: 3839000
 
 #has_/time_/destroyed/Ma :: -5.9
 #has_/time_/started/Ma :: -5.3 
+#is_/same_as :: [[../../WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]] 
 
 ## #has_/text_of_/abstract 
 

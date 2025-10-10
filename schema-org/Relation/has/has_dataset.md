@@ -1,8 +1,6 @@
 ---
 aliases:
-  - dataset
-  - dataset
-  - dataset
+  - has dataset
   - has_dataset
 confidential: public
 cssclasses:

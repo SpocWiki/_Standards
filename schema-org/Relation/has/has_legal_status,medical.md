@@ -1,7 +1,6 @@
 ---
 aliases:
-  - legal-status
-  - legal_status
+  - has legal-status
   - legalStatus
   - has_legal_status
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - legal_status
   - legal
   - status
 layout:

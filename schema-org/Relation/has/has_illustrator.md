@@ -1,8 +1,5 @@
 ---
 aliases:
-- illustrator
-- illustrator
-- illustrator
 - has_illustrator
 - "schema:illustrator"
 - "dbo:illustrator"

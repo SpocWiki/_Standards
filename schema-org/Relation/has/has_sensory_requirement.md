@@ -1,7 +1,6 @@
 ---
 aliases:
-  - sensory-requirement
-  - sensory_requirement
+  - has sensory-requirement
   - sensoryRequirement
   - has_sensory_requirement
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - sensory_requirement
   - sensory
   - requirement
 layout:

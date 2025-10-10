@@ -1,8 +1,6 @@
 ---
 aliases:
-  - guideline
-  - guideline
-  - guideline
+  - has guideline
   - has_guideline
 confidential: public
 cssclasses:

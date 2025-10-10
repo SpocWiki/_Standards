@@ -1,7 +1,6 @@
 ---
 aliases:
-  - shared-content
-  - shared_content
+  - has shared-content
   - sharedContent
   - has_shared_content
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - shared_content
   - shared
   - content
 layout:

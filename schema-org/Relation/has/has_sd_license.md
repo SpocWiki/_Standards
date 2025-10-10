@@ -1,11 +1,11 @@
 ---
 aliases:
-  - sd-license
-  - sd_license
+  - has sd-license
   - sdLicense
   - has_sd_license
 confidential: public
 cssclasses:
+  - sd_license
   - Predicate
   - Relation
 draft: false

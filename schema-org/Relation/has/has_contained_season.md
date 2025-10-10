@@ -1,8 +1,5 @@
 ---
 aliases:
-- contains-season
-- contains_season
-- containsSeason
 - has_contained_season
 - has_season
 confidential: public
@@ -16,6 +13,9 @@ isReadOnly: false
 keywords:
 - contains
 - season
+- contains-season
+- contains_season
+- containsSeason
 layout: 
 license: "CC BY-SA 4.0"
 linkTitle: has_contained_season

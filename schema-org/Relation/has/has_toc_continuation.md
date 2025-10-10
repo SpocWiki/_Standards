@@ -1,7 +1,6 @@
 ---
 aliases:
-  - toc-continuation
-  - toc_continuation
+  - has toc-continuation
   - tocContinuation
   - has_toc_continuation
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - toc_continuation
   - toc
   - continuation
 layout:

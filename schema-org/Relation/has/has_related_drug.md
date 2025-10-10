@@ -1,7 +1,6 @@
 ---
 aliases:
-  - related-drug
-  - related_drug
+  - has related-drug
   - relatedDrug
   - has_related_drug
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - related_drug
   - related
   - drug
 layout:

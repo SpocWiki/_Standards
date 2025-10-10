@@ -158,10 +158,15 @@ writing_language:
 - '[[_Standards/WikiData/WD~German,188]]'
 ---
 
+# [[Luther,Martin]] 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Martin_Luther,9554|WD~Martin_Luther,9554]] 
+
 ## #has_/text_of_/abstract 
 
 > **Martin Luther**  ( LOO-thər; German: [ˈmaʁtiːn ˈlʊtɐ] ; 10 November 1483 – 18 February 1546) 
 > was a German priest, theologian, author, hymnwriter, professor, and Augustinian friar. 
+> 
 > Luther was the seminal figure of the Protestant Reformation, and his theological beliefs form the basis of Lutheranism. He is widely regarded as one of the most influential figures in Western and Christian history.
 >
 > Luther was ordained to the priesthood in 1507. He came to reject several teachings and practices of the Roman Catholic Church, in particular the view on indulgences. Luther attempted to resolve these differences amicably, first proposing an academic discussion of the practice and efficacy of indulgences in Ninety-five Theses, which he authored in 1517. In 1520, Pope Leo X demanded that Luther renounce all of his writings, and when Luther refused to do so, excommunicated him in January 1521. Later that year, Holy Roman Emperor Charles V condemned Luther as an outlaw at the Diet of Worms. When Luther died in 1546, Pope Leo X's excommunication was still in effect.

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - game-server
-  - game_server
+  - has game-server
   - gameServer
   - has_game_server
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - game
   - server
+  - game_server
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_game_server

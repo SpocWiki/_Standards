@@ -1,8 +1,6 @@
 ---
 aliases:
-  - quest
-  - quest
-  - quest
+  - has quest
   - has_quest
 confidential: public
 cssclasses:

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - publishing-principles
-  - publishing_principles
+  - has publishing-principles
   - publishingPrinciples
   - has_publishing_principles
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - publishing_principles
   - publishing
   - principles
 layout:

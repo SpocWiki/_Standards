@@ -1,7 +1,6 @@
 ---
 aliases:
-  - exif-data
-  - exif_data
+  - has exif-data
   - exifData
   - has_exif_data
 confidential: public
@@ -15,6 +14,7 @@ isReadOnly: false
 keywords:
   - exif
   - data
+  - exif_data
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_exif_data

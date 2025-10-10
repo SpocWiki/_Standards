@@ -1,8 +1,8 @@
 ---
 aliases:
 - alumni-of
-- alumni_of
 - alumniOf
+- is alumni of
 - is_alumni_of
 - "schema:alumniOf"
 - "dbo:almaMater"

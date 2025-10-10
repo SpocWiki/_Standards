@@ -1,8 +1,6 @@
 ---
 aliases:
-  - delivery-status
-  - delivery_status
-  - deliveryStatus
+  - has delivery-status
   - has_delivery_status
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - delivery
   - status
+  - delivery_status
+  - deliveryStatus
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_delivery_status

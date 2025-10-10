@@ -1,7 +1,6 @@
 ---
 aliases:
-  - warranty-scope
-  - warranty_scope
+  - has warranty-scope
   - warrantyScope
   - has_warranty_scope
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - warranty_scope
   - warranty
   - scope
 layout:

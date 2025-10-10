@@ -1,7 +1,7 @@
 ---
 aliases:
-  - applicable-country
-  - applicable_country
+  - has applicable country
+  - is applicable in country
   - applicableCountry
   - is_applicable_in_country
 confidential: public

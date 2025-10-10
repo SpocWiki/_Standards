@@ -1,7 +1,6 @@
 ---
 aliases:
-  - reservation-for
-  - reservation_for
+  - has reservation-for
   - reservationFor
   - has_reservation_for
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - reservation_for
   - reservation
   - for
 layout:

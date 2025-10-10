@@ -1,8 +1,6 @@
 ---
 aliases:
-  - workload
-  - workload
-  - workload
+  - has workload
   - has_workload
 confidential: public
 cssclasses:

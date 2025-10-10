@@ -1,8 +1,5 @@
 ---
 aliases:
-- logo
-- logo
-- logo
 - has_logo
 - "schema:logo"
 - "dbo:logo"

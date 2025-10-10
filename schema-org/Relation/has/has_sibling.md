@@ -1,8 +1,6 @@
 ---
 aliases:
-  - sibling
-  - sibling
-  - sibling
+  - has sibling
   - has_sibling
 confidential: public
 cssclasses:

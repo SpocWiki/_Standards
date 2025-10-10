@@ -1,8 +1,6 @@
 ---
 aliases:
-  - engine-type
-  - engine_type
-  - engineType
+  - has engine-type
   - has_engine_type
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - engine
   - type
+  - engine_type
+  - engineType
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_engine_type

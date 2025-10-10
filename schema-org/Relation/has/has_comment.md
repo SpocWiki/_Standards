@@ -1,8 +1,6 @@
 ---
 aliases:
-  - comment
-  - comment
-  - comment
+  - has comment
   - has_comment
 confidential: public
 cssclasses:

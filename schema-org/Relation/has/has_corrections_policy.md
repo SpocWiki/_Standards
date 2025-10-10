@@ -1,8 +1,6 @@
 ---
 aliases:
-  - corrections-policy
-  - corrections_policy
-  - correctionsPolicy
+  - has corrections-policy
   - has_corrections_policy
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - corrections
   - policy
+  - corrections_policy
+  - correctionsPolicy
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_corrections_policy

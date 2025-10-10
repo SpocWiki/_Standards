@@ -1,8 +1,5 @@
 ---
 aliases:
-  - area-served
-  - area_served
-  - areaServed
   - has_area_served
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - area
   - served
+  - areaServed
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_area_served

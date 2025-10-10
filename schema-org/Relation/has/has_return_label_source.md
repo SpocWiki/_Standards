@@ -1,7 +1,6 @@
 ---
 aliases:
-  - return-label-source
-  - return_label_source
+  - has return-label-source
   - returnLabelSource
   - has_return_label_source
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - return_label_source
   - return
   - label
   - source

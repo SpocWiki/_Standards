@@ -1,7 +1,6 @@
 ---
 aliases:
 - sports-team
-- sports_team
 - sportsTeam
 - has_sports_team
 - "schema:SportsTeam"
@@ -15,6 +14,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+- sports_team
 - sports
 - team
 layout: 

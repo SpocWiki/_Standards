@@ -1,8 +1,6 @@
 ---
 aliases:
-  - recipient
-  - recipient
-  - recipient
+  - has recipient
   - has_recipient
 confidential: public
 cssclasses:

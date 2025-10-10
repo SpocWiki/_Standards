@@ -1,7 +1,6 @@
 ---
 aliases:
-  - legislation-type
-  - legislation_type
+  - has legislation-type
   - legislationType
   - has_legislation_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - legislation_type
   - legislation
   - type
 layout:

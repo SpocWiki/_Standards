@@ -1,7 +1,7 @@
 ---
 aliases:
   - applies-to-payment-method
-  - applying_to_payment_method
+  - is applying to payment method
   - appliesToPaymentMethod
   - is_applying_to_payment_method
 confidential: public

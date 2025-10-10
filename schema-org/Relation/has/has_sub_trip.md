@@ -1,7 +1,6 @@
 ---
 aliases:
-  - sub-trip
-  - sub_trip
+  - has sub-trip
   - subTrip
   - has_sub_trip
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - sub_trip
   - sub
   - trip
 layout:

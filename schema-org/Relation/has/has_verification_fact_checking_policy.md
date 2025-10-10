@@ -1,7 +1,6 @@
 ---
 aliases:
-  - verification-fact-checking-policy
-  - verification_fact_checking_policy
+  - has verification-fact-checking-policy
   - verificationFactCheckingPolicy
   - has_verification_fact_checking_policy
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - verification_fact_checking_policy
   - verification
   - fact
   - checking

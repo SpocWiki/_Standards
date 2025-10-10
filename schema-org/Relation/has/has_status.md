@@ -1,8 +1,6 @@
 ---
 aliases:
-  - status
-  - status
-  - status
+  - has status
   - has_status
 confidential: public
 cssclasses:

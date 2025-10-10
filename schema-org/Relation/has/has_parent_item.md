@@ -1,7 +1,6 @@
 ---
 aliases:
-  - parent-item
-  - parent_item
+  - has parent-item
   - parentItem
   - has_parent_item
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - parent_item
   - parent
   - item
 layout:

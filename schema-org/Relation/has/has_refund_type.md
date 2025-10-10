@@ -1,7 +1,6 @@
 ---
 aliases:
-  - refund-type
-  - refund_type
+  - has refund-type
   - refundType
   - has_refund_type
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - refund_type
   - refund
   - type
 layout:

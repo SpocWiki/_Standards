@@ -1,8 +1,6 @@
 ---
 aliases:
-  - distinguishing-sign
-  - distinguishing_sign
-  - distinguishingSign
+  - has distinguishing-sign
   - has_distinguishing_sign
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - distinguishing
   - sign
+  - distinguishing_sign
+  - distinguishingSign
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_distinguishing_sign

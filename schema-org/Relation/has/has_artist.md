@@ -1,8 +1,5 @@
 ---
 aliases:
-  - artist
-  - artist
-  - artist
   - has_artist
 confidential: public
 cssclasses:

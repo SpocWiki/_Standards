@@ -1,8 +1,6 @@
 ---
 aliases:
-  - breadcrumb
-  - breadcrumb
-  - breadcrumb
+  - has breadcrumb
   - has_breadcrumb
 confidential: public
 cssclasses:

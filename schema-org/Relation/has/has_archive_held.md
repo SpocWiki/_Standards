@@ -1,8 +1,5 @@
 ---
 aliases:
-  - archive-held
-  - archive_held
-  - archiveHeld
   - has_archive_held
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - archive
   - held
+  - archiveHeld
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_archive_held

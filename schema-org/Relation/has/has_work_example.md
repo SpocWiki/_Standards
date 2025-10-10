@@ -1,7 +1,6 @@
 ---
 aliases:
-  - work-example
-  - work_example
+  - has work-example
   - workExample
   - has_work_example
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - work_example
   - work
   - example
 layout:

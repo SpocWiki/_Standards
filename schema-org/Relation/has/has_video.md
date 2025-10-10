@@ -1,8 +1,6 @@
 ---
 aliases:
-  - video
-  - video
-  - video
+  - has video
   - has_video
 confidential: public
 cssclasses:

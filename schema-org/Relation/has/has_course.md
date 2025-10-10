@@ -1,8 +1,7 @@
 ---
 aliases:
   - has-course
-  - course
-  - hasCourse
+  - has Course
   - has_course
 confidential: public
 cssclasses:

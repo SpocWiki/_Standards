@@ -1,9 +1,9 @@
 ---
 aliases:
-  - accepted-answer
-  - accepted_answer
-  - acceptedAnswer
+  - has_answer
   - has_accepted_answer
+  - has answer
+  - has accepted answer
 confidential: public
 cssclasses:
   - Predicate
@@ -17,6 +17,7 @@ isReadOnly: false
 keywords:
   - accepted
   - answer
+  - acceptedAnswer
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_accepted_answer

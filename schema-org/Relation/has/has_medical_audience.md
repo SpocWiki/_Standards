@@ -1,7 +1,6 @@
 ---
 aliases:
-  - medical-audience
-  - medical_audience
+  - has medical-audience
   - medicalAudience
   - has_medical_audience
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - medical_audience
   - medical
   - audience
 layout:

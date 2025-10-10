@@ -23,7 +23,7 @@ Wolfram_Language_entity_code: Entity["Concept", "Chemotherapy::3p27j"]
 
 # [[Chemotherapy]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Chemotherapy,974135|WD~Chemotherapy,974135]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Chemotherapy,974135|WD~Chemotherapy,974135]] 
 
 
 ## #has_/text_of_/abstract 

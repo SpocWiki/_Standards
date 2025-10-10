@@ -1,8 +1,6 @@
 ---
 aliases:
-  - error
-  - error
-  - error
+  - has error
   - has_error
 confidential: public
 cssclasses:

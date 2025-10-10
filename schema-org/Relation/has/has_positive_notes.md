@@ -1,7 +1,6 @@
 ---
 aliases:
 - positive-notes
-- positive_notes
 - positiveNotes
 - has_positive_notes
 - "has pros"
@@ -15,6 +14,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+- positive_notes
 - positive
 - notes
 layout: 

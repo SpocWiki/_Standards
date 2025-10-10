@@ -1,8 +1,8 @@
 ---
 aliases:
   - applies-to-delivery-method
-  - applying_to_delivery_method
   - appliesToDeliveryMethod
+  - is applying to delivery method
   - is_applying_to_delivery_method
 confidential: public
 cssclasses:

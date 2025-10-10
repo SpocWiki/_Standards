@@ -1,7 +1,6 @@
 ---
 aliases:
-  - recording-of
-  - recording_of
+  - has recording-of
   - recordingOf
   - has_recording_of
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - recording_of
   - recording
   - of
 layout:

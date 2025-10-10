@@ -1,8 +1,6 @@
 ---
 aliases:
-  - game
-  - game
-  - game
+  - has game
   - has_game
 confidential: public
 cssclasses:

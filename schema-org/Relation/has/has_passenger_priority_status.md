@@ -1,7 +1,6 @@
 ---
 aliases:
-  - passenger-priority-status
-  - passenger_priority_status
+  - has passenger-priority-status
   - passengerPriorityStatus
   - has_passenger_priority_status
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - passenger_priority_status
   - passenger
   - priority
   - status

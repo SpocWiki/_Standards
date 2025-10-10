@@ -1,8 +1,5 @@
 ---
 aliases:
-  - action-status
-  - action_status
-  - actionStatus
   - has_action_status
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - action
   - status
+  - actionStatus
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_action_status

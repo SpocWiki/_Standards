@@ -1,8 +1,5 @@
 ---
 aliases:
-  - attendee
-  - attendee
-  - attendee
   - has_attendee
 confidential: public
 cssclasses:

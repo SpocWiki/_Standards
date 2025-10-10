@@ -1,8 +1,5 @@
 ---
 aliases:
-  - application-contact
-  - application_contact
-  - applicationContact
   - has_application_contact
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - application
   - contact
+  - applicationContact
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_application_contact

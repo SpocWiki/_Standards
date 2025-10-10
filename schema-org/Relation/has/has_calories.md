@@ -1,8 +1,6 @@
 ---
 aliases:
-  - calories
-  - calories
-  - calories
+  - has calories
   - has_calories
 confidential: public
 cssclasses:

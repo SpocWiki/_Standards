@@ -1,8 +1,6 @@
 ---
 aliases:
-  - distribution
-  - distribution
-  - distribution
+  - has distribution
   - has_distribution
 confidential: public
 cssclasses:

@@ -1,7 +1,6 @@
 ---
 aliases:
-  - legislation-legal-force
-  - legislation_legal_force
+  - has legislation-legal-force
   - legislationLegalForce
   - has_legislation_legal_force
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - legislation_legal_force
   - legislation
   - legal
   - force

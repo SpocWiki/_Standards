@@ -1,8 +1,6 @@
 ---
 aliases:
-  - event
-  - event
-  - event
+  - has event
   - has_event
 confidential: public
 cssclasses:

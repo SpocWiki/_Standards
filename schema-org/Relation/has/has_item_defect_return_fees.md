@@ -1,7 +1,6 @@
 ---
 aliases:
-  - item-defect-return-fees
-  - item_defect_return_fees
+  - has item-defect-return-fees
   - itemDefectReturnFees
   - has_item_defect_return_fees
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - item_defect_return_fees
   - item
   - defect
   - return

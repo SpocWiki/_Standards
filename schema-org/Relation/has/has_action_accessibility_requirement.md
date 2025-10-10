@@ -1,9 +1,7 @@
 ---
 aliases:
-  - action-accessibility-requirement
-  - action_accessibility_requirement
-  - actionAccessibilityRequirement
   - has_action_accessibility_requirement
+  - has action accessibility requirement
 confidential: public
 cssclasses:
   - Predicate

@@ -1,8 +1,6 @@
 ---
 aliases:
-  - eligible-customer-type
-  - eligible_customer_type
-  - eligibleCustomerType
+  - has eligible-customer-type
   - has_eligible_customer_type
 confidential: public
 cssclasses:
@@ -16,6 +14,8 @@ keywords:
   - eligible
   - customer
   - type
+  - eligible_customer_type
+  - eligibleCustomerType
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_eligible_customer_type

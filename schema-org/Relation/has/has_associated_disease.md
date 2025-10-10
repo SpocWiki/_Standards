@@ -1,8 +1,5 @@
 ---
 aliases:
-  - associated-disease
-  - associated_disease
-  - associatedDisease
   - has_associated_disease
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - associated
   - disease
+  - associatedDisease
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_associated_disease

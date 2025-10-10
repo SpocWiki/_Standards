@@ -1,8 +1,5 @@
 ---
 aliases:
-  - associated-article
-  - associated_article
-  - associatedArticle
   - has_associated_article
 confidential: public
 cssclasses:
@@ -15,6 +12,7 @@ isReadOnly: false
 keywords:
   - associated
   - article
+  - associatedArticle
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_associated_article

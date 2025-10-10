@@ -1,8 +1,6 @@
 ---
 aliases:
-  - insertion
-  - insertion
-  - insertion
+  - has insertion
   - has_insertion
 confidential: public
 cssclasses:

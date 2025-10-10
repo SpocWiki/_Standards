@@ -1,8 +1,6 @@
 ---
 aliases:
-  - educational-alignment
-  - educational_alignment
-  - educationalAlignment
+  - has educational-alignment
   - has_educational_alignment
 confidential: public
 cssclasses:
@@ -15,6 +13,8 @@ isReadOnly: false
 keywords:
   - educational
   - alignment
+  - educational_alignment
+  - educationalAlignment
 layout:
 license: CC BY-SA 4.0
 linkTitle: has_educational_alignment

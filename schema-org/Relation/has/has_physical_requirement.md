@@ -1,7 +1,6 @@
 ---
 aliases:
-  - physical-requirement
-  - physical_requirement
+  - has physical-requirement
   - physicalRequirement
   - has_physical_requirement
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - physical_requirement
   - physical
   - requirement
 layout:

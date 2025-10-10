@@ -1,6 +1,5 @@
 ---
 aliases:
-- brand
 - has_brand
 - "schema:brand"
 - "dbo:brand"

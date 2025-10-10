@@ -1,8 +1,6 @@
 ---
 aliases:
-  - image
-  - image
-  - image
+  - has image
   - has_image
 confidential: public
 cssclasses:

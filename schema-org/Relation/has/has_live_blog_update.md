@@ -1,7 +1,6 @@
 ---
 aliases:
-  - live-blog-update
-  - live_blog_update
+  - has live-blog-update
   - liveBlogUpdate
   - has_live_blog_update
 confidential: public
@@ -13,6 +12,7 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
+  - live_blog_update
   - live
   - blog
   - update

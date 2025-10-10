@@ -1,8 +1,5 @@
 ---
 aliases:
-  - bed
-  - bed
-  - bed
   - has_bed
 confidential: public
 cssclasses:
