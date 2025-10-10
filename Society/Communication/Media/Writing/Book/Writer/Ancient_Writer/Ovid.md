@@ -85,7 +85,7 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 > Ovid himself attributed his banishment to a "poem and a mistake", 
 > but his reluctance to disclose specifics has resulted in much speculation among scholars.
 >
-> Ovid is most famous for the [[Metamorphoses]], 
+> Ovid is most famous for the [[Ovid/Metamorphoses]], 
 > a continuous mythological narrative in fifteen books written in dactylic hexameters. 
 > He is also known for works in elegiac couplets such as Ars Amatoria ("The Art of Love") and Fasti. 
 > His poetry was much imitated during [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Late_Antiquity|Late Antiquity]] and the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Middle_Ages|Middle Ages]], 

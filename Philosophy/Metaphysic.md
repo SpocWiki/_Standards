@@ -1,6 +1,6 @@
 ---
 aliases:
-- Metaphysic
+- Metaphysics
 Colon_Classification: R3
 Commons_category: Metaphysics
 confidential: private
@@ -63,6 +63,10 @@ UMLS_CUI: C0025566
 Universal_Decimal_Classification: 11
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_metaphysics,17004632]]'
 ---
+
+# [[Metaphysic]] 
+
+#is_/same_as :: [[../WikiData/WD~Metaphysics,35277|WD~Metaphysics,35277]] 
 
 ## #has_/text_of_/abstract 
 

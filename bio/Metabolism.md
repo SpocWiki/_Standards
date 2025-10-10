@@ -30,9 +30,20 @@ UMLS_CUI:
   - C0025519
 ---
 
+# [[Metabolism]] 
+
+#is_/same_as :: [[../WikiData/WD~Metabolism,1057|WD~Metabolism,1057]] 
+
 ## #has_/text_of_/abstract 
 
-> **Metabolism** (, from Greek: μεταβολή metabolē, "change") is the set of life-sustaining chemical reactions in organisms. The three main functions of metabolism are: the conversion of the energy in food to energy available to run cellular processes; the conversion of food to building blocks of proteins, lipids, nucleic acids, and some carbohydrates; and the elimination of metabolic wastes. These enzyme-catalyzed reactions allow organisms to grow and reproduce, maintain their structures, and respond to their environments. The word metabolism can also refer to the sum of all chemical reactions that occur in living organisms, including digestion and the transportation of substances into and between different cells, in which case the above described set of reactions within the cells is called intermediary (or intermediate) metabolism. 
+> **Metabolism** (from Greek: μεταβολή metabolē, "change") is the set of life-sustaining chemical reactions in organisms. 
+> 
+> The three main functions of metabolism are: 
+> - the conversion of the energy in food to energy available to run cellular processes; 
+> - the conversion of food to building blocks of proteins, lipids, nucleic acids, and some carbohydrates; and 
+> - the elimination of metabolic wastes. 
+> 
+> These enzyme-catalyzed reactions allow organisms to grow and reproduce, maintain their structures, and respond to their environments. The word metabolism can also refer to the sum of all chemical reactions that occur in living organisms, including digestion and the transportation of substances into and between different cells, in which case the above described set of reactions within the cells is called intermediary (or intermediate) metabolism. 
 >
 > Metabolic reactions may be categorized as catabolic—the breaking down of compounds (for example, of glucose to pyruvate by cellular respiration); or anabolic—the building up (synthesis) of compounds (such as proteins, carbohydrates, lipids, and nucleic acids). Usually, catabolism releases energy, and anabolism consumes energy.
 >

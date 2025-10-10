@@ -48,8 +48,13 @@ UMLS_CUI: C3658323
 U_S_National_Archives_Identifier: 10044410
 ---
 
+# [[1000-Mesopotamia]] 
+
 #has_/time_/started :: -2350
 #has_/time_/started :: -332 
+
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Mesopotamia,11767|WD~Mesopotamia,11767]] 
 
 ## #has_/text_of_/abstract 
 

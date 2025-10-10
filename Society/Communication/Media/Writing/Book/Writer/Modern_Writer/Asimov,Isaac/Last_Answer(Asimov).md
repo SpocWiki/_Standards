@@ -1,33 +1,19 @@
 
 
-# [[Last_Question(Asimov)]] 
+# [[Last_Answer(Asimov)]] 
 
 
 #is_/similar_to :: [[Answer(Brown)]] 
-#is_/similar_to :: [[Last_Answer(Asimov)]]   
+#is_/similar_to :: [[Last_Question(Asimov)]]  
 
 ## #has_/text_of_/abstract 
 
-> "**The Last Question**" is a science fiction short story by American writer Isaac Asimov. 
-> It first appeared in the November 1956 issue of Science Fiction Quarterly 
-> and in the anthologies in the collections Nine Tomorrows (1959), 
-> The Best of Isaac Asimov (1973), Robot Dreams (1986), 
-> The Best Science Fiction of Isaac Asimov (1986), the retrospective Opus 100 (1969), 
-> and in Isaac Asimov: The Complete Stories, Vol. 1 (1990). 
-> 
-> While he also considered it one of his best works, 
-> "The Last Question" was Asimov's favorite short story of his own authorship, 
-> and is one of a loosely connected series of stories 
-> concerning a fictional computer called Multivac. 
-> Through successive generations, humanity questions Multivac on the subject of entropy.
+> "**The Last Answer**" is a science fiction short story by American writer Isaac Asimov. 
+> It was first published in the January 1980 issue of Analog Science Fiction and Fact, 
+> and reprinted in the collections The Winds of Change and Other Stories (1983), 
+> The Best Science Fiction of Isaac Asimov (1986), and Robot Dreams (1986).
 >
-> The story blends science fiction, theology, and philosophy. 
-> It has been recognized as a counterpoint to Fredric Brown's short short story "Answer," 
-> published two years earlier.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Last%20Question) 
-> 
-
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Last%20Answer) 
 
 ## Confidential Links & Embeds: 
 

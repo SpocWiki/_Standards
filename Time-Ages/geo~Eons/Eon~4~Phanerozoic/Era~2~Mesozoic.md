@@ -63,8 +63,7 @@ A time period from 251.902 to 66.0 million years ago.
 
 #has_/text_of_/color :: 0x67C5CA
 
-## #has_/text_of_/abstract 
-
+#is_/same_as :: [[../../../WikiData/WD~Mesozoic,83222|WD~Mesozoic,83222]] 
 
 #has_/label_/bg  :: Мезозой
 #has_/label_/cs  :: Mezozoikum
@@ -86,6 +85,28 @@ A time period from 251.902 to 66.0 million years ago.
 #has_/label_/sl  :: mezozoik
 #has_/label_/sv  :: mesozoikum
 #has_/label_/zh  :: 中生代
+
+
+
+## #has_/text_of_/abstract 
+
+> The **Mesozoic** Era is the era of Earth's geological history, lasting from about 252 to 66 million years ago, 
+> comprising the Triassic, Jurassic and Cretaceous Periods. 
+> 
+> It is characterized by the dominance of archosaurian reptiles such as the dinosaurs, 
+> and of gymnosperms such as cycads, ginkgoaceae and araucarian conifers; 
+> a hot greenhouse climate; and the tectonic break-up of Pangaea. 
+> 
+> The Mesozoic is the middle of the three eras since complex life evolved: 
+> - Paleozoic, 
+> - Mesozoic, and 
+> - Cenozoic.
+>
+> The era began in the wake of the Permian–Triassic extinction event, the largest mass extinction in Earth's history, and ended with the Cretaceous–Paleogene extinction event, another mass extinction whose victims included the non-avian dinosaurs, pterosaurs, mosasaurs, and plesiosaurs. The Mesozoic was a time of significant tectonic, climatic, and evolutionary activity. The supercontinent Pangaea began to break apart into separate landmasses. The climate of the Mesozoic was varied, alternating between warming and cooling periods. Overall, however, the Earth was hotter than it is today. 
+>
+> Dinosaurs first appeared in the Mid-Triassic, and became the dominant terrestrial vertebrates in the Late Triassic or Early Jurassic, occupying this position for about 150 or 135 million years until their demise at the end of the Cretaceous. Archaic birds appeared in the Jurassic, having evolved from a branch of theropod dinosaurs, then true toothless birds appeared in the Cretaceous. The first mammals also appeared during the Mesozoic, but would remain small—less than 15 kg (33 lb)—until the Cenozoic. Flowering plants appeared in the Early Cretaceous and would rapidly diversify through the end of the era, replacing conifers and other gymnosperms (sensu lato), such as ginkgoales, cycads and bennettitales as the dominant group of plants.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Mesozoic)
 
 ## All Contents
 

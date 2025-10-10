@@ -27,6 +27,10 @@ subclass_of: '[[_Standards/WikiData/WD~materials_science,228736]]'
 U_S_National_Archives_Identifier: 10644494
 ---
 
+# [[Metallurgy]] 
+
+#is_/same_as :: [[../../WikiData/WD~Metallurgy,11467|WD~Metallurgy,11467]] 
+
 ## #has_/text_of_/abstract 
 
 > **Metallurgy** is a domain of materials science and engineering 
