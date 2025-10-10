@@ -19,9 +19,9 @@ GeoNames_feature_code:
 
 # [[Mesa]] 
 
-#is_/same_as :: [[WD~Mesa,623319]] 
 #is_/similar_to :: [[Plateau]] 
 #is_/similar_to :: [[Guyot|Guyot]] 
+#is_/same_as :: [[WD~Mesa,623319]] 
 
 ## #has_/text_of_/abstract 
 

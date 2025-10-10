@@ -1,8 +1,18 @@
 ---
 aliases:
-- Epipaleolithic
-- "Middle Stone Age"
-- Mittelsteinzeit
+  - Epipaleolithic
+  - Middle Stone Age
+  - Mittelsteinzeit
+has_id_wikidata: Q44155
+instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[_Standards/WikiData/WD~mesoclitic,108819319]]"
+start_time: -9000-01-01T00:00:00Z
+BHCL_UUID: 01ac0aec-03f7-4cf9-b232-5c60b05a7baf
+end_time: -5000-01-01T00:00:00Z
+Krugosvet_article_archived_: istoriya/MEZOLIT.html
+Commons_category: Mesolithic
+OpenStreetMap_tag: historic:era=mesolithic
 ---
 
 # [[0000-Mesolithic]] 
@@ -15,6 +25,8 @@ aliases:
 
 #has_/duration_/years :: `$=Math.round((Number(dv.current().has_time_stopped) - dv.current().has_time_started))` 
 #has_/duration_/ka :: `=number(this.has_time_stopped) - number(this.has_time_started)` 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Mesolithic,44155|WD~Mesolithic,44155]] 
 
 ## #has_/text_of_/abstract 
 
