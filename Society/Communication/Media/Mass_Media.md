@@ -48,7 +48,7 @@ U_S_National_Archives_Identifier: 10638171
 
 # [[Mass_Media]]
 
-#is_/same_as :: [[../../../_Standards/WikiData/WD~Mass_media,11033]]
+#is_/same_as :: [[../../../WikiData/WD~Mass_media,11033|WD~Mass_media,11033]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Empirismus
+  - empirism
 has_id_wikidata: Q83368
 opposite_of:
   - "[[_Standards/WikiData/WD~rationalism,483024]]"

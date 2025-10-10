@@ -79,11 +79,12 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Mathematician::42t84\"]"
 
 # [[Mathematician]] 
 
+#is_/same_as :: [[../WikiData/WD~Mathematician,170790|WD~Mathematician,170790]] 
 
 ## #has_/text_of_/abstract 
 
-> A mathematician is someone who uses 
-> an extensive knowledge of mathematics in their work, 
+> A mathematician is someone 
+> who uses an extensive knowledge of mathematics in their work, 
 > typically to solve mathematical problems. 
 > 
 > **Mathematicians** are concerned with numbers, 

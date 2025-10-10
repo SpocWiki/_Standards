@@ -19,7 +19,7 @@ Commons_category: Optimization
 Library_of_Congress_Classification: QA402.5-QA402.6
 ---
 
-# [[Mathematical_Optimization]] 
+# [[Optimization(Math)]] 
 
 #is_/same_as :: [[WD~Mathematical_optimization,141495]] 
 

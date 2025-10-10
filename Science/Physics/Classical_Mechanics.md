@@ -25,6 +25,7 @@ topic_s_main_template:
 # [[Classical_Mechanics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Classical_mechanics,11397|WD~Classical_mechanics,11397]] 
+#is_/same_as :: [[../../WikiData/WD~Mechanics,41217|WD~Mechanics,41217]] 
 
 ## #has_/text_of_/abstract 
 
@@ -36,6 +37,23 @@ topic_s_main_template:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Classical%20mechanics)
 
+## #has_/text_of_/abstract 
+
+> **Mechanics** (from Ancient Greek  μηχανική (mēkhanikḗ) 'of machines') is the area of physics 
+> concerned with the relationships between force, matter, and motion among physical objects. 
+> Forces applied to objects may result in displacements, 
+> which are changes of an object's position relative to its environment.
+>
+> Theoretical expositions of this branch of physics has its origins in Ancient Greece, for instance, 
+> in the writings of Aristotle and Archimedes (see History of classical mechanics and Timeline of classical mechanics). 
+> 
+> During the early modern period, scientists such as Galileo Galilei, Johannes Kepler, 
+> Christiaan Huygens, and Isaac Newton laid the foundation for what is now known as classical mechanics.
+>
+> In the 20th century the concepts of classical mechanics were challenged by new discoveries, 
+> leading to fundamentally new approaches including relativistic mechanics and quantum mechanics.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Mechanics)
 
 ## Confidential Links & Embeds: 
 
