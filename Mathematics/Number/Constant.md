@@ -14,6 +14,8 @@ opposite_of: "[[_Standards/WikiData/WD~variable,50701]]"
 # [[Constant]] 
 
 #is_/same_as :: [[../../WikiData/WD~Constant,188248|WD~Constant,188248]] 
+#is_/similar_to :: [[../../WikiData/WD~Mathematical_constant,186509|WD~Mathematical_constant,186509]] 
+
 ## #has_/text_of_/abstract 
 
 > In mathematics, the word **Constant** conveys multiple meanings. 

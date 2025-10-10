@@ -1,14 +1,69 @@
 ---
 title: Marmota
+aliases:
+  - Murmeltier
+  - Groundhog
+has_id_wikidata: Q131567
+parent_taxon: "[[_Standards/WikiData/WD~ground_squirrels,389250]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+diel_cycle: "[[_Standards/WikiData/WD~diurnality,4284186]]"
+homonymous_taxon: "[[_Standards/WikiData/WD~Marmota,18402507]]"
+different_from: "[[_Standards/WikiData/WD~marmoset,19829485]]"
+taxon_synonym: "[[_Standards/WikiData/WD~Arctomys,24502341]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~marmot_oil,104776699]]"
+gait: "[[_Standards/WikiData/WD~half_bound,109579787]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+OmegaWiki_Defined_Meaning: "1048856"
+ITIS_TSN: "180136"
+taxon_common_name:
+  - Marmot
+  - Murmeldjur
+  - Świstak
+  - Marmotte
+  - сурок
+  - svišť
+  - Murmeltiereu
+  - Marmoto
+  - Murmeli
+  - Marmoto
+  - Marmotta
+  - Švilpikai
+  - Murmeldyr
+  - Marmotten
+  - Сурок
+  - svizec
+image: http://commons.wikimedia.org/wiki/Special:FilePath/071%20Wild%20marmot%20at%20Grand%20Muveran%20Nature%20Reserve%20Photo%20by%20Giles%20Laurent.jpg
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/2006%2C%20Murmeldjur%20BHW%202006.ogg
+EPPO_Code: 1MAROG
+MeSH_tree_code: B01.050.150.900.649.313.992.750.460
+UMLS_CUI: C0024838
+Commons_gallery: Marmota
+Commons_category: Marmota
+taxon_name: Marmota
+NBN_System_Key: NHMSYS0000376862
 ---
 
 # [[Marmota]] 
 
 ![ ](Marmota/marmota.jpg)
 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Marmota,131567|WD~Marmota,131567]] 
+
 ## #has_/text_of_/abstract 
 
-> Marmots are large ground squirrels in the genus **Marmota**, with 15 species living in Asia, Europe, and North America. These herbivores are active during the summer, when they can often be found in groups, but are not seen during the winter, when they hibernate underground. They are the heaviest members of the squirrel family.
+> Marmots are large ground squirrels in the genus **Marmota**, 
+> with 15 species living in Asia, Europe, and North America. 
+> 
+> These herbivores are active during the summer, 
+> when they can often be found in groups, 
+> but are not seen during the winter, when they hibernate underground. 
+> 
+> They are the heaviest members of the squirrel family.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marmot) 
 

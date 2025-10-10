@@ -23,6 +23,10 @@ time_of_discovery_or_invention: 1905
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Experiment%20zur%20Relativit%C3%A4tstheorie.webm"
 ---
 
+# [[Special_Relativity]]
+
+#is_/same_as :: [[../../WikiData/WD~Special_relativity,11455|WD~Special_relativity,11455]] 
+
 ## #has_/text_of_/abstract 
 
 > In physics, the special theory of relativity, or **Special relativity** for short, 
