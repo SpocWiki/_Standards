@@ -83,6 +83,8 @@ YouTube_handle: WorldBank
 
 # [[World_Bank]] 
 
+#is_/same_as :: [[../../WikiData/WD~World_Bank,7164|WD~World_Bank,7164]] 
+
 ## #has_/text_of_/abstract 
 
 > The **World Bank** is an international financial institution 
