@@ -4,7 +4,7 @@ aliases:
 - "Northern Europe"
 ---
 
-﻿# Europe~North
+# Europe~North
 
 
 ```leaflet

@@ -3,7 +3,7 @@ aliases:
 - Challenge
 ---
 
-﻿Enumerates negative, inhibiting Reasons for this Statement. 
+Enumerates negative, inhibiting Reasons for this Statement. 
 Plural Form chosen to indicate the [[../../Collection]]-Nature. 
 
 Therefore this partially(incomplete) inverse Relation is included in the non-standard more generic [[has_Cons]] Relation. 

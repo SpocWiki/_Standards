@@ -177,7 +177,7 @@ writing_language:
 # [[Alighieri,Dante]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Dante_Alighieri,1067|WD~Dante_Alighieri,1067]] 
-﻿
+
 ## #has_/text_of_/abstract 
 
 > **Dante Alighieri** (Italian: [ˈdante aliˈɡjɛːri]; most likely baptized Durante di Alighiero degli Alighieri; 

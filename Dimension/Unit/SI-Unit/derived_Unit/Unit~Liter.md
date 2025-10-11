@@ -50,7 +50,7 @@ Wikidata_SPARQL_query_equivalent: "wd:Q11582 p:P2370/psn:P2370 [wikibase:quantit
 Wolfram_Language_unit_code: "\"Liters\""
 ---
 
-﻿
+
 # [[Unit~Liter]] 
 
 #is_a_/unit_/for_/volume 

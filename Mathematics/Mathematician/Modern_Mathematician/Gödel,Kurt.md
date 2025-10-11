@@ -111,7 +111,7 @@ writing_language: "[[_Standards/WikiData/WD~German,188]]"
 ---
 
 # [[Gödel,Kurt]] 
-﻿
+
 #has_/time_/started :: 1906-04-28
 #has_/time_/stopped :: 1978-01-14
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

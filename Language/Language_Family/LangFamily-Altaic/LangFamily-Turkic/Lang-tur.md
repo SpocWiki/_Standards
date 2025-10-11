@@ -103,7 +103,7 @@ Wikimedia_language_code: tr
 writing_system: '[[_Standards/WikiData/WD~Turkish_alphabet,637405]]'
 ---
 
-﻿
+
  # [[Lang-tur]] 
 
 [SpocWebEntityId:: 456 ]

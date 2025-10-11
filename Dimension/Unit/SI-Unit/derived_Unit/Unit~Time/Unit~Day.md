@@ -71,7 +71,7 @@ Wikidata_time_precision: 11
 Wolfram_Language_unit_code: '"Days"'
 ---
 
-﻿
+
 # [[Unit~Day]] 
 
 #is_a_/unit_/for_/time 
