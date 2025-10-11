@@ -6,7 +6,7 @@ aliases:
 has_id_wikidata: Q626270
 ---
 
-﻿# [[Middle_Paleolithic]] 
+# [[Middle_Paleolithic]] 
 
 #is_a_/time_/Culture 
 

@@ -1,6 +1,7 @@
 ---
 aliases:
 - "Miguel de Cervantes"
+- Miguel_de_Cervantes
 - "Miguel de Cervantes Saavedra"
 ArhivX_LOD: 20638
 artist_files_at: '[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art_Library_and_Archives,89574171]]'
@@ -111,8 +112,11 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Cervantes::h8449\"]"
 writing_language: '[[_Standards/WikiData/WD~Early_Modern_Spanish,5364419]]'
 ---
 
+# [[Miguel_de_Cervantes]] 
+
 #has_/time_/started  :: `=this.date_of_birth` 
 #has_/time_/stopped :: `=this.date_of_death` 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Miguel_de_Cervantes,5682|WD~Miguel_de_Cervantes,5682]] 
 
 ## #has_/text_of_/abstract 
 

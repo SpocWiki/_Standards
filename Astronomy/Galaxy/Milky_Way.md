@@ -171,7 +171,7 @@ different_from:
 
 # [[Milky_Way]] 
 
-#is_/same_as :: [[_Standards/WD/WD~Milky_Way,321]] 
+#is_/same_as :: [[../../WikiData/WD~Milky_Way,321|WD~Milky_Way,321]]  
 
 ## #has_/text_of_/abstract 
 
