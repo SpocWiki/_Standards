@@ -28,6 +28,8 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 # [[Median]] 
 
+#is_/similar_to :: [[Mean|Mean]] 
+#is_/similar_to :: [[Mode]] 
 #is_/same_as :: [[WD~Median,226995]] 
 
 ## #has_/text_of_/abstract 
