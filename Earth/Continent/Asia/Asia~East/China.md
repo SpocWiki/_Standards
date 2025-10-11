@@ -965,7 +965,7 @@ Below is a detailed table of the 34 provincial-level divisions in China, which i
 | Provincial-Level Division                                                   |   Pop/M |   kkm² | GRP/TCNY | GRPpP/kCNY | HDI   | Notable Properties                                         |
 | --------------------------------------------------------------------------- | ------: | -----: | -------: | ---------: | ----- | ---------------------------------------------------------- |
 | [[Anhui]]                                                                   |  61.340 |  139.4 |    4.290 |     69.938 | 0.780 | Known for historical sites and growing industries          |
-| [[Beijing]]                                                                 |  21.930 |   16.4 |    4.051 |    184.015 | 0.919 | Political center, cultural and scientific hub              |
+| [[China/provinces~China/Beijing,Province]]                                                                 |  21.930 |   16.4 |    4.051 |    184.015 | 0.919 | Political center, cultural and scientific hub              |
 | [[China/provinces~China/Chongqing,Province]]                                                               |  32.050 |   82.4 |    2.592 |     80.184 | 0.814 | Major manufacturing base, significant urban-rural mix      |
 | [[Fujian]]                                                                  |  41.540 |  121.4 |    5.000 |    120.362 | 0.815 | Coastal province, growing industries and trade             |
 | [[Gansu]]                                                                   |  25.200 |  425.8 |    1.000 |     39.683 | 0.720 | Rich in mineral resources but economically less developed  |
@@ -973,7 +973,7 @@ Below is a detailed table of the 34 provincial-level divisions in China, which i
 | [[Guangxi]] Zhuang                                                          |  50.020 |  236.7 |    2.484 |     50.508 | 0.766 | Rich cultural diversity, growing tourism sector            |
 | [[Guizhou]]                                                                 |  38.380 |  176.2 |    1.900 |     49.523 | 0.718 | Known for ethnic diversity and natural beauty              |
 | [[Hainan]]                                                                  |  10.200 |   33.9 |    0.636 |     62.352 | 0.780 | Tropical climate, rapidly developing tourism               |
-| [[Hebei]]                                                                   |  75.210 |  188.8 |    4.192 |     55.727 | 0.776 | Industrial base, surrounded by [[Beijing]] and [[Tianjin]] |
+| [[Hebei]]                                                                   |  75.210 |  188.8 |    4.192 |     55.727 | 0.776 | Industrial base, surrounded by [[China/provinces~China/Beijing,Province]] and [[Tianjin]] |
 | [[Heilongjiang]]                                                            |  31.850 |  473.0 |    1.300 |     40.823 | 0.766 | Known for agriculture and resources                        |
 | [[Henan]]                                                                   |  99.280 |  167.0 |    6.000 |     60.429 | 0.774 | Historically significant, large population center          |
 | [[Hubei]]                                                                   |  58.900 |  185.9 |    5.000 |     85.000 | 0.796 | Key economic and transport hub                             |
@@ -1086,7 +1086,7 @@ markerFolder: ./China//
 [Area-Land::9326410]
 has_place_continent:: [[Asia]]  
 [VehicleCode::CHN]
-Capital :: [[China/provinces~China/Beijing/City/Beijing,City]]  
+Capital :: [[China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City]]  
 ![[Coat_of_arms_of_China.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-China.mp3]]
 ![[Flag_of_China.svg|350]]
