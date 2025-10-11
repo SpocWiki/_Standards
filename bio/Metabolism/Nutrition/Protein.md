@@ -112,7 +112,7 @@ UNSPSC_Code: 12352202
 Wolfram_Language_entity_type: Protein
 ---
 
-﻿# [[Protein]] 
+# [[Protein]] 
 
 Class of all proteins.
 

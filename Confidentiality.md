@@ -5,7 +5,7 @@ aliases:
 - Sichtbarkeit
 ---
 
-﻿﻿
+﻿
 # Confidentiality Overview
 
 The Fact that only a discrete Set of [[Confidentiality]] Levels exist 

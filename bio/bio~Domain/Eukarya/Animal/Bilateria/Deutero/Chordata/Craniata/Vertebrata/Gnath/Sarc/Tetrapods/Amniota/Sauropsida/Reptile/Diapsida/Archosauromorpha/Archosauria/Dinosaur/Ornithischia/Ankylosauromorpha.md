@@ -3,7 +3,7 @@ title: Ankylosauromorpha
 aliases:
   - Ankylosauromorpha
 ---
-﻿
+
 # [[Ankylosauromorpha]] 
 
 Armored-plated dinosaurs 

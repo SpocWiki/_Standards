@@ -24,7 +24,7 @@ aliases:
 has_id_wikidata: Q25546
 ---
 
-﻿
+
 # [[Epoch~1~Pleistocene]] 
 
 #is_a_/time_/Epoch 

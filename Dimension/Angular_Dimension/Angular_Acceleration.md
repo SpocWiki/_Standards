@@ -2,7 +2,7 @@
 aliases:
   - Angular Acceleration
 ---
-﻿
+
 #[[Angular_Acceleration]]] 
 [[Angular_Acceleration]]] is the Speed is the second Derivative 
 of the [[../../Mathematics/Geometry/Geometry-2D/Angle]] by [[../Dim~Time]]. 

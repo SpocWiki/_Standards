@@ -35,7 +35,7 @@ residence:
   - "[[_Standards/WikiData/WD~Bhinmal,797437]]"
 sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
 ---
-﻿---
+---
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Brahmagupta.ogg"
 birth_name: ब्रह्मगुप्तः
 Commons_category: Brahmagupta

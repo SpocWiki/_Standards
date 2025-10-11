@@ -51,7 +51,7 @@ UMLS_CUI: C0007674
 U_S_National_Archives_Identifier: 10046200
 ---
 
-﻿
+
 # [[America~Central]] 
 
 ## #has_/map 

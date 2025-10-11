@@ -155,8 +155,8 @@ Alternatively use the RDFa-Lite:
 
 ```
 
-﻿The Entities in this Folder describes 'natural', human Languages and Scripts, 
-﻿as well as Data- and Programming Languages. 
+The Entities in this Folder describes 'natural', human Languages and Scripts, 
+as well as Data- and Programming Languages. 
 
 
 ## Confidential Links & Embeds: 

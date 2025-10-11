@@ -224,7 +224,7 @@ Wikimedia_language_code: ru
 writing_system: '[[_Standards/WikiData/WD~Cyrillic_script,8209]]'
 ---
 
-﻿
+
 # [[Lang-rus]] 
 
 [SpocWebEntityId:: 469 ]

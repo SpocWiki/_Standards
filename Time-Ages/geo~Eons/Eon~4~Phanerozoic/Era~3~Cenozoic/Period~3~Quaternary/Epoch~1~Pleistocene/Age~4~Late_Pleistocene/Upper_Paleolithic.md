@@ -5,7 +5,7 @@ aliases:
 - Jungpaläolithikum
 ---
 
-﻿# [[Upper_Paleolithic]]
+# [[Upper_Paleolithic]]
 
 #is_a_/time_/Culture 
 

@@ -14,7 +14,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Corrupt-Legislation-Ve
 ---
 
 # [[Kleptocracy]] 
-﻿
+
 #is_/same_as :: [[/_public/WikiData/WD~Kleptocracy,191244]] 
 
 ## #has_/text_of_/abstract 

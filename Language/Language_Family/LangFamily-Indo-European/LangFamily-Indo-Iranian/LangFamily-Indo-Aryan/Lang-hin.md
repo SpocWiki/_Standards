@@ -61,7 +61,7 @@ writing_system:
 - '[[_Standards/WikiData/WD~Devanagari,38592]]'
 ---
 
-﻿
+
 # [[Lang-hin]] 
 
 
