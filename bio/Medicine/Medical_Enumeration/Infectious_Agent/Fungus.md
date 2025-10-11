@@ -27,7 +27,7 @@ title: "is_a_fungus Class"
 type: Type
 ---
 
-﻿
+
 
 # [[Fungus]] 
 

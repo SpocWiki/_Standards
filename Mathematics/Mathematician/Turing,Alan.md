@@ -114,7 +114,7 @@ unmarried_partner: '[[_Standards/WikiData/WD~Christopher_Morcom,21693479]]'
 ---
 
 # [[Turing,Alan]] 
-﻿
+
 #has_/time_/started :: 1912-06-23  
 #has_/time_/stopped :: 1954-06-07 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

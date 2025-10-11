@@ -30,7 +30,7 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/AUSTROAZIATSKIE_YAZIKI.html
 ---
 
 # [[LangFamily-Austro-Asiatic]] 
-﻿
+
  [SpocWebEntityId:: 240 ]
 [Name::Austro-Asiatic]
 

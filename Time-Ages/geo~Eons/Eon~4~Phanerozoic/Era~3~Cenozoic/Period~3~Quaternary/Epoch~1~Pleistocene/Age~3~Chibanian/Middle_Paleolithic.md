@@ -5,7 +5,7 @@ aliases:
 - "Middle Paleolithic"
 ---
 
-﻿# [[Middle_Paleolithic]] 
+# [[Middle_Paleolithic]] 
 
 #is_a_/time_/Culture 
 

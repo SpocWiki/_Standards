@@ -8,7 +8,7 @@ tags:
 type: Lang
 ---
 
-﻿
+
 # [[Lang-ben]] 
 
 [SpocWebEntityId:: 468 ]

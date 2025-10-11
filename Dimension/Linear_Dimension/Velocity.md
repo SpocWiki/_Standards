@@ -224,7 +224,7 @@ subclass_of:
 aliases:
   - Speed
 ---
-﻿
+
 # [[Velocity]] 
 
 [[Velocity]] is the Speed is the first Derivative 

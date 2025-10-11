@@ -279,7 +279,7 @@ coordinates_of_westernmost_point: "Point(9.471621 47.062683)"
 has_id_wikidata: Q347
 ---
 
-﻿---
+---
 location:
     - 47.158
     - 9.529

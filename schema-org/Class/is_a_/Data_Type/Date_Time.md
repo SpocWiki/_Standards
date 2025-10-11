@@ -26,7 +26,7 @@ title: "is_a_date_time Class"
 type: Type
 ---
 
-﻿
+
 # [[date_time]] 
 
 Class of all date_times.

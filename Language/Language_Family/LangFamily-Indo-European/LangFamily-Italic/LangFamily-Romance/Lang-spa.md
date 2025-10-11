@@ -166,7 +166,7 @@ Glottolog_code: stan1288
 ---
 
 # [[Lang-spa]] 
-﻿
+
 [SpocWebEntityId:: 492 ]
 [Name::Spanish]
 [PropId_Name::792]

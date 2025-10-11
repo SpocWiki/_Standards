@@ -25,7 +25,7 @@ title: "is_an_entry_point Class"
 type: Type
 ---
 
-﻿
+
 Class of all Online-Service entry_points / Endpoints.
 
 Tag Instances like this: 

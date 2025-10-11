@@ -69,7 +69,7 @@ work_period_start_: 1405
 Y_DNA_Haplogroup: '[[_Standards/WikiData/WD~Haplogroup_L-M27,99464044]]'
 ---
 
-﻿---
+---
 aliases:
 - "Zheng He"
 - "Cheng Ho"

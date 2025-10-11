@@ -62,7 +62,7 @@ Wikidata_time_precision: 14
 Wolfram_Language_unit_code: "\"Seconds\""
 ---
 
-﻿# [[Unit~Second]] 
+# [[Unit~Second]] 
 
 #is_an_ :: [[../SI-Unit]] 
 Unit :: #Unit/SI/s

@@ -3,7 +3,7 @@ aliases:
 - "Central Europe"
 ---
 
-﻿# Europe~Central
+# Europe~Central
 
 
 ```leaflet
