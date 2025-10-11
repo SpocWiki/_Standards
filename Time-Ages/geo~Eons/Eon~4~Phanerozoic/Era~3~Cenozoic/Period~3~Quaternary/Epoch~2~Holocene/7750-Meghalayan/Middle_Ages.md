@@ -73,6 +73,8 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/middle_ages
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Middle_Ages,12554|WD~Middle_Ages,12554]]  
+
 ## #has_/text_of_/abstract 
 
 > In the history of Europe, the **Middle Ages** or medieval period lasted approximately 

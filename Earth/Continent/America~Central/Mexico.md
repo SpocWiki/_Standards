@@ -847,7 +847,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Mexico/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: MXN ]
 [	ISO4217-currency_name	 :: Mexican Peso ]
 [	ISO4217-currency_numeric	 :: 484 ]
@@ -911,10 +910,10 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 484 ]
 
-
-
 [ISO2::MX]
 [ISO3::MEX] 
+
+#is_/same_as :: [[../../../WikiData/WD~Mexico,96|WD~Mexico,96]] 
 
 ## #has_/map  
 
@@ -936,7 +935,7 @@ markerFolder: ./Mexico/
 [Area-Land::1908690]
 has_place_continent:: [[South-America]]  
 [VehicleCode::MEX]
-Capital :: [[Mexico_City]]  
+Capital :: [[Mexico/States~Mexico/Mexico_City]]  
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]]
 

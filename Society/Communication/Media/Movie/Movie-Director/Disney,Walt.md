@@ -1,6 +1,7 @@
 ---
 aliases:
 - "Walt Disney"
+- "Walt_Disney"
 - "Walter Elias Disney"
 ArhivX_LOD: 7035
 artist_files_at:

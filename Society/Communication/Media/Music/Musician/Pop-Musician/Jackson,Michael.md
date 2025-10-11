@@ -1,7 +1,9 @@
 ---
 aliases:
 - "Michael Jackson"
+- "Jackson"
 - "Michael Joseph Jackson"
+- Michael_Jackson
 award_received:
 - '[[_Standards/WikiData/WD~Genesis_Award,135498]]'
 - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
@@ -232,6 +234,10 @@ work_period_start_: 1964
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 X_username: michaeljackson
 ---
+
+# [[Jackson,Michael]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Michael_Jackson,2831|WD~Michael_Jackson,2831]] 
 
 ## #has_/text_of_/abstract 
 

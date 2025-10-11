@@ -1,8 +1,9 @@
 ---
 aliases:
-- Mittelpaläolithikum
-- "Middle Palaeolithic"
-- "Middle Paleolithic"
+  - Mittelpaläolithikum
+  - Middle Palaeolithic
+  - Middle Paleolithic
+has_id_wikidata: Q626270
 ---
 
 ﻿# [[Middle_Paleolithic]] 
@@ -15,6 +16,7 @@ aliases:
 #has_/duration_/years :: `$=Math.round((Number(dv.current().has_time_stopped) - dv.current().has_time_started))` 
 #has_/duration_/ka :: `=number(this.has_time_stopped) - number(this.has_time_started)` 
 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Middle_Paleolithic,626270|WD~Middle_Paleolithic,626270]] 
 
 ## #has_/text_of_/abstract 
 
