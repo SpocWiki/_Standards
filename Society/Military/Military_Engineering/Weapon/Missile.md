@@ -53,7 +53,11 @@ Krugosvet_article_archived_:
 > Missile systems usually have five system components: 
 > targeting, guidance system, flight system, engine, and warhead. 
 > 
-> Missiles are primarily classified into different types based on firing source and target such as surface-to-surface, air-to-surface, surface-to-air and air-to-air missiles.
+> Missiles are primarily classified into different types based on firing source and target such as 
+> - surface-to-surface, 
+> - air-to-surface, 
+> - surface-to-air and 
+> - air-to-air missiles.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Missile) 
 
