@@ -1,6 +1,7 @@
 ---
 aliases:
 - "Michelangelo di Lodovico Buonarroti Simoni"
+- Michelangelo Buonarroti
 ArhivX_LOD: 42542
 artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
 BHCL_UUID: df1ff736-b44c-4e7f-8ec3-fc83d31e08f7
@@ -193,8 +194,12 @@ work_location:
 - '[[_Standards/WikiData/WD~Rome,220]]'
 ---
 
+# [[Michelangelo]] 
+
 #has_/time_/started :: 1564-02-18 
 #has_/time_/started :: 1475-03-06  
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Michelangelo,5592|WD~Michelangelo,5592]] 
 
 ## #has_/text_of_/abstract 
 

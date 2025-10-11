@@ -1,5 +1,19 @@
 ---
 title: Microchiroptera
+has_id_wikidata: Q971343
+taxon_rank: "[[_Standards/WikiData/WD~suborder,5867959]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+award_received: "[[_Standards/WikiData/WD~Animal_of_the_Year,109758329]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+ITIS_TSN: "552302"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Big-eared-townsend-fledermaus.jpg
+Unicode_character: 🦇
+Commons_category: Microchiroptera
+taxon_name: Microchiroptera
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ultrasonic%20bat%20calls.ogg
+NBN_System_Key: NHMSYS0000376878
 ---
 
 # [[Microchiroptera]]
@@ -7,9 +21,15 @@ title: Microchiroptera
 ## Echolocating Bats 
 ![ ](Microchiroptera/pteronotus_parnellii.gif))![ ](Microchiroptera/uroderma1.gif))
 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Microchiroptera,971343|WD~Microchiroptera,971343]] 
+
 ## #has_/text_of_/abstract 
 
-> Microbats constitute the suborder **Microchiroptera** within the order Chiroptera (bats). Bats have long been differentiated into Megachiroptera (megabats) and Microchiroptera, based on their size, the use of echolocation by the Microchiroptera and other features; molecular evidence suggests a somewhat different subdivision, as the microbats have been shown to be a paraphyletic group.
+> Microbats constitute the suborder **Microchiroptera** within the order Chiroptera (bats). 
+> Bats have long been differentiated into Megachiroptera (megabats) 
+> and Microchiroptera, based on their size, the use of echolocation by the Microchiroptera 
+> and other features; molecular evidence suggests a somewhat different subdivision, 
+> as the microbats have been shown to be a paraphyletic group.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Microbat) 
 

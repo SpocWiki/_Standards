@@ -28,6 +28,10 @@ subclass_of: '[[_Standards/WikiData/WD~engineering,11023]]'
 U_S_National_Archives_Identifier: 10643231
 ---
 
+# [[Military_Engineering]] 
+
+#is_/same_as :: [[../../WikiData/WD~Military_engineering,158797|WD~Military_engineering,158797]] 
+
 ## #has_/text_of_/abstract 
 
 > **Military engineering** is loosely defined as the art, science, 
