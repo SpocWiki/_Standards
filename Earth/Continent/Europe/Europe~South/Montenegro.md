@@ -358,12 +358,6 @@ icon: flag-me
 
 # [[Montenegro]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Montenegro 
-
-[[Montenegro/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -427,14 +421,17 @@ Sub-region_Name ::  [[Southern Europe]]
 
 [	ISO3166-1-numeric	 :: 499 ]
 
-
-
 [ISO2::ME]
 [ISO3::MNE] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Montenegro,236|WD~Montenegro,236]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Montenegro 
+
+[[Montenegro/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Montenegro
@@ -443,6 +440,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Montenegro//
 markerFolder: ./Montenegro//
+coordinates: [[Montenegro]] 
+markerFile: [[Montenegro]] 
 ```
 
 [name-en::Montenegro]
