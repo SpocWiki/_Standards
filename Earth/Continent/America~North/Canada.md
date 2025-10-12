@@ -585,7 +585,7 @@ Numbers are of 2022-06
 > The country is characterized by a wide range of both meteorologic and geological regions. 
 > It is a sparsely inhabited country of 40 million people, 
 > the vast majority residing south of the 55th parallel in urban areas. 
-> Canada's capital is [[Canada/provinces~Canada/Ontario/City/Ottawa|Ottawa]] and its three largest metropolitan areas are [[Canada/provinces~Canada/Ontario/City/Toronto|Toronto]], [[Canada/provinces~Canada/Quebec,Province/City/Montreal|Montreal]], and [[Canada/provinces~Canada/British_Columbia/City/Vancouver|Vancouver]].
+> Canada's capital is [[Canada/provinces~Canada/Ontario/City/Ottawa|Ottawa]] and its three largest metropolitan areas are [[Canada/provinces~Canada/Ontario/City/Toronto|Toronto]], [[Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté|Montréal,Communauté]], and [[Canada/provinces~Canada/British_Columbia/City/Vancouver|Vancouver]].
 >
 > Indigenous peoples have continuously inhabited what is now Canada for thousands of years. 
 > Beginning in the 16th century, British and French expeditions explored 
@@ -633,7 +633,7 @@ Major Cities with Population in 1000s as of @2021
 | City                                                                       | Province                                                       | Pop/k |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------- | ----: |
 | [[Canada/provinces~Canada/Ontario/City/Toronto\|Toronto]]                  | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |  2794 |
-| [[Canada/provinces~Canada/Quebec,Province/City/Montreal\|Montreal]]        | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |  1762 |
+| [[Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté\|Montreal]]        | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |  1762 |
 | [[Canada/provinces~Canada/Alberta/City/Calgary\|Calgary]]                  | [[Canada/provinces~Canada/Alberta\|Alberta]]                   |  1306 |
 | [[Canada/provinces~Canada/Ontario/City/Ottawa\|Ottawa]]                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |  1017 |
 | [[Canada/provinces~Canada/Alberta/City/Edmonton\|Edmonton]]                | [[Canada/provinces~Canada/Alberta\|Alberta]]                   |  1010 |
@@ -643,7 +643,7 @@ Major Cities with Population in 1000s as of @2021
 | Brampton                                                                   | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   656 |
 | Hamilton                                                                   | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   569 |
 | Surrey                                                                     | [[Canada/provinces~Canada/British_Columbia\|British Columbia]] |   568 |
-| [[Canada/provinces~Canada/Quebec,Province/City/Quebeck,City\|Québec City]] | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |   549 |
+| [[Canada/provinces~Canada/Quebec,Province/counties~Québec/Québec,Communauté\|Québec City]] | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |   549 |
 | Laval                                                                      | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |   438 |
 | [[Canada/provinces~Canada/Ontario/City/London,Ontario\|London,Ontario]]    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   422 |
 | Halifax                                                                    | [[Canada/provinces~Canada/Nova_Scotia\|Nova Scotia]]           |   348 |

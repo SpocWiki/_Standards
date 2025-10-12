@@ -4,6 +4,7 @@ aliases:
   - mosque
   - Mosque
   - is_a_mosque
+has_id_wikidata: Q32815
 confidential: public
 cssclasses:
   - Type
@@ -23,7 +24,56 @@ tags:
   - schema-org/Class
 title: is_a_mosque Class
 type: Type
+has_part_s_:
+  - "[[_Standards/WikiData/WD~mihrab,173907]]"
+  - "[[_Standards/WikiData/WD~Qubba,1719880]]"
+  - "[[_Standards/WikiData/WD~wudu_basin,126029617]]"
+  - "[[_Standards/WikiData/WD~musalla,45990]]"
+  - "[[_Standards/WikiData/WD~minaret,48356]]"
+facet_of: "[[_Standards/WikiData/WD~Islamic_architecture,212940]]"
+instance_of: "[[_Standards/WikiData/WD~building_type,811102]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
+  - "[[_Standards/WikiData/WD~structure_of_worship,1370598]]"
+  - "[[_Standards/WikiData/WD~religious_building,24398318]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_mosque,13420133]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q32413069,32413069]]"
+activity_policy_in_this_place: "[[_Standards/WikiData/WD~please_take_off_your_shoes,66361369]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
+Nomenclature_for_Museum_Cataloging: "591"
+OmegaWiki_Defined_Meaning: "6563"
+IMDb_keyword: mosque
+aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem-2013%282%29-Aerial-Temple%20Mount-%28south%20exposure%29.jpg
+Commons_category: Mosques
+Library_of_Congress_Classification: NA4670
+Commons_gallery: Mosque
+equivalent_class:
+  - http://dbpedia.org/ontology/Mosque
+  - https://schema.org/Mosque
+exact_match:
+  - http://wordnet-rdf.princeton.edu/wn30/03788195-n
+  - http://wordnet-rdf.princeton.edu/wn31/103746689-n
+UNSPSC_Code: "30223003"
+Wolfram_Language_entity_code: Entity["Word", "mosque"]
+IPTC_NewsCode: mediatopic/20000699
+GeoNames_feature_code: S.MSQE
+Unicode_character: 🕌
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Edited%20Great%20Mosque%20of%20Mecca1%205-2019-ccsa4.0%20%28cropped%29.jpg
+image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/Interior%20of%20Aya%20Sofia%20Church-Mosque%20-%20Sultanahmet%20District%20-%20Istanbul%20Turkey%20-%2002%20%285722499307%29.jpg
+nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Mosque%20-%204.jpg
+image_of_entrance: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Petersburg%20Mosque%2011.jpg
+OpenStreetMap_tag: building=mosque
 ---
+
+# [[Mosque]] 
 
 Class of all mosques.
 
@@ -35,6 +85,8 @@ A mosque.
 [ #is_/sub_class_of :: [[../PlaceOfWorship]] ]
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+
+#is_/same_as :: [[../../../../../WikiData/WD~Mosque,32815|WD~Mosque,32815]] 
 
 
 ## Confidential Links & Embeds: 

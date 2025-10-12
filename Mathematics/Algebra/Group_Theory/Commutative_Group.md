@@ -7,7 +7,7 @@ has_id_wikidata: Q181296
 
 # [[Commutative_Group]] 
 
-#is_/same_as :: [[../../WikiData/WD~Abelian_group,181296]] 
+#is_/same_as :: [[../../../WikiData/WD~Abelian_group,181296]] 
 
 ## #has_/text_of_/abstract 
 

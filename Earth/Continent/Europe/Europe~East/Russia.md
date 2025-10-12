@@ -1061,7 +1061,7 @@ markerFolder: ./Russia////
 [Area-Land::1.69958E+07]
 has_place_continent:: [Europe](Europe.md)  
 [VehicleCode::]
-Capital :: [Moskwa](Moskwa)  
+Capital :: [Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City.md)  
 ![350](Coat_of_arms_of_Russia.svg)
 ![Anthem-Russia.mp3](../../../../../_public/xLarge.public/National-Anthem/Anthem-Russia.mp3)
 ![350](Flag_of_Russia.svg)
