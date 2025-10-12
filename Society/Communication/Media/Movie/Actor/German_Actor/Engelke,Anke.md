@@ -6,7 +6,7 @@ aliases:
 
 #has_/time_/started :: 1965-12-21 
 #has_/time_/stopped ::   
-#has_/place_/started :: [[Montreal]] 
+#has_/place_/started :: [[../../../../../../Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté]] 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/name_/maiden :: Engelke 
 #has_/name_/family :: Fischer  

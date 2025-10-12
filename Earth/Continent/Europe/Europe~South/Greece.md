@@ -476,18 +476,6 @@ WIPO_ST_3: GR
 
 # [[Greece]] 
 
-
-> [!info] This Article is only a Stub. 
-For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Greece)
-into a Subfolder named `Greece`, so that this Link into the Sub-Repository works: [[Greece/ReadMe]] 
-
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Greece 
-
-> [!warning] This can considerably increase the total size and depth of your wiki!
-
-[[Greece/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -556,6 +544,18 @@ Sub-region_Name ::  [[Southern Europe]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Greece,41|WD~Greece,41]] 
 
+
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Greece)
+into a Subfolder named `Greece`, so that this Link into the Sub-Repository works: [[Greece/ReadMe]] 
+
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Greece 
+
+> [!warning] This can considerably increase the total size and depth of your wiki!
+
+[[Greece/ReadMe]] 
+
+
 ## #has_/map 
 
 ```leaflet
@@ -565,6 +565,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Greece//
 markerFolder: ./Greece////
+coordinates: [[Greece]] 
+markerFile: [[Greece]] 
 ```
 
 
