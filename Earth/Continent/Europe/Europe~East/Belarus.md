@@ -501,7 +501,7 @@ markerFolder: ./Belarus//
 [Area-Land::0]
 has_place_continent:: [[Europe]]  
 [VehicleCode::BY]
-Capital :: [[Minsk]]  
+Capital :: [[Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County]]  
 
 ![[Emblem_of_Belarus.svg|350]]
 

@@ -5,7 +5,7 @@ has_id_wikidata: Q245418
 
 # [[Foxtrot]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Foxtrot,245418|WD~Foxtrot,245418]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Foxtrot,245418|WD~Foxtrot,245418]] 
 
 ## #has_/text_of_/abstract 
 

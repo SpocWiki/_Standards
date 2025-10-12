@@ -68,6 +68,16 @@ short_name:
 
 #is_/same_as :: [[../WikiData/WD~Military,8473|WD~Military,8473]] 
 
+Following evolutionary principles, an Army is needed 
+and it needs to cover all frontiers at all scales: 
+- biological 
+- armies 
+- nature (comets, disasters)
+Goal of defensive military should be to minimize the Effects of enemies on the population. 
+One way to do this is to minimize the Effectiveness of the opponent, 
+e.g. by funelling the Contact through a narrow channel. 
+This also reduces the Intensity of the Hostility. 
+
 ## #has_/text_of_/abstract 
 
 > A **Military**, also known collectively as armed forces, is a heavily armed, highly organized force 

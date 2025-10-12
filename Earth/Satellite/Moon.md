@@ -108,6 +108,8 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Moon,28455496]]'
 Wolfram_Language_entity_code: "Entity[\"PlanetaryMoon\", \"Moon\"]"
 ---
 
+# [[Moon]] 
+
 #is_/same_as ::[[../../WikiData/WD~Moon,405]]] 
 
 ## #has_/text_of_/abstract 
@@ -166,7 +168,7 @@ Wolfram_Language_entity_code: "Entity[\"PlanetaryMoon\", \"Moon\"]"
 > Since then, exploration of the Moon has continued robotically, 
 > and crewed missions are being planned to return beginning in the late 2020s.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Moon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Moon)  
 
 
 ## Confidential Links & Embeds: 

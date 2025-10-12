@@ -54,7 +54,6 @@ short_name: Cet
 
 #is_/same_as :: [[../../WikiData/WD~Cetus,8839|WD~Cetus,8839]] 
 
-
 ## #has_/text_of_/abstract 
 
 > **Cetus** is a constellation, sometimes called 'the whale' in English. 

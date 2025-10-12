@@ -434,15 +434,6 @@ Languages:
 
 # [[Morocco]] 
 
-
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Morocco 
-
-[[Morocco/ReadMe]] 
-
-
-
 [	ISO4217-currency_alphabetic	 :: MAD ]
 [	ISO4217-currency_name	 :: Moroccan Dirham ]
 [	ISO4217-currency_numeric	 :: 504 ]
@@ -506,10 +497,18 @@ Sub-region_Name ::  [[Northern Africa]]
 
 [	ISO3166-1-numeric	 :: 504 ]
 
-
-
 [ISO2::MA]
 [ISO3::MAR]
+
+#is_/same_as :: [[../../../../WikiData/WD~Morocco,1028|WD~Morocco,1028]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Morocco 
+
+[[Morocco/ReadMe]] 
+
+## #has_/map 
+
 ```leaflet
 id: Morocco
 zoomFeatures: true 
