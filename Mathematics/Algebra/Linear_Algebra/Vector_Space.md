@@ -33,13 +33,50 @@ Commons_category: Vector spaces
 
 ## #has_/text_of_/abstract 
 
-> In mathematics and physics, a vector space (also called a **Linear space**) is a set whose elements, often called vectors, can be added together and multiplied ("scaled") by numbers called scalars. The operations of vector addition and scalar multiplication must satisfy certain requirements, called vector axioms. Real vector spaces and complex vector spaces are kinds of vector spaces based on different kinds of scalars: real numbers and complex numbers. Scalars can also be, more generally, elements of any field.
+> In mathematics and physics, a vector space (also called a **Linear space**) 
+> is a set whose elements, often called vectors, can be added together 
+> and multiplied ("scaled") by numbers called scalars. 
+> 
+> The operations of vector addition and scalar multiplication 
+> must satisfy certain requirements, called vector axioms. 
+> 
+> Real vector spaces and complex vector spaces are kinds of vector spaces 
+> based on different kinds of scalars: real numbers and complex numbers. 
+> Scalars can also be, more generally, elements of any [[../Group_Theory/Field(Math)]] .
 >
-> Vector spaces generalize Euclidean vectors, which allow modeling of physical quantities (such as forces and velocity) that have not only a magnitude, but also a direction. The concept of vector spaces is fundamental for linear algebra, together with the concept of matrices, which allows computing in vector spaces. This provides a concise and synthetic way for manipulating and studying systems of linear equations.
+> Vector spaces generalize Euclidean vectors, which allow modeling of physical quantities (such as forces and velocity) that have not only a magnitude, but also a direction. The concept of vector spaces is fundamental for linear algebra, together with the concept of matrices, which allows computing in vector spaces. 
+> This provides a concise and synthetic way for manipulating 
+> and studying systems of linear equations.
 >
-> Vector spaces are characterized by their dimension, which, roughly speaking, specifies the number of independent directions in the space. This means that, for two vector spaces over a given field and with the same dimension, the properties that depend only on the vector-space structure are exactly the same (technically the vector spaces are isomorphic). A vector space is finite-dimensional if its dimension is a natural number. Otherwise, it is infinite-dimensional, and its dimension is an infinite cardinal. Finite-dimensional vector spaces occur naturally in geometry and related areas. Infinite-dimensional vector spaces occur in many areas of mathematics. For example, polynomial rings are countably infinite-dimensional vector spaces, and many function spaces have the cardinality of the continuum as a dimension.
+> Vector spaces are characterized by their dimension, which, roughly speaking, 
+> specifies the number of independent directions in the space. 
+> 
+> This means that, for two vector spaces over a given field and with the same dimension, 
+> the properties that depend only on the vector-space structure are exactly the same 
+> (technically the vector spaces are isomorphic). 
+> 
+> A vector space is finite-dimensional if its dimension is a natural number. 
+> Otherwise, it is infinite-dimensional, and its dimension is an infinite cardinal. 
+> Finite-dimensional vector spaces occur naturally in geometry and related areas. 
+> Infinite-dimensional vector spaces occur in many areas of mathematics. 
+> For example, polynomial rings are countably infinite-dimensional vector spaces, 
+> and function spaces usually have the cardinality of the continuum as a dimension.
 >
-> Many vector spaces that are considered in mathematics are also endowed with other structures. This is the case of algebras, which include field extensions, polynomial rings, associative algebras and Lie algebras. This is also the case of topological vector spaces, which include function spaces, inner product spaces, normed spaces, Hilbert spaces and Banach spaces.
+> Many vector spaces that are considered in mathematics 
+> are also endowed with other structures. 
+> 
+> This is the case of algebras, which include 
+> - field extensions, 
+> - polynomial rings, 
+> - associative algebras and 
+> - Lie algebras. 
+> 
+> This is also the case of topological vector spaces, which include 
+> - function spaces, 
+> - inner product spaces, 
+> - normed spaces, 
+> - Hilbert spaces and 
+> - Banach spaces.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vector%20space) 
 

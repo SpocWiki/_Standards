@@ -7,7 +7,7 @@ has_id_wikidata: Q727659
 
 # [[Commutative_Algebra]] 
 
-#is_/same_as :: [[../../WikiData/WD~Commutative_algebra,727659|WD~Commutative_algebra,727659]] 
+#is_/same_as :: [[../../../WikiData/WD~Commutative_algebra,727659|WD~Commutative_algebra,727659]] 
 
 ## #has_/text_of_/abstract 
 

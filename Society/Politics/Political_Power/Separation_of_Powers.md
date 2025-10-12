@@ -28,6 +28,7 @@ Commons_category: Separation of powers
 
 # [[Separation_of_Powers]] 
 
+#has_/creator :: [[../../../Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu|Montesquieu]] 
 #is_/similar_to ::  [[Checks and Balances]]  
 #is_/same_as :: [[../../../WikiData/WD~Separation_of_powers,79896|WD~Separation_of_powers,79896]] 
 

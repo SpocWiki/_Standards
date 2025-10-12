@@ -4,7 +4,7 @@ has_id_wikidata: Q858656
 ---
 # [[Commutative_Ring]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Commutative_ring,858656|WD~Commutative_ring,858656]] 
+#is_/same_as :: [[../../../../WikiData/WD~Commutative_ring,858656|WD~Commutative_ring,858656]] 
 
 ## #has_/text_of_/abstract 
 
