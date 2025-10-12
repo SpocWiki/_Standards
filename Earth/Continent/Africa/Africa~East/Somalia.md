@@ -412,7 +412,7 @@ markerFolder: ./Somalia//
 [Area-Land::627340]
 has_place_continent:: [Africa](../../Africa.md)  
 [VehicleCode::SO]
-Capital :: [Mogadischu](Somalia/City/Mogadischu.md)  
+Capital :: [Mogadishu](Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu.md)  
 
 ![550](Somalia/Coat_of_arms_of_Somalia.svg)
 
