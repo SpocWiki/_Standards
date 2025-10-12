@@ -39,15 +39,47 @@ topographic_prominence: 5895
 U_S_National_Archives_Identifier: 10038408
 ---
 
+# [[Mount_Kilimanjaro]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Mount_Kilimanjaro,7296|WD~Mount_Kilimanjaro,7296]] 
+
 ## #has_/text_of_/abstract 
 
-> **Mount Kilimanjaro** () is a dormant volcano in Tanzania. It is the highest mountain in Africa and one of the highest free-standing mountains above sea level in the world, at 5,895 m (19,341 ft) above sea level and 4,900 m (16,100 ft) above its plateau base. It is also the highest volcano in the Eastern Hemisphere and the fourth most topographically prominent peak on Earth.
+> **Mount Kilimanjaro** is a dormant volcano in Tanzania. 
+> It is the highest mountain in Africa and one of the highest free-standing mountains 
+> in the world, at 5,895 m (19,341 ft) above sea level and 4,900 m (16,100 ft) above its plateau base. 
+> 
+> It is also the highest volcano in the Eastern Hemisphere 
+> and the fourth most topographically prominent peak on Earth.
 >
-> Kilimanjaro's southern and eastern slopes served as the home of the Chagga Kingdoms until their abolition in 1963 by Julius Nyerere. The origin and meaning of the name Kilimanjaro is unknown, but may mean "mountain of greatness" or "unclimbable". Although described in classical sources, German missionary Johannes Rebmann is credited as the first European to report the mountain's existence, in 1848. After several European attempts, Hans Meyer reached Kilimanjaro's highest summit in 1889.
+> Kilimanjaro's southern and eastern slopes served as the home of the Chagga Kingdoms 
+> until their abolition in 1963 by Julius Nyerere. 
+> The origin and meaning of the name Kilimanjaro is unknown, 
+> but may mean "mountain of greatness" or "unclimbable". 
+> 
+> Although described in classical sources, 
+> German missionary Johannes Rebmann is credited as the first European 
+> to report the mountain's existence, in 1848. 
+> After several European attempts, Hans Meyer reached Kilimanjaro's highest summit in 1889.
 >
-> The mountain was incorporated into Kilimanjaro National Park in 1973. As one of the Seven Summits, Kilimanjaro is a major hiking and climbing destination. There are seven established routes to Uhuru Peak, the mountain's highest point. Although not as technically challenging as similar mountains, the prominence of Kilimanjaro poses a serious risk of altitude sickness.
+> The mountain was incorporated into Kilimanjaro National Park in 1973. 
+> As one of the Seven Summits, Kilimanjaro is a major hiking and climbing destination. 
+> There are seven established routes to Uhuru Peak, the mountain's highest point. 
+> Although not as technically challenging as similar mountains, 
+> the prominence of Kilimanjaro poses a serious risk of altitude sickness.
 >
-> One of several mountains arising from the East African Rift, Kilimanjaro was formed from volcanic activity over 2 million years ago. Its slopes host montane forests and cloud forests. Multiple species are endemic to Mount Kilimanjaro, including the giant groundsel Dendrosenecio kilimanjari. The mountain possesses a large ice cap and the largest glaciers in Africa, including Credner Glacier, Furtwängler Glacier, and the Rebmann Glacier. This ice cap is rapidly shrinking, with over 80% lost in the 20th century. The cap is projected to disappear entirely by the mid-21st century.
+> One of several mountains arising from the East African Rift, 
+> Kilimanjaro was formed from volcanic activity over 2 million years ago. 
+> Its slopes host montane forests and cloud forests. 
+> 
+> Multiple species are endemic to Mount Kilimanjaro, 
+> including the giant groundsel Dendrosenecio kilimanjari. 
+> 
+> The mountain possesses a large ice cap and the largest glaciers in Africa, 
+> including Credner Glacier, Furtwängler Glacier, and the Rebmann Glacier. 
+> 
+> This ice cap is rapidly shrinking, with over 80% lost in the 20th century. 
+> The cap is projected to disappear entirely by the mid-21st century.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mount%20Kilimanjaro) 
 
