@@ -56,6 +56,8 @@ aliases:
 
 # [[Emotion]] 
 
+#is_/similar_to :: [[Mood]] 
+#is_/similar_to :: [[Temperament]]  
 #is_/same_as :: [[../../WikiData/WD~Emotion,9415|WD~Emotion,9415]] 
 
 ## #has_/text_of_/abstract 
