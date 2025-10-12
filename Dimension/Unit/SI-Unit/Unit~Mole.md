@@ -1,3 +1,39 @@
+---
+aliases:
+has_id_wikidata: Q41509
+measured_physical_quantity:
+  - "[[_Standards/WikiData/WD~amount_of_substance,104946]]"
+  - "[[_Standards/WikiData/WD~extent_of_reaction,899046]]"
+different_from: "[[_Standards/WikiData/WD~Mol,218708]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~SI_base_unit,223662]]"
+  - "[[_Standards/WikiData/WD~unit_of_amount_of_substance,51980494]]"
+  - "[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]"
+  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+subdivision_of_this_unit: "[[_Standards/WikiData/WD~decimole,70378044]]"
+named_after: "[[_Standards/WikiData/WD~molecule,11369]]"
+conversion_to_standard_unit: 10
+conversion_to_SI_unit: 1
+OmegaWiki_Defined_Meaning: "8387"
+UCUM_code: mol
+UN_CEFACT_Common_Code: C34
+unit_symbol:
+  - mol
+  - mol
+  - mol
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Audiomol.ogg
+Wolfram_Language_unit_code: '"Moles"'
+IEV_number:
+  - 112-02-09
+  - 881-04-05
+Commons_category: Mole (unit)
+Wikidata_SPARQL_query_equivalent: wd:Q41509 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Mole%20carbon-12%20diagram.svg
+---
 
 # [[Unit~Mole]] 
 
@@ -6,6 +42,9 @@ Unit :: #Unit/SI/mol
 #is_a_/unit_/for_/number 
 
 #has_/number_of_/items :: 6.02214076e23
+#is_/same_as :: [[../../../WikiData/WD~Mole,41509|WD~Mole,41509]] 
+
+## #has_/text_of_/abstract  
 
 > The mole (symbol mol) is the unit of measurement for 
 > amount of substance, a quantity proportional to the 

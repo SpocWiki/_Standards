@@ -4,9 +4,8 @@ has_id_wikidata: Q43637
 
 # [[Monopoly]] 
 
-#is_/same_as :: [[/_public/WikiData/WD~Monopoly,43637]] 
-#is_/different_from :: [[Monopoly(game)]] 
-
+#is_/same_as :: [[../../../../WikiData/WD~Monopoly,43637|WD~Monopoly,43637]]  
+#is_/different_from :: [[../../../Communication/Media/Creative_Work/Game/Board_Game/Monopoly(game)|Monopoly(game)]]  
 
 ## #has_/text_of_/abstract 
 

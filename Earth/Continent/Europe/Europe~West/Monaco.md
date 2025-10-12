@@ -279,12 +279,6 @@ Libris_URI: tr5762wc3td6mvt
 
 # [[Monaco]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Monaco 
-
-[[Monaco/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -348,18 +342,20 @@ Sub-region_Name ::  [[Western Europe]]
 
 [	ISO3166-1-numeric	 :: 492 ]
 
-
-
-
 There is no geographical distinction between the State and City of Monaco,
 although responsibilities of the government (State~level) and of the municipality (City~level) are different.
 
 [ISO2::MC]
 [ISO3::MCO] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Monaco,235|WD~Monaco,235]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Monaco 
+
+[[Monaco/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Monaco
@@ -368,6 +364,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Monaco/
 markerFolder: ./Monaco//
+coordinates: [[Monaco]] 
+markerFile: [[Monaco]] 
 ```
 
 [name-en::Monaco]

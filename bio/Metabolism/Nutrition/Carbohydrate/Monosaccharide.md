@@ -1,8 +1,16 @@
+---
+aliases:
+  - Monosaccharid
+has_id_wikidata: Q133516
+---
+
+# [[Monosaccharide]] 
+
 #is_/sub_class_of :: [[Disaccharide]]  
 #has_/instances :: [[Monosaccharide/Fructose]]  
 #has_/instances :: [[Monosaccharide/Galactose]]  
 #has_/instances :: [[Monosaccharide/Glucose]]   
-
+#is_/same_as :: [[../../../../WikiData/WD~Monosaccharide,133516|WD~Monosaccharide,133516]] 
 
 ## #has_/text_of_/abstract 
 

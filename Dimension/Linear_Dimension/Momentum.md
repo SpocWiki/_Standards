@@ -3,6 +3,7 @@ aliases:
   - Linear Momentum
   - Impuls
   - translational momentum
+  - Impulse
 has_id_wikidata: Q41273
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"

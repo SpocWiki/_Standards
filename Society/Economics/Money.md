@@ -43,10 +43,12 @@ subclass_of:
 Wikidata_property: cash
 ---
 
+# [[Money]] 
+
 #has_/Pros :: has/creates Trust 
 #has_/Pros :: is fungible and fluid 
 
-
+#is_/same_as :: [[../../WikiData/WD~Money,1368|WD~Money,1368]] 
 
 ## #has_/text_of_/abstract 
 

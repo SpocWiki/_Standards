@@ -32,6 +32,9 @@ subclass_of: '[[_Standards/WikiData/WD~molecular_entity,2393187]]'
 
 # [[Molecule]] 
 
+#is_/same_as :: [[../WikiData/WD~Molecule,11369|WD~Molecule,11369]] 
+
+## #has_/text_of_/abstract  
 
 > A **Molecule** is a group of two or more atoms held together by attractive forces known as chemical bonds. 
 > Depending on context, the term may or may not include ions which satisfy this criterion. 

@@ -353,14 +353,6 @@ WIPO_ST_3: MN
 
 # [[Mongolia]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mongolia,711]]  
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Mongolia 
-
-[[Mongolia/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: MNT ]
 [	ISO4217-currency_name	 :: Tugrik ]
 [	ISO4217-currency_numeric	 :: 496 ]
@@ -424,14 +416,17 @@ Sub-region_Name ::  [[Eastern Asia]]
 
 [	ISO3166-1-numeric	 :: 496 ]
 
-
-
 [ISO2::MN]
 [ISO3::MNG] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Mongolia,711|WD~Mongolia,711]]   
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Mongolia 
+
+[[Mongolia/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Mongolia

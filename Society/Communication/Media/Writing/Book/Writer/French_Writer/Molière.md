@@ -127,6 +127,10 @@ work_period_start_: 1643
 writing_language: '[[_Standards/WikiData/WD~French,150]]'
 ---
 
+# [[Molière]] 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Molière,687|WD~Molière,687]] 
+
 ## #has_/text_of_/abstract 
 
 > Jean-Baptiste Poquelin (French: [ʒɑ̃ batist pɔklɛ̃]; 15 January 1622 (baptised) – 17 February 1673), 

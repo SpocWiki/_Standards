@@ -353,12 +353,6 @@ Krugosvet_article: strany_mira/MOLDAVIYA.html
 
 # [[Moldova]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Moldova 
-
-[[Moldova/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: MDL ]
 [	ISO4217-currency_name	 :: Moldovan Leu ]
 [	ISO4217-currency_numeric	 :: 498 ]
@@ -422,14 +416,17 @@ Sub-region_Name ::  [[Eastern Europe]]
 
 [	ISO3166-1-numeric	 :: 498 ]
 
-
-
 [ISO2::MD]
 [ISO3::MDA] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Moldova,217|WD~Moldova,217]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Moldova 
+
+[[Moldova/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Moldova
@@ -438,6 +435,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Moldova//
 markerFolder: ./Moldova//
+coordinates: [[Moldova]] 
+markerFile: [[Moldova]] 
+defaultZoom: 11 
 ```
 
 [name-en::Moldova]

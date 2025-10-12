@@ -1,5 +1,40 @@
 ---
 title: Monotremata
+aliases:
+  - Monotreme
+has_id_wikidata: Q21790
+mode_of_reproduction: "[[_Standards/WikiData/WD~oviparity,212306]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+parent_taxon:
+  - "[[_Standards/WikiData/WD~Australosphenida,783432]]"
+  - "[[_Standards/WikiData/WD~Monotremaformes,127347675]]"
+start_time: -210000000-01-01T00:00:00Z
+properties_for_this_type: time in the pouch
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+has_part_s_: "[[_Standards/WikiData/WD~penis,58]]"
+litter_size: 1
+egg_incubation_period: 10.5
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "179915"
+taxon_common_name:
+  - kloakkdyr
+  - 单孔目
+  - stekowiec
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Tachyglossus%20aculeatus%20side%20on.jpg
+EPPO_Code: 1MNTRO
+MeSH_tree_code: B01.050.150.900.649.627
+UMLS_CUI: C0026503
+Commons_gallery: Monotremata
+Commons_category: Monotremata
+taxon_name: Monotremata
 ---
 
 # [[Monotremata]]
@@ -8,9 +43,9 @@ title: Monotremata
 
 ![ ](Monotremata/sbechidna.jpg)) ![ ](Monotremata/Ornithorhynchus_anatinus.jpg)) 
 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Monotreme,21790|WD~Monotreme,21790]] 
 
 ## #has_/text_of_/abstract 
-
 
 > Monotremes are mammals of the order **Monotremata**. 
 > They are the only group of living mammals that lay eggs, rather than bearing live young. 

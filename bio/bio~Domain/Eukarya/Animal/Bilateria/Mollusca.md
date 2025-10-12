@@ -54,6 +54,7 @@ Snails, clams, mussels, squids, octopi, chitons, and tusk shells
 
  ![lunatia](Mollusca/lunatia.gif)  ![scallop](Mollusca/scallop.gif) ![loligo](Mollusca/loligo.gif)) 
 
+#is_/same_as :: [[../../../../../WikiData/WD~Mollusca,25326|WD~Mollusca,25326]] 
 
 ## #has_/text_of_/abstract 
 
