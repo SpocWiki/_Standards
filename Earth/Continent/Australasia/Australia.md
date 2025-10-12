@@ -1049,8 +1049,6 @@ Sub-region_Name ::  [[Australia and New Zealand]]
 
 ## #has_/map  
 
-
-
 ```leaflet
 id: Australia
 zoomFeatures: true 
