@@ -43,7 +43,6 @@ native_label: Mozzarella
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Mozzarella,14088|WD~Mozzarella,14088]]
 
-
 ## #has_/text_of_/abstract 
 
 > **Mozzarella** is a semi-soft non-aged cheese prepared using the pasta filata ('stretched-curd') method. It originated in southern Italy.
