@@ -27,7 +27,7 @@ MeSH_tree_code:
 
 # [[Brain_Tumor]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Brain_tumor,233309|WD~Brain_tumor,233309]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Brain_tumor,233309|WD~Brain_tumor,233309]] 
 ## #has_/text_of_/abstract 
 
 > A brain tumor (sometimes referred to as brain cancer) occurs when a group of cells within the brain turn cancerous and grow out of control, creating a mass. There are two main types of tumors: malignant (cancerous) tumors and benign (non-cancerous) tumors. These can be further classified as primary tumors, which start within the brain, and secondary tumors, which most commonly have spread from tumors located outside the brain, known as brain metastasis tumors. All types of brain tumors may produce symptoms that vary depending on the size of the tumor and the part of the brain that is involved. Where symptoms exist, they may include headaches, seizures, problems with vision, vomiting and mental changes. Other symptoms may include difficulty walking, speaking, with sensations, or unconsciousness.

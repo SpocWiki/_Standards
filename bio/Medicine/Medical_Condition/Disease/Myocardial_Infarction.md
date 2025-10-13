@@ -79,9 +79,19 @@ UMLS_CUI: C0027051
 
 ## #has_/text_of_/abstract 
 
-> A **Myocardial infarction** (MI), commonly known as a heart attack, occurs when blood flow decreases or stops in one of the coronary arteries of the heart, causing infarction (tissue death) to the heart muscle. The most common symptom is retrosternal chest pain or discomfort that classically radiates to the left shoulder, arm, or jaw. The pain may occasionally feel like heartburn. This is the dangerous type of Acute coronary syndrome.
+> A **Myocardial infarction** (MI), commonly known as a heart attack, occurs 
+> when blood flow decreases or stops in one of the coronary arteries of the heart, 
+> causing infarction (tissue death) to the heart muscle. 
+> 
+> The most common symptom is retrosternal chest pain or discomfort 
+> that classically radiates to the left shoulder, arm, or jaw. 
+> The pain may occasionally feel like heartburn. 
+> This is the dangerous type of Acute coronary syndrome.
 >
-> Other symptoms may include shortness of breath, nausea, feeling faint, a cold sweat, feeling tired, and decreased level of consciousness. About 30% of people have atypical symptoms. Women more often present without chest pain and instead have neck pain, arm pain or feel tired. Among those over 75 years old, about 5% have had an MI with little or no history of symptoms. An MI may cause heart failure, an irregular heartbeat, cardiogenic shock or cardiac arrest.
+> Other symptoms may include shortness of breath, nausea, feeling faint, 
+> a cold sweat, feeling tired, and decreased level of consciousness. 
+> 
+> About 30% of people have atypical symptoms. Women more often present without chest pain and instead have neck pain, arm pain or feel tired. Among those over 75 years old, about 5% have had an MI with little or no history of symptoms. An MI may cause heart failure, an irregular heartbeat, cardiogenic shock or cardiac arrest.
 >
 > Most MIs occur due to coronary artery disease. Risk factors include high blood pressure, smoking, diabetes, lack of exercise, obesity, high blood cholesterol, poor diet, and excessive alcohol intake. The complete blockage of a coronary artery caused by a rupture of an atherosclerotic plaque is usually the underlying mechanism of an MI. MIs are less commonly caused by coronary artery spasms, which may be due to cocaine, significant emotional stress (often known as Takotsubo syndrome or broken heart syndrome) and extreme cold, among others. Many tests are helpful  with diagnosis, including electrocardiograms (ECGs), blood tests and coronary angiography. An ECG, which is a recording of the heart's electrical activity, may confirm an ST elevation MI (STEMI), if ST elevation is present. Commonly used blood tests include troponin and less often creatine kinase MB.
 >

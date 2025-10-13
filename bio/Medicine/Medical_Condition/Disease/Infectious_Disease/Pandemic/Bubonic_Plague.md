@@ -37,11 +37,11 @@ UMLS_CUI: C0282312
 
 # [[Bubonic_Plague]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Bubonic_plague,217519|WD~Bubonic_plague,217519]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Bubonic_plague,217519|WD~Bubonic_plague,217519]] 
 
 ## #has_/text_of_/abstract 
 
-> Bubonic plague is one of three types of plague caused by the [[../../../../bio~Domain/Bacteria|bacterium]] Yersinia pestis. 
+> Bubonic plague is one of three types of plague caused by the [[../../../../../bio~Domain/Bacteria|bacterium]] Yersinia pestis. 
 > One to seven days after exposure to the bacteria, flu-like symptoms develop. 
 > These symptoms include fever, headaches, and vomiting, as well as swollen and painful lymph nodes 
 > occurring in the area closest to where the bacteria entered the skin. 
@@ -70,7 +70,7 @@ UMLS_CUI: C0282312
 > Without treatment, plague results in the death of 30% to 90% of those infected. 
 > Death, if it occurs, is typically within 10 days. With treatment, the risk of death is around 10%. 
 > Globally between 2010 and 2015 there were 3,248 documented cases, which resulted in 584 deaths. 
-> The countries with the greatest number of cases are the [[../../../../../Earth/Continent/Africa/Africa~Central/Congo~Kinshasa|Democratic Republic of the Congo]], [[../../../../../Earth/Continent/Africa/Africa~East/Madagascar|Madagascar]], and [[../../../../../Earth/Continent/America~South/Andes/Peru|Peru]].
+> The countries with the greatest number of cases are the [[../../../../../../Earth/Continent/Africa/Africa~Central/Congo~Kinshasa|Democratic Republic of the Congo]], [[../../../../../../Earth/Continent/Africa/Africa~East/Madagascar|Madagascar]], and [[../../../../../../Earth/Continent/America~South/Andes/Peru|Peru]].
 >
 > The plague is considered the likely cause of the Black Death that swept through Asia, Europe, 
 > and Africa in the 14th century and killed an estimated 50 million people, 
@@ -81,7 +81,7 @@ UMLS_CUI: C0282312
 > Some historians see this as a turning point in European economic development. 
 > The disease is also considered to have been responsible for the Plague of Justinian, 
 > originating in the Eastern Roman Empire in the 6th century CE, 
-> as well as the third epidemic, affecting [[../../../../../Earth/Continent/Asia/Asia~East/China|China]], [[../../../../../Earth/Continent/Asia/Asia~East/Mongolia|Mongolia]], and [[../../../../../Earth/Continent/Asia/Indian_Subcontinent/India|India]], 
+> as well as the third epidemic, affecting [[../../../../../../Earth/Continent/Asia/Asia~East/China|China]], [[../../../../../../Earth/Continent/Asia/Asia~East/Mongolia|Mongolia]], and [[../../../../../../Earth/Continent/Asia/Indian_Subcontinent/India|India]], 
 > originating in the Yunnan Province in 1855. 
 > The term bubonic is derived from the Greek word βουβών, meaning 'groin'.
 >

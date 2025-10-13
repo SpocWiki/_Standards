@@ -105,7 +105,7 @@ Krugosvet_article: medicina/RAK_TOLSTOGO_KISHECHNIKA.html
 
 # [[Colorectal_Cancer]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Colorectal_cancer,188874|WD~Colorectal_cancer,188874]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Colorectal_cancer,188874|WD~Colorectal_cancer,188874]] 
 
 ## #has_/text_of_/abstract 
 

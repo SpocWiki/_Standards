@@ -1,7 +1,7 @@
 ---
 aliases:
   - Normal_Distribution
-  - 
+  - Gaussian distribution
 confidential: private
 cssclasses:
   - private
@@ -40,13 +40,16 @@ title: Normal_Distribution
 type: private_note
 ---
 
-#is_/same_as :: [[../../../_Standards/WikiData/WD~Normal_distribution,133871_WD~Normal_distribution,133871]] 
-# [[Normal_Distribution]]
+#is_/same_as :: [[../../../_Standards/WikiData/WD~Normal_distribution,133871|WD~Normal_distribution,133871]] 
+# [[Normal_Distribution]] 
 
 
 ## #has_/text_of_/abstract 
 
-> In probability theory and statistics, a normal distribution or Gaussian distribution is a type of continuous probability distribution for a real-valued random variable. The general form of its probability density function is
+> In probability theory and statistics, a normal distribution or Gaussian distribution 
+> is a type of continuous probability distribution for a real-valued random variable. 
+> 
+> The general form of its probability density function is
 > $f(x) = \exp(−(x−μ)²/2σ²)/(2πσ²)$
 > The parameter μ is the mean or expectation of the distribution (and also its median and mode), 
 > while the parameter σ² is the variance. 

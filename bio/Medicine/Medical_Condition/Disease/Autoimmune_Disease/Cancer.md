@@ -71,7 +71,7 @@ U_S_National_Archives_Identifier: 10636616
 
 # [[Cancer]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Cancer,12078|WD~Cancer,12078]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Cancer,12078|WD~Cancer,12078]] 
 
 ## #has_/text_of_/abstract 
 

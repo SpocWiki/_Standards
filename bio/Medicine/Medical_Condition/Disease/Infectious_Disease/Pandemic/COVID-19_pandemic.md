@@ -207,7 +207,7 @@ GitHub_topic: wuhan-coronavirus-outbreak
 
 # [[COVID-19_pandemic]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~COVID-19_pandemic,81068910|WD~COVID-19_pandemic,81068910]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~COVID-19_pandemic,81068910|WD~COVID-19_pandemic,81068910]] 
 
 ## #has_/text_of_/abstract 
 

@@ -136,7 +136,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Breast%20DCIS%20histop
 
 # [[Breast_Cancer]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Breast_cancer,128581|WD~Breast_cancer,128581]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Breast_cancer,128581|WD~Breast_cancer,128581]] 
 
 ## #has_/text_of_/abstract 
 
