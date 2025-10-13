@@ -4,26 +4,27 @@ aliases:
   - muscle
   - Muscle
   - is_a_muscle
+  - Muskel
+has_id_wikidata: Q7365
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - muscle
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_a_muscle Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_muscle Class
 type: Type
-has_id_wikidata: Q7365
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -96,7 +97,14 @@ A muscle is an anatomical structure consisting of a contractile form of tissue t
 
 ## #has_/text_of_/abstract 
 
-> **Muscle** is a soft tissue, one of the four basic types of animal tissue. There are three types of muscle tissue in vertebrates: skeletal muscle, cardiac muscle, and smooth muscle.  Muscle tissue gives skeletal muscles the ability to contract.  Muscle tissue contains special contractile proteins called actin and myosin which interact to cause movement. Among many other muscle proteins, present are two regulatory proteins, troponin and tropomyosin. Muscle is formed during embryonic development, in a process known as myogenesis.
+> **Muscle** is a soft tissue, one of the four basic types of animal tissue. 
+> There are three types of muscle tissue in vertebrates: 
+> skeletal muscle, cardiac muscle, and smooth muscle.  
+> 
+> Muscle tissue gives skeletal muscles the ability to contract.  
+> Muscle tissue contains special contractile proteins called actin and myosin which interact to cause movement. Among many other muscle proteins, present are two regulatory proteins, troponin and tropomyosin. 
+> 
+> Muscle is formed during embryonic development, in a process known as myogenesis.
 >
 > Skeletal muscle tissue is striated consisting of elongated, multinucleate muscle cells called muscle fibers, and is responsible for movements of the body. Other tissues in skeletal muscle include tendons and perimysium. Smooth and cardiac muscle contract involuntarily, without conscious intervention. These muscle types may be activated both through the interaction of the central nervous system as well as by innervation from peripheral plexus or endocrine (hormonal) activation. Skeletal muscle only contracts voluntarily, under the influence of the central nervous system. Reflexes are a form of non-conscious activation of skeletal muscles, but nonetheless arise through activation of the central nervous system, albeit not engaging cortical structures until after the contraction has occurred.
 >

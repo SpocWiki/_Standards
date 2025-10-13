@@ -1040,10 +1040,9 @@ Sub-region_Name ::  [[Australia and New Zealand]]
 
 [	ISO3166-1-numeric	 :: 036 ]
 
-
-
 [ISO2::AU]
 [ISO3::AUS] 
+
 #is_/same_as :: [[../../../WikiData/WD~Australia,408|WD~Australia,408]] 
 
 
@@ -1056,6 +1055,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Australia//
 markerFolder: ./Australia/
+coordinates: [[Australia]] 
+markerFile: [[Australia]] 
 ```
 
 [name-en::Australia]

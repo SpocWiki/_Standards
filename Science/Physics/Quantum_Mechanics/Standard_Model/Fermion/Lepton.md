@@ -30,7 +30,7 @@ P8189: "987007562936105171"
 
 # [[Lepton]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Lepton,82586|WD~Lepton,82586]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Lepton,82586|WD~Lepton,82586]] 
 
 ## #has_/text_of_/abstract 
 

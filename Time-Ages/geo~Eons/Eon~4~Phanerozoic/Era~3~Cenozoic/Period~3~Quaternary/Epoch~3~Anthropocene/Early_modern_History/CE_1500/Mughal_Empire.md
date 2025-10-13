@@ -66,11 +66,9 @@ official_name:
 inception: 1526-01-01T00:00:00Z
 ---
 
-
 # [[Mughal_Empire]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Mughal_Empire,33296|WD~Mughal_Empire,33296]]
-
 
 ## #has_/text_of_/abstract 
 
