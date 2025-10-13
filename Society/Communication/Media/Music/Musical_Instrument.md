@@ -58,6 +58,10 @@ Wikidata_property: instrument
 Wolfram_Language_entity_type: MusicalInstrument
 ---
 
+# [[Musical_Instrument]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Musical_instrument,34379|WD~Musical_instrument,34379]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Musical instrument** is a device created or adapted to make musical sounds. In principle, any object that produces sound can be considered a musical instrument—it is through purpose that the object becomes a musical instrument. A person who plays a musical instrument is known as an instrumentalist. 

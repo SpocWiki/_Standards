@@ -35,7 +35,7 @@ MeSH_tree_code: H01.158.273.540.553
 
 # [[Mycology]] 
 
-#is_/same_as :: [[../WikiData/WD~Mycology,7175|WD~Mycology,7175]] 
+#is_/same_as :: [[../../../../WikiData/WD~Mycology,7175|WD~Mycology,7175]] 
 
 ## #has_/text_of_/abstract 
 

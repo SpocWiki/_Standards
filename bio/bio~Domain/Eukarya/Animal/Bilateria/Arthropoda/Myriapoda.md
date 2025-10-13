@@ -32,7 +32,7 @@ UMLS_CUI: C0597910
 
 # [[Myriapoda]] 
 
-[[../../../WikiData/WD~Myriapoda,25823|WD~Myriapoda,25823]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Myriapoda,25823|WD~Myriapoda,25823]]  
 
 ## #has_/text_of_/abstract 
 

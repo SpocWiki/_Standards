@@ -70,7 +70,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fungi,39087041]]'
 #is_a/bio-Kingdom 
 #is_a :: [[../../Taxon_Rank/bio~Kingdom|bio~Kingdom]]  
 
-#is_/subject_of ::  [[../../Mycology|Mycology]] 
+#is_/subject_of ::  [[Fungi/Mycology|Mycology]] 
 
 Eumycota: mushrooms, sac fungi, yeast, molds, rusts, smuts, etc. 
 

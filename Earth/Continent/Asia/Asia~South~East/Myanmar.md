@@ -37,12 +37,6 @@ type: Country
 
 # [[Myanmar]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Myanmar 
-
-[[Myanmar/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: MMK ]
 [	ISO4217-currency_name	 :: Kyat ]
 [	ISO4217-currency_numeric	 :: 104 ]
@@ -106,14 +100,17 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 [	ISO3166-1-numeric	 :: 104 ]
 
-
-
 [ISO2::MM]
 [ISO3::MMR] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Myanmar,836|WD~Myanmar,836]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Myanmar 
+
+[[Myanmar/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Myanmar
@@ -122,6 +119,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Myanmar//
 markerFolder: ./Myanmar/
+coordinates: [[Myanmar]] 
+markerFile: [[Myanmar]] 
 ```
 
 [name-en::Myanmar]

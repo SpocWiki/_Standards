@@ -77,6 +77,10 @@ symptoms_and_signs:
 UMLS_CUI: C0027051
 ---
 
+# [[Myocardial_Infarction]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Myocardial_infarction,12152|WD~Myocardial_infarction,12152]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Myocardial infarction** (MI), commonly known as a heart attack, occurs 

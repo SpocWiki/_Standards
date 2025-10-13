@@ -17,6 +17,8 @@ MeSH_tree_code:
   - C25.723.680.551
 ---
 
+# [[Mushroom_Poisoning]] 
+
 #is_/same_as :: [[WD~Mushroom_poisoning,852186]] 
 
 ## #has_/text_of_/abstract 

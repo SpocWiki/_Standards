@@ -1,12 +1,30 @@
 ---
 aliases:
-- Myrtales
+  - Myrtales
 title: Myrtales
+has_id_wikidata: Q21866
+parent_taxon: "[[_Standards/WikiData/WD~malvids,2133361]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "27072"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lumnitzera%20littorea.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Punica%20granatum%201.jpg
+EPPO_Code: 1MYTO
+MeSH_tree_code: B01.875.800.575.912.250.859.833
+UMLS_CUI: C1009845
+Commons_category: Myrtales
+taxon_name: Myrtales
+NBN_System_Key: NHMSYS0000066424
+taxon_common_name: 桃金娘目
 ---
 
 # [[Myrtales]] 
 
 ![Clidemia_hirta](Myrtales/Clidemia_hirta.jpg)  ![Oenothera_californica](Myrtales/Oenothera_californica.jpg)  ![Eucalyptus_viminalis](Myrtales/Myrtaceae/Eucalyptus/Eucalyptus_viminalis.jpg) 
+
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Myrtales,21866|WD~Myrtales,21866]] 
 
 ## #has_/text_of_/abstract 
 

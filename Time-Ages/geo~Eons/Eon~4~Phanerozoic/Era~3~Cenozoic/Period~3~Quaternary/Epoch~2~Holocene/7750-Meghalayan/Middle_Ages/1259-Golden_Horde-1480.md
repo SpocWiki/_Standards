@@ -61,7 +61,7 @@ official_name: Uluğ Ulus
 dissolved_abolished_or_demolished_date: 1502-01-01T00:00:00Z
 ---
 
-# [[1259-Golden_Horde]] 
+# [[1259-Golden_Horde-1480]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Golden_Horde,79965|WD~Golden_Horde,79965]] 
 ## #has_/text_of_/abstract 
@@ -92,6 +92,7 @@ dissolved_abolished_or_demolished_date: 1502-01-01T00:00:00Z
 > 
 > At the start of the 15th century, the Horde began to fall apart. 
 > By 1466, it was being referred to simply as the "Great Horde". 
+> 
 > Within its territories there emerged numerous predominantly Turkic khanates. 
 > These internal struggles allowed Moscow to formally rid itself of the "Tatar yoke" 
 > at the Great Stand on the Ugra River in 1480, 
