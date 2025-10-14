@@ -11,7 +11,7 @@ aliases:
 #has_/time_/stopped :: 1972-06 
 
 
-#is_/same_as :: [[../../WikiData/WD~Apollo_space_program,46611|WD~Apollo_space_program,46611]] 
+#is_/same_as :: [[../../../WikiData/WD~Apollo_space_program,46611|WD~Apollo_space_program,46611]] 
 
 ## #has_/text_of_/abstract 
 

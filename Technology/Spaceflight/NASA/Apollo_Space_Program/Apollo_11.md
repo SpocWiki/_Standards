@@ -61,7 +61,7 @@ P8189: "987007594503605171"
 
 # [[Apollo_11]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Apollo_11,43653|WD~Apollo_11,43653]] 
+#is_/same_as :: [[../../../../WikiData/WD~Apollo_11,43653|WD~Apollo_11,43653]] 
 
 #has_/url_for_/code_repository :: https://github.com/chrislgarry/Apollo-11 
 
