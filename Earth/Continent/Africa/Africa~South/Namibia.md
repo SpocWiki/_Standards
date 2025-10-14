@@ -356,12 +356,6 @@ Languages:
 
 # [[Namibia]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Namibia 
-
-[[Namibia/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: NAD,ZAR ]
 [	ISO4217-currency_name	 :: Namibia Dollar,Rand ]
 [	ISO4217-currency_numeric	 :: 516,710 ]
@@ -425,10 +419,18 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 516 ]
 
-
-
 [ISO2::NA]
 [ISO3::NAM]
+
+#is_/same_as :: [[../../../../WikiData/WD~Namibia,1030|WD~Namibia,1030]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Namibia 
+
+[[Namibia/ReadMe]] 
+
+## #has_/map 
+
 ```leaflet
 id: Namibia
 zoomFeatures: true 
