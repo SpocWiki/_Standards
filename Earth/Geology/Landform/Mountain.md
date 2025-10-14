@@ -26,6 +26,8 @@ title: is_a_mountain Class
 type: Type
 ---
 
+# [[Mountain]]  
+
 Class of all mountains.
 
 Tag Instances like this: 
@@ -37,6 +39,7 @@ A mountain, like Mount Whitney or Mount Everest.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+#is_/same_as :: [[../../../WikiData/WD~Mountain,8502|WD~Mountain,8502]] 
 
 ## #has_/text_of_/abstract 
 

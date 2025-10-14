@@ -28,6 +28,10 @@ Colon_Classification: B97894
 
 #is_/same_as :: [[WD~Satellite,26540]]  
 
+Moons are also sorted into this Folder, 
+because they are categorized as Satellite generically Named S###P 
+With P the first letter of the Planet it orbits. 
+
 ## #has_/text_of_/abstract 
 
 > A **Satellite** or an artificial satellite is an object, typically a spacecraft, 

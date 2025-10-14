@@ -432,10 +432,13 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 508 ]
 
-
-
 [ISO2::MZ]
-[ISO3::MOZ]
+[ISO3::MOZ] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Mozambique,1029|WD~Mozambique,1029]] 
+
+## #has_/map 
+
 ```leaflet
 id: Mozambique
 zoomFeatures: true 

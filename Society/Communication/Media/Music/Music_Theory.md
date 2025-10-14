@@ -1,6 +1,25 @@
 ---
 aliases:
 has_id_wikidata: Q193544
+part_of: "[[_Standards/WikiData/WD~musicology,164204]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+practiced_by: "[[_Standards/WikiData/WD~music_theorist,16031530]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Music_theory,16327995]]"
+is_the_study_of: "[[_Standards/WikiData/WD~music,638]]"
+subclass_of: "[[_Standards/WikiData/WD~theory,17737]]"
+Dewey_Decimal_Classification: "781"
+social_media_followers: 539613
+Commons_category: Music theory
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Title%20page%20of%20Rameau%E2%80%99s%20New%20System%20of%20Musical%20Theory.jpg
+Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/MUZIKI_TEORIYA.html
+Library_of_Congress_Classification: MT5.5-MT7
+GitHub_topic: music-theory
+subreddit: musictheory
 ---
 
 # [[Music_Theory]] 
