@@ -1,6 +1,17 @@
 ---
 aliases:
 has_id_wikidata: Q181822
+subclass_of:
+  - "[[_Standards/WikiData/WD~mixture,169336]]"
+  - "[[_Standards/WikiData/WD~fuel,42501]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Louis_Fieser,384156]]"
+has_use: "[[_Standards/WikiData/WD~incendiary_weapon,898389]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+Commons_gallery: Napalm
+Commons_category: Napalm
+U_S_National_Archives_Identifier: "10645858"
+OmegaWiki_Defined_Meaning: "1197809"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/US%20riverboat%20using%20napalm%20in%20Vietnam.jpg
 ---
 
 # [[Napalm]] 

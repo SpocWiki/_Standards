@@ -430,12 +430,6 @@ icon: flag-sa
 
 # [[Saudi_Arabia]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Saudi_Arabia 
-
-[[Saudi_Arabia/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: SAR ]
 [	ISO4217-currency_name	 :: Saudi Riyal ]
 [	ISO4217-currency_numeric	 :: 682 ]
@@ -499,14 +493,18 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 682 ]
 
-
-
 [ISO2::SA]
 [ISO3::SAU] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Saudi_Arabia 
+
+[[Saudi_Arabia/ReadMe]] 
+
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Saudi Arabia

@@ -693,7 +693,6 @@ into a Subfolder named `Japan`, so that this Link into the Sub-Repository works:
 
 ## #has_/map  
 
-EXCLUDING_THE_RUYUKU_ISLANDS
 ```leaflet
 id: Japan
 zoomFeatures: true 
