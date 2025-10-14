@@ -311,7 +311,7 @@ part_of:
   - "[[_Standards/WikiData/WD~Baltic_states,39731]]"
 lowest_point: "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
-headquarters_location: "[[_Standards/WikiData/WD~Riga,1773]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Riga,1773]]"
 capital: "[[_Standards/WikiData/WD~Riga,1773]]"
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"

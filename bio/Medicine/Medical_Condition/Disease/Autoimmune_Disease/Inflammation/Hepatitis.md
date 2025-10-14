@@ -51,7 +51,7 @@ relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiD
 instance_of:
   - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
   - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
-anatomical_location: "[[_Standards/WikiData/WD~liver,9368]]"
+anatomical_locations: "[[_Standards/WikiData/WD~liver,9368]]"
 afflicts: "[[_Standards/WikiData/WD~liver,9368]]"
 ICD_9_CM:
   - "570"

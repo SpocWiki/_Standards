@@ -89,7 +89,7 @@ archives_at: "[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]
 father: "[[_Standards/WikiData/WD~Johann_Georg_Liebig,55854950]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
 date_of_death: 1873-04-18T00:00:00Z
-work_location: "[[_Standards/WikiData/WD~Munich,1726]]"
+work_locations: "[[_Standards/WikiData/WD~Munich,1726]]"
 place_of_death: "[[_Standards/WikiData/WD~Munich,1726]]"
 field_of_work: "[[_Standards/WikiData/WD~chemistry,2329]]"
 place_of_birth: "[[_Standards/WikiData/WD~Darmstadt,2973]]"

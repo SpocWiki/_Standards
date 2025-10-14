@@ -9,8 +9,8 @@ described_by_source:
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 instance_of: "[[_Standards/WikiData/WD~building_type,811102]]"
-location: "[[_Standards/WikiData/WD~episcopal_see,866196]]"
-headquarters_location: "[[_Standards/WikiData/WD~episcopal_see,866196]]"
+locations: "[[_Standards/WikiData/WD~episcopal_see,866196]]"
+headquarters_locations: "[[_Standards/WikiData/WD~episcopal_see,866196]]"
 contains: "[[_Standards/WikiData/WD~cathedra,1138500]]"
 named_after: "[[_Standards/WikiData/WD~cathedra,1138500]]"
 occupant:

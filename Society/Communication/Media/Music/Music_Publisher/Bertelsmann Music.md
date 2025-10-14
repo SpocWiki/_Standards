@@ -30,7 +30,7 @@ organizational_divisions:
   - "[[_Standards/WikiData/WD~BMG_Video,71015649]]"
   - "[[_Standards/WikiData/WD~BMG_Entertainment,113644070]]"
 industry: "[[_Standards/WikiData/WD~music,638]]"
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+headquarters_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
 country: "[[_Standards/WikiData/WD~Germany,183]]"
 inception:
   - 1983-01-01T00:00:00Z

@@ -52,7 +52,7 @@ total_assets:
   - 242488346
 official_language: "[[_Standards/WikiData/WD~English,1860]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+headquarters_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
 member_count: 4
 employees: 450
 social_media_followers: 5068969

@@ -48,7 +48,7 @@ language_used:
   - "[[_Standards/WikiData/WD~Spanish,1321]]"
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~French,150]]"
-headquarters_location: "[[_Standards/WikiData/WD~London,84]]"
+headquarters_locations: "[[_Standards/WikiData/WD~London,84]]"
 country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 social_media_followers:
   - 18400

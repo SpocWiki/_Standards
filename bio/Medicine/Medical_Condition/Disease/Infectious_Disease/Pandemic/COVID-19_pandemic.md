@@ -171,7 +171,7 @@ topic_has_template:
   - "[[_Standards/WikiData/WD~Template_COVID_19_pandemic,83761248]]"
   - "[[_Standards/WikiData/WD~Template_COVID_19_pandemic_sidebar,87909922]]"
 has_part_s_: "[[_Standards/WikiData/WD~COVID_19_pandemic_on_ships,98777187]]"
-location: "[[_Standards/WikiData/WD~Wuhan,11746]]"
+locations: "[[_Standards/WikiData/WD~Wuhan,11746]]"
 country_of_origin: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 subreddit:
   - Coronavirus

@@ -78,7 +78,7 @@ has_part_s_of_the_class:
   - "[[_Standards/WikiData/WD~delegation_of_the_European_Parlament,1853929]]"
   - "[[_Standards/WikiData/WD~Committee_of_the_European_Parliament,2986807]]"
 different_from: "[[_Standards/WikiData/WD~Parliamentary_Assembly_of_the_Council_of_Europe,939743]]"
-headquarters_location: "[[_Standards/WikiData/WD~Seat_of_the_European_Parliament_in_Strasbourg,2423937]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Seat_of_the_European_Parliament_in_Strasbourg,2423937]]"
 child_organization_unit:
   - "[[_Standards/WikiData/WD~Conference_of_Committee_Chairs_of_the_European_Parliament,2992907]]"
   - "[[_Standards/WikiData/WD~Conference_of_Presidents_of_the_European_Parliament,3816811]]"

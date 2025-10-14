@@ -17,7 +17,7 @@ participant:
   - "[[_Standards/WikiData/WD~Army_of_Free_Lebanon,4794304]]"
   - "[[_Standards/WikiData/WD~Hezbollah,41053]]"
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Lebanon,822]]"
-location: "[[_Standards/WikiData/WD~Lebanon,822]]"
+locations: "[[_Standards/WikiData/WD~Lebanon,822]]"
 country: "[[_Standards/WikiData/WD~Lebanon,822]]"
 instance_of: "[[_Standards/WikiData/WD~civil_war,8465]]"
 start_time: 1975-04-13T00:00:00Z

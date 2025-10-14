@@ -39,7 +39,7 @@ award_received:
   - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Jagiellonian_University_of_Krakow,20853550]]"
   - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
   - "[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]"
-work_location: "[[_Standards/WikiData/WD~Princeton,138518]]"
+work_locations: "[[_Standards/WikiData/WD~Princeton,138518]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~Presbyterianism,178169]]"
 educated_at:
   - "[[_Standards/WikiData/WD~Johns_Hopkins_University,193727]]"

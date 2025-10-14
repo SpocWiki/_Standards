@@ -10,7 +10,7 @@ Baidu_Tieba_name: 指环王
 last_line: "'Well, I'm back,' he said."
 first_line: This book is largely concerned with Hobbits, and from its pages a reader may discover much of their character and a little of their history.
 follows: "[[_Standards/WikiData/WD~The_Hobbit,74287]]"
-narrative_location: "[[_Standards/WikiData/WD~Middle_earth,79734]]"
+narrative_locations: "[[_Standards/WikiData/WD~Middle_earth,79734]]"
 followed_by: "[[_Standards/WikiData/WD~The_Silmarillion,79762]]"
 takes_place_in_fictional_universe: "[[_Standards/WikiData/WD~Tolkien's_legendarium,81738]]"
 publisher: "[[_Standards/WikiData/WD~George_Allen_&_Unwin_Limited,95145]]"

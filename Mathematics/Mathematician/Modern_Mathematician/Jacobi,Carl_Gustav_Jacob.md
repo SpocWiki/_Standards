@@ -124,7 +124,7 @@ Regensburg_Classification: SF 4540
 name_in_native_language: Carl Gustav Jacob Jacobi
 described_at_URL: http://www.digiporta.net/index.php?id=583227465
 native_language: "[[_Standards/WikiData/WD~German,188]]"
-work_location: "[[_Standards/WikiData/WD~Prussia,38872]]"
+work_locations: "[[_Standards/WikiData/WD~Prussia,38872]]"
 sibling: "[[_Standards/WikiData/WD~Moritz_von_Jacobi,60579]]"
 Commons_gallery: Carl Gustav Jacob Jacobi
 Commons_category: Carl Gustav Jacob Jacobi

@@ -93,7 +93,7 @@ social_media_followers:
 location:
   - "[[_Standards/WikiData/WD~The_Hague,36600]]"
   - "[[_Standards/WikiData/WD~Leiden,43631]]"
-headquarters_location: "[[_Standards/WikiData/WD~Leiden,43631]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Leiden,43631]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Leiden,43631]]"
 employees: 7860
 count_of_students: 33474

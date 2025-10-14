@@ -90,7 +90,7 @@ languages_spoken_written_or_signed:
   - "[[_Standards/WikiData/WD~Dutch,7411]]"
 doctoral_student: "[[_Standards/WikiData/WD~Gottfried_Wilhelm_Leibniz,9047]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Paris,90]]"
+work_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 place_of_death: "[[_Standards/WikiData/WD~The_Hague,36600]]"
 place_of_birth: "[[_Standards/WikiData/WD~The_Hague,36600]]"
 name_in_native_language: Christiaan Huygens

@@ -59,7 +59,7 @@ inception: 1846-05-22T00:00:00Z
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 location_of_formation: "[[_Standards/WikiData/WD~New_York_City,60]]"
 place_of_publication: "[[_Standards/WikiData/WD~New_York_City,60]]"
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+headquarters_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
 occupation: "[[_Standards/WikiData/WD~photographer,33231]]"
 social_media_followers:
   - 3500000

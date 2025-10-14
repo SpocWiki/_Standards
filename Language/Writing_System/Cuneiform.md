@@ -39,7 +39,7 @@ language_of_work_or_name:
   - "[[_Standards/WikiData/WD~Ugaritic,36928]]"
   - "[[_Standards/WikiData/WD~Urartian,36934]]"
 named_after: "[[_Standards/WikiData/WD~nail,37077]]"
-location: "[[_Standards/WikiData/WD~Near_East,48214]]"
+locations: "[[_Standards/WikiData/WD~Near_East,48214]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sales%20contract%20Shuruppak%20Louvre%20AO3766.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sumerian%2026th%20c%20Adab.jpg

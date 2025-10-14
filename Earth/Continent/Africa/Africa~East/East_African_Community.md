@@ -23,7 +23,7 @@ official_language:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~Swahili,7838]]"
   - "[[_Standards/WikiData/WD~French,150]]"
-headquarters_location: "[[_Standards/WikiData/WD~Arusha,4301]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Arusha,4301]]"
 social_media_followers:
   - 8270
   - 155967

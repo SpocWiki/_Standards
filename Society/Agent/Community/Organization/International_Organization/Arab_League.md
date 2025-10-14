@@ -29,7 +29,7 @@ child_organization_unit:
 different_from: "[[_Standards/WikiData/WD~Arab_Union,624115]]"
 legislative_body: "[[_Standards/WikiData/WD~Arab_Parliament,624390]]"
 flag: "[[_Standards/WikiData/WD~flag_of_the_League_of_Arab_States,783961]]"
-headquarters_location: "[[_Standards/WikiData/WD~Headquarters_of_the_Arab_League,2086335]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Headquarters_of_the_Arab_League,2086335]]"
 foundational_text: "[[_Standards/WikiData/WD~Charter_of_the_Arab_League,5086771]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Arab_League,5535260]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Arab_League,5603805]]"

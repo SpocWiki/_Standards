@@ -79,7 +79,7 @@ languages_spoken_written_or_signed:
 native_language: "[[_Standards/WikiData/WD~Latin,397]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~France,142]]"
+work_locations: "[[_Standards/WikiData/WD~France,142]]"
 Libris_URI: 20dgh6gl0tzm95q
 Provenio_UUID: 8d0aacce-5fc4-447c-8f81-3ee8ae163651
 Europeana_entity: agent/base/145379

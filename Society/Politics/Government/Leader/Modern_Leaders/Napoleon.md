@@ -203,6 +203,10 @@ work_period_start_: 1789
 writing_language: '[[_Standards/WikiData/WD~French,150]]'
 ---
 
+# [[Napoleon]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Napoleon,517|WD~Napoleon,517]] 
+
 ## #has_/text_of_/abstract 
 
 > **Napoleon** Bonaparte (born Napoleone Buonaparte; 15 August 1769 – 5 May 1821), 

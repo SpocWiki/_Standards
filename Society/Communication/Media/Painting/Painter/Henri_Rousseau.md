@@ -130,7 +130,7 @@ work_period_start_: 1870-01-01T00:00:00Z
 date_of_birth: 1844-05-21T00:00:00Z
 field_of_work: "[[_Standards/WikiData/WD~art_of_painting,11629]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Paris,90]]"
+work_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"

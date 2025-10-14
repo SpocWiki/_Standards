@@ -57,7 +57,7 @@ official_language:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~French,150]]"
   - "[[_Standards/WikiData/WD~German,188]]"
-headquarters_location: "[[_Standards/WikiData/WD~Paris,90]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 country: "[[_Standards/WikiData/WD~France,142]]"
 social_media_followers: 1170000
 budget:

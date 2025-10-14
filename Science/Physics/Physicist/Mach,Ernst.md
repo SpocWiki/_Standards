@@ -24,7 +24,7 @@ doctoral_student:
   - "[[_Standards/WikiData/WD~Ottokar_Tumlirz,7109921]]"
 doctoral_advisor: "[[_Standards/WikiData/WD~Andreas_von_Ettingshausen,86374]]"
 academic_degree: "[[_Standards/WikiData/WD~professor,121594]]"
-work_location: "[[_Standards/WikiData/WD~Kroměříž,158239]]"
+work_locations: "[[_Standards/WikiData/WD~Kroměříž,158239]]"
 employer:
   - "[[_Standards/WikiData/WD~University_of_Vienna,165980]]"
   - "[[_Standards/WikiData/WD~University_of_Graz,622683]]"

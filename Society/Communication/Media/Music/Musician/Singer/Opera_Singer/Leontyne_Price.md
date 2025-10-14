@@ -45,7 +45,7 @@ languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
 voice_type: "[[_Standards/WikiData/WD~soprano,30903]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+work_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
 ethnic_group: "[[_Standards/WikiData/WD~African_Americans,49085]]"
 Commons_gallery: Leontyne Price
 Commons_category: Leontyne Price

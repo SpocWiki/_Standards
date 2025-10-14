@@ -2,7 +2,7 @@
 aliases:
   - Embraer S.A.
 has_id_wikidata: Q105557
-headquarters_location: "[[_Standards/WikiData/WD~São_José_dos_Campos,191642]]"
+headquarters_locations: "[[_Standards/WikiData/WD~São_José_dos_Campos,191642]]"
 product_or_material_produced:
   - "[[_Standards/WikiData/WD~airliner,210932]]"
   - "[[_Standards/WikiData/WD~military_aircraft,216916]]"

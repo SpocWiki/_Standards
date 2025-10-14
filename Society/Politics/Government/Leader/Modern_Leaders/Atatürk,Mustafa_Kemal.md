@@ -121,7 +121,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%84%
 spouse: "[[_Standards/WikiData/WD~Latife_Uşaki,464994]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Mustafa_Kemal_Atatürk,25728043]]"
 Wolfram_Language_entity_code: Entity["Concept", "Ataturk::764k4"]
-work_location: "[[_Standards/WikiData/WD~Ankara,3640]]"
+work_locations: "[[_Standards/WikiData/WD~Ankara,3640]]"
 writing_language: "[[_Standards/WikiData/WD~Turkish,256]]"
 ---
 

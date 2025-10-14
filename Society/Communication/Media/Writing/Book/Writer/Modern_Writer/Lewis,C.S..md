@@ -102,7 +102,7 @@ residence:
   - "[[_Standards/WikiData/WD~Belfast,10686]]"
   - "[[_Standards/WikiData/WD~Oxford,34217]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~London,84]]"
+work_locations: "[[_Standards/WikiData/WD~London,84]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 place_of_death: "[[_Standards/WikiData/WD~Oxford,34217]]"
 Commons_category: C. S. Lewis

@@ -13,7 +13,7 @@ member_of:
   - "[[_Standards/WikiData/WD~Committee_on_Space_Research,1115753]]"
   - "[[_Standards/WikiData/WD~International_Council_for_Science,1162568]]"
   - "[[_Standards/WikiData/WD~International_Science_Council,57587699]]"
-headquarters_location: "[[_Standards/WikiData/WD~Weierstrass_Institute,2555215]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Weierstrass_Institute,2555215]]"
 board_member: "[[_Standards/WikiData/WD~Helge_Holden,3378092]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"

@@ -5,7 +5,7 @@ subclass_of: "[[_Standards/WikiData/WD~landing,844947]]"
 has_use: "[[_Standards/WikiData/WD~exploration_of_the_Moon,1064739]]"
 instance_of: "[[_Standards/WikiData/WD~occurrence,1190554]]"
 uses: "[[_Standards/WikiData/WD~lunar_lander,6703812]]"
-location: "[[_Standards/WikiData/WD~Moon,405]]"
+locations: "[[_Standards/WikiData/WD~Moon,405]]"
 OmegaWiki_Defined_Meaning: "1251971"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%2011.%20Television%20clip%20of%20Buzz%20descending%20the%20ladder%20and%20stepping%20onto%20the%20moon%2C%201094228.ogv
 ---

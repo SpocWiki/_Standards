@@ -26,7 +26,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
 general_secretary: "[[_Standards/WikiData/WD~Amy_E._Pope,123397878]]"
-location: "[[_Standards/WikiData/WD~International_Organisation_for_Migration_headquarters,123862286]]"
+locations: "[[_Standards/WikiData/WD~International_Organisation_for_Migration_headquarters,123862286]]"
 legal_form: "[[_Standards/WikiData/WD~International_organisation,129311612]]"
 replaces: "[[_Standards/WikiData/WD~Intergovernmental_committee_for_European_migration,131542065]]"
 official_language:
@@ -34,7 +34,7 @@ official_language:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~French,150]]"
 country: "[[_Standards/WikiData/WD~Switzerland,39]]"
-headquarters_location: "[[_Standards/WikiData/WD~Geneva,71]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Geneva,71]]"
 social_media_followers: 49000
 EU_Corporate_body_code: IOM
 Facebook_username: IOM

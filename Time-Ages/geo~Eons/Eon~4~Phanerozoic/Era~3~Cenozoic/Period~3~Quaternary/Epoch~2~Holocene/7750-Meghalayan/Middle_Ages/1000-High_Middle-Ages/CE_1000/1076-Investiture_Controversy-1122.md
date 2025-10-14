@@ -12,7 +12,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~dispute,12055674]]"
 part_of: "[[_Standards/WikiData/WD~Church_and_state_in_medieval_Europe,11499112]]"
 start_time: 1075-01-01T00:00:00Z
-location: "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
+locations: "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Omer%20et%20le%20Roi%20Dagobert.jpg
 Library_of_Congress_Classification: KBR4028-KBR4030
 end_time: 1124-01-01T00:00:00Z

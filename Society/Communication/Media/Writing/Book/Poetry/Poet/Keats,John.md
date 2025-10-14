@@ -64,7 +64,7 @@ languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
 medical_condition: "[[_Standards/WikiData/WD~tuberculosis,12204]]"
 cause_of_death: "[[_Standards/WikiData/WD~tuberculosis,12204]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~England,21]]"
+work_locations: "[[_Standards/WikiData/WD~England,21]]"
 place_of_death: "[[_Standards/WikiData/WD~Rome,220]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~irreligion,58721]]"
 Europeana_entity: agent/base/60105

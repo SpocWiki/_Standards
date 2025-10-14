@@ -13,7 +13,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 instance_of: "[[_Standards/WikiData/WD~religious_war,1827102]]"
 end_time: 1434-06-08T00:00:00Z
-location: "[[_Standards/WikiData/WD~Central_Europe,27509]]"
+locations: "[[_Standards/WikiData/WD~Central_Europe,27509]]"
 BHCL_UUID: 6662153f-b2f1-49c3-aa86-d4c522617e5b
 start_time: 1419-08-08T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hussitenkriege.tif

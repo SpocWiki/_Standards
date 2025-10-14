@@ -111,7 +111,7 @@ languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
 cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_location: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
+work_locations: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
 place_of_death: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
 P8189: "987007261432505171"
 Libris_URI: b8nrwdrv25s03m2

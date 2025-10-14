@@ -36,7 +36,7 @@ keywords: Middle_Ages
 layout:
 license: (c)copyrighted
 linkTitle: Middle_Ages
-location: "[[_Standards/WikiData/WD~Europe,46]]"
+locations: "[[_Standards/WikiData/WD~Europe,46]]"
 MeSH_tree_code: K01.400.500
 OmegaWiki_Defined_Meaning: 1757744
 OpenStreetMap_tag_or_key: Tag:historic:civilization=middle-ages

@@ -5,7 +5,7 @@ commissioned_by: "[[_Standards/WikiData/WD~Second_Spanish_Republic,178038]]"
 made_from_material:
   - "[[_Standards/WikiData/WD~oil_paint,296955]]"
   - "[[_Standards/WikiData/WD~canvas,12321255]]"
-location: "[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]"
+locations: "[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]"
 collection: "[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]"
 genre: "[[_Standards/WikiData/WD~history_painting,742333]]"
 instance_of: "[[_Standards/WikiData/WD~painting,3305213]]"

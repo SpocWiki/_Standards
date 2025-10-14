@@ -41,7 +41,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~major_religious_group,6957341]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Christianity,7112229]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Christianity,8586708]]"
-location: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+locations: "[[_Standards/WikiData/WD~worldwide,13780930]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828226,22828226]]"
 topic_s_main_category: "[[_Standards/WikiData/WD~Q33096581,33096581]]"
 founded_by:

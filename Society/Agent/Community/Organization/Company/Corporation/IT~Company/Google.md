@@ -345,7 +345,7 @@ has_id_wikidata: Q95
 has_works_in_the_collection:
   - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
   - "[[_Standards/WikiData/WD~Design_Museum_Den_Bosch,7605588]]"
-headquarters_location: "[[_Standards/WikiData/WD~Googleplex,694178]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Googleplex,694178]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Googleplex%20HQ%20%28cropped%29.jpg
 IMDb_keyword: reference-to-google
 inception: 1998-09-04T00:00:00Z

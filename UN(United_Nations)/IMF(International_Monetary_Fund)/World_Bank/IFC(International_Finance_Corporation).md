@@ -12,7 +12,7 @@ board_member: "[[_Standards/WikiData/WD~Robert_L._Garner,64013328]]"
 foundational_text: "[[_Standards/WikiData/WD~Articles_of_Agreement_of_the_International_Finance_Corporation,110559113]]"
 legal_form: "[[_Standards/WikiData/WD~Q130264125,130264125]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
 social_media_followers:
   - 38000
   - 252742

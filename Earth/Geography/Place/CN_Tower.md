@@ -24,7 +24,7 @@ made_from_material:
   - "[[_Standards/WikiData/WD~steel,11427]]"
   - "[[_Standards/WikiData/WD~concrete,22657]]"
 country: "[[_Standards/WikiData/WD~Canada,16]]"
-location: "[[_Standards/WikiData/WD~Toronto,172]]"
+locations: "[[_Standards/WikiData/WD~Toronto,172]]"
 floors_above_ground: 8
 number_of_elevators: 9
 visitors_per_year: 1500000

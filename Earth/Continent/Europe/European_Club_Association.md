@@ -9,7 +9,7 @@ topic_s_main_category:
   - "[[_Standards/WikiData/WD~Q32521626,32521626]]"
   - "[[_Standards/WikiData/WD~Q106855239,106855239]]"
 sport: "[[_Standards/WikiData/WD~association_football,2736]]"
-headquarters_location: "[[_Standards/WikiData/WD~Nyon,64027]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Nyon,64027]]"
 inception: 2008-01-01T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/ECA%20logo.svg
 official_website: https://www.ecaeurope.com/

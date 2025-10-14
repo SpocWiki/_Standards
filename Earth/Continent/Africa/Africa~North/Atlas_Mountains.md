@@ -16,7 +16,7 @@ country:
   - "[[_Standards/WikiData/WD~Algeria,262]]"
   - "[[_Standards/WikiData/WD~Tunisia,948]]"
   - "[[_Standards/WikiData/WD~Morocco,1028]]"
-location: "[[_Standards/WikiData/WD~North_Africa,27381]]"
+locations: "[[_Standards/WikiData/WD~North_Africa,27381]]"
 continent: "[[_Standards/WikiData/WD~Africa,15]]"
 width: 300
 length: 2550

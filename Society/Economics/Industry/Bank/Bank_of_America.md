@@ -77,7 +77,7 @@ member_of:
 domain_name: bankofamerica.com
 award_received: "[[_Standards/WikiData/WD~The_Center's_Honorarium_Honorees,118919758]]"
 stock_exchange: "[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]"
-headquarters_location: "[[_Standards/WikiData/WD~Charlotte,16565]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Charlotte,16565]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 location_of_formation: "[[_Standards/WikiData/WD~San_Francisco,62]]"
 social_media_followers:

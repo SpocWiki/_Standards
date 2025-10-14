@@ -15,7 +15,7 @@ described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]"
 official_language: "[[_Standards/WikiData/WD~English,1860]]"
 field_of_work: "[[_Standards/WikiData/WD~chemistry,2329]]"
-headquarters_location: "[[_Standards/WikiData/WD~Zurich,72]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Zurich,72]]"
 social_media_followers: 22972
 GitHub_username: IUPAC
 Commons_category: IUPAC

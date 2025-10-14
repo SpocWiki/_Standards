@@ -88,7 +88,7 @@ inception:
 net_profit: -8524000000
 operating_income: -4587000000
 stock_exchange: "[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]"
-headquarters_location: "[[_Standards/WikiData/WD~Dallas,16557]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Dallas,16557]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 founded_by: "[[_Standards/WikiData/WD~Alexander_Graham_Bell,34286]]"
 autonomous_system_number:

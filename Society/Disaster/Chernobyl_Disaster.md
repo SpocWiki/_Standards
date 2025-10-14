@@ -11,7 +11,7 @@ present_in_work:
   - "[[_Standards/WikiData/WD~Voices_from_Chernobyl,23793868]]"
   - "[[_Standards/WikiData/WD~Chernobyl_Abyss,65154504]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kyiv_Oblast,170036]]"
-location: "[[_Standards/WikiData/WD~Chernobyl_Nuclear_Power_Plant,215419]]"
+locations: "[[_Standards/WikiData/WD~Chernobyl_Nuclear_Power_Plant,215419]]"
 instance_of:
   - "[[_Standards/WikiData/WD~environmental_disaster,3193890]]"
   - "[[_Standards/WikiData/WD~nuclear_disaster,15725976]]"

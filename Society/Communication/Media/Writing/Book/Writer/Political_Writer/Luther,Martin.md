@@ -152,7 +152,7 @@ student:
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/48067
 U_S_National_Archives_Identifier: 178419658
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Luther::76ds9\"]"
-work_location: "[[_Standards/WikiData/WD~St._Augustine's_Monastery,420158]]"
+work_locations: "[[_Standards/WikiData/WD~St._Augustine's_Monastery,420158]]"
 writing_language:
 - '[[_Standards/WikiData/WD~Latin,397]]'
 - '[[_Standards/WikiData/WD~German,188]]'

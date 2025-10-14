@@ -17,7 +17,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~secret_treaty,1498487]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 has_edition_or_translation: "[[_Standards/WikiData/WD~Secret_Additional_Protocol_to_the_Molotov_Ribbentrop_Pact,4413308]]"
-location: "[[_Standards/WikiData/WD~Moscow,649]]"
+locations: "[[_Standards/WikiData/WD~Moscow,649]]"
 participant:
   - "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
   - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"

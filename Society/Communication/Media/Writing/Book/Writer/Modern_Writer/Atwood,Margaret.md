@@ -166,7 +166,7 @@ writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 place_of_birth: "[[_Standards/WikiData/WD~Ottawa,1930]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Canada,16]]"
-work_location: "[[_Standards/WikiData/WD~Toronto,172]]"
+work_locations: "[[_Standards/WikiData/WD~Toronto,172]]"
 Europeana_entity: agent/base/60597
 Wolfram_Language_entity_code: Entity["Person", "MargaretAtwood::kn796"]
 Libris_URI: gdsvpcf00jwsqwl

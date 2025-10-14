@@ -186,7 +186,7 @@ board_member:
 owned_by:
   - "[[_Standards/WikiData/WD~BlackRock,219635]]"
   - "[[_Standards/WikiData/WD~The_Vanguard_Group,849363]]"
-headquarters_location: "[[_Standards/WikiData/WD~Redmond,223718]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Redmond,223718]]"
 industry:
   - "[[_Standards/WikiData/WD~software_development,638608]]"
   - "[[_Standards/WikiData/WD~software_industry,880371]]"
@@ -218,7 +218,7 @@ permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828824,22828824]]"
 partnership_with: "[[_Standards/WikiData/WD~ID2020,30689090]]"
 external_auditor: "[[_Standards/WikiData/WD~Deloitte_&_Touche_LLP,75746293]]"
 legal_form: "[[_Standards/WikiData/WD~Washington_corporation,98927546]]"
-work_location: "[[_Standards/WikiData/WD~Microsoft_Silicon_Valley_Campus,109926363]]"
+work_locations: "[[_Standards/WikiData/WD~Microsoft_Silicon_Valley_Campus,109926363]]"
 award_received: "[[_Standards/WikiData/WD~BigBrotherAwards,110530811]]"
 affiliated_worker_organisation: "[[_Standards/WikiData/WD~Microsoft_worker_organizations,113012912]]"
 different_from: "[[_Standards/WikiData/WD~Microsoft,124993733]]"

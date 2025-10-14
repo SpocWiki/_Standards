@@ -19,7 +19,7 @@ followed_by: "[[_Standards/WikiData/WD~surface_water,752112]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~raw_water,832131]]"
   - "[[_Standards/WikiData/WD~land_waters,863944]]"
-location: "[[_Standards/WikiData/WD~subterranea,863404]]"
+locations: "[[_Standards/WikiData/WD~subterranea,863404]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"

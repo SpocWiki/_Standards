@@ -5,7 +5,7 @@ aliases:
   - European early modern human
 has_id_wikidata: Q179234
 named_after: "[[_Standards/WikiData/WD~Cro_Magnon_site,331409]]"
-location: "[[_Standards/WikiData/WD~Les_Eyzies_de_Tayac_Sireuil,426834]]"
+locations: "[[_Standards/WikiData/WD~Les_Eyzies_de_Tayac_Sireuil,426834]]"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Louis_Lartet,946158]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"

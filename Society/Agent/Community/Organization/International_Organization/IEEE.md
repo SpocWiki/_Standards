@@ -100,7 +100,7 @@ total_revenue:
   - 524795853
   - 566430458
 language_used: "[[_Standards/WikiData/WD~English,1860]]"
-headquarters_location: "[[_Standards/WikiData/WD~Manhattan,11299]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Manhattan,11299]]"
 affiliation: "[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 employees: 1000

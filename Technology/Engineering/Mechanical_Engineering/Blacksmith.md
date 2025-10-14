@@ -41,7 +41,7 @@ described_by_source:
 on_focus_list_of_Wikimedia_project:
   - "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
   - "[[_Standards/WikiData/WD~NADD_occupations,133270020]]"
-location: "[[_Standards/WikiData/WD~smithy,40558]]"
+locations: "[[_Standards/WikiData/WD~smithy,40558]]"
 Dewey_Decimal_Classification: "682"
 SBFI_occupation_code: "44032"
 NOC_Occupation_Code: "7384"

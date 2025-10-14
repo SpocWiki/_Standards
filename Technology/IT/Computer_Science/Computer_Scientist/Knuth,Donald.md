@@ -86,7 +86,7 @@ employer:
   - "[[_Standards/WikiData/WD~Burroughs_Corporation,256593]]"
   - "[[_Standards/WikiData/WD~Institute_for_Defense_Analyses,1665138]]"
   - "[[_Standards/WikiData/WD~Stanford_University,41506]]"
-work_location: "[[_Standards/WikiData/WD~Stanford,173813]]"
+work_locations: "[[_Standards/WikiData/WD~Stanford,173813]]"
 medical_condition: "[[_Standards/WikiData/WD~prostate_cancer,181257]]"
 award_received:
   - "[[_Standards/WikiData/WD~Turing_Award,185667]]"

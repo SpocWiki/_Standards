@@ -10,7 +10,7 @@ instance_of:
 opposite_of: "[[_Standards/WikiData/WD~European_disintegration,20851159]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_European_integration,27915419]]"
 studied_by: "[[_Standards/WikiData/WD~European_integration_studies,108371114]]"
-location: "[[_Standards/WikiData/WD~Europe,46]]"
+locations: "[[_Standards/WikiData/WD~Europe,46]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/European%20Spaces%20Map.svg
 ---
 

@@ -25,7 +25,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~Portugal,45]]"
   - "[[_Standards/WikiData/WD~Brazil,155]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Community_of_Portuguese_Language_Countries,7645892]]"
-headquarters_location: "[[_Standards/WikiData/WD~Penafiel_Palace,25445164]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Penafiel_Palace,25445164]]"
 interested_in: "[[_Standards/WikiData/WD~Portuguese,5146]]"
 official_language: "[[_Standards/WikiData/WD~Portuguese,5146]]"
 member_count: 9

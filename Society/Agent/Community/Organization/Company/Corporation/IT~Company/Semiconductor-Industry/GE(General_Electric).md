@@ -108,7 +108,7 @@ award_received: "[[_Standards/WikiData/WD~Silver_Anvil_Award,92429087]]"
 legal_form: "[[_Standards/WikiData/WD~New_York_Business_Corporation,108103696]]"
 inception: 1892-04-15T00:00:00Z
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~Boston,100]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Boston,100]]"
 social_media_followers: 100000
 employees: 174000
 net_profit: 225000000

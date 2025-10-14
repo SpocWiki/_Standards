@@ -58,7 +58,7 @@ product_or_material_produced:
   - "[[_Standards/WikiData/WD~car,1420]]"
   - "[[_Standards/WikiData/WD~truck,43193]]"
 location_of_formation: "[[_Standards/WikiData/WD~Seoul,8684]]"
-headquarters_location: "[[_Standards/WikiData/WD~Seoul,8684]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Seoul,8684]]"
 different_from: "[[_Standards/WikiData/WD~Hyundai,29311]]"
 parent_organization:
   - "[[_Standards/WikiData/WD~Hyundai,29311]]"

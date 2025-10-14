@@ -51,7 +51,7 @@ legal_form: "[[_Standards/WikiData/WD~Delaware_corporation,88537331]]"
 award_received: "[[_Standards/WikiData/WD~Silver_Anvil_Award,92429087]]"
 external_auditor: "[[_Standards/WikiData/WD~Ernst_&_Young_LLP,98525448]]"
 total_equity: -7824900000
-headquarters_location: "[[_Standards/WikiData/WD~Chicago,1297]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Chicago,1297]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 employees: 200000
 social_media_followers:

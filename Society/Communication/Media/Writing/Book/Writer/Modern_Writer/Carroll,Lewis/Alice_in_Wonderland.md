@@ -61,7 +61,7 @@ genre:
   - "[[_Standards/WikiData/WD~children's_fiction,56451354]]"
   - "[[_Standards/WikiData/WD~fairy_tale,699]]"
 award_received: "[[_Standards/WikiData/WD~Kate_Greenaway_Medal,1472266]]"
-narrative_location: "[[_Standards/WikiData/WD~Wonderland,3402263]]"
+narrative_locations: "[[_Standards/WikiData/WD~Wonderland,3402263]]"
 instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
 has_edition_or_translation:
   - "[[_Standards/WikiData/WD~Alice's_Adventures_Under_Ground,9020589]]"

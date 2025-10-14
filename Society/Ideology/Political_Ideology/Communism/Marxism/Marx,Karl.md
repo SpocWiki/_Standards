@@ -158,7 +158,7 @@ U_S_National_Archives_Identifier:
   - 10580373
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Ikusgela%20-%20Karl%20Marx.webm
 Wolfram_Language_entity_code: Entity["Concept", "KarlMarx::882q5"]
-work_location: "[[_Standards/WikiData/WD~Cologne,365]]"
+work_locations: "[[_Standards/WikiData/WD~Cologne,365]]"
 writing_language: "[[_Standards/WikiData/WD~German,188]]"
 ---
 

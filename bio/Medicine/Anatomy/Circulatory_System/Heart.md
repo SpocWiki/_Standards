@@ -23,7 +23,7 @@ different_from:
   - "[[_Standards/WikiData/WD~human_heart,2419844]]"
   - "[[_Standards/WikiData/WD~heart,118112763]]"
 produced_sound: "[[_Standards/WikiData/WD~heart_sound,967103]]"
-anatomical_location: "[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]"
+anatomical_locations: "[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]"
 innervated_by: "[[_Standards/WikiData/WD~cardiac_plexus,5038337]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Heart_anatomy,6418161]]"
 development_of_anatomical_structure: "[[_Standards/WikiData/WD~heart_development,14819288]]"

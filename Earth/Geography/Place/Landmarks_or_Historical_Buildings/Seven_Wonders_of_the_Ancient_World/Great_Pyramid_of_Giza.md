@@ -2,7 +2,7 @@
 aliases:
   - Great Pyramid of Giza
 has_id_wikidata: Q37200
-location: "[[_Standards/WikiData/WD~Giza,81788]]"
+locations: "[[_Standards/WikiData/WD~Giza,81788]]"
 commissioned_by: "[[_Standards/WikiData/WD~Khufu,161904]]"
 instance_of:
   - "[[_Standards/WikiData/WD~Egyptian_pyramids,175582]]"

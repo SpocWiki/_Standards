@@ -81,7 +81,7 @@ instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Italy,38]]"
 place_of_death: "[[_Standards/WikiData/WD~Rome,220]]"
 place_of_birth: "[[_Standards/WikiData/WD~Rome,220]]"
-work_location: "[[_Standards/WikiData/WD~Rome,220]]"
+work_locations: "[[_Standards/WikiData/WD~Rome,220]]"
 residence: "[[_Standards/WikiData/WD~Rome,220]]"
 number_of_children: 4
 social_media_followers: 26207

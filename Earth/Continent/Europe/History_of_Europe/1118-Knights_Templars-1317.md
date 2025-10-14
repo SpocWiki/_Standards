@@ -8,7 +8,7 @@ motto_text: Non nobis Domine, non nobis, sed nomini tuo da gloriam
 official_name: Pauperes commilitones Christi Templique Salomonici Hierosolymitanis
 country: "[[_Standards/WikiData/WD~Papal_States,170174]]"
 patron_saint: "[[_Standards/WikiData/WD~Bernard_of_Clairvaux,188411]]"
-headquarters_location: "[[_Standards/WikiData/WD~Temple_Mount,193163]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Temple_Mount,193163]]"
 named_after: "[[_Standards/WikiData/WD~Temple_Mount,193163]]"
 location:
   - "[[_Standards/WikiData/WD~Temple_Mount,193163]]"

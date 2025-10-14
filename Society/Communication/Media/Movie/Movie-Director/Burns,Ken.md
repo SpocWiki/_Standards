@@ -52,7 +52,7 @@ native_language: "[[_Standards/WikiData/WD~English,1860]]"
 place_of_birth: "[[_Standards/WikiData/WD~Brooklyn,18419]]"
 member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~United_States,30]]"
+work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
 number_of_children: 2
 Commons_category: Ken Burns

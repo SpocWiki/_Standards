@@ -8,7 +8,7 @@ made_from_material:
   - "[[_Standards/WikiData/WD~Indiana_limestone,6023318]]"
   - "[[_Standards/WikiData/WD~Sylacauga_marble,7660541]]"
   - "[[_Standards/WikiData/WD~Tennessee_marble,7700258]]"
-location: "[[_Standards/WikiData/WD~West_Potomac_Park,285616]]"
+locations: "[[_Standards/WikiData/WD~West_Potomac_Park,285616]]"
 operator: "[[_Standards/WikiData/WD~National_Park_Service,308439]]"
 instance_of:
   - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"

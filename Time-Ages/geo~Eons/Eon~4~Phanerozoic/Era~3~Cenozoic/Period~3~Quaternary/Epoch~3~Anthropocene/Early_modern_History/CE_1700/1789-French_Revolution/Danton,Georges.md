@@ -41,7 +41,7 @@ family_name: "[[_Standards/WikiData/WD~Danton,29033242]]"
 documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 date_of_birth: 1759-10-26T00:00:00Z
-work_location: "[[_Standards/WikiData/WD~Colombia,739]]"
+work_locations: "[[_Standards/WikiData/WD~Colombia,739]]"
 manner_of_death: "[[_Standards/WikiData/WD~capital_punishment,8454]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"

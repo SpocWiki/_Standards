@@ -55,7 +55,7 @@ date_of_birth: 1841-01-28T00:00:00Z
 writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~London,84]]"
+work_locations: "[[_Standards/WikiData/WD~London,84]]"
 Commons_Creator_page: Henry Morton Stanley
 Commons_gallery: Henry Morton Stanley
 Commons_category: Henry Morton Stanley

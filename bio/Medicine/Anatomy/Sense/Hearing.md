@@ -26,7 +26,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
   - "[[_Standards/WikiData/WD~Hearing,133280495]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125]]"
-anatomical_location: "[[_Standards/WikiData/WD~ear,7362]]"
+anatomical_locations: "[[_Standards/WikiData/WD~ear,7362]]"
 has_part_s_: "[[_Standards/WikiData/WD~sound,11461]]"
 OmegaWiki_Defined_Meaning: "1745"
 PhilPapers_topic: hearing

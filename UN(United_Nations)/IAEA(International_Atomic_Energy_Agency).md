@@ -44,7 +44,7 @@ official_language:
   - "[[_Standards/WikiData/WD~Chinese,7850]]"
   - "[[_Standards/WikiData/WD~Arabic,13955]]"
   - "[[_Standards/WikiData/WD~French,150]]"
-headquarters_location: "[[_Standards/WikiData/WD~Vienna,1741]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Vienna,1741]]"
 writing_system: "[[_Standards/WikiData/WD~Cyrillic_script,8209]]"
 country: "[[_Standards/WikiData/WD~Austria,40]]"
 employees: 2500

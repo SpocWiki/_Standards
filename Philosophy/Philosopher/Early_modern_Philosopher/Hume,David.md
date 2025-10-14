@@ -78,7 +78,7 @@ religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
 place_of_death: "[[_Standards/WikiData/WD~Edinburgh,23436]]"
 place_of_birth: "[[_Standards/WikiData/WD~Edinburgh,23436]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Scotland,22]]"
+work_locations: "[[_Standards/WikiData/WD~Scotland,22]]"
 Library_of_Congress_Classification: B1450-B1499
 Europeana_entity: agent/base/190
 Regensburg_Classification: BF 3995

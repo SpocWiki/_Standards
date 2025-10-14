@@ -37,7 +37,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~organ_type,103812529]]"
   - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Clitoris,109334868]]"
-anatomical_location: "[[_Standards/WikiData/WD~vagina,5880]]"
+anatomical_locations: "[[_Standards/WikiData/WD~vagina,5880]]"
 sexually_homologous_with: "[[_Standards/WikiData/WD~penis,58]]"
 OmegaWiki_Defined_Meaning: "7688"
 IMDb_keyword: clitoris

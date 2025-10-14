@@ -108,7 +108,7 @@ father: "[[_Standards/WikiData/WD~Anthonis_van_Aken,2074329]]"
 sibling: "[[_Standards/WikiData/WD~Goessen_van_Aken,2729233]]"
 place_of_death: "[[_Standards/WikiData/WD~'s_Hertogenbosch,2766547]]"
 place_of_birth: "[[_Standards/WikiData/WD~'s_Hertogenbosch,2766547]]"
-work_location: "[[_Standards/WikiData/WD~'s_Hertogenbosch,2766547]]"
+work_locations: "[[_Standards/WikiData/WD~'s_Hertogenbosch,2766547]]"
 place_of_burial: "[[_Standards/WikiData/WD~'s_Hertogenbosch,2766547]]"
 artist_files_at:
   - "[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]"

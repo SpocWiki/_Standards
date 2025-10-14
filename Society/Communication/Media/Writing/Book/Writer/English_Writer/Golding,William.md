@@ -62,7 +62,7 @@ sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
 short_name: William Golding
 spouse: "[[_Standards/WikiData/WD~Ann_Brookfield,108667516]]"
 Wolfram_Language_entity_code: Entity["Person", "WilliamGolding::3247f"]
-work_location: "[[_Standards/WikiData/WD~Salisbury,160642]]"
+work_locations: "[[_Standards/WikiData/WD~Salisbury,160642]]"
 work_period_start_: 1934-01-01T00:00:00Z
 ---
 

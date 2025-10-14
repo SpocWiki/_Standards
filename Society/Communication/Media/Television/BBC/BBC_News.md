@@ -5,7 +5,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~television_station,1616075]]"
 replaces: "[[_Standards/WikiData/WD~BBC_World_Service_Television,639275]]"
 original_broadcaster: "[[_Standards/WikiData/WD~BBC_News,1160945]]"
-headquarters_location: "[[_Standards/WikiData/WD~Broadcasting_House,2914560]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Broadcasting_House,2914560]]"
 operating_area:
   - "[[_Standards/WikiData/WD~Australia,408]]"
   - "[[_Standards/WikiData/WD~New_Zealand,664]]"

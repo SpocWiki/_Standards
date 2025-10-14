@@ -95,7 +95,7 @@ on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikiproject_Oorlog
 partnership_with: "[[_Standards/WikiData/WD~IONNA,124528707]]"
 product_or_material_produced: "[[_Standards/WikiData/WD~car,1420]]"
 location_of_formation: "[[_Standards/WikiData/WD~Detroit,12439]]"
-headquarters_location: "[[_Standards/WikiData/WD~Detroit,12439]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Detroit,12439]]"
 stock_exchange: "[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"

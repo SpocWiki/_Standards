@@ -22,7 +22,7 @@ official_language:
   - "[[_Standards/WikiData/WD~French,150]]"
 partnership_with: "[[_Standards/WikiData/WD~UNESCO,7809]]"
 social_media_followers: 10000
-headquarters_location: "[[_Standards/WikiData/WD~Rome,220]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Rome,220]]"
 inception: 1959-01-01T00:00:00Z
 short_name: CMAS
 official_website: http://www.cmas.org/

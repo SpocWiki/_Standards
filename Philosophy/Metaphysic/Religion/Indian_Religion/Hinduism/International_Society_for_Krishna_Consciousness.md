@@ -17,7 +17,7 @@ religion_or_worldview: "[[_Standards/WikiData/WD~Gaudiya_Vaishnavism,1144575]]"
 owner_of:
   - "[[_Standards/WikiData/WD~Hare_Krishna_Food_for_Life,2025654]]"
   - "[[_Standards/WikiData/WD~Bhaktivedanta_Book_Trust,2477033]]"
-headquarters_location: "[[_Standards/WikiData/WD~Mayapur,2606609]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Mayapur,2606609]]"
 maintained_by: "[[_Standards/WikiData/WD~Governing_Body_Commission,4399981]]"
 has_list: "[[_Standards/WikiData/WD~list_of_International_Society_for_Krishna_Consciousness_members_and_patrons,6574329]]"
 operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"

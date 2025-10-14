@@ -21,7 +21,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
   - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
 has_time_started: 1945-12-27
-headquarters_location: "[[_Standards/WikiData/WD~World_Bank_Headquarters,105153707]]"
+headquarters_locations: "[[_Standards/WikiData/WD~World_Bank_Headquarters,105153707]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20Bank%20building%20at%20Washington.jpg
 inception: 1945-12-27
 industry: "[[_Standards/WikiData/WD~development_aid,865909]]"

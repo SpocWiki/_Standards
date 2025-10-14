@@ -35,7 +35,7 @@ historic_county: "[[_Standards/WikiData/WD~Kent,67479626]]"
 type_of_electrification: "[[_Standards/WikiData/WD~25_kV,_50_Hz_AC_railway_electrification,106530439]]"
 coordinate_location: Point(1.45 51.01667)
 continent: "[[_Standards/WikiData/WD~Europe,46]]"
-headquarters_location: "[[_Standards/WikiData/WD~London,84]]"
+headquarters_locations: "[[_Standards/WikiData/WD~London,84]]"
 country:
   - "[[_Standards/WikiData/WD~France,142]]"
   - "[[_Standards/WikiData/WD~United_Kingdom,145]]"

@@ -23,7 +23,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 instance_of: "[[_Standards/WikiData/WD~military_alliance,1127126]]"
-location: "[[_Standards/WikiData/WD~Paris,90]]"
+locations: "[[_Standards/WikiData/WD~Paris,90]]"
 Library_of_Congress_Classification: KZ1358-KZ1358.3
 BHCL_UUID: 6e56e916-9e63-4988-8fbb-927b7a309dd7
 start_time: 1815-09-26T00:00:00Z

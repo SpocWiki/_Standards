@@ -25,7 +25,7 @@ intangible_cultural_heritage_status:
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
 inception: 1837-01-01T00:00:00Z
 time_of_discovery_or_invention: 1836-01-01T00:00:00Z
-location: "[[_Standards/WikiData/WD~Earth,2]]"
+locations: "[[_Standards/WikiData/WD~Earth,2]]"
 country: "[[_Standards/WikiData/WD~Belgium,31]]"
 location_of_creation: "[[_Standards/WikiData/WD~Boston,100]]"
 described_at_URL: https://immaterieelerfgoed.be/nl/erfgoederen/Morsecode

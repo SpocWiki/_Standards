@@ -23,7 +23,7 @@ described_by_source:
 different_from:
   - "[[_Standards/WikiData/WD~Chair,1240091]]"
   - "[[_Standards/WikiData/WD~Chaise,2947697]]"
-location: "[[_Standards/WikiData/WD~interior_space,1299240]]"
+locations: "[[_Standards/WikiData/WD~interior_space,1299240]]"
 has_part_s_: "[[_Standards/WikiData/WD~furniture_leg,56056049]]"
 present_in_work: "[[_Standards/WikiData/WD~Do_Chairs_Exist_,108562180]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"

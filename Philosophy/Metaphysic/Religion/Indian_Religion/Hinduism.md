@@ -57,7 +57,7 @@ topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Hinduism,8587787
 different_from: "[[_Standards/WikiData/WD~Indian_loanwords,9387022]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Hinduism,10858467]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q11751078,11751078]]"
-location: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+locations: "[[_Standards/WikiData/WD~worldwide,13780930]]"
 followed_by:
   - "[[_Standards/WikiData/WD~Buddhism,748]]"
   - "[[_Standards/WikiData/WD~Jainism,9232]]"

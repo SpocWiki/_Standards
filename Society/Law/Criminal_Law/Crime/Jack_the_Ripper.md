@@ -22,7 +22,7 @@ said_to_be_the_same_as:
   - "[[_Standards/WikiData/WD~Sir_John_Williams,_1st_Baronet,_of_the_City_of_London,7528143]]"
   - "[[_Standards/WikiData/WD~Joseph_Silver,11730837]]"
   - "[[_Standards/WikiData/WD~Lewis_Carroll,38082]]"
-work_location: "[[_Standards/WikiData/WD~Whitechapel,124539]]"
+work_locations: "[[_Standards/WikiData/WD~Whitechapel,124539]]"
 occupation: "[[_Standards/WikiData/WD~serial_killer,484188]]"
 described_by_source: "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
 sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"

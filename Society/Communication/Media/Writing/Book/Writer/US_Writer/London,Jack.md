@@ -94,7 +94,7 @@ date_of_birth: 1876-01-12T00:00:00Z
 writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-work_location: "[[_Standards/WikiData/WD~Sonoma,11592]]"
+work_locations: "[[_Standards/WikiData/WD~Sonoma,11592]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
 place_of_birth: "[[_Standards/WikiData/WD~San_Francisco,62]]"

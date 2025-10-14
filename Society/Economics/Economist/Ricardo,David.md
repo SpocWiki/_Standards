@@ -72,7 +72,7 @@ residence: "[[_Standards/WikiData/WD~Gatcombe_Park,1405039]]"
 sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
 sibling: "[[_Standards/WikiData/WD~Jacob_Ricardo,30156248]]"
 spouse: "[[_Standards/WikiData/WD~Priscilla_Ann_Wilkinson,47283898]]"
-work_location: "[[_Standards/WikiData/WD~London,84]]"
+work_locations: "[[_Standards/WikiData/WD~London,84]]"
 writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 ---
 

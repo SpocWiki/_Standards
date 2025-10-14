@@ -23,7 +23,7 @@ has_place_province::
 has_place_country:: [[Finland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

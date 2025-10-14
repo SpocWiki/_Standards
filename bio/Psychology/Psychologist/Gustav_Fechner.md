@@ -52,7 +52,7 @@ award_received: "[[_Standards/WikiData/WD~honorary_citizen_of_Leipzig,66827491]]
 doctoral_student: "[[_Standards/WikiData/WD~Kohn,102402660]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
 date_of_death: 1887-11-18T00:00:00Z
-work_location: "[[_Standards/WikiData/WD~Leipzig,2079]]"
+work_locations: "[[_Standards/WikiData/WD~Leipzig,2079]]"
 place_of_death: "[[_Standards/WikiData/WD~Leipzig,2079]]"
 influenced_by: "[[_Standards/WikiData/WD~Immanuel_Kant,9312]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"

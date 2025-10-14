@@ -24,7 +24,7 @@ permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828737,22828737]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~subdivision_of_face,66544250]]"
   - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
-anatomical_location: "[[_Standards/WikiData/WD~head,23640]]"
+anatomical_locations: "[[_Standards/WikiData/WD~head,23640]]"
 part_of: "[[_Standards/WikiData/WD~head,23640]]"
 TA98_Latin_term: os
 OmegaWiki_Defined_Meaning: "5470"

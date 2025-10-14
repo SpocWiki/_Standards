@@ -2,7 +2,7 @@
 aliases:
   - Great Bengal famine of 1770
 has_id_wikidata: Q2477522
-location: "[[_Standards/WikiData/WD~Bengal,80338]]"
+locations: "[[_Standards/WikiData/WD~Bengal,80338]]"
 instance_of: "[[_Standards/WikiData/WD~famine,168247]]"
 number_of_deaths:
   - 10000000

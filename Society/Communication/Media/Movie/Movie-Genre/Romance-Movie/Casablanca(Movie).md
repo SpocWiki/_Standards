@@ -115,10 +115,10 @@ described_by_source: "[[_Standards/WikiData/WD~AWFJ_s_Top_100_Films_List,9541577
 film_crew_member: "[[_Standards/WikiData/WD~Hugh_McMullen,95788923]]"
 main_subject: "[[_Standards/WikiData/WD~fleeting_relationship,96280219]]"
 original_language_of_film_or_TV_show: "[[_Standards/WikiData/WD~English,1860]]"
-narrative_location: "[[_Standards/WikiData/WD~Casablanca,7903]]"
+narrative_locations: "[[_Standards/WikiData/WD~Casablanca,7903]]"
 instance_of: "[[_Standards/WikiData/WD~film,11424]]"
 country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-filming_location: "[[_Standards/WikiData/WD~California,99]]"
+filming_locations: "[[_Standards/WikiData/WD~California,99]]"
 capital_cost: 950000
 duration: 102
 director: "[[_Standards/WikiData/WD~Michael_Curtiz,51491]]"

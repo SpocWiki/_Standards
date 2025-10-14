@@ -79,7 +79,7 @@ languages_spoken_written_or_signed:
 place_of_detention:
   - "[[_Standards/WikiData/WD~Venice,641]]"
   - "[[_Standards/WikiData/WD~Rome,220]]"
-work_location: "[[_Standards/WikiData/WD~Lutherstadt_Wittenberg,6837]]"
+work_locations: "[[_Standards/WikiData/WD~Lutherstadt_Wittenberg,6837]]"
 manner_of_death: "[[_Standards/WikiData/WD~capital_punishment,8454]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
 significant_event: "[[_Standards/WikiData/WD~Index_Librorum_Prohibitorum,22765]]"

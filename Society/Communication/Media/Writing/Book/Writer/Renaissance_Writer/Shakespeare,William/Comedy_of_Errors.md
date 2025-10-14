@@ -30,7 +30,7 @@ author: "[[_Standards/WikiData/WD~William_Shakespeare,692]]"
 language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
 copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
 form_of_creative_work: "[[_Standards/WikiData/WD~play,25379]]"
-narrative_location: "[[_Standards/WikiData/WD~Greece,41]]"
+narrative_locations: "[[_Standards/WikiData/WD~Greece,41]]"
 title: The Comedy of Errors
 Commons_category: The Comedy of Errors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FirstFolioComedy.jpg

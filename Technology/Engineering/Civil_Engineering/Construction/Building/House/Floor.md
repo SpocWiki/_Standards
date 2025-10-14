@@ -21,7 +21,7 @@ connects_with:
   - "[[_Standards/WikiData/WD~baseboard,1630557]]"
   - "[[_Standards/WikiData/WD~built_in_furniture,115732280]]"
 instance_of: "[[_Standards/WikiData/WD~use,1724915]]"
-location: "[[_Standards/WikiData/WD~bottom,11812678]]"
+locations: "[[_Standards/WikiData/WD~bottom,11812678]]"
 subclass_of: "[[_Standards/WikiData/WD~floor_or_paver,125225990]]"
 part_of:
   - "[[_Standards/WikiData/WD~house,3947]]"

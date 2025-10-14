@@ -116,7 +116,7 @@ instance_of: "[[_Standards/WikiData/WD~film,11424]]"
 country_of_origin:
   - "[[_Standards/WikiData/WD~United_States,30]]"
   - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-narrative_location: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
+narrative_locations: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
 capital_cost: 15000000
 box_office: 46000000
 duration: 117

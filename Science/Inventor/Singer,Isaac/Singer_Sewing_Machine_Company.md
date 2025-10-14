@@ -29,7 +29,7 @@ on_focus_list_of_Wikimedia_project:
   - "[[_Standards/WikiData/WD~Wikiproject_Oorlogsbronnen,118404701]]"
   - "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
 inception: 1851-01-01T00:00:00Z
-location: "[[_Standards/WikiData/WD~New_York,1384]]"
+locations: "[[_Standards/WikiData/WD~New_York,1384]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 product_or_material_produced: "[[_Standards/WikiData/WD~sewing_machine,49013]]"
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Singer%202007Trans.jpg

@@ -71,7 +71,7 @@ has_effect:
   - "[[_Standards/WikiData/WD~Border_Kingdom_of_Saxony_Kingdom_of_Prussia_1815,54859684]]"
   - "[[_Standards/WikiData/WD~borderstones_Belgium_Prussia,59268184]]"
 coordinate_location: Point(16.363805555 48.2085)
-location: "[[_Standards/WikiData/WD~Vienna,1741]]"
+locations: "[[_Standards/WikiData/WD~Vienna,1741]]"
 country: "[[_Standards/WikiData/WD~Austria,40]]"
 BHCL_UUID:
   - f0b0dace-a391-46d8-a8de-5d19338ca16a

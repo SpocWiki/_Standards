@@ -98,7 +98,7 @@ part_of: "[[_Standards/WikiData/WD~Catholicism,1841]]"
 religion_or_worldview:
   - "[[_Standards/WikiData/WD~Christianity,5043]]"
 position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~pope,19546]]"
-headquarters_location: "[[_Standards/WikiData/WD~Vatican_City,237]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Vatican_City,237]]"
 country: "[[_Standards/WikiData/WD~Vatican_City,237]]"
 member_count: 1272000000
 Dewey_Decimal_Classification: "282"

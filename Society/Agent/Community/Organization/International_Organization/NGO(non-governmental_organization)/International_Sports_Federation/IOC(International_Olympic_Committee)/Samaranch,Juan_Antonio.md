@@ -123,7 +123,7 @@ place_of_birth: "[[_Standards/WikiData/WD~Barcelona,1492]]"
 religion_or_worldview:
   - "[[_Standards/WikiData/WD~Catholicism,1841]]"
   - "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-work_location: "[[_Standards/WikiData/WD~Madrid,2807]]"
+work_locations: "[[_Standards/WikiData/WD~Madrid,2807]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Spain,29]]"
 Commons_category: Juan Antonio Samaranch

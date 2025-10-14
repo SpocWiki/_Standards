@@ -82,7 +82,7 @@ place_of_burial:
 student: "[[_Standards/WikiData/WD~Johann_Peter_Gustav_Lejeune_Dirichlet,29193]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
-work_location: "[[_Standards/WikiData/WD~Paris,90]]"
+work_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
 writing_language: "[[_Standards/WikiData/WD~French,150]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"

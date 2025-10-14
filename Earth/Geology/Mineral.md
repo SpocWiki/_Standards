@@ -29,7 +29,7 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~occurrence,1190554]]"
   - "[[_Standards/WikiData/WD~chemical_composition,1263816]]"
   - "[[_Standards/WikiData/WD~crystallinity,1789144]]"
-location: "[[_Standards/WikiData/WD~subsurface,4316134]]"
+locations: "[[_Standards/WikiData/WD~subsurface,4316134]]"
 opposite_of: "[[_Standards/WikiData/WD~nonmineral,7049495]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Rocks_and_minerals,10994229]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Minerals,11110270]]"

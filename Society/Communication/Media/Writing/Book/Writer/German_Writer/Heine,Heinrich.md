@@ -88,7 +88,7 @@ documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 father: "[[_Standards/WikiData/WD~Samson_Heine,106070044]]"
 date_of_death: 1856-02-17T00:00:00Z
-work_location: "[[_Standards/WikiData/WD~Hamburg,1055]]"
+work_locations: "[[_Standards/WikiData/WD~Hamburg,1055]]"
 place_of_birth: "[[_Standards/WikiData/WD~Düsseldorf,1718]]"
 country_of_citizenship:
   - "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"

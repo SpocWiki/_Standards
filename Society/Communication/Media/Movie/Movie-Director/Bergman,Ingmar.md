@@ -122,7 +122,7 @@ unmarried_partner:
   - "[[_Standards/WikiData/WD~Liv_Ullmann,191064]]"
   - "[[_Standards/WikiData/WD~Harriet_Andersson,234923]]"
 Wolfram_Language_entity_code: Entity["Concept", "IngmarBergman::4cg9y"]
-work_location: "[[_Standards/WikiData/WD~Sweden,34]]"
+work_locations: "[[_Standards/WikiData/WD~Sweden,34]]"
 work_period_start_: 1944-01-01
 ---
 

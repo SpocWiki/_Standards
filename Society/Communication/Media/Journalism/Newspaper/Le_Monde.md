@@ -17,7 +17,7 @@ political_alignment: "[[_Standards/WikiData/WD~centre_left,737014]]"
 instance_of:
   - "[[_Standards/WikiData/WD~daily_newspaper,1110794]]"
   - "[[_Standards/WikiData/WD~online_newspaper,1153191]]"
-headquarters_location: "[[_Standards/WikiData/WD~avenue_Pierre_Mendès_France,2873810]]"
+headquarters_locations: "[[_Standards/WikiData/WD~avenue_Pierre_Mendès_France,2873810]]"
 parent_organization_or_unit: "[[_Standards/WikiData/WD~Groupe_Le_Monde,3117473]]"
 editor_in_chief: "[[_Standards/WikiData/WD~Marie_Pierre_Lannelongue,3292217]]"
 industry: "[[_Standards/WikiData/WD~publishing,3972943]]"

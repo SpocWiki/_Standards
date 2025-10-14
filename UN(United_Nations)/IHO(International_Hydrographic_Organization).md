@@ -9,7 +9,7 @@ instance_of: "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
 director_manager:
   - "[[_Standards/WikiData/WD~Abri_Kampfer,116790762]]"
   - "[[_Standards/WikiData/WD~Luigi_Sinapi,116790848]]"
-headquarters_location: "[[_Standards/WikiData/WD~Monaco,235]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Monaco,235]]"
 country: "[[_Standards/WikiData/WD~Monaco,235]]"
 official_observer_status_in_organization: "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
 short_name: IHO

@@ -145,7 +145,7 @@ movement: "[[_Standards/WikiData/WD~atheism,7066]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
 Erdős_number: 4
-work_location: "[[_Standards/WikiData/WD~Palo_Alto,47265]]"
+work_locations: "[[_Standards/WikiData/WD~Palo_Alto,47265]]"
 Libris_URI: 86lpvzss31tl0hl
 U_S_National_Archives_Identifier: "10581545"
 Commons_gallery: Linus Pauling

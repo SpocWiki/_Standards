@@ -9,7 +9,7 @@ archives_at: "[[_Standards/WikiData/WD~Thomas_Fisher_Rare_Book_Library,7789602]]
 topic_has_template: "[[_Standards/WikiData/WD~Template_Spanish_Civil_War,22676616]]"
 described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 instance_of: "[[_Standards/WikiData/WD~civil_war,8465]]"
-location: "[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]"
+locations: "[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]"
 country: "[[_Standards/WikiData/WD~Spain,29]]"
 described_at_URL: https://discoverarchives.library.utoronto.ca/index.php/spanish-civil-war-collection
 BHCL_UUID: ae43a7fd-d96f-468a-a862-3190ec8d7b15

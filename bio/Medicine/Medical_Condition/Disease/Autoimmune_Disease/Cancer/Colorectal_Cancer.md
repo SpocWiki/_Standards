@@ -64,7 +64,7 @@ genetic_association:
   - "[[_Standards/WikiData/WD~EPHA3,18250396]]"
   - "[[_Standards/WikiData/WD~RET,18253720]]"
   - "[[_Standards/WikiData/WD~NF1,20782771]]"
-anatomical_location: "[[_Standards/WikiData/WD~colon,5982337]]"
+anatomical_locations: "[[_Standards/WikiData/WD~colon,5982337]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~large_intestine_cancer,12048781]]"
   - "[[_Standards/WikiData/WD~colorectal_neoplasm,58833976]]"

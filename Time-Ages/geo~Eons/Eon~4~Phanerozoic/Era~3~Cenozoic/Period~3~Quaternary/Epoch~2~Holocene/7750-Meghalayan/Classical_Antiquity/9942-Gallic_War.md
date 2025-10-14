@@ -19,7 +19,7 @@ significant_event: "[[_Standards/WikiData/WD~Battle_of_Cavillonum,2984753]]"
 end_time: -0050-01-01T00:00:00Z
 start_time: -0057-01-01T00:00:00Z
 instance_of: "[[_Standards/WikiData/WD~war,198]]"
-location: "[[_Standards/WikiData/WD~Gaul,38060]]"
+locations: "[[_Standards/WikiData/WD~Gaul,38060]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Siege-alesia-vercingetorix-jules-cesar.jpg
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Caesar%20campaigns%20gaul-ca.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Caesar%20campaigns%20gaul-fr.svg

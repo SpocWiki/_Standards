@@ -61,7 +61,7 @@ genetic_association:
   - "[[_Standards/WikiData/WD~TSBP1,18035589]]"
   - "[[_Standards/WikiData/WD~BTNL2,18042335]]"
 instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-anatomical_location: "[[_Standards/WikiData/WD~liver,9368]]"
+anatomical_locations: "[[_Standards/WikiData/WD~liver,9368]]"
 afflicts: "[[_Standards/WikiData/WD~human,5]]"
 DiseasesDB: "2729"
 OmegaWiki_Defined_Meaning: "713751"

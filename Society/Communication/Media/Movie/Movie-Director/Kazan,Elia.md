@@ -62,7 +62,7 @@ writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 native_language: "[[_Standards/WikiData/WD~English,1860]]"
 place_of_birth: "[[_Standards/WikiData/WD~Constantinople,16869]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~United_States,30]]"
+work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
 country_of_citizenship:
   - "[[_Standards/WikiData/WD~United_States,30]]"
   - "[[_Standards/WikiData/WD~Greece,41]]"

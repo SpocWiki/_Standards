@@ -110,7 +110,7 @@ student: "[[_Standards/WikiData/WD~Charles_Joseph_Hullmandel,376691]]"
 student_of: "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Michael_Faraday,103813294]]"
 U_S_National_Archives_Identifier: 10582376
-work_location: "[[_Standards/WikiData/WD~England,21]]"
+work_locations: "[[_Standards/WikiData/WD~England,21]]"
 writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 ---
 

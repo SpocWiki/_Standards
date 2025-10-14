@@ -44,7 +44,7 @@ on_focus_list_of_Wikimedia_project:
 father: "[[_Standards/WikiData/WD~Albert_Chanel,108840344]]"
 date_of_birth: 1883-08-19T00:00:00Z
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Paris,90]]"
+work_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
 pseudonym: Coco Chanel

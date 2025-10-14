@@ -12,7 +12,7 @@ award_received:
   - "[[_Standards/WikiData/WD~Echo_Klassik_Classical_Music_without_Borders,113031066]]"
   - "[[_Standards/WikiData/WD~ECHO_Awards,113080784]]"
 place_of_birth: "[[_Standards/WikiData/WD~Lajatico,103110]]"
-work_location: "[[_Standards/WikiData/WD~Lajatico,103110]]"
+work_locations: "[[_Standards/WikiData/WD~Lajatico,103110]]"
 occupation:
   - "[[_Standards/WikiData/WD~record_producer,183945]]"
   - "[[_Standards/WikiData/WD~pianist,486748]]"

@@ -21,7 +21,7 @@ followed_by: "[[_Standards/WikiData/WD~(136200)_2003_VS5,8258820]]"
 significant_event: "[[_Standards/WikiData/WD~naming,25488743]]"
 described_by_source: "[[_Standards/WikiData/WD~Q111319534,111319534]]"
 parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
-location: "[[_Standards/WikiData/WD~Solar_System,544]]"
+locations: "[[_Standards/WikiData/WD~Solar_System,544]]"
 absolute_magnitude: -1.1
 temperature:
   - 30

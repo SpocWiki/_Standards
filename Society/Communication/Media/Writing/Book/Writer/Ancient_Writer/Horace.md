@@ -69,7 +69,7 @@ student_of:
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/41538
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Horace,20338778]]"
 Wolfram_Language_entity_code: Entity["Concept", "Horace::5255n"]
-work_location: "[[_Standards/WikiData/WD~Rome,220]]"
+work_locations: "[[_Standards/WikiData/WD~Rome,220]]"
 writing_language: "[[_Standards/WikiData/WD~Latin,397]]"
 ---
 

@@ -13,7 +13,7 @@ director_manager:
   - "[[_Standards/WikiData/WD~Terry_Quinn,95627733]]"
   - "[[_Standards/WikiData/WD~Andrew_John_Wallard,104052895]]"
   - "[[_Standards/WikiData/WD~Martin_J_T_Milton,128605389]]"
-headquarters_location: "[[_Standards/WikiData/WD~Sèvres,206493]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Sèvres,206493]]"
 instance_of:
   - "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
   - "[[_Standards/WikiData/WD~international_organization,484652]]"

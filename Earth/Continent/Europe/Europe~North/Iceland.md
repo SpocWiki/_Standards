@@ -34,7 +34,7 @@ member_of:
   - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
   - "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
   - "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
-taxon_found_at_location: "[[_Standards/WikiData/WD~Vulpes_lagopus,82738]]"
+taxon_found_at_locations: "[[_Standards/WikiData/WD~Vulpes_lagopus,82738]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Iceland,93335]]"
 public_holiday:
   - "[[_Standards/WikiData/WD~Christmas_Eve,106010]]"

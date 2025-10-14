@@ -54,7 +54,7 @@ start_time: 1929-10-29T00:00:00Z
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Great_Depression,22734544]]"
 U_S_National_Archives_Identifier: "12222222"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Great_Depression,22734544]]"
-location: "[[_Standards/WikiData/WD~New_York_Stock_Exchange_Building,24084031]]"
+locations: "[[_Standards/WikiData/WD~New_York_Stock_Exchange_Building,24084031]]"
 IMDb_keyword: great-depression
 ---
 

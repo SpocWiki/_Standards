@@ -55,7 +55,7 @@ languages_spoken_written_or_signed:
   - "[[_Standards/WikiData/WD~German,188]]"
 cause_of_death: "[[_Standards/WikiData/WD~pneumonia,12192]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Switzerland,39]]"
+work_locations: "[[_Standards/WikiData/WD~Switzerland,39]]"
 country_of_citizenship:
   - "[[_Standards/WikiData/WD~Switzerland,39]]"
   - "[[_Standards/WikiData/WD~Austria,40]]"

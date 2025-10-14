@@ -173,7 +173,7 @@ family_name:
 work_period_start_: 1879-01-01T00:00:00Z
 date_of_birth: 1864-11-24T00:00:00Z
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Paris,90]]"
+work_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
 cause_of_death: "[[_Standards/WikiData/WD~syphilis,41083]]"

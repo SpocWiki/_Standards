@@ -28,7 +28,7 @@ event_interval: 1
 social_media_followers:
   - 192000
   - 523027
-location: "[[_Standards/WikiData/WD~Cannes,39984]]"
+locations: "[[_Standards/WikiData/WD~Cannes,39984]]"
 Private_Enterprise_Number: "61495"
 official_website: https://www.festival-cannes.com
 Commons_gallery: Cannes Film Festival

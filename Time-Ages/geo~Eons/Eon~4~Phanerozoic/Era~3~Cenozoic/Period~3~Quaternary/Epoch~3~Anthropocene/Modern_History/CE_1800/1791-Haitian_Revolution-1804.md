@@ -4,7 +4,7 @@ aliases:
   - Lagè d Lendependans
   - Révolution haïtienne
 has_id_wikidata: Q689128
-location: "[[_Standards/WikiData/WD~Saint_Domingue,861551]]"
+locations: "[[_Standards/WikiData/WD~Saint_Domingue,861551]]"
 country: "[[_Standards/WikiData/WD~Saint_Domingue,861551]]"
 instance_of:
   - "[[_Standards/WikiData/WD~slave_rebellion,1155622]]"

@@ -18,7 +18,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~radio_network,1061197]]"
   - "[[_Standards/WikiData/WD~television_network,1254874]]"
   - "[[_Standards/WikiData/WD~television_station,1616075]]"
-headquarters_location: "[[_Standards/WikiData/WD~CBS_Building,2640560]]"
+headquarters_locations: "[[_Standards/WikiData/WD~CBS_Building,2640560]]"
 nominated_for:
   - "[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Series_Drama,3025728]]"
   - "[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Film,3473886]]"

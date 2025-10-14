@@ -72,7 +72,7 @@ copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
 media_franchise: "[[_Standards/WikiData/WD~Asterix,105030970]]"
 country: "[[_Standards/WikiData/WD~France,142]]"
 country_of_origin: "[[_Standards/WikiData/WD~France,142]]"
-narrative_location: "[[_Standards/WikiData/WD~Gaul,38060]]"
+narrative_locations: "[[_Standards/WikiData/WD~Gaul,38060]]"
 units_sold: 385000000
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Asterix.svg
 start_time: 1959-10-29T00:00:00Z

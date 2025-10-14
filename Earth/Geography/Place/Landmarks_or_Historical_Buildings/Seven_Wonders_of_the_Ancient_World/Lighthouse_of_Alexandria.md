@@ -18,7 +18,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 architectural_style: "[[_Standards/WikiData/WD~Hellenistic_architecture,2011484]]"
-location: "[[_Standards/WikiData/WD~Pharos,2696558]]"
+locations: "[[_Standards/WikiData/WD~Pharos,2696558]]"
 named_after: "[[_Standards/WikiData/WD~Pharos,2696558]]"
 instance_of:
   - "[[_Standards/WikiData/WD~destroyed_building_or_structure,19860854]]"

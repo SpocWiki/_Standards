@@ -15,7 +15,7 @@ participant:
   - "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
   - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
 country: "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
-location: "[[_Standards/WikiData/WD~Constantinople,16869]]"
+locations: "[[_Standards/WikiData/WD~Constantinople,16869]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Le%20si%C3%A8ge%20de%20Constantinople%20%281453%29%20by%20Jean%20Le%20Tavernier%20after%201455.jpg
 Commons_category: Fall of Constantinople (1453)
 ---

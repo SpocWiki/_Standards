@@ -29,7 +29,7 @@ language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
 author: "[[_Standards/WikiData/WD~Charles_Dickens,5686]]"
 form_of_creative_work: "[[_Standards/WikiData/WD~novel,8261]]"
 copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-narrative_location: "[[_Standards/WikiData/WD~England,21]]"
+narrative_locations: "[[_Standards/WikiData/WD~England,21]]"
 country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 Commons_gallery: David Copperfield
 Commons_category: David Copperfield

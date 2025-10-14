@@ -18,7 +18,7 @@ different_from:
   - "[[_Standards/WikiData/WD~1861_Irish_Famine,104830083]]"
 end_time: 1852-01-01T00:00:00Z
 start_time: 1845-01-01T00:00:00Z
-location: "[[_Standards/WikiData/WD~Ireland,22890]]"
+locations: "[[_Standards/WikiData/WD~Ireland,22890]]"
 coordinate_location: Point(-7.921 53.351)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Irish%20potato%20famine%20Bridget%20O%27Donnel.jpg
 plaque_image:

@@ -33,7 +33,7 @@ presenter: "[[_Standards/WikiData/WD~Kristen_Welker,16204167]]"
 original_language_of_film_or_TV_show: "[[_Standards/WikiData/WD~English,1860]]"
 original_broadcaster: "[[_Standards/WikiData/WD~NBC,13974]]"
 country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-filming_location: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+filming_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
 duration:
   - 30
   - 60

@@ -14,7 +14,7 @@ described_by_source:
 member_of: "[[_Standards/WikiData/WD~The_ITER_Organization,101069148]]"
 part_of: "[[_Standards/WikiData/WD~European_Union,458]]"
 followed_by: "[[_Standards/WikiData/WD~European_Union,458]]"
-headquarters_location: "[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
 OmegaWiki_Defined_Meaning: "1353"
 BHCL_UUID: 7039c7dd-a208-42cc-80cc-6d529623a86a
 EU_Corporate_body_code: EAEC

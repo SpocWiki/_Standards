@@ -122,7 +122,7 @@ official_language:
   - "[[_Standards/WikiData/WD~Arabic,13955]]"
   - "[[_Standards/WikiData/WD~French,150]]"
 country: "[[_Standards/WikiData/WD~Switzerland,39]]"
-headquarters_location: "[[_Standards/WikiData/WD~Geneva,71]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Geneva,71]]"
 employees: 7000
 OmegaWiki_Defined_Meaning: 712247
 ---

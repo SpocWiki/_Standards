@@ -168,7 +168,7 @@ hashtag: Mozambique
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 has_id_wikidata: Q1029
 has_time_started: 1975-06-25
-headquarters_location: "[[_Standards/WikiData/WD~Maputo,3889]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Maputo,3889]]"
 head_of_government: "[[_Standards/WikiData/WD~Adriano_Maleiane,44275924]]"
 head_of_state: "[[_Standards/WikiData/WD~Filipe_Nyusi,5448556]]"
 highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Mozambique,5438742]]"

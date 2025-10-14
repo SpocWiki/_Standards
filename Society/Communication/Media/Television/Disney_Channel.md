@@ -13,7 +13,7 @@ different_from: "[[_Standards/WikiData/WD~Disney_Channel,5282418]]"
 has_list: "[[_Standards/WikiData/WD~list_of_Disney_Channel_original_soundtracks,6363873]]"
 parent_organization: "[[_Standards/WikiData/WD~The_Walt_Disney_Company,7414]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~Burbank,39561]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Burbank,39561]]"
 social_media_followers:
   - 524000
   - 910284

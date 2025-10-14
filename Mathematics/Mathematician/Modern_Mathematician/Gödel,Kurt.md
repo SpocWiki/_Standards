@@ -106,7 +106,7 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Kurt%20G%C3%B6del%
 spouse: "[[_Standards/WikiData/WD~Adele_Gödel,51311280]]"
 student_of: "[[_Standards/WikiData/WD~Philipp_Furtwängler,68514]]"
 Wolfram_Language_entity_code: Entity["Person", "KurtGodel::h4724"]
-work_location: "[[_Standards/WikiData/WD~Brno,14960]]"
+work_locations: "[[_Standards/WikiData/WD~Brno,14960]]"
 writing_language: "[[_Standards/WikiData/WD~German,188]]"
 ---
 

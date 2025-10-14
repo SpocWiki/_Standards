@@ -80,7 +80,7 @@ member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
 country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
-work_location: "[[_Standards/WikiData/WD~United_States,30]]"
+work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
 height: 193
 sport: "[[_Standards/WikiData/WD~American_football,41323]]"
 social_media_followers: 37043

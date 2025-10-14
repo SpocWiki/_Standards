@@ -32,7 +32,7 @@ board_member:
   - "[[_Standards/WikiData/WD~Cynthia_Warner,114394690]]"
   - "[[_Standards/WikiData/WD~Jon_Huntsman,_Jr.,11607]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Federal_Capital_Territory,509300]]"
-headquarters_location: "[[_Standards/WikiData/WD~San_Ramon,605472]]"
+headquarters_locations: "[[_Standards/WikiData/WD~San_Ramon,605472]]"
 child_organization_unit:
   - "[[_Standards/WikiData/WD~Texaco,775060]]"
   - "[[_Standards/WikiData/WD~Chevron_(Netherlands),30274058]]"

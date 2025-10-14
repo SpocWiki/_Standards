@@ -135,7 +135,7 @@ sibling: "[[_Standards/WikiData/WD~Karen_Marie_Andersen,12321320]]"
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Christian%20Andersen%20Signature.svg
 Swedish_Royal_Theater_Archive: Person/317
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Hans_Christian_Andersen,15203917]]"
-work_location: "[[_Standards/WikiData/WD~Copenhagen,1748]]"
+work_locations: "[[_Standards/WikiData/WD~Copenhagen,1748]]"
 work_period_end_: 1875
 work_period_start_: 1827
 writing_language: "[[_Standards/WikiData/WD~Danish,9035]]"

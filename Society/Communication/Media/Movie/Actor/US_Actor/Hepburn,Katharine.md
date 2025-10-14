@@ -68,7 +68,7 @@ native_language: "[[_Standards/WikiData/WD~English,1860]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
 member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~United_States,30]]"
+work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
 height: 170
 place_of_birth: "[[_Standards/WikiData/WD~Hartford,33486]]"

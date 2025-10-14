@@ -13,7 +13,7 @@ significant_event: "[[_Standards/WikiData/WD~UNESCO_World_Heritage_Site_record_m
 country:
   - "[[_Standards/WikiData/WD~Costa_Rica,800]]"
   - "[[_Standards/WikiData/WD~Panama,804]]"
-location: "[[_Standards/WikiData/WD~Panama,804]]"
+locations: "[[_Standards/WikiData/WD~Panama,804]]"
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~UTC_06_00,5385]]"
   - "[[_Standards/WikiData/WD~UTC_05_00,5390]]"

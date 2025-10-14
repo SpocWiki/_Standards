@@ -24,7 +24,7 @@ partnership_with: "[[_Standards/WikiData/WD~UNESCO,7809]]"
 country:
   - "[[_Standards/WikiData/WD~Belgium,31]]"
   - "[[_Standards/WikiData/WD~Switzerland,39]]"
-headquarters_location: "[[_Standards/WikiData/WD~Geneva,71]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Geneva,71]]"
 social_media_followers:
   - 7100
   - 31253

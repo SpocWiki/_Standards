@@ -19,7 +19,7 @@ child_astronomical_body: "[[_Standards/WikiData/WD~S_2015_(136472)_1,23926758]]"
 significant_event: "[[_Standards/WikiData/WD~naming,25488743]]"
 periapsis_date_DEPRECATED_: 1879-04-07T00:00:00Z
 parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
-location: "[[_Standards/WikiData/WD~Solar_System,544]]"
+locations: "[[_Standards/WikiData/WD~Solar_System,544]]"
 absolute_magnitude:
   - -0.2
   - 0.049

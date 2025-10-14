@@ -184,7 +184,7 @@ student:
 student_of:
   - "[[_Standards/WikiData/WD~Gustav_Bauer,15454803]]"
   - "[[_Standards/WikiData/WD~Philipp_Ludwig_von_Seidel,464]]"
-work_location: "[[_Standards/WikiData/WD~Munich,1726]]"
+work_locations: "[[_Standards/WikiData/WD~Munich,1726]]"
 writing_language: "[[_Standards/WikiData/WD~German,188]]"
 ---
 

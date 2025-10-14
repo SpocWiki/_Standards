@@ -18,7 +18,7 @@ has_works_in_the_collection: "[[_Standards/WikiData/WD~Gelders_Schuttersmuseum,9
 accredited_by: "[[_Standards/WikiData/WD~accredited_NGO_for_intangible_cultural_heritage,116980142]]"
 instance_of: "[[_Standards/WikiData/WD~museum_council,130748571]]"
 partnership_with: "[[_Standards/WikiData/WD~UNESCO,7809]]"
-headquarters_location: "[[_Standards/WikiData/WD~Paris,90]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 country: "[[_Standards/WikiData/WD~France,142]]"
 ISNI:
   - "0000000104399301"

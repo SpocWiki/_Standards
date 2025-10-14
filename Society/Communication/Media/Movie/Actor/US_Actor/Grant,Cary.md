@@ -51,7 +51,7 @@ cause_of_death: "[[_Standards/WikiData/WD~stroke,12202]]"
 place_of_birth: "[[_Standards/WikiData/WD~Bristol,23154]]"
 place_of_death: "[[_Standards/WikiData/WD~Davenport,26887]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~United_States,30]]"
+work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
 country_of_citizenship:
   - "[[_Standards/WikiData/WD~United_States,30]]"
   - "[[_Standards/WikiData/WD~United_Kingdom,145]]"

@@ -52,7 +52,7 @@ official_app: "[[_Standards/WikiData/WD~eBay_Android_app,47005148]]"
 chief_executive_officer: "[[_Standards/WikiData/WD~Jamie_Iannone,90569739]]"
 net_profit: -1269000000
 Wikidata_property: eBay username
-headquarters_location: "[[_Standards/WikiData/WD~San_Jose,16553]]"
+headquarters_locations: "[[_Standards/WikiData/WD~San_Jose,16553]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 location_of_formation: "[[_Standards/WikiData/WD~California,99]]"
 Alexa_rank: 42

@@ -23,7 +23,7 @@ language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
 Wikidata_property: Billboard artist ID
 country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+headquarters_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
 publication_interval: 1
 social_media_followers:
   - 4030000

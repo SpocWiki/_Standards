@@ -22,7 +22,7 @@ part_of: "[[_Standards/WikiData/WD~consumer_economics,3578714]]"
 instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
 earliest_date: -75000-06
 has_use: "[[_Standards/WikiData/WD~bed,42177]]"
-location: "[[_Standards/WikiData/WD~bed,42177]]"
+locations: "[[_Standards/WikiData/WD~bed,42177]]"
 Nomenclature_for_Museum_Cataloging: "968"
 subreddit: Bedding
 Commons_gallery: Bedding

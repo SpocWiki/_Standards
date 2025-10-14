@@ -68,7 +68,7 @@ country_of_citizenship:
 member_of_political_party: "[[_Standards/WikiData/WD~Nazi_Party,7320]]"
 manner_of_death: "[[_Standards/WikiData/WD~suicide,10737]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Berlin,64]]"
+work_locations: "[[_Standards/WikiData/WD~Berlin,64]]"
 date_of_burial_or_cremation: 1970-01-01T00:00:00Z
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
 number_of_children: 6

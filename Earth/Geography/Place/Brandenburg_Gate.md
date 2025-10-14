@@ -17,7 +17,7 @@ instance_of:
 commissioned_by: "[[_Standards/WikiData/WD~Friedrich_Wilhelm_II_of_Prussia,152229]]"
 located_on_street: "[[_Standards/WikiData/WD~Pariser_Platz,156716]]"
 part_of: "[[_Standards/WikiData/WD~Berlin_Customs_Wall,532578]]"
-location: "[[_Standards/WikiData/WD~Dorotheenstadt,677514]]"
+locations: "[[_Standards/WikiData/WD~Dorotheenstadt,677514]]"
 different_from: "[[_Standards/WikiData/WD~Brandenburg_Gate,695045]]"
 heritage_designation:
   - "[[_Standards/WikiData/WD~architectural_heritage_monument,811165]]"

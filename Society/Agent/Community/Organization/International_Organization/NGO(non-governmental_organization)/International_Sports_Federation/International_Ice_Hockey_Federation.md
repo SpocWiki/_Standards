@@ -11,7 +11,7 @@ sport:
 member_of: "[[_Standards/WikiData/WD~Winter_Olympic_Federations,1763847]]"
 instance_of: "[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]"
 operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-headquarters_location: "[[_Standards/WikiData/WD~Zurich,72]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Zurich,72]]"
 member_count: 83
 social_media_followers: 218333
 image: http://commons.wikimedia.org/wiki/Special:FilePath/IIHF%20Headquarter%20Zurich.JPG

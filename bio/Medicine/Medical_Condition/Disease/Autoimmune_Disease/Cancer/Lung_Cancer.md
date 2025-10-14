@@ -34,7 +34,7 @@ risk_factor: "[[_Standards/WikiData/WD~smoking,662860]]"
 instance_of:
   - "[[_Standards/WikiData/WD~rare_disease,929833]]"
   - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-anatomical_location: "[[_Standards/WikiData/WD~human_lung,2640512]]"
+anatomical_locations: "[[_Standards/WikiData/WD~human_lung,2640512]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~lung_disease,3392853]]"
   - "[[_Standards/WikiData/WD~respiratory_system_cancer,7315926]]"

@@ -18,7 +18,7 @@ chairperson: "[[_Standards/WikiData/WD~Ajaypal_Singh_Banga,4699676]]"
 instance_of: "[[_Standards/WikiData/WD~multilateral_development_bank,105758271]]"
 part_of: "[[_Standards/WikiData/WD~World_Bank,7164]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20Bank%20building%20at%20Washington.jpg
 short_name:
   - BIRD

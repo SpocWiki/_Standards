@@ -16,7 +16,7 @@ order_of_battle:
   - "[[_Standards/WikiData/WD~order_of_battle_of_the_Wehrmacht_for_the_attack_on_Poland,11798976]]"
 participant: "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
 has_contributing_factor: "[[_Standards/WikiData/WD~Fall_Weiss,26078]]"
-location: "[[_Standards/WikiData/WD~Poland,36]]"
+locations: "[[_Standards/WikiData/WD~Poland,36]]"
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Poland.png
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Defenders%20of%20Warsaw%20%281939%29.jpg

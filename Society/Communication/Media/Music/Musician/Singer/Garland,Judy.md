@@ -89,7 +89,7 @@ native_language: "[[_Standards/WikiData/WD~American_English,7976]]"
 member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_location: "[[_Standards/WikiData/WD~United_States,30]]"
+work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
 number_of_children: 3
 genre: "[[_Standards/WikiData/WD~pop_music,37073]]"
 voice_type: "[[_Standards/WikiData/WD~contralto,37137]]"

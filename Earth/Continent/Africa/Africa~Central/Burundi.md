@@ -106,7 +106,7 @@ official_language:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~French,150]]"
   - "[[_Standards/WikiData/WD~Kirundi,33583]]"
-headquarters_location: "[[_Standards/WikiData/WD~Bujumbura,3854]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Bujumbura,3854]]"
 lowest_point: "[[_Standards/WikiData/WD~Lake_Tanganyika,5511]]"
 instance_of:
   - "[[_Standards/WikiData/WD~country,6256]]"

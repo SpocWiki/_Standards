@@ -94,7 +94,7 @@ sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
 significant_person: "[[_Standards/WikiData/WD~Luigi_Benzi,104822989]]"
 spouse: "[[_Standards/WikiData/WD~Giulietta_Masina,106907]]"
 Wolfram_Language_entity_code: Entity["Concept", "FedericoFellini::ngc82"]
-work_location: "[[_Standards/WikiData/WD~Rome,220]]"
+work_locations: "[[_Standards/WikiData/WD~Rome,220]]"
 work_period_end_: 1992
 work_period_start_: 1945
 ---

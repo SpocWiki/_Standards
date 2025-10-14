@@ -76,7 +76,7 @@ member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
 number_of_children: 5
-work_location: "[[_Standards/WikiData/WD~Hollywood,34006]]"
+work_locations: "[[_Standards/WikiData/WD~Hollywood,34006]]"
 height: 187
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/HYUSTON_DZHON.html
 name_in_native_language: John Marcellus Huston

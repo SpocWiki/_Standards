@@ -16,7 +16,7 @@ significant_event:
   - "[[_Standards/WikiData/WD~dedication,1762010]]"
   - "[[_Standards/WikiData/WD~Decretum_De_titulo_Basilicae_Minoris_,133249605]]"
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~île_de_la_Cité,190063]]"
-location: "[[_Standards/WikiData/WD~île_de_la_Cité,190063]]"
+locations: "[[_Standards/WikiData/WD~île_de_la_Cité,190063]]"
 located_in_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~4th_arrondissement_of_Paris,230127]]"
   - "[[_Standards/WikiData/WD~Quartier_Notre_Dame,3413095]]"

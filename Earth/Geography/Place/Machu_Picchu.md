@@ -8,7 +8,7 @@ located_in_the_administrative_territorial_entity:
 discoverer_or_inventor:
   - "[[_Standards/WikiData/WD~Hiram_Bingham_III,237220]]"
   - "[[_Standards/WikiData/WD~Agustín_Lizárraga,106864521]]"
-location: "[[_Standards/WikiData/WD~Aguas_Calientes,397990]]"
+locations: "[[_Standards/WikiData/WD~Aguas_Calientes,397990]]"
 instance_of:
   - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
   - "[[_Standards/WikiData/WD~archaeological_site,839954]]"

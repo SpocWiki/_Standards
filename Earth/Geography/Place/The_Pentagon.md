@@ -2,7 +2,7 @@
 aliases:
   - Pentagon
 has_id_wikidata: Q11208
-location: "[[_Standards/WikiData/WD~Arlington_County,107126]]"
+locations: "[[_Standards/WikiData/WD~Arlington_County,107126]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Arlington_County,107126]]"
 named_after: "[[_Standards/WikiData/WD~pentagon,127840]]"
 has_facility:

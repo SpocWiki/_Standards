@@ -9,7 +9,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~regulatory_college,1110684]]"
   - "[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]"
   - "[[_Standards/WikiData/WD~organization,43229]]"
-headquarters_location: "[[_Standards/WikiData/WD~Charenton_le_Pont,212793]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Charenton_le_Pont,212793]]"
 follows: "[[_Standards/WikiData/WD~International_Museums_Office,96472883]]"
 has_part_s_:
   - "[[_Standards/WikiData/WD~ICOFORT,103613961]]"
