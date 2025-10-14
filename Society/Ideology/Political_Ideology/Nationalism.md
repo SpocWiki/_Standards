@@ -33,6 +33,9 @@ U_S_National_Archives_Identifier: 10642479
 
 #is_/different_from :: [[../../../../_protect/Society/Sociology/Politics/Politic_Terms/Patriotism]] 
 #is_/similar_to :: [[../../../../_protect/Society/Sociology/Politics/Politic_Terms/Patriotism]] 
+#is_/same_as :: [[../../../WikiData/WD~Nationalism,6235|WD~Nationalism,6235]] 
+
+## #has_/text_of_/abstract 
 
 > **Nationalism** is an idea and movement that holds that 
 > the nation should be congruent with the state. 
