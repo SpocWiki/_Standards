@@ -1,15 +1,36 @@
 ---
+aliases:
+has_id_wikidata: Q58949
 title: Muroidea
+described_by_source: "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+taxon_rank: "[[_Standards/WikiData/WD~superfamily,2136103]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+ITIS_TSN: "970141"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Feldmaus%20Microtus%20arvalis.jpg
+Commons_category: Muroidea
+taxon_name: Muroidea
+UMLS_CUI: C1640644
 ---
 
-# [[Muroidea]]
+# [[Muroidea]] 
 
 ## Murid rodents 
-![deer mouse](Muroidea/Peromyscus_maniculatus0030.jpg))
+![deer mouse](Muroidea/Peromyscus_maniculatus0030.jpg) 
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Muroidea,58949|WD~Muroidea,58949]] 
 
 ## #has_/text_of_/abstract 
 
-> The **Muroidea** are a large superfamily of rodents, including mice, rats, voles, hamsters, lemmings, gerbils, and many other relatives.  Although the Muroidea originated in Eurasia, they occupy a vast variety of habitats on every continent except Antarctica. Some authorities have placed all members of this group into a single family, Muridae, due to difficulties in determining how the subfamilies are related to one another. Many of the families within the Muroidea superfamily have more variations between the families than between the different clades. A possible explanation for the variations in rodents is because of the location of these rodents; these changes could have been due to radiation or the overall environment they migrated to or originated in. The following taxonomy is based on recent well-supported molecular phylogenies.
+> The **Muroidea** are a large superfamily of rodents, including 
+> mice, rats, voles, hamsters, lemmings, gerbils, and many other relatives.  
+> 
+> Although the Muroidea originated in Eurasia, 
+> they occupy a vast variety of habitats on every continent except Antarctica. 
+> 
+> Some authorities have placed all members of this group into a single family, Muridae, 
+> due to difficulties in determining how the subfamilies are related to one another. 
+> 
+> Many of the families within the Muroidea superfamily have more variations between the families than between the different clades. A possible explanation for the variations in rodents is because of the location of these rodents; these changes could have been due to radiation or the overall environment they migrated to or originated in. The following taxonomy is based on recent well-supported molecular phylogenies.
 >
 > The muroids are classified in six families, 19 subfamilies, around 280 genera, and at least 1,750 species.
 >
@@ -64,7 +85,7 @@ that situation.
     -   [Squirrel](Sciuromorpha/Squirrel.md)
 
 -   » Sub-Groups
-    -  [Murinae](Muroidea/Murinae.md))
+    -  [Murinae](Muroidea/Muridae/Murinae.md))
     -  [Deomyinae](Muroidea/Deomyinae.md))
     -  [Sigmodontinae](Muroidea/Sigmodontinae.md))
     -  [Tylomyinae](Muroidea/Tylomyinae.md))
@@ -100,4 +121,3 @@ Copyright ::            © 2002 [California Academy of Sciences](http://www.cala
 ### #is_/same_as :: [Muroidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea.personal.md) 
 
 ### #is_/same_as :: [Muroidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea.secret.md)
-

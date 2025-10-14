@@ -2,12 +2,54 @@
 aliases:
   - Elektron
 has_id_wikidata: Q2225
+different_from: "[[_Standards/WikiData/WD~Elektron,129269]]"
+opposite_of: "[[_Standards/WikiData/WD~electron_hole,651050]]"
+interaction:
+  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
+  - "[[_Standards/WikiData/WD~gravity,11412]]"
+  - "[[_Standards/WikiData/WD~weak_interaction,11418]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+has_superpartner: "[[_Standards/WikiData/WD~selectron,1087203]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
+location_of_discovery: "[[_Standards/WikiData/WD~Cavendish_Laboratory_Of_Experimental_Physics,26616677]]"
+mass: 0.000548579909065
+subclass_of:
+  - "[[_Standards/WikiData/WD~charged_lepton,94535579]]"
+  - "[[_Standards/WikiData/WD~elementary_particle,43116]]"
+time_of_discovery_or_invention: 1897-01-01T00:00:00Z
+g_factor: -2.00231930436256
+followed_by: "[[_Standards/WikiData/WD~muon,3151]]"
+antiparticle: "[[_Standards/WikiData/WD~positron,3229]]"
+named_after: "[[_Standards/WikiData/WD~amber,25381]]"
+electric_charge: -1
+parity_quantum_number: 1
+spin_quantum_number: 0.5
+discoverer_or_inventor: "[[_Standards/WikiData/WD~J._J._Thomson,47285]]"
+Monte_Carlo_Particle_Number: "11"
+OmegaWiki_Defined_Meaning: "567898"
+magnetic_moment: 1.00115965218059
+Commons_category: Electrons
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Single%20electron%20probability%20pattern.png
+Stack_Exchange_tag: https://physics.stackexchange.com/tags/electrons
+IEV_number:
+  - 113-05-18
+  - 881-02-57
+Dewey_Decimal_Classification: "539.72112"
+Wolfram_Language_entity_code: Entity["Particle", "Electron"]
+MeSH_tree_code:
+  - G01.249.335
+  - G01.358.500.750
+Krugosvet_article_archived_: nauka_i_tehnika/fizika/ELEKTRON.html
 ---
 
 # [[Electron]] 
 
-#is_/opposite_of ::  [[../../Antimatter/Positron|Positron]] 
-#is_/same_as :: [[../../../../../WikiData/WD~Electron,2225|WD~Electron,2225]] 
+#is_/opposite_of ::  [[../../../Antimatter/Positron|Positron]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Electron,2225|WD~Electron,2225]] 
 
 ## #has_/text_of_/abstract 
 
