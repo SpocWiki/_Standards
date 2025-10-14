@@ -125,7 +125,7 @@ spouse:
 unmarried_partner:
   - "[[_Standards/WikiData/WD~Nancy_Cunard,275793]]"
   - "[[_Standards/WikiData/WD~Mary_Hutchinson,43375599]]"
-work_location: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+work_locations: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 ---
 

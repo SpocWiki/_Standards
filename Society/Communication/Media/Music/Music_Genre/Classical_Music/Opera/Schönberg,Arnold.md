@@ -111,7 +111,7 @@ country_of_citizenship:
   - "[[_Standards/WikiData/WD~Austria,40]]"
   - "[[_Standards/WikiData/WD~Germany,183]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Berlin,64]]"
+work_locations: "[[_Standards/WikiData/WD~Berlin,64]]"
 place_of_death: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
 field_of_work: "[[_Standards/WikiData/WD~composer,36834]]"
 Commons_category: Arnold Schoenberg

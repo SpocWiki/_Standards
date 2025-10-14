@@ -14,7 +14,7 @@ official_language:
   - "[[_Standards/WikiData/WD~French,150]]"
 place_of_birth: "[[_Standards/WikiData/WD~Madrid,2807]]"
 member_of: "[[_Standards/WikiData/WD~UNESCO,7809]]"
-headquarters_location: "[[_Standards/WikiData/WD~Paris,90]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 country: "[[_Standards/WikiData/WD~France,142]]"
 inception: 1954-05-15T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Union%20Latine.svg

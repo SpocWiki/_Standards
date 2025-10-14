@@ -214,7 +214,7 @@ depicted_by: "[[_Standards/WikiData/WD~Self_Portrait_as_a_Young_Man,118874873]]"
 date_of_death: 1594-05-31T00:00:00Z
 place_of_death: "[[_Standards/WikiData/WD~Venice,641]]"
 place_of_birth: "[[_Standards/WikiData/WD~Venice,641]]"
-work_location: "[[_Standards/WikiData/WD~Venice,641]]"
+work_locations: "[[_Standards/WikiData/WD~Venice,641]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Italian,652]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Republic_of_Venice,4948]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"

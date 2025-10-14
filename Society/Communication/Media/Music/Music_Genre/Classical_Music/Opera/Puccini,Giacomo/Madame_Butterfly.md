@@ -41,7 +41,7 @@ country_of_origin: "[[_Standards/WikiData/WD~Italy,38]]"
 number_of_parts_of_this_work:
   - 2
   - 3
-narrative_location: "[[_Standards/WikiData/WD~Nagasaki,38234]]"
+narrative_locations: "[[_Standards/WikiData/WD~Nagasaki,38234]]"
 native_label: Madama Butterfly
 title: Madama Butterfly
 Commons_category: Madama Butterfly (Puccini)

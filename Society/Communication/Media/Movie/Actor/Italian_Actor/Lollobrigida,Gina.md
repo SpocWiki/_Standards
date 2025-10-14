@@ -42,7 +42,7 @@ field_of_work:
   - "[[_Standards/WikiData/WD~photography,11633]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Italian,652]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~United_States,30]]"
+work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Italy,38]]"
 number_of_children: 1
 place_of_death: "[[_Standards/WikiData/WD~Rome,220]]"

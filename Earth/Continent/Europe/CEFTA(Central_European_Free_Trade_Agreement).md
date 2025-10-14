@@ -4,7 +4,7 @@ aliases:
   - Mitteleuropäisches_Freihandelsabkommen
 has_id_wikidata: Q319014
 topic_has_template: "[[_Standards/WikiData/WD~Template_Country_data_Central_European_Free_Trade_Agreement,25736996]]"
-headquarters_location: "[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
 instance_of:
   - "[[_Standards/WikiData/WD~organization,43229]]"
 point_in_time: 1992-12-21T00:00:00Z

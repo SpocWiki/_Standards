@@ -17,7 +17,7 @@ has_part_s_: "[[_Standards/WikiData/WD~Latin_script_letter,19776628]]"
 described_by_source: "[[_Standards/WikiData/WD~Wikipesija,108929142]]"
 inception: -0700-01-01T00:00:00Z
 instance_of: "[[_Standards/WikiData/WD~writing_system,8192]]"
-location: "[[_Standards/WikiData/WD~Italy,38]]"
+locations: "[[_Standards/WikiData/WD~Italy,38]]"
 ISO_15924_numeric_code: "215"
 name:
   - latin

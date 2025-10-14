@@ -10,7 +10,7 @@ health_specialty:
 subclass_of:
   - "[[_Standards/WikiData/WD~central_nervous_system_neoplasm,4335557]]"
   - "[[_Standards/WikiData/WD~intracranial_tumor,11702952]]"
-anatomical_location: "[[_Standards/WikiData/WD~brain,1073]]"
+anatomical_locations: "[[_Standards/WikiData/WD~brain,1073]]"
 DiseasesDB: "30781"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hirnmetastase%20MRT-T1%20KM.jpg
 described_at_URL:

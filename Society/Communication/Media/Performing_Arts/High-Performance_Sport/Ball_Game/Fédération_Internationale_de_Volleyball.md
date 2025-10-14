@@ -11,7 +11,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]"
   - "[[_Standards/WikiData/WD~volleyball_association,98426086]]"
 operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-headquarters_location: "[[_Standards/WikiData/WD~Lausanne,807]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Lausanne,807]]"
 official_language:
   - "[[_Standards/WikiData/WD~Spanish,1321]]"
   - "[[_Standards/WikiData/WD~English,1860]]"

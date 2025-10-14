@@ -14,7 +14,7 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~common_market_of_the_European_
 described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
 child_organization_unit: "[[_Standards/WikiData/WD~Joint_Information_Service_of_the_European_Community,128765740]]"
 replaced_by: "[[_Standards/WikiData/WD~European_Union,458]]"
-headquarters_location: "[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
 anthem: "[[_Standards/WikiData/WD~Anthem_of_Europe,11993]]"
 instance_of: "[[_Standards/WikiData/WD~organization,43229]]"
 BHCL_UUID: 59419c6c-2a2a-44b0-a75b-49a5a00f30ad

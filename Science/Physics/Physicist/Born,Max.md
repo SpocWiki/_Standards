@@ -123,7 +123,7 @@ place_of_birth: "[[_Standards/WikiData/WD~Wrocław,1799]]"
 languages_spoken_written_or_signed:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~German,188]]"
-work_location: "[[_Standards/WikiData/WD~Göttingen,3033]]"
+work_locations: "[[_Standards/WikiData/WD~Göttingen,3033]]"
 place_of_death: "[[_Standards/WikiData/WD~Göttingen,3033]]"
 ethnic_group: "[[_Standards/WikiData/WD~Jewish_people,7325]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"

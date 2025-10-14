@@ -73,7 +73,7 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_hav
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]"
 place_of_burial: "[[_Standards/WikiData/WD~Phillips_Academy_Cemetery,110469190]]"
 date_of_death: 1896-07-01T00:00:00Z
-work_location: "[[_Standards/WikiData/WD~Florida,812]]"
+work_locations: "[[_Standards/WikiData/WD~Florida,812]]"
 writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 languages_spoken_written_or_signed:
   - "[[_Standards/WikiData/WD~English,1860]]"

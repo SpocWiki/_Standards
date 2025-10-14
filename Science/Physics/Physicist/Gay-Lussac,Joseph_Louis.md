@@ -91,7 +91,7 @@ languages_spoken_written_or_signed:
   - "[[_Standards/WikiData/WD~French,150]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
-work_location: "[[_Standards/WikiData/WD~Paris,90]]"
+work_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
 number_of_children: 5
 Commons_category: Joseph Louis Gay-Lussac

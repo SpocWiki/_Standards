@@ -122,7 +122,7 @@ native_language: "[[_Standards/WikiData/WD~British_English,7979]]"
 member_of_political_party: "[[_Standards/WikiData/WD~Conservative_Party,9626]]"
 cause_of_death: "[[_Standards/WikiData/WD~stroke,12202]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~London,84]]"
+work_locations: "[[_Standards/WikiData/WD~London,84]]"
 height: 165
 spouse: "[[_Standards/WikiData/WD~Denis_Thatcher,46172]]"
 Commons_category: Margaret Thatcher

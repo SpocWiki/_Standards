@@ -55,7 +55,7 @@ operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
 industry: "[[_Standards/WikiData/WD~environment,130370849]]"
 has_characteristic: "[[_Standards/WikiData/WD~United_Nations_General_Consultative_Status,131925847]]"
-headquarters_location: "[[_Standards/WikiData/WD~Amsterdam,727]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Amsterdam,727]]"
 location_of_formation: "[[_Standards/WikiData/WD~Vancouver,24639]]"
 country: "[[_Standards/WikiData/WD~Netherlands,55]]"
 member_count: 3200000

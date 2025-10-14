@@ -19,7 +19,7 @@ World_Heritage_criteria:
 founded_by: "[[_Standards/WikiData/WD~Myanmar,836]]"
 country: "[[_Standards/WikiData/WD~Myanmar,836]]"
 height: 112
-location: "[[_Standards/WikiData/WD~Yangon,37995]]"
+locations: "[[_Standards/WikiData/WD~Yangon,37995]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yangon%20-%20Shwedagon%20Pagoda%2003.jpg
 official_website: http://www.shwedagonpagoda.com.mm/
 Commons_category: Shwedagon pagoda

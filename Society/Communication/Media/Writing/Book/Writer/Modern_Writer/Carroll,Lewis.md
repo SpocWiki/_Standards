@@ -125,7 +125,7 @@ languages_spoken_written_or_signed:
 native_language: "[[_Standards/WikiData/WD~British_English,7979]]"
 cause_of_death: "[[_Standards/WikiData/WD~pneumonia,12192]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~England,21]]"
+work_locations: "[[_Standards/WikiData/WD~England,21]]"
 residence: "[[_Standards/WikiData/WD~England,21]]"
 number_of_children: 0
 employer: "[[_Standards/WikiData/WD~University_of_Oxford,34433]]"

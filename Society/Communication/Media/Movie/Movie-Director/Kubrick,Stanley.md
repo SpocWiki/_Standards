@@ -103,7 +103,7 @@ spouse:
   - "[[_Standards/WikiData/WD~Ruth_Sobotka,3453645]]"
 subreddit: StanleyKubrick
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Stanley_Kubrick,5945278]]"
-work_location: "[[_Standards/WikiData/WD~Hollywood,34006]]"
+work_locations: "[[_Standards/WikiData/WD~Hollywood,34006]]"
 work_period_end_: 1999
 work_period_start_: 1951
 ---

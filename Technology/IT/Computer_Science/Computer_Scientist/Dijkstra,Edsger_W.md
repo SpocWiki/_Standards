@@ -73,7 +73,7 @@ languages_spoken_written_or_signed:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~Dutch,7411]]"
 native_language: "[[_Standards/WikiData/WD~Dutch,7411]]"
-work_location: "[[_Standards/WikiData/WD~Austin,16559]]"
+work_locations: "[[_Standards/WikiData/WD~Austin,16559]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 Erdős_number: 6

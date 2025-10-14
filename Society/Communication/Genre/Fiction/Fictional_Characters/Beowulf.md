@@ -68,7 +68,7 @@ narrative_motif:
   - "[[_Standards/WikiData/WD~dead_placed_on_boat,126877617]]"
 set_in_period: http://www.wikidata.org/.well-known/genid/83c43f507309d51cabd3a317ee4f960f
 copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-narrative_location: "[[_Standards/WikiData/WD~Scandinavia,21195]]"
+narrative_locations: "[[_Standards/WikiData/WD~Scandinavia,21195]]"
 instance_of: "[[_Standards/WikiData/WD~epic_poem,37484]]"
 number_of_parts_of_this_work: 3182
 title:

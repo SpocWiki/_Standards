@@ -27,7 +27,7 @@ official_language:
   - "[[_Standards/WikiData/WD~Spanish,1321]]"
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~Dutch,7411]]"
-headquarters_location: "[[_Standards/WikiData/WD~Georgetown,10717]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Georgetown,10717]]"
 member_count: 15
 social_media_followers: 27136
 inception: 1973-06-04T00:00:00Z

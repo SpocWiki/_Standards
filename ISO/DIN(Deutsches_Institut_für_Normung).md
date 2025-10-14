@@ -23,7 +23,7 @@ industry: "[[_Standards/WikiData/WD~voluntary_sector,1063076]]"
 legal_form: "[[_Standards/WikiData/WD~eingetragener_Verein,9299236]]"
 follows: "[[_Standards/WikiData/WD~Normenausschuß_der_deutschen_Industrie,122705712]]"
 organisation_tax_status: "[[_Standards/WikiData/WD~tax_exempt_under_the_German_Fiscal_Code,131438677]]"
-headquarters_location: "[[_Standards/WikiData/WD~Berlin,64]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Berlin,64]]"
 country: "[[_Standards/WikiData/WD~Germany,183]]"
 member_count: 3518
 Commons_category: Deutsches Institut für Normung

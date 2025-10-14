@@ -46,7 +46,7 @@ founded_by:
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248]]"
 dissolved_abolished_or_demolished_date: 1874-06-01T00:00:00Z
 inception: 1600-12-31T00:00:00Z
-headquarters_location: "[[_Standards/WikiData/WD~London,84]]"
+headquarters_locations: "[[_Standards/WikiData/WD~London,84]]"
 coat_of_arms_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20East%20India%20Company.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20East%20India%20Company%20%281600-1709%29.svg

@@ -131,7 +131,7 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Hegel%20Unterschri
 spouse: "[[_Standards/WikiData/WD~Marie_von_Tucher,22340304]]"
 student: "[[_Standards/WikiData/WD~Max_Stirner,76725]]"
 Wolfram_Language_entity_code: Entity["Person", "GeorgWilhelmFriedrichHegel::t7pq2"]
-work_location: "[[_Standards/WikiData/WD~Berlin,64]]"
+work_locations: "[[_Standards/WikiData/WD~Berlin,64]]"
 work_period_end_: 1831
 work_period_start_: 1788
 writing_language: "[[_Standards/WikiData/WD~German,188]]"

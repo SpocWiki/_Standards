@@ -113,7 +113,7 @@ country_of_citizenship:
   - "[[_Standards/WikiData/WD~United_States,30]]"
   - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 place_of_death: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
-work_location: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+work_locations: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 number_of_children: 4
 height: 160
 Commons_gallery: Elizabeth Taylor

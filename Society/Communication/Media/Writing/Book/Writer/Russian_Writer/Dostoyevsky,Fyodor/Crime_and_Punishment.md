@@ -61,7 +61,7 @@ has_edition_or_translation:
   - "[[_Standards/WikiData/WD~Q117727329,117727329]]"
 publication_date: 1866-01-01T00:00:00Z
 inception: 1865-01-01T00:00:00Z
-narrative_location: "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
+narrative_locations: "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
 author: "[[_Standards/WikiData/WD~Fyodor_Dostoyevsky,991]]"
 language_of_work_or_name: "[[_Standards/WikiData/WD~Russian,7737]]"
 form_of_creative_work: "[[_Standards/WikiData/WD~novel,8261]]"

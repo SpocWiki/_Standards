@@ -13,7 +13,7 @@ symptoms_and_signs:
   - "[[_Standards/WikiData/WD~weight_loss,718113]]"
   - "[[_Standards/WikiData/WD~fatigue,9690]]"
   - "[[_Standards/WikiData/WD~fever,38933]]"
-anatomical_location: "[[_Standards/WikiData/WD~lymph_node,170758]]"
+anatomical_locations: "[[_Standards/WikiData/WD~lymph_node,170758]]"
 drug_or_therapy_used_for_treatment:
   - "[[_Standards/WikiData/WD~cytarabine,180983]]"
   - "[[_Standards/WikiData/WD~mitoxantrone,239426]]"

@@ -32,7 +32,7 @@ languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
 native_language: "[[_Standards/WikiData/WD~English,1860]]"
 place_of_birth: "[[_Standards/WikiData/WD~Glasgow,4093]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+work_locations: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 place_of_death: "[[_Standards/WikiData/WD~Santa_Monica,47164]]"
 Commons_category: Frank Lloyd
 date_of_death: 1960-08-10T00:00:00Z

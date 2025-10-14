@@ -7,7 +7,7 @@ has_id_wikidata: Q659499
 instance_of: "[[_Standards/WikiData/WD~sports_tribunal,2312501]]"
 legal_form: "[[_Standards/WikiData/WD~association,15177651]]"
 operator: "[[_Standards/WikiData/WD~International_Council_of_Arbitration_for_Sport,15820277]]"
-headquarters_location: "[[_Standards/WikiData/WD~Lausanne,807]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Lausanne,807]]"
 country: "[[_Standards/WikiData/WD~Switzerland,39]]"
 founded_by: "[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]"
 short_name:

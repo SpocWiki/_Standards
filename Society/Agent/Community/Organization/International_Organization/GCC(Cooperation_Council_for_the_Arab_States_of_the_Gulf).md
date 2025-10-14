@@ -22,7 +22,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~Qatar,846]]"
   - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
   - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-headquarters_location: "[[_Standards/WikiData/WD~Riyadh,3692]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Riyadh,3692]]"
 official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
 official_observer_status_in_organisation: "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
 social_media_followers: 113954

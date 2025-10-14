@@ -17,7 +17,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~biomaterial,865663]]"
   - "[[_Standards/WikiData/WD~skin_appendage,1239288]]"
   - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
-anatomical_location: "[[_Standards/WikiData/WD~hair_follicle,866324]]"
+anatomical_locations: "[[_Standards/WikiData/WD~hair_follicle,866324]]"
 has_part_s_:
   - "[[_Standards/WikiData/WD~cuticle,1566548]]"
   - "[[_Standards/WikiData/WD~cortex,5173240]]"

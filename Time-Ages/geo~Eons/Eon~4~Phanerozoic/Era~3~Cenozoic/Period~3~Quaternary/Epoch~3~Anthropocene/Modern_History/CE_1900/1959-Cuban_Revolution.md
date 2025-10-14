@@ -7,7 +7,7 @@ participant: "[[_Standards/WikiData/WD~26th_of_July_Movement,218452]]"
 part_of: "[[_Standards/WikiData/WD~history_of_Cuba,473130]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
-location: "[[_Standards/WikiData/WD~Cuba,241]]"
+locations: "[[_Standards/WikiData/WD~Cuba,241]]"
 country: "[[_Standards/WikiData/WD~Cuba,241]]"
 U_S_National_Archives_Identifier: "10640237"
 point_in_time: 1959-01-01T00:00:00Z

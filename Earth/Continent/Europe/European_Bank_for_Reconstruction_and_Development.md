@@ -16,7 +16,7 @@ industry:
   - "[[_Standards/WikiData/WD~international_governmental_or_non_governmental_organizations,107607934]]"
   - "[[_Standards/WikiData/WD~bank,22687]]"
 position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President_of_the_European_Bank_for_Reconstruction_and_Development,131994204]]"
-headquarters_location: "[[_Standards/WikiData/WD~London,84]]"
+headquarters_locations: "[[_Standards/WikiData/WD~London,84]]"
 country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 social_media_followers: 55398
 Commons_category: European Bank for Reconstruction and Development

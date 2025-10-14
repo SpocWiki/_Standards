@@ -15,7 +15,7 @@ participant:
 end_time: 1898-08-11T00:00:00Z
 start_time: 1898-04-25T00:00:00Z
 point_in_time: 1898-01-01T00:00:00Z
-location: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
+locations: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
 instance_of: "[[_Standards/WikiData/WD~war,198]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Maine%20explosion.jpg
 UMLS_CUI: C1449763

@@ -53,7 +53,7 @@ father: "[[_Standards/WikiData/WD~Kurt_Hallervorden,123777311]]"
 mother: "[[_Standards/WikiData/WD~Susanne_Hallervorden,123777341]]"
 member_of_political_party: "[[_Standards/WikiData/WD~Free_Democratic_Party,13124]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Berlin,64]]"
+work_locations: "[[_Standards/WikiData/WD~Berlin,64]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Germany,183]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
 social_media_followers: 16210

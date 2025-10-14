@@ -136,7 +136,7 @@ medical_condition: "[[_Standards/WikiData/WD~tuberculosis,12204]]"
 cause_of_death: "[[_Standards/WikiData/WD~tuberculosis,12204]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
-work_location: "[[_Standards/WikiData/WD~Paris,90]]"
+work_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 social_media_followers: 164000
 Commons_gallery: Frédéric Chopin
 Commons_category: Frédéric Chopin

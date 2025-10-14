@@ -108,7 +108,7 @@ member_of_political_party:
   - "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
 voice_type: "[[_Standards/WikiData/WD~baritone,31687]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~United_States,30]]"
+work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
 country_of_citizenship:
   - "[[_Standards/WikiData/WD~United_States,30]]"
   - "[[_Standards/WikiData/WD~Italy,38]]"

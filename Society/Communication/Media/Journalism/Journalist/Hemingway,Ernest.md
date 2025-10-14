@@ -32,7 +32,7 @@ notable_work:
   - "[[_Standards/WikiData/WD~Hills_Like_White_Elephants,3363263]]"
   - "[[_Standards/WikiData/WD~The_Snows_of_Kilimanjaro,15587387]]"
   - "[[_Standards/WikiData/WD~The_Old_Man_and_the_Sea,26505]]"
-work_location: "[[_Standards/WikiData/WD~Alassio,270482]]"
+work_locations: "[[_Standards/WikiData/WD~Alassio,270482]]"
 residence:
   - "[[_Standards/WikiData/WD~Ernest_Hemingway_House,280171]]"
   - "[[_Standards/WikiData/WD~Key_West,485186]]"

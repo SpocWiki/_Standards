@@ -6,7 +6,7 @@ has_id_wikidata: Q131192
 instance_of:
   - "[[_Standards/WikiData/WD~human_migration,177626]]"
   - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-location: "[[_Standards/WikiData/WD~continental_Europe,466039]]"
+locations: "[[_Standards/WikiData/WD~continental_Europe,466039]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"

@@ -81,7 +81,7 @@ medical_condition: "[[_Standards/WikiData/WD~pneumonia,12192]]"
 member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_location: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+work_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
 number_of_children: 1
 height: 175
 place_of_death: "[[_Standards/WikiData/WD~Kansas_City,41819]]"

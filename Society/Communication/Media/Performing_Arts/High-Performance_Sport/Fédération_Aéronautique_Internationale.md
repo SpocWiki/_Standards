@@ -21,7 +21,7 @@ operating_area:
 industry:
   - "[[_Standards/WikiData/WD~Activities_of_business_and_employers_membership_organisations,29586050]]"
   - "[[_Standards/WikiData/WD~vehicle_construction,107597958]]"
-headquarters_location: "[[_Standards/WikiData/WD~Lausanne,807]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Lausanne,807]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lausanne,807]]"
 official_language:
   - "[[_Standards/WikiData/WD~Spanish,1321]]"

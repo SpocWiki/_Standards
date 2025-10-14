@@ -91,7 +91,7 @@ Wikidata_property:
 field_of_work: "[[_Standards/WikiData/WD~library,7075]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 continent: "[[_Standards/WikiData/WD~North_America,49]]"
-headquarters_location: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
 patronage:
   - 1900000

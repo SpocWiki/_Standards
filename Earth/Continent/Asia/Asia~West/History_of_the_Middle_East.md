@@ -15,7 +15,7 @@ has_part_s_:
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_History_of_the_Middle_East,42351239]]"
 practiced_by: "[[_Standards/WikiData/WD~historian_of_the_Middle_East,100751527]]"
 facet_of: "[[_Standards/WikiData/WD~Middle_East,7204]]"
-location: "[[_Standards/WikiData/WD~Middle_East,7204]]"
+locations: "[[_Standards/WikiData/WD~Middle_East,7204]]"
 Dewey_Decimal_Classification: "956"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ishtar-gate-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20History%20of%20the%20Middle%20East.ogg

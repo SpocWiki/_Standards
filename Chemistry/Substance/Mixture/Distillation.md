@@ -14,7 +14,7 @@ described_by_source:
 subclass_of:
   - "[[_Standards/WikiData/WD~separation_process,898987]]"
   - "[[_Standards/WikiData/WD~chemical_process,2281940]]"
-location: "[[_Standards/WikiData/WD~distillery,1251750]]"
+locations: "[[_Standards/WikiData/WD~distillery,1251750]]"
 different_from: "[[_Standards/WikiData/WD~reduction,1971485]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Distillation,8087474]]"
 practiced_by: "[[_Standards/WikiData/WD~distiller,23924989]]"

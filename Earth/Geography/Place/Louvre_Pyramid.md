@@ -7,7 +7,7 @@ architectural_style: "[[_Standards/WikiData/WD~Egyptian_Revival_architecture,384
 part_of: "[[_Standards/WikiData/WD~Louvre_Palace,1075988]]"
 structural_engineer: "[[_Standards/WikiData/WD~Roger_Nicolet,3439312]]"
 significant_event: "[[_Standards/WikiData/WD~construction,3875186]]"
-location: "[[_Standards/WikiData/WD~Cour_Napoléon,17305087]]"
+locations: "[[_Standards/WikiData/WD~Cour_Napoléon,17305087]]"
 shape: "[[_Standards/WikiData/WD~square_pyramid_with_equilateral_triangle_sides,17370383]]"
 made_from_material:
   - "[[_Standards/WikiData/WD~aluminium,663]]"

@@ -23,8 +23,8 @@ country:
   - "[[_Standards/WikiData/WD~Canada,16]]"
   - "[[_Standards/WikiData/WD~United_States,30]]"
   - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-location: "[[_Standards/WikiData/WD~Oak_Ridge,48809]]"
-headquarters_location: "[[_Standards/WikiData/WD~Oak_Ridge,48809]]"
+locations: "[[_Standards/WikiData/WD~Oak_Ridge,48809]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Oak_Ridge,48809]]"
 Commons_category: Manhattan Project
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Manhattan%20Project%20US%20Canada%20Map%202.svg

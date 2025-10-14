@@ -39,7 +39,7 @@ drug_or_therapy_used_for_treatment:
   - "[[_Standards/WikiData/WD~minocycline,415336]]"
   - "[[_Standards/WikiData/WD~ceftriaxone,421713]]"
   - "[[_Standards/WikiData/WD~flucloxacillin,1994556]]"
-anatomical_location: "[[_Standards/WikiData/WD~meninges,268930]]"
+anatomical_locations: "[[_Standards/WikiData/WD~meninges,268930]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"

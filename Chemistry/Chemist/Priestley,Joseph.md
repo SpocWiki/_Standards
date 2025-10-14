@@ -95,7 +95,7 @@ influenced_by:
   - "[[_Standards/WikiData/WD~Jeremy_Bentham,60887]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 residence: "[[_Standards/WikiData/WD~England,21]]"
-work_location: "[[_Standards/WikiData/WD~Paris,90]]"
+work_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 Commons_Creator_page: Joseph Priestley
 Commons_category: Joseph Priestley
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/PRISTLI_DZHOZEF.html

@@ -147,7 +147,7 @@ residence: "[[_Standards/WikiData/WD~Birmingham,2256]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 number_of_children: 4
-work_location: "[[_Standards/WikiData/WD~Oxford,34217]]"
+work_locations: "[[_Standards/WikiData/WD~Oxford,34217]]"
 place_of_birth: "[[_Standards/WikiData/WD~Bloemfontein,37701]]"
 ethnic_group: "[[_Standards/WikiData/WD~English_people,42406]]"
 Commons_category: J. R. R. Tolkien

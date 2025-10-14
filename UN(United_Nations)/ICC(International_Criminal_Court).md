@@ -30,7 +30,7 @@ field_of_work: "[[_Standards/WikiData/WD~international_criminal_law,1055905]]"
 award_received: "[[_Standards/WikiData/WD~Medal_of_honor_Dag_Hammarskjold,1157157]]"
 member_of: "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
 applies_to_jurisdiction: "[[_Standards/WikiData/WD~States_parties_to_the_Rome_Statute_of_the_International_Criminal_Court,2352420]]"
-location: "[[_Standards/WikiData/WD~ICC_Permanent_Premises,5969441]]"
+locations: "[[_Standards/WikiData/WD~ICC_Permanent_Premises,5969441]]"
 position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President_of_the_International_Criminal_Court,7241113]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
 chairperson: "[[_Standards/WikiData/WD~Tomoko_Akane,60082255]]"
@@ -40,7 +40,7 @@ official_language:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~French,150]]"
 country: "[[_Standards/WikiData/WD~Netherlands,55]]"
-headquarters_location: "[[_Standards/WikiData/WD~The_Hague,36600]]"
+headquarters_locations: "[[_Standards/WikiData/WD~The_Hague,36600]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~The_Hague,36600]]"
 member_count: 125
 social_media_followers:

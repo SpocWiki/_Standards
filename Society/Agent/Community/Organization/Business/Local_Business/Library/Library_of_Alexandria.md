@@ -31,7 +31,7 @@ state_of_conservation: "[[_Standards/WikiData/WD~demolished_or_destroyed,5655691
 dissolved_abolished_or_demolished_date: 0400-01-01T00:00:00Z
 coordinate_location: Point(29.909167 31.208889)
 inception: -0300-01-01T00:00:00Z
-location: "[[_Standards/WikiData/WD~Alexandria,87]]"
+locations: "[[_Standards/WikiData/WD~Alexandria,87]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Alexandria,87]]"
 collection_or_exhibition_size: 1000000
 exact_match:

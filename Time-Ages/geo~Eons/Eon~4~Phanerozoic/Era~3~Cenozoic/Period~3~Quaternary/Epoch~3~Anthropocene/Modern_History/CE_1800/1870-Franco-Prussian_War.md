@@ -24,7 +24,7 @@ order_of_battle: "[[_Standards/WikiData/WD~Franco_Prussian_War_order_of_battle,5
 facet_of: "[[_Standards/WikiData/WD~Germans_in_France,25046339]]"
 end_time: 1871-01-28T00:00:00Z
 start_time: 1870-07-19T00:00:00Z
-location: "[[_Standards/WikiData/WD~France,142]]"
+locations: "[[_Standards/WikiData/WD~France,142]]"
 instance_of: "[[_Standards/WikiData/WD~war,198]]"
 BHCL_UUID: a8e35c2e-deaa-419a-8956-58b0e446ad79
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle-Mars-Le-Tour-large.jpg

@@ -134,7 +134,7 @@ hashtag: TheGambia
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 has_id_wikidata: Q1005
 has_time_started: 1965-01-01
-headquarters_location: "[[_Standards/WikiData/WD~Banjul,3726]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Banjul,3726]]"
 head_of_government: "[[_Standards/WikiData/WD~Adama_Barrow,27917049]]"
 head_of_state: "[[_Standards/WikiData/WD~Adama_Barrow,27917049]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Gambia,1509814]]"

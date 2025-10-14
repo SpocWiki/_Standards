@@ -8,7 +8,7 @@ instance_of: "[[_Standards/WikiData/WD~rebellion,124734]]"
 participant:
   - "[[_Standards/WikiData/WD~Imre_Nagy,177917]]"
   - "[[_Standards/WikiData/WD~State_Protection_Authority,250687]]"
-location: "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410]]"
+locations: "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410]]"
 country: "[[_Standards/WikiData/WD~Hungary,28]]"
 BHCL_UUID: baa37c5d-b648-4f78-89ec-90c8e2831a7b
 U_S_National_Archives_Identifier: "10640868"

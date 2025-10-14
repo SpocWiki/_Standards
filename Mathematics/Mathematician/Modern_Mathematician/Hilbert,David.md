@@ -180,7 +180,7 @@ student:
   - "[[_Standards/WikiData/WD~Wilhelm_Ackermann,61037]]"
   - "[[_Standards/WikiData/WD~Richard_Courant,61046]]"
 Wolfram_Language_entity_code: Entity["Concept", "DavidHilbert::j6254"]
-work_location: "[[_Standards/WikiData/WD~Göttingen,3033]]"
+work_locations: "[[_Standards/WikiData/WD~Göttingen,3033]]"
 writing_language: "[[_Standards/WikiData/WD~German,188]]"
 ---
 

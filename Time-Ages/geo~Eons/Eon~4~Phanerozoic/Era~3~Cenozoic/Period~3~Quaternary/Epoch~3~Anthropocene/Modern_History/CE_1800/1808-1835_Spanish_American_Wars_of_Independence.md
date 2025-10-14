@@ -10,7 +10,7 @@ participant:
   - "[[_Standards/WikiData/WD~Chile,298]]"
   - "[[_Standards/WikiData/WD~Peru,419]]"
   - "[[_Standards/WikiData/WD~Bolivia,750]]"
-location: "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
+locations: "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
 part_of: "[[_Standards/WikiData/WD~Atlantic_Revolutions,3108868]]"
 order_of_battle: "[[_Standards/WikiData/WD~Spanish_expeditionary_army_(Spanish_American_independence)_order_of_battle,7573367]]"
 instance_of:

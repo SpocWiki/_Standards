@@ -18,7 +18,7 @@ official_language:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~French,150]]"
 sport: "[[_Standards/WikiData/WD~auto_racing,5386]]"
-headquarters_location: "[[_Standards/WikiData/WD~Paris,90]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 country: "[[_Standards/WikiData/WD~France,142]]"
 social_media_followers:
   - 222000

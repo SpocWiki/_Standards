@@ -75,7 +75,7 @@ employer: "[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administratio
 member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_location: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+work_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
 time_in_space: 13414
 Commons_gallery: John Glenn
 Commons_category: John Glenn

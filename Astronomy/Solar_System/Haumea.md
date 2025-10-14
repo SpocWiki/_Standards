@@ -19,7 +19,7 @@ time_of_periapsis: 2500350.22915
 mean_anomaly: 221.56788975
 argument_of_periapsis: 240.97484667
 parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
-location: "[[_Standards/WikiData/WD~Solar_System,544]]"
+locations: "[[_Standards/WikiData/WD~Solar_System,544]]"
 instance_of: "[[_Standards/WikiData/WD~dwarf_planet,2199]]"
 minor_planet_group: "[[_Standards/WikiData/WD~trans_Neptunian_object,6592]]"
 color_index:

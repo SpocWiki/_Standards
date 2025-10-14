@@ -102,7 +102,7 @@ languages_spoken_written_or_signed:
 native_language: "[[_Standards/WikiData/WD~Dutch,7411]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-work_location: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+work_locations: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 number_of_children: 2
 height: 170
 social_media_followers: 26130

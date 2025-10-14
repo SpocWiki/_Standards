@@ -13,7 +13,7 @@ industry: "[[_Standards/WikiData/WD~international_governmental_or_non_government
 foundational_text: "[[_Standards/WikiData/WD~Articles_of_Agreement_of_the_International_Development_Association,110559244]]"
 part_of: "[[_Standards/WikiData/WD~World_Bank,7164]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
 member_count: 174
 social_media_followers: 31259
 EU_Corporate_body_code: IDA

@@ -60,7 +60,7 @@ place_of_burial: "[[_Standards/WikiData/WD~Neuer_Friedhof,_Hünfeld,111244257]]"
 family_name: "[[_Standards/WikiData/WD~Zuse,121435468]]"
 field_of_work: "[[_Standards/WikiData/WD~computer_science,21198]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Germany,183]]"
+work_locations: "[[_Standards/WikiData/WD~Germany,183]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Germany,183]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
 Commons_gallery: Konrad Zuse

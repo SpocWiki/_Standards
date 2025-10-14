@@ -7,7 +7,7 @@ part_of:
 manifestation_of:
   - "[[_Standards/WikiData/WD~client_server_model,146813]]"
   - "[[_Standards/WikiData/WD~request_response,7314785]]"
-OSI_Model_layer_location: "[[_Standards/WikiData/WD~application_layer,189768]]"
+OSI_Model_layer_locations: "[[_Standards/WikiData/WD~application_layer,189768]]"
 standards_body:
   - "[[_Standards/WikiData/WD~Internet_Engineering_Task_Force,217082]]"
   - "[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]"

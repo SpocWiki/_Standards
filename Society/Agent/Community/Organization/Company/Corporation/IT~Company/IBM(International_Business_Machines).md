@@ -114,7 +114,7 @@ member_of:
   - "[[_Standards/WikiData/WD~jQuery_Foundation,80656429]]"
   - "[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]"
 different_from: "[[_Standards/WikiData/WD~IBM_international_chess_tournament,501019]]"
-headquarters_location: "[[_Standards/WikiData/WD~Armonk,688830]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Armonk,688830]]"
 industry:
   - "[[_Standards/WikiData/WD~software_industry,880371]]"
   - "[[_Standards/WikiData/WD~computer_industry,1067601]]"

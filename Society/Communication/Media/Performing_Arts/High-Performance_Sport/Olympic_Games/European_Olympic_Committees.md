@@ -62,7 +62,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~organization,43229]]"
 country: "[[_Standards/WikiData/WD~Italy,38]]"
 operating_area: "[[_Standards/WikiData/WD~Europe,46]]"
-headquarters_location: "[[_Standards/WikiData/WD~Rome,220]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Rome,220]]"
 parent_organization: "[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]"
 inception: 1968-01-01T00:00:00Z
 Commons_category: National Olympic Committees

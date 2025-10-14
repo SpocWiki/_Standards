@@ -12,7 +12,7 @@ has_effect: "[[_Standards/WikiData/WD~oil_painting,56676227]]"
 practiced_by: "[[_Standards/WikiData/WD~oil_painter,59924426]]"
 inception: 1433-01-01T00:00:00Z
 subclass_of: "[[_Standards/WikiData/WD~art_of_painting,11629]]"
-location: "[[_Standards/WikiData/WD~London,84]]"
+locations: "[[_Standards/WikiData/WD~London,84]]"
 described_at_URL:
   - https://huyanhdecor.vn/rem-cuon-tranh-3d-dep-889/
   - http://nhadepdanang.com.vn/nha-pho-3-tang-anh-hai

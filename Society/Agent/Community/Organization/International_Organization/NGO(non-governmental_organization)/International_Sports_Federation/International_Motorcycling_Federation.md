@@ -4,7 +4,7 @@ aliases:
   - Fédération Internationale de Motocyclisme
   - FIM
 has_id_wikidata: Q430371
-headquarters_location: "[[_Standards/WikiData/WD~Mies,69329]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Mies,69329]]"
 sport: "[[_Standards/WikiData/WD~motorcycle_sport,328716]]"
 member_of:
   - "[[_Standards/WikiData/WD~Association_of_IOC_Recognised_International_Sports_Federations,744105]]"

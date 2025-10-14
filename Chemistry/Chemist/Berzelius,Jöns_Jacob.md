@@ -94,7 +94,7 @@ position_held: "[[_Standards/WikiData/WD~seat_5_of_the_Swedish_Academy,96600314]
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Swedish_Academy,97576700]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
 date_of_death: 1848-08-07T00:00:00Z
-work_location: "[[_Standards/WikiData/WD~Stockholm,1754]]"
+work_locations: "[[_Standards/WikiData/WD~Stockholm,1754]]"
 field_of_work: "[[_Standards/WikiData/WD~chemistry,2329]]"
 languages_spoken_written_or_signed:
   - "[[_Standards/WikiData/WD~Swedish,9027]]"

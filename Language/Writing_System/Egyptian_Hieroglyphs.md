@@ -20,7 +20,7 @@ script_directionality:
   - "[[_Standards/WikiData/WD~bottom_to_top,17322076]]"
 end_time: 0400-01-01T00:00:00Z
 inception: -3199-01-01T00:00:00Z
-location: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
+locations: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
 language_of_work_or_name: "[[_Standards/WikiData/WD~Egyptian,50868]]"
 ISO_15924_numeric_code: "050"
 name:

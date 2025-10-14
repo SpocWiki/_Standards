@@ -24,7 +24,7 @@ child_organization_unit:
   - "[[_Standards/WikiData/WD~ECO_Science_Foundation,30324560]]"
 country: "[[_Standards/WikiData/WD~Iran,794]]"
 official_language: "[[_Standards/WikiData/WD~English,1860]]"
-headquarters_location: "[[_Standards/WikiData/WD~Tehran,3616]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Tehran,3616]]"
 official_observer_status_in_organization:
   - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
   - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"

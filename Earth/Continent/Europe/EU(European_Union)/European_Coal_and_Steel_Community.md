@@ -19,7 +19,7 @@ child_organization_unit: "[[_Standards/WikiData/WD~Joint_Information_Service_of_
 replaced_by: "[[_Standards/WikiData/WD~European_Union,458]]"
 part_of: "[[_Standards/WikiData/WD~European_Union,458]]"
 followed_by: "[[_Standards/WikiData/WD~European_Union,458]]"
-headquarters_location: "[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
 BHCL_UUID: 97f281a3-b5d6-4d3d-873e-8944fefa160d
 service_entry: 1952-07-23T00:00:00Z
 inception: 1951-04-18T00:00:00Z

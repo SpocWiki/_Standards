@@ -93,7 +93,7 @@ academic_thesis: "[[_Standards/WikiData/WD~Q109407244,109407244]]"
 languages_spoken_written_or_signed:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~German,188]]"
-work_location: "[[_Standards/WikiData/WD~Tübingen,3806]]"
+work_locations: "[[_Standards/WikiData/WD~Tübingen,3806]]"
 place_of_birth: "[[_Standards/WikiData/WD~Strasbourg,6602]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
 ethnic_group: "[[_Standards/WikiData/WD~Jewish_people,7325]]"

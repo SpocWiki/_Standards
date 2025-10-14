@@ -79,7 +79,7 @@ described_by_source:
 capital: "[[_Standards/WikiData/WD~Free_City_of_Frankfurt,704300]]"
 dissolved_abolished_or_demolished_date: 1866-08-24T00:00:00Z
 coordinate_location: Point(8.675 50.108)
-headquarters_location: "[[_Standards/WikiData/WD~Frankfurt,1794]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Frankfurt,1794]]"
 follows: "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
 continent: "[[_Standards/WikiData/WD~Europe,46]]"
 official_language: "[[_Standards/WikiData/WD~German,188]]"

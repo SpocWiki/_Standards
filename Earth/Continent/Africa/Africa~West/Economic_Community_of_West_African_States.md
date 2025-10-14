@@ -54,7 +54,7 @@ official_language:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~Portuguese,5146]]"
   - "[[_Standards/WikiData/WD~French,150]]"
-headquarters_location: "[[_Standards/WikiData/WD~Abuja,3787]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Abuja,3787]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~West_Africa,4412]]"
 social_media_followers: 113836
 inception: 1975-05-28T00:00:00Z

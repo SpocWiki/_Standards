@@ -135,7 +135,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
   - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
 capital: "[[_Standards/WikiData/WD~Minsk,2280]]"
-headquarters_location: "[[_Standards/WikiData/WD~Minsk,2280]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Minsk,2280]]"
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Eurasia,5401]]"
 official_language: "[[_Standards/WikiData/WD~Russian,7737]]"
 based_on: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"

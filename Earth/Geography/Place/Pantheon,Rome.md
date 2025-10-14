@@ -30,7 +30,7 @@ has_use:
   - "[[_Standards/WikiData/WD~Catholic_church_building,1088552]]"
   - "[[_Standards/WikiData/WD~museum_building,24699794]]"
 culture: "[[_Standards/WikiData/WD~culture_of_ancient_Rome,1200427]]"
-location: "[[_Standards/WikiData/WD~Pigna,1329671]]"
+locations: "[[_Standards/WikiData/WD~Pigna,1329671]]"
 different_from:
   - "[[_Standards/WikiData/WD~pantheon,1407042]]"
   - "[[_Standards/WikiData/WD~Pantheon,3409611]]"

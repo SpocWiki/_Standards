@@ -19,7 +19,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~Russia,159]]"
   - "[[_Standards/WikiData/WD~Belarus,184]]"
   - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
-headquarters_location: "[[_Standards/WikiData/WD~Moscow,649]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Moscow,649]]"
 official_observer_status_in_organization: "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
 short_name:
   - EAEU

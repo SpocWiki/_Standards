@@ -47,7 +47,7 @@ spouse: "[[_Standards/WikiData/WD~Gertrud_Jaspers,77597812]]"
 sibling: "[[_Standards/WikiData/WD~Erna_Margarete_Dugend,94743315]]"
 date_of_birth: 1883-02-23T00:00:00Z
 place_of_birth: "[[_Standards/WikiData/WD~Oldenburg,2936]]"
-work_location: "[[_Standards/WikiData/WD~Heidelberg,2966]]"
+work_locations: "[[_Standards/WikiData/WD~Heidelberg,2966]]"
 field_of_work: "[[_Standards/WikiData/WD~philosophy,5891]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship:

@@ -44,7 +44,7 @@ topic_has_template:
   - "[[_Standards/WikiData/WD~Template_Jews_and_Judaism_sidebar,10585494]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Judaism,9083667]]"
 operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-location: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+locations: "[[_Standards/WikiData/WD~worldwide,13780930]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Jewish_religion,16867629]]"
 studied_by:
   - "[[_Standards/WikiData/WD~sociology_of_Jewry,17020144]]"

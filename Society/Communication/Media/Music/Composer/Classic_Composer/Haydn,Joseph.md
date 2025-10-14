@@ -87,7 +87,7 @@ date_of_birth: 1732-03-31T00:00:00Z
 instrument:
   - "[[_Standards/WikiData/WD~organ,1444]]"
   - "[[_Standards/WikiData/WD~piano,5994]]"
-work_location: "[[_Standards/WikiData/WD~Vienna,1741]]"
+work_locations: "[[_Standards/WikiData/WD~Vienna,1741]]"
 place_of_death: "[[_Standards/WikiData/WD~Vienna,1741]]"
 genre: "[[_Standards/WikiData/WD~classical_music,9730]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"

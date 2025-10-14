@@ -53,7 +53,7 @@ country_of_citizenship:
   - "[[_Standards/WikiData/WD~Sweden,34]]"
 place_of_death: "[[_Standards/WikiData/WD~New_York_City,60]]"
 field_of_work: "[[_Standards/WikiData/WD~actor,33999]]"
-work_location: "[[_Standards/WikiData/WD~Hollywood,34006]]"
+work_locations: "[[_Standards/WikiData/WD~Hollywood,34006]]"
 sexual_orientation: "[[_Standards/WikiData/WD~bisexuality,43200]]"
 Commons_category: Greta Garbo
 Commons_gallery: Greta Garbo

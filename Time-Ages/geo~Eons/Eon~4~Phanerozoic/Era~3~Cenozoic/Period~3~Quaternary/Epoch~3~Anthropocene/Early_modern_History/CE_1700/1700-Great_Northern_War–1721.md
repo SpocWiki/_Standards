@@ -28,7 +28,7 @@ described_by_source:
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Eesti_1000,57005414]]"
 end_time: 1721-09-10T00:00:00Z
 start_time: 1700-02-22T00:00:00Z
-location: "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
+locations: "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
 instance_of: "[[_Standards/WikiData/WD~war,198]]"
 BHCL_UUID: f2e67da7-1ca6-4c26-88ef-ff2577200fc1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Narva%20%28Gustaf%20Cederstr%C3%B6m%29%20-%20Nationalmuseum%20-%2018638.tif

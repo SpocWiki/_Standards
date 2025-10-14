@@ -22,7 +22,7 @@ topic_has_template: "[[_Standards/WikiData/WD~Q13601405,13601405]]"
 instance_of:
   - "[[_Standards/WikiData/WD~dissolution_of_an_administrative_territorial_entity,18603729]]"
   - "[[_Standards/WikiData/WD~end_cause,22087155]]"
-location: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+locations: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 country: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 coordinate_location: Point(90.0 65.0)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RIAN%20archive%20140800%20Signing%20of%20Protocol%20on%20Establishing%20Commonwealth%20of%20Independent%20States.jpg

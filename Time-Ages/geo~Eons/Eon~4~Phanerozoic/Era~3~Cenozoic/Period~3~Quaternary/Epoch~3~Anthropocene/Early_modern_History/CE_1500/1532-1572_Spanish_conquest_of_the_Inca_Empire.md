@@ -7,7 +7,7 @@ participant:
   - "[[_Standards/WikiData/WD~Inca_civilization,3404008]]"
   - "[[_Standards/WikiData/WD~Francisco_Pizarro,44741]]"
 end_time: 1572-01-01T00:00:00Z
-location: "[[_Standards/WikiData/WD~Inca_Empire,28573]]"
+locations: "[[_Standards/WikiData/WD~Inca_Empire,28573]]"
 point_in_time: 1532-01-01T00:00:00Z
 start_time: 1532-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Inca-Spanish%20confrontation.JPG

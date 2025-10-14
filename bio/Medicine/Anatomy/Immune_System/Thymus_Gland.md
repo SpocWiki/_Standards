@@ -6,7 +6,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-anatomical_location: "[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]"
+anatomical_locations: "[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~lymphoid_tissue,3529455]]"
   - "[[_Standards/WikiData/WD~corticomedullary_organ,66545290]]"

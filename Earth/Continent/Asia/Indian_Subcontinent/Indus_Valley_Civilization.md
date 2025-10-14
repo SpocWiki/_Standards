@@ -18,7 +18,7 @@ end_time: -1799-01-01T00:00:00Z
 coordinate_location: Point(68.138889 27.329167)
 country: "[[_Standards/WikiData/WD~Pakistan,843]]"
 named_after: "[[_Standards/WikiData/WD~Indus_River,7348]]"
-location: "[[_Standards/WikiData/WD~Indian_subcontinent,60140]]"
+locations: "[[_Standards/WikiData/WD~Indian_subcontinent,60140]]"
 Library_of_Congress_Classification: DS425
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dancing%20Girl%20of%20Mohenjo-daro.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Indus%20Valley%20Civilisation%20banner.jpg

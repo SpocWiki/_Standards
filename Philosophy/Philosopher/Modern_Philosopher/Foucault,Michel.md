@@ -109,7 +109,7 @@ sexual_orientation: "[[_Standards/WikiData/WD~homosexuality,6636]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
 cause_of_death: "[[_Standards/WikiData/WD~disease,12136]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~France,142]]"
+work_locations: "[[_Standards/WikiData/WD~France,142]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
 writing_language: "[[_Standards/WikiData/WD~French,150]]"
 languages_spoken_written_or_signed:

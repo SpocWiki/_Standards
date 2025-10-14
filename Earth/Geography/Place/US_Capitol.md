@@ -56,7 +56,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~United_States_Senate_chamber,7891361]]"
   - "[[_Standards/WikiData/WD~United_States_Senate_Reception_Room,30637857]]"
 different_from: "[[_Standards/WikiData/WD~Kapitol,1034683]]"
-location: "[[_Standards/WikiData/WD~Capitol_Hill,2305815]]"
+locations: "[[_Standards/WikiData/WD~Capitol_Hill,2305815]]"
 visitor_center: "[[_Standards/WikiData/WD~United_States_Capitol_Visitor_Center,2495308]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"

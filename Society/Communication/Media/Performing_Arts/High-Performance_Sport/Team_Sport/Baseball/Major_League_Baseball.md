@@ -20,7 +20,7 @@ sport: "[[_Standards/WikiData/WD~baseball,5369]]"
 country:
   - "[[_Standards/WikiData/WD~Canada,16]]"
   - "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+headquarters_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
 season_starts: "[[_Standards/WikiData/WD~April,118]]"
 season_ends: "[[_Standards/WikiData/WD~October,124]]"
 event_interval: 1

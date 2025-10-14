@@ -44,7 +44,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~I_Love_Lucy,_season_3,97171912]]"
 original_language_of_film_or_TV_show: "[[_Standards/WikiData/WD~English,1860]]"
 country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-narrative_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+narrative_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
 number_of_seasons: 6
 duration: 24
 number_of_episodes: 181

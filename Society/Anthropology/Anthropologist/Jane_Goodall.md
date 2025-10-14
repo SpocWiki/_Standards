@@ -37,7 +37,7 @@ award_received:
   - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Miami,110471679]]"
   - "[[_Standards/WikiData/WD~Gold_Medal_of_the_Society_of_Woman_Geographers,110939855]]"
   - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
-work_location: "[[_Standards/WikiData/WD~Bournemouth,170478]]"
+work_locations: "[[_Standards/WikiData/WD~Bournemouth,170478]]"
 field_of_work: "[[_Standards/WikiData/WD~activism,203764]]"
 medical_condition: "[[_Standards/WikiData/WD~prosopagnosia,244438]]"
 student_of: "[[_Standards/WikiData/WD~Robert_Hinde,321842]]"

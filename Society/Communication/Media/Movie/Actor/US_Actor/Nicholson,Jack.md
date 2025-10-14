@@ -69,7 +69,7 @@ languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
 native_language: "[[_Standards/WikiData/WD~American_English,7976]]"
 member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~United_States,30]]"
+work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
 height: 177
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/NIKOLSON_DZHEK.html

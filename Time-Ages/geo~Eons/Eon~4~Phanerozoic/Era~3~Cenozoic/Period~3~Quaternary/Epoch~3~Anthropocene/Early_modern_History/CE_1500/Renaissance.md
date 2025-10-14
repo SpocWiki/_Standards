@@ -19,7 +19,7 @@ topic_has_template:
 different_from: "[[_Standards/WikiData/WD~Renaissance,13400700]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Renaissance,13830551]]"
 studied_by: "[[_Standards/WikiData/WD~Renaissance_studies,25111456]]"
-location: "[[_Standards/WikiData/WD~Europe,46]]"
+locations: "[[_Standards/WikiData/WD~Europe,46]]"
 subject_named_as: Renaissance
 Commons_gallery: Renaissance
 Commons_category: Renaissance

@@ -12,7 +12,7 @@ subclass_of: "[[_Standards/WikiData/WD~regional_organization,4120211]]"
 followed_by: "[[_Standards/WikiData/WD~Eurasian_Economic_Union,4173083]]"
 location_of_formation: "[[_Standards/WikiData/WD~Astana,1520]]"
 named_after: "[[_Standards/WikiData/WD~Eurasia,5401]]"
-headquarters_location: "[[_Standards/WikiData/WD~Almaty,35493]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Almaty,35493]]"
 Commons_category: Eurasian Economic Community
 inception: 2000-10-10T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Commonwealth%20of%20Independent%20States%20Eurasian%20Economic%20Community.svg

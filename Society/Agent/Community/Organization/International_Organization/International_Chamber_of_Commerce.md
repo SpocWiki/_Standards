@@ -16,7 +16,7 @@ located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~16th
 chairperson: "[[_Standards/WikiData/WD~Philippe_Varin,1370124]]"
 archives_at: "[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]"
 located_on_street: "[[_Standards/WikiData/WD~avenue_du_Président_Wilson,2874189]]"
-headquarters_location: "[[_Standards/WikiData/WD~Palais_d'Iéna,3360957]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Palais_d'Iéna,3360957]]"
 founded_by: "[[_Standards/WikiData/WD~Étienne_Clémentel,3592114]]"
 coordinate_location: Point(2.292307 48.864112)
 country: "[[_Standards/WikiData/WD~France,142]]"

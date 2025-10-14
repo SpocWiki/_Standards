@@ -89,7 +89,7 @@ on_focus_list_of_Wikimedia_project:
 father: "[[_Standards/WikiData/WD~Reijnier_Janszoon_Vermeer,116468478]]"
 mother: "[[_Standards/WikiData/WD~Digna_Baltus,116468483]]"
 owner_of: "[[_Standards/WikiData/WD~Mechelen,130395200]]"
-work_location: "[[_Standards/WikiData/WD~Delft,690]]"
+work_locations: "[[_Standards/WikiData/WD~Delft,690]]"
 residence: "[[_Standards/WikiData/WD~Delft,690]]"
 place_of_death: "[[_Standards/WikiData/WD~Delft,690]]"
 place_of_birth: "[[_Standards/WikiData/WD~Delft,690]]"

@@ -103,7 +103,7 @@ field_of_work: "[[_Standards/WikiData/WD~theoretical_physics,18362]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
-work_location: "[[_Standards/WikiData/WD~Leiden,43631]]"
+work_locations: "[[_Standards/WikiData/WD~Leiden,43631]]"
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/LORENTS_HENDRIK_ANTON.html
 name_in_native_language: Hendrik Antoon Lorentz
 birth_name: Hendrik Antoon Lorentz

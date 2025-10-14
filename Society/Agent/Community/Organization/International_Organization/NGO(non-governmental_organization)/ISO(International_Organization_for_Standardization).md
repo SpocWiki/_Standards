@@ -30,7 +30,7 @@ official_language:
   - "[[_Standards/WikiData/WD~Russian,7737]]"
   - "[[_Standards/WikiData/WD~French,150]]"
 country: "[[_Standards/WikiData/WD~Switzerland,39]]"
-headquarters_location: "[[_Standards/WikiData/WD~Geneva,71]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Geneva,71]]"
 member_count: 165
 social_media_followers:
   - 34100

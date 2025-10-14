@@ -61,7 +61,7 @@ described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
 chief_executive_officer: "[[_Standards/WikiData/WD~Christos_Christou,100185256]]"
 has_characteristic: "[[_Standards/WikiData/WD~United_Nations_General_Consultative_Status,131925847]]"
 country: "[[_Standards/WikiData/WD~Switzerland,39]]"
-headquarters_location: "[[_Standards/WikiData/WD~Geneva,71]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Geneva,71]]"
 total_revenue: 1901707000
 inception: 1971-12-21T00:00:00Z
 official_donation_page_URL: https://www.msf.org/donate

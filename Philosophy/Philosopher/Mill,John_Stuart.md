@@ -77,7 +77,7 @@ native_language: "[[_Standards/WikiData/WD~English,1860]]"
 place_of_death: "[[_Standards/WikiData/WD~Avignon,6397]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~London,84]]"
+work_locations: "[[_Standards/WikiData/WD~London,84]]"
 student_of: "[[_Standards/WikiData/WD~Jeremy_Bentham,60887]]"
 Commons_gallery: John Stuart Mill
 Commons_category: John Stuart Mill

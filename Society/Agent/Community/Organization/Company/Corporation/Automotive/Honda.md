@@ -31,7 +31,7 @@ location_of_formation: "[[_Standards/WikiData/WD~Hamamatsu,185125]]"
 industry:
   - "[[_Standards/WikiData/WD~manufacturing,187939]]"
   - "[[_Standards/WikiData/WD~automotive_industry,190117]]"
-headquarters_location: "[[_Standards/WikiData/WD~Minato,190088]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Minato,190088]]"
 stock_exchange:
   - "[[_Standards/WikiData/WD~Tokyo_Stock_Exchange,217475]]"
   - "[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]"

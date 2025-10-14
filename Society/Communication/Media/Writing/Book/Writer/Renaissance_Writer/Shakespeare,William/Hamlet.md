@@ -171,7 +171,7 @@ author: "[[_Standards/WikiData/WD~William_Shakespeare,692]]"
 copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
 form_of_creative_work: "[[_Standards/WikiData/WD~play,25379]]"
 country_of_origin: "[[_Standards/WikiData/WD~England,21]]"
-narrative_location: "[[_Standards/WikiData/WD~Denmark,35]]"
+narrative_locations: "[[_Standards/WikiData/WD~Denmark,35]]"
 number_of_parts_of_this_work: 5
 short_name: Hamlet
 Commons_category: Hamlet

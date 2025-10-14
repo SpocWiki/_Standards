@@ -46,7 +46,7 @@ genre:
   - "[[_Standards/WikiData/WD~rock_music,11399]]"
 voice_type: "[[_Standards/WikiData/WD~baritone,31687]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+work_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 social_media_followers: 350000
 height: 1.74

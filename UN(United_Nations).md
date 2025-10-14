@@ -112,7 +112,7 @@ has_subsidiary:
 - "[[_Standards/WikiData/WD~Special_Adviser_on_Africa,117383815]]"
 - "[[_Standards/WikiData/WD~United_Nations_Integrated_Office_in_Haiti,123083984]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+headquarters_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
 replaces: "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
 award_received:
 - "[[_Standards/WikiData/WD~Sakharov_Prize,48786]]"

@@ -10,7 +10,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Guam,16635]]"
 general_secretary: "[[_Standards/WikiData/WD~Altay_Efendiyev,20556579]]"
 coordinate_location: Point(30.5217 50.4515)
-headquarters_location: "[[_Standards/WikiData/WD~Kyiv,1899]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Kyiv,1899]]"
 location_of_formation: "[[_Standards/WikiData/WD~Strasbourg,6602]]"
 official_language: "[[_Standards/WikiData/WD~Russian,7737]]"
 official_observer_status_in_organization: "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"

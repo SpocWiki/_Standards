@@ -11,7 +11,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~lymph_node_disease,18558262]]"
   - "[[_Standards/WikiData/WD~disease,12136]]"
 has_cause: "[[_Standards/WikiData/WD~Yersinia_pestis,153875]]"
-anatomical_location: "[[_Standards/WikiData/WD~lymph_node,170758]]"
+anatomical_locations: "[[_Standards/WikiData/WD~lymph_node,170758]]"
 drug_or_therapy_used_for_treatment:
   - "[[_Standards/WikiData/WD~ciprofloxacin,256602]]"
   - "[[_Standards/WikiData/WD~doxycycline,422442]]"

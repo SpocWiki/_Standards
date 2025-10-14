@@ -52,7 +52,7 @@ field_of_work: "[[_Standards/WikiData/WD~pedagogy,7922]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 number_of_children: 1
-work_location: "[[_Standards/WikiData/WD~Rome,220]]"
+work_locations: "[[_Standards/WikiData/WD~Rome,220]]"
 Libris_URI: gdsw094031j2phr
 Commons_category: Maria Montessori
 name_in_native_language: Maria Montessori

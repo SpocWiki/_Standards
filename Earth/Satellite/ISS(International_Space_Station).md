@@ -37,7 +37,7 @@ operator:
   - "[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]"
   - "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
 type_of_orbit: "[[_Standards/WikiData/WD~low_Earth_orbit,663611]]"
-location: "[[_Standards/WikiData/WD~low_Earth_orbit,663611]]"
+locations: "[[_Standards/WikiData/WD~low_Earth_orbit,663611]]"
 significant_event: "[[_Standards/WikiData/WD~rocket_launch,797476]]"
 replaces: "[[_Standards/WikiData/WD~Space_Station_Freedom,906917]]"
 instance_of:

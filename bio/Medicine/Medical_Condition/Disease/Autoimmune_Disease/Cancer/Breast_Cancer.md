@@ -109,7 +109,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
   - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
 studied_by: "[[_Standards/WikiData/WD~breast_cancer_research,114737348]]"
-anatomical_location: "[[_Standards/WikiData/WD~female_breast,9103]]"
+anatomical_locations: "[[_Standards/WikiData/WD~female_breast,9103]]"
 DiseasesDB: "1598"
 OmegaWiki_Defined_Meaning: "859846"
 ICD_10_CM:

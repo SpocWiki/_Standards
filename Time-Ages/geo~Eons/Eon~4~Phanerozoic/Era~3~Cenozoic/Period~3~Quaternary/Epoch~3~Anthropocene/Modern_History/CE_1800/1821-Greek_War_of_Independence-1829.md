@@ -13,7 +13,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 significant_event: "[[_Standards/WikiData/WD~Q18415361,18415361]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q106222861,106222861]]"
-location: "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
+locations: "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
 end_time: 1829-01-01T00:00:00Z
 start_time: 1821-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dupre-Salona-1821.jpg

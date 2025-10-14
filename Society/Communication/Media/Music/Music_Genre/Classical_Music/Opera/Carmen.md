@@ -50,7 +50,7 @@ production_date: 1874-01-01T00:00:00Z
 publication_date: 1850-01-01T00:00:00Z
 form_of_creative_work: "[[_Standards/WikiData/WD~opera,1344]]"
 copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-narrative_location: "[[_Standards/WikiData/WD~Spain,29]]"
+narrative_locations: "[[_Standards/WikiData/WD~Spain,29]]"
 language_of_work_or_name: "[[_Standards/WikiData/WD~French,150]]"
 number_of_parts_of_this_work: 4
 composer: "[[_Standards/WikiData/WD~Georges_Bizet,56158]]"

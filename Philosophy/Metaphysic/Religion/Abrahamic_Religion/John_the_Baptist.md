@@ -86,7 +86,7 @@ birthday: "[[_Standards/WikiData/WD~June_24,2665]]"
 feast_day: "[[_Standards/WikiData/WD~June_24,2665]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
 ethnic_group: "[[_Standards/WikiData/WD~Jewish_people,7325]]"
-work_location: "[[_Standards/WikiData/WD~Palestine,23792]]"
+work_locations: "[[_Standards/WikiData/WD~Palestine,23792]]"
 position_held: "[[_Standards/WikiData/WD~prophet,42857]]"
 student: "[[_Standards/WikiData/WD~historical_Jesus,51666]]"
 BHCL_UUID: f4661317-3d34-41c3-84b8-9e7bf64dfa45

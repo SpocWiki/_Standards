@@ -201,7 +201,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Bible,28220763]]"
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~book_of_the_Bible,29154430]]"
 references_work_tradition_or_theory: "[[_Standards/WikiData/WD~purity_of_the_heart,110819521]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
-narrative_location: "[[_Standards/WikiData/WD~Middle_East,7204]]"
+narrative_locations: "[[_Standards/WikiData/WD~Middle_East,7204]]"
 social_media_followers: 791000
 Dewey_Decimal_Classification: "220"
 Dewey_Decimal_Classification_works_and_editions_: "220"

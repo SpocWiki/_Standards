@@ -122,7 +122,7 @@ chief_executive_officer: "[[_Standards/WikiData/WD~Kelly_Ortberg,109767256]]"
 has_characteristic: "[[_Standards/WikiData/WD~Fortune_500_companies_who_have_provided_financial_support_to_members_of_Congress_who_sought_to_invalidate_the_2020_presidential_election_results,115015131]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_University_of_Toronto_Libraries_Canadian_Business_Archives,116447786]]"
 total_equity: -17230000000
-headquarters_location: "[[_Standards/WikiData/WD~Chicago,1297]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Chicago,1297]]"
 location_of_formation: "[[_Standards/WikiData/WD~Seattle,5083]]"
 Legal_Entity_Identifier: RVHJWBXLJ1RFUBSY1F30
 ISIN: US0970231058

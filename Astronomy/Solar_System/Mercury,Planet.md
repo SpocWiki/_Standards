@@ -57,7 +57,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~inner_planet_of_the_Solar_System,3504248]]"
   - "[[_Standards/WikiData/WD~inferior_planet,3901935]]"
 IPA_transcription: mɛʁˈkuːɐ̯
-location: "[[_Standards/WikiData/WD~inner_Solar_System,7879772]]"
+locations: "[[_Standards/WikiData/WD~inner_Solar_System,7879772]]"
 longitude_of_ascending_node: 48.33076593
 magnetic_moment: 40000000000000000000
 mass: 330

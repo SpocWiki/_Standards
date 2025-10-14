@@ -5,7 +5,7 @@ aliases:
   - Laboratory equipment
 has_id_wikidata: Q834028
 part_of: "[[_Standards/WikiData/WD~laboratory,483242]]"
-location: "[[_Standards/WikiData/WD~laboratory,483242]]"
+locations: "[[_Standards/WikiData/WD~laboratory,483242]]"
 operator: "[[_Standards/WikiData/WD~laboratory_technician,1483433]]"
 has_use: "[[_Standards/WikiData/WD~laboratory_experiment,1799493]]"
 topic_has_template:

@@ -10,7 +10,7 @@ instance_of:
 replaces: "[[_Standards/WikiData/WD~Prussian_Secret_Police,480016]]"
 follows: "[[_Standards/WikiData/WD~Prussian_Secret_Police,480016]]"
 different_from: "[[_Standards/WikiData/WD~Geheime_Feldpolizei,548226]]"
-headquarters_location: "[[_Standards/WikiData/WD~Prinz_Albrecht_Palais,2110526]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Prinz_Albrecht_Palais,2110526]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 has_part_s_: "[[_Standards/WikiData/WD~Q133575633,133575633]]"

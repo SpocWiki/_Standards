@@ -94,7 +94,7 @@ publication_date: 1592-01-01T00:00:00Z
 form_of_creative_work: "[[_Standards/WikiData/WD~novel,8261]]"
 country_of_origin: "[[_Standards/WikiData/WD~Ming_dynasty,9903]]"
 copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-narrative_location: "[[_Standards/WikiData/WD~China,29520]]"
+narrative_locations: "[[_Standards/WikiData/WD~China,29520]]"
 number_of_parts_of_this_work: 100
 depicts: "[[_Standards/WikiData/WD~Xuanzang,42063]]"
 title: 西遊記

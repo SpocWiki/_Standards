@@ -15,7 +15,7 @@ on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medici
 instance_of:
   - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
   - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-anatomical_location: "[[_Standards/WikiData/WD~cardiovascular_system,13168533]]"
+anatomical_locations: "[[_Standards/WikiData/WD~cardiovascular_system,13168533]]"
 genetic_association:
   - "[[_Standards/WikiData/WD~LDLR,14872724]]"
   - "[[_Standards/WikiData/WD~APOB,14890615]]"

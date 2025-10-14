@@ -63,7 +63,7 @@ languages_spoken_written_or_signed:
   - "[[_Standards/WikiData/WD~English,1860]]"
   - "[[_Standards/WikiData/WD~Swedish,9027]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Sweden,34]]"
+work_locations: "[[_Standards/WikiData/WD~Sweden,34]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Sweden,34]]"
 place_of_death: "[[_Standards/WikiData/WD~London,84]]"
 height: 175

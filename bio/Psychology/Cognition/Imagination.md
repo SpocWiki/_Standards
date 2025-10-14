@@ -8,7 +8,7 @@ has_use:
   - "[[_Standards/WikiData/WD~creativity,170658]]"
   - "[[_Standards/WikiData/WD~fantasy,1356411]]"
   - "[[_Standards/WikiData/WD~mental_representation,112040407]]"
-location: "[[_Standards/WikiData/WD~human_brain,492038]]"
+locations: "[[_Standards/WikiData/WD~human_brain,492038]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"

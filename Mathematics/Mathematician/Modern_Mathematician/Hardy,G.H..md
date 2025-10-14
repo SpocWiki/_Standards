@@ -107,7 +107,7 @@ date_of_birth: 1877-02-07T00:00:00Z
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%97%E0%A5%89%E0%A4%A1%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%87%20%E0%A4%B9%E0%A5%85%E0%A4%B0%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%A1%20%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A5%80.wav
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~England,21]]"
+work_locations: "[[_Standards/WikiData/WD~England,21]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 Erdős_number: 2
 employer:

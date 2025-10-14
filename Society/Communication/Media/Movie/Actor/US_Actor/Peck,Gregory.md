@@ -83,7 +83,7 @@ place_of_birth: "[[_Standards/WikiData/WD~San_Diego,16552]]"
 member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_location: "[[_Standards/WikiData/WD~United_States,30]]"
+work_locations: "[[_Standards/WikiData/WD~United_States,30]]"
 place_of_death: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
 Commons_gallery: Gregory Peck
 Commons_category: Gregory Peck

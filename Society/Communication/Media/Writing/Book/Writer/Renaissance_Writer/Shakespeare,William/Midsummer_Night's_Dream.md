@@ -86,7 +86,7 @@ manifestation_of: "[[_Standards/WikiData/WD~Pyramus_and_Thisbe,135403608]]"
 publication_date: 1600-01-01T00:00:00Z
 inception: 1595-01-01T00:00:00Z
 author: "[[_Standards/WikiData/WD~William_Shakespeare,692]]"
-narrative_location: "[[_Standards/WikiData/WD~Athens,1524]]"
+narrative_locations: "[[_Standards/WikiData/WD~Athens,1524]]"
 language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
 form_of_creative_work: "[[_Standards/WikiData/WD~play,25379]]"
 title: A Midsummer Night's Dream

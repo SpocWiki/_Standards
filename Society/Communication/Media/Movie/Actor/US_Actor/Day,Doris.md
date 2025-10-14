@@ -66,7 +66,7 @@ cause_of_death: "[[_Standards/WikiData/WD~pneumonia,12192]]"
 member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_location: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
+work_locations: "[[_Standards/WikiData/WD~Los_Angeles,65]]"
 residence: "[[_Standards/WikiData/WD~Cincinnati,43196]]"
 place_of_birth: "[[_Standards/WikiData/WD~Cincinnati,43196]]"
 Libris_URI: sq47fpfb1dtnnc4

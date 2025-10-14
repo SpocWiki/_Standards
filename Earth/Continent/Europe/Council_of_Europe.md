@@ -31,7 +31,7 @@ board_member:
 owner_of:
   - "[[_Standards/WikiData/WD~Palace_of_Europe,465591]]"
   - "[[_Standards/WikiData/WD~European_Court_of_Human_Rights_building,5412477]]"
-headquarters_location: "[[_Standards/WikiData/WD~Palace_of_Europe,465591]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Palace_of_Europe,465591]]"
 position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Secretary_General_of_the_Council_of_Europe,2942251]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Council_of_Europe,7658199]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"

@@ -10,7 +10,7 @@ different_from:
 topic_has_template: "[[_Standards/WikiData/WD~Template_Country_data_Comecon,8550649]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
-headquarters_location: "[[_Standards/WikiData/WD~Moscow,649]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Moscow,649]]"
 BHCL_UUID:
   - 54e076fb-06f8-4ba2-8ebe-543534736c16
   - ebb84fa3-2389-4d89-967d-c134550510c4

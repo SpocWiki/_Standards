@@ -42,7 +42,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~jurist,185351]]"
   - "[[_Standards/WikiData/WD~judicial_officer,6302990]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~qadi,217029]]"
-work_location: "[[_Standards/WikiData/WD~courtroom,939726]]"
+work_locations: "[[_Standards/WikiData/WD~courtroom,939726]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"

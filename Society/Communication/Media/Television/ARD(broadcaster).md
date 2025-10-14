@@ -41,7 +41,7 @@ child_organization_unit:
 award_received: "[[_Standards/WikiData/WD~Q2227687,2227687]]"
 instance_of: "[[_Standards/WikiData/WD~broadcaster,15265344]]"
 legal_form: "[[_Standards/WikiData/WD~public_law_institution_(Germany),67207116]]"
-headquarters_location: "[[_Standards/WikiData/WD~Stuttgart,1022]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Stuttgart,1022]]"
 industry: "[[_Standards/WikiData/WD~mass_media,11033]]"
 location_of_formation: "[[_Standards/WikiData/WD~Berlin,64]]"
 country: "[[_Standards/WikiData/WD~Germany,183]]"

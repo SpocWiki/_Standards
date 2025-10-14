@@ -27,7 +27,7 @@ official_name:
   - International Union for Conservation of Nature and Natural Resources
 phone_number: +41-22-999-00-00
 email_address: mailto:press@iucn.org
-headquarters_location: "[[_Standards/WikiData/WD~Gland,69300]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Gland,69300]]"
 official_observer_status_in_organization:
   - "[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]"
   - "[[_Standards/WikiData/WD~Arctic_Council,674182]]"

@@ -32,7 +32,7 @@ has_edition_or_translation:
   - "[[_Standards/WikiData/WD~Q128895412,128895412]]"
   - "[[_Standards/WikiData/WD~Q128904202,128904202]]"
 language_of_work_or_name: "[[_Standards/WikiData/WD~Czech,9056]]"
-location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
 United_Nations_Treaty_Series_registration_number: "14668"
 work_available_at_URL:
   - https://www.regeringen.se/4a9fab/globalassets/regeringen/bilder/kulturdepartementet/demokrati-och-mr/mr-sidorna/fns-konventioner-om-manskliga-rattigheter.pdf

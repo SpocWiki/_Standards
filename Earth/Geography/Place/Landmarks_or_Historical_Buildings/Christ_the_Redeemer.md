@@ -18,7 +18,7 @@ architect:
   - "[[_Standards/WikiData/WD~Albert_Caquot,364292]]"
   - "[[_Standards/WikiData/WD~Paul_Landowski,710530]]"
   - "[[_Standards/WikiData/WD~Gheorghe_Leonida,17479338]]"
-location: "[[_Standards/WikiData/WD~Corcovado,506938]]"
+locations: "[[_Standards/WikiData/WD~Corcovado,506938]]"
 genre: "[[_Standards/WikiData/WD~public_art,557141]]"
 creator:
   - "[[_Standards/WikiData/WD~Paul_Landowski,710530]]"

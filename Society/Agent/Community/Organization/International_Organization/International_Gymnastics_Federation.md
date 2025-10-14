@@ -16,7 +16,7 @@ operating_area:
 chairperson: "[[_Standards/WikiData/WD~Morinari_Watanabe,27917868]]"
 owner_of: "[[_Standards/WikiData/WD~FIG_database,106711852]]"
 inception: 1881-07-23T00:00:00Z
-headquarters_location: "[[_Standards/WikiData/WD~Lausanne,807]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Lausanne,807]]"
 location_of_formation: "[[_Standards/WikiData/WD~Liège,3992]]"
 sport: "[[_Standards/WikiData/WD~gymnastics,43450]]"
 social_media_followers:

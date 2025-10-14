@@ -8,7 +8,7 @@ instance_of: "[[_Standards/WikiData/WD~treaty,131569]]"
 named_after:
   - "[[_Standards/WikiData/WD~Aristide_Briand,179888]]"
   - "[[_Standards/WikiData/WD~Frank_B._Kellogg,193009]]"
-location: "[[_Standards/WikiData/WD~Paris,90]]"
+locations: "[[_Standards/WikiData/WD~Paris,90]]"
 United_Nations_Treaty_Series_registration_number: "2137"
 Library_of_Congress_Classification: KZ5593.2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kellogg%E2%80%93Briand%20Pact%20%281928%29.jpg

@@ -42,7 +42,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Meisterwerke_des_Kirchenbaus,29428354]]"
   - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
-location: "[[_Standards/WikiData/WD~Sultan_Ahmet,2147870]]"
+locations: "[[_Standards/WikiData/WD~Sultan_Ahmet,2147870]]"
 part_of: "[[_Standards/WikiData/WD~Historic_Areas_of_Istanbul,5773394]]"
 named_after: "[[_Standards/WikiData/WD~Holy_Wisdom,7501062]]"
 dedicated_to: "[[_Standards/WikiData/WD~Holy_Wisdom,7501062]]"

@@ -49,7 +49,7 @@ foundational_text: "[[_Standards/WikiData/WD~Articles_of_Agreement_of_the_Intern
 parent_organization: "[[_Standards/WikiData/WD~United_Nations,1065]]"
 official_language: "[[_Standards/WikiData/WD~English,1860]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
 social_media_followers:
   - 186000
   - 2145266

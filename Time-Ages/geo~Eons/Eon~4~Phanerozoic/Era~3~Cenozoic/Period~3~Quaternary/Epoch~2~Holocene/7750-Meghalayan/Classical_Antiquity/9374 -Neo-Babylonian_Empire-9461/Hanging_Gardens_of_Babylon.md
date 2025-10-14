@@ -12,7 +12,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~destroyed_building_or_structure,19860854]]"
   - "[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Iraq,796]]"
-location: "[[_Standards/WikiData/WD~Babylon,5684]]"
+locations: "[[_Standards/WikiData/WD~Babylon,5684]]"
 country: "[[_Standards/WikiData/WD~Assyrian_Empire,41137]]"
 Commons_category: Hanging Gardens of Babylon
 coordinate_location: Point(44.4275 32.5355)
