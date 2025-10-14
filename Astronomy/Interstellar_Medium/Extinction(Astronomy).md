@@ -1,11 +1,11 @@
 
 # [[Extinction(Astronomy)]] 
 
-#is_/same_as :: [[../WikiData/WD~Extinction,943247|WD~Extinction,943247]] 
+#is_/same_as :: [[../../WikiData/WD~Extinction,943247|WD~Extinction,943247]] 
 
 ## #has_/text_of_/abstract 
 
-> In astronomy, extinction is the absorption and scattering of [[../Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation|electromagnetic radiation]] by dust and gas 
+> In astronomy, extinction is the absorption and scattering of [[../../Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation|electromagnetic radiation]] by dust and gas 
 > between an emitting astronomical object and the observer. 
 > 
 > Interstellar extinction was first documented as such in 1930 by Robert Julius Trumpler. 

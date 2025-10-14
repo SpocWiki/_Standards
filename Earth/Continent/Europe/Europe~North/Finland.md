@@ -581,7 +581,7 @@ Below is a comprehensive table detailing the 19 regions of Finland (known as "ma
 
 - [#is_/member_/of :: [[../EU(European_Union)|EU]]] [#is_/member_/since ::  1995-01-01] 
 - [ #is_/member_/of :: [[Eurozone]] ] [#is_/member_/since ::  1999-01-01] 
-- [ #is_/member_/of :: [[../../../../../Knowledge/Military.internal/NATO]] ] [#is_/member_/since ::  2023-04-04]
+- [ #is_/member_/of :: [[../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO]] ] [#is_/member_/since ::  2023-04-04]
 
 
 [	ISO4217-currency_alphabetic	 :: EUR ]
@@ -738,7 +738,7 @@ Capital :: [[Helsingfors]]
 > During the Cold War, Finland officially embraced a policy of neutrality. 
 > 
 > Since then, it has become a member of the [[../EU(European_Union)]] in 1995, 
-> the   [[Eurozone]] in 1999, and [[../../../../../Knowledge/Military.internal/NATO]] in 2023. 
+> the   [[Eurozone]] in 1999, and [[../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO]] in 2023. 
 > 
 > Finland is a member of various international organisations, such as the United Nations, 
 > the Nordic Council, the Schengen Area, the Council of Europe, the World Trade Organization, 

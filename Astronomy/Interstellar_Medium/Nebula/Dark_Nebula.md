@@ -13,7 +13,7 @@ Commons_category: Dark nebulae
 
 # [[Dark_Nebula]] 
 
-#is_/same_as :: [[../WikiData/WD~Dark_nebula,204194|WD~Dark_nebula,204194]] 
+#is_/same_as :: [[../../../WikiData/WD~Dark_nebula,204194|WD~Dark_nebula,204194]] 
 
 ## #has_/text_of_/abstract 
 

@@ -35,7 +35,12 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Tablas%20alfonsies.jpg
 
 ## #has_/text_of_/abstract 
 
-> In astronomy and celestial navigation, an **Ephemeris** (; pl. ephemerides ; from Latin  ephemeris 'diary', from Ancient Greek  ἐφημερίς (ephēmerís) 'diary, journal') is a book with tables that gives the trajectory of naturally occurring astronomical objects and artificial satellites in the sky, i.e., the position (and possibly velocity) over time. Historically, positions were given as printed tables of values, given at regular intervals of date and time. The calculation of these tables was one of the first applications of mechanical computers. Modern ephemerides are often provided in electronic form. However, printed ephemerides are still produced, as they are useful when computational devices are not available.
+> In astronomy and celestial navigation, an **Ephemeris** (pl. ephemerides ; 
+> from Latin  ephemeris 'diary', from Ancient Greek  ἐφημερίς (ephēmerís) 'diary, journal') 
+> is a book with tables that gives the trajectory of naturally occurring astronomical objects 
+> and artificial satellites in the sky, i.e., the position (and possibly velocity) over time. 
+> 
+> Historically, positions were given as printed tables of values, given at regular intervals of date and time. The calculation of these tables was one of the first applications of mechanical computers. Modern ephemerides are often provided in electronic form. However, printed ephemerides are still produced, as they are useful when computational devices are not available.
 >
 > The astronomical position calculated from an ephemeris is often given in the spherical polar coordinate system of right ascension and declination, together with the distance from the origin if applicable. Some of the astronomical phenomena of interest to astronomers are eclipses, apparent retrograde motion/planetary stations, planetary ingresses, sidereal time, positions for the mean and true nodes of the moon, the phases of the Moon, and the positions of minor celestial bodies such as Chiron.
 >

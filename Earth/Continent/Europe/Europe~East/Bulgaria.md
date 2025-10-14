@@ -581,7 +581,7 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 > The country has been influenced by its role as a transit country for natural gas and oil pipelines, 
 > as well as its strategic location on the Black Sea. 
 > Bulgaria's foreign relations have been shaped by its geographical location 
-> and its modern membership in the [[../EU(European_Union)|European Union]] and [[../../../../../Knowledge/Military.internal/NATO|NATO]].
+> and its modern membership in the [[../EU(European_Union)|European Union]] and [[../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bulgaria)
 

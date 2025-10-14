@@ -8,7 +8,7 @@ Commons_category: Blazars
 
 # [[Blazar]] 
 
-#is_/same_as :: [[../WikiData/WD~Blazar,221221|WD~Blazar,221221]] 
+#is_/same_as :: [[../../WikiData/WD~Blazar,221221|WD~Blazar,221221]] 
 
 ## #has_/text_of_/abstract 
 
@@ -29,7 +29,7 @@ Commons_category: Blazars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blazar](/_Standards/Astronomy/Blazar.md) 
+### #is_/same_as :: [Blazar](Blazar.md) 
 
 ### #is_/same_as :: [Blazar.public](/_public/Astronomy/Blazar.public.md) 
 

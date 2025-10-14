@@ -39,8 +39,9 @@ MeSH_tree_code: N06.230.100.230
 
 #is_/same_as :: [[../../WikiData/WD~Natural_disaster,8065|WD~Natural_disaster,8065]] 
 
-Below is a comprehensive list of the **deadliest natural disasters since 1950**, 
-All numeric values are sourced from authoritative institutions such as the **EM-DAT International Disaster Database**, **UNDRR**, **WHO**, and peer-reviewed academic literature.
+Comprehensive list of the **deadliest natural disasters since 1950**, 
+All numeric values are sourced from authoritative institutions such as 
+the **EM-DAT International Disaster Database**, **UNDRR**, **WHO**, and peer-reviewed academic literature.
 
 ## ▸ Deadliest Natural Disasters Since 1950 (By Estimated Fatalities)
 
