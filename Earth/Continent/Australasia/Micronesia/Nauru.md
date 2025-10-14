@@ -313,14 +313,12 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 
 [	ISO3166-1-numeric	 :: 520 ] 
 
-
-
 [ISO2::NR] 
 [ISO3::NRU]  
 
+#is_/same_as :: [[../../../../WikiData/WD~Nauru,697|WD~Nauru,697]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Nauru
