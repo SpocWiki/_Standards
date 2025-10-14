@@ -61,7 +61,7 @@ has_place_province::
 has_place_country:: [[Marshall_Islands]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Majuro,12919|WD~Majuro,12919]] 
 

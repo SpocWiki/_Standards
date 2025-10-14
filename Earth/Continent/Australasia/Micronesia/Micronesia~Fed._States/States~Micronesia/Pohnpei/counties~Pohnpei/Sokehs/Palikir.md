@@ -23,7 +23,7 @@ has_place_province::
 has_place_country:: Micronesia,_Fed._States] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

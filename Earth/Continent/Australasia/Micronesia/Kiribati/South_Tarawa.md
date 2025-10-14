@@ -23,7 +23,7 @@ has_place_province::
 Country ::[[../../Polynesia/Kiribati]]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

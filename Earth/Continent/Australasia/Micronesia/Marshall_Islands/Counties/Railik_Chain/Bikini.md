@@ -20,7 +20,7 @@ has_place_province::
 has_place_country:: [[../../../Marshall~Islands]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

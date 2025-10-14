@@ -43,7 +43,7 @@ has_place_province::
 has_place_country:: [[../../../Northern_Mariana~Islands]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 # Saipan
 

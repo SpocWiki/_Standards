@@ -23,7 +23,7 @@ has_place_province::
 has_place_country:: [[../_0-New/Solomon~Islands]] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Honiara,40921|WD~Honiara,40921]] 
 
