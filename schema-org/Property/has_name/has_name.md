@@ -1,8 +1,5 @@
 ---
 aliases:
-- name
-- name_
-- name_en
 - has_name
 - "http://dbpedia.org/resource/Name"
 - "schema:name"
@@ -29,7 +26,9 @@ title: has_name
 type: Pred_Text
 ---
 
-Predicate to describe the Name of a Thing.
+# [[has_name]] 
+
+Predicate to describe the [[Name]] of a Thing.
 The Name can be specialized by Language (as any Text)
 
 Use it like this: 
