@@ -1,6 +1,7 @@
 ---
 aliases:
   - Gymnastik
+  - Gymnastic
 has_id_wikidata: Q43450
 OpenStreetMap_tag: Tag:sport=gymnastics
 has_characteristic: "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
