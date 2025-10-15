@@ -1,35 +1,41 @@
 ---
-Commons_category: Nature
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-different_from: '[[_Standards/WikiData/WD~Natura,396865]]'
-hashtag:
-- природа
-- natural
-- nature
-- Natur
-has_characteristic: '[[_Standards/WikiData/WD~pattern_in_nature,3455898]]'
+aliases:
+  - Natur
 has_id_wikidata: Q7860
-has_part_s_: '[[_Standards/WikiData/WD~natural_landscape,1286517]]'
+Commons_category: Nature
+described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+different_from: "[[_Standards/WikiData/WD~Natura,396865]]"
+hashtag:
+  - природа
+  - natural
+  - nature
+  - Natur
+has_characteristic: "[[_Standards/WikiData/WD~pattern_in_nature,3455898]]"
+has_part_s_: "[[_Standards/WikiData/WD~natural_landscape,1286517]]"
 Iconclass_notation: 2
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Desert%20Electric.jpg"
-instance_of: '[[_Standards/WikiData/WD~phenomenon,483247]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Desert%20Electric.jpg
+instance_of: "[[_Standards/WikiData/WD~phenomenon,483247]]"
 IPTC_NewsCode: mediatopic/20000441
 MeSH_tree_code: K01.637
 OmegaWiki_Defined_Meaning: 6357
-opposite_of: '[[_Standards/WikiData/WD~supernatural,80837]]'
+opposite_of: "[[_Standards/WikiData/WD~supernatural,80837]]"
 PhilPapers_topic: nature
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Prakṛti,920021]]'
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ca%20natura%20medol.ogg"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Prakṛti,920021]]"
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ca%20natura%20medol.ogg
 studied_in:
-- '[[_Standards/WikiData/WD~natural_history,484591]]'
-- '[[_Standards/WikiData/WD~prirodovedenie,4379074]]'
-- '[[_Standards/WikiData/WD~science,336]]'
-- '[[_Standards/WikiData/WD~natural_science,7991]]'
+  - "[[_Standards/WikiData/WD~natural_history,484591]]"
+  - "[[_Standards/WikiData/WD~prirodovedenie,4379074]]"
+  - "[[_Standards/WikiData/WD~science,336]]"
+  - "[[_Standards/WikiData/WD~natural_science,7991]]"
 subreddit: nature
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Nature,8084570]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nature,10814946]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Nature,8084570]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Nature,10814946]]"
 U_S_National_Archives_Identifier: 10643499
 ---
+
+# [[Nature]] 
+
+#is_/same_as :: [[../WikiData/WD~Nature,7860|WD~Nature,7860]] 
 
 ## #has_/text_of_/abstract 
 
