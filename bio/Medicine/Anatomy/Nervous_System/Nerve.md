@@ -28,9 +28,18 @@ UMLS_CUI: C0027740
 WordLift_URL: "http://data.wordlift.io/wl01714/entity/nerves"
 ---
 
+# [[Nerve]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Nerve,9620|WD~Nerve,9620]] 
+
 ## #has_/text_of_/abstract 
 
-> A **nerve** is an enclosed, cable-like bundle of nerve fibers (called axons) in the peripheral nervous system. Nerves have historically been considered the basic units of the peripheral nervous system. A nerve provides a common pathway for the electrochemical nerve impulses called action potentials that are transmitted along each of the axons to peripheral organs or, in the case of sensory nerves, from the periphery back to the central nervous system. Each axon is an extension of an individual neuron, along with other supportive cells such as some Schwann cells that coat the axons in myelin. 
+> A **nerve** is an enclosed, cable-like bundle of nerve fibers (called axons) 
+> in the peripheral nervous system. 
+> 
+> Nerves have historically been considered the basic units of the peripheral nervous system. 
+> 
+> A nerve provides a common pathway for the electrochemical nerve impulses called action potentials that are transmitted along each of the axons to peripheral organs or, in the case of sensory nerves, from the periphery back to the central nervous system. Each axon is an extension of an individual neuron, along with other supportive cells such as some Schwann cells that coat the axons in myelin. 
 >
 > Each axon is surrounded by a layer of connective tissue called the endoneurium. The axons are bundled together into groups called fascicles, and each fascicle is wrapped in a layer of connective tissue called the perineurium. The entire nerve is wrapped in a layer of connective tissue called the epineurium. Nerve cells (often called neurons) are further classified as either sensory or motor.
 >

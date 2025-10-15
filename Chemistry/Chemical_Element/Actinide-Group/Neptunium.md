@@ -46,14 +46,9 @@ Unicode_character: 錼
 UNII: 6200K977BQ
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Neptunium,1105]] 
-
-
 #chemic/Element 
 [GroupName::Actinide-Group]
 [Group:[[../Actinide-Group]]
-
-
 
 [Name-en::Neptunium]
 [Name-de::Neptunium]
@@ -73,9 +68,9 @@ UNII: 6200K977BQ
 [FormEnergy-kj-mol::0]
 (PeriodNo::7)
 (GroupNo::27)
-[]
 (Charge-e::93)
 
+#is_/same_as :: [[../../../WikiData/WD~Neptunium,1105]] 
 
 
 ## #has_/text_of_/abstract 
