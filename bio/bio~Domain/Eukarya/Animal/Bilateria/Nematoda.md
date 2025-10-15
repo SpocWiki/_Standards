@@ -46,7 +46,9 @@ Roundworms
 
 ![Strongyloides](Nematoda/Strongyloides.jpg) 
 
-## #has_/text_of_/abstract 
+#is_/same_as :: [[../../../../../WikiData/WD~Nematoda,5185|WD~Nematoda,5185]] 
+
+## #has_/text_of_/abstract  
 
 > The nematodes ( NEM-ə-tohdz or NEEM-; Ancient Greek: Νηματώδη; Latin: **Nematoda**), roundworms or eelworms constitute the phylum Nematoda. Species in the phylum inhabit a broad range of environments. Most species are free-living, feeding on microorganisms, but many are parasitic. Parasitic worms (helminths) are the cause of soil-transmitted helminthiases.
 >
