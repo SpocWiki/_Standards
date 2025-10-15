@@ -14,7 +14,7 @@ code_name: protective custody
 ---
 
 
-# [[Nazi_Concentration_Camps]]
+# [[Nazi_Concentration_Camp]]
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Nazi_concentration_camp,328468|WD~Nazi_concentration_camp,328468]]
 
