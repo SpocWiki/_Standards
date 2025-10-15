@@ -122,9 +122,9 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Neptune,30589066]]'
 
 # [[Neptune]] 
 
-#is_/same_as :: [[../../WikiData/WD~Neptune,332|WD~Neptune,332]]
 #is_/different_from :: [[_Standards/WikiData/WD~Neptune,3954]] 
 #is_/different_from :: [[_Standards/WikiData/WD~Neptune,2456503]] 
+#is_/same_as :: [[../../WikiData/WD~Neptune,332|WD~Neptune,332]]
 
 ## #has_/text_of_/abstract 
 

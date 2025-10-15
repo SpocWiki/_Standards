@@ -465,12 +465,6 @@ icon: flag-np
 
 # [[Nepal]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Nepal 
-
-[[Nepal/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: NPR ]
 [	ISO4217-currency_name	 :: Nepalese Rupee ]
 [	ISO4217-currency_numeric	 :: 524 ]
@@ -534,14 +528,18 @@ Sub-region_Name ::  [[Southern Asia]]
 
 [	ISO3166-1-numeric	 :: 524 ]
 
-
-
 [ISO2::NP]
 [ISO3::NPL] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Nepal,837|WD~Nepal,837]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Nepal 
+
+[[Nepal/ReadMe]] 
+
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Nepal
@@ -550,6 +548,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Nepal/
 markerFolder: ./Nepal/
+coordinates: [[Nepal]] 
+markerFile: [[Nepal]] 
+defaultZoom: 11 
 ```
 
 [name-en::Nepal]

@@ -67,10 +67,6 @@ ZVG_number: 7100
 
 # [[Neon]]
 
-
-#is_/same_as :: [[../../../WikiData/WD~Neon,654]] 
-
-
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
 [Group:[[../Group-18-Nobel-Gases]]
@@ -94,6 +90,7 @@ ZVG_number: 7100
 (PeriodNo::2)
 (GroupNo::18)
 
+#is_/same_as :: [[../../../WikiData/WD~Neon,654]] 
 
 ## #has_/text_of_/abstract 
 

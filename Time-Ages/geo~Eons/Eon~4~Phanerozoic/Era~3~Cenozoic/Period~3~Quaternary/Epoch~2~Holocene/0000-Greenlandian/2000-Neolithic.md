@@ -1,7 +1,29 @@
 ---
 aliases:
-- "New Stone Age"
-- Jungsteinzeit
+  - New Stone Age
+  - Jungsteinzeit
+has_id_wikidata: Q36422
+discoverer_or_inventor: "[[_Standards/WikiData/WD~John_Lubbock,_1st_Baron_Avebury,312503]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Pre_Pottery_Neolithic,1190360]]"
+  - "[[_Standards/WikiData/WD~Pottery_Neolithic,1937946]]"
+instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Neolithic,17281651]]"
+end_time:
+  - -2999-01-01T00:00:00Z
+  - -2199-01-01T00:00:00Z
+start_time:
+  - -9000-01-01T00:00:00Z
+  - -5200-01-01T00:00:00Z
+  - -5500-01-01T00:00:00Z
+subclass_of: "[[_Standards/WikiData/WD~prehistory,11756]]"
+Commons_category: Neolithic
+image: http://commons.wikimedia.org/wiki/Special:FilePath/SkaraBraeJM.jpg
+Krugosvet_article_archived_: istoriya/NEOLIT.html
+OpenStreetMap_tag: historic:era=neolithic
 ---
 
 # [[2000-Neolithic]] 
@@ -14,6 +36,8 @@ aliases:
 
 #has_/duration_/years :: `$=Math.round((Number(dv.current().has_time_stopped) - dv.current().has_time_started))` 
 #has_/duration_ :: `=number(this.has_time_stopped) - number(this.has_time_started)` 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Neolithic,36422|WD~Neolithic,36422]] 
 
 ## #has_/text_of_/abstract 
 

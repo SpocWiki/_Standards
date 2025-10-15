@@ -20,7 +20,7 @@ taxon_common_name:
 
 # [[Nepetoideae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../_Standards/WikiData/WD~Nepetoideae,138199|WD~Nepetoideae,138199]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Nepetoideae,138199|WD~Nepetoideae,138199]] 
 
 ## #has_/text_of_/abstract 
 

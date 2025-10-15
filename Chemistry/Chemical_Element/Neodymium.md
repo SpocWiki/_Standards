@@ -79,11 +79,9 @@ MeSH_tree_code:
 DSSTOX_compound_identifier: DTXCID7047641
 ---
 
-
 # [[Neodymium]]
 
 #is_/same_as :: [[../../WikiData/WD~Neodymium,1388|WD~Neodymium,1388]]
-
 
 ## #has_/text_of_/abstract 
 

@@ -469,12 +469,6 @@ Pinterest_username: visitholland
 
 # [[Netherlands]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Netherlands 
-
-[[Netherlands/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -538,20 +532,28 @@ Sub-region_Name ::  [[Western Europe]]
 
 [	ISO3166-1-numeric	 :: 528 ]
 
-
-
 [ISO2::NL]
 [ISO3::NLD]
 
+#is_/same_as :: [[../../../../WikiData/WD~Netherlands,55|WD~Netherlands,55]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Netherlands 
+
+[[Netherlands/ReadMe]] 
+
+## #has_/map 
+
 ```leaflet
 id: Netherlands
-coordinates: [[Netherlands]]
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
 defaultZoom: 7
 geojsonFolder: ./Netherlands//
 markerFolder: ./Netherlands/
+coordinates: [[Netherlands]] 
+markerFile: [[Netherlands]] 
 ```
 
 [name-en::Netherlands]

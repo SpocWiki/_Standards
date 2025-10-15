@@ -1,6 +1,7 @@
 ---
 aliases:
 - "Nelson Mandela"
+- Nelson_Mandela
 - "Nelson Rolihlahla Mandela"
 - "Rolihlahla Mandela"
 artist_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
@@ -173,6 +174,10 @@ work_location: '[[_Standards/WikiData/WD~South_Africa,258]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 X_username: NelsonMandela
 ---
+
+# [[Mandela,Nelson]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Nelson_Mandela,8023|WD~Nelson_Mandela,8023]] 
 
 ## #has_/text_of_/abstract 
 
