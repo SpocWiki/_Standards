@@ -69,23 +69,47 @@ watershed_area: 3400000
 Wolfram_Language_entity_code: "Entity[\"River\", \"Nile::h43n2\"]"
 ---
 
+# [[Nile]] 
+
+#is_/same_as  :: [[../../../../WikiData/WD~Nile,3392|WD~Nile,3392]] 
+
 ## #has_/text_of_/abstract 
 
-> The **Nile** (also known as the Nile River or River Nile) is a major north-flowing river in northeastern Africa. It flows into the Mediterranean Sea. The Nile is the longest river in Africa. It has historically been considered the longest river in the world,
->
+> The **Nile** (AKA Nile River or River Nile) is a major north-flowing river in northeastern Africa. 
+> It flows into the Mediterranean Sea. The Nile is the longest river in Africa. 
+> It has historically been considered the longest river in the world,
 > though this has been contested by research suggesting that the Amazon River is slightly longer.
 >
-> Of the world's major rivers, the Nile is one of the smallest, as measured by annual flow in cubic metres of water.
+> Of the world's major rivers, the Nile is one of the smallest, 
+> as measured by annual flow in cubic metres of water.
 >
-> About 6,650 km (4,130 mi) long, its drainage basin covers eleven countries: the Democratic Republic of the Congo, Tanzania, Burundi, Rwanda, Uganda, Kenya, Ethiopia, Eritrea, South Sudan, Sudan, and Egypt.
+> About 6,650 km (4,130 mi) long, its drainage basin covers eleven countries: 
+> the Democratic Republic of the Congo, Tanzania, Burundi, Rwanda, Uganda, Kenya, Ethiopia, Eritrea, South Sudan, Sudan, and Egypt.
 >
 > In particular, the Nile is the primary water source of Egypt, Sudan and South Sudan.
 >
 > In these countries it is an important economic factor in agriculture and fishing.
 >
-> The Nile has two major tributaries: the White Nile and the Blue Nile. The White Nile, being the longer, is traditionally considered to be the headwaters stream, while the Blue Nile actually contributes 80% of the water and silt below the confluence of the two. The White Nile rises in the Great Lakes region. It begins at Lake Victoria and flows through Uganda and South Sudan. The Blue Nile begins at Lake Tana in Ethiopia and flows into Sudan from the southeast. The two rivers meet at the Sudanese capital of Khartoum.
+> The Nile has two major tributaries: the White Nile and the Blue Nile. 
+> The White Nile, being the longer, is traditionally considered to be the headwaters stream, 
+> while the Blue Nile actually contributes 80% of the water and silt below the confluence of the two. 
+> 
+> The White Nile rises in the Great Lakes region. 
+> It begins at Lake Victoria and flows through Uganda and South Sudan. 
+> 
+> The Blue Nile begins at Lake Tana in Ethiopia and flows into Sudan from the southeast. 
+> The two rivers meet at the Sudanese capital of Khartoum.
 >
-> After Khartoum the river flows north, almost entirely through the Nubian Desert, to Cairo and its large delta, joining the Mediterranean Sea at Alexandria. Egyptian civilization and Sudanese kingdoms have depended on the river and its annual flooding since ancient times. Most of the population and cities of Egypt lie along those parts of the Nile valley north of the Aswan Dam. Nearly all the cultural and historical sites of Ancient Egypt developed and are found along river banks. The Nile is, with the Rhône and Po, one of the three Mediterranean rivers with the largest water discharge.
+> After Khartoum the river flows north, almost entirely through the Nubian Desert, 
+> to Cairo and its large delta, joining the Mediterranean Sea at Alexandria. 
+> 
+> Egyptian civilization and Sudanese kingdoms have depended on the river 
+> and its annual flooding since ancient times. 
+> 
+> Most of the population and cities of Egypt lie along those parts of the Nile valley 
+> north of the Aswan Dam. 
+> 
+> Nearly all the cultural and historical sites of Ancient Egypt developed and are found along river banks. The Nile is, with the Rhône and Po, one of the three Mediterranean rivers with the largest water discharge.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nile) 
 
