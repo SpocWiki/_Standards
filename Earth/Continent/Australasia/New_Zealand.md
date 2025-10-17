@@ -1,5 +1,4 @@
 ---
-age_of_majority: 20
 aliases:
   - New Zealand
   - Nueva Zelandia
@@ -7,6 +6,8 @@ aliases:
   - نيوزيلندا
   - 新西兰
   - Новая Зеландия
+has_id_wikidata: Q664
+age_of_majority: 20
 anthem: "[[_Standards/WikiData/WD~God_Defend_New_Zealand,202137]]"
 area: 268021
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/God%20Defend%20New%20Zealand%20instrumental.ogg
@@ -190,7 +191,6 @@ GS1_country_code: 940-949
 Happy_Planet_Index_score: 57.4
 hashtag: NewZealand
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q664
 has_part_s_: "[[_Standards/WikiData/WD~Waiheke_Island,909136]]"
 has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Seal_of_New_Zealand,7440569]]"
 head_of_government: "[[_Standards/WikiData/WD~Christopher_Luxon,74370310]]"
@@ -383,12 +383,6 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "NewZealand"]
 
 # [[New_Zealand]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Australia-New_Zealand 
-
-[[New_Zealand/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: NZD ]
 [	ISO4217-currency_name	 :: New Zealand Dollar ]
 [	ISO4217-currency_numeric	 :: 554 ]
@@ -452,14 +446,18 @@ Sub-region_Name ::  [[Australia and New Zealand]]
 
 [	ISO3166-1-numeric	 :: 554 ]
 
-
-
 [ISO2::NZ]
 [ISO3::NZL] 
 
+#is_/same_as :: [[../../../WikiData/WD~New_Zealand,664|WD~New_Zealand,664]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Australia-New_Zealand 
+
+[[New_Zealand/ReadMe]] 
+
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: New Zealand
@@ -468,6 +466,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./New_Zealand//
 markerFolder: ./New_Zealand/
+coordinates: [[New_Zealand]] 
+markerFile: [[New_Zealand]] 
 ```
 
 [name-en::New Zealand]

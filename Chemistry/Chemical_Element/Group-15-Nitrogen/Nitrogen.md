@@ -77,16 +77,11 @@ UMLS_CUI: C0028158
 Unicode_character: 氮
 ---
 
-# [[Nitrogen]]
-
-
-#is_/same_as :: [[../../../WikiData/WD~Nitrogen,627]]  
-
+# [[Nitrogen]] 
 
 #chemic/Element 
 [GroupName::Group-15-Nitrogen]
 [Group:[[../Group-15-Nitrogen]]
-
 
 [Name-en::Nitrogen]
 [Name-de::Stickstoff]
@@ -104,6 +99,8 @@ Unicode_character: 氮
 [Enthalpy::0.3604]
 [FormEnergy-kj-mol::2.7928]
 (PeriodNo::2)
+
+#is_/same_as :: [[../../../WikiData/WD~Nitrogen,627]]  
 
 
 ## #has_/text_of_/abstract 
