@@ -107,7 +107,7 @@ Commons_category: Journey to the West
 
 # [[Journey_to_the_West]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Journey_to_the_West,70784|WD~Journey_to_the_West,70784]]
+#is_/same_as :: [[../../../../../../../WikiData/WD~Journey_to_the_West,70784|WD~Journey_to_the_West,70784]]
 
 
 ## #has_/text_of_/abstract 
