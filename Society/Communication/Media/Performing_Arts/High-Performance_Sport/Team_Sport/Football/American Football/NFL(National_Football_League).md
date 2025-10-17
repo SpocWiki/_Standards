@@ -7,7 +7,7 @@ sponsor: "[[_Standards/WikiData/WD~Pizza_Hut,191615]]"
 has_part_s_:
   - "[[_Standards/WikiData/WD~American_Football_Conference,276530]]"
   - "[[_Standards/WikiData/WD~National_Football_Conference,319007]]"
-headquarters_location: "[[_Standards/WikiData/WD~345_Park_Avenue,3489200]]"
+headquarters_locations: "[[_Standards/WikiData/WD~345_Park_Avenue,3489200]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_the_National_Football_League,5870004]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_NFL,6307529]]"
 instance_of:

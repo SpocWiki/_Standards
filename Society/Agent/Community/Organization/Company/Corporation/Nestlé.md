@@ -3,7 +3,7 @@ aliases:
   - Nestlé S.A.
   - Nestle
 has_id_wikidata: Q160746
-headquarters_location: "[[_Standards/WikiData/WD~Vevey,68160]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Vevey,68160]]"
 board_member:
   - "[[_Standards/WikiData/WD~Peter_Brabeck_Letmathe,84812]]"
   - "[[_Standards/WikiData/WD~Paul_Bulcke,261057]]"

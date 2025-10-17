@@ -8,7 +8,7 @@ described_by_source:
 topic_has_template: "[[_Standards/WikiData/WD~Template_Napoleonic_Wars,14448129]]"
 instance_of: "[[_Standards/WikiData/WD~series_of_wars,104212151]]"
 named_after: "[[_Standards/WikiData/WD~Napoleon,517]]"
-location: "[[_Standards/WikiData/WD~Europe,46]]"
+locations: "[[_Standards/WikiData/WD~Europe,46]]"
 BHCL_UUID: bc8368cc-818a-41b0-a4ca-859fdc0ce10a
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bonaparte%20David%20Charlottenburg.jpg
 end_time: 1815-01-01T00:00:00Z
