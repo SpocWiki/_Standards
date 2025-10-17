@@ -60,9 +60,22 @@ U_S_National_Archives_Identifier: 10038760
 watershed_area: 2117700
 ---
 
+# [[Niger_River]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Niger_River,3542|WD~Niger_River,3542]] 
+
 ## #has_/text_of_/abstract 
 
-> The **Niger River** ( NY-jər; French: (le) fleuve Niger [(lə) flœv niʒɛʁ]) is the main river of West Africa, extending about 4,180 kilometres (2,600 miles). Its drainage basin is 2,117,700 km2 (817,600 sq mi) in area. Its source is in the Guinea Highlands in south-eastern Guinea near the Sierra Leone border. It runs in a crescent shape through Mali, Niger, on the border with Benin and then through Nigeria, discharging through a massive delta, known as the Niger Delta, into the Gulf of Guinea in the Atlantic Ocean. The Niger is the third-longest river in Africa, exceeded by the Nile and the Congo River. Its main tributary is the Benue River.
+> The **Niger River** (NY-jər; French: (le) fleuve Niger [(lə) flœv niʒɛʁ]) is the main river of West Africa, extending about 4,180 kilometres (2,600 miles). 
+> 
+> Its drainage basin is 2,117,700 km2 (817,600 sq mi) in area. 
+> Its source is in the Guinea Highlands in south-eastern Guinea near the Sierra Leone border. 
+> It runs in a crescent shape through Mali, Niger, on the border with Benin 
+> and then through Nigeria, discharging through a massive delta, known as the Niger Delta, 
+> into the Gulf of Guinea in the Atlantic Ocean. 
+> 
+> The Niger is the third-longest river in Africa, exceeded by the Nile and the Congo River. 
+> Its main tributary is the Benue River.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Niger%20River) 
 

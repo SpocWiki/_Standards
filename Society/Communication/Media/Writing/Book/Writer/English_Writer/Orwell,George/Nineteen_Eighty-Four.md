@@ -1,11 +1,100 @@
 ---
 aliases:
-- "Nineteen Eighty-Four"
-- 
+  - Nineteen Eighty-Four
+  - Nineteen_Eighty-Four
+has_id_wikidata: Q208460
+main_subject:
+  - "[[_Standards/WikiData/WD~totalitarianism,128135]]"
+  - "[[_Standards/WikiData/WD~freedom_of_thought,277569]]"
+  - "[[_Standards/WikiData/WD~surveillance_state,334425]]"
+  - "[[_Standards/WikiData/WD~human_rights,8458]]"
+derivative_work:
+  - "[[_Standards/WikiData/WD~Nineteen_Eighty_Four,208424]]"
+  - "[[_Standards/WikiData/WD~1984,664787]]"
+  - "[[_Standards/WikiData/WD~1984,1824426]]"
+  - "[[_Standards/WikiData/WD~1985,4582141]]"
+  - "[[_Standards/WikiData/WD~Nineteen_Eighty_Four,10999127]]"
+  - "[[_Standards/WikiData/WD~1984_the_graphic_novel,130633591]]"
+  - "[[_Standards/WikiData/WD~1984_Big_Brother_is_watching_you,130637714]]"
+  - "[[_Standards/WikiData/WD~1984,130641144]]"
+different_from: "[[_Standards/WikiData/WD~1Q84,208971]]"
+characters:
+  - "[[_Standards/WikiData/WD~Emmanuel_Goldstein,645795]]"
+  - "[[_Standards/WikiData/WD~Julia,651130]]"
+  - "[[_Standards/WikiData/WD~Big_Brother,751417]]"
+  - "[[_Standards/WikiData/WD~O'Brien,1284200]]"
+  - "[[_Standards/WikiData/WD~Winston_Smith,11428966]]"
+  - "[[_Standards/WikiData/WD~Charrington,55002149]]"
+language_of_work_or_name:
+  - "[[_Standards/WikiData/WD~Newspeak,654101]]"
+  - "[[_Standards/WikiData/WD~English,1860]]"
+genre:
+  - "[[_Standards/WikiData/WD~social_science_fiction,944250]]"
+  - "[[_Standards/WikiData/WD~political_fiction,2254211]]"
+  - "[[_Standards/WikiData/WD~dystopian_fiction,15062348]]"
+  - "[[_Standards/WikiData/WD~science_fiction,24925]]"
+narrative_location:
+  - "[[_Standards/WikiData/WD~Oceania,1291432]]"
+  - "[[_Standards/WikiData/WD~London,84]]"
+follows: "[[_Standards/WikiData/WD~Animal_Farm,1396889]]"
+award_received:
+  - "[[_Standards/WikiData/WD~20th_Century's_Greatest_Hits_100_English_Language_Books_of_Fiction,4630676]]"
+  - "[[_Standards/WikiData/WD~Le_Monde's_100_Books_of_the_Century,40734]]"
+instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Nineteen_Eighty_Four,7780284]]"
+has_edition_or_translation:
+  - "[[_Standards/WikiData/WD~1984_(German_translation),20124587]]"
+  - "[[_Standards/WikiData/WD~Nineteen_Eighty_Four_(first_edition),24704731]]"
+  - "[[_Standards/WikiData/WD~1984,108936233]]"
+  - "[[_Standards/WikiData/WD~1984,111263683]]"
+  - "[[_Standards/WikiData/WD~1984,113133917]]"
+  - "[[_Standards/WikiData/WD~1984,117279874]]"
+  - "[[_Standards/WikiData/WD~1984,117280928]]"
+  - "[[_Standards/WikiData/WD~Q121961972,121961972]]"
+  - "[[_Standards/WikiData/WD~Q121975690,121975690]]"
+  - "[[_Standards/WikiData/WD~1984,122091058]]"
+  - "[[_Standards/WikiData/WD~1984,122094500]]"
+  - "[[_Standards/WikiData/WD~1984,122109498]]"
+  - "[[_Standards/WikiData/WD~1984,125695902]]"
+  - "[[_Standards/WikiData/WD~1984,130617757]]"
+  - "[[_Standards/WikiData/WD~1984,130617792]]"
+  - "[[_Standards/WikiData/WD~Nineteen_eighty_four,130632253]]"
+  - "[[_Standards/WikiData/WD~1984,130632352]]"
+  - "[[_Standards/WikiData/WD~1984,130632439]]"
+  - "[[_Standards/WikiData/WD~1984,130632455]]"
+  - "[[_Standards/WikiData/WD~Q130632494,130632494]]"
+  - "[[_Standards/WikiData/WD~1984,130638510]]"
+  - "[[_Standards/WikiData/WD~Q132173091,132173091]]"
+  - "[[_Standards/WikiData/WD~Q132560304,132560304]]"
+copyright_status:
+  - "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+  - "[[_Standards/WikiData/WD~public_domain,19652]]"
+has_characteristic: "[[_Standards/WikiData/WD~story_set_in_a_then_future_date_that_is_now_the_past,108284325]]"
+public_domain_date:
+  - 2045-01-01T00:00:00Z
+  - 2021-01-01T00:00:00Z
+author: "[[_Standards/WikiData/WD~George_Orwell,3335]]"
+form_of_creative_work: "[[_Standards/WikiData/WD~novel,8261]]"
+country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+Commons_category: Nineteen Eighty-Four
+first_line: It was a bright cold day in April, and the clocks were striking thirteen.
+title: Nineteen Eighty-Four
+publication_date: 1949-01-01T00:00:00Z
+inception: 1948-01-01T00:00:00Z
+Wolfram_Language_entity_code: Entity["Book", "1984"]
+Baidu_Tieba_name: 一九八四
+last_line:
+  - But it was all right, everything was all right, the struggle was finished. He had won the victory over himself. He loved Big Brother.
+  - Mais il allait bien, tout allait bien. LA LUTTE ÉTAIT TERMINÉE. IL AVAIT REMPORTÉ LA VICTOIRE SUR LUI-MÊME. IL AIMAIT BIG BROTHER.
+  - Toda bilo je prav, vse je bilo prav, boj je bil končan. Izbojeval je veliko bitko nad samim seboj. Ljubil je Velikega brata.
+image: http://commons.wikimedia.org/wiki/Special:FilePath/1984%20first%20edition%20cover.jpg
 ---
+
+# [[Nineteen_Eighty-Four]] 
 
 #has_/creator :: [[../Orwell,George|Orwell,George]] 
 #has_/time_/started :: 1949-06-08 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Nineteen_Eighty-Four,208460|WD~Nineteen_Eighty-Four,208460]] 
 
 ## #has_/text_of_/abstract 
 

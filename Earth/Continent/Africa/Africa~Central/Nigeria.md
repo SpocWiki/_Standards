@@ -1,4 +1,22 @@
 ---
+aliases:
+  - Nigeria
+  - Nigéria
+  - نيجيريا
+  - 尼日利亚
+  - Нигерия
+  - the Federal Republic of Nigeria
+  - la República Federal de Nigeria
+Languages:
+  - en-NG
+  - ha
+  - yo
+  - ig
+  - ff
+has_id_wikidata: Q1033
+location:
+  - 9.17222
+  - 6.46778
 flag: "[[_Standards/WikiData/WD~flag_of_Nigeria,102960]]"
 contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Anambra_State,117714]]"
@@ -877,10 +895,6 @@ motto_text:
   - Undod a Ffydd, Heddwch a Chynnydd
   - Good people, great nation
   - Unity and Faith, Peace and Progress
-has_id_wikidata: Q1033
-location:
-  - 9.17222
-  - 6.46778
 type: Country
 tags:
   - geo/Country
@@ -900,30 +914,9 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Nigeria
-  - Nigéria
-  - نيجيريا
-  - 尼日利亚
-  - Нигерия
-  - the Federal Republic of Nigeria
-  - la República Federal de Nigeria
-Languages:
-  - en-NG
-  - ha
-  - yo
-  - ig
-  - ff
 ---
 
 # [[Nigeria]] 
-
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Nigeria 
-
-[[Nigeria/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: NGN ]
 [	ISO4217-currency_name	 :: Naira ]
@@ -988,10 +981,17 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 566 ]
 
-
-
 [ISO2::NG]
 [ISO3::NGA]
+
+#is_/same_as :: [[../../../../WikiData/WD~Nigeria,1033|WD~Nigeria,1033]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Nigeria 
+
+[[Nigeria/ReadMe]] 
+
+## #has_/map 
 
 ```leaflet
 id: Nigeria
