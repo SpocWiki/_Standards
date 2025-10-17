@@ -449,7 +449,7 @@ markerFolder: ./Niger//
 [Area-Land::1266700]
 has_place_continent:: [[Africa]]  
 [VehicleCode::RN]
-Capital :: [[Niamey]]  
+Capital :: [[Niger/Regions~Niger/Niamey]]  
 [Alcohol-l::0.3]
 [Language-Id::496]
 #is_a_/Place  

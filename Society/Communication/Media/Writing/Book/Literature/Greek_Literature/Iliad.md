@@ -175,7 +175,7 @@ Libris_URI: 86lpxg5s21zpr23
 ---
 # [[Iliad]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Iliad,8275|WD~Iliad,8275]]
+#is_/same_as :: [[../../../../../../../WikiData/WD~Iliad,8275|WD~Iliad,8275]]
 
 
 ## #has_/text_of_/abstract 

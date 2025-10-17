@@ -130,7 +130,7 @@ in support of monophyly of Odonata + Neoptera:
     -   [Paleodictyopteroidea](Paleodictyopteroidea.md)
     -   [Ephemeroptera](Ephemeroptera.md)
     -   [Odonata](Odonata.md)
-    -   [Neoptera](Neoptera.md)
+    -   [Neoptera](Pterygota/Metapterygota/Neoptera.md)
 
 
 ## Title Illustrations

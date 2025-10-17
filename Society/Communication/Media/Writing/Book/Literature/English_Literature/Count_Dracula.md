@@ -138,7 +138,7 @@ date_of_death: 1890-01-01T00:00:00Z
 
 # [[Count_Dracula]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Count_Dracula,3266236|WD~Count_Dracula,3266236]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Count_Dracula,3266236|WD~Count_Dracula,3266236]] 
 
 ## #has_/text_of_/abstract 
 

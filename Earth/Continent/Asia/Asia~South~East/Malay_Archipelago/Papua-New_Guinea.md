@@ -104,10 +104,10 @@ Sub-region_Name :: [[../../../Australasia/Melanesia]]]
 
 [	ISO3166-1-numeric	 :: 598 ] 
 
-
-
 [ISO2::PG] 
 [ISO3::PNG]  
+
+#is_/same_as :: [[../../../../../WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]] 
 
 ## #has_/map  
 
@@ -144,9 +144,23 @@ Capital :: [[Port_Moresby]]
 
 ## #has_/text_of_/abstract 
 
-> **Papua New Guinea**, officially the Independent State of Papua New Guinea is a country in Oceania that comprises the eastern half of the island of New Guinea and offshore islands in Melanesia, a region of the southwestern Pacific Ocean north of Australia. It has a land border with Indonesia to the west and neighbours Australia to the south and the Solomon Islands to the east. Its capital, on its southern coast, is Port Moresby. The country is the world's third largest island country, with an area of 462,840 km2 (178,700 sq mi).
+> **Papua New Guinea**, officially the Independent State of Papua New Guinea is a country in Oceania 
+> that comprises the eastern half of the island of New Guinea and offshore islands in Melanesia, 
+> a region of the southwestern Pacific Ocean north of Australia. 
+> 
+> It has a land border with Indonesia to the west and neighbours Australia to the south and the Solomon Islands to the east. 
+> Its capital, on its southern coast, is Port Moresby. 
+> The country is the world's third largest island country, with an area of 462,840 km2 (178,700 sq mi).
 >
-> The nation was split in the 1880s between German New Guinea in the North and the British Territory of Papua in the South, the latter of which was ceded to Australia in 1902. All of present-day Papua New Guinea came under Australian control following World War I, with the legally distinct Territory of New Guinea being established out of the former German colony as a League of Nations mandate. The nation was the site of fierce fighting during the New Guinea campaign of World War II. Papua New Guinea became an independent Commonwealth realm in 1975 with Elizabeth II as its Queen. Since Elizabeth II's death in 2022, Charles III has been the King.
+> The nation was split in the 1880s between German New Guinea in the North and the British Territory of Papua in the South, 
+> the latter of which was ceded to Australia in 1902. 
+> 
+> All of present-day Papua New Guinea came under Australian control following World War I, 
+> with the legally distinct Territory of New Guinea being established out of the former German colony as a League of Nations mandate. 
+> 
+> The nation was the site of fierce fighting during the New Guinea campaign of World War II. 
+> Papua New Guinea became an independent Commonwealth realm in 1975 with Elizabeth II as its Queen. 
+> Since Elizabeth II's death in 2022, Charles III has been the King.
 >
 > There are 840 known languages of Papua New Guinea (including English), making it the most linguistically diverse country in the world. It is also one of the most rural countries, with only 13.25% of its population living in urban centres in 2019. Most of its people live in customary communities. Although government estimates reported the country's population to be 11.8 million, it was reported in December 2022 that its population was in fact closer to 17 million. Papua New Guinea is the most populous Pacific island country.
 >
