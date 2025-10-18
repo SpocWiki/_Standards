@@ -25,19 +25,21 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/digit
 Krugosvet_article_archived_: nauka_i_tehnika/matematika/TSIFRI_I_SISTEMI_SCHISLENIYA.html
 ---
 
-# [[Digit]] 
+# [[Numerical_Digit]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Numerical_digit,82990|WD~Numerical_digit,82990]] 
 
 ## #has_/text_of_/abstract 
 
-> A numerical **Digit** (often shortened to just digit) or numeral 
+> A numerical digit (often shortened to just digit) or numeral 
 > is a single symbol used alone (such as "1"), or in combinations (such as "15"), 
 > to represent numbers in positional notation, such as the common base 10. 
+> 
 > The name "digit" originates from the Latin digiti meaning fingers.
 >
 > For any numeral system with an integer base, 
 > the number of different digits required is the absolute value of the base. 
+> 
 > For example, decimal (base 10) requires ten digits (0 to 9), 
 > and binary (base 2) requires only two digits (0 and 1). 
 > 
