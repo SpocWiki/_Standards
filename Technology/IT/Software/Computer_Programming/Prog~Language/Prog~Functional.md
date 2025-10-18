@@ -1,5 +1,27 @@
+---
+aliases:
+  - Functional_programming
+has_id_wikidata: Q193076
+instance_of:
+  - "[[_Standards/WikiData/WD~programming_paradigm,188267]]"
+  - "[[_Standards/WikiData/WD~computer_science_term,66747126]]"
+subclass_of: "[[_Standards/WikiData/WD~declarative_programming,531152]]"
+OmegaWiki_Defined_Meaning: "975428"
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Functional%20programming.ogg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteur%20Journ%C3%A9e%202%20-%2014%20%28Madehub%29-programmation%20fonctionnelle.wav
+Stack_Exchange_tag:
+  - https://cstheory.stackexchange.com/tags/functional-programming
+  - https://stackoverflow.com/tags/functional-programming
+Mastodon_instance_URL: https://functional.cafe
+Commons_category: Functional programming
+GitHub_topic: functional-programming
+subreddit: functionalprogramming
+---
 
-# Functional Programming
+# [[Functional_Programming]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Functional_programming,193076|WD~Functional_programming,193076]] 
+
 
 Pure Functions create Programs without Side-Effects. 
 Additionally these __always return the same Result__
@@ -71,8 +93,8 @@ You need to distinguish between essential (public, stable) and accidental (priva
 > This allows programs to be written in a declarative and composable style, 
 > where small functions are combined in a modular manner.
 >
-> Functional programming is sometimes treated as synonymous with purely functional programming, 
-> a subset of functional programming which treats all functions as deterministic mathematical functions, 
+> Functional programming is sometimes treated as synonymous with **purely functional programming**, 
+> a subset of functional programming that treats all functions as deterministic mathematical functions, 
 > or pure functions. 
 > 
 > When a pure function is called with some given arguments, it will always return the same result, 
@@ -91,6 +113,8 @@ You need to distinguish between essential (public, stable) and accidental (priva
 > but many functional languages are seeing use today in industry and education, including 
 > Common Lisp, Scheme, Clojure, Wolfram Language, Racket, Erlang, Elixir, OCaml, Haskell, and F#. 
 > 
+> Lean is a functional programming language commonly used for verifying mathematical theorems. 
+> 
 > Functional programming is also key to some languages that have found success in specific domains, 
 > like JavaScript in the Web, R in statistics, J, K and Q in financial analysis, and XQuery/XSLT for XML. 
 > 
@@ -98,8 +122,8 @@ You need to distinguish between essential (public, stable) and accidental (priva
 > use some elements of functional programming, such as not allowing mutable values. 
 > 
 > In addition, many other programming languages support programming in a functional style 
-> or have implemented features from functional programming, 
-> such as C++11, C#, Kotlin, Perl, PHP, Python, Go, Rust, Raku, Scala, and Java (since Java 8).
+> or have implemented features from functional programming, such as C++ (since C++11), 
+> C#, Kotlin, Perl, PHP, Python, Go, Rust, Raku, Scala, and Java (since Java 8).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Functional%20programming)
 
