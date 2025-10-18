@@ -96,7 +96,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Hobbiton%20banne
 
 # [[The_Lord_of_the_rings]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~The_Lord_of_the_Rings,15228|WD~The_Lord_of_the_Rings,15228]]
+#is_/same_as :: [[../../../../../../../WikiData/WD~The_Lord_of_the_Rings,15228|WD~The_Lord_of_the_Rings,15228]]
 
 
 ## #has_/text_of_/abstract 

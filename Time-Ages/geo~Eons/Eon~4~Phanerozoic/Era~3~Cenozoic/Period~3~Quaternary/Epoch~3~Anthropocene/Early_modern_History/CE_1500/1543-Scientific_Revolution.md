@@ -21,7 +21,7 @@ start_time: 1543-06
 > (including human anatomy) and chemistry transformed the views of society about nature. 
 > 
 > The Scientific Revolution took place in Europe in the second half of the Renaissance period, 
-> with the 1543 [[Copernicus,Nicolaus]] publication De revolutionibus orbium coelestium 
+> with the 1543 [[../../../../../../../../Science/Polymath/Copernicus,Nicolaus]] publication De revolutionibus orbium coelestium 
 > (On the Revolutions of the Heavenly Spheres) often cited as its beginning. 
 > 
 > The Scientific Revolution has been called "the most important transformation in human history" 

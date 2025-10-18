@@ -15,7 +15,7 @@ sport:
   - "[[_Standards/WikiData/WD~auto_racing,5386]]"
 different_from: "[[_Standards/WikiData/WD~NASCAR,3247929]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_NASCAR,17378076]]"
-headquarters_location: "[[_Standards/WikiData/WD~Charlotte,16565]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Charlotte,16565]]"
 operating_area: "[[_Standards/WikiData/WD~United_States,30]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 social_media_followers:

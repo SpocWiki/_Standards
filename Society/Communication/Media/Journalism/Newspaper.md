@@ -117,8 +117,7 @@ U_S_National_Archives_Identifier:
 
 # [[Newspaper]] 
 
-#is_/same_as ::[[../../../../WikiData/WD~Newspaper,11032]]] 
-
+#is_/same_as :: [[../../../../WikiData/WD~Newspaper,11032|Newspaper]] 
 
 ## #has_/text_of_/abstract 
 

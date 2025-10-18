@@ -326,12 +326,6 @@ icon: flag-ni
 
 # [[Nicaragua]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Nicaragua 
-
-[[Nicaragua/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: NIO ]
 [	ISO4217-currency_name	 :: Cordoba Oro ]
 [	ISO4217-currency_numeric	 :: 558 ]
@@ -395,20 +389,27 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 558 ]
 
-
-
 [ISO2::NI]
 [ISO3::NIC] 
 
+#is_/same_as :: [[../../../WikiData/WD~Nicaragua,811|WD~Nicaragua,811]]  
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Nicaragua 
+
+[[Nicaragua/ReadMe]] 
+
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Nicaragua
 zoomFeatures: true 
 minZoom: 4 
+defaultZoom: 7 
 maxZoom: 18
+coordinates: [[Nicaragua]] 
+markerFile: [[Nicaragua]] 
 geojsonFolder: ./Nicaragua//
 markerFolder: ./Nicaragua/
 ```

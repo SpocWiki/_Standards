@@ -12,7 +12,7 @@ Wikidata_property: NHL.com player ID
 country:
   - "[[_Standards/WikiData/WD~Canada,16]]"
   - "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+headquarters_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
 season_starts: "[[_Standards/WikiData/WD~October,124]]"
 number_of_participants: 32
 social_media_followers:

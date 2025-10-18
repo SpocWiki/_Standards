@@ -35,7 +35,7 @@ language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
 form_of_creative_work: "[[_Standards/WikiData/WD~novel,8261]]"
 copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
 country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-narrative_location: "[[_Standards/WikiData/WD~Boston,100]]"
+narrative_locations: "[[_Standards/WikiData/WD~Boston,100]]"
 title: The Scarlet Letter
 subtitle: A Romance
 Dewey_Decimal_Classification_works_and_editions_: "813.3"

@@ -35,7 +35,7 @@ Wolfram_Language_entity_code: "Entity[\"Book\", \"ArtOfWar\"]"
 # [[The_Art_of_War]]
 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~The_Art_of_War,8251|WD~The_Art_of_War,8251]]
+#is_/same_as :: [[../../../../../../../WikiData/WD~The_Art_of_War,8251|WD~The_Art_of_War,8251]]
 
 
 ## #has_/text_of_/abstract 

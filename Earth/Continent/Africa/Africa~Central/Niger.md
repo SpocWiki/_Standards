@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Niger
+  - Níger
+  - النيجر
+  - 尼日尔
+  - Нигер
+  - the Republic of the Niger
+  - Niger (the)
+  - la República del Níger
+  - Níger (el)
+has_id_wikidata: Q1032
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Sahel,66065]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Niger,103046]]"
 instance_of:
@@ -310,7 +321,6 @@ coordinates_of_northernmost_point: Point(11.98 23.52)
 population: 21477348
 geoshape: http://commons.wikimedia.org/data/main/Data:Niger.map
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Niger.svg
-has_id_wikidata: Q1032
 location:
   - 13.5333
   - 2.08333
@@ -333,16 +343,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Niger
-  - Níger
-  - النيجر
-  - 尼日尔
-  - Нигер
-  - the Republic of the Niger
-  - Niger (the)
-  - la República del Níger
-  - Níger (el)
 Languages:
   - fr-NE
   - ha
@@ -351,13 +351,6 @@ Languages:
 ---
 
 # [[Niger]] 
-
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Niger 
-
-[[Niger/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: XOF ]
 [	ISO4217-currency_name	 :: CFA Franc BCEAO ]
@@ -422,10 +415,19 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 562 ]
 
-
-
 [ISO2::NE]
-[ISO3::NER]
+[ISO3::NER] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Niger,1032|WD~Niger,1032]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Niger 
+
+[[Niger/ReadMe]] 
+
+
+## #has_/map 
+
 ```leaflet
 id: Niger
 zoomFeatures: true 
@@ -449,7 +451,7 @@ markerFolder: ./Niger//
 [Area-Land::1266700]
 has_place_continent:: [[Africa]]  
 [VehicleCode::RN]
-Capital :: [[Niamey]]  
+Capital :: [[Niger/Regions~Niger/Niamey]]  
 [Alcohol-l::0.3]
 [Language-Id::496]
 #is_a_/Place  

@@ -137,7 +137,7 @@ founded_by:
   - "[[_Standards/WikiData/WD~United_States_Congress,11268]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
 employees:
   - 18000
   - 17300
