@@ -2,13 +2,13 @@
 aliases:
   - Normal_Distribution
   - Gaussian distribution
+has_id_wikidata: Q133871
 confidential: private
 cssclasses:
   - private
   - note
 draft: true
 expiryDate:
-has_id_wikidata: Q133871
 has_Template:
   - Extract~Note~Template
 has_time_started: 2024-12-15
@@ -38,9 +38,56 @@ tags:
   - 
 title: Normal_Distribution
 type: private_note
+subclass_of:
+  - "[[_Standards/WikiData/WD~Student's_t_distribution,576072]]"
+  - "[[_Standards/WikiData/WD~continuous_probability_distribution,917918]]"
+  - "[[_Standards/WikiData/WD~multivariate_normal_distribution,1149000]]"
+  - "[[_Standards/WikiData/WD~exponential_family,1188504]]"
+  - "[[_Standards/WikiData/WD~contaminated_normal_distribution,1660125]]"
+  - "[[_Standards/WikiData/WD~stable_distribution,1934245]]"
+  - "[[_Standards/WikiData/WD~skew_normal_distribution,3258551]]"
+  - "[[_Standards/WikiData/WD~Tweedie_distribution,7857491]]"
+  - "[[_Standards/WikiData/WD~univariate_probability_distribution,7893853]]"
+definition_domain: "[[_Standards/WikiData/WD~set_of_real_numbers,1174982]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~cumulative_distribution_function_of_a_Normal_distribution,3754557]]"
+  - "[[_Standards/WikiData/WD~bell_shaped_curve,20076286]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]"
+characteristic_function: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">e</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow><mi>&#x03BC;</mi><mi>t</mi><mo stretchy="false">&#x2212;</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><msup><mi>&#x03C3;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><msup><mi>t</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></mfrac></mrow></mrow></mrow></msup></mstyle></mrow></math>
+variance_of_a_probability_distribution: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>&#x03C3;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mstyle></mrow></math>
+support_of_a_function: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>x</mi><mo stretchy="false">&#x2208;</mo><mrow data-mjx-texclass="ORD"><mi>ℝ</mi></mrow></mstyle></mrow></math>
+in_defining_formula:
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BC;</mi></mstyle></mrow></math>
+  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C3;</mi></mstyle></mrow></math>
+cumulative_distribution_function: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></mfrac></mrow><mi data-mjx-texclass="OP" mathvariant="normal">erfc</mi><mo>&#x2061;</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi><mo stretchy="false">&#x2212;</mo><mi>x</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><msqrt><mn>2</mn></msqrt></mrow><mi>&#x03C3;</mi></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
+named_after: "[[_Standards/WikiData/WD~Carl_Friedrich_Gauss,6722]]"
+facet_of: "[[_Standards/WikiData/WD~statistics,12483]]"
+mode_of_a_probability_distribution: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BC;</mi></mstyle></mrow></math>
+median_of_a_probability_distribution: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BC;</mi></mstyle></mrow></math>
+mean_of_a_probability_distribution: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BC;</mi></mstyle></mrow></math>
+excess_kurtosis: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>0</mn></mstyle></mrow></math>
+skewness: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>0</mn></mstyle></mrow></math>
+defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03C3;</mi><mrow data-mjx-texclass="ORD"><msqrt><mrow data-mjx-texclass="ORD"><mn>2</mn><mi>&#x03C0;</mi></mrow></msqrt></mrow></mrow></mrow></mfrac></mrow><msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">e</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">&#x2212;</mo><mi>&#x03BC;</mi><msup><mo stretchy="false">)</mo><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>2</mn><msup><mi>&#x03C3;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow></mrow></mfrac></mrow></mrow></mrow></msup></mstyle></mrow></math>
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Normal%20Distribution%20PDF.svg
+Stack_Exchange_tag:
+  - https://math.stackexchange.com/tags/normal-distribution
+  - https://stats.stackexchange.com/tags/normal-distribution
+TeX_string: \mathcal{N}(\mu,\,\sigma^2)
+UMLS_CUI: C0028377
+MeSH_tree_code:
+  - E05.318.740.994.500
+  - G17.820.500
+  - N05.715.360.750.750.565
+  - N06.850.520.830.994.500
+Commons_category: Normal distribution
+moment_generating_function: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">e</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi><mi>t</mi><mo stretchy="false">+</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><msup><mi>&#x03C3;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><msup><mi>t</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></mfrac></mrow></mrow></mrow></msup></mstyle></mrow></math>
 ---
 
-#is_/same_as :: [[../../../_Standards/WikiData/WD~Normal_distribution,133871|WD~Normal_distribution,133871]] 
+#is_/same_as :: [[../../../../WikiData/WD~Normal_distribution,133871|WD~Normal_distribution,133871]]  
 # [[Normal_Distribution]] 
 
 

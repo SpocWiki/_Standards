@@ -51,7 +51,8 @@ video:
 
 # [[Metal]] 
 
-#is_/same_as :: [[../../WikiData/WD~Metal,11426|WD~Metal,11426]] 
+#is_/opposite_of :: [[Nonmetal|Nonmetal]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Metal,11426|WD~Metal,11426]] 
 
 ## #has_/text_of_/abstract  
 
