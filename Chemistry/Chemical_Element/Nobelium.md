@@ -47,7 +47,6 @@ DSSTOX_compound_identifier: DTXCID8065585
 
 #is_/same_as :: [[../../WikiData/WD~Nobelium,1901|WD~Nobelium,1901]]
 
-
 ## #has_/text_of_/abstract 
 
 > **Nobelium** is a synthetic chemical element; it has symbol No and atomic number 102. It is named after Alfred Nobel, the inventor of dynamite and benefactor of science. A radioactive metal, it is the tenth transuranium element, the second transfermium, and is the penultimate member of the actinide series. Like all elements with atomic number over 100, nobelium can only be produced in particle accelerators by bombarding lighter elements with charged particles. A total of twelve nobelium isotopes are known to exist; the most stable is 259No with a half-life of 58 minutes, but the shorter-lived 255No (half-life 3.1 minutes) is most commonly used in chemistry because it can be produced on a larger scale.

@@ -3,7 +3,7 @@
 #is_a_/ComputerLanguage 
 #is_a_/computer_language  
 
-#has_/creator :: [[Wirth~Niklaus]]
+#has_/creator :: [[../../../Computer_Science/Computer_Scientist/Wirth,Niklaus]]
 #has_/parent  :: [[../../Prog~Imperative/Prog~CPL]] 
 #has_/time_/started :: 1968-07-01 
 

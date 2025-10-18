@@ -5,7 +5,7 @@
 #is_a_/computer_language  
 
 #has_/parent :: [[../Prog~Structured/Structured_Prog-Lang/Prog~Pascal]] 
-#has_/creator :: [[Wirth~Niklaus]], [[Tesler~Larry]]    
+#has_/creator :: [[../../Computer_Science/Computer_Scientist/Wirth,Niklaus]], [[Tesler~Larry]]    
 
 > Object Pascal is an extension to the programming language Pascal that provides object-oriented programming (OOP) features such as classes and methods.
 >

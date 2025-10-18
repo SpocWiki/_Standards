@@ -605,9 +605,36 @@ aliases:
 
 # [[Google]] 
 
+#is_/different_from :: [[../../../../../../../Mathematics/Number/Constant/Googol|Googol]]  
 #is_/same_as ::[[../../../../../../../../WikiData/WD~Google,95]]]
 
-## Edit
+## #has_/text_of_/abstract 
+
+> **Google** LLC (GOO-gəl) is an American multinational technology corporation focused on 
+> information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI). 
+> 
+> It has been referred to as "the most powerful company in the world" by the BBC, 
+> and is one of the world's most valuable brands. 
+> Google's parent company, Alphabet Inc., is considered part of the Big Tech group, 
+> alongside Nvidia, Microsoft, Apple, Amazon, and Meta. 
+>
+> Google was founded on September 4, 1998, 
+> by American computer scientists Larry Page and Sergey Brin. 
+> 
+> Together, they own about 14% of its publicly listed shares 
+> and control 56% of its stockholder voting power through super-voting stock. 
+> 
+> The company went public via an initial public offering (IPO) in 2004. 
+> In 2015, Google was reorganized as a wholly owned subsidiary of Alphabet Inc. 
+> Google is Alphabet's largest subsidiary and is a holding company for Alphabet's internet properties and interests. Sundar Pichai was appointed CEO of Google on October 24, 2015, replacing Larry Page, who became the CEO of Alphabet. On December 3, 2019, Pichai also became the CEO of Alphabet.
+>
+> After the success of its original service, Google Search (often known simply as "Google"), the company has rapidly grown to offer a multitude of products and services. These products address a wide range of use cases, including email (Gmail), navigation and mapping (Waze, Maps, and Earth), cloud computing (Cloud), web navigation (Chrome), video sharing (YouTube), productivity (Workspace), operating systems (Android and ChromeOS), cloud storage (Drive), language translation (Translate), photo storage (Photos), videotelephony (Meet), smart home (Nest), smartphones (Pixel), wearable technology (Pixel Watch and Fitbit), music streaming (YouTube Music), video on demand (YouTube TV), AI (Google Assistant and Gemini), machine learning APIs (TensorFlow), AI chips (TPU), and more. Many of these products and services are dominant in their respective industries, as is Google Search. Discontinued Google products include gaming (Stadia), Glass, Google+, Reader, Play Music, Nexus, Hangouts, and Inbox by Gmail. Google's other ventures outside of internet services and consumer electronics include quantum computing (Willow), self-driving cars (Waymo), smart cities (Sidewalk Labs), and transformer models (Google DeepMind).
+>
+> Google Search and YouTube are the two most-visited websites worldwide, followed by Facebook, Instagram, and ChatGPT. Google is the largest provider of search engines, mapping and navigation applications, email services, office suites, online video platforms, photo and cloud storage, mobile operating systems, web browsers, machine learning frameworks, and AI virtual assistants in the world as measured by market share. On the list of most valuable brands, Google is ranked second by Forbes as of January 2022, and is fourth by Interbrand as of February 2022. The company has received significant criticism involving issues such as privacy concerns, tax avoidance, censorship, search neutrality, antitrust, and abuse of its monopoly position.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Google) 
+
+
 
 ## All Contents
 
