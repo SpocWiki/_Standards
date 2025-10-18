@@ -38,6 +38,10 @@ water_footprint:
 Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Nut\"]"
 ---
 
+# [[Nut(fruit)]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Nut,11009|WD~Nut,11009]] 
+
 ## #has_/text_of_/abstract 
 
 > A nut is a fruit consisting of a hard or tough nutshell protecting a kernel which is usually edible. In general usage and in a culinary sense, many dry seeds are called nuts, but in a botanical context, "nut" implies that the shell does not open to release the seed (indehiscent).

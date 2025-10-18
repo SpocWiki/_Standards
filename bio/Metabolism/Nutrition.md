@@ -31,6 +31,10 @@ subreddit:
 U_S_National_Archives_Identifier: 10644258
 ---
 
+# [[Nutrition]] 
+
+#is_/same_as :: [[../../WikiData/WD~Nutrition,2138622|WD~Nutrition,2138622]] 
+
 ## #has_/text_of_/abstract 
 
 > **Nutrition** is the biochemical and physiological process 
