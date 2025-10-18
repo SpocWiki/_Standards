@@ -27,6 +27,10 @@ time_of_discovery_or_invention: 1938-12-01
 UMLS_CUI: C0028576
 ---
 
+# [[Nuclear_Fission]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Nuclear_fission,11429|WD~Nuclear_fission,11429]] 
+
 ## #has_/text_of_/abstract 
 
 > **Nuclear fission** is a reaction in which the nucleus of an atom splits into two or more smaller nuclei. The fission process often produces gamma photons, and releases a very large amount of energy even by the energetic standards of radioactive decay.
