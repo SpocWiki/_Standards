@@ -8,7 +8,7 @@ has_id_wikidata: Q92739
 # [[McCarthy,John]]
 
 #is_a_/Person 
-#has_/created :: [[../../Prog~Language/Prog~Functional/Prog~LISP|LISP]] 
+#has_/created :: [[../../Software/Computer_Programming/Prog~Language/Prog~Functional/Prog~LISP|LISP]] 
 #is_/same_as :: [[_Standards/WikiData/WD~John_McCarthy,92739]] 
 
 ## #has_/text_of_/abstract  

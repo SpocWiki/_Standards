@@ -1,6 +1,6 @@
 ---
 aliases:
-- nutrition
+- has nutrition
 - "schema:nutrition"
 - "dbo:nutrition"
 - "wdt:P4224"

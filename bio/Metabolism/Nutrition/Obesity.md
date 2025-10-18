@@ -420,9 +420,25 @@ Wolfram_Language_entity_code: "Entity[\"Disease\", \"Obesity\"]"
 WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/obesity"
 ---
 
+# [[Obesity]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Obesity,12174|WD~Obesity,12174]] 
+
 ## #has_/text_of_/abstract 
 
-> **Obesity** is a medical condition, sometimes considered a disease, in which excess body fat has accumulated to such an extent that it can potentially have negative effects on health. People are classified as obese when their body mass index (BMI)—a person's weight divided by the square of the person's height—is over 30 kg/m2; the range 25–30 kg/m2 is defined as overweight. Some East Asian countries use lower values to calculate obesity. Obesity is a major cause of disability and is correlated with various diseases and conditions, particularly cardiovascular diseases, type 2 diabetes, obstructive sleep apnea, certain types of cancer, and osteoarthritis.
+> **Obesity** is a medical condition, sometimes considered a disease, 
+> in which excess body fat has accumulated to such an extent 
+> that it can potentially have negative effects on health. 
+> 
+> People are classified as obese when their body mass index (BMI)—
+> a person's weight divided by the square of the person's height—is over 30 kg/m2; 
+> the range 25–30 kg/m2 is defined as overweight. 
+> 
+> Some East Asian countries use lower values to calculate obesity. 
+> Obesity is a major cause of disability 
+> and is correlated with various diseases and conditions, 
+> particularly cardiovascular diseases, type 2 diabetes, obstructive sleep apnea, 
+> certain types of cancer, and osteoarthritis.
 >
 > Obesity has individual, socioeconomic, and environmental causes. Some known causes are diet, low physical activity, automation, urbanization, genetic susceptibility, medications, mental disorders, economic policies, endocrine disorders, and exposure to endocrine-disrupting chemicals.
 >

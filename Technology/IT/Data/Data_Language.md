@@ -1,7 +1,7 @@
 
 # [[Data_Language]] 
 
-#is_/different_from :: [[../Software/Programming_Language|Programming_Language]] 
+#is_/different_from :: [[../Software/Computer_Programming/Prog~Language|Prog~Language]] 
 
 | Feature         | Data Languages                        | Programming Languages                         |
 | --------------- | ------------------------------------- | --------------------------------------------- |

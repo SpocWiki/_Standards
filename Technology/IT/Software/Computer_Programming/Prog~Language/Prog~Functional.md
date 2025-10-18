@@ -125,7 +125,7 @@ You need to distinguish between essential (public, stable) and accidental (priva
 > or have implemented features from functional programming, such as C++ (since C++11), 
 > C#, Kotlin, Perl, PHP, Python, Go, Rust, Raku, Scala, and Java (since Java 8).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Functional%20programming) 
+> [Wikipedia](https://en.wikipedia.org/wiki/Functional%20programming)
 
 
 ## Benefits 
