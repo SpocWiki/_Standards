@@ -40,7 +40,7 @@ IEV_number: 171-02-11
 
 #is_/same_as :: [[../../../../WikiData/WD~Bit,8805|WD~Bit,8805]] 
 #is_/similar_to :: [[Nat]] 
-#is_a :: [[../Digit|Digit]] 
+#is_a :: [[../Numerical_Digit|Numerical_Digit]] 
 
 ## #has_/text_of_/abstract 
 
