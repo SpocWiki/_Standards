@@ -146,7 +146,7 @@ ISNI: "0000000122810491"
 
 # [[Doyle,Arthur_Conan]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Arthur_Conan_Doyle,35610|WD~Arthur_Conan_Doyle,35610]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Arthur_Conan_Doyle,35610|WD~Arthur_Conan_Doyle,35610]] 
 
 ## #has_/text_of_/abstract 
 

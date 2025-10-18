@@ -30,12 +30,14 @@ Wikidata_property:
 
 > A fictional universe, also known as an imagined universe or a constructed universe, 
 > is the internally consistent fictional setting used in a narrative or a work of art. 
+> 
 > This concept is most commonly associated with works of fantasy and science fiction, 
 > and can be found in various forms such as novels, comics, films, television shows, video games, 
 > and other creative works.
 >
 > In science fiction, a fictional universe may be a remote alien planet 
 > or galaxy with little apparent relationship to the real world (as in Star Wars); 
+> 
 > in fantasy, it may be a greatly fictionalized or invented version of Earth's distant past or future 
 > (as in The Lord of the Rings).
 >

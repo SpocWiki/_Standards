@@ -3,7 +3,7 @@ aliases:
 - "Butch Cassidy and the Sundance Kid"
 ---
 
-#has_/genre :: [ [[Western]], [[Buddy-Story]] ]
+#has_/genre :: [ [[../../../../Genre/Fiction/Western(Genre)]], [[Buddy-Story]] ]
 
 
 ## #has_/text_of_/abstract 

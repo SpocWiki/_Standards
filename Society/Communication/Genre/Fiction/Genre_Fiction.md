@@ -1,6 +1,8 @@
 ---
 aliases:
   - Genre fiction
+  - formula fiction
+  - commercial fiction
 has_id_wikidata: Q1194480
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~popular_literature,2497655]]"
 opposite_of: "[[_Standards/WikiData/WD~high_literature,6647667]]"
