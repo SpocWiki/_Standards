@@ -8,7 +8,7 @@
 > RNA and deoxyribonucleic acid (DNA) are nucleic acids. 
 > The nucleic acids constitute one of the four major macromolecules essential for all known forms of life. 
 > RNA is assembled as a chain of nucleotides. 
-> Cellular organisms use [[mRNA(messenger_RNA)]] to convey genetic information 
+> Cellular organisms use [[RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA)]] to convey genetic information 
 > (using the nitrogenous bases of guanine, uracil, adenine, and cytosine, denoted by the letters G, U, A, and C) 
 > that directs synthesis of specific proteins. 
 > Many viruses encode their genetic information using an RNA genome.

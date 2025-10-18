@@ -32,7 +32,7 @@ Library_of_Congress_Classification: QC790.95-QC791.8
 
 # [[Nuclear_Fusion]] 
 
-#is_/same_as :: [[WD~Nuclear_fusion,13082]] 
+#is_/same_as :: [[../../../WikiData/WD~Nuclear_fusion,13082|WD~Nuclear_fusion,13082]] 
 
 ## #has_/text_of_/abstract 
 

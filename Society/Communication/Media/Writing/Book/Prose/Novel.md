@@ -38,6 +38,10 @@ subclass_of:
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Novels,11774360]]"
 ---
 
+# [[Novel]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Novel,8261|WD~Novel,8261]] 
+
 ## #has_/text_of_/abstract 
 
 > A **novel** is an extended work of narrative fiction usually written in prose and published as a book. 
