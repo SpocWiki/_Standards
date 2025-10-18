@@ -90,16 +90,27 @@ Dewey_Decimal_Classification:
 CAS_Registry_Number: 7697-37-2
 ---
 
-
 # [[Nitric_acid]]
 
 #is_/same_as :: [[../../../WikiData/WD~Nitric_acid,83320|WD~Nitric_acid,83320]]
 
-
 ## #has_/text_of_/abstract 
 
-> **Nitric acid** is an inorganic compound with the formula HNO3. It is a highly corrosive mineral acid. The compound is colorless, but samples tend to acquire a yellow cast over time due to decomposition into oxides of nitrogen. Most commercially available nitric acid has a concentration of 68% in water. When the solution contains more than 86% HNO3, it is referred to as fuming nitric acid. Depending on the amount of nitrogen dioxide present, fuming nitric acid is further characterized as red fuming nitric acid at concentrations above 86%, or white fuming nitric acid at concentrations above 95%.
+> **Nitric acid** is an inorganic compound with the formula HNO3. 
+> It is a highly corrosive mineral acid. The compound is colorless, but samples tend to acquire a yellow cast over time due to decomposition into oxides of nitrogen. 
+> Most commercially available nitric acid has a concentration of 68% in water. 
+> When the solution contains more than 86% HNO3, it is referred to as fuming nitric acid. 
+> Depending on the amount of nitrogen dioxide present, 
+> fuming nitric acid is further characterized as red fuming nitric acid at concentrations above 86% ,
+> or white fuming nitric acid at concentrations above 95%.
 >
-> Nitric acid is the primary reagent used for nitration – the addition of a nitro group, typically to an organic molecule. While some resulting nitro compounds are shock- and thermally-sensitive explosives, a few are stable enough to be used in munitions and demolition, while others are still more stable and used as synthetic dyes and medicines (e.g. metronidazole). Nitric acid is also commonly used as a strong oxidizing agent.
+> Nitric acid is the primary reagent used for nitration – the addition of a nitro group, 
+> typically to an organic molecule. 
+> 
+> While some resulting nitro compounds are shock- and thermally-sensitive explosives, 
+> a few are stable enough to be used in munitions and demolition, 
+> while others are still more stable and used as synthetic dyes and medicines (e.g. metronidazole). 
+> 
+> Nitric acid is also commonly used as a strong oxidizing agent.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nitric%20acid)

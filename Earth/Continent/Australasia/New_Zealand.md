@@ -1,5 +1,4 @@
 ---
-age_of_majority: 20
 aliases:
   - New Zealand
   - Nueva Zelandia
@@ -7,6 +6,8 @@ aliases:
   - نيوزيلندا
   - 新西兰
   - Новая Зеландия
+has_id_wikidata: Q664
+age_of_majority: 20
 anthem: "[[_Standards/WikiData/WD~God_Defend_New_Zealand,202137]]"
 area: 268021
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/God%20Defend%20New%20Zealand%20instrumental.ogg
@@ -189,7 +190,6 @@ GS1_country_code: 940-949
 Happy_Planet_Index_score: 57.4
 hashtag: NewZealand
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q664
 has_part_s_: "[[_Standards/WikiData/WD~Waiheke_Island,909136]]"
 has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Seal_of_New_Zealand,7440569]]"
 head_of_government: "[[_Standards/WikiData/WD~Christopher_Luxon,74370310]]"
