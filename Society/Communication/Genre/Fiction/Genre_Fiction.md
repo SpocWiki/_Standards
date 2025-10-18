@@ -15,7 +15,13 @@ studied_by: "[[_Standards/WikiData/WD~popular_and_genre_literature_studies,11312
 
 ## #has_/text_of_/abstract 
 
-> In the book-trade, **Genre fiction**, also known as formula fiction, or commercial fiction, encompasses fictional works written with the intent of fitting into a specific literary genre in order to appeal to readers and fans already familiar with that genre.  These labels commonly imply that this type of fiction places more value on plot and entertainment than on character development, philosophical themes, or artistic depth. This distinguishes genre fiction from literary fiction.
+> In the book-trade, **Genre fiction**, also known as formula fiction, or commercial fiction, 
+> encompasses fictional works written with the intent of fitting into a specific literary genre 
+> in order to appeal to readers and fans already familiar with that genre.  
+> 
+> These labels commonly imply that this type of fiction places more value on plot and entertainment 
+> than on character development, philosophical themes, or artistic depth. 
+> This distinguishes genre fiction from literary fiction.
 >
 > The main genres are crime, fantasy, romance, science fiction and horror—as well as perhaps Western, inspirational and historical fiction.
 >

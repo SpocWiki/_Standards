@@ -64,7 +64,7 @@ publication_date: 1812-01-01T00:00:00Z
 ## #has_/text_of_/abstract 
 
 > "Hansel and Gretel" (; German: Hänsel und Gretel [ˈhɛnzl̩ ʔʊnt ˈɡʁeːtl̩]) 
-> is a German [[../Fairy_Tale|fairy tale]] collected by the [[../../../Writer/Modern_Writer/Grimm,Brothers|Brothers Grimm]] 
+> is a German [[../Fairy_Tale|fairy tale]] collected by the [[../../../../Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers|Brothers Grimm]] 
 > and published in 1812 as part of Grimms' Fairy Tales (KHM 15).
 >
 > Hansel and Gretel are siblings who are abandoned in a forest 
