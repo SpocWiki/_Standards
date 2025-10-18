@@ -43,6 +43,21 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/security
 
 #is_/same_as :: [[../../../../WikiData/WD~Security,2526135|WD~Security,2526135]] 
 
+1. Confidentiality 
+2. Integrity 
+3. Availability 
+4. Authenticity 
+5. Accountability 
+6. [[Privacy]]  
+7. Resilience
+
+| School of Thought                                                  | Core Focus                                  | Authority  | Key Contributors         |
+| ------------------------------------------------------------------ | ------------------------------------------- | ---------- | ------------------------ |
+| **Classical Security (CIA Triad)**                                 | Confidentiality, Integrity, Availability    | 60%        | NIST, ISO/IEC, DoD       |
+| **Extended Model (CIAAN: CIA + Accountability + Non-repudiation)** | Adds traceability and responsibility        | 25%        | ITU-T, ENISA             |
+| **Resilience-based Security**                                      | Focus on system continuity and self-healing | 10%        | MITRE, NATO Cyber Centre |
+| **Privacy-centric Security**                                       | Emphasizes user consent and data protection | 5%         | EU GDPR Working Party    |
+
 ## #has_/text_of_/abstract 
 
 > **Security** is protection from, or resilience against, potential harm (or other unwanted coercion). 
