@@ -18,10 +18,9 @@ GitHub_topic: functional-programming
 subreddit: functionalprogramming
 ---
 
-# [[Functional_Programming]] 
+# [[Prog~Functional]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Functional_programming,193076|WD~Functional_programming,193076]] 
-
+#is_/same_as :: [[../../../../../WikiData/WD~Functional_programming,193076|WD~Functional_programming,193076]]  
 
 Pure Functions create Programs without Side-Effects. 
 Additionally these __always return the same Result__

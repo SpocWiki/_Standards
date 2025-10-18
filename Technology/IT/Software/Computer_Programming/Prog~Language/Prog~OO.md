@@ -2,6 +2,7 @@
 
 see [[Prog~OO/OO~Modeling|OO~Modeling]] 
 #is_/different_from :: [[ECP(Entity Component System)]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Object-oriented_programming,79872|WD~Object-oriented_programming,79872]] 
 
 ## Extensions to [[Prog~Structured]] 
 

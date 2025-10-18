@@ -4,6 +4,7 @@ aliases:
   - observation
   - Observation
   - is_an_observation
+has_id_wikidata: Q193181
 confidential: public
 cssclasses:
   - Type
@@ -23,7 +24,22 @@ tags:
   - schema-org/Class
 title: is_an_observation Class
 type: Type
+has_part_s_: "[[_Standards/WikiData/WD~perception,160402]]"
+different_from: "[[_Standards/WikiData/WD~observational_study,818574]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+  - "[[_Standards/WikiData/WD~activity,1914636]]"
+  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+has_use: "[[_Standards/WikiData/WD~data_acquisition,1172399]]"
+practiced_by: "[[_Standards/WikiData/WD~observer,28973077]]"
+part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
+subclass_of: "[[_Standards/WikiData/WD~noticing,107339018]]"
+Commons_category: Observation
+UMLS_CUI: C0302523
+MeSH_tree_code: E05.581.249
 ---
+
+# [[Observation]] 
 
 Class of all observations.
 
@@ -39,6 +55,30 @@ See also [[StatisticalPopulation]], and the <a href="/docs/data-and-datasets.htm
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, marginOfError, measuredProperty, measuredValue, name, observationDate, observedNode, potentialAction, sameAs, subjectOf, url ] ]
 
+#is_/same_as :: [[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]] 
+
+## #has_/text_of_/abstract 
+
+> **Observation** in the natural sciences refers to the active acquisition of information 
+> from a primary source. 
+> 
+> It involves the act of noticing or perceiving phenomena 
+> and gathering data based on direct engagement with the subject of study.
+>
+> In living organisms, observation typically occurs through the senses. 
+> In science, it often extends beyond unaided perception, 
+> involving the use of scientific instruments to detect, measure, and record data. 
+> This enables the observation of phenomena not accessible to human senses alone.
+>
+> Observations in science are typically categorized as either qualitative or quantitative:
+>
+> Qualitative observations describe characteristics that are not expressed numerically, such as color, texture, or behavior.
+>
+> Quantitative observations involve numerical measurements, obtained through counting or using instruments to assign values to observed phenomena.
+>
+> The term observation may refer both to the process of observing and to the information recorded as a result of that process.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Observation)
 
 ## Confidential Links & Embeds: 
 
