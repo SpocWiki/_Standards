@@ -58,7 +58,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~Q2682086,2682086]]'
 
 # [[DNA(Desoxyribo-Nucleic_Acid)]] 
 
-#is_/same_as :: [[../../WikiData/WD~DNA,7430|WD~DNA,7430]] 
+#is_/same_as :: [[../../../WikiData/WD~DNA,7430|WD~DNA,7430]] 
 
 ## #has_/text_of_/abstract 
 
