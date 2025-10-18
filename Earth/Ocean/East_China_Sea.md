@@ -2,6 +2,8 @@
 aliases:
   - East China Sea
 has_id_wikidata: Q45341
+location: [ 30.0, 125]
+coordinate_location: Point(125.0 30.0)
 instance_of: "[[_Standards/WikiData/WD~marginal_sea,204894]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -41,7 +43,6 @@ connects_with:
 part_of: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 area: 1249000
 vertical_depth: 2719
-coordinate_location: Point(125.0 30.0)
 OmegaWiki_Defined_Meaning: "877087"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/East%20China%20Sea%20in%20its%20region.svg
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/East%20China%20Sea%20map%20with%20topography%20border.png
@@ -54,6 +55,21 @@ Commons_category: East China Sea
 # [[East_China_Sea]]
 
 #is_/same_as :: [[../../WikiData/WD~East_China_Sea,45341|WD~East_China_Sea,45341]]
+
+## #has_/map 
+
+```leaflet
+id: East_China_Sea
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+defaultZoom: 5 
+coordinates: [[East_China_Sea]] 
+markerFile: [[East_China_Sea]] 
+geojsonFolder: ./East_China_Sea/
+markerFolder: ./East_China_Sea/
+```
+
 
 ## #has_/text_of_/abstract 
 
