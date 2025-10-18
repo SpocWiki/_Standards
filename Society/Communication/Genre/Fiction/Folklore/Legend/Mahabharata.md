@@ -78,17 +78,48 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Mahabharata,5754633]]'
 
 ## #has_/text_of_/abstract 
 
-> The Mahābhārata ( mə-HAH-BAR-ə-tə, MAH-hə-; Sanskrit: महाभारतम्, IAST: Mahābhāratam, pronounced [mɐɦaːˈbʱaːrɐt̪ɐm]) is one of the two major Sanskrit epics of ancient India revered as Smriti texts in Hinduism, the other being the Rāmāyaṇa. It narrates the events and aftermath of the Kurukshetra War, a war of succession between two groups of princely cousins, the Kauravas and the Pāṇḍavas.
->
+> The Mahābhārata ( mə-HAH-BAR-ə-tə, MAH-hə-; 
+> Sanskrit: महाभारतम्, IAST: Mahābhāratam, pronounced [mɐɦaːˈbʱaːrɐt̪ɐm]) 
+> is one of the two major Sanskrit epics of ancient India revered as Smriti texts in Hinduism, 
+> the other being the Rāmāyaṇa. 
 > 
+> It narrates the events and aftermath of the Kurukshetra War, 
+> a war of succession between two groups of princely cousins, the Kauravas and the Pāṇḍavas.
 >
-> It also contains philosophical and devotional material, such as a discussion of the four "goals of life" or puruṣārtha (12.161). Among the principal works and stories in the Mahābhārata are the Bhagavad Gita, the story of Damayanti, the story of Shakuntala, the story of Pururava and Urvashi, the story of Savitri and Satyavan, the story of Kacha and Devayani, the story of Rishyasringa and an abbreviated version of the Rāmāyaṇa, often considered as works in their own right.
->
+> It also contains philosophical and devotional material, 
+> such as a discussion of the four "goals of life" or puruṣārtha (12.161). 
 > 
+> Among the principal works and stories in the Mahābhārata are 
+> - the Bhagavad Gita, 
+> - the story of Damayanti, 
+> - the story of Shakuntala, 
+> - the story of Pururava and Urvashi, 
+> - the story of Savitri and Satyavan, 
+> - the story of Kacha and Devayani, 
+> - the story of Rishyasringa 
+> - and an abbreviated version of the Rāmāyaṇa, often considered as works in their own right.
 >
-> Traditionally, the authorship of the Mahābhārata is attributed to Vyāsa. There have been many attempts to unravel its historical growth and compositional layers. The bulk of the Mahābhārata was probably compiled between the 3rd century BCE and the 3rd century CE, with the oldest preserved parts not much older than around 400 BCE. The text probably reached its final form by the early Gupta period (c. 4th century CE).
+> Traditionally, the authorship of the Mahābhārata is attributed to Vyāsa. 
+> There have been many attempts to unravel its historical growth and compositional layers. 
+> The bulk of the Mahābhārata was probably compiled 
+> between the 3rd century BCE and the 3rd century CE, 
+> with the oldest preserved parts not much older than around 400 BCE. 
+> The text probably reached its final form by the early Gupta period (c. 4th century CE).
 >
-> The title is translated as "Great Bharat (India)", or "the story of the great descendents of Bharata", or as "The Great Indian Tale". The Mahābhārata is the longest epic poem known and has been described as "the longest poem ever written". Its longest version consists of over 100,000 śloka or over 200,000 individual verse lines (each shloka is a couplet), and long prose passages. At about 1.8 million words in total, the Mahābhārata is roughly ten times the length of the Iliad and the Odyssey combined, or about four times the length of the Rāmāyaṇa. Within the Indian tradition it is sometimes called the fifth Veda.
+> The title is translated as "Great Bharat (India)", 
+> or "the story of the great descendents of Bharata", or as "The Great Indian Tale". 
+> 
+> The Mahābhārata is the longest epic poem known 
+> and has been described as "the longest poem ever written". 
+> 
+> Its longest version consists of over 100,000 śloka or over 200,000 individual verse lines 
+> (each shloka is a couplet), and long prose passages. 
+> 
+> At about 1.8 million words in total, 
+> the Mahābhārata is roughly ten times the length of the Iliad and the Odyssey combined, 
+> or about four times the length of the Rāmāyaṇa. 
+> 
+> Within the Indian tradition it is sometimes called the fifth Veda.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mahabharata) 
 

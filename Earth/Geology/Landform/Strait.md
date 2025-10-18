@@ -1,6 +1,7 @@
 ---
 aliases:
   - Meerenge
+  - Straße
 has_id_wikidata: Q37901
 opposite_of: "[[_Standards/WikiData/WD~isthmus,93267]]"
 subclass_of:

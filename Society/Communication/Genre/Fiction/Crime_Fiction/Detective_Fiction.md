@@ -22,11 +22,23 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/DETEKTIV.html
 
 # [[Detective_Fiction]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Detective_fiction,186424|WD~Detective_fiction,186424]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Detective_fiction,186424|WD~Detective_fiction,186424]] 
 
 ## #has_/text_of_/abstract 
 
-> **Detective fiction** is a subgenre of crime fiction and mystery fiction in which an investigator or a detective—whether professional, amateur or retired—investigates a crime, often murder. The detective genre began around the same time as speculative fiction and other genre fiction in the mid-nineteenth century and has remained extremely popular, particularly in novels. Some of the most famous heroes of detective fiction include C. Auguste Dupin, Sherlock Holmes, Kogoro Akechi, Miss Marple and Hercule Poirot. Juvenile stories featuring The Hardy Boys, Nancy Drew, and The Boxcar Children have also remained in print for several decades.
+> **Detective fiction** is a subgenre of crime fiction and mystery fiction 
+> in which an investigator or a detective—whether professional, amateur or retired—
+> investigates a crime, often murder. 
+> 
+> The detective genre began around the same time as speculative fiction 
+> and other genre fiction in the mid-nineteenth century 
+> and has remained extremely popular, particularly in novels. 
+> 
+> Some of the most famous heroes of detective fiction include 
+> C. Auguste Dupin, Sherlock Holmes, Kogoro Akechi, Miss Marple and Hercule Poirot. 
+> 
+> Juvenile stories featuring The Hardy Boys, Nancy Drew, and The Boxcar Children 
+> have also remained in print for several decades.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Detective%20fiction) 
 

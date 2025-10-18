@@ -350,11 +350,6 @@ Languages:
 
 # [[Mauritania]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Mauritania 
-
-[[Mauritania/ReadMe]] 
-
 [	ISO4217-currency_alphabetic	 :: MRU ]
 [	ISO4217-currency_name	 :: Ouguiya ]
 [	ISO4217-currency_numeric	 :: 929 ]
@@ -422,6 +417,11 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 [ISO3::MRT]
 
 #is_/same_as :: [[../../../../WikiData/WD~Mauritania,1025|WD~Mauritania,1025]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Mauritania 
+
+[[Mauritania/ReadMe]] 
 
 ## #has_/map 
 

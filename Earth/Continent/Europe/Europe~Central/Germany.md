@@ -45,7 +45,7 @@ contains_the_administrative_territorial_entity:
   - "[[../../../../WikiData/WD~Hesse,1199]]"
   - "[[../../../../WikiData/WD~Lower_Saxony,1197]]"
   - "[[../../../../WikiData/WD~Mecklenburg-Western_Pomerania,1196]]"
-  - "[[../../../../WikiData/WD~North_Rhine-Westphalia]]"
+  - "[[../../../../WikiData/WD~North_Rhine-Westphalia,1198]]"
   - "[[../../../../WikiData/WD~Rhineland-Palatinate,1201]]"
   - "[[../../../../WikiData/WD~Saarland,1201]]"
   - "[[../../../../WikiData/WD~Saxony,1202]]"
@@ -741,7 +741,7 @@ with numbers as of 2023-06
 > and the [[Netherlands]] to the west. 
 > 
 > The nation's capital and most populous city is [[Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City|Berlin]] 
-> and its main financial center is [[Frankfurt]]; the largest urban area is [[Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Essen,Ruhr|Essen,Ruhr]].
+> and its main financial center is [[Frankfurt]]; the largest urban area is [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr|Essen,Ruhr]].
 >
 > Settlement in what is now Germany began in the Lower [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Paleolithic|Paleolithic]], 
 > with various tribes inhabiting it from the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/2000-Neolithic|2000-Neolithic]] onward, chiefly the Celts. 

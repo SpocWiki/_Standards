@@ -471,6 +471,7 @@ Wolfram_Language_entity_code:
 
 # [[Norway]] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Norway,20|WD~Norway,20]] 
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Norway)
@@ -563,9 +564,10 @@ Sub-region_Name ::  [[Northern Europe]]
 
 [	ISO3166-1-numeric	 :: 578 ]
 
-
 [ISO2::NO]
 [ISO3::NOR]
+
+## #has_/map 
 
 ```leaflet
 id: Norway

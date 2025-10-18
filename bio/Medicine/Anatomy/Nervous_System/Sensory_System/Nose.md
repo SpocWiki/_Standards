@@ -1,6 +1,49 @@
 ---
 has_id_wikidata: Q7363
+has_part_s_:
+  - "[[_Standards/WikiData/WD~nasal_cavity,156104]]"
+  - "[[_Standards/WikiData/WD~cartilage,502730]]"
+  - "[[_Standards/WikiData/WD~nostril,858590]]"
+  - "[[_Standards/WikiData/WD~nasal_hair,1899093]]"
+  - "[[_Standards/WikiData/WD~olfactory_mucosa,7086517]]"
+  - "[[_Standards/WikiData/WD~external_nose,12180869]]"
+  - "[[_Standards/WikiData/WD~ethmoid_bone,16331]]"
+  - "[[_Standards/WikiData/WD~nasal_bone,38155]]"
+arterial_supply: "[[_Standards/WikiData/WD~sphenopalatine_artery,488936]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+has_use:
+  - "[[_Standards/WikiData/WD~sense_of_smell,1541064]]"
+  - "[[_Standards/WikiData/WD~breathing,9530]]"
+different_from: "[[_Standards/WikiData/WD~human_nose,2673594]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~sensory_organ,3355930]]"
+  - "[[_Standards/WikiData/WD~animal_organ,24060765]]"
+  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828723,22828723]]"
+instance_of: "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
+OmegaWiki_Defined_Meaning: "5471"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Dog%20nose.jpg
+Commons_gallery: Nose
+TA98_Latin_term: nasus
+Commons_category: Noses
+Unicode_character: 👃
+MeSH_tree_code:
+  - A01.456.505.733
+  - A04.531
+  - A09.531
+UMLS_CUI: C0028429
 ---
+
+# [[Nose]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Nose,7363|WD~Nose,7363]] 
 
 ## #has_/text_of_/abstract 
 

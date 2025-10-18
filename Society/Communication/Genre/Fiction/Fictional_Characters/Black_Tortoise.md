@@ -35,15 +35,21 @@ Commons_category: Black Tortoise
 > the character 武 (wǔ) meant 士 (shì "knight") in the Jianghuai dialect.  
 > So the English translation Black ~ Dark ~ Mysterious Warrior is a more faithful translation.
 >
-> It represents the north, thus it is sometimes called Black Warrior of the North (北方玄武; Běifāng Xuánwǔ). 
+> It represents the north, 
+> thus it is sometimes called Black Warrior of the North (北方玄武; Běifāng Xuánwǔ). 
 >
-> While neither character 玄 or 武 literally means tortoise or snake; but tortoises and snakes are known to hibernate during winter, so 玄武 as a whole represents the season of winter. 
+> While neither character 玄 or 武 literally means tortoise or snake; 
+> but tortoises and snakes are known to hibernate during winter, 
+> so 玄武 as a whole represents the season of winter. 
 >
 > The image of intertwined tortoise and snake likely symbolizes a state of inner struggle.
 >
-> In Japan, the characters 玄武 are pronounced as Genbu. It is said to protect Kyoto on the north side, being one of the four guardian spirits that protect the city. It is represented by the Kenkun Shrine, which is located on top of Mount Funaoka in Kyoto.
+> In Japan, the characters 玄武 are pronounced as Genbu. 
+> It is said to protect Kyoto on the north side, being one of the four guardian spirits that protect the city. 
+> It is represented by the Kenkun Shrine, which is located on top of Mount Funaoka in Kyoto.
 >
-> An important Taoist priest also has 玄武 Xuanwu as his clergy name. He is sometimes (as in Journey to the West) portrayed in the company of a turtle and a snake.
+> An important Taoist priest also has 玄武 Xuanwu as his clergy name. 
+> He is sometimes (as in Journey to the West) portrayed in the company of a turtle and a snake.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Black%20Turtle-Snake) 
 

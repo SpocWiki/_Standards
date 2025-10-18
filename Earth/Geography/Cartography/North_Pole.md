@@ -25,6 +25,10 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q961
 U_S_National_Archives_Identifier: 10047242
 ---
 
+# [[North_Pole]] 
+
+#is_/same_as :: [[../../../WikiData/WD~North_Pole,934|WD~North_Pole,934]] 
+
 ## #has_/text_of_/abstract 
 
 > The **North Pole**, also known as the Geographic North Pole or Terrestrial North Pole, is the point in the Northern Hemisphere where the Earth's axis of rotation meets its surface. It is called the True North Pole to distinguish from the Magnetic North Pole.

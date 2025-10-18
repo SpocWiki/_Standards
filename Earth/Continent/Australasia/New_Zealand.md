@@ -55,7 +55,6 @@ coordinates_of_easternmost_point: Point(178.55051479 -37.69226391)
 coordinates_of_northernmost_point: Point(-172.52 -8.53)
 coordinates_of_southernmost_point: Point(167.53682412 -47.28995038)
 coordinates_of_westernmost_point: Point(166.426130555 -45.904722222)
-coordinate_location: Point(174.0 -41.2)
 country: "[[_Standards/WikiData/WD~New_Zealand,664]]"
 country_calling_code: 64
 cssclasses:
@@ -449,19 +448,19 @@ Sub-region_Name ::  [[Australia and New Zealand]]
 [ISO2::NZ]
 [ISO3::NZL] 
 
-#is_/same_as :: [[../../../WikiData/WD~New_Zealand,664|WD~New_Zealand,664]] 
+#is_/same_as :: [[../../../WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]  
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Australia-New_Zealand 
 
 [[New_Zealand/ReadMe]] 
 
-
 ## #has_/map  
 
 ```leaflet
-id: New Zealand
+id: New_Zealand
 zoomFeatures: true 
+defaultZoom: 4 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./New_Zealand//
