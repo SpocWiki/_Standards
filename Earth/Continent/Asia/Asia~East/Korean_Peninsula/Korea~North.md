@@ -522,17 +522,17 @@ telephone_country_code: "+850"
 
 # [[Korea~North]] 
 
+[ISO2::KP] 
+[ISO3::PRK]  
+
+#is_/same_as :: [[../../../../../WikiData/WD~North_Korea,423|WD~North_Korea,423]] 
+
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Korea~North 
 
 [[Korea~North/ReadMe]] 
 
-[ISO2::KP]
-[ISO3::PRK] 
-
 ## #has_/map  
-
-
 
 ```leaflet
 id: Korea, Dem. Rep.
