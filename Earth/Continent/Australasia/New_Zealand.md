@@ -54,7 +54,6 @@ coordinates_of_easternmost_point: Point(178.55051479 -37.69226391)
 coordinates_of_northernmost_point: Point(-172.52 -8.53)
 coordinates_of_southernmost_point: Point(167.53682412 -47.28995038)
 coordinates_of_westernmost_point: Point(166.426130555 -45.904722222)
-coordinate_location: Point(174.0 -41.2)
 country: "[[_Standards/WikiData/WD~New_Zealand,664]]"
 country_calling_code: 64
 cssclasses:
@@ -383,12 +382,6 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "NewZealand"]
 
 # [[New_Zealand]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Australia-New_Zealand 
-
-[[New_Zealand/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: NZD ]
 [	ISO4217-currency_name	 :: New Zealand Dollar ]
 [	ISO4217-currency_numeric	 :: 554 ]
@@ -452,22 +445,28 @@ Sub-region_Name ::  [[Australia and New Zealand]]
 
 [	ISO3166-1-numeric	 :: 554 ]
 
-
-
 [ISO2::NZ]
 [ISO3::NZL] 
 
+#is_/same_as :: [[../../../WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]  
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Australia-New_Zealand 
+
+[[New_Zealand/ReadMe]] 
+
 ## #has_/map  
 
-
-
 ```leaflet
-id: New Zealand
+id: New_Zealand
 zoomFeatures: true 
+defaultZoom: 4 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./New_Zealand//
 markerFolder: ./New_Zealand/
+coordinates: [[New_Zealand]] 
+markerFile: [[New_Zealand]] 
 ```
 
 [name-en::New Zealand]

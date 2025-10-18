@@ -32,7 +32,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/CompassRose%20%28mul%2
 
 #has_/name_/ar_/Latn :: Ash Shamaliyah 
 #has_/name_/ar_/Arab :: الشمالية 
-
+#is_/same_as :: [[../../WikiData/WD~North,659|WD~North,659]] 
 
 **Ash Shamaliyah** (from Arabic الشمالية, 'northern') or **Shamal** ('north'), or variants, may refer to:
 

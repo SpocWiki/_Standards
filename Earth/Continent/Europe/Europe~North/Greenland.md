@@ -39,11 +39,6 @@ has_id_wikidata: Q223
 
 # [[Greenland]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Greenland 
-
-[[Greenland/ReadMe]] 
-
 [	ISO4217-currency_alphabetic	 :: DKK ]
 [	ISO4217-currency_name	 :: Danish Krone ]
 [	ISO4217-currency_numeric	 :: 208 ]
@@ -112,13 +107,18 @@ Sub-region_Name ::  [[Northern America]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Greenland,223|WD~Greenland,223]] 
 
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Greenland 
+
+[[Greenland/ReadMe]] 
+
 ## #has_/map  
 
 
 ```leaflet
 id: Greenland
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Greenland//
 markerFolder: ./Greenland///
