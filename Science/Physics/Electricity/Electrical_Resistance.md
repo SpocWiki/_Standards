@@ -61,24 +61,11 @@ Commons_category: Electrical resistance
 >
 > The resistance R of an object is defined as the ratio of voltage V across it to current I through it, 
 > while the conductance G is the reciprocal:
->         R
->         =
->             V
->             I
->         ,
->         
->         G
->         =
->             I  V
->         = 1 / R
+>         R = V / I,          G = I / V = 1 / R
 >
 > For a wide variety of materials and conditions, V and I  are directly proportional to each other, and therefore R and G are constants (although they will depend on the size and shape of the object, the material it is made of, and other factors like temperature or strain). This proportionality is called Ohm's law, and materials that satisfy it are called ohmic materials.
 >
-> In other cases, such as a transformer, diode, incandescent light bulb or battery, V and I are not directly proportional. The ratio ⁠V/I⁠ is sometimes still useful, and is referred to as a chordal resistance or static resistance, since it corresponds to the inverse slope of a chord between the origin and an I–V curve. In other situations, the derivative 
->                 d
->               V
->                 d
->               I
+> In other cases, such as a transformer, diode, incandescent light bulb or battery, V and I are not directly proportional. The ratio ⁠V/I⁠ is sometimes still useful, and is referred to as a chordal resistance or static resistance, since it corresponds to the inverse slope of a chord between the origin and an I–V curve. In other situations, the derivative dV/dI
 >  may be most useful; this is called the differential resistance.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20resistance%20and%20conductance) 
