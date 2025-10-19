@@ -132,6 +132,8 @@ inception: 0033-01-01T00:00:00Z
 
 > The **Pope** is the bishop of Rome and the head of the worldwide Catholic Church. 
 > He is also known as the supreme pontiff, Roman pontiff, or sovereign pontiff. 
+> The term is derived from 'pontifex maximus', the top bridge-builder, 
+> relating to one of his tasks, to keep the bridges across the Tiber intact. 
 > 
 > From the 8th century until 1870, the pope was the sovereign of the Papal States, 
 > and since 1929 of the much smaller Vatican City state. 
