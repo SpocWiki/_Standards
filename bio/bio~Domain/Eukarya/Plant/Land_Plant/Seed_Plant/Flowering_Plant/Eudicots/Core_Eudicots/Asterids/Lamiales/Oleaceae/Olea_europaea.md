@@ -95,7 +95,7 @@ UNSPSC_Code: 10161501
 > It gradually disseminated throughout the Mediterranean via trade and human migration 
 > starting in the 16th century BC; the olive took root in Crete around 3500 BC 
 > and reached Iberia by about 1050 BC. 
-> 
+>
 > Olive cultivation was vital to the growth and prosperity of various Mediterranean civilizations, 
 > from the Minoans and Myceneans of the Bronze Age 
 > to the Greeks and Romans of classical antiquity.    
