@@ -1,72 +1,75 @@
 ---
+aliases:
+  - Ozeanien
+has_id_wikidata: Q55643
+coordinates_of_geographic_center: Point(-176.139444444 -13.35)
+coordinate_location: Point(139.3671 -18.5102)
+location: [ -13.35, -176.139444444]
 area: 9000000
-bathymetry_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Oceania%20satellite%20map.jpg"
+bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Oceania%20satellite%20map.jpg
 BHCL_UUID: b5efc949-58ad-4000-8e2b-a6c9962b9eca
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q8042376,8042376]]'
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q8042376,8042376]]"
 Commons_category: Oceania
 Commons_gallery: Oceania
 confidential: public
-coordinates_of_geographic_center: "Point(-176.139444444 -13.35)"
-coordinate_location: "Point(139.3671 -18.5102)"
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Oceania,3382783]]'
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Oceania,3382783]]"
 demonym:
-- Oceanian
-- Oceanians
-- Oceanijec
-- Oceanijka
+  - Oceanian
+  - Oceanians
+  - Oceanijec
+  - Oceanijka
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 Dewey_Decimal_Classification: 2--95
 different_from:
-- '[[_Standards/WikiData/WD~Oceania,1291432]]'
-- '[[_Standards/WikiData/WD~Insular_Oceania,538]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Oceania,3578653]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Oceania,498466]]'
-has_id_wikidata: Q55643
+  - "[[_Standards/WikiData/WD~Oceania,1291432]]"
+  - "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Oceania,3578653]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Oceania,498466]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~Micronesia,3359409]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Polynesia,35942]]'
-- '[[_Standards/WikiData/WD~Melanesia,37394]]'
-- '[[_Standards/WikiData/WD~Australasia,45256]]'
-highest_point: '[[_Standards/WikiData/WD~Puncak_Jaya,1045888]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Oceania,149509]]'
+  - "[[_Standards/WikiData/WD~Micronesia,3359409]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Polynesia,35942]]"
+  - "[[_Standards/WikiData/WD~Melanesia,37394]]"
+  - "[[_Standards/WikiData/WD~Australasia,45256]]"
+highest_point: "[[_Standards/WikiData/WD~Puncak_Jaya,1045888]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Oceania,149509]]"
 icon: fas_earth_oceania
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Oceania%20satellite.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Oceania%20satellite.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~geographic_region,82794]]'
-- '[[_Standards/WikiData/WD~part_of_the_world,2418896]]'
+  - "[[_Standards/WikiData/WD~geographic_region,82794]]"
+  - "[[_Standards/WikiData/WD~part_of_the_world,2418896]]"
 IPA_transcription:
-- əʊʃiˈɑːniə
-- ˌoʊʃiˈæniə
+  - əʊʃiˈɑːniə
+  - ˌoʊʃiˈæniə
 isDeleted: false
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Oceania%20%28centered%20orthographic%20projection%29.svg"
-lowest_point: '[[_Standards/WikiData/WD~Kati_Thanda_Lake_Eyre,179970]]'
-M49_code: 009
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Oceania,8503932]]'
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Oceania%20%28centered%20orthographic%20projection%29.svg
+lowest_point: "[[_Standards/WikiData/WD~Kati_Thanda_Lake_Eyre,179970]]"
+M49_code: 9
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Oceania,8503932]]"
 MeSH_tree_code: Z01.678
 official_name: Oceania
 OmegaWiki_Defined_Meaning: 2612
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Oceania%20banner.jpg"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Oceania%20banner.jpg
 part_of:
-- "[[_Standards/WikiData/WD~Earth's_surface,1349417]]"
-- '[[_Standards/WikiData/WD~continent,5107]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q131675447,131675447]]'
+  - "[[_Standards/WikiData/WD~Earth's_surface,1349417]]"
+  - "[[_Standards/WikiData/WD~continent,5107]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q131675447,131675447]]"
 PM20_geo_code: D1
 population: 44491724
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Oceania.ogg"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Oceania.ogg
 SpocWebEntityId: 27201
 subreddit: Oceania
 tags:
-- geo/Continent
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Oceania_topic,6901982]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Oceania,10966722]]'
+  - geo/Continent
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Oceania_topic,6901982]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Oceania,10966722]]"
 type: Continent
 U_S_National_Archives_Identifier: 10035694
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Oceania,7112396]]'
-Wolfram_Language_entity_code: "Entity[\"GeographicRegion\", \"Oceania::kpx45\"]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Oceania,7112396]]"
+Wolfram_Language_entity_code: Entity["GeographicRegion", "Oceania::kpx45"]
 ---
 
 # [[Oceania]] 
@@ -76,15 +79,20 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Oceania/ReadMe]] 
 
+#is_/same_as :: [[../../WikiData/WD~Oceania,55643|WD~Oceania,55643]] 
 
+## #has_/map 
 
 ```leaflet
 id: Oceania
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Oceania//
 markerFolder: ./Oceania/
+coordinates: [[Oceania]] 
+markerFile: [[Oceania]] 
+defaultZoom: 4 
 ```
 
 [name-en::Oceania]

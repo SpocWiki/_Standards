@@ -24,7 +24,7 @@ image:
 
 # [[Ecliptic]] 
 
-#is_/same_as :: [[../../WikiData/WD~Ecliptic,79852|WD~Ecliptic,79852]] 
+#is_/same_as :: [[../../../WikiData/WD~Ecliptic,79852|WD~Ecliptic,79852]] 
 
 ## #has_/text_of_/abstract 
 

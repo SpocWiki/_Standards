@@ -73,7 +73,7 @@ Wolfram_Language_entity_type: LunarEclipse
 
 # [[Lunar_Eclipse]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Lunar_eclipse,44235|WD~Lunar_eclipse,44235]] 
+#is_/same_as :: [[../../../../WikiData/WD~Lunar_eclipse,44235|WD~Lunar_eclipse,44235]] 
 
 ## #has_/text_of_/abstract 
 

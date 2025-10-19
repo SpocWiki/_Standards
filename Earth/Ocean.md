@@ -4,6 +4,7 @@ aliases:
   - ocean_body_of_water
   - OceanBodyOfWater
   - is_an_ocean_body_of_water
+has_id_wikidata: Q9430
 confidential: public
 cssclasses:
   - Type
@@ -43,7 +44,6 @@ equivalent_class:
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000015
 GeoNames_feature_code: H.OCN
 hashtag: ocean
-has_id_wikidata: Q9430
 has_part_s_:
   - "[[_Standards/WikiData/WD~seawater,184395]]"
   - "[[_Standards/WikiData/WD~adjacent_sea,1973404]]"
@@ -87,6 +87,8 @@ An ocean (for example, the Pacific).
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+#is_/same_as :: [[../WikiData/WD~Ocean,9430|WD~Ocean,9430]] 
+
 Oceans are not as well-bounded as Continents, 
 because they cover a larger Globe Area than Continents. 
 Additionally there is a constant water-exchange between Oceans. 
@@ -94,6 +96,7 @@ Additionally there is a constant water-exchange between Oceans.
 Nevertheless it makes sense to distinguish them by Name and Octant,
 or better: Split the Latitude in Steps of 45° to separate the Arctic from the Tropic Part. 
 
+## #has_/map 
 
 ```leaflet
 id: Africa

@@ -1,41 +1,57 @@
 ---
 aliases:
-- Octopoda
-- Octopod
+  - Octopoda
+  - Octopod
 title: Octopoda
+has_id_wikidata: Q40152
+uses:
+  - "[[_Standards/WikiData/WD~mimicry,192627]]"
+  - "[[_Standards/WikiData/WD~physical_object,223557]]"
+  - "[[_Standards/WikiData/WD~chromatophore,504699]]"
+  - "[[_Standards/WikiData/WD~memory,492]]"
+  - "[[_Standards/WikiData/WD~fine_motor_skill,46627]]"
+parent_taxon: "[[_Standards/WikiData/WD~Octopodiformes,340867]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Octopus,611843]]"
+  - "[[_Standards/WikiData/WD~occiput,3321315]]"
+  - "[[_Standards/WikiData/WD~octopus_as_food,17118835]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~octopus_as_food,17118835]]"
+has_part_s_: "[[_Standards/WikiData/WD~brain,1073]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+litter_size: 80000
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "82589"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Octopus2.jpg
+Unicode_character: 🐙
+Dewey_Decimal_Classification: "564.56"
+Krugosvet_article_archived_: nauka_i_tehnika/biologiya/OSMINOGI.html
+NBN_System_Key: NHMSYS0021055250
+Commons_category: Octopoda
+taxon_name: Octopoda
+taxon_common_name:
+  - Achtfüßer
+  - åttearmete blekkspruter
+  - hobotnice
+start_time: -323200000-01-01T00:00:00Z
 ---
-
-## Phylogeny 
-
--   « Ancestral Groups  
-    -  [Octopodiformes](../Octopodiformes.md))
-    -  [Coleoidea](../../Coleoidea.md))
-    -  [Cephalopoda](../../../Cephalopoda.md))
-    -  [Mollusca](../../../../Mollusca.md))
-    -  [Bilateria](../../../../../Bilateria.md))
-    -  [Animals](../../../../../../Animals.md))
-    -  [Eukarya](../../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Octopodiformes
-    -   Octopoda
-    -   [Vampyroteuthis         infernalis](Vampyroteuthis_infernalis)
-
--   » Sub-Groups
-    -   [Cirrata](Octopod/Cirrata.md)
-    -   [Incirrata](Octopod/Incirrata.md)
 
 # [[Octopod]] 
 
 Octopods or devilfishes 
+
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Octopoda,40152|WD~Octopoda,40152]] 
 
 ![SwimIncirrate](Octopod/SwimIncirrate.jpg) 
 
 The Octopoda contains about 200 species placed in two very different
 groups.
 
--   *[Cirrata](Octopod/Cirrata.md "go to ToL page")*[ Grimpe,1916]
--   *[Incirrata](Octopod/Incirrata.md "go to ToL page")*[ Grimpe,1916]
 
 ## #has_/text_of_/abstract 
 
@@ -112,8 +128,32 @@ Voight (1997) also found morphological, cladistic support for the
 Cirrata and Incirrata but her study is controversial. Carlini (1998)
 found molecular analyses supported the monophyly of both groups.
 
-## Title Illustrations
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -  [Octopodiformes](../Octopodiformes.md))
+    -  [Coleoidea](../../Coleoidea.md))
+    -  [Cephalopoda](../../../Cephalopoda.md))
+    -  [Mollusca](../../../../Mollusca.md))
+    -  [Bilateria](../../../../../Bilateria.md))
+    -  [Animals](../../../../../../Animals.md))
+    -  [Eukarya](../../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Octopodiformes
+    -   Octopoda
+    -   [Vampyroteuthis         infernalis](Vampyroteuthis_infernalis)
+
+-   » Sub-Groups
+    -   [Cirrata](Octopod/Cirrata.md)
+    -   [Incirrata](Octopod/Incirrata.md)
+
+-   *[Cirrata](Octopod/Cirrata.md "go to ToL page")*[ Grimpe,1916]
+-   *[Incirrata](Octopod/Incirrata.md "go to ToL page")*[ Grimpe,1916]
+
+
+## Title Illustrations
 
 --------------------------------------------------------------------------------
 ![Swim Incirrate](Octopod/SwimIncirrate.jpg)
