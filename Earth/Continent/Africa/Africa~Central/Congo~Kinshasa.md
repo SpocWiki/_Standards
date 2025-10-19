@@ -559,18 +559,17 @@ Libris_URI: jgvxw1623z0vp37
 # [[Congo~Kinshasa]] 
 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Congo-Kinshasa 
-
-[[Congo~Kinshasa/ReadMe]] 
-
 [ISO2::CD] 
 [ISO3::COD]
 
 #is_/same_as :: [[../../../../WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]] 
 
-## #has_/map 
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Congo-Kinshasa 
 
+[[Congo~Kinshasa/ReadMe]] 
+
+## #has_/map 
 
 ```leaflet
 id: Congo, Dem. Rep.
