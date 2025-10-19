@@ -36,7 +36,7 @@ This allows to shrink the big model by more than 20 without reducing the [[Fitti
 Large initial Networks now allow for many competing minimal Sub-Networks, 
 increasing the chance to find these Sub-Networks exponentially. 
 
-This is similar to [[../../../../Knowledge/Design/Ockham’s_Razor|Occam’s_Razor]] 
+This is similar to [[../../../../Knowledge/Design/Ockham’s_Razor(Design)|Occam’s_Razor]] 
 
 
 [[../../../../Knowledge/Economy/Extraction_Economy]] 
