@@ -116,7 +116,7 @@ U_S_National_Archives_Identifier: 10046527
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Ottoman_Empire,7112772]]'
 ---
 
-# [[1300-Ottoman_Empire]] 
+# [[1300-Ottoman_Empire-1922]] 
 
 
 #has_/time_/started :: 1300-06 

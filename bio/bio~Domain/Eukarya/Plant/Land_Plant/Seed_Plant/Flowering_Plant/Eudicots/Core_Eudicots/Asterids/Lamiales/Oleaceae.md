@@ -1,10 +1,78 @@
 ---
 title: Oleaceae
+has_id_wikidata: Q155966
+taxon_common_name:
+  - 물푸레나무과
+  - Famîleya darzeytûnan
+  - Alyvmediniai
+  - Маслинки
+  - ഒലിയേസീ
+  - Oljetrefamilien
+  - Olijffamilie
+  - Oljetrefamilien
+  - Oliwkowate
+  - زیتون ٹبر
+  - Oleacee
+  - Маслиновые
+  - olivovníkovité
+  - oljkovke
+  - Syrenväxter
+  - วงศ์มะลิ
+  - Zeytingiller
+  - Маслинові
+  - Zaytundoshlar
+  - Họ Ô liu
+  - Olyfboomachtign
+  - 木樨科
+  - 木犀科
+  - 木犀科
+  - زيتونية
+  - Oleacees
+  - Zeytunkimilər
+  - Маслинови
+  - Oleàcia
+  - olivovníkovité
+  - Oliven-familien
+  - Ölbaumgewächse
+  - olive Family
+  - Oleacoj
+  - Oleáceas
+  - Õlipuulised
+  - oleazeoak
+  - تیره زیتون
+  - Öljypuukasvit
+  - Oleáceas
+  - Maslinovke
+  - Wolijowcowe rostliny
+  - Olajfafélék
+  - Ձիթենազգիներ
+  - モクセイ科
+  - Зәйтүн тұқымдасы
+taxonomic_type: "[[_Standards/WikiData/WD~Olea,296910]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_61,112869463]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+parent_taxon: "[[_Standards/WikiData/WD~Lamiales,21742]]"
+taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+ITIS_TSN: "32927"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Olive-tree-fruit-august-0.jpg
+GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=787
+EPPO_Code: 1OLEF
+MeSH_tree_code: B01.875.800.575.912.250.583.640
+NBN_System_Key: NBNSYS0000160558
+Commons_category: Oleaceae
+taxon_name: Oleaceae
 ---
 
 # [[Oleaceae]] 
 
-![Syringavulgaris](Oleaceae/Syringa_vulgaris.jpg)  ![](Oleaceae/Olea_europaea.jpg) 
+![Syringavulgaris](Oleaceae/Syringa_vulgaris.jpg)  ![](Oleaceae/Olive/Olea_europaea.jpg) 
+
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Oleaceae,155966|WD~Oleaceae,155966]] 
 
 ## #has_/text_of_/abstract 
 
@@ -59,7 +127,7 @@ Body Part          Aerial, Leaves and flowers
 Copyright ::          © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
 
 ------------------------------------------------------------------------
-![Olive tree, Olea europaea](Oleaceae/Olea_europaea.jpg) 
+![Olive tree, Olea europaea](Oleaceae/Olive/Olea_europaea.jpg) 
 Scientific Name ::   Olea europaea
 Location ::         Samos, Greece
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)

@@ -562,7 +562,7 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 > the empire disintegrated and in 1396 fell under Ottoman rule for nearly five centuries.
 >
 > The Russo-Turkish War of 1877–78 resulted in the formation of the third and current Bulgarian state, 
-> which declared independence from the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire|Ottoman Empire]] in 1908. 
+> which declared independence from the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire-1922|Ottoman Empire]] in 1908. 
 > Many ethnic Bulgarians were left outside the new nation's borders, 
 > which stoked irredentist sentiments that led to several conflicts with its neighbours 
 > and alliances with Germany in both world wars. 

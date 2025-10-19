@@ -1,11 +1,13 @@
 ---
+aliases:
+  - Operating system
+has_id_wikidata: Q9135
 Commons_category: Operating systems
 EntitySchema_for_this_class:
   - E102
   - E179
 follows: "[[_Standards/WikiData/WD~kernel,9662]]"
 GitHub_topic: operating-system
-has_id_wikidata: Q9135
 has_list: "[[_Standards/WikiData/WD~list_of_operating_systems,756435]]"
 has_part_s_:
   - "[[_Standards/WikiData/WD~file_system,174989]]"
@@ -104,8 +106,6 @@ topic_s_main_template:
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Operating_systems,108630976]]"
 Wikidata_property: operating system
 Wolfram_Language_entity_code: Entity["Concept", "OperatingSystem::8bhpb"]
-aliases:
-  - "{ newTitle: }":
 confidential: private
 cssclasses:
   - private
@@ -139,6 +139,8 @@ type: private_note
 
 
 # [[OS(Operating-System)]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Operating_system,9135|WD~Operating_system,9135]] 
 
 Modern OS run in 2 Hardware-supported Modes: 
 

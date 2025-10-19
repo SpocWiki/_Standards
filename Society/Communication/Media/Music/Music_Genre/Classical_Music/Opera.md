@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Oper
 has_id_wikidata: Q1344
 Iconclass_notation: 48C862
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/OPERA.html
@@ -56,8 +58,6 @@ subreddit: opera
 PhilPapers_topic: opera
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Paolo%20Pannini%20-%20F%C3%AAte%20musicale%20-%201747.jpg
 equivalent_class: http://dbpedia.org/ontology/Opera
-aliases:
-  - "{ newTitle: }":
 confidential: private
 cssclasses:
   - private
@@ -87,11 +87,25 @@ title:
 type: private_note
 ---
 
+# [[Opera]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Opera,1344|WD~Opera,1344]] 
+
 ## #has_/text_of_/abstract 
 
-
-
-> **Opera** is a form of Western theatre in which music is a fundamental component and dramatic roles are taken by singers. Such a "work" (the literal translation of the Italian word "opera") is typically a collaboration between a composer and a librettist and incorporates a number of the performing arts, such as acting, scenery, costume, and sometimes dance or ballet. The performance is typically given in an opera house, accompanied by an orchestra or smaller musical ensemble, which since the early 19th century has been led by a conductor. Although musical theatre is closely related to opera, the two are considered to be distinct from one another.
+> **Opera** is a form of Western theatre 
+> in which music is a fundamental component and dramatic roles are taken by singers. 
+> 
+> Such a "work" (the literal translation of the Italian word "opera") 
+> is typically a collaboration between a composer and a librettist 
+> and incorporates a number of the performing arts, such as acting, scenery, costume, 
+> and sometimes dance or ballet. 
+> 
+> The performance is typically given in an opera house, 
+> accompanied by an orchestra or smaller musical ensemble, 
+> which since the early 19th century has been led by a conductor. 
+> Although musical theatre is closely related to opera, 
+> the two are considered to be distinct from one another.
 >
 > Opera is a key part of Western classical music, and Italian tradition in particular. Originally understood as an entirely sung piece, in contrast to a play with songs, opera has come to include numerous genres, including some that include spoken dialogue such as Singspiel and Opéra comique. In traditional number opera, singers employ two styles of singing: recitative, a speech-inflected style, and self-contained arias. The 19th century saw the rise of the continuous music drama.
 >
