@@ -3,6 +3,7 @@ aliases:
   - Joseph Stalin
   - Joseph Vissarionovich Stalin
   - Joseph_Stalin
+  - Joseph Vissarionovich Dzhugashvili
 allegiance: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 award_received:
   - "[[_Standards/WikiData/WD~Order_of_the_White_Lion,93728]]"
@@ -210,13 +211,17 @@ writing_language:
 
 # [[Stalin,Joseph]] 
 
+#has_/created_/quote :: "A man, a problem; no man, no problem"
 #is_/same_as :: [[../../../../../WikiData/WD~Joseph_Stalin,855|WD~Joseph_Stalin,855]] 
+
+The quote above is from _Children of the Arbat_ (Russian: _Дети Арбата_) by **Anatoly Rybakov**.  
 
 ## #has_/text_of_/abstract 
 
 > Joseph Vissarionovich Stalin (born Dzhugashvili; 18 December [O.S. 6 December] 1878 – 5 March 1953) 
 > was a Soviet politician, revolutionary, and political theorist 
 > who led the Soviet Union from 1924 until his death in 1953. 
+> He chose his name "Stalin", "of Steel" in 1918. 
 > 
 > He held power as General Secretary of the Communist Party from 1922 to 1952 
 > and as Chairman of the Council of Ministers from 1941 until his death. 
@@ -225,7 +230,20 @@ writing_language:
 > Stalin codified his interpretation of Marxism as Marxism–Leninism, 
 > while the totalitarian political system he established is known as Stalinism.
 >
-> Born into a poor Georgian family in Gori, Russian Empire, Stalin attended the Tiflis Theological Seminary before joining the Marxist Russian Social Democratic Labour Party. He raised funds for Vladimir Lenin's Bolshevik faction through robberies, kidnappings and protection rackets, and edited the party's newspaper, Pravda. Repeatedly arrested, he underwent internal exiles to Siberia. After the Bolsheviks seized power in the October Revolution of 1917, Stalin joined the governing Politburo, and following Lenin's death in 1924, won the struggle to lead the country. Under Stalin, the doctrine of socialism in one country became central to the party's ideology. His five-year plans, launched in 1928, led to agricultural collectivisation and rapid industrialisation, establishing a centralised command economy. Resulting disruptions to food production contributed to a famine in 1932–1933 which killed millions, including in the Holodomor in Ukraine. Between 1936 and 1938, Stalin eradicated his political opponents and those deemed "enemies of the working class" in the Great Purge, after which he had absolute control of the party and government. Under his regime, an estimated 18 million people passed through the Gulag system of forced labour camps, and more than six million were deported to remote regions of the Soviet Union, which together resulted in millions of deaths. 
+> Born into a poor Georgian family in Gori, Russian Empire, 
+> Stalin attended the Tiflis Theological Seminary 
+> before joining the Marxist Russian Social Democratic Labour Party. 
+> 
+> He raised funds for Vladimir Lenin's Bolshevik faction 
+> through robberies, kidnappings and protection rackets, 
+> and edited the party's newspaper, Pravda. 
+> 
+> Repeatedly arrested, he underwent internal exiles to Siberia. 
+> After the Bolsheviks seized power in the October Revolution of 1917, 
+> Stalin joined the governing Politburo, and following Lenin's death in 1924, 
+> won the struggle to lead the country. 
+> 
+> Under Stalin, the doctrine of socialism in one country became central to the party's ideology. His five-year plans, launched in 1928, led to agricultural collectivisation and rapid industrialisation, establishing a centralised command economy. Resulting disruptions to food production contributed to a famine in 1932–1933 which killed millions, including in the Holodomor in Ukraine. Between 1936 and 1938, Stalin eradicated his political opponents and those deemed "enemies of the working class" in the Great Purge, after which he had absolute control of the party and government. Under his regime, an estimated 18 million people passed through the Gulag system of forced labour camps, and more than six million were deported to remote regions of the Soviet Union, which together resulted in millions of deaths. 
 >
 > Stalin promoted Marxism–Leninism abroad through the Communist International and supported European anti-fascist movements. In 1939, his government signed the Molotov–Ribbentrop Pact with Nazi Germany, enabling the Soviet invasion of Poland. Germany broke the pact by invading the Soviet Union in 1941, leading Stalin to join the Allies. Despite huge losses, the Soviet Red Army repelled the German invasion and captured Berlin in 1945, ending the war in Europe. The Soviet Union, which had annexed the Baltic states and territories from Finland and Romania amid the war, established Soviet-aligned states in Central and Eastern Europe. The Soviet Union and the United States emerged as global superpowers, and entered a period of tension known as the Cold War. Stalin presided over post-war reconstruction and the first Soviet atomic bomb test in 1949. During these years, the country experienced another famine and a state-sponsored antisemitic campaign culminating in the "doctors' plot". In 1953, Stalin died after suffering a stroke, and was succeeded as leader by Georgy Malenkov and later by Nikita Khrushchev, who in 1956 denounced Stalin's rule and initiated a campaign of "de-Stalinisation".
 >

@@ -12,7 +12,7 @@ has_id_wikidata: Q193972
 > In electrical circuits, reactance is the opposition presented to alternating current by inductance and capacitance. 
 > It's measured in Ω (Ohms). 
 > 
-> Along with resistance, it is one of two elements of [[Electric Impedance]]; 
+> Along with resistance, it is one of two elements of [[Electric_Impedance]]; 
 > however, while both elements involve transfer of electrical energy, 
 > no dissipation of electrical energy as heat occurs in reactance; 
 > instead, the reactance stores energy until a quarter-cycle later when the energy is returned to the circuit. 
