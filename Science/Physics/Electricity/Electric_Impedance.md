@@ -1,6 +1,7 @@
 ---
 aliases:
   - Impedanz
+  - Impedance 
 has_id_wikidata: Q179043
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
@@ -38,7 +39,7 @@ Commons_category: Electrical impedance
 MeSH_tree_code: G01.358.500.249.277.350
 ---
 
-# [[Electric Impedance]] 
+# [[Electric_Impedance]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Impedance,179043|WD~Impedance,179043]] 
 
