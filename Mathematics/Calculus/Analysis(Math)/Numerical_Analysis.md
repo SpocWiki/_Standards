@@ -32,7 +32,7 @@ UMLS_CUI: C0028645
 
 # [[Numerical_Analysis]] 
 
-#is_/same_as :: [[../../WikiData/WD~Numerical_analysis,11216|WD~Numerical_analysis,11216]] 
+#is_/same_as :: [[../../../WikiData/WD~Numerical_analysis,11216|WD~Numerical_analysis,11216]] 
 
 ## #has_/text_of_/abstract 
 
