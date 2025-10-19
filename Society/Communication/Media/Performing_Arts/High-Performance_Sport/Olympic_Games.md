@@ -1,14 +1,80 @@
 ---
 aliases:
-- "Jeux olympiques"
-- Olympics
-- "Olympic Games"
+  - Jeux olympiques
+  - Olympics
+  - Olympic Games
+has_id_wikidata: Q5389
+X_Twitter_username:
+  - juegosolimpicos
+  - Olympics
+IPTC_NewsCode: mediatopic/20001177
+subreddit:
+  - ohlympics
+  - olympics
+Archive_of_Our_Own_tag: Olympics RPF
+Libris_URI: wt79chnf3bbkvh7
+Baidu_Tieba_name: 奥运会
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~Winter_Olympic_Games,82414]]"
+follows: "[[_Standards/WikiData/WD~ancient_Olympic_Games,188468]]"
+sport: "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
+anthem: "[[_Standards/WikiData/WD~Olympic_Hymn,215484]]"
+different_from:
+  - "[[_Standards/WikiData/WD~olympiad,221956]]"
+  - "[[_Standards/WikiData/WD~Q130749517,130749517]]"
+sponsor: "[[_Standards/WikiData/WD~Visa_Inc.,328840]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
+trophy_awarded: "[[_Standards/WikiData/WD~Olympic_medal,636830]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Olympic_Charter,877541]]"
+motto: "[[_Standards/WikiData/WD~Citius,_Altius,_Fortius_Communiter,1093409]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Olympics,5497326]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Infobox_Olympic_games,5615691]]"
+  - "[[_Standards/WikiData/WD~Template_NavigationOlympicChampionsFigureSkatingIcedance,6564527]]"
+  - "[[_Standards/WikiData/WD~Template_Olympic_Games,6817590]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Olympics,8288491]]"
+movement: "[[_Standards/WikiData/WD~Olympic_Movement,11292772]]"
+history_of_topic:
+  - "[[_Standards/WikiData/WD~timeline_of_the_Olympic_Games,11292783]]"
+  - "[[_Standards/WikiData/WD~history_of_the_Olympic_Games,108056111]]"
+flag: "[[_Standards/WikiData/WD~Olympic_flag,14624058]]"
+instance_of: "[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25554668,25554668]]"
+location: "[[_Standards/WikiData/WD~Olympic_venue,107640409]]"
+participant: "[[_Standards/WikiData/WD~Viet_Nam_Sports_Team,115858000]]"
+inception: 1896-01-01T00:00:00Z
+event_interval: 4
+social_media_followers: 15300000
+organizer: "[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]"
+OmegaWiki_Defined_Meaning: "757381"
+logo_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20rings%20without%20rims.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20Rings%20Icon.svg
+U_S_National_Archives_Identifier: "10644012"
+TikTok_username: olympics
+VK_username: olympics
+Snapchat_username: olympics
+Facebook_username: olympics
+Instagram_username: olympics
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20flag.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20flag.svg
+Commons_category: Olympic Games
+Commons_gallery: Olympic Games
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20flag%20Wikivoyage%20banner.jpg
+WordLift_URL: http://data.thenextweb.com/tnw/entity/olympic_games
+official_website: https://olympics.com/en/
+RIA_Novosti_reference: "1604374469"
 ---
+
+# [[Olympic_Games]] 
 
 #has_/url_for_/content :: https://olympics.com/en/olympic-games 
 #has_/time_/started :: 1896-04-06 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
-
+#is_/same_as :: [[../../../../../WikiData/WD~Olympic_Games,5389|WD~Olympic_Games,5389]] 
 
 ## #has_/text_of_/abstract 
 
