@@ -3,7 +3,7 @@ aliases:
   - Dynamit
 has_id_wikidata: Q80728
 has_part_s_:
-  - "[[_Standards/WikiData/WD~nitroglycerin,162867]]"
+  - "[[../../_Standards/WikiData/WD~Nitroglycerin,162867]]"
   - "[[_Standards/WikiData/WD~sorbent,4428995]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~composite_material,181790]]"

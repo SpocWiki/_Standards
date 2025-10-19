@@ -70,7 +70,7 @@ taxon_name: Oleaceae
 
 # [[Oleaceae]] 
 
-![Syringavulgaris](Oleaceae/Syringa_vulgaris.jpg)  ![](Oleaceae/Olea_europaea.jpg) 
+![Syringavulgaris](Oleaceae/Syringa_vulgaris.jpg)  ![](Oleaceae/Olive/Olea_europaea.jpg) 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Oleaceae,155966|WD~Oleaceae,155966]] 
 
@@ -127,7 +127,7 @@ Body Part          Aerial, Leaves and flowers
 Copyright ::          © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
 
 ------------------------------------------------------------------------
-![Olive tree, Olea europaea](Oleaceae/Olea_europaea.jpg) 
+![Olive tree, Olea europaea](Oleaceae/Olive/Olea_europaea.jpg) 
 Scientific Name ::   Olea europaea
 Location ::         Samos, Greece
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)

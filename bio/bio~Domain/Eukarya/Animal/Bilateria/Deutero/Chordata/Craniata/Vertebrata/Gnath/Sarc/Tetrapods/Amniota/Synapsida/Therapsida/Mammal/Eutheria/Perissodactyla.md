@@ -1,16 +1,59 @@
 ---
+aliases:
+  - Unpaarhufer
+  - Perissodactyla
+  - odd-toed ungulate
+  - Odd-toed_Ungulate
 title: Perissodactyla
+has_id_wikidata: Q25374
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Perissodactyla,6418784]]"
+  - "[[_Standards/WikiData/WD~Template_Taxonomy_Perissodactyla,13218341]]"
+parent_taxon: "[[_Standards/WikiData/WD~Perissodactylamorpha,125762739]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "180687"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/00296%20zebra.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Zebra%20chapman%20za%202003.jpg
+EPPO_Code: 1PERIO
+MeSH_tree_code: B01.050.150.900.649.313.984
+UMLS_CUI: C0031132
+NBN_System_Key: NHMSYS0000377074
+Commons_category: Perissodactyla
+taxon_name: Perissodactyla
+taxon_common_name:
+  - perisodáctilos
+  - hovdyr
+  - lihoprsti kopitarji
+start_time: -56000000-01-01T00:00:00Z
 ---
 
 # [[Perissodactyla]]
 
 ## Odd-toed ungulates 
 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Odd-toed_ungulate,25374|WD~Odd-toed_ungulate,25374]] 
+
 ![Black rhinoceros](Perissodactyla/01046blackrhinos.jpg)
 
 ## #has_/text_of_/abstract 
 
-> **Perissodactyla** (, from Ancient Greek  περισσός, perissós 'odd' and  δάκτυλος, dáktylos 'finger, toe'), or odd-toed ungulates, is an order of ungulates. The order includes about 17 living species divided into three families: Equidae (horses, asses, and zebras), Rhinocerotidae (rhinoceroses), and Tapiridae (tapirs). They typically have reduced the weight-bearing toes to three or one of the five original toes, though tapirs retain four toes on their front feet. The nonweight-bearing toes are either present, absent, vestigial, or positioned posteriorly. By contrast, artiodactyls (even-toed ungulates) bear most of their weight equally on four or two (an even number) of the five toes: their third and fourth toes. Another difference between the two is that perissodactyls digest plant cellulose in their intestines, rather than in one or more stomach chambers as artiodactyls, with the exception of Suina, do.
+> **Perissodactyla** (Ancient Greek  περισσός, perissós 'odd' and  δάκτυλος, dáktylos 'finger, toe'), 
+> or odd-toed ungulates, is an order of ungulates. 
+> 
+> The order includes about 17 living species divided into three families: 
+> Equidae (horses, asses, and zebras), Rhinocerotidae (rhinoceroses), and Tapiridae (tapirs). 
+> 
+> They typically have reduced the weight-bearing toes to three or one of the five original toes, 
+> though tapirs retain four toes on their front feet. 
+> 
+> The nonweight-bearing toes are either present, absent, vestigial, or positioned posteriorly. 
+> By contrast, artiodactyls (even-toed ungulates) bear most of their weight equally on four or two (an even number) of the five toes: their third and fourth toes. Another difference between the two is that perissodactyls digest plant cellulose in their intestines, rather than in one or more stomach chambers as artiodactyls, with the exception of Suina, do.
 >
 > The order was considerably more diverse in the past, with notable extinct groups including the brontotheres, palaeotheres, chalicotheres, and the paraceratheres, with the paraceratheres including the largest known land mammals to have ever existed.
 >

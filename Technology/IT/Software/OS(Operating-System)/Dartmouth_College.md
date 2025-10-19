@@ -4,7 +4,7 @@ aliases:
 ---
 
 > **Dartmouth College** (; DART-məth) is a private Ivy League research university 
-> in [[Hanover,New_Hampshire]]. 
+> in[[../../../../Earth/Continent/America~North/USA/USA~Eastern/New_England/New_Hampshire/counties~New_Hampshire/Grafton,County/Hanover,New_Hampshire]]]. 
 > 
 > Established in 1769 by Eleazar Wheelock, 
 > Dartmouth is one of the nine colonial colleges 

@@ -31,7 +31,7 @@ Stack_Exchange_tag: https://philosophy.stackexchange.com/tags/ontology
 Library_of_Congress_Classification: BD300-BD450
 ---
 
-# [[Ontology]] 
+# [[Ontology(Philosophy)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Ontology,44325|WD~Ontology,44325]] 
 

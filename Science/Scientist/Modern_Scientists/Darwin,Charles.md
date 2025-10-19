@@ -210,6 +210,7 @@ Y_DNA_Haplogroup: "[[_Standards/WikiData/WD~Haplogroup_R1b,674896]]"
 
 # [[Darwin,Charles]] 
 
+#has_/created_ :: [[Darwin,Charles/On_the_Origin_of_Species|On_the_Origin_of_Species]] 
 #is_/same_as :: [[../../../WikiData/WD~Charles_Darwin,1035|WD~Charles_Darwin,1035]] 
 
 ## #has_/text_of_/abstract 

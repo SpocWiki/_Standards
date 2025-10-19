@@ -39,7 +39,7 @@ Wolfram_Language_entity_type: SolarEclipse
 
 # [[Solar_Eclipse]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Solar_eclipse,3887|WD~Solar_eclipse,3887]] 
+#is_/same_as :: [[../../../../WikiData/WD~Solar_eclipse,3887|WD~Solar_eclipse,3887]] 
 
 ## #has_/text_of_/abstract 
 

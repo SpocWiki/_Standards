@@ -5,7 +5,7 @@ has_id_wikidata: Q141022
 
 # [[Eclipse]] 
 
-#is_/same_as :: [[../../WikiData/WD~Eclipse,141022|WD~Eclipse,141022]] 
+#is_/same_as :: [[../../../WikiData/WD~Eclipse,141022|WD~Eclipse,141022]] 
 
 ## #has_/text_of_/abstract 
 

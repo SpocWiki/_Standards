@@ -812,10 +812,10 @@ Major Cities with Population in 1000s as of @2020
 | [[../America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines/Counties/Charlotte]]                                                                                                             | [[USA/USA~Eastern/North_Carolina\|North Carolina]] |  874.579 |
 | [[USA/USA~Pacific/California/counties~California/San_Francisco,County/cities~San_Francisco/San_Francisco\|San Francisco]] | [[USA/USA~Pacific/California\|California]]         |  873.965 |
 | [[USA/USA~Central/Indiana/counties~Indiana/Marion,County/cities~Marion/Indianapolis\|Indianapolis]]                       | [[USA/USA~Central/Indiana\|Indiana]]               |  887.642 |
-| [[USA/USA~Pacific/Washington/counties~Washington/King,County/cities~King/Seattle\|Seattle]]                               | [[USA/USA~Pacific/Washington\|Washington]]         |  737.015 |
+| [[USA/USA~Pacific/Washington,State/counties~Washington/King,County/cities~King/Seattle\|Seattle]]                               | [[USA/USA~Pacific/Washington,State\|Washington]]         |  737.015 |
 | [[USA/USA~Mountain/Colorado/counties~Colorado/Denver,County/cities~Denver/Denver\|Denver]]                                | [[USA/USA~Mountain/Colorado\|Colorado]]            |  715.522 |
 | [[USA/USA~Eastern/District_of_Columbia/cities~DC/Washington,DC\|Washington,DC]]                                           | [[USA/USA~Eastern/District_of_Columbia\|District of Columbia]]                               |  689.545 |
-| [[USA/USA~Eastern/Massachusetts/counties~Massachusetts/Suffolk,County/cities~Suffolk/Boston,MA\|Boston]]                     | [[USA/USA~Eastern/Massachusetts\|Massachusetts]]   |  675.647 |
+| [[USA/USA~Eastern/New_England/Massachusetts/counties~Massachusetts/Suffolk,County/cities~Suffolk/Boston,MA\|Boston]]                     | [[USA/USA~Eastern/New_England/Massachusetts\|Massachusetts]]   |  675.647 |
 | [[El Paso]]                                                                                                               | [[USA/USA~Mountain/Texas\|Texas]]                  |  678.815 |
 | [[USA/USA~Central/Tennessee/counties~Tennessee/Davidson,County/cities~Davidson/Nashville\|Nashville]]                     | [[USA/USA~Central/Tennessee\|Tennessee]]           |  689.447 |
 | [[USA/USA~Central/Michigan/counties~Michigan/Wayne,County/cities~Wayne/Detroit\|Detroit]]                                 | [[USA/USA~Central/Michigan\|Michigan]]             |  639.111 |
@@ -850,9 +850,9 @@ List of Constituent States with Data of 2024
 | [[USA/USA~Central/Michigan\|Michigan]]                                       | 10077.331 |   250.487 |  846.587 |   90.272 | Automotive industry; significant manufacturing                            |
 | [[USA/USA~Eastern/New_Jersey\|New Jersey]]                                   |  9288.994 |    22.591 |  839.122 |   75.876 | Pharmaceutical and finance industries                                     |
 | [[USA/USA~Eastern/Virginia\|Virginia]]                                       |  8631.393 |   110.787 |  780.666 |  110.561 | Government and military presence; tech sector                             |
-| [[USA/USA~Pacific/Washington\|Washington]]                                   |  7705.281 |   184.661 |  764.475 |   86.747 | Technology and aerospace industries                                       |
+| [[USA/USA~Pacific/Washington,State\|Washington]]                                   |  7705.281 |   184.661 |  764.475 |   86.747 | Technology and aerospace industries                                       |
 | [[USA/USA~Mountain/Arizona\|Arizona]]                                        |  7151.502 |   295.234 |  706.616 |   70.038 | Rapid population growth; tourism and mining                               |
-| [[USA/USA~Eastern/Massachusetts\|Massachusetts]]                             |  6910.840 |    27.336 |  780.666 |  110.561 | Education and healthcare sectors; biotech industry                        |
+| [[USA/USA~Eastern/New_England/Massachusetts\|Massachusetts]]                             |  6910.840 |    27.336 |  780.666 |  110.561 | Education and healthcare sectors; biotech industry                        |
 | [[USA/USA~Central/Tennessee\|Tennessee]]                                     |  6910.840 |   109.153 |  553.323 |   93.026 | Music industry; healthcare and manufacturing                              |
 | [[USA/USA~Central/Indiana\|Indiana]]                                         |  6785.528 |    94.326 |  552.167 |   73.203 | Manufacturing and agriculture                                             |
 | [[USA/USA~Central/Missouri\|Missouri]]                                       |  6154.913 |   180.540 |  549.709 |   75.748 | Transportation and logistics; agriculture                                 |
@@ -866,7 +866,7 @@ List of Constituent States with Data of 2024
 | [[USA/USA~Central/Kentucky\|Kentucky]]                                       |  4505.836 |   104.656 |  331.029 |   77.916 | Automotive manufacturing; agriculture                                     |
 | [[USA/USA~Pacific/Oregon\|Oregon]]                                           |  4237.256 |   254.799 |  327.782 |   71.642 | Technology and forestry industries                                        |
 | [[USA/USA~Central/Oklahoma\|Oklahoma]]                                       |  3959.353 |   181.037 |  321.238 |   61.846 | Energy production; agriculture                                            |
-| [[USA/USA~Eastern/Connecticut\|Connecticut]]                                 |  3605.944 |    14.357 |  300.904 |   86.506 | Finance and insurance sectors                                             |
+| [[USA/USA~Eastern/New_England/Connecticut\|Connecticut]]                                 |  3605.944 |    14.357 |  300.904 |   86.506 | Finance and insurance sectors                                             |
 | [[USA/USA~Central/Iowa\|Iowa]]                                               |  3190.369 |   145.746 |  293.021 |   64.110 | Agriculture and manufacturing                                             |
 | [[USA/USA~Mountain/Utah\|Utah]]                                              |  3271.616 |   219.882 |  265.779 |   64.719 | Technology sector; tourism                                                |
 | [[USA/USA~Pacific/Nevada\|Nevada]]                                           |  3104.614 |   286.380 |  260.728 |   80.880 | Tourism and gaming industry                                               |
@@ -878,15 +878,15 @@ List of Constituent States with Data of 2024
 | [[USA/USA~Eastern/West_Virginia\|West Virginia]]                             |  1793.716 |    62.756 |  121.189 |   85.518 | Energy production; chemical manufacturing                                 |
 | [[USA/USA~Mountain/Idaho\|Idaho]]                                            |  1839.106 |   216.443 |  115.627 |   80.325 | Agriculture and technology sectors                                        |
 | [[USA/USA~Pacific/Hawaii\|Hawaii]]                                           |  1455.271 |    28.311 |  107.660 |   60.783 | Tourism and military presence                                             |
-| [[USA/USA~Eastern/Maine\|Maine]]                                             |  1354.522 |    91.646 |  103.253 |   98.055 | Forestry and fishing industries                                           |
-| [[USA/USA~Eastern/New_Hampshire\|New Hampshire]]                             |  1377.529 |    24.214 |   98.606 |   69.803 | Manufacturing and technology sectors                                      |
+| [[USA/USA~Eastern/New_England/Maine\|Maine]]                                             |  1354.522 |    91.646 |  103.253 |   98.055 | Forestry and fishing industries                                           |
+| [[USA/USA~Eastern/New_England/New_Hampshire\|New Hampshire]]                             |  1377.529 |    24.214 |   98.606 |   69.803 | Manufacturing and technology sectors                                      |
 | [[../Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana\|Montana]]       |  1084.225 |   380.831 |   82.493 |   74.594 | Agriculture and mining industries                                         |
-| [[USA/USA~Eastern/Rhode_Island\|Rhode Island]]                               |  1097.379 |     4.001 |   75.999 |   66.379 | Manufacturing and healthcare sectors                                      |
+| [[USA/USA~Eastern/New_England/Rhode_Island\|Rhode Island]]                               |  1097.379 |     4.001 |   75.999 |   66.379 | Manufacturing and healthcare sectors                                      |
 | [[USA/USA~Eastern/Delaware\|Delaware]]                                       |   989.948 |     6.446 |   75.399 |   95.982 | Finance and insurance industries                                          |
 | [[USA/USA~Central/South_Dakota\|South Dakota]]                               |   886.667 |   199.729 |   75.179 |   80.685 | Agriculture and manufacturing                                             |
 | [[USA/USA~Central/North_Dakota\|North Dakota]]                               |   779.094 |   183.108 |   69.969 |   95.147 | Energy production; agriculture                                            |
 | [[/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Alaska\|Alaska]] |   733.391 |  1723.337 |   69.969 |   95.147 | Oil and gas industries; fishing                                           |
-| [[USA/USA~Eastern/Vermont\|Vermont]]                                         |   643.077 |    24.906 |   45.707 |   70.131 | Tourism and manufacturing                                                 |
+| [[USA/USA~Eastern/New_England/Vermont\|Vermont]]                                         |   643.077 |    24.906 |   45.707 |   70.131 | Tourism and manufacturing                                                 |
 | [[USA/USA~Mountain/Wyoming\|Wyoming]]                                        |   576.851 |   253.600 |   52.946 |   90.335 | Energy production; agriculture                                            |
 | [[USA/USA~Eastern/District_of_Columbia\|District of Columbia]]               |   714.153 |     0.177 |  184.916 |  263.220 | Federal government; legal and lobbying industries                         |
 
