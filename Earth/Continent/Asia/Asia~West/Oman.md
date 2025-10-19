@@ -321,12 +321,6 @@ icon: flag-om
 
 # [[Oman]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Oman 
-
-[[Oman/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: OMR ]
 [	ISO4217-currency_name	 :: Rial Omani ]
 [	ISO4217-currency_numeric	 :: 512 ]
@@ -390,14 +384,18 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 512 ]
 
-
-
 [ISO2::OM]
 [ISO3::OMN] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Oman,842|WD~Oman,842]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Oman 
+
+[[Oman/ReadMe]] 
+
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Oman

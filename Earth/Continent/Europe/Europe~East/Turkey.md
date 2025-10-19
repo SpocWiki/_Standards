@@ -567,11 +567,6 @@ icon: flag-tr
 
 # [[Turkey]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Turkey 
-
-[[Turkey/ReadMe]] 
-
 [	ISO4217-currency_alphabetic	 :: TRY ]
 [	ISO4217-currency_name	 :: Turkish Lira ]
 [	ISO4217-currency_numeric	 :: 949 ]
@@ -640,6 +635,11 @@ Sub-region_Name ::  [[Western Asia]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Turkey,43|WD~Turkey,43]] 
 
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Turkey 
+
+[[Turkey/ReadMe]] 
+
 ## #has_/map  
 
 ```leaflet
@@ -649,6 +649,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Turkey//
 markerFolder: ./Turkey//
+coordinates: [[Turkey]] 
+markerFile: [[Turkey]] 
+defaultZoom: 6 
 ```
 
 [name-en::Turkey]
