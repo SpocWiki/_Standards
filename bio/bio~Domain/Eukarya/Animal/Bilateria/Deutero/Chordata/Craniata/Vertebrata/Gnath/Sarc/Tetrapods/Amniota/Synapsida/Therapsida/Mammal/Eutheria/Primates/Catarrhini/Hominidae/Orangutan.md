@@ -1,16 +1,49 @@
 ---
 aliases:
-- Pongo
-- Orangutan
+  - Pongo
+  - Orangutan
+  - Orang Utan
 has_id_wikidata: Q41050
 title: Pongo
+different_from: "[[_Standards/WikiData/WD~Pongo,403861]]"
+has_part_s_: "[[_Standards/WikiData/WD~Sumatran_orangutan,543424]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+parent_taxon: "[[_Standards/WikiData/WD~Pongini,3755098]]"
+taxonomic_type: "[[_Standards/WikiData/WD~Pongo_borneo,122832537]]"
+main_food_source: "[[_Standards/WikiData/WD~fruit,1364]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+OmegaWiki_Defined_Meaning: "8111"
+Commons_gallery: Pongo
+Commons_category: Pongo
+taxon_name: Pongo
+subreddit: orangutan
+ITIS_TSN: "572839"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bornean%2C%20Sumatran%20%26%20Tapanuli%20orangs%20%28horizontal%29.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Orang-Utan.ogg
+size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Orangutan-human%20comparison.svg
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pongo%20distribution.svg
+EPPO_Code: 1PONGG
+MeSH_tree_code: B01.050.150.900.649.313.988.400.112.400.635
+UMLS_CUI: C0178448
+Unicode_character: 🦧
+taxon_common_name:
+  - orangután de Bornéu
+  - orangutan
+native_label: orang hutan
 ---
 
 # [[Orangutan]]
 
 ![ ](Orangutan/Pongo_pygmaeus0040.jpg)
 
-#is_/same_as ::  [[../../../../../../../../../../../../../../../../../WikiData/WD~Orangutan,41050|WD~Orangutan,41050]]
+#is_/same_as ::  [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Orangutan,41050|WD~Orangutan,41050]] 
 
 ## #has_/text_of_/abstract 
 

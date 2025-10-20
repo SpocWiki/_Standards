@@ -2,6 +2,41 @@
 aliases:
   - Orange
   - Orange (color)
+  - color Orange 
+has_id_wikidata: Q39338
+instance_of:
+  - "[[_Standards/WikiData/WD~secondary_color,373934]]"
+  - "[[_Standards/WikiData/WD~web_color,376346]]"
+  - "[[_Standards/WikiData/WD~spectral_color,910300]]"
+described_by_source: "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+part_of: "[[_Standards/WikiData/WD~seven_prismatic_colors,43213808]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Kamala,124606790]]"
+  - "[[_Standards/WikiData/WD~Kamala,124606792]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~yellow,943]]"
+  - "[[_Standards/WikiData/WD~red,3142]]"
+  - "[[_Standards/WikiData/WD~light,9128]]"
+followed_by: "[[_Standards/WikiData/WD~yellow,943]]"
+follows: "[[_Standards/WikiData/WD~red,3142]]"
+named_after: "[[_Standards/WikiData/WD~orange,13191]]"
+frequency: 500000000000000
+wavelength: 612.5
+OmegaWiki_Defined_Meaning: "5822"
+CSS_color_keyword: orange
+subreddit: orange
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Color%20icon%20orange.svg
+sRGB_color_hex_triplet: FF7F00
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-taronja.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129%20%28gre%29-MARKELLOS-%CF%80%CE%BF%CF%81%CF%84%CE%BF%CE%BA%CE%B1%CE%BB%CE%AF.wav
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Oranje%20%28kleur%29-article.ogg
+Wolfram_Language_entity_code:
+  - Entity["Color", {"Crayola", "Orange"}]
+  - Entity["Color", {"WolframLanguage", "Orange"}]
+Commons_gallery: Orange (colour)
+Commons_category: Orange (colour)
+OpenStreetMap_tag: colour=orange
 ---
 
 # [[Orange(color)]] 
