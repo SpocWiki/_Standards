@@ -34,6 +34,10 @@ Universal_Decimal_Classification: 547
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_organic_chemistry,7112694]]'
 ---
 
+# [[organic]] 
+
+#is_/same_as :: [[../WikiData/WD~Organic_chemistry,11351|WD~Organic_chemistry,11351]]  
+
 ## #has_/text_of_/abstract 
 
 > **Organic chemistry** is a subdiscipline within chemistry involving the scientific study of the structure, properties, and reactions of organic compounds and organic materials, i.e., matter in its various forms that contain carbon atoms. Study of structure determines their structural formula. Study of properties includes physical and chemical properties, and evaluation of chemical reactivity to understand their behavior. The study of organic reactions includes the chemical synthesis of natural products, drugs, and polymers, and study of individual organic molecules in the laboratory and via theoretical (in silico) study.
