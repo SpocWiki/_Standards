@@ -33,18 +33,40 @@ UNII: 5A9KE2L9L3
 IMDb_keyword: orange-juice
 ---
 
-
 # [[Orange_juice]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Orange_juice,219059|WD~Orange_juice,219059]]
 
-
 ## #has_/text_of_/abstract 
 
-> Orange juice is a liquid extract of the orange tree fruit, produced by squeezing or reaming oranges. It comes in several different varieties, including blood orange, navel oranges, valencia orange, clementine, and tangerine. As well as variations in oranges used, some varieties include differing amounts of juice vesicles, known as "pulp" in American English, and "(juicy) bits" in British English. These vesicles contain the juice of the orange and can be left in or removed during the manufacturing process. How juicy these vesicles are depend upon many factors, such as species, variety, and season. In American English, the beverage name is often abbreviated as "OJ".
+> Orange juice is a liquid extract of the orange tree fruit, 
+> produced by squeezing or reaming oranges. 
+> 
+> It comes in several different varieties, including 
+> blood orange, navel oranges, valencia orange, clementine, and tangerine. 
+> 
+> As well as variations in oranges used, some varieties include differing amounts of 
+> juice vesicles, known as "pulp" in American English, and "(juicy) bits" in British English. 
+> 
+> These vesicles contain the juice of the orange 
+> and can be left in or removed during the manufacturing process. 
+> How juicy these vesicles are depend upon many factors, such as species, variety, and season. 
+> In American English, the beverage name is often abbreviated as "OJ".
 >
-> Commercial orange juice with a long shelf life is made by pasteurizing the juice and removing the oxygen from it. This removes much of the taste, necessitating the later addition of a flavor pack, generally made from orange products. Additionally, some juice is further processed by drying and later rehydrating the juice, or by concentrating the juice and later adding water to the concentrate.
+> Commercial orange juice with a long shelf life is made 
+> by pasteurizing the juice and removing the oxygen from it. 
+> 
+> This removes much of the taste, necessitating the later addition of a flavor pack, 
+> generally made from orange products. 
+> Additionally, some juice is further processed by drying and later rehydrating the juice, 
+> or by concentrating the juice and later adding water to the concentrate.
 >
-> The health value of orange juice is debatable: it has a high concentration of vitamin C, but also a very high concentration of simple sugars, comparable to soft drinks. As a result, some government nutritional advice has been adjusted to encourage substitution of orange juice with raw fruit, which is digested more slowly, and limit daily consumption.
+> The health value of orange juice is debatable: 
+> - it has a high concentration of vitamin C, 
+> - but also a very high concentration of simple sugars, comparable to soft drinks. 
+> As a result, some government nutritional advice has been adjusted 
+> to encourage substitution of orange juice with raw fruit, 
+> which is digested more slowly, and limit daily consumption.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Orange%20juice)
+> [Wikipedia](https://en.wikipedia.org/wiki/Orange%20juice) 
+
