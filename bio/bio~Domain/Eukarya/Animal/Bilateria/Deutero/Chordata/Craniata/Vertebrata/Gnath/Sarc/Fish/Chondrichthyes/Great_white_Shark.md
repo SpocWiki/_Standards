@@ -112,7 +112,7 @@ NBN_System_Key: NHMSYS0001745235
 
 # [[Great_white_Shark]]
 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Great_white_shark,129026|WD~Great_white_shark,129026]]
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Great_white_shark,129026|WD~Great_white_shark,129026]]
 
 ## #has_/text_of_/abstract 
 

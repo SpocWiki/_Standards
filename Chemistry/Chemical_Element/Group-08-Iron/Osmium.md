@@ -60,6 +60,8 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Osmium\"]"
 ZVG_number: 7760
 ---
 
+# [[Osmium]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Osmium,751]] 
 
@@ -83,10 +85,10 @@ ZVG_number: 7760
 [FormEnergy-kj-mol::746]
 (PeriodNo::6)
 (GroupNo::8)
+#is_/same_as :: [[../../../WikiData/WD~Osmium,751|WD~Osmium,751]] 
 
 
 ## #has_/text_of_/abstract 
-
 
 > **Osmium** (from Ancient Greek  ὀσμή (osmḗ) 'smell') 
 > is a chemical element with the symbol (Abbr::Os) and atomic number (Charge-e::76). 

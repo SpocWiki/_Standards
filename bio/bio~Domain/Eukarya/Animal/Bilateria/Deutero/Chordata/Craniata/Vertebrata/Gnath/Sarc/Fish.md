@@ -89,8 +89,8 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_fish,7112636]]"
 
 # [[Fish]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Fish,152|WD~Fish,152]] 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Osteichthyes,27207|WD~Osteichthyes,27207]] 
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Fish,152|WD~Fish,152]]  
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Osteichthyes,27207|WD~Osteichthyes,27207]]  
 
 ## #has_/text_of_/abstract 
 
