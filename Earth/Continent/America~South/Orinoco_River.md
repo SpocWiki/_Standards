@@ -2,6 +2,7 @@
 aliases:
 has_id_wikidata: Q131792
 mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Delta_Amacuro,201137]]"
+location: [ 5.318, -61.6]
 tributary:
   - "[[_Standards/WikiData/WD~Caroní_River,590533]]"
   - "[[_Standards/WikiData/WD~Meta_River,655251]]"
@@ -62,6 +63,20 @@ Wolfram_Language_entity_code: Entity["River", "Orinoco::6yn82"]
 # [[Orinoco_River]] 
 
 #is_/same_as :: [[WD~Orinoco_River,131792]] 
+
+## #has_/map 
+
+```leaflet
+id: Orinoco_River
+geojsonFolder: ./Orinoco_River/
+markerFolder: ./Orinoco_River/
+coordinates: [[Orinoco_River]] 
+markerFile: [[Orinoco_River]] 
+defaultZoom: 6 
+maxZoom: 18
+minZoom: 4
+zoomFeatures: true
+```
 
 ## #has_/text_of_/abstract 
 
