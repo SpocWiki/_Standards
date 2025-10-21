@@ -34,7 +34,7 @@ Commons_category: Lagrange points
 
 # [[Lagrangian_Point]] 
 
-#is_/same_as :: [[../../WikiData/WD~Lagrangian_point,190463|WD~Lagrangian_point,190463]] 
+#is_/same_as :: [[../../../WikiData/WD~Lagrangian_point,190463|WD~Lagrangian_point,190463]] 
 
 ## #has_/text_of_/abstract 
 

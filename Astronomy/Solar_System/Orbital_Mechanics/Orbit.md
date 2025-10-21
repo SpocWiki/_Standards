@@ -54,7 +54,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/ORBITA.html
 
 # [[Orbit]] 
 
-#is_/same_as  ::[[WD~Orbit,4130]] 
+#is_/same_as  :: [[WD~Orbit,4130]] 
 
 ## #has_/text_of_/abstract 
 

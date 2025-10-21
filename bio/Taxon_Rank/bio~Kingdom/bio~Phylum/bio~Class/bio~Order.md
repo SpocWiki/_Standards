@@ -29,6 +29,7 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q961
 #is_/same_as :: [[../../../../../../WikiData/WD~Order,36602|WD~Order,36602]]   
 #has_/previous_/item :: [[../bio~Class]]  
 #has_/next_/item :: [[bio~Order/bio~Family]]  
+#is_/same_as :: [[../../../../../WikiData/WD~Order,36602|WD~Order,36602]] 
 
 |Name|Latin [prefix](https://en.wikipedia.org/wiki/Prefix "Prefix")|Examples|
 |---|---|---|

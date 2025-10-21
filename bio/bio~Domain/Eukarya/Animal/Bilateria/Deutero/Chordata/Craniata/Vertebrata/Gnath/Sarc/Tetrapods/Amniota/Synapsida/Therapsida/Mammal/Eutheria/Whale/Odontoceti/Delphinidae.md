@@ -29,7 +29,7 @@ start_time: -30000000-06
 
 # [[Delphinidae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Delphinidae,215760|WD~Delphinidae,215760]]
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Delphinidae,215760|WD~Delphinidae,215760]]
 
 ## #has_/text_of_/abstract 
 
