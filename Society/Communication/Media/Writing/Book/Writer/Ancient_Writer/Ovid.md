@@ -66,8 +66,11 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Ovid::hsk2f\"]"
 writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 ---
 
+# [[Ovid]] 
+
 #has_/time_/started :: -0042-03-20 
 #has_/time_/stopped :: 0017-06 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Ovid,7198|WD~Ovid,7198]] 
 
 ## #has_/text_of_/abstract 
 

@@ -82,7 +82,7 @@ NBN_System_Key: NHMSYS0000376187
 -   ◊ Sibling Groups of  Caprinae
     -   Capra
     -   [Ammotragus lervia](Ammotragus_lervia)
-    -   [Ovibos moschatus](Ovibos_moschatus)
+    -   [Ovibos moschatus](Muskox.md)
     -   [Budorcas taxicolor](Budorcas_taxicolor)
     -   [Hemitragus](Hemitragus.md)
     -   [Ovis](Ovis.md)

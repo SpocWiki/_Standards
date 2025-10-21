@@ -81,6 +81,7 @@ EC_number: 233-069-2
 
 # [[Ozone]] 
 
+#has_/formula_/sum :: O³
 #is_/same_as :: [[../../../WikiData/WD~Ozone,36933|WD~Ozone,36933]] 
 
 ## #has_/text_of_/abstract 

@@ -87,10 +87,6 @@ Krugosvet_article_archived_: himiya/kislorod
 ---
 # [[Oxygen]]
 
-
-#is_/same_as :: [[../../../WikiData/WD~Oxygen,629]] 
-
-
 #chemic/Element 
 [GroupName::Group-16-Chalcogene]
 [Group:[[../Group-16-Chalcogene]]
@@ -113,6 +109,8 @@ Krugosvet_article_archived_: himiya/kislorod
 [FormEnergy-kj-mol::3.4099]
 (PeriodNo::2)
 (GroupNo::16)
+
+#is_/same_as :: [[../../../WikiData/WD~Oxygen,629]] 
 
 
 ## #has_/text_of_/abstract 

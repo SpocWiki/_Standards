@@ -29,7 +29,7 @@ title: "Ammotragus lervia"
 -   ◊ Sibling Groups of  Caprinae
     -   [Capra](Capra.md)
     -   Ammotragus lervia
-    -   [Ovibos moschatus](Ovibos_moschatus)
+    -   [Ovibos moschatus](Muskox.md)
     -   [Budorcas taxicolor](Budorcas_taxicolor)
     -   [Hemitragus](Hemitragus.md)
     -   [Ovis](Ovis.md)
