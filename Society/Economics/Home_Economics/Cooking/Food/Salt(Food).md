@@ -64,7 +64,7 @@ Commons_category: Salts
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salt](/_Standards/Chemistry/inOrganic/Salt.md) 
+### #is_/same_as :: [Salt](../../../../../Chemistry/Inorganic_Chemistry/Salt.md) 
 
 ### #is_/same_as :: [Salt.public](/_public/Chemistry/inOrganic/Salt.public.md) 
 

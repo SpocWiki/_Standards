@@ -96,8 +96,8 @@ Krugosvet_article: nauka_i_tehnika/himiya/HIMIYA.html
  Chemistry is a wide Field; therefore it is broken up into 
 - [Chemical Elements](Chemistry/Chemical_Element.md) 
 - [[Chemistry/Substance/Chemical_Substance/Chemical_Compound|Chemical_Compound]] 
-	- [organic Chemistry](Chemistry/organic.md) and 
-	- [inOrganic Chemistry](Chemistry/inOrganic.md)
+	- [organic Chemistry](Chemistry/Organic_Chemistry.md) and 
+	- [inOrganic Chemistry](Chemistry/Inorganic_Chemistry.md)
 
 #is_/same_as :: [[WikiData/WD~Chemistry,2329|WD~Chemistry,2329]] 
 

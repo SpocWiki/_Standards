@@ -44,10 +44,10 @@ UMLS_CUI:
 
 ## #has_/text_of_/abstract 
 
-> In [[../Nutrition|nutrition]], [[../../../bio|biology]], and [[../../../Chemistry|chemistry]], **Fat** and Oil usually means any [[../../../Chemistry/organic/Ester|ester]] of [[Fat/Fatty_Acid]]s, 
+> In [[../Nutrition|nutrition]], [[../../../bio|biology]], and [[../../../Chemistry|chemistry]], **Fat** and Oil usually means any [[../../../Chemistry/Organic_Chemistry/Ester|ester]] of [[Fat/Fatty_Acid]]s, 
 > or a mixture of such compounds, most commonly those that occur in living beings or in food.
 >
-> The term often refers specifically to triglycerides (triple [[../../../Chemistry/organic/Ester|esters]] of [[../../../Chemistry/organic/Alcohol/Polyol/Triol/Glycerol|Glycerol]]), 
+> The term often refers specifically to triglycerides (triple [[../../../Chemistry/Organic_Chemistry/Ester|esters]] of [[../../../Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol|Glycerol]]), 
 > that are the main components of vegetable oils and of fatty tissue in animals; 
 > or, even more narrowly, to triglycerides that are solid or semisolid at room temperature, thus excluding oils. 
 > 

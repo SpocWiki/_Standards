@@ -6,7 +6,6 @@ aliases:
   - Organisation de coopération et de développement économiques
   - OECD
   - OCDE
-  - "{ newTitle: }":
 has_id_wikidata: Q41550
 TableByName:
   OECD.tsv:

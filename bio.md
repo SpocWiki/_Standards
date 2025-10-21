@@ -101,7 +101,7 @@ arranged in a Folder-Hierarchy with Species Name as Folder Names in [[bio/bio~Do
 
 The Folder Names are kept brief, to allow for the necessary deep Directory Structures. 
 
-Although Biology is primarily realized as [[Chemistry/organic]] Chemistry, 
+Although Biology is primarily realized as [[Chemistry/Organic_Chemistry]] Chemistry, 
 it is placed at top level due to its depth and importance. 
 
 

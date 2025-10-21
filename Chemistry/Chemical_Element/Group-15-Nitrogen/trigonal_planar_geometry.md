@@ -3,7 +3,7 @@ aliases:
 - "trigonal planar geometry"
 ---
 
-[[../../organic/Aldehyde/Formaldehyde]]: 
+[[../../Organic_Chemistry/Aldehyde/Formaldehyde]]: 
 H
   C=O
 H

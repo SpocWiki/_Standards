@@ -29,7 +29,7 @@ ZVG_number: 91170
 ## #has_/text_of_/abstract 
 
 
-> In chemistry, particularly in biochemistry, a fatty acid is a[[../../../../Chemistry/organic/Carboxylic_Acid]]] 
+> In chemistry, particularly in biochemistry, a fatty acid is a[[../../../../Chemistry/Organic_Chemistry/Carboxylic_Acid]]] 
 > with an [[Aliphatic_Chain]], which is either saturated or unsaturated. 
 > 
 > Most naturally occurring fatty acids have an unbranched chain of an even number of carbon atoms, 
