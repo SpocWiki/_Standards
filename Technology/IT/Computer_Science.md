@@ -2,6 +2,7 @@
 aliases:
   - Computer science
   - Informatik
+  - comp sci
 has_id_wikidata: Q21198
 Krugosvet_article: nauka_i_tehnika/matematika/INFORMATIKA.html
 Baidu_Tieba_name: 计算机科学

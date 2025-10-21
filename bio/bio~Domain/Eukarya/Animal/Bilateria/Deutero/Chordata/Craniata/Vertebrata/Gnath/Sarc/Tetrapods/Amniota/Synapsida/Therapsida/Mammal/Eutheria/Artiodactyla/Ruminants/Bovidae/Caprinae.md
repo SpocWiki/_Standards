@@ -2,6 +2,14 @@
 title: Caprinae
 ---
 
+# [[Caprinae]] 
+
+#is_/same_as :: [[Caprinae,]]
+
+![ ](Caprinae/Ovis/Ovis_canadensis.jpg)
+![ ](Oreamnos_americanus1929018.jpg)
+![](Caprinae/92395489_51a1aa5336_o.jpg)
+
 ## Phylogeny 
 
 -   « Ancestral Groups  
@@ -40,7 +48,7 @@ title: Caprinae
 -   » Sub-Groups
     -   [Capra](Caprinae/Capra.md)
     -   [Ammotragus lervia](Ammotragus_lervia)
-    -   [Ovibos moschatus](Caprinae/Ovibos.md)
+    -   [Ovibos moschatus](Caprinae/Muskox.md)
     -   [Budorcas taxicolor](Budorcas_taxicolor)
     -   [Hemitragus](Caprinae/Hemitragus.md)
     -   [Ovis](Caprinae/Ovis.md)
@@ -50,13 +58,8 @@ title: Caprinae
     -   [Rupicapra](Caprinae/Rupicapra.md)
     -   [Fossil Caprinae](Caprinae/Fossil.md)
 
-# Caprinae 
-
-![ ](Caprinae/Ovis/Ovis_canadensis.jpg)
-![ ](Oreamnos_americanus1929018.jpg)
-![](Caprinae/92395489_51a1aa5336_o.jpg)
-
 Containing group: [Bovidae](../Bovidae.md)
+
 
 ### Information on the Internet
 

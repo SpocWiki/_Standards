@@ -29,7 +29,7 @@ title: "Budorcas taxicolor"
 -   ◊ Sibling Groups of  Caprinae
     -   [Capra](Capra.md)
     -   [Ammotragus lervia](Ammotragus_lervia)
-    -   [Ovibos moschatus](Ovibos_moschatus)
+    -   [Ovibos moschatus](Muskox.md)
     -   Budorcas taxicolor
     -   [Hemitragus](Hemitragus.md)
     -   [Ovis](Ovis.md)

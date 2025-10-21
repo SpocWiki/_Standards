@@ -29,9 +29,27 @@ subclass_of: '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Q10739150,10739150]]'
 ---
 
+# [[Symphony]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Symphony,9734|WD~Symphony,9734]] 
+
 ## #has_/text_of_/abstract 
 
-> A **Symphony** is an extended musical composition in Western classical music, most often for orchestra. Although the term has had many meanings from its origins in the ancient Greek era, by the late 18th century the word had taken on the meaning common today: a work usually consisting of multiple distinct sections or movements, often four, with the first movement in sonata form. Symphonies are almost always scored for an orchestra consisting of a string section (violin, viola, cello, and double bass), brass, woodwind, and percussion instruments which altogether number about 30 to 100 musicians. Symphonies are notated in a musical score, which contains all the instrument parts. Orchestral musicians play from parts which contain just the notated music for their own instrument. Some symphonies also contain vocal parts (e.g., Beethoven's Ninth Symphony, or Mahler's Second Symphony).
+> A **Symphony** is an extended musical composition in Western classical music, 
+> most often for orchestra. 
+> 
+> Although the term has had many meanings from its origins in the ancient Greek era, 
+> by the late 18th century the word had taken on the meaning common today: 
+> a work usually consisting of multiple distinct sections or movements, often four, 
+> with the first movement in sonata form. 
+> 
+> Symphonies are almost always scored for an orchestra consisting of 
+> a string section (violin, viola, cello, and double bass), brass, woodwind, and percussion instruments which altogether number about 30 to 100 musicians. 
+> 
+> Symphonies are notated in a musical score, which contains all the instrument parts. 
+> Orchestral musicians play from parts which contain just the notated music for their own instrument. 
+> Some symphonies also contain vocal parts 
+> (e.g., Beethoven's Ninth Symphony, or Mahler's Second Symphony).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Symphony) 
 
