@@ -1,16 +1,11 @@
 ---
 aliases:
-  - Organization for Security and Co-operation in Europe
-  - OSZE
-  - OSCE
+  - Organisation for Economic Co-operation and Development
+  - OECD
+  - Organisation de coopération et de développement économiques
+  - OCDE
+  - Organization_for_Economic_Cooperation_and_Development
 has_id_wikidata: Q41550
-TableByName:
-  OSZE.tsv:
-    columns:
-      - country
-      - year
-    headings:
-    align: "|---|--:|:--|:-:|"
 member_of:
   - "[[_Standards/WikiData/WD~International_Statistical_Institute,139020]]"
   - "[[_Standards/WikiData/WD~Couperin_Consortium,2994760]]"
@@ -101,58 +96,40 @@ Instagram_username: the_oecd
 Facebook_username: theOECD
 ---
 
+# [[OECD(Organization_for_Economic_Cooperation_and_Development)]] 
 
-
-#has_/time_/started :: 1975-06 
-#is_/different_from :: [[OECD]] 
-
-#is_/same_as :: [[../../../../../WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550|WD~Organization_for_Economic_Cooperation_and_Development,41550]]  
+#is_/same_as :: [[WD~Organization_for_Economic_Cooperation_and_Development,41550]] 
 
 ## #has_/text_of_/abstract 
 
-> The Organization for Security and Co-operation in Europe (OSCE) 
-> is a regional security-oriented intergovernmental organization 
-> comprising member states in [Europe](../../../../../Earth/Continent/Europe.md), North America, and [Asia](../../../../../Earth/Continent/Asia.md). 
+> The Organisation for Economic Co-operation and Development 
+> (OECD; French: Organisation de coopération et de développement économiques, OCDE) 
+> is an intergovernmental organisation with 38 member countries, 
+> founded in 1961 to stimulate economic progress and world trade. 
 > 
-> Its mandate includes issues such as arms control, the promotion of human rights, 
-> freedom of the press, and free and fair elections. 
+> It is a forum whose member countries describe themselves as 
+> committed to democracy and the market economy, 
+> providing a platform to compare policy experiences, seek answers to common problems, 
+> identify good practices, and coordinate domestic and international policies of its members.
+>
+> The majority of OECD members are generally regarded as developed countries, 
+> with high-income economies, and a very high Human Development Index.
+>
+> As of 2024 their collective population is 1.38 billion people with an average life expectancy of 80 years 
+> and a median age of 40, against a global average of 30. 
 > 
-> It employs around 3460 people, mostly in its field operations 
-> but also in its secretariat in Vienna, [[../../../../../Earth/Continent/Europe/Europe~Central/Austria|Austria]], and its institutions. 
-> It has observer status at the United Nations.
+> As of 2017, OECD Member countries collectively comprised 62.2% of global nominal GDP (USD 49.6 trillion) 
+> and 42.8% of global GDP (Int$54.2 trillion) at purchasing power parity. 
+> The OECD is an official United Nations observer. 
+> OECD nations have strong social security systems; 
+> their average social welfare spending stood at roughly 21% of GDP.
 >
-> The OSCE had its origins in 1975: 
-> its predecessors came together during the era of the [Cold War](../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1945-Cold_War.md) 
-> to form a forum for discussion between the Western Bloc and the Eastern Bloc. 
+> The OECD's headquarters are at the Château de la Muette in Paris, France, 
+> which housed its predecessor organisation, the Organization for European Economic Co-operation. 
 > 
-> Most of its 57 participating countries are in [[../../../../../Earth/Continent/Europe|Europe]], 
-> but with some members in Asia or in North America. 
-> The participating countries comprise much of the land area of the Northern Hemisphere.
+> The OECD is funded by contributions from member countries at varying rates 
+> and is recognised as a highly influential publisher of mostly economic data 
+> through publications as well as annual evaluations and rankings of member countries.
 >
-> The OSCE is concerned with early warning, conflict prevention, crisis management, 
-> and post-conflict rehabilitation.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Organization%20for%20Security%20and%20Co-operation%20in%20Europe)
-
-
-```dataviewjs
-dv.view("TableByName", ["OSZE.tsv"]);
-```
-
-
-## Confidential Links & Embeds: 
-
-### #is_/same_as :: [OSZE](OSZE.md) 
-
-### #is_/same_as :: [OSZE.public](/_public/International/OSZE.public.md) 
-
-### #is_/same_as :: [OSZE.internal](/_internal/International/OSZE.internal.md) 
-
-### #is_/same_as :: [OSZE.protect](/_protect/International/OSZE.protect.md) 
-
-### #is_/same_as :: [OSZE.private](/_private/International/OSZE.private.md) 
-
-### #is_/same_as :: [OSZE.personal](/_personal/International/OSZE.personal.md) 
-
-### #is_/same_as :: [OSZE.secret](/_secret/International/OSZE.secret.md)
+> [Wikipedia](https://en.wikipedia.org/wiki/OECD) 
 

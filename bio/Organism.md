@@ -63,11 +63,36 @@ U_S_National_Archives_Identifier: 10676357
 WordLift_URL: "http://data.wordlift.io/wl01714/entity/organisms.html"
 ---
 
+# [[Organism]] 
+
+#is_/same_as :: [[../WikiData/WD~Organism,7239|WD~Organism,7239]] 
+
 ## #has_/text_of_/abstract 
 
-> An **Organism** is any living thing that functions as an individual. Such a definition raises more problems than it solves, not least because the concept of an individual is also difficult. Many criteria, few of them widely accepted, have been proposed to define what an organism is. Among the most common is that an organism has autonomous reproduction, growth, and metabolism. This would exclude viruses, despite the fact that they evolve like organisms. Other problematic cases include colonial organisms; a colony of eusocial insects is organised adaptively, and has germ-soma specialisation, with some insects reproducing, others not, like cells in an animal's body. The body of a siphonophore, a jelly-like marine animal, is composed of organism-like zooids, but the whole structure looks and functions much like an animal such as a jellyfish, the parts collaborating to provide the functions of the colonial organism.
+> An **Organism** is any living thing that functions as an individual. 
+> 
+> Such a definition raises more problems than it solves, 
+> not least because the concept of an individual is also difficult. 
+> 
+> Many criteria, few of them widely accepted, have been proposed to define what an organism is. 
+> Among the most common is that an organism has autonomous reproduction, growth, and metabolism. 
+> This would exclude viruses, despite the fact that they evolve like organisms. 
+> 
+> Other problematic cases include colonial organisms; a colony of eusocial insects is organised adaptively, 
+> and has germ-soma specialisation, with some insects reproducing, others not, like cells in an animal's body. 
+> 
+> The body of a siphonophore, a jelly-like marine animal, is composed of organism-like zooids, 
+> but the whole structure looks and functions much like an animal such as a jellyfish, 
+> the parts collaborating to provide the functions of the colonial organism.
 >
-> The evolutionary biologists David Queller and Joan Strassmann state that "organismality", the qualities or attributes that define an entity as an organism, has evolved socially as groups of simpler units (from cells upwards) came to cooperate without conflicts. They propose that cooperation should be used as the "defining trait" of an organism. This would treat many types of collaboration, including the fungus/alga partnership of different species in a lichen, or the permanent sexual partnership of an anglerfish, as an organism.
+> The evolutionary biologists David Queller and Joan Strassmann state that "organismality", 
+> the qualities or attributes that define an entity as an organism, 
+> has evolved socially as groups of simpler units (from cells upwards) came to cooperate without conflicts. 
+> 
+> They propose that cooperation should be used as the "defining trait" of an organism. 
+> This would treat many types of collaboration, 
+> including the fungus/alga partnership of different species in a lichen, 
+> or the permanent sexual partnership of an anglerfish, as an organism.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Organism)
 
