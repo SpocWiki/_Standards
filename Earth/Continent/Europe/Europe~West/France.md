@@ -49,7 +49,7 @@ replaces:
   - "[[_Standards/WikiData/WD~Kingdom_of_Bora_Bora,3446152]]"
   - "[[_Standards/WikiData/WD~Free_Cities_of_Menton_and_Roquebrune,3559284]]"
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
   - "[[_Standards/WikiData/WD~European_Air_Transport_Command,141720]]"
   - "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"

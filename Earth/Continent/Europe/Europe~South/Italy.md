@@ -45,7 +45,7 @@ located_in_on_physical_feature:
   - "[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]"
   - "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151]]"
   - "[[_Standards/WikiData/WD~Latin_Union,123209]]"
   - "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"

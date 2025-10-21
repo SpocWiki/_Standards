@@ -792,7 +792,7 @@ with numbers as of 2023-06
 > and tuition-free university education. 
 > 
 > Germany is a member of the United Nations, [[../EU(European_Union)|European Union]], NATO, 
-> Council of Europe, G7, G20, and [[../../../../Society/Agent/Community/Organization/International_Organization/OECD|OECD]]. 
+> Council of Europe, G7, G20, and [[../../../../Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)|OECD]]. 
 > 
 > It has the third-greatest number of UNESCO World Heritage Sites.
 >

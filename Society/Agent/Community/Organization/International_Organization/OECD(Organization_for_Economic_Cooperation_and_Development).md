@@ -1,11 +1,47 @@
 ---
 aliases:
-  - Organisation for Economic Co-operation and Development
-  - OECD
-  - Organisation de coopération et de développement économiques
-  - OCDE
   - Organization_for_Economic_Cooperation_and_Development
+  - Organisation for Economic Cooperation and Development
+  - Organisation for Economic Co-operation and Development
+  - Organisation de coopération et de développement économiques
+  - OECD
+  - OCDE
+  - "{ newTitle: }":
 has_id_wikidata: Q41550
+TableByName:
+  OECD.tsv:
+    columns:
+      - country
+      - year
+    headings:
+official_website: https://www.oecd.org/
+ISNI:
+  - "0000000121590079"
+  - "0000000123082158"
+UMLS_CUI: C3850013
+MeSH_tree_code: N03.540.514.481
+ISO_9362_SWIFT_BIC_code: OCDCFRP1
+GitHub_topic: oecd
+domain_name: oecd.org
+Commons_gallery: Organisation for Economic Co-operation and Development - Organisation de coopération et de développement économiques
+Libris_URI: qn258bk83k0l8v4
+Instagram_username: the_oecd
+Facebook_username: theOECD
+motto_text:
+  - Lepší politiky pro lepší životy
+  - Better policies for better lives
+  - Mejores políticas para una vida mejor
+  - De meilleures politiques pour de meilleures vies
+official_name:
+  - Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung
+  - Organization for Economic Co-operation and Development
+  - Organización para la Cooperación y el Desarrollo Económicos
+  - ORGANIS COOPERATION DEVELOPP ECONOMIQUE
+  - Organisation de coopération et de développement économiques
+short_name:
+  - OECD
+  - OCDE
+  - ОЭСР
 member_of:
   - "[[_Standards/WikiData/WD~International_Statistical_Institute,139020]]"
   - "[[_Standards/WikiData/WD~Couperin_Consortium,2994760]]"
@@ -54,14 +90,11 @@ social_media_followers:
   - 50200
   - 694072
 Legal_Entity_Identifier: 969500Y2NFIMDP5MO798
-ISNI:
-  - "0000000123082158"
-  - "0000000121590079"
 SIREN_number: "775687957"
 PermID: "5058655899"
-EU_Corporate_body_code: OECD
 X_Twitter_username: OECD
 Commons_category: OECD
+EU_Corporate_body_code: OECD
 inception:
   - 1961-09-30T00:00:00Z
   - 1948-04-16T00:00:00Z
@@ -69,42 +102,49 @@ DPLA_subject_term: Organisation for Economic Co-operation and Development
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Au%C3%9Fenministerin%20Karin%20Kneissl%20nimmt%20am%20Ministerial%20Council%20Meeting%20der%20OECD%20in%20Paris%20teil.%20%2827619529467%29.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/OECD%20logo.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/OECD%20member%20states%20map.svg
-motto_text:
-  - De meilleures politiques pour de meilleures vies
-  - Lepší politiky pro lepší životy
-  - Better policies for better lives
-  - Mejores políticas para una vida mejor
-short_name:
-  - OCDE
-  - ОЭСР
-  - OECD
-official_name:
-  - ORGANIS COOPERATION DEVELOPP ECONOMIQUE
-  - Organisation de coopération et de développement économiques
-  - Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung
-  - Organization for Economic Co-operation and Development
-  - Organización para la Cooperación y el Desarrollo Económicos
-official_website: https://www.oecd.org/
-UMLS_CUI: C3850013
-MeSH_tree_code: N03.540.514.481
-ISO_9362_SWIFT_BIC_code: OCDCFRP1
-GitHub_topic: oecd
-domain_name: oecd.org
-Commons_gallery: Organisation for Economic Co-operation and Development - Organisation de coopération et de développement économiques
-Libris_URI: qn258bk83k0l8v4
-Instagram_username: the_oecd
-Facebook_username: theOECD
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
 
 # [[OECD(Organization_for_Economic_Cooperation_and_Development)]] 
 
+#has_/time_/started :: 1961-06 
+#has_/duration_ :: `=(default(this.has_time_stopped,date(now)) - this.has_time_started)`  
+#has_/previous_item : [[OEEC]] 
 #is_/same_as :: [[WD~Organization_for_Economic_Cooperation_and_Development,41550]] 
 
-## #has_/text_of_/abstract 
+## #has_/text_of_/abstract  
 
 > The Organisation for Economic Co-operation and Development 
-> (OECD; French: Organisation de coopération et de développement économiques, OCDE) 
-> is an intergovernmental organisation with 38 member countries, 
+> (**OECD**; French: Organisation de coopération et de développement économiques, OCDE) 
+> is an intergovernmental organization with 38 member countries, 
 > founded in 1961 to stimulate economic progress and world trade. 
 > 
 > It is a forum whose member countries describe themselves as 
@@ -115,21 +155,66 @@ Facebook_username: theOECD
 > The majority of OECD members are generally regarded as developed countries, 
 > with high-income economies, and a very high Human Development Index.
 >
-> As of 2024 their collective population is 1.38 billion people with an average life expectancy of 80 years 
-> and a median age of 40, against a global average of 30. 
+> As of 2024 their collective population is 1.38 billion people 
+> with an average life expectancy of 80 years and a median age of 40, against a global average of 30. 
 > 
-> As of 2017, OECD Member countries collectively comprised 62.2% of global nominal GDP (USD 49.6 trillion) 
-> and 42.8% of global GDP (Int$54.2 trillion) at purchasing power parity. 
-> The OECD is an official United Nations observer. 
+> As of 2017, OECD Member countries collectively comprised 
+> 62.2% of global nominal GDP (USD 49.6 trillion) and 
+> 42.8% of global GDP (Int$54.2 trillion) at purchasing power parity. 
+> 
+> The OECD is an official [[United_Nations_Observer]]. 
 > OECD nations have strong social security systems; 
 > their average social welfare spending stood at roughly 21% of GDP.
 >
 > The OECD's headquarters are at the Château de la Muette in Paris, France, 
-> which housed its predecessor organisation, the Organization for European Economic Co-operation. 
+> which housed its predecessor organization, 
+> the Organization for European Economic Co-operation. 
 > 
 > The OECD is funded by contributions from member countries at varying rates 
-> and is recognised as a highly influential publisher of mostly economic data 
+> and had a total budget of €338.3 million in 2023, 
+> and is recognized as a highly influential publisher of mostly economic data 
 > through publications as well as annual evaluations and rankings of member countries.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/OECD) 
+> [Wikipedia](https://en.wikipedia.org/wiki/OECD)
 
+## Chronology 
+```dataviewjs
+dv.view("TableByName", ["OECD.tsv"]);
+```
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OECD(Organization_for_Economic_Cooperation_and_Development)](OECD(Organization_for_Economic_Cooperation_and_Development).md) 
+
+### #is_/same_as :: [OECD.public](/_public/International/OECD.public.md) 
+
+### #is_/same_as :: [OECD.internal](/_internal/International/OECD.internal.md) 
+
+### #is_/same_as :: [OECD.protect](/_protect/International/OECD.protect.md) 
+
+### #is_/same_as :: [OECD.private](/_private/International/OECD.private.md) 
+
+### #is_/same_as :: [OECD.personal](/_personal/International/OECD.personal.md) 
+
+### #is_/same_as :: [OECD.secret](/_secret/International/OECD.secret.md)
+
+
+# [[OECD(Organization_for_Economic_Cooperation_and_Development)]] 
+
+#is_/part_of :: [[OECD(Organization_for_Economic_Cooperation_and_Development)]] 
+
+![[OECD.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[OECD.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

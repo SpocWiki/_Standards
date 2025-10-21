@@ -38,7 +38,7 @@ Languages:
   - fy-NL
 icon: flag-ne
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151]]"
   - "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
   - "[[_Standards/WikiData/WD~United_Nations_Institute_for_Training_and_Research,131878]]"

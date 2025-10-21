@@ -28,7 +28,7 @@ aliases:
   - Britain
 icon: flag-gb
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
   - "[[_Standards/WikiData/WD~European_Free_Trade_Association,166546]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"

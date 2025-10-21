@@ -31,7 +31,7 @@ member_of:
   - "[[_Standards/WikiData/WD~Interpol,8475]]"
   - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
   - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
-  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
   - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
   - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"

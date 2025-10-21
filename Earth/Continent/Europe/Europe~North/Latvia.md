@@ -120,7 +120,7 @@ contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Ropaži_Municipality,11068461]]"
   - "[[_Standards/WikiData/WD~Riga,1773]]"
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
   - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
   - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"

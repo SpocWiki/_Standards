@@ -1,7 +1,7 @@
 ---
 official_religion: "[[_Standards/WikiData/WD~Lutheranism,75809]]"
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~Nordic_Council,146165]]"
   - "[[_Standards/WikiData/WD~European_Free_Trade_Association,166546]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"

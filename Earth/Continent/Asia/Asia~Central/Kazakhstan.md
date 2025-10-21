@@ -1,7 +1,7 @@
 ---
 named_after: "[[_Standards/WikiData/WD~Kazakhs,80040]]"
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
   - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"

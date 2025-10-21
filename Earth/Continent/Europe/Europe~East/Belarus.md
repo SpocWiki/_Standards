@@ -296,7 +296,7 @@ member_of:
   - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
   - "[[_Standards/WikiData/WD~Interpol,8475]]"
   - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~Non-Aligned_Movement,83201]]"
   - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
   - "[[_Standards/WikiData/WD~Union_State,166110]]"

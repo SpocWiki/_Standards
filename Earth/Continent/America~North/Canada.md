@@ -377,7 +377,7 @@ maritime_identification_digits: 316
 maximum_temperature_record: 49.6
 median_income: 70336
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
   - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
