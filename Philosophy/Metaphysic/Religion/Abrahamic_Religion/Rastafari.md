@@ -28,7 +28,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RASTAFARIANSTVO.html
 
 # [[Rastafari]] 
 
-#is_/different_from :: [[Pastafari]] 
+#is_/different_from :: [[../Pastafari]] 
 #is_/same_as :: [[_Standards/WikiData/WD~Rastafari,101462]] 
 
 ## #has_/text_of_/abstract 
