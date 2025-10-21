@@ -64,7 +64,7 @@ Commons_gallery: Øresund bridge
 
 # [[Øresund_Bridge]] 
 
-# [[WD~Øresund_Bridge,297871]] 
+#is_/same_as :: [[WD~Øresund_Bridge,297871]] 
 
 ## #has_/text_of_/abstract 
 
