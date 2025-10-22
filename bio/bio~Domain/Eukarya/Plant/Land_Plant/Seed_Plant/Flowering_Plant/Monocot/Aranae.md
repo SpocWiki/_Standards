@@ -24,7 +24,7 @@ title: Aranae
     -   [Asparagales](Asparagales.md)
     -   [Pandanales](Pandanales.md)
     -   [Dioscoreales](Dioscoreales.md)
-    -   [Palms](Palms.md)
+    -   [Palm](Palm.md)
     -   [Zingiberanae](Zingiberanae.md)
     -   [Commelinanae](Commelinids/Commelinanae.md)
 

@@ -483,12 +483,6 @@ icon: flag-pk
 
 # [[Pakistan]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Pakistan 
-
-[[Pakistan/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: PKR ]
 [	ISO4217-currency_name	 :: Pakistan Rupee ]
 [	ISO4217-currency_numeric	 :: 586 ]
@@ -552,14 +546,17 @@ Sub-region_Name ::  [[Southern Asia]]
 
 [	ISO3166-1-numeric	 :: 586 ]
 
-
-
 [ISO2::PK]
 [ISO3::PAK] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Pakistan,843|WD~Pakistan,843]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Pakistan 
+
+[[Pakistan/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Pakistan
@@ -568,6 +565,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Pakistan/
 markerFolder: ./Pakistan/
+coordinates: [[Pakistan]] 
+markerFile: [[Pakistan]] 
+defaultZoom: 5 
 ```
 
 [name-en::Pakistan]

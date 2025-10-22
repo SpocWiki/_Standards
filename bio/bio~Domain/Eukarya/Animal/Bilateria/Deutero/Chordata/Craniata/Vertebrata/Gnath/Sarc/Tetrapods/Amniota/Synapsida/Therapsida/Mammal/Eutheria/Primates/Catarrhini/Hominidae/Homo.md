@@ -46,7 +46,7 @@ title: Homo
 
 -   ◊ Sibling Groups of  Hominidae
     -   [Orangutan](Orangutan.md)
-    -   [Pan](Pan.md)
+    -   [Pan(Genus)](Pan(Genus).md)
     -   Homo
     -   [Gorilla](Gorilla.md)
 

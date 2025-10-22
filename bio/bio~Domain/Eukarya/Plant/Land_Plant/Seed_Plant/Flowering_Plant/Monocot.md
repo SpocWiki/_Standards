@@ -59,7 +59,7 @@ Images © 1997 [William J. Hahn](mailto:wjh22@georgetown.edu)
     -   [Asparagales](Monocot/Asparagales.md)
     -   [Pandanales](Monocot/Pandanales.md)
     -   [Dioscoreales](Monocot/Dioscoreales.md)
-    -   [Palms](Monocot/Palms.md)
+    -   [Palm](Monocot/Palm.md)
     -   [Zingiberanae](Monocot/Zingiberanae.md)
     -   [Commelinanae](Monocot/Commelinids/Commelinanae.md)
 

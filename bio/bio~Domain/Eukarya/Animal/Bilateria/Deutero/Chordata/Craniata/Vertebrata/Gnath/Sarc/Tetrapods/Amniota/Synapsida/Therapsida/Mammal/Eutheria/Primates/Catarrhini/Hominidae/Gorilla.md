@@ -43,7 +43,7 @@ title: Gorilla
 
 -   ◊ Sibling Groups of  Hominidae
     -   [Orangutan](Orangutan.md)
-    -   [Pan](Pan.md)
+    -   [Pan(Genus)](Pan(Genus).md)
     -   [Homo](Homo.md)
     -   Gorilla
 

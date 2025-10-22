@@ -82,7 +82,7 @@ native_label: orang hutan
 
 -   ◊ Sibling Groups of  Hominidae
     -   Pongo
-    -   [Pan](Pan.md)
+    -   [Pan(Genus)](Pan(Genus).md)
     -   [Homo](Homo.md)
     -   [Gorilla](Gorilla.md)
 

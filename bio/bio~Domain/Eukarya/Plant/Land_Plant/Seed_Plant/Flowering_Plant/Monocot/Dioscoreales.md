@@ -36,7 +36,7 @@ title: Dioscoreales
     -   [Asparagales](Asparagales.md)
     -   [Pandanales](Pandanales.md)
     -   Dioscoreales
-    -   [Palms](Palms.md)
+    -   [Palm](Palm.md)
     -   [Zingiberanae](Zingiberanae.md)
     -   [Commelinanae](Commelinids/Commelinanae.md)
 

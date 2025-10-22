@@ -130,7 +130,7 @@ Studying Hominidae species provides insights into human evolution, behavior, and
 
 -   » Sub-Groups
     -   [Orangutan](Hominidae/Orangutan.md)
-    -  [Pan](Hominidae/Pan.md))
+    -  [Pan(Genus)](Hominidae/Pan(Genus).md))
     -  [Homo](Hominidae/Homo.md))
     -  [Gorilla](Hominidae/Gorilla.md))
 

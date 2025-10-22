@@ -340,14 +340,12 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 
 [	ISO3166-1-numeric	 :: 585 ] 
 
-
-
 [ISO2::PW] 
 [ISO3::PLW]  
 
+#is_/same_as :: [[../../../../WikiData/WD~Palau,695|WD~Palau,695]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Palau
@@ -356,6 +354,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Palau/
 markerFolder: ./Palau/
+coordinates: [[Palau]] 
+markerFile: [[Palau]] 
+defaultZoom: 6 
 ```
 
 [name-en::Palau] 

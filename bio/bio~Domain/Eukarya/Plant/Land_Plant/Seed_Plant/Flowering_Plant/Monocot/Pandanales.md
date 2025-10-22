@@ -48,7 +48,7 @@ title: Pandanales
     -   [Asparagales](Asparagales.md)
     -   Pandanales
     -   [Dioscoreales](Dioscoreales.md)
-    -   [Palms](Palms.md)
+    -   [Palm](Palm.md)
     -   [Zingiberanae](Zingiberanae.md)
     -   [Commelinanae](Commelinids/Commelinanae.md)
 

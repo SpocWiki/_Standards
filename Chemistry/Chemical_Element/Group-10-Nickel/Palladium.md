@@ -66,8 +66,9 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Palladium\"]"
 ZVG_number: 8340
 ---
 
+# [[Palladium]] 
+
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Palladium,1089]] 
 
 [GroupName::Group-10-Nickel]
 [Group:[[../Group-10-Nickel]]
@@ -90,6 +91,7 @@ ZVG_number: 8340
 [FormEnergy-kj-mol::357]
 (PeriodNo::5)
 (GroupNo::10)
+#is_/same_as :: [[../../../WikiData/WD~Palladium,1089]] 
 
 
 ## #has_/text_of_/abstract 

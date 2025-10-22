@@ -87,7 +87,7 @@ Morphological synapomorphies for the clade include
     -   [Asparagales](Asparagales.md)
     -   [Pandanales](Pandanales.md)
     -   [Dioscoreales](Dioscoreales.md)
-    -   [Palms](Palms.md)
+    -   [Palm](Palm.md)
     -   Zingiberanae
     -   [Commelinanae](Commelinids/Commelinanae.md)
 
