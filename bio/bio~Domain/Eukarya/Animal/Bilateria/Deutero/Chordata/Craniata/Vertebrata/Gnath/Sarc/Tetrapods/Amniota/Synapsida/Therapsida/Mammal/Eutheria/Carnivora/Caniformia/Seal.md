@@ -1,6 +1,7 @@
 ---
 aliases:
   - Seal
+  - Pinnipedia
 has_id_wikidata: Q30263
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -27,7 +28,7 @@ taxon_name: Pinnipedia
 subreddit: seals
 ---
 
-# [[Pinnipedia]] 
+# [[Seal]] 
 
 #is_/same_as :: [[WD~Pinnipedia,30263]] 
 

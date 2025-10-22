@@ -56,7 +56,7 @@ NBN_System_Key: NBNSYS0000176397
 
 # [[Haddock]]
 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Haddock,202406|WD~Haddock,202406]]
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Haddock,202406|WD~Haddock,202406]]
 
 ## #has_/text_of_/abstract 
 
