@@ -38,10 +38,16 @@ OpenStreetMap_tag: Tag:amenity=baking_oven
 
 #is_/same_as :: [[../../../../../WikiData/WD~Oven,36539|WD~Oven,36539]]
 
-
 ## #has_/text_of_/abstract 
 
-> An **Oven** is a tool that is used to expose materials to a hot environment. Ovens contain a hollow chamber and provide a means of heating the chamber in a controlled way. In use since antiquity, they have been used to accomplish a wide variety of tasks requiring controlled heating. Because they are used for a variety of purposes, there are many different types of ovens. These types differ depending on their intended purpose and based upon how they generate heat.
+> An **Oven** is a tool that is used to expose materials to a hot environment. 
+> Ovens contain a hollow chamber and provide a means of 
+> heating the chamber in a controlled way. 
+> 
+> In use since antiquity, they have been used to accomplish a wide variety of tasks 
+> requiring controlled heating. 
+> Because they are used for a variety of purposes, there are many different types of ovens. 
+> These types differ depending on their intended purpose and based upon how they generate heat.
 >
 > Ovens are often used for cooking, usually baking, sometimes broiling; they can be used to heat food to a desired temperature. Ovens are also used in the manufacturing of ceramics and pottery; these ovens are sometimes referred to as kilns. Metallurgical furnaces are ovens used in the manufacturing of metals, while glass furnaces are ovens used to produce glass.
 >
