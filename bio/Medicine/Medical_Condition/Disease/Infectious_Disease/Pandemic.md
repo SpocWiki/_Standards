@@ -19,6 +19,10 @@ subclass_of:
 UMLS_CUI: C1615608
 ---
 
+# [[Pandemic]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Pandemic,12184|WD~Pandemic,12184]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Pandemic** ( pan-DEM-ik) is an epidemic of an infectious disease that has a sudden increase in cases and spreads across a large region, for instance multiple continents or worldwide, affecting a substantial number of individuals. Widespread endemic diseases with a stable number of infected individuals such as recurrences of seasonal influenza are generally excluded as they occur simultaneously in large regions of the globe rather than being spread worldwide.
