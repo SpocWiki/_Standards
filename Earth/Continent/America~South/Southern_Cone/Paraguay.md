@@ -342,12 +342,6 @@ icon: flag-py
 
 # [[Paraguay]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Paraguay 
-
-[[Paraguay/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: PYG ]
 [	ISO4217-currency_name	 :: Guarani ]
 [	ISO4217-currency_numeric	 :: 600 ]
@@ -411,14 +405,17 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 600 ]
 
-
-
 [ISO2::PY]
 [ISO3::PRY] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Paraguay,733|WD~Paraguay,733]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Paraguay 
+
+[[Paraguay/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Paraguay
@@ -427,6 +424,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Paraguay//
 markerFolder: ./Paraguay/
+coordinates: [[Paraguay]] 
+markerFile: [[Paraguay]] 
+defaultZoom: 6 
 ```
 
 [name-en::Paraguay]

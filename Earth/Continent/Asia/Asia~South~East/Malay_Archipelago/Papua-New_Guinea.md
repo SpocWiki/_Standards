@@ -8,6 +8,7 @@ aliases:
   - Папуа-Новая Гвинея
   - Independent State of Papua New Guinea
   - Estado Independiente de Papua Nueva Guinea
+  - Papua_New_Guinea
 confidential: public
 cssclasses:
   - Country

@@ -24,7 +24,7 @@ IPTC_NewsCode: mediatopic/20000733
 
 # [[Nuclear_Physics]] 
 
-#is_/same_as :: [[../../WikiData/WD~Nuclear_physics,81197|WD~Nuclear_physics,81197]] 
+#is_/same_as :: [[../../../WikiData/WD~Nuclear_physics,81197|WD~Nuclear_physics,81197]] 
 
 ## #has_/text_of_/abstract 
 

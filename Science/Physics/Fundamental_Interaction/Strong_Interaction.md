@@ -1,15 +1,19 @@
 ---
-aliases:
-  - strong interaction
-  - strong force or strong nuclear force
-has_id_wikidata: Q11415
-instance_of: "[[_Standards/WikiData/WD~fundamental_interaction,104934]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-subclass_of: "[[_Standards/WikiData/WD~elementary_particle_interaction,71130616]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Nuclear%20Force%20anim%20smaller.gif
-Stack_Exchange_tag: https://physics.stackexchange.com/tags/strong-force
-Dewey_Decimal_Classification: "539.7548"
 Commons_category: Strong nuclear force
+Dewey_Decimal_Classification: 539.7548
+Stack_Exchange_tag: https://physics.stackexchange.com/tags/strong-force
+aliases:
+  - Strong interaction
+  - strong nuclear force
+  - strong force
+described_by_source:
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+has_id_wikidata: Q11415
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Nuclear%20Force%20anim%20smaller.gif
+instance_of:
+  - "[[_Standards/WikiData/WD~fundamental_interaction,104934]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~elementary_particle_interaction,71130616]]"
 ---
 
 # [[Strong_Interaction]] 
@@ -18,10 +22,11 @@ Commons_category: Strong nuclear force
 
 ## #has_/text_of_/abstract 
 
-> In nuclear physics and particle physics, the **strong interaction**, 
-> also called the strong force or strong nuclear force, is one of the four known fundamental interactions. 
-> It confines quarks into protons, neutrons, and other hadron particles, 
-> and also binds neutrons and protons to create atomic nuclei, where it is called the nuclear force.
+> In nuclear physics and particle physics, the **Strong interaction**, 
+> also called the strong force or strong nuclear force, is a fundamental interaction 
+> that confines quarks into protons, neutrons, and other hadron particles. 
+> The strong interaction also binds neutrons and protons to create atomic nuclei, 
+> where it is called the nuclear force.
 >
 > Most of the mass of a proton or neutron is the result of the strong interaction energy; 
 > the individual quarks provide only about 1% of the mass of a proton. 
@@ -48,4 +53,21 @@ Commons_category: Strong nuclear force
 > both in uranium or plutonium-based fission weapons and in fusion weapons like the hydrogen bomb.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Strong%20interaction) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Strong_Interaction](/_Standards/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.md) 
+
+### #is_/same_as :: [Strong_Interaction.public](/_public/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.public.md) 
+
+### #is_/same_as :: [Strong_Interaction.internal](/_internal/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.internal.md) 
+
+### #is_/same_as :: [Strong_Interaction.protect](/_protect/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.protect.md) 
+
+### #is_/same_as :: [Strong_Interaction.private](/_private/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.private.md) 
+
+### #is_/same_as :: [Strong_Interaction.personal](/_personal/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.personal.md) 
+
+### #is_/same_as :: [Strong_Interaction.secret](/_secret/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.secret.md)
 

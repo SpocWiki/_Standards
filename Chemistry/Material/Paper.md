@@ -67,7 +67,8 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Paper::495t6\"]"
 
 # [[Paper]] 
 
-#is_/same_as :: [[../../WikiData/WD~Paper,11472|WD~Paper,11472]] 
+#is_/similar_to :: [[Papyrus]] 
+#is_/same_as ::  [[../../WikiData/WD~Paper,11472|WD~Paper,11472]] 
 
 ## #has_/text_of_/abstract 
 
