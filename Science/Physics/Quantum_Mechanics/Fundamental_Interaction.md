@@ -1,39 +1,46 @@
 ---
-aliases:
-- "Fundamental interaction"
-Commons_category: "Fundamental forces"
+Commons_category: Fundamental forces
 Dewey_Decimal_Classification: 539.754
+Wikidata_property: interaction
+aliases:
+  - Fundamental_interaction
+  - fundamental interactions
+  - fundamental forces
 disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 has_id_wikidata: Q104934
 has_part_s_:
-- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_interaction,123345464]]'
-related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Feynman-electron-photon-emission.svg"
+  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+  - '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+  - '[[_Standards/WikiData/WD~gravity,11412]]'
+  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+instance_of:
+  - '[[_Standards/WikiData/WD~tetrad,29428373]]'
+  - '[[_Standards/WikiData/WD~type_of_interaction,123345464]]'
+related_image: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Feynman-electron-photon-emission.svg
 studied_in: '[[_Standards/WikiData/WD~physics,413]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
-- '[[_Standards/WikiData/WD~interaction,52948]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_FundamentalForces,8081453]]'
-Wikidata_property: interaction
+  - '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
+  - '[[_Standards/WikiData/WD~interaction,52948]]'
+studied_by: '[[_Standards/WikiData/WD~physics,413]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_FundamentalForces,8081453]]'
 ---
+
+# [[Fundamental_Interaction]] 
+
+#is_/same_as :: [[../../WikiData/WD~Fundamental_interaction,104934|WD~Fundamental_interaction,104934]] 
 
 ## #has_/text_of_/abstract 
 
-> In physics, the **Fundamental interaction**s or fundamental forces are interactions in nature that appear not to be reducible to more basic interactions. There are four fundamental interactions known to exist:
+> In physics, the fundamental interactions or fundamental forces 
+> are interactions in nature that appear not to be reducible to more basic interactions. 
 >
+> There are four fundamental interactions known to exist: 
+> - gravity, 
+> - electromagnetism, 
+> - [[Fundamental_Interaction/Weak_Interaction|Weak_Interaction]], and 
+> - [[Fundamental_Interaction/Strong_Interaction]]. 
 > 
->
-> gravity
->
-> electromagnetism
->
-> weak interaction
->
-> strong interaction
->
 > The gravitational and electromagnetic interactions produce long-range forces whose effects can be seen directly in everyday life. The strong and weak interactions produce forces at subatomic scales and govern nuclear interactions inside atoms.
 >
 > Some scientists hypothesize that a fifth force might exist, but these hypotheses remain speculative. 
@@ -62,4 +69,3 @@ Wikidata_property: interaction
 ### #is_/same_as :: [Fundamental_Interaction.personal](/_personal/Science/Physics/Quantum_Mechanics/Fundamental_Interaction.personal.md) 
 
 ### #is_/same_as :: [Fundamental_Interaction.secret](/_secret/Science/Physics/Quantum_Mechanics/Fundamental_Interaction.secret.md)
-

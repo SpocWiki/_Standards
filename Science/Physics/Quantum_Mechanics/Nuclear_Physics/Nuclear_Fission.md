@@ -29,7 +29,7 @@ UMLS_CUI: C0028576
 
 # [[Nuclear_Fission]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Nuclear_fission,11429|WD~Nuclear_fission,11429]] 
+#is_/same_as :: [[../../../../WikiData/WD~Nuclear_fission,11429|WD~Nuclear_fission,11429]] 
 
 ## #has_/text_of_/abstract 
 

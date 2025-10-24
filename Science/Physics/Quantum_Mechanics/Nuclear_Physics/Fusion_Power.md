@@ -25,7 +25,7 @@ Commons_category: Nuclear fusion reactors
 
 # [[Fusion_Power]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Fusion_power,641442|WD~Fusion_power,641442]] 
+#is_/same_as :: [[../../../../WikiData/WD~Fusion_power,641442|WD~Fusion_power,641442]] 
 
 ## #has_/text_of_/abstract 
 

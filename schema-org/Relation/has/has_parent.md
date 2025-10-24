@@ -1,30 +1,31 @@
 ---
 aliases:
-- has_father
-- has_mother
-- has_parent
-- "schema:parent"
-- "dbo:parent"
-- "wdt:P40"
+  - has_father
+  - has_mother
+  - has_parent
+  - schema:parent
+  - dbo:parent
+  - wdt:P40
+has_id_wikidata: P40
 confidential: public
 cssclasses:
-- Predicate
-- Relation
+  - Predicate
+  - Relation
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- parent
-layout: 
-license: "CC BY-SA 4.0"
+  - parent
+layout:
+license: CC BY-SA 4.0
 linkTitle: has_parent
 publish: true
-publishDate: 
+publishDate:
 supersedes: parents
 tags:
-- class/Relation
-- schema-org/Relation
+  - class/Relation
+  - schema-org/Relation
 title: has_parent
 type: Predi_Relation
 ---
@@ -42,7 +43,7 @@ Relation describes that:
 
 #is_/sub_relation_of :: [[has_creator]] 
 #is_/inverse_of :: [[has_children]] 
-
+#is_/same_as :: [[WD~P40]]
 
 ## Confidential Links & Embeds: 
 
