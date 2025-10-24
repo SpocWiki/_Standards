@@ -52,7 +52,7 @@ Library_of_Congress_Classification: HQ768-HQ778.7
 
 # [[Parenting]] 
 
-#is_/same_as :: [[WD~Parenting,1217379]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Parenting,1217379]] 
 
 ## #has_/text_of_/abstract 
 

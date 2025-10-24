@@ -65,6 +65,10 @@ U_S_National_Archives_Identifier: 10645830
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Paper::495t6\"]"
 ---
 
+# [[Paper]] 
+
+#is_/same_as :: [[../../WikiData/WD~Paper,11472|WD~Paper,11472]] 
+
 ## #has_/text_of_/abstract 
 
 > **Paper** is a thin sheet material produced by mechanically or chemically processing cellulose fibres derived from wood, rags, grasses, herbivore dung, or other vegetable sources in water. Once the water is drained through a fine mesh leaving the fibre evenly distributed on the surface, it can be pressed and dried. 
