@@ -1,7 +1,7 @@
 
 # [[Electron_Capture]] 
 
-#is_/same_as :: [[Beta_Decay]] 
+#is_/same_as :: [[../../Fundamental_Interaction/Weak_Interaction/Beta_Decay]] 
 
 ## #has_/text_of_/abstract 
 
