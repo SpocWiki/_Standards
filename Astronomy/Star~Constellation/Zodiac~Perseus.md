@@ -48,6 +48,20 @@ official_name: Perseus
 
 #is_/same_as :: [[../../WikiData/WD~Perseus,10511|WD~Perseus,10511]] 
 
+## #has_/text_of_/abstract 
+
+> Perseus is a constellation in the northern sky, 
+> named after the Greek mythological hero Perseus. 
+> 
+> It is one of the 48 ancient constellations listed by the 2nd-century astronomer Ptolemy, 
+> and among the 88 modern constellations 
+> defined by the International Astronomical Union (IAU). 
+> 
+> It is located near several other constellations named after ancient Greek legends surrounding Perseus, including Andromeda to the west and Cassiopeia to the north. Perseus is also bordered by Aries and Taurus to the south, Auriga to the east, Camelopardalis to the north, and Triangulum to the west. Some star atlases during the early 19th century also depicted Perseus holding the disembodied head of Medusa, whose asterism was named together as Perseus et Caput Medusae; however, this never came into popular usage.
+>
+> The galactic plane of the Milky Way passes through Perseus, whose brightest star is the yellow-white supergiant Alpha Persei (also called Mirfak), which shines at magnitude 1.79. It and many of the surrounding stars are members of an open cluster known as the Alpha Persei Cluster. The best-known star, however, is Algol (Beta Persei), linked with ominous legends because of its variability, which is noticeable to the naked eye. Rather than being an intrinsically variable star, it is an eclipsing binary. Other notable star systems in Perseus include X Persei, a binary system containing a neutron star, and GK Persei, a nova that peaked at magnitude 0.2 in 1901. The Double Cluster, comprising two open clusters quite near each other in the sky, was known to the ancient Chinese. The constellation gives its name to the Perseus Cluster (Abell 426), a massive galaxy cluster located 250 million light-years from Earth. It hosts the radiant of the annual Perseids meteor shower—one of the most prominent meteor showers in the sky.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Perseus%20(constellation))
 
 ## Confidential Links & Embeds: 
 
