@@ -15,6 +15,7 @@ aliases:
   - chinesischer
   - chinesische
   - chinesisches
+  - People's_Republic_of_China
 anthem: "[[_Standards/WikiData/WD~March_of_the_Volunteers,156136]]"
 archives_at: "[[_Standards/WikiData/WD~Hong_Kong_Baptist_University_Library_Special_Collections_&_Archives,117812074]]"
 area: 9596961
@@ -942,17 +943,6 @@ Wolfram_Language_entity_code: Entity["Country", "China"]
 
 # [[China]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~China,148]]  
-
-> [!info] This Article is only a Stub. 
-For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-China)
-into a Subfolder named `China`, so that this Link into the Sub-Repository works: [[China/ReadMe]] 
-
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-China 
-
-> [!warning] This can considerably increase the total size and depth of your wiki!
-
-
 ## 3. [#has_/parts_](app://obsidian.md/index.html#has_/parts_)
 
 List of Constituent States with numbers as of 2021-06 
@@ -997,7 +987,6 @@ Below is a detailed table of the 34 provincial-level divisions in China, which i
 | [[Zhejiang]]                                                                |  64.760 |  105.5 |    7.350 |    113.444 | 0.824 | Rapidly growing economy, significant industrial base       |
 | [[China/provinces~China/Guangdong/Hong_Kong\|Hong Kong]]                                                    |   7.480 |    1.1 |    2.870 |    383.418 | 0.949 | Major financial hub, autonomous economic region            |
 | [[Earth/Continent/Asia/Asia~East/China/Macau\|Macau]]                       |    .680 |     .1 |    0.366 |    537.629 | 0.922 | Renowned for gaming and tourism, high per capita income    |
-
 
 
 [	ISO4217-currency_alphabetic	 :: CNY ]
@@ -1063,13 +1052,20 @@ Sub-region_Name ::  [[Eastern Asia]]
 
 [	ISO3166-1-numeric	 :: 156 ]
 
-
-
 [ISO2::CN]
 [ISO3::CHN] 
 
-## #has_/map  
+#is_/same_as :: [[../../../../WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]   
 
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-China)
+into a Subfolder named `China`, so that this Link into the Sub-Repository works: [[China/ReadMe]] 
+
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-China 
+
+> [!warning] This can considerably increase the total size and depth of your wiki!
+
+## #has_/map  
 
 ```leaflet
 id: China
@@ -1078,6 +1074,10 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./China//
 markerFolder: ./China//
+coordinates: [[China]] 
+markerFile: [[China]] 
+zoomFeatures: true
+defaultZoom: 4 
 ```
 
 [name-en::China]

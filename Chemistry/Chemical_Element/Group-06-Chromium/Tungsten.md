@@ -134,7 +134,7 @@ ZVG_number: 7740
 > (which sublimes at normal pressure), melting at [MeltingPoint-C::3422] °C (6,192 °F; 3,695 K). 
 > It also has the highest boiling point, at [BoilingPoint-C::5930] °C (10,706 °F; 6,203 K). 
 > Its density is (Density::19.3) grams per cubic centimetre (0.697 lb/cu in), 
-> comparable with that of[[../Actinide-Group/Uranium]]] and[[../Group-11-Copper/Gold]]], and much higher (about 1.7 times) than that of[[../Group-14-Carbon/Lead]]]. 
+> comparable with that of[[../Actinide/Uranium]]] and[[../Group-11-Copper/Gold]]], and much higher (about 1.7 times) than that of[[../Group-14-Carbon/Lead]]]. 
 > 
 > Polycrystalline tungsten is an intrinsically brittle and hard material 
 > (under standard conditions, when uncombined), making it difficult to work into metal. 

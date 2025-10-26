@@ -40,11 +40,11 @@ Unicode_character: 𓂸
 # [[Penis]] 
 
 #is_/similar_to :: [[Clitoris]] 
-#is_/same_as :: [[../../../WikiData/WD~Penis,58|WD~Penis,58]] 
+#is_/same_as :: [[../../../../WikiData/WD~Penis,58|WD~Penis,58]]  
 
 ## #has_/text_of_/abstract 
 
-> A **Penis** (; pl.: penises or penes) is a sex organ used by male and hermaphrodite animals 
+> A **Penis** (pl.: penises or penes) is a sex organ used by male and hermaphrodite animals 
 > to copulate, and by male placental mammals to urinate.
 >
 > The term penis applies to many intromittent organs of vertebrates and invertebrates, but not to all. 
