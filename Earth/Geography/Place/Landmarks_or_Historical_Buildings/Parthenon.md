@@ -9,6 +9,7 @@ architectural_style:
 - '[[_Standards/WikiData/WD~peripteral,60138]]'
 Commons_category: Parthenon
 Commons_gallery: Parthenon
+location: [ 37.971527, 23.726601]
 coordinate_location: "Point(23.726601 37.971527)"
 country: '[[_Standards/WikiData/WD~Greece,41]]'
 culture: '[[_Standards/WikiData/WD~Ancient_Greek_culture,4246634]]'
@@ -37,7 +38,7 @@ instance_of:
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PARFENON.html
 length: 69.61
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Athens_Municipality,1224979]]'
-location: '[[_Standards/WikiData/WD~Athens,1524]]'
+locations: '[[_Standards/WikiData/WD~Athens,1524]]'
 made_from_material: '[[_Standards/WikiData/WD~Pentelic_marble,673492]]'
 maintained_by_WikiProject:
 - '[[_Standards/WikiData/WD~WikiProject_Architecture,5496595]]'
@@ -66,9 +67,25 @@ World_Heritage_criteria:
 
 # [[Parthenon]] 
 
+
 ![[../../../../assets/Parthenon,Acropolis,Athens,Greece.png]] 
 By <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/68686051@N00">Steve Swayne</a> - <a href="//commons.wikimedia.org/wiki/File:O_Partenon_de_Atenas.jpg" title="File:O Partenon de Atenas.jpg">File:O Partenon de Atenas.jpg</a>, originally posted to <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a> as <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/68686051@N00/2416778389">The Parthenon Athens</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17065839">Link</a> 
 #is_/same_as :: [[../../../../WikiData/WD~Parthenon,10288|WD~Parthenon,10288]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Parthenon,10288|WD~Parthenon,10288]]
+
+## #has_/map 
+
+```leaflet
+id: Parthenon
+geojsonFolder: ./Parthenon/
+markerFolder: ./Parthenon/
+coordinates: [[Parthenon]] 
+markerFile: [[Parthenon]] 
+defaultZoom: 11 
+maxZoom: 18
+```
+
 
 ## #has_/text_of_/abstract 
 
