@@ -7,8 +7,6 @@ aliases:
 
 #is_a_/time_/Age 
 
-A time period from 0.129 to 0.0117 million years ago. 
-
 #has_/time_/started :: -129.0e3 
 #has_/time_/stopped ::  -11.7e3 
 
@@ -17,8 +15,9 @@ A time period from 0.129 to 0.0117 million years ago.
 #has_/previous_/item :: [[Age~3~Chibanian]]   
 #has_/next_/item :: [[../Epoch~2~Holocene/0000-Greenlandian|0000-Greenlandian]]   
 
-## #has_/text_of_/abstract 
+A time period from 0.129 to 0.0117 million years ago. 
 
+## #has_/text_of_/abstract 
 
 > The Late Pleistocene is an unofficial age in the international geologic timescale in chronostratigraphy, also known as the **Upper Pleistocene** from a stratigraphic perspective. It is intended to be the fourth division of the Pleistocene Epoch within the ongoing Quaternary Period. It is currently defined as the time between c. 129,000 and c. 11,700 years ago. The __late Pleistocene equates to the proposed Tarantian Age of the geologic time scale__, preceded by the officially ratified [[Age~3~Chibanian]] (commonly known as Middle Pleistocene) and succeeded by the officially ratified [[../Epoch~2~Holocene/0000-Greenlandian]]. 
 > 

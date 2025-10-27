@@ -483,12 +483,6 @@ icon: flag-pe
 
 # [[Peru]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Peru 
-
-[[Peru/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: PEN ]
 [	ISO4217-currency_name	 :: Sol ]
 [	ISO4217-currency_numeric	 :: 604 ]
@@ -552,14 +546,18 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 604 ]
 
-
-
 [ISO2::PE]
 [ISO3::PER] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Peru,419|WD~Peru,419]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Peru 
+
+[[Peru/ReadMe]] 
+
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Peru
@@ -568,6 +566,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Peru//
 markerFolder: ./Peru/
+coordinates: [[Peru]] 
+markerFile: [[Peru]] 
+defaultZoom: 8 
 ```
 
 [name-en::Peru]

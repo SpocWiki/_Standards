@@ -46,7 +46,7 @@ MeSH_tree_code: V02.675
 
 # [[Patent]] 
 
-#is_/same_as :: [[WikiData/WD~Patent,253623|WD~Patent,253623]] 
+#is_/same_as :: [[../../../../WikiData/WD~Patent,253623|WD~Patent,253623]]  
 
 ## #has_/text_of_/abstract 
 

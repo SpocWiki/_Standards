@@ -73,9 +73,9 @@ Wolfram_Language_entity_type: Element
 
 ### [Group-02-Earth-Alkaline](Chemical_Element/Group-02-Earth-Alkaline.md)
 
-### In Period 6, the [Lanthanide-Group](Chemical_Element/Lanthanide-Group.md) appears here
+### In Period 6, the [Lanthanide](Chemical_Element/Lanthanide.md) appears here
 
-### In Period 7, the [Actinide-Group](Chemical_Element/Actinide-Group.md) appears here
+### In Period 7, the [Actinide](Chemical_Element/Actinide.md) appears here
 
 ### as of Period 4, the [metallic Groups](#Metallic%20Groups) appear here
 

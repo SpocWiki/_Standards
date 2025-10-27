@@ -34,9 +34,12 @@ U_S_National_Archives_Identifier: 10639679
 
 ## #has_/text_of_/abstract 
 
-> A **Crop** is a plant that can be grown and harvested extensively for profit or subsistence.  In other words, a crop is a plant or plant product that is grown for a specific purpose such as food, fibre, or fuel. 
+> A **Crop** is a plant that can be grown and harvested extensively for profit or subsistence. 
+> In other words, a crop is a plant or plant product that is grown for a specific purpose such as 
+> food, fibre, or fuel. 
 >
-> When plants of the same species are cultivated in rows or other systematic arrangements, it is called crop field or crop cultivation.
+> When plants of the same species are cultivated in rows or other systematic arrangements, 
+> it is called crop field or crop cultivation.
 >
 > Most crops are harvested as food for humans or fodder for livestock.
 >

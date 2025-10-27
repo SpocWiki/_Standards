@@ -37,9 +37,24 @@ UMLS_CUI: C0030842
 UNSPSC_Code: 51101507
 ---
 
+# [[Penicillin]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Penicillin,12190|WD~Penicillin,12190]] 
+
 ## #has_/text_of_/abstract 
 
-> **Penicillin**s (P, PCN or PEN) are a group of β-lactam antibiotics originally obtained from Penicillium moulds, principally P. chrysogenum and P. rubens. Most penicillins in clinical use are synthesised by P. chrysogenum using deep tank fermentation and then purified. A number of natural penicillins have been discovered, but only two purified compounds are in clinical use: penicillin G (intramuscular or intravenous use) and penicillin V (given by mouth). Penicillins were among the first medications to be effective against many bacterial infections caused by staphylococci and streptococci. They are still widely used today for various bacterial infections, though many types of bacteria have developed resistance following extensive use.
+> **Penicillin**s (P, PCN or PEN) are a group of β-lactam antibiotics 
+> originally obtained from Penicillium moulds, principally P. chrysogenum and P. rubens. 
+> 
+> Most penicillins in clinical use are synthesised by P. chrysogenum 
+> using deep tank fermentation and then purified. 
+> 
+> A number of natural penicillins have been discovered, 
+> but only two purified compounds are in clinical use: 
+> - penicillin G (intramuscular or intravenous use) and 
+> - penicillin V (given by mouth). 
+> 
+> Penicillins were among the first medications to be effective against many bacterial infections caused by staphylococci and streptococci. They are still widely used today for various bacterial infections, though many types of bacteria have developed resistance following extensive use.
 >
 > Ten percent of the population claims penicillin allergies, but because the frequency of positive skin test results decreases by 10% with each year of avoidance, 90% of these patients can eventually tolerate penicillin. Additionally, those with penicillin allergies can usually tolerate cephalosporins (another group of β-lactam) because the immunoglobulin E (IgE) cross-reactivity is only 3%.
 >

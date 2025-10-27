@@ -1,6 +1,7 @@
 ---
 aliases:
 - "Mary Shelley"
+- "Mary_Shelley"
 - "Mary Wollstonecraft Shelley"
 archives_at: '[[_Standards/WikiData/WD~British_Library,23308]]'
 artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
@@ -113,6 +114,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 #has_/parent :: [[Wollstonecraft,Mary]] 
 #has_/parent :: [[Godwin,William]] 
+#has_/spouse :: [[../../Poetry/Poet/Percy_Bysshe_Shelley|Percy_Bysshe_Shelley]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Mary_Shelley,47152]] 
 
@@ -124,11 +126,12 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > which is considered an early example of science fiction. 
 > 
 > She also edited and promoted the works of her husband, 
-> the Romantic poet and philosopher [[Percy Bysshe Shelley]]. 
-> Her father was the political philosopher [[William Godwin]] and 
-> her mother was the philosopher and women's rights advocate [[Wollstonecraft,Mary]].
+> the Romantic poet and philosopher [[../../Poetry/Poet/Percy_Bysshe_Shelley|Percy_Bysshe_Shelley]]. 
+> Her father was the political philosopher [[Godwin,William|William Godwin]] and 
+> her mother was the philosopher and women's rights advocate [[Wollstonecraft,Mary|Mary Wollstonecraft]].
 >
-> Mary's mother died 11 days after giving birth to her. She was raised by her father, 
+> Mary's mother died 11 days after giving birth to her. 
+> She was raised by her father, 
 > who provided her with a rich if informal education, 
 > encouraging her to adhere to his own anarchist political theories. 
 > When she was four, her father married a neighbour, Mary Jane Clairmont, 

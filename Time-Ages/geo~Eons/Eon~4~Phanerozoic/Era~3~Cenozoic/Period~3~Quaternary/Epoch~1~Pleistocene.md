@@ -24,11 +24,10 @@ aliases:
 has_id_wikidata: Q25546
 ---
 
-
 # [[Epoch~1~Pleistocene]] 
 
 #is_a_/time_/Epoch 
-#is_/similar_to :: "[[]]"
+#is_/similar_to :: [[Epoch~1~Pleistocene/Paleolithic|Paleolithic]]  
 
 #has_/abbreviation :: Q1
 
@@ -46,8 +45,14 @@ A time period from 2.58 to 0.0117 million years ago.
 #has_/previous_/item :: [[../Period~2~Neogene/Epoch~2~Pliocene|Epoch~2~Pliocene]] 
 #has_/next_/item :: [[Epoch~2~Holocene]] 
 
-## #has_/text_of_/abstract 
+The **Pleistocene** and **Paleolithic** are **not the same**, though they **overlap almost entirely in time**. 
 
+The **Paleolithic** (“Old Stone Age”) is an _archaeological cultural stage_ 
+based on **human tool use and behavioral development**, not geology. 
+It overlaps with most of the geologic Pleistocene and a small part of the Holocene,
+defined by climatic and environmental changes, particularly the **glacial–interglacial cycles**..
+
+## #has_/text_of_/abstract 
 
 > The **Pleistocene** ( PLY-stə-seen, -⁠stoh-; often referred to colloquially as the Ice Age) 
 > is the geological epoch that lasted from c. 2.58 million to 11,700 years ago, 

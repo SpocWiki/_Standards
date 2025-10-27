@@ -1,8 +1,16 @@
+---
+aliases:
+  - Pascal
+has_id_wikidata: Q44395
+---
 
 
 # [[Unit~Pascal]] 
 
 #is_a_/unit_/for_/pressure 
+
+#is_/same_as :: [[../../../../WikiData/WD~Pascal,44395|WD~Pascal,44395]] 
+
 
 
 ## Confidential Links & Embeds: 

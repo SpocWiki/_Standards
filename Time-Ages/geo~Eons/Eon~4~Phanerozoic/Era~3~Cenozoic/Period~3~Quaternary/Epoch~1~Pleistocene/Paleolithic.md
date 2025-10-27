@@ -20,7 +20,15 @@ OpenStreetMap_tag: historic:era=paleolithic
 
 #has_/time_/started :: -3300e3 
 #has_/time_/stopped ::   -10e3 
+#is_/similar_to :: [[../Epoch~1~Pleistocene|Pleistocene]] 
 #is_/same_as :: [[../../../../../../WikiData/WD~Paleolithic,40203|WD~Paleolithic,40203]] 
+
+The **Pleistocene** and **Paleolithic** are **not the same**, though they **overlap almost entirely in time**. 
+
+The **Paleolithic** (“Old Stone Age”) is an _archaeological cultural stage_ 
+based on **human tool use and behavioral development**, not geology. 
+It overlaps with most of the geologic Pleistocene and a small part of the Holocene,
+defined by climatic and environmental changes, particularly the **glacial–interglacial cycles**..
 
 ## #has_/text_of_/abstract  
 

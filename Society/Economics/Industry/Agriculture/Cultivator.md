@@ -26,9 +26,24 @@ Commons_gallery: Cultivator
 
 ## #has_/text_of_/abstract 
 
-> A **Cultivator** (also known as a rotavator) is a piece of agricultural equipment used for secondary tillage. One sense of the name refers to frames with teeth (also called shanks) that pierce the soil as they are dragged through it linearly. Another sense of the name also refers to machines that use the rotary motion of disks or teeth to accomplish a similar result, such as a rotary tiller.
+> A **Cultivator** (also known as a rotavator) is a piece of agricultural equipment 
+> used for secondary tillage. 
+> 
+> One sense of the name refers to frames with teeth (also called shanks) 
+> that pierce the soil as they are dragged through it linearly. 
+> 
+> Another sense of the name also refers to machines that use the rotary motion of disks or teeth 
+> to accomplish a similar result, such as a rotary tiller.
 >
-> Cultivators stir and pulverize the soil, either before planting (to aerate the soil and prepare a smooth, loose seedbed) or after the crop has begun growing (to kill weeds—controlled disturbance of the topsoil close to the crop plants kills the surrounding weeds by uprooting them, burying their leaves to disrupt their photosynthesis or a combination of both). Unlike a harrow, which disturbs the entire surface of the soil, cultivators are designed to disturb the soil in careful patterns, sparing the crop plants but disrupting the weeds.
+> Cultivators stir and pulverize the soil, either before planting 
+> (to aerate the soil and prepare a smooth, loose seedbed) 
+> or after the crop has begun growing (to kill weeds—controlled disturbance of the topsoil 
+> close to the crop plants kills the surrounding weeds by uprooting them, 
+> burying their leaves to disrupt their photosynthesis or a combination of both). 
+> 
+> Unlike a harrow, which disturbs the entire surface of the soil, 
+> cultivators are designed to disturb the soil in careful patterns, 
+> sparing the crop plants but disrupting the weeds.
 >
 > Cultivators of the toothed type are often similar in form to chisel plows, but their goals are different. Cultivators' teeth work near the surface, usually for weed control, whereas chisel plow shanks work deep beneath the surface, breaking up the hardened layer on top.
 >

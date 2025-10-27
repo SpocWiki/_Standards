@@ -9,6 +9,7 @@ A time period from 298.9 to 251.902 million years ago.
 
 #has_/previous_/item :: [[Period~5~Carboniferous]] 
 #has_/next_/item :: [[../Era~2~Mesozoic/Period~1~Triassic|Period~1~Triassic]] 
+#is_/same_as :: [[../../../../WikiData/WD~Permian,76402|WD~Permian,76402]] 
 
 ## #has_/text_of_/abstract 
 

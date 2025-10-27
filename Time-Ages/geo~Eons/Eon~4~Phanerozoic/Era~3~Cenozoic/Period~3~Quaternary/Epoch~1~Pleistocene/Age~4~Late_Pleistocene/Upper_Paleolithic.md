@@ -10,8 +10,8 @@ aliases:
 #is_a_/time_/Culture 
 
 
-#has_/time_/started :: -50e3 
-#has_/time_/stopped :: -13e3 
+#has_/time_/started :: -48e3 
+#has_/time_/stopped :: -10e3 
 
 #has_/duration_/years :: `$=Math.round((Number(dv.current().has_time_stopped) - dv.current().has_time_started))` 
 #has_/duration_/ka :: `=number(this.has_time_stopped) - number(this.has_time_started)` 
@@ -21,9 +21,17 @@ aliases:
 > The Upper Paleolithic (or Upper Palaeolithic) 
 > is the third and last subdivision of the Paleolithic or Old Stone Age. 
 > 
-> Very broadly, it dates to between 50,000 and 12,000 years ago (the beginning of the Holocene), according to some theories coinciding with the appearance of behavioral modernity in early modern humans, until the advent of the Neolithic Revolution and agriculture.
+> Very broadly, it dates to between 50,000 and 12,000 years ago (the beginning of the Holocene), 
+> according to some theories coinciding with the appearance of behavioral modernity in early modern humans, 
+> until the advent of the Neolithic Revolution and agriculture.
 >
-> Anatomically modern humans (i.e. Homo sapiens) are believed to have emerged in Africa around 300,000 years ago. It has been argued by some that their ways of life changed relatively little from that of archaic humans of the Middle Paleolithic, until about 50,000 years ago, when there was a marked increase in the diversity of artefacts found associated with modern human remains.
+> The  Upper Paleolithic was preceded by the Middle Paleolithic subdivision 
+> and was paralleled by the so-called [[Cognitive Revolution]]. 
+> 
+> Anatomically modern humans (i.e. Homo sapiens) 
+> are believed to have emerged in Africa around 300,000 years ago. 
+> 
+> It has been argued by some that their ways of life changed relatively little from that of archaic humans of the Middle Paleolithic, until about 50,000 years ago, when there was a marked increase in the diversity of artefacts found associated with modern human remains.
 >
 > This period coincides with the most common date assigned to expansion of modern humans from Africa throughout Asia and Eurasia, which contributed to the extinction of the Neanderthals.
 >
