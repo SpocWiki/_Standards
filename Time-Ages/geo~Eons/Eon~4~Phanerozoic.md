@@ -50,9 +50,9 @@ A time period from 538.8 million years ago to the present.
 
 #has_/previous_/item :: [[Eon~3~Proterozoic]]   
 #has_/next_/item :: ---   
+#is_/same_as :: [[../../WikiData/WD~Phanerozoic,101313|WD~Phanerozoic,101313]] 
 
 ## #has_/text_of_/abstract 
-
 
 > The **Phanerozoic** is the current and the latest of the four geologic eons in the Earth's geologic time scale, 
 > covering the time period from 538.8 million years ago to the present. 
