@@ -92,7 +92,7 @@ P8189: "987007376444405171"
 
 # [[Chevron_Corporation]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Chevron_Corporation,319642|WD~Chevron_Corporation,319642]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Chevron_Corporation,319642|WD~Chevron_Corporation,319642]] 
 
 ## #has_/text_of_/abstract 
 

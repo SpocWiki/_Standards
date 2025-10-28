@@ -4,7 +4,7 @@ title: "Millettioid sensu lato clade"
 
 # [[Millettioid]] sensu lato 
 
-![Phaseolus vulgaris](Millettioid/Phaseolus_vulgaris.jpg) 
+![Phaseolus vulgaris](../Faboideae/Phaseoleae/Phaseolus_vulgaris/Phaseolus_vulgaris.jpg) 
 ![Erythrina falcata](Millettioid/Erythrina_falcata.jpg) 
 
 
@@ -93,7 +93,7 @@ paraphyletic Phaseoleae.
 
 ## Title Illustrations
 
-----------------------![Phaseolus vulgaris](Millettioid/Phaseolus_vulgaris.jpg))
+----------------------![Phaseolus vulgaris](../Faboideae/Phaseoleae/Phaseolus_vulgaris/Phaseolus_vulgaris.jpg))
 Scientific Name ::     Phaseolus vulgaris L.
 Specimen Condition   Live Specimen
 Copyright ::            © [Robert Kiedrowski](http://www.danad.com.pl/foto.htm)

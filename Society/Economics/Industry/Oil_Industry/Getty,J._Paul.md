@@ -89,7 +89,18 @@ work_period_start_: 1907-01-01T00:00:00Z
 > A book published in 1996 ranked him as the 67th wealthiest American who ever lived 
 > (based on his wealth as a percentage of the concurrent gross national product).
 >
-> Getty was known for his frugality, going so far as to haggle with the kidnappers when his grandson was held to ransom in 1973. He had five children and divorced five times. Getty was an avid collector of art and antiquities. His collection formed the basis of the J. Paul Getty Museum in Los Angeles; more than $661 million of his estate was left to the museum after his death. He established the J. Paul Getty Trust in 1953. The trust, which is the world's wealthiest art institution, operates the J. Paul Getty Museum Complexes: the Getty Center, the Getty Villa and the Getty Foundation, the Getty Research Institute, and the Getty Conservation Institute.
+> Getty was known for his frugality, going so far as to haggle with the kidnappers 
+> when his grandson was held to ransom in 1973. 
+> 
+> He had five children and divorced five times. 
+> Getty was an avid collector of art and antiquities. 
+> His collection formed the basis of the J. Paul Getty Museum in Los Angeles; 
+> more than $661 million of his estate was left to the museum after his death. 
+> 
+> He established the J. Paul Getty Trust in 1953. 
+> The trust, which is the world's wealthiest art institution, 
+> operates the J. Paul Getty Museum Complexes: 
+> - the Getty Center, the Getty Villa and the Getty Foundation, the Getty Research Institute, and the Getty Conservation Institute.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/J.%20Paul%20Getty) 
 

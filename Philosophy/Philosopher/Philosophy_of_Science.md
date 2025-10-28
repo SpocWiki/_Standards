@@ -31,6 +31,8 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Philosophy_of_science,
 
 # [[Philosophy_of_Science]] 
 
+#is_/same_as :: [[../../WikiData/WD~Philosophy_of_science,59115|WD~Philosophy_of_science,59115]] 
+
 ## #has_/text_of_/abstract 
 
 > **Philosophy of science** is the branch of philosophy 
