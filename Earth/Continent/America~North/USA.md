@@ -799,7 +799,7 @@ Major Cities with Population in 1000s as of @2020
 | [[USA/USA~Pacific/California/counties~California/Los_Angeles,County/cities~Los_Angeles/Los_Angeles,City\|Los Angeles]]         | [[USA/USA~Pacific/California\|California ]]        | 3898.747 |
 | [[USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Chicago\|Chicago]]                                   | [[USA/USA~Central/Illinois\|Illinois]]             | 2746.388 |
 | [[USA/USA~Mountain/Texas/counties~Texas/Harris,County/cities~Harris/Houston\|Houston]]                                    | [[USA/USA~Mountain/Texas\|Texas]]                  | 2304.580 |
-| [[USA/USA~Mountain/Arizona/counties~Arizona/Maricopa,County/cities~Maricopa/Phoenix\|Phoenix]]                            | [[USA/USA~Mountain/Arizona\|Arizona]]              | 1608.139 |
+| [[USA/USA~Mountain/Arizona/counties~Arizona/Maricopa,County/cities~Maricopa/Phoenix,City\|Phoenix]]                            | [[USA/USA~Mountain/Arizona\|Arizona]]              | 1608.139 |
 | [[USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Philadelphia,County/Philadelphia\|Philadelphia]]                     | [[USA/USA~Eastern/Pennsylvania\|Pennsylvania]]     | 1603.797 |
 | [[San Antonio]]                                                                                                           | [[USA/USA~Mountain/Texas\|Texas]]                  | 1434.625 |
 | [[USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/San_Diego\|San_Diego]]                 | [[USA/USA~Pacific/California\|California]]         | 1386.932 |

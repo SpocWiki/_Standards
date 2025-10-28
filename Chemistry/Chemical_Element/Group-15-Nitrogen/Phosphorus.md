@@ -86,7 +86,7 @@ UNII: 27YLU75U4W
 ZVG_number: 3930
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Phosphorus,674]]  
+# [[Phosphorus]] 
 
 
 #chemic/Element 
@@ -111,6 +111,7 @@ ZVG_number: 3930
 [FormEnergy-kj-mol::12.129]
 (PeriodNo::3)
 (GroupNo::15)
+#is_/same_as :: [[../../../WikiData/WD~Phosphorus,674]]  
 
 
 ## #has_/text_of_/abstract 

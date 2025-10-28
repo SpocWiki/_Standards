@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Phascolarctos
 has_id_wikidata: Q431978
 taxonomic_type: "[[_Standards/WikiData/WD~Phascolarctos,209692]]"
 parent_taxon: "[[_Standards/WikiData/WD~Phascolarctomorphia,131468339]]"

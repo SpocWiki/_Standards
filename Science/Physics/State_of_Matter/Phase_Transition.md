@@ -1,12 +1,28 @@
 ---
 aliases:
   - phase transition
-has_id_wikidata:
+  - phase Change
+has_id_wikidata: Q185357
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~change_of_state,2956046]]"
+  - "[[_Standards/WikiData/WD~thermodynamic_process_path,7783163]]"
+  - "[[_Standards/WikiData/WD~threshold_effect,7798100]]"
+  - "[[_Standards/WikiData/WD~transformation,65757353]]"
+studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Phase%20change%20-%20en.svg
+IEV_number: 113-02-06
+MeSH_tree_code:
+  - G01.645
+  - G02.734
+Commons_category: Phase changes
 ---
 
 # [[Phase_Transition]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~latent_heat_of_phase_transition,106553458]] 
+ 
+#is_/same_as :: [[WD~Phase_change,185357]] 
+#see  :: [[_Standards/WikiData/WD~latent_heat_of_phase_transition,106553458]]
 
 | From \ To  | [Solid](https://en.wikipedia.org/wiki/Solid "Solid")                                                        | [Liquid](https://en.wikipedia.org/wiki/Liquid "Liquid")                   | [Gas](https://en.wikipedia.org/wiki/Gas "Gas")                                             | [Plasma](https://en.wikipedia.org/wiki/Plasma_\(physics\) "Plasma (physics)") |
 | ---------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
