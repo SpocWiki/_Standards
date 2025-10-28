@@ -1,6 +1,49 @@
 ---
 title: Piperales
+aliases:
+has_id_wikidata: Q27287
+parent_taxon: "[[_Standards/WikiData/WD~magnoliids,846071]]"
+taxon_synonym:
+  - "[[_Standards/WikiData/WD~Aristolochiales,1973300]]"
+  - "[[_Standards/WikiData/WD~Lactoridales,14918093]]"
+  - "[[_Standards/WikiData/WD~Hydnorales,14918102]]"
+  - "[[_Standards/WikiData/WD~Asarales,81935761]]"
+has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "18217"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Piper%20angustifolium%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-243.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Piper%20aduncum.jpg
+EPPO_Code: 1PIPO
+UMLS_CUI: C0682479
+NBN_System_Key: NHMSYS0020824594
+Commons_category: Piperales
+taxon_name: Piperales
+taxon_common_name:
+  - 후추목
+  - 胡椒目
 ---
+
+# [[Piperales]] 
+
+![Aristolochia_clematitis](Piperales/Aristolochia_clematitis.jpg)  ![Piper_nigrum](Piperales/Piperaceae/Black_Pepper/Piper_nigrum,Black_Pepper.jpg) 
+
+#is_/same_as :: [[../../../../../../../../_Standards/WikiData/WD~Piperales,27287|WD~Piperales,27287]] 
+
+## #has_/text_of_/abstract 
+
+> **Piperales** is an order of flowering plants (4,170 recognized species). 
+> It includes the family Piperaceae,  
+> but other taxa have been included or disincluded variously over time.  
+> 
+> Well-known plants which may be included in this order include 
+> black pepper, kava, the many Peperomias, pepper elder, lizard's tail, birthwort, and wild ginger. 
+> 
+> The two perianthless families Piperaceae and Saururaceae are mainly herbaceous plants 
+> possessing highly reduced flowers.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Piperales) 
 
 ## Phylogeny 
 
@@ -21,25 +64,6 @@ title: Piperales
 
 -   » Sub-Groups 
 
-# [[Piperales]] 
-
-![Aristolochia_clematitis](Piperales/Aristolochia_clematitis.jpg)  ![Piper_nigrum](Piperales/Piper_nigrum,Black_Pepper.jpg) 
-
-## #has_/text_of_/abstract 
-
-> **Piperales** is an order of flowering plants (4,170 recognized species). 
-> It includes the family Piperaceae,  
-> but other taxa have been included or disincluded variously over time.  
-> 
-> Well-known plants which may be included in this order include 
-> black pepper, kava, the many Peperomias, pepper elder, lizard's tail, birthwort, and wild ginger. 
-> 
-> The two perianthless families Piperaceae and Saururaceae are mainly herbaceous plants 
-> possessing highly reduced flowers.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Piperales) 
-
-
 
 ## Title Illustrations
 
@@ -51,7 +75,7 @@ Source Collection   [BioLib Online Library of Biological Books](http://www.bioli
 
 
 -------------------------------------
-![Black pepper, Piper nigrum](Piperales/Piper_nigrum,Black_Pepper.jpg)
+![Black pepper, Piper nigrum](Piperales/Piperaceae/Black_Pepper/Piper_nigrum,Black_Pepper.jpg)
 Scientific Name ::    Piper nigrum
 Comments            Black pepper, Piperaceae
 Reference           Gotthilf Heinrich von Schubert\'s Naturgeschichte des Pflanzenreichs nach dem Linné\'schen System (1887)

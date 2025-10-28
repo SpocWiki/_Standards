@@ -59,6 +59,10 @@ U_S_National_Archives_Identifier: 10644534
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_physics,2427913]]"
 ---
 
+# [[Physics]] 
+
+#is_/same_as :: [[../WikiData/WD~Physics,413|WD~Physics,413]] 
+
 ## #has_/text_of_/abstract 
 
 > **Physics** is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. Physics is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist.

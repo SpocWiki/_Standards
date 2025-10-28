@@ -1,9 +1,70 @@
 ---
 aliases:
-- Sus
-- pigs
-- pig
+  - Sus
+  - pigs
+  - pig
 title: Sus
+has_id_wikidata: Q787
+GenBank_assembly_accession_number:
+  - GCA_017957985.1
+  - GCA_020567905.1
+  - GCA_029890225.1
+Commons_category: Sus scrofa domesticus
+taxon_name: Sus scrofa domesticus
+Commons_gallery: Sus scrofa domesticus
+taxon_common_name:
+  - gochu
+  - Domestic pig
+  - tamgris
+  - domači prašič
+  - świnia domowa
+  - Hausschwein
+taxon_rank: "[[_Standards/WikiData/WD~subspecies,68947]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~omnivore,164509]]"
+  - "[[_Standards/WikiData/WD~productive_animal,1797813]]"
+  - "[[_Standards/WikiData/WD~domesticated_mammal,57814795]]"
+this_taxon_is_source_of:
+  - "[[_Standards/WikiData/WD~pork,191768]]"
+  - "[[_Standards/WikiData/WD~pork_tail,2255703]]"
+  - "[[_Standards/WikiData/WD~knuckle,10498626]]"
+  - "[[_Standards/WikiData/WD~pork_liver,18384179]]"
+  - "[[_Standards/WikiData/WD~Crackling,28650565]]"
+  - "[[_Standards/WikiData/WD~pig_nail,55758199]]"
+  - "[[_Standards/WikiData/WD~pig's_bladder,96756123]]"
+  - "[[_Standards/WikiData/WD~pig's_intestine,96756805]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~male_pig,1484022]]"
+  - "[[_Standards/WikiData/WD~female_pig,15942027]]"
+  - "[[_Standards/WikiData/WD~pig's_tail,98058768]]"
+depicted_by: "[[_Standards/WikiData/WD~Il_porcellino,131501675]]"
+earliest_date: -15000-01-01T00:00:00Z
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+longest_observed_lifespan: 27
+parent_taxon: "[[_Standards/WikiData/WD~Sus_scrofa,58697]]"
+OmegaWiki_Defined_Meaning: "5836"
+ITIS_TSN: "898917"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Sow%20with%20piglet.jpg
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-txerri.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%B8%E0%A9%82%E0%A8%B0.oga
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ka-ghori.ogg
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mudchute%20pig%201.ogg
+Iconclass_notation: 47I212
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Pigsinapen-usdavideo.ogv
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20pig%20smooth.stl
+label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Cochon%20Nm%201%201%201%20-%20Elix.webm
+model_image: http://commons.wikimedia.org/wiki/Special:FilePath/Domestic%20pig%20muscles%2001.jpg
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Pig-47824.svg
+Unicode_character:
+  - 🐖
+  - 🐷
+UNSPSC_Code: "10101511"
+MeSH_tree_code: B01.050.150.900.649.313.500.880
 ---
 
 # [[Pig]] 
@@ -11,6 +72,8 @@ title: Sus
 ## Eurasian pigs 
 
 ![ ](Pig/Sus_scrofa/Wild_Boar.jpg)
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Pig,787|WD~Pig,787]] 
 
 ## #has_/text_of_/abstract 
 

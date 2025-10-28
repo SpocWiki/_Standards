@@ -11,9 +11,12 @@ aliases:
 
 ## #has_/text_of_/abstract 
 
-> **Psyllium**, or Isabgol or ispaghula, is the common name used for several members of the plant genus Plantago 
+> **Psyllium**, or Isabgol or ispaghula, 
+> is the common name used for several members of the plant genus Plantago 
 > whose seeds are used commercially for the production of mucilage. 
-> Psyllium is mainly used as a dietary fiber to relieve symptoms of **both constipation and mild diarrhea**, 
+> 
+> Psyllium is mainly used as a dietary fiber 
+> to relieve symptoms of **both constipation and mild diarrhea**, 
 > and occasionally as a food thickener. 
 > 
 > Allergy to psyllium is common in workers frequently exposed to the substance.

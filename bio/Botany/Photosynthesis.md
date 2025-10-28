@@ -1,54 +1,62 @@
 ---
+aliases:
+  - Photosynthese
 Commons_category: Photosynthesis
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 Dewey_Decimal_Classification: 572.46
-exact_match: "http://purl.obolibrary.org/obo/GO_0015979"
-facet_of: '[[_Standards/WikiData/WD~metabolism,1057]]'
-has_characteristic: '[[_Standards/WikiData/WD~photosynthetic_efficiency,7187915]]'
+exact_match: http://purl.obolibrary.org/obo/GO_0015979
+facet_of: "[[_Standards/WikiData/WD~metabolism,1057]]"
+has_characteristic: "[[_Standards/WikiData/WD~photosynthetic_efficiency,7187915]]"
 has_id_wikidata: Q11982
 has_part_s_:
-- '[[_Standards/WikiData/WD~Calvin_cycle,220389]]'
-- '[[_Standards/WikiData/WD~light-dependent_reactions,862876]]'
-- '[[_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112]]'
-history_of_topic: '[[_Standards/WikiData/WD~Evolution_of_photosynthesis,17012783]]'
+  - "[[_Standards/WikiData/WD~Calvin_cycle,220389]]"
+  - "[[_Standards/WikiData/WD~light-dependent_reactions,862876]]"
+  - "[[_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112]]"
+history_of_topic: "[[_Standards/WikiData/WD~Evolution_of_photosynthesis,17012783]]"
 IEV_number: 845-26-078
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Leaves%20in%20iran%20%D8%A8%D8%B1%DA%AF%20%DA%AF%D9%84%D9%87%D8%A7%20%D9%88%20%DA%AF%DB%8C%D8%A7%D9%87%D8%A7%D9%86%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%2032.jpg"
-instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Leaves%20in%20iran%20%D8%A8%D8%B1%DA%AF%20%DA%AF%D9%84%D9%87%D8%A7%20%D9%88%20%DA%AF%DB%8C%D8%A7%D9%87%D8%A7%D9%86%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%2032.jpg
+instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
 Krugosvet_article: biologiya/fotosintez
 Library_of_Congress_Classification: QR88.5
 MeSH_tree_code:
-- G02.111.158.937
-- G02.111.669.700
-- G02.740.921
-- G03.191.937
-- G03.493.700
-- G03.800.700
-- G15.568
+  - G02.111.158.937
+  - G02.111.669.700
+  - G02.740.921
+  - G03.191.937
+  - G03.493.700
+  - G03.800.700
+  - G15.568
 OmegaWiki_Defined_Meaning: 2786
 operator:
-- '[[_Standards/WikiData/WD~phytoplankton,184755]]'
-- '[[_Standards/WikiData/WD~plant,756]]'
-- '[[_Standards/WikiData/WD~algae,37868]]'
+  - "[[_Standards/WikiData/WD~phytoplankton,184755]]"
+  - "[[_Standards/WikiData/WD~plant,756]]"
+  - "[[_Standards/WikiData/WD~algae,37868]]"
 product_material_or_service_produced_or_provided:
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-- '[[_Standards/WikiData/WD~glucose,37525]]'
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
+  - "[[_Standards/WikiData/WD~glucose,37525]]"
 schematic:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20en.svg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20equation.svg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20photosynthesis%20overview.svg"
-subclass_of: '[[_Standards/WikiData/WD~cell_metabolism,13416689]]'
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20en.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20equation.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20photosynthesis%20overview.svg
+subclass_of: "[[_Standards/WikiData/WD~cell_metabolism,13416689]]"
 uses:
-- '[[_Standards/WikiData/WD~sunlight,193788]]'
-- '[[_Standards/WikiData/WD~water,283]]'
-- '[[_Standards/WikiData/WD~carbon_dioxide,1997]]'
+  - "[[_Standards/WikiData/WD~sunlight,193788]]"
+  - "[[_Standards/WikiData/WD~water,283]]"
+  - "[[_Standards/WikiData/WD~carbon_dioxide,1997]]"
 ---
+
+# [[Photosynthesis]] 
+
+#is_/same_as :: [[../../WikiData/WD~Photosynthesis,11982|WD~Photosynthesis,11982]] 
 
 ## #has_/text_of_/abstract 
 
-> **Photosynthesis** ( FOH-tə-SINTH-ə-sis) is a system of biological processes by which photosynthetic organisms, such as most plants, algae, and cyanobacteria, convert light energy, typically from sunlight, into the chemical energy necessary to fuel their metabolism. 
+> **Photosynthesis** ( FOH-tə-SINTH-ə-sis) is a system of biological processes 
+> by which photosynthetic organisms, such as most plants, algae, and cyanobacteria, 
+> convert light energy, typically from sunlight, into the chemical energy necessary to fuel their metabolism. 
 >
 > Photosynthesis usually refers to oxygenic photosynthesis, a process that produces oxygen. Photosynthetic organisms store the chemical energy so produced within intracellular organic compounds (compounds containing carbon) like sugars, glycogen, cellulose and starches. To use this stored chemical energy, an organism's cells metabolize the organic compounds through cellular respiration. Photosynthesis plays a critical role in producing and maintaining the oxygen content of the Earth's atmosphere, and it supplies most of the biological energy necessary for complex life on Earth.
 >

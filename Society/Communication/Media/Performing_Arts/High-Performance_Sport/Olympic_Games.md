@@ -95,7 +95,7 @@ RIA_Novosti_reference: "1604374469"
 > Their creation was inspired by the ancient Olympic Games, held in Olympia, [[../../../../../../Earth/Continent/Europe/Europe~South/Greece|Greece]] 
 > from the 8th century BC to the 4th century AD. 
 > 
-> Baron [[Pierre_de_Coubertin]] founded the [[IOC(International Olympic Committee)]] in 1894, 
+> Baron [[Coubertin,Pierre_de]] founded the [[IOC(International Olympic Committee)]] in 1894, 
 > leading to the first modern Games in Athens in 1896. 
 > The IOC is the governing body of the Olympic Movement, 
 > which encompasses all entities and individuals involved in the Olympic Games. 

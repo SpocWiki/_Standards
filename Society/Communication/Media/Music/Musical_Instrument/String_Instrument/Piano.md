@@ -34,6 +34,10 @@ time_of_discovery_or_invention: 1700
 used_by: '[[_Standards/WikiData/WD~pianist,486748]]'
 ---
 
+# [[Piano]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Piano,5994|WD~Piano,5994]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Piano** is a keyboard instrument that produces sound when its keys are depressed, activating an action mechanism where hammers strike strings. Modern pianos have a row of 88 black and white keys, tuned to a chromatic scale in equal temperament. A musician who specializes in piano is called a pianist.
