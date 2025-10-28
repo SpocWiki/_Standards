@@ -44,6 +44,11 @@ UMLS_CUI: C0031330
 U_S_National_Archives_Identifier: 10642247
 ---
 
+# [[Pharmacology]] 
+
+#is_/different_from :: [[Medical_Business/Pharmacy|Pharmacy]] 
+#is_/same_as :: [[../../WikiData/WD~Pharmacology,128406|WD~Pharmacology,128406]] 
+
 ## #has_/text_of_/abstract 
 
 > **Pharmacology** is the science of drugs and medications, including a substance's origin, composition, pharmacokinetics, pharmacodynamics, therapeutic use, and toxicology. More specifically, it is the study of the interactions that occur between a living organism and chemicals that affect normal or abnormal biochemical function. If substances have medicinal properties, they are considered pharmaceuticals.

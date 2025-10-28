@@ -5,6 +5,10 @@ aliases:
 - Faboideae
 ---
 
+# [[Faboideae]] 
+
+#is_/same_as :: 
+
 ## #has_/text_of_/abstract 
 
 > The **Faboideae** are a subfamily of the flowering plant family Fabaceae or Leguminosae. 
