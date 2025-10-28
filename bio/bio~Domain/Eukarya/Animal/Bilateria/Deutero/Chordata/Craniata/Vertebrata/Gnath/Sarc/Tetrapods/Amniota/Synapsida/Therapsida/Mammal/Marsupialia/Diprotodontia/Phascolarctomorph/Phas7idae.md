@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Phascolarctidae
 has_id_wikidata: Q431978
 taxonomic_type: "[[_Standards/WikiData/WD~Phascolarctos,209692]]"
 parent_taxon: "[[_Standards/WikiData/WD~Phascolarctomorphia,131468339]]"
@@ -15,7 +16,7 @@ MeSH_tree_code: B01.050.150.900.649.573.590
 taxon_author_citation: Owen, 1839
 ---
 
-# [[Phascolarctidae]] 
+# [[Phas7idae]] 
 
 #is_/same_as :: [[WD~Phascolarctidae,431978]] 
 

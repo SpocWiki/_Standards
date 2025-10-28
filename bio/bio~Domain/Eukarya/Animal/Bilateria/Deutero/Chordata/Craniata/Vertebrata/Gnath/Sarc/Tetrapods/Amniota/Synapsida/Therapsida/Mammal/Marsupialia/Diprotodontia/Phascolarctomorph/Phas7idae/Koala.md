@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Phascolarctos
 has_id_wikidata: Q36101
 GenBank_assembly_accession_number:
   - GCA_003287225.2
