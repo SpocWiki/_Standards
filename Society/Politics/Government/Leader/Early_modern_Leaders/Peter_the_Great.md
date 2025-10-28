@@ -104,9 +104,14 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/23708
 topic_s_main_template: '[[_Standards/WikiData/WD~Q26145231,26145231]]'
 ---
 
+# [[Peter_the_Great]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Peter_the_Great,8479|WD~Peter_the_Great,8479]] 
+
 ## #has_/text_of_/abstract 
 
-> Peter I (Russian: Пётр I Алексеевич, romanized: Pyotr I Alekseyevich, IPA: [ˈpʲɵtr ɐlʲɪkˈsʲejɪvʲɪtɕ]; 9 June [O.S. 30 May] 1672 – 8 February [O.S. 28 January] 1725), 
+> Peter I (Russian: Пётр I Алексеевич, romanized: Pyotr I Alekseyevich, IPA: [ˈpʲɵtr ɐlʲɪkˈsʲejɪvʲɪtɕ]; 
+> 9 June [O.S. 30 May] 1672 – 8 February [O.S. 28 January] 1725), 
 > known as **Peter the Great**, was the Tsar of all Russia from 1682 
 > and the first Emperor of all Russia from 1721 until his death in 1725. 
 > He reigned jointly with his half-brother Ivan V until 1696. 
