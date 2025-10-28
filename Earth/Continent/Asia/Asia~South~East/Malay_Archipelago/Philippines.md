@@ -644,13 +644,6 @@ WIPO_ST_3: PH
 
 # [[Philippines]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Philippines 
-
-[[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/ReadMe]] 
-
-[[Philippines/Luzon/LUZON-Island.geojson|LUZON-Island]] 
-
 [	ISO4217-currency_alphabetic	 :: PHP ]
 [	ISO4217-currency_name	 :: Philippine Peso ]
 [	ISO4217-currency_numeric	 :: 608 ]
@@ -714,14 +707,19 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 [	ISO3166-1-numeric	 :: 608 ]
 
-
-
 [ISO2::PH]
 [ISO3::PHL] 
 
+#is_/same_as :: [[../../../../../WikiData/WD~Philippines,928|WD~Philippines,928]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Philippines 
+
+[[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/ReadMe]] 
+
+[[Philippines/Luzon/LUZON-Island.geojson|LUZON-Island]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Philippines
@@ -730,6 +728,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Philippines/
 markerFolder: ./Philippines/
+coordinates: [[Philippines]] 
+markerFile: [[Philippines]] 
+defaultZoom: 11 
 ```
 
 [name-en::Philippines]

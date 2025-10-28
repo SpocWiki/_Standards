@@ -18,6 +18,8 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Philosophical_logic,18
 
 # [[Philosophical_Logic]] 
 
+#is_/same_as :: [[../../WikiData/WD~Philosophical_logic,491412|WD~Philosophical_logic,491412]] 
+
 ## #has_/text_of_/abstract 
 
 > Understood in a narrow sense, **Philosophical logic** is the area of logic 
