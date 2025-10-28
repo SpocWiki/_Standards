@@ -23,6 +23,10 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_IPA,5614568]]'
 Wikidata_property: "has phoneme"
 ---
 
+# [[Phoneme]] 
+
+#is_/same_as :: [[../../WikiData/WD~Phoneme,8183|WD~Phoneme,8183]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Phoneme** () is any set of similar speech sounds that is perceptually regarded by the speakers of a language as a single basic sound—a smallest possible phonetic unit—that helps distinguish one word from another. All languages contain phonemes (or the spatial-gestural equivalent in sign languages), and all spoken languages include both consonant and vowel phonemes. Phonemes are primarily studied under the branch of linguistics known as phonology.
