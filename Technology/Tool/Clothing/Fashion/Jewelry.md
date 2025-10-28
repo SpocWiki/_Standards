@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Jewellery
 has_id_wikidata: Q161439
 subclass_of:
   - "[[_Standards/WikiData/WD~applied_arts,207241]]"

@@ -943,7 +943,11 @@ Wolfram_Language_entity_code: Entity["Country", "China"]
 
 # [[China]] 
 
+<<<<<<< HEAD
+##  [#has_/parts_](app://obsidian.md/index.html#has_/parts_)
+=======
 ## 3. [#has_/parts_](app://obsidian.md/index.html#has_/parts_)
+>>>>>>> f064afea701ca9871fbc6486c766cc74a6913529
 
 List of Constituent States with numbers as of 2021-06 
 Below is a detailed table of the 34 provincial-level divisions in China, which include 
@@ -952,41 +956,41 @@ Below is a detailed table of the 34 provincial-level divisions in China, which i
 - 4 direct-controlled municipalities, and 
 - 2 Special Administrative Regions. 
 
-| Provincial-Level Division                                                   |   Pop/M |   kkm² | GRP/TCNY | GRPpP/kCNY | HDI   | Notable Properties                                         |
-| --------------------------------------------------------------------------- | ------: | -----: | -------: | ---------: | ----- | ---------------------------------------------------------- |
-| [[Anhui]]                                                                   |  61.340 |  139.4 |    4.290 |     69.938 | 0.780 | Known for historical sites and growing industries          |
-| [[China/provinces~China/Beijing,Province]]                                                                 |  21.930 |   16.4 |    4.051 |    184.015 | 0.919 | Political center, cultural and scientific hub              |
-| [[China/provinces~China/Chongqing,Province]]                                                               |  32.050 |   82.4 |    2.592 |     80.184 | 0.814 | Major manufacturing base, significant urban-rural mix      |
-| [[Fujian]]                                                                  |  41.540 |  121.4 |    5.000 |    120.362 | 0.815 | Coastal province, growing industries and trade             |
-| [[Gansu]]                                                                   |  25.200 |  425.8 |    1.000 |     39.683 | 0.720 | Rich in mineral resources but economically less developed  |
-| [[Guangdong]]                                                               | 126.010 |  179.8 |   12.436 |     98.987 | 0.848 | Economic powerhouse, technological and manufacturing hub   |
-| [[Guangxi]] Zhuang                                                          |  50.020 |  236.7 |    2.484 |     50.508 | 0.766 | Rich cultural diversity, growing tourism sector            |
-| [[Guizhou]]                                                                 |  38.380 |  176.2 |    1.900 |     49.523 | 0.718 | Known for ethnic diversity and natural beauty              |
-| [[Hainan]]                                                                  |  10.200 |   33.9 |    0.636 |     62.352 | 0.780 | Tropical climate, rapidly developing tourism               |
+| Provincial-Level Division                                                   |   Pop/M |   kkm² | GRP/TCNY | GRPpP/kCNY | HDI   | Notable Properties                                                                        |
+| --------------------------------------------------------------------------- | ------: | -----: | -------: | ---------: | ----- | ----------------------------------------------------------------------------------------- |
+| [[Anhui]]                                                                   |  61.340 |  139.4 |    4.290 |     69.938 | 0.780 | Known for historical sites and growing industries                                         |
+| [[China/provinces~China/Beijing,Province]]                                  |  21.930 |   16.4 |    4.051 |    184.015 | 0.919 | Political center, cultural and scientific hub                                             |
+| [[China/provinces~China/Chongqing,Province]]                                |  32.050 |   82.4 |    2.592 |     80.184 | 0.814 | Major manufacturing base, significant urban-rural mix                                     |
+| [[Fujian]]                                                                  |  41.540 |  121.4 |    5.000 |    120.362 | 0.815 | Coastal province, growing industries and trade                                            |
+| [[Gansu]]                                                                   |  25.200 |  425.8 |    1.000 |     39.683 | 0.720 | Rich in mineral resources but economically less developed                                 |
+| [[Guangdong]]                                                               | 126.010 |  179.8 |   12.436 |     98.987 | 0.848 | Economic powerhouse, technological and manufacturing hub                                  |
+| [[Guangxi]] Zhuang                                                          |  50.020 |  236.7 |    2.484 |     50.508 | 0.766 | Rich cultural diversity, growing tourism sector                                           |
+| [[Guizhou]]                                                                 |  38.380 |  176.2 |    1.900 |     49.523 | 0.718 | Known for ethnic diversity and natural beauty                                             |
+| [[Hainan]]                                                                  |  10.200 |   33.9 |    0.636 |     62.352 | 0.780 | Tropical climate, rapidly developing tourism                                              |
 | [[Hebei]]                                                                   |  75.210 |  188.8 |    4.192 |     55.727 | 0.776 | Industrial base, surrounded by [[China/provinces~China/Beijing,Province]] and [[Tianjin]] |
-| [[Heilongjiang]]                                                            |  31.850 |  473.0 |    1.300 |     40.823 | 0.766 | Known for agriculture and resources                        |
-| [[Henan]]                                                                   |  99.280 |  167.0 |    6.000 |     60.429 | 0.774 | Historically significant, large population center          |
-| [[Hubei]]                                                                   |  58.900 |  185.9 |    5.000 |     85.000 | 0.796 | Key economic and transport hub                             |
-| [[Hunan]]                                                                   |  66.440 |  211.8 |    4.500 |     67.746 | 0.778 | Known for agriculture, rapidly developing industries       |
-| [[Inner_Mongol\|Inner Mongolia]]                                            |  24.050 | 1183.0 |    2.000 |     83.106 | 0.812 | Rich in natural resources, vast grasslands                 |
-| [[Jiangsu]]                                                                 |  84.750 |  102.6 |   10.270 |    120.994 | 0.822 | Leading in manufacturing and technology                    |
-| [[Jiangxi]]                                                                 |  45.200 |  167.0 |    2.800 |     60.533 | 0.772 | Rich natural beauty, traditionally agricultural            |
-| [[Jilin]]                                                                   |  23.510 |  187.4 |    1.200 |     57.566 | 0.764 | Known for automotive industry and agriculture              |
-| [[Liaoning]]                                                                |  42.640 |  145.7 |    2.800 |     65.615 | 0.790 | Industrial base, significant urban populations             |
-| [[Ningxia_Hui\|Ningxia Hui]]                                                |   7.240 |   66.4 |    0.427 |     58.951 | 0.775 | Known for energy resources, arid climate                   |
-| [[Qinghai]]                                                                 |   5.990 |  720.0 |    0.300 |     50.083 | 0.743 | Sparse population, rich in mineral resources               |
-| [[Shaanxi]]                                                                 |  39.530 |  205.6 |    3.245 |     82.121 | 0.790 | Historically rich, rapid economic development              |
-| [[Shandong]]                                                                | 101.530 |  157.1 |    8.946 |     88.146 | 0.812 | Industrial and agricultural strength                       |
-| [[Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai\|Shanghai]] |  24.870 |    6.3 |    4.320 |    173.872 | 0.932 | Financial center, major economic dynamo                    |
-| [[Shanxi]]                                                                  |  34.860 |  156.7 |    2.020 |     57.951 | 0.764 | Rich in coal, strong industrial base                       |
-| [[Sichuan]]                                                                 |  84.300 |  485.0 |    5.385 |     64.232 | 0.790 | Agricultural powerhouse, growing manufacturing sector      |
-| [[Tianjin]]                                                                 |  13.960 |   11.7 |    1.562 |    112.535 | 0.890 | Major port city, rapid economic growth                     |
-| [[Tibet]] (Xizang)                                                          |   3.650 | 1228.4 |    0.200 |     56.164 | 0.586 | Rich cultural heritage, located on the Tibetan Plateau     |
-| [[Xinjiang_Uygur\|Xinjiang Uyghur]]                                         |  25.950 | 1664.9 |    1.485 |     58.134 | 0.668 | Diverse ethnic cultures, significant energy resources      |
-| [[Yunnan]]                                                                  |  48.300 |  394.0 |    2.600 |     56.254 | 0.748 | Known for biodiversity and ethnic diversity                |
-| [[Zhejiang]]                                                                |  64.760 |  105.5 |    7.350 |    113.444 | 0.824 | Rapidly growing economy, significant industrial base       |
-| [[China/provinces~China/Guangdong/Hong_Kong\|Hong Kong]]                                                    |   7.480 |    1.1 |    2.870 |    383.418 | 0.949 | Major financial hub, autonomous economic region            |
-| [[Earth/Continent/Asia/Asia~East/China/Macau\|Macau]]                       |    .680 |     .1 |    0.366 |    537.629 | 0.922 | Renowned for gaming and tourism, high per capita income    |
+| [[Heilongjiang]]                                                            |  31.850 |  473.0 |    1.300 |     40.823 | 0.766 | Known for agriculture and resources                                                       |
+| [[Henan]]                                                                   |  99.280 |  167.0 |    6.000 |     60.429 | 0.774 | Historically significant, large population center                                         |
+| [[Hubei]]                                                                   |  58.900 |  185.9 |    5.000 |     85.000 | 0.796 | Key economic and transport hub                                                            |
+| [[Hunan]]                                                                   |  66.440 |  211.8 |    4.500 |     67.746 | 0.778 | Known for agriculture, rapidly developing industries                                      |
+| [[Inner_Mongol\|Inner Mongolia]]                                            |  24.050 | 1183.0 |    2.000 |     83.106 | 0.812 | Rich in natural resources, vast grasslands                                                |
+| [[Jiangsu]]                                                                 |  84.750 |  102.6 |   10.270 |    120.994 | 0.822 | Leading in manufacturing and technology                                                   |
+| [[Jiangxi]]                                                                 |  45.200 |  167.0 |    2.800 |     60.533 | 0.772 | Rich natural beauty, traditionally agricultural                                           |
+| [[Jilin]]                                                                   |  23.510 |  187.4 |    1.200 |     57.566 | 0.764 | Known for automotive industry and agriculture                                             |
+| [[Liaoning]]                                                                |  42.640 |  145.7 |    2.800 |     65.615 | 0.790 | Industrial base, significant urban populations                                            |
+| [[Ningxia_Hui\|Ningxia Hui]]                                                |   7.240 |   66.4 |    0.427 |     58.951 | 0.775 | Known for energy resources, arid climate                                                  |
+| [[Qinghai]]                                                                 |   5.990 |  720.0 |    0.300 |     50.083 | 0.743 | Sparse population, rich in mineral resources                                              |
+| [[Shaanxi]]                                                                 |  39.530 |  205.6 |    3.245 |     82.121 | 0.790 | Historically rich, rapid economic development                                             |
+| [[Shandong]]                                                                | 101.530 |  157.1 |    8.946 |     88.146 | 0.812 | Industrial and agricultural strength                                                      |
+| [[Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai\|Shanghai]] |  24.870 |    6.3 |    4.320 |    173.872 | 0.932 | Financial center, major economic dynamo                                                   |
+| [[Shanxi]]                                                                  |  34.860 |  156.7 |    2.020 |     57.951 | 0.764 | Rich in coal, strong industrial base                                                      |
+| [[Sichuan]]                                                                 |  84.300 |  485.0 |    5.385 |     64.232 | 0.790 | Agricultural powerhouse, growing manufacturing sector                                     |
+| [[Tianjin]]                                                                 |  13.960 |   11.7 |    1.562 |    112.535 | 0.890 | Major port city, rapid economic growth                                                    |
+| [[Tibet]] (Xizang)                                                          |   3.650 | 1228.4 |    0.200 |     56.164 | 0.586 | Rich cultural heritage, located on the Tibetan Plateau                                    |
+| [[Xinjiang_Uygur\|Xinjiang Uyghur]]                                         |  25.950 | 1664.9 |    1.485 |     58.134 | 0.668 | Diverse ethnic cultures, significant energy resources                                     |
+| [[Yunnan]]                                                                  |  48.300 |  394.0 |    2.600 |     56.254 | 0.748 | Known for biodiversity and ethnic diversity                                               |
+| [[Zhejiang]]                                                                |  64.760 |  105.5 |    7.350 |    113.444 | 0.824 | Rapidly growing economy, significant industrial base                                      |
+| [[China/provinces~China/Guangdong/Hong_Kong\|Hong Kong]]                    |   7.480 |    1.1 |    2.870 |    383.418 | 0.949 | Major financial hub, autonomous economic region                                           |
+| [[Earth/Continent/Asia/Asia~East/China/Macau\|Macau]]                       |    .680 |     .1 |    0.366 |    537.629 | 0.922 | Renowned for gaming and tourism, high per capita income                                   |
 
 
 [	ISO4217-currency_alphabetic	 :: CNY ]
@@ -1055,7 +1059,22 @@ Sub-region_Name ::  [[Eastern Asia]]
 [ISO2::CN]
 [ISO3::CHN] 
 
+<<<<<<< HEAD
+#is_/same_as :: [[_Standards/WikiData/WD~China,148]]  
+
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-China)
+into a Subfolder named `China`, so that this Link into the Sub-Repository works: [[China/ReadMe]] 
+
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-China 
+
+> [!warning] This can considerably increase the total size and depth of your wiki!
+
+
+## #has_/map  
+=======
 #is_/same_as :: [[../../../../WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]   
+>>>>>>> f064afea701ca9871fbc6486c766cc74a6913529
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-China)
@@ -1098,10 +1117,9 @@ Capital :: [[China/provinces~China/Beijing,Province/counties~Beijing/Beijing,Cou
 [has_place_latitude::35.6637]
 
 
-## Space-Travel  
+## Chinese_Space-Travel  
 
 [[Qian,Xuesen]] is the "Father of Chinese Space-Travel". 
-
 
 ## #has_/text_of_/abstract 
 

@@ -326,11 +326,6 @@ icon: flag-jo
 
 # [[Jordan]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Jordan 
-
-[[Jordan/ReadMe]] 
-
 [	ISO4217-currency_alphabetic	 :: JOD ]
 [	ISO4217-currency_name	 :: Jordanian Dinar ]
 [	ISO4217-currency_numeric	 :: 400 ]
@@ -399,9 +394,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Jordan,810|WD~Jordan,810]] 
 
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Jordan 
+
+[[Jordan/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Jordan

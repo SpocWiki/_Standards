@@ -22,7 +22,9 @@ Neornithes includes all extant birds. 
 > to the 2.8 m (9 ft 2 in) common ostrich. 
 > 
 > There are over 11,000 living species and they are split into 44 orders. 
-> More than half are passerine or "perching" birds. Birds have wings whose development varies according to species; the only known groups without wings are the extinct moa and elephant birds. Wings, which are modified forelimbs, gave birds the ability to fly, although further evolution has led to the loss of flight in some birds, including ratites, penguins, and diverse endemic island species. The digestive and respiratory systems of birds are also uniquely adapted for flight. Some bird species of aquatic environments, particularly seabirds and some waterbirds, have further evolved for swimming. The study of birds is called ornithology.
+> More than half are passerine or "perching" birds. 
+> 
+> Birds have wings whose development varies according to species; the only known groups without wings are the extinct moa and elephant birds. Wings, which are modified forelimbs, gave birds the ability to fly, although further evolution has led to the loss of flight in some birds, including ratites, penguins, and diverse endemic island species. The digestive and respiratory systems of birds are also uniquely adapted for flight. Some bird species of aquatic environments, particularly seabirds and some waterbirds, have further evolved for swimming. The study of birds is called ornithology.
 >
 > Birds are feathered theropod dinosaurs and constitute the only known living dinosaurs. Likewise, birds are considered reptiles in the modern cladistic sense of the term, and their closest living relatives are the crocodilians. Birds are descendants of the primitive avialans (whose members include Archaeopteryx) which first appeared during the Late Jurassic. According to some estimates, modern birds (**Neornithes**) evolved in the Late Cretaceous or between the Early and Late Cretaceous (100 Ma) and diversified dramatically around the time of the Cretaceous–Paleogene extinction event 66 million years ago, which killed off the pterosaurs and all non-ornithuran dinosaurs.
 >

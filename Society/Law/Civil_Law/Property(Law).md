@@ -1,8 +1,9 @@
 
 # [[Property(Law)]] 
 
-#is_/same_as :: [[Property,]]
+#is_/alternative_to :: [[Steward-Ownership]]  
 #is_/different_from :: [[Possession(Law)]] 
+#is_/same_as :: [[Property,]]
 
 ## #has_/text_of_/abstract 
 

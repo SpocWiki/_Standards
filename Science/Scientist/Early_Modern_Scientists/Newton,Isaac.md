@@ -172,6 +172,7 @@ Europeana_entity: agent/base/146840
 
 # [[Newton,Isaac]] 
 
+#has_/created :: [[Newton,Isaac/Philosophiæ_Naturalis_Principia_Mathematica|Philosophiæ_Naturalis_Principia_Mathematica]] 
 #is_/same_as :: [[../../../WikiData/WD~Isaac_Newton,935|WD~Isaac_Newton,935]] 
 
 ## #has_/text_of_/abstract  

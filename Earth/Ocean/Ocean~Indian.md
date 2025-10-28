@@ -282,11 +282,13 @@ id: Ocean~Indian
 minZoom: 2 
 defaultZoom: 3
 maxZoom: 18
+zoomFeatures: true
+coordinates: [[Ocean~Indian]] 
+markerFile: [[Ocean~Indian]] 
 geojsonFolder: ./Ocean~Indian/
 markerFolder: ./Ocean~Indian/
 long: 60
 lat: -10
-
 ```
 
 

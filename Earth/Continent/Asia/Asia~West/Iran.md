@@ -542,7 +542,7 @@ For more Details, check out this Repository into this Subfolder:
 [[Iran/ReadMe]] 
 
 [	ISO4217-currency_alphabetic	 :: IRR ]
-[	ISO4217-currency_name	 :: Iranian Rial ]
+[	ISO4217-currency_name	 :: Iranian Rial ] 
 [	ISO4217-currency_numeric	 :: 364 ]
 [	ISO4217-currency_minor_unit	 :: 2 ]
 [	ISO4217-currency_country_name	 :: IRAN (ISLAMIC REPUBLIC OF) ]
