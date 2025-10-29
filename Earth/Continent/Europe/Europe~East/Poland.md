@@ -544,6 +544,8 @@ Krugosvet_article: strany_mira/POLSHA.html
 [ISO2::PL]
 [ISO3::POL] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Poland,36|WD~Poland,36]]  
+
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Poland)
 into a Subfolder named `Poland`, so that this Link into the Sub-Repository works: [[Poland/ReadMe]] 

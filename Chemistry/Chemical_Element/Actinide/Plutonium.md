@@ -53,13 +53,11 @@ Unicode_character: 鈽
 UNII: 53023GN24M
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Plutonium,1102]] 
-
+# [[Plutonium]] 
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide]]
-
+Group :: [[../Actinide]]
 
 [Name-en::Plutonium]
 [Name-de::Plutonium]
@@ -79,9 +77,9 @@ UNII: 53023GN24M
 [FormEnergy-kj-mol::344]
 (PeriodNo::7)
 (GroupNo::28)
-[]
 (Charge-e::94)
 
+#is_/same_as :: [[../../../WikiData/WD~Plutonium,1102]] 
 
 
 ## #has_/text_of_/abstract 

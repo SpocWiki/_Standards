@@ -155,6 +155,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/BOL.html
 
 # [[Pain]] 
 
+#is_/opposite_of :: [[Pleasure]]  
 #is_/same_as :: [[WD~Pain,81938]] 
 
 ## #has_/text_of_/abstract 
