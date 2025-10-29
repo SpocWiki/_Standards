@@ -1,13 +1,95 @@
 ---
 aliases:
-- Plants
-- Plant
-- "Green plant"
-- "Green plants"
-- "land plants"
-- Plantae
+  - Plants
+  - Plant
+  - Green plant
+  - Green plants
+  - land plants
+  - Plantae
 has_id_wikidata: Q756
-title: "Green plants"
+title: Green plants
+montage_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Diversity%20of%20plants%20%28Streptophyta%29%20version%202.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Plantae%20Diversity.jpg
+earliest_date:
+  - -460000000-01-01T00:00:00Z
+  - -1200000000-01-01T00:00:00Z
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33578%20%28ibo%29-Deventus-Osisi.wav
+equivalent_class: http://dbpedia.org/ontology/Plant
+AlgaeBase_URL: https://www.algaebase.org/browse/taxonomy/detail/?taxonid=1
+EPPO_Code:
+  - 1PLAK
+  - 2PLAN
+Provenio_UUID: 7e406d92-f623-4ce4-9f33-eca570080e21
+MeSH_tree_code: B01.650
+IPTC_NewsCode: mediatopic/20000507
+Commons_category: Plantae
+taxon_name: Plantae
+Baidu_Tieba_name: 植物
+taxon_common_name:
+  - အပင်များ
+  - planteriket
+  - 植物界
+  - plantes
+  - planter
+uses:
+  - "[[_Standards/WikiData/WD~fertilizer,83323]]"
+  - "[[_Standards/WikiData/WD~carbon_dioxide_in_the_atmosphere_of_Earth,4468919]]"
+  - "[[_Standards/WikiData/WD~photosynthesis,11982]]"
+  - "[[_Standards/WikiData/WD~soil,36133]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~plant_stem,134267]]"
+  - "[[_Standards/WikiData/WD~germ_layer,660498]]"
+  - "[[_Standards/WikiData/WD~true_leaf,5935823]]"
+  - "[[_Standards/WikiData/WD~root,41500]]"
+mode_of_reproduction:
+  - "[[_Standards/WikiData/WD~asexual_reproduction,173432]]"
+  - "[[_Standards/WikiData/WD~sexual_reproduction,182353]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Nomenclature_for_algae,_fungi,_and_plants,693148]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~plant_taxonomy,1138178]]"
+  - "[[_Standards/WikiData/WD~plant_life_form,2355817]]"
+this_taxon_is_source_of:
+  - "[[_Standards/WikiData/WD~plant_milk,2640574]]"
+  - "[[_Standards/WikiData/WD~vegetable_fat,11870297]]"
+  - "[[_Standards/WikiData/WD~plant_fiber,20026824]]"
+  - "[[_Standards/WikiData/WD~plant_material,28969364]]"
+  - "[[_Standards/WikiData/WD~plant_proteins,74708517]]"
+  - "[[_Standards/WikiData/WD~plant_based_food,107122728]]"
+  - "[[_Standards/WikiData/WD~plant_product,107122793]]"
+studied_by:
+  - "[[_Standards/WikiData/WD~plant_genetics,7201518]]"
+  - "[[_Standards/WikiData/WD~botany,441]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Q7482966,7482966]]"
+  - "[[_Standards/WikiData/WD~Template_Taxonomy_Plantae,13217916]]"
+  - "[[_Standards/WikiData/WD~Q26076388,26076388]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q124038881,124038881]]"
+subclass_of: "[[_Standards/WikiData/WD~organism,7239]]"
+properties_for_this_type: mode of reproduction
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~kingdom,36732]]"
+Dewey_Decimal_Classification:
+  - "580"
+  - "581"
+ITIS_TSN: "202422"
+OpenStreetMap_key: plant
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Thanh%20Long%20%E1%BB%9F%20Ninh%20Thu%E1%BA%ADn.jpg
+U_S_National_Archives_Identifier: "10641997"
+Commons_gallery: Plant
+Wolfram_Language_entity_type: Plant
+Iconclass_notation: 25G1
 ---
 
 # [[Plant]] 
@@ -15,7 +97,8 @@ title: "Green plants"
 #is_a/bio-Kingdom 
 #is_a :: [[../../Taxon_Rank/bio~Kingdom|bio~Kingdom]]  
 
-#is_/subject_of ::  [[../../Botany|Botany]]
+#is_/subject_of ::  [[../../Botany|Botany]] 
+#is_/same_as :: [[../../../WikiData/WD~Plant,756|WD~Plant,756]] 
 
 ![Chlamydomonas](Plant/chlamydomonas.gif)  ![Spirogyra](Plant/spirogyra.gif)  ![Coleochaete](Plant/coleochaete.gif)  ![Hepatica](Plant/hepatican_arrow.gif) 
 

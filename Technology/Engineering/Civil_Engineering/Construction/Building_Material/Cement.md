@@ -29,7 +29,7 @@ P8189: "987007284980005171"
 
 # [[Cement]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Cement,45190|WD~Cement,45190]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Cement,45190|WD~Cement,45190]] 
 
 ## #has_/text_of_/abstract 
 

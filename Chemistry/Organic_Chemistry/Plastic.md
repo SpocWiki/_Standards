@@ -1,36 +1,43 @@
 ---
+aliases:
+  - Plastik
+  - Kunststoff
+has_id_wikidata: Q11474
 All_Science_Journal_Classification_Codes: 2507
 Baidu_Tieba_name: 塑料
 Colon_Classification: F52
 Commons_category: Plastics
-described_by_source: '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+described_by_source: "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
 Dewey_Decimal_Classification:
-- 668.4
-- 620.1923
-- 668.9
-different_from: '[[_Standards/WikiData/WD~synthetic_resin,1418040]]'
-has_id_wikidata: Q11474
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Plastic%20objects.jpg"
-instance_of: '[[_Standards/WikiData/WD~organic_matter,1783121]]'
+  - 668.4
+  - 620.1923
+  - 668.9
+different_from: "[[_Standards/WikiData/WD~synthetic_resin,1418040]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Plastic%20objects.jpg
+instance_of: "[[_Standards/WikiData/WD~organic_matter,1783121]]"
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PLASTMASSI.html
 made_from_material:
-- '[[_Standards/WikiData/WD~polymer,81163]]'
-- '[[_Standards/WikiData/WD~fossil_fuel,12748]]'
+  - "[[_Standards/WikiData/WD~polymer,81163]]"
+  - "[[_Standards/WikiData/WD~fossil_fuel,12748]]"
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]'
-- '[[_Standards/WikiData/WD~WikiProject_Chemistry,8487234]]'
-- '[[_Standards/WikiData/WD~WikiProject_Polymers,15885036]]'
-- '[[_Standards/WikiData/WD~WikiProject_Materials,88425338]]'
+  - "[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Chemistry,8487234]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Polymers,15885036]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Materials,88425338]]"
 MeSH_tree_code:
-- D05.750.716
-- D25.720.716
-- J01.637.051.720.716
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Plastic-ar.ogg"
-subclass_of: '[[_Standards/WikiData/WD~material,214609]]'
+  - D05.750.716
+  - D25.720.716
+  - J01.637.051.720.716
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Plastic-ar.ogg
+subclass_of: "[[_Standards/WikiData/WD~material,214609]]"
 subreddit: plastic
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Plastics,9001872]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Plastics,9001872]]"
 UMLS_CUI: C0032167
 ---
+
+# [[Plastic]] 
+
+#is_/same_as :: [[../../WikiData/WD~Plastic,11474|WD~Plastic,11474]] 
 
 ## #has_/text_of_/abstract 
 

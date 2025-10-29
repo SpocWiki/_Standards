@@ -27,11 +27,20 @@ subclass_of:
 Wolfram_Language_entity_code: "Entity[\"PhysicalEffect\", \"Plasma\"]"
 ---
 
+# [[Plasma]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Plasma,10251|WD~Plasma,10251]]
+
 ## #has_/text_of_/abstract 
 
 > Plasma (from Ancient Greek  πλάσμα (plásma) 'moldable substance') 
 > is one of four fundamental states of matter (the other three being solid, liquid, and gas) 
-> characterized by the presence of a significant portion of charged particles in any combination of ions or electrons. It is the most abundant form of ordinary matter in the universe, mostly in stars (including the Sun), but also dominating the rarefied intracluster medium and intergalactic medium.
+> characterized by the presence of a significant portion of charged particles 
+> in any combination of ions or electrons. 
+> 
+> It is the most abundant form of ordinary matter in the universe, 
+> mostly in stars (including the Sun), 
+> but also dominating the rarefied intracluster medium and intergalactic medium.
 >
 > Plasma can be artificially generated, for example, by heating a neutral gas or subjecting it to a strong electromagnetic field.
 >

@@ -6,7 +6,7 @@ has_id_wikidata: Q22657
 
 # [[Concrete]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Concrete,22657|WD~Concrete,22657]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Concrete,22657|WD~Concrete,22657]] 
 
 ## #has_/text_of_/abstract 
 
