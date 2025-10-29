@@ -33,7 +33,7 @@ Commons_category: Spoons
 
 # [[Spoon]]
 
-#is_/same_as :: [[../../../../../WikiData/WD~Spoon,81895|WD~Spoon,81895]]
+#is_/same_as :: [[../../../../../../WikiData/WD~Spoon,81895|WD~Spoon,81895]]
 
 
 ## #has_/text_of_/abstract 

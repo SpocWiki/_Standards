@@ -2,7 +2,7 @@
 aliases:
   - silverware
   - flatware
-  - tableware
+  - Besteck
 has_id_wikidata: Q81944
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -43,7 +43,7 @@ Wolfram_Language_entity_code:
 
 # [[Cutlery]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Cutlery,81944|WD~Cutlery,81944]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Cutlery,81944|WD~Cutlery,81944]] 
 
 ## #has_/text_of_/abstract 
 

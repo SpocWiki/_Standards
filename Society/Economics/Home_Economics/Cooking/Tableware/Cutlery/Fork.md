@@ -1,7 +1,7 @@
 
 # [[Fork]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Fork,81881|WD~Fork,81881]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Fork,81881|WD~Fork,81881]] 
 
 ## #has_/text_of_/abstract 
 
