@@ -1,11 +1,36 @@
 ---
 aliases:
 has_id_wikidata: Q468999
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Planck_time,202642]]"
+  - "[[_Standards/WikiData/WD~Planck_length,207387]]"
+  - "[[_Standards/WikiData/WD~Planck_momentum,239830]]"
+  - "[[_Standards/WikiData/WD~Planck_charge,249439]]"
+  - "[[_Standards/WikiData/WD~Planck_density,536785]]"
+  - "[[_Standards/WikiData/WD~Planck_mass,592634]]"
+  - "[[_Standards/WikiData/WD~Planck_pressure,685662]]"
+  - "[[_Standards/WikiData/WD~Planck_temperature,720055]]"
+  - "[[_Standards/WikiData/WD~Planck_energy,913365]]"
+  - "[[_Standards/WikiData/WD~Planck_power,914151]]"
+  - "[[_Standards/WikiData/WD~Planck_force,915169]]"
+  - "[[_Standards/WikiData/WD~Planck_angular_frequency,1196837]]"
+  - "[[_Standards/WikiData/WD~Planck_current,1196846]]"
+  - "[[_Standards/WikiData/WD~Planck_impedance,1323237]]"
+  - "[[_Standards/WikiData/WD~Planck_voltage,1377741]]"
+  - "[[_Standards/WikiData/WD~Planck_area,14158377]]"
+  - "[[_Standards/WikiData/WD~Planck_volume,17255465]]"
+  - "[[_Standards/WikiData/WD~Planck_acceleration,28003216]]"
+  - "[[_Standards/WikiData/WD~Planck_current_density,30080109]]"
+  - "[[_Standards/WikiData/WD~Planck_flow_rate,56317622]]"
+instance_of: "[[_Standards/WikiData/WD~system_of_units,932268]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Planck's_natural_units,6427850]]"
+named_after: "[[_Standards/WikiData/WD~Max_Planck,9021]]"
+subclass_of: "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
 ---
 
 # [[Planck_Units]] 
 
-#is_/same_as :: [[WD~Planck_units,468999]] 
+#is_/same_as :: [[../../WikiData/WD~Planck_units,468999|WD~Planck_units,468999]]  
 
 ## #has_/text_of_/abstract 
 
