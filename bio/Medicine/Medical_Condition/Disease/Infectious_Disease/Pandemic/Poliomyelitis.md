@@ -90,6 +90,10 @@ UMLS_CUI: C0032371
 U_S_National_Archives_Identifier: 10644486
 ---
 
+# [[Poliomyelitis]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Poliomyelitis,12195|WD~Poliomyelitis,12195]]  
+
 ## #has_/text_of_/abstract 
 
 > **Poliomyelitis** ( POH-lee-oh-MY-ə-LY-tiss), commonly shortened to polio, is an infectious disease caused by the poliovirus. Approximately 75% of cases are asymptomatic; mild symptoms which can occur include sore throat and fever; in a proportion of cases more severe symptoms develop such as headache, neck stiffness, and paresthesia. These symptoms usually pass within one or two weeks. A less common symptom is permanent paralysis, and possible death in extreme cases. Years after recovery, post-polio syndrome may occur, with a slow development of muscle weakness similar to what the person had during the initial infection.

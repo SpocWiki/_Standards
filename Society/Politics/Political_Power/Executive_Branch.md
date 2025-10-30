@@ -30,3 +30,30 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundeskanzleramt%2C%20
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Executive%20(government)) 
 
+## Ministers
+
+In parliamentary systems, the executive is responsible to the elected legislature, 
+which must maintain the confidence of the legislature or one part of it, if bicameral. 
+
+In certain circumstances (varying by state), 
+the legislature can express its lack of confidence in the executive, 
+which causes either a change in the governing party or group of parties or a general election. 
+
+Parliamentary systems have a head of government (who leads the executive, often called ministers) 
+normally distinct from the head of state (who continues through governmental and electoral changes). 
+
+the top leadership roles of the executive branch may include:
+- head of state – often the monarch, the president or the supreme leader, 
+  the chief representative and living symbol of national unity.
+	- head of government – often the prime minister, 
+	  overseeing the administration of all affairs of state.
+		- defence minister – overseeing the armed forces, determining [[../../Military|military]] policy, 
+		  and managing external safety.
+		- interior minister – overseeing the [[Executive_Branch/Police|police]] forces, enforcing the law, 
+		  and managing internal control.
+		- foreign minister – overseeing the diplomatic service, determining foreign policy 
+		  and managing foreign relations.
+		- finance minister – overseeing the treasury, determining fiscal policy 
+		  and managing national budget.
+		- justice minister – overseeing criminal prosecutions, corrections, 
+		  enforcement of court orders.
