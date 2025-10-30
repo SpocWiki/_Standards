@@ -59,7 +59,6 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Platinum\"]"
 ---
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Platinum,880]] 
 
 [GroupName::Group-10-Nickel]
 [Group:[[../Group-10-Nickel]]
@@ -82,6 +81,8 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Platinum\"]"
 [FormEnergy-kj-mol::510]
 (PeriodNo::6)
 (GroupNo::10)
+
+#is_/same_as :: [[../../../WikiData/WD~Platinum,880]] 
 
 
 ## #has_/text_of_/abstract 

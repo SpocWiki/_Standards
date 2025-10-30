@@ -184,6 +184,8 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Plato_navbox,22900075]
 writing_language: '[[_Standards/WikiData/WD~Attic_Greek,506588]]'
 ---
 
+# [[Plato]] 
+
 #has_/time_/started :: -427-06-01 
 #has_/time_/stopped :: -348-06-01 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
@@ -209,8 +211,7 @@ Hierarchical Idea-Theory with the "Good" as 'highest' Idea.
 | Behavior             | Directs and governs              | Obedient and noble      | Rebellious and excessive     |
 | Goal                 | Ascend to truth                  | Supports ascent         | Obstructs ascent             |
 
-
-
+#is_/same_as :: [[../../../WikiData/WD~Plato,859|WD~Plato,859]] 
 
 ## #has_/text_of_/abstract 
 

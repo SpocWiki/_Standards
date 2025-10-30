@@ -26,12 +26,13 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Theodor%20Hei
 
 # [[Plutocracy]] 
 
-#is_/same_as :: [[../../../../../../_Standards/WikiData/WD~Plutocracy,131708|WD~Plutocracy,131708]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Plutocracy,131708|WD~Plutocracy,131708]]  
 
 ## #has_/text_of_/abstract 
 
 > A **Plutocracy** (from Ancient Greek  πλοῦτος (ploûtos) 'wealth' and  κράτος (krátos) 'power') 
 > or plutarchy is a society that is ruled or controlled by people of great wealth or income. 
+> 
 > The first known use of the term in English dates from 1631.  
 > Unlike most political systems, plutocracy is not rooted in any established political philosophy.
 >
