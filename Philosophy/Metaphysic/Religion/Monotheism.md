@@ -31,6 +31,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MONOTEIZM.html
 
 # [[Monotheism]] 
 
+#is_/opposite_of :: [[Polytheism]] 
 #is_/same_as :: [[WD~Monotheism,9159]] 
 
 ## #has_/text_of_/abstract 
