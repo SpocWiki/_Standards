@@ -41,7 +41,7 @@ OpenStreetMap_tag_or_key: Tag:resource=clay
 
 # [[Clay]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Clay,42302|WD~Clay,42302]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Clay,42302|WD~Clay,42302]] 
 
 ## #has_/text_of_/abstract 
 

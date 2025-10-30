@@ -27,7 +27,7 @@ Commons_category: Mortar (masonry)
 
 # [[Mortar(Masonry)]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Mortar,189566|WD~Mortar,189566]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Mortar,189566|WD~Mortar,189566]] 
 
 ## #has_/text_of_/abstract 
 
