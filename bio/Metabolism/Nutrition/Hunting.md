@@ -1,6 +1,63 @@
 ---
 aliases:
 has_id_wikidata: Q36963
+hashtag: hunting
+MeSH_tree_code:
+  - I03.400
+  - I03.450.642.637
+IPTC_NewsCode: mediatopic/20000562
+patron_saint:
+  - "[[_Standards/WikiData/WD~Giles,149727]]"
+  - "[[_Standards/WikiData/WD~Hubertus,159834]]"
+  - "[[_Standards/WikiData/WD~Saint_Eustace,218921]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~collecting,208165]]"
+  - "[[_Standards/WikiData/WD~attack,1174599]]"
+  - "[[_Standards/WikiData/WD~butchering,10682505]]"
+  - "[[_Standards/WikiData/WD~seeking,96754350]]"
+followed_by:
+  - "[[_Standards/WikiData/WD~eating,213449]]"
+  - "[[_Standards/WikiData/WD~animal_slaughter,4282505]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+uses: "[[_Standards/WikiData/WD~hunting_weapon,1678432]]"
+practiced_by: "[[_Standards/WikiData/WD~hunter,1714828]]"
+subclass_of: "[[_Standards/WikiData/WD~activity,1914636]]"
+instance_of: "[[_Standards/WikiData/WD~activity,1914636]]"
+different_from:
+  - "[[_Standards/WikiData/WD~pest_control,2306047]]"
+  - "[[_Standards/WikiData/WD~poaching,34577]]"
+studied_by:
+  - "[[_Standards/WikiData/WD~huntsmanship,4181964]]"
+  - "[[_Standards/WikiData/WD~forestry_science,19924411]]"
+part_of: "[[_Standards/WikiData/WD~primitive_tribal_community,13165863]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Hunting,19362171]]"
+depicted_by: "[[_Standards/WikiData/WD~Fireplace_with_hunting_scenes,131766189]]"
+start_time:
+  - -1800000-01-01T00:00:00Z
+  - -200000-01-01T00:00:00Z
+OmegaWiki_Defined_Meaning: "1811"
+Dewey_Decimal_Classification:
+  - "639"
+  - "799"
+social_media_followers: 203245
+Commons_category: Hunting
+subreddit: Hunting
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Childerley%20driven%20hunt%20Finland%2006.png
+U_S_National_Archives_Identifier: "10636730"
+Colon_Classification: MY6
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Beauty%20of%20the%20Hunt%20icon.jpg
 ---
 
 # [[Hunting]] 

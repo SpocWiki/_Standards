@@ -7,7 +7,7 @@ has_id_wikidata: Q172948
 
 # [[Bohr_Model]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Bohr_model,172948|WD~Bohr_model,172948]] 
+#is_/same_as :: [[../../../../WikiData/WD~Bohr_model,172948|WD~Bohr_model,172948]] 
 
 ## #has_/text_of_/abstract 
 

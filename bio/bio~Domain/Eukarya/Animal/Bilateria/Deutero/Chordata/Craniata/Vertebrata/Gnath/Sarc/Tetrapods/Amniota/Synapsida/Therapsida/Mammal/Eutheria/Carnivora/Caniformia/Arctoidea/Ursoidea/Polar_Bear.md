@@ -4,12 +4,94 @@ aliases:
   - Ursus maritimus
   - polar bear
 has_id_wikidata: Q33609
+UMLS_CUI: C0325023
+subreddit: polarbears
+EPPO_Code: URSUMA
+Commons_category: Ursus maritimus
+taxon_name: Ursus maritimus
+Commons_gallery: Ursus maritimus
+taxon_common_name:
+  - osu polar
+  - Oso Polar
+  - jääkarhu
+  - Äisbier
+  - Polarbier
+  - niedźwiedź biały
+  - niedźwiedź polarny
+  - polar bear
+  - Eisbär
+  - isbjørn
+  - Ours blanc
+  - ホッキョクグマ
+  - Ours polaire
+has_characteristic:
+  - "[[_Standards/WikiData/WD~carnivore,81875]]"
+  - "[[_Standards/WikiData/WD~viviparity,120446]]"
+main_food_source:
+  - "[[_Standards/WikiData/WD~egg_as_food,93189]]"
+  - "[[_Standards/WikiData/WD~Bearded_Seal,149405]]"
+  - "[[_Standards/WikiData/WD~narwhal,159426]]"
+  - "[[_Standards/WikiData/WD~Empetrum_nigrum,202305]]"
+  - "[[_Standards/WikiData/WD~carrion,202994]]"
+  - "[[_Standards/WikiData/WD~Ringed_Seal,203208]]"
+  - "[[_Standards/WikiData/WD~lemming,234150]]"
+  - "[[_Standards/WikiData/WD~seaweed,237169]]"
+  - "[[_Standards/WikiData/WD~cetacean_stranding,1366544]]"
+  - "[[_Standards/WikiData/WD~berry,13184]]"
+  - "[[_Standards/WikiData/WD~Black_headed_Gull,25634]]"
+  - "[[_Standards/WikiData/WD~Phoca_vitulina,26913]]"
+  - "[[_Standards/WikiData/WD~Razorbill,27102]]"
+  - "[[_Standards/WikiData/WD~Grey_Seal,27370]]"
+  - "[[_Standards/WikiData/WD~Brachyura,40802]]"
+  - "[[_Standards/WikiData/WD~walrus,40994]]"
+  - "[[_Standards/WikiData/WD~waste,45701]]"
+taxon_range:
+  - "[[_Standards/WikiData/WD~Arctic_Circle,176609]]"
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Greenland,223]]"
+IUCN_conservation_status: "[[_Standards/WikiData/WD~Vulnerable,278113]]"
+different_from: "[[_Standards/WikiData/WD~Kermode_bear,525781]]"
+CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
+diel_cycle: "[[_Standards/WikiData/WD~diurnality,4284186]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+subclass_of: "[[_Standards/WikiData/WD~bear,30090244]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~taxon,16521]]"
+  - "[[_Standards/WikiData/WD~apex_predator,19067]]"
+color: "[[_Standards/WikiData/WD~white,23444]]"
+life_expectancy: 50
+gestation_period:
+  - 5
+  - 8.5
+mass: 450
+longest_observed_lifespan: 43.8
+ITIS_TSN: "180542"
+OmegaWiki_Defined_Meaning: "398900"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Polar%20Bear%20-%20Alaska%20%28cropped%29.jpg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Cub%20polar%20bear%20is%20nursing%202.ogv
+Library_of_Congress_Classification: QL737.C27
+Iconclass_notation: 25F23(POLAR BEAR)
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Polar%20bears%20near%20north%20pole%20banner.jpg
+short_name: U. maritimus
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20bear%20polar%20smooth.stl
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Ice-bear-161992.svg
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ursus%20maritimus%20map.svg
+exact_match:
+  - http://wordnet-rdf.princeton.edu/pwn30/02134084-n/
+  - http://wordnet-rdf.princeton.edu/wn30/02134084-n/
+sequenced_genome_URL:
+  - http://www.ensembl.org/Ursus_maritimus/
+  - https://www.dnazoo.org/assemblies/Ursus_maritimus/
+Unicode_character: 🐻❄️
 ---
 
 # [[Polar_Bear]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Polar_bear,33609|WD~Polar_bear,33609]] 
-
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Polar_bear,33609|WD~Polar_bear,33609]]  
 
 ## #has_/text_of_/abstract 
 

@@ -93,8 +93,8 @@ Wolfram_Language_entity_code: "Entity[\"MinorPlanet\", \"Pluto\"]"
 
 # [[Pluto]] 
 
-#is_/same_as :: [[../../WikiData/WD~Pluto,339]] 
 #is_/different_from :: [[../../WikiData/WD~Pluto,152262]] 
+#is_/same_as :: [[../../WikiData/WD~Pluto,339]] 
 
 ## #has_/text_of_/abstract 
 
