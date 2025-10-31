@@ -2,6 +2,8 @@
 aliases:
   - Post
   - postal service
+  - Postdienstleistung
+  - 
 has_id_wikidata: Q49845
 subclass_of:
   - "[[_Standards/WikiData/WD~industry,268592]]"
