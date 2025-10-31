@@ -398,12 +398,6 @@ icon: flag-pt
 
 # [[Portugal]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Portugal 
-
-[[Portugal/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -467,10 +461,18 @@ Sub-region_Name ::  [[Southern Europe]]
 
 [	ISO3166-1-numeric	 :: 620 ]
 
-
-
 [ISO2::PT]
 [ISO3::PRT]
+
+#is_/same_as :: [[../../../../WikiData/WD~Portugal,45|WD~Portugal,45]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Portugal 
+
+[[Portugal/ReadMe]] 
+
+## #has_/map 
+
 ```leaflet
 id: Portugal
 zoomFeatures: true 
@@ -478,6 +480,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Portugal//
 markerFolder: ./Portugal//
+coordinates: [[Portugal]] 
+markerFile: [[Portugal]] 
+defaultZoom: 11 
 ```
 
 [name-en::Portugal]
