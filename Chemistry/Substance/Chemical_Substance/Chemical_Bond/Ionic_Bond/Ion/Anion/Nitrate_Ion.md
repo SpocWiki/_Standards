@@ -49,7 +49,7 @@ SPLASH:
   - splash10-03dj-9000000000-b705d64f017cd9970bcb
 ---
 
-# [[Nitrate]] 
+# [[Nitrate_Ion]] 
 
 #is_/same_as :: [[WD~Nitrate_ion,182168]] 
 

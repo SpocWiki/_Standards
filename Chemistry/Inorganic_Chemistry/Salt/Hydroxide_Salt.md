@@ -1,5 +1,5 @@
 
-# [[Hydroxide]] 
+# [[Hydroxide_Salt]] 
 
 #is_/same_as :: [[WikiData/WD~Hydroxide_salt,425597|WD~Hydroxide_salt,425597]] 
 
