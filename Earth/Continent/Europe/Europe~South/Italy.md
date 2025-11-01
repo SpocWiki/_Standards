@@ -628,13 +628,13 @@ The population figures are based on data from 2024. ([statta.com](https://wwwtis
 | ----------------------------------------------------------------------------- | ------------------------------------------------------ | ----: |
 | [[Italy/regions~Italy/Lazio/provinces~Lazio/Roma.Province/municipalities~Roma/Roma,Città\|Roma]]                   | [[Italy/regions~Italy/Lazio\|Lazio]]                   |  2750 |
 | [[Italy/regions~Italy/Lombardy/Milano.Province/City/Milano,City\|Milano]]     | [[Italy/regions~Italy/Lombardy\|Lombardy]]             |  1350 |
-| [[Italy/regions~Italy/Campania/Napoli,Province/City/Napoli,City\|Napoli]]     | [[Italy/regions~Italy/Campania\|Campania]]             |   910 |
+| [[Italy/regions~Italy/Campania/provinces~Campania/Napoli,Province/City/Napoli,City\|Napoli]]     | [[Italy/regions~Italy/Campania\|Campania]]             |   910 |
 | [[Italy/regions~Italy/Piedmont/Turin.Province/City/Torino\|Torino]]           | [[Italy/regions~Italy/Piedmont\|Piedmont]]             |   840 |
 | [[Italy/regions~Italy/Sicily/Palermo.Province/City/Palermo\|Palermo]]         | [[Italy/regions~Italy/Sicily\|Sicily]]                 |   630 |
 | [[Italy/regions~Italy/Liguria/Genova.Province/City/Genova\|Genoa]]            | [[Italy/regions~Italy/Liguria\|Liguria]]               |   560 |
 | [[Italy/regions~Italy/Emilia-Romagna/Bologna.Province/City/Bologna\|Bologna]] | [[Italy/regions~Italy/Emilia-Romagna\|Emilia-Romagna]] |   390 |
 | [[Italy/regions~Italy/Tuscany/Firenze.Province/City/Firenze,City\|Florenz]]   | [[Italy/regions~Italy/Tuscany\|Tuscany]]               |   370 |
-| [[Bari]]                                                                      | [[Italy/regions~Italy/Apulia\|Apulia]]                 |   320 |
+| [[Italy/City/Bari]]                                                                      | [[Italy/regions~Italy/Apulia\|Apulia]]                 |   320 |
 
 
 ## #has_/text_of_/abstract  

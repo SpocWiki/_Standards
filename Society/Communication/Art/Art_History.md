@@ -68,7 +68,9 @@ Provenio_UUID: df9c532e-cbf1-4c79-af65-a7704a2e6962
 
 ## #has_/text_of_/abstract 
 
-> Art history is the study of artistic works made throughout human history. Among other topics, it studies art's formal qualities, its impact on societies and cultures, and how artistic styles have changed throughout history.
+> Art history is the study of artistic works made throughout human history. 
+> Among other topics, it studies art's formal qualities, its impact on societies and cultures, 
+> and how artistic styles have changed throughout history.
 >
 > Traditionally, the discipline of art history emphasized painting, drawing, sculpture, architecture, ceramics and decorative arts; yet today, art history examines broader aspects of visual culture, including the various visual and conceptual outcomes related to art. Art history is a broad discipline encompassing many branches. Some focus on specific time periods, while others concentrate on particular geographic regions, such as the art of Europe. Thematic categorizations include feminist art history, iconography, the analysis of symbols, and design history.
 >
