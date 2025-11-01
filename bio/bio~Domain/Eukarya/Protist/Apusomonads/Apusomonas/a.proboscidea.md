@@ -2,6 +2,13 @@
 title: "Apusomonas proboscidea"
 ---
 
+# *Apusomonas proboscidea* [Aléxéieff 1924] 
+
+[David J. Patterson](http://www.tolweb.org/)
+
+![ ](a.proboscidea/fapusop.jpg)
+
+
 ## Phylogeny 
 
 -   « Ancestral Groups  
@@ -16,12 +23,6 @@ title: "Apusomonas proboscidea"
     -   [Apusomonas         australiensis](Apusomonas_australiensis)
 
 -   » Sub-Groups 
-
-# *Apusomonas proboscidea* [Aléxéieff 1924] 
-
-[David J. Patterson](http://www.tolweb.org/)
-
-![ ](proboscidea/fapusop.jpg)
 
 Containing group: *[Apusomonas](../Apusomonas.md)*
 
@@ -72,14 +73,15 @@ soil. Archiv für Protistenkunde 116:254-269.
 
 ## Title Illustrations
 
-![](proboscidea/fapusop.jpg))
+![](a.proboscidea/fapusop.jpg))
 
   -------------
   Scientific Name ::     Apusomonas proboscidea
   Comments             Line drawing of living cell
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 Flemming Ekelund
-  -------------
+  -------------
+
 
 
 ## Confidential Links & Embeds: 

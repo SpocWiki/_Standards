@@ -7,6 +7,7 @@ aliases:
   - judiciative branch
   - court system
   - judiciary system
+  - Justiz
 has_id_wikidata: Q105985
 facet_of:
   - "[[_Standards/WikiData/WD~separation_of_powers,79896]]"
@@ -46,7 +47,10 @@ IPTC_NewsCode: mediatopic/20000106
 
 ## #has_/text_of_/abstract 
 
-> The **Judiciary** (also known as the judicial system, judicature, judicial branch, judiciative branch, and court or judiciary system) is the system of courts that adjudicates legal disputes/disagreements and interprets, defends, and applies the law in legal cases.
+> The **Judiciary** (also known as the judicial system, 
+> judicature, judicial branch, judiciative branch, and court or judiciary system) 
+> is the system of courts that adjudicates legal disputes/disagreements 
+> and interprets, defends, and applies the law in legal cases.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Judiciary) 
 

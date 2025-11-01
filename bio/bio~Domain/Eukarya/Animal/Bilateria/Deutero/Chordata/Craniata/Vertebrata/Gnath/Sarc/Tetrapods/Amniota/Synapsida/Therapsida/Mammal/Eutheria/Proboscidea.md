@@ -1,8 +1,42 @@
 ---
 title: Proboscidea
+aliases:
+has_id_wikidata: Q26308
+homonymous_taxon:
+  - "[[_Standards/WikiData/WD~Proboscidea,137309]]"
+  - "[[_Standards/WikiData/WD~Proboscidea,20667040]]"
+  - "[[_Standards/WikiData/WD~Proboscidea,25661894]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Proboscidea_(Animalia),14463356]]"
+  - "[[_Standards/WikiData/WD~Template_Proboscidea,15088259]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+parent_taxon: "[[_Standards/WikiData/WD~Tethytheria,20862]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+OmegaWiki_Defined_Meaning: "2978"
+start_time: -60000000-01-01T00:00:00Z
+ITIS_TSN: "180674"
+Commons_category: Proboscidea
+taxon_name: Proboscidea
+image: http://commons.wikimedia.org/wiki/Special:FilePath/AfricanElephant.jpg
+EPPO_Code: 1PROBO
+MeSH_tree_code: B01.050.150.900.649.313.250.500
+UMLS_CUI: C0325153
+NBN_System_Key: NHMSYS0000377143
+Library_of_Congress_Classification:
+  - QL737.P97
+  - QL737.P98
+taxon_common_name:
+  - snabeldyr
+  - trobčarji
 ---
 
 # [[Proboscidea]] 
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Proboscidea,26308|WD~Proboscidea,26308]] 
 
 ## Elephants, mammoths, mastodons, etc. 
 
@@ -10,7 +44,7 @@ title: Proboscidea
 
 ## #has_/text_of_/abstract 
 
-> **Proboscidea** (;  from Latin  proboscis, from Ancient Greek  προβοσκίς (proboskís) 'elephant's trunk') is a taxonomic order of afrotherian mammals containing one living family (Elephantidae) and several extinct families. First described by J. Illiger in 1811, it encompasses the elephants and their close relatives. Three living species of elephant are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant.
+> **Proboscidea** (from Latin proboscis, from Ancient Greek προβοσκίς (proboskís) 'elephant's trunk') is a taxonomic order of afrotherian mammals containing one living family (Elephantidae) and several extinct families. First described by J. Illiger in 1811, it encompasses the elephants and their close relatives. Three living species of elephant are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant.
 >
 > Extinct members of Proboscidea include the deinotheres, mastodons, gomphotheres and stegodonts. The family Elephantidae also contains several extinct groups, including mammoths and Palaeoloxodon. Proboscideans include some of the largest known land mammals, with the elephant Palaeoloxodon namadicus and mastodon "Mammut" borsoni suggested to have body masses surpassing 16 tonnes (35,000 lb), rivalling or exceeding paraceratheres (the otherwise largest known land mammals) in size. The largest extant proboscidean is the African bush elephant, with a world record of size of 4 m (13.1 ft) at the shoulder and 10.4 t (11.5 short tons). In addition to their enormous size, later proboscideans are distinguished by tusks and long, muscular trunks, which were less developed or absent in early proboscideans.
 >
