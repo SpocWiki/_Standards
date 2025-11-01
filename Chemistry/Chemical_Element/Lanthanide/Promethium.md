@@ -53,8 +53,7 @@ Unicode_character: 鉕
 UNII: ZGV62C09KN
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Promethium,1809]] 
-
+# [[Promethium]] 
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
@@ -78,6 +77,9 @@ UNII: ZGV62C09KN
 [FormEnergy-kj-mol::0]
 (PeriodNo::6)
 (GroupNo::27)
+
+#is_/same_as :: [[../../../WikiData/WD~Promethium,1809]] 
+
 
 
 ## #has_/text_of_/abstract 
