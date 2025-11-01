@@ -3,6 +3,7 @@ aliases:
   - administrative-area
   - administrative_area
   - AdministrativeArea
+  - administrative division
   - is_an_administrative_area
 confidential: public
 cssclasses:

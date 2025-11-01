@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Mathematical logic
 has_id_wikidata: Q1166618
 has_characteristic: "[[_Standards/WikiData/WD~quantifier,592911]]"
 instance_of:

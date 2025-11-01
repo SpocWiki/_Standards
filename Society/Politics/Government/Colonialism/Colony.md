@@ -29,6 +29,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%
 
 # [[Colony]] 
 
+#is_/different_from :: [[../../../../Earth/Geography/Place/Administrative_Area/State/Protectorate|Protectorate]] 
 #is_/same_as :: [[../../../../WikiData/WD~Colony,133156|WD~Colony,133156]]  
 
 ## #has_/text_of_/abstract 
