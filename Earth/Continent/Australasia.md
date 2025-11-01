@@ -14,7 +14,7 @@ type: Continent
 
 Formally [[Australasia]] is a Part of [[Oceania]], 
 together with [[Australasia/Micronesia]], [[Australasia/Melanesia]] and [[Oceania/Polynesia]], 
-but Polynesia largely lies across the [[Anti-Meridian]], 
+but Polynesia largely lies across the [[../Geography/Cartography/Meridian/Anti-Meridian]], 
 so from a Mapping-perspective, it makes sense 
 to separate [[Oceania/Polynesia]] out to the Pacific-based [[Oceania]].  
 

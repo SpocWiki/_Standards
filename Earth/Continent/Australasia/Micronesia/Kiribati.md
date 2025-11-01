@@ -256,7 +256,7 @@ icon: flag-ki
 
 # [[Kiribati]] 
 
-[[Kiribati]] is difficult for Mapping, because its many Islands range in Longitude from 172° across the [[Anti-Meridian]] to 210°. 
+[[Kiribati]] is difficult for Mapping, because its many Islands range in Longitude from 172° across the [[../../../Geography/Cartography/Meridian/Anti-Meridian]] to 210°. 
 
 [	ISO4217-currency_alphabetic	 :: AUD ] 
 [	ISO4217-currency_name	 :: Australian Dollar ] 
