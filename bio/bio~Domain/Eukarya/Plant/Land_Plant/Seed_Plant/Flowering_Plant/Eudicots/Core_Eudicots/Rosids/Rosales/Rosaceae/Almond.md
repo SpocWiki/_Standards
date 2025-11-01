@@ -2,9 +2,13 @@
 aliases:
   - Almond
   - Almonds
-  - Mandel
   - Prunus amygdalus
   - Prunus dulcis
+  - Prunus dulcis Rouchy
+  - Prunus_amygdalus
+  - Mandel
+  - Mandeln
+  - Mandelbaum
 Commons_category: Prunus amygdalus
 Commons_gallery: Prunus amygdalus
 described_by_source:
@@ -52,7 +56,7 @@ winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Almond%20trees%2
 
 ## #has_/text_of_/abstract 
 
-> The **Almond** (Prunus amygdalus, syn. Prunus dulcis) is a species of tree from the genus Prunus. 
+> The almond (Prunus amygdalus, syn. Prunus dulcis (Mill.) D.A.Webb, nom. illeg. non Prunus dulcis Rouchy) is a species of tree from the genus Prunus. 
 > Along with the peach, it is classified in the subgenus Amygdalus, 
 > distinguished from the other subgenera 
 > by corrugations on the shell (endocarp) surrounding the seed.

@@ -1,6 +1,7 @@
 ---
 aliases:
-  - almond
+  - Almond
+  - Almonds
   - Prunus amygdalus
   - Prunus dulcis
   - Prunus dulcis Rouchy
@@ -49,7 +50,7 @@ taxon_common_name:
   - mandljevec
 ---
 
-# [[Prunus_amygdalus]] 
+# [[../../../Almond]] 
 
 #is_/same_as :: [[WD~Prunus_amygdalus,15545507]] 
 
@@ -57,22 +58,57 @@ taxon_common_name:
 
 > The almond (Prunus amygdalus, syn. Prunus dulcis (Mill.) D.A.Webb, nom. illeg. non Prunus dulcis Rouchy) is a species of tree from the genus Prunus. 
 > Along with the peach, it is classified in the subgenus Amygdalus, 
-> distinguished from the other subgenera by corrugations on the shell (endocarp) surrounding the seed.
+> distinguished from the other subgenera 
+> by corrugations on the shell (endocarp) surrounding the seed.
 >
 > The fruit of the almond is a drupe, consisting of an outer hull and a hard shell with the seed, 
-> which is not a true nut. Shelling almonds refers to removing the shell to reveal the seed. 
+> which is not a true nut. 
 > 
+> Shelling almonds refers to removing the shell to reveal the seed. 
 > Almonds are sold shelled or unshelled. 
-> Blanched almonds are shelled almonds that have been treated with hot water to soften the seedcoat, 
-> which is then removed to reveal the white embryo. 
 > 
-> Once almonds are cleaned and processed, they can be stored for around a year if kept refrigerated; 
+> Blanched almonds are shelled almonds that have been treated with hot water 
+> to soften the seedcoat, which is then removed to reveal the white embryo. 
+> 
+> Once almonds are cleaned and processed, 
+> they can be stored for around a year if kept refrigerated; 
 > at higher temperatures they will become rancid more quickly. 
 > Almonds are used in many cuisines, often featuring prominently in desserts, such as marzipan.
 >
-> The almond tree prospers in a moderate Mediterranean climate with cool winter weather. It is rarely found wild in its original setting. Almonds were one of the earliest domesticated fruit trees, due to the ability to produce quality offspring entirely from seed, without using suckers and cuttings. Evidence of domesticated almonds in the Early Bronze Age has been found in the archeological sites of the Middle East, and subsequently across the Mediterranean region and similar arid climates with cool winters.
+> The almond tree prospers in a moderate Mediterranean climate with cool winter weather. 
+> It is rarely found wild in its original setting. 
 >
-> California produces about 80% of the world's almond supply. Due to high acreage and water demand for almond cultivation, and need for pesticides, California almond production may be unsustainable, especially during the persistent drought and heat from climate change in the 21st century. Droughts in California have caused some producers to leave the industry, leading to lower supply and increased prices.
+> Almonds were one of the earliest domesticated fruit trees, 
+> due to the ability to produce quality offspring entirely from seed, 
+> without using suckers and cuttings. 
+> 
+> Evidence of domesticated almonds in the Early Bronze Age has been 
+> found in the archeological sites of the Middle East, 
+> and subsequently across the Mediterranean region and similar arid climates with cool winters.
+>
+> California produces about 80% of the world's almond supply. 
+> Due to high acreage and water demand for almond cultivation, and need for pesticides, 
+> California almond production may be unsustainable, 
+> especially during the persistent drought and heat from climate change in the 21st century. 
+> Droughts in California have caused some producers to leave the industry, 
+> leading to lower supply and increased prices.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Almond) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Almond](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.md) 
+
+### #is_/same_as :: [Almond.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.public.md) 
+
+### #is_/same_as :: [Almond.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.internal.md) 
+
+### #is_/same_as :: [Almond.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.protect.md) 
+
+### #is_/same_as :: [Almond.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.private.md) 
+
+### #is_/same_as :: [Almond.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.personal.md) 
+
+### #is_/same_as :: [Almond.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.secret.md)
 
