@@ -47,7 +47,7 @@ UNSPSC_Code: 10101514
 # [[Primates]] 
 
 #is_/instance_of :: [[../../../../../../../../../../../../../bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order|bio~Order]] 
-
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Primate,7380|WD~Primate,7380]] 
 ## Lemurs, tarsiers, monkeys, apes, and humans 
 ![Ring-tailed lemurs](Primates/lemurs.jpg)) ![](Primates/saimiri.jpg) ![](Primates/vervet.jpg) 
 
