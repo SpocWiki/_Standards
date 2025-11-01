@@ -2,6 +2,7 @@
 ArchWiki_article:
   - Programming_languages
   - Programming_languages_(Español)
+  - Programming language
 Commons_category: Programming languages
 different_from:
   - "[[_Standards/WikiData/WD~hardware_description_language,173341]]"
@@ -76,7 +77,7 @@ Wikidata_property:
   - programmed in
   - supports programming language
   - implementation of
-Wolfram_Language_enti[[Prog~Language]]uage
+Wolfram_Language_entity_type: ProgrammingLanguage
 ---
 
 # [[Prog~Language]] 
