@@ -11,7 +11,7 @@ Wolfram_Language_entity_code: Entity["Concept", "Charisma::p96x8"]
 
 # [[Charisma]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Charisma,118157|WD~Charisma,118157]] 
+#is_/same_as :: [[../../../../WikiData/WD~Charisma,118157|WD~Charisma,118157]] 
 
 ## #has_/text_of_/abstract 
 

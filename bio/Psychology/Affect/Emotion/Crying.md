@@ -32,7 +32,7 @@ IMDb_keyword: crying
 
 # [[Crying]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Crying,152247|WD~Crying,152247]] 
+#is_/same_as :: [[../../../../WikiData/WD~Crying,152247|WD~Crying,152247]] 
 
 ## #has_/text_of_/abstract 
 

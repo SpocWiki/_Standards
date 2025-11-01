@@ -44,7 +44,7 @@ Colon_Classification: S:526
 # [[Fear]] 
 
 #is_/different_from :: [[Anxiety]] 
-#is_/same_as :: [[../../../WikiData/WD~Fear,44619|WD~Fear,44619]] 
+#is_/same_as :: [[../../../../WikiData/WD~Fear,44619|WD~Fear,44619]] 
 
 ## #has_/text_of_/abstract 
 

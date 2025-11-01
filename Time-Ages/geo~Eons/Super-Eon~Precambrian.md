@@ -1,33 +1,51 @@
 ---
 aliases:
-- Precambrian
-- Прекамбрий
-- Prekambrium
-- Prækambrium
-- Präkambrium
-- Precámbrico
-- Prekambrium
-- Prekambri
-- Précambrien
-- prekambrium
-- precambriano
-- 先カンブリア時代
-- Prekambras
-- Precambrium
-- Prekambrium
-- Prekambr
-- Precâmbrico
-- prekambrium
-- predkambrij
-- prekambrium
-- 前寒武纪
+  - Precambrian
+  - Прекамбрий
+  - Prekambrium
+  - Prækambrium
+  - Präkambrium
+  - Precámbrico
+  - Prekambrium
+  - Prekambri
+  - Précambrien
+  - prekambrium
+  - precambriano
+  - 先カンブリア時代
+  - Prekambras
+  - Precambrium
+  - Prekambrium
+  - Prekambr
+  - Precâmbrico
+  - prekambrium
+  - predkambrij
+  - prekambrium
+  - 前寒武纪
 has_id_wikidata: Q103910
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~supereon,15398983]]"
+  - "[[_Standards/WikiData/WD~supereonothem,108674179]]"
+named_after: "[[_Standards/WikiData/WD~Cambria,27814]]"
+part_of: "[[_Standards/WikiData/WD~geologic_time_scale,43521]]"
+Commons_category: Precambrian
+schematic:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/PreCambrian%20Era%20Geological%20Timeline.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Zeitskala%20Evolution%20Pr%C3%A4kambrium.png
+sRGB_color_hex_triplet: F74370
+Krugosvet_article_archived_: geologiya/kriptozoi
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Temagami%20greenstone%20belt%20pillow%20lava.jpg
+end_time: -538800000-01-01T00:00:00Z
+start_time: -4567000000-01-01T00:00:00Z
 ---
 
 # [[Super-Eon~Precambrian]] 
 
 #has_/time_/started :: 4567.0e6 
 #has_/time_/stopped :: 538.8e6 
+#is_/same_as :: [[../../WikiData/WD~Precambrian,103910|WD~Precambrian,103910]] 
 
 A time period from 4567 to 538.8 million years ago. 
 

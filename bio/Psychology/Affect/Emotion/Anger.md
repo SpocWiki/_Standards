@@ -49,7 +49,7 @@ MeSH_tree_code: F01.470.093
 
 # [[Anger]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Anger,79871]] 
+#is_/same_as :: [[../../../../WikiData/WD~Anger,79871]] 
 
 
 ## #has_/text_of_/abstract 

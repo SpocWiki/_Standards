@@ -6,7 +6,7 @@ has_id_wikidata: Q193526
 
 # [[Conscience]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Conscience,193526|WD~Conscience,193526]] 
+#is_/same_as :: [[../../../../WikiData/WD~Conscience,193526|WD~Conscience,193526]] 
 
 ## #has_/text_of_/abstract 
 

@@ -115,7 +115,7 @@ MeSH_tree_code: F01.470.132
 
 # [[Anxiety]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Anxiety,154430|WD~Anxiety,154430]] 
+#is_/same_as :: [[../../../../WikiData/WD~Anxiety,154430|WD~Anxiety,154430]] 
 #is_/different_from :: [[Fear]] 
 
 ## #has_/text_of_/abstract 

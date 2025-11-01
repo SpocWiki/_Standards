@@ -15,7 +15,7 @@ Commons_category: Temperaments
 # [[Temperament]] 
 
 #is_/similar_to :: [[Mood]] 
-#is_/similar_to :: [[Emotion]] 
+#is_/similar_to :: [[Affect/Emotion]] 
 #is_/same_as :: [[WD~Temperament,80157]] 
 
 ## #has_/text_of_/abstract 

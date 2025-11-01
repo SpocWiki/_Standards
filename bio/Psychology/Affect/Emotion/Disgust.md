@@ -6,7 +6,7 @@ has_id_wikidata: Q208351
 
 # [[Disgust]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Disgust,208351|WD~Disgust,208351]] 
+#is_/same_as :: [[../../../../WikiData/WD~Disgust,208351|WD~Disgust,208351]] 
 
 ## #has_/text_of_/abstract 
 

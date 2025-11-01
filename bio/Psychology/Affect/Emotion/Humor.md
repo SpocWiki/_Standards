@@ -39,7 +39,7 @@ MeSH_tree_code: V02.540
 
 # [[Humor]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Humor,35874|WD~Humor,35874]] 
+#is_/same_as :: [[../../../../WikiData/WD~Humor,35874|WD~Humor,35874]] 
 
 ## #has_/text_of_/abstract 
 

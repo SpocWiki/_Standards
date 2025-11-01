@@ -20,7 +20,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Toni%20Frissell%20in%2
 
 # [[Curiosity]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Curiosity,366791|WD~Curiosity,366791]] 
+#is_/same_as :: [[../../../../WikiData/WD~Curiosity,366791|WD~Curiosity,366791]] 
 
 ## #has_/text_of_/abstract 
 

@@ -30,7 +30,7 @@ UMLS_CUI: C0242270
 
 # [[Compassion]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Compassion,1412160|WD~Compassion,1412160]] 
+#is_/same_as :: [[../../../../WikiData/WD~Compassion,1412160|WD~Compassion,1412160]] 
 
 ## #has_/text_of_/abstract 
 

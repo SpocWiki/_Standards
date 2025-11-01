@@ -33,7 +33,7 @@ MeSH_tree_code: F01.470.257
 
 # [[Courage]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Courage,208160|WD~Courage,208160]] 
+#is_/same_as :: [[../../../../WikiData/WD~Courage,208160|WD~Courage,208160]] 
 
 ## #has_/text_of_/abstract 
 

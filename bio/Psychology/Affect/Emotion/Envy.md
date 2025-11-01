@@ -22,7 +22,7 @@ PhilPapers_topic: envy
 
 # [[Envy]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Envy,188739|WD~Envy,188739]] 
+#is_/same_as :: [[../../../../WikiData/WD~Envy,188739|WD~Envy,188739]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,7 +1,7 @@
 
 # [[Friendship]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Friendship,491|WD~Friendship,491]] 
+#is_/same_as :: [[../../../../WikiData/WD~Friendship,491|WD~Friendship,491]] 
 
 ## #has_/text_of_/abstract 
 

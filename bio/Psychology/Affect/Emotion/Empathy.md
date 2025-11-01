@@ -34,7 +34,7 @@ Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/EMPATIYA.html
 
 # [[Empathy]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Empathy,182263|WD~Empathy,182263]] 
+#is_/same_as :: [[../../../../WikiData/WD~Empathy,182263|WD~Empathy,182263]] 
 
 ## #has_/text_of_/abstract 
 

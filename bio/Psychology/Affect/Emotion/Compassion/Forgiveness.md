@@ -23,7 +23,7 @@ MeSH_tree_code:
 
 # [[Forgiveness]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Forgiveness,537963|WD~Forgiveness,537963]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Forgiveness,537963|WD~Forgiveness,537963]] 
 
 ## #has_/text_of_/abstract 
 

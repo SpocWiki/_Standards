@@ -27,7 +27,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rae%2C%20Henrietta%20-
 
 # [[Doubt]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Doubt,34302|WD~Doubt,34302]] 
+#is_/same_as :: [[../../../../WikiData/WD~Doubt,34302|WD~Doubt,34302]] 
 
 ## #has_/text_of_/abstract 
 
