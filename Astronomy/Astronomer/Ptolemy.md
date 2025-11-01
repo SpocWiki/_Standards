@@ -95,7 +95,7 @@ birth_name: Κλαύδιος Πτολεμαῖος
 #has_/time_/started :: 0100-06-01 
 #has_/time_/started :: 0170-06-01 
 
-#is_/same_as :: [[../../../_Standards/WikiData/WD~Ptolemy,34943|WD~Ptolemy,34943]] 
+#is_/same_as :: [[../../WikiData/WD~Ptolemy,34943|WD~Ptolemy,34943]]  
 
 ## #has_/text_of_/abstract 
 
