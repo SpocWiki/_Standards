@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/own :: OwnershipInfo, Product ] or 
 - [ has_own :: OwnershipInfo, Product ] 
 
-Relation describes [[../../../../Knowledge/Business/Business-Entity/Ownership|Ownership]] from the Side of the [[Owner]]: 
+Relation describes [[../../../Society/Law/Civil_Law/Ownership|Ownership]] from the Side of the [[Owner]]: 
 [ #has_/domain  :: Organization, Person ]
 ( #has_/name :: [[has_own]] )
 ( #has_/range :: OwnershipInfo, Product )
