@@ -1,47 +1,49 @@
 ---
 aliases:
-- Almond
-- Almonds
-- Mandel
-Commons_category: "Prunus amygdalus"
-Commons_gallery: "Prunus amygdalus"
+  - Almond
+  - Almonds
+  - Mandel
+  - Prunus amygdalus
+  - Prunus dulcis
+Commons_category: Prunus amygdalus
+Commons_gallery: Prunus amygdalus
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 different_from:
-- '[[_Standards/WikiData/WD~Badam,3666611]]'
-- '[[_Standards/WikiData/WD~Q11780515,11780515]]'
-GRIN_URL: "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=29834"
+  - "[[_Standards/WikiData/WD~Badam,3666611]]"
+  - "[[_Standards/WikiData/WD~Q11780515,11780515]]"
+GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=29834
 has_id_wikidata: Q15545507
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Almonds%20-%20in%20shell%2C%20shell%20cracked%20open%2C%20shelled%2C%20blanched.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Prunus%20dulcis%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-250.jpg"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Almonds%20-%20in%20shell%2C%20shell%20cracked%20open%2C%20shelled%2C%20blanched.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Prunus%20dulcis%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-250.jpg
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 519646
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/AlmondShakerbeforeafter.jpg"
-parent_taxon: '[[_Standards/WikiData/WD~Prunus,190545]]'
-replaced_synonym_for_nom_nov_: '[[_Standards/WikiData/WD~Amygdalus_communis,12835396]]'
-short_name: "P. amygdalus"
-subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/AlmondShakerbeforeafter.jpg
+parent_taxon: "[[_Standards/WikiData/WD~Prunus,190545]]"
+replaced_synonym_for_nom_nov_: "[[_Standards/WikiData/WD~Amygdalus_communis,12835396]]"
+short_name: P. amygdalus
+subclass_of: "[[_Standards/WikiData/WD~useful_plant,11992872]]"
 taxon_common_name:
-- almendral
-- ametller
-- mandljevec
-taxon_name: "Prunus amygdalus"
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+  - almendral
+  - ametller
+  - mandljevec
+taxon_name: Prunus amygdalus
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Amygdalus_communis,12835396]]'
-- '[[_Standards/WikiData/WD~Prunus_dulcis,39918]]'
+  - "[[_Standards/WikiData/WD~Amygdalus_communis,12835396]]"
+  - "[[_Standards/WikiData/WD~Prunus_dulcis,39918]]"
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~almond,184357]]'
-- '[[_Standards/WikiData/WD~almond_oil,72437444]]'
-- '[[_Standards/WikiData/WD~almond_tree_wood,110795631]]'
+  - "[[_Standards/WikiData/WD~almond,184357]]"
+  - "[[_Standards/WikiData/WD~almond_oil,72437444]]"
+  - "[[_Standards/WikiData/WD~almond_tree_wood,110795631]]"
 UMLS_CUI: C0440286
-winter_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Almond%20trees%2011.jpg"
+winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Almond%20trees%2011.jpg
 ---
 
 # [[Almond]] 
