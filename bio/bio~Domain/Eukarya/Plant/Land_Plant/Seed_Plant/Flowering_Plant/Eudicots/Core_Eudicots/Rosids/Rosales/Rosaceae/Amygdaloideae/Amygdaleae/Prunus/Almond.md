@@ -50,13 +50,14 @@ taxon_common_name:
   - mandljevec
 ---
 
-# [[../../../Almond]] 
+# [[Almond]] 
 
 #is_/same_as :: [[WD~Prunus_amygdalus,15545507]] 
 
 ## #has_/text_of_/abstract 
 
-> The almond (Prunus amygdalus, syn. Prunus dulcis (Mill.) D.A.Webb, nom. illeg. non Prunus dulcis Rouchy) is a species of tree from the genus Prunus. 
+> The almond (Prunus amygdalus, syn. Prunus dulcis (Mill.) D.A.Webb, 
+> nom. illeg. non Prunus dulcis Rouchy) is a species of tree from the genus Prunus. 
 > Along with the peach, it is classified in the subgenus Amygdalus, 
 > distinguished from the other subgenera 
 > by corrugations on the shell (endocarp) surrounding the seed.
