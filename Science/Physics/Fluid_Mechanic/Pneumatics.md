@@ -20,7 +20,7 @@ Commons_category: Pneumatics
 
 # [[Pneumatics]] 
 
-#is_/similar_to :: [[Technology/Hydraulics|Hydraulics]] 
+#is_/similar_to :: [[Hydraulics|Hydraulics]] 
 #is_/same_as :: [[WD~Pneumatics,211500]]
 
 ## #has_/text_of_/abstract 
