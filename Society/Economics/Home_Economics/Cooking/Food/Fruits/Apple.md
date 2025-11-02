@@ -4,6 +4,7 @@ aliases:
   - Äpfel
   - Apple
   - Apples
+has_id_wikidata: Q89
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/3DApple001%20HQ-4K-PNG.stl
 Amazon_com_browse_node:
   - 6464948011
@@ -47,7 +48,6 @@ food_energy:
 GS1_GPC_code: 10005900
 has_characteristic:
   - "[[_Standards/WikiData/WD~color,1075]]"
-has_id_wikidata: Q89
 has_part_s_:
   - "[[_Standards/WikiData/WD~(R)-amygdalin,410215]]"
 Iconclass_notation: 25G21(APPLE)
@@ -114,7 +114,7 @@ Wolfram_Language_entity_code: Entity["FoodType", "Apple"]
 
 ## #has_/text_of_/abstract 
 
-> An **Apple** is a round, edible fruit produced by an [[../../../../../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Appletree|Appletree]]  
+> An **Apple** is a round, edible fruit produced by an [[../../../../../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Appletree|Appletree]]  
 > (Malus spp., among them the domestic or orchard apple; Malus domestica). 
 > 
 > Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. 

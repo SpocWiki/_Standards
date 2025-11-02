@@ -26,7 +26,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Erdkruste-i.png
 
 # [[Earth's_crust]]
 
-#is_/same_as :: [[../WikiData/WD~Earth's_crust,15316|WD~Earth's_crust,15316]]
+#is_/same_as :: [[../../../WikiData/WD~Earth's_crust,15316|WD~Earth's_crust,15316]]
 
 ## #has_/text_of_/abstract 
 

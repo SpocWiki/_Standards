@@ -553,7 +553,6 @@ X_Twitter_username: 060gobes
 
 ## International Names
 
-
 [	name	 :: Spain ]
 [	name-en	 :: Spain ]
 [	name-es	 :: España ]
@@ -573,6 +572,8 @@ into a Subfolder named `France`, so that this Link into the Sub-Repository works
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-France 
 
 > [!warning] This can considerably increase the total size and depth of your wiki.
+
+#is_/same_as :: [[../../../../WikiData/WD~Spain,29|WD~Spain,29]] 
 
 ## #has_/parts 
 
