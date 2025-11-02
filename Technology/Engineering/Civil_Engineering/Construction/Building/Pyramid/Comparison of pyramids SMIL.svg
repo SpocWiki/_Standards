@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-228 -340 560 350">
+  <title>Comparison of pyramids SMIL</title>
+  <desc>Comparison of approximate profiles of some pyramidal or near-pyramidal buildings by CMG Lee. Where the base is rectangular, the longer side is shown. Dotted lines indicate original heights, where data is available. Hover over a label or profile to highlight it, and click the (i) icon for its Wikipedia article.</desc>
+  <style type="text/css">
+  #main         { font-family:sans-serif; font-size:11px; text-anchor:start;
+                  stroke-linejoin:round; stroke-linecap:round; stroke-width:1; stroke:none; fill:none;
+                  stroke-opacity:0.2;  fill-opacity:0;   }
+  #main:hover   { stroke-opacity:0.02; fill-opacity:0;   }
+  a:hover,
+  .nofade       { stroke-opacity:1;    fill-opacity:1;   }
+  .base         { cursor:default; cursor:-webkit-grab; cursor:grab; }
+  .base:hover, a,
+  .active:hover { stroke-opacity:0.5;  fill-opacity:0.2; text-shadow:0 0 8px #ffff00; }
+  .active       { stroke-opacity:0.2;  fill-opacity:0.05; visibility:visible;
+                  cursor:-webkit-grabbing; cursor:grabbing; }
+  .pointer      { stroke-width:1; pointer-events:none; }
+  text          { stroke:none; fill-opacity:1; }
+  /*
+  #main:hover .base:hover   text, #main text,
+  #main:hover .active:hover text,
+  #main:hover .base         text,
+  */
+  </style>
+<!--
+    a:hover { cursor:help; fill-opacity:0.25; font-weight:bolder; text-shadow:0 0 8px #ffff00; }
+    .fade:hover { stroke-opacity:0; fill-opacity:0; }
+-->
+  <defs>
+    <linearGradient id="grad_link" x1="0%" y1="0%" x2="0%" y2="100%">
+     <stop offset="0%" stop-color="#0099ff"/>
+     <stop offset="100%" stop-color="#0000ff"/>
+    </linearGradient>
+    <g id="link" transform="translate(-6,5) scale(0.25)" stroke="none">
+     <circle cx="0" cy="0" r="17" fill="url(#grad_link)"/>
+     <g fill="#ffffff">
+      <circle cx="0" cy="-9" r="4"/>
+      <rect x="-3" y="-3" width="6" height="15"/>
+     </g>
+    </g>
+
+    <g id="scale" text-anchor="middle" fill="#000000" opacity="0.5">
+      <path d="M -350,-2 V 2  M -340,0 V 1  M -330,0 V 1  M -320,0 V 1  M -310,0 V 1  M -300,-2 V 2  M -290,0 V 1  M -280,0 V 1  M -270,0 V 1  M -260,0 V 1  M -250,-2 V 2  M -240,0 V 1  M -230,0 V 1  M -220,0 V 1  M -210,0 V 1  M -200,-2 V 2  M -190,0 V 1  M -180,0 V 1  M -170,0 V 1  M -160,0 V 1  M -150,-2 V 2  M -140,0 V 1  M -130,0 V 1  M -120,0 V 1  M -110,0 V 1  M -100,-2 V 2  M -90,0 V 1  M -80,0 V 1  M -70,0 V 1  M -60,0 V 1  M -50,-2 V 2  M -40,0 V 1  M -30,0 V 1  M -20,0 V 1  M -10,0 V 1  M 0,-2 V 2  M 10,0 V 1  M 20,0 V 1  M 30,0 V 1  M 40,0 V 1  M 50,-2 V 2  M 60,0 V 1  M 70,0 V 1  M 80,0 V 1  M 90,0 V 1  M 100,-2 V 2  M 110,0 V 1  M 120,0 V 1  M 130,0 V 1  M 140,0 V 1  M 150,-2 V 2  M 160,0 V 1  M 170,0 V 1  M 180,0 V 1  M 190,0 V 1  M 200,-2 V 2  M 210,0 V 1  M 220,0 V 1  M 230,0 V 1  M 240,0 V 1  M 250,-2 V 2  M 260,0 V 1  M 270,0 V 1  M 280,0 V 1  M 290,0 V 1  M 300,-2 V 2  M 310,0 V 1  M 320,0 V 1  M 330,0 V 1  M 340,0 V 1  M 350,-2 V 2  V 0 H -350   M -0.1,-10 H 0.1  M -0.1,-20 H 0.1  M -0.1,-30 H 0.1  M -0.1,-40 H 0.1  M -2,-50 H 1  M -0.1,-60 H 0.1  M -0.1,-70 H 0.1  M -0.1,-80 H 0.1  M -0.1,-90 H 0.1  M -2,-100 H 1  M -0.1,-110 H 0.1  M -0.1,-120 H 0.1  M -0.1,-130 H 0.1  M -0.1,-140 H 0.1  M -2,-150 H 1  M -0.1,-160 H 0.1  M -0.1,-170 H 0.1  M -0.1,-180 H 0.1  M -0.1,-190 H 0.1  M -2,-200 H 1  M -0.1,-210 H 0.1  M -0.1,-220 H 0.1  M -0.1,-230 H 0.1  M -0.1,-240 H 0.1  M -2,-250 H 1  M -0.1,-260 H 0.1  M -0.1,-270 H 0.1  M -0.1,-280 H 0.1  M -0.1,-290 H 0.1  M -2,-300 H 1  M -0.1,-310 H 0.1  M -0.1,-320 H 0.1  M -0.1,-330 H 0.1  M -0.1,-340 H 0.1  M -2,-350 H 1" stroke="#333333" fill="none"/>
+      <g text-anchor="middle" font-size="10">
+        <text x="-350" y="9">350 m</text>
+        <text x="-300" y="9">300 m</text>
+        <text x="-250" y="9">250 m</text>
+        <text x="-200" y="9">200 m</text>
+        <text x="-150" y="9">150 m</text>
+        <text x="-100" y="9">100 m</text>
+        <text x="-50" y="9">50 m</text>
+        <text x="0" y="9">0 m</text>
+        <text x="50" y="9">50 m</text>
+        <text x="100" y="9">100 m</text>
+        <text x="150" y="9">150 m</text>
+        <text x="200" y="9">200 m</text>
+        <text x="250" y="9">250 m</text>
+        <text x="300" y="9">300 m</text>
+        <text x="350" y="9">350 m</text>
+      </g>
+      <use xlink:href="#tick_labels" stroke="#ffffff"/>
+      <g id="tick_labels" text-anchor="end">
+        <text x="-5" y="-47">50 m</text>
+        <text x="-5" y="-97">100 m</text>
+        <text x="-5" y="-147">150 m</text>
+        <text x="-5" y="-197">200 m</text>
+        <text x="-5" y="-247">250 m</text>
+        <text x="-5" y="-297">300 m</text>
+        <text x="-5" y="-347">350 m</text>
+      </g>
+    </g>
+
+   <!--
+    <g id="object00" stroke="#999999" fill="#999999">
+      <path id="bosnian" d="M -330,0 L 0,-220 L 330,0"/>
+      <clipPath id="clip_bosnian"><use xlink:href="#bosnian"/></clipPath>
+      <g clip-path="url(#clip_bosnian)">
+        <use xlink:href="#bosnian" stroke-width="6"/>
+        <use xlink:href="#bosnian" stroke-width="4"/>
+        <use xlink:href="#bosnian" stroke-width="2"/>
+        <use xlink:href="#bosnian"/>
+      </g>
+      <path d="M 0,-220 L 60,-278" class="pointer"/>
+      <text>
+        <tspan x="77" y="-275" text-anchor="end">0.</tspan>
+        <tspan x="77" y="-275" font-weight="bold">Bosnian Pyramid of the Sun (disputed)</tspan>
+        <tspan x="80" dy="8" font-size="8">Visoko, Bosnia &amp; Herzegovina, 12000-500 BC, 220 m</tspan>
+      </text>
+    </g>
+   -->
+    <g id="object12" stroke="#00cc00" fill="#00cc00">
+      <path id="cholula" d="M -225,0 Q -220,-10 -215,-10 H -165 C -155,-10 -125,-40 -115,-40 H -65 C -55,-40 -30,-66 -20,-66 H 20 C 30,-66 47,-45 57,-45 H 76 C 86,-45 115,-20 125,-20 H 185 Q 192,-20 225,0"/>
+      <clipPath id="clip_cholula"><use xlink:href="#cholula"/></clipPath>
+      <g clip-path="url(#clip_cholula)">
+        <use xlink:href="#cholula" stroke-width="6"/>
+        <use xlink:href="#cholula" stroke-width="4"/>
+        <use xlink:href="#cholula" stroke-width="2"/>
+        <use xlink:href="#cholula"/>
+      </g>
+      <path d="M 0,-66 L 96,-126" class="pointer"/>
+      <text>
+        <tspan x="117" y="-123" text-anchor="end">12.</tspan>
+        <tspan x="117" y="-123" font-weight="bold">Great Pyramid of Cholula</tspan>
+        <tspan x="120" dy="8" font-size="8">Cholula, Mexico, c.900, 66 m</tspan>
+      </text>
+    </g>
+    <g id="object08" stroke="#006666" fill="#006666">
+      <path id="qinshihuang" d="M -178.5,0 L -80,-47 H 80 L 178.5,0"/>
+      <clipPath id="clip_qinshihuang"><use xlink:href="#qinshihuang"/></clipPath>
+      <g clip-path="url(#clip_qinshihuang)">
+        <use xlink:href="#qinshihuang" stroke-width="6"/>
+        <use xlink:href="#qinshihuang" stroke-width="4"/>
+        <use xlink:href="#qinshihuang" stroke-width="2"/>
+        <use xlink:href="#qinshihuang"/>
+      </g>
+      <path id="qinshihuang2" d="M -80,-47 L -20,-76 H 20 L 80,-47" stroke-dasharray="1,3"/>
+      <clipPath id="clip_qinshihuang2"><use xlink:href="#qinshihuang2"/></clipPath>
+      <g clip-path="url(#clip_qinshihuang2)" opacity="0.5">
+        <use xlink:href="#qinshihuang2" stroke-width="6"/>
+        <use xlink:href="#qinshihuang2" stroke-width="4"/>
+        <use xlink:href="#qinshihuang2" stroke-width="2"/>
+        <use xlink:href="#qinshihuang2"/>
+      </g>
+      <path d="M 0,-76 L 90,-164" class="pointer"/>
+      <text>
+        <tspan x="107" y="-161" text-anchor="end">8.</tspan>
+        <tspan x="107" y="-161" font-weight="bold">Mount Li/Qin Shi Huang mausoleum</tspan>
+        <tspan x="110" dy="8" font-size="8">Xi'an, China, c.210 BC, 47 m (was 76 m)</tspan>
+      </text>
+    </g>
+
+    <g id="object18" stroke="#9966ff" fill="#9966ff">
+      <path id="ryugyong" d="M -100,0 L -72,-100 H -68 L -65,-90 L -2,-330 H 2 L 65,-90 L 68,-100 H 72 L 100,0"/>
+      <clipPath id="clip_ryugyong"><use xlink:href="#ryugyong"/></clipPath>
+      <g clip-path="url(#clip_ryugyong)">
+        <use xlink:href="#ryugyong" stroke-width="6"/>
+        <use xlink:href="#ryugyong" stroke-width="4"/>
+        <use xlink:href="#ryugyong" stroke-width="2"/>
+        <use xlink:href="#ryugyong"/>
+      </g>
+      <path d="M 0,-330 L 41,-335" class="pointer"/>
+      <text>
+        <tspan x="62" y="-332" text-anchor="end">18.</tspan>
+        <tspan x="62" y="-332" font-weight="bold">Ryugyong Hotel</tspan>
+        <tspan x="65" dy="8" font-size="8">Pyongyang, North Korea, under construction, 330 m</tspan>
+      </text>
+    </g>
+    <g id="object17" stroke="#009999" fill="#009999">
+      <path id="shard" d="M -30,0 L -1,-309 L 1,-309.6 L 30,0"/>
+      <clipPath id="clip_shard"><use xlink:href="#shard"/></clipPath>
+      <g clip-path="url(#clip_shard)">
+        <use xlink:href="#shard" stroke-width="6"/>
+        <use xlink:href="#shard" stroke-width="4"/>
+        <use xlink:href="#shard" stroke-width="2"/>
+        <use xlink:href="#shard"/>
+      </g>
+      <path d="M 0,-309.6 L 46,-316" class="pointer"/>
+      <text>
+        <tspan x="67" y="-313" text-anchor="end">17.</tspan>
+        <tspan x="67" y="-313" font-weight="bold">The Shard</tspan>
+        <tspan x="70" dy="8" font-size="8">London, United Kingdom, 2012, 309.6 m</tspan>
+      </text>
+    </g>
+    <g id="object14" stroke="#0000ff" fill="#0000ff">
+      <path id="transamerica" d="M -26.65,0 L -23,-15 L -12,-130 V -195.4 L -5.5,-199 L -1,-260 H 1 L 5.5,-199 L 12,-195.4 V -130 L 23,-15 L 26.65,0"/>
+      <clipPath id="clip_transamerica"><use xlink:href="#transamerica"/></clipPath>
+      <g clip-path="url(#clip_transamerica)">
+        <use xlink:href="#transamerica" stroke-width="6"/>
+        <use xlink:href="#transamerica" stroke-width="4"/>
+        <use xlink:href="#transamerica" stroke-width="2"/>
+        <use xlink:href="#transamerica"/>
+      </g>
+      <path d="M 0,-260 L 51,-297" class="pointer"/>
+      <text>
+        <tspan x="72" y="-294" text-anchor="end">14.</tspan>
+        <tspan x="72" y="-294" font-weight="bold">Transamerica Pyramid</tspan>
+        <tspan x="75" dy="8" font-size="8">San Francisco, United States of America, 1972, 260 m</tspan>
+      </text>
+    </g>
+    <g id="object05" stroke="#cc6600" fill="#cc6600">
+      <path id="khufu" d="M -115.2,0 -6,-138.8 H 6 L 115.2,0"/>
+      <clipPath id="clip_khufu"><use xlink:href="#khufu"/></clipPath>
+      <g clip-path="url(#clip_khufu)">
+        <use xlink:href="#khufu" stroke-width="6"/>
+        <use xlink:href="#khufu" stroke-width="4"/>
+        <use xlink:href="#khufu" stroke-width="2"/>
+        <use xlink:href="#khufu"/>
+      </g>
+      <path id="khufu2" d="M -6,-138.8 L 0,-146.5 L 6,-138.8" stroke-dasharray="1,3"/>
+      <clipPath id="clip_khufu2"><use xlink:href="#khufu2"/></clipPath>
+      <g clip-path="url(#clip_khufu2)" opacity="0.5">
+        <use xlink:href="#khufu2" stroke-width="6"/>
+        <use xlink:href="#khufu2" stroke-width="4"/>
+        <use xlink:href="#khufu2" stroke-width="2"/>
+        <use xlink:href="#khufu2"/>
+      </g>
+      <path d="M 0,-146.5 L 60,-278" class="pointer"/>
+      <text>
+        <tspan x="77" y="-275" text-anchor="end">5.</tspan>
+        <tspan x="77" y="-275" font-weight="bold">Great Pyramid of Giza/Khufu/Cheops</tspan>
+        <tspan x="80" dy="8" font-size="8">Giza, Egypt, c.2560 BC, 138.8 m (was 146.5 m)</tspan>
+      </text>
+    </g>
+    <g id="object06" stroke="#660000" fill="#660000">
+      <path id="khafre" d="M -107.75,0 L -5,-136.4 H 5 L 107.75,0"/>
+      <clipPath id="clip_khafre"><use xlink:href="#khafre"/></clipPath>
+      <g clip-path="url(#clip_khafre)">
+        <use xlink:href="#khafre" stroke-width="6"/>
+        <use xlink:href="#khafre" stroke-width="4"/>
+        <use xlink:href="#khafre" stroke-width="2"/>
+        <use xlink:href="#khafre"/>
+      </g>
+      <path id="khafre2" d="M -5,-136.4 L 0,-143.5 L 5,-136.4" stroke-dasharray="1,3"/>
+      <clipPath id="clip_khafre2"><use xlink:href="#khafre2"/></clipPath>
+      <g clip-path="url(#clip_khafre2)" opacity="0.5">
+        <use xlink:href="#khafre2" stroke-width="6"/>
+        <use xlink:href="#khafre2" stroke-width="4"/>
+        <use xlink:href="#khafre2" stroke-width="2"/>
+        <use xlink:href="#khafre2"/>
+      </g>
+      <path d="M 0,-143.5 L 65,-259" class="pointer"/>
+      <text>
+        <tspan x="82" y="-256" text-anchor="end">6.</tspan>
+        <tspan x="82" y="-256" font-weight="bold">Pyramid of Khafre/Chefren</tspan>
+        <tspan x="85" dy="8" font-size="8">Giza, Egypt, c.2530 BC, 136.4 m (was 143.5 m)</tspan>
+      </text>
+    </g>
+    <g id="object16" stroke="#000000" fill="#000000">
+      <path id="luxor" d="M -91.5,0 L 0,-111 L 91.5,0"/>
+      <clipPath id="clip_luxor"><use xlink:href="#luxor"/></clipPath>
+      <g clip-path="url(#clip_luxor)">
+        <use xlink:href="#luxor" stroke-width="6"/>
+        <use xlink:href="#luxor" stroke-width="4"/>
+        <use xlink:href="#luxor" stroke-width="2"/>
+        <use xlink:href="#luxor"/>
+      </g>
+      <path d="M 0,-111 L 65,-240" class="pointer"/>
+      <text>
+        <tspan x="87" y="-237" text-anchor="end">16.</tspan>
+        <tspan x="87" y="-237" font-weight="bold">Luxor Las Vegas pyramid</tspan>
+        <tspan x="90" dy="8" font-size="8">Las Vegas, United States of America, 1993, 111 m</tspan>
+      </text>
+    </g>
+    <g id="object04" stroke="#ff0000" fill="#ff0000">
+      <path id="red" d="M -110,0 L 0,-104 L 110,0"/>
+      <clipPath id="clip_red"><use xlink:href="#red"/></clipPath>
+      <g clip-path="url(#clip_red)">
+        <use xlink:href="#red" stroke-width="6"/>
+        <use xlink:href="#red" stroke-width="4"/>
+        <use xlink:href="#red" stroke-width="2"/>
+        <use xlink:href="#red"/>
+      </g>
+      <path d="M 0,-104 L 76,-221" class="pointer"/>
+      <text>
+        <tspan x="92" y="-218" text-anchor="end">4.</tspan>
+        <tspan x="92" y="-218" font-weight="bold">Red/North Pyramid</tspan>
+        <tspan x="95" dy="8" font-size="8">Dahshur, Egypt, c.2580 BC, 104 m</tspan>
+      </text>
+    </g>
+    <g id="object03" stroke="#ff00ff" fill="#ff00ff">
+      <path id="bent" d="M -94.3,0 L -67.85,-37.01 L 0,-101.1 L 67.85,-37.01 L 94.3,0"/>
+      <clipPath id="clip_bent"><use xlink:href="#bent"/></clipPath>
+      <g clip-path="url(#clip_bent)">
+        <use xlink:href="#bent" stroke-width="6"/>
+        <use xlink:href="#bent" stroke-width="4"/>
+        <use xlink:href="#bent" stroke-width="2"/>
+        <use xlink:href="#bent"/>
+      </g>
+      <path d="M 0,-101.1 L 80,-202" class="pointer"/>
+      <text>
+        <tspan x="97" y="-199" text-anchor="end">3.</tspan>
+        <tspan x="97" y="-199" font-weight="bold">Bent Pyramid</tspan>
+        <tspan x="100" dy="8" font-size="8">Dahshur, Egypt, c.2600 BC, 101.1 m</tspan>
+      </text>
+    </g>
+    <g id="object02" stroke="#999900" fill="#666600">
+      <path id="meidum" transform="scale(0.92)" d="M -86,0 C -78,-5 -60,-31 -49,-30.5 C -40,-31 -35,-36 -26.5,-36.5 L -21.5,-55.5 H -17.5 L -15,-64.5 H -11 L -10,-69 Q 5,-73 9.5,-70 L 11,-64.5 H 15 L 17.5,-55.5 H 21.5 L 26.5,-36 C 50,-36 70,-6 86,0"/>
+      <clipPath id="clip_meidum"><use xlink:href="#meidum"/></clipPath>
+      <g clip-path="url(#clip_meidum)">
+        <use xlink:href="#meidum" stroke-width="6"/>
+        <use xlink:href="#meidum" stroke-width="4"/>
+        <use xlink:href="#meidum" stroke-width="2"/>
+        <use xlink:href="#meidum"/>
+      </g>
+      <path id="meidum2" d="M -71,0 L 0,-93.5 L 71,0" stroke-dasharray="1,3"/>
+      <clipPath id="clip_meidum2"><use xlink:href="#meidum2"/></clipPath>
+      <g clip-path="url(#clip_meidum2)" opacity="0.5">
+        <use xlink:href="#meidum2" stroke-width="6"/>
+        <use xlink:href="#meidum2" stroke-width="4"/>
+        <use xlink:href="#meidum2" stroke-width="2"/>
+        <use xlink:href="#meidum2"/>
+      </g>
+      <path d="M 0,-93.5 L 85,-183" class="pointer"/>
+      <text>
+        <tspan x="102" y="-180" text-anchor="end">2.</tspan>
+        <tspan x="102" y="-180" font-weight="bold">Collapsed pyramid at Meidum</tspan>
+        <tspan x="105" dy="8" font-size="8">Meidum, Egypt, c.2600 BC, 65 m (was 93.5 m)</tspan>
+      </text>
+    </g>
+    <g id="object10" stroke="#cc9900" fill="#cc9900">
+      <path id="sun" d="M -112.5,0 L -95,-15 H -90 L -65,-35 H -60 L -35,-55 H -30 L -10,-72 L 0,-75 L 10,-72 L 30,-55 H 35 L 60,-35 H 65 L 90,-15 H 95 L 112.5,0"/>
+      <clipPath id="clip_sun"><use xlink:href="#sun"/></clipPath>
+      <g clip-path="url(#clip_sun)">
+        <use xlink:href="#sun" stroke-width="6"/>
+        <use xlink:href="#sun" stroke-width="4"/>
+        <use xlink:href="#sun" stroke-width="2"/>
+        <use xlink:href="#sun"/>
+      </g>
+      <path d="M 0,-75 L 95,-145" class="pointer"/>
+      <text>
+        <tspan x="112" y="-142" text-anchor="end">10.</tspan>
+        <tspan x="112" y="-142" font-weight="bold">Pyramid of the Sun</tspan>
+        <tspan x="115" dy="8" font-size="8">Teotihuacán, Mexico, c.100, 75 m</tspan>
+      </text>
+    </g>
+    <g id="object07" stroke="#663300" fill="#663300">
+      <path id="menkaure" d="M -3,-61 H 3 M -54.25,0 L 0,-65.5 L 54.25,0"/>
+      <clipPath id="clip_menkaure"><use xlink:href="#menkaure"/></clipPath>
+      <g clip-path="url(#clip_menkaure)">
+        <use xlink:href="#menkaure" stroke-width="6"/>
+        <use xlink:href="#menkaure" stroke-width="4"/>
+        <use xlink:href="#menkaure" stroke-width="2"/>
+        <use xlink:href="#menkaure"/>
+      </g>
+      <path d="M 0,-65.5 L 105,-107" class="pointer"/>
+      <text>
+        <tspan x="122" y="-104" text-anchor="end">7.</tspan>
+        <tspan x="122" y="-104" font-weight="bold">Pyramid of Menkaure/Mycerinus</tspan>
+        <tspan x="125" dy="8" font-size="8">Giza, Egypt, c.2500 BC, 65.5 m</tspan>
+      </text>
+    </g>
+    <g id="object01" stroke="#9900cc" fill="#9900cc">
+      <path id="djoser" d="M -62.635,0 L -60,-10 L -52,-12 L -50,-20 L -42,-22 L -40,-30 L -32,-32 L -30,-40 L -22,-42 L -20,-50 L -12,-52 L -10,-60 L 0,-62 L 10,-60 L 12,-52 L 20,-50 L 22,-42 L 30,-40 L 32,-32 L 40,-30 L 42,-22 L 50,-20 L 52,-12 L 60,-10 L 62.635,0"/>
+      <clipPath id="clip_djoser"><use xlink:href="#djoser"/></clipPath>
+      <g clip-path="url(#clip_djoser)">
+        <use xlink:href="#djoser" stroke-width="6"/>
+        <use xlink:href="#djoser" stroke-width="4"/>
+        <use xlink:href="#djoser" stroke-width="2"/>
+        <use xlink:href="#djoser"/>
+      </g>
+      <path d="M 0,-62.6 L 110,-88" class="pointer"/>
+      <text>
+        <tspan x="127" y="-85" text-anchor="end">1.</tspan>
+        <tspan x="127" y="-85" font-weight="bold">Pyramid of Djoser</tspan>
+        <tspan x="130" dy="8" font-size="8">Saqqara, Egypt, c.2610 BC, 62.6 m</tspan>
+      </text>
+    </g>
+    <g id="object11" stroke="#666666" fill="#666666">
+      <path id="moon" d="M -77.5,0 L -65,-12 H -62 L -47,-25 H -45 L -29,-35 H -25 L -10,-43 H 10 L 25,-35 H 29 L 45,-25 H 47 L 62,-12 H 65 L 77.5,0"/>
+      <clipPath id="clip_moon"><use xlink:href="#moon"/></clipPath>
+      <g clip-path="url(#clip_moon)">
+        <use xlink:href="#moon" stroke-width="6"/>
+        <use xlink:href="#moon" stroke-width="4"/>
+        <use xlink:href="#moon" stroke-width="2"/>
+        <use xlink:href="#moon"/>
+      </g>
+      <path d="M 0,-43 L 111,-69" class="pointer"/>
+      <text>
+        <tspan x="132" y="-66" text-anchor="end">11.</tspan>
+        <tspan x="132" y="-66" font-weight="bold">Pyramid of the Moon</tspan>
+        <tspan x="135" dy="8" font-size="8">Teotihuacán, Mexico, c.300, 43 m</tspan>
+      </text>
+    </g>
+    <g id="object09" stroke="#669900" fill="#669900">
+      <path id="cestius" d="M -14.8,0 L 0,-37 L 14.8,0"/>
+      <clipPath id="clip_cestius"><use xlink:href="#cestius"/></clipPath>
+      <g clip-path="url(#clip_cestius)">
+        <use xlink:href="#cestius" stroke-width="6"/>
+        <use xlink:href="#cestius" stroke-width="4"/>
+        <use xlink:href="#cestius" stroke-width="2"/>
+        <use xlink:href="#cestius"/>
+      </g>
+      <path d="M 0,-37 L 120,-50" class="pointer"/>
+      <text>
+        <tspan x="137" y="-47" text-anchor="end">9.</tspan>
+        <tspan x="137" y="-47" font-weight="bold">Pyramid of Cestius</tspan>
+        <tspan x="140" dy="8" font-size="8">Rome, Italy, c.12 BC, 37 m</tspan>
+      </text>
+    </g>
+    <g id="object13" stroke="#cc0000" fill="#cc0000">
+      <path id="elcastillo" d="M -27.65,0 L -8,-24 H -6 V -30 H 6 V -24 H 8 L 27.65,0"/>
+      <clipPath id="clip_elcastillo"><use xlink:href="#elcastillo"/></clipPath>
+      <g clip-path="url(#clip_elcastillo)">
+        <use xlink:href="#elcastillo" stroke-width="6"/>
+        <use xlink:href="#elcastillo" stroke-width="4"/>
+        <use xlink:href="#elcastillo" stroke-width="2"/>
+        <use xlink:href="#elcastillo"/>
+      </g>
+      <path d="M 0,-30 L 121,-31" class="pointer"/>
+      <text>
+        <tspan x="142" y="-28" text-anchor="end">13.</tspan>
+        <tspan x="142" y="-28" font-weight="bold">El Castillo</tspan>
+        <tspan x="145" dy="7" font-size="8">Chichen Itza, Mexico, c.1000, 30 m</tspan>
+      </text>
+    </g>
+    <g id="object15" stroke="#0066cc" fill="#0066cc">
+      <path id="louvre" d="M -17.5,0 L 0,-20.6 L 17.5,0"/>
+      <clipPath id="clip_louvre"><use xlink:href="#louvre"/></clipPath>
+      <g clip-path="url(#clip_louvre)">
+        <use xlink:href="#louvre" stroke-width="6"/>
+        <use xlink:href="#louvre" stroke-width="4"/>
+        <use xlink:href="#louvre" stroke-width="2"/>
+        <use xlink:href="#louvre"/>
+      </g>
+      <path d="M 0,-20.6 L 126,-12" class="pointer"/>
+      <text>
+        <tspan x="147" y="-9" text-anchor="end">15.</tspan>
+        <tspan x="147" y="-9" font-weight="bold">Louvre Pyramid</tspan>
+        <tspan x="150" dy="7" font-size="8">Paris, France, 1989, 20.6 m</tspan>
+      </text>
+    </g>
+    <set xlink:href="#object00a" attributeName="class" to="active" begin="object00b.click" end="object00a.click"/>
+    <set xlink:href="#object01a" attributeName="class" to="active" begin="object01b.click" end="object01a.click"/>
+    <set xlink:href="#object02a" attributeName="class" to="active" begin="object02b.click" end="object02a.click"/>
+    <set xlink:href="#object03a" attributeName="class" to="active" begin="object03b.click" end="object03a.click"/>
+    <set xlink:href="#object04a" attributeName="class" to="active" begin="object04b.click" end="object04a.click"/>
+    <set xlink:href="#object05a" attributeName="class" to="active" begin="object05b.click" end="object05a.click"/>
+    <set xlink:href="#object06a" attributeName="class" to="active" begin="object06b.click" end="object06a.click"/>
+    <set xlink:href="#object07a" attributeName="class" to="active" begin="object07b.click" end="object07a.click"/>
+    <set xlink:href="#object08a" attributeName="class" to="active" begin="object08b.click" end="object08a.click"/>
+    <set xlink:href="#object09a" attributeName="class" to="active" begin="object09b.click" end="object09a.click"/>
+    <set xlink:href="#object10a" attributeName="class" to="active" begin="object10b.click" end="object10a.click"/>
+    <set xlink:href="#object11a" attributeName="class" to="active" begin="object11b.click" end="object11a.click"/>
+    <set xlink:href="#object12a" attributeName="class" to="active" begin="object12b.click" end="object12a.click"/>
+    <set xlink:href="#object13a" attributeName="class" to="active" begin="object13b.click" end="object13a.click"/>
+    <set xlink:href="#object14a" attributeName="class" to="active" begin="object14b.click" end="object14a.click"/>
+    <set xlink:href="#object15a" attributeName="class" to="active" begin="object15b.click" end="object15a.click"/>
+    <set xlink:href="#object16a" attributeName="class" to="active" begin="object16b.click" end="object16a.click"/>
+    <set xlink:href="#object17a" attributeName="class" to="active" begin="object17b.click" end="object17a.click"/>
+    <set xlink:href="#object18a" attributeName="class" to="active" begin="object18b.click" end="object18a.click"/>
+  </defs>
+
+  <g id="main">
+    <circle class="nofade" cx="0" cy="0" r="9999" fill="#ffffff"/>
+    <g><use id="object00b" class="base" xlink:href="#object00"/><use id="object00a" visibility="hidden" xlink:href="#object00"/><title>Bosnian Pyramid of the Sun (disputed)</title></g>
+    <g><use id="object18b" class="base" xlink:href="#object18"/><use id="object18a" visibility="hidden" xlink:href="#object18"/><title>Ryugyong Hotel</title>                       </g>
+    <g><use id="object17b" class="base" xlink:href="#object17"/><use id="object17a" visibility="hidden" xlink:href="#object17"/><title>The Shard</title>                            </g>
+    <g><use id="object14b" class="base" xlink:href="#object14"/><use id="object14a" visibility="hidden" xlink:href="#object14"/><title>Transamerica Pyramid</title>                 </g>
+    <g><use id="object05b" class="base" xlink:href="#object05"/><use id="object05a" visibility="hidden" xlink:href="#object05"/><title>Great Pyramid of Giza/Khufu/Cheops</title>   </g>
+    <g><use id="object06b" class="base" xlink:href="#object06"/><use id="object06a" visibility="hidden" xlink:href="#object06"/><title>Pyramid of Khafre/Chefren</title>            </g>
+    <g><use id="object16b" class="base" xlink:href="#object16"/><use id="object16a" visibility="hidden" xlink:href="#object16"/><title>Luxor Las Vegas pyramid</title>              </g>
+    <g><use id="object04b" class="base" xlink:href="#object04"/><use id="object04a" visibility="hidden" xlink:href="#object04"/><title>Red/North Pyramid</title>                    </g>
+    <g><use id="object03b" class="base" xlink:href="#object03"/><use id="object03a" visibility="hidden" xlink:href="#object03"/><title>Bent Pyramid</title>                         </g>
+    <g><use id="object02b" class="base" xlink:href="#object02"/><use id="object02a" visibility="hidden" xlink:href="#object02"/><title>Collapsed pyramid at Meidum</title>          </g>
+    <g><use id="object08b" class="base" xlink:href="#object08"/><use id="object08a" visibility="hidden" xlink:href="#object08"/><title>Mount Li/Qin Shi Huang mausoleum</title>     </g>
+    <g><use id="object10b" class="base" xlink:href="#object10"/><use id="object10a" visibility="hidden" xlink:href="#object10"/><title>Pyramid of the Sun</title>                   </g>
+    <g><use id="object12b" class="base" xlink:href="#object12"/><use id="object12a" visibility="hidden" xlink:href="#object12"/><title>Great Pyramid of Cholula</title>             </g>
+    <g><use id="object07b" class="base" xlink:href="#object07"/><use id="object07a" visibility="hidden" xlink:href="#object07"/><title>Pyramid of Menkaure/Mycerinus</title>        </g>
+    <g><use id="object01b" class="base" xlink:href="#object01"/><use id="object01a" visibility="hidden" xlink:href="#object01"/><title>Pyramid of Djoser</title>                    </g>
+    <g><use id="object11b" class="base" xlink:href="#object11"/><use id="object11a" visibility="hidden" xlink:href="#object11"/><title>Pyramid of the Moon</title>                  </g>
+    <g><use id="object09b" class="base" xlink:href="#object09"/><use id="object09a" visibility="hidden" xlink:href="#object09"/><title>Pyramid of Cestius</title>                   </g>
+    <g><use id="object13b" class="base" xlink:href="#object13"/><use id="object13a" visibility="hidden" xlink:href="#object13"/><title>El Castillo</title>                          </g>
+    <g><use id="object15b" class="base" xlink:href="#object15"/><use id="object15a" visibility="hidden" xlink:href="#object15"/><title>Louvre Pyramid</title>                       </g>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Bosnian_pyramid_claims"><use transform="translate( 77,-275)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Ryugyong_Hotel"><use transform="translate( 62,-332)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/The_Shard"><use transform="translate( 67,-313)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Transamerica_Pyramid"><use transform="translate( 72,-294)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Great_Pyramid_of_Giza"><use transform="translate( 77,-275)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Pyramid_of_Khafre"><use transform="translate( 82,-256)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Luxor_Las_Vegas"><use transform="translate( 87,-237)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Red_Pyramid"><use transform="translate( 92,-218)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Bent_Pyramid"><use transform="translate( 97,-199)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Meidum_Pyramid"><use transform="translate(102,-180)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Mausoleum_of_the_First_Qin_Emperor"><use transform="translate(107,-161)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Pyramid_of_the_Sun"><use transform="translate(112,-142)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Great_Pyramid_of_Cholula"><use transform="translate(117,-123)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Pyramid_of_Menkaure"><use transform="translate(122,-104)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Pyramid_of_Djoser"><use transform="translate(127, -85)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Pyramid_of_the_Moon"><use transform="translate(132, -66)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Pyramid_of_Cestius"><use transform="translate(137, -47)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/El_Castillo,_Chichen_Itza"><use transform="translate(142, -28)" xlink:href="#link"/></a>
+    <a target="info" xlink:href="http://wikipedia.org/wiki/Louvre_Pyramid"><use transform="translate(147,  -9)" xlink:href="#link"/></a>
+<!--
+    a:hover { cursor:help; fill-opacity:0.25; }
+-->
+    <use class="nofade" xlink:href="#scale"/>
+  </g>
+</svg>

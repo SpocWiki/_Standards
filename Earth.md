@@ -365,7 +365,6 @@ hashtag_:
 
 ## #has_/text_of_/abstract 
 
-
 > **Earth** is the third planet from the Sun 
 > and the only astronomical object known to harbor life. 
 > This is enabled by Earth being a water world, 
@@ -507,6 +506,52 @@ between [[Earth/Continent/Asia/Indian_Subcontinent/India|India]] and [[../Earth/
 
 Due to [[Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession]] the Location of the Equinoxe moves by a few Meters every year 
 with a Period of 28000 years. 
+
+## Earth Layers 
+
+| Layer Name                      | Altitude Min (km) | Earth Radius (%) | Depth Max (km) | Earth Radius (%) | Mass Fraction (%) | Composition                       | Physical State       | Key Features or Processes                       |
+| ------------------------------- | ----------------: | ---------------: | -------------: | ---------------: | ----------------: | --------------------------------- | -------------------- | ----------------------------------------------- |
+| Moon Orbit                      |            384400 |             6027 |                |                  |                 — | —                                 | Vacuum               | period ≈ 27.3 days                              |
+| High Earth Orbit (HEO)          |             35786 |              563 |         384400 |             6027 |                 — | —                                 | Vacuum               | Deep-space probe and transfer orbits            |
+| Geostationary Orbit (GEO)       |             35786 |              563 |                |                  |                 — | —                                 | Vacuum               | 24 h orbital period                             |
+| Medium Earth Orbit (MEO)        |             2 000 |               31 |          35786 |              563 |                 — | —                                 | Vacuum               | GPS satellites ≈ 20200 km altitude              |
+| Low Earth Orbit (LEO)           |               160 |              2.5 |           2000 |               31 |                 — | —                                 | Vacuum               | ISS orbit ≈ 400 km; orbital period ≈ 90 min     |
+| Exosphere                       |               600 |              9.4 |         10 000 |              156 |           0.00001 | H, He                             | Gas (tenuous)        | Transition to space; satellite drag zone        |
+| Thermosphere                    |                85 |              1.3 |            600 |              9.4 |            0.0001 | N₂, O₂⁺, He                       | Plasma               | Auroras, **ionosphere**, orbital decay region   |
+| Mesosphere                      |                50 |              0.8 |             85 |              1.3 |             0.001 | N₂, O₂                            | Gas                  | Meteoroid ablation; coldest layer (≈ −90 °C)    |
+| Stratosphere                    |                12 |              0.2 |             50 |              0.8 |             0.005 | N₂, O₂, O₃                        | Gas                  | Ozone layer; temperature inversion              |
+| Troposphere                     |                 0 |                0 |             12 |              0.2 |              0.01 | N₂ (78 %), O₂ (21 %), Ar, CO₂     | Gas                  | Weather, clouds, 75 % of air mass               |
+| Cryosphere                      |                 0 |                — |              5 |                — |              0.02 | H₂O (ice)                         | Solid                | Glaciers, ice caps, permafrost                  |
+| Groundwater Zone                |                -5 |                — |          -0.01 |                — |             0.005 | H₂O, minerals                     | Liquid               | Aquifers; subsurface freshwater                 |
+| Epipelagic Zone (Surface Ocean) |              -0.2 |                — |              0 |                — |                 — | H₂O, dissolved gases              | Liquid               | Sunlit layer; photosynthesis zone               |
+| Oceanic Thermocline             |                -1 |                — |           -0.2 |                — |                 — | H₂O (variable salinity)           | Liquid               | Rapid temperature decrease with depth           |
+| Deep Ocean Basin                |               -11 |                0 |             -4 |                0 |              0.02 | H₂O, salts (NaCl, MgCl₂)          | Liquid               | Covers 71 % of surface; mean depth ≈ 3.7 km     |
+| Crust (oceanic)                 |                -7 |             -0.1 |              0 |                0 |               0.1 | Si, Mg, Fe                        | Solid                | Basaltic; ≈ 7 km thick                          |
+| Crust (continental)             |               -35 |             -0.5 |              0 |                0 |               0.4 | Si, Al, K, Na                     | Solid                | Granitic; ≈ 35 km thick                         |
+| Lithosphere                     |              -100 |             -1.6 |              0 |                0 |                 1 | Silicates (Si, Al, Mg)            | Solid (rigid)        | Tectonic plates; brittle–elastic                |
+| Upper Mantle                    |              -660 |              -10 |            -35 |               -1 |              18.3 | Olivine, pyroxene, garnet         | Solid (viscoelastic) | Magma generation; convection source             |
+| Lower Mantle                    |             -2890 |              -45 |           -660 |              -10 |                49 | MgSiO₃ perovskite, ferropericlase | Solid (ductile)      | Deep convection; high-pressure minerals         |
+| Outer Core                      |             -5150 |              -81 |          -2890 |              -45 |              30.8 | Fe, Ni, S, O                      | Liquid               | Generates geomagnetic field; T ≈ 4 000–5 000 °C |
+| Inner Core                      |             -6371 |             -100 |          -5150 |              -81 |               1.7 | Fe, Ni                            | Solid                | Crystalline Fe–Ni; T ≈ 6 000 °C; anisotropic    |
+
+## Earth solid Layers 
+
+| Property                           | Crust                               | Mantle                                | Lithosphere                          | Outer Core                                  | Inner Core                               |
+| ---------------------------------- | ----------------------------------- | ------------------------------------- | ------------------------------------ | ------------------------------------------- | ---------------------------------------- |
+| **Depth from Surface**             | 0–70 km                             | 35–2 890 km                           | 0–100 km                             | 2 890–5 150 km                              | 5 150–6 371 km                           |
+| **Average Thickness**              | 35 km (continental), 7 km (oceanic) | 2 890 km                              | 100 km (average), 50–250 km range    | 2 260 km                                    | 1 220 km                                 |
+| **Volume Fraction of Earth**       | 1 %                                 | 84 %                                  | 2 %                                  | 15 %                                        | 0.7 %                                    |
+| **Mass Fraction of Earth**         | 0.4 %                               | 67.3 %                                | 1 %                                  | 30.8 %                                      | 1.7 %                                    |
+| **Density**                        | 2.7–3.0 g/cm³                       | 3.3–5.7 g/cm³                         | 3.0–3.3 g/cm³                        | 9.9–12.2 g/cm³                              | 12.8–13.1 g/cm³                          |
+| **Temperature Range**              | 0–700 °C                            | 700–3 000 °C                          | 0–1 280 °C                           | 3 000–5 000 °C                              | 5 000–7 000 °C                           |
+| **Major Elements**                 | Si, Al, O, K, Na, Ca                | O, Mg, Si, Fe                         | O, Si, Mg, Fe, Al                    | Fe, Ni, S, O                                | Fe, Ni                                   |
+| **Dominant Minerals or Phases**    | Feldspars, quartz                   | Olivine, pyroxene, garnet, perovskite | Olivine, pyroxene, feldspar          | Molten iron–nickel alloy                    | Solid iron–nickel alloy (hcp Fe–Ni)      |
+| **Physical State**                 | Solid (brittle)                     | Solid (ductile, convecting)           | Solid (rigid)                        | Liquid (fluid, convecting)                  | Solid (crystalline)                      |
+| **Seismic Wave Velocity (P-wave)** | 5.5–7.0 km/s                        | 8.0–14.0 km/s                         | 6.0–8.5 km/s                         | 8.0–10.0 km/s                               | 10.5–11.3 km/s                           |
+| **Composition Type**               | Silicate-aluminum (Sial)            | Silicate-magnesium (Sima)             | Mixed crust + upper mantle silicates | Metallic iron–nickel                        | Metallic iron–nickel                     |
+| **Behavior**                       | Brittle and elastic                 | Plastic and viscous                   | Rigid, moves as plates               | Fluid, convecting, generates magnetic field | Rigid, crystalline, supports shear waves |
+| **Temperature Gradient**           | 25 °C/km                            | 0.3 °C/km                             | 10 °C/km                             | 0.5 °C/km                                   | 0.3 °C/km                                |
+| **Heat Contribution to Surface**   | ≈ 8 %                               | ≈ 67 %                                | ≈ 10 %                               | ≈ 13 %                                      | ≈ 2 %                                    |
 
 
 

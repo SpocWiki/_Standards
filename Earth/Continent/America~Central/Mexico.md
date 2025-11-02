@@ -842,11 +842,6 @@ female_population:
 
 # [[Mexico]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Mexico 
-
-[[Mexico/ReadMe]] 
-
 [	ISO4217-currency_alphabetic	 :: MXN ]
 [	ISO4217-currency_name	 :: Mexican Peso ]
 [	ISO4217-currency_numeric	 :: 484 ]
@@ -915,10 +910,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 #is_/same_as :: [[../../../WikiData/WD~Mexico,96|WD~Mexico,96]] 
 
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Mexico 
+
+[[Mexico/ReadMe]] 
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Mexico
