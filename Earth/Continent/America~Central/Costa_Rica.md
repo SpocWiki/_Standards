@@ -310,11 +310,6 @@ icon: flag-cr
 
 # [[Costa_Rica]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Costa_Rica 
-
-[[Costa_Rica/ReadMe]] 
-
 [	ISO4217-currency_alphabetic	 :: CRC ]
 [	ISO4217-currency_name	 :: Costa Rican Colon ]
 [	ISO4217-currency_numeric	 :: 188 ]
@@ -382,10 +377,14 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 [ISO3::CRI] 
 
 #is_/same_as :: [[../../../WikiData/WD~Costa_Rica,800|WD~Costa_Rica,800]] 
+#is_/different_from :: [[../America~Caribbean/Greater_Antilles/Puerto_Rico|Puerto_Rico]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Costa_Rica 
+
+[[Costa_Rica/ReadMe]] 
 
 ## #has_/map  
-
-
 
 ```leaflet
 id: Costa Rica

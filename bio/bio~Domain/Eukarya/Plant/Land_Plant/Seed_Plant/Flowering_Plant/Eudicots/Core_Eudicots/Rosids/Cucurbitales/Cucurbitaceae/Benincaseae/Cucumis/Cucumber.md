@@ -97,7 +97,7 @@ Common_Procurement_Vocabulary_code: 03221270-9
 
 # [[Cucumber]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Cucumis_sativus,23425|WD~Cucumis_sativus,23425]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Cucumis_sativus,23425|WD~Cucumis_sativus,23425]] 
 
 ## #has_/text_of_/abstract 
 
