@@ -7,7 +7,7 @@ aliases:
 #is_/similar_to :: [[Tool(Band)]] 
 #is_/similar_to :: [[Meshuggah(Band)]] 
 #is_/similar_to :: [[Opeth]] 
-#is_/similar_to :: [[../../../../../../../_private/Society/Communication/Media/Music.internal/genre/Music-Genre~Progressive_Rock/Dream_Theater]] 
+#is_/similar_to :: [[../../Music_Genre/Progressive_Rock/Dream_Theater]] 
 #is_/similar_to :: [[Deftones]] 
 
 #has_/text_of_/genre :: [[../../../../../../../_Standards/Society/Communication/Media/Music/Music_Genre/Jazz]] 
