@@ -539,6 +539,8 @@ X_Twitter_username:
 [ISO2::CA]
 [ISO3::CAN]  
 
+#is_/same_as :: [[../../../WikiData/WD~Canada,16|WD~Canada,16]] 
+
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Canada)
 into a Subfolder named `Canada`, so that this Link into the Sub-Repository works: [[Canada/ReadMe]] 
