@@ -21,8 +21,8 @@ described_at_URL: https://leanlogic.online/glossary/spirit
 # [[Mood]] 
 
 #is_/same_as :: [[WD~Mood,331769]] 
-#is_/similar_to :: [[Emotion]] 
-#is_/similar_to :: [[Emotion]] 
+#is_/similar_to :: [[Affect/Emotion]] 
+#is_/similar_to :: [[Affect/Emotion]] 
 
 ## #has_/text_of_/abstract 
 

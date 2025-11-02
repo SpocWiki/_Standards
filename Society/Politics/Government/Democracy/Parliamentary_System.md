@@ -15,6 +15,7 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Sistema%20parlamen
 
 # [[Parliamentary_System]] 
 
+#is_/different_from :: [[Presidential_System|Presidential_System]]  
 #is_/same_as :: [[WD~Parliamentary_system,166747]] 
 
 ## #has_/text_of_/abstract 

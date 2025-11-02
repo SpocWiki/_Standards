@@ -1,7 +1,51 @@
+---
+aliases:
+has_id_wikidata: Q31431
+taxon_common_name:
+  - papegøyefugler
+  - papige
+  - psitaciformes
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
+has_use:
+  - "[[_Standards/WikiData/WD~parrot,15548309]]"
+  - "[[_Standards/WikiData/WD~parakeet,8329]]"
+parent_taxon: "[[_Standards/WikiData/WD~Psittacimorphae,19962355]]"
+studied_by: "[[_Standards/WikiData/WD~psittacology,115570313]]"
+start_time: -50000000-01-01T00:00:00Z
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_range: "[[_Standards/WikiData/WD~Brazil,155]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "177404"
+OmegaWiki_Defined_Meaning: "374495"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ara%20ararauna%20Luc%20Viatour.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Strigops%20habroptilus%201.jpg
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Parrot%20montage.jpg
+Know_Your_Meme_slug: parrots
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Amazona%20aestiva%20-The%20Parrot%20Zoo%2C%20Friskney%2C%20Lincolnshire%2C%20England%20-laughing-8a.ogv
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Joy%20sagar%20Murmu-%E1%B1%A2%E1%B1%A4%E1%B1%A8%E1%B1%A9.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Q31431-ar.ogg
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Parrot%20range.png
+MCN_code: 0106.32.00
+EPPO_Code: 1PSITO
+MeSH_tree_code: B01.050.150.900.248.710
+UMLS_CUI: C0033852
+NBN_System_Key: NBNSYS0000160823
+Commons_gallery: Psittaciformes
+Commons_category: Psittaciformes
+taxon_name: Psittaciformes
+---
 
 # [[Psittaciformes]] 
 
-
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Psittaciformes,31431|WD~Psittaciformes,31431]] 
 
 ## #has_/text_of_/abstract 
 

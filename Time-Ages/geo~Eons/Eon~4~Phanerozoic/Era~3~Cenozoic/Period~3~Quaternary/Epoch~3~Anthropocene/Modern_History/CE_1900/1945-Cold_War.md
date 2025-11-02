@@ -59,7 +59,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Cold_War,27627838]]'
 > that started in 1947, two years after the end of World War II and lasted to 1991, 
 > the fall of the Soviet Union. 
 > The signing of the Belavezha Accords on December 8, 1991, 
-> which effectively dissolved the [[1922-Soviet_Union-1991]]. 
+> which effectively dissolved the [[1922-Soviet_Union+1991]]. 
 > This was followed by 
 > - the resignation of Soviet President Mikhail Gorbachev on December 25, 1991, and 
 > - the lowering of the Soviet flag over the Kremlin in Moscow on the same day.

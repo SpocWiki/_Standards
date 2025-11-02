@@ -18,7 +18,7 @@ aliases:
 > 2. [[Greed]], 
 > 3. [[Wrath]], 
 > 4.[[../../../../../../Life/Psychological_Resilience/Envy]]], 
-> 5. [[../../../../../bio/Psychology/Emotion/Lust]], 
+> 5. [[../../../../../bio/Psychology/Affect/Emotion/Lust]], 
 > 6. [[Gluttony]] and 
 > 7. [[Sloth]]. 
 >

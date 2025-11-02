@@ -542,7 +542,7 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 > was the Karanovo culture (6,500 BC). 
 > In the 6th to 3rd century BC, 
 > the region was a battleground for ancient Thracians, Persians, Celts and Macedonians; 
-> stability came when the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9972-Roman_Empire|Roman Empire]] conquered the region in AD 45. 
+> stability came when the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395|Roman Empire]] conquered the region in AD 45. 
 > 
 > After the Roman state splintered, tribal invasions in the region resumed. 
 > Around the 6th century, these territories were settled by the early Slavs. 

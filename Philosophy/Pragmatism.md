@@ -1,41 +1,63 @@
 ---
 aliases:
-- Pragmatism
+  - Pragmatism
+has_id_wikidata: Q126692
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
-has_Template: '[[Extract~Note~Template]]'
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
 has_time_started: 2025-04-13
 isDeleted: false
 isReadOnly: false
 keywords: Pragmatism
 lang: en
-layout: 
+layout:
 license: (c)copyrighted
 linkTitle: Pragmatism
 publish: false
-publishDate: 
+publishDate:
 tags:
-- Pragmatism
-- excalidraw
+  - Pragmatism
+  - excalidraw
 title: Pragmatism
 type: private_note
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Pragmatism,4133192]]"
+  - "[[_Standards/WikiData/WD~Pragmatisme,7237646]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]"
+  - "[[_Standards/WikiData/WD~ideology,7257]]"
+practiced_by: "[[_Standards/WikiData/WD~pragmatist,16263353]]"
+inspired_by: "[[_Standards/WikiData/WD~Q47471464,47471464]]"
+subclass_of: "[[_Standards/WikiData/WD~philosophy,5891]]"
+Dewey_Decimal_Classification:
+  - "144.3"
+  - "370.12"
+PhilPapers_topic: pragmatism
+Commons_category: Pragmatism
 ---
 
 # [[Pragmatism]] 
 
 #is_/part_of :: [[Pragmatism]] 
+#is_/same_as :: [[../WikiData/WD~Pragmatism,126692|WD~Pragmatism,126692]] 
 
 ## #has_/text_of_/abstract 
 
-> **Pragmatism** is a philosophical tradition that views language and thought as tools for prediction, 
-> problem solving, and action, rather than describing, representing, or mirroring reality. 
+> **Pragmatism** is a philosophical tradition that views language and thought 
+> as **tools** for prediction, problem solving, and action, 
+> rather than describing, representing, or mirroring **reality**. 
+> 
 > Pragmatists contend that most philosophical topics—
 > such as the nature of knowledge, language, concepts, meaning, belief, and science—
 > are all best viewed in terms of their practical uses and successes.
