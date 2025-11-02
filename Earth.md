@@ -505,7 +505,7 @@ Earth ecliptic Plane is inclined by 23.43472° (23.5°) which results in the sea
 between northern and southern 2609 km zum Äquator
 between [[Earth/Continent/Asia/Indian_Subcontinent/India|India]] and [[../Earth/Continent/Australasia/Australia|Australia]] resp. [[../Earth/Continent/America~Central|America~Central]] and [[../Earth/Continent/America~South/Brazil|Brazil]] 
 
-Due to [[Precession]] the Location of the Equinoxe moves by a few Meters every year 
+Due to [[Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession]] the Location of the Equinoxe moves by a few Meters every year 
 with a Period of 28000 years. 
 
 

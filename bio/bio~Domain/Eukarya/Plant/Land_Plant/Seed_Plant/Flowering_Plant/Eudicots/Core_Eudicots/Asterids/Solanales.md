@@ -1,8 +1,9 @@
 ---
 aliases:
-- Polemoniales
-- Solanales
+  - Polemoniales
+  - Solanales
 title: Solanales
+has_id_wikidata: Q60790273
 ---
 
 # [[Solanales]] 
@@ -10,6 +11,8 @@ title: Solanales
 
 ![Calystegia dahurica](Solanales/Calystegia_dahurica.jpg) 
 ![Physalis_crassifolia](Solanales/Physalis_crassifolia.jpg)  
+
+#is_/same_as :: [[../../../../../../../../../../_Standards/WikiData/WD~Solanales,60790273|WD~Solanales,60790273]] 
 
 ## #has_/text_of_/abstract 
 
