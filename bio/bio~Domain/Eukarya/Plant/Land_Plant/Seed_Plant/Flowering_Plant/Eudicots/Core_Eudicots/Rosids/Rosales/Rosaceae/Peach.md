@@ -114,7 +114,7 @@ water_footprint: 910
 # [[Peach]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Peach,13189|WD~Peach,13189]]
-#is_/similar_to :: [[Apricot]]  
+#is_/similar_to :: [[../../../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit)]]  
 
 ## #has_/text_of_/abstract 
 

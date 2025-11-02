@@ -38,7 +38,7 @@ video:
 
 # [[Proof(Math)]] 
 
-#is_/same_as :: [[../_Standards/WikiData/WD~proof_technique,105530558|WD~proof_technique,105530558]] 
+#is_/same_as :: [[../WikiData/WD~proof_technique,105530558|WD~proof_technique,105530558]]  
 #is_/same_as :: [[../../WikiData/WD~Mathematical_proof,11538|WD~Mathematical_proof,11538]] 
 
 ## #has_/text_of_/abstract 

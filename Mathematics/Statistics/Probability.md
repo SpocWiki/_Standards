@@ -58,11 +58,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_probability,7112704]]'
 
 ## #has_/text_of_/abstract 
 
-> **Probability** is the branch of mathematics and statistics concerning events and numerical descriptions of how likely they are to occur.  The probability of an event is a number between 0 and 1; the larger the probability, the more likely an event is to occur. This number is often expressed as a percentage (%), ranging from 0% to 100%. A simple example is the tossing of a fair (unbiased) coin. Since the coin is fair, the two outcomes ("heads" and "tails") are both equally probable; the probability of "heads" equals the probability of "tails"; and since no other outcomes are possible, the probability of either "heads" or "tails" is 1/2 (which could also be written as 0.5 or 50%).
+> **Probability** is the branch of mathematics and statistics concerning events and numerical descriptions of how likely they are to occur. 
+> The probability of an event is a number between 0 and 1; 
+> the larger the probability, the more likely an event is to occur. 
+> 
+> This number is often expressed as a percentage (%), ranging from 0% to 100%. 
+> A simple example is the tossing of a fair (unbiased) coin. 
+> Since the coin is fair, the two outcomes ("heads" and "tails") are both equally probable; the probability of "heads" equals the probability of "tails"; and since no other outcomes are possible, the probability of either "heads" or "tails" is 1/2 (which could also be written as 0.5 or 50%).
 >
 > These concepts have been given an axiomatic mathematical formalization in probability theory, which is used widely in areas of study such as statistics, mathematics, science, finance, gambling, artificial intelligence, machine learning, computer science, game theory, and philosophy to, for example, draw inferences about the expected frequency of events. Probability theory is also used to describe the underlying mechanics and regularities of complex systems.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Probability)
+> [Wikipedia](https://en.wikipedia.org/wiki/Probability) 
 
 
 ## Confidential Links & Embeds: 
