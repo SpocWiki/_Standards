@@ -26,12 +26,13 @@ title: is_an_emergency Class
 type: Type
 ---
 
-Class of all emergencys.
+Class of all emergencies.
 
 Tag Instances like this: 
 #is_an_/emergency
 
-A specific branch of medical science that deals with the evaluation and initial treatment of medical conditions caused by trauma or sudden illness.
+A specific branch of medical science that deals with the evaluation and initial treatment of 
+medical conditions caused by trauma or sudden illness.
 
 [ #is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]] ]
 
