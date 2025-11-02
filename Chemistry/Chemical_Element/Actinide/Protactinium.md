@@ -51,14 +51,11 @@ Unicode_character: 鏷
 UNII: 0S6855V29M
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Protactinium,1109]] 
-
+# [[Protactinium]]
 
 #chemic/Element 
 [GroupName::Actinide-Group]
 [Group:[[../Actinide]]
-
-
 
 [Name-en::Protactinium]
 [Name-de::Protactinium]
@@ -78,8 +75,9 @@ UNII: 0S6855V29M
 [FormEnergy-kj-mol::0]
 (PeriodNo::7)
 (GroupNo::25)
-[]
 (Charge-e::91)
+
+#is_/same_as :: [[../../../WikiData/WD~Protactinium,1109]] 
 
 
 

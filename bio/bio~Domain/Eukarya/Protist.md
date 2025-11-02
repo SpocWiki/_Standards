@@ -1,18 +1,117 @@
 ---
 aliases:
-- Protists
-- protoctist
-- Protoctista
-- Protista
-- protist
-title: "The other protists"
+  - Protists
+  - protoctist
+  - Protoctista
+  - Protista
+  - protist
+title: The other protists
+has_id_wikidata: Q10892
+taxon_common_name:
+  - Միաբջիջներ
+  - Պրոտոզոաներ
+  - Պրոտոզոններ
+  - Protistas
+  - Protisto
+  - Protisti
+  - პროტისტები
+  - Споралылар
+  - បឋមត្ថិកសត្វ
+  - 원생생물
+  - Protistai
+  - protisti
+  - Протисти
+  - പ്രോട്ടിസ്റ്റ
+  - प्रोटिस्टा
+  - Protister
+  - Protisten
+  - Protistar
+  - Protisty
+  - پروٹسٹ
+  - Ch'ulla kawsaykuq
+  - Protiste
+  - Протисты / Простейшие
+  - Протистар
+  - ප්රෝටිස්ටා රාජධානිය
+  - protisti
+  - Urdjur / Protozoer / Protister
+  - அதிநுண்ணுயிரி
+  - ప్రోటిస్టా
+  - โปรติสต์
+  - Meʻamoʻuimuʻa
+  - اولانیات
+  - Protistad
+  - Sinh vật nguyên sinh
+  - פראטיסטן
+  - 原生生物
+  - 原生生物
+  - 原生生物界
+  - تکیاختگان
+  - Protisten
+  - Algloomad
+  - Frumdýr
+  - Prvoky
+  - Найпростіші
+  - 原生生物
+  - Protiste
+  - طلائعيات
+  - প্ৰটিষ্টা
+  - İbtidailər
+  - Протистар
+  - Prótisten
+  - Пратысты
+  - Пратысты
+  - Протиста
+  - প্রোটিস্ট
+  - Protisti
+  - Protist
+  - شانشینی پێشەنگییەکان
+  - protisti
+  - prvoci / Protisté
+  - Protosoa
+  - Protozo / Protister / Protist
+  - Πρώτιστα
+  - Protistoj
+  - protobacteria
+  - Protistid
+  - Alkueliöt
+  - Protistes
+  - Uurdiarten
+  - Protischte
+  - פרוטיסטים
+  - प्रोटिस्ट
+  - Protisti
+  - Pwotis
+  - protiszták
+  - Véglények
+NBN_System_Key: NBNSYS0100004887
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+studied_by: "[[_Standards/WikiData/WD~protistology,2467781]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~grade,2612572]]"
+  - "[[_Standards/WikiData/WD~paraphyletic_group,58051350]]"
+  - "[[_Standards/WikiData/WD~taxon,16521]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Protist_structures,20346012]]"
+inception: -2100000000-01-01T00:00:00Z
+subclass_of: "[[_Standards/WikiData/WD~organism,7239]]"
+taxon_rank: "[[_Standards/WikiData/WD~kingdom,36732]]"
+Commons_category: Protista
+taxon_name: Protista
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Protist%20collage.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/DysnectesBrevis.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F.wav
+EPPO_Code: 1PROTK
 ---
 
-# Other protists 
+# [[Protist]] 
 
 #is_a/bio-Kingdom 
 #is_a :: [[../../Taxon_Rank/bio~Kingdom|bio~Kingdom]]  
-
+#is_/same_as :: [[../../../WikiData/WD~Protist,10892|WD~Protist,10892]] 
 
 ![Entosiphon sulcatum](Protist/Entosiphon_Sulcatum.jpg)  ![Myxomycetes Slime](Protist/slime(Myxomycetes).jpg) 
 
@@ -24,7 +123,8 @@ title: "The other protists"
 > **Protists** do not form a natural group, or clade, but are a paraphyletic grouping of 
 > all descendants of the last eukaryotic common ancestor excluding land plants, animals, and fungi.
 >
-> Protists were historically regarded as a separate taxonomic kingdom known as Protista or Protoctista. 
+> Protists were 
+> historically regarded as a separate taxonomic kingdom known as Protista or Protoctista. 
 > 
 > With the advent of phylogenetic analysis and electron microscopy studies, 
 > the use of Protista as a formal taxon was gradually abandoned. 

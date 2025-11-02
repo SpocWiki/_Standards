@@ -44,8 +44,8 @@ taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 > They have a worldwide range but are most diverse in the Northern Hemisphere.
 >
 > Many economically important products come from the Rosaceae, including various edible fruits, 
-> such as :: [[Rosaceae/Appletree|apples]]], [[Rosaceae/Pear|pears]], [[Rosaceae/Quince|quinces]], [[Rosaceae/Apricot|apricots]], [[Rosaceae/Plum|plums]], [[Rosaceae/Cherry|cherries]], [[Rosaceae/Peach|peaches]], [[Raspberry|raspberries]], [[Rosaceae/Blackberry|blackberries]], 
-> loquats, [[Rosaceae/Strawberry|strawberries]], rose hips, hawthorns, and [[Rosaceae/Almond|almonds]]. 
+> such as :: [[Rosaceae/Appletree|apples]]], [[Rosaceae/Pear|pears]], [[Rosaceae/Quince|quinces]], [[../../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit)|apricots]], [[Rosaceae/Plum|plums]], [[Rosaceae/Cherry|cherries]], [[Rosaceae/Peach|peaches]], [[Raspberry|raspberries]], [[Rosaceae/Blackberry|blackberries]], 
+> loquats, [[Rosaceae/Strawberry|strawberries]], rose hips, hawthorns, and [[Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Almond|almonds]]. 
 > 
 > The family also includes popular ornamental trees and shrubs, 
 > such as roses, meadowsweets, rowans, firethorns, and photinias.
@@ -56,7 +56,7 @@ taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 > - Crataegus (260), 
 > - Cotoneaster (260), 
 > - Rubus (250), and 
-> - Prunus (200), which contains the [[Rosaceae/Plum|plums]], [[Rosaceae/Cherry|cherries]], [[Rosaceae/Peach|peaches]], apricots, and [[Rosaceae/Almond|almonds]]. 
+> - Prunus (200), which contains the [[Rosaceae/Plum|plums]], [[Rosaceae/Cherry|cherries]], [[Rosaceae/Peach|peaches]], apricots, and [[Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Almond|almonds]]. 
 > 
 > However, all of these numbers should be seen as estimates—much taxonomic work remains.
 >

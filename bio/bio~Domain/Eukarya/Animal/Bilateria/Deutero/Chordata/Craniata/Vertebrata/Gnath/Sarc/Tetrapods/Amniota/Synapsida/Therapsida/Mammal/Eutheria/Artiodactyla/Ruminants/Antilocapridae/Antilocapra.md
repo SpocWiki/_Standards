@@ -1,14 +1,27 @@
 ---
-title: "Antilocapra americana"
+title: Antilocapra americana
+aliases:
+  - antelope-goat
+has_id_wikidata: "19817351"
 ---
 
-# [[Antilocapra]] americana
+# [[Antilocapra]] 
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Antilocapra,19817351|WD~Antilocapra,19817351]] 
 
 ## Pronghorn, American antelope 
 
 ![](Antilocapra/pronghornherd.jpg)
 
+## #has_/text_of_/abstract 
 
+> **Antilocapra** is a genus of the family Antilocapridae, which contains only a single living species, the pronghorn (Antilocapra americana). 
+> Another species, the Pacific pronghorn, lived in California during the Late Pleistocene and survived as recently as 12,000 BP. 
+> The name means "antelope-goat".
+>
+> Antilocapra is the only surviving genus of pronghorn, though three other genera  (Capromeryx, Stockoceros and Tetrameryx) existed in North America up until the end of the Pleistocene.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Antilocapra)
 ## Phylogeny 
 
 -   « Ancestral Groups  

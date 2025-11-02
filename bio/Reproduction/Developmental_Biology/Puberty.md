@@ -1,0 +1,43 @@
+---
+aliases:
+  - Pubertät
+has_id_wikidata: Q101065
+instance_of:
+  - "[[_Standards/WikiData/WD~phase_of_human_life,785260]]"
+  - "[[_Standards/WikiData/WD~physiological_condition,7189713]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+has_characteristic: "[[_Standards/WikiData/WD~secondary_sex_characteristic,1784017]]"
+subclass_of: "[[_Standards/WikiData/WD~development_of_the_human_body,2347178]]"
+facet_of: "[[_Standards/WikiData/WD~pubescent,114047877]]"
+Commons_category: Puberty
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Pubertaro.jpg
+UMLS_CUI: C0034011
+MeSH_tree_code:
+  - G08.686.760
+  - G08.686.841.374
+---
+
+# [[Puberty]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Puberty,101065|WD~Puberty,101065]]  
+
+## #has_/text_of_/abstract 
+
+> **Puberty** is the process of physical changes through which a child's body 
+> matures into an adult body capable of sexual reproduction. 
+> 
+> It is initiated by hormonal signals from the brain to the gonads: 
+> the ovaries in a female, the testicles in a male. 
+> 
+> In response to the signals, the gonads produce hormones that stimulate libido 
+> and the growth, function, and transformation of the brain, bones, muscle, blood, skin, hair, breasts, and sex organs. 
+> 
+> Physical growth—height and weight—accelerates in the first half of puberty 
+> and is completed when an adult body has been developed. Before puberty, the external sex organs, known as primary sexual characteristics, are sex characteristics that distinguish males and females. Puberty leads to sexual dimorphism through the development of the secondary sex characteristics, which further distinguish the sexes.
+>
+> On average, females begin puberty at age 10½ and complete puberty at ages 15–17; males begin at ages 11½–12 and complete puberty at ages 16–17. The major landmark of puberty for females is menarche, the onset of menstruation, which occurs on average around age 12½. For males, first ejaculation, spermarche, occurs on average at age 13. In the 21st century, the average age at which children, especially females, reach specific markers of puberty is lower compared to the 19th century, when it was 15 for females and 17 for males (with age at first periods for females and voice-breaks for males being used as examples). This can be due to any number of factors, including improved nutrition resulting in rapid body growth, increased weight and fat deposition, or exposure to endocrine disruptors such as xenoestrogens, which can at times be due to food consumption or other environmental factors. However, more modern archeological research suggests that the rate of puberty as it occurs now is comparable to other time periods. Growth spurts began at around 10–12, but markers of later stages of puberty such as menarche had delays that correlated with severe environmental conditions such as poverty, poor nutrition, and air pollution. Puberty that starts earlier than usual is known as precocious puberty, and puberty which starts later than usual is known as delayed puberty.
+>
+> Notable among the morphologic changes in size, shape, composition, and functioning of the pubertal body, is the development of secondary sex characteristics, the "filling in" of the child's body; from girl to woman, from boy to man. Derived from the Latin puberatum (age of maturity), the word puberty describes the physical changes to sexual maturation, not the psychosocial and cultural maturation denoted by the term adolescent development in Western culture, wherein adolescence is the period of mental transition from childhood to adulthood, which overlaps much of the body's period of puberty.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Puberty) 
+

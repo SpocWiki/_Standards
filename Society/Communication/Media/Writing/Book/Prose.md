@@ -14,6 +14,7 @@ subclass_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
 
 # [[Prose]] 
 
+#is_/same_as :: [[../../../../../WikiData/WD~Prose,676|WD~Prose,676]] 
 
 ## #has_/text_of_/abstract 
 
