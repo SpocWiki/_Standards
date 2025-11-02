@@ -29,7 +29,7 @@ Krugosvet_article: gumanitarnye_nauki/filosofiya/ALTRUIZM.html
 
 # [[Altruism]] 
 
-#is_/same_as :: [[../WikiData/WD~Altruism,167323]] 
+#is_/same_as :: [[../../WikiData/WD~Altruism,167323]] 
 
 ## #has_/text_of_/abstract 
 
