@@ -158,7 +158,7 @@ Libris_URI: 1zcf88vk3gb8kvv
 > Marcus Tullius **Cicero** (SISS-ə-roh; Latin: [ˈmaːrkʊs ˈtʊlli.ʊs ˈkɪkɛroː]; 3 January 106 BC – 7 December 43 BC) 
 > was a Roman statesman, lawyer, scholar, philosopher, orator, writer and Academic skeptic, 
 > who tried to uphold optimate principles during the political crises 
-> that led to the establishment of the [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9972-Roman_Empire|Roman Empire]]. 
+> that led to the establishment of the [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395|Roman Empire]]. 
 > 
 > His extensive writings include treatises on rhetoric, philosophy and politics. 
 > He is considered one of Rome's greatest orators and prose stylists 
@@ -206,7 +206,7 @@ Libris_URI: 1zcf88vk3gb8kvv
 > 
 > His works rank among the most influential in global culture, 
 > and today still constitute one of the most important bodies of primary material 
-> for the writing and revision of Roman history, especially the last days of the [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic|Roman Republic]].
+> for the writing and revision of Roman history, especially the last days of the [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026|Roman Republic]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cicero) 
 
