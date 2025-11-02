@@ -43,7 +43,16 @@ PhilPapers_topic: representative-democracy
 ## #has_/text_of_/abstract 
 
 > Representative democracy, also known as indirect democracy or electoral democracy, 
-> is a type of democracy where elected delegates  represent a group of people, in contrast to direct democracy. Nearly all modern Western-style democracies function as some type of representative democracy: for example, the United Kingdom (a unitary parliamentary constitutional monarchy), Germany (a federal parliamentary republic), France (a unitary semi-presidential republic), and the United States (a federal presidential republic). Unlike liberal democracy, a representative democracy may have de facto multiparty and free and fair elections, but may not have a fully developed rule of law and additional individual and minority rights beyond the electoral sphere.
+> is a type of democracy where elected delegates  represent a group of people, 
+> in contrast to direct democracy. 
+> 
+> Nearly all modern Western-style democracies function as 
+> some type of representative democracy: 
+> for example, the United Kingdom (a unitary parliamentary constitutional monarchy), 
+> Germany (a federal parliamentary republic), France (a unitary semi-presidential republic), 
+> and the United States (a federal presidential republic). 
+> 
+> Unlike liberal democracy, a representative democracy may have de facto multiparty and free and fair elections, but may not have a fully developed rule of law and additional individual and minority rights beyond the electoral sphere.
 >
 > Representative democracy places power in the hands of representatives who are elected by the people. Political parties often become central to this form of democracy if electoral systems require or encourage voters to vote for political parties or for candidates associated with political parties (as opposed to voting for individual representatives). Some political theorists (including Robert Dahl, Gregory Houston, and Ian Liebenberg) have described representative democracy as polyarchy.
 >
