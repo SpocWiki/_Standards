@@ -1,13 +1,37 @@
 ---
 aliases:
-- Pycnogonida
-- Pantopoda
-- "Sea spider"
-- "Sea spiders"
+  - Pycnogonida
+  - Pantopoda
+  - Sea spider
+  - Sea spiders
 title: Pycnogonida
+has_id_wikidata: Q19106
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+homonymous_taxon: "[[_Standards/WikiData/WD~Pycnogonida,119166895]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
+ITIS_TSN: "83545"
+Commons_category: Pycnogonida
+taxon_name: Pycnogonida
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/20200205%20Pycnogonida%20Pantopoda%20morphology.png
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Nymphon%20maculatum%202011-721%20%281%29%20%28cropped%29.jpg
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pycnogonida%20collage.png
+EPPO_Code: 1PYCNC
+UMLS_CUI: C1020030
+taxon_common_name:
+  - havedderkopper
+  - Zeespinnen
 ---
 
 # [[Sea_Spider]]
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Pycnogonida,19106|WD~Pycnogonida,19106]] 
 
 Sea spiders, Pantopoda 
 

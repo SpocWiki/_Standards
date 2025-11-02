@@ -301,12 +301,6 @@ icon: flag-qa
 
 # [[Qatar]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Qatar 
-
-[[Qatar/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: QAR ]
 [	ISO4217-currency_name	 :: Qatari Rial ]
 [	ISO4217-currency_numeric	 :: 634 ]
@@ -370,14 +364,18 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 634 ]
 
-
-
 [ISO2::QA]
 [ISO3::QAT] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Qatar,846|WD~Qatar,846]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Qatar 
+
+[[Qatar/ReadMe]] 
+
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Qatar
@@ -386,6 +384,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Qatar//
 markerFolder: ./Qatar/
+coordinates: [[Qatar]] 
+markerFile: [[Qatar]] 
+defaultZoom: 11 
 ```
 
 [name-en::Qatar]

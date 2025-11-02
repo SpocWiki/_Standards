@@ -29,9 +29,9 @@ time_of_discovery_or_invention: 1962-01-01T00:00:00Z
 ## #has_/text_of_/abstract 
 
 > In particle physics, a **Hadron** is a composite subatomic particle 
-> made of two or more quarks held together by the strong nuclear force. 
+> made of two or more quarks held together by the [[../../Fundamental_Interaction/Strong_Interaction|strong nuclear force]]. 
 > 
-> Pronounced  , the name is derived from Ancient Greek  ἁδρός (hadrós) 'stout, thick'. 
+> Pronounced, the name is derived from Ancient Greek  ἁδρός (hadrós) 'stout, thick'. 
 > They are analogous to molecules, which are held together by the electric force. 
 > Most of the mass of ordinary matter comes from two hadrons: the proton and the neutron, 
 > while most of the mass of the protons and neutrons is in turn 
@@ -40,7 +40,17 @@ time_of_discovery_or_invention: 1962-01-01T00:00:00Z
 > Hadrons are categorized into two broad families: 
 > - baryons, made of an odd number of quarks (usually three), 
 > - and mesons, made of an even number of quarks (usually two: one quark and one antiquark). 
-> Protons and neutrons (which make the majority of the mass of an atom) are examples of baryons; pions are an example of a meson. A tetraquark state (an exotic meson), named the Z(4430)−, was discovered in 2007 by the Belle Collaboration and confirmed as a resonance in 2014 by the LHCb collaboration. Two pentaquark states (exotic baryons), named P+c(4380) and P+c(4450), were discovered in 2015 by the LHCb collaboration. There are several other "Exotic" hadron candidates and other colour-singlet quark combinations that may also exist.
+> Protons and neutrons (which make the majority of the mass of an atom) are baryons; 
+> pions are an example of a meson. 
+> 
+> A tetraquark state (an exotic meson), named the Z(4430)−, 
+> was discovered in 2007 by the Belle Collaboration 
+> and confirmed as a resonance in 2014 by the LHCb collaboration. 
+> 
+> Two pentaquark states (exotic baryons), named P+c(4380) and P+c(4450), 
+> were discovered in 2015 by the LHCb collaboration. 
+> There are several other "Exotic" hadron candidates 
+> and other colour-singlet quark combinations that may also exist.
 >
 > Almost all "free" hadrons and antihadrons (meaning, in isolation and not bound within an atomic nucleus) are believed to be unstable and eventually decay into other particles. The only known possible exception is free protons, which appear to be stable, or at least, take immense amounts of time to decay (order of 1034+ years). By way of comparison, free neutrons are the longest-lived unstable particle, and decay with a half-life of about 611 seconds, and have a mean lifetime of 879 seconds, see free neutron decay.
 >

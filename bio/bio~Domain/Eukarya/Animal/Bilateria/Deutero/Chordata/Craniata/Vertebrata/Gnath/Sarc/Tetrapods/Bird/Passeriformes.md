@@ -3,6 +3,8 @@ aliases:
   - sparrow-shaped
   - perching bird
   - passerine
+  - Sperlingsvögel
+  - Sperlingsvogel 
 has_id_wikidata: Q25341
 described_by_source:
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
