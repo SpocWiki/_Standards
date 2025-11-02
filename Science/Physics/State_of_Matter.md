@@ -39,6 +39,9 @@ Wolfram_Language_entity_type: MatterPhase
 | Liquid | N     | Y      | Y/N       | N        |
 | Gas    | N     | N      | N         | N        |
 | Plasma | N     | N      | Y         | Y        |
+| QGP    | N     | N      | Y         | Y        |
+
+The [[Quantum_Mechanics/Standard_Model/Hadron/Large_Hadron_Collider/Quark–Gluon_Plasma|Quark–Gluon_Plasma]] is a new State where Gluons and Quarks are unbound within their Plasma. 
 
 ## #has_/text_of_/abstract 
 

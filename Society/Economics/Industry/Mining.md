@@ -63,9 +63,30 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/GORNOE
 > Mining in a wider sense includes extraction of any non-renewable resource 
 > such as petroleum, natural gas, or even water.
 >
-> Modern mining processes involve prospecting for ore bodies, analysis of the profit potential of a proposed mine, extraction of the desired materials, and final reclamation or restoration of the land after the mine is closed. Mining materials are often obtained from ore bodies, lodes, veins, seams, reefs, or placer deposits. The exploitation of these deposits for raw materials is dependent on investment, labor, energy, refining, and transportation cost.
+> Modern mining processes involve prospecting for ore bodies, 
+> analysis of the profit potential of a proposed mine, extraction of the desired materials, 
+> and final reclamation or restoration of the land after the mine is closed. 
+> 
+> Mining materials are often obtained from 
+> ore bodies, lodes, veins, seams, reefs, or placer deposits. 
+> The exploitation of these deposits for raw materials is dependent on 
+> investment, labor, energy, refining, and transportation cost.
 >
-> Mining operations can create a negative environmental impact, both during the mining activity and after the mine has closed. Hence, most of the world's nations have passed regulations to decrease the impact; however, the outsized role of mining in generating business for often rural, remote or economically depressed communities means that governments often fail to fully enforce such regulations. Work safety has long been a concern as well, and where enforced, modern practices have significantly improved safety in mines. Unregulated, poorly regulated or illegal mining, especially in developing economies, frequently contributes to local human rights violations and environmental conflicts. Mining can also perpetuate political instability through resource conflicts.
+> Mining operations can create a negative environmental impact, 
+> both during the mining activity and after the mine has closed. 
+> 
+> Hence, most of the world's nations have passed regulations to decrease the impact; 
+> however, the outsized role of mining in generating business 
+> for often rural, remote or economically depressed communities means 
+> that governments often fail to fully enforce such regulations. 
+> 
+> Work safety has long been a concern as well, and where enforced, 
+> modern practices have significantly improved safety in mines. 
+> 
+> Unregulated, poorly regulated or illegal mining, especially in developing economies, 
+> frequently contributes to local human rights violations and environmental conflicts. 
+> 
+> Mining can also perpetuate political instability through resource conflicts.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mining) 
 

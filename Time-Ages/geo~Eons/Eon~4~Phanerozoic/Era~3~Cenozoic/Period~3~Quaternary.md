@@ -1,27 +1,48 @@
 ---
 aliases:
-- Quaternary
-- Кватернер
-- Kvartér
-- Kvartær
-- Quartär
-- Cuaternario
-- Kvaternaar
-- Kvartääri
-- Quaternaire
-- negyedidőszak
-- quaternario
-- 第四紀
-- Kvarteras
-- Kwartair
-- Kvartær
-- Czwartorzęd
-- Quaternário
-- kvartér
-- kvartar
-- kvartär
-- 第四纪
+  - Quaternary
+  - Кватернер
+  - Kvartér
+  - Kvartær
+  - Quartär
+  - Cuaternario
+  - Kvaternaar
+  - Kvartääri
+  - Quaternaire
+  - negyedidőszak
+  - quaternario
+  - 第四紀
+  - Kvarteras
+  - Kwartair
+  - Kvartær
+  - Czwartorzęd
+  - Quaternário
+  - kvartér
+  - kvartar
+  - kvartär
+  - 第四纪
 has_id_wikidata: Q26185
+named_by: "[[_Standards/WikiData/WD~Jules_Desnoyers,327363]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~period,392928]]"
+  - "[[_Standards/WikiData/WD~system,403523]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+studied_by: "[[_Standards/WikiData/WD~Quaternary_science,2453249]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Quaternary_(period),8001917]]"
+  - "[[_Standards/WikiData/WD~Template_Quaternary_footer,11312845]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -2580000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Q202,202]]"
+time_of_discovery_or_invention: 1829-01-01T00:00:00Z
+OmegaWiki_Defined_Meaning: "685114"
+Commons_category: Quaternary
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide.jpg
+Provenio_UUID: e7f9e0f0-6f68-4e5d-8233-b56dce3f4321
+sRGB_color_hex_triplet: F9F97F
 ---
 
 # [[Period~3~Quaternary]] 
@@ -34,12 +55,23 @@ A time period from 2.58 million years ago to the present.
 
 #has_/previous_/item :: [[Period~2~Neogene]] 
 #has_/next_/item :: ---
+#is_/same_as :: [[../../../../WikiData/WD~Quaternary,26185|WD~Quaternary,26185]] 
 
 ## #has_/text_of_/abstract 
 
-> The **Quaternary** ( kwə-TUR-nə-ree, KWOT-ər-nerr-ee) is the current and most recent of the three periods of the Cenozoic Era in the geologic time scale of the International Commission on Stratigraphy (ICS). It follows the Neogene Period and spans from 2.58 million years ago to the present. As of 2023, the Quaternary Period is divided into two epochs: the Pleistocene (2.58 million years ago to 11.7 thousand years ago) and the Holocene (11.7 thousand years ago to today); a third epoch, the Anthropocene, has recently been proposed, but it is not officially recognised by the ICS.
+> The **Quaternary** (kwə-TUR-nə-ree, KWOT-ər-nerr-ee) is the current 
+> and most recent of the three periods of the Cenozoic Era 
+> in the geologic time scale of the International Commission on Stratigraphy (ICS). 
+> 
+> It follows the Neogene Period and spans from 2.58 million years ago to the present. 
+> As of 2023, the Quaternary Period is divided into two epochs: 
+> - the Pleistocene (2.58 million years ago to 11.7 thousand years ago) and 
+> - the Holocene (11.7 thousand years ago to today); a third epoch, 
+> - the Anthropocene, has recently been proposed, but it is not officially recognised by the ICS.
 >
-> The Quaternary Period is typically defined by the cyclic growth and decay of continental ice sheets related to the Milankovitch cycles and the associated climate and environmental changes that they caused.
+> The Quaternary Period is typically defined by the cyclic growth and decay 
+> of continental ice sheets related to the [[Milankovitch cycle]]s  
+> and the associated climate and environmental changes that they caused.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quaternary)
 

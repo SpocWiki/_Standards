@@ -1,4 +1,5 @@
 ---
+aliases:
 has_id_wikidata: Q6718
 part_of: "[[_Standards/WikiData/WD~hadron,101667]]"
 followed_by:

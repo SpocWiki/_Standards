@@ -2,6 +2,7 @@
 aliases:
   - quantum chromodynamics
   - Quantenchromodynamik
+  - QCD
 has_id_wikidata: Q238170
 instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
 video:
@@ -26,7 +27,7 @@ Commons_category: Quantum chromodynamics
 PhilPapers_topic: quantum-chromodynamics
 ---
 
-# [[Quantum_Chromodynamics]] 
+# [[QCD(Quantum_Chromodynamics)]] 
 
 #is_/same_as :: [[WD~Quantum_chromodynamics,238170]] 
 
