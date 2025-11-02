@@ -12,7 +12,7 @@ The [[Klein-Gordon_Equation]] is deduced from the relativistic Relation
 E² = p²c² + m0 c² between Momentum and Energy. 
 It applies only to Scalar Fields (i.e. Spin = 0). 
 
-The [[../../../../../Knowledge/Physics.internal/Quantum-Physics/Wave-Equations/Dirac-Equation]]  applies to Fermions. 
+The [[Dirac_Equation]]  applies to Fermions. 
 By Squaring it, you obtain the Klein-Gordon Equation also for Fermions. 
 
 ## #has_/text_of_/abstract 

@@ -169,7 +169,7 @@ writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 > Dirac made fundamental contributions to 
 > the early development of both quantum mechanics and quantum electrodynamics, coining the latter term. 
 > 
-> Among other discoveries, he formulated the [[../../../../../Knowledge/Physics.internal/Quantum-Physics/Wave-Equations/Dirac-Equation]] in 1928, 
+> Among other discoveries, he formulated the [[../../Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation]] in 1928, 
 > which describes the behaviour of fermions and predicted the existence of antimatter, 
 > which is one of the most important equations in physics, 
 > and is regarded by some physicists as the "real seed of modern physics". 
