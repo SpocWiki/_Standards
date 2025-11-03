@@ -120,7 +120,8 @@ Libris_URI: mkz12s654bq4w57
 
 # [[Thoreau,Henry_David]] 
 
-#is_/same_as :: [[WD~Henry_David_Thoreau,131149]] 
+#is_/friend_of :: [[Emerson,Ralph_Waldo]]  
+#is_/same_as :: [[../../WikiData/WD~Henry_David_Thoreau,131149|WD~Henry_David_Thoreau,131149]]  
 
 ## #has_/text_of_/abstract 
 

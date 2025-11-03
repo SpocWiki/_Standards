@@ -1,5 +1,8 @@
 ---
 aliases:
+  - crane-like
+  - Kranichartige
+  - Kranichvögel
 has_id_wikidata: Q25557
 topic_s_main_category: "[[_Standards/WikiData/WD~Q8970387,8970387]]"
 start_time: -66000000-06
