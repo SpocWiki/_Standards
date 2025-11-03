@@ -1,0 +1,45 @@
+
+> Dream Theater is an American progressive metal band formed in 1985 in Boston, Massachusetts.  
+> The band comprises John Petrucci (guitar), John Myung (bass), Mike Portnoy (drums), 
+> James LaBrie (vocals) and Jordan Rudess (keyboards).
+>
+> Dream Theater was formed under the name Majesty by Petrucci, Myung and Portnoy — 
+> all natives of Long Island, New York — while they attended Berklee College of Music. 
+> 
+> They dropped out to concentrate on the band. 
+> Petrucci and Myung have been the only two constant members. 
+> Portnoy had remained until 2010, when he was replaced by Mike Mangini 
+> after deciding to leave to pursue other musical projects 
+> before rejoining Dream Theater in October 2023. 
+> 
+> After a brief stint with Chris Collins, followed by Charlie Dominici 
+> (who was dismissed from Dream Theater 
+> shortly after the release of their 1989 debut album When Dream and Day Unite), 
+> LaBrie was hired as the band's singer in 1991. 
+> 
+> Dream Theater's first keyboardist, Kevin Moore, left the band after three albums 
+> and was replaced by Derek Sherinian in 1995 after a period of touring. 
+> The band recorded one album with Sherinian, 
+> who was replaced by current keyboardist Jordan Rudess in 1999.
+>
+> Dream Theater has released fifteen studio albums. 
+> The band's highest-selling release is their second album Images and Words (1992), 
+> which reached No. 61 on the Billboard 200 chart. 
+> The albums Awake (1994) and Six Degrees of Inner Turbulence (2002) 
+> also entered the charts at No. 32 and No. 46 respectively, and each received critical acclaim. 
+> Their fifth album, Metropolis Pt. 2: Scenes from a Memory (1999), 
+> was ranked number 95 on the October 2006 issue of 
+> Guitar World magazine's list of the greatest 100 guitar albums of all time. 
+> It was also ranked as the 15th Greatest Concept Album in March 2003 by Classic Rock magazine.
+>
+> By 2018, Dream Theater had sold over 12 million records worldwide 
+> and they have received three Grammy Award nominations (including one win in 2022). 
+> Along with Queensrÿche and Fates Warning, the band has been referred to as 
+> one of the "big three" of the progressive metal genre, 
+> responsible for its development and popularization.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Dream%20Theater)
+
+
+
+
