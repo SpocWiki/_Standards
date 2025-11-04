@@ -14,7 +14,7 @@ Commons_category: Battle axes
 
 # [[Battle_Axe]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Battle_axe,852049|WD~Battle_axe,852049]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Battle_axe,852049|WD~Battle_axe,852049]] 
 
 ## #has_/text_of_/abstract 
 

@@ -16,7 +16,7 @@ Commons_category: Bomber aircraft
 ---
 # [[Bomber]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Bomber,170877|WD~Bomber,170877]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Bomber,170877|WD~Bomber,170877]] 
 
 ## #has_/text_of_/abstract 
 

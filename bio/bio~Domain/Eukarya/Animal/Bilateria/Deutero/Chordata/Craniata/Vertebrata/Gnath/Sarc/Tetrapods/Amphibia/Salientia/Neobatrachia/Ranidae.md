@@ -1,8 +1,33 @@
 ---
-title: "\\'Ranidae\\'"
+title: Ranidae
+aliases:
+  - Frog
+  - True Frog
+  - True Frogs
+has_id_wikidata: Q6408
+topic_s_main_category: "[[_Standards/WikiData/WD~Q9095885,9095885]]"
+described_by_source: "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+OmegaWiki_Defined_Meaning: "1570"
+ITIS_TSN: "173433"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/RanaRidibundaFemale.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Hylarana%20Wynaad.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/RanaTemporaria.jpg
+Commons_category: Ranidae
+taxon_name: Ranidae
+EPPO_Code: 1RANSF
+MeSH_tree_code: B01.050.150.900.090.180.708
+NBN_System_Key: NHMSYS0000375314
+taxon_common_name:
+  - ekte frosker
+  - prave žabe
 ---
 
 # [[Ranidae]] 
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Ranidae,6408|WD~Ranidae,6408]] 
 
 True Frogs 
 
