@@ -48,7 +48,7 @@ Commons_category: Rational numbers
 > and division by a nonzero rational number. 
 > It is a field under these operations 
 > and therefore also called the field of rationals or the field of rational numbers. 
-> It is usually denoted by boldface Q, or blackboard bold ⁠Q
+> It is usually denoted by boldface __Q__, or blackboard bold ⁠ℚ
 >
 > A rational number is a real number. 
 > The real numbers that are rational are those whose decimal expansion 
@@ -65,7 +65,13 @@ Commons_category: Rational numbers
 > and the set of real numbers is uncountable, 
 > almost all real numbers are irrational.
 >
-> The field of rational numbers is the unique field that contains the integers, and is contained in any field containing the integers. In other words, the field of rational numbers is a prime field. A field has characteristic zero if and only if it contains the rational numbers as a subfield. Finite extensions of ⁠Q are called algebraic number fields, and the algebraic closure of ⁠Q⁠ is the field of algebraic numbers.
+> The field of rational numbers is the unique field that contains the integers, 
+> and is contained in any field containing the integers. 
+> In other words, the field of rational numbers is a prime field. 
+> 
+> A field has characteristic zero if and only if it contains the rational numbers as a subfield. 
+> Finite extensions of ⁠ℚ are called algebraic number fields, 
+> and the algebraic closure of ⁠ℚ⁠ is the field of algebraic numbers.
 >
 > In mathematical analysis, the rational numbers form a dense subset of the real numbers. 
 > The real numbers can be constructed from the rational numbers by completion, 

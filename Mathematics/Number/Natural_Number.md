@@ -47,7 +47,7 @@ Wikidata_usage_instructions: A mathematical statement about natural numbers shou
 > Natural numbers are sometimes called counting numbers or whole numbers, 
 > a term that may also refer to the integers, 
 > 
-> The set of the natural numbers is commonly denoted with a bold N or a blackboard bold ⁠N. 
+> The set of the natural numbers is commonly denoted with a bold __N__ or a blackboard bold ⁠ℕ. 
 >
 > The natural numbers are used for counting, and for labeling the result of a count, 
 > like "there are seven days in a week", in which case they are called cardinal numbers. 
@@ -70,7 +70,7 @@ Wikidata_usage_instructions: A mathematical statement about natural numbers shou
 > For example, the integers are made by including 0 and negative numbers. 
 > The rational numbers add fractions, and the real numbers add all infinite decimals. 
 > 
-> Complex numbers add the square root of −1.  
+> Complex numbers add the square root of −1: i = √-1.  
 > 
 > This makes up natural numbers as foundational for all mathematics.
 >
