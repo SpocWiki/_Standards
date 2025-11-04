@@ -22,7 +22,7 @@ Unicode_character: 🗡
 
 # [[Dagger]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Dagger,182780|WD~Dagger,182780]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Dagger,182780|WD~Dagger,182780]] 
 
 ## #has_/text_of_/abstract 
 

@@ -24,7 +24,7 @@ IPTC_NewsCode: mediatopic/20000930
 
 # [[Épée]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Épée,840419|WD~Épée,840419]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Épée,840419|WD~Épée,840419]] 
 
 ## #has_/text_of_/abstract 
 
