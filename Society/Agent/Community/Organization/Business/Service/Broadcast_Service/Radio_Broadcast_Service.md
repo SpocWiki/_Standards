@@ -25,7 +25,9 @@ title: is_a_radio_broadcast_service Class
 type: Type
 ---
 
-Class of all radio_broadcast_services.
+# [[Radio_Broadcast_Service]] 
+
+Class of all radio_broadcast_service Stations.
 
 Tag Instances like this: 
 #is_a_/radio_broadcast_service
@@ -37,6 +39,7 @@ A delivery service through which radio content is provided via broadcast over th
 [ #is_/sub_class_of :: [[../BroadcastService]] ]
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, area, areaServed, audience, availableChannel, award, brand, broadcastAffiliateOf, broadcastDisplayName, broadcastFrequency, broadcastTimezone, broadcaster, broker, callSign, category, description, disambiguatingDescription, hasBroadcastChannel, hasOfferCatalog, hoursAvailable, identifier, image, inLanguage, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, parentService, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url, videoFormat ] ]
+
 
 
 ## Confidential Links & Embeds: 

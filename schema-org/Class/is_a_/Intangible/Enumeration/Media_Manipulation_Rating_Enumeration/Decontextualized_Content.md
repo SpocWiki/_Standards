@@ -36,18 +36,18 @@ Tag Instances like this:
 Content coded 'missing context' in a [[../../../../../../Society/Communication/Media/Creative_Work/Review/Media_Review|MediaReview]],
 considered in the context of how it was published or shared.
 
-# For a [[../../../../../../Society/Communication/Media/Media_Object/Video_Object|VideoObject]]: 
+# For a [[../../../../../../Society/Communication/Media/Communication_Dimension/Time-Communication/Media_Object/Video_Object|VideoObject]]: 
 Presenting unaltered video in an inaccurate manner that misrepresents the footage.
 For example, using incorrect dates or locations, altering the transcript 
 or sharing brief clips from a longer video to mislead viewers. (A video rated 'original' can also be missing context.)
 
-# For an [[../../../../../../Society/Communication/Media/Media_Object/Image_Object|ImageObject]]: 
+# For an [[../../../../../../Society/Communication/Media/Communication_Dimension/Time-Communication/Media_Object/Image_Object|ImageObject]]: 
 Presenting unaltered images in an inaccurate manner to misrepresent the image and mislead the viewer.
 For example, a common tactic is using an unaltered image but saying it came from a different time or place.
 (An image rated 'original' can also be missing context.)
 (An 'original' image with inaccurate text would generally fall in this category.)
 
-# For an [[../../../../../../Society/Communication/Media/Media_Object/Audio_Object|AudioObject]]: 
+# For an [[../../../../../../Society/Communication/Media/Communication_Dimension/Time-Communication/Media_Object/Audio_Object|AudioObject]]: 
 Unaltered audio presented in an inaccurate manner that misrepresents it. 
 For example, using incorrect dates or locations, or sharing brief clips from a longer recording to mislead viewers. 
 (Audio rated 'original' can also be missing context.)

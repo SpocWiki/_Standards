@@ -54,7 +54,8 @@ Unicode_character: 氡
 UNII: Q74S4N8N1G
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Radon,1133]] 
+# [[Radon]]
+
 
 
 #chemic/Element 
@@ -80,6 +81,7 @@ UNII: Q74S4N8N1G
 (PeriodNo::6)
 (GroupNo::18)
 
+#is_/same_as :: [[../../../WikiData/WD~Radon,1133]] 
 
 
 ## #has_/text_of_/abstract 
