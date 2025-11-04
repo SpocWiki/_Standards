@@ -1,4 +1,10 @@
 
+# [[UNHCR]] 
+
+#is_/same_as :: 
+
+## #has_/text_of_/abstract 
+
 > The Office of the United Nations High Commissioner for Refugees (**UNHCR**) 
 > is a United Nations agency mandated 
 > to aid and protect refugees, forcibly displaced communities, and stateless people, 

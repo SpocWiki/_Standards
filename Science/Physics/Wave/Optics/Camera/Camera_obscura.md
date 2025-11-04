@@ -19,7 +19,7 @@ P8189: "987007293651805171"
 
 # [[Camera_obscura]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Camera_obscura,183998|WD~Camera_obscura,183998]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Camera_obscura,183998|WD~Camera_obscura,183998]] 
 
 ## #has_/text_of_/abstract 
 

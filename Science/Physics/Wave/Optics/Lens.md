@@ -38,7 +38,7 @@ Iconclass_notation: "49E2511"
 
 # [[Lens]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Lens,768575|WD~Lens,768575]] 
+#is_/same_as :: [[../../../../WikiData/WD~Lens,768575|WD~Lens,768575]] 
 
 ## #has_/text_of_/abstract 
 

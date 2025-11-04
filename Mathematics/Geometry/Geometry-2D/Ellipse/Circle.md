@@ -66,7 +66,7 @@ Commons_category: Circle geometry
 
 # [[Circle]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Circle,17278|WD~Circle,17278]] 
+#is_/same_as :: [[../../../../WikiData/WD~Circle,17278|WD~Circle,17278]] 
 
 ## #has_/text_of_/abstract 
 

@@ -54,7 +54,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Hirv%20Uppsala%20%C3%A
 
 # [[Deer]] 
 
-![Elk](Deer/Wapiti/Wapiti.jpg)
+![Elk](Deer/Cervus/Wapiti/Wapiti.jpg)
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervidae,23390|WD~Cervidae,23390]] 
 

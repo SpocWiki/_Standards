@@ -56,7 +56,7 @@ NBN_System_Key: NHMSYS0021109635
 
 ![[Wapiti/Wapiti.jpg]]
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervus_canadensis,180404|WD~Cervus_canadensis,180404]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervus_canadensis,180404|WD~Cervus_canadensis,180404]] 
 
 ## #has_/text_of_/abstract 
 
