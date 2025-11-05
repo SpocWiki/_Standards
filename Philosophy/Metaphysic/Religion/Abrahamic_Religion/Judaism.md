@@ -2,6 +2,7 @@
 aliases:
   - יַהֲדוּת‎
   - Yahăḏūṯ
+  - Jewish
 has_id_wikidata: Q9268
 UMLS_CUI: C0022388
 GitHub_topic: judaism

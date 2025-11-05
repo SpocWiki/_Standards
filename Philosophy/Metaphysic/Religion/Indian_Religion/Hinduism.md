@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Hindu
+  - Hinduistic
+  - Hinduistisch
 has_id_wikidata: Q9089
 icon:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Aum%20Om%20black.svg

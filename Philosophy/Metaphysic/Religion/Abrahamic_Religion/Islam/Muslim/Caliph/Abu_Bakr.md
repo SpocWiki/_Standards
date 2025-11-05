@@ -9,7 +9,7 @@ has_id_wikidata: Q334923
 # [[Abu_Bakr]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Abu_Bakr,334923|WD~Abu_Bakr,334923]] 
-#has_/children_/in_law :: [[../../Muhammad]]  
+#has_/children_/in_law :: [[../../../Islam/Muhammad]]  
 
 ## #has_/text_of_/abstract 
 

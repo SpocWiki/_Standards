@@ -106,7 +106,7 @@ Iconclass_notation: 12I24
 
 # [[Muslim]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Muslim,47740|WD~Muslim,47740]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Muslim,47740|WD~Muslim,47740]] 
 
 ## #has_/text_of_/abstract 
 

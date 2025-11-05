@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Islamic
 has_id_wikidata: Q432
 commemorates:
   - "[[_Standards/WikiData/WD~99_names_of_Allah,83875]]"

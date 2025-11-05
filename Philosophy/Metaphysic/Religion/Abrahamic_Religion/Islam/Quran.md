@@ -268,7 +268,7 @@ Stack_Exchange_tag: https://islam.stackexchange.com/tags/quran
 
 # [[Quran]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Qur’an,428|WD~Qur’an,428]]  
+#is_/same_as :: [[../../../../../WikiData/WD~Qur’an,428|WD~Qur’an,428]]  
 
 ## #has_/text_of_/abstract 
 

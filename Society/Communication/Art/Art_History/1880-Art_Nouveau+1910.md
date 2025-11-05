@@ -4,6 +4,9 @@ aliases:
   - Sezessionstil
   - Art Nouveau
 has_id_wikidata: Q34636
+inception: 1890-01-01T00:00:00Z
+start_time: 1880-01-01T00:00:00Z
+end_time: 1910-01-01T00:00:00Z
 followed_by: "[[_Standards/WikiData/WD~Art_Deco,173782]]"
 subclass_of: "[[_Standards/WikiData/WD~decorative_art,631931]]"
 instance_of:
@@ -23,8 +26,6 @@ topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q21387416,21387416]]"
 related_category: "[[_Standards/WikiData/WD~Q27070130,27070130]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Modernisme,59960983]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
-inception: 1890-01-01T00:00:00Z
-start_time: 1880-01-01T00:00:00Z
 Stadtwiki_Dresden_article: Jugendstil
 subject_named_as:
   - Jugendstil
@@ -37,10 +38,9 @@ Commons_category: Art Nouveau
 subreddit: ArtNouveau
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/AR_NUVO.html
 Gujarati_Vishwakosh_entry: આર્ટ-નૂવો
-end_time: 1910-01-01T00:00:00Z
 ---
 
-# [[Art_Nouveau]] 
+# [[1880-Art_Nouveau+1910]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Art_Nouveau,34636|WD~Art_Nouveau,34636]] 
 

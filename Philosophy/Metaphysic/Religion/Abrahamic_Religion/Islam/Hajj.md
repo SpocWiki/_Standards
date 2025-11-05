@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Hadj
+  - Hadsch
 has_id_wikidata: Q234915
 Commons_category: Hajj
 DPLA_subject_term: Hajj

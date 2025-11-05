@@ -20,7 +20,7 @@ instance_of: "[[_Standards/WikiData/WD~art_by_ethnic_group,120400477]]"
 Commons_category: Etruscan art
 ---
 
-# [[Etruscan_Art]] 
+# [[-1000-Etruscan_Art-0100]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Etruscan_art,830331|WD~Etruscan_art,830331]] 
 
