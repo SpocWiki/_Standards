@@ -53,8 +53,9 @@ Unicode_character: 鐳
 UNII: W90AYD6R3Q
 ---
 
+# [[Radium]] 
+
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Radium,1128]] 
 
 [GroupName::Group-02-Earth-Alkaline]
 [Group:[[../Group-02-Earth-Alkaline]]
@@ -77,6 +78,8 @@ UNII: W90AYD6R3Q
 [FormEnergy-kj-mol::0]
 (PeriodNo::7)
 (GroupNo::2)
+
+#is_/same_as :: [[../../../WikiData/WD~Radium,1128]] 
 
 ## #has_/text_of_/abstract 
 

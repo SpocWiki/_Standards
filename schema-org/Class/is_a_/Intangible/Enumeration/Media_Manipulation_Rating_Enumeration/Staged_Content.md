@@ -35,13 +35,13 @@ Tag Instances like this:
 
 Content coded 'staged content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
-# For a [[../../../../../../Society/Communication/Media/Media_Object/Video_Object|VideoObject]]: 
+# For a [[../../../../../../Society/Communication/Media/Communication_Dimension/Time-Communication/Media_Object/Video_Object|VideoObject]]: 
 A video that has been created using actors or similarly contrived.
 
-# For an [[../../../../../../Society/Communication/Media/Media_Object/Image_Object|ImageObject]]: 
+# For an [[../../../../../../Society/Communication/Media/Communication_Dimension/Time-Communication/Media_Object/Image_Object|ImageObject]]: 
 An image that was created using actors or similarly contrived, such as a screenshot of a fake tweet.
 
-# For an [[../../../../../../Society/Communication/Media/Media_Object/Audio_Object|AudioObject]]: 
+# For an [[../../../../../../Society/Communication/Media/Communication_Dimension/Time-Communication/Media_Object/Audio_Object|AudioObject]]: 
 Audio that has been created using actors or similarly contrived.
 
 [ #is_/sub_class_of :: [[../media_manipulation_rating_enumeration]] ]
