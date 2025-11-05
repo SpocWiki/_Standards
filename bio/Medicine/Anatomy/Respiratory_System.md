@@ -35,6 +35,10 @@ UMLS_CUI: C0035237
 WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/respiratory_system"
 ---
 
+# [[Respiratory_System]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Respiratory_system,7891|WD~Respiratory_system,7891]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Respiratory system** (also respiratory apparatus, ventilatory system) is a biological system consisting of specific organs and structures used for gas exchange in animals and plants. The anatomy and physiology that make this happen varies greatly, depending on the size of the organism, the environment in which it lives and its evolutionary history. In land animals, the respiratory surface is internalized as linings of the lungs. Gas exchange in the lungs occurs in millions of small air sacs; in mammals and reptiles, these are called alveoli, and in birds, they are known as atria. These microscopic air sacs have a very rich blood supply, thus bringing the air into close contact with the blood. These air sacs communicate with the external environment via a system of airways, or hollow tubes, of which the largest is the trachea, which branches in the middle of the chest into the two main bronchi. These enter the lungs where they branch into progressively narrower secondary and tertiary bronchi that branch into numerous smaller tubes, the bronchioles. In birds, the bronchioles are termed parabronchi. It is the bronchioles, or parabronchi that generally open into the microscopic alveoli in mammals and atria in birds. Air has to be pumped from the environment into the alveoli or atria by the process of breathing which involves the muscles of respiration.

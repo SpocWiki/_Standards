@@ -23,6 +23,8 @@ U_S_National_Archives_Identifier: 10644306
 
 # [[Republic]] 
 
+#is_/same_as :: [[../../../WikiData/WD~Republic,7270|WD~Republic,7270]] 
+
 Republic focuses on __structures and legal frameworks that guide how power is exercised and limited__.
 
 A republic is a form of government in which the country is considered a "public matter" 
