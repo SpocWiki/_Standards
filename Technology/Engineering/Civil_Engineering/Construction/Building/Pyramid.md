@@ -27,7 +27,7 @@ subclass_of: "[[_Standards/WikiData/WD~building,41176]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_pyramid,13361861]]"
 ---
 
-#is_/similar_to :: [[../../../../../Mathematics/Geometry/Geometry-3D/Pyramid(Geometry)|Pyramid(Geometry)]] 
+#is_/similar_to :: [[../../../../../Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry)|Pyramid(Geometry)]] 
 #is_/same_as :: [[../../../../../WikiData/WD~Pyramid,12516|WD~Pyramid,12516]] 
 
 ## #has_/text_of_/abstract 

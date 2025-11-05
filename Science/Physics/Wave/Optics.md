@@ -37,7 +37,7 @@ Commons_category: Optics
 
 # [[Optics]] 
 
-#is_/same_as :: [[../../WikiData/WD~Optics,14620|WD~Optics,14620]] 
+#is_/same_as :: [[../../../WikiData/WD~Optics,14620|WD~Optics,14620]] 
 
 ## #has_/text_of_/abstract 
 

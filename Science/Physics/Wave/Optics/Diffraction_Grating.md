@@ -5,7 +5,7 @@ has_id_wikidata: Q653294
 
 # [[Diffraction_Grating]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Diffraction_grating,653294|WD~Diffraction_grating,653294]] 
+#is_/same_as :: [[../../../../WikiData/WD~Diffraction_grating,653294|WD~Diffraction_grating,653294]] 
 
 ## #has_/text_of_/abstract 
 

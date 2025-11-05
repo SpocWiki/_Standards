@@ -37,7 +37,7 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_camera,5913742]]"
 
 # [[Camera]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Camera,15328|WD~Camera,15328]] 
+#is_/same_as :: [[../../../../WikiData/WD~Camera,15328|WD~Camera,15328]] 
 
 ## #has_/text_of_/abstract 
 
