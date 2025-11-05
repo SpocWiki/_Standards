@@ -21,7 +21,7 @@ IEV_number: 845-24-080
 
 # [[Gloss(Optics)]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Gloss,900581|WD~Gloss,900581]] 
+#is_/same_as :: [[../../../../WikiData/WD~Gloss,900581|WD~Gloss,900581]] 
 ## #has_/text_of_/abstract 
 
 > Gloss is an optical property which indicates 

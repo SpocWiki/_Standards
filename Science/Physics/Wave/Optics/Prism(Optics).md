@@ -17,8 +17,8 @@ Commons_category: Prisms (optics)
 
 # [[Prism(Optics)]] 
 
-#is_/different_from :: [[../../../Mathematics/Geometry/Prism(Geometry)|Prism(Geometry)]] 
-#is_/same_as :: [[../../../WikiData/WD~Prism,165896|WD~Prism,165896]]   
+#is_/different_from :: [[../../../../Mathematics/Geometry/Prism(Geometry)|Prism(Geometry)]] 
+#is_/same_as :: [[../../../../WikiData/WD~Prism,165896|WD~Prism,165896]]   
 
 ## #has_/text_of_/abstract 
 

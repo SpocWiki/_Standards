@@ -61,7 +61,7 @@ Schläfli_symbol: "{4,3}"
 
 # [[Cube]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Cube,812880|WD~Cube,812880]] 
+#is_/same_as :: [[../../../../WikiData/WD~Cube,812880|WD~Cube,812880]] 
 
 ## #has_/text_of_/abstract 
 

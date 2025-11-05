@@ -16,7 +16,8 @@ Krugosvet_article: nauka_i_tehnika/matematika/FUNKTSI_TEORIYA.html
 
 # [[Complex_Analysis]] 
 
-#is_/same_as :: [[../WikiData/WD~Complex_analysis,193756|WD~Complex_analysis,193756]] 
+#is_/different_from :: [[Real_Analysis]]  
+#is_/same_as :: [[../../../WikiData/WD~Complex_analysis,193756|WD~Complex_analysis,193756]] 
 
 ## #has_/text_of_/abstract 
 

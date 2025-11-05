@@ -6,6 +6,31 @@ aliases:
   - red cell
   - erythroid cell
   - haematid
+instance_of: "[[_Standards/WikiData/WD~cell_type,189118]]"
+subclass_of: "[[_Standards/WikiData/WD~blood_cell,211709]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Jan_Swammerdam,336794]]"
+produced_by: "[[_Standards/WikiData/WD~bone_marrow,546523]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+different_from: "[[_Standards/WikiData/WD~red_blood_cell_count,48632255]]"
+part_of: "[[_Standards/WikiData/WD~blood,7873]]"
+diameter: 7
+OmegaWiki_Defined_Meaning: "1074184"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Blood%20Cell.jpg
+MeSH_tree_code:
+  - A11.118.290
+  - A11.443.240
+  - A15.145.229.334
+ATC_code: B05AX01
+UMLS_CUI: C0014792
+TA98_Latin_term: Erythrocytus
+Terminologia_Histologica: H2.00.04.1.01001
+Krugosvet_article_archived_: meditsina/eritrotsity
+Commons_category: Red blood cells
+time_of_discovery_or_invention: 1658-01-01T00:00:00Z
 ---
 
 # [[Red_Blood_Cell]] 

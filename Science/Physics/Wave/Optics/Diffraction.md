@@ -1,7 +1,7 @@
 
 # [[Diffraction]] 
 
-#is_/same_as  :: [[../../../WikiData/WD~Diffraction,133900|WD~Diffraction,133900]] 
+#is_/same_as  :: [[../../../../WikiData/WD~Diffraction,133900|WD~Diffraction,133900]] 
 
 ## #has_/text_of_/abstract 
 

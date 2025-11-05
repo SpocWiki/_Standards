@@ -1,0 +1,36 @@
+---
+aliases:
+has_id_wikidata: Q1133485
+motto: "[[_Standards/WikiData/WD~Tikkun_olam,164290]]"
+subclass_of: "[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914]]"
+instance_of: "[[_Standards/WikiData/WD~Jewish_religious_movements,3001185]]"
+inception: 1900-01-01T00:00:00Z
+religion_or_worldview: "[[_Standards/WikiData/WD~Judaism,9268]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Congregation%20Emanu-El%20of%20the%20City%20New%20York.jpg
+Commons_category: Reform Judaism
+native_label: יהדות רפורמית
+---
+
+# [[Reform_Judaism]] 
+
+#is_/same_as :: [[WD~Reform_Judaism,1133485]] 
+
+## #has_/text_of_/abstract 
+
+> Reform Judaism, also known as Liberal Judaism or Progressive Judaism, 
+> is a major Jewish denomination that emphasizes the evolving nature of Judaism, 
+> the superiority of its ethical aspects to its ceremonial ones, 
+> and belief in a continuous revelation which is closely intertwined with human reason 
+> and not limited to the theophany at Mount Sinai. 
+> 
+> A liberal strand of Judaism, it is characterized by 
+> little stress on ritual and personal observance, regarding Jewish law as non-binding 
+> and the individual Jew as autonomous, 
+> and by a great openness to external influences and progressive values.
+>
+> The origins of Reform Judaism lie in mid-19th-century Germany, where Rabbi Abraham Geiger and his associates formulated its basic principles, attempting to harmonize Jewish tradition with modern sensibilities in the age of emancipation. Brought to America by German-born rabbis, the denomination gained prominence in the United States, flourishing from the 1860s to the 1930s in an era known as "Classical Reform". Since the 1970s, the movement has adopted a policy of inclusiveness and acceptance, inviting as many as possible to partake in its communities rather than adhering to strict theoretical clarity. It is strongly identified with progressive and liberal agendas in political and social terms, mainly under the traditional Jewish rubric tikkun olam ("repairing of the world"). Tikkun olam is a central motto of Reform Judaism, and acting in its name is one of the main channels for adherents to express their affiliation. The movement's most significant center is in North America.
+>
+> Various regional branches exist, including the Union for Reform Judaism (URJ) in the United States and Canada, the Movement for Reform Judaism (MRJ) and Liberal Judaism in the United Kingdom, the Israel Movement for Reform and Progressive Judaism (IMPJ) in Israel, and the UJR-AmLat in Latin America; these are united within the international World Union for Progressive Judaism (WUPJ). Founded in 1926, the WUPJ estimates it represents at least 1.8 million people in 50 countries, about 1 million of whom are registered adult congregants, and the rest are unaffiliated but identify with the movement. This makes Reform the second-largest Jewish denomination worldwide, after Orthodox Judaism.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Reform%20Judaism) 
+
