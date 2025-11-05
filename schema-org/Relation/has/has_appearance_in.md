@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/appearance :: CreativeWork ] or 
 - [ has_appearance_in :: CreativeWork ] 
 
-Indicates an occurrence of a [[../../../Society/Communication/Media/Creative_Work/Claim]] in some [[CreativeWork]].
+Indicates an occurrence of a [[../../../Society/Communication/Media/Creative_Work/Statement/Claim]] in some [[CreativeWork]].
 
 Relation describes that: 
 [ #has_/domain  :: Claim ]

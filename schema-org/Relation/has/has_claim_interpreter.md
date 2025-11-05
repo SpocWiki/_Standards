@@ -33,7 +33,7 @@ Use it like this:
 - [ #has_/claim_interpreter :: Organization, Person ] or 
 - [ has_claim_interpreter :: Organization, Person ] 
 
-For a [[../../../Society/Communication/Media/Creative_Work/Claim]] interpreted from [[MediaObject]] content
+For a [[../../../Society/Communication/Media/Creative_Work/Statement/Claim]] interpreted from [[MediaObject]] content
 	sed to indicate a claim contained, implied or refined from the content of a [[MediaObject]].
 
 Relation describes that: 

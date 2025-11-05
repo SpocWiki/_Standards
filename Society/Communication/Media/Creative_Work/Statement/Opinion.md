@@ -26,12 +26,18 @@ Colon_Classification: S:47
 
 # [[Opinion]] 
 
+#is_/similar_to :: [[Claim]] 
+#is_/different_from ::  [[../Statement|Statement]]  
 #is_/same_as :: [[WD~Opinion,3962655]] 
 
 ## #has_/text_of_/abstract 
 
 > An **Opinion** is a judgement, viewpoint, or statement that is not conclusive, 
-> as opposed to facts, which are true statements.
+> as opposed to facts, which are true [[../Statement|Statement]]s.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Opinion) 
+
+Opinions are protected in many Jurisdictions by [[../../../../Social_Issues/Human_Rights/Freedom_of_Speech|Freedom_of_Speech]], 
+but [[../Statement|Statement]]s need to be proven 
+and [[Claim]]s of Facts are debatable.
 
