@@ -20,9 +20,22 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Q125733549,125733549]]'
 ---
 
+# [[Reproductive_System]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Reproductive_system,7895|WD~Reproductive_system,7895]] 
+
 ## #has_/text_of_/abstract 
 
-> The **Reproductive system** of an organism, also known as the genital system, is the biological system made up of all the anatomical organs involved in sexual reproduction.  Many non-living substances such as fluids, hormones, and pheromones are also important accessories to the reproductive system. Unlike most organ systems, the sexes of differentiated species often have significant differences. These differences allow for a combination of genetic material between two individuals, which allows for the possibility of greater genetic fitness of the offspring.
+> The **Reproductive system** of an organism, also known as the genital system, 
+> is the biological system made up of all the anatomical organs involved in sexual reproduction.  
+> 
+> Many non-living substances such as fluids, hormones, and pheromones 
+> are also important accessories to the reproductive system. 
+> 
+> Unlike most organ systems, the sexes of differentiated species often have significant differences. 
+> 
+> These differences allow for a combination of genetic material between two individuals, 
+> which allows for the possibility of greater genetic fitness of the offspring.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reproductive%20system)  
 

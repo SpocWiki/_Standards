@@ -9,6 +9,8 @@ aliases:
   - Ирландия
   - Éire
   - Airlann
+  - Republic of Ireland
+  - Poblacht na hÉireann
 anthem: "[[_Standards/WikiData/WD~Amhrán_na_bhFiann,160672]]"
 area: 69797
 Baidu_Tieba_name: 爱尔兰
@@ -526,7 +528,7 @@ Major Cities with Population in 1000s as of @2022
 
 ## #has_/text_of_/abstract 
 
-> **Ireland** ( , IRE-lənd; Irish: Éire [ˈeːɾʲə] ; Ulster-Scots: Airlann [ˈɑːrlən]) 
+> **Ireland** (IRE-lənd; Irish: Éire [ˈeːɾʲə] ; Ulster-Scots: Airlann [ˈɑːrlən]) 
 > is an island in the North Atlantic Ocean, in Northwestern Europe. 
 > It is separated from Great Britain to its east by the North Channel, 
 > the Irish Sea, and St George's Channel. 
@@ -609,7 +611,11 @@ Major Cities with Population in 1000s as of @2022
 
 ## #has_/text_of_/abstract 
 
-> Ireland (Irish: Éire [ˈeːɾʲə] ), also known as the **Republic of Ireland** (Poblacht na hÉireann), is a country in Northwestern Europe. It consists of 26 of the 32 counties of the island of Ireland, with a population of about 5.4 million. Its capital and largest city is Dublin, on the eastern side of the island, with a population of over 1.5 million. The sovereign state shares its only land border with Northern Ireland, which is part of the United Kingdom. It is otherwise surrounded by the Atlantic Ocean, with the Celtic Sea to the south, St George's Channel to the south-east and the Irish Sea to the east. It is a unitary, parliamentary republic. The legislature, the Oireachtas, consists of a lower house, Dáil Éireann; an upper house, Seanad Éireann; and an elected president (Uachtarán) who serves as the largely ceremonial head of state, but with some important powers and duties. The head of government is the Taoiseach (prime minister, lit. 'chief'), elected by the Dáil and appointed by the president, who appoints other government ministers.
+> Ireland (Irish: Éire [ˈeːɾʲə] ), also known as the **Republic of Ireland** (Poblacht na hÉireann), 
+> is a country in Northwestern Europe. 
+> 
+> It consists of 26 of the 32 counties of the island of Ireland, 
+> with a population of about 5.4 million. Its capital and largest city is Dublin, on the eastern side of the island, with a population of over 1.5 million. The sovereign state shares its only land border with Northern Ireland, which is part of the United Kingdom. It is otherwise surrounded by the Atlantic Ocean, with the Celtic Sea to the south, St George's Channel to the south-east and the Irish Sea to the east. It is a unitary, parliamentary republic. The legislature, the Oireachtas, consists of a lower house, Dáil Éireann; an upper house, Seanad Éireann; and an elected president (Uachtarán) who serves as the largely ceremonial head of state, but with some important powers and duties. The head of government is the Taoiseach (prime minister, lit. 'chief'), elected by the Dáil and appointed by the president, who appoints other government ministers.
 >
 > The Irish Free State was created with Dominion status in 1922, following the Anglo-Irish Treaty. In 1937, a new constitution was adopted, in which the state was named "Ireland" and effectively became a republic, with an elected non-executive president. It was officially declared a republic in 1949, following The Republic of Ireland Act 1948. Ireland became a member of the United Nations in 1955. It joined the European Communities (EC), the predecessor of the European Union (EU), in 1973. The state had no formal relations with Northern Ireland for most of the 20th century, but the 1980s and 1990s saw the British and Irish governments working with Northern Irish parties to resolve the conflict that had become known as the Troubles. Since the signing of the Good Friday Agreement in 1998, the Irish government and Northern Irish government have co-operated on a number of policy areas under the North/South Ministerial Council created by the Agreement.
 >

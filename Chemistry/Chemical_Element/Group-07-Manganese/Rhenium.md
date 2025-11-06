@@ -59,8 +59,9 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Rhenium\"]"
 ZVG_number: 7750
 ---
 
+# [[Rhenium]] 
+
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Rhenium,737]] 
 
 [GroupName::Group-07-Manganese]
 [Group:[[../Group-07-Manganese]]
@@ -81,6 +82,7 @@ ZVG_number: 7750
 [Enthalpy::33.2]
 [FormEnergy-kj-mol::715]
 (PeriodNo::6)
+#is_/same_as :: [[../../../WikiData/WD~Rhenium,737]] 
 
 
 ## #has_/text_of_/abstract 

@@ -72,8 +72,9 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Rhodium\"]"
 ZVG_number: 7450
 ---
 
+# [[Rhodium]] 
+
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Rhodium,1087]] 
 
 [GroupName::Group-09-Cobalt]
 [Group:[[../Group-09-Cobalt]]
@@ -96,6 +97,7 @@ ZVG_number: 7450
 [FormEnergy-kj-mol::493]
 (PeriodNo::5)
 (GroupNo::9)
+#is_/same_as :: [[../../../WikiData/WD~Rhodium,1087]] 
 
 
 ## #has_/text_of_/abstract 

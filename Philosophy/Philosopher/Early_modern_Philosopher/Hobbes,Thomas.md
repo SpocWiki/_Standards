@@ -107,6 +107,7 @@ Krugosvet_article_archived_: istoriya/GOBBS_TOMAS.html
 
 #has_/created :: Opportunism, Individualism  
 #has_/created_/quote :: Krieg Aller gegen Alle 
+#has_/created_/quote :: Homo Homini Lupus est  
 #is_/different_from :: [[Rousseau,Jean-Jacques]]  
 who claimed that the natural state is peaceful. 
 

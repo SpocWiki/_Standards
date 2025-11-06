@@ -1,6 +1,8 @@
 ---
 aliases:
 has_id_wikidata: Q4692
+start_time: 1400-01-01T00:00:00Z
+end_time: 1650-01-01T00:00:00Z
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -28,16 +30,14 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%27David%27%20by%20Michelangelo%20JBU04.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Last%20Judgement%20by%20Michelangelo.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20046.jpg
-start_time: 1400-01-01T00:00:00Z
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Renaissance.ogg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Renaissance.ogg
 Iconclass_notation: 23T26
 Provenio_UUID: 631fd529-d8cd-4644-84ca-6d658d19663b
 Krugosvet_article: istoriya/EPOHA_VOZROZHDENIYA.html
-end_time: 1650-01-01T00:00:00Z
 ---
 
-# [[Renaissance]] 
+# [[1400-Renaissance+1650]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Renaissance,4692|WD~Renaissance,4692]] 
 

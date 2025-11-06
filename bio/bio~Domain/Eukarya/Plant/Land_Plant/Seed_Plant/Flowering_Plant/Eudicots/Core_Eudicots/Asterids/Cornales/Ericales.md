@@ -15,7 +15,7 @@ taxon_common_name: 杜鹃花目
 
 # [[Ericales]] 
 
-![Erica_vagans](Ericales/Erica_vagans.jpg)  ![Primula_patens](Ericales/Primula_patens.jpg)  ![Sarracenia_alabamensis](Ericales/Sarracenia_alabamensis.jpg) 
+![Erica_vagans](Ericales/Erica_vagans.jpg)  ![Primula_patens](Ericales/Primulaceae/Primula_patens.jpg)  ![Sarracenia_alabamensis](Ericales/Sarracenia_alabamensis.jpg) 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Ericales,21737|WD~Ericales,21737]] 
 
@@ -75,7 +75,7 @@ Comments          Cornish heath (Ericaceae)
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 -------------------------------------------------------------------------
-![Primula patens](Ericales/Primula_patens.jpg)
+![Primula patens](Ericales/Primulaceae/Primula_patens.jpg)
 Scientific Name ::     Primula patens
 Location ::           Kiparisovo village near Vladivostok, Primorsky Territory
 Comments             grown in a garden

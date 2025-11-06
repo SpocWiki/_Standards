@@ -5,13 +5,23 @@ aliases:
 has_id_wikidata: Q201405
 ---
 
-# [[Renaissance_Music]] 
+# [[1450-Renaissance_Music+1550]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Renaissance_music,201405|WD~Renaissance_music,201405]] 
 
 ## #has_/text_of_/abstract 
 
-> **Renaissance music** is traditionally understood to cover European music of the 15th and 16th centuries, later than the Renaissance era as it is understood in other disciplines. Rather than starting from the early 14th-century ars nova, the Trecento music was treated by musicology as a coda to medieval music and the new era dated from the rise of triadic harmony and the spread of the contenance angloise style from the British Isles to the Burgundian School. A convenient watershed for its end is the adoption of basso continuo at the beginning of the Baroque period.
+> **Renaissance music** is traditionally understood 
+> to cover European music of the 15th and 16th centuries, 
+> later than the Renaissance era as it is understood in other disciplines. 
+> 
+> Rather than starting from the early 14th-century ars nova, 
+> the Trecento music was treated by musicology as a coda to medieval music 
+> and the new era dated from the rise of triadic harmony 
+> and the spread of the contenance angloise style 
+> from the British Isles to the Burgundian School. 
+> A convenient watershed for its end 
+> is the adoption of basso continuo at the beginning of the Baroque period.
 >
 > The period may be roughly subdivided, with an early period corresponding to the career of Guillaume Du Fay (c. 1397–1474) and the cultivation of cantilena style, a middle dominated by Franco-Flemish School and the four-part textures favored by Johannes Ockeghem (1410s or '20s–1497) and Josquin des Prez (late 1450s–1521), and culminating during the Counter-Reformation in the florid counterpoint of Palestrina (c. 1525–1594) and the Roman School.
 >
