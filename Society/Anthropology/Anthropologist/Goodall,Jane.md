@@ -129,7 +129,7 @@ described_at_URL:
 # [[Goodall,Jane]] 
 
 #is_/similar_to :: [[../../../bio/Biologist/Fossey,Dian|Dian Fossey]] 
-#is_/similar_to :: [[../../../bio/Biologist/Fossey,Dian|Dian Fossey]] 
+#is_/similar_to :: [[../../../bio/Biologist/Galdikas,Birutė|Galdikas,Birutė]] 
 #is_/same_as :: [[WD~Jane_Goodall,184746]] 
 
 ## #has_/text_of_/abstract 
