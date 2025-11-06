@@ -23,7 +23,7 @@ Commons_category: Differential geometry
 Krugosvet_article: nauka_i_tehnika/matematika/DIFFERENTSIALNAYA_GEOMETRIYA.html
 ---
 
-# [[Differential_geometry]] 
+# [[Differential_Geometry]] 
 
 #is_/same_as :: [[../../WikiData/WD~Differential_geometry,188444|WD~Differential_geometry,188444]] 
 
