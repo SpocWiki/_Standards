@@ -34,7 +34,7 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 # [[Ring(Math)]] 
 
-#is_/same_as :: [[WD~Ring,161172]] 
+#is_/same_as :: [[../../../WikiData/WD~Ring,161172|WD~Ring,161172]]  
 
 ## #has_/text_of_/abstract 
 

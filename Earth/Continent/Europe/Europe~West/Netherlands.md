@@ -562,7 +562,7 @@ markerFile: [[Netherlands]]
 [Area-Land::33920]
 has_place_continent:: [[Europe]]  
 [VehicleCode::NL]
-Capital :: [[Amsterdam]]  
+Capital :: [[Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam]]  
 ![[Royal_coat_of_arms_of_the_Netherlands.svg|650]]
 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Netherlands.mp3]]
@@ -580,7 +580,7 @@ Capital :: [[Amsterdam]]
 
 | City                                                                                                                        | Province                                                                     | Pop@2024 |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------- |
-| [[Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam\|Amsterdam]]                                               | [[Netherlands/Provinces~Netherlands/Noord-Holland\|North Holland]]           | 933,680  |
+| [[Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam\|Amsterdam]]                                               | [[Netherlands/Provinces~Netherlands/Noord-Holland\|North Holland]]           | 933,680  |
 | [[Netherlands/Provinces~Netherlands/Zuid-Holland/City/Rotterdam\|Rotterdam]]                                                | [[Netherlands/Provinces~Netherlands/Zuid-Holland\|South Holland]]            | 655,468  |
 | [[Netherlands/City/Den_Haag\|Den_Haag]]                                                                                     | [[Netherlands/Provinces~Netherlands/Zuid-Holland\|South Holland]]            | 538,000  |
 | [[Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Utrecht-county/Utrecht,City\|Utrecht]]                | [[Netherlands/Provinces~Netherlands/Utrecht,Province\|Utrecht,Province]]     | 375,161  |
