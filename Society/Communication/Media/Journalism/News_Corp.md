@@ -3,6 +3,10 @@ aliases:
 - "News Corp"
 ---
 
+# [[News_Corp]] 
+
+#is_/same_as :: 
+
 ## #has_/text_of_/abstract 
 
 > The second and current incarnation of **News Corp**oration, doing business as News Corp, 
