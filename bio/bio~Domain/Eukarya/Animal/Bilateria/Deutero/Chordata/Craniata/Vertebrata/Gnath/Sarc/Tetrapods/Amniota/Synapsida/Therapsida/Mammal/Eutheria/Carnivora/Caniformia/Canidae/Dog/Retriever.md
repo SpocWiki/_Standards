@@ -1,0 +1,37 @@
+---
+aliases:
+has_id_wikidata: Q39017
+---
+
+# [[Retriever]] 
+
+#is_/same_as :: [[WD~Retriever,39017]] 
+
+## #has_/text_of_/abstract 
+
+> A **Retriever** is a type of gun dog that retrieves game for a hunter. 
+> 
+> Generally gun dogs are divided into three major classifications: retrievers, flushing spaniels, and pointing breeds. 
+> 
+> Retrievers were bred primarily to retrieve birds or other prey 
+> and return them to the hunter without damage; 
+> retrievers are distinguished in that nonslip retrieval is their primary function. 
+> 
+> As a result, retriever breeds are bred for soft mouths 
+> and a great willingness to please, learn, and obey.  
+> A soft mouth refers to the willingness of the dog to carry game in its mouth 
+> without biting into it. 
+> 
+> "Hard mouth" is a serious fault in a hunting dog and is very difficult to correct. 
+> A hard-mouthed dog renders game unpresentable or at worst inedible.
+>
+> The retriever's willingness to please, patient nature and trainability 
+> have made breeds such as the Labrador retriever and Golden retriever 
+> popular as a disability assistance dog. 
+> 
+> The outstanding reputation of the retriever has landed 
+> both the Labrador and the Golden retriever among the 
+> top 10 best dogs for children and families around the world.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Retriever) 
+
