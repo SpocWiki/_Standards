@@ -32,7 +32,7 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 ## #has_/text_of_/abstract 
 
 > In mathematics, a module is a generalization of the notion of [[../Linear_Algebra/Vector_Space|vector space]] 
-> in which the field of scalars is only a (not necessarily commutative) [[Ring(Math)]], 
+> in which the field of scalars is only a (not necessarily commutative) [[../Ring_Theory/Ring(Math)]], 
 > not a [[Field(Math)|Field(Math)]]  . 
 > 
 > The concept of a module also generalizes the notion of an abelian group, 

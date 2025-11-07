@@ -180,7 +180,7 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 1924 | [[../../../../../../Earth/Continent/Europe/Europe~West/France\|France]]              | [[Chamonix]]                    |  W  | 1924-01-25 | 2012-02-05 |
 | 1924 | [[../../../../../../Earth/Continent/Europe/Europe~West/France\|France]]              | [[Paris]]                       |  S  | 1924-05-04 | 2010-07-27 |
 | 1928 | [[../../../../../../Earth/Continent/Europe/Europe~Central/Switzerland\|Switzerland]] | [[St. Moritz]]                  |  W  | 1928-02-11 | 2008-02-19 |
-| 1928 | [[../../../../../../Earth/Continent/Europe/Europe~West/Netherlands\|Netherlands]]    | [[Amsterdam]]                   |  S  | 1928-07-28 | 2006-08-12 |
+| 1928 | [[../../../../../../Earth/Continent/Europe/Europe~West/Netherlands\|Netherlands]]    | [[../../../../../Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam]]                   |  S  | 1928-07-28 | 2006-08-12 |
 | 1932 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Lake Placid]]                 |  W  | 1932-02-04 | 2004-02-15 |
 | 1932 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Los Angeles]]                 |  S  | 1932-07-30 | 2002-08-14 |
 | 1936 | [[../../../../../../Earth/Continent/Europe/Europe~Central/Germany\|Germany]]         | [[Garmisch-Partenkirchen]]      |  W  | 1936-02-06 | 2000-02-16 |

@@ -736,12 +736,6 @@ X_Twitter_username: govbrazil
 
 # [[Brazil]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Brazil 
-
-[[Brazil/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: BRL ]
 [	ISO4217-currency_name	 :: Brazilian Real ]
 [	ISO4217-currency_numeric	 :: 986 ]
@@ -807,10 +801,16 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 076 ]
 
-
-
 [ISO2::BR]
 [ISO3::BRA] 
+
+#is_/same_as :: [[../../../WikiData/WD~Brazil,155|WD~Brazil,155]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Brazil 
+
+[[Brazil/ReadMe]] 
+
 
 ## #has_/map  
 
