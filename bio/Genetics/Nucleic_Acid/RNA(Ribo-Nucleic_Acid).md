@@ -1,3 +1,56 @@
+---
+aliases:
+has_id_wikidata: Q11053
+subclass_of:
+  - "[[_Standards/WikiData/WD~nucleic_acids,123619]]"
+  - "[[_Standards/WikiData/WD~biopolymer,422649]]"
+  - "[[_Standards/WikiData/WD~gene_product,424689]]"
+  - "[[_Standards/WikiData/WD~polyribonucleotide,85210139]]"
+part_of:
+  - "[[_Standards/WikiData/WD~ribonucleoprotein_complex,417662]]"
+  - "[[_Standards/WikiData/WD~gene_silencing,1431332]]"
+  - "[[_Standards/WikiData/WD~RNA_binding,14330639]]"
+  - "[[_Standards/WikiData/WD~RNA_metabolic_process,14330807]]"
+  - "[[_Standards/WikiData/WD~RNA_catabolic_process,15311574]]"
+  - "[[_Standards/WikiData/WD~RNA_export_from_nucleus,15334281]]"
+  - "[[_Standards/WikiData/WD~ATP_dependent_activity,_acting_on_RNA,21102329]]"
+  - "[[_Standards/WikiData/WD~RNA_transport,21105696]]"
+  - "[[_Standards/WikiData/WD~ribonucleoprotein_granule,21106243]]"
+  - "[[_Standards/WikiData/WD~RNA_import_into_nucleus,21119991]]"
+  - "[[_Standards/WikiData/WD~RNA_import_into_mitochondrion,21123293]]"
+  - "[[_Standards/WikiData/WD~RNA_transmembrane_transporter_activity,21136004]]"
+  - "[[_Standards/WikiData/WD~RNA_biosynthetic_process,21170412]]"
+  - "[[_Standards/WikiData/WD~RNA_phosphodiester_bond_hydrolysis,21763256]]"
+  - "[[_Standards/WikiData/WD~protein_DNA_RNA_complex,22325439]]"
+  - "[[_Standards/WikiData/WD~protein_lipid_RNA_complex,22328923]]"
+  - "[[_Standards/WikiData/WD~HDL_containing_protein_lipid_RNA_complex,22328924]]"
+  - "[[_Standards/WikiData/WD~LDL_containing_protein_lipid_RNA_complex,22328925]]"
+  - "[[_Standards/WikiData/WD~catalytic_activity,_acting_on_RNA,41513029]]"
+  - "[[_Standards/WikiData/WD~ribosome,42244]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~ribonucleotide,422484]]"
+  - "[[_Standards/WikiData/WD~RNA_motif,85209825]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Types_of_RNA,11014329]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+properties_for_this_type: Rfam ID
+CosIng_number: "37515"
+Commons_gallery: RNA
+Commons_category: RNA
+short_name: RNA
+OmegaWiki_Defined_Meaning: "338622"
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8C%D5%86%D4%B9%20%28RNA%29.ogg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/RNA%20pol.jpg
+CAS_Registry_Number: 63231-63-0
+UMLS_CUI: C0035668
+MeSH_tree_code: D13.444.735
+Merck_Index_monograph: m9597
+Biology_Online_Biology_Dictionary_entry: ribonucleic-acid
+---
+
+# [[RNA(Ribo-Nucleic_Acid)]] 
+
+#is_/same_as :: [[../../../WikiData/WD~RNA,11053|WD~RNA,11053]] 
 
 ## #has_/text_of_/abstract 
 

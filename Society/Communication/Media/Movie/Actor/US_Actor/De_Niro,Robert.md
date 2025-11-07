@@ -1,12 +1,183 @@
 ---
 aliases:
-- "Robert De Niro"
-- "Robert Anthony De Niro"
+  - Robert De Niro
+  - Robert Anthony De Niro
+  - Robert_De_Niro
+has_id_wikidata: Q36949
+nominated_for:
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
+award_received:
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
+  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
+  - "[[_Standards/WikiData/WD~Golden_Lion,209459]]"
+  - "[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]"
+  - "[[_Standards/WikiData/WD~Golden_Eagle_Awards,580231]]"
+  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]"
+  - "[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]"
+  - "[[_Standards/WikiData/WD~Donostia_Award,908858]]"
+  - "[[_Standards/WikiData/WD~Order_of_Merit_of_the_Italian_Republic,1059569]]"
+  - "[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]"
+  - "[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]"
+  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
+  - "[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]"
+  - "[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_Merit_of_the_Italian_Republic,14539884]]"
+  - "[[_Standards/WikiData/WD~Theatre_World_Special_Award,28007416]]"
+  - "[[_Standards/WikiData/WD~Global_Citizen_Awards,48965436]]"
+  - "[[_Standards/WikiData/WD~Marrakech_International_Film_Festival_Honorary_Award,127421432]]"
+  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
+  - "[[_Standards/WikiData/WD~Academy_Awards,19020]]"
+notable_work:
+  - "[[_Standards/WikiData/WD~The_Untouchables,108525]]"
+  - "[[_Standards/WikiData/WD~Silver_Linings_Playbook,116845]]"
+  - "[[_Standards/WikiData/WD~The_Godfather_Part_II,184768]]"
+  - "[[_Standards/WikiData/WD~The_Deer_Hunter,201674]]"
+  - "[[_Standards/WikiData/WD~Once_Upon_a_Time_in_America,206388]]"
+  - "[[_Standards/WikiData/WD~Raging_Bull,220780]]"
+  - "[[_Standards/WikiData/WD~Casino,220910]]"
+  - "[[_Standards/WikiData/WD~The_Mission,302490]]"
+  - "[[_Standards/WikiData/WD~Jackie_Brown,431252]]"
+  - "[[_Standards/WikiData/WD~Cape_Fear,501995]]"
+  - "[[_Standards/WikiData/WD~Meet_the_Parents,623724]]"
+  - "[[_Standards/WikiData/WD~New_York,_New_York,743367]]"
+  - "[[_Standards/WikiData/WD~The_Good_Shepherd,786562]]"
+  - "[[_Standards/WikiData/WD~Mean_Streets,841335]]"
+  - "[[_Standards/WikiData/WD~Awakenings,842073]]"
+  - "[[_Standards/WikiData/WD~The_King_of_Comedy,1122281]]"
+  - "[[_Standards/WikiData/WD~A_Bronx_Tale,1130705]]"
+  - "[[_Standards/WikiData/WD~Bang_the_Drum_Slowly,1171445]]"
+  - "[[_Standards/WikiData/WD~Hi,_Mom!,1546809]]"
+  - "[[_Standards/WikiData/WD~The_Family,3061609]]"
+  - "[[_Standards/WikiData/WD~The_Irishman,29057443]]"
+  - "[[_Standards/WikiData/WD~Joker,42759035]]"
+  - "[[_Standards/WikiData/WD~Killers_of_the_Flower_Moon,66316924]]"
+  - "[[_Standards/WikiData/WD~Brazil,25057]]"
+  - "[[_Standards/WikiData/WD~Goodfellas,42047]]"
+  - "[[_Standards/WikiData/WD~Heat,42198]]"
+  - "[[_Standards/WikiData/WD~Taxi_Driver,47221]]"
+genre:
+  - "[[_Standards/WikiData/WD~drama_film,130232]]"
+  - "[[_Standards/WikiData/WD~fantasy_film,157394]]"
+  - "[[_Standards/WikiData/WD~comedy_film,157443]]"
+  - "[[_Standards/WikiData/WD~Western_film,172980]]"
+  - "[[_Standards/WikiData/WD~film_noir,185867]]"
+  - "[[_Standards/WikiData/WD~action_film,188473]]"
+  - "[[_Standards/WikiData/WD~horror_film,200092]]"
+  - "[[_Standards/WikiData/WD~war_film,369747]]"
+  - "[[_Standards/WikiData/WD~heist_film,496523]]"
+  - "[[_Standards/WikiData/WD~epic_film,652256]]"
+  - "[[_Standards/WikiData/WD~crime_film,959790]]"
+  - "[[_Standards/WikiData/WD~mystery_film,1200678]]"
+  - "[[_Standards/WikiData/WD~sport_film,1339864]]"
+  - "[[_Standards/WikiData/WD~neo_noir,2421031]]"
+  - "[[_Standards/WikiData/WD~thriller_film,2484376]]"
+  - "[[_Standards/WikiData/WD~gangster_film,7444356]]"
+  - "[[_Standards/WikiData/WD~historical_film,17013749]]"
+  - "[[_Standards/WikiData/WD~crime_thriller_film,19367312]]"
+  - "[[_Standards/WikiData/WD~psychological_horror_film,109629396]]"
+  - "[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]"
+  - "[[_Standards/WikiData/WD~crime_drama_film,113485322]]"
+  - "[[_Standards/WikiData/WD~war_drama,116456802]]"
+  - "[[_Standards/WikiData/WD~historical_drama_film,116514801]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]"
+student_of:
+  - "[[_Standards/WikiData/WD~Lee_Strasberg,297945]]"
+  - "[[_Standards/WikiData/WD~Wynn_Handman,8040173]]"
+  - "[[_Standards/WikiData/WD~Herbert_Berghof,10294979]]"
+spouse:
+  - "[[_Standards/WikiData/WD~Grace_Hightower,404341]]"
+  - "[[_Standards/WikiData/WD~Diahnne_Abbott,509192]]"
+member_of: "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
+child:
+  - "[[_Standards/WikiData/WD~Drena_De_Niro,541821]]"
+  - "[[_Standards/WikiData/WD~Raphael_De_Niro,28001783]]"
+  - "[[_Standards/WikiData/WD~Elliot_De_Niro,28151955]]"
+  - "[[_Standards/WikiData/WD~Julian_De_Niro,28151971]]"
+  - "[[_Standards/WikiData/WD~Airyn_De_Niro,28151968]]"
+occupation:
+  - "[[_Standards/WikiData/WD~television_producer,578109]]"
+  - "[[_Standards/WikiData/WD~theatrical_producer,1759246]]"
+  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
+  - "[[_Standards/WikiData/WD~voice_actor,2405480]]"
+  - "[[_Standards/WikiData/WD~film_director,2526255]]"
+  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
+  - "[[_Standards/WikiData/WD~director,3455803]]"
+  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
+  - "[[_Standards/WikiData/WD~manufacturer,13235160]]"
+  - "[[_Standards/WikiData/WD~producer,47541952]]"
+  - "[[_Standards/WikiData/WD~film_screenwriter,69423232]]"
+  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
+  - "[[_Standards/WikiData/WD~actor,33999]]"
+  - "[[_Standards/WikiData/WD~writer,36180]]"
+different_from: "[[_Standards/WikiData/WD~Robert_De_Niro_Sr.,951321]]"
+father: "[[_Standards/WikiData/WD~Robert_De_Niro_Sr.,951321]]"
+ethnic_group: "[[_Standards/WikiData/WD~Italian_Americans,974693]]"
+educated_at:
+  - "[[_Standards/WikiData/WD~Lee_Strasberg_Theatre_and_Film_Institute,1542213]]"
+  - "[[_Standards/WikiData/WD~HB_Studio,5629067]]"
+  - "[[_Standards/WikiData/WD~Little_Red_School_House_and_Elisabeth_Irwin_High_School,6651525]]"
+  - "[[_Standards/WikiData/WD~P.S._41,7117077]]"
+  - "[[_Standards/WikiData/WD~Rhodes_Preparatory_School,7321029]]"
+  - "[[_Standards/WikiData/WD~Stella_Adler_Studio_of_Acting,7607037]]"
+filmography: "[[_Standards/WikiData/WD~Robert_De_Niro_filmography,2635302]]"
+residence:
+  - "[[_Standards/WikiData/WD~Marbletown,3708911]]"
+  - "[[_Standards/WikiData/WD~Gardiner,3710642]]"
+given_name: "[[_Standards/WikiData/WD~Robert,4927937]]"
+unmarried_partner:
+  - "[[_Standards/WikiData/WD~Charmaine_Sinclair,5086425]]"
+  - "[[_Standards/WikiData/WD~Toukie_Smith,7828852]]"
+archives_at: "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+part_of: "[[_Standards/WikiData/WD~Martin_Scorsese_and_Robert_De_Niro,6776558]]"
+mother: "[[_Standards/WikiData/WD~Virginia_Admiral,7815833]]"
+family_name: "[[_Standards/WikiData/WD~De_Niro,21491427]]"
+position_held: "[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]"
+holds_diplomatic_passport_of: "[[_Standards/WikiData/WD~Antigua_and_Barbuda,781]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
+writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+native_language: "[[_Standards/WikiData/WD~English,1860]]"
+place_of_birth:
+  - "[[_Standards/WikiData/WD~Manhattan,11299]]"
+  - "[[_Standards/WikiData/WD~New_York_City,60]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+country_of_citizenship:
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Italy,38]]"
+number_of_children: 7
+height: 177
+professional_partner: "[[_Standards/WikiData/WD~Martin_Scorsese,41148]]"
+identifier_in_filmpolski_movie_database: "150"
+Facebook_username: bobbydeniro
+Wolfram_Language_entity_code: Entity["Person", "RobertDeNiro::xb8g5"]
+Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/DE_NIRO_ROBERT.html
+name_in_kana: ロバート・デ・ニーロ
+birth_name: Robert Anthony De Niro
+name_in_native_language: Robert De Niro
+Commons_gallery: Robert De Niro
+Commons_category: Robert De Niro
+work_period_start_: 1963-01-01T00:00:00Z
+date_of_birth: 1943-08-17T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20de%20Niro-9568.jpg
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Unterschrift%20Robert%20De%20Niro%20%28Autogramm%29%20US-amerikanischer%20Schauspieler.png
+ISNI: "0000000120968949"
+Libris_URI: 0xbfjsdj50mmfd0
+Plex_person_key: 5d776824961905001eb90984
 ---
+
+# [[De_Niro,Robert]] 
 
 #has_/time_/started :: 1943-08-17 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Robert_De_Niro,36949|WD~Robert_De_Niro,36949]] 
 
 ## #has_/text_of_/abstract 
 
