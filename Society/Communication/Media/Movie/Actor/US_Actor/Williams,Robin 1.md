@@ -221,13 +221,13 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/UILYAMS_ROBIN.ht
 > 
 > According to his widow, Williams had been diagnosed with Parkinson's disease, 
 > and had been experiencing depression, anxiety, and increasing paranoia. 
->
+> 
 > His autopsy found "diffuse Lewy body disease", 
 > and Lewy body dementia professionals said 
 > his symptoms were consistent with dementia with Lewy bodies. 
 > In the weeks following his suicide, Williams was celebrated in a wave of tributes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Robin%20Williams)
+> [Wikipedia](https://en.wikipedia.org/wiki/Robin%20Williams) 
 
 
 ## Confidential Links & Embeds: 
