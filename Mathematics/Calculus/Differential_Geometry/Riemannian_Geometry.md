@@ -13,7 +13,7 @@ Stack_Exchange_tag:
 
 # [[Riemannian_Geometry]] 
 
-#is_/same_as :: [[WD~Riemannian_geometry,761383]] 
+#is_/same_as :: [[../../../WikiData/WD~Riemannian_geometry,761383|WD~Riemannian_geometry,761383]]  
 
 ## #has_/text_of_/abstract 
 

@@ -1,6 +1,15 @@
 ---
 aliases:
 has_id_wikidata: Q653294
+subclass_of:
+  - "[[_Standards/WikiData/WD~optical_system,2920313]]"
+  - "[[_Standards/WikiData/WD~optical_component,65037298]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+different_from: "[[_Standards/WikiData/WD~grating,56304412]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mi>sin</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><msub><mi>&#x03B1;</mi><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msub><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mi>n</mi><mi>&#x03BB;</mi></mstyle></mrow></math>
+Dewey_Decimal_Classification_works_and_editions_: "535.420284"
+Commons_category: Diffraction gratings
 ---
 
 # [[Diffraction_Grating]] 
