@@ -1,8 +1,8 @@
 ---
 aliases:
-- Robin_Williams
-- "Robin Williams"
-- "Robin McLaurin Williams"
+  - Robin_Williams
+  - Robin Williams
+  - Robin McLaurin Williams
 has_id_wikidata: Q83338
 nominated_for:
   - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
@@ -156,9 +156,9 @@ Plex_person_key: 5d7768253c3c2a001fbcad1e
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/UILYAMS_ROBIN.html
 ---
 
-# [[Williams,Robin 1]] 
+# [[[Williams,Robin]]
 
-#is_/same_as :: [[WD~Robin_Williams,83338]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Robin_Williams,83338|WD~Robin_Williams,83338]]  
 
 #has_/time_/started :: 1951-07-21
 #has_/time_/stopped :: 2014-08-11 

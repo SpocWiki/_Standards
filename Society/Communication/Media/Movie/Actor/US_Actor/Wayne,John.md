@@ -1,6 +1,7 @@
 ---
 aliases:
   - John_Wayne
+  - John Wayne
   - Marion Robert Morrison
   - The Duke
 has_id_wikidata: Q40531

@@ -1,8 +1,11 @@
 ---
 aliases:
+- "Emma_Stone"
 - "Emma Stone"
 - "Emily Jean Stone"
 ---
+
+# [[Stone,Emma]]
 
 #has_/time_/started :: 1988-11-06 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

@@ -1,5 +1,6 @@
 ---
 aliases:
+- "Robin_Wright"
 - "Robin Wright"
 - "Robin Gayle Wright"
 ---

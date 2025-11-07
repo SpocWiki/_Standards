@@ -1,8 +1,11 @@
 ---
 aliases:
+- "Denzel_Washington"
 - "Denzel Washington"
 - "Denzel Hayes Washington Jr."
 ---
+
+# [[Washington,Denzel]] 
 
 #has_/time_/started :: 1954-12-28 
 #has_/children ::  [[Washington,John_David]] 
