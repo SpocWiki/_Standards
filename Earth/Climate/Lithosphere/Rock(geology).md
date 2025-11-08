@@ -29,6 +29,10 @@ OpenStreetMap_tag:
   - natural=rock
 ---
 
+# [[Rock(geology)]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Rock,8063|WD~Rock,8063]] 
+
 ## #has_/text_of_/abstract 
 
 > In geology, rock (or stone) is any naturally occurring solid mass or aggregate of minerals or mineraloid matter. It is categorized by the minerals included, its chemical composition, and the way in which it is formed. Rocks form the Earth's outer solid layer, the crust, and most of its interior, except for the liquid outer core and pockets of magma in the asthenosphere. The study of rocks involves multiple subdisciplines of geology, including petrology and mineralogy. It may be limited to rocks found on Earth, or it may include planetary geology that studies the rocks of other celestial objects.

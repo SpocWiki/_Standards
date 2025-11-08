@@ -1,8 +1,50 @@
+---
+aliases:
+  - Robotik
+has_id_wikidata: Q170978
+different_from: "[[_Standards/WikiData/WD~cybernetics,123637]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~mechatronics,180165]]"
+  - "[[_Standards/WikiData/WD~control_engineering,_mechatronics_and_robotics,113104535]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~industry,268592]]"
+  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+practiced_by: "[[_Standards/WikiData/WD~roboticist,3437279]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_robotics,7112718]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Robotics,7380394]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Robotics,13856993]]"
+part_of: "[[_Standards/WikiData/WD~industrial_sector,8148]]"
+is_the_study_of: "[[_Standards/WikiData/WD~robot,11012]]"
+IAB_code: "638"
+OmegaWiki_Defined_Meaning: "1017307"
+ACM_Classification_Code_2012_: "10010554"
+GitHub_topic: robotics
+subreddit: robotics
+PhilPapers_topic: robotics
+hashtag: robotics
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Shadow%20Hand%20Bulb%20large.jpg
+Stack_Exchange_site_URL: https://robotics.stackexchange.com
+U_S_National_Archives_Identifier: "10644311"
+IEV_number: 171-09-26
+Basisklassifikation: "50.25"
+MeSH_tree_code:
+  - H01.671.293.643
+  - J01.897.104.834
+  - L01.224.050.375.630
+Commons_category: Robotics
+---
 
+# [[Robotics]] 
+
+#is_/same_as :: [[../../WikiData/WD~Robotics,170978|WD~Robotics,170978]] 
 
 ## #has_/text_of_/abstract 
 
-> **Robotics** is the interdisciplinary study and practice of the design, construction, operation, and use of robots.
+> **Robotics** is the interdisciplinary study and practice of 
+> the design, construction, operation, and use of robots.
 >
 > Within mechanical engineering, robotics is the design and construction of the physical structures of robots, while in computer science, robotics focuses on robotic automation algorithms. Other disciplines contributing to robotics include electrical, control, software, information, electronic, telecommunication, computer, mechatronic, and materials engineering.
 >

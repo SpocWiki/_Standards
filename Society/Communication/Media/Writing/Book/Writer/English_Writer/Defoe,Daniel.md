@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Daniel Defoe
+  - Daniel_Defoe
+  - Defoe
 has_id_wikidata: Q40946
 country_of_citizenship:
   - "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
@@ -88,7 +91,7 @@ ISNI: "0000000458753523"
 
 ## #has_/text_of_/abstract 
 
-> Daniel Defoe ( c. 1660 – 24 April 1731) was an English writer, merchant and spy. 
+> Daniel Defoe (c. 1660 – 24 April 1731) was an English writer, merchant and spy. 
 > He is most famous for his novel Robinson Crusoe, published in 1719, 
 > which is claimed to be second only to the Bible in its number of translations. 
 > 
