@@ -6,10 +6,10 @@
 ## #has_/text_of_/abstract 
 
 > Queen are a British rock band formed in London in 1970 by 
-> - [[Mercury,Freddie]] (lead vocals, piano), 
-> - [[May,Brian]] (guitar, vocals), and 
-> - [[Taylor,Roger(Queen)]] (drums, vocals), later joined by 
-> - [[Deacon,John]] (bass). 
+> - [[Queen(Band)/Mercury,Freddie]] (lead vocals, piano), 
+> - [[Queen(Band)/May,Brian]] (guitar, vocals), and 
+> - [[Queen(Band)/Taylor,Roger(Queen)]] (drums, vocals), later joined by 
+> - [[Queen(Band)/Deacon,John]] (bass). 
 > 
 > Their earliest works were influenced by progressive rock, hard rock, and heavy metal, 
 > but the band gradually ventured into more conventional and radio-friendly works by incorporating further styles, such as arena rock and pop rock.
@@ -44,7 +44,7 @@
 > and the next day died of bronchopneumonia, a complication of AIDS.  
 > One more album was released featuring Mercury's vocal, 1995's Made in Heaven. 
 > Deacon retired in 1997, while May and Taylor continued to make sporadic appearances together.  
-> Since 2004, they have toured as "Queen +", with vocalists Paul Rodgers and [[Lambert,Adam]].
+> Since 2004, they have toured as "Queen +", with vocalists Paul Rodgers and [[Queen(Band)/Lambert,Adam]].
 >
 > Queen have been a global presence in popular culture for more than half a century. 
 > Estimates of their record sales range from 250 million to 300 million, 
