@@ -1,11 +1,14 @@
 ---
 aliases:
   - Romani people
-  - Roma 
+  - Roma
   - Rom
-  - Romanies 
+  - Romanies
   - Romany
   - Sinti
+  - Gypsy
+  - Zigeuner
+  - Gypsies
 has_id_wikidata: Q8060
 demonym:
   - rom

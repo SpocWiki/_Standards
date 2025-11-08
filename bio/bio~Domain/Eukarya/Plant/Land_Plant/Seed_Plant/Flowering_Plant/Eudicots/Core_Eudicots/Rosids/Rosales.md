@@ -1,12 +1,35 @@
 ---
 aliases:
-- Rosales
+  - Rosales
 title: Rosales
+has_id_wikidata: Q21895
+parent_taxon: "[[_Standards/WikiData/WD~fabids,2683213]]"
+permanent_duplicated_item:
+  - "[[_Standards/WikiData/WD~Q23014513,23014513]]"
+  - "[[_Standards/WikiData/WD~Q96182801,96182801]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "24057"
+OmegaWiki_Defined_Meaning: "361434"
+Commons_category: Rosales
+taxon_name: Rosales
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Rosa%20majalis0.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20bracteata.jpg
+EPPO_Code: 1ROSO
+MeSH_tree_code: B01.875.800.575.912.250.859.937
+NBN_System_Key: NHMSYS0021060391
+taxon_common_name:
+  - šipkovci
+  - 蔷薇目
 ---
 
 # [[Rosales]] 
 
-![Stinging nettle, Urtica dioica](Rosales/Urtica_dioica.jpg)  ![Rosa_davurica](Rosales/Rosa_davurica.jpg)  ![Cannabis_sativa](Rosales/Cannabis_sativa.jpg) 
+![Stinging nettle, Urtica dioica](Rosales/Urtica_dioica.jpg)  ![Rosa_davurica](Rosales/Rosa_davurica.jpg)  ![Cannabis_sativa](Rosales/Cannabaceae/Cannabis/Cannabis_sativa.jpg) 
+
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Rosales,21895|WD~Rosales,21895]] 
+
 
 ## #has_/text_of_/abstract 
 
@@ -73,7 +96,7 @@ Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 ------------------------------------------------------------------------
-![Cannabis_sativa](Rosales/Cannabis_sativa.jpg) 
+![Cannabis_sativa](Rosales/Cannabaceae/Cannabis/Cannabis_sativa.jpg) 
 Scientific Name ::   Cannabis sativa
 Comments           Marijuana plant (Cannabaceae), cultivated at the Botanical Garden Basel, Switzerland.
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
