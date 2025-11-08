@@ -1,7 +1,12 @@
-﻿---
+---
 aliases:
 - "Steven Wilson"
 ---
+
+# [[Wilson,Steven]] 
+
+
+## #has_/text_of_/abstract 
 
 > Steven John Wilson (born 3 November 1967) is an English musician. 
 > He is the founder, guitarist, lead vocalist and songwriter of the rock band Porcupine Tree, 

@@ -1,4 +1,8 @@
 
+# [[Jethro_Tull(Band)]] 
+
+## #has_/text_of_/abstract 
+
 > Jethro Tull are  a British rock band formed in Blackpool, Lancashire in 1967. 
 > Initially playing blues rock and jazz fusion, 
 > the band soon incorporated elements of English folk music, hard rock and classical music, 

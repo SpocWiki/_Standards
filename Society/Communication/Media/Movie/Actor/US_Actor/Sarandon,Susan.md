@@ -1,9 +1,12 @@
 ---
 aliases:
+- "Susan_Sarandon"
 - "Susan Sarandon"
 - "Susan Abigail Sarandon"
 - "Susan Abigail Tomalin"
 ---
+
+# [[Sarandon,Susan]] 
 
 #has_/time_/started :: 1946-10-04 
 #has_/spouse :: [[Sarandon,Chris]] 

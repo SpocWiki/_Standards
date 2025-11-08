@@ -1,64 +1,68 @@
 ---
-Commons_category: "Rocky Mountains"
-Commons_gallery: "Rocky Mountains"
-continent: '[[_Standards/WikiData/WD~North_America,49]]'
-coordinate_location: "Point(-113.5 44.5)"
-country:
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]'
-elevation_above_sea_level: 4401
 has_id_wikidata: Q5463
-highest_point: '[[_Standards/WikiData/WD~Mount_Elbert,657225]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Moraine%20Lake%2017092005.jpg"
-instance_of: '[[_Standards/WikiData/WD~non-geologically_related_mountain_range,1437459]]'
+Commons_category: Rocky Mountains
+Commons_gallery: Rocky Mountains
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
+coordinate_location: Point(-113.5 44.5)
+country:
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
+elevation_above_sea_level: 4401
+highest_point: "[[_Standards/WikiData/WD~Mount_Elbert,657225]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Moraine%20Lake%2017092005.jpg
+instance_of: "[[_Standards/WikiData/WD~non-geologically_related_mountain_range,1437459]]"
 length: 3000
 Libris_URI: 97mpndwt17dn9kd
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Utah,829]]'
-- '[[_Standards/WikiData/WD~Wyoming,1214]]'
-- '[[_Standards/WikiData/WD~Montana,1212]]'
-- '[[_Standards/WikiData/WD~Idaho,1221]]'
-- '[[_Standards/WikiData/WD~Colorado,1261]]'
-- '[[_Standards/WikiData/WD~New_Mexico,1522]]'
-- '[[_Standards/WikiData/WD~Alberta,1951]]'
-- '[[_Standards/WikiData/WD~British_Columbia,1973]]'
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/RockyMountains-Range.svg"
+  - "[[_Standards/WikiData/WD~Utah,829]]"
+  - "[[_Standards/WikiData/WD~Wyoming,1214]]"
+  - "[[_Standards/WikiData/WD~Montana,1212]]"
+  - "[[_Standards/WikiData/WD~Idaho,1221]]"
+  - "[[_Standards/WikiData/WD~Colorado,1261]]"
+  - "[[_Standards/WikiData/WD~New_Mexico,1522]]"
+  - "[[_Standards/WikiData/WD~Alberta,1951]]"
+  - "[[_Standards/WikiData/WD~British_Columbia,1973]]"
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/RockyMountains-Range.svg
 made_from_material:
-- '[[_Standards/WikiData/WD~sedimentary_rock,82480]]'
-- '[[_Standards/WikiData/WD~igneous_rock,42045]]'
-- '[[_Standards/WikiData/WD~metamorphic_rock,47069]]'
+  - "[[_Standards/WikiData/WD~sedimentary_rock,82480]]"
+  - "[[_Standards/WikiData/WD~igneous_rock,42045]]"
+  - "[[_Standards/WikiData/WD~metamorphic_rock,47069]]"
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Alberta,10302505]]'
-- '[[_Standards/WikiData/WD~WikiProject_British_Columbia,10396821]]'
-- '[[_Standards/WikiData/WD~WikiProject_Mountains,10802042]]'
-- '[[_Standards/WikiData/WD~WikiProject_Geology,14943910]]'
-- '[[_Standards/WikiData/WD~WikiProject_Colorado,21829782]]'
-- '[[_Standards/WikiData/WD~WikiProject_Idaho,21830164]]'
-- '[[_Standards/WikiData/WD~WikiProject_Montana,21830431]]'
-- '[[_Standards/WikiData/WD~WikiProject_New_Mexico,21830484]]'
-- '[[_Standards/WikiData/WD~WikiProject_Utah,21831056]]'
-- '[[_Standards/WikiData/WD~WikiProject_Wyoming,21831126]]'
-- '[[_Standards/WikiData/WD~WikiProject_Geography_of_Canada,120322493]]'
-mountain_range: '[[_Standards/WikiData/WD~American_Cordillera,605761]]'
+  - "[[_Standards/WikiData/WD~WikiProject_Alberta,10302505]]"
+  - "[[_Standards/WikiData/WD~WikiProject_British_Columbia,10396821]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Mountains,10802042]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Geology,14943910]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Colorado,21829782]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Idaho,21830164]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Montana,21830431]]"
+  - "[[_Standards/WikiData/WD~WikiProject_New_Mexico,21830484]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Utah,21831056]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Wyoming,21831126]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Geography_of_Canada,120322493]]"
+mountain_range: "[[_Standards/WikiData/WD~American_Cordillera,605761]]"
 native_label:
-- "montagnes Rocheuses"
-- "Rocky Mountains"
+  - montagnes Rocheuses
+  - Rocky Mountains
 OmegaWiki_Defined_Meaning: 756271
-orientation: '[[_Standards/WikiData/WD~north-south,123705753]]'
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Mountains%20banners.jpg"
-partially_coincident_with: '[[_Standards/WikiData/WD~Rocky_Mountain_System,59746321]]'
+orientation: "[[_Standards/WikiData/WD~north-south,123705753]]"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Mountains%20banners.jpg
+partially_coincident_with: "[[_Standards/WikiData/WD~Rocky_Mountain_System,59746321]]"
 U_S_National_Archives_Identifier: 10045934
 width: 650
 ---
+
+# [[Rocky_Mountains]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Rocky_Mountains,5463|WD~Rocky_Mountains,5463]] 
 
 ## #has_/text_of_/abstract 
 

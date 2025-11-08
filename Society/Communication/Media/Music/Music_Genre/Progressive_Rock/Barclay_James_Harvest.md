@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Barclay James Harvest"
 ---
