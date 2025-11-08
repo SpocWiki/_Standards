@@ -176,10 +176,14 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353313,42353313]]'
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"RomanEmpire\"]"
 ---
 
+# [[-0026-Roman_Empire+0395]] 
+
 #has_/time_/started :: `=this.has_time_started`
 #has_/time_/stopped ::  `=this.has_time_stopped`
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped.year ?? new Date().year) - dv.current().has_time_started))` 
+
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Roman_Empire,2277|WD~Roman_Empire,2277]] 
 
 ## #has_/text_of_/abstract 
 

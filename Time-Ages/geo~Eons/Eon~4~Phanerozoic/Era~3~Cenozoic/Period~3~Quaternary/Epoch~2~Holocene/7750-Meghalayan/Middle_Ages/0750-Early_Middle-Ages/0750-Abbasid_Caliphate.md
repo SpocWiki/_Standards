@@ -62,6 +62,9 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42351353,42351353]]'
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"AbbasidCaliphate\"]"
 ---
 
+# [[0750-Abbasid_Caliphate]] 
+
+#has_/previous_ :: [[../../../../../../../../../Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750|0661-Umayyad Caliphate+0750]] 
 #has_/time_/started :: `=this.has_time_started` 
 #has_/time_/stopped :: `=this.has_time_stopped` 
 

@@ -29,7 +29,7 @@ Commons_category: Gallic War
 
 # [[-0058-Gallic_War-0050]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Gallic_War,202161|WD~Gallic_War,202161]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Gallic_War,202161|WD~Gallic_War,202161]] 
 
 ## #has_/text_of_/abstract 
 

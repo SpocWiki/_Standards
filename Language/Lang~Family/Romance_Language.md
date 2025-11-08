@@ -39,9 +39,11 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Romance_languages,6234
 Universal_Decimal_Classification: 811.13
 ---
 
+
 # [[Romance_Language]] 
 
 #is_/same_as : [[WD~Romance_languages,19814]] 
+
 
 ## #has_/text_of_/abstract 
 
