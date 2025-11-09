@@ -871,6 +871,76 @@ official_website: http://gov.ru/
 
 # [Russia](Russia.md) 
 
+#has_/previous_item :: [[USSR]] 
+
+[	ISO4217-currency_alphabetic	 :: RUB ]
+[	ISO4217-currency_name	 :: Russian Ruble ]
+[	ISO4217-currency_numeric	 :: 643 ]
+[	ISO4217-currency_minor_unit	 :: 2 ] 
+[	ISO4217-currency_country_name	 :: RUSSIAN FEDERATION ]
+
+#has_/telephone_/Prefix_/country:: 7 
+#has_/telephone_/Prefix_/International :: 8,9,10  
+depending on the Provider 
+
+[	Global	 :: True ]
+[	Global_Name	 :: World ]
+
+[	name	 :: Russia ]
+[	name-en	 :: Russian Federation ]
+[	name-es	 :: Federación de Rusia ]
+[	name-fr	 :: Fédération de Russie ]
+[	name-cn	 :: 俄罗斯联邦 ]
+[	name-ar	 :: الاتحاد الروسي ]
+[	name-ru	 :: Российская Федерация ]
+
+[	CLDR_display_name	 :: Russia ]
+
+[	UNTERM_English	 :: Russian Federation (the) ]
+[	UNTERM_English_Formal	 :: the Russian Federation ]
+[	UNTERM_Spanish_Formal	 :: la Federación de Rusia ]
+[	UNTERM_Spanish	 :: Federación de Rusia (la) ]
+[	UNTERM_French	 :: Fédération de Russie (la) ]
+[	UNTERM_Arabic	 :: الاتحاد الروسي ]
+[	UNTERM_Arabic_Formal	 :: الاتحاد الروسي ]
+[	UNTERM_Chinese	 :: 俄罗斯联邦 ]
+[	UNTERM_Chinese_Formal	 :: 俄罗斯联邦 ]
+[	UNTERM_French_Formal	 :: la Fédération de Russie ]
+[	UNTERM_Russian	 :: Российская Федерация ]
+[	UNTERM_Russian_Formal	 :: Российская Федерация ]
+
+Region_Name ::  [Europe](Europe.md) 
+Intermediate_Region_Name ::  [Russia](.md) 
+Sub-region_Name ::  [Eastern Europe](Eastern%20Europe) 
+
+[	Region	 :: 150 ]
+[	Intermediate_Region	 ::  ]
+[	Sub-region	 :: 151 ]
+
+[	Geoname-ID	 :: 2017370 ]
+[	FIPS	 :: RS ]
+[	FIFA	 :: RUS ]
+[	IOC	 :: RUS ]
+[	MARC	 :: ru ]
+[	GAUL	 :: 204 ]
+[	WMO	 :: RS ]
+[	ITU	 :: RUS ]
+[	DS	 :: RUS ]
+[	TLD	 :: .ru ]
+[	EDGAR	 :: 1Z ]
+[	M49	 :: 643 ]
+
+[	is_independent	 :: Yes ]
+[	Developed_/Developing_Countries	 :: Developed ]
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_Island_Developing_States	 ::  ]
+
+[	ISO3166-1-numeric	 :: 643 ]
+
+[ISO2::RU]
+[ISO3::RUS] 
+
 #is_/same_as :: [[../../../../WikiData/WD~Russia,159]]  
 
 > [!info] This Article is only a Stub. 
@@ -968,83 +1038,7 @@ Resources:
 
 Note: Sevastopol is recognized internationally as part of Ukraine, but it's de facto administered by Russia. As of October 2023, international recognition may vary concerning the annexed regions, and some figures may differ due to geopolitical sensitivities.
 
-
-#has_/previous_item :: [[USSR]] 
-
-[	ISO4217-currency_alphabetic	 :: RUB ]
-[	ISO4217-currency_name	 :: Russian Ruble ]
-[	ISO4217-currency_numeric	 :: 643 ]
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: RUSSIAN FEDERATION ]
-
-#has_/telephone_/Prefix_/country:: 7 
-#has_/telephone_/Prefix_/International :: 8,9,10  
-depending on the Provider 
-
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
-
-[	name	 :: Russia ]
-[	name-en	 :: Russian Federation ]
-[	name-es	 :: Federación de Rusia ]
-[	name-fr	 :: Fédération de Russie ]
-[	name-cn	 :: 俄罗斯联邦 ]
-[	name-ar	 :: الاتحاد الروسي ]
-[	name-ru	 :: Российская Федерация ]
-
-[	CLDR_display_name	 :: Russia ]
-
-[	UNTERM_English	 :: Russian Federation (the) ]
-[	UNTERM_English_Formal	 :: the Russian Federation ]
-[	UNTERM_Spanish_Formal	 :: la Federación de Rusia ]
-[	UNTERM_Spanish	 :: Federación de Rusia (la) ]
-[	UNTERM_French	 :: Fédération de Russie (la) ]
-[	UNTERM_Arabic	 :: الاتحاد الروسي ]
-[	UNTERM_Arabic_Formal	 :: الاتحاد الروسي ]
-[	UNTERM_Chinese	 :: 俄罗斯联邦 ]
-[	UNTERM_Chinese_Formal	 :: 俄罗斯联邦 ]
-[	UNTERM_French_Formal	 :: la Fédération de Russie ]
-[	UNTERM_Russian	 :: Российская Федерация ]
-[	UNTERM_Russian_Formal	 :: Российская Федерация ]
-
-Region_Name ::  [Europe](Europe.md) 
-Intermediate_Region_Name ::  [Russia](.md) 
-Sub-region_Name ::  [Eastern Europe](Eastern%20Europe) 
-
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 151 ]
-
-[	Geoname-ID	 :: 2017370 ]
-[	FIPS	 :: RS ]
-[	FIFA	 :: RUS ]
-[	IOC	 :: RUS ]
-[	MARC	 :: ru ]
-[	GAUL	 :: 204 ]
-[	WMO	 :: RS ]
-[	ITU	 :: RUS ]
-[	DS	 :: RUS ]
-[	TLD	 :: .ru ]
-[	EDGAR	 :: 1Z ]
-[	M49	 :: 643 ]
-
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
-[	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
-
-[	ISO3166-1-numeric	 :: 643 ]
-
-
-
-[ISO2::RU]
-[ISO3::RUS] 
-
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Russia
@@ -1053,6 +1047,10 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Russia//
 markerFolder: ./Russia////
+coordinates: [[Russia]] 
+markerFile: [[Russia]] 
+zoomFeatures: true
+defaultZoom: 4 
 ```
 
 [name-en::Russia]
