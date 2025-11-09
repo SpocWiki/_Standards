@@ -33,7 +33,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ninja%20The%20Last%20T
 
 # [[Ninja]] 
 
-#is_/different_from :: [[../../Mercenary/Samurai|Samurai]]  
+#is_/different_from :: [[../../../Mercenary/Samurai|Samurai]]  
 #is_/same_as :: [[WD~Ninja,9402]] 
 
 ## #has_/text_of_/abstract 

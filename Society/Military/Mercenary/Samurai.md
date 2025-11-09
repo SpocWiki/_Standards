@@ -35,7 +35,7 @@ Krugosvet_article_archived_: istoriya/SAMURA.html
 
 # [[Samurai]] 
 
-#is_/different_from :: [[../Espionage/Spy/Ninja|Ninja]] 
+#is_/different_from :: [[../Military_Operation/Espionage/Spy/Ninja|Ninja]] 
 #is_/same_as :: [[WD~Samurai,38142]] 
 
 ## #has_/text_of_/abstract 
