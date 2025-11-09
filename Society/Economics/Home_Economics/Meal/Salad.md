@@ -45,7 +45,6 @@ MeSH_tree_code:
 
 #is_/same_as :: [[../../../../WikiData/WD~Salad,9266|WD~Salad,9266]]
 
-
 ## #has_/text_of_/abstract 
 
 > A **Salad** is a dish consisting of mixed ingredients, frequently vegetables. They are typically served chilled or at room temperature, though some can be served warm. Condiments called salad dressings, which exist in a variety of flavors, are usually used to make a salad. 
