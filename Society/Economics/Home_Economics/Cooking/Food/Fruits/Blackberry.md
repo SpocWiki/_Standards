@@ -32,15 +32,16 @@ USDA_NDB_number:
 
 # [[Blackberry]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Blackberry,19842373|WD~Blackberry,19842373]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Blackberry,19842373|WD~Blackberry,19842373]] 
 
 ## #has_/text_of_/abstract 
 
-> The **Blackberry** is an edible fruit produced by many species in the genus Rubus 
+> The **Blackberry** is an edible fruit produced by many species in the genus [[../../../../../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rubus|Rubus]] 
 > in the family Rosaceae, hybrids among these species within the subgenus Rubus, 
 > and hybrids between the subgenera Rubus and Idaeobatus. 
 > 
-> The taxonomy of blackberries has historically been confused because of hybridization and apomixis 
+> The taxonomy of blackberries has historically been confused 
+> because of hybridization and apomixis 
 > so that species have often been grouped together and called species aggregates.
 >
 > Blackberry fruit production is abundant 
