@@ -3,8 +3,9 @@ confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-- astro/Zodiac
+  - astro/Zodiac
 type: Zodiac
+has_id_wikidata: Q10422
 ---
 
 # [[Zodiac~Triangulum_Australis]] 
@@ -15,6 +16,27 @@ type: Zodiac
 [name-genitive::Trianguli Australis]
 [name-de::Suedliches Dreieck]
 
+#is_/same_as :: [[../../WikiData/WD~Triangulum_Australe,10422|WD~Triangulum_Australe,10422]] 
+
+## #has_/text_of_/abstract 
+
+> Triangulum Australe is a small constellation in the far Southern Celestial Hemisphere. 
+> Its name is Latin for "the southern triangle", 
+> which distinguishes it from Triangulum in the northern sky 
+> and is derived from the acute, almost equilateral pattern of its three brightest stars. 
+> 
+> It was first depicted on a celestial globe as Triangulus Antarcticus by Petrus Plancius in 1589, 
+> and later with more accuracy and its current name by Johann Bayer in his 1603 Uranometria. 
+> 
+> The French explorer and astronomer Nicolas Louis de Lacaille charted 
+> and gave the brighter stars their Bayer designations in 1756.
+>
+> Alpha Trianguli Australis, known as Atria, is a second-magnitude orange giant 
+> and the brightest star in the constellation, as well as the 42nd-brightest star in the night sky. Completing the triangle are the two white main sequence stars Beta and Gamma Trianguli Australis. Although the constellation lies in the Milky Way and contains many stars, deep-sky objects are not prominent. Notable features include the open cluster NGC 6025 and planetary nebula NGC 5979.
+>
+> The Great Attractor, the gravitational center of the Laniakea Supercluster which includes the Milky Way galaxy, straddles Triangulum Australe and the neighboring constellation Norma.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Triangulum%20Australe) 
 
 ## Confidential Links & Embeds: 
 
