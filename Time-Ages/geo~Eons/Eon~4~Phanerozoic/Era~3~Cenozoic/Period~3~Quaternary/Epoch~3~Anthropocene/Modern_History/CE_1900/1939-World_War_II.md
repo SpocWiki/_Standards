@@ -156,9 +156,9 @@ IMDb_keyword: world-war-two
 > Soviet–Japanese border conflicts, and tensions in the aftermath of World War I. 
 > 
 > World War II is generally considered to have begun on 1 September 1939, 
-> when [[World_War_II/Nazi-Germany]], under [[../../../../../../../../Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf]], invaded [[Poland]]. 
+> when [[1939-World_War_II/Nazi-Germany]], under [[../../../../../../../../Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf]], invaded [[Poland]]. 
 > The United Kingdom and France declared war on Germany on 3 September. 
-> Under the [[World_War_II/Molotov–Ribbentrop_Pact]] of August 1939, 
+> Under the [[1939-World_War_II/Molotov–Ribbentrop_Pact]] of August 1939, 
 > Germany and the Soviet Union had partitioned Poland and marked out 
 > their "spheres of influence" across Finland, Estonia, Latvia, Lithuania, and Romania. 
 > From late 1939 to early 1941, in a series of campaigns and treaties, 
