@@ -9,6 +9,7 @@ has_id_wikidata: Q16560
 
 #is_/same_as :: [[../../../WikiData/WD~Sagrada_Família,48435|WD~Sagrada_Família,48435]] 
 
+![[../../../../assets/Sagrada_Família_side_view.jpg]] 
 ## #has_/text_of_/abstract 
 
 > The Basílica i Temple Expiatori de la **Sagrada Família**, otherwise known as Sagrada Família, 
