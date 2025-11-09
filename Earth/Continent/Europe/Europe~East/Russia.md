@@ -1,12 +1,25 @@
 ---
+aliases:
+  - Russia
+  - Russian
+  - Russian Federation
+  - Federación de Rusia
+  - Fédération de Russie
+  - الاتحاد الروسي
+  - 俄罗斯联邦
+  - Российская Федерация
+  - the Russian Federation
+  - Russian Federation (the)
+  - la Federación de Rusia
+  - Federación de Rusia (la)
+has_id_wikidata: Q159
 location:
   - 52.6418
   - 47.4574
+SpocWebEntityId: 27007
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q159
-SpocWebEntityId: 27007
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
@@ -22,19 +35,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Russia
-  - Russian
-  - Russian Federation
-  - Federación de Rusia
-  - Fédération de Russie
-  - الاتحاد الروسي
-  - 俄罗斯联邦
-  - Российская Федерация
-  - the Russian Federation
-  - Russian Federation (the)
-  - la Federación de Rusia
-  - Federación de Rusia (la)
 Languages:
   - ru
   - tt
@@ -871,6 +871,76 @@ official_website: http://gov.ru/
 
 # [Russia](Russia.md) 
 
+#has_/previous_item :: [[USSR]] 
+
+[	ISO4217-currency_alphabetic	 :: RUB ]
+[	ISO4217-currency_name	 :: Russian Ruble ]
+[	ISO4217-currency_numeric	 :: 643 ]
+[	ISO4217-currency_minor_unit	 :: 2 ] 
+[	ISO4217-currency_country_name	 :: RUSSIAN FEDERATION ]
+
+#has_/telephone_/Prefix_/country:: 7 
+#has_/telephone_/Prefix_/International :: 8,9,10  
+depending on the Provider 
+
+[	Global	 :: True ]
+[	Global_Name	 :: World ]
+
+[	name	 :: Russia ]
+[	name-en	 :: Russian Federation ]
+[	name-es	 :: Federación de Rusia ]
+[	name-fr	 :: Fédération de Russie ]
+[	name-cn	 :: 俄罗斯联邦 ]
+[	name-ar	 :: الاتحاد الروسي ]
+[	name-ru	 :: Российская Федерация ]
+
+[	CLDR_display_name	 :: Russia ]
+
+[	UNTERM_English	 :: Russian Federation (the) ]
+[	UNTERM_English_Formal	 :: the Russian Federation ]
+[	UNTERM_Spanish_Formal	 :: la Federación de Rusia ]
+[	UNTERM_Spanish	 :: Federación de Rusia (la) ]
+[	UNTERM_French	 :: Fédération de Russie (la) ]
+[	UNTERM_Arabic	 :: الاتحاد الروسي ]
+[	UNTERM_Arabic_Formal	 :: الاتحاد الروسي ]
+[	UNTERM_Chinese	 :: 俄罗斯联邦 ]
+[	UNTERM_Chinese_Formal	 :: 俄罗斯联邦 ]
+[	UNTERM_French_Formal	 :: la Fédération de Russie ]
+[	UNTERM_Russian	 :: Российская Федерация ]
+[	UNTERM_Russian_Formal	 :: Российская Федерация ]
+
+Region_Name ::  [Europe](Europe.md) 
+Intermediate_Region_Name ::  [Russia](.md) 
+Sub-region_Name ::  [Eastern Europe](Eastern%20Europe) 
+
+[	Region	 :: 150 ]
+[	Intermediate_Region	 ::  ]
+[	Sub-region	 :: 151 ]
+
+[	Geoname-ID	 :: 2017370 ]
+[	FIPS	 :: RS ]
+[	FIFA	 :: RUS ]
+[	IOC	 :: RUS ]
+[	MARC	 :: ru ]
+[	GAUL	 :: 204 ]
+[	WMO	 :: RS ]
+[	ITU	 :: RUS ]
+[	DS	 :: RUS ]
+[	TLD	 :: .ru ]
+[	EDGAR	 :: 1Z ]
+[	M49	 :: 643 ]
+
+[	is_independent	 :: Yes ]
+[	Developed_/Developing_Countries	 :: Developed ]
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_Island_Developing_States	 ::  ]
+
+[	ISO3166-1-numeric	 :: 643 ]
+
+[ISO2::RU]
+[ISO3::RUS] 
+
 #is_/same_as :: [[../../../../WikiData/WD~Russia,159]]  
 
 > [!info] This Article is only a Stub. 
@@ -884,7 +954,9 @@ into a Subfolder named `Russia`, so that this Link into the Sub-Repository works
 
 ## #has_/parts 
 
-Below is a comprehensive table of all 85 federal subjects of Russia, which includes oblasts, republics, krais, autonomous okrugs, the autonomous oblast, and cities of federal significance. Numbers are of 2022-06 
+Below is a comprehensive table of all 85 federal subjects of Russia, 
+which includes oblasts, republics, krais, autonomous okrugs, the autonomous oblast, 
+and cities of federal significance. Numbers are of 2022-06 
 
 | Federal Subject                                                                                 | Pop/k |   kkm² | GRP/GRUB | GRPpP/kRUB | HDI   | Notable Properties                                                     |
 | ----------------------------------------------------------------------------------------------- | ----: | -----: | -------: | ---------: | ----- | ---------------------------------------------------------------------- |
@@ -969,82 +1041,7 @@ Resources:
 Note: Sevastopol is recognized internationally as part of Ukraine, but it's de facto administered by Russia. As of October 2023, international recognition may vary concerning the annexed regions, and some figures may differ due to geopolitical sensitivities.
 
 
-#has_/previous_item :: [[USSR]] 
-
-[	ISO4217-currency_alphabetic	 :: RUB ]
-[	ISO4217-currency_name	 :: Russian Ruble ]
-[	ISO4217-currency_numeric	 :: 643 ]
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: RUSSIAN FEDERATION ]
-
-#has_/telephone_/Prefix_/country:: 7 
-#has_/telephone_/Prefix_/International :: 8,9,10  
-depending on the Provider 
-
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
-
-[	name	 :: Russia ]
-[	name-en	 :: Russian Federation ]
-[	name-es	 :: Federación de Rusia ]
-[	name-fr	 :: Fédération de Russie ]
-[	name-cn	 :: 俄罗斯联邦 ]
-[	name-ar	 :: الاتحاد الروسي ]
-[	name-ru	 :: Российская Федерация ]
-
-[	CLDR_display_name	 :: Russia ]
-
-[	UNTERM_English	 :: Russian Federation (the) ]
-[	UNTERM_English_Formal	 :: the Russian Federation ]
-[	UNTERM_Spanish_Formal	 :: la Federación de Rusia ]
-[	UNTERM_Spanish	 :: Federación de Rusia (la) ]
-[	UNTERM_French	 :: Fédération de Russie (la) ]
-[	UNTERM_Arabic	 :: الاتحاد الروسي ]
-[	UNTERM_Arabic_Formal	 :: الاتحاد الروسي ]
-[	UNTERM_Chinese	 :: 俄罗斯联邦 ]
-[	UNTERM_Chinese_Formal	 :: 俄罗斯联邦 ]
-[	UNTERM_French_Formal	 :: la Fédération de Russie ]
-[	UNTERM_Russian	 :: Российская Федерация ]
-[	UNTERM_Russian_Formal	 :: Российская Федерация ]
-
-Region_Name ::  [Europe](Europe.md) 
-Intermediate_Region_Name ::  [Russia](.md) 
-Sub-region_Name ::  [Eastern Europe](Eastern%20Europe) 
-
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 151 ]
-
-[	Geoname-ID	 :: 2017370 ]
-[	FIPS	 :: RS ]
-[	FIFA	 :: RUS ]
-[	IOC	 :: RUS ]
-[	MARC	 :: ru ]
-[	GAUL	 :: 204 ]
-[	WMO	 :: RS ]
-[	ITU	 :: RUS ]
-[	DS	 :: RUS ]
-[	TLD	 :: .ru ]
-[	EDGAR	 :: 1Z ]
-[	M49	 :: 643 ]
-
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
-[	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
-
-[	ISO3166-1-numeric	 :: 643 ]
-
-
-
-[ISO2::RU]
-[ISO3::RUS] 
-
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Russia
@@ -1073,20 +1070,20 @@ Capital :: [Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City.md
 [has_place_latitude::52.6418]
 
 
-| Date       | Location           | Type of Infrastructure Affected | Description                                                        | Nature    |
-| ---------- | ------------------ | ------------------------------- | ------------------------------------------------------------------ | --------- |
-| 2015-04    | Ukraine            | Power Grid                      | Cyberattack on Ukrainian power grid causing outages                |           |
-| 2017-06    | Ukraine & Europe   | Various                         | NotPetya malware affecting businesses and infrastructure           |           |
-| 2018-03    | United Kingdom     | Chemical Industry               | Salisbury poisoning incident raises concerns over safety           |           |
-| 2021-07    | Europe-wide        | Oil & Gas                       | Concerns over Nord Stream 2 manipulation and political leverage    | Perceived |
-| 2022-04    | Baltic Sea         | Submarine cables                | Increased military activity raises concerns over cable security    | Perceived |
-| 2022-10    | Germany, Norway    | Undersea Cables & Pipelines     | Nord Stream pipeline explosions suspected to involve sabotage      |           |
-| 2023-02    | Poland & Lithuania | Railways                        | Cyberattacks causing disruptions in rail systems                   |           |
-| 2023-05    | Various Europe     | Cyber Infrastructure            | Increased phishing/cyber espionage activities attributed to Russia |           |
-| 2024-02-16 |                    | Dissident                       | [[../../../../../_private/Society/Communication/Media/Podcast/Navalny,Alexei\|Navalny,Alexei]]    |           |
-| 2018-03    |                    | [[Double-Agent]]                | [[Russia/Skripal,Sergei]]                                                 |           |
-| 2006-11-23 |                    | [[Double-Agent]]                | [[Alexander Litwinenko]]                                           |           |
-|            |                    |                                 | [[../../Arctica/Arctic-Russian-Islands/Krasikov,Vadim]]                                                |           |
+| Date       | Location           | Type of Infrastructure Affected | Description                                                                                    | Nature    |
+| ---------- | ------------------ | ------------------------------- | ---------------------------------------------------------------------------------------------- | --------- |
+| 2015-04    | Ukraine            | Power Grid                      | Cyberattack on Ukrainian power grid causing outages                                            |           |
+| 2017-06    | Ukraine & Europe   | Various                         | NotPetya malware affecting businesses and infrastructure                                       |           |
+| 2018-03    | United Kingdom     | Chemical Industry               | Salisbury poisoning incident                                                                   |           |
+| 2021-07    | Europe-wide        | Oil & Gas                       | Nord Stream 2 manipulation and political leverage                                              | Perceived |
+| 2022-04    | Baltic Sea         | Submarine cables                | Increased military activity                                                                    | Perceived |
+| 2022-10    | Germany, Norway    | Undersea Cables & Pipelines     | Nord Stream pipeline explosions                                                                |           |
+| 2023-02    | Poland & Lithuania | Railways                        | Cyberattacks causing disruptions in rail systems                                               |           |
+| 2023-05    | Various Europe     | Cyber Infrastructure            | Increased phishing/cyber espionage activities attributed to Russia                             |           |
+| 2024-02-16 |                    | Dissident                       | [[../../../../../_private/Society/Communication/Media/Podcast/Navalny,Alexei\|Navalny,Alexei]] |           |
+| 2018-03    |                    | [[Double-Agent]]                | [[Russia/Skripal,Sergei]]                                                                      |           |
+| 2006-11-23 |                    | [[Double-Agent]]                | [[Alexander Litwinenko]]                                                                       |           |
+|            |                    |                                 | [[../../Arctica/Arctic-Russian-Islands/Krasikov,Vadim]]                                        |           |
 
 
   
@@ -1098,7 +1095,7 @@ Capital :: [Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City.md
 ## #has_/text_of_/abstract 
 
 > **Russia**, or the Russian Federation, is a country spanning Eastern Europe and North Asia. 
-> [[Russia/Litwinenko,Alexander]]y in the world by land area, and extends across eleven time zones; 
+> It is the largest country in the world by land area, and extends across eleven time zones; 
 > sharing land borders with fourteen countries. 
 > Russia is the most populous country in Europe and the ninth-most populous country in the world. 
 > It is a highly urbanised country, with sixteen of its urban areas having more than 1 million inhabitants. 

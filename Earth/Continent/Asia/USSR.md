@@ -3,8 +3,8 @@ confidential: public
 created: 
 demised: 
 destroyed: 
-isDeleted: false
 perished: 
+isDeleted: false
 SpocWebEntityId: 21455
 tags:
 - geo/Country
@@ -47,7 +47,13 @@ has_place_continent:: [[Asia]]
 > extending across eleven time zones and sharing borders with twelve countries, 
 > and the third-most populous country. 
 > 
-> An overall successor to the Russian Empire, it was nominally organized as a federal union of national republics, the largest and most populous of which was the Russian SFSR. In practice, its government and economy were highly centralized. As a one-party state governed by the Communist Party of the Soviet Union (CPSU), it was a flagship communist state. Its capital and largest city was Moscow.
+> An overall successor to the Russian Empire, 
+> it was nominally organized as a federal union of national republics, 
+> the largest and most populous of which was the Russian SFSR. 
+> 
+> In practice, its government and economy were highly centralized. 
+> As a one-party state governed by the Communist Party of the Soviet Union (CPSU), 
+> it was a flagship communist state. Its capital and largest city was Moscow.
 >
 > The Soviet Union's roots lay in the October Revolution of 1917. 
 > The new government, led by Vladimir Lenin, established the Russian SFSR, 
