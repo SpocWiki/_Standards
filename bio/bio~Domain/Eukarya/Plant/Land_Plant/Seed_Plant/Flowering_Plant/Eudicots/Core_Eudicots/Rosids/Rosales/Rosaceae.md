@@ -47,7 +47,7 @@ taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
 > They have a worldwide range but are most diverse in the Northern Hemisphere.
 >
 > Many economically important products come from the Rosaceae, including various edible fruits, such as: 
-> - [[Rosaceae/Amygdaloideae/Maleae/Appletree|apples]], [[Rosaceae/Pear|pears]], [[Rosaceae/Quince|quinces]], [[../../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit)|apricots]], [[Rosaceae/Plum|plums]], [[Rosaceae/Cherry|cherries]], [[Rosaceae/Peach|peaches]], [[Raspberry|raspberries]], [[Rosaceae/Blackberry|blackberries]], 
+> - [[Rosaceae/Amygdaloideae/Maleae/Appletree|apples]], [[Rosaceae/Pear|pears]], [[Rosaceae/Quince|quinces]], [[../../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Fruits/Apricot(Fruit)|apricots]], [[Rosaceae/Plum|plums]], [[Rosaceae/Cherry|cherries]], [[Rosaceae/Peach|peaches]], [[Rosaceae/Rosoideae/Rubus/Raspberry|raspberries]], [[../../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry|blackberries]], 
 > loquats, [[Rosaceae/Rosoideae/Fragaria/Strawberry|strawberries]], rose hips, hawthorns, and [[Rosaceae/Amygdaloideae/Amygdaleae/Prunus/Almond|almonds]]. 
 > 
 > The family also includes popular ornamental trees and shrubs, 
