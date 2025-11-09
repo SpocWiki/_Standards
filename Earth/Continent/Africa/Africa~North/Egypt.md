@@ -441,11 +441,6 @@ urban_population:
 
 # [[Egypt]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Egypt 
-
-[[Egypt/ReadMe]] 
-
 [	ISO4217-currency_alphabetic	 :: EGP ]
 [	ISO4217-currency_name	 :: Egyptian Pound ]
 [	ISO4217-currency_numeric	 :: 818 ]
@@ -513,6 +508,11 @@ Sub-region_Name ::  [[Northern Africa]]
 [ISO3::EGY]
 
 #is_/same_as :: [[../../../../WikiData/WD~Egypt,79|WD~Egypt,79]]  
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Egypt 
+
+[[Egypt/ReadMe]] 
 
 ## #has_/map 
 
