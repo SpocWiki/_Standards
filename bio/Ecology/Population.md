@@ -35,9 +35,32 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Animal%20biology%20%28
 ## #has_/text_of_/abstract 
 
 > In biology, a **Population** of organisms is a group of individuals of the same species, 
-> defined by a discontinuity or disjunction from other groups of individuals in certain characteristics, such as living area, genetic attributes, demographic structure. Among biologists, the term definition varies, in some cases significantly, and sometimes those variations can be confusing. There are also plenty of other terms to describe groups of individuals if no clear disjunction is present. Commonly, a population can be described by what individuals constitute the population, its size, a geographical area it occupies, and the time within which the population is examined. In qualitative terms, it is usually defined like "a group of organisms of the same species occupying a particular space at a particular time".
+> defined by a discontinuity or disjunction from other groups of individuals 
+> in certain characteristics, such as living area, genetic attributes, demographic structure. 
+> 
+> Among biologists, the term definition varies, in some cases significantly, 
+> and sometimes those variations can be confusing. 
+> 
+> There are also plenty of other terms to describe groups of individuals 
+> if no clear disjunction is present. 
+> 
+> Commonly, a population can be described by what individuals constitute the population, 
+> its size, a geographical area it occupies, and the time within which the population is examined. 
+> 
+> In qualitative terms, it is usually defined like "a group of organisms of the same species 
+> occupying a particular space at a particular time".
 >
-> The two main approaches to define a population are ecological and evolutionary. From the ecological perspective, individuals are considered interacting and competing in a certain geographic area. From the evolutionary (genetic) perspective, genes and reproduction are considered the driving forces of a population. Since each population has its own gene pool that changes and adapts to the environment over time, the population is considered to be the main organizational unit in biology.
+> The two main approaches to define a population are ecological and evolutionary. 
+> 
+> From the ecological perspective, 
+> individuals are considered interacting and competing in a certain geographic area. 
+> 
+> From the evolutionary (genetic) perspective, 
+> genes and reproduction are considered the driving forces of a population. 
+> 
+> Since each population has its own gene pool 
+> that changes and adapts to the environment over time, 
+> the population is considered to be the main organizational unit in biology.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Population) 
 

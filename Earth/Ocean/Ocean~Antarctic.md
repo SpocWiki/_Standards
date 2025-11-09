@@ -80,6 +80,25 @@ because the major Land Masses are concentrated on the Northern Hemisphere.
 Therefore all 4 Southern Octants are collected here. 
 
 
+## #has_/map 
+
+```leaflet
+id: Ocean~Antarctic
+minZoom: 2 
+defaultZoom: 3
+maxZoom: 18
+geojsonFolder: ./Ocean~Antarctic/
+markerFolder: ./Ocean~Antarctic/
+coordinates: [[Ocean~Antarctic]] 
+markerFile: [[Ocean~Antarctic]] 
+zoomFeatures: true 
+long: 60
+lat: -45
+
+```
+
+
+
 ## #has_/text_of_/abstract 
 
 > The **Southern Ocean**, also known as the Antarctic Ocean, comprises the southernmost waters of the world ocean, generally taken to be south of 60° S latitude and encircling Antarctica. With a size of 21,960,000 km2 (8,480,000 sq mi), it is the second-smallest of the five principal oceanic divisions, smaller than the Pacific, Atlantic and Indian oceans, and larger than the Arctic Ocean. 

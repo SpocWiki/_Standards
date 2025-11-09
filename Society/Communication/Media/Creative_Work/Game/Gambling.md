@@ -45,9 +45,21 @@ uses:
 U_S_National_Archives_Identifier: 10636709
 ---
 
+# [[Gambling]] 
+
+
+
 ## #has_/text_of_/abstract 
 
-> **Gambling** (also known as betting or gaming) is the wagering of something of value ("the stakes") on a random event with the intent of winning something else of value, where instances of strategy are discounted. Gambling thus requires three elements to be present: consideration (an amount wagered), risk (chance), and a prize. The outcome of the wager is often immediate, such as a single roll of dice, a spin of a roulette wheel, or a horse crossing the finish line, but longer time frames are also common, allowing wagers on the outcome of a future sports contest or even an entire sports season.
+> **Gambling** (also known as betting or gaming) 
+> is the wagering of something of value ("the stakes") 
+> on a random event with the intent of winning something else of value, 
+> where instances of strategy are discounted. 
+> 
+> Gambling thus requires three elements to be present: 
+> consideration (an amount wagered), risk (chance), and a prize. 
+> 
+> The outcome of the wager is often immediate, such as a single roll of dice, a spin of a roulette wheel, or a horse crossing the finish line, but longer time frames are also common, allowing wagers on the outcome of a future sports contest or even an entire sports season.
 >
 > The term "gaming" in this context typically refers to instances in which the activity has been specifically permitted by law. The two words are not mutually exclusive; i.e., a "gaming" company offers (legal) "gambling" activities to the public and may be regulated by one of many gaming control boards, for example, the Nevada Gaming Control Board. However, this distinction is not universally observed in the English-speaking world. For instance, in the United Kingdom, the regulator of gambling activities is called the Gambling Commission (not the Gaming Commission). The word gaming is used more frequently since the rise of computer and video games to describe activities that do not necessarily involve wagering, especially online gaming, with the new usage still not having displaced the old usage as the primary definition in common dictionaries.  "Gaming" has also been used euphemistically to circumvent laws against "gambling". The media and others have used one term or the other to frame conversations around the subjects, resulting in a shift of perceptions among their audiences.
 >

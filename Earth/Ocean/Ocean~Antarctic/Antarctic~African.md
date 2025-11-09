@@ -12,6 +12,9 @@ defaultZoom: 3
 maxZoom: 18
 geojsonFolder: ./Antarctic~African/
 markerFolder: ./Antarctic~African/
+coordinates: [[Antarctic~African]] 
+markerFile: [[Antarctic~African]] 
+zoomFeatures: true 
 long: 60
 lat: -45
 

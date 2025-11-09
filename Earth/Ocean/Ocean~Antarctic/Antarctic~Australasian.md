@@ -12,6 +12,9 @@ defaultZoom: 3
 maxZoom: 18
 geojsonFolder: ./Antarctic~Australasian/
 markerFolder: ./Antarctic~Australasian/
+coordinates: [[Antarctic~Australasian]] 
+markerFile: [[Antarctic~Australasian]] 
+zoomFeatures: true 
 long: 135
 lat: -45
 

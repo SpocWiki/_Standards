@@ -12,6 +12,9 @@ defaultZoom: 3
 maxZoom: 18
 geojsonFolder: ./Antarctic~Pacific/
 markerFolder: ./Antarctic~Pacific/
+coordinates: [[Antarctic~Pacific]] 
+markerFile: [[Antarctic~Pacific]] 
+zoomFeatures: true 
 long: -135
 lat: -60
 

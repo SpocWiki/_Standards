@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Jefferson,Thomas
 - "Thomas Jefferson"
