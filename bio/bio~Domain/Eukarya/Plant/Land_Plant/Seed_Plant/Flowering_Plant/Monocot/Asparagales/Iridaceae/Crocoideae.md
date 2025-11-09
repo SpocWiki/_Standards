@@ -1,14 +1,38 @@
+---
+aliases:
+has_id_wikidata: Q5187415
+has_fruit_type: "[[_Standards/WikiData/WD~capsule,147768]]"
+taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Crocus%20aleppicus%201.JPG
+GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=2088
+UMLS_CUI: C5073865
+Commons_category: Crocoideae
+taxon_name: Crocoideae
+---
 
 # [[Crocoideae]] 
 
-#is_/same_as :: 
+#is_/same_as :: [[../../../../../../../../../../_Standards/WikiData/WD~Crocoideae,5187415|WD~Crocoideae,5187415]] 
 ## #has_/text_of_/abstract 
 
 > **Crocoideae** is one of the major subfamilies in the family Iridaceae.
 >
-> It contains plants which are widely distributed in the Old World, mainly in Africa, but there are species like some members of the genera Romulea and Gladiolus which are native to Europe and Asia. Some examples are Romulea bulbocodium, Romulea columnae and Gladiolus italicus.
+> It contains plants which are widely distributed in the Old World, mainly in Africa, 
+> but there are species like some members of the genera Romulea and Gladiolus 
+> which are native to Europe and Asia. 
+> Some examples are Romulea bulbocodium, Romulea columnae and Gladiolus italicus.
 >
-> Like the rest of Iridaceae, the members of the subfamily have the typical sword-shaped leaves. The rootstock is usually a corm. The blooms which sometimes have scent are collected in inflorescence and contain six tepals. The nectar is produced mostly in the base of the bloom from the glands of the ovary, which is where the flower forms a tube-like end. In some species there is no such end and the plant only provides pollen to pollinating insects.
+> Like the rest of Iridaceae, 
+> the members of the subfamily have the typical sword-shaped leaves. 
+> The rootstock is usually a corm. 
+> 
+> The blooms which sometimes have scent are collected in inflorescence 
+> and contain six tepals. 
+> 
+> The nectar is produced mostly in the base of the bloom from the glands of the ovary, 
+> which is where the flower forms a tube-like end. 
+> In some species there is no such end and the plant only provides pollen to pollinating insects.
 >
 > The ovary is 3-locular and many-seeded, the appearance of the testa varying widely between the different genera: sometimes fine and delicate, as in the case of  Gladiolus and at others black and hard, as in the case of Babiana. The shape of the seed is often pellet-like and may also be globular, discoid or semi-discoid.
 >

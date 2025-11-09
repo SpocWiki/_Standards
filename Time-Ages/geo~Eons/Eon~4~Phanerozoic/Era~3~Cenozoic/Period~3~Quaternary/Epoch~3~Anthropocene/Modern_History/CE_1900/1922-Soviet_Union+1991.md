@@ -276,6 +276,10 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Soviet_Union,2688434
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "UnionSovietSocialistRepublics"]
 ---
 
+# [[1922-Soviet_Union+1991]] 
+
+#has_/previous_ :: [[1917-Russian_Civil_War+1922]] 
+#has_/next_  :: [[../../../../../../../../Earth/Continent/Europe/Europe~East/Russia|Russia]] 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Soviet_Union,15180]] 

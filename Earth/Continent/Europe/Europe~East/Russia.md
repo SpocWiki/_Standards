@@ -1,12 +1,25 @@
 ---
+aliases:
+  - Russia
+  - Russian
+  - Russian Federation
+  - Federación de Rusia
+  - Fédération de Russie
+  - الاتحاد الروسي
+  - 俄罗斯联邦
+  - Российская Федерация
+  - the Russian Federation
+  - Russian Federation (the)
+  - la Federación de Rusia
+  - Federación de Rusia (la)
+has_id_wikidata: Q159
 location:
   - 52.6418
   - 47.4574
+SpocWebEntityId: 27007
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q159
-SpocWebEntityId: 27007
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
@@ -22,19 +35,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Russia
-  - Russian
-  - Russian Federation
-  - Federación de Rusia
-  - Fédération de Russie
-  - الاتحاد الروسي
-  - 俄罗斯联邦
-  - Российская Федерация
-  - the Russian Federation
-  - Russian Federation (the)
-  - la Federación de Rusia
-  - Federación de Rusia (la)
 Languages:
   - ru
   - tt
@@ -954,7 +954,9 @@ into a Subfolder named `Russia`, so that this Link into the Sub-Repository works
 
 ## #has_/parts 
 
-Below is a comprehensive table of all 85 federal subjects of Russia, which includes oblasts, republics, krais, autonomous okrugs, the autonomous oblast, and cities of federal significance. Numbers are of 2022-06 
+Below is a comprehensive table of all 85 federal subjects of Russia, 
+which includes oblasts, republics, krais, autonomous okrugs, the autonomous oblast, 
+and cities of federal significance. Numbers are of 2022-06 
 
 | Federal Subject                                                                                 | Pop/k |   kkm² | GRP/GRUB | GRPpP/kRUB | HDI   | Notable Properties                                                     |
 | ----------------------------------------------------------------------------------------------- | ----: | -----: | -------: | ---------: | ----- | ---------------------------------------------------------------------- |
@@ -1038,6 +1040,7 @@ Resources:
 
 Note: Sevastopol is recognized internationally as part of Ukraine, but it's de facto administered by Russia. As of October 2023, international recognition may vary concerning the annexed regions, and some figures may differ due to geopolitical sensitivities.
 
+
 ## #has_/map  
 
 ```leaflet
@@ -1072,13 +1075,13 @@ Capital :: [Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City.md
 
 
 | Date       | Location           | Type of Infrastructure Affected | Description                                                        | Nature    |
-| ---------- | ------------------ | ------------------------------- | ------------------------------------------------------------------ | --------- |
+| ---------- | ------------------ | ------------------------------- | ---------------------------------------------------------------------------------------------- | --------- |
 | 2015-04    | Ukraine            | Power Grid                      | Cyberattack on Ukrainian power grid causing outages                |           |
 | 2017-06    | Ukraine & Europe   | Various                         | NotPetya malware affecting businesses and infrastructure           |           |
-| 2018-03    | United Kingdom     | Chemical Industry               | Salisbury poisoning incident raises concerns over safety           |           |
-| 2021-07    | Europe-wide        | Oil & Gas                       | Concerns over Nord Stream 2 manipulation and political leverage    | Perceived |
-| 2022-04    | Baltic Sea         | Submarine cables                | Increased military activity raises concerns over cable security    | Perceived |
-| 2022-10    | Germany, Norway    | Undersea Cables & Pipelines     | Nord Stream pipeline explosions suspected to involve sabotage      |           |
+| 2018-03    | United Kingdom     | Chemical Industry               | Salisbury poisoning incident                                                                   |           |
+| 2021-07    | Europe-wide        | Oil & Gas                       | Nord Stream 2 manipulation and political leverage                                              | Perceived |
+| 2022-04    | Baltic Sea         | Submarine cables                | Increased military activity                                                                    | Perceived |
+| 2022-10    | Germany, Norway    | Undersea Cables & Pipelines     | Nord Stream pipeline explosions                                                                |           |
 | 2023-02    | Poland & Lithuania | Railways                        | Cyberattacks causing disruptions in rail systems                   |           |
 | 2023-05    | Various Europe     | Cyber Infrastructure            | Increased phishing/cyber espionage activities attributed to Russia |           |
 | 2024-02-16 |                    | Dissident                       | [[../../../../../_private/Society/Communication/Media/Podcast/Navalny,Alexei\|Navalny,Alexei]]    |           |
@@ -1096,7 +1099,7 @@ Capital :: [Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City.md
 ## #has_/text_of_/abstract 
 
 > **Russia**, or the Russian Federation, is a country spanning Eastern Europe and North Asia. 
-> [[Russia/Litwinenko,Alexander]]y in the world by land area, and extends across eleven time zones; 
+> It is the largest country in the world by land area, and extends across eleven time zones; 
 > sharing land borders with fourteen countries. 
 > Russia is the most populous country in Europe and the ninth-most populous country in the world. 
 > It is a highly urbanised country, with sixteen of its urban areas having more than 1 million inhabitants. 

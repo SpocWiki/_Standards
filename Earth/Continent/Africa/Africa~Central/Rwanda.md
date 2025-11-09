@@ -254,7 +254,6 @@ female_population:
 U_S_National_Archives_Identifier: 10044269
 inception: "1962"
 has_time_started: 1962-06 
-has_time_started: 1962-01-01 
 population: 13246394
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Ruanda.wav"
@@ -306,13 +305,6 @@ Languages:
 ---
 
 # [[Rwanda]] 
-
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Rwanda 
-
-[[Rwanda/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: RWF ]
 [	ISO4217-currency_name	 :: Rwanda Franc ]
@@ -380,6 +372,15 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 [ISO2::RW]
 [ISO3::RWA]
 
+#is_/same_as :: [[../../../../WikiData/WD~Rwanda,1037|WD~Rwanda,1037]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Rwanda 
+
+[[Rwanda/ReadMe]] 
+
+## #has_/map 
+
 ```leaflet
 id: Rwanda
 zoomFeatures: true 
@@ -387,6 +388,10 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Rwanda//
 markerFolder: ./Rwanda//
+coordinates: [[Rwanda]] 
+markerFile: [[Rwanda]] 
+zoomFeatures: true
+defaultZoom: 11 
 ```
 
 [name-en::Rwanda]

@@ -37,7 +37,7 @@ MeSH_tree_code:
   - N06.850.135.848.500
 ---
 
-# [[Chernobyl_Disaster]] 
+# [[1986-Chernobyl_Disaster]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Chernobyl_disaster,486|WD~Chernobyl_disaster,486]] 
 
