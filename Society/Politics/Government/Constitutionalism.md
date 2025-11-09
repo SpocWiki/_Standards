@@ -19,11 +19,25 @@ PhilPapers_topic: constitutionalism
 > elaborating the principle that the authority of government derives from and is limited by 
 > a body of fundamental law".
 >
-> Political organizations are constitutional to the extent that they "contain institutionalized mechanisms of power control for the protection of the interests and liberties of the citizenry, including those that may be in the minority". As described by political scientist and constitutional scholar David Fellman:
->
+> Political organizations are constitutional to the extent that 
+> they "contain institutionalized mechanisms of power control 
+> for the protection of the interests and liberties of the citizenry, 
+> including those that may be in the minority". 
 > 
->
-> Constitutionalism is descriptive of a complicated concept, deeply embedded in historical experience, which subjects the officials who exercise governmental powers to the limitations of a higher law. Constitutionalism proclaims the desirability of the rule of law as opposed to rule by the arbitrary judgment or mere fiat of public officials ...  Throughout the literature dealing with modern public law and the foundations of statecraft the central element of the concept of constitutionalism is that in political society government officials are not free to do anything they please in any manner they choose; they are bound to observe both the limitations on power and the procedures which are set out in the supreme, constitutional law of the community. It may therefore be said that the touchstone of constitutionalism is the concept of limited government under a higher law.
+> As described by political scientist and constitutional scholar David Fellman:
+> Constitutionalism is descriptive of a complicated concept, deeply embedded in historical experience, 
+> which subjects the officials who exercise governmental powers to the limitations of a higher law. 
+> 
+> Constitutionalism proclaims the desirability of the rule of law 
+> as opposed to rule by the arbitrary judgment or mere fiat of public officials...  
+> Throughout the literature dealing with modern public law and the foundations of statecraft 
+> the central element of the concept of constitutionalism is 
+> that in political society government officials are not free to do anything they please 
+> in any manner they choose; they are bound to observe both the limitations on power 
+> and the procedures which are set out in the supreme, constitutional law of the community. 
+> 
+> It may therefore be said that the touchstone of constitutionalism 
+> is the concept of limited government under a higher law.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Constitutionalism) 
 
