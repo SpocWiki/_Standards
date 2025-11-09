@@ -17,7 +17,7 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~human_rights,8458]]"
   - "[[_Standards/WikiData/WD~civil_liberties,29556]]"
   - "[[_Standards/WikiData/WD~public_election,40231]]"
-  - "[[_Standards/WikiData/WD~rule_of_law,44918]]"
+  - "[[../../../../WikiData/WD~Rule_of_law,44918]]"
 instance_of:
   - "[[_Standards/WikiData/WD~political_philosophy,179805]]"
   - "[[_Standards/WikiData/WD~form_of_government,1307214]]"

@@ -1,15 +1,18 @@
 ---
 aliases:
-- Wiederkäuer
-- Ruminants
-- Ruminant
-- Ruminantia
+  - Wiederkäuer
+  - Ruminants
+  - Ruminant
+  - Ruminantia
 title: Ruminantia
+has_id_wikidata: Q192164
 ---
 
 # [[Ruminants]] 
 
  ![Giraffa_camelopardalis](Ruminants/Giraffa_camelopardalis.jpg)  ![Kobus_ellipsiprymnus](Ruminants/Kobus_ellipsiprymnus4321001.jpg)  ![Elk](Ruminants/Deer/Cervus/Wapiti/Wapiti.jpg) 
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Ruminantia,192164|WD~Ruminantia,192164]] 
 
 ## #has_/text_of_/abstract 
 
