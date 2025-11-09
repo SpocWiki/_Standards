@@ -3,7 +3,7 @@ aliases:
   - Molotov–Ribbentrop Pact
   - Treaty of Non-Aggression
   - Nichtangriffspakt
-  - Hitler–Stalin Pact 
+  - Hitler–Stalin Pact
   - Nazi–Soviet Pact
 has_id_wikidata: Q130796
 signatory:
@@ -33,6 +33,35 @@ effective_date: 1939-08-31T00:00:00Z
 point_in_time: 1939-08-23T00:00:00Z
 start_time: 1939-08-23T00:00:00Z
 inception: 1939-01-01T00:00:00Z
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
 
 # [[Molotov–Ribbentrop_Pact]] 
@@ -51,15 +80,15 @@ inception: 1939-01-01T00:00:00Z
 > by Soviet Foreign Minister Vyacheslav Molotov 
 > and German Foreign Minister Joachim von Ribbentrop.  
 >
-> Tripartite discussions between the Soviet Union, the United Kingdom and France 
-> had broken down after the Soviet Union was excluded from the Munich Agreement in September 1938. 
+> Tripartite discussions between the Soviet Union, the United Kingdom and France had broken down 
+> after the Soviet Union was excluded from the Munich Agreement in September 1938. 
 > 
 > Joseph Stalin, the General Secretary of the Communist Party of the Soviet Union, 
 > had indicated that the USSR was willing to support Czechoslovakia militarily 
 > if France did so as well. 
 > 
 > Subseqently, rapprochement between Soviet Union and Nazi Germany began in early 1939. 
-
+> 
 > The treaty was the culmination of negotiations for an economic agreement 
 > between the USSR and Nazi Germany which the Soviets used 
 > to obtain a political agreement – see Nazi–Soviet economic relations (1934–1941).
@@ -123,3 +152,22 @@ inception: 1939-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop%20Pact) 
 
+
+# [[Molotov–Ribbentrop_Pact]] 
+
+#is_/part_of :: [[Molotov–Ribbentrop_Pact]] 
+
+![[Molotov–Ribbentrop_Pact.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Molotov–Ribbentrop_Pact.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

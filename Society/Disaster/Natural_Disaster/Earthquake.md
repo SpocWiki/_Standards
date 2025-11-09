@@ -69,6 +69,36 @@ topic_s_main_template:
   - "[[_Standards/WikiData/WD~Template_Earthquakes,17584240]]"
 aliases:
   - Erdbeben
+  - "{ newTitle: }":
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
 
 # [[Earthquake]] 
@@ -87,3 +117,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Earthquake)
 
+
+# [[Earthquake]] 
+
+#is_/part_of :: [[Earthquake]] 
+
+![[Earthquake.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Earthquake.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
