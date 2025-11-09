@@ -59,25 +59,67 @@ inception: 1939-01-01T00:00:00Z
 > if France did so as well. 
 > 
 > Subseqently, rapprochement between Soviet Union and Nazi Germany began in early 1939. 
-> Later that year the Soviet-German pact was agreed, 
-> committing both sides to neither aid nor ally itself with an enemy of the other 
-> for the following 10 years. 
+
+> The treaty was the culmination of negotiations for an economic agreement 
+> between the USSR and Nazi Germany which the Soviets used 
+> to obtain a political agreement – see Nazi–Soviet economic relations (1934–1941).
 > 
-> Under the Secret Additional Protocol of 23 August 1939, 
-> Germany and the Soviet Union agreed to partition Poland; 
-> - Latvia, Estonia, Finland and Bessarabia were allotted to the Soviet sphere, 
-> - while Lithuania – apart from the Vilnius region, whose "interests" were recognized – 
->   lay in the German sphere (Lithuania – including the Vilnius region, but excluding a strip of land – was only transferred to the Soviet sphere by the 28 September 1939 Boundary and Friendship Treaty). 
-> In the west, rumored existence of the Secret Protocol was proven only 
+> On 22 August, Ribbentrop flew to Moscow to finalize the treaty, 
+> which the Soviets had sought before with Britain and France. 
+> The Molotov–Ribbentrop pact, signed the next day, guaranteed peace between the parties 
+> and was a commitment neither government would aid or ally itself with an enemy of the other. 
+> In addition to the publicly announced stipulations of non-aggression for the next 10 years, 
+> the treaty included the Secret Protocol, 
+> which defined the borders of Soviet and German spheres of influence 
+> across Poland, Lithuania, Latvia, Estonia and Finland. 
+> 
+> The secret protocol also recognized the interest of Lithuania in the Vilnius region, 
+> and Germany declared its complete uninterest in Bessarabia. 
+> The rumoured existence of the Secret Protocol was proven only 
 > when it was made public during the Nuremberg trials.
 >
-> A week after signing the pact, on 1 September 1939, Germany invaded Poland. On 17 September, one day after a Soviet–Japanese ceasefire came into effect after the Battles of Khalkhin Gol, and one day after the Supreme Soviet of the Soviet Union approved the Molotov–Ribbentrop Pact, Stalin, stating concern for ethnic Ukrainians and Belarusians in Poland, ordered the Soviet invasion of Poland. After a short war ending in military defeat for Poland, Germany and the Soviet Union drew up a new border between them on formerly Polish territory in the supplementary protocol of the German–Soviet Boundary and Friendship Treaty.
+> Soon after the pact, Germany invaded Poland on 1 September 1939. 
+> Soviet leader Joseph Stalin ordered the Soviet invasion of Poland on 17 September, 
+> one day after a Soviet–Japanese ceasefire came into effect after the Battles of Khalkhin Gol, 
+> and one day after the Supreme Soviet of the Soviet Union 
+> approved the Molotov–Ribbentrop Pact. 
 >
-> In March 1940, the Soviet Union annexed parts of Karelia, Salla and Kuusamo following the Winter War against Finland. The Soviet annexation of Estonia, Latvia, Lithuania and parts of Romania (Bessarabia, Northern Bukovina and the Hertsa region) followed. Stalin's invasion of Bukovina in 1940 violated the pact, since it went beyond the Soviet sphere of influence that had been agreed with the Axis.
+> After the invasions, the new border between the two countries was confirmed 
+> by the supplementary protocol of the German–Soviet Frontier Treaty. 
+> In March 1940, parts of the Karelia and Salla regions in Finland 
+> were annexed by the Soviet Union following the Winter War. 
+> The Soviet annexation of Estonia, Latvia, Lithuania 
+> and parts of Romania (Bessarabia, Northern Bukovina and the Hertsa region) followed. 
+> The Soviets used concern for ethnic Ukrainians and Belarusians 
+> as a pretext for their invasion of Poland. 
+> Stalin's invasion of [[Bukovina]] in 1940 violated the pact, 
+> since it went beyond the Soviet sphere of influence that had been agreed with the Axis.
 >
-> The territories of Poland annexed by the Soviet Union following the 1939 Soviet invasion east of the Curzon line remained in the Soviet Union after the war and are now in Ukraine and Belarus. Vilnius was given to Lithuania. Only Podlaskie and a small part of Galicia east of the San River, around Przemyśl, were returned to Poland. Of all the other territories annexed by the Soviet Union in 1939–1940, those detached from Finland (parts of Karelia, Salla and Kuusamo) Estonia (Estonian Ingria and Petseri County) and Latvia (Abrene) remain part of Russia, the successor state to the Russian SFSR and the Soviet Union after the collapse of the USSR in 1991. The territories annexed from Romania were also integrated into the Soviet Union (such as the Moldavian SSR, or oblasts of the Ukrainian SSR). The core of Bessarabia now forms Moldova. Northern Bessarabia, Northern Bukovina and the Hertsa region now form the Chernivtsi Oblast of Ukraine. Southern Bessarabia is part of the Odesa Oblast, which is also now in Ukraine.
+> The territories of Poland annexed by the Soviet Union following the 1939 Soviet invasion 
+> east of the Curzon line remained in the Soviet Union after the war 
+> and are now in Ukraine and Belarus. 
+> Vilnius was given to Lithuania. Only Podlaskie 
+> and a small part of Galicia east of the San River, around Przemyśl, were returned to Poland. 
 >
-> The pact was terminated on 22 June 1941, when Germany launched Operation Barbarossa and invaded the Soviet Union, in pursuit of the ideological goal of Lebensraum. The Anglo-Soviet Agreement succeeded it. After the war, Ribbentrop was convicted of war crimes at the Nuremberg trials and executed in 1946, whilst Molotov died in 1986.
+> Of all the other territories annexed by the Soviet Union in 1939–1940, 
+> those detached from Finland (Western Karelia, Petsamo), 
+> Estonia (Estonian Ingria and Petseri County) and Latvia (Abrene) remain part of Russia, 
+> the successor state to the Russian SFSR 
+> and the Soviet Union after the collapse of the USSR in 1991. 
+> 
+> The territories annexed from Romania were also integrated into the Soviet Union 
+> (such as the Moldavian SSR, or oblasts of the Ukrainian SSR). 
+> The core of Bessarabia now forms Moldova. 
+> Northern Bessarabia, Northern Bukovina and the Hertsa region 
+> now form the Chernivtsi Oblast of Ukraine. 
+> Southern Bessarabia is part of the Odessa Oblast, which is also now in Ukraine.
+>
+> The pact was terminated on 22 June 1941, 
+> when Germany launched [[Operation_Barbarossa]] and invaded the Soviet Union, 
+> in pursuit of the ideological goal of Lebensraum. 
+> The Anglo-Soviet Agreement succeeded it. 
+> After the war, Ribbentrop was convicted of war crimes at the Nuremberg trials 
+> and executed. Molotov died in 1986.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop%20Pact) 
 
