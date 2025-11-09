@@ -12,6 +12,9 @@ defaultZoom: 3
 maxZoom: 18
 geojsonFolder: ./Antarctic~American/
 markerFolder: ./Antarctic~American/
+coordinates: [[Antarctic~American]] 
+markerFile: [[Antarctic~American]] 
+zoomFeatures: true 
 long: -45
 lat: -60
 

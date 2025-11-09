@@ -54,7 +54,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/go
 
 # [[Go(Game)]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Go,11413|WD~Go,11413]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Go,11413|WD~Go,11413]] 
 
 ## #has_/text_of_/abstract 
 
