@@ -6,6 +6,35 @@ tags:
   - astro/Zodiac
 type: Zodiac
 has_id_wikidata: Q10422
+discoverer_or_inventor:
+  - "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
+  - "[[_Standards/WikiData/WD~Amerigo_Vespucci,47674]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Q10729044,10729044]]"
+  - "[[_Standards/WikiData/WD~Template_Triangulum_Australe,10857905]]"
+time_of_discovery_or_invention: 1600-01-01T00:00:00Z
+named_after:
+  - "[[_Standards/WikiData/WD~south,667]]"
+  - "[[_Standards/WikiData/WD~triangle,19821]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+shares_border_with:
+  - "[[_Standards/WikiData/WD~Ara,9253]]"
+  - "[[_Standards/WikiData/WD~Apus,10506]]"
+  - "[[_Standards/WikiData/WD~Circinus,10508]]"
+  - "[[_Standards/WikiData/WD~Norma,10582]]"
+area: 110
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Triangulum%20Australe.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Triangulum%20Australe%20constellation%20map.svg
+astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Triangulum%20Australe%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
+Commons_gallery: Triangulum Australe
+Commons_category: Triangulum Australe
+short_name: TrA
+official_name: Triangulum Australe
 ---
 
 # [[Zodiac~Triangulum_Australis]] 
@@ -32,9 +61,17 @@ has_id_wikidata: Q10422
 > and gave the brighter stars their Bayer designations in 1756.
 >
 > Alpha Trianguli Australis, known as Atria, is a second-magnitude orange giant 
-> and the brightest star in the constellation, as well as the 42nd-brightest star in the night sky. Completing the triangle are the two white main sequence stars Beta and Gamma Trianguli Australis. Although the constellation lies in the Milky Way and contains many stars, deep-sky objects are not prominent. Notable features include the open cluster NGC 6025 and planetary nebula NGC 5979.
+> and the brightest star in the constellation, as well as the 42nd-brightest star in the night sky. 
+> Completing the triangle are the two white main sequence stars 
+> Beta and Gamma Trianguli Australis. 
+> 
+> Although the constellation lies in the Milky Way and contains many stars, 
+> deep-sky objects are not prominent. 
+> Notable features include the open cluster NGC 6025 and planetary nebula NGC 5979.
 >
-> The Great Attractor, the gravitational center of the Laniakea Supercluster which includes the Milky Way galaxy, straddles Triangulum Australe and the neighboring constellation Norma.
+> The Great Attractor, the gravitational center of the Laniakea Supercluster 
+> which includes the Milky Way galaxy, 
+> straddles Triangulum Australe and the neighboring constellation Norma.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Triangulum%20Australe) 
 
