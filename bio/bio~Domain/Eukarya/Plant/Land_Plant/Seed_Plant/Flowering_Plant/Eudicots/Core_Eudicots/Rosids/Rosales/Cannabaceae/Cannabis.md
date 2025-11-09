@@ -53,7 +53,7 @@ UMLS_CUI: C0949248
 
 # [[Cannabis]] 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Cannabis,79817|WD~Cannabis,79817]]
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Cannabis,79817|WD~Cannabis,79817]]
 
 ## #has_/text_of_/abstract 
 

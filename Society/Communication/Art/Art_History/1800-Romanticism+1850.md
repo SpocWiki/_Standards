@@ -43,7 +43,7 @@ MeSH_tree_code: K01.883
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/ROMANTIZM.html
 ---
 
-# [[Romanticism]] 
+# [[1800-Romanticism+1850]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Romanticism,37068|WD~Romanticism,37068]] 
 

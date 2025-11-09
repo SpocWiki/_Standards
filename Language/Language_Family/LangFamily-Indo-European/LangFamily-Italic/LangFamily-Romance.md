@@ -1,47 +1,48 @@
 ---
 aliases:
-- "Romance languages"
-Commons_category: "Romance languages"
+  - Romance languages
+  - Romance_Language
+Commons_category: Romance languages
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 Dewey_Decimal_Classification: 440
 different_from:
-- '[[_Standards/WikiData/WD~Rhaeto-Romance,515593]]'
-- '[[_Standards/WikiData/WD~Gallo-Roman,3440815]]'
-- '[[_Standards/WikiData/WD~Romani,13201]]'
-distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Tabula%20Linguarum%20Romanicarum.png"
+  - "[[_Standards/WikiData/WD~Rhaeto-Romance,515593]]"
+  - "[[_Standards/WikiData/WD~Gallo-Roman,3440815]]"
+  - "[[_Standards/WikiData/WD~Romani,13201]]"
+distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Tabula%20Linguarum%20Romanicarum.png
 Glottolog_code: roma1334
-has_cause: '[[_Standards/WikiData/WD~Vulgar_Latin,37560]]'
+has_cause: "[[_Standards/WikiData/WD~Vulgar_Latin,37560]]"
 has_id_wikidata: Q19814
 has_part_s_:
-- '[[_Standards/WikiData/WD~Italo-Western,112608]]'
-- '[[_Standards/WikiData/WD~Eastern_Romance,147576]]'
+  - "[[_Standards/WikiData/WD~Italo-Western,112608]]"
+  - "[[_Standards/WikiData/WD~Eastern_Romance,147576]]"
 IETF_language_tag: roa
-instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
 ISO_639_2_code: roa
 ISO_639_5_code: roa
 Krugosvet_article: gumanitarnye_nauki/lingvistika/ROMANSKIE_YAZIKI.html
 OmegaWiki_Defined_Meaning: 603402
 Provenio_UUID: 651f6e04-9539-4bd6-a426-2eaa30cd122e
 short_name:
-- Romance
-- Romanisch
-Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/romance-languages"
-studied_in: '[[_Standards/WikiData/WD~Romance_studies,1277348]]'
-subclass_of: '[[_Standards/WikiData/WD~Italic,131848]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Romance_languages,6234660]]'
+  - Romance
+  - Romanisch
+Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/romance-languages
+studied_in: "[[_Standards/WikiData/WD~Romance_studies,1277348]]"
+subclass_of: "[[_Standards/WikiData/WD~Italic,131848]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Romance_languages,6234660]]"
 Universal_Decimal_Classification: 811.13
 ---
 
-# [[LangFamily-Romance/Romance_Language]] 
+# [[LangFamily-Romance]]  
 
-#is_/same_as : [[WD~Romance_languages,19814]] 
+#is_/same_as : [[../../../../WikiData/WD~Romance_languages,19814|WD~Romance_languages,19814]]  
 
 ## #has_/text_of_/abstract 
 

@@ -7,6 +7,7 @@ aliases:
   - رومانيا
   - 罗马尼亚
   - Румыния
+has_id_wikidata: Q218
 anthem: "[[_Standards/WikiData/WD~Deșteaptă-te,_române!,184540]]"
 area: 238397
 Baidu_Tieba_name: 罗马尼亚
@@ -243,7 +244,6 @@ Happy_Planet_Index_score: 46.2
 hashtag: Romania
 has_cabinet: "[[_Standards/WikiData/WD~Government_of_Romania,2528718]]"
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q218
 has_time_started: 1859-02-05
 head_of_government: "[[_Standards/WikiData/WD~Marcel_Ciolacu,21179176]]"
 head_of_state: "[[_Standards/WikiData/WD~Ilie_Bolojan,18538164]]"
@@ -433,12 +433,6 @@ WIPO_ST_3: RO
 
 # [[Romania]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Romania 
-
-[[Romania/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: RON ]
 [	ISO4217-currency_name	 :: Romanian Leu ]
 [	ISO4217-currency_numeric	 :: 946 ]
@@ -502,23 +496,30 @@ Sub-region_Name ::  [[Eastern Europe]]
 
 [	ISO3166-1-numeric	 :: 642 ]
 
-
-
 [ISO2::RO]
 [ISO3::ROM] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Romania,218|WD~Romania,218]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Romania 
+
+[[Romania/ReadMe]] 
+
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Romania
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Romania//
-markerFolder: ./Romania//
+geojsonFolder: ./Romania///
+markerFolder: ./Romania/
+coordinates: [[Romania]] 
+markerFile: [[Romania]] 
+zoomFeatures: true 
+defaultZoom: 11 
 ```
 
 [name-en::Romania]
