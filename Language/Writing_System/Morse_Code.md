@@ -63,17 +63,17 @@ GitHub_topic: morse-code
 > or dits and dahs. 
 > Morse code is named after Samuel Morse, 
 > one of the early developers of the system adopted for electrical telegraphy.
-> 
+>
 > International Morse code encodes the 26 basic Latin letters A to Z, 
 > one accented Latin letter (É), the Arabic numerals, 
 > and a small set of punctuation and procedural signals (prosigns). 
->
+> 
 > There is no distinction between upper and lower case letters. 
 > Each Morse code symbol is formed by a sequence of dits and dahs. 
 > The dit duration can vary for signal clarity and operator skill, but for any one message, 
 > once established it is the basic unit of time measurement in Morse code. 
 > The duration of a dah is three times the duration of a dit (although some telegraphers deliberately exaggerate the length of a dah for clearer signalling). 
->
+> 
 > Each dit or dah within an encoded character is followed by a period of signal absence, 
 > called a space, equal to the dit duration. 
 > The letters of a word are separated by a space of duration equal to three dits, 
@@ -85,7 +85,7 @@ GitHub_topic: morse-code
 >
 > To increase the efficiency of transmission, Morse code was originally designed so that the duration of each symbol is approximately inverse to the frequency of occurrence of the character that it represents in text of the English language. Thus the most common letter in English, the letter E, has the shortest code – a single dit. Because the Morse code elements are specified by proportion rather than specific time durations, the code is usually transmitted at the highest rate that the receiver is capable of decoding. Morse code transmission rate (speed) is specified in groups per minute, commonly referred to as words per minute.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Morse%20code) 
+> [Wikipedia](https://en.wikipedia.org/wiki/Morse%20code)
 
 
 | Character | Morse Code |
