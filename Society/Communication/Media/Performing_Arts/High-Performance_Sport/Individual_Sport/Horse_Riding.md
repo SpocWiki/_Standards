@@ -3,6 +3,7 @@ aliases:
   - Reitsport
   - horse riding
   - horseback riding
+  - Equestrianism
 has_id_wikidata: Q179226
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -46,7 +47,7 @@ IMDb_keyword: horseback-riding
 IPTC_NewsCode: mediatopic/20000923
 ---
 
-# [[Equestrianism]] 
+# [[Horse_Riding]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Equestrianism,179226|WD~Equestrianism,179226]] 
 

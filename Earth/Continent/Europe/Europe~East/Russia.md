@@ -1050,6 +1050,10 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Russia//
 markerFolder: ./Russia////
+coordinates: [[Russia]] 
+markerFile: [[Russia]] 
+zoomFeatures: true
+defaultZoom: 4 
 ```
 
 [name-en::Russia]
@@ -1070,20 +1074,20 @@ Capital :: [Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City.md
 [has_place_latitude::52.6418]
 
 
-| Date       | Location           | Type of Infrastructure Affected | Description                                                                                    | Nature    |
+| Date       | Location           | Type of Infrastructure Affected | Description                                                        | Nature    |
 | ---------- | ------------------ | ------------------------------- | ---------------------------------------------------------------------------------------------- | --------- |
-| 2015-04    | Ukraine            | Power Grid                      | Cyberattack on Ukrainian power grid causing outages                                            |           |
-| 2017-06    | Ukraine & Europe   | Various                         | NotPetya malware affecting businesses and infrastructure                                       |           |
+| 2015-04    | Ukraine            | Power Grid                      | Cyberattack on Ukrainian power grid causing outages                |           |
+| 2017-06    | Ukraine & Europe   | Various                         | NotPetya malware affecting businesses and infrastructure           |           |
 | 2018-03    | United Kingdom     | Chemical Industry               | Salisbury poisoning incident                                                                   |           |
 | 2021-07    | Europe-wide        | Oil & Gas                       | Nord Stream 2 manipulation and political leverage                                              | Perceived |
 | 2022-04    | Baltic Sea         | Submarine cables                | Increased military activity                                                                    | Perceived |
 | 2022-10    | Germany, Norway    | Undersea Cables & Pipelines     | Nord Stream pipeline explosions                                                                |           |
-| 2023-02    | Poland & Lithuania | Railways                        | Cyberattacks causing disruptions in rail systems                                               |           |
-| 2023-05    | Various Europe     | Cyber Infrastructure            | Increased phishing/cyber espionage activities attributed to Russia                             |           |
-| 2024-02-16 |                    | Dissident                       | [[../../../../../_private/Society/Communication/Media/Podcast/Navalny,Alexei\|Navalny,Alexei]] |           |
-| 2018-03    |                    | [[Double-Agent]]                | [[Russia/Skripal,Sergei]]                                                                      |           |
-| 2006-11-23 |                    | [[Double-Agent]]                | [[Alexander Litwinenko]]                                                                       |           |
-|            |                    |                                 | [[../../Arctica/Arctic-Russian-Islands/Krasikov,Vadim]]                                        |           |
+| 2023-02    | Poland & Lithuania | Railways                        | Cyberattacks causing disruptions in rail systems                   |           |
+| 2023-05    | Various Europe     | Cyber Infrastructure            | Increased phishing/cyber espionage activities attributed to Russia |           |
+| 2024-02-16 |                    | Dissident                       | [[../../../../../_private/Society/Communication/Media/Podcast/Navalny,Alexei\|Navalny,Alexei]]    |           |
+| 2018-03    |                    | [[Double-Agent]]                | [[Russia/Skripal,Sergei]]                                                 |           |
+| 2006-11-23 |                    | [[Double-Agent]]                | [[Alexander Litwinenko]]                                           |           |
+|            |                    |                                 | [[../../Arctica/Arctic-Russian-Islands/Krasikov,Vadim]]                                                |           |
 
 
   
