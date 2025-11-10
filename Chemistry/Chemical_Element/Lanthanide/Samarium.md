@@ -51,7 +51,7 @@ Unicode_character: 釤
 UNII: 42OD65L39F
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Samarium,1819]] 
+# [[Samarium]] 
 
 
 #chemic/Element 
@@ -76,6 +76,8 @@ UNII: 42OD65L39F
 [FormEnergy-kj-mol::166.4]
 (PeriodNo::6)
 (GroupNo::28)
+
+#is_/same_as :: [[../../../WikiData/WD~Samarium,1819]] 
 
 
 ## #has_/text_of_/abstract 
