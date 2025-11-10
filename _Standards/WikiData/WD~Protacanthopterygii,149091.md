@@ -1,3 +1,3 @@
 
-#is_/same_as :: [[Protacanthopterygii]] 
+#is_/same_as :: [[../../bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Actinopterygii/Halecostomi/Teleostei/Protacanthopterygii|Protacanthopterygii]] 
 

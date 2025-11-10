@@ -26,7 +26,7 @@ Universal_Decimal_Classification: 341.326.12
 
 # [[Espionage]]
 
-#is_/same_as :: [[../../WikiData/WD~Espionage,165950|WD~Espionage,165950]] 
+#is_/same_as :: [[../../../WikiData/WD~Espionage,165950|WD~Espionage,165950]] 
 
 ## #has_/text_of_/abstract 
 
