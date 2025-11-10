@@ -47,7 +47,6 @@ Commons_category: Salts
 
 #is_/same_as :: [[../../../../../WikiData/WD~Salt,12370|WD~Salt,12370]]
 
-
 ## #has_/text_of_/abstract 
 
 > In common usage, **Salt** is a mineral composed primarily of sodium chloride (NaCl). 
