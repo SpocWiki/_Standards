@@ -155,7 +155,7 @@ ISNI: "0000000080818611"
 #has_/time_/started :: 1791-04-27 
 #has_/time_/stopped  :: 1872-04-02 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
-#is_/same_as :: [[../../../../_Standards/WikiData/WD~Samuel_Finley_Breese_Morse,75698|WD~Samuel_Finley_Breese_Morse,75698]] 
+#is_/same_as :: [[../../WikiData/WD~Samuel_Finley_Breese_Morse,75698|WD~Samuel_Finley_Breese_Morse,75698]]  
 
 ## #has_/text_of_/abstract 
 
