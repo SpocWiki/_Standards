@@ -480,7 +480,6 @@ Sub-region_Name ::  [[Northern Europe]]
 
 ## #has_/map  
 
-
 ```leaflet
 id: Ireland
 zoomFeatures: true 
@@ -488,6 +487,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Ireland//
 markerFolder: ./Ireland//
+coordinates: [[Ireland]] 
+markerFile: [[Ireland]] 
+defaultZoom: 11 
 ```
 
 
