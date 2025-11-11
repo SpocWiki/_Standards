@@ -534,7 +534,7 @@ Wolfram_Language_entity_code: Entity["Country", "Iran"]
 
 # [[Iran]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Iran,794]] 
+#is_/same_as :: [[../../../../WikiData/WD~Iran,794|WD~Iran,794]]  
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Iran 
