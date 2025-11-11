@@ -85,3 +85,5 @@ Natural Monopoly Tendencies need to be prevented and Market Entry enabled.
 
 Also the Price, especially of common Goods needs to be regulated 
 to prevent exploitation by externalization. 
+
+Markets
