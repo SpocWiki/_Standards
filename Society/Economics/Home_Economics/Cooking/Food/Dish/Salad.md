@@ -43,7 +43,7 @@ MeSH_tree_code:
 
 # [[Salad]]
 
-#is_/same_as :: [[../../../../WikiData/WD~Salad,9266|WD~Salad,9266]]
+#is_/same_as :: [[../../../../../../WikiData/WD~Salad,9266|WD~Salad,9266]]
 
 ## #has_/text_of_/abstract 
 

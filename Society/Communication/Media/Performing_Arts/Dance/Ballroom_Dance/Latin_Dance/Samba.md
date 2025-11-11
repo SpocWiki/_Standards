@@ -16,9 +16,25 @@ subclass_of: '[[_Standards/WikiData/WD~music_of_Brazil,899215]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Samba,22880924]]'
 ---
 
+# [[Samba]] 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Samba,11403|WD~Samba,11403]] 
+
 ## #has_/text_of_/abstract 
 
-> **Samba** (Portuguese pronunciation: [ˈsɐ̃bɐ] ) is a name or prefix used for several rhythmic variants, such as samba urbano carioca (urban Carioca samba), samba de roda (sometimes also called rural samba), amongst many other forms of samba, mostly originated in the Rio de Janeiro and Bahia states. Samba is a broad term for many of the rhythms that compose the better known Brazilian music genres that originated in the Afro-Brazilian communities of Bahia in the late 19th century and early 20th century, having continued its development on the communities of Rio de Janeiro in the early 20th century. Having its roots in Brazilian folk traditions, especially those linked to the primitive rural samba of the colonial and imperial periods, is considered one of the most important cultural phenomena in Brazil and one of the country symbols. Present in the Portuguese language at least since the 19th century, the word "samba" was originally used to designate a "popular dance". Over time, its meaning has been extended to a "batuque-like circle dance", a dance style, and also to a "music genre". This process of establishing itself as a musical genre began in the 1910s and it had its inaugural landmark in the song "Pelo Telefone", launched in 1917. Despite being identified by its creators, the public, and the Brazilian music industry as "samba", this pioneering style was much more connected from the rhythmic and instrumental point of view to maxixe than to samba itself.
+> **Samba** (Portuguese pronunciation: [ˈsɐ̃bɐ] ) is a name or prefix 
+> used for several rhythmic variants, such as 
+> - samba urbano carioca (urban Carioca samba), 
+> - samba de roda (sometimes also called rural samba), amongst many other forms of samba,
+> mostly originated in the Rio de Janeiro and Bahia states. 
+> 
+> Samba is a broad term for many of the rhythms 
+> that compose the better known Brazilian music genres 
+> that originated in the Afro-Brazilian communities of Bahia in the late 19th century 
+> and early 20th century, having continued its development 
+> on the communities of Rio de Janeiro in the early 20th century. 
+> 
+> Having its roots in Brazilian folk traditions, especially those linked to the primitive rural samba of the colonial and imperial periods, is considered one of the most important cultural phenomena in Brazil and one of the country symbols. Present in the Portuguese language at least since the 19th century, the word "samba" was originally used to designate a "popular dance". Over time, its meaning has been extended to a "batuque-like circle dance", a dance style, and also to a "music genre". This process of establishing itself as a musical genre began in the 1910s and it had its inaugural landmark in the song "Pelo Telefone", launched in 1917. Despite being identified by its creators, the public, and the Brazilian music industry as "samba", this pioneering style was much more connected from the rhythmic and instrumental point of view to maxixe than to samba itself.
 >
 > Samba was modernly structured as a musical genre only in the late 1920s from the neighborhood of Estácio and soon extended to Oswaldo Cruz and other parts of Rio through its commuter rail. Today synonymous with the rhythm of samba, this new samba brought innovations in rhythm, melody and also in thematic aspects. Its rhythmic change based on a new percussive instrumental pattern resulted in a more "batucado" and syncopated style – as opposed to the inaugural "samba-maxixe" – notably characterized by a faster tempo, longer notes and a characterized cadence far beyond the simple ones palms used so far. Also the "Estácio paradigm" innovated in the formatting of samba as a song, with its musical organization in first and second parts in both melody and lyrics. In this way, the sambistas of Estácio created, structured and redefined the urban Carioca samba as a genre in a modern and finished way. In this process of establishment as an urban and modern musical expression, the Carioca samba had the decisive role of samba schools, responsible for defining and legitimizing definitively the aesthetic bases of rhythm, and radio broadcasting, which greatly contributed to the diffusion and popularization of the genre and its song singers. Thus, samba has achieved major projection throughout Brazil and has become one of the main symbols of Brazilian national identity. Once criminalized and rejected for its Afro-Brazilian origins, and definitely working-class music in its mythic origins, the genre has also received support from members of the upper classes and the country's cultural elite.
 >

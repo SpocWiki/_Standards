@@ -7,12 +7,12 @@ aliases:
   - Сан-Марино
   - the Republic of San Marino
   - la República de San Marino
+has_id_wikidata: Q238
 confidential: public
 cssclasses:
   - Country
 draft: false
 expiryDate:
-has_id_wikidata: Q238
 icon: flag-sm
 isDeleted: false
 isReadOnly: false
@@ -36,12 +36,6 @@ type: Country
 ---
 
 # [[San_Marino]] 
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-San_Marino 
-
-[[San_Marino/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
@@ -106,15 +100,18 @@ Sub-region_Name ::  [[Southern Europe]]
 
 [	ISO3166-1-numeric	 :: 674 ]
 
-
-
 [ISO2::SM]
 [ISO3::SMR] 
 
+#is_/same_as :: [[../../../../WikiData/WD~San_Marino,238|WD~San_Marino,238]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-San_Marino 
+
+[[San_Marino/ReadMe]] 
+
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: San Marino
