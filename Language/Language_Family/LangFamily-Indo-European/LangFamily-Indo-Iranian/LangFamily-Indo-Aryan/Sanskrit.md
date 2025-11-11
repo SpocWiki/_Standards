@@ -1,6 +1,122 @@
 ---
 aliases:
 has_id_wikidata: Q11059
+Stack_Exchange_tag:
+  - https://linguistics.stackexchange.com/tags/sanskrit
+  - https://buddhism.stackexchange.com/tags/sanskrit
+RIA_Novosti_reference: "41922429"
+Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/SANSKRIT.html
+Glottolog_code: sans1269
+entry_in_abbreviations_table:
+  - Sk.
+  - Skt
+  - س
+  - ਸੰ.
+Libris_URI: wt799jgf49wpv44
+GOST_7_75_97_code: сан 581
+native_label:
+  - संस्कृतम्
+  - 𑖭𑖽𑖭𑖿𑖎𑖴𑖝𑖦𑖿
+has_grammatical_case:
+  - "[[_Standards/WikiData/WD~nominative_case,131105]]"
+  - "[[_Standards/WikiData/WD~dative_case,145599]]"
+  - "[[_Standards/WikiData/WD~accusative_case,146078]]"
+  - "[[_Standards/WikiData/WD~genitive_case,146233]]"
+  - "[[_Standards/WikiData/WD~ablative_case,156986]]"
+  - "[[_Standards/WikiData/WD~vocative_case,185077]]"
+  - "[[_Standards/WikiData/WD~instrumental_case,192997]]"
+  - "[[_Standards/WikiData/WD~locative_case,202142]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~macrolanguage,152559]]"
+  - "[[_Standards/WikiData/WD~ancient_language,436240]]"
+linguistic_typology:
+  - "[[_Standards/WikiData/WD~fusional_language,318917]]"
+  - "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
+has_grammatical_gender:
+  - "[[_Standards/WikiData/WD~masculine,499327]]"
+  - "[[_Standards/WikiData/WD~feminine,1775415]]"
+  - "[[_Standards/WikiData/WD~neuter,1775461]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
+has_grammatical_mood:
+  - "[[_Standards/WikiData/WD~conditional,625581]]"
+  - "[[_Standards/WikiData/WD~indicative,682111]]"
+  - "[[_Standards/WikiData/WD~desiderative,1200631]]"
+  - "[[_Standards/WikiData/WD~injunctive,1431843]]"
+  - "[[_Standards/WikiData/WD~imperative,22716]]"
+writing_system:
+  - "[[_Standards/WikiData/WD~Sharada,2047117]]"
+  - "[[_Standards/WikiData/WD~Devanagari,38592]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Classical_Sanskrit,9333703]]"
+  - "[[_Standards/WikiData/WD~Vedic_Sanskrit,36858]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Sanskrit,17391699]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828268,22828268]]"
+Ethnologue_language_status: "[[_Standards/WikiData/WD~4_Educational,29051550]]"
+has_grammatical_person:
+  - "[[_Standards/WikiData/WD~first_person_singular,51929218]]"
+  - "[[_Standards/WikiData/WD~first_person_plural,51929290]]"
+  - "[[_Standards/WikiData/WD~second_person_singular,51929369]]"
+  - "[[_Standards/WikiData/WD~second_person_plural,51929403]]"
+  - "[[_Standards/WikiData/WD~third_person_singular,51929447]]"
+  - "[[_Standards/WikiData/WD~third_person_plural,51929517]]"
+  - "[[_Standards/WikiData/WD~first_person_dual,116146561]]"
+  - "[[_Standards/WikiData/WD~second_person_dual,116146572]]"
+  - "[[_Standards/WikiData/WD~third_person_dual,116146594]]"
+has_paradigm_class:
+  - "[[_Standards/WikiData/WD~Sanskrit_third_gaṇa,107208558]]"
+  - "[[_Standards/WikiData/WD~Sanskrit_fourth_gaṇa,107208559]]"
+  - "[[_Standards/WikiData/WD~Sanskrit_first_gaṇa,107208556]]"
+  - "[[_Standards/WikiData/WD~Sanskrit_second_gaṇa,107208557]]"
+  - "[[_Standards/WikiData/WD~Sanskrit_seventh_gaṇa,107208562]]"
+  - "[[_Standards/WikiData/WD~Sanskrit_eighth_gaṇa,107208563]]"
+  - "[[_Standards/WikiData/WD~Sanskrit_fifth_gaṇa,107208560]]"
+  - "[[_Standards/WikiData/WD~Sanskrit_sixth_gaṇa,107208561]]"
+  - "[[_Standards/WikiData/WD~Sanskrit_ninth_gaṇa,107208564]]"
+  - "[[_Standards/WikiData/WD~Sanskrit_tenth_gaṇa,107208565]]"
+part_of:
+  - "[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]"
+  - "[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]"
+subclass_of: "[[_Standards/WikiData/WD~Old_Indo_Aryan,118976896]]"
+has_characteristic: "[[_Standards/WikiData/WD~Sahitya_Akademi_Prize_for_Translation_in_Sanskrit,136719630]]"
+country: "[[_Standards/WikiData/WD~India,668]]"
+number_of_speakers_writers_or_signers:
+  - 2212
+  - 26490
+  - 6106
+  - 14135
+  - 49736
+IAB_code: "1168"
+Ethnologue_com_language_code: san
+ISO_639_3_code: san
+ISO_639_2_code: san
+Commons_gallery: Sanskrit
+Commons_category: Sanskrit
+OmegaWiki_Defined_Meaning: "429470"
+Dewey_Decimal_Classification: "491.2"
+Wikimedia_language_code: sa
+IETF_language_tag: sa
+ISO_639_1_code: sa
+POSIX_locale_identifier: sa
+audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Hi-%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4.oga
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sanskrit1.ogg
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20sa.svg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%83%E0%A6%A4%20%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE.wav
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sanskrit.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sanskrit%20in%20Siddham%20script.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Three%20Women%20of%20Mumbai%20banner.jpg
+exact_match:
+  - http://publications.europa.eu/resource/authority/language/SAN
+  - https://afbo.info/languages/132
 ---
 
 # [[Sanskrit]] 
