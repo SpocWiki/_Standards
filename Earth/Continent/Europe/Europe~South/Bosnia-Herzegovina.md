@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Bosnia_and_Herzegovina
+  - Bosnia and Herzegovina
+has_id_wikidata: Q225
 location:
   - 43.87
   - 18.43
@@ -6,7 +10,6 @@ type: Country
 tags:
   - geo/Country
 icon: flag-ba
-has_id_wikidata: Q225
 Libris_URI: pm1358x74smx2mv
 Colon_Classification: SG--592242
 Krugosvet_article: strany_mira/BOSNIYA_I_GERTSEGOVINA.html
@@ -359,7 +362,7 @@ CIVICUS_Monitor_country_entry: bosnia-herzegovina
 hashtag: BosniaandHerzegovina
 ---
 
-# [[Bosnia_and_Herzegovina]] 
+# [[Bosnia-Herzegovina]] 
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Bosnia_and_Herzegovina 
@@ -372,7 +375,7 @@ confidential: public
 [ISO2::BA]
 [ISO3::BIH] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Bosnia_and_Herzegovina,225|WD~Bosnia_and_Herzegovina,225]] 
+#is_/same_as :: [[../../../../WikiData/WD~Bosnia-Herzegovina,225|WD~Bosnia-Herzegovina,225]] 
 
 ## #has_/map  
 
@@ -383,8 +386,8 @@ id: Bosnia and Herzegovina
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Bosnia_and_Herzegovina//
-markerFolder: ./Bosnia_and_Herzegovina//
+geojsonFolder: ./Bosnia-Herzegovina//
+markerFolder: ./Bosnia-Herzegovina//
 ```
 
 [name-en::Bosnia and Herzegovina]
@@ -393,7 +396,7 @@ markerFolder: ./Bosnia_and_Herzegovina//
 [Area-Land::51000]
 has_place_continent:: [[Europe]]  
 [VehicleCode::BIH]
-Capital :: [[geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo]]  
+Capital :: [[geo/Continent/Europe/Europe~South/Bosnia-Herzegovina/Counties/Sarajevo]]  
 ![[Coat_of_arms_of_Bosnia_and_Herzegovina.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bosnia-herzegovina.mp3]]
 ![[Flag_of_Bosnia_and_Herzegovina.svg|350]]
