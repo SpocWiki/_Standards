@@ -106,9 +106,10 @@ ISNI: "0000000121363669"
 > where he remained until the end of his career, and in 1939 obtained American citizenship.
 >
 > Schumpeter was one of the most influential economists of the early 20th century, 
-> and popularized creative destruction, a term coined by Werner Sombart. 
+> and popularized [[creative_Destruction]], a term coined by Werner Sombart. 
 > 
 > His magnum opus is considered to be [[Capitalism, Socialism and Democracy]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Schumpeter) 
+
 
