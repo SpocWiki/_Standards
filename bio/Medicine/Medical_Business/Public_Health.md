@@ -1,9 +1,11 @@
 ---
 aliases:
+  - public health
   - public-health
   - public_health
   - PublicHealth
   - is_a_public_health
+  - Health
 has_id_wikidata: Q189603
 confidential: public
 cssclasses:
