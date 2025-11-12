@@ -47,7 +47,7 @@ WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/scorpion
 
 # [[Scorpion]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Scorpion,19125|WD~Scorpion,19125]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Scorpion,19125|WD~Scorpion,19125]] 
 
 ![Scorpion](Scorpion/buthoidea.jpg)
 
