@@ -12,7 +12,7 @@ Commons_category: Nordic Middle Ages
 
 # [[History_of_Scandinavia]]
 
-#is_/same_as :: [[../../../../WikiData/WD~History_of_Scandinavia,568251|WD~History_of_Scandinavia,568251]]  
+#is_/same_as :: [[../../../../../WikiData/WD~History_of_Scandinavia,568251|WD~History_of_Scandinavia,568251]]  
 
 ## #has_/text_of_/abstract 
 
