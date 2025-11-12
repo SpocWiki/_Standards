@@ -1,56 +1,56 @@
 ---
 aliases:
-- Sarcopterygii
-- Sarc
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+  - Sarcopterygii
+  - Sarc
+has_id_wikidata: Q160830
+code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 Commons_category: Osteichthyes
 Commons_gallery: Sarcopterygii
 EPPO_Code: 1SARCC
-has_id_wikidata: Q160830
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Latimeria%20chalumnae01.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Latimeria%20chalumnae01.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~clade,713623]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+  - "[[_Standards/WikiData/WD~clade,713623]]"
+  - "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 161048
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sarcopterygii.png"
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sarcopterygii.png
 parent_taxon:
-- '[[_Standards/WikiData/WD~Euteleostomi,1378800]]'
-- '[[_Standards/WikiData/WD~Osteichthyes,27207]]'
+  - "[[_Standards/WikiData/WD~Euteleostomi,1378800]]"
+  - "[[_Standards/WikiData/WD~Osteichthyes,27207]]"
 start_time: -423000000-01-01
 taxon_common_name:
-- Actinopterígio
-- nozdratí
-- Fleischflosser
-- "Lobe-finned fishes"
-- Lihasuimsed
-- Sagaruimsed
-- "Varsieväiset kalat"
-- Sarcoptérygiens
-- Mesoperke
-- "Bojtosúszójú halak"
-- 肉鰭綱
-- kjøttfinnefisker
-- mięśniopłetwe
-- mesnatoplavutarice
-- "Et yüzgeçliler"
-- "Kas yüzgeçliler"
-- Лопастепері
-- 肉鳍鱼
+  - Actinopterígio
+  - nozdratí
+  - Fleischflosser
+  - Lobe-finned fishes
+  - Lihasuimsed
+  - Sagaruimsed
+  - Varsieväiset kalat
+  - Sarcoptérygiens
+  - Mesoperke
+  - Bojtosúszójú halak
+  - 肉鰭綱
+  - kjøttfinnefisker
+  - mięśniopłetwe
+  - mesnatoplavutarice
+  - Et yüzgeçliler
+  - Kas yüzgeçliler
+  - Лопастепері
+  - 肉鳍鱼
 taxon_name: Sarcopterygii
-taxon_rank: '[[_Standards/WikiData/WD~superclass,3504061]]'
+taxon_rank: "[[_Standards/WikiData/WD~superclass,3504061]]"
 title: Sarcopterygii
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Sarcopterygii,7963126]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Sarcopterygii,7963126]]"
 UMLS_CUI: C1081145
 ---
 
-# [[Sarcopterygii]] 
+# [[Sarc]] 
 
 #is_/instance_of :: [[Clade]]  
-#is_/same_as :: [[../../../../../../../WikiData/WD~Sarcopterygii,160830|WD~Sarcopterygii,160830]]  
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Sarcopterygii,160830|WD~Sarcopterygii,160830]]  
 
 ## #has_/text_of_/abstract 
 
-> **Sarcopterygii** (; from Ancient Greek  σάρξ (sárx) 'flesh' and  πτέρυξ (ptérux) 'wing, fin')—
+> **Sarcopterygii** (; from Ancient Greek  σάρξ (sárx) 'flesh' and  πτέρυξ (ptérux) 'wing, fin'), 
 > sometimes considered synonymous with Crossopterygii (κροσσός, krossós, 'fringe')—
 > is a clade (traditionally a class or subclass) of vertebrate animals which includes 
 > a group of bony fish commonly referred to as lobe-finned fish. 
