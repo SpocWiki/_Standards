@@ -50,7 +50,6 @@ coordinates_of_southernmost_point: Point(11.969566111 54.55969)
 # [[Scandinavia]] 
 
 #is_/same_as :: [[WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]] 
-#is_/same_as :: [[WikiData/WD~Scandinavian_Peninsula,73169|WD~Scandinavian_Peninsula,73169]]  
 
 ## #has_/text_of_/abstract 
 
