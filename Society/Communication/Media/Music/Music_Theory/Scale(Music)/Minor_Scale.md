@@ -2,7 +2,7 @@
 # [[Minor_Scale]] 
 
 #is_/same_as :: [[WD~Minor,12827391]] 
-#is_/different_from :: [[Major_Scale]] 
+#is_/different_from :: [[Scale(Music)/Major_Scale]] 
 
 ## #has_/text_of_/abstract 
 
