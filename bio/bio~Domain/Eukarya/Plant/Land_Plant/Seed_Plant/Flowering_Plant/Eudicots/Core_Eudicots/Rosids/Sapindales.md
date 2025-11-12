@@ -10,12 +10,12 @@ title: Sapindales
 ![](Sapindales/Dictamnus_dasycarpus.jpg)
 ![](Sapindales/Bursera_microphylla0036.jpg)
 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Sapindales,26316|WD~Sapindales,26316]] 
+
 ## #has_/text_of_/abstract 
 
 > **Sapindales**  is an order of flowering plants. 
 > Well-known members of Sapindales include citrus; maples, horse-chestnuts, lychees and rambutans; mangos and cashews; frankincense and myrrh; mahogany and neem.
->
-> 
 >
 > The APG III system of 2009 includes it in the clade malvids (in rosids, in eudicots) 
 > with the following nine families:
