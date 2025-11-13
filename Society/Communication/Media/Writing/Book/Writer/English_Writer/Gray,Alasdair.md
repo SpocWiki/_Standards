@@ -1,12 +1,14 @@
 ---
 aliases:
 - "Alasdair Gray"
+- "Alasdair_Gray"
 ---
 
 ## #has_/text_of_/abstract 
 
 > Alasdair James Gray (28 December 1934 – 29 December 2019)
 >  was a Scottish writer and artist. 
+>  
 >  His first novel, Lanark (1981), is seen as a landmark of Scottish fiction. 
 >  He published novels, short stories, plays, poetry and translations, 
 >  and wrote on politics and the history of English and Scots literature. 
@@ -33,6 +35,7 @@ aliases:
 > He popularised the epigram "Work as if you live in the early days of a better nation" (paraphrased from a poem by Canadian poet Dennis Lee) 
 > which was engraved in the Canongate Wall of the Scottish Parliament Building 
 > in Edinburgh when it opened in 2004. 
+> 
 > He lived almost all his life in Glasgow, married twice, and had one son. 
 > On his death The Guardian referred to him as 
 > "the father figure of the renaissance in Scottish literature and art".

@@ -19,7 +19,7 @@
 > The films constitute one of the longest continually running film series 
 > and have grossed over US$7.04 billion in total at the box office, 
 > making James Bond the fifth-highest-grossing film series to date, 
-> which started in 1962 with Dr. No, starring [[../Fantasy-Movie/Connery,Sean|Sean Connery]] as Bond. 
+> which started in 1962 with Dr. No, starring [[../../Actor/British_Actor/Connery,Sean|Sean Connery]] as Bond. 
 > 
 > As of 2021, there have been twenty-five films in the Eon Productions series. 
 > The most recent Bond film, No Time to Die (2021), stars Daniel Craig in his fifth portrayal of Bond; 
@@ -44,19 +44,19 @@
 
 | Year | English Title                                                  | German Title                   | Bond Actor                                      | Bond Girl        | Actress                                    | Enemy                | Actor                 |
 | ---- | -------------------------------------------------------------- | ------------------------------ | ----------------------------------------------- | ---------------- | ------------------------------------------ | -------------------- | --------------------- |
-| 1962 | [[James_Bond,films/Dr.No,1962]]                           | James Bond jagt Dr. No         | [[../Fantasy-Movie/Connery,Sean\|Sean Connery]] | Honey Ryder      | Ursula Andress                             | Dr. No               | Joseph Wiseman        |
+| 1962 | [[James_Bond,films/Dr.No,1962]]                           | James Bond jagt Dr. No         | [[../../Actor/British_Actor/Connery,Sean\|Sean Connery]] | Honey Ryder      | Ursula Andress                             | Dr. No               | Joseph Wiseman        |
 | 1963 | [[James_Bond,films/From_Russia_with_Love,1963]]           | Liebesgrüße aus Moskau         | 2                                               | Tatiana Romanova | Daniela Bianchi                            | Rosa Klebb           | Lotte Lenya           |
 | 1964 | [[James_Bond,films/Goldfinger,1964]]                      | Goldfinger                     | 3                                               | Pussy Galore     | Honor Blackman                             | Auric Goldfinger     | Gert Fröbe            |
 | 1965 | [[James_Bond,films/Thunderball,1965]]                     | Feuerball                      | 4                                               | Domino Derval    | Claudine Auger                             | Emilio Largo         | Adolfo Celi           |
 | 1967 | [[James_Bond,films/You_Only_Live_Twice,1967]]             | Man lebt nur zweimal           | 5                                               | Kissy Suzuki     | Mie Hama                                   | Ernst Stavro Blofeld | Donald Pleasence      |
 | 1969 | [[James_Bond,films/On_Her_Majesty's_Secret_Service,1969]] | Im Geheimdienst Ihrer Majestät | George Lazenby                                  | Tracy di Vicenzo | Diana Rigg                                 | Ernst Stavro Blofeld | Telly Savalas         |
-| 1971 | [[James_Bond,films/Diamonds_Are_Forever,1971]]            | Diamantenfieber                | [[../Fantasy-Movie/Connery,Sean\|Sean Connery]] | Tiffany Case     | Jill St. John                              | Ernst Stavro Blofeld | Charles Gray          |
+| 1971 | [[James_Bond,films/Diamonds_Are_Forever,1971]]            | Diamantenfieber                | [[../../Actor/British_Actor/Connery,Sean\|Sean Connery]] | Tiffany Case     | Jill St. John                              | Ernst Stavro Blofeld | Charles Gray          |
 | 1973 | [[James_Bond,films/Live_and_Let_Die,1973]]                | Leben und sterben lassen       | [[../../Actor/British_Actor/Moore,Roger]]                                 | Solitaire        | Jane Seymour                               | Dr. Kananga          | Yaphet Kotto          |
 | 1974 | [[James_Bond,films/Man_with_the_Golden_Gun,1974]]         | Der Mann mit dem goldenen Colt | 2                                               | Mary Goodnight   | Britt Ekland                               | Francisco Scaramanga | Christopher Lee       |
 | 1977 | [[James_Bond,films/Spy_Who_Loved_Me,1977]]                | Der Spion, der mich liebte     | 3                                               | Anya Amasova     | Barbara Bach                               | Karl Stromberg       | Curd Jürgens          |
 | 1979 | [[James_Bond,films/Moonraker,1979]]                       | Moonraker - Streng geheim      | 4                                               | Holly Goodhead   | Lois Chiles                                | Hugo Drax            | Michael Lonsdale      |
 | 1981 | [[James_Bond,films/For_Your_Eyes_Only,1981]]              | In tödlicher Mission           | 5                                               | Melina Havelock  | Carole Bouquet                             | Aris Kristatos       | Julian Glover         |
-| 1983 | [[James_Bond,films/Never_Say_Never_Again,1983]]           | Sag niemals nie                | [[../Fantasy-Movie/Connery,Sean\|Sean Connery]] | Domino Petachi   | Kim Basinger                               | Maximillian Largo    | Klaus Maria Brandauer |
+| 1983 | [[James_Bond,films/Never_Say_Never_Again,1983]]           | Sag niemals nie                | [[../../Actor/British_Actor/Connery,Sean\|Sean Connery]] | Domino Petachi   | Kim Basinger                               | Maximillian Largo    | Klaus Maria Brandauer |
 | 1983 | [[James_Bond,films/Octopussy,1983]]                       | Octopussy                      | Roger Moore                                     | Octopussy        | Maud Adams                                 | Kamal Khan           | Louis Jourdan         |
 | 1985 | [[James_Bond,films/View_to_a_Kill,1985]]                  | Im Angesicht des Todes         | 7                                               | Stacey Sutton    | Tanya Roberts                              | Max Zorin            | Christopher Walken    |
 | 1987 | [[James_Bond,films/Living_Daylights,1987]]                | Der Hauch des Todes            | Timothy Dalton                                  | Kara Milovy      | Maryam d'Abo                               | General Koskov       | Jeroen Krabbé         |

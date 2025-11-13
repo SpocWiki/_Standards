@@ -47,6 +47,12 @@ time_of_discovery_or_invention: 1684-01-01T00:00:00Z
 #is_/same_as :: [[../../WikiData/WD~Scutum,10529|WD~Scutum,10529]] 
 
 
+## #has_/text_of_/abstract 
+
+> Scutum is a small constellation. Its name is Latin for shield, and it was originally named Scutum Sobiescianum by Johannes Hevelius in 1684. Located just south of the celestial equator, its four brightest stars form a narrow diamond shape.  It is one of the 88 IAU designated constellations defined in 1922.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Scutum%20(constellation)) 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Scutum](/_Standards/Astronomy/Star~Constellation/Zodiac~Scutum.md) 

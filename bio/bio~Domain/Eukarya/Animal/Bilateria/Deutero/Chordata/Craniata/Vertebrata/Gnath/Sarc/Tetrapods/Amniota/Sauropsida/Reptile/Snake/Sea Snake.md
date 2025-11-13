@@ -22,14 +22,22 @@ taxon_name: Hydrophiinae
 ---
 
 
-# [[Sea Snakes]]
+# [[Sea Snake]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Sea_snakes,460286|WD~Sea_snakes,460286]]
 
-
 ## #has_/text_of_/abstract 
 
-> **Sea Snake**s, or coral reef snakes, are elapid snakes that inhabit marine environments for most or all of their lives. They belong to two subfamilies, Hydrophiinae and Laticaudinae. Hydrophiinae also includes Australasian terrestrial snakes, whereas Laticaudinae only includes the sea kraits (Laticauda), of which three species are found exclusively in freshwater. If these three freshwater species are excluded, there are 69 species of sea snake divided among seven genera.
+> **Sea Snake**s, or coral reef snakes, are elapid snakes 
+> that inhabit marine environments for most or all of their lives. 
+> 
+> They belong to two subfamilies, Hydrophiinae and Laticaudinae. 
+> Hydrophiinae also includes Australasian terrestrial snakes, 
+> whereas Laticaudinae only includes the sea kraits (Laticauda), 
+> of which three species are found exclusively in freshwater. 
+> 
+> If these three freshwater species are excluded, 
+> there are 69 species of sea snake divided among seven genera.
 >
 > Most sea snakes are venomous, except the genus Emydocephalus, which feeds almost exclusively on fish eggs. Sea snakes are extensively adapted to a fully aquatic life and are unable to move on land, except for the sea kraits, which have limited land movement. They are found in warm coastal waters from the Indian Ocean to the Pacific and are closely related to venomous terrestrial snakes in Australia.
 >

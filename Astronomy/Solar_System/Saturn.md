@@ -212,7 +212,7 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Saturn\"]"
 
 # [[Saturn]]
 
-#is_/same_as :: [[../../WikiData/WD~Saturn,193]]
+#is_/same_as :: [[../../WikiData/WD~Saturn,193]] 
 #is_/different_from :: [[_Standards/WikiData/WD~Saturn,134388]] 
 #is_/different_from :: [[_Standards/WikiData/WD~Saturn,3950829]]  
 
