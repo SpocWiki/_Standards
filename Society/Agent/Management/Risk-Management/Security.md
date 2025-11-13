@@ -31,6 +31,7 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/security
 # [[Security]] 
 
 #is_/similar_to :: [[Safety]] 
+#is_/same_as :: [[../../../../WikiData/WD~Security,2526135|WD~Security,2526135]] 
 
 | Aspect             | [[Safety]]                                        | [[Security]]                                |
 | ------------------ | ------------------------------------------------- | ------------------------------------------- |
@@ -40,8 +41,7 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/security
 | Prevention Methods | Redundancy, regulations, fail-safe designs        | Firewalls, encryption, surveillance         |
 | Measurement        | Accident rates, failure probabilities (%)         | Breach attempts, threat detection rates (%) |
 | Time Horizon       | Long-term, systemic resilience                    | Real-time, adaptive defense                 |
-
-#is_/same_as :: [[../../../../WikiData/WD~Security,2526135|WD~Security,2526135]] 
+|                    |                                                   |                                             |
 
 1. Confidentiality 
 2. Integrity 

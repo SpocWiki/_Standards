@@ -53,7 +53,7 @@ subreddit: satisfyinggrass
 
 ## #has_/text_of_/abstract 
 
-> **Poaceae** ( poh-AY-see-e(y)e), also called Gramineae ( grə-MIN-ee-e(y)e), 
+> **Poaceae** (poh-AY-see-e(y)e), also called Gramineae (grə-MIN-ee-e(y)e), 
 > is a large and nearly ubiquitous family of monocotyledonous flowering plants 
 > commonly known as grasses. 
 > 

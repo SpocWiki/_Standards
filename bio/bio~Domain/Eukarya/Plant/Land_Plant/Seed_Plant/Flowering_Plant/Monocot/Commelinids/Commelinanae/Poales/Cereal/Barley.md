@@ -107,7 +107,7 @@ this_taxon_is_source_of:
 > giving it nonshattering spikelets and making it much easier to harvest. 
 > Its use then spread throughout [[../../../../../../../../../../../../Earth/Continent/Eurasia|Eurasia]] by 2000 BC. 
 > Barley prefers relatively low temperatures and well-drained soil to grow. 
-> It is relatively tolerant of drought and soil salinity, but is less winter-hardy than [[wheat]] or [[rye]].
+> It is relatively tolerant of drought and soil salinity, but is less winter-hardy than [[wheat]] or [[Rye]].
 >
 > In 2023, barley was fourth among grains in quantity produced, 
 > 146 million tonnes, behind [[Maize|maize]], [[rice]], and wheat. 
