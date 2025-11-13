@@ -62,6 +62,8 @@ topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Seas,61791277]]"
 
 # [[Sea]] 
 
+#is_/same_as :: [[../../WikiData/WD~Sea,165|WD~Sea,165]] 
+
 Class of all sea_body_of_waters.
 
 Tag Instances like this: 

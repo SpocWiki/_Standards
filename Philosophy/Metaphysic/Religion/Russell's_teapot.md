@@ -5,7 +5,7 @@ aliases:
 
 # [[Russell's_teapot]] 
 
-#is_/similar_to :: [[../Pastafari]] 
+#is_/similar_to :: [[Pastafari]] 
 
 ## #has_/text_of_/abstract 
 

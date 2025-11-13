@@ -12,7 +12,7 @@
 > Distributed by 20th Century Fox, it was released on 11 July 2003 in the United States, 
 > and 17 October in the United Kingdom. 
 > 
-> It was directed by Stephen Norrington and starred [[Connery,Sean]], Naseeruddin Shah, 
+> It was directed by Stephen Norrington and starred [[../../Actor/British_Actor/Connery,Sean]], Naseeruddin Shah, 
 > Peta Wilson, Tony Curran, Stuart Townsend, Shane West, Jason Flemyng, 
 > and Richard Roxburgh. 
 > It was Connery's final role in a theatrically released live-action film 
