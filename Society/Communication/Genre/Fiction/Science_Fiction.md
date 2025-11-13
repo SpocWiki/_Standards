@@ -44,11 +44,12 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/science_fiction"
 
 # [[Science_Fiction]] 
 
-#is_/same_as :: [[../../../../../../_Standards/WikiData/WD~Science_fiction,24925]] 
+#is_/same_as :: [[../../../../WikiData/WD~Science_fiction,24925|WD~Science_fiction,24925]]  
 
 ## #has_/text_of_/abstract 
 
-> Science fiction (sometimes shortened to sci-fi or abbreviated SF) is a genre of speculative fiction which typically deals with imaginative and futuristic concepts such as advanced science and technology, space exploration, time travel, parallel universes, and extraterrestrial life. It can explore science and technology in different ways, such as human responses to theoretical new advancements, or the consequences thereof. 
+> Science fiction (sometimes shortened to sci-fi or abbreviated SF) 
+> is a genre of speculative fiction which typically deals with imaginative and futuristic concepts such as advanced science and technology, space exploration, time travel, parallel universes, and extraterrestrial life. It can explore science and technology in different ways, such as human responses to theoretical new advancements, or the consequences thereof. 
 >
 > Science fiction is related to fantasy, horror, and superhero fiction and contains many subgenres. Its exact definition has long been disputed among authors, critics, scholars, and readers. Subgenres include hard science fiction, which emphasizes scientific accuracy, and soft science fiction, focusing on social sciences. Other notable subgenres are cyberpunk, which explores the interface between technology and society, and climate fiction, addressing environmental issues.
 >
