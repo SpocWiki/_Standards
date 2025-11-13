@@ -18,7 +18,7 @@ Commons_category: Scenography
 
 # [[Scenography]] 
 
-#is_/same_as :: [[WD~Scenography,737201]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Scenography,737201|WD~Scenography,737201]] 
 
 ## #has_/text_of_/abstract 
 
