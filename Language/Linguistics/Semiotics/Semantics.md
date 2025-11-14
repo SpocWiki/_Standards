@@ -47,9 +47,11 @@ Commons_category: Semantics
 > how to create grammatically correct sentences, 
 > and pragmatics, which investigates how people use language in communication. 
 > 
-> Semantics, together with syntactics and pragmatics, is a part of [[Semiotics]].
+> Semantics, together with [[Syntax]] and pragmatics, is a part of [[Semiotics]].
 >
-> Lexical semantics is the branch of semantics that studies word meaning. It examines whether words have one or several meanings and in what lexical relations they stand to one another. Phrasal semantics studies the meaning of sentences by exploring the phenomenon of compositionality or how new meanings can be created by arranging words. Formal semantics relies on logic and mathematics to provide precise frameworks of the relation between language and meaning. Cognitive semantics examines meaning from a psychological perspective and assumes a close relation between language ability and the conceptual structures used to understand the world. Other branches of semantics include conceptual semantics, computational semantics, and cultural semantics.
+> Lexical semantics is the branch of semantics that studies word meaning. 
+> It examines whether words have one or several meanings 
+> and in what lexical relations they stand to one another. Phrasal semantics studies the meaning of sentences by exploring the phenomenon of compositionality or how new meanings can be created by arranging words. Formal semantics relies on logic and mathematics to provide precise frameworks of the relation between language and meaning. Cognitive semantics examines meaning from a psychological perspective and assumes a close relation between language ability and the conceptual structures used to understand the world. Other branches of semantics include conceptual semantics, computational semantics, and cultural semantics.
 >
 > Theories of meaning are general explanations of the nature of meaning and how expressions are endowed with it. According to referential theories, the meaning of an expression is the part of reality to which it points. Ideational theories identify meaning with mental states like the ideas that an expression evokes in the minds of language users. According to causal theories, meaning is determined by causes and effects, which behaviorist semantics analyzes in terms of stimulus and response. Further theories of meaning include truth-conditional semantics, verificationist theories, the use theory, and inferentialist semantics.
 >
