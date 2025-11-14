@@ -37,7 +37,7 @@ Krugosvet_article: biologiya/semya
 # [[Seed]] 
 
 #is_/similar_to :: [[Egg]]
-#is_/same_as :: [[../../WikiData/WD~Seed,40763|WD~Seed,40763]] 
+#is_/same_as :: [[../../../WikiData/WD~Seed,40763|WD~Seed,40763]]  
 
 ## #has_/text_of_/abstract 
 
