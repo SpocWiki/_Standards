@@ -28,7 +28,7 @@ Commons_category: Semiotics
 
 # [[Semiotics]] 
 
-#is_/same_as :: [[../../WikiData/WD~Semiotics,60195|WD~Semiotics,60195]]
+#is_/same_as :: [[../../WikiData/WD~Semiotics,60195|WD~Semiotics,60195]] 
 
 ## #has_/text_of_/abstract 
 
