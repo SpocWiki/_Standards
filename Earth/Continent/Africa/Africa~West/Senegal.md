@@ -379,13 +379,6 @@ WIPO_ST_3: SN
 
 # [[Senegal]] 
 
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Senegal 
-
-[[Senegal/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: XOF ]
 [	ISO4217-currency_name	 :: CFA Franc BCEAO ]
 [	ISO4217-currency_numeric	 :: 952 ]
@@ -449,10 +442,18 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 686 ]
 
-
-
 [ISO2::SN]
-[ISO3::SEN]
+[ISO3::SEN] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Senegal,1041|WD~Senegal,1041]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Senegal 
+
+[[Senegal/ReadMe]] 
+
+## #has_/map  
+
 ```leaflet
 id: Senegal
 zoomFeatures: true 
