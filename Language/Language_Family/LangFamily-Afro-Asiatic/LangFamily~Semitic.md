@@ -28,6 +28,10 @@ GOST_7_75_97_code: сем 593
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Semitic%20map.svg
 ---
 
+# [[LangFamily~Semitic]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Semitic,34049|WD~Semitic,34049]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Semitic languages** are a branch of the Afroasiatic language family. They include Arabic, 
