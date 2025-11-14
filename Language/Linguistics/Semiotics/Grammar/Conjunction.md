@@ -23,7 +23,7 @@ entry_in_abbreviations_table:
 
 # [[Conjunction]] 
 
-#is_/same_as :: [[../../WikiData/WD~Conjunction,36484|WD~Conjunction,36484]] 
+#is_/same_as :: [[../../../../WikiData/WD~Conjunction,36484|WD~Conjunction,36484]] 
 
 ## #has_/text_of_/abstract 
 
