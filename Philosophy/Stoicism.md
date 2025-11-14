@@ -31,7 +31,7 @@
 > and pleasure, are not good or bad in themselves (adiaphora) 
 > but have value (only) as "material for virtue to act upon". 
 > 
-> Many Stoics—such as [[Seneca]] and [[Epictetus]]—emphasized that 
+> Many Stoics—such as [[Philosopher/Ancient_Philosopher/Seneca]] and [[Epictetus]]—emphasized that 
 > because "virtue is sufficient for happiness", 
 > a sage would be emotionally resilient to misfortune. 
 > 
