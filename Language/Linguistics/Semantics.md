@@ -40,7 +40,14 @@ Commons_category: Semantics
 > and how the meaning of a complex expression depends on its parts. 
 > 
 > Part of this process involves the distinction between sense and reference. 
-> Sense is given by the ideas and concepts associated with an expression while reference is the object to which an expression points. Semantics contrasts with syntax, which studies the rules that dictate how to create grammatically correct sentences, and pragmatics, which investigates how people use language in communication. Semantics, together with syntactics and pragmatics, is a part of semiotics.
+> Sense is given by the ideas and concepts associated with an expression 
+> while reference is the object to which an expression points. 
+> 
+> Semantics contrasts with syntax, which studies the rules that dictate 
+> how to create grammatically correct sentences, 
+> and pragmatics, which investigates how people use language in communication. 
+> 
+> Semantics, together with syntactics and pragmatics, is a part of [[Semiotics]].
 >
 > Lexical semantics is the branch of semantics that studies word meaning. It examines whether words have one or several meanings and in what lexical relations they stand to one another. Phrasal semantics studies the meaning of sentences by exploring the phenomenon of compositionality or how new meanings can be created by arranging words. Formal semantics relies on logic and mathematics to provide precise frameworks of the relation between language and meaning. Cognitive semantics examines meaning from a psychological perspective and assumes a close relation between language ability and the conceptual structures used to understand the world. Other branches of semantics include conceptual semantics, computational semantics, and cultural semantics.
 >
