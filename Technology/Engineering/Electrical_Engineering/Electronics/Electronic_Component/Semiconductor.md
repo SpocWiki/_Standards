@@ -26,6 +26,10 @@ subclass_of:
 UMLS_CUI: C0036623
 ---
 
+# [[Semiconductor]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Semiconductor,11456|WD~Semiconductor,11456]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Semiconductor** is a material that is between the conductor and insulator in ability to conduct electrical current. In many cases their conducting properties may be altered in useful ways by introducing impurities ("doping") into the crystal structure. When two differently doped regions exist in the same crystal, a semiconductor junction is created. The behavior of charge carriers, which include electrons, ions, and electron holes, at these junctions is the basis of diodes, transistors, and most modern electronics. Some examples of semiconductors are silicon, germanium, gallium arsenide, and elements near the so-called "metalloid staircase" on the periodic table. After silicon, gallium arsenide is the second-most common semiconductor and is used in laser diodes, solar cells, microwave-frequency integrated circuits, and others. Silicon is a critical element for fabricating most electronic circuits.
