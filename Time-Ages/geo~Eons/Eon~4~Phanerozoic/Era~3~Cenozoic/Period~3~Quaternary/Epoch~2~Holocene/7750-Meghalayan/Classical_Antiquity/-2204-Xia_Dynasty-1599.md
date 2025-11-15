@@ -1,6 +1,8 @@
 ---
 aliases:
   - Xia dynasty
+  - 夏朝
+  - Xià cháo
 has_id_wikidata: Q169705
 inception: -2204-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: -1599-01-01T00:00:00Z
@@ -28,10 +30,10 @@ native_label: 夏朝
 ---
 
 
-# [[Xia_dynasty]]
+# [[-2204-Xia_Dynasty-1599]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Xia_dynasty,169705|WD~Xia_dynasty,169705]]
-
+#has_/next_/state :: [[-1600-Shang_Dynasty-1045|-1600-Shang_Dynasty-1045]] 
 
 ## #has_/text_of_/abstract 
 
