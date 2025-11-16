@@ -52,6 +52,16 @@ time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 
 #is_/same_as :: [[../../WikiData/WD~Sextans,10525|WD~Sextans,10525]] 
 
+## #has_/text_of_/abstract 
+
+> **Sextans** is a faint, minor constellation on the celestial equator 
+> which was introduced in 1687 by Polish astronomer Johannes Hevelius. 
+> 
+> Its name is Latin for the astronomical sextant, 
+> an instrument that Hevelius made frequent use of in his observations.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Sextans) 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Sextans](/_Standards/Astronomy/Star~Constellation/Zodiac~Sextans.md) 

@@ -60,7 +60,7 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/27389
 > 
 > He made important improvements in the design of the sewing machine 
 > and was the founder of what became one of the first American multi-national businesses, 
-> the [[Singer,Isaac/Singer_Sewing_Machine_Company|Singer_Sewing_Machine_Company]].
+> the [[../../Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company|Singer_Sewing_Machine_Company]].
 >
 > Many others, including Walter Hunt and Elias Howe, 
 > had patented sewing machines before Singer, 

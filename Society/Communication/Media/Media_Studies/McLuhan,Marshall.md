@@ -86,6 +86,8 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/MAK-LYUEN_MARSHALL.ht
 # [[McLuhan,Marshall]] 
 
 #is_/same_as :: [[WD~Marshall_McLuhan,193871]] 
+#has_/created_/quote :: The Media is the Message 
+#has_/created_/quote :: Global Village 
 
 ## #has_/text_of_/abstract 
 
@@ -113,4 +115,4 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/MAK-LYUEN_MARSHALL.ht
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marshall%20McLuhan) 
 
-
+McLuhan appeared as an expert in the [[../../../../WikiData/WD~Woody_Allen,25089|WD~Woody_Allen,25089]] movie [[Annie_Hall]]. 

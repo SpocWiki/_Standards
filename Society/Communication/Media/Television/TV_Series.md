@@ -8,7 +8,9 @@ aliases:
   - TV Series
   - TV Serie
   - Fernsehserie
+  - television series
   - 
+has_id_wikidata: Q5398426
 confidential: public
 cssclasses:
   - Type
@@ -28,7 +30,6 @@ tags:
   - schema-org/Class
 title: is_a_tv_series Class
 type: Type
-has_id_wikidata: Q5398426
 different_from:
   - "[[_Standards/WikiData/WD~miniseries,1259759]]"
   - "[[_Standards/WikiData/WD~serial_drama,7724161]]"
