@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Philosophie
+  - philosophisch
+  - philosophical
+  - Philosophies
+has_id_wikidata: Q5891
 All_Science_Journal_Classification_Codes: 1211
 Baidu_Tieba_name: 哲学
 Basisklassifikation: 8
@@ -20,7 +26,6 @@ GitHub_topic: philosophy
 hashtag: philosophy
 has_characteristic: "[[_Standards/WikiData/WD~interdisciplinarity,849359]]"
 has_effect: "[[_Standards/WikiData/WD~philosophical_viewpoint,30046560]]"
-has_id_wikidata: Q5891
 has_list:
   - "[[_Standards/WikiData/WD~list_of_schools_of_philosophy,1031854]]"
   - "[[_Standards/WikiData/WD~list_of_philosophies,1743282]]"
@@ -94,10 +99,6 @@ uses:
   - "[[_Standards/WikiData/WD~philosophical_method,7186193]]"
 U_S_National_Archives_Identifier: 10642509
 WordLift_URL: http://data.thenextweb.com/tnw/entity/philosophy
-aliases:
-  - Philosophie
-  - philosophisch
-  - philosophical
 ---
 
 # [[Philosophy]] 
