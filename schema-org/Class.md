@@ -64,7 +64,7 @@ Higher levels can talk about all lower levels, but no level can fully quantify o
 
 | Property                             | Set                                 | Class                                  |
 | ------------------------------------ | ----------------------------------- | -------------------------------------- |
-| **Definition**                       | Collection that is itself an object | Collection defined by a property       |
+| **Definition**                       | Collection that is itself an object | Collection defined by properties       |
 | **Size limitation**                  | 'small' to avoid paradoxes          | arbitrarily large                      |
 | **Membership in another collection** | Can be an element of another set    | A class cannot be an element of itself |
 | **Formal theory**                    | ZFC                                 | NBG, MK (Morse–Kelley)                 |

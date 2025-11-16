@@ -25,12 +25,16 @@ title: is_a_series Class
 type: Type
 ---
 
+# [[Series]] 
+
 Class of all seriess.
 
 Tag Instances like this: 
 #is_a_/series
 
-A Series in schema.org is a group of related items, typically but not necessarily of the same kind. See also [[CreativeWorkSeries]], [[EventSeries]].
+A Series in schema.org is a group of related items, 
+typically but not necessarily of the same kind. 
+See also [[CreativeWorkSeries]], [[EventSeries]].
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 

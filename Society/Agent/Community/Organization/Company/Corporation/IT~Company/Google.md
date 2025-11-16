@@ -606,7 +606,9 @@ aliases:
 # [[Google]] 
 
 #is_/different_from :: [[../../../../../../../Mathematics/Number/Constant/Googol|Googol]]  
-#is_/same_as ::[[../../../../../../../../WikiData/WD~Google,95]]]
+#is_/same_as ::[[../../../../../../../../WikiData/WD~Google,95]]] 
+#has_/creator :: [[../../../../../../../Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey|Brin,Sergey]] 
+#has_/creator :: [[../../../../../../../Technology/IT/Computer_Science/Computer_Scientist/Page,Larry|Page,Larry]]  
 
 ## #has_/text_of_/abstract 
 

@@ -1,4 +1,16 @@
 ---
+aliases:
+  - Seychelles
+  - سيشيل
+  - 塞舌尔
+  - Сейшельские Острова
+  - the Republic of Seychelles
+  - la República de Seychelles
+has_id_wikidata: Q1042
+coordinate_location: Point(52.766667 -7.1)
+location:
+  - -4.61667
+  - 55.45
 Libris_URI: mkz118l5247m2dd
 Commons_gallery: Sesel / Seychelles
 GitHub_topic: seychelles
@@ -187,7 +199,6 @@ Commons_category: Seychelles
 subreddit: Seychelles
 hashtag: Seychelles
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Seychelles.svg
-coordinate_location: Point(52.766667 -7.1)
 nominal_GDP:
   - 1286687873
   - 1588406479
@@ -263,10 +274,6 @@ female_population:
   - 46958
   - 56766
 FIPS_10_4_countries_and_regions_: SE
-has_id_wikidata: Q1042
-location:
-  - -4.61667
-  - 55.45
 type: Country
 tags:
   - geo/Country
@@ -286,25 +293,12 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Seychelles
-  - سيشيل
-  - 塞舌尔
-  - Сейшельские Острова
-  - the Republic of Seychelles
-  - la República de Seychelles
 Languages:
   - en-SC
   - fr-SC
 ---
 
 # [[Seychelles]] 
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Reunion 
-
-[[Mascarene-Islands/Reunion/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: SCR ]
 [	ISO4217-currency_name	 :: Seychelles Rupee ]
@@ -369,10 +363,17 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 690 ]
 
-
-
 [ISO2::SC] 
 [ISO3::SYC] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Seychelles,1042|WD~Seychelles,1042]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Reunion 
+
+[[Mascarene-Islands/Reunion/ReadMe]] 
+
+## #has_/map 
 
 ```leaflet
 id: Seychelles
@@ -381,6 +382,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Seychelles//
 markerFolder: ./Seychelles//
+coordinates: [[Seychelles]] 
+markerFile: [[Seychelles]] 
+defaultZoom: 9 
 ```
 
 [name-en::Seychelles]
