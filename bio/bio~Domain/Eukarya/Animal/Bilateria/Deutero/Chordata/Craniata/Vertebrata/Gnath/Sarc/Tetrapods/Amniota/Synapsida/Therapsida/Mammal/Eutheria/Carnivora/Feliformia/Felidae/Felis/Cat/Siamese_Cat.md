@@ -4,9 +4,35 @@ aliases:
   - Siamkatze
   - 
 has_id_wikidata: Q42604
+country_of_origin:
+  - "[[_Standards/WikiData/WD~Siam,1081620]]"
+  - "[[_Standards/WikiData/WD~Thailand,869]]"
+produced_sound: "[[_Standards/WikiData/WD~meow,3307942]]"
+eye_color: "[[_Standards/WikiData/WD~blue_eyed_cat,133816602]]"
+height:
+  - 10
+  - 8
+mass: 5
+price:
+  - 600
+  - 1200
+life_expectancy: 15
+follows: "[[_Standards/WikiData/WD~Thai,42732]]"
+instance_of: "[[_Standards/WikiData/WD~cat_breed,43577]]"
+social_media_followers: 53706
+Commons_category: Siamese cats
+video:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cat%20eating%20peas.ogv
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Kattenshow-507952.ogv
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Meow%20of%20a%20Siamese%20cat%20-%20freemaster2.wav
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Siamese%20cat%20Vaillante.JPG
+hashtag: siamese
+subreddit: Siamesecats
+Baidu_Tieba_name: 暹罗猫
+nickname: Meezer
 ---
 
-# [[Siamese]] 
+# [[Siamese_Cat]] 
 
 #is_/same_as :: [[WD~Siamese,42604]] 
 
