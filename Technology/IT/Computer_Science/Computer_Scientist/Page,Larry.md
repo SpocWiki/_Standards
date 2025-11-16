@@ -61,6 +61,7 @@ Instagram_username: larry_page
 
 # [[Page,Larry]] 
 
+#has_/created :: [[../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google|Google]]  
 #is_/same_as :: [[WD~Larry_Page,4934]] 
 
 ## #has_/text_of_/abstract 

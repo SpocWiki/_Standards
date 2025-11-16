@@ -44,7 +44,7 @@ Krugosvet_article: voennoe-delo/strelba-iz-luka
 
 # [[Archery]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Archery,108429|WD~Archery,108429]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Archery,108429|WD~Archery,108429]] 
 
 ## #has_/text_of_/abstract 
 
