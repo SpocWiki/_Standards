@@ -317,14 +317,6 @@ Languages:
 
 # [[Sierra_Leone]] 
 
-
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Sierra_Leone 
-
-[[Sierra_Leone/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: SLL ]
 [	ISO4217-currency_name	 :: Leone ]
 [	ISO4217-currency_numeric	 :: 694 ]
@@ -388,10 +380,18 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 694 ]
 
-
-
 [ISO2::SL]
 [ISO3::SLE]
+
+#is_/same_as :: [[../../../../WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Sierra_Leone 
+
+[[Sierra_Leone/ReadMe]] 
+
+## #has_/map 
+
 ```leaflet
 id: Sierra Leone
 zoomFeatures: true 
@@ -399,6 +399,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Sierra_Leone//
 markerFolder: ./Sierra_Leone//
+coordinates: [[Sierra_Leone]] 
+markerFile: [[Sierra_Leone]] 
+defaultZoom: 11 
 ```
 
 [name-en::Sierra Leone]
