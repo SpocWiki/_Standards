@@ -6,7 +6,7 @@ aliases:
   - ExxonMobil
 ---
 
-# [[ExxonMobil]] 
+# [[Exxon_Mobil]] 
 
 #has_/previous_/item :: [[Standard_Oil]] 
 #is_/same_as :: [[../../../WikiData/WD~ExxonMobil,156238|WD~ExxonMobil,156238]] 

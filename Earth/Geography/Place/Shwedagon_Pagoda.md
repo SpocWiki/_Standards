@@ -2,8 +2,12 @@
 aliases:
   - Shwedagon Pagoda
   - ရွှေတိဂုံဘုရား
+  - ကျာ်ဒဂုၚ်
   - Shwedagon Zedi Daw
   - ရွှေတိဂုံစေတီတော်
+  - Golden Dagon Pagoda
+  - Great Dagon Pagoda 
+  - Golden Pagoda
 has_id_wikidata: Q464535
 architect: "[[_Standards/WikiData/WD~Hsinbyushin,1395046]]"
 heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]"
@@ -37,7 +41,10 @@ By <a href="//commons.wikimedia.org/wiki/User:Hintha" title="User:Hintha">Hintha
 
 > The **Shwedagon Pagoda** (Burmese: ရွှေတိဂုံဘုရား; MLCTS: shwe ti. gon bhu. ra:, IPA: [ʃwèdəɡòʊɰ̃ pʰəjá]; Mon: ကျာ်ဒဂုၚ်), officially named Shwedagon Zedi Daw (Burmese: ရွှေတိဂုံစေတီတော်, [ʃwèdəɡòʊɰ̃ zèdìdɔ̀], lit. 'Golden Dagon Pagoda'), and also known as the Great Dagon Pagoda and the Golden Pagoda, is a gilded stupa located in Yangon, Myanmar.
 >
-> The Shwedagon is the most sacred Buddhist pagoda in Myanmar, as it is believed to contain relics of the four previous Buddhas of the present kalpa. These relics include the staff of Kakusandha, the water filter of Koṇāgamana, a piece of the robe of Kassapa, and eight strands of hair from the head of Gautama.
+> The Shwedagon is the most sacred Buddhist pagoda in Myanmar, 
+> as it is believed to contain relics of the four previous Buddhas of the present kalpa. 
+> These relics include the staff of Kakusandha, the water filter of Koṇāgamana, 
+> a piece of the robe of Kassapa, and eight strands of hair from the head of Gautama.
 >
 > Built on the 51-metre-high (167 ft) Singuttara Hill, the 112 m (367 ft) tall pagoda stood 170 m (560 ft) above sea level, and dominates the Yangon skyline. Yangon's zoning regulations, which cap the maximum height of buildings to 127 metres (417 feet) above sea level (75% of the pagoda's sea level height), ensure the Shwedagon's prominence in the city's skyline.
 >

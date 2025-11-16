@@ -8,9 +8,17 @@
 #is_a_/ComputerLanguage 
 #is_a_/computer_language  
 
-Software developer Graydon Hoare created Rust as a personal project while working at [Mozilla](https://en.wikipedia.org/wiki/Mozilla "Mozilla") Research in 2006. Mozilla officially sponsored the project in 2009.
+Software developer Graydon Hoare created Rust as a personal project 
+while working at [Mozilla](https://en.wikipedia.org/wiki/Mozilla "Mozilla") Research in 2006. Mozilla officially sponsored the project in 2009.
+
+Performance and Safety are impressive: 
+Discord had 2 Minutes Garbage Collection Pauses with Java. 
+The Rewrite of Discord in Rust had no GC and was 10 times faster. 
+But learning Rust Ownership and other Concepts takes 3 to 6 Months to learn. 
+
 2015 V1.0 was released. 
-In December 2022, it became the first language other than [C](https://en.wikipedia.org/wiki/C_(programming_language) "C (programming language)") and [assembly](https://en.wikipedia.org/wiki/Assembly_language "Assembly language") to be supported in the development of the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel "Linux kernel").
+In December 2022, it became the first language other than [C](https://en.wikipedia.org/wiki/C_(programming_language) "C (programming language)") and [assembly](https://en.wikipedia.org/wiki/Assembly_language "Assembly language") 
+to be supported in the development of the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel "Linux kernel").
 Until V 1.0 there were many changes, mostly removing Features, e.g. GC. 
 2021-02-08, the [Rust Foundation](https://en.wikipedia.org/wiki/Rust_(programming_language)#Rust_Foundation) was formed by [AWS](https://en.wikipedia.org/wiki/Amazon_Web_Services "Amazon Web Services"), [Huawei](https://en.wikipedia.org/wiki/Huawei "Huawei"), [Google](https://en.wikipedia.org/wiki/Google "Google"), [Microsoft](https://en.wikipedia.org/wiki/Microsoft "Microsoft"), and [Mozilla](https://en.wikipedia.org/wiki/Mozilla "Mozilla") 
 
@@ -20,8 +28,8 @@ It runs safely on WebAssembly or on any CPU or VM.
 
 There is no Rust 2.0 planned, so no breaking Exceptions. 
 
-Rust has surpassed Swift, Scala and Kotlin on [[../../../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Github]] 
-and was voted most favorite Language since 2017-12-01 on [[../../../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow/StackOverflow~Question]] . 
+Rust has surpassed Swift, Scala and Kotlin on [[../../../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Github|Github]] 
+and was voted most favorite Language since 2017-12-01 on [[../../../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow/StackOverflow~Question|StackOverflow~Question]] . 
 
 ## Abstract 
 

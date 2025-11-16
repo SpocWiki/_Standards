@@ -6,7 +6,7 @@ has_id_wikidata: Q375791
 
 # [[Standard_Oil]] 
 
-#has_/next_/item :: [[ExxonMobil]] 
+#has_/next_/item :: [[Big_Oil/Exxon_Mobil]] 
 #is_/same_as :: [[WD~Standard_Oil,375791]]
 
 ## #has_/text_of_/abstract 
@@ -39,7 +39,7 @@ has_id_wikidata: Q375791
 > After the dissolution, 
 > Jersey Standard became the United States' second largest corporation after United States Steel.
 >
-> The Standard Oil Company (New Jersey), which was renamed Exxon in 1973 and [[ExxonMobil]] in 1999, 
+> The Standard Oil Company (New Jersey), which was renamed Exxon in 1973 and [[Big_Oil/Exxon_Mobil]] in 1999, 
 > remains one of the largest public oil companies in the world. 
 > 
 > Many of the companies disassociated from Jersey Standard in 1911 

@@ -5,15 +5,79 @@ aliases:
   - Sheep
 title: Ovis aries
 has_id_wikidata: Q7368
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~ruminant,842175]]"
+  - "[[_Standards/WikiData/WD~productive_animal,1797813]]"
+  - "[[_Standards/WikiData/WD~domesticated_mammal,57814795]]"
+  - "[[_Standards/WikiData/WD~herbivore,59099]]"
+habitat: "[[_Standards/WikiData/WD~pen,858177]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_sheep,5868809]]"
+has_characteristic: "[[_Standards/WikiData/WD~sheep_breed,15622363]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q21286850,21286850]]"
+different_from:
+  - "[[_Standards/WikiData/WD~domesticated_sheep,22073013]]"
+  - "[[_Standards/WikiData/WD~Ovis_aries,29350771]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~domesticated_sheep,22073013]]"
+  - "[[_Standards/WikiData/WD~Ovis,22724]]"
+taxon_known_by_this_common_name: "[[_Standards/WikiData/WD~Ovis_aries,29350771]]"
+instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
+produced_sound: "[[_Standards/WikiData/WD~bleat,59939570]]"
+this_taxon_is_source_of:
+  - "[[_Standards/WikiData/WD~Q118869033,118869033]]"
+  - "[[_Standards/WikiData/WD~wool,42329]]"
+has_use:
+  - "[[_Standards/WikiData/WD~milk,8495]]"
+  - "[[_Standards/WikiData/WD~meat,10990]]"
+  - "[[_Standards/WikiData/WD~wool,42329]]"
+longest_observed_lifespan: 22.8
+OmegaWiki_Defined_Meaning: "5819"
+ITIS_TSN: "552475"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Yorkshire%20dales%20sheep.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ber%C3%A5%20Tirehaline%20x%20Timhadite.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Flock%20of%20sheep.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sheep%20skeleton%20at%20MAV-USP.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sheep%20grazing%20on%20grass.jpg
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-ardi.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Ramjit%20Tudu-%E1%B1%B5%E1%B1%B7%E1%B1%A4%E1%B1%B0%E1%B1%A4.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5218%20%28que%29-Eavq-Uwiha.wav
+name:
+  - ਭੇਡ
+  - بھیڈ
+Iconclass_notation: 47I213
+Commons_category: Sheep
+UNSPSC_Code: "10101507"
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Sheep%20bleating.ogg
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20Sheep%20smooth%20edit.stl
+model_image: http://commons.wikimedia.org/wiki/Special:FilePath/Didactic%20model%20of%20a%20sheep%20muscular%20system%2001-FMVZ%20USP-28.jpeg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/DreibornerHochfl%C3%A4cheSchafherde.webm
+Unicode_character:
+  - 🐏
+  - 🐑
+MeSH_tree_code: B01.050.150.900.649.313.500.380.791
+Colon_Classification: KX783
+Krugosvet_article_archived_: nauka_i_tehnika/biologiya/OVTSA.html
 ---
 
 # [[Sheep]] 
 
 ![ ](Sheep/Sheep.jpg)
 
-Containing group: *[Ovis](../Ovis.md)*
-
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Sheep,7368|WD~Sheep,7368]] 
+
 ## #has_/text_of_/abstract 
 
 > **Sheep** (pl.: sheep) or domestic sheep  (Ovis aries) are a domesticated, ruminant mammal typically kept as livestock. Although the term sheep can apply to other species in the genus Ovis, in everyday usage it almost always refers to domesticated sheep. Like all ruminants, sheep are members of the order Artiodactyla, the even-toed ungulates. Numbering a little over one billion, domestic sheep are also the most numerous species of sheep. An adult female is referred to as a ewe ( yoo), an intact male as a ram, occasionally a tup, a castrated male as a wether, and a young sheep as a lamb.
@@ -57,6 +121,8 @@ Containing group: *[Ovis](../Ovis.md)*
     -   Ovis aries
 
 -   » Sub-Groups 
+- 
+Containing group: *[Ovis](../Ovis.md)*
 
 ### References
 

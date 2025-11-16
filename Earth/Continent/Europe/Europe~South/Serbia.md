@@ -443,12 +443,6 @@ Commons_gallery: Србија
 
 # [[Serbia]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Serbia 
-
-[[Serbia/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: RSD ]
 [	ISO4217-currency_name	 :: Serbian Dinar ]
 [	ISO4217-currency_numeric	 :: 941 ]
@@ -512,22 +506,28 @@ Sub-region_Name ::  [[Southern Europe]]
 
 [	ISO3166-1-numeric	 :: 688 ]
 
-
-
 [ISO2::RS]
 [ISO3::SRB] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Serbia,403|WD~Serbia,403]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Serbia 
+
+[[Serbia/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Serbia excluding Kosovo
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Serbia//
 markerFolder: ./Serbia//
+coordinates: [[Serbia]] 
+markerFile: [[Serbia]] 
+defaultZoom: 6 
 ```
 
 [name-en::Serbia]  
