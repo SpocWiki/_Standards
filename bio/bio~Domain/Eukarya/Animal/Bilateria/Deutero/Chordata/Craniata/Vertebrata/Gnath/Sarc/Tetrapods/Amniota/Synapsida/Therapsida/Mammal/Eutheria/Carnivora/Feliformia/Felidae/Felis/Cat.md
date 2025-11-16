@@ -130,6 +130,7 @@ Wolfram_Language_entity_code: Entity["Concept", "DomesticCat::jpx55"]
 # [[Cat]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~House_cat,146|WD~House_cat,146]]   
+#is_/same_as :: [[_Standards/WikiData/WD~Felis_catus,20980826]] 
 
 ## #has_/text_of_/abstract 
 

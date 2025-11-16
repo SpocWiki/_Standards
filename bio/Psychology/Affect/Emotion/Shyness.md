@@ -24,7 +24,7 @@ MeSH_tree_code: F01.145.813.617
 
 # [[Shyness]] 
 
-#is_/same_as :: [[WD~Shyness,913668]] 
+#is_/same_as :: [[../../../../WikiData/WD~Shyness,913668|WD~Shyness,913668]]    
 
 ## #has_/text_of_/abstract 
 
