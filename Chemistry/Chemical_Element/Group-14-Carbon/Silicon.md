@@ -83,13 +83,11 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Silicon\"]"
 ZVG_number: 8110
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Silicon,670]] 
-
+# [[Silicon]] 
 
 #chemic/Element 
 [GroupName::Group-14-Carbon]
-[Group:[[../Group-14-Carbon]]
-
+Group :: [[../Group-14-Carbon]]
 
 [Name-en::Silicon]
 [Name-de::Silicium]
@@ -108,9 +106,11 @@ ZVG_number: 8110
 [FormEnergy-kj-mol::384.22]
 (PeriodNo::3)
 
+#is_/same_as :: [[../../../WikiData/WD~Silicon,670]] 
+#is_/different_from :: [[../../Organic_Chemistry/Polymer/Silicone|Silicone]] 
+
 
 ## #has_/text_of_/abstract 
-
 
 > **Silicon** is a chemical element with the symbol (Abbr::Si) and atomic number (Charge-e::14). 
 > It is a hard, brittle crystalline solid with a blue-grey metallic luster, 

@@ -3,6 +3,7 @@ aliases:
   - Felis
   - Felis catus
   - domestic cat
+has_id_wikidata: Q20980826
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Meow.ogg
 Baidu_Tieba_name:
   - 猫咪
@@ -11,18 +12,7 @@ bite_force_quotient: 58
 Colon_Classification: KX542
 Commons_category: Felis silvestris catus
 Commons_gallery: Felis silvestris catus
-described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Anthology_of_Petty_Matters_in_Qing,15934424]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+described_by_source: "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
 Dewey_Decimal_Classification:
   - 599.752
   - 636.8
@@ -44,19 +34,20 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~cat_righting_reflex,3454738]]"
   - "[[_Standards/WikiData/WD~caress,14404836]]"
 has_effect: "[[_Standards/WikiData/WD~allergy_to_cats,1736897]]"
-has_id_wikidata: Q146
 has_use:
   - "[[_Standards/WikiData/WD~mouser,104551794]]"
   - "[[_Standards/WikiData/WD~pet,39201]]"
-heart_rate:
-  - 130
-  - 125
+heart_rate: 125
 IAB_code: 424
 Iconclass_notation: 34B12
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Abessinierkatze%20Tilia%2004.jpg
-instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Cat%20November%202010-1a.jpg
+instance_of:
+  - "[[_Standards/WikiData/WD~invasive_species,183368]]"
+  - "[[_Standards/WikiData/WD~model_organism,213907]]"
+  - "[[_Standards/WikiData/WD~species_aggregate,1297859]]"
+  - "[[_Standards/WikiData/WD~taxon,16521]]"
 Krugosvet_article: biologiya/koshka-domashnyaya
-life_expectancy: 15
+life_expectancy: 22
 male_form_of_label:
   - maček
   - Kater
@@ -125,11 +116,41 @@ video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hiirepyyk%20kass%20koer%202022.webm
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Felis%20catus-cat%20on%20snow.jpg
 Wolfram_Language_entity_code: Entity["Concept", "DomesticCat::jpx55"]
+taxon_range: "[[_Standards/WikiData/WD~Santarém,659450]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+protonym_of: "[[_Standards/WikiData/WD~Felis_silvestris_catus,57818409]]"
+taxon_synonym: "[[_Standards/WikiData/WD~Felis_silvestris_catus,57818409]]"
+diel_cycle: "[[_Standards/WikiData/WD~nocturnal,101029366]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~cat_dander,104413227]]"
+invasive_to:
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Australian_continent,3960]]"
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+ITIS_TSN: "183798"
+taxon_common_name:
+  - ucing
+  - Cat
+  - 貓
+  - kissa
+  - huskatt
+  - Pisică sălbatică
+  - domača mačka
+  - ꠝꠦꠇꠥꠞ
+  - السِّنَّور البرّي
+  - الضَيْوَن
+  - القط البرِّي
+taxon_author_citation: Linnaeus, 1758
+taxon_name: Felis catus
+EPPO_Code: FELIDO
+NBN_System_Key: NHMSYS0000080189
+UNII: P0Z08E99JB
+short_name: F. catus
 ---
 
 # [[Cat]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~House_cat,146|WD~House_cat,146]]   
+#is_/same_as :: [[_Standards/WikiData/WD~Felis_catus,20980826]] 
 
 ## #has_/text_of_/abstract 
 

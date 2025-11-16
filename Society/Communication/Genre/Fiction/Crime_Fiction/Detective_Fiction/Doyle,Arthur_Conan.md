@@ -4,6 +4,7 @@ aliases:
   - Sir Arthur Ignatius Conan Doyle
   - Arthur Conan Doyle
   - Arthur Ignatius Conan Doyle
+  - Doyle
 genre:
   - "[[_Standards/WikiData/WD~historical_prose_literature,136472]]"
   - "[[_Standards/WikiData/WD~crime_fiction,5937792]]"
@@ -155,7 +156,9 @@ ISNI: "0000000122810491"
 > the first of four novels and fifty-six short stories about Holmes and Dr. Watson. 
 > The Sherlock Holmes stories are milestones in the field of crime fiction.
 >
-> Doyle was a prolific writer. In addition to the Holmes stories, his works include fantasy and science fiction stories about Professor Challenger, and humorous stories about the Napoleonic soldier Brigadier Gerard, as well as plays, romances, poetry, non-fiction, and historical novels. One of Doyle's early short stories, "J. Habakuk Jephson's Statement" (1884), helped to popularise the mystery of the brigantine Mary Celeste, found drifting at sea with no crew member aboard.
+> Doyle was a prolific writer. 
+> In addition to the Holmes stories, his works include fantasy and science fiction stories 
+> about Professor Challenger, and humorous stories about the Napoleonic soldier Brigadier Gerard, as well as plays, romances, poetry, non-fiction, and historical novels. One of Doyle's early short stories, "J. Habakuk Jephson's Statement" (1884), helped to popularise the mystery of the brigantine Mary Celeste, found drifting at sea with no crew member aboard.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arthur%20Conan%20Doyle) 
 

@@ -1,55 +1,55 @@
 ---
 aliases:
-- Selachii
-- Sharks
-- Shark
-- Hai
-- Haie
+  - Selachii
+  - Sharks
+  - Shark
+  - Hai
+  - Haie
+has_id_wikidata: Q7372
 Commons_category: Selachimorpha
 Commons_gallery: Shark
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 earliest_date: -450000000-01-01
-has_id_wikidata: Q7372
-has_list: '[[_Standards/WikiData/WD~list_of_sharks,1110167]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20white%20shark%20south%20africa.jpg"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+has_list: "[[_Standards/WikiData/WD~list_of_sharks,1110167]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20white%20shark%20south%20africa.jpg
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 159787
 Krugosvet_article: nauka_i_tehnika/biologiya/AKULI.html
 MCN_code: 0302.81.00
 MeSH_tree_code: B01.050.150.900.493.370.853
 montage_image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Sharks-coll-001.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/TDpGUipa.jpg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sharks-coll-001.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/TDpGUipa.jpg
 NBN_System_Key: NBNSYS0000186986
 OmegaWiki_Defined_Meaning: 481253
 start_time: -425000000-01-01
-subclass_of: '[[_Standards/WikiData/WD~fish_as_food,600396]]'
+subclass_of: "[[_Standards/WikiData/WD~fish_as_food,600396]]"
 subreddit: sharks
 taxon_name: Selachimorpha
-taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Selachii,16600393]]'
+taxon_rank: "[[_Standards/WikiData/WD~superorder,5868144]]"
+taxon_synonym: "[[_Standards/WikiData/WD~Selachii,16600393]]"
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~shark_liver_oil,4380845]]'
-- '[[_Standards/WikiData/WD~sharkskin,29346415]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Selachimorpha,11157877]]'
+  - "[[_Standards/WikiData/WD~shark_liver_oil,4380845]]"
+  - "[[_Standards/WikiData/WD~sharkskin,29346415]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Selachimorpha,11157877]]"
 UMLS_CUI:
-- C0036941
-- C3315081
-Unicode_character: "\U0001F988"
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sharks,7112728]]'
+  - C0036941
+  - C3315081
+Unicode_character: 🦈
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_sharks,7112728]]"
 ---
 
 # [[Shark]] 
  
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Shark,7372|WD~Shark,7372]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Shark,7372|WD~Shark,7372]]  
 
 ## #has_/text_of_/abstract 
 

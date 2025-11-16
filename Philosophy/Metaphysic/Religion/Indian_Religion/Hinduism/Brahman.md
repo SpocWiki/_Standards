@@ -22,9 +22,18 @@ Library_of_Congress_Classification: BL1213.56
 > 
 > In the Vedic Upanishads, Brahman constitutes the fundamental reality 
 > that transcends the duality of existence and non-existence. 
-> It serves as the absolute ground from which time, space, and natural law emerge. It represents an unchanging, eternal principle that exists beyond all boundaries and constraints. Because it transcends all limitation, Brahman ultimately defies complete description or categorization through language.
+> It serves as the absolute ground from which time, space, and natural law emerge. 
+> It represents an unchanging, eternal principle 
+> that exists beyond all boundaries and constraints. 
+> 
+> Because it transcends all limitation, 
+> Brahman ultimately defies complete description or categorization through language.
 >
-> In major schools of Hindu philosophy, it is the non-physical, efficient, formal and final cause of all that exists. It is the pervasive, infinite, eternal truth, consciousness and bliss which does not change, yet is the cause of all changes. Brahman as a metaphysical concept refers to the single binding unity behind diversity in all that exists.
+> In major schools of Hindu philosophy, 
+> it is the non-physical, efficient, formal and final cause of all that exists. 
+> It is the pervasive, infinite, eternal truth, consciousness and bliss which does not change, 
+> yet is the cause of all changes. 
+> Brahman as a metaphysical concept refers to the single binding unity behind diversity in all that exists.
 >
 > Brahman is a Vedic Sanskrit word, and it is conceptualized in Hinduism, states Paul Deussen, as the "creative principle which lies realized in the whole world". Brahman is a key concept found in the Vedas, and it is extensively discussed in the early Upanishads. The Vedas conceptualize Brahman as the Cosmic Principle. In the Upanishads, it has been variously described as Sat-cit-ānanda (truth-consciousness-bliss) and as the unchanging, permanent, Highest Reality.
 >

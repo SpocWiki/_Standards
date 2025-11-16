@@ -569,7 +569,7 @@ Population in 1000s as of @2024
 > 
 > Switzerland is the birthplace of the [[Red_Cross]] 
 > and hosts the headquarters or offices of most major international institutions, 
-> including the [[WTO]], the [[WHO]], the [[ILO]], [[FIFA]], and the [[../../../_Standards/UN(United_Nations)]]. 
+> including the [[WTO]], the [[WHO]], the [[ILO]], [[../../../../Society/Agent/Community/Organization/Sports_Organization/FIFA]], and the [[../../../_Standards/UN(United_Nations)]]. 
 > 
 > It is a founding member of the [[EFTA(European_Free_Trade_Association)]], 
 > but not part of the [[../EU(European_Union)]], the European Economic Area, or the eurozone; 

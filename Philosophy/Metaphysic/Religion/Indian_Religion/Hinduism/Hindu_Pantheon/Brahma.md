@@ -40,7 +40,7 @@ native_label: 𑖤𑖿𑖨𑖮𑖿𑖦𑖯
 
 # [[Brahma]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Brahma,11389|WD~Brahma,11389]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Brahma,11389|WD~Brahma,11389]] 
 
 ## #has_/text_of_/abstract 
 
