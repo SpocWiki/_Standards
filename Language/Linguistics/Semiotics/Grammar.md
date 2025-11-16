@@ -37,7 +37,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Q10562397,10562397]]'
 
 # [[Grammar]] 
 
-#is_/same_as :: [[../WikiData/WD~Grammar,8091|WD~Grammar,8091]] 
+#is_/same_as :: [[../../../WikiData/WD~Grammar,8091|WD~Grammar,8091]] 
 
 ## #has_/text_of_/abstract 
 

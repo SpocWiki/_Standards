@@ -23,7 +23,7 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/PADEZH.html
 
 # [[Grammatical_Case]] 
 
-#is_/same_as :: [[../../WikiData/WD~Case,128234|WD~Case,128234]] 
+#is_/same_as :: [[../../../../WikiData/WD~Case,128234|WD~Case,128234]] 
 
 ## #has_/text_of_/abstract 
 
