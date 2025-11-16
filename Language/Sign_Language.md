@@ -1,7 +1,58 @@
 ---
 aliases:
-- "Sign Language"
+  - Sign Language
+has_id_wikidata: Q34228
+distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Sign%20language%20families.svg
+different_from:
+  - "[[_Standards/WikiData/WD~signed_language,184767]]"
+  - "[[_Standards/WikiData/WD~body_language,477298]]"
+  - "[[_Standards/WikiData/WD~gesticulation,1519539]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~signed_language,184767]]"
+  - "[[_Standards/WikiData/WD~manual_communication,6752310]]"
+studied_by:
+  - "[[_Standards/WikiData/WD~audiology,569965]]"
+  - "[[_Standards/WikiData/WD~sign_linguistics,136500290]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_sign_language,1188730]]"
+opposite_of: "[[_Standards/WikiData/WD~spoken_language,1322198]]"
+has_list: "[[_Standards/WikiData/WD~list_of_sign_languages,1610015]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Open_Encyclopedia_of_Cognitive_Science,133280573]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_language,20829075]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125]]"
+Wikidata_property: label in sign language
+ABS_ASCL_2011_code: "97"
+Dewey_Decimal_Classification: "419"
+OmegaWiki_Defined_Meaning: "6878"
+U_S_National_Archives_Identifier: "10641014"
+label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-llengua%20de%20signes-spreadthesign.ogv
+image: http://commons.wikimedia.org/wiki/Special:FilePath/KSL%20ng.jpg
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Pictograms-nps-accessibility-sign%20language%20interpretation.svg
+exact_match: http://publications.europa.eu/resource/authority/language/SGN
+Iconclass_notation: 46A542
+UMLS_CUI: C0037078
+MeSH_tree_code:
+  - E02.760.169.063.500.200.609.668
+  - E02.831.200.609.668
+  - F01.145.209.399.500
+  - F01.145.209.530.702.668
+  - L01.143.649.526.668
+Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/ZHESTOVIE_YAZIKI.html
+ISO_639_2_code: sgn
+ISO_639_5_code: sgn
+IETF_language_tag: sgn
+Commons_category: Sign languages
+PhilPapers_topic: sign-language
+Glottolog_code: sign1238
+Material_UI_icon: SignLanguage
 ---
+
+# [[Sign_Language]] 
+
+#is_/same_as :: [[../WikiData/WD~Sign_language,34228|WD~Sign_language,34228]] 
 
 there are ca. 300 Sign Languages with additional Dialects. 
 The most common one is ASL (American Sign Language)
