@@ -7,7 +7,7 @@ aliases:
 
 Simple Knowledge Organization System is an RDF Vocabulary for relationship between two concepts in a hierarchical structure, such as a thesaurus or taxonomy. 
 
-#is_/similar_to :: [[Owl]]
+#is_/similar_to :: [[../../bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Neornithes/Neoaves/Owl]]
 
 ## Edit
 

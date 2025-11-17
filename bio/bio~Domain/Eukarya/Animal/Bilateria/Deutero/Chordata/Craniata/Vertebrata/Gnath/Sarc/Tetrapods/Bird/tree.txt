@@ -1,467 +1,473 @@
-+---Accipitriformes
-¦   +---Accipitridae
-¦   +---Sagittariidae
-+---Anseriformes
-¦   +---Anatidae
-¦       +---Anserinae
-+---Bucerotiformes
+Folder PATH listing for volume D_1TB
+Volume serial number is CA40-CB09
+D:.
 +---Coraciiformes
-+---Falconiformes
-¦   +---Falconidae
-+---Galliformes
-¦   +---Phasianidae
 +---Gruiformes
 +---Neornithes
-¦   +---Galloanserae
-¦   ¦   +---Anseriformes
-¦   ¦   ¦   +---Anatidae
-¦   ¦   ¦   ¦   +---Aix(Bird)
-¦   ¦   ¦   ¦   +---Alopochen_aegyptiaca
-¦   ¦   ¦   ¦   +---Aythya
-¦   ¦   ¦   ¦   ¦   +---affinis
-¦   ¦   ¦   ¦   ¦   +---americana
-¦   ¦   ¦   ¦   ¦   +---australis
-¦   ¦   ¦   ¦   ¦   +---collaris
-¦   ¦   ¦   ¦   ¦   +---ferina
-¦   ¦   ¦   ¦   ¦   +---fuligula
-¦   ¦   ¦   ¦   ¦   +---marila
-¦   ¦   ¦   ¦   ¦   +---novaeseelandiae
-¦   ¦   ¦   ¦   ¦   +---nyroca
-¦   ¦   ¦   ¦   ¦   +---valisineria
-¦   ¦   ¦   ¦   +---Biziura_lobata
-¦   ¦   ¦   ¦   +---Branta
-¦   ¦   ¦   ¦   ¦   +---bernicla
-¦   ¦   ¦   ¦   ¦   +---canadensis
-¦   ¦   ¦   ¦   ¦   +---hutchinsii
-¦   ¦   ¦   ¦   ¦   +---leucopsis
-¦   ¦   ¦   ¦   ¦   +---ruficollis
-¦   ¦   ¦   ¦   ¦   +---sandvicensis
-¦   ¦   ¦   ¦   +---Bucephala
-¦   ¦   ¦   ¦   ¦   +---albeola
-¦   ¦   ¦   ¦   ¦   +---clangula
-¦   ¦   ¦   ¦   ¦   +---islandica
-¦   ¦   ¦   ¦   +---Cairina_moschata
-¦   ¦   ¦   ¦   +---Callonetta_leucophrys
-¦   ¦   ¦   ¦   +---Cereopsis_novaehollandiae
-¦   ¦   ¦   ¦   +---Chen
-¦   ¦   ¦   ¦   ¦   +---caerulescens
-¦   ¦   ¦   ¦   ¦   +---canagica
-¦   ¦   ¦   ¦   ¦   +---rossii
-¦   ¦   ¦   ¦   +---Chenonetta_jubata
-¦   ¦   ¦   ¦   +---Chloephaga
-¦   ¦   ¦   ¦   +---Clangula_hyemalis
-¦   ¦   ¦   ¦   +---Coscoroba_coscoroba
-¦   ¦   ¦   ¦   +---Cyanochen_cyanoptera
-¦   ¦   ¦   ¦   +---Dendrocygna
-¦   ¦   ¦   ¦   ¦   +---arcuata
-¦   ¦   ¦   ¦   ¦   +---autumnalis
-¦   ¦   ¦   ¦   ¦   +---bicolor
-¦   ¦   ¦   ¦   ¦   +---eytoni
-¦   ¦   ¦   ¦   ¦   +---javanica
-¦   ¦   ¦   ¦   ¦   +---viduata
-¦   ¦   ¦   ¦   +---Duck
-¦   ¦   ¦   ¦   ¦   +---acuta
-¦   ¦   ¦   ¦   ¦   +---americana
-¦   ¦   ¦   ¦   ¦   +---aucklandica
-¦   ¦   ¦   ¦   ¦   +---bahamensis
-¦   ¦   ¦   ¦   ¦   +---capensis
-¦   ¦   ¦   ¦   ¦   +---carolinensis
-¦   ¦   ¦   ¦   ¦   +---castanea
-¦   ¦   ¦   ¦   ¦   +---clypeata
-¦   ¦   ¦   ¦   ¦   +---crecca
-¦   ¦   ¦   ¦   ¦   +---cyanoptera
-¦   ¦   ¦   ¦   ¦   +---discors
-¦   ¦   ¦   ¦   ¦   +---falcata
-¦   ¦   ¦   ¦   ¦   +---flavirostris
-¦   ¦   ¦   ¦   ¦   +---formosa
-¦   ¦   ¦   ¦   ¦   +---fulvigula
-¦   ¦   ¦   ¦   ¦   +---gracilis
-¦   ¦   ¦   ¦   ¦   +---hottentota
-¦   ¦   ¦   ¦   ¦   +---laysanensis
-¦   ¦   ¦   ¦   ¦   +---luzonica
-¦   ¦   ¦   ¦   ¦   +---penelope
-¦   ¦   ¦   ¦   ¦   +---Platalea
-¦   ¦   ¦   ¦   ¦   +---platyrhynchos
-¦   ¦   ¦   ¦   ¦   +---poecilorhyncha
-¦   ¦   ¦   ¦   ¦   +---querquedula
-¦   ¦   ¦   ¦   ¦   +---rhynchotis
-¦   ¦   ¦   ¦   ¦   +---rubripes
-¦   ¦   ¦   ¦   ¦   +---sibilatrix
-¦   ¦   ¦   ¦   ¦   +---sparsa
-¦   ¦   ¦   ¦   ¦   +---strepera
-¦   ¦   ¦   ¦   ¦   +---superciliosa
-¦   ¦   ¦   ¦   ¦   +---undulata
-¦   ¦   ¦   ¦   ¦   +---wyvilliana
-¦   ¦   ¦   ¦   +---Goose
-¦   ¦   ¦   ¦   ¦   +---albifrons
-¦   ¦   ¦   ¦   ¦   +---anser
-¦   ¦   ¦   ¦   ¦   +---brachyrhynchus
-¦   ¦   ¦   ¦   ¦   +---cygnoides
-¦   ¦   ¦   ¦   ¦   +---erythropus
-¦   ¦   ¦   ¦   ¦   +---fabalis
-¦   ¦   ¦   ¦   ¦   +---indicus
-¦   ¦   ¦   ¦   +---Histrionicus_histrionicus
-¦   ¦   ¦   ¦   +---Hymenolaimus_malacorhynchos
-¦   ¦   ¦   ¦   +---Lophodytes_cucullatus
-¦   ¦   ¦   ¦   +---Malacorhynchus_membranaceus
-¦   ¦   ¦   ¦   +---Marmaronetta_angustirostris
-¦   ¦   ¦   ¦   +---Melanitta
-¦   ¦   ¦   ¦   ¦   +---deglandi
-¦   ¦   ¦   ¦   ¦   +---nigra
-¦   ¦   ¦   ¦   ¦   +---perspicillata
-¦   ¦   ¦   ¦   +---Mergellus_albellus
-¦   ¦   ¦   ¦   +---Mergus
-¦   ¦   ¦   ¦   ¦   +---merganser
-¦   ¦   ¦   ¦   ¦   +---serrator
-¦   ¦   ¦   ¦   +---Neochen_jubata
-¦   ¦   ¦   ¦   +---Netta
-¦   ¦   ¦   ¦   +---Nettapus
-¦   ¦   ¦   ¦   +---Nomonyx_dominicus
-¦   ¦   ¦   ¦   +---Oxyura
-¦   ¦   ¦   ¦   ¦   +---australis
-¦   ¦   ¦   ¦   ¦   +---ferruginea
-¦   ¦   ¦   ¦   ¦   +---jamaicensis
-¦   ¦   ¦   ¦   ¦   +---leucocephala
-¦   ¦   ¦   ¦   ¦   +---maccoa
-¦   ¦   ¦   ¦   +---Plectropterus_gambensis
-¦   ¦   ¦   ¦   +---Polysticta_stelleri
-¦   ¦   ¦   ¦   +---Sarkidiornis
-¦   ¦   ¦   ¦   +---Somateria
-¦   ¦   ¦   ¦   ¦   +---fischeri
-¦   ¦   ¦   ¦   ¦   +---mollissima
-¦   ¦   ¦   ¦   ¦   +---spectabilis
-¦   ¦   ¦   ¦   +---Speculanas_specularis
-¦   ¦   ¦   ¦   +---Stictonetta_naevosa
-¦   ¦   ¦   ¦   +---Swan
-¦   ¦   ¦   ¦   ¦   +---atratus
-¦   ¦   ¦   ¦   ¦   +---buccinator
-¦   ¦   ¦   ¦   ¦   +---columbianus
-¦   ¦   ¦   ¦   ¦   +---cygnus
-¦   ¦   ¦   ¦   ¦   +---melanocoryphus
-¦   ¦   ¦   ¦   ¦   +---olor
-¦   ¦   ¦   ¦   +---Tachyeres
-¦   ¦   ¦   ¦   +---Tadorna
-¦   ¦   ¦   ¦   ¦   +---cana
-¦   ¦   ¦   ¦   ¦   +---ferruginea
-¦   ¦   ¦   ¦   ¦   +---radjah
-¦   ¦   ¦   ¦   ¦   +---tadorna
-¦   ¦   ¦   ¦   ¦   +---tadornoides
-¦   ¦   ¦   ¦   ¦   +---variegata
-¦   ¦   ¦   ¦   +---Thalassornis_leuconotus
-¦   ¦   ¦   +---Anhimidae
-¦   ¦   ¦   +---Anseranatidae
-¦   ¦   +---Galliformes
-¦   ¦       +---Cracidae
-¦   ¦       ¦   +---Chamaepetes
-¦   ¦       ¦   +---Crax
-¦   ¦       ¦   +---Mitu
-¦   ¦       ¦   +---Ortalis
-¦   ¦       ¦   +---Penelope
-¦   ¦       +---Megapodiidae
-¦   ¦       +---Numididae
-¦   ¦       +---Odontophoridae
-¦   ¦       ¦   +---Callipepla
-¦   ¦       ¦   ¦   +---californica
-¦   ¦       ¦   ¦   +---gambelii
-¦   ¦       ¦   ¦   +---squamata
-¦   ¦       ¦   +---Colinus
-¦   ¦       ¦   +---Oreortyx_pictus
-¦   ¦       +---Phasianidae
-¦   ¦           +---Alectoris
-¦   ¦           +---Ammoperdix
-¦   ¦           +---Argusianus_argus
-¦   ¦           +---Bambusicola
-¦   ¦           +---Bonasa_umbellus
-¦   ¦           +---Catreus_wallichi
-¦   ¦           +---Centrocercus
-¦   ¦           +---Chrysolophus
-¦   ¦           +---Coturnix
-¦   ¦           +---Crossoptilon
-¦   ¦           +---Dendragapus_obscurus
-¦   ¦           +---Dendroperdix_sephaena
-¦   ¦           +---Falcipennis
-¦   ¦           +---Francolinus
-¦   ¦           +---Gallus
-¦   ¦           +---Lagopus
-¦   ¦           +---Lerwa_lerwa
-¦   ¦           +---Lophophorus
-¦   ¦           +---Lophura
-¦   ¦           +---Lyrurus
-¦   ¦           +---Meleagris
-¦   ¦           +---Pavo
-¦   ¦           ¦   +---muticus
-¦   ¦           +---Peliperdix
-¦   ¦           +---Perdicula
-¦   ¦           +---Perdix
-¦   ¦           +---Phasianus_colchicus
-¦   ¦           +---Polyplectron
-¦   ¦           +---Pternistis
-¦   ¦           +---Pucrasia_macrolopha
-¦   ¦           +---Rollulus_rouloul
-¦   ¦           +---Syrmaticus
-¦   ¦           +---Tetrao
-¦   ¦           +---Tetraogallus
-¦   ¦           +---Tetrastes
-¦   ¦           +---Tragopan
-¦   ¦           +---Tympanuchus
-¦   +---Neoaves
-¦   ¦   +---Aequorlitornithes
-¦   ¦   ¦   +---Aequornithes
-¦   ¦   ¦       +---Austrodyptornithes
-¦   ¦   ¦           +---Procellariiformes
-¦   ¦   +---Apodiformes
-¦   ¦   +---Caprimulgiformes
-¦   ¦   ¦   +---Caprimulgidae
-¦   ¦   ¦   ¦   +---Caprimulgus
-¦   ¦   ¦   ¦   +---Chordeiles
-¦   ¦   ¦   ¦   +---Nyctidromus_albicollis
-¦   ¦   ¦   +---Nyctibiidae
-¦   ¦   ¦   +---Podargidae
-¦   ¦   ¦   ¦   +---Podargus
-¦   ¦   ¦   ¦       +---papuensis
-¦   ¦   ¦   ¦       +---strigoides
-¦   ¦   ¦   +---Steatornithidae
-¦   ¦   +---Charadriiformes
-¦   ¦   ¦   +---Scolopaci
-¦   ¦   +---Ciconiiformes
-¦   ¦   +---Coliiformes
-¦   ¦   +---Columbaves
-¦   ¦   ¦   +---Columbimorphae
-¦   ¦   ¦   ¦   +---Columbiformes
-¦   ¦   ¦   ¦       +---Raphidae
-¦   ¦   ¦   +---Otidimorphae
-¦   ¦   ¦   +---Pterocliformes
-¦   ¦   +---Coraciiformes
-¦   ¦   ¦   +---Alcedinidae
-¦   ¦   +---Crane(Bird)
-¦   ¦   +---Falconiformes
-¦   ¦   ¦   +---Accipitridae
-¦   ¦   ¦   +---Falconidae
-¦   ¦   ¦       +---Caracara
-¦   ¦   ¦       +---Falco
-¦   ¦   ¦       ¦   +---biarmicus
-¦   ¦   ¦       ¦   +---cenchroides
-¦   ¦   ¦       ¦   +---femoralis
-¦   ¦   ¦       ¦   +---longipennis
-¦   ¦   ¦       ¦   +---naumanni
-¦   ¦   ¦       ¦   +---peregrinus
-¦   ¦   ¦       ¦   +---rupicoloides
-¦   ¦   ¦       ¦   +---rusticolus
-¦   ¦   ¦       ¦   +---subbuteo
-¦   ¦   ¦       ¦   +---tinnunculus
-¦   ¦   ¦       +---Milvago
-¦   ¦   ¦       +---Phalcoboenus
-¦   ¦   ¦       +---Polihierax
-¦   ¦   +---Gaviiformes
-¦   ¦   ¦   +---arctica
-¦   ¦   ¦   +---immer
-¦   ¦   ¦   +---pacifica
-¦   ¦   ¦   +---stellata
-¦   ¦   +---Musophagiformes
-¦   ¦   ¦   +---Corythaeola_cristata
-¦   ¦   ¦   +---Corythaixoides
-¦   ¦   ¦   ¦   +---concolor
-¦   ¦   ¦   ¦   +---leucogaster
-¦   ¦   ¦   ¦   +---personatus
-¦   ¦   ¦   +---Crinifer_piscator
-¦   ¦   ¦   +---Musophaga
-¦   ¦   ¦   ¦   +---rossae
-¦   ¦   ¦   ¦   +---violacea
-¦   ¦   ¦   +---Tauraco
-¦   ¦   ¦       +---erythrolophus
-¦   ¦   ¦       +---fischeri
-¦   ¦   ¦       +---hartlaubi
-¦   ¦   ¦       +---leucolophus
-¦   ¦   ¦       +---leucotis
-¦   ¦   ¦       +---persa
-¦   ¦   ¦       +---porphyreolophus
-¦   ¦   +---Opisthocomiformes
-¦   ¦   +---Parrot
-¦   ¦   +---Passerine
-¦   ¦   ¦   +---Oscines
-¦   ¦   ¦   ¦   +---Corvoidea
-¦   ¦   ¦   ¦   +---Meliphagoidea
-¦   ¦   ¦   ¦   +---Passerida
-¦   ¦   ¦   ¦       +---Certhioidea
-¦   ¦   ¦   ¦       +---Muscicapoidea
-¦   ¦   ¦   ¦       +---Passeroidea
-¦   ¦   ¦   ¦       ¦   +---Songbird
-¦   ¦   ¦   ¦       ¦       +---Icteridae
-¦   ¦   ¦   ¦       ¦           +---Agelaioides
-¦   ¦   ¦   ¦       ¦           +---Agelaius
-¦   ¦   ¦   ¦       ¦           +---Agelasticus
-¦   ¦   ¦   ¦       ¦           +---Cacicus
-¦   ¦   ¦   ¦       ¦           ¦   +---cela
-¦   ¦   ¦   ¦       ¦           +---Chrysomus
-¦   ¦   ¦   ¦       ¦           +---Curaeus
-¦   ¦   ¦   ¦       ¦           +---Dolichonyx
-¦   ¦   ¦   ¦       ¦           +---Gymnomystax
-¦   ¦   ¦   ¦       ¦           +---Icterus
-¦   ¦   ¦   ¦       ¦           +---Molothrus
-¦   ¦   ¦   ¦       ¦           +---Psarocolius
-¦   ¦   ¦   ¦       ¦           +---Pseudoleistes
-¦   ¦   ¦   ¦       ¦           +---Quiscalus
-¦   ¦   ¦   ¦       ¦           +---Sturnella
-¦   ¦   ¦   ¦       ¦           +---Xanthopsar
-¦   ¦   ¦   ¦       +---Sylvioidea
-¦   ¦   ¦   +---Suboscines
-¦   ¦   ¦       +---Eurylaimides
-¦   ¦   ¦       +---Furnarii
-¦   ¦   ¦       +---Tyranni
-¦   ¦   +---Pelecaniformes
-¦   ¦   ¦   +---Anhingidae
-¦   ¦   ¦   +---Ardei
-¦   ¦   ¦   ¦   +---Ibises_and_Spoonbills
-¦   ¦   ¦   +---Ardeidae
-¦   ¦   ¦   +---Balaenicipitidae
-¦   ¦   ¦   +---Fregatidae
-¦   ¦   ¦   +---Pelecanidae
-¦   ¦   ¦   ¦   +---Pelecani
-¦   ¦   ¦   ¦       +---Pelican
-¦   ¦   ¦   +---Phaethontidae
-¦   ¦   ¦   +---Sulidae
-¦   ¦   +---Penguin
-¦   ¦   ¦   +---Aptenodytes
-¦   ¦   ¦   ¦   +---forsteri
-¦   ¦   ¦   ¦   +---patagonicus
-¦   ¦   ¦   +---Eudyptes
-¦   ¦   ¦   ¦   +---chrysocome
-¦   ¦   ¦   ¦   +---chrysolophus
-¦   ¦   ¦   ¦   +---pachyrhynchus
-¦   ¦   ¦   ¦   +---robustus
-¦   ¦   ¦   ¦   +---schlegeli
-¦   ¦   ¦   +---Eudyptula_minor
-¦   ¦   ¦   +---Megadyptes_antipodes
-¦   ¦   ¦   +---Pygoscelis
-¦   ¦   ¦   ¦   +---adeliae
-¦   ¦   ¦   ¦   +---antarcticus
-¦   ¦   ¦   ¦   +---papua
-¦   ¦   ¦   +---Spheniscus
-¦   ¦   ¦       +---demersus
-¦   ¦   ¦       +---humboldti
-¦   ¦   ¦       +---magellanicus
-¦   ¦   ¦       +---mendiculus
-¦   ¦   +---Phoenicopteriformes
-¦   ¦   ¦   +---andinus
-¦   ¦   ¦   +---chilensis
-¦   ¦   ¦   +---minor
-¦   ¦   ¦   +---roseus
-¦   ¦   ¦   +---ruber
-¦   ¦   +---Piciformes
-¦   ¦   +---Podicipedidae
-¦   ¦   ¦   +---Aechmophorus
-¦   ¦   ¦   ¦   +---clarkii
-¦   ¦   ¦   ¦   +---occidentalis
-¦   ¦   ¦   +---Podiceps
-¦   ¦   ¦   ¦   +---auritus
-¦   ¦   ¦   ¦   +---cristatus
-¦   ¦   ¦   ¦   +---grisegena
-¦   ¦   ¦   ¦   +---nigricollis
-¦   ¦   ¦   +---Podilymbus
-¦   ¦   ¦   +---Poliocephalus
-¦   ¦   ¦   +---Rollandia
-¦   ¦   ¦   +---Tachybaptus
-¦   ¦   ¦       +---dominicus
-¦   ¦   ¦       +---novaehollandiae
-¦   ¦   ¦       +---ruficollis
-¦   ¦   +---Strigiformes
-¦   ¦       +---Strigidae
-¦   ¦       ¦   +---Aegolius
-¦   ¦       ¦   ¦   +---acadicus
-¦   ¦       ¦   ¦   +---funereus
-¦   ¦       ¦   +---Asio
-¦   ¦       ¦   ¦   +---flammeus
-¦   ¦       ¦   ¦   +---otus
-¦   ¦       ¦   ¦   +---stygius
-¦   ¦       ¦   +---Athene
-¦   ¦       ¦   ¦   +---brama
-¦   ¦       ¦   ¦   +---cunicularia
-¦   ¦       ¦   ¦   +---noctua
-¦   ¦       ¦   +---Bubo
-¦   ¦       ¦   ¦   +---africanus
-¦   ¦       ¦   ¦   +---bubo
-¦   ¦       ¦   ¦   +---lacteus
-¦   ¦       ¦   ¦   +---philippensis
-¦   ¦       ¦   ¦   +---scandiaca
-¦   ¦       ¦   ¦   +---virginianus
-¦   ¦       ¦   +---Glaucidium
-¦   ¦       ¦   ¦   +---brasilianum
-¦   ¦       ¦   ¦   +---brodiei
-¦   ¦       ¦   ¦   +---californicum
-¦   ¦       ¦   ¦   +---gnoma
-¦   ¦       ¦   ¦   +---passerinum
-¦   ¦       ¦   ¦   +---perlatum
-¦   ¦       ¦   +---Ketupa
-¦   ¦       ¦   ¦   +---ketupu
-¦   ¦       ¦   +---Lophostrix_cristata
-¦   ¦       ¦   +---Megascops
-¦   ¦       ¦   ¦   +---asio
-¦   ¦       ¦   ¦   +---choliba
-¦   ¦       ¦   ¦   +---flammeolus
-¦   ¦       ¦   ¦   +---kennicottii
-¦   ¦       ¦   ¦   +---trichopsis
-¦   ¦       ¦   +---Ninox
-¦   ¦       ¦   ¦   +---connivens
-¦   ¦       ¦   ¦   +---novaeseelandiae
-¦   ¦       ¦   ¦   +---rufa
-¦   ¦       ¦   ¦   +---strenua
-¦   ¦       ¦   +---Otus
-¦   ¦       ¦   ¦   +---bakkamoena
-¦   ¦       ¦   ¦   +---senegalensis
-¦   ¦       ¦   +---Pseudoscops
-¦   ¦       ¦   +---Ptilopsis
-¦   ¦       ¦   +---Pulsatrix
-¦   ¦       ¦   +---Strix
-¦   ¦       ¦   ¦   +---albitarsis
-¦   ¦       ¦   ¦   +---aluco
-¦   ¦       ¦   ¦   +---leptogrammica
-¦   ¦       ¦   ¦   +---nebulosa
-¦   ¦       ¦   ¦   +---nigrolineata
-¦   ¦       ¦   ¦   +---occidentalis
-¦   ¦       ¦   ¦   +---rufipes
-¦   ¦       ¦   ¦   +---seloputo
-¦   ¦       ¦   ¦   +---uralensis
-¦   ¦       ¦   ¦   +---varia
-¦   ¦       ¦   +---Surnia_ulula
-¦   ¦       +---Tytonidae
-¦   +---Palaeognathae
-¦       +---Aepyornithidae
-¦       +---Apterygidae
-¦       +---Casuariidae
-¦       +---Dinornithidae
-¦       +---Dromaius_novaehollandiae
-¦       +---Rheidae
-¦       +---Struthio
-¦       ¦   +---camelus
-¦       +---Tinamiformes
-¦           +---Crypturellus
-¦           +---Eudromia
-¦           +---Nothura
-¦           +---Rhynchotus
-¦           +---Tinamus
-+---Opisthocomiformes
-+---Owl
-¦   +---Strigidae
-+---Palaeognathae
-¦   +---Casuariiformes
-¦   ¦   +---Dromaius
-¦   +---Rheiformes
-¦   +---Struthioniformes
-+---Passerea
-+---Passeriformes
-¦   +---Corvoidea
-¦   ¦   +---Corvidae
-¦   ¦       +---Corvus
-¦   ¦       +---Garrulus
-¦   ¦       +---Pica(bird)
-¦   +---Eupasseres
-¦   ¦   +---Songbird
-¦   +---Muscicapidae
-¦   +---Sylviida
-+---Phoenicopteriformes
-¦   +---Phoenicopteridae
-+---Psittaciformes
-¦   +---Psittaculidae
-¦       +---Loriinae
-+---Suliformes
-    +---Fregatidae
+    +---Galloanserae
+    ¦   +---Anseriformes
+    ¦   ¦   +---Anatidae
+    ¦   ¦   ¦   +---Aix(Bird)
+    ¦   ¦   ¦   +---Alopochen_aegyptiaca
+    ¦   ¦   ¦   +---Aythya
+    ¦   ¦   ¦   ¦   +---affinis
+    ¦   ¦   ¦   ¦   +---americana
+    ¦   ¦   ¦   ¦   +---australis
+    ¦   ¦   ¦   ¦   +---collaris
+    ¦   ¦   ¦   ¦   +---ferina
+    ¦   ¦   ¦   ¦   +---fuligula
+    ¦   ¦   ¦   ¦   +---marila
+    ¦   ¦   ¦   ¦   +---novaeseelandiae
+    ¦   ¦   ¦   ¦   +---nyroca
+    ¦   ¦   ¦   ¦   +---valisineria
+    ¦   ¦   ¦   +---Biziura_lobata
+    ¦   ¦   ¦   +---Branta
+    ¦   ¦   ¦   ¦   +---bernicla
+    ¦   ¦   ¦   ¦   +---canadensis
+    ¦   ¦   ¦   ¦   +---hutchinsii
+    ¦   ¦   ¦   ¦   +---leucopsis
+    ¦   ¦   ¦   ¦   +---ruficollis
+    ¦   ¦   ¦   ¦   +---sandvicensis
+    ¦   ¦   ¦   +---Bucephala
+    ¦   ¦   ¦   ¦   +---albeola
+    ¦   ¦   ¦   ¦   +---clangula
+    ¦   ¦   ¦   ¦   +---islandica
+    ¦   ¦   ¦   +---Cairina_moschata
+    ¦   ¦   ¦   +---Callonetta_leucophrys
+    ¦   ¦   ¦   +---Cereopsis_novaehollandiae
+    ¦   ¦   ¦   +---Chen
+    ¦   ¦   ¦   ¦   +---caerulescens
+    ¦   ¦   ¦   ¦   +---canagica
+    ¦   ¦   ¦   ¦   +---rossii
+    ¦   ¦   ¦   +---Chenonetta_jubata
+    ¦   ¦   ¦   +---Chloephaga
+    ¦   ¦   ¦   +---Clangula_hyemalis
+    ¦   ¦   ¦   +---Coscoroba_coscoroba
+    ¦   ¦   ¦   +---Cyanochen_cyanoptera
+    ¦   ¦   ¦   +---Dendrocygna
+    ¦   ¦   ¦   ¦   +---arcuata
+    ¦   ¦   ¦   ¦   +---autumnalis
+    ¦   ¦   ¦   ¦   +---bicolor
+    ¦   ¦   ¦   ¦   +---eytoni
+    ¦   ¦   ¦   ¦   +---javanica
+    ¦   ¦   ¦   ¦   +---viduata
+    ¦   ¦   ¦   +---Duck
+    ¦   ¦   ¦   ¦   +---acuta
+    ¦   ¦   ¦   ¦   +---americana
+    ¦   ¦   ¦   ¦   +---aucklandica
+    ¦   ¦   ¦   ¦   +---bahamensis
+    ¦   ¦   ¦   ¦   +---capensis
+    ¦   ¦   ¦   ¦   +---carolinensis
+    ¦   ¦   ¦   ¦   +---castanea
+    ¦   ¦   ¦   ¦   +---clypeata
+    ¦   ¦   ¦   ¦   +---crecca
+    ¦   ¦   ¦   ¦   +---cyanoptera
+    ¦   ¦   ¦   ¦   +---discors
+    ¦   ¦   ¦   ¦   +---falcata
+    ¦   ¦   ¦   ¦   +---flavirostris
+    ¦   ¦   ¦   ¦   +---formosa
+    ¦   ¦   ¦   ¦   +---fulvigula
+    ¦   ¦   ¦   ¦   +---gracilis
+    ¦   ¦   ¦   ¦   +---hottentota
+    ¦   ¦   ¦   ¦   +---laysanensis
+    ¦   ¦   ¦   ¦   +---luzonica
+    ¦   ¦   ¦   ¦   +---penelope
+    ¦   ¦   ¦   ¦   +---Platalea
+    ¦   ¦   ¦   ¦   +---platyrhynchos
+    ¦   ¦   ¦   ¦   +---poecilorhyncha
+    ¦   ¦   ¦   ¦   +---querquedula
+    ¦   ¦   ¦   ¦   +---rhynchotis
+    ¦   ¦   ¦   ¦   +---rubripes
+    ¦   ¦   ¦   ¦   +---sibilatrix
+    ¦   ¦   ¦   ¦   +---sparsa
+    ¦   ¦   ¦   ¦   +---strepera
+    ¦   ¦   ¦   ¦   +---superciliosa
+    ¦   ¦   ¦   ¦   +---undulata
+    ¦   ¦   ¦   ¦   +---wyvilliana
+    ¦   ¦   ¦   +---Goose
+    ¦   ¦   ¦   ¦   +---albifrons
+    ¦   ¦   ¦   ¦   +---anser
+    ¦   ¦   ¦   ¦   +---brachyrhynchus
+    ¦   ¦   ¦   ¦   +---cygnoides
+    ¦   ¦   ¦   ¦   +---erythropus
+    ¦   ¦   ¦   ¦   +---fabalis
+    ¦   ¦   ¦   ¦   +---indicus
+    ¦   ¦   ¦   +---Histrionicus_histrionicus
+    ¦   ¦   ¦   +---Hymenolaimus_malacorhynchos
+    ¦   ¦   ¦   +---Lophodytes_cucullatus
+    ¦   ¦   ¦   +---Malacorhynchus_membranaceus
+    ¦   ¦   ¦   +---Marmaronetta_angustirostris
+    ¦   ¦   ¦   +---Melanitta
+    ¦   ¦   ¦   ¦   +---deglandi
+    ¦   ¦   ¦   ¦   +---nigra
+    ¦   ¦   ¦   ¦   +---perspicillata
+    ¦   ¦   ¦   +---Mergellus_albellus
+    ¦   ¦   ¦   +---Mergus
+    ¦   ¦   ¦   ¦   +---merganser
+    ¦   ¦   ¦   ¦   +---serrator
+    ¦   ¦   ¦   +---Neochen_jubata
+    ¦   ¦   ¦   +---Netta
+    ¦   ¦   ¦   +---Nettapus
+    ¦   ¦   ¦   +---Nomonyx_dominicus
+    ¦   ¦   ¦   +---Oxyura
+    ¦   ¦   ¦   ¦   +---australis
+    ¦   ¦   ¦   ¦   +---ferruginea
+    ¦   ¦   ¦   ¦   +---jamaicensis
+    ¦   ¦   ¦   ¦   +---leucocephala
+    ¦   ¦   ¦   ¦   +---maccoa
+    ¦   ¦   ¦   +---Plectropterus_gambensis
+    ¦   ¦   ¦   +---Polysticta_stelleri
+    ¦   ¦   ¦   +---Sarkidiornis
+    ¦   ¦   ¦   +---Somateria
+    ¦   ¦   ¦   ¦   +---fischeri
+    ¦   ¦   ¦   ¦   +---mollissima
+    ¦   ¦   ¦   ¦   +---spectabilis
+    ¦   ¦   ¦   +---Speculanas_specularis
+    ¦   ¦   ¦   +---Stictonetta_naevosa
+    ¦   ¦   ¦   +---Swan
+    ¦   ¦   ¦   ¦   +---atratus
+    ¦   ¦   ¦   ¦   +---buccinator
+    ¦   ¦   ¦   ¦   +---columbianus
+    ¦   ¦   ¦   ¦   +---cygnus
+    ¦   ¦   ¦   ¦   +---melanocoryphus
+    ¦   ¦   ¦   ¦   +---olor
+    ¦   ¦   ¦   +---Tachyeres
+    ¦   ¦   ¦   +---Tadorna
+    ¦   ¦   ¦   ¦   +---cana
+    ¦   ¦   ¦   ¦   +---ferruginea
+    ¦   ¦   ¦   ¦   +---radjah
+    ¦   ¦   ¦   ¦   +---tadorna
+    ¦   ¦   ¦   ¦   +---tadornoides
+    ¦   ¦   ¦   ¦   +---variegata
+    ¦   ¦   ¦   +---Thalassornis_leuconotus
+    ¦   ¦   +---Anhimidae
+    ¦   ¦   +---Anseranatidae
+    ¦   +---Anseriformes 1
+    ¦   ¦   +---Anatidae
+    ¦   ¦       +---Anserinae
+    ¦   +---Galliformes
+    ¦   ¦   +---Cracidae
+    ¦   ¦   ¦   +---Chamaepetes
+    ¦   ¦   ¦   +---Crax
+    ¦   ¦   ¦   +---Mitu
+    ¦   ¦   ¦   +---Ortalis
+    ¦   ¦   ¦   +---Penelope
+    ¦   ¦   +---Megapodiidae
+    ¦   ¦   +---Numididae
+    ¦   ¦   +---Odontophoridae
+    ¦   ¦   ¦   +---Callipepla
+    ¦   ¦   ¦   ¦   +---californica
+    ¦   ¦   ¦   ¦   +---gambelii
+    ¦   ¦   ¦   ¦   +---squamata
+    ¦   ¦   ¦   +---Colinus
+    ¦   ¦   ¦   +---Oreortyx_pictus
+    ¦   ¦   +---Phasianidae
+    ¦   ¦       +---Alectoris
+    ¦   ¦       +---Ammoperdix
+    ¦   ¦       +---Argusianus_argus
+    ¦   ¦       +---Bambusicola
+    ¦   ¦       +---Bonasa_umbellus
+    ¦   ¦       +---Catreus_wallichi
+    ¦   ¦       +---Centrocercus
+    ¦   ¦       +---Chrysolophus
+    ¦   ¦       +---Coturnix
+    ¦   ¦       +---Crossoptilon
+    ¦   ¦       +---Dendragapus_obscurus
+    ¦   ¦       +---Dendroperdix_sephaena
+    ¦   ¦       +---Falcipennis
+    ¦   ¦       +---Francolinus
+    ¦   ¦       +---Gallus
+    ¦   ¦       +---Lagopus
+    ¦   ¦       +---Lerwa_lerwa
+    ¦   ¦       +---Lophophorus
+    ¦   ¦       +---Lophura
+    ¦   ¦       +---Lyrurus
+    ¦   ¦       +---Meleagris
+    ¦   ¦       +---Pavo
+    ¦   ¦       ¦   +---muticus
+    ¦   ¦       +---Peliperdix
+    ¦   ¦       +---Perdicula
+    ¦   ¦       +---Perdix
+    ¦   ¦       +---Phasianus_colchicus
+    ¦   ¦       +---Polyplectron
+    ¦   ¦       +---Pternistis
+    ¦   ¦       +---Pucrasia_macrolopha
+    ¦   ¦       +---Rollulus_rouloul
+    ¦   ¦       +---Syrmaticus
+    ¦   ¦       +---Tetrao
+    ¦   ¦       +---Tetraogallus
+    ¦   ¦       +---Tetrastes
+    ¦   ¦       +---Tragopan
+    ¦   ¦       +---Tympanuchus
+    ¦   +---Galliformes 1
+    ¦       +---Phasianidae
+    +---Neoaves
+    ¦   +---Aequorlitornithes
+    ¦   ¦   +---Aequornithes
+    ¦   ¦   ¦   +---Austrodyptornithes
+    ¦   ¦   ¦   ¦   +---Procellariiformes
+    ¦   ¦   ¦   +---Pelecaniformes
+    ¦   ¦   ¦       +---Anhingidae
+    ¦   ¦   ¦       +---Ardei
+    ¦   ¦   ¦       ¦   +---Ibises_and_Spoonbills
+    ¦   ¦   ¦       +---Ardeidae
+    ¦   ¦   ¦       +---Balaenicipitidae
+    ¦   ¦   ¦       +---Fregatidae
+    ¦   ¦   ¦       +---Pelecanidae
+    ¦   ¦   ¦       ¦   +---Pelecani
+    ¦   ¦   ¦       ¦       +---Pelican
+    ¦   ¦   ¦       +---Phaethontidae
+    ¦   ¦   ¦       +---Sulidae
+    ¦   ¦   +---Charadriiformes
+    ¦   ¦   ¦   +---Scolopaci
+    ¦   ¦   +---Phoenicopteriformes
+    ¦   ¦   ¦   +---Phoenicopteridae
+    ¦   ¦   ¦       +---Flamingo
+    ¦   ¦   ¦           +---andinus
+    ¦   ¦   ¦           +---chilensis
+    ¦   ¦   ¦           +---minor
+    ¦   ¦   ¦           +---roseus
+    ¦   ¦   ¦           +---ruber
+    ¦   ¦   +---Suliformes
+    ¦   ¦       +---Fregatidae
+    ¦   +---Apodiformes
+    ¦   +---Caprimulgiformes
+    ¦   ¦   +---Caprimulgidae
+    ¦   ¦   ¦   +---Caprimulgus
+    ¦   ¦   ¦   +---Chordeiles
+    ¦   ¦   ¦   +---Nyctidromus_albicollis
+    ¦   ¦   +---Nyctibiidae
+    ¦   ¦   +---Podargidae
+    ¦   ¦   ¦   +---Podargus
+    ¦   ¦   ¦       +---papuensis
+    ¦   ¦   ¦       +---strigoides
+    ¦   ¦   +---Steatornithidae
+    ¦   +---Ciconiiformes
+    ¦   +---Coliiformes
+    ¦   +---Columbaves
+    ¦   ¦   +---Columbimorphae
+    ¦   ¦   ¦   +---Columbiformes
+    ¦   ¦   ¦       +---Raphidae
+    ¦   ¦   +---Otidimorphae
+    ¦   ¦   +---Pterocliformes
+    ¦   +---Coraciiformes
+    ¦   ¦   +---Alcedinidae
+    ¦   +---Crane(Bird)
+    ¦   +---Falconiformes
+    ¦   ¦   +---Accipitridae
+    ¦   ¦   +---Falconidae
+    ¦   ¦       +---Caracara
+    ¦   ¦       +---Falco
+    ¦   ¦       ¦   +---biarmicus
+    ¦   ¦       ¦   +---cenchroides
+    ¦   ¦       ¦   +---femoralis
+    ¦   ¦       ¦   +---longipennis
+    ¦   ¦       ¦   +---naumanni
+    ¦   ¦       ¦   +---peregrinus
+    ¦   ¦       ¦   +---rupicoloides
+    ¦   ¦       ¦   +---rusticolus
+    ¦   ¦       ¦   +---subbuteo
+    ¦   ¦       ¦   +---tinnunculus
+    ¦   ¦       +---Milvago
+    ¦   ¦       +---Phalcoboenus
+    ¦   ¦       +---Polihierax
+    ¦   +---Gaviiformes
+    ¦   ¦   +---arctica
+    ¦   ¦   +---immer
+    ¦   ¦   +---pacifica
+    ¦   ¦   +---stellata
+    ¦   +---Musophagiformes
+    ¦   ¦   +---Corythaeola_cristata
+    ¦   ¦   +---Corythaixoides
+    ¦   ¦   ¦   +---concolor
+    ¦   ¦   ¦   +---leucogaster
+    ¦   ¦   ¦   +---personatus
+    ¦   ¦   +---Crinifer_piscator
+    ¦   ¦   +---Musophaga
+    ¦   ¦   ¦   +---rossae
+    ¦   ¦   ¦   +---violacea
+    ¦   ¦   +---Tauraco
+    ¦   ¦       +---erythrolophus
+    ¦   ¦       +---fischeri
+    ¦   ¦       +---hartlaubi
+    ¦   ¦       +---leucolophus
+    ¦   ¦       +---leucotis
+    ¦   ¦       +---persa
+    ¦   ¦       +---porphyreolophus
+    ¦   +---Opisthocomiformes
+    ¦   +---Owl
+    ¦   ¦   +---Strigidae
+    ¦   +---Parrot
+    ¦   +---Passerea
+    ¦   ¦   +---Muscicapidae
+    ¦   ¦   +---Sylviida
+    ¦   ¦   +---Telluraves
+    ¦   ¦       +---Accipitriformes
+    ¦   ¦       ¦   +---Accipitridae
+    ¦   ¦       ¦   +---Sagittariidae
+    ¦   ¦       +---Afroaves
+    ¦   ¦       ¦   +---Coraciimorphae
+    ¦   ¦       ¦       +---Cavitaves
+    ¦   ¦       ¦           +---Eucavitaves
+    ¦   ¦       ¦               +---Bucerotiformes
+    ¦   ¦       ¦               +---Picocoraciae
+    ¦   ¦       +---Falconiformes
+    ¦   ¦       ¦   +---Falconidae
+    ¦   ¦       +---Psittaciformes
+    ¦   ¦           +---Psittaculidae
+    ¦   ¦               +---Loriinae
+    ¦   +---Passerine
+    ¦   ¦   +---Corvoidea
+    ¦   ¦   ¦   +---Corvidae
+    ¦   ¦   ¦       +---Corvus
+    ¦   ¦   ¦       +---Garrulus
+    ¦   ¦   ¦       +---Pica(bird)
+    ¦   ¦   +---Eupasseres
+    ¦   ¦   ¦   +---Songbird
+    ¦   ¦   +---Oscines
+    ¦   ¦   ¦   +---Corvoidea
+    ¦   ¦   ¦   +---Meliphagoidea
+    ¦   ¦   ¦   +---Passerida
+    ¦   ¦   ¦       +---Certhioidea
+    ¦   ¦   ¦       +---Muscicapoidea
+    ¦   ¦   ¦       +---Passeroidea
+    ¦   ¦   ¦       ¦   +---Songbird
+    ¦   ¦   ¦       ¦       +---Icteridae
+    ¦   ¦   ¦       ¦           +---Agelaioides
+    ¦   ¦   ¦       ¦           +---Agelaius
+    ¦   ¦   ¦       ¦           +---Agelasticus
+    ¦   ¦   ¦       ¦           +---Cacicus
+    ¦   ¦   ¦       ¦           ¦   +---cela
+    ¦   ¦   ¦       ¦           +---Chrysomus
+    ¦   ¦   ¦       ¦           +---Curaeus
+    ¦   ¦   ¦       ¦           +---Dolichonyx
+    ¦   ¦   ¦       ¦           +---Gymnomystax
+    ¦   ¦   ¦       ¦           +---Icterus
+    ¦   ¦   ¦       ¦           +---Molothrus
+    ¦   ¦   ¦       ¦           +---Psarocolius
+    ¦   ¦   ¦       ¦           +---Pseudoleistes
+    ¦   ¦   ¦       ¦           +---Quiscalus
+    ¦   ¦   ¦       ¦           +---Sturnella
+    ¦   ¦   ¦       ¦           +---Xanthopsar
+    ¦   ¦   ¦       +---Sylvioidea
+    ¦   ¦   +---Suboscines
+    ¦   ¦       +---Eurylaimides
+    ¦   ¦       +---Furnarii
+    ¦   ¦       +---Tyranni
+    ¦   +---Penguin
+    ¦   ¦   +---Aptenodytes
+    ¦   ¦   ¦   +---forsteri
+    ¦   ¦   ¦   +---patagonicus
+    ¦   ¦   +---Eudyptes
+    ¦   ¦   ¦   +---chrysocome
+    ¦   ¦   ¦   +---chrysolophus
+    ¦   ¦   ¦   +---pachyrhynchus
+    ¦   ¦   ¦   +---robustus
+    ¦   ¦   ¦   +---schlegeli
+    ¦   ¦   +---Eudyptula_minor
+    ¦   ¦   +---Megadyptes_antipodes
+    ¦   ¦   +---Pygoscelis
+    ¦   ¦   ¦   +---adeliae
+    ¦   ¦   ¦   +---antarcticus
+    ¦   ¦   ¦   +---papua
+    ¦   ¦   +---Spheniscus
+    ¦   ¦       +---demersus
+    ¦   ¦       +---humboldti
+    ¦   ¦       +---magellanicus
+    ¦   ¦       +---mendiculus
+    ¦   +---Piciformes
+    ¦   +---Podicipedidae
+    ¦   ¦   +---Aechmophorus
+    ¦   ¦   ¦   +---clarkii
+    ¦   ¦   ¦   +---occidentalis
+    ¦   ¦   +---Podiceps
+    ¦   ¦   ¦   +---auritus
+    ¦   ¦   ¦   +---cristatus
+    ¦   ¦   ¦   +---grisegena
+    ¦   ¦   ¦   +---nigricollis
+    ¦   ¦   +---Podilymbus
+    ¦   ¦   +---Poliocephalus
+    ¦   ¦   +---Rollandia
+    ¦   ¦   +---Tachybaptus
+    ¦   ¦       +---dominicus
+    ¦   ¦       +---novaehollandiae
+    ¦   ¦       +---ruficollis
+    ¦   +---Strigiformes
+    ¦       +---Strigidae
+    ¦       ¦   +---Aegolius
+    ¦       ¦   ¦   +---acadicus
+    ¦       ¦   ¦   +---funereus
+    ¦       ¦   +---Asio
+    ¦       ¦   ¦   +---flammeus
+    ¦       ¦   ¦   +---otus
+    ¦       ¦   ¦   +---stygius
+    ¦       ¦   +---Athene
+    ¦       ¦   ¦   +---brama
+    ¦       ¦   ¦   +---cunicularia
+    ¦       ¦   ¦   +---noctua
+    ¦       ¦   +---Bubo
+    ¦       ¦   ¦   +---africanus
+    ¦       ¦   ¦   +---Eurasian_Eagle-owl
+    ¦       ¦   ¦   +---lacteus
+    ¦       ¦   ¦   +---philippensis
+    ¦       ¦   ¦   +---scandiaca
+    ¦       ¦   ¦   +---virginianus
+    ¦       ¦   +---Glaucidium
+    ¦       ¦   ¦   +---brasilianum
+    ¦       ¦   ¦   +---brodiei
+    ¦       ¦   ¦   +---californicum
+    ¦       ¦   ¦   +---gnoma
+    ¦       ¦   ¦   +---passerinum
+    ¦       ¦   ¦   +---perlatum
+    ¦       ¦   +---Ketupa
+    ¦       ¦   ¦   +---ketupu
+    ¦       ¦   +---Lophostrix_cristata
+    ¦       ¦   +---Megascops
+    ¦       ¦   ¦   +---asio
+    ¦       ¦   ¦   +---choliba
+    ¦       ¦   ¦   +---flammeolus
+    ¦       ¦   ¦   +---kennicottii
+    ¦       ¦   ¦   +---trichopsis
+    ¦       ¦   +---Ninox
+    ¦       ¦   ¦   +---connivens
+    ¦       ¦   ¦   +---novaeseelandiae
+    ¦       ¦   ¦   +---rufa
+    ¦       ¦   ¦   +---strenua
+    ¦       ¦   +---Otus
+    ¦       ¦   ¦   +---bakkamoena
+    ¦       ¦   ¦   +---senegalensis
+    ¦       ¦   +---Pseudoscops
+    ¦       ¦   +---Ptilopsis
+    ¦       ¦   +---Pulsatrix
+    ¦       ¦   +---Strix
+    ¦       ¦   ¦   +---albitarsis
+    ¦       ¦   ¦   +---aluco
+    ¦       ¦   ¦   +---leptogrammica
+    ¦       ¦   ¦   +---nebulosa
+    ¦       ¦   ¦   +---nigrolineata
+    ¦       ¦   ¦   +---occidentalis
+    ¦       ¦   ¦   +---rufipes
+    ¦       ¦   ¦   +---seloputo
+    ¦       ¦   ¦   +---uralensis
+    ¦       ¦   ¦   +---varia
+    ¦       ¦   +---Surnia_ulula
+    ¦       +---Tytonidae
+    +---Palaeognathae
+        +---Aepyornithidae
+        +---Apterygidae
+        +---Casuariiformes
+        ¦   +---Casuariidae
+        ¦   +---Dromaius
+        +---Dinornithidae
+        +---Dromaius_novaehollandiae
+        +---Rheiformes
+        ¦   +---Rheidae
+        +---Struthio
+        ¦   +---camelus
+        +---Struthioniformes
+        +---Tinamiformes
+            +---Crypturellus
+            +---Eudromia
+            +---Nothura
+            +---Rhynchotus
+            +---Tinamus
