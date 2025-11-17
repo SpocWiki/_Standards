@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Joseph Anton Bruckner
+  - Anton Bruckner
+  - Bruckner
+  - Anton_Bruckner
 has_id_wikidata: Q81752
 student:
   - "[[_Standards/WikiData/WD~Alexander_von_Zemlinsky,78524]]"
@@ -104,15 +109,40 @@ IPI_name_number: "00004382514"
 
 # [[Bruckner,Anton]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Anton_Bruckner,81752|WD~Anton_Bruckner,81752]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Anton_Bruckner,81752|WD~Anton_Bruckner,81752]] 
 
 ## #has_/text_of_/abstract 
 
-> Joseph Anton Bruckner (; German: [ˈantoːn ˈbʁʊknɐ] ; 4 September 1824 – 11 October 1896) was an Austrian composer and organist best known for his symphonies and sacred music, which includes Masses, Te Deum and motets. The symphonies are considered emblematic of the final stage of Austro-German Romanticism because of their rich harmonic language, strongly polyphonic character, and considerable length. Bruckner's compositions helped to define contemporary musical radicalism, owing to their dissonances, unprepared modulations, and roving harmonies.
+> Joseph Anton Bruckner (German: [ˈantoːn ˈbʁʊknɐ] ; 4 September 1824 – 11 October 1896) 
+> was an Austrian composer and organist best known for his symphonies and sacred music, 
+> which includes Masses, Te Deum and motets. 
+> 
+> The symphonies are considered emblematic of the final stage of Austro-German Romanticism 
+> because of their rich harmonic language, strongly polyphonic character, and considerable length. 
+> 
+> Bruckner's compositions helped to define contemporary musical radicalism, 
+> owing to their dissonances, unprepared modulations, and roving harmonies.
 >
-> Unlike other musical radicals such as Richard Wagner and Hugo Wolf, Bruckner showed respect, even humility, before other famous musicians, Wagner in particular. This apparent dichotomy between Bruckner the man and Bruckner the composer hampers efforts to describe his life in a way that gives a straightforward context for his music. The German conductor Hans von Bülow described him as "half genius, half simpleton". Bruckner was critical of his own work and often reworked his compositions. There are several versions of many of his works.
+> Unlike other musical radicals such as Richard Wagner and Hugo Wolf, 
+> Bruckner showed respect, even humility, before other famous musicians, Wagner in particular. 
+> 
+> This apparent dichotomy between Bruckner the man and Bruckner the composer 
+> hampers efforts to describe his life in a way that gives a straightforward context for his music. 
+> 
+> The German conductor Hans von Bülow described him as "half genius, half simpleton". 
+> Bruckner was critical of his own work and often reworked his compositions. 
+> There are several versions of many of his works.
 >
-> His works, the symphonies in particular, had detractors, most notably the influential Austrian critic Eduard Hanslick and other supporters of the German composer Johannes Brahms, who pointed to their large size and use of repetition, as well as to Bruckner's propensity for revising many of his works, often with the assistance of colleagues, and his apparent indecision about which versions he preferred. On the other hand, Bruckner was greatly admired by subsequent composers, including his friend Gustav Mahler.
+> His works, the symphonies in particular, had detractors, 
+> most notably the influential Austrian critic Eduard Hanslick 
+> and other supporters of the German composer Johannes Brahms, 
+> who pointed to their large size and use of repetition, 
+> as well as to Bruckner's propensity for revising many of his works, 
+> often with the assistance of colleagues, 
+> and his apparent indecision about which versions he preferred. 
+> 
+> On the other hand, Bruckner was greatly admired by subsequent composers, 
+> including his friend Gustav Mahler.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anton%20Bruckner) 
 
