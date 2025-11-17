@@ -479,14 +479,10 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 [	ISO3166-1-numeric	 :: 702 ]
 
-
-
 [ISO2::SG]
 [ISO3::SGP] 
 
 ## #has_/map  
-
-
 
 ```leaflet
 id: Singapore
