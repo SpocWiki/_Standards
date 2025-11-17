@@ -1,5 +1,17 @@
 ---
+aliases:
+  - Sierra Leone
+  - Sierra Leona
+  - سيراليون
+  - 塞拉利昂
+  - Сьерра-Леоне
+  - the Republic of Sierra Leone
+  - la República de Sierra Leona
 flag: "[[_Standards/WikiData/WD~flag_of_Sierra_Leone,168912]]"
+has_id_wikidata: Q1044
+location:
+  - 8.48445
+  - -13.2345
 member_of:
   - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
   - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
@@ -278,10 +290,6 @@ rural_population:
   - 4833746
 population: 7557212
 coordinate_location: Point(-12.1 8.5)
-has_id_wikidata: Q1044
-location:
-  - 8.48445
-  - -13.2345
 type: Country
 tags:
   - geo/Country
@@ -301,14 +309,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Sierra Leone
-  - Sierra Leona
-  - سيراليون
-  - 塞拉利昂
-  - Сьерра-Леоне
-  - the Republic of Sierra Leone
-  - la República de Sierra Leona
 Languages:
   - en-SL
   - men
@@ -381,7 +381,11 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 [	ISO3166-1-numeric	 :: 694 ]
 
 [ISO2::SL]
+<<<<<<< HEAD
+[ISO3::SLE] 
+=======
 [ISO3::SLE]
+>>>>>>> ea7428da870b15d80ef6c9b0c7a6ec70220ace83
 
 #is_/same_as :: [[../../../../WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]] 
 
@@ -397,6 +401,9 @@ id: Sierra Leone
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
+defaultZoom: 9 
+coordinates: [[Sierra_Leone]] 
+markerFile: [[Sierra_Leone]] 
 geojsonFolder: ./Sierra_Leone//
 markerFolder: ./Sierra_Leone//
 coordinates: [[Sierra_Leone]] 

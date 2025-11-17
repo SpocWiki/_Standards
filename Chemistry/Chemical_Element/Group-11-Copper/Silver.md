@@ -111,12 +111,12 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Silver\"]"
 ZVG_number: 8350
 ---
 
+# [[Silver]]
+
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Silver,1090]] 
 
 [GroupName::Group-11-Copper]
 [Group:[[../Group-11-Copper]]
-
 
 [Name-en::Silver]
 [Name-de::Silber]
@@ -135,10 +135,10 @@ ZVG_number: 8350
 [FormEnergy-kj-mol::250.58]
 (PeriodNo::5)
 (GroupNo::11)
+#is_/same_as :: [[../../../WikiData/WD~Silver,1090]] 
 
 
 ## #has_/text_of_/abstract 
-
 
 > **Silver** is a chemical element with the symbol (Abbr::Ag) 
 > (from the Latin argentum, derived from the Proto-Indo-European h₂erǵ: "shiny" or "white") 
