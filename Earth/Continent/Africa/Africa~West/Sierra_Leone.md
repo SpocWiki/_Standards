@@ -425,7 +425,16 @@ Capital :: [[Freetown]]
 
 ## #has_/text_of_/abstract 
 
-> **Sierra Leone**, officially the Republic of Sierra Leone, is a country on the southwest coast of West Africa. It is bordered to the southeast by Liberia and by Guinea to the north. Sierra Leone's land area is 73,252 km2 (28,283 sq mi). It has a tropical climate and environments ranging from savannas to rainforests. As of the 2023 census, Sierra Leone has a population of 8,908,040. Freetown is both its capital and its largest city. The country is divided into five administrative regions, which are further subdivided into 16 districts.  
+> **Sierra Leone**, officially the Republic of Sierra Leone, 
+> is a country on the southwest coast of West Africa. 
+> 
+> It is bordered to the southeast by Liberia and by Guinea to the north. 
+> Sierra Leone's land area is 73,252 km2 (28,283 sq mi). 
+> It has a tropical climate and environments ranging from savannas to rainforests. 
+> 
+> As of the 2023 census, Sierra Leone has a population of 8,908,040. 
+> Freetown is both its capital and its largest city. 
+> The country is divided into five administrative regions, which are further subdivided into 16 districts.  
 >
 > Sierra Leone is a presidential republic, with a unicameral parliament and a directly elected president. It is a secular state. Its constitution provides for the separation of state and religion and freedom of conscience (which encompasses both freedom of thought and religion). Muslims constitute three-quarters of the population, and there is a significant Christian minority. Notably, religious tolerance is very high: it is both a social norm and part of the nation's cultural identity.
 >
