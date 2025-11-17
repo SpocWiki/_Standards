@@ -1,8 +1,39 @@
 ---
 title: Sirenia
+aliases:
+has_id_wikidata: Q25431
+named_after: "[[_Standards/WikiData/WD~siren,150986]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+start_time: -55800000-01-01T00:00:00Z
+code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+parent_taxon: "[[_Standards/WikiData/WD~Tethytheria,20862]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "180676"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/FL%20fig04.jpg
+MCN_code: 0106.12.00
+taxon_range_map_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sirenia.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sirenia%20distribution.png
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sirenia%20Diversity.jpg
+EPPO_Code: 1SIRNO
+MeSH_tree_code: B01.050.150.900.649.313.250.750
+UMLS_CUI: C0325146
+Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/SIRENI.html
+NBN_System_Key: NHMSYS0000377213
+subreddit: Seacows
+Commons_category: Sirenia
+taxon_name: Sirenia
+taxon_common_name:
+  - sjøkyr
+  - morske krave
 ---
 
 # Sirenia
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Sirenia,25431|WD~Sirenia,25431]] 
 
 ## Dugongs, sea cows, and manatees 
 
@@ -10,7 +41,11 @@ title: Sirenia
 
 ## #has_/text_of_/abstract 
 
-> The **Sirenia**, commonly referred to as sea cows or sirenians, are an order of fully aquatic, herbivorous mammals that inhabit swamps, rivers, estuaries, marine wetlands, and coastal marine waters. The extant Sirenia comprise two distinct families: Dugongidae (the dugong and the now extinct Steller's sea cow) and Trichechidae (manatees, namely the Amazonian manatee, West Indian manatee, and West African manatee) with a total of four species. The Protosirenidae (Eocene sirenians) and Prorastomidae (terrestrial sirenians) families are extinct. Sirenians are classified in the clade Paenungulata, alongside the elephants and the hyraxes, and evolved in the Eocene 50 million years ago (mya). The Dugongidae diverged from the Trichechidae in the late Eocene or early Oligocene (30–35 mya).
+> The **Sirenia**, commonly referred to as sea cows or sirenians, 
+> are an order of fully aquatic, herbivorous mammals 
+> that inhabit swamps, rivers, estuaries, marine wetlands, and coastal marine waters. 
+> 
+> The extant Sirenia comprise two distinct families: Dugongidae (the dugong and the now extinct Steller's sea cow) and Trichechidae (manatees, namely the Amazonian manatee, West Indian manatee, and West African manatee) with a total of four species. The Protosirenidae (Eocene sirenians) and Prorastomidae (terrestrial sirenians) families are extinct. Sirenians are classified in the clade Paenungulata, alongside the elephants and the hyraxes, and evolved in the Eocene 50 million years ago (mya). The Dugongidae diverged from the Trichechidae in the late Eocene or early Oligocene (30–35 mya).
 >
 > Sirenians grow to between 2.5 and 4 metres (8.2 and 13.1 feet) in length and 1,500 kilograms (3,300 pounds) in weight. The recently extinct Steller's sea cow was the largest known sirenian to have lived, reaching lengths of 10 metres (33 feet) and weights of 5 to 10 tonnes (5.5 to 11.0 short tons).
 >

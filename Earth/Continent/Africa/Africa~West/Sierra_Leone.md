@@ -381,7 +381,11 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 [	ISO3166-1-numeric	 :: 694 ]
 
 [ISO2::SL]
+<<<<<<< HEAD
 [ISO3::SLE] 
+=======
+[ISO3::SLE]
+>>>>>>> ea7428da870b15d80ef6c9b0c7a6ec70220ace83
 
 #is_/same_as :: [[../../../../WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]] 
 
@@ -402,6 +406,9 @@ coordinates: [[Sierra_Leone]]
 markerFile: [[Sierra_Leone]] 
 geojsonFolder: ./Sierra_Leone//
 markerFolder: ./Sierra_Leone//
+coordinates: [[Sierra_Leone]] 
+markerFile: [[Sierra_Leone]] 
+defaultZoom: 11 
 ```
 
 [name-en::Sierra Leone]

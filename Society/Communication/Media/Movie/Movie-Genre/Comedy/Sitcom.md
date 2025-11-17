@@ -1,3 +1,26 @@
+---
+aliases:
+has_id_wikidata: Q170238
+different_from: "[[_Standards/WikiData/WD~comedy_film,157443]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~comedic_genre,5151404]]"
+  - "[[_Standards/WikiData/WD~television_series_genre,12343431]]"
+  - "[[_Standards/WikiData/WD~radio_genre,15961983]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~comedy_television_series,9335576]]"
+  - "[[_Standards/WikiData/WD~serial,15709880]]"
+OmegaWiki_Defined_Meaning: "1289421"
+identifier_in_filmpolski_movie_database: "40576"
+IMDb_keyword:
+  - sitcom
+  - sitcom-comedy
+---
+
+# [[Sitcom]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Sitcom,170238|WD~Sitcom,170238]] 
+
+## #has_/text_of_/abstract 
 
 > Die **Sitcom** (Kofferwort für situation comedy „Situationskomödie“, siehe auch: Comedy) 
 > ist eine Unterhaltungssendung, die auf die US-amerikanischen Comedy-Shows im Hörfunk der 1930er und 1940er Jahre (Amos ’n’ Andy, The Goldbergs) zurückgeht. Das Fernsehen adaptierte das Genre, wobei es – wie früher im Radio – meist als Serie ausgestrahlt wird.
