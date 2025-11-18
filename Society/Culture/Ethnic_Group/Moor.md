@@ -2,11 +2,26 @@
 aliases:
   - Mohr
 has_id_wikidata: Q169260
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+instance_of: "[[_Standards/WikiData/WD~ethnonym,1137656]]"
+named_after: "[[_Standards/WikiData/WD~Mauretania_Tingitana,1244742]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
+Commons_category: Moors (people)
+locator_map_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Almoravid%20Empire-ca.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Almoravid%20Empire.png
+Krugosvet_article_archived_: istoriya/MAVRI.html
 ---
 
 # [[Moor]] 
 
-#is_/same_as :: [[WD~Moors,169260]] 
+#is_/same_as :: [[../../../WikiData/WD~Moors,169260|WD~Moors,169260]] 
 
 ## #has_/text_of_/abstract 
 

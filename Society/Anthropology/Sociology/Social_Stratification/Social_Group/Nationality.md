@@ -22,7 +22,7 @@ Commons_category: Nationality
 
 # [[Nationality]] 
 
-#is_/same_as :: [[WD~Nationality,231002]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Nationality,231002|WD~Nationality,231002]]  
 
 ## #has_/text_of_/abstract 
 
