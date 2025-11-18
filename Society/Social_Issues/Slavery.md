@@ -51,9 +51,14 @@ uses:
 U_S_National_Archives_Identifier: 10643066
 ---
 
+# [[Slavery]] 
+
+#is_/same_as :: [[../../WikiData/WD~Slavery,8463|WD~Slavery,8463]] 
+
 ## #has_/text_of_/abstract 
 
-> **Slavery** is the ownership of a person as property, especially in regards to their labour. Slavery typically involves compulsory work, with the slave's location of work and residence dictated by the party that holds them in bondage. Enslavement is the placement of a person into slavery, and the person is called a slave or an enslaved person (see § Terminology).
+> **Slavery** is the ownership of a person as property, especially in regards to their labour. 
+> Slavery typically involves compulsory work, with the slave's location of work and residence dictated by the party that holds them in bondage. Enslavement is the placement of a person into slavery, and the person is called a slave or an enslaved person (see § Terminology).
 >
 > Many historical cases of enslavement occurred as a result of breaking the law, becoming indebted, suffering a military defeat, or exploitation for cheaper labor; other forms of slavery were instituted along demographic lines such as race or sex. Slaves may be kept in bondage for life, or for a fixed period of time after which they would be granted freedom. Although slavery is usually involuntary and involves coercion, there are also cases where people voluntarily enter into slavery to pay a debt or earn money due to poverty. In the course of human history, slavery was a typical feature of civilization, and was legal in most societies, but it is now outlawed in most countries of the world, except as a punishment for a crime.
 >

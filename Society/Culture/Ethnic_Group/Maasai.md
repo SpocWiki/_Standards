@@ -31,7 +31,7 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%2
 
 # [[Maasai]] 
 
-#is_/same_as :: [[WD~Maasai,163022]] 
+#is_/same_as :: [[../../../WikiData/WD~Maasai,163022|WD~Maasai,163022]]  
 
 ## #has_/text_of_/abstract 
 
