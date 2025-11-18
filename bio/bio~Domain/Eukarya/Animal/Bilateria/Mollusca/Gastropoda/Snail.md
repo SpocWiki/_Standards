@@ -29,8 +29,8 @@ MeSH_tree_code: B01.050.500.644.400.750
 
 # [[Snail]]
 
+#is_/similar_to :: [[Slug]] 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Snail,308841|WD~Snail,308841]]
-
 
 ## #has_/text_of_/abstract 
 

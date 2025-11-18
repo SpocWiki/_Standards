@@ -570,12 +570,6 @@ icon: flag-si
 
 # [[Slovenia]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Slovenia 
-
-[[Slovenia/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -639,15 +633,18 @@ Sub-region_Name ::  [[Southern Europe]]
 
 [	ISO3166-1-numeric	 :: 705 ]
 
-
-
 [ISO2::SI]
 [ISO3::SVN] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Slovenia,215|WD~Slovenia,215]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Slovenia 
+
+[[Slovenia/ReadMe]] 
+
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Slovenia
@@ -656,6 +653,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Slovenia//
 markerFolder: ./Slovenia//
+coordinates: [[Slovenia]] 
+markerFile: [[Slovenia]] 
+defaultZoom: 11 
 ```
 
 [name-en::Slovenia]

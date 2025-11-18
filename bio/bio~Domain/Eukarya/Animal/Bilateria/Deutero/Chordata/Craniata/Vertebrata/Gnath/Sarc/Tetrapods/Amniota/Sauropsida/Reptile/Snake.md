@@ -45,8 +45,7 @@ hashtag_: snake
 
 # [[Snake]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Snake,2102|WD~Snake,2102]]
-
+#is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Snake,2102|WD~Snake,2102]] 
 
 ## #has_/text_of_/abstract 
 

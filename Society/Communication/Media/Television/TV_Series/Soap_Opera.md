@@ -24,11 +24,12 @@ Commons_category: Soap operas
 ---
 # [[Soap_Opera]] 
 
-#is_/same_as :: [[WD~Soap_opera,23739]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Soap_opera,23739|WD~Soap_opera,23739]]  
 
 ## #has_/text_of_/abstract 
 
-> A **Soap Opera** (also called a daytime drama or soap) is a genre of a long-running radio or television serial, 
+> A **Soap Opera** (also called a daytime drama or soap) 
+> is a genre of a long-running radio or television serial, 
 > frequently characterized by melodrama, ensemble casts, and sentimentality. 
 > The term soap opera originated from radio dramas' original sponsorship by soap manufacturers. 
 > The term was preceded by horse opera, a derogatory term for low-budget Westerns. 

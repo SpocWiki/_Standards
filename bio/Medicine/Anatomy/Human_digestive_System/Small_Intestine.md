@@ -32,6 +32,10 @@ UMLS_CUI: C0021852
 venous_drainage: '[[_Standards/WikiData/WD~hepatic_portal_vein,464543]]'
 ---
 
+# [[Small_Intestine]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Small_intestine,11090|WD~Small_intestine,11090]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Small intestine** or small bowel is an organ in the gastrointestinal tract where most of the absorption of nutrients from food takes place.  It lies between the stomach and large intestine, and receives bile and pancreatic juice through the pancreatic duct to aid in digestion. The small intestine is about 5.5 metres (18 feet) long and folds many times to fit in the abdomen. Although it is longer than the large intestine, it is called the small intestine because it is narrower in diameter.

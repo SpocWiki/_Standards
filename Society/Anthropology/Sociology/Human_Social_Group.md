@@ -31,14 +31,20 @@ MeSH_tree_code:
 
 # [[Human_Social_Group]] 
 
-#is_/same_as :: [[WD~Human_social_group,874405]] 
+#is_/same_as :: [[../../../WikiData/WD~Human_social_group,874405|WD~Human_social_group,874405]]  
 
 ## #has_/text_of_/abstract 
 
-> In the social sciences, a social group is defined as two or more people who interact with one another, share similar characteristics, and collectively have a sense of unity. Regardless, social groups come in a myriad of sizes and varieties. For example, a society can be viewed as a large social group. The system of behaviors and psychological processes occurring within a social group or between social groups is known as group dynamics.
+> In the social sciences, a social group is defined as 
+> two or more people who interact with one another, share similar characteristics, 
+> and collectively have a sense of unity. 
+> 
+> Regardless, social groups come in a myriad of sizes and varieties. 
+> For example, a society can be viewed as a large social group. 
+> 
+> The system of behaviors and psychological processes occurring 
+> within a social group or between social groups is known as group dynamics.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20group) 
-
-
 
 
