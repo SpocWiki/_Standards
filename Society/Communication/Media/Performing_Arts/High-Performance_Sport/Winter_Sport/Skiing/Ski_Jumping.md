@@ -28,7 +28,7 @@ OpenStreetMap_tag: sport=ski_jumping
 
 #is_/same_as :: [[WD~Ski_jumping,7718]] 
 
-#isakindof :: [[../Winter_Sport|Winter_Sport]]  
+#isakindof :: [[../../Winter_Sport|Winter_Sport]]  
 
 ## #has_/text_of_/abstract 
 

@@ -410,12 +410,6 @@ Libris_URI: gdsvv3l03k6z32s
 
 # [[Singapore]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Singapore 
-
-[[Singapore/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: SGD ]
 [	ISO4217-currency_name	 :: Singapore Dollar ]
 [	ISO4217-currency_numeric	 :: 702 ]
@@ -482,6 +476,13 @@ Sub-region_Name ::  [[South-eastern Asia]]
 [ISO2::SG]
 [ISO3::SGP] 
 
+#is_/same_as :: [[../../../../../WikiData/WD~Singapore,334|WD~Singapore,334]]
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Singapore 
+
+[[Singapore/ReadMe]] 
+
 ## #has_/map  
 
 ```leaflet
@@ -491,6 +492,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Singapore//
 markerFolder: ./Singapore/
+coordinates: [[Singapore]] 
+markerFile: [[Singapore]] 
+defaultZoom: 11 
 ```
 
 [name-en::Singapore]
