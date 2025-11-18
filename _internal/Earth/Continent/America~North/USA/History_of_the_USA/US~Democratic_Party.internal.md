@@ -15,6 +15,10 @@ They have a unique large and homogeneous Market, a rich Agriculture around the M
 Their military expenditures allow them to project power across the globe. 
 Therefore what happens there, matters, as soon as they turn outward. 
 
+Democratically elected Parties must not be democratic. 
+They can (easily) turn over Democracy like Hitler and Trump did. 
+
+
 ## Key Events 
 
 1789 Revolution 
