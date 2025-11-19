@@ -62,8 +62,8 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/POVARENNAYA_SOL.html
 
 # [[Table_Salt]]
 
-#has_/parts_ ::  [[Sodium_Chloride]] 
-#is_/different_from :: [[Sodium_Chloride]] 
+#has_/parts_ ::  [[../../../../../Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride]] 
+#is_/different_from :: [[../../../../../Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride]] 
 #is_/different_from :: [[../../../../../Chemistry/Inorganic_Chemistry/Salt(Chemistry)|Salt(Chemistry)]]  
 #is_/same_as :: [[../../../../../WikiData/WD~Table_salt,11254|WD~Table_salt,11254]] 
 

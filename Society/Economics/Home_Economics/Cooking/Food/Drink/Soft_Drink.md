@@ -40,7 +40,7 @@ IPTC_NewsCode: mediatopic/20000328
 
 ## #has_/text_of_/abstract 
 
-> A **Soft Drink** (see § Terminology for other names) is a class of drink containing no alcohol, 
+> A **Soft Drink** is a class of drink containing no alcohol, 
 > usually (but not necessarily) carbonated, and typically including added sweetener. 
 > 
 > Flavors can be natural, artificial or a mixture of the two. 

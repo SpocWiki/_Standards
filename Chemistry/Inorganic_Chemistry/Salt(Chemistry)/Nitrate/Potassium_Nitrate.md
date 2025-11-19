@@ -60,7 +60,7 @@ RTECS_number: TT3700000
 # [[Potassium_Nitrate]] 
 
 #has_/formula_ :: KNO³ 
-#is_/same_as :: [[../../../WikiData/WD~Potassium_nitrate,177836|WD~Potassium_nitrate,177836]]  
+#is_/same_as :: [[../../../../WikiData/WD~Potassium_nitrate,177836|WD~Potassium_nitrate,177836]]  
 
 ## #has_/text_of_/abstract 
 

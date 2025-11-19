@@ -49,7 +49,7 @@ Dewey_Decimal_Classification:
 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Salt,12370|WD~Salt,12370]] 
-#is_/different_from :: [[Sodium_Chloride]]
+#is_/different_from :: [[Salt(Chemistry)/Chloride/Sodium_Chloride]]
 
 ## #has_/text_of_/abstract 
 
