@@ -1,11 +1,12 @@
 
 # [[Rheology]]  
 
-#is_/same_as :: [[../../../WikiData/WD~Rheology,271707|WD~Rheology,271707]] 
+#is_/same_as :: [[../../../../WikiData/WD~Rheology,271707|WD~Rheology,271707]] 
 
 ## #has_/text_of_/abstract 
 
-> **Rheology** (; from Greek  ῥέω (rhéō) 'flow' and  -λoγία (-logia) 'study of') is the study of the flow of matter, primarily in a fluid (liquid or gas) state but also as "soft solids" or solids under conditions in which they respond with plastic flow rather than deforming elastically in response to an applied force. 
+> **Rheology** (from Greek  ῥέω (rhéō) 'flow' and  -λoγία (-logia) 'study of') 
+> is the study of the flow of matter, primarily in a fluid (liquid or gas) state but also as "soft solids" or solids under conditions in which they respond with plastic flow rather than deforming elastically in response to an applied force. 
 > Rheology is the branch of physics that deals with the deformation 
 > and flow of materials, both solids and liquids.
 >
