@@ -20,11 +20,19 @@ Wolfram_Language_entity_code: Entity["FoodType", "Oil"]
 
 # [[Cooking_Oil]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Cooking_oil,427457|WD~Cooking_oil,427457]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Cooking_oil,427457|WD~Cooking_oil,427457]] 
 
 ## #has_/text_of_/abstract 
 
-> Cooking oil (also known as edible oil) is a plant or animal liquid fat used in frying, baking, and other types of cooking. Oil allows higher cooking temperatures than water, making cooking faster and more flavorful, while likewise distributing heat, reducing burning and uneven cooking. It sometimes imparts its own flavor. Cooking oil is also used in food preparation and flavoring not involving heat, such as salad dressings and bread dips.
+> Cooking oil (also known as edible oil) is a plant or animal liquid fat 
+> used in frying, baking, and other types of cooking. 
+> 
+> Oil allows higher cooking temperatures than water, 
+> making cooking faster and more flavorful, while likewise distributing heat, 
+> reducing burning and uneven cooking. 
+> 
+> It sometimes imparts its own flavor. 
+> Cooking oil is also used in food preparation and flavoring not involving heat, such as salad dressings and bread dips.
 >
 > Cooking oil is typically a liquid at room temperature, although some oils that contain saturated fat, such as coconut oil, palm oil and palm kernel oil are solid.
 >

@@ -1,5 +1,27 @@
+---
+aliases:
+  - Hydroxide_Salt
+  - Hydroxide salt
+  - Hydroxide
+has_id_wikidata: Q425597
+has_part_s_: "[[_Standards/WikiData/WD~hydroxide_ion,199877]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+subclass_of: "[[_Standards/WikiData/WD~ionic_compound,2366155]]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+different_from: "[[_Standards/WikiData/WD~hydroxy_compound,71421787]]"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/AlHydrolysis.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Hydroxide-3D-vdW.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Hydroxide-lone-pairs-2D.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Rio%20Tinto%207.jpg
+MeSH_tree_code:
+  - D01.045.250
+  - D01.248.497.158.459
+---
 
-# [[Hydroxide_Salt]] 
+# [[Hydroxide]] 
 
 #is_/same_as :: [[WikiData/WD~Hydroxide_salt,425597|WD~Hydroxide_salt,425597]] 
 

@@ -72,7 +72,7 @@ RTECS_number: EV9800000
 #has_/formula_/sum :: CaCl² 
 #has_/formula_/structural ::  Cl-Ca-Cl 
 
-#is_/same_as :: [[../../../WikiData/WD~Calcium_chloride,208451|WD~Calcium_chloride,208451]] 
+#is_/same_as :: [[../../../../WikiData/WD~Calcium_chloride,208451|WD~Calcium_chloride,208451]] 
 
 ## #has_/text_of_/abstract 
 

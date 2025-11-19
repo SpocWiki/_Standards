@@ -59,9 +59,9 @@ Commons_category: Olive oil
 >
 > The composition of olive oil varies with the cultivar, altitude, time of harvest, and extraction process. 
 > It consists mainly of 
-> - [[../../../../../bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid|Oleic_Acid]] (up to 83%), with smaller amounts of other fatty acids including 
-> - [[../../../../../bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid|Linoleic_Acid]] (up to 21%) and 
-> - [[../../../../../bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid|Palmitic_Acid]] (up to 20%). 
+> - [[../../../../../../bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid|Oleic_Acid]] (up to 83%), with smaller amounts of other fatty acids including 
+> - [[../../../../../../bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid|Linoleic_Acid]] (up to 21%) and 
+> - [[../../../../../../bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid|Palmitic_Acid]] (up to 20%). 
 > 
 > Extra virgin olive oil (EVOO) is required to have no more than 0.8% free acidity, 
 > and is considered to have favorable flavor characteristics.

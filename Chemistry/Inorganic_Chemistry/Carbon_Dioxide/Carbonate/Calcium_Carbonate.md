@@ -23,7 +23,7 @@ O    O
 ```
   
 
-#is_/same_as :: [[../../../WikiData/WD~Calcium_carbonate,23767|WD~Calcium_carbonate,23767]] 
+#is_/same_as :: [[../../../../WikiData/WD~Calcium_carbonate,23767|WD~Calcium_carbonate,23767]] 
 
 ## #has_/text_of_/abstract 
 
