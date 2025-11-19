@@ -814,7 +814,7 @@ Major Cities with Population in 1000s as of @2020
 | [[USA/USA~Central/Indiana/counties~Indiana/Marion,County/cities~Marion/Indianapolis\|Indianapolis]]                       | [[USA/USA~Central/Indiana\|Indiana]]               |  887.642 |
 | [[USA/USA~Pacific/Washington,State/counties~Washington/King,County/cities~King/Seattle\|Seattle]]                               | [[USA/USA~Pacific/Washington,State\|Washington]]         |  737.015 |
 | [[USA/USA~Mountain/Colorado/counties~Colorado/Denver,County/cities~Denver/Denver\|Denver]]                                | [[USA/USA~Mountain/Colorado\|Colorado]]            |  715.522 |
-| [[USA/USA~Eastern/District_of_Columbia/cities~DC/Washington,DC\|Washington,DC]]                                           | [[USA/USA~Eastern/District_of_Columbia\|District of Columbia]]                               |  689.545 |
+| [[USA/USA~Eastern/District_of_Columbia/Washington,DC\|Washington,DC]]                                           | [[USA/USA~Eastern/District_of_Columbia\|District of Columbia]]                               |  689.545 |
 | [[USA/USA~Eastern/New_England/Massachusetts/counties~Massachusetts/Suffolk,County/cities~Suffolk/Boston,MA\|Boston]]                     | [[USA/USA~Eastern/New_England/Massachusetts\|Massachusetts]]   |  675.647 |
 | [[El Paso]]                                                                                                               | [[USA/USA~Mountain/Texas\|Texas]]                  |  678.815 |
 | [[USA/USA~Central/Tennessee/counties~Tennessee/Davidson,County/cities~Davidson/Nashville\|Nashville]]                     | [[USA/USA~Central/Tennessee\|Tennessee]]           |  689.447 |

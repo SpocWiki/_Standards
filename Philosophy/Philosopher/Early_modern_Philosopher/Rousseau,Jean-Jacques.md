@@ -150,7 +150,7 @@ ISNI: "0000000121451116"
 > as well as aspects of the French Revolution 
 > and the development of modern political, economic, and educational thought.
 > 
-> His Discourse on Inequality, which argues that private property is the source of inequality, and The [[Social_Contract]], which outlines the basis for a legitimate political order, are cornerstones in modern political and social thought. 
+> His Discourse on Inequality, which argues that private property is the source of inequality, and The [[../../../Society/Politics/Social_Contract]], which outlines the basis for a legitimate political order, are cornerstones in modern political and social thought. 
 > 
 > Rousseau's sentimental novel Julie, or the New Heloise (1761) was important to the development of preromanticism and romanticism in fiction. 
 > 

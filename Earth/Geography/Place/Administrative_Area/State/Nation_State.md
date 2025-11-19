@@ -21,7 +21,7 @@ described_at_URL: https://wikispooks.com/wiki/Nation_state
 
 > A nation state, or nation-state, is a political entity in which the state 
 > (a centralized political organization ruling over a population within a territory) 
-> and the [[../../../../../Society/Anthropology/Sociology/Social_Stratification/Social_Group/Nation|Nation]] (a community based on a common identity) 
+> and the [[../../../../../Society/Anthropology/Sociology/Human_Social_Group/Nation|Nation]] (a community based on a common identity) 
 > are broadly or ideally congruent. 
 > 
 > "Nation state" is a more precise concept than "country" or "state", 

@@ -393,12 +393,6 @@ icon: flag-sk
 
 # [[Slovakia]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Slovakia 
-
-[[Slovakia/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -462,15 +456,17 @@ Sub-region_Name ::  [[Eastern Europe]]
 
 [	ISO3166-1-numeric	 :: 703 ]
 
-
-
 [ISO2::SK]
 [ISO3::SVK] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Slovakia,214|WD~Slovakia,214]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Slovakia 
+
+[[Slovakia/ReadMe]] 
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Slovakia
@@ -479,6 +475,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Slovakia//
 markerFolder: ./Slovakia//
+coordinates: [[Slovakia]] 
+markerFile: [[Slovakia]] 
+defaultZoom: 11 
 ```
 
 [name-en::Slovakia]
