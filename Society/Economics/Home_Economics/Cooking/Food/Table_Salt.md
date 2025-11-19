@@ -60,30 +60,28 @@ OpenStreetMap_tag: Key:salt
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/POVARENNAYA_SOL.html
 ---
 
-
-# [[Table_salt]]
+# [[Table_Salt]]
 
 #has_/parts_ ::  [[Sodium_Chloride]] 
 #is_/different_from :: [[Sodium_Chloride]] 
 #is_/different_from :: [[../../../../../Chemistry/Inorganic_Chemistry/Salt(Chemistry)|Salt(Chemistry)]]  
-#is_/same_as :: [[../../../../../WikiData/WD~Table_salt,11254|WD~Table_salt,11254]]
-
+#is_/same_as :: [[../../../../../WikiData/WD~Table_salt,11254|WD~Table_salt,11254]] 
 
 ## #has_/text_of_/abstract 
 
 > In common usage, **Salt** is a mineral composed primarily of sodium chloride (NaCl). 
 > When used in food, especially in granulated form, it is more formally called table salt. 
->
+> 
 > In the form of a natural crystalline mineral, salt is also known as rock salt or halite. 
->
+> 
 > Salt is essential for life in general 
 > (being the source of the essential dietary minerals sodium and chlorine), 
 > and saltiness is one of the basic human tastes. 
->
+> 
 > Salt is one of the oldest and most ubiquitous food seasonings, 
 > and is known to uniformly improve the taste perception of food, 
 > including otherwise unpalatable food. 
->
+> 
 > Salting, brining, and pickling are ancient and important methods of food preservation.
 >
 > Some of the earliest evidence of salt processing dates to around 6000 BC, 

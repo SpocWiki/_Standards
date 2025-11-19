@@ -35,7 +35,7 @@ native_label: Socialist International
 
 # [[Socialist_International]] 
 
-#is_/same_as :: [[WD~Socialist_International,159454]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Socialist_International,159454|WD~Socialist_International,159454]]  
 
 ## #has_/text_of_/abstract 
 
