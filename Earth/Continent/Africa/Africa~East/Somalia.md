@@ -249,7 +249,6 @@ rural_population:
   - 9269665
 inception: "1960"
 has_time_started: 1960-06 
-has_time_started: 1960-01-01 
 population: 11031386
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Somalia.svg"
 U_S_National_Archives_Identifier: 10035818
@@ -324,12 +323,6 @@ Languages:
 
 # [Somalia](.md) 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Reunion 
-
-[ReadMe](Mascarene-Islands/Reunion/ReadMe.md) 
-
-
 [	ISO4217-currency_alphabetic	 :: SOS ]
 [	ISO4217-currency_name	 :: Somali Shilling ]
 [	ISO4217-currency_numeric	 :: 706 ]
@@ -393,10 +386,18 @@ Sub-region_Name ::  [Sub-Saharan Africa](Sub-Saharan%20Africa)
 
 [	ISO3166-1-numeric	 :: 706 ]
 
-
-
 [ISO2::SO]
 [ISO3::SOM]
+
+#is_/same_as :: [[../../../../WikiData/WD~Somalia,1045|WD~Somalia,1045]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Reunion 
+
+[ReadMe](Mascarene-Islands/Reunion/ReadMe.md) 
+
+## #has_/map 
+
 ```leaflet
 id: Somalia
 zoomFeatures: true 
@@ -404,6 +405,10 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Somalia//
 markerFolder: ./Somalia//
+coordinates: [[Somalia]] 
+markerFile: [[Somalia]] 
+zoomFeatures: true
+defaultZoom: 5 
 ```
 
 [name-en::Somalia]

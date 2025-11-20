@@ -22,6 +22,10 @@ subclass_of: '[[_Standards/WikiData/WD~matter,35758]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q9734169,9734169]]'
 ---
 
+# [[Solid]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Solid,11438|WD~Solid,11438]] 
+
 ## #has_/text_of_/abstract 
 
 > **Solid** is one of the four fundamental states of matter along with liquid, gas, and plasma. 
