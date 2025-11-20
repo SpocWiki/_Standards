@@ -21,7 +21,7 @@ Commons_category: Condensed matter physics
 PhilPapers_topic: condensed-matter-physics
 ---
 
-# [[Condensed_Matter_Physics1]] 
+# [[Condensed_Matter_Physics]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Condensed_matter_physics,214781|WD~Condensed_matter_physics,214781]] 
 
