@@ -8,12 +8,12 @@ aliases:
   - Соломоновы Острова
   - las Islas Salomón
   - Islas Salomón (las)
+has_id_wikidata: Q685
 confidential: public
 cssclasses:
   - Country
 draft: false
 expiryDate:
-has_id_wikidata: Q685
 icon: flag-sb
 isDeleted: false
 isReadOnly: false
@@ -37,7 +37,7 @@ title: Solomon Islands
 type: Country
 ---
 
-# [[Solomon~Islands]] 
+# [[Solomon_Islands]] 
 
 [	ISO4217-currency_alphabetic	 :: SBD ] 
 [	ISO4217-currency_name	 :: Solomon Islands Dollar ] 
@@ -102,14 +102,12 @@ Sub-region_Name ::  [[Melanesia]]
 
 [	ISO3166-1-numeric	 :: 090 ] 
 
-
-
 [ISO2::SB] 
 [ISO3::SLB]  
 
+#is_/same_as :: [[../../../../WikiData/WD~Solomon_Islands,685|WD~Solomon_Islands,685]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Solomon Islands
@@ -126,7 +124,7 @@ markerFolder: ./Solomon_Islands/
 [Area-Land::27990] 
 has_place_continent:: [[Oceania]]  
 [VehicleCode::SOL] 
-Capital :: [[Honiara]]  
+Capital :: [[Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara]]  
 [Alcohol-l::1.7] 
 [Language-Id::499] 
 #is_a_/Place  
