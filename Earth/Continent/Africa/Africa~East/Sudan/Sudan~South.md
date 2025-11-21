@@ -1,4 +1,15 @@
 ---
+aliases:
+  - South Sudan
+  - Sudán del Sur
+  - Soudan du Sud
+  - جنوب السودان
+  - 南苏丹
+  - Южный Судан
+  - the Republic of South Sudan
+  - la República de Sudán del Sur
+  - South_Sudan
+has_id_wikidata: Q958
 instance_of:
   - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
   - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
@@ -318,7 +329,6 @@ has_time_started: 2011-07-09
 Unicode_character: 🇸🇩
 coordinates_of_easternmost_point: Point(35.949 4.63103)
 coordinates_of_northernmost_point: Point(32.73159 12.23638)
-has_id_wikidata: Q958
 title: South Sudan
 type: Country
 license: CC BY-SA 4.0
@@ -337,29 +347,11 @@ publishDate:
 expiryDate:
 tags:
   - geo/Country
-aliases:
-  - South Sudan
-  - South Sudan
-  - Sudán del Sur
-  - Soudan du Sud
-  - جنوب السودان
-  - 南苏丹
-  - Южный Судан
-  - the Republic of South Sudan
-  - South Sudan
-  - la República de Sudán del Sur
-  - Sudán del Sur
 Languages:
   - en
 ---
 
 # [[Sudan~South]]  
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Sudan-South 
-
-[[Sudan~South/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: SSP ]
 [	ISO4217-currency_name	 :: South Sudanese Pound ]
@@ -369,6 +361,14 @@ For more Details, check out this Repository into this Subfolder:
 
 [	Telephone	 :: 211 ]
 
+#is_/same_as :: [[../../../../../WikiData/WD~South_Sudan,958|WD~South_Sudan,958]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Sudan-South 
+
+[[Sudan~South/ReadMe]] 
+
+## #has_/map 
 
 ```leaflet
 id: South Africa
@@ -438,7 +438,15 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 ## #has_/text_of_/abstract 
 
-> **South Sudan** (), officially the Republic of South Sudan, is a landlocked country in East Africa. It is bordered on the north by Sudan; on the east by Ethiopia; on the south by the Democratic Republic of the Congo, Uganda and Kenya; and on the west by the Central African Republic. South Sudan's diverse landscape includes vast plains and plateaus, dry and tropical savannahs, inland floodplains, and forested mountains. The Nile River system is the defining physical feature of the country, running south to north across its center, which is dominated by a large swamp known as the Sudd. South Sudan has a population of 12.7 million. Juba is the capital and largest city.
+> **South Sudan**, officially the Republic of South Sudan, is a landlocked country in East Africa. 
+> It is bordered on the north by Sudan; on the east by Ethiopia; 
+> on the south by the Democratic Republic of the Congo, Uganda and Kenya; 
+> and on the west by the Central African Republic. 
+> 
+> South Sudan's diverse landscape includes vast plains and plateaus, 
+> dry and tropical savannahs, inland floodplains, and forested mountains. 
+> 
+> The Nile River system is the defining physical feature of the country, running south to north across its center, which is dominated by a large swamp known as the Sudd. South Sudan has a population of 12.7 million. Juba is the capital and largest city.
 >
 > Sudan was occupied by Egypt under the Muhammad Ali dynasty and governed as an Anglo-Egyptian condominium until Sudanese independence in 1956. Following the First Sudanese Civil War, the Southern Sudan Autonomous Region was formed in 1972 and lasted until 1983. A second Sudanese civil war soon broke out in 1983 and ended in 2005 with the Comprehensive Peace Agreement. Later that year, southern autonomy was restored when an Autonomous Government of Southern Sudan was formed. South Sudan became an independent state on 9 July 2011, following 98.8% support for independence in a January 2011 referendum. It is the most recent sovereign state with widespread recognition as of 2024.
 >
