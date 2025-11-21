@@ -1,0 +1,130 @@
+---
+aliases:
+  - Solanum_melongena
+  - Solanum melongena
+  - Eggplant
+  - aubergine
+  - brinjal
+  - baigan
+has_id_wikidata: Q7540
+subclass_of:
+  - "[[_Standards/WikiData/WD~perennial_plant,157957]]"
+  - "[[_Standards/WikiData/WD~annual_plant,192691]]"
+  - "[[_Standards/WikiData/WD~cultivated_edible_plant,1086824]]"
+  - "[[_Standards/WikiData/WD~useful_plant,11992872]]"
+  - "[[_Standards/WikiData/WD~poisonous_plant,21028485]]"
+has_use:
+  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
+  - "[[_Standards/WikiData/WD~fodder,211439]]"
+  - "[[_Standards/WikiData/WD~vegetable,11004]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
+  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_67(1),112869471]]"
+part_of: "[[_Standards/WikiData/WD~Egyptian_cuisine,1346230]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~eggplant,12533094]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25690816,25690816]]"
+depicted_by: "[[_Standards/WikiData/WD~_,55267268]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+hardiness_of_plant: "[[_Standards/WikiData/WD~9,99549596]]"
+taxon_range:
+  - "[[_Standards/WikiData/WD~Myanmar,836]]"
+  - "[[_Standards/WikiData/WD~Beijing,956]]"
+  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
+  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+has_fruit_type: "[[_Standards/WikiData/WD~berry,13184]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+USDA_NDB_number: "11209"
+PLU_code:
+  - "4600"
+  - "4602"
+ITIS_TSN: "30446"
+OmegaWiki_Defined_Meaning: "507273"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Solanum%20melongena%2024%2008%202012%20%281%29.JPG
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Des%20aubergines%20violettes.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Eggplant%20from%20Ivory%20Coast%2010.jpg
+taxon_common_name:
+  - aubergine
+  - 茄
+  - 茄
+  - 茄子
+  - eggplant
+  - jajčevec
+  - 茄子
+  - berenxenera
+  - lilek vejcoplodý
+  - brinjal
+  - patamunakoiso
+  - 茄（白茄、大圆茄）
+  - 茄叶
+  - 茄子根
+  - 茄根
+  - 茄花
+  - 茄蒂
+  - 吊菜子
+  - 白茄
+  - 矮瓜
+  - 紫茄
+  - 落苏
+Commons_gallery: Solanum melongena
+Commons_category: Solanum melongena
+taxon_name: Solanum melongena
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AC%E0%A7%87%E0%A6%97%E0%A7%81%E0%A6%A8.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Tuung.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Rocky%20734-%E1%B1%B5%E1%B1%AE%E1%B1%B8%E1%B1%9C%E1%B1%9F%E1%B1%B2.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Q7540-ar.ogg
+taxon_author_citation: L.
+Unicode_character: 🍆
+described_at_URL: http://nadeaud.ilm.pf/liste-bibliotaxons?page=634
+GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=101312
+UNII: 5DS5EE0N93
+Amazon_com_browse_node: "724702011"
+MeSH_tree_code: B01.875.800.575.912.250.908.500.725.666
+UMLS_CUI: C1123002
+Krugosvet_article_archived_: nauka_i_tehnika/biologiya/BAKLAZHAN.html
+NBN_System_Key: NBNSYS0200003200
+EPPO_Code: SOLME
+short_name: S. melongena
+external_data_available_at_URL: https://www.gbif.org/dataset/93725bf2-6ada-47f9-bd5e-0e679e3d245e
+---
+
+# [[Eggplant]] 
+
+#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Solanum_melongena,7540|WD~Solanum_melongena,7540]]  
+
+## #has_/text_of_/abstract 
+
+> Eggplant (in North American, Australian, and Philippine English), 
+> aubergine (in British, Irish, and New Zealand English), 
+> brinjal (in Bangladeshi, Indian, Singapore, Malaysian, South African, and Sri Lankan English), 
+> or baigan (in Caribbean English) is a plant species in the nightshade family Solanaceae. 
+> Solanum melongena is grown worldwide for its edible fruit, 
+> typically used as a vegetable in cooking.
+>
+> Most commonly purple, the spongy, absorbent fruit is used in several cuisines. 
+> It is a berry by botanical definition. 
+> 
+> As a member of the genus Solanum, it is related to the tomato, chili pepper, and potato, 
+> although those are of the Americas region while the eggplant is of the Eurasia region. 
+> 
+> Like the tomato, its skin and seeds can be eaten, but it is usually eaten cooked. 
+> Eggplant is **nutritionally low** in macronutrient and micronutrient content, 
+> but the capability of the fruit to absorb oils and flavors into its flesh through cooking 
+> expands its use in the culinary arts.
+>
+> It was originally domesticated from the wild nightshade species thorn or bitter apple, 
+> S. incanum, probably with two independent domestications: 
+> one in South Asia, and one in East Asia. 
+> 
+> In 2023, world production of eggplants was 61 million tonnes, 
+> with China and India combining for 85% of the total.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Eggplant) 
+
