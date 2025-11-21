@@ -3,7 +3,6 @@
 The Western Part of the Pacific extends from East Asia 
 to the international Date Line at Longitude 180° .
 
-
 ## #has_/map 
 
 ```leaflet
