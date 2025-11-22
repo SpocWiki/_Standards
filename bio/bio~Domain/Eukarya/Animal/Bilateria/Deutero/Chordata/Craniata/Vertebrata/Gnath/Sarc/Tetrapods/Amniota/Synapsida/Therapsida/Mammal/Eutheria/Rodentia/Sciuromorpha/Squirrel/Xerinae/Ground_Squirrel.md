@@ -23,7 +23,7 @@ taxon_common_name: ground squirrel
 
 > Ground squirrels are rodents of the squirrel family (Sciuridae) 
 > that generally live on the ground or in burrows, rather than in trees like the tree squirrels. 
->
+> 
 > The term is most often used for the medium-sized ground squirrels, 
 > as the larger ones are more commonly known as marmots (genus Marmota) or prairie dogs, 
 > while the smaller and less bushy-tailed ground squirrels 
