@@ -2,6 +2,7 @@
 aliases:
   - Soybean
   - Sojabohnen
+  - soy bean, or soya bean (Glycine max
 has_id_wikidata: Q11006
 taxon_author_citation:
   - (L.) Merr.
@@ -118,20 +119,54 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=17711
 sequenced_genome_URL: https://plants.ensembl.org/Glycine_max
 ---
 
-
 # [[Soybean]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Soybean,11006|WD~Soybean,11006]]
-
+#is_/same_as :: [[../../../../../../WikiData/WD~Soybean,11006|WD~Soybean,11006]] 
 
 ## #has_/text_of_/abstract 
 
-> The **Soybean**, soy bean, or soya bean (Glycine max) is a species of legume native to East Asia, widely grown for its edible bean. Soy is a staple crop, the world's most grown legume, and an important animal feed.
+> The **Soybean**, soy bean, or soya bean (Glycine max) is a species of legume native to East Asia, 
+> widely grown for its edible bean. 
+> Soy is a staple crop, the world's most grown legume, and an important animal feed.
 >
-> Soy is a key source of food, useful both for its protein and oil content. Soybean oil is widely used in cooking, as well as in industry. Traditional unfermented food uses of soybeans include edamame, as well as soy milk, from which tofu and tofu skin are made. Fermented soy foods include soy sauce, fermented bean paste, nattō, and tempeh. Fat-free (defatted) soybean meal is a significant and cheap source of protein for animal feeds and many packaged meals. For example, soybean products, such as textured vegetable protein (TVP), are ingredients in many meat and dairy substitutes. Soy based foods are traditionally associated with East Asian cuisines, and still constitute a major part of East Asian diets, but processed soy products are increasingly used in Western cuisines.
+> Soy is a key source of food, useful both for its protein and oil content. 
+> Soybean oil is widely used in cooking, as well as in industry. 
+> 
+> Traditional unfermented food uses of soybeans include edamame, 
+> as well as soy milk, from which tofu and tofu skin are made. 
+> 
+> Fermented soy foods include soy sauce, fermented bean paste, nattō, and tempeh. 
+> Fat-free (defatted) soybean meal is a significant 
+> and cheap source of protein for animal feeds and many packaged meals. 
+> For example, soybean products, such as textured vegetable protein (TVP), 
+> are ingredients in many meat and dairy substitutes. 
+> 
+> Soy based foods are traditionally associated with East Asian cuisines, 
+> and still constitute a major part of East Asian diets, 
+> but processed soy products are increasingly used in Western cuisines.
 >
-> Soy was domesticated from the wild soybean (Glycine soja) in north-central China between 6,000–9,000 years ago. Brazil and the United States lead the world in modern soy production. The majority of soybeans are genetically modified, usually for either insect, herbicide, or drought resistance. Three-quarters of soy is used to feed livestock, which in turn go to feed humans. Increasing demand for meat has substantially increased soy production since the 1980's, and contributed to deforestation in the Amazon. 
+> Soy was domesticated from the wild soybean (Glycine soja) 
+> in north-central China between 6,000–9,000 years ago. 
+> 
+> Brazil and the United States lead the world in modern soy production. 
+> 
+> The majority of soybeans are genetically modified, 
+> usually for either insect, herbicide, or drought resistance. 
+> 
+> Three-quarters of soy is used to feed livestock, which in turn go to feed humans. 
+> Increasing demand for meat has substantially increased soy production since the 1980's, 
+> and contributed to deforestation in the Amazon. 
 >
-> Soybeans contain significant amounts of phytic acid, dietary minerals and B vitamins. Soy may reduce the risk of cancer and heart disease. Some people are allergic to soy. Soy is a complete protein and therefore important in the diets of many vegetarians and vegans. The association of soy with vegans and the misconception that soy increases estrogen production have led to "soy boy" being used as a derogatory term.
+> Soybeans contain significant amounts of phytic acid, dietary minerals and B vitamins. 
+> Soy may reduce the risk of cancer and heart disease. 
+> 
+> Some people are allergic to soy. 
+> 
+> Soy is a complete protein and therefore important in the diets of many vegetarians and vegans. 
+> 
+> The association of soy with vegans 
+> and the misconception that soy increases estrogen production 
+> have led to "soy boy" being used as a derogatory term.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Soybean)
+> [Wikipedia](https://en.wikipedia.org/wiki/Soybean) 
+

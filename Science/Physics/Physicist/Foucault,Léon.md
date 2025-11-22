@@ -95,7 +95,7 @@ AGORHA_UUID: 82c608f7-3df5-4569-93c6-e31ab6cbdf58
 > best known for his demonstration of the [[../Classical_Mechanics/Foucault_Pendulum|Foucault_Pendulum]], 
 > a device demonstrating the effect of Earth's rotation. 
 > 
-> He also made an early measurement of the [[../Speed_of_Light|speed of light]], discovered eddy currents, 
+> He also made an early measurement of the [[../Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light|speed of light]], discovered eddy currents, 
 > and is credited with naming the [[../../../Technology/Tool/Instrumentation/Gyroscope|gyroscope]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/L%C3%A9on%20Foucault) 

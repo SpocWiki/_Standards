@@ -67,9 +67,17 @@ Wikidata_usage_instructions: "Use audio track (Q7302866) instead for track on a 
 
 # [[Song]]
 
+#is_/same_as :: [[../../../../WikiData/WD~Song,7366|WD~Song,7366]] 
+
 ## #has_/text_of_/abstract 
 
-> A **Song** is a musical composition performed by the human voice. The voice often carries the melody (a series of distinct and fixed pitches) using patterns of sound and silence. Songs have a structure to them, such as the common ABA form, and are usually made of sections that are repeated or performed with variation later. A song without instruments is said to be a cappella.
+> A **Song** is a musical composition performed by the human voice. 
+> The voice often carries the melody (a series of distinct and fixed pitches) 
+> using patterns of sound and silence. 
+> 
+> Songs have a structure to them, such as the common ABA form, 
+> and are usually made of sections that are repeated or performed with variation later. 
+> A song without instruments is said to be a cappella.
 >
 > Written words  created specifically for music, or for which music is specifically created, are called lyrics. If a pre-existing poem is set to composed music in classical music, it is an art song. Songs that are sung on repeated pitches without distinct contours and patterns that rise and fall are called chants. Songs composed in a simple style that are learned informally by ear are often referred to as folk songs. Songs composed for the mass market, designed to be sung by professional singers who sell their recordings or live shows, are called popular songs. These songs, which have broad appeal, are often composed by professional songwriters, composers, and lyricists; art songs are composed by trained classical composers for concert or recital performances. Songs are performed in studios and an audio recording is made, or they are performed live for audience. (In some cases a song may be performed live and simultaneously recorded.) Songs may also appear in theatre (e.g., opera), films and TV shows.
 >
