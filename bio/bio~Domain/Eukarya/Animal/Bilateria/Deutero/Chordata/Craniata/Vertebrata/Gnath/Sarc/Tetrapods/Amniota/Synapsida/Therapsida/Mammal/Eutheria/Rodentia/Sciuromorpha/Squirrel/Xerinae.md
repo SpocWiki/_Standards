@@ -55,7 +55,7 @@ UMLS_CUI: C1648590
     -   [Pteromyini](Pteromyini.md)
 
 -   » Sub-Groups
-    -   [Marmotini](Xerinae/Marmotini.md)
+    -   [Ground_Squirrel](Xerinae/Ground_Squirrel.md)
     -   [Protoxerini](Xerinae/Protoxerini.md)
     -   [Xerini](Xerinae/Xerini.md)
 

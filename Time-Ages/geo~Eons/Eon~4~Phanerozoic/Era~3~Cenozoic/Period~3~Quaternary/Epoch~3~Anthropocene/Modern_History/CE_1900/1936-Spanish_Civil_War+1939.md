@@ -25,7 +25,7 @@ EcuRed_article: Guerra_civil_española
 ---
 
 
-# [[Spanish_Civil_War]]
+# [[1936-Spanish_Civil_War+1939]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Spanish_Civil_War,10859|WD~Spanish_Civil_War,10859]]
 

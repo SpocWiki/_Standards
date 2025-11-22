@@ -52,7 +52,7 @@ coordinate_location: Point(-3.68333333 40.41666667)
 ---
 
 
-# [[1492-1976_Spanish_Empire]]
+# [[1492-Spanish_Empire+1976]]
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]
 

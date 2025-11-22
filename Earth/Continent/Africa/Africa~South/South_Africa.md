@@ -458,12 +458,6 @@ Languages:
 
 # [[South_Africa]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-South_Africa 
-
-[[South_Africa/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: ZAR ]
 [	ISO4217-currency_name	 :: Rand ]
 [	ISO4217-currency_numeric	 :: 710 ]
@@ -527,10 +521,18 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 710 ]
 
-
-
 [ISO2::ZA]
 [ISO3::ZAF]
+
+#is_/same_as :: [[../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-South_Africa 
+
+[[South_Africa/ReadMe]] 
+
+## #has_/map 
+
 ```leaflet
 id: South Africa
 zoomFeatures: true 
@@ -538,6 +540,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./South_Africa//
 markerFolder: ./South_Africa//
+coordinates: [[South_Africa]] 
+markerFile: [[South_Africa]] 
+defaultZoom: 5 
 ```
 
 [name-en::South Africa]

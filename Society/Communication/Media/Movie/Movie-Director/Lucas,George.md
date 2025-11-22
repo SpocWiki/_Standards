@@ -94,14 +94,23 @@ ISNI:
   - "0000000120966492"
 ---
 
-# [[George_Lucas]] 
+# [[Lucas,George]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~George_Lucas,38222|WD~George_Lucas,38222]] 
 ## #has_/text_of_/abstract 
 
-> George Walton Lucas Jr. (born May 14, 1944) is an American filmmaker and philanthropist. He created the Star Wars and Indiana Jones franchises and founded  Lucasfilm, LucasArts, Industrial Light & Magic and THX. He served as chairman of Lucasfilm before selling it to the Walt Disney Company in 2012. Nominated for four Academy Awards, he is considered to be one of the most significant figures of the 20th-century New Hollywood movement, and a pioneer of the modern blockbuster. Despite this, he has remained an independent filmmaker for most of his career.
+> George Walton Lucas Jr. (born May 14, 1944) is an American filmmaker and philanthropist. 
+> He created the Star Wars and Indiana Jones franchises and founded  Lucasfilm, 
+> LucasArts, Industrial Light & Magic and THX. 
+> 
+> He served as chairman of Lucasfilm before selling it to the Walt Disney Company in 2012. 
+> Nominated for four Academy Awards, he is considered to be 
+> one of the most significant figures of the 20th-century New Hollywood movement, 
+> and a pioneer of the modern blockbuster. 
+> Despite this, he has remained an independent filmmaker for most of his career.
 >
-> After graduating from the University of Southern California in 1967, Lucas moved to San Francisco and co-founded American Zoetrope with filmmaker Francis Ford Coppola. He wrote and directed THX 1138 (1971), based on his student short Electronic Labyrinth: THX 1138 4EB, which was a critical success but a financial failure. His next work as a writer-director was American Graffiti (1973), inspired by his youth in early 1960s Modesto, California, and produced through the newly founded Lucasfilm. The film was critically and commercially successful and received five Academy Award nominations, including Best Director and Best Picture. Lucas's next film, the epic space opera Star Wars (1977), later retitled A New Hope, had a troubled production but was a surprise hit, becoming the highest-grossing film at the time, winning six Academy Awards and sparking a cultural phenomenon. Lucas produced and co-wrote the sequels The Empire Strikes Back (1980) and Return of the Jedi (1983). With director Steven Spielberg, he created, produced, and co-wrote Indiana Jones films Raiders of the Lost Ark (1981), The Temple of Doom (1984), The Last Crusade (1989) and The Kingdom of the Crystal Skull (2008), and served as an executive producer, with a cursory involvement in pre and post-production, on The Dial of Destiny (2023).
+> After graduating from the University of Southern California in 1967, 
+> Lucas moved to San Francisco and co-founded American Zoetrope with filmmaker Francis Ford Coppola. He wrote and directed THX 1138 (1971), based on his student short Electronic Labyrinth: THX 1138 4EB, which was a critical success but a financial failure. His next work as a writer-director was American Graffiti (1973), inspired by his youth in early 1960s Modesto, California, and produced through the newly founded Lucasfilm. The film was critically and commercially successful and received five Academy Award nominations, including Best Director and Best Picture. Lucas's next film, the epic space opera Star Wars (1977), later retitled A New Hope, had a troubled production but was a surprise hit, becoming the highest-grossing film at the time, winning six Academy Awards and sparking a cultural phenomenon. Lucas produced and co-wrote the sequels The Empire Strikes Back (1980) and Return of the Jedi (1983). With director Steven Spielberg, he created, produced, and co-wrote Indiana Jones films Raiders of the Lost Ark (1981), The Temple of Doom (1984), The Last Crusade (1989) and The Kingdom of the Crystal Skull (2008), and served as an executive producer, with a cursory involvement in pre and post-production, on The Dial of Destiny (2023).
 >
 > In 1997, Lucas re-released the original Star Wars trilogy as part of a Special Edition featuring several modifications; home media versions with further changes were released in 2004 and 2011. He returned to directing with a Star Wars prequel trilogy comprising The Phantom Menace (1999), Attack of the Clones (2002) and Revenge of the Sith (2005). He last collaborated on the CGI-animated movie and television series of the same name, Star Wars: The Clone Wars (2008–2014, 2020), the war film Red Tails (2012) and the jukebox musical fantasy CGI-animated film Strange Magic (2015). Lucas is also known for his collaboration with composer John Williams, who was recommended to him by Spielberg, and with whom he has worked for all the films in both of these franchises. He also produced and wrote a variety of films and television series through Lucasfilm between the 1970s and the 2010s.
 >

@@ -1,0 +1,48 @@
+---
+aliases:
+has_id_wikidata: Q192431
+uses: "[[_Standards/WikiData/WD~ice_skate,108640]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
+  - "[[_Standards/WikiData/WD~ice_skating,779272]]"
+practiced_by:
+  - "[[_Standards/WikiData/WD~speed_skater,10866633]]"
+  - "[[_Standards/WikiData/WD~speed_skating_trainer,26709099]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Speed%20skating%20pictogram.svg
+Commons_category: Speed skating
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Heiden%201980c.jpg
+IPTC_NewsCode: mediatopic/20001067
+---
+
+# [[Speed_Skating]] 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Speed_skating,192431|WD~Speed_skating,192431]] 
+
+## #has_/text_of_/abstract 
+
+> Speed skating is a competitive form of ice skating 
+> in which the competitors race each other in travelling a certain distance on skates. 
+> 
+> Types of speed skating are long-track speed skating, short-track speed skating, 
+> and marathon speed skating. 
+> In the Olympic Games, long-track speed skating is usually referred to as just "speed skating", 
+> while short-track speed skating is known as "short track". 
+> 
+> The International Skating Union (ISU), the governing body of competitive ice sports, 
+> refers to long track as "speed skating" and short track as "short track skating". 
+> Long track speed skating takes place on a 400m ice track, 
+> while short track takes place on a 111m track.
+>
+> An international federation was founded in 1892, the first for any winter sport. 
+> The sport enjoys large popularity in the Netherlands, Norway and South Korea. 
+> 
+> There are top international rinks in a number of other countries, including 
+> Canada, the United States, Germany, Italy, Japan, Russia, Kazakhstan, China, Belarus and Poland. 
+> 
+> A World Cup circuit is held with events in those countries 
+> plus two events in the Thialf ice hall in Heerenveen, Netherlands.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Speed%20skating) 
+
+

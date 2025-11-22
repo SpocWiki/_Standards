@@ -1,6 +1,8 @@
 ---
 aliases:
   - Marmotini
+  - Ground squirrels
+  - Ground squirrel
 has_id_wikidata: Q389250
 title: Marmotini
 taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
@@ -15,15 +17,19 @@ taxon_name: Marmotini
 taxon_common_name: ground squirrel
 ---
 
-# [[Ground_Squirrel]] 
+# [[Ground_Squirrel]]  
 
-#is_/same_as :: [[WD~ground_squirrels,389250]] 
+![](Ground_Squirrel/Prairie_Dog.jpg)
+
+![](Ground_Squirrel/Ground_Squirrel.jpg)
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~ground_squirrels,389250|WD~ground_squirrels,389250]]  
 
 ## #has_/text_of_/abstract 
 
 > Ground squirrels are rodents of the squirrel family (Sciuridae) 
 > that generally live on the ground or in burrows, rather than in trees like the tree squirrels. 
-> 
+>
 > The term is most often used for the medium-sized ground squirrels, 
 > as the larger ones are more commonly known as marmots (genus Marmota) or prairie dogs, 
 > while the smaller and less bushy-tailed ground squirrels 
@@ -70,11 +76,11 @@ taxon_common_name: ground squirrel
     -   [Protoxerini](Protoxerini.md)
     -   [Xerini](Xerini.md)
 
--   » Sub-Groups[Marmota](Marmotini/Marmota.md)rmota.md)
+-   » Sub-Groups[Marmota](Ground_Squirrel/Marmota.md)rmota.md)
 
 	-   *Spermophilus* [(groundsquirrels)][ (non-monophyletic)
 	    ]
-	-   *Cynomys* [(prairie-dog[Marmota](Marmotini/Marmota.md "go to ToL page")oL page")* [(marmots and
+	-   *Cynomys* [(prairie-dog[Marmota](Ground_Squirrel/Marmota.md "go to ToL page")oL page")* [(marmots and
 	    woodchuck)]
 	-   *Ammospermophilus* [(antelope ground squirrels)]
 	-   *Tamias* [(chipmuncks)]
@@ -84,14 +90,14 @@ taxon_common_name: ground squirrel
 ## Title Illustrations
 
 -------------------
-![](Marmotini/PrairieDog.jpg)
+![](Ground_Squirrel/Prairie_Dog.jpg)
 Scientific Name ::     Cynomys
 Creator              Claire Dobert
 Acknowledgements     Photo courtesy U.S. Fish and Wildlife Service
 Specimen Condition   Live Specimen
 
 -------------------
-![](Marmotini/GroundSquirrel.jpg)
+![](Ground_Squirrel/Ground_Squirrel.jpg)
 Scientific Name ::     Spermophilus
 Creator              Joe Martin
 Acknowledgements     Photo courtesy U.S. Fish and Wildlife Service
