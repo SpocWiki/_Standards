@@ -76,8 +76,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Krokusse%20violett.jpg
 
 # [[Spring]]
 
-#is_/same_as :: [[../../../WikiData/WD~Spring,1312|WD~Spring,1312]]
-
+#is_/same_as :: [[../../../WikiData/WD~Spring,1312|WD~Spring,1312]] 
 
 ## #has_/text_of_/abstract 
 
