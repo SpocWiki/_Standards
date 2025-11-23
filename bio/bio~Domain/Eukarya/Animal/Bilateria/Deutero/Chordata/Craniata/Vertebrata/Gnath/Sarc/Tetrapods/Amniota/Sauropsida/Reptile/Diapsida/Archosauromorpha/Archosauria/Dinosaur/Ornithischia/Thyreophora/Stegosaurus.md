@@ -1,0 +1,68 @@
+---
+aliases:
+has_id_wikidata: Q14388
+location_of_discovery:
+  - "[[_Standards/WikiData/WD~Morrison_Formation,1195552]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+parent_taxon: "[[_Standards/WikiData/WD~Stegosaurinae,5480471]]"
+instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
+height: 3
+mass: 7
+length: 9
+taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+main_food_source: "[[_Standards/WikiData/WD~herbivore,59099]]"
+Commons_gallery: Stegosaurus
+Commons_category: Stegosaurus
+taxon_name: Stegosaurus
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Journal.pone.0138352.g001A.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Stegosaurus%20stenops%20Life%20Reconstruction.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Stegosaurus%20ungulatus.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Stegosaurus%20ungulatus%20colored%20final.png
+size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Stegosaurus%20size%20comparison.svg
+Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Stegosaurus"]
+taxon_common_name:
+  - Στεγόσαυρος
+  - Stégosaure
+  - סטגוזאור
+  - स्टेगोसौरस
+  - ステゴサウルス
+  - Stegozauras
+  - Stegozaur
+  - Estegossauro
+  - Стегозавр
+  - 劍龍屬
+end_time: -150000000-01-01T00:00:00Z
+start_time: -155000000-01-01T00:00:00Z
+---
+
+# [[Stegosaurus]] 
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Stegosaurus,14388|WD~Stegosaurus,14388]]  
+
+## #has_/text_of_/abstract 
+
+> **Stegosaurus** (lit. 'roof-lizard') is a genus of herbivorous four-legged armored dinosaurs 
+> from the Late Jurassic, characterized by the 
+> distinctive kite-shaped upright plates along their backs and spikes on their tails. 
+> 
+> Fossils of the genus have been found in the western United States and in Portugal, 
+> where they are found in Kimmeridgian- to Tithonian-aged strata, 
+> dating to between 155 and 145 million years ago. 
+> 
+> Of the species that have been classified in the upper Morrison Formation of the western US, 
+> only three are universally recognized: S. stenops, S. ungulatus and S. sulcatus. 
+> 
+> The remains of over 80 individual animals of this genus have been found. 
+> Stegosaurus would have lived alongside dinosaurs such as Apatosaurus, 
+> Diplodocus, Camarasaurus and Allosaurus, the latter of which may have preyed on it.
+>
+> They were large, heavily built, herbivorous quadrupeds with rounded backs, 
+> short fore limbs, long hind limbs, and tails held high in the air. 
+> 
+> Due to their distinctive combination of broad, upright plates and tail tipped with spikes, Stegosaurus is one of the most recognizable kinds of dinosaurs. The function of this array of plates and spikes has been the subject of much speculation among scientists. Today, it is generally agreed that their spiked tails were most likely used for defense against predators, while their plates may have been used primarily for display, and secondarily for thermoregulatory functions. Stegosaurus had a relatively low brain-to-body mass ratio. It had a short neck and a small head, meaning it most likely ate low-lying bushes and shrubs. One species, Stegosaurus ungulatus, is one of the largest known of all the stegosaurians, with the largest known specimens measuring about 7.5 metres (25 ft) long and weighing over 5 metric tons (5.5 short tons).
+>
+> Stegosaurus remains were first identified during the "Bone Wars" by Othniel Charles Marsh at Dinosaur Ridge National Landmark. The first known skeletons were fragmentary and the bones were scattered, and it would be many years before the true appearance of these animals, including their posture and plate arrangement, became well understood. Despite its popularity in books and film, mounted skeletons of Stegosaurus did not become a staple of major natural history museums until the mid-20th century, and many museums have had to assemble composite displays from several different specimens due to a lack of complete skeletons. Stegosaurus is one of the better-known dinosaurs and has been featured in film, on postal stamps, and in many other types of media.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Stegosaurus) 
+

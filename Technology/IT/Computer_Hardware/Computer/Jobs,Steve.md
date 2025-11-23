@@ -113,6 +113,8 @@ ISNI: "0000000078613326"
 Plex_person_key: 5d77683df54112001f5be8b0
 ---
 
+# [[Jobs,Steve]] 
+
 #has_/time_/started ::  1955-02-24 
 #has_/time_/started ::  2011-10-05 
 #has_/colleague :: [[Wozniak,Steve]] 

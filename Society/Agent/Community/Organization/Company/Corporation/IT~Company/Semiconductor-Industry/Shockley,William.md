@@ -19,7 +19,7 @@
 > but quickly alienated them with his autocratic and erratic management; 
 > they left and founded major companies in the industry. 
 >
-> In his later life, while a professor of electrical engineering at [[../Acorn_Computers/Stanford_University]] 
+> In his later life, while a professor of electrical engineering at [[../../../../../../../../Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Santa_Clara,County/Stanford_University]] 
 > and afterward, Shockley became known as a racist and eugenicist.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Shockley)

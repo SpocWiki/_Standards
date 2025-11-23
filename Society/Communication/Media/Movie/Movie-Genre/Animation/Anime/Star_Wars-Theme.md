@@ -1,7 +1,7 @@
 
 # [[Star_Wars-Theme]]
 
-The Star Wars Theme was a major Contribution to the Success of the [[../../SF-Movie/Star_Wars]] Movie. 
+The Star Wars Theme was a major Contribution to the Success of the [[../../../../Media_Franchise/Star_Wars]] Movie. 
 
 #has_/creator :: [[../../music/Musician/Williams,John(Composer)|John_Williams]] 
 

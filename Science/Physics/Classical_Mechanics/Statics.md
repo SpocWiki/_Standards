@@ -29,7 +29,6 @@ described_at_URL:
 #is_/opposite_of :: [[Classical_Mechanics/Dynamics]] 
 #is_/same_as :: [[../../../WikiData/WD~Statics,169019|WD~Statics,169019]] 
 
-
 ## #has_/text_of_/abstract 
 
 > **Statics** is the branch of classical mechanics 

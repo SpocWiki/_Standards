@@ -262,6 +262,19 @@ The last was [[Earth/Continent/Europe/Europe~Central/Croatia|Croatia]]n User 'Ku
 | S   | Sense         | Represents specific senses or meanings of a lexeme. <br>For example, 'L1-S1' might denote the sense of 'book' as a physical object.                                                                                       |
 | E   | Entity Schema | Defines data models outlining the necessary attributes for data items, <br>utilizing Shape Expressions (ShEx) to describe data structures. <br>For instance, 'E10' represents the entity schema for human data instances. |
 
+## Certain Entities have significant IDs: 
+
+- [[WikiData/WD~Universe,1|WD~Universe,1]]  
+- [[WikiData/WD~Earth,2|WD~Earth,2]]  
+- [[WikiData/WD~Life,3|WD~Life,3]]   
+- [[WikiData/WD~Death,4|WD~Death,4]]   
+- [[WikiData/WD~Human,5|WD~Human,5]]   
+- [[_Standards/WikiData/WD~triskaidekaphobia,13]] 
+- [[WikiData/WD~Douglas_Adams,42|WD~Douglas_Adams,42]] 
+- [[WikiData/WD~Star,523|WD~Star,523]] which has its [[Dewey-Number]] as an ID 
+- [[WikiData/WD~Stanley_Kubrick,2001|WD~Stanley_Kubrick,2001]] 
+- [[WD~Number_of_the_beast,666]] 
+- [[WD~Leet,1337]] 
 
 The first 10_000 WikiData Entities are based on the Level 4 (10^4) curated [List of Articles Every Wikipedia Should Have](https://meta.wikimedia.org/wiki/List_of_articles_every_Wikipedia_should_have/Expanded). 
 These provide a basic, essential content framework for all language editions of Wikipedia, particularly smaller and newer ones. 

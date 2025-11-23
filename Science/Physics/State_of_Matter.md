@@ -1,6 +1,7 @@
 ---
 aliases:
   - State of Matter
+has_id_wikidata: Q11430
 Commons_category: States of aggregation
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -12,7 +13,6 @@ different_from:
   - "[[_Standards/WikiData/WD~phase,104837]]"
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
 disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-has_id_wikidata: Q11430
 has_list: "[[_Standards/WikiData/WD~list_of_states_of_matter,3271631]]"
 Iconclass_notation: 22A31
 image:
@@ -32,6 +32,8 @@ Wolfram_Language_entity_type: MatterPhase
 ---
 
 # [[State_of_Matter]] 
+
+#is_/same_as :: [[../../WikiData/WD~State_of_matter,11430|WD~State_of_matter,11430]] 
 
 |        | Shape | Volume | Isolation | Magnetic |
 | ------ | ----- | ------ | --------- | -------- |
