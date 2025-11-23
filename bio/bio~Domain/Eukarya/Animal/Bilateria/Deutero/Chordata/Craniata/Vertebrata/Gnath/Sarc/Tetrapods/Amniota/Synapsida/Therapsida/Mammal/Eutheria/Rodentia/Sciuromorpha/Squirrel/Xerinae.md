@@ -1,10 +1,22 @@
 ---
 title: Xerinae
+has_id_wikidata: Q53112
+taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
+parent_taxon: "[[_Standards/WikiData/WD~squirrel,9482]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+ITIS_TSN: "930206"
+Commons_gallery: Xerinae
+Commons_category: Xerinae
+taxon_name: Xerinae
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Borstenh%C3%B6rnchen%20060319%202.jpg
+UMLS_CUI: C1648590
 ---
 
 # [[Xerinae]] 
 
 ![ ](Xerinae/xerusinauris4.jpg)
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Xerinae,53112|WD~Xerinae,53112]] 
 
 ## #has_/text_of_/abstract 
 
@@ -43,7 +55,7 @@ title: Xerinae
     -   [Pteromyini](Pteromyini.md)
 
 -   » Sub-Groups
-    -   [Marmotini](Xerinae/Marmotini.md)
+    -   [Ground_Squirrel](Xerinae/Ground_Squirrel.md)
     -   [Protoxerini](Xerinae/Protoxerini.md)
     -   [Xerini](Xerinae/Xerini.md)
 

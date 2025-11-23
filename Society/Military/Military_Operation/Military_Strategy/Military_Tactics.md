@@ -20,7 +20,7 @@ has_id_wikidata: Q207645
 > - protection or security, and 
 > - shock action. 
 > 
-> Tactics are a separate function from [[../../Military_Organization/Military_Rank/Command_and_Control|Command_and_Control]] and [[../../Military_Logistics|Military logistics]]. 
+> Tactics are a separate function from [[../../Armed_Forces/Military_Rank/Command_and_Control|Command_and_Control]] and [[../../Military_Logistics|Military logistics]]. 
 > In contemporary military science, tactics are the lowest of three levels of warfighting, 
 > the higher levels being the [[../Military_Strategy|Military_Strategy]] and [[../../Military_Operation|Military_Operation]]. 
 > 

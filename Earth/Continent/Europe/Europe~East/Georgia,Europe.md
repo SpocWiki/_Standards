@@ -420,24 +420,27 @@ country_calling_code: 995
 
 # [[Georgia,Europe]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Georgia 
-[[Georgia,Europe/ReadMe]]] 
-
 [ISO2::GE] 
 [ISO3::GEO]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Georgia,230|WD~Georgia,230]] 
 
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Georgia 
+[[Georgia,Europe/ReadMe]]] 
+
 ## #has_/map  
 
 ```leaflet
-id: Georgia
+id: Georgia,Europe
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Georgia.Europe//
-markerFolder: ./Georgia.Europe//
+defaultZoom: 7 
+geojsonFolder: ./Georgia,Europe//
+markerFolder: ./Georgia,Europe//
+coordinates: [[Georgia,Europe]] 
+markerFile: [[Georgia,Europe]] 
 ```
 
 [name-en::Georgia]

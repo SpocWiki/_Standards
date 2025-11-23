@@ -26,15 +26,23 @@ title: "is_a_date_time Class"
 type: Type
 ---
 
+# [[Date_Time]]  
 
-# [[date_time]] 
-
-Class of all date_times.
+Class of all date (plus time) Values.
 
 Tag Instances like this: 
 #is_a_/date_time
 
 A combination of date and time of day in the form (-)?CCYY-MM-DDThh:mm:ss(Z|(+|-)hh:mm) (see Chapter 5.4 of ISO 8601).
+Any Value **after the Month can be omitted** which can also be an indicator of the Precision. 
+
+Such a fixed-length formatting, starting with the centuries as most significant digits 
+allows for interoperability and lexical sorting for any date in the Common Era. 
+Earlier Dates should be expressed as integer Years. 
+
+It is recommended to either use UTC Timestamps or, when local time is used, explicitly add the current Offset for the Time Zone at the current Location. 
+Strictly speaking, even this is not universal, because that requires the Location to be congruent with the start of the Time Zone 
+(the deviation can be up to 6ms within a Time Zone, due to the limited Speed of Light) 
 
 
 ## Confidential Links & Embeds: 

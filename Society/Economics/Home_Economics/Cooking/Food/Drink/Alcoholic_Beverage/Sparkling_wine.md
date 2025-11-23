@@ -16,7 +16,7 @@ Commons_category: Sparkling wine
 
 # [[Sparkling_wine]]
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Sparkling_wine,321263|WD~Sparkling_wine,321263]]
+#is_/same_as :: [[../../../../../../../WikiData/WD~Sparkling_wine,321263|WD~Sparkling_wine,321263]] 
 
 
 ## #has_/text_of_/abstract 

@@ -30,7 +30,18 @@ subreddit: RenewableEnergy
 
 ## #has_/text_of_/abstract 
 
-> **Renewable energy** (also called green energy) is energy made from renewable natural resources that are replenished on a human timescale. The most widely used renewable energy types are solar energy, wind power, and hydropower. Bioenergy and geothermal power are also significant in some countries. Some also consider nuclear power a renewable power source, although this is controversial, as nuclear energy requires mining uranium, a nonrenewable resource.. Renewable energy installations can be large or small and are suited for both urban and rural areas. Renewable energy is often deployed together with further electrification. This has several benefits: electricity can move heat and vehicles efficiently and is clean at the point of consumption. Variable renewable energy sources are those that have a fluctuating nature, such as wind power and solar power. In contrast, controllable renewable energy sources include dammed hydroelectricity, bioenergy, or geothermal power.
+> **Renewable energy** (also called green energy) is energy made from renewable natural resources 
+> that are replenished on a human timescale. 
+> 
+> The most widely used renewable energy types are solar energy, wind power, and hydropower. 
+> Bioenergy and geothermal power are also significant in some countries. 
+> Some also consider nuclear power a renewable power source, although this is controversial, 
+> as nuclear energy requires mining uranium, a nonrenewable resource. 
+> 
+> Renewable energy installations can be large or small and are suited for both urban and rural areas. 
+> Renewable energy is often deployed together with further electrification. 
+> This has several benefits: electricity can move heat and vehicles efficiently 
+> and is clean at the point of consumption. Variable renewable energy sources are those that have a fluctuating nature, such as wind power and solar power. In contrast, controllable renewable energy sources include dammed hydroelectricity, bioenergy, or geothermal power.
 >
 > 
 >
