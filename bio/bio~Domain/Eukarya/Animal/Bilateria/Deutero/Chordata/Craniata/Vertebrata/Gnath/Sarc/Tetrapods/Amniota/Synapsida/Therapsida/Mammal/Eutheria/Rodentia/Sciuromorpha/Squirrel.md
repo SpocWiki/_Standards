@@ -6,6 +6,34 @@ aliases:
   - Eichhörnchen
 title: Sciuridae
 has_id_wikidata: Q9482
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+parent_taxon: "[[_Standards/WikiData/WD~Sciuromorpha,724477]]"
+this_zoological_name_is_coordinate_with:
+  - "[[_Standards/WikiData/WD~Sciurini,2294121]]"
+  - "[[_Standards/WikiData/WD~Sciurinae,53106]]"
+diel_cycle: "[[_Standards/WikiData/WD~diurnality,4284186]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q32514009,32514009]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~squirrel_skin,111045633]]"
+code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+ITIS_TSN: "180135"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Sciurus%20carolinensis.jpg
+taxon_common_name: ekornfamilien
+Commons_gallery: Sciuridae
+Commons_category: Sciuridae
+taxon_name: Sciuridae
+Unicode_character: 🐿
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sciuridae.jpg
+small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Octicons-squirrel.svg
+EPPO_Code: 1SCIUF
+MeSH_tree_code: B01.050.150.900.649.313.992.750
+UMLS_CUI: C0087017
+NBN_System_Key: NHMSYS0000376182
+Dewey_Decimal_Classification: "599.36"
 ---
 
 # [[Squirrel]]
@@ -14,6 +42,16 @@ has_id_wikidata: Q9482
  ![](Squirrel/gndsqu.jpg)  ![ ](Squirrel/Marmot.jpg) 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Squirrel,9482|WD~Squirrel,9482]] 
+
+## #has_/text_of_/abstract 
+
+> **Squirrel**s are members of the family Sciuridae, a family that includes small or medium-sized rodents. 
+> 
+> The squirrel family includes tree squirrels, ground squirrels (including chipmunks and prairie dogs, among others), and flying squirrels. Squirrels are indigenous to the Americas, Eurasia, and Africa, and were introduced by humans to Australia. The earliest known fossilized squirrels date from the Eocene epoch, and among other living rodent families, the squirrels are most closely related to the mountain beaver and dormice.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Squirrel) 
+
+
 ## Introduction
 
 [Scott J. Steppan and Shawn M. Hamm]()

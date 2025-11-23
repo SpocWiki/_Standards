@@ -1,93 +1,96 @@
 ---
-academic_thesis: '[[_Standards/WikiData/WD~Highly_Composite_Numbers,56168681]]'
+academic_thesis: "[[_Standards/WikiData/WD~Highly_Composite_Numbers,56168681]]"
 aliases:
-- "Srinivasa Ramanujan"
-- "Srinivasa Ramanujan Aiyangar"
+  - Srinivasa Ramanujan
+  - Srinivasa Ramanujan Aiyangar
+  - Srinivasa_Ramanujan
+has_id_wikidata: Q83163
 award_received:
-- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
-- '[[_Standards/WikiData/WD~Fellow_of_Trinity_College,75822711]]'
-cause_of_death: '[[_Standards/WikiData/WD~amebiasis,949694]]'
-Commons_category: "Srinivasa Ramanujan"
-Commons_gallery: "Srinivasa Ramanujan"
-country_of_citizenship: '[[_Standards/WikiData/WD~British_Raj,129286]]'
+  - "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
+  - "[[_Standards/WikiData/WD~Fellow_of_Trinity_College,75822711]]"
+cause_of_death: "[[_Standards/WikiData/WD~amebiasis,949694]]"
+Commons_category: Srinivasa Ramanujan
+Commons_gallery: Srinivasa Ramanujan
+country_of_citizenship: "[[_Standards/WikiData/WD~British_Raj,129286]]"
 date_of_birth: 1887-12-22
 date_of_death: 1920-04-26
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 doctoral_advisor:
-- '[[_Standards/WikiData/WD~G.H._Hardy,184337]]'
-- '[[_Standards/WikiData/WD~John_Edensor_Littlewood,353426]]'
+  - "[[_Standards/WikiData/WD~G.H._Hardy,184337]]"
+  - "[[_Standards/WikiData/WD~John_Edensor_Littlewood,353426]]"
 educated_at:
-- '[[_Standards/WikiData/WD~Trinity_College,332342]]'
-- "[[_Standards/WikiData/WD~Pachaiyappa's_College,3523242]]"
-- '[[_Standards/WikiData/WD~Government_Arts_College,_Kumbakonam,5588681]]'
-- '[[_Standards/WikiData/WD~Town_Higher_Secondary_School,7829974]]'
-- '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
+  - "[[_Standards/WikiData/WD~Trinity_College,332342]]"
+  - "[[_Standards/WikiData/WD~Pachaiyappa's_College,3523242]]"
+  - "[[_Standards/WikiData/WD~Government_Arts_College,_Kumbakonam,5588681]]"
+  - "[[_Standards/WikiData/WD~Town_Higher_Secondary_School,7829974]]"
+  - "[[_Standards/WikiData/WD~University_of_Cambridge,35794]]"
 employer:
-- '[[_Standards/WikiData/WD~Trinity_College,332342]]'
-- '[[_Standards/WikiData/WD~Chennai_Port,3524002]]'
+  - "[[_Standards/WikiData/WD~Trinity_College,332342]]"
+  - "[[_Standards/WikiData/WD~Chennai_Port,3524002]]"
 Erdős_number: 3
 field_of_work:
-- '[[_Standards/WikiData/WD~combinatorics,76592]]'
-- '[[_Standards/WikiData/WD~mathematician,170790]]'
-- '[[_Standards/WikiData/WD~number_theory,12479]]'
-given_name: '[[_Standards/WikiData/WD~Ramanujan,25211004]]'
+  - "[[_Standards/WikiData/WD~combinatorics,76592]]"
+  - "[[_Standards/WikiData/WD~mathematician,170790]]"
+  - "[[_Standards/WikiData/WD~number_theory,12479]]"
+given_name: "[[_Standards/WikiData/WD~Ramanujan,25211004]]"
 Google_Doodle: srinivasa-ramanujans-125th-birthday
-has_id_wikidata: Q83163
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Srinivasa%20Ramanujan%20-%20OPC%20-%202%20%28cleaned%29.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Srinivasa%20Ramanujan%20-%20OPC%20-%201.jpg"
-influenced_by: '[[_Standards/WikiData/WD~G._S._Carr,5512452]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-ISNI: 0000000121252846
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Srinivasa%20Ramanujan%20-%20OPC%20-%202%20%28cleaned%29.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Srinivasa%20Ramanujan%20-%20OPC%20-%201.jpg
+influenced_by: "[[_Standards/WikiData/WD~G._S._Carr,5512452]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+ISNI: 121252846
 Libris_URI: b8nqsp1v561tqqz
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-member_of: '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-name_in_native_language: "சீனிவாச இராமானுஜன்,"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+member_of: "[[_Standards/WikiData/WD~Royal_Society,123885]]"
+name_in_native_language: சீனிவாச இராமானுஜன்,
 notable_work:
-- '[[_Standards/WikiData/WD~Ramanujan_Petersson_conjecture,630650]]'
-- '[[_Standards/WikiData/WD~Ramanujan_Soldner_constant,691109]]'
-- "[[_Standards/WikiData/WD~Ramanujan's_sum,1441456]]"
-- '[[_Standards/WikiData/WD~Ramanujan_Nagell_equation,1914905]]'
-- '[[_Standards/WikiData/WD~Ramanujan_theta_function,2630765]]'
-- '[[_Standards/WikiData/WD~Landau_Ramanujan_constant,2641368]]'
-- '[[_Standards/WikiData/WD~Ramanujan_prime,3044802]]'
-- '[[_Standards/WikiData/WD~Ramanujan_graph,3115527]]'
-- '[[_Standards/WikiData/WD~Ramanujan_summation,3533072]]'
-- '[[_Standards/WikiData/WD~tau-function,3535240]]'
-- '[[_Standards/WikiData/WD~Q3927331,3927331]]'
-- '[[_Standards/WikiData/WD~Hardy_Ramanujan_theorem,5656674]]'
-- "[[_Standards/WikiData/WD~Ramanujan's_congruences,7288989]]"
-- "[[_Standards/WikiData/WD~Ramanujan's_ternary_quadratic_form,7288995]]"
-- "[[_Standards/WikiData/WD~Ramanujan's_master_theorem,7288993]]"
-- '[[_Standards/WikiData/WD~Rogers_Ramanujan_continued_fraction,7359378]]'
-- '[[_Standards/WikiData/WD~Rogers_Ramanujan_identities,7359380]]'
-- '[[_Standards/WikiData/WD~taxicab_number,9051304]]'
-- "[[_Standards/WikiData/WD~Ramanujan's_constant,12815866]]"
-- '[[_Standards/WikiData/WD~Ramanujan_Sato_series,17164696]]'
-- '[[_Standards/WikiData/WD~Q20850758,20850758]]'
-- '[[_Standards/WikiData/WD~Q26882561,26882561]]'
-- '[[_Standards/WikiData/WD~Q65244311,65244311]]'
-occupation: '[[_Standards/WikiData/WD~mathematician,170790]]'
-place_of_birth: '[[_Standards/WikiData/WD~Erode,9824]]'
-place_of_death: '[[_Standards/WikiData/WD~Kudanthaiyan,913399]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Hinduism,9089]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20Srinivasa%20Ramanujan.svg"
-spouse: '[[_Standards/WikiData/WD~Janakiammal,108821688]]'
-student_of: '[[_Standards/WikiData/WD~John_Edensor_Littlewood,353426]]'
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/SRINIVASA%20RAMANUJAN-%20The%20Mathematician%20%26%20His%20Legacy.webm"
+  - "[[_Standards/WikiData/WD~Ramanujan_Petersson_conjecture,630650]]"
+  - "[[_Standards/WikiData/WD~Ramanujan_Soldner_constant,691109]]"
+  - "[[_Standards/WikiData/WD~Ramanujan's_sum,1441456]]"
+  - "[[_Standards/WikiData/WD~Ramanujan_Nagell_equation,1914905]]"
+  - "[[_Standards/WikiData/WD~Ramanujan_theta_function,2630765]]"
+  - "[[_Standards/WikiData/WD~Landau_Ramanujan_constant,2641368]]"
+  - "[[_Standards/WikiData/WD~Ramanujan_prime,3044802]]"
+  - "[[_Standards/WikiData/WD~Ramanujan_graph,3115527]]"
+  - "[[_Standards/WikiData/WD~Ramanujan_summation,3533072]]"
+  - "[[_Standards/WikiData/WD~tau-function,3535240]]"
+  - "[[_Standards/WikiData/WD~Q3927331,3927331]]"
+  - "[[_Standards/WikiData/WD~Hardy_Ramanujan_theorem,5656674]]"
+  - "[[_Standards/WikiData/WD~Ramanujan's_congruences,7288989]]"
+  - "[[_Standards/WikiData/WD~Ramanujan's_ternary_quadratic_form,7288995]]"
+  - "[[_Standards/WikiData/WD~Ramanujan's_master_theorem,7288993]]"
+  - "[[_Standards/WikiData/WD~Rogers_Ramanujan_continued_fraction,7359378]]"
+  - "[[_Standards/WikiData/WD~Rogers_Ramanujan_identities,7359380]]"
+  - "[[_Standards/WikiData/WD~taxicab_number,9051304]]"
+  - "[[_Standards/WikiData/WD~Ramanujan's_constant,12815866]]"
+  - "[[_Standards/WikiData/WD~Ramanujan_Sato_series,17164696]]"
+  - "[[_Standards/WikiData/WD~Q20850758,20850758]]"
+  - "[[_Standards/WikiData/WD~Q26882561,26882561]]"
+  - "[[_Standards/WikiData/WD~Q65244311,65244311]]"
+occupation: "[[_Standards/WikiData/WD~mathematician,170790]]"
+place_of_birth: "[[_Standards/WikiData/WD~Erode,9824]]"
+place_of_death: "[[_Standards/WikiData/WD~Kudanthaiyan,913399]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Hinduism,9089]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20Srinivasa%20Ramanujan.svg
+spouse: "[[_Standards/WikiData/WD~Janakiammal,108821688]]"
+student_of: "[[_Standards/WikiData/WD~John_Edensor_Littlewood,353426]]"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/SRINIVASA%20RAMANUJAN-%20The%20Mathematician%20%26%20His%20Legacy.webm
 ---
+
+# [[Ramanujan,Srinivasa]] 
 
 #has_/time_/started ::  1887-12-22 
 #has_/time_/stopped ::  1920-04-26 
 #has_/duration  :: `=(default(this.has_time_stopped, date(now)) - this.has_time_started)` 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000 /60 /60 /24 /365.2425)` 
+#is_/same_as :: [[../../../WikiData/WD~Srinivasa_Ramanujan,83163|WD~Srinivasa_Ramanujan,83163]] 
 
-
-## #has_/text_of_/abstract 
+## #has_/text_of_/abstract  
 
 > **Srinivasa Ramanujan** Aiyangar (22 December 1887 – 26 April 1920) was an Indian mathematician. 
 > 
