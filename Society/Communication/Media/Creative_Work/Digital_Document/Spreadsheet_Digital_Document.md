@@ -25,6 +25,10 @@ title: is_a_spreadsheet_digital_document Class
 type: Type
 ---
 
+# [[Spreadsheet_Digital_Document]] 
+
+#has_/editor :: [[../../../../../Technology/IT/Software/Software_Category/SW~Spreadsheet|SW~Spreadsheet]] 
+
 Class of all spreadsheet_digital_documents.
 
 Tag Instances like this: 

@@ -37,6 +37,7 @@ Relation describes that:
 ( #has_/name :: has_spouse )
 ( #has_/range :: Person )
 
+This Relation is symmetric, and mostly a Function. 
 
 ## Confidential Links & Embeds: 
 
