@@ -1,6 +1,7 @@
 ---
 aliases:
   - Stanley Kubrick
+  - Stanley_Kubrick
 archives_at: "[[_Standards/WikiData/WD~University_of_the_Arts_London_Archives_and_Special_Collections,81165666]]"
 ArhivX_LOD: 34182
 award_received:
@@ -113,6 +114,7 @@ work_period_start_: 1951
 #has_/time_/started :: 1928-07-26 
 #has_/time_/stopped  :: 1999-03-07 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#is_/same_as :: [[../../../../../WikiData/WD~Stanley_Kubrick,2001|WD~Stanley_Kubrick,2001]] 
 
 ## #has_/text_of_/abstract 
 

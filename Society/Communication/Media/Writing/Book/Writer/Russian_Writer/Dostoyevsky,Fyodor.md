@@ -154,6 +154,8 @@ writing_language: "[[_Standards/WikiData/WD~Russian,7737]]"
 #has_/time_/started :: 1821-11-11 
 #has_/time_/started :: 1881-02-09 
 
+#has_/created_/quote :: The Degree of Civilization in a Society can be judged by entering its Prisons. 
+
 #is_/same_as :: [[../../../../../../../WikiData/WD~Fyodor_Dostoyevsky,991|WD~Fyodor_Dostoyevsky,991]] 
 ## #has_/text_of_/abstract 
 
@@ -188,8 +190,10 @@ writing_language: "[[_Standards/WikiData/WD~Russian,7737]]"
 > 
 > However, he was arrested in 1849 for belonging to a literary group, the Petrashevsky Circle, 
 > that discussed banned books critical of Tsarist Russia. 
+> 
 > Dostoevsky was sentenced to death but the sentence was commuted at the last moment. 
-> He spent four years in a Siberian prison camp, followed by six years of compulsory military service in exile. 
+> He **spent four years in a Siberian prison camp**, 
+> followed by six years of compulsory military service in exile. 
 > 
 > In the following years, Dostoevsky worked as a journalist, 
 > publishing and editing several magazines of his own and later A Writer's Diary, 

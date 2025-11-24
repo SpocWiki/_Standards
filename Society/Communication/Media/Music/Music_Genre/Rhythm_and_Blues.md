@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Rhythm and blues
+  - R&B
+  - R'n'B
 has_id_wikidata: Q45981
 instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
 subclass_of: "[[_Standards/WikiData/WD~popular_music,373342]]"

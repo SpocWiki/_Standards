@@ -6,7 +6,7 @@
 #has_/time_/started :: 2001-07-09 
 #has_/time_/stopped :: 2003-12-27 
 #has_/duration :: `= this.has_time_stopped - this.has_time_started` 
-#has_/actor :: [[Ricky Gervais]] 
+#has_/actor :: [[../../../../../Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky]] 
 #has_/actor :: [[Martin Freeman]] 
 #has_/actor :: [[John Krasinsky]] (US-Version)
 

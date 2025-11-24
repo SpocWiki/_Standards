@@ -4,6 +4,7 @@ aliases:
   - state
   - State
   - is_a_state
+has_id_wikidata: Q7275
 BHCL_UUID: e8931adb-4650-49f1-a2f2-460122c17ac3
 Commons_category: States
 confidential: public
@@ -25,7 +26,6 @@ different_from:
   - "[[_Standards/WikiData/WD~government,7188]]"
 draft: false
 expiryDate:
-has_id_wikidata: Q7275
 has_part_s_: "[[_Standards/WikiData/WD~embassy,3917681]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leviathan%20frontispiece%20cropped%20British%20Library.jpg
 isDeleted: false
@@ -94,6 +94,8 @@ Wikidata_property: country
 ---
 
 # [[State]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~State,7275|WD~State,7275]] 
 
 The Class of all states, 
 i.e. state or province of a [[Country]].

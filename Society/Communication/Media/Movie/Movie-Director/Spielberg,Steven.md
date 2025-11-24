@@ -2,6 +2,7 @@
 aliases:
   - Steven Spielberg
   - Steven Allan Spielberg
+  - Steven_Spielberg
   - Spielberg
 has_id_wikidata: Q8877
 nominated_for:
