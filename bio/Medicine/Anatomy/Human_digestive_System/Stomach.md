@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Magen
 has_id_wikidata: Q1029907
 Dewey_Decimal_Classification: "573.36"
 connects_with:
