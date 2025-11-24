@@ -377,11 +377,6 @@ Dewey_Decimal_Classification: 2--83
 
 # [[Chile]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Chile 
-
-[[Chile/ReadMe]] 
-
 [	ISO4217-currency_alphabetic	 :: CLP ]
 [	ISO4217-currency_name	 :: Chilean Peso ]
 [	ISO4217-currency_numeric	 :: 152 ]
@@ -448,11 +443,14 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 [ISO2::CL]
 [ISO3::CHL] 
 
-
 #is_/same_as :: [[../../../../WikiData/WD~Chile,298|WD~Chile,298]] 
 
-## #has_/map  
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Chile 
 
+[[Chile/ReadMe]] 
+
+## #has_/map  
 
 ```leaflet
 id: Chile
