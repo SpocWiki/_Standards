@@ -80,7 +80,7 @@ direction LR
 __Functions__ are single-valued [[Relation(Math)]]s, that map to **exactly 1 Value**. 
 Each n-ary function is equivalent to an (n+1)-ary Relation. 
 
-Storing Functions as [[../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Multi-Paradigm/CSharp/DotNET-Dictionaries|DotNET-Dictionaries]] makes them easier to reason about, 
+Storing Functions as [[../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/DotNET-Dictionaries|DotNET-Dictionaries]] makes them easier to reason about, 
 usually avoiding combinatory Explosion. 
 
 unary Functions can also be used to represent (upward-navigable) Trees. 

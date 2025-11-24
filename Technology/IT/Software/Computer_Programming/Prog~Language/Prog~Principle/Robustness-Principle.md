@@ -27,7 +27,7 @@ Among programmers, to produce compatible functions, the principle is also known 
  - covariant (more specific) in the output type.
 
 This Principle corresponds directly to the [[Liskov_Substitution-Principle]], 
-leading to the common[[../Prog~OO/Variance,OO]]] of Parameters and Results. 
+leading to the commo[[../Prog~Paradigm/Prog~OO/Variance,OO]]]] of Parameters and Results. 
 
 This Principle, while a Staple of Internet Programming, can be exploited 
 and lead to the proliferation of accidental functionality. 
