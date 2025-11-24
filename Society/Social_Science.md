@@ -63,9 +63,25 @@ IPTC_NewsCode: mediatopic/20000742
 ## #has_/text_of_/abstract 
 
 > Social science (often rendered in the plural as the social sciences) 
-> is one of the branches of science, devoted to the study of societies and the relationships among members within those societies. The term was formerly used to refer to the field of sociology, the original "science of society", established in the 18th century. It now encompasses a wide array of additional academic disciplines, including anthropology, archaeology, economics, geography, history, linguistics, management, communication studies, psychology, culturology, and political science.
+> is one of the branches of science, devoted to the study of societies 
+> and the relationships among members within those societies. 
+> 
+> The term was formerly used to refer to the field of sociology, 
+> the original "science of society", established in the 18th century. 
+> 
+> It now encompasses a wide array of additional academic disciplines, including 
+> anthropology, archaeology, economics, geography, history, linguistics, management, communication studies, psychology, culturology, and political science.
 >
-> The majority of positivist social scientists use methods resembling those used in the natural sciences as tools for understanding societies, and so define science in its stricter modern sense. Speculative social scientists, otherwise known as interpretivist scientists, by contrast, may use social critique or symbolic interpretation rather than constructing empirically falsifiable theories, and thus treat science in its broader sense. In modern academic practice, researchers are often eclectic, using multiple methodologies (combining both quantitative and qualitative research). To gain a deeper understanding of complex human behavior in digital environments, social science disciplines have increasingly integrated interdisciplinary approaches, big data, and computational tools. The term social research has also acquired a degree of autonomy as practitioners from various disciplines share similar goals and methods.
+> The majority of positivist social scientists use methods 
+> resembling those used in the natural sciences as tools for understanding societies, 
+> and so define science in its stricter modern sense. 
+> 
+> Speculative social scientists, otherwise known as interpretivist scientists, by contrast, 
+> may use social critique or symbolic interpretation 
+> rather than constructing empirically falsifiable theories, 
+> and thus treat science in its broader sense. 
+> 
+> In modern academic practice, researchers are often eclectic, using multiple methodologies (combining both quantitative and qualitative research). To gain a deeper understanding of complex human behavior in digital environments, social science disciplines have increasingly integrated interdisciplinary approaches, big data, and computational tools. The term social research has also acquired a degree of autonomy as practitioners from various disciplines share similar goals and methods.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20science)  
 

@@ -49,6 +49,22 @@ coordinate_location: Point(126.546886941 -2.080581841)
 
 #is_/same_as :: [[../../../../WikiData/WD~Malay_Archipelago,208643|WD~Malay_Archipelago,208643]] 
 
+
+## #has_/map  
+
+```leaflet
+id: Malay_Archipelago
+zoomFeatures: true 
+minZoom: 2 
+defaultZoom: 6 
+maxZoom: 18
+geojsonFolder: ./Malay_Archipelago//
+markerFolder: ./Malay_Archipelago/
+coordinates: [[Malay_Archipelago]] 
+markerFile: [[Malay_Archipelago]] 
+```
+
+
 ## #has_/text_of_/abstract 
 
 > The Malay Archipelago (Indonesian/Malay: Kepulauan Melayu, Tagalog: Kapuluang Malayo) also called Insulindia or the Indo-Australian Archipelago is the archipelago between Mainland Southeast Asia and Australia. It has also been called the "Malay world," "Nusantara", "East Indies", and other names over time. The name was taken from the 19th-century European concept of a Malay race, later based on the distribution of Austronesian languages.

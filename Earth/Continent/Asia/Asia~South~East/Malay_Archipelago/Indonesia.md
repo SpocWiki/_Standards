@@ -1333,7 +1333,7 @@ Utara → North
 ```leaflet
 id: Indonesia
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 2 
 defaultZoom: 6 
 maxZoom: 18
 geojsonFolder: ./Indonesia//
