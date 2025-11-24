@@ -20,11 +20,15 @@ Wolfram_Language_entity_code: Entity["Concept", "Irrepressibility::752dz"]
 
 # [[Buoyancy]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Buoyancy,6497624|WD~Buoyancy,6497624]] 
+#is_/same_as :: [[../../../../WikiData/WD~Buoyancy,6497624|WD~Buoyancy,6497624]] 
 
 ## #has_/text_of_/abstract 
 
-> **Buoyancy**, or upthrust, is the force exerted by a fluid opposing the weight of a partially or fully immersed object (which may be also be a parcel of fluid). In a column of fluid, pressure increases with depth as a result of the weight of the overlying fluid. Thus, the pressure at the bottom of a column of fluid is greater than at the top of the column. Similarly, the pressure at the bottom of an object submerged in a fluid is greater than at the top of the object. The pressure difference results in a net upward force on the object. The magnitude of the force is proportional to the pressure difference, and (as explained by Archimedes' principle) is equivalent to the weight of the fluid that would otherwise occupy the submerged volume of the object, i.e. the displaced fluid.
+> **Buoyancy**, or upthrust, is the force exerted by a fluid 
+> opposing the weight of a partially or fully immersed object 
+> (which may be also be a parcel of fluid). 
+> 
+> In a column of fluid, pressure increases with depth as a result of the weight of the overlying fluid. Thus, the pressure at the bottom of a column of fluid is greater than at the top of the column. Similarly, the pressure at the bottom of an object submerged in a fluid is greater than at the top of the object. The pressure difference results in a net upward force on the object. The magnitude of the force is proportional to the pressure difference, and (as explained by Archimedes' principle) is equivalent to the weight of the fluid that would otherwise occupy the submerged volume of the object, i.e. the displaced fluid.
 >
 > For this reason, an object with average density greater than the surrounding fluid tends to sink because its weight is greater than the weight of the fluid it displaces. If the object is less dense, buoyancy can keep the object afloat. This can occur only in a non-inertial reference frame, which either has a gravitational field or is  accelerating due to a force other than gravity defining a "downward" direction.
 >

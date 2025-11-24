@@ -1,5 +1,7 @@
 ---
 aliases:
+  - fluid statics
+  - Hydrostatik
 has_id_wikidata: Q177807
 part_of:
   - "[[_Standards/WikiData/WD~statics,169019]]"

@@ -60,7 +60,7 @@ defining_formula: |-
 
 # [[Bernoulli_Principle]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Bernoulli's_principle,181328|WD~Bernoulli's_principle,181328]] 
+#is_/same_as :: [[../../../../WikiData/WD~Bernoulli's_principle,181328|WD~Bernoulli's_principle,181328]] 
 
 ## #has_/text_of_/abstract 
 

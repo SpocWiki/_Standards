@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Area
+  - Fläche
 Colon_Classification: C152
 Commons_category: Area
 defining_formula: |-

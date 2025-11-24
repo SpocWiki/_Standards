@@ -1,4 +1,8 @@
 ---
+has_id_wikidata: Q854
+location:
+  - 6.86
+  - 80.425
 motto_text:
   - Rhyfeddod Asia yw Ffresni Sri Lanca
   - Refreshingly Sri Lanka... the Wonder of Asia
@@ -300,10 +304,6 @@ aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Sri%20lanka%20so
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Topography%20Sri%20Lanka.jpg
 official_website: https://www.gov.lk/index.php
 country_calling_code: 94
-has_id_wikidata: Q854
-location:
-  - 6.86
-  - 80.425
 type: Country
 tags:
   - geo/Country
@@ -339,19 +339,13 @@ icon: flag-lk
 
 # [[Sri_Lanka]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Sri_Lanka 
+[	ISO4217-currency_alphabetic	 :: LKR ] 
+[	ISO4217-currency_name	 :: Sri Lanka Rupee ] 
+[	ISO4217-currency_numeric	 :: 144 ] 
+[	ISO4217-currency_minor_unit	 :: 2 ] 
+[	ISO4217-currency_country_name	 :: SRI LANKA ] 
 
-[[Sri_Lanka/ReadMe]] 
-
-
-[	ISO4217-currency_alphabetic	 :: LKR ]
-[	ISO4217-currency_name	 :: Sri Lanka Rupee ]
-[	ISO4217-currency_numeric	 :: 144 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: SRI LANKA ]
-
-[	Telephone	 :: 94 ]
+[	Telephone	 :: 94 ] 
 
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
@@ -364,9 +358,9 @@ For more Details, check out this Repository into this Subfolder:
 [	name-ar	 :: سري لانكا ]
 [	name-ru	 :: Шри-Ланка ]
 
-[	CLDR_display_name	 :: Sri Lanka ]
+[	CLDR_display_name	 :: Sri Lanka ] 
 
-[	UNTERM_English	 :: Sri Lanka ]
+[	UNTERM_English	 :: Sri Lanka ] 
 [	UNTERM_English_Formal	 :: the Democratic Socialist Republic of Sri Lanka ]
 [	UNTERM_Spanish_Formal	 :: la República Socialista Democrática de Sri Lanka ]
 [	UNTERM_Spanish	 :: Sri Lanka ]
@@ -408,23 +402,29 @@ Sub-region_Name ::  [[Southern Asia]]
 
 [	ISO3166-1-numeric	 :: 144 ]
 
-
-
 [ISO2::LK]
 [ISO3::LKA]
  
+#is_/same_as :: [[../../../../WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Sri_Lanka 
+
+[[Sri_Lanka/ReadMe]] 
+
 
 ## #has_/map  
-
-
 
 ```leaflet
 id: Sri Lanka
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
+defaultZoom: 7
 geojsonFolder: ./Sri_Lanka//
 markerFolder: ./Sri_Lanka//
+coordinates: [[Sri_Lanka]] 
+markerFile: [[Sri_Lanka]] 
 ```
 
 [name-en::Sri Lanka]

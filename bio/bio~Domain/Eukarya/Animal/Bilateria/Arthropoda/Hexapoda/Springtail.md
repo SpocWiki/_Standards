@@ -1,41 +1,38 @@
 ---
 aliases:
-- Springtail
-- Springtails
-- Collembola
+  - Springtail
+  - Springtails
+  - Collembola
 title: Collembola
+has_id_wikidata: Q190701
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+parent_taxon: "[[_Standards/WikiData/WD~Entognatha,623286]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~Collophore,5147575]]"
+taxon_rank:
+  - "[[_Standards/WikiData/WD~subclass,5867051]]"
+  - "[[_Standards/WikiData/WD~class,37517]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q9563297,9563297]]"
+homonymous_taxon: "[[_Standards/WikiData/WD~Collembola,119788786]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+ITIS_TSN: "914185"
+Commons_gallery: Collembola
+Commons_category: Collembola
+taxon_name: Collembola
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Collembola-Diversity.jpg
+EPPO_Code: 1COLLO
+UMLS_CUI: C1002952
+taxon_common_name: Springtails and allies
+vocalized_name: קְפִיץ-זַנְבָאִים
 ---
 
-## Phylogeny 
-
--   « Ancestral Groups  
-    -  [Hexapoda](../Hexapoda.md))
-    -  [Arthropoda](../../Arthropoda.md))
-    -  [Bilateria](../../../Bilateria.md))
-    -  [Animals](../../../../Animals.md))
-    -  [Eukarya](../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Hexapoda
-    -   Collembola
-    -  [Protura](Protura.md))
-    -  [Diplura](Diplura.md))
-    -  [Insect](Insect.md))
-
--   » Sub-Groups
-    -   [Poduromorpha](Springtail/Poduromorpha.md)
-    -   [Symphypleona](Springtail/Symphypleona.md)
-    -   [Neelidae](Neelidae)
-    -   [Isotomidae](Springtail/Isotomidae.md)
-    -   [Entomobryidae](Springtail/Entomobryidae.md)
-    -   [Tomoceridae](Springtail/Tomoceridae.md)
-
 # [[Springtail]]
-
-Springtails 
+ 
 
 ![Collembola](Springtail/Collembola-1.jpg)  ![Symphypleona](Springtail/DSCN0061.jpg)  ![Collembola](Springtail/Collembola.jpg) 
 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Springtail,190701|WD~Springtail,190701]] 
 ## #has_/text_of_/abstract 
 
 > Springtails (class **Collembola**) form the largest of the three lineages of 
@@ -68,6 +65,30 @@ Springtails
 > If they are considered a basal lineage of Hexapoda, they are elevated to full class status.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Springtail) 
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -  [Hexapoda](../Hexapoda.md))
+    -  [Arthropoda](../../Arthropoda.md))
+    -  [Bilateria](../../../Bilateria.md))
+    -  [Animals](../../../../Animals.md))
+    -  [Eukarya](../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Hexapoda
+    -   Collembola
+    -  [Protura](Protura.md))
+    -  [Diplura](Diplura.md))
+    -  [Insect](Insect.md))
+
+-   » Sub-Groups
+    -   [Poduromorpha](Springtail/Poduromorpha.md)
+    -   [Symphypleona](Springtail/Symphypleona.md)
+    -   [Neelidae](Neelidae)
+    -   [Isotomidae](Springtail/Isotomidae.md)
+    -   [Entomobryidae](Springtail/Entomobryidae.md)
+    -   [Tomoceridae](Springtail/Tomoceridae.md)
 
 
 ### Information on the Internet

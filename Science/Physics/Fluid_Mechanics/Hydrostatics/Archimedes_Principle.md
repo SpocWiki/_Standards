@@ -21,16 +21,17 @@ Krugosvet_article: nauka_i_tehnika/fizika/ZAKON_ARHIMEDA.html
 
 # [[Archimedes_Principle]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Archimedes'_principle,181404|WD~Archimedes'_principle,181404]] 
+#is_/same_as :: [[../../../../WikiData/WD~Archimedes'_principle,181404|WD~Archimedes'_principle,181404]] 
 
 ## #has_/text_of_/abstract 
 
 > Archimedes' principle states that 
-> the upward buoyant force that is exerted on a body immersed in a fluid, whether fully or partially, 
+> the upward buoyant force that is exerted on a body immersed in a fluid, 
+> whether fully or partially, 
 > is equal to the weight of the fluid that the body displaces. 
 > 
 > Archimedes' principle is a law of physics fundamental to fluid mechanics. 
-> It was formulated by [[../../Scientist/Ancient_Scientists/Archimedes|Archimedes of Syracuse]].
+> It was formulated by [[../../../Scientist/Ancient_Scientists/Archimedes|Archimedes of Syracuse]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Archimedes'%20principle) 
 
