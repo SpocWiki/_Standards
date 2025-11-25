@@ -1,5 +1,4 @@
 ---
-age_of_majority: 18
 aliases:
   - Venezuela
   - Venezuela (Bolivarian Republic of)
@@ -10,6 +9,8 @@ aliases:
   - Венесуэла (Боливарианская Республика)
   - the Bolivarian Republic of Venezuela
   - la República Bolivariana de Venezuela
+has_id_wikidata: Q717
+age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~gloria_al_bravo_pueblo,208153]]"
 area: 912050
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Intro%20Venezuela%20es.wp.ogg
@@ -221,7 +222,6 @@ GS1_country_code: 759
 Happy_Planet_Index_score: 48.9
 hashtag: Venezuela
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-has_id_wikidata: Q717
 head_of_government: "[[_Standards/WikiData/WD~Nicolás_Maduro,58132]]"
 head_of_state:
   - "[[_Standards/WikiData/WD~Nicolás_Maduro,58132]]"
@@ -435,12 +435,6 @@ WIPO_ST_3: VE
 
 # [[Venezuela]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Venezuela 
-
-[[Venezuela/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: VES ]
 [	ISO4217-currency_name	 :: Bolívar ]
 [	ISO4217-currency_numeric	 :: 937 ]
@@ -504,15 +498,17 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 862 ]
 
-
-
 [ISO2::VE]
 [ISO3::VEN] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Venezuela,717|WD~Venezuela,717]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Venezuela 
+
+[[Venezuela/ReadMe]] 
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Venezuela
@@ -521,6 +517,10 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Venezuela//
 markerFolder: ./Venezuela/
+coordinates: [[Venezuela]] 
+markerFile: [[Venezuela]] 
+zoomFeatures: true
+defaultZoom: 7 
 ```
 
 [name-en::Venezuela]

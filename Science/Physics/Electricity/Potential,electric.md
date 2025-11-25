@@ -4,6 +4,7 @@ aliases:
   - electric field potential
   - potential drop
   - electrostatic potential
+  - Electric_Potential
 has_id_wikidata: Q55451
 subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
@@ -38,7 +39,7 @@ IEV_number: 121-11-25
 Commons_category: Electric potential
 ---
 
-# [[Electric_Potential]] 
+# [[Potential,electric]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Electric_potential,55451|WD~Electric_potential,55451]] 
 
