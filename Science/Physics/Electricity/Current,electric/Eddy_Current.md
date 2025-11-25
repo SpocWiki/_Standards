@@ -8,7 +8,7 @@ has_id_wikidata: Q208598
 
 # [[Eddy_Current]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Eddy_current,208598|WD~Eddy_current,208598]] 
+#is_/same_as :: [[../../../../WikiData/WD~Eddy_current,208598|WD~Eddy_current,208598]] 
 
 ## #has_/text_of_/abstract 
 

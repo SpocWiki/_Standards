@@ -1,6 +1,7 @@
 
 # [[Happiness]] 
 
+#is_/opposite_of :: [[Suffering]] 
 #is_/same_as :: [[WD~Happiness,8]] 
 
 ## #has_/text_of_/abstract 

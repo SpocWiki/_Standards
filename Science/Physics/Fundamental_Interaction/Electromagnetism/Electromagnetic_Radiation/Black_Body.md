@@ -1,11 +1,20 @@
 ---
 has_id_wikidata: Q161424
+instance_of: "[[_Standards/WikiData/WD~scientific_model,193946]]"
+represents: "[[_Standards/WikiData/WD~physical_object,223557]]"
+subclass_of: "[[_Standards/WikiData/WD~physical_object,223557]]"
+opposite_of: "[[_Standards/WikiData/WD~white_body,15901132]]"
+studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+Dewey_Decimal_Classification: "536.3"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20body%20realization.svg
+IEV_number: 845-24-004
+Commons_category: Black body
 ---
 # [[Black_Body]] 
 
 #is_/similar_to :: [[White_Body]] 
 #is_/similar_to :: [[Gray_Body]] 
-#is_/same_as :: [[../../../WikiData/WD~Black_body,161424|WD~Black_body,161424]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Black_body,161424|WD~Black_body,161424]] 
 
 ## #has_/text_of_/abstract 
 
