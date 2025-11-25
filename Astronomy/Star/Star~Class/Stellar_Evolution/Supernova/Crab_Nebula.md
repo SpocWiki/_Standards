@@ -54,7 +54,7 @@ Commons_gallery: Messier 1
 
 #has_/creator :: [[Crab_Supernova]] 
 #has_/time_/started :: 1054-07-10 
-#is_/same_as :: [[../../WikiData/WD~Crab_Nebula,10934|WD~Crab_Nebula,10934]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Crab_Nebula,10934|WD~Crab_Nebula,10934]] 
 
 ## #has_/text_of_/abstract 
 

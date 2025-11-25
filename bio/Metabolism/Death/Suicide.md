@@ -1,67 +1,73 @@
 ---
+aliases:
+  - Selbstmord
+has_id_wikidata: Q10737
 Archive_of_Our_Own_tag: Suicide
 Commons_category: Suicide
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 Dewey_Decimal_Classification:
-- 362.28
-- 179.7
-- 364.1522
-- 345.02522
-- 394.88
-- 616.858445
+  - 362.28
+  - 179.7
+  - 364.1522
+  - 345.02522
+  - 394.88
+  - 616.858445
 different_from:
-- '[[_Standards/WikiData/WD~erotic_asphyxiation,603780]]'
-- '[[_Standards/WikiData/WD~line_of_duty_death,1036604]]'
+  - "[[_Standards/WikiData/WD~erotic_asphyxiation,603780]]"
+  - "[[_Standards/WikiData/WD~line_of_duty_death,1036604]]"
 DiseasesDB: 12641
 distribution_map:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Death%20rate%20from%20suicides%20%28IHME%20%281990%20to%202016%29%29%2C%20OWID.svg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Male-Female%20suicide%20ratios%20and%20rates%202015%20%28age-standardized%29.svg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Death%20rate%20from%20suicides%20%28IHME%20%281990%20to%202016%29%29%2C%20OWID.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Male-Female%20suicide%20ratios%20and%20rates%202015%20%28age-standardized%29.svg
 Gujarati_Vishwakosh_entry: આપઘાત
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~suicide_prevention,3298118]]'
+handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~suicide_prevention,3298118]]"
 hashtag: suicide
 has_cause:
-- '[[_Standards/WikiData/WD~frustration,192242]]'
-- '[[_Standards/WikiData/WD~human_overpopulation,331439]]'
-- '[[_Standards/WikiData/WD~existential_crisis,2603358]]'
-- '[[_Standards/WikiData/WD~psychological_stress,3500368]]'
-has_id_wikidata: Q10737
+  - "[[_Standards/WikiData/WD~frustration,192242]]"
+  - "[[_Standards/WikiData/WD~human_overpopulation,331439]]"
+  - "[[_Standards/WikiData/WD~existential_crisis,2603358]]"
+  - "[[_Standards/WikiData/WD~psychological_stress,3500368]]"
 health_specialty:
-- '[[_Standards/WikiData/WD~psychiatry,7867]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Le%20Suicid%C3%A9.jpg"
+  - "[[_Standards/WikiData/WD~psychiatry,7867]]"
+  - "[[_Standards/WikiData/WD~psychology,9418]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Le%20Suicid%C3%A9.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
-- '[[_Standards/WikiData/WD~manner_of_death,2438541]]'
+  - "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
+  - "[[_Standards/WikiData/WD~manner_of_death,2438541]]"
 IPTC_NewsCode: mediatopic/20000813
 Krugosvet_article: gumanitarnye_nauki/sociologiya/SAMOUBISTVO_SUITSID.html
 MeSH_tree_code:
-- F01.145.126.980.875
-- I01.880.735.856
+  - F01.145.126.980.875
+  - I01.880.735.856
 number_of_casualties: 800000
-part_of: '[[_Standards/WikiData/WD~calamity,1689296]]'
-perpetrator: '[[_Standards/WikiData/WD~suicide_victim,89062296]]'
+part_of: "[[_Standards/WikiData/WD~calamity,1689296]]"
+perpetrator: "[[_Standards/WikiData/WD~suicide_victim,89062296]]"
 PhilPapers_topic: suicide
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%86%E0%AC%A4%E0%AD%8D%E0%AC%AE%E0%AC%B9%E0%AC%A4%E0%AD%8D%E0%AD%9F%E0%AC%BE.wav"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%86%E0%AC%A4%E0%AD%8D%E0%AC%AE%E0%AC%B9%E0%AC%A4%E0%AD%8D%E0%AD%9F%E0%AC%BE.wav
 social_media_followers: 420698
 subclass_of:
-- '[[_Standards/WikiData/WD~killing,844482]]'
-- '[[_Standards/WikiData/WD~tragedy,1881552]]'
-- '[[_Standards/WikiData/WD~autoaggression,4072473]]'
+  - "[[_Standards/WikiData/WD~killing,844482]]"
+  - "[[_Standards/WikiData/WD~tragedy,1881552]]"
+  - "[[_Standards/WikiData/WD~autoaggression,4072473]]"
 subreddit: SuicideWatch
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Suicide_sidebar,13378273]]'
-- '[[_Standards/WikiData/WD~Template_Suicide_navbox,15634300]]'
+  - "[[_Standards/WikiData/WD~Template_Suicide_sidebar,13378273]]"
+  - "[[_Standards/WikiData/WD~Template_Suicide_navbox,15634300]]"
 UMLS_CUI: C0038661
 U_S_National_Archives_Identifier: 10665299
-victim_s_: '[[_Standards/WikiData/WD~suicide_victim,89062296]]'
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/What%20is%20suicide.webm"
+victim_s_: "[[_Standards/WikiData/WD~suicide_victim,89062296]]"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/What%20is%20suicide.webm
 ---
+
+# [[Suicide]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Suicide,10737|WD~Suicide,10737]] 
 
 ## #has_/text_of_/abstract 
 
