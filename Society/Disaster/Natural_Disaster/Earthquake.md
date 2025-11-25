@@ -110,13 +110,13 @@ type: private_note
 
 # [[Earthquake]] 
 
-#see :: [[../../../Earth/Climate/Lithosphere/Earth_Crust|Earth_Crust]] 
+#see :: [[../../../Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust|Earth_Crust]] 
 #is_/same_as :: [[../../../WikiData/WD~Earthquake,7944|WD~Earthquake,7944]]  
 
 ## #has_/text_of_/abstract 
 
 > An **Earthquake** – also called a quake, tremor, or temblor – is the shaking of the Earth's surface 
-> resulting from a sudden release of energy in the [[../../../Earth/Climate/Lithosphere|Lithosphere]] that creates seismic waves. 
+> resulting from a sudden release of energy in the [[../../../Earth/Climate/Structure_of_Earth/Lithosphere|Lithosphere]] that creates seismic waves. 
 > 
 > Earthquakes can range in intensity, from those so weak they cannot be felt, 
 > to those violent enough to propel objects and people into the air, damage critical infrastructure, and wreak destruction across entire cities. The seismic activity of an area is the frequency, type, and size of earthquakes experienced over a particular time. The seismicity at a particular location in the Earth is the average rate of seismic energy release per unit volume.

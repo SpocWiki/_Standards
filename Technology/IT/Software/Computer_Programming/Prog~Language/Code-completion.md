@@ -11,7 +11,7 @@ which often required the developer to
 - __constantly refer to Handbooks__ 
 - __or memorize__ most of the Constructs and Libraries. 
 
-The latter was possible for simple Languages like [[Prog~Structured/Structured_Prog-Lang/Prog~Pascal|Prog~Pascal]], 
+The latter was possible for simple Languages like[[Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Pascal|Prog~Pascal]]], 
 but it becomes completely utopian with today's requirements. 
 
 A first step to increase productivity were [[Help-Files]], 

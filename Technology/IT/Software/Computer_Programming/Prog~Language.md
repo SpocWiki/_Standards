@@ -110,7 +110,7 @@ Wolfram_Language_entity_type: ProgrammingLanguage
 
 ## Grammar Paradigms 
 
-[[Prog~Language/Prog~Structured|Prog~Structured]], [[Prog~Language/Prog~Functional|Prog~Functional]] , [[Prog~Language/Prog~OO|Prog~OO]] , [[Prog~Language/Prog~Logic|Prog~Logic]] 
+[[Prog~Language/Prog~Paradigm/Prog~Structured|Prog~Structured]], [[Prog~Language/Prog~Paradigm/Prog~Functional|Prog~Functional]] , [[Prog~Language/Prog~Paradigm/Prog~OO|Prog~OO]] , [[Prog~Language/Prog~Paradigm/Prog~Logic|Prog~Logic]] 
 As of 2010, most Programming-Languages support multiple Paradigms, 
 so you can choose and mix Approaches 
 without having to interface between different Runtimes or even Languages. 

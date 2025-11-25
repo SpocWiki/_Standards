@@ -2,7 +2,7 @@
 #is_/different_from :: [[Fail-fast-Culture]]  
 #is_/conflicting_/with :: [[Robustness-Principle]] 
 
-[[../Prog~Structured/Exception-Handling|Exception-Handling]] 
+[[../Prog~Paradigm/Prog~Structured/Exception-Handling|Exception-Handling]] 
 
 ## #has_/text_of_/abstract 
 
