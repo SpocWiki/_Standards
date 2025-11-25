@@ -1238,17 +1238,6 @@ icon: flag-id
 ---
 
 # [[Indonesia]] 
-
-#is_/same_as :: [[../../../../../WikiData/WD~Indonesia,252|WD~Indonesia,252]]   
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Indonesia 
-
-[[Indonesia/ReadMe]] 
-
- 
-![[Flag_of_Indonesia.svg|350]]
-
  
 [	ISO4217-currency_alphabetic	 :: IDR ]
 [	ISO4217-currency_name	 :: Rupiah ]
@@ -1316,7 +1305,15 @@ Sub-region_Name ::  [[South-eastern Asia]]
 [ISO2::ID]
 [ISO3::IDN] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Indonesia,252|WD~Indonesia,252]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Indonesia,252|WD~Indonesia,252]]   
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Indonesia 
+
+[[Indonesia/ReadMe]] 
+
+ 
+![[Flag_of_Indonesia.svg|350]]
 
 ## Directions in Indonesian 
 
