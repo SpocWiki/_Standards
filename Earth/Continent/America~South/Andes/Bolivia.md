@@ -397,12 +397,6 @@ subreddit: BOLIVIA
 
 # [[Bolivia]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Bolivia 
-
-[[Bolivia/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: BOB ]
 [	ISO4217-currency_name	 :: Boliviano ]
 [	ISO4217-currency_numeric	 :: 068 ]
@@ -471,10 +465,13 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Bolivia,750|WD~Bolivia,750]] 
 
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Bolivia 
+
+[[Bolivia/ReadMe]] 
+
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Bolivia
@@ -483,6 +480,10 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Bolivia//
 markerFolder: ./Bolivia/
+coordinates: [[Bolivia]] 
+markerFile: [[Bolivia]] 
+zoomFeatures: true
+defaultZoom: 7 
 ```
 
 [name-en::Bolivia]
