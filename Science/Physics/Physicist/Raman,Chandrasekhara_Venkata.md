@@ -4,6 +4,7 @@ aliases:
   - Chandrasekhara Venkata Raman
   - C. V. Raman
   - சந்திரசேகர வெங்கட ராமன்
+  - Cantiracēkara Veṅkaṭa Rāmaṉ
 has_id_wikidata: Q60429
 member_of:
   - "[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]"
@@ -94,7 +95,8 @@ name_in_native_language: சந்திரசேகர வெங்கட ர�
 
 ## #has_/text_of_/abstract 
 
-> Sir Chandrasekhara Venkata "C. V." Raman ( RAH-muhn; Tamil: சந்திரசேகர வெங்கட ராமன், romanised: Cantiracēkara Veṅkaṭa Rāmaṉ; 7 November 1888 – 21 November 1970) 
+> Sir Chandrasekhara Venkata "C. V." Raman ( RAH-muhn; Tamil: சந்திரசேகர வெங்கட ராமன், romanised: Cantiracēkara Veṅkaṭa Rāmaṉ; 
+> 7 November 1888 – 21 November 1970) 
 > was an Indian physicist known for his work in the field of light scattering. 
 > 
 > Using a spectrograph that he developed, 

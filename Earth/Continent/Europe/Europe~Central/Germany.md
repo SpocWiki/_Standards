@@ -690,7 +690,7 @@ Major Cities with Population in 1000s as of @2020
 | Munich     | [[Germany/Germany~West/Bayern\|Bavaria]]                |  1488 |
 | [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City\|Cologne]]    | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |  1085 |
 | [[../../../../../heuerm/heuerm~Contacts/Einkaufen/Frankfurt\|Frankfurt]]  | [[Germany/Germany~West/Hessen\|Hesse]]                  |   764 |
-| [[Germany/Germany~West/Baden-Wuerttemberg/Stuttgart\|Stuttgart]]  | [[Germany/Germany~West/Baden-Wuerttemberg\|Baden-Württemberg]]      |   635 |
+| [[Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City\|Stuttgart]]  | [[Germany/Germany~West/Baden-Wuerttemberg\|Baden-Württemberg]]      |   635 |
 | [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf\|Düsseldorf]] | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |   620 |
 | [[Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Leipzig\|Leipzig]]    | [[Germany/Germany~East/Sachsen\|Saxony]]                 |   597 |
 | [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Dortmund\|Dortmund]]   | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |   588 |
