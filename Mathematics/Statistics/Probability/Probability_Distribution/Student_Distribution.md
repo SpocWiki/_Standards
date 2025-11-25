@@ -33,7 +33,7 @@ variance_of_a_probability_distribution: <math class="mwe-math-element mwe-math-e
 
 # [[Student_Distribution]] 
 
-#is_/same_as :: [[WD~Student's_t-distribution,576072]] 
+#is_/same_as :: [[../../../../WikiData/WD~Student's_t-distribution,576072|WD~Student's_t-distribution,576072]]  
 
 ## #has_/text_of_/abstract 
 

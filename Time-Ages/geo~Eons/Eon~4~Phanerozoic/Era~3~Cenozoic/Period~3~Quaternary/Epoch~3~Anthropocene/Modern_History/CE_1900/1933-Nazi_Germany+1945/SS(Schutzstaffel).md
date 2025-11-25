@@ -1,6 +1,8 @@
 ---
 aliases:
   - Saal-Schutz
+  - ᛋᛋ
+  - Schutzstaffel
 has_id_wikidata: Q44687
 Commons_category: SS (Nazi Germany)
 inception: 1925-04-04T00:00:00Z
@@ -76,6 +78,7 @@ ISNI: "0000000115203458"
 # [[SS(Schutzstaffel)]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Schutzstaffel,44687|WD~Schutzstaffel,44687]] 
+#has_/previous_/item :: [[SA(Sturmabteilung)]]   
 
 ## #has_/text_of_/abstract 
 
