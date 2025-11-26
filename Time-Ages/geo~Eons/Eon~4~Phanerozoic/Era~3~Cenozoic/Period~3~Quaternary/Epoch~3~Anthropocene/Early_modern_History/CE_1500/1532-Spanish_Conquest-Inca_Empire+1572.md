@@ -17,7 +17,7 @@ coordinate_location: Point(-71.983333 -13.522222)
 ---
 
 
-# [[1532-Spanish_conquest_of_the_Inca_Empire+1572]]
+# [[1532-Spanish_Conquest-Inca_Empire+1572]]
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Spanish_conquest_of_the_Inca_Empire,636771|WD~Spanish_conquest_of_the_Inca_Empire,636771]]  
 
