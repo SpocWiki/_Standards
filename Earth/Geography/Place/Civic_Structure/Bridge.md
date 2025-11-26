@@ -133,7 +133,6 @@ title: is_a_bridge Class
 type: Type
 ---
 
-
 # [[Bridge]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bridge,12280|WD~Bridge,12280]] 
@@ -142,7 +141,7 @@ type: Type
 Class of all bridges.
 
 Tag Instances like this: 
-#is_a_/bridge
+#is_a_/bridge 
 
 A bridge.
 
