@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Syncretismus
 has_id_wikidata: Q172904
 has_characteristic: "[[_Standards/WikiData/WD~Eclecticism,192068]]"
 described_by_source:

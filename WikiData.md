@@ -217,8 +217,9 @@ search_formatter_URL: https://www.wikidata.org/w/index.php?search=$1
 
 #is_/same_as :: [[WD~WikiData,2013]]
 
-This Folder contains more than 10_000 Copies of Core-[[../Data/Wikipedia/WikiData|WikiData]] Entities in a flat structure,
-to allow for stable, generic Links formed by the (english) Name and ID of the Subject. 
+This Folder contains more than 9999 Core-[[../Data/Wikipedia/WikiData|WikiData]] Entities in a flat structure,
+to allow for stable, generic, relative Links formed by the (english) Name 
+and WikiData Entity-ID of the Subject, which start with 'Q'. 
 To this purpose, configure the [obsidian-wikidata-importer](https://github.com/samwho/obsidian-wikidata-importer) to use 
 - the Wikidata Entity Key `has_id_wikidata` and 
 - the Internal Link Prefix `_Standards/WikiData/WD~${label},${id}` 

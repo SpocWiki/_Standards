@@ -212,7 +212,7 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 1994 | [[../../../../../../Earth/Continent/Europe/Europe~North/Norway\|Norway]]             | [[Lillehammer]]                 |  W  | 1994-02-12 | 1948-02-27 |
 | 1996 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         |[[../../../../../bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta]]]                     |  S  | 1996-07-19 | 1948-08-04 |
 | 1998 | [[../../../../../../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                    | [[../../../../../Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Nagano]]                      |  W  | 1998-02-07 | 1936-02-22 |
-| 2000 | [[../../../../../../Earth/Continent/Australasia/Australia\|Australia]]               | [[Sydney]]                      |  S  | 2000-09-15 | 1936-10-01 |
+| 2000 | [[../../../../../../Earth/Continent/Australasia/Australia\|Australia]]               | [[../../../../../Earth/Continent/Australasia/Australia/Counties/New_South_Wales/counties~NewSouthWales/Sydney,County/Sydney,City]]                      |  S  | 2000-09-15 | 1936-10-01 |
 | 2002 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Salt Lake City]]              |  W  | 2002-02-08 | 1932-02-24 |
 | 2004 | [[../../../../../../Earth/Continent/Europe/Europe~South/Greece\|Greece]]             | [[Athens]]                      |  S  | 2004-08-13 | 1932-08-29 |
 | 2006 | [[../../../../../../Earth/Continent/Europe/Europe~South/Italy\|Italy]]               | [[Turin]]                       |  W  | 2006-02-10 | 1928-02-26 |

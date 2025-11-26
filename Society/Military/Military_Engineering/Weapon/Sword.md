@@ -1,6 +1,7 @@
 ---
 aliases:
   - Schwert
+has_id_wikidata: Q12791
 Commons_category: Swords
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -17,7 +18,6 @@ different_from:
   - "[[_Standards/WikiData/WD~Swaard,107189961]]"
   - "[[_Standards/WikiData/WD~Dorado,8837]]"
 EAGLE_id: decor/lod/147
-has_id_wikidata: Q12791
 has_part_s_:
   - "[[_Standards/WikiData/WD~handle,200266]]"
   - "[[_Standards/WikiData/WD~blade,330946]]"
@@ -37,6 +37,10 @@ subclass_of:
 subreddit: SWORDS
 used_by: "[[_Standards/WikiData/WD~swordfighter,11397897]]"
 ---
+
+# [[Sword]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Sword,12791|WD~Sword,12791]] 
 
 ## #has_/text_of_/abstract 
 
