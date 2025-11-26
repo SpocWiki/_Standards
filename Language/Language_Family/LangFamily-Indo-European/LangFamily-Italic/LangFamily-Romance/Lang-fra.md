@@ -6,7 +6,11 @@ aliases:
   - French
   - French language
   - Französisch
+  - Französische Sprache
   - Francais
+  - français
+  - langue française
+has_id_wikidata: Q150
 Archive_of_Our_Own_tag: Français | French
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/2016-10-24%20De%20nouvelles%20images%20de%20l%27atmosph%C3%A8re%20de%20Mars.ogg
 Baidu_Tieba_name: 法语
@@ -108,7 +112,6 @@ has_grammatical_person:
   - "[[_Standards/WikiData/WD~third-person_feminine_singular,52431970]]"
   - "[[_Standards/WikiData/WD~third-person_masculine_plural,52432983]]"
   - "[[_Standards/WikiData/WD~third-person_feminine_plural,52433019]]"
-has_id_wikidata: Q150
 has_tense:
   - "[[_Standards/WikiData/WD~present_tense,192613]]"
   - "[[_Standards/WikiData/WD~preterite,442485]]"

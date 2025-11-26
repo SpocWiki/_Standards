@@ -5,7 +5,8 @@ aliases:
   - Ελληνικά
   - Elliniká
   - Ἑλληνική
-  - Hellēnikḗ
+  - Hellēnikḗ 
+  - Griechisch 
 ABS_ASCL_2011_code:
   - 22
   - 2201

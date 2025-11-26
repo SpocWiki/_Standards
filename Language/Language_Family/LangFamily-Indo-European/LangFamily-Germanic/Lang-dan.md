@@ -1,6 +1,10 @@
 ---
 aliases:
   - Danish Language
+  - Danish
+  - Dänisch
+  - dansk 
+  - dansk sprog
 has_id_wikidata: Q9035
 has_grammatical_case:
   - "[[_Standards/WikiData/WD~nominative_case,131105]]"

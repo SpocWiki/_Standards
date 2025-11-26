@@ -7,7 +7,7 @@ aliases:
   - deutschsprachige
   - deutschsprachigen
   - German language
-  - deutsch
+  - Deutsch
   - deutsche Sprache
 Archive_of_Our_Own_tag: Deutsch | German
 Baidu_Tieba_name: 德语

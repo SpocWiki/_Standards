@@ -1,7 +1,11 @@
 ---
 aliases:
   - Dutch
-  - Nederlands
+  - Dutch Language
+  - Holländisch
+  - Niederländisch
+  - Nederlands 
+  - Nederlandse taal
 tags:
   - Lang/nl
 type: Lang
@@ -162,6 +166,17 @@ short_name:
 #has_/name_/de_ :: Holländisch  
 
 #is_/same_as :: [[../../../../WikiData/WD~Dutch,7411|WD~Dutch,7411]] 
+
+## #has_/text_of_/abstract 
+
+> Dutch (endonym: Nederlands [ˈneːdərlɑnts] , Nederlandse taal) 
+> is a West Germanic language of the Indo-European language family, spoken by about 25 million people as a first language and 5 million as a second language and is the third most spoken Germanic language. In Europe, Dutch is the native language of most of the population of the Netherlands and Flanders (which includes 60% of the population of Belgium). Dutch was one of the official languages of South Africa until 1925, when it was replaced by Afrikaans, a separate but partially mutually intelligible daughter language of Dutch. Afrikaans, depending on the definition used, may be considered a sister language, spoken, to some degree, by at least 16 million people, mainly in South Africa and Namibia, and evolving from Cape Dutch dialects.
+>
+> In South America, Dutch is the native language of the majority of the population of Suriname, and spoken as a second or third language in the multilingual Caribbean island countries of Aruba, Curaçao and Sint Maarten. All these countries have recognised Dutch as one of their official languages, and are involved in one way or another in the **Dutch Language** Union. The Dutch Caribbean municipalities (St. Eustatius, Saba and Bonaire) have Dutch as one of the official languages. In Asia, Dutch was used in the Dutch East Indies (now mostly Indonesia) by a limited educated elite of around 2% of the total population, including over 1 million indigenous Indonesians, until it was banned in 1957, but the ban was lifted afterwards. About a fifth of the Indonesian language can be traced to Dutch, including many loan words. Indonesia's Civil Code has not been officially translated, and the original Dutch language version dating from colonial times remains the authoritative version. Up to half a million native speakers reside in the United States, Canada and Australia combined, and historical linguistic minorities on the verge of extinction remain in parts of France and Germany.
+>
+> Dutch is one of the closest relatives of both German and English, and is colloquially said to be "roughly in between" them. Dutch, like English, has not undergone the High German consonant shift, does not use Germanic umlaut as a grammatical marker, has largely abandoned the use of the subjunctive, and has levelled much of its morphology, including most of its case system. Features shared with German, however, include the survival of two to three grammatical genders – albeit with few grammatical consequences – as well as the use of modal particles, final-obstruent devoicing, and (similar) word order. Dutch vocabulary is mostly Germanic; it incorporates slightly more Romance loans than German, but far fewer than English.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Dutch%20language)
 
 ## Confidential Links & Embeds: 
 

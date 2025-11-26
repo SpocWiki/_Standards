@@ -26,19 +26,51 @@ UMLS_CUI: C0039003
 Unicode_character: "\U0001F3CA"
 ---
 
+# [[Swimming]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Swimming,31920|WD~Swimming,31920]] 
+#is_/same_as :: [[WD~Swimming,6388]]
+
 ## #has_/text_of_/abstract 
 
-> **Swimming** is the self-propulsion of a person through water or other liquid, such as saltwater or freshwater environments, usually for recreation, sport, exercise, or survival. Swimmers achieve locomotion by coordinating limb and body movements to achieve hydrodynamic thrust that results in directional motion. Newborns can instinctively hold their breath underwater and exhibit rudimentary swimming movements as part of a survival reflex. Swimming requires endurance, skill, and efficient techniques to maximize speed and minimize energy consumption.
+> **Swimming** is the self-propulsion of a person through water or other liquid, 
+> such as saltwater or freshwater environments, usually for recreation, sport, exercise, or survival. 
+> 
+> Swimmers achieve locomotion by coordinating limb and body movements 
+> to achieve hydrodynamic thrust that results in directional motion. 
+> Newborns can instinctively hold their breath underwater 
+> and exhibit rudimentary swimming movements as part of a survival reflex. 
+> Swimming requires endurance, skill, and efficient techniques 
+> to maximize speed and minimize energy consumption.
 >
-> Swimming is a popular activity and competitive sport where certain techniques are deployed to move through water. It offers numerous health benefits, such as strengthened cardiovascular health, muscle strength, and increased flexibility. It is suitable for people of all ages and fitness levels.
+> Swimming is a popular activity and competitive sport 
+> where certain techniques are deployed to move through water. 
+> 
+> It offers numerous health benefits, such as strengthened cardiovascular health, 
+> muscle strength, and increased flexibility. It is suitable for people of all ages and fitness levels.
 >
-> Swimming is consistently among the top public recreational activities, and in some countries, swimming lessons are a compulsory part of the educational curriculum.  As a formalized sport, swimming is featured in various local, national, and international competitions, including every modern Summer Olympics.
+> Swimming is consistently among the top public recreational activities, 
+> and in some countries, swimming lessons are a compulsory part of the educational curriculum.  
+> As a formalized sport, swimming is featured in various local, national, 
+> and international competitions, including every modern Summer Olympics.
 >
-> Swimming involves repeated motions known as strokes to propel the body forward. While the front crawl, also known as freestyle, is widely regarded as the fastest of the four main strokes, other strokes are practiced for special purposes, such as training.
+> Swimming involves repeated motions known as strokes to propel the body forward. 
+> While the front crawl, also known as freestyle, 
+> is widely regarded as the fastest of the four main strokes, 
+> other strokes are practiced for special purposes, such as training.
 >
-> Swimming comes with certain risks, mainly because of the aquatic environment where it takes place. For instance, swimmers may find themselves incapacitated by panic and exhaustion, both potential causes of death by drowning. Other dangers may arise from exposure to infection or hostile aquatic fauna. To minimize such eventualities, most facilities employ a lifeguard to keep alert for any signs of distress.
+> Swimming comes with certain risks, mainly because of the aquatic environment where it takes place. 
+> For instance, swimmers may find themselves incapacitated by panic and exhaustion, 
+> both potential causes of death by drowning. 
+> Other dangers may arise from exposure to infection or hostile aquatic fauna. 
+> To minimize such eventualities, most facilities employ a lifeguard to keep alert for any signs of distress.
 >
-> Swimmers often wear specialized swimwear, although depending on the area's culture, some swimmers may also swim nude or wear their day attire. In addition, a variety of equipment can be used to enhance the swimming experience or performance, including but not limited to the use of swimming goggles, floatation devices, swim fins, and snorkels.
+> Swimmers often wear specialized swimwear, although depending on the area's culture, 
+> some swimmers may also swim nude or wear their day attire. 
+> 
+> In addition, a variety of equipment can be used 
+> to enhance the swimming experience or performance, including but not limited to the use of 
+> swimming goggles, floatation devices, swim fins, and snorkels.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Swimming) 
 

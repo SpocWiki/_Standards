@@ -1,7 +1,8 @@
 ---
 ABS_ASCL_2011_code: 2302
 aliases:
-  - Portuguese
+  - Portuguese 
+  - Portugisisch  
   - Portuguese language
 has_id_wikidata: Q5146
 audio:

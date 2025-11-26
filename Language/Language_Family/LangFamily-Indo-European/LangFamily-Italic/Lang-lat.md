@@ -1,6 +1,8 @@
 ---
 aliases:
   - Latin
+  - Latein
+  - Lateinisch 
   - Lang-la
 ABS_ASCL_2011_code: 2902
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Pronunciation%20of%20Latin%20%28Text%29.ogg
