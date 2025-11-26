@@ -57,8 +57,7 @@ label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-e
 
 # [[Summer]]
 
-#is_/same_as :: [[../../../WikiData/WD~Summer,1313|WD~Summer,1313]]
-
+#is_/same_as :: [[../../../WikiData/WD~Summer,1313|WD~Summer,1313]] 
 
 ## #has_/text_of_/abstract 
 
