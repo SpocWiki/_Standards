@@ -25,7 +25,9 @@ type:
 ---
 
 # [[Composite]]
+
 #is_a_/class  
+
 The Composite is assembled from [[Composite/Part|Part]]s AKA Components. 
 It is the Object of the [is_part_of](Composite/is_part_of.md) Relation from the [[Composite/Part|Part]]s. 
 
@@ -37,6 +39,8 @@ Composites are typically finite and physical.
 Composites can be modelled in 2 ways: 
 - normalized/unpivoted: as a Collection of [[Composite/is_part_of|is_part_of]] Relations/Claims, either untyped or typed [[Composite/is_part_of|is_part_of]]  sub-Relations. 
 - denormalized/pivoted: better as typed Classes with named and typed Member-Properties and -Links 
+
+
 
 
 ## Confidential Links & Embeds: 

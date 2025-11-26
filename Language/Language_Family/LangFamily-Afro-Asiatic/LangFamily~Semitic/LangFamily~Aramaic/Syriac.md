@@ -1,0 +1,87 @@
+---
+aliases:
+  - Syriac
+  - Suret
+  - ܣܘܪܝܬ
+  - Assyrian"
+has_id_wikidata: Q33538
+indigenous_to: "[[_Standards/WikiData/WD~Şanlıurfa_Province,388469]]"
+religion_or_worldview:
+  - "[[_Standards/WikiData/WD~Ancient_Church_of_the_East,435787]]"
+  - "[[_Standards/WikiData/WD~Malankara_Orthodox_Syrian_Church,532662]]"
+  - "[[_Standards/WikiData/WD~Assyrian_Pentecostal_Church,4810445]]"
+  - "[[_Standards/WikiData/WD~Chaldean_Catholic_Church,64868]]"
+has_grammatical_gender:
+  - "[[_Standards/WikiData/WD~masculine,499327]]"
+  - "[[_Standards/WikiData/WD~feminine,1775415]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~sacred_language,839470]]"
+  - "[[_Standards/WikiData/WD~historical_language,2315359]]"
+  - "[[_Standards/WikiData/WD~natural_language,33742]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+different_from: "[[_Standards/WikiData/WD~Syrian_Arabic,2143071]]"
+writing_system:
+  - "[[_Standards/WikiData/WD~Estrangela,3510984]]"
+  - "[[_Standards/WikiData/WD~Syriac_alphabet,26567]]"
+studied_by: "[[_Standards/WikiData/WD~Syriac_studies,7663197]]"
+Ethnologue_language_status: "[[_Standards/WikiData/WD~9_Second_language_only,61954942]]"
+topic_has_template: "[[_Standards/WikiData/WD~Q104771328,104771328]]"
+subclass_of: "[[_Standards/WikiData/WD~Aramaic,28602]]"
+country: "[[_Standards/WikiData/WD~Turkey,43]]"
+POSIX_locale_identifier: syr
+OmegaWiki_Defined_Meaning: "499384"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Syriac%20-%20Estrangelo%20Nisibin%20Calligraphy.png
+exact_match: http://publications.europa.eu/resource/authority/language/SYC
+Glottolog_code: clas1252
+Ethnologue_com_language_code: syc
+Wikimedia_language_code: syc
+IETF_language_tag: syc
+ISO_639_3_code: syc
+ISO_639_2_code: syc
+Commons_category: Syriac language
+GOST_7_75_97_code: сир 602
+entry_in_abbreviations_table: сир.
+native_label: ܠܫܢܐ ܣܘܪܝܝܐ
+Dewey_Decimal_Classification: "492.3"
+---
+
+# [[Syriac]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Syriac,33538|WD~Syriac,33538]]  
+
+## #has_/text_of_/abstract 
+
+> Suret (**Syriac**: ܣܘܪܝܬ, pronounced [ˈsuːrɪtʰ], [ˈsuːrɪθ]), also known as Assyrian, 
+> is any of several varieties of Northeastern Neo-Aramaic (NENA) spoken by Christians, namely Assyrians. 
+> 
+> The various NENA dialects descend from Old Aramaic, 
+> the lingua franca in the later phase of the Assyrian Empire, 
+> which slowly displaced the East Semitic Akkadian language 
+> beginning around the 10th century BC. 
+> 
+> They have been further heavily influenced by Classical Syriac, 
+> the Middle Aramaic dialect of Edessa, 
+> after its adoption as an official liturgical language of the Syriac churches, 
+> but Suret is not a direct descendant of Classical Syriac.
+>
+> Suret speakers are indigenous to Upper Mesopotamia, northwestern Iran, 
+> southeastern Anatolia and the northeastern Levant, 
+> which is a large region stretching from the plain of Urmia in northwestern Iran 
+> through to the Nineveh Plains, Erbil, Kirkuk and Duhok regions in northern Iraq, 
+> together with the northeastern regions of Syria and to south-central and southeastern Turkey. 
+> 
+> Instability throughout the Middle East over the past century 
+> has led to a worldwide diaspora of Suret speakers, 
+> with most speakers now living abroad in such places as North and South America, Australia, Europe and Russia. 
+> 
+> Speakers of Suret and Turoyo (Surayt) are ethnic Assyrians 
+> and are the descendants of the ancient inhabitants of Mesopotamia.
+>
+> SIL distinguishes between Chaldean and Assyrian as varieties of Suret on non-linguistic grounds. Suret is mutually intelligible with some NENA dialects spoken by Jews, especially in the western part of its historical extent. Its mutual intelligibility with Turoyo is partial and asymmetrical, but more significant in written form.
+>
+> Suret is a moderately-inflected, fusional language with a two-gender noun system and rather flexible word order. There is some Akkadian influence on the language. In its native region, speakers may use Iranian, Turkic and Arabic loanwords, while diaspora communities may use loanwords borrowed from the languages of their respective countries. Suret is written from right-to-left and it uses the Madnḥāyā version of the Syriac alphabet. Suret, alongside other modern Aramaic languages, is now considered endangered, as newer generation of Assyrians tend to not acquire the full language, mainly due to emigration and acculturation into their new resident countries. However, emigration has also had another effect: the language has gained more global attention, with several initiatives to digitize and preserve it, and the number of people learning Suret is considerably higher than before.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Suret%20language) 
+
