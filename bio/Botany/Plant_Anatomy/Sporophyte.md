@@ -13,7 +13,11 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Alternation%20of%20gen
 # [[Sporophyte]] 
 
 #is_/opposite_of :: [[Gametophyte]] 
+<<<<<<< HEAD
+#is_/same_as :: [[WD~Sporophyte,647173]] 
+=======
 #is_/same_as :: [[../../../WikiData/WD~Sporophyte,647173|WD~Sporophyte,647173]]  
+>>>>>>> 53530015059c3134c8a9270b9b87fec3cda6e4e0
 
 ## #has_/text_of_/abstract 
 
