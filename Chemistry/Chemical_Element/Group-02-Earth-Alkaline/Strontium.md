@@ -1,6 +1,8 @@
 ---
+aliases:
+has_id_wikidata: Q938
 atomic_number: 38
-canonical_SMILES: '[Sr]'
+canonical_SMILES: "[Sr]"
 CAS_Registry_Number: 7440-24-6
 chemical_formula: Sr
 Commons_category: Strontium
@@ -8,58 +10,57 @@ Commons_gallery: Strontium
 Common_Procurement_Vocabulary_code: 14772000
 CPV_Supplementary_code: AA34
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
-- '[[_Standards/WikiData/WD~Strontium,84688515]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
+  - "[[_Standards/WikiData/WD~Strontium,84688515]]"
 Dewey_Decimal_Classification: 546.394
-discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Cruickshank,902388]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Cruickshank,902388]]"
 DSSTOX_compound_identifier: DTXCID50875720
 EC_number: 231-133-4
 electronegativity: 1
 electron_configuration: "[Kr] 5s²"
 element_symbol: Sr
-found_in_taxon: '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]'
+found_in_taxon: "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
 Gmelin_number: 6868
-has_id_wikidata: Q938
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Strontium%20destilled%20crystals.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Strontium%20destilled%20crystals.jpg
 InChI: InChI=1S/Sr
 InChIKey: CIOAGBVUUVVLOB-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
-- 1.18
-- 1.26
-- 1.36
-- 1.44
+  - 1.18
+  - 1.26
+  - 1.36
+  - 1.44
 Krugosvet_article: biologiya/stronciy
-location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 made_from_material:
-- '[[_Standards/WikiData/WD~celestine,407221]]'
-- '[[_Standards/WikiData/WD~strontianite,422827]]'
-- '[[_Standards/WikiData/WD~piemontite-(Sr),3902818]]'
-- '[[_Standards/WikiData/WD~epidote-(Sr),19833533]]'
+  - "[[_Standards/WikiData/WD~celestine,407221]]"
+  - "[[_Standards/WikiData/WD~strontianite,422827]]"
+  - "[[_Standards/WikiData/WD~piemontite-(Sr),3902818]]"
+  - "[[_Standards/WikiData/WD~epidote-(Sr),19833533]]"
 mass: 87.62
 MCN_code: 2805.19.10
 MeSH_tree_code:
-- D01.268.552.850
-- D01.268.556.825
-- D01.552.539.861
-- D01.552.544.825
-named_after: '[[_Standards/WikiData/WD~Strontian,503042]]'
+  - D01.268.552.850
+  - D01.268.556.825
+  - D01.552.539.861
+  - D01.552.544.825
+named_after: "[[_Standards/WikiData/WD~Strontian,503042]]"
 OmegaWiki_Defined_Meaning: 3646
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~good_article_badge,17437798]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~good_article_badge,17437798]]"
 oxidation_state: 2
 part_of:
-- '[[_Standards/WikiData/WD~period_5,244982]]'
-- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
+  - "[[_Standards/WikiData/WD~period_5,244982]]"
+  - "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
 PubChem_CID: 5359327
 SpocWebEntityId: 21936
 time_of_discovery_or_invention: 1787
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_strontium,8085983]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_strontium,8085983]]"
 type: Element
 UMLS_CUI: C0038467
 Unicode_character: 鍶
@@ -67,12 +68,13 @@ UNII: YZS2RPE8LE
 ZVG_number: 8310
 ---
 
+# [[Strontium]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Strontium,938]] 
 
 [GroupName::Group-02-Earth-Alkaline]
 [Group:[[../Group-02-Earth-Alkaline]]
-
 
 [Name-en::Strontium]
 [Name-de::Strontium]
@@ -91,6 +93,8 @@ ZVG_number: 8310
 [FormEnergy-kj-mol::144]
 (PeriodNo::5)
 (GroupNo::2)
+
+#is_/same_as :: [[../../../WikiData/WD~Strontium,938|WD~Strontium,938]] 
 
 ## #has_/text_of_/abstract 
 

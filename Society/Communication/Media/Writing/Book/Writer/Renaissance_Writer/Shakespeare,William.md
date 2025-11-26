@@ -180,7 +180,8 @@ writing_language:
 
 # [[Shakespeare,William]] 
 
-#is_/same_as :: [[WD~Shakespeare,692]] 
+#has_/created_/quote :: There are more things between heaven and earth than your philosophy 
+#is_/same_as :: [[../../../../../../../WikiData/WD~William_Shakespeare,692|WD~William_Shakespeare,692]]  
 
 ## #has_/text_of_/abstract 
 

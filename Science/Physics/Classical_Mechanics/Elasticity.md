@@ -2,6 +2,25 @@
 aliases:
   - Elastizität
 has_id_wikidata: Q62932
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+studied_by: "[[_Standards/WikiData/WD~elasticity_theory,1913277]]"
+subclass_of: "[[_Standards/WikiData/WD~thermodynamic_material_property,3523867]]"
+opposite_of:
+  - "[[_Standards/WikiData/WD~anelasticity,3616586]]"
+  - "[[_Standards/WikiData/WD~softness,12894628]]"
+instance_of: "[[_Standards/WikiData/WD~mechanical_properties_of_fiber,4292136]]"
+has_use: "[[_Standards/WikiData/WD~mechanical_function,45914364]]"
+OmegaWiki_Defined_Meaning: "1104"
+Commons_category: Elasticity
+UMLS_CUI: C0013764
+Colon_Classification: C2:5
+MeSH_tree_code: G01.374.590
+Krugosvet_article_archived_: nauka_i_tehnika/fizika/UPRUGOST_MODUL_UPRUGOSTI_ZAKON_GUKA.html
+Dewey_Decimal_Classification: "531.382"
 ---
 
 # [[Elasticity]] 

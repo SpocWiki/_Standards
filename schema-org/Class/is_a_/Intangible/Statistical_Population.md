@@ -4,6 +4,7 @@ aliases:
   - statistical_population
   - StatisticalPopulation
   - is_a_statistical_population
+has_id_wikidata: Q49918
 confidential: public
 cssclasses:
   - Type
@@ -23,7 +24,19 @@ tags:
   - schema-org/Class
 title: is_a_statistical_population Class
 type: Type
+subclass_of: "[[_Standards/WikiData/WD~data_set,1172284]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]"
+  - "[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]"
+  - "[[_Standards/WikiData/WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213]]"
+  - "[[_Standards/WikiData/WD~Repetitorium_Statistik,115452005]]"
+equivalent_class: https://schema.org/StatisticalPopulation
 ---
+
+# [[Statistical_Population]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Statistical_population,49918|WD~Statistical_population,49918]] 
 
 Class of all statistical_populations.
 

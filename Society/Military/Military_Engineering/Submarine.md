@@ -47,6 +47,10 @@ UNSPSC_Code: 25111701
 U_S_National_Archives_Identifier: 10644594
 ---
 
+# [[Submarine]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Submarine,2811|WD~Submarine,2811]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Submarine** (or sub) is a watercraft capable of independent operation underwater. (It differs from a submersible, which has more limited underwater capability.) The term "submarine" is also sometimes used historically or informally to refer to remotely operated vehicles and robots, or to medium-sized or smaller vessels (such as the midget submarine and the wet sub). Submarines are referred to as boats rather than ships regardless of their size.

@@ -45,7 +45,7 @@ there are now multiple Alternatives to select a concrete Method:
 There is an evolution in the Methods.
 The Introduction of Pointers and Types allows for managing and extending the Dispatch at Runtime, 
 instead of modifying existing Code. 
-[[Prog~OO/VMT(Virtual_Method_Table)|VMT(Virtual_Method_Table)]] just centralize the Function Pointers and tie it to the Type-System. 
+[[Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table)|VMT(Virtual_Method_Table)]] just centralize the Function Pointers and tie it to the Type-System. 
 The Type-System contains both Data Structures and Polymorphism. 
 Implicit Data Structures: Stack (Method Signatures) 
 Explicit Data Structures: Heap (Class-Instances) 

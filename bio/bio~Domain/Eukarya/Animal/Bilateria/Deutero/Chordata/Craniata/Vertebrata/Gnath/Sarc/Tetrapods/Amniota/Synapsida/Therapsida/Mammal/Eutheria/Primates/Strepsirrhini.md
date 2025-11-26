@@ -1,20 +1,68 @@
 ---
 aliases:
-- Strepsirrhini
-- Strepsirhini
+  - Strepsirrhini
+  - Strepsirhini
 title: Strepsirrhini
+has_id_wikidata: Q82265
+taxon_rank: "[[_Standards/WikiData/WD~suborder,5867959]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+ITIS_TSN: "943774"
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20strepsirrhine%20range%20with%20fossil%20sites.png
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Propithecus%20verreauxi.JPG
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ringtailedlemur%20-%2024937.jpg
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Suborder%20Strepsirrhini.jpg
+MeSH_tree_code: B01.050.150.900.649.313.988.700
+Commons_category: Strepsirrhini
+taxon_name: Strepsirrhini
 ---
 
 # [[Strepsirrhini]] 
+
 ![Lesser bushbaby](Strepsirrhini/galago.jpg))
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Strepsirrhini,82265|WD~Strepsirrhini,82265]] 
 
 ## #has_/text_of_/abstract 
 
-> **Strepsirrhini** or Strepsirhini ( ; STREP-sə-RY-nee) is a suborder of primates that includes the lemuriform primates, which consist of the lemurs of Madagascar, galagos ("bushbabies") and pottos from Africa, and the lorises from India and Southeast Asia. Collectively they are referred to as strepsirrhines. Also belonging to the suborder are the extinct adapiform primates, which thrived during the Eocene in Europe, North America, and Asia, but disappeared from most of the Northern Hemisphere as the climate cooled. Adapiforms are sometimes referred to as being "lemur-like", although the diversity of both lemurs and adapiforms does not support this comparison.
+> **Strepsirrhini** or Strepsirhini (STREP-sə-RY-nee) is a suborder of primates 
+> that includes the lemuriform primates, which consist of the 
+> lemurs of Madagascar, galagos ("bushbabies") and pottos from Africa, 
+> and the lorises from India and Southeast Asia. 
+> 
+> Collectively they are referred to as strepsirrhines. 
+> Also belonging to the suborder are the extinct adapiform primates, 
+> which thrived during the Eocene in Europe, North America, and Asia, 
+> but disappeared from most of the Northern Hemisphere as the climate cooled. 
+> Adapiforms are sometimes referred to as being "lemur-like", 
+> although the diversity of both lemurs and adapiforms does not support this comparison.
 >
-> Strepsirrhines are defined by their "wet" (moist) rhinarium (the tip of the snout) – hence the colloquial but inaccurate term "wet-nosed" – similar to the rhinaria of canines and felines. They also have a smaller brain than comparably sized simians, large olfactory lobes for smell, a vomeronasal organ to detect pheromones, and a bicornuate uterus with an epitheliochorial placenta. Their eyes contain a reflective layer to improve their night vision, and their eye sockets include a ring of bone around the eye, but they lack a wall of thin bone behind it. Strepsirrhine primates produce their own vitamin C, whereas haplorhine primates must obtain it from their diets. Lemuriform primates are characterized by a toothcomb, a specialized set of teeth in the front, lower part of the mouth mostly used for combing fur during grooming.
+> Strepsirrhines are defined by their "wet" (moist) rhinarium (the tip of the snout) – 
+> hence the colloquial but inaccurate term "wet-nosed" – 
+> similar to the rhinaria of canines and felines. 
+> 
+> They also have a smaller brain than comparably sized simians, 
+> large olfactory lobes for smell, a vomeronasal organ to detect pheromones, 
+> and a bicornuate uterus with an epitheliochorial placenta. 
+> 
+> Their eyes contain a reflective layer to improve their night vision, 
+> and their eye sockets include a ring of bone around the eye, 
+> but they lack a wall of thin bone behind it. 
+> 
+> Strepsirrhine primates produce their own vitamin C, 
+> whereas haplorhine primates must obtain it from their diets. 
+> Lemuriform primates are characterized by a toothcomb, 
+> a specialized set of teeth in the front, lower part of the mouth 
+> mostly used for combing fur during grooming.
 >
-> Many of today's living strepsirrhines are endangered due to habitat destruction, hunting for bushmeat, and live capture for the exotic pet trade. Both living and extinct strepsirrhines are behaviorally diverse, although all are primarily arboreal (tree-dwelling). Most living lemuriforms are nocturnal, while most adapiforms were diurnal. Both living and extinct groups primarily fed on fruit, leaves, and insects.
+> Many of today's living strepsirrhines are endangered due to habitat destruction, 
+> hunting for bushmeat, and live capture for the exotic pet trade. 
+> 
+> Both living and extinct strepsirrhines are behaviorally diverse, 
+> although all are primarily arboreal (tree-dwelling). 
+> 
+> Most living lemuriforms are nocturnal, while most adapiforms were diurnal. 
+> Both living and extinct groups primarily fed on fruit, leaves, and insects.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Strepsirrhini) 
 

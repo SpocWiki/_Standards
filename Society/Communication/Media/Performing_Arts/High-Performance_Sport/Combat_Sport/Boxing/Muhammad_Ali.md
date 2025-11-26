@@ -3,6 +3,7 @@ aliases:
   - Cassius Marcellus Clay Jr.
   - Cassius Clay
   - Muhammad Ali
+  - Clay
 has_id_wikidata: Q36107
 medical_condition:
   - "[[_Standards/WikiData/WD~dyslexia,132971]]"
@@ -105,7 +106,7 @@ Plex_person_key: 5d776833e6d55c002040cb0b
 
 # [[Muhammad_Ali]] 
 
-#is_/same_as :: [[WD~Muhammad_Ali,36107]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Muhammad_Ali,36107|WD~Muhammad_Ali,36107]]  
 
 ## #has_/text_of_/abstract 
 

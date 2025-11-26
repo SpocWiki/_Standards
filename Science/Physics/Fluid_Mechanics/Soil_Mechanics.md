@@ -1,0 +1,41 @@
+---
+aliases:
+has_id_wikidata: Q471872
+subclass_of:
+  - "[[_Standards/WikiData/WD~soil_physics,1707766]]"
+  - "[[_Standards/WikiData/WD~mechanics,41217]]"
+part_of: "[[_Standards/WikiData/WD~geomechanics,2670285]]"
+instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Drymud-IMG%202920.JPG
+---
+
+# [[Soil_Mechanics]] 
+
+#is_/same_as :: [[WD~Soil_mechanics,471872]] 
+
+## #has_/text_of_/abstract 
+
+> Soil mechanics is a branch of soil physics and applied mechanics 
+> that describes the behavior of soils. 
+> 
+> It differs from [[../Fluid_Mechanics|Fluid_Mechanics]] and solid mechanics in the sense that 
+> soils consist of a heterogeneous mixture of 
+> - fluids (usually air and water) and 
+> - particles (usually clay, silt, sand, and gravel) 
+> - but soil may also contain organic solids and other matter. 
+> 
+> Along with rock mechanics, soil mechanics provides the theoretical basis 
+> for analysis in geotechnical engineering, a subdiscipline of civil engineering, 
+> and engineering geology, a subdiscipline of geology. 
+> 
+> Soil mechanics is used to analyze the deformations of 
+> and flow of fluids within natural and man-made structures 
+> that are supported on or made of soil, or structures that are buried in soils. 
+> 
+> Example applications are building and bridge foundations, retaining walls, dams, and buried pipeline systems. Principles of soil mechanics are also used in related disciplines such as geophysical engineering, coastal engineering, agricultural engineering, and hydrology.
+>
+> This article describes the genesis and composition of soil, the distinction between pore water pressure and inter-granular effective stress, capillary action of fluids in the soil pore spaces, soil classification, seepage and permeability, time dependent change of volume due to squeezing water out of tiny pore spaces, also known as consolidation, shear strength and stiffness of soils. The shear strength of soils is primarily derived from friction between the particles and interlocking, which are very sensitive to the effective stress. The article concludes with some examples of applications of the principles of soil mechanics such as slope stability, lateral earth pressure on retaining walls, and bearing capacity of foundations.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Soil%20mechanics) 
+

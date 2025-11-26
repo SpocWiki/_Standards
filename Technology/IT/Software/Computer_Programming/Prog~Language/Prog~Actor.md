@@ -1,7 +1,7 @@
 
 
 Actor-based frameworks provide a robust approach to building concurrent and distributed systems. 
-It can be considered an extreme form of [[Prog~OO]], 
+It can be considered an extreme form of [[Prog~Paradigm/Prog~OO]], 
 because the Objects communicate through serialized messages exclusively, never sharing State. 
 This allows to introduce reliable Messaging and Distribution resulting in high Scalability. 
 

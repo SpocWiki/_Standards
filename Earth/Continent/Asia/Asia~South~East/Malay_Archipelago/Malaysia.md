@@ -1,4 +1,21 @@
 ---
+aliases:
+  - Malaysia
+  - Malasia
+  - Malaisie
+  - ماليزيا
+  - 马来西亚
+  - Малайзия
+  - Federación de Malasia
+  - Malay Peninsula
+has_id_wikidata: Q833
+location:
+  - 3.17
+  - 101.7
+type: Country
+tags:
+  - geo/Country
+SpocWebEntityId: 26975
 ethnic_group:
   - "[[_Standards/WikiData/WD~Malays,142702]]"
   - "[[_Standards/WikiData/WD~Asli,254387]]"
@@ -538,14 +555,6 @@ coordinate_location: Point(102.314361666 3.7805111)
 coordinates_of_northernmost_point: Point(117.234612808 7.379678153)
 coordinates_of_easternmost_point: Point(119.2691 5.2329)
 coordinates_of_southernmost_point: Point(110.5761 0.8539)
-has_id_wikidata: Q833
-location:
-  - 3.17
-  - 101.7
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 26975
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
@@ -561,14 +570,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Malaysia
-  - Malasia
-  - Malaisie
-  - ماليزيا
-  - 马来西亚
-  - Малайзия
-  - Federación de Malasia
 Languages:
   - ms-MY
   - en
@@ -645,8 +646,6 @@ Sub-region_Name ::  [[South-eastern Asia]]
 [	Small_Island_Developing_States	 ::  ]
 
 [	ISO3166-1-numeric	 :: 458 ]
-
-
 
 [ISO2::MY]
 [ISO3::MYS] 

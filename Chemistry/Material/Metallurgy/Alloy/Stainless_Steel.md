@@ -30,6 +30,10 @@ time_of_discovery_or_invention: 1872
 UMLS_CUI: C0038126
 ---
 
+# [[Stainless_Steel]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Stainless_steel,172587|WD~Stainless_steel,172587]] 
+
 ## #has_/text_of_/abstract 
 
 > **Stainless steel**, also known as inox, corrosion-resistant steel (CRES), and rustless steel, is an  

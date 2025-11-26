@@ -1,0 +1,85 @@
+---
+aliases:
+  - Supernovae
+  - Supernovas
+has_id_wikidata: Q3937
+named_by:
+  - "[[_Standards/WikiData/WD~Fritz_Zwicky,115462]]"
+  - "[[_Standards/WikiData/WD~Walter_Baade,57299]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~explosion,179057]]"
+  - "[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]"
+  - "[[_Standards/WikiData/WD~star,523]]"
+model_item:
+  - "[[_Standards/WikiData/WD~SN_1604,320670]]"
+  - "[[_Standards/WikiData/WD~S_Andromedae,546708]]"
+  - "[[_Standards/WikiData/WD~SN_1987A,584905]]"
+  - "[[_Standards/WikiData/WD~SN_2006gy,644956]]"
+  - "[[_Standards/WikiData/WD~SN_1006,934700]]"
+  - "[[_Standards/WikiData/WD~ASASSN_15C,22075587]]"
+  - "[[_Standards/WikiData/WD~SN_1054,32037]]"
+different_from: "[[_Standards/WikiData/WD~Supernowa,9348261]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Infobox_supernova,10978554]]"
+  - "[[_Standards/WikiData/WD~Template_Supernovae,14399143]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+OmegaWiki_Defined_Meaning: "431088"
+Wolfram_Language_entity_type: Supernova
+Commons_category: Supernovae
+image: http://commons.wikimedia.org/wiki/Special:FilePath/SN1994D.jpg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s%20impression%20time-lapse%20of%20distant%20supernovae.webm
+Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/SVERHNOVAYA_ZVEZDA.html
+Dewey_Decimal_Classification: "523.84465"
+---
+
+# [[Supernova]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Supernova,3937|WD~Supernova,3937]] 
+
+## #has_/text_of_/abstract 
+
+> A **Supernova** (pl.: supernovae or supernovas) is a powerful and luminous explosion of a star. 
+> 
+> A supernova occurs during the last evolutionary stages of a massive star, 
+> or when a white dwarf is triggered into runaway nuclear fusion. 
+> 
+> The original object, called the progenitor, either collapses to a neutron star or black hole, 
+> or is completely destroyed to form a diffuse nebula. 
+> The peak optical luminosity of a supernova can be comparable to that of an entire galaxy 
+> before fading over several weeks or months.
+>
+> The last supernova directly observed in the Milky Way was [[Supernova/Kepler's_Supernova]] in 1604, 
+> appearing not long after [[Supernova/Tycho's_Supernova]] in 1572, both of which were visible to the naked eye. 
+> 
+> The remnants of more recent supernovae have been found, and observations of supernovae in other galaxies suggest they occur in the Milky Way on average about three times every century. A supernova in the Milky Way would almost certainly be observable through modern astronomical telescopes. The most recent naked-eye supernova was SN 1987A, which was the explosion of a blue supergiant star in the Large Magellanic Cloud, a satellite galaxy of the Milky Way.
+>
+> Theoretical studies indicate that most supernovae are triggered by one of two basic mechanisms: the sudden re-ignition of nuclear fusion in a white dwarf, or the sudden gravitational collapse of a massive star's core.
+>
+> 
+>
+> In the re-ignition of a white dwarf, the object's temperature is raised enough to trigger runaway nuclear fusion, completely disrupting the star. Possible causes are an accumulation of material from a binary companion through accretion, or by a stellar merger.
+>
+> In the case of a massive star's sudden implosion, the core of a massive star will undergo sudden collapse once it is unable to produce sufficient energy from fusion to counteract the star's own gravity, which must happen once the star begins fusing iron, but may happen during an earlier stage of metal fusion.
+>
+> Supernovae can expel several solar masses of material at speeds up to several percent of the speed of light. This drives an expanding shock wave into the surrounding interstellar medium, sweeping up an expanding shell of gas and dust observed as a supernova remnant. Supernovae are a major source of elements in the interstellar medium from oxygen to rubidium. The expanding shock waves of supernovae can trigger the formation of new stars. Supernovae are a major source of cosmic rays. They might also produce gravitational waves.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Supernova) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Supernova](/_Standards/Astronomy/Supernova.md) 
+
+### #is_/same_as :: [Supernova.public](/_public/Astronomy/Supernova.public.md) 
+
+### #is_/same_as :: [Supernova.internal](/_internal/Astronomy/Supernova.internal.md) 
+
+### #is_/same_as :: [Supernova.protect](/_protect/Astronomy/Supernova.protect.md) 
+
+### #is_/same_as :: [Supernova.private](/_private/Astronomy/Supernova.private.md) 
+
+### #is_/same_as :: [Supernova.personal](/_personal/Astronomy/Supernova.personal.md) 
+
+### #is_/same_as :: [Supernova.secret](/_secret/Astronomy/Supernova.secret.md)
+

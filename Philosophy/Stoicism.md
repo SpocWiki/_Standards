@@ -1,8 +1,57 @@
+---
+aliases:
+  - Stoizismus
+has_id_wikidata: Q48235
+significant_person:
+  - "[[_Standards/WikiData/WD~Zeno_of_Citium,171303]]"
+  - "[[_Standards/WikiData/WD~Epictetus,183144]]"
+  - "[[_Standards/WikiData/WD~Chrysippus_of_Soli,211411]]"
+  - "[[_Standards/WikiData/WD~Marcus_Aurelius,1430]]"
+  - "[[_Standards/WikiData/WD~Seneca,2054]]"
+founded_by: "[[_Standards/WikiData/WD~Zeno_of_Citium,171303]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Epicureanism,179541]]"
+  - "[[_Standards/WikiData/WD~skepticism,1395219]]"
+  - "[[_Standards/WikiData/WD~Academic_skepticism,3345153]]"
+  - "[[_Standards/WikiData/WD~Christianity,5043]]"
+facet_of:
+  - "[[_Standards/WikiData/WD~adiaphora,356932]]"
+  - "[[_Standards/WikiData/WD~oikeiôsis,624819]]"
+  - "[[_Standards/WikiData/WD~executive_functions,783092]]"
+  - "[[_Standards/WikiData/WD~cardinal_virtues,904802]]"
+  - "[[_Standards/WikiData/WD~eudaimonia,1771260]]"
+  - "[[_Standards/WikiData/WD~telos,3243630]]"
+  - "[[_Standards/WikiData/WD~bear_and_forbear,3505752]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+named_after: "[[_Standards/WikiData/WD~Stoa_Poikile,936234]]"
+instance_of: "[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]"
+inception: -0300-01-01T00:00:00Z
+has_part_s_:
+  - "[[_Standards/WikiData/WD~physics,413]]"
+  - "[[_Standards/WikiData/WD~logic,8078]]"
+  - "[[_Standards/WikiData/WD~ethics,9465]]"
+Dewey_Decimal_Classification: "188"
+Library_of_Congress_Classification: B528
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Stoicism-article.ogg
+Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/STOITSIZM.html
+subreddit: Stoicism
+Commons_category: Stoicism
+PhilPapers_topic: stoics
+---
 
 # [[Stoicism]] 
 
 #is_/similar_to :: [[CBT(Cognitive_Behavioral_Therapy)]]
 #has_/created :: [[Cosmopolism]] 
+#is_/same_as :: [[../WikiData/WD~Stoicism,48235|WD~Stoicism,48235]] 
 
 ## #has_/text_of_/abstract 
 

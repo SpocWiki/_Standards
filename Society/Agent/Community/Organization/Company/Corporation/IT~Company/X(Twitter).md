@@ -12,14 +12,14 @@
 
 #has_/time_/started :: 2006-03-01 
 #has_/creator :: [ [[Jack_Dorsey]], [[Noah_Glass]], [[Biz_Stone]], [[Evan_Williams]] ] 
-#has_/Frameworks :: [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Structured/Prog~Ruby/Ruby~Rails|Ruby~Rails]]  
+#has_/Frameworks :: [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Prog~Ruby/Ruby~Rails|Ruby~Rails]]  
 
 #is_/similar_to :: [[Bluesky]] 
 #is_/similar_to :: [[Fediverse/Mastodon-Network]] 
 #is_/similar_to :: [[Meta_Platforms/Threads(Meta)]] 
 
-Switched from [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Structured/Prog~Ruby/Ruby~Rails|Ruby~Rails]]  to [[Scala]] with [[../../../../../../../../IT/SW~Architecture/Enterprise-Architecture/Lean_Enterprise-Architecture/7.Architectural_Agility/3.Microservices-Architecture|3.Microservices-Architecture]] 
-and considers switching to [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Functional/Prog~Rust|Prog~Rust]]. 
+Switched from [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Prog~Ruby/Ruby~Rails|Ruby~Rails]]  to [[Scala]] with [[../../../../../../../../IT/SW~Architecture/Enterprise-Architecture/Lean_Enterprise-Architecture/7.Architectural_Agility/3.Microservices-Architecture|3.Microservices-Architecture]] 
+and considers switching to [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust|Prog~Rust]]. 
 
 ## Musk Interventions 
 

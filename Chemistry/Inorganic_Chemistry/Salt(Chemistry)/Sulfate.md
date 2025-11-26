@@ -1,18 +1,84 @@
 ---
 aliases:
-has_id_wikidata: Q25997675
+has_id_wikidata: Q172290
 different_from:
-  - "[[_Standards/WikiData/WD~sulfate_ion,172290]]"
-  - "[[_Standards/WikiData/WD~sulfonate,922718]]"
+  - "[[_Standards/WikiData/WD~sulfite_ion,413363]]"
+  - "[[_Standards/WikiData/WD~sulfate,25997675]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Sulfates,18346714]]"
-subclass_of: "[[_Standards/WikiData/WD~oxygen_and_sulfur_compound,21012291]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
-Commons_category: Sulfates
+subclass_of:
+  - "[[_Standards/WikiData/WD~dianion,55524005]]"
+  - "[[_Standards/WikiData/WD~sulfur_oxoanion,71376028]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+Commons_category: Sulfate ion
+color: "[[_Standards/WikiData/WD~colorless,1396399]]"
+shape: "[[_Standards/WikiData/WD~tetrahedral_molecular_geometry,2677111]]"
+conjugate_acid: "[[_Standards/WikiData/WD~hydrogen_sulfate_ion,3143743]]"
+subject_has_role: "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
+part_of:
+  - "[[_Standards/WikiData/WD~sulfate_binding,14873631]]"
+  - "[[_Standards/WikiData/WD~secondary_active_sulfate_transmembrane_transporter_activity,14876817]]"
+  - "[[_Standards/WikiData/WD~sulfate_transport,14876821]]"
+  - "[[_Standards/WikiData/WD~sulfate_transmembrane_transporter_activity,14876828]]"
+  - "[[_Standards/WikiData/WD~cerebroside_sulfatase_activity,14905430]]"
+  - "[[_Standards/WikiData/WD~arylsulfatase_activity,14905429]]"
+  - "[[_Standards/WikiData/WD~steryl_sulfatase_activity,14905465]]"
+  - "[[_Standards/WikiData/WD~sulfite_oxidase_activity,14916239]]"
+  - "[[_Standards/WikiData/WD~sulfate_adenylyltransferase_(ATP)_activity,21123695]]"
+  - "[[_Standards/WikiData/WD~sodium_sulfate_symporter_activity,21124430]]"
+  - "[[_Standards/WikiData/WD~N_sulfoglucosamine_sulfohydrolase_activity,21173831]]"
+  - "[[_Standards/WikiData/WD~sulfate_transmembrane_transport,21543900]]"
+  - "[[_Standards/WikiData/WD~ABC_type_sulfate_transporter_activity,21759279]]"
+  - "[[_Standards/WikiData/WD~mitochondrial_sulfate_transmembrane_transport,22292639]]"
+  - "[[_Standards/WikiData/WD~sulfate_import_across_plasma_membrane,22292965]]"
+  - "[[_Standards/WikiData/WD~sulfate_ion_homeostasis,22298134]]"
+  - "[[_Standards/WikiData/WD~cellular_sulfate_ion_homeostasis,22298135]]"
+  - "[[_Standards/WikiData/WD~sulfite_dehydrogenase_activity,22319926]]"
+  - "[[_Standards/WikiData/WD~monomethyl_sulfatase_activity,22320462]]"
+  - "[[_Standards/WikiData/WD~choline_sulfatase_activity,22320463]]"
+  - "[[_Standards/WikiData/WD~glycosulfatase_activity,22320466]]"
+  - "[[_Standards/WikiData/WD~disulfoglucosamine_6_sulfatase_activity,22320464]]"
+  - "[[_Standards/WikiData/WD~D_lactate_2_sulfatase_activity,22320465]]"
+  - "[[_Standards/WikiData/WD~chondro_4_sulfatase_activity,22320468]]"
+  - "[[_Standards/WikiData/WD~chondro_6_sulfatase_activity,22320469]]"
+  - "[[_Standards/WikiData/WD~cyclamate_sulfohydrolase_activity,22320555]]"
+  - "[[_Standards/WikiData/WD~trithionate_hydrolase_activity,22320560]]"
+  - "[[_Standards/WikiData/WD~phosphoadenylylsulfatase_activity,22320815]]"
+  - "[[_Standards/WikiData/WD~adenylylsulfatase_activity,22320816]]"
+  - "[[_Standards/WikiData/WD~adenylylsulfate_ammonia_adenylyltransferase_activity,22321442]]"
+  - "[[_Standards/WikiData/WD~sulfate_adenylyltransferase_(ADP)_activity,22321452]]"
+  - "[[_Standards/WikiData/WD~serine_sulfate_ammonia_lyase_activity,22324333]]"
+  - "[[_Standards/WikiData/WD~sulfate_proton_symporter_activity,22324917]]"
+  - "[[_Standards/WikiData/WD~sulfate_bicarbonate_antiporter_activity,22324994]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
+  - "[[_Standards/WikiData/WD~sulfur,682]]"
+PubChem_CID: "1117"
+Gmelin_number: "2120"
+InChIKey: QAOWNCQODCNURD-UHFFFAOYSA-L
+OmegaWiki_Defined_Meaning: "3666"
+UNII: 7IS9N8KPMG
+mass: 95.952
+RxNorm_CUI: "1426598"
+InChI: InChI=1S/H2O4S/c1-5(2,3)4/h(H2,1,2,3,4)/p-2
+chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Sulfat-Ion2.svg
+image_of_molecular_model_or_crystal_lattice_model: http://commons.wikimedia.org/wiki/Special:FilePath/Sulfate-3D-balls.png
+canonical_SMILES: "[O-]S(=O)(=O)[O-]"
+CAS_Registry_Number: 14808-79-8
+MCN_code: 2941.20.10
+Reaxys_registry_number: "3648446"
+EC_number: 604-622-9
+UMLS_CUI: C3536965
+DSSTOX_compound_identifier: DTXCID1022425
+chemical_formula:
+  - O₄S²⁻
+  - SO₄²⁻
 ---
 
 # [[Sulfate]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~sulfate,25997675]] 
+#is_/similar_to  :: [[_Standards/WikiData/WD~sulfate,25997675]] 
+#is_/same_as :: [[../../../WikiData/WD~Sulfate_ion,172290|WD~Sulfate_ion,172290]] 
 
 ## #has_/text_of_/abstract 
 
