@@ -16,7 +16,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Mendoza%20foli
 Commons_category: Spanish conquest of the Aztec Empire
 ---
 
-# [[1519-Spanish_Conquest_of_the_Aztec_Empire+1521]]  
+# [[1519-Spanish_Conquest-Aztec_Empire+1521]]  
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Spanish_conquest_of_the_Aztec_Empire,828435|WD~Spanish_conquest_of_the_Aztec_Empire,828435]]  
 

@@ -24,7 +24,7 @@ IMDb_keyword: spanish-colonization-of-the-americas
 start_time: 1493-10-03T00:00:00Z
 ---
 
-# [[1493-Spanish_Colonization_of_the_Americas+1898]] 
+# [[1493-Spanish_Colonization-Americas+1898]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Spanish_colonization_of_the_Americas,1047607|WD~Spanish_colonization_of_the_Americas,1047607]]  
 

@@ -340,7 +340,7 @@ aliases:
 
 # [[Batman]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Batman,2695156|WD~Batman,2695156]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Batman,2695156|WD~Batman,2695156]] 
 
 ## #has_/text_of_/abstract 
 

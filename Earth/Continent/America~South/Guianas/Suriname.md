@@ -1,4 +1,5 @@
 ---
+has_id_wikidata: Q730
 location:
   - 5.86
   - -55.17
@@ -35,7 +36,6 @@ Languages:
   - hns
   - jv
 icon: flag-sr
-has_id_wikidata: Q730
 MeSH_tree_code: Z01.107.757.833
 coordinate_location: Point(-56.0 4.0)
 diplomatic_relation:
@@ -290,12 +290,6 @@ coordinates_of_northernmost_point: Point(-55.0 5.99)
 
 # [[Suriname]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Suriname 
-
-[[Suriname/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: SRD ]
 [	ISO4217-currency_name	 :: Surinam Dollar ]
 [	ISO4217-currency_numeric	 :: 968 ] 
@@ -359,15 +353,18 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 740 ]
 
-
-
 [ISO2::SR]
 [ISO3::SUR] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Suriname 
+
+[[Suriname/ReadMe]] 
+
+
 ## #has_/map  
-
-
-
 
 ```leaflet
 id: Suriname
