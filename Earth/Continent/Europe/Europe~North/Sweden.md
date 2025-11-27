@@ -519,7 +519,7 @@ Telegram_username: swedenofficial
 # [[Sweden]] 
 
 #is_/member_/of :: [[../EU(European_Union)|EU]],1995-01-01
-
+#is_/same_as :: [[../../../../WikiData/WD~Sweden,34|WD~Sweden,34]] 
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Sweden)

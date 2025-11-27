@@ -1,7 +1,12 @@
 ---
 aliases:
   - Spanish
+  - Spanisch
+  - Spanische Sprache
   - Spanish language
+  - español
+  - Castilian 
+  - castellano
 has_id_wikidata: Q1321
 tags:
   - Lang/es
