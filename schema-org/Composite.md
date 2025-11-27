@@ -41,11 +41,6 @@ Composites can be modelled in 2 ways:
 - denormalized/pivoted: better as typed Classes with named and typed Member-Properties and -Links 
 
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> dcb041586aa2138dee428ff05603ac04296be125
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Composite](/_Standards/schema-org/Composite.md) 
