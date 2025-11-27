@@ -14,6 +14,7 @@ aliases:
   - Svizzera
   - Svizra
   - Helvetica
+has_id_wikidata: Q39
 anthem: "[[_Standards/WikiData/WD~Swiss_Psalm,182536]]"
 area: 41285
 Baidu_Tieba_name: 瑞士
@@ -225,7 +226,6 @@ hashtag:
   - Switzerland
   - Suisse
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_id_wikidata: Q39
 has_time_started: 1848-09-12
 head_of_government: "[[_Standards/WikiData/WD~Swiss_Federal_Council,30917]]"
 head_of_state: "[[_Standards/WikiData/WD~Swiss_Federal_Council,30917]]"
@@ -456,9 +456,6 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Switzerland,7112470]]"
 WIPO_ST_3: CH
 X_Twitter_username: BR_Sprecher
 ---
-
-#has_/time_/started :: 1291-08-01 
-
 # [[Switzerland]] 
 
 ## International Names
@@ -474,6 +471,9 @@ X_Twitter_username: BR_Sprecher
 
 [ISO2::CH]
 [ISO3::CHE]
+
+#has_/time_/started :: 1291-08-01 
+#is_/same_as :: [[../../../../WikiData/WD~Switzerland,39|WD~Switzerland,39]] 
 
 
 > [!info] This Article is only a Stub. 

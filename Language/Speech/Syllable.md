@@ -1,30 +1,33 @@
 ---
+aliases:
+  - Silbe
+  - Silben
+has_id_wikidata: Q8188
 Commons_category: Syllable
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 different_from:
-- '[[_Standards/WikiData/WD~mora,521164]]'
-- '[[_Standards/WikiData/WD~phoneme,8183]]'
-has_id_wikidata: Q8188
+  - "[[_Standards/WikiData/WD~mora,521164]]"
+  - "[[_Standards/WikiData/WD~phoneme,8183]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~onset,72383392]]'
-- '[[_Standards/WikiData/WD~rime,72385898]]'
-- '[[_Standards/WikiData/WD~phoneme,8183]]'
-- '[[_Standards/WikiData/WD~letter,9788]]'
-- '[[_Standards/WikiData/WD~sound,11461]]'
-- '[[_Standards/WikiData/WD~vowel,36244]]'
-- '[[_Standards/WikiData/WD~consonant,38035]]'
-instance_of: '[[_Standards/WikiData/WD~unit_of_speech,115820013]]'
+  - "[[_Standards/WikiData/WD~onset,72383392]]"
+  - "[[_Standards/WikiData/WD~rime,72385898]]"
+  - "[[_Standards/WikiData/WD~phoneme,8183]]"
+  - "[[_Standards/WikiData/WD~letter,9788]]"
+  - "[[_Standards/WikiData/WD~sound,11461]]"
+  - "[[_Standards/WikiData/WD~vowel,36244]]"
+  - "[[_Standards/WikiData/WD~consonant,38035]]"
+instance_of: "[[_Standards/WikiData/WD~unit_of_speech,115820013]]"
 Krugosvet_article: gumanitarnye_nauki/lingvistika/SLOG.html
-notation: '[[_Standards/WikiData/WD~Σ,14413]]'
-part_of: '[[_Standards/WikiData/WD~word,8171]]'
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Syllable.svg"
+notation: "[[_Standards/WikiData/WD~Σ,14413]]"
+part_of: "[[_Standards/WikiData/WD~word,8171]]"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Syllable.svg
 subclass_of:
-- '[[_Standards/WikiData/WD~phone,202064]]'
-- '[[_Standards/WikiData/WD~structure,6671777]]'
-- '[[_Standards/WikiData/WD~linguistic_unit,11953984]]'
+  - "[[_Standards/WikiData/WD~phone,202064]]"
+  - "[[_Standards/WikiData/WD~structure,6671777]]"
+  - "[[_Standards/WikiData/WD~linguistic_unit,11953984]]"
 ---
 
 # [[Syllable]] 
