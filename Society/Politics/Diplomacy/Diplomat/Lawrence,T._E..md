@@ -103,7 +103,7 @@ Libris_URI: jgvxsn523mnhbk3
 
 # [[Lawrence,T._E.]] 
 
-#is_/same_as :: [[WD~T._E._Lawrence,170596]] 
+#is_/same_as :: [[../../../../WikiData/WD~T._E._Lawrence,170596|WD~T._E._Lawrence,170596]]  
 
 ## #has_/text_of_/abstract 
 
