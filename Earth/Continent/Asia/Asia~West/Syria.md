@@ -1,4 +1,20 @@
 ---
+aliases:
+  - Syria
+  - Syrian Arab Republic
+  - República Árabe Siria
+  - République arabe syrienne
+  - الجمهورية العربية السورية
+  - 阿拉伯叙利亚共和国
+  - Сирийская Арабская Республика
+  - the Syrian Arab Republic
+  - la República Árabe Siria
+  - República Árabe Siria (la)
+  - Syrien
+has_id_wikidata: Q858
+location:
+  - 34.335
+  - 36.625
 trunk_prefix: 0
 madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
 death_rate:
@@ -290,10 +306,6 @@ total_fertility_rate: 2.95
 top_level_Internet_domain: "[[_Standards/WikiData/WD~.sy,42778]]"
 Gini_coefficient: 37.5
 flag: "[[_Standards/WikiData/WD~flag_of_Syria,45136]]"
-has_id_wikidata: Q858
-location:
-  - 34.335
-  - 36.625
 type: Country
 tags:
   - geo/Country
@@ -313,17 +325,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Syria
-  - Syrian Arab Republic
-  - República Árabe Siria
-  - République arabe syrienne
-  - الجمهورية العربية السورية
-  - 阿拉伯叙利亚共和国
-  - Сирийская Арабская Республика
-  - the Syrian Arab Republic
-  - la República Árabe Siria
-  - República Árabe Siria (la)
 Languages:
   - ar-SY
   - ku
@@ -335,12 +336,6 @@ icon: flag-sy
 ---
 
 # [[Syria]] 
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Syria 
-
-[[Syria/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: SYP ]
 [	ISO4217-currency_name	 :: Syrian Pound ]
@@ -405,10 +400,15 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 760 ]
 
-
-
 [ISO2::SY] 
 [ISO3::SYR] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Syria,858|WD~Syria,858]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Syria 
+
+[[Syria/ReadMe]] 
 
 ## #has_/map  
 

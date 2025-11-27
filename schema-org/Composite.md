@@ -25,7 +25,9 @@ type:
 ---
 
 # [[Composite]]
+
 #is_a_/class  
+
 The Composite is assembled from [[Composite/Part|Part]]s AKA Components. 
 It is the Object of the [is_part_of](Composite/is_part_of.md) Relation from the [[Composite/Part|Part]]s. 
 
@@ -39,6 +41,11 @@ Composites can be modelled in 2 ways:
 - denormalized/pivoted: better as typed Classes with named and typed Member-Properties and -Links 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> dcb041586aa2138dee428ff05603ac04296be125
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Composite](/_Standards/schema-org/Composite.md) 
