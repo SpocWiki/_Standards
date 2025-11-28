@@ -325,13 +325,6 @@ icon: flag-tj
 
 # [[Tajikistan]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Tajikistan 
-
-[[Tajikistan/ReadMe]] 
-
-
-
 [	ISO4217-currency_alphabetic	 :: TJS ]
 [	ISO4217-currency_name	 :: Somoni ]
 [	ISO4217-currency_numeric	 :: 972 ]
@@ -395,14 +388,18 @@ Sub-region_Name ::  [[Central Asia]]
 
 [	ISO3166-1-numeric	 :: 762 ]
 
-
-
 [ISO2::TJ]
 [ISO3::TJK] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Tajikistan,863|WD~Tajikistan,863]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Tajikistan 
+
+[[Tajikistan/ReadMe]] 
+
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Tajikistan
