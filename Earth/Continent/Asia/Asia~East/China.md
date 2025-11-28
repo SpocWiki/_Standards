@@ -943,11 +943,7 @@ Wolfram_Language_entity_code: Entity["Country", "China"]
 
 # [[China]] 
 
-<<<<<<< HEAD
-##  [#has_/parts_](app://obsidian.md/index.html#has_/parts_)
-=======
-## 3. [#has_/parts_](app://obsidian.md/index.html#has_/parts_)
->>>>>>> f064afea701ca9871fbc6486c766cc74a6913529
+## [#has_/parts_](app://obsidian.md/index.html#has_/parts_)
 
 List of Constituent States with numbers as of 2021-06 
 Below is a detailed table of the 34 provincial-level divisions in China, which include 
@@ -1059,22 +1055,7 @@ Sub-region_Name ::  [[Eastern Asia]]
 [ISO2::CN]
 [ISO3::CHN] 
 
-<<<<<<< HEAD
-#is_/same_as :: [[_Standards/WikiData/WD~China,148]]  
-
-> [!info] This Article is only a Stub. 
-For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-China)
-into a Subfolder named `China`, so that this Link into the Sub-Repository works: [[China/ReadMe]] 
-
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-China 
-
-> [!warning] This can considerably increase the total size and depth of your wiki!
-
-
-## #has_/map  
-=======
 #is_/same_as :: [[../../../../WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]   
->>>>>>> f064afea701ca9871fbc6486c766cc74a6913529
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-China)

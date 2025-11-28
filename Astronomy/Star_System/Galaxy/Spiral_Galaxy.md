@@ -14,11 +14,7 @@ Commons_category: Spiral galaxies
 
 # [[Spiral_Galaxy]] 
 
-<<<<<<< HEAD:Astronomy/Galaxy/Spiral_Galaxy.md
-#is_/same_as :: [[../../WikiData/WD~Spiral_galaxy,2488|WD~Spiral_galaxy,2488]]  
-=======
 #is_/same_as :: [[../../../WikiData/WD~Spiral_galaxy,2488|WD~Spiral_galaxy,2488]]  
->>>>>>> 53530015059c3134c8a9270b9b87fec3cda6e4e0:Astronomy/Star_System/Galaxy/Spiral_Galaxy.md
 
 ## #has_/text_of_/abstract 
 
