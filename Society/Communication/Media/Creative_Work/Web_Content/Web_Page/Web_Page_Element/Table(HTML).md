@@ -1,9 +1,9 @@
 ---
 aliases:
-  - wp-ad-block
-  - wp_ad_block
-  - WPAdBlock
-  - is_a_wp_ad_block
+  - HTML-table
+  - HTML table
+  - HTML_Table
+  - is_a_HTML_table
 confidential: public
 cssclasses:
   - Type
@@ -12,25 +12,25 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-  - wp_ad_block
+  - table
 layout:
 license: CC BY-SA 4.0
-linkTitle: is_a_wp_ad_block Class
+linkTitle: is_a_table Class
 publish: true
 publishDate:
 tags:
   - class/Class
   - schema-org/Class
-title: is_a_wp_ad_block Class
+title: is_a_table Class
 type: Type
 ---
 
-Class of all wp_ad_blocks.
+Class of all HTML tables.
 
 Tag Instances like this: 
-#is_a_/wp_ad_block
+#is_a_/HTML_/table
 
-An advertising section of the page.
+A table on a Web page.
 
 [ #is_/sub_class_of :: [[../WebPageElement]] ]
 
@@ -39,17 +39,17 @@ An advertising section of the page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wp_Ad_Block](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.md) 
+### #is_/same_as :: [Table](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.md) 
 
-### #is_/same_as :: [Wp_Ad_Block.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.public.md) 
+### #is_/same_as :: [Table.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.public.md) 
 
-### #is_/same_as :: [Wp_Ad_Block.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.internal.md) 
+### #is_/same_as :: [Table.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.internal.md) 
 
-### #is_/same_as :: [Wp_Ad_Block.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.protect.md) 
+### #is_/same_as :: [Table.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.protect.md) 
 
-### #is_/same_as :: [Wp_Ad_Block.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.private.md) 
+### #is_/same_as :: [Table.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.private.md) 
 
-### #is_/same_as :: [Wp_Ad_Block.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.personal.md) 
+### #is_/same_as :: [Table.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.personal.md) 
 
-### #is_/same_as :: [Wp_Ad_Block.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.secret.md)
+### #is_/same_as :: [Table.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.secret.md)
 
