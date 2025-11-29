@@ -514,7 +514,7 @@ markerFolder: ./Ukraine//
 [Area-Land::579350]
 has_place_continent:: [[Europe]]  
 [VehicleCode::UA]
-Capital :: [[Kiew]]  
+Capital :: [[Ukraine/Regions~Ukraine/Kiev,City]]  
 ![[Coat_of_arms_of_Ukraine.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Ukraine.mp3]]
 ![[Flag_of_Ukraine.svg|350]]

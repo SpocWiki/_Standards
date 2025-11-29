@@ -648,7 +648,7 @@ zoomFeatures: true
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Turkey//
-markerFolder: ./Turkey//
+markerFolder: ./Turkey/
 coordinates: [[Turkey]] 
 markerFile: [[Turkey]] 
 defaultZoom: 6 

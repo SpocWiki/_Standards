@@ -16,7 +16,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/US%20riverboat%20using
 
 # [[Napalm]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Napalm,181822|WD~Napalm,181822]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Napalm,181822|WD~Napalm,181822]] 
 
 ## #has_/text_of_/abstract 
 

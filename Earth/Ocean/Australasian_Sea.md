@@ -9,7 +9,7 @@
 ```leaflet
 id: Australasian_Sea
 minZoom: 2 
-defaultZoom: 3
+defaultZoom: 2
 maxZoom: 18
 geojsonFolder: ./Australasian_Sea/
 markerFolder: ./Australasian_Sea/

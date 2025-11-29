@@ -30,7 +30,7 @@ IMDb_keyword: nuclear-weapon
 
 # [[Nuclear_Weapon]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Nuclear_weapon,12802|WD~Nuclear_weapon,12802]]
+#is_/same_as :: [[../../../../WikiData/WD~Nuclear_weapon,12802|WD~Nuclear_weapon,12802]]
 
 ## #has_/text_of_/abstract 
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Post-traumatic stress disorder
+  - Posttraumatic stress disorder
   - PTSD
   - Post-Traumatic_Stress_Disorder
   - 
@@ -170,4 +171,21 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q3381
 > in the third edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-III).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Post-traumatic%20stress%20disorder) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Posttraumatic_Stress_Disorder](Posttraumatic_Stress_Disorder.md) 
+
+### #is_/same_as :: [Posttraumatic_Stress_Disorder.public](/_public/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.public.md) 
+
+### #is_/same_as :: [Posttraumatic_Stress_Disorder.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.internal.md) 
+
+### #is_/same_as :: [Posttraumatic_Stress_Disorder.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.protect.md) 
+
+### #is_/same_as :: [Posttraumatic_Stress_Disorder.private](/_private/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.private.md) 
+
+### #is_/same_as :: [Posttraumatic_Stress_Disorder.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.personal.md) 
+
+### #is_/same_as :: [Posttraumatic_Stress_Disorder.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.secret.md)
 

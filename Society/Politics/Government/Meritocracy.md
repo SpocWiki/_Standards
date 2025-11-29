@@ -17,6 +17,7 @@ Commons_category: Meritocracy
 
 # [[Meritocracy]] 
 
+#is_/similar_to :: [[Technocracy|Technocracy]]  
 #is_/same_as :: [[WD~Meritocracy,178079]] 
 
 ## #has_/text_of_/abstract 
