@@ -43,7 +43,7 @@ Library_of_Congress_Classification: GN419.3
 
 # [[Tattooing]]  
 
-#is_/same_as :: [[WD~Tattooing,43006]] 
+#is_/same_as :: [[../../../WikiData/WD~Tattooing,43006|WD~Tattooing,43006]]  
 
 ## #has_/text_of_/abstract 
 
