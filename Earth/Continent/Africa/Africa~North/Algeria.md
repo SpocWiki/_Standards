@@ -352,7 +352,6 @@ ISO_3166_1_alpha_3_code: DZA
 INSEE_countries_and_foreign_territories_code: 99352
 area: 2381741
 inception: "1962-07-03"
-has_time_started: "1962-07-03"
 has_time_started: 1962-07-03 
 hashtag: Algeria
 Commons_category: Algeria
