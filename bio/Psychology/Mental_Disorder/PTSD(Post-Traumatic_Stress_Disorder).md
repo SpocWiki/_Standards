@@ -175,7 +175,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q3381
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Posttraumatic_Stress_Disorder](Posttraumatic_Stress_Disorder.md) 
+### #is_/same_as :: [PTSD(Post-Traumatic_Stress_Disorder)](PTSD(Post-Traumatic_Stress_Disorder).md) 
 
 ### #is_/same_as :: [Posttraumatic_Stress_Disorder.public](/_public/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.public.md) 
 
