@@ -70,19 +70,22 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
 
 #is_/same_as :: [[../../../_Standards/WikiData/WD~Gottlob_Frege,60028]] 
+
 ## #has_/text_of_/abstract 
 
-> Friedrich Ludwig **Gottlob Frege** (; German: [ˈɡɔtloːp ˈfreːɡə]; 8 November 1848 – 26 July 1925) 
+> Friedrich Ludwig **Gottlob Frege** (German: [ˈɡɔtloːp ˈfreːɡə]; 8 November 1848 – 26 July 1925) 
 > was a German philosopher, logician, and mathematician. 
+> 
 > He was a mathematics professor at the University of Jena, 
 > and is understood by many to be the father of analytic philosophy, 
 > concentrating on the philosophy of language, logic, and mathematics. 
 > 
 > Though he was largely ignored during his lifetime, [[Peano,Giuseppe]] (1858–1932), 
-> [[../../../_Standards/Mathematics/Mathematician/Russell,Bertrand|Bertrand Russell]] (1872–1970), and, to some extent, [[../../../_Standards/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig]] (1889–1951) 
+> [[../../../_Standards/Mathematics/Mathematician/Russell,Bertrand|Bertrand Russell]] (1872–1970), and, to some extent, [[../../Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig|Ludwig Wittgenstein]] (1889–1951) 
 > introduced his work to later generations of philosophers. 
+> 
 > Frege is widely considered to be the greatest logician since Aristotle, 
-> and one of the most profound philosophers of mathematics ever.
+> and one of the **most profound philosophers of mathematics ever**.
 >
 > His contributions include the development of modern logic in the Begriffsschrift 
 > and work in the foundations of mathematics. 
@@ -92,6 +95,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > 
 > His philosophical papers "On Sense and Reference" and "The Thought" are also widely cited. 
 > The former argues for two different types of meaning and descriptivism. 
+> 
 > In Foundations and "The Thought", Frege argues for Platonism 
 > against psychologism or formalism, concerning numbers and propositions respectively.
 >

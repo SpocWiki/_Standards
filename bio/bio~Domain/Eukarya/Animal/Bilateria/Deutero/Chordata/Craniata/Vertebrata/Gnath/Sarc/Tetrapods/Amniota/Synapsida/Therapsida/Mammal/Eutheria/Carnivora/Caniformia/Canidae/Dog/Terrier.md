@@ -15,11 +15,9 @@ Commons_category: Terriers
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20dog%20book%20-%20a%20popular%20history%20of%20the%20dog%2C%20with%20practical%20information%20as%20to%20care%20and%20management%20of%20house%2C%20kennel%2C%20and%20exhibition%20dogs%3B%20and%20descriptions%20of%20all%20the%20important%20breeds%20%281906%29%20%2820365367884%29.jpg
 ---
 
-
 # [[Terrier]]
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Terrier,38984|WD~Terrier,38984]]
-
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Terrier,38984|WD~Terrier,38984]] 
 
 ## #has_/text_of_/abstract 
 

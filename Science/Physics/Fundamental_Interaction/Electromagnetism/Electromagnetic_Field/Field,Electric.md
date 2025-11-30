@@ -41,8 +41,8 @@ Commons_category: Electric field
 > These forces are described by Coulomb's law, 
 > which says that the greater the magnitude of the charges, the greater the force, 
 > and the greater the distance between them, the weaker the force.
->  Informally, the greater the charge of an object, the stronger its electric field. 
->  Similarly, an electric field is stronger nearer charged objects and weaker further away. 
+> Informally, the greater the charge of an object, the stronger its electric field. 
+> Similarly, an electric field is stronger nearer charged objects and weaker further away. 
 >  
 >  Electric fields originate from electric charges and time-varying electric currents. 
 >  Electric fields and magnetic fields are both manifestations of the electromagnetic field. 

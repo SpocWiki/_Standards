@@ -47,8 +47,8 @@ Commons_category: Magnetic fields
 > it is described mathematically by a function assigning a vector to each point of space, 
 > called a vector field (more precisely, a pseudovector field).
 >
-> In electromagnetics, the term magnetic field is used for two distinct but closely related vector fields 
-> denoted by the symbols B and H. 
+> In electromagnetics, the term magnetic field is used for two distinct 
+> but proportional vector fields denoted by the symbols B and H. 
 > 
 > In the International System of Units, the unit of B, magnetic flux density, 
 > is the tesla (in SI base units: kilogram per second squared per ampere), 
@@ -56,6 +56,7 @@ Commons_category: Magnetic fields
 > 
 > The unit of H, magnetic field strength, is ampere per meter (A/m). 
 > B and H differ in how they take the medium and/or magnetization into account. 
+> 
 > In vacuum, the two fields are related through the vacuum permeability,   B / µ0 = H
 > in a magnetized material, the quantities on each side of this equation differ 
 > by the magnetization field of the material.

@@ -4,6 +4,7 @@ aliases:
   - video_game
   - VideoGame
   - is_a_video_game
+has_id_wikidata: Q7889
 confidential: public
 cssclasses:
   - Type
@@ -25,6 +26,8 @@ title: is_a_video_game Class
 type: Type
 ---
 
+# [[Video_Game]] 
+
 Class of all video_games.
 
 Tag Instances like this: 
@@ -36,6 +39,7 @@ A video game is an electronic game that involves human interaction with a user i
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, actor, actors, additionalType, aggregateRating, alternateName, alternativeHeadline, applicationCategory, applicationSubCategory, applicationSuite, archivedAt, assesses, associatedMedia, audience, audio, author, availableOnDevice, award, awards, character, characterAttribute, cheatCode, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countriesNotSupported, countriesSupported, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, device, director, directors, disambiguatingDescription, discussionUrl, downloadUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, featureList, fileFormat, fileSize, funder, funding, gameEdition, gameItem, gameLocation, gamePlatform, gameServer, gameTip, genre, hasPart, headline, identifier, image, inLanguage, installUrl, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, memoryRequirements, mentions, musicBy, name, numberOfPlayers, offers, operatingSystem, pattern, permissions, playMode, position, potentialAction, processorRequirements, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, quest, recordedAt, releaseNotes, releasedEvent, requirements, review, reviews, sameAs, schemaVersion, screenshot, sdDatePublished, sdLicense, sdPublisher, size, softwareAddOn, softwareHelp, softwareRequirements, softwareVersion, sourceOrganization, spatial, spatialCoverage, sponsor, storageRequirements, subjectOf, supportingData, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, trailer, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
+#is_/same_as :: [[../../../../../WikiData/WD~Video_game,7889|WD~Video_game,7889]] 
 
 ## Confidential Links & Embeds: 
 
