@@ -41,7 +41,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Victory%20Show%20Cosby
 
 ## #has_/text_of_/abstract 
 
-> A grenade is a small explosive [[../../Weapon|weapon]] typically thrown by hand (also called hand grenade), 
+> A grenade is a small explosive [[../../../Weapon|weapon]] typically thrown by hand (also called hand grenade), 
 > but can also refer to a shell (explosive projectile) shot from the muzzle of a rifle 
 > (as a rifle grenade) or a grenade launcher. 
 > 

@@ -2,6 +2,7 @@
 aliases:
   - Steuer
   - Steuern
+has_id_wikidata: Q8161
 Commons_category: Taxes
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -24,7 +25,6 @@ handled_mitigated_or_managed_by:
 has_characteristic:
   - "[[_Standards/WikiData/WD~taxation,1964442]]"
   - "[[_Standards/WikiData/WD~type_of_tax,130109687]]"
-has_id_wikidata: Q8161
 IAB_code: 415
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Brueghel%20the%20Younger%2C%20%27Paying%20the%20Tax%20%28The%20Tax%20Collector%29%27%20oil%20on%20panel%2C%201620-1640.%20USC%20Fisher%20Museum%20of%20Art.jpg
 IPTC_NewsCode: mediatopic/20000620
@@ -40,7 +40,11 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Taxation,14492698]]"
 UMLS_CUI: C0039371
 ---
 
-## #has_/text_of_/abstract 
+# [[Tax]] 
+
+#is_/same_as :: [[../../WikiData/WD~Tax,8161|WD~Tax,8161]] 
+
+## #has_/text_of_/abstract  
 
 
 > A **Tax** is a mandatory financial charge or levy imposed on a taxpayer 

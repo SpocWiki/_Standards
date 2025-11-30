@@ -54,6 +54,7 @@ video:
 
 # [[Periodic_Table]] 
 
+#is_/similar_to :: [[Table_of_Nuclides]]  
 #is_/same_as :: [[../../WikiData/WD~Periodic_table,10693|WD~Periodic_table,10693]] 
 
 ## #has_/text_of_/abstract 

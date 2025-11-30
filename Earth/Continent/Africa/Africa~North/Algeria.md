@@ -352,7 +352,6 @@ ISO_3166_1_alpha_3_code: DZA
 INSEE_countries_and_foreign_territories_code: 99352
 area: 2381741
 inception: "1962-07-03"
-has_time_started: "1962-07-03"
 has_time_started: 1962-07-03 
 hashtag: Algeria
 Commons_category: Algeria
@@ -442,7 +441,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Algeria/ReadMe]] 
 
-
 [	ISO4217-currency_alphabetic	 :: DZD ]
 [	ISO4217-currency_name	 :: Algerian Dinar ]
 [	ISO4217-currency_numeric	 :: 012 ]
@@ -506,25 +504,30 @@ Sub-region_Name ::  [[Northern Africa]]
 
 [	ISO3166-1-numeric	 :: 012 ]
 
-
-
 [ISO2::DZ]
 [ISO3::DZA]
+
+## #has_/map 
+
 ```leaflet
 id: Algeria
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Algeria//
-markerFolder: ./Algeria//
+markerFolder: ./Algeria/
+coordinates: [[Algeria]] 
+markerFile: [[Algeria]] 
+zoomFeatures: true
+defaultZoom: 11 
 ```
 
-[name-en::Algeria]
-[name-de::Algerien]
-[Area-Total::2381741]
-[Area-Land::2381740]
+[name-en::Algeria] 
+[name-de::Algerien] 
+[Area-Total::2381741] 
+[Area-Land::2381740] 
 has_place_continent:: [[Africa]]  
-[VehicleCode::DZ]
+[VehicleCode::DZ] 
 Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]] 
 ![[Africa~North/Algeria/Emblem_of_Algeria.svg|350]]  
 

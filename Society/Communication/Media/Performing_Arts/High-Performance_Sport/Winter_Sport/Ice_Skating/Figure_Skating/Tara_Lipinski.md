@@ -1,0 +1,78 @@
+---
+aliases:
+  - Tara_Lipinski
+has_id_wikidata: Q232999
+partner_in_business_or_sport: "[[_Standards/WikiData/WD~Sandra_Bezic,438545]]"
+given_name:
+  - "[[_Standards/WikiData/WD~Tara,1611595]]"
+  - "[[_Standards/WikiData/WD~Kristin,3482601]]"
+occupation:
+  - "[[_Standards/WikiData/WD~sports_commentator,2986228]]"
+  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
+  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
+  - "[[_Standards/WikiData/WD~figure_skater,13219587]]"
+sports_discipline_competed_in: "[[_Standards/WikiData/WD~ladies'_singles,4179462]]"
+sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+trained_by: "[[_Standards/WikiData/WD~Richard_Callaghan,7324594]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Figure_Skating,15304993]]"
+eye_color: "[[_Standards/WikiData/WD~green,17122854]]"
+family_name: "[[_Standards/WikiData/WD~Lipinski,37268074]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Polish,809]]"
+place_of_birth: "[[_Standards/WikiData/WD~Philadelphia,1345]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
+country_of_citizenship:
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Poland,36]]"
+height: 155
+sport: "[[_Standards/WikiData/WD~figure_skating,38108]]"
+social_media_followers: 107230
+Commons_category: Tara Lipinski
+nickname: Lips
+date_of_birth: 1982-06-10T00:00:00Z
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Tara%20lipinski.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Tara%20Lipinski%201998.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Tara%20Lipinski%20Baltimore.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Tara%20Lipinski%20in%20Sochi.jpg
+official_website: http://www.taralipinski.com
+ISNI: "0000000035792061"
+Munzinger_Sport_number: "01000005220"
+Plex_person_key: 5d776a6096b655001fded088
+Instagram_username: taralipinski
+X_Twitter_username: taralipinski
+birth_name: Tara Kristen Lipinski
+name_in_native_language: Tara Lipinski
+---
+
+# [[Tara_Lipinski]] 
+
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Tara_Lipinski,232999|WD~Tara_Lipinski,232999]]  
+
+## #has_/text_of_/abstract 
+
+> Tara Kristen Lipinski (born June 10, 1982) is an American former competitive figure skater, 
+> actress, sports commentator, and documentary film producer. 
+> 
+> A former competitor in women's singles, she is the 1998 Olympic champion, 
+> the 1997 World champion, a two-time Champions Series Final champion (1997–1998) 
+> and the 1997 U.S. national champion. 
+> 
+> Until 2019, she was the youngest single skater to win a U.S. Nationals 
+> and the youngest to become an Olympic and World champion in figure skating history. 
+> 
+> She is the first woman to complete a triple loop-triple loop combination, 
+> her signature jump element, in competition. 
+> 
+> Starting in 1997, Lipinski had a rivalry with fellow skater Michelle Kwan, 
+> which was played up by the American press, and culminated 
+> when Lipinski won the gold medal at the 1998 Olympics in Nagano.
+>
+> Lipinski retired from competitive figure skating in 1998. 
+> She performed in live shows before retiring from figure skating in 2002. 
+> Lipinski, along with sports commentator Terry Gannon 
+> and fellow figure skater and good friend Johnny Weir, 
+> became NBC's primary figure skating commentators in 2014.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Tara%20Lipinski) 
+

@@ -55,7 +55,7 @@ IPTC_NewsCode: mediatopic/20000685
 # [[Taoism]] 
 
 #has_/creator :: [[../../Philosopher/Ancient_Philosopher/Laozi|Laozi]] 
-#is_/same_as :: [[../../../WikiData/WD~Taoism,9598|WD~Taoism,9598]]
+#is_/same_as :: [[../../../WikiData/WD~Taoism,9598|WD~Taoism,9598]] 
 
 ## #has_/text_of_/abstract 
 
