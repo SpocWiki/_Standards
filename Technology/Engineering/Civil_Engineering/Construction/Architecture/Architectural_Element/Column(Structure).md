@@ -4,7 +4,48 @@ aliases:
   - pillar
   - post
   - pier
+has_id_wikidata: Q4817
+has_part_s_:
+  - "[[_Standards/WikiData/WD~capital,193893]]"
+  - "[[_Standards/WikiData/WD~shaft,2745866]]"
+  - "[[_Standards/WikiData/WD~column_base,56045633]]"
+has_characteristic: "[[_Standards/WikiData/WD~shape,207961]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
+  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+part_of:
+  - "[[_Standards/WikiData/WD~colonnade,657100]]"
+  - "[[_Standards/WikiData/WD~building,41176]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Column,31510646]]"
+  - "[[_Standards/WikiData/WD~memorial_column,51845395]]"
+connects_with: "[[_Standards/WikiData/WD~soban,127362192]]"
+Nomenclature_for_Museum_Cataloging: "367"
+Commons_category: Columns
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-S%C3%A4ule.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Q4817-ar.ogg
+Iconclass_notation: 48C161
+Dewey_Decimal_Classification: "721.3"
+Commons_gallery: Column
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Denderah%20cour.jpg
+Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/KOLONNA.html
+name_in_kana: はしら
+OpenStreetMap_tag: man_made=column
 ---
+
+# [[Column(Structure)]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Column,4817|WD~Column,4817]] 
 
 ## #has_/text_of_/abstract 
 
