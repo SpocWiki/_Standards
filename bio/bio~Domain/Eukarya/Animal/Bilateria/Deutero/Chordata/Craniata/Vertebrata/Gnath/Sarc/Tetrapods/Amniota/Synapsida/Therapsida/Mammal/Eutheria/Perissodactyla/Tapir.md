@@ -37,7 +37,7 @@ type: private_note
 
 # [[Tapir]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Tapirus,128001|WD~Tapirus,128001]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Tapirus,128001|WD~Tapirus,128001]]  
 
 ![[Tapir/Central_American_Tapir-Belize20.jpg]]
 

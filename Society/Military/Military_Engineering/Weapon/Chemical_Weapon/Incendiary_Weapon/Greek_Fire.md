@@ -19,7 +19,7 @@ Commons_category: Greek fire
 
 # [[Greek_Fire]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Greek_fire,179537|WD~Greek_fire,179537]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Greek_fire,179537|WD~Greek_fire,179537]] 
 
 ## #has_/text_of_/abstract 
 

@@ -615,7 +615,7 @@ Population @2024 in 1000s.
 | [[Spain/Provinces~Spain/Madrid,Region/counties~Comunidadde_Madrid/Madrid,County/cities~Madrid/Madrid,City\|Madrid.City]]   | Community of Madrid                                        | 3422.416 |
 | [[Spain/Provinces~Spain/Catalunya/counties~Cataluña/Barcelona,Province/cities~Barcelona/Barcelona,City\|Barcelona-City]]   | [[Spain/Provinces~Spain/Catalunya\|Catalunya]]             | 1686.208 |
 | [[Spain/Provinces~Spain/Valencia,Region/counties,Valenciana/Valencia-county/cities~Valencia/Valencia-City\|Valencia-City]] | [[Spain/Provinces~Spain/Valencia,Region\|Valencia.Region]] |  824.340 |
-| [[Spain/Provinces~Spain/Aragon/Zaragoza.Province/City/Zaragoza\|Zaragoza]]                                                 | [[Spain/Provinces~Spain/Aragon\|Aragon]]                   |  691.037 |
+| [[Spain/Provinces~Spain/Aragon/counties~Aragón/Zaragoza,Province/City/Zaragoza\|Zaragoza]]                                                 | [[Spain/Provinces~Spain/Aragon\|Aragon]]                   |  691.037 |
 | [[Spain/Provinces~Spain/Andalusia/Sevilla.Province/City/Sevilla\|Sevilla]]                                                 | [[Spain/Provinces~Spain/Andalusia\|Andalusia]]             |  686.741 |
 | [[Spain/Provinces~Spain/Andalusia/Málaga.Province/City/Malaga\|Malaga]]                                                    | [[Spain/Provinces~Spain/Andalusia\|Andalusia]]             |  592.346 |
 | [[Spain/Provinces~Spain/Murcia.Region/City/Murcia\|Murcia]]                                                                | Region of Murcia                                           |  471.982 |

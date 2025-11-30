@@ -87,7 +87,7 @@ UMLS_CUI: C0032212
 
  ![ ](Ornithorhynchus_anatinus.jpg) 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Platypus,15343|WD~Platypus,15343]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Platypus,15343|WD~Platypus,15343]] 
 
 ## #has_/text_of_/abstract 
 

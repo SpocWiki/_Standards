@@ -23,6 +23,10 @@ subclass_of: '[[_Standards/WikiData/WD~perception,160402]]'
 UMLS_CUI: C0039336
 ---
 
+# [[Taste]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Taste,124794|WD~Taste,124794]] 
+
 ## #has_/text_of_/abstract 
 
 > The gustatory system or sense of **Taste** 
