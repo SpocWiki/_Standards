@@ -27,7 +27,7 @@ Schläfli_symbol: ()∨{n}
 
 # [[Pyramid(Geometry)]] 
 
-#is_/similar_to :: [[../../../../Technology/Engineering/Civil_Engineering/Construction/Building/Pyramid|Pyramid]] 
+#is_/similar_to :: [[../../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid|Pyramid]] 
 #is_/same_as :: [[WD~Pyramid,3358290]] 
 
 ## #has_/text_of_/abstract 

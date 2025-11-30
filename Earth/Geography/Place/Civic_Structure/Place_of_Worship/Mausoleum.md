@@ -26,7 +26,7 @@ OpenStreetMap_tag_or_key: Tag:tomb=mausoleum
 
 ## #has_/text_of_/abstract 
 
-> A **Mausoleum** is an external free-standing [[../../../../../Technology/Engineering/Civil_Engineering/Construction/Building|building]] constructed as a [[monument]] 
+> A **Mausoleum** is an external free-standing [[../../../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building|building]] constructed as a [[monument]] 
 > enclosing the burial chamber of a deceased person or people. 
 > A mausoleum without the person's remains is called a cenotaph. 
 > 
