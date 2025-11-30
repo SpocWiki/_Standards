@@ -1,5 +1,11 @@
+---
+aliases:
+has_id_wikidata: Q11466
+---
 
 # [[Dim~Temperature]]  
+
+#is_/same_as :: [[../WikiData/WD~Temperature,11466|WD~Temperature,11466]] 
 
 There are many Units for Temperature, but the SI-Unit is the [[../Unit/SI-Unit/Unit~Kelvin|Unit~Kelvin]].   
 
@@ -16,6 +22,7 @@ The Distribution depends on the Elements' Character:
 
 ## Bosonic Distribution 
 
+#see [[../Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Black_Body|Black_Body]] 
 
 ## Confidential Links & Embeds: 
 

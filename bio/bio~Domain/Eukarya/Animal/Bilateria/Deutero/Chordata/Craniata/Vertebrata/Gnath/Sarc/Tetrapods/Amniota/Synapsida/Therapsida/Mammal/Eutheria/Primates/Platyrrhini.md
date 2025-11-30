@@ -40,7 +40,7 @@ title: Platyrrhini
 -   ◊ Sibling Groups of  Primates
     -   Platyrrhini
     -   [Catarrhini](Catarrhini.md)
-    -   [Tarsii](Tarsii.md)
+    -   [Tarsier](Tarsier.md)
     -   [Strepsirrhini](Strepsirrhini.md)
 
 -   » Sub-Groups 

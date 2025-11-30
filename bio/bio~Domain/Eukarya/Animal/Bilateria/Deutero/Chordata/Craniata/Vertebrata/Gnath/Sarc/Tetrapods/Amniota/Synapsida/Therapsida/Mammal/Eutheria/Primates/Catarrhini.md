@@ -165,7 +165,7 @@ from Purvis (1995).
 -   ◊ Sibling Groups of  Primates
     -   [Platyrrhini](Platyrrhini.md)
     -   Catarrhini
-    -   [Tarsii](Tarsii.md)
+    -   [Tarsier](Tarsier.md)
     -   [Strepsirrhini](Strepsirrhini.md)
 
 -   » Sub-Groups

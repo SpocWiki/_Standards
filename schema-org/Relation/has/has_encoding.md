@@ -29,7 +29,7 @@ Use it like this:
 - [ #has_/encoding :: MediaObject ] or 
 - [ has_encoding :: MediaObject ] 
 
-A [[../../../Society/Communication/Media/Communication_Dimension/Time-Communication/Media_Object|MediaObject]] (book, audio-file, movie etc.) that encodes, i.e. 'contains' the [[CreativeWork]] Subject.
+A [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]] (book, audio-file, movie etc.) that encodes, i.e. 'contains' the [[CreativeWork]] Subject.
 This property is a synonym for [[has_associated_media|associatedMedia]].
 
 #is_/same_as :: [[has_associated_media|associatedMedia]] 
