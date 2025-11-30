@@ -49,13 +49,13 @@ Unicode_character: 鋱
 UNII: 06SSF7P179
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Terbium,1838]] 
+# [[Terbium]] 
 
+#is_/same_as :: [[../../../WikiData/WD~Terbium,1838]] 
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
 [Group:[[../Lanthanide]]
-
 
 [Name-en::Terbium]
 [Name-de::Terbium]

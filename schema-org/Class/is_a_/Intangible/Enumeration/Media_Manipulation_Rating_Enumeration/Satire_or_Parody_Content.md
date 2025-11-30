@@ -73,11 +73,11 @@ Content coded 'satire or parody content' in a [[MediaReview]], considered in the
 Content that was created as political or humorous commentary and is presented in that context. (Reshares of satire/parody content that do not include relevant context 
 are more likely to fall under the missing context rating.)
 
-### For a [[../../../../../../Society/Communication/Media/Communication_Dimension/Time-Communication/Media_Object/Video_Object|VideoObject]]: 
+### For a [[../../../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object|VideoObject]]: 
 
-### For an [[../../../../../../Society/Communication/Media/Communication_Dimension/Time-Communication/Media_Object/Image_Object|ImageObject]]: 
+### For an [[../../../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object|ImageObject]]: 
 
-### For an [[../../../../../../Society/Communication/Media/Communication_Dimension/Time-Communication/Media_Object/Audio_Object|AudioObject]]: 
+### For an [[../../../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object|AudioObject]]: 
 
 ## Confidential Links & Embeds: 
 

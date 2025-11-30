@@ -26,6 +26,8 @@ title: is_greater_than
 type: Predi_Relation
 ---
 
+# [[is_greater_than]] 
+
 Use it like this: 
 - [ #is_/greater_than :: QualitativeValue ] or 
 - [ is_greater_than :: QualitativeValue ] 
@@ -39,7 +41,7 @@ Relation describes that:
 
 [ #is_/complement_of :: [[is_lesser_or_equal_to]]] 
 
-[ #is_/inverse_of :: [[is_lesser_than]]] 
+[ #is_/inverse_of :: [[is_less_than]]] 
 
 
 ## Confidential Links & Embeds: 

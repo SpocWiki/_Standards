@@ -20,15 +20,15 @@ Amazon_com_browse_node: "15158372011"
 OmegaWiki_Defined_Meaning: "490269"
 ---
 
-
 # [[Tequila]]
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Tequila,122195|WD~Tequila,122195]]
-
+#is_/same_as :: [[../../../../../../../WikiData/WD~Tequila,122195|WD~Tequila,122195]]  
 
 ## #has_/text_of_/abstract 
 
-> **Tequila** (; Spanish: [teˈkila] ) is a distilled beverage made from the blue agave plant, primarily in the area surrounding the city of Tequila 65 km (40 mi) northwest of Guadalajara, and in the Jaliscan Highlands (Los Altos de Jalisco) of the central western Mexican state of Jalisco.
+> **Tequila** (Spanish: [teˈkila] ) is a distilled beverage made from the blue agave plant, 
+> primarily in the area surrounding the city of Tequila 65 km (40 mi) northwest of Guadalajara, 
+> and in the Jaliscan Highlands (Los Altos de Jalisco) of the central western Mexican state of Jalisco.
 >
 > The red volcanic soils in the region of Tequila are well suited for growing the blue agave, and more than 300 million plants are harvested there each year. Agave grows differently depending on the region. Blue agaves grown in the highlands Los Altos region are larger and sweeter in aroma and taste. Agaves harvested in the valley region have a more herbaceous fragrance and flavor. Due to its historical and cultural importance, the region near Tequila was declared a UNESCO World Heritage Site in 2006, the Agave Landscape and Ancient Industrial Facilities of Tequila.
 >

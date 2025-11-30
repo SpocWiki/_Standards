@@ -131,12 +131,16 @@ Amazon_Standard_Identification_Number: B005MLP8E0
 
 ## #has_/text_of_/abstract 
 
-> Citizen Kane is a 1941 American drama film directed by, produced by and starring Orson Welles 
+> Citizen Kane is a 1941 American drama film 
+> directed by, produced by and starring [[../Welles,Orson|Orson Welles]] 
 > and co-written by Welles and Herman J. Mankiewicz. 
+> 
 > It was Welles's first feature film. 
 > The quasi-biographical film examines the life and legacy of Charles Foster Kane, played by Welles, 
-> a composite character based on American media barons William Randolph Hearst and Joseph Pulitzer, 
-> Chicago tycoons Samuel Insull and Harold McCormick, as well as aspects of the screenwriters' own lives.
+> a composite character based on American media barons 
+> [[../../../../../../../Economics/Capital(Economics)/Investor/Media_Proprietor/Hearst,William_Randolph|William Randolph Hearst]] and [[../../../../../../../Economics/Capital(Economics)/Investor/Media_Proprietor/Pulitzer,Joseph|Joseph Pulitzer]], 
+> Chicago tycoons Samuel Insull and Harold McCormick, 
+> as well as aspects of the screenwriters' own lives.
 >
 > After the Broadway success of Welles's Mercury Theatre 
 > and the controversial 1938 radio broadcast "The War of the Worlds" on The Mercury Theatre on the Air, 

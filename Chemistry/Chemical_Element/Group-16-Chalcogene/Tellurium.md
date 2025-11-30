@@ -69,8 +69,7 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Tellurium\"]"
 ZVG_number: 7520
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Tellurium,1100]]  
-
+# [[Tellurium]] 
 
 #chemic/Element 
 [GroupName::Group-16-Chalcogene]
@@ -94,6 +93,7 @@ ZVG_number: 7520
 [FormEnergy-kj-mol::52.55]
 (PeriodNo::5)
 (GroupNo::16)
+#is_/same_as :: [[../../../WikiData/WD~Tellurium,1100]]  
 
 
 ## #has_/text_of_/abstract 

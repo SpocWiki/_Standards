@@ -148,7 +148,7 @@ from Purvis (1995).
 -   » Sub-Groups
     -  [Platyrrhini](Primates/Platyrrhini.md))
     -  [Catarrhini](Primates/Catarrhini.md))
-    -  [Tarsii](Primates/Tarsii.md))
+    -  [Tarsier](Primates/Tarsier.md))
     -  [Strepsirrhini](Primates/Strepsirrhini.md))
 
 

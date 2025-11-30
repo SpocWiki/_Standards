@@ -465,14 +465,6 @@ icon: flag-tw
 
 # [[Taiwan]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Taiwan,865]]  
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Taiwan 
-
-[[Taiwan/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 ::  ]
 [	ISO4217-currency_name	 ::  ]
 [	ISO4217-currency_numeric	 ::  ]
@@ -536,14 +528,18 @@ Sub-region_Name ::  "[[]]" ]
 
 [	ISO3166-1-numeric	 :: 158 ]
 
-
-
 [ISO2::TW]
 [ISO3::TWN] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]   
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Taiwan 
+
+[[Taiwan/ReadMe]] 
+
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Taiwan

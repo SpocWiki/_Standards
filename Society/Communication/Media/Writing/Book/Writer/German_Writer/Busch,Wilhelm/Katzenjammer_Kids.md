@@ -11,7 +11,7 @@ aliases:
 > and later drawn by Harold Knerr for 35 years (1914 to 1949). 
 > 
 > It debuted on December 12, 1897, in the American Humorist, 
-> the Sunday supplement of [[../../../Publisher/Hearst,William_Randolph]]'s New York Journal. 
+> the Sunday supplement of [[../../../../../../../Economics/Capital(Economics)/Investor/Media_Proprietor/Hearst,William_Randolph]]'s New York Journal. 
 > The comic strip was turned into a stage play in 1903. 
 > It inspired several animated cartoons and was one of 20 strips 
 > included in the Comic Strip Classics series of U.S. commemorative postage stamps.

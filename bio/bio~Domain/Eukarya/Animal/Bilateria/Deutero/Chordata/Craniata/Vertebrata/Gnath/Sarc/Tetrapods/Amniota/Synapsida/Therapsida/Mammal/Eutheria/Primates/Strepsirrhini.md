@@ -90,7 +90,7 @@ taxon_name: Strepsirrhini
 -   ◊ Sibling Groups of  Primates
     -   [Platyrrhini](Platyrrhini.md)
     -   [Catarrhini](Catarrhini.md)
-    -   [Tarsii](Tarsii.md)
+    -   [Tarsier](Tarsier.md)
     -   Strepsirrhini
 
 -   » Sub-Groups
