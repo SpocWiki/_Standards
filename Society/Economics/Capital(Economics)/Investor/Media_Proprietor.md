@@ -5,6 +5,7 @@ aliases:
   - media executive
   - media tycoon
   - press baron
+  - media baron
   - Media proprietor
 has_id_wikidata: Q1420621
 subclass_of: "[[_Standards/WikiData/WD~entrepreneur,131524]]"

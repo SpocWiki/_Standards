@@ -139,7 +139,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > Hearst managed to keep his newspapers and magazines.
 >
 > His life story was the main inspiration for Charles Foster Kane, 
-> the lead character in [[../Writer/English_Writer/Welles,Orson]]' film [[Citizen Kane]] (1941). 
+> the lead character in [[../../../../Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson]]' film [[Citizen Kane]] (1941). 
 > 
 > His Hearst Castle, constructed on a hill overlooking the Pacific Ocean near San Simeon, 
 > has been preserved as a State Historical Monument and is designated as a National Historic Landmark.
