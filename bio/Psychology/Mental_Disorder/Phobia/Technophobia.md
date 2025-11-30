@@ -12,7 +12,7 @@ Archive_of_Our_Own_tag: technophobia
 
 # [[Technophobia]] 
 
-#is_/same_as :: [[WD~Technophobia,1042900]] 
+#is_/same_as :: [[../../../../WikiData/WD~Technophobia,1042900|WD~Technophobia,1042900]]  
 
 ## #has_/text_of_/abstract 
 

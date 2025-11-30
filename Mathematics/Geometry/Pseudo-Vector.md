@@ -12,7 +12,7 @@ elements of the algebra with dimension (n − 1): __⋀<sup>n-1</sup> Rⁿ__.
 The label "pseudo-" can be further generalized 
 to [[Pseudo-Scalar]]s and [[Pseudo-Tensor]]s, 
 both of which **flip their sign when mirrored**, 
-compared to a true [[Scalar]] or [[Tensor]].
+compared to a true [[Scalar]] or [[../Algebra/Linear_Algebra/Vector_Space/Tensor]].
 
 ## #has_/text_of_/abstract 
 
