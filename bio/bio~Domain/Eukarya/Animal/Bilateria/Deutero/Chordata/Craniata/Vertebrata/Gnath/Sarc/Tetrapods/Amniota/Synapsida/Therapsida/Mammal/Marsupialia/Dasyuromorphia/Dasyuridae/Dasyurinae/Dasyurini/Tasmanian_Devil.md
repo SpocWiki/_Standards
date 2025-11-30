@@ -36,7 +36,9 @@ taxon_common_name:
 has_characteristic:
   - "[[_Standards/WikiData/WD~viviparity,120446]]"
   - "[[_Standards/WikiData/WD~biofluorescence,101248333]]"
-parent_taxon: "[[_Standards/WikiData/WD~Sarcophilus,937821]]"
+parent_taxon:
+  - "[[_Standards/WikiData/WD~Sarcophilus,937821]]"
+  - "[[_Standards/WikiData/WD~Dasyurini,533062]]"
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Endangered_status,96377276]]"
@@ -106,4 +108,27 @@ nickname: T-devil
 > In 1941, devils became officially protected. Since the late 1990s, the devil facial tumour disease (DFTD) has drastically reduced the population and now threatens the survival of the species, which in 2008 was declared to be endangered. Starting in 2013, Tasmanian devils are again being sent to zoos around the world as part of the Australian government's Save the Tasmanian Devil Program. The devil is an iconic symbol of Tasmania and many organisations, groups and products associated with the state use the animal in their logos. It is seen as an important attractor of tourists to Tasmania and has come to worldwide attention through the Looney Tunes character of the same name.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tasmanian%20devil) 
+
+[[Tasmanian_Devil]]s]] 
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Sarcophilus,937821|WD~Sarcophilus,937821]]  
+
+## #has_/text_of_/abstract 
+
+> **Sarcophilus**, from Ancient Greek σάρξ (sárx), meaning "flesh", and φίλος (phílos), 
+> meaning "loving", is a genus of carnivorous marsupial 
+> best known for its only living member, the Tasmanian devil.
+>
+> There are four species of Sarcophilus. S. laniarius and S. moornaensis 
+> are only known from fossils from the Pleistocene. 
+> 
+> S. laniarius was larger than the contemporary, and only surviving, species S. harrisii, 
+> weighing up to 10 kilograms more. 
+> 
+> The relationship between the four species is unclear; 
+> while some have proposed that S. harrisii may be a dwarf version of S. laniarius, 
+> others argue that it is a completely different species 
+> and that the two may have coexisted during the Pleistocene.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Sarcophilus) 
 
