@@ -49,7 +49,7 @@ Sometimes this is also named "Negative_of", "Negation_of" or "negated".
 The Union of any Relation with its Complement is the (trivial) universal Relation, 
 which relates everything to everything. 
 
-E.g. [[is/is_lesser_than]] and [[is/is_greater_than]], 
+E.g. [[is/is_less_than]] and [[is/is_greater_than]], 
 where an Attribute of one Relation negates the Truth/Existence of the negated Relation. 
 
 Relation `>` has the same Domain for both Arguments which makes it more confusing. 

@@ -1,5 +1,31 @@
+---
+aliases:
+has_id_wikidata: Q162719
+subclass_of: "[[_Standards/WikiData/WD~economic_liberalism,729119]]"
+different_from: "[[_Standards/WikiData/WD~Neoliberalism,1417017]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~economic_ideology,5333510]]"
+  - "[[_Standards/WikiData/WD~political_ideology,12909644]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~neoliberism,19060633]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Neoliberalism,22713933]]"
+in_opposition_to: "[[_Standards/WikiData/WD~anti_neoliberalism,110157247]]"
+OmegaWiki_Defined_Meaning: "1208835"
+subreddit: neoliberal
+image: http://commons.wikimedia.org/wiki/Special:FilePath/EffectOfTariff.svg
+Know_Your_Meme_slug: neoliberalism
+Commons_category: Neoliberalism
+---
+
+# [[Neoliberalism]] 
 
 #has_/previous_/item :: [[Keynesianism]] 
+#is_/same_as :: [[WD~Neoliberalism,162719]]
+
+Since 1982, [[Forbes_Magazine]] unashamedly publishes the List of the richest People in the USA. 
+After the [[../../Knowledge/Economy/1973_oil_crisis]] and the [[Stagflation]] of the 1970s, 
+[[../../../Earth/Continent/America~North/US~President/Reagan,Ronald|Ronald_Reagan]] was elected and reduced top income Taxes from 70% to 25%. 
+In the same time, Globalization allowed companies to outsource work to Asia and East Europe. 
+In the 1980s Factories were shut down and 5e6 jobs were lost in manufacturing. 
 
 ## #has_/text_of_/abstract 
 
