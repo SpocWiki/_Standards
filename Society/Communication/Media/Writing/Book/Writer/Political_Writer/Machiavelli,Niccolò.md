@@ -117,14 +117,44 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/48638
 >
 > For many years he served as a senior official in the Florentine Republic 
 > with responsibilities in diplomatic and military affairs. 
+> 
 > He wrote comedies, carnival songs, and poetry. 
 > His personal correspondence is also important to historians and scholars of Italian correspondence. 
+> 
 > He worked as secretary to the second chancery of the Republic of Florence from 1498 to 1512, 
 > when the Medici were out of power.
 >
-> After his death Machiavelli's name came to evoke unscrupulous acts of the sort he advised most famously in his work, The Prince. He claimed that his experience and reading of history showed him that politics has always involved deception, treachery, and crime. He advised rulers to engage in evil when political necessity requires it, and argued specifically that successful reformers of states should not be blamed for killing other leaders who could block change. Machiavelli's Prince has been surrounded by controversy since it was published. Some consider it to be a straightforward description of political reality. Others view The Prince as a manual, teaching would-be tyrants how they should seize and maintain power. Even into recent times, some scholars, such as Leo Strauss, have restated the traditional opinion that Machiavelli was a "teacher of evil".
+> After his death Machiavelli's name came to evoke unscrupulous acts of the sort he advised most famously in his work, The Prince. 
+> 
+> He claimed that his experience and reading of history showed him 
+> that politics has always involved deception, treachery, and crime. 
+> 
+> He advised rulers to engage in evil when political necessity requires it, 
+> and argued specifically that successful reformers of states should not be blamed 
+> for killing other leaders who could block change. 
+> 
+> Machiavelli's Prince has been surrounded by controversy since it was published. 
+> Some consider it to be a straightforward description of political reality. 
+> 
+> Others view The Prince as a manual, teaching would-be tyrants 
+> how they should seize and maintain power. 
+> 
+> Even into recent times, some scholars, such as Leo Strauss, 
+> have restated the traditional opinion that Machiavelli was a "teacher of evil".
 >
-> Even though Machiavelli has become most famous for his work on principalities, scholars also give attention to the exhortations in his other works of political philosophy. While less well known than The Prince, the Discourses on Livy (composed c. 1517) has been said to have paved the way for modern republicanism. His works were a major influence on Enlightenment authors who revived interest in classical republicanism, such as Jean-Jacques Rousseau and James Harrington. Machiavelli's political realism has continued to influence generations of academics and politicians, and his approach has been compared to the Realpolitik of figures such as Otto von Bismarck.
+> Even though Machiavelli has become most famous for his work on principalities, 
+> scholars also give attention to the exhortations in his other works of political philosophy. 
+> 
+> While less well known than The Prince, the Discourses on Livy (composed c. 1517) 
+> has been said to have paved the way for modern republicanism. 
+> 
+> His works were a major influence on Enlightenment authors 
+> who revived interest in classical republicanism, 
+> such as Jean-Jacques Rousseau and James Harrington. 
+> 
+> Machiavelli's political realism has continued to 
+> influence generations of academics and politicians, 
+> and his approach has been compared to the Realpolitik of figures such as Otto von Bismarck.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Niccol%C3%B2%20Machiavelli)
 

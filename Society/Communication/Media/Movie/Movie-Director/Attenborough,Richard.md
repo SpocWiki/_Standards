@@ -34,7 +34,7 @@ aliases:
 > later, he would be additionally nominated for his films Young Winston (1972), A Bridge Too Far (1977) 
 > and Cry Freedom (1987). 
 > 
-> For the [[Gandhi(film)]], in 1983, he won two Academy Awards, Best Picture and Best Director. 
+> For the [[Attenborough,Richard/Gandhi(film)]], in 1983, he won two Academy Awards, Best Picture and Best Director. 
 > The British Film Institute ranked Gandhi the 34th greatest British film of the 20th century. 
 > Attenborough has also won four BAFTA Awards, six Golden Globe Awards, 
 > and the 1983 BAFTA Fellowship for lifetime achievement.

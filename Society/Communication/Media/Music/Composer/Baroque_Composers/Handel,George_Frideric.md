@@ -152,6 +152,7 @@ Libris_URI: 31fhj8wm55gk2h8
 #has_/duration  :: `=(default(this.has_time_stopped, date(now)) - this.has_time_started)` 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000 /60 /60 /24 /365.2425)` 
 #is_/same_as :: [[../../../../../../WikiData/WD~George_Frideric_Handel,7302|WD~George_Frideric_Handel,7302]] 
+
 ## #has_/text_of_/abstract 
 
 > George Frideric (or Frederick) Handel ( HAN-dəl; baptised Georg Fried[e]rich Händel, German: 

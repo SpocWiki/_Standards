@@ -1,6 +1,7 @@
 ---
 aliases:
-- "David Frederick Attenborough"
+  - David Frederick Attenborough
+  - Sir David Frederick Attenborough
 ---
 
 #has_/time_/started :: 1926-05-08 
@@ -15,8 +16,11 @@ aliases:
 
 ## #has_/text_of_/abstract 
 
-> Sir David Frederick Attenborough (; born 8 May 1926) is a British broadcaster, biologist, natural historian, and writer. 
-> He is best known for writing and presenting, in conjunction with the BBC Studios Natural History Unit, 
+> Sir David Frederick Attenborough (born 8 May 1926) 
+> is a British broadcaster, biologist, natural historian, and writer. 
+> 
+> He is best known for writing and presenting, 
+> in conjunction with the BBC Studios Natural History Unit, 
 > the nine nature documentary series forming the Life collection, 
 > a comprehensive survey of animal and plant life on Earth.
 >

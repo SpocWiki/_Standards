@@ -133,7 +133,7 @@ work_period_start_: 1951
 > After working as a photographer for Look magazine in the late 1940s and early 1950s, 
 > he began making low-budget short films 
 > and made his first major Hollywood film, The Killing, for United Artists in 1956. 
-> This was followed by two collaborations with [[Douglas,Kirk|Kirk Douglas]]: 
+> This was followed by two collaborations with [[Lust_for_Life/Douglas,Kirk|Kirk Douglas]]: 
 > - the anti-war film Paths of Glory (1957) and 
 > - the historical epic film Spartacus (1960).
 >
@@ -148,7 +148,7 @@ work_period_start_: 1951
 > This permitted him almost complete artistic control over his films, 
 > with the rare advantage of financial support from major Hollywood studios. 
 > His first productions in England were two films with Peter Sellers: 
-> an adaptation of [[Lolita_(1962_film)]] and the [[../../../_Standards/bio/Society/History/Modern_History/Cold_War|Cold War]] black comedy [[Dr.Strangelove(1964)]].
+> an adaptation of [[Kubrick,Stanley/Lolita(1962)]] and the [[../../../_Standards/bio/Society/History/Modern_History/Cold_War|Cold War]] black comedy [[Dr.Strangelove(1964)]].
 >
 > A perfectionist who assumed direct control over most aspects of his filmmaking, 
 > Kubrick cultivated an expertise in writing, editing, color grading, promotion, and exhibition. 

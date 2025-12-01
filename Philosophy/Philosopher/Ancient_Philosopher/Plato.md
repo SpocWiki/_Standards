@@ -186,9 +186,9 @@ writing_language: '[[_Standards/WikiData/WD~Attic_Greek,506588]]'
 
 # [[Plato]] 
 
-#has_/time_/started :: -427-06-01 
-#has_/time_/stopped :: -348-06-01 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/time_/started :: -427
+#has_/time_/stopped :: -348 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started))` 
 
 #has_/previous_item :: [[Socrates]] 
 #has_/next_/item :: [[Aristotle]]  

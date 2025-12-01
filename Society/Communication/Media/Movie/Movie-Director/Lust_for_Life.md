@@ -9,7 +9,7 @@ aliases:
 > based on the 1934 novel of the same title by Irving Stone which was adapted for the screen by Norman Corwin.
 >
 > It was directed by [[Minnelli,Vincente]] and produced by John Houseman. 
-> The film stars [[Douglas,Kirk|Kirk Douglas]] as Van Gogh, James Donald as his brother Theo, 
+> The film stars [[Lust_for_Life/Douglas,Kirk|Kirk Douglas]] as Van Gogh, James Donald as his brother Theo, 
 > with Pamela Brown, Everett Sloane, and [[Quinn,Anthony]]. 
 > 
 > Douglas won the Golden Globe Award for Best Actor in a Motion Picture – Drama 

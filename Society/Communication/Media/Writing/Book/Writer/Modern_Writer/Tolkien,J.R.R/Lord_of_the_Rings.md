@@ -94,14 +94,21 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Hobbiton%20banne
 ---
 
 
-# [[The_Lord_of_the_rings]]
+# [[Lord_of_the_Rings]]
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~The_Lord_of_the_Rings,15228|WD~The_Lord_of_the_Rings,15228]]
-
+#is_/same_as :: [[../../../../../../../../WikiData/WD~The_Lord_of_the_Rings,15228|WD~The_Lord_of_the_Rings,15228]] 
 
 ## #has_/text_of_/abstract 
 
-> The **Lord of the rings** is an epic high fantasy novel written by the English author and scholar J. R. R. Tolkien. Set in Middle-earth, the story began as a sequel to Tolkien's 1937 children's book The Hobbit but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling books ever written, with over 150 million copies sold.
+> The **Lord of the rings** is an epic high fantasy novel 
+> written by the English author and scholar J. R. R. Tolkien. 
+> 
+> Set in Middle-earth, the story began as a sequel to Tolkien's 1937 children's book The Hobbit 
+> but eventually developed into a much larger work. 
+> 
+> Written in stages between 1937 and 1949, 
+> The Lord of the Rings is one of the best-selling books ever written, 
+> with over 150 million copies sold.
 >
 > The title refers to the story's main antagonist, the Dark Lord Sauron, who in an earlier age created the One Ring, allowing him to rule the other Rings of Power given to men, dwarves, and elves, in his campaign to conquer all of Middle-earth. From homely beginnings in the Shire, a hobbit land reminiscent of the English countryside, the story ranges across Middle-earth, following the quest to destroy the One Ring, seen mainly through the eyes of the hobbits Frodo, Sam, Merry, and Pippin. Aiding the hobbits are the wizard Gandalf, the men Aragorn and Boromir, the elf Legolas, and the dwarf Gimli, who unite as the Company of the Ring in order to rally the Free Peoples of Middle-earth against Sauron's armies and give Frodo a chance to destroy the One Ring in the fires of Mount Doom.
 >

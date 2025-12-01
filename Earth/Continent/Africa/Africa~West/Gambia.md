@@ -288,13 +288,6 @@ WIPO_ST_3: GM
 
 # [[Gambia]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Gambia 
-
-[[Gambia/ReadMe]] 
-
-
-
 [	ISO4217-currency_alphabetic	 :: GMD ]
 [	ISO4217-currency_name	 :: Dalasi ]
 [	ISO4217-currency_numeric	 :: 270 ]
@@ -358,10 +351,19 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 270 ]
 
-
-
 [ISO2::GM]
 [ISO3::GMB]
+
+#is_/same_as :: [[../../../../WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Gambia 
+
+[[Gambia/ReadMe]] 
+
+
+## #has_/map 
+
 ```leaflet
 id: Gambia
 zoomFeatures: true 

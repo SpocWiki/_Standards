@@ -8,7 +8,7 @@
 > 
 > A co-production between India and the United Kingdom, 
 > the film was directed and produced by [[Attenborough,Richard|Richard Attenborough]] from a screenplay written by John Briley. 
-> It stars [[Kingsley,Ben]] in the title role. 
+> It stars [[Gandhi(film)/Kingsley,Ben]] in the title role. 
 > 
 > The biographical film covers Gandhi's life from a defining moment in 1893, 
 > as he is thrown off a South African train for being in a whites-only compartment 

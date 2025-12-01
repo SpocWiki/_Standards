@@ -1,6 +1,8 @@
 ---
 aliases:
   - Rembrandt Harmenszoon van Rijn
+  - Rembrandt
+  - Rembrandt van Rijn
 has_id_wikidata: Q5598
 artist_files_at:
   - "[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]"
