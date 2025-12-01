@@ -140,7 +140,7 @@ writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 > 
 > In 1938, his radio anthology series The Mercury Theatre on the Air 
 > gave Welles the platform to find international fame as the director 
-> and narrator of a radio adaptation of [[Modern_Writer/Wells,H.G.]]'s novel The [[War of the Worlds]], 
+> and narrator of a radio adaptation of [[../Modern_Writer/Wells,H.G]]'s novel The [[War of the Worlds]], 
 > which caused some listeners to believe that a Martian invasion was in fact occurring. 
 > The event rocketed the 23-year-old Welles to notoriety.
 >

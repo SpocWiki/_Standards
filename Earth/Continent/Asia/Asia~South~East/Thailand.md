@@ -1,5 +1,4 @@
 ---
-age_of_majority: 20
 aliases:
   - Thailand
   - Tailandia
@@ -9,6 +8,8 @@ aliases:
   - Таиланд
   - the Kingdom of Thailand
   - el Reino de Tailandia
+has_id_wikidata: Q869
+age_of_majority: 20
 anthem: "[[_Standards/WikiData/WD~Thai_National_Anthem,207868]]"
 area: 513119.5
 Baidu_Tieba_name: 泰国
@@ -248,7 +249,6 @@ hashtag:
   - ประเทศไทย
 has_cabinet: "[[_Standards/WikiData/WD~Cabinet_of_Thailand,873368]]"
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-has_id_wikidata: Q869
 head_of_government: "[[_Standards/WikiData/WD~Paetongtarn_Shinawatra,13026319]]"
 head_of_state: "[[_Standards/WikiData/WD~Vajiralongkorn,548733]]"
 highest_point: "[[_Standards/WikiData/WD~Doi_Inthanon,1140075]]"
@@ -469,12 +469,6 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "Thailand"]
 
 # [[Thailand]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Thailand 
-
-[[Thailand/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: THB ]
 [	ISO4217-currency_name	 :: Baht ]
 [	ISO4217-currency_numeric	 :: 764 ]
@@ -538,14 +532,16 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 [	ISO3166-1-numeric	 :: 764 ]
 
-
-
 [ISO2::TH]
 [ISO3::THA] 
+#is_/same_as :: [[../../../../WikiData/WD~Thailand,869|WD~Thailand,869]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Thailand 
+
+[[Thailand/ReadMe]] 
 
 ## #has_/map  
-
-
 
 ```leaflet
 id: Thailand

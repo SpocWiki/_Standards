@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Pink Floyd
 has_id_wikidata: Q2306
 award_received:
   - "[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]"
@@ -58,11 +59,11 @@ country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 Tumblr_username: whypinkfloyd
 work_period_end_: 2014-01-01T00:00:00Z
 ISNI: "0000000109397559"
-TikTok_username: pinkfloyd
-subreddit: pinkfloyd
 Facebook_username: pinkfloyd
 Instagram_username: pinkfloyd
 X_Twitter_username: pinkfloyd
+TikTok_username: pinkfloyd
+subreddit: pinkfloyd
 social_media_followers: 3447531
 work_period_start_: 1965-01-01T00:00:00Z
 inception: 1964-01-01T00:00:00Z
@@ -81,15 +82,16 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PINK_FLOD.html
 
 # [[Pink_Floyd]] 
 
-#is_/same_as :: [[WD~Pink_Floyd,2306]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Pink_Floyd,2306|WD~Pink_Floyd,2306]] 
 
 ## #has_/text_of_/abstract 
 
-> Pink Floyd are an English rock band formed in London in 1965. 
+> **Pink Floyd** are an English rock band formed in London in 1965. 
 > Gaining an early following as one of the first British psychedelic groups, 
-> they were distinguished by their extended compositions, sonic experiments, 
-> philosophical lyrics, and elaborate live performances, 
-> and became a leading progressive rock band.
+> they were distinguished by their extended compositions, sonic experiments, philosophical lyrics, 
+> and elaborate live shows. 
+> They became a leading band of the progressive rock genre, 
+> cited by some as the greatest progressive rock band of all time.
 >
 > Pink Floyd were founded in 1965 by 
 > - Syd Barrett (guitar, lead vocals), 
@@ -114,7 +116,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PINK_FLOD.html
 > The musical film based on The Wall, Pink Floyd – The Wall (1982), won two BAFTAs. 
 > Pink Floyd also composed several film scores.
 >
-> Personal tensions led to Wright leaving the band in 1981, followed by Waters in 1985. 
+> Following personal tensions, Wright left Pink Floyd in 1981, followed by Waters in 1985. 
 > Gilmour and Mason continued as Pink Floyd, rejoined later by Wright. 
 > 
 > They produced the studio albums A Momentary Lapse of Reason (1987) 
@@ -123,17 +125,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PINK_FLOD.html
 > In 2005, Gilmour, Mason and Wright reunited with Waters 
 > for a performance at the global awareness event Live 8. 
 > 
-> Barrett died in 2006, as did Wright in 2008. 
+> Barrett died in 2006 and Wright in 2008. 
 > The last Pink Floyd studio album, The Endless River (2014), 
 > was based on unreleased material from the Division Bell recording sessions. 
-> In 2022, Pink Floyd released the song "Hey, Hey, Rise Up!" 
-> in protest of the Russian invasion of Ukraine.
+> In 2022, Gilmour and Mason reformed Pink Floyd 
+> to release the song "Hey, Hey, Rise Up!" in protest of the Russian invasion of Ukraine.
 >
 > By 2013, Pink Floyd had sold more than 250 million records worldwide, 
 > making them one of the best-selling music artists of all time. 
 > 
 > The Dark Side of the Moon and The Wall were inducted into the Grammy Hall of Fame, 
-> and are among the best-selling albums of all time. 
+> and these albums and Wish You Were Here are among the best-selling albums of all time. 
 > 
 > Four Pink Floyd albums topped the US Billboard 200 and five topped the UK Albums Chart. 
 > 

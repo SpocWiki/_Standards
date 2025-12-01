@@ -24,7 +24,7 @@ MeSH_tree_code: E07.710.680.700
 
 # [[Synchrotron]] 
 
-#is_/same_as ::  [[../../../WikiData/WD~Synchrotron,689863|WD~Synchrotron,689863]] 
+#is_/same_as ::  [[../../../../../WikiData/WD~Synchrotron,689863|WD~Synchrotron,689863]] 
 
 ## #has_/text_of_/abstract 
 

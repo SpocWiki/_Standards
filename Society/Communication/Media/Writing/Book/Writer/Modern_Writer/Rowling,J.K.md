@@ -171,7 +171,7 @@ ISNI: 000000012148628X
 NLC_authorities: "051064532"
 ---
 
-# [[Rowling,J.K.]]
+# [[Rowling,J.K]]
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~J._K._Rowling,34660|WD~J._K._Rowling,34660]]
 

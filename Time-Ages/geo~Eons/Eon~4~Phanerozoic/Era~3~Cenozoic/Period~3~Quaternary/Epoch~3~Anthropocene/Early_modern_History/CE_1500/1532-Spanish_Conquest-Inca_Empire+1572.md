@@ -1,6 +1,8 @@
 ---
 aliases:
+  - Spanish conquest Inca Empire
   - Spanish conquest of the Inca Empire
+  - Spanish_conquest_of_the_Inca_Empire
 has_id_wikidata: Q636771
 instance_of: "[[_Standards/WikiData/WD~conquest,1361229]]"
 participant:
@@ -20,7 +22,6 @@ coordinate_location: Point(-71.983333 -13.522222)
 # [[1532-Spanish_Conquest-Inca_Empire+1572]]
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Spanish_conquest_of_the_Inca_Empire,636771|WD~Spanish_conquest_of_the_Inca_Empire,636771]]  
-
 
 ## #has_/text_of_/abstract 
 

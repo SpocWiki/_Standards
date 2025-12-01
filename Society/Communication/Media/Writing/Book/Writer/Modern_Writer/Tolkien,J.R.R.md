@@ -180,13 +180,13 @@ official_website: https://tolkienestate.com
 ISNI: "0000000121441970"
 ---
 
-# [[Tolkien,J.R.R.]]
+# [[Tolkien,J.R.R]]
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~J._R._R._Tolkien,892|WD~J._R._R._Tolkien,892]]
 
 ## #has_/text_of_/abstract 
 
-> John Ronald Reuel Tolkien (, 3 January 1892 – 2 September 1973) 
+> John Ronald Reuel Tolkien (3 January 1892 – 2 September 1973) 
 > was an English writer and philologist. 
 > He was the author of the high fantasy works The Hobbit and The Lord of the Rings.
 >

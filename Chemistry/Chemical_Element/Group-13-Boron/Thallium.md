@@ -60,8 +60,9 @@ UNII: AD84R52XLF
 ZVG_number: 7810
 ---
 
+# [[Thallium]] 
+
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Thallium,932]] 
 
 [GroupName::Group-13-Boron]
 [Group:[[../Group-13-Boron]]
@@ -84,6 +85,7 @@ ZVG_number: 7810
 [FormEnergy-kj-mol::164.1]
 (PeriodNo::6)
 (GroupNo::13)
+#is_/same_as :: [[../../../WikiData/WD~Thallium,932]] 
 
 
 ## #has_/text_of_/abstract 

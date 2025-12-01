@@ -62,7 +62,7 @@ Europeana_entity: agent/base/109664
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/SELINDZHER_DZHEROM_DEVID.html
 ---
 
-# [[Salinger,J.D.]] 
+# [[Salinger,J.D]] 
 
 #is_/same_as :: [[WD~J._D._Salinger,79904]] 
 

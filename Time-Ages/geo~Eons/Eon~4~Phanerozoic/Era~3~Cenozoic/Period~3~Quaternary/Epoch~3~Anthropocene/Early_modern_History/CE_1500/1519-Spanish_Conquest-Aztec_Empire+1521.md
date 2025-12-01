@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Spanish conquest Aztec Empire
+  - Spanish conquest of the Aztec Empire
+  - Spanish_conquest_of_the_Aztec_Empire
 has_id_wikidata: Q828435
 participant:
   - "[[_Standards/WikiData/WD~Tlaxcala,614072]]"

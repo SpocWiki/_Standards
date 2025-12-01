@@ -134,6 +134,8 @@ Google_Doodle: birthday-of-hg-wells
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/UELLS_GERBERT_DZHORDZH.html
 ---
 
+# [[Wells,H.G]] 
+
 #has_/time_/started ::  1866-09-21
 #has_/time_/stopped ::  1946-08-13 
 

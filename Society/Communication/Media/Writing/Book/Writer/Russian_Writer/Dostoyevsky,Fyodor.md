@@ -4,6 +4,8 @@ aliases:
   - Fyodor_Dostoyevsky
   - Dostoyevsky
   - Fyodor Mikhailovich Dostoevsky
+  - Fyodor Dostoevsky
+  - Dostoevsky
 allegiance: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
 BHCL_UUID: 6a003c2a-7533-4509-a180-62dbe6d6a24f
 cause_of_death:
