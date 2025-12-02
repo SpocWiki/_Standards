@@ -1,6 +1,7 @@
 ---
 aliases:
   - Theoretische Informatik
+  - theoretical computer science
 has_id_wikidata: Q2878974
 has_part_s_:
   - "[[_Standards/WikiData/WD~computational_complexity_theory,205084]]"

@@ -12,7 +12,7 @@ Stack_Exchange_tag:
 
 # [[Event_Horizon]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Event_horizon,181741|WD~Event_horizon,181741]] 
+#is_/same_as :: [[../../../../WikiData/WD~Event_horizon,181741|WD~Event_horizon,181741]] 
 
 ## #has_/text_of_/abstract 
 
