@@ -61,11 +61,19 @@ UNSPSC_Code: 55101525
 
 # [[Encyclopedia]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Encyclopedia,5292|WD~Encyclopedia,5292]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Encyclopedia,5292|WD~Encyclopedia,5292]] 
 
 ## #has_/text_of_/abstract 
 
-> An **Encyclopedia** is a reference work or compendium providing summaries of knowledge, either general or special, in a particular field or discipline. Encyclopedias are divided into articles or entries that are arranged alphabetically by article name or by thematic categories, or else are hyperlinked and searchable. Encyclopedia entries are longer and more detailed than those in most dictionaries. Generally speaking, encyclopedia articles focus on factual information concerning the subject named in the article's title; this is unlike dictionary entries, which focus on linguistic information about words, such as their etymology, meaning, pronunciation, use, and grammatical forms.
+> An **Encyclopedia** is a reference work or compendium 
+> providing summaries of knowledge, either general or special, in a particular field or discipline. 
+> 
+> Encyclopedias are divided into articles or entries 
+> that are arranged alphabetically by article name or by thematic categories, 
+> or else are hyperlinked and searchable. 
+> 
+> Encyclopedia entries are longer and more detailed than those in most dictionaries. 
+> Generally speaking, encyclopedia articles focus on factual information concerning the subject named in the article's title; this is unlike dictionary entries, which focus on linguistic information about words, such as their etymology, meaning, pronunciation, use, and grammatical forms.
 >
 > Encyclopedias have existed for around 2,000 years and have evolved considerably during that time as regards language (written in a major international or a vernacular language), size (few or many volumes), intent (presentation of a global or a limited range of knowledge), cultural perspective (authoritative, ideological, didactic, utilitarian), authorship (qualifications, style), readership (education level, background, interests, capabilities), and the technologies available for their production and distribution (hand-written manuscripts, small or large print runs, Internet). As a valued source of reliable information compiled by experts, printed versions found a prominent place in libraries, schools and other educational institutions.
 >
