@@ -25,7 +25,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Experiment%20zur%20Re
 
 # [[Special_Relativity]]
 
-#is_/same_as :: [[../../WikiData/WD~Special_relativity,11455|WD~Special_relativity,11455]] 
+#is_/same_as :: [[../../../WikiData/WD~Special_relativity,11455|WD~Special_relativity,11455]] 
 
 ## #has_/text_of_/abstract 
 
