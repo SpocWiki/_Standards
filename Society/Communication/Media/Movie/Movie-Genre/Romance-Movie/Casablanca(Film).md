@@ -142,7 +142,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bergman%20%26%20Bogart
 film_poster: http://commons.wikimedia.org/wiki/Special:FilePath/CasablancaPoster-Gold.jpg
 ---
 
-# [[Casablanca(Movie)]] 
+# [[Casablanca(Film)]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Casablanca,132689|WD~Casablanca,132689]] 
 ## #has_/text_of_/abstract 

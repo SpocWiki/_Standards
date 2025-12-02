@@ -238,17 +238,63 @@ official_website: https://www.fox.com/the-simpsons/
 
 # [[Simpsons]]  
 
-#is_/same_as :: [[WD~The_Simpsons,886]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~The_Simpsons,886|WD~The_Simpsons,886]] 
 
 ## #has_/text_of_/abstract 
 
-> The Simpsons is an American  animated sitcom created by Matt Groening and developed by Groening, James L. Brooks and Sam Simon for the Fox Broadcasting Company. It is a satirical depiction of American life, epitomized by the Simpson family, which consists of Homer, Marge, Bart, Lisa, and Maggie. Set in the fictional town of Springfield, in an unspecified location in the United States, it caricatures society, Western culture, television and the human condition.
+> The Simpsons is an American  animated sitcom created by Matt Groening 
+> and developed by Groening, James L. Brooks and Sam Simon for Fox Broadcasting Company. 
+> 
+> It is a satirical depiction of American life, epitomized by the Simpson family, 
+> which consists of Homer, Marge, Bart, Lisa, and Maggie. 
+> 
+> Set in the fictional town of Springfield, in an unspecified location in the United States, 
+> it caricatures society, Western culture, television and the human condition.
 >
-> The family was conceived by Groening shortly before a solicitation for a series of animated shorts with producer Brooks. He created a dysfunctional family and named the characters after his own family members, substituting Bart for his own name; he thought Simpson was a funny name in that it sounded similar to "simpleton". The shorts became a part of The Tracey Ullman Show on April 19, 1987. After three seasons, the sketch was developed into a half-hour primetime show and became Fox's first series to land in the Top 30 ratings in a season (1989–1990).
+> The family was conceived by Groening shortly 
+> before a solicitation for a series of animated shorts with producer Brooks. 
+> He created a dysfunctional family and named the characters after his own family members, 
+> substituting Bart for his own name; 
+> he thought Simpson was a funny name in that it sounded similar to "simpleton". 
+> 
+> The shorts became a part of The Tracey Ullman Show on April 19, 1987. 
+> After three seasons, the sketch was developed into a half-hour primetime show 
+> and became Fox's first series to land in the Top 30 ratings in a season (1989–1990).
 >
-> Since its debut on December 17, 1989, 799 episodes of the show have been broadcast. It is the longest-running American animated series, longest-running American sitcom, and the longest-running American scripted primetime television series, both in seasons and individual episodes. A feature-length film, The Simpsons Movie (2007), was released in theaters worldwide to critical and commercial success, with a sequel, The Simpsons 2 (2027), set to release on July 23, 2027. The series has also spawned numerous comic book series, video games, books and other related media, as well as a billion-dollar merchandising industry. The Simpsons was initially a joint production by Gracie Films and 20th Television; 20th Television's involvement was later moved to 20th Television Animation, a separate unit of Disney Television Studios. On April 2, 2025, the show was renewed for four additional seasons on Fox, with 15 episodes and two Disney+ specials each, bringing the episode total from 790 to 858.
+> Since its debut on December 17, 1989, 799 episodes of the show have been broadcast. 
+> It is the longest-running American animated series, longest-running American sitcom, 
+> and the longest-running American scripted primetime television series, 
+> both in seasons and individual episodes. 
+> 
+> A feature-length film, The Simpsons Movie (2007), was released in theaters worldwide 
+> to critical and commercial success, with a sequel, The Simpsons 2 (2027), 
+> set to release on July 23, 2027. 
+> 
+> The series has also spawned numerous comic book series, video games, books 
+> and other related media, as well as a billion-dollar merchandising industry. 
+> 
+> The Simpsons was initially a joint production by Gracie Films and 20th Television; 
+> 20th Television's involvement was later moved to 20th Television Animation, 
+> a separate unit of Disney Television Studios. 
+> 
+> On April 2, 2025, the show was renewed for four additional seasons on Fox, 
+> with 15 episodes and two Disney+ specials each, bringing the episode total from 790 to 858.
 >
-> The Simpsons received widespread acclaim throughout its early seasons in the 1990s, which are generally considered its "golden age". Since then, it has been criticized for a perceived decline in quality. Time named it the 20th century's best television series, and Erik Adams of The A.V. Club named it "television's crowning achievement regardless of format". On January 14, 2000, the Simpson family was awarded a star on the Hollywood Walk of Fame. It has won dozens of awards since it debuted as a series, including 37 Primetime Emmy Awards, 34 Annie Awards, and 2 Peabody Awards. Homer's exclamatory catchphrase of "D'oh!" has been adopted into the English language, while The Simpsons has influenced many other later adult-oriented animated sitcom television series.
+> The Simpsons received widespread acclaim throughout its early seasons in the 1990s, 
+> which are generally considered its "golden age". 
+> Since then, it has been criticized for a perceived decline in quality. 
+> 
+> Time named it the 20th century's best television series, and Erik Adams of The A.V. Club 
+> named it "television's crowning achievement regardless of format". 
+> 
+> On January 14, 2000, the Simpson family was awarded a star on the Hollywood Walk of Fame. 
+> It has won dozens of awards since it debuted as a series, including 
+>- 37 Primetime Emmy Awards, 
+>- 34 Annie Awards, and 
+>- 2 Peabody Awards. 
+> 
+> Homer's exclamatory catchphrase of "D'oh!" has been adopted into the English language, 
+> while The Simpsons has influenced many other later adult-oriented animated sitcom television series.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Simpsons)  
 

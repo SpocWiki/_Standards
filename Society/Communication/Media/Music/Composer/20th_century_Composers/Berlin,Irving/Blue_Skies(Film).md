@@ -22,7 +22,7 @@ publication_date: 1926-01-01T00:00:00Z
 Commons_category: Blue Skies (song)
 ---
 
-# [[Blue_Skies(movie)]] 
+# [[Blue_Skies(Film)]] 
 
 ## #has_/text_of_/abstract 
 

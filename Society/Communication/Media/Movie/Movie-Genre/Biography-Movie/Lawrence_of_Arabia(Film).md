@@ -163,7 +163,7 @@ Commons_category: Lawrence of Arabia (film)
 EcuRed_article: Lawrence_de_Arabia_(película)
 ---
 
-# [[Lawrence_of_Arabia(Movie)]] 
+# [[Lawrence_of_Arabia(Film)]] 
 
 #is_/same_as :: [[WD~Lawrence_of_Arabia,228186]] 
 

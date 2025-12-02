@@ -28,7 +28,7 @@ has_id_wikidata: Q40504
 >
 > He continued to have success as a leading actor in comedies such as [[Liar Liar]] (1997), 
 > [[How the Grinch Stole Christmas]] (2000), [[Bruce Almighty]] (2003), 
-> [[../../Movie-Genre/Horror-Movie/Series_of_Unfortunate_Events(movie)]] (2004) and [[Yes Man]] (2008). 
+> [[../../Movie-Genre/Horror-Movie/Series_of_Unfortunate_Events(Film)]] (2004) and [[Yes Man]] (2008). 
 > 
 > Starting in the 2010s, Carrey began to appear in fewer films, 
 > with his notable roles since then including reprising the part of Lloyd Christmas in [[Dumb and Dumber To]] (2014) and portraying Dr. Robotnik in [[Sonic the Hedgehog]] (2020) and its 2022 and 2024 sequels.

@@ -129,7 +129,7 @@ work_period_start_: 1907-01-01T00:00:00Z
 > During his 60-year career he wrote an estimated 1,500 songs, 
 > including the scores for 20 original Broadway shows and 15 original Hollywood films, 
 > with his songs nominated eight times for [[../../../Movie/Academy_Award|Academy Awards]]. 
-> Many songs became popular themes and anthems, including "[[Berlin,Irving/Alexander's_Ragtime_Band|Alexander's Ragtime Band]]", "[[Berlin,Irving/Blue_Skies(movie)|Blue Skies]]", "Easter Parade", "[[Berlin,Irving/Puttin'_on_the_Ritz]]", "[[Berlin,Irving/Cheek_to_Cheek]]", "[[Berlin,Irving/White_Christmas(song)|White Christmas]]", "Happy Holiday", "[[Berlin,Irving/Anything_You_can_do]] (I Can Do Better)", 
+> Many songs became popular themes and anthems, including "[[Berlin,Irving/Alexander's_Ragtime_Band|Alexander's Ragtime Band]]", "[[Berlin,Irving/Blue_Skies(Film)|Blue Skies]]", "Easter Parade", "[[Berlin,Irving/Puttin'_on_the_Ritz]]", "[[Berlin,Irving/Cheek_to_Cheek]]", "[[Berlin,Irving/White_Christmas(song)|White Christmas]]", "Happy Holiday", "[[Berlin,Irving/Anything_You_can_do]] (I Can Do Better)", 
 > and "[[Berlin,Irving/There's_no_Business_like_Show_Business]]". 
 >
 > His Broadway musical This Is the Army (1942) was adapted into the 1943 film of the same name.

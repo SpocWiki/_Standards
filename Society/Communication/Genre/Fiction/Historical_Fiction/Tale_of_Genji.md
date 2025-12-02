@@ -2,6 +2,7 @@
 aliases:
   - Tale of Genji
   - Genji Monogatari
+has_id_wikidata: Q8269
 author: "[[_Standards/WikiData/WD~Murasaki_Shikibu,81731]]"
 Baidu_Tieba_name: 源氏物语
 characters:
@@ -60,7 +61,6 @@ has_edition_or_translation:
   - "[[_Standards/WikiData/WD~Q22124582,22124582]]"
   - "[[_Standards/WikiData/WD~The_Tale_of_Genji,106583799]]"
   - "[[_Standards/WikiData/WD~Gendai_Kyōkotoba_Yaku_Genji_Monogatari,106981933]]"
-has_id_wikidata: Q8269
 has_part_s_:
   - "[[_Standards/WikiData/WD~Suetsumuhana,985686]]"
   - "[[_Standards/WikiData/WD~Hanachirusato,4919499]]"
@@ -150,11 +150,19 @@ translator:
   - "[[_Standards/WikiData/WD~Dennis_Washburn,21061664]]"
 ---
 
+# [[Tale_of_Genji]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~The_Tale_of_Genji,8269|WD~The_Tale_of_Genji,8269]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Tale of Genji** (源氏物語, Genji monogatari, pronounced [ɡeɲdʑi monoɡaꜜtaɾi]), 
-> also known as Genji Monogatari, is a classic work of Japanese literature written by the noblewoman, poet, and lady-in-waiting Murasaki Shikibu around the peak of the Heian period, 
-> in the early 11th century. The original manuscript no longer exists. 
+> also known as Genji Monogatari, is a classic work of Japanese literature 
+> written by the noblewoman, poet, and lady-in-waiting Murasaki Shikibu 
+> around the peak of the Heian period, in the early 11th century. 
+> 
+> The original manuscript no longer exists. 
+> 
 > It was made in "concertina" or orihon style: 
 > several sheets of paper pasted together and folded alternately in one direction then the other.
 >
