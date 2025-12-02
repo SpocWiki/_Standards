@@ -1,6 +1,40 @@
 ---
+aliases:
+  - Mygalomorphae
+has_id_wikidata: Q12081
 title: Mygalomorphae
+does_not_have_part: "[[_Standards/WikiData/WD~Cribellum,1139884]]"
+taxon_rank:
+  - "[[_Standards/WikiData/WD~infraorder,2889003]]"
+  - "[[_Standards/WikiData/WD~suborder,5867959]]"
+parent_taxon: "[[_Standards/WikiData/WD~Opisthothelae,12072]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+ITIS_TSN: "82733"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Mouse%20spider.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sphodros%20rufipes.JPG
+UMLS_CUI: C0998347
+Commons_gallery: Mygalomorphae
+Commons_category: Mygalomorphae
+taxon_name: Mygalomorphae
+taxon_common_name:
+  - Migalomorf
+  - sklípkani
+  - Vogelspinnenartige
+  - Mygales
+  - Mygalomorphes
+  - Négytüdős pókok
+  - Migali
+  - Мигаломорфные пауки
+  - Štvorpľúcne
 ---
+
+
+# [[Mygalomorphae]]  
+
+![ ](Mygalomorphae/01082tarantula1.jpg))
+
+#is_/same_as :: [[../../../../../../../../../_Standards/WikiData/WD~Mygalomorphae,12081|WD~Mygalomorphae,12081]] 
 
 ## Phylogeny 
 
@@ -18,10 +52,6 @@ title: Mygalomorphae
     -  [Araneomorphae](Araneomorphae.md))
 
 -   » Sub-Groups 
-
-# Mygalomorphae 
-![ ](Mygalomorphae/01082tarantula1.jpg))
-
 Tree from Coddington, J.A. 2005. Phylogeny and Classification of
 Spiders. In D. Ubick, P. Paquin, P. E. Cushing, and V. Roth (eds.)
 Spiders of North America: an identification manual, American
@@ -48,7 +78,8 @@ Antrodiaetidae). Journal of Arachnology 24:201-213.
   Comments             Tarantula and poison-dart frog on tree trunk
   Specimen Condition   Live Specimen
   Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
-  -----------------------------------------------------------------------------
+  -----------------------------------------------------------------------------
+
 
 
 ## Confidential Links & Embeds: 
