@@ -111,7 +111,7 @@ Krugosvet_article_archived_: istoriya/GOBBS_TOMAS.html
 #is_/different_from :: [[Rousseau,Jean-Jacques]]  
 who claimed that the natural state is peaceful. 
 
-#is_/same_as :: [[../../../../../_Standards/WikiData/WD~Thomas_Hobbes,37621|WD~Thomas_Hobbes,37621]] 
+#is_/same_as :: [[../../../WikiData/WD~Thomas_Hobbes,37621|WD~Thomas_Hobbes,37621]]  
 
 ## #has_/text_of_/abstract  
 

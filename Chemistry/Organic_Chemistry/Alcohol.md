@@ -53,6 +53,8 @@ U_S_National_Archives_Identifier: 10640163
 
 # [[Alcohol]] 
 
+#is_/similar_to :: [[Thiol]] 
+#has_/formula_/structural :: R−OH 
 #is_/same_as :: [[../../WikiData/WD~Alcohols,156]] 
 
 ## #has_/text_of_/abstract 
