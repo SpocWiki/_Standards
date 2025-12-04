@@ -44,7 +44,11 @@ Represents the broad notion of Android-based operating systems.
 
 ## Confidential Links & Embeds: 
 
+<<<<<<< HEAD:Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.md
 ### #is_/same_as :: [OS~Android](OS~Android.md) 
+=======
+### #is_/same_as :: [android_platform](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.md) 
+>>>>>>> f0653f39d31628fed65c0015154cee739f419c2b:schema-org/Class/is_a_/Intangible/Enumeration/Digital_Platform_Enumeration/Android_Platform.md
 
 ### #is_/same_as :: [android_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.public.md) 
 
