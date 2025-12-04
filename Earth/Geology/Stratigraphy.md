@@ -36,7 +36,9 @@ Dewey_Decimal_Classification: "551.7"
 
 ## #has_/text_of_/abstract 
 
-> **Stratigraphy** is a branch of geology concerned with the study of rock layers (strata) and layering (stratification). 
+> **Stratigraphy** is a branch of geology concerned with the study of 
+> rock layers (strata) and layering (stratification). 
+> 
 > It is primarily used in the study of sedimentary and layered volcanic rocks.
 >
 > Stratigraphy has three related subfields: 
