@@ -45,8 +45,9 @@ Unicode_character: 銩
 UNII: 8RKC5ATI4P
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Thulium,1853]] 
+# [[Thulium]] 
 
+#is_/same_as :: [[../../../WikiData/WD~Thulium,1853]] 
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
@@ -70,7 +71,7 @@ UNII: 8RKC5ATI4P
 [FormEnergy-kj-mol::191]
 (PeriodNo::6)
 (GroupNo::35)
-
+#is_/same_as :: [[../../../WikiData/WD~Thulium,1853|WD~Thulium,1853]] 
 
 ## #has_/text_of_/abstract 
 

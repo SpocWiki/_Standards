@@ -59,8 +59,7 @@ Unicode_character: 釷
 UNII: 60YU5MIG9W
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Thorium,1115]] 
-
+# [[Thorium]] 
 
 #chemic/Element 
 [GroupName::Actinide-Group]
@@ -86,9 +85,9 @@ UNII: 60YU5MIG9W
 [FormEnergy-kj-mol::514.4]
 (PeriodNo::7)
 (GroupNo::24)
-[]
 (Charge-e::90)
 
+#is_/same_as :: [[../../../WikiData/WD~Thorium,1115]] 
 
 
 ## #has_/text_of_/abstract 

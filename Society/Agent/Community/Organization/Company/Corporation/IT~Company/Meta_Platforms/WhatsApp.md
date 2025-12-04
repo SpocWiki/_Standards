@@ -1,6 +1,7 @@
 
 #is_/similar_to :: [[SnapChat]] 
 #is_/similar_to :: [[WeChat]] 
+#is_/similar_to :: [[Wire(Messenger)]] 
 #is_/part_of :: [[../Meta_Platforms]] 
 
 
