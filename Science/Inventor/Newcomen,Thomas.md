@@ -38,7 +38,7 @@ date_of_birth: 1664-02-28T00:00:00Z
 ## #has_/text_of_/abstract 
 
 > Thomas Newcomen (February 1664 – 5 August 1729) was an English inventor, 
-> creator of the [[atmospheric engine]] in 1712, 
+> creator of the [[../../Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Newcomen_Steam_Engine|Newcomen_Steam_Engine]] in 1712, 
 > Baptist preacher by calling and ironmonger by trade.
 >
 > He was born in Dartmouth, in Devon, England, to a merchant family 
