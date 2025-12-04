@@ -35,7 +35,7 @@ Use it like this:
 - [ ] TODO: unify with [[../has/has_previous_item]].  
 
 A pointer from a newer variant of a product  to its previous, 
-often [[../../Class/is_a_/Intangible/enumeration/item_availability/discontinued|discontinued]] predecessor.
+often [[../../Enumeration/Item_Availability/Discontinued|discontinued]] predecessor.
 
 Relation describes that: 
 [#has_/domain :: [[../../Class/is_a_/product/product_model|ProductModel]] ]

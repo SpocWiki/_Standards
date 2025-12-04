@@ -1,0 +1,64 @@
+---
+aliases:
+  - android-platform
+  - android_platform
+  - AndroidPlatform
+  - is_an_android_platform
+confidential: public
+cssclasses:
+  - Type
+draft: false
+enumerationtype: DigitalPlatformEnumeration
+expiryDate:
+isDeleted: false
+isReadOnly: false
+keywords:
+  - android_platform
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_android_platform Class
+publish: true
+publishDate:
+tags:
+  - class/Class
+  - schema-org/Class
+title: is_an_android_platform Class
+type: Type
+---
+
+# [[OS~Android]] 
+
+Class of all android_platforms.
+
+Tag Instances like this: 
+#is_an_/android_platform
+
+[ #is_/part_of :: https://pending.schema.org ]
+
+Represents the broad notion of Android-based operating systems.
+
+[ #is_/sub_class_of :: [[../DigitalPlatformEnumeration]] ]
+
+[ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
+
+
+## Confidential Links & Embeds: 
+
+<<<<<<< HEAD:Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.md
+### #is_/same_as :: [OS~Android](OS~Android.md) 
+=======
+### #is_/same_as :: [android_platform](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.md) 
+>>>>>>> f0653f39d31628fed65c0015154cee739f419c2b:schema-org/Class/is_a_/Intangible/Enumeration/Digital_Platform_Enumeration/Android_Platform.md
+
+### #is_/same_as :: [android_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.public.md) 
+
+### #is_/same_as :: [android_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.internal.md) 
+
+### #is_/same_as :: [android_platform.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.protect.md) 
+
+### #is_/same_as :: [android_platform.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.private.md) 
+
+### #is_/same_as :: [android_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.personal.md) 
+
+### #is_/same_as :: [android_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.secret.md)
+

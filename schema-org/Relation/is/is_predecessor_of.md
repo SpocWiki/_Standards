@@ -31,7 +31,7 @@ Use it like this:
 - [ #is_/predecessor_of :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] ] or 
 - [ is_predecessor_of :: [[../../Class/is_a_/product/product_model|ProductModel]] ] 
 
-A pointer from a previous, often [[../../Class/is_a_/Intangible/enumeration/item_availability/discontinued|discontinued]] variant of the product 
+A pointer from a previous, often [[../../Enumeration/Item_Availability/Discontinued|discontinued]] variant of the product 
 to its newer variant.
 
 Relation describes that: 
