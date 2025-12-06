@@ -85,7 +85,8 @@ Wolfram_Language_entity_code: Entity["ProgrammingLanguage", "C::p5vhv"]
 
 #has_/parent  :: [[../../Prog~Imperative/Prog~BCPL]] 
 #has_/creator :: [[Dennis_Ritchie]] 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~C,15777|WD~C,15777]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~C,15777|WD~C,15777]]
+#is_/same_as :: [[../../../../../../../../_Standards/WikiData/WD~Q15777,15777|WD~Q15777,15777]]
 
 Dennis Ritchie had produced "[[../../Programming/Prog~Language/Prog~Structured/Prog~C|Prog~C]] " from "B". 
 Ken Thompson created "B" when he ported the [[../../Programming/Prog~Language/Prog~Imperative/Prog~BCPL|Prog~BCPL]]  

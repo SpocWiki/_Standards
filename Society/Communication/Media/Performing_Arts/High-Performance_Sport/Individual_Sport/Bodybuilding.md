@@ -1,6 +1,29 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q124100
+subclass_of: "[[_Standards/WikiData/WD~strength_sport,337979]]"
+uses: "[[_Standards/WikiData/WD~weight_training,1425378]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~sports_discipline,2312410]]"
+  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+  - "[[_Standards/WikiData/WD~hobby,47728]]"
+practiced_by: "[[_Standards/WikiData/WD~bodybuilder,15982795]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+IAB_code: "549"
+hashtag: Bodybuilding
+Commons_category: Bodybuilding
+Iconclass_notation: 31A58
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Falk%2C%20Benjamin%20J.%20%281853-1925%29%20-%20Eugen%20Sandow%20%281867-1925%29.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20070504-N-0995C-072%20Chief%20Mineman%20Kevin%20Sperling%20appears%20as%20the%20guest%20body%20builder%20at%20an%20Armed%20Forces%20body%20building%20competition%20held%20at%20Sharkey%27s%20Theatre%20at%20Naval%20Station%20Pearl%20Harbor.jpg
+subreddit:
+  - bodybuilding
+  - Brogress
+Krugosvet_article_archived_: sport/BODIBILDING.html
+name_in_kana: ボディビルディング
+Baidu_Tieba_name: 健身
+native_label: bobybuilding
+Dewey_Decimal_Classification: "613.713"
 ---
 
 # [[Bodybuilding]] 
