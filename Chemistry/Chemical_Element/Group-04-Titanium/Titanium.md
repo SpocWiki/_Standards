@@ -97,12 +97,13 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Titanium\"]"
 ZVG_number: 8170
 ---
 
+# [[Titanium]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Titanium,716]] 
 
 [GroupName::Group-04-Titanium]
 [Group:[[../Group-04-Titanium]]
-
 
 [Name-en::Titanium]
 [Name-de::Titan]
@@ -124,7 +125,6 @@ ZVG_number: 8170
 
 
 ## #has_/text_of_/abstract 
-
 
 > **Titanium** is a chemical element with the symbol (Abbr::Ti) and atomic number (Charge-e::22). 
 > Found in nature only as an oxide, it can be reduced to produce 

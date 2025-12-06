@@ -79,12 +79,13 @@ ZVG_number:
 - 520040
 ---
 
+# [[Zirconium]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Zirconium,1038]] 
 
 [GroupName::Group-04-Titanium]
-[Group:[[../Group-04-Titanium]]
-
+[Group:[[../Group-04-Titanium]] 
 
 [Name-en::Zirconium]
 [Name-de::Zirkonium]

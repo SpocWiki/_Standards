@@ -486,7 +486,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 ```leaflet
 id: Argentina
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Argentina//
 markerFolder: ./Argentina/

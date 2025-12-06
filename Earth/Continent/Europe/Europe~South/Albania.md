@@ -366,12 +366,6 @@ IPA_transcription: ɐlˈbanʲɪjə
 
 # [[Albania]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Albania 
-
-[[Albania/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: ALL ]
 [	ISO4217-currency_name	 :: Lek ]
 [	ISO4217-currency_numeric	 :: 008 ]
@@ -438,15 +432,18 @@ Sub-region_Name ::  [[Southern Europe]]
 
 [	ISO3166-1-numeric	 :: 008 ]
 
-
 [ISO2::AL]
 [ISO3::ALB] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Albania,222]] 
 
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Albania 
+
+[[Albania/ReadMe]] 
+
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Albania
@@ -455,6 +452,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Albania//
 markerFolder: ./Albania//
+coordinates: [[Albania]] 
+markerFile: [[Albania]] 
+defaultZoom: 11 
 ```
 
 [name-en::Albania]
@@ -463,7 +463,7 @@ markerFolder: ./Albania//
 [Area-Land::27400]
 has_place_continent:: [[Europe]]  
 [VehicleCode::AL]
-Capital :: [[Tirana]]  
+Capital :: [[Albania/Counties~Albania/Tiranë,State/counties~Tiranë/Tiranës,County/cities~Tiranës/Tirana,City]]  
 ![[Coat_of_arms_of_Albania.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Albania.mp3]]
 ![[Flag_of_Albania.svg|350]]

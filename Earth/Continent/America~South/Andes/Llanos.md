@@ -25,6 +25,22 @@ WWF_ecoregion_code: NT0709
 
 #is_/same_as :: [[WD~Llanos,141501]] 
 
+## #has_/map 
+
+```leaflet
+id: Llanos
+geojsonFolder: ./Llanos/
+markerFolder: ./Llanos/
+coordinates: [[Llanos]] 
+markerFile: [[Llanos]] 
+zoomFeatures: true
+defaultZoom: 11 
+maxZoom: 18
+minZoom: 6
+```
+
+
+
 ## #has_/text_of_/abstract 
 
 > The **Llanos** (Spanish Los Llanos, "The Plains"; Spanish pronunciation: [los ˈʝanos]) 
