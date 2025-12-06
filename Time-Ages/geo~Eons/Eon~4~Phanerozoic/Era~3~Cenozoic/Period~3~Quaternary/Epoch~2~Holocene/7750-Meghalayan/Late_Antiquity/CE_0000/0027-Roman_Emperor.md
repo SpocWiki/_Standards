@@ -6,12 +6,12 @@
 ## #has_/text_of_/abstract 
 
 > The Roman emperor was the ruler and monarchical head of state of the Roman Empire, 
-> starting with the granting of the title augustus to Octavian in 27 BC. 
+> starting with the granting of the title [[0027-Roman_Emperor/Augustus|Augustus]] to Octavian in 27 BC. 
 > 
 > The title of imperator, originally a military honorific, 
 > was usually used alongside caesar, originally a cognomen. 
 > When a given Roman is described as becoming emperor in English, 
-> it generally reflects his accession as augustus, and later as basileus. 
+> it generally reflects his accession as Augustus, and later as Basileus (in [[Constantinople]]). 
 > Early emperors also used the title princeps ("first one") 
 > alongside other Republican titles, notably consul and pontifex maximus.
 >
@@ -26,11 +26,12 @@
 > 
 > The office of emperor was thought to be distinct from that of a rex ("king"). 
 > Augustus, the first emperor, resolutely refused recognition as a monarch. 
+> 
 > For **the first three hundred years of Roman emperors**, 
 > efforts were made to portray the emperors as leaders of the Republic, 
 > **fearing any association with the kings** who ruled Rome prior to the Republic.
 >
-> From Diocletian, whose reformed tetrarchy divided the position into one emperor in the West 
+> From Diocletian on, whose reformed tetrarchy divided the position into one emperor in the West 
 > and one in the East, emperors ruled in an openly monarchic style. 
 > 
 > Although succession was generally hereditary, it was only hereditary 
@@ -48,8 +49,8 @@
 > under Constantine there arose the specifically Christian idea 
 > that the emperor was God's chosen ruler on earth, 
 > a special protector and leader of the Christian Church, a position later termed Caesaropapism. 
-> 
 > In practice, an emperor's authority on Church matters was frequently subject to challenge. 
+> 
 > The Western Roman Empire collapsed in the late 5th century 
 > after multiple invasions by Germanic barbarian tribes, 
 > with no recognised claimant to Emperor of the West remaining after the death of Julius Nepos in 480. 

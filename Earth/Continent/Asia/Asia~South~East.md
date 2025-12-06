@@ -81,13 +81,15 @@ UMLS_CUI: C0003983
 ```leaflet
 id: Asia
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 3 
 maxZoom: 18
 defaultZoom: 3
 long: 99.0
 lat: 40
 geojsonFolder: ./Asia~South~East/
 markerFolder: ./Asia~South~East/
+coordinates: [[Asia~South~East]] 
+markerFile: [[Asia~South~East]] 
 ```
 
 ## #has_/text_of_/abstract 

@@ -138,7 +138,7 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 
 # [[Augustus]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Augustus,1405|WD~Augustus,1405]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Augustus,1405|WD~Augustus,1405]] 
 
 ## #has_/text_of_/abstract 
 
@@ -172,7 +172,26 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 > 
 > A similar ambiguity is seen in his chosen names, the implied rejection of monarchical titles whereby he called himself Princeps Civitatis 'First Citizen' juxtaposed with his adoption of the title Augustus.
 >
-> Augustus dramatically enlarged the empire, annexing Egypt, Dalmatia, Pannonia, Noricum, and Raetia, expanding possessions in Africa, and completing the conquest of Hispania, but he suffered a major setback in Germania. Beyond the frontiers, he secured the empire with a buffer region of client states and made peace with the Parthian Empire through diplomacy. He reformed the Roman system of taxation, developed networks of roads with an official courier system, established a standing army, established the Praetorian Guard as well as official police and fire-fighting services for Rome, and rebuilt much of the city during his reign. Augustus died in AD 14 at age 75, probably from natural causes. Persistent rumors, substantiated somewhat by deaths in the imperial family, have claimed his wife Livia poisoned him. He was succeeded as emperor by his adopted son Tiberius, Livia's son and former husband of Augustus's only biological child, Julia.
+> Augustus dramatically enlarged the empire, 
+> annexing Egypt, Dalmatia, Pannonia, Noricum, and Raetia, 
+> expanding possessions in Africa, and completing the conquest of Hispania, 
+> but he suffered a major setback in Germania. 
+> 
+> Beyond the frontiers, he secured the empire with a buffer region of client states 
+> and made peace with the Parthian Empire through diplomacy. 
+> 
+> He reformed the Roman system of taxation, 
+> developed networks of roads with an official courier system, 
+> established a standing army, established the Praetorian Guard 
+> as well as official police and fire-fighting services for Rome, 
+> and rebuilt much of the city during his reign. 
+> 
+> Augustus died in AD 14 at age 75, probably from natural causes. 
+> Persistent rumors, substantiated somewhat by deaths in the imperial family, 
+> have claimed his wife Livia poisoned him. 
+> 
+> He was succeeded as emperor by his adopted son Tiberius, 
+> Livia's son and former husband of Augustus's only biological child, Julia.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Augustus)
 
