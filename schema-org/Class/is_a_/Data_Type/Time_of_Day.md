@@ -27,7 +27,7 @@ title: "is_a_time Class"
 type: Type
 ---
 
-# [[Time-Value]] 
+# [[Time_of_Day]] 
 
 Class of all time-Values.
 
@@ -36,8 +36,6 @@ Tag Instances like this:
 
 A point in time recurring on multiple days in the form hh:mm:ss(Z|(+|-)hh:mm) 
 (see <a href="http://www.w3.org/TR/xmlschema-2/#time">XML schema for details</a>).
-
-
 
 ## #has_/text_of_/abstract 
 
