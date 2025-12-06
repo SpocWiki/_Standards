@@ -1,7 +1,8 @@
 ---
 aliases:
-- time
-- time
+- time of day
+- Tageszeit 
+- Zeit 
 - Time
 - is_a_time
 confidential: public
@@ -57,17 +58,17 @@ A point in time recurring on multiple days in the form hh:mm:ss(Z|(+|-)hh:mm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [time](/_Standards/schema-org/Class/is_a_/data_type/time.md) 
+### #is_/same_as :: [Time_of_Day](/_Standards/schema-org/Class/is_a_/data_type/Time_of_Day.md) 
 
-### #is_/same_as :: [time.public](/_public/schema-org/Class/is_a_/data_type/time.public.md) 
+### #is_/same_as :: [Time_of_Day.public](/_public/schema-org/Class/is_a_/data_type/Time_of_Day.public.md) 
 
-### #is_/same_as :: [time.internal](/_internal/schema-org/Class/is_a_/data_type/time.internal.md) 
+### #is_/same_as :: [Time_of_Day.internal](/_internal/schema-org/Class/is_a_/data_type/Time_of_Day.internal.md) 
 
-### #is_/same_as :: [time.protect](/_protect/schema-org/Class/is_a_/data_type/time.protect.md) 
+### #is_/same_as :: [Time_of_Day.protect](/_protect/schema-org/Class/is_a_/data_type/Time_of_Day.protect.md) 
 
-### #is_/same_as :: [time.private](/_private/schema-org/Class/is_a_/data_type/time.private.md) 
+### #is_/same_as :: [Time_of_Day.private](/_private/schema-org/Class/is_a_/data_type/Time_of_Day.private.md) 
 
-### #is_/same_as :: [time.personal](/_personal/schema-org/Class/is_a_/data_type/time.personal.md) 
+### #is_/same_as :: [Time_of_Day.personal](/_personal/schema-org/Class/is_a_/data_type/Time_of_Day.personal.md) 
 
-### #is_/same_as :: [time.secret](/_secret/schema-org/Class/is_a_/data_type/time.secret.md)
+### #is_/same_as :: [Time_of_Day.secret](/_secret/schema-org/Class/is_a_/data_type/Time_of_Day.secret.md)
 

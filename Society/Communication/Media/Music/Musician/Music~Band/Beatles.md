@@ -256,7 +256,7 @@ type: private_note
 > 
 > In 2004 and 2011, the group topped Rolling Stone's lists of the greatest artists in history. 
 > 
-> [[Time_Magazine]] named them among the 20th century's 100 most important people.
+> [[../../../Journalism/Magazine/Time_Magazine]] named them among the 20th century's 100 most important people.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Beatles)
 
