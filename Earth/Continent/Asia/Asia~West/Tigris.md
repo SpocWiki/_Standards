@@ -64,7 +64,6 @@ Iconclass_notation: 71A32113
 
 #is_/same_as :: [[../../../../../WikiData/WD~Tigris,35591|WD~Tigris,35591]] 
 
-
 ## #has_/text_of_/abstract 
 
 > The **Tigris** ( TY-griss; see below) is the eastern of the two great rivers that define Mesopotamia, 

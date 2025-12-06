@@ -89,12 +89,17 @@ Unicode_character:
 
 # [[Tiger]]
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tiger,19939|WD~Tiger,19939]]
-
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tiger,19939|WD~Tiger,19939]] 
 
 ## #has_/text_of_/abstract 
 
-> The **Tiger** (Panthera tigris) is a large cat and a member of the genus Panthera native to Asia. It has a powerful, muscular body with a large head and paws, a long tail and orange fur with black, mostly vertical stripes. It is traditionally classified into nine recent subspecies, though some recognise only two subspecies, mainland Asian tigers and the island tigers of the Sunda Islands.
+> The **Tiger** (Panthera tigris) is a large cat and a member of the genus Panthera native to Asia. 
+> It has a powerful, muscular body with a large head and paws, 
+> a long tail and orange fur with black, mostly vertical stripes. 
+> 
+> It is traditionally classified into nine recent subspecies, 
+> though some recognise only two subspecies, 
+> mainland Asian tigers and the island tigers of the Sunda Islands.
 >
 > Throughout the tiger's range, it inhabits mainly forests, from coniferous and temperate broadleaf and mixed forests in the Russian Far East and Northeast China to tropical and subtropical moist broadleaf forests on the Indian subcontinent and Southeast Asia. The tiger is an apex predator and preys mainly on ungulates, which it takes by ambush. It lives a mostly solitary life and occupies home ranges, defending these from individuals of the same sex. The range of a male tiger overlaps with that of multiple females with whom he mates. Females give birth to usually two or three cubs that stay with their mother for about two years. When becoming independent, they leave their mother's home range and establish their own.
 >
