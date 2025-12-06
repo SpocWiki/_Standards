@@ -11,6 +11,21 @@ has_id_wikidata: Q83067
 
 #is_/same_as :: [[../../../../../WikiData/WD~Timor,83067|WD~Timor,83067]] 
 
+## #has_/map  
+
+```leaflet
+id: Timor
+zoomFeatures: true 
+minZoom: 6 
+maxZoom: 18
+defaultZoom: 8
+geojsonFolder: ./Timor//
+markerFolder: ./Timor//
+coordinates: [[Timor]] 
+markerFile: [[Timor]] 
+```
+
+
 ## #has_/text_of_/abstract 
 
 > **Timor** (Indonesian: Pulau Timor; Portuguese: Ilha de Timor; Tetum: Illa Timór) 
