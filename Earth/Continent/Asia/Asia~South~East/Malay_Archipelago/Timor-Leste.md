@@ -9,6 +9,10 @@ aliases:
   - Osttimor
   - East Timor
   - East_Timor
+location:
+  - -8.56667
+  - 125.567
+coordinate_location: Point(125.75 -8.966667)
 BTI_Governance_Index:
   - 5.78
   - 5.93
@@ -59,7 +63,6 @@ birth_rate: 24.611
 confidential: public
 cssclasses:
   - Country
-coordinate_location: Point(125.75 -8.966667)
 country: "[[_Standards/WikiData/WD~Timor-Leste,574]]"
 capital: "[[_Standards/WikiData/WD~Dili,9310]]"
 continent: "[[_Standards/WikiData/WD~Asia,48]]"
@@ -170,9 +173,6 @@ instance_of:
 inception: 1975-11-28
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lospalos%20klein.jpg
 keywords:
-location:
-  - -8.56667
-  - 125.567
 license: CC BY-SA 4.0
 linkTitle:
 layout:
@@ -365,10 +365,9 @@ Sub-region_Name ::  [[South-eastern Asia]]
 [ISO2::TP] 
 [ISO3::TMP]  
 
-#is_/same_as :: [[../../../../../WikiData/WD~East_Timor,574|WD~East_Timor,574]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~East_Timor,574|WD~East_Timor,574]] 
 
 ## #has_/map  
-
 
 ```leaflet
 id: Timor-Leste
@@ -378,6 +377,8 @@ maxZoom: 18
 defaultZoom: 8
 geojsonFolder: ./Timor-Leste//
 markerFolder: ./Timor-Leste//
+coordinates: [[Timor-Leste]] 
+markerFile: [[Timor-Leste]] 
 ```
 
 [name-en::Timor-Leste] 
@@ -390,7 +391,7 @@ Capital :: [[Dili]]
 [Alcohol-l::0.9] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[../../../../Geography/Place]] 
+#is_a_ :: [[../../../../../Geography/Place]] 
 [has_place_longitude::125.567] 
 [has_place_latitude::-8.56667] 
 
