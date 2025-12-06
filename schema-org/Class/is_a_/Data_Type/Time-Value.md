@@ -27,14 +27,15 @@ title: "is_a_time Class"
 type: Type
 ---
 
-# [[time]] 
+# [[Time-Value]] 
 
 Class of all time-Values.
 
 Tag Instances like this: 
 #has_/time_ 
 
-A point in time recurring on multiple days in the form hh:mm:ss(Z|(+|-)hh:mm) (see <a href="http://www.w3.org/TR/xmlschema-2/#time">XML schema for details</a>).
+A point in time recurring on multiple days in the form hh:mm:ss(Z|(+|-)hh:mm) 
+(see <a href="http://www.w3.org/TR/xmlschema-2/#time">XML schema for details</a>).
 
 
 
