@@ -50,7 +50,7 @@ subreddit: knives
 ---
 # [[Knife]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Knife,32489|WD~Knife,32489]] 
+#is_/same_as :: [[../../../../WikiData/WD~Knife,32489|WD~Knife,32489]] 
 
 ## #has_/text_of_/abstract 
 
@@ -72,7 +72,7 @@ subreddit: knives
 > - scouts, campers, and hikers carry a pocketknife; 
 > - there are kitchen knives for preparing foods 
 > - (the chef's knife, the paring knife, bread knife, cleaver), 
-> - [[../../../Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Table_Knife]] (butter knives and steak knives), 
+> - [[../../../../Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Table_Knife]] (butter knives and steak knives), 
 > - weapons (daggers or switchblades), 
 > - knives for throwing or juggling, and 
 > - knives for religious ceremony or display (the kirpan).

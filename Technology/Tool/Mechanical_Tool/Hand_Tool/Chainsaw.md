@@ -35,7 +35,7 @@ time_of_discovery_or_invention: 1905-01-01T00:00:00Z
 
 # [[Chainsaw]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Chainsaw,208040|WD~Chainsaw,208040]] 
+#is_/same_as :: [[../../../../WikiData/WD~Chainsaw,208040|WD~Chainsaw,208040]] 
 
 ## #has_/text_of_/abstract 
 

@@ -37,7 +37,7 @@ MCN_code: 8213.00.00
 
 # [[Scissors]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Scissors,40847|WD~Scissors,40847]]  
+#is_/same_as :: [[../../../../WikiData/WD~Scissors,40847|WD~Scissors,40847]]  
 
 ## #has_/text_of_/abstract 
 
