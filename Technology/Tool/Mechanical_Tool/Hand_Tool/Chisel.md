@@ -29,7 +29,7 @@ EAGLE_id: decor/lod/64
 
 # [[Chisel]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Chisel,474188|WD~Chisel,474188]] 
+#is_/same_as :: [[../../../../WikiData/WD~Chisel,474188|WD~Chisel,474188]] 
 
 ## #has_/text_of_/abstract 
 

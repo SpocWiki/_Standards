@@ -1,4 +1,17 @@
 ---
+aliases:
+  - Togo
+  - توغو
+  - 多哥
+  - Того
+  - the Togolese Republic
+  - la República Togolesa
+  - Togo (el)
+has_id_wikidata: Q945
+coordinate_location: Point(1.183333 8.25)
+location:
+  - 6.11667
+  - 1.21667
 demonym:
   - Tógalannach
   - togolès
@@ -299,11 +312,6 @@ Krugosvet_article: strany_mira/TOGO.html
 Unicode_character: 🇹🇬
 native_label: Togo
 short_name: 🇹🇬
-coordinate_location: Point(1.183333 8.25)
-has_id_wikidata: Q945
-location:
-  - 6.11667
-  - 1.21667
 type: Country
 tags:
   - geo/Country
@@ -323,14 +331,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Togo
-  - توغو
-  - 多哥
-  - Того
-  - the Togolese Republic
-  - la República Togolesa
-  - Togo (el)
 Languages:
   - fr-TG
   - ee
@@ -341,14 +341,6 @@ Languages:
 ---
 
 # [[Togo]] 
-
-
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Togo 
-
-[[Togo/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: XOF ]
 [	ISO4217-currency_name	 :: CFA Franc BCEAO ]
@@ -413,10 +405,16 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 768 ]
 
-
-
 [ISO2::TG]
 [ISO3::TGO]
+#is_/same_as :: [[../../../../WikiData/WD~Togo,945|WD~Togo,945]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Togo 
+
+[[Togo/ReadMe]] 
+
+
 ```leaflet
 id: Togo
 zoomFeatures: true 

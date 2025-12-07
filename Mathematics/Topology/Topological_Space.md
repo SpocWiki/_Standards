@@ -21,7 +21,7 @@ Commons_category: Topology
 
 # [[Topological_Space]] 
 
-#is_/same_as :: [[WD~Topological_space,179899]] 
+#is_/same_as :: [[../../WikiData/WD~Topological_space,179899|WD~Topological_space,179899]]  
 
 ## #has_/text_of_/abstract 
 
