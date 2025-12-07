@@ -34,7 +34,7 @@ Commons_category: Hand rakes
 
 # [[Rake]] 
 
-#is_/similar_to :: [[Farm/Harrow(Tool)|Harrow(Tool)]] 
+#is_/similar_to :: [[Agricultural_Tool/Harrow(Tool)|Harrow(Tool)]] 
 #is_/same_as :: [[../../../../WikiData/WD~Rake,200822|WD~Rake,200822]]  
 
 ## #has_/text_of_/abstract 

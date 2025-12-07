@@ -23,11 +23,36 @@ Dewey_Decimal_Classification: "551.517"
 
 ## #has_/text_of_/abstract 
 
-> Atmospheric circulation is the large-scale movement of air and together with ocean circulation is the means by which thermal energy is redistributed on the surface of Earth. Earth's atmospheric circulation varies from year to year, but the large-scale structure of its circulation remains fairly constant. The smaller-scale weather systems – mid-latitude depressions, or tropical convective cells – occur chaotically, and long-range weather predictions of those cannot be made beyond ten days in practice, or a month in theory (see chaos theory and the butterfly effect).
+> Atmospheric circulation is the large-scale movement of air 
+> and together with ocean circulation is the means by which 
+> thermal energy is redistributed on the surface of Earth. 
+> 
+> Earth's atmospheric circulation varies from year to year, 
+> but the large-scale structure of its circulation remains fairly constant. 
+> The smaller-scale weather systems – mid-latitude depressions, 
+> or tropical convective cells – occur chaotically, 
+> and long-range weather predictions of those cannot be made beyond ten days in practice, 
+> or a month in theory (see chaos theory and the butterfly effect).
 >
-> Earth's weather is a consequence of its illumination by the Sun and the laws of thermodynamics. The atmospheric circulation can be viewed as a heat engine driven by the Sun's energy and whose energy sink, ultimately, is the blackness of space. The work produced by that engine causes the motion of the masses of air, and in that process it redistributes the energy absorbed by Earth's surface near the tropics to the latitudes nearer the poles, and thence to space.
+> Earth's weather is a consequence of its illumination by the Sun 
+> and the laws of thermodynamics. 
+> 
+> The atmospheric circulation can be viewed as a heat engine driven by the Sun's energy 
+> and whose energy sink, ultimately, is the blackness of space. 
+> The work produced by that engine causes the motion of the masses of air, 
+> and in that process it redistributes the energy absorbed by Earth's surface 
+> near the tropics to the latitudes nearer the poles, and thence to space.
 >
-> The large-scale atmospheric circulation "cells" shift polewards in warmer periods (for example, interglacials compared to glacials), but remain largely constant as they are, fundamentally, a property of Earth's size, rotation rate, heating and atmospheric depth, all of which change little. Over very long time periods (hundreds of millions of years), a tectonic uplift can significantly alter their major elements, such as the jet stream, and plate tectonics may shift ocean currents. During the extremely hot climates of the Mesozoic, a third desert belt may have existed at the Equator.
+> The large-scale atmospheric circulation "cells" shift polewards in warmer periods 
+> (for example, interglacials compared to glacials), but remain largely constant 
+> as they are, fundamentally, a property of Earth's size, rotation rate, heating and atmospheric depth, all of which change little. 
+> 
+> Over very long time periods (hundreds of millions of years), 
+> a tectonic uplift can significantly alter their major elements, 
+> such as the jet stream, and plate tectonics may shift ocean currents. 
+> 
+> During the extremely hot climates of the [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic|Era~2~Mesozoic]] , 
+> a third desert belt may have existed at the Equator.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atmospheric%20circulation) 
 
