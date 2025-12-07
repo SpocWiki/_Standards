@@ -37,7 +37,7 @@ OpenStreetMap_tag_or_key: Tag:healthcare=alternative
 
 # [[Alternative_Medicine]] 
 
-#is_/same_as :: [[../../WikiData/WD~Alternative_medicine,188504]] 
+#is_/same_as :: [[../../../../WikiData/WD~Alternative_medicine,188504]] 
 
 ## #has_/text_of_/abstract 
 
