@@ -26,7 +26,7 @@ Commons_category: Stoma
 
 # [[Stomata]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Stomata,216635|WD~Stomata,216635]]  
+#is_/same_as :: [[../../../../WikiData/WD~Stomata,216635|WD~Stomata,216635]]  
 
 ## #has_/text_of_/abstract 
 
