@@ -1,18 +1,18 @@
 ---
 aliases:
   - homeopathic
-  - homeopathic
   - Homeopathic
   - is_a_homeopathic
-  - Homöopathie
+  - HomÃ¶opathie
+  - homÃ¶opathisch
   - homoeopathy
 has_id_wikidata: Q81058
 founded_by: "[[_Standards/WikiData/WD~Samuel_Hahnemann,157056]]"
 subclass_of: "[[_Standards/WikiData/WD~alternative_medicine,188504]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Encyclopï¿½dia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopï¿½dia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclopï¿½dia,19077875]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 instance_of:
   - "[[_Standards/WikiData/WD~parascience,1517851]]"
@@ -57,7 +57,7 @@ title: is_a_homeopathic Class
 type: Type
 ---
 
-# [[Homeopathy]]
+# [[Homeopathic]]
 
 Tag Instances like this: 
 #is_a_/homeopathic
@@ -68,7 +68,7 @@ A system of medicine based on the principle that a disease can be cured by a sub
 
 [ #is_/enum_of :: [[../MedicineSystem]] ]
 
-#is_/same_as :: [[WD~Homeopathy,81058]] 
+#is_/same_as :: [[../../../../WikiData/WD~Homeopathy,81058|WD~Homeopathy,81058]]  
 
 ## #has_/text_of_/abstract 
 

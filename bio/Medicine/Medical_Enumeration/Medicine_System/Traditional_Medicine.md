@@ -23,7 +23,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Medicinal%20herbs%20fr
 
 # [[Traditional_Medicine]] 
 
-#is_/same_as :: [[WD~Traditional_medicine,771035]] 
+#is_/same_as :: [[../../../../WikiData/WD~Traditional_medicine,771035|WD~Traditional_medicine,771035]]  
 
 ## #has_/text_of_/abstract 
 

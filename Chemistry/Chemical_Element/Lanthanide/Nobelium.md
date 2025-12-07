@@ -1,53 +1,58 @@
 ---
-atomic_number: 102
-canonical_SMILES: '[No]'
 CAS_Registry_Number: 10028-14-5
-chemical_formula: No
 Commons_category: Nobelium
 Commons_gallery: Nobelium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-different_from: '[[_Standards/WikiData/WD~Nobel,224138]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID8065585
-electronegativity: 1.3
-element_symbol: No
-has_id_wikidata: Q1901
 InChI: InChI=1S/No
 InChIKey: ORQBXQOJMQIAOY-UHFFFAOYSA-N
-instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Elements,11165030]]'
 MeSH_tree_code:
-- D01.268.271.100.575
-- D01.268.556.620
-- D01.496.749.305.100.575
-- D01.552.020.659
-- D01.552.544.620
-named_after: '[[_Standards/WikiData/WD~Alfred_Nobel,23810]]'
-OmegaWiki_Defined_Meaning: 339858
-part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65411346,65411346]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-nob%C3%A9lium.wav"
-PubChem_CID: 24822
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20102%20Nobelium.svg"
+  - D01.268.271.100.575
+  - D01.268.556.620
+  - D01.496.749.305.100.575
+  - D01.552.020.659
+  - D01.552.544.620
+OmegaWiki_Defined_Meaning: "339858"
+PubChem_CID: "24822"
 SpocWebEntityId: 21997
-time_of_discovery_or_invention: 1958
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_nobelium,8085379]]'
-type: Element
 UMLS_CUI: C0028237
 Unicode_character: 鍩
 UNII: 2ZRJ207R3E
+aliases:
+  - Nobelium
+atomic_number: 102
+canonical_SMILES: "[No]"
+chemical_formula: No
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+different_from: "[[_Standards/WikiData/WD~Nobel,224138]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
+electronegativity: 1.3
+element_symbol: No
+has_id_wikidata: Q1901
+instance_of:
+  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Elements,11165030]]"
+named_after: "[[_Standards/WikiData/WD~Alfred_Nobel,23810]]"
+part_of:
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q65411346,65411346]]"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-nob%C3%A9lium.wav
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20102%20Nobelium.svg
+time_of_discovery_or_invention: 1958-01-01T00:00:00Z
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_nobelium,8085379]]"
+type: Element
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_nobelium,8085379]]"
 ---
+
+# [[Nobelium]]
 
 #is_/same_as :: [[../../../WikiData/WD~Nobelium,1901]] 
 
 
 #chemic/Element 
-[GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide]]
+GroupName::Lanthanide-Group 
+Group ::  [[../Lanthanide]] 
 
 
 [Name-en::Nobelium]
@@ -96,4 +101,3 @@ UNII: 2ZRJ207R3E
 ### #is_/same_as :: [Nobelium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Nobelium.personal.md) 
 
 ### #is_/same_as :: [Nobelium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Nobelium.secret.md)
-

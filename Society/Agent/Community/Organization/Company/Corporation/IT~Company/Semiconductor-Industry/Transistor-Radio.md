@@ -1,6 +1,6 @@
 # [[Transistor-Radio]] 
 
-> A transistor radio is a small portable radio receiver that uses [[Transistor]]-based circuitry. 
+> A transistor radio is a small portable radio receiver that uses [[../../../../../../../../Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor]]-based circuitry. 
 > Following the invention of the transistor in 1947—
 > which revolutionized the field of consumer electronics 
 > by introducing small but powerful, convenient hand-held devices—
