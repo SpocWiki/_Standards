@@ -3,7 +3,43 @@ has_id_wikidata: Q131130
 aliases:
   - Anesthesia
   - Anaesthesia
+  - Anesthesia
+  - is_an_anesthesia
+confidential: public
+cssclasses:
+  - Type
+draft: false
+enumerationtype: MedicalSpecialty
+expiryDate:
+isDeleted: false
+isReadOnly: false
+keywords:
+  - anesthesia
+layout:
+license: CC BY-SA 4.0
+linkTitle: is_an_anesthesia Class
+publish: true
+publishDate:
+tags:
+  - class/Class
+  - schema-org/Class
+title: is_an_anesthesia Class
+type: Type
 ---
+
+# [[Anaesthesia]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Anaesthesia,131130|WD~Anaesthesia,131130]] 
+
+Tag Instances like this: 
+#is_an_/anesthesia
+
+A specific branch of medical science that pertains to study of anesthetics and their application.
+
+[ #is_/sub_class_of :: [[../MedicalSpecialty]] ]
+
+[ #is_/enum_of :: [[../MedicalSpecialty]] ]
+
 
 # [[Anaesthesia]] 
 
