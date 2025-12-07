@@ -27,9 +27,9 @@ title: is_an_anesthesia Class
 type: Type
 ---
 
-# [[Anaesthesia]] 
+# [[Anesthesia]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Anaesthesia,131130|WD~Anaesthesia,131130]] 
+#is_/same_as :: [[../../../../WikiData/WD~Anaesthesia,131130|WD~Anaesthesia,131130]]  
 
 Tag Instances like this: 
 #is_an_/anesthesia
@@ -40,10 +40,6 @@ A specific branch of medical science that pertains to study of anesthetics and t
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-# [[Anaesthesia]] 
-
-#is_/same_as :: [[../../../WikiData/WD~Anaesthesia,131130|WD~Anaesthesia,131130]] 
 
 ## #has_/text_of_/abstract 
 
