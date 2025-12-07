@@ -83,7 +83,7 @@ REDnote_profile: 63d9f30a0000000027029e6c
 Zhihu_username: da-zhong-qi-che-pin-pai
 ---
 
-# [[VW(Volkswagen) 1]] 
+# [[VW(Volkswagen)]] 
 
 #is_/same_as :: [[WD~Volkswagen,246]] 
 

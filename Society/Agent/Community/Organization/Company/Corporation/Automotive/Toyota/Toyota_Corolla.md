@@ -30,7 +30,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Toyota%20Coroll
 > by the Japanese automaker Toyota Motor Corporation. 
 > 
 > Introduced in 1966, the Corolla has been the world's best-selling automobile of all time since 1997, 
-> when it surpassed the [[Volkswagen Beetle]]. 
+> when it surpassed the [[../VW(Volkswagen)/Volkswagen_Beetle|Volkswagen_Beetle]]. 
 > Toyota reached the milestone of 50 million Corollas sold over twelve generations in 2021. 
 >
 > The name Corolla is part of Toyota's naming tradition of 
