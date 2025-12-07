@@ -1,4 +1,7 @@
 ---
+aliases:
+  - fruit
+  - Frucht
 Commons_category: Fruits
 Danbooru_tag: fruit
 described_by_source:
@@ -40,8 +43,6 @@ pronunciation_audio:
 subclass_of:
   - "[[_Standards/WikiData/WD~plant_organ,24060707]]"
   - "[[_Standards/WikiData/WD~plant_ovary,109121364]]"
-aliases:
-  - fruit
 ---
 
 # [[Fruit]] 
