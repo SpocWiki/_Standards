@@ -92,7 +92,7 @@ Zhihu_username: da-zhong-qi-che-pin-pai
 > **Volkswagen** (VW; German pronunciation: [ˈfɔlksˌvaːɡŋ̍] ) 
 > is a German automobile manufacturer based in Wolfsburg, Lower Saxony, Germany. 
 > 
-> Established in 1937 by The German Labour Front, 
+> Established in 1937 by the German Labour Front, 
 > it was revitalized into the global brand it is today after World War II 
 > by British Army officer Ivan Hirst. 
 > 
