@@ -1,31 +1,33 @@
 ---
 Commons_category: Transistors
 Dewey_Decimal_Classification:
-- 621.381528
-- 621.38832
+  - 621.381528
+  - 621.38832
 follows:
-- '[[_Standards/WikiData/WD~gas-filled_tube,1159201]]'
-- '[[_Standards/WikiData/WD~semiconductor_diode,1929430]]'
-- '[[_Standards/WikiData/WD~vacuum_tube,3574371]]'
+  - "[[_Standards/WikiData/WD~gas-filled_tube,1159201]]"
+  - "[[_Standards/WikiData/WD~semiconductor_diode,1929430]]"
+  - "[[_Standards/WikiData/WD~vacuum_tube,3574371]]"
 has_id_wikidata: Q5339
-has_part_s_: '[[_Standards/WikiData/WD~p_n_junction,176300]]'
+has_part_s_: "[[_Standards/WikiData/WD~p_n_junction,176300]]"
 icon:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20NPN%20symbol.png"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20PNP%20symbol.png"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Transistors.agr.jpg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20NPN%20symbol.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20PNP%20symbol.png
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Transistors.agr.jpg
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/TRANZISTOR.html
 MeSH_tree_code: E07.305.625.714
 Nomenclature_for_Museum_Cataloging: 8832
-Stack_Exchange_tag: "https://electronics.stackexchange.com/tags/transistors"
+Stack_Exchange_tag: https://electronics.stackexchange.com/tags/transistors
 subclass_of:
-- '[[_Standards/WikiData/WD~semiconductor_device,175805]]'
-- '[[_Standards/WikiData/WD~active_electronic_component,12492106]]'
+  - "[[_Standards/WikiData/WD~semiconductor_device,175805]]"
+  - "[[_Standards/WikiData/WD~active_electronic_component,12492106]]"
 time_of_discovery_or_invention: 1947-12-01
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_transistor,22835127]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_transistor,22835127]]"
 UMLS_CUI: C2713584
 ---
 
 # [[Transistor]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Transistor,5339|WD~Transistor,5339]] 
 
 ## #has_/text_of_/abstract 
 

@@ -47,7 +47,7 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Texas%20Instruments)
 
 In early 1952, Texas Instruments purchased a patent license 
-to produce germanium [[Transistor]]s from [Western Electric](https://en.wikipedia.org/wiki/Western_Electric "Western Electric"), 
+to produce germanium [[../../../../../../../../Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor]]s from [Western Electric](https://en.wikipedia.org/wiki/Western_Electric "Western Electric"), 
 the manufacturing arm of AT&T, for US$25,000, 
 beginning production by the end of the year. 
 

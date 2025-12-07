@@ -1,80 +1,88 @@
 ---
-atomic_number: 32
-canonical_SMILES: '[Ge]'
+aliases:
+  - Germanium
+has_id_wikidata: Q867
 CAS_Registry_Number: 7440-56-4
-chemical_formula: Ge
 Commons_category: Germanium
 Commons_gallery: Germanium
-described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from:
-- '[[_Standards/WikiData/WD~Geranium,157211]]'
-- '[[_Standards/WikiData/WD~German,348514]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Clemens_Winkler,73523]]'
+Dewey_Decimal_Classification:
+  - '546.684'
+  - '669.79'
 DSSTOX_compound_identifier: DTXCID5031056
 EC_number: 231-164-3
-electrical_conductivity: 2.17
-electronegativity: 2.01
-element_symbol: Ge
-found_in_taxon: '[[_Standards/WikiData/WD~Panax_ginseng,182881]]'
-has_id_wikidata: Q867
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Germanium%20element.jpg"
 InChI: InChI=1S/Ge
 InChIKey: GNPVGFCGXDBREM-UHFFFAOYSA-N
-instance_of:
-- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-ionic_radius:
-- 0.39
-- 0.53
-- 0.73
-location_of_discovery: '[[_Standards/WikiData/WD~Germany,183]]'
-made_from_material:
-- '[[_Standards/WikiData/WD~sphalerite,105006]]'
-- '[[_Standards/WikiData/WD~fly_ash,236139]]'
-- '[[_Standards/WikiData/WD~briartite,411555]]'
-- '[[_Standards/WikiData/WD~germanite,425076]]'
-- '[[_Standards/WikiData/WD~argyrodite,425364]]'
-- '[[_Standards/WikiData/WD~renierite,425630]]'
-mass: 72.63
 MeSH_tree_code:
-- D01.268.513.750
-- D01.268.556.305
-- D01.552.544.305
-named_after: '[[_Standards/WikiData/WD~Germany,183]]'
+  - D01.268.513.750
+  - D01.268.556.305
+  - D01.552.544.305
 OmegaWiki_Defined_Meaning: 159569
-oxidation_state:
-- -4
-- -3
-- -2
-- -1
-- 1
-- 2
-- 3
-- 4
-part_of:
-- '[[_Standards/WikiData/WD~group_14,106693]]'
-- '[[_Standards/WikiData/WD~period_4,239825]]'
 PubChem_CID: 6326954
+RxNorm_CUI: '4784'
 SpocWebEntityId: 21930
-standard_molar_entropy: 31.1
-subclass_of:
-- '[[_Standards/WikiData/WD~covalent_network_solid,632350]]'
-- '[[_Standards/WikiData/WD~metalloid,19596]]'
-time_of_discovery_or_invention: 1886
-type: Element
 UMLS_CUI: C0017479
 Unicode_character: 鍺
 UNII: 00072J7XWS
 ZVG_number: 8270
+atomic_number: 32
+canonical_SMILES: '[Ge]'
+chemical_formula: Ge
+different_from:
+  - '[[_Standards/WikiData/WD~Geranium,157211]]'
+  - '[[_Standards/WikiData/WD~German,348514]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Clemens_Winkler,73523]]'
+described_by_source:
+  - >-
+    [[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - >-
+    [[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+electrical_conductivity: 2.17
+electronegativity: 2.01
+element_symbol: Ge
+found_in_taxon: '[[_Standards/WikiData/WD~Panax_ginseng,182881]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Germanium%20element.jpg
+instance_of:
+  - '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+  - 0.39
+  - 0.53
+  - 0.73
+location_of_discovery: '[[_Standards/WikiData/WD~Germany,183]]'
+made_from_material:
+  - '[[_Standards/WikiData/WD~sphalerite,105006]]'
+  - '[[_Standards/WikiData/WD~fly_ash,236139]]'
+  - '[[_Standards/WikiData/WD~briartite,411555]]'
+  - '[[_Standards/WikiData/WD~germanite,425076]]'
+  - '[[_Standards/WikiData/WD~argyrodite,425364]]'
+  - '[[_Standards/WikiData/WD~renierite,425630]]'
+mass: 72.63
+named_after: '[[_Standards/WikiData/WD~Germany,183]]'
+oxidation_state:
+  - -4
+  - -3
+  - -2
+  - -1
+  - 1
+  - 2
+  - 3
+  - 4
+part_of:
+  - '[[_Standards/WikiData/WD~group_14,106693]]'
+  - '[[_Standards/WikiData/WD~period_4,239825]]'
+standard_molar_entropy: 31.1
+subclass_of:
+  - '[[_Standards/WikiData/WD~covalent_network_solid,632350]]'
+  - '[[_Standards/WikiData/WD~metalloid,19596]]'
+time_of_discovery_or_invention: '1886-01-01T00:00:00Z'
+type: Element
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Germanium,867]] 
+# [[Germanium]]
 
 #chemic/Element 
 [GroupName::Group-14-Carbon]
@@ -99,6 +107,7 @@ ZVG_number: 8270
 (PeriodNo::4)
 (GroupNo::14)
 
+#is_/same_as :: [[../../WikiData/WD~Germanium,867|WD~Germanium,867]]
 
 ## #has_/text_of_/abstract 
 
@@ -142,4 +151,3 @@ ZVG_number: 8270
 ### #is_/same_as :: [Germanium.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.personal.md) 
 
 ### #is_/same_as :: [Germanium.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.secret.md)
-
