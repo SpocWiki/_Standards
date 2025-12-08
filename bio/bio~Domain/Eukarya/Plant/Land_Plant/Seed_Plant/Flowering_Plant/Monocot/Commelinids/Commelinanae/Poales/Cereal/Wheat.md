@@ -48,9 +48,18 @@ water_footprint: 1827
 Wikidata_usage_instructions: "focus on agriculture here, not on taxonomy"
 ---
 
+# [[Wheat]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~Triticum_aestivum,161098]] 
+
 ## #has_/text_of_/abstract 
 
-> **Wheat** is a group of wild and domesticated grasses of the genus Triticum (). They are cultivated for their cereal grains, which are staple foods around the world. Well-known wheat species and hybrids include the most widely grown common wheat (T. aestivum), spelt, durum, emmer, einkorn, and Khorasan or Kamut. The archaeological record suggests that wheat was first cultivated in the regions of the Fertile Crescent around 9600 BC.
+> **Wheat** is a group of wild and domesticated grasses of the genus Triticum. 
+> They are cultivated for their cereal grains, which are staple foods around the world. 
+> Well-known wheat species and hybrids include 
+> the most widely grown common wheat (T. aestivum), spelt, durum, emmer, einkorn, 
+> and Khorasan or Kamut. 
+> The archaeological record suggests that wheat was first cultivated in the regions of the Fertile Crescent around 9600 BC.
 >
 > Wheat is grown on a larger area of land than any other food crop (220.7 million hectares or 545 million acres in 2021). World trade in wheat is greater than that of all other crops combined. In 2021, world wheat production was 771 million tonnes (850 million short tons), making it the second most-produced cereal after maize (known as corn in North America and Australia; wheat is often called corn in countries including Britain). Since 1960, world production of wheat and other grain crops has tripled and is expected to grow further through the middle of the 21st century. Global demand for wheat is increasing because of the usefulness of gluten to the food industry.
 >
