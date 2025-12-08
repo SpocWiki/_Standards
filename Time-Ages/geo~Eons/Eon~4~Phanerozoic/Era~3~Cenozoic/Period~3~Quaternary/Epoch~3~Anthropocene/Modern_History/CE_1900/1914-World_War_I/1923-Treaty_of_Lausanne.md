@@ -34,7 +34,7 @@ point_in_time: 1923-07-24T00:00:00Z
 
 # [[1923-Treaty_of_Lausanne]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Treaty_of_Lausanne,193258|WD~Treaty_of_Lausanne,193258]]  
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Treaty_of_Lausanne,193258|WD~Treaty_of_Lausanne,193258]]  
 
 ## #has_/text_of_/abstract 
 
