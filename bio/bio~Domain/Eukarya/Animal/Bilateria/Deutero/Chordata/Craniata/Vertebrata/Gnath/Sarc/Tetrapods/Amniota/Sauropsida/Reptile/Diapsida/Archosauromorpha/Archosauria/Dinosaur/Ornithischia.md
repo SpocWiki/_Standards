@@ -1,5 +1,8 @@
 ---
 title: Ornithischia
+aliases:
+  - Ornithischia
+  - Vogelbecken-Dinosaurier
 ---
 
 # [[Ornithischia]]
@@ -8,9 +11,26 @@ Bird-hipped plant-eating dinosaurs
 
 ## #has_/text_of_/abstract 
 
-> **Ornithischia** () is an extinct clade of mainly herbivorous dinosaurs characterized by a pelvic structure superficially similar to that of birds. The name Ornithischia, or "bird-hipped", reflects this similarity and is derived from the Greek stem ornith- (ὀρνιθ-), meaning "bird", and ischion (ἴσχιον), meaning "hip". However, as theropod dinosaurs, birds are only distantly related to this group.
+> **Ornithischia** is an extinct clade of mainly herbivorous dinosaurs 
+> characterized by a pelvic structure superficially similar to that of birds. 
+> 
+> The name Ornithischia, or "bird-hipped", reflects this similarity and 
+> is derived from the Greek stem ornith- (ὀρνιθ-), meaning "bird", and ischion (ἴσχιον), meaning "hip". 
+> 
+> However, as theropod dinosaurs, birds are only distantly related to this group.
 >
-> Ornithischians with well known anatomical adaptations include the ceratopsians or "horn-faced" dinosaurs (e.g. Triceratops), the pachycephalosaurs or "thick-headed" dinosaurs, the armored dinosaurs (Thyreophora) such as stegosaurs and ankylosaurs,  and the ornithopods. There is strong evidence that certain groups of ornithischians lived in herds, often segregated by age group, with juveniles forming their own flocks separate from adults. Some were at least partially covered in filamentous (hair- or feather- like) pelts, and there is much debate over whether these filaments found in specimens of Tianyulong, Psittacosaurus, and Kulindadromeus may have been primitive feathers.
+> Ornithischians with well known anatomical adaptations include 
+> - the ceratopsians or "horn-faced" dinosaurs (e.g. Triceratops), 
+> - the pachycephalosaurs or "thick-headed" dinosaurs, 
+> - the armored dinosaurs (Thyreophora) such as stegosaurs and ankylosaurs, 
+> - and the ornithopods. 
+> 
+> There is strong evidence that certain groups of ornithischians lived in herds, 
+> often segregated by age group, with juveniles forming their own flocks separate from adults. 
+> 
+> Some were at least partially covered in filamentous (hair- or feather- like) pelts, 
+> and there is much debate over whether these filaments found in specimens of 
+> Tianyulong, Psittacosaurus, and Kulindadromeus may have been primitive feathers.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ornithischia) 
 
