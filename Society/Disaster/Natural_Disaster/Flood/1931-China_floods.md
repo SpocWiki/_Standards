@@ -23,7 +23,7 @@ point_in_time: "1931-01-01T00:00:00Z"
 #[[1931-China_floods]]] 
 
 
-#is_/same_as :: [[../../WikiData/WD~1931_China_floods,1150973]] 
+#is_/same_as :: [[../../../../WikiData/WD~1931_China_floods,1150973]] 
 
 ## #has_/text_of_/abstract 
 

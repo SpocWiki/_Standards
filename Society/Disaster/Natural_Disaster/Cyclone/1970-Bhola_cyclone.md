@@ -8,7 +8,7 @@ has_id_wikidata: Q245551
 #[[1970-Bhola_cyclone]]] 
 
 
-#is_/same_as :: [[../../WikiData/WD~1970_Bhola_cyclone,245551]]
+#is_/same_as :: [[../../../../WikiData/WD~1970_Bhola_cyclone,245551]]
 
 ## #has_/text_of_/abstract 
 

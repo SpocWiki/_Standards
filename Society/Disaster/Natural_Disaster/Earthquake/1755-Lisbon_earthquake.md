@@ -17,7 +17,7 @@ spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-1755%2
 
 #[[1755-Lisbon_earthquake]]]
 
-#is_/same_as :: [[../../WikiData/WD~1755_Lisbon_earthquake,191055|WD~1755_Lisbon_earthquake,191055]] 
+#is_/same_as :: [[../../../../WikiData/WD~1755_Lisbon_earthquake,191055|WD~1755_Lisbon_earthquake,191055]] 
 
 ## #has_/text_of_/abstract 
 

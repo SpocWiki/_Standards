@@ -33,7 +33,7 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalEvent\", \"ShaanxiEarthquakeKi
 
 #has_/time_/started :: 1556-02-02 
 
-#is_/same_as :: [[../../WikiData/WD~1556_Shaanxi_earthquake,191293]]
+#is_/same_as :: [[../../../../WikiData/WD~1556_Shaanxi_earthquake,191293]]
 
 ## #has_/text_of_/abstract 
 

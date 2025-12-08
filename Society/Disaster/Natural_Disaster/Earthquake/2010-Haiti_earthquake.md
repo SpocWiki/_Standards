@@ -26,7 +26,7 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalEvent\", \"2010HaitiEarthquake
 
 #[[2010-Haiti_earthquake]]] 
 
-#is_/same_as :: [[../../WikiData/WD~2010_Haiti_earthquake,43777|WD~2010_Haiti_earthquake,]] 
+#is_/same_as :: [[../../../../WikiData/WD~2010_Haiti_earthquake,43777|WD~2010_Haiti_earthquake,]] 
 
 ## #has_/text_of_/abstract 
 

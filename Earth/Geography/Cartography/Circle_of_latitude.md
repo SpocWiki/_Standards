@@ -30,7 +30,7 @@ Dewey_Decimal_Classification: "526.6"
 
 ## #has_/text_of_/abstract 
 
-> A circle of latitude or line of latitude on Earth is an abstract east–west [[../../../Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle]] 
+> A circle of latitude or line of latitude on Earth is an abstract east–west [[../../../Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle|Spherical_Circle]] 
 > connecting all locations around Earth (ignoring elevation) at a given latitude coordinate line.
 >
 > Circles of latitude are often called parallels because they are parallel to each other; 
