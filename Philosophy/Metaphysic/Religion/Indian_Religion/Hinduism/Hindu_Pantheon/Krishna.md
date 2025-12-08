@@ -108,19 +108,55 @@ name:
 
 # [[Krishna]] 
 
-#is_/same_as :: [[WD~Krishna,42891]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Krishna,42891|WD~Krishna,42891]]  
 
 ## #has_/text_of_/abstract 
 
-> **Krishna** (; Sanskrit: कृष्ण, IAST: Kṛṣṇa Sanskrit: [ˈkr̩ʂɳɐ] )  is a major deity in Hinduism. 
+> **Krishna** (Sanskrit: कृष्ण, IAST: Kṛṣṇa Sanskrit: [ˈkr̩ʂɳɐ]) is a major deity in Hinduism. 
 > He is worshipped as the eighth avatar of Vishnu and also as the Supreme God in his own right. 
-> He is the god of protection, compassion, tenderness, and love; and is widely revered among Hindu divinities. Krishna's birthday is celebrated every year by Hindus on Krishna Janmashtami according to the lunisolar Hindu calendar, which falls in late August or early September of the Gregorian calendar.
+> 
+> He is the god of protection, compassion, tenderness, and love; 
+> and is widely revered among Hindu divinities. 
+> 
+> Krishna's birthday is celebrated every year by Hindus on Krishna Janmashtami 
+> according to the lunisolar Hindu calendar, 
+> which falls in late August or early September of the Gregorian calendar.
 >
-> The anecdotes and narratives of Krishna's life are generally titled as Krishna Līlā. He is a central figure in the Mahabharata, the Bhagavata Purana, the Brahma Vaivarta Purana, and the Bhagavad Gita, and is mentioned in many Hindu philosophical, theological, and mythological texts. They portray him in various perspectives: as a god-child, a prankster, a model lover, a divine hero, and the universal supreme being. His iconography reflects these legends and shows him in different stages of his life, such as an infant eating butter, a young boy playing a flute, a handsome youth with Radha or surrounded by female devotees, or a friendly charioteer giving counsel to Arjuna.
+> The anecdotes and narratives of Krishna's life are generally titled as Krishna Līlā. 
+> 
+> He is a central figure in 
+> - the Mahabharata, 
+> - the Bhagavata Purana, 
+> - the Brahma Vaivarta Purana, and 
+> - the Bhagavad Gita, 
+> - and is mentioned in many Hindu philosophical, theological, and mythological texts. 
+> 
+> They portray him in various perspectives: as a god-child, a prankster, 
+> a model lover, a divine hero, and the universal supreme being. 
+> 
+> His iconography reflects these legends and shows him in different stages of his life, 
+> such as an infant eating butter, a young boy playing a flute, a handsome youth with Radha 
+> or surrounded by female devotees, or a friendly charioteer giving counsel to Arjuna.
 >
-> The name and synonyms of Krishna have been traced to 1st millennium BCE literature and cults. In some sub-traditions, like Krishnaism, Krishna is worshipped as the Supreme God and Svayam Bhagavan (God Himself). These sub-traditions arose in the context of the medieval era Bhakti movement. Krishna-related literature has inspired numerous performance arts such as Bharatanatyam, Kathakali, Kuchipudi, Odissi, and Manipuri dance. He is a pan-Hindu god, but is particularly revered in some locations, such as Vrindavan in Uttar Pradesh, Dwarka and Junagadh in Gujarat; the Jagannatha aspect in Odisha, Mayapur in West Bengal; in the form of Vithoba in Pandharpur, Maharashtra, Shrinathji at Nathdwara in Rajasthan, Udupi Krishna in Karnataka, Parthasarathy in Tamil Nadu, Aranmula and Guruvayoorappan (Guruvayoor) in Kerala.
+> The name and synonyms of Krishna have been traced to 1st millennium BCE literature and cults. 
+> 
+> In some sub-traditions, like Krishnaism, 
+> Krishna is worshipped as the Supreme God and Svayam Bhagavan (God Himself). 
+> 
+> These sub-traditions arose in the context of the medieval era Bhakti movement. 
+> 
+> Krishna-related literature has inspired numerous performance arts such as Bharatanatyam, 
+> Kathakali, Kuchipudi, Odissi, and Manipuri dance. 
+> 
+> He is a pan-Hindu god, but is particularly revered in some locations, 
+> such as Vrindavan in Uttar Pradesh, Dwarka and Junagadh in Gujarat; 
+> the Jagannatha aspect in Odisha, Mayapur in West Bengal; 
+> in the form of Vithoba in Pandharpur, Maharashtra, Shrinathji at Nathdwara in Rajasthan, Udupi 
+> Krishna in Karnataka, Parthasarathy in Tamil Nadu, Aranmula and 
+> Guruvayoorappan (Guruvayoor) in Kerala.
 >
-> Since the 1960s, the worship of Krishna has also spread to the Western world, largely due to the work of the International Society for Krishna Consciousness (ISKCON).
+> Since the 1960s, the worship of Krishna has also spread to the Western world, 
+> largely due to the work of the International Society for Krishna Consciousness (ISKCON).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Krishna) 
 

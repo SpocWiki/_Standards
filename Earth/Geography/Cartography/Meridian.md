@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Line of Longitude
 has_id_wikidata: Q32099
 different_from: "[[_Standards/WikiData/WD~north_south_running_great_circle,145519]]"
 manifestation_of:
@@ -40,7 +41,7 @@ line between the Earth's poles with the same longitude.
 > which is the angle (in degrees or other units) east or west of a given prime meridian 
 > (currently, the IERS Reference Meridian). 
 > 
-> In other words, it is a coordinate line for longitudes, a line of longitude. 
+> In other words, it is a coordinate line for longitudes, a line of same longitude. 
 > The position of a point along the meridian at a given longitude is given by its latitude, 
 > measured in angular degrees north or south of the Equator. 
 > 

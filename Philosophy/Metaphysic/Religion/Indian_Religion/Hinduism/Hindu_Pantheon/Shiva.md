@@ -58,7 +58,7 @@ native_label: 𑖫𑖰𑖪
 
 # [[Shiva]] 
 
-#is_/same_as :: [[WD~Shiva,11378]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Shiva,11378|WD~Shiva,11378]] 
 
 ## #has_/text_of_/abstract 
 
