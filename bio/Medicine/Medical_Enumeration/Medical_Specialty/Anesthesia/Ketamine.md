@@ -99,7 +99,10 @@ DSSTOX_compound_identifier: DTXCID703187
 
 # [[Ketamine]] 
 
-#is_/same_as :: [[WD~(RS)_ketamine,243547]] 
+#is_/same_as :: [[../../../../../_Standards/WikiData/WD~(RS)_ketamine,243547|WD~(RS)_ketamine,243547]]  
+
+Ketamine is effective as Anti-Depressant. 
+It increases Brain Plasticity and thus allows to resolve ruminations. 
 
 ## #has_/text_of_/abstract 
 
@@ -130,7 +133,21 @@ DSSTOX_compound_identifier: DTXCID703187
 > and is contraindicated in severe heart or liver disease, and uncontrolled psychosis. 
 > Ketamine’s clinical and antidepressant effects can be influenced by co-administration of other drugs, though these interactions are variable and not yet fully understood.
 >
-> Ketamine was first synthesized in 1962; it was derived from phencyclidine in pursuit of a safer anesthetic with fewer hallucinogenic effects. It was approved for use in the United States in 1970. It has been regularly used in veterinary medicine and was extensively used for surgical anesthesia in the Vietnam War.  It later gained prominence for its rapid antidepressant effects discovered in 2000, marking a major breakthrough in depression treatment. Racemic ketamine, especially at higher doses, may be more effective and longer-lasting than esketamine in reducing depression severity. It is on the World Health Organization's List of Essential Medicines. It is available as a generic medication.
+> Ketamine was first synthesized in 1962; it was derived from phencyclidine 
+> in pursuit of a safer anesthetic with fewer hallucinogenic effects. 
+> 
+> It was approved for use in the United States in 1970. 
+> It has been regularly used in veterinary medicine 
+> and was extensively used for surgical anesthesia in the Vietnam War.  
+> 
+> It later gained prominence for its **rapid antidepressant effects** discovered in 2000, 
+> marking a major breakthrough in depression treatment. 
+> 
+> Racemic ketamine, especially at higher doses, may be more effective and longer-lasting 
+> than esketamine in reducing depression severity. 
+> 
+> It is on the World Health Organization's List of Essential Medicines. 
+> It is available as a generic medication.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ketamine) 
 
