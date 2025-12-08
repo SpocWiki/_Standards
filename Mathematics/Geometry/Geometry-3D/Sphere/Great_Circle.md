@@ -16,6 +16,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20circle%20hemis
 # [[Great_Circle]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Great_circle,146657|WD~Great_circle,146657]] 
+
 ## #has_/text_of_/abstract 
 
 > In mathematics, a great circle or orthodrome 
