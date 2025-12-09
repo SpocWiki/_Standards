@@ -2,6 +2,7 @@
 aliases:
   - Boidae
   - boids
+  - boid
 has_id_wikidata: Q45556
 parent_taxon:
   - "[[_Standards/WikiData/WD~Alethinophidia,940396]]"

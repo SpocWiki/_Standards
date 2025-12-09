@@ -116,7 +116,7 @@ title: Artiodactyla
     -   [Proboscidea](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.md)
 
 -   » Sub-Groups
-    -  [Suidae](Artiodactyla/Suidae.md))
+    -  [Suid](Artiodactyla/Suid.md))
     -  [Tayassuidae](Artiodactyla/Tayassuidae.md))
     -  [Hippopotamidae](Artiodactyla/Hippopotamidae.md))
     -  [Tylopoda](Artiodactyla/Tylopoda.md))

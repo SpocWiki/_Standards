@@ -418,7 +418,7 @@ we consider †Palaeobatrachidae, †Thoraciliacus, †Cordicephalus,
     -   [Rhinophrynidae](Salientia/Rhinophrynidae.md)
     -   [\'Pipids\'](%27Pipids%27)
     -   [Palaeobatrachidae](Salientia/Palaeobatrachidae.md)
-    -   [Pipidae](Salientia/Pipidae.md)
+    -   [Pipid](Salientia/Pipid.md)
     -   [Neobatrachia](Salientia/Neobatrachia.md)
 
 

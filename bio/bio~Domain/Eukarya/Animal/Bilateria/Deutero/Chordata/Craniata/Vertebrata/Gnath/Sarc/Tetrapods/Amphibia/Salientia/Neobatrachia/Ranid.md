@@ -4,6 +4,8 @@ aliases:
   - Frog
   - True Frog
   - True Frogs
+  - Ranidae
+  - Ranid
 has_id_wikidata: Q6408
 topic_s_main_category: "[[_Standards/WikiData/WD~Q9095885,9095885]]"
 described_by_source: "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
@@ -25,14 +27,14 @@ taxon_common_name:
   - prave žabe
 ---
 
-# [[Ranidae]] 
+# [[Ranid]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Ranidae,6408|WD~Ranidae,6408]] 
 
 True Frogs 
 
-![Rana erythrea](Ranidae/Rana_erythrea.jpg) 
-![Rana erythrea](Ranidae/rana.jpg)
+![Rana erythrea](Ranid/Rana_erythrea.jpg) 
+![Rana erythrea](Ranid/rana.jpg)
 
 ## #has_/text_of_/abstract 
 
@@ -50,11 +52,11 @@ True Frogs
 
 ### Additional Photographs
 
-![Occidozyga](Ranidae/occidozyga.jpg)\
+![Occidozyga](Ranid/occidozyga.jpg)\
 Occidozyga sp; photo © 1995 David Cannatella\
 \
 
-![ ](Ranidae/rana_003.jpg)\
+![ ](Ranid/rana_003.jpg)\
 Rana Palustris; photo © David T. Roberts, Nature\'s Images, Inc.\
 
 ## Phylogeny 
@@ -97,7 +99,7 @@ Rana Palustris; photo © David T. Roberts, Nature\'s Images, Inc.\
     -   [Rhacophoridae](Rhacophoridae.md)
 
 -   » Sub-Groups
-    -   [Rana](Ranidae/Rana.md)
+    -   [Rana](Ranid/Rana.md)
 	-   *Raninae*
 	    -   *Altirana*
 	    -   *Amolops*
@@ -119,7 +121,7 @@ Rana Palustris; photo © David T. Roberts, Nature\'s Images, Inc.\
 	    -   *Platymantis*
 	    -   *Ptychadena*
 	    -   *Pyxicephalus*
-	    -   *[Rana](Ranidae/Rana.md "go to ToL page")*
+	    -   *[Rana](Ranid/Rana.md "go to ToL page")*
 	    -   *Staurois*
 	    -   *Strongylopus*
 	    -   *Tomopterna*
@@ -144,11 +146,11 @@ Rana Palustris; photo © David T. Roberts, Nature\'s Images, Inc.\
 
 ------------------------------------------------------------------------
 1. Rana vibicaria, Costa Rica; photo © 1995 David Cannatella\
-![Rana vibicaria](Ranidae/rana.jpg)
+![Rana vibicaria](Ranid/rana.jpg)
 
 ------------------------------------------------------------------------
 2. Rana erythrea; photo © 1995 David Cannatella\
-![Rana erythrea](Ranidae/Rana_erythrea.jpg)
+![Rana erythrea](Ranid/Rana_erythrea.jpg)
 
 
 ## Confidential Links & Embeds: 

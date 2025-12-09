@@ -124,7 +124,7 @@ by Cannatella (1985) and Hay et al. (1995).
     -   Rhinophrynidae
     -   [\'Pipids\'](%27Pipids%27)
     -   [Palaeobatrachidae](Palaeobatrachidae.md)
-    -   [Pipidae](Pipidae.md)
+    -   [Pipid](Pipid.md)
     -   [Neobatrachia](Neobatrachia.md)
 
 -   » Sub-Groups 
