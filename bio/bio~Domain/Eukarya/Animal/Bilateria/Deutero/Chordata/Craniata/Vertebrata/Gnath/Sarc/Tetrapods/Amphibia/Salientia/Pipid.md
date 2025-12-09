@@ -1,13 +1,18 @@
 ---
 title: Pipidae
+aliases:
+  - Pipidae
+  - Pipid
 ---
 
-# Pipidae
+# [[Pipid]]
+
+#is_/same_as :: 
 
 Tongueless Frogs (Aglossa) 
 
-![Pipa](Pipidae/Pipa-Eggs.jpg) 
-![Pipa](Pipidae/Pipa.jpg) 
+![Pipa](Pipid/Pipa-Eggs.jpg) 
+![Pipa](Pipid/Pipa.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -62,7 +67,7 @@ forcefully pulling apart the large arytenoid cartilages of the larynx
 The distribution of living members of the familiy Pipidae is indicated
 in red.\
 
-![distribution of living members of the familiy Pipidae](Pipidae/pipidae.gif)
+![distribution of living members of the familiy Pipidae](Pipid/pipidae.gif)
 
 ### Discussion of Phylogenetic Relationships
 
@@ -140,7 +145,7 @@ of its descendants. Taxa considered to be fossil \"pipids\"
 ## Title Illustrations
 
 --------------------------------------------------------------------------
-![](Pipidae/Pipa-Eggs.jpg)
+![](Pipid/Pipa-Eggs.jpg)
 Scientific Name ::     Pipa pipa
 Comments             with newly laid eggs partially embedded in the back
 Specimen Condition   Live Specimen
@@ -149,7 +154,7 @@ View                 head-on
 Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 --------------------------------------------------------------------------
-![Pipa](Pipidae/Pipa.jpg)
+![Pipa](Pipid/Pipa.jpg)
 Scientific Name ::  Pipa pipa
 Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
 

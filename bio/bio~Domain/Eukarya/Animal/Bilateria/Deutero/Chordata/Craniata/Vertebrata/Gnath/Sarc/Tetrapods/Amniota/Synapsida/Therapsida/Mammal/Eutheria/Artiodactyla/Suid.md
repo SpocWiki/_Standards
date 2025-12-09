@@ -1,11 +1,17 @@
 ---
 title: Suidae
+aliases:
+  - Suidae
+  - Suid
 ---
 
-# Suidae
+# [[Suid]]
+
+#is_/same_as :: 
 
 ## hogs and pigs 
-![Warthog (Phacochoerus aethiopicus) grazing, Matopos, Zimbabwe](Suidae/whoggraze.jpg))
+
+![Warthog (Phacochoerus aethiopicus) grazing, Matopos, Zimbabwe](Suid/whoggraze.jpg))
 
 ## #has_/text_of_/abstract 
 
@@ -45,30 +51,30 @@ title: Suidae
     -   [Miscellaneous fossil         artiodactyls](Miscellaneous_fossil_artiodactyls)
 
 -   » Sub-Groups
-    -  [Suinae](Suidae/Suinae.md))
-    -  [Hyotheriinae](Suidae/Hyotheriinae.md))
-    -  [Kubanochoerinae](Suidae/Kubanochoerinae.md))
-    -  [Listriodontinae](Suidae/Listriodontinae.md))
-    -  [Palaeochoerinae](Suidae/Palaeochoerinae.md))
-    -  [Tetraconodontinae](Suidae/Tetraconodontinae.md))
+    -  [Suinae](Suid/Suinae.md))
+    -  [Hyotheriinae](Suid/Hyotheriinae.md))
+    -  [Kubanochoerinae](Suid/Kubanochoerinae.md))
+    -  [Listriodontinae](Suid/Listriodontinae.md))
+    -  [Palaeochoerinae](Suid/Palaeochoerinae.md))
+    -  [Tetraconodontinae](Suid/Tetraconodontinae.md))
 
-	-   [Hyotheriinae](Suidae/Hyotheriinae.md "go to ToL page"))*
+	-   [Hyotheriinae](Suid/Hyotheriinae.md "go to ToL page"))*
 	    †
-	-   [Kubanochoerinae](Suidae/Kubanochoerinae.md "go to ToL page"))*
+	-   [Kubanochoerinae](Suid/Kubanochoerinae.md "go to ToL page"))*
 	    †
-	-   [Listriodontinae](Suidae/Listriodontinae.md "go to ToL page"))*
+	-   [Listriodontinae](Suid/Listriodontinae.md "go to ToL page"))*
 	    †
 	-   *Namachoerus* †
-	-   [Palaeochoerinae](Suidae/Palaeochoerinae.md "go to ToL page"))*
+	-   [Palaeochoerinae](Suid/Palaeochoerinae.md "go to ToL page"))*
 	    †
 	-   *Siamochoerus* †
 	-   *Sinapriculus* †
-	-   [Tetraconodontinae](Suidae/Tetraconodontinae.md "go to ToL page"))*†
+	-   [Tetraconodontinae](Suid/Tetraconodontinae.md "go to ToL page"))*†
 
 ## Title Illustrations
 
 
--------------------------------------------------------------------------![Warthog (Phacochoerus aethiopicus) grazing, Matopos, Zimbabwe](Suidae/whoggraze.jpg))
+-------------------------------------------------------------------------![Warthog (Phacochoerus aethiopicus) grazing, Matopos, Zimbabwe](Suid/whoggraze.jpg))
 Scientific Name ::   Phacochoerus aethiopicus
 Location ::         Matopos National Park, Zimbabwe
 Comments           Warthogs typically \"kneel\" to graze.

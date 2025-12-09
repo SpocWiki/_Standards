@@ -1,4 +1,19 @@
 ---
+aliases:
+  - Turkmenistan
+  - Turkmenistán
+  - Turkménistan
+  - تركمانستان
+  - 土库曼斯坦
+  - Туркменистан
+has_id_wikidata: Q874
+location:
+  - 37.9667
+  - 58.3333
+type: Country
+tags:
+  - geo/Country
+SpocWebEntityId: 27035
 diplomatic_relation:
   - "[[_Standards/WikiData/WD~Taiwan,865]]"
   - "[[_Standards/WikiData/WD~Bangladesh,902]]"
@@ -271,14 +286,6 @@ U_S_National_Archives_Identifier: 10045272
 RIA_Novosti_reference:
   - 57472808
   - 57490365
-has_id_wikidata: Q874
-location:
-  - 37.9667
-  - 58.3333
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 27035
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
@@ -294,13 +301,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Turkmenistan
-  - Turkmenistán
-  - Turkménistan
-  - تركمانستان
-  - 土库曼斯坦
-  - Туркменистан
 Languages:
   - tk
   - ru
@@ -309,12 +309,6 @@ icon: flag-tm
 ---
 
 # [[Turkmenistan]] 
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Turkmenistan 
-
-[[Turkmenistan/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: TMT ]
 [	ISO4217-currency_name	 :: Turkmenistan New Manat ]
@@ -379,14 +373,18 @@ Sub-region_Name ::  [[Central Asia]]
 
 [	ISO3166-1-numeric	 :: 795 ]
 
-
-
 [ISO2::TM]
 [ISO3::TKM] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Turkmenistan 
+
+[[Turkmenistan/ReadMe]] 
+
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Turkmenistan

@@ -83,7 +83,7 @@ features found in the Tertiary fossils.
     -   [Rhinophrynidae](Rhinophrynidae.md)
     -   [\'Pipids\'](%27Pipids%27)
     -   Palaeobatrachidae
-    -   [Pipidae](Pipidae.md)
+    -   [Pipid](Pipid.md)
     -   [Neobatrachia](Neobatrachia.md)
 
 -   » Sub-Groups 

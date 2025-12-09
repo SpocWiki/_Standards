@@ -143,7 +143,7 @@ sister-groups.
     -   [Rhinophrynidae](Rhinophrynidae.md)
     -   [\'Pipids\'](%27Pipids%27)
     -   [Palaeobatrachidae](Palaeobatrachidae.md)
-    -   [Pipidae](Pipidae.md)
+    -   [Pipid](Pipid.md)
     -   [Neobatrachia](Neobatrachia.md)
 
 -   » Sub-Groups 

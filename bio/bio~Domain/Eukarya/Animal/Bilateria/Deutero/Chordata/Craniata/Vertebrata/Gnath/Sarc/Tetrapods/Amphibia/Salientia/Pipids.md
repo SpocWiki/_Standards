@@ -51,7 +51,7 @@ Pipimorpha. (See Estes, 1977; Estes et al., 1978; Nevo, 1968)
     -   [Rhinophrynidae](Rhinophrynidae.md)
     -   \'Pipids\'
     -   [Palaeobatrachidae](Palaeobatrachidae.md)
-    -   [Pipidae](Pipidae.md)
+    -   [Pipid](Pipid.md)
     -   [Neobatrachia](Neobatrachia.md)
 
 -   » Sub-Groups 

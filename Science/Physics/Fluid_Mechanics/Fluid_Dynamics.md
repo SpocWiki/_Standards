@@ -1,6 +1,27 @@
 ---
 aliases:
 has_id_wikidata: Q216320
+subclass_of:
+  - "[[_Standards/WikiData/WD~dynamics,128030]]"
+  - "[[_Standards/WikiData/WD~fluid_mechanics,172145]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
+different_from: "[[_Standards/WikiData/WD~hydrodynamics,12016129]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~hydrodynamics,12016129]]"
+  - "[[_Standards/WikiData/WD~aerodynamics,8424]]"
+is_the_study_of: "[[_Standards/WikiData/WD~fluid_flow,12142910]]"
+practiced_by: "[[_Standards/WikiData/WD~fluid_dynamicist,104626036]]"
+P10203: "1507"
+OmegaWiki_Defined_Meaning: "795886"
+Colon_Classification: B75
+Commons_category: Fluid dynamics
+Stack_Exchange_tag: https://physics.stackexchange.com/tags/fluid-dynamics
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Laminar-turbulent%20transition.jpg
+GitHub_topic: fluid-dynamics
+Dewey_Decimal_Classification: "532.05"
 ---
 
 # [[Fluid_Dynamics]] 
