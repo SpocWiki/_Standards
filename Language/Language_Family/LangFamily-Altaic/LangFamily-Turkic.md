@@ -38,10 +38,12 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Turkic_languages,80849
 type: LangFamily
 ---
 
+# [[LangFamily-Turkic]] 
+
 [SpocWebEntityId:: 454 ]
 [Name::Turkic]
 
-
+#is_/same_as :: [[../../../WikiData/WD~Turkic,34090|WD~Turkic,34090]] 
 
 ## #has_/text_of_/abstract 
 

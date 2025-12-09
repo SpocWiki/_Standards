@@ -1,18 +1,42 @@
 ---
 title: Tubulidentata
+aliases:
+has_id_wikidata: Q1082523
+instance_of: "[[_Standards/WikiData/WD~monotypic_taxon,310890]]"
+parent_taxon: "[[_Standards/WikiData/WD~Afroinsectiphilia,2570409]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+taxon_common_name:
+  - Aardvark
+  - Тръбозъби
+  - Tubulidentados
+  - Putkihampaiset
+  - Csövesfogúak
+  - ツチブタ目
+  - 관치목(管齒目)
+  - Jordsvin
+  - Tüpdişliler
+  - Трубкозуби
+ITIS_TSN: "180673"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Orycteropus%20afer00.jpg
+EPPO_Code: 1TUBUO
+Commons_category: Tubulidentata
+taxon_name: Tubulidentata
 ---
 
 # [[Tubulidentata]] 
 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Tubulidentata,1082523|WD~Tubulidentata,1082523]] 
+
 ## Aardvarks or ant bears 
 
- ![Aardvark (Orycteropus afer) in Serengeti NP, Tanzania](Tubulidentata/Aardvark.jpg) ![aardvark](Tubulidentata/Orycteropus_afer0073.jpg)) 
+ ![Aardvark (Orycteropus afer) in Serengeti NP, Tanzania](Tubulidentata/Aardvark/Aardvark.jpg) ![aardvark](Tubulidentata/Orycteropodidae/Orycteropus_afer0073.jpg)) 
 
 ## #has_/text_of_/abstract 
 
 > Orycteropodidae is a family of afrotherian mammals.  
 > Although there are many fossil species, the only species surviving today is the aardvark, Orycteropus afer.  
-> Orycteropodidae is recognized as the only family within the order **Tubulidentata**, from the Latin words tubulis (tubule) and dentis (tooth), referring to the tubule-style teeth., so the two are effectively synonyms.
+> Orycteropodidae is recognized as the only family within the order **Tubulidentata**, from the Latin words tubulis (tubule) and dentis (tooth), referring to the tubule-style teeth, 
+> so the two are effectively synonyms.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orycteropodidae) 
 
@@ -77,7 +101,7 @@ title: Tubulidentata
 ## Title Illustrations
 
 -------------------------------------------------------------------------
-![Aardvark (Orycteropus afer) in Serengeti NP, Tanzania](Tubulidentata/Aardvark.jpg)
+![Aardvark (Orycteropus afer) in Serengeti NP, Tanzania](Tubulidentata/Aardvark/Aardvark.jpg)
 Scientific Name ::     Orycteropus afer
 Location ::           Serengeti National Park, Tanzania
 Comments             Aardvarks are shy, solitary and completely nocturnal. They sleep in burrows by day and emerge to dig for termites after dark. This one was found by spotlighting on open grasslands.
@@ -88,7 +112,7 @@ Life Cycle Stage ::     Adult
 View                 Lateral
 Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
--------------------------------------------------------------------------![aardvark](Tubulidentata/Orycteropus_afer0073.jpg))
+-------------------------------------------------------------------------![aardvark](Tubulidentata/Orycteropodidae/Orycteropus_afer0073.jpg))
 Scientific Name ::     Orycteropus afer
 Location ::           captive specimen at Frankfurt Zoo (Germany)
 Comments             aardvark

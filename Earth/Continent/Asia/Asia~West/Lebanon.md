@@ -420,8 +420,6 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 422 ]
 
-
-
 [ISO2::LB]
 [ISO3::LBN] 
 
