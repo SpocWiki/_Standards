@@ -463,7 +463,7 @@ markerFolder: ./Libya//
 [Area-Land::1759540]
 has_place_continent:: [[Africa]]  
 [VehicleCode::LAR]
-Capital :: [[Tripolis=Tripoli]]  
+Capital :: [[Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli]]  
 
 ![[Seal_of_the_Government_of_National_Unity_(Libya).svg|350]]
 

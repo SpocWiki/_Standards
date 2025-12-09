@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Great Circle
+  - Großkreis
 has_id_wikidata: Q146657
 studied_by: "[[_Standards/WikiData/WD~geodesy,131089]]"
 opposite_of: "[[_Standards/WikiData/WD~small_circle,149295]]"
@@ -13,7 +15,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20circle%20hemis
 
 # [[Great_Circle]] 
 
-#is_/same_as :: [[WD~Great_circle,146657]] 
+#is_/same_as :: [[../../../../WikiData/WD~Great_circle,146657|WD~Great_circle,146657]] 
+
 ## #has_/text_of_/abstract 
 
 > In mathematics, a great circle or orthodrome 
@@ -21,4 +24,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20circle%20hemis
 > passing through the sphere's center point.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20circle) 
+
+This is the circle with a maximum Radius R on the Sphere with Radius R. 
 

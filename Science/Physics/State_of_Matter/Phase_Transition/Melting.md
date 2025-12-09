@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Fusion
 has_id_wikidata: Q106080
 opposite_of: "[[_Standards/WikiData/WD~freezing,108000]]"
 subclass_of:

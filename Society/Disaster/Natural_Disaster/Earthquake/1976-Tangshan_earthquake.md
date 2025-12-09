@@ -23,7 +23,7 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "TangshanEarthquake1976"
 # [[1976-Tangshan_earthquake]] 
 
 
-#is_/same_as :: [[../../WikiData/WD~1976_Tangshan_earthquake,462195]] 
+#is_/same_as :: [[../../../../WikiData/WD~1976_Tangshan_earthquake,462195]] 
 
 ## #has_/text_of_/abstract 
 

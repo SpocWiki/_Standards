@@ -575,7 +575,7 @@ icon: flag-tr
 
 [	Telephone	 :: 90 ]
 
-[	Global	 :: True ]
+[	Global	 :: True ] 
 [	Global_Name	 :: World ]
 
 [	name	 :: Turkey ]
@@ -647,7 +647,7 @@ id: Turkey
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Turkey//
+geojsonFolder: ./Turkey///
 markerFolder: ./Turkey/
 coordinates: [[Turkey]] 
 markerFile: [[Turkey]] 
@@ -655,7 +655,7 @@ defaultZoom: 6
 ```
 
 [name-en::Turkey]
-[name-de::Türkei]
+[name-de::Türkei]  
 [Area-Total::779452]
 [Area-Land::769630]
 has_place_continent:: [[Europe]]  

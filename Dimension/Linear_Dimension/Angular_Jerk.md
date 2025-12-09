@@ -10,7 +10,7 @@ aliases:
 
 In physics, Angular_Jerk (also known as jolt) is the 
 rate of change of an object's rotational acceleration over time, or 
-the 3rd Derivative of the [[../../Mathematics/Geometry/Geometry-2D/Angle|Angle]] by [[../Dim~Time]]. 
+the 3rd Derivative of the [[../../Mathematics/Geometry/Geometry-2D/Triangle/Angle|Angle]] by [[../Dim~Time]]. 
 
 It is a vector quantity (having both magnitude and direction). 
 Angular_Jerk is most commonly denoted by the symbol j 

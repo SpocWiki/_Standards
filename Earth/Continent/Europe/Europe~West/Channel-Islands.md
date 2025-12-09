@@ -10,13 +10,18 @@ confidential: public
 [ISO2::] 
 [ISO3::] 
 
+## #has_/map 
+
 ```leaflet
 id: Channel Islands
 zoomFeatures: true 
 minZoom: 4 
+defaultZoom: 10
 maxZoom: 18
 geojsonFolder: ./Channel-Islands/
 markerFolder: ./Channel-Islands/
+coordinates: [[Channel-Islands]] 
+markerFile: [[Channel-Islands]] 
 ```
 
 [name-en::Channel Islands]

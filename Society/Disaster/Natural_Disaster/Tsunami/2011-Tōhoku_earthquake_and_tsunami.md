@@ -43,7 +43,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_2011_Tōhoku_earthqu
 
 #[[2011-Tōhoku_earthquake_and_tsunami]]] 
 
-#is_/same_as :: [[../../WikiData/WD~2011_Tōhoku_earthquake_and_tsunami,36204]] 
+#is_/same_as :: [[../../../../WikiData/WD~2011_Tōhoku_earthquake_and_tsunami,36204]] 
 
 ## #has_/text_of_/abstract 
 

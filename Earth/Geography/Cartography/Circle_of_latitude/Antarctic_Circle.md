@@ -16,7 +16,7 @@ coordinate_location: Point(0.0 -66.566666666)
 # [[Antarctic_Circle]]
 
 
-#is_/same_as :: [[../../../WikiData/WD~Antarctic_Circle,182657|WD~Antarctic_Circle,182657]] 
+#is_/same_as :: [[../../../../WikiData/WD~Antarctic_Circle,182657|WD~Antarctic_Circle,182657]] 
 
 ## #has_/text_of_/abstract 
 

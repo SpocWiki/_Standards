@@ -1,7 +1,27 @@
 ---
 aliases:
   - Breitengrad
+  - circle of latitude
+  - line of latitude
 has_id_wikidata: Q146591
+subclass_of:
+  - "[[_Standards/WikiData/WD~region,82794]]"
+  - "[[_Standards/WikiData/WD~geographic_entity,27096213]]"
+  - "[[_Standards/WikiData/WD~circle,17278]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+model_item:
+  - "[[_Standards/WikiData/WD~90th_parallel,4032714]]"
+  - "[[_Standards/WikiData/WD~equator,23538]]"
+has_list: "[[_Standards/WikiData/WD~list_of_circles_of_latitude,18348508]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~degree_of_latitude_on_Earth,21948574]]"
+manifestation_of: "[[_Standards/WikiData/WD~latitude,34027]]"
+Commons_category: Latitudes
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Earth-lighting-summer-solstice%20CAT.png
+Dewey_Decimal_Classification: "526.6"
 ---
 
 # [[Circle_of_latitude]] 
@@ -10,7 +30,7 @@ has_id_wikidata: Q146591
 
 ## #has_/text_of_/abstract 
 
-> A circle of latitude or line of latitude on Earth is an abstract east–west small circle 
+> A circle of latitude or line of latitude on Earth is an abstract east–west [[../../../Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle|Spherical_Circle]] 
 > connecting all locations around Earth (ignoring elevation) at a given latitude coordinate line.
 >
 > Circles of latitude are often called parallels because they are parallel to each other; 

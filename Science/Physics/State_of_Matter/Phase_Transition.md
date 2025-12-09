@@ -31,6 +31,13 @@ Commons_category: Phase changes
 | [[Gas]]    | [Deposition](https://en.wikipedia.org/wiki/Deposition_\(phase_transition\) "Deposition (phase transition)") | [Condensation](https://en.wikipedia.org/wiki/Condensation "Condensation") |                                                                                            | [Ionization](https://en.wikipedia.org/wiki/Ionization "Ionization")           |
 | [[Plasma]] |                                                                                                             |                                                                           | [Recombination](https://en.wikipedia.org/wiki/Plasma_recombination "Plasma recombination") |                                                                               |
 
+```mermaid
+flowchart LR
+    Solid -- Melting --> Liquid -- Vaporization --> Gas -- Deposition --> Solid 
+    Liquid -- Freezing --> Solid -- Sublimation --> Gas -- Condensation --> Liquid 
+```
+
+
 ## #has_/text_of_/abstract 
 
 > In physics, chemistry, and other related fields like biology, a **phase transition** (or phase change) 

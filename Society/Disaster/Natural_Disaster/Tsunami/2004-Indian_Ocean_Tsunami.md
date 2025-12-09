@@ -62,7 +62,7 @@ video:
 #[[2004-Indian_Ocean_Tsunami]]] 
 
 
-#is_/same_as :: [[../../WikiData/WD~2004_Indian_Ocean_earthpene,130754]] 
+#is_/same_as :: [[../../../../WikiData/WD~2004_Indian_Ocean_earthpene,130754]] 
 
 ## #has_/text_of_/abstract 
 

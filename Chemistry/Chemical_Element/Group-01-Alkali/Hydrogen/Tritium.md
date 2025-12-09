@@ -42,6 +42,8 @@ Wolfram_Language_entity_code: Entity["Isotope", "Hydrogen3"]
 Krugosvet_article: nauka_i_tehnika/himiya/TRITI.html
 ---
 
+# [[Tritium]] 
+
 #is_/same_as :: [[../../../../WikiData/WD~Tritium,54389|WD~Tritium,54389]] 
 
 ## #has_/text_of_/abstract 
