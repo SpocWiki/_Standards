@@ -1,4 +1,17 @@
 ---
+aliases:
+  - Tuvalu
+  - توفالو
+  - 图瓦卢
+  - Тувалу
+has_id_wikidata: Q672
+location:
+  - -8.51667
+  - 179.217
+type: Country
+tags:
+  - geo/Country
+SpocWebEntityId: 27041
 flag: "[[_Standards/WikiData/WD~flag_of_Tuvalu,105643]]"
 instance_of:
   - "[[_Standards/WikiData/WD~island_country,112099]]"
@@ -198,14 +211,6 @@ locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tuvalu%20in%20its%20region.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tuvalu%20on%20the%20globe%20%28small%20islands%20magnified%29%20%28Polynesia%20centered%29.svg
 country_calling_code: 688
-has_id_wikidata: Q672
-location:
-  - -8.51667
-  - 179.217
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 27041
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
@@ -221,11 +226,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Tuvalu
-  - توفالو
-  - 图瓦卢
-  - Тувалу
 Languages:
   - tvl
   - en
@@ -303,10 +303,10 @@ Sub-region_Name ::  [[Polynesia]]
 
 [	ISO3166-1-numeric	 :: 798 ] 
 
-
-
 [ISO2::TV] 
 [ISO3::TUV]  
+
+#is_/same_as :: [[../../../WikiData/WD~Tuvalu,672|WD~Tuvalu,672]] 
 
 ## #has_/map  
 
