@@ -44,7 +44,7 @@ Wikidata_property: produced sound
 
 # [[Sound]] 
 
-#is_/same_as :: [[../../WikiData/WD~Sound,11461|WD~Sound,11461]] 
+#is_/same_as :: [[../../../../WikiData/WD~Sound,11461|WD~Sound,11461]] 
 
 ## #has_/text_of_/abstract 
 

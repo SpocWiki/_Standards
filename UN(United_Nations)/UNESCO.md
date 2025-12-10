@@ -128,6 +128,9 @@ X_Twitter_username:
 
 # [[UNESCO]]
 
+#is_/same_as :: [[../WikiData/WD~UNESCO,7809|WD~UNESCO,7809]] 
+
+## #has_/text_of_/abstract 
 
 > The United Nations Educational, Scientific and Cultural Organization (**UNESCO** ) 
 > is a specialized agency of the United Nations (UN) 

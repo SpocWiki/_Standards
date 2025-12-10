@@ -20,7 +20,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Schal
 
 # [[Speed_of_Sound]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Speed_of_sound,124003|WD~Speed_of_sound,124003]]  
+#is_/same_as :: [[../../../../../WikiData/WD~Speed_of_sound,124003|WD~Speed_of_sound,124003]]  
 
 ## #has_/text_of_/abstract 
 
