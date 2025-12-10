@@ -3,7 +3,7 @@
 
 #is_/similar_to :: [[Torque]]  
 
-The SI-Unit is [[../../Unit/SI-Unit/derived_Unit/Unit~Newton|Unit~Newton]]. 
+The SI-Unit is [[../Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton|Unit~Newton]]. 
 
 
 ## #has_/text_of_/abstract 

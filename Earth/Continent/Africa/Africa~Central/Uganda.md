@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Uganda
+  - Ouganda
+  - أوغندا
+  - 乌干达
+  - Уганда
+  - the Republic of Uganda
+  - la República de Uganda
+has_id_wikidata: Q1036
 flag: "[[_Standards/WikiData/WD~flag_of_Uganda,103037]]"
 coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Uganda,108570]]"
 anthem: "[[_Standards/WikiData/WD~Oh_Uganda,_Land_of_Beauty,110193]]"
@@ -447,7 +456,6 @@ Krugosvet_article: strany_mira/UGANDA.html
 Unicode_character: 🇺🇬
 CIVICUS_Monitor_country_entry: uganda
 GitHub_topic: uganda
-has_id_wikidata: Q1036
 location:
   - 0.313611
   - 32.5811
@@ -470,14 +478,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Uganda
-  - Ouganda
-  - أوغندا
-  - 乌干达
-  - Уганда
-  - the Republic of Uganda
-  - la República de Uganda
 Languages:
   - en-UG
   - lg
@@ -486,13 +486,6 @@ Languages:
 ---
 
 # [[Uganda]] 
-
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Uganda 
-
-[[Uganda/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: UGX ]
 [	ISO4217-currency_name	 :: Uganda Shilling ]
@@ -557,10 +550,17 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 800 ]
 
-
-
 [ISO2::UG]
 [ISO3::UGA]
+#is_/same_as :: [[../../../../WikiData/WD~Uganda,1036|WD~Uganda,1036]]
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Uganda 
+
+[[Uganda/ReadMe]] 
+
+## #has_/map  
+
 ```leaflet
 id: Uganda
 zoomFeatures: true 
@@ -568,6 +568,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Uganda//
 markerFolder: ./Uganda//
+coordinates: [[Uganda]] 
+markerFile: [[Uganda]] 
+defaultZoom: 6 
 ```
 
 [name-en::Uganda]

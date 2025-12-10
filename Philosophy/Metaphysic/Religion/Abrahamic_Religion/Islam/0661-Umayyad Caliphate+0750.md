@@ -1,7 +1,10 @@
 ---
 aliases:
   - Umayyad Caliphate
-  - "Umayyad Empire ( US: ; Arabic: ٱلْخِلَافَة ٱلْأُمَوِيَّة, romanized: al-Khilāfa al-Umawiyya"
+  - Umayyad Empire 
+  - ٱلْخِلَافَة ٱلْأُمَوِيَّة
+  - al-Khilāfa al-Umawiyya
+  - Umayyad_Caliphate
 has_id_wikidata: Q8575586
 inception: 0661-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 0750-07-01T00:00:00Z

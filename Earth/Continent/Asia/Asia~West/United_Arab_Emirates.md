@@ -447,12 +447,6 @@ YouTube_handle: EmiratesEGovernment
 
 # [[United_Arab_Emirates]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-United_Arab_Emirates 
-
-[[United_Arab_Emirates/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: AED ]
 [	ISO4217-currency_name	 :: UAE Dirham ]
 [	ISO4217-currency_numeric	 :: 784 ]
@@ -516,14 +510,18 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 784 ]
 
-
-
 [ISO2::AE]
 [ISO3::ARE] 
 
+#is_/same_as :: [[../../../../WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-United_Arab_Emirates 
+
+[[United_Arab_Emirates/ReadMe]] 
+
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: United Arab Emirates
@@ -532,6 +530,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./United_Arab_Emirates//
 markerFolder: ./United_Arab_Emirates/
+coordinates: [[United_Arab_Emirates]] 
+markerFile: [[United_Arab_Emirates]] 
+defaultZoom: 6 
 ```
 
 [name-en::United Arab Emirates]

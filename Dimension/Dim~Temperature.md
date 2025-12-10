@@ -7,7 +7,7 @@ has_id_wikidata: Q11466
 
 #is_/same_as :: [[../WikiData/WD~Temperature,11466|WD~Temperature,11466]] 
 
-There are many Units for Temperature, but the SI-Unit is the [[../Unit/SI-Unit/Unit~Kelvin|Unit~Kelvin]].   
+There are many Units for Temperature, but the SI-Unit is the [[Unit_of_Measurement/SI-Unit/Unit~Kelvin|Unit~Kelvin]].   
 
 Temperature is a macroscopic, statistical Unit that measures the average undirected kinetic Energy of a Body in any [[Aggregate_State]].  
 

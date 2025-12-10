@@ -66,7 +66,7 @@ and Curvature of Space,
 the same Value operates as Weight, 
 so inert Mass and heavy Mass are always proportional to each other. 
 
-There are many Units for Mass, but the SI-Unit is the [[../Unit/SI-Unit/Unit~Gram|Unit~Gram]] 
+There are many Units for Mass, but the SI-Unit is the [[Unit_of_Measurement/SI-Unit/Unit~Gram|Unit~Gram]] 
 
 ## #has_/text_of_/abstract 
 
