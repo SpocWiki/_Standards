@@ -205,10 +205,11 @@ Wolfram_Language_entity_code: "Entity[\"GeographicRegion\", \"Africa\"]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Africa
 
+## #has_/map 
 
 ```leaflet
 id: Africa
-minZoom: 4 
+minZoom: 2 
 defaultZoom: 3
 maxZoom: 18
 geojsonFolder: ./Africa/
