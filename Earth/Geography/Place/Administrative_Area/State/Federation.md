@@ -30,6 +30,7 @@ Commons_category: Federación
 
 # [[Federation]] 
 
+#is_/opposite_of :: [[Unitary_State|Unitary_State]]  
 #is_/same_as :: [[../../../../../WikiData/WD~Federation,43702|WD~Federation,43702]]  
 
 ## #has_/text_of_/abstract 

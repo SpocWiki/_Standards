@@ -27,7 +27,7 @@ title: has_elevation_meters
 type: Predi_Quantity
 ---
 
-Elevation in [[../../../Unit/SI-Unit/Unit~Meter|Unit~Meter]]s __above Sea-Level__ of GeoCoordinate or GeoShape, typically [[WGS84]]. 
+Elevation in [[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter|Unit~Meter]]s __above Sea-Level__ of GeoCoordinate or GeoShape, typically [[WGS84]]. 
 
 #is_/similar_to :: [[has_place_altitude_meters|altitude]] 
 #is_/different_from :: [[has_place_altitude_meters|altitude]] 
