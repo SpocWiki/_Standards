@@ -1,12 +1,13 @@
 ---
-age_of_majority: 18
-aircraft_registration_prefix: UR
 aliases:
   - Ukraine
   - Ucrania
   - أوكرانيا
   - 乌克兰
   - Украина
+has_id_wikidata: Q212
+age_of_majority: 18
+aircraft_registration_prefix: UR
 anthem: "[[_Standards/WikiData/WD~Shche_ne_vmerla_Ukrainy_i_slava,_i_volia,161744]]"
 area: 603550
 award_received: "[[_Standards/WikiData/WD~The_Economist_country_of_the_year,47004555]]"
@@ -228,7 +229,6 @@ hashtag:
   - ウクライナ
   - 烏克蘭
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-has_id_wikidata: Q212
 has_part_s_:
   - "[[_Standards/WikiData/WD~Autonomous_Republic_of_Crimea,756294]]"
   - "[[_Standards/WikiData/WD~oblast_of_Ukraine,3348196]]"
@@ -421,12 +421,6 @@ X_Twitter_username: Ukraine
 
 # [[Ukraine]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Ukraine 
-
-[[Ukraine/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: UAH ]
 [	ISO4217-currency_name	 :: Hryvnia ]
 [	ISO4217-currency_numeric	 :: 980 ]
@@ -490,14 +484,17 @@ Sub-region_Name ::  [[Eastern Europe]]
 
 [	ISO3166-1-numeric	 :: 804 ]
 
-
-
 [ISO2::UA]
 [ISO3::UKR] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Ukraine,212|WD~Ukraine,212]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Ukraine 
+
+[[Ukraine/ReadMe]] 
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Ukraine
@@ -506,6 +503,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Ukraine//
 markerFolder: ./Ukraine//
+coordinates: [[Ukraine]] 
+markerFile: [[Ukraine]] 
+defaultZoom: 5 
 ```
 
 [name-en::Ukraine]
