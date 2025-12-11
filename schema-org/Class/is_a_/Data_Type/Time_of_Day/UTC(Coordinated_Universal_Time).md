@@ -1,6 +1,7 @@
 ---
 aliases:
   - Coordinated Universal Time
+  - Universal_time
 has_id_wikidata: Q1536
 based_on:
   - "[[_Standards/WikiData/WD~International_Atomic_Time,119395]]"

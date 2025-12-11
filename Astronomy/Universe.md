@@ -3,6 +3,7 @@ aliases:
   - Universum
   - Cosmos
   - Kosmos
+has_id_wikidata: Q1
 Baidu_Tieba_name: 宇宙
 Commons_category: Universe
 contains:
@@ -41,7 +42,6 @@ does_not_have_part: "[[_Standards/WikiData/WD~parallel_universe,2051667]]"
 has_characteristic:
   - "[[_Standards/WikiData/WD~fundamental_interaction,104934]]"
   - "[[_Standards/WikiData/WD~gravity,11412]]"
-has_id_wikidata: Q1
 has_part_s_:
   - "[[_Standards/WikiData/WD~spacetime,133327]]"
   - "[[_Standards/WikiData/WD~observable_universe,221392]]"

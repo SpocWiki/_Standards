@@ -77,7 +77,9 @@ Wikitribune_category: humanrights
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/human_rights"
 ---
 
-#has_/documentation :: [[../../../_protect/Society/Sociology/Universal_Declaration_of_Human_Rights]] 
+# [[Human_Rights]] 
+
+#has_/documentation :: [[Human_Rights/Universal_Declaration_of_Human_Rights]] 
 
 ## #has_/text_of_/abstract 
 
