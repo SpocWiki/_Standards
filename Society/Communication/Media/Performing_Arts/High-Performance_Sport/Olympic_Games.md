@@ -217,7 +217,7 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 2004 | [[../../../../../../Earth/Continent/Europe/Europe~South/Greece\|Greece]]             | [[Athens]]                      |  S  | 2004-08-13 | 1932-08-29 |
 | 2006 | [[../../../../../../Earth/Continent/Europe/Europe~South/Italy\|Italy]]               | [[Turin]]                       |  W  | 2006-02-10 | 1928-02-26 |
 | 2008 | [[../../../../../../Earth/Continent/Asia/Asia~East/China\|China]]                    | [[../../../../../Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province]]                     |  S  | 2008-08-08 | 1928-08-24 |
-| 2010 | [[../../../../../../Earth/Continent/America~North/Canada\|Canada]]                   | [[Vancouver]]                   |  W  | 2010-02-12 | 1924-02-28 |
+| 2010 | [[../../../../../../Earth/Continent/America~North/Canada\|Canada]]                   | [[../../../../../Earth/Continent/America~North/Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver]]                   |  W  | 2010-02-12 | 1924-02-28 |
 | 2012 | [[../../../../../../Earth/Continent/Europe/Europe~North/UK\|United Kingdom]]         | [[London]]                      |  S  | 2012-07-27 | 1924-08-12 |
 | 2014 | [[../../../../../../Earth/Continent/Europe/Europe~East/Russia\|Russia]]              | [[Sochi]]                       |  W  | 2014-02-07 | 1920-02-23 |
 | 2016 | [[../../../../../../Earth/Continent/America~South/Brazil\|Brazil]]                   | [[Rio de Janeiro]]              |  S  | 2016-08-05 | 1912-08-21 |
