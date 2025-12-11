@@ -501,6 +501,8 @@ GS1_country_code: 500-509
 
 # [[UK]] 
 
+
+
 ## International Names
 
 [name-en::United Kingdom]
@@ -508,6 +510,8 @@ GS1_country_code: 500-509
 
 [ISO2::GB] 
 [ISO3::GBR]
+
+#is_/same_as :: [[../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]] 
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-UK)

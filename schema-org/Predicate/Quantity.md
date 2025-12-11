@@ -1,9 +1,9 @@
 ---
 aliases:
   - quantity
-  - quantity
   - Quantity
   - is_a_quantity
+has_id_wikidata: Q309314
 confidential: public
 cssclasses:
   - Type
@@ -23,15 +23,33 @@ tags:
   - schema-org/Class
 title: is_a_quantity Class
 type: Type
+subclass_of:
+  - "[[_Standards/WikiData/WD~property,937228]]"
+  - "[[_Standards/WikiData/WD~value,2912517]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~level_of_measurement,951437]]"
+  - "[[_Standards/WikiData/WD~quantity_value,110597311]]"
+  - "[[_Standards/WikiData/WD~quantity_dimension,19110]]"
+  - "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~cardinality,4049983]]"
+opposite_of: "[[_Standards/WikiData/WD~qualitative_property,7268708]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_property,96253971]]"
+different_from: "[[_Standards/WikiData/WD~ordinal_quantity,110645437]]"
+main_Wikidata_property: quantity
+properties_for_this_type: quantity symbol (LaTeX)
+facet_of: "[[_Standards/WikiData/WD~measurement,12453]]"
+Commons_category: Quantity
 ---
 
 # [[Quantity]] 
 
-Class of all Quantities, i.e. measurable Values.
+#is_/same_as :: [[WD~Quantity,309314]]
+
+Class of all Quantities, i.e. measurable Values with a Unit and possibly Error Range.
 
 Quantities such as distance, time, mass, weight, etc. 
 Particular instances of say Mass are entities like '3 kg' or '4 milligrams'. 
-Quantities must have a [[../../Unit|Unit]] 
+Quantities must have a [[../../Dimension/Unit_of_Measurement|Unit_of_Measurement]] 
 (and often also an Origin/Reference-Point), 
 to be able to compare and operate on them. 
 

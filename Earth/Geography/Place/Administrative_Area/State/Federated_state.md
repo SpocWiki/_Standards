@@ -24,12 +24,14 @@ OpenStreetMap_tag_or_key: Tag:place=state
 
 # [[Federated_State]] 
 
+#is_/part_of_ :: [[Federation]] 
 #is_/same_as :: [[../../../../../WikiData/WD~Federated_state,107390|WD~Federated_state,107390]] 
 
 ## #has_/text_of_/abstract 
 
 > A federated state (also  state, province, region, canton,  land,  governorate,  oblast, emirate, or  country) 
 > is a territorial and constitutional community forming part of a federation. 
+> 
 > A federated state **does not have international sovereignty** 
 > since powers are divided between the other federated states and the federal government. 
 > Unlike international sovereign states, which have what is often referred to as Westphalian sovereignty 
