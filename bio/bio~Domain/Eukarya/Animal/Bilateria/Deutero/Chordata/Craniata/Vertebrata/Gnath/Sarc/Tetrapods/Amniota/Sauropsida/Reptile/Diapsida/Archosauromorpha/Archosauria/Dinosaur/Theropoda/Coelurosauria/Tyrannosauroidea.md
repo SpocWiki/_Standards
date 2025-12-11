@@ -68,9 +68,36 @@ Tyrant dinosaurs and their possible relatives
 
 ## #has_/text_of_/abstract 
 
-> **Tyrannosauroidea** (meaning 'tyrant lizard forms') is a superfamily (or clade) of coelurosaurian theropod dinosaurs that includes the family Tyrannosauridae as well as more basal relatives. Tyrannosauroids lived on the Laurasian supercontinent beginning in the Jurassic Period. By the end of the Cretaceous Period, tyrannosauroids were the dominant large predators in the Northern Hemisphere, culminating in the gigantic Tyrannosaurus. Fossils of tyrannosauroids have been recovered on what are now the continents of North America, Europe and Asia. If Megaraptora is part of Tyrannosauroidea, this would extend the distribution of the group to Australia and South America, and possible fragmentary remains of tyrannosauroids have also been reported from these continents.
+> **Tyrannosauroidea** (meaning 'tyrant lizard forms') 
+> is a superfamily (or clade) of coelurosaurian theropod dinosaurs 
+> that includes the family Tyrannosauridae as well as more basal relatives. 
+> 
+> Tyrannosauroids lived on the Laurasian supercontinent beginning in the Jurassic Period. 
+> By the end of the Cretaceous Period, 
+> tyrannosauroids were the dominant large predators in the Northern Hemisphere, 
+> culminating in the gigantic Tyrannosaurus. 
+> 
+> Fossils of tyrannosauroids have been recovered on what are now the continents of North America, Europe and Asia. 
+> 
+> If Megaraptora is part of Tyrannosauroidea, 
+> this would extend the distribution of the group to Australia and South America, 
+> and possible fragmentary remains of tyrannosauroids have also been reported from these continents.
 >
-> Tyrannosauroids were bipedal carnivores, as were most theropods, and were characterized by numerous skeletal features, especially of the skull and pelvis. Early in their existence, tyrannosauroids were small predators with long, three-fingered forelimbs. Late Cretaceous genera became much larger, including some of the largest land-based predators ever to exist, but most of these later genera had proportionately small forelimbs with only two digits. Primitive feathers have been identified in fossils of two species and may have been present in other tyrannosauroids as well. Prominent bony crests in a variety of shapes and sizes on the skulls of many tyrannosauroids may have served display functions.
+> Tyrannosauroids were bipedal carnivores, as were most theropods, 
+> and were characterized by numerous skeletal features, especially of the skull and pelvis. 
+> 
+> Early in their existence, tyrannosauroids were small predators 
+> with long, three-fingered forelimbs
+> 
+> . Late Cretaceous genera became much larger, 
+> including some of the largest land-based predators ever to exist, 
+> but most of these later genera had proportionately small forelimbs with only two digits. 
+> 
+> Primitive feathers have been identified in fossils of two species 
+> and may have been present in other tyrannosauroids as well. 
+> 
+> Prominent bony crests in a variety of shapes and sizes 
+> on the skulls of many tyrannosauroids may have served display functions.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tyrannosauroidea) 
 
