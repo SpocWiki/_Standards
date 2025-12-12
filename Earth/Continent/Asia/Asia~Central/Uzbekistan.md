@@ -342,12 +342,6 @@ Gujarati_Vishwakosh_entry: ઉઝબેકિસ્તાન
 
 # [[Uzbekistan]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Uzbekistan 
-
-[[Uzbekistan/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: UZS ]
 [	ISO4217-currency_name	 :: Uzbekistan Sum ]
 [	ISO4217-currency_numeric	 :: 860 ]
@@ -411,14 +405,16 @@ Sub-region_Name ::  [[Central Asia]]
 
 [	ISO3166-1-numeric	 :: 860 ]
 
-
-
 [ISO2::UZ]
 [ISO3::UZB] 
+#is_/same_as :: [[../../../../WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Uzbekistan 
+
+[[Uzbekistan/ReadMe]] 
 
 ## #has_/map  
-
-
 
 ```leaflet
 id: Uzbekistan
@@ -427,6 +423,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Uzbekistan//
 markerFolder: ./Uzbekistan///
+coordinates: [[Uzbekistan]] 
+markerFile: [[Uzbekistan]] 
 ```
 
 [name-en::Uzbekistan]

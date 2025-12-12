@@ -113,7 +113,7 @@ and reflect their unique reproductive, developmental, and ecological adaptations
     -  [Macroscelididae](Eutheria/Macroscelididae.md))
     -  [Primates](Eutheria/Primates.md))
     -  [Scandentia](Eutheria/Scandentia.md))
-    -  [Chiroptera](Eutheria/Chiroptera.md))
+    -  [Bat](Eutheria/Bat.md))
     -  [Dermoptera](Eutheria/Dermoptera.md))
     -  [Insectivora](Eutheria/Insectivora.md))
     -  [Carnivora](Eutheria/Carnivora.md))

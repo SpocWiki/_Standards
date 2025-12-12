@@ -61,7 +61,7 @@ start_time: -37000000-06
     -   [Macroscelididae](Macroscelididae.md)
     -   [Primates](Primates.md)
     -   [Scandentia](Scandentia.md)
-    -   [Chiroptera](Chiroptera.md)
+    -   [Bat](Bat.md)
     -   Dermoptera
     -   [Insectivora](Insectivora.md)
     -   [Carnivora](Carnivora.md)

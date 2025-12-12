@@ -9,11 +9,11 @@ aliases:
 has_id_wikidata: Q28425
 ---
 
-# [[Chiroptera]]
+# [[Bat]]
 
 ## Bats 
 
- ![molossus](Chiroptera/molossus1.gif) ![phyllostomus](Chiroptera/phyllostomus1.gif)) 
+ ![molossus](Bat/molossus1.gif) ![phyllostomus](Bat/Microchiroptera/Phyllostomidae/phyllostomus1.gif)) 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Chiroptera,28425|WD~Chiroptera,28425]] 
 
@@ -342,17 +342,17 @@ from Hill and Smith (1984).
     -   [Proboscidea](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.md)
 
 -   » Sub-Groups
-    -  [Microchiroptera](Chiroptera/Microchiroptera.md))
+    -  [Microchiroptera](Bat/Microchiroptera.md))
 
 
 ## Title Illustrations
 
 ----------
-![](Chiroptera/molossus1.gif)
+![](Bat/molossus1.gif)
 Scientific Name ::  Molossus rufus
 Copyright ::         © 1998 Nancy Simmons
 
-----------![](Chiroptera/phyllostomus1.gif))
+----------![](Bat/Microchiroptera/Phyllostomidae/phyllostomus1.gif))
 Scientific Name ::  Phylostomus hastatus
 Copyright ::         © 1994 Nancy Simmons
 
