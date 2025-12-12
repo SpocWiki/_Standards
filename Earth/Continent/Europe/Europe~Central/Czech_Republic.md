@@ -485,12 +485,14 @@ For more Details, check out this Repository into this Subfolder:
 ## #has_/map  
 
 ```leaflet
-id: Czech Rep.
+id: Czech_Republic
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Czech_Republic//
 markerFolder: ./Czech_Republic//
+coordinates: [[Czech_Republic]] 
+markerFile: [[Czech_Republic]] 
 ```
 
 [name-en::Czech Rep.]
