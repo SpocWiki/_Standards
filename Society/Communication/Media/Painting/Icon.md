@@ -27,7 +27,7 @@ Krugosvet_article_archived_:
 
 # [[Icon]] 
 
-#is_/different_from :: [[../../../../Technology/IT/Software/GUI(Graphical_User_Interface)/Icon(Computing)]]  
+#is_/different_from :: [[../../../../Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing)]]  
 #is_/same_as :: [[WD~Icon,132137]] 
 
 ## #has_/text_of_/abstract 
