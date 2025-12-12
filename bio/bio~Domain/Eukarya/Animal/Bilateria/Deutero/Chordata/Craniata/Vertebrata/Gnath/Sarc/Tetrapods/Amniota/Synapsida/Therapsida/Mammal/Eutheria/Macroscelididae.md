@@ -67,7 +67,7 @@ has_id_wikidata: Q9324400
     -   Macroscelididae
     -   [Primates](Primates.md)
     -   [Scandentia](Scandentia.md)
-    -   [Chiroptera](Chiroptera.md)
+    -   [Bat](Bat.md)
     -   [Dermoptera](Dermoptera.md)
     -   [Insectivora](Insectivora.md)
     -   [Carnivora](Carnivora.md)

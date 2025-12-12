@@ -92,7 +92,7 @@ taxon_common_name: trespissmus
     -   [Macroscelididae](Macroscelididae.md)
     -   [Primates](Primates.md)
     -   Scandentia
-    -   [Chiroptera](Chiroptera.md)
+    -   [Bat](Bat.md)
     -   [Dermoptera](Dermoptera.md)
     -   [Insectivora](Insectivora.md)
     -   [Carnivora](Carnivora.md)

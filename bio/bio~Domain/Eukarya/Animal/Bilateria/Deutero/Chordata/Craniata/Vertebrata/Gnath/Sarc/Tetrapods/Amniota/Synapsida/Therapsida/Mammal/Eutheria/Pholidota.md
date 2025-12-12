@@ -45,7 +45,7 @@ title: Pholidota
     -   [Macroscelididae](Macroscelididae.md)
     -   [Primates](Primates.md)
     -   [Scandentia](Scandentia.md)
-    -   [Chiroptera](Chiroptera.md)
+    -   [Bat](Bat.md)
     -   [Dermoptera](Dermoptera.md)
     -   [Insectivora](Insectivora.md)
     -   [Carnivora](Carnivora.md)

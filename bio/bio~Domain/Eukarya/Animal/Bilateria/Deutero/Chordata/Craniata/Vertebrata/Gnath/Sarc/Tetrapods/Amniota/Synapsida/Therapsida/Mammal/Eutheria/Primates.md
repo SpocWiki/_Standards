@@ -133,7 +133,7 @@ from Purvis (1995).
     -   [Macroscelididae](Macroscelididae.md)
     -   Primates
     -   [Scandentia](Scandentia.md)
-    -   [Chiroptera](Chiroptera.md)
+    -   [Bat](Bat.md)
     -   [Dermoptera](Dermoptera.md)
     -   [Insectivora](Insectivora.md)
     -   [Carnivora](Carnivora.md)
