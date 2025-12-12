@@ -9,7 +9,7 @@ aliases:
 > **An American Werewolf in London** is a 1981 comedy horror film written and directed by [[../../music/Landis,John]]. 
 > An international co-production of the United Kingdom and the United States, 
 > the film stars David Naughton, Jenny Agutter, Griffin Dunne and John Woodvine. 
-> The title is a cross between [[../../../../../../../_private/Society/Communication/Media/music/American_in_Paris]] and [[Werewolf_of_London]]. 
+> The title is a cross between [[../../../Music/Composer/Gershwin,George/American_in_Paris]] and [[Werewolf_of_London]]. 
 > The film's plot follows two American backpackers, David and Jack, 
 > who are attacked by a werewolf while travelling in England, 
 > causing David to become a werewolf under the next full moon.
