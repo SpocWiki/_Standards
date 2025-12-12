@@ -22,7 +22,7 @@ Dewey_Decimal_Classification: "541.224"
 
 # [[Valence(Chemistry)]] 
 
-#is_/same_as :: [[WD~Valence,171407]] 
+#is_/same_as :: [[../../../../WikiData/WD~Valence,171407|WD~Valence,171407]]  
 
 ## #has_/text_of_/abstract 
 
