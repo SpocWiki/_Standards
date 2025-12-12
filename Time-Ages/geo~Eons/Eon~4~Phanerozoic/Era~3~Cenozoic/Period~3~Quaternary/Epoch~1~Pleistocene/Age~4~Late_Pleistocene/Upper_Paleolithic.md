@@ -1,8 +1,19 @@
 ---
 aliases:
-- "Upper Palaeolithic"
-- "Upper Paleolithic"
-- Jungpaläolithikum
+  - Upper Palaeolithic
+  - Upper Paleolithic
+  - Jungpaläolithikum
+has_id_wikidata: Q479505
+instance_of:
+  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
+start_time:
+  - -38000-01-01T00:00:00Z
+  - -48000-01-01T00:00:00Z
+location: "[[_Standards/WikiData/WD~Eurasia,5401]]"
+end_time: -7700-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Lascaux%20painting.jpg
+Commons_category: Upper Paleolithic
 ---
 
 # [[Upper_Paleolithic]]
@@ -15,6 +26,7 @@ aliases:
 
 #has_/duration_/years :: `$=Math.round((Number(dv.current().has_time_stopped) - dv.current().has_time_started))` 
 #has_/duration_/ka :: `=number(this.has_time_stopped) - number(this.has_time_started)` 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Upper_Paleolithic,479505|WD~Upper_Paleolithic,479505]] 
 
 ## #has_/text_of_/abstract 
 
