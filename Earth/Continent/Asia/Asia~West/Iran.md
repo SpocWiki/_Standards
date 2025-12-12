@@ -534,13 +534,6 @@ Wolfram_Language_entity_code: Entity["Country", "Iran"]
 
 # [[Iran]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Iran,794|WD~Iran,794]]  
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Iran 
-
-[[Iran/ReadMe]] 
-
 [	ISO4217-currency_alphabetic	 :: IRR ]
 [	ISO4217-currency_name	 :: Iranian Rial ] 
 [	ISO4217-currency_numeric	 :: 364 ]
@@ -604,14 +597,18 @@ Sub-region_Name ::  [[Southern Asia]]
 
 [	ISO3166-1-numeric	 :: 364 ]
 
-
-
 [ISO2::IR]
 [ISO3::IRN] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Iran,794|WD~Iran,794]]  
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Iran 
+
+[[Iran/ReadMe]] 
+
+
 ## #has_/map  
-
-
 
 ```leaflet
 id: Iran
