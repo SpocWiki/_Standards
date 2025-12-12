@@ -1,65 +1,67 @@
 ---
+aliases:
+  - Uran
+has_id_wikidata: Q1098
 atomic_number: 92
-canonical_SMILES: '[U]'
+canonical_SMILES: "[U]"
 CAS_Registry_Number: 7440-61-1
 chemical_formula: U
 Commons_category: Uranium
 Commons_gallery: Uranium
-Common_Procurement_Vocabulary_code: 09341000
+Common_Procurement_Vocabulary_code: 9341000
 density: 19.05
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 Dewey_Decimal_Classification:
-- 546.431
-- 669.2931
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Eugène-Melchior_Péligot,903801]]'
+  - 546.431
+  - 669.2931
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Eugène-Melchior_Péligot,903801]]"
 DSSTOX_compound_identifier: DTXCID304373
 EC_number: 231-170-6
 electronegativity: 1.38
 element_symbol: U
-fabrication_method: '[[_Standards/WikiData/WD~uraninite,206467]]'
+fabrication_method: "[[_Standards/WikiData/WD~uraninite,206467]]"
 Gmelin_number: 16315
-has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
-has_id_wikidata: Q1098
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Uranium2.jpg"
+has_characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Uranium2.jpg
 InChI: InChI=1S/U
 InChIKey: JFALSRSLKYAFGM-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~radioactive_element,3658631]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~radioactive_element,3658631]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
-- 1
-- 0.45
-- 0.52
-- 0.73
-- 0.76
-- 0.86
-- 0.89
-- 1.03
-- 1.17
+  - 1
+  - 0.45
+  - 0.52
+  - 0.73
+  - 0.76
+  - 0.86
+  - 0.89
+  - 1.03
+  - 1.17
 Krugosvet_article: nauka_i_tehnika/himiya/URAN.html
 mass: 238.02891
 MeSH_tree_code:
-- D01.268.271.100.950
-- D01.268.556.900
-- D01.496.749.305.100.950
-- D01.552.020.940
-- D01.552.544.900
-named_after: '[[_Standards/WikiData/WD~Uranus,324]]'
+  - D01.268.271.100.950
+  - D01.268.556.900
+  - D01.496.749.305.100.950
+  - D01.552.020.940
+  - D01.552.544.900
+named_after: "[[_Standards/WikiData/WD~Uranus,324]]"
 OmegaWiki_Defined_Meaning: 3902
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20149.jpg"
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
+plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20149.jpg
 PubChem_CID: 23989
 RTECS_number: YR3490000
 SpocWebEntityId: 21987
 time_of_discovery_or_invention: 1789
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_uranium,8085707]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_uranium,8085707]]"
 type: Element
 UMLS_CUI: C0041928
 Unicode_character: 鈾
@@ -77,8 +79,6 @@ ZVG_number: 7920
 #chemic/Element 
 [GroupName::Actinide-Group]
 [Group:[[../Actinide]]
-
-
 
 [Name-en::Uranium]
 [Name-de::Uran]

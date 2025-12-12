@@ -587,7 +587,7 @@ Numbers are of 2022-06
 > The country is characterized by a wide range of both meteorologic and geological regions. 
 > It is a sparsely inhabited country of 40 million people, 
 > the vast majority residing south of the 55th parallel in urban areas. 
-> Canada's capital is [[Canada/provinces~Canada/Ontario/City/Ottawa|Ottawa]] and its three largest metropolitan areas are [[Canada/provinces~Canada/Ontario/City/Toronto|Toronto]], [[Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté|Montréal,Communauté]], and [[Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver|Vancouver]].
+> Canada's capital is [[Canada/provinces~Canada/Ontario/counties~Ontario/Ottawa|Ottawa]] and its three largest metropolitan areas are [[Canada/provinces~Canada/Ontario/counties~Ontario/Toronto|Toronto]], [[Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté|Montréal,Communauté]], and [[Canada/provinces~Canada/British_Columbia/counties~British_Columbia/Greater_Vancouver/cities~Greater_Vancouver/Vancouver|Vancouver]].
 >
 > Indigenous peoples have continuously inhabited what is now Canada for thousands of years. 
 > Beginning in the 16th century, British and French expeditions explored 
@@ -634,10 +634,10 @@ Major Cities with Population in 1000s as of @2021
 
 | City                                                                       | Province                                                       | Pop/k |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------- | ----: |
-| [[Canada/provinces~Canada/Ontario/City/Toronto\|Toronto]]                  | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |  2794 |
+| [[Canada/provinces~Canada/Ontario/counties~Ontario/Toronto\|Toronto]]                  | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |  2794 |
 | [[Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté\|Montreal]]        | [[Canada/provinces~Canada/Quebec,Province\|Quebec]]            |  1762 |
 | [[Canada/provinces~Canada/Alberta/City/Calgary\|Calgary]]                  | [[Canada/provinces~Canada/Alberta\|Alberta]]                   |  1306 |
-| [[Canada/provinces~Canada/Ontario/City/Ottawa\|Ottawa]]                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |  1017 |
+| [[Canada/provinces~Canada/Ontario/counties~Ontario/Ottawa\|Ottawa]]                    | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |  1017 |
 | [[Canada/provinces~Canada/Alberta/City/Edmonton\|Edmonton]]                | [[Canada/provinces~Canada/Alberta\|Alberta]]                   |  1010 |
 | [[Canada/provinces~Canada/Manitoba/City/Winnipeg\|Winnipeg]]               | [[Canada/provinces~Canada/Manitoba\|Manitoba]]                 |   749 |
 | Mississauga                                                                | [[Canada/provinces~Canada/Ontario\|Ontario]]                   |   717 |
