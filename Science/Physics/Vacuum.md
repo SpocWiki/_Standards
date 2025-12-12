@@ -25,6 +25,10 @@ subclass_of: '[[_Standards/WikiData/WD~abstract_entity,7048977]]'
 UMLS_CUI: C0042221
 ---
 
+# [[Vacuum]] 
+
+#is_/same_as :: [[../../WikiData/WD~Vacuum,11475|WD~Vacuum,11475]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Vacuum** (pl.: vacuums or vacua) is  space devoid of matter. 
