@@ -9,6 +9,7 @@ aliases:
   - Вьетнам
   - the Socialist Republic of Viet Nam
   - la República Socialista de Viet Nam
+has_id_wikidata: Q881
 anthem: "[[_Standards/WikiData/WD~Tiến_quân_ca,208016]]"
 area: 331690
 basic_form_of_government:
@@ -259,7 +260,6 @@ hashtag:
   - Việt_Nam
   - Vietnam
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-has_id_wikidata: Q881
 head_of_government: "[[_Standards/WikiData/WD~Phạm_Minh_Chính,10806940]]"
 head_of_state: "[[_Standards/WikiData/WD~Tô_Lâm,10831196]]"
 highest_point: "[[_Standards/WikiData/WD~Fansipan,123782]]"
@@ -519,12 +519,6 @@ WIPO_ST_3: VN
 
 # [[Vietnam]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Vietnam 
-
-[[Vietnam/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: VND ]
 [	ISO4217-currency_name	 :: Dong ]
 [	ISO4217-currency_numeric	 :: 704 ]
@@ -588,13 +582,17 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 [	ISO3166-1-numeric	 :: 704 ]
 
-
-
 [ISO2::VN]
 [ISO3::VNM] 
+#is_/same_as :: [[../../../../WikiData/WD~Vietnam,881|WD~Vietnam,881]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Vietnam 
+
+[[Vietnam/ReadMe]] 
+
 
 ## #has_/map  
-
 
 ```leaflet
 zoomFeatures: true 
