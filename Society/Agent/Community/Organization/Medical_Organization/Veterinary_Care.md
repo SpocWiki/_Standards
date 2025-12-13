@@ -25,6 +25,8 @@ title: is_a_veterinary_care Class
 type: Type
 ---
 
+# [[Veterinary_Care]] 
+
 Class of all veterinary_cares.
 
 Tag Instances like this: 

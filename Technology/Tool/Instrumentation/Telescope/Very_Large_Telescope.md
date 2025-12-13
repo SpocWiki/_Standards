@@ -1,0 +1,77 @@
+---
+aliases:
+has_id_wikidata: Q265628
+operator: "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
+has_part_s_of_the_class:
+  - "[[_Standards/WikiData/WD~altazimuth_mount,677971]]"
+  - "[[_Standards/WikiData/WD~Ritchey_Chrétien_telescope,1062138]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Cerro_Paranal,859718]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~VLT_Survey_Telescope,900375]]"
+  - "[[_Standards/WikiData/WD~Unit_Telescope,3550679]]"
+  - "[[_Standards/WikiData/WD~Very_Large_Telescope_Interferometer,3556304]]"
+  - "[[_Standards/WikiData/WD~Four_Laser_Guide_Star_Facility,24820708]]"
+  - "[[_Standards/WikiData/WD~Auxiliary_Telescope,107053788]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_observatory,1254933]]"
+part_of: "[[_Standards/WikiData/WD~Paranal_Observatory,10914152]]"
+country: "[[_Standards/WikiData/WD~Chile,298]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Antofagasta_Region,2118]]"
+angular_resolution: 0.002
+focal_length: 120
+diameter:
+  - 1.8
+  - 8.2
+observing_time_available: 320
+elevation_above_sea_level: 2636
+video:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/An%20evening%20time-lapse%20at%20Paranal.webm
+  - http://commons.wikimedia.org/wiki/Special:FilePath/A%20quartet%20of%20telescopes.ogv
+inception: 1998-01-01T00:00:00Z
+service_entry: 1998-05-25T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Paranal%20and%20the%20Pacific%20at%20sunset%20%28dsc4088%2C%20retouched%2C%20cropped%29.jpg
+official_website: https://www.eso.org/vlt
+P1015: "90986621"
+Commons_category: Very Large Telescope
+native_label: Very Large Telescope
+coordinate_location: Point(-70.404166666 -24.6275)
+---
+
+# [[Very_Large_Telescope]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Very_Large_Telescope,265628|WD~Very_Large_Telescope,265628]]  
+
+## #has_/text_of_/abstract 
+
+> The Very Large Telescope (VLT) is an astronomical facility 
+> operated since 1998 by the European Southern Observatory, 
+> located on Cerro Paranal in the Atacama Desert of northern Chile. 
+> 
+> It consists of four individual telescopes, 
+> each equipped with a primary mirror that measures 8.2 metres (27 ft) in diameter. 
+> 
+> These optical telescopes, named Antu, Kueyen, Melipal, and Yepun 
+> (all words for astronomical objects in the Mapuche language), 
+> are generally used separately 
+> but can be combined to achieve a very high angular resolution. 
+> The VLT array is also complemented by four movable Auxiliary Telescopes (ATs) 
+> with 1.8-metre (5.9 ft) apertures.
+>
+> The VLT is capable of observing both visible and infrared wavelengths. 
+> Each individual telescope can detect objects that are roughly 
+> four billion times fainter than what can be seen with the naked eye. 
+> 
+> When all the telescopes are combined, 
+> the facility can achieve an angular resolution of approximately 0.002 arcsecond. 
+> In single telescope mode, the angular resolution is about 0.05 arcseconds.
+>
+> The VLT is one of the most productive facilities for astronomy, 
+> second only to the Hubble Space Telescope in terms of the 
+> number of scientific papers produced from facilities operating at visible wavelengths. 
+> 
+> Some of the pioneering observations made using the VLT include 
+> the first direct image of an exoplanet, the tracking of 
+> stars orbiting around the supermassive black hole at the centre of the Milky Way, 
+> and observations of the afterglow of the furthest known gamma-ray burst.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Very%20Large%20Telescope) 
+
