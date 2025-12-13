@@ -22,7 +22,7 @@ Commons_category: Multivariate calculus
 > involving multiple variables (multivariate), rather than just one. 
 >
 > Multivariable calculus is an elementary part of calculus on Euclidean space. 
-> The special case of calculus in three dimensional space is often called vector calculus.
+> The special case of calculus in three dimensional space is often called [[Multivariable_Calculus/Vector_Calculus|Vector_Calculus]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Multivariable%20calculus) 
 
