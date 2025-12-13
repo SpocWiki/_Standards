@@ -28,6 +28,8 @@ type: Type
 
 # [[Video_Game]] 
 
+#is_/same_as :: [[../../../../../WikiData/WD~Video_game,7889|WD~Video_game,7889]]  
+
 Class of all video_games.
 
 Tag Instances like this: 
