@@ -19,7 +19,7 @@ Commons_category: Religious law
 > Examples of religiously derived legal codes include [[../../Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity|Christian]] canon law 
 > (applicable within a wider theological conception in the church, 
 > but in modern times distinct from secular state law), 
-> [[../../Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism|Jewish]] halakha, [[../../Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam|Islamic]] sharia, and [[../../Philosophy/Metaphysic/Religion/Indian_Religion/Hinduism|Hindu]] law. 
+> [[../../Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism|Jewish]] halakha, [[../../Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam|Islamic]] sharia, and [[../../Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism|Hindu]] law. 
 > 
 > In some jurisdictions, religious law may apply only to that religion's adherents; 
 > in others, it may be enforced by civil authorities for all residents.

@@ -1,23 +1,23 @@
 ---
 aliases:
   - vein
-  - vein
   - Vein
   - is_a_vein
+  - Vene
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - vein
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_a_vein Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class
