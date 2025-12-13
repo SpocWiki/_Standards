@@ -4,10 +4,13 @@ has_id_wikidata: Q35500
 
 # [[Aphrodite]] 
 
+#is_/similar_to :: [[../Roman_Mythology/Venus(Mythology)|Venus(Mythology)]] 
+#is_/similar_to :: [[../Mesopotamian_Mythology/Ishtar]]  
 #is_/same_as :: [[../../../../../../WikiData/WD~Aphrodite,35500|WD~Aphrodite,35500]] 
+
 ## #has_/text_of_/abstract 
 
-> **Aphrodite** ( , AF-rə-DY-tee) is an ancient Greek goddess 
+> **Aphrodite** (AF-rə-DY-tee) is an ancient Greek goddess 
 > associated with love, lust, beauty, pleasure, passion, procreation, 
 > and as her Roman counterpart Venus, desire, sex, fertility, prosperity, and victory. 
 > 

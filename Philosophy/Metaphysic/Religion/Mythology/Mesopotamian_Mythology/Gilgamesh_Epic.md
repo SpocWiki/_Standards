@@ -53,13 +53,60 @@ spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3
 
 ## #has_/text_of_/abstract 
 
-> The **Epic of Gilgamesh** () is an epic from ancient Mesopotamia. The literary history of Gilgamesh begins with five Sumerian poems about Gilgamesh (formerly read as Sumerian "Bilgames"), king of Uruk, some of which may date back to the Third Dynasty of Ur (c. 2100 BCE). These independent stories were later used as source material for a combined epic in Akkadian. The first surviving version of this combined epic, known as the "Old Babylonian" version, dates back to the 18th century BCE and is titled after its incipit, Shūtur eli sharrī ("Surpassing All Other Kings"). Only a few tablets of it have survived. The later Standard Babylonian version compiled by Sîn-lēqi-unninni dates to somewhere between the 13th to the 10th centuries BCE and bears the incipit Sha naqba īmuru ("He who Saw the Deep(s)", lit. '"He who Sees the Unknown"'). Approximately two-thirds of this longer, twelve-tablet version have been recovered. Some of the best copies were discovered in the library ruins of the 7th-century BCE Assyrian king Ashurbanipal.
+> The **Epic of Gilgamesh** is an epic from ancient Mesopotamia. 
+> 
+> The literary history of [[Gilgamesh]] begins with five Sumerian poems about Gilgamesh 
+> (formerly read as Sumerian "Bilgames"), king of Uruk, 
+> some of which may date back to the Third Dynasty of Ur (c. 2100 BCE). 
+> 
+> These independent stories were 
+> later used as source material for a combined epic in Akkadian. 
+> 
+> The first surviving version of this combined epic, 
+> known as the "Old Babylonian" version, dates back to the 18th century BCE 
+> and is titled after its incipit, Shūtur eli sharrī ("Surpassing All Other Kings"). 
+> 
+> Only a few tablets of it have survived. 
+> The later Standard Babylonian version compiled by Sîn-lēqi-unninni 
+> dates to somewhere between the 13th to the 10th centuries BCE 
+> and bears the incipit Sha naqba īmuru ("He who Saw the Deep(s)", 
+> lit. '"He who Sees the Unknown"'). 
+> 
+> Approximately two-thirds of this longer, twelve-tablet version have been recovered. 
+> Some of the best copies were discovered 
+> in the library ruins of the 7th-century BCE Assyrian king Ashurbanipal.
 >
-> The first half of the story discusses Gilgamesh (who was king of Uruk) and Enkidu, a wild man created by the gods to stop Gilgamesh from oppressing the people of Uruk. After Enkidu becomes civilized through sexual initiation with Shamhat, he travels to Uruk, where he challenges Gilgamesh to a test of strength. Gilgamesh wins the contest; nonetheless, the two become friends. Together, they make a six-day journey to the legendary Cedar Forest, where they ultimately slay its Guardian, Humbaba, and cut down the sacred Cedar. The goddess Ishtar sends the Bull of Heaven to punish Gilgamesh for spurning her advances. Gilgamesh and Enkidu kill the Bull of Heaven, insulting Ishtar in the process, after which the gods decide to sentence Enkidu to death and kill him by giving him a fatal illness.
+> The first half of the story discusses Gilgamesh (who was king of Uruk) 
+> and [[Enkidu]], a wild man created by the gods 
+> to stop Gilgamesh from oppressing the people of Uruk. 
+> 
+> After Enkidu becomes civilized through sexual initiation with Shamhat, 
+> he travels to Uruk, where he challenges Gilgamesh to a test of strength. 
+> Gilgamesh wins the contest; nonetheless, the two become friends. 
+> 
+> Together, they make a six-day journey to the legendary Cedar Forest, 
+> where they ultimately slay its Guardian, Humbaba, and cut down the sacred Cedar. 
+> 
+> The goddess Ishtar sends the Bull of Heaven 
+> to punish Gilgamesh for spurning her advances. 
+> Gilgamesh and Enkidu kill the Bull of Heaven, insulting Ishtar in the process, 
+> after which the gods decide to sentence Enkidu to death 
+> and kill him by giving him a fatal illness.
 >
-> In the second half of the epic, distress over Enkidu's death causes Gilgamesh to undertake a long and perilous journey to discover the secret of eternal life. Finally, he meets Utnapishtim, who with his wife were the only humans to survive the Flood triggered by the gods (cf. Athra-Hasis). Gilgamesh learns from him that "Life, which you look for, you will never find. For when the gods created man, they let death be his share, and life withheld in their own hands". 
+> In the second half of the epic, distress over Enkidu's death 
+> causes Gilgamesh to undertake a long and perilous journey 
+> to discover the secret of eternal life. 
+> 
+> Finally, he meets Utnapishtim, who with his wife were 
+> the only humans to survive the Flood triggered by the gods (cf. Athra-Hasis). 
+> Gilgamesh learns from him that "Life, which you look for, you will never find. 
+> For when the gods created man, they let death be his share, and life withheld in their own hands". 
 >
-> The epic is regarded as a foundational work in religion and the tradition of heroic sagas, with Gilgamesh forming the prototype for later heroes like Heracles (Hercules) and the epic itself serving as an influence for Homeric epics. It has been translated into many languages and is featured in several works of popular fiction.
+> The epic is regarded as a foundational work in religion and tradition of heroic sagas, 
+> with Gilgamesh forming the prototype for later heroes like Heracles (Hercules) 
+> and the epic itself serving as an influence for Homeric epics. 
+> 
+> It has been translated into many languages and is featured in several works of popular fiction.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Epic%20of%20Gilgamesh) 
 
