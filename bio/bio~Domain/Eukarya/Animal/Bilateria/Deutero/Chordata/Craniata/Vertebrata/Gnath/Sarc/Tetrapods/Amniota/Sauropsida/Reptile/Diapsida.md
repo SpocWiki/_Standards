@@ -10,7 +10,30 @@ Lizards, Sphenodon, crocodylians, birds, and their extinct relatives
 
 ## #has_/text_of_/abstract 
 
-> Diapsids ("two arches") are a clade of sauropsids, distinguished from more primitive eureptiles by the presence of two holes, known as temporal fenestrae, in each side of their skulls. The earliest traditionally identified diapsids, the araeoscelidians, appeared about three hundred million years ago during the late Carboniferous period. All diapsids other than the most primitive ones in the clade Araeoscelidia are often placed into the clade Neo**Diapsida**. The diapsids are extremely diverse, and include birds and all modern reptile groups, including turtles, which were historically thought to lie outside the group. All modern reptiles and birds are placed within the neodiapsid subclade Sauria. Although some diapsids have lost either one hole (lizards), or both holes (snakes and turtles), or have a heavily restructured skull (modern birds), they are still classified as diapsids based on their ancestry. At least 17,084 species of diapsid animals are extant: 9,159 birds, and 7,925 snakes, lizards, tuatara, turtles, and crocodiles.
+> Diapsids ("two arches") are a clade of sauropsids, 
+> distinguished from more primitive eureptiles by the presence of two holes, 
+> known as temporal fenestrae, in each side of their skulls. 
+> 
+> The earliest traditionally identified diapsids, the araeoscelidians, 
+> appeared about three hundred million years ago during the late Carboniferous period. 
+> 
+> All diapsids other than the most primitive ones in the clade Araeoscelidia 
+> are often placed into the clade Neo**Diapsida**. 
+> 
+> The diapsids are extremely diverse, and include birds 
+> and all modern reptile groups, including turtles, 
+> which were historically thought to lie outside the group. 
+> 
+> All modern reptiles and birds are placed within the neodiapsid subclade Sauria. 
+> 
+> Although some diapsids have lost either one hole (lizards), 
+> or both holes (snakes and turtles), 
+> or have a heavily restructured skull (modern birds), 
+> they are still classified as diapsids based on their ancestry. 
+> 
+> At least 17,084 species of diapsid animals are extant: 
+> - 9,159 birds, and 
+> - 7,925 snakes, lizards, tuatara, turtles, and crocodiles.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diapsid) 
 
