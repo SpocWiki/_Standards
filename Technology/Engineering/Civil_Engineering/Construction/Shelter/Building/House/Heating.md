@@ -26,7 +26,7 @@ studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
 
 |   % |                | Network |                                       |
 | --: | -------------- | ------: | ------------------------------------- |
-|  56 | Gas            |     15% | rising due to moving to [[Heat_Pump]] |
+|  56 | Gas            |     15% | rising due to moving to [[Heating/Heat_Pump]] |
 |  20 | Oil            |         |                                       |
 |  15 | remote Heating |         |                                       |
 |   4 | Heat Pump      |         |                                       |
