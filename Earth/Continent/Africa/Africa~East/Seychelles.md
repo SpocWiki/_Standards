@@ -381,13 +381,13 @@ zoomFeatures: true
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Seychelles//
-markerFolder: ./Seychelles//
+markerFolder: ./Seychelles/
 coordinates: [[Seychelles]] 
 markerFile: [[Seychelles]] 
 defaultZoom: 9 
 ```
 
-[name-en::Seychelles]
+[name-en::Seychelles] 
 [name-de::Seychellen]
 [Area-Total::454]
 [Area-Land::450]
