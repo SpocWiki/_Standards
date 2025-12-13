@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Speed
+  - Geschwindigkeit
+has_id_wikidata: Q11465
 Colon_Classification: C3:11
 Commons_category: Velocity
 defining_formula: |-
@@ -47,7 +51,6 @@ different_from:
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Pierre_Varignon,379219]]"
 followed_by: "[[_Standards/WikiData/WD~acceleration,11376]]"
 follows: "[[_Standards/WikiData/WD~displacement,190291]]"
-has_id_wikidata: Q11465
 has_part_s_:
   - "[[_Standards/WikiData/WD~orientation,2235286]]"
   - "[[_Standards/WikiData/WD~speed,3711325]]"
@@ -221,11 +224,11 @@ subclass_of:
   - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
   - "[[_Standards/WikiData/WD~vector_quantity,2672914]]"
   - "[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]"
-aliases:
-  - Speed
 ---
 
 # [[Velocity]] 
+
+#is_/same_as :: [[../../WikiData/WD~Velocity,11465|WD~Velocity,11465]] 
 
 [[Velocity]] is the Speed is the first Derivative 
 of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Dim~Time]]. 
