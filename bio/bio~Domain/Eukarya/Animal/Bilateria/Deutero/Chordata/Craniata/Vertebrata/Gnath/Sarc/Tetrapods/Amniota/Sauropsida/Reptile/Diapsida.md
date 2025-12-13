@@ -2,7 +2,7 @@
 title: Diapsida
 ---
 
-# [[Diapsida]]
+# [[Diapsida]] 
 
 Lizards, Sphenodon, crocodylians, birds, and their extinct relatives 
 
