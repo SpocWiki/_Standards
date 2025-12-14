@@ -3,6 +3,9 @@ aliases:
   - Vincent van Gogh
   - Vincent Willem van Gogh
   - van Gogh
+  - Gogh
+  - Vincent_van_Gogh
+has_id_wikidata: Q5582
 archives_at: "[[_Standards/WikiData/WD~Van_Gogh_Museum,224124]]"
 ArhivX_LOD: 40093
 artist_files_at:
@@ -54,7 +57,6 @@ given_name:
   - "[[_Standards/WikiData/WD~Willem,15282375]]"
 Google_Doodle: vincent-van-goghs-152nd-birthday
 hair_color: "[[_Standards/WikiData/WD~red_hair,152357]]"
-has_id_wikidata: Q5582
 has_works_in_the_collection:
   - "[[_Standards/WikiData/WD~São_Paulo_Museum_of_Art,82941]]"
   - "[[_Standards/WikiData/WD~Kunsthistorisches_Museum,95569]]"
@@ -306,6 +308,7 @@ writing_language: "[[_Standards/WikiData/WD~French,150]]"
 
 #has_/time_/started :: 1853-03-30 
 #has_/time_/started :: 1890-07-29 
+#is_/same_as :: [[../../../../../WikiData/WD~Vincent_van_Gogh,5582|WD~Vincent_van_Gogh,5582]] 
 
 ## #has_/text_of_/abstract 
 
