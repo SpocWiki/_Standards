@@ -470,7 +470,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Bolivia/ReadMe]] 
 
-
 ## #has_/map  
 
 ```leaflet
