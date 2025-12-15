@@ -37,7 +37,7 @@ Commons_category: Uyghur people
 
 # [[Uyghurs]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Uyghurs,46118|WD~Uyghurs,46118]]  
+#is_/same_as :: [[../../../../../../WikiData/WD~Uyghurs,46118|WD~Uyghurs,46118]]  
 
 ## #has_/text_of_/abstract 
 
