@@ -3,6 +3,39 @@ aliases:
   - Chemical_engineering
   - Chemical engineering
 has_id_wikidata: Q83588
+uses: "[[_Standards/WikiData/WD~unit_operations_of_Chemical_Engineering,1420676]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~process_engineering,2144042]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_chemical_engineering,2900601]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~branch_of_engineering,12015335]]"
+  - "[[_Standards/WikiData/WD~applied_science,28797]]"
+practiced_by:
+  - "[[_Standards/WikiData/WD~chemical_technologist,5090503]]"
+  - "[[_Standards/WikiData/WD~chemical_engineer,7888586]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Chemical_engineering,6872011]]"
+  - "[[_Standards/WikiData/WD~Template_Chemical_eng,11427155]]"
+subclass_of: "[[_Standards/WikiData/WD~engineering,11023]]"
+OmegaWiki_Defined_Meaning: "542"
+Dewey_Decimal_Classification: "660"
+P10203:
+  - "1501"
+  - "1500"
+ISCO_88_occupation_class: "8131"
+U_S_National_Archives_Identifier: "10640211"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Colonne%20distillazione.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Chemengg.jpg
+Commons_category: Chemical engineering
+Stack_Exchange_tag: https://engineering.stackexchange.com/tags/chemical-engineering
+UMLS_CUI: C0007980
+GitHub_topic: chemical-engineering
+subreddit: ChemicalEngineering
+MeSH_tree_code: J01.293.257
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95%20%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%80.wav
 ---
 
 # [[Chemical_Engineering]] 

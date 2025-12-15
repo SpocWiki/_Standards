@@ -41,7 +41,7 @@ MeSH_tree_code: F02.463.593
 
 # [[Perception]] 
 
-#is_/same_as :: [[WD~Perception,160402]] 
+#is_/same_as :: [[../../../WikiData/WD~Perception,160402|WD~Perception,160402]]  
 
 ## #has_/text_of_/abstract 
 

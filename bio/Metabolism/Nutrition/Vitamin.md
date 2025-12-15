@@ -1,9 +1,55 @@
+---
+aliases:
+  - vitamer
+has_id_wikidata: Q34956
+named_after:
+  - "[[_Standards/WikiData/WD~amine,167198]]"
+  - "[[_Standards/WikiData/WD~life,3]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~organic_compound,174211]]"
+  - "[[_Standards/WikiData/WD~nutrient,181394]]"
+  - "[[_Standards/WikiData/WD~micronutrient,531507]]"
+opposite_of: "[[_Standards/WikiData/WD~antivitamin,410918]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Vitamins,5912294]]"
+  - "[[_Standards/WikiData/WD~Q25738602,25738602]]"
+depicted_by: "[[_Standards/WikiData/WD~Vitamine,15987487]]"
+studied_by:
+  - "[[_Standards/WikiData/WD~Q25504439,25504439]]"
+  - "[[_Standards/WikiData/WD~vitaminology,127270670]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]"
+  - "[[_Standards/WikiData/WD~nutrient_group,136908428]]"
+named_by: "[[_Standards/WikiData/WD~Casimir_Funk,28738]]"
+OmegaWiki_Defined_Meaning: "3973"
+Commons_gallery: Vitamin
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Crystals%20of%20vitamin%20C.jpg
+CAS_Registry_Number: 308080-82-2
+MeSH_tree_code:
+  - D27.505.696.494.600
+  - G07.203.300.681.500.600
+  - J02.500.681.500.600
+Krugosvet_article_archived_: nauka_i_tehnika/biologiya/VITAMINI.html
+Commons_category: Vitamins
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Vitamin2.ogg
+Dewey_Decimal_Classification: "572.58"
+---
+
+# [[Vitamin]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Vitamin,34956|WD~Vitamin,34956]] 
 
 Vitamin C has been discovered by [[Lind,James]] in 1747 to prevent [[Vitamin/Scurvy]]. 
-Since Lemons were too expensive and perishable, 1770 [[../../../Earth/Explorer/Early_modern_Explorer/Cook,James|James Cook]] introduced Sauerkraut that was conserved 
+Since Lemons were too expensive and perishable, 
+1770 [[../../../Earth/Explorer/Early_modern_Explorer/Cook,James|James Cook]] introduced Sauerkraut that was conserved 
 1881 Nikolai Lunin (scientist) discovered the existence of vitamins. 
 1897 Christian Eichmann of the Dutch East India Company 
 [[Funk,Casimir]] formulated the idea of Vitamins. 
+
+## #has_/text_of_/abstract  
 
 > **Vitamin**s are organic molecules (or a set of closely related molecules called vitamers) 
 > that are essential to an organism in small quantities for proper metabolic function. 
@@ -129,4 +175,3 @@ NRV = Nährstoffbezugswerte für die tägliche Zufuhr gemäß Lebensmittelinform
 ### #is_/same_as :: [Vitamin.personal](/_personal/bio/Metabolism/Nutrition/Vitamin.personal.md) 
 
 ### #is_/same_as :: [Vitamin.secret](/_secret/bio/Metabolism/Nutrition/Vitamin.secret.md)
-

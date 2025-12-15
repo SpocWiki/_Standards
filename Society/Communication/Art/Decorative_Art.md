@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Applied arts
 has_id_wikidata: Q631931
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~applied_arts,207241]]"
 opposite_of: "[[_Standards/WikiData/WD~fine_art,219625]]"
@@ -23,6 +24,7 @@ Commons_category: Decorative arts
 
 # [[Decorative_Art]] 
 
+#is_/different_from :: [[Fine_Arts]] 
 #is_/same_as :: [[_Standards/WikiData/WD~decorative_art,631931]] 
 
 ## #has_/text_of_/abstract 
