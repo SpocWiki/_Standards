@@ -31,7 +31,7 @@ Commons_category: Sarmatians
 
 # [[Sarmatians]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Sarmatians,162858|WD~Sarmatians,162858]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Sarmatians,162858|WD~Sarmatians,162858]] 
 
 ## #has_/text_of_/abstract 
 

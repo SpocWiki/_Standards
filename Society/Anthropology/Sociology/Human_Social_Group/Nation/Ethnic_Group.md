@@ -51,7 +51,7 @@ MeSH_tree_code:
 
 # [[Ethnic_Group]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Ethnic_group,41710|WD~Ethnic_group,41710]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Ethnic_group,41710|WD~Ethnic_group,41710]] 
 
 ## #has_/text_of_/abstract 
 

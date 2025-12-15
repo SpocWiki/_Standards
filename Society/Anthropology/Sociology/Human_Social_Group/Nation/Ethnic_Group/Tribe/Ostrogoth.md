@@ -19,7 +19,7 @@ Commons_category: Ostrogoths
 
 # [[Ostrogoth]] 
 
-#is_/same_as :: [[WD~Ostrogoths,103122]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Ostrogoths,103122|WD~Ostrogoths,103122]]  
 
 ## #has_/text_of_/abstract 
 
