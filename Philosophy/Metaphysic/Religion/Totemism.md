@@ -28,7 +28,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TOTEMIZM.html
 > or symbol that serves as an emblem of a group of people, such as a 
 > family, clan, lineage, or tribe, such as in the Anishinaabe clan system.
 >
-> While the word totem itself is an anglicisation of the [[../../../Society/Culture/Ethnic_Group/Ojibwe]] term 
+> While the word totem itself is an anglicisation of the [[../../../Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe]] term 
 > (and both the word and beliefs associated with it are part of the Ojibwe culture), 
 > belief in tutelary spirits and deities is not limited to the Ojibwe people. 
 > 

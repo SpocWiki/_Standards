@@ -21,7 +21,7 @@ Krugosvet_article_archived_: istoriya/MAVRI.html
 
 # [[Moor]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Moors,169260|WD~Moors,169260]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Moors,169260|WD~Moors,169260]] 
 
 ## #has_/text_of_/abstract 
 

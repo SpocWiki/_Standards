@@ -37,7 +37,7 @@ Commons_category: San people
 
 # [[San_People]] 
 
-#is_/same_as :: [[../../../WikiData/WD~San_people,172365|WD~San_people,172365]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~San_people,172365|WD~San_people,172365]] 
 
 ## #has_/text_of_/abstract 
 

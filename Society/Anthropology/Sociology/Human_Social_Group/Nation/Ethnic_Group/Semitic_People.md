@@ -22,7 +22,7 @@ Commons_category: Semitic peoples
 
 # [[Semitic_People]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Semitic_people,62928|WD~Semitic_people,62928]]  
+#is_/same_as :: [[../../../../../../WikiData/WD~Semitic_people,62928|WD~Semitic_people,62928]]  
 
 ## #has_/text_of_/abstract 
 

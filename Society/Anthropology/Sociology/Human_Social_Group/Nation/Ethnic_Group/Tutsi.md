@@ -28,7 +28,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Chifu%20Kaware%20safar
 
 # [[Tutsi]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Tutsi,193092|WD~Tutsi,193092]]  
+#is_/same_as :: [[../../../../../../WikiData/WD~Tutsi,193092|WD~Tutsi,193092]]  
 
 ## #has_/text_of_/abstract 
 

@@ -17,7 +17,7 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: 
+expiryDate:
 has_sub_classes:
   - "[[./Class/is_a_/action|Action]]"
   - "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]"
@@ -36,19 +36,24 @@ isReadOnly: false
 keywords:
   - thing
 lang: en
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_a_thing Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - schema-org/Class
   - class/Class
 title: is_a_thing Class
 type: Type
+has_id_wikidata: Q35120
 ---
 
-# Things/Entities/Resources/Instances 
+# [[Thing]]s/Entities/Objects/Instances/Resources 
+
+#is_/same_as :: [[WD~Entity,35120]]
+
+Every Class is a subclass of [[Thing]]. 
 
 The Class of all things. Everything you can think about is a 'thing'. 
 AKA AnyThing, EveryThing, SomeThing 
@@ -64,8 +69,8 @@ as the [[is_sub_class_of|subclass-of]] Relation allows to infer many other Class
 (but not all! A Thing may be an instance of multiple disjoint Class Hierarchies). 
 
 Tagging Instances like this is futile, because it is implied: 
-#is_a_/thing 
 
+#is_a_/thing 
 #is_a_/class  
 
 Don't used this Class in a Relation, because it is too vague. Rather use 
