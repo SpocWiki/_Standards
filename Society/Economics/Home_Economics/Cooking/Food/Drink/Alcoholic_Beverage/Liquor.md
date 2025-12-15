@@ -1,5 +1,10 @@
 ---
 aliases:
+  - hard liquor
+  - spirits
+  - distilled spirits
+  - spiritous liquor
+  - Branntwein
 has_id_wikidata: Q56139
 different_from:
   - "[[_Standards/WikiData/WD~liqueur,178780]]"

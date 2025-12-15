@@ -17,7 +17,8 @@ OpenStreetMap_tag_or_key: Tag:geological=volcanic_caldera_rim
 
 # [[Caldera]] 
 
-#is_/same_as :: [[../../WikiData/WD~Caldera,159954|WD~Caldera,159954]] 
+#is_/same_as :: [[../../../../WikiData/WD~Caldera,159954|WD~Caldera,159954]] 
+#is_/similar_to :: [[Landform/Volcano/Volcanic_Crater|Volcanic_Crater]] 
 
 ## #has_/text_of_/abstract 
 
