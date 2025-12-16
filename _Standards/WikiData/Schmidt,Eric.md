@@ -96,7 +96,7 @@ Plex_person_key: 5d7769d4594b2b001e6ab46a
 > and the company's executive chairman from 2011 to 2015. 
 > 
 > He also was the executive chairman of parent company 
-> [[../../Society/Economics/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc|Alphabet Inc]]. from 2015 to 2017, 
+> [[../../Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc|Alphabet Inc]]. from 2015 to 2017, 
 > and technical advisor at Alphabet from 2017 to 2020. 
 > 
 > Since 2025, he has been the CEO of Relativity Space, 

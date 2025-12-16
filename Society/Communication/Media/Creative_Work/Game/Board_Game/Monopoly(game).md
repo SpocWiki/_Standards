@@ -62,7 +62,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Monopoly%20board%20on%
 
 # [[Monopoly(game)]] 
 
-#is_/different_from :: [[../../../../../Economics/Trade/Market/Monopoly|Monopoly]]  
+#is_/different_from :: [[../../../../../Economics/Economic_Activity/Trade/Market/Monopoly|Monopoly]]  
 #is_/same_as :: [[../../../../../../WikiData/WD~Monopoly,17243|WD~Monopoly,17243]] 
 
 ## #has_/text_of_/abstract 
