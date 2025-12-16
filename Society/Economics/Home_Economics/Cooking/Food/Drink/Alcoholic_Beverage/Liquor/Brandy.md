@@ -8,7 +8,7 @@ has_id_wikidata: Q146470
 
 # [[Brandy]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Brandy,146470|WD~Brandy,146470]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Brandy,146470|WD~Brandy,146470]] 
 
 ## #has_/text_of_/abstract 
 

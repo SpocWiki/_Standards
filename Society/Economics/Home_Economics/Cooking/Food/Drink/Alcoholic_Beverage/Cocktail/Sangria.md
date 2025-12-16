@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Clericó
 has_id_wikidata: Q273296
 has_part_s_:
   - "[[_Standards/WikiData/WD~soft_drink,147538]]"
@@ -21,7 +22,7 @@ native_label: Sangría
 
 # [[Sangria]] 
 
-#is_/same_as :: [[WD~Sangria,273296]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Sangria,273296|WD~Sangria,273296]] 
 
 ## #has_/text_of_/abstract 
 
@@ -36,6 +37,7 @@ native_label: Sangría
 >
 > Sangria is very popular among foreign tourists in Spain 
 > even if locals do not consume the beverage too often. 
+> 
 > It is commonly served in bars, restaurants, and chiringuitos 
 > and at festivities throughout Portugal and Spain.
 >
