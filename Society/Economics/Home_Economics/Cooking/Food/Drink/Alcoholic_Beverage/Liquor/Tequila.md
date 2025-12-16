@@ -22,7 +22,7 @@ OmegaWiki_Defined_Meaning: "490269"
 
 # [[Tequila]]
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Tequila,122195|WD~Tequila,122195]]  
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Tequila,122195|WD~Tequila,122195]]  
 
 ## #has_/text_of_/abstract 
 

@@ -32,7 +32,7 @@ Krugosvet_article: tekhnologiya-i-promyshlennost/viski
 
 # [[Whisky]]
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Whisky,281|WD~Whisky,281]]
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Whisky,281|WD~Whisky,281]]
 
 
 ## #has_/text_of_/abstract 
