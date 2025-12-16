@@ -10,7 +10,7 @@ aliases:
 
 > In mathematics, a **unary function** is a function that takes one argument. 
 > A unary operator belongs to a subset of unary functions, 
-> in that its codomain coincides with its domain. 
+> in that its **codomain coincides with its domain**. 
 > 
 > In contrast, a unary function's domain need not coincide with its range.
 >

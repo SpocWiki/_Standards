@@ -160,9 +160,10 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/POPPER_KARL_RAMUND.ht
 PhilPapers_topic: karl-popper
 ---
 
-# [[Karl_Popper]] 
+# [[Popper,Karl]] 
 
 #is_/same_as :: [[WD~Karl_Popper,81244]] 
+#has_/created_/quote :: Optimismus ist die einzig vernünftige Alternative 
 
 ## #has_/text_of_/abstract 
 

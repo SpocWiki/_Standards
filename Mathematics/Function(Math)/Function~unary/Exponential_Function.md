@@ -7,6 +7,7 @@ has_id_wikidata: Q168698
 # [[Exponential_Function]] 
 
 #is_/inverse_of :: [[Natural_Logarithm]] 
+#is_/instance_of :: [[../Operator~binary/Exponentiation|Exponentiation]]  
 #is_/same_as :: [[../../../WikiData/WD~Exponential_function,168698|WD~Exponential_function,168698]] 
 
 ## #has_/text_of_/abstract 

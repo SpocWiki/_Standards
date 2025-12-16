@@ -25,9 +25,19 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Conformal%20ma
 > and locally equal to its own Taylor series (is analytic). 
 > Holomorphic functions are the central objects of study in complex analysis.
 >
-> Though the term analytic function is often used interchangeably with "holomorphic function", the word "analytic" is defined in a broader sense to denote any function (real, complex, or of more general type) that can be written as a convergent power series in a neighbourhood of each point in its domain. That all holomorphic functions are complex analytic functions, and vice versa, is a major theorem in complex analysis.
+> Though the term analytic function is often used interchangeably with "holomorphic function", 
+> the word **"analytic" is defined in a broader sense** to denote 
+> any function (real, complex, or of more general type) that can be written as a 
+> convergent power series in a neighbourhood of each point in its domain. 
+> 
+> That **all holomorphic functions are complex analytic functions, and vice versa**, 
+> is a major theorem in complex analysis.
 >
-> Holomorphic functions are also sometimes referred to as regular functions. A holomorphic function whose domain is the whole complex plane is called an entire function. The phrase "holomorphic at a point z0" means not just differentiable at ⁠z0⁠, 
+> Holomorphic functions are also sometimes referred to as regular functions. 
+> A holomorphic function whose domain is the whole complex plane 
+> is called an entire function. 
+> 
+> The phrase "holomorphic at a point z0" means not just differentiable at ⁠z0⁠, 
 > but differentiable everywhere within some close neighbourhood of ⁠z0⁠ in the complex plane.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Holomorphic%20function) 
