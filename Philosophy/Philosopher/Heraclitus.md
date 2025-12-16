@@ -72,6 +72,8 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/GERAKLIT.html
 # [[Heraclitus]] 
 
 #is_/same_as :: [[WD~Heraclitus,41155]] 
+#has_/created_/quote :: pánta rheî, everything flows 
+
 
 ## #has_/text_of_/abstract 
 

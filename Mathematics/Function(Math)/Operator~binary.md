@@ -1,16 +1,27 @@
 ---
 aliases:
   - binary Operator
-  - binary operation 
+  - binary operation
   - dyadic operation
+has_id_wikidata: Q30242895
+manifestation_of: "[[_Standards/WikiData/WD~binary_operation,164307]]"
+used_by: "[[_Standards/WikiData/WD~binary_operation,164307]]"
+subclass_of: "[[_Standards/WikiData/WD~operator,3354588]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+instance_of: "[[_Standards/WikiData/WD~group_of_2,135268494]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Basic%20arithmetic%20operators.svg
+Commons_category: Symbols for binary operations
 ---
 
 # [[Operator~binary]] 
 
 #is_a_ :: [[Function~binary]] 
 
-op: D x D => D  is a ternary homogenous Relation or a **binary Function in D**.
-Binary Operators allow for a convenient infix Notation:  op(a, b) = a op b 
+#is_/same_as :: [[_Standards/WikiData/WD~binary_operator,30242895]] 
+
+op: D x D => D  is a **ternary homogenous Relation** or a **binary Function in D**.
+Binary Operators allow for a **convenient infix Notation**:  op(a, b) = a op b 
+
 ## #has_/text_of_/abstract 
 
 > In mathematics, a binary operation or dyadic operation is a rule for 
@@ -18,9 +29,11 @@ Binary Operators allow for a convenient infix Notation:  op(a, b) = a op b
 > More formally, a binary operation is an operation of arity two.
 >
 > More specifically, a binary operation on a set is a binary function 
-> that maps every pair of elements of the set to an element of the set. 
+> that maps every pair of elements of the set to an element of the same set. 
 > 
-> Examples include the familiar arithmetic operations like addition, subtraction, multiplication, set operations like union, complement, intersection. 
+> Examples include the familiar 
+> - arithmetic operations like addition, subtraction, multiplication, 
+> - set operations like union, complement, intersection. 
 > 
 > Other examples are readily found in different areas of mathematics, such as 
 > - vector addition, 

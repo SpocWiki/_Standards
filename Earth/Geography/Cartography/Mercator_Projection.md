@@ -35,7 +35,7 @@ Commons_category: Mercator projection
 
 ## #has_/text_of_/abstract 
 
-> The Mercator projection is a conformal cylindrical map projection 
+> The Mercator projection is a [[../../../Mathematics/Function(Math)/smooth_Function/conformal_Map]] cylindrical projection 
 > first presented by Flemish geographer and mapmaker Gerardus Mercator in 1569. 
 > 
 > In the 18th century, it became the standard map projection for navigation 

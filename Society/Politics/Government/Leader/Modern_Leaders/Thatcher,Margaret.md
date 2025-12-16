@@ -5,6 +5,7 @@ aliases:
   - Margaret Thatcher
   - Margaret Hilda Roberts
   - Thatcher
+  - Iron Lady
 has_id_wikidata: Q7416
 political_alignment: "[[_Standards/WikiData/WD~right_wing,76074]]"
 occupation:
@@ -149,8 +150,9 @@ Krugosvet_article_archived_: istoriya/TETCHER_MARGARET_HILDA.html
 birth_name: Margaret Hilda Roberts
 ---
 
-# [[Margaret_Thatcher]] 
+# [[Thatcher,Margaret]] 
 
+#has_/created_/quote :: There is no Alternative 
 #is_/same_as :: [[WD~Margaret_Thatcher,7416]] 
 
 ## #has_/text_of_/abstract 

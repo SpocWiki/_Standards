@@ -19,7 +19,8 @@ Commons_category: Neoliberalism
 # [[Neoliberalism]] 
 
 #has_/previous_/item :: [[Keynesianism]] 
-#is_/same_as :: [[WD~Neoliberalism,162719]]
+#is_/same_as :: [[WD~Neoliberalism,162719]] 
+#see :: [[../../Politics/Government/Leader/Modern_Leaders/Thatcher,Margaret|Margaret_Thatcher]] 
 
 Since 1982, [[Forbes_Magazine]] unashamedly publishes the List of the richest People in the USA. 
 After the [[../../Knowledge/Economy/1973_oil_crisis]] and the [[Stagflation]] of the 1970s, 
