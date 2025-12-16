@@ -35,14 +35,14 @@ Commons_category: Mercator projection
 
 ## #has_/text_of_/abstract 
 
-> The Mercator projection is a [[../../../Mathematics/Function(Math)/smooth_Function/conformal_Map]] cylindrical projection 
+> The Mercator projection is a [[../../../Mathematics/Function(Math)/smooth_Function/conformal_Map|conformal_Map]] cylindrical projection 
 > first presented by Flemish geographer and mapmaker Gerardus Mercator in 1569. 
 > 
 > In the 18th century, it became the standard map projection for navigation 
 > due to its property of representing rhumb lines as straight lines. 
 > 
 > When applied to world maps, the Mercator projection 
-> inflates the size of lands the farther they are from the equator. 
+> **inflates the size of lands the farther they are from the equator**. 
 > 
 > Therefore, landmasses such as Greenland and Antarctica 
 > appear far larger than they actually are relative to landmasses near the equator. 
@@ -51,4 +51,12 @@ Commons_category: Mercator projection
 > it is well suited for internet web maps.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mercator%20projection) 
+
+Conformality was achieved by scaling the y-Coordinates by 1/cos(x,y). 
+This Conformality allows sailors to set a constant Direction for navigating to a remote Place. 
+This constant Direction is easy to keep when compared to a Compass, 
+but it yields a [rhumb](https://en.wikipedia.org/wiki/Rhumb_line "Rhumb line") (AKA rhumb line or loxodrome), 
+instead of the shorter [[../../../Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle|Great_Circle]]. 
+
+Neither Lines nor Areas are preserved, e.g. Greenland looks the same Area as Africa, which is 10 times exaggerated. 
 

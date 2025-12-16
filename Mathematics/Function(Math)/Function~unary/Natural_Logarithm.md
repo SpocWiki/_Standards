@@ -30,7 +30,7 @@ power_series_expansion: <math class="mwe-math-element mwe-math-element-inline" x
 
 #is_/inverse_of :: [[../Function~unary/Exponential_Function]] 
 #is_/same_as :: [[wd~Natural_Logarithm,204037]] 
-#is_/instance_of :: [[../Operator~binary/Logarithm|Logarithm]] 
+#is_/instance_of :: [[../Function~binary/Operator~binary/Logarithm|Logarithm]] 
 
 ## #has_/text_of_/abstract 
 
