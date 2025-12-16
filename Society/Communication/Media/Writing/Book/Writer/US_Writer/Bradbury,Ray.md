@@ -150,6 +150,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/BREDBERI_RE_DUGLAS
 > - The [[Martian_Chronicles]] (1950), 
 > - The Illustrated Man (1951), and 
 > - The October Country (1955). 
+> 
 > Other notable works include 
 > - the coming of age novel Dandelion Wine (1957), 
 > - the dark fantasy Something Wicked This Way Comes (1962) and 

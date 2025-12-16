@@ -1,3 +1,3 @@
 
-#is_/same_as :: [[../../Society/Economics/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc]] 
+#is_/same_as :: [[../../Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc]] 
 
