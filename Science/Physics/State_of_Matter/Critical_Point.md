@@ -1,6 +1,8 @@
 ---
 aliases:
   - kritischer Punkt
+  - critical point 
+  - critical state
 has_id_wikidata: Q111059
 subclass_of: "[[_Standards/WikiData/WD~thermodynamic_state,230875]]"
 different_from: "[[_Standards/WikiData/WD~critical_point,577705]]"

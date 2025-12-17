@@ -1,0 +1,54 @@
+---
+aliases:
+has_id_wikidata: Q274153
+has_use: "[[_Standards/WikiData/WD~water_supply,1061108]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~technical_monument,1516537]]"
+  - "[[_Standards/WikiData/WD~water_storage,7973769]]"
+  - "[[_Standards/WikiData/WD~tower,12518]]"
+has_part_s_: "[[_Standards/WikiData/WD~water_tank,6501028]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q59078986,59078986]]"
+Nomenclature_for_Museum_Cataloging: "797"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Roihuvuori%20water%20tower%20-%20Helsinki%20Finland.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Melbourne%20Water%20Tower%20%28Florida%29%201.jpg
+Commons_category: Water towers
+equivalent_class: http://dbpedia.org/ontology/WaterTower
+exact_match:
+  - http://wordnet-rdf.princeton.edu/wn30/04562935-n
+  - http://wordnet-rdf.princeton.edu/wn31/104495074-n
+P2167: "30222204"
+Iconclass_notation: "44E11"
+Commons_gallery: Water tower
+OpenStreetMap_tag:
+  - building=water_tower
+  - man_made=water_tower
+Dewey_Decimal_Classification: "628.13"
+---
+
+# [[Water_Tower]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Water_tower,274153|WD~Water_tower,274153]]  
+
+## #has_/text_of_/abstract 
+
+> A water tower is an elevated structure supporting a water tank 
+> constructed at a height sufficient 
+> to pressurize a distribution system for potable water, 
+> and to provide emergency storage for fire protection. 
+> 
+> Water towers often operate in conjunction with 
+> underground or surface service reservoirs, 
+> which store treated water close to where it will be used. 
+> 
+> Other types of water towers may only store raw (non-potable) water 
+> for fire protection or industrial purposes, 
+> and may not necessarily be connected to a public water supply.
+>
+> Water towers are able to supply water even during power outages, because they rely on hydrostatic pressure produced by elevation of water (due to gravity) to push the water into domestic and industrial water distribution systems; however, they cannot supply the water for a long time without power, because a pump is typically required to refill the tower. A water tower also serves as a reservoir to help with water needs during peak usage times. The water level in the tower typically falls during the peak usage hours of the day, and then a pump fills it back up during the night. This process also keeps the water from freezing in cold weather, since the tower is constantly being drained and refilled.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Water%20tower) 
+
