@@ -4,6 +4,7 @@ aliases:
   - household appliance
   - Haushaltsgerät
   - Haushaltsgeräte
+  - home appliance
 has_id_wikidata: Q212920
 subclass_of:
   - "[[_Standards/WikiData/WD~appliance,1183543]]"

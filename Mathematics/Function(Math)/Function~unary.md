@@ -6,6 +6,7 @@ aliases:
 
 # [[Function~unary]] 
 
+
 ## #has_/text_of_/abstract 
 
 > In mathematics, a **unary function** is a function that takes one argument. 
