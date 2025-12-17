@@ -27,7 +27,7 @@ Commons_category: Galleys (ship)
 
 # [[Galley]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Galley,188924|WD~Galley,188924]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Galley,188924|WD~Galley,188924]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,7 +1,7 @@
 
 # [[Trireme]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Trireme,208420|WD~Trireme,208420]]  
+#is_/same_as :: [[../../../../../../WikiData/WD~Trireme,208420|WD~Trireme,208420]]  
 
 ## #has_/text_of_/abstract 
 

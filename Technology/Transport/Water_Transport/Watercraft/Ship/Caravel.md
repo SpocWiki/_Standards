@@ -13,7 +13,7 @@ Commons_category: Caravels
 
 # [[Caravel]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Caravel,169560|WD~Caravel,169560]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Caravel,169560|WD~Caravel,169560]] 
 
 ## #has_/text_of_/abstract 
 

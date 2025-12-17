@@ -23,7 +23,7 @@ Dewey_Decimal_Classification: "387.245"
 
 # [[Tanker(Ship)]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Tanker,14970|WD~Tanker,14970]]  
+#is_/same_as :: [[../../../../../WikiData/WD~Tanker,14970|WD~Tanker,14970]]  
 
 ## #has_/text_of_/abstract 
 

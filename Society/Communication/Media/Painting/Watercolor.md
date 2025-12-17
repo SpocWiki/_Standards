@@ -1,0 +1,70 @@
+---
+aliases:
+  - watercolour
+  - aquarelle
+  - Aquarell
+has_id_wikidata: Q50030
+made_from_material:
+  - "[[_Standards/WikiData/WD~pigment,161179]]"
+  - "[[_Standards/WikiData/WD~gum_arabic_solution,3046705]]"
+  - "[[_Standards/WikiData/WD~watercolor_paint,3374389]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Technical_Encyclopedia,4456818]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Diccionario_de_materias_y_técnicas_(II),24090568]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~painting_technique,1231896]]"
+  - "[[_Standards/WikiData/WD~painting_material,3300034]]"
+subclass_of: "[[_Standards/WikiData/WD~art_of_drawing,2921001]]"
+different_from:
+  - "[[_Standards/WikiData/WD~watercolor_paint,3374389]]"
+  - "[[_Standards/WikiData/WD~watercolor_painting,18761202]]"
+practiced_by: "[[_Standards/WikiData/WD~watercolorist,17505902]]"
+product_or_material_produced: "[[_Standards/WikiData/WD~watercolor_painting,18761202]]"
+OmegaWiki_Defined_Meaning: "1140793"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Dolceacqua43%20-%20Artista%20locale%20mentre%20dipinge%20un%20acquarello.jpg
+Artsy_gene: watercolor
+Europeana_entity: concept/base/221
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteur%20Journ%C3%A9e%202%20-%2027%20%28Madehub%29-aquarelle.wav
+P2167:
+  - "60121221"
+  - "60121223"
+Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/AKVAREL.html
+Commons_category: Water color
+Dewey_Decimal_Classification: "751.422"
+---
+
+# [[Watercolor]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Watercolor,50030|WD~Watercolor,50030]] 
+
+## #has_/text_of_/abstract 
+
+> **Watercolor** (American English) or watercolour (Commonwealth English), also aquarelle 
+> (French: [akwaʁɛl]; from Italian diminutive of Latin aqua 'water'), 
+> is a painting method in which the paints are made of 
+> pigments suspended in a water-based solution. 
+> 
+> Watercolor refers to both the medium and the resulting artwork. 
+>
+> The conventional and most common support—material to which the paint is applied—
+> for watercolor paintings is paper, usually special types of watercolor paper. 
+> 
+> Other supports or substrates include stone, ivory, silk, reed, papyrus, 
+> bark papers, plastics, vellum, leather, fabric, wood, and watercolor canvas 
+> (coated with a gesso that is specially formulated for use with watercolors). 
+> 
+> Watercolor paper is often made entirely or partially with cotton. 
+> This gives the surface the appropriate texture and minimizes distortion when wet. Watercolor papers are usually cold-pressed papers that provide better texture and appearance. Transparency is the main characteristic of watercolors. "It consists of a mixture of pigments, binders such as gum arabic and humectants such as glycerin, which together with other components, allow the color pigment to join and form the paint paste, which we know as watercolor. With regard to the colors, the quality of the pigments and their degree of concentration, it is what determines how good the watercolor is and also its price. A paint that has a high concentration of pigment, professional type, allows us to use it with a large amount of water without losing the intensity of color." Watercolors can also be made opaque by adding Chinese white. In the 19th century this could be controversial, and not regarded as "true watercolor" in the English tradition, but by about 1880 this dispute was over.
+>
+> Watercolor paint is an ancient form of painting, if not the most ancient form of art itself. In East Asia, watercolor painting with inks is referred to as brush painting or scroll painting. In Chinese, Korean and Japanese painting it has been the dominant medium, often in monochrome black or browns, often using inkstick or other pigments. India, Ethiopia and other countries have long watercolor painting traditions as well.
+>
+> As well as the growing importance of finished watercolors, especially in England from the later part of the 18th century, many Western artists used watercolor primarily as a sketching tool in preparation for the "finished" work in oil or engraving. Until the end of the eighteenth century, traditional watercolors were known as 'tinted drawings', and calling watercolor paintings "drawings" persisted until at least the 20th century in some quarters.  The development of high quality color lithography by the end of the 19th century made possible attractive reproductive prints of watercolors, which have remained common, especially of landscape and still-life subjects.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Watercolor%20painting)  
+

@@ -2,6 +2,9 @@
 aliases:
   - Wasserdampf
   - Dampf
+  - Water vapor
+  - water vapour
+  - aqueous vapor
 has_id_wikidata: Q190120
 has_cause: "[[_Standards/WikiData/WD~evaporation,132814]]"
 subject_has_role: "[[_Standards/WikiData/WD~greenhouse_gas,167336]]"
@@ -32,7 +35,7 @@ Commons_category: Water vapor
 
 # [[Water_Vapor]] 
 
-#is_/same_as :: [[WD~Water_vapor,190120]] 
+#is_/same_as :: [[../../../../WikiData/WD~Water_vapor,190120|WD~Water_vapor,190120]]  
 
 ## #has_/text_of_/abstract 
 

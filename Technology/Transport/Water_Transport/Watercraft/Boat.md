@@ -6,7 +6,7 @@ has_id_wikidata: Q35872
 
 # [[Boat]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Boat,35872|WD~Boat,35872]] 
+#is_/same_as :: [[../../../../WikiData/WD~Boat,35872|WD~Boat,35872]] 
 
 ## #has_/text_of_/abstract 
 

@@ -23,7 +23,7 @@ IMDb_keyword: cruise-ship
 
 # [[Cruise_Ship]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Cruise_ship,39804|WD~Cruise_ship,39804]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Cruise_ship,39804|WD~Cruise_ship,39804]] 
 
 ## #has_/text_of_/abstract 
 

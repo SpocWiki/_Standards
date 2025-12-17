@@ -24,7 +24,7 @@ Commons_category: Container ships
 
 # [[Container_Ship]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Container_ship,17210|WD~Container_ship,17210]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Container_ship,17210|WD~Container_ship,17210]] 
 
 ## #has_/text_of_/abstract 
 

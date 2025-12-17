@@ -34,7 +34,7 @@ name: kom
 
 # [[Canoe]]  
 
-#is_/same_as :: [[../../../../WikiData/WD~Canoe,171529|WD~Canoe,171529]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Canoe,171529|WD~Canoe,171529]] 
 
 ## #has_/text_of_/abstract 
 

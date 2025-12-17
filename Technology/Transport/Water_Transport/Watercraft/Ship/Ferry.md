@@ -32,7 +32,7 @@ GeoNames_feature_code: S.FY
 
 # [[Ferry]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Ferry,25653|WD~Ferry,25653]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Ferry,25653|WD~Ferry,25653]] 
 
 ## #has_/text_of_/abstract 
 

@@ -78,7 +78,7 @@ MeSH_tree_code: J01.937.817
 
 # [[Ship]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Ship,11446|WD~Ship,11446]] 
+#is_/same_as :: [[../../../../WikiData/WD~Ship,11446|WD~Ship,11446]] 
 
 ## #has_/text_of_/abstract 
 

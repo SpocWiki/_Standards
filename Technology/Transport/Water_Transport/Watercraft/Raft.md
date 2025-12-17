@@ -21,7 +21,7 @@ Commons_category: Rafts
 
 # [[Raft]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Raft,200433|WD~Raft,200433]]  
+#is_/same_as :: [[../../../../WikiData/WD~Raft,200433|WD~Raft,200433]]  
 
 ## #has_/text_of_/abstract 
 
