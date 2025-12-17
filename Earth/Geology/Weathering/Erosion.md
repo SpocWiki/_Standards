@@ -23,7 +23,7 @@ Krugosvet_article: Earth_sciences/geologiya/EROZIYA.html
 
 # [[Erosion]] 
 
-#is_/same_as :: [[../../WikiData/WD~Erosion,80026|WD~Erosion,80026]] 
+#is_/same_as :: [[../../../WikiData/WD~Erosion,80026|WD~Erosion,80026]] 
 
 ## #has_/text_of_/abstract 
 

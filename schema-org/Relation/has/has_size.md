@@ -30,7 +30,7 @@ Use it like this:
 - [ #has_/size :: DefinedTerm, QuantitativeValue, SizeSpecification, Text ] or 
 - [ has_size :: DefinedTerm, QuantitativeValue, SizeSpecification, Text ] 
 
-A standardized size of a product or creative work, specified either through a simple textual string (for example 'XL', '32Wx34L'), a  QuantitativeValue with a unitCode, or a comprehensive and structured [[SizeSpecification]]; in other cases, the [[width]], [[height]], [[depth]] and [[weight]] properties may be more applicable.
+A standardized size of a product or creative work, specified either through a simple textual string (for example 'XL', '32Wx34L'), a  QuantitativeValue with a unitCode, or a comprehensive and structured [[SizeSpecification]]; in other cases, the [[width]], [[height]], [[depth]] and [[../../../Dimension/Mass/Weight]] properties may be more applicable.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, Product ]

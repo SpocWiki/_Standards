@@ -31,7 +31,7 @@ Colon_Classification: Q:4198
 
 # [[Pilgrimage]] 
 
-#is_/same_as :: [[WD~Pilgrimage,1644573]] 
+#is_/same_as :: [[../../../WikiData/WD~Pilgrimage,1644573|WD~Pilgrimage,1644573]]  
 
 ## #has_/text_of_/abstract 
 
