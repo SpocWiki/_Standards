@@ -24,9 +24,14 @@ Commons_category: Neoliberalism
 
 Since 1982, [[Forbes_Magazine]] unashamedly publishes the List of the richest People in the USA. 
 After the [[../../Knowledge/Economy/1973_oil_crisis]] and the [[Stagflation]] of the 1970s, 
-[[../../../Earth/Continent/America~North/US~President/Reagan,Ronald|Ronald_Reagan]] was elected and reduced top income Taxes from 70% to 25%. 
-In the same time, Globalization allowed companies to outsource work to Asia and East Europe. 
+[[../../../Earth/Continent/America~North/US~President/Reagan,Ronald|Ronald_Reagan]] was elected and reduced US top income Taxes from 70% to 25%. 
+In the same time, Globalization allowed companies to outsource work to Asia and East Europe which created immense wealth, with a side-effect of cheaper Products. 
 In the 1980s Factories were shut down and 5e6 jobs were lost in manufacturing. 
+
+Part of this is: 
+- Individualization e.g by [[../../Politics/Government/Leader/Modern_Leaders/Thatcher,Margaret|Thatcher,Margaret]]  
+- Self-Blaming and Self-Optimization 
+- 
 
 ## #has_/text_of_/abstract 
 

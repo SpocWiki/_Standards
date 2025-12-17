@@ -12,7 +12,7 @@ aliases:
 
 Due to the [[Isotropy]] of Space, it is a conserved Unit. 
 
-In [[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]]] the [[Wavelength]] of a Particle is 
+In [[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]]] the [[../Linear_Dimension/Distance/Wavelength]] of a Particle is 
 given by its inverse [[Angular_Momentum]]:  ___λ = h / p___ 
 
 #is_/same_as :: [[../../WikiData/WD~Angular_momentum,161254|WD~Angular_momentum,161254]] 

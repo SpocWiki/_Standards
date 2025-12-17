@@ -153,6 +153,7 @@ birth_name: Margaret Hilda Roberts
 # [[Thatcher,Margaret]] 
 
 #has_/created_/quote :: There is no Alternative 
+#has_/created_/quote :: There is no such thing as society  
 #is_/same_as :: [[WD~Margaret_Thatcher,7416]] 
 
 ## #has_/text_of_/abstract 
