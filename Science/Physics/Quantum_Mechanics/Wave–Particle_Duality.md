@@ -18,7 +18,7 @@ ComputerLanguage_com_definition: wave-particle+duality
 Commons_category: Wave–particle duality
 ---
 
-# [[Wave–Particle-Duality]] 
+# [[Wave–Particle_Duality]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Wave–particle_duality,193068|WD~Wave–particle_duality,193068]] 
 
