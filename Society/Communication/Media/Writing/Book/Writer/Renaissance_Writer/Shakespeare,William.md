@@ -1,11 +1,12 @@
 ---
-affiliation:
-  - "[[_Standards/WikiData/WD~Lord_Chamberlain's_Men,1899451]]"
-  - "[[_Standards/WikiData/WD~King's_Men,2715005]]"
 aliases:
   - William Shakespeare
   - Shakespeare
   - Bard of Avon
+  - William_Shakespeare
+affiliation:
+  - "[[_Standards/WikiData/WD~Lord_Chamberlain's_Men,1899451]]"
+  - "[[_Standards/WikiData/WD~King's_Men,2715005]]"
 Archive_of_Our_Own_tag: SHAKESPEARE William - Works
 ArhivX_LOD: 4582
 BHCL_UUID: 9ecd0201-a754-4845-bda8-9aa333b88629
@@ -180,7 +181,7 @@ writing_language:
 
 # [[Shakespeare,William]] 
 
-#has_/created_/quote :: There are more things between heaven and earth than your philosophy 
+#has_/created_/quote :: There are more things between heaven and earth, Horatio, Than are dreamt of in your philosophy. 
 #is_/same_as :: [[../../../../../../../WikiData/WD~William_Shakespeare,692|WD~William_Shakespeare,692]]  
 
 ## #has_/text_of_/abstract 

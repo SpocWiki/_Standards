@@ -1,6 +1,7 @@
 ---
 aliases:
   - State of Matter
+  - Aggregatzustand
 has_id_wikidata: Q11430
 Commons_category: States of aggregation
 described_by_source:
@@ -35,15 +36,24 @@ Wolfram_Language_entity_type: MatterPhase
 
 #is_/same_as :: [[../../WikiData/WD~State_of_matter,11430|WD~State_of_matter,11430]] 
 
-|        | Shape | Volume | Isolation | Magnetic |
-| ------ | ----- | ------ | --------- | -------- |
-| Solid  | Y     | Y      | Y/N       | N        |
-| Liquid | N     | Y      | Y/N       | N        |
-| Gas    | N     | N      | N         | N        |
-| Plasma | N     | N      | Y         | Y        |
-| QGP    | N     | N      | Y         | Y        |
+|          | Press | Shape | Volume | Isolation | Magnetic |
+| -------- | :---: | :---: | :----: | :-------: | :------: |
+| Solid    |   T   |   Y   |   Y    |    Y/N    |    N     |
+| Liquid   |   T   |   N   |   Y    |    Y/N    |    N     |
+| Gas      |   T   |   N   |   N    |     N     |    N     |
+| Plasma   |   T   |   N   |   N    |     Y     |    Y     |
+| QGP      |   T   |   N   |   N    |     Y     |    Y     |
+| Electron |   Q   |   N   |   Y    |     N     |    Y     |
+| Neutron  |   Q   |   N   |   Y    |     Y     |    Y     |
 
-The [[Quantum_Mechanics/Standard_Model/Hadron/Large_Hadron_Collider/Quark–Gluon_Plasma|Quark–Gluon_Plasma]] is a new State where Gluons and Quarks are unbound within their Plasma. 
+- The [[Quantum_Mechanics/Standard_Model/Hadron/Large_Hadron_Collider/Quark–Gluon_Plasma|Quark–Gluon_Plasma]] is a new State where Gluons and Quarks are unbound within their Plasma. 
+- electron-degenerate Matter is present in [[../../Astronomy/Star/Star~Class/White_Dwarf|White_Dwarf]]s 
+- Bose–Einstein Condensate 
+- Fermionic Condensate 
+- Quantum mechanical pressure, rather than Thermal pressure, counteracts gravitational collapse 
+	- [[../../Astronomy/Star/Star~Class/White_Dwarf|White_Dwarf]]: 
+	- [[../../Astronomy/Star/Star~Class/Neutron_Star|Neutron_Star]]: 
+
 
 ## #has_/text_of_/abstract 
 

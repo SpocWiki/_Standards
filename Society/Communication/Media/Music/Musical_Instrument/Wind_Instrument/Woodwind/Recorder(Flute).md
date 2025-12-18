@@ -1,0 +1,80 @@
+---
+aliases:
+  - Blockflöte
+has_id_wikidata: Q187851
+subclass_of:
+  - "[[_Standards/WikiData/WD~duct_flute,478634]]"
+  - "[[_Standards/WikiData/WD~open_flutes_with_internal_duct_with_fingerholes,55738665]]"
+used_by: "[[_Standards/WikiData/WD~recorder_player,3074722]]"
+described_by_source: "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
+Nomenclature_for_Museum_Cataloging: "10852"
+OmegaWiki_Defined_Meaning: "375730"
+Hornbostel_Sachs_classification: 421.221.12
+Iconclass_notation: 48C73511
+Commons_gallery: Recorder
+Commons_category: Recorders (musical instrument)
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Blockfl%C3%B6te-article.ogg
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/SopranoRecorder.ogg
+playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tonumfang-Sopranblockfl%C3%B6te.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/VariousRecorderFlutes.jpg
+Amazon_com_browse_node:
+  - "11972101"
+  - "11975291"
+Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/BLOKFLETA.html
+---
+
+# [[Recorder(Flute)]] 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Recorder,187851|WD~Recorder,187851]]  
+
+## #has_/text_of_/abstract 
+
+> The recorder is a family of woodwind musical instruments 
+> and a member of the family of duct flutes that includes tin whistles and flageolets. 
+> It is the most prominent duct flute in the western classical tradition.  
+> 
+> A recorder can be distinguished from other duct flutes 
+> by the presence of a thumb-hole for the upper hand 
+> and holes for seven fingers: three for the upper hand and four for the lower. 
+>
+> Recorders are made in various sizes and ranges. The sizes most commonly in use today are the 
+> - soprano (also known as descant, lowest note C5), 
+> - alto (also known as treble, lowest note F4), 
+> - tenor (lowest note C4), and 
+> - bass (lowest note F3). 
+> 
+> Recorders were traditionally constructed from wood or ivory. 
+> Modern professional instruments are wooden, often boxwood; 
+> student and scholastic recorders are commonly made of moulded plastic. 
+> The recorders' internal and external proportions vary, 
+> but the bore is generally reverse conical (i.e. tapering towards the foot) to cylindrical, 
+> and all recorder fingering systems make extensive use of forked fingerings.
+>
+> The recorder is first documented in Europe in the Middle Ages, 
+> and continued to enjoy wide popularity in the Renaissance and Baroque periods, 
+> but was little used in the Classical and Romantic periods. 
+> 
+> It was revived in the twentieth century 
+> as part of the historically informed performance movement, 
+> and became a popular amateur and educational instrument. 
+> 
+> Composers who have written for the recorder include 
+> Monteverdi, Lully, Purcell, Handel, Vivaldi, Telemann, Bach, Hindemith, and Berio. 
+> 
+> There are many professional recorder players who demonstrate 
+> the full solo range of the instrument, and a large community of amateurs.
+>
+> The sound of the recorder is often described as clear and sweet, 
+> and has historically been associated with birds and shepherds. 
+> It is notable for its quick response and its corresponding 
+> ability to produce a wide variety of articulations. 
+> This ability, coupled with its open finger holes, 
+> allow it to produce a wide variety of tone colours and special effects. 
+> 
+> Acoustically, its tone is relatively pure and, when the edge is positioned in the center of the airjet, 
+> odd harmonics predominate in its sound 
+> (when the edge is decidedly off-center, an even distribution of harmonics occurs).
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Recorder%20(musical%20instrument)) 
+

@@ -31,6 +31,7 @@ Commons_category: Occam's razor
 # [[Occam's_Razor]] 
 
 #is_/same_as :: [[WD~Occam's_razor,131012]] 
+#has_/creator :: [[../Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of|Ockham,William_of]] 
 
 ## #has_/text_of_/abstract 
 
