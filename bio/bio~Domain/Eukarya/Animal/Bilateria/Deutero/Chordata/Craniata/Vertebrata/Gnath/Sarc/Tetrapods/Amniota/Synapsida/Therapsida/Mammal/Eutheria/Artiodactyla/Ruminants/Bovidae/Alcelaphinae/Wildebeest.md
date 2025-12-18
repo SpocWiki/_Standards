@@ -1,9 +1,9 @@
 ---
 aliases:
   - gnu
-- "Connochaetes taurinus"
-- Wildebeast
-title: "Connochaetes taurinus"
+  - Connochaetes taurinus
+  - Wildebeast
+title: Connochaetes taurinus
 has_id_wikidata: Q7609
 parent_taxon: "[[_Standards/WikiData/WD~Alcelaphinae,615263]]"
 described_by_source:
@@ -33,9 +33,9 @@ taxon_name: Connochaetes
 
 # [[Wildebeest]] 
 
-#is_/same_as :: [[WD~Wildebeest,7609]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Wildebeest,7609|WD~Wildebeest,7609]]  
 
-![Wildebeast](Wildebeast/Wildebeast.jpg)
+![Wildebeast](Wildebeest/Wildebeast.jpg)
 
 ## #has_/text_of_/abstract 
 
@@ -111,7 +111,7 @@ taxon_name: Connochaetes
 ## Title Illustrations
 
 ------------------------------------------------------------------------------
-![Wildebeast](Wildebeast/Wildebeast.jpg)
+![Wildebeast](Wildebeest/Wildebeast.jpg)
 Scientific Name ::  Connochaetes taurinus
 Location ::        Seronera area of Serengeti National Park, Tanzania
 Behavior          wildebeest drinking in shallow stream

@@ -39,6 +39,7 @@ OpenStreetMap_tag_or_key: Key:cables
 # [[Electrical_Cable]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Electrical_cable,188447|WD~Electrical_cable,188447]] 
+#is_/similar_to :: [[Wire|Wire]] 
 
 ## #has_/text_of_/abstract 
 
