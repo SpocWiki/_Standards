@@ -15,20 +15,22 @@ Commons_category: Brown dwarfs
 
 # [[Brown_Dwarf]] 
 
-#is_/same_as :: [[../../WikiData/WD~Brown_dwarf,101600|WD~Brown_dwarf,101600]] 
+#is_/same_as :: [[../../../WikiData/WD~Brown_dwarf,101600|WD~Brown_dwarf,101600]] 
 
 ## #has_/text_of_/abstract 
 
 > Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, 
 > but less than the least massive main-sequence stars.  
+> 
 > Their mass is approximately 13 to 80 times that of [[Solar_System/Jupiter|Jupiter]] (MJ)—
-> not big enough to sustain nuclear fusion of [[../../Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen|hydrogen]] into [[../../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium|helium]] in their cores, 
-> but massive enough to emit some light and heat from the fusion of [[../../Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium|deuterium]] (2H).  
-> The most massive ones (> 65 MJ) can fuse [[../../Chemistry/Chemical_Element/Group-01-Alkali/Lithium|lithium]] (7Li).
+> not big enough to sustain nuclear fusion of [[../../../Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen|hydrogen]] into [[../../../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium|helium]] in their cores, 
+> but massive enough to emit some light and heat from the fusion of [[../../../Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium|deuterium]] (2H).  
+> The most massive ones (> 65 MJ) can fuse [[../../../Chemistry/Chemical_Element/Group-01-Alkali/Lithium|lithium]] (7Li).
 >
 > Astronomers classify self-luminous objects by spectral type, 
 > a distinction intimately tied to the surface temperature, and brown dwarfs occupy 
 > types [[Star/Star~Class/Star-Class~M|Star-Class~M]] (2100–3500 K), [[Star/Star~Class/Star-Class~L|Star-Class~L]] (1300–2100 K), [[Star/Star~Class/Star-Class~T|Star-Class~T]] (600–1300 K), and [[Star/Star~Class/Star-Class~Y|Star-Class~Y]] (< 600 K). 
+> 
 > As brown dwarfs do not undergo stable hydrogen fusion, they cool down over time, 
 > progressively passing through later spectral types as they age.
 >

@@ -1,3 +1,16 @@
+---
+aliases:
+has_id_wikidata: Q17284129
+instance_of: "[[_Standards/WikiData/WD~monotypic_taxon,310890]]"
+parent_taxon: "[[_Standards/WikiData/WD~Rhincodontidae,2803916]]"
+taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+ITIS_TSN: "159855"
+Commons_category: Rhincodon typus
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Whale%20shark%20Georgia%20aquarium.jpg
+EPPO_Code: 1RHNDG
+UMLS_CUI: C4391402
+taxon_name: Rhincodon
+---
 
 # [[Rhincodon]] 
 
@@ -5,7 +18,14 @@
 
 ## #has_/text_of_/abstract 
 
-> The whale shark (**Rhincodon** typus) is a slow-moving, filter-feeding carpet shark and the largest known extant fish species. The largest confirmed individual had a length of 18.8 m (61.7 ft). The whale shark holds many records for size in the animal kingdom, most notably being by far the most massive living non-cetacean animal. It is the only living species of the genus Rhincodon and the only extant member of the family Rhincodontidae, which belongs to the subclass Elasmobranchii in the class Chondrichthyes. Before 1984 it was classified as Rhiniodon into Rhinodontidae. An extinct species, Rhincodon ferriolensis was described in Europe (probably in Spain), in Late Burdigalian stage. 
+> The whale shark (**Rhincodon** typus) is a slow-moving, filter-feeding carpet shark 
+> and the largest known extant fish species. 
+> The largest confirmed individual had a length of 18.8 m (61.7 ft). 
+> 
+> The whale shark holds many records for size in the animal kingdom, 
+> most notably being by far the most massive living non-cetacean animal. 
+> 
+> It is the only living species of the genus Rhincodon and the only extant member of the family Rhincodontidae, which belongs to the subclass Elasmobranchii in the class Chondrichthyes. Before 1984 it was classified as Rhiniodon into Rhinodontidae. An extinct species, Rhincodon ferriolensis was described in Europe (probably in Spain), in Late Burdigalian stage. 
 >
 > The whale shark is an active filter feeder, primarily consuming plankton, krill, fish eggs, and small schooling fish such as sardines and anchovies. It employs two main feeding methods: ram filtration, where it swims forward with its mouth open to force water over its gill rakers, and active suction feeding, where it gulps water while stationary. The shark can process over 6,000 liters of water per hour through its specialized sieve-like gill pads. Highly migratory, the whale shark travels thousands of miles across tropical oceans to exploit seasonal food sources, with large, predictable feeding aggregations occurring at coastal sites such as Ningaloo Reef in Western Australia, the Yucatan Peninsula in Mexico, and off the coast of Gujarat and Kerala in India. Despite its immense size, the whale shark is docile and poses no significant threat to humans. It is currently listed as an Endangered species on the IUCN Red List owing to a population decline of more than 50% over the last 75 years, primarily as a result of targeted fishing, bycatch in other fisheries, and collisions with large ships.
 >

@@ -44,14 +44,14 @@ taxon_name: Connochaetes
 > 
 > They belong to the family Bovidae, which includes 
 > true antelopes, cattle, goats, sheep, and other even-toed horned ungulates. 
->
+> 
 > There are two species of wildebeest: 
 > - the black wildebeest or white-tailed gnu (C. gnou), and 
 > - the blue wildebeest or brindled gnu (C. taurinus).
 >
 > Fossil records suggest these two species diverged about one million years ago, 
 > resulting in a northern and a southern species. 
->
+> 
 > The blue wildebeest remained in its original range 
 > and changed very little from the ancestral species, 
 > while the black wildebeest changed more 

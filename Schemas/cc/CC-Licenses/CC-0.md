@@ -37,7 +37,7 @@ Most permissice of the [[../CC-Licenses]], waiving all rights and requiring no a
 
 The motivation behind this choice is to maximize reuse. 
 But this [may actually be problematic](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2015-12-02/Op-ed) due to anonymity and non-reputing data. 
-Consider using the [[CC-BY-SA]] used by[[../../../../Data/Wikipedia|Wikipedia]]]. 
+Consider using the [[CC-BY-SA]] used by[[../../../Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia|Wikipedia]]]. 
 
 Content-License allowing to reuse the data to the max. Extent. 
 Unlike [[CC-BY]] no Sources need to be specified, which [can blur the provenience](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2015-12-02/Op-ed). 
