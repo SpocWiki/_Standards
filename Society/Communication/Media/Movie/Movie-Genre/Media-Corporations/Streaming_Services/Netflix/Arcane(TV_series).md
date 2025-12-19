@@ -4,12 +4,15 @@ aliases:
 - "Arcane: League of Legends"
 ---
 
+# [[Arcane(TV_series)]] 
+
 ## #has_/text_of_/abstract 
 
 > Arcane (titled onscreen as Arcane: League of Legends) 
 > is an animated steampunk action-adventure television series created by Christian Linke and Alex Yee. 
 > It was produced by the French animation studio Fortiche under the supervision of Riot Games, 
 > and distributed by Netflix. 
+> 
 > Set in Riot's League of Legends universe, it primarily focuses on sisters Vi and Jinx. 
 > The series was announced at the League of Legends 10th anniversary celebration in 2019, 
 > and first released in November 2021. 

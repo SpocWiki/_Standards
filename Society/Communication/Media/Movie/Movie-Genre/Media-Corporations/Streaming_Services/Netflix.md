@@ -25,15 +25,15 @@
 
 ## Netflix-Originals 
 
-### [[Arcane(TV_series)]] 
+### [[Netflix/Arcane(TV_series)]] 
 
 ### [[RRR]] 
 
-### [[Black_Mirror]] 
+### [[Netflix/Black_Mirror]] 
 
-### [[Sandman(TV_series)]] 
+### [[Netflix/Sandman(TV_series)]] 
 
-### [[Stranger_Things]] 
+### [[Netflix/Stranger_Things]] 
 
 ### [[Netflix/Wednesday,Netflix_series]] 
 

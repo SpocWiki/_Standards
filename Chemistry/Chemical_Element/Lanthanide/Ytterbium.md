@@ -48,8 +48,7 @@ Unicode_character: 鐿
 UNII: MNQ4O4WSI1
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Ytterbium,1855]] 
-
+# [[Ytterbium]] 
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
@@ -73,6 +72,8 @@ UNII: MNQ4O4WSI1
 [FormEnergy-kj-mol::128.9]
 (PeriodNo::6)
 (GroupNo::36)
+
+#is_/same_as :: [[../../../WikiData/WD~Ytterbium,1855]] 
 
 
 ## #has_/text_of_/abstract 
