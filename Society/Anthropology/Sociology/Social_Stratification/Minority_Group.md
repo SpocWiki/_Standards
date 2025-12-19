@@ -25,7 +25,7 @@ MeSH_tree_code: I01.880.853.300
 
 # [[Minority_Group]] 
 
-#is_/same_as :: [[WD~Minority_group,30103]] 
+#is_/same_as :: [[../../../../WikiData/WD~Minority_group,30103|WD~Minority_group,30103]] 
 
 ## #has_/text_of_/abstract 
 

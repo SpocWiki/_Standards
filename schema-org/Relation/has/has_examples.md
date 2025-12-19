@@ -1,4 +1,4 @@
-Inverse Relation to [[../../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~type|rdf~type]] and [[../../Class/is_instance_of|is_instance_of]] . 
+Inverse Relation to [[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdf~type|rdf~type]] and [[../../Class/is_instance_of|is_instance_of]] . 
 
 Enumerating Examples is rarely exact or exhaustive, 
 but very helpful for Humans to illustrate a Concept with already known Instances. 

@@ -18,7 +18,7 @@ IMDb_keyword: middle-class
 
 # [[Middle_Class]] 
 
-#is_/same_as :: [[WD~Middle_class,241588]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Middle_class,241588|WD~Middle_class,241588]] 
 
 ## #has_/text_of_/abstract 
 

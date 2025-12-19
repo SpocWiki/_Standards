@@ -31,7 +31,7 @@ title: is_subclass_of
 type: Predi_Relation
 ---
 
-#is_/similar_to :: [[../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]] 
+#is_/similar_to :: [[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]] 
 #is_/inverse_of  :: [[has_sub_classes]]
 #is_/better_than :: [[../Relation/is_similar_to|is_similar_to]] 
 

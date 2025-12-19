@@ -45,9 +45,18 @@ time_of_discovery_or_invention: 1990
 U_S_National_Archives_Identifier: 10644635
 ---
 
+# [[World_Wide_Web]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~World_Wide_Web,466|WD~World_Wide_Web,466]] 
+
 ## #has_/text_of_/abstract 
 
-> The **World Wide Web** (WWW or simply the Web) is an information system that enables content sharing over the Internet through user-friendly ways meant to appeal to users beyond IT specialists and hobbyists. It allows documents and other web resources to be accessed over the Internet according to specific rules of the Hypertext Transfer Protocol (HTTP).
+> The **World Wide Web** (WWW or simply the Web) is an information system 
+> that enables content sharing over the Internet through user-friendly ways 
+> meant to appeal to users beyond IT specialists and hobbyists. 
+> 
+> It allows documents and other web resources to be accessed over the Internet 
+> according to specific rules of the Hypertext Transfer Protocol (HTTP).
 >
 > The Web was invented by English computer scientist Tim Berners-Lee while at CERN in 1989 and opened to the public in 1993. It was conceived as a "universal linked information system". Documents and other media content are made available to the network through web servers and can be accessed by programs such as web browsers. Servers and resources on the World Wide Web are identified and located through character strings called uniform resource locators (URLs).
 >

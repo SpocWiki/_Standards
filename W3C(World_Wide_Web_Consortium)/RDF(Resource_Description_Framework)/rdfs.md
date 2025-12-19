@@ -6,13 +6,13 @@ aliases:
 # [[rdfs]] 
 
 
-#is_/similar_to :: [[OWL(Ontology_Web_Language)]] 
+#is_/similar_to :: [[owl(Ontology_Web_Language)]] 
 #has_/url :: http://www.w3.org/1999/02/22-rdf-syntax-ns#
 #has_/url_for_ :: rdfs 
 
 
 RDF-Schema is a simple Language to describe [[RDF~Classes/rdfs~Class|rdfs~Class]] and simple Relations. 
-Many RDFS Definitions are included in the more expressive [[OWL(Ontology_Web_Language)]].
+Many RDFS Definitions are included in the more expressive [[owl(Ontology_Web_Language)]].
 
 > RDF Schema (Resource Description Framework Schema, 
 > variously abbreviated as RDFS, RDF(S), RDF-S, or RDF/S) 

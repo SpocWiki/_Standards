@@ -127,6 +127,10 @@ employees: 7000
 OmegaWiki_Defined_Meaning: 712247
 ---
 
+# [[WHO(World_Health_Organization)]] 
+
+#is_/same_as :: [[../WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]] 
+
 ## #has_/text_of_/abstract 
 
 > The **World Health Organization** (WHO) is a specialized agency of the United Nations 
