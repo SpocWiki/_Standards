@@ -6,9 +6,9 @@ aliases:
 has_id_wikidata: Q35625
 has_fruit_type: "[[_Standards/WikiData/WD~capsule,147768]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~Zingiber,163563]]"
+  - "[[../../../../../../../../../../../WikiData/WD~Zingiber,163563]]"
   - "[[_Standards/WikiData/WD~useful_plant,11992872]]"
-parent_taxon: "[[_Standards/WikiData/WD~Zingiber,163563]]"
+parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Zingiber,163563]]"
 has_use:
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
   - "[[_Standards/WikiData/WD~vegetable,11004]]"

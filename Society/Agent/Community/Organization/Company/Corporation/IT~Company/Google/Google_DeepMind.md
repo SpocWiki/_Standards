@@ -59,7 +59,7 @@ inception: 2010-01-01T00:00:00Z
 > which serves as a subsidiary of Alphabet Inc. 
 > 
 > Founded in the UK in 2010, it was acquired by Google in 2014 for 400M$ 
-> under the Aegis of [[../../../../../../../../WikiData 1/Schmidt,Eric]] for access to massive Compute, 
+> under the Aegis of [[Schmidt,Eric]] for access to massive Compute, 
 > and later merged with Google AI's Google Brain division 
 > to become Google DeepMind in April 2023. 
 > 

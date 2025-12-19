@@ -19,7 +19,7 @@ taxon_common_name:
 
 # [[Capreolinae]] 
 
-#is_/same_as :: [[WD~Capreolinae,118722]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Capreolinae,118722]] 
 
 ## #has_/text_of_/abstract 
 

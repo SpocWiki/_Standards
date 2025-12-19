@@ -9,8 +9,8 @@ described_by_source:
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
 taxonomic_type: "[[_Standards/WikiData/WD~Ginger,35625]]"
-subclass_of: "[[_Standards/WikiData/WD~Zingiberaceae,37021]]"
-parent_taxon: "[[_Standards/WikiData/WD~Zingiberaceae,37021]]"
+subclass_of: "[[../../../../../../../../../../WikiData/WD~Zingiberaceae,37021]]"
+parent_taxon: "[[../../../../../../../../../../WikiData/WD~Zingiberaceae,37021]]"
 ITIS_TSN: "42400"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Koeh-146-no%20text.jpg
@@ -30,7 +30,7 @@ taxon_name: Zingiber
 
 # [[Zingiber]] 
 
-#is_/same_as :: [[WD~Zingiber,163563]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Zingiber,163563]] 
 
 ## #has_/text_of_/abstract 
 

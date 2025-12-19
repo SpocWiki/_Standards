@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q37021
-taxonomic_type: "[[_Standards/WikiData/WD~Zingiber,163563]]"
+taxonomic_type: "[[../../../../../../../../../WikiData/WD~Zingiber,163563]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
@@ -33,7 +33,7 @@ taxon_common_name:
 
 # [[Zingiberaceae]] 
 
-#is_/same_as :: [[WD~Zingiberaceae,37021]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Zingiberaceae,37021]] 
 
 ## #has_/text_of_/abstract 
 
