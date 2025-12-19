@@ -20,7 +20,7 @@ Amazon_com_browse_node: "11972091"
 
 # [[Piccolo_Flute]] 
 
-#is_/same_as :: [[WD~Piccolo,83509]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Piccolo,83509|WD~Piccolo,83509]] 
 
 ## #has_/text_of_/abstract 
 

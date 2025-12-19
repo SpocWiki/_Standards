@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Words
+  - Wort
+  - Worte
+has_id_wikidata: Q8171
 Commons_category: Words
 described_by_source: "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 different_from:
@@ -9,7 +14,6 @@ different_from:
   - "[[_Standards/WikiData/WD~morphosyntactic_word,115863229]]"
 equivalent_class: https://schema.org/DefinedTerm
 has_characteristic: "[[_Standards/WikiData/WD~morphosyntactic_word,115863229]]"
-has_id_wikidata: Q8171
 has_part_s_:
   - "[[_Standards/WikiData/WD~word_stem,210523]]"
   - "[[_Standards/WikiData/WD~syllable,8188]]"
@@ -24,11 +28,11 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 subclass_of:
   - "[[_Standards/WikiData/WD~lexical_item,2944660]]"
   - "[[_Standards/WikiData/WD~word_or_phrase,115372263]]"
-aliases:
-  - Words
-  - Wort
-  - Worte
 ---
+
+# [[Word]] 
+
+#is_/same_as :: [[../WikiData/WD~Word,8171|WD~Word,8171]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,2 +1,2 @@
 
-#is_/same_as :: [[Fiber]]  
+#is_/same_as :: [[../../Chemistry/Material/Fiber]]  
