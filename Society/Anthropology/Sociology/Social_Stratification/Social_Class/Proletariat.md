@@ -16,7 +16,7 @@ named_after: "[[_Standards/WikiData/WD~proletarii,1775730]]"
 
 # [[Proletariat]] 
 
-#is_/same_as :: [[WD~Proletariat,132603]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Proletariat,132603|WD~Proletariat,132603]]  
 
 ## #has_/text_of_/abstract 
 

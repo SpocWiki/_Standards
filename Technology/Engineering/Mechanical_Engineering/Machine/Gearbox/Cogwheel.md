@@ -54,7 +54,7 @@ Commons_category: Gears
 
 # [[Cogwheel]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Cogwheel,143873|WD~Cogwheel,143873]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Cogwheel,143873|WD~Cogwheel,143873]] 
 
 ## #has_/text_of_/abstract 
 

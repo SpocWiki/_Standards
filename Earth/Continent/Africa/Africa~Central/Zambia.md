@@ -1,4 +1,18 @@
 ---
+aliases:
+  - Zambia
+  - Zambie
+  - زامبيا
+  - 赞比亚
+  - Замбия
+  - the Republic of Zambia
+  - la República de Zambia
+  - Republic of Zambia
+  - Sambia
+has_id_wikidata: Q953
+location:
+  - -15.4167
+  - 28.2833
 member_of:
   - "[[_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151]]"
   - "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
@@ -344,10 +358,6 @@ Krugosvet_article: strany_mira/ZAMBIYA.html
 MeSH_tree_code: Z01.058.290.175.920
 GitHub_topic: zambia
 CIVICUS_Monitor_country_entry: zambia
-has_id_wikidata: Q953
-location:
-  - -15.4167
-  - 28.2833
 type: Country
 tags:
   - geo/Country
@@ -367,14 +377,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Zambia
-  - Zambie
-  - زامبيا
-  - 赞比亚
-  - Замбия
-  - the Republic of Zambia
-  - la República de Zambia
 Languages:
   - en-ZM
   - bem
@@ -386,13 +388,6 @@ Languages:
 ---
 
 # [[Zambia]] 
-
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Zambia 
-
-[[Zambia/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: ZMW ]
 [	ISO4217-currency_name	 :: Zambian Kwacha ]
@@ -457,10 +452,18 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 894 ]
 
-
-
 [ISO2::ZM]
-[ISO3::ZMB]
+[ISO3::ZMB] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Zambia,953|WD~Zambia,953]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Zambia 
+
+[[Zambia/ReadMe]] 
+
+## #has_/map 
+
 ```leaflet
 id: Zambia
 zoomFeatures: true 

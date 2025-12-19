@@ -27,8 +27,8 @@ title: has_url_for_content_url
 type: Predi_Url
 ---
 
-#has_/url_for_/same_as :: [[../../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~seeAlso|rdfs:seeAlso]]
-#has_/url_for_/same_as :: [[../../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~isDefinedBy|rdfs:isDefinedBy]]
+#has_/url_for_/same_as :: [[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~seeAlso|rdfs:seeAlso]]
+#has_/url_for_/same_as :: [[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~isDefinedBy|rdfs:isDefinedBy]]
 #has_/url_for_/same_as :: [[dc~source]]
 #has_/url_for_/same_as :: [[../../../Schemas/foaf/foaf~page|foaf:page]] 
 

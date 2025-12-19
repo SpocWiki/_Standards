@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/complement_of :: [[is_same_as]] 
 #is_/complement_of :: [[is_similar_to]]  
 
-Use this Standard [[../../W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language)|owl(Ontology_Web_Language)]] 
+Use this Standard [[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language)|owl(Ontology_Web_Language)]] 
 Relation to distinguish between 2, possibly similar Entities. 
 Together with [[is_same_as]] it can express the same as [[is_similar_to]]. 
 
