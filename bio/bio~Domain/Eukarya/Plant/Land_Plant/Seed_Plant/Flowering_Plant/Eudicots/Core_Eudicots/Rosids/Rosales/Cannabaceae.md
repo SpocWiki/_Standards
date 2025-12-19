@@ -46,9 +46,9 @@ taxon_common_name:
   - Kenderfélék
   - Humlaætt
 taxonomic_type: "[[_Standards/WikiData/WD~Cannabis,79817]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Rosales,21895]]"
+parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Rosales,21895 1]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
 ITIS_TSN: "19118"
 image:
@@ -65,7 +65,7 @@ NBN_System_Key: NBNSYS0100002181
 
 # [[Cannabaceae]] 
 
-#is_/same_as :: [[WD~Cannabaceae,156338]] 
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Cannabaceae,156338]] 
 
 ## #has_/text_of_/abstract 
 

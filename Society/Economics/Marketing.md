@@ -37,7 +37,7 @@ practiced_by:
   - "[[_Standards/WikiData/WD~marketing_consultant,61911662]]"
 class_of_object_s_of_occurrence: "[[_Standards/WikiData/WD~product,2424752]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../WikiData/WD~economic_activity,8187769]]"
   - "[[_Standards/WikiData/WD~public_communication,122827343]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Marketing,11001274]]"
 described_by_source: "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"

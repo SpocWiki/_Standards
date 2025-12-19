@@ -52,7 +52,7 @@ has_grammatical_mood:
   - "[[_Standards/WikiData/WD~indicative,682111]]"
   - "[[_Standards/WikiData/WD~imperative,22716]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Ukrainian_Language_An_Encyclopedia,4470617]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"

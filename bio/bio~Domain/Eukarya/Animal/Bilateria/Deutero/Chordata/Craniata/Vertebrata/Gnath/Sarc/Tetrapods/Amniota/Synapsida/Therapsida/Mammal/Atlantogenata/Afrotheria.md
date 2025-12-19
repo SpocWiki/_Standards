@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q27399
-parent_taxon: "[[_Standards/WikiData/WD~Atlantogenata,2718670]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../WikiData/WD~Atlantogenata,2718670]]"
 taxon_rank: "[[_Standards/WikiData/WD~superorder,5868144]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Taxonomy_Afrotheria,13217714]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"

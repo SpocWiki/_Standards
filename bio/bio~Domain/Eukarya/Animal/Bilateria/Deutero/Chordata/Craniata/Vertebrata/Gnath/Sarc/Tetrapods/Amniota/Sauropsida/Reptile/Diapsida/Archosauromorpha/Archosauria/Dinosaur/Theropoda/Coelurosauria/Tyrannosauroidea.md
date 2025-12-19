@@ -1,61 +1,61 @@
 ---
-3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20rex%20skeleton.stl"
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20rex%20skeleton.stl
 Commons_category: Tyrannosaurus
 Commons_gallery: Tyrannosaurus
 end_time: -66000000-01-01
 has_id_wikidata: Q14332
 height: 3.6
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Stan%20the%20Trex%20at%20Manchester%20Museum.jpg"
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Stan%20the%20Trex%20at%20Manchester%20Museum.jpg
+instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
 IPA_transcription: taɪˈɹænəˈsoɹəs
 length: 12
-location_of_discovery: '[[_Standards/WikiData/WD~Canada,16]]'
-main_food_source: '[[_Standards/WikiData/WD~carnivore,81875]]'
-parent_taxon: '[[_Standards/WikiData/WD~Tyrannosaurini,21447922]]'
+location_of_discovery: "[[_Standards/WikiData/WD~Canada,16]]"
+main_food_source: "[[_Standards/WikiData/WD~carnivore,81875]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurini,21447922]]"
 size_comparison_diagram:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Australian%20Museum%20magazine%20%281921%29%20%2820162978058%29.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20specimens.svg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20Sue%20scale.png"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/The%20Australian%20Museum%20magazine%20%281921%29%20%2820162978058%29.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20specimens.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20Sue%20scale.png
 start_time: -68000000-01-01
 taxon_common_name:
-- Тираннозавр
-- Тиранозавр
-- Тиранозавър
-- Tiranosaor
-- Tiranosaure
-- टायरानोसौरस
-- Tiranosaur
-- Tiranozauras
-- Tiranozauri
-- Тиранозавр
-- Tyranozaur
-- Tiranossauro
-- Tiranuozaurs
-- טירנוזאוריים
-- "ንጉሥ አምባገነን እንሽላሊት"
-- تيرانوصور
-- Тѷранносаѵръ
-- Τυραννόσαυρος
-- Tiranosaŭro
-- Tiranosaurio
-- Tyrannilisko
-- Tyrannosaure
-- Gramedla
-- ティラノサウルス属
-- "티라노사우루스 렉스"
-- "റ്റിറാനോസാറസ് റക്സ്"
-- tiranozaver
-- Тираносаурус
-- "ไทรันโนซอรัส เร็กซ์"
-- 暴龍
-- 暴龍屬
+  - Тираннозавр
+  - Тиранозавр
+  - Тиранозавър
+  - Tiranosaor
+  - Tiranosaure
+  - टायरानोसौरस
+  - Tiranosaur
+  - Tiranozauras
+  - Tiranozauri
+  - Тиранозавр
+  - Tyranozaur
+  - Tiranossauro
+  - Tiranuozaurs
+  - טירנוזאוריים
+  - ንጉሥ አምባገነን እንሽላሊት
+  - تيرانوصور
+  - Тѷранносаѵръ
+  - Τυραννόσαυρος
+  - Tiranosaŭro
+  - Tiranosaurio
+  - Tyrannilisko
+  - Tyrannosaure
+  - Gramedla
+  - ティラノサウルス属
+  - 티라노사우루스 렉스
+  - റ്റിറാനോസാറസ് റക്സ്
+  - tiranozaver
+  - Тираносаурус
+  - ไทรันโนซอรัส เร็กซ์
+  - 暴龍
+  - 暴龍屬
 taxon_name: Tyrannosaurus
-taxon_range_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/T.%20rex%20Distribution%20PBDB.png"
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/T.%20rex%20Distribution%20PBDB.png
+taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
 title: Tyrannosauroidea
 UMLS_CUI: C1910436
-Unicode_character: "\U0001F996"
-Wolfram_Language_entity_code: "Entity[\"Dinosaur\", \"Genus:Tyrannosaurus\"]"
+Unicode_character: 🦖
+Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Tyrannosaurus"]
 ---
 
 # [[Tyrannosauroidea]]

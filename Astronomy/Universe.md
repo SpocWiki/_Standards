@@ -12,7 +12,7 @@ contains:
   - "[[_Standards/WikiData/WD~dark_energy,18343]]"
 density: 9.9e-27
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
   - "[[_Standards/WikiData/WD~The_Audubon_Society_Field_Guide_To_The_Night_Sky,88672152]]"
   - "[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072]]"

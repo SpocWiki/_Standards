@@ -19,7 +19,7 @@ capital:
 Commons_category: Mongol Empire
 continent: "[[_Standards/WikiData/WD~Eurasia,5401]]"
 currency: "[[_Standards/WikiData/WD~balysh,4077050]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 different_from: "[[_Standards/WikiData/WD~Mughal_Empire,33296]]"
 dissolved_abolished_or_demolished_date: 1368
 flag: "[[_Standards/WikiData/WD~Flag_of_the_Mongol_Empire,65406099]]"

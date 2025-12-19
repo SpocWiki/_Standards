@@ -10,9 +10,9 @@ part_of:
 subclass_of:
   - "[[_Standards/WikiData/WD~proposition,108163]]"
   - "[[_Standards/WikiData/WD~premise,321703]]"
-  - "[[_Standards/WikiData/WD~work,386724]]"
+  - "[[../WikiData/WD~work,386724]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 has_characteristic: "[[_Standards/WikiData/WD~testability,2149495]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"

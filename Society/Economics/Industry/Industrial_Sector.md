@@ -13,7 +13,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../../WikiData/WD~economic_activity,8187769]]"
   - "[[_Standards/WikiData/WD~secondary_sector_of_the_economy,55639]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Industry,14615793]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_industry,16000278]]"

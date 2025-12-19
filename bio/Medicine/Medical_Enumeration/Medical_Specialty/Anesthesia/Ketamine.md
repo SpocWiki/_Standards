@@ -99,7 +99,7 @@ DSSTOX_compound_identifier: DTXCID703187
 
 # [[Ketamine]] 
 
-#is_/same_as :: [[../../../../../_Standards/WikiData/WD~(RS)_ketamine,243547|WD~(RS)_ketamine,243547]]  
+#is_/same_as :: [[../../../../../WikiData/WD~(RS)_ketamine,243547|WD~(RS)_ketamine,243547]]  
 
 Ketamine is effective as Anti-Depressant. 
 It increases Brain Plasticity and thus allows to resolve ruminations. 

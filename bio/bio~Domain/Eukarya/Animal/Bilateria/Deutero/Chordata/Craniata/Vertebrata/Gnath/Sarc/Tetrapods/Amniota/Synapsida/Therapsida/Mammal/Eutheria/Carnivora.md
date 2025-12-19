@@ -1,35 +1,35 @@
 ---
 aliases:
-- Fleischfresser
+  - Fleischfresser
 Commons_category: Carnivora
 Commons_gallery: Carnivora
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 EPPO_Code: 1CARNO
 has_id_wikidata: Q25306
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Carnivora.jpg"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Carnivora.jpg
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 180539
 Krugosvet_article: nauka_i_tehnika/biologiya/HISHCHNIE.html
 MeSH_tree_code: B01.050.150.900.649.313.750
 NBN_System_Key: NHMSYS0000376165
 parent_taxon:
-- '[[_Standards/WikiData/WD~Carnivoraformes,106488638]]'
-- '[[_Standards/WikiData/WD~Laurasiatheria,27379]]'
+  - "[[_Standards/WikiData/WD~Carnivoraformes,106488638]]"
+  - "[[_Standards/WikiData/WD~Laurasiatheria,27379]]"
 start_time: -42000000-01-01
-subclass_of: '[[_Standards/WikiData/WD~carnivore,81875]]'
+subclass_of: "[[_Standards/WikiData/WD~carnivore,81875]]"
 taxon_common_name:
-- գիշատիչներ
-- rovpattedyr
+  - գիշատիչներ
+  - rovpattedyr
 taxon_name: Carnivora
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~carnivoran_meat,124815693]]'
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~carnivoran_meat,124815693]]"
 title: Carnivora
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Carnivora,6290878]]'
-- '[[_Standards/WikiData/WD~Template_Taxonomy_Carnivora,13217770]]'
+  - "[[_Standards/WikiData/WD~Template_Carnivora,6290878]]"
+  - "[[_Standards/WikiData/WD~Template_Taxonomy_Carnivora,13217770]]"
 UMLS_CUI: C0562690
 ---
 

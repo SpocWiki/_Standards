@@ -22,7 +22,7 @@ different_from:
   - "[[_Standards/WikiData/WD~economy,159810]]"
   - "[[_Standards/WikiData/WD~Austrian_school,203411]]"
   - "[[_Standards/WikiData/WD~business_studies,5001951]]"
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../WikiData/WD~economic_activity,8187769]]"
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true

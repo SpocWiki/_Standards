@@ -7,7 +7,7 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~Ptolemy's_theorem,459547]]"
   - "[[_Standards/WikiData/WD~Bretschneider's_formula,537518]]"
   - "[[_Standards/WikiData/WD~Quadrilateral_inequality,30894200]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~tetratope,85292670]]"

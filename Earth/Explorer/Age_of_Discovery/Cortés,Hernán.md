@@ -26,7 +26,7 @@ date_of_death: 1547-12-12
 depicted_by: "[[_Standards/WikiData/WD~The_Road_to_El_Dorado,866358]]"
 described_at_URL: http://www.digiporta.net/index.php?id=643505497
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"

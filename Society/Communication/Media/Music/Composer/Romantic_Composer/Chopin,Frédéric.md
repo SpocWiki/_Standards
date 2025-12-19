@@ -3,7 +3,7 @@ aliases:
   - Frédéric Chopin
   - Frédéric_Chopin
   - Frédéric François Chopin
-  - Chopin 
+  - Chopin
 has_id_wikidata: Q1268
 educated_at:
   - "[[_Standards/WikiData/WD~University_of_Warsaw,144488]]"
@@ -85,7 +85,7 @@ student:
   - "[[_Standards/WikiData/WD~Emilie_Timm,19660950]]"
   - "[[_Standards/WikiData/WD~Josephine_Camille_O'Meara,45825712]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]"

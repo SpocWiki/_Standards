@@ -60,7 +60,7 @@ NBN_System_Key: NBNSYS0000160361
 
 # [[Lythraceae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../_Standards/WikiData/WD~Lythraceae,156022|WD~Lythraceae,156022]]  
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Lythraceae,156022|WD~Lythraceae,156022]]  
 
 ## #has_/text_of_/abstract 
 

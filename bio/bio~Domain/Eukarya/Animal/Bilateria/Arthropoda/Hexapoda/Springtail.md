@@ -6,7 +6,7 @@ aliases:
 title: Collembola
 has_id_wikidata: Q190701
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 parent_taxon: "[[_Standards/WikiData/WD~Entognatha,623286]]"
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~Collophore,5147575]]"

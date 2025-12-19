@@ -11,7 +11,7 @@ aliases:
 has_id_wikidata: Q103960
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Shammuramat,234177]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Gesta_Treverorum,877738]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"

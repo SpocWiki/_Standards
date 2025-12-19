@@ -6,7 +6,7 @@ different_from:
   - "[[_Standards/WikiData/WD~employment_to_population_ratio,829714]]"
   - "[[_Standards/WikiData/WD~employment_opportunities,2266417]]"
   - "[[_Standards/WikiData/WD~employing,67218467]]"
-facet_of: "[[_Standards/WikiData/WD~work,268378]]"
+facet_of: "[[../../../../../WikiData/WD~work,268378]]"
 has_characteristic:
   - "[[_Standards/WikiData/WD~timesheet,629411]]"
   - "[[_Standards/WikiData/WD~probation,675059]]"
@@ -19,7 +19,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~employee,703534]]"
   - "[[_Standards/WikiData/WD~employer,3053337]]"
 instance_of: "[[_Standards/WikiData/WD~social_relation,853725]]"
-subclass_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+subclass_of: "[[../../../../../WikiData/WD~economic_activity,8187769]]"
 part_of: "[[_Standards/WikiData/WD~occupation,12737077]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Employment,13406437]]"
 described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"

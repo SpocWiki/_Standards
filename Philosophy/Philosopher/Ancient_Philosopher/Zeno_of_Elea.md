@@ -21,7 +21,7 @@ place_of_death: "[[_Standards/WikiData/WD~Velia,272968]]"
 place_of_birth: "[[_Standards/WikiData/WD~Velia,272968]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

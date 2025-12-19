@@ -1,8 +1,8 @@
 ---
-associated_hazard: '[[_Standards/WikiData/WD~iron_poisoning,1172607]]'
+associated_hazard: "[[_Standards/WikiData/WD~iron_poisoning,1172607]]"
 atomic_number: 26
 boiling_point: 2861
-canonical_SMILES: '[Fe]'
+canonical_SMILES: "[Fe]"
 CAS_Registry_Number: 7439-89-6
 chemical_formula: Fe
 Commons_category: Iron
@@ -10,20 +10,20 @@ Commons_gallery: Iron
 CosIng_number: 83503
 density: 7.874
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]"
 Dewey_Decimal_Classification: 672
 different_from:
-- '[[_Standards/WikiData/WD~serum_iron,2537479]]'
-- '[[_Standards/WikiData/WD~Q20418737,20418737]]'
-discoverer_or_inventor: "http://www.wikidata.org/.well-known/genid/fd1d2a0f5ae583e820451b0fc1a8c274"
+  - "[[_Standards/WikiData/WD~serum_iron,2537479]]"
+  - "[[_Standards/WikiData/WD~Q20418737,20418737]]"
+discoverer_or_inventor: http://www.wikidata.org/.well-known/genid/fd1d2a0f5ae583e820451b0fc1a8c274
 DSSTOX_compound_identifier: DTXCID3023710
 EC_number: 231-096-4
 electronegativity: 1.83
@@ -31,65 +31,65 @@ electron_configuration: "[Ar] 3d⁶ 4s²"
 element_symbol: Fe
 embodied_energy: 25
 found_in_taxon:
-- '[[_Standards/WikiData/WD~Commiphora_africana,559137]]'
-- '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
-- '[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]'
-- '[[_Standards/WikiData/WD~Euphorbia_lancifolia,5851731]]'
-- '[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]'
-- '[[_Standards/WikiData/WD~Triumfetta_rhomboidea,10898699]]'
-- '[[_Standards/WikiData/WD~Brackenridgea_zanguebarica,15386064]]'
-- '[[_Standards/WikiData/WD~Allophylus_rubifolius,15469676]]'
-- '[[_Standards/WikiData/WD~Albizia_versicolor,15492856]]'
-- '[[_Standards/WikiData/WD~Bridelia_cathartica,15512488]]'
-- '[[_Standards/WikiData/WD~Adenia_cissampeloides,15606489]]'
-- '[[_Standards/WikiData/WD~Adenia_gummifera,15606925]]'
-- '[[_Standards/WikiData/WD~Lannea_schweinfurthii_var._stuhlmannii,55872678]]'
-- '[[_Standards/WikiData/WD~cacao,42385]]'
-- '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]'
+  - "[[_Standards/WikiData/WD~Commiphora_africana,559137]]"
+  - "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
+  - "[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]"
+  - "[[_Standards/WikiData/WD~Euphorbia_lancifolia,5851731]]"
+  - "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
+  - "[[_Standards/WikiData/WD~Triumfetta_rhomboidea,10898699]]"
+  - "[[_Standards/WikiData/WD~Brackenridgea_zanguebarica,15386064]]"
+  - "[[_Standards/WikiData/WD~Allophylus_rubifolius,15469676]]"
+  - "[[_Standards/WikiData/WD~Albizia_versicolor,15492856]]"
+  - "[[_Standards/WikiData/WD~Bridelia_cathartica,15512488]]"
+  - "[[_Standards/WikiData/WD~Adenia_cissampeloides,15606489]]"
+  - "[[_Standards/WikiData/WD~Adenia_gummifera,15606925]]"
+  - "[[_Standards/WikiData/WD~Lannea_schweinfurthii_var._stuhlmannii,55872678]]"
+  - "[[_Standards/WikiData/WD~cacao,42385]]"
+  - "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
 Gujarati_Vishwakosh_entry: આયર્ન-લોહ
-has_characteristic: '[[_Standards/WikiData/WD~ferromagnetism,184207]]'
+has_characteristic: "[[_Standards/WikiData/WD~ferromagnetism,184207]]"
 has_id_wikidata: Q677
-has_use: '[[_Standards/WikiData/WD~iron_alloy,10772391]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Iron%20electrolytic%20and%201cm3%20cube.jpg"
+has_use: "[[_Standards/WikiData/WD~iron_alloy,10772391]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Iron%20electrolytic%20and%201cm3%20cube.jpg
 IMA_Mineral_Symbol: Fe
 InChI: InChI=1S/Fe
 InChIKey: XEEYBQQBJWHFJM-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-- '[[_Standards/WikiData/WD~metal,11426]]'
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - "[[_Standards/WikiData/WD~metal,11426]]"
 ionic_radius:
-- 0.49
-- 0.55
-- 0.61
-- 0.63
-- 0.78
-- 0.92
+  - 0.49
+  - 0.55
+  - 0.61
+  - 0.63
+  - 0.78
+  - 0.92
 Krugosvet_article: nauka_i_tehnika/himiya/ZHELEZO.html
-magnetic_ordering: '[[_Standards/WikiData/WD~ferromagnetism,184207]]'
+magnetic_ordering: "[[_Standards/WikiData/WD~ferromagnetism,184207]]"
 mass: 55.845
 medical_condition_treated:
-- '[[_Standards/WikiData/WD~iron_deficiency_anemia,954674]]'
-- '[[_Standards/WikiData/WD~hypochromic_anemia,2306782]]'
+  - "[[_Standards/WikiData/WD~iron_deficiency_anemia,954674]]"
+  - "[[_Standards/WikiData/WD~hypochromic_anemia,2306782]]"
 melting_point: 1538
 MeSH_tree_code:
-- D01.268.556.412
-- D01.268.956.287
-- D01.552.544.412
+  - D01.268.556.412
+  - D01.268.956.287
+  - D01.552.544.412
 OmegaWiki_Defined_Meaning: 2024
 oxidation_state:
-- 2
-- 3
+  - 2
+  - 3
 part_of:
-- '[[_Standards/WikiData/WD~group_8,202224]]'
-- '[[_Standards/WikiData/WD~period_4,239825]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828608,22828608]]'
+  - "[[_Standards/WikiData/WD~group_8,202224]]"
+  - "[[_Standards/WikiData/WD~period_4,239825]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828608,22828608]]"
 PubChem_CID: 23925
 relative_permeability: 200000
 SpocWebEntityId: 16528
 subclass_of:
-- '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
-- '[[_Standards/WikiData/WD~medication,12140]]'
-subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
+  - "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
+  - "[[_Standards/WikiData/WD~medication,12140]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
 thermal_conductivity: 84
 time_of_discovery_or_invention: -5000
 type: Element
@@ -97,7 +97,7 @@ UMLS_CUI: C0302583
 Unicode_character: 鐵
 UNII: E1UOL152H7
 UNSPSC_Code: 11101713
-Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Iron\"]"
+Wolfram_Language_entity_code: Entity["Mineral", "Iron"]
 ZVG_number: 8210
 ---
 

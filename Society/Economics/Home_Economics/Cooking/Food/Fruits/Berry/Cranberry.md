@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q13181
 different_from: "[[_Standards/WikiData/WD~Żórawina,393270]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"

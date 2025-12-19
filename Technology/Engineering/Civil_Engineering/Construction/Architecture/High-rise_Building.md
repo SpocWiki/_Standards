@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q18142
 has_use:
   - "[[_Standards/WikiData/WD~office,182060]]"
-  - "[[_Standards/WikiData/WD~shelter,989946]]"
+  - "[[../../../../../WikiData/WD~shelter,989946]]"
   - "[[_Standards/WikiData/WD~home,7743]]"
 has_characteristic: "[[_Standards/WikiData/WD~height,208826]]"
 has_part_s_: "[[_Standards/WikiData/WD~storey,831691]]"

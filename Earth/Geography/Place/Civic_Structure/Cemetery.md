@@ -7,23 +7,23 @@ aliases:
   - Friedhof
   - burial ground
   - gravesite
-  - graveyard 
-  - memorial park  
+  - graveyard
+  - memorial park
   - memorial garden
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - cemetery
-layout: 
+layout:
 license: CC BY-SA 4.0
 linkTitle: is_a_cemetery Class
 publish: true
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class
@@ -49,7 +49,7 @@ facet_of:
   - "[[_Standards/WikiData/WD~burial,331055]]"
   - "[[_Standards/WikiData/WD~death,4]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
   - "[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]"

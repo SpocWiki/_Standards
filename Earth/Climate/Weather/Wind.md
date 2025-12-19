@@ -5,7 +5,7 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wind%20in%20Swedish%20
 Commons_category: Wind
 Commons_gallery: Wind
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"

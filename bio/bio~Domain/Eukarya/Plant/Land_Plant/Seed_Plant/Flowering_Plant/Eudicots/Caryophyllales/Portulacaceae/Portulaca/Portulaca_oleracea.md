@@ -1,13 +1,13 @@
 ---
 aliases:
-  - Portulaca oleracea 
+  - Portulaca oleracea
   - common purslane
   - little hogweed
   - pursley
   - Portulak
   - 
 has_id_wikidata: Q158015
-parent_taxon: "[[_Standards/WikiData/WD~Portulaca,159554]]"
+parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Portulaca,159554]]"
 has_use:
   - "[[_Standards/WikiData/WD~insecticide,181322]]"
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"

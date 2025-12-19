@@ -7,7 +7,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~civilization,8432]]"
   - "[[_Standards/WikiData/WD~culture,11042]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 studied_by: "[[_Standards/WikiData/WD~mycenology,26425130]]"

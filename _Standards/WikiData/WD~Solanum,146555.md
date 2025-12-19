@@ -1,7 +1,0 @@
----
-has_id_wikidata: Q146555
----
-
-
-#is_/same_as :: [[../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade]] 
-

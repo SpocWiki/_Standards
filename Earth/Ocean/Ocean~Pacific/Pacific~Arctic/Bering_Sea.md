@@ -62,7 +62,7 @@ inflows:
 named_after: "[[_Standards/WikiData/WD~Vitus_Bering,127641]]"
 shares_border_with: "[[_Standards/WikiData/WD~Aleutians_West_Census_Area,185533]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
   - "[[_Standards/WikiData/WD~Geographical_statistical_dictionary_of_the_Russian_Empire,4135594]]"

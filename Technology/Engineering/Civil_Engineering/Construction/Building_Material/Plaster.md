@@ -10,12 +10,12 @@ different_from:
   - "[[_Standards/WikiData/WD~stucco,33526]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~building_material,206615]]"
-  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
+  - "[[../../../../../WikiData/WD~architectural_element,391414]]"
   - "[[_Standards/WikiData/WD~coating,1570182]]"
 has_characteristic: "[[_Standards/WikiData/WD~hygroscopy,216678]]"
 has_use: "[[_Standards/WikiData/WD~plasterwork,572879]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"

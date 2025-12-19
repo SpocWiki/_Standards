@@ -8,7 +8,7 @@ taxon_name: Sphenodontinae
 
 # [[Sphenodontinae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../_Standards/WikiData/WD~Sphenodontinae,7576641|WD~Sphenodontinae,7576641]]  
+#is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Sphenodontinae,7576641|WD~Sphenodontinae,7576641]]  
 
 ## #has_/text_of_/abstract 
 

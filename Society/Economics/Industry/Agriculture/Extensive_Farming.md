@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q1643366
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 Commons_category: Agriculture
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Herdwicks%20Lake%20District.jpg

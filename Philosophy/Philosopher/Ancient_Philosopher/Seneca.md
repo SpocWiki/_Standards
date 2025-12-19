@@ -28,7 +28,7 @@ student_of:
   - "[[_Standards/WikiData/WD~Papirius_Fabianus,897523]]"
 gens: "[[_Standards/WikiData/WD~Annaea_gens,564184]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~De_viris_illustribus,929625]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"

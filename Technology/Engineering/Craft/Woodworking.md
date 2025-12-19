@@ -4,14 +4,14 @@ aliases:
   - Schreinerei
 has_id_wikidata: Q816871
 subclass_of:
-  - "[[_Standards/WikiData/WD~work,268378]]"
+  - "[[../../../WikiData/WD~work,268378]]"
   - "[[_Standards/WikiData/WD~economic_production,739302]]"
   - "[[_Standards/WikiData/WD~craft,2207288]]"
 instance_of:
   - "[[_Standards/WikiData/WD~industry,268592]]"
   - "[[_Standards/WikiData/WD~hobby,47728]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 different_from:

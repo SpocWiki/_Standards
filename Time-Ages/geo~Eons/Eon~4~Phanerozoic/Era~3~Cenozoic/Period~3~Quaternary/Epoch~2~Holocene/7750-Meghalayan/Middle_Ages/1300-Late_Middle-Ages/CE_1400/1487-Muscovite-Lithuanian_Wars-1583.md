@@ -10,7 +10,7 @@ participant:
   - "[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871]]"
   - "[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 instance_of: "[[_Standards/WikiData/WD~series_of_wars,104212151]]"
 start_time: 1487-01-01T00:00:00Z

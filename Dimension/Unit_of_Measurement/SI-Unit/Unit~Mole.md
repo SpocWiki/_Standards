@@ -11,7 +11,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]"
   - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 subdivision_of_this_unit: "[[_Standards/WikiData/WD~decimole,70378044]]"

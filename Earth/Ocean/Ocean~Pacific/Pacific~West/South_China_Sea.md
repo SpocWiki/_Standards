@@ -59,7 +59,7 @@ part_of:
   - "[[_Standards/WikiData/WD~China_Seas,398805]]"
   - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"

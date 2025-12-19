@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q148694
 taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Pooideae,4662262]]"
+  - "[[../../../../../../../../../../../../../../WikiData/WD~Pooideae,4662262]]"
   - "[[_Standards/WikiData/WD~Triticodae,123460083]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 image:
@@ -16,7 +16,7 @@ taxon_name: Triticeae
 
 # [[Triticeae]] 
 
-#is_/same_as :: [[WD~Triticeae,148694]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Triticeae,148694]] 
 
 ## #has_/text_of_/abstract 
 

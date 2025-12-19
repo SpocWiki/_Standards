@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q933098
 taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-parent_taxon: "[[_Standards/WikiData/WD~Ericaceae,975872]]"
+parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Ericaceae,975872 1]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20Heather%20-%20geograph.org.uk%20-%20493968.jpg
 Commons_category: Ericoideae
@@ -13,7 +13,7 @@ UMLS_CUI: C1229168
 
 # [[Ericoideae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../_Standards/WikiData/WD~Ericoideae,933098|WD~Ericoideae,933098]]  
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Ericoideae,933098|WD~Ericoideae,933098]]  
 
 ## #has_/text_of_/abstract 
 

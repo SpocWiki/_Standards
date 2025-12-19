@@ -3,7 +3,7 @@ aliases:
   - Danish Language
   - Danish
   - Dänisch
-  - dansk 
+  - dansk
   - dansk sprog
 has_id_wikidata: Q9035
 has_grammatical_case:
@@ -32,7 +32,7 @@ has_tense:
   - "[[_Standards/WikiData/WD~perfect_tense,625420]]"
 language_regulatory_body: "[[_Standards/WikiData/WD~Danish_Language_Council,196134]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 country:

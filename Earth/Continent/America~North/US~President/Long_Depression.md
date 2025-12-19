@@ -3,7 +3,7 @@ aliases:
   - Long Depression
 has_id_wikidata: Q1417847
 instance_of:
-  - "[[_Standards/WikiData/WD~recession,176494]]"
+  - "[[../../../../WikiData/WD~recession,176494]]"
   - "[[_Standards/WikiData/WD~depression,1814941]]"
 start_time: 1873-01-01T00:00:00Z
 location:

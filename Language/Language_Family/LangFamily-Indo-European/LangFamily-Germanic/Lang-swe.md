@@ -2,8 +2,8 @@
 aliases:
   - Swedish Language
   - Swedish
-  - Schwedisch 
-  - svenska 
+  - Schwedisch
+  - svenska
 has_id_wikidata: Q9027
 has_grammatical_case:
   - "[[_Standards/WikiData/WD~nominative_case,131105]]"
@@ -29,7 +29,7 @@ language_regulatory_body:
   - "[[_Standards/WikiData/WD~Swedish_Language_Council,3500437]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Swedish,471427]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"

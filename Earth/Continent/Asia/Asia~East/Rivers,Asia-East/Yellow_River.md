@@ -10,7 +10,7 @@ continent: "[[_Standards/WikiData/WD~Asia,48]]"
 coordinate_location: Point(116.097666666 36.124194444)
 country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Baidu_Baike,803722]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"

@@ -10,7 +10,7 @@ has_use:
   - "[[_Standards/WikiData/WD~tourism,49389]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~sports_equipment,768186]]"
-  - "[[_Standards/WikiData/WD~shelter,989946]]"
+  - "[[../../../../../WikiData/WD~shelter,989946]]"
   - "[[_Standards/WikiData/WD~temporary_structure,1240161]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"

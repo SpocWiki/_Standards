@@ -52,7 +52,7 @@ taxon_range:
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Brassica,58677]]"
+parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Brassica,58677]]"
 OmegaWiki_Defined_Meaning: "344475"
 PLU_code: "4614"
 ITIS_TSN: "23062"
@@ -67,7 +67,7 @@ taxon_name: Brassica oleracea
 
 # [[Brassica_oleracea]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../_Standards/WikiData/WD~Brassica_oleracea,146212|WD~Brassica_oleracea,146212]]  
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Brassica_oleracea,146212|WD~Brassica_oleracea,146212]]  
 
 ## #has_/text_of_/abstract 
 

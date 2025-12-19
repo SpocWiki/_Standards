@@ -59,7 +59,7 @@ notable_work:
   - "[[_Standards/WikiData/WD~Portrait_of_Battista_Sforza,28798129]]"
   - "[[_Standards/WikiData/WD~Annunciation_(St._Anthony),61765102]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Lives_of_the_Most_Excellent_Painters,_Sculptors,_and_Architects,1645493]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

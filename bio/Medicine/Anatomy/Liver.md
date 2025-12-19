@@ -1,49 +1,49 @@
 ---
-anatomical_location: '[[_Standards/WikiData/WD~abdominal_cavity,682466]]'
-arterial_supply: '[[_Standards/WikiData/WD~hepatic_artery_proper,542166]]'
+anatomical_location: "[[_Standards/WikiData/WD~abdominal_cavity,682466]]"
+arterial_supply: "[[_Standards/WikiData/WD~hepatic_artery_proper,542166]]"
 Commons_category: Livers
 Commons_gallery: Liver
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-development_of_anatomical_structure: '[[_Standards/WikiData/WD~liver_development,11878517]]'
-follows: '[[_Standards/WikiData/WD~foregut,2533722]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
+development_of_anatomical_structure: "[[_Standards/WikiData/WD~liver_development,11878517]]"
+follows: "[[_Standards/WikiData/WD~foregut,2533722]]"
 ground_level_360_degree_view_URL:
-- "https://www.openanatomy.org/atlases/nac/liver-2014-02-20/viewer/#!/state/984f950d-b35a-4952-afd9-ceafec728f8c"
-- "https://www.zygotebody.com/#nav=-4.65,125.08,119.59,0,0,0,0&sel=p:;h:;s:1151;c:-0.6;o:-0.75&layers=0,0,5000,0,0,0,0,10000,10000,10000,10000"
+  - https://www.openanatomy.org/atlases/nac/liver-2014-02-20/viewer/#!/state/984f950d-b35a-4952-afd9-ceafec728f8c
+  - https://www.zygotebody.com/#nav=-4.65,125.08,119.59,0,0,0,0&sel=p:;h:;s:1151;c:-0.6;o:-0.75&layers=0,0,5000,0,0,0,0,10000,10000,10000,10000
 has_id_wikidata: Q9368
 Iconclass_notation: 31A22321
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Leber%20Schaf.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Leber%20Schaf.jpg
 innervated_by:
-- '[[_Standards/WikiData/WD~vagus_nerve,190140]]'
-- '[[_Standards/WikiData/WD~celiac_ganglia,897760]]'
+  - "[[_Standards/WikiData/WD~vagus_nerve,190140]]"
+  - "[[_Standards/WikiData/WD~celiac_ganglia,897760]]"
 innervates:
-- '[[_Standards/WikiData/WD~vagus_nerve,190140]]'
-- '[[_Standards/WikiData/WD~celiac_ganglia,897760]]'
+  - "[[_Standards/WikiData/WD~vagus_nerve,190140]]"
+  - "[[_Standards/WikiData/WD~celiac_ganglia,897760]]"
 instance_of:
-- '[[_Standards/WikiData/WD~organ_type,103812529]]'
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+  - "[[_Standards/WikiData/WD~organ_type,103812529]]"
+  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
 Krugosvet_article: nauka_i_tehnika/biologiya/PECHEN.html
-lymphatic_drainage: '[[_Standards/WikiData/WD~Hepatic_lymph_nodes,17077735]]'
+lymphatic_drainage: "[[_Standards/WikiData/WD~Hepatic_lymph_nodes,17077735]]"
 MeSH_tree_code: A03.620
 OmegaWiki_Defined_Meaning: 5476
-partially_coincident_with: '[[_Standards/WikiData/WD~liver_as_food,1470283]]'
-part_of: '[[_Standards/WikiData/WD~human_digestive_system,9649]]'
+partially_coincident_with: "[[_Standards/WikiData/WD~liver_as_food,1470283]]"
+part_of: "[[_Standards/WikiData/WD~human_digestive_system,9649]]"
 studied_in:
-- '[[_Standards/WikiData/WD~hepatology,668064]]'
-- '[[_Standards/WikiData/WD~anatomy,514]]'
+  - "[[_Standards/WikiData/WD~hepatology,668064]]"
+  - "[[_Standards/WikiData/WD~anatomy,514]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~accessory_digestive_gland,4672532]]'
-- '[[_Standards/WikiData/WD~lobular_organ,28846466]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-- '[[_Standards/WikiData/WD~glandular_organ,126131070]]'
+  - "[[_Standards/WikiData/WD~accessory_digestive_gland,4672532]]"
+  - "[[_Standards/WikiData/WD~lobular_organ,28846466]]"
+  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+  - "[[_Standards/WikiData/WD~glandular_organ,126131070]]"
 TA98_Latin_term: hepar
 UMLS_CUI: C0023884
-venous_drainage: '[[_Standards/WikiData/WD~hepatic_vein,1578686]]'
-Wolfram_Language_entity_code: "Entity[\"AnatomicalStructure\", \"Liver\"]"
+venous_drainage: "[[_Standards/WikiData/WD~hepatic_vein,1578686]]"
+Wolfram_Language_entity_code: Entity["AnatomicalStructure", "Liver"]
 ---
 
 # [[Liver]] 

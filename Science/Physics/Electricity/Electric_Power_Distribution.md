@@ -8,7 +8,7 @@ subclass_of:
 different_from:
   - "[[_Standards/WikiData/WD~trade_of_electricity,2356921]]"
   - "[[_Standards/WikiData/WD~electricity_distribution,112165528]]"
-instance_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+instance_of: "[[../../../WikiData/WD~economic_activity,8187769]]"
 uses: "[[_Standards/WikiData/WD~electric_power_distribution_network,16920551]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~low_voltage_network,48995895]]"
 part_of: "[[_Standards/WikiData/WD~class_in_NACE_rev.2_classification_of_productive_activities,112122609]]"

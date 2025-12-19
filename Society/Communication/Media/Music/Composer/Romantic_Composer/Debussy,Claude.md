@@ -9,7 +9,7 @@ movement:
   - "[[_Standards/WikiData/WD~expresionism_in_music,837182]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Citizendium,187801]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
   - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"

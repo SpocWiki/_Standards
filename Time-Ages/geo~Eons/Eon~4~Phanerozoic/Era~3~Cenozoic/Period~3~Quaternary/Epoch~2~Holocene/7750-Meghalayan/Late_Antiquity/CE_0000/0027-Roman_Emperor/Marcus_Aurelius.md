@@ -39,7 +39,7 @@ student_of:
 religion_or_worldview: "[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]"
 place_of_burial: "[[_Standards/WikiData/WD~Castel_Sant'Angelo,486382]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

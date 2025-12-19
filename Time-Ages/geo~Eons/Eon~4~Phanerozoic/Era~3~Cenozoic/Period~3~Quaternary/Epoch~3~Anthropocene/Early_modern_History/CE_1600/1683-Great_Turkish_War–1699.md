@@ -15,7 +15,7 @@ participant:
   - "[[_Standards/WikiData/WD~Republic_of_Venice,4948]]"
   - "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
   - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Campaignbox_Great_Turkish_War,6855784]]"
 end_time: 1699-01-01T00:00:00Z
 locations: "[[_Standards/WikiData/WD~Austria,40]]"

@@ -44,7 +44,7 @@ taxon_common_name:
   - 黄瓜皮
   - 黄瓜藤
   - 黄瓜霜
-parent_taxon: "[[_Standards/WikiData/WD~Cucumis,148758]]"
+parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Cucumis,148758]]"
 has_use:
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
   - "[[_Standards/WikiData/WD~fruit_vegetable,1470762]]"

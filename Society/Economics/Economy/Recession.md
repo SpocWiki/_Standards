@@ -21,7 +21,7 @@ IPTC_NewsCode: mediatopic/20000383
 
 # [[Recession]] 
 
-#is_/same_as :: [[../../../_Standards/WikiData/WD~recession,176494|WD~recession,176494]]  
+#is_/same_as :: [[../../../WikiData/WD~recession,176494|WD~recession,176494]]  
 
 ## #has_/text_of_/abstract 
 

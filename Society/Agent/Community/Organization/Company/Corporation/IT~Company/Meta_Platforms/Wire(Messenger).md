@@ -7,22 +7,22 @@ distributed_by:
   - "[[_Standards/WikiData/WD~Q368215,368215]]"
 instance_of: "[[_Standards/WikiData/WD~instant_messaging_client,2462003]]"
 operating_system:
-  - "[[_Standards/WikiData/WD~Q3251801,3251801]]"
-  - "[[_Standards/WikiData/WD~Microsoft_Windows,1406]]"
-  - "[[_Standards/WikiData/WD~macOS,14116]]"
-  - "[[_Standards/WikiData/WD~Q94,94]]"
-  - "[[_Standards/WikiData/WD~Q48493,48493]]"
+  - "[[../../../../../../../../WikiData/WD~Q3251801,3251801]]"
+  - "[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406 1]]"
+  - "[[../../../../../../../../WikiData/WD~macOS,14116]]"
+  - "[[../../../../../../../../WikiData/WD~Q94,94]]"
+  - "[[../../../../../../../../WikiData/WD~Q48493,48493]]"
 developer: "[[_Standards/WikiData/WD~Wire_Swiss,18712630]]"
 copyright_license:
   - "[[_Standards/WikiData/WD~Q27016754,27016754]]"
   - "[[_Standards/WikiData/WD~GNU_Affero_General_Public_License,_version_3.0_or_later,27020062]]"
 copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
 platform:
-  - "[[_Standards/WikiData/WD~Microsoft_Windows,1406]]"
-  - "[[_Standards/WikiData/WD~macOS,14116]]"
-  - "[[_Standards/WikiData/WD~Q94,94]]"
-  - "[[_Standards/WikiData/WD~Q48493,48493]]"
-programmed_in: "[[_Standards/WikiData/WD~Q2407,2407]]"
+  - "[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406 1]]"
+  - "[[../../../../../../../../WikiData/WD~macOS,14116]]"
+  - "[[../../../../../../../../WikiData/WD~Q94,94]]"
+  - "[[../../../../../../../../WikiData/WD~Q48493,48493]]"
+programmed_in: "[[../../../../../../../../WikiData/WD~Q2407,2407]]"
 social_media_followers: 23163
 Alexa_rank: 76348
 Repology_project_name: wire

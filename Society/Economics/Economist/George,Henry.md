@@ -14,7 +14,7 @@ occupation:
   - "[[_Standards/WikiData/WD~writer,36180]]"
 place_of_burial: "[[_Standards/WikiData/WD~Green_Wood_Cemetery,239043]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
@@ -62,7 +62,7 @@ ISNI: "0000000108847933"
 
 # [[George,Henry]] 
 
-#is_/same_as :: [[WD~Henry_George,355245]] 
+#is_/same_as :: [[../../../WikiData/WD~Henry_George,355245]] 
 
 #has_/created :: [[Progress and Poverty]] 
 #has_/created :: [[../Economy/Georgism]] 

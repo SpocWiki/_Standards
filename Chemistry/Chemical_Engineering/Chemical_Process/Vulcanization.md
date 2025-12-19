@@ -6,9 +6,9 @@ has_id_wikidata: Q188631
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Charles_Goodyear,207667]]"
 opposite_of: "[[_Standards/WikiData/WD~devulcanization,2268835]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~chemical_process,2281940]]"
+  - "[[../../../WikiData/WD~chemical_process,2281940]]"
   - "[[_Standards/WikiData/WD~curing,2991861]]"
-instance_of: "[[_Standards/WikiData/WD~chemical_process,2281940]]"
+instance_of: "[[../../../WikiData/WD~chemical_process,2281940]]"
 depicted_by: "[[_Standards/WikiData/WD~IOP_1952_Episode_102,127947728]]"
 time_of_discovery_or_invention: 1839-01-01T00:00:00Z
 location_of_discovery: "[[_Standards/WikiData/WD~United_States,30]]"

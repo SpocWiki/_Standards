@@ -8,12 +8,12 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=2275
 UMLS_CUI: C1902776
 Commons_category: Solanoideae
 taxon_name: Solanoideae
-parent_taxon: "[[_Standards/WikiData/WD~Solanales,60790273]]"
+parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Solanales,60790273]]"
 ---
 
 # [[Solanoideae]] 
 
-#is_/same_as :: [[WD~Solanoideae,2560968]] 
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Solanoideae,2560968]] 
 
 ## #has_/text_of_/abstract 
 

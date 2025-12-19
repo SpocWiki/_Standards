@@ -28,12 +28,12 @@ found_in_taxon:
   - "[[_Standards/WikiData/WD~Elephantopus_elatus,15582533]]"
   - "[[_Standards/WikiData/WD~Datura_innoxia,17464343]]"
   - "[[_Standards/WikiData/WD~Streptomyces_catenulae,22287073]]"
-  - "[[_Standards/WikiData/WD~Fragaria,745]]"
+  - "[[../../../../WikiData/WD~Fragaria,745]]"
 subject_has_role:
   - "[[_Standards/WikiData/WD~greenhouse_gas,167336]]"
   - "[[_Standards/WikiData/WD~reducing_agent,216830]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"

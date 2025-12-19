@@ -40,7 +40,7 @@ different_from:
   - "[[_Standards/WikiData/WD~angel,235113]]"
   - "[[_Standards/WikiData/WD~jinn_in_a_work_of_fiction,30308127]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Encyclopaedia_of_the_Qur'ān,2617708]]"

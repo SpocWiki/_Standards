@@ -9,7 +9,7 @@ subclass_of:
 drug_or_therapy_used_for_treatment:
   - "[[_Standards/WikiData/WD~diazepam,210402]]"
   - "[[_Standards/WikiData/WD~zolpidem,218842]]"
-  - "[[_Standards/WikiData/WD~(RS)_ketamine,243547]]"
+  - "[[../../../../WikiData/WD~(RS)_ketamine,243547]]"
   - "[[_Standards/WikiData/WD~hydromorphone,303646]]"
   - "[[_Standards/WikiData/WD~alprazolam,319877]]"
   - "[[_Standards/WikiData/WD~oxycodone,407535]]"

@@ -7,7 +7,7 @@ uses:
   - "[[_Standards/WikiData/WD~imitation,1049742]]"
 subclass_of: "[[_Standards/WikiData/WD~composed_musical_work,207628]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 has_part_s_: "[[_Standards/WikiData/WD~theme,833053]]"
 instance_of:

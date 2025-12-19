@@ -5,7 +5,7 @@ part_of: "[[_Standards/WikiData/WD~Turkic_peoples,83328]]"
 subclass_of: "[[_Standards/WikiData/WD~Turkic_peoples,83328]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~Sunni_Islam,483654]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"

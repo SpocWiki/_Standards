@@ -7,7 +7,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_57(1),112869455]]"
 taxonomic_type: "[[_Standards/WikiData/WD~Rhododendron_ferrugineum,1341190]]"
 has_active_ingredient: "[[_Standards/WikiData/WD~grayanotoxins,2663172]]"
-parent_taxon: "[[_Standards/WikiData/WD~Rhodoreae,15839119]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../WikiData/WD~Rhodoreae,15839119]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
 ITIS_TSN: "23700"

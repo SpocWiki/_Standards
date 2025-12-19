@@ -13,7 +13,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~offence_against_the_person,7079040]]"
   - "[[_Standards/WikiData/WD~criminal_code,19705]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 instance_of:
   - "[[_Standards/WikiData/WD~area_of_law,1756157]]"

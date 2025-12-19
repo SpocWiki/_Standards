@@ -15,7 +15,7 @@ instance_of: "[[_Standards/WikiData/WD~material,214609]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~elastomer,252266]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~elastomer,252266]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 topic_s_main_category: "[[_Standards/WikiData/WD~Q9580490,9580490]]"

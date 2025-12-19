@@ -8,7 +8,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~carbon_schist,9394829]]"
   - "[[_Standards/WikiData/WD~fossil_fuel,12748]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
 different_from: "[[_Standards/WikiData/WD~shale,751300]]"
 OmegaWiki_Defined_Meaning: "2643"

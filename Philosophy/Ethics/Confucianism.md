@@ -14,7 +14,7 @@ studied_by:
 described_by_source:
   - "[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]"
   - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
 subclass_of: "[[_Standards/WikiData/WD~Eastern_philosophy,307043]]"
 has_part_s_:

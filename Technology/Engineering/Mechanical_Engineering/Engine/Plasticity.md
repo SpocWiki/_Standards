@@ -3,7 +3,7 @@ aliases:
   - Plastizität
   - plastic deformation
 has_id_wikidata: Q472074
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 studied_by: "[[_Standards/WikiData/WD~plasticity_theory,1558058]]"
 instance_of: "[[_Standards/WikiData/WD~mechanical_property,5725005]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quai%20de%20la%20Seine%20%28Paris%29%2C%20baudruche.jpg

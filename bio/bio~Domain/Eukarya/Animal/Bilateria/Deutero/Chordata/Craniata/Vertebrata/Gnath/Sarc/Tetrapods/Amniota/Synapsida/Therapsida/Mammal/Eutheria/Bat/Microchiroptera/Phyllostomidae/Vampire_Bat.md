@@ -2,9 +2,9 @@
 aliases:
 has_id_wikidata: Q190691
 taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-parent_taxon: "[[_Standards/WikiData/WD~Phyllostomidae,600042]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Phyllostomidae,600042]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"

@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q937821
 taxonomic_type: "[[_Standards/WikiData/WD~Sarcophilus_laniarius,194609]]"
-parent_taxon: "[[_Standards/WikiData/WD~Dasyurini,533062]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurini,533062]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
 ITIS_TSN: "552417"
@@ -16,7 +16,7 @@ taxon_author_citation: Cuvier, 1837
 
 # [[Sarcophilus]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Sarcophilus,937821|WD~Sarcophilus,937821]]  
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Sarcophilus,937821|WD~Sarcophilus,937821]]  
 
 ## #has_/text_of_/abstract 
 

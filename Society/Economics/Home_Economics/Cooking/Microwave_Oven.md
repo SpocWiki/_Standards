@@ -10,7 +10,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~electrical_appliance,2425052]]"
   - "[[_Standards/WikiData/WD~cooking_appliance,57583712]]"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Percy_Spencer,451052]]"
-has_use: "[[_Standards/WikiData/WD~heating,4311765]]"
+has_use: "[[../../../../WikiData/WD~heating,4311765]]"
 instance_of: "[[_Standards/WikiData/WD~cooking_appliance,57583712]]"
 Nomenclature_for_Museum_Cataloging: "4114"
 OmegaWiki_Defined_Meaning: "1170137"

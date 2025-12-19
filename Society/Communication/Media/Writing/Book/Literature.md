@@ -3,64 +3,64 @@ Baidu_Tieba_name: 文学
 Colon_Classification: O
 Commons_category: Literature
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 Dewey_Decimal_Classification: 800
 different_from:
-- '[[_Standards/WikiData/WD~literary_studies,208217]]'
-- '[[_Standards/WikiData/WD~literary_work,7725634]]'
-- '[[_Standards/WikiData/WD~Q11761887,11761887]]'
-exact_match: "http://cv.iptc.org/newscodes/subjectcode/01010000"
+  - "[[_Standards/WikiData/WD~literary_studies,208217]]"
+  - "[[_Standards/WikiData/WD~literary_work,7725634]]"
+  - "[[_Standards/WikiData/WD~Q11761887,11761887]]"
+exact_match: http://cv.iptc.org/newscodes/subjectcode/01010000
 has_characteristic:
-- '[[_Standards/WikiData/WD~literary_genre,223393]]'
-- '[[_Standards/WikiData/WD~literary_form,4263830]]'
-- '[[_Standards/WikiData/WD~mode,6888090]]'
-- '[[_Standards/WikiData/WD~literary_style,109598321]]'
+  - "[[_Standards/WikiData/WD~literary_genre,223393]]"
+  - "[[_Standards/WikiData/WD~literary_form,4263830]]"
+  - "[[_Standards/WikiData/WD~mode,6888090]]"
+  - "[[_Standards/WikiData/WD~literary_style,109598321]]"
 has_id_wikidata: Q8242
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~literary_work,7725634]]"
 IAB_code: 42
 Iconclass_notation:
-- 8
-- 48C9
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Old%20book%20bindings.jpg"
+  - 8
+  - 48C9
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Old%20book%20bindings.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~class,16889133]]'
-- '[[_Standards/WikiData/WD~group_of_works,17489659]]'
-- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+  - "[[_Standards/WikiData/WD~class,16889133]]"
+  - "[[_Standards/WikiData/WD~group_of_works,17489659]]"
+  - "[[_Standards/WikiData/WD~type_of_arts,56055944]]"
 IPTC_NewsCode: mediatopic/20000013
 Library_of_Congress_Classification: PN
-Mastodon_instance_URL: "https://writing.exchange"
+Mastodon_instance_URL: https://writing.exchange
 MeSH_tree_code: K01.517
-part_of: '[[_Standards/WikiData/WD~language_arts,6486703]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131939,27131939]]'
+part_of: "[[_Standards/WikiData/WD~language_arts,6486703]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27131939,27131939]]"
 PhilPapers_topic: literature
 social_media_followers: 2009425
 spoken_text_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Literature%29.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%87%E0%AE%B2%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D.ogg"
-Stack_Exchange_site_URL: "https://literature.stackexchange.com"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Literature%29.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%87%E0%AE%B2%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D.ogg
+Stack_Exchange_site_URL: https://literature.stackexchange.com
 studied_in:
-- '[[_Standards/WikiData/WD~literary_criticism,58854]]'
-- '[[_Standards/WikiData/WD~humanities,80083]]'
-- '[[_Standards/WikiData/WD~literary_studies,208217]]'
-- '[[_Standards/WikiData/WD~sociology_of_literature,440848]]'
+  - "[[_Standards/WikiData/WD~literary_criticism,58854]]"
+  - "[[_Standards/WikiData/WD~humanities,80083]]"
+  - "[[_Standards/WikiData/WD~literary_studies,208217]]"
+  - "[[_Standards/WikiData/WD~sociology_of_literature,440848]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~literary_work,7725634]]'
-- '[[_Standards/WikiData/WD~class,16889133]]'
-- '[[_Standards/WikiData/WD~art,735]]'
+  - "[[_Standards/WikiData/WD~literary_work,7725634]]"
+  - "[[_Standards/WikiData/WD~class,16889133]]"
+  - "[[_Standards/WikiData/WD~art,735]]"
 subreddit: literature
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Literature,6067896]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Literature,2790566]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Literature,6067896]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Literature,2790566]]"
 UMLS_CUI: C0023866
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 Universal_Decimal_Classification: 82
 U_S_National_Archives_Identifier: 10638161
 ---

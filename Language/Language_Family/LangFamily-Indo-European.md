@@ -31,7 +31,7 @@ has_part_s_:
 discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Jones,273969]]"
 linguistic_typology: "[[_Standards/WikiData/WD~fusional_language,318917]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 subclass_of:

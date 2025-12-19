@@ -4,48 +4,48 @@ Colon_Classification: K7
 Commons_category: Mollusca
 Commons_gallery: Mollusca
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 Dewey_Decimal_Classification: 594
 EPPO_Code: 1MOLLP
-equivalent_class: "http://dbpedia.org/ontology/Mollusca"
+equivalent_class: http://dbpedia.org/ontology/Mollusca
 GS1_GPC_code: 10005449
 has_id_wikidata: Q25326
 Iconclass_notation: 25F72
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mollusca.jpg"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollusca.jpg
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 69458
 Krugosvet_article: nauka_i_tehnika/biologiya/MOLLYUSKI.html
 MeSH_tree_code: B01.050.500.644
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mollusca%20Diversity.jpg"
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollusca%20Diversity.jpg
 OmegaWiki_Defined_Meaning: 2397
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wa%20molusse.ogg"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Weekdieren-article.ogg"
-Stack_Exchange_tag: "https://biology.stackexchange.com/tags/molluscs"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wa%20molusse.ogg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Weekdieren-article.ogg
+Stack_Exchange_tag: https://biology.stackexchange.com/tags/molluscs
 start_time: -500000000-01-01
-studied_in: '[[_Standards/WikiData/WD~malacology,190993]]'
+studied_in: "[[_Standards/WikiData/WD~malacology,190993]]"
 taxon_common_name:
-- Weichtiere
-- bløtdyr
-- Weekdieren
-- mehkužci
+  - Weichtiere
+  - bløtdyr
+  - Weekdieren
+  - mehkužci
 taxon_name: Mollusca
-taxon_rank: '[[_Standards/WikiData/WD~phylum,38348]]'
+taxon_rank: "[[_Standards/WikiData/WD~phylum,38348]]"
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~mollusc_shell,6445670]]'
-- '[[_Standards/WikiData/WD~shellfish,6501235]]'
+  - "[[_Standards/WikiData/WD~mollusc_shell,6445670]]"
+  - "[[_Standards/WikiData/WD~shellfish,6501235]]"
 title: Mollusca
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Q10636788,10636788]]'
-- '[[_Standards/WikiData/WD~Template_Mollusca,14334405]]'
-- '[[_Standards/WikiData/WD~Template_Mollusc_classes,25733663]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353303,42353303]]'
+  - "[[_Standards/WikiData/WD~Q10636788,10636788]]"
+  - "[[_Standards/WikiData/WD~Template_Mollusca,14334405]]"
+  - "[[_Standards/WikiData/WD~Template_Mollusc_classes,25733663]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q42353303,42353303]]"
 UMLS_CUI: C0026391
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 ---
 
 # [[Mollusca]]

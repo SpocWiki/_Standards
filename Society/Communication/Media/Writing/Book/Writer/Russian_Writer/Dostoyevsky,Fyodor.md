@@ -24,7 +24,7 @@ date_of_burial_or_cremation:
 date_of_death: 1881-02-09
 depicted_by: "[[_Standards/WikiData/WD~Portrait_of_Fedor_Dostoyevsky,18689412]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"

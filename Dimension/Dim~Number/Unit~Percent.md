@@ -7,7 +7,7 @@ subdivision_of_this_unit: "[[_Standards/WikiData/WD~per_mille,181011]]"
 followed_by: "[[_Standards/WikiData/WD~per_mille,181011]]"
 different_from: "[[_Standards/WikiData/WD~hundredth,278568]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"

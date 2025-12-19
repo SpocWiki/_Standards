@@ -4,7 +4,7 @@ aliases:
   - Behinderung
 Basisklassifikation: 71.7
 Commons_category: Disabilities
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 handled_mitigated_or_managed_by:
   - "[[_Standards/WikiData/WD~rehabilitation_counseling,3610326]]"
   - "[[_Standards/WikiData/WD~accommodation,98178108]]"

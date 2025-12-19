@@ -26,7 +26,7 @@ influenced_by:
   - "[[_Standards/WikiData/WD~Ernst_Mach,93996]]"
   - "[[_Standards/WikiData/WD~Paul_Valéry,200639]]"
   - "[[_Standards/WikiData/WD~Karl_Pearson,310794]]"
-  - "[[_Standards/WikiData/WD~Henry_George,355245]]"
+  - "[[../../../WikiData/WD~Henry_George,355245]]"
   - "[[_Standards/WikiData/WD~Riazuddin,7322195]]"
   - "[[_Standards/WikiData/WD~Isaac_Newton,935]]"
   - "[[_Standards/WikiData/WD~Fyodor_Dostoyevsky,991]]"

@@ -4,7 +4,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~circulation,205879]]"
   - "[[_Standards/WikiData/WD~air_current,4698318]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 studied_by:
   - "[[_Standards/WikiData/WD~atmospheric_sciences,757520]]"

@@ -11,7 +11,7 @@ has_use:
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
   - "[[_Standards/WikiData/WD~fodder,211439]]"
   - "[[_Standards/WikiData/WD~food,2095]]"
-  - "[[_Standards/WikiData/WD~fiber,161]]"
+  - "[[../../../../../../../../../../WikiData/WD~fiber,161]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
   - "[[_Standards/WikiData/WD~annual_plant,192691]]"

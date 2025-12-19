@@ -15,7 +15,7 @@ drug_or_therapy_used_for_treatment:
   - "[[_Standards/WikiData/WD~denosumab,408283]]"
   - "[[_Standards/WikiData/WD~teriparatide,411781]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 health_specialty: "[[_Standards/WikiData/WD~osteology,819121]]"

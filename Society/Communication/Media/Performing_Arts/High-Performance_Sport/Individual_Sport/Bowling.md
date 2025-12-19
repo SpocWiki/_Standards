@@ -35,7 +35,7 @@ OpenStreetMap_tag: sport=bowling
 
 # [[Bowling]] 
 
-#is_/same_as :: [[../../../../../../_Standards/WikiData/WD~bowling,3177899|WD~bowling,3177899]]  
+#is_/same_as :: [[../../../../../../WikiData/WD~bowling,3177899|WD~bowling,3177899]]  
 
 ## #has_/text_of_/abstract 
 

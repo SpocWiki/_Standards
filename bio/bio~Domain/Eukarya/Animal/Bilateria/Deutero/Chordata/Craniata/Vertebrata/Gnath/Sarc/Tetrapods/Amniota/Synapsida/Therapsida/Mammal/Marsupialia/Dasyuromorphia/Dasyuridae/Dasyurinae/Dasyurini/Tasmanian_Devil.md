@@ -37,8 +37,8 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~viviparity,120446]]"
   - "[[_Standards/WikiData/WD~biofluorescence,101248333]]"
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Sarcophilus,937821]]"
-  - "[[_Standards/WikiData/WD~Dasyurini,533062]]"
+  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Sarcophilus,937821]]"
+  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurini,533062]]"
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Endangered_status,96377276]]"
@@ -111,7 +111,7 @@ nickname: T-devil
 
 [[Tasmanian_Devil]]s]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Sarcophilus,937821|WD~Sarcophilus,937821]]  
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Sarcophilus,937821|WD~Sarcophilus,937821]]  
 
 ## #has_/text_of_/abstract 
 

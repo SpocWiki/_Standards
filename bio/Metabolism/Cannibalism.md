@@ -7,7 +7,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~feeding_behavior,14819856]]"
 has_part_s_: "[[_Standards/WikiData/WD~eating,213449]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 different_from: "[[_Standards/WikiData/WD~human_cannibalism,2853058]]"

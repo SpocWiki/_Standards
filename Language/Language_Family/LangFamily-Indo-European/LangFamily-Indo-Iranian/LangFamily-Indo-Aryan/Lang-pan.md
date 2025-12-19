@@ -85,7 +85,7 @@ different_from:
   - "[[_Standards/WikiData/WD~pendjabi_occidental,38638472]]"
   - "[[_Standards/WikiData/WD~Punjabi,112885440]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Panjabi_A_Comprehensive_Grammar,23831241]]"

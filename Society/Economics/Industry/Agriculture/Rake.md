@@ -14,7 +14,7 @@ has_use:
   - "[[_Standards/WikiData/WD~tillage,878333]]"
   - "[[_Standards/WikiData/WD~cleaning,12773274]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~agricultural_tool,3629395]]"

@@ -74,7 +74,7 @@ child_organization_unit:
   - "[[_Standards/WikiData/WD~WIMM_One,7950747]]"
   - "[[_Standards/WikiData/WD~Google_Poland,9274518]]"
   - "[[_Standards/WikiData/WD~SlickLogin,15732990]]"
-  - "[[_Standards/WikiData/WD~Google_DeepMind,15733006]]"
+  - "[[../../../../../../../WikiData/WD~Google_DeepMind,15733006]]"
   - "[[_Standards/WikiData/WD~Google_Cloud_Platform,17054505]]"
   - "[[_Standards/WikiData/WD~Google_Store,19758689]]"
   - "[[_Standards/WikiData/WD~Google_(Switzerland),29000317]]"
@@ -491,7 +491,7 @@ owner_of:
   - "[[_Standards/WikiData/WD~Google_Tag_Manager,11775280]]"
   - "[[_Standards/WikiData/WD~Google_Fonts,14799884]]"
   - "[[_Standards/WikiData/WD~Lifescape,15023900]]"
-  - "[[_Standards/WikiData/WD~Google_DeepMind,15733006]]"
+  - "[[../../../../../../../WikiData/WD~Google_DeepMind,15733006]]"
   - "[[_Standards/WikiData/WD~.みんな,16049689]]"
   - "[[_Standards/WikiData/WD~Google_Garage,16638513]]"
   - "[[_Standards/WikiData/WD~Google_Traffic,16927666]]"
@@ -529,12 +529,12 @@ owner_of:
   - "[[_Standards/WikiData/WD~Google_Voice,51712]]"
   - "[[_Standards/WikiData/WD~meebo,58508]]"
 P8189: 987007311977205100
-parent_organization: "[[_Standards/WikiData/WD~Alphabet_Inc.,20800404]]"
+parent_organization: "[[../../../../../../../WikiData/WD~Alphabet_Inc.,20800404]]"
 partnership_with:
   - "[[_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151]]"
   - "[[_Standards/WikiData/WD~Entertainment_Consumers_Association,5380446]]"
 part_of:
-  - "[[_Standards/WikiData/WD~Alphabet_Inc.,20800404]]"
+  - "[[../../../../../../../WikiData/WD~Alphabet_Inc.,20800404]]"
   - "[[_Standards/WikiData/WD~Big_Tech_(web),30748112]]"
   - "[[_Standards/WikiData/WD~list_of_companies_involved_in_the_Gaza_war,134661623]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25556329,25556329]]"

@@ -13,7 +13,7 @@ discoverer_or_inventor:
   - "[[_Standards/WikiData/WD~Euclid,8747]]"
 different_from:
   - "[[_Standards/WikiData/WD~inductive_reasoning,484511]]"
-  - "[[_Standards/WikiData/WD~magnetic_flux_density,30204]]"
+  - "[[../../WikiData/WD~magnetic_flux_density,30204]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"

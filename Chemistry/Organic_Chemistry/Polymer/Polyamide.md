@@ -21,7 +21,7 @@ Commons_category: Polyamides
 
 # [[Polyamide]] 
 
-#is_/same_as :: [[WD~polyamide,145273]] 
+#is_/same_as :: [[../../../WikiData/WD~polyamide,145273]] 
 
 ## #has_/text_of_/abstract 
 

@@ -5,7 +5,7 @@ has_id_wikidata: Q180910
 has_part_s_:
   - "[[_Standards/WikiData/WD~entertainment,173799]]"
   - "[[_Standards/WikiData/WD~recreation,184872]]"
-opposite_of: "[[_Standards/WikiData/WD~work,268378]]"
+opposite_of: "[[../../../../../WikiData/WD~work,268378]]"
 has_cause:
   - "[[_Standards/WikiData/WD~retirement,946865]]"
   - "[[_Standards/WikiData/WD~reduction_of_working_hours,3454697]]"

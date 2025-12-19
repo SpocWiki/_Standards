@@ -1,6 +1,6 @@
 ---
 has_id_wikidata: Q877517
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~athletics,11047409]]"
   - "[[_Standards/WikiData/WD~throwing_game,128305747]]"

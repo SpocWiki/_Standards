@@ -30,7 +30,7 @@ position_held:
   - "[[_Standards/WikiData/WD~president,1255921]]"
 interested_in: "[[_Standards/WikiData/WD~color_vision,374259]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

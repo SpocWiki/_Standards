@@ -20,7 +20,7 @@ NBN_System_Key: NBNSYS0000131445
 
 # [[Cervus]] 
 
-#is_/same_as :: [[WD~Cervus,644255]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervus,644255]] 
 
 ## #has_/text_of_/abstract 
 

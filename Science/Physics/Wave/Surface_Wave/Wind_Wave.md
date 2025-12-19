@@ -2,7 +2,7 @@
 aliases:
   - Wasserwelle
 has_id_wikidata: Q165848
-subclass_of: "[[_Standards/WikiData/WD~surface_wave,889796]]"
+subclass_of: "[[../../../../WikiData/WD~surface_wave,889796]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"

@@ -69,7 +69,7 @@ subclass_of:
 owner_of: "[[_Standards/WikiData/WD~business,4830453]]"
 item_operated: "[[_Standards/WikiData/WD~enterprise,6881511]]"
 field_of_work:
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../../WikiData/WD~economic_activity,8187769]]"
   - "[[_Standards/WikiData/WD~commerce,26643]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_entrepreneur,14358979]]"
 partially_coincident_with: "[[_Standards/WikiData/WD~businessperson,43845]]"

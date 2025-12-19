@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q131539
 instance_of:
   - "[[_Standards/WikiData/WD~literary_genre,223393]]"
@@ -7,7 +7,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
   - "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"

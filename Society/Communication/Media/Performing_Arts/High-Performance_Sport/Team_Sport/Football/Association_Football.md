@@ -29,7 +29,7 @@ uses:
   - "[[_Standards/WikiData/WD~association_football_ball,12252328]]"
   - "[[_Standards/WikiData/WD~association_football_pitch,8524]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 subclass_of: "[[_Standards/WikiData/WD~ball_game,877517]]"

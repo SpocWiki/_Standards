@@ -1,7 +1,7 @@
 ---
 aliases:
   - Marius_Petipa
-  - Marius Ivanovich Petipa 
+  - Marius Ivanovich Petipa
   - Мариус Иванович Петипа
   - Victor Marius Alphonse Petipa
   - Marius Petipa
@@ -31,7 +31,7 @@ award_received:
   - "[[_Standards/WikiData/WD~Order_of_St._Vladimir,_4th_class,21148960]]"
 educated_at: "[[_Standards/WikiData/WD~Royal_Conservatory_of_Brussels,336968]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"

@@ -1,32 +1,32 @@
 ---
 aliases:
-- "Hundred Year War"
-- "Hundred Years War"
-- "100 Years War"
-- "Hundred Years' War"
+  - Hundred Year War
+  - Hundred Years War
+  - 100 Years War
+  - Hundred Years' War
 BHCL_UUID: 622e9677-7ebf-4fb9-86f8-aa0fdd57fd6e
-Commons_category: "Hundred Years' War"
+Commons_category: Hundred Years' War
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 end_time: 1453-06
 has_id_wikidata: Q12551
 has_list: "[[_Standards/WikiData/WD~timeline_of_the_Hundred_Years'_War,7806363]]"
 has_time_started: 1337-06
 has_time_stopped: 1453-06
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20crecy%20froissart.jpg"
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20crecy%20froissart.jpg
+instance_of: "[[_Standards/WikiData/WD~war,198]]"
 Krugosvet_article: istoriya/stoletnyaya-voina
-location: '[[_Standards/WikiData/WD~France,142]]'
+location: "[[_Standards/WikiData/WD~France,142]]"
 participant:
-- '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q12107%20%28bre%29-ThonyVezbe-Brezel%20Kant%20Vloaz.wav"
+  - "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q12107%20%28bre%29-ThonyVezbe-Brezel%20Kant%20Vloaz.wav
 Provenio_UUID: 920bb582-b77d-47f3-ae2e-55587b8870ef
 start_time: 1337-06
-Universal_Decimal_Classification: "355.48(410:44)\"1337/1453\""
-Wolfram_Language_entity_code: "Entity[\"MilitaryConflict\", \"HundredYearsWar\"]"
+Universal_Decimal_Classification: 355.48(410:44)"1337/1453"
+Wolfram_Language_entity_code: Entity["MilitaryConflict", "HundredYearsWar"]
 ---
 
 # [[1337-Hundred_Years_War+1453]] 

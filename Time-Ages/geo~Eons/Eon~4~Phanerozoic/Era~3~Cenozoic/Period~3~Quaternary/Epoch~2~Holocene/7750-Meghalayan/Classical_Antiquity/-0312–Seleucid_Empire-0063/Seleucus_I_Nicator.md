@@ -21,7 +21,7 @@ mother: "[[_Standards/WikiData/WD~Laodice_of_Macedonia,446503]]"
 place_of_death: "[[_Standards/WikiData/WD~Lysimachia,517690]]"
 father: "[[_Standards/WikiData/WD~Antiochus,579596]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"

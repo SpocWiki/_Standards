@@ -2,7 +2,7 @@
 aliases:
   - Paleontology
   - Paläontologie
-  - palaeontology 
+  - palaeontology
   - palæontology
 has_id_wikidata: Q7205
 All_Science_Journal_Classification_Codes: 1911
@@ -10,7 +10,7 @@ BHCL_UUID: ad3bb52a-21a0-4067-8081-1c26294bd0a0
 Colon_Classification: H6
 Commons_category: Paleontology
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"

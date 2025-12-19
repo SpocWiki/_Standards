@@ -1,9 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q611487
-director_manager: "[[_Standards/WikiData/WD~Peter_Molyneux,164565]]"
+director_manager: "[[../../../../../../../WikiData/WD~Peter_Molyneux,164565]]"
 founded_by:
-  - "[[_Standards/WikiData/WD~Peter_Molyneux,164565]]"
+  - "[[../../../../../../../WikiData/WD~Peter_Molyneux,164565]]"
   - "[[_Standards/WikiData/WD~Les_Edgar,33978196]]"
 parent_organization_or_unit: "[[_Standards/WikiData/WD~Electronic_Arts,173941]]"
 instance_of: "[[_Standards/WikiData/WD~video_game_developer,210167]]"

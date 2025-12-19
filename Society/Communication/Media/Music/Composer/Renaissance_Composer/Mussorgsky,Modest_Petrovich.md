@@ -1,9 +1,9 @@
 ---
 aliases:
   - Modest_Petrovich_Mussorgsky
-  - Modest Petrovich Mussorgsky 
-  - Modest Mussorgsky 
-  - Mussorgsky 
+  - Modest Petrovich Mussorgsky
+  - Modest Mussorgsky
+  - Mussorgsky
   - Модест Петрович Мусоргский
 has_id_wikidata: Q132682
 is_member_of: "[[_Standards/WikiData/WD~The_Five,190390]]"
@@ -17,7 +17,7 @@ occupation:
   - "[[_Standards/WikiData/WD~composer,36834]]"
   - "[[_Standards/WikiData/WD~military_personnel,47064]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"

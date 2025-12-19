@@ -8,7 +8,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~generative_cell_nucleus,22328984]]"
 studied_by: "[[_Standards/WikiData/WD~palynology,212919]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 different_from: "[[_Standards/WikiData/WD~flyweight_pattern,1060964]]"

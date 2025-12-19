@@ -43,7 +43,7 @@ award_received:
   - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Crown_of_Italy,14865239]]"
   - "[[_Standards/WikiData/WD~Knight_of_Grace_of_the_Order_of_Saint_John,64967608]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"

@@ -29,7 +29,7 @@ MeSH_tree_code: F02.463.785.373
 
 # [[Decision_Making]] 
 
-#is_/same_as :: [[../../../../_Standards/WikiData/WD~decision_making,1331926|WD~decision_making,1331926]]  
+#is_/same_as :: [[../../../../WikiData/WD~decision_making,1331926|WD~decision_making,1331926]]  
 
 ## #has_/text_of_/abstract 
 

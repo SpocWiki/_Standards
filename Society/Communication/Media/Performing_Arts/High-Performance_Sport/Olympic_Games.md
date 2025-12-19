@@ -23,7 +23,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Q130749517,130749517]]"
 sponsor: "[[_Standards/WikiData/WD~Visa_Inc.,328840]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
   - "[[_Standards/WikiData/WD~Q30059240,30059240]]"

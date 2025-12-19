@@ -1,69 +1,69 @@
 ---
 Archive_of_Our_Own_tag: Love
-Colon_Classification: "S:55"
+Colon_Classification: S:55
 Commons_category: Love
 Commons_gallery: Love
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 Dewey_Decimal_Classification:
-- 152.41
-- 177.7
+  - 152.41
+  - 177.7
 different_from:
-- '[[_Standards/WikiData/WD~Love,224654]]'
-- '[[_Standards/WikiData/WD~Amo,231444]]'
-- '[[_Standards/WikiData/WD~Amor,250861]]'
-- '[[_Standards/WikiData/WD~Amore,450778]]'
-- '[[_Standards/WikiData/WD~Amour,474367]]'
-- '[[_Standards/WikiData/WD~limerence,1210705]]'
-- '[[_Standards/WikiData/WD~infatuation,1320124]]'
-- '[[_Standards/WikiData/WD~Meile,1516527]]'
-- '[[_Standards/WikiData/WD~Laska,1806606]]'
-- '[[_Standards/WikiData/WD~Liebe,1823724]]'
-- '[[_Standards/WikiData/WD~falling_in_love,1854755]]'
-- '[[_Standards/WikiData/WD~Ljubav,6660863]]'
-- '[[_Standards/WikiData/WD~Cinta,11266420]]'
-- '[[_Standards/WikiData/WD~Ljubezen,20519184]]'
-- '[[_Standards/WikiData/WD~Armastus,20527689]]'
-- '[[_Standards/WikiData/WD~Miłość,71068291]]'
+  - "[[_Standards/WikiData/WD~Love,224654]]"
+  - "[[_Standards/WikiData/WD~Amo,231444]]"
+  - "[[_Standards/WikiData/WD~Amor,250861]]"
+  - "[[_Standards/WikiData/WD~Amore,450778]]"
+  - "[[_Standards/WikiData/WD~Amour,474367]]"
+  - "[[_Standards/WikiData/WD~limerence,1210705]]"
+  - "[[_Standards/WikiData/WD~infatuation,1320124]]"
+  - "[[_Standards/WikiData/WD~Meile,1516527]]"
+  - "[[_Standards/WikiData/WD~Laska,1806606]]"
+  - "[[_Standards/WikiData/WD~Liebe,1823724]]"
+  - "[[_Standards/WikiData/WD~falling_in_love,1854755]]"
+  - "[[_Standards/WikiData/WD~Ljubav,6660863]]"
+  - "[[_Standards/WikiData/WD~Cinta,11266420]]"
+  - "[[_Standards/WikiData/WD~Ljubezen,20519184]]"
+  - "[[_Standards/WikiData/WD~Armastus,20527689]]"
+  - "[[_Standards/WikiData/WD~Miłość,71068291]]"
 hashtag:
-- amore
-- amour
-- Liebe
-- любовь
-- love
-- amor
-has_characteristic: '[[_Standards/WikiData/WD~intimacy,16358629]]'
+  - amore
+  - amour
+  - Liebe
+  - любовь
+  - love
+  - amor
+has_characteristic: "[[_Standards/WikiData/WD~intimacy,16358629]]"
 has_id_wikidata: Q316
 has_part_s_:
-- '[[_Standards/WikiData/WD~love_in_Islam,127121611]]'
-- '[[_Standards/WikiData/WD~Affection_to_conspecifics_in_animals,131139934]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/DickseeRomeoandJuliet.jpg"
+  - "[[_Standards/WikiData/WD~love_in_Islam,127121611]]"
+  - "[[_Standards/WikiData/WD~Affection_to_conspecifics_in_animals,131139934]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/DickseeRomeoandJuliet.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~theme,1053916]]'
-- '[[_Standards/WikiData/WD~advanced_emotion,16748888]]'
+  - "[[_Standards/WikiData/WD~theme,1053916]]"
+  - "[[_Standards/WikiData/WD~advanced_emotion,16748888]]"
 Krugosvet_article: gumanitarnye_nauki/filosofiya/LYUBOV.html
 Library_of_Congress_Classification: BD436
 MeSH_tree_code: F01.470.734
 OmegaWiki_Defined_Meaning: 5497
-opposite_of: '[[_Standards/WikiData/WD~hatred,160232]]'
+opposite_of: "[[_Standards/WikiData/WD~hatred,160232]]"
 part_of:
-- '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
-- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828880,22828880]]'
+  - "[[_Standards/WikiData/WD~theory_of_emotion,9357054]]"
+  - "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828880,22828880]]"
 Provenio_UUID: c123128f-9937-423b-a4fa-93a94001e839
 subclass_of:
-- '[[_Standards/WikiData/WD~affection,1124198]]'
-- '[[_Standards/WikiData/WD~experience,5489108]]'
-- '[[_Standards/WikiData/WD~emotions,9415]]'
+  - "[[_Standards/WikiData/WD~affection,1124198]]"
+  - "[[_Standards/WikiData/WD~experience,5489108]]"
+  - "[[_Standards/WikiData/WD~emotions,9415]]"
 subreddit: love
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Love_sidebar,11862748]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Love_sidebar,11862748]]"
 UMLS_CUI: C0024028
 ---
 

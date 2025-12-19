@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q190132
 subclass_of: "[[_Standards/WikiData/WD~motion,79782]]"
 class_of_object_s_of_occurrence: "[[_Standards/WikiData/WD~fluid,102205]]"
-opposite_of: "[[_Standards/WikiData/WD~laminar_flow,189452]]"
+opposite_of: "[[../../../../WikiData/WD~laminar_flow,189452]]"
 instance_of:
   - "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
   - "[[_Standards/WikiData/WD~physical_property,4373292]]"

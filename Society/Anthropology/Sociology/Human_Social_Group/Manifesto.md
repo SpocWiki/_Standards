@@ -4,7 +4,7 @@ has_id_wikidata: Q46337
 different_from: "[[_Standards/WikiData/WD~doctrine,117850]]"
 instance_of: "[[_Standards/WikiData/WD~literary_genre,223393]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~work,386724]]"
+  - "[[../../../../WikiData/WD~work,386724]]"
   - "[[_Standards/WikiData/WD~declaration,62662439]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"

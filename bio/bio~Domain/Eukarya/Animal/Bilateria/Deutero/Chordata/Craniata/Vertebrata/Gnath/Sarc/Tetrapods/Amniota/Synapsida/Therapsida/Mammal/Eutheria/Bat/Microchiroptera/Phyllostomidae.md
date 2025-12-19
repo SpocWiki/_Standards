@@ -17,7 +17,7 @@ UMLS_CUI: C0324760
 
 # [[Phyllostomidae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Phyllostomidae,600042|WD~Phyllostomidae,600042]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Phyllostomidae,600042|WD~Phyllostomidae,600042]] 
 
 ## #has_/text_of_/abstract 
 

@@ -57,7 +57,7 @@ field_of_work:
   - "[[_Standards/WikiData/WD~inventor,205375]]"
   - "[[_Standards/WikiData/WD~writer,36180]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_first_supplement,16014700]]"

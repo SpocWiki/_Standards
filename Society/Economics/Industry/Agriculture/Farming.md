@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q24886094
 practiced_by: "[[_Standards/WikiData/WD~farmer,131512]]"
 facet_of: "[[_Standards/WikiData/WD~farm,131596]]"
-instance_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+instance_of: "[[../../../../WikiData/WD~economic_activity,8187769]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Agricultural%20waste%20from%20weeding%20in%20a%20farm.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Dirty%20palm.jpg

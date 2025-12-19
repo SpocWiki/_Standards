@@ -13,7 +13,7 @@ taxon_name: Platypoda
 
 # [[Platypoda]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Platypoda,1976132|WD~Platypoda,1976132]]  
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Platypoda,1976132|WD~Platypoda,1976132]]  
 
 ## #has_/text_of_/abstract 
 

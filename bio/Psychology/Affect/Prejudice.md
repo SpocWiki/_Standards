@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q179742
 instance_of:
-  - "[[_Standards/WikiData/WD~affect,159904]]"
+  - "[[../../../WikiData/WD~affect,159904]]"
   - "[[_Standards/WikiData/WD~type_of_bias,100912473]]"
 subclass_of: "[[_Standards/WikiData/WD~bias,742736]]"
 described_by_source:

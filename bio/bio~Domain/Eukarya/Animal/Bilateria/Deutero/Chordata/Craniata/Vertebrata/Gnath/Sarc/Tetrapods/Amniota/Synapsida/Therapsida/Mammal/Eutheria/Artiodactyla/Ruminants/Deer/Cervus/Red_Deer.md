@@ -23,7 +23,7 @@ taxon_common_name:
   - Rothirsch
   - Ciervo
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
-parent_taxon: "[[_Standards/WikiData/WD~Cervus,644255]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervus,644255]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 described_by_source: "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 this_taxon_is_source_of:

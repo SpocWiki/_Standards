@@ -28,7 +28,7 @@ has_grammatical_case:
   - "[[_Standards/WikiData/WD~absolutive_case,332734]]"
   - "[[_Standards/WikiData/WD~oblique_case,1233197]]"
   - "[[_Standards/WikiData/WD~direct_case,1751855]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 instance_of:
   - "[[_Standards/WikiData/WD~modern_language,1288568]]"
   - "[[_Standards/WikiData/WD~natural_language,33742]]"

@@ -13,7 +13,7 @@ nickname:
 cause_of_death: http://www.wikidata.org/.well-known/genid/b88ce2f6b53f31ad4c8f6b9e196456d5
 lifestyle: "[[_Standards/WikiData/WD~vegetarianism,83364]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

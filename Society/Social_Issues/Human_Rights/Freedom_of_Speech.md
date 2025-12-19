@@ -9,7 +9,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~cultural_rights,5193405]]"
   - "[[_Standards/WikiData/WD~civil_liberties,29556]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 different_from:
   - "[[_Standards/WikiData/WD~Freedom_of_expression,1029773]]"

@@ -11,7 +11,7 @@ has_id_wikidata: Q10508
 named_after: "[[_Standards/WikiData/WD~compass,103896]]"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
 topic_has_template:

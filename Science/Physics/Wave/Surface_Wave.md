@@ -5,7 +5,7 @@ has_id_wikidata: Q889796
 
 # [[Surface_Wave]] 
 
-#is_/same_as :: [[WD~surface_wave,889796]] 
+#is_/same_as :: [[../../../WikiData/WD~surface_wave,889796]] 
 
 ## #has_/text_of_/abstract 
 

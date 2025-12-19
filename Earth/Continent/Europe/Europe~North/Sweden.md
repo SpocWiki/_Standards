@@ -181,7 +181,7 @@ highest_point: "[[_Standards/WikiData/WD~Kebnekaise,214011]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Sweden,272930]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"

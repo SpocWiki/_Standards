@@ -14,7 +14,7 @@ practiced_by:
   - "[[_Standards/WikiData/WD~Q1584873,1584873]]"
   - "[[_Standards/WikiData/WD~insurer,23081349]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"

@@ -1,11 +1,11 @@
 ---
 aliases:
 has_id_wikidata: Q192521
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 practiced_by: "[[_Standards/WikiData/WD~drafter,683754]]"
 partially_coincident_with: "[[_Standards/WikiData/WD~technical_illustration,857780]]"
 part_of:
-  - "[[_Standards/WikiData/WD~graphics,1027879]]"
+  - "[[../../../../../../WikiData/WD~graphics,1027879]]"
   - "[[_Standards/WikiData/WD~representation,1272626]]"
 instance_of: "[[_Standards/WikiData/WD~field_of_study,1047113]]"
 subclass_of:

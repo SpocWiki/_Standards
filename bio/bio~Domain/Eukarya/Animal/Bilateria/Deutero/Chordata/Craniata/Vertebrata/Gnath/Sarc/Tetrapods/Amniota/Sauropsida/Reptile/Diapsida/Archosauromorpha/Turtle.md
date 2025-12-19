@@ -4,7 +4,7 @@ aliases:
   - Turtle
   - Schildkröte
   - Testudines
-  - tortoise 
+  - tortoise
   - terrapin
 has_id_wikidata: Q223044
 Commons_category: Testudines
@@ -23,7 +23,7 @@ parent_taxon:
   - "[[_Standards/WikiData/WD~Perichelydia,64043742]]"
 has_list: "[[_Standards/WikiData/WD~list_of_Testudines_families,194582]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"

@@ -98,7 +98,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]"
   - "[[_Standards/WikiData/WD~Practitioner,7237369]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 instance_of:
   - "[[_Standards/WikiData/WD~health_profession,3922583]]"

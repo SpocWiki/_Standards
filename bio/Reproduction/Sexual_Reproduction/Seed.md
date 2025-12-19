@@ -12,7 +12,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~endosperm,25624]]"
 develops_from: "[[_Standards/WikiData/WD~ovule,380138]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"

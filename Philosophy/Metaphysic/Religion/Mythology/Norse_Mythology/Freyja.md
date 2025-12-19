@@ -19,7 +19,7 @@ instance_of:
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Ēostre,253056]]"
 spouse: "[[_Standards/WikiData/WD~Óðr,293560]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 owner_of:

@@ -51,7 +51,7 @@ taxon_common_name:
   - Krokusen
 has_fruit_type: "[[_Standards/WikiData/WD~capsule,147768]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
@@ -60,7 +60,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Norsk_Haandlexikon,65528751]]"
   - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]"
 uses: "[[_Standards/WikiData/WD~corm,858568]]"
-parent_taxon: "[[_Standards/WikiData/WD~Crocoideae,5187415]]"
+parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Crocoideae,5187415]]"
 taxonomic_type: "[[_Standards/WikiData/WD~Crocus_sativus,15041677]]"
 habitat: "[[_Standards/WikiData/WD~dry_soil,30313267]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
@@ -78,7 +78,7 @@ NBN_System_Key: NHMSYS0000457717
 
 # [[Crocus]] 
 
-#is_/same_as :: [[WD~Crocus,157806]] 
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Crocus,157806]] 
 
 ## #has_/text_of_/abstract 
 

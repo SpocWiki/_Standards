@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q39645
 is_the_study_of: "[[_Standards/WikiData/WD~meaning,183046]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 different_from:
   - "[[_Standards/WikiData/WD~semantics,796212]]"

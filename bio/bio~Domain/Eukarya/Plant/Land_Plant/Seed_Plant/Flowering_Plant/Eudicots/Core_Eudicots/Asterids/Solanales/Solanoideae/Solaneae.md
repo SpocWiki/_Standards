@@ -3,7 +3,7 @@ aliases:
   - Solanaceae
 has_id_wikidata: Q3489128
 taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-parent_taxon: "[[_Standards/WikiData/WD~Solanoideae,2560968]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Solanoideae,2560968]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20020323-0062%20Solanum%20seaforthianum.jpg
 Commons_category: Solaneae
@@ -14,7 +14,7 @@ UMLS_CUI: C1902798
 
 # [[Solaneae]] 
 
-#is_/same_as :: [[WD~Solaneae,3489128]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Solaneae,3489128]] 
 
 ## #has_/text_of_/abstract 
 

@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q6145728
 taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-parent_taxon: "[[_Standards/WikiData/WD~Byttnerioideae,652608]]"
+parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Byttnerioideae,652608]]"
 topic_s_main_category: "[[_Standards/WikiData/WD~Q32525039,32525039]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cacao.jpeg
@@ -12,7 +12,7 @@ taxon_name: Theobromateae
 
 # [[Theobromateae]] 
 
-#is_/same_as :: [[WD~Theobromateae,6145728]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Theobromateae,6145728]] 
 
 ## #has_/text_of_/abstract 
 

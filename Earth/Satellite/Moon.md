@@ -1,111 +1,111 @@
 ---
-3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20elevation.stl"
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20elevation.stl
 albedo: 0.136
 angular_diameter: 34.1
 apoapsis: 405500
 apparent_magnitude: -12.74
 Archive_of_Our_Own_tag: Moon
 area: 37930000
-astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Decrescent%20icon.svg"
+astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Decrescent%20icon.svg
 attendance: 12
 child_astronomical_body:
-- '[[_Standards/WikiData/WD~Lunar_Reconnaissance_Orbiter,331778]]'
-- '[[_Standards/WikiData/WD~CAPSTONE,85160256]]'
+  - "[[_Standards/WikiData/WD~Lunar_Reconnaissance_Orbiter,331778]]"
+  - "[[_Standards/WikiData/WD~CAPSTONE,85160256]]"
 Colon_Classification: B92
 Commons_category: Moon
 Commons_gallery: Moon
-coordinate_location: "<http://www.wikidata.org/entity/Q405> Point(0.0 0.0)"
+coordinate_location: <http://www.wikidata.org/entity/Q405> Point(0.0 0.0)
 density: 3.344
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 diameter: 3476.2
-different_from: '[[_Standards/WikiData/WD~Księżyc,17491583]]'
-diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Diocese_of_Orlando,426778]]'
+different_from: "[[_Standards/WikiData/WD~Księżyc,17491583]]"
+diocese: "[[_Standards/WikiData/WD~Roman_Catholic_Diocese_of_Orlando,426778]]"
 distance_from_Earth: 385000.5
 flattening: 0.00125
 has_characteristic:
-- '[[_Standards/WikiData/WD~magnetic_field_of_the_Moon,1037706]]'
-- '[[_Standards/WikiData/WD~moonquake,1130706]]'
+  - "[[_Standards/WikiData/WD~magnetic_field_of_the_Moon,1037706]]"
+  - "[[_Standards/WikiData/WD~moonquake,1130706]]"
 has_id_wikidata: Q405
 has_part_s_:
-- '[[_Standards/WikiData/WD~Atmosphere_of_the_Moon,115507]]'
-- '[[_Standards/WikiData/WD~Montes_Pyrenaeus,500909]]'
-- '[[_Standards/WikiData/WD~lunar_soil,1037499]]'
-- '[[_Standards/WikiData/WD~geological_features_on_the_Moon,12046612]]'
+  - "[[_Standards/WikiData/WD~Atmosphere_of_the_Moon,115507]]"
+  - "[[_Standards/WikiData/WD~Montes_Pyrenaeus,500909]]"
+  - "[[_Standards/WikiData/WD~lunar_soil,1037499]]"
+  - "[[_Standards/WikiData/WD~geological_features_on_the_Moon,12046612]]"
 has_time_started: -4527000000
-has_use: '[[_Standards/WikiData/WD~colonization_of_the_Moon,367737]]'
-highest_point: '[[_Standards/WikiData/WD~Selenean_summit,18356771]]'
-history_of_topic: '[[_Standards/WikiData/WD~origin_of_the_Moon,7102486]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/FullMoon2010.jpg"
+has_use: "[[_Standards/WikiData/WD~colonization_of_the_Moon,367737]]"
+highest_point: "[[_Standards/WikiData/WD~Selenean_summit,18356771]]"
+history_of_topic: "[[_Standards/WikiData/WD~origin_of_the_Moon,7102486]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/FullMoon2010.jpg
 inception: -4527000000
 instance_of:
-- '[[_Standards/WikiData/WD~regular_moon,1086783]]'
-- '[[_Standards/WikiData/WD~planetary-mass_moon,85793519]]'
-- '[[_Standards/WikiData/WD~planetary_moon,109645860]]'
+  - "[[_Standards/WikiData/WD~regular_moon,1086783]]"
+  - "[[_Standards/WikiData/WD~planetary-mass_moon,85793519]]"
+  - "[[_Standards/WikiData/WD~planetary_moon,109645860]]"
 Krugosvet_article: nauka_i_tehnika/astronomiya/LUNA.html
-located_on_astronomical_body: '[[_Standards/WikiData/WD~Moon,405]]'
-location: '[[_Standards/WikiData/WD~inner_Solar_System,7879772]]'
-lowest_point: '[[_Standards/WikiData/WD~Antoniadi,598608]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Moon,13476345]]'
+located_on_astronomical_body: "[[_Standards/WikiData/WD~Moon,405]]"
+location: "[[_Standards/WikiData/WD~inner_Solar_System,7879772]]"
+lowest_point: "[[_Standards/WikiData/WD~Antoniadi,598608]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Moon,13476345]]"
 mass: 73.4767
 MeSH_tree_code: G01.060.075.730.700.200.500
-named_after: '[[_Standards/WikiData/WD~light,9128]]'
-nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Night%20view%20of%20THE%20MOON.jpg"
+named_after: "[[_Standards/WikiData/WD~light,9128]]"
+nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Night%20view%20of%20THE%20MOON.jpg
 OmegaWiki_Defined_Meaning: 5730
 orbital_eccentricity: 0.0567
 orbital_inclination: 5.145
 orbital_period: 27.321661
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%2017%20Moon%20Panorama%20banner.jpg"
-parent_astronomical_body: '[[_Standards/WikiData/WD~Earth,2]]'
-part_of: '[[_Standards/WikiData/WD~Earth-Moon_system,18589965]]'
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%2017%20Moon%20Panorama%20banner.jpg
+parent_astronomical_body: "[[_Standards/WikiData/WD~Earth,2]]"
+part_of: "[[_Standards/WikiData/WD~Earth-Moon_system,18589965]]"
 patronage: 12
 periapsis: 363300
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110305386,110305386]]'
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110305386,110305386]]"
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-Mond.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-M%C3%A5nen.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-moon.ogg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-Mond.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-M%C3%A5nen.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/En-us-moon.ogg
 Provenio_UUID: b74e3a1e-07c5-4ab5-856e-a47725502d94
 radius:
-- 1735.97
-- 1738.14
-- 1737.1
+  - 1735.97
+  - 1738.14
+  - 1737.1
 semi_major_axis_of_an_orbit: 384400
-spherical_panorama_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20texture.jpg"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BC%D5%B8%D6%82%D5%BD%D5%AB%D5%B6%20%28Moon%29.ogg"
+spherical_panorama_image: http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20texture.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BC%D5%B8%D6%82%D5%BD%D5%AB%D5%B6%20%28Moon%29.ogg
 studied_in:
-- '[[_Standards/WikiData/WD~exploration_of_the_Moon,1064739]]'
-- '[[_Standards/WikiData/WD~selenology,126181255]]'
+  - "[[_Standards/WikiData/WD~exploration_of_the_Moon,1064739]]"
+  - "[[_Standards/WikiData/WD~selenology,126181255]]"
 subreddit: moon
 surface_gravity: 1.62
 synodic_period: 29.530589
 temperature:
-- 390
-- 95
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_The_Moon,8070793]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Moon,14615839]]'
-type_of_orbit: '[[_Standards/WikiData/WD~highly_elliptical_orbit,38982]]'
+  - 390
+  - 95
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_The_Moon,8070793]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Moon,14615839]]"
+type_of_orbit: "[[_Standards/WikiData/WD~highly_elliptical_orbit,38982]]"
 Unicode_character:
-- ☽
-- ☾
+  - ☽
+  - ☾
 U_S_National_Archives_Identifier: 10046559
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20Essentials-%20Turntable%20%28SVS5319%29.webm"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20Essentials-%20Turntable%20%28SVS5319%29.webm
 volume_as_quantity: 21968000000
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Moon,28455496]]'
-Wolfram_Language_entity_code: "Entity[\"PlanetaryMoon\", \"Moon\"]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Moon,28455496]]"
+Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Moon"]
 ---
 
 # [[Moon]] 

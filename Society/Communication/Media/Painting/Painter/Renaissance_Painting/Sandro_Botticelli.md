@@ -1,7 +1,7 @@
 ---
 aliases:
   - Sandro_Botticelli
-  - Alessandro di Mariano di Vanni Filipepi 
+  - Alessandro di Mariano di Vanni Filipepi
   - Sandro Botticelli
   - Botticelli
 has_id_wikidata: Q5669
@@ -114,7 +114,7 @@ student_of:
 employer: "[[_Standards/WikiData/WD~Andrea_del_Verrocchio,183458]]"
 student: "[[_Standards/WikiData/WD~Filippino_Lippi,296265]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Schilder_boeck,1157807]]"
   - "[[_Standards/WikiData/WD~Lives_of_the_Most_Excellent_Painters,_Sculptors,_and_Architects,1645493]]"

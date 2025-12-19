@@ -63,17 +63,17 @@ has_edition_or_translation:
   - "[[_Standards/WikiData/WD~Q135276736,135276736]]"
   - "[[_Standards/WikiData/WD~Q135276737,135276737]]"
 operating_system:
-  - "[[_Standards/WikiData/WD~Microsoft_Windows,1406]]"
+  - "[[../../../../../WikiData/WD~Microsoft_Windows,1406 1]]"
   - "[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]"
 influenced_by:
   - "[[_Standards/WikiData/WD~Q2005,2005]]"
-  - "[[_Standards/WikiData/WD~Q2407,2407]]"
+  - "[[../../../../../WikiData/WD~Q2407,2407]]"
   - "[[_Standards/WikiData/WD~Tcl,5288]]"
   - "[[_Standards/WikiData/WD~Q8811,8811]]"
-  - "[[_Standards/WikiData/WD~Q15777,15777]]"
+  - "[[../../../../../WikiData/WD~Q15777,15777]]"
   - "[[_Standards/WikiData/WD~Q251,251]]"
   - "[[_Standards/WikiData/WD~Q42478,42478]]"
-programmed_in: "[[_Standards/WikiData/WD~Q15777,15777]]"
+programmed_in: "[[../../../../../WikiData/WD~Q15777,15777]]"
 social_media_followers: 104996
 file_extension:
   - phar

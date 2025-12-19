@@ -17,7 +17,7 @@ taxon_name: Tabanoidea
 
 # [[Tabanoidea]] 
 
-#is_/same_as :: [[WD~Tabanoidea,1617308]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Tabanoidea,1617308]] 
 
 ## #has_/text_of_/abstract 
 

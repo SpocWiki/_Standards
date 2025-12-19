@@ -4,10 +4,10 @@ aliases:
 has_id_wikidata: Q14659
 subclass_of:
   - "[[_Standards/WikiData/WD~symbol,80071]]"
-  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
+  - "[[../../WikiData/WD~architectural_element,391414]]"
   - "[[_Standards/WikiData/WD~flag_or_coat_of_arms,17335294]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"

@@ -5,7 +5,7 @@ aliases:
   - chemisches Gleichgewicht
 has_id_wikidata: Q189520
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~steady_state,903414]]"

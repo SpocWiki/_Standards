@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q28803
 named_after: "[[_Standards/WikiData/WD~John_Montagu,_4th_Earl_of_Sandwich,334953]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~finger_food,748611]]"

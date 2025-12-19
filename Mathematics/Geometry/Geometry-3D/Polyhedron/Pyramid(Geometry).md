@@ -6,7 +6,7 @@ studied_by:
   - "[[_Standards/WikiData/WD~solid_geometry,207648]]"
   - "[[_Standards/WikiData/WD~category_theory,217413]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 has_characteristic:
   - "[[_Standards/WikiData/WD~surface_area,1379273]]"

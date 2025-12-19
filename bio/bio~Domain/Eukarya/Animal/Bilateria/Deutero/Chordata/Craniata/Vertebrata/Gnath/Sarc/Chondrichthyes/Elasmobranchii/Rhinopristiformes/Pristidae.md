@@ -6,11 +6,11 @@ aliases:
   - Sägerochen
 has_id_wikidata: Q190736
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
 different_from: "[[_Standards/WikiData/WD~Pristiophoridae,3404184]]"
-parent_taxon: "[[_Standards/WikiData/WD~Rhinopristiformes,25366201]]"
+parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Rhinopristiformes,25366201]]"
 start_time: -99700000-01-01T00:00:00Z
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"

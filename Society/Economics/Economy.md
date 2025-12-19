@@ -17,7 +17,7 @@ has_part_s_of_the_class: "[[_Standards/WikiData/WD~economic_sector,3958441]]"
 has_part_s_: "[[_Standards/WikiData/WD~economic_sector,3958441]]"
 different_from:
   - "[[_Standards/WikiData/WD~national_economy,6456916]]"
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../WikiData/WD~economic_activity,8187769]]"
   - "[[_Standards/WikiData/WD~economics,8134]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Business,7348224]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~business_activity,19862406]]"

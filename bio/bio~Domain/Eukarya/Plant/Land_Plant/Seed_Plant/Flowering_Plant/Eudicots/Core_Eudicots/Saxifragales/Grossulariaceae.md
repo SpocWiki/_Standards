@@ -27,7 +27,7 @@ NBN_System_Key: NBNSYS0000160087
 
 # [[Grossulariaceae]] 
 
-#is_/same_as :: [[../../../../../../../../../../_Standards/WikiData/WD~Grossulariaceae,41387|WD~Grossulariaceae,41387]]  
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Grossulariaceae,41387|WD~Grossulariaceae,41387]]  
 
 ## #has_/text_of_/abstract 
 

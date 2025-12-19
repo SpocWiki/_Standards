@@ -14,7 +14,7 @@ replaced_by: "[[_Standards/WikiData/WD~Samsu_iluna,325917]]"
 father: "[[_Standards/WikiData/WD~Sin_Muballit,374546]]"
 replaces: "[[_Standards/WikiData/WD~Sin_Muballit,374546]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"

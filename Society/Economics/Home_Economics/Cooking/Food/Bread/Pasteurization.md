@@ -12,7 +12,7 @@ location_of_creation: "[[_Standards/WikiData/WD~Arbois,330888]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-fabrication_method: "[[_Standards/WikiData/WD~heating,4311765]]"
+fabrication_method: "[[../../../../../../WikiData/WD~heating,4311765]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 product_or_material_produced: "[[_Standards/WikiData/WD~pasteurized_food,131300899]]"
 time_of_discovery_or_invention: 1864-04-20T00:00:00Z

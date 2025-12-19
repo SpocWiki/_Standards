@@ -2,7 +2,7 @@
 aliases:
   - Latin
   - Latein
-  - Lateinisch 
+  - Lateinisch
   - Lang-la
 ABS_ASCL_2011_code: 2902
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Pronunciation%20of%20Latin%20%28Text%29.ogg
@@ -13,7 +13,7 @@ Commons_gallery: Latin language
 country: "[[_Standards/WikiData/WD~Vatican_City,237]]"
 described_at_URL: https://afbo.info/languages/43
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"

@@ -21,7 +21,7 @@ has_part_s_of_the_class:
   - "[[_Standards/WikiData/WD~First_Nations,392316]]"
 different_from: "[[_Standards/WikiData/WD~Torres_Strait_Islanders,379636]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 residence:
   - "[[_Standards/WikiData/WD~Torres_Strait_Islands,1059258]]"

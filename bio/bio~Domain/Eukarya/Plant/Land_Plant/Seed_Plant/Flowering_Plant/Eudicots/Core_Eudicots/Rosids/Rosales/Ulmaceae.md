@@ -43,7 +43,7 @@ taxon_common_name:
 taxonomic_type: "[[_Standards/WikiData/WD~Ulmus,131113]]"
 described_by_source: "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_22,112869398]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Rosales,21895]]"
+parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Rosales,21895 1]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
 ITIS_TSN: "19038"
 image:

@@ -11,7 +11,7 @@ aliases:
 has_id_wikidata: Q10441
 different_from: "[[_Standards/WikiData/WD~Phoenix,105751]]"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
 topic_has_template:
   - "[[_Standards/WikiData/WD~Template_Phoenix_(constellation),6504933]]"

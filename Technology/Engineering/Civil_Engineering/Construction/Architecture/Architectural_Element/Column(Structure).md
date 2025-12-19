@@ -11,10 +11,10 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~column_base,56045633]]"
 has_characteristic: "[[_Standards/WikiData/WD~shape,207961]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
+  - "[[../../../../../../WikiData/WD~architectural_element,391414]]"
   - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"

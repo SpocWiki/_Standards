@@ -6,7 +6,7 @@ located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Andaman_Sea,47632]]"
 part_of: "[[_Standards/WikiData/WD~Farther_India,390695]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"

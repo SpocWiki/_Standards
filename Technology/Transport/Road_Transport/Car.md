@@ -83,7 +83,7 @@ designed_to_carry:
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Ferdinand_Verbiest,378277]]"
 part_of: "[[_Standards/WikiData/WD~road_transport,516739]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
   - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"

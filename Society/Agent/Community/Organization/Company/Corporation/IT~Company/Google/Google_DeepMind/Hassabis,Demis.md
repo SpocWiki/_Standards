@@ -25,10 +25,10 @@ member_of:
   - "[[_Standards/WikiData/WD~Pontifical_Academy_of_Sciences,938622]]"
   - "[[_Standards/WikiData/WD~Royal_Academy_of_Engineering,1478095]]"
   - "[[_Standards/WikiData/WD~Scientific_Advisory_Group_for_Emergencies,88096332]]"
-influenced_by: "[[_Standards/WikiData/WD~Peter_Molyneux,164565]]"
+influenced_by: "[[../../../../../../../../../WikiData/WD~Peter_Molyneux,164565]]"
 employer:
   - "[[_Standards/WikiData/WD~University_College_London,193196]]"
-  - "[[_Standards/WikiData/WD~Google_DeepMind,15733006]]"
+  - "[[../../../../../../../../../WikiData/WD~Google_DeepMind,15733006]]"
 educated_at:
   - "[[_Standards/WikiData/WD~University_College_London,193196]]"
   - "[[_Standards/WikiData/WD~Queens'_College,765642]]"
@@ -53,7 +53,7 @@ title_of_chess_person: "[[_Standards/WikiData/WD~Candidate_Master,1973600]]"
 doctoral_advisor: "[[_Standards/WikiData/WD~Eleanor_A._Maguire,5354323]]"
 sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-affiliation: "[[_Standards/WikiData/WD~Google_DeepMind,15733006]]"
+affiliation: "[[../../../../../../../../../WikiData/WD~Google_DeepMind,15733006]]"
 given_name: "[[_Standards/WikiData/WD~Demis,104860899]]"
 family_name: "[[_Standards/WikiData/WD~Hassabis,125839954]]"
 academic_thesis: "[[_Standards/WikiData/WD~Q130475831,130475831]]"
@@ -87,7 +87,7 @@ ISNI: "0000000352150230"
 
 # [[Hassabis,Demis]] 
 
-#is_/same_as :: [[WD~Demis_Hassabis,3022141]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Demis_Hassabis,3022141]] 
 
 ## #has_/text_of_/abstract 
 

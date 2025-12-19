@@ -7,7 +7,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~musical_form,862597]]"
   - "[[_Standards/WikiData/WD~song_type,107356781]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"

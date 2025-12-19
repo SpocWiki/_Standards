@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q15777
 media_type:
   - text/x-chdr
@@ -44,7 +44,7 @@ has_edition_or_translation:
   - "[[_Standards/WikiData/WD~C23,67693987]]"
 described_by_source: "[[_Standards/WikiData/WD~ISO_IEC_9899,85547147]]"
 operating_system:
-  - "[[_Standards/WikiData/WD~Microsoft_Windows,1406]]"
+  - "[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406 1]]"
   - "[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]"
 different_from: "[[_Standards/WikiData/WD~C,9820]]"
 designed_by: "[[_Standards/WikiData/WD~Dennis_M._Ritchie,45575]]"
@@ -86,7 +86,7 @@ Wolfram_Language_entity_code: Entity["ProgrammingLanguage", "C::p5vhv"]
 #has_/parent  :: [[../../Prog~Imperative/Prog~BCPL]] 
 #has_/creator :: [[Dennis_Ritchie]] 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~C,15777|WD~C,15777]]
-#is_/same_as :: [[../../../../../../../../_Standards/WikiData/WD~Q15777,15777|WD~Q15777,15777]]
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Q15777,15777|WD~Q15777,15777]]
 
 Dennis Ritchie had produced "[[../../Programming/Prog~Language/Prog~Structured/Prog~C|Prog~C]] " from "B". 
 Ken Thompson created "B" when he ported the [[../../Programming/Prog~Language/Prog~Imperative/Prog~BCPL|Prog~BCPL]]  

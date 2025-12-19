@@ -5,7 +5,7 @@ recommended_unit_of_measurement:
   - "[[_Standards/WikiData/WD~dalton,483261]]"
   - "[[_Standards/WikiData/WD~kilogram,11570]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~ISO_80000_10_2019_Quantities_and_units_Part_10_Atomic_and_nuclear_physics,85490171]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"

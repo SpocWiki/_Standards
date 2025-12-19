@@ -14,7 +14,7 @@ found_in_taxon:
   - "[[_Standards/WikiData/WD~Cynara_cardunculus,7186137]]"
   - "[[_Standards/WikiData/WD~Swertia_japonica,11255805]]"
   - "[[_Standards/WikiData/WD~Citrus_deliciosa,20686225]]"
-  - "[[_Standards/WikiData/WD~Fragaria,745]]"
+  - "[[../../../WikiData/WD~Fragaria,745]]"
   - "[[_Standards/WikiData/WD~Manilkara_zapota,14959]]"
   - "[[_Standards/WikiData/WD~Phaseolus_vulgaris,42339]]"
 subject_has_role:
@@ -28,7 +28,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~substituted_benzene,57842052]]"
   - "[[_Standards/WikiData/WD~cyclohexatriene,119769403]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"

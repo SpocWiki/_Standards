@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q548144
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
 studied_by: "[[_Standards/WikiData/WD~Portuguese_studies,1721024]]"
 part_of: "[[_Standards/WikiData/WD~Romance_literature,11891165]]"

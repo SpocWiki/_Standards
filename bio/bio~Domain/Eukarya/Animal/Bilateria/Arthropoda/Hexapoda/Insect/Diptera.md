@@ -14,7 +14,7 @@ has_part_s_of_the_class:
   - "[[_Standards/WikiData/WD~insect_wing,276572]]"
   - "[[_Standards/WikiData/WD~halteres,1335456]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 studied_by: "[[_Standards/WikiData/WD~dipterology,3029300]]"

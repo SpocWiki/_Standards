@@ -6,13 +6,13 @@ different_from:
   - "[[_Standards/WikiData/WD~overhead_contact_line,110701]]"
   - "[[_Standards/WikiData/WD~Electric_transmission,96377104]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~power_transmission,3242194]]"
   - "[[_Standards/WikiData/WD~electrical_engineering,43035]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../../../WikiData/WD~economic_activity,8187769]]"
   - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_electric_power_transmission,17030101]]"
 uses:

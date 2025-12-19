@@ -4,7 +4,7 @@ aliases:
   - card game
 has_id_wikidata: Q142714
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 practiced_by: "[[_Standards/WikiData/WD~card_player,1302255]]"
 subclass_of:

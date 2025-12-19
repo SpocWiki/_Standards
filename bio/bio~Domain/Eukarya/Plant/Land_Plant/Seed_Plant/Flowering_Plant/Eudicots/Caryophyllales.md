@@ -19,7 +19,7 @@ taxon_common_name:
 
 # [[Caryophyllales]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Caryophyllales,21808]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Caryophyllales,21808]] 
 
 ## #has_/text_of_/abstract 
 

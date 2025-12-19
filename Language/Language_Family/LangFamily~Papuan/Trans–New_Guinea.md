@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q34018
-subclass_of: "[[_Standards/WikiData/WD~Papuan,236425]]"
+subclass_of: "[[../../../WikiData/WD~Papuan,236425]]"
 country:
   - "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
   - "[[_Standards/WikiData/WD~Indonesia,252]]"

@@ -8,7 +8,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~capital_market,750458]]"
   - "[[_Standards/WikiData/WD~artificial_object,16686448]]"
 uses: "[[_Standards/WikiData/WD~variable_pricing,7915726]]"
-instance_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+instance_of: "[[../../../../../WikiData/WD~economic_activity,8187769]]"
 operator: "[[_Standards/WikiData/WD~stock_exchange,11691]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Philippine-stock-market-board.jpg
 described_at_URL: https://neal.fun/earth-reviews/stock-market

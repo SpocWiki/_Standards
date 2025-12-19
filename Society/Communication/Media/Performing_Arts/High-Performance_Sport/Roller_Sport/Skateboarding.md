@@ -4,7 +4,7 @@ has_id_wikidata: Q842284
 subclass_of:
   - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
   - "[[_Standards/WikiData/WD~boardsport,911069]]"
-  - "[[_Standards/WikiData/WD~roller_sport,2164355]]"
+  - "[[../../../../../../WikiData/WD~roller_sport,2164355]]"
 instance_of:
   - "[[_Standards/WikiData/WD~industry,268592]]"
   - "[[_Standards/WikiData/WD~individual_transportation,109732621]]"

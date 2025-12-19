@@ -2,8 +2,8 @@
 aliases:
 has_id_wikidata: Q21447922
 taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-subclass_of: "[[_Standards/WikiData/WD~Tyrannosaurinae,2073980]]"
-parent_taxon: "[[_Standards/WikiData/WD~Tyrannosaurinae,2073980]]"
+subclass_of: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurinae,2073980]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurinae,2073980]]"
 instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/TarbosaurusP1050352.jpg
 taxon_name: Tyrannosaurini
@@ -11,7 +11,7 @@ taxon_name: Tyrannosaurini
 
 # [[Tyrannosaurini]] 
 
-#is_/same_as :: [[WD~Tyrannosaurini,21447922]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurini,21447922]] 
 
 ## #has_/text_of_/abstract 
 

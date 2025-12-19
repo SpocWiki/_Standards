@@ -43,7 +43,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lange-MigrantMother02.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lone%20Driller%E2%80%99s%20Water%20Break%20%28Kilgore%2C%20Texas%29.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~recession,176494]]"
+  - "[[../../../../../../../../WikiData/WD~recession,176494]]"
   - "[[_Standards/WikiData/WD~economic_crisis,290178]]"
   - "[[_Standards/WikiData/WD~era,6428674]]"
   - "[[_Standards/WikiData/WD~historical_period,11514315]]"

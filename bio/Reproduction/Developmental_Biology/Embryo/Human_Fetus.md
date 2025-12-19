@@ -5,7 +5,7 @@ aliases:
   - fetuses
   - foetuses
 has_id_wikidata: Q26513
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 instance_of: "[[_Standards/WikiData/WD~phase_of_human_life,785260]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~fetus,17013437]]"

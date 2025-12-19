@@ -12,7 +12,7 @@ has_id_wikidata: Q10437
 different_from: "[[_Standards/WikiData/WD~Exocoetidae,183686]]"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"

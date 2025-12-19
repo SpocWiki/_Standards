@@ -43,7 +43,7 @@ field_of_work:
   - "[[_Standards/WikiData/WD~architecture,12271]]"
   - "[[_Standards/WikiData/WD~mechanics,41217]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"

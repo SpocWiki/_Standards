@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q162078
 different_from: "[[_Standards/WikiData/WD~Theobroma,2372186]]"
-parent_taxon: "[[_Standards/WikiData/WD~Theobromateae,6145728]]"
+parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Theobromateae,6145728]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
   - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]"
@@ -26,7 +26,7 @@ taxon_common_name:
 
 # [[Theobroma]] 
 
-#is_/same_as :: [[WD~Theobroma,162078]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Theobroma,162078]] 
 
 ## #has_/text_of_/abstract 
 

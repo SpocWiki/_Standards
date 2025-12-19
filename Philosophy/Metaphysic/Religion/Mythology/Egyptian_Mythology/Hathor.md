@@ -20,7 +20,7 @@ part_of: "[[_Standards/WikiData/WD~Egyptian_mythology,205740]]"
 worshipped_by: "[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]"
 different_from: "[[_Standards/WikiData/WD~Hat_Hor,577451]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"

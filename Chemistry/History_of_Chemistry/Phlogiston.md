@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q193353
 studied_by: "[[_Standards/WikiData/WD~history_of_chemistry,501353]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 different_from: "[[_Standards/WikiData/WD~phlogiston_theory,120999319]]"

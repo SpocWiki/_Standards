@@ -1,6 +1,6 @@
 ---
 aliases:
-  - saffron crocus 
+  - saffron crocus
   - autumn crocus
   - Crocus sativus
 has_id_wikidata: Q15041677
@@ -45,7 +45,7 @@ taxon_common_name:
   - Croc
   - Broze
   - Saffran
-parent_taxon: "[[_Standards/WikiData/WD~Crocus,157806]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Crocus,157806]]"
 has_use:
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
   - "[[_Standards/WikiData/WD~dye,189720]]"

@@ -30,7 +30,7 @@ has_use:
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
   - "[[_Standards/WikiData/WD~fodder,211439]]"
   - "[[_Standards/WikiData/WD~cereal_grain,12117]]"
-  - "[[_Standards/WikiData/WD~fiber,161]]"
+  - "[[../../../../../../../../../../../../WikiData/WD~fiber,161]]"
 instance_of:
   - "[[_Standards/WikiData/WD~grain_crop,113976623]]"
   - "[[_Standards/WikiData/WD~taxon,16521]]"

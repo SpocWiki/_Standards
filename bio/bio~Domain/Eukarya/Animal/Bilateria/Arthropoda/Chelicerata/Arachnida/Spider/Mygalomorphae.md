@@ -34,7 +34,7 @@ taxon_common_name:
 
 ![ ](Mygalomorphae/01082tarantula1.jpg))
 
-#is_/same_as :: [[../../../../../../../../../_Standards/WikiData/WD~Mygalomorphae,12081|WD~Mygalomorphae,12081]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Mygalomorphae,12081|WD~Mygalomorphae,12081]] 
 
 ## Phylogeny 
 

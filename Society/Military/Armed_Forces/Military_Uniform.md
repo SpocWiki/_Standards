@@ -3,7 +3,7 @@ aliases:
   - Military_uniform
 has_id_wikidata: Q1196123
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 studied_by: "[[_Standards/WikiData/WD~cultural_history_of_the_military,1593568]]"
 subclass_of:

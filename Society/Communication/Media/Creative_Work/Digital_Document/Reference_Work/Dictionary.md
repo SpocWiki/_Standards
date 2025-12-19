@@ -5,7 +5,7 @@ has_id_wikidata: Q23622
 MeSH_tree_code: V02.310
 entry_in_abbreviations_table: слов.
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
@@ -17,7 +17,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~knowledge_organization_system,6423319]]"
   - "[[_Standards/WikiData/WD~literary_work,7725634]]"
   - "[[_Standards/WikiData/WD~lexicographic_work,121841020]]"
-  - "[[_Standards/WikiData/WD~reference_work,13136]]"
+  - "[[../../../../../../WikiData/WD~reference_work,13136]]"
 different_from:
   - "[[_Standards/WikiData/WD~Han_dictionary,1074045]]"
   - "[[_Standards/WikiData/WD~lexical_database,6537693]]"

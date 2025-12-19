@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q172904
 has_characteristic: "[[_Standards/WikiData/WD~Eclecticism,192068]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 subclass_of: "[[_Standards/WikiData/WD~belief_system,5390013]]"
 OmegaWiki_Defined_Meaning: "1267997"

@@ -1,30 +1,30 @@
 ---
 aliases:
-- "Military engineering"
+  - Military engineering
 BHCL_UUID: c19d8b51-6631-477d-9e73-d7839569bfbf
 catchphrase: ubique
-Commons_category: "Military engineering"
+Commons_category: Military engineering
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 Dewey_Decimal_Classification: 623
-field_of_work: '[[_Standards/WikiData/WD~engineering,11023]]'
+field_of_work: "[[_Standards/WikiData/WD~engineering,11023]]"
 has_id_wikidata: Q158797
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%9F%D0%9F%20%D1%81%D0%B0%D0%BC%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%BD%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%208.jpg"
-instance_of: '[[_Standards/WikiData/WD~military_branch,781132]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%9F%D0%9F%20%D1%81%D0%B0%D0%BC%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%BD%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%208.jpg
+instance_of: "[[_Standards/WikiData/WD~military_branch,781132]]"
 Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VOENNO-INZHENERNOE_DELO.html
 motto_text:
-- ubique
-- xingu
+  - ubique
+  - xingu
 practiced_by:
-- '[[_Standards/WikiData/WD~military_engineer,151197]]'
-- '[[_Standards/WikiData/WD~sapper,1324245]]'
-- '[[_Standards/WikiData/WD~combat_engineer,101497855]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Ingenieurkorps,1421548]]'
-subclass_of: '[[_Standards/WikiData/WD~engineering,11023]]'
+  - "[[_Standards/WikiData/WD~military_engineer,151197]]"
+  - "[[_Standards/WikiData/WD~sapper,1324245]]"
+  - "[[_Standards/WikiData/WD~combat_engineer,101497855]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Ingenieurkorps,1421548]]"
+subclass_of: "[[_Standards/WikiData/WD~engineering,11023]]"
 U_S_National_Archives_Identifier: 10643231
 ---
 

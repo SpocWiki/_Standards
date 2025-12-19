@@ -63,9 +63,9 @@ taxon_common_name:
   - Viol
 Dewey_Decimal_Classification: "583.625"
 taxonomic_type: "[[_Standards/WikiData/WD~Viola_odorata,108684]]"
-parent_taxon: "[[_Standards/WikiData/WD~Violaceae,156060]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Violaceae,156060]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Q19133013,19133013]]"

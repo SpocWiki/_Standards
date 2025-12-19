@@ -36,7 +36,7 @@ Commons_category: Fibers
 
 # [[Fiber]] 
 
-#is_/same_as :: [[WD~fiber,161]] 
+#is_/same_as :: [[../../WikiData/WD~fiber,161]] 
 
 ## #has_/text_of_/abstract 
 

@@ -5,11 +5,11 @@ aliases:
 has_id_wikidata: Q180404
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-parent_taxon: "[[_Standards/WikiData/WD~Cervus,644255]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervus,644255]]"
 maintained_by_WikiProject:
   - "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 this_taxon_is_source_of:

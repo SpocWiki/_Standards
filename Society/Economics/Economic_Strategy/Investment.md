@@ -5,7 +5,7 @@ practiced_by: "[[_Standards/WikiData/WD~investor,557880]]"
 opposite_of: "[[_Standards/WikiData/WD~divestment,1200733]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~purchasing,1369832]]"
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../../WikiData/WD~economic_activity,8187769]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~monetary_investment,1499465]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"

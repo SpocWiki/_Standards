@@ -7,7 +7,7 @@ has_id_wikidata: Q19119
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-parent_taxon: "[[_Standards/WikiData/WD~Dromopoda,5308296]]"
+parent_taxon: "[[../../../../../../../../../WikiData/WD~Dromopoda,5308296]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Pseudoscorpionida,35135521]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"

@@ -2,67 +2,67 @@
 Baidu_Tieba_name: 歌曲
 Commons_category: Songs
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
 different_from:
-- '[[_Standards/WikiData/WD~Song,250281]]'
-- '[[_Standards/WikiData/WD~Lied,6544068]]'
-- '[[_Standards/WikiData/WD~Canción,8261758]]'
-equivalent_class: "https://musicbrainz.org/ws/2/work/Song"
-exact_match: "https://citationstyles.org/ontology/type/song"
+  - "[[_Standards/WikiData/WD~Song,250281]]"
+  - "[[_Standards/WikiData/WD~Lied,6544068]]"
+  - "[[_Standards/WikiData/WD~Canción,8261758]]"
+equivalent_class: https://musicbrainz.org/ws/2/work/Song
+exact_match: https://citationstyles.org/ontology/type/song
 hashtag: song
 has_id_wikidata: Q7366
-has_list: '[[_Standards/WikiData/WD~list_of_lists_of_songs,65178170]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ademareuil1.gif"
+has_list: "[[_Standards/WikiData/WD~list_of_lists_of_songs,65178170]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Ademareuil1.gif
 instance_of:
-- '[[_Standards/WikiData/WD~genre,483394]]'
-- '[[_Standards/WikiData/WD~literary_form,4263830]]'
-- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
-instrumentation: '[[_Standards/WikiData/WD~voice,17172850]]'
+  - "[[_Standards/WikiData/WD~genre,483394]]"
+  - "[[_Standards/WikiData/WD~literary_form,4263830]]"
+  - "[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]"
+instrumentation: "[[_Standards/WikiData/WD~voice,17172850]]"
 model_item:
-- '[[_Standards/WikiData/WD~Poovukkul,7228913]]'
-- '[[_Standards/WikiData/WD~Wuthering_Heights,55777670]]'
+  - "[[_Standards/WikiData/WD~Poovukkul,7228913]]"
+  - "[[_Standards/WikiData/WD~Wuthering_Heights,55777670]]"
 OmegaWiki_Defined_Meaning: 476597
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Music,5830855]]'
-- '[[_Standards/WikiData/WD~WikiProject_Arts,14942897]]'
-- '[[_Standards/WikiData/WD~WikiProject_Songs,15885085]]'
-- '[[_Standards/WikiData/WD~WikiProject_Professional_sound_production,21830665]]'
+  - "[[_Standards/WikiData/WD~WikiProject_Music,5830855]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Arts,14942897]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Songs,15885085]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Professional_sound_production,21830665]]"
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~Q11816927,11816927]]'
-- '[[_Standards/WikiData/WD~lyrico-musical_work,114586269]]'
+  - "[[_Standards/WikiData/WD~Q11816927,11816927]]"
+  - "[[_Standards/WikiData/WD~lyrico-musical_work,114586269]]"
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Carme%20Oriol-can%C3%A7%C3%B3.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Viqtor29-can%C3%A7%C3%B3.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q804899-Valriu-can%C3%A7%C3%B3.wav"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Carme%20Oriol-can%C3%A7%C3%B3.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Viqtor29-can%C3%A7%C3%B3.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q804899-Valriu-can%C3%A7%C3%B3.wav
 properties_for_this_type:
-- "part of"
-- "language of work or name"
-- "MusicBrainz work ID"
-- "country of origin"
-- "publication date"
-- lyricist
-- tonality
-- "beats per minute"
-- "AllMusic composition ID"
-- duration
-- "MetroLyrics ID"
-- "time signature"
-- composer
-- publisher
-- genre
-- performer
+  - part of
+  - language of work or name
+  - MusicBrainz work ID
+  - country of origin
+  - publication date
+  - lyricist
+  - tonality
+  - beats per minute
+  - AllMusic composition ID
+  - duration
+  - MetroLyrics ID
+  - time signature
+  - composer
+  - publisher
+  - genre
+  - performer
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~audio_track,7302866]]'
-- '[[_Standards/WikiData/WD~song,20828540]]'
-- '[[_Standards/WikiData/WD~Q122459316,122459316]]'
-subclass_of: '[[_Standards/WikiData/WD~lyrico-musical_work,114586269]]'
+  - "[[_Standards/WikiData/WD~audio_track,7302866]]"
+  - "[[_Standards/WikiData/WD~song,20828540]]"
+  - "[[_Standards/WikiData/WD~Q122459316,122459316]]"
+subclass_of: "[[_Standards/WikiData/WD~lyrico-musical_work,114586269]]"
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_song,9001861]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_song_2,15527749]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Song,13420405]]'
+  - "[[_Standards/WikiData/WD~Template_Infobox_song,9001861]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_song_2,15527749]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Song,13420405]]"
 U_S_National_Archives_Identifier: 10635117
-Wikidata_usage_instructions: "Use audio track (Q7302866) instead for track on a music album, EP or single."
+Wikidata_usage_instructions: Use audio track (Q7302866) instead for track on a music album, EP or single.
 ---
 
 # [[Song]]

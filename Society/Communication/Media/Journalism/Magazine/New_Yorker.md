@@ -45,7 +45,7 @@ headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
 social_media_followers:
   - 1000000
   - 8978668
-platform: "[[_Standards/WikiData/WD~Q48493,48493]]"
+platform: "[[../../../../../WikiData/WD~Q48493,48493]]"
 ISSN_L: 0028-792X
 ISSN:
   - 0028-792X

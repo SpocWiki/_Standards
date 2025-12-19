@@ -2,11 +2,13 @@
 aliases:
   - East China Sea
 has_id_wikidata: Q45341
-location: [ 30.0, 125]
+location:
+  - 30
+  - 125
 coordinate_location: Point(125.0 30.0)
 instance_of: "[[_Standards/WikiData/WD~marginal_sea,204894]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
 inflows:

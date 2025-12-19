@@ -54,7 +54,7 @@ central_bank: "[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]"
 highest_point: "[[_Standards/WikiData/WD~Mount_Cameroon,190562]]"
 anthem: "[[_Standards/WikiData/WD~O_Cameroon,_Cradle_of_Our_Forefathers,206429]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"

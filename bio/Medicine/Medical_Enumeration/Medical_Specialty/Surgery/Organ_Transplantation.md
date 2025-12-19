@@ -10,7 +10,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~moving,115095261]]"
   - "[[_Standards/WikiData/WD~transfer,125506646]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 studied_by: "[[_Standards/WikiData/WD~transplantology,1049976]]"
 instance_of: "[[_Standards/WikiData/WD~surgical_procedure_type,55215846]]"

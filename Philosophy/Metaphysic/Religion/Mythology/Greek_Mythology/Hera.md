@@ -20,7 +20,7 @@ mother: "[[_Standards/WikiData/WD~Rhea,108419]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Juno,125046]]"
 different_from: "[[_Standards/WikiData/WD~Hera,242337]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"

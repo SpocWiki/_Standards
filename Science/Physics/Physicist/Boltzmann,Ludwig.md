@@ -61,7 +61,7 @@ award_received:
   - "[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Oxford,42043175]]"
   - "[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Oslo,61106806]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"

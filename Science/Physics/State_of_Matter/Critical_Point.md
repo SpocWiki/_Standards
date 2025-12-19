@@ -1,13 +1,13 @@
 ---
 aliases:
   - kritischer Punkt
-  - critical point 
+  - critical point
   - critical state
 has_id_wikidata: Q111059
 subclass_of: "[[_Standards/WikiData/WD~thermodynamic_state,230875]]"
 different_from: "[[_Standards/WikiData/WD~critical_point,577705]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"

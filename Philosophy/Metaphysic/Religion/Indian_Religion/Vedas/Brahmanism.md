@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q889766
 described_by_source:
   - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
   - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"

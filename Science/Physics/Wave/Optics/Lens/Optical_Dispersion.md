@@ -5,7 +5,7 @@ has_id_wikidata: Q182893
 different_from: "[[_Standards/WikiData/WD~Dispersion,219345]]"
 instance_of: "[[_Standards/WikiData/WD~phenomenon,483247]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q131832208,131832208]]"

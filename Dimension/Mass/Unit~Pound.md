@@ -6,7 +6,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Pfund,2084453]]"
   - "[[_Standards/WikiData/WD~Liv,10567996]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"

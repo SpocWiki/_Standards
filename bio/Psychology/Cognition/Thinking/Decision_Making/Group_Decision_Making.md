@@ -5,7 +5,7 @@ aliases:
   - collective decision-making
 has_id_wikidata: Q388791
 subclass_of:
-  - "[[_Standards/WikiData/WD~decision_making,1331926]]"
+  - "[[../../../../../WikiData/WD~decision_making,1331926]]"
   - "[[_Standards/WikiData/WD~group_behaviour,3482410]]"
 partially_coincident_with: "[[_Standards/WikiData/WD~social_choice_theory,1971461]]"
 Library_of_Congress_Classification: HM746-HM751
@@ -13,7 +13,7 @@ Library_of_Congress_Classification: HM746-HM751
 
 # [[Group_Decision_Making]] 
 
-#is_/same_as :: [[../../../../../_Standards/WikiData/WD~group_decision_making,388791|WD~group_decision_making,388791]] 
+#is_/same_as :: [[../../../../../WikiData/WD~group_decision_making,388791|WD~group_decision_making,388791]] 
 
 ## #has_/text_of_/abstract 
 

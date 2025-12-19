@@ -3,7 +3,7 @@ aliases:
   - Frühstück
 has_id_wikidata: Q80973
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 subclass_of: "[[_Standards/WikiData/WD~meal,6460735]]"
 followed_by: "[[_Standards/WikiData/WD~lunch,12896105]]"

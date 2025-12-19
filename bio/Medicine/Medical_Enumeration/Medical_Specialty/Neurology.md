@@ -7,7 +7,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~medicine_of_the_nerves,131850943]]"
   - "[[_Standards/WikiData/WD~medicine,11190]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
 practiced_by:

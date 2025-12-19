@@ -29,7 +29,7 @@ date_of_death: 1875-08-04
 depicted_by: "[[_Standards/WikiData/WD~Bust_of_Hans_C._Andersen,_Naupactus,114140031]]"
 described_at_URL: http://fr.dbpedia.org/resource/Hans_Christian_Andersen
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"

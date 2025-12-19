@@ -15,7 +15,7 @@ significant_event:
 architect: "[[_Standards/WikiData/WD~Sostratus_of_Cnidus,445793]]"
 part_of: "[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 architectural_style: "[[_Standards/WikiData/WD~Hellenistic_architecture,2011484]]"
 locations: "[[_Standards/WikiData/WD~Pharos,2696558]]"

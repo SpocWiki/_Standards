@@ -5,7 +5,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
-parent_taxon: "[[_Standards/WikiData/WD~Sphenodontinae,7576641]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../WikiData/WD~Sphenodontinae,7576641]]"
 homonymous_taxon: "[[_Standards/WikiData/WD~Sphenodon,119166980]]"
 start_time: -240000000-01-01T00:00:00Z
 endemic_to: "[[_Standards/WikiData/WD~New_Zealand,664]]"

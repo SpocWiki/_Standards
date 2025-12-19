@@ -5,7 +5,7 @@ has_id_wikidata: Q11663
 Colon_Classification: U281
 Commons_category: Weather
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -20,7 +20,7 @@ hashtag:
   - Weather
 IAB_code: 390
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wikinews%20weather.png
-immediate_cause_of: "[[_Standards/WikiData/WD~shelter,989946]]"
+immediate_cause_of: "[[../../WikiData/WD~shelter,989946]]"
 instance_of: "[[_Standards/WikiData/WD~natural_phenomenon,1322005]]"
 IPTC_NewsCode: mediatopic/17000000
 Krugosvet_article: fizika/pogoda-i-klimat-zemli

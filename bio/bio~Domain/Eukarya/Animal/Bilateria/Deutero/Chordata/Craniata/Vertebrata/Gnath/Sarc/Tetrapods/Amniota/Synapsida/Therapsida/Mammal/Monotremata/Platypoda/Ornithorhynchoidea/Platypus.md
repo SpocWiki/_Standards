@@ -1,85 +1,85 @@
 ---
 aliases:
-- Schnabeltier
-Commons_category: "Ornithorhynchus anatinus"
-Commons_gallery: "Ornithorhynchus anatinus"
+  - Schnabeltier
+Commons_category: Ornithorhynchus anatinus
+Commons_gallery: Ornithorhynchus anatinus
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-diel_cycle: '[[_Standards/WikiData/WD~crepuscular,3255068]]'
+  - "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+diel_cycle: "[[_Standards/WikiData/WD~crepuscular,3255068]]"
 egg_incubation_period: 10
-endemic_to: '[[_Standards/WikiData/WD~Australia,408]]'
+endemic_to: "[[_Standards/WikiData/WD~Australia,408]]"
 exact_match:
-- "http://wordnet-rdf.princeton.edu/wn30/01873310-n"
-- "http://wordnet-rdf.princeton.edu/wn31/101876055-n"
+  - http://wordnet-rdf.princeton.edu/wn30/01873310-n
+  - http://wordnet-rdf.princeton.edu/wn31/101876055-n
 has_characteristic:
-- '[[_Standards/WikiData/WD~oviparity,212306]]'
-- '[[_Standards/WikiData/WD~biofluorescence,101248333]]'
+  - "[[_Standards/WikiData/WD~oviparity,212306]]"
+  - "[[_Standards/WikiData/WD~biofluorescence,101248333]]"
 has_id_wikidata: Q15343
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Duck-billed%20platypus%20%28Ornithorhynchus%20anatinus%29%20Scottsdale.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Duck-billed%20platypus%20%28Ornithorhynchus%20anatinus%29%20Scottsdale.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+  - "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 552524
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Near_Threatened,719675]]'
+IUCN_conservation_status: "[[_Standards/WikiData/WD~Near_Threatened,719675]]"
 Krugosvet_article: nauka_i_tehnika/biologiya/UTKONOS.html
 litter_size: 2
 longest_observed_lifespan: 22.6
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 MeSH_tree_code: B01.050.150.900.649.627.600
 OmegaWiki_Defined_Meaning: 1411527
-original_combination: '[[_Standards/WikiData/WD~Platypus_anatinus,125495145]]'
-parent_taxon: '[[_Standards/WikiData/WD~Ornithorhynchus,3745848]]'
+original_combination: "[[_Standards/WikiData/WD~Platypus_anatinus,125495145]]"
+parent_taxon: "[[_Standards/WikiData/WD~Ornithorhynchus,3745848]]"
 period_of_lactation: 4
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteur%20Journ%C3%A9e%202%20-%2026%20%28Madehub%29-ornithorynque.wav"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteur%20Journ%C3%A9e%202%20-%2026%20%28Madehub%29-ornithorynque.wav
 sequenced_genome_URL:
-- "http://www.ensembl.org/Ornithorhynchus_anatinus"
+  - http://www.ensembl.org/Ornithorhynchus_anatinus
 short_name:
-- "O. anatinus"
+  - O. anatinus
 spoken_text_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Ornitorrinco.ogg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ornitorrinco.ogg
 start_time: -9000000-01-01
 subreddit:
-- Platypus
-taxon_author_citation: "(Shaw, 1799)"
+  - Platypus
+taxon_author_citation: (Shaw, 1799)
 taxon_common_name:
-- Ornitorrinco
-- Nokkloom
-- Ornitorünhus
-- Vesinokkaeläin
-- Ornithorynque
-- Breiðnefur
-- Ornitorinco
-- 오리너구리
-- Клунар
-- Nebbdyr
-- Vogelbekdier
-- Ornitorrinco
-- Ornitorinc
-- kljunaš
-- Näbbdjur
-- "Gagalı memeli"
-- Ornitorenk
-- Качкодзьоб
-- 鴨嘴獸
-- утконос
-- ברווזן
-- Schnabeltier
-- Dziobak
-- Platypus
-- カモノハシ
-- الپلاتِيپُوس
-- "خُلد الماء"
-- "خُلد الماء بطيّ المنقار"
-- ornitorrincu
-- Птицечовка
-- Næbdyr
-- "Duck-billed platypus"
-- "Duck-billed Platypus"
-taxon_name: "Ornithorhynchus anatinus"
-taxon_range_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Distribution%20of%20the%20Platypus%20%28Ornithorhynchus%20anatinus%29.png"
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~platypus_venom,7202827]]'
+  - Ornitorrinco
+  - Nokkloom
+  - Ornitorünhus
+  - Vesinokkaeläin
+  - Ornithorynque
+  - Breiðnefur
+  - Ornitorinco
+  - 오리너구리
+  - Клунар
+  - Nebbdyr
+  - Vogelbekdier
+  - Ornitorrinco
+  - Ornitorinc
+  - kljunaš
+  - Näbbdjur
+  - Gagalı memeli
+  - Ornitorenk
+  - Качкодзьоб
+  - 鴨嘴獸
+  - утконос
+  - ברווזן
+  - Schnabeltier
+  - Dziobak
+  - Platypus
+  - カモノハシ
+  - الپلاتِيپُوس
+  - خُلد الماء
+  - خُلد الماء بطيّ المنقار
+  - ornitorrincu
+  - Птицечовка
+  - Næbdyr
+  - Duck-billed platypus
+  - Duck-billed Platypus
+taxon_name: Ornithorhynchus anatinus
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Distribution%20of%20the%20Platypus%20%28Ornithorhynchus%20anatinus%29.png
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~platypus_venom,7202827]]"
 UMLS_CUI: C0032212
 ---
 

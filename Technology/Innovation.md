@@ -6,7 +6,7 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~progress,247792]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~process,3249551]]"
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../WikiData/WD~economic_activity,8187769]]"
   - "[[_Standards/WikiData/WD~planned_process,104637332]]"
   - "[[_Standards/WikiData/WD~intellectual_activity,105606485]]"
 practiced_by: "[[_Standards/WikiData/WD~innovator,3492227]]"

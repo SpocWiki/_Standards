@@ -6,7 +6,7 @@ aliases:
   - Oriya
 has_id_wikidata: Q33810
 linguistic_typology: "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 instance_of:
   - "[[_Standards/WikiData/WD~modern_language,1288568]]"
   - "[[_Standards/WikiData/WD~language,34770]]"

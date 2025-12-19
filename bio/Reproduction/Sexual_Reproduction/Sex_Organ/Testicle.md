@@ -1,6 +1,6 @@
 ---
 aliases:
-  - testis 
+  - testis
   - testes
 has_id_wikidata: Q9384
 subclass_of:
@@ -11,7 +11,7 @@ subclass_of:
 partially_coincident_with: "[[_Standards/WikiData/WD~ovotestis,484841]]"
 venous_drainage: "[[_Standards/WikiData/WD~testicular_vein,585624]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"

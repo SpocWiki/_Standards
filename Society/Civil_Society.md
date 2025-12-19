@@ -3,7 +3,7 @@ aliases:
   - Civil society
 has_id_wikidata: Q181865
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
   - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
   - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"

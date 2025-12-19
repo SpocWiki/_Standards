@@ -1,59 +1,59 @@
 ---
 aliases:
-- Mammal
-- Mammals
-- Mammalia
-- Säugetier
-- Säugetiere
+  - Mammal
+  - Mammals
+  - Mammalia
+  - Säugetier
+  - Säugetiere
 Colon_Classification: K97
 Commons_category: Mammalia
 Commons_gallery: Mammalia
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - "[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 Dewey_Decimal_Classification: 599
-different_from: '[[_Standards/WikiData/WD~Mammals,2036485]]'
+different_from: "[[_Standards/WikiData/WD~Mammals,2036485]]"
 EPPO_Code: 1MAMMC
 equivalent_class:
-- "http://dbpedia.org/ontology/Mammal"
-- "http://kbpedia.org/kko/rc/Mammal"
+  - http://dbpedia.org/ontology/Mammal
+  - http://kbpedia.org/kko/rc/Mammal
 has_id_wikidata: Q7377
 Iconclass_notation: 25F2
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mammal%20Diversity%202011-less%20depressing.png"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mammal%20Diversity%202011-less%20depressing.png
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 179913
 Krugosvet_article: nauka_i_tehnika/biologiya/MLEKOPITAYUSHCHIE.html
 MeSH_tree_code: B01.050.150.900.649
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mammalia%200.jpg"
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~mammal,110551885]]'
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Zoogdieren-article.ogg"
-Stack_Exchange_site_URL: "https://biology.stackexchange.com/tags/mammals"
-Stack_Exchange_tag: "https://biology.stackexchange.com/tags/mammals"
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mammalia%200.jpg
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~mammal,110551885]]"
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Zoogdieren-article.ogg
+Stack_Exchange_site_URL: https://biology.stackexchange.com/tags/mammals
+Stack_Exchange_tag: https://biology.stackexchange.com/tags/mammals
 start_time: -160000000-01-01
-studied_in: '[[_Standards/WikiData/WD~mammalogy,183904]]'
+studied_in: "[[_Standards/WikiData/WD~mammalogy,183904]]"
 taxon_common_name:
-- Mammal
-- pattedyr
-- Mammifère
-- Mammiferi
-- 哺乳纲
+  - Mammal
+  - pattedyr
+  - Mammifère
+  - Mammiferi
+  - 哺乳纲
 taxon_name: Mammalia
-taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~hide,3291230]]'
-- '[[_Standards/WikiData/WD~mammal_meat,124748491]]'
-- '[[_Standards/WikiData/WD~milk,8495]]'
+  - "[[_Standards/WikiData/WD~hide,3291230]]"
+  - "[[_Standards/WikiData/WD~mammal_meat,124748491]]"
+  - "[[_Standards/WikiData/WD~milk,8495]]"
 title: Mammalia
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Q10725256,10725256]]'
-- '[[_Standards/WikiData/WD~Template_Mammals,11153721]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mammals,11116931]]'
+  - "[[_Standards/WikiData/WD~Q10725256,10725256]]"
+  - "[[_Standards/WikiData/WD~Template_Mammals,11153721]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Mammals,11116931]]"
 UMLS_CUI: C0024660
 U_S_National_Archives_Identifier: 10638722
 ---

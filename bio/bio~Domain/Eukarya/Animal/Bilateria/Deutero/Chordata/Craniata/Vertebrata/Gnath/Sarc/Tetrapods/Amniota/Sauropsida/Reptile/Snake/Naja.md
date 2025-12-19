@@ -6,7 +6,7 @@ parent_taxon:
   - "[[_Standards/WikiData/WD~Elapidae,186554]]"
   - "[[_Standards/WikiData/WD~Elapinae,2600215]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
 taxon_synonym: "[[_Standards/WikiData/WD~Afronaja,21353520]]"
 this_zoological_name_is_coordinate_with: "[[_Standards/WikiData/WD~Ular_kobra,21441382]]"

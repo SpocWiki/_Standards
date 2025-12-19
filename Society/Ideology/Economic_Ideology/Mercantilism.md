@@ -1,17 +1,17 @@
 ---
 Commons_category: Mercantilism
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 has_id_wikidata: Q162527
 instance_of:
-- '[[_Standards/WikiData/WD~economic_policy,582577]]'
-- '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Wallerstein%27s%20Core-periphery%20model.png"
+  - "[[_Standards/WikiData/WD~economic_policy,582577]]"
+  - "[[_Standards/WikiData/WD~school_of_thought,1387659]]"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Wallerstein%27s%20Core-periphery%20model.png
 ---
 
 #has_/next_/item :: [[Capitalism|Capitalism]] 

@@ -11,7 +11,7 @@ subclass_of: "[[_Standards/WikiData/WD~blood_cell,211709]]"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Jan_Swammerdam,336794]]"
 produced_by: "[[_Standards/WikiData/WD~bone_marrow,546523]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"

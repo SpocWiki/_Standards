@@ -3,7 +3,7 @@ aliases:
   - Kies
 has_id_wikidata: Q133833
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 different_from: "[[_Standards/WikiData/WD~crushed_stone,1262699]]"
 subclass_of:

@@ -6,7 +6,7 @@ aliases:
   - cocoa tree
   - Theobroma_Cacao
 has_id_wikidata: Q42385
-parent_taxon: "[[_Standards/WikiData/WD~Theobroma,162078]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../WikiData/WD~Theobroma,162078]]"
 indigenous_to: "[[_Standards/WikiData/WD~Amazon_rainforest,177567]]"
 has_use:
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
@@ -32,7 +32,7 @@ taxon_range:
   - "[[_Standards/WikiData/WD~Gabon,1000]]"
   - "[[_Standards/WikiData/WD~Maranhão,42362]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
   - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]"

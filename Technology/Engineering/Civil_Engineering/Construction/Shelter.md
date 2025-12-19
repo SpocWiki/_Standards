@@ -22,7 +22,7 @@ OpenStreetMap_tag: amenity=shelter
 
 # [[Shelter]] 
 
-#is_/same_as :: [[WD~shelter,989946]] 
+#is_/same_as :: [[../../../../WikiData/WD~shelter,989946]] 
 
 ## #has_/text_of_/abstract 
 

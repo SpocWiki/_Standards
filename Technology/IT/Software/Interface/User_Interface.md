@@ -7,7 +7,7 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~usability,216378]]"
   - "[[_Standards/WikiData/WD~accessibility,555097]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~work,386724]]"
+  - "[[../../../../WikiData/WD~work,386724]]"
   - "[[_Standards/WikiData/WD~interface,110558466]]"
 different_from: "[[_Standards/WikiData/WD~user_experience,1047808]]"
 partially_coincident_with: "[[_Standards/WikiData/WD~input_output_device,2384798]]"

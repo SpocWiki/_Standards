@@ -4,7 +4,7 @@ has_id_wikidata: Q27654
 studied_by:
   - "[[_Standards/WikiData/WD~humanities,80083]]"
   - "[[_Standards/WikiData/WD~Q121267483,121267483]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~study_of_history,1066186]]"
   - "[[_Standards/WikiData/WD~philosophy,5891]]"

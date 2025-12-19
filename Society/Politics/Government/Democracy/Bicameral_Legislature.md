@@ -4,7 +4,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~lower_house,375928]]"
   - "[[_Standards/WikiData/WD~upper_house,637846]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 different_from:
   - "[[_Standards/WikiData/WD~multicameral_legislature,6934578]]"

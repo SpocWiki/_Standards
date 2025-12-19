@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q6243
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 has_characteristic: "[[_Standards/WikiData/WD~change,1150070]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Variable_star_topics,14337390]]"

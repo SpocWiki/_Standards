@@ -22,7 +22,7 @@ has_characteristic: "[[_Standards/WikiData/WD~immersion,1660060]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~extended_reality,25052165]]"
   - "[[_Standards/WikiData/WD~virtual_place,107307154]]"
-  - "[[_Standards/WikiData/WD~simulation,45045]]"
+  - "[[../../../../WikiData/WD~simulation,45045]]"
 part_of: "[[_Standards/WikiData/WD~virtual_universe,107307169]]"
 described_by_source: "[[_Standards/WikiData/WD~Virtual_Reality,133280563]]"
 IAB_code:

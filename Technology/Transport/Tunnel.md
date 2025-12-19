@@ -6,7 +6,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~mine_opening,1550194]]"
   - "[[_Standards/WikiData/WD~underground_structure,12146012]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Tajik_Soviet_Encyclopedia,3567092]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"

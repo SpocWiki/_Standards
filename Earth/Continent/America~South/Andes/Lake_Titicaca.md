@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Lago Titicaca 
+  - Lago Titicaca
   - Titiqaqa
 has_id_wikidata: Q35342
 location:
@@ -18,7 +18,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~monomictic_lake,4862338]]"
   - "[[_Standards/WikiData/WD~lake,23397]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"

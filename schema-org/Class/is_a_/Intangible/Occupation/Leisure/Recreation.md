@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q184872
 part_of: "[[_Standards/WikiData/WD~leisure,180910]]"
-opposite_of: "[[_Standards/WikiData/WD~work,268378]]"
+opposite_of: "[[../../../../../../WikiData/WD~work,268378]]"
 location: "[[_Standards/WikiData/WD~recreation_area,338112]]"
 subclass_of: "[[_Standards/WikiData/WD~intentional_human_activity,451967]]"
 partially_coincident_with: "[[_Standards/WikiData/WD~after_school_activity,494330]]"

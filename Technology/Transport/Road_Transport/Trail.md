@@ -5,7 +5,7 @@ aliases:
   - track
 has_id_wikidata: Q628179
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]"
 subclass_of: "[[_Standards/WikiData/WD~path,5004679]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~outdoor_route,11899420]]"

@@ -16,7 +16,7 @@ medical_condition_treated:
   - "[[_Standards/WikiData/WD~corneal_edema,18553993]]"
 has_characteristic: "[[_Standards/WikiData/WD~hygroscopy,216678]]"
 crystal_system: "[[_Standards/WikiData/WD~cubic_crystal_system,473227]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 legal_status_medicine_: "[[_Standards/WikiData/WD~boxed_warning,879952]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~sodium_salt,1508568]]"

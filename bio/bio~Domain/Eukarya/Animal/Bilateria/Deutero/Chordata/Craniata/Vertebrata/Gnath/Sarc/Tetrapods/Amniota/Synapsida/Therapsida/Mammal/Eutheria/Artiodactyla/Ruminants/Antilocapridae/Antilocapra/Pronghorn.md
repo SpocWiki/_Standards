@@ -8,13 +8,13 @@ aliases:
 has_id_wikidata: Q187943
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
 diel_cycle: "[[_Standards/WikiData/WD~cathemeral,5052479]]"
-parent_taxon: "[[_Standards/WikiData/WD~Antilocapra,19817351]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Antilocapra,19817351]]"
 taxon_synonym:
   - "[[_Standards/WikiData/WD~Antilocapra_anteflexa,23646421]]"
   - "[[_Standards/WikiData/WD~Antilope_furcifer,122418222]]"

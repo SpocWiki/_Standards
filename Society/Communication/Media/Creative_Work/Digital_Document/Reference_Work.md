@@ -27,7 +27,7 @@ Commons_category: Reference works
 
 # [[Reference_Work]] 
 
-#is_/same_as :: [[../../../../../_Standards/WikiData/WD~reference_work,13136|WD~reference_work,13136]] 
+#is_/same_as :: [[../../../../../WikiData/WD~reference_work,13136|WD~reference_work,13136]] 
 
 ## #has_/text_of_/abstract 
 

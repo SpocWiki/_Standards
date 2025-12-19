@@ -83,7 +83,7 @@ depicted_by:
   - "[[_Standards/WikiData/WD~Darkest_Hour,27958298]]"
 described_at_URL: https://www.gov.uk/government/history/past-prime-ministers/winston-churchill
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"

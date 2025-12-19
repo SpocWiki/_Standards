@@ -2,7 +2,7 @@
 title: Apiales
 aliases:
 has_id_wikidata: Q21138
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 parent_taxon: "[[_Standards/WikiData/WD~campanulids,2935471]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"

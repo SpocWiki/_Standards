@@ -6,7 +6,7 @@ aliases:
 has_id_wikidata: Q975872
 taxonomic_type: "[[_Standards/WikiData/WD~Erica,206998]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
@@ -16,7 +16,7 @@ has_fruit_type:
   - "[[_Standards/WikiData/WD~berry,13184]]"
   - "[[_Standards/WikiData/WD~drupe,14712]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Ericales,21737]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Ericales,21737 1]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
 taxon_synonym: "[[_Standards/WikiData/WD~Pyrolaceae,49733]]"
 ITIS_TSN: "23463"

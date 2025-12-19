@@ -191,7 +191,7 @@ occupation:
   - "[[_Standards/WikiData/WD~lithographer,16947657]]"
 spouse: "[[_Standards/WikiData/WD~Suzanne_Manet,524534]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Den_Store_Danske_Encyklopædi,1186818]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"

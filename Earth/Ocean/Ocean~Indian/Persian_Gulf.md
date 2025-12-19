@@ -8,7 +8,9 @@ official_name:
   - Golfe d’Iran
   - Golfe Persique
   - Persian Gulf
-location: [ 26.0, 52.0]
+location:
+  - 26
+  - 52
 coordinate_location: Point(52.0 26.0)
 inflows:
   - "[[_Standards/WikiData/WD~Shatt_al_Arab,166966]]"
@@ -19,7 +21,7 @@ inflows:
   - "[[_Standards/WikiData/WD~Zohreh_River,12645787]]"
   - "[[_Standards/WikiData/WD~Helleh_River,48813086]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"

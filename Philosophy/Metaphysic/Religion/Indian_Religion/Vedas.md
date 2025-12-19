@@ -27,7 +27,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~miscellany,1295240]]"
   - "[[_Standards/WikiData/WD~Śruti,47148]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"

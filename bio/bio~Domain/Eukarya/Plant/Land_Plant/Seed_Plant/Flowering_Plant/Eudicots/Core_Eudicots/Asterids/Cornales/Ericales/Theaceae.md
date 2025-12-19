@@ -7,7 +7,7 @@ has_fruit_type:
 taxonomic_type: "[[_Standards/WikiData/WD~Thea,163459]]"
 described_by_source: "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(3),112869442]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Ericales,21737]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Ericales,21737 1]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
 ITIS_TSN: "21371"
 taxon_common_name:

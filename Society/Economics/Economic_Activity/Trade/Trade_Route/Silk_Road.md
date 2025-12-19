@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q36288
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Ferdinand_von_Richthofen,76791]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~trade_route,405155]]"
+  - "[[../../../../../WikiData/WD~trade_route,405155]]"
   - "[[_Standards/WikiData/WD~historic_road,445741]]"
 maintained_by_WikiProject:
   - "[[_Standards/WikiData/WD~WikiProject_Economics,7212331]]"

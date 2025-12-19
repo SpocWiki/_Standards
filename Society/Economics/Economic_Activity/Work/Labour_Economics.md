@@ -7,7 +7,7 @@ significant_person:
   - "[[_Standards/WikiData/WD~Alan_B._Krueger,931129]]"
   - "[[_Standards/WikiData/WD~David_Card,1173928]]"
   - "[[_Standards/WikiData/WD~Jacob_Mincer,2599645]]"
-is_the_study_of: "[[_Standards/WikiData/WD~work,268378]]"
+is_the_study_of: "[[../../../../WikiData/WD~work,268378]]"
 different_from:
   - "[[_Standards/WikiData/WD~labor_economics,628722]]"
   - "[[_Standards/WikiData/WD~labour,_migration_and_development,113115876]]"

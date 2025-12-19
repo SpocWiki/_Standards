@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q7215110
-parent_taxon: "[[_Standards/WikiData/WD~Triticeae,148694]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../WikiData/WD~Triticeae,148694]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
@@ -28,7 +28,7 @@ NBN_System_Key: NHMSYS0000463375
 
 # [[Secale]] 
 
-#is_/same_as :: [[WD~Secale,7215110]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Secale,7215110]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,49 +1,49 @@
 ---
 BHCL_UUID: a39ba9e4-d11b-4ff3-ba41-de6b9525c46a
 Commons_category: Mesopotamia
-coordinate_location: "Point(43.5 33.7)"
-country: '[[_Standards/WikiData/WD~Iraq,796]]'
+coordinate_location: Point(43.5 33.7)
+country: "[[_Standards/WikiData/WD~Iraq,796]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 Dewey_Decimal_Classification:
-- 2--35
-- 935
-different_from: '[[_Standards/WikiData/WD~Mesopotamia,1922493]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Mesopotamia,3123364]]'
+  - 2--35
+  - 935
+different_from: "[[_Standards/WikiData/WD~Mesopotamia,1922493]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Mesopotamia,3123364]]"
 has_id_wikidata: Q11767
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Mesopotamia,2481441]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20Gudea%20Met%2059.2.jpg"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Mesopotamia,2481441]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20Gudea%20Met%2059.2.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~ancient_civilization,28171280]]'
-- '[[_Standards/WikiData/WD~cultural_landscape,1129474]]'
-- '[[_Standards/WikiData/WD~cultural_region,3502482]]'
-- '[[_Standards/WikiData/WD~historical_region,1620908]]'
+  - "[[_Standards/WikiData/WD~ancient_civilization,28171280]]"
+  - "[[_Standards/WikiData/WD~cultural_landscape,1129474]]"
+  - "[[_Standards/WikiData/WD~cultural_region,3502482]]"
+  - "[[_Standards/WikiData/WD~historical_region,1620908]]"
 Libris_URI: fcrtsnzz50p6171
 location:
-- '[[_Standards/WikiData/WD~Fertile_Crescent,170526]]'
-- '[[_Standards/WikiData/WD~Tigris_Euphrates_river_system,3608991]]'
-- '[[_Standards/WikiData/WD~West_Asia,27293]]'
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Spread%20of%20Oecumene%20Mesopotamia.jpg"
+  - "[[_Standards/WikiData/WD~Fertile_Crescent,170526]]"
+  - "[[_Standards/WikiData/WD~Tigris_Euphrates_river_system,3608991]]"
+  - "[[_Standards/WikiData/WD~West_Asia,27293]]"
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Spread%20of%20Oecumene%20Mesopotamia.jpg
 MeSH_tree_code: Z01.586.035.587
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Mesopotamia%20Banner.jpg"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mesopotamia%20Banner.jpg
 PM20_geo_code: B23
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Beth_Nahrain,16827153]]'
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Beth_Nahrain,16827153]]"
 shares_border_with:
-- '[[_Standards/WikiData/WD~Anatolia,51614]]'
-- '[[_Standards/WikiData/WD~Levant,81483]]'
-- '[[_Standards/WikiData/WD~Arabian_Peninsula,31945]]'
-Stack_Exchange_tag: "https://history.stackexchange.com/tags/mesopotamia"
+  - "[[_Standards/WikiData/WD~Anatolia,51614]]"
+  - "[[_Standards/WikiData/WD~Levant,81483]]"
+  - "[[_Standards/WikiData/WD~Arabian_Peninsula,31945]]"
+Stack_Exchange_tag: https://history.stackexchange.com/tags/mesopotamia
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Ancient_Mesopotamia_topics,6436745]]'
-- '[[_Standards/WikiData/WD~Template_Timeline_of_Mesopotamia,14443438]]'
+  - "[[_Standards/WikiData/WD~Template_Ancient_Mesopotamia_topics,6436745]]"
+  - "[[_Standards/WikiData/WD~Template_Timeline_of_Mesopotamia,14443438]]"
 UMLS_CUI: C3658323
 U_S_National_Archives_Identifier: 10044410
 ---

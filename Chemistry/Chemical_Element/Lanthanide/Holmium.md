@@ -1,20 +1,20 @@
 ---
 atomic_number: 67
 boiling_point: 2873
-canonical_SMILES: '[Ho]'
+canonical_SMILES: "[Ho]"
 CAS_Registry_Number: 7440-60-0
 chemical_formula: Ho
 Commons_category: Holmium
 Commons_gallery: Holmium
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-different_from: '[[_Standards/WikiData/WD~Ho,224477]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+different_from: "[[_Standards/WikiData/WD~Ho,224477]]"
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Jacques-Louis_Soret,124083]]'
-- '[[_Standards/WikiData/WD~Marc_Delafontaine,124122]]'
-- '[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]'
+  - "[[_Standards/WikiData/WD~Jacques-Louis_Soret,124083]]"
+  - "[[_Standards/WikiData/WD~Marc_Delafontaine,124122]]"
+  - "[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]"
 DSSTOX_compound_identifier: DTXCID0047664
 EC_number: 231-169-0
 electronegativity: 1.23
@@ -22,32 +22,32 @@ element_symbol: Ho
 Gmelin_number: 16291
 has_id_wikidata: Q1846
 has_use:
-- '[[_Standards/WikiData/WD~nuclear_poison,221033]]'
-- '[[_Standards/WikiData/WD~pole_piece,2102629]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Holmium.jpg"
+  - "[[_Standards/WikiData/WD~nuclear_poison,221033]]"
+  - "[[_Standards/WikiData/WD~pole_piece,2102629]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Holmium.jpg
 InChI: InChI=1S/Ho
 InChIKey: KJZYNXUDTRRSPN-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 location_of_discovery:
-- '[[_Standards/WikiData/WD~Uppsala,25286]]'
-- '[[_Standards/WikiData/WD~Geneva,71]]'
+  - "[[_Standards/WikiData/WD~Uppsala,25286]]"
+  - "[[_Standards/WikiData/WD~Geneva,71]]"
 made_from_material:
-- '[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]'
-- '[[_Standards/WikiData/WD~gadolinite_group,18043462]]'
-- '[[_Standards/WikiData/WD~monazite_sands,115626544]]'
+  - "[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]"
+  - "[[_Standards/WikiData/WD~gadolinite_group,18043462]]"
+  - "[[_Standards/WikiData/WD~monazite_sands,115626544]]"
 mass: 164.930329
 melting_point: 1734
 MeSH_tree_code:
-- D01.268.558.362.492
-- D01.552.550.399.492
-named_after: '[[_Standards/WikiData/WD~Stockholm,1754]]'
+  - D01.268.558.362.492
+  - D01.552.550.399.492
+named_after: "[[_Standards/WikiData/WD~Stockholm,1754]]"
 OmegaWiki_Defined_Meaning: 160464
 oxidation_state:
-- 2
-- 3
+  - 2
+  - 3
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
+  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
 PubChem_CID: 23988
 SpocWebEntityId: 21963
 time_of_discovery_or_invention: 1878

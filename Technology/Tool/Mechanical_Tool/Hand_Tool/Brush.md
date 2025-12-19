@@ -23,7 +23,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Brush.tif
 
 # [[Brush]] 
 
-#is_/same_as :: [[../../../../_Standards/WikiData/WD~brush,614467|WD~brush,614467]]  
+#is_/same_as :: [[../../../../WikiData/WD~brush,614467|WD~brush,614467]]  
 
 ## #has_/text_of_/abstract 
 

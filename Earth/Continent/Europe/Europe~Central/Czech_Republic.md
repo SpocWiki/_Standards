@@ -92,7 +92,7 @@ history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Czech_lands,212036]]"
 central_bank: "[[_Standards/WikiData/WD~Czech_National_Bank,251062]]"
 anthem: "[[_Standards/WikiData/WD~Kde_domov_můj,483590]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 highest_point: "[[_Standards/WikiData/WD~Sněžka,617511]]"

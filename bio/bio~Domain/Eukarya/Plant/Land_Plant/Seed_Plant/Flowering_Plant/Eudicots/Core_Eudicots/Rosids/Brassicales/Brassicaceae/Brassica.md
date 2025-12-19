@@ -2,14 +2,14 @@
 aliases:
   - Kohl
 has_id_wikidata: Q58677
-taxonomic_type: "[[_Standards/WikiData/WD~Brassica_oleracea,146212]]"
+taxonomic_type: "[[../../../../../../../../../../../../WikiData/WD~Brassica_oleracea,146212]]"
 has_fruit_type: "[[_Standards/WikiData/WD~silique,148529]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
   - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412]]"
-parent_taxon: "[[_Standards/WikiData/WD~Brassiceae,15054388]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Brassiceae,15054388]]"
 has_use: "[[_Standards/WikiData/WD~vegetable,11004]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 carbon_footprint: 0.6
@@ -42,7 +42,7 @@ NBN_System_Key: NHMSYS0000456592
 
 # [[Brassica]] 
 
-#is_/same_as :: [[WD~Brassica,58677]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Brassica,58677]] 
 
 ## #has_/text_of_/abstract 
 

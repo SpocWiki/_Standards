@@ -6,7 +6,7 @@ has_id_wikidata: Q156888
 
 # [[Brassicaceae]] 
 
-#is_/same_as :: [[WD~Brassicaceae,156888]] 
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Brassicaceae,156888]] 
 
 ## #has_/text_of_/abstract 
 

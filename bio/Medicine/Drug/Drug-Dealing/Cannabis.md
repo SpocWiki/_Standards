@@ -11,9 +11,9 @@ taxon_common_name:
   - hemp
   - конопля
   - Hanf
-parent_taxon: "[[_Standards/WikiData/WD~Cannabaceae,156338]]"
+parent_taxon: "[[../../../../WikiData/WD~Cannabaceae,156338]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Q19177016,19177016]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"

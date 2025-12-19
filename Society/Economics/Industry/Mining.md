@@ -7,7 +7,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~mineral_processing,1995444]]"
 subclass_of: "[[_Standards/WikiData/WD~exploitation_of_natural_resources,548599]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
@@ -25,7 +25,7 @@ different_from: "[[_Standards/WikiData/WD~mining_and_quarrying,1945600]]"
 is_part_of: "[[_Standards/WikiData/WD~mining_and_quarrying,1945600]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_mining,7112686]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../../WikiData/WD~economic_activity,8187769]]"
   - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_mining,12075242]]"
 by_product: "[[_Standards/WikiData/WD~mining_wastes,12093044]]"

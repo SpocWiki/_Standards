@@ -33,7 +33,7 @@ coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Benin,237840]]"
 anthem: "[[_Standards/WikiData/WD~L'Aube_Nouvelle,273110]]"
 different_from: "[[_Standards/WikiData/WD~Benin_City,320704]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -357,12 +357,12 @@ cssclasses:
   - Country
 publish: true
 title: Benin
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
   - Benin
   - Bénin

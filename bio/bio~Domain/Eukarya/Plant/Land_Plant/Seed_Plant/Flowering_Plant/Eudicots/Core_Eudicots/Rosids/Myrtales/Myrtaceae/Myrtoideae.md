@@ -13,7 +13,7 @@ UMLS_CUI: C4096999
 
 # [[Myrtoideae]] 
 
-#is_/same_as :: [[WD~Myrtoideae,4296312]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Myrtoideae,4296312]] 
 
 ## #has_/text_of_/abstract 
 

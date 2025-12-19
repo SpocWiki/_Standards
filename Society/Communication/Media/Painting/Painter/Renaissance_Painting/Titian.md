@@ -201,7 +201,7 @@ student_of:
   - "[[_Standards/WikiData/WD~Gentile_Bellini,290407]]"
   - "[[_Standards/WikiData/WD~Giovanni_Bellini,17169]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Schilder_boeck,1157807]]"
   - "[[_Standards/WikiData/WD~Lives_of_the_Most_Excellent_Painters,_Sculptors,_and_Architects,1645493]]"

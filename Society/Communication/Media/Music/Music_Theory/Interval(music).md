@@ -11,7 +11,7 @@ different_from:
   - "[[_Standards/WikiData/WD~interval,12379015]]"
 part_of: "[[_Standards/WikiData/WD~tonality,192822]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"

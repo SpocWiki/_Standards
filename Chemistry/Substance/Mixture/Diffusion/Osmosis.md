@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q54237
 subclass_of: "[[_Standards/WikiData/WD~diffusion,163214]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopaedia_Hebraica,751026]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
@@ -13,7 +13,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
 uses: "[[_Standards/WikiData/WD~semipermeable_membrane,866317]]"
-instance_of: "[[_Standards/WikiData/WD~chemical_process,2281940]]"
+instance_of: "[[../../../../WikiData/WD~chemical_process,2281940]]"
 Commons_gallery: Osmosis
 Commons_category: Osmosis
 image: http://commons.wikimedia.org/wiki/Special:FilePath/0307%20Osmosis.jpg

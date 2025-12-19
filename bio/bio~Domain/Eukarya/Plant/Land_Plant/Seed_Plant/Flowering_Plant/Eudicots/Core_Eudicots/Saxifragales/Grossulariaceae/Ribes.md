@@ -8,7 +8,7 @@ has_id_wikidata: Q22691
 taxonomic_type: "[[_Standards/WikiData/WD~Ribes_rubrum,146661]]"
 has_part_s_: "[[_Standards/WikiData/WD~tannin,187607]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -22,7 +22,7 @@ has_list: "[[_Standards/WikiData/WD~list_of_Ribes_species,85778392]]"
 has_fruit_type: "[[_Standards/WikiData/WD~berry,13184]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-parent_taxon: "[[_Standards/WikiData/WD~Grossulariaceae,41387]]"
+parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Grossulariaceae,41387]]"
 ITIS_TSN: "24448"
 USDA_NDB_number: "09084"
 OmegaWiki_Defined_Meaning: "941843"
@@ -51,7 +51,7 @@ NBN_System_Key: NHMSYS0000462393
 
 # [[Ribes]] 
 
-#is_/same_as :: [[../../../../../../../../../../../_Standards/WikiData/WD~Ribes,22691|WD~Ribes,22691]] 
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Ribes,22691|WD~Ribes,22691]] 
 
 ## #has_/text_of_/abstract 
 

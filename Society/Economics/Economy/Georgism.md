@@ -3,7 +3,7 @@ aliases:
   - Geoism
   - single tax movement
 has_id_wikidata: Q679595
-named_after: "[[_Standards/WikiData/WD~Henry_George,355245]]"
+named_after: "[[../../../WikiData/WD~Henry_George,355245]]"
 part_of: "[[_Standards/WikiData/WD~heterodox_economics,1582475]]"
 instance_of:
   - "[[_Standards/WikiData/WD~economic_ideology,5333510]]"

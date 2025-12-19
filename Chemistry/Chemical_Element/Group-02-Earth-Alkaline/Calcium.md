@@ -1,83 +1,83 @@
 ---
 atomic_number: 20
 boiling_point: 1483.85
-canonical_SMILES: '[Ca]'
+canonical_SMILES: "[Ca]"
 CAS_Registry_Number: 7440-70-2
 chemical_formula: Ca
 Commons_category: Calcium
 Commons_gallery: Calcium
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Calcium,84637109]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Calcium,84637109]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 Dewey_Decimal_Classification:
-- 669.725
-- 546.393
-- 572.516
-- 612.3924
-different_from: '[[_Standards/WikiData/WD~serum_calcium,21028902]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Humphry_Davy,131761]]'
+  - 669.725
+  - 546.393
+  - 572.516
+  - 612.3924
+different_from: "[[_Standards/WikiData/WD~serum_calcium,21028902]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
 DSSTOX_compound_identifier: DTXCID40876145
 EC_number: 231-179-5
 electrical_conductivity: 28200000
 electronegativity: 1
 electron_configuration:
-- "[Ar] 4s²"
-- "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²"
+  - "[Ar] 4s²"
+  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²
 element_symbol: Ca
 found_in_taxon:
-- '[[_Standards/WikiData/WD~Chlorella_vulgaris,309972]]'
-- '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
-- '[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]'
-- '[[_Standards/WikiData/WD~Chlorella_pyrenoidosa,5102920]]'
-- '[[_Standards/WikiData/WD~Euphorbia_lancifolia,5851731]]'
-- '[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]'
-- '[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]'
-- '[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]'
-- '[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]'
-- '[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]'
-- '[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]'
-- '[[_Standards/WikiData/WD~Auxenochlorella_pyrenoidosa,69677118]]'
-- '[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]'
-- '[[_Standards/WikiData/WD~cacao,42385]]'
-- '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]'
+  - "[[_Standards/WikiData/WD~Chlorella_vulgaris,309972]]"
+  - "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
+  - "[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]"
+  - "[[_Standards/WikiData/WD~Chlorella_pyrenoidosa,5102920]]"
+  - "[[_Standards/WikiData/WD~Euphorbia_lancifolia,5851731]]"
+  - "[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]"
+  - "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
+  - "[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]"
+  - "[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]"
+  - "[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]"
+  - "[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]"
+  - "[[_Standards/WikiData/WD~Auxenochlorella_pyrenoidosa,69677118]]"
+  - "[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]"
+  - "[[_Standards/WikiData/WD~cacao,42385]]"
+  - "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
 Gmelin_number: 16277
 has_id_wikidata: Q706
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Calcium%201.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Calcium%201.jpg
 InChI: InChI=1S/Ca
 InChIKey: OYPRJOBELJOOCE-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-- '[[_Standards/WikiData/WD~essential_medicine,35456]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - "[[_Standards/WikiData/WD~essential_medicine,35456]]"
 ionic_radius:
-- 1
-- 1.12
-- 1.23
-- 134
+  - 1
+  - 1.12
+  - 1.23
+  - 134
 Krugosvet_article: nauka_i_tehnika/himiya/KALTSI.html
 mass: 40.078
 melting_point: 838.85
 MeSH_tree_code:
-- D01.268.552.100
-- D01.552.539.288
-- D23.119.100
-named_after: '[[_Standards/WikiData/WD~lime,250423]]'
+  - D01.268.552.100
+  - D01.552.539.288
+  - D23.119.100
+named_after: "[[_Standards/WikiData/WD~lime,250423]]"
 OmegaWiki_Defined_Meaning: 471
 oxidation_state:
-- 1
-- 2
+  - 1
+  - 2
 part_of:
-- '[[_Standards/WikiData/WD~period_4,239825]]'
-- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
+  - "[[_Standards/WikiData/WD~period_4,239825]]"
+  - "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
 PubChem_CID: 5460341
 Reaxys_registry_number: 4241647
 SpocWebEntityId: 21921
 standard_molar_entropy: 41.6
-subclass_of: '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
-subject_has_role: '[[_Standards/WikiData/WD~essential_medicine,35456]]'
+subclass_of: "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
+subject_has_role: "[[_Standards/WikiData/WD~essential_medicine,35456]]"
 time_of_discovery_or_invention: 1808
 type: Element
 UMLS_CUI: C0006675

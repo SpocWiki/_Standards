@@ -1,7 +1,7 @@
 ---
 aliases:
-  - redcurrant 
-  - red currant 
+  - redcurrant
+  - red currant
   - Ribes rubrum
   - Rote Johannisbeere
   - 
@@ -39,7 +39,7 @@ described_by_source: "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinic
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 has_fruit_type: "[[_Standards/WikiData/WD~berry,13184]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Ribes,22691]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Ribes,22691]]"
 subclass_of: "[[_Standards/WikiData/WD~shrub,42295]]"
 PLU_code: "3088"
 ITIS_TSN: "504798"

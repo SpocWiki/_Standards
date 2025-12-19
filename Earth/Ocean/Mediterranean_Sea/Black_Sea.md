@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q166
 inflows:
   - "[[_Standards/WikiData/WD~Çoruh_River,70970]]"
@@ -155,7 +155,7 @@ part_of:
   - "[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134]]"
   - "[[_Standards/WikiData/WD~Mediterranean_Sea_Area,111384107]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

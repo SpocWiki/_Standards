@@ -1,48 +1,48 @@
 ---
 aliases:
-- Scorpion
-- Scorpiones
-- Scorpions
+  - Scorpion
+  - Scorpiones
+  - Scorpions
 Commons_category: Scorpiones
 Commons_gallery: Scorpion
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 EPPO_Code: 1SCORO
 has_id_wikidata: Q19125
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Asian%20forest%20scorpion%20in%20Khao%20Yai%20National%20Park.JPG"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20scorpion.jpg"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Asian%20forest%20scorpion%20in%20Khao%20Yai%20National%20Park.JPG
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Black%20scorpion.jpg
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 82713
 MeSH_tree_code: B01.050.500.131.166.661
 NBN_System_Key: NHMSYS0000923534
 OmegaWiki_Defined_Meaning: 636601
-parent_taxon: '[[_Standards/WikiData/WD~Arachnopulmonata,80024044]]'
+parent_taxon: "[[_Standards/WikiData/WD~Arachnopulmonata,80024044]]"
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Celedu.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Q19125-ar.ogg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Celedu.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Q19125-ar.ogg
 start_time: -435000000-01-01
-studied_by: '[[_Standards/WikiData/WD~scorpiology,94579930]]'
+studied_by: "[[_Standards/WikiData/WD~scorpiology,94579930]]"
 taxon_common_name:
-- skorpioner
-- Scorpions
-- ščipalci
-- скорпіон
+  - skorpioner
+  - Scorpions
+  - ščipalci
+  - скорпіон
 taxon_name: Scorpiones
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~scorpion_as_food,124746868]]'
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~scorpion_as_food,124746868]]"
 title: Scorpiones
 UMLS_CUI: C0036451
-Unicode_character: "\U0001F982"
-WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/scorpion"
+Unicode_character: 🦂
+WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/scorpion
 ---
 
 # [[Scorpion]]

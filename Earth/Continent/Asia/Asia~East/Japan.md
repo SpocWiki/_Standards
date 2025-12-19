@@ -135,7 +135,7 @@ office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_J
 described_by_source:
   - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
   - "[[_Standards/WikiData/WD~New_Book_of_Tang,386073]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
   - "[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"

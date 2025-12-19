@@ -3,7 +3,7 @@ aliases:
   - Sewerage
   - Sewer_Network
   - sewage system
-  - sewerage system  
+  - sewerage system
   - sewer system
 has_id_wikidata: Q156849
 subclass_of:
@@ -26,7 +26,7 @@ different_from:
   - "[[_Standards/WikiData/WD~sanitary_sewer_network,1805497]]"
   - "[[_Standards/WikiData/WD~tail_race,122332853]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"

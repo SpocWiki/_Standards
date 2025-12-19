@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q134205
 has_use: "[[_Standards/WikiData/WD~tooth_brushing,93935]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~brush,614467]]"
+  - "[[../../../../../WikiData/WD~brush,614467]]"
   - "[[_Standards/WikiData/WD~tooth_cleaning_instrument,122052040]]"
 described_by_source: "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 Nomenclature_for_Museum_Cataloging: "3146"

@@ -8,7 +8,7 @@ part_of: "[[_Standards/WikiData/WD~history_of_science,201486]]"
 subclass_of: "[[_Standards/WikiData/WD~history_of_science,201486]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 instance_of:
   - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
   - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"

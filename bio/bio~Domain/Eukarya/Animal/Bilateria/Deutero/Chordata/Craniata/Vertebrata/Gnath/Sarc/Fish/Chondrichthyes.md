@@ -3,7 +3,7 @@ aliases:
   - cartilaginous fish
   - Knorpelfisch
 has_id_wikidata: Q25371
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Taxonomy_Chondrichthyes,13217777]]"
 union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"

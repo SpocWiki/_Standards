@@ -11,7 +11,7 @@ student_of: "[[_Standards/WikiData/WD~Antiphon_of_Rhamnus,335560]]"
 military_or_police_rank: "[[_Standards/WikiData/WD~strategos,335954]]"
 different_from: "[[_Standards/WikiData/WD~Thucydides,580356]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"

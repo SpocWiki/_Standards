@@ -13,7 +13,7 @@ taxon_name: Crocoideae
 
 # [[Crocoideae]] 
 
-#is_/same_as :: [[../../../../../../../../../../_Standards/WikiData/WD~Crocoideae,5187415|WD~Crocoideae,5187415]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Crocoideae,5187415|WD~Crocoideae,5187415]] 
 ## #has_/text_of_/abstract 
 
 > **Crocoideae** is one of the major subfamilies in the family Iridaceae.

@@ -10,7 +10,7 @@ instance_of:
 subclass_of:
   - "[[_Standards/WikiData/WD~programme_music,209741]]"
   - "[[_Standards/WikiData/WD~symphonic_music,3328774]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 has_list: "[[_Standards/WikiData/WD~list_of_symphonic_poems,6642028]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Classical_music,8485042]]"
 different_from: "[[_Standards/WikiData/WD~symphony,9734]]"

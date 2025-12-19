@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Brothers Grimm 
-  - Brüder Grimm 
+  - Brothers Grimm
+  - Brüder Grimm
   - Gebrüder Grimm
 has_id_wikidata: Q2793
 notable_work: "[[_Standards/WikiData/WD~Grimms'_fairy_tales,163027]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]"
   - "[[_Standards/WikiData/WD~ProDetLit,124821483]]"

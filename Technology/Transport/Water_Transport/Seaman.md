@@ -6,7 +6,7 @@ said_to_be_the_same_as:
   - "[[_Standards/WikiData/WD~soldat,24261291]]"
 field_of_this_occupation: "[[_Standards/WikiData/WD~seamanship,351363]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 part_of:
   - "[[_Standards/WikiData/WD~merchant_marine,865132]]"

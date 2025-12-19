@@ -67,12 +67,12 @@ instance_of:
   - "[[_Standards/WikiData/WD~computing_platform,241317]]"
   - "[[_Standards/WikiData/WD~mobile_operating_system,920890]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Q575650,575650]]"
-  - "[[_Standards/WikiData/WD~Q3816639,3816639]]"
-  - "[[_Standards/WikiData/WD~Q2407,2407]]"
-  - "[[_Standards/WikiData/WD~Q15777,15777]]"
+  - "[[../../../../../../../WikiData/WD~Q575650,575650]]"
+  - "[[../../../../../../../WikiData/WD~Q3816639,3816639]]"
+  - "[[../../../../../../../WikiData/WD~Q2407,2407]]"
+  - "[[../../../../../../../WikiData/WD~Q15777,15777]]"
   - "[[_Standards/WikiData/WD~XML_Schema,16342]]"
-  - "[[_Standards/WikiData/WD~Java,251]]"
+  - "[[../../../../../../../WikiData/WD~Java,251 1]]"
 has_part_s_:
   - "[[_Standards/WikiData/WD~Dalvik_VM,754752]]"
   - "[[_Standards/WikiData/WD~Bionic,4035125]]"

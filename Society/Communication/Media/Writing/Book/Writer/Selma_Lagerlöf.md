@@ -11,7 +11,7 @@ has_works_in_the_collection:
 described_by_source:
   - "[[_Standards/WikiData/WD~Swedish_Academy,207360]]"
   - "[[_Standards/WikiData/WD~Dictionary_of_Swedish_National_Biography,379406]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Swedish_Literature_Bank,10567910]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"

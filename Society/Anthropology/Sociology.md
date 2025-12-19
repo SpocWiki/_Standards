@@ -7,7 +7,7 @@ Basisklassifikation: 71
 Colon_Classification: Y
 Commons_category: Sociology
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -41,7 +41,7 @@ instance_of:
 IPTC_NewsCode: mediatopic/20000754
 is_the_study_of:
   - "[[_Standards/WikiData/WD~social_class,187588]]"
-  - "[[_Standards/WikiData/WD~work,268378]]"
+  - "[[../../WikiData/WD~work,268378]]"
   - "[[_Standards/WikiData/WD~structure,517966]]"
   - "[[_Standards/WikiData/WD~social_conflict,2672648]]"
   - "[[_Standards/WikiData/WD~group_action,3533467]]"

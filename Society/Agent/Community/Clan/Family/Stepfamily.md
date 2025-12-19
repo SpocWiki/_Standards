@@ -5,7 +5,7 @@ has_id_wikidata: Q927143
 instance_of:
   - "[[_Standards/WikiData/WD~kinship,171318]]"
   - "[[_Standards/WikiData/WD~family_structure,66363776]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 subclass_of: "[[_Standards/WikiData/WD~nuclear_family,720069]]"
 has_part_s_of_the_class:
   - "[[_Standards/WikiData/WD~biological_parent,1502246]]"

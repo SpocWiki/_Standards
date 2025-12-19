@@ -1,32 +1,32 @@
 ---
 Commons_category: Myriapoda
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 EPPO_Code: 1MYRIQ
 has_id_wikidata: Q25823
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Steinl%C3%A4ufer%20%28Lithobius%20forficatus%29%203.jpg"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Steinl%C3%A4ufer%20%28Lithobius%20forficatus%29%203.jpg
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 563885
-means_of_locomotion: '[[_Standards/WikiData/WD~rolling,2192732]]'
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Myriapod%20collage.png"
+means_of_locomotion: "[[_Standards/WikiData/WD~rolling,2192732]]"
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Myriapod%20collage.png
 OmegaWiki_Defined_Meaning: 517032
 parent_taxon:
-- '[[_Standards/WikiData/WD~Mandibulata,1633496]]'
-- '[[_Standards/WikiData/WD~Heptopodomera,112271405]]'
-studied_by: '[[_Standards/WikiData/WD~myriapodology,3331570]]'
+  - "[[_Standards/WikiData/WD~Mandibulata,1633496]]"
+  - "[[_Standards/WikiData/WD~Heptopodomera,112271405]]"
+studied_by: "[[_Standards/WikiData/WD~myriapodology,3331570]]"
 taxon_common_name:
-- mangefotinger
-- Veelpotigen
-- stonoge
+  - mangefotinger
+  - Veelpotigen
+  - stonoge
 taxon_name: Myriapoda
-taxon_rank: '[[_Standards/WikiData/WD~subphylum,1153785]]'
+taxon_rank: "[[_Standards/WikiData/WD~subphylum,1153785]]"
 UMLS_CUI: C0597910
 ---
 

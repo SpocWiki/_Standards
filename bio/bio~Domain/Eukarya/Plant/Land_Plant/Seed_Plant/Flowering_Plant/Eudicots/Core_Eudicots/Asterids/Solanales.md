@@ -16,7 +16,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/BennyTrapp%20Chamaeleo
 ![Calystegia dahurica](Solanales/Calystegia_dahurica.jpg) 
 ![Physalis_crassifolia](Solanales/Physalis_crassifolia.jpg)  
 
-#is_/same_as :: [[../../../../../../../../../../_Standards/WikiData/WD~Solanales,60790273|WD~Solanales,60790273]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Solanales,60790273|WD~Solanales,60790273]] 
 
 ## #has_/text_of_/abstract 
 

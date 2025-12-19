@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q80378
 CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
-parent_taxon: "[[_Standards/WikiData/WD~Rhincodon,17284129]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../WikiData/WD~Rhincodon,17284129]]"
 Wildlife_Protection_Act_1972_India_schedule: "[[_Standards/WikiData/WD~Schedule_I_(Part_IIA)_of_Wildlife_Protection_Act,_1972,74714026]]"
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Endangered_status,96377276]]"
 NZTCS_conservation_status: "[[_Standards/WikiData/WD~migrant,108448684]]"

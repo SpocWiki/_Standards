@@ -15,7 +15,7 @@ religious_order: "[[_Standards/WikiData/WD~Dominican_Order,131479]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Castile,179293]]"
 educated_at: "[[_Standards/WikiData/WD~University_of_Salamanca,308963]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

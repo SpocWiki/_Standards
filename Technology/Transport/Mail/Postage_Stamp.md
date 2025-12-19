@@ -10,7 +10,7 @@ studied_by: "[[_Standards/WikiData/WD~philately,131026]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~manifestation,286583]]"
   - "[[_Standards/WikiData/WD~indicia,352618]]"
-  - "[[_Standards/WikiData/WD~work,386724]]"
+  - "[[../../../WikiData/WD~work,386724]]"
   - "[[_Standards/WikiData/WD~genre,483394]]"
   - "[[_Standards/WikiData/WD~stationery,875696]]"
   - "[[_Standards/WikiData/WD~collectible,2342494]]"

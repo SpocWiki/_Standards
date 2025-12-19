@@ -6,7 +6,7 @@ aliases:
   - is_a_book
   - dbo:Book
   - schema:Book
-  - "Book": 
+  - Book:
 Amazon_com_browse_node: 1000
 Commons_category: Books
 Commons_gallery: Book
@@ -16,7 +16,7 @@ cssclasses:
   - private
   - note
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
@@ -53,7 +53,7 @@ exact_match:
   - http://purl.org/coar/resource_type/c_2f33
   - http://purl.org/spar/fabio/Book
   - https://citationstyles.org/ontology/type/book
-expiryDate: 
+expiryDate:
 GitHub_topic: books
 GS1_GPC_code: 60010200
 has_characteristic:
@@ -98,10 +98,10 @@ isDeleted: false
 isReadOnly: false
 keywords:
   - book
-layout: 
+layout:
 license: (c)copyrighted
 linkTitle:
-  "Book": 
+  Book:
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Books,8487081]]"
 MeSH_tree_code: L01.462.500.682.192
 Nomenclature_for_Museum_Cataloging: 13603
@@ -123,7 +123,7 @@ properties_for_this_type:
   - author
   - ISBN-13
 publish: false
-publishDate: 
+publishDate:
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Boekdocument.ogg
 Stack_Exchange_tag:
   - https://academia.stackexchange.com/tags/books
@@ -137,10 +137,10 @@ subreddit: books
 tags:
   - class/Class
   - schema-org/Class
-  - "Book": 
+  - Book:
   - excalidraw
 title:
-  "Book": 
+  Book:
 topic_s_main_category:
   - "[[_Standards/WikiData/WD~Q9721595,9721595]]"
   - "[[_Standards/WikiData/WD~Q33098516,33098516]]"
@@ -168,7 +168,7 @@ excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template: "[[Extract~Note~Template]]"
 has_time_started:
-  "{ \"date:YYYY-MM-DD\": null }": 
+  '{ "date:YYYY-MM-DD": null }':
 lang: en
 ---
 

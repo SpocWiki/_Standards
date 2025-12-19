@@ -65,7 +65,7 @@ copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
 funder: "[[_Standards/WikiData/WD~BeOpen.com,110973971]]"
 has_part_s_: "[[_Standards/WikiData/WD~integrated_development_environment,13741]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Q15777,15777]]"
+  - "[[../../../../../../../../WikiData/WD~Q15777,15777]]"
   - "[[_Standards/WikiData/WD~Q28865,28865]]"
 named_after: "[[_Standards/WikiData/WD~Monty_Python,16402]]"
 designed_by: "[[_Standards/WikiData/WD~Guido_van_Rossum,30942]]"

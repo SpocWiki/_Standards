@@ -6,7 +6,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~conflict,180684]]"
   - "[[_Standards/WikiData/WD~regime_change,1673271]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 different_from:
   - "[[_Standards/WikiData/WD~Golpe_de_Estado,3110317]]"

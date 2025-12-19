@@ -47,7 +47,7 @@ birth_name: Peter Douglas Molyneux
 
 # [[Molyneux,Peter]] 
 
-#is_/same_as :: [[WD~Peter_Molyneux,164565]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Peter_Molyneux,164565]] 
 #has_/created :: [[../Video_Game_Publisher/Bullfrog_Productions|Bullfrog_Productions]] 
 
 ## #has_/text_of_/abstract 

@@ -13,7 +13,7 @@ drug_or_therapy_used_for_treatment:
   - "[[_Standards/WikiData/WD~lidocaine,216935]]"
   - "[[_Standards/WikiData/WD~topiramate,221174]]"
   - "[[_Standards/WikiData/WD~mitoxantrone,239426]]"
-  - "[[_Standards/WikiData/WD~(RS)_ketamine,243547]]"
+  - "[[../../../../WikiData/WD~(RS)_ketamine,243547]]"
   - "[[_Standards/WikiData/WD~Diclofenac,244408]]"
   - "[[_Standards/WikiData/WD~capsaicin,273169]]"
   - "[[_Standards/WikiData/WD~nalbuphine,277979]]"
@@ -113,7 +113,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~unpleasantness,47455774]]"
 opposite_of: "[[_Standards/WikiData/WD~pleasure,208195]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 handled_mitigated_or_managed_by:

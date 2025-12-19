@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q468402
 subclass_of:
   - "[[_Standards/WikiData/WD~building_material,206615]]"
-  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
+  - "[[../../../../../../WikiData/WD~architectural_element,391414]]"
   - "[[_Standards/WikiData/WD~manufactured_good,1836700]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"

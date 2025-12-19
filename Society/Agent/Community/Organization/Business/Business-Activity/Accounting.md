@@ -17,7 +17,7 @@ part_of:
 history_of_topic: "[[_Standards/WikiData/WD~history_of_accounting,3137179]]"
 different_from: "[[_Standards/WikiData/WD~accounting,3604195]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Accounting,6667859]]"
-subclass_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+subclass_of: "[[../../../../../../WikiData/WD~economic_activity,8187769]]"
 described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q108629452,108629452]]"
 Wikidata_property: airline accounting code

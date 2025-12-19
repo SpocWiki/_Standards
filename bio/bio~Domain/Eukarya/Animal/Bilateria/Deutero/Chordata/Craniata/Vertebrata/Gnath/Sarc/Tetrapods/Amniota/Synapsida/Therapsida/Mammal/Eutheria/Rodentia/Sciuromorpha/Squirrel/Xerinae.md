@@ -16,7 +16,7 @@ UMLS_CUI: C1648590
 
 ![ ](Xerinae/xerusinauris4.jpg)
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Xerinae,53112|WD~Xerinae,53112]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Xerinae,53112|WD~Xerinae,53112]] 
 
 ## #has_/text_of_/abstract 
 

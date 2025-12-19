@@ -19,7 +19,7 @@ IMDb_keyword: criminal-organization
 
 # [[Criminal_Organization]] 
 
-#is_/same_as :: [[WD~criminal_organization,1788992]] 
+#is_/same_as :: [[../../../../../WikiData/WD~criminal_organization,1788992]] 
 
 ## #has_/text_of_/abstract 
 

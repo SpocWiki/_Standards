@@ -25,7 +25,7 @@ title: is_a_house Class
 type: Type
 Commons_category: Houses
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
@@ -59,7 +59,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~wall,42948]]"
 has_use:
   - "[[_Standards/WikiData/WD~residence,699405]]"
-  - "[[_Standards/WikiData/WD~shelter,989946]]"
+  - "[[../../../../../../WikiData/WD~shelter,989946]]"
   - "[[_Standards/WikiData/WD~housing,1247867]]"
   - "[[_Standards/WikiData/WD~home,7743]]"
 IAB_code: 447
@@ -83,7 +83,7 @@ properties_for_this_type:
   - architectural style
 subclass_of:
   - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[_Standards/WikiData/WD~shelter,989946]]"
+  - "[[../../../../../../WikiData/WD~shelter,989946]]"
   - "[[_Standards/WikiData/WD~residential_building,11755880]]"
   - "[[_Standards/WikiData/WD~building,41176]]"
 Unicode_character: 🏡

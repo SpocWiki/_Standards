@@ -8,7 +8,7 @@ category_populated_by: "[[_Standards/WikiData/WD~Template_Slavic_languages,62317
 Commons_category: Slavic languages
 culture: "[[_Standards/WikiData/WD~Slavic_culture,66049360]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"

@@ -6,7 +6,7 @@ influenced_by:
   - "[[_Standards/WikiData/WD~Reformed_Christianity,101849]]"
   - "[[_Standards/WikiData/WD~Caravaggio,42207]]"
 country: "[[_Standards/WikiData/WD~Dutch_Republic,170072]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 instance_of: "[[_Standards/WikiData/WD~painting_movement,3326867]]"
 topic_s_main_category: "[[_Standards/WikiData/WD~Q6299096,6299096]]"
 part_of: "[[_Standards/WikiData/WD~Dutch_painting,107420080]]"

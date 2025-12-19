@@ -1,7 +1,7 @@
 ---
 aliases:
   - Salzsäure
-  - muriatic acid 
+  - muriatic acid
   - spirits of salt
 has_id_wikidata: Q2409
 has_use:
@@ -12,7 +12,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~hydrogen_chloride,211086]]"
   - "[[_Standards/WikiData/WD~water,283]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"

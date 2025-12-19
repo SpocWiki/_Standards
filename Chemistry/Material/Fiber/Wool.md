@@ -16,7 +16,7 @@ described_by_source:
 subclass_of: "[[_Standards/WikiData/WD~animal_fiber,874142]]"
 different_from: "[[_Standards/WikiData/WD~Wełna,9372261]]"
 has_use: "[[_Standards/WikiData/WD~wool,11547758]]"
-instance_of: "[[_Standards/WikiData/WD~fiber,161]]"
+instance_of: "[[../../../WikiData/WD~fiber,161]]"
 OmegaWiki_Defined_Meaning: "4174"
 Commons_gallery: Wool
 Commons_category: Wool

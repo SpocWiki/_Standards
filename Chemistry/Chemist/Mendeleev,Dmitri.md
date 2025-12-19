@@ -43,9 +43,9 @@ award_received:
   - "[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,_1st_class,19344746]]"
   - "[[_Standards/WikiData/WD~Order_of_St._Vladimir,_2nd_class,21148942]]"
   - "[[_Standards/WikiData/WD~Order_of_St._Vladimir,_1st_class,27096841]]"
-contributed_to_creative_work: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+contributed_to_creative_work: "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"

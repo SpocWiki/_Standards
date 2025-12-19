@@ -288,7 +288,7 @@ coat_of_arms: "[[_Standards/WikiData/WD~Arms_of_the_Democratic_Republic_of_the_C
 highest_point: "[[_Standards/WikiData/WD~Mount_Stanley,221666]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_the_Democratic_Republic_of_the_Congo,282928]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 ethnic_group:

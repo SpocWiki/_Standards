@@ -60,7 +60,7 @@ MeSH_tree_code:
 has_fruit_type: "[[_Standards/WikiData/WD~capsule,147768]]"
 taxonomic_type: "[[_Standards/WikiData/WD~Ruta,165250]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary._Second_Edition._Volume_2,_1909,24718039]]"
   - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_43(2),112869427]]"

@@ -58,7 +58,7 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~property,636109]]'
 - '[[_Standards/WikiData/WD~business_sector,3477367]]'
 - '[[_Standards/WikiData/WD~enterprise,6881511]]'
-- '[[_Standards/WikiData/WD~economic_activity,8187769]]'
+- '[[../../../../WikiData/WD~economic_activity,8187769]]'
 has_part_s_of_the_class:
 - '[[_Standards/WikiData/WD~human_capital,165687]]'
 - '[[_Standards/WikiData/WD~property,636109]]'

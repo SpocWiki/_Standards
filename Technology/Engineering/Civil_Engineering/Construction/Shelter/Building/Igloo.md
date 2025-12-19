@@ -5,7 +5,7 @@ aliases:
   - Iglu
 has_id_wikidata: Q101805
 subclass_of:
-  - "[[_Standards/WikiData/WD~shelter,989946]]"
+  - "[[../../../../../../WikiData/WD~shelter,989946]]"
   - "[[_Standards/WikiData/WD~snow_or_ice_construction,27966041]]"
   - "[[_Standards/WikiData/WD~house,3947]]"
 facet_of: "[[_Standards/WikiData/WD~snow,7561]]"

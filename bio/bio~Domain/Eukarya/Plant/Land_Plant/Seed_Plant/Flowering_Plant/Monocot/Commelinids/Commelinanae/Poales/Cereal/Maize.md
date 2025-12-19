@@ -12,7 +12,7 @@ carbon_footprint: 0.7
 Commons_category: Zea mays
 Commons_gallery: Zea mays
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
@@ -46,7 +46,7 @@ has_use:
   - "[[_Standards/WikiData/WD~paste,904216]]"
   - "[[_Standards/WikiData/WD~vegetable,11004]]"
   - "[[_Standards/WikiData/WD~cereal_grain,12117]]"
-  - "[[_Standards/WikiData/WD~fiber,161]]"
+  - "[[../../../../../../../../../../../../WikiData/WD~fiber,161]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Corn%20ready%20to%20produce.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Klip%20kukuruza%20uzgojen%20u%20Me%C4%91imurju%20%28Croatia%29.JPG

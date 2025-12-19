@@ -60,7 +60,7 @@ student:
   - "[[_Standards/WikiData/WD~Maestro_Espressionista_di_Santa_Chiara,16574910]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Schilder_boeck,1157807]]"
   - "[[_Standards/WikiData/WD~Lives_of_the_Most_Excellent_Painters,_Sculptors,_and_Architects,1645493]]"

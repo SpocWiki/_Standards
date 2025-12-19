@@ -28,8 +28,8 @@ language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]
 award_received: "[[_Standards/WikiData/WD~BigBrotherAwards,110530811]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q116447814,116447814]]"
 programmed_in:
-  - "[[_Standards/WikiData/WD~Q2407,2407]]"
-  - "[[_Standards/WikiData/WD~Q15777,15777]]"
+  - "[[../../../../../../../../WikiData/WD~Q2407,2407]]"
+  - "[[../../../../../../../../WikiData/WD~Q15777,15777]]"
   - "[[_Standards/WikiData/WD~Q28865,28865]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 owned_by: "[[_Standards/WikiData/WD~Google,95]]"

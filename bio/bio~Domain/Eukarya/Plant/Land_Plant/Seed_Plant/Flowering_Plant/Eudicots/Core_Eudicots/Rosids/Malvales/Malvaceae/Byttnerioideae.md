@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q652608
-parent_taxon: "[[_Standards/WikiData/WD~Malvaceae,156551]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Malvaceae,156551 1]]"
 taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Theobroma%20grandiflorum-flower.jpg
@@ -14,7 +14,7 @@ UMLS_CUI: C1228150
 
 # [[Byttnerioideae]] 
 
-#is_/same_as :: [[WD~Byttnerioideae,652608]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Byttnerioideae,652608]] 
 
 ## #has_/text_of_/abstract 
 

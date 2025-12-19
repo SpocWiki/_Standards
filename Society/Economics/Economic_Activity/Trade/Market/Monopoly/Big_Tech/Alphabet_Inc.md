@@ -90,7 +90,7 @@ Commons_category: Alphabet Inc.
 
 # [[Alphabet_Inc]] 
 
-#is_/same_as :: [[WD~Alphabet_Inc.,20800404]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Alphabet_Inc.,20800404]] 
 
 ## #has_/text_of_/abstract 
 

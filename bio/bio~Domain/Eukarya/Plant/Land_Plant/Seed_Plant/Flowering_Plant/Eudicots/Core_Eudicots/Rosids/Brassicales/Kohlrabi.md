@@ -3,7 +3,7 @@ aliases:
   - German turnip
   - turnip cabbage
 has_id_wikidata: Q147202
-parent_taxon: "[[_Standards/WikiData/WD~Brassica_oleracea,146212]]"
+parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Brassica_oleracea,146212]]"
 has_use:
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
   - "[[_Standards/WikiData/WD~fodder,211439]]"

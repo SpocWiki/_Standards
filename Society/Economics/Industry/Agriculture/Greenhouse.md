@@ -10,7 +10,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~agricultural_structure,10480682]]"
   - "[[_Standards/WikiData/WD~garden_feature,112049379]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 used_by: "[[_Standards/WikiData/WD~greenhouse_agriculture,3479981]]"
 part_of: "[[_Standards/WikiData/WD~building_integrated_agriculture,4986435]]"

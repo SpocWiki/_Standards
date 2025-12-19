@@ -5,7 +5,7 @@ has_id_wikidata: Q233320
 location: "[[_Standards/WikiData/WD~construction_site,360418]]"
 has_contributing_factor: "[[_Standards/WikiData/WD~construction,385378]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 used_by: "[[_Standards/WikiData/WD~construction_worker,811122]]"
 subclass_of: "[[_Standards/WikiData/WD~product,2424752]]"

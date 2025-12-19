@@ -12,7 +12,7 @@ Libris_URI: pm136tj73pg9mnj
 OmegaWiki_Defined_Meaning: "933625"
 OpenStreetMap_tag: historic:civilization=vikingian
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"

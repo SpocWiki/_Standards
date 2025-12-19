@@ -12,7 +12,7 @@ UMLS_CUI: C3135484
 
 # [[Cucurbiteae]] 
 
-#is_/same_as :: [[WD~Cucurbiteae,5192459]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Cucurbiteae,5192459]] 
 
 ## #has_/text_of_/abstract 
 

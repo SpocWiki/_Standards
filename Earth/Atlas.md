@@ -3,30 +3,30 @@ aliases:
   - atlas
   - Atlas
   - is_an_atlas
-  - "Atlas": 
+  - Atlas:
 confidential: private
 cssclasses:
   - private
   - note
 draft: true
-expiryDate: 
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - atlas
-layout: 
+layout:
 license: (c)copyrighted
 linkTitle:
-  "Atlas": 
+  Atlas:
 publish: false
-publishDate: 
+publishDate:
 tags:
   - class/Class
   - schema-org/Class
-  - "Atlas": 
+  - Atlas:
   - excalidraw
 title:
-  "Atlas": 
+  Atlas:
 type: private_note
 has_id_wikidata: Q162827
 instance_of:
@@ -34,7 +34,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~genre,483394]]"
   - "[[_Standards/WikiData/WD~cartographic_product,124608594]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 different_from:
@@ -45,7 +45,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~map_series,1734578]]"
   - "[[_Standards/WikiData/WD~cartographic_work,25106976]]"
   - "[[_Standards/WikiData/WD~book,571]]"
-  - "[[_Standards/WikiData/WD~reference_work,13136]]"
+  - "[[../WikiData/WD~reference_work,13136]]"
 named_after: "[[_Standards/WikiData/WD~Atlas_of_Mauretania,4816856]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Atlas,6690593]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Atlas,13365287]]"
@@ -66,7 +66,7 @@ excalidraw_open_md: true
 excalidraw_plugin: parsed
 has_Template: "[[Extract~Note~Template]]"
 has_time_started:
-  "{ \"date:YYYY-MM-DD\": null }": 
+  '{ "date:YYYY-MM-DD": null }':
 lang: en
 ---
 

@@ -18,7 +18,7 @@ taxon_common_name:
 
 # [[Carcharhiniformes]] 
 
-#is_/same_as :: [[WD~Carcharhiniformes,48178]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Carcharhiniformes,48178]] 
 
 ## #has_/text_of_/abstract 
 

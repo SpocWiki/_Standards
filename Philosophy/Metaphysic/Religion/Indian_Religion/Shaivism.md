@@ -5,7 +5,7 @@ aliases:
   - Śaivasampradāyaḥ
 has_id_wikidata: Q234953
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 instance_of: "[[_Standards/WikiData/WD~Hindu_denomination,1318257]]"
 part_of: "[[_Standards/WikiData/WD~Hinduism,9089]]"

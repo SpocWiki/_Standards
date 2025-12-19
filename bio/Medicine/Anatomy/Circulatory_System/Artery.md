@@ -5,7 +5,7 @@ connects_with:
   - "[[_Standards/WikiData/WD~heart,1072]]"
 equivalent_class: https://schema.org/Artery
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -39,7 +39,7 @@ Krugosvet_article: BBCbitesize.com
 UMLS_CUI: C0003842
 MeSH_tree_code: A07.015.114
 aliases:
-  - "Artery": 
+  - Artery:
 confidential: private
 cssclasses:
   - private
@@ -48,26 +48,26 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: 
+expiryDate:
 has_Template: "[[Extract~Note~Template]]"
 has_time_started:
-  "{ \"date:YYYY-MM-DD\": null }": 
+  '{ "date:YYYY-MM-DD": null }':
 isDeleted: false
 isReadOnly: false
 keywords:
-  "Artery": 
+  Artery:
 lang: en
-layout: 
+layout:
 license: (c)copyrighted
 linkTitle:
-  "Artery": 
+  Artery:
 publish: false
-publishDate: 
+publishDate:
 tags:
-  - "Artery": 
+  - Artery:
   - excalidraw
 title:
-  "Artery": 
+  Artery:
 type: private_note
 ---
 

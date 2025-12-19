@@ -46,7 +46,7 @@ influenced_by:
   - "[[_Standards/WikiData/WD~Q213970,213970]]"
   - "[[_Standards/WikiData/WD~Self,1864529]]"
   - "[[_Standards/WikiData/WD~LiveScript,16963446]]"
-  - "[[_Standards/WikiData/WD~Q15777,15777]]"
+  - "[[../../../../../../../../WikiData/WD~Q15777,15777]]"
   - "[[_Standards/WikiData/WD~Q28865,28865]]"
   - "[[_Standards/WikiData/WD~Q251,251]]"
   - "[[_Standards/WikiData/WD~Q42478,42478]]"

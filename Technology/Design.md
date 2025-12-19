@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q82604
 different_from:
   - "[[_Standards/WikiData/WD~Design,398628]]"
@@ -7,7 +7,7 @@ different_from:
 instance_of:
   - "[[_Standards/WikiData/WD~field_of_work,627436]]"
   - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../WikiData/WD~economic_activity,8187769]]"
   - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
   - "[[_Standards/WikiData/WD~type_of_process,116505632]]"
   - "[[_Standards/WikiData/WD~system_lifecycle_phase,119143679]]"

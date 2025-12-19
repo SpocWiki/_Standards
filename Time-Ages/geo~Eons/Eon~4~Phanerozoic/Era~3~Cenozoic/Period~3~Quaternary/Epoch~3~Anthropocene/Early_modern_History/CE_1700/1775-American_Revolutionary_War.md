@@ -1,48 +1,48 @@
 ---
 aliases:
-- "American War of Independence"
-- "American Revolution"
-Commons_category: "American Revolutionary War"
-Commons_gallery: "American Revolutionary War"
+  - American War of Independence
+  - American Revolution
+Commons_category: American Revolutionary War
+Commons_gallery: American Revolutionary War
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 end_time: 1783-09-03
 has_id_wikidata: Q40949
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rev%20collage.png"
-instance_of: '[[_Standards/WikiData/WD~war_of_national_liberation,1006311]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Rev%20collage.png
+instance_of: "[[_Standards/WikiData/WD~war_of_national_liberation,1006311]]"
 location:
-- '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
-- '[[_Standards/WikiData/WD~Caribbean_Sea,1247]]'
-- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
-- '[[_Standards/WikiData/WD~Balearic_Islands,5765]]'
-- '[[_Standards/WikiData/WD~Central_America,27611]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rev%20collage.png"
+  - "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+  - "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
+  - "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+  - "[[_Standards/WikiData/WD~Balearic_Islands,5765]]"
+  - "[[_Standards/WikiData/WD~Central_America,27611]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Rev%20collage.png
 participant:
-- '[[_Standards/WikiData/WD~France_in_the_early_modern_period,69461]]'
-- '[[_Standards/WikiData/WD~Lenape,82048]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
-- '[[_Standards/WikiData/WD~Dutch_Republic,170072]]'
-- '[[_Standards/WikiData/WD~Thirteen_Colonies,179997]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Mysore,266923]]'
-- '[[_Standards/WikiData/WD~Tuscarora_Nation,504912]]'
-- '[[_Standards/WikiData/WD~Oneida,1572875]]'
-- '[[_Standards/WikiData/WD~Vermont_Republic,1649602]]'
-- '[[_Standards/WikiData/WD~Mosquitia,6037274]]'
-- '[[_Standards/WikiData/WD~Watauga_Association,7973025]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Spain,29]]'
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-American%20Revolutionary%20War-article.ogg"
-start_point: '[[_Standards/WikiData/WD~Lexington_Battle_Green,4257679]]'
+  - "[[_Standards/WikiData/WD~France_in_the_early_modern_period,69461]]"
+  - "[[_Standards/WikiData/WD~Lenape,82048]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
+  - "[[_Standards/WikiData/WD~Dutch_Republic,170072]]"
+  - "[[_Standards/WikiData/WD~Thirteen_Colonies,179997]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Mysore,266923]]"
+  - "[[_Standards/WikiData/WD~Tuscarora_Nation,504912]]"
+  - "[[_Standards/WikiData/WD~Oneida,1572875]]"
+  - "[[_Standards/WikiData/WD~Vermont_Republic,1649602]]"
+  - "[[_Standards/WikiData/WD~Mosquitia,6037274]]"
+  - "[[_Standards/WikiData/WD~Watauga_Association,7973025]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Spain,29]]"
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-American%20Revolutionary%20War-article.ogg
+start_point: "[[_Standards/WikiData/WD~Lexington_Battle_Green,4257679]]"
 start_time: 1775-04-19
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_American_Revolutionary_War,14090504]]'
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_American_Revolutionary_War,14090504]]"
 U_S_National_Archives_Identifier: 10639078
-Wolfram_Language_entity_code: "Entity[\"MilitaryConflict\", \"AmericanRevolutionaryWar\"]"
+Wolfram_Language_entity_code: Entity["MilitaryConflict", "AmericanRevolutionaryWar"]
 ---
 
 #has_/time_/started ::  1775-04-19 

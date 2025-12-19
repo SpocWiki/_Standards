@@ -3,14 +3,14 @@ aliases:
   - gokudō
   - 極道
   - ヤクザ
-  - bōryokudan 
+  - bōryokudan
   - 暴力団
-  - ninkyō dantai 
+  - ninkyō dantai
   - 任侠団体
 has_id_wikidata: Q183287
 different_from: "[[_Standards/WikiData/WD~Yakuza,356477]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~criminal_organization,1788992]]"
+  - "[[../../../../../../WikiData/WD~criminal_organization,1788992]]"
   - "[[_Standards/WikiData/WD~occupation,12737077]]"
 inception: 1700-01-01T00:00:00Z
 operating_area:

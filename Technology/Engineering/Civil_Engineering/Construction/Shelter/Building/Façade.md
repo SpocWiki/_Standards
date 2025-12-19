@@ -4,7 +4,7 @@ aliases:
   - Fassade
 has_id_wikidata: Q183061
 instance_of:
-  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
+  - "[[../../../../../../WikiData/WD~architectural_element,391414]]"
   - "[[_Standards/WikiData/WD~type_of_work_of_art,116474095]]"
 different_from:
   - "[[_Standards/WikiData/WD~facade_pattern,428170]]"

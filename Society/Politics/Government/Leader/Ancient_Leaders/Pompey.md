@@ -36,7 +36,7 @@ sibling:
   - "[[_Standards/WikiData/WD~Pompeia,123700690]]"
 place_of_birth: "[[_Standards/WikiData/WD~Regio_V_Picenum,510990]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Parallel_Lives,842337]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"

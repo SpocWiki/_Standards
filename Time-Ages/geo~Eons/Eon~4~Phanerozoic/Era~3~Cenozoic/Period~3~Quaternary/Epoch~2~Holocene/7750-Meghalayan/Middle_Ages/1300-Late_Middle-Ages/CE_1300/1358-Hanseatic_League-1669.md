@@ -9,7 +9,7 @@ instance_of:
 named_after: "[[_Standards/WikiData/WD~convoy,370330]]"
 official_language: "[[_Standards/WikiData/WD~Middle_Low_German,505674]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"

@@ -8,7 +8,7 @@ said_to_be_the_same_as:
 instance_of:
   - "[[_Standards/WikiData/WD~industry,268592]]"
   - "[[_Standards/WikiData/WD~service,7406919]]"
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../../WikiData/WD~economic_activity,8187769]]"
 product_or_material_produced: "[[_Standards/WikiData/WD~publication,732577]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"

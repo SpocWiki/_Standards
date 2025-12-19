@@ -6,7 +6,7 @@ aliases:
 has_id_wikidata: Q6497624
 described_by_source:
   - "[[_Standards/WikiData/WD~Archimedes'_principle,181404]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 instance_of: "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
 subclass_of: "[[_Standards/WikiData/WD~surface_force,2009590]]"

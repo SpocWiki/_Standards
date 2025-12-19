@@ -2,7 +2,7 @@
 has_id_wikidata: Q86394
 subclass_of: "[[_Standards/WikiData/WD~spherical_coordinate_system,203218]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Astronomical_coordinate_systems,6867062]]"
 Commons_category: Celestial coordinate systems

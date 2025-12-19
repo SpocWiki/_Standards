@@ -9,7 +9,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 parent_taxon:
   - "[[_Standards/WikiData/WD~Carcharhinoidei,131599375]]"
-  - "[[_Standards/WikiData/WD~Carcharhiniformes,48178]]"
+  - "[[../../../../../../../../../../../../../../../WikiData/WD~Carcharhiniformes,48178]]"
 start_time: -55800000-01-01T00:00:00Z
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"

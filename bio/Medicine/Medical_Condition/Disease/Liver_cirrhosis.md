@@ -46,7 +46,7 @@ drug_or_therapy_used_for_treatment:
   - "[[_Standards/WikiData/WD~entecavir_hydrate,27126952]]"
   - "[[_Standards/WikiData/WD~ethacrynate_sodium,27281933]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 has_effect:
   - "[[_Standards/WikiData/WD~liver_cancer,623031]]"

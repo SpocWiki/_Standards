@@ -4,7 +4,7 @@ has_id_wikidata: Q1267987
 subclass_of: "[[_Standards/WikiData/WD~Dravidian_peoples,69798]]"
 different_from: "[[_Standards/WikiData/WD~Malaysia,142702]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Castes_and_Tribes_of_Southern_India_Malayāli,64362720]]"
 religion_or_worldview:
   - "[[_Standards/WikiData/WD~Islam,432]]"

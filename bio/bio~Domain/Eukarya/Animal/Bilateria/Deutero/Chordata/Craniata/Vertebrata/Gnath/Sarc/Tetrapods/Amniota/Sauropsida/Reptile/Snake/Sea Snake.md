@@ -6,7 +6,7 @@ taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
 parent_taxon: "[[_Standards/WikiData/WD~Elapidae,186554]]"
 this_taxon_is_source_of: "[[_Standards/WikiData/WD~snake_venom,424200]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"

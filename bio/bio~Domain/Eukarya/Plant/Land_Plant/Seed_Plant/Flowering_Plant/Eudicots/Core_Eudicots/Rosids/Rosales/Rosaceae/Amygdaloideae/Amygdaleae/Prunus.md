@@ -17,7 +17,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
   - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_38,112869419]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-parent_taxon: "[[_Standards/WikiData/WD~Amygdaleae,5673432]]"
+parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Amygdaleae,5673432]]"
 has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
@@ -46,7 +46,7 @@ NBN_System_Key: NHMSYS0000462080
 
 # [[Prunus]] 
 
-#is_/same_as :: [[WD~Prunus,190545]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Prunus,190545]] 
 
 ## #has_/text_of_/abstract 
 

@@ -22,7 +22,7 @@ described_by_source: "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinic
 taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
 has_fruit_type: "[[_Standards/WikiData/WD~berry,13184]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Ribes,22691]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Ribes,22691]]"
 taxon_range:
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
   - "[[_Standards/WikiData/WD~Xinjiang,34800]]"

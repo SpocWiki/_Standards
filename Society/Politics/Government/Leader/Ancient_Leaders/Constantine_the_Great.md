@@ -1,112 +1,112 @@
 ---
 aliases:
-- "Constantine the Great"
-- "Flavius Valerius Constantinus"
-- "Constantine I"
+  - Constantine the Great
+  - Flavius Valerius Constantinus
+  - Constantine I
 BHCL_UUID: e63d5266-ec66-4857-872d-52f0bcf947b1
-birth_name: "Flavius Constantinus"
-canonization_status: '[[_Standards/WikiData/WD~saint,43115]]'
+birth_name: Flavius Constantinus
+canonization_status: "[[_Standards/WikiData/WD~saint,43115]]"
 child:
-- '[[_Standards/WikiData/WD~Constans,185538]]'
-- '[[_Standards/WikiData/WD~Crispus,311646]]'
-- '[[_Standards/WikiData/WD~Constantina,464452]]'
-- '[[_Standards/WikiData/WD~Helena,1001933]]'
-- '[[_Standards/WikiData/WD~Constantius_II,46418]]'
-- '[[_Standards/WikiData/WD~Constantine_II,46734]]'
-cognomen: '[[_Standards/WikiData/WD~Constantinus,25839963]]'
-Commons_category: "Constantinus I Magnus"
-Commons_gallery: "Flavius Valerius Constantinus"
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+  - "[[_Standards/WikiData/WD~Constans,185538]]"
+  - "[[_Standards/WikiData/WD~Crispus,311646]]"
+  - "[[_Standards/WikiData/WD~Constantina,464452]]"
+  - "[[_Standards/WikiData/WD~Helena,1001933]]"
+  - "[[_Standards/WikiData/WD~Constantius_II,46418]]"
+  - "[[_Standards/WikiData/WD~Constantine_II,46734]]"
+cognomen: "[[_Standards/WikiData/WD~Constantinus,25839963]]"
+Commons_category: Constantinus I Magnus
+Commons_gallery: Flavius Valerius Constantinus
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 date_of_birth: 0272-02-27
 date_of_death: 0337-05-23
 depicted_by:
-- '[[_Standards/WikiData/WD~Colossus_of_Constantine,1289781]]'
-- '[[_Standards/WikiData/WD~Statue_of_Constantine_the_Great_in_Cordonata,125809397]]'
-- "[[_Standards/WikiData/WD~Constantine's_Statue,126192129]]"
+  - "[[_Standards/WikiData/WD~Colossus_of_Constantine,1289781]]"
+  - "[[_Standards/WikiData/WD~Statue_of_Constantine_the_Great_in_Cordonata,125809397]]"
+  - "[[_Standards/WikiData/WD~Constantine's_Statue,126192129]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- '[[_Standards/WikiData/WD~Imperial_Statues_and_Public_Spaces_in_Late_Antiquity__Conceptualising__Constantine__at_York_as_an_Ancient_Public_Commission,46997087]]'
-- '[[_Standards/WikiData/WD~The_Long_Shadow_of_Constantine,53932892]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~The_Cambridge_Companion_to_the_Age_of_Constantine,124024367]]'
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~Imperial_Statues_and_Public_Spaces_in_Late_Antiquity__Conceptualising__Constantine__at_York_as_an_Ancient_Public_Commission,46997087]]"
+  - "[[_Standards/WikiData/WD~The_Long_Shadow_of_Constantine,53932892]]"
+  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - "[[_Standards/WikiData/WD~The_Cambridge_Companion_to_the_Age_of_Constantine,124024367]]"
 EAGLE_id:
-- dates/lod/161
-- dates/lod/34
-family: '[[_Standards/WikiData/WD~Constantinian_dynasty,175454]]'
-father: '[[_Standards/WikiData/WD~Constantius_Chlorus,131195]]'
+  - dates/lod/161
+  - dates/lod/34
+family: "[[_Standards/WikiData/WD~Constantinian_dynasty,175454]]"
+father: "[[_Standards/WikiData/WD~Constantius_Chlorus,131195]]"
 feast_day:
-- '[[_Standards/WikiData/WD~April_6,2506]]'
-- '[[_Standards/WikiData/WD~May_21,2580]]'
+  - "[[_Standards/WikiData/WD~April_6,2506]]"
+  - "[[_Standards/WikiData/WD~May_21,2580]]"
 gens:
-- '[[_Standards/WikiData/WD~Valeria_gens,1429412]]'
-- '[[_Standards/WikiData/WD~Flavia_gens,12297672]]'
+  - "[[_Standards/WikiData/WD~Valeria_gens,1429412]]"
+  - "[[_Standards/WikiData/WD~Flavia_gens,12297672]]"
 has_id_wikidata: Q8413
-has_works_in_the_collection: '[[_Standards/WikiData/WD~Victoria_and_Albert_Museum,213322]]'
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Victoria_and_Albert_Museum,213322]]"
 Iconclass_notation: 11H(CONSTANTINE)
-iconographic_symbol: '[[_Standards/WikiData/WD~king,12097]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/0%20Gaius%20Flavius%20Valerius%20Constantinus%2C%20Palatino.jpg"
+iconographic_symbol: "[[_Standards/WikiData/WD~king,12097]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/0%20Gaius%20Flavius%20Valerius%20Constantinus%2C%20Palatino.jpg
 Image_Archive_Herder_Institute: Q8413
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-ISNI: 0000000120966935
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+ISNI: 120966935
 Krugosvet_article: religiya/konstantin-i
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Latin,397]]'
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Latin,397]]"
 Libris_URI: 97mpqxmt5hsxtbz
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-mother: '[[_Standards/WikiData/WD~Helena_Augusta,170164]]'
-name_in_native_language: "Flavius Valerius Aurelius Constantinus"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+mother: "[[_Standards/WikiData/WD~Helena_Augusta,170164]]"
+name_in_native_language: Flavius Valerius Aurelius Constantinus
 nickname: Trachala
 noble_title:
-- '[[_Standards/WikiData/WD~Caesar,188751]]'
-- '[[_Standards/WikiData/WD~Augustus,211804]]'
+  - "[[_Standards/WikiData/WD~Caesar,188751]]"
+  - "[[_Standards/WikiData/WD~Augustus,211804]]"
 nomen_gentilicium:
-- '[[_Standards/WikiData/WD~Aurelius,32978882]]'
-- '[[_Standards/WikiData/WD~Flavius,32979165]]'
-- '[[_Standards/WikiData/WD~Valerius,32979453]]'
-notable_work: '[[_Standards/WikiData/WD~Debates_of_Constantine,121840766]]'
+  - "[[_Standards/WikiData/WD~Aurelius,32978882]]"
+  - "[[_Standards/WikiData/WD~Flavius,32979165]]"
+  - "[[_Standards/WikiData/WD~Valerius,32979453]]"
+notable_work: "[[_Standards/WikiData/WD~Debates_of_Constantine,121840766]]"
 occupation:
-- '[[_Standards/WikiData/WD~politician,82955]]'
-- '[[_Standards/WikiData/WD~sovereign,2304859]]'
-- '[[_Standards/WikiData/WD~military_personnel,47064]]'
-owner_of: '[[_Standards/WikiData/WD~Black_Madonna_of_Częstochowa,573619]]'
-place_of_birth: '[[_Standards/WikiData/WD~Niš,129259]]'
-place_of_death: '[[_Standards/WikiData/WD~Nicomedia,209349]]'
+  - "[[_Standards/WikiData/WD~politician,82955]]"
+  - "[[_Standards/WikiData/WD~sovereign,2304859]]"
+  - "[[_Standards/WikiData/WD~military_personnel,47064]]"
+owner_of: "[[_Standards/WikiData/WD~Black_Madonna_of_Częstochowa,573619]]"
+place_of_birth: "[[_Standards/WikiData/WD~Niš,129259]]"
+place_of_death: "[[_Standards/WikiData/WD~Nicomedia,209349]]"
 position_held:
-- '[[_Standards/WikiData/WD~pontifex_maximus,212943]]'
-- '[[_Standards/WikiData/WD~Roman_emperor,842606]]'
-- '[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]'
-praenomen: "http://www.wikidata.org/.well-known/genid/da1808b5fcac9cd93e8386aa03a460d3"
-present_in_work: '[[_Standards/WikiData/WD~The_History_of_the_Kings_of_Britain,238693]]'
+  - "[[_Standards/WikiData/WD~pontifex_maximus,212943]]"
+  - "[[_Standards/WikiData/WD~Roman_emperor,842606]]"
+  - "[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]"
+praenomen: http://www.wikidata.org/.well-known/genid/da1808b5fcac9cd93e8386aa03a460d3
+present_in_work: "[[_Standards/WikiData/WD~The_History_of_the_Kings_of_Britain,238693]]"
 Provenio_UUID:
-- 5d8c041c-7f5b-4861-bc7f-23ecea6c10b8
-- 740a19f0-f7ab-427f-b6a5-7d09c6945d6c
-- 68e861b7-53da-4466-84c7-61b881b016b9
+  - 5d8c041c-7f5b-4861-bc7f-23ecea6c10b8
+  - 740a19f0-f7ab-427f-b6a5-7d09c6945d6c
+  - 68e861b7-53da-4466-84c7-61b881b016b9
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]'
-- '[[_Standards/WikiData/WD~Christianity,5043]]'
+  - "[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]"
+  - "[[_Standards/WikiData/WD~Christianity,5043]]"
 Royal_Academy_new_identifier: constantine-i
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
 sibling:
-- '[[_Standards/WikiData/WD~Flavia_Julia_Constantia,238023]]'
-- '[[_Standards/WikiData/WD~Eutropia,291738]]'
-- '[[_Standards/WikiData/WD~Julius_Constantius,450702]]'
-- '[[_Standards/WikiData/WD~Anastasia,486630]]'
-- '[[_Standards/WikiData/WD~Flavius_Dalmatius,504556]]'
-- '[[_Standards/WikiData/WD~Flavius_Hannibalianus,1427539]]'
+  - "[[_Standards/WikiData/WD~Flavia_Julia_Constantia,238023]]"
+  - "[[_Standards/WikiData/WD~Eutropia,291738]]"
+  - "[[_Standards/WikiData/WD~Julius_Constantius,450702]]"
+  - "[[_Standards/WikiData/WD~Anastasia,486630]]"
+  - "[[_Standards/WikiData/WD~Flavius_Dalmatius,504556]]"
+  - "[[_Standards/WikiData/WD~Flavius_Hannibalianus,1427539]]"
 spouse:
-- '[[_Standards/WikiData/WD~Fausta,231063]]'
-- '[[_Standards/WikiData/WD~Minervina,45522]]'
+  - "[[_Standards/WikiData/WD~Fausta,231063]]"
+  - "[[_Standards/WikiData/WD~Minervina,45522]]"
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/16360
-time_period: '[[_Standards/WikiData/WD~Byzantine_Egypt,17302295]]'
-Wolfram_Language_entity_code: "Entity[\"Concept\", \"ConstantineI::ym7n9\"]"
-writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
+time_period: "[[_Standards/WikiData/WD~Byzantine_Egypt,17302295]]"
+Wolfram_Language_entity_code: Entity["Concept", "ConstantineI::ym7n9"]
+writing_language: "[[_Standards/WikiData/WD~Latin,397]]"
 ---
 
 #has_/time_/started  :: 0272-02-27 

@@ -3,7 +3,7 @@ aliases:
   - percussion instrument
 has_id_wikidata: Q133163
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 instance_of: "[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]"
 subclass_of:

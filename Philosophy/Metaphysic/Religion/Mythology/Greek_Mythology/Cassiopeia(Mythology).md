@@ -10,7 +10,7 @@ aliases:
 has_id_wikidata: Q207681
 child: "[[_Standards/WikiData/WD~Andromeda,161582]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
   - "[[_Standards/WikiData/WD~A_Cyclopaedia_of_Female_Biography,114693785]]"

@@ -12,7 +12,7 @@ part_of:
 different_from:
   - "[[_Standards/WikiData/WD~field_strength,1365197]]"
   - "[[_Standards/WikiData/WD~gravitational_field_strength,21652129]]"
-  - "[[_Standards/WikiData/WD~magnetic_flux_density,30204]]"
+  - "[[../../WikiData/WD~magnetic_flux_density,30204]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]"

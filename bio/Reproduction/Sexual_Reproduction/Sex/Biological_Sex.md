@@ -11,7 +11,7 @@ different_from:
   - "[[_Standards/WikiData/WD~sexual_intercourse,5873]]"
   - "[[_Standards/WikiData/WD~gender,48277]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
   - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"

@@ -101,7 +101,7 @@ found_in_taxon:
   - "[[_Standards/WikiData/WD~Hippophae_rhamnoides,165378]]"
   - "[[_Standards/WikiData/WD~Elaeis_guineensis,165403]]"
   - "[[_Standards/WikiData/WD~common_sunflower,171497]]"
-  - "[[_Standards/WikiData/WD~Brassica_napus,177932]]"
+  - "[[../../../../../WikiData/WD~Brassica_napus,177932]]"
   - "[[_Standards/WikiData/WD~Nicotiana_tabacum,181095]]"
   - "[[_Standards/WikiData/WD~Juniperus_phoenicea,183497]]"
   - "[[_Standards/WikiData/WD~Pleurotus_ostreatus,186451]]"
@@ -576,7 +576,7 @@ found_in_taxon:
   - "[[_Standards/WikiData/WD~Juglans_regia,46871]]"
   - "[[_Standards/WikiData/WD~Lactarius_deliciosus,62138]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"

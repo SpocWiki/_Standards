@@ -121,7 +121,7 @@ member_of:
   - "[[_Standards/WikiData/WD~Bavarian_Academy_of_Fine_Arts,812155]]"
   - "[[_Standards/WikiData/WD~Academy_of_Arts_of_the_GDR,15646111]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
   - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"

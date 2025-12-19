@@ -52,7 +52,7 @@ has_use:
   - "[[_Standards/WikiData/WD~fodder,211439]]"
   - "[[_Standards/WikiData/WD~food,2095]]"
   - "[[_Standards/WikiData/WD~cereal_grain,12117]]"
-  - "[[_Standards/WikiData/WD~fiber,161]]"
+  - "[[../../../../../../../../../../../../WikiData/WD~fiber,161]]"
 this_taxon_is_source_of: "[[_Standards/WikiData/WD~camelina_oil,496049]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"

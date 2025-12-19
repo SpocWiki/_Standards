@@ -64,7 +64,7 @@ genre:
   - "[[_Standards/WikiData/WD~self_portrait,192110]]"
   - "[[_Standards/WikiData/WD~vanitas,733095]]"
   - "[[_Standards/WikiData/WD~history_painting,742333]]"
-  - "[[_Standards/WikiData/WD~graphics,1027879]]"
+  - "[[../../../../../WikiData/WD~graphics,1027879]]"
   - "[[_Standards/WikiData/WD~figurative_art,1622217]]"
   - "[[_Standards/WikiData/WD~allegory,2839016]]"
   - "[[_Standards/WikiData/WD~mythological_painting,3374376]]"

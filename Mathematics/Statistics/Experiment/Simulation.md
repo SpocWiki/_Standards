@@ -27,7 +27,7 @@ Commons_category: Simulation
 
 # [[Simulation]] 
 
-#is_/same_as :: [[../../../_Standards/WikiData/WD~simulation,45045|WD~simulation,45045]]  
+#is_/same_as :: [[../../../WikiData/WD~simulation,45045|WD~simulation,45045]]  
 
 ## #has_/text_of_/abstract 
 

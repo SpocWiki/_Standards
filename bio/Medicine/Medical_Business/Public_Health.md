@@ -33,7 +33,7 @@ Library_of_Congress_Classification:
 OpenStreetMap_tag: healthcare:speciality=community
 facet_of: "[[_Standards/WikiData/WD~risk_management,189447]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~work,268378]]"
+  - "[[../../../WikiData/WD~work,268378]]"
   - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~health_sciences,843601]]"

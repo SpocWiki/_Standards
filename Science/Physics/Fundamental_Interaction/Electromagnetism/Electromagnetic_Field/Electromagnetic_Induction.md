@@ -14,7 +14,7 @@ instance_of:
 has_effect: "[[_Standards/WikiData/WD~inductive_coupling,1498289]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q116810811,116810811]]"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Michael_Faraday,8750]]"
-different_from: "[[_Standards/WikiData/WD~magnetic_flux_density,30204]]"
+different_from: "[[../../../../../WikiData/WD~magnetic_flux_density,30204]]"
 OmegaWiki_Defined_Meaning: "1155191"
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Electric-generator-3D-with-load.svg

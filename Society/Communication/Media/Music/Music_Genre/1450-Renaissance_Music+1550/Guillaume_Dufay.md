@@ -28,7 +28,7 @@ notable_work:
   - "[[_Standards/WikiData/WD~Rondeaux,136289969]]"
   - "[[_Standards/WikiData/WD~Lyrical_poems,136290202]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
   - "[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]"

@@ -13,7 +13,7 @@ Commons_category: Trade routes
 
 # [[Trade_Route]] 
 
-#is_/same_as :: [[WD~trade_route,405155]] 
+#is_/same_as :: [[../../../../WikiData/WD~trade_route,405155]] 
 
 ## #has_/text_of_/abstract 
 

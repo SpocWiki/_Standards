@@ -31,7 +31,7 @@ drug_or_therapy_used_for_treatment:
   - "[[_Standards/WikiData/WD~antidepressant,76560]]"
   - "[[_Standards/WikiData/WD~antipsychotics,208144]]"
   - "[[_Standards/WikiData/WD~5_HTP,238544]]"
-  - "[[_Standards/WikiData/WD~(RS)_ketamine,243547]]"
+  - "[[../../../WikiData/WD~(RS)_ketamine,243547]]"
   - "[[_Standards/WikiData/WD~selective_serotonin_reuptake_inhibitor,334477]]"
   - "[[_Standards/WikiData/WD~agomelatine,395229]]"
   - "[[_Standards/WikiData/WD~(S)_duloxetine,411932]]"

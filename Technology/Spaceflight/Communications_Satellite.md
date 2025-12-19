@@ -2,7 +2,7 @@
 aliases:
   - Kommunikationssatellit
 has_id_wikidata: Q149918
-has_use: "[[../../_Standards/WikiData/WD~Satellite_communication,2225985]]"
+has_use: "[[../../WikiData/WD~Satellite_communication,2225985]]"
 subclass_of: "[[_Standards/WikiData/WD~artificial_satellite_of_the_Earth,12832168]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_communications_satellite,13965330]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"

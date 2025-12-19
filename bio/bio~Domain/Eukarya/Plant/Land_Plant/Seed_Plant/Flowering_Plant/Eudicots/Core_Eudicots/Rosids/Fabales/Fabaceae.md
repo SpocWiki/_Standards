@@ -19,7 +19,7 @@ this_taxon_is_source_of:
   - "[[_Standards/WikiData/WD~bean,379813]]"
   - "[[_Standards/WikiData/WD~mung_bean_sprout,7635866]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"

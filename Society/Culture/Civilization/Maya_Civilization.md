@@ -9,7 +9,7 @@ has_works_in_the_collection:
   - "[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]"
   - "[[_Standards/WikiData/WD~Musée_de_l'Homme,670268]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 maintained_by_WikiProject:
   - "[[_Standards/WikiData/WD~WikiProject_History,8486462]]"

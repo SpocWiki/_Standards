@@ -3,7 +3,7 @@ aliases:
   - Mode
 has_id_wikidata: Q12684
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -18,7 +18,7 @@ history_of_topic:
 different_from: "[[_Standards/WikiData/WD~Q3007130,3007130]]"
 studied_by: "[[_Standards/WikiData/WD~fashion_sociology,3487502]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../../WikiData/WD~economic_activity,8187769]]"
   - "[[_Standards/WikiData/WD~fad,13427002]]"
   - "[[_Standards/WikiData/WD~culture,11042]]"
 facet_of: "[[_Standards/WikiData/WD~costume,9053464]]"

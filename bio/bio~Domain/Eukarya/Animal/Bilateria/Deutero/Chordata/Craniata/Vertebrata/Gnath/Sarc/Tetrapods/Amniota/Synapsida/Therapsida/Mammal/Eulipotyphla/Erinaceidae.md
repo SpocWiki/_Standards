@@ -5,7 +5,7 @@ has_id_wikidata: Q28257
 has_use: "[[_Standards/WikiData/WD~biological_pest_control,116890]]"
 taxonomic_type: "[[_Standards/WikiData/WD~Erinaceus,498993]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
@@ -13,7 +13,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 parent_taxon:
   - "[[_Standards/WikiData/WD~Erinaceomorpha,6241223]]"
-  - "[[_Standards/WikiData/WD~Eulipotyphla,16635184]]"
+  - "[[../../../../../../../../../../../../../../../../../WikiData/WD~Eulipotyphla,16635184]]"
 topic_has_template:
   - "[[_Standards/WikiData/WD~Template_Erinaceidae,11049061]]"
   - "[[_Standards/WikiData/WD~Template_Erinaceidae,14335912]]"

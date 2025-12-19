@@ -5,7 +5,7 @@ has_id_wikidata: Q5401
 subclass_of: "[[_Standards/WikiData/WD~region,82794]]"
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Old_World,174807]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 different_from:

@@ -5,7 +5,7 @@ aliases:
   - Antonín Dvořák
   - Antonín Leopold Dvořák
   - Antonin Dvorak
-  - Dvorak,Antonin 
+  - Dvorak,Antonin
 award_received:
   - "[[_Standards/WikiData/WD~Order_of_the_Iron_Crown,694151]]"
   - "[[_Standards/WikiData/WD~Order_of_the_Iron_Crown,6766065]]"
@@ -29,7 +29,7 @@ date_of_baptism: 1841-09-09
 date_of_birth: 1841-09-08
 date_of_death: 1904-05-01
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"

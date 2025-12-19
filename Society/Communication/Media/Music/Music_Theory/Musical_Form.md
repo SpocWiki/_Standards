@@ -6,7 +6,7 @@ different_from:
   - "[[_Standards/WikiData/WD~musical_form,3328534]]"
   - "[[_Standards/WikiData/WD~musical_style,11921029]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,2152210]]"
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 subclass_of:

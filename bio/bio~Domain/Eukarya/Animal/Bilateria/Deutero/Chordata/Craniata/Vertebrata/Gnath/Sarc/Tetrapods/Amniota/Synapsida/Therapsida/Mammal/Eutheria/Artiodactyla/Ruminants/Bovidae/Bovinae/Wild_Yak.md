@@ -1,11 +1,11 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q26547
 has_characteristic: "[[_Standards/WikiData/WD~viviparity,120446]]"
 parent_taxon: "[[_Standards/WikiData/WD~Bos,237993]]"
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Vulnerable,278113]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"

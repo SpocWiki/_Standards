@@ -10,7 +10,7 @@ taxon_name: Musteloidea
 
 # [[Musteloidea]] 
 
-#is_/same_as :: [[WD~Musteloidea,2670845]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Musteloidea,2670845]] 
 
 ## #has_/text_of_/abstract 
 

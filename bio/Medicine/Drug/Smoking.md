@@ -19,7 +19,7 @@ risk_factor:
   - "[[_Standards/WikiData/WD~substance_abuse,3184856]]"
   - "[[_Standards/WikiData/WD~mental_disorder,12135]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_smoking,7112730]]"
 different_from:

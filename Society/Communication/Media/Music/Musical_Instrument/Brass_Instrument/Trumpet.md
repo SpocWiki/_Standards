@@ -7,7 +7,7 @@ award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
 Commons_category: Trumpets
 Commons_gallery: Trumpet
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"

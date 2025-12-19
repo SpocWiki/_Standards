@@ -12,7 +12,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~hydrological_prognosis,17455059]]"
   - "[[_Standards/WikiData/WD~hydrologic_engineering,72358999]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 instance_of:

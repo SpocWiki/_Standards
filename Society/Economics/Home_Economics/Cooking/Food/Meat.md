@@ -2,45 +2,45 @@
 Commons_category: Meats
 Danbooru_tag: meat
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 Dewey_Decimal_Classification:
-- 641.36
-- 664.9
-exact_match: "http://purl.obolibrary.org/obo/ENVO_00002165"
+  - 641.36
+  - 664.9
+exact_match: http://purl.obolibrary.org/obo/ENVO_00002165
 has_id_wikidata: Q10990
 has_part_s_:
-- '[[_Standards/WikiData/WD~adipose_tissue,193583]]'
-- '[[_Standards/WikiData/WD~liquid_water,29053744]]'
-- '[[_Standards/WikiData/WD~muscle,7365]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/FoodMeat.jpg"
+  - "[[_Standards/WikiData/WD~adipose_tissue,193583]]"
+  - "[[_Standards/WikiData/WD~liquid_water,29053744]]"
+  - "[[_Standards/WikiData/WD~muscle,7365]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/FoodMeat.jpg
 MeSH_tree_code:
-- G07.203.300.600
-- J02.500.600
-natural_product_of_taxon: '[[_Standards/WikiData/WD~bird,5113]]'
+  - G07.203.300.600
+  - J02.500.600
+natural_product_of_taxon: "[[_Standards/WikiData/WD~bird,5113]]"
 OmegaWiki_Defined_Meaning: 2300
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Meat-banner-01.jpg"
-part_of: '[[_Standards/WikiData/WD~slaughter,2432249]]'
-produced_by: '[[_Standards/WikiData/WD~animal_slaughter,4282505]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D9%84%D8%AD%D9%85.ogg"
-replaced_by: '[[_Standards/WikiData/WD~meat_alternative,1343997]]'
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Meat-banner-01.jpg
+part_of: "[[_Standards/WikiData/WD~slaughter,2432249]]"
+produced_by: "[[_Standards/WikiData/WD~animal_slaughter,4282505]]"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D9%84%D8%AD%D9%85.ogg
+replaced_by: "[[_Standards/WikiData/WD~meat_alternative,1343997]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~animal_product,629103]]'
-- '[[_Standards/WikiData/WD~intermediate_good,3955017]]'
-- '[[_Standards/WikiData/WD~flesh,13119823]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
+  - "[[_Standards/WikiData/WD~animal_product,629103]]"
+  - "[[_Standards/WikiData/WD~intermediate_good,3955017]]"
+  - "[[_Standards/WikiData/WD~flesh,13119823]]"
+  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
+  - "[[_Standards/WikiData/WD~food,2095]]"
 subreddit: meat
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Meat,6462943]]'
-- '[[_Standards/WikiData/WD~Q10624851,10624851]]'
+  - "[[_Standards/WikiData/WD~Template_Meat,6462943]]"
+  - "[[_Standards/WikiData/WD~Q10624851,10624851]]"
 UMLS_CUI: C0025017
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Braucht%20der%20Mensch%20Fleisch%3F.webm"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Braucht%20der%20Mensch%20Fleisch%3F.webm
 ---
 
 # [[Meat]] 

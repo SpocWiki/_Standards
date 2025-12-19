@@ -3,7 +3,7 @@ aliases:
   - 刀
   - かたな
 has_id_wikidata: Q172736
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 part_of: "[[_Standards/WikiData/WD~daishō,944685]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~Japanese_sword,1768697]]"

@@ -15,7 +15,7 @@ practiced_by:
   - "[[_Standards/WikiData/WD~mercander,9031604]]"
   - "[[_Standards/WikiData/WD~vendor,104099828]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
@@ -25,7 +25,7 @@ different_from:
   - "[[_Standards/WikiData/WD~transfer_payment,1411457]]"
   - "[[_Standards/WikiData/WD~trading_business_(Handelsgewerbe),1489930]]"
 has_part_s_: "[[_Standards/WikiData/WD~trade_item,7832052]]"
-subclass_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+subclass_of: "[[../../../WikiData/WD~economic_activity,8187769]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Trade,15218281]]"
 union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 instance_of:

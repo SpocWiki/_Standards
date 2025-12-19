@@ -5,7 +5,7 @@ has_id_wikidata: Q202406
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Vulnerable,278113]]"
 subclass_of: "[[_Standards/WikiData/WD~fish_as_food,600396]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
 instance_of:

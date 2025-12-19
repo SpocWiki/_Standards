@@ -9,7 +9,7 @@ instance_of:
 made_from_material: "[[_Standards/WikiData/WD~granodiorite,215690]]"
 named_after: "[[_Standards/WikiData/WD~Rosetta,243699]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Pierre_François_Bouchard,1386062]]"

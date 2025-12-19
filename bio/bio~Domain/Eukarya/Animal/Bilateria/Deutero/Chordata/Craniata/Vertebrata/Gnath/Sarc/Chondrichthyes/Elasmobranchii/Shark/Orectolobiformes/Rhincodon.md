@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q17284129
 instance_of: "[[_Standards/WikiData/WD~monotypic_taxon,310890]]"
-parent_taxon: "[[_Standards/WikiData/WD~Rhincodontidae,2803916]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../WikiData/WD~Rhincodontidae,2803916]]"
 taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
 ITIS_TSN: "159855"
 Commons_category: Rhincodon typus
@@ -14,7 +14,7 @@ taxon_name: Rhincodon
 
 # [[Rhincodon]] 
 
-#is_/same_as :: [[WD~Rhincodon,17284129]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Rhincodon,17284129]] 
 
 ## #has_/text_of_/abstract 
 

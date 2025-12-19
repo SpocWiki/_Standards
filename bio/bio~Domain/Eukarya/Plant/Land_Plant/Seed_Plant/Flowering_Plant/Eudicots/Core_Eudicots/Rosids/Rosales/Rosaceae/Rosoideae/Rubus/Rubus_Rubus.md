@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q13180
 has_fruit_type: "[[_Standards/WikiData/WD~polydrupe,163233]]"
-parent_taxon: "[[_Standards/WikiData/WD~Rubus,602740]]"
+parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Rubus,602740]]"
 described_by_source: "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
 taxon_rank: "[[_Standards/WikiData/WD~subgenus,3238261]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Rubus_subg._Rubus,14442460]]"

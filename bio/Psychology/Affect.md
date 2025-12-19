@@ -20,7 +20,7 @@ Colon_Classification: S:53
 
 # [[Affect]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~affect,159904]] 
+#is_/same_as :: [[../../WikiData/WD~affect,159904]] 
 
 | Aspect          | Affect        | Emotion                       |
 | --------------- | ------------- | ----------------------------- |

@@ -11,7 +11,7 @@ subclass_of:
 said_to_be_the_same_as:
   - "[[_Standards/WikiData/WD~lascivious_behavior,440587]]"
   - "[[_Standards/WikiData/WD~Q1288392,1288392]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 different_from: "[[_Standards/WikiData/WD~desire,775842]]"
 Commons_category: Lust
 OmegaWiki_Defined_Meaning: "993977"

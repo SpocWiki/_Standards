@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q12248709
 taxon_rank: "[[_Standards/WikiData/WD~subtribe,3965313]]"
-parent_taxon: "[[_Standards/WikiData/WD~Mentheae,7638745]]"
+parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Mentheae,7638745 1]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/20140829Mentha%20aquatica5.jpg
 UMLS_CUI: C5536233

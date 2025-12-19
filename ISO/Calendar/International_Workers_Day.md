@@ -5,12 +5,12 @@ aliases:
   - May Day
 has_id_wikidata: Q47499
 commemorates:
-  - "[[_Standards/WikiData/WD~work,268378]]"
+  - "[[../../WikiData/WD~work,268378]]"
   - "[[_Standards/WikiData/WD~employee,703534]]"
   - "[[_Standards/WikiData/WD~laborer,12713481]]"
 dedicated_to: "[[_Standards/WikiData/WD~eight_hour_workday,341050]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 instance_of:
   - "[[_Standards/WikiData/WD~public_holiday,1197685]]"

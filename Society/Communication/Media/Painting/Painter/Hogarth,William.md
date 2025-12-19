@@ -118,7 +118,7 @@ occupation:
   - "[[_Standards/WikiData/WD~heraldic_artist,58423832]]"
   - "[[_Standards/WikiData/WD~exlibrist,107212688]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
@@ -129,7 +129,7 @@ described_by_source:
 religion_or_worldview: "[[_Standards/WikiData/WD~deism,620629]]"
 position_held: "[[_Standards/WikiData/WD~court_painter,984276]]"
 field_of_work:
-  - "[[_Standards/WikiData/WD~graphics,1027879]]"
+  - "[[../../../../../WikiData/WD~graphics,1027879]]"
   - "[[_Standards/WikiData/WD~art_of_painting,11629]]"
   - "[[_Standards/WikiData/WD~visual_arts,36649]]"
 student_of: "[[_Standards/WikiData/WD~John_Vanderbank,2053900]]"

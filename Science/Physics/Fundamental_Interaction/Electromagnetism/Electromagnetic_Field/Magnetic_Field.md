@@ -9,7 +9,7 @@ different_from:
 has_characteristic:
   - "[[_Standards/WikiData/WD~magnetism,3294789]]"
   - "[[_Standards/WikiData/WD~magnetic_field_strength,28123]]"
-  - "[[_Standards/WikiData/WD~magnetic_flux_density,30204]]"
+  - "[[../../../../../WikiData/WD~magnetic_flux_density,30204]]"
 described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 OmegaWiki_Defined_Meaning: "983619"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/54.%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B5%D1%82%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%BB%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B0%D0%B2%20%D1%81%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA.ogg

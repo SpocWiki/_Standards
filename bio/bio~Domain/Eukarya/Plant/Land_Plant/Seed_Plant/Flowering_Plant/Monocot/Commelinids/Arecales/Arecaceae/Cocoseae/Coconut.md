@@ -10,7 +10,7 @@ has_use:
   - "[[_Standards/WikiData/WD~wood,287]]"
   - "[[_Standards/WikiData/WD~fruit,1364]]"
   - "[[_Standards/WikiData/WD~food,2095]]"
-  - "[[_Standards/WikiData/WD~fiber,161]]"
+  - "[[../../../../../../../../../../../../WikiData/WD~fiber,161]]"
 this_taxon_is_source_of:
   - "[[_Standards/WikiData/WD~copra,193726]]"
   - "[[_Standards/WikiData/WD~coconut_oil,216235]]"
@@ -23,7 +23,7 @@ this_taxon_is_source_of:
   - "[[_Standards/WikiData/WD~coconut_shell,16137729]]"
   - "[[_Standards/WikiData/WD~coconut_leaf,107564994]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"

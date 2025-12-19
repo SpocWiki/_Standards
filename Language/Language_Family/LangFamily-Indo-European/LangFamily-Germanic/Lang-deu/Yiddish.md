@@ -25,7 +25,7 @@ part_of:
   - "[[_Standards/WikiData/WD~Jewish_culture,548478]]"
   - "[[_Standards/WikiData/WD~non_territorial_languages_of_France,62070054]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"

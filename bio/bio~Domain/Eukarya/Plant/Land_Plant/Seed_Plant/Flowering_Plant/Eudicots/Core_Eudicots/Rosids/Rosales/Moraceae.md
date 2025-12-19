@@ -11,7 +11,7 @@ described_by_source:
 start_time: -80000000-01-01T00:00:00Z
 has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Rosales,21895]]"
+parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Rosales,21895 1]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
 taxonomic_type: "[[_Standards/WikiData/WD~Morus,44789]]"
 ITIS_TSN: "19063"

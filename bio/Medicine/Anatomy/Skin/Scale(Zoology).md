@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q188488
 subclass_of: "[[_Standards/WikiData/WD~seta,126780]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 studied_by: "[[_Standards/WikiData/WD~lepidology,1820059]]"

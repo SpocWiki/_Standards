@@ -4,7 +4,7 @@ aliases:
   - Prunus
 has_id_wikidata: Q5673432
 taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-parent_taxon: "[[_Standards/WikiData/WD~Amygdaloideae,854082]]"
+parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Amygdaloideae,854082]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Taxonomy_Amygdaleae,8538555]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Prunus%20Maackii%20A.jpg
@@ -16,7 +16,7 @@ UMLS_CUI: C2818714
 
 # [[Amygdaleae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../_Standards/WikiData/WD~Amygdaleae,5673432|WD~Amygdaleae,5673432]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Amygdaleae,5673432|WD~Amygdaleae,5673432]] 
 
 ## #has_/text_of_/abstract 
 

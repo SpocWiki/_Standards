@@ -11,7 +11,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~international_organization,484652]]"
   - "[[_Standards/WikiData/WD~federal_system,22676603]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 instance_of: "[[_Standards/WikiData/WD~form_of_government,1307214]]"

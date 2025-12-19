@@ -43,7 +43,7 @@ taxon_common_name:
   - Violašattut
 taxonomic_type: "[[_Standards/WikiData/WD~Viola,146095]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_51,112869445]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
@@ -61,7 +61,7 @@ taxon_name: Violaceae
 
 # [[Violaceae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../_Standards/WikiData/WD~Violaceae,156060|WD~Violaceae,156060]]  
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Violaceae,156060|WD~Violaceae,156060]]  
 
 ## #has_/text_of_/abstract 
 

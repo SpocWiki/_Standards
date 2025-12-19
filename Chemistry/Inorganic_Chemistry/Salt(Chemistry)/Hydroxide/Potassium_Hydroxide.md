@@ -10,7 +10,7 @@ has_use:
 has_characteristic:
   - "[[_Standards/WikiData/WD~hygroscopy,216678]]"
   - "[[_Standards/WikiData/WD~deliquescence,3705026]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 subclass_of: "[[_Standards/WikiData/WD~alkali_hydroxide,3143826]]"
 laws_applied:
   - "[[_Standards/WikiData/WD~Title_21_of_the_Code_of_Federal_Regulations,7810053]]"

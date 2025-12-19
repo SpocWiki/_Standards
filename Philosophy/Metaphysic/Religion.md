@@ -33,7 +33,7 @@ different_from:
 has_list: "[[_Standards/WikiData/WD~list_of_religions_and_spiritual_traditions,329442]]"
 opposite_of: "[[_Standards/WikiData/WD~antireligion,565005]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"

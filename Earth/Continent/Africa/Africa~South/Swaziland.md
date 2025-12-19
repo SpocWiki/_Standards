@@ -13,75 +13,75 @@ aliases:
   - Eswatini
   - Swaziland
 capital:
-- '[[_Standards/WikiData/WD~Lobamba,101418]]'
-- '[[_Standards/WikiData/WD~Mbabane,3904]]'
+  - "[[_Standards/WikiData/WD~Lobamba,101418]]"
+  - "[[_Standards/WikiData/WD~Mbabane,3904]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Eswatini,102993]]"
 instance_of:
-- "[[_Standards/WikiData/WD~landlocked_country,123480]]"
-- '[[_Standards/WikiData/WD~kingdom,417175]]'
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+  - "[[_Standards/WikiData/WD~kingdom,417175]]"
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 member_of:
-- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-- '[[_Standards/WikiData/WD~FIFA,253414]]'
-- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-- "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-- "[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]"
-- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Southern_African_Customs_Union,1344350]]"
-- "[[_Standards/WikiData/WD~Association_of_National_Olympic_Committees,2867530]]"
-- "[[_Standards/WikiData/WD~United_Nations,1065]]"
-- "[[_Standards/WikiData/WD~African_Union,7159]]"
-- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-- "[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~FIFA,253414]]"
+  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Southern_African_Customs_Union,1344350]]"
+  - "[[_Standards/WikiData/WD~Association_of_National_Olympic_Committees,2867530]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~African_Union,7159]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]"
 basic_form_of_government: "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Eswatini,269818]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Manzini_Region,305395]]"
-- "[[_Standards/WikiData/WD~Hhohho_-_Mbabane_Region,735570]]"
-- "[[_Standards/WikiData/WD~Shiselweni_Region,845934]]"
-- "[[_Standards/WikiData/WD~Lubombo_Region,856657]]"
+  - "[[_Standards/WikiData/WD~Manzini_Region,305395]]"
+  - "[[_Standards/WikiData/WD~Hhohho_-_Mbabane_Region,735570]]"
+  - "[[_Standards/WikiData/WD~Shiselweni_Region,845934]]"
+  - "[[_Standards/WikiData/WD~Lubombo_Region,856657]]"
 anthem: "[[_Standards/WikiData/WD~Nkulunkulu_Mnikati_wetibusiso_temaSwati,580374]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Eswatini,585509]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-different_from: '[[_Standards/WikiData/WD~Wituland,705598]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+different_from: "[[_Standards/WikiData/WD~Wituland,705598]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~South_African_Standard_Time,770321]]"
-- '[[_Standards/WikiData/WD~Africa_Mbabane,4689512]]'
-- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+  - "[[_Standards/WikiData/WD~South_African_Standard_Time,770321]]"
+  - "[[_Standards/WikiData/WD~Africa_Mbabane,4689512]]"
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
 diocese: "[[_Standards/WikiData/WD~Roman_Catholic_Diocese_of_Manzini,871940]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Eswatini,902521]]"
-highest_point: '[[_Standards/WikiData/WD~Emlembe,1337951]]'
+highest_point: "[[_Standards/WikiData/WD~Emlembe,1337951]]"
 electrical_plug_type: "[[_Standards/WikiData/WD~BS_546,1383497]]"
 lowest_point: "[[_Standards/WikiData/WD~Maputo_River,2452912]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Eswatini,2593103]]"
 culture: "[[_Standards/WikiData/WD~culture_of_Eswatini,2662679]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Eswatini,2750197]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~999,3086706]]'
-- '[[_Standards/WikiData/WD~933,25648911]]'
-- '[[_Standards/WikiData/WD~977,25648912]]'
+  - "[[_Standards/WikiData/WD~999,3086706]]"
+  - "[[_Standards/WikiData/WD~933,25648911]]"
+  - "[[_Standards/WikiData/WD~977,25648912]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Eswatini,7112467]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Eswatini,7138942]]"
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q8071808,8071808]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Eswatini,10274964]]'
-coordinates_of_easternmost_point: "Point(32.13488638 -26.52680065)"
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q8071808,8071808]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Eswatini,10274964]]"
+coordinates_of_easternmost_point: Point(32.13488638 -26.52680065)
+driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
 follows: "[[_Standards/WikiData/WD~British_Swaziland,21815946]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~King_of_Eswatini,29570674]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Eswatini,30101440]]"
@@ -89,16 +89,16 @@ Commons_category: Eswatini
 Commons_gallery: Eswatini
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 head_of_government: "[[_Standards/WikiData/WD~Russell_Dlamini,123342092]]"
-geoshape: "http://commons.wikimedia.org/data/main/Data:Eswatini.map"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Eswatini%20banner%20Traditional%20houses.jpg"
-detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Eswatini%2C%20administrative%20divisions%20-%20de%20-%20colored.svg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Eswatini%2C%20administrative%20divisions%20-%20de%20-%20colored.svg"
+geoshape: http://commons.wikimedia.org/data/main/Data:Eswatini.map
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Eswatini%20banner%20Traditional%20houses.jpg
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Eswatini%2C%20administrative%20divisions%20-%20de%20-%20colored.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Eswatini%2C%20administrative%20divisions%20-%20de%20-%20colored.svg
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A5%D8%B3%D9%88%D8%A7%D8%AA%D9%8A%D9%86%D9%8A.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-eSwatini.wav"
-official_website: "http://www.gov.sz/"
-country_calling_code: +268
-Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Swaziland\"]"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A5%D8%B3%D9%88%D8%A7%D8%AA%D9%8A%D9%86%D9%8A.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-eSwatini.wav
+official_website: http://www.gov.sz/
+country_calling_code: 268
+Wolfram_Language_entity_code: Entity["HistoricalCountry", "Swaziland"]
 subreddit:
   - eswatini
   - Swaziland
@@ -136,25 +136,25 @@ demonym:
   - Swazi
   - suazi
 motto_text:
-- "Ние сме укреплението"
-- "Som la fortalesa"
-- "Wir sind die Festung"
-- "A royal experience"
-- "We are a fortress"
-- "Մենք ամրոց ենք"
-- Siyinqaba
-- "'Da Ni'n Gaer!"
+  - Ние сме укреплението
+  - Som la fortalesa
+  - Wir sind die Festung
+  - A royal experience
+  - We are a fortress
+  - Մենք ամրոց ենք
+  - Siyinqaba
+  - "'Da Ni'n Gaer!"
 official_name:
-- "Kingdom of Eswatini"
-- "Umbuso weSwatini"
+  - Kingdom of Eswatini
+  - Umbuso weSwatini
 short_name:
   - Эсватини
   - eSwatini
-  - "\U0001F1F8\U0001F1FF"
-native_label: "Umbuso weSwatini"
+  - 🇸🇿
+native_label: Umbuso weSwatini
 UMLS_CUI: C0038983
 Libris_URI: 1zcffl3k3d9llt7
-ISNI: 0000000121107657
+ISNI: 121107657
 MeSH_tree_code: Z01.058.290.175.300
 female_population:
   - 594739
@@ -167,52 +167,52 @@ male_population:
   - 585916
   - 591831
 locator_map_image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LocationEswatini.svg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Location%20Eswatini.png"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationEswatini.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Location%20Eswatini.png
 rural_population:
   - 889128
   - 895279
   - 901726
   - 906348
 population: 1230506
-inception: "1968-09-06"
-has_time_started: "1968-09-06"
+inception: 1968-09-06
+has_time_started: 1968-09-06
 OmegaWiki_Defined_Meaning: 153704
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eswatini.svg"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eswatini.svg
 nominal_GDP:
   - 4854167638
   - 4748702401
 PM20_geo_code: C97
-Unicode_character: 🇸🇿 
+Unicode_character: 🇸🇿
 ISO_3166_1_alpha_3_code: SWZ
 ITU_letter_code: SWZ
 IOC_country_code: SWZ
-coordinates_of_northernmost_point: "Point(31.42 -25.72)"
-coordinates_of_southernmost_point: "Point(31.97727442 -27.31729382)"
+coordinates_of_northernmost_point: Point(31.42 -25.72)
+coordinates_of_southernmost_point: Point(31.97727442 -27.31729382)
 Dewey_Decimal_Classification: 2--6887
-coordinates_of_westernmost_point: "Point(30.79066247 -26.71501235)"
+coordinates_of_westernmost_point: Point(30.79066247 -26.71501235)
 U_S_National_Archives_Identifier: 10044270
-coordinate_location: "Point(31.433333 -26.483333)"
+coordinate_location: Point(31.433333 -26.483333)
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~South_Africa,258]]"
-- "[[_Standards/WikiData/WD~North_Korea,423]]"
-- "[[_Standards/WikiData/WD~European_Union,458]]"
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United_States,30]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
+  - "[[_Standards/WikiData/WD~South_Africa,258]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
 shares_border_with:
-- "[[_Standards/WikiData/WD~South_Africa,258]]"
-- '[[_Standards/WikiData/WD~Mozambique,1029]]'
-country: '[[_Standards/WikiData/WD~Eswatini,1050]]'
+  - "[[_Standards/WikiData/WD~South_Africa,258]]"
+  - "[[_Standards/WikiData/WD~Mozambique,1029]]"
+country: "[[_Standards/WikiData/WD~Eswatini,1050]]"
 language_used:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Swazi,34014]]'
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Swazi,34014]]"
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Swazi,34014]]'
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Swazi,34014]]"
 part_of: "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
 suicide_rate:
   - 12
   - 11.6
@@ -227,7 +227,7 @@ BTI_Governance_Index:
   - 3.06
   - 3.12
 Democracy_Index: 3.08
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.sz,43149]]'
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.sz,43149]]"
 BTI_Status_Index:
   - 3.51
   - 3.56
@@ -259,7 +259,7 @@ M49_code: 748
 number_of_out_of_school_children: 70951
 FIPS_10_4_countries_and_regions_: WZ
 IAB_code: 1417
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Eswatini.svg"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Eswatini.svg
 urban_population:
   - 280485
   - 285376

@@ -4,7 +4,7 @@ has_id_wikidata: Q177941
 has_part_s_:
   - "[[_Standards/WikiData/WD~nylon_6,109454]]"
   - "[[_Standards/WikiData/WD~nylon_66,7071155]]"
-subclass_of: "[[_Standards/WikiData/WD~polyamide,145273]]"
+subclass_of: "[[../../../../WikiData/WD~polyamide,145273]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
   - "[[_Standards/WikiData/WD~Fairchild's_Dictionary_of_Textiles,28888841]]"

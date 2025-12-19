@@ -6,7 +6,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Domino,227425]]"
   - "[[_Standards/WikiData/WD~Chinese_dominoes,5254574]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 instance_of: "[[_Standards/WikiData/WD~tile_based_game,1272194]]"

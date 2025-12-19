@@ -8,7 +8,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~whole_muscle_cut,81621279]]"
   - "[[_Standards/WikiData/WD~cold_cut,10426]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 different_from:
   - "[[_Standards/WikiData/WD~Ham,695354]]"

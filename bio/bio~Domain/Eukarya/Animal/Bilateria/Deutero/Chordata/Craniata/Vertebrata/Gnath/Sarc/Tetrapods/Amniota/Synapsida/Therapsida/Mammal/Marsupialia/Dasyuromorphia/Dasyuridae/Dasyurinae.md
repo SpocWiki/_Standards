@@ -4,7 +4,7 @@ has_id_wikidata: Q902243
 taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
 topic_s_main_category: "[[_Standards/WikiData/WD~Q10045196,10045196]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Dasyuridae,23133]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyuridae,23133]]"
 ITIS_TSN: "709313"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SpottedQuoll%202005%20SeanMcClean.jpg
 taxon_name: Dasyurinae
@@ -12,7 +12,7 @@ taxon_name: Dasyurinae
 
 # [[Dasyurinae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Dasyurinae,902243|WD~Dasyurinae,902243]]  
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurinae,902243|WD~Dasyurinae,902243]]  
 
 ## #has_/text_of_/abstract 
 

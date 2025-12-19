@@ -63,7 +63,7 @@ student_of: "[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]"
 doctoral_advisor: "[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Dictionary_of_Swedish_National_Biography,379406]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"

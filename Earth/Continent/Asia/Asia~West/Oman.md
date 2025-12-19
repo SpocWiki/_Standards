@@ -49,7 +49,7 @@ contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Al_Batinah_North_Governorate,4703564]]"
   - "[[_Standards/WikiData/WD~Al_Batinah_South_Governorate,4703565]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"

@@ -11,7 +11,7 @@ Commons_category: Chemical processes
 
 # [[Chemical_Process]] 
 
-#is_/same_as :: [[WD~chemical_process,2281940]] 
+#is_/same_as :: [[../../WikiData/WD~chemical_process,2281940]] 
 
 ## #has_/text_of_/abstract 
 

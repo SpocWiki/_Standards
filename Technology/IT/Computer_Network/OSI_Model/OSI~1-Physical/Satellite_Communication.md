@@ -20,7 +20,7 @@ MeSH_tree_code: L01.462.500.847.550
 # [[Satellite_Communication]] 
 
 #has_/creator :: [[../../../../Spaceflight/Communications_Satellite|Communications_Satellite]] 
-#is_/same_as :: [[WD~Satellite_communication,2225985]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Satellite_communication,2225985]] 
 
 ## #has_/text_of_/abstract 
 

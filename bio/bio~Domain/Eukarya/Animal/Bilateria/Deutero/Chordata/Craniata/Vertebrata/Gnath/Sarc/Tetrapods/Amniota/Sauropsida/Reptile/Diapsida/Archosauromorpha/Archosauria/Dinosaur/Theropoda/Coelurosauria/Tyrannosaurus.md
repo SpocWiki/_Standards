@@ -5,7 +5,7 @@ main_food_source: "[[_Standards/WikiData/WD~carnivore,81875]]"
 location_of_discovery:
   - "[[_Standards/WikiData/WD~Hell_Creek_Formation,917642]]"
   - "[[_Standards/WikiData/WD~Canada,16]]"
-parent_taxon: "[[_Standards/WikiData/WD~Tyrannosaurini,21447922]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurini,21447922]]"
 instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
 end_time: -66000000-01-01T00:00:00Z
 length: 12

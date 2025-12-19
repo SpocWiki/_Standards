@@ -3,7 +3,9 @@ aliases:
   - Southern Ocean
   - Antarctic Ocean
 has_id_wikidata: Q7354
-location: [ -65.0, 90.0]
+location:
+  - -65
+  - 90
 coordinate_location: Point(90.0 -65.0)
 Colon_Classification: SG--983
 Commons_category: Southern Ocean
@@ -44,7 +46,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~St._Nicholas_Cove,65072782]]"
 different_from: "[[_Standards/WikiData/WD~South_Seas,351668]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"

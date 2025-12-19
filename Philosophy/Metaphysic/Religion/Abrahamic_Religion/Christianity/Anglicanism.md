@@ -6,7 +6,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~Evangelical_Anglicanism,28455161]]"
   - "[[_Standards/WikiData/WD~Quanglican,119521889]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"

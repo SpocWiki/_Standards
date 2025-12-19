@@ -10,7 +10,7 @@ uses:
   - "[[_Standards/WikiData/WD~railway,22667]]"
 instance_of:
   - "[[_Standards/WikiData/WD~mode_of_transport,334166]]"
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../WikiData/WD~economic_activity,8187769]]"
 different_from:
   - "[[_Standards/WikiData/WD~rail_and_rope_guided_transport,350783]]"
   - "[[_Standards/WikiData/WD~railway,22667]]"
@@ -20,7 +20,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~means_of_transport,106839123]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_rail_transport,477862]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"

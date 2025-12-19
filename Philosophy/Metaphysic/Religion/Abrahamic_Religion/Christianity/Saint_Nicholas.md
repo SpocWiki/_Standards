@@ -28,7 +28,7 @@ domain_of_saint_or_deity:
   - "[[_Standards/WikiData/WD~sailor,45199]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Golden_Legend,129493]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopedia_Americana,753754]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

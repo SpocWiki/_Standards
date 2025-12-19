@@ -38,7 +38,7 @@ has_edition_or_translation:
 topic_has_template: "[[_Standards/WikiData/WD~Q22798906,22798906]]"
 instance_of:
   - "[[_Standards/WikiData/WD~written_work,47461344]]"
-  - "[[_Standards/WikiData/WD~reference_work,13136]]"
+  - "[[../../../WikiData/WD~reference_work,13136]]"
 inception: -0300-01-01T00:00:00Z
 main_subject: "[[_Standards/WikiData/WD~mathematics,395]]"
 author: "[[_Standards/WikiData/WD~Euclid,8747]]"

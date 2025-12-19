@@ -54,7 +54,7 @@ employer:
   - "[[_Standards/WikiData/WD~University_of_Valencia,383568]]"
   - "[[_Standards/WikiData/WD~Universidad_Central,21705070]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Ensayo_de_un_catálogo_de_periodistas_españoles_del_siglo_XIX_(1903_1904),18908018]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Hombres_y_documentos_de_la_filosofía_española_volumen_6,21157905]]"

@@ -177,7 +177,7 @@ has_grammatical_gender:
   - "[[_Standards/WikiData/WD~masculine,499327]]"
   - "[[_Standards/WikiData/WD~feminine,1775415]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"

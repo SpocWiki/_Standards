@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q241588
 instance_of: "[[_Standards/WikiData/WD~social_class,187588]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 said_to_be_the_same_as:
   - "[[_Standards/WikiData/WD~Q15262194,15262194]]"

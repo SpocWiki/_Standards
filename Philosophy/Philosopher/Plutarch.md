@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Πλούταρχος 
+  - Πλούταρχος
   - Ploútarchos
-  - Lucius Mestrius Plutarchus 
+  - Lucius Mestrius Plutarchus
   - Λούκιος Μέστριος Πλούταρχος
 has_id_wikidata: Q41523
 position_held: "[[_Standards/WikiData/WD~ambassador,121998]]"
@@ -21,7 +21,7 @@ occupation:
 has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
 student_of: "[[_Standards/WikiData/WD~Ammonius_of_Athens,473381]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"

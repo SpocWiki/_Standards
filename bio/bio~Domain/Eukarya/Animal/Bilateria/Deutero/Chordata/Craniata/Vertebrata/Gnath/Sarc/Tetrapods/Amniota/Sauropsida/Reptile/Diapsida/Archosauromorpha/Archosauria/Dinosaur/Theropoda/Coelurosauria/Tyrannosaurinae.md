@@ -10,7 +10,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Tyranosaurus%20Rex%202
 
 # [[Tyrannosaurinae]] 
 
-#is_/same_as :: [[WD~Tyrannosaurinae,2073980]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurinae,2073980]] 
 
 ## #has_/text_of_/abstract 
 

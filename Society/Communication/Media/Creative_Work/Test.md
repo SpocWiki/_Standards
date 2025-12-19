@@ -8,7 +8,7 @@ different_from:
   - "[[_Standards/WikiData/WD~schoolwork,279050]]"
   - "[[_Standards/WikiData/WD~test,1003030]]"
   - "[[_Standards/WikiData/WD~exam,1355298]]"
-subclass_of: "[[_Standards/WikiData/WD~work,386724]]"
+subclass_of: "[[../../../../WikiData/WD~work,386724]]"
 described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~exam,1355298]]"
 has_use: "[[_Standards/WikiData/WD~educational_assessment,2585724]]"

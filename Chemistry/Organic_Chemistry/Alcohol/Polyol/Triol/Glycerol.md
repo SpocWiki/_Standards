@@ -8,7 +8,7 @@ found_in_taxon:
   - "[[_Standards/WikiData/WD~Spinacia_oleracea,81464]]"
   - "[[_Standards/WikiData/WD~house_mouse,83310]]"
   - "[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]"
-  - "[[_Standards/WikiData/WD~Brassica_oleracea,146212]]"
+  - "[[../../../../../WikiData/WD~Brassica_oleracea,146212]]"
   - "[[_Standards/WikiData/WD~Yersinia_pestis,153875]]"
   - "[[_Standards/WikiData/WD~Bryonia_alba,157980]]"
   - "[[_Standards/WikiData/WD~Prunus_avium,165137]]"
@@ -65,7 +65,7 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~sweetness,460453]]"
   - "[[_Standards/WikiData/WD~Class_IIIB_combustible_liquid,21009059]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"

@@ -16,7 +16,7 @@ official_religion:
   - "[[_Standards/WikiData/WD~Confucianism,9581]]"
   - "[[_Standards/WikiData/WD~Taoism,9598]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
 instance_of:
   - "[[_Standards/WikiData/WD~conquest_dynasty,1089515]]"

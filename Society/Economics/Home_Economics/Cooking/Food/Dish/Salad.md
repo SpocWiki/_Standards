@@ -11,7 +11,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~vegetable,11004]]"
 fabrication_method: "[[_Standards/WikiData/WD~mixing,379697]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 subclass_of: "[[_Standards/WikiData/WD~dish,746549]]"
 country_of_origin: "[[_Standards/WikiData/WD~internationality,1072012]]"

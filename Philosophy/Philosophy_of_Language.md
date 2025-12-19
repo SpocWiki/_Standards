@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q484761
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 different_from: "[[_Standards/WikiData/WD~linguistic_philosophy,4217244]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Philosophy_of_language,14448783]]"
 practiced_by: "[[_Standards/WikiData/WD~philosopher_of_language,18930236]]"

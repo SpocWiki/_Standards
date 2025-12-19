@@ -10,7 +10,7 @@ taxon_name: Atlantogenata
 
 # [[Atlantogenata]] 
 
-#is_/same_as :: [[WD~Atlantogenata,2718670]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Atlantogenata,2718670]] 
 
 ## #has_/text_of_/abstract 
 

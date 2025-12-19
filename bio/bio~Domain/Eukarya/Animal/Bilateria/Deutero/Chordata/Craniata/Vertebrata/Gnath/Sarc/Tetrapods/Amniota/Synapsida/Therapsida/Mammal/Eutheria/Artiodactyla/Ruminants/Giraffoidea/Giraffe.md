@@ -118,7 +118,7 @@ taxon_common_name:
   - Hirapa
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Vulnerable,278113]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
 different_from: "[[_Standards/WikiData/WD~Giraffe,4180503]]"

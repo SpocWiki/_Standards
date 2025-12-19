@@ -66,8 +66,8 @@ package_management_system:
   - "[[_Standards/WikiData/WD~Windows_Package_Manager,95225611]]"
 programmed_in:
   - "[[_Standards/WikiData/WD~assembly_language,165436]]"
-  - "[[_Standards/WikiData/WD~Q2407,2407]]"
-  - "[[_Standards/WikiData/WD~Q15777,15777]]"
+  - "[[../../../../WikiData/WD~Q2407,2407]]"
+  - "[[../../../../WikiData/WD~Q15777,15777]]"
 platform:
   - "[[_Standards/WikiData/WD~Q182933,182933]]"
   - "[[_Standards/WikiData/WD~IA_64,916994]]"

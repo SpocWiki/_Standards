@@ -10,7 +10,7 @@ UMLS_CUI: C1625732
 
 # [[BOP]] 
 
-#is_/same_as :: [[WD~BOP_clade,20658389]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~BOP_clade,20658389]] 
 
 ## #has_/text_of_/abstract 
 

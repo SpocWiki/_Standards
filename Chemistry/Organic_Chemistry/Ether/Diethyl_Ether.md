@@ -24,7 +24,7 @@ found_in_taxon:
   - "[[_Standards/WikiData/WD~Acca_sellowiana,499671]]"
   - "[[_Standards/WikiData/WD~Basella_alba,1130368]]"
   - "[[_Standards/WikiData/WD~Feijoa_sellowiana,59420273]]"
-  - "[[_Standards/WikiData/WD~Fragaria,745]]"
+  - "[[../../../WikiData/WD~Fragaria,745]]"
 subject_has_role: "[[_Standards/WikiData/WD~inhalational_anaesthetic,909194]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

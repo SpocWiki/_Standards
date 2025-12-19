@@ -14,7 +14,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Censuur,45119159]]"
   - "[[_Standards/WikiData/WD~restrictions_to_free_speech,105749581]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 part_of:
   - "[[_Standards/WikiData/WD~ban,621608]]"

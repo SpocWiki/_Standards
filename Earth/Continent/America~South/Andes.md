@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Andes 
-  - Andes Mountains 
+  - Andes
+  - Andes Mountains
   - Andean Mountain Range
 area: 3300000
 BHCL_UUID: cab2207f-240e-43d5-bb3f-bc5a4ce221c6
@@ -17,7 +17,7 @@ country:
   - "[[_Standards/WikiData/WD~Ecuador,736]]"
   - "[[_Standards/WikiData/WD~Bolivia,750]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

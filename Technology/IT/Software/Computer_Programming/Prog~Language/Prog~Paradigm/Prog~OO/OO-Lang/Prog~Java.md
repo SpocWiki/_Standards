@@ -30,8 +30,8 @@ influenced_by:
   - "[[_Standards/WikiData/WD~Modula_3,1928222]]"
   - "[[_Standards/WikiData/WD~Simula_67,10371720]]"
   - "[[_Standards/WikiData/WD~Q2370,2370]]"
-  - "[[_Standards/WikiData/WD~Q2407,2407]]"
-  - "[[_Standards/WikiData/WD~Q15777,15777]]"
+  - "[[../../../../../../../../WikiData/WD~Q2407,2407]]"
+  - "[[../../../../../../../../WikiData/WD~Q15777,15777]]"
 used_by:
   - "[[_Standards/WikiData/WD~Java_virtual_machine,193321]]"
   - "[[_Standards/WikiData/WD~Java_Development_Kit,741303]]"

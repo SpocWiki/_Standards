@@ -28,7 +28,7 @@ depicted_by:
   - "[[_Standards/WikiData/WD~Portrait_of_Alexander_Pushkin,18688281]]"
   - "[[_Standards/WikiData/WD~Alexander_Pushkin_memorial,126364392]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"

@@ -43,7 +43,7 @@ coat_of_arms: "[[_Standards/WikiData/WD~Seal_of_Palau,478816]]"
 capital: "[[_Standards/WikiData/WD~Ngerulmud,515229]]"
 emergency_phone_number: "[[_Standards/WikiData/WD~911,533806]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"

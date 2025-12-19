@@ -14,7 +14,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~sociology,21201]]"
   - "[[_Standards/WikiData/WD~anthropology,23404]]"
   - "[[_Standards/WikiData/WD~political_science,36442]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 instance_of:
   - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
   - "[[_Standards/WikiData/WD~field_of_study,2267705]]"

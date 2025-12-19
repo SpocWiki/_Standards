@@ -23,7 +23,7 @@ defining_formula:
     <math xmlns="http://www.w3.org/1998/Math/MathML"><merror><strong class="error texerror">Failed to parse (SVG (MathML can be enabled via browser plugin): Invalid response (&quot;Math extension cannot connect to Restbase.&quot;) from server &quot;http://localhost:6011/www.wikidata.org/v1/&quot;:): {\displaystyle \boldsymbol{F} = \frac{\mathrm{d} \boldsymbol{p}}{\mathrm{d} t}}</strong>
     </merror></math>
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"

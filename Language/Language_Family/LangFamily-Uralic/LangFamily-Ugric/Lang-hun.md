@@ -54,7 +54,7 @@ writing_system:
   - "[[_Standards/WikiData/WD~Latin_script,8229]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Hungarian_language,469384]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 has_grammatical_mood:

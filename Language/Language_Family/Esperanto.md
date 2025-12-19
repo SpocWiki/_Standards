@@ -38,7 +38,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~planned_language,1790577]]"
   - "[[_Standards/WikiData/WD~constructed_language,33215]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Lexikon_der_Anarchie,1822290]]"
   - "[[_Standards/WikiData/WD~Encyclopedia_of_Esperanto,2564157]]"

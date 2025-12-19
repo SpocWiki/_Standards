@@ -10,13 +10,13 @@ taxon_common_name:
   - strawberry
   - Erdbeere
   - Aardbei
-parent_taxon: "[[_Standards/WikiData/WD~Rosoideae,134655]]"
+parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Rosoideae,134655]]"
 taxonomic_type: "[[_Standards/WikiData/WD~Fragaria_vesca,146684]]"
 has_fruit_type:
   - "[[_Standards/WikiData/WD~aggregate_fruit,160600]]"
   - "[[_Standards/WikiData/WD~achene,14714]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -59,7 +59,7 @@ NBN_System_Key: NHMSYS0000458877
 
 # [[Fragaria]] 
 
-#is_/same_as :: [[WD~Fragaria,745]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Fragaria,745]] 
 
 ## #has_/text_of_/abstract 
 

@@ -28,7 +28,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/GRAF
 
 # [[Graphics]] 
 
-#is_/same_as :: [[../../../../../_Standards/WikiData/WD~graphics,1027879|WD~graphics,1027879]] 
+#is_/same_as :: [[../../../../../WikiData/WD~graphics,1027879|WD~graphics,1027879]] 
 
 ## #has_/text_of_/abstract 
 

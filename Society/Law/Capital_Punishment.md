@@ -1,43 +1,43 @@
 ---
 aliases:
-- "Capital punishment"
-Commons_category: "Death penalty"
+  - Capital punishment
+Commons_category: Death penalty
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]'
-- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]"
+  - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
+  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 Dewey_Decimal_Classification: 364.66
-distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Capital%20punishment%20in%20the%20world%202024.svg"
-has_effect: '[[_Standards/WikiData/WD~execution,3966286]]'
+distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Capital%20punishment%20in%20the%20world%202024.svg
+has_effect: "[[_Standards/WikiData/WD~execution,3966286]]"
 has_id_wikidata: Q8454
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/SQ%20Lethal%20Injection%20Room.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/ASC%20Leiden%20-%20F.%20van%20der%20Kraaij%20Collection%20-%20The%20Hanging%20of%20the%20Harper%20Seven%2C%20Liberia%20-%2016%20February%201979%20-%2001.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Beheadingchina2.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Electric%20Chair%20at%20Sing%20Sing-noborder.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Executions%20of%20Filipino%20revolutionaries.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Martin%20-%20The%20Stoning%20of%20Saint%20Stephen%20-%20B1977.14.4252%20-%20Yale%20Center%20for%20British%20Art.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A4ttvisa%20skipas.jpg"
-instance_of: '[[_Standards/WikiData/WD~manner_of_death,2438541]]'
+  - http://commons.wikimedia.org/wiki/Special:FilePath/SQ%20Lethal%20Injection%20Room.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/ASC%20Leiden%20-%20F.%20van%20der%20Kraaij%20Collection%20-%20The%20Hanging%20of%20the%20Harper%20Seven%2C%20Liberia%20-%2016%20February%201979%20-%2001.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Beheadingchina2.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Electric%20Chair%20at%20Sing%20Sing-noborder.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Executions%20of%20Filipino%20revolutionaries.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/John%20Martin%20-%20The%20Stoning%20of%20Saint%20Stephen%20-%20B1977.14.4252%20-%20Yale%20Center%20for%20British%20Art.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A4ttvisa%20skipas.jpg
+instance_of: "[[_Standards/WikiData/WD~manner_of_death,2438541]]"
 IPTC_NewsCode: mediatopic/20000135
 MeSH_tree_code: I01.880.604.160
 OmegaWiki_Defined_Meaning: 376982
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
-practiced_by: '[[_Standards/WikiData/WD~executioner,207651]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
+practiced_by: "[[_Standards/WikiData/WD~executioner,207651]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~homicide,149086]]'
-- '[[_Standards/WikiData/WD~punishment,186361]]'
-- '[[_Standards/WikiData/WD~unnatural_death,855919]]'
-- '[[_Standards/WikiData/WD~sentence,1763090]]'
-- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
+  - "[[_Standards/WikiData/WD~homicide,149086]]"
+  - "[[_Standards/WikiData/WD~punishment,186361]]"
+  - "[[_Standards/WikiData/WD~unnatural_death,855919]]"
+  - "[[_Standards/WikiData/WD~sentence,1763090]]"
+  - "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
 U_S_National_Archives_Identifier: 10638012
 ---
 

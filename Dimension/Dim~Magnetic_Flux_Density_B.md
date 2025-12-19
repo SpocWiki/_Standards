@@ -36,7 +36,7 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 # [[Dim~Magnetic_Flux_Density_B]] 
 
 #is_/similar_to :: [[Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H]]  
-#is_/same_as :: [[WD~magnetic_flux_density,30204]] 
+#is_/same_as :: [[../WikiData/WD~magnetic_flux_density,30204]] 
 
 [[Dim~Magnetic_Flux_Density_B|B]] = μ · [[Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H|H]]
 

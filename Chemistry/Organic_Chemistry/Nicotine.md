@@ -6,7 +6,7 @@ found_in_taxon:
   - "[[_Standards/WikiData/WD~Camellia_sinensis,101815]]"
   - "[[_Standards/WikiData/WD~Equisetum_arvense,107592]]"
   - "[[_Standards/WikiData/WD~Duboisia_myoporoides,145166]]"
-  - "[[_Standards/WikiData/WD~Brassica_oleracea,146212]]"
+  - "[[../../WikiData/WD~Brassica_oleracea,146212]]"
   - "[[_Standards/WikiData/WD~Areca_catechu,156969]]"
   - "[[_Standards/WikiData/WD~Erythroxylum_coca,158018]]"
   - "[[_Standards/WikiData/WD~Asclepias_syriaca,158295]]"
@@ -104,7 +104,7 @@ has_use:
   - "[[_Standards/WikiData/WD~medication,12140]]"
 named_after: "[[_Standards/WikiData/WD~Jean_Nicot,318368]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

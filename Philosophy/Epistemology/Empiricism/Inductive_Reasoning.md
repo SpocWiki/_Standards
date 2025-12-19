@@ -5,7 +5,7 @@ has_characteristic: "[[_Standards/WikiData/WD~generalization,170084]]"
 different_from:
   - "[[_Standards/WikiData/WD~mathematical_induction,178377]]"
   - "[[_Standards/WikiData/WD~Abduction,226590]]"
-  - "[[_Standards/WikiData/WD~magnetic_flux_density,30204]]"
+  - "[[../../../WikiData/WD~magnetic_flux_density,30204]]"
 opposite_of: "[[_Standards/WikiData/WD~deductive_reasoning,484284]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"

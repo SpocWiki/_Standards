@@ -2,7 +2,9 @@
 aliases:
 has_id_wikidata: Q131792
 mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Delta_Amacuro,201137]]"
-location: [ 5.318, -61.6]
+location:
+  - 5.318
+  - -61.6
 tributary:
   - "[[_Standards/WikiData/WD~Caroní_River,590533]]"
   - "[[_Standards/WikiData/WD~Meta_River,655251]]"
@@ -33,7 +35,7 @@ tributary:
   - "[[_Standards/WikiData/WD~Yagua_River,16040391]]"
   - "[[_Standards/WikiData/WD~Sipapo_River,16909323]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"

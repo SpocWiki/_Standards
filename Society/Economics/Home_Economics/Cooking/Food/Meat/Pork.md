@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q191768
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~red_meat,3243069]]"
   - "[[_Standards/WikiData/WD~mammal_meat,124748491]]"

@@ -13,7 +13,7 @@ place_of_birth: "[[_Standards/WikiData/WD~Horsens,190235]]"
 place_of_death: "[[_Standards/WikiData/WD~Bering_Island,193962]]"
 military_branch: "[[_Standards/WikiData/WD~Imperial_Russian_Navy,583941]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Great_Norwegian_Encyclopedia,746368]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"

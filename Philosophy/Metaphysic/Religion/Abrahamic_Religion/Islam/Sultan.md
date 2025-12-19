@@ -10,7 +10,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Sultan,358262]]"
   - "[[_Standards/WikiData/WD~Soldán,33017795]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~History_of_Song,1147260]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"

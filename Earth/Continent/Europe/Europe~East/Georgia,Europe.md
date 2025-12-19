@@ -204,7 +204,7 @@ history_of_topic: "[[_Standards/WikiData/WD~History_of_Georgia,238246]]"
 head_of_state: "[[_Standards/WikiData/WD~Salome_Zourabichvili,272416]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Georgia,282182]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"

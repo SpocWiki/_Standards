@@ -10,7 +10,7 @@ religion_or_worldview:
   - "[[_Standards/WikiData/WD~animism,43004]]"
 part_of: "[[_Standards/WikiData/WD~Eskimo,131242]]"
 different_from: "[[_Standards/WikiData/WD~Innu_people,497568]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~circumpolar_peoples,3987120]]"
   - "[[_Standards/WikiData/WD~indigenous_peoples_of_Siberia,11038987]]"

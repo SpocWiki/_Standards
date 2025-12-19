@@ -5,7 +5,7 @@ aliases:
 has_id_wikidata: Q34090
 ABS_ASCL_2011_code: 43
 Commons_category: Turkic languages
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 Dewey_Decimal_Classification: 494.3
 different_from:
   - "[[_Standards/WikiData/WD~Turki,1763658]]"

@@ -14,7 +14,7 @@ APA_Dictionary_of_Psychology_entry: group-dynamics
 
 # [[Group_Dynamics]] 
 
-#is_/same_as :: [[../../_Standards/WikiData/WD~group_dynamics,839578|WD~group_dynamics,839578]]  
+#is_/same_as :: [[../../WikiData/WD~group_dynamics,839578|WD~group_dynamics,839578]]  
 
 ## #has_/text_of_/abstract 
 

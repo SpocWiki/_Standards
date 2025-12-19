@@ -12,7 +12,7 @@ has_id_wikidata: Q10515
 named_after: "[[_Standards/WikiData/WD~peafowl,201251]]"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"

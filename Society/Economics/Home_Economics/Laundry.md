@@ -13,7 +13,7 @@ described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edi
 instance_of:
   - "[[_Standards/WikiData/WD~activity,1914636]]"
   - "[[_Standards/WikiData/WD~technique,2695280]]"
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../../WikiData/WD~economic_activity,8187769]]"
 different_from:
   - "[[_Standards/WikiData/WD~Wäsche,2596246]]"
   - "[[_Standards/WikiData/WD~Laundering,6498474]]"

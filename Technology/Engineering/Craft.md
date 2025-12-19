@@ -3,10 +3,10 @@ aliases:
   - Handwerk
 has_id_wikidata: Q2207288
 instance_of:
-  - "[[_Standards/WikiData/WD~work,268378]]"
+  - "[[../../WikiData/WD~work,268378]]"
   - "[[_Standards/WikiData/WD~economic_concept,29028649]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"

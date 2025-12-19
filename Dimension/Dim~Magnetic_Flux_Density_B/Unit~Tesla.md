@@ -6,7 +6,7 @@ has_id_wikidata: Q163343
 different_from: "[[_Standards/WikiData/WD~Tesla,765530]]"
 measured_physical_quantity:
   - "[[_Standards/WikiData/WD~magnetic_polarization,1884336]]"
-  - "[[_Standards/WikiData/WD~magnetic_flux_density,30204]]"
+  - "[[../../WikiData/WD~magnetic_flux_density,30204]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 instance_of:
   - "[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]"

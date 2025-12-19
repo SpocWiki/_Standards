@@ -8,7 +8,7 @@ different_from:
   - "[[_Standards/WikiData/WD~military_position,16631188]]"
   - "[[_Standards/WikiData/WD~police_rank,19476593]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 subclass_of: "[[_Standards/WikiData/WD~rank,4189293]]"
 topic_has_template:

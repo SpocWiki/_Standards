@@ -1,27 +1,27 @@
 ---
-class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~food,2095]]'
+class_of_object_s_of_occurrence: "[[_Standards/WikiData/WD~food,2095]]"
 Commons_category: Digestion
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~human_digestive_system,9649]]'
-exact_match: "http://purl.obolibrary.org/obo/GO_0007586"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+different_from: "[[_Standards/WikiData/WD~human_digestive_system,9649]]"
+exact_match: http://purl.obolibrary.org/obo/GO_0007586
 has_id_wikidata: Q11978
-has_part_s_: '[[_Standards/WikiData/WD~part_of_the_digestion_process,22290756]]'
+has_part_s_: "[[_Standards/WikiData/WD~part_of_the_digestion_process,22290756]]"
 Iconclass_notation: 31A622
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200316%20DigestiveSystem.png"
-instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200316%20DigestiveSystem.png
+instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
 Krugosvet_article: nauka_i_tehnika/biologiya/PISHCHEVARENIE.html
 Library_of_Congress_Classification: QP145-QP159
 MeSH_tree_code:
-- G07.203.650.250
-- G10.261.190
-native_label: "systema digestorium"
+  - G07.203.650.250
+  - G10.261.190
+native_label: systema digestorium
 OmegaWiki_Defined_Meaning: 924
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%AA%E0%A4%9A%E0%A4%A8%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE.wav"
-studied_in: '[[_Standards/WikiData/WD~digestive_physiology,130261998]]'
-subclass_of: '[[_Standards/WikiData/WD~multicellular_organismal_process,22299433]]'
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%AA%E0%A4%9A%E0%A4%A8%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE.wav
+studied_in: "[[_Standards/WikiData/WD~digestive_physiology,130261998]]"
+subclass_of: "[[_Standards/WikiData/WD~multicellular_organismal_process,22299433]]"
 ---
 
 # [[Digestion]] 

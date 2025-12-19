@@ -1,22 +1,22 @@
 ---
-class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~air,7391292]]'
+class_of_object_s_of_occurrence: "[[_Standards/WikiData/WD~air,7391292]]"
 Commons_category: Respiration
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 has_id_wikidata: Q9530
 has_part_s_:
-- '[[_Standards/WikiData/WD~inhalation,840343]]'
-- '[[_Standards/WikiData/WD~exhalation,2197000]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Diaphragmatic%20breathing.gif"
-instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+  - "[[_Standards/WikiData/WD~inhalation,840343]]"
+  - "[[_Standards/WikiData/WD~exhalation,2197000]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Diaphragmatic%20breathing.gif
+instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
 Krugosvet_article: nauka_i_tehnika/biologiya/DIHANIE.html
 MeSH_tree_code: G09.772.705
-part_of: '[[_Standards/WikiData/WD~respiration,472287]]'
-product_material_or_service_produced_or_provided: '[[_Standards/WikiData/WD~breath,13428325]]'
-subclass_of: '[[_Standards/WikiData/WD~gas_exchange,1146120]]'
+part_of: "[[_Standards/WikiData/WD~respiration,472287]]"
+product_material_or_service_produced_or_provided: "[[_Standards/WikiData/WD~breath,13428325]]"
+subclass_of: "[[_Standards/WikiData/WD~gas_exchange,1146120]]"
 UMLS_CUI: C0035203
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/So%20wichtig%20ist%20tiefes%20Atmen.webm"
+video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20wichtig%20ist%20tiefes%20Atmen.webm
 ---
 
 ## #has_/text_of_/abstract 

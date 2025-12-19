@@ -23,7 +23,7 @@ taxon_common_name:
   - Asian buffalo
   - Wild Water Buffalo
   - Kerbau
-parent_taxon: "[[_Standards/WikiData/WD~Bubalus,83521]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Bubalus,83521]]"
 subclass_of: "[[_Standards/WikiData/WD~cattle,4767951]]"
 this_taxon_is_source_of:
   - "[[_Standards/WikiData/WD~water_buffalo_milk,7224064]]"

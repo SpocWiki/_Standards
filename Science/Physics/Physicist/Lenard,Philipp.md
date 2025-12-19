@@ -44,7 +44,7 @@ award_received:
   - "[[_Standards/WikiData/WD~honorary_doctor_of_Comenius_University,88466601]]"
   - "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Heidelberg_Scholar_Lexicon_1803_1932,48711337]]"
   - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"

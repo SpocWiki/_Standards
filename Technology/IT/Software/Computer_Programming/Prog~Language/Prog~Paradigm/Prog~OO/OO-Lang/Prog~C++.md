@@ -41,7 +41,7 @@ influenced_by:
   - "[[_Standards/WikiData/WD~CLU,775159]]"
   - "[[_Standards/WikiData/WD~ML,860654]]"
   - "[[_Standards/WikiData/WD~ALGOL_68,2166735]]"
-  - "[[_Standards/WikiData/WD~Q15777,15777]]"
+  - "[[../../../../../../../../WikiData/WD~Q15777,15777]]"
 standards_body:
   - "[[_Standards/WikiData/WD~International_Electrotechnical_Commission,193858]]"
   - "[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]"

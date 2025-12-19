@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q104680
 next_higher_rank:
   - "[[_Standards/WikiData/WD~brigadier_general,152956]]"
@@ -10,7 +10,7 @@ next_lower_rank:
   - "[[_Standards/WikiData/WD~lieutenant_colonel,493898]]"
   - "[[_Standards/WikiData/WD~podpolkovnik,13099720]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 subclass_of: "[[_Standards/WikiData/WD~field_officer,1053745]]"

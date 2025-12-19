@@ -5,8 +5,8 @@ aliases:
   - Ελληνικά
   - Elliniká
   - Ἑλληνική
-  - Hellēnikḗ 
-  - Griechisch 
+  - Hellēnikḗ
+  - Griechisch
 ABS_ASCL_2011_code:
   - 22
   - 2201
@@ -36,7 +36,7 @@ country:
   - "[[_Standards/WikiData/WD~Cyprus,229]]"
   - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Dictionary_of_Biblical_Criticism_and_Interpretation_(2007_ed.),21065550]]"
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"

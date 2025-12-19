@@ -24,7 +24,7 @@ has_works_in_the_collection:
 country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Ireland,215530]]"
 member_of_political_party: "[[_Standards/WikiData/WD~Tories,499956]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Lives_of_the_Most_Eminent_English_Poets,4015014]]"

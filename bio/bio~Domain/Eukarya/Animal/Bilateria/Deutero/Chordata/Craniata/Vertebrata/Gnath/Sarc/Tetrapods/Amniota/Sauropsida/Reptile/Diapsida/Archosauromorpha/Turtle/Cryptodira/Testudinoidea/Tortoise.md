@@ -6,7 +6,7 @@ aliases:
   - Schildkröte
 has_id_wikidata: Q46360
 described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-parent_taxon: "[[_Standards/WikiData/WD~Testudinoidea,1946537]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Testudinoidea,1946537]]"
 CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
 homonymous_taxon: "[[_Standards/WikiData/WD~Testudinidae,119788795]]"
 code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"

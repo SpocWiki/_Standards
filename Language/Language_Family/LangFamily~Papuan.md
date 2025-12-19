@@ -28,7 +28,7 @@ GOST_7_75_97_code: паа 532
 
 # [[LangFamily~Papuan]] 
 
-#is_/same_as :: [[../../_Standards/WikiData/WD~Papuan,236425|WD~Papuan,236425]]  
+#is_/same_as :: [[../../WikiData/WD~Papuan,236425|WD~Papuan,236425]]  
 
 ## #has_/text_of_/abstract 
 

@@ -13,7 +13,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 practiced_by: "[[_Standards/WikiData/WD~farmworker,5060555]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../../../WikiData/WD~economic_activity,8187769]]"
   - "[[_Standards/WikiData/WD~agronomic_practice,104255513]]"
 part_of: "[[_Standards/WikiData/WD~agricultural_production,56299222]]"
 OmegaWiki_Defined_Meaning: "1722"

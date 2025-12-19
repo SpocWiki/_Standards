@@ -8,7 +8,7 @@ opposite_of:
   - "[[_Standards/WikiData/WD~antiaromatic_compound,25600821]]"
 manifestation_of: "[[_Standards/WikiData/WD~aromaticity,210390]]"
 has_characteristic: "[[_Standards/WikiData/WD~aromaticity,210390]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 different_from:
   - "[[_Standards/WikiData/WD~aroma_compound,2151963]]"
   - "[[_Standards/WikiData/WD~aromatic_ion,108266130]]"

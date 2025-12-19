@@ -11,7 +11,7 @@ movement:
   - "[[_Standards/WikiData/WD~Eleatics,214577]]"
 place_of_birth: "[[_Standards/WikiData/WD~Velia,272968]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"

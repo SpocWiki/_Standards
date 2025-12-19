@@ -20,7 +20,7 @@ this_taxon_is_source_of:
 different_from:
   - "[[_Standards/WikiData/WD~rose,102231]]"
   - "[[_Standards/WikiData/WD~Rosa,223878]]"
-parent_taxon: "[[_Standards/WikiData/WD~Rosoideae,134655]]"
+parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Rosoideae,134655]]"
 has_use:
   - "[[_Standards/WikiData/WD~gift,184303]]"
   - "[[_Standards/WikiData/WD~product,2424752]]"
@@ -43,7 +43,7 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biolog
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q105496878,105496878]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-nomenclatural_type_of: "[[_Standards/WikiData/WD~Rosaceae,46299]]"
+nomenclatural_type_of: "[[../../../../../../../../../../../../../WikiData/WD~Rosaceae,46299 1]]"
 ITIS_TSN: "24807"
 Commons_category: Rosa
 taxon_name: Rosa

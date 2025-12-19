@@ -65,7 +65,7 @@ anthem: "[[_Standards/WikiData/WD~Hymne_monégasque,336321]]"
 patron_saint: "[[_Standards/WikiData/WD~Devota,469978]]"
 executive_body: "[[_Standards/WikiData/WD~Council_of_Government,593887]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

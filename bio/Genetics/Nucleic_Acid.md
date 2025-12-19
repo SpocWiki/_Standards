@@ -6,7 +6,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~polynucleotide,80756]]"
   - "[[_Standards/WikiData/WD~macromolecule,178593]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Nucleic_acids,5905543]]"
 part_of:

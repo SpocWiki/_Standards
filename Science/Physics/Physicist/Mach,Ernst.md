@@ -43,7 +43,7 @@ residence: "[[_Standards/WikiData/WD~Vaterstetten,542921]]"
 place_of_death: "[[_Standards/WikiData/WD~Vaterstetten,542921]]"
 award_received: "[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"

@@ -35,7 +35,7 @@ studied_by:
   - "[[_Standards/WikiData/WD~sociology_of_work,15783860]]"
   - "[[_Standards/WikiData/WD~labour_economics,28161]]"
   - "[[_Standards/WikiData/WD~political_science,36442]]"
-subclass_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+subclass_of: "[[../../../WikiData/WD~economic_activity,8187769]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Labor,13107434]]"
 different_from: "[[_Standards/WikiData/WD~Praca,16787591]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Work,18691609]]"
@@ -61,7 +61,7 @@ IPTC_NewsCode: mediatopic/09000000
 
 # [[Work]] 
 
-#is_/same_as :: [[../../../_Standards/WikiData/WD~work,268378|WD~work,268378]]  
+#is_/same_as :: [[../../../WikiData/WD~work,268378|WD~work,268378]]  
 
 ## #has_/text_of_/abstract 
 

@@ -6,7 +6,7 @@ Colon_Classification: NA
 Commons_category: Architecture
 Commons_gallery: Architecture
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
@@ -61,7 +61,7 @@ part_of:
 PhilPapers_topic: architecture
 practiced_by: "[[_Standards/WikiData/WD~architect,42973]]"
 product_material_or_service_produced_or_provided:
-  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
+  - "[[../../../../WikiData/WD~architectural_element,391414]]"
   - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
   - "[[_Standards/WikiData/WD~architectural_ensemble,1497375]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B9%D9%85%D8%A7%D8%B1%D8%A9.wav

@@ -13,7 +13,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~separation_process,898987]]"
-  - "[[_Standards/WikiData/WD~chemical_process,2281940]]"
+  - "[[../../../WikiData/WD~chemical_process,2281940]]"
 locations: "[[_Standards/WikiData/WD~distillery,1251750]]"
 different_from: "[[_Standards/WikiData/WD~reduction,1971485]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Distillation,8087474]]"

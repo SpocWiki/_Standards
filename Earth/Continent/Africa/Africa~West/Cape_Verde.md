@@ -83,7 +83,7 @@ highest_point: "[[_Standards/WikiData/WD~Pico_do_Fogo,499108]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Cape_Verde,512094]]"
 culture: "[[_Standards/WikiData/WD~culture_of_Cape_Verde,598396]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 electrical_plug_type:

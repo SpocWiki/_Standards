@@ -1,12 +1,14 @@
 ---
 aliases:
 has_id_wikidata: Q169274
-location: [ 28.335555555, -66.175]
+location:
+  - 28.335555555
+  - -66.175
 coordinate_location: Point(-66.175 28.335555555)
 part_of: "[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
 named_after: "[[_Standards/WikiData/WD~Sargassum,865061]]"

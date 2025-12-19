@@ -79,7 +79,7 @@ ISIN: US00507V1098
 
 # [[Activision_Blizzard]] 
 
-#is_/same_as :: [[WD~Activision_Blizzard,344341]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Activision_Blizzard,344341]] 
 
 ## #has_/text_of_/abstract 
 

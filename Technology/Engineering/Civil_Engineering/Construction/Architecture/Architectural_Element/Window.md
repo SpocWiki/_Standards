@@ -8,7 +8,7 @@ part_of:
   - "[[_Standards/WikiData/WD~building,41176]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~building_material,206615]]"
-  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
+  - "[[../../../../../../WikiData/WD~architectural_element,391414]]"
   - "[[_Standards/WikiData/WD~bay,2879412]]"
   - "[[_Standards/WikiData/WD~separator,135899982]]"
 has_use:

@@ -17,7 +17,7 @@ sibling:
 mother: "[[_Standards/WikiData/WD~Sorghaghtani_Beki,271016]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~Tibetan_Buddhism,483889]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"
   - "[[_Standards/WikiData/WD~History_of_Yuan,1345223]]"

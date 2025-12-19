@@ -30,7 +30,7 @@ place_of_death: "[[_Standards/WikiData/WD~Kloster_Rupertsberg,557972]]"
 educated_at: "[[_Standards/WikiData/WD~Disibodenberg,565067]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Lexikon_deutschsprachiger_Epik_und_Dramatik_von_Autorinnen_1730_1900,18915568]]"
   - "[[_Standards/WikiData/WD~Concise_Dictionary_of_Women_Artists,28487969]]"

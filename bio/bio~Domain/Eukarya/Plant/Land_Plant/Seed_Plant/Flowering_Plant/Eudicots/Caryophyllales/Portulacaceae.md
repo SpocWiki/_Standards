@@ -1,10 +1,10 @@
 ---
 aliases:
 has_id_wikidata: Q521874
-taxonomic_type: "[[_Standards/WikiData/WD~Portulaca,159554]]"
+taxonomic_type: "[[../../../../../../../../../WikiData/WD~Portulaca,159554]]"
 described_by_source: "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_26,112869404]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Caryophyllales,21808]]"
+parent_taxon: "[[../../../../../../../../../WikiData/WD~Caryophyllales,21808]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
 ITIS_TSN: "20375"
 taxon_common_name:
@@ -26,7 +26,7 @@ NBN_System_Key: NBNSYS0000160784
 
 # [[Portulacaceae]] 
 
-#is_/same_as :: [[WD~Portulacaceae,521874]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Portulacaceae,521874]] 
 
 ## #has_/text_of_/abstract 
 

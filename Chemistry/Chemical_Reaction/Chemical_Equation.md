@@ -3,10 +3,10 @@ aliases:
   - chemical equation
   - chemical equations
   - chemische Gleichung
-  - chemische Gleichungen 
+  - chemische Gleichungen
 has_id_wikidata: Q182527
 has_part_s_: "[[_Standards/WikiData/WD~chemical_formula,83147]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~formula,976981]]"
   - "[[_Standards/WikiData/WD~equation,11345]]"

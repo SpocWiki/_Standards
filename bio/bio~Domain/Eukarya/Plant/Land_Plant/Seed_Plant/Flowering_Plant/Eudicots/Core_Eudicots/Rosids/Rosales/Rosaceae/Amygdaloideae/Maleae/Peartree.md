@@ -18,7 +18,7 @@ this_taxon_is_source_of:
   - "[[_Standards/WikiData/WD~pearwood,1964340]]"
   - "[[_Standards/WikiData/WD~pear,13099586]]"
   - "[[_Standards/WikiData/WD~Q136648015,136648015]]"
-parent_taxon: "[[_Standards/WikiData/WD~Maleae,2119847]]"
+parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Maleae,2119847]]"
 source_of_energy:
   - "[[_Standards/WikiData/WD~protein,21296145]]"
   - "[[_Standards/WikiData/WD~carbohydrate,11358]]"

@@ -1,44 +1,44 @@
 ---
 aliases:
-- Camelinae
-- Camel
-audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Cri%20du%20chameau.wav"
+  - Camelinae
+  - Camel
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Cri%20du%20chameau.wav
 Colon_Classification: KX446
 Commons_category: Camelus
 Commons_gallery: Camelus
-depicted_by: '[[_Standards/WikiData/WD~The_Magical_Procession,131627550]]'
+depicted_by: "[[_Standards/WikiData/WD~The_Magical_Procession,131627550]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~Q55443222,55443222]]'
+  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+different_from: "[[_Standards/WikiData/WD~Q55443222,55443222]]"
 EPPO_Code: 1CMELG
-exact_match: "https://ids.clld.org/parameters/3-780"
+exact_match: https://ids.clld.org/parameters/3-780
 has_id_wikidata: Q7375
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Chameau%20de%20bactriane.JPG"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-invasive_to: '[[_Standards/WikiData/WD~Australian_continent,3960]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Chameau%20de%20bactriane.JPG
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+invasive_to: "[[_Standards/WikiData/WD~Australian_continent,3960]]"
 ITIS_TSN: 624942
 Krugosvet_article: nauka_i_tehnika/biologiya/VERBLYUDI.html
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 MeSH_tree_code: B01.050.150.900.649.313.500.190.180
-natural_reservoir_of: '[[_Standards/WikiData/WD~Middle_East_respiratory_syndrome_coronavirus,4902157]]'
+natural_reservoir_of: "[[_Standards/WikiData/WD~Middle_East_respiratory_syndrome_coronavirus,4902157]]"
 NBN_System_Key: NHMSYS0020976786
 OmegaWiki_Defined_Meaning: 8069
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25691373,25691373]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AC%D9%85%D9%84.wav"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25691373,25691373]]"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AC%D9%85%D9%84.wav
 start_time: -3600000-01-01
-subclass_of: '[[_Standards/WikiData/WD~ungulate,1231177]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Camelus_bactrianus,132922]]'
-taxon_author_citation: "Linnaeus, 1758"
+subclass_of: "[[_Standards/WikiData/WD~ungulate,1231177]]"
+taxonomic_type: "[[_Standards/WikiData/WD~Camelus_bactrianus,132922]]"
+taxon_author_citation: Linnaeus, 1758
 taxon_name: Camelus
-taxon_range_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Camel%20world%20population.png"
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Camel%20world%20population.png
+taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
 title: Camelinae
 UNSPSC_Code: 10101517
 ---

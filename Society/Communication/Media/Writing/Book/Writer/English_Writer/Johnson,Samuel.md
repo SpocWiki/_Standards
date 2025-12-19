@@ -31,7 +31,7 @@ place_of_birth: "[[_Standards/WikiData/WD~Lichfield,207371]]"
 student: "[[_Standards/WikiData/WD~David_Garrick,222390]]"
 member_of_political_party: "[[_Standards/WikiData/WD~Tories,499956]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

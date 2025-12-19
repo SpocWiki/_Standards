@@ -8,26 +8,26 @@ tags:
 SpocWebEntityId: 26918
 isDeleted: false
 confidential: public
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 isReadOnly: false
-source: "https://datahub.io/core/country-codes"
+source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
 title: Honduras
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Honduras
-- هندوراس
-- 洪都拉斯
-- Гондурас
-- "the Republic of Honduras"
-- "la República de Honduras"
+  - Honduras
+  - هندوراس
+  - 洪都拉斯
+  - Гондурас
+  - the Republic of Honduras
+  - la República de Honduras
 Languages:
   - es-HN
   - cab
@@ -36,129 +36,129 @@ icon: flag-hn
 has_id_wikidata: Q783
 flag: "[[_Standards/WikiData/WD~flag_of_Honduras,102939]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
-- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-- "[[_Standards/WikiData/WD~Central_American_Bank_for_Economic_Integration,190008]]"
-- "[[_Standards/WikiData/WD~Central_American_Common_Market,190019]]"
-- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-- "[[_Standards/WikiData/WD~International_Regional_Organization_for_Agricultural_Health,3356166]]"
-- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-- "[[_Standards/WikiData/WD~United_Nations,1065]]"
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Central_American_Bank_for_Economic_Integration,190008]]"
+  - "[[_Standards/WikiData/WD~Central_American_Common_Market,190019]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~International_Regional_Organization_for_Agricultural_Health,3356166]]"
+  - "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Honduras,130320]]"
 head_of_government:
-- "[[_Standards/WikiData/WD~Manuel_Zelaya,191060]]"
-- "[[_Standards/WikiData/WD~Roberto_Micheletti,299442]]"
-- "[[_Standards/WikiData/WD~Ricardo_Maduro,441393]]"
-- "[[_Standards/WikiData/WD~Carlos_Roberto_Flores,654177]]"
-- "[[_Standards/WikiData/WD~Juan_Orlando_Hernández,5951723]]"
-- "[[_Standards/WikiData/WD~Xiomara_Castro,8044708]]"
-- "[[_Standards/WikiData/WD~Porfirio_Lobo_Sosa,4737]]"
+  - "[[_Standards/WikiData/WD~Manuel_Zelaya,191060]]"
+  - "[[_Standards/WikiData/WD~Roberto_Micheletti,299442]]"
+  - "[[_Standards/WikiData/WD~Ricardo_Maduro,441393]]"
+  - "[[_Standards/WikiData/WD~Carlos_Roberto_Flores,654177]]"
+  - "[[_Standards/WikiData/WD~Juan_Orlando_Hernández,5951723]]"
+  - "[[_Standards/WikiData/WD~Xiomara_Castro,8044708]]"
+  - "[[_Standards/WikiData/WD~Porfirio_Lobo_Sosa,4737]]"
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Palestine,219060]]'
-- '[[_Standards/WikiData/WD~Mosquitia,6037274]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~European_Union,458]]"
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~United_States,30]]"
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-- '[[_Standards/WikiData/WD~Brazil,155]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
+  - "[[_Standards/WikiData/WD~Palestine,219060]]"
+  - "[[_Standards/WikiData/WD~Mosquitia,6037274]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Intibucá_Department,262125]]"
-- "[[_Standards/WikiData/WD~Santa_Bárbara_Department,591139]]"
-- "[[_Standards/WikiData/WD~Atlántida_Department,622619]]"
-- "[[_Standards/WikiData/WD~Lempira_Department,744138]]"
-- "[[_Standards/WikiData/WD~Bay_Islands_Department,751725]]"
-- "[[_Standards/WikiData/WD~Cortés_Department,767244]]"
-- "[[_Standards/WikiData/WD~Comayagua_Department,823443]]"
-- "[[_Standards/WikiData/WD~Copán_Department,843984]]"
-- "[[_Standards/WikiData/WD~La_Paz_Department,866886]]"
-- "[[_Standards/WikiData/WD~Ocotepeque_Department,867084]]"
-- "[[_Standards/WikiData/WD~Olancho_Department,867089]]"
-- "[[_Standards/WikiData/WD~Valle_Department,867097]]"
-- "[[_Standards/WikiData/WD~El_Paraíso_Department,867108]]"
-- "[[_Standards/WikiData/WD~Gracias_a_Dios_Department,867112]]"
-- "[[_Standards/WikiData/WD~Colón_Department,867117]]"
-- "[[_Standards/WikiData/WD~Francisco_Morazán_Department,867126]]"
-- "[[_Standards/WikiData/WD~Choluteca_Department,899272]]"
-- "[[_Standards/WikiData/WD~Yoro_Department,1123380]]"
+  - "[[_Standards/WikiData/WD~Intibucá_Department,262125]]"
+  - "[[_Standards/WikiData/WD~Santa_Bárbara_Department,591139]]"
+  - "[[_Standards/WikiData/WD~Atlántida_Department,622619]]"
+  - "[[_Standards/WikiData/WD~Lempira_Department,744138]]"
+  - "[[_Standards/WikiData/WD~Bay_Islands_Department,751725]]"
+  - "[[_Standards/WikiData/WD~Cortés_Department,767244]]"
+  - "[[_Standards/WikiData/WD~Comayagua_Department,823443]]"
+  - "[[_Standards/WikiData/WD~Copán_Department,843984]]"
+  - "[[_Standards/WikiData/WD~La_Paz_Department,866886]]"
+  - "[[_Standards/WikiData/WD~Ocotepeque_Department,867084]]"
+  - "[[_Standards/WikiData/WD~Olancho_Department,867089]]"
+  - "[[_Standards/WikiData/WD~Valle_Department,867097]]"
+  - "[[_Standards/WikiData/WD~El_Paraíso_Department,867108]]"
+  - "[[_Standards/WikiData/WD~Gracias_a_Dios_Department,867112]]"
+  - "[[_Standards/WikiData/WD~Colón_Department,867117]]"
+  - "[[_Standards/WikiData/WD~Francisco_Morazán_Department,867126]]"
+  - "[[_Standards/WikiData/WD~Choluteca_Department,899272]]"
+  - "[[_Standards/WikiData/WD~Yoro_Department,1123380]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 part_of:
-- "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
-- '[[_Standards/WikiData/WD~Americas,828]]'
-- "[[_Standards/WikiData/WD~Latin_America,12585]]"
-- "[[_Standards/WikiData/WD~Central_America,27611]]"
+  - "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
+  - "[[_Standards/WikiData/WD~Americas,828]]"
+  - "[[_Standards/WikiData/WD~Latin_America,12585]]"
+  - "[[_Standards/WikiData/WD~Central_America,27611]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Honduras,687152]]"
 anthem: "[[_Standards/WikiData/WD~National_Anthem_of_Honduras,842503]]"
 highest_point: "[[_Standards/WikiData/WD~Cerro_Las_Minas,1055875]]"
 legislative_body: "[[_Standards/WikiData/WD~National_Congress_of_Honduras,1415847]]"
 language_used:
-- '[[_Standards/WikiData/WD~Miskito,1516803]]'
-- '[[_Standards/WikiData/WD~Tol,3178609]]'
-- '[[_Standards/WikiData/WD~Mayangna,3302929]]'
-- "[[_Standards/WikiData/WD~Honduran_Sign_Language,3915496]]"
-- '[[_Standards/WikiData/WD~Paya,4898889]]'
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~Ch_orti_,35177]]'
-- '[[_Standards/WikiData/WD~Garifuna,35490]]'
-- '[[_Standards/WikiData/WD~Lencan,36189]]'
+  - "[[_Standards/WikiData/WD~Miskito,1516803]]"
+  - "[[_Standards/WikiData/WD~Tol,3178609]]"
+  - "[[_Standards/WikiData/WD~Mayangna,3302929]]"
+  - "[[_Standards/WikiData/WD~Honduran_Sign_Language,3915496]]"
+  - "[[_Standards/WikiData/WD~Paya,4898889]]"
+  - "[[_Standards/WikiData/WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~Ch_orti_,35177]]"
+  - "[[_Standards/WikiData/WD~Garifuna,35490]]"
+  - "[[_Standards/WikiData/WD~Lencan,36189]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Honduras,2366847]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Honduras,2656178]]"
 central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Honduras,2920146]]"
 culture: "[[_Standards/WikiData/WD~culture_of_Honduras,3007337]]"
 instance_of:
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-- '[[_Standards/WikiData/WD~country,6256]]'
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
 replaces:
-- '[[_Standards/WikiData/WD~Mosquitia,6037274]]'
-- "[[_Standards/WikiData/WD~State_of_Honduras,68253870]]"
+  - "[[_Standards/WikiData/WD~Mosquitia,6037274]]"
+  - "[[_Standards/WikiData/WD~State_of_Honduras,68253870]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Honduras,7112288]]"
 head_of_state: "[[_Standards/WikiData/WD~Xiomara_Castro,8044708]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Honduras,11308226]]'
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Honduras,11308226]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Honduras,13341442]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Honduras,13341442]]"
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Honduras,17633154]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
+  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~198,25648880]]'
-- '[[_Standards/WikiData/WD~199,25648881]]'
+  - "[[_Standards/WikiData/WD~198,25648880]]"
+  - "[[_Standards/WikiData/WD~199,25648881]]"
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q27096408,27096408]]'
-- '[[_Standards/WikiData/WD~Q111372541,111372541]]'
+  - "[[_Standards/WikiData/WD~Q27096408,27096408]]"
+  - "[[_Standards/WikiData/WD~Q111372541,111372541]]"
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~America_Tegucigalpa,63286065]]'
-- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
-coordinates_of_northernmost_point: "Point(-85.85 16.52)"
+  - "[[_Standards/WikiData/WD~America_Tegucigalpa,63286065]]"
+  - "[[_Standards/WikiData/WD~UTC_06_00,5385]]"
+coordinates_of_northernmost_point: Point(-85.85 16.52)
 nominal_GDP:
   - 28488721296
   - 31717700115
-coordinates_of_easternmost_point: "Point(-83.12912 15.00647)"
+coordinates_of_easternmost_point: Point(-83.12912 15.00647)
 demonym:
   - هوندوراسي
   - هوندوراسية
@@ -194,19 +194,19 @@ demonym:
   - onduregni
   - onduregno
   - Honduränan
-ISNI: 0000000122428161
+ISNI: 122428161
 MeSH_tree_code: Z01.107.169.534
-coordinates_of_southernmost_point: "Point(-87.30844 12.98765)"
+coordinates_of_southernmost_point: Point(-87.30844 12.98765)
 shares_border_with:
-- '[[_Standards/WikiData/WD~Guatemala,774]]'
-- "[[_Standards/WikiData/WD~El_Salvador,792]]"
-- '[[_Standards/WikiData/WD~Nicaragua,811]]'
-country: '[[_Standards/WikiData/WD~Honduras,783]]'
+  - "[[_Standards/WikiData/WD~Guatemala,774]]"
+  - "[[_Standards/WikiData/WD~El_Salvador,792]]"
+  - "[[_Standards/WikiData/WD~Nicaragua,811]]"
+country: "[[_Standards/WikiData/WD~Honduras,783]]"
 lowest_point: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
-official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
-capital: '[[_Standards/WikiData/WD~Tegucigalpa,3238]]'
+official_language: "[[_Standards/WikiData/WD~Spanish,1321]]"
+capital: "[[_Standards/WikiData/WD~Tegucigalpa,3238]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Honduras,4722]]"
-basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
+basic_form_of_government: "[[_Standards/WikiData/WD~republic,7270]]"
 continent: "[[_Standards/WikiData/WD~North_America,49]]"
 BTI_Governance_Index:
   - 4
@@ -223,7 +223,7 @@ mains_voltage: 110
 VAT_rate: 15
 marriageable_age: 18
 age_of_majority: 21
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.hn,41025]]'
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.hn,41025]]"
 BTI_Status_Index:
   - 4.71
   - 4.94
@@ -260,7 +260,7 @@ IAB_code: 1315
 life_expectancy: 73.575
 mobile_country_code: 708
 area: 112492
-country_calling_code: +504
+country_calling_code: 504
 ISO_3166_1_alpha_2_code: HN
 WIPO_ST_3: HN
 number_of_out_of_school_children: 369528
@@ -279,8 +279,8 @@ urban_population:
   - 6217985
 PM20_geo_code: E68
 official_name:
-- Honduras
-- "la République du Honduras"
+  - Honduras
+  - la République du Honduras
 IOC_country_code: HON
 CIVICUS_Monitor_country_entry: honduras
 GitHub_topic: honduras
@@ -296,31 +296,31 @@ female_population:
   - 5087643
   - 5165506
 population: 10062994
-inception: 1821-06 
-has_time_started: 1821-06 
+inception: 1821-06
+has_time_started: 1821-06
 Commons_category: Honduras
 subreddit: Honduras
 Commons_gallery: Honduras
 hashtag: Honduras
-geoshape: "http://commons.wikimedia.org/data/main/Data:Honduras.map"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Honduras.svg"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Copan%20Honduras%20banner.jpg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Copan%20sculpture.jpg"
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Honduras.svg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Honduras%20%28orthographic%20projection%29.svg"
+geoshape: http://commons.wikimedia.org/data/main/Data:Honduras.map
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Honduras.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Copan%20Honduras%20banner.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Copan%20sculpture.jpg
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Honduras.svg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Honduras%20%28orthographic%20projection%29.svg
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Honduras.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Honduras.wav"
-official_website: "https://www.honduras.travel/en/"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Honduras.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Honduras.wav
+official_website: https://www.honduras.travel/en/
 Dewey_Decimal_Classification: 2--7283
-Unicode_character: 🇭🇳 
+Unicode_character: 🇭🇳
 Colon_Classification: SG--752
 Krugosvet_article: strany_mira/GONDURAS.html
-motto_text: "Libre, Soberana e Independiente"
-native_label: "República de Honduras"
-short_name: "\U0001F1ED\U0001F1F3"
-coordinates_of_westernmost_point: "Point(-89.35593 14.42045)"
-coordinate_location: "Point(-86.816667 14.633333)"
+motto_text: Libre, Soberana e Independiente
+native_label: República de Honduras
+short_name: 🇭🇳
+coordinates_of_westernmost_point: Point(-89.35593 14.42045)
+coordinate_location: Point(-86.816667 14.633333)
 ---
 
 # [[Honduras]] 

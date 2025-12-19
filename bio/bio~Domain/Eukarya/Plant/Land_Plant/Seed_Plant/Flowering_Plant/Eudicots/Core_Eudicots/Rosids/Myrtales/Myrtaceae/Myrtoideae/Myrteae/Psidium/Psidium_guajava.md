@@ -32,7 +32,7 @@ has_use:
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
 parent_taxon: "[[_Standards/WikiData/WD~Psidium,320179]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_53(1),112869448]]"
 different_from: "[[_Standards/WikiData/WD~guava,3181909]]"

@@ -3,60 +3,60 @@ All_Science_Journal_Classification_Codes: 2609
 Colon_Classification: R1
 Commons_category: Logic
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
 Dewey_Decimal_Classification: 160
 hashtag: logic
-has_effect: '[[_Standards/WikiData/WD~logical_consequence,374182]]'
+has_effect: "[[_Standards/WikiData/WD~logical_consequence,374182]]"
 has_id_wikidata: Q8078
 has_part_s_:
-- '[[_Standards/WikiData/WD~causality,179289]]'
-- '[[_Standards/WikiData/WD~propositional_calculus,200694]]'
-- '[[_Standards/WikiData/WD~modal_logic,210841]]'
-- '[[_Standards/WikiData/WD~fuzzy_logic,224821]]'
-- '[[_Standards/WikiData/WD~classical_logic,236975]]'
-- '[[_Standards/WikiData/WD~deductive_reasoning,484284]]'
-- '[[_Standards/WikiData/WD~inductive_reasoning,484511]]'
-- '[[_Standards/WikiData/WD~quantum_logic,1206311]]'
-- '[[_Standards/WikiData/WD~predicate_logic,35148]]'
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Q8078%20noun%2063409%20ccSimonChild%20logical.svg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Discourse-into-the-night.jpg"
+  - "[[_Standards/WikiData/WD~causality,179289]]"
+  - "[[_Standards/WikiData/WD~propositional_calculus,200694]]"
+  - "[[_Standards/WikiData/WD~modal_logic,210841]]"
+  - "[[_Standards/WikiData/WD~fuzzy_logic,224821]]"
+  - "[[_Standards/WikiData/WD~classical_logic,236975]]"
+  - "[[_Standards/WikiData/WD~deductive_reasoning,484284]]"
+  - "[[_Standards/WikiData/WD~inductive_reasoning,484511]]"
+  - "[[_Standards/WikiData/WD~quantum_logic,1206311]]"
+  - "[[_Standards/WikiData/WD~predicate_logic,35148]]"
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q8078%20noun%2063409%20ccSimonChild%20logical.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Discourse-into-the-night.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~formal_science,816264]]'
-- '[[_Standards/WikiData/WD~class_used_in_Universal_Decimal_Classification,15831325]]'
-- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
+  - "[[_Standards/WikiData/WD~formal_science,816264]]"
+  - "[[_Standards/WikiData/WD~class_used_in_Universal_Decimal_Classification,15831325]]"
+  - "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
 is_the_study_of:
-- '[[_Standards/WikiData/WD~condition,813912]]'
-- '[[_Standards/WikiData/WD~validity,1047000]]'
-- '[[_Standards/WikiData/WD~logical_system,17488292]]'
-- '[[_Standards/WikiData/WD~conclusion,20665666]]'
+  - "[[_Standards/WikiData/WD~condition,813912]]"
+  - "[[_Standards/WikiData/WD~validity,1047000]]"
+  - "[[_Standards/WikiData/WD~logical_system,17488292]]"
+  - "[[_Standards/WikiData/WD~conclusion,20665666]]"
 Krugosvet_article: gumanitarnye_nauki/filosofiya/LOGIKA.html
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 MeSH_tree_code: K01.752.448
 part_of:
-- '[[_Standards/WikiData/WD~mathematics,395]]'
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q113143870,113143870]]'
+  - "[[_Standards/WikiData/WD~mathematics,395]]"
+  - "[[_Standards/WikiData/WD~philosophy,5891]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q113143870,113143870]]"
 PhilPapers_topic: logics
-practiced_by: '[[_Standards/WikiData/WD~logician,14565331]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0.wav"
+practiced_by: "[[_Standards/WikiData/WD~logician,14565331]]"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0.wav
 Provenio_UUID:
-- 120a80b1-cec8-497b-8e0d-34fce2e62d4c
-- b264533f-c325-4ba2-9a90-70c7ea29e6f1
+  - 120a80b1-cec8-497b-8e0d-34fce2e62d4c
+  - b264533f-c325-4ba2-9a90-70c7ea29e6f1
 subreddit: logic
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Logic,6469110]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Logic,14614975]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Logic,6469110]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Logic,14614975]]"
 UMLS_CUI: C0023963
 Universal_Decimal_Classification: 16
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_logic,7112678]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_logic,7112678]]"
 ---
 
 # [[Logic]] 

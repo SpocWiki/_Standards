@@ -35,7 +35,7 @@ has_effect:
   - "[[_Standards/WikiData/WD~suicide,10737]]"
   - "[[_Standards/WikiData/WD~death,4]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
   - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"

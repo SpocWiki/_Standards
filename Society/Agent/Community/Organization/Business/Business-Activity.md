@@ -18,7 +18,7 @@ part_of:
   - "[[_Standards/WikiData/WD~business_process,851587]]"
 said_to_be_the_same_as:
   - "[[_Standards/WikiData/WD~economy,159810]]"
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../../../../WikiData/WD~economic_activity,8187769]]"
 studied_by:
   - "[[_Standards/WikiData/WD~business_administration,2043282]]"
   - "[[_Standards/WikiData/WD~economics,8134]]"

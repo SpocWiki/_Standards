@@ -114,7 +114,7 @@ patron_saint: "[[_Standards/WikiData/WD~Henry,445357]]"
 highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Finland,500459]]"
 head_of_state: "[[_Standards/WikiData/WD~Alexander_Stubb,503143]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"

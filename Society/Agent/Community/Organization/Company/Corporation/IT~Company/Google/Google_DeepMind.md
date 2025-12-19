@@ -10,12 +10,12 @@ headquarters_location:
   - "[[_Standards/WikiData/WD~London,84]]"
 investor: "[[_Standards/WikiData/WD~Founders_Fund,1439864]]"
 founded_by:
-  - "[[_Standards/WikiData/WD~Demis_Hassabis,3022141]]"
+  - "[[../../../../../../../../WikiData/WD~Demis_Hassabis,3022141]]"
   - "[[_Standards/WikiData/WD~Mustafa_Süleyman,16847797]]"
   - "[[_Standards/WikiData/WD~Shane_Legg,22278829]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Alphabet_Inc.,20800404]]"
+parent_organization_or_unit: "[[../../../../../../../../WikiData/WD~Alphabet_Inc.,20800404]]"
 owned_by:
-  - "[[_Standards/WikiData/WD~Alphabet_Inc.,20800404]]"
+  - "[[../../../../../../../../WikiData/WD~Alphabet_Inc.,20800404]]"
   - "[[_Standards/WikiData/WD~Google,95]]"
 product_or_material_produced:
   - "[[_Standards/WikiData/WD~AlphaGo,22329209]]"
@@ -50,7 +50,7 @@ inception: 2010-01-01T00:00:00Z
 
 # [[Google_DeepMind]] 
 
-#is_/same_as :: [[WD~Google_DeepMind,15733006]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Google_DeepMind,15733006]] 
 
 ## #has_/text_of_/abstract 
 
@@ -59,7 +59,7 @@ inception: 2010-01-01T00:00:00Z
 > which serves as a subsidiary of Alphabet Inc. 
 > 
 > Founded in the UK in 2010, it was acquired by Google in 2014 for 400M$ 
-> under the Aegis of [[Schmidt,Eric]] for access to massive Compute, 
+> under the Aegis of [[../../../../../../../../WikiData 1/Schmidt,Eric]] for access to massive Compute, 
 > and later merged with Google AI's Google Brain division 
 > to become Google DeepMind in April 2023. 
 > 

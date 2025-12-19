@@ -2,7 +2,7 @@
 aliases:
   - Ornithorhynchoidea
 has_id_wikidata: Q126163427
-parent_taxon: "[[_Standards/WikiData/WD~Platypoda,1976132]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../WikiData/WD~Platypoda,1976132]]"
 taxon_rank: "[[_Standards/WikiData/WD~superfamily,2136103]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Johnson%27s%20household%20book%20of%20nature%20%28Plate%20LXIV%29%20%287268710608%29.jpg
@@ -11,7 +11,7 @@ taxon_name: Ornithorhynchoidea
 
 # [[Ornithorhynchoidea]]  
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Ornithorhynchoidea,126163427|WD~Ornithorhynchoidea,126163427]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Ornithorhynchoidea,126163427|WD~Ornithorhynchoidea,126163427]] 
 
 ## #has_/text_of_/abstract 
 

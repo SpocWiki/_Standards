@@ -10,7 +10,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Senat,343948]]"
   - "[[_Standards/WikiData/WD~Senate,1466018]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
 headquarters_location:
   - "[[_Standards/WikiData/WD~Curia_Julia,1144514]]"

@@ -2,7 +2,7 @@
 title: Cnidaria
 has_id_wikidata: Q25441
 mode_of_reproduction: "[[_Standards/WikiData/WD~sexual_reproduction,182353]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 studied_by: "[[_Standards/WikiData/WD~cnidariology,18387578]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Cnidaria,119788837]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"

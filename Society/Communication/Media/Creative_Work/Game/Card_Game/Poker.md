@@ -12,7 +12,7 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Poker,14614986]]"
 practiced_by: "[[_Standards/WikiData/WD~poker_player,15295720]]"
 instance_of: "[[_Standards/WikiData/WD~card_game_type,122841050]]"
-game_mechanics: "[[_Standards/WikiData/WD~auction,133538823]]"
+game_mechanics: "[[../../../../../../WikiData/WD~auction,133538823]]"
 uses: "[[_Standards/WikiData/WD~playing_card,47883]]"
 IAB_code: "524"
 social_media_followers: 238002

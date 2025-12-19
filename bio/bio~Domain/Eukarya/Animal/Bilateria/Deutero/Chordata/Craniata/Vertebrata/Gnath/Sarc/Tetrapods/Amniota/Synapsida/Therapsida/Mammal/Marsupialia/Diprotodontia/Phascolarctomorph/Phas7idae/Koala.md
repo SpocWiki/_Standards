@@ -32,7 +32,7 @@ has_characteristic: "[[_Standards/WikiData/WD~viviparity,120446]]"
 parent_taxon: "[[_Standards/WikiData/WD~Phascolarctos,209692]]"
 IUCN_conservation_status: "[[_Standards/WikiData/WD~Vulnerable,278113]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"

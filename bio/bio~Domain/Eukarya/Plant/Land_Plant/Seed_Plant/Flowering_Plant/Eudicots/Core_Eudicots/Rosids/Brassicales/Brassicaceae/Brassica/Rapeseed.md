@@ -3,7 +3,7 @@ aliases:
   - Brassica napus
   - Brassica_napus
   - Raps
-  - oilseed rape 
+  - oilseed rape
   - canola
 has_id_wikidata: Q177932
 has_fruit_type: "[[_Standards/WikiData/WD~silique,148529]]"
@@ -31,7 +31,7 @@ taxon_range:
   - "[[_Standards/WikiData/WD~Shanghai,8686]]"
   - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Brassica,58677]]"
+parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Brassica,58677]]"
 water_footprint: 2271
 OmegaWiki_Defined_Meaning: "3106"
 ITIS_TSN: "23060"
@@ -66,7 +66,7 @@ short_name: B. napus
 
 # [[Rapeseed]] 
 
-#is_/same_as :: [[WD~Brassica_napus,177932]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Brassica_napus,177932]] 
 
 ## #has_/text_of_/abstract 
 

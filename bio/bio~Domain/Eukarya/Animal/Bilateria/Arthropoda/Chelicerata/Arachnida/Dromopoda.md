@@ -9,7 +9,7 @@ taxon_name: Dromopoda
 
 # [[Dromopoda]] 
 
-#is_/same_as :: [[WD~Dromopoda,5308296]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Dromopoda,5308296]] 
 
 ## #has_/text_of_/abstract 
 

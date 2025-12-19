@@ -54,8 +54,8 @@ father: "[[_Standards/WikiData/WD~Michael_Brin,15455589]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
   - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-owner_of: "[[_Standards/WikiData/WD~Alphabet_Inc.,20800404]]"
-employer: "[[_Standards/WikiData/WD~Alphabet_Inc.,20800404]]"
+owner_of: "[[../../../../WikiData/WD~Alphabet_Inc.,20800404]]"
+employer: "[[../../../../WikiData/WD~Alphabet_Inc.,20800404]]"
 child:
   - "[[_Standards/WikiData/WD~Chloe_Wojin,22442746]]"
   - "[[_Standards/WikiData/WD~Benji_Wojin,22442744]]"

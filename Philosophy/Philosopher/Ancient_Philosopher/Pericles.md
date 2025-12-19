@@ -17,7 +17,7 @@ military_or_police_rank: "[[_Standards/WikiData/WD~strategos,335954]]"
 father: "[[_Standards/WikiData/WD~Xanthippus,380401]]"
 mother: "[[_Standards/WikiData/WD~Agariste,390670]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Parallel_Lives,842337]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"

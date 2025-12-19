@@ -5,7 +5,7 @@ aliases:
 has_id_wikidata: Q122173
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 part_of: "[[_Standards/WikiData/WD~classical_mythology,1367434]]"

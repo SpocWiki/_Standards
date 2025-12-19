@@ -4,7 +4,7 @@ has_id_wikidata: Q854082
 taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
 described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Rosaceae,46299]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Rosaceae,46299 1]]"
 Commons_category: Amygdaloideae
 taxon_name: Amygdaloideae
 image:
@@ -16,7 +16,7 @@ UMLS_CUI: C2818700
 
 # [[Amygdaloideae]] 
 
-#is_/same_as :: [[WD~Amygdaloideae,854082]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Amygdaloideae,854082]] 
 
 ## #has_/text_of_/abstract 
 

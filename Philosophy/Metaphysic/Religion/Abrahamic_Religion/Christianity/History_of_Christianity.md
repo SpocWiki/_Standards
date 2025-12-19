@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q235329
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 practiced_by: "[[_Standards/WikiData/WD~church_historian,1743122]]"
 studied_by: "[[_Standards/WikiData/WD~church_history,1800439]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Christianity,8090086]]"

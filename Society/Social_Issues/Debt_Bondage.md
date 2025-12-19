@@ -6,7 +6,7 @@ aliases:
   - peonage
 has_id_wikidata: Q2165988
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 significant_event: "[[_Standards/WikiData/WD~colonial_history_of_the_United_States,1055643]]"
 subclass_of:

@@ -10,7 +10,7 @@ Colon_Classification:
   - Y:88
 Commons_category: Clothing
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
@@ -58,7 +58,7 @@ part_of:
 start_time: -57000
 studied_in: "[[_Standards/WikiData/WD~clothing_research,105812644]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~work,386724]]"
+  - "[[../../WikiData/WD~work,386724]]"
   - "[[_Standards/WikiData/WD~product,2424752]]"
   - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
   - "[[_Standards/WikiData/WD~flat_object,113518695]]"

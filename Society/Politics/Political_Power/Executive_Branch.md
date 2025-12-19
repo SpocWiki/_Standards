@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q35798
 facet_of: "[[_Standards/WikiData/WD~separation_of_powers,79896]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~organ_of_state,948571]]"
   - "[[_Standards/WikiData/WD~state_power,2324993]]"

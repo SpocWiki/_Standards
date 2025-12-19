@@ -3,7 +3,7 @@ aliases:
   - Theraphosoidea
 has_id_wikidata: Q54477
 taxon_rank: "[[_Standards/WikiData/WD~superfamily,2136103]]"
-parent_taxon: "[[_Standards/WikiData/WD~Mygalomorphae,12081]]"
+parent_taxon: "[[../../../../../../../../../../WikiData/WD~Mygalomorphae,12081]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Avicularia%20metallica%20immature.jpg
@@ -13,7 +13,7 @@ taxon_name: Theraphosoidea
 
 # [[Theraphosoidea]] 
 
-#is_/same_as :: [[WD~Theraphosoidea,54477]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Theraphosoidea,54477]] 
 
 ## #has_/text_of_/abstract 
 

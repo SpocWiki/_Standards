@@ -13,7 +13,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~data_base,59138835]]"
   - "[[_Standards/WikiData/WD~data,42848]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~work,386724]]"
+  - "[[../../../../WikiData/WD~work,386724]]"
   - "[[_Standards/WikiData/WD~data,494756]]"
   - "[[_Standards/WikiData/WD~data_set,1172284]]"
   - "[[_Standards/WikiData/WD~digital_object,59138870]]"

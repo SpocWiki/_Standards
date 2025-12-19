@@ -52,7 +52,7 @@ taxonomic_type: "[[_Standards/WikiData/WD~Solanum_nigrum,146400]]"
 this_taxon_is_source_of:
   - "[[_Standards/WikiData/WD~Solanum_alkaloids,2298266]]"
   - "[[_Standards/WikiData/WD~Bush_tomato,5001454]]"
-parent_taxon: "[[_Standards/WikiData/WD~Solaneae,3489128]]"
+parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Solaneae,3489128]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
   - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_67(1),112869471]]"
@@ -74,7 +74,7 @@ NBN_System_Key: NHMSYS0000463743
 
 # [[Nightshade]] 
 
-#is_/same_as :: [[WD~Solanum,146555]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Solanum,146555]] 
 
 ## #has_/text_of_/abstract 
 

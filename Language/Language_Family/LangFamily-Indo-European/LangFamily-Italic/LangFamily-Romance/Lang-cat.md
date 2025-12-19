@@ -51,7 +51,7 @@ part_of:
   - "[[_Standards/WikiData/WD~regional_languages_of_France,62067599]]"
 subclass_of: "[[_Standards/WikiData/WD~Occitano_Romance,599958]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 language_regulatory_body:
   - "[[_Standards/WikiData/WD~Q756890,756890]]"

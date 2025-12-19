@@ -1,35 +1,35 @@
 ---
-anatomical_location: '[[_Standards/WikiData/WD~abdominal_cavity,682466]]'
-arterial_supply: '[[_Standards/WikiData/WD~superior_mesenteric_artery,367570]]'
-Commons_category: "Small intestines"
-Commons_gallery: "Small intestine"
+anatomical_location: "[[_Standards/WikiData/WD~abdominal_cavity,682466]]"
+arterial_supply: "[[_Standards/WikiData/WD~superior_mesenteric_artery,367570]]"
+Commons_category: Small intestines
+Commons_gallery: Small intestine
 connects_with:
-- '[[_Standards/WikiData/WD~rectum,158716]]'
-- '[[_Standards/WikiData/WD~stomach,1029907]]'
-- '[[_Standards/WikiData/WD~large_intestine,11083]]'
+  - "[[_Standards/WikiData/WD~rectum,158716]]"
+  - "[[_Standards/WikiData/WD~stomach,1029907]]"
+  - "[[_Standards/WikiData/WD~large_intestine,11083]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
 has_id_wikidata: Q11090
 has_part_s_:
-- '[[_Standards/WikiData/WD~duodenum,134955]]'
-- '[[_Standards/WikiData/WD~jejunum,185765]]'
-- '[[_Standards/WikiData/WD~ileum,233345]]'
-innervated_by: '[[_Standards/WikiData/WD~vagus_nerve,190140]]'
+  - "[[_Standards/WikiData/WD~duodenum,134955]]"
+  - "[[_Standards/WikiData/WD~jejunum,185765]]"
+  - "[[_Standards/WikiData/WD~ileum,233345]]"
+innervated_by: "[[_Standards/WikiData/WD~vagus_nerve,190140]]"
 instance_of:
-- '[[_Standards/WikiData/WD~organ_type,103812529]]'
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
-lymphatic_drainage: '[[_Standards/WikiData/WD~intestinal_lymph_trunk,2456426]]'
+  - "[[_Standards/WikiData/WD~organ_type,103812529]]"
+  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
+lymphatic_drainage: "[[_Standards/WikiData/WD~intestinal_lymph_trunk,2456426]]"
 MeSH_tree_code: A03.556.124.684
 OmegaWiki_Defined_Meaning: 1034351
 part_of:
-- '[[_Standards/WikiData/WD~intestine,9639]]'
-- '[[_Standards/WikiData/WD~human_digestive_system,9649]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Small_intestine,7543099]]'
-subclass_of: '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-TA98_Latin_term: "intestinum tenue"
+  - "[[_Standards/WikiData/WD~intestine,9639]]"
+  - "[[_Standards/WikiData/WD~human_digestive_system,9649]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Small_intestine,7543099]]"
+subclass_of: "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+TA98_Latin_term: intestinum tenue
 UMLS_CUI: C0021852
-venous_drainage: '[[_Standards/WikiData/WD~hepatic_portal_vein,464543]]'
+venous_drainage: "[[_Standards/WikiData/WD~hepatic_portal_vein,464543]]"
 ---
 
 # [[Small_Intestine]] 

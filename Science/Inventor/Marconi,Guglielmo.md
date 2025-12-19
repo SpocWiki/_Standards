@@ -54,7 +54,7 @@ member_of:
 noble_title: "[[_Standards/WikiData/WD~Marquess,209726]]"
 employer: "[[_Standards/WikiData/WD~University_of_St_Andrews,216273]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
   - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"

@@ -20,7 +20,7 @@ studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
 
 # [[Heating]] 
 
-#is_/same_as :: [[WD~heating,4311765]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~heating,4311765]] 
 
 ## Heating in Germany@2025
 

@@ -10,7 +10,7 @@ taxon_name: Aeluroidea
 
 # [[Aeluroidea]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Aeluroidea,4687717|WD~Aeluroidea,4687717]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Aeluroidea,4687717|WD~Aeluroidea,4687717]] 
 
 ## #has_/text_of_/abstract 
 

@@ -9,7 +9,7 @@ developer:
   - "[[_Standards/WikiData/WD~Dennis_M._Ritchie,45575]]"
 programmed_in:
   - "[[_Standards/WikiData/WD~assembly_language,165436]]"
-  - "[[_Standards/WikiData/WD~Q15777,15777]]"
+  - "[[../../../../WikiData/WD~Q15777,15777]]"
 instance_of:
   - "[[_Standards/WikiData/WD~project,170584]]"
   - "[[_Standards/WikiData/WD~class,16889133]]"

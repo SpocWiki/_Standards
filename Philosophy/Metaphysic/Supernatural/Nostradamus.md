@@ -15,7 +15,7 @@ place_of_birth: "[[_Standards/WikiData/WD~Saint_Rémy_de_Provence,221507]]"
 place_of_death: "[[_Standards/WikiData/WD~Salon_de_Provence,232567]]"
 cause_of_death: "[[_Standards/WikiData/WD~cardiovascular_disease,389735]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

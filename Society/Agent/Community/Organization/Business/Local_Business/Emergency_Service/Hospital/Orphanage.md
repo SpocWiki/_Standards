@@ -7,7 +7,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~residential_child_care_community,9311671]]"
   - "[[_Standards/WikiData/WD~residential_building,11755880]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"

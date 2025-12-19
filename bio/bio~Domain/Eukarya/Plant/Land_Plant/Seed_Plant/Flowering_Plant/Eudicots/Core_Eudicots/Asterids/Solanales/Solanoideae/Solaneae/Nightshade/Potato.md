@@ -6,7 +6,7 @@ basionym_of: "[[_Standards/WikiData/WD~Solanum_tuberosum_subsp._chiloense,509219
 Commons_category: Solanum tuberosum
 Commons_gallery: Solanum tuberosum
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -141,7 +141,7 @@ this_taxon_is_source_of:
   - "[[_Standards/WikiData/WD~potato,16587531]]"
 Unicode_character: 🥔
 UNII: 2A8I57T4MX
-parent_taxon: "[[_Standards/WikiData/WD~Solanum,146555]]"
+parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Solanum,146555]]"
 ---
 
 # [[Potato]] 

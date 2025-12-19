@@ -11,7 +11,7 @@ has_effect:
   - "[[_Standards/WikiData/WD~mental_health,317309]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~social_integration,370735]]"
-  - "[[_Standards/WikiData/WD~group_dynamics,839578]]"
+  - "[[../../../WikiData/WD~group_dynamics,839578]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~The_Division_of_Labour_in_Society,3020435]]"
   - "[[_Standards/WikiData/WD~Bowling_Alone,4845526]]"

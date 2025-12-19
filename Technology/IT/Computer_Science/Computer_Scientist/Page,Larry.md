@@ -37,7 +37,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
   - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 given_name: "[[_Standards/WikiData/WD~Larry,18094568]]"
-owner_of: "[[_Standards/WikiData/WD~Alphabet_Inc.,20800404]]"
+owner_of: "[[../../../../WikiData/WD~Alphabet_Inc.,20800404]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
 sibling: "[[_Standards/WikiData/WD~Carl_Victor_Page,_Jr.,105100607]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"

@@ -12,7 +12,7 @@ has_use:
 different_from: "[[_Standards/WikiData/WD~Rye,229718]]"
 has_fruit_type: "[[_Standards/WikiData/WD~caryopsis,506139]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
@@ -20,7 +20,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-parent_taxon: "[[_Standards/WikiData/WD~Secale,7215110]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../WikiData/WD~Secale,7215110]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 this_taxon_is_source_of:
   - "[[_Standards/WikiData/WD~rye,61670635]]"

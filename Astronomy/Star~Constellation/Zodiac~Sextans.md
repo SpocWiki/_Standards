@@ -17,7 +17,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Sextante,12400435]]"
   - "[[_Standards/WikiData/WD~Sestante,121335963]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"

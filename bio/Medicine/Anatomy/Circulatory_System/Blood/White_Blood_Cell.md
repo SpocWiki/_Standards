@@ -1,7 +1,7 @@
 ---
 aliases:
   - Weiße Blutkörperchen
-has_id_wikidata: Q42395 
+has_id_wikidata: Q42395
 has_part_s_:
   - "[[_Standards/WikiData/WD~eosinophil,107238]]"
   - "[[_Standards/WikiData/WD~monocyte,107244]]"
@@ -14,7 +14,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~differentiated_hemal_cell,66568348]]"
   - "[[_Standards/WikiData/WD~immune_cell,104524156]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 different_from: "[[_Standards/WikiData/WD~white_blood_cell_count,52307097]]"

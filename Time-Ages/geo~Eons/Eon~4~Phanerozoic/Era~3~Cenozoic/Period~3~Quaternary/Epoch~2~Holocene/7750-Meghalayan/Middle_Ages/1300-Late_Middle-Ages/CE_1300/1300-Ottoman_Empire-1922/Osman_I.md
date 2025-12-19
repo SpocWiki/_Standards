@@ -21,7 +21,7 @@ family: "[[_Standards/WikiData/WD~Ottoman_dynasty,193383]]"
 father: "[[_Standards/WikiData/WD~Ertuğrul,243245]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~Sunni_Islam,483654]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
   - "[[_Standards/WikiData/WD~Tārīkh_al_dawlah_al_ʻalīyah_al_ʻUthmānīyah_(Muḥammad_Afandī,_1893),123466171]]"

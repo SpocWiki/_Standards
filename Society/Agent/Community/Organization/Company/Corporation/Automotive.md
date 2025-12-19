@@ -8,7 +8,7 @@ product_or_material_produced:
   - "[[_Standards/WikiData/WD~truck,43193]]"
 facet_of: "[[_Standards/WikiData/WD~transportation_industry,2516512]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Automotive_industry,6705436]]"
-instance_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+instance_of: "[[../../../../../../WikiData/WD~economic_activity,8187769]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~manufacture_of_motor_vehicles,_trailers_and_semi_trailers,15815448]]"
 different_from:
   - "[[_Standards/WikiData/WD~vehicle_industry,17132031]]"

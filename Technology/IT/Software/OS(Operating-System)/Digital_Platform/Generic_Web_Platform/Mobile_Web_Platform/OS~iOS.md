@@ -28,9 +28,9 @@ has_id_wikidata: Q48493
 programmed_in:
   - "[[_Standards/WikiData/WD~Q188531,188531]]"
   - "[[_Standards/WikiData/WD~Q17118377,17118377]]"
-  - "[[_Standards/WikiData/WD~Q2407,2407]]"
-  - "[[_Standards/WikiData/WD~Q15777,15777]]"
-  - "[[_Standards/WikiData/WD~Java,251]]"
+  - "[[../../../../../../../WikiData/WD~Q2407,2407]]"
+  - "[[../../../../../../../WikiData/WD~Q15777,15777]]"
+  - "[[../../../../../../../WikiData/WD~Java,251 1]]"
 different_from:
   - "[[_Standards/WikiData/WD~Ios,216993]]"
   - "[[_Standards/WikiData/WD~Wii_system_software,3257946]]"
@@ -111,7 +111,7 @@ language_of_work_or_name:
   - "[[_Standards/WikiData/WD~French,150]]"
   - "[[_Standards/WikiData/WD~German,188]]"
 based_on:
-  - "[[_Standards/WikiData/WD~macOS,14116]]"
+  - "[[../../../../../../../WikiData/WD~macOS,14116]]"
   - "[[_Standards/WikiData/WD~Darwin,14581]]"
 history_of_topic: "[[_Standards/WikiData/WD~iOS_version_history,27148]]"
 event_interval: 1

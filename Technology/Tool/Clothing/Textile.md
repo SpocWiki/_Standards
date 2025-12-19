@@ -8,7 +8,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
   - "[[_Standards/WikiData/WD~goods,28877]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
@@ -23,7 +23,7 @@ has_use:
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~textile_component,28935994]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_textiles,48258816]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
-made_from_material: "[[_Standards/WikiData/WD~fiber,161]]"
+made_from_material: "[[../../../WikiData/WD~fiber,161]]"
 Dewey_Decimal_Classification:
   - "687"
   - "677"

@@ -33,7 +33,7 @@ MeSH_tree_code: J01.937
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/UCB%20Transport%20and%20Map%20Symbols%20%28large%29.png
 OmegaWiki_Defined_Meaning: 3848
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/ANA%20Boeing%20787-8%20Dreamliner%20cabin%20panorama%20banner.jpg
-part_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+part_of: "[[../WikiData/WD~economic_activity,8187769]]"
 practiced_by: "[[_Standards/WikiData/WD~porter,1509714]]"
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Transport.ogg

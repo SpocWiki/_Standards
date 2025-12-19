@@ -7,8 +7,8 @@ Lemmy_instance_URL: https://linux.community
 mascot: "[[_Standards/WikiData/WD~Tux,131200]]"
 programmed_in:
   - "[[_Standards/WikiData/WD~assembly_language,165436]]"
-  - "[[_Standards/WikiData/WD~Q575650,575650]]"
-  - "[[_Standards/WikiData/WD~Q15777,15777]]"
+  - "[[../../../../WikiData/WD~Q575650,575650]]"
+  - "[[../../../../WikiData/WD~Q15777,15777]]"
 instance_of:
   - "[[_Standards/WikiData/WD~project,170584]]"
   - "[[_Standards/WikiData/WD~collaborative_work,15545584]]"

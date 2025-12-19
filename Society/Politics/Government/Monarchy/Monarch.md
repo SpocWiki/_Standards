@@ -6,7 +6,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~noble_title,355567]]"
   - "[[_Standards/WikiData/WD~position,4164871]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 partially_coincident_with:
   - "[[_Standards/WikiData/WD~ruler,1097498]]"

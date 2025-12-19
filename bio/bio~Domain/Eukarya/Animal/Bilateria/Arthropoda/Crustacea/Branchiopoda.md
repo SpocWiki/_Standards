@@ -1,21 +1,21 @@
 ---
-aliases: 
+aliases:
 Commons_category: Branchiopoda
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 EPPO_Code: 1BRANC
 has_id_wikidata: Q188360
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Triops%20longicaudatus.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Branchiopoda%20collage%202x2.png"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Triops%20longicaudatus.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Branchiopoda%20collage%202x2.png
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 83687
 taxon_common_name:
-- ramenonožci
-- Kieuwpootkreeften
+  - ramenonožci
+  - Kieuwpootkreeften
 taxon_name: Branchiopoda
-taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
 title: Branchiopoda
 UMLS_CUI: C0596222
 ---

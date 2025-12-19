@@ -1,60 +1,60 @@
 ---
 Commons_category: Cooking
-described_at_URL: "https://neal.fun/earth-reviews/cooking"
+described_at_URL: https://neal.fun/earth-reviews/cooking
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-exact_match: "https://valpal.info/parameters/cook"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+exact_match: https://valpal.info/parameters/cook
 followed_by:
-- '[[_Standards/WikiData/WD~eating,213449]]'
-- '[[_Standards/WikiData/WD~food_photography,1321148]]'
-- '[[_Standards/WikiData/WD~food_presentation,3480053]]'
+  - "[[_Standards/WikiData/WD~eating,213449]]"
+  - "[[_Standards/WikiData/WD~food_photography,1321148]]"
+  - "[[_Standards/WikiData/WD~food_presentation,3480053]]"
 follows:
-- '[[_Standards/WikiData/WD~gathering,2991771]]'
-- '[[_Standards/WikiData/WD~butchering,10682505]]'
+  - "[[_Standards/WikiData/WD~gathering,2991771]]"
+  - "[[_Standards/WikiData/WD~butchering,10682505]]"
 hashtag:
-- cooking
-- kochen
+  - cooking
+  - kochen
 has_id_wikidata: Q38695
 has_time_started: -500000
 IAB_code: 216
 Iconclass_notation: 41C25
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Wok%20cooking%20and%20the%20heat%20source%20by%20The%20Pocket%20in%20Nanjing.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Roosenburg.jpg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wok%20cooking%20and%20the%20heat%20source%20by%20The%20Pocket%20in%20Nanjing.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Roosenburg.jpg
 IMDb_keyword: cooking
 instance_of:
-- '[[_Standards/WikiData/WD~business_activity,19862406]]'
-- '[[_Standards/WikiData/WD~human_activity,61788060]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+  - "[[_Standards/WikiData/WD~business_activity,19862406]]"
+  - "[[_Standards/WikiData/WD~human_activity,61788060]]"
+  - "[[_Standards/WikiData/WD~hobby,47728]]"
 location:
-- '[[_Standards/WikiData/WD~workplace,628858]]'
-- '[[_Standards/WikiData/WD~kitchen,43164]]'
+  - "[[_Standards/WikiData/WD~workplace,628858]]"
+  - "[[_Standards/WikiData/WD~kitchen,43164]]"
 MeSH_tree_code: J01.576.423.200.200
 OmegaWiki_Defined_Meaning: 479078
-part_of: '[[_Standards/WikiData/WD~culture,11042]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12550174,12550174]]'
+part_of: "[[_Standards/WikiData/WD~culture,11042]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q12550174,12550174]]"
 practiced_by:
-- '[[_Standards/WikiData/WD~cook,156839]]'
-- '[[_Standards/WikiData/WD~pizzaiolo,3389507]]'
-- '[[_Standards/WikiData/WD~chef,3499072]]'
-- '[[_Standards/WikiData/WD~fast_food_worker,109952115]]'
-product_material_or_service_produced_or_provided: '[[_Standards/WikiData/WD~dish,746549]]'
+  - "[[_Standards/WikiData/WD~cook,156839]]"
+  - "[[_Standards/WikiData/WD~pizzaiolo,3389507]]"
+  - "[[_Standards/WikiData/WD~chef,3499072]]"
+  - "[[_Standards/WikiData/WD~fast_food_worker,109952115]]"
+product_material_or_service_produced_or_provided: "[[_Standards/WikiData/WD~dish,746549]]"
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Natschoba-kochen.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%82%E0%A4%AA%E0%A4%BE%E0%A4%95.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-sukaldaritza.wav"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Natschoba-kochen.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%82%E0%A4%AA%E0%A4%BE%E0%A4%95.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-sukaldaritza.wav
 start_time: -500000
-subclass_of: '[[_Standards/WikiData/WD~food_and_drink_preparation,16920758]]'
+subclass_of: "[[_Standards/WikiData/WD~food_and_drink_preparation,16920758]]"
 subreddit: Cooking
 UMLS_CUI: C0335326
-Unicode_character: "\U0001F373"
+Unicode_character: 🍳
 uses:
-- '[[_Standards/WikiData/WD~food_preparation_technique,1039303]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
-- '[[_Standards/WikiData/WD~heat,44432]]'
+  - "[[_Standards/WikiData/WD~food_preparation_technique,1039303]]"
+  - "[[_Standards/WikiData/WD~food,2095]]"
+  - "[[_Standards/WikiData/WD~heat,44432]]"
 U_S_National_Archives_Identifier: 10675369
 ---
 

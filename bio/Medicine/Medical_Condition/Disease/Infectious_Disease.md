@@ -31,7 +31,7 @@ has_cause: "[[_Standards/WikiData/WD~pathogen,170065]]"
 has_characteristic: "[[_Standards/WikiData/WD~incubation_period,193566]]"
 manifestation_of: "[[_Standards/WikiData/WD~pathogenesis,372016]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"

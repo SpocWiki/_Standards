@@ -10,7 +10,7 @@ type: Zodiac
 has_id_wikidata: Q9253
 named_after: "[[_Standards/WikiData/WD~altar,101687]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"

@@ -23,7 +23,7 @@ found_in_taxon:
   - "[[_Standards/WikiData/WD~Pereskia_aculeata,134422]]"
   - "[[_Standards/WikiData/WD~Bombyx_mori,134747]]"
   - "[[_Standards/WikiData/WD~Sinapis_alba,146202]]"
-  - "[[_Standards/WikiData/WD~Brassica_oleracea,146212]]"
+  - "[[../../WikiData/WD~Brassica_oleracea,146212]]"
   - "[[_Standards/WikiData/WD~Solanum_nigrum,146400]]"
   - "[[_Standards/WikiData/WD~Typha_latifolia,147520]]"
   - "[[_Standards/WikiData/WD~Solanum_glaucophyllum,148619]]"
@@ -509,7 +509,7 @@ subject_has_role:
   - "[[_Standards/WikiData/WD~precursor,247994]]"
   - "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"

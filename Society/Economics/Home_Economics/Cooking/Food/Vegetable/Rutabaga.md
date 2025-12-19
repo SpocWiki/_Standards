@@ -6,7 +6,7 @@ aliases:
 has_id_wikidata: Q158464
 taxon_rank: "[[_Standards/WikiData/WD~subspecies,68947]]"
 has_fruit_type: "[[_Standards/WikiData/WD~silique,148529]]"
-parent_taxon: "[[_Standards/WikiData/WD~Brassica_napus,177932]]"
+parent_taxon: "[[../../../../../../WikiData/WD~Brassica_napus,177932]]"
 award_received: "[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]"
 subclass_of: "[[_Standards/WikiData/WD~useful_plant,11992872]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"

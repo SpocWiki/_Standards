@@ -1,8 +1,8 @@
 ---
 ABS_ASCL_2011_code: 2302
 aliases:
-  - Portuguese 
-  - Portugisisch  
+  - Portuguese
+  - Portugisisch
   - Portuguese language
 has_id_wikidata: Q5146
 audio:
@@ -25,7 +25,7 @@ country:
 dedicated_heritage_entity: "[[_Standards/WikiData/WD~Museum_of_the_Portuguese_Language,2422478]]"
 described_at_URL: https://afbo.info/languages/151
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 Dewey_Decimal_Classification:
   - 460

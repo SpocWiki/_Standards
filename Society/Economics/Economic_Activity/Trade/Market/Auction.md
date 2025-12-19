@@ -8,7 +8,7 @@ subclass_of: "[[_Standards/WikiData/WD~bet,2565881]]"
 
 # [[Auction]] 
 
-#is_/same_as :: [[../../../../../_Standards/WikiData/WD~auction,133538823|WD~auction,133538823]] 
+#is_/same_as :: [[../../../../../WikiData/WD~auction,133538823|WD~auction,133538823]] 
 
 Auctions create the winner's curse: 
 The Price paid is the highest and therefore typically above the average price. 

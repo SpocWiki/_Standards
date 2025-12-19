@@ -61,7 +61,7 @@ member_of: "[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Scien
 employer: "[[_Standards/WikiData/WD~University_of_Music_and_Theatre_Leipzig,312578]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Hamburg_Biographies,1573212]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

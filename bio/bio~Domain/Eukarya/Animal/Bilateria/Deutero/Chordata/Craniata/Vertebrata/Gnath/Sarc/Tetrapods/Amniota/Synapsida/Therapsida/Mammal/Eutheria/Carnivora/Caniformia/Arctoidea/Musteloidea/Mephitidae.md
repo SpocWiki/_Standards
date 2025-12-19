@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q83244
-parent_taxon: "[[_Standards/WikiData/WD~Musteloidea,2670845]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Musteloidea,2670845 1]]"
 code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"

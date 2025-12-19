@@ -11,7 +11,7 @@ country_of_citizenship: "[[_Standards/WikiData/WD~Classical_Athens,844930]]"
 date_of_birth: -333
 date_of_death: http://www.wikidata.org/.well-known/genid/2ff0210e23f5de523a911d2ae67ec10b
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"

@@ -7,7 +7,7 @@ part_of:
   - "[[_Standards/WikiData/WD~building,41176]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~thoroughfare,83620]]"
-  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
+  - "[[../../../../../../WikiData/WD~architectural_element,391414]]"
   - "[[_Standards/WikiData/WD~support,1058733]]"
   - "[[_Standards/WikiData/WD~horizontal_structural_element,30327093]]"
 has_contributing_factor: "[[_Standards/WikiData/WD~height,208826]]"

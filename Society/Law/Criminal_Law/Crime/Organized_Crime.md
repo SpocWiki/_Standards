@@ -10,7 +10,7 @@ practiced_by:
   - "[[_Standards/WikiData/WD~yakuza,183287]]"
   - "[[_Standards/WikiData/WD~mobster,1404030]]"
 has_part_s_: "[[_Standards/WikiData/WD~drug_cartel,1260006]]"
-different_from: "[[_Standards/WikiData/WD~criminal_organization,1788992]]"
+different_from: "[[../../../../WikiData/WD~criminal_organization,1788992]]"
 relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target_16.4_of_the_Sustainable_Development_Goals,57590923]]"
 instance_of:
   - "[[_Standards/WikiData/WD~human_activity,61788060]]"

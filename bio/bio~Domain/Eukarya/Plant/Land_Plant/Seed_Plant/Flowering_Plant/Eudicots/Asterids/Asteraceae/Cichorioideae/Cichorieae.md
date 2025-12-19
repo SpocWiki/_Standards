@@ -4,7 +4,7 @@ aliases:
   - Cichorieae
 has_id_wikidata: Q134662
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Cichorioideae,133142]]"
+  - "[[../../../../../../../../../../../WikiData/WD~Cichorioideae,133142]]"
   - "[[_Standards/WikiData/WD~Carduoideae,134508]]"
 taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
@@ -31,7 +31,7 @@ taxon_common_name:
 
 # [[Cichorieae]] 
 
-#is_/same_as :: [[WD~Cichorieae,134662]] 
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Cichorieae,134662]] 
 
 ## #has_/text_of_/abstract 
 

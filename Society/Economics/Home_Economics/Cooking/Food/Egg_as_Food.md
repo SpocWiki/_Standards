@@ -21,7 +21,7 @@ part_of:
   - "[[_Standards/WikiData/WD~omelette,20129]]"
 has_effect: "[[_Standards/WikiData/WD~egg_allergy,576179]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 different_from: "[[_Standards/WikiData/WD~chicken_egg,15260613]]"
 subclass_of:

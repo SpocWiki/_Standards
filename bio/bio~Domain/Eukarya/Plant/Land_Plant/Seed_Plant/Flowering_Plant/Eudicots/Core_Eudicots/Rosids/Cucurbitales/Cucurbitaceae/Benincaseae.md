@@ -12,7 +12,7 @@ UMLS_CUI: C3135483
 
 # [[Benincaseae]] 
 
-#is_/same_as :: [[WD~Benincaseae,16034621]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Benincaseae,16034621]] 
 
 ## #has_/text_of_/abstract 
 

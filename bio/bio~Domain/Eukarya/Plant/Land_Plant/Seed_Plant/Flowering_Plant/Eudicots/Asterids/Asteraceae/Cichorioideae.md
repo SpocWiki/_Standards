@@ -16,7 +16,7 @@ taxon_name: Cichorioideae
 
 # [[Cichorioideae]] 
 
-#is_/same_as :: [[WD~Cichorioideae,133142]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Cichorioideae,133142]] 
 
 ## #has_/text_of_/abstract 
 

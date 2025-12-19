@@ -3,9 +3,9 @@ aliases:
   - brambles
   - Brombeere
 has_id_wikidata: Q602740
-parent_taxon: "[[_Standards/WikiData/WD~Rosoideae,134655]]"
+parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Rosoideae,134655]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
@@ -36,7 +36,7 @@ taxon_name: Rubus
 
 # [[Rubus]] 
 
-#is_/same_as :: [[WD~Rubus,602740]]  
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Rubus,602740]]  
 
 ## #has_/text_of_/abstract 
 

@@ -13,7 +13,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~television_genre,15961987]]"
 practiced_by: "[[_Standards/WikiData/WD~news_presenter,270389]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~work,386724]]"
+  - "[[../../../../WikiData/WD~work,386724]]"
   - "[[_Standards/WikiData/WD~communication,11024]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Current_events,4597488]]"
 model_item: "[[_Standards/WikiData/WD~Tagesthemen,19916]]"

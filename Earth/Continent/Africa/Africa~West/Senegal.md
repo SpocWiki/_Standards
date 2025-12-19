@@ -119,7 +119,7 @@ demonym:
   - senegałezi
   - senegałezo
   - Senegalänan
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 Dewey_Decimal_Classification: 2--663
 different_from:
   - "[[_Standards/WikiData/WD~Portal_Senegal,14616261]]"

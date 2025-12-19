@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q147114
-parent_taxon: "[[_Standards/WikiData/WD~Musteloidea,2670845]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Musteloidea,2670845 1]]"
 start_time: -20000000-01-01T00:00:00Z
 code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"

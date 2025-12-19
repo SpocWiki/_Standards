@@ -33,7 +33,7 @@ notable_work:
   - "[[_Standards/WikiData/WD~Socialism_Utopian_and_Scientific,509858]]"
   - "[[_Standards/WikiData/WD~The_Communist_Manifesto,40591]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"

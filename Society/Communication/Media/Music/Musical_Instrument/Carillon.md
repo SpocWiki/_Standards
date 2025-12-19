@@ -1,12 +1,12 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q505174
 has_part_s_:
   - "[[_Standards/WikiData/WD~bell,101401]]"
   - "[[_Standards/WikiData/WD~musical_keyboard,901207]]"
   - "[[_Standards/WikiData/WD~clapper,9335418]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"

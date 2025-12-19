@@ -7,7 +7,7 @@ uses:
   - "[[_Standards/WikiData/WD~meridian,32099]]"
 part_of: "[[_Standards/WikiData/WD~spatial_reference_system,161779]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 different_from: "[[_Standards/WikiData/WD~geographic_location,2221906]]"

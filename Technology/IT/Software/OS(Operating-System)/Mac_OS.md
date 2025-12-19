@@ -12,10 +12,10 @@ platform:
   - "[[_Standards/WikiData/WD~AArch64,18384745]]"
 different_from:
   - "[[_Standards/WikiData/WD~Classic_Mac_OS,13522376]]"
-  - "[[_Standards/WikiData/WD~macOS,14116]]"
+  - "[[../../../../WikiData/WD~macOS,14116]]"
 has_part_s_:
   - "[[_Standards/WikiData/WD~Classic_Mac_OS,13522376]]"
-  - "[[_Standards/WikiData/WD~macOS,14116]]"
+  - "[[../../../../WikiData/WD~macOS,14116]]"
 developer: "[[_Standards/WikiData/WD~Apple_Inc.,312]]"
 subclass_of: "[[_Standards/WikiData/WD~operating_system,9135]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2010-01-21%20MacBook%20Pro%20flat%20panel%20showing%20Earth%20background.jpg

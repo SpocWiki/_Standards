@@ -5,7 +5,7 @@ aliases:
   - Sturz
 has_id_wikidata: Q1370517
 subclass_of:
-  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
+  - "[[../../../../../../WikiData/WD~architectural_element,391414]]"
   - "[[_Standards/WikiData/WD~horizontal_structural_element,30327093]]"
 described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 part_of:

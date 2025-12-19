@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q2803916
-parent_taxon: "[[_Standards/WikiData/WD~Orectolobiformes,260031]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../WikiData/WD~Orectolobiformes,260031]]"
 instance_of: "[[_Standards/WikiData/WD~monotypic_taxon,310890]]"
 code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
@@ -15,7 +15,7 @@ taxon_name: Rhincodontidae
 
 # [[Rhincodontidae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../_Standards/WikiData/WD~Rhincodontidae,2803916|WD~Rhincodontidae,2803916]]  
+#is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Rhincodontidae,2803916|WD~Rhincodontidae,2803916]]  
 
 ## #has_/text_of_/abstract 
 

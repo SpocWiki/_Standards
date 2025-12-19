@@ -2,14 +2,14 @@
 aliases:
   - Rune
   - runic rows
-  - runic alphabets 
+  - runic alphabets
   - futharks
 has_id_wikidata: Q82996
 script_directionality:
   - "[[_Standards/WikiData/WD~boustrophedon,194233]]"
   - "[[_Standards/WikiData/WD~left_to_right,17321844]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"

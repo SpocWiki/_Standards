@@ -142,7 +142,7 @@ Gujarati_Vishwakosh_entry: આકાશગંગા
 spherical_panorama_image: http://commons.wikimedia.org/wiki/Special:FilePath/Deep%20Star%20Maps%202020%20%E2%80%93%20Milkyway%202020%2064k%20gal.jpg
 parent_astronomical_body: "[[_Standards/WikiData/WD~Sagittarius_A_,237284]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
   - "[[_Standards/WikiData/WD~Q2041543,2041543]]"

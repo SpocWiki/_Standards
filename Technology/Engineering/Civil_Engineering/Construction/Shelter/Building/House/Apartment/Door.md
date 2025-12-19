@@ -10,7 +10,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~window,35473]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~obstacle,264661]]"
-  - "[[_Standards/WikiData/WD~architectural_element,391414]]"
+  - "[[../../../../../../../../WikiData/WD~architectural_element,391414]]"
   - "[[_Standards/WikiData/WD~appliance,1183543]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"

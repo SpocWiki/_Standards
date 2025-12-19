@@ -17,7 +17,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~genre,483394]]"
   - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
   - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[../../../WikiData/WD~economic_activity,8187769]]"
   - "[[_Standards/WikiData/WD~type_of_mass_media,121132955]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~communications_media,340169]]"

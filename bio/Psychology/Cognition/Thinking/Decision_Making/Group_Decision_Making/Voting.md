@@ -9,7 +9,7 @@ uses:
   - "[[_Standards/WikiData/WD~secret_ballot,337987]]"
   - "[[_Standards/WikiData/WD~ballot,905151]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~group_decision_making,388791]]"
+  - "[[../../../../../../WikiData/WD~group_decision_making,388791]]"
   - "[[_Standards/WikiData/WD~event,1656682]]"
   - "[[_Standards/WikiData/WD~legal_act,1864008]]"
   - "[[_Standards/WikiData/WD~selection,12888920]]"
@@ -20,7 +20,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 has_immediate_cause: "[[_Standards/WikiData/WD~vote,1306135]]"
-has_use: "[[_Standards/WikiData/WD~decision_making,1331926]]"
+has_use: "[[../../../../../../WikiData/WD~decision_making,1331926]]"
 studied_by: "[[_Standards/WikiData/WD~sociology_of_voting,3487526]]"
 maintained_by_WikiProject:
   - "[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]"

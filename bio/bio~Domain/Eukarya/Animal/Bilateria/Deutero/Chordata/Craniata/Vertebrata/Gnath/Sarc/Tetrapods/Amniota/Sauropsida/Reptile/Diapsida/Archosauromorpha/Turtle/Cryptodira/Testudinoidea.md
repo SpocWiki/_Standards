@@ -16,7 +16,7 @@ parent_taxon: "[[../Cryptodira|Cryptodira]]"
 
 # [[Testudinoidea]] 
 
-#is_/same_as :: [[WD~Testudinoidea,1946537]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Testudinoidea,1946537]] 
  
 ## #has_/text_of_/abstract 
 

@@ -7,7 +7,7 @@ has_id_wikidata: "19817351"
 
 # [[Antilocapra]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Antilocapra,19817351|WD~Antilocapra,19817351]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Antilocapra,19817351|WD~Antilocapra,19817351]] 
 
 ## Pronghorn, American antelope 
 

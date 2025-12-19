@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q132041
 physically_interacts_with: "[[_Standards/WikiData/WD~lock,228039]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
   - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 different_from: "[[_Standards/WikiData/WD~Klucz,1776558]]"

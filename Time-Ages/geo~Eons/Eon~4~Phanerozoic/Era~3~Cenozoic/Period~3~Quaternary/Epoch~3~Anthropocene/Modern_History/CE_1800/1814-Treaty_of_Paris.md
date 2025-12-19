@@ -7,7 +7,7 @@ signatory:
   - "[[_Standards/WikiData/WD~Louis_XVIII_of_France,7750]]"
   - "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
   - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 instance_of: "[[_Standards/WikiData/WD~peace_treaty,625298]]"
 different_from: "[[_Standards/WikiData/WD~Q1300146,1300146]]"
 location: "[[_Standards/WikiData/WD~Paris,90]]"

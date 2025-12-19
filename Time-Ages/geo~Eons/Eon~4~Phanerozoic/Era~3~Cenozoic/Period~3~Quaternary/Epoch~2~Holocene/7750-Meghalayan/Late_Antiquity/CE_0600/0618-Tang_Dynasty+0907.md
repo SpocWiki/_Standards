@@ -9,7 +9,7 @@ depicted_by:
   - "[[_Standards/WikiData/WD~New_Book_of_Tang,386073]]"
   - "[[_Standards/WikiData/WD~Old_Book_of_Tang,1146980]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
 replaced_by:
   - "[[_Standards/WikiData/WD~Later_Liang_dynasty,783489]]"

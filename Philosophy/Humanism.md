@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q46158
 opposite_of: "[[_Standards/WikiData/WD~antihumanism,290509]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
   - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"

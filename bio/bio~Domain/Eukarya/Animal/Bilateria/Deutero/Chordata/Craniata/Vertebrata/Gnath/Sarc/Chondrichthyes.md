@@ -1,27 +1,27 @@
 ---
 aliases:
-- Knorpelfisch 
-- Knorpelfische
-- "cartilaginous fish"
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+  - Knorpelfisch
+  - Knorpelfische
+  - cartilaginous fish
+code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 Commons_category: Chondrichthyes
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 EPPO_Code: 1CHONC
 has_id_wikidata: Q25371
 Iconclass_notation: 25F61
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/White%20shark.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/White%20shark.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+  - "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 159785
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Chondrichthyes.jpg"
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Chondrichthyes.jpg
 start_time: -430000000-01-01
 taxon_name: Chondrichthyes
-taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Taxonomy_Chondrichthyes,13217777]]'
+  - "[[_Standards/WikiData/WD~Template_Taxonomy_Chondrichthyes,13217777]]"
 UMLS_CUI: C0327606
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 ---
 
 # [[Chondrichthyes]] 

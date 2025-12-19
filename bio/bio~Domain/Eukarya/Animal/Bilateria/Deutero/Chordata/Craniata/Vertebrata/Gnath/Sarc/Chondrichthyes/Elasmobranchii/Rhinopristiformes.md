@@ -11,7 +11,7 @@ taxon_name: Rhinopristiformes
 
 # [[Rhinopristiformes]] 
 
-#is_/same_as :: [[WD~Rhinopristiformes,25366201]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Rhinopristiformes,25366201]] 
 
 ## #has_/text_of_/abstract 
 

@@ -33,7 +33,7 @@ coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Montenegro,191728]]"
 different_from: "[[_Standards/WikiData/WD~Montenegro,357350]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Montenegro,374009]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Montenegro,628024]]"

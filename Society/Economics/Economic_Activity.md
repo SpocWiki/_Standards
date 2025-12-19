@@ -14,7 +14,7 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~business_activity,19862406]]"
 
 # [[Economic_Activity]] 
 
-#is_/same_as :: [[WD~economic_activity,8187769]] 
+#is_/same_as :: [[../../WikiData/WD~economic_activity,8187769]] 
 
 ## #has_/text_of_/abstract 
 

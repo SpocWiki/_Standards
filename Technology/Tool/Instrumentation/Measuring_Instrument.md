@@ -9,7 +9,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~measurement_scale,1370617]]"
   - "[[_Standards/WikiData/WD~metrological_mechanism,4198689]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~measurement_tool,1047213]]"

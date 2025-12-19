@@ -13,7 +13,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~cavity_of_tooth,66545289]]"
   - "[[_Standards/WikiData/WD~dental_pulp,48286]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
   - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 part_of:

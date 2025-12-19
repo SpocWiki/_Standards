@@ -9,7 +9,7 @@ aliases:
 has_id_wikidata: Q42046
 different_from: "[[_Standards/WikiData/WD~African_wild_dog,173651]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
@@ -18,7 +18,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 taxonomic_type: "[[_Standards/WikiData/WD~Hyaena,1417638]]"
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Aeluroidea,4687717]]"
+  - "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Aeluroidea,4687717]]"
   - "[[_Standards/WikiData/WD~Herpestoidea,9776204]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q135108936,135108936]]"

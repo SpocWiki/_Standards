@@ -624,7 +624,7 @@ instance_of:
 basic_form_of_government: "[[_Standards/WikiData/WD~federal_republic,512187]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Nigeria,595104]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 highest_point: "[[_Standards/WikiData/WD~Chappal_Waddi,976055]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Nigeria,1140374]]"

@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q49916468
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Nitrates,14403522]]"
 instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"

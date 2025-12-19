@@ -5,7 +5,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~umbrella_term,210588]]"
   - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 facet_of: "[[_Standards/WikiData/WD~study_of_history,1066186]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_historiography,2699662]]"

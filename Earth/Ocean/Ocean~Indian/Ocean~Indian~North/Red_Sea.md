@@ -3,11 +3,13 @@ aliases:
 has_id_wikidata: Q23406
 Commons_gallery: Red Sea
 Commons_category: Red Sea
-location: [ 22.0,38.0]
+location:
+  - 22
+  - 38
 coordinate_location: Point(38.0 22.0)
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Reed_Sea,116702]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"

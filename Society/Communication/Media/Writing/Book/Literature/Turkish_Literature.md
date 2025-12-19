@@ -3,7 +3,7 @@ aliases:
   - Türkische Literatur
 has_id_wikidata: Q1328366
 instance_of: "[[_Standards/WikiData/WD~literary_genre,223393]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 facet_of: "[[_Standards/WikiData/WD~culture_of_Turkey,1082380]]"
 language_of_work_or_name: "[[_Standards/WikiData/WD~Turkish,256]]"
 subclass_of: "[[_Standards/WikiData/WD~literature,8242]]"

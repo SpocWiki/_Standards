@@ -13,7 +13,7 @@ subclass_of: "[[_Standards/WikiData/WD~sport,349]]"
 
 # [[Roller_Sport]] 
 
-#is_/same_as :: [[WD~roller_sport,2164355]] 
+#is_/same_as :: [[../../../../../WikiData/WD~roller_sport,2164355]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,92 +1,92 @@
 ---
 Commons_category: Arthropoda
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 Dewey_Decimal_Classification: 595
 different_from:
-- '[[_Standards/WikiData/WD~Arthropoda,21385261]]'
-- '[[_Standards/WikiData/WD~Arthropoda,116480554]]'
+  - "[[_Standards/WikiData/WD~Arthropoda,21385261]]"
+  - "[[_Standards/WikiData/WD~Arthropoda,116480554]]"
 EPPO_Code: 1ARTHP
 has_id_wikidata: Q1360
 Iconclass_notation: 25F71
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Abludomelita%20obtusata.jpg"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Abludomelita%20obtusata.jpg
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 82696
 Krugosvet_article: nauka_i_tehnika/biologiya/CHLENISTONOGIE.html
 MeSH_tree_code: B01.050.500.131
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Arthropoda%20collage.png"
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Arthropoda%20collage.png
 OmegaWiki_Defined_Meaning: 257
-parent_taxon: '[[_Standards/WikiData/WD~Ecdysozoa,5176]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Arthropoda,115427055]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-Artropodo.wav"
+parent_taxon: "[[_Standards/WikiData/WD~Ecdysozoa,5176]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Arthropoda,115427055]]"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-Artropodo.wav
 start_time: -540000000-01-01
 studied_in:
-- '[[_Standards/WikiData/WD~arthropodology,3520855]]'
-- '[[_Standards/WikiData/WD~palaeo-arthropodology,126937169]]'
-subclass_of: '[[_Standards/WikiData/WD~invertebrate,43806]]'
+  - "[[_Standards/WikiData/WD~arthropodology,3520855]]"
+  - "[[_Standards/WikiData/WD~palaeo-arthropodology,126937169]]"
+subclass_of: "[[_Standards/WikiData/WD~invertebrate,43806]]"
 taxon_common_name:
-- Членистоногие
-- "مفصليات الأرجل"
-- Gliaderfiassler
-- Членестоноги
-- সন্ধিপদ
-- Artròpodes
-- členovci
-- Leddyr
-- Gliederfüßer
-- Αρθρόποδα
-- Arthropod
-- Artrópodos
-- Lülijalgsed
-- Niveljalkaiset
-- Arthropodes
-- Laspuateten
-- Artrapód
-- Artrópodos
-- Gliderfießler
-- "פרוקי רגליים"
-- Člankonošci
-- Ízeltlábúak
-- Հոդվածոտանիներ
-- Artropodi
-- 節足動物門
-- 절지동물문(節肢動物門)
-- Nariuotakojai
-- Членконоги
-- leddyr
-- Geleedpotigen
-- Artropòdes
-- stawonogi
-- Artrópode
-- Artropode
-- Artropodu
-- Článkonožce
-- Členonožci
-- Зглавкари
-- Leddjur
-- "[[:w:ta:கணுக்காலி"
-- "Eklem bacaklılar"
-- Членистоногі
-- "Động vật chân đốt"
-- 節肢動物門
-- 节肢动物门
+  - Членистоногие
+  - مفصليات الأرجل
+  - Gliaderfiassler
+  - Членестоноги
+  - সন্ধিপদ
+  - Artròpodes
+  - členovci
+  - Leddyr
+  - Gliederfüßer
+  - Αρθρόποδα
+  - Arthropod
+  - Artrópodos
+  - Lülijalgsed
+  - Niveljalkaiset
+  - Arthropodes
+  - Laspuateten
+  - Artrapód
+  - Artrópodos
+  - Gliderfießler
+  - פרוקי רגליים
+  - Člankonošci
+  - Ízeltlábúak
+  - Հոդվածոտանիներ
+  - Artropodi
+  - 節足動物門
+  - 절지동물문(節肢動物門)
+  - Nariuotakojai
+  - Членконоги
+  - leddyr
+  - Geleedpotigen
+  - Artropòdes
+  - stawonogi
+  - Artrópode
+  - Artropode
+  - Artropodu
+  - Článkonožce
+  - Členonožci
+  - Зглавкари
+  - Leddjur
+  - "[[:w:ta:கணுக்காலி"
+  - Eklem bacaklılar
+  - Членистоногі
+  - Động vật chân đốt
+  - 節肢動物門
+  - 节肢动物门
 taxon_name: Arthropoda
-taxon_rank: '[[_Standards/WikiData/WD~phylum,38348]]'
+taxon_rank: "[[_Standards/WikiData/WD~phylum,38348]]"
 title: Arthropoda
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Arthropods,6687029]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Arthropods,13365765]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Arthropods,6687029]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Arthropods,13365765]]"
 UMLS_CUI: C0003903
-Unicode_character: "\U0001F41B"
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+Unicode_character: 🐛
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 ---
 
 # [[Arthropoda]] 

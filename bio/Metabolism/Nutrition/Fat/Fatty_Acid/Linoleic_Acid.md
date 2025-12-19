@@ -97,7 +97,7 @@ found_in_taxon:
   - "[[_Standards/WikiData/WD~Hippophae_rhamnoides,165378]]"
   - "[[_Standards/WikiData/WD~Elaeis_guineensis,165403]]"
   - "[[_Standards/WikiData/WD~common_sunflower,171497]]"
-  - "[[_Standards/WikiData/WD~Brassica_napus,177932]]"
+  - "[[../../../../../WikiData/WD~Brassica_napus,177932]]"
   - "[[_Standards/WikiData/WD~Nicotiana_tabacum,181095]]"
   - "[[_Standards/WikiData/WD~Juniperus_phoenicea,183497]]"
   - "[[_Standards/WikiData/WD~Pleurotus_ostreatus,186451]]"

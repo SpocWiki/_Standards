@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q148758
 this_taxon_is_source_of: "[[_Standards/WikiData/WD~melon,5881191]]"
-parent_taxon: "[[_Standards/WikiData/WD~Benincaseae,16034621]]"
+parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Benincaseae,16034621]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
@@ -54,7 +54,7 @@ NBN_System_Key: NHMSYS0000457753
 
 # [[Cucumis]] 
 
-#is_/same_as :: [[WD~Cucumis,148758]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Cucumis,148758]] 
 
 ## #has_/text_of_/abstract 
 

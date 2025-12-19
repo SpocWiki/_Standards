@@ -23,7 +23,7 @@ child:
   - "[[_Standards/WikiData/WD~Elizabeth_Rockefeller_Strong,5363438]]"
 spouse: "[[_Standards/WikiData/WD~Laura_Spelman_Rockefeller,439950]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"

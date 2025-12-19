@@ -1,49 +1,49 @@
 ---
 atomic_number: 36
-canonical_SMILES: '[Kr]'
+canonical_SMILES: "[Kr]"
 CAS_Registry_Number: 7439-90-9
 chemical_formula: Kr
 Commons_category: Krypton
 Commons_gallery: Krypton
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-different_from: '[[_Standards/WikiData/WD~kryptonite,421669]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+different_from: "[[_Standards/WikiData/WD~kryptonite,421669]]"
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Morris_Travers,380209]]'
-- '[[_Standards/WikiData/WD~William_Ramsay,950726]]'
+  - "[[_Standards/WikiData/WD~Morris_Travers,380209]]"
+  - "[[_Standards/WikiData/WD~William_Ramsay,950726]]"
 DSSTOX_compound_identifier: DTXCID3047637
 EC_number: 231-098-5
 electronegativity: 3
 electron_configuration:
-- "[Ar] 3d¹⁰ 4s² 4p⁶"
-- "1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶"
+  - "[Ar] 3d¹⁰ 4s² 4p⁶"
+  - 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶
 element_symbol: Kr
 has_characteristic:
-- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-- '[[_Standards/WikiData/WD~tastelessness,30100868]]'
+  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
+  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
+  - "[[_Standards/WikiData/WD~tastelessness,30100868]]"
 has_id_wikidata: Q888
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Krypton%20discharge%20tube.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Krypton%20discharge%20tube.jpg
 InChI: InChI=1S/Kr
 InChIKey: DNNSSWSSYDEUBZ-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-- '[[_Standards/WikiData/WD~gas,11432]]'
-location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+  - "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - "[[_Standards/WikiData/WD~gas,11432]]"
+location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 mass: 83.798
 MeSH_tree_code:
-- D01.362.641.468
-- D01.268.613.425
-named_after: '[[_Standards/WikiData/WD~hiding,30301727]]'
+  - D01.362.641.468
+  - D01.268.613.425
+named_after: "[[_Standards/WikiData/WD~hiding,30301727]]"
 OmegaWiki_Defined_Meaning: 159828
 part_of:
-- '[[_Standards/WikiData/WD~period_4,239825]]'
-- '[[_Standards/WikiData/WD~noble_gases,19609]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Krypton-ar.oga"
+  - "[[_Standards/WikiData/WD~period_4,239825]]"
+  - "[[_Standards/WikiData/WD~noble_gases,19609]]"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Krypton-ar.oga
 PubChem_CID: 5416
 SpocWebEntityId: 21934
 standard_molar_entropy: 164

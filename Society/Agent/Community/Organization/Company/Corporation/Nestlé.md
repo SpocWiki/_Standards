@@ -61,7 +61,7 @@ child_organization_or_unit:
   - "[[_Standards/WikiData/WD~Nestle_España,110872981]]"
   - "[[_Standards/WikiData/WD~Unilac,_Inc.,118287939]]"
 industry: "[[_Standards/WikiData/WD~food_industry,540912]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 stock_exchange: "[[_Standards/WikiData/WD~Swiss_Stock_Exchange,661834]]"
 supervisory_board_member: "[[_Standards/WikiData/WD~Max_Petitpierre,664453]]"
 part_of:

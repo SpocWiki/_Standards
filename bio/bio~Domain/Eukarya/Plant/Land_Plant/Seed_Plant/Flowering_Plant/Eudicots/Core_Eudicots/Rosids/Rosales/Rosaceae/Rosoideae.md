@@ -2,9 +2,9 @@
 aliases:
 has_id_wikidata: Q134655
 taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Rosaceae,46299]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Rosaceae,46299 1]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20eglanteria%20img%203218.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=3044
 UMLS_CUI: C1080675
@@ -25,7 +25,7 @@ taxon_common_name:
 
 # [[Rosoideae]] 
 
-#is_/same_as :: [[WD~Rosoideae,134655]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Rosoideae,134655]] 
 
 ## #has_/text_of_/abstract 
 

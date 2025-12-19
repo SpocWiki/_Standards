@@ -14,7 +14,7 @@ this_taxon_is_source_of:
   - "[[_Standards/WikiData/WD~almond,184357]]"
   - "[[_Standards/WikiData/WD~almond_oil,72437444]]"
   - "[[_Standards/WikiData/WD~almond_tree_wood,110795631]]"
-parent_taxon: "[[_Standards/WikiData/WD~Prunus,190545]]"
+parent_taxon: "[[../../../../../../../../../../../../../../../WikiData/WD~Prunus,190545]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"

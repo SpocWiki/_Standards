@@ -1,6 +1,6 @@
 ---
 aliases:
-  - pomegranate 
+  - pomegranate
   - Punica granatum
 has_id_wikidata: Q13188
 has_use:
@@ -31,7 +31,7 @@ this_taxon_is_source_of:
   - "[[_Standards/WikiData/WD~pomegranate_seed,103829622]]"
   - "[[_Standards/WikiData/WD~pomegranate_seed_oil,103829677]]"
   - "[[_Standards/WikiData/WD~pomegranate_tree_wood,110800399]]"
-parent_taxon: "[[_Standards/WikiData/WD~Punica,4959355]]"
+parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Punica,4959355]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
 depicted_by:
   - "[[_Standards/WikiData/WD~Textile_with_Pomegranate_Motif,131557522]]"

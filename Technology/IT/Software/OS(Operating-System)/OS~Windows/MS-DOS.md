@@ -41,7 +41,7 @@ distribution_format:
   - "[[_Standards/WikiData/WD~3_inch_floppy_disk,37753524]]"
   - "[[_Standards/WikiData/WD~5_inch_floppy_disk,55194959]]"
 copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-followed_by: "[[_Standards/WikiData/WD~Microsoft_Windows,1406]]"
+followed_by: "[[../../../../../WikiData/WD~Microsoft_Windows,1406 1]]"
 developer: "[[_Standards/WikiData/WD~Microsoft,2283]]"
 software_version_identifier: "8.01"
 publication_date: 1981-08-12T00:00:00Z

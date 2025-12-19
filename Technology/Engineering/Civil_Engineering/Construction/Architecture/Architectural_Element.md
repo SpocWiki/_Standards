@@ -14,7 +14,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Avila%20San%20Pedro%20
 
 # [[Architectural_Element]] 
 
-#is_/same_as :: [[WD~architectural_element,391414]] 
+#is_/same_as :: [[../../../../../WikiData/WD~architectural_element,391414]] 
 
 ## #has_/text_of_/abstract 
 

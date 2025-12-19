@@ -2,7 +2,7 @@
 aliases:
   - Weißkohl
 has_id_wikidata: Q35051
-parent_taxon: "[[_Standards/WikiData/WD~Brassica_oleracea,146212]]"
+parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Brassica_oleracea,146212]]"
 has_use:
   - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
   - "[[_Standards/WikiData/WD~cabbage,14328596]]"

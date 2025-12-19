@@ -2,10 +2,10 @@
 aliases:
 has_id_wikidata: Q4959355
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Lythraceae,156022]]"
+  - "[[../../../../../../../../../../../../WikiData/WD~Lythraceae,156022]]"
   - "[[_Standards/WikiData/WD~Punicaceae,1446177]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
@@ -34,7 +34,7 @@ NBN_System_Key: NHMSYS0000462155
 
 # [[Punica]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../_Standards/WikiData/WD~Punica,4959355|WD~Punica,4959355]]  
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Punica,4959355|WD~Punica,4959355]]  
 
 ## #has_/text_of_/abstract 
 

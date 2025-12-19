@@ -22,7 +22,7 @@ Dewey_Decimal_Classification:
 
 # [[Orectolobiformes]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../_Standards/WikiData/WD~Orectolobiformes,260031|WD~Orectolobiformes,260031]]  
+#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Orectolobiformes,260031|WD~Orectolobiformes,260031]]  
 
 ## #has_/text_of_/abstract 
 

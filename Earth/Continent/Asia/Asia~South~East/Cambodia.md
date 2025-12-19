@@ -95,7 +95,7 @@ central_bank: "[[_Standards/WikiData/WD~National_Bank_of_Cambodia,284843]]"
 highest_point: "[[_Standards/WikiData/WD~Phnom_Aural,539772]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Cambodia,550167]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"

@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q1707432
 described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~roller_sport,2164355]]"
+  - "[[../../../../../../WikiData/WD~roller_sport,2164355]]"
   - "[[_Standards/WikiData/WD~skating,14300548]]"
 practiced_by: "[[_Standards/WikiData/WD~roller_skater,61278580]]"
 instance_of:

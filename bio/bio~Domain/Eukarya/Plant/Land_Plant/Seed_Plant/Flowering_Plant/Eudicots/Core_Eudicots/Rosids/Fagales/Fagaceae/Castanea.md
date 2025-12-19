@@ -33,7 +33,7 @@ taxon_common_name:
   - kaštanovník
   - Kastanje
   - Kaŝtanarbo
-parent_taxon: "[[_Standards/WikiData/WD~Fagaceae,145977]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Fagaceae,145977 1]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
