@@ -72,7 +72,7 @@ programmed_in:
   - "[[../../../../../../../WikiData/WD~Q2407,2407]]"
   - "[[../../../../../../../WikiData/WD~Q15777,15777]]"
   - "[[_Standards/WikiData/WD~XML_Schema,16342]]"
-  - "[[../../../../../../../WikiData/WD~Java,251 1]]"
+  - "[[../../../../../../../WikiData/WD~Java,251]]"
 has_part_s_:
   - "[[_Standards/WikiData/WD~Dalvik_VM,754752]]"
   - "[[_Standards/WikiData/WD~Bionic,4035125]]"

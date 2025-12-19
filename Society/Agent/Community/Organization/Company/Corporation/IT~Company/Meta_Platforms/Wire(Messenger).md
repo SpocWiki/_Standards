@@ -8,7 +8,7 @@ distributed_by:
 instance_of: "[[_Standards/WikiData/WD~instant_messaging_client,2462003]]"
 operating_system:
   - "[[../../../../../../../../WikiData/WD~Q3251801,3251801]]"
-  - "[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406 1]]"
+  - "[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406]]"
   - "[[../../../../../../../../WikiData/WD~macOS,14116]]"
   - "[[../../../../../../../../WikiData/WD~Q94,94]]"
   - "[[../../../../../../../../WikiData/WD~Q48493,48493]]"
@@ -18,7 +18,7 @@ copyright_license:
   - "[[_Standards/WikiData/WD~GNU_Affero_General_Public_License,_version_3.0_or_later,27020062]]"
 copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
 platform:
-  - "[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406 1]]"
+  - "[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406]]"
   - "[[../../../../../../../../WikiData/WD~macOS,14116]]"
   - "[[../../../../../../../../WikiData/WD~Q94,94]]"
   - "[[../../../../../../../../WikiData/WD~Q48493,48493]]"

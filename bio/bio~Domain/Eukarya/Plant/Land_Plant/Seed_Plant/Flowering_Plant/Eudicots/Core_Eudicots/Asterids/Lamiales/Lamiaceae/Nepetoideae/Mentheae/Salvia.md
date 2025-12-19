@@ -64,7 +64,7 @@ award_received:
   - "[[_Standards/WikiData/WD~medicinal_plant_of_the_year,1595426]]"
   - "[[_Standards/WikiData/WD~perennial_of_the_year,2334413]]"
 has_fruit_type: "[[_Standards/WikiData/WD~nucule,5118786]]"
-parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Mentheae,7638745 1]]"
+parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Mentheae,7638745]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
 ITIS_TSN: "32680"

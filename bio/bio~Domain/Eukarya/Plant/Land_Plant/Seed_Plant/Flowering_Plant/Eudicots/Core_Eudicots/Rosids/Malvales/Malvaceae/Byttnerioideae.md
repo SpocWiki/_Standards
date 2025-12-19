@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q652608
-parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Malvaceae,156551 1]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Malvaceae,156551]]"
 taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Theobroma%20grandiflorum-flower.jpg

@@ -16,7 +16,7 @@ has_fruit_type:
   - "[[_Standards/WikiData/WD~berry,13184]]"
   - "[[_Standards/WikiData/WD~drupe,14712]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Ericales,21737 1]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Ericales,21737]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
 taxon_synonym: "[[_Standards/WikiData/WD~Pyrolaceae,49733]]"
 ITIS_TSN: "23463"

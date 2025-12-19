@@ -30,7 +30,7 @@ programmed_in:
   - "[[_Standards/WikiData/WD~Q17118377,17118377]]"
   - "[[../../../../../../../WikiData/WD~Q2407,2407]]"
   - "[[../../../../../../../WikiData/WD~Q15777,15777]]"
-  - "[[../../../../../../../WikiData/WD~Java,251 1]]"
+  - "[[../../../../../../../WikiData/WD~Java,251]]"
 different_from:
   - "[[_Standards/WikiData/WD~Ios,216993]]"
   - "[[_Standards/WikiData/WD~Wii_system_software,3257946]]"

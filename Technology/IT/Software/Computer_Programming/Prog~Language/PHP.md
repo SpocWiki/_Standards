@@ -63,7 +63,7 @@ has_edition_or_translation:
   - "[[_Standards/WikiData/WD~Q135276736,135276736]]"
   - "[[_Standards/WikiData/WD~Q135276737,135276737]]"
 operating_system:
-  - "[[../../../../../WikiData/WD~Microsoft_Windows,1406 1]]"
+  - "[[../../../../../WikiData/WD~Microsoft_Windows,1406]]"
   - "[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]"
 influenced_by:
   - "[[_Standards/WikiData/WD~Q2005,2005]]"

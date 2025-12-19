@@ -19,7 +19,7 @@ taxon_common_name: rovlevende pungdyr
 
 # [[Dasyuromorphia]]
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Dasyuromorphia,213333 1]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Dasyuromorphia,213333]] 
 
 ## #has_/text_of_/abstract 
 

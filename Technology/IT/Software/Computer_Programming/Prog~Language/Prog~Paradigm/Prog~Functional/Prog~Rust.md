@@ -65,7 +65,7 @@ platform:
   - "[[_Standards/WikiData/WD~cross_platform,174666]]"
   - "[[_Standards/WikiData/WD~WebAssembly,20155677]]"
   - "[[_Standards/WikiData/WD~Linux,388]]"
-  - "[[../../../../../../../WikiData/WD~Microsoft_Windows,1406 1]]"
+  - "[[../../../../../../../WikiData/WD~Microsoft_Windows,1406]]"
   - "[[../../../../../../../WikiData/WD~macOS,14116]]"
   - "[[../../../../../../../WikiData/WD~Q94,94]]"
   - "[[_Standards/WikiData/WD~Q34236,34236]]"

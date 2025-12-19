@@ -153,7 +153,7 @@ product_or_material_produced:
   - "[[_Standards/WikiData/WD~Microsoft_Servers,1071340]]"
   - "[[_Standards/WikiData/WD~Xbox,15281614]]"
   - "[[_Standards/WikiData/WD~Microsoft_Mobile,16538568]]"
-  - "[[../../../../../../../WikiData/WD~Microsoft_Windows,1406 1]]"
+  - "[[../../../../../../../WikiData/WD~Microsoft_Windows,1406]]"
   - "[[_Standards/WikiData/WD~computer_hardware,3966]]"
   - "[[_Standards/WikiData/WD~software,7397]]"
   - "[[_Standards/WikiData/WD~Q11255,11255]]"

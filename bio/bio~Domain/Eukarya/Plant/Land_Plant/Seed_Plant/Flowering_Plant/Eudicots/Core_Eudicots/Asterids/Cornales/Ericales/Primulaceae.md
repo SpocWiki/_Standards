@@ -58,7 +58,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
   - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_59(1),112869459]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Ericales,21737 1]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Ericales,21737]]"
 taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
 ITIS_TSN: "23929"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Welsh%20Primrose.jpg

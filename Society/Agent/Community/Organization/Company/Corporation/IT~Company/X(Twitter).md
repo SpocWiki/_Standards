@@ -20,7 +20,7 @@ programmed_in:
   - "[[_Standards/WikiData/WD~Q161053,161053]]"
   - "[[_Standards/WikiData/WD~Q460584,460584]]"
   - "[[_Standards/WikiData/WD~Q2005,2005]]"
-  - "[[../../../../../../../WikiData/WD~Java,251 1]]"
+  - "[[../../../../../../../WikiData/WD~Java,251]]"
 different_from:
   - "[[_Standards/WikiData/WD~Х_х,179860]]"
   - "[[_Standards/WikiData/WD~tweeter,399793]]"

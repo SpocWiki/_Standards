@@ -43,7 +43,7 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biolog
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q105496878,105496878]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-nomenclatural_type_of: "[[../../../../../../../../../../../../../WikiData/WD~Rosaceae,46299 1]]"
+nomenclatural_type_of: "[[../../../../../../../../../../../../../WikiData/WD~Rosaceae,46299]]"
 ITIS_TSN: "24807"
 Commons_category: Rosa
 taxon_name: Rosa

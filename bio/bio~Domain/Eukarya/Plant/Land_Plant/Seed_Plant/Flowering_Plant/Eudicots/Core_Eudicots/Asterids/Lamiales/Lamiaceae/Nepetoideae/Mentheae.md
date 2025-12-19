@@ -13,7 +13,7 @@ UMLS_CUI: C1229036
 
 # [[Mentheae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Mentheae,7638745 1|WD~Mentheae,7638745 1]]  
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Mentheae,7638745|WD~Mentheae,7638745]]  
 
 ## #has_/text_of_/abstract 
 

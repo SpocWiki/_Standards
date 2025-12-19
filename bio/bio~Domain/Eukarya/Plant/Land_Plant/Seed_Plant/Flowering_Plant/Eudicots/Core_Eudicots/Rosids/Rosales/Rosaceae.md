@@ -16,7 +16,7 @@ Krugosvet_article: biologiya/rozovye
 MeSH_tree_code: B01.875.800.575.912.250.859.937.500
 Montana_Plant_Life_URL: http://montana.plant-life.org/cgi-bin/family03.cgi?Rosaceae
 NBN_System_Key: NBNSYS0000160907
-parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Rosales,21895 1]]"
+parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Rosales,21895]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Rosengew%C3%A4chs.ogg
 taxonomic_type: "[[_Standards/WikiData/WD~Rosa,34687]]"
 taxon_common_name:

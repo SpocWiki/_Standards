@@ -44,7 +44,7 @@ has_edition_or_translation:
   - "[[_Standards/WikiData/WD~C23,67693987]]"
 described_by_source: "[[_Standards/WikiData/WD~ISO_IEC_9899,85547147]]"
 operating_system:
-  - "[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406 1]]"
+  - "[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406]]"
   - "[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]"
 different_from: "[[_Standards/WikiData/WD~C,9820]]"
 designed_by: "[[_Standards/WikiData/WD~Dennis_M._Ritchie,45575]]"

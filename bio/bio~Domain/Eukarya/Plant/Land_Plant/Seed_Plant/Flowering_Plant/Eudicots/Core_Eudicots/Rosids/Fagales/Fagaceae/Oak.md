@@ -37,7 +37,7 @@ MeSH_tree_code: B01.875.800.575.912.250.859.750.300.500
 NBN_System_Key: NHMSYS0000462211
 OmegaWiki_Defined_Meaning: 2597
 OpenStreetMap_tag_or_key: Tag:genus=Quercus
-parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Fagaceae,145977 1]]"
+parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Fagaceae,145977]]"
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Eiche.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Q12004-ar.ogg

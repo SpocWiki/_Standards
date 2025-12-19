@@ -25,7 +25,7 @@ main_food_source:
   - "[[_Standards/WikiData/WD~grape,10978]]"
   - "[[_Standards/WikiData/WD~berry,13184]]"
   - "[[_Standards/WikiData/WD~food_waste,18919]]"
-  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervidae,23390 1]]"
+  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervidae,23390]]"
   - "[[_Standards/WikiData/WD~European_Rabbit,25851]]"
   - "[[_Standards/WikiData/WD~Lepus_europaeus,26838]]"
   - "[[_Standards/WikiData/WD~apple,89]]"

@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q128709
 facet_of: "[[_Standards/WikiData/WD~friction,82580]]"
-studied_by: "[[../../../../WikiData/WD~rheology,271707 1]]"
+studied_by: "[[../../../../WikiData/WD~Rheology,271707]]"
 different_from: "[[_Standards/WikiData/WD~plasticity,472074]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~intensive_quantity,3387041]]"
