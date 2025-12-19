@@ -1,55 +1,58 @@
 ---
+aliases:
+  - Weizen
+has_id_wikidata: Q15645384
 Colon_Classification: J382
 Commons_category: Wheat
 Commons_gallery: Wheat
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
 Dewey_Decimal_Classification:
-- 584.9
-- 633.11
-- 641.3311
-- 664.722
-different_from: '[[_Standards/WikiData/WD~Triticum,12106]]'
-external_data_available_at_URL: "https://data.inra.fr/dataverse/root?q=wheat"
+  - 584.9
+  - 633.11
+  - 641.3311
+  - 664.722
+different_from: "[[_Standards/WikiData/WD~Triticum,12106]]"
+external_data_available_at_URL: https://data.inra.fr/dataverse/root?q=wheat
 has_effect:
-- '[[_Standards/WikiData/WD~gluten-related_disorder,1367782]]'
-- '[[_Standards/WikiData/WD~wheat_allergy,4413030]]'
-has_id_wikidata: Q15645384
+  - "[[_Standards/WikiData/WD~gluten-related_disorder,1367782]]"
+  - "[[_Standards/WikiData/WD~wheat_allergy,4413030]]"
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20close-up.JPG"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20field.jpg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20close-up.JPG
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20field.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~caryopsis,506139]]'
-- '[[_Standards/WikiData/WD~groat,1436715]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+  - "[[_Standards/WikiData/WD~caryopsis,506139]]"
+  - "[[_Standards/WikiData/WD~groat,1436715]]"
+  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PSHENITSA.html
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Triticum_aestivum,161098]]'
+natural_product_of_taxon: "[[_Standards/WikiData/WD~Triticum_aestivum,161098]]"
 OmegaWiki_Defined_Meaning: 466721
-OpenStreetMap_tag_or_key: "Tag:crop=wheat"
-part_of: '[[_Standards/WikiData/WD~Russian_cuisine,12505]]'
+OpenStreetMap_tag_or_key: Tag:crop=wheat
+part_of: "[[_Standards/WikiData/WD~Russian_cuisine,12505]]"
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Fr-bl%C3%A9%20tendre.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%97%E0%A6%AE.wav"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-bl%C3%A9%20tendre.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%97%E0%A6%AE.wav
 subclass_of:
-- '[[_Standards/WikiData/WD~food,2095]]'
-- '[[_Standards/WikiData/WD~cereal_grain,12117]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Wheat,7963158]]'
+  - "[[_Standards/WikiData/WD~food,2095]]"
+  - "[[_Standards/WikiData/WD~cereal_grain,12117]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Wheat,7963158]]"
 UNII: 4J2I0SN84Y
 water_footprint: 1827
-Wikidata_usage_instructions: "focus on agriculture here, not on taxonomy"
+Wikidata_usage_instructions: focus on agriculture here, not on taxonomy
 ---
 
 # [[Wheat]] 
 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Wheat,15645384|WD~Wheat,15645384]]
 #is_/same_as :: [[_Standards/WikiData/WD~Triticum_aestivum,161098]] 
 
 ## #has_/text_of_/abstract 

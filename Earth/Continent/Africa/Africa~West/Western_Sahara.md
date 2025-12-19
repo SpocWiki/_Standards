@@ -8,14 +8,18 @@ aliases:
   - Западная Сахара
   - 
 area: 266000
+has_id_wikidata: Q6250
 bibliography: "[[_Standards/WikiData/WD~bibliography_of_Western_Sahara,4903404]]"
+coordinates_of_westernmost_point: Point(-17.091666666 20.833333333)
+coordinate_location: Point(-13.0 25.0)
+location:
+  - 27.1536
+  - -13.2033
 category_for_people_born_here: "[[_Standards/WikiData/WD~Q18929684,18929684]]"
 Commons_category: Western Sahara
 Commons_gallery: صحراء غربية - Sahara Occidental
 confidential: public
 continent: "[[_Standards/WikiData/WD~Africa,15]]"
-coordinates_of_westernmost_point: Point(-17.091666666 20.833333333)
-coordinate_location: Point(-13.0 25.0)
 country:
   - "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
   - "[[_Standards/WikiData/WD~Spanish_Sahara,689837]]"
@@ -51,7 +55,6 @@ geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Western_Sahara,274700
 geoshape: http://commons.wikimedia.org/data/main/Data:Western+Sahara.map
 GitHub_topic: western-sahara
 HASC: EH
-has_id_wikidata: Q6250
 IAB_code: 1474
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic%20Ocean%20in%20Western%20Sahara.jpg
 INSEE_countries_and_foreign_territories_code: 99389
@@ -80,9 +83,6 @@ located_in_time_zone:
   - "[[_Standards/WikiData/WD~Africa_El_Aaiun,4689492]]"
   - "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
   - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-location:
-  - 27.1536
-  - -13.2033
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Location%20Western%20Sahara%20AU%20Africa.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Western%20Sahara%20%28orthographic%20projection%29.svg
@@ -130,14 +130,6 @@ Wolfram_Language_entity_code: Entity["Country", "WesternSahara"]
 ---
 
 # [[Western_Sahara]] 
-
-
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Western_Sahara 
-
-[[Western_Sahara/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: MAD ]
 [	ISO4217-currency_name	 :: Moroccan Dirham ]
@@ -202,10 +194,18 @@ Sub-region_Name ::  [[Northern Africa]]
 
 [	ISO3166-1-numeric	 :: 732 ]
 
-
-
 [ISO2::EH]
 [ISO3::ESH]
+
+#is_/same_as :: [[../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Western_Sahara 
+
+[[Western_Sahara/ReadMe]] 
+
+## #has_/map 
+
 ```leaflet
 id: Western Sahara
 zoomFeatures: true 
@@ -213,7 +213,10 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Western_Sahara//
 markerFolder: ./Western_Sahara//
+coordinates: [[Western_Sahara]] 
+markerFile: [[Western_Sahara]] 
 ```
+
 
 [name-en::Western Sahara]
 [name-de::Western Sahara]

@@ -86,12 +86,16 @@ UMLS_CUI: C0007896
 
 # [[Whale]] 
 
-
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Cetacea,160|WD~Cetacea,160]]  
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Whale,1865281|WD~Whale,1865281]] 
+
+`Whale` is an informal and [colloquial](https://en.wikipedia.org/wiki/Colloquialism "Colloquialism") grouping; 
+they correspond to large members of the infraorder [Cetacea](https://en.wikipedia.org/wiki/Cetacea "Cetacea"), 
+i.e. **all cetaceans apart from** [dolphins](https://en.wikipedia.org/wiki/Dolphin "Dolphin") and [porpoises](https://en.wikipedia.org/wiki/Porpoise "Porpoise").
 
 ## #has_/text_of_/abstract 
 
-> **Cetacea** (; from Latin  cetus 'whale', from Ancient Greek  κῆτος (kêtos) 'huge fish, sea monster') 
+> **Cetacea** (from Latin  cetus 'whale', from Ancient Greek  κῆτος (kêtos) 'huge fish, sea monster') 
 > is an infraorder of aquatic mammals belonging to the order Artiodactyla 
 > that includes whales, dolphins and porpoises. 
 > 

@@ -6,7 +6,7 @@ title: Alcelaphinae
 
 ## hartebeests, wildebeests, and sassabies 
 
-![White-bearded Gnu or Wildebeest](Alcelaphinae/Wildebeast/Wildebeast.jpg) 
+![White-bearded Gnu or Wildebeest](Alcelaphinae/Wildebeest/Wildebeast.jpg) 
 
 ## #has_/text_of_/abstract 
 

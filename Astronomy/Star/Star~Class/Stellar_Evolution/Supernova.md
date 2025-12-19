@@ -37,6 +37,22 @@ Dewey_Decimal_Classification: "523.84465"
 
 #is_/same_as :: [[../../../../WikiData/WD~Supernova,3937|WD~Supernova,3937]] 
 
+| Feature                    | Type Ia                       | Type II                          | Type Ib / Ic                                | Pair-instability            |
+| -------------------------- | ----------------------------- | -------------------------------- | ------------------------------------------- | --------------------------- |
+| Name                       | Thermonuclear                 | Core-collapse                    | Stripped-envelope                           | e-p-Pairs                   |
+| Initial mass               | 3 – 8 M☉ progenitor in binary | 8 – 40 M☉                        | 10 – 40 M☉                                  | 140 – 260 M☉                |
+| Progenitor system          | White dwarf + companion       | Single massive star              | Massive star with envelope loss             | Single very massive star    |
+| Trigger mechanism          | Carbon runaway fusion         | Iron-core gravitational collapse | Iron-core collapse after envelope stripping | Pair production instability |
+| Core at trigger            | Carbon–oxygen                 | Iron                             | Iron                                        | Oxygen                      |
+| Peak core temperature      | ~ 5.0 × 10⁹ K                 | ~ 1.0 × 10¹⁰ K                   | ~ 1.0 × 10¹⁰ K                              | 1.0 × 10⁹ – 3.0 × 10⁹ K     |
+| Explosion energy           | ~ 1.0 × 10⁴⁴ J                | ~ 1.0 × 10⁴⁴ J                   | ~ 1.0 × 10⁴⁴ J                              | 1.0 × 10⁴⁴ – 1.0 × 10⁴⁵ J   |
+| Compact remnant            | None                          | Neutron star or black hole       | Neutron star or black hole                  | None                        |
+| Mass ejected%              | 100                           | 60 – 95                          | 70 – 98                                     | 100                         |
+| Hydrogen lines in spectrum | Absent                        | Present                          | Absent                                      | Absent                      |
+| peak luminosity            | ~ 1.0 × 10³⁷ W                | ~ 1.0 × 10³⁶ W                   | ~ 1.0 × 10³⁶ W                              | ~ 1.0 × 10³⁷ W              |
+| light-curve duration / d   | 20 – 40                       | 80 – 120                         | 40 – 80                                     | 100 – 300                   |
+| cosmic / %                 | 30                            | 70                               | 20                                          | 0.1                         |
+
 ## #has_/text_of_/abstract 
 
 > A **Supernova** (pl.: supernovae or supernovas) is a powerful and luminous explosion of a star. 

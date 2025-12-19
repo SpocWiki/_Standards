@@ -31,7 +31,7 @@ Tags: #IT #URL
 
 Media License by the [[../CC-Licenses]] . 
 Used by: 
-- [[Data/Wikipedia]]
+- [[../../../Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia]]
 - [[SpocWiki]] 
 
 Several perceived obstacles of this License proved to be beneficial in data sanity: 

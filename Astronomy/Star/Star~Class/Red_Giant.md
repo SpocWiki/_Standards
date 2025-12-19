@@ -11,7 +11,7 @@ Commons_category: Red giants
 
 #is_/same_as :: [[WD~Red_giant,50081]] 
 
-A Star powered by fusion of hydrogen in shell with an inactive core of helium
+A Star powered by fusion of hydrogen in shell with an inactive core of helium.
 
 ## #has_/text_of_/abstract 
 

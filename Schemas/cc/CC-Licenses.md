@@ -36,7 +36,7 @@ Tags: #IT #URL #license
 
 Examples: 
 - [[CC-Licenses/CC-0]] the most permissive  
-- [[CC-Licenses/CC-BY-SA]] used by [[Wikipedia]] 
+- [[CC-Licenses/CC-BY-SA]] used by [[../../Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia]] 
 
 
 #has_/license_/CC/-BY/-SA/-NC
