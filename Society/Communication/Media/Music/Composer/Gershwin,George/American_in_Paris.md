@@ -3,6 +3,9 @@ aliases:
 - "An American in Paris"
 ---
 
+# [[American_in_Paris]] 
+
+
 ## #has_/text_of_/abstract 
 
 > **An American in Paris** is a jazz-influenced symphonic poem (or tone poem) for orchestra 
