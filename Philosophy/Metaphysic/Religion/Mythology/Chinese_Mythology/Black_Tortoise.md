@@ -1,5 +1,7 @@
 ---
-aliases: 
+aliases:
+  - Black Tortoise
+  - Xuanwu
 has_id_wikidata: Q125696
 followed_by: "[[_Standards/WikiData/WD~Azure_Dragon,515882]]"
 follows: "[[_Standards/WikiData/WD~White_Tiger,1072455]]"

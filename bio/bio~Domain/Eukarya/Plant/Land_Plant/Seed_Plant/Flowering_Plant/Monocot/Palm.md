@@ -70,7 +70,7 @@ in most groups.
     -   [Pandanales](Pandanales.md)
     -   [Dioscoreales](Dioscoreales.md)
     -   Arecanae
-    -   [Zingiberanae](Zingiberanae.md)
+    -   [Zingiberales](Zingiberales.md)
     -   [Commelinanae](Commelinids/Commelinanae.md)
 
 -   » Sub-Groups 

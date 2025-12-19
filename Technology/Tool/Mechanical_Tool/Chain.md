@@ -42,7 +42,7 @@ Unicode_character: ⛓
 ## #has_/text_of_/abstract 
 
 > A **Chain** is a serial assembly of connected pieces, called links, typically made of metal, 
-> with an overall character similar to that of a [[Fastening/Rope]] 
+> with an overall character similar to that of a [[Fastener/Rope]] 
 > in that it is flexible and curved in compression but linear, rigid, and load-bearing in tension. 
 > 
 > A chain may consist of two or more links. Chains can be classified by their design, which can be dictated by their use:
