@@ -1,11 +1,12 @@
 ---
 aliases:
   - Yangtze River
-  - Yangtze 
+  - Yangtze
   - Yangzi
   - 长江
   - 長江
   - Cháng Jiāng
+has_id_wikidata: Q5413
 basin_country:
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 Commons_category: Yangtze River
@@ -28,7 +29,6 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 discharge: 31900
 drainage_basin: "[[_Standards/WikiData/WD~Yangtze_River_basin,15758768]]"
-has_id_wikidata: Q5413
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Qutang%20Gorge%20on%20Changjiang.jpg
 instance_of: "[[_Standards/WikiData/WD~river,4022]]"
 lake_on_watercourse:
@@ -105,6 +105,22 @@ Wolfram_Language_entity_code: Entity["River", "Yangtze::wqwy2"]
 # [[Yangtze_River]] 
 
 #is_/longer_than :: [[Yellow_River]]  
+#is_/same_as :: [[../../../../../WikiData/WD~Yangtze,5413|WD~Yangtze,5413]] 
+
+## #has_/map 
+
+
+```leaflet
+id: Darmstadt
+geojsonFolder: ./Darmstadt/
+markerFolder: ./Darmstadt/
+coordinates: [[Darmstadt]] 
+markerFile: [[Darmstadt]] 
+zoomFeatures: true
+defaultZoom: 11 
+maxZoom: 18
+minZoom: 6
+```
 
 ## #has_/text_of_/abstract 
 

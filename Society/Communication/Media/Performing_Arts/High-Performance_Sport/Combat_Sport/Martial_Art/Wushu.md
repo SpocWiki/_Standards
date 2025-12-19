@@ -1,0 +1,52 @@
+---
+aliases:
+  - kung fu
+  - 功夫
+  - 國術
+  - 武術
+has_id_wikidata: Q3479346
+subclass_of:
+  - "[[_Standards/WikiData/WD~Chinese_martial_arts,3705105]]"
+  - "[[_Standards/WikiData/WD~combat_sport,7128792]]"
+different_from: "[[_Standards/WikiData/WD~Wushu,9378882]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q10927305,10927305]]"
+practiced_by: "[[_Standards/WikiData/WD~wushu_practitioner,65924683]]"
+country_of_origin:
+  - "[[_Standards/WikiData/WD~China,29520]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0%20%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B%20%D0%BA%D1%83%D0%BD%D0%B3-%D1%84%D1%83%20%D0%B2%20%D0%9E%D0%90%D0%AD%20%28%D0%A5%D0%B0%D0%BD%20%D0%B8%20%D0%A2%D0%BE%D0%BD%D0%B8%20%D0%A1%D1%8E%D1%8D%29.jpg
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Wushu%20pictogram.svg
+IPTC_NewsCode: mediatopic/20001102
+Commons_category: Wushu
+Commons_gallery: Wushu (sport)
+---
+
+# [[Wushu]] 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Wushu,3479346|WD~Wushu,3479346]]   
+
+## #has_/text_of_/abstract 
+
+> Chinese martial arts, commonly referred to with umbrella terms 
+> - kung fu (Chinese: 功夫; pinyin: gōngfu; Jyutping: gung1 fu1; Cantonese Yale: gūng fū), 
+> - kuoshu (Chinese: 國術; pinyin: guóshù; Jyutping: gwok3 seot6) or 
+> - **Wushu** (Chinese: 武術; pinyin: wǔshù; Jyutping: mou5 seot6), 
+> are multiple fighting styles that have developed over the centuries in Greater China. 
+> 
+> These fighting styles are often classified according to common traits, 
+> identified as "families" of martial arts. 
+> 
+> Examples of such traits include 
+> Shaolinquan  (少林拳) physical exercises involving Five Animals (五形) mimicry 
+> or training methods inspired by Old Chinese philosophies, religions and legends. 
+> 
+> Styles that focus on qi manipulation are called internal (内家拳; nèijiāquán), 
+> while others that concentrate on improving muscle and cardiovascular fitness 
+> are called external (外家拳; wàijiāquán). 
+> 
+> Geographical associations, as in northern (北拳; běiquán) and southern (南拳; nánquán), 
+> is another popular classification method.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Chinese%20martial%20arts) 
+
