@@ -1,19 +1,66 @@
 ---
 title: Zygomycota
+has_id_wikidata: Q215384
+taxon_rank: "[[_Standards/WikiData/WD~division,334460]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+parent_taxon: "[[_Standards/WikiData/WD~Eomycota,23674661]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+ITIS_TSN: "936291"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Mucor%20spec.%20-%20Lindsey%201a.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Phycomyces.JPG
+EPPO_Code: 1ZYGOP
+Commons_category: Zygomycota
+taxon_name: Zygomycota
+NBN_System_Key: BMSSYS0000052700
 ---
 
 # [[Zygomycota]]
 
 #is_a/bio-Phylum  
 #is_a :: [[../../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
+#is_/same_as :: [[../../../../WikiData/WD~Zygomycota,215384|WD~Zygomycota,215384]] 
 
 ## Microscopic \'Pin\' or \'Sugar\' Molds 
-
-[Timothy Y. James and Kerry O\'Donnell]()
 
 ![](Zygomycota/Pilobolus_kleinii1.jpg)
 ![](Zygomycota/Entomophthora2.jpg)
 ![](Zygomycota/Genistelloides_helicoides1.jpg)
+
+## #has_/text_of_/abstract 
+
+> **Zygomycota**, or zygote fungi, is a former division or phylum of the kingdom Fungi. 
+> The members are now part of two phyla: the Mucoromycota and Zoopagomycota. 
+> Approximately 1060 species are known. 
+> 
+> They are mostly terrestrial in habitat, living in soil or on decaying plant or animal material. 
+> 
+> Some are parasites of plants, insects, and small animals, 
+> while others form symbiotic relationships with plants. 
+> 
+> Zygomycete hyphae may be coenocytic, forming septa only 
+> where gametes are formed or to wall off dead hyphae. 
+> 
+> Zygomycota is no longer recognised as it was not believed to be truly monophyletic.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Zygomycota) 
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -  [Fungi](../Fungi.md))
+    -  [Eukarya](../../Eukarya.md))
+    -   [Tree of Life](../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Fungi
+    -  [Basidiomycota](Basidiomycota.md))
+    -  [Ascomycota](Ascomycota.md))
+    -  [Glomeromycota](Glomeromycota.md))
+    -   [Chytridiomycota](Chytridiomycota)
+    -   Zygomycota
+
+-   » Sub-Groups
+    -   [Harpellales](Harpellales)
 
 The tree shown above is based on several phylogenetic analyses of
 nuclear small subunit (SSU) ribosomal DNA (Lutzoni et al. 2004, Nagahama
@@ -23,7 +70,7 @@ al. 2004) genes. Most of the taxonomic orders are strongly supported as
 monophyletic, but relationships among them are poorly resolved.
 Monophyly of the Zygomycota remains controversial.
 
-Containing group:[Fungi](../Fungi.md))
+Containing group: [Fungi](../Fungi.md) 
 
 ### Information on the Internet
 
@@ -36,7 +83,9 @@ Containing group:[Fungi](../Fungi.md))
 -   [AFTOL: Assembling the Fungal Tree of Life. An NSF-funded project to     facilitate collaborative research in the phylogeny of     Fungi](http://ocid.nacse.org/research/aftol/).
 -   [Index Fungorum. World database on fungal     names](http://www.indexfungorum.org/Names/Names.asp).
 
+
 ## Introduction
+[Timothy Y. James and Kerry O\'Donnell]()
 
 The *Zygomycota* contains approximately 1% of the described species of
 true *Fungi* (\~900 described species; Kirk et al. 2001). The most
@@ -402,23 +451,6 @@ synapomorphy:
 zygospore:
 :   a resting spore produced by the fusion of two compatible gametangia
     (Fig. 2B).
-
-## Phylogeny 
-
--   « Ancestral Groups  
-    -  [Fungi](../Fungi.md))
-    -  [Eukarya](../../Eukarya.md))
-    -   [Tree of Life](../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Fungi
-    -  [Basidiomycota](Basidiomycota.md))
-    -  [Ascomycota](Ascomycota.md))
-    -  [Glomeromycota](Glomeromycota.md))
-    -   [Chytridiomycota](Chytridiomycota)
-    -   Zygomycota
-
--   » Sub-Groups
-    -   [Harpellales](Harpellales)
 
 ### References
 

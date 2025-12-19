@@ -53,7 +53,7 @@ Images © 1997 [William J. Hahn](mailto:wjh22@georgetown.edu)
     -   [Pandanales](Pandanales.md)
     -   [Dioscoreales](Dioscoreales.md)
     -   [Palm](../Palm.md)
-    -   [Zingiberanae](Zingiberanae.md)
+    -   [Zingiberales](../Zingiberales.md)
     -   Commelinanae
 
 -   » Sub-Groups 

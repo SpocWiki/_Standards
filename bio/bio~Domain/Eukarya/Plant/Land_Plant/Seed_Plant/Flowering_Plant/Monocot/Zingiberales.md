@@ -1,13 +1,15 @@
 ---
 title: Zingiberanae
+aliases:
+  - Zingiberanae
 ---
 
-# [[Zingiberanae]]
+# [[Zingiberales]]
 
 The bananas, gingers, and relatives. 
 
-![Heliconia](Zingiberanae/Heliconia2.jpg)
-![Ginger](Zingiberanae/Ginger2.jpg)
+![Heliconia](Zingiberales/Heliconia2.jpg)
+![Ginger](Zingiberales/Zingiberaceae/Zingiber/Ginger/Ginger.jpg)
 
 ## #has_/text_of_/abstract 
 
@@ -95,13 +97,13 @@ Morphological synapomorphies for the clade include
 
 ## Title Illustrations
 
-![Heliconia](Zingiberanae/Heliconia2.jpg))
+![Heliconia](Zingiberales/Heliconia2.jpg))
 
   ----------------
   Scientific Name ::  Heliconia
   Copyright ::         © 1997 W. John Kress and William J. Hahn
   ----------------
-![Ginger](Zingiberanae/Ginger2.jpg))
+![Ginger](Zingiberales/Zingiberaceae/Zingiber/Ginger/Ginger.jpg))
 
   ----------------
   Scientific Name ::  Zingiberaceae

@@ -37,7 +37,7 @@ title: Dioscoreales
     -   [Pandanales](Pandanales.md)
     -   Dioscoreales
     -   [Palm](Palm.md)
-    -   [Zingiberanae](Zingiberanae.md)
+    -   [Zingiberales](Zingiberales.md)
     -   [Commelinanae](Commelinids/Commelinanae.md)
 
 -   » Sub-Groups 

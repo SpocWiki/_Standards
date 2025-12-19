@@ -53,7 +53,7 @@ al, 1985; Dalgren and Bremer, 1985).
     -   [Pandanales](Pandanales.md)
     -   [Dioscoreales](Dioscoreales.md)
     -   [Palm](Palm.md)
-    -   [Zingiberanae](Zingiberanae.md)
+    -   [Zingiberales](Zingiberales.md)
     -   [Commelinanae](Commelinids/Commelinanae.md)
 
 -   » Sub-Groups 

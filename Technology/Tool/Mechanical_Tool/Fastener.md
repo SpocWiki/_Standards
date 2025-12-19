@@ -22,7 +22,7 @@ U_S_National_Archives_Identifier: "10636685"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Screws.jpg
 ---
 
-# [[Fastening]] 
+# [[Fastener]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fastener,2002016|WD~Fastener,2002016]] 
 

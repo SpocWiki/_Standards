@@ -347,13 +347,6 @@ Languages:
 
 # [[Zimbabwe]] 
 
-
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Zimbabwe 
-
-[[Zimbabwe/ReadMe]] 
-
-
 [	ISO4217-currency_alphabetic	 :: ZWL ]
 [	ISO4217-currency_name	 :: Zimbabwe Dollar ]
 [	ISO4217-currency_numeric	 :: 932 ]
@@ -421,6 +414,11 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 [ISO3::ZWE]
 
 #is_/same_as :: [[../../../../WikiData/WD~Zimbabwe,954|WD~Zimbabwe,954]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Zimbabwe 
+
+[[Zimbabwe/ReadMe]] 
 
 ## #has_/map 
 

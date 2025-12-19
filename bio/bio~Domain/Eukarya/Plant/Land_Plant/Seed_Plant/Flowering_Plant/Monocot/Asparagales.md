@@ -132,7 +132,7 @@ Copyright ::           © 2001 University of Basel, Basel, Switzerland
     -   [Pandanales](Pandanales.md)
     -   [Dioscoreales](Dioscoreales.md)
     -   [Palm](Palm.md)
-    -   [Zingiberanae](Zingiberanae.md)
+    -   [Zingiberales](Zingiberales.md)
     -   [Commelinanae](Commelinids/Commelinanae.md)
 
 -   » Sub-Groups
