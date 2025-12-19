@@ -183,8 +183,9 @@ vapor_pressure: 0
 ZVG_number: 7390
 ---
 
+# [[Yttrium]] 
+
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Yttrium,941]] 
 
 [GroupName::Group-03-Scandium]
 [Group:[[../Group-03-Scandium]]
@@ -207,9 +208,9 @@ ZVG_number: 7390
 [FormEnergy-kj-mol::363]
 (PeriodNo::5)
 (GroupNo::3)
+#is_/same_as :: [[../../../WikiData/WD~Yttrium,941]] 
 
 ## #has_/text_of_/abstract 
-
 
 > **Yttrium** is a chemical element with the symbol (Abbr::Y) and atomic number (Charge-e::39). 
 > It is a silvery-metallic transition metal chemically similar to the lanthanides 

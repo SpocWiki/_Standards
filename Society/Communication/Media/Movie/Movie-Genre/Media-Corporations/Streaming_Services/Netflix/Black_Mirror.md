@@ -6,10 +6,13 @@ aliases:
 ## #has_/text_of_/abstract 
 
 > **Black Mirror** is a British anthology television series created by Charlie Brooker. 
+> 
 > Its episodes explore a diversity of genres, but most are set in near-future dystopias 
 > with sci-fi technology—a type of speculative fiction. 
+> 
 > The series is inspired by The [[Twilight Zone]] and uses the themes of technology and media 
 > to comment on contemporary social issues. 
+> 
 > Most episodes are written by Brooker 
 > with heavy involvement by the executive producer Annabel Jones.
 >
@@ -18,8 +21,10 @@ aliases:
 > 
 > The first two series aired on the British network Channel 4 in 2011 and 2013, 
 > as did the 2014 special "White Christmas". 
+> 
 > The programme then moved to Netflix, where four further series aired in 2016, 2017, 2019 and 2023. 
 > A seventh series is set for release in 2025. 
+> 
 > Two related webisode series were produced by Netflix, 
 > and a companion book to the first four series, Inside Black Mirror, was published in 2018. 
 > Soundtracks to many episodes have been released as albums.

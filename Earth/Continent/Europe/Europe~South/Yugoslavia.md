@@ -1,20 +1,32 @@
 ---
+has_id_wikidata: Q36704
+aliases:
+  - Jugoslawien
 confidential: public
 isDeleted: false
 location:
-- 43.9957
-- 17.6905
+  - 43.9957
+  - 17.6905
 SpocWebEntityId: 27061
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 
+# [[Yugoslavia]] 
+
 #has_/time_/started :: 1918-12-01 
 #has_/time_/stopped  :: 1992-04-27 
+#is_/same_as :: [[../../../../WikiData/WD~Yugoslavia,36704|WD~Yugoslavia,36704]] 
 
-> **Yugoslavia** (; Serbo-Croatian: Jugoslavija / Југославија [juɡǒslaːʋija]; Slovene: Jugoslavija [juɡɔˈslàːʋija]; Macedonian: Југославија [juɡɔˈsɫavija]; lit. 'Land of the South Slavs') was a country in Southeast and Central Europe for most of the 20th century. 
-> It came into existence in 1918 following World War I, under the name of the Kingdom of Serbs, Croats and Slovenes from the merger of Kingdom of Serbia with the provisional State of Slovenes, Croats and Serbs (which was formed from territories of the former Austria-Hungary), 
+## #has_/text_of_/abstract  
+
+> **Yugoslavia** (Serbo-Croatian: Jugoslavija / Југославија [juɡǒslaːʋija]; Slovene: Jugoslavija 
+> [juɡɔˈslàːʋija]; Macedonian: Југославија [juɡɔˈsɫavija]; lit. 'Land of the South Slavs') 
+> was a country in Southeast and Central Europe for most of the 20th century. 
+> 
+> It came into existence in 1918 following World War I, under the name of the Kingdom of Serbs, 
+> Croats and Slovenes from the merger of Kingdom of Serbia with the provisional State of Slovenes, Croats and Serbs (which was formed from territories of the former Austria-Hungary), 
 > and constituted the first union of the South Slavic people as a sovereign state, following centuries in which the region had been part of the Ottoman Empire and Austria-Hungary. 
 > Peter I of Serbia was its first sovereign. 
 > The kingdom gained international recognition on 13 July 1922 at the Conference of Ambassadors in Paris. The official name of the state was changed to Kingdom of Yugoslavia on 3 October 1929.
