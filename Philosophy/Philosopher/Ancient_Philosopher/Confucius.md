@@ -174,7 +174,7 @@ to improve other's lifes and lead by example.
 The [[Analects]] 
 
 Later his teachings were made more concrete by the so-called 'Legalists', 
-namely [[Xunzi]], who wants to enforce correctness.  
+namely [[../Xunzi(Philosopher)]], who wants to enforce correctness.  
 ## #has_/text_of_/abstract 
 
 > **Confucius** (孔子; pinyin: Kǒngzǐ; lit. 'Master Kong'; c. 551 – c. 479 BCE), born Kong Qiu (孔丘) 

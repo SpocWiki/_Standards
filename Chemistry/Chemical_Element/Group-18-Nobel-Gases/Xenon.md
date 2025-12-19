@@ -61,8 +61,7 @@ UN_number: 2036
 ZVG_number: 7540
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Xenon,1106]] 
-
+# [[Xenon]] 
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
@@ -86,6 +85,8 @@ ZVG_number: 7540
 [FormEnergy-kj-mol::12.636]
 (PeriodNo::5)
 (GroupNo::18)
+
+#is_/same_as :: [[../../../WikiData/WD~Xenon,1106]] 
 
 
 
