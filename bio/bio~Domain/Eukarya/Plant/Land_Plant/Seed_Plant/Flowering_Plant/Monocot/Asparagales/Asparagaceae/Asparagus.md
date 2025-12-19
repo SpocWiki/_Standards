@@ -73,7 +73,7 @@ UNII: P3S2JWI2PA
 
 # [[Asparagus]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Asparagus,28367|WD~Asparagus,28367]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Asparagus,28367|WD~Asparagus,28367]] 
 
 ## #has_/text_of_/abstract 
 
