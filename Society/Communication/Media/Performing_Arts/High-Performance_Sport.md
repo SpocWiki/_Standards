@@ -95,7 +95,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_sports,16000501]]"
 
 # [[High-Performance_Sport]] 
 
-#is_/different_from :: [[../../../../bio/Medicine/Health/Sport|Sport]]  
+#is_/different_from :: [[../../../../bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport|Sport]]  
 #is_/same_as :: [[../../../../WikiData/WD~Sport,349|WD~Sport,349]]  
 
 ## #has_/text_of_/abstract 

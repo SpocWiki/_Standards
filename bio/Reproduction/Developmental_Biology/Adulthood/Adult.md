@@ -22,7 +22,7 @@ UMLS_CUI: C0001675
 
 # [[Adult]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Adult,80994]] 
+#is_/same_as :: [[../../../../WikiData/WD~Adult,80994]] 
 
 ## #has_/text_of_/abstract 
 

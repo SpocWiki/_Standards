@@ -85,8 +85,8 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sports,16000501]]'
 
 # [[Sport]] 
 
-#is_/different_from :: [[../../../Society/Communication/Media/Performing_Arts/High-Performance_Sport|High-Performance_Sport]] 
-#is_/same_as :: [[../../../WikiData/WD~Sport,349]] 
+#is_/different_from :: [[../../../../../Society/Communication/Media/Performing_Arts/High-Performance_Sport|High-Performance_Sport]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Sport,349]] 
 
 ## #has_/text_of_/abstract 
 
@@ -137,7 +137,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sports,16000501]]'
 > the global sporting industry is worth up to $620 billion as of 2013. 
 >
 > The world's most accessible and practised sport is running, 
-> while [[../../../Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football]] is the most popular spectator sport.
+> while [[../../../../../Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football]] is the most popular spectator sport.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sport) 
 
