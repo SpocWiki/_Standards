@@ -36,3 +36,22 @@ Commons_category: Pentagons
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pentagon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pentagon](/_Standards/Mathematics/Geometry/Geometry-2D/Pentagon.md) 
+
+### #is_/same_as :: [Pentagon.public](/_public/Mathematics/Geometry/Geometry-2D/Pentagon.public.md) 
+
+### #is_/same_as :: [Pentagon.internal](/_internal/Mathematics/Geometry/Geometry-2D/Pentagon.internal.md) 
+
+### #is_/same_as :: [Pentagon.protect](/_protect/Mathematics/Geometry/Geometry-2D/Pentagon.protect.md) 
+
+### #is_/same_as :: [Pentagon.private](/_private/Mathematics/Geometry/Geometry-2D/Pentagon.private.md) 
+
+### #is_/same_as :: [Pentagon.personal](/_personal/Mathematics/Geometry/Geometry-2D/Pentagon.personal.md) 
+
+### #is_/same_as :: [Pentagon.secret](/_secret/Mathematics/Geometry/Geometry-2D/Pentagon.secret.md)
+

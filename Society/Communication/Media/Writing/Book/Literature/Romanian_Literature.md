@@ -31,3 +31,21 @@ Commons_category: Literature of Romania
 > During the communist era, literature as well as most other aspects of life, were subjected to control and censorship by the state authorities. Nevertheless, during the same period many classical Romanian literary works were adapted into films and television series by the Romanian cinema and the Romanian television, as part of the nationalist desire of the communist party to promote Romanian culture.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Romanian%20literature) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Romanian_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Romanian_Literature.md) 
+
+### #is_/same_as :: [Romanian_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Romanian_Literature.public.md) 
+
+### #is_/same_as :: [Romanian_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Romanian_Literature.internal.md) 
+
+### #is_/same_as :: [Romanian_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Romanian_Literature.protect.md) 
+
+### #is_/same_as :: [Romanian_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Romanian_Literature.private.md) 
+
+### #is_/same_as :: [Romanian_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Romanian_Literature.personal.md) 
+
+### #is_/same_as :: [Romanian_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Romanian_Literature.secret.md)
+

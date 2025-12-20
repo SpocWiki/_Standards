@@ -81,3 +81,22 @@ applies_to_jurisdiction: http://www.wikidata.org/.well-known/genid/d85cd4d084870
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prince) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prince](/_Standards/Society/Politics/Government/Monarchy/Prince.md) 
+
+### #is_/same_as :: [Prince.public](/_public/Society/Politics/Government/Monarchy/Prince.public.md) 
+
+### #is_/same_as :: [Prince.internal](/_internal/Society/Politics/Government/Monarchy/Prince.internal.md) 
+
+### #is_/same_as :: [Prince.protect](/_protect/Society/Politics/Government/Monarchy/Prince.protect.md) 
+
+### #is_/same_as :: [Prince.private](/_private/Society/Politics/Government/Monarchy/Prince.private.md) 
+
+### #is_/same_as :: [Prince.personal](/_personal/Society/Politics/Government/Monarchy/Prince.personal.md) 
+
+### #is_/same_as :: [Prince.secret](/_secret/Society/Politics/Government/Monarchy/Prince.secret.md)
+

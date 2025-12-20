@@ -86,3 +86,22 @@ work_period_end_: 1652-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Inigo%20Jones) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jones,Inigo](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Jones,Inigo.md) 
+
+### #is_/same_as :: [Jones,Inigo.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Jones,Inigo.public.md) 
+
+### #is_/same_as :: [Jones,Inigo.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Jones,Inigo.internal.md) 
+
+### #is_/same_as :: [Jones,Inigo.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Jones,Inigo.protect.md) 
+
+### #is_/same_as :: [Jones,Inigo.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Jones,Inigo.private.md) 
+
+### #is_/same_as :: [Jones,Inigo.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Jones,Inigo.personal.md) 
+
+### #is_/same_as :: [Jones,Inigo.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Jones,Inigo.secret.md)
+

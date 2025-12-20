@@ -33,3 +33,22 @@ Commons_gallery: Optical illusion
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Optical%20illusion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Optical_Illusion](/_Standards/bio/Medicine/Anatomy/Sense/Visual_System/Optical_Illusion.md) 
+
+### #is_/same_as :: [Optical_Illusion.public](/_public/bio/Medicine/Anatomy/Sense/Visual_System/Optical_Illusion.public.md) 
+
+### #is_/same_as :: [Optical_Illusion.internal](/_internal/bio/Medicine/Anatomy/Sense/Visual_System/Optical_Illusion.internal.md) 
+
+### #is_/same_as :: [Optical_Illusion.protect](/_protect/bio/Medicine/Anatomy/Sense/Visual_System/Optical_Illusion.protect.md) 
+
+### #is_/same_as :: [Optical_Illusion.private](/_private/bio/Medicine/Anatomy/Sense/Visual_System/Optical_Illusion.private.md) 
+
+### #is_/same_as :: [Optical_Illusion.personal](/_personal/bio/Medicine/Anatomy/Sense/Visual_System/Optical_Illusion.personal.md) 
+
+### #is_/same_as :: [Optical_Illusion.secret](/_secret/bio/Medicine/Anatomy/Sense/Visual_System/Optical_Illusion.secret.md)
+

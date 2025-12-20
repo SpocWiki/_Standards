@@ -54,3 +54,22 @@ on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Debt%20bondage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Debt_Bondage](/_Standards/Society/Social_Issues/Debt_Bondage.md) 
+
+### #is_/same_as :: [Debt_Bondage.public](/_public/Society/Social_Issues/Debt_Bondage.public.md) 
+
+### #is_/same_as :: [Debt_Bondage.internal](/_internal/Society/Social_Issues/Debt_Bondage.internal.md) 
+
+### #is_/same_as :: [Debt_Bondage.protect](/_protect/Society/Social_Issues/Debt_Bondage.protect.md) 
+
+### #is_/same_as :: [Debt_Bondage.private](/_private/Society/Social_Issues/Debt_Bondage.private.md) 
+
+### #is_/same_as :: [Debt_Bondage.personal](/_personal/Society/Social_Issues/Debt_Bondage.personal.md) 
+
+### #is_/same_as :: [Debt_Bondage.secret](/_secret/Society/Social_Issues/Debt_Bondage.secret.md)
+

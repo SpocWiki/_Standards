@@ -42,17 +42,17 @@ Specifies that a refund can be done as an exchange for the same product.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Exchange_Refund](Exchange_Refund.md) 
+### #is_/same_as :: [Exchange_Refund](/_Standards/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.md) 
 
-### #is_/same_as :: [exchange_refund.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.public.md) 
+### #is_/same_as :: [Exchange_Refund.public](/_public/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.public.md) 
 
-### #is_/same_as :: [exchange_refund.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.internal.md) 
+### #is_/same_as :: [Exchange_Refund.internal](/_internal/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.internal.md) 
 
-### #is_/same_as :: [exchange_refund.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.protect.md) 
+### #is_/same_as :: [Exchange_Refund.protect](/_protect/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.protect.md) 
 
-### #is_/same_as :: [exchange_refund.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.private.md) 
+### #is_/same_as :: [Exchange_Refund.private](/_private/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.private.md) 
 
-### #is_/same_as :: [exchange_refund.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.personal.md) 
+### #is_/same_as :: [Exchange_Refund.personal](/_personal/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.personal.md) 
 
-### #is_/same_as :: [exchange_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.secret.md)
+### #is_/same_as :: [Exchange_Refund.secret](/_secret/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.secret.md)
 

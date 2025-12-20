@@ -41,17 +41,17 @@ Any offered product or service. For example: a pair of shoes; a concert ticket; 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Product](Product.md) 
+### #is_/same_as :: [Product](/_Standards/Society/Agent/Community/Organization/Business/Product.md) 
 
-### #is_/same_as :: [product.public](/_public/schema-org/Class/is_a_/product.public.md) 
+### #is_/same_as :: [Product.public](/_public/Society/Agent/Community/Organization/Business/Product.public.md) 
 
-### #is_/same_as :: [product.internal](/_internal/schema-org/Class/is_a_/product.internal.md) 
+### #is_/same_as :: [Product.internal](/_internal/Society/Agent/Community/Organization/Business/Product.internal.md) 
 
-### #is_/same_as :: [product.protect](/_protect/schema-org/Class/is_a_/product.protect.md) 
+### #is_/same_as :: [Product.protect](/_protect/Society/Agent/Community/Organization/Business/Product.protect.md) 
 
-### #is_/same_as :: [product.private](/_private/schema-org/Class/is_a_/product.private.md) 
+### #is_/same_as :: [Product.private](/_private/Society/Agent/Community/Organization/Business/Product.private.md) 
 
-### #is_/same_as :: [product.personal](/_personal/schema-org/Class/is_a_/product.personal.md) 
+### #is_/same_as :: [Product.personal](/_personal/Society/Agent/Community/Organization/Business/Product.personal.md) 
 
-### #is_/same_as :: [product.secret](/_secret/schema-org/Class/is_a_/product.secret.md)
+### #is_/same_as :: [Product.secret](/_secret/Society/Agent/Community/Organization/Business/Product.secret.md)
 

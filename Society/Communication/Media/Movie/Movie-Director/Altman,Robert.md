@@ -92,3 +92,22 @@ date_of_birth: 1925-02-20T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Altman) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Altman,Robert](/_Standards/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.md) 
+
+### #is_/same_as :: [Altman,Robert.public](/_public/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.public.md) 
+
+### #is_/same_as :: [Altman,Robert.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.internal.md) 
+
+### #is_/same_as :: [Altman,Robert.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.protect.md) 
+
+### #is_/same_as :: [Altman,Robert.private](/_private/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.private.md) 
+
+### #is_/same_as :: [Altman,Robert.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.personal.md) 
+
+### #is_/same_as :: [Altman,Robert.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.secret.md)
+

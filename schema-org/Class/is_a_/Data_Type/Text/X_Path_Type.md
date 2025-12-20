@@ -42,17 +42,17 @@ Text representing an XPath (typically but not necessarily version 1.0).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [x_path_type](/_Standards/schema-org/Class/is_a_/data_type/text/x_path_type.md) 
+### #is_/same_as :: [X_Path_Type](/_Standards/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.md) 
 
-### #is_/same_as :: [x_path_type.public](/_public/schema-org/Class/is_a_/data_type/text/x_path_type.public.md) 
+### #is_/same_as :: [X_Path_Type.public](/_public/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.public.md) 
 
-### #is_/same_as :: [x_path_type.internal](/_internal/schema-org/Class/is_a_/data_type/text/x_path_type.internal.md) 
+### #is_/same_as :: [X_Path_Type.internal](/_internal/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.internal.md) 
 
-### #is_/same_as :: [x_path_type.protect](/_protect/schema-org/Class/is_a_/data_type/text/x_path_type.protect.md) 
+### #is_/same_as :: [X_Path_Type.protect](/_protect/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.protect.md) 
 
-### #is_/same_as :: [x_path_type.private](/_private/schema-org/Class/is_a_/data_type/text/x_path_type.private.md) 
+### #is_/same_as :: [X_Path_Type.private](/_private/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.private.md) 
 
-### #is_/same_as :: [x_path_type.personal](/_personal/schema-org/Class/is_a_/data_type/text/x_path_type.personal.md) 
+### #is_/same_as :: [X_Path_Type.personal](/_personal/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.personal.md) 
 
-### #is_/same_as :: [x_path_type.secret](/_secret/schema-org/Class/is_a_/data_type/text/x_path_type.secret.md)
+### #is_/same_as :: [X_Path_Type.secret](/_secret/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.secret.md)
 

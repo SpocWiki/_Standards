@@ -94,3 +94,22 @@ Stack_Exchange_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jews) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jewish_People](/_Standards/Earth/Continent/Asia/Asia~West/Jewish_People.md) 
+
+### #is_/same_as :: [Jewish_People.public](/_public/Earth/Continent/Asia/Asia~West/Jewish_People.public.md) 
+
+### #is_/same_as :: [Jewish_People.internal](/_internal/Earth/Continent/Asia/Asia~West/Jewish_People.internal.md) 
+
+### #is_/same_as :: [Jewish_People.protect](/_protect/Earth/Continent/Asia/Asia~West/Jewish_People.protect.md) 
+
+### #is_/same_as :: [Jewish_People.private](/_private/Earth/Continent/Asia/Asia~West/Jewish_People.private.md) 
+
+### #is_/same_as :: [Jewish_People.personal](/_personal/Earth/Continent/Asia/Asia~West/Jewish_People.personal.md) 
+
+### #is_/same_as :: [Jewish_People.secret](/_secret/Earth/Continent/Asia/Asia~West/Jewish_People.secret.md)
+

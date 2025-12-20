@@ -39,17 +39,17 @@ A convenience store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Convenience_Store](Convenience_Store.md) 
+### #is_/same_as :: [Convenience_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Convenience_Store.md) 
 
-### #is_/same_as :: [Convenience_Store.public](/_public/Society/Organization/Local_Business/Store/Convenience_Store.public.md) 
+### #is_/same_as :: [Convenience_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Convenience_Store.public.md) 
 
-### #is_/same_as :: [Convenience_Store.internal](/_internal/Society/Organization/Local_Business/Store/Convenience_Store.internal.md) 
+### #is_/same_as :: [Convenience_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Convenience_Store.internal.md) 
 
-### #is_/same_as :: [Convenience_Store.protect](/_protect/Society/Organization/Local_Business/Store/Convenience_Store.protect.md) 
+### #is_/same_as :: [Convenience_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Convenience_Store.protect.md) 
 
-### #is_/same_as :: [Convenience_Store.private](/_private/Society/Organization/Local_Business/Store/Convenience_Store.private.md) 
+### #is_/same_as :: [Convenience_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Convenience_Store.private.md) 
 
-### #is_/same_as :: [Convenience_Store.personal](/_personal/Society/Organization/Local_Business/Store/Convenience_Store.personal.md) 
+### #is_/same_as :: [Convenience_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Convenience_Store.personal.md) 
 
-### #is_/same_as :: [Convenience_Store.secret](/_secret/Society/Organization/Local_Business/Store/Convenience_Store.secret.md)
+### #is_/same_as :: [Convenience_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Convenience_Store.secret.md)
 

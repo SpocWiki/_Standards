@@ -50,3 +50,22 @@ MeSH_tree_code: J01.576
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Secondary%20sector) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Industrial_Sector](/_Standards/Society/Economics/Industry/Industrial_Sector.md) 
+
+### #is_/same_as :: [Industrial_Sector.public](/_public/Society/Economics/Industry/Industrial_Sector.public.md) 
+
+### #is_/same_as :: [Industrial_Sector.internal](/_internal/Society/Economics/Industry/Industrial_Sector.internal.md) 
+
+### #is_/same_as :: [Industrial_Sector.protect](/_protect/Society/Economics/Industry/Industrial_Sector.protect.md) 
+
+### #is_/same_as :: [Industrial_Sector.private](/_private/Society/Economics/Industry/Industrial_Sector.private.md) 
+
+### #is_/same_as :: [Industrial_Sector.personal](/_personal/Society/Economics/Industry/Industrial_Sector.personal.md) 
+
+### #is_/same_as :: [Industrial_Sector.secret](/_secret/Society/Economics/Industry/Industrial_Sector.secret.md)
+

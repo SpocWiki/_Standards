@@ -107,3 +107,22 @@ P1015: "97020450"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Walter%20Cronkite) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cronkite,Walter](/_Standards/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.md) 
+
+### #is_/same_as :: [Cronkite,Walter.public](/_public/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.public.md) 
+
+### #is_/same_as :: [Cronkite,Walter.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.internal.md) 
+
+### #is_/same_as :: [Cronkite,Walter.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.protect.md) 
+
+### #is_/same_as :: [Cronkite,Walter.private](/_private/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.private.md) 
+
+### #is_/same_as :: [Cronkite,Walter.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.personal.md) 
+
+### #is_/same_as :: [Cronkite,Walter.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.secret.md)
+

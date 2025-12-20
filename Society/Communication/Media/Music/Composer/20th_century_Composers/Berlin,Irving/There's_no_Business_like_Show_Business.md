@@ -36,3 +36,22 @@ publication_date: 1946-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/There's%20No%20Business%20Like%20Show%20Business) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [There's_no_Business_like_Show_Business](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/There's_no_Business_like_Show_Business.md) 
+
+### #is_/same_as :: [There's_no_Business_like_Show_Business.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/There's_no_Business_like_Show_Business.public.md) 
+
+### #is_/same_as :: [There's_no_Business_like_Show_Business.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/There's_no_Business_like_Show_Business.internal.md) 
+
+### #is_/same_as :: [There's_no_Business_like_Show_Business.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/There's_no_Business_like_Show_Business.protect.md) 
+
+### #is_/same_as :: [There's_no_Business_like_Show_Business.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/There's_no_Business_like_Show_Business.private.md) 
+
+### #is_/same_as :: [There's_no_Business_like_Show_Business.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/There's_no_Business_like_Show_Business.personal.md) 
+
+### #is_/same_as :: [There's_no_Business_like_Show_Business.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/There's_no_Business_like_Show_Business.secret.md)
+

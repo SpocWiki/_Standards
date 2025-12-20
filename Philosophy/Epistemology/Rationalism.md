@@ -30,3 +30,22 @@ Commons_category: Rationalism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rationalism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rationalism](/_Standards/Philosophy/Epistemology/Rationalism.md) 
+
+### #is_/same_as :: [Rationalism.public](/_public/Philosophy/Epistemology/Rationalism.public.md) 
+
+### #is_/same_as :: [Rationalism.internal](/_internal/Philosophy/Epistemology/Rationalism.internal.md) 
+
+### #is_/same_as :: [Rationalism.protect](/_protect/Philosophy/Epistemology/Rationalism.protect.md) 
+
+### #is_/same_as :: [Rationalism.private](/_private/Philosophy/Epistemology/Rationalism.private.md) 
+
+### #is_/same_as :: [Rationalism.personal](/_personal/Philosophy/Epistemology/Rationalism.personal.md) 
+
+### #is_/same_as :: [Rationalism.secret](/_secret/Philosophy/Epistemology/Rationalism.secret.md)
+

@@ -76,3 +76,22 @@ point_in_time: 1500-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wars%20of%20the%20Roses) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1455-Wars_of_the_Roses+1487](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.md) 
+
+### #is_/same_as :: [1455-Wars_of_the_Roses+1487.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.public.md) 
+
+### #is_/same_as :: [1455-Wars_of_the_Roses+1487.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.internal.md) 
+
+### #is_/same_as :: [1455-Wars_of_the_Roses+1487.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.protect.md) 
+
+### #is_/same_as :: [1455-Wars_of_the_Roses+1487.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.private.md) 
+
+### #is_/same_as :: [1455-Wars_of_the_Roses+1487.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.personal.md) 
+
+### #is_/same_as :: [1455-Wars_of_the_Roses+1487.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.secret.md)
+

@@ -33,3 +33,22 @@ Iconclass_notation: "49E12"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Star%20chart) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Star_Chart](/_Standards/Astronomy/Astrometry/Star_Chart.md) 
+
+### #is_/same_as :: [Star_Chart.public](/_public/Astronomy/Astrometry/Star_Chart.public.md) 
+
+### #is_/same_as :: [Star_Chart.internal](/_internal/Astronomy/Astrometry/Star_Chart.internal.md) 
+
+### #is_/same_as :: [Star_Chart.protect](/_protect/Astronomy/Astrometry/Star_Chart.protect.md) 
+
+### #is_/same_as :: [Star_Chart.private](/_private/Astronomy/Astrometry/Star_Chart.private.md) 
+
+### #is_/same_as :: [Star_Chart.personal](/_personal/Astronomy/Astrometry/Star_Chart.personal.md) 
+
+### #is_/same_as :: [Star_Chart.secret](/_secret/Astronomy/Astrometry/Star_Chart.secret.md)
+

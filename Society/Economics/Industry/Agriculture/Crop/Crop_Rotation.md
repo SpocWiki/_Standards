@@ -32,3 +32,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Crop%20rotation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Crop_Rotation](/_Standards/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.md) 
+
+### #is_/same_as :: [Crop_Rotation.public](/_public/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.public.md) 
+
+### #is_/same_as :: [Crop_Rotation.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.internal.md) 
+
+### #is_/same_as :: [Crop_Rotation.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.protect.md) 
+
+### #is_/same_as :: [Crop_Rotation.private](/_private/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.private.md) 
+
+### #is_/same_as :: [Crop_Rotation.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.personal.md) 
+
+### #is_/same_as :: [Crop_Rotation.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.secret.md)
+

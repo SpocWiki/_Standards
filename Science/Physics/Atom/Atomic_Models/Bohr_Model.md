@@ -43,17 +43,17 @@ has_id_wikidata: Q172948
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bohr_Model](/_Standards/Science/Physics/Atom/Bohr_Model.md) 
+### #is_/same_as :: [Bohr_Model](/_Standards/Science/Physics/Atom/Atomic_Models/Bohr_Model.md) 
 
-### #is_/same_as :: [Bohr_Model.public](/_public/Science/Physics/Atom/Bohr_Model.public.md) 
+### #is_/same_as :: [Bohr_Model.public](/_public/Science/Physics/Atom/Atomic_Models/Bohr_Model.public.md) 
 
-### #is_/same_as :: [Bohr_Model.internal](/_internal/Science/Physics/Atom/Bohr_Model.internal.md) 
+### #is_/same_as :: [Bohr_Model.internal](/_internal/Science/Physics/Atom/Atomic_Models/Bohr_Model.internal.md) 
 
-### #is_/same_as :: [Bohr_Model.protect](/_protect/Science/Physics/Atom/Bohr_Model.protect.md) 
+### #is_/same_as :: [Bohr_Model.protect](/_protect/Science/Physics/Atom/Atomic_Models/Bohr_Model.protect.md) 
 
-### #is_/same_as :: [Bohr_Model.private](/_private/Science/Physics/Atom/Bohr_Model.private.md) 
+### #is_/same_as :: [Bohr_Model.private](/_private/Science/Physics/Atom/Atomic_Models/Bohr_Model.private.md) 
 
-### #is_/same_as :: [Bohr_Model.personal](/_personal/Science/Physics/Atom/Bohr_Model.personal.md) 
+### #is_/same_as :: [Bohr_Model.personal](/_personal/Science/Physics/Atom/Atomic_Models/Bohr_Model.personal.md) 
 
-### #is_/same_as :: [Bohr_Model.secret](/_secret/Science/Physics/Atom/Bohr_Model.secret.md)
+### #is_/same_as :: [Bohr_Model.secret](/_secret/Science/Physics/Atom/Atomic_Models/Bohr_Model.secret.md)
 

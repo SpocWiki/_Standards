@@ -32,17 +32,17 @@ has_id_wikidata: Q181296
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Commutative_Group](/_Standards/Mathematics/Algebra/Commutative_Group.md) 
+### #is_/same_as :: [Commutative_Group](/_Standards/Mathematics/Algebra/Group_Theory/Commutative_Group.md) 
 
-### #is_/same_as :: [Commutative_Group.public](/_public/Mathematics/Algebra/Commutative_Group.public.md) 
+### #is_/same_as :: [Commutative_Group.public](/_public/Mathematics/Algebra/Group_Theory/Commutative_Group.public.md) 
 
-### #is_/same_as :: [Commutative_Group.internal](/_internal/Mathematics/Algebra/Commutative_Group.internal.md) 
+### #is_/same_as :: [Commutative_Group.internal](/_internal/Mathematics/Algebra/Group_Theory/Commutative_Group.internal.md) 
 
-### #is_/same_as :: [Commutative_Group.protect](/_protect/Mathematics/Algebra/Commutative_Group.protect.md) 
+### #is_/same_as :: [Commutative_Group.protect](/_protect/Mathematics/Algebra/Group_Theory/Commutative_Group.protect.md) 
 
-### #is_/same_as :: [Commutative_Group.private](/_private/Mathematics/Algebra/Commutative_Group.private.md) 
+### #is_/same_as :: [Commutative_Group.private](/_private/Mathematics/Algebra/Group_Theory/Commutative_Group.private.md) 
 
-### #is_/same_as :: [Commutative_Group.personal](/_personal/Mathematics/Algebra/Commutative_Group.personal.md) 
+### #is_/same_as :: [Commutative_Group.personal](/_personal/Mathematics/Algebra/Group_Theory/Commutative_Group.personal.md) 
 
-### #is_/same_as :: [Commutative_Group.secret](/_secret/Mathematics/Algebra/Commutative_Group.secret.md)
+### #is_/same_as :: [Commutative_Group.secret](/_secret/Mathematics/Algebra/Group_Theory/Commutative_Group.secret.md)
 

@@ -51,3 +51,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Union%20of%20the%20Cro
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Personal%20union) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Personal_Union](/_Standards/Society/Politics/Government/Monarchy/Personal_Union.md) 
+
+### #is_/same_as :: [Personal_Union.public](/_public/Society/Politics/Government/Monarchy/Personal_Union.public.md) 
+
+### #is_/same_as :: [Personal_Union.internal](/_internal/Society/Politics/Government/Monarchy/Personal_Union.internal.md) 
+
+### #is_/same_as :: [Personal_Union.protect](/_protect/Society/Politics/Government/Monarchy/Personal_Union.protect.md) 
+
+### #is_/same_as :: [Personal_Union.private](/_private/Society/Politics/Government/Monarchy/Personal_Union.private.md) 
+
+### #is_/same_as :: [Personal_Union.personal](/_personal/Society/Politics/Government/Monarchy/Personal_Union.personal.md) 
+
+### #is_/same_as :: [Personal_Union.secret](/_secret/Society/Politics/Government/Monarchy/Personal_Union.secret.md)
+

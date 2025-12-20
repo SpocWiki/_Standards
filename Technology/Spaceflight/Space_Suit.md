@@ -22,3 +22,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Space%20suit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Space_Suit](/_Standards/Technology/Spaceflight/Space_Suit.md) 
+
+### #is_/same_as :: [Space_Suit.public](/_public/Technology/Spaceflight/Space_Suit.public.md) 
+
+### #is_/same_as :: [Space_Suit.internal](/_internal/Technology/Spaceflight/Space_Suit.internal.md) 
+
+### #is_/same_as :: [Space_Suit.protect](/_protect/Technology/Spaceflight/Space_Suit.protect.md) 
+
+### #is_/same_as :: [Space_Suit.private](/_private/Technology/Spaceflight/Space_Suit.private.md) 
+
+### #is_/same_as :: [Space_Suit.personal](/_personal/Technology/Spaceflight/Space_Suit.personal.md) 
+
+### #is_/same_as :: [Space_Suit.secret](/_secret/Technology/Spaceflight/Space_Suit.secret.md)
+

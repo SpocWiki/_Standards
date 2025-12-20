@@ -40,17 +40,17 @@ MeSH_tree_code: F01.829.401.023
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Betrayal](/_Standards/Society/Criminology/Betrayal.md) 
+### #is_/same_as :: [Betrayal](/_Standards/Society/Law/Criminal_Law/Crime/Betrayal.md) 
 
-### #is_/same_as :: [Betrayal.public](/_public/Society/Criminology/Betrayal.public.md) 
+### #is_/same_as :: [Betrayal.public](/_public/Society/Law/Criminal_Law/Crime/Betrayal.public.md) 
 
-### #is_/same_as :: [Betrayal.internal](/_internal/Society/Criminology/Betrayal.internal.md) 
+### #is_/same_as :: [Betrayal.internal](/_internal/Society/Law/Criminal_Law/Crime/Betrayal.internal.md) 
 
-### #is_/same_as :: [Betrayal.protect](/_protect/Society/Criminology/Betrayal.protect.md) 
+### #is_/same_as :: [Betrayal.protect](/_protect/Society/Law/Criminal_Law/Crime/Betrayal.protect.md) 
 
-### #is_/same_as :: [Betrayal.private](/_private/Society/Criminology/Betrayal.private.md) 
+### #is_/same_as :: [Betrayal.private](/_private/Society/Law/Criminal_Law/Crime/Betrayal.private.md) 
 
-### #is_/same_as :: [Betrayal.personal](/_personal/Society/Criminology/Betrayal.personal.md) 
+### #is_/same_as :: [Betrayal.personal](/_personal/Society/Law/Criminal_Law/Crime/Betrayal.personal.md) 
 
-### #is_/same_as :: [Betrayal.secret](/_secret/Society/Criminology/Betrayal.secret.md)
+### #is_/same_as :: [Betrayal.secret](/_secret/Society/Law/Criminal_Law/Crime/Betrayal.secret.md)
 

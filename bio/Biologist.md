@@ -94,3 +94,22 @@ UMLS_CUI: C0334861
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Biologist](/_Standards/bio/Biologist.md) 
+
+### #is_/same_as :: [Biologist.public](/_public/bio/Biologist.public.md) 
+
+### #is_/same_as :: [Biologist.internal](/_internal/bio/Biologist.internal.md) 
+
+### #is_/same_as :: [Biologist.protect](/_protect/bio/Biologist.protect.md) 
+
+### #is_/same_as :: [Biologist.private](/_private/bio/Biologist.private.md) 
+
+### #is_/same_as :: [Biologist.personal](/_personal/bio/Biologist.personal.md) 
+
+### #is_/same_as :: [Biologist.secret](/_secret/bio/Biologist.secret.md)
+

@@ -72,3 +72,22 @@ ISNI: "0000000081056014"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Emiliano%20Zapata) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zapata,Emiliano](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.md) 
+
+### #is_/same_as :: [Zapata,Emiliano.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.public.md) 
+
+### #is_/same_as :: [Zapata,Emiliano.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.internal.md) 
+
+### #is_/same_as :: [Zapata,Emiliano.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.protect.md) 
+
+### #is_/same_as :: [Zapata,Emiliano.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.private.md) 
+
+### #is_/same_as :: [Zapata,Emiliano.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.personal.md) 
+
+### #is_/same_as :: [Zapata,Emiliano.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.secret.md)
+

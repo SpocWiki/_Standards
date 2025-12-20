@@ -27,7 +27,7 @@ title: Fujientomon
 -   *Fujientomon dicestum*
 -   *Fujientomon primum*
 
-Containing group:[Sinentomata](../Sinentomata.md))
+Containing group:[Sinentomata](../Sinentomata.md))
 
 
 ## Confidential Links & Embeds: 

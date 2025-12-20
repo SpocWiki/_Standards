@@ -476,3 +476,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A8tode%20de%20Gau
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gaussian%20elimination) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gaussian_Elimination](/_Standards/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.md) 
+
+### #is_/same_as :: [Gaussian_Elimination.public](/_public/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.public.md) 
+
+### #is_/same_as :: [Gaussian_Elimination.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.internal.md) 
+
+### #is_/same_as :: [Gaussian_Elimination.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.protect.md) 
+
+### #is_/same_as :: [Gaussian_Elimination.private](/_private/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.private.md) 
+
+### #is_/same_as :: [Gaussian_Elimination.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.personal.md) 
+
+### #is_/same_as :: [Gaussian_Elimination.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.secret.md)
+

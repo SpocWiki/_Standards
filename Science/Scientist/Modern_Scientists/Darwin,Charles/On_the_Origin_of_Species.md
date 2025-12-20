@@ -134,3 +134,22 @@ Commons_category: On the Origin of Species
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/On%20the%20Origin%20of%20Species) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [On_the_Origin_of_Species](/_Standards/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.md) 
+
+### #is_/same_as :: [On_the_Origin_of_Species.public](/_public/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.public.md) 
+
+### #is_/same_as :: [On_the_Origin_of_Species.internal](/_internal/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.internal.md) 
+
+### #is_/same_as :: [On_the_Origin_of_Species.protect](/_protect/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.protect.md) 
+
+### #is_/same_as :: [On_the_Origin_of_Species.private](/_private/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.private.md) 
+
+### #is_/same_as :: [On_the_Origin_of_Species.personal](/_personal/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.personal.md) 
+
+### #is_/same_as :: [On_the_Origin_of_Species.secret](/_secret/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.secret.md)
+

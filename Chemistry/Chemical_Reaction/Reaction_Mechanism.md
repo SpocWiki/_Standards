@@ -40,3 +40,22 @@ Commons_category: Reaction mechanisms
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reaction%20mechanism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reaction_Mechanism](/_Standards/Chemistry/Chemical_Reaction/Reaction_Mechanism.md) 
+
+### #is_/same_as :: [Reaction_Mechanism.public](/_public/Chemistry/Chemical_Reaction/Reaction_Mechanism.public.md) 
+
+### #is_/same_as :: [Reaction_Mechanism.internal](/_internal/Chemistry/Chemical_Reaction/Reaction_Mechanism.internal.md) 
+
+### #is_/same_as :: [Reaction_Mechanism.protect](/_protect/Chemistry/Chemical_Reaction/Reaction_Mechanism.protect.md) 
+
+### #is_/same_as :: [Reaction_Mechanism.private](/_private/Chemistry/Chemical_Reaction/Reaction_Mechanism.private.md) 
+
+### #is_/same_as :: [Reaction_Mechanism.personal](/_personal/Chemistry/Chemical_Reaction/Reaction_Mechanism.personal.md) 
+
+### #is_/same_as :: [Reaction_Mechanism.secret](/_secret/Chemistry/Chemical_Reaction/Reaction_Mechanism.secret.md)
+

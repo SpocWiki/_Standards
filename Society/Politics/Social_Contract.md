@@ -40,3 +40,22 @@ PhilPapers_topic: social-contract
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20contract) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Contract](/_Standards/Society/Politics/Social_Contract.md) 
+
+### #is_/same_as :: [Social_Contract.public](/_public/Society/Politics/Social_Contract.public.md) 
+
+### #is_/same_as :: [Social_Contract.internal](/_internal/Society/Politics/Social_Contract.internal.md) 
+
+### #is_/same_as :: [Social_Contract.protect](/_protect/Society/Politics/Social_Contract.protect.md) 
+
+### #is_/same_as :: [Social_Contract.private](/_private/Society/Politics/Social_Contract.private.md) 
+
+### #is_/same_as :: [Social_Contract.personal](/_personal/Society/Politics/Social_Contract.personal.md) 
+
+### #is_/same_as :: [Social_Contract.secret](/_secret/Society/Politics/Social_Contract.secret.md)
+

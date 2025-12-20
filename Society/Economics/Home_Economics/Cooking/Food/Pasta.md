@@ -99,3 +99,22 @@ Wolfram_Language_entity_code: Entity["FoodType", "Pasta"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pasta) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pasta](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Pasta.md) 
+
+### #is_/same_as :: [Pasta.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Pasta.public.md) 
+
+### #is_/same_as :: [Pasta.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Pasta.internal.md) 
+
+### #is_/same_as :: [Pasta.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Pasta.protect.md) 
+
+### #is_/same_as :: [Pasta.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Pasta.private.md) 
+
+### #is_/same_as :: [Pasta.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Pasta.personal.md) 
+
+### #is_/same_as :: [Pasta.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Pasta.secret.md)
+

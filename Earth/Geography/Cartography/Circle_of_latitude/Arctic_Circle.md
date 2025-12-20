@@ -48,17 +48,17 @@ coordinate_location: Point(0.0 66.561611111)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arctic_Circle](/_Standards/Earth/Geography/Arctic_Circle.md) 
+### #is_/same_as :: [Arctic_Circle](/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.md) 
 
-### #is_/same_as :: [Arctic_Circle.public](/_public/Earth/Geography/Arctic_Circle.public.md) 
+### #is_/same_as :: [Arctic_Circle.public](/_public/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.public.md) 
 
-### #is_/same_as :: [Arctic_Circle.internal](/_internal/Earth/Geography/Arctic_Circle.internal.md) 
+### #is_/same_as :: [Arctic_Circle.internal](/_internal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.internal.md) 
 
-### #is_/same_as :: [Arctic_Circle.protect](/_protect/Earth/Geography/Arctic_Circle.protect.md) 
+### #is_/same_as :: [Arctic_Circle.protect](/_protect/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.protect.md) 
 
-### #is_/same_as :: [Arctic_Circle.private](/_private/Earth/Geography/Arctic_Circle.private.md) 
+### #is_/same_as :: [Arctic_Circle.private](/_private/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.private.md) 
 
-### #is_/same_as :: [Arctic_Circle.personal](/_personal/Earth/Geography/Arctic_Circle.personal.md) 
+### #is_/same_as :: [Arctic_Circle.personal](/_personal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.personal.md) 
 
-### #is_/same_as :: [Arctic_Circle.secret](/_secret/Earth/Geography/Arctic_Circle.secret.md)
+### #is_/same_as :: [Arctic_Circle.secret](/_secret/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.secret.md)
 

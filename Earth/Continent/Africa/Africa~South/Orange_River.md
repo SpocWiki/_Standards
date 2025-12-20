@@ -101,3 +101,22 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orange%20River) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orange_River](/_Standards/Earth/Continent/Africa/Africa~South/Orange_River.md) 
+
+### #is_/same_as :: [Orange_River.public](/_public/Earth/Continent/Africa/Africa~South/Orange_River.public.md) 
+
+### #is_/same_as :: [Orange_River.internal](/_internal/Earth/Continent/Africa/Africa~South/Orange_River.internal.md) 
+
+### #is_/same_as :: [Orange_River.protect](/_protect/Earth/Continent/Africa/Africa~South/Orange_River.protect.md) 
+
+### #is_/same_as :: [Orange_River.private](/_private/Earth/Continent/Africa/Africa~South/Orange_River.private.md) 
+
+### #is_/same_as :: [Orange_River.personal](/_personal/Earth/Continent/Africa/Africa~South/Orange_River.personal.md) 
+
+### #is_/same_as :: [Orange_River.secret](/_secret/Earth/Continent/Africa/Africa~South/Orange_River.secret.md)
+

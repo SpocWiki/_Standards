@@ -30,3 +30,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Estribos%20argentinos%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stirrup) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stirrup](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.md) 
+
+### #is_/same_as :: [Stirrup.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.public.md) 
+
+### #is_/same_as :: [Stirrup.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.internal.md) 
+
+### #is_/same_as :: [Stirrup.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.protect.md) 
+
+### #is_/same_as :: [Stirrup.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.private.md) 
+
+### #is_/same_as :: [Stirrup.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.personal.md) 
+
+### #is_/same_as :: [Stirrup.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Stirrup.secret.md)
+

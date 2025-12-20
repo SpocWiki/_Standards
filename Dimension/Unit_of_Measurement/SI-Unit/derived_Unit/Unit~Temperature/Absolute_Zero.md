@@ -57,17 +57,17 @@ temperature: 0
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Absolute_Zero](/_Standards/Unit/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.md) 
+### #is_/same_as :: [Absolute_Zero](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.md) 
 
-### #is_/same_as :: [Absolute_Zero.public](/_public/Unit/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.public.md) 
+### #is_/same_as :: [Absolute_Zero.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.public.md) 
 
-### #is_/same_as :: [Absolute_Zero.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.internal.md) 
+### #is_/same_as :: [Absolute_Zero.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.internal.md) 
 
-### #is_/same_as :: [Absolute_Zero.protect](/_protect/Unit/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.protect.md) 
+### #is_/same_as :: [Absolute_Zero.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.protect.md) 
 
-### #is_/same_as :: [Absolute_Zero.private](/_private/Unit/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.private.md) 
+### #is_/same_as :: [Absolute_Zero.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.private.md) 
 
-### #is_/same_as :: [Absolute_Zero.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.personal.md) 
+### #is_/same_as :: [Absolute_Zero.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.personal.md) 
 
-### #is_/same_as :: [Absolute_Zero.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.secret.md)
+### #is_/same_as :: [Absolute_Zero.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Absolute_Zero.secret.md)
 

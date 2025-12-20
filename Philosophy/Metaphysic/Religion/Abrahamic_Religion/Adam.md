@@ -134,17 +134,17 @@ spouse:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adam](/_Standards/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Adam.md) 
+### #is_/same_as :: [Adam](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Adam.md) 
 
-### #is_/same_as :: [Adam.public](/_public/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Adam.public.md) 
+### #is_/same_as :: [Adam.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Adam.public.md) 
 
-### #is_/same_as :: [Adam.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Adam.internal.md) 
+### #is_/same_as :: [Adam.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Adam.internal.md) 
 
-### #is_/same_as :: [Adam.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Adam.protect.md) 
+### #is_/same_as :: [Adam.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Adam.protect.md) 
 
-### #is_/same_as :: [Adam.private](/_private/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Adam.private.md) 
+### #is_/same_as :: [Adam.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Adam.private.md) 
 
-### #is_/same_as :: [Adam.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Adam.personal.md) 
+### #is_/same_as :: [Adam.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Adam.personal.md) 
 
-### #is_/same_as :: [Adam.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Adam.secret.md)
+### #is_/same_as :: [Adam.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Adam.secret.md)
 

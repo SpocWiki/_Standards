@@ -187,3 +187,22 @@ inception: 1800-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pride%20and%20Prejudice) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pride_and_Prejudice](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.md) 
+
+### #is_/same_as :: [Pride_and_Prejudice.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.public.md) 
+
+### #is_/same_as :: [Pride_and_Prejudice.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.internal.md) 
+
+### #is_/same_as :: [Pride_and_Prejudice.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.protect.md) 
+
+### #is_/same_as :: [Pride_and_Prejudice.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.private.md) 
+
+### #is_/same_as :: [Pride_and_Prejudice.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.personal.md) 
+
+### #is_/same_as :: [Pride_and_Prejudice.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.secret.md)
+

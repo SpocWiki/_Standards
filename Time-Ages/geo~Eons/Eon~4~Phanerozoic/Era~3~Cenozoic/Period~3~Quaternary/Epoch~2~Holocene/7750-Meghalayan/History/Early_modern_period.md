@@ -33,3 +33,21 @@ start_time: 1500-01-01T00:00:00Z
 > Historians in recent decades have argued that, from a worldwide standpoint, the most important feature of the early modern period was its spreading globalizing character. New economies and institutions emerged, becoming more sophisticated and globally articulated over the course of the period. The early modern period also included the rise of the dominance of mercantilism as an economic theory. Other notable trends of the period include the development of experimental science, increasingly rapid technological progress, secularized civic politics, accelerated travel due to improvements in mapping and ship design, and the emergence of nation states.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Early%20modern%20period)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Early_modern_period](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_modern_period.md) 
+
+### #is_/same_as :: [Early_modern_period.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_modern_period.public.md) 
+
+### #is_/same_as :: [Early_modern_period.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_modern_period.internal.md) 
+
+### #is_/same_as :: [Early_modern_period.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_modern_period.protect.md) 
+
+### #is_/same_as :: [Early_modern_period.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_modern_period.private.md) 
+
+### #is_/same_as :: [Early_modern_period.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_modern_period.personal.md) 
+
+### #is_/same_as :: [Early_modern_period.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_modern_period.secret.md)
+

@@ -65,3 +65,22 @@ has_id_wikidata: Q332880
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Common%20sense) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Common_Sense](/_Standards/bio/Psychology/Cognition/Common_Sense.md) 
+
+### #is_/same_as :: [Common_Sense.public](/_public/bio/Psychology/Cognition/Common_Sense.public.md) 
+
+### #is_/same_as :: [Common_Sense.internal](/_internal/bio/Psychology/Cognition/Common_Sense.internal.md) 
+
+### #is_/same_as :: [Common_Sense.protect](/_protect/bio/Psychology/Cognition/Common_Sense.protect.md) 
+
+### #is_/same_as :: [Common_Sense.private](/_private/bio/Psychology/Cognition/Common_Sense.private.md) 
+
+### #is_/same_as :: [Common_Sense.personal](/_personal/bio/Psychology/Cognition/Common_Sense.personal.md) 
+
+### #is_/same_as :: [Common_Sense.secret](/_secret/bio/Psychology/Cognition/Common_Sense.secret.md)
+

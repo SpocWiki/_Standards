@@ -47,3 +47,22 @@ subreddit: polytheism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polytheism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polytheism](/_Standards/Philosophy/Metaphysic/Religion/Polytheism.md) 
+
+### #is_/same_as :: [Polytheism.public](/_public/Philosophy/Metaphysic/Religion/Polytheism.public.md) 
+
+### #is_/same_as :: [Polytheism.internal](/_internal/Philosophy/Metaphysic/Religion/Polytheism.internal.md) 
+
+### #is_/same_as :: [Polytheism.protect](/_protect/Philosophy/Metaphysic/Religion/Polytheism.protect.md) 
+
+### #is_/same_as :: [Polytheism.private](/_private/Philosophy/Metaphysic/Religion/Polytheism.private.md) 
+
+### #is_/same_as :: [Polytheism.personal](/_personal/Philosophy/Metaphysic/Religion/Polytheism.personal.md) 
+
+### #is_/same_as :: [Polytheism.secret](/_secret/Philosophy/Metaphysic/Religion/Polytheism.secret.md)
+

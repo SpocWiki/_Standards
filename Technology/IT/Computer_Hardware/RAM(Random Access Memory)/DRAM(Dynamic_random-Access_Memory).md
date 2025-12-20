@@ -71,3 +71,22 @@ Commons_category: DRAM
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dynamic%20random-access%20memory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory)](/_Standards/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).md) 
+
+### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory).public](/_public/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).public.md) 
+
+### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory).internal](/_internal/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).internal.md) 
+
+### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory).protect](/_protect/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).protect.md) 
+
+### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory).private](/_private/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).private.md) 
+
+### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory).personal](/_personal/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).personal.md) 
+
+### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory).secret](/_secret/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).secret.md)
+

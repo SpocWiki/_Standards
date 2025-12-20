@@ -57,3 +57,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dispersion%20(optics)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Optical_Dispersion](/_Standards/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.md) 
+
+### #is_/same_as :: [Optical_Dispersion.public](/_public/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.public.md) 
+
+### #is_/same_as :: [Optical_Dispersion.internal](/_internal/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.internal.md) 
+
+### #is_/same_as :: [Optical_Dispersion.protect](/_protect/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.protect.md) 
+
+### #is_/same_as :: [Optical_Dispersion.private](/_private/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.private.md) 
+
+### #is_/same_as :: [Optical_Dispersion.personal](/_personal/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.personal.md) 
+
+### #is_/same_as :: [Optical_Dispersion.secret](/_secret/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.secret.md)
+

@@ -68,17 +68,17 @@ Colon_Classification: S:526
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fear](/_Standards/bio/Psychology/Emotion/Fear.md) 
+### #is_/same_as :: [Fear](/_Standards/bio/Psychology/Affect/Emotion/Fear.md) 
 
-### #is_/same_as :: [Fear.public](/_public/bio/Psychology/Emotion/Fear.public.md) 
+### #is_/same_as :: [Fear.public](/_public/bio/Psychology/Affect/Emotion/Fear.public.md) 
 
-### #is_/same_as :: [Fear.internal](/_internal/bio/Psychology/Emotion/Fear.internal.md) 
+### #is_/same_as :: [Fear.internal](/_internal/bio/Psychology/Affect/Emotion/Fear.internal.md) 
 
-### #is_/same_as :: [Fear.protect](/_protect/bio/Psychology/Emotion/Fear.protect.md) 
+### #is_/same_as :: [Fear.protect](/_protect/bio/Psychology/Affect/Emotion/Fear.protect.md) 
 
-### #is_/same_as :: [Fear.private](/_private/bio/Psychology/Emotion/Fear.private.md) 
+### #is_/same_as :: [Fear.private](/_private/bio/Psychology/Affect/Emotion/Fear.private.md) 
 
-### #is_/same_as :: [Fear.personal](/_personal/bio/Psychology/Emotion/Fear.personal.md) 
+### #is_/same_as :: [Fear.personal](/_personal/bio/Psychology/Affect/Emotion/Fear.personal.md) 
 
-### #is_/same_as :: [Fear.secret](/_secret/bio/Psychology/Emotion/Fear.secret.md)
+### #is_/same_as :: [Fear.secret](/_secret/bio/Psychology/Affect/Emotion/Fear.secret.md)
 

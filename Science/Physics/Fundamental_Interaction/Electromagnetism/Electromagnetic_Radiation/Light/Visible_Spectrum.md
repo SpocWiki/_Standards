@@ -35,3 +35,22 @@ Stack_Exchange_tag: https://physics.stackexchange.com/tags/visible-light
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Visible%20spectrum) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Visible_Spectrum](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.md) 
+
+### #is_/same_as :: [Visible_Spectrum.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.public.md) 
+
+### #is_/same_as :: [Visible_Spectrum.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.internal.md) 
+
+### #is_/same_as :: [Visible_Spectrum.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.protect.md) 
+
+### #is_/same_as :: [Visible_Spectrum.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.private.md) 
+
+### #is_/same_as :: [Visible_Spectrum.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.personal.md) 
+
+### #is_/same_as :: [Visible_Spectrum.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.secret.md)
+

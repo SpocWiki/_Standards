@@ -28,3 +28,22 @@ has_id_wikidata: Q8314
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cucurbitaceae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cucurbitaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae.md) 
+
+### #is_/same_as :: [Cucurbitaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae.public.md) 
+
+### #is_/same_as :: [Cucurbitaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae.internal.md) 
+
+### #is_/same_as :: [Cucurbitaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae.protect.md) 
+
+### #is_/same_as :: [Cucurbitaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae.private.md) 
+
+### #is_/same_as :: [Cucurbitaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae.personal.md) 
+
+### #is_/same_as :: [Cucurbitaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae.secret.md)
+

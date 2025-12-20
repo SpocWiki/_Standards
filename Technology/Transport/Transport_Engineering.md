@@ -42,3 +42,22 @@ Iconclass_notation: 47B212
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Transportation%20engineering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Transport_Engineering](/_Standards/Technology/Transport/Transport_Engineering.md) 
+
+### #is_/same_as :: [Transport_Engineering.public](/_public/Technology/Transport/Transport_Engineering.public.md) 
+
+### #is_/same_as :: [Transport_Engineering.internal](/_internal/Technology/Transport/Transport_Engineering.internal.md) 
+
+### #is_/same_as :: [Transport_Engineering.protect](/_protect/Technology/Transport/Transport_Engineering.protect.md) 
+
+### #is_/same_as :: [Transport_Engineering.private](/_private/Technology/Transport/Transport_Engineering.private.md) 
+
+### #is_/same_as :: [Transport_Engineering.personal](/_personal/Technology/Transport/Transport_Engineering.personal.md) 
+
+### #is_/same_as :: [Transport_Engineering.secret](/_secret/Technology/Transport/Transport_Engineering.secret.md)
+

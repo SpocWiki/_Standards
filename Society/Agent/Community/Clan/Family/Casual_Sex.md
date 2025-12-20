@@ -23,3 +23,22 @@ subclass_of: "[[_Standards/WikiData/WD~sexual_intercourse,5873]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Casual%20sex) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Casual_Sex](/_Standards/Society/Agent/Community/Clan/Family/Casual_Sex.md) 
+
+### #is_/same_as :: [Casual_Sex.public](/_public/Society/Agent/Community/Clan/Family/Casual_Sex.public.md) 
+
+### #is_/same_as :: [Casual_Sex.internal](/_internal/Society/Agent/Community/Clan/Family/Casual_Sex.internal.md) 
+
+### #is_/same_as :: [Casual_Sex.protect](/_protect/Society/Agent/Community/Clan/Family/Casual_Sex.protect.md) 
+
+### #is_/same_as :: [Casual_Sex.private](/_private/Society/Agent/Community/Clan/Family/Casual_Sex.private.md) 
+
+### #is_/same_as :: [Casual_Sex.personal](/_personal/Society/Agent/Community/Clan/Family/Casual_Sex.personal.md) 
+
+### #is_/same_as :: [Casual_Sex.secret](/_secret/Society/Agent/Community/Clan/Family/Casual_Sex.secret.md)
+

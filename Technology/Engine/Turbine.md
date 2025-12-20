@@ -43,3 +43,22 @@ Commons_category: Turbines (turbomachine component)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Turbine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Turbine](/_Standards/Technology/Engine/Turbine.md) 
+
+### #is_/same_as :: [Turbine.public](/_public/Technology/Engine/Turbine.public.md) 
+
+### #is_/same_as :: [Turbine.internal](/_internal/Technology/Engine/Turbine.internal.md) 
+
+### #is_/same_as :: [Turbine.protect](/_protect/Technology/Engine/Turbine.protect.md) 
+
+### #is_/same_as :: [Turbine.private](/_private/Technology/Engine/Turbine.private.md) 
+
+### #is_/same_as :: [Turbine.personal](/_personal/Technology/Engine/Turbine.personal.md) 
+
+### #is_/same_as :: [Turbine.secret](/_secret/Technology/Engine/Turbine.secret.md)
+

@@ -32,3 +32,22 @@ has_id_wikidata: Q169399
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/ENIAC) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ENIAC](/_Standards/Technology/IT/Computer_Hardware/Computer/ENIAC.md) 
+
+### #is_/same_as :: [ENIAC.public](/_public/Technology/IT/Computer_Hardware/Computer/ENIAC.public.md) 
+
+### #is_/same_as :: [ENIAC.internal](/_internal/Technology/IT/Computer_Hardware/Computer/ENIAC.internal.md) 
+
+### #is_/same_as :: [ENIAC.protect](/_protect/Technology/IT/Computer_Hardware/Computer/ENIAC.protect.md) 
+
+### #is_/same_as :: [ENIAC.private](/_private/Technology/IT/Computer_Hardware/Computer/ENIAC.private.md) 
+
+### #is_/same_as :: [ENIAC.personal](/_personal/Technology/IT/Computer_Hardware/Computer/ENIAC.personal.md) 
+
+### #is_/same_as :: [ENIAC.secret](/_secret/Technology/IT/Computer_Hardware/Computer/ENIAC.secret.md)
+

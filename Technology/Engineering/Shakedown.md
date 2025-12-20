@@ -25,3 +25,22 @@ It originates from nautical and industrial testing practices but has evolved in 
 | Business        | A **reorganization** or adjustment period aimed at efficiency improvement or adaptation to a new system   | “The company is going through a post-merger shakedown.”   |
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shakedown](/_Standards/Technology/Engineering/Shakedown.md) 
+
+### #is_/same_as :: [Shakedown.public](/_public/Technology/Engineering/Shakedown.public.md) 
+
+### #is_/same_as :: [Shakedown.internal](/_internal/Technology/Engineering/Shakedown.internal.md) 
+
+### #is_/same_as :: [Shakedown.protect](/_protect/Technology/Engineering/Shakedown.protect.md) 
+
+### #is_/same_as :: [Shakedown.private](/_private/Technology/Engineering/Shakedown.private.md) 
+
+### #is_/same_as :: [Shakedown.personal](/_personal/Technology/Engineering/Shakedown.personal.md) 
+
+### #is_/same_as :: [Shakedown.secret](/_secret/Technology/Engineering/Shakedown.secret.md)
+

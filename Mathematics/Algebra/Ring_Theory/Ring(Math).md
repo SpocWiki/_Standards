@@ -73,3 +73,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Ring%20(mathematics)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ring(Math)](/_Standards/Mathematics/Algebra/Ring_Theory/Ring(Math).md) 
+
+### #is_/same_as :: [Ring(Math).public](/_public/Mathematics/Algebra/Ring_Theory/Ring(Math).public.md) 
+
+### #is_/same_as :: [Ring(Math).internal](/_internal/Mathematics/Algebra/Ring_Theory/Ring(Math).internal.md) 
+
+### #is_/same_as :: [Ring(Math).protect](/_protect/Mathematics/Algebra/Ring_Theory/Ring(Math).protect.md) 
+
+### #is_/same_as :: [Ring(Math).private](/_private/Mathematics/Algebra/Ring_Theory/Ring(Math).private.md) 
+
+### #is_/same_as :: [Ring(Math).personal](/_personal/Mathematics/Algebra/Ring_Theory/Ring(Math).personal.md) 
+
+### #is_/same_as :: [Ring(Math).secret](/_secret/Mathematics/Algebra/Ring_Theory/Ring(Math).secret.md)
+

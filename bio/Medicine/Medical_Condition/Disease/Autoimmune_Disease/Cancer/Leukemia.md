@@ -104,3 +104,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leukemia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leukemia](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.md) 
+
+### #is_/same_as :: [Leukemia.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.public.md) 
+
+### #is_/same_as :: [Leukemia.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.internal.md) 
+
+### #is_/same_as :: [Leukemia.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.protect.md) 
+
+### #is_/same_as :: [Leukemia.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.private.md) 
+
+### #is_/same_as :: [Leukemia.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.personal.md) 
+
+### #is_/same_as :: [Leukemia.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.secret.md)
+

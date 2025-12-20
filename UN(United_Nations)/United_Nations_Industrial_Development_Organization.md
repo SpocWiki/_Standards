@@ -84,3 +84,22 @@ Commons_category: United Nations Industrial Development Organization
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Industrial%20Development%20Organization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [United_Nations_Industrial_Development_Organization](/_Standards/UN(United_Nations)/United_Nations_Industrial_Development_Organization.md) 
+
+### #is_/same_as :: [United_Nations_Industrial_Development_Organization.public](/_public/UN(United_Nations)/United_Nations_Industrial_Development_Organization.public.md) 
+
+### #is_/same_as :: [United_Nations_Industrial_Development_Organization.internal](/_internal/UN(United_Nations)/United_Nations_Industrial_Development_Organization.internal.md) 
+
+### #is_/same_as :: [United_Nations_Industrial_Development_Organization.protect](/_protect/UN(United_Nations)/United_Nations_Industrial_Development_Organization.protect.md) 
+
+### #is_/same_as :: [United_Nations_Industrial_Development_Organization.private](/_private/UN(United_Nations)/United_Nations_Industrial_Development_Organization.private.md) 
+
+### #is_/same_as :: [United_Nations_Industrial_Development_Organization.personal](/_personal/UN(United_Nations)/United_Nations_Industrial_Development_Organization.personal.md) 
+
+### #is_/same_as :: [United_Nations_Industrial_Development_Organization.secret](/_secret/UN(United_Nations)/United_Nations_Industrial_Development_Organization.secret.md)
+

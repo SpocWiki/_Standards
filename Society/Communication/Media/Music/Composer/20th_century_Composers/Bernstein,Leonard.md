@@ -165,3 +165,22 @@ X_Twitter_username:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leonard%20Bernstein) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bernstein,Leonard](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.md) 
+
+### #is_/same_as :: [Bernstein,Leonard.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.public.md) 
+
+### #is_/same_as :: [Bernstein,Leonard.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.internal.md) 
+
+### #is_/same_as :: [Bernstein,Leonard.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.protect.md) 
+
+### #is_/same_as :: [Bernstein,Leonard.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.private.md) 
+
+### #is_/same_as :: [Bernstein,Leonard.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.personal.md) 
+
+### #is_/same_as :: [Bernstein,Leonard.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.secret.md)
+

@@ -34,3 +34,22 @@ has_id_wikidata: Q208598
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eddy%20current) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eddy_Current](/_Standards/Science/Physics/Electricity/Current,electric/Eddy_Current.md) 
+
+### #is_/same_as :: [Eddy_Current.public](/_public/Science/Physics/Electricity/Current,electric/Eddy_Current.public.md) 
+
+### #is_/same_as :: [Eddy_Current.internal](/_internal/Science/Physics/Electricity/Current,electric/Eddy_Current.internal.md) 
+
+### #is_/same_as :: [Eddy_Current.protect](/_protect/Science/Physics/Electricity/Current,electric/Eddy_Current.protect.md) 
+
+### #is_/same_as :: [Eddy_Current.private](/_private/Science/Physics/Electricity/Current,electric/Eddy_Current.private.md) 
+
+### #is_/same_as :: [Eddy_Current.personal](/_personal/Science/Physics/Electricity/Current,electric/Eddy_Current.personal.md) 
+
+### #is_/same_as :: [Eddy_Current.secret](/_secret/Science/Physics/Electricity/Current,electric/Eddy_Current.secret.md)
+

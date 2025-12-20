@@ -28,3 +28,22 @@ subclass_of: "[[_Standards/WikiData/WD~circle_of_a_sphere,91345714]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spherical%20circle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spherical_Circle](/_Standards/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.md) 
+
+### #is_/same_as :: [Spherical_Circle.public](/_public/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.public.md) 
+
+### #is_/same_as :: [Spherical_Circle.internal](/_internal/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.internal.md) 
+
+### #is_/same_as :: [Spherical_Circle.protect](/_protect/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.protect.md) 
+
+### #is_/same_as :: [Spherical_Circle.private](/_private/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.private.md) 
+
+### #is_/same_as :: [Spherical_Circle.personal](/_personal/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.personal.md) 
+
+### #is_/same_as :: [Spherical_Circle.secret](/_secret/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.secret.md)
+

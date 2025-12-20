@@ -31,3 +31,22 @@ Commons_category: Latin-language literature
 > [Wikipedia](https://en.wikipedia.org/wiki/Latin%20literature) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Latin_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Latin_Literature.md) 
+
+### #is_/same_as :: [Latin_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Latin_Literature.public.md) 
+
+### #is_/same_as :: [Latin_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Latin_Literature.internal.md) 
+
+### #is_/same_as :: [Latin_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Latin_Literature.protect.md) 
+
+### #is_/same_as :: [Latin_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Latin_Literature.private.md) 
+
+### #is_/same_as :: [Latin_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Latin_Literature.personal.md) 
+
+### #is_/same_as :: [Latin_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Latin_Literature.secret.md)
+

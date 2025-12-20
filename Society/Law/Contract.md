@@ -75,3 +75,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Contract) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Contract](/_Standards/Society/Law/Contract.md) 
+
+### #is_/same_as :: [Contract.public](/_public/Society/Law/Contract.public.md) 
+
+### #is_/same_as :: [Contract.internal](/_internal/Society/Law/Contract.internal.md) 
+
+### #is_/same_as :: [Contract.protect](/_protect/Society/Law/Contract.protect.md) 
+
+### #is_/same_as :: [Contract.private](/_private/Society/Law/Contract.private.md) 
+
+### #is_/same_as :: [Contract.personal](/_personal/Society/Law/Contract.personal.md) 
+
+### #is_/same_as :: [Contract.secret](/_secret/Society/Law/Contract.secret.md)
+

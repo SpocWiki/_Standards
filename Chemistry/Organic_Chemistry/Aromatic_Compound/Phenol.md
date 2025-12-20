@@ -207,3 +207,22 @@ H-C()C-OH
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phenol) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Phenol](/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.md) 
+
+### #is_/same_as :: [Phenol.public](/_public/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.public.md) 
+
+### #is_/same_as :: [Phenol.internal](/_internal/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.internal.md) 
+
+### #is_/same_as :: [Phenol.protect](/_protect/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.protect.md) 
+
+### #is_/same_as :: [Phenol.private](/_private/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.private.md) 
+
+### #is_/same_as :: [Phenol.personal](/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.personal.md) 
+
+### #is_/same_as :: [Phenol.secret](/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.secret.md)
+

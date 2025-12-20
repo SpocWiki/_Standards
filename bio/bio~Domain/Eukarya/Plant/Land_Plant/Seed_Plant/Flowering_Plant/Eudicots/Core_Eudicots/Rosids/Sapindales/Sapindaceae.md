@@ -16,3 +16,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sapindaceae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sapindaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.md) 
+
+### #is_/same_as :: [Sapindaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.public.md) 
+
+### #is_/same_as :: [Sapindaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.internal.md) 
+
+### #is_/same_as :: [Sapindaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.protect.md) 
+
+### #is_/same_as :: [Sapindaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.private.md) 
+
+### #is_/same_as :: [Sapindaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.personal.md) 
+
+### #is_/same_as :: [Sapindaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae.secret.md)
+

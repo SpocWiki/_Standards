@@ -47,3 +47,22 @@ Commons_category: Wolf-Rayet stars
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wolf%E2%80%93Rayet%20star) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wolf–Rayet_Star](/_Standards/Astronomy/Star/Star~Class/Wolf–Rayet_Star.md) 
+
+### #is_/same_as :: [Wolf–Rayet_Star.public](/_public/Astronomy/Star/Star~Class/Wolf–Rayet_Star.public.md) 
+
+### #is_/same_as :: [Wolf–Rayet_Star.internal](/_internal/Astronomy/Star/Star~Class/Wolf–Rayet_Star.internal.md) 
+
+### #is_/same_as :: [Wolf–Rayet_Star.protect](/_protect/Astronomy/Star/Star~Class/Wolf–Rayet_Star.protect.md) 
+
+### #is_/same_as :: [Wolf–Rayet_Star.private](/_private/Astronomy/Star/Star~Class/Wolf–Rayet_Star.private.md) 
+
+### #is_/same_as :: [Wolf–Rayet_Star.personal](/_personal/Astronomy/Star/Star~Class/Wolf–Rayet_Star.personal.md) 
+
+### #is_/same_as :: [Wolf–Rayet_Star.secret](/_secret/Astronomy/Star/Star~Class/Wolf–Rayet_Star.secret.md)
+

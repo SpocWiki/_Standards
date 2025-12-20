@@ -71,3 +71,22 @@ Library_of_Congress_Classification: BH301.M54
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Modernism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Modernism](/_Standards/Society/Communication/Art/Art_History/Modernism.md) 
+
+### #is_/same_as :: [Modernism.public](/_public/Society/Communication/Art/Art_History/Modernism.public.md) 
+
+### #is_/same_as :: [Modernism.internal](/_internal/Society/Communication/Art/Art_History/Modernism.internal.md) 
+
+### #is_/same_as :: [Modernism.protect](/_protect/Society/Communication/Art/Art_History/Modernism.protect.md) 
+
+### #is_/same_as :: [Modernism.private](/_private/Society/Communication/Art/Art_History/Modernism.private.md) 
+
+### #is_/same_as :: [Modernism.personal](/_personal/Society/Communication/Art/Art_History/Modernism.personal.md) 
+
+### #is_/same_as :: [Modernism.secret](/_secret/Society/Communication/Art/Art_History/Modernism.secret.md)
+

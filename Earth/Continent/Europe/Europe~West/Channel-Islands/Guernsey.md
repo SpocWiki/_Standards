@@ -124,17 +124,17 @@ has_place_continent:: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guernsey](/_Standards/Earth/Continent/Europe/Europe~West/Guernsey.md) 
+### #is_/same_as :: [Guernsey](/_Standards/Earth/Continent/Europe/Europe~West/Channel-Islands/Guernsey.md) 
 
-### #is_/same_as :: [Guernsey.public](/_public/Earth/Continent/Europe/Europe~West/Guernsey.public.md) 
+### #is_/same_as :: [Guernsey.public](/_public/Earth/Continent/Europe/Europe~West/Channel-Islands/Guernsey.public.md) 
 
-### #is_/same_as :: [Guernsey.internal](/_internal/Earth/Continent/Europe/Europe~West/Guernsey.internal.md) 
+### #is_/same_as :: [Guernsey.internal](/_internal/Earth/Continent/Europe/Europe~West/Channel-Islands/Guernsey.internal.md) 
 
-### #is_/same_as :: [Guernsey.protect](/_protect/Earth/Continent/Europe/Europe~West/Guernsey.protect.md) 
+### #is_/same_as :: [Guernsey.protect](/_protect/Earth/Continent/Europe/Europe~West/Channel-Islands/Guernsey.protect.md) 
 
-### #is_/same_as :: [Guernsey.private](/_private/Earth/Continent/Europe/Europe~West/Guernsey.private.md) 
+### #is_/same_as :: [Guernsey.private](/_private/Earth/Continent/Europe/Europe~West/Channel-Islands/Guernsey.private.md) 
 
-### #is_/same_as :: [Guernsey.personal](/_personal/Earth/Continent/Europe/Europe~West/Guernsey.personal.md) 
+### #is_/same_as :: [Guernsey.personal](/_personal/Earth/Continent/Europe/Europe~West/Channel-Islands/Guernsey.personal.md) 
 
-### #is_/same_as :: [Guernsey.secret](/_secret/Earth/Continent/Europe/Europe~West/Guernsey.secret.md)
+### #is_/same_as :: [Guernsey.secret](/_secret/Earth/Continent/Europe/Europe~West/Channel-Islands/Guernsey.secret.md)
 

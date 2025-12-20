@@ -90,3 +90,22 @@ official_website: https://lindaronstadt.com/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Linda%20Ronstadt) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ronstadt,Linda](/_Standards/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.md) 
+
+### #is_/same_as :: [Ronstadt,Linda.public](/_public/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.public.md) 
+
+### #is_/same_as :: [Ronstadt,Linda.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.internal.md) 
+
+### #is_/same_as :: [Ronstadt,Linda.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.protect.md) 
+
+### #is_/same_as :: [Ronstadt,Linda.private](/_private/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.private.md) 
+
+### #is_/same_as :: [Ronstadt,Linda.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.personal.md) 
+
+### #is_/same_as :: [Ronstadt,Linda.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.secret.md)
+

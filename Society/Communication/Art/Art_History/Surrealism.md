@@ -53,3 +53,22 @@ inception: 1920-01-01T00:00:00Z
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Surrealism](/_Standards/Society/Communication/Art/Art_History/Surrealism.md) 
+
+### #is_/same_as :: [Surrealism.public](/_public/Society/Communication/Art/Art_History/Surrealism.public.md) 
+
+### #is_/same_as :: [Surrealism.internal](/_internal/Society/Communication/Art/Art_History/Surrealism.internal.md) 
+
+### #is_/same_as :: [Surrealism.protect](/_protect/Society/Communication/Art/Art_History/Surrealism.protect.md) 
+
+### #is_/same_as :: [Surrealism.private](/_private/Society/Communication/Art/Art_History/Surrealism.private.md) 
+
+### #is_/same_as :: [Surrealism.personal](/_personal/Society/Communication/Art/Art_History/Surrealism.personal.md) 
+
+### #is_/same_as :: [Surrealism.secret](/_secret/Society/Communication/Art/Art_History/Surrealism.secret.md)
+

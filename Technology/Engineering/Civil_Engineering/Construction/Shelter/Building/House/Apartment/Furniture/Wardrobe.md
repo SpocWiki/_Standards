@@ -68,3 +68,22 @@ Dewey_Decimal_Classification:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wardrobe](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Wardrobe.md) 
+
+### #is_/same_as :: [Wardrobe.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Wardrobe.public.md) 
+
+### #is_/same_as :: [Wardrobe.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Wardrobe.internal.md) 
+
+### #is_/same_as :: [Wardrobe.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Wardrobe.protect.md) 
+
+### #is_/same_as :: [Wardrobe.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Wardrobe.private.md) 
+
+### #is_/same_as :: [Wardrobe.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Wardrobe.personal.md) 
+
+### #is_/same_as :: [Wardrobe.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Wardrobe.secret.md)
+

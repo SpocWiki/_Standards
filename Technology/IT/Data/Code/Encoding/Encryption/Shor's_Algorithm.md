@@ -48,3 +48,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shor's%20algorithm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shor's_Algorithm](/_Standards/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.md) 
+
+### #is_/same_as :: [Shor's_Algorithm.public](/_public/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.public.md) 
+
+### #is_/same_as :: [Shor's_Algorithm.internal](/_internal/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.internal.md) 
+
+### #is_/same_as :: [Shor's_Algorithm.protect](/_protect/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.protect.md) 
+
+### #is_/same_as :: [Shor's_Algorithm.private](/_private/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.private.md) 
+
+### #is_/same_as :: [Shor's_Algorithm.personal](/_personal/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.personal.md) 
+
+### #is_/same_as :: [Shor's_Algorithm.secret](/_secret/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.secret.md)
+

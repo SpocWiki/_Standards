@@ -40,3 +40,22 @@ Commons_category: Military organizations
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20organization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Military_Organization](/_Standards/Society/Military/Military_Organization.md) 
+
+### #is_/same_as :: [Military_Organization.public](/_public/Society/Military/Military_Organization.public.md) 
+
+### #is_/same_as :: [Military_Organization.internal](/_internal/Society/Military/Military_Organization.internal.md) 
+
+### #is_/same_as :: [Military_Organization.protect](/_protect/Society/Military/Military_Organization.protect.md) 
+
+### #is_/same_as :: [Military_Organization.private](/_private/Society/Military/Military_Organization.private.md) 
+
+### #is_/same_as :: [Military_Organization.personal](/_personal/Society/Military/Military_Organization.personal.md) 
+
+### #is_/same_as :: [Military_Organization.secret](/_secret/Society/Military/Military_Organization.secret.md)
+

@@ -19,3 +19,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/AWK)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~AWK](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~AWK.md) 
+
+### #is_/same_as :: [Prog~AWK.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~AWK.public.md) 
+
+### #is_/same_as :: [Prog~AWK.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~AWK.internal.md) 
+
+### #is_/same_as :: [Prog~AWK.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~AWK.protect.md) 
+
+### #is_/same_as :: [Prog~AWK.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~AWK.private.md) 
+
+### #is_/same_as :: [Prog~AWK.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~AWK.personal.md) 
+
+### #is_/same_as :: [Prog~AWK.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~AWK.secret.md)
+

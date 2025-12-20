@@ -26,3 +26,22 @@ has_id_wikidata: Q170219
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sake) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sake](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sake.md) 
+
+### #is_/same_as :: [Sake.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sake.public.md) 
+
+### #is_/same_as :: [Sake.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sake.internal.md) 
+
+### #is_/same_as :: [Sake.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sake.protect.md) 
+
+### #is_/same_as :: [Sake.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sake.private.md) 
+
+### #is_/same_as :: [Sake.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sake.personal.md) 
+
+### #is_/same_as :: [Sake.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sake.secret.md)
+

@@ -63,17 +63,17 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_trigonometry,7112803]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trigonometry](/_Standards/Mathematics/Trigonometry.md) 
+### #is_/same_as :: [Trigonometry](/_Standards/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry.md) 
 
-### #is_/same_as :: [Trigonometry.public](/_public/Mathematics/Trigonometry.public.md) 
+### #is_/same_as :: [Trigonometry.public](/_public/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry.public.md) 
 
-### #is_/same_as :: [Trigonometry.internal](/_internal/Mathematics/Trigonometry.internal.md) 
+### #is_/same_as :: [Trigonometry.internal](/_internal/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry.internal.md) 
 
-### #is_/same_as :: [Trigonometry.protect](/_protect/Mathematics/Trigonometry.protect.md) 
+### #is_/same_as :: [Trigonometry.protect](/_protect/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry.protect.md) 
 
-### #is_/same_as :: [Trigonometry.private](/_private/Mathematics/Trigonometry.private.md) 
+### #is_/same_as :: [Trigonometry.private](/_private/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry.private.md) 
 
-### #is_/same_as :: [Trigonometry.personal](/_personal/Mathematics/Trigonometry.personal.md) 
+### #is_/same_as :: [Trigonometry.personal](/_personal/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry.personal.md) 
 
-### #is_/same_as :: [Trigonometry.secret](/_secret/Mathematics/Trigonometry.secret.md)
+### #is_/same_as :: [Trigonometry.secret](/_secret/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry.secret.md)
 

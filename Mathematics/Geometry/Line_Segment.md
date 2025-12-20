@@ -48,3 +48,22 @@ Commons_category: Line segment
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Line%20segment) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Line_Segment](/_Standards/Mathematics/Geometry/Line_Segment.md) 
+
+### #is_/same_as :: [Line_Segment.public](/_public/Mathematics/Geometry/Line_Segment.public.md) 
+
+### #is_/same_as :: [Line_Segment.internal](/_internal/Mathematics/Geometry/Line_Segment.internal.md) 
+
+### #is_/same_as :: [Line_Segment.protect](/_protect/Mathematics/Geometry/Line_Segment.protect.md) 
+
+### #is_/same_as :: [Line_Segment.private](/_private/Mathematics/Geometry/Line_Segment.private.md) 
+
+### #is_/same_as :: [Line_Segment.personal](/_personal/Mathematics/Geometry/Line_Segment.personal.md) 
+
+### #is_/same_as :: [Line_Segment.secret](/_secret/Mathematics/Geometry/Line_Segment.secret.md)
+

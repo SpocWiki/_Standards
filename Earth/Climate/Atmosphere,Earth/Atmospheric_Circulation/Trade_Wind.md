@@ -57,3 +57,22 @@ Commons_category: Trade winds
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trade%20winds) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trade_Wind](/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.md) 
+
+### #is_/same_as :: [Trade_Wind.public](/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.public.md) 
+
+### #is_/same_as :: [Trade_Wind.internal](/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.internal.md) 
+
+### #is_/same_as :: [Trade_Wind.protect](/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.protect.md) 
+
+### #is_/same_as :: [Trade_Wind.private](/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.private.md) 
+
+### #is_/same_as :: [Trade_Wind.personal](/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.personal.md) 
+
+### #is_/same_as :: [Trade_Wind.secret](/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.secret.md)
+

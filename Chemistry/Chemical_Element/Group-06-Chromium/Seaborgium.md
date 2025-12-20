@@ -56,3 +56,22 @@ DSSTOX_compound_identifier: DTXCID501323012
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seaborgium) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Seaborgium](/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.md) 
+
+### #is_/same_as :: [Seaborgium.public](/_public/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.public.md) 
+
+### #is_/same_as :: [Seaborgium.internal](/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.internal.md) 
+
+### #is_/same_as :: [Seaborgium.protect](/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.protect.md) 
+
+### #is_/same_as :: [Seaborgium.private](/_private/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.private.md) 
+
+### #is_/same_as :: [Seaborgium.personal](/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.personal.md) 
+
+### #is_/same_as :: [Seaborgium.secret](/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.secret.md)
+

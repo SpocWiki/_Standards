@@ -26,3 +26,22 @@ Commons_category: Technological convergence
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Technological%20convergence) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Technological_Convergence](/_Standards/Technology/Technological_Convergence.md) 
+
+### #is_/same_as :: [Technological_Convergence.public](/_public/Technology/Technological_Convergence.public.md) 
+
+### #is_/same_as :: [Technological_Convergence.internal](/_internal/Technology/Technological_Convergence.internal.md) 
+
+### #is_/same_as :: [Technological_Convergence.protect](/_protect/Technology/Technological_Convergence.protect.md) 
+
+### #is_/same_as :: [Technological_Convergence.private](/_private/Technology/Technological_Convergence.private.md) 
+
+### #is_/same_as :: [Technological_Convergence.personal](/_personal/Technology/Technological_Convergence.personal.md) 
+
+### #is_/same_as :: [Technological_Convergence.secret](/_secret/Technology/Technological_Convergence.secret.md)
+

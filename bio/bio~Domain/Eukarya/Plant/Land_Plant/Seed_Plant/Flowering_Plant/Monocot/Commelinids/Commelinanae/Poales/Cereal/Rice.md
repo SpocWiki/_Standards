@@ -89,17 +89,17 @@ water_footprint:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rice](Rice.md) 
+### #is_/same_as :: [Rice](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Cereal/Rice.md) 
 
-### #is_/same_as :: [Rice.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.public.md) 
+### #is_/same_as :: [Rice.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Cereal/Rice.public.md) 
 
-### #is_/same_as :: [Rice.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.internal.md) 
+### #is_/same_as :: [Rice.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Cereal/Rice.internal.md) 
 
-### #is_/same_as :: [Rice.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.protect.md) 
+### #is_/same_as :: [Rice.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Cereal/Rice.protect.md) 
 
-### #is_/same_as :: [Rice.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.private.md) 
+### #is_/same_as :: [Rice.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Cereal/Rice.private.md) 
 
-### #is_/same_as :: [Rice.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.personal.md) 
+### #is_/same_as :: [Rice.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Cereal/Rice.personal.md) 
 
-### #is_/same_as :: [Rice.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.secret.md)
+### #is_/same_as :: [Rice.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Cereal/Rice.secret.md)
 

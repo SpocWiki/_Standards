@@ -34,3 +34,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jungle.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jungle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jungle](/_Standards/bio/Ecology/Ecosystem/Jungle.md) 
+
+### #is_/same_as :: [Jungle.public](/_public/bio/Ecology/Ecosystem/Jungle.public.md) 
+
+### #is_/same_as :: [Jungle.internal](/_internal/bio/Ecology/Ecosystem/Jungle.internal.md) 
+
+### #is_/same_as :: [Jungle.protect](/_protect/bio/Ecology/Ecosystem/Jungle.protect.md) 
+
+### #is_/same_as :: [Jungle.private](/_private/bio/Ecology/Ecosystem/Jungle.private.md) 
+
+### #is_/same_as :: [Jungle.personal](/_personal/bio/Ecology/Ecosystem/Jungle.personal.md) 
+
+### #is_/same_as :: [Jungle.secret](/_secret/bio/Ecology/Ecosystem/Jungle.secret.md)
+

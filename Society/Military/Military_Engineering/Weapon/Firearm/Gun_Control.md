@@ -22,3 +22,21 @@ Australia had on 10 massacres in 10 years before the biggest Massacre on Earth i
 - **Historical Significance**: Deadliest single modern mass shooting in Australian history. Led to sweeping gun reforms, including the **1996 National Firearms Agreement**.
 
 Since then there has been none. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gun_Control](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.md) 
+
+### #is_/same_as :: [Gun_Control.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.public.md) 
+
+### #is_/same_as :: [Gun_Control.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.internal.md) 
+
+### #is_/same_as :: [Gun_Control.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.protect.md) 
+
+### #is_/same_as :: [Gun_Control.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.private.md) 
+
+### #is_/same_as :: [Gun_Control.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.personal.md) 
+
+### #is_/same_as :: [Gun_Control.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Gun_Control.secret.md)
+

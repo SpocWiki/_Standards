@@ -37,3 +37,22 @@ Unicode_character: 🪛
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Screwdriver) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Screwdriver](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.md) 
+
+### #is_/same_as :: [Screwdriver.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.public.md) 
+
+### #is_/same_as :: [Screwdriver.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.internal.md) 
+
+### #is_/same_as :: [Screwdriver.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.protect.md) 
+
+### #is_/same_as :: [Screwdriver.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.private.md) 
+
+### #is_/same_as :: [Screwdriver.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.personal.md) 
+
+### #is_/same_as :: [Screwdriver.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.secret.md)
+

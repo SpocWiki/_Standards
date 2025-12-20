@@ -22,17 +22,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shaffer,Peter](/_Standards/Society/Communication/Media/Writing/Book/Author/Shaffer,Peter.md) 
+### #is_/same_as :: [Shaffer,Peter](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaffer,Peter.md) 
 
-### #is_/same_as :: [Shaffer,Peter.public](/_public/Society/Communication/Media/Writing/Book/Author/Shaffer,Peter.public.md) 
+### #is_/same_as :: [Shaffer,Peter.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaffer,Peter.public.md) 
 
-### #is_/same_as :: [Shaffer,Peter.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Shaffer,Peter.internal.md) 
+### #is_/same_as :: [Shaffer,Peter.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaffer,Peter.internal.md) 
 
-### #is_/same_as :: [Shaffer,Peter.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Shaffer,Peter.protect.md) 
+### #is_/same_as :: [Shaffer,Peter.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaffer,Peter.protect.md) 
 
-### #is_/same_as :: [Shaffer,Peter.private](/_private/Society/Communication/Media/Writing/Book/Author/Shaffer,Peter.private.md) 
+### #is_/same_as :: [Shaffer,Peter.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaffer,Peter.private.md) 
 
-### #is_/same_as :: [Shaffer,Peter.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Shaffer,Peter.personal.md) 
+### #is_/same_as :: [Shaffer,Peter.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaffer,Peter.personal.md) 
 
-### #is_/same_as :: [Shaffer,Peter.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Shaffer,Peter.secret.md)
+### #is_/same_as :: [Shaffer,Peter.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaffer,Peter.secret.md)
 

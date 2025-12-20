@@ -119,19 +119,20 @@ Usage guidelines:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Number)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [number](/_Standards/schema-org/Class/is_a_/data_type/number.md) 
+### #is_/same_as :: [Number](/_Standards/schema-org/Class/is_a_/Data_Type/Number.md) 
 
-### #is_/same_as :: [number.public](/_public/schema-org/Class/is_a_/data_type/number.public.md) 
+### #is_/same_as :: [Number.public](/_public/schema-org/Class/is_a_/Data_Type/Number.public.md) 
 
-### #is_/same_as :: [number.internal](/_internal/schema-org/Class/is_a_/data_type/number.internal.md) 
+### #is_/same_as :: [Number.internal](/_internal/schema-org/Class/is_a_/Data_Type/Number.internal.md) 
 
-### #is_/same_as :: [number.protect](/_protect/schema-org/Class/is_a_/data_type/number.protect.md) 
+### #is_/same_as :: [Number.protect](/_protect/schema-org/Class/is_a_/Data_Type/Number.protect.md) 
 
-### #is_/same_as :: [number.private](/_private/schema-org/Class/is_a_/data_type/number.private.md) 
+### #is_/same_as :: [Number.private](/_private/schema-org/Class/is_a_/Data_Type/Number.private.md) 
 
-### #is_/same_as :: [number.personal](/_personal/schema-org/Class/is_a_/data_type/number.personal.md) 
+### #is_/same_as :: [Number.personal](/_personal/schema-org/Class/is_a_/Data_Type/Number.personal.md) 
 
-### #is_/same_as :: [number.secret](/_secret/schema-org/Class/is_a_/data_type/number.secret.md)
+### #is_/same_as :: [Number.secret](/_secret/schema-org/Class/is_a_/Data_Type/Number.secret.md)
 

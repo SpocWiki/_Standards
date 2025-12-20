@@ -58,3 +58,22 @@ Iconclass_notation: 41A36
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roof)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Roof](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.md) 
+
+### #is_/same_as :: [Roof.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.public.md) 
+
+### #is_/same_as :: [Roof.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.internal.md) 
+
+### #is_/same_as :: [Roof.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.protect.md) 
+
+### #is_/same_as :: [Roof.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.private.md) 
+
+### #is_/same_as :: [Roof.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.personal.md) 
+
+### #is_/same_as :: [Roof.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.secret.md)
+

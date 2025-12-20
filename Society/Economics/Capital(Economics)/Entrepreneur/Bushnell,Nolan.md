@@ -69,3 +69,22 @@ name_in_native_language: Nolan Bushnell
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nolan%20Bushnell) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bushnell,Nolan](/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.md) 
+
+### #is_/same_as :: [Bushnell,Nolan.public](/_public/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.public.md) 
+
+### #is_/same_as :: [Bushnell,Nolan.internal](/_internal/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.internal.md) 
+
+### #is_/same_as :: [Bushnell,Nolan.protect](/_protect/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.protect.md) 
+
+### #is_/same_as :: [Bushnell,Nolan.private](/_private/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.private.md) 
+
+### #is_/same_as :: [Bushnell,Nolan.personal](/_personal/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.personal.md) 
+
+### #is_/same_as :: [Bushnell,Nolan.secret](/_secret/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.secret.md)
+

@@ -46,3 +46,22 @@ Commons_category: Kinematics
 > [Wikipedia](https://en.wikipedia.org/wiki/Kinematics) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kinematics](/_Standards/Science/Physics/Classical_Mechanics/Kinematics.md) 
+
+### #is_/same_as :: [Kinematics.public](/_public/Science/Physics/Classical_Mechanics/Kinematics.public.md) 
+
+### #is_/same_as :: [Kinematics.internal](/_internal/Science/Physics/Classical_Mechanics/Kinematics.internal.md) 
+
+### #is_/same_as :: [Kinematics.protect](/_protect/Science/Physics/Classical_Mechanics/Kinematics.protect.md) 
+
+### #is_/same_as :: [Kinematics.private](/_private/Science/Physics/Classical_Mechanics/Kinematics.private.md) 
+
+### #is_/same_as :: [Kinematics.personal](/_personal/Science/Physics/Classical_Mechanics/Kinematics.personal.md) 
+
+### #is_/same_as :: [Kinematics.secret](/_secret/Science/Physics/Classical_Mechanics/Kinematics.secret.md)
+

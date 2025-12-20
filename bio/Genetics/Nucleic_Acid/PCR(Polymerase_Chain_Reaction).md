@@ -46,3 +46,22 @@ Commons_category: Polymerase chain reaction
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polymerase%20chain%20reaction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [PCR(Polymerase_Chain_Reaction)](/_Standards/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).md) 
+
+### #is_/same_as :: [PCR(Polymerase_Chain_Reaction).public](/_public/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).public.md) 
+
+### #is_/same_as :: [PCR(Polymerase_Chain_Reaction).internal](/_internal/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).internal.md) 
+
+### #is_/same_as :: [PCR(Polymerase_Chain_Reaction).protect](/_protect/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).protect.md) 
+
+### #is_/same_as :: [PCR(Polymerase_Chain_Reaction).private](/_private/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).private.md) 
+
+### #is_/same_as :: [PCR(Polymerase_Chain_Reaction).personal](/_personal/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).personal.md) 
+
+### #is_/same_as :: [PCR(Polymerase_Chain_Reaction).secret](/_secret/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).secret.md)
+

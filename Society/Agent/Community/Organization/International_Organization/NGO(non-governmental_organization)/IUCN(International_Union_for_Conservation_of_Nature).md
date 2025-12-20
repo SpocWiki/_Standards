@@ -150,3 +150,22 @@ Facebook_username: iucn.org
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Union%20for%20Conservation%20of%20Nature) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [IUCN(International_Union_for_Conservation_of_Nature)](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUCN(International_Union_for_Conservation_of_Nature).md) 
+
+### #is_/same_as :: [IUCN(International_Union_for_Conservation_of_Nature).public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUCN(International_Union_for_Conservation_of_Nature).public.md) 
+
+### #is_/same_as :: [IUCN(International_Union_for_Conservation_of_Nature).internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUCN(International_Union_for_Conservation_of_Nature).internal.md) 
+
+### #is_/same_as :: [IUCN(International_Union_for_Conservation_of_Nature).protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUCN(International_Union_for_Conservation_of_Nature).protect.md) 
+
+### #is_/same_as :: [IUCN(International_Union_for_Conservation_of_Nature).private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUCN(International_Union_for_Conservation_of_Nature).private.md) 
+
+### #is_/same_as :: [IUCN(International_Union_for_Conservation_of_Nature).personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUCN(International_Union_for_Conservation_of_Nature).personal.md) 
+
+### #is_/same_as :: [IUCN(International_Union_for_Conservation_of_Nature).secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUCN(International_Union_for_Conservation_of_Nature).secret.md)
+

@@ -93,3 +93,22 @@ RIA_Novosti_reference: "55256456"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Halloween) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Halloween](/_Standards/ISO/Calendar/Halloween.md) 
+
+### #is_/same_as :: [Halloween.public](/_public/ISO/Calendar/Halloween.public.md) 
+
+### #is_/same_as :: [Halloween.internal](/_internal/ISO/Calendar/Halloween.internal.md) 
+
+### #is_/same_as :: [Halloween.protect](/_protect/ISO/Calendar/Halloween.protect.md) 
+
+### #is_/same_as :: [Halloween.private](/_private/ISO/Calendar/Halloween.private.md) 
+
+### #is_/same_as :: [Halloween.personal](/_personal/ISO/Calendar/Halloween.personal.md) 
+
+### #is_/same_as :: [Halloween.secret](/_secret/ISO/Calendar/Halloween.secret.md)
+

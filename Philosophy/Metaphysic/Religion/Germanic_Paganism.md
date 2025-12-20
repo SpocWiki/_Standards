@@ -17,3 +17,22 @@ has_id_wikidata: Q1122452
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Germanic%20paganism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Germanic_Paganism](/_Standards/Philosophy/Metaphysic/Religion/Germanic_Paganism.md) 
+
+### #is_/same_as :: [Germanic_Paganism.public](/_public/Philosophy/Metaphysic/Religion/Germanic_Paganism.public.md) 
+
+### #is_/same_as :: [Germanic_Paganism.internal](/_internal/Philosophy/Metaphysic/Religion/Germanic_Paganism.internal.md) 
+
+### #is_/same_as :: [Germanic_Paganism.protect](/_protect/Philosophy/Metaphysic/Religion/Germanic_Paganism.protect.md) 
+
+### #is_/same_as :: [Germanic_Paganism.private](/_private/Philosophy/Metaphysic/Religion/Germanic_Paganism.private.md) 
+
+### #is_/same_as :: [Germanic_Paganism.personal](/_personal/Philosophy/Metaphysic/Religion/Germanic_Paganism.personal.md) 
+
+### #is_/same_as :: [Germanic_Paganism.secret](/_secret/Philosophy/Metaphysic/Religion/Germanic_Paganism.secret.md)
+

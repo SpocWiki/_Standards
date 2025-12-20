@@ -40,17 +40,17 @@ Podiatry is the care of the human foot, especially the diagnosis and treatment o
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Podiatric](Podiatric.md) 
+### #is_/same_as :: [Podiatric](/_Standards/bio/Medicine/Medical_Business/Podiatric.md) 
 
-### #is_/same_as :: [Podiatric.public](/_public/Society/Organization/Local_Business/Medical_Business/Podiatric.public.md) 
+### #is_/same_as :: [Podiatric.public](/_public/bio/Medicine/Medical_Business/Podiatric.public.md) 
 
-### #is_/same_as :: [Podiatric.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Podiatric.internal.md) 
+### #is_/same_as :: [Podiatric.internal](/_internal/bio/Medicine/Medical_Business/Podiatric.internal.md) 
 
-### #is_/same_as :: [Podiatric.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Podiatric.protect.md) 
+### #is_/same_as :: [Podiatric.protect](/_protect/bio/Medicine/Medical_Business/Podiatric.protect.md) 
 
-### #is_/same_as :: [Podiatric.private](/_private/Society/Organization/Local_Business/Medical_Business/Podiatric.private.md) 
+### #is_/same_as :: [Podiatric.private](/_private/bio/Medicine/Medical_Business/Podiatric.private.md) 
 
-### #is_/same_as :: [Podiatric.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Podiatric.personal.md) 
+### #is_/same_as :: [Podiatric.personal](/_personal/bio/Medicine/Medical_Business/Podiatric.personal.md) 
 
-### #is_/same_as :: [Podiatric.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Podiatric.secret.md)
+### #is_/same_as :: [Podiatric.secret](/_secret/bio/Medicine/Medical_Business/Podiatric.secret.md)
 

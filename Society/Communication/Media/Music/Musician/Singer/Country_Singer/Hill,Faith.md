@@ -118,3 +118,22 @@ X_Twitter_username: FaithHill
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Faith%20Hill) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hill,Faith](/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.md) 
+
+### #is_/same_as :: [Hill,Faith.public](/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.public.md) 
+
+### #is_/same_as :: [Hill,Faith.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.internal.md) 
+
+### #is_/same_as :: [Hill,Faith.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.protect.md) 
+
+### #is_/same_as :: [Hill,Faith.private](/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.private.md) 
+
+### #is_/same_as :: [Hill,Faith.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.personal.md) 
+
+### #is_/same_as :: [Hill,Faith.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.secret.md)
+

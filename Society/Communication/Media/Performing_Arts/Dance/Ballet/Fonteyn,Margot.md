@@ -140,3 +140,22 @@ date_of_birth: 1919-05-18T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Margot%20Fonteyn) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fonteyn,Margot](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.md) 
+
+### #is_/same_as :: [Fonteyn,Margot.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.public.md) 
+
+### #is_/same_as :: [Fonteyn,Margot.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.internal.md) 
+
+### #is_/same_as :: [Fonteyn,Margot.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.protect.md) 
+
+### #is_/same_as :: [Fonteyn,Margot.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.private.md) 
+
+### #is_/same_as :: [Fonteyn,Margot.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.personal.md) 
+
+### #is_/same_as :: [Fonteyn,Margot.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.secret.md)
+

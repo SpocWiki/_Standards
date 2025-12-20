@@ -127,7 +127,7 @@ Vie Milieu, 35: 203-209.
   Scientific Name ::  Brachioteuthis sp.
   View              Ventral
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  -------------------------------------------------------------------------------
+  -------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

@@ -513,3 +513,22 @@ hashtag: barack_obama
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Barack%20Obama) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Obama,Barack](/_Standards/Earth/Continent/America~North/US~President/Obama,Barack.md) 
+
+### #is_/same_as :: [Obama,Barack.public](/_public/Earth/Continent/America~North/US~President/Obama,Barack.public.md) 
+
+### #is_/same_as :: [Obama,Barack.internal](/_internal/Earth/Continent/America~North/US~President/Obama,Barack.internal.md) 
+
+### #is_/same_as :: [Obama,Barack.protect](/_protect/Earth/Continent/America~North/US~President/Obama,Barack.protect.md) 
+
+### #is_/same_as :: [Obama,Barack.private](/_private/Earth/Continent/America~North/US~President/Obama,Barack.private.md) 
+
+### #is_/same_as :: [Obama,Barack.personal](/_personal/Earth/Continent/America~North/US~President/Obama,Barack.personal.md) 
+
+### #is_/same_as :: [Obama,Barack.secret](/_secret/Earth/Continent/America~North/US~President/Obama,Barack.secret.md)
+

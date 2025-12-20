@@ -148,3 +148,22 @@ Plex_person_key: 5d776852f59e58002189bb6a
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Truman,Harry_S](/_Standards/Earth/Continent/America~North/US~President/Truman,Harry_S.md) 
+
+### #is_/same_as :: [Truman,Harry_S.public](/_public/Earth/Continent/America~North/US~President/Truman,Harry_S.public.md) 
+
+### #is_/same_as :: [Truman,Harry_S.internal](/_internal/Earth/Continent/America~North/US~President/Truman,Harry_S.internal.md) 
+
+### #is_/same_as :: [Truman,Harry_S.protect](/_protect/Earth/Continent/America~North/US~President/Truman,Harry_S.protect.md) 
+
+### #is_/same_as :: [Truman,Harry_S.private](/_private/Earth/Continent/America~North/US~President/Truman,Harry_S.private.md) 
+
+### #is_/same_as :: [Truman,Harry_S.personal](/_personal/Earth/Continent/America~North/US~President/Truman,Harry_S.personal.md) 
+
+### #is_/same_as :: [Truman,Harry_S.secret](/_secret/Earth/Continent/America~North/US~President/Truman,Harry_S.secret.md)
+

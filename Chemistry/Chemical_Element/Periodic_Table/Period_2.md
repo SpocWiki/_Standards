@@ -36,3 +36,22 @@ has_part_s_: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Period%202%20element) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Period_2](/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_2.md) 
+
+### #is_/same_as :: [Period_2.public](/_public/Chemistry/Chemical_Element/Periodic_Table/Period_2.public.md) 
+
+### #is_/same_as :: [Period_2.internal](/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_2.internal.md) 
+
+### #is_/same_as :: [Period_2.protect](/_protect/Chemistry/Chemical_Element/Periodic_Table/Period_2.protect.md) 
+
+### #is_/same_as :: [Period_2.private](/_private/Chemistry/Chemical_Element/Periodic_Table/Period_2.private.md) 
+
+### #is_/same_as :: [Period_2.personal](/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_2.personal.md) 
+
+### #is_/same_as :: [Period_2.secret](/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_2.secret.md)
+

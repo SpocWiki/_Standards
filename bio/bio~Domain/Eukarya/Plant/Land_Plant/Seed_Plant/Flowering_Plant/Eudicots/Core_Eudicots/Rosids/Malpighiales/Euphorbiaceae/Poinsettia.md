@@ -84,3 +84,22 @@ taxon_author_citation: Willd. ex Klotzsch
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poinsettia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Poinsettia](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Euphorbiaceae/Poinsettia.md) 
+
+### #is_/same_as :: [Poinsettia.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Euphorbiaceae/Poinsettia.public.md) 
+
+### #is_/same_as :: [Poinsettia.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Euphorbiaceae/Poinsettia.internal.md) 
+
+### #is_/same_as :: [Poinsettia.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Euphorbiaceae/Poinsettia.protect.md) 
+
+### #is_/same_as :: [Poinsettia.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Euphorbiaceae/Poinsettia.private.md) 
+
+### #is_/same_as :: [Poinsettia.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Euphorbiaceae/Poinsettia.personal.md) 
+
+### #is_/same_as :: [Poinsettia.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Euphorbiaceae/Poinsettia.secret.md)
+

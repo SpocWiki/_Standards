@@ -87,3 +87,22 @@ title: Scientific American
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scientific%20American) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scientific_American](/_Standards/Society/Communication/Media/Journalism/Magazine/Scientific_American.md) 
+
+### #is_/same_as :: [Scientific_American.public](/_public/Society/Communication/Media/Journalism/Magazine/Scientific_American.public.md) 
+
+### #is_/same_as :: [Scientific_American.internal](/_internal/Society/Communication/Media/Journalism/Magazine/Scientific_American.internal.md) 
+
+### #is_/same_as :: [Scientific_American.protect](/_protect/Society/Communication/Media/Journalism/Magazine/Scientific_American.protect.md) 
+
+### #is_/same_as :: [Scientific_American.private](/_private/Society/Communication/Media/Journalism/Magazine/Scientific_American.private.md) 
+
+### #is_/same_as :: [Scientific_American.personal](/_personal/Society/Communication/Media/Journalism/Magazine/Scientific_American.personal.md) 
+
+### #is_/same_as :: [Scientific_American.secret](/_secret/Society/Communication/Media/Journalism/Magazine/Scientific_American.secret.md)
+

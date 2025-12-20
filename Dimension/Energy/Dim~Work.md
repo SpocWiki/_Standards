@@ -82,3 +82,22 @@ Iconclass_notation: "49E2211"
 > [Wikipedia](https://en.wikipedia.org/wiki/Work%20(physics)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dim~Work](/_Standards/Dimension/Energy/Dim~Work.md) 
+
+### #is_/same_as :: [Dim~Work.public](/_public/Dimension/Energy/Dim~Work.public.md) 
+
+### #is_/same_as :: [Dim~Work.internal](/_internal/Dimension/Energy/Dim~Work.internal.md) 
+
+### #is_/same_as :: [Dim~Work.protect](/_protect/Dimension/Energy/Dim~Work.protect.md) 
+
+### #is_/same_as :: [Dim~Work.private](/_private/Dimension/Energy/Dim~Work.private.md) 
+
+### #is_/same_as :: [Dim~Work.personal](/_personal/Dimension/Energy/Dim~Work.personal.md) 
+
+### #is_/same_as :: [Dim~Work.secret](/_secret/Dimension/Energy/Dim~Work.secret.md)
+

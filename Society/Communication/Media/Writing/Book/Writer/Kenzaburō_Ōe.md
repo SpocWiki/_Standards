@@ -96,3 +96,22 @@ date_of_death: 2023-03-03T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kenzabur%C5%8D%20%C5%8Ce) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kenzaburō_Ōe](/_Standards/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.md) 
+
+### #is_/same_as :: [Kenzaburō_Ōe.public](/_public/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.public.md) 
+
+### #is_/same_as :: [Kenzaburō_Ōe.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.internal.md) 
+
+### #is_/same_as :: [Kenzaburō_Ōe.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.protect.md) 
+
+### #is_/same_as :: [Kenzaburō_Ōe.private](/_private/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.private.md) 
+
+### #is_/same_as :: [Kenzaburō_Ōe.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.personal.md) 
+
+### #is_/same_as :: [Kenzaburō_Ōe.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.secret.md)
+

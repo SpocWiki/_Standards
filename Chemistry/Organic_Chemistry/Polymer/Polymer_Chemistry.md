@@ -14,3 +14,22 @@ has_id_wikidata: Q750446
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polymer%20chemistry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polymer_Chemistry](/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.md) 
+
+### #is_/same_as :: [Polymer_Chemistry.public](/_public/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.public.md) 
+
+### #is_/same_as :: [Polymer_Chemistry.internal](/_internal/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.internal.md) 
+
+### #is_/same_as :: [Polymer_Chemistry.protect](/_protect/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.protect.md) 
+
+### #is_/same_as :: [Polymer_Chemistry.private](/_private/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.private.md) 
+
+### #is_/same_as :: [Polymer_Chemistry.personal](/_personal/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.personal.md) 
+
+### #is_/same_as :: [Polymer_Chemistry.secret](/_secret/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.secret.md)
+

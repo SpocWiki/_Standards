@@ -53,3 +53,22 @@ Commons_category: Tevatron
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tevatron) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tevatron](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.md) 
+
+### #is_/same_as :: [Tevatron.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.public.md) 
+
+### #is_/same_as :: [Tevatron.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.internal.md) 
+
+### #is_/same_as :: [Tevatron.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.protect.md) 
+
+### #is_/same_as :: [Tevatron.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.private.md) 
+
+### #is_/same_as :: [Tevatron.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.personal.md) 
+
+### #is_/same_as :: [Tevatron.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.secret.md)
+

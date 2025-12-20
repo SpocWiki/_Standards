@@ -59,3 +59,22 @@ Commons_category: Principalities
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Principality) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Principality](/_Standards/Society/Politics/Government/Monarchy/Principality.md) 
+
+### #is_/same_as :: [Principality.public](/_public/Society/Politics/Government/Monarchy/Principality.public.md) 
+
+### #is_/same_as :: [Principality.internal](/_internal/Society/Politics/Government/Monarchy/Principality.internal.md) 
+
+### #is_/same_as :: [Principality.protect](/_protect/Society/Politics/Government/Monarchy/Principality.protect.md) 
+
+### #is_/same_as :: [Principality.private](/_private/Society/Politics/Government/Monarchy/Principality.private.md) 
+
+### #is_/same_as :: [Principality.personal](/_personal/Society/Politics/Government/Monarchy/Principality.personal.md) 
+
+### #is_/same_as :: [Principality.secret](/_secret/Society/Politics/Government/Monarchy/Principality.secret.md)
+

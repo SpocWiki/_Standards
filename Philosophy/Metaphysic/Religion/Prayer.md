@@ -62,3 +62,22 @@ PhilPapers_topic: prayer
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prayer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prayer](/_Standards/Philosophy/Metaphysic/Religion/Prayer.md) 
+
+### #is_/same_as :: [Prayer.public](/_public/Philosophy/Metaphysic/Religion/Prayer.public.md) 
+
+### #is_/same_as :: [Prayer.internal](/_internal/Philosophy/Metaphysic/Religion/Prayer.internal.md) 
+
+### #is_/same_as :: [Prayer.protect](/_protect/Philosophy/Metaphysic/Religion/Prayer.protect.md) 
+
+### #is_/same_as :: [Prayer.private](/_private/Philosophy/Metaphysic/Religion/Prayer.private.md) 
+
+### #is_/same_as :: [Prayer.personal](/_personal/Philosophy/Metaphysic/Religion/Prayer.personal.md) 
+
+### #is_/same_as :: [Prayer.secret](/_secret/Philosophy/Metaphysic/Religion/Prayer.secret.md)
+

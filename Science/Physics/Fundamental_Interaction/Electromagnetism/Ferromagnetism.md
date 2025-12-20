@@ -78,3 +78,22 @@ IEV_number: 121-12-41
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ferromagnetism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ferromagnetism](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.md) 
+
+### #is_/same_as :: [Ferromagnetism.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.public.md) 
+
+### #is_/same_as :: [Ferromagnetism.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.internal.md) 
+
+### #is_/same_as :: [Ferromagnetism.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.protect.md) 
+
+### #is_/same_as :: [Ferromagnetism.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.private.md) 
+
+### #is_/same_as :: [Ferromagnetism.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.personal.md) 
+
+### #is_/same_as :: [Ferromagnetism.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.secret.md)
+

@@ -47,3 +47,22 @@ has_id_wikidata: Q487255
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Centaurus%20A) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Centaurus_A](/_Standards/Astronomy/Star_System/Galaxy/Centaurus_A.md) 
+
+### #is_/same_as :: [Centaurus_A.public](/_public/Astronomy/Star_System/Galaxy/Centaurus_A.public.md) 
+
+### #is_/same_as :: [Centaurus_A.internal](/_internal/Astronomy/Star_System/Galaxy/Centaurus_A.internal.md) 
+
+### #is_/same_as :: [Centaurus_A.protect](/_protect/Astronomy/Star_System/Galaxy/Centaurus_A.protect.md) 
+
+### #is_/same_as :: [Centaurus_A.private](/_private/Astronomy/Star_System/Galaxy/Centaurus_A.private.md) 
+
+### #is_/same_as :: [Centaurus_A.personal](/_personal/Astronomy/Star_System/Galaxy/Centaurus_A.personal.md) 
+
+### #is_/same_as :: [Centaurus_A.secret](/_secret/Astronomy/Star_System/Galaxy/Centaurus_A.secret.md)
+

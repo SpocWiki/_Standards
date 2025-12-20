@@ -47,3 +47,22 @@ equivalent_class: http://dbpedia.org/ontology/Letter
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Letter%20(alphabet)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Letter](/_Standards/Language/Writing_System/Letter.md) 
+
+### #is_/same_as :: [Letter.public](/_public/Language/Writing_System/Letter.public.md) 
+
+### #is_/same_as :: [Letter.internal](/_internal/Language/Writing_System/Letter.internal.md) 
+
+### #is_/same_as :: [Letter.protect](/_protect/Language/Writing_System/Letter.protect.md) 
+
+### #is_/same_as :: [Letter.private](/_private/Language/Writing_System/Letter.private.md) 
+
+### #is_/same_as :: [Letter.personal](/_personal/Language/Writing_System/Letter.personal.md) 
+
+### #is_/same_as :: [Letter.secret](/_secret/Language/Writing_System/Letter.secret.md)
+

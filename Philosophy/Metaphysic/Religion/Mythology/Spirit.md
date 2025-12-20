@@ -49,3 +49,22 @@ Amazon_com_browse_node: "2983387011"
 > [Wikipedia](https://en.wikipedia.org/wiki/Spirit%20(supernatural%20entity)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spirit](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Spirit.md) 
+
+### #is_/same_as :: [Spirit.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Spirit.public.md) 
+
+### #is_/same_as :: [Spirit.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Spirit.internal.md) 
+
+### #is_/same_as :: [Spirit.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Spirit.protect.md) 
+
+### #is_/same_as :: [Spirit.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Spirit.private.md) 
+
+### #is_/same_as :: [Spirit.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Spirit.personal.md) 
+
+### #is_/same_as :: [Spirit.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Spirit.secret.md)
+

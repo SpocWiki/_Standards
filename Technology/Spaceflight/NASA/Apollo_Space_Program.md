@@ -71,17 +71,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apollo_Space_Program](/_Standards/Technology/Spaceflight/Apollo_Space_Program.md) 
+### #is_/same_as :: [Apollo_Space_Program](/_Standards/Technology/Spaceflight/NASA/Apollo_Space_Program.md) 
 
-### #is_/same_as :: [Apollo_Space_Program.public](/_public/Technology/Spaceflight/Apollo_Space_Program.public.md) 
+### #is_/same_as :: [Apollo_Space_Program.public](/_public/Technology/Spaceflight/NASA/Apollo_Space_Program.public.md) 
 
-### #is_/same_as :: [Apollo_Space_Program.internal](/_internal/Technology/Spaceflight/Apollo_Space_Program.internal.md) 
+### #is_/same_as :: [Apollo_Space_Program.internal](/_internal/Technology/Spaceflight/NASA/Apollo_Space_Program.internal.md) 
 
-### #is_/same_as :: [Apollo_Space_Program.protect](/_protect/Technology/Spaceflight/Apollo_Space_Program.protect.md) 
+### #is_/same_as :: [Apollo_Space_Program.protect](/_protect/Technology/Spaceflight/NASA/Apollo_Space_Program.protect.md) 
 
-### #is_/same_as :: [Apollo_Space_Program.private](/_private/Technology/Spaceflight/Apollo_Space_Program.private.md) 
+### #is_/same_as :: [Apollo_Space_Program.private](/_private/Technology/Spaceflight/NASA/Apollo_Space_Program.private.md) 
 
-### #is_/same_as :: [Apollo_Space_Program.personal](/_personal/Technology/Spaceflight/Apollo_Space_Program.personal.md) 
+### #is_/same_as :: [Apollo_Space_Program.personal](/_personal/Technology/Spaceflight/NASA/Apollo_Space_Program.personal.md) 
 
-### #is_/same_as :: [Apollo_Space_Program.secret](/_secret/Technology/Spaceflight/Apollo_Space_Program.secret.md)
+### #is_/same_as :: [Apollo_Space_Program.secret](/_secret/Technology/Spaceflight/NASA/Apollo_Space_Program.secret.md)
 

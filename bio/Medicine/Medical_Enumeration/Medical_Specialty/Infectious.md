@@ -40,17 +40,17 @@ Something in medical science that pertains to infectious diseases, i.e. caused b
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [infectious](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.md) 
+### #is_/same_as :: [Infectious](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.md) 
 
-### #is_/same_as :: [infectious.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.public.md) 
+### #is_/same_as :: [Infectious.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.public.md) 
 
-### #is_/same_as :: [infectious.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.internal.md) 
+### #is_/same_as :: [Infectious.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.internal.md) 
 
-### #is_/same_as :: [infectious.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.protect.md) 
+### #is_/same_as :: [Infectious.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.protect.md) 
 
-### #is_/same_as :: [infectious.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.private.md) 
+### #is_/same_as :: [Infectious.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.private.md) 
 
-### #is_/same_as :: [infectious.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.personal.md) 
+### #is_/same_as :: [Infectious.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.personal.md) 
 
-### #is_/same_as :: [infectious.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.secret.md)
+### #is_/same_as :: [Infectious.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.secret.md)
 

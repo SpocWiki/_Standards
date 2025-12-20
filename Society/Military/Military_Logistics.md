@@ -38,3 +38,22 @@ Commons_category: Military logistics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20logistics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Military_Logistics](/_Standards/Society/Military/Military_Logistics.md) 
+
+### #is_/same_as :: [Military_Logistics.public](/_public/Society/Military/Military_Logistics.public.md) 
+
+### #is_/same_as :: [Military_Logistics.internal](/_internal/Society/Military/Military_Logistics.internal.md) 
+
+### #is_/same_as :: [Military_Logistics.protect](/_protect/Society/Military/Military_Logistics.protect.md) 
+
+### #is_/same_as :: [Military_Logistics.private](/_private/Society/Military/Military_Logistics.private.md) 
+
+### #is_/same_as :: [Military_Logistics.personal](/_personal/Society/Military/Military_Logistics.personal.md) 
+
+### #is_/same_as :: [Military_Logistics.secret](/_secret/Society/Military/Military_Logistics.secret.md)
+

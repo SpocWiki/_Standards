@@ -42,17 +42,17 @@ OneTimePayments: this is a benefit for one-time payments for individuals.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [One_Time_Payments](One_Time_Payments.md) 
+### #is_/same_as :: [One_Time_Payments](/_Standards/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.md) 
 
-### #is_/same_as :: [one_time_payments.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/one_time_payments.public.md) 
+### #is_/same_as :: [One_Time_Payments.public](/_public/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.public.md) 
 
-### #is_/same_as :: [one_time_payments.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/one_time_payments.internal.md) 
+### #is_/same_as :: [One_Time_Payments.internal](/_internal/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.internal.md) 
 
-### #is_/same_as :: [one_time_payments.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/one_time_payments.protect.md) 
+### #is_/same_as :: [One_Time_Payments.protect](/_protect/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.protect.md) 
 
-### #is_/same_as :: [one_time_payments.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/one_time_payments.private.md) 
+### #is_/same_as :: [One_Time_Payments.private](/_private/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.private.md) 
 
-### #is_/same_as :: [one_time_payments.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/one_time_payments.personal.md) 
+### #is_/same_as :: [One_Time_Payments.personal](/_personal/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.personal.md) 
 
-### #is_/same_as :: [one_time_payments.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/one_time_payments.secret.md)
+### #is_/same_as :: [One_Time_Payments.secret](/_secret/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.secret.md)
 

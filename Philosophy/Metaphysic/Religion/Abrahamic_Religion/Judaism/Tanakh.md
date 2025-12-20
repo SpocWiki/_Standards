@@ -88,3 +88,22 @@ Archive_of_Our_Own_tag: תנ"ך | Tanakh
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hebrew%20Bible)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tanakh](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.md) 
+
+### #is_/same_as :: [Tanakh.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.public.md) 
+
+### #is_/same_as :: [Tanakh.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.internal.md) 
+
+### #is_/same_as :: [Tanakh.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.protect.md) 
+
+### #is_/same_as :: [Tanakh.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.private.md) 
+
+### #is_/same_as :: [Tanakh.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.personal.md) 
+
+### #is_/same_as :: [Tanakh.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Tanakh.secret.md)
+

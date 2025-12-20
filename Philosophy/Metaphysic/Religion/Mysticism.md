@@ -44,3 +44,22 @@ MeSH_tree_code: K01.844.799.430
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mysticism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mysticism](/_Standards/Philosophy/Metaphysic/Religion/Mysticism.md) 
+
+### #is_/same_as :: [Mysticism.public](/_public/Philosophy/Metaphysic/Religion/Mysticism.public.md) 
+
+### #is_/same_as :: [Mysticism.internal](/_internal/Philosophy/Metaphysic/Religion/Mysticism.internal.md) 
+
+### #is_/same_as :: [Mysticism.protect](/_protect/Philosophy/Metaphysic/Religion/Mysticism.protect.md) 
+
+### #is_/same_as :: [Mysticism.private](/_private/Philosophy/Metaphysic/Religion/Mysticism.private.md) 
+
+### #is_/same_as :: [Mysticism.personal](/_personal/Philosophy/Metaphysic/Religion/Mysticism.personal.md) 
+
+### #is_/same_as :: [Mysticism.secret](/_secret/Philosophy/Metaphysic/Religion/Mysticism.secret.md)
+

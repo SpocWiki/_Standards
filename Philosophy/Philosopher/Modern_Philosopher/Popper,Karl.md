@@ -190,3 +190,22 @@ PhilPapers_topic: karl-popper
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Karl%20Popper) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Popper,Karl](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.md) 
+
+### #is_/same_as :: [Popper,Karl.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.public.md) 
+
+### #is_/same_as :: [Popper,Karl.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.internal.md) 
+
+### #is_/same_as :: [Popper,Karl.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.protect.md) 
+
+### #is_/same_as :: [Popper,Karl.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.private.md) 
+
+### #is_/same_as :: [Popper,Karl.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.personal.md) 
+
+### #is_/same_as :: [Popper,Karl.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.secret.md)
+

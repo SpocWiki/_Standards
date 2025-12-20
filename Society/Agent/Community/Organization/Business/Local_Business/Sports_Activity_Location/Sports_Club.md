@@ -39,17 +39,17 @@ A sports club.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sports_Club](Sports_Club.md) 
+### #is_/same_as :: [Sports_Club](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Sports_Club.md) 
 
-### #is_/same_as :: [Sports_Club.public](/_public/Society/Organization/Local_Business/Sports_Activity_Location/Sports_Club.public.md) 
+### #is_/same_as :: [Sports_Club.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Sports_Club.public.md) 
 
-### #is_/same_as :: [Sports_Club.internal](/_internal/Society/Organization/Local_Business/Sports_Activity_Location/Sports_Club.internal.md) 
+### #is_/same_as :: [Sports_Club.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Sports_Club.internal.md) 
 
-### #is_/same_as :: [Sports_Club.protect](/_protect/Society/Organization/Local_Business/Sports_Activity_Location/Sports_Club.protect.md) 
+### #is_/same_as :: [Sports_Club.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Sports_Club.protect.md) 
 
-### #is_/same_as :: [Sports_Club.private](/_private/Society/Organization/Local_Business/Sports_Activity_Location/Sports_Club.private.md) 
+### #is_/same_as :: [Sports_Club.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Sports_Club.private.md) 
 
-### #is_/same_as :: [Sports_Club.personal](/_personal/Society/Organization/Local_Business/Sports_Activity_Location/Sports_Club.personal.md) 
+### #is_/same_as :: [Sports_Club.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Sports_Club.personal.md) 
 
-### #is_/same_as :: [Sports_Club.secret](/_secret/Society/Organization/Local_Business/Sports_Activity_Location/Sports_Club.secret.md)
+### #is_/same_as :: [Sports_Club.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Sports_Club.secret.md)
 

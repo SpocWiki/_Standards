@@ -65,3 +65,22 @@ subclass_of: "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Planck%20units) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Planck_Units](/_Standards/Dimension/Unit_of_Measurement/Planck_Units.md) 
+
+### #is_/same_as :: [Planck_Units.public](/_public/Dimension/Unit_of_Measurement/Planck_Units.public.md) 
+
+### #is_/same_as :: [Planck_Units.internal](/_internal/Dimension/Unit_of_Measurement/Planck_Units.internal.md) 
+
+### #is_/same_as :: [Planck_Units.protect](/_protect/Dimension/Unit_of_Measurement/Planck_Units.protect.md) 
+
+### #is_/same_as :: [Planck_Units.private](/_private/Dimension/Unit_of_Measurement/Planck_Units.private.md) 
+
+### #is_/same_as :: [Planck_Units.personal](/_personal/Dimension/Unit_of_Measurement/Planck_Units.personal.md) 
+
+### #is_/same_as :: [Planck_Units.secret](/_secret/Dimension/Unit_of_Measurement/Planck_Units.secret.md)
+

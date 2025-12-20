@@ -53,3 +53,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nibelungenlied) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nibelungenlied](/_Standards/Society/Communication/Media/Writing/Book/Literature/German_Literature/Nibelungenlied.md) 
+
+### #is_/same_as :: [Nibelungenlied.public](/_public/Society/Communication/Media/Writing/Book/Literature/German_Literature/Nibelungenlied.public.md) 
+
+### #is_/same_as :: [Nibelungenlied.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/German_Literature/Nibelungenlied.internal.md) 
+
+### #is_/same_as :: [Nibelungenlied.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/German_Literature/Nibelungenlied.protect.md) 
+
+### #is_/same_as :: [Nibelungenlied.private](/_private/Society/Communication/Media/Writing/Book/Literature/German_Literature/Nibelungenlied.private.md) 
+
+### #is_/same_as :: [Nibelungenlied.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/German_Literature/Nibelungenlied.personal.md) 
+
+### #is_/same_as :: [Nibelungenlied.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/German_Literature/Nibelungenlied.secret.md)
+

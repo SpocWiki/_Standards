@@ -87,3 +87,22 @@ ISNI: "0000000078671817"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jack%20Kilby) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kilby,Jack](/_Standards/Science/Inventor/Kilby,Jack.md) 
+
+### #is_/same_as :: [Kilby,Jack.public](/_public/Science/Inventor/Kilby,Jack.public.md) 
+
+### #is_/same_as :: [Kilby,Jack.internal](/_internal/Science/Inventor/Kilby,Jack.internal.md) 
+
+### #is_/same_as :: [Kilby,Jack.protect](/_protect/Science/Inventor/Kilby,Jack.protect.md) 
+
+### #is_/same_as :: [Kilby,Jack.private](/_private/Science/Inventor/Kilby,Jack.private.md) 
+
+### #is_/same_as :: [Kilby,Jack.personal](/_personal/Science/Inventor/Kilby,Jack.personal.md) 
+
+### #is_/same_as :: [Kilby,Jack.secret](/_secret/Science/Inventor/Kilby,Jack.secret.md)
+

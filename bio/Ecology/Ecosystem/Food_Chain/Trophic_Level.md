@@ -29,3 +29,22 @@ different_from: "[[_Standards/WikiData/WD~Trophic_level_index,7845626]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trophic%20level)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trophic_Level](/_Standards/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.md) 
+
+### #is_/same_as :: [Trophic_Level.public](/_public/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.public.md) 
+
+### #is_/same_as :: [Trophic_Level.internal](/_internal/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.internal.md) 
+
+### #is_/same_as :: [Trophic_Level.protect](/_protect/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.protect.md) 
+
+### #is_/same_as :: [Trophic_Level.private](/_private/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.private.md) 
+
+### #is_/same_as :: [Trophic_Level.personal](/_personal/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.personal.md) 
+
+### #is_/same_as :: [Trophic_Level.secret](/_secret/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.secret.md)
+

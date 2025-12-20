@@ -33,3 +33,22 @@ Commons_category: Civil rights and liberties
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Civil%20liberties) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Civil_Liberties](/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.md) 
+
+### #is_/same_as :: [Civil_Liberties.public](/_public/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.public.md) 
+
+### #is_/same_as :: [Civil_Liberties.internal](/_internal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.internal.md) 
+
+### #is_/same_as :: [Civil_Liberties.protect](/_protect/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.protect.md) 
+
+### #is_/same_as :: [Civil_Liberties.private](/_private/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.private.md) 
+
+### #is_/same_as :: [Civil_Liberties.personal](/_personal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.personal.md) 
+
+### #is_/same_as :: [Civil_Liberties.secret](/_secret/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.secret.md)
+

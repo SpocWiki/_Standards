@@ -47,3 +47,22 @@ Commons_category: Diplomas
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diploma) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diploma](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.md) 
+
+### #is_/same_as :: [Diploma.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.public.md) 
+
+### #is_/same_as :: [Diploma.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.internal.md) 
+
+### #is_/same_as :: [Diploma.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.protect.md) 
+
+### #is_/same_as :: [Diploma.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.private.md) 
+
+### #is_/same_as :: [Diploma.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.personal.md) 
+
+### #is_/same_as :: [Diploma.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.secret.md)
+

@@ -29,3 +29,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Margin%20of%20error) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Margin_of_Error](/_Standards/Mathematics/Statistics/Margin_of_Error.md) 
+
+### #is_/same_as :: [Margin_of_Error.public](/_public/Mathematics/Statistics/Margin_of_Error.public.md) 
+
+### #is_/same_as :: [Margin_of_Error.internal](/_internal/Mathematics/Statistics/Margin_of_Error.internal.md) 
+
+### #is_/same_as :: [Margin_of_Error.protect](/_protect/Mathematics/Statistics/Margin_of_Error.protect.md) 
+
+### #is_/same_as :: [Margin_of_Error.private](/_private/Mathematics/Statistics/Margin_of_Error.private.md) 
+
+### #is_/same_as :: [Margin_of_Error.personal](/_personal/Mathematics/Statistics/Margin_of_Error.personal.md) 
+
+### #is_/same_as :: [Margin_of_Error.secret](/_secret/Mathematics/Statistics/Margin_of_Error.secret.md)
+

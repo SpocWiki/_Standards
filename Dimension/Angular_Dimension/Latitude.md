@@ -53,3 +53,22 @@ the latter is the Property to assign the Value for this Dimension
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Latitude) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Latitude](/_Standards/Dimension/Angular_Dimension/Latitude.md) 
+
+### #is_/same_as :: [Latitude.public](/_public/Dimension/Angular_Dimension/Latitude.public.md) 
+
+### #is_/same_as :: [Latitude.internal](/_internal/Dimension/Angular_Dimension/Latitude.internal.md) 
+
+### #is_/same_as :: [Latitude.protect](/_protect/Dimension/Angular_Dimension/Latitude.protect.md) 
+
+### #is_/same_as :: [Latitude.private](/_private/Dimension/Angular_Dimension/Latitude.private.md) 
+
+### #is_/same_as :: [Latitude.personal](/_personal/Dimension/Angular_Dimension/Latitude.personal.md) 
+
+### #is_/same_as :: [Latitude.secret](/_secret/Dimension/Angular_Dimension/Latitude.secret.md)
+

@@ -45,3 +45,22 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Go](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Go.md) 
+
+### #is_/same_as :: [Prog~Go.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Go.public.md) 
+
+### #is_/same_as :: [Prog~Go.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Go.internal.md) 
+
+### #is_/same_as :: [Prog~Go.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Go.protect.md) 
+
+### #is_/same_as :: [Prog~Go.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Go.private.md) 
+
+### #is_/same_as :: [Prog~Go.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Go.personal.md) 
+
+### #is_/same_as :: [Prog~Go.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Go.secret.md)
+

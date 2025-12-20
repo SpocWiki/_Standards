@@ -48,3 +48,22 @@ has_id_wikidata: Q168698
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Exponential%20function) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Exponential_Function](/_Standards/Mathematics/Function(Math)/Function~unary/Exponential_Function.md) 
+
+### #is_/same_as :: [Exponential_Function.public](/_public/Mathematics/Function(Math)/Function~unary/Exponential_Function.public.md) 
+
+### #is_/same_as :: [Exponential_Function.internal](/_internal/Mathematics/Function(Math)/Function~unary/Exponential_Function.internal.md) 
+
+### #is_/same_as :: [Exponential_Function.protect](/_protect/Mathematics/Function(Math)/Function~unary/Exponential_Function.protect.md) 
+
+### #is_/same_as :: [Exponential_Function.private](/_private/Mathematics/Function(Math)/Function~unary/Exponential_Function.private.md) 
+
+### #is_/same_as :: [Exponential_Function.personal](/_personal/Mathematics/Function(Math)/Function~unary/Exponential_Function.personal.md) 
+
+### #is_/same_as :: [Exponential_Function.secret](/_secret/Mathematics/Function(Math)/Function~unary/Exponential_Function.secret.md)
+

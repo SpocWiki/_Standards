@@ -40,17 +40,17 @@ Results are not available.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [results_not_available](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_not_available.md) 
+### #is_/same_as :: [Study_has_Results_not_Available](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.md) 
 
-### #is_/same_as :: [results_not_available.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_not_available.public.md) 
+### #is_/same_as :: [Study_has_Results_not_Available.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.public.md) 
 
-### #is_/same_as :: [results_not_available.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_not_available.internal.md) 
+### #is_/same_as :: [Study_has_Results_not_Available.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.internal.md) 
 
-### #is_/same_as :: [results_not_available.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_not_available.protect.md) 
+### #is_/same_as :: [Study_has_Results_not_Available.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.protect.md) 
 
-### #is_/same_as :: [results_not_available.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_not_available.private.md) 
+### #is_/same_as :: [Study_has_Results_not_Available.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.private.md) 
 
-### #is_/same_as :: [results_not_available.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_not_available.personal.md) 
+### #is_/same_as :: [Study_has_Results_not_Available.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.personal.md) 
 
-### #is_/same_as :: [results_not_available.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_not_available.secret.md)
+### #is_/same_as :: [Study_has_Results_not_Available.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_has_Results_not_Available.secret.md)
 

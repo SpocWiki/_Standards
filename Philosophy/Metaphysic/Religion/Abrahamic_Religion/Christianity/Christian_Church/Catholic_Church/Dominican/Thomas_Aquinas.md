@@ -184,3 +184,22 @@ ISNI: "0000000453792101"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Aquinas) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thomas_Aquinas](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Thomas_Aquinas.md) 
+
+### #is_/same_as :: [Thomas_Aquinas.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Thomas_Aquinas.public.md) 
+
+### #is_/same_as :: [Thomas_Aquinas.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Thomas_Aquinas.internal.md) 
+
+### #is_/same_as :: [Thomas_Aquinas.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Thomas_Aquinas.protect.md) 
+
+### #is_/same_as :: [Thomas_Aquinas.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Thomas_Aquinas.private.md) 
+
+### #is_/same_as :: [Thomas_Aquinas.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Thomas_Aquinas.personal.md) 
+
+### #is_/same_as :: [Thomas_Aquinas.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Thomas_Aquinas.secret.md)
+

@@ -172,3 +172,22 @@ ISNI: 000000012144125X
 > [Wikipedia](https://en.wikipedia.org/wiki/Ludwig%20Mies%20van%20der%20Rohe) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mies,Ludwig](/_Standards/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.md) 
+
+### #is_/same_as :: [Mies,Ludwig.public](/_public/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.public.md) 
+
+### #is_/same_as :: [Mies,Ludwig.internal](/_internal/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.internal.md) 
+
+### #is_/same_as :: [Mies,Ludwig.protect](/_protect/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.protect.md) 
+
+### #is_/same_as :: [Mies,Ludwig.private](/_private/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.private.md) 
+
+### #is_/same_as :: [Mies,Ludwig.personal](/_personal/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.personal.md) 
+
+### #is_/same_as :: [Mies,Ludwig.secret](/_secret/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.secret.md)
+

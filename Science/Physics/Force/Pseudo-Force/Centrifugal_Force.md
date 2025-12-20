@@ -53,3 +53,22 @@ Commons_category: Centrifugal force
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Centrifugal%20force) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Centrifugal_Force](/_Standards/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.md) 
+
+### #is_/same_as :: [Centrifugal_Force.public](/_public/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.public.md) 
+
+### #is_/same_as :: [Centrifugal_Force.internal](/_internal/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.internal.md) 
+
+### #is_/same_as :: [Centrifugal_Force.protect](/_protect/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.protect.md) 
+
+### #is_/same_as :: [Centrifugal_Force.private](/_private/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.private.md) 
+
+### #is_/same_as :: [Centrifugal_Force.personal](/_personal/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.personal.md) 
+
+### #is_/same_as :: [Centrifugal_Force.secret](/_secret/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.secret.md)
+

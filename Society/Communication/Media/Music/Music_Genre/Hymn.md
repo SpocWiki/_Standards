@@ -56,3 +56,22 @@ IMDb_keyword: hymn
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hymn) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hymn](/_Standards/Society/Communication/Media/Music/Music_Genre/Hymn.md) 
+
+### #is_/same_as :: [Hymn.public](/_public/Society/Communication/Media/Music/Music_Genre/Hymn.public.md) 
+
+### #is_/same_as :: [Hymn.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Hymn.internal.md) 
+
+### #is_/same_as :: [Hymn.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Hymn.protect.md) 
+
+### #is_/same_as :: [Hymn.private](/_private/Society/Communication/Media/Music/Music_Genre/Hymn.private.md) 
+
+### #is_/same_as :: [Hymn.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Hymn.personal.md) 
+
+### #is_/same_as :: [Hymn.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Hymn.secret.md)
+

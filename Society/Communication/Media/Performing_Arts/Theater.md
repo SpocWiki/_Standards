@@ -113,17 +113,17 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_theatre,7112798]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theatre](/_Standards/Society/Communication/Media/Performing_Arts/Theatre.md) 
+### #is_/same_as :: [Theater](/_Standards/Society/Communication/Media/Performing_Arts/Theater.md) 
 
-### #is_/same_as :: [Theatre.public](/_public/Society/Communication/Media/Performing_Arts/Theatre.public.md) 
+### #is_/same_as :: [Theater.public](/_public/Society/Communication/Media/Performing_Arts/Theater.public.md) 
 
-### #is_/same_as :: [Theatre.internal](/_internal/Society/Communication/Media/Performing_Arts/Theatre.internal.md) 
+### #is_/same_as :: [Theater.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater.internal.md) 
 
-### #is_/same_as :: [Theatre.protect](/_protect/Society/Communication/Media/Performing_Arts/Theatre.protect.md) 
+### #is_/same_as :: [Theater.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater.protect.md) 
 
-### #is_/same_as :: [Theatre.private](/_private/Society/Communication/Media/Performing_Arts/Theatre.private.md) 
+### #is_/same_as :: [Theater.private](/_private/Society/Communication/Media/Performing_Arts/Theater.private.md) 
 
-### #is_/same_as :: [Theatre.personal](/_personal/Society/Communication/Media/Performing_Arts/Theatre.personal.md) 
+### #is_/same_as :: [Theater.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater.personal.md) 
 
-### #is_/same_as :: [Theatre.secret](/_secret/Society/Communication/Media/Performing_Arts/Theatre.secret.md)
+### #is_/same_as :: [Theater.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater.secret.md)
 

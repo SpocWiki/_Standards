@@ -42,17 +42,17 @@ Indicates that a legislation is currently not in force.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Not_in_Force](Not_in_Force.md) 
+### #is_/same_as :: [Not_in_Force](/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.md) 
 
-### #is_/same_as :: [not_in_force.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/not_in_force.public.md) 
+### #is_/same_as :: [Not_in_Force.public](/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.public.md) 
 
-### #is_/same_as :: [not_in_force.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/not_in_force.internal.md) 
+### #is_/same_as :: [Not_in_Force.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.internal.md) 
 
-### #is_/same_as :: [not_in_force.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/not_in_force.protect.md) 
+### #is_/same_as :: [Not_in_Force.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.protect.md) 
 
-### #is_/same_as :: [not_in_force.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/not_in_force.private.md) 
+### #is_/same_as :: [Not_in_Force.private](/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.private.md) 
 
-### #is_/same_as :: [not_in_force.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/not_in_force.personal.md) 
+### #is_/same_as :: [Not_in_Force.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.personal.md) 
 
-### #is_/same_as :: [not_in_force.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/not_in_force.secret.md)
+### #is_/same_as :: [Not_in_Force.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.secret.md)
 

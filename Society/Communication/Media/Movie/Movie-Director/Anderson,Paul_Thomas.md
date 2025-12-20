@@ -42,3 +42,22 @@ aliases:
 | Once Upon a Time in China (series) | 1991 | Martial Arts / Historical | Tsui Hark         |          – |
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anderson,Paul_Thomas](/_Standards/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.md) 
+
+### #is_/same_as :: [Anderson,Paul_Thomas.public](/_public/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.public.md) 
+
+### #is_/same_as :: [Anderson,Paul_Thomas.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.internal.md) 
+
+### #is_/same_as :: [Anderson,Paul_Thomas.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.protect.md) 
+
+### #is_/same_as :: [Anderson,Paul_Thomas.private](/_private/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.private.md) 
+
+### #is_/same_as :: [Anderson,Paul_Thomas.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.personal.md) 
+
+### #is_/same_as :: [Anderson,Paul_Thomas.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.secret.md)
+

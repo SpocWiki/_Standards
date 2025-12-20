@@ -39,17 +39,17 @@ The act of consuming dynamic/moving visual content.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [watch_action](/_Standards/schema-org/Class/is_a_/action/consume_action/watch_action.md) 
+### #is_/same_as :: [Watch_Action](/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Watch_Action.md) 
 
-### #is_/same_as :: [watch_action.public](/_public/schema-org/Class/is_a_/action/consume_action/watch_action.public.md) 
+### #is_/same_as :: [Watch_Action.public](/_public/schema-org/Class/is_a_/Action/Consume_Action/Watch_Action.public.md) 
 
-### #is_/same_as :: [watch_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/watch_action.internal.md) 
+### #is_/same_as :: [Watch_Action.internal](/_internal/schema-org/Class/is_a_/Action/Consume_Action/Watch_Action.internal.md) 
 
-### #is_/same_as :: [watch_action.protect](/_protect/schema-org/Class/is_a_/action/consume_action/watch_action.protect.md) 
+### #is_/same_as :: [Watch_Action.protect](/_protect/schema-org/Class/is_a_/Action/Consume_Action/Watch_Action.protect.md) 
 
-### #is_/same_as :: [watch_action.private](/_private/schema-org/Class/is_a_/action/consume_action/watch_action.private.md) 
+### #is_/same_as :: [Watch_Action.private](/_private/schema-org/Class/is_a_/Action/Consume_Action/Watch_Action.private.md) 
 
-### #is_/same_as :: [watch_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/watch_action.personal.md) 
+### #is_/same_as :: [Watch_Action.personal](/_personal/schema-org/Class/is_a_/Action/Consume_Action/Watch_Action.personal.md) 
 
-### #is_/same_as :: [watch_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/watch_action.secret.md)
+### #is_/same_as :: [Watch_Action.secret](/_secret/schema-org/Class/is_a_/Action/Consume_Action/Watch_Action.secret.md)
 

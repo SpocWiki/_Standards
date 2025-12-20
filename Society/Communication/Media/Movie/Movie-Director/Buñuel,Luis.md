@@ -128,3 +128,22 @@ ISNI: "0000000122812593"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Buñuel,Luis](/_Standards/Society/Communication/Media/Movie/Movie-Director/Buñuel,Luis.md) 
+
+### #is_/same_as :: [Buñuel,Luis.public](/_public/Society/Communication/Media/Movie/Movie-Director/Buñuel,Luis.public.md) 
+
+### #is_/same_as :: [Buñuel,Luis.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Buñuel,Luis.internal.md) 
+
+### #is_/same_as :: [Buñuel,Luis.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Buñuel,Luis.protect.md) 
+
+### #is_/same_as :: [Buñuel,Luis.private](/_private/Society/Communication/Media/Movie/Movie-Director/Buñuel,Luis.private.md) 
+
+### #is_/same_as :: [Buñuel,Luis.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Buñuel,Luis.personal.md) 
+
+### #is_/same_as :: [Buñuel,Luis.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Buñuel,Luis.secret.md)
+

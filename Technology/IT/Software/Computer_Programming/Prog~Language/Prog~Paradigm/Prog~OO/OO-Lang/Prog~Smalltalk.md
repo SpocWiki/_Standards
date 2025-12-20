@@ -22,3 +22,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Smalltalk)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Smalltalk](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Smalltalk.md) 
+
+### #is_/same_as :: [Prog~Smalltalk.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Smalltalk.public.md) 
+
+### #is_/same_as :: [Prog~Smalltalk.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Smalltalk.internal.md) 
+
+### #is_/same_as :: [Prog~Smalltalk.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Smalltalk.protect.md) 
+
+### #is_/same_as :: [Prog~Smalltalk.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Smalltalk.private.md) 
+
+### #is_/same_as :: [Prog~Smalltalk.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Smalltalk.personal.md) 
+
+### #is_/same_as :: [Prog~Smalltalk.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Smalltalk.secret.md)
+

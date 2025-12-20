@@ -75,16 +75,17 @@ OmegaWiki_Defined_Meaning: "960607"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Subspecies](Subspecies.md) 
+### #is_/same_as :: [Subspecies](/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.md) 
 
-### #is_/same_as :: [Subspecies.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.public.md) 
+### #is_/same_as :: [Subspecies.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.public.md) 
 
-### #is_/same_as :: [Subspecies.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.internal.md) 
+### #is_/same_as :: [Subspecies.internal](/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.internal.md) 
 
-### #is_/same_as :: [Subspecies.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.protect.md) 
+### #is_/same_as :: [Subspecies.protect](/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.protect.md) 
 
-### #is_/same_as :: [Subspecies.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.private.md) 
+### #is_/same_as :: [Subspecies.private](/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.private.md) 
 
-### #is_/same_as :: [Subspecies.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.personal.md) 
+### #is_/same_as :: [Subspecies.personal](/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.personal.md) 
 
-### #is_/same_as :: [Subspecies.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.secret.md)
+### #is_/same_as :: [Subspecies.secret](/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.secret.md)
+

@@ -21,3 +21,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Interstellar_Medium](/_Standards/Astronomy/Interstellar_Medium.md) 
+
+### #is_/same_as :: [Interstellar_Medium.public](/_public/Astronomy/Interstellar_Medium.public.md) 
+
+### #is_/same_as :: [Interstellar_Medium.internal](/_internal/Astronomy/Interstellar_Medium.internal.md) 
+
+### #is_/same_as :: [Interstellar_Medium.protect](/_protect/Astronomy/Interstellar_Medium.protect.md) 
+
+### #is_/same_as :: [Interstellar_Medium.private](/_private/Astronomy/Interstellar_Medium.private.md) 
+
+### #is_/same_as :: [Interstellar_Medium.personal](/_personal/Astronomy/Interstellar_Medium.personal.md) 
+
+### #is_/same_as :: [Interstellar_Medium.secret](/_secret/Astronomy/Interstellar_Medium.secret.md)
+

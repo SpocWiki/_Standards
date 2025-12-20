@@ -110,3 +110,22 @@ coordinate_location: Point(-77.0425 38.899)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Bank%20for%20Reconstruction%20and%20Development) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development)](/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).md) 
+
+### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development).public](/_public/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).public.md) 
+
+### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development).internal](/_internal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).internal.md) 
+
+### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development).protect](/_protect/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).protect.md) 
+
+### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development).private](/_private/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).private.md) 
+
+### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development).personal](/_personal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).personal.md) 
+
+### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development).secret](/_secret/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).secret.md)
+

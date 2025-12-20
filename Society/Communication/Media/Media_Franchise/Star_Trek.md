@@ -122,3 +122,22 @@ official_shop_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Star%20Trek) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Star_Trek](/_Standards/Society/Communication/Media/Media_Franchise/Star_Trek.md) 
+
+### #is_/same_as :: [Star_Trek.public](/_public/Society/Communication/Media/Media_Franchise/Star_Trek.public.md) 
+
+### #is_/same_as :: [Star_Trek.internal](/_internal/Society/Communication/Media/Media_Franchise/Star_Trek.internal.md) 
+
+### #is_/same_as :: [Star_Trek.protect](/_protect/Society/Communication/Media/Media_Franchise/Star_Trek.protect.md) 
+
+### #is_/same_as :: [Star_Trek.private](/_private/Society/Communication/Media/Media_Franchise/Star_Trek.private.md) 
+
+### #is_/same_as :: [Star_Trek.personal](/_personal/Society/Communication/Media/Media_Franchise/Star_Trek.personal.md) 
+
+### #is_/same_as :: [Star_Trek.secret](/_secret/Society/Communication/Media/Media_Franchise/Star_Trek.secret.md)
+

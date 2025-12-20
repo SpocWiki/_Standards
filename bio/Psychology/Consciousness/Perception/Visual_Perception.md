@@ -71,3 +71,22 @@ Commons_category: Visual perception
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Visual%20perception) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Visual_Perception](/_Standards/bio/Psychology/Consciousness/Perception/Visual_Perception.md) 
+
+### #is_/same_as :: [Visual_Perception.public](/_public/bio/Psychology/Consciousness/Perception/Visual_Perception.public.md) 
+
+### #is_/same_as :: [Visual_Perception.internal](/_internal/bio/Psychology/Consciousness/Perception/Visual_Perception.internal.md) 
+
+### #is_/same_as :: [Visual_Perception.protect](/_protect/bio/Psychology/Consciousness/Perception/Visual_Perception.protect.md) 
+
+### #is_/same_as :: [Visual_Perception.private](/_private/bio/Psychology/Consciousness/Perception/Visual_Perception.private.md) 
+
+### #is_/same_as :: [Visual_Perception.personal](/_personal/bio/Psychology/Consciousness/Perception/Visual_Perception.personal.md) 
+
+### #is_/same_as :: [Visual_Perception.secret](/_secret/bio/Psychology/Consciousness/Perception/Visual_Perception.secret.md)
+

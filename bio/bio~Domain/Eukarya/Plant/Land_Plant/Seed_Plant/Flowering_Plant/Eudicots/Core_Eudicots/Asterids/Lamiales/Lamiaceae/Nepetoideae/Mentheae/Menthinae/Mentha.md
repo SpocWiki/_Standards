@@ -67,3 +67,22 @@ NBN_System_Key: NHMSYS0000460670
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mentha) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mentha](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.md) 
+
+### #is_/same_as :: [Mentha.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.public.md) 
+
+### #is_/same_as :: [Mentha.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.internal.md) 
+
+### #is_/same_as :: [Mentha.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.protect.md) 
+
+### #is_/same_as :: [Mentha.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.private.md) 
+
+### #is_/same_as :: [Mentha.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.personal.md) 
+
+### #is_/same_as :: [Mentha.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.secret.md)
+

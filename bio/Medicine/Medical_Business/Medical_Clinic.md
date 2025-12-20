@@ -41,17 +41,17 @@ A facility, often associated with a hospital or medical school, that is devoted 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Clinic](Medical_Clinic.md) 
+### #is_/same_as :: [Medical_Clinic](/_Standards/bio/Medicine/Medical_Business/Medical_Clinic.md) 
 
-### #is_/same_as :: [Medical_Clinic.public](/_public/Society/Organization/Local_Business/Medical_Business/Medical_Clinic.public.md) 
+### #is_/same_as :: [Medical_Clinic.public](/_public/bio/Medicine/Medical_Business/Medical_Clinic.public.md) 
 
-### #is_/same_as :: [Medical_Clinic.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Medical_Clinic.internal.md) 
+### #is_/same_as :: [Medical_Clinic.internal](/_internal/bio/Medicine/Medical_Business/Medical_Clinic.internal.md) 
 
-### #is_/same_as :: [Medical_Clinic.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Medical_Clinic.protect.md) 
+### #is_/same_as :: [Medical_Clinic.protect](/_protect/bio/Medicine/Medical_Business/Medical_Clinic.protect.md) 
 
-### #is_/same_as :: [Medical_Clinic.private](/_private/Society/Organization/Local_Business/Medical_Business/Medical_Clinic.private.md) 
+### #is_/same_as :: [Medical_Clinic.private](/_private/bio/Medicine/Medical_Business/Medical_Clinic.private.md) 
 
-### #is_/same_as :: [Medical_Clinic.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Medical_Clinic.personal.md) 
+### #is_/same_as :: [Medical_Clinic.personal](/_personal/bio/Medicine/Medical_Business/Medical_Clinic.personal.md) 
 
-### #is_/same_as :: [Medical_Clinic.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Medical_Clinic.secret.md)
+### #is_/same_as :: [Medical_Clinic.secret](/_secret/bio/Medicine/Medical_Business/Medical_Clinic.secret.md)
 

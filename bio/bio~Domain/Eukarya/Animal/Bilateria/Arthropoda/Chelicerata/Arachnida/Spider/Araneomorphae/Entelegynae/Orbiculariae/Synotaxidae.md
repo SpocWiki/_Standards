@@ -96,7 +96,7 @@ Microscop. Soc. 84:177-184.
   Life Cycle Stage ::     adult
   Size                 ca. 20-30 cm. high
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

@@ -27,3 +27,22 @@ static int Position(this string weakKey, string search) {
 
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [IndexOf-Method](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.md) 
+
+### #is_/same_as :: [IndexOf-Method.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.public.md) 
+
+### #is_/same_as :: [IndexOf-Method.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.internal.md) 
+
+### #is_/same_as :: [IndexOf-Method.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.protect.md) 
+
+### #is_/same_as :: [IndexOf-Method.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.private.md) 
+
+### #is_/same_as :: [IndexOf-Method.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.personal.md) 
+
+### #is_/same_as :: [IndexOf-Method.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.secret.md)
+

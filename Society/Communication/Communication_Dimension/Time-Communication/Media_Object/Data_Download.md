@@ -40,17 +40,17 @@ All or part of a [[../../../Media/Creative_Work/Dataset]] in downloadable form.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Data_Download](Data_Download.md) 
+### #is_/same_as :: [Data_Download](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.md) 
 
-### #is_/same_as :: [Data_Download.public](/_public/Society/Communication/Media/Media_Object/Data_Download.public.md) 
+### #is_/same_as :: [Data_Download.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.public.md) 
 
-### #is_/same_as :: [Data_Download.internal](/_internal/Society/Communication/Media/Media_Object/Data_Download.internal.md) 
+### #is_/same_as :: [Data_Download.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.internal.md) 
 
-### #is_/same_as :: [Data_Download.protect](/_protect/Society/Communication/Media/Media_Object/Data_Download.protect.md) 
+### #is_/same_as :: [Data_Download.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.protect.md) 
 
-### #is_/same_as :: [Data_Download.private](/_private/Society/Communication/Media/Media_Object/Data_Download.private.md) 
+### #is_/same_as :: [Data_Download.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.private.md) 
 
-### #is_/same_as :: [Data_Download.personal](/_personal/Society/Communication/Media/Media_Object/Data_Download.personal.md) 
+### #is_/same_as :: [Data_Download.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.personal.md) 
 
-### #is_/same_as :: [Data_Download.secret](/_secret/Society/Communication/Media/Media_Object/Data_Download.secret.md)
+### #is_/same_as :: [Data_Download.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.secret.md)
 

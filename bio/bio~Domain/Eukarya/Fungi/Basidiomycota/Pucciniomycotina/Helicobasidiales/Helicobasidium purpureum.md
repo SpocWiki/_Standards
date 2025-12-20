@@ -63,7 +63,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
   Life Cycle Stage ::     Mycoparasitic anamorph of Helicobasidium purpureum Pat. forming conidia and sclerotia
   Collection           2001
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
-  -----------------------------------------------------------------------------
+  -----------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

@@ -62,3 +62,22 @@ Colon_Classification: Q:365
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hell) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hell](/_Standards/Philosophy/Metaphysic/Religion/Hell.md) 
+
+### #is_/same_as :: [Hell.public](/_public/Philosophy/Metaphysic/Religion/Hell.public.md) 
+
+### #is_/same_as :: [Hell.internal](/_internal/Philosophy/Metaphysic/Religion/Hell.internal.md) 
+
+### #is_/same_as :: [Hell.protect](/_protect/Philosophy/Metaphysic/Religion/Hell.protect.md) 
+
+### #is_/same_as :: [Hell.private](/_private/Philosophy/Metaphysic/Religion/Hell.private.md) 
+
+### #is_/same_as :: [Hell.personal](/_personal/Philosophy/Metaphysic/Religion/Hell.personal.md) 
+
+### #is_/same_as :: [Hell.secret](/_secret/Philosophy/Metaphysic/Religion/Hell.secret.md)
+

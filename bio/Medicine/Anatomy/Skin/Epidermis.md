@@ -57,3 +57,22 @@ Terminologia_Histologica: H3.12.00.1.01001
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Epidermis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Epidermis](/_Standards/bio/Medicine/Anatomy/Skin/Epidermis.md) 
+
+### #is_/same_as :: [Epidermis.public](/_public/bio/Medicine/Anatomy/Skin/Epidermis.public.md) 
+
+### #is_/same_as :: [Epidermis.internal](/_internal/bio/Medicine/Anatomy/Skin/Epidermis.internal.md) 
+
+### #is_/same_as :: [Epidermis.protect](/_protect/bio/Medicine/Anatomy/Skin/Epidermis.protect.md) 
+
+### #is_/same_as :: [Epidermis.private](/_private/bio/Medicine/Anatomy/Skin/Epidermis.private.md) 
+
+### #is_/same_as :: [Epidermis.personal](/_personal/bio/Medicine/Anatomy/Skin/Epidermis.personal.md) 
+
+### #is_/same_as :: [Epidermis.secret](/_secret/bio/Medicine/Anatomy/Skin/Epidermis.secret.md)
+

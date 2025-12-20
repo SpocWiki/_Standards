@@ -17,3 +17,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20anthropology)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Anthropology](/_Standards/Society/Anthropology/Social_Anthropology.md) 
+
+### #is_/same_as :: [Social_Anthropology.public](/_public/Society/Anthropology/Social_Anthropology.public.md) 
+
+### #is_/same_as :: [Social_Anthropology.internal](/_internal/Society/Anthropology/Social_Anthropology.internal.md) 
+
+### #is_/same_as :: [Social_Anthropology.protect](/_protect/Society/Anthropology/Social_Anthropology.protect.md) 
+
+### #is_/same_as :: [Social_Anthropology.private](/_private/Society/Anthropology/Social_Anthropology.private.md) 
+
+### #is_/same_as :: [Social_Anthropology.personal](/_personal/Society/Anthropology/Social_Anthropology.personal.md) 
+
+### #is_/same_as :: [Social_Anthropology.secret](/_secret/Society/Anthropology/Social_Anthropology.secret.md)
+

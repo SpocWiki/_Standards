@@ -68,3 +68,22 @@ Commons_category: Sieges
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Siege) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Siege](/_Standards/Society/Military/Military_Operation/Siege.md) 
+
+### #is_/same_as :: [Siege.public](/_public/Society/Military/Military_Operation/Siege.public.md) 
+
+### #is_/same_as :: [Siege.internal](/_internal/Society/Military/Military_Operation/Siege.internal.md) 
+
+### #is_/same_as :: [Siege.protect](/_protect/Society/Military/Military_Operation/Siege.protect.md) 
+
+### #is_/same_as :: [Siege.private](/_private/Society/Military/Military_Operation/Siege.private.md) 
+
+### #is_/same_as :: [Siege.personal](/_personal/Society/Military/Military_Operation/Siege.personal.md) 
+
+### #is_/same_as :: [Siege.secret](/_secret/Society/Military/Military_Operation/Siege.secret.md)
+

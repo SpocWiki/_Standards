@@ -71,3 +71,22 @@ MCN_code: 8704.32.30
 > [Wikipedia](https://en.wikipedia.org/wiki/Refrigerator) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Refrigerator](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.md) 
+
+### #is_/same_as :: [Refrigerator.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.public.md) 
+
+### #is_/same_as :: [Refrigerator.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.internal.md) 
+
+### #is_/same_as :: [Refrigerator.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.protect.md) 
+
+### #is_/same_as :: [Refrigerator.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.private.md) 
+
+### #is_/same_as :: [Refrigerator.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.personal.md) 
+
+### #is_/same_as :: [Refrigerator.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.secret.md)
+

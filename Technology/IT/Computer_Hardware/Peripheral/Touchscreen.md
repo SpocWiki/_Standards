@@ -78,3 +78,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Touchscreen)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Touchscreen](/_Standards/Technology/IT/Computer_Hardware/Peripheral/Touchscreen.md) 
+
+### #is_/same_as :: [Touchscreen.public](/_public/Technology/IT/Computer_Hardware/Peripheral/Touchscreen.public.md) 
+
+### #is_/same_as :: [Touchscreen.internal](/_internal/Technology/IT/Computer_Hardware/Peripheral/Touchscreen.internal.md) 
+
+### #is_/same_as :: [Touchscreen.protect](/_protect/Technology/IT/Computer_Hardware/Peripheral/Touchscreen.protect.md) 
+
+### #is_/same_as :: [Touchscreen.private](/_private/Technology/IT/Computer_Hardware/Peripheral/Touchscreen.private.md) 
+
+### #is_/same_as :: [Touchscreen.personal](/_personal/Technology/IT/Computer_Hardware/Peripheral/Touchscreen.personal.md) 
+
+### #is_/same_as :: [Touchscreen.secret](/_secret/Technology/IT/Computer_Hardware/Peripheral/Touchscreen.secret.md)
+

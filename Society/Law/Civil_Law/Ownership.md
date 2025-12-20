@@ -21,3 +21,22 @@ An [[../../../_Standards/schema-org/Class/is_a_/Agent|Agent]] ist the owner of [
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ownership](/_Standards/Society/Law/Civil_Law/Ownership.md) 
+
+### #is_/same_as :: [Ownership.public](/_public/Society/Law/Civil_Law/Ownership.public.md) 
+
+### #is_/same_as :: [Ownership.internal](/_internal/Society/Law/Civil_Law/Ownership.internal.md) 
+
+### #is_/same_as :: [Ownership.protect](/_protect/Society/Law/Civil_Law/Ownership.protect.md) 
+
+### #is_/same_as :: [Ownership.private](/_private/Society/Law/Civil_Law/Ownership.private.md) 
+
+### #is_/same_as :: [Ownership.personal](/_personal/Society/Law/Civil_Law/Ownership.personal.md) 
+
+### #is_/same_as :: [Ownership.secret](/_secret/Society/Law/Civil_Law/Ownership.secret.md)
+

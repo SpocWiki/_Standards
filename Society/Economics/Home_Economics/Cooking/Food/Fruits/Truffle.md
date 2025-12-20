@@ -50,3 +50,22 @@ Commons_gallery: Truffle
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Truffle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Truffle](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Truffle.md) 
+
+### #is_/same_as :: [Truffle.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Truffle.public.md) 
+
+### #is_/same_as :: [Truffle.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Truffle.internal.md) 
+
+### #is_/same_as :: [Truffle.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Truffle.protect.md) 
+
+### #is_/same_as :: [Truffle.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Truffle.private.md) 
+
+### #is_/same_as :: [Truffle.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Truffle.personal.md) 
+
+### #is_/same_as :: [Truffle.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Truffle.secret.md)
+

@@ -40,17 +40,17 @@ Recruiting participants.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [recruiting](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/recruiting.md) 
+### #is_/same_as :: [Study_is_recruiting](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_recruiting.md) 
 
-### #is_/same_as :: [recruiting.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/recruiting.public.md) 
+### #is_/same_as :: [Study_is_recruiting.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_recruiting.public.md) 
 
-### #is_/same_as :: [recruiting.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/recruiting.internal.md) 
+### #is_/same_as :: [Study_is_recruiting.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_recruiting.internal.md) 
 
-### #is_/same_as :: [recruiting.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/recruiting.protect.md) 
+### #is_/same_as :: [Study_is_recruiting.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_recruiting.protect.md) 
 
-### #is_/same_as :: [recruiting.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/recruiting.private.md) 
+### #is_/same_as :: [Study_is_recruiting.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_recruiting.private.md) 
 
-### #is_/same_as :: [recruiting.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/recruiting.personal.md) 
+### #is_/same_as :: [Study_is_recruiting.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_recruiting.personal.md) 
 
-### #is_/same_as :: [recruiting.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/recruiting.secret.md)
+### #is_/same_as :: [Study_is_recruiting.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_recruiting.secret.md)
 

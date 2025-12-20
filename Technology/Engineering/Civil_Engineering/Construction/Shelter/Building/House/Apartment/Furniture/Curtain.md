@@ -50,3 +50,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q49005-a
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Curtain) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Curtain](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Curtain.md) 
+
+### #is_/same_as :: [Curtain.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Curtain.public.md) 
+
+### #is_/same_as :: [Curtain.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Curtain.internal.md) 
+
+### #is_/same_as :: [Curtain.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Curtain.protect.md) 
+
+### #is_/same_as :: [Curtain.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Curtain.private.md) 
+
+### #is_/same_as :: [Curtain.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Curtain.personal.md) 
+
+### #is_/same_as :: [Curtain.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Curtain.secret.md)
+

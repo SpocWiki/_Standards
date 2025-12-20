@@ -38,3 +38,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gravitational%20lens) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gravitational_Lens](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.md) 
+
+### #is_/same_as :: [Gravitational_Lens.public](/_public/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.public.md) 
+
+### #is_/same_as :: [Gravitational_Lens.internal](/_internal/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.internal.md) 
+
+### #is_/same_as :: [Gravitational_Lens.protect](/_protect/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.protect.md) 
+
+### #is_/same_as :: [Gravitational_Lens.private](/_private/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.private.md) 
+
+### #is_/same_as :: [Gravitational_Lens.personal](/_personal/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.personal.md) 
+
+### #is_/same_as :: [Gravitational_Lens.secret](/_secret/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.secret.md)
+

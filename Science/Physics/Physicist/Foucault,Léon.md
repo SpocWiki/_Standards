@@ -100,3 +100,22 @@ AGORHA_UUID: 82c608f7-3df5-4569-93c6-e31ab6cbdf58
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/L%C3%A9on%20Foucault) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Foucault,Léon](/_Standards/Science/Physics/Physicist/Foucault,Léon.md) 
+
+### #is_/same_as :: [Foucault,Léon.public](/_public/Science/Physics/Physicist/Foucault,Léon.public.md) 
+
+### #is_/same_as :: [Foucault,Léon.internal](/_internal/Science/Physics/Physicist/Foucault,Léon.internal.md) 
+
+### #is_/same_as :: [Foucault,Léon.protect](/_protect/Science/Physics/Physicist/Foucault,Léon.protect.md) 
+
+### #is_/same_as :: [Foucault,Léon.private](/_private/Science/Physics/Physicist/Foucault,Léon.private.md) 
+
+### #is_/same_as :: [Foucault,Léon.personal](/_personal/Science/Physics/Physicist/Foucault,Léon.personal.md) 
+
+### #is_/same_as :: [Foucault,Léon.secret](/_secret/Science/Physics/Physicist/Foucault,Léon.secret.md)
+

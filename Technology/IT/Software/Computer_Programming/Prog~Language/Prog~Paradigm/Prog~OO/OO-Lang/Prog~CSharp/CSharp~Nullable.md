@@ -67,3 +67,22 @@ Alternatively, for `struc`t only, create an Overload that has a nullable Paramet
 When writing a low-level `byte` or `string` Interface, 
 parse and validate early, so you can use Extension Methods early to to find applicable Trafos. 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [CSharp~Nullable](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.md) 
+
+### #is_/same_as :: [CSharp~Nullable.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.public.md) 
+
+### #is_/same_as :: [CSharp~Nullable.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.internal.md) 
+
+### #is_/same_as :: [CSharp~Nullable.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.protect.md) 
+
+### #is_/same_as :: [CSharp~Nullable.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.private.md) 
+
+### #is_/same_as :: [CSharp~Nullable.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.personal.md) 
+
+### #is_/same_as :: [CSharp~Nullable.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.secret.md)
+

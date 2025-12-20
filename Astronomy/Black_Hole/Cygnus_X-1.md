@@ -24,3 +24,22 @@ has_id_wikidata: Q332674
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cygnus%20X-1) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cygnus_X-1](/_Standards/Astronomy/Black_Hole/Cygnus_X-1.md) 
+
+### #is_/same_as :: [Cygnus_X-1.public](/_public/Astronomy/Black_Hole/Cygnus_X-1.public.md) 
+
+### #is_/same_as :: [Cygnus_X-1.internal](/_internal/Astronomy/Black_Hole/Cygnus_X-1.internal.md) 
+
+### #is_/same_as :: [Cygnus_X-1.protect](/_protect/Astronomy/Black_Hole/Cygnus_X-1.protect.md) 
+
+### #is_/same_as :: [Cygnus_X-1.private](/_private/Astronomy/Black_Hole/Cygnus_X-1.private.md) 
+
+### #is_/same_as :: [Cygnus_X-1.personal](/_personal/Astronomy/Black_Hole/Cygnus_X-1.personal.md) 
+
+### #is_/same_as :: [Cygnus_X-1.secret](/_secret/Astronomy/Black_Hole/Cygnus_X-1.secret.md)
+

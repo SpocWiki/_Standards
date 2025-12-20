@@ -72,3 +72,22 @@ taxon_name: Picea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spruce) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spruce](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Spruce.md) 
+
+### #is_/same_as :: [Spruce.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Spruce.public.md) 
+
+### #is_/same_as :: [Spruce.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Spruce.internal.md) 
+
+### #is_/same_as :: [Spruce.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Spruce.protect.md) 
+
+### #is_/same_as :: [Spruce.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Spruce.private.md) 
+
+### #is_/same_as :: [Spruce.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Spruce.personal.md) 
+
+### #is_/same_as :: [Spruce.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Spruce.secret.md)
+

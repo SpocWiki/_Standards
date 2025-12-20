@@ -109,3 +109,22 @@ exact_match:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tetanus)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tetanus](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.md) 
+
+### #is_/same_as :: [Tetanus.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.public.md) 
+
+### #is_/same_as :: [Tetanus.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.internal.md) 
+
+### #is_/same_as :: [Tetanus.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.protect.md) 
+
+### #is_/same_as :: [Tetanus.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.private.md) 
+
+### #is_/same_as :: [Tetanus.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.personal.md) 
+
+### #is_/same_as :: [Tetanus.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.secret.md)
+

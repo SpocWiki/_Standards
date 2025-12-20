@@ -69,3 +69,21 @@ Commons_category: Veterinary medicine
 > and control of zoonotic disease (infectious disease transmitted from nonhuman animals to humans), food safety, and through human applications via medical research. They also help to maintain food supply through livestock health monitoring and treatment, and mental health by keeping pets healthy and long-living. Veterinary scientists often collaborate with epidemiologists and other health or natural scientists, depending on type of work. Ethically, veterinarians are usually obliged to look after animal welfare. Veterinarians diagnose, treat, and help keep animals safe and healthy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Veterinary%20medicine)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Veterinary_Medicine](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.md) 
+
+### #is_/same_as :: [Veterinary_Medicine.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.public.md) 
+
+### #is_/same_as :: [Veterinary_Medicine.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.internal.md) 
+
+### #is_/same_as :: [Veterinary_Medicine.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.protect.md) 
+
+### #is_/same_as :: [Veterinary_Medicine.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.private.md) 
+
+### #is_/same_as :: [Veterinary_Medicine.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.personal.md) 
+
+### #is_/same_as :: [Veterinary_Medicine.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.secret.md)
+

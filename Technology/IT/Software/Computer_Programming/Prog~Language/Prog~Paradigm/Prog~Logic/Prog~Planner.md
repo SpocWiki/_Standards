@@ -15,3 +15,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Planner%20(programming%20language))
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Planner](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Planner.md) 
+
+### #is_/same_as :: [Prog~Planner.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Planner.public.md) 
+
+### #is_/same_as :: [Prog~Planner.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Planner.internal.md) 
+
+### #is_/same_as :: [Prog~Planner.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Planner.protect.md) 
+
+### #is_/same_as :: [Prog~Planner.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Planner.private.md) 
+
+### #is_/same_as :: [Prog~Planner.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Planner.personal.md) 
+
+### #is_/same_as :: [Prog~Planner.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Planner.secret.md)
+

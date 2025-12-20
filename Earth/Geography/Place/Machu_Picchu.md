@@ -84,3 +84,22 @@ coordinate_location: Point(-72.545555555 -13.163055555)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Machu%20Picchu) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Machu_Picchu](/_Standards/Earth/Geography/Place/Machu_Picchu.md) 
+
+### #is_/same_as :: [Machu_Picchu.public](/_public/Earth/Geography/Place/Machu_Picchu.public.md) 
+
+### #is_/same_as :: [Machu_Picchu.internal](/_internal/Earth/Geography/Place/Machu_Picchu.internal.md) 
+
+### #is_/same_as :: [Machu_Picchu.protect](/_protect/Earth/Geography/Place/Machu_Picchu.protect.md) 
+
+### #is_/same_as :: [Machu_Picchu.private](/_private/Earth/Geography/Place/Machu_Picchu.private.md) 
+
+### #is_/same_as :: [Machu_Picchu.personal](/_personal/Earth/Geography/Place/Machu_Picchu.personal.md) 
+
+### #is_/same_as :: [Machu_Picchu.secret](/_secret/Earth/Geography/Place/Machu_Picchu.secret.md)
+

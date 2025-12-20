@@ -88,3 +88,22 @@ date_of_official_opening: 2008-10-21T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Large%20Hadron%20Collider) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Large_Hadron_Collider](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.md) 
+
+### #is_/same_as :: [Large_Hadron_Collider.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.public.md) 
+
+### #is_/same_as :: [Large_Hadron_Collider.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.internal.md) 
+
+### #is_/same_as :: [Large_Hadron_Collider.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.protect.md) 
+
+### #is_/same_as :: [Large_Hadron_Collider.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.private.md) 
+
+### #is_/same_as :: [Large_Hadron_Collider.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.personal.md) 
+
+### #is_/same_as :: [Large_Hadron_Collider.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.secret.md)
+

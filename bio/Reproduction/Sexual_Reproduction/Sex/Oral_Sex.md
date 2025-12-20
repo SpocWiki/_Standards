@@ -53,3 +53,22 @@ image:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oral%20sex) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oral_Sex](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.md) 
+
+### #is_/same_as :: [Oral_Sex.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.public.md) 
+
+### #is_/same_as :: [Oral_Sex.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.internal.md) 
+
+### #is_/same_as :: [Oral_Sex.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.protect.md) 
+
+### #is_/same_as :: [Oral_Sex.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.private.md) 
+
+### #is_/same_as :: [Oral_Sex.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.personal.md) 
+
+### #is_/same_as :: [Oral_Sex.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Oral_Sex.secret.md)
+

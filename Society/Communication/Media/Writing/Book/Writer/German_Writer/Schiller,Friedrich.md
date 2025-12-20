@@ -184,3 +184,22 @@ Libris_URI: 75kmnddr3xgq0wt
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Friedrich%20Schiller) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Schiller,Friedrich](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Schiller,Friedrich.md) 
+
+### #is_/same_as :: [Schiller,Friedrich.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Schiller,Friedrich.public.md) 
+
+### #is_/same_as :: [Schiller,Friedrich.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Schiller,Friedrich.internal.md) 
+
+### #is_/same_as :: [Schiller,Friedrich.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Schiller,Friedrich.protect.md) 
+
+### #is_/same_as :: [Schiller,Friedrich.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Schiller,Friedrich.private.md) 
+
+### #is_/same_as :: [Schiller,Friedrich.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Schiller,Friedrich.personal.md) 
+
+### #is_/same_as :: [Schiller,Friedrich.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Schiller,Friedrich.secret.md)
+

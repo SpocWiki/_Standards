@@ -48,3 +48,22 @@ Die vierte Bombe geht verloren.
 
 1965-12 A4 Jagdbomber und H-Bombe rollen vom Flugzeugträger 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Broken_Arrow](/_Standards/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.md) 
+
+### #is_/same_as :: [Broken_Arrow.public](/_public/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.public.md) 
+
+### #is_/same_as :: [Broken_Arrow.internal](/_internal/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.internal.md) 
+
+### #is_/same_as :: [Broken_Arrow.protect](/_protect/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.protect.md) 
+
+### #is_/same_as :: [Broken_Arrow.private](/_private/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.private.md) 
+
+### #is_/same_as :: [Broken_Arrow.personal](/_personal/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.personal.md) 
+
+### #is_/same_as :: [Broken_Arrow.secret](/_secret/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.secret.md)
+

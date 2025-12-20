@@ -54,3 +54,22 @@ Commons_category: Dresses
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dress) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dress](/_Standards/Technology/Tool/Clothing/Dress.md) 
+
+### #is_/same_as :: [Dress.public](/_public/Technology/Tool/Clothing/Dress.public.md) 
+
+### #is_/same_as :: [Dress.internal](/_internal/Technology/Tool/Clothing/Dress.internal.md) 
+
+### #is_/same_as :: [Dress.protect](/_protect/Technology/Tool/Clothing/Dress.protect.md) 
+
+### #is_/same_as :: [Dress.private](/_private/Technology/Tool/Clothing/Dress.private.md) 
+
+### #is_/same_as :: [Dress.personal](/_personal/Technology/Tool/Clothing/Dress.personal.md) 
+
+### #is_/same_as :: [Dress.secret](/_secret/Technology/Tool/Clothing/Dress.secret.md)
+

@@ -44,6 +44,7 @@ Place of worship, such as a church, synagogue, or mosque.
 
 #is_/same_as :: [[_Standards/WikiData/WD~religious_building,24398318]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Place_of_Worship](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship.md) 

@@ -54,7 +54,7 @@ has_id_wikidata: Q133516
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monosaccharide](Monosaccharide.md) 
+### #is_/same_as :: [Monosaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.md) 
 
 ### #is_/same_as :: [Monosaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.public.md) 
 

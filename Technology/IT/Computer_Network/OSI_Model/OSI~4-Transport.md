@@ -27,3 +27,22 @@ Stack_Exchange_tag: https://networkengineering.stackexchange.com/tags/layer4
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Transport%20layer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OSI~4-Transport](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~4-Transport.md) 
+
+### #is_/same_as :: [OSI~4-Transport.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~4-Transport.public.md) 
+
+### #is_/same_as :: [OSI~4-Transport.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~4-Transport.internal.md) 
+
+### #is_/same_as :: [OSI~4-Transport.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~4-Transport.protect.md) 
+
+### #is_/same_as :: [OSI~4-Transport.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~4-Transport.private.md) 
+
+### #is_/same_as :: [OSI~4-Transport.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~4-Transport.personal.md) 
+
+### #is_/same_as :: [OSI~4-Transport.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~4-Transport.secret.md)
+

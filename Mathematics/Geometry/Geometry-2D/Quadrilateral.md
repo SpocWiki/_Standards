@@ -58,3 +58,22 @@ Commons_category: Tetragons
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quadrilateral) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Quadrilateral](/_Standards/Mathematics/Geometry/Geometry-2D/Quadrilateral.md) 
+
+### #is_/same_as :: [Quadrilateral.public](/_public/Mathematics/Geometry/Geometry-2D/Quadrilateral.public.md) 
+
+### #is_/same_as :: [Quadrilateral.internal](/_internal/Mathematics/Geometry/Geometry-2D/Quadrilateral.internal.md) 
+
+### #is_/same_as :: [Quadrilateral.protect](/_protect/Mathematics/Geometry/Geometry-2D/Quadrilateral.protect.md) 
+
+### #is_/same_as :: [Quadrilateral.private](/_private/Mathematics/Geometry/Geometry-2D/Quadrilateral.private.md) 
+
+### #is_/same_as :: [Quadrilateral.personal](/_personal/Mathematics/Geometry/Geometry-2D/Quadrilateral.personal.md) 
+
+### #is_/same_as :: [Quadrilateral.secret](/_secret/Mathematics/Geometry/Geometry-2D/Quadrilateral.secret.md)
+

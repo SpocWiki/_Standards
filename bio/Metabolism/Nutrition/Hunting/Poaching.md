@@ -49,3 +49,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Le%20braconnier%20par%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poaching) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Poaching](/_Standards/bio/Metabolism/Nutrition/Hunting/Poaching.md) 
+
+### #is_/same_as :: [Poaching.public](/_public/bio/Metabolism/Nutrition/Hunting/Poaching.public.md) 
+
+### #is_/same_as :: [Poaching.internal](/_internal/bio/Metabolism/Nutrition/Hunting/Poaching.internal.md) 
+
+### #is_/same_as :: [Poaching.protect](/_protect/bio/Metabolism/Nutrition/Hunting/Poaching.protect.md) 
+
+### #is_/same_as :: [Poaching.private](/_private/bio/Metabolism/Nutrition/Hunting/Poaching.private.md) 
+
+### #is_/same_as :: [Poaching.personal](/_personal/bio/Metabolism/Nutrition/Hunting/Poaching.personal.md) 
+
+### #is_/same_as :: [Poaching.secret](/_secret/bio/Metabolism/Nutrition/Hunting/Poaching.secret.md)
+

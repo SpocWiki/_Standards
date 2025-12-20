@@ -19,3 +19,22 @@ has_id_wikidata: Q326277
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cation](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.md) 
+
+### #is_/same_as :: [Cation.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.public.md) 
+
+### #is_/same_as :: [Cation.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.internal.md) 
+
+### #is_/same_as :: [Cation.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.protect.md) 
+
+### #is_/same_as :: [Cation.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.private.md) 
+
+### #is_/same_as :: [Cation.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.personal.md) 
+
+### #is_/same_as :: [Cation.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.secret.md)
+

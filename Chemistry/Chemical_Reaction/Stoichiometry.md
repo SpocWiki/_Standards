@@ -56,3 +56,22 @@ Dewey_Decimal_Classification: "541.26"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stoichiometry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stoichiometry](/_Standards/Chemistry/Chemical_Reaction/Stoichiometry.md) 
+
+### #is_/same_as :: [Stoichiometry.public](/_public/Chemistry/Chemical_Reaction/Stoichiometry.public.md) 
+
+### #is_/same_as :: [Stoichiometry.internal](/_internal/Chemistry/Chemical_Reaction/Stoichiometry.internal.md) 
+
+### #is_/same_as :: [Stoichiometry.protect](/_protect/Chemistry/Chemical_Reaction/Stoichiometry.protect.md) 
+
+### #is_/same_as :: [Stoichiometry.private](/_private/Chemistry/Chemical_Reaction/Stoichiometry.private.md) 
+
+### #is_/same_as :: [Stoichiometry.personal](/_personal/Chemistry/Chemical_Reaction/Stoichiometry.personal.md) 
+
+### #is_/same_as :: [Stoichiometry.secret](/_secret/Chemistry/Chemical_Reaction/Stoichiometry.secret.md)
+

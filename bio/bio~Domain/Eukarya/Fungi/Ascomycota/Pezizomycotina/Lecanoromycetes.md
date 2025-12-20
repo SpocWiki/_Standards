@@ -22,7 +22,7 @@ title: Lecanoromycetes
 
 # Lecanoromycetes 
 
-Containing group:[Pezizomycotina](../Pezizomycotina.md))
+Containing group:[Pezizomycotina](../Pezizomycotina.md))
 
 
 ## Confidential Links & Embeds: 

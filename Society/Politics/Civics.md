@@ -25,3 +25,22 @@ has_id_wikidata: Q837313
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Civics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Civics](/_Standards/Society/Politics/Civics.md) 
+
+### #is_/same_as :: [Civics.public](/_public/Society/Politics/Civics.public.md) 
+
+### #is_/same_as :: [Civics.internal](/_internal/Society/Politics/Civics.internal.md) 
+
+### #is_/same_as :: [Civics.protect](/_protect/Society/Politics/Civics.protect.md) 
+
+### #is_/same_as :: [Civics.private](/_private/Society/Politics/Civics.private.md) 
+
+### #is_/same_as :: [Civics.personal](/_personal/Society/Politics/Civics.personal.md) 
+
+### #is_/same_as :: [Civics.secret](/_secret/Society/Politics/Civics.secret.md)
+

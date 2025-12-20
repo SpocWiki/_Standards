@@ -40,17 +40,17 @@ A system of medicine based on common theoretical concepts that originated in Chi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [traditional_chinese](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.md) 
+### #is_/same_as :: [Traditional_Chinese](/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.md) 
 
-### #is_/same_as :: [traditional_chinese.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.public.md) 
+### #is_/same_as :: [Traditional_Chinese.public](/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.public.md) 
 
-### #is_/same_as :: [traditional_chinese.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.internal.md) 
+### #is_/same_as :: [Traditional_Chinese.internal](/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.internal.md) 
 
-### #is_/same_as :: [traditional_chinese.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.protect.md) 
+### #is_/same_as :: [Traditional_Chinese.protect](/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.protect.md) 
 
-### #is_/same_as :: [traditional_chinese.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.private.md) 
+### #is_/same_as :: [Traditional_Chinese.private](/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.private.md) 
 
-### #is_/same_as :: [traditional_chinese.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.personal.md) 
+### #is_/same_as :: [Traditional_Chinese.personal](/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.personal.md) 
 
-### #is_/same_as :: [traditional_chinese.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.secret.md)
+### #is_/same_as :: [Traditional_Chinese.secret](/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.secret.md)
 

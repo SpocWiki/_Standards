@@ -95,3 +95,22 @@ short_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/November) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [November](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/November.md) 
+
+### #is_/same_as :: [November.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/November.public.md) 
+
+### #is_/same_as :: [November.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/November.internal.md) 
+
+### #is_/same_as :: [November.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/November.protect.md) 
+
+### #is_/same_as :: [November.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/November.private.md) 
+
+### #is_/same_as :: [November.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/November.personal.md) 
+
+### #is_/same_as :: [November.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/November.secret.md)
+

@@ -48,3 +48,22 @@ unit_symbol: °
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Degree%20(angle)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Degree](/_Standards/Dimension/Angular_Dimension/Degree.md) 
+
+### #is_/same_as :: [Degree.public](/_public/Dimension/Angular_Dimension/Degree.public.md) 
+
+### #is_/same_as :: [Degree.internal](/_internal/Dimension/Angular_Dimension/Degree.internal.md) 
+
+### #is_/same_as :: [Degree.protect](/_protect/Dimension/Angular_Dimension/Degree.protect.md) 
+
+### #is_/same_as :: [Degree.private](/_private/Dimension/Angular_Dimension/Degree.private.md) 
+
+### #is_/same_as :: [Degree.personal](/_personal/Dimension/Angular_Dimension/Degree.personal.md) 
+
+### #is_/same_as :: [Degree.secret](/_secret/Dimension/Angular_Dimension/Degree.secret.md)
+

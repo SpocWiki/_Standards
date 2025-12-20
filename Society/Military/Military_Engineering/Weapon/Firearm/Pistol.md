@@ -69,3 +69,22 @@ U_S_National_Archives_Identifier: "10664383"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pistol) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pistol](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Pistol.md) 
+
+### #is_/same_as :: [Pistol.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Pistol.public.md) 
+
+### #is_/same_as :: [Pistol.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Pistol.internal.md) 
+
+### #is_/same_as :: [Pistol.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Pistol.protect.md) 
+
+### #is_/same_as :: [Pistol.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Pistol.private.md) 
+
+### #is_/same_as :: [Pistol.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Pistol.personal.md) 
+
+### #is_/same_as :: [Pistol.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Pistol.secret.md)
+

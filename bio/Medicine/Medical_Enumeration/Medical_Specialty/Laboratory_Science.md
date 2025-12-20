@@ -43,17 +43,17 @@ or bacteriological diagnostic analyses or research.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [laboratory_science](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.md) 
+### #is_/same_as :: [Laboratory_Science](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.md) 
 
-### #is_/same_as :: [laboratory_science.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.public.md) 
+### #is_/same_as :: [Laboratory_Science.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.public.md) 
 
-### #is_/same_as :: [laboratory_science.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.internal.md) 
+### #is_/same_as :: [Laboratory_Science.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.internal.md) 
 
-### #is_/same_as :: [laboratory_science.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.protect.md) 
+### #is_/same_as :: [Laboratory_Science.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.protect.md) 
 
-### #is_/same_as :: [laboratory_science.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.private.md) 
+### #is_/same_as :: [Laboratory_Science.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.private.md) 
 
-### #is_/same_as :: [laboratory_science.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.personal.md) 
+### #is_/same_as :: [Laboratory_Science.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.personal.md) 
 
-### #is_/same_as :: [laboratory_science.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.secret.md)
+### #is_/same_as :: [Laboratory_Science.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.secret.md)
 

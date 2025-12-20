@@ -40,3 +40,22 @@ Krugosvet_article: narody-i-yazyki/kreoly
 > [Wikipedia](https://en.wikipedia.org/wiki/Creole%20peoples) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Creole_Peoples](/_Standards/Society/Agent/Community/Creole_Peoples.md) 
+
+### #is_/same_as :: [Creole_Peoples.public](/_public/Society/Agent/Community/Creole_Peoples.public.md) 
+
+### #is_/same_as :: [Creole_Peoples.internal](/_internal/Society/Agent/Community/Creole_Peoples.internal.md) 
+
+### #is_/same_as :: [Creole_Peoples.protect](/_protect/Society/Agent/Community/Creole_Peoples.protect.md) 
+
+### #is_/same_as :: [Creole_Peoples.private](/_private/Society/Agent/Community/Creole_Peoples.private.md) 
+
+### #is_/same_as :: [Creole_Peoples.personal](/_personal/Society/Agent/Community/Creole_Peoples.personal.md) 
+
+### #is_/same_as :: [Creole_Peoples.secret](/_secret/Society/Agent/Community/Creole_Peoples.secret.md)
+

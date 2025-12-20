@@ -58,3 +58,22 @@ Baidu_Tieba_name: 路由器
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Router%20(computing))  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Router](/_Standards/Technology/IT/Computer_Network/Internet/Router.md) 
+
+### #is_/same_as :: [Router.public](/_public/Technology/IT/Computer_Network/Internet/Router.public.md) 
+
+### #is_/same_as :: [Router.internal](/_internal/Technology/IT/Computer_Network/Internet/Router.internal.md) 
+
+### #is_/same_as :: [Router.protect](/_protect/Technology/IT/Computer_Network/Internet/Router.protect.md) 
+
+### #is_/same_as :: [Router.private](/_private/Technology/IT/Computer_Network/Internet/Router.private.md) 
+
+### #is_/same_as :: [Router.personal](/_personal/Technology/IT/Computer_Network/Internet/Router.personal.md) 
+
+### #is_/same_as :: [Router.secret](/_secret/Technology/IT/Computer_Network/Internet/Router.secret.md)
+

@@ -73,3 +73,22 @@ Wikidata_SPARQL_query_equivalent: wd:Q191118 p:P2370/psn:P2370 [wikibase:quantit
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tonne) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~Tonne](/_Standards/Dimension/Mass/Unit~Tonne.md) 
+
+### #is_/same_as :: [Unit~Tonne.public](/_public/Dimension/Mass/Unit~Tonne.public.md) 
+
+### #is_/same_as :: [Unit~Tonne.internal](/_internal/Dimension/Mass/Unit~Tonne.internal.md) 
+
+### #is_/same_as :: [Unit~Tonne.protect](/_protect/Dimension/Mass/Unit~Tonne.protect.md) 
+
+### #is_/same_as :: [Unit~Tonne.private](/_private/Dimension/Mass/Unit~Tonne.private.md) 
+
+### #is_/same_as :: [Unit~Tonne.personal](/_personal/Dimension/Mass/Unit~Tonne.personal.md) 
+
+### #is_/same_as :: [Unit~Tonne.secret](/_secret/Dimension/Mass/Unit~Tonne.secret.md)
+

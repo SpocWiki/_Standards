@@ -38,3 +38,22 @@ IMDb_keyword: music-history
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20music) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Music](/_Standards/Society/Communication/Media/Music/History_of_Music.md) 
+
+### #is_/same_as :: [History_of_Music.public](/_public/Society/Communication/Media/Music/History_of_Music.public.md) 
+
+### #is_/same_as :: [History_of_Music.internal](/_internal/Society/Communication/Media/Music/History_of_Music.internal.md) 
+
+### #is_/same_as :: [History_of_Music.protect](/_protect/Society/Communication/Media/Music/History_of_Music.protect.md) 
+
+### #is_/same_as :: [History_of_Music.private](/_private/Society/Communication/Media/Music/History_of_Music.private.md) 
+
+### #is_/same_as :: [History_of_Music.personal](/_personal/Society/Communication/Media/Music/History_of_Music.personal.md) 
+
+### #is_/same_as :: [History_of_Music.secret](/_secret/Society/Communication/Media/Music/History_of_Music.secret.md)
+

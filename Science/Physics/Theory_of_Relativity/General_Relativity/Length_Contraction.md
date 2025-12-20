@@ -33,3 +33,22 @@ time_of_discovery_or_invention:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Length%20contraction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Length_Contraction](/_Standards/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.md) 
+
+### #is_/same_as :: [Length_Contraction.public](/_public/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.public.md) 
+
+### #is_/same_as :: [Length_Contraction.internal](/_internal/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.internal.md) 
+
+### #is_/same_as :: [Length_Contraction.protect](/_protect/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.protect.md) 
+
+### #is_/same_as :: [Length_Contraction.private](/_private/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.private.md) 
+
+### #is_/same_as :: [Length_Contraction.personal](/_personal/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.personal.md) 
+
+### #is_/same_as :: [Length_Contraction.secret](/_secret/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.secret.md)
+

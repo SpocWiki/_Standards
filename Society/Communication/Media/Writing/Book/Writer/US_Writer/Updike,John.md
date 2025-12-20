@@ -175,3 +175,22 @@ ISNI: "0000000120966345"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Updike) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Updike,John](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Updike,John.md) 
+
+### #is_/same_as :: [Updike,John.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Updike,John.public.md) 
+
+### #is_/same_as :: [Updike,John.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Updike,John.internal.md) 
+
+### #is_/same_as :: [Updike,John.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Updike,John.protect.md) 
+
+### #is_/same_as :: [Updike,John.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Updike,John.private.md) 
+
+### #is_/same_as :: [Updike,John.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Updike,John.personal.md) 
+
+### #is_/same_as :: [Updike,John.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Updike,John.secret.md)
+

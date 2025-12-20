@@ -55,3 +55,22 @@ has_id_wikidata: Q375791
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Standard%20Oil%20Company) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Standard_Oil](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.md) 
+
+### #is_/same_as :: [Standard_Oil.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.public.md) 
+
+### #is_/same_as :: [Standard_Oil.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.internal.md) 
+
+### #is_/same_as :: [Standard_Oil.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.protect.md) 
+
+### #is_/same_as :: [Standard_Oil.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.private.md) 
+
+### #is_/same_as :: [Standard_Oil.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.personal.md) 
+
+### #is_/same_as :: [Standard_Oil.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.secret.md)
+

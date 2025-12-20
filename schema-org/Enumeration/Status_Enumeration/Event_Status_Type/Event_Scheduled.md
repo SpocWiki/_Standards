@@ -40,17 +40,17 @@ The event is taking place or has taken place on the startDate as scheduled. Use 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event_Scheduled](Event_Scheduled.md) 
+### #is_/same_as :: [Event_Scheduled](/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.md) 
 
-### #is_/same_as :: [event_scheduled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.public.md) 
+### #is_/same_as :: [Event_Scheduled.public](/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.public.md) 
 
-### #is_/same_as :: [event_scheduled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.internal.md) 
+### #is_/same_as :: [Event_Scheduled.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.internal.md) 
 
-### #is_/same_as :: [event_scheduled.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.protect.md) 
+### #is_/same_as :: [Event_Scheduled.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.protect.md) 
 
-### #is_/same_as :: [event_scheduled.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.private.md) 
+### #is_/same_as :: [Event_Scheduled.private](/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.private.md) 
 
-### #is_/same_as :: [event_scheduled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.personal.md) 
+### #is_/same_as :: [Event_Scheduled.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.personal.md) 
 
-### #is_/same_as :: [event_scheduled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.secret.md)
+### #is_/same_as :: [Event_Scheduled.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.secret.md)
 

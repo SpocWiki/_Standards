@@ -44,3 +44,22 @@ Commons_category: Remote sensing
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Remote%20sensing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Remote_Sensing](/_Standards/Science/Physics/Measurement/Remote_Sensing.md) 
+
+### #is_/same_as :: [Remote_Sensing.public](/_public/Science/Physics/Measurement/Remote_Sensing.public.md) 
+
+### #is_/same_as :: [Remote_Sensing.internal](/_internal/Science/Physics/Measurement/Remote_Sensing.internal.md) 
+
+### #is_/same_as :: [Remote_Sensing.protect](/_protect/Science/Physics/Measurement/Remote_Sensing.protect.md) 
+
+### #is_/same_as :: [Remote_Sensing.private](/_private/Science/Physics/Measurement/Remote_Sensing.private.md) 
+
+### #is_/same_as :: [Remote_Sensing.personal](/_personal/Science/Physics/Measurement/Remote_Sensing.personal.md) 
+
+### #is_/same_as :: [Remote_Sensing.secret](/_secret/Science/Physics/Measurement/Remote_Sensing.secret.md)
+

@@ -46,3 +46,22 @@ Krugosvet_article_archived_: istoriya/MAMLYUK.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mamluk) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mamluk](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Mamluk.md) 
+
+### #is_/same_as :: [Mamluk.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Mamluk.public.md) 
+
+### #is_/same_as :: [Mamluk.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Mamluk.internal.md) 
+
+### #is_/same_as :: [Mamluk.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Mamluk.protect.md) 
+
+### #is_/same_as :: [Mamluk.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Mamluk.private.md) 
+
+### #is_/same_as :: [Mamluk.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Mamluk.personal.md) 
+
+### #is_/same_as :: [Mamluk.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Mamluk.secret.md)
+

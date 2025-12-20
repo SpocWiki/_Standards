@@ -87,3 +87,22 @@ _Revolver_ cemented the idea of the pop album as an intricate, labored-over stud
 “When I met Paul McCartney, I said to him, ‘You know what I really loved about The Beatles? You always had the f...g best melodies.’”
 Ozzy Osbourne
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Revolver(Beatles)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).md) 
+
+### #is_/same_as :: [Revolver(Beatles).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).public.md) 
+
+### #is_/same_as :: [Revolver(Beatles).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).internal.md) 
+
+### #is_/same_as :: [Revolver(Beatles).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).protect.md) 
+
+### #is_/same_as :: [Revolver(Beatles).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).private.md) 
+
+### #is_/same_as :: [Revolver(Beatles).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).personal.md) 
+
+### #is_/same_as :: [Revolver(Beatles).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).secret.md)
+

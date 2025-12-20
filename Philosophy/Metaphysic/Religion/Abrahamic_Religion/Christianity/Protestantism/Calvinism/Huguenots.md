@@ -82,3 +82,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/GUGENOTI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Huguenots) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Huguenots](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.md) 
+
+### #is_/same_as :: [Huguenots.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.public.md) 
+
+### #is_/same_as :: [Huguenots.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.internal.md) 
+
+### #is_/same_as :: [Huguenots.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.protect.md) 
+
+### #is_/same_as :: [Huguenots.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.private.md) 
+
+### #is_/same_as :: [Huguenots.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.personal.md) 
+
+### #is_/same_as :: [Huguenots.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.secret.md)
+

@@ -165,3 +165,22 @@ ISNI: "0000000108687618"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Christiaan%20Huygens) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Huygens,Christiaan](/_Standards/Science/Physics/Physicist/Huygens,Christiaan.md) 
+
+### #is_/same_as :: [Huygens,Christiaan.public](/_public/Science/Physics/Physicist/Huygens,Christiaan.public.md) 
+
+### #is_/same_as :: [Huygens,Christiaan.internal](/_internal/Science/Physics/Physicist/Huygens,Christiaan.internal.md) 
+
+### #is_/same_as :: [Huygens,Christiaan.protect](/_protect/Science/Physics/Physicist/Huygens,Christiaan.protect.md) 
+
+### #is_/same_as :: [Huygens,Christiaan.private](/_private/Science/Physics/Physicist/Huygens,Christiaan.private.md) 
+
+### #is_/same_as :: [Huygens,Christiaan.personal](/_personal/Science/Physics/Physicist/Huygens,Christiaan.personal.md) 
+
+### #is_/same_as :: [Huygens,Christiaan.secret](/_secret/Science/Physics/Physicist/Huygens,Christiaan.secret.md)
+

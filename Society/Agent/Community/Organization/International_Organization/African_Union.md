@@ -132,17 +132,17 @@ X_Twitter_username: _AfricanUnion
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [African_Union](African_Union.md) 
+### #is_/same_as :: [African_Union](/_Standards/Society/Agent/Community/Organization/International_Organization/African_Union.md) 
 
-### #is_/same_as :: [African_Union.public](/_public/International/African_Union.public.md) 
+### #is_/same_as :: [African_Union.public](/_public/Society/Agent/Community/Organization/International_Organization/African_Union.public.md) 
 
-### #is_/same_as :: [African_Union.internal](/_internal/International/African_Union.internal.md) 
+### #is_/same_as :: [African_Union.internal](/_internal/Society/Agent/Community/Organization/International_Organization/African_Union.internal.md) 
 
-### #is_/same_as :: [African_Union.protect](/_protect/International/African_Union.protect.md) 
+### #is_/same_as :: [African_Union.protect](/_protect/Society/Agent/Community/Organization/International_Organization/African_Union.protect.md) 
 
-### #is_/same_as :: [African_Union.private](/_private/International/African_Union.private.md) 
+### #is_/same_as :: [African_Union.private](/_private/Society/Agent/Community/Organization/International_Organization/African_Union.private.md) 
 
-### #is_/same_as :: [African_Union.personal](/_personal/International/African_Union.personal.md) 
+### #is_/same_as :: [African_Union.personal](/_personal/Society/Agent/Community/Organization/International_Organization/African_Union.personal.md) 
 
-### #is_/same_as :: [African_Union.secret](/_secret/International/African_Union.secret.md)
+### #is_/same_as :: [African_Union.secret](/_secret/Society/Agent/Community/Organization/International_Organization/African_Union.secret.md)
 

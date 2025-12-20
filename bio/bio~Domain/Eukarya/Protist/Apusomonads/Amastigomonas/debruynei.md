@@ -109,7 +109,7 @@ Natural History 34: 483-562.
   Comments             phase contrast light micrographs of living cell
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

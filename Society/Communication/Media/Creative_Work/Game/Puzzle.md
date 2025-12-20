@@ -38,3 +38,22 @@ Stack_Exchange_site_URL: https://puzzling.stackexchange.com
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Puzzle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Puzzle](/_Standards/Society/Communication/Media/Creative_Work/Game/Puzzle.md) 
+
+### #is_/same_as :: [Puzzle.public](/_public/Society/Communication/Media/Creative_Work/Game/Puzzle.public.md) 
+
+### #is_/same_as :: [Puzzle.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Puzzle.internal.md) 
+
+### #is_/same_as :: [Puzzle.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Puzzle.protect.md) 
+
+### #is_/same_as :: [Puzzle.private](/_private/Society/Communication/Media/Creative_Work/Game/Puzzle.private.md) 
+
+### #is_/same_as :: [Puzzle.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Puzzle.personal.md) 
+
+### #is_/same_as :: [Puzzle.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Puzzle.secret.md)
+

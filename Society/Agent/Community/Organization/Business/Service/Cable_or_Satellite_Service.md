@@ -39,17 +39,17 @@ A service which provides access to media programming like TV or radio. Access ma
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cable_or_Satellite_Service](Cable_or_Satellite_Service.md) 
+### #is_/same_as :: [Cable_or_Satellite_Service](/_Standards/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.md) 
 
-### #is_/same_as :: [cable_or_satellite_service.public](/_public/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.public.md) 
+### #is_/same_as :: [Cable_or_Satellite_Service.public](/_public/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.public.md) 
 
-### #is_/same_as :: [cable_or_satellite_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.internal.md) 
+### #is_/same_as :: [Cable_or_Satellite_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.internal.md) 
 
-### #is_/same_as :: [cable_or_satellite_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.protect.md) 
+### #is_/same_as :: [Cable_or_Satellite_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.protect.md) 
 
-### #is_/same_as :: [cable_or_satellite_service.private](/_private/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.private.md) 
+### #is_/same_as :: [Cable_or_Satellite_Service.private](/_private/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.private.md) 
 
-### #is_/same_as :: [cable_or_satellite_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.personal.md) 
+### #is_/same_as :: [Cable_or_Satellite_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.personal.md) 
 
-### #is_/same_as :: [cable_or_satellite_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.secret.md)
+### #is_/same_as :: [Cable_or_Satellite_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.secret.md)
 

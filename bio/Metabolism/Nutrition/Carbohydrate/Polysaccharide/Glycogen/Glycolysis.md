@@ -56,3 +56,22 @@ Krugosvet_article: nauka_i_tehnika/himiya/GLIKOLIZ.html
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Glycolysis](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.md) 
+
+### #is_/same_as :: [Glycolysis.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.public.md) 
+
+### #is_/same_as :: [Glycolysis.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.internal.md) 
+
+### #is_/same_as :: [Glycolysis.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.protect.md) 
+
+### #is_/same_as :: [Glycolysis.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.private.md) 
+
+### #is_/same_as :: [Glycolysis.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.personal.md) 
+
+### #is_/same_as :: [Glycolysis.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.secret.md)
+

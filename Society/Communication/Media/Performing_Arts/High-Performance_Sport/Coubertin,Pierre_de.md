@@ -115,17 +115,17 @@ birth_name: Charles Pierre Frédy de Coubertin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pierre_de_Coubertin](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Pierre_de_Coubertin.md) 
+### #is_/same_as :: [Coubertin,Pierre_de](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Coubertin,Pierre_de.md) 
 
-### #is_/same_as :: [Pierre_de_Coubertin.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Pierre_de_Coubertin.public.md) 
+### #is_/same_as :: [Coubertin,Pierre_de.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Coubertin,Pierre_de.public.md) 
 
-### #is_/same_as :: [Pierre_de_Coubertin.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Pierre_de_Coubertin.internal.md) 
+### #is_/same_as :: [Coubertin,Pierre_de.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Coubertin,Pierre_de.internal.md) 
 
-### #is_/same_as :: [Pierre_de_Coubertin.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Pierre_de_Coubertin.protect.md) 
+### #is_/same_as :: [Coubertin,Pierre_de.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Coubertin,Pierre_de.protect.md) 
 
-### #is_/same_as :: [Pierre_de_Coubertin.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Pierre_de_Coubertin.private.md) 
+### #is_/same_as :: [Coubertin,Pierre_de.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Coubertin,Pierre_de.private.md) 
 
-### #is_/same_as :: [Pierre_de_Coubertin.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Pierre_de_Coubertin.personal.md) 
+### #is_/same_as :: [Coubertin,Pierre_de.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Coubertin,Pierre_de.personal.md) 
 
-### #is_/same_as :: [Pierre_de_Coubertin.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Pierre_de_Coubertin.secret.md)
+### #is_/same_as :: [Coubertin,Pierre_de.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Coubertin,Pierre_de.secret.md)
 

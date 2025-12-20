@@ -83,6 +83,7 @@ short_name: UMa
 
 #is_/same_as :: [[../../WikiData/WD~Ursa_Major,8918|WD~Ursa_Major,8918]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Ursa_Major](/_Standards/Astronomy/Star~Constellation/Zodiac~Ursa_Major.md) 

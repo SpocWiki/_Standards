@@ -56,3 +56,22 @@ Wikidata_SPARQL_query_equivalent: wd:Q130964 p:P2370/psn:P2370 [wikibase:quantit
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Calorie) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Small_Calorie](/_Standards/Dimension/Energy/Small_Calorie.md) 
+
+### #is_/same_as :: [Small_Calorie.public](/_public/Dimension/Energy/Small_Calorie.public.md) 
+
+### #is_/same_as :: [Small_Calorie.internal](/_internal/Dimension/Energy/Small_Calorie.internal.md) 
+
+### #is_/same_as :: [Small_Calorie.protect](/_protect/Dimension/Energy/Small_Calorie.protect.md) 
+
+### #is_/same_as :: [Small_Calorie.private](/_private/Dimension/Energy/Small_Calorie.private.md) 
+
+### #is_/same_as :: [Small_Calorie.personal](/_personal/Dimension/Energy/Small_Calorie.personal.md) 
+
+### #is_/same_as :: [Small_Calorie.secret](/_secret/Dimension/Energy/Small_Calorie.secret.md)
+

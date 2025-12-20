@@ -40,17 +40,17 @@ Available by prescription only.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [prescription_only](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.md) 
+### #is_/same_as :: [Drug_Prescription_Only](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.md) 
 
-### #is_/same_as :: [prescription_only.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.public.md) 
+### #is_/same_as :: [Drug_Prescription_Only.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.public.md) 
 
-### #is_/same_as :: [prescription_only.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.internal.md) 
+### #is_/same_as :: [Drug_Prescription_Only.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.internal.md) 
 
-### #is_/same_as :: [prescription_only.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.protect.md) 
+### #is_/same_as :: [Drug_Prescription_Only.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.protect.md) 
 
-### #is_/same_as :: [prescription_only.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.private.md) 
+### #is_/same_as :: [Drug_Prescription_Only.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.private.md) 
 
-### #is_/same_as :: [prescription_only.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.personal.md) 
+### #is_/same_as :: [Drug_Prescription_Only.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.personal.md) 
 
-### #is_/same_as :: [prescription_only.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.secret.md)
+### #is_/same_as :: [Drug_Prescription_Only.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.secret.md)
 

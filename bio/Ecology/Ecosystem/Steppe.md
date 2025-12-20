@@ -59,3 +59,22 @@ Dewey_Decimal_Classification: "333.74"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Steppe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Steppe](/_Standards/bio/Ecology/Ecosystem/Steppe.md) 
+
+### #is_/same_as :: [Steppe.public](/_public/bio/Ecology/Ecosystem/Steppe.public.md) 
+
+### #is_/same_as :: [Steppe.internal](/_internal/bio/Ecology/Ecosystem/Steppe.internal.md) 
+
+### #is_/same_as :: [Steppe.protect](/_protect/bio/Ecology/Ecosystem/Steppe.protect.md) 
+
+### #is_/same_as :: [Steppe.private](/_private/bio/Ecology/Ecosystem/Steppe.private.md) 
+
+### #is_/same_as :: [Steppe.personal](/_personal/bio/Ecology/Ecosystem/Steppe.personal.md) 
+
+### #is_/same_as :: [Steppe.secret](/_secret/bio/Ecology/Ecosystem/Steppe.secret.md)
+

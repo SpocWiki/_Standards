@@ -25,3 +25,22 @@ is_metaclass_for: "[[_Standards/WikiData/WD~software,7397]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Software%20categories) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Software_Category](/_Standards/Technology/IT/Software/Software_Category.md) 
+
+### #is_/same_as :: [Software_Category.public](/_public/Technology/IT/Software/Software_Category.public.md) 
+
+### #is_/same_as :: [Software_Category.internal](/_internal/Technology/IT/Software/Software_Category.internal.md) 
+
+### #is_/same_as :: [Software_Category.protect](/_protect/Technology/IT/Software/Software_Category.protect.md) 
+
+### #is_/same_as :: [Software_Category.private](/_private/Technology/IT/Software/Software_Category.private.md) 
+
+### #is_/same_as :: [Software_Category.personal](/_personal/Technology/IT/Software/Software_Category.personal.md) 
+
+### #is_/same_as :: [Software_Category.secret](/_secret/Technology/IT/Software/Software_Category.secret.md)
+

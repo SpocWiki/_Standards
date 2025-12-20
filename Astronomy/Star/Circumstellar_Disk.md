@@ -28,3 +28,22 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Circumstellar%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Circumstellar%20disc) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Circumstellar_Disk](/_Standards/Astronomy/Star/Circumstellar_Disk.md) 
+
+### #is_/same_as :: [Circumstellar_Disk.public](/_public/Astronomy/Star/Circumstellar_Disk.public.md) 
+
+### #is_/same_as :: [Circumstellar_Disk.internal](/_internal/Astronomy/Star/Circumstellar_Disk.internal.md) 
+
+### #is_/same_as :: [Circumstellar_Disk.protect](/_protect/Astronomy/Star/Circumstellar_Disk.protect.md) 
+
+### #is_/same_as :: [Circumstellar_Disk.private](/_private/Astronomy/Star/Circumstellar_Disk.private.md) 
+
+### #is_/same_as :: [Circumstellar_Disk.personal](/_personal/Astronomy/Star/Circumstellar_Disk.personal.md) 
+
+### #is_/same_as :: [Circumstellar_Disk.secret](/_secret/Astronomy/Star/Circumstellar_Disk.secret.md)
+

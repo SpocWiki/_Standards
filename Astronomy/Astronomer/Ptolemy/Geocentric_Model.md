@@ -30,3 +30,22 @@ Commons_category: Geocentric model
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Geocentrism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geocentric_Model](/_Standards/Astronomy/Astronomer/Ptolemy/Geocentric_Model.md) 
+
+### #is_/same_as :: [Geocentric_Model.public](/_public/Astronomy/Astronomer/Ptolemy/Geocentric_Model.public.md) 
+
+### #is_/same_as :: [Geocentric_Model.internal](/_internal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.internal.md) 
+
+### #is_/same_as :: [Geocentric_Model.protect](/_protect/Astronomy/Astronomer/Ptolemy/Geocentric_Model.protect.md) 
+
+### #is_/same_as :: [Geocentric_Model.private](/_private/Astronomy/Astronomer/Ptolemy/Geocentric_Model.private.md) 
+
+### #is_/same_as :: [Geocentric_Model.personal](/_personal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.personal.md) 
+
+### #is_/same_as :: [Geocentric_Model.secret](/_secret/Astronomy/Astronomer/Ptolemy/Geocentric_Model.secret.md)
+

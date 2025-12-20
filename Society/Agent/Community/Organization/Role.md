@@ -43,17 +43,17 @@ See also <a href="http://blog.schema.org/2014/06/introducing-role.html">blog pos
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Role](Role.md) 
+### #is_/same_as :: [Role](/_Standards/Society/Agent/Community/Organization/Role.md) 
 
-### #is_/same_as :: [role.public](/_public/schema-org/Class/is_a_/Intangible/role.public.md) 
+### #is_/same_as :: [Role.public](/_public/Society/Agent/Community/Organization/Role.public.md) 
 
-### #is_/same_as :: [role.internal](/_internal/schema-org/Class/is_a_/Intangible/role.internal.md) 
+### #is_/same_as :: [Role.internal](/_internal/Society/Agent/Community/Organization/Role.internal.md) 
 
-### #is_/same_as :: [role.protect](/_protect/schema-org/Class/is_a_/Intangible/role.protect.md) 
+### #is_/same_as :: [Role.protect](/_protect/Society/Agent/Community/Organization/Role.protect.md) 
 
-### #is_/same_as :: [role.private](/_private/schema-org/Class/is_a_/Intangible/role.private.md) 
+### #is_/same_as :: [Role.private](/_private/Society/Agent/Community/Organization/Role.private.md) 
 
-### #is_/same_as :: [role.personal](/_personal/schema-org/Class/is_a_/Intangible/role.personal.md) 
+### #is_/same_as :: [Role.personal](/_personal/Society/Agent/Community/Organization/Role.personal.md) 
 
-### #is_/same_as :: [role.secret](/_secret/schema-org/Class/is_a_/Intangible/role.secret.md)
+### #is_/same_as :: [Role.secret](/_secret/Society/Agent/Community/Organization/Role.secret.md)
 

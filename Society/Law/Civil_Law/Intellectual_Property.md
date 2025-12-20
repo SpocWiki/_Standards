@@ -81,3 +81,22 @@ GitHub_topic: intellectual-property
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Intellectual%20property) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Intellectual_Property](/_Standards/Society/Law/Civil_Law/Intellectual_Property.md) 
+
+### #is_/same_as :: [Intellectual_Property.public](/_public/Society/Law/Civil_Law/Intellectual_Property.public.md) 
+
+### #is_/same_as :: [Intellectual_Property.internal](/_internal/Society/Law/Civil_Law/Intellectual_Property.internal.md) 
+
+### #is_/same_as :: [Intellectual_Property.protect](/_protect/Society/Law/Civil_Law/Intellectual_Property.protect.md) 
+
+### #is_/same_as :: [Intellectual_Property.private](/_private/Society/Law/Civil_Law/Intellectual_Property.private.md) 
+
+### #is_/same_as :: [Intellectual_Property.personal](/_personal/Society/Law/Civil_Law/Intellectual_Property.personal.md) 
+
+### #is_/same_as :: [Intellectual_Property.secret](/_secret/Society/Law/Civil_Law/Intellectual_Property.secret.md)
+

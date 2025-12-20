@@ -40,17 +40,17 @@ Genito-urinary system function assessment with clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [genitourinary](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.md) 
+### #is_/same_as :: [Genitourinary_Exam](/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Genitourinary_Exam.md) 
 
-### #is_/same_as :: [genitourinary.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.public.md) 
+### #is_/same_as :: [Genitourinary_Exam.public](/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Genitourinary_Exam.public.md) 
 
-### #is_/same_as :: [genitourinary.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.internal.md) 
+### #is_/same_as :: [Genitourinary_Exam.internal](/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Genitourinary_Exam.internal.md) 
 
-### #is_/same_as :: [genitourinary.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.protect.md) 
+### #is_/same_as :: [Genitourinary_Exam.protect](/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Genitourinary_Exam.protect.md) 
 
-### #is_/same_as :: [genitourinary.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.private.md) 
+### #is_/same_as :: [Genitourinary_Exam.private](/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Genitourinary_Exam.private.md) 
 
-### #is_/same_as :: [genitourinary.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.personal.md) 
+### #is_/same_as :: [Genitourinary_Exam.personal](/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Genitourinary_Exam.personal.md) 
 
-### #is_/same_as :: [genitourinary.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.secret.md)
+### #is_/same_as :: [Genitourinary_Exam.secret](/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Genitourinary_Exam.secret.md)
 

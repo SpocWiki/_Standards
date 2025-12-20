@@ -79,3 +79,22 @@ street_address: Menara Berkembar Petronas, Pusat Bandaraya Kuala Lumpur, 50088, 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Petronas%20Towers)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Petronas_Towers](/_Standards/Earth/Geography/Place/Petronas_Towers.md) 
+
+### #is_/same_as :: [Petronas_Towers.public](/_public/Earth/Geography/Place/Petronas_Towers.public.md) 
+
+### #is_/same_as :: [Petronas_Towers.internal](/_internal/Earth/Geography/Place/Petronas_Towers.internal.md) 
+
+### #is_/same_as :: [Petronas_Towers.protect](/_protect/Earth/Geography/Place/Petronas_Towers.protect.md) 
+
+### #is_/same_as :: [Petronas_Towers.private](/_private/Earth/Geography/Place/Petronas_Towers.private.md) 
+
+### #is_/same_as :: [Petronas_Towers.personal](/_personal/Earth/Geography/Place/Petronas_Towers.personal.md) 
+
+### #is_/same_as :: [Petronas_Towers.secret](/_secret/Earth/Geography/Place/Petronas_Towers.secret.md)
+

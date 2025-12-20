@@ -68,3 +68,22 @@ and is flattened out and dried for 10 to 14 days.
 Its color changes to pale yellow, orange, or tan. 
 
 Whole dry mace consists of flat pieces—smooth, horn-like, and brittle—about 40 mm (1+1⁄2 in) long.
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nutmeg](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.md) 
+
+### #is_/same_as :: [Nutmeg.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.public.md) 
+
+### #is_/same_as :: [Nutmeg.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.internal.md) 
+
+### #is_/same_as :: [Nutmeg.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.protect.md) 
+
+### #is_/same_as :: [Nutmeg.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.private.md) 
+
+### #is_/same_as :: [Nutmeg.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.personal.md) 
+
+### #is_/same_as :: [Nutmeg.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.secret.md)
+

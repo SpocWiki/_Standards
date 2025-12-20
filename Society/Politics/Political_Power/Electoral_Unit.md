@@ -55,3 +55,22 @@ OpenStreetMap_tag_or_key: Tag:boundary=political
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electoral_Unit](/_Standards/Society/Politics/Political_Power/Electoral_Unit.md) 
+
+### #is_/same_as :: [Electoral_Unit.public](/_public/Society/Politics/Political_Power/Electoral_Unit.public.md) 
+
+### #is_/same_as :: [Electoral_Unit.internal](/_internal/Society/Politics/Political_Power/Electoral_Unit.internal.md) 
+
+### #is_/same_as :: [Electoral_Unit.protect](/_protect/Society/Politics/Political_Power/Electoral_Unit.protect.md) 
+
+### #is_/same_as :: [Electoral_Unit.private](/_private/Society/Politics/Political_Power/Electoral_Unit.private.md) 
+
+### #is_/same_as :: [Electoral_Unit.personal](/_personal/Society/Politics/Political_Power/Electoral_Unit.personal.md) 
+
+### #is_/same_as :: [Electoral_Unit.secret](/_secret/Society/Politics/Political_Power/Electoral_Unit.secret.md)
+

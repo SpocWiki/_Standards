@@ -107,3 +107,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Torture) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Torture](/_Standards/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.md) 
+
+### #is_/same_as :: [Torture.public](/_public/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.public.md) 
+
+### #is_/same_as :: [Torture.internal](/_internal/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.internal.md) 
+
+### #is_/same_as :: [Torture.protect](/_protect/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.protect.md) 
+
+### #is_/same_as :: [Torture.private](/_private/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.private.md) 
+
+### #is_/same_as :: [Torture.personal](/_personal/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.personal.md) 
+
+### #is_/same_as :: [Torture.secret](/_secret/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.secret.md)
+

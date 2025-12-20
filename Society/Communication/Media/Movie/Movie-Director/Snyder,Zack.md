@@ -30,17 +30,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Snyder,Zack](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Snyder,Zack.md) 
+### #is_/same_as :: [Snyder,Zack](/_Standards/Society/Communication/Media/Movie/Movie-Director/Snyder,Zack.md) 
 
-### #is_/same_as :: [Snyder,Zack.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Snyder,Zack.public.md) 
+### #is_/same_as :: [Snyder,Zack.public](/_public/Society/Communication/Media/Movie/Movie-Director/Snyder,Zack.public.md) 
 
-### #is_/same_as :: [Snyder,Zack.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Snyder,Zack.internal.md) 
+### #is_/same_as :: [Snyder,Zack.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Snyder,Zack.internal.md) 
 
-### #is_/same_as :: [Snyder,Zack.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Snyder,Zack.protect.md) 
+### #is_/same_as :: [Snyder,Zack.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Snyder,Zack.protect.md) 
 
-### #is_/same_as :: [Snyder,Zack.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Snyder,Zack.private.md) 
+### #is_/same_as :: [Snyder,Zack.private](/_private/Society/Communication/Media/Movie/Movie-Director/Snyder,Zack.private.md) 
 
-### #is_/same_as :: [Snyder,Zack.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Snyder,Zack.personal.md) 
+### #is_/same_as :: [Snyder,Zack.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Snyder,Zack.personal.md) 
 
-### #is_/same_as :: [Snyder,Zack.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Snyder,Zack.secret.md)
+### #is_/same_as :: [Snyder,Zack.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Snyder,Zack.secret.md)
 

@@ -59,3 +59,22 @@ Commons_category: Dust storms
 > [Wikipedia](https://en.wikipedia.org/wiki/Dust%20storm) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dust_Storm](/_Standards/Earth/Climate/Weather/Dust_Storm.md) 
+
+### #is_/same_as :: [Dust_Storm.public](/_public/Earth/Climate/Weather/Dust_Storm.public.md) 
+
+### #is_/same_as :: [Dust_Storm.internal](/_internal/Earth/Climate/Weather/Dust_Storm.internal.md) 
+
+### #is_/same_as :: [Dust_Storm.protect](/_protect/Earth/Climate/Weather/Dust_Storm.protect.md) 
+
+### #is_/same_as :: [Dust_Storm.private](/_private/Earth/Climate/Weather/Dust_Storm.private.md) 
+
+### #is_/same_as :: [Dust_Storm.personal](/_personal/Earth/Climate/Weather/Dust_Storm.personal.md) 
+
+### #is_/same_as :: [Dust_Storm.secret](/_secret/Earth/Climate/Weather/Dust_Storm.secret.md)
+

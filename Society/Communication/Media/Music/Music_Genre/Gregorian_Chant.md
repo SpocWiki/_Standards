@@ -76,3 +76,22 @@ Commons_category: Gregorian chant
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gregorian%20chant) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gregorian_Chant](/_Standards/Society/Communication/Media/Music/Music_Genre/Gregorian_Chant.md) 
+
+### #is_/same_as :: [Gregorian_Chant.public](/_public/Society/Communication/Media/Music/Music_Genre/Gregorian_Chant.public.md) 
+
+### #is_/same_as :: [Gregorian_Chant.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Gregorian_Chant.internal.md) 
+
+### #is_/same_as :: [Gregorian_Chant.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Gregorian_Chant.protect.md) 
+
+### #is_/same_as :: [Gregorian_Chant.private](/_private/Society/Communication/Media/Music/Music_Genre/Gregorian_Chant.private.md) 
+
+### #is_/same_as :: [Gregorian_Chant.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Gregorian_Chant.personal.md) 
+
+### #is_/same_as :: [Gregorian_Chant.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Gregorian_Chant.secret.md)
+

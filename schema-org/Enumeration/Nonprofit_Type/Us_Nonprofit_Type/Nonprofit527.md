@@ -42,17 +42,17 @@ Nonprofit527: Non-profit type referring to political organizations.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit527](Nonprofit527.md) 
+### #is_/same_as :: [Nonprofit527](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit527.md) 
 
-### #is_/same_as :: [nonprofit527.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.public.md) 
+### #is_/same_as :: [Nonprofit527.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit527.public.md) 
 
-### #is_/same_as :: [nonprofit527.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.internal.md) 
+### #is_/same_as :: [Nonprofit527.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit527.internal.md) 
 
-### #is_/same_as :: [nonprofit527.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.protect.md) 
+### #is_/same_as :: [Nonprofit527.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit527.protect.md) 
 
-### #is_/same_as :: [nonprofit527.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.private.md) 
+### #is_/same_as :: [Nonprofit527.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit527.private.md) 
 
-### #is_/same_as :: [nonprofit527.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.personal.md) 
+### #is_/same_as :: [Nonprofit527.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit527.personal.md) 
 
-### #is_/same_as :: [nonprofit527.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.secret.md)
+### #is_/same_as :: [Nonprofit527.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit527.secret.md)
 

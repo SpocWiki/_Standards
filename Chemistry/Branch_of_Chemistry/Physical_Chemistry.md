@@ -66,17 +66,17 @@ Universal_Decimal_Classification: 544
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physical_Chemistry](Physical_Chemistry.md) 
+### #is_/same_as :: [Physical_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry/Physical_Chemistry.md) 
 
-### #is_/same_as :: [Physical_Chemistry.public](/_public/Chemistry/Physical_Chemistry.public.md) 
+### #is_/same_as :: [Physical_Chemistry.public](/_public/Chemistry/Branch_of_Chemistry/Physical_Chemistry.public.md) 
 
-### #is_/same_as :: [Physical_Chemistry.internal](/_internal/Chemistry/Physical_Chemistry.internal.md) 
+### #is_/same_as :: [Physical_Chemistry.internal](/_internal/Chemistry/Branch_of_Chemistry/Physical_Chemistry.internal.md) 
 
-### #is_/same_as :: [Physical_Chemistry.protect](/_protect/Chemistry/Physical_Chemistry.protect.md) 
+### #is_/same_as :: [Physical_Chemistry.protect](/_protect/Chemistry/Branch_of_Chemistry/Physical_Chemistry.protect.md) 
 
-### #is_/same_as :: [Physical_Chemistry.private](/_private/Chemistry/Physical_Chemistry.private.md) 
+### #is_/same_as :: [Physical_Chemistry.private](/_private/Chemistry/Branch_of_Chemistry/Physical_Chemistry.private.md) 
 
-### #is_/same_as :: [Physical_Chemistry.personal](/_personal/Chemistry/Physical_Chemistry.personal.md) 
+### #is_/same_as :: [Physical_Chemistry.personal](/_personal/Chemistry/Branch_of_Chemistry/Physical_Chemistry.personal.md) 
 
-### #is_/same_as :: [Physical_Chemistry.secret](/_secret/Chemistry/Physical_Chemistry.secret.md)
+### #is_/same_as :: [Physical_Chemistry.secret](/_secret/Chemistry/Branch_of_Chemistry/Physical_Chemistry.secret.md)
 

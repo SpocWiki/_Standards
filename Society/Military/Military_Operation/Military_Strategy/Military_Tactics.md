@@ -29,3 +29,22 @@ has_id_wikidata: Q207645
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20tactics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Military_Tactics](/_Standards/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.md) 
+
+### #is_/same_as :: [Military_Tactics.public](/_public/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.public.md) 
+
+### #is_/same_as :: [Military_Tactics.internal](/_internal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.internal.md) 
+
+### #is_/same_as :: [Military_Tactics.protect](/_protect/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.protect.md) 
+
+### #is_/same_as :: [Military_Tactics.private](/_private/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.private.md) 
+
+### #is_/same_as :: [Military_Tactics.personal](/_personal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.personal.md) 
+
+### #is_/same_as :: [Military_Tactics.secret](/_secret/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.secret.md)
+

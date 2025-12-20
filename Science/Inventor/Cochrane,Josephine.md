@@ -61,3 +61,22 @@ date_of_death: 1913-08-03T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Josephine%20Cochrane) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cochrane,Josephine](/_Standards/Science/Inventor/Cochrane,Josephine.md) 
+
+### #is_/same_as :: [Cochrane,Josephine.public](/_public/Science/Inventor/Cochrane,Josephine.public.md) 
+
+### #is_/same_as :: [Cochrane,Josephine.internal](/_internal/Science/Inventor/Cochrane,Josephine.internal.md) 
+
+### #is_/same_as :: [Cochrane,Josephine.protect](/_protect/Science/Inventor/Cochrane,Josephine.protect.md) 
+
+### #is_/same_as :: [Cochrane,Josephine.private](/_private/Science/Inventor/Cochrane,Josephine.private.md) 
+
+### #is_/same_as :: [Cochrane,Josephine.personal](/_personal/Science/Inventor/Cochrane,Josephine.personal.md) 
+
+### #is_/same_as :: [Cochrane,Josephine.secret](/_secret/Science/Inventor/Cochrane,Josephine.secret.md)
+

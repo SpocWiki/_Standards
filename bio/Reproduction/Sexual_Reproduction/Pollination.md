@@ -48,3 +48,22 @@ MeSH_tree_code:
 > Pollination research covers various fields, including botany, horticulture, entomology, and ecology. The pollination process as an interaction between flower and pollen vector was first addressed in the 18th century by Christian Konrad Sprengel. It is important in horticulture and agriculture, because fruiting is dependent on fertilisation: the result of pollination. The study of pollination by insects is known as anthecology. There are also studies in economics that look at the positives and negatives of pollination, focused on bees, and how the process affects the pollinators themselves.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pollination)
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pollination](/_Standards/bio/Reproduction/Sexual_Reproduction/Pollination.md) 
+
+### #is_/same_as :: [Pollination.public](/_public/bio/Reproduction/Sexual_Reproduction/Pollination.public.md) 
+
+### #is_/same_as :: [Pollination.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Pollination.internal.md) 
+
+### #is_/same_as :: [Pollination.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Pollination.protect.md) 
+
+### #is_/same_as :: [Pollination.private](/_private/bio/Reproduction/Sexual_Reproduction/Pollination.private.md) 
+
+### #is_/same_as :: [Pollination.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Pollination.personal.md) 
+
+### #is_/same_as :: [Pollination.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Pollination.secret.md)
+

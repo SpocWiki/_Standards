@@ -25,3 +25,22 @@ Wolfram_Language_entity_code: Entity["Concept", "Charisma::p96x8"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Charisma) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Charisma](/_Standards/bio/Psychology/Affect/Emotion/Charisma.md) 
+
+### #is_/same_as :: [Charisma.public](/_public/bio/Psychology/Affect/Emotion/Charisma.public.md) 
+
+### #is_/same_as :: [Charisma.internal](/_internal/bio/Psychology/Affect/Emotion/Charisma.internal.md) 
+
+### #is_/same_as :: [Charisma.protect](/_protect/bio/Psychology/Affect/Emotion/Charisma.protect.md) 
+
+### #is_/same_as :: [Charisma.private](/_private/bio/Psychology/Affect/Emotion/Charisma.private.md) 
+
+### #is_/same_as :: [Charisma.personal](/_personal/bio/Psychology/Affect/Emotion/Charisma.personal.md) 
+
+### #is_/same_as :: [Charisma.secret](/_secret/bio/Psychology/Affect/Emotion/Charisma.secret.md)
+

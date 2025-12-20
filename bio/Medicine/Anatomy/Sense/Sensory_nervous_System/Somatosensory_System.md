@@ -40,3 +40,21 @@ Commons_category: Somatosensation
 > The neural pathways that go to the brain are structured such that information about the location of the physical stimulus is preserved. In this way, neighboring neurons in the somatosensory cortex represent nearby locations on the skin or in the body, creating a map or sensory homunculus.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Somatosensory%20system)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Somatosensory_System](/_Standards/bio/Medicine/Anatomy/Sense/Sensory_nervous_System/Somatosensory_System.md) 
+
+### #is_/same_as :: [Somatosensory_System.public](/_public/bio/Medicine/Anatomy/Sense/Sensory_nervous_System/Somatosensory_System.public.md) 
+
+### #is_/same_as :: [Somatosensory_System.internal](/_internal/bio/Medicine/Anatomy/Sense/Sensory_nervous_System/Somatosensory_System.internal.md) 
+
+### #is_/same_as :: [Somatosensory_System.protect](/_protect/bio/Medicine/Anatomy/Sense/Sensory_nervous_System/Somatosensory_System.protect.md) 
+
+### #is_/same_as :: [Somatosensory_System.private](/_private/bio/Medicine/Anatomy/Sense/Sensory_nervous_System/Somatosensory_System.private.md) 
+
+### #is_/same_as :: [Somatosensory_System.personal](/_personal/bio/Medicine/Anatomy/Sense/Sensory_nervous_System/Somatosensory_System.personal.md) 
+
+### #is_/same_as :: [Somatosensory_System.secret](/_secret/bio/Medicine/Anatomy/Sense/Sensory_nervous_System/Somatosensory_System.secret.md)
+

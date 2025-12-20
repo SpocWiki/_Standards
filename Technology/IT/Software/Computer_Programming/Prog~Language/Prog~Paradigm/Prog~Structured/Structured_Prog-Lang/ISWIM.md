@@ -11,3 +11,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/ISWIM)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ISWIM](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.md) 
+
+### #is_/same_as :: [ISWIM.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.public.md) 
+
+### #is_/same_as :: [ISWIM.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.internal.md) 
+
+### #is_/same_as :: [ISWIM.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.protect.md) 
+
+### #is_/same_as :: [ISWIM.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.private.md) 
+
+### #is_/same_as :: [ISWIM.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.personal.md) 
+
+### #is_/same_as :: [ISWIM.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.secret.md)
+

@@ -56,3 +56,22 @@ publication_date: 1942-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/White%20Christmas%20(song)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [White_Christmas(song)](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/White_Christmas(song).md) 
+
+### #is_/same_as :: [White_Christmas(song).public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/White_Christmas(song).public.md) 
+
+### #is_/same_as :: [White_Christmas(song).internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/White_Christmas(song).internal.md) 
+
+### #is_/same_as :: [White_Christmas(song).protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/White_Christmas(song).protect.md) 
+
+### #is_/same_as :: [White_Christmas(song).private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/White_Christmas(song).private.md) 
+
+### #is_/same_as :: [White_Christmas(song).personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/White_Christmas(song).personal.md) 
+
+### #is_/same_as :: [White_Christmas(song).secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/White_Christmas(song).secret.md)
+

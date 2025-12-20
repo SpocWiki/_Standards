@@ -28,3 +28,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Kazakh%20language) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-kaz](/_Standards/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.md) 
+
+### #is_/same_as :: [Lang-kaz.public](/_public/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.public.md) 
+
+### #is_/same_as :: [Lang-kaz.internal](/_internal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.internal.md) 
+
+### #is_/same_as :: [Lang-kaz.protect](/_protect/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.protect.md) 
+
+### #is_/same_as :: [Lang-kaz.private](/_private/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.private.md) 
+
+### #is_/same_as :: [Lang-kaz.personal](/_personal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.personal.md) 
+
+### #is_/same_as :: [Lang-kaz.secret](/_secret/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-kaz.secret.md)
+

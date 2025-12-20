@@ -158,17 +158,17 @@ RTECS_number: LP8925000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Formaldehyde](Formaldehyde.md) 
+### #is_/same_as :: [Formaldehyde](/_Standards/Chemistry/Organic_Chemistry/Aldehyde/Formaldehyde.md) 
 
-### #is_/same_as :: [Formaldehyde.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Formaldehyde.public.md) 
+### #is_/same_as :: [Formaldehyde.public](/_public/Chemistry/Organic_Chemistry/Aldehyde/Formaldehyde.public.md) 
 
-### #is_/same_as :: [Formaldehyde.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Formaldehyde.internal.md) 
+### #is_/same_as :: [Formaldehyde.internal](/_internal/Chemistry/Organic_Chemistry/Aldehyde/Formaldehyde.internal.md) 
 
-### #is_/same_as :: [Formaldehyde.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Formaldehyde.protect.md) 
+### #is_/same_as :: [Formaldehyde.protect](/_protect/Chemistry/Organic_Chemistry/Aldehyde/Formaldehyde.protect.md) 
 
-### #is_/same_as :: [Formaldehyde.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Formaldehyde.private.md) 
+### #is_/same_as :: [Formaldehyde.private](/_private/Chemistry/Organic_Chemistry/Aldehyde/Formaldehyde.private.md) 
 
-### #is_/same_as :: [Formaldehyde.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Formaldehyde.personal.md) 
+### #is_/same_as :: [Formaldehyde.personal](/_personal/Chemistry/Organic_Chemistry/Aldehyde/Formaldehyde.personal.md) 
 
-### #is_/same_as :: [Formaldehyde.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Formaldehyde.secret.md)
+### #is_/same_as :: [Formaldehyde.secret](/_secret/Chemistry/Organic_Chemistry/Aldehyde/Formaldehyde.secret.md)
 

@@ -34,3 +34,22 @@ has_id_wikidata: Q215913
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Habitable%20zone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Circumstellar_habitable_Zone](/_Standards/Astronomy/Star/Circumstellar_habitable_Zone.md) 
+
+### #is_/same_as :: [Circumstellar_habitable_Zone.public](/_public/Astronomy/Star/Circumstellar_habitable_Zone.public.md) 
+
+### #is_/same_as :: [Circumstellar_habitable_Zone.internal](/_internal/Astronomy/Star/Circumstellar_habitable_Zone.internal.md) 
+
+### #is_/same_as :: [Circumstellar_habitable_Zone.protect](/_protect/Astronomy/Star/Circumstellar_habitable_Zone.protect.md) 
+
+### #is_/same_as :: [Circumstellar_habitable_Zone.private](/_private/Astronomy/Star/Circumstellar_habitable_Zone.private.md) 
+
+### #is_/same_as :: [Circumstellar_habitable_Zone.personal](/_personal/Astronomy/Star/Circumstellar_habitable_Zone.personal.md) 
+
+### #is_/same_as :: [Circumstellar_habitable_Zone.secret](/_secret/Astronomy/Star/Circumstellar_habitable_Zone.secret.md)
+

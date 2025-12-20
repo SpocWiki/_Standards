@@ -47,3 +47,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/COVID-19)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [COVID-19](/_Standards/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.md) 
+
+### #is_/same_as :: [COVID-19.public](/_public/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.public.md) 
+
+### #is_/same_as :: [COVID-19.internal](/_internal/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.internal.md) 
+
+### #is_/same_as :: [COVID-19.protect](/_protect/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.protect.md) 
+
+### #is_/same_as :: [COVID-19.private](/_private/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.private.md) 
+
+### #is_/same_as :: [COVID-19.personal](/_personal/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.personal.md) 
+
+### #is_/same_as :: [COVID-19.secret](/_secret/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.secret.md)
+

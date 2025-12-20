@@ -90,17 +90,17 @@ UNII: VW92PHU2UY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Americium](/_Standards/Chemistry/Chemical_Element/Actinide-Group/Americium.md) 
+### #is_/same_as :: [Americium](/_Standards/Chemistry/Chemical_Element/Actinide/Americium.md) 
 
-### #is_/same_as :: [Americium.public](/_public/Chemistry/Chemical_Element/Actinide-Group/Americium.public.md) 
+### #is_/same_as :: [Americium.public](/_public/Chemistry/Chemical_Element/Actinide/Americium.public.md) 
 
-### #is_/same_as :: [Americium.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group/Americium.internal.md) 
+### #is_/same_as :: [Americium.internal](/_internal/Chemistry/Chemical_Element/Actinide/Americium.internal.md) 
 
-### #is_/same_as :: [Americium.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group/Americium.protect.md) 
+### #is_/same_as :: [Americium.protect](/_protect/Chemistry/Chemical_Element/Actinide/Americium.protect.md) 
 
-### #is_/same_as :: [Americium.private](/_private/Chemistry/Chemical_Element/Actinide-Group/Americium.private.md) 
+### #is_/same_as :: [Americium.private](/_private/Chemistry/Chemical_Element/Actinide/Americium.private.md) 
 
-### #is_/same_as :: [Americium.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group/Americium.personal.md) 
+### #is_/same_as :: [Americium.personal](/_personal/Chemistry/Chemical_Element/Actinide/Americium.personal.md) 
 
-### #is_/same_as :: [Americium.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group/Americium.secret.md)
+### #is_/same_as :: [Americium.secret](/_secret/Chemistry/Chemical_Element/Actinide/Americium.secret.md)
 

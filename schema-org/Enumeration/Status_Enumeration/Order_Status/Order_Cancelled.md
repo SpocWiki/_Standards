@@ -40,17 +40,17 @@ OrderStatus representing cancellation of an order.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Cancelled](Order_Cancelled.md) 
+### #is_/same_as :: [Order_Cancelled](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.md) 
 
-### #is_/same_as :: [order_cancelled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.public.md) 
+### #is_/same_as :: [Order_Cancelled.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.public.md) 
 
-### #is_/same_as :: [order_cancelled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.internal.md) 
+### #is_/same_as :: [Order_Cancelled.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.internal.md) 
 
-### #is_/same_as :: [order_cancelled.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.protect.md) 
+### #is_/same_as :: [Order_Cancelled.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.protect.md) 
 
-### #is_/same_as :: [order_cancelled.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.private.md) 
+### #is_/same_as :: [Order_Cancelled.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.private.md) 
 
-### #is_/same_as :: [order_cancelled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.personal.md) 
+### #is_/same_as :: [Order_Cancelled.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.personal.md) 
 
-### #is_/same_as :: [order_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.secret.md)
+### #is_/same_as :: [Order_Cancelled.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Cancelled.secret.md)
 

@@ -27,3 +27,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Helen%20of%20Troy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Helen_of_Troy](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.md) 
+
+### #is_/same_as :: [Helen_of_Troy.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.public.md) 
+
+### #is_/same_as :: [Helen_of_Troy.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.internal.md) 
+
+### #is_/same_as :: [Helen_of_Troy.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.protect.md) 
+
+### #is_/same_as :: [Helen_of_Troy.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.private.md) 
+
+### #is_/same_as :: [Helen_of_Troy.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.personal.md) 
+
+### #is_/same_as :: [Helen_of_Troy.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.secret.md)
+

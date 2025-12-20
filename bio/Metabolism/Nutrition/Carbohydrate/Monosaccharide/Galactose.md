@@ -18,7 +18,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galactose](Galactose.md) 
+### #is_/same_as :: [Galactose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.md) 
 
 ### #is_/same_as :: [Galactose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.public.md) 
 

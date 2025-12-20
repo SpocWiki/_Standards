@@ -159,7 +159,7 @@ Technical Report NMFS 152: 1-58.
   Comments          Ventral and dorsal views.
   Reference         Rancurel, P. 1973. Mastigoteuthis hjorti Chun 1913 description de trois échantillons proventant du Golfe de Guinée. Cah. O.R.S.T.O.M., ser. Océanogr., 11: 27-32.
   Size              44 mm ML
-  -------------------------------------------------------
+  -------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

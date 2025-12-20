@@ -68,3 +68,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiener%20Staatsoper%20
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Swan%20Lake) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Swan_Lake](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.md) 
+
+### #is_/same_as :: [Swan_Lake.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.public.md) 
+
+### #is_/same_as :: [Swan_Lake.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.internal.md) 
+
+### #is_/same_as :: [Swan_Lake.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.protect.md) 
+
+### #is_/same_as :: [Swan_Lake.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.private.md) 
+
+### #is_/same_as :: [Swan_Lake.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.personal.md) 
+
+### #is_/same_as :: [Swan_Lake.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.secret.md)
+

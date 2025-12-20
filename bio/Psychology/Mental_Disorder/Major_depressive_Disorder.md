@@ -131,3 +131,22 @@ exact_match:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Major%20depressive%20disorder) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Major_depressive_Disorder](/_Standards/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.md) 
+
+### #is_/same_as :: [Major_depressive_Disorder.public](/_public/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.public.md) 
+
+### #is_/same_as :: [Major_depressive_Disorder.internal](/_internal/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.internal.md) 
+
+### #is_/same_as :: [Major_depressive_Disorder.protect](/_protect/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.protect.md) 
+
+### #is_/same_as :: [Major_depressive_Disorder.private](/_private/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.private.md) 
+
+### #is_/same_as :: [Major_depressive_Disorder.personal](/_personal/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.personal.md) 
+
+### #is_/same_as :: [Major_depressive_Disorder.secret](/_secret/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.secret.md)
+

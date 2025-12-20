@@ -12,3 +12,22 @@
 Manfred Mann's arrangement features classical Elements e.g. the "Fi-ga-ro"  [[../../../Music_Theory/Arpeggio]] 
 and the Keyboard Chopstick Harmonization before the finale, both with [[../../../Music_Theory/Syncopation]]. 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blinded_by_the_Light](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.md) 
+
+### #is_/same_as :: [Blinded_by_the_Light.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.public.md) 
+
+### #is_/same_as :: [Blinded_by_the_Light.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.internal.md) 
+
+### #is_/same_as :: [Blinded_by_the_Light.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.protect.md) 
+
+### #is_/same_as :: [Blinded_by_the_Light.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.private.md) 
+
+### #is_/same_as :: [Blinded_by_the_Light.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.personal.md) 
+
+### #is_/same_as :: [Blinded_by_the_Light.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.secret.md)
+

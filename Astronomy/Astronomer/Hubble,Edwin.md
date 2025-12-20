@@ -100,3 +100,22 @@ ISNI: "0000000109177871"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Edwin%20Hubble) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hubble,Edwin](/_Standards/Astronomy/Astronomer/Hubble,Edwin.md) 
+
+### #is_/same_as :: [Hubble,Edwin.public](/_public/Astronomy/Astronomer/Hubble,Edwin.public.md) 
+
+### #is_/same_as :: [Hubble,Edwin.internal](/_internal/Astronomy/Astronomer/Hubble,Edwin.internal.md) 
+
+### #is_/same_as :: [Hubble,Edwin.protect](/_protect/Astronomy/Astronomer/Hubble,Edwin.protect.md) 
+
+### #is_/same_as :: [Hubble,Edwin.private](/_private/Astronomy/Astronomer/Hubble,Edwin.private.md) 
+
+### #is_/same_as :: [Hubble,Edwin.personal](/_personal/Astronomy/Astronomer/Hubble,Edwin.personal.md) 
+
+### #is_/same_as :: [Hubble,Edwin.secret](/_secret/Astronomy/Astronomer/Hubble,Edwin.secret.md)
+

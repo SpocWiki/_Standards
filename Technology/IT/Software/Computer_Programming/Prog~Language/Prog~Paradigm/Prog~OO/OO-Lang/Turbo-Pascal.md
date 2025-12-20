@@ -16,3 +16,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Turbo%20Pascal)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Turbo-Pascal](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Turbo-Pascal.md) 
+
+### #is_/same_as :: [Turbo-Pascal.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Turbo-Pascal.public.md) 
+
+### #is_/same_as :: [Turbo-Pascal.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Turbo-Pascal.internal.md) 
+
+### #is_/same_as :: [Turbo-Pascal.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Turbo-Pascal.protect.md) 
+
+### #is_/same_as :: [Turbo-Pascal.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Turbo-Pascal.private.md) 
+
+### #is_/same_as :: [Turbo-Pascal.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Turbo-Pascal.personal.md) 
+
+### #is_/same_as :: [Turbo-Pascal.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Turbo-Pascal.secret.md)
+

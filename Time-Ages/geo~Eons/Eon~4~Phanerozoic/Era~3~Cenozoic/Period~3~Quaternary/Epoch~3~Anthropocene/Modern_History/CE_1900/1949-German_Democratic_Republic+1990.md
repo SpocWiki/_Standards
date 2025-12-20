@@ -183,3 +183,21 @@ GitHub_topic: german-democratic-republic
 > In 1989, numerous social, economic, and political forces in the GDR and abroad – one of the most notable being peaceful protests starting in the city of Leipzig – led to the fall of the Berlin Wall and the establishment of a government committed to liberalization. The following year, a free and fair election was held in the country, and international negotiations between the four former Allied countries and the two German states commenced. The negotiations led to the signing of the Final Settlement treaty, which replaced the Potsdam Agreement on the status and borders of a future, reunited Germany. The GDR ceased to exist when its five states ("Länder") joined the Federal Republic of Germany under Article 23 of the Basic Law, and its capital East Berlin united with West Berlin on 3 October 1990. Several of the GDR's leaders, notably its last communist leader Egon Krenz, were later prosecuted for offenses committed during the GDR era.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/East%20Germany)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1949-German_Democratic_Republic+1990](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.md) 
+
+### #is_/same_as :: [1949-German_Democratic_Republic+1990.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.public.md) 
+
+### #is_/same_as :: [1949-German_Democratic_Republic+1990.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.internal.md) 
+
+### #is_/same_as :: [1949-German_Democratic_Republic+1990.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.protect.md) 
+
+### #is_/same_as :: [1949-German_Democratic_Republic+1990.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.private.md) 
+
+### #is_/same_as :: [1949-German_Democratic_Republic+1990.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.personal.md) 
+
+### #is_/same_as :: [1949-German_Democratic_Republic+1990.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.secret.md)
+

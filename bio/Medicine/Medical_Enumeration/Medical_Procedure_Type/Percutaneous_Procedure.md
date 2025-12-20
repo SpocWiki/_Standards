@@ -40,17 +40,17 @@ A type of medical procedure that involves percutaneous techniques, where access 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [percutaneous_procedure](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.md) 
+### #is_/same_as :: [Percutaneous_Procedure](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Percutaneous_Procedure.md) 
 
-### #is_/same_as :: [percutaneous_procedure.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.public.md) 
+### #is_/same_as :: [Percutaneous_Procedure.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Percutaneous_Procedure.public.md) 
 
-### #is_/same_as :: [percutaneous_procedure.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.internal.md) 
+### #is_/same_as :: [Percutaneous_Procedure.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Percutaneous_Procedure.internal.md) 
 
-### #is_/same_as :: [percutaneous_procedure.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.protect.md) 
+### #is_/same_as :: [Percutaneous_Procedure.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Percutaneous_Procedure.protect.md) 
 
-### #is_/same_as :: [percutaneous_procedure.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.private.md) 
+### #is_/same_as :: [Percutaneous_Procedure.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Percutaneous_Procedure.private.md) 
 
-### #is_/same_as :: [percutaneous_procedure.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.personal.md) 
+### #is_/same_as :: [Percutaneous_Procedure.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Percutaneous_Procedure.personal.md) 
 
-### #is_/same_as :: [percutaneous_procedure.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.secret.md)
+### #is_/same_as :: [Percutaneous_Procedure.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Percutaneous_Procedure.secret.md)
 

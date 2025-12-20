@@ -42,17 +42,17 @@ Imperial size system.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Size_System_Imperial](Size_System_Imperial.md) 
+### #is_/same_as :: [Size_System_Imperial](/_Standards/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.md) 
 
-### #is_/same_as :: [size_system_imperial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.public.md) 
+### #is_/same_as :: [Size_System_Imperial.public](/_public/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.public.md) 
 
-### #is_/same_as :: [size_system_imperial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.internal.md) 
+### #is_/same_as :: [Size_System_Imperial.internal](/_internal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.internal.md) 
 
-### #is_/same_as :: [size_system_imperial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.protect.md) 
+### #is_/same_as :: [Size_System_Imperial.protect](/_protect/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.protect.md) 
 
-### #is_/same_as :: [size_system_imperial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.private.md) 
+### #is_/same_as :: [Size_System_Imperial.private](/_private/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.private.md) 
 
-### #is_/same_as :: [size_system_imperial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.personal.md) 
+### #is_/same_as :: [Size_System_Imperial.personal](/_personal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.personal.md) 
 
-### #is_/same_as :: [size_system_imperial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.secret.md)
+### #is_/same_as :: [Size_System_Imperial.secret](/_secret/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.secret.md)
 

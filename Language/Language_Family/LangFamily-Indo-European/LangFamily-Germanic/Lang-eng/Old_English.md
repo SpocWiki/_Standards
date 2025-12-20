@@ -79,3 +79,22 @@ native_label: Ænglisc sprǣc
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Old%20English) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Old_English](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.md) 
+
+### #is_/same_as :: [Old_English.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.public.md) 
+
+### #is_/same_as :: [Old_English.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.internal.md) 
+
+### #is_/same_as :: [Old_English.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.protect.md) 
+
+### #is_/same_as :: [Old_English.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.private.md) 
+
+### #is_/same_as :: [Old_English.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.personal.md) 
+
+### #is_/same_as :: [Old_English.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.secret.md)
+

@@ -127,3 +127,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chi-squared%20distribution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chi-squared_distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.md) 
+
+### #is_/same_as :: [Chi-squared_distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.public.md) 
+
+### #is_/same_as :: [Chi-squared_distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.internal.md) 
+
+### #is_/same_as :: [Chi-squared_distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.protect.md) 
+
+### #is_/same_as :: [Chi-squared_distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.private.md) 
+
+### #is_/same_as :: [Chi-squared_distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.personal.md) 
+
+### #is_/same_as :: [Chi-squared_distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.secret.md)
+

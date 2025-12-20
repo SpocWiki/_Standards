@@ -43,17 +43,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Irrepressibility::752dz"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buoyancy](/_Standards/Science/Physics/Fluid_Mechanic/Buoyancy.md) 
+### #is_/same_as :: [Buoyancy](/_Standards/Science/Physics/Fluid_Mechanics/Hydrostatics/Buoyancy.md) 
 
-### #is_/same_as :: [Buoyancy.public](/_public/Science/Physics/Fluid_Mechanic/Buoyancy.public.md) 
+### #is_/same_as :: [Buoyancy.public](/_public/Science/Physics/Fluid_Mechanics/Hydrostatics/Buoyancy.public.md) 
 
-### #is_/same_as :: [Buoyancy.internal](/_internal/Science/Physics/Fluid_Mechanic/Buoyancy.internal.md) 
+### #is_/same_as :: [Buoyancy.internal](/_internal/Science/Physics/Fluid_Mechanics/Hydrostatics/Buoyancy.internal.md) 
 
-### #is_/same_as :: [Buoyancy.protect](/_protect/Science/Physics/Fluid_Mechanic/Buoyancy.protect.md) 
+### #is_/same_as :: [Buoyancy.protect](/_protect/Science/Physics/Fluid_Mechanics/Hydrostatics/Buoyancy.protect.md) 
 
-### #is_/same_as :: [Buoyancy.private](/_private/Science/Physics/Fluid_Mechanic/Buoyancy.private.md) 
+### #is_/same_as :: [Buoyancy.private](/_private/Science/Physics/Fluid_Mechanics/Hydrostatics/Buoyancy.private.md) 
 
-### #is_/same_as :: [Buoyancy.personal](/_personal/Science/Physics/Fluid_Mechanic/Buoyancy.personal.md) 
+### #is_/same_as :: [Buoyancy.personal](/_personal/Science/Physics/Fluid_Mechanics/Hydrostatics/Buoyancy.personal.md) 
 
-### #is_/same_as :: [Buoyancy.secret](/_secret/Science/Physics/Fluid_Mechanic/Buoyancy.secret.md)
+### #is_/same_as :: [Buoyancy.secret](/_secret/Science/Physics/Fluid_Mechanics/Hydrostatics/Buoyancy.secret.md)
 

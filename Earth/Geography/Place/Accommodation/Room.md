@@ -85,6 +85,7 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Room) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Room](/_Standards/Earth/Geography/Place/Accommodation/Room.md) 

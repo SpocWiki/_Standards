@@ -47,3 +47,22 @@ described_at_URL: https://neal.fun/earth-reviews/sailing
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sailing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sailing](/_Standards/Technology/Transport/Water_Transport/Sailing.md) 
+
+### #is_/same_as :: [Sailing.public](/_public/Technology/Transport/Water_Transport/Sailing.public.md) 
+
+### #is_/same_as :: [Sailing.internal](/_internal/Technology/Transport/Water_Transport/Sailing.internal.md) 
+
+### #is_/same_as :: [Sailing.protect](/_protect/Technology/Transport/Water_Transport/Sailing.protect.md) 
+
+### #is_/same_as :: [Sailing.private](/_private/Technology/Transport/Water_Transport/Sailing.private.md) 
+
+### #is_/same_as :: [Sailing.personal](/_personal/Technology/Transport/Water_Transport/Sailing.personal.md) 
+
+### #is_/same_as :: [Sailing.secret](/_secret/Technology/Transport/Water_Transport/Sailing.secret.md)
+

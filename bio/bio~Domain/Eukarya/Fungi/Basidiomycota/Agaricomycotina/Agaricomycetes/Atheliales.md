@@ -30,7 +30,7 @@ title: Atheliales
 
 coming soon!
 
-Containing group:[Agaricomycetes](../Agaricomycetes.md))
+Containing group:[Agaricomycetes](../Agaricomycetes.md))
 
 
 ## Confidential Links & Embeds: 

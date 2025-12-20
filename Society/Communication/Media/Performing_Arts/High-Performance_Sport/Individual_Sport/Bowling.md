@@ -47,3 +47,22 @@ OpenStreetMap_tag: sport=bowling
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bowling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bowling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling.md) 
+
+### #is_/same_as :: [Bowling.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling.public.md) 
+
+### #is_/same_as :: [Bowling.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling.internal.md) 
+
+### #is_/same_as :: [Bowling.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling.protect.md) 
+
+### #is_/same_as :: [Bowling.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling.private.md) 
+
+### #is_/same_as :: [Bowling.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling.personal.md) 
+
+### #is_/same_as :: [Bowling.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling.secret.md)
+

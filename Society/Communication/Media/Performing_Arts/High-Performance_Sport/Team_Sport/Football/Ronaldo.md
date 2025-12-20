@@ -106,3 +106,22 @@ Munzinger_Sport_number: "01000004405"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ronaldo%20(Brazilian%20footballer)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ronaldo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Ronaldo.md) 
+
+### #is_/same_as :: [Ronaldo.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Ronaldo.public.md) 
+
+### #is_/same_as :: [Ronaldo.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Ronaldo.internal.md) 
+
+### #is_/same_as :: [Ronaldo.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Ronaldo.protect.md) 
+
+### #is_/same_as :: [Ronaldo.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Ronaldo.private.md) 
+
+### #is_/same_as :: [Ronaldo.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Ronaldo.personal.md) 
+
+### #is_/same_as :: [Ronaldo.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Ronaldo.secret.md)
+

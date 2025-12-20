@@ -69,3 +69,22 @@ short_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Malagasy%20language) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Malagasy](/_Standards/Language/Malagasy.md) 
+
+### #is_/same_as :: [Malagasy.public](/_public/Language/Malagasy.public.md) 
+
+### #is_/same_as :: [Malagasy.internal](/_internal/Language/Malagasy.internal.md) 
+
+### #is_/same_as :: [Malagasy.protect](/_protect/Language/Malagasy.protect.md) 
+
+### #is_/same_as :: [Malagasy.private](/_private/Language/Malagasy.private.md) 
+
+### #is_/same_as :: [Malagasy.personal](/_personal/Language/Malagasy.personal.md) 
+
+### #is_/same_as :: [Malagasy.secret](/_secret/Language/Malagasy.secret.md)
+

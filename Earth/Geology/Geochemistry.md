@@ -31,3 +31,22 @@ Stack_Exchange_tag: https://earthscience.stackexchange.com/tags/geochemistry
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Geochemistry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geochemistry](/_Standards/Earth/Geology/Geochemistry.md) 
+
+### #is_/same_as :: [Geochemistry.public](/_public/Earth/Geology/Geochemistry.public.md) 
+
+### #is_/same_as :: [Geochemistry.internal](/_internal/Earth/Geology/Geochemistry.internal.md) 
+
+### #is_/same_as :: [Geochemistry.protect](/_protect/Earth/Geology/Geochemistry.protect.md) 
+
+### #is_/same_as :: [Geochemistry.private](/_private/Earth/Geology/Geochemistry.private.md) 
+
+### #is_/same_as :: [Geochemistry.personal](/_personal/Earth/Geology/Geochemistry.personal.md) 
+
+### #is_/same_as :: [Geochemistry.secret](/_secret/Earth/Geology/Geochemistry.secret.md)
+

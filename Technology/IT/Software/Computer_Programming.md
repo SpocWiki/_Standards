@@ -68,3 +68,22 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/computer_programming
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20programming) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Computer_Programming](/_Standards/Technology/IT/Software/Computer_Programming.md) 
+
+### #is_/same_as :: [Computer_Programming.public](/_public/Technology/IT/Software/Computer_Programming.public.md) 
+
+### #is_/same_as :: [Computer_Programming.internal](/_internal/Technology/IT/Software/Computer_Programming.internal.md) 
+
+### #is_/same_as :: [Computer_Programming.protect](/_protect/Technology/IT/Software/Computer_Programming.protect.md) 
+
+### #is_/same_as :: [Computer_Programming.private](/_private/Technology/IT/Software/Computer_Programming.private.md) 
+
+### #is_/same_as :: [Computer_Programming.personal](/_personal/Technology/IT/Software/Computer_Programming.personal.md) 
+
+### #is_/same_as :: [Computer_Programming.secret](/_secret/Technology/IT/Software/Computer_Programming.secret.md)
+

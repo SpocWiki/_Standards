@@ -89,3 +89,22 @@ Dewey_Decimal_Classification: "948.97032"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Winter%20War) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1939-Winter_War+1940](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Winter_War+1940.md) 
+
+### #is_/same_as :: [1939-Winter_War+1940.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Winter_War+1940.public.md) 
+
+### #is_/same_as :: [1939-Winter_War+1940.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Winter_War+1940.internal.md) 
+
+### #is_/same_as :: [1939-Winter_War+1940.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Winter_War+1940.protect.md) 
+
+### #is_/same_as :: [1939-Winter_War+1940.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Winter_War+1940.private.md) 
+
+### #is_/same_as :: [1939-Winter_War+1940.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Winter_War+1940.personal.md) 
+
+### #is_/same_as :: [1939-Winter_War+1940.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Winter_War+1940.secret.md)
+

@@ -86,17 +86,17 @@ Wolfram_Language_unit_code: '"Kilograms"'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Kilogram](/_Standards/Unit/SI-Unit/derived_Unit/Unit~Kilogram.md) 
+### #is_/same_as :: [Unit~Kilogram](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram.md) 
 
-### #is_/same_as :: [Unit~Kilogram.public](/_public/Unit/SI-Unit/derived_Unit/Unit~Kilogram.public.md) 
+### #is_/same_as :: [Unit~Kilogram.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram.public.md) 
 
-### #is_/same_as :: [Unit~Kilogram.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~Kilogram.internal.md) 
+### #is_/same_as :: [Unit~Kilogram.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram.internal.md) 
 
-### #is_/same_as :: [Unit~Kilogram.protect](/_protect/Unit/SI-Unit/derived_Unit/Unit~Kilogram.protect.md) 
+### #is_/same_as :: [Unit~Kilogram.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram.protect.md) 
 
-### #is_/same_as :: [Unit~Kilogram.private](/_private/Unit/SI-Unit/derived_Unit/Unit~Kilogram.private.md) 
+### #is_/same_as :: [Unit~Kilogram.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram.private.md) 
 
-### #is_/same_as :: [Unit~Kilogram.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~Kilogram.personal.md) 
+### #is_/same_as :: [Unit~Kilogram.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram.personal.md) 
 
-### #is_/same_as :: [Unit~Kilogram.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Kilogram.secret.md)
+### #is_/same_as :: [Unit~Kilogram.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram.secret.md)
 

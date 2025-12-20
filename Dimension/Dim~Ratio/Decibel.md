@@ -69,3 +69,22 @@ Common thresholds are
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Decibel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Decibel](/_Standards/Dimension/Dim~Ratio/Decibel.md) 
+
+### #is_/same_as :: [Decibel.public](/_public/Dimension/Dim~Ratio/Decibel.public.md) 
+
+### #is_/same_as :: [Decibel.internal](/_internal/Dimension/Dim~Ratio/Decibel.internal.md) 
+
+### #is_/same_as :: [Decibel.protect](/_protect/Dimension/Dim~Ratio/Decibel.protect.md) 
+
+### #is_/same_as :: [Decibel.private](/_private/Dimension/Dim~Ratio/Decibel.private.md) 
+
+### #is_/same_as :: [Decibel.personal](/_personal/Dimension/Dim~Ratio/Decibel.personal.md) 
+
+### #is_/same_as :: [Decibel.secret](/_secret/Dimension/Dim~Ratio/Decibel.secret.md)
+

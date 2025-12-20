@@ -40,3 +40,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/VignetteEulerIdentity.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Euler's%20identity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Euler's_Identity](/_Standards/Mathematics/Complex_Analysis/Euler's_Identity.md) 
+
+### #is_/same_as :: [Euler's_Identity.public](/_public/Mathematics/Complex_Analysis/Euler's_Identity.public.md) 
+
+### #is_/same_as :: [Euler's_Identity.internal](/_internal/Mathematics/Complex_Analysis/Euler's_Identity.internal.md) 
+
+### #is_/same_as :: [Euler's_Identity.protect](/_protect/Mathematics/Complex_Analysis/Euler's_Identity.protect.md) 
+
+### #is_/same_as :: [Euler's_Identity.private](/_private/Mathematics/Complex_Analysis/Euler's_Identity.private.md) 
+
+### #is_/same_as :: [Euler's_Identity.personal](/_personal/Mathematics/Complex_Analysis/Euler's_Identity.personal.md) 
+
+### #is_/same_as :: [Euler's_Identity.secret](/_secret/Mathematics/Complex_Analysis/Euler's_Identity.secret.md)
+

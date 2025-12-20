@@ -47,3 +47,22 @@ MeSH_tree_code: F01.829.401
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Interpersonal%20relationship) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Interpersonal_Relationship](/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship.md) 
+
+### #is_/same_as :: [Interpersonal_Relationship.public](/_public/bio/Psychology/Behavior/Interpersonal_Relationship.public.md) 
+
+### #is_/same_as :: [Interpersonal_Relationship.internal](/_internal/bio/Psychology/Behavior/Interpersonal_Relationship.internal.md) 
+
+### #is_/same_as :: [Interpersonal_Relationship.protect](/_protect/bio/Psychology/Behavior/Interpersonal_Relationship.protect.md) 
+
+### #is_/same_as :: [Interpersonal_Relationship.private](/_private/bio/Psychology/Behavior/Interpersonal_Relationship.private.md) 
+
+### #is_/same_as :: [Interpersonal_Relationship.personal](/_personal/bio/Psychology/Behavior/Interpersonal_Relationship.personal.md) 
+
+### #is_/same_as :: [Interpersonal_Relationship.secret](/_secret/bio/Psychology/Behavior/Interpersonal_Relationship.secret.md)
+

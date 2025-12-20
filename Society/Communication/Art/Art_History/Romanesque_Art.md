@@ -45,3 +45,22 @@ Commons_category: Romanesque art
 > [Wikipedia](https://en.wikipedia.org/wiki/First%20Romanesque) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Romanesque_Art](/_Standards/Society/Communication/Art/Art_History/Romanesque_Art.md) 
+
+### #is_/same_as :: [Romanesque_Art.public](/_public/Society/Communication/Art/Art_History/Romanesque_Art.public.md) 
+
+### #is_/same_as :: [Romanesque_Art.internal](/_internal/Society/Communication/Art/Art_History/Romanesque_Art.internal.md) 
+
+### #is_/same_as :: [Romanesque_Art.protect](/_protect/Society/Communication/Art/Art_History/Romanesque_Art.protect.md) 
+
+### #is_/same_as :: [Romanesque_Art.private](/_private/Society/Communication/Art/Art_History/Romanesque_Art.private.md) 
+
+### #is_/same_as :: [Romanesque_Art.personal](/_personal/Society/Communication/Art/Art_History/Romanesque_Art.personal.md) 
+
+### #is_/same_as :: [Romanesque_Art.secret](/_secret/Society/Communication/Art/Art_History/Romanesque_Art.secret.md)
+

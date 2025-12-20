@@ -64,3 +64,22 @@ coordinate_location: Point(26.0 42.0)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thrace) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thrace](/_Standards/Earth/Continent/Europe/Europe~South/Thrace.md) 
+
+### #is_/same_as :: [Thrace.public](/_public/Earth/Continent/Europe/Europe~South/Thrace.public.md) 
+
+### #is_/same_as :: [Thrace.internal](/_internal/Earth/Continent/Europe/Europe~South/Thrace.internal.md) 
+
+### #is_/same_as :: [Thrace.protect](/_protect/Earth/Continent/Europe/Europe~South/Thrace.protect.md) 
+
+### #is_/same_as :: [Thrace.private](/_private/Earth/Continent/Europe/Europe~South/Thrace.private.md) 
+
+### #is_/same_as :: [Thrace.personal](/_personal/Earth/Continent/Europe/Europe~South/Thrace.personal.md) 
+
+### #is_/same_as :: [Thrace.secret](/_secret/Earth/Continent/Europe/Europe~South/Thrace.secret.md)
+

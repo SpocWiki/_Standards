@@ -70,3 +70,22 @@ Unicode_character: 🛗
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Elevator) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Elevator](/_Standards/Technology/Transport/Vertical_Transport/Elevator.md) 
+
+### #is_/same_as :: [Elevator.public](/_public/Technology/Transport/Vertical_Transport/Elevator.public.md) 
+
+### #is_/same_as :: [Elevator.internal](/_internal/Technology/Transport/Vertical_Transport/Elevator.internal.md) 
+
+### #is_/same_as :: [Elevator.protect](/_protect/Technology/Transport/Vertical_Transport/Elevator.protect.md) 
+
+### #is_/same_as :: [Elevator.private](/_private/Technology/Transport/Vertical_Transport/Elevator.private.md) 
+
+### #is_/same_as :: [Elevator.personal](/_personal/Technology/Transport/Vertical_Transport/Elevator.personal.md) 
+
+### #is_/same_as :: [Elevator.secret](/_secret/Technology/Transport/Vertical_Transport/Elevator.secret.md)
+

@@ -130,3 +130,22 @@ date_of_birth: 1781-06-21T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sim%C3%A9on%20Denis%20Poisson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Poisson,Siméon_Denis](/_Standards/Mathematics/Mathematician/Poisson,Siméon_Denis.md) 
+
+### #is_/same_as :: [Poisson,Siméon_Denis.public](/_public/Mathematics/Mathematician/Poisson,Siméon_Denis.public.md) 
+
+### #is_/same_as :: [Poisson,Siméon_Denis.internal](/_internal/Mathematics/Mathematician/Poisson,Siméon_Denis.internal.md) 
+
+### #is_/same_as :: [Poisson,Siméon_Denis.protect](/_protect/Mathematics/Mathematician/Poisson,Siméon_Denis.protect.md) 
+
+### #is_/same_as :: [Poisson,Siméon_Denis.private](/_private/Mathematics/Mathematician/Poisson,Siméon_Denis.private.md) 
+
+### #is_/same_as :: [Poisson,Siméon_Denis.personal](/_personal/Mathematics/Mathematician/Poisson,Siméon_Denis.personal.md) 
+
+### #is_/same_as :: [Poisson,Siméon_Denis.secret](/_secret/Mathematics/Mathematician/Poisson,Siméon_Denis.secret.md)
+

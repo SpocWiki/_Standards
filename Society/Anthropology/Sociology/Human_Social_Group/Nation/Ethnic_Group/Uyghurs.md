@@ -68,3 +68,22 @@ Commons_category: Uyghur people
 > [Wikipedia](https://en.wikipedia.org/wiki/Uyghurs)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Uyghurs](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Uyghurs.md) 
+
+### #is_/same_as :: [Uyghurs.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Uyghurs.public.md) 
+
+### #is_/same_as :: [Uyghurs.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Uyghurs.internal.md) 
+
+### #is_/same_as :: [Uyghurs.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Uyghurs.protect.md) 
+
+### #is_/same_as :: [Uyghurs.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Uyghurs.private.md) 
+
+### #is_/same_as :: [Uyghurs.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Uyghurs.personal.md) 
+
+### #is_/same_as :: [Uyghurs.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Uyghurs.secret.md)
+

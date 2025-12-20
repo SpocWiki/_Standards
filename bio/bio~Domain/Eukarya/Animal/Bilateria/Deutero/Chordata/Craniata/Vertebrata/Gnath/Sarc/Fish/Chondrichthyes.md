@@ -33,3 +33,22 @@ NBN_System_Key: NBNSYS0000172138
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chondrichthyes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chondrichthyes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes.md) 
+
+### #is_/same_as :: [Chondrichthyes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes.public.md) 
+
+### #is_/same_as :: [Chondrichthyes.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes.internal.md) 
+
+### #is_/same_as :: [Chondrichthyes.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes.protect.md) 
+
+### #is_/same_as :: [Chondrichthyes.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes.private.md) 
+
+### #is_/same_as :: [Chondrichthyes.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes.personal.md) 
+
+### #is_/same_as :: [Chondrichthyes.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes.secret.md)
+

@@ -55,3 +55,22 @@ MeSH_tree_code: K01.400.441
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Historiography) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Historiography](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Historiography.md) 
+
+### #is_/same_as :: [Historiography.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Historiography.public.md) 
+
+### #is_/same_as :: [Historiography.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Historiography.internal.md) 
+
+### #is_/same_as :: [Historiography.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Historiography.protect.md) 
+
+### #is_/same_as :: [Historiography.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Historiography.private.md) 
+
+### #is_/same_as :: [Historiography.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Historiography.personal.md) 
+
+### #is_/same_as :: [Historiography.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Historiography.secret.md)
+

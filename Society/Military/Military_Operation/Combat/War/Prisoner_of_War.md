@@ -66,3 +66,22 @@ male_form_of_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prisoner%20of%20war)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prisoner_of_War](/_Standards/Society/Military/Military_Operation/Combat/War/Prisoner_of_War.md) 
+
+### #is_/same_as :: [Prisoner_of_War.public](/_public/Society/Military/Military_Operation/Combat/War/Prisoner_of_War.public.md) 
+
+### #is_/same_as :: [Prisoner_of_War.internal](/_internal/Society/Military/Military_Operation/Combat/War/Prisoner_of_War.internal.md) 
+
+### #is_/same_as :: [Prisoner_of_War.protect](/_protect/Society/Military/Military_Operation/Combat/War/Prisoner_of_War.protect.md) 
+
+### #is_/same_as :: [Prisoner_of_War.private](/_private/Society/Military/Military_Operation/Combat/War/Prisoner_of_War.private.md) 
+
+### #is_/same_as :: [Prisoner_of_War.personal](/_personal/Society/Military/Military_Operation/Combat/War/Prisoner_of_War.personal.md) 
+
+### #is_/same_as :: [Prisoner_of_War.secret](/_secret/Society/Military/Military_Operation/Combat/War/Prisoner_of_War.secret.md)
+

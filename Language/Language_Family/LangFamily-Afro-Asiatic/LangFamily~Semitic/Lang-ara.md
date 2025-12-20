@@ -244,17 +244,17 @@ has_grammatical_person:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-ar](/_Standards/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.md) 
+### #is_/same_as :: [Lang-ara](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ara.md) 
 
-### #is_/same_as :: [Lang-ar.public](/_public/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.public.md) 
+### #is_/same_as :: [Lang-ara.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ara.public.md) 
 
-### #is_/same_as :: [Lang-ar.internal](/_internal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.internal.md) 
+### #is_/same_as :: [Lang-ara.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ara.internal.md) 
 
-### #is_/same_as :: [Lang-ar.protect](/_protect/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.protect.md) 
+### #is_/same_as :: [Lang-ara.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ara.protect.md) 
 
-### #is_/same_as :: [Lang-ar.private](/_private/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.private.md) 
+### #is_/same_as :: [Lang-ara.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ara.private.md) 
 
-### #is_/same_as :: [Lang-ar.personal](/_personal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.personal.md) 
+### #is_/same_as :: [Lang-ara.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ara.personal.md) 
 
-### #is_/same_as :: [Lang-ar.secret](/_secret/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.secret.md)
+### #is_/same_as :: [Lang-ara.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ara.secret.md)
 

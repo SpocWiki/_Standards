@@ -57,3 +57,22 @@ OpenStreetMap_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tile) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tile](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.md) 
+
+### #is_/same_as :: [Tile.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.public.md) 
+
+### #is_/same_as :: [Tile.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.internal.md) 
+
+### #is_/same_as :: [Tile.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.protect.md) 
+
+### #is_/same_as :: [Tile.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.private.md) 
+
+### #is_/same_as :: [Tile.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.personal.md) 
+
+### #is_/same_as :: [Tile.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Tile.secret.md)
+

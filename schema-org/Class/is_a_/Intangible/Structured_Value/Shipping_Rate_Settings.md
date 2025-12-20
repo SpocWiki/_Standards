@@ -41,17 +41,17 @@ A ShippingRateSettings represents re-usable pieces of shipping information. It i
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [shipping_rate_settings](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.md) 
+### #is_/same_as :: [Shipping_Rate_Settings](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.md) 
 
-### #is_/same_as :: [shipping_rate_settings.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.public.md) 
+### #is_/same_as :: [Shipping_Rate_Settings.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.public.md) 
 
-### #is_/same_as :: [shipping_rate_settings.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.internal.md) 
+### #is_/same_as :: [Shipping_Rate_Settings.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.internal.md) 
 
-### #is_/same_as :: [shipping_rate_settings.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.protect.md) 
+### #is_/same_as :: [Shipping_Rate_Settings.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.protect.md) 
 
-### #is_/same_as :: [shipping_rate_settings.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.private.md) 
+### #is_/same_as :: [Shipping_Rate_Settings.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.private.md) 
 
-### #is_/same_as :: [shipping_rate_settings.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.personal.md) 
+### #is_/same_as :: [Shipping_Rate_Settings.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.personal.md) 
 
-### #is_/same_as :: [shipping_rate_settings.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.secret.md)
+### #is_/same_as :: [Shipping_Rate_Settings.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.secret.md)
 

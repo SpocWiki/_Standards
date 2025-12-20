@@ -104,3 +104,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/NUREEV_RUDOLF_HA
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rudolf%20Nureyev) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nureyev,Rudolf](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.md) 
+
+### #is_/same_as :: [Nureyev,Rudolf.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.public.md) 
+
+### #is_/same_as :: [Nureyev,Rudolf.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.internal.md) 
+
+### #is_/same_as :: [Nureyev,Rudolf.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.protect.md) 
+
+### #is_/same_as :: [Nureyev,Rudolf.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.private.md) 
+
+### #is_/same_as :: [Nureyev,Rudolf.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.personal.md) 
+
+### #is_/same_as :: [Nureyev,Rudolf.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.secret.md)
+

@@ -32,3 +32,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Graviton) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Graviton](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Graviton.md) 
+
+### #is_/same_as :: [Graviton.public](/_public/Science/Physics/Fundamental_Interaction/Gravity/Graviton.public.md) 
+
+### #is_/same_as :: [Graviton.internal](/_internal/Science/Physics/Fundamental_Interaction/Gravity/Graviton.internal.md) 
+
+### #is_/same_as :: [Graviton.protect](/_protect/Science/Physics/Fundamental_Interaction/Gravity/Graviton.protect.md) 
+
+### #is_/same_as :: [Graviton.private](/_private/Science/Physics/Fundamental_Interaction/Gravity/Graviton.private.md) 
+
+### #is_/same_as :: [Graviton.personal](/_personal/Science/Physics/Fundamental_Interaction/Gravity/Graviton.personal.md) 
+
+### #is_/same_as :: [Graviton.secret](/_secret/Science/Physics/Fundamental_Interaction/Gravity/Graviton.secret.md)
+

@@ -290,3 +290,22 @@ EAGLE_id: decor/lod/160
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Heracles) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heracles](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.md) 
+
+### #is_/same_as :: [Heracles.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.public.md) 
+
+### #is_/same_as :: [Heracles.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.internal.md) 
+
+### #is_/same_as :: [Heracles.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.protect.md) 
+
+### #is_/same_as :: [Heracles.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.private.md) 
+
+### #is_/same_as :: [Heracles.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.personal.md) 
+
+### #is_/same_as :: [Heracles.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.secret.md)
+

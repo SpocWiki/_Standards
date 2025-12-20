@@ -55,3 +55,22 @@ Commons_category: Surfactants
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Surfactant) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Surfactant](/_Standards/Science/Physics/Fluid_Mechanics/Surface_Tension/Surfactant.md) 
+
+### #is_/same_as :: [Surfactant.public](/_public/Science/Physics/Fluid_Mechanics/Surface_Tension/Surfactant.public.md) 
+
+### #is_/same_as :: [Surfactant.internal](/_internal/Science/Physics/Fluid_Mechanics/Surface_Tension/Surfactant.internal.md) 
+
+### #is_/same_as :: [Surfactant.protect](/_protect/Science/Physics/Fluid_Mechanics/Surface_Tension/Surfactant.protect.md) 
+
+### #is_/same_as :: [Surfactant.private](/_private/Science/Physics/Fluid_Mechanics/Surface_Tension/Surfactant.private.md) 
+
+### #is_/same_as :: [Surfactant.personal](/_personal/Science/Physics/Fluid_Mechanics/Surface_Tension/Surfactant.personal.md) 
+
+### #is_/same_as :: [Surfactant.secret](/_secret/Science/Physics/Fluid_Mechanics/Surface_Tension/Surfactant.secret.md)
+

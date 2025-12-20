@@ -61,3 +61,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tibetan%20Buddhism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tibetan_Buddhism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.md) 
+
+### #is_/same_as :: [Tibetan_Buddhism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.public.md) 
+
+### #is_/same_as :: [Tibetan_Buddhism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.internal.md) 
+
+### #is_/same_as :: [Tibetan_Buddhism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.protect.md) 
+
+### #is_/same_as :: [Tibetan_Buddhism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.private.md) 
+
+### #is_/same_as :: [Tibetan_Buddhism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.personal.md) 
+
+### #is_/same_as :: [Tibetan_Buddhism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.secret.md)
+

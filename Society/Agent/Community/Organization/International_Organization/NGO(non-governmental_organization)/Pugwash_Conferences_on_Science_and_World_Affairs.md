@@ -40,3 +40,22 @@ Commons_category: Pugwash Conferences on Science and World Affairs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pugwash%20Conferences%20on%20Science%20and%20World%20Affairs) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pugwash_Conferences_on_Science_and_World_Affairs](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pugwash_Conferences_on_Science_and_World_Affairs.md) 
+
+### #is_/same_as :: [Pugwash_Conferences_on_Science_and_World_Affairs.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pugwash_Conferences_on_Science_and_World_Affairs.public.md) 
+
+### #is_/same_as :: [Pugwash_Conferences_on_Science_and_World_Affairs.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pugwash_Conferences_on_Science_and_World_Affairs.internal.md) 
+
+### #is_/same_as :: [Pugwash_Conferences_on_Science_and_World_Affairs.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pugwash_Conferences_on_Science_and_World_Affairs.protect.md) 
+
+### #is_/same_as :: [Pugwash_Conferences_on_Science_and_World_Affairs.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pugwash_Conferences_on_Science_and_World_Affairs.private.md) 
+
+### #is_/same_as :: [Pugwash_Conferences_on_Science_and_World_Affairs.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pugwash_Conferences_on_Science_and_World_Affairs.personal.md) 
+
+### #is_/same_as :: [Pugwash_Conferences_on_Science_and_World_Affairs.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pugwash_Conferences_on_Science_and_World_Affairs.secret.md)
+

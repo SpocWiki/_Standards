@@ -84,3 +84,22 @@ MeSH_tree_code: L01.462.500.847.698.300
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mobile%20phone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mobile_Phone](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone/Mobile_Phone.md) 
+
+### #is_/same_as :: [Mobile_Phone.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone/Mobile_Phone.public.md) 
+
+### #is_/same_as :: [Mobile_Phone.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone/Mobile_Phone.internal.md) 
+
+### #is_/same_as :: [Mobile_Phone.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone/Mobile_Phone.protect.md) 
+
+### #is_/same_as :: [Mobile_Phone.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone/Mobile_Phone.private.md) 
+
+### #is_/same_as :: [Mobile_Phone.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone/Mobile_Phone.personal.md) 
+
+### #is_/same_as :: [Mobile_Phone.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone/Mobile_Phone.secret.md)
+

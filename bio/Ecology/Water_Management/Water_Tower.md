@@ -52,3 +52,22 @@ Dewey_Decimal_Classification: "628.13"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Water%20tower) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Water_Tower](/_Standards/bio/Ecology/Water_Management/Water_Tower.md) 
+
+### #is_/same_as :: [Water_Tower.public](/_public/bio/Ecology/Water_Management/Water_Tower.public.md) 
+
+### #is_/same_as :: [Water_Tower.internal](/_internal/bio/Ecology/Water_Management/Water_Tower.internal.md) 
+
+### #is_/same_as :: [Water_Tower.protect](/_protect/bio/Ecology/Water_Management/Water_Tower.protect.md) 
+
+### #is_/same_as :: [Water_Tower.private](/_private/bio/Ecology/Water_Management/Water_Tower.private.md) 
+
+### #is_/same_as :: [Water_Tower.personal](/_personal/bio/Ecology/Water_Management/Water_Tower.personal.md) 
+
+### #is_/same_as :: [Water_Tower.secret](/_secret/bio/Ecology/Water_Management/Water_Tower.secret.md)
+

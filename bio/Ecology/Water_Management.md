@@ -48,3 +48,22 @@ Commons_category: Water management
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Water%20resources) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Water_Management](/_Standards/bio/Ecology/Water_Management.md) 
+
+### #is_/same_as :: [Water_Management.public](/_public/bio/Ecology/Water_Management.public.md) 
+
+### #is_/same_as :: [Water_Management.internal](/_internal/bio/Ecology/Water_Management.internal.md) 
+
+### #is_/same_as :: [Water_Management.protect](/_protect/bio/Ecology/Water_Management.protect.md) 
+
+### #is_/same_as :: [Water_Management.private](/_private/bio/Ecology/Water_Management.private.md) 
+
+### #is_/same_as :: [Water_Management.personal](/_personal/bio/Ecology/Water_Management.personal.md) 
+
+### #is_/same_as :: [Water_Management.secret](/_secret/bio/Ecology/Water_Management.secret.md)
+

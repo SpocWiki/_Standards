@@ -307,3 +307,22 @@ after the publicity of him not shooting a captive bear.
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Roosevelt,Theodore](/_Standards/Earth/Continent/America~North/US~President/Roosevelt,Theodore.md) 
+
+### #is_/same_as :: [Roosevelt,Theodore.public](/_public/Earth/Continent/America~North/US~President/Roosevelt,Theodore.public.md) 
+
+### #is_/same_as :: [Roosevelt,Theodore.internal](/_internal/Earth/Continent/America~North/US~President/Roosevelt,Theodore.internal.md) 
+
+### #is_/same_as :: [Roosevelt,Theodore.protect](/_protect/Earth/Continent/America~North/US~President/Roosevelt,Theodore.protect.md) 
+
+### #is_/same_as :: [Roosevelt,Theodore.private](/_private/Earth/Continent/America~North/US~President/Roosevelt,Theodore.private.md) 
+
+### #is_/same_as :: [Roosevelt,Theodore.personal](/_personal/Earth/Continent/America~North/US~President/Roosevelt,Theodore.personal.md) 
+
+### #is_/same_as :: [Roosevelt,Theodore.secret](/_secret/Earth/Continent/America~North/US~President/Roosevelt,Theodore.secret.md)
+

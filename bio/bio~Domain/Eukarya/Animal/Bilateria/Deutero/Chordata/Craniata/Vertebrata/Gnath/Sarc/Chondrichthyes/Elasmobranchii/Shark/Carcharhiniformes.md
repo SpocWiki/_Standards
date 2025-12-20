@@ -44,3 +44,22 @@ taxon_common_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carcharhiniformes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carcharhiniformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.md) 
+
+### #is_/same_as :: [Carcharhiniformes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.public.md) 
+
+### #is_/same_as :: [Carcharhiniformes.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.internal.md) 
+
+### #is_/same_as :: [Carcharhiniformes.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.protect.md) 
+
+### #is_/same_as :: [Carcharhiniformes.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.private.md) 
+
+### #is_/same_as :: [Carcharhiniformes.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.personal.md) 
+
+### #is_/same_as :: [Carcharhiniformes.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes.secret.md)
+

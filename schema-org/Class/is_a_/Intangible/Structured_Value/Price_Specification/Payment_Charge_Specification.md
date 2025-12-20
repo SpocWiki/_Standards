@@ -39,17 +39,17 @@ The costs of settling the payment using a particular payment method.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [payment_charge_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/price_specification/payment_charge_specification.md) 
+### #is_/same_as :: [Payment_Charge_Specification](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.md) 
 
-### #is_/same_as :: [payment_charge_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/price_specification/payment_charge_specification.public.md) 
+### #is_/same_as :: [Payment_Charge_Specification.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.public.md) 
 
-### #is_/same_as :: [payment_charge_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/payment_charge_specification.internal.md) 
+### #is_/same_as :: [Payment_Charge_Specification.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.internal.md) 
 
-### #is_/same_as :: [payment_charge_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/price_specification/payment_charge_specification.protect.md) 
+### #is_/same_as :: [Payment_Charge_Specification.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.protect.md) 
 
-### #is_/same_as :: [payment_charge_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/price_specification/payment_charge_specification.private.md) 
+### #is_/same_as :: [Payment_Charge_Specification.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.private.md) 
 
-### #is_/same_as :: [payment_charge_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/payment_charge_specification.personal.md) 
+### #is_/same_as :: [Payment_Charge_Specification.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.personal.md) 
 
-### #is_/same_as :: [payment_charge_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/price_specification/payment_charge_specification.secret.md)
+### #is_/same_as :: [Payment_Charge_Specification.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.secret.md)
 

@@ -60,17 +60,17 @@ title: Thermotogae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thermotogae](Thermotogae.md) 
+### #is_/same_as :: [Thermotogae](/_Standards/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae.md) 
 
-### #is_/same_as :: [Thermotogae.public](/_public/bio/bio~Domain/Bacteria/Thermotogae.public.md) 
+### #is_/same_as :: [Thermotogae.public](/_public/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae.public.md) 
 
-### #is_/same_as :: [Thermotogae.internal](/_internal/bio/bio~Domain/Bacteria/Thermotogae.internal.md) 
+### #is_/same_as :: [Thermotogae.internal](/_internal/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae.internal.md) 
 
-### #is_/same_as :: [Thermotogae.protect](/_protect/bio/bio~Domain/Bacteria/Thermotogae.protect.md) 
+### #is_/same_as :: [Thermotogae.protect](/_protect/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae.protect.md) 
 
-### #is_/same_as :: [Thermotogae.private](/_private/bio/bio~Domain/Bacteria/Thermotogae.private.md) 
+### #is_/same_as :: [Thermotogae.private](/_private/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae.private.md) 
 
-### #is_/same_as :: [Thermotogae.personal](/_personal/bio/bio~Domain/Bacteria/Thermotogae.personal.md) 
+### #is_/same_as :: [Thermotogae.personal](/_personal/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae.personal.md) 
 
-### #is_/same_as :: [Thermotogae.secret](/_secret/bio/bio~Domain/Bacteria/Thermotogae.secret.md)
+### #is_/same_as :: [Thermotogae.secret](/_secret/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota/Thermotogae.secret.md)
 

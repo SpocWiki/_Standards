@@ -38,3 +38,22 @@ Unicode_character: 🧣
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scarf) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scarf](/_Standards/Technology/Tool/Clothing/Scarf.md) 
+
+### #is_/same_as :: [Scarf.public](/_public/Technology/Tool/Clothing/Scarf.public.md) 
+
+### #is_/same_as :: [Scarf.internal](/_internal/Technology/Tool/Clothing/Scarf.internal.md) 
+
+### #is_/same_as :: [Scarf.protect](/_protect/Technology/Tool/Clothing/Scarf.protect.md) 
+
+### #is_/same_as :: [Scarf.private](/_private/Technology/Tool/Clothing/Scarf.private.md) 
+
+### #is_/same_as :: [Scarf.personal](/_personal/Technology/Tool/Clothing/Scarf.personal.md) 
+
+### #is_/same_as :: [Scarf.secret](/_secret/Technology/Tool/Clothing/Scarf.secret.md)
+

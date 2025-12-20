@@ -373,3 +373,22 @@ Libris_URI: 0xbfnmbj1k6mgxz
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Superman) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Superman](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Superman.md) 
+
+### #is_/same_as :: [Superman.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Superman.public.md) 
+
+### #is_/same_as :: [Superman.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Superman.internal.md) 
+
+### #is_/same_as :: [Superman.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Superman.protect.md) 
+
+### #is_/same_as :: [Superman.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Superman.private.md) 
+
+### #is_/same_as :: [Superman.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Superman.personal.md) 
+
+### #is_/same_as :: [Superman.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Superman.secret.md)
+

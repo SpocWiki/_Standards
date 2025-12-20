@@ -110,3 +110,22 @@ ISNI: "0000000055592454"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grigori%20Perelman) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Perelman,Grigori](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.md) 
+
+### #is_/same_as :: [Perelman,Grigori.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.public.md) 
+
+### #is_/same_as :: [Perelman,Grigori.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.internal.md) 
+
+### #is_/same_as :: [Perelman,Grigori.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.protect.md) 
+
+### #is_/same_as :: [Perelman,Grigori.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.private.md) 
+
+### #is_/same_as :: [Perelman,Grigori.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.personal.md) 
+
+### #is_/same_as :: [Perelman,Grigori.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.secret.md)
+

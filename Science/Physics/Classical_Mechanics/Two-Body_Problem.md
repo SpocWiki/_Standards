@@ -32,3 +32,22 @@ Commons_category: Two-body problem
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Two-body%20problem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Two-Body_Problem](/_Standards/Science/Physics/Classical_Mechanics/Two-Body_Problem.md) 
+
+### #is_/same_as :: [Two-Body_Problem.public](/_public/Science/Physics/Classical_Mechanics/Two-Body_Problem.public.md) 
+
+### #is_/same_as :: [Two-Body_Problem.internal](/_internal/Science/Physics/Classical_Mechanics/Two-Body_Problem.internal.md) 
+
+### #is_/same_as :: [Two-Body_Problem.protect](/_protect/Science/Physics/Classical_Mechanics/Two-Body_Problem.protect.md) 
+
+### #is_/same_as :: [Two-Body_Problem.private](/_private/Science/Physics/Classical_Mechanics/Two-Body_Problem.private.md) 
+
+### #is_/same_as :: [Two-Body_Problem.personal](/_personal/Science/Physics/Classical_Mechanics/Two-Body_Problem.personal.md) 
+
+### #is_/same_as :: [Two-Body_Problem.secret](/_secret/Science/Physics/Classical_Mechanics/Two-Body_Problem.secret.md)
+

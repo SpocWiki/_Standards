@@ -160,17 +160,17 @@ Represents the broad notion of iOS-based operating systems.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OS~iOS](OS~iOS.md) 
+### #is_/same_as :: [OS~iOS](/_Standards/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.md) 
 
-### #is_/same_as :: [ios_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/ios_platform.public.md) 
+### #is_/same_as :: [OS~iOS.public](/_public/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.public.md) 
 
-### #is_/same_as :: [ios_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/ios_platform.internal.md) 
+### #is_/same_as :: [OS~iOS.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.internal.md) 
 
-### #is_/same_as :: [ios_platform.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/ios_platform.protect.md) 
+### #is_/same_as :: [OS~iOS.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.protect.md) 
 
-### #is_/same_as :: [ios_platform.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/ios_platform.private.md) 
+### #is_/same_as :: [OS~iOS.private](/_private/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.private.md) 
 
-### #is_/same_as :: [ios_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/ios_platform.personal.md) 
+### #is_/same_as :: [OS~iOS.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.personal.md) 
 
-### #is_/same_as :: [ios_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/ios_platform.secret.md)
+### #is_/same_as :: [OS~iOS.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.secret.md)
 

@@ -229,3 +229,22 @@ Central_Index_Key: "0000313838"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sony) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sony_Group](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Sony_Group.md) 
+
+### #is_/same_as :: [Sony_Group.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Sony_Group.public.md) 
+
+### #is_/same_as :: [Sony_Group.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Sony_Group.internal.md) 
+
+### #is_/same_as :: [Sony_Group.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Sony_Group.protect.md) 
+
+### #is_/same_as :: [Sony_Group.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Sony_Group.private.md) 
+
+### #is_/same_as :: [Sony_Group.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Sony_Group.personal.md) 
+
+### #is_/same_as :: [Sony_Group.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Sony_Group.secret.md)
+

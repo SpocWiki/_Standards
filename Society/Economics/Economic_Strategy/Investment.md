@@ -47,3 +47,22 @@ MeSH_tree_code: N03.219.702
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Investment) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Investment](/_Standards/Society/Economics/Economic_Strategy/Investment.md) 
+
+### #is_/same_as :: [Investment.public](/_public/Society/Economics/Economic_Strategy/Investment.public.md) 
+
+### #is_/same_as :: [Investment.internal](/_internal/Society/Economics/Economic_Strategy/Investment.internal.md) 
+
+### #is_/same_as :: [Investment.protect](/_protect/Society/Economics/Economic_Strategy/Investment.protect.md) 
+
+### #is_/same_as :: [Investment.private](/_private/Society/Economics/Economic_Strategy/Investment.private.md) 
+
+### #is_/same_as :: [Investment.personal](/_personal/Society/Economics/Economic_Strategy/Investment.personal.md) 
+
+### #is_/same_as :: [Investment.secret](/_secret/Society/Economics/Economic_Strategy/Investment.secret.md)
+

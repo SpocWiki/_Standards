@@ -71,17 +71,17 @@ A person (alive, dead, undead, or fictional).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Person](Person.md) 
+### #is_/same_as :: [Person](/_Standards/Society/Agent/Person.md) 
 
-### #is_/same_as :: [person.public](/_public/schema-org/Class/is_a_/person.public.md) 
+### #is_/same_as :: [Person.public](/_public/Society/Agent/Person.public.md) 
 
-### #is_/same_as :: [person.internal](/_internal/schema-org/Class/is_a_/person.internal.md) 
+### #is_/same_as :: [Person.internal](/_internal/Society/Agent/Person.internal.md) 
 
-### #is_/same_as :: [person.protect](/_protect/schema-org/Class/is_a_/person.protect.md) 
+### #is_/same_as :: [Person.protect](/_protect/Society/Agent/Person.protect.md) 
 
-### #is_/same_as :: [person.private](/_private/schema-org/Class/is_a_/person.private.md) 
+### #is_/same_as :: [Person.private](/_private/Society/Agent/Person.private.md) 
 
-### #is_/same_as :: [person.personal](/_personal/schema-org/Class/is_a_/person.personal.md) 
+### #is_/same_as :: [Person.personal](/_personal/Society/Agent/Person.personal.md) 
 
-### #is_/same_as :: [person.secret](/_secret/schema-org/Class/is_a_/person.secret.md)
+### #is_/same_as :: [Person.secret](/_secret/Society/Agent/Person.secret.md)
 

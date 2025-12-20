@@ -76,3 +76,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/M%C4%81ori%20people) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Māori_People](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.md) 
+
+### #is_/same_as :: [Māori_People.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.public.md) 
+
+### #is_/same_as :: [Māori_People.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.internal.md) 
+
+### #is_/same_as :: [Māori_People.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.protect.md) 
+
+### #is_/same_as :: [Māori_People.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.private.md) 
+
+### #is_/same_as :: [Māori_People.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.personal.md) 
+
+### #is_/same_as :: [Māori_People.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.secret.md)
+

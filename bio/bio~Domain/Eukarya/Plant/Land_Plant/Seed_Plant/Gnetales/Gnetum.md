@@ -93,7 +93,7 @@ Sciences157(6, Suppl.): S40-S49.
   Specimen Condition   Live Specimen
   Body Part            new and old leaves
   Copyright ::            © University of Basel, Basel, Switzerland 
-  ----------------------------------------------------------------------
+  ----------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

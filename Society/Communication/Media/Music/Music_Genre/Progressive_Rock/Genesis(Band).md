@@ -58,3 +58,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Genesis(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).md) 
+
+### #is_/same_as :: [Genesis(Band).public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).public.md) 
+
+### #is_/same_as :: [Genesis(Band).internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).internal.md) 
+
+### #is_/same_as :: [Genesis(Band).protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).protect.md) 
+
+### #is_/same_as :: [Genesis(Band).private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).private.md) 
+
+### #is_/same_as :: [Genesis(Band).personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).personal.md) 
+
+### #is_/same_as :: [Genesis(Band).secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).secret.md)
+

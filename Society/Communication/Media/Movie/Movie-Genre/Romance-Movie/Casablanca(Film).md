@@ -195,3 +195,22 @@ film_poster: http://commons.wikimedia.org/wiki/Special:FilePath/CasablancaPoster
 > Roger Ebert wrote, "If there is ever a time when they decide that some movies should be spelled with an upper-case M, Casablanca should be voted first on the list of Movies."
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Casablanca%20(film))
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Casablanca(Film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).md) 
+
+### #is_/same_as :: [Casablanca(Film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).public.md) 
+
+### #is_/same_as :: [Casablanca(Film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).internal.md) 
+
+### #is_/same_as :: [Casablanca(Film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).protect.md) 
+
+### #is_/same_as :: [Casablanca(Film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).private.md) 
+
+### #is_/same_as :: [Casablanca(Film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).personal.md) 
+
+### #is_/same_as :: [Casablanca(Film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).secret.md)
+

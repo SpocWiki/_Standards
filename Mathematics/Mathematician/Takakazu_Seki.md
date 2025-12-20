@@ -71,3 +71,22 @@ date_of_birth: 1642-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seki%20Takakazu) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Takakazu_Seki](/_Standards/Mathematics/Mathematician/Takakazu_Seki.md) 
+
+### #is_/same_as :: [Takakazu_Seki.public](/_public/Mathematics/Mathematician/Takakazu_Seki.public.md) 
+
+### #is_/same_as :: [Takakazu_Seki.internal](/_internal/Mathematics/Mathematician/Takakazu_Seki.internal.md) 
+
+### #is_/same_as :: [Takakazu_Seki.protect](/_protect/Mathematics/Mathematician/Takakazu_Seki.protect.md) 
+
+### #is_/same_as :: [Takakazu_Seki.private](/_private/Mathematics/Mathematician/Takakazu_Seki.private.md) 
+
+### #is_/same_as :: [Takakazu_Seki.personal](/_personal/Mathematics/Mathematician/Takakazu_Seki.personal.md) 
+
+### #is_/same_as :: [Takakazu_Seki.secret](/_secret/Mathematics/Mathematician/Takakazu_Seki.secret.md)
+

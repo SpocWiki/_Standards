@@ -119,3 +119,21 @@ Commons_category: Journey to the West
 > Journey to the West has strong roots in Chinese folk religion, Chinese mythology, Chinese Buddhism, Confucianism, Taoist and Buddhist folklore, and the pantheon of Taoist immortals and Buddhist bodhisattvas are still reflective of certain Chinese religious attitudes today, while being the inspiration of many modern manhwa, manhua, manga and anime series. Enduringly popular, the novel is at once a comic adventure story, a humorous satire of Chinese bureaucracy, a source of spiritual insight, and an extended allegory.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Journey%20to%20the%20West)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Journey_to_the_West](/_Standards/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.md) 
+
+### #is_/same_as :: [Journey_to_the_West.public](/_public/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.public.md) 
+
+### #is_/same_as :: [Journey_to_the_West.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.internal.md) 
+
+### #is_/same_as :: [Journey_to_the_West.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.protect.md) 
+
+### #is_/same_as :: [Journey_to_the_West.private](/_private/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.private.md) 
+
+### #is_/same_as :: [Journey_to_the_West.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.personal.md) 
+
+### #is_/same_as :: [Journey_to_the_West.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Journey_to_the_West.secret.md)
+

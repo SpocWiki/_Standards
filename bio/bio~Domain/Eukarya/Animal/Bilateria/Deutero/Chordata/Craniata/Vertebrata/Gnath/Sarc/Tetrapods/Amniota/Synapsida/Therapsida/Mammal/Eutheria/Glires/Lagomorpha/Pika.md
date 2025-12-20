@@ -34,3 +34,22 @@ start_time: -16400000-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pika) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pika](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Pika.md) 
+
+### #is_/same_as :: [Pika.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Pika.public.md) 
+
+### #is_/same_as :: [Pika.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Pika.internal.md) 
+
+### #is_/same_as :: [Pika.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Pika.protect.md) 
+
+### #is_/same_as :: [Pika.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Pika.private.md) 
+
+### #is_/same_as :: [Pika.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Pika.personal.md) 
+
+### #is_/same_as :: [Pika.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Pika.secret.md)
+

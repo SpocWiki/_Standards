@@ -28,3 +28,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chain%20mail) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chainmail](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Chainmail.md) 
+
+### #is_/same_as :: [Chainmail.public](/_public/Society/Military/Military_Engineering/Defense/Armor/Chainmail.public.md) 
+
+### #is_/same_as :: [Chainmail.internal](/_internal/Society/Military/Military_Engineering/Defense/Armor/Chainmail.internal.md) 
+
+### #is_/same_as :: [Chainmail.protect](/_protect/Society/Military/Military_Engineering/Defense/Armor/Chainmail.protect.md) 
+
+### #is_/same_as :: [Chainmail.private](/_private/Society/Military/Military_Engineering/Defense/Armor/Chainmail.private.md) 
+
+### #is_/same_as :: [Chainmail.personal](/_personal/Society/Military/Military_Engineering/Defense/Armor/Chainmail.personal.md) 
+
+### #is_/same_as :: [Chainmail.secret](/_secret/Society/Military/Military_Engineering/Defense/Armor/Chainmail.secret.md)
+

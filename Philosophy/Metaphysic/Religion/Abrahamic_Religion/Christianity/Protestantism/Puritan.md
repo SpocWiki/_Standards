@@ -89,3 +89,22 @@ Commons_category: Puritans
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Puritans) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Puritan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.md) 
+
+### #is_/same_as :: [Puritan.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.public.md) 
+
+### #is_/same_as :: [Puritan.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.internal.md) 
+
+### #is_/same_as :: [Puritan.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.protect.md) 
+
+### #is_/same_as :: [Puritan.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.private.md) 
+
+### #is_/same_as :: [Puritan.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.personal.md) 
+
+### #is_/same_as :: [Puritan.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.secret.md)
+

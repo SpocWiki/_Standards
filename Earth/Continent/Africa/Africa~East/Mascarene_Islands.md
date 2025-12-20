@@ -60,3 +60,22 @@ Commons_category: Mascarene Islands
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mascarene%20Islands)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mascarene_Islands](/_Standards/Earth/Continent/Africa/Africa~East/Mascarene_Islands.md) 
+
+### #is_/same_as :: [Mascarene_Islands.public](/_public/Earth/Continent/Africa/Africa~East/Mascarene_Islands.public.md) 
+
+### #is_/same_as :: [Mascarene_Islands.internal](/_internal/Earth/Continent/Africa/Africa~East/Mascarene_Islands.internal.md) 
+
+### #is_/same_as :: [Mascarene_Islands.protect](/_protect/Earth/Continent/Africa/Africa~East/Mascarene_Islands.protect.md) 
+
+### #is_/same_as :: [Mascarene_Islands.private](/_private/Earth/Continent/Africa/Africa~East/Mascarene_Islands.private.md) 
+
+### #is_/same_as :: [Mascarene_Islands.personal](/_personal/Earth/Continent/Africa/Africa~East/Mascarene_Islands.personal.md) 
+
+### #is_/same_as :: [Mascarene_Islands.secret](/_secret/Earth/Continent/Africa/Africa~East/Mascarene_Islands.secret.md)
+

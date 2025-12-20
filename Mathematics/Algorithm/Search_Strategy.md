@@ -28,3 +28,22 @@ These create typed
 
 ### Full Text Contents Search 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Search_Strategy](/_Standards/Mathematics/Algorithm/Search_Strategy.md) 
+
+### #is_/same_as :: [Search_Strategy.public](/_public/Mathematics/Algorithm/Search_Strategy.public.md) 
+
+### #is_/same_as :: [Search_Strategy.internal](/_internal/Mathematics/Algorithm/Search_Strategy.internal.md) 
+
+### #is_/same_as :: [Search_Strategy.protect](/_protect/Mathematics/Algorithm/Search_Strategy.protect.md) 
+
+### #is_/same_as :: [Search_Strategy.private](/_private/Mathematics/Algorithm/Search_Strategy.private.md) 
+
+### #is_/same_as :: [Search_Strategy.personal](/_personal/Mathematics/Algorithm/Search_Strategy.personal.md) 
+
+### #is_/same_as :: [Search_Strategy.secret](/_secret/Mathematics/Algorithm/Search_Strategy.secret.md)
+

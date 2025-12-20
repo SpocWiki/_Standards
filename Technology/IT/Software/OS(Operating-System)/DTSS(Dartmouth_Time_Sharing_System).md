@@ -31,3 +31,22 @@ but they were part of a broader movement in the 1960s towards time-sharing syste
 that enabled more efficient use of computing resources 
 and facilitated interactive computing for multiple users.
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System)](/_Standards/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).md) 
+
+### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System).public](/_public/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).public.md) 
+
+### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System).internal](/_internal/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).internal.md) 
+
+### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System).protect](/_protect/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).protect.md) 
+
+### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System).private](/_private/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).private.md) 
+
+### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System).personal](/_personal/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).personal.md) 
+
+### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System).secret](/_secret/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).secret.md)
+

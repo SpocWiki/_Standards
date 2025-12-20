@@ -39,6 +39,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Forn
 
 #is_/same_as :: [[_Standards/WikiData/WD~Fornax,8913]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Fornax](/_Standards/Astronomy/Star~Constellation/Zodiac~Fornax.md) 

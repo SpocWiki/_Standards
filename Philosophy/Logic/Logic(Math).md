@@ -62,3 +62,22 @@ X_Twitter_username: PeterOHearn12
 > rather than trying to find theories in which all of mathematics can be developed.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mathematical%20logic)
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Logic(Math)](/_Standards/Philosophy/Logic/Logic(Math).md) 
+
+### #is_/same_as :: [Logic(Math).public](/_public/Philosophy/Logic/Logic(Math).public.md) 
+
+### #is_/same_as :: [Logic(Math).internal](/_internal/Philosophy/Logic/Logic(Math).internal.md) 
+
+### #is_/same_as :: [Logic(Math).protect](/_protect/Philosophy/Logic/Logic(Math).protect.md) 
+
+### #is_/same_as :: [Logic(Math).private](/_private/Philosophy/Logic/Logic(Math).private.md) 
+
+### #is_/same_as :: [Logic(Math).personal](/_personal/Philosophy/Logic/Logic(Math).personal.md) 
+
+### #is_/same_as :: [Logic(Math).secret](/_secret/Philosophy/Logic/Logic(Math).secret.md)
+

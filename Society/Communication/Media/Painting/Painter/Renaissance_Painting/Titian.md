@@ -336,3 +336,22 @@ ISNI: "0000000107879191"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Titian) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Titian](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.md) 
+
+### #is_/same_as :: [Titian.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.public.md) 
+
+### #is_/same_as :: [Titian.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.internal.md) 
+
+### #is_/same_as :: [Titian.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.protect.md) 
+
+### #is_/same_as :: [Titian.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.private.md) 
+
+### #is_/same_as :: [Titian.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.personal.md) 
+
+### #is_/same_as :: [Titian.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.secret.md)
+

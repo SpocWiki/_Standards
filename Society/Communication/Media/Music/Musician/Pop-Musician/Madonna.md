@@ -66,3 +66,22 @@ has_id_wikidata: Q1744
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Madonna) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Madonna](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.md) 
+
+### #is_/same_as :: [Madonna.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.public.md) 
+
+### #is_/same_as :: [Madonna.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.internal.md) 
+
+### #is_/same_as :: [Madonna.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.protect.md) 
+
+### #is_/same_as :: [Madonna.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.private.md) 
+
+### #is_/same_as :: [Madonna.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.personal.md) 
+
+### #is_/same_as :: [Madonna.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.secret.md)
+

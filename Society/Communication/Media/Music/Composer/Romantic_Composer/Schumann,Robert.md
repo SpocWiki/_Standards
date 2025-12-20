@@ -151,3 +151,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/SHUMAN_ROBERT_ALEKSAND
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Schumann) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Schumann,Robert](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.md) 
+
+### #is_/same_as :: [Schumann,Robert.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.public.md) 
+
+### #is_/same_as :: [Schumann,Robert.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.internal.md) 
+
+### #is_/same_as :: [Schumann,Robert.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.protect.md) 
+
+### #is_/same_as :: [Schumann,Robert.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.private.md) 
+
+### #is_/same_as :: [Schumann,Robert.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.personal.md) 
+
+### #is_/same_as :: [Schumann,Robert.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.secret.md)
+

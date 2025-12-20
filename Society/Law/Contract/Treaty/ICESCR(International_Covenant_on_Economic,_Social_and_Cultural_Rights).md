@@ -87,3 +87,22 @@ title:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Covenant%20on%20Economic,%20Social%20and%20Cultural%20Rights) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights)](/_Standards/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).md) 
+
+### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).public](/_public/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).public.md) 
+
+### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).internal](/_internal/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).internal.md) 
+
+### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).protect](/_protect/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).protect.md) 
+
+### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).private](/_private/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).private.md) 
+
+### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).personal](/_personal/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).personal.md) 
+
+### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).secret](/_secret/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).secret.md)
+

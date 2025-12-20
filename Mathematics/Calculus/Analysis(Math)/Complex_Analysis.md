@@ -44,3 +44,22 @@ Krugosvet_article: nauka_i_tehnika/matematika/FUNKTSI_TEORIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Complex%20analysis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Complex_Analysis](/_Standards/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.md) 
+
+### #is_/same_as :: [Complex_Analysis.public](/_public/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.public.md) 
+
+### #is_/same_as :: [Complex_Analysis.internal](/_internal/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.internal.md) 
+
+### #is_/same_as :: [Complex_Analysis.protect](/_protect/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.protect.md) 
+
+### #is_/same_as :: [Complex_Analysis.private](/_private/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.private.md) 
+
+### #is_/same_as :: [Complex_Analysis.personal](/_personal/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.personal.md) 
+
+### #is_/same_as :: [Complex_Analysis.secret](/_secret/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.secret.md)
+

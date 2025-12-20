@@ -34,3 +34,22 @@ has_id_wikidata: Q728455
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pantheism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pantheism](/_Standards/Philosophy/Metaphysic/Religion/Pantheism.md) 
+
+### #is_/same_as :: [Pantheism.public](/_public/Philosophy/Metaphysic/Religion/Pantheism.public.md) 
+
+### #is_/same_as :: [Pantheism.internal](/_internal/Philosophy/Metaphysic/Religion/Pantheism.internal.md) 
+
+### #is_/same_as :: [Pantheism.protect](/_protect/Philosophy/Metaphysic/Religion/Pantheism.protect.md) 
+
+### #is_/same_as :: [Pantheism.private](/_private/Philosophy/Metaphysic/Religion/Pantheism.private.md) 
+
+### #is_/same_as :: [Pantheism.personal](/_personal/Philosophy/Metaphysic/Religion/Pantheism.personal.md) 
+
+### #is_/same_as :: [Pantheism.secret](/_secret/Philosophy/Metaphysic/Religion/Pantheism.secret.md)
+

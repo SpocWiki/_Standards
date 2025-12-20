@@ -81,3 +81,22 @@ short_name: D. melanogaster
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Drosophila%20melanogaster) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Drosophila_melanogaster](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.md) 
+
+### #is_/same_as :: [Drosophila_melanogaster.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.public.md) 
+
+### #is_/same_as :: [Drosophila_melanogaster.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.internal.md) 
+
+### #is_/same_as :: [Drosophila_melanogaster.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.protect.md) 
+
+### #is_/same_as :: [Drosophila_melanogaster.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.private.md) 
+
+### #is_/same_as :: [Drosophila_melanogaster.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.personal.md) 
+
+### #is_/same_as :: [Drosophila_melanogaster.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.secret.md)
+

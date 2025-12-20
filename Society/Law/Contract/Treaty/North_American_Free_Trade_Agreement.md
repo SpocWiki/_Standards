@@ -66,3 +66,22 @@ EU_Corporate_body_code: NAFTA
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/North%20American%20Free%20Trade%20Agreement) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [North_American_Free_Trade_Agreement](/_Standards/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.md) 
+
+### #is_/same_as :: [North_American_Free_Trade_Agreement.public](/_public/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.public.md) 
+
+### #is_/same_as :: [North_American_Free_Trade_Agreement.internal](/_internal/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.internal.md) 
+
+### #is_/same_as :: [North_American_Free_Trade_Agreement.protect](/_protect/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.protect.md) 
+
+### #is_/same_as :: [North_American_Free_Trade_Agreement.private](/_private/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.private.md) 
+
+### #is_/same_as :: [North_American_Free_Trade_Agreement.personal](/_personal/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.personal.md) 
+
+### #is_/same_as :: [North_American_Free_Trade_Agreement.secret](/_secret/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.secret.md)
+

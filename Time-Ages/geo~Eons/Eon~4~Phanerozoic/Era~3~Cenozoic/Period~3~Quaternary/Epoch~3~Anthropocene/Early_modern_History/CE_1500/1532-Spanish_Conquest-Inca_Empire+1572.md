@@ -88,3 +88,21 @@ coordinate_location: Point(-71.983333 -13.522222)
 > At the time of Huayna Capac's death, Huáscar was in the capital Cuzco, while Atahualpa was in Quito with the main body of the Inca army. Huáscar had himself proclaimed Sapa Inca (i.e. "Only Emperor") in Cuzco, but the army declared loyalty to Atahualpa. The resulting dispute led to the Inca Civil War.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20conquest%20of%20the%20Inca%20Empire)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.md) 
+
+### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.public.md) 
+
+### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.internal.md) 
+
+### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.protect.md) 
+
+### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.private.md) 
+
+### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.personal.md) 
+
+### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.secret.md)
+

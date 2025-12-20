@@ -182,3 +182,22 @@ Know_Your_Meme_slug: zensursula
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ursula%20von%20der%20Leyen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ursula_von_der_Leyen](/_Standards/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.md) 
+
+### #is_/same_as :: [Ursula_von_der_Leyen.public](/_public/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.public.md) 
+
+### #is_/same_as :: [Ursula_von_der_Leyen.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.internal.md) 
+
+### #is_/same_as :: [Ursula_von_der_Leyen.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.protect.md) 
+
+### #is_/same_as :: [Ursula_von_der_Leyen.private](/_private/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.private.md) 
+
+### #is_/same_as :: [Ursula_von_der_Leyen.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.personal.md) 
+
+### #is_/same_as :: [Ursula_von_der_Leyen.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.secret.md)
+

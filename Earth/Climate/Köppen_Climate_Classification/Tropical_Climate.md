@@ -45,3 +45,22 @@ Commons_category: Tropical climate
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tropical%20climate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tropical_Climate](/_Standards/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.md) 
+
+### #is_/same_as :: [Tropical_Climate.public](/_public/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.public.md) 
+
+### #is_/same_as :: [Tropical_Climate.internal](/_internal/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.internal.md) 
+
+### #is_/same_as :: [Tropical_Climate.protect](/_protect/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.protect.md) 
+
+### #is_/same_as :: [Tropical_Climate.private](/_private/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.private.md) 
+
+### #is_/same_as :: [Tropical_Climate.personal](/_personal/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.personal.md) 
+
+### #is_/same_as :: [Tropical_Climate.secret](/_secret/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.secret.md)
+

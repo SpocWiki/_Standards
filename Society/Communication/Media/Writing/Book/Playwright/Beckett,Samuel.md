@@ -156,3 +156,21 @@ pseudonym: Andrew Belis
 > Beckett is considered to be one of the last modernist writers and a key figure in what Martin Esslin called the "Theatre of the Absurd." He died in 1989 and was buried at the Cimetière du Montparnasse. His most well-known play, Waiting for Godot, has since become a centrepiece of modernist literature, and in a public poll conducted by London's Royal National Theatre in 1998, it was voted as "the most significant English-language play of the 20th century."
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Samuel%20Beckett)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Beckett,Samuel](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.md) 
+
+### #is_/same_as :: [Beckett,Samuel.public](/_public/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.public.md) 
+
+### #is_/same_as :: [Beckett,Samuel.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.internal.md) 
+
+### #is_/same_as :: [Beckett,Samuel.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.protect.md) 
+
+### #is_/same_as :: [Beckett,Samuel.private](/_private/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.private.md) 
+
+### #is_/same_as :: [Beckett,Samuel.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.personal.md) 
+
+### #is_/same_as :: [Beckett,Samuel.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel.secret.md)
+

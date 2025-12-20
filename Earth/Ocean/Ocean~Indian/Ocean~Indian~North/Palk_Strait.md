@@ -54,3 +54,22 @@ coordinate_location: Point(79.5 9.833333333)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Palk%20Strait) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Palk_Strait](/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.md) 
+
+### #is_/same_as :: [Palk_Strait.public](/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.public.md) 
+
+### #is_/same_as :: [Palk_Strait.internal](/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.internal.md) 
+
+### #is_/same_as :: [Palk_Strait.protect](/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.protect.md) 
+
+### #is_/same_as :: [Palk_Strait.private](/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.private.md) 
+
+### #is_/same_as :: [Palk_Strait.personal](/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.personal.md) 
+
+### #is_/same_as :: [Palk_Strait.secret](/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.secret.md)
+

@@ -39,3 +39,22 @@ MeSH_tree_code: K01.400.552
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20medicine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Medicine](/_Standards/bio/Medicine/History_of_Medicine.md) 
+
+### #is_/same_as :: [History_of_Medicine.public](/_public/bio/Medicine/History_of_Medicine.public.md) 
+
+### #is_/same_as :: [History_of_Medicine.internal](/_internal/bio/Medicine/History_of_Medicine.internal.md) 
+
+### #is_/same_as :: [History_of_Medicine.protect](/_protect/bio/Medicine/History_of_Medicine.protect.md) 
+
+### #is_/same_as :: [History_of_Medicine.private](/_private/bio/Medicine/History_of_Medicine.private.md) 
+
+### #is_/same_as :: [History_of_Medicine.personal](/_personal/bio/Medicine/History_of_Medicine.personal.md) 
+
+### #is_/same_as :: [History_of_Medicine.secret](/_secret/bio/Medicine/History_of_Medicine.secret.md)
+

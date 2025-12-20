@@ -33,3 +33,22 @@ Iconclass_notation: "49E81"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Laboratory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Laboratory_Equipment](/_Standards/Science/Laboratory_Equipment.md) 
+
+### #is_/same_as :: [Laboratory_Equipment.public](/_public/Science/Laboratory_Equipment.public.md) 
+
+### #is_/same_as :: [Laboratory_Equipment.internal](/_internal/Science/Laboratory_Equipment.internal.md) 
+
+### #is_/same_as :: [Laboratory_Equipment.protect](/_protect/Science/Laboratory_Equipment.protect.md) 
+
+### #is_/same_as :: [Laboratory_Equipment.private](/_private/Science/Laboratory_Equipment.private.md) 
+
+### #is_/same_as :: [Laboratory_Equipment.personal](/_personal/Science/Laboratory_Equipment.personal.md) 
+
+### #is_/same_as :: [Laboratory_Equipment.secret](/_secret/Science/Laboratory_Equipment.secret.md)
+

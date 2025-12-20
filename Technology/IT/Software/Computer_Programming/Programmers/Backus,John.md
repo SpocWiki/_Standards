@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "John Backus"
 - "John Warner Backus"
@@ -34,4 +34,23 @@ aliases:
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Backus,John](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.md) 
+
+### #is_/same_as :: [Backus,John.public](/_public/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.public.md) 
+
+### #is_/same_as :: [Backus,John.internal](/_internal/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.internal.md) 
+
+### #is_/same_as :: [Backus,John.protect](/_protect/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.protect.md) 
+
+### #is_/same_as :: [Backus,John.private](/_private/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.private.md) 
+
+### #is_/same_as :: [Backus,John.personal](/_personal/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.personal.md) 
+
+### #is_/same_as :: [Backus,John.secret](/_secret/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.secret.md)
 

@@ -95,3 +95,22 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Apple_Inc](/_Standards/Technology/IT/Computer_Hardware/Apple_Inc.md) 
+
+### #is_/same_as :: [Apple_Inc.public](/_public/Technology/IT/Computer_Hardware/Apple_Inc.public.md) 
+
+### #is_/same_as :: [Apple_Inc.internal](/_internal/Technology/IT/Computer_Hardware/Apple_Inc.internal.md) 
+
+### #is_/same_as :: [Apple_Inc.protect](/_protect/Technology/IT/Computer_Hardware/Apple_Inc.protect.md) 
+
+### #is_/same_as :: [Apple_Inc.private](/_private/Technology/IT/Computer_Hardware/Apple_Inc.private.md) 
+
+### #is_/same_as :: [Apple_Inc.personal](/_personal/Technology/IT/Computer_Hardware/Apple_Inc.personal.md) 
+
+### #is_/same_as :: [Apple_Inc.secret](/_secret/Technology/IT/Computer_Hardware/Apple_Inc.secret.md)
+

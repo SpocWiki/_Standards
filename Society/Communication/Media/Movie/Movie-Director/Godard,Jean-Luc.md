@@ -127,3 +127,22 @@ ISNI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean-Luc%20Godard) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Godard,Jean-Luc](/_Standards/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.md) 
+
+### #is_/same_as :: [Godard,Jean-Luc.public](/_public/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.public.md) 
+
+### #is_/same_as :: [Godard,Jean-Luc.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.internal.md) 
+
+### #is_/same_as :: [Godard,Jean-Luc.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.protect.md) 
+
+### #is_/same_as :: [Godard,Jean-Luc.private](/_private/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.private.md) 
+
+### #is_/same_as :: [Godard,Jean-Luc.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.personal.md) 
+
+### #is_/same_as :: [Godard,Jean-Luc.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.secret.md)
+

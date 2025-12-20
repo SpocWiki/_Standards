@@ -73,3 +73,22 @@ short_name: RAM
 > [Wikipedia](https://en.wikipedia.org/wiki/Random-access%20memory) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [RAM(Random Access Memory)](/_Standards/Technology/IT/Computer_Hardware/RAM(Random Access Memory).md) 
+
+### #is_/same_as :: [RAM(Random Access Memory).public](/_public/Technology/IT/Computer_Hardware/RAM(Random Access Memory).public.md) 
+
+### #is_/same_as :: [RAM(Random Access Memory).internal](/_internal/Technology/IT/Computer_Hardware/RAM(Random Access Memory).internal.md) 
+
+### #is_/same_as :: [RAM(Random Access Memory).protect](/_protect/Technology/IT/Computer_Hardware/RAM(Random Access Memory).protect.md) 
+
+### #is_/same_as :: [RAM(Random Access Memory).private](/_private/Technology/IT/Computer_Hardware/RAM(Random Access Memory).private.md) 
+
+### #is_/same_as :: [RAM(Random Access Memory).personal](/_personal/Technology/IT/Computer_Hardware/RAM(Random Access Memory).personal.md) 
+
+### #is_/same_as :: [RAM(Random Access Memory).secret](/_secret/Technology/IT/Computer_Hardware/RAM(Random Access Memory).secret.md)
+

@@ -124,7 +124,6 @@ video:
 | 87[[Francium]]  | 88[[Radium]]    | 113[[Nihonium]] | 114[[Flerovium]] | 115[[Moscovium]] | 116[[Livermorium]] | 117[[Group-17-Halogen/Tennessine]] | 118[[Oganesson]] |
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Periodic_Table](/_Standards/Chemistry/Chemical_Element/Periodic_Table.md) 

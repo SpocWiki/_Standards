@@ -37,17 +37,17 @@ Enumerated for values for itemListOrder for indicating how an ordered ItemList i
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Item_List_Order_Type](Item_List_Order_Type.md) 
+### #is_/same_as :: [Item_List_Order_Type](/_Standards/schema-org/Enumeration/Item_List_Order_Type.md) 
 
-### #is_/same_as :: [item_list_order_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type.public.md) 
+### #is_/same_as :: [Item_List_Order_Type.public](/_public/schema-org/Enumeration/Item_List_Order_Type.public.md) 
 
-### #is_/same_as :: [item_list_order_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type.internal.md) 
+### #is_/same_as :: [Item_List_Order_Type.internal](/_internal/schema-org/Enumeration/Item_List_Order_Type.internal.md) 
 
-### #is_/same_as :: [item_list_order_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type.protect.md) 
+### #is_/same_as :: [Item_List_Order_Type.protect](/_protect/schema-org/Enumeration/Item_List_Order_Type.protect.md) 
 
-### #is_/same_as :: [item_list_order_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type.private.md) 
+### #is_/same_as :: [Item_List_Order_Type.private](/_private/schema-org/Enumeration/Item_List_Order_Type.private.md) 
 
-### #is_/same_as :: [item_list_order_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type.personal.md) 
+### #is_/same_as :: [Item_List_Order_Type.personal](/_personal/schema-org/Enumeration/Item_List_Order_Type.personal.md) 
 
-### #is_/same_as :: [item_list_order_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type.secret.md)
+### #is_/same_as :: [Item_List_Order_Type.secret](/_secret/schema-org/Enumeration/Item_List_Order_Type.secret.md)
 

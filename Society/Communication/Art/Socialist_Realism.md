@@ -70,3 +70,21 @@ inception: 1932-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Socialist%20realism) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Socialist_Realism](/_Standards/Society/Communication/Art/Socialist_Realism.md) 
+
+### #is_/same_as :: [Socialist_Realism.public](/_public/Society/Communication/Art/Socialist_Realism.public.md) 
+
+### #is_/same_as :: [Socialist_Realism.internal](/_internal/Society/Communication/Art/Socialist_Realism.internal.md) 
+
+### #is_/same_as :: [Socialist_Realism.protect](/_protect/Society/Communication/Art/Socialist_Realism.protect.md) 
+
+### #is_/same_as :: [Socialist_Realism.private](/_private/Society/Communication/Art/Socialist_Realism.private.md) 
+
+### #is_/same_as :: [Socialist_Realism.personal](/_personal/Society/Communication/Art/Socialist_Realism.personal.md) 
+
+### #is_/same_as :: [Socialist_Realism.secret](/_secret/Society/Communication/Art/Socialist_Realism.secret.md)
+

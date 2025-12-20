@@ -66,17 +66,17 @@ native_label: 𑖤𑖿𑖨𑖮𑖿𑖦𑖯
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brahma](/_Standards/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Brahma.md) 
+### #is_/same_as :: [Brahma](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Brahma.md) 
 
-### #is_/same_as :: [Brahma.public](/_public/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Brahma.public.md) 
+### #is_/same_as :: [Brahma.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Brahma.public.md) 
 
-### #is_/same_as :: [Brahma.internal](/_internal/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Brahma.internal.md) 
+### #is_/same_as :: [Brahma.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Brahma.internal.md) 
 
-### #is_/same_as :: [Brahma.protect](/_protect/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Brahma.protect.md) 
+### #is_/same_as :: [Brahma.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Brahma.protect.md) 
 
-### #is_/same_as :: [Brahma.private](/_private/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Brahma.private.md) 
+### #is_/same_as :: [Brahma.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Brahma.private.md) 
 
-### #is_/same_as :: [Brahma.personal](/_personal/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Brahma.personal.md) 
+### #is_/same_as :: [Brahma.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Brahma.personal.md) 
 
-### #is_/same_as :: [Brahma.secret](/_secret/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Brahma.secret.md)
+### #is_/same_as :: [Brahma.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Brahma.secret.md)
 

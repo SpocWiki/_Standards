@@ -94,17 +94,17 @@ IMDb_keyword: wine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wine](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Wine.md) 
+### #is_/same_as :: [Wine](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Wine.md) 
 
-### #is_/same_as :: [Wine.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Wine.public.md) 
+### #is_/same_as :: [Wine.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Wine.public.md) 
 
-### #is_/same_as :: [Wine.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Wine.internal.md) 
+### #is_/same_as :: [Wine.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Wine.internal.md) 
 
-### #is_/same_as :: [Wine.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Wine.protect.md) 
+### #is_/same_as :: [Wine.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Wine.protect.md) 
 
-### #is_/same_as :: [Wine.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Wine.private.md) 
+### #is_/same_as :: [Wine.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Wine.private.md) 
 
-### #is_/same_as :: [Wine.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Wine.personal.md) 
+### #is_/same_as :: [Wine.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Wine.personal.md) 
 
-### #is_/same_as :: [Wine.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Wine.secret.md)
+### #is_/same_as :: [Wine.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Wine.secret.md)
 

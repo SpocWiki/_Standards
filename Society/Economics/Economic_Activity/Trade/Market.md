@@ -88,3 +88,22 @@ to prevent exploitation by externalization.
 
 Markets offer a way for the State to raise Taxes. 
 The other way is Wealth Tax. 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Market](/_Standards/Society/Economics/Economic_Activity/Trade/Market.md) 
+
+### #is_/same_as :: [Market.public](/_public/Society/Economics/Economic_Activity/Trade/Market.public.md) 
+
+### #is_/same_as :: [Market.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market.internal.md) 
+
+### #is_/same_as :: [Market.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market.protect.md) 
+
+### #is_/same_as :: [Market.private](/_private/Society/Economics/Economic_Activity/Trade/Market.private.md) 
+
+### #is_/same_as :: [Market.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market.personal.md) 
+
+### #is_/same_as :: [Market.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market.secret.md)
+

@@ -18,3 +18,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Medusozoa) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Medusozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.md) 
+
+### #is_/same_as :: [Medusozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.public.md) 
+
+### #is_/same_as :: [Medusozoa.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.internal.md) 
+
+### #is_/same_as :: [Medusozoa.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.protect.md) 
+
+### #is_/same_as :: [Medusozoa.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.private.md) 
+
+### #is_/same_as :: [Medusozoa.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.personal.md) 
+
+### #is_/same_as :: [Medusozoa.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.secret.md)
+

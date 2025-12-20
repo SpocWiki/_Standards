@@ -40,17 +40,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Busch,Wilhelm](/_Standards/Society/Communication/Media/Writing/Book/Author/Busch,Wilhelm.md) 
+### #is_/same_as :: [Busch,Wilhelm](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm.md) 
 
-### #is_/same_as :: [Busch,Wilhelm.public](/_public/Society/Communication/Media/Writing/Book/Author/Busch,Wilhelm.public.md) 
+### #is_/same_as :: [Busch,Wilhelm.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm.public.md) 
 
-### #is_/same_as :: [Busch,Wilhelm.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Busch,Wilhelm.internal.md) 
+### #is_/same_as :: [Busch,Wilhelm.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm.internal.md) 
 
-### #is_/same_as :: [Busch,Wilhelm.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Busch,Wilhelm.protect.md) 
+### #is_/same_as :: [Busch,Wilhelm.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm.protect.md) 
 
-### #is_/same_as :: [Busch,Wilhelm.private](/_private/Society/Communication/Media/Writing/Book/Author/Busch,Wilhelm.private.md) 
+### #is_/same_as :: [Busch,Wilhelm.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm.private.md) 
 
-### #is_/same_as :: [Busch,Wilhelm.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Busch,Wilhelm.personal.md) 
+### #is_/same_as :: [Busch,Wilhelm.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm.personal.md) 
 
-### #is_/same_as :: [Busch,Wilhelm.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Busch,Wilhelm.secret.md)
+### #is_/same_as :: [Busch,Wilhelm.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Busch,Wilhelm.secret.md)
 

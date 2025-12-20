@@ -76,3 +76,22 @@ dissolved_abolished_or_demolished_date: 2002-07-23T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Coal%20and%20Steel%20Community) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [European_Coal_and_Steel_Community](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.md) 
+
+### #is_/same_as :: [European_Coal_and_Steel_Community.public](/_public/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.public.md) 
+
+### #is_/same_as :: [European_Coal_and_Steel_Community.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.internal.md) 
+
+### #is_/same_as :: [European_Coal_and_Steel_Community.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.protect.md) 
+
+### #is_/same_as :: [European_Coal_and_Steel_Community.private](/_private/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.private.md) 
+
+### #is_/same_as :: [European_Coal_and_Steel_Community.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.personal.md) 
+
+### #is_/same_as :: [European_Coal_and_Steel_Community.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.secret.md)
+

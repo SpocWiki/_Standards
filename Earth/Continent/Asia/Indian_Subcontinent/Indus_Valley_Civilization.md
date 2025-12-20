@@ -61,3 +61,22 @@ subreddit: IndusValley
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Indus_Valley_Civilization](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.md) 
+
+### #is_/same_as :: [Indus_Valley_Civilization.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.public.md) 
+
+### #is_/same_as :: [Indus_Valley_Civilization.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.internal.md) 
+
+### #is_/same_as :: [Indus_Valley_Civilization.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.protect.md) 
+
+### #is_/same_as :: [Indus_Valley_Civilization.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.private.md) 
+
+### #is_/same_as :: [Indus_Valley_Civilization.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.personal.md) 
+
+### #is_/same_as :: [Indus_Valley_Civilization.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.secret.md)
+

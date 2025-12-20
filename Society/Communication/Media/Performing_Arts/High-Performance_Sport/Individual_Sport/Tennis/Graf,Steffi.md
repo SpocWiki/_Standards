@@ -108,3 +108,22 @@ doubles_record: 173–72
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Steffi%20Graf) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Graf,Steffi](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.md) 
+
+### #is_/same_as :: [Graf,Steffi.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.public.md) 
+
+### #is_/same_as :: [Graf,Steffi.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.internal.md) 
+
+### #is_/same_as :: [Graf,Steffi.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.protect.md) 
+
+### #is_/same_as :: [Graf,Steffi.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.private.md) 
+
+### #is_/same_as :: [Graf,Steffi.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.personal.md) 
+
+### #is_/same_as :: [Graf,Steffi.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.secret.md)
+

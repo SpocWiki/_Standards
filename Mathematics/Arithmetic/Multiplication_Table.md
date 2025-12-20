@@ -27,3 +27,22 @@ Commons_category: Multiplication tables
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Multiplication%20table) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Multiplication_Table](/_Standards/Mathematics/Arithmetic/Multiplication_Table.md) 
+
+### #is_/same_as :: [Multiplication_Table.public](/_public/Mathematics/Arithmetic/Multiplication_Table.public.md) 
+
+### #is_/same_as :: [Multiplication_Table.internal](/_internal/Mathematics/Arithmetic/Multiplication_Table.internal.md) 
+
+### #is_/same_as :: [Multiplication_Table.protect](/_protect/Mathematics/Arithmetic/Multiplication_Table.protect.md) 
+
+### #is_/same_as :: [Multiplication_Table.private](/_private/Mathematics/Arithmetic/Multiplication_Table.private.md) 
+
+### #is_/same_as :: [Multiplication_Table.personal](/_personal/Mathematics/Arithmetic/Multiplication_Table.personal.md) 
+
+### #is_/same_as :: [Multiplication_Table.secret](/_secret/Mathematics/Arithmetic/Multiplication_Table.secret.md)
+

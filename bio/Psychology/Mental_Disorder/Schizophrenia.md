@@ -235,3 +235,22 @@ MeSH_tree_code: F03.700.750
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Schizophrenia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Schizophrenia](/_Standards/bio/Psychology/Mental_Disorder/Schizophrenia.md) 
+
+### #is_/same_as :: [Schizophrenia.public](/_public/bio/Psychology/Mental_Disorder/Schizophrenia.public.md) 
+
+### #is_/same_as :: [Schizophrenia.internal](/_internal/bio/Psychology/Mental_Disorder/Schizophrenia.internal.md) 
+
+### #is_/same_as :: [Schizophrenia.protect](/_protect/bio/Psychology/Mental_Disorder/Schizophrenia.protect.md) 
+
+### #is_/same_as :: [Schizophrenia.private](/_private/bio/Psychology/Mental_Disorder/Schizophrenia.private.md) 
+
+### #is_/same_as :: [Schizophrenia.personal](/_personal/bio/Psychology/Mental_Disorder/Schizophrenia.personal.md) 
+
+### #is_/same_as :: [Schizophrenia.secret](/_secret/bio/Psychology/Mental_Disorder/Schizophrenia.secret.md)
+

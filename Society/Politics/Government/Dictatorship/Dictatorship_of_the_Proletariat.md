@@ -42,3 +42,22 @@ Krugosvet_article: istoriya/DIKTATURA_PROLETARIATA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dictatorship%20of%20the%20proletariat) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dictatorship_of_the_Proletariat](/_Standards/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.md) 
+
+### #is_/same_as :: [Dictatorship_of_the_Proletariat.public](/_public/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.public.md) 
+
+### #is_/same_as :: [Dictatorship_of_the_Proletariat.internal](/_internal/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.internal.md) 
+
+### #is_/same_as :: [Dictatorship_of_the_Proletariat.protect](/_protect/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.protect.md) 
+
+### #is_/same_as :: [Dictatorship_of_the_Proletariat.private](/_private/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.private.md) 
+
+### #is_/same_as :: [Dictatorship_of_the_Proletariat.personal](/_personal/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.personal.md) 
+
+### #is_/same_as :: [Dictatorship_of_the_Proletariat.secret](/_secret/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.secret.md)
+

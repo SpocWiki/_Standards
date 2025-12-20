@@ -50,3 +50,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20engineering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chemical_Engineering](/_Standards/Chemistry/Chemical_Engineering.md) 
+
+### #is_/same_as :: [Chemical_Engineering.public](/_public/Chemistry/Chemical_Engineering.public.md) 
+
+### #is_/same_as :: [Chemical_Engineering.internal](/_internal/Chemistry/Chemical_Engineering.internal.md) 
+
+### #is_/same_as :: [Chemical_Engineering.protect](/_protect/Chemistry/Chemical_Engineering.protect.md) 
+
+### #is_/same_as :: [Chemical_Engineering.private](/_private/Chemistry/Chemical_Engineering.private.md) 
+
+### #is_/same_as :: [Chemical_Engineering.personal](/_personal/Chemistry/Chemical_Engineering.personal.md) 
+
+### #is_/same_as :: [Chemical_Engineering.secret](/_secret/Chemistry/Chemical_Engineering.secret.md)
+

@@ -115,17 +115,17 @@ writing_language: "[[_Standards/WikiData/WD~German,188]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schubert,Franz](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composers/Schubert,Franz.md) 
+### #is_/same_as :: [Schubert,Franz](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.md) 
 
-### #is_/same_as :: [Schubert,Franz.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composers/Schubert,Franz.public.md) 
+### #is_/same_as :: [Schubert,Franz.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.public.md) 
 
-### #is_/same_as :: [Schubert,Franz.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composers/Schubert,Franz.internal.md) 
+### #is_/same_as :: [Schubert,Franz.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.internal.md) 
 
-### #is_/same_as :: [Schubert,Franz.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composers/Schubert,Franz.protect.md) 
+### #is_/same_as :: [Schubert,Franz.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.protect.md) 
 
-### #is_/same_as :: [Schubert,Franz.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composers/Schubert,Franz.private.md) 
+### #is_/same_as :: [Schubert,Franz.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.private.md) 
 
-### #is_/same_as :: [Schubert,Franz.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composers/Schubert,Franz.personal.md) 
+### #is_/same_as :: [Schubert,Franz.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.personal.md) 
 
-### #is_/same_as :: [Schubert,Franz.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composers/Schubert,Franz.secret.md)
+### #is_/same_as :: [Schubert,Franz.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.secret.md)
 

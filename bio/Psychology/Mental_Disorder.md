@@ -141,36 +141,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mental_Disorder](/_Standards/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.md) 
+### #is_/same_as :: [Mental_Disorder](/_Standards/bio/Psychology/Mental_Disorder.md) 
 
-### #is_/same_as :: [Mental_Disorder.public](/_public/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.public.md) 
+### #is_/same_as :: [Mental_Disorder.public](/_public/bio/Psychology/Mental_Disorder.public.md) 
 
-### #is_/same_as :: [Mental_Disorder.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.internal.md) 
+### #is_/same_as :: [Mental_Disorder.internal](/_internal/bio/Psychology/Mental_Disorder.internal.md) 
 
-### #is_/same_as :: [Mental_Disorder.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.protect.md) 
+### #is_/same_as :: [Mental_Disorder.protect](/_protect/bio/Psychology/Mental_Disorder.protect.md) 
 
-### #is_/same_as :: [Mental_Disorder.private](/_private/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.private.md) 
+### #is_/same_as :: [Mental_Disorder.private](/_private/bio/Psychology/Mental_Disorder.private.md) 
 
-### #is_/same_as :: [Mental_Disorder.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.personal.md) 
+### #is_/same_as :: [Mental_Disorder.personal](/_personal/bio/Psychology/Mental_Disorder.personal.md) 
 
-### #is_/same_as :: [Mental_Disorder.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.secret.md)
+### #is_/same_as :: [Mental_Disorder.secret](/_secret/bio/Psychology/Mental_Disorder.secret.md)
 
-
-# [[Mental_Disorder]] 
-
-#is_/part_of :: [[Mental_Disorder]] 
-
-![[Mental_Disorder.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Mental_Disorder.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

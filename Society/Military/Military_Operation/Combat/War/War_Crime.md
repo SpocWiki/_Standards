@@ -59,3 +59,22 @@ IMDb_keyword: war-crime
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/War%20crime) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [War_Crime](/_Standards/Society/Military/Military_Operation/Combat/War/War_Crime.md) 
+
+### #is_/same_as :: [War_Crime.public](/_public/Society/Military/Military_Operation/Combat/War/War_Crime.public.md) 
+
+### #is_/same_as :: [War_Crime.internal](/_internal/Society/Military/Military_Operation/Combat/War/War_Crime.internal.md) 
+
+### #is_/same_as :: [War_Crime.protect](/_protect/Society/Military/Military_Operation/Combat/War/War_Crime.protect.md) 
+
+### #is_/same_as :: [War_Crime.private](/_private/Society/Military/Military_Operation/Combat/War/War_Crime.private.md) 
+
+### #is_/same_as :: [War_Crime.personal](/_personal/Society/Military/Military_Operation/Combat/War/War_Crime.personal.md) 
+
+### #is_/same_as :: [War_Crime.secret](/_secret/Society/Military/Military_Operation/Combat/War/War_Crime.secret.md)
+

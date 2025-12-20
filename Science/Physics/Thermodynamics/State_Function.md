@@ -56,3 +56,22 @@ independent of the history of the system.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/State%20function) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [State_Function](/_Standards/Science/Physics/Thermodynamics/State_Function.md) 
+
+### #is_/same_as :: [State_Function.public](/_public/Science/Physics/Thermodynamics/State_Function.public.md) 
+
+### #is_/same_as :: [State_Function.internal](/_internal/Science/Physics/Thermodynamics/State_Function.internal.md) 
+
+### #is_/same_as :: [State_Function.protect](/_protect/Science/Physics/Thermodynamics/State_Function.protect.md) 
+
+### #is_/same_as :: [State_Function.private](/_private/Science/Physics/Thermodynamics/State_Function.private.md) 
+
+### #is_/same_as :: [State_Function.personal](/_personal/Science/Physics/Thermodynamics/State_Function.personal.md) 
+
+### #is_/same_as :: [State_Function.secret](/_secret/Science/Physics/Thermodynamics/State_Function.secret.md)
+

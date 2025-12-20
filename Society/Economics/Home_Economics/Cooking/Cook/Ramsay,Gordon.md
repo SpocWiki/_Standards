@@ -109,3 +109,22 @@ Plex_person_key: 5d7768aa374a5b001fecc9c4
 > [Wikipedia](https://en.wikipedia.org/wiki/Gordon%20Ramsay) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ramsay,Gordon](/_Standards/Society/Economics/Home_Economics/Cooking/Cook/Ramsay,Gordon.md) 
+
+### #is_/same_as :: [Ramsay,Gordon.public](/_public/Society/Economics/Home_Economics/Cooking/Cook/Ramsay,Gordon.public.md) 
+
+### #is_/same_as :: [Ramsay,Gordon.internal](/_internal/Society/Economics/Home_Economics/Cooking/Cook/Ramsay,Gordon.internal.md) 
+
+### #is_/same_as :: [Ramsay,Gordon.protect](/_protect/Society/Economics/Home_Economics/Cooking/Cook/Ramsay,Gordon.protect.md) 
+
+### #is_/same_as :: [Ramsay,Gordon.private](/_private/Society/Economics/Home_Economics/Cooking/Cook/Ramsay,Gordon.private.md) 
+
+### #is_/same_as :: [Ramsay,Gordon.personal](/_personal/Society/Economics/Home_Economics/Cooking/Cook/Ramsay,Gordon.personal.md) 
+
+### #is_/same_as :: [Ramsay,Gordon.secret](/_secret/Society/Economics/Home_Economics/Cooking/Cook/Ramsay,Gordon.secret.md)
+

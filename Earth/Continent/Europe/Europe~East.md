@@ -104,6 +104,7 @@ markerFolder: ./Europe~East/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eastern%20Europe)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Europe~East](/_Standards/Earth/Continent/Europe/Europe~East.md) 

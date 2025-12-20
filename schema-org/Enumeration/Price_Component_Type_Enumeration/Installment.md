@@ -42,17 +42,17 @@ Represents the installment pricing component of the total price for an offered p
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Installment](Installment.md) 
+### #is_/same_as :: [Installment](/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Installment.md) 
 
-### #is_/same_as :: [installment.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.public.md) 
+### #is_/same_as :: [Installment.public](/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Installment.public.md) 
 
-### #is_/same_as :: [installment.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.internal.md) 
+### #is_/same_as :: [Installment.internal](/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Installment.internal.md) 
 
-### #is_/same_as :: [installment.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.protect.md) 
+### #is_/same_as :: [Installment.protect](/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Installment.protect.md) 
 
-### #is_/same_as :: [installment.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.private.md) 
+### #is_/same_as :: [Installment.private](/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Installment.private.md) 
 
-### #is_/same_as :: [installment.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.personal.md) 
+### #is_/same_as :: [Installment.personal](/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Installment.personal.md) 
 
-### #is_/same_as :: [installment.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.secret.md)
+### #is_/same_as :: [Installment.secret](/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Installment.secret.md)
 

@@ -88,3 +88,22 @@ Library_of_Congress_Classification: BD300-BD450
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ontology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ontology(Philosophy)](/_Standards/Philosophy/Metaphysic/Ontology(Philosophy).md) 
+
+### #is_/same_as :: [Ontology(Philosophy).public](/_public/Philosophy/Metaphysic/Ontology(Philosophy).public.md) 
+
+### #is_/same_as :: [Ontology(Philosophy).internal](/_internal/Philosophy/Metaphysic/Ontology(Philosophy).internal.md) 
+
+### #is_/same_as :: [Ontology(Philosophy).protect](/_protect/Philosophy/Metaphysic/Ontology(Philosophy).protect.md) 
+
+### #is_/same_as :: [Ontology(Philosophy).private](/_private/Philosophy/Metaphysic/Ontology(Philosophy).private.md) 
+
+### #is_/same_as :: [Ontology(Philosophy).personal](/_personal/Philosophy/Metaphysic/Ontology(Philosophy).personal.md) 
+
+### #is_/same_as :: [Ontology(Philosophy).secret](/_secret/Philosophy/Metaphysic/Ontology(Philosophy).secret.md)
+

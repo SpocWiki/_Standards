@@ -123,7 +123,7 @@ Ser., 11: 203-214.
   View              ventral
   Type              holotype
   Copyright ::         © 1968 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  --------------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

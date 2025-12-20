@@ -483,17 +483,17 @@ Capital ::  [[Korea~South/City/Seoul]] ]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Korea~South](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South.md) 
+### #is_/same_as :: [Korea~South](/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.md) 
 
-### #is_/same_as :: [Korea~South.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South.public.md) 
+### #is_/same_as :: [Korea~South.public](/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.public.md) 
 
-### #is_/same_as :: [Korea~South.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South.internal.md) 
+### #is_/same_as :: [Korea~South.internal](/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.internal.md) 
 
-### #is_/same_as :: [Korea~South.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South.protect.md) 
+### #is_/same_as :: [Korea~South.protect](/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.protect.md) 
 
-### #is_/same_as :: [Korea~South.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South.private.md) 
+### #is_/same_as :: [Korea~South.private](/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.private.md) 
 
-### #is_/same_as :: [Korea~South.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South.personal.md) 
+### #is_/same_as :: [Korea~South.personal](/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.personal.md) 
 
-### #is_/same_as :: [Korea~South.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South.secret.md)
+### #is_/same_as :: [Korea~South.secret](/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.secret.md)
 

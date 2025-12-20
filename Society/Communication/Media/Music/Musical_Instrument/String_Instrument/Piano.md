@@ -55,17 +55,17 @@ used_by: "[[_Standards/WikiData/WD~pianist,486748]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Piano](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Piano.md) 
+### #is_/same_as :: [Piano](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano.md) 
 
-### #is_/same_as :: [Piano.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Piano.public.md) 
+### #is_/same_as :: [Piano.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano.public.md) 
 
-### #is_/same_as :: [Piano.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Piano.internal.md) 
+### #is_/same_as :: [Piano.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano.internal.md) 
 
-### #is_/same_as :: [Piano.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Piano.protect.md) 
+### #is_/same_as :: [Piano.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano.protect.md) 
 
-### #is_/same_as :: [Piano.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Piano.private.md) 
+### #is_/same_as :: [Piano.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano.private.md) 
 
-### #is_/same_as :: [Piano.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Piano.personal.md) 
+### #is_/same_as :: [Piano.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano.personal.md) 
 
-### #is_/same_as :: [Piano.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Piano.secret.md)
+### #is_/same_as :: [Piano.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano.secret.md)
 

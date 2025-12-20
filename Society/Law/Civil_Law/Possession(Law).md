@@ -15,3 +15,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Possession%20(law)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Possession(Law)](/_Standards/Society/Law/Civil_Law/Possession(Law).md) 
+
+### #is_/same_as :: [Possession(Law).public](/_public/Society/Law/Civil_Law/Possession(Law).public.md) 
+
+### #is_/same_as :: [Possession(Law).internal](/_internal/Society/Law/Civil_Law/Possession(Law).internal.md) 
+
+### #is_/same_as :: [Possession(Law).protect](/_protect/Society/Law/Civil_Law/Possession(Law).protect.md) 
+
+### #is_/same_as :: [Possession(Law).private](/_private/Society/Law/Civil_Law/Possession(Law).private.md) 
+
+### #is_/same_as :: [Possession(Law).personal](/_personal/Society/Law/Civil_Law/Possession(Law).personal.md) 
+
+### #is_/same_as :: [Possession(Law).secret](/_secret/Society/Law/Civil_Law/Possession(Law).secret.md)
+

@@ -52,3 +52,22 @@ subreddit: todayilearned
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fact) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fact](/_Standards/Philosophy/Metaphysic/Ontology(Philosophy)/Fact.md) 
+
+### #is_/same_as :: [Fact.public](/_public/Philosophy/Metaphysic/Ontology(Philosophy)/Fact.public.md) 
+
+### #is_/same_as :: [Fact.internal](/_internal/Philosophy/Metaphysic/Ontology(Philosophy)/Fact.internal.md) 
+
+### #is_/same_as :: [Fact.protect](/_protect/Philosophy/Metaphysic/Ontology(Philosophy)/Fact.protect.md) 
+
+### #is_/same_as :: [Fact.private](/_private/Philosophy/Metaphysic/Ontology(Philosophy)/Fact.private.md) 
+
+### #is_/same_as :: [Fact.personal](/_personal/Philosophy/Metaphysic/Ontology(Philosophy)/Fact.personal.md) 
+
+### #is_/same_as :: [Fact.secret](/_secret/Philosophy/Metaphysic/Ontology(Philosophy)/Fact.secret.md)
+

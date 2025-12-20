@@ -123,3 +123,22 @@ Google_Doodle: mary-pickfords-125th-birthday
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mary%20Pickford) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pickford,Mary](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.md) 
+
+### #is_/same_as :: [Pickford,Mary.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.public.md) 
+
+### #is_/same_as :: [Pickford,Mary.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.internal.md) 
+
+### #is_/same_as :: [Pickford,Mary.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.protect.md) 
+
+### #is_/same_as :: [Pickford,Mary.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.private.md) 
+
+### #is_/same_as :: [Pickford,Mary.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.personal.md) 
+
+### #is_/same_as :: [Pickford,Mary.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.secret.md)
+

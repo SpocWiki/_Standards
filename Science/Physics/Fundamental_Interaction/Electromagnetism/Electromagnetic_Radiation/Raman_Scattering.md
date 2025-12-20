@@ -33,3 +33,22 @@ Commons_category: Raman spectroscopy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Raman%20scattering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Raman_Scattering](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.md) 
+
+### #is_/same_as :: [Raman_Scattering.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.public.md) 
+
+### #is_/same_as :: [Raman_Scattering.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.internal.md) 
+
+### #is_/same_as :: [Raman_Scattering.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.protect.md) 
+
+### #is_/same_as :: [Raman_Scattering.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.private.md) 
+
+### #is_/same_as :: [Raman_Scattering.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.personal.md) 
+
+### #is_/same_as :: [Raman_Scattering.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.secret.md)
+

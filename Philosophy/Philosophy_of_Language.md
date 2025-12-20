@@ -42,3 +42,22 @@ PhilPapers_topic: philosophy-of-language
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philosophy%20of%20language) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Philosophy_of_Language](/_Standards/Philosophy/Philosophy_of_Language.md) 
+
+### #is_/same_as :: [Philosophy_of_Language.public](/_public/Philosophy/Philosophy_of_Language.public.md) 
+
+### #is_/same_as :: [Philosophy_of_Language.internal](/_internal/Philosophy/Philosophy_of_Language.internal.md) 
+
+### #is_/same_as :: [Philosophy_of_Language.protect](/_protect/Philosophy/Philosophy_of_Language.protect.md) 
+
+### #is_/same_as :: [Philosophy_of_Language.private](/_private/Philosophy/Philosophy_of_Language.private.md) 
+
+### #is_/same_as :: [Philosophy_of_Language.personal](/_personal/Philosophy/Philosophy_of_Language.personal.md) 
+
+### #is_/same_as :: [Philosophy_of_Language.secret](/_secret/Philosophy/Philosophy_of_Language.secret.md)
+

@@ -114,3 +114,22 @@ Libris_URI: fcrv0rzz4cdz0x0
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Communist%20Manifesto) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Communist_Manifesto](/_Standards/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.md) 
+
+### #is_/same_as :: [Communist_Manifesto.public](/_public/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.public.md) 
+
+### #is_/same_as :: [Communist_Manifesto.internal](/_internal/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.internal.md) 
+
+### #is_/same_as :: [Communist_Manifesto.protect](/_protect/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.protect.md) 
+
+### #is_/same_as :: [Communist_Manifesto.private](/_private/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.private.md) 
+
+### #is_/same_as :: [Communist_Manifesto.personal](/_personal/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.personal.md) 
+
+### #is_/same_as :: [Communist_Manifesto.secret](/_secret/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.secret.md)
+

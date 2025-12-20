@@ -58,3 +58,22 @@ subreddit: SoftwareEngineering
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Software%20engineering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Software_Engineering](/_Standards/Technology/Engineering/Software_Engineering.md) 
+
+### #is_/same_as :: [Software_Engineering.public](/_public/Technology/Engineering/Software_Engineering.public.md) 
+
+### #is_/same_as :: [Software_Engineering.internal](/_internal/Technology/Engineering/Software_Engineering.internal.md) 
+
+### #is_/same_as :: [Software_Engineering.protect](/_protect/Technology/Engineering/Software_Engineering.protect.md) 
+
+### #is_/same_as :: [Software_Engineering.private](/_private/Technology/Engineering/Software_Engineering.private.md) 
+
+### #is_/same_as :: [Software_Engineering.personal](/_personal/Technology/Engineering/Software_Engineering.personal.md) 
+
+### #is_/same_as :: [Software_Engineering.secret](/_secret/Technology/Engineering/Software_Engineering.secret.md)
+

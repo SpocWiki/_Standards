@@ -39,17 +39,17 @@ For a [[VideoGame]], such as used with a [[PlayGameAction]], an enumeration of t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Game_Availability_Enumeration](Game_Availability_Enumeration.md) 
+### #is_/same_as :: [Game_Availability_Enumeration](/_Standards/schema-org/Enumeration/Game_Availability_Enumeration.md) 
 
-### #is_/same_as :: [game_availability_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.public.md) 
+### #is_/same_as :: [Game_Availability_Enumeration.public](/_public/schema-org/Enumeration/Game_Availability_Enumeration.public.md) 
 
-### #is_/same_as :: [game_availability_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.internal.md) 
+### #is_/same_as :: [Game_Availability_Enumeration.internal](/_internal/schema-org/Enumeration/Game_Availability_Enumeration.internal.md) 
 
-### #is_/same_as :: [game_availability_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.protect.md) 
+### #is_/same_as :: [Game_Availability_Enumeration.protect](/_protect/schema-org/Enumeration/Game_Availability_Enumeration.protect.md) 
 
-### #is_/same_as :: [game_availability_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.private.md) 
+### #is_/same_as :: [Game_Availability_Enumeration.private](/_private/schema-org/Enumeration/Game_Availability_Enumeration.private.md) 
 
-### #is_/same_as :: [game_availability_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.personal.md) 
+### #is_/same_as :: [Game_Availability_Enumeration.personal](/_personal/schema-org/Enumeration/Game_Availability_Enumeration.personal.md) 
 
-### #is_/same_as :: [game_availability_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.secret.md)
+### #is_/same_as :: [Game_Availability_Enumeration.secret](/_secret/schema-org/Enumeration/Game_Availability_Enumeration.secret.md)
 

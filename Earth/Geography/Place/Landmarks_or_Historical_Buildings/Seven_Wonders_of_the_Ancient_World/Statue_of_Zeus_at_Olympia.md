@@ -72,3 +72,22 @@ coordinate_location: Point(21.63 37.637861111)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Statue%20of%20Zeus%20at%20Olympia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Statue_of_Zeus_at_Olympia](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.md) 
+
+### #is_/same_as :: [Statue_of_Zeus_at_Olympia.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.public.md) 
+
+### #is_/same_as :: [Statue_of_Zeus_at_Olympia.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.internal.md) 
+
+### #is_/same_as :: [Statue_of_Zeus_at_Olympia.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.protect.md) 
+
+### #is_/same_as :: [Statue_of_Zeus_at_Olympia.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.private.md) 
+
+### #is_/same_as :: [Statue_of_Zeus_at_Olympia.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.personal.md) 
+
+### #is_/same_as :: [Statue_of_Zeus_at_Olympia.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.secret.md)
+

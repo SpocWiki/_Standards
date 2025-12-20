@@ -176,3 +176,22 @@ end_time: 2009-09-18T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guiding%20Light) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Guiding_Light](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.md) 
+
+### #is_/same_as :: [Guiding_Light.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.public.md) 
+
+### #is_/same_as :: [Guiding_Light.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.internal.md) 
+
+### #is_/same_as :: [Guiding_Light.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.protect.md) 
+
+### #is_/same_as :: [Guiding_Light.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.private.md) 
+
+### #is_/same_as :: [Guiding_Light.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.personal.md) 
+
+### #is_/same_as :: [Guiding_Light.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.secret.md)
+

@@ -70,3 +70,22 @@ name_in_native_language: Γανυμήδης
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ganymede(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ganymede(Mythology).md) 
+
+### #is_/same_as :: [Ganymede(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ganymede(Mythology).public.md) 
+
+### #is_/same_as :: [Ganymede(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ganymede(Mythology).internal.md) 
+
+### #is_/same_as :: [Ganymede(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ganymede(Mythology).protect.md) 
+
+### #is_/same_as :: [Ganymede(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ganymede(Mythology).private.md) 
+
+### #is_/same_as :: [Ganymede(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ganymede(Mythology).personal.md) 
+
+### #is_/same_as :: [Ganymede(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ganymede(Mythology).secret.md)
+

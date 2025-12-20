@@ -52,3 +52,22 @@ Colon_Classification: U2562
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ocean%20current) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ocean_Current](/_Standards/Earth/Ocean/Ocean_Current.md) 
+
+### #is_/same_as :: [Ocean_Current.public](/_public/Earth/Ocean/Ocean_Current.public.md) 
+
+### #is_/same_as :: [Ocean_Current.internal](/_internal/Earth/Ocean/Ocean_Current.internal.md) 
+
+### #is_/same_as :: [Ocean_Current.protect](/_protect/Earth/Ocean/Ocean_Current.protect.md) 
+
+### #is_/same_as :: [Ocean_Current.private](/_private/Earth/Ocean/Ocean_Current.private.md) 
+
+### #is_/same_as :: [Ocean_Current.personal](/_personal/Earth/Ocean/Ocean_Current.personal.md) 
+
+### #is_/same_as :: [Ocean_Current.secret](/_secret/Earth/Ocean/Ocean_Current.secret.md)
+

@@ -112,3 +112,22 @@ ISNI: "0000000109435287"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Deep%20Purple) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Deep_Purple](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.md) 
+
+### #is_/same_as :: [Deep_Purple.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.public.md) 
+
+### #is_/same_as :: [Deep_Purple.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.internal.md) 
+
+### #is_/same_as :: [Deep_Purple.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.protect.md) 
+
+### #is_/same_as :: [Deep_Purple.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.private.md) 
+
+### #is_/same_as :: [Deep_Purple.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.personal.md) 
+
+### #is_/same_as :: [Deep_Purple.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.secret.md)
+

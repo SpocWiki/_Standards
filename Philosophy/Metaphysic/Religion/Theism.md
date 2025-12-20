@@ -25,3 +25,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Theism](/_Standards/Philosophy/Metaphysic/Religion/Theism.md) 
+
+### #is_/same_as :: [Theism.public](/_public/Philosophy/Metaphysic/Religion/Theism.public.md) 
+
+### #is_/same_as :: [Theism.internal](/_internal/Philosophy/Metaphysic/Religion/Theism.internal.md) 
+
+### #is_/same_as :: [Theism.protect](/_protect/Philosophy/Metaphysic/Religion/Theism.protect.md) 
+
+### #is_/same_as :: [Theism.private](/_private/Philosophy/Metaphysic/Religion/Theism.private.md) 
+
+### #is_/same_as :: [Theism.personal](/_personal/Philosophy/Metaphysic/Religion/Theism.personal.md) 
+
+### #is_/same_as :: [Theism.secret](/_secret/Philosophy/Metaphysic/Religion/Theism.secret.md)
+

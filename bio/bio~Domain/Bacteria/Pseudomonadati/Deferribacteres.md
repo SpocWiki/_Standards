@@ -59,17 +59,17 @@ title: Deferribacteres
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deferribacteres](Deferribacteres.md) 
+### #is_/same_as :: [Deferribacteres](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Deferribacteres.md) 
 
-### #is_/same_as :: [Deferribacteres.public](/_public/bio/bio~Domain/Bacteria/Deferribacteres.public.md) 
+### #is_/same_as :: [Deferribacteres.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Deferribacteres.public.md) 
 
-### #is_/same_as :: [Deferribacteres.internal](/_internal/bio/bio~Domain/Bacteria/Deferribacteres.internal.md) 
+### #is_/same_as :: [Deferribacteres.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Deferribacteres.internal.md) 
 
-### #is_/same_as :: [Deferribacteres.protect](/_protect/bio/bio~Domain/Bacteria/Deferribacteres.protect.md) 
+### #is_/same_as :: [Deferribacteres.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Deferribacteres.protect.md) 
 
-### #is_/same_as :: [Deferribacteres.private](/_private/bio/bio~Domain/Bacteria/Deferribacteres.private.md) 
+### #is_/same_as :: [Deferribacteres.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Deferribacteres.private.md) 
 
-### #is_/same_as :: [Deferribacteres.personal](/_personal/bio/bio~Domain/Bacteria/Deferribacteres.personal.md) 
+### #is_/same_as :: [Deferribacteres.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Deferribacteres.personal.md) 
 
-### #is_/same_as :: [Deferribacteres.secret](/_secret/bio/bio~Domain/Bacteria/Deferribacteres.secret.md)
+### #is_/same_as :: [Deferribacteres.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Deferribacteres.secret.md)
 

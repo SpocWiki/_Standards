@@ -48,3 +48,22 @@ Commons_category: Biological classification
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Systematics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Systematics](/_Standards/bio/bio~Domain/Systematics.md) 
+
+### #is_/same_as :: [Systematics.public](/_public/bio/bio~Domain/Systematics.public.md) 
+
+### #is_/same_as :: [Systematics.internal](/_internal/bio/bio~Domain/Systematics.internal.md) 
+
+### #is_/same_as :: [Systematics.protect](/_protect/bio/bio~Domain/Systematics.protect.md) 
+
+### #is_/same_as :: [Systematics.private](/_private/bio/bio~Domain/Systematics.private.md) 
+
+### #is_/same_as :: [Systematics.personal](/_personal/bio/bio~Domain/Systematics.personal.md) 
+
+### #is_/same_as :: [Systematics.secret](/_secret/bio/bio~Domain/Systematics.secret.md)
+

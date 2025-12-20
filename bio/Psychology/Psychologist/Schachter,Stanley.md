@@ -71,3 +71,22 @@ date_of_birth: 1922-04-15T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stanley%20Schachter) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Schachter,Stanley](/_Standards/bio/Psychology/Psychologist/Schachter,Stanley.md) 
+
+### #is_/same_as :: [Schachter,Stanley.public](/_public/bio/Psychology/Psychologist/Schachter,Stanley.public.md) 
+
+### #is_/same_as :: [Schachter,Stanley.internal](/_internal/bio/Psychology/Psychologist/Schachter,Stanley.internal.md) 
+
+### #is_/same_as :: [Schachter,Stanley.protect](/_protect/bio/Psychology/Psychologist/Schachter,Stanley.protect.md) 
+
+### #is_/same_as :: [Schachter,Stanley.private](/_private/bio/Psychology/Psychologist/Schachter,Stanley.private.md) 
+
+### #is_/same_as :: [Schachter,Stanley.personal](/_personal/bio/Psychology/Psychologist/Schachter,Stanley.personal.md) 
+
+### #is_/same_as :: [Schachter,Stanley.secret](/_secret/bio/Psychology/Psychologist/Schachter,Stanley.secret.md)
+

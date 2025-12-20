@@ -45,3 +45,22 @@ Krugosvet_article_archived_: lingvistika/sintaksis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Syntax) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Syntax](/_Standards/Language/Linguistics/Semiotics/Syntax.md) 
+
+### #is_/same_as :: [Syntax.public](/_public/Language/Linguistics/Semiotics/Syntax.public.md) 
+
+### #is_/same_as :: [Syntax.internal](/_internal/Language/Linguistics/Semiotics/Syntax.internal.md) 
+
+### #is_/same_as :: [Syntax.protect](/_protect/Language/Linguistics/Semiotics/Syntax.protect.md) 
+
+### #is_/same_as :: [Syntax.private](/_private/Language/Linguistics/Semiotics/Syntax.private.md) 
+
+### #is_/same_as :: [Syntax.personal](/_personal/Language/Linguistics/Semiotics/Syntax.personal.md) 
+
+### #is_/same_as :: [Syntax.secret](/_secret/Language/Linguistics/Semiotics/Syntax.secret.md)
+

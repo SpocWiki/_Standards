@@ -116,3 +116,22 @@ OpenStreetMap_tag: denomination=quaker
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quakers) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Quakers](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Quakers.md) 
+
+### #is_/same_as :: [Quakers.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Quakers.public.md) 
+
+### #is_/same_as :: [Quakers.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Quakers.internal.md) 
+
+### #is_/same_as :: [Quakers.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Quakers.protect.md) 
+
+### #is_/same_as :: [Quakers.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Quakers.private.md) 
+
+### #is_/same_as :: [Quakers.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Quakers.personal.md) 
+
+### #is_/same_as :: [Quakers.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Quakers.secret.md)
+

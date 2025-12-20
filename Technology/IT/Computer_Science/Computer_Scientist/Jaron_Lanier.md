@@ -72,3 +72,22 @@ Europeana_entity: agent/base/148536
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jaron%20Lanier) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jaron_Lanier](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.md) 
+
+### #is_/same_as :: [Jaron_Lanier.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.public.md) 
+
+### #is_/same_as :: [Jaron_Lanier.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.internal.md) 
+
+### #is_/same_as :: [Jaron_Lanier.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.protect.md) 
+
+### #is_/same_as :: [Jaron_Lanier.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.private.md) 
+
+### #is_/same_as :: [Jaron_Lanier.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.personal.md) 
+
+### #is_/same_as :: [Jaron_Lanier.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.secret.md)
+

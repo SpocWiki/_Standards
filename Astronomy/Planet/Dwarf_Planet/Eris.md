@@ -95,3 +95,22 @@ official_name: 136199 Eris
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eris%20(dwarf%20planet)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eris](/_Standards/Astronomy/Planet/Dwarf_Planet/Eris.md) 
+
+### #is_/same_as :: [Eris.public](/_public/Astronomy/Planet/Dwarf_Planet/Eris.public.md) 
+
+### #is_/same_as :: [Eris.internal](/_internal/Astronomy/Planet/Dwarf_Planet/Eris.internal.md) 
+
+### #is_/same_as :: [Eris.protect](/_protect/Astronomy/Planet/Dwarf_Planet/Eris.protect.md) 
+
+### #is_/same_as :: [Eris.private](/_private/Astronomy/Planet/Dwarf_Planet/Eris.private.md) 
+
+### #is_/same_as :: [Eris.personal](/_personal/Astronomy/Planet/Dwarf_Planet/Eris.personal.md) 
+
+### #is_/same_as :: [Eris.secret](/_secret/Astronomy/Planet/Dwarf_Planet/Eris.secret.md)
+

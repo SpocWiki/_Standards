@@ -89,17 +89,17 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Around%20the%20Corner
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Television](/_Standards/Society/Communication/Media/Television.md) 
+### #is_/same_as :: [Television](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television.md) 
 
-### #is_/same_as :: [Television.public](/_public/Society/Communication/Media/Television.public.md) 
+### #is_/same_as :: [Television.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television.public.md) 
 
-### #is_/same_as :: [Television.internal](/_internal/Society/Communication/Media/Television.internal.md) 
+### #is_/same_as :: [Television.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television.internal.md) 
 
-### #is_/same_as :: [Television.protect](/_protect/Society/Communication/Media/Television.protect.md) 
+### #is_/same_as :: [Television.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television.protect.md) 
 
-### #is_/same_as :: [Television.private](/_private/Society/Communication/Media/Television.private.md) 
+### #is_/same_as :: [Television.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television.private.md) 
 
-### #is_/same_as :: [Television.personal](/_personal/Society/Communication/Media/Television.personal.md) 
+### #is_/same_as :: [Television.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television.personal.md) 
 
-### #is_/same_as :: [Television.secret](/_secret/Society/Communication/Media/Television.secret.md)
+### #is_/same_as :: [Television.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television.secret.md)
 

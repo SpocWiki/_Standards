@@ -46,3 +46,22 @@ Commons_category: Living rooms
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Living%20room) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Living_Room](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Living_Room.md) 
+
+### #is_/same_as :: [Living_Room.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Living_Room.public.md) 
+
+### #is_/same_as :: [Living_Room.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Living_Room.internal.md) 
+
+### #is_/same_as :: [Living_Room.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Living_Room.protect.md) 
+
+### #is_/same_as :: [Living_Room.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Living_Room.private.md) 
+
+### #is_/same_as :: [Living_Room.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Living_Room.personal.md) 
+
+### #is_/same_as :: [Living_Room.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Living_Room.secret.md)
+

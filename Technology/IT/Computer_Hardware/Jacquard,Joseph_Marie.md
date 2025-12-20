@@ -62,3 +62,22 @@ name_in_native_language: Joseph Marie Jacquard
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Marie%20Jacquard) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jacquard,Joseph_Marie](/_Standards/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.md) 
+
+### #is_/same_as :: [Jacquard,Joseph_Marie.public](/_public/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.public.md) 
+
+### #is_/same_as :: [Jacquard,Joseph_Marie.internal](/_internal/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.internal.md) 
+
+### #is_/same_as :: [Jacquard,Joseph_Marie.protect](/_protect/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.protect.md) 
+
+### #is_/same_as :: [Jacquard,Joseph_Marie.private](/_private/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.private.md) 
+
+### #is_/same_as :: [Jacquard,Joseph_Marie.personal](/_personal/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.personal.md) 
+
+### #is_/same_as :: [Jacquard,Joseph_Marie.secret](/_secret/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.secret.md)
+

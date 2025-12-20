@@ -156,3 +156,22 @@ date_of_birth: 1908-01-15T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Edward%20Teller) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Teller,Edward](/_Standards/Science/Physics/Physicist/Teller,Edward.md) 
+
+### #is_/same_as :: [Teller,Edward.public](/_public/Science/Physics/Physicist/Teller,Edward.public.md) 
+
+### #is_/same_as :: [Teller,Edward.internal](/_internal/Science/Physics/Physicist/Teller,Edward.internal.md) 
+
+### #is_/same_as :: [Teller,Edward.protect](/_protect/Science/Physics/Physicist/Teller,Edward.protect.md) 
+
+### #is_/same_as :: [Teller,Edward.private](/_private/Science/Physics/Physicist/Teller,Edward.private.md) 
+
+### #is_/same_as :: [Teller,Edward.personal](/_personal/Science/Physics/Physicist/Teller,Edward.personal.md) 
+
+### #is_/same_as :: [Teller,Edward.secret](/_secret/Science/Physics/Physicist/Teller,Edward.secret.md)
+

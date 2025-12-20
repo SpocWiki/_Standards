@@ -45,3 +45,22 @@ P8189: "987007283805505171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Civil%20law%20(common%20law)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Civil_Law](/_Standards/Society/Law/Civil_Law.md) 
+
+### #is_/same_as :: [Civil_Law.public](/_public/Society/Law/Civil_Law.public.md) 
+
+### #is_/same_as :: [Civil_Law.internal](/_internal/Society/Law/Civil_Law.internal.md) 
+
+### #is_/same_as :: [Civil_Law.protect](/_protect/Society/Law/Civil_Law.protect.md) 
+
+### #is_/same_as :: [Civil_Law.private](/_private/Society/Law/Civil_Law.private.md) 
+
+### #is_/same_as :: [Civil_Law.personal](/_personal/Society/Law/Civil_Law.personal.md) 
+
+### #is_/same_as :: [Civil_Law.secret](/_secret/Society/Law/Civil_Law.secret.md)
+

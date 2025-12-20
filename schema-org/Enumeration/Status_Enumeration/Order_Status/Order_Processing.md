@@ -40,17 +40,17 @@ OrderStatus representing that an order is being processed.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Processing](Order_Processing.md) 
+### #is_/same_as :: [Order_Processing](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.md) 
 
-### #is_/same_as :: [order_processing.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.public.md) 
+### #is_/same_as :: [Order_Processing.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.public.md) 
 
-### #is_/same_as :: [order_processing.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.internal.md) 
+### #is_/same_as :: [Order_Processing.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.internal.md) 
 
-### #is_/same_as :: [order_processing.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.protect.md) 
+### #is_/same_as :: [Order_Processing.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.protect.md) 
 
-### #is_/same_as :: [order_processing.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.private.md) 
+### #is_/same_as :: [Order_Processing.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.private.md) 
 
-### #is_/same_as :: [order_processing.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.personal.md) 
+### #is_/same_as :: [Order_Processing.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.personal.md) 
 
-### #is_/same_as :: [order_processing.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.secret.md)
+### #is_/same_as :: [Order_Processing.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.secret.md)
 

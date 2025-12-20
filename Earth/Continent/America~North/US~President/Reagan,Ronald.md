@@ -244,3 +244,22 @@ ISNI: "0000000121400474"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reagan,Ronald](/_Standards/Earth/Continent/America~North/US~President/Reagan,Ronald.md) 
+
+### #is_/same_as :: [Reagan,Ronald.public](/_public/Earth/Continent/America~North/US~President/Reagan,Ronald.public.md) 
+
+### #is_/same_as :: [Reagan,Ronald.internal](/_internal/Earth/Continent/America~North/US~President/Reagan,Ronald.internal.md) 
+
+### #is_/same_as :: [Reagan,Ronald.protect](/_protect/Earth/Continent/America~North/US~President/Reagan,Ronald.protect.md) 
+
+### #is_/same_as :: [Reagan,Ronald.private](/_private/Earth/Continent/America~North/US~President/Reagan,Ronald.private.md) 
+
+### #is_/same_as :: [Reagan,Ronald.personal](/_personal/Earth/Continent/America~North/US~President/Reagan,Ronald.personal.md) 
+
+### #is_/same_as :: [Reagan,Ronald.secret](/_secret/Earth/Continent/America~North/US~President/Reagan,Ronald.secret.md)
+

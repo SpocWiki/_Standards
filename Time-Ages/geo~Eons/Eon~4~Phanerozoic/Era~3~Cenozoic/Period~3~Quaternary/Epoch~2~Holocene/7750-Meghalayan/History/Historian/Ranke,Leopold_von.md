@@ -108,3 +108,22 @@ Libris_URI: jgvx0dk20m72dfm
 > Ranke also had a great influence on Western historiography and is considered a symbol of the quality of 19th century German historical studies. Ranke, influenced by Barthold Georg Niebuhr, was very talented in constructing narratives without exceeding the limits of historical evidence. His critics have noted the influence of Lutheranism in guiding his work, especially his belief that God's actions were manifest in the lives of men and history, a viewpoint that shaped his ideas that the German Empire was a manifestation of God's intent.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leopold%20von%20Ranke) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ranke,Leopold_von](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.md) 
+
+### #is_/same_as :: [Ranke,Leopold_von.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.public.md) 
+
+### #is_/same_as :: [Ranke,Leopold_von.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.internal.md) 
+
+### #is_/same_as :: [Ranke,Leopold_von.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.protect.md) 
+
+### #is_/same_as :: [Ranke,Leopold_von.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.private.md) 
+
+### #is_/same_as :: [Ranke,Leopold_von.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.personal.md) 
+
+### #is_/same_as :: [Ranke,Leopold_von.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.secret.md)
+

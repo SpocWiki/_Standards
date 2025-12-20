@@ -22,3 +22,22 @@ is_the_study_of: "[[_Standards/WikiData/WD~family,8436]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sociology%20of%20the%20family) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sociology_of_the_Family](/_Standards/Society/Anthropology/Sociology/Sociology_of_the_Family.md) 
+
+### #is_/same_as :: [Sociology_of_the_Family.public](/_public/Society/Anthropology/Sociology/Sociology_of_the_Family.public.md) 
+
+### #is_/same_as :: [Sociology_of_the_Family.internal](/_internal/Society/Anthropology/Sociology/Sociology_of_the_Family.internal.md) 
+
+### #is_/same_as :: [Sociology_of_the_Family.protect](/_protect/Society/Anthropology/Sociology/Sociology_of_the_Family.protect.md) 
+
+### #is_/same_as :: [Sociology_of_the_Family.private](/_private/Society/Anthropology/Sociology/Sociology_of_the_Family.private.md) 
+
+### #is_/same_as :: [Sociology_of_the_Family.personal](/_personal/Society/Anthropology/Sociology/Sociology_of_the_Family.personal.md) 
+
+### #is_/same_as :: [Sociology_of_the_Family.secret](/_secret/Society/Anthropology/Sociology/Sociology_of_the_Family.secret.md)
+

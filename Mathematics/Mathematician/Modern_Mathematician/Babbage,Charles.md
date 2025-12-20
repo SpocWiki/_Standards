@@ -151,3 +151,22 @@ P8189: "987007280456905171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Babbage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Babbage,Charles](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.md) 
+
+### #is_/same_as :: [Babbage,Charles.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.public.md) 
+
+### #is_/same_as :: [Babbage,Charles.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.internal.md) 
+
+### #is_/same_as :: [Babbage,Charles.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.protect.md) 
+
+### #is_/same_as :: [Babbage,Charles.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.private.md) 
+
+### #is_/same_as :: [Babbage,Charles.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.personal.md) 
+
+### #is_/same_as :: [Babbage,Charles.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.secret.md)
+

@@ -43,6 +43,7 @@ A video game is an electronic game that involves human interaction with a user i
 
 #is_/same_as :: [[../../../../../WikiData/WD~Video_game,7889|WD~Video_game,7889]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Video_Game](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game.md) 

@@ -48,3 +48,22 @@ Commons_category: Fundamental theorem of algebra
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fundamental%20theorem%20of%20algebra) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Algebra](/_Standards/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.md) 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Algebra.public](/_public/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.public.md) 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Algebra.internal](/_internal/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.internal.md) 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Algebra.protect](/_protect/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.protect.md) 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Algebra.private](/_private/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.private.md) 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Algebra.personal](/_personal/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.personal.md) 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Algebra.secret](/_secret/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.secret.md)
+

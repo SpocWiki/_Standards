@@ -70,3 +70,22 @@ Mithril, Valar, Palantir etc.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Thiel)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thiel,Peter](/_Standards/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.md) 
+
+### #is_/same_as :: [Thiel,Peter.public](/_public/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.public.md) 
+
+### #is_/same_as :: [Thiel,Peter.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.internal.md) 
+
+### #is_/same_as :: [Thiel,Peter.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.protect.md) 
+
+### #is_/same_as :: [Thiel,Peter.private](/_private/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.private.md) 
+
+### #is_/same_as :: [Thiel,Peter.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.personal.md) 
+
+### #is_/same_as :: [Thiel,Peter.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.secret.md)
+

@@ -39,3 +39,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/MOBI
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kinetic%20art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kinetic_Art](/_Standards/Society/Communication/Art/Kinetic_Art.md) 
+
+### #is_/same_as :: [Kinetic_Art.public](/_public/Society/Communication/Art/Kinetic_Art.public.md) 
+
+### #is_/same_as :: [Kinetic_Art.internal](/_internal/Society/Communication/Art/Kinetic_Art.internal.md) 
+
+### #is_/same_as :: [Kinetic_Art.protect](/_protect/Society/Communication/Art/Kinetic_Art.protect.md) 
+
+### #is_/same_as :: [Kinetic_Art.private](/_private/Society/Communication/Art/Kinetic_Art.private.md) 
+
+### #is_/same_as :: [Kinetic_Art.personal](/_personal/Society/Communication/Art/Kinetic_Art.personal.md) 
+
+### #is_/same_as :: [Kinetic_Art.secret](/_secret/Society/Communication/Art/Kinetic_Art.secret.md)
+

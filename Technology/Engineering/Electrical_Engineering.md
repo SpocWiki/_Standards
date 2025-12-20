@@ -83,3 +83,22 @@ vocalized_name: הַנְדָּסַת חַשְׁמַל
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20engineering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electrical_Engineering](/_Standards/Technology/Engineering/Electrical_Engineering.md) 
+
+### #is_/same_as :: [Electrical_Engineering.public](/_public/Technology/Engineering/Electrical_Engineering.public.md) 
+
+### #is_/same_as :: [Electrical_Engineering.internal](/_internal/Technology/Engineering/Electrical_Engineering.internal.md) 
+
+### #is_/same_as :: [Electrical_Engineering.protect](/_protect/Technology/Engineering/Electrical_Engineering.protect.md) 
+
+### #is_/same_as :: [Electrical_Engineering.private](/_private/Technology/Engineering/Electrical_Engineering.private.md) 
+
+### #is_/same_as :: [Electrical_Engineering.personal](/_personal/Technology/Engineering/Electrical_Engineering.personal.md) 
+
+### #is_/same_as :: [Electrical_Engineering.secret](/_secret/Technology/Engineering/Electrical_Engineering.secret.md)
+

@@ -61,3 +61,22 @@ Commons_category: Etruscan art
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Etruscan%20art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [-1000-Etruscan_Art-0100](/_Standards/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.md) 
+
+### #is_/same_as :: [-1000-Etruscan_Art-0100.public](/_public/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.public.md) 
+
+### #is_/same_as :: [-1000-Etruscan_Art-0100.internal](/_internal/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.internal.md) 
+
+### #is_/same_as :: [-1000-Etruscan_Art-0100.protect](/_protect/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.protect.md) 
+
+### #is_/same_as :: [-1000-Etruscan_Art-0100.private](/_private/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.private.md) 
+
+### #is_/same_as :: [-1000-Etruscan_Art-0100.personal](/_personal/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.personal.md) 
+
+### #is_/same_as :: [-1000-Etruscan_Art-0100.secret](/_secret/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.secret.md)
+

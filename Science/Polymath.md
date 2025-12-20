@@ -106,3 +106,22 @@ Commons_category: Polymaths
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polymath](/_Standards/Science/Polymath.md) 
+
+### #is_/same_as :: [Polymath.public](/_public/Science/Polymath.public.md) 
+
+### #is_/same_as :: [Polymath.internal](/_internal/Science/Polymath.internal.md) 
+
+### #is_/same_as :: [Polymath.protect](/_protect/Science/Polymath.protect.md) 
+
+### #is_/same_as :: [Polymath.private](/_private/Science/Polymath.private.md) 
+
+### #is_/same_as :: [Polymath.personal](/_personal/Science/Polymath.personal.md) 
+
+### #is_/same_as :: [Polymath.secret](/_secret/Science/Polymath.secret.md)
+

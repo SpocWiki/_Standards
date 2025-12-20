@@ -17,3 +17,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Xunzi(Philosopher)](/_Standards/Philosophy/Philosopher/Xunzi(Philosopher).md) 
+
+### #is_/same_as :: [Xunzi(Philosopher).public](/_public/Philosophy/Philosopher/Xunzi(Philosopher).public.md) 
+
+### #is_/same_as :: [Xunzi(Philosopher).internal](/_internal/Philosophy/Philosopher/Xunzi(Philosopher).internal.md) 
+
+### #is_/same_as :: [Xunzi(Philosopher).protect](/_protect/Philosophy/Philosopher/Xunzi(Philosopher).protect.md) 
+
+### #is_/same_as :: [Xunzi(Philosopher).private](/_private/Philosophy/Philosopher/Xunzi(Philosopher).private.md) 
+
+### #is_/same_as :: [Xunzi(Philosopher).personal](/_personal/Philosophy/Philosopher/Xunzi(Philosopher).personal.md) 
+
+### #is_/same_as :: [Xunzi(Philosopher).secret](/_secret/Philosophy/Philosopher/Xunzi(Philosopher).secret.md)
+

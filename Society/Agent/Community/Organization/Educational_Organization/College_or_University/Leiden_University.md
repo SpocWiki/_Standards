@@ -122,3 +122,22 @@ official_website: https://www.universiteitleiden.nl/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leiden%20University) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leiden_University](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.md) 
+
+### #is_/same_as :: [Leiden_University.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.public.md) 
+
+### #is_/same_as :: [Leiden_University.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.internal.md) 
+
+### #is_/same_as :: [Leiden_University.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.protect.md) 
+
+### #is_/same_as :: [Leiden_University.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.private.md) 
+
+### #is_/same_as :: [Leiden_University.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.personal.md) 
+
+### #is_/same_as :: [Leiden_University.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.secret.md)
+

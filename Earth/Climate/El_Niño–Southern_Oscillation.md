@@ -38,17 +38,17 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Wetterph%C3%A4nomen%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [El_Niño–Southern_Oscillation](/_Standards/Earth/Atmosphere,Earth/Climate/El_Niño–Southern_Oscillation.md) 
+### #is_/same_as :: [El_Niño–Southern_Oscillation](/_Standards/Earth/Climate/El_Niño–Southern_Oscillation.md) 
 
-### #is_/same_as :: [El_Niño–Southern_Oscillation.public](/_public/Earth/Atmosphere,Earth/Climate/El_Niño–Southern_Oscillation.public.md) 
+### #is_/same_as :: [El_Niño–Southern_Oscillation.public](/_public/Earth/Climate/El_Niño–Southern_Oscillation.public.md) 
 
-### #is_/same_as :: [El_Niño–Southern_Oscillation.internal](/_internal/Earth/Atmosphere,Earth/Climate/El_Niño–Southern_Oscillation.internal.md) 
+### #is_/same_as :: [El_Niño–Southern_Oscillation.internal](/_internal/Earth/Climate/El_Niño–Southern_Oscillation.internal.md) 
 
-### #is_/same_as :: [El_Niño–Southern_Oscillation.protect](/_protect/Earth/Atmosphere,Earth/Climate/El_Niño–Southern_Oscillation.protect.md) 
+### #is_/same_as :: [El_Niño–Southern_Oscillation.protect](/_protect/Earth/Climate/El_Niño–Southern_Oscillation.protect.md) 
 
-### #is_/same_as :: [El_Niño–Southern_Oscillation.private](/_private/Earth/Atmosphere,Earth/Climate/El_Niño–Southern_Oscillation.private.md) 
+### #is_/same_as :: [El_Niño–Southern_Oscillation.private](/_private/Earth/Climate/El_Niño–Southern_Oscillation.private.md) 
 
-### #is_/same_as :: [El_Niño–Southern_Oscillation.personal](/_personal/Earth/Atmosphere,Earth/Climate/El_Niño–Southern_Oscillation.personal.md) 
+### #is_/same_as :: [El_Niño–Southern_Oscillation.personal](/_personal/Earth/Climate/El_Niño–Southern_Oscillation.personal.md) 
 
-### #is_/same_as :: [El_Niño–Southern_Oscillation.secret](/_secret/Earth/Atmosphere,Earth/Climate/El_Niño–Southern_Oscillation.secret.md)
+### #is_/same_as :: [El_Niño–Southern_Oscillation.secret](/_secret/Earth/Climate/El_Niño–Southern_Oscillation.secret.md)
 

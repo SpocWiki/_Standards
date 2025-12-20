@@ -112,3 +112,22 @@ date_of_death: 2021-04-14T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bernie%20Madoff) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bernard_Madoff](/_Standards/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.md) 
+
+### #is_/same_as :: [Bernard_Madoff.public](/_public/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.public.md) 
+
+### #is_/same_as :: [Bernard_Madoff.internal](/_internal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.internal.md) 
+
+### #is_/same_as :: [Bernard_Madoff.protect](/_protect/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.protect.md) 
+
+### #is_/same_as :: [Bernard_Madoff.private](/_private/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.private.md) 
+
+### #is_/same_as :: [Bernard_Madoff.personal](/_personal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.personal.md) 
+
+### #is_/same_as :: [Bernard_Madoff.secret](/_secret/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.secret.md)
+

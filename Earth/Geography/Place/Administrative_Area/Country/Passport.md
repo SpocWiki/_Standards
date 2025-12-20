@@ -85,3 +85,22 @@ OpenStreetMap_tag: diplomatic:services:passport=yes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Passport) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Passport](/_Standards/Earth/Geography/Place/Administrative_Area/Country/Passport.md) 
+
+### #is_/same_as :: [Passport.public](/_public/Earth/Geography/Place/Administrative_Area/Country/Passport.public.md) 
+
+### #is_/same_as :: [Passport.internal](/_internal/Earth/Geography/Place/Administrative_Area/Country/Passport.internal.md) 
+
+### #is_/same_as :: [Passport.protect](/_protect/Earth/Geography/Place/Administrative_Area/Country/Passport.protect.md) 
+
+### #is_/same_as :: [Passport.private](/_private/Earth/Geography/Place/Administrative_Area/Country/Passport.private.md) 
+
+### #is_/same_as :: [Passport.personal](/_personal/Earth/Geography/Place/Administrative_Area/Country/Passport.personal.md) 
+
+### #is_/same_as :: [Passport.secret](/_secret/Earth/Geography/Place/Administrative_Area/Country/Passport.secret.md)
+

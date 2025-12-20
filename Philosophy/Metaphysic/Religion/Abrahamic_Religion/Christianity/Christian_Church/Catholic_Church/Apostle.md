@@ -36,3 +36,22 @@ has_id_wikidata: Q43412
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Apostle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Apostle](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle.md) 
+
+### #is_/same_as :: [Apostle.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle.public.md) 
+
+### #is_/same_as :: [Apostle.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle.internal.md) 
+
+### #is_/same_as :: [Apostle.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle.protect.md) 
+
+### #is_/same_as :: [Apostle.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle.private.md) 
+
+### #is_/same_as :: [Apostle.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle.personal.md) 
+
+### #is_/same_as :: [Apostle.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle.secret.md)
+

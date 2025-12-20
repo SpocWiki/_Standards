@@ -37,17 +37,17 @@ Target audiences types for medical web pages. Enumerated type.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [medical_audience_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.md) 
+### #is_/same_as :: [Medical_Audience_Type](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.md) 
 
-### #is_/same_as :: [medical_audience_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.public.md) 
+### #is_/same_as :: [Medical_Audience_Type.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.public.md) 
 
-### #is_/same_as :: [medical_audience_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.internal.md) 
+### #is_/same_as :: [Medical_Audience_Type.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.internal.md) 
 
-### #is_/same_as :: [medical_audience_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.protect.md) 
+### #is_/same_as :: [Medical_Audience_Type.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.protect.md) 
 
-### #is_/same_as :: [medical_audience_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.private.md) 
+### #is_/same_as :: [Medical_Audience_Type.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.private.md) 
 
-### #is_/same_as :: [medical_audience_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.personal.md) 
+### #is_/same_as :: [Medical_Audience_Type.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.personal.md) 
 
-### #is_/same_as :: [medical_audience_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.secret.md)
+### #is_/same_as :: [Medical_Audience_Type.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.secret.md)
 

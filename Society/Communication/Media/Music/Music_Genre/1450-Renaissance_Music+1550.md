@@ -36,3 +36,22 @@ has_id_wikidata: Q201405
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1450-Renaissance_Music+1550](/_Standards/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550.md) 
+
+### #is_/same_as :: [1450-Renaissance_Music+1550.public](/_public/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550.public.md) 
+
+### #is_/same_as :: [1450-Renaissance_Music+1550.internal](/_internal/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550.internal.md) 
+
+### #is_/same_as :: [1450-Renaissance_Music+1550.protect](/_protect/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550.protect.md) 
+
+### #is_/same_as :: [1450-Renaissance_Music+1550.private](/_private/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550.private.md) 
+
+### #is_/same_as :: [1450-Renaissance_Music+1550.personal](/_personal/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550.personal.md) 
+
+### #is_/same_as :: [1450-Renaissance_Music+1550.secret](/_secret/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550.secret.md)
+

@@ -117,3 +117,21 @@ ISNI:
 > Lucas is one of history's most financially successful filmmakers. He directed or wrote the story for ten of the 100 highest-grossing movies at the North American box office, adjusted for ticket-price inflation. Through his companies Industrial Light and Magic and Skywalker Sound, Lucas was involved in the production of, and financially benefited from, almost every big-budget film released in the U.S. from the late 1980s until selling to Disney in 2012. In addition to his career as a filmmaker, Lucas has founded and supported multiple philanthropic organizations and campaigns dedicated to education and the arts, including the George Lucas Educational Foundation, which has been noted as a key supporter in the creation of the federal E-Rate program to provide broadband funding to schools and libraries, and the Lucas Museum of Narrative Art, a forthcoming art museum in Los Angeles developed with his wife, Mellody Hobson.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20Lucas)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lucas,George](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lucas,George.md) 
+
+### #is_/same_as :: [Lucas,George.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lucas,George.public.md) 
+
+### #is_/same_as :: [Lucas,George.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lucas,George.internal.md) 
+
+### #is_/same_as :: [Lucas,George.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lucas,George.protect.md) 
+
+### #is_/same_as :: [Lucas,George.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lucas,George.private.md) 
+
+### #is_/same_as :: [Lucas,George.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lucas,George.personal.md) 
+
+### #is_/same_as :: [Lucas,George.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lucas,George.secret.md)
+

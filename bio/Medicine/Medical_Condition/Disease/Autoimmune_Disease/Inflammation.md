@@ -101,3 +101,22 @@ Commons_category: Inflammations
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Inflammation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Inflammation](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.md) 
+
+### #is_/same_as :: [Inflammation.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.public.md) 
+
+### #is_/same_as :: [Inflammation.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.internal.md) 
+
+### #is_/same_as :: [Inflammation.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.protect.md) 
+
+### #is_/same_as :: [Inflammation.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.private.md) 
+
+### #is_/same_as :: [Inflammation.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.personal.md) 
+
+### #is_/same_as :: [Inflammation.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.secret.md)
+

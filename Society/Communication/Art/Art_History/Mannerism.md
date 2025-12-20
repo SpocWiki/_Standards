@@ -54,3 +54,22 @@ start_time: 1520-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mannerism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mannerism](/_Standards/Society/Communication/Art/Art_History/Mannerism.md) 
+
+### #is_/same_as :: [Mannerism.public](/_public/Society/Communication/Art/Art_History/Mannerism.public.md) 
+
+### #is_/same_as :: [Mannerism.internal](/_internal/Society/Communication/Art/Art_History/Mannerism.internal.md) 
+
+### #is_/same_as :: [Mannerism.protect](/_protect/Society/Communication/Art/Art_History/Mannerism.protect.md) 
+
+### #is_/same_as :: [Mannerism.private](/_private/Society/Communication/Art/Art_History/Mannerism.private.md) 
+
+### #is_/same_as :: [Mannerism.personal](/_personal/Society/Communication/Art/Art_History/Mannerism.personal.md) 
+
+### #is_/same_as :: [Mannerism.secret](/_secret/Society/Communication/Art/Art_History/Mannerism.secret.md)
+

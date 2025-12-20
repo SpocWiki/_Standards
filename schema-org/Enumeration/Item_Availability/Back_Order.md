@@ -40,17 +40,17 @@ Indicates that the item is available on back order.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Back_Order](Back_Order.md) 
+### #is_/same_as :: [Back_Order](/_Standards/schema-org/Enumeration/Item_Availability/Back_Order.md) 
 
-### #is_/same_as :: [back_order.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.public.md) 
+### #is_/same_as :: [Back_Order.public](/_public/schema-org/Enumeration/Item_Availability/Back_Order.public.md) 
 
-### #is_/same_as :: [back_order.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.internal.md) 
+### #is_/same_as :: [Back_Order.internal](/_internal/schema-org/Enumeration/Item_Availability/Back_Order.internal.md) 
 
-### #is_/same_as :: [back_order.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.protect.md) 
+### #is_/same_as :: [Back_Order.protect](/_protect/schema-org/Enumeration/Item_Availability/Back_Order.protect.md) 
 
-### #is_/same_as :: [back_order.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.private.md) 
+### #is_/same_as :: [Back_Order.private](/_private/schema-org/Enumeration/Item_Availability/Back_Order.private.md) 
 
-### #is_/same_as :: [back_order.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.personal.md) 
+### #is_/same_as :: [Back_Order.personal](/_personal/schema-org/Enumeration/Item_Availability/Back_Order.personal.md) 
 
-### #is_/same_as :: [back_order.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.secret.md)
+### #is_/same_as :: [Back_Order.secret](/_secret/schema-org/Enumeration/Item_Availability/Back_Order.secret.md)
 

@@ -133,3 +133,22 @@ date_of_birth: 1910-05-12T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dorothy%20Hodgkin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hodgkin,Dorothy](/_Standards/Chemistry/Chemist/Hodgkin,Dorothy.md) 
+
+### #is_/same_as :: [Hodgkin,Dorothy.public](/_public/Chemistry/Chemist/Hodgkin,Dorothy.public.md) 
+
+### #is_/same_as :: [Hodgkin,Dorothy.internal](/_internal/Chemistry/Chemist/Hodgkin,Dorothy.internal.md) 
+
+### #is_/same_as :: [Hodgkin,Dorothy.protect](/_protect/Chemistry/Chemist/Hodgkin,Dorothy.protect.md) 
+
+### #is_/same_as :: [Hodgkin,Dorothy.private](/_private/Chemistry/Chemist/Hodgkin,Dorothy.private.md) 
+
+### #is_/same_as :: [Hodgkin,Dorothy.personal](/_personal/Chemistry/Chemist/Hodgkin,Dorothy.personal.md) 
+
+### #is_/same_as :: [Hodgkin,Dorothy.secret](/_secret/Chemistry/Chemist/Hodgkin,Dorothy.secret.md)
+

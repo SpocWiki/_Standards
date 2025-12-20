@@ -39,3 +39,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Abramowski-braterstwo-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solidarity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Solidarity](/_Standards/Society/Social_Relation/Solidarity.md) 
+
+### #is_/same_as :: [Solidarity.public](/_public/Society/Social_Relation/Solidarity.public.md) 
+
+### #is_/same_as :: [Solidarity.internal](/_internal/Society/Social_Relation/Solidarity.internal.md) 
+
+### #is_/same_as :: [Solidarity.protect](/_protect/Society/Social_Relation/Solidarity.protect.md) 
+
+### #is_/same_as :: [Solidarity.private](/_private/Society/Social_Relation/Solidarity.private.md) 
+
+### #is_/same_as :: [Solidarity.personal](/_personal/Society/Social_Relation/Solidarity.personal.md) 
+
+### #is_/same_as :: [Solidarity.secret](/_secret/Society/Social_Relation/Solidarity.secret.md)
+

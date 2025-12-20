@@ -43,3 +43,22 @@ Dewey_Decimal_Classification: "951.9"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Korea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Korea](/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.md) 
+
+### #is_/same_as :: [History_of_Korea.public](/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.public.md) 
+
+### #is_/same_as :: [History_of_Korea.internal](/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.internal.md) 
+
+### #is_/same_as :: [History_of_Korea.protect](/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.protect.md) 
+
+### #is_/same_as :: [History_of_Korea.private](/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.private.md) 
+
+### #is_/same_as :: [History_of_Korea.personal](/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.personal.md) 
+
+### #is_/same_as :: [History_of_Korea.secret](/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.secret.md)
+

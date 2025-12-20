@@ -55,3 +55,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%AD%D0%BC%D0%B1%D1%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Embryo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Embryo](/_Standards/bio/Reproduction/Developmental_Biology/Embryo.md) 
+
+### #is_/same_as :: [Embryo.public](/_public/bio/Reproduction/Developmental_Biology/Embryo.public.md) 
+
+### #is_/same_as :: [Embryo.internal](/_internal/bio/Reproduction/Developmental_Biology/Embryo.internal.md) 
+
+### #is_/same_as :: [Embryo.protect](/_protect/bio/Reproduction/Developmental_Biology/Embryo.protect.md) 
+
+### #is_/same_as :: [Embryo.private](/_private/bio/Reproduction/Developmental_Biology/Embryo.private.md) 
+
+### #is_/same_as :: [Embryo.personal](/_personal/bio/Reproduction/Developmental_Biology/Embryo.personal.md) 
+
+### #is_/same_as :: [Embryo.secret](/_secret/bio/Reproduction/Developmental_Biology/Embryo.secret.md)
+

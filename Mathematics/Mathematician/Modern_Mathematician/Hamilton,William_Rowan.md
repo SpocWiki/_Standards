@@ -120,3 +120,22 @@ date_of_birth: 1805-08-04T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Rowan%20Hamilton) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hamilton,William_Rowan](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.md) 
+
+### #is_/same_as :: [Hamilton,William_Rowan.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.public.md) 
+
+### #is_/same_as :: [Hamilton,William_Rowan.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.internal.md) 
+
+### #is_/same_as :: [Hamilton,William_Rowan.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.protect.md) 
+
+### #is_/same_as :: [Hamilton,William_Rowan.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.private.md) 
+
+### #is_/same_as :: [Hamilton,William_Rowan.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.personal.md) 
+
+### #is_/same_as :: [Hamilton,William_Rowan.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.secret.md)
+

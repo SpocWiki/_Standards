@@ -103,3 +103,22 @@ Commons_category: Punishments
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Punishment) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Punishment](/_Standards/Society/Law/Criminal_Law/Crime/Punishment.md) 
+
+### #is_/same_as :: [Punishment.public](/_public/Society/Law/Criminal_Law/Crime/Punishment.public.md) 
+
+### #is_/same_as :: [Punishment.internal](/_internal/Society/Law/Criminal_Law/Crime/Punishment.internal.md) 
+
+### #is_/same_as :: [Punishment.protect](/_protect/Society/Law/Criminal_Law/Crime/Punishment.protect.md) 
+
+### #is_/same_as :: [Punishment.private](/_private/Society/Law/Criminal_Law/Crime/Punishment.private.md) 
+
+### #is_/same_as :: [Punishment.personal](/_personal/Society/Law/Criminal_Law/Crime/Punishment.personal.md) 
+
+### #is_/same_as :: [Punishment.secret](/_secret/Society/Law/Criminal_Law/Crime/Punishment.secret.md)
+

@@ -97,3 +97,22 @@ Commons_category: Trams
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tram) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tram](/_Standards/Technology/Transport/Rail_Transport/Tram.md) 
+
+### #is_/same_as :: [Tram.public](/_public/Technology/Transport/Rail_Transport/Tram.public.md) 
+
+### #is_/same_as :: [Tram.internal](/_internal/Technology/Transport/Rail_Transport/Tram.internal.md) 
+
+### #is_/same_as :: [Tram.protect](/_protect/Technology/Transport/Rail_Transport/Tram.protect.md) 
+
+### #is_/same_as :: [Tram.private](/_private/Technology/Transport/Rail_Transport/Tram.private.md) 
+
+### #is_/same_as :: [Tram.personal](/_personal/Technology/Transport/Rail_Transport/Tram.personal.md) 
+
+### #is_/same_as :: [Tram.secret](/_secret/Technology/Transport/Rail_Transport/Tram.secret.md)
+

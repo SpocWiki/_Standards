@@ -102,3 +102,22 @@ publication_date: 1812-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Snow%20White) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Snow_White](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.md) 
+
+### #is_/same_as :: [Snow_White.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.public.md) 
+
+### #is_/same_as :: [Snow_White.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.internal.md) 
+
+### #is_/same_as :: [Snow_White.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.protect.md) 
+
+### #is_/same_as :: [Snow_White.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.private.md) 
+
+### #is_/same_as :: [Snow_White.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.personal.md) 
+
+### #is_/same_as :: [Snow_White.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.secret.md)
+

@@ -49,3 +49,22 @@ type: private_note
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Madison) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Madison,James](/_Standards/Earth/Continent/America~North/US~President/Madison,James.md) 
+
+### #is_/same_as :: [Madison,James.public](/_public/Earth/Continent/America~North/US~President/Madison,James.public.md) 
+
+### #is_/same_as :: [Madison,James.internal](/_internal/Earth/Continent/America~North/US~President/Madison,James.internal.md) 
+
+### #is_/same_as :: [Madison,James.protect](/_protect/Earth/Continent/America~North/US~President/Madison,James.protect.md) 
+
+### #is_/same_as :: [Madison,James.private](/_private/Earth/Continent/America~North/US~President/Madison,James.private.md) 
+
+### #is_/same_as :: [Madison,James.personal](/_personal/Earth/Continent/America~North/US~President/Madison,James.personal.md) 
+
+### #is_/same_as :: [Madison,James.secret](/_secret/Earth/Continent/America~North/US~President/Madison,James.secret.md)
+

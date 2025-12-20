@@ -44,3 +44,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Hawai%27i%20Volcanoes%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magma) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Magma](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.md) 
+
+### #is_/same_as :: [Magma.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.public.md) 
+
+### #is_/same_as :: [Magma.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.internal.md) 
+
+### #is_/same_as :: [Magma.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.protect.md) 
+
+### #is_/same_as :: [Magma.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.private.md) 
+
+### #is_/same_as :: [Magma.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.personal.md) 
+
+### #is_/same_as :: [Magma.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.secret.md)
+

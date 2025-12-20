@@ -145,3 +145,22 @@ NLC_authorities: "000161539"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Amos%20Comenius) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Comenius,John_Amos](/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Comenius,John_Amos.md) 
+
+### #is_/same_as :: [Comenius,John_Amos.public](/_public/Philosophy/Philosopher/Middle_Ages_Philosopher/Comenius,John_Amos.public.md) 
+
+### #is_/same_as :: [Comenius,John_Amos.internal](/_internal/Philosophy/Philosopher/Middle_Ages_Philosopher/Comenius,John_Amos.internal.md) 
+
+### #is_/same_as :: [Comenius,John_Amos.protect](/_protect/Philosophy/Philosopher/Middle_Ages_Philosopher/Comenius,John_Amos.protect.md) 
+
+### #is_/same_as :: [Comenius,John_Amos.private](/_private/Philosophy/Philosopher/Middle_Ages_Philosopher/Comenius,John_Amos.private.md) 
+
+### #is_/same_as :: [Comenius,John_Amos.personal](/_personal/Philosophy/Philosopher/Middle_Ages_Philosopher/Comenius,John_Amos.personal.md) 
+
+### #is_/same_as :: [Comenius,John_Amos.secret](/_secret/Philosophy/Philosopher/Middle_Ages_Philosopher/Comenius,John_Amos.secret.md)
+

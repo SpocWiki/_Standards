@@ -112,3 +112,22 @@ Baidu_Tieba_name: 三国演义
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Romance%20of%20the%20Three%20Kingdoms) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Romance_of_the_Three_Kingdoms](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.md) 
+
+### #is_/same_as :: [Romance_of_the_Three_Kingdoms.public](/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.public.md) 
+
+### #is_/same_as :: [Romance_of_the_Three_Kingdoms.internal](/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.internal.md) 
+
+### #is_/same_as :: [Romance_of_the_Three_Kingdoms.protect](/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.protect.md) 
+
+### #is_/same_as :: [Romance_of_the_Three_Kingdoms.private](/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.private.md) 
+
+### #is_/same_as :: [Romance_of_the_Three_Kingdoms.personal](/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.personal.md) 
+
+### #is_/same_as :: [Romance_of_the_Three_Kingdoms.secret](/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.secret.md)
+

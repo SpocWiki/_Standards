@@ -46,6 +46,7 @@ short_name: Sge
 
 #is_/same_as :: [[../../WikiData/WD~Sagitta,10513|WD~Sagitta,10513]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Sagitta](/_Standards/Astronomy/Star~Constellation/Zodiac~Sagitta.md) 

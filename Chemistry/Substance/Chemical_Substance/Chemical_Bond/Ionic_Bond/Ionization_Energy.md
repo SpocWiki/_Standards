@@ -57,3 +57,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ionization%20energy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ionization_Energy](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.md) 
+
+### #is_/same_as :: [Ionization_Energy.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.public.md) 
+
+### #is_/same_as :: [Ionization_Energy.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.internal.md) 
+
+### #is_/same_as :: [Ionization_Energy.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.protect.md) 
+
+### #is_/same_as :: [Ionization_Energy.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.private.md) 
+
+### #is_/same_as :: [Ionization_Energy.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.personal.md) 
+
+### #is_/same_as :: [Ionization_Energy.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.secret.md)
+

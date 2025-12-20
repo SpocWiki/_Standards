@@ -47,3 +47,22 @@ name_in_kana: かいにじょうけんてい
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chi-squared%20test) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chi-square_test](/_Standards/Mathematics/Statistics/Chi-square_test.md) 
+
+### #is_/same_as :: [Chi-square_test.public](/_public/Mathematics/Statistics/Chi-square_test.public.md) 
+
+### #is_/same_as :: [Chi-square_test.internal](/_internal/Mathematics/Statistics/Chi-square_test.internal.md) 
+
+### #is_/same_as :: [Chi-square_test.protect](/_protect/Mathematics/Statistics/Chi-square_test.protect.md) 
+
+### #is_/same_as :: [Chi-square_test.private](/_private/Mathematics/Statistics/Chi-square_test.private.md) 
+
+### #is_/same_as :: [Chi-square_test.personal](/_personal/Mathematics/Statistics/Chi-square_test.personal.md) 
+
+### #is_/same_as :: [Chi-square_test.secret](/_secret/Mathematics/Statistics/Chi-square_test.secret.md)
+

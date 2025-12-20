@@ -141,3 +141,22 @@ IEV_number: 102-03-19
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Euclidean%20space) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Euclidean_Space](/_Standards/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.md) 
+
+### #is_/same_as :: [Euclidean_Space.public](/_public/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.public.md) 
+
+### #is_/same_as :: [Euclidean_Space.internal](/_internal/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.internal.md) 
+
+### #is_/same_as :: [Euclidean_Space.protect](/_protect/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.protect.md) 
+
+### #is_/same_as :: [Euclidean_Space.private](/_private/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.private.md) 
+
+### #is_/same_as :: [Euclidean_Space.personal](/_personal/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.personal.md) 
+
+### #is_/same_as :: [Euclidean_Space.secret](/_secret/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.secret.md)
+

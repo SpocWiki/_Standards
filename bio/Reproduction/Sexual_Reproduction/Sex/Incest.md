@@ -51,3 +51,22 @@ Commons_category: Incest
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Incest) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Incest](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Incest.md) 
+
+### #is_/same_as :: [Incest.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Incest.public.md) 
+
+### #is_/same_as :: [Incest.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Incest.internal.md) 
+
+### #is_/same_as :: [Incest.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Incest.protect.md) 
+
+### #is_/same_as :: [Incest.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Incest.private.md) 
+
+### #is_/same_as :: [Incest.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Incest.personal.md) 
+
+### #is_/same_as :: [Incest.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Incest.secret.md)
+

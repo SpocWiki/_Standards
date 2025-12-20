@@ -23,3 +23,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Time%20trial) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Time_Trial](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Time_Trial.md) 
+
+### #is_/same_as :: [Time_Trial.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Time_Trial.public.md) 
+
+### #is_/same_as :: [Time_Trial.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Time_Trial.internal.md) 
+
+### #is_/same_as :: [Time_Trial.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Time_Trial.protect.md) 
+
+### #is_/same_as :: [Time_Trial.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Time_Trial.private.md) 
+
+### #is_/same_as :: [Time_Trial.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Time_Trial.personal.md) 
+
+### #is_/same_as :: [Time_Trial.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Time_Trial.secret.md)
+

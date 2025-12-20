@@ -34,3 +34,22 @@ PhilPapers_topic: history-of-biology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20biology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Biology](/_Standards/bio/History_of_Biology.md) 
+
+### #is_/same_as :: [History_of_Biology.public](/_public/bio/History_of_Biology.public.md) 
+
+### #is_/same_as :: [History_of_Biology.internal](/_internal/bio/History_of_Biology.internal.md) 
+
+### #is_/same_as :: [History_of_Biology.protect](/_protect/bio/History_of_Biology.protect.md) 
+
+### #is_/same_as :: [History_of_Biology.private](/_private/bio/History_of_Biology.private.md) 
+
+### #is_/same_as :: [History_of_Biology.personal](/_personal/bio/History_of_Biology.personal.md) 
+
+### #is_/same_as :: [History_of_Biology.secret](/_secret/bio/History_of_Biology.secret.md)
+

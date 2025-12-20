@@ -76,17 +76,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Child](/_Standards/Society/Family/Child.md) 
+### #is_/same_as :: [Child](/_Standards/Society/Agent/Community/Clan/Family/Child.md) 
 
-### #is_/same_as :: [Child.public](/_public/Society/Family/Child.public.md) 
+### #is_/same_as :: [Child.public](/_public/Society/Agent/Community/Clan/Family/Child.public.md) 
 
-### #is_/same_as :: [Child.internal](/_internal/Society/Family/Child.internal.md) 
+### #is_/same_as :: [Child.internal](/_internal/Society/Agent/Community/Clan/Family/Child.internal.md) 
 
-### #is_/same_as :: [Child.protect](/_protect/Society/Family/Child.protect.md) 
+### #is_/same_as :: [Child.protect](/_protect/Society/Agent/Community/Clan/Family/Child.protect.md) 
 
-### #is_/same_as :: [Child.private](/_private/Society/Family/Child.private.md) 
+### #is_/same_as :: [Child.private](/_private/Society/Agent/Community/Clan/Family/Child.private.md) 
 
-### #is_/same_as :: [Child.personal](/_personal/Society/Family/Child.personal.md) 
+### #is_/same_as :: [Child.personal](/_personal/Society/Agent/Community/Clan/Family/Child.personal.md) 
 
-### #is_/same_as :: [Child.secret](/_secret/Society/Family/Child.secret.md)
+### #is_/same_as :: [Child.secret](/_secret/Society/Agent/Community/Clan/Family/Child.secret.md)
 

@@ -63,3 +63,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Islamic%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Muslim%20conquest%20of%20Persia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [0632-Muslim_conquest_of_Persia-0654](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.md) 
+
+### #is_/same_as :: [0632-Muslim_conquest_of_Persia-0654.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.public.md) 
+
+### #is_/same_as :: [0632-Muslim_conquest_of_Persia-0654.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.internal.md) 
+
+### #is_/same_as :: [0632-Muslim_conquest_of_Persia-0654.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.protect.md) 
+
+### #is_/same_as :: [0632-Muslim_conquest_of_Persia-0654.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.private.md) 
+
+### #is_/same_as :: [0632-Muslim_conquest_of_Persia-0654.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.personal.md) 
+
+### #is_/same_as :: [0632-Muslim_conquest_of_Persia-0654.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.secret.md)
+

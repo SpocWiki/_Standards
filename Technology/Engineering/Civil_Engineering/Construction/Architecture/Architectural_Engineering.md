@@ -41,17 +41,17 @@ male_form_of_label: Enginyeria d'Obres Públiques
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Architectural_Engineering](Architectural_Engineering.md) 
+### #is_/same_as :: [Architectural_Engineering](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Engineering.md) 
 
-### #is_/same_as :: [Architectural_Engineering.public](/_public/Technology/Construction/Architecture/Architectural_Engineering.public.md) 
+### #is_/same_as :: [Architectural_Engineering.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Engineering.public.md) 
 
-### #is_/same_as :: [Architectural_Engineering.internal](/_internal/Technology/Construction/Architecture/Architectural_Engineering.internal.md) 
+### #is_/same_as :: [Architectural_Engineering.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Engineering.internal.md) 
 
-### #is_/same_as :: [Architectural_Engineering.protect](/_protect/Technology/Construction/Architecture/Architectural_Engineering.protect.md) 
+### #is_/same_as :: [Architectural_Engineering.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Engineering.protect.md) 
 
-### #is_/same_as :: [Architectural_Engineering.private](/_private/Technology/Construction/Architecture/Architectural_Engineering.private.md) 
+### #is_/same_as :: [Architectural_Engineering.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Engineering.private.md) 
 
-### #is_/same_as :: [Architectural_Engineering.personal](/_personal/Technology/Construction/Architecture/Architectural_Engineering.personal.md) 
+### #is_/same_as :: [Architectural_Engineering.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Engineering.personal.md) 
 
-### #is_/same_as :: [Architectural_Engineering.secret](/_secret/Technology/Construction/Architecture/Architectural_Engineering.secret.md)
+### #is_/same_as :: [Architectural_Engineering.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Engineering.secret.md)
 

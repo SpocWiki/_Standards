@@ -28,17 +28,17 @@ LIMIT 3
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star~Class](/_Standards/Astronomy/Star~Class.md) 
+### #is_/same_as :: [Star~Class](/_Standards/Astronomy/Star/Star~Class.md) 
 
-### #is_/same_as :: [Star~Class.public](/_public/Astronomy/Star~Class.public.md) 
+### #is_/same_as :: [Star~Class.public](/_public/Astronomy/Star/Star~Class.public.md) 
 
-### #is_/same_as :: [Star~Class.internal](/_internal/Astronomy/Star~Class.internal.md) 
+### #is_/same_as :: [Star~Class.internal](/_internal/Astronomy/Star/Star~Class.internal.md) 
 
-### #is_/same_as :: [Star~Class.protect](/_protect/Astronomy/Star~Class.protect.md) 
+### #is_/same_as :: [Star~Class.protect](/_protect/Astronomy/Star/Star~Class.protect.md) 
 
-### #is_/same_as :: [Star~Class.private](/_private/Astronomy/Star~Class.private.md) 
+### #is_/same_as :: [Star~Class.private](/_private/Astronomy/Star/Star~Class.private.md) 
 
-### #is_/same_as :: [Star~Class.personal](/_personal/Astronomy/Star~Class.personal.md) 
+### #is_/same_as :: [Star~Class.personal](/_personal/Astronomy/Star/Star~Class.personal.md) 
 
-### #is_/same_as :: [Star~Class.secret](/_secret/Astronomy/Star~Class.secret.md)
+### #is_/same_as :: [Star~Class.secret](/_secret/Astronomy/Star/Star~Class.secret.md)
 

@@ -58,3 +58,22 @@ OpenStreetMap_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Limestone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Limestone](/_Standards/Earth/Geology/Mineral/Limestone.md) 
+
+### #is_/same_as :: [Limestone.public](/_public/Earth/Geology/Mineral/Limestone.public.md) 
+
+### #is_/same_as :: [Limestone.internal](/_internal/Earth/Geology/Mineral/Limestone.internal.md) 
+
+### #is_/same_as :: [Limestone.protect](/_protect/Earth/Geology/Mineral/Limestone.protect.md) 
+
+### #is_/same_as :: [Limestone.private](/_private/Earth/Geology/Mineral/Limestone.private.md) 
+
+### #is_/same_as :: [Limestone.personal](/_personal/Earth/Geology/Mineral/Limestone.personal.md) 
+
+### #is_/same_as :: [Limestone.secret](/_secret/Earth/Geology/Mineral/Limestone.secret.md)
+

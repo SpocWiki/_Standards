@@ -40,3 +40,22 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dust%20Bowl) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dust_Bowl](/_Standards/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.md) 
+
+### #is_/same_as :: [Dust_Bowl.public](/_public/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.public.md) 
+
+### #is_/same_as :: [Dust_Bowl.internal](/_internal/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.internal.md) 
+
+### #is_/same_as :: [Dust_Bowl.protect](/_protect/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.protect.md) 
+
+### #is_/same_as :: [Dust_Bowl.private](/_private/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.private.md) 
+
+### #is_/same_as :: [Dust_Bowl.personal](/_personal/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.personal.md) 
+
+### #is_/same_as :: [Dust_Bowl.secret](/_secret/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.secret.md)
+

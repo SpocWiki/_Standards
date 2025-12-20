@@ -30,3 +30,22 @@ subclass_of: "[[_Standards/WikiData/WD~function,11348]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Computable%20function) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Computable_Function](/_Standards/Mathematics/Algorithm/Computable_Function.md) 
+
+### #is_/same_as :: [Computable_Function.public](/_public/Mathematics/Algorithm/Computable_Function.public.md) 
+
+### #is_/same_as :: [Computable_Function.internal](/_internal/Mathematics/Algorithm/Computable_Function.internal.md) 
+
+### #is_/same_as :: [Computable_Function.protect](/_protect/Mathematics/Algorithm/Computable_Function.protect.md) 
+
+### #is_/same_as :: [Computable_Function.private](/_private/Mathematics/Algorithm/Computable_Function.private.md) 
+
+### #is_/same_as :: [Computable_Function.personal](/_personal/Mathematics/Algorithm/Computable_Function.personal.md) 
+
+### #is_/same_as :: [Computable_Function.secret](/_secret/Mathematics/Algorithm/Computable_Function.secret.md)
+

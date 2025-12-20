@@ -13,3 +13,22 @@ let _local: DateTime<Local> = Local::now();
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [crates~chrono](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~chrono.md) 
+
+### #is_/same_as :: [crates~chrono.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~chrono.public.md) 
+
+### #is_/same_as :: [crates~chrono.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~chrono.internal.md) 
+
+### #is_/same_as :: [crates~chrono.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~chrono.protect.md) 
+
+### #is_/same_as :: [crates~chrono.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~chrono.private.md) 
+
+### #is_/same_as :: [crates~chrono.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~chrono.personal.md) 
+
+### #is_/same_as :: [crates~chrono.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~chrono.secret.md)
+

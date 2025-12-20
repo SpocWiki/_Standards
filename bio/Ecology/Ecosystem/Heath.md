@@ -43,3 +43,22 @@ OpenStreetMap_tag: natural=heath
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Heath) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heath](/_Standards/bio/Ecology/Ecosystem/Heath.md) 
+
+### #is_/same_as :: [Heath.public](/_public/bio/Ecology/Ecosystem/Heath.public.md) 
+
+### #is_/same_as :: [Heath.internal](/_internal/bio/Ecology/Ecosystem/Heath.internal.md) 
+
+### #is_/same_as :: [Heath.protect](/_protect/bio/Ecology/Ecosystem/Heath.protect.md) 
+
+### #is_/same_as :: [Heath.private](/_private/bio/Ecology/Ecosystem/Heath.private.md) 
+
+### #is_/same_as :: [Heath.personal](/_personal/bio/Ecology/Ecosystem/Heath.personal.md) 
+
+### #is_/same_as :: [Heath.secret](/_secret/bio/Ecology/Ecosystem/Heath.secret.md)
+

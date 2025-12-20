@@ -40,17 +40,17 @@ The conventional Western system of medicine, that aims to apply the best availab
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [western_conventional](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.md) 
+### #is_/same_as :: [Western_Conventional](/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.md) 
 
-### #is_/same_as :: [western_conventional.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.public.md) 
+### #is_/same_as :: [Western_Conventional.public](/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.public.md) 
 
-### #is_/same_as :: [western_conventional.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.internal.md) 
+### #is_/same_as :: [Western_Conventional.internal](/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.internal.md) 
 
-### #is_/same_as :: [western_conventional.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.protect.md) 
+### #is_/same_as :: [Western_Conventional.protect](/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.protect.md) 
 
-### #is_/same_as :: [western_conventional.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.private.md) 
+### #is_/same_as :: [Western_Conventional.private](/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.private.md) 
 
-### #is_/same_as :: [western_conventional.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.personal.md) 
+### #is_/same_as :: [Western_Conventional.personal](/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.personal.md) 
 
-### #is_/same_as :: [western_conventional.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.secret.md)
+### #is_/same_as :: [Western_Conventional.secret](/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Western_Conventional.secret.md)
 

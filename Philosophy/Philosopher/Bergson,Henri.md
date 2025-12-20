@@ -152,3 +152,22 @@ Wolfram_Language_entity_code: Entity["Concept", "Bergson::4hrwk"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Henri%20Bergson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bergson,Henri](/_Standards/Philosophy/Philosopher/Bergson,Henri.md) 
+
+### #is_/same_as :: [Bergson,Henri.public](/_public/Philosophy/Philosopher/Bergson,Henri.public.md) 
+
+### #is_/same_as :: [Bergson,Henri.internal](/_internal/Philosophy/Philosopher/Bergson,Henri.internal.md) 
+
+### #is_/same_as :: [Bergson,Henri.protect](/_protect/Philosophy/Philosopher/Bergson,Henri.protect.md) 
+
+### #is_/same_as :: [Bergson,Henri.private](/_private/Philosophy/Philosopher/Bergson,Henri.private.md) 
+
+### #is_/same_as :: [Bergson,Henri.personal](/_personal/Philosophy/Philosopher/Bergson,Henri.personal.md) 
+
+### #is_/same_as :: [Bergson,Henri.secret](/_secret/Philosophy/Philosopher/Bergson,Henri.secret.md)
+

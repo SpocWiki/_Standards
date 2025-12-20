@@ -115,3 +115,22 @@ date_of_birth: 1924-04-16T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Mancini) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mancini,Henry](/_Standards/Society/Communication/Media/Music/Composer/Mancini,Henry.md) 
+
+### #is_/same_as :: [Mancini,Henry.public](/_public/Society/Communication/Media/Music/Composer/Mancini,Henry.public.md) 
+
+### #is_/same_as :: [Mancini,Henry.internal](/_internal/Society/Communication/Media/Music/Composer/Mancini,Henry.internal.md) 
+
+### #is_/same_as :: [Mancini,Henry.protect](/_protect/Society/Communication/Media/Music/Composer/Mancini,Henry.protect.md) 
+
+### #is_/same_as :: [Mancini,Henry.private](/_private/Society/Communication/Media/Music/Composer/Mancini,Henry.private.md) 
+
+### #is_/same_as :: [Mancini,Henry.personal](/_personal/Society/Communication/Media/Music/Composer/Mancini,Henry.personal.md) 
+
+### #is_/same_as :: [Mancini,Henry.secret](/_secret/Society/Communication/Media/Music/Composer/Mancini,Henry.secret.md)
+

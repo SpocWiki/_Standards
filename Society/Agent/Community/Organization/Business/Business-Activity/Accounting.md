@@ -59,17 +59,17 @@ MeSH_tree_code: N03.219.463.030
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Accounting](/_Standards/Society/Economics/Business/Business-Activity/Accounting.md) 
+### #is_/same_as :: [Accounting](/_Standards/Society/Agent/Community/Organization/Business/Business-Activity/Accounting.md) 
 
-### #is_/same_as :: [Accounting.public](/_public/Society/Economics/Business/Business-Activity/Accounting.public.md) 
+### #is_/same_as :: [Accounting.public](/_public/Society/Agent/Community/Organization/Business/Business-Activity/Accounting.public.md) 
 
-### #is_/same_as :: [Accounting.internal](/_internal/Society/Economics/Business/Business-Activity/Accounting.internal.md) 
+### #is_/same_as :: [Accounting.internal](/_internal/Society/Agent/Community/Organization/Business/Business-Activity/Accounting.internal.md) 
 
-### #is_/same_as :: [Accounting.protect](/_protect/Society/Economics/Business/Business-Activity/Accounting.protect.md) 
+### #is_/same_as :: [Accounting.protect](/_protect/Society/Agent/Community/Organization/Business/Business-Activity/Accounting.protect.md) 
 
-### #is_/same_as :: [Accounting.private](/_private/Society/Economics/Business/Business-Activity/Accounting.private.md) 
+### #is_/same_as :: [Accounting.private](/_private/Society/Agent/Community/Organization/Business/Business-Activity/Accounting.private.md) 
 
-### #is_/same_as :: [Accounting.personal](/_personal/Society/Economics/Business/Business-Activity/Accounting.personal.md) 
+### #is_/same_as :: [Accounting.personal](/_personal/Society/Agent/Community/Organization/Business/Business-Activity/Accounting.personal.md) 
 
-### #is_/same_as :: [Accounting.secret](/_secret/Society/Economics/Business/Business-Activity/Accounting.secret.md)
+### #is_/same_as :: [Accounting.secret](/_secret/Society/Agent/Community/Organization/Business/Business-Activity/Accounting.secret.md)
 

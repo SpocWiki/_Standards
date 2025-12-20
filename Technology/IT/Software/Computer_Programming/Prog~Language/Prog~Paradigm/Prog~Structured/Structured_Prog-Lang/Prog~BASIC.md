@@ -69,3 +69,22 @@ the system would use time-sharing, a new language would be needed, to get users 
 After several Experiments with Freshment using ALGOL and FORTRAN, they decided to develop a new, better-to-read Language. 
 
 The new language was heavily patterned on FORTRAN II; statements were one-to-a-line, numbers were used to indicate the target of loops and branches, and many of the commands were similar or identical to Fortran. However, the [syntax](https://en.wikipedia.org/wiki/Syntax_(programming_languages) "Syntax (programming languages)") was changed wherever it could be improved. For instance, the difficult to remember `DO` loop was replaced by the much easier to remember `FOR I = 1 TO 10 STEP 2`, and the line number used in the DO was instead indicated by the `NEXT I`.[[a]](https://en.wikipedia.org/wiki/BASIC#cite_note-9) Likewise, the cryptic `IF` statement of Fortran, whose syntax matched a particular instruction of the machine on which it was originally written, became the simpler `IF I=5 THEN GOTO 100`. These changes made the language much less idiosyncratic while still having an overall structure and feel similar to the original FORTRAN. 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~BASIC](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.md) 
+
+### #is_/same_as :: [Prog~BASIC.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.public.md) 
+
+### #is_/same_as :: [Prog~BASIC.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.internal.md) 
+
+### #is_/same_as :: [Prog~BASIC.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.protect.md) 
+
+### #is_/same_as :: [Prog~BASIC.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.private.md) 
+
+### #is_/same_as :: [Prog~BASIC.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.personal.md) 
+
+### #is_/same_as :: [Prog~BASIC.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~BASIC.secret.md)
+

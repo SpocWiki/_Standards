@@ -41,17 +41,17 @@ A specific and exact (byte-for-byte) version of an [[ImageObject]]. Two byte-for
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Image_Object_Snapshot](Image_Object_Snapshot.md) 
+### #is_/same_as :: [Image_Object_Snapshot](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.md) 
 
-### #is_/same_as :: [Image_Object_Snapshot.public](/_public/Society/Communication/Media/Media_Object/Image_Object/Image_Object_Snapshot.public.md) 
+### #is_/same_as :: [Image_Object_Snapshot.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.public.md) 
 
-### #is_/same_as :: [Image_Object_Snapshot.internal](/_internal/Society/Communication/Media/Media_Object/Image_Object/Image_Object_Snapshot.internal.md) 
+### #is_/same_as :: [Image_Object_Snapshot.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.internal.md) 
 
-### #is_/same_as :: [Image_Object_Snapshot.protect](/_protect/Society/Communication/Media/Media_Object/Image_Object/Image_Object_Snapshot.protect.md) 
+### #is_/same_as :: [Image_Object_Snapshot.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.protect.md) 
 
-### #is_/same_as :: [Image_Object_Snapshot.private](/_private/Society/Communication/Media/Media_Object/Image_Object/Image_Object_Snapshot.private.md) 
+### #is_/same_as :: [Image_Object_Snapshot.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.private.md) 
 
-### #is_/same_as :: [Image_Object_Snapshot.personal](/_personal/Society/Communication/Media/Media_Object/Image_Object/Image_Object_Snapshot.personal.md) 
+### #is_/same_as :: [Image_Object_Snapshot.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.personal.md) 
 
-### #is_/same_as :: [Image_Object_Snapshot.secret](/_secret/Society/Communication/Media/Media_Object/Image_Object/Image_Object_Snapshot.secret.md)
+### #is_/same_as :: [Image_Object_Snapshot.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.secret.md)
 

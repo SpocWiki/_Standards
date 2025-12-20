@@ -35,3 +35,22 @@ taxon_name: Rhincodon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Whale%20shark) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rhincodon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodon.md) 
+
+### #is_/same_as :: [Rhincodon.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodon.public.md) 
+
+### #is_/same_as :: [Rhincodon.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodon.internal.md) 
+
+### #is_/same_as :: [Rhincodon.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodon.protect.md) 
+
+### #is_/same_as :: [Rhincodon.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodon.private.md) 
+
+### #is_/same_as :: [Rhincodon.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodon.personal.md) 
+
+### #is_/same_as :: [Rhincodon.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodon.secret.md)
+

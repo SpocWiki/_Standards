@@ -19,3 +19,22 @@ Unable to continue building computers
 Zuse devoted his time to the development of a higher-level programming model and language.
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plankalkül](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.md) 
+
+### #is_/same_as :: [Plankalkül.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.public.md) 
+
+### #is_/same_as :: [Plankalkül.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.internal.md) 
+
+### #is_/same_as :: [Plankalkül.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.protect.md) 
+
+### #is_/same_as :: [Plankalkül.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.private.md) 
+
+### #is_/same_as :: [Plankalkül.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.personal.md) 
+
+### #is_/same_as :: [Plankalkül.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.secret.md)
+

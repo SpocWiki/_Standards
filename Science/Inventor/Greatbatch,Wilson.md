@@ -52,3 +52,22 @@ date_of_birth: 1919-09-06T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wilson%20Greatbatch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Greatbatch,Wilson](/_Standards/Science/Inventor/Greatbatch,Wilson.md) 
+
+### #is_/same_as :: [Greatbatch,Wilson.public](/_public/Science/Inventor/Greatbatch,Wilson.public.md) 
+
+### #is_/same_as :: [Greatbatch,Wilson.internal](/_internal/Science/Inventor/Greatbatch,Wilson.internal.md) 
+
+### #is_/same_as :: [Greatbatch,Wilson.protect](/_protect/Science/Inventor/Greatbatch,Wilson.protect.md) 
+
+### #is_/same_as :: [Greatbatch,Wilson.private](/_private/Science/Inventor/Greatbatch,Wilson.private.md) 
+
+### #is_/same_as :: [Greatbatch,Wilson.personal](/_personal/Science/Inventor/Greatbatch,Wilson.personal.md) 
+
+### #is_/same_as :: [Greatbatch,Wilson.secret](/_secret/Science/Inventor/Greatbatch,Wilson.secret.md)
+

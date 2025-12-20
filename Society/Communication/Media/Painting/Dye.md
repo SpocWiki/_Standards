@@ -43,3 +43,22 @@ Commons_category: Dyes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dye) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dye](/_Standards/Society/Communication/Media/Painting/Dye.md) 
+
+### #is_/same_as :: [Dye.public](/_public/Society/Communication/Media/Painting/Dye.public.md) 
+
+### #is_/same_as :: [Dye.internal](/_internal/Society/Communication/Media/Painting/Dye.internal.md) 
+
+### #is_/same_as :: [Dye.protect](/_protect/Society/Communication/Media/Painting/Dye.protect.md) 
+
+### #is_/same_as :: [Dye.private](/_private/Society/Communication/Media/Painting/Dye.private.md) 
+
+### #is_/same_as :: [Dye.personal](/_personal/Society/Communication/Media/Painting/Dye.personal.md) 
+
+### #is_/same_as :: [Dye.secret](/_secret/Society/Communication/Media/Painting/Dye.secret.md)
+

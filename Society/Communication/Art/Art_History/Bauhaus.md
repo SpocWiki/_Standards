@@ -59,3 +59,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bauhaus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bauhaus](/_Standards/Society/Communication/Art/Art_History/Bauhaus.md) 
+
+### #is_/same_as :: [Bauhaus.public](/_public/Society/Communication/Art/Art_History/Bauhaus.public.md) 
+
+### #is_/same_as :: [Bauhaus.internal](/_internal/Society/Communication/Art/Art_History/Bauhaus.internal.md) 
+
+### #is_/same_as :: [Bauhaus.protect](/_protect/Society/Communication/Art/Art_History/Bauhaus.protect.md) 
+
+### #is_/same_as :: [Bauhaus.private](/_private/Society/Communication/Art/Art_History/Bauhaus.private.md) 
+
+### #is_/same_as :: [Bauhaus.personal](/_personal/Society/Communication/Art/Art_History/Bauhaus.personal.md) 
+
+### #is_/same_as :: [Bauhaus.secret](/_secret/Society/Communication/Art/Art_History/Bauhaus.secret.md)
+

@@ -42,17 +42,17 @@ Stages that can be observed from a topic.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stages_Health_Aspect](Stages_Health_Aspect.md) 
+### #is_/same_as :: [Stages_Health_Aspect](/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/Stages_Health_Aspect.md) 
 
-### #is_/same_as :: [stages_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/stages_health_aspect.public.md) 
+### #is_/same_as :: [Stages_Health_Aspect.public](/_public/schema-org/Enumeration/Health_Aspect_Enumeration/Stages_Health_Aspect.public.md) 
 
-### #is_/same_as :: [stages_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/stages_health_aspect.internal.md) 
+### #is_/same_as :: [Stages_Health_Aspect.internal](/_internal/schema-org/Enumeration/Health_Aspect_Enumeration/Stages_Health_Aspect.internal.md) 
 
-### #is_/same_as :: [stages_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/stages_health_aspect.protect.md) 
+### #is_/same_as :: [Stages_Health_Aspect.protect](/_protect/schema-org/Enumeration/Health_Aspect_Enumeration/Stages_Health_Aspect.protect.md) 
 
-### #is_/same_as :: [stages_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/stages_health_aspect.private.md) 
+### #is_/same_as :: [Stages_Health_Aspect.private](/_private/schema-org/Enumeration/Health_Aspect_Enumeration/Stages_Health_Aspect.private.md) 
 
-### #is_/same_as :: [stages_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/stages_health_aspect.personal.md) 
+### #is_/same_as :: [Stages_Health_Aspect.personal](/_personal/schema-org/Enumeration/Health_Aspect_Enumeration/Stages_Health_Aspect.personal.md) 
 
-### #is_/same_as :: [stages_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/stages_health_aspect.secret.md)
+### #is_/same_as :: [Stages_Health_Aspect.secret](/_secret/schema-org/Enumeration/Health_Aspect_Enumeration/Stages_Health_Aspect.secret.md)
 

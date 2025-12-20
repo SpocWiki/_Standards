@@ -67,3 +67,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Radio%20wave) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Radio_Wave](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Radio_Wave.md) 
+
+### #is_/same_as :: [Radio_Wave.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Radio_Wave.public.md) 
+
+### #is_/same_as :: [Radio_Wave.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Radio_Wave.internal.md) 
+
+### #is_/same_as :: [Radio_Wave.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Radio_Wave.protect.md) 
+
+### #is_/same_as :: [Radio_Wave.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Radio_Wave.private.md) 
+
+### #is_/same_as :: [Radio_Wave.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Radio_Wave.personal.md) 
+
+### #is_/same_as :: [Radio_Wave.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Radio_Wave.secret.md)
+

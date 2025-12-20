@@ -95,3 +95,22 @@ Dewey_Decimal_Classification: "523.887"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/White%20dwarf) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [White_Dwarf](/_Standards/Astronomy/Star/Star~Class/White_Dwarf.md) 
+
+### #is_/same_as :: [White_Dwarf.public](/_public/Astronomy/Star/Star~Class/White_Dwarf.public.md) 
+
+### #is_/same_as :: [White_Dwarf.internal](/_internal/Astronomy/Star/Star~Class/White_Dwarf.internal.md) 
+
+### #is_/same_as :: [White_Dwarf.protect](/_protect/Astronomy/Star/Star~Class/White_Dwarf.protect.md) 
+
+### #is_/same_as :: [White_Dwarf.private](/_private/Astronomy/Star/Star~Class/White_Dwarf.private.md) 
+
+### #is_/same_as :: [White_Dwarf.personal](/_personal/Astronomy/Star/Star~Class/White_Dwarf.personal.md) 
+
+### #is_/same_as :: [White_Dwarf.secret](/_secret/Astronomy/Star/Star~Class/White_Dwarf.secret.md)
+

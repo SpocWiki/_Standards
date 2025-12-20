@@ -42,17 +42,17 @@ Nonprofit501c14: Non-profit type referring to State~Chartered Credit Unions, Mut
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c14](Nonprofit501c14.md) 
+### #is_/same_as :: [Nonprofit501c14](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.md) 
 
-### #is_/same_as :: [nonprofit501c14.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.public.md) 
+### #is_/same_as :: [Nonprofit501c14.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.public.md) 
 
-### #is_/same_as :: [nonprofit501c14.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.internal.md) 
+### #is_/same_as :: [Nonprofit501c14.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.internal.md) 
 
-### #is_/same_as :: [nonprofit501c14.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.protect.md) 
+### #is_/same_as :: [Nonprofit501c14.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.protect.md) 
 
-### #is_/same_as :: [nonprofit501c14.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.private.md) 
+### #is_/same_as :: [Nonprofit501c14.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.private.md) 
 
-### #is_/same_as :: [nonprofit501c14.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.personal.md) 
+### #is_/same_as :: [Nonprofit501c14.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.personal.md) 
 
-### #is_/same_as :: [nonprofit501c14.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.secret.md)
+### #is_/same_as :: [Nonprofit501c14.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.secret.md)
 

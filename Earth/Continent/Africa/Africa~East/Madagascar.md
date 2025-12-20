@@ -161,6 +161,7 @@ Capital :: [[Antananarivo]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Madagascar)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Madagascar](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar.md) 

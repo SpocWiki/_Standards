@@ -94,7 +94,7 @@ rDNA ITS regions. Mycological Research 106: 156-163.
   Life Cycle Stage ::     Mycoparasitic anamorph of Helicobasidium purpureum Pat.
   Collection           1999
   Copyright ::            © 1999 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

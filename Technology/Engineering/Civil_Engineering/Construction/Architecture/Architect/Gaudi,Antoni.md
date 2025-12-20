@@ -48,17 +48,17 @@ has_id_wikidata: Q25328
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gaudi,Antoni](Gaudi,Antoni.md) 
+### #is_/same_as :: [Gaudi,Antoni](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.md) 
 
-### #is_/same_as :: [Gaudi,Antoni.public](/_public/Technology/Construction/Architecture/Architect/Gaudi,Antoni.public.md) 
+### #is_/same_as :: [Gaudi,Antoni.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.public.md) 
 
-### #is_/same_as :: [Gaudi,Antoni.internal](/_internal/Technology/Construction/Architecture/Architect/Gaudi,Antoni.internal.md) 
+### #is_/same_as :: [Gaudi,Antoni.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.internal.md) 
 
-### #is_/same_as :: [Gaudi,Antoni.protect](/_protect/Technology/Construction/Architecture/Architect/Gaudi,Antoni.protect.md) 
+### #is_/same_as :: [Gaudi,Antoni.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.protect.md) 
 
-### #is_/same_as :: [Gaudi,Antoni.private](/_private/Technology/Construction/Architecture/Architect/Gaudi,Antoni.private.md) 
+### #is_/same_as :: [Gaudi,Antoni.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.private.md) 
 
-### #is_/same_as :: [Gaudi,Antoni.personal](/_personal/Technology/Construction/Architecture/Architect/Gaudi,Antoni.personal.md) 
+### #is_/same_as :: [Gaudi,Antoni.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.personal.md) 
 
-### #is_/same_as :: [Gaudi,Antoni.secret](/_secret/Technology/Construction/Architecture/Architect/Gaudi,Antoni.secret.md)
+### #is_/same_as :: [Gaudi,Antoni.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.secret.md)
 

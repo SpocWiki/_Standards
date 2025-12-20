@@ -115,7 +115,7 @@ of Kansas Press, Lawrence.
   View                 Calicular and basal views
   Size                 Greater calicular diameter 30 mm
   Copyright ::            © 2002 [Stephen D. Cairns](mailto:cairns.stephen@nmnh.si.edu) 
-  ----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

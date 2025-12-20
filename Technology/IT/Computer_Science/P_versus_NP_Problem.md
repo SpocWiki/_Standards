@@ -66,3 +66,22 @@ Stack_Exchange_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/P%20versus%20NP%20problem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [P_versus_NP_Problem](/_Standards/Technology/IT/Computer_Science/P_versus_NP_Problem.md) 
+
+### #is_/same_as :: [P_versus_NP_Problem.public](/_public/Technology/IT/Computer_Science/P_versus_NP_Problem.public.md) 
+
+### #is_/same_as :: [P_versus_NP_Problem.internal](/_internal/Technology/IT/Computer_Science/P_versus_NP_Problem.internal.md) 
+
+### #is_/same_as :: [P_versus_NP_Problem.protect](/_protect/Technology/IT/Computer_Science/P_versus_NP_Problem.protect.md) 
+
+### #is_/same_as :: [P_versus_NP_Problem.private](/_private/Technology/IT/Computer_Science/P_versus_NP_Problem.private.md) 
+
+### #is_/same_as :: [P_versus_NP_Problem.personal](/_personal/Technology/IT/Computer_Science/P_versus_NP_Problem.personal.md) 
+
+### #is_/same_as :: [P_versus_NP_Problem.secret](/_secret/Technology/IT/Computer_Science/P_versus_NP_Problem.secret.md)
+

@@ -40,17 +40,17 @@ A DeliveryMethod in which an item is collected on site, e.g. in a store or at a 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [On_Site_Pickup](On_Site_Pickup.md) 
+### #is_/same_as :: [On_Site_Pickup](/_Standards/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.md) 
 
-### #is_/same_as :: [on_site_pickup.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.public.md) 
+### #is_/same_as :: [On_Site_Pickup.public](/_public/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.public.md) 
 
-### #is_/same_as :: [on_site_pickup.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.internal.md) 
+### #is_/same_as :: [On_Site_Pickup.internal](/_internal/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.internal.md) 
 
-### #is_/same_as :: [on_site_pickup.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.protect.md) 
+### #is_/same_as :: [On_Site_Pickup.protect](/_protect/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.protect.md) 
 
-### #is_/same_as :: [on_site_pickup.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.private.md) 
+### #is_/same_as :: [On_Site_Pickup.private](/_private/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.private.md) 
 
-### #is_/same_as :: [on_site_pickup.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.personal.md) 
+### #is_/same_as :: [On_Site_Pickup.personal](/_personal/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.personal.md) 
 
-### #is_/same_as :: [on_site_pickup.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.secret.md)
+### #is_/same_as :: [On_Site_Pickup.secret](/_secret/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.secret.md)
 

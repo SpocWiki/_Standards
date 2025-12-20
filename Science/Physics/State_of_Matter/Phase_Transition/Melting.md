@@ -54,3 +54,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Melting) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Melting](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Melting.md) 
+
+### #is_/same_as :: [Melting.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Melting.public.md) 
+
+### #is_/same_as :: [Melting.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Melting.internal.md) 
+
+### #is_/same_as :: [Melting.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Melting.protect.md) 
+
+### #is_/same_as :: [Melting.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Melting.private.md) 
+
+### #is_/same_as :: [Melting.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Melting.personal.md) 
+
+### #is_/same_as :: [Melting.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Melting.secret.md)
+

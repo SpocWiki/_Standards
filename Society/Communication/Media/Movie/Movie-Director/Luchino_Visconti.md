@@ -103,3 +103,22 @@ ISNI: "0000000121318788"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Luchino%20Visconti) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Luchino_Visconti](/_Standards/Society/Communication/Media/Movie/Movie-Director/Luchino_Visconti.md) 
+
+### #is_/same_as :: [Luchino_Visconti.public](/_public/Society/Communication/Media/Movie/Movie-Director/Luchino_Visconti.public.md) 
+
+### #is_/same_as :: [Luchino_Visconti.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Luchino_Visconti.internal.md) 
+
+### #is_/same_as :: [Luchino_Visconti.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Luchino_Visconti.protect.md) 
+
+### #is_/same_as :: [Luchino_Visconti.private](/_private/Society/Communication/Media/Movie/Movie-Director/Luchino_Visconti.private.md) 
+
+### #is_/same_as :: [Luchino_Visconti.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Luchino_Visconti.personal.md) 
+
+### #is_/same_as :: [Luchino_Visconti.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Luchino_Visconti.secret.md)
+

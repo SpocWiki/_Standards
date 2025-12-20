@@ -193,3 +193,22 @@ official_website: http://www.freddiemercury.com
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mercury,Freddie](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Mercury,Freddie.md) 
+
+### #is_/same_as :: [Mercury,Freddie.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Mercury,Freddie.public.md) 
+
+### #is_/same_as :: [Mercury,Freddie.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Mercury,Freddie.internal.md) 
+
+### #is_/same_as :: [Mercury,Freddie.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Mercury,Freddie.protect.md) 
+
+### #is_/same_as :: [Mercury,Freddie.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Mercury,Freddie.private.md) 
+
+### #is_/same_as :: [Mercury,Freddie.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Mercury,Freddie.personal.md) 
+
+### #is_/same_as :: [Mercury,Freddie.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Mercury,Freddie.secret.md)
+

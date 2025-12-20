@@ -40,17 +40,17 @@ A Property value specification.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [property_value_specification](/_Standards/schema-org/Class/is_a_/Intangible/property_value_specification.md) 
+### #is_/same_as :: [Property_Value_Specification](/_Standards/schema-org/Class/is_a_/Intangible/Property_Value_Specification.md) 
 
-### #is_/same_as :: [property_value_specification.public](/_public/schema-org/Class/is_a_/Intangible/property_value_specification.public.md) 
+### #is_/same_as :: [Property_Value_Specification.public](/_public/schema-org/Class/is_a_/Intangible/Property_Value_Specification.public.md) 
 
-### #is_/same_as :: [property_value_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/property_value_specification.internal.md) 
+### #is_/same_as :: [Property_Value_Specification.internal](/_internal/schema-org/Class/is_a_/Intangible/Property_Value_Specification.internal.md) 
 
-### #is_/same_as :: [property_value_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/property_value_specification.protect.md) 
+### #is_/same_as :: [Property_Value_Specification.protect](/_protect/schema-org/Class/is_a_/Intangible/Property_Value_Specification.protect.md) 
 
-### #is_/same_as :: [property_value_specification.private](/_private/schema-org/Class/is_a_/Intangible/property_value_specification.private.md) 
+### #is_/same_as :: [Property_Value_Specification.private](/_private/schema-org/Class/is_a_/Intangible/Property_Value_Specification.private.md) 
 
-### #is_/same_as :: [property_value_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/property_value_specification.personal.md) 
+### #is_/same_as :: [Property_Value_Specification.personal](/_personal/schema-org/Class/is_a_/Intangible/Property_Value_Specification.personal.md) 
 
-### #is_/same_as :: [property_value_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/property_value_specification.secret.md)
+### #is_/same_as :: [Property_Value_Specification.secret](/_secret/schema-org/Class/is_a_/Intangible/Property_Value_Specification.secret.md)
 

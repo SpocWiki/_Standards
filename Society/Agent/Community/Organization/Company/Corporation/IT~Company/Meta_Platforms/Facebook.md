@@ -165,17 +165,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Facebook](Facebook.md) 
+### #is_/same_as :: [Facebook](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.md) 
 
-### #is_/same_as :: [Facebook.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Facebook.public.md) 
+### #is_/same_as :: [Facebook.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.public.md) 
 
-### #is_/same_as :: [Facebook.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Facebook.internal.md) 
+### #is_/same_as :: [Facebook.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.internal.md) 
 
-### #is_/same_as :: [Facebook.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Facebook.protect.md) 
+### #is_/same_as :: [Facebook.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.protect.md) 
 
-### #is_/same_as :: [Facebook.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Facebook.private.md) 
+### #is_/same_as :: [Facebook.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.private.md) 
 
-### #is_/same_as :: [Facebook.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Facebook.personal.md) 
+### #is_/same_as :: [Facebook.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.personal.md) 
 
-### #is_/same_as :: [Facebook.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Facebook.secret.md)
+### #is_/same_as :: [Facebook.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.secret.md)
 

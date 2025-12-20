@@ -40,3 +40,22 @@ subclass_of: "[[_Standards/WikiData/WD~reparations,7313909]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/War%20reparations) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [War_Reparations](/_Standards/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.md) 
+
+### #is_/same_as :: [War_Reparations.public](/_public/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.public.md) 
+
+### #is_/same_as :: [War_Reparations.internal](/_internal/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.internal.md) 
+
+### #is_/same_as :: [War_Reparations.protect](/_protect/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.protect.md) 
+
+### #is_/same_as :: [War_Reparations.private](/_private/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.private.md) 
+
+### #is_/same_as :: [War_Reparations.personal](/_personal/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.personal.md) 
+
+### #is_/same_as :: [War_Reparations.secret](/_secret/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.secret.md)
+

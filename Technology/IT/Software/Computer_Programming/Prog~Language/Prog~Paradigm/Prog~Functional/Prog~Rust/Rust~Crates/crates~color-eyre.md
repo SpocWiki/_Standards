@@ -24,3 +24,22 @@ Stderr:
 Suggestion: try using a file that exists next time
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [crates~color-eyre](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~color-eyre.md) 
+
+### #is_/same_as :: [crates~color-eyre.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~color-eyre.public.md) 
+
+### #is_/same_as :: [crates~color-eyre.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~color-eyre.internal.md) 
+
+### #is_/same_as :: [crates~color-eyre.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~color-eyre.protect.md) 
+
+### #is_/same_as :: [crates~color-eyre.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~color-eyre.private.md) 
+
+### #is_/same_as :: [crates~color-eyre.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~color-eyre.personal.md) 
+
+### #is_/same_as :: [crates~color-eyre.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~color-eyre.secret.md)
+

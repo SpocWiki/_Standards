@@ -45,3 +45,22 @@ Commons_category: Millennia
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Millennium) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Millennium](/_Standards/ISO/Calendar/Millennium.md) 
+
+### #is_/same_as :: [Millennium.public](/_public/ISO/Calendar/Millennium.public.md) 
+
+### #is_/same_as :: [Millennium.internal](/_internal/ISO/Calendar/Millennium.internal.md) 
+
+### #is_/same_as :: [Millennium.protect](/_protect/ISO/Calendar/Millennium.protect.md) 
+
+### #is_/same_as :: [Millennium.private](/_private/ISO/Calendar/Millennium.private.md) 
+
+### #is_/same_as :: [Millennium.personal](/_personal/ISO/Calendar/Millennium.personal.md) 
+
+### #is_/same_as :: [Millennium.secret](/_secret/ISO/Calendar/Millennium.secret.md)
+

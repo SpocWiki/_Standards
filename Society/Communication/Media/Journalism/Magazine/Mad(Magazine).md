@@ -56,3 +56,22 @@ Facebook_username: MADMagazine
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mad%20(magazine)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mad(Magazine)](/_Standards/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).md) 
+
+### #is_/same_as :: [Mad(Magazine).public](/_public/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).public.md) 
+
+### #is_/same_as :: [Mad(Magazine).internal](/_internal/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).internal.md) 
+
+### #is_/same_as :: [Mad(Magazine).protect](/_protect/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).protect.md) 
+
+### #is_/same_as :: [Mad(Magazine).private](/_private/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).private.md) 
+
+### #is_/same_as :: [Mad(Magazine).personal](/_personal/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).personal.md) 
+
+### #is_/same_as :: [Mad(Magazine).secret](/_secret/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).secret.md)
+

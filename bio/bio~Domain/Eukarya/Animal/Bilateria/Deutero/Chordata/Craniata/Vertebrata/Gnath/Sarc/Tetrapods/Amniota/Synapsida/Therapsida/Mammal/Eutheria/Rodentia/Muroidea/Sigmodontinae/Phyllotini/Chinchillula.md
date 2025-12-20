@@ -83,7 +83,7 @@ Figure 1. **Chinchillula sahamae**, copyright © O. Pearson.
 
   --------
   Copyright ::   © 1997 O. Pearson
-  --------
+  --------
 
 
 ## Confidential Links & Embeds: 

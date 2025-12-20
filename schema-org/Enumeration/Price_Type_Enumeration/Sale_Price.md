@@ -42,17 +42,17 @@ Represents a sale price (usually active for a limited period) of an offered prod
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sale_Price](Sale_Price.md) 
+### #is_/same_as :: [Sale_Price](/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.md) 
 
-### #is_/same_as :: [sale_price.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/sale_price.public.md) 
+### #is_/same_as :: [Sale_Price.public](/_public/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.public.md) 
 
-### #is_/same_as :: [sale_price.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/sale_price.internal.md) 
+### #is_/same_as :: [Sale_Price.internal](/_internal/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.internal.md) 
 
-### #is_/same_as :: [sale_price.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/sale_price.protect.md) 
+### #is_/same_as :: [Sale_Price.protect](/_protect/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.protect.md) 
 
-### #is_/same_as :: [sale_price.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/sale_price.private.md) 
+### #is_/same_as :: [Sale_Price.private](/_private/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.private.md) 
 
-### #is_/same_as :: [sale_price.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/sale_price.personal.md) 
+### #is_/same_as :: [Sale_Price.personal](/_personal/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.personal.md) 
 
-### #is_/same_as :: [sale_price.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/sale_price.secret.md)
+### #is_/same_as :: [Sale_Price.secret](/_secret/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.secret.md)
 

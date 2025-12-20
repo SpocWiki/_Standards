@@ -25,3 +25,22 @@ taxon_name: Ornithorhynchoidea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ornithorhynchoidea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ornithorhynchoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea.md) 
+
+### #is_/same_as :: [Ornithorhynchoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea.public.md) 
+
+### #is_/same_as :: [Ornithorhynchoidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea.internal.md) 
+
+### #is_/same_as :: [Ornithorhynchoidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea.protect.md) 
+
+### #is_/same_as :: [Ornithorhynchoidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea.private.md) 
+
+### #is_/same_as :: [Ornithorhynchoidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea.personal.md) 
+
+### #is_/same_as :: [Ornithorhynchoidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea.secret.md)
+

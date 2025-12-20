@@ -55,17 +55,17 @@ OpenStreetMap_tag: sport=judo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Judo](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Judo.md) 
+### #is_/same_as :: [Judo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Judo.md) 
 
-### #is_/same_as :: [Judo.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Judo.public.md) 
+### #is_/same_as :: [Judo.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Judo.public.md) 
 
-### #is_/same_as :: [Judo.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Judo.internal.md) 
+### #is_/same_as :: [Judo.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Judo.internal.md) 
 
-### #is_/same_as :: [Judo.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Judo.protect.md) 
+### #is_/same_as :: [Judo.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Judo.protect.md) 
 
-### #is_/same_as :: [Judo.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Judo.private.md) 
+### #is_/same_as :: [Judo.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Judo.private.md) 
 
-### #is_/same_as :: [Judo.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Judo.personal.md) 
+### #is_/same_as :: [Judo.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Judo.personal.md) 
 
-### #is_/same_as :: [Judo.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Judo.secret.md)
+### #is_/same_as :: [Judo.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Judo.secret.md)
 

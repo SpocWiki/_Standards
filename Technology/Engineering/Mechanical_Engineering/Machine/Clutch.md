@@ -37,3 +37,22 @@ Commons_category: Clutches
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Clutch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Clutch](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.md) 
+
+### #is_/same_as :: [Clutch.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.public.md) 
+
+### #is_/same_as :: [Clutch.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.internal.md) 
+
+### #is_/same_as :: [Clutch.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.protect.md) 
+
+### #is_/same_as :: [Clutch.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.private.md) 
+
+### #is_/same_as :: [Clutch.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.personal.md) 
+
+### #is_/same_as :: [Clutch.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.secret.md)
+

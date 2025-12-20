@@ -132,3 +132,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/LOMONOSOV_MIHAIL_VASILEVICH.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mikhail%20Lomonosov) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lomonosov,Mikhail](/_Standards/Science/Polymath/Lomonosov,Mikhail.md) 
+
+### #is_/same_as :: [Lomonosov,Mikhail.public](/_public/Science/Polymath/Lomonosov,Mikhail.public.md) 
+
+### #is_/same_as :: [Lomonosov,Mikhail.internal](/_internal/Science/Polymath/Lomonosov,Mikhail.internal.md) 
+
+### #is_/same_as :: [Lomonosov,Mikhail.protect](/_protect/Science/Polymath/Lomonosov,Mikhail.protect.md) 
+
+### #is_/same_as :: [Lomonosov,Mikhail.private](/_private/Science/Polymath/Lomonosov,Mikhail.private.md) 
+
+### #is_/same_as :: [Lomonosov,Mikhail.personal](/_personal/Science/Polymath/Lomonosov,Mikhail.personal.md) 
+
+### #is_/same_as :: [Lomonosov,Mikhail.secret](/_secret/Science/Polymath/Lomonosov,Mikhail.secret.md)
+

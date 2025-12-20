@@ -39,3 +39,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Vergi
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Poisoning](/_Standards/bio/Medicine/Medical_Condition/Poisoning.md) 
+
+### #is_/same_as :: [Poisoning.public](/_public/bio/Medicine/Medical_Condition/Poisoning.public.md) 
+
+### #is_/same_as :: [Poisoning.internal](/_internal/bio/Medicine/Medical_Condition/Poisoning.internal.md) 
+
+### #is_/same_as :: [Poisoning.protect](/_protect/bio/Medicine/Medical_Condition/Poisoning.protect.md) 
+
+### #is_/same_as :: [Poisoning.private](/_private/bio/Medicine/Medical_Condition/Poisoning.private.md) 
+
+### #is_/same_as :: [Poisoning.personal](/_personal/bio/Medicine/Medical_Condition/Poisoning.personal.md) 
+
+### #is_/same_as :: [Poisoning.secret](/_secret/bio/Medicine/Medical_Condition/Poisoning.secret.md)
+

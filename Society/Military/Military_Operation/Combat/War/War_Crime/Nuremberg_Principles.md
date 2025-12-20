@@ -21,3 +21,22 @@ named_after: "[[_Standards/WikiData/WD~Nuremberg,2090]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuremberg%20principles) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nuremberg_Principles](/_Standards/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.md) 
+
+### #is_/same_as :: [Nuremberg_Principles.public](/_public/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.public.md) 
+
+### #is_/same_as :: [Nuremberg_Principles.internal](/_internal/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.internal.md) 
+
+### #is_/same_as :: [Nuremberg_Principles.protect](/_protect/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.protect.md) 
+
+### #is_/same_as :: [Nuremberg_Principles.private](/_private/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.private.md) 
+
+### #is_/same_as :: [Nuremberg_Principles.personal](/_personal/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.personal.md) 
+
+### #is_/same_as :: [Nuremberg_Principles.secret](/_secret/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.secret.md)
+

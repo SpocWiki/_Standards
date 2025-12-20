@@ -48,3 +48,22 @@ Commons_category: Polygons
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polygon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polygon](/_Standards/Mathematics/Geometry/Polygon.md) 
+
+### #is_/same_as :: [Polygon.public](/_public/Mathematics/Geometry/Polygon.public.md) 
+
+### #is_/same_as :: [Polygon.internal](/_internal/Mathematics/Geometry/Polygon.internal.md) 
+
+### #is_/same_as :: [Polygon.protect](/_protect/Mathematics/Geometry/Polygon.protect.md) 
+
+### #is_/same_as :: [Polygon.private](/_private/Mathematics/Geometry/Polygon.private.md) 
+
+### #is_/same_as :: [Polygon.personal](/_personal/Mathematics/Geometry/Polygon.personal.md) 
+
+### #is_/same_as :: [Polygon.secret](/_secret/Mathematics/Geometry/Polygon.secret.md)
+

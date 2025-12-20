@@ -118,3 +118,22 @@ UMLS_CUI: C0003455
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ant](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.md) 
+
+### #is_/same_as :: [Ant.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.public.md) 
+
+### #is_/same_as :: [Ant.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.internal.md) 
+
+### #is_/same_as :: [Ant.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.protect.md) 
+
+### #is_/same_as :: [Ant.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.private.md) 
+
+### #is_/same_as :: [Ant.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.personal.md) 
+
+### #is_/same_as :: [Ant.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Ant.secret.md)
+

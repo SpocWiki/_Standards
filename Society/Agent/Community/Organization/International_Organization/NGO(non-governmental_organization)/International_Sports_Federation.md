@@ -35,3 +35,22 @@ has_part_s_: "[[_Standards/WikiData/WD~National_Sports_governing_body,130405942]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sports%20governing%20body) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [International_Sports_Federation](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation.md) 
+
+### #is_/same_as :: [International_Sports_Federation.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation.public.md) 
+
+### #is_/same_as :: [International_Sports_Federation.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation.internal.md) 
+
+### #is_/same_as :: [International_Sports_Federation.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation.protect.md) 
+
+### #is_/same_as :: [International_Sports_Federation.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation.private.md) 
+
+### #is_/same_as :: [International_Sports_Federation.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation.personal.md) 
+
+### #is_/same_as :: [International_Sports_Federation.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation.secret.md)
+

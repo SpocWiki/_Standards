@@ -60,3 +60,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thor](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.md) 
+
+### #is_/same_as :: [Thor.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.public.md) 
+
+### #is_/same_as :: [Thor.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.internal.md) 
+
+### #is_/same_as :: [Thor.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.protect.md) 
+
+### #is_/same_as :: [Thor.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.private.md) 
+
+### #is_/same_as :: [Thor.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.personal.md) 
+
+### #is_/same_as :: [Thor.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.secret.md)
+

@@ -72,3 +72,22 @@ start_time: 1904-02-08T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Russo-Japanese%20War) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1904-Russo-Japanese_War+1905](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.md) 
+
+### #is_/same_as :: [1904-Russo-Japanese_War+1905.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.public.md) 
+
+### #is_/same_as :: [1904-Russo-Japanese_War+1905.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.internal.md) 
+
+### #is_/same_as :: [1904-Russo-Japanese_War+1905.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.protect.md) 
+
+### #is_/same_as :: [1904-Russo-Japanese_War+1905.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.private.md) 
+
+### #is_/same_as :: [1904-Russo-Japanese_War+1905.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.personal.md) 
+
+### #is_/same_as :: [1904-Russo-Japanese_War+1905.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.secret.md)
+

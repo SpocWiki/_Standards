@@ -86,3 +86,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Metropolitan%20Opera%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Entertainment) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Entertainment](/_Standards/Society/Communication/Media/Entertainment.md) 
+
+### #is_/same_as :: [Entertainment.public](/_public/Society/Communication/Media/Entertainment.public.md) 
+
+### #is_/same_as :: [Entertainment.internal](/_internal/Society/Communication/Media/Entertainment.internal.md) 
+
+### #is_/same_as :: [Entertainment.protect](/_protect/Society/Communication/Media/Entertainment.protect.md) 
+
+### #is_/same_as :: [Entertainment.private](/_private/Society/Communication/Media/Entertainment.private.md) 
+
+### #is_/same_as :: [Entertainment.personal](/_personal/Society/Communication/Media/Entertainment.personal.md) 
+
+### #is_/same_as :: [Entertainment.secret](/_secret/Society/Communication/Media/Entertainment.secret.md)
+

@@ -154,3 +154,22 @@ Europeana_entity: agent/base/61033
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Heinrich%20Heine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heine,Heinrich](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.md) 
+
+### #is_/same_as :: [Heine,Heinrich.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.public.md) 
+
+### #is_/same_as :: [Heine,Heinrich.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.internal.md) 
+
+### #is_/same_as :: [Heine,Heinrich.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.protect.md) 
+
+### #is_/same_as :: [Heine,Heinrich.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.private.md) 
+
+### #is_/same_as :: [Heine,Heinrich.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.personal.md) 
+
+### #is_/same_as :: [Heine,Heinrich.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.secret.md)
+

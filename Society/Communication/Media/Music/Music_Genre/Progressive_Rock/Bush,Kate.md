@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Kate Bush"
 ---
@@ -50,4 +50,23 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Kate%20Bush)
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bush,Kate](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.md) 
+
+### #is_/same_as :: [Bush,Kate.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.public.md) 
+
+### #is_/same_as :: [Bush,Kate.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.internal.md) 
+
+### #is_/same_as :: [Bush,Kate.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.protect.md) 
+
+### #is_/same_as :: [Bush,Kate.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.private.md) 
+
+### #is_/same_as :: [Bush,Kate.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.personal.md) 
+
+### #is_/same_as :: [Bush,Kate.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.secret.md)
 

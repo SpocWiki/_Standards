@@ -87,3 +87,22 @@ UMLS_CUI: C0949248
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cannabis](/_Standards/bio/Medicine/Drug/Drug-Dealing/Cannabis.md) 
+
+### #is_/same_as :: [Cannabis.public](/_public/bio/Medicine/Drug/Drug-Dealing/Cannabis.public.md) 
+
+### #is_/same_as :: [Cannabis.internal](/_internal/bio/Medicine/Drug/Drug-Dealing/Cannabis.internal.md) 
+
+### #is_/same_as :: [Cannabis.protect](/_protect/bio/Medicine/Drug/Drug-Dealing/Cannabis.protect.md) 
+
+### #is_/same_as :: [Cannabis.private](/_private/bio/Medicine/Drug/Drug-Dealing/Cannabis.private.md) 
+
+### #is_/same_as :: [Cannabis.personal](/_personal/bio/Medicine/Drug/Drug-Dealing/Cannabis.personal.md) 
+
+### #is_/same_as :: [Cannabis.secret](/_secret/bio/Medicine/Drug/Drug-Dealing/Cannabis.secret.md)
+

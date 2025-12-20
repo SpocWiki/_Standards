@@ -150,3 +150,22 @@ inception: 1933-12-26T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Nissan) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nissan_Motor](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Nissan_Motor.md) 
+
+### #is_/same_as :: [Nissan_Motor.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/Nissan_Motor.public.md) 
+
+### #is_/same_as :: [Nissan_Motor.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Nissan_Motor.internal.md) 
+
+### #is_/same_as :: [Nissan_Motor.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/Nissan_Motor.protect.md) 
+
+### #is_/same_as :: [Nissan_Motor.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/Nissan_Motor.private.md) 
+
+### #is_/same_as :: [Nissan_Motor.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Nissan_Motor.personal.md) 
+
+### #is_/same_as :: [Nissan_Motor.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/Nissan_Motor.secret.md)
+

@@ -27,8 +27,6 @@ The `problem+json` document type structures error details in a standardized JSON
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [problem+json](/_Standards/schema-org/Property/Texts/has_content_type/problem+json.md) 

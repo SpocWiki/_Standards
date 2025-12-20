@@ -112,3 +112,22 @@ NBN_System_Key: NBNSYS0000188641
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Loggerhead%20sea%20turtle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Loggerhead_Sea_Turtle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Loggerhead_Sea_Turtle.md) 
+
+### #is_/same_as :: [Loggerhead_Sea_Turtle.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Loggerhead_Sea_Turtle.public.md) 
+
+### #is_/same_as :: [Loggerhead_Sea_Turtle.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Loggerhead_Sea_Turtle.internal.md) 
+
+### #is_/same_as :: [Loggerhead_Sea_Turtle.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Loggerhead_Sea_Turtle.protect.md) 
+
+### #is_/same_as :: [Loggerhead_Sea_Turtle.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Loggerhead_Sea_Turtle.private.md) 
+
+### #is_/same_as :: [Loggerhead_Sea_Turtle.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Loggerhead_Sea_Turtle.personal.md) 
+
+### #is_/same_as :: [Loggerhead_Sea_Turtle.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Loggerhead_Sea_Turtle.secret.md)
+

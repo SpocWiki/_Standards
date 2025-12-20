@@ -40,17 +40,17 @@ The status for a previously confirmed reservation that is now cancelled.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reservation_Cancelled](Reservation_Cancelled.md) 
+### #is_/same_as :: [Reservation_Cancelled](/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.md) 
 
-### #is_/same_as :: [reservation_cancelled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.public.md) 
+### #is_/same_as :: [Reservation_Cancelled.public](/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.public.md) 
 
-### #is_/same_as :: [reservation_cancelled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.internal.md) 
+### #is_/same_as :: [Reservation_Cancelled.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.internal.md) 
 
-### #is_/same_as :: [reservation_cancelled.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.protect.md) 
+### #is_/same_as :: [Reservation_Cancelled.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.protect.md) 
 
-### #is_/same_as :: [reservation_cancelled.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.private.md) 
+### #is_/same_as :: [Reservation_Cancelled.private](/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.private.md) 
 
-### #is_/same_as :: [reservation_cancelled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.personal.md) 
+### #is_/same_as :: [Reservation_Cancelled.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.personal.md) 
 
-### #is_/same_as :: [reservation_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.secret.md)
+### #is_/same_as :: [Reservation_Cancelled.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.secret.md)
 

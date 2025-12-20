@@ -53,17 +53,17 @@ Commons_category: Battalions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Battalion](/_Standards/Society/Military/Battalion.md) 
+### #is_/same_as :: [Battalion](/_Standards/Society/Military/Military_Organization/Battalion.md) 
 
-### #is_/same_as :: [Battalion.public](/_public/Society/Military/Battalion.public.md) 
+### #is_/same_as :: [Battalion.public](/_public/Society/Military/Military_Organization/Battalion.public.md) 
 
-### #is_/same_as :: [Battalion.internal](/_internal/Society/Military/Battalion.internal.md) 
+### #is_/same_as :: [Battalion.internal](/_internal/Society/Military/Military_Organization/Battalion.internal.md) 
 
-### #is_/same_as :: [Battalion.protect](/_protect/Society/Military/Battalion.protect.md) 
+### #is_/same_as :: [Battalion.protect](/_protect/Society/Military/Military_Organization/Battalion.protect.md) 
 
-### #is_/same_as :: [Battalion.private](/_private/Society/Military/Battalion.private.md) 
+### #is_/same_as :: [Battalion.private](/_private/Society/Military/Military_Organization/Battalion.private.md) 
 
-### #is_/same_as :: [Battalion.personal](/_personal/Society/Military/Battalion.personal.md) 
+### #is_/same_as :: [Battalion.personal](/_personal/Society/Military/Military_Organization/Battalion.personal.md) 
 
-### #is_/same_as :: [Battalion.secret](/_secret/Society/Military/Battalion.secret.md)
+### #is_/same_as :: [Battalion.secret](/_secret/Society/Military/Military_Organization/Battalion.secret.md)
 

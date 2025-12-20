@@ -39,17 +39,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parasite](/_Standards/bio/Metabolism/Parasite.md) 
+### #is_/same_as :: [Parasite](/_Standards/bio/Metabolism/Parasitism/Parasite.md) 
 
-### #is_/same_as :: [Parasite.public](/_public/bio/Metabolism/Parasite.public.md) 
+### #is_/same_as :: [Parasite.public](/_public/bio/Metabolism/Parasitism/Parasite.public.md) 
 
-### #is_/same_as :: [Parasite.internal](/_internal/bio/Metabolism/Parasite.internal.md) 
+### #is_/same_as :: [Parasite.internal](/_internal/bio/Metabolism/Parasitism/Parasite.internal.md) 
 
-### #is_/same_as :: [Parasite.protect](/_protect/bio/Metabolism/Parasite.protect.md) 
+### #is_/same_as :: [Parasite.protect](/_protect/bio/Metabolism/Parasitism/Parasite.protect.md) 
 
-### #is_/same_as :: [Parasite.private](/_private/bio/Metabolism/Parasite.private.md) 
+### #is_/same_as :: [Parasite.private](/_private/bio/Metabolism/Parasitism/Parasite.private.md) 
 
-### #is_/same_as :: [Parasite.personal](/_personal/bio/Metabolism/Parasite.personal.md) 
+### #is_/same_as :: [Parasite.personal](/_personal/bio/Metabolism/Parasitism/Parasite.personal.md) 
 
-### #is_/same_as :: [Parasite.secret](/_secret/bio/Metabolism/Parasite.secret.md)
+### #is_/same_as :: [Parasite.secret](/_secret/bio/Metabolism/Parasitism/Parasite.secret.md)
 

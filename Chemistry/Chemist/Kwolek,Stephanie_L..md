@@ -71,3 +71,22 @@ name_in_kana: ステファニー・クオレク
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stephanie%20Kwolek) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kwolek,Stephanie_L.](/_Standards/Chemistry/Chemist/Kwolek,Stephanie_L..md) 
+
+### #is_/same_as :: [Kwolek,Stephanie_L..public](/_public/Chemistry/Chemist/Kwolek,Stephanie_L..public.md) 
+
+### #is_/same_as :: [Kwolek,Stephanie_L..internal](/_internal/Chemistry/Chemist/Kwolek,Stephanie_L..internal.md) 
+
+### #is_/same_as :: [Kwolek,Stephanie_L..protect](/_protect/Chemistry/Chemist/Kwolek,Stephanie_L..protect.md) 
+
+### #is_/same_as :: [Kwolek,Stephanie_L..private](/_private/Chemistry/Chemist/Kwolek,Stephanie_L..private.md) 
+
+### #is_/same_as :: [Kwolek,Stephanie_L..personal](/_personal/Chemistry/Chemist/Kwolek,Stephanie_L..personal.md) 
+
+### #is_/same_as :: [Kwolek,Stephanie_L..secret](/_secret/Chemistry/Chemist/Kwolek,Stephanie_L..secret.md)
+

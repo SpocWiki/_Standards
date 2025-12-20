@@ -97,3 +97,22 @@ inception: 2010-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Google%20DeepMind) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Google_DeepMind](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.md) 
+
+### #is_/same_as :: [Google_DeepMind.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.public.md) 
+
+### #is_/same_as :: [Google_DeepMind.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.internal.md) 
+
+### #is_/same_as :: [Google_DeepMind.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.protect.md) 
+
+### #is_/same_as :: [Google_DeepMind.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.private.md) 
+
+### #is_/same_as :: [Google_DeepMind.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.personal.md) 
+
+### #is_/same_as :: [Google_DeepMind.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.secret.md)
+

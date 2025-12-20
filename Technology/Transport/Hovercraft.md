@@ -45,3 +45,22 @@ Wikidata_usage_instructions: Not all hovercraft are watercraft, so add watercraf
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hovercraft) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hovercraft](/_Standards/Technology/Transport/Hovercraft.md) 
+
+### #is_/same_as :: [Hovercraft.public](/_public/Technology/Transport/Hovercraft.public.md) 
+
+### #is_/same_as :: [Hovercraft.internal](/_internal/Technology/Transport/Hovercraft.internal.md) 
+
+### #is_/same_as :: [Hovercraft.protect](/_protect/Technology/Transport/Hovercraft.protect.md) 
+
+### #is_/same_as :: [Hovercraft.private](/_private/Technology/Transport/Hovercraft.private.md) 
+
+### #is_/same_as :: [Hovercraft.personal](/_personal/Technology/Transport/Hovercraft.personal.md) 
+
+### #is_/same_as :: [Hovercraft.secret](/_secret/Technology/Transport/Hovercraft.secret.md)
+

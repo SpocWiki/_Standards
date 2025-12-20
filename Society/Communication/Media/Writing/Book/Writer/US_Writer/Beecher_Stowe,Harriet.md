@@ -132,3 +132,22 @@ U_S_National_Archives_Identifier: "10580997"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Harriet%20Beecher%20Stowe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Beecher_Stowe,Harriet](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.md) 
+
+### #is_/same_as :: [Beecher_Stowe,Harriet.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.public.md) 
+
+### #is_/same_as :: [Beecher_Stowe,Harriet.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.internal.md) 
+
+### #is_/same_as :: [Beecher_Stowe,Harriet.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.protect.md) 
+
+### #is_/same_as :: [Beecher_Stowe,Harriet.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.private.md) 
+
+### #is_/same_as :: [Beecher_Stowe,Harriet.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.personal.md) 
+
+### #is_/same_as :: [Beecher_Stowe,Harriet.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.secret.md)
+

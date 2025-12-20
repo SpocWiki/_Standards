@@ -114,17 +114,17 @@ Morphological synapomorphies for the clade include
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zingiberanae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.md) 
+### #is_/same_as :: [Zingiberales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales.md) 
 
-### #is_/same_as :: [Zingiberanae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.public.md) 
+### #is_/same_as :: [Zingiberales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales.public.md) 
 
-### #is_/same_as :: [Zingiberanae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.internal.md) 
+### #is_/same_as :: [Zingiberales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales.internal.md) 
 
-### #is_/same_as :: [Zingiberanae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.protect.md) 
+### #is_/same_as :: [Zingiberales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales.protect.md) 
 
-### #is_/same_as :: [Zingiberanae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.private.md) 
+### #is_/same_as :: [Zingiberales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales.private.md) 
 
-### #is_/same_as :: [Zingiberanae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.personal.md) 
+### #is_/same_as :: [Zingiberales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales.personal.md) 
 
-### #is_/same_as :: [Zingiberanae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.secret.md)
+### #is_/same_as :: [Zingiberales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales.secret.md)
 

@@ -73,3 +73,22 @@ Commons_category: Novae
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nova) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nova](/_Standards/Astronomy/Star/Nova.md) 
+
+### #is_/same_as :: [Nova.public](/_public/Astronomy/Star/Nova.public.md) 
+
+### #is_/same_as :: [Nova.internal](/_internal/Astronomy/Star/Nova.internal.md) 
+
+### #is_/same_as :: [Nova.protect](/_protect/Astronomy/Star/Nova.protect.md) 
+
+### #is_/same_as :: [Nova.private](/_private/Astronomy/Star/Nova.private.md) 
+
+### #is_/same_as :: [Nova.personal](/_personal/Astronomy/Star/Nova.personal.md) 
+
+### #is_/same_as :: [Nova.secret](/_secret/Astronomy/Star/Nova.secret.md)
+

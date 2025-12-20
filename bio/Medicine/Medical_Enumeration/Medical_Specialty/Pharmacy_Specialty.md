@@ -40,17 +40,17 @@ The practice or art and science of preparing and dispensing drugs and medicines.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [pharmacy_specialty](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.md) 
+### #is_/same_as :: [Pharmacy_Specialty](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pharmacy_Specialty.md) 
 
-### #is_/same_as :: [pharmacy_specialty.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.public.md) 
+### #is_/same_as :: [Pharmacy_Specialty.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pharmacy_Specialty.public.md) 
 
-### #is_/same_as :: [pharmacy_specialty.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.internal.md) 
+### #is_/same_as :: [Pharmacy_Specialty.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pharmacy_Specialty.internal.md) 
 
-### #is_/same_as :: [pharmacy_specialty.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.protect.md) 
+### #is_/same_as :: [Pharmacy_Specialty.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pharmacy_Specialty.protect.md) 
 
-### #is_/same_as :: [pharmacy_specialty.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.private.md) 
+### #is_/same_as :: [Pharmacy_Specialty.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pharmacy_Specialty.private.md) 
 
-### #is_/same_as :: [pharmacy_specialty.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.personal.md) 
+### #is_/same_as :: [Pharmacy_Specialty.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pharmacy_Specialty.personal.md) 
 
-### #is_/same_as :: [pharmacy_specialty.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.secret.md)
+### #is_/same_as :: [Pharmacy_Specialty.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pharmacy_Specialty.secret.md)
 

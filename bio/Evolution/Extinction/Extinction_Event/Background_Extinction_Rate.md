@@ -28,3 +28,22 @@
 | [Echinoderms](https://en.wikipedia.org/wiki/Echinoderms "Echinoderms")                                                                        | Durham (1970)           |     6 |
 | [Silurian](https://en.wikipedia.org/wiki/Silurian "Silurian") [Graptolites](https://en.wikipedia.org/wiki/Graptolites "Graptolites")          | Rickards (1977)         |     2 |
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Background_Extinction_Rate](/_Standards/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.md) 
+
+### #is_/same_as :: [Background_Extinction_Rate.public](/_public/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.public.md) 
+
+### #is_/same_as :: [Background_Extinction_Rate.internal](/_internal/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.internal.md) 
+
+### #is_/same_as :: [Background_Extinction_Rate.protect](/_protect/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.protect.md) 
+
+### #is_/same_as :: [Background_Extinction_Rate.private](/_private/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.private.md) 
+
+### #is_/same_as :: [Background_Extinction_Rate.personal](/_personal/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.personal.md) 
+
+### #is_/same_as :: [Background_Extinction_Rate.secret](/_secret/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.secret.md)
+

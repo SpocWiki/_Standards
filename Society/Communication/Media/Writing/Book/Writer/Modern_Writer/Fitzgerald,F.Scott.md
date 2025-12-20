@@ -94,3 +94,22 @@ Plex_person_key: 5d77684a2ec6b5001f6bf04a
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/F.%20Scott%20Fitzgerald) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fitzgerald,F.Scott](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.md) 
+
+### #is_/same_as :: [Fitzgerald,F.Scott.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.public.md) 
+
+### #is_/same_as :: [Fitzgerald,F.Scott.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.internal.md) 
+
+### #is_/same_as :: [Fitzgerald,F.Scott.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.protect.md) 
+
+### #is_/same_as :: [Fitzgerald,F.Scott.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.private.md) 
+
+### #is_/same_as :: [Fitzgerald,F.Scott.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.personal.md) 
+
+### #is_/same_as :: [Fitzgerald,F.Scott.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.secret.md)
+

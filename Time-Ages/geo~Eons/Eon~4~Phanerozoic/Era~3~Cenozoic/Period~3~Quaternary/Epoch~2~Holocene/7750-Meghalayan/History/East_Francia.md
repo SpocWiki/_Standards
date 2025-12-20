@@ -47,3 +47,21 @@ dissolved_abolished_or_demolished_date: 0962-01-01T00:00:00Z
 > The east–west division with the Treaty of Verdun, enforced by the Germanic-Latin language split, "gradually hardened into the establishment of separate kingdoms", with East Francia becoming (or being) the Kingdom of Germany, and West Francia becoming the Kingdom of France.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/East%20Francia)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [East_Francia](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/East_Francia.md) 
+
+### #is_/same_as :: [East_Francia.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/East_Francia.public.md) 
+
+### #is_/same_as :: [East_Francia.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/East_Francia.internal.md) 
+
+### #is_/same_as :: [East_Francia.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/East_Francia.protect.md) 
+
+### #is_/same_as :: [East_Francia.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/East_Francia.private.md) 
+
+### #is_/same_as :: [East_Francia.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/East_Francia.personal.md) 
+
+### #is_/same_as :: [East_Francia.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/East_Francia.secret.md)
+

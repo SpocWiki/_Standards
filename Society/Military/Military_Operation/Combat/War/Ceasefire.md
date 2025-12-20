@@ -44,3 +44,22 @@ described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ceasefire) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ceasefire](/_Standards/Society/Military/Military_Operation/Combat/War/Ceasefire.md) 
+
+### #is_/same_as :: [Ceasefire.public](/_public/Society/Military/Military_Operation/Combat/War/Ceasefire.public.md) 
+
+### #is_/same_as :: [Ceasefire.internal](/_internal/Society/Military/Military_Operation/Combat/War/Ceasefire.internal.md) 
+
+### #is_/same_as :: [Ceasefire.protect](/_protect/Society/Military/Military_Operation/Combat/War/Ceasefire.protect.md) 
+
+### #is_/same_as :: [Ceasefire.private](/_private/Society/Military/Military_Operation/Combat/War/Ceasefire.private.md) 
+
+### #is_/same_as :: [Ceasefire.personal](/_personal/Society/Military/Military_Operation/Combat/War/Ceasefire.personal.md) 
+
+### #is_/same_as :: [Ceasefire.secret](/_secret/Society/Military/Military_Operation/Combat/War/Ceasefire.secret.md)
+

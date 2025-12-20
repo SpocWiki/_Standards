@@ -109,3 +109,22 @@ domain_name: stellantis.com
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellantis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stellantis](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.md) 
+
+### #is_/same_as :: [Stellantis.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.public.md) 
+
+### #is_/same_as :: [Stellantis.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.internal.md) 
+
+### #is_/same_as :: [Stellantis.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.protect.md) 
+
+### #is_/same_as :: [Stellantis.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.private.md) 
+
+### #is_/same_as :: [Stellantis.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.personal.md) 
+
+### #is_/same_as :: [Stellantis.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.secret.md)
+

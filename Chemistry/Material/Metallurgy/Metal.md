@@ -117,17 +117,17 @@ video:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metal](/_Standards/Chemistry/inOrganic/Metal.md) 
+### #is_/same_as :: [Metal](/_Standards/Chemistry/Material/Metallurgy/Metal.md) 
 
-### #is_/same_as :: [Metal.public](/_public/Chemistry/inOrganic/Metal.public.md) 
+### #is_/same_as :: [Metal.public](/_public/Chemistry/Material/Metallurgy/Metal.public.md) 
 
-### #is_/same_as :: [Metal.internal](/_internal/Chemistry/inOrganic/Metal.internal.md) 
+### #is_/same_as :: [Metal.internal](/_internal/Chemistry/Material/Metallurgy/Metal.internal.md) 
 
-### #is_/same_as :: [Metal.protect](/_protect/Chemistry/inOrganic/Metal.protect.md) 
+### #is_/same_as :: [Metal.protect](/_protect/Chemistry/Material/Metallurgy/Metal.protect.md) 
 
-### #is_/same_as :: [Metal.private](/_private/Chemistry/inOrganic/Metal.private.md) 
+### #is_/same_as :: [Metal.private](/_private/Chemistry/Material/Metallurgy/Metal.private.md) 
 
-### #is_/same_as :: [Metal.personal](/_personal/Chemistry/inOrganic/Metal.personal.md) 
+### #is_/same_as :: [Metal.personal](/_personal/Chemistry/Material/Metallurgy/Metal.personal.md) 
 
-### #is_/same_as :: [Metal.secret](/_secret/Chemistry/inOrganic/Metal.secret.md)
+### #is_/same_as :: [Metal.secret](/_secret/Chemistry/Material/Metallurgy/Metal.secret.md)
 

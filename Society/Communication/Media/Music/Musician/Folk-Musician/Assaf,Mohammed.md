@@ -33,3 +33,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Assaf,Mohammed](/_Standards/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.md) 
+
+### #is_/same_as :: [Assaf,Mohammed.public](/_public/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.public.md) 
+
+### #is_/same_as :: [Assaf,Mohammed.internal](/_internal/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.internal.md) 
+
+### #is_/same_as :: [Assaf,Mohammed.protect](/_protect/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.protect.md) 
+
+### #is_/same_as :: [Assaf,Mohammed.private](/_private/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.private.md) 
+
+### #is_/same_as :: [Assaf,Mohammed.personal](/_personal/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.personal.md) 
+
+### #is_/same_as :: [Assaf,Mohammed.secret](/_secret/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.secret.md)
+

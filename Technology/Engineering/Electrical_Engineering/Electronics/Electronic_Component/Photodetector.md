@@ -33,3 +33,22 @@ Wolfram_Language_entity_code: Entity["MeasurementDevice", "Photodetector"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Photodetector) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Photodetector](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.md) 
+
+### #is_/same_as :: [Photodetector.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.public.md) 
+
+### #is_/same_as :: [Photodetector.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.internal.md) 
+
+### #is_/same_as :: [Photodetector.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.protect.md) 
+
+### #is_/same_as :: [Photodetector.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.private.md) 
+
+### #is_/same_as :: [Photodetector.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.personal.md) 
+
+### #is_/same_as :: [Photodetector.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.secret.md)
+

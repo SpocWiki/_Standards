@@ -45,3 +45,22 @@ Krugosvet_article: meditsina/bred
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Delusion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Delusion](/_Standards/bio/Psychology/Mental_Disorder/Delusion.md) 
+
+### #is_/same_as :: [Delusion.public](/_public/bio/Psychology/Mental_Disorder/Delusion.public.md) 
+
+### #is_/same_as :: [Delusion.internal](/_internal/bio/Psychology/Mental_Disorder/Delusion.internal.md) 
+
+### #is_/same_as :: [Delusion.protect](/_protect/bio/Psychology/Mental_Disorder/Delusion.protect.md) 
+
+### #is_/same_as :: [Delusion.private](/_private/bio/Psychology/Mental_Disorder/Delusion.private.md) 
+
+### #is_/same_as :: [Delusion.personal](/_personal/bio/Psychology/Mental_Disorder/Delusion.personal.md) 
+
+### #is_/same_as :: [Delusion.secret](/_secret/bio/Psychology/Mental_Disorder/Delusion.secret.md)
+

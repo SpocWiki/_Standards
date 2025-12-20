@@ -66,3 +66,22 @@ PhilPapers_topic: utilitarianism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Utilitarianism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Utilitarianism](/_Standards/Philosophy/Ethics/Utilitarianism.md) 
+
+### #is_/same_as :: [Utilitarianism.public](/_public/Philosophy/Ethics/Utilitarianism.public.md) 
+
+### #is_/same_as :: [Utilitarianism.internal](/_internal/Philosophy/Ethics/Utilitarianism.internal.md) 
+
+### #is_/same_as :: [Utilitarianism.protect](/_protect/Philosophy/Ethics/Utilitarianism.protect.md) 
+
+### #is_/same_as :: [Utilitarianism.private](/_private/Philosophy/Ethics/Utilitarianism.private.md) 
+
+### #is_/same_as :: [Utilitarianism.personal](/_personal/Philosophy/Ethics/Utilitarianism.personal.md) 
+
+### #is_/same_as :: [Utilitarianism.secret](/_secret/Philosophy/Ethics/Utilitarianism.secret.md)
+

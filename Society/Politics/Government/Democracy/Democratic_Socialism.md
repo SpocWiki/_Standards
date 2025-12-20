@@ -42,3 +42,22 @@ Commons_category: Democratic socialism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Democratic%20socialism)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Democratic_Socialism](/_Standards/Society/Politics/Government/Democracy/Democratic_Socialism.md) 
+
+### #is_/same_as :: [Democratic_Socialism.public](/_public/Society/Politics/Government/Democracy/Democratic_Socialism.public.md) 
+
+### #is_/same_as :: [Democratic_Socialism.internal](/_internal/Society/Politics/Government/Democracy/Democratic_Socialism.internal.md) 
+
+### #is_/same_as :: [Democratic_Socialism.protect](/_protect/Society/Politics/Government/Democracy/Democratic_Socialism.protect.md) 
+
+### #is_/same_as :: [Democratic_Socialism.private](/_private/Society/Politics/Government/Democracy/Democratic_Socialism.private.md) 
+
+### #is_/same_as :: [Democratic_Socialism.personal](/_personal/Society/Politics/Government/Democracy/Democratic_Socialism.personal.md) 
+
+### #is_/same_as :: [Democratic_Socialism.secret](/_secret/Society/Politics/Government/Democracy/Democratic_Socialism.secret.md)
+

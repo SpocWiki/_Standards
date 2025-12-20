@@ -49,3 +49,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Senso
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sensor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sensor](/_Standards/Technology/Tool/Instrumentation/Sensor.md) 
+
+### #is_/same_as :: [Sensor.public](/_public/Technology/Tool/Instrumentation/Sensor.public.md) 
+
+### #is_/same_as :: [Sensor.internal](/_internal/Technology/Tool/Instrumentation/Sensor.internal.md) 
+
+### #is_/same_as :: [Sensor.protect](/_protect/Technology/Tool/Instrumentation/Sensor.protect.md) 
+
+### #is_/same_as :: [Sensor.private](/_private/Technology/Tool/Instrumentation/Sensor.private.md) 
+
+### #is_/same_as :: [Sensor.personal](/_personal/Technology/Tool/Instrumentation/Sensor.personal.md) 
+
+### #is_/same_as :: [Sensor.secret](/_secret/Technology/Tool/Instrumentation/Sensor.secret.md)
+

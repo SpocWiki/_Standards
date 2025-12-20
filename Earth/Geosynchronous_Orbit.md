@@ -35,3 +35,22 @@ Commons_category: Geosynchronous orbit
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Geosynchronous%20orbit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geosynchronous_Orbit](/_Standards/Earth/Geosynchronous_Orbit.md) 
+
+### #is_/same_as :: [Geosynchronous_Orbit.public](/_public/Earth/Geosynchronous_Orbit.public.md) 
+
+### #is_/same_as :: [Geosynchronous_Orbit.internal](/_internal/Earth/Geosynchronous_Orbit.internal.md) 
+
+### #is_/same_as :: [Geosynchronous_Orbit.protect](/_protect/Earth/Geosynchronous_Orbit.protect.md) 
+
+### #is_/same_as :: [Geosynchronous_Orbit.private](/_private/Earth/Geosynchronous_Orbit.private.md) 
+
+### #is_/same_as :: [Geosynchronous_Orbit.personal](/_personal/Earth/Geosynchronous_Orbit.personal.md) 
+
+### #is_/same_as :: [Geosynchronous_Orbit.secret](/_secret/Earth/Geosynchronous_Orbit.secret.md)
+

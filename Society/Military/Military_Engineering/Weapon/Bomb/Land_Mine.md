@@ -38,3 +38,22 @@ Commons_gallery: Land mine
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Land%20mine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Land_Mine](/_Standards/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.md) 
+
+### #is_/same_as :: [Land_Mine.public](/_public/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.public.md) 
+
+### #is_/same_as :: [Land_Mine.internal](/_internal/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.internal.md) 
+
+### #is_/same_as :: [Land_Mine.protect](/_protect/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.protect.md) 
+
+### #is_/same_as :: [Land_Mine.private](/_private/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.private.md) 
+
+### #is_/same_as :: [Land_Mine.personal](/_personal/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.personal.md) 
+
+### #is_/same_as :: [Land_Mine.secret](/_secret/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.secret.md)
+

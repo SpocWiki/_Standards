@@ -112,3 +112,22 @@ Commons_category: Entrepreneurs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Entrepreneurship) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Entrepreneur](/_Standards/Society/Economics/Capital(Economics)/Entrepreneur.md) 
+
+### #is_/same_as :: [Entrepreneur.public](/_public/Society/Economics/Capital(Economics)/Entrepreneur.public.md) 
+
+### #is_/same_as :: [Entrepreneur.internal](/_internal/Society/Economics/Capital(Economics)/Entrepreneur.internal.md) 
+
+### #is_/same_as :: [Entrepreneur.protect](/_protect/Society/Economics/Capital(Economics)/Entrepreneur.protect.md) 
+
+### #is_/same_as :: [Entrepreneur.private](/_private/Society/Economics/Capital(Economics)/Entrepreneur.private.md) 
+
+### #is_/same_as :: [Entrepreneur.personal](/_personal/Society/Economics/Capital(Economics)/Entrepreneur.personal.md) 
+
+### #is_/same_as :: [Entrepreneur.secret](/_secret/Society/Economics/Capital(Economics)/Entrepreneur.secret.md)
+

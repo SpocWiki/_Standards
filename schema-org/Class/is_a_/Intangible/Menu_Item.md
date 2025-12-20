@@ -39,17 +39,17 @@ A food or drink item listed in a menu or menu section.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [menu_item](/_Standards/schema-org/Class/is_a_/Intangible/menu_item.md) 
+### #is_/same_as :: [Menu_Item](/_Standards/schema-org/Class/is_a_/Intangible/Menu_Item.md) 
 
-### #is_/same_as :: [menu_item.public](/_public/schema-org/Class/is_a_/Intangible/menu_item.public.md) 
+### #is_/same_as :: [Menu_Item.public](/_public/schema-org/Class/is_a_/Intangible/Menu_Item.public.md) 
 
-### #is_/same_as :: [menu_item.internal](/_internal/schema-org/Class/is_a_/Intangible/menu_item.internal.md) 
+### #is_/same_as :: [Menu_Item.internal](/_internal/schema-org/Class/is_a_/Intangible/Menu_Item.internal.md) 
 
-### #is_/same_as :: [menu_item.protect](/_protect/schema-org/Class/is_a_/Intangible/menu_item.protect.md) 
+### #is_/same_as :: [Menu_Item.protect](/_protect/schema-org/Class/is_a_/Intangible/Menu_Item.protect.md) 
 
-### #is_/same_as :: [menu_item.private](/_private/schema-org/Class/is_a_/Intangible/menu_item.private.md) 
+### #is_/same_as :: [Menu_Item.private](/_private/schema-org/Class/is_a_/Intangible/Menu_Item.private.md) 
 
-### #is_/same_as :: [menu_item.personal](/_personal/schema-org/Class/is_a_/Intangible/menu_item.personal.md) 
+### #is_/same_as :: [Menu_Item.personal](/_personal/schema-org/Class/is_a_/Intangible/Menu_Item.personal.md) 
 
-### #is_/same_as :: [menu_item.secret](/_secret/schema-org/Class/is_a_/Intangible/menu_item.secret.md)
+### #is_/same_as :: [Menu_Item.secret](/_secret/schema-org/Class/is_a_/Intangible/Menu_Item.secret.md)
 

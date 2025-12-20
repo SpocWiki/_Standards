@@ -39,17 +39,17 @@ A comedy club.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comedy_Club](Comedy_Club.md) 
+### #is_/same_as :: [Comedy_Club](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.md) 
 
-### #is_/same_as :: [Comedy_Club.public](/_public/Society/Organization/Local_Business/Entertainment_Business/Comedy_Club.public.md) 
+### #is_/same_as :: [Comedy_Club.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.public.md) 
 
-### #is_/same_as :: [Comedy_Club.internal](/_internal/Society/Organization/Local_Business/Entertainment_Business/Comedy_Club.internal.md) 
+### #is_/same_as :: [Comedy_Club.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.internal.md) 
 
-### #is_/same_as :: [Comedy_Club.protect](/_protect/Society/Organization/Local_Business/Entertainment_Business/Comedy_Club.protect.md) 
+### #is_/same_as :: [Comedy_Club.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.protect.md) 
 
-### #is_/same_as :: [Comedy_Club.private](/_private/Society/Organization/Local_Business/Entertainment_Business/Comedy_Club.private.md) 
+### #is_/same_as :: [Comedy_Club.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.private.md) 
 
-### #is_/same_as :: [Comedy_Club.personal](/_personal/Society/Organization/Local_Business/Entertainment_Business/Comedy_Club.personal.md) 
+### #is_/same_as :: [Comedy_Club.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.personal.md) 
 
-### #is_/same_as :: [Comedy_Club.secret](/_secret/Society/Organization/Local_Business/Entertainment_Business/Comedy_Club.secret.md)
+### #is_/same_as :: [Comedy_Club.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.secret.md)
 

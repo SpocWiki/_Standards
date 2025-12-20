@@ -55,3 +55,22 @@ IPTC_NewsCode: mediatopic/20000811
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Euthanasia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Euthanasia](/_Standards/bio/Medicine/Medical_Guideline/Euthanasia.md) 
+
+### #is_/same_as :: [Euthanasia.public](/_public/bio/Medicine/Medical_Guideline/Euthanasia.public.md) 
+
+### #is_/same_as :: [Euthanasia.internal](/_internal/bio/Medicine/Medical_Guideline/Euthanasia.internal.md) 
+
+### #is_/same_as :: [Euthanasia.protect](/_protect/bio/Medicine/Medical_Guideline/Euthanasia.protect.md) 
+
+### #is_/same_as :: [Euthanasia.private](/_private/bio/Medicine/Medical_Guideline/Euthanasia.private.md) 
+
+### #is_/same_as :: [Euthanasia.personal](/_personal/bio/Medicine/Medical_Guideline/Euthanasia.personal.md) 
+
+### #is_/same_as :: [Euthanasia.secret](/_secret/bio/Medicine/Medical_Guideline/Euthanasia.secret.md)
+

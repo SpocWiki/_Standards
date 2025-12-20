@@ -42,3 +42,22 @@ date_of_birth: 1910-06-26T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roy%20J.%20Plunkett) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plunkett,Roy_J](/_Standards/Chemistry/Chemist/Plunkett,Roy_J.md) 
+
+### #is_/same_as :: [Plunkett,Roy_J.public](/_public/Chemistry/Chemist/Plunkett,Roy_J.public.md) 
+
+### #is_/same_as :: [Plunkett,Roy_J.internal](/_internal/Chemistry/Chemist/Plunkett,Roy_J.internal.md) 
+
+### #is_/same_as :: [Plunkett,Roy_J.protect](/_protect/Chemistry/Chemist/Plunkett,Roy_J.protect.md) 
+
+### #is_/same_as :: [Plunkett,Roy_J.private](/_private/Chemistry/Chemist/Plunkett,Roy_J.private.md) 
+
+### #is_/same_as :: [Plunkett,Roy_J.personal](/_personal/Chemistry/Chemist/Plunkett,Roy_J.personal.md) 
+
+### #is_/same_as :: [Plunkett,Roy_J.secret](/_secret/Chemistry/Chemist/Plunkett,Roy_J.secret.md)
+

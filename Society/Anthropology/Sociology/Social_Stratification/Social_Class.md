@@ -48,3 +48,22 @@ IMDb_keyword: social-class
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20class) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Class](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class.md) 
+
+### #is_/same_as :: [Social_Class.public](/_public/Society/Anthropology/Sociology/Social_Stratification/Social_Class.public.md) 
+
+### #is_/same_as :: [Social_Class.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification/Social_Class.internal.md) 
+
+### #is_/same_as :: [Social_Class.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification/Social_Class.protect.md) 
+
+### #is_/same_as :: [Social_Class.private](/_private/Society/Anthropology/Sociology/Social_Stratification/Social_Class.private.md) 
+
+### #is_/same_as :: [Social_Class.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification/Social_Class.personal.md) 
+
+### #is_/same_as :: [Social_Class.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification/Social_Class.secret.md)
+

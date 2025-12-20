@@ -39,17 +39,17 @@ A general contractor.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [General_Contractor](General_Contractor.md) 
+### #is_/same_as :: [General_Contractor](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.md) 
 
-### #is_/same_as :: [General_Contractor.public](/_public/Society/Organization/Local_Business/Home_and_Construction_Business/General_Contractor.public.md) 
+### #is_/same_as :: [General_Contractor.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.public.md) 
 
-### #is_/same_as :: [General_Contractor.internal](/_internal/Society/Organization/Local_Business/Home_and_Construction_Business/General_Contractor.internal.md) 
+### #is_/same_as :: [General_Contractor.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.internal.md) 
 
-### #is_/same_as :: [General_Contractor.protect](/_protect/Society/Organization/Local_Business/Home_and_Construction_Business/General_Contractor.protect.md) 
+### #is_/same_as :: [General_Contractor.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.protect.md) 
 
-### #is_/same_as :: [General_Contractor.private](/_private/Society/Organization/Local_Business/Home_and_Construction_Business/General_Contractor.private.md) 
+### #is_/same_as :: [General_Contractor.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.private.md) 
 
-### #is_/same_as :: [General_Contractor.personal](/_personal/Society/Organization/Local_Business/Home_and_Construction_Business/General_Contractor.personal.md) 
+### #is_/same_as :: [General_Contractor.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.personal.md) 
 
-### #is_/same_as :: [General_Contractor.secret](/_secret/Society/Organization/Local_Business/Home_and_Construction_Business/General_Contractor.secret.md)
+### #is_/same_as :: [General_Contractor.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.secret.md)
 

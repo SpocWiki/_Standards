@@ -123,6 +123,7 @@ A map.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Map)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Map](/_Standards/Society/Communication/Media/Creative_Work/Map.md) 

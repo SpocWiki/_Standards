@@ -71,3 +71,22 @@ name_in_native_language: Victor Franz Hess
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Victor%20Hess) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hess,Victor_Francis](/_Standards/Science/Physics/Physicist/Hess,Victor_Francis.md) 
+
+### #is_/same_as :: [Hess,Victor_Francis.public](/_public/Science/Physics/Physicist/Hess,Victor_Francis.public.md) 
+
+### #is_/same_as :: [Hess,Victor_Francis.internal](/_internal/Science/Physics/Physicist/Hess,Victor_Francis.internal.md) 
+
+### #is_/same_as :: [Hess,Victor_Francis.protect](/_protect/Science/Physics/Physicist/Hess,Victor_Francis.protect.md) 
+
+### #is_/same_as :: [Hess,Victor_Francis.private](/_private/Science/Physics/Physicist/Hess,Victor_Francis.private.md) 
+
+### #is_/same_as :: [Hess,Victor_Francis.personal](/_personal/Science/Physics/Physicist/Hess,Victor_Francis.personal.md) 
+
+### #is_/same_as :: [Hess,Victor_Francis.secret](/_secret/Science/Physics/Physicist/Hess,Victor_Francis.secret.md)
+

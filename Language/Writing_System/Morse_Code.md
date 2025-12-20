@@ -147,3 +147,22 @@ GitHub_topic: morse-code
 
 If you need a detailed explanation of any specific code, feel free to ask!
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Morse_Code](/_Standards/Language/Writing_System/Morse_Code.md) 
+
+### #is_/same_as :: [Morse_Code.public](/_public/Language/Writing_System/Morse_Code.public.md) 
+
+### #is_/same_as :: [Morse_Code.internal](/_internal/Language/Writing_System/Morse_Code.internal.md) 
+
+### #is_/same_as :: [Morse_Code.protect](/_protect/Language/Writing_System/Morse_Code.protect.md) 
+
+### #is_/same_as :: [Morse_Code.private](/_private/Language/Writing_System/Morse_Code.private.md) 
+
+### #is_/same_as :: [Morse_Code.personal](/_personal/Language/Writing_System/Morse_Code.personal.md) 
+
+### #is_/same_as :: [Morse_Code.secret](/_secret/Language/Writing_System/Morse_Code.secret.md)
+

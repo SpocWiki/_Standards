@@ -42,20 +42,19 @@ identifiable as a separately distinguishable entity.
 [ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, inChI, inChIKey, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, iupacName, mainEntityOfPage, molecularFormula, molecularWeight, monoisotopicMolecularWeight, name, potentialAction, potentialUse, sameAs, smiles, subjectOf, taxonomicRange, url ] ]
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [molecular_entity](/_Standards/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.md) 
+### #is_/same_as :: [Molecular_Entity](/_Standards/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.md) 
 
-### #is_/same_as :: [molecular_entity.public](/_public/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.public.md) 
+### #is_/same_as :: [Molecular_Entity.public](/_public/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.public.md) 
 
-### #is_/same_as :: [molecular_entity.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.internal.md) 
+### #is_/same_as :: [Molecular_Entity.internal](/_internal/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.internal.md) 
 
-### #is_/same_as :: [molecular_entity.protect](/_protect/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.protect.md) 
+### #is_/same_as :: [Molecular_Entity.protect](/_protect/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.protect.md) 
 
-### #is_/same_as :: [molecular_entity.private](/_private/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.private.md) 
+### #is_/same_as :: [Molecular_Entity.private](/_private/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.private.md) 
 
-### #is_/same_as :: [molecular_entity.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.personal.md) 
+### #is_/same_as :: [Molecular_Entity.personal](/_personal/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.personal.md) 
 
-### #is_/same_as :: [molecular_entity.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.secret.md)
+### #is_/same_as :: [Molecular_Entity.secret](/_secret/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.secret.md)
 

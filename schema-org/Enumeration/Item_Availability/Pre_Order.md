@@ -40,17 +40,17 @@ Indicates that the item is available for pre-order.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pre_Order](Pre_Order.md) 
+### #is_/same_as :: [Pre_Order](/_Standards/schema-org/Enumeration/Item_Availability/Pre_Order.md) 
 
-### #is_/same_as :: [pre_order.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.public.md) 
+### #is_/same_as :: [Pre_Order.public](/_public/schema-org/Enumeration/Item_Availability/Pre_Order.public.md) 
 
-### #is_/same_as :: [pre_order.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.internal.md) 
+### #is_/same_as :: [Pre_Order.internal](/_internal/schema-org/Enumeration/Item_Availability/Pre_Order.internal.md) 
 
-### #is_/same_as :: [pre_order.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.protect.md) 
+### #is_/same_as :: [Pre_Order.protect](/_protect/schema-org/Enumeration/Item_Availability/Pre_Order.protect.md) 
 
-### #is_/same_as :: [pre_order.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.private.md) 
+### #is_/same_as :: [Pre_Order.private](/_private/schema-org/Enumeration/Item_Availability/Pre_Order.private.md) 
 
-### #is_/same_as :: [pre_order.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.personal.md) 
+### #is_/same_as :: [Pre_Order.personal](/_personal/schema-org/Enumeration/Item_Availability/Pre_Order.personal.md) 
 
-### #is_/same_as :: [pre_order.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.secret.md)
+### #is_/same_as :: [Pre_Order.secret](/_secret/schema-org/Enumeration/Item_Availability/Pre_Order.secret.md)
 

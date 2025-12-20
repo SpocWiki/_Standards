@@ -114,3 +114,22 @@ date_of_death: 2011-02-06T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gary%20Moore) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Moore,Gary](/_Standards/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.md) 
+
+### #is_/same_as :: [Moore,Gary.public](/_public/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.public.md) 
+
+### #is_/same_as :: [Moore,Gary.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.internal.md) 
+
+### #is_/same_as :: [Moore,Gary.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.protect.md) 
+
+### #is_/same_as :: [Moore,Gary.private](/_private/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.private.md) 
+
+### #is_/same_as :: [Moore,Gary.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.personal.md) 
+
+### #is_/same_as :: [Moore,Gary.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.secret.md)
+

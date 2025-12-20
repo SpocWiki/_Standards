@@ -73,3 +73,22 @@ Krugosvet_article: medicina/OBREZANIE.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Circumcision) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Circumcision](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Circumcision.md) 
+
+### #is_/same_as :: [Circumcision.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Circumcision.public.md) 
+
+### #is_/same_as :: [Circumcision.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Circumcision.internal.md) 
+
+### #is_/same_as :: [Circumcision.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Circumcision.protect.md) 
+
+### #is_/same_as :: [Circumcision.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Circumcision.private.md) 
+
+### #is_/same_as :: [Circumcision.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Circumcision.personal.md) 
+
+### #is_/same_as :: [Circumcision.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Circumcision.secret.md)
+

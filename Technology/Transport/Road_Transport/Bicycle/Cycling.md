@@ -53,3 +53,22 @@ Colon_Classification: MY226
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cycling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cycling](/_Standards/Technology/Transport/Road_Transport/Bicycle/Cycling.md) 
+
+### #is_/same_as :: [Cycling.public](/_public/Technology/Transport/Road_Transport/Bicycle/Cycling.public.md) 
+
+### #is_/same_as :: [Cycling.internal](/_internal/Technology/Transport/Road_Transport/Bicycle/Cycling.internal.md) 
+
+### #is_/same_as :: [Cycling.protect](/_protect/Technology/Transport/Road_Transport/Bicycle/Cycling.protect.md) 
+
+### #is_/same_as :: [Cycling.private](/_private/Technology/Transport/Road_Transport/Bicycle/Cycling.private.md) 
+
+### #is_/same_as :: [Cycling.personal](/_personal/Technology/Transport/Road_Transport/Bicycle/Cycling.personal.md) 
+
+### #is_/same_as :: [Cycling.secret](/_secret/Technology/Transport/Road_Transport/Bicycle/Cycling.secret.md)
+

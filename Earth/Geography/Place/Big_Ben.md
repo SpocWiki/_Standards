@@ -33,3 +33,22 @@ has_id_wikidata: Q41225
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Big%20Ben) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Big_Ben](/_Standards/Earth/Geography/Place/Big_Ben.md) 
+
+### #is_/same_as :: [Big_Ben.public](/_public/Earth/Geography/Place/Big_Ben.public.md) 
+
+### #is_/same_as :: [Big_Ben.internal](/_internal/Earth/Geography/Place/Big_Ben.internal.md) 
+
+### #is_/same_as :: [Big_Ben.protect](/_protect/Earth/Geography/Place/Big_Ben.protect.md) 
+
+### #is_/same_as :: [Big_Ben.private](/_private/Earth/Geography/Place/Big_Ben.private.md) 
+
+### #is_/same_as :: [Big_Ben.personal](/_personal/Earth/Geography/Place/Big_Ben.personal.md) 
+
+### #is_/same_as :: [Big_Ben.secret](/_secret/Earth/Geography/Place/Big_Ben.secret.md)
+

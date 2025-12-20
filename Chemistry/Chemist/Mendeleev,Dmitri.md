@@ -163,17 +163,17 @@ ISNI: "0000000109142724"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mendeleev,Dmitri](/_Standards/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.md) 
+### #is_/same_as :: [Mendeleev,Dmitri](/_Standards/Chemistry/Chemist/Mendeleev,Dmitri.md) 
 
-### #is_/same_as :: [Mendeleev,Dmitri.public](/_public/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.public.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.public](/_public/Chemistry/Chemist/Mendeleev,Dmitri.public.md) 
 
-### #is_/same_as :: [Mendeleev,Dmitri.internal](/_internal/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.internal.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.internal](/_internal/Chemistry/Chemist/Mendeleev,Dmitri.internal.md) 
 
-### #is_/same_as :: [Mendeleev,Dmitri.protect](/_protect/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.protect.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.protect](/_protect/Chemistry/Chemist/Mendeleev,Dmitri.protect.md) 
 
-### #is_/same_as :: [Mendeleev,Dmitri.private](/_private/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.private.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.private](/_private/Chemistry/Chemist/Mendeleev,Dmitri.private.md) 
 
-### #is_/same_as :: [Mendeleev,Dmitri.personal](/_personal/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.personal.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.personal](/_personal/Chemistry/Chemist/Mendeleev,Dmitri.personal.md) 
 
-### #is_/same_as :: [Mendeleev,Dmitri.secret](/_secret/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.secret.md)
+### #is_/same_as :: [Mendeleev,Dmitri.secret](/_secret/Chemistry/Chemist/Mendeleev,Dmitri.secret.md)
 

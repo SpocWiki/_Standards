@@ -116,3 +116,22 @@ EU_Corporate_body_code: UNSC
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Security%20Council) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [United_Nations_Security_Council](/_Standards/UN(United_Nations)/United_Nations_Security_Council.md) 
+
+### #is_/same_as :: [United_Nations_Security_Council.public](/_public/UN(United_Nations)/United_Nations_Security_Council.public.md) 
+
+### #is_/same_as :: [United_Nations_Security_Council.internal](/_internal/UN(United_Nations)/United_Nations_Security_Council.internal.md) 
+
+### #is_/same_as :: [United_Nations_Security_Council.protect](/_protect/UN(United_Nations)/United_Nations_Security_Council.protect.md) 
+
+### #is_/same_as :: [United_Nations_Security_Council.private](/_private/UN(United_Nations)/United_Nations_Security_Council.private.md) 
+
+### #is_/same_as :: [United_Nations_Security_Council.personal](/_personal/UN(United_Nations)/United_Nations_Security_Council.personal.md) 
+
+### #is_/same_as :: [United_Nations_Security_Council.secret](/_secret/UN(United_Nations)/United_Nations_Security_Council.secret.md)
+

@@ -40,17 +40,17 @@ markerFolder: ./Rennell_and_Bellona/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rennell_and_Bellona](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.md) 
+### #is_/same_as :: [Rennell_and_Bellona](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.md) 
 
-### #is_/same_as :: [Rennell_and_Bellona.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.public.md) 
+### #is_/same_as :: [Rennell_and_Bellona.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.public.md) 
 
-### #is_/same_as :: [Rennell_and_Bellona.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.internal.md) 
+### #is_/same_as :: [Rennell_and_Bellona.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.internal.md) 
 
-### #is_/same_as :: [Rennell_and_Bellona.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.protect.md) 
+### #is_/same_as :: [Rennell_and_Bellona.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.protect.md) 
 
-### #is_/same_as :: [Rennell_and_Bellona.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.private.md) 
+### #is_/same_as :: [Rennell_and_Bellona.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.private.md) 
 
-### #is_/same_as :: [Rennell_and_Bellona.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.personal.md) 
+### #is_/same_as :: [Rennell_and_Bellona.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.personal.md) 
 
-### #is_/same_as :: [Rennell_and_Bellona.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.secret.md)
+### #is_/same_as :: [Rennell_and_Bellona.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.secret.md)
 

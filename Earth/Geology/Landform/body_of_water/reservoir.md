@@ -82,6 +82,7 @@ A reservoir of water, typically an artificially created lake, like the Lake Kari
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reservoir)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [reservoir](/_Standards/Earth/Geology/Landform/body_of_water/reservoir.md) 

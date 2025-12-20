@@ -51,3 +51,22 @@ OpenStreetMap_tag: denomination=vajrayana
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vajrayana) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vajrayana](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.md) 
+
+### #is_/same_as :: [Vajrayana.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.public.md) 
+
+### #is_/same_as :: [Vajrayana.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.internal.md) 
+
+### #is_/same_as :: [Vajrayana.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.protect.md) 
+
+### #is_/same_as :: [Vajrayana.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.private.md) 
+
+### #is_/same_as :: [Vajrayana.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.personal.md) 
+
+### #is_/same_as :: [Vajrayana.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.secret.md)
+

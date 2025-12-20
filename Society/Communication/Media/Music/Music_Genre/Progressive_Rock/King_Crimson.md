@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "King Crimson"
 ---
@@ -38,4 +38,23 @@ aliases:
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [King_Crimson](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.md) 
+
+### #is_/same_as :: [King_Crimson.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.public.md) 
+
+### #is_/same_as :: [King_Crimson.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.internal.md) 
+
+### #is_/same_as :: [King_Crimson.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.protect.md) 
+
+### #is_/same_as :: [King_Crimson.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.private.md) 
+
+### #is_/same_as :: [King_Crimson.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.personal.md) 
+
+### #is_/same_as :: [King_Crimson.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.secret.md)
 

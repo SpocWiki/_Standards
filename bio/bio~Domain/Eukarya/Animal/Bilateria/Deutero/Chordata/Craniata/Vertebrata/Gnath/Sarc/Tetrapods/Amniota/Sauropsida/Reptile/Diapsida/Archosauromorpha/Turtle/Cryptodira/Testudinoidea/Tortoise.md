@@ -67,3 +67,22 @@ subreddit: Tortoises
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tortoise) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tortoise](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea/Tortoise.md) 
+
+### #is_/same_as :: [Tortoise.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea/Tortoise.public.md) 
+
+### #is_/same_as :: [Tortoise.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea/Tortoise.internal.md) 
+
+### #is_/same_as :: [Tortoise.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea/Tortoise.protect.md) 
+
+### #is_/same_as :: [Tortoise.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea/Tortoise.private.md) 
+
+### #is_/same_as :: [Tortoise.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea/Tortoise.personal.md) 
+
+### #is_/same_as :: [Tortoise.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea/Tortoise.secret.md)
+

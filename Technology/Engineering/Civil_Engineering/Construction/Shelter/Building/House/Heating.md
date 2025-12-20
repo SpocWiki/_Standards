@@ -31,3 +31,22 @@ studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
 |  15 | remote Heating |         |                                       |
 |   4 | Heat Pump      |         |                                       |
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heating](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.md) 
+
+### #is_/same_as :: [Heating.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.public.md) 
+
+### #is_/same_as :: [Heating.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.internal.md) 
+
+### #is_/same_as :: [Heating.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.protect.md) 
+
+### #is_/same_as :: [Heating.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.private.md) 
+
+### #is_/same_as :: [Heating.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.personal.md) 
+
+### #is_/same_as :: [Heating.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.secret.md)
+

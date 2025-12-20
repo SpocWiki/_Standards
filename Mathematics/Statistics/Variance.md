@@ -82,3 +82,22 @@ Commons_category: Variance
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Variance) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Variance](/_Standards/Mathematics/Statistics/Variance.md) 
+
+### #is_/same_as :: [Variance.public](/_public/Mathematics/Statistics/Variance.public.md) 
+
+### #is_/same_as :: [Variance.internal](/_internal/Mathematics/Statistics/Variance.internal.md) 
+
+### #is_/same_as :: [Variance.protect](/_protect/Mathematics/Statistics/Variance.protect.md) 
+
+### #is_/same_as :: [Variance.private](/_private/Mathematics/Statistics/Variance.private.md) 
+
+### #is_/same_as :: [Variance.personal](/_personal/Mathematics/Statistics/Variance.personal.md) 
+
+### #is_/same_as :: [Variance.secret](/_secret/Mathematics/Statistics/Variance.secret.md)
+

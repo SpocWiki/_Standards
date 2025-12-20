@@ -44,3 +44,21 @@ Commons_category: Rowboats
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rowing) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rowing_Boat](/_Standards/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.md) 
+
+### #is_/same_as :: [Rowing_Boat.public](/_public/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.public.md) 
+
+### #is_/same_as :: [Rowing_Boat.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.internal.md) 
+
+### #is_/same_as :: [Rowing_Boat.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.protect.md) 
+
+### #is_/same_as :: [Rowing_Boat.private](/_private/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.private.md) 
+
+### #is_/same_as :: [Rowing_Boat.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.personal.md) 
+
+### #is_/same_as :: [Rowing_Boat.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.secret.md)
+

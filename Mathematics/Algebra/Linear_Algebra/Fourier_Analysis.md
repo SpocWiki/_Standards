@@ -50,3 +50,22 @@ Commons_category: Fourier analysis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fourier%20analysis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fourier_Analysis](/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.md) 
+
+### #is_/same_as :: [Fourier_Analysis.public](/_public/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.public.md) 
+
+### #is_/same_as :: [Fourier_Analysis.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.internal.md) 
+
+### #is_/same_as :: [Fourier_Analysis.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.protect.md) 
+
+### #is_/same_as :: [Fourier_Analysis.private](/_private/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.private.md) 
+
+### #is_/same_as :: [Fourier_Analysis.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.personal.md) 
+
+### #is_/same_as :: [Fourier_Analysis.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.secret.md)
+

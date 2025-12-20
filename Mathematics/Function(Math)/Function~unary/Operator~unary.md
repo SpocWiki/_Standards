@@ -39,3 +39,22 @@ Commons_category: Symbols for binary operations
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Unary%20operation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Operator~unary](/_Standards/Mathematics/Function(Math)/Function~unary/Operator~unary.md) 
+
+### #is_/same_as :: [Operator~unary.public](/_public/Mathematics/Function(Math)/Function~unary/Operator~unary.public.md) 
+
+### #is_/same_as :: [Operator~unary.internal](/_internal/Mathematics/Function(Math)/Function~unary/Operator~unary.internal.md) 
+
+### #is_/same_as :: [Operator~unary.protect](/_protect/Mathematics/Function(Math)/Function~unary/Operator~unary.protect.md) 
+
+### #is_/same_as :: [Operator~unary.private](/_private/Mathematics/Function(Math)/Function~unary/Operator~unary.private.md) 
+
+### #is_/same_as :: [Operator~unary.personal](/_personal/Mathematics/Function(Math)/Function~unary/Operator~unary.personal.md) 
+
+### #is_/same_as :: [Operator~unary.secret](/_secret/Mathematics/Function(Math)/Function~unary/Operator~unary.secret.md)
+

@@ -70,3 +70,21 @@ Colon_Classification: J374
 > The cultivation of grapes began approximately 8,000 years ago, and the fruit has been used as human food throughout its history. Eaten fresh or in dried form (as raisins, currants and sultanas), grapes also hold cultural significance in many parts of the world, particularly for their role in winemaking. Other grape-derived products include various types of jam, juice, vinegar and oil.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grape)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grape](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.md) 
+
+### #is_/same_as :: [Grape.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.public.md) 
+
+### #is_/same_as :: [Grape.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.internal.md) 
+
+### #is_/same_as :: [Grape.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.protect.md) 
+
+### #is_/same_as :: [Grape.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.private.md) 
+
+### #is_/same_as :: [Grape.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.personal.md) 
+
+### #is_/same_as :: [Grape.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Grape.secret.md)
+

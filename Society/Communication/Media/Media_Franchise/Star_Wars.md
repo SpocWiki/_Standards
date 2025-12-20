@@ -94,17 +94,17 @@ Facebook_username: StarWars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star_Wars](/_Standards/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Star_Wars.md) 
+### #is_/same_as :: [Star_Wars](/_Standards/Society/Communication/Media/Media_Franchise/Star_Wars.md) 
 
-### #is_/same_as :: [Star_Wars.public](/_public/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Star_Wars.public.md) 
+### #is_/same_as :: [Star_Wars.public](/_public/Society/Communication/Media/Media_Franchise/Star_Wars.public.md) 
 
-### #is_/same_as :: [Star_Wars.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Star_Wars.internal.md) 
+### #is_/same_as :: [Star_Wars.internal](/_internal/Society/Communication/Media/Media_Franchise/Star_Wars.internal.md) 
 
-### #is_/same_as :: [Star_Wars.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Star_Wars.protect.md) 
+### #is_/same_as :: [Star_Wars.protect](/_protect/Society/Communication/Media/Media_Franchise/Star_Wars.protect.md) 
 
-### #is_/same_as :: [Star_Wars.private](/_private/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Star_Wars.private.md) 
+### #is_/same_as :: [Star_Wars.private](/_private/Society/Communication/Media/Media_Franchise/Star_Wars.private.md) 
 
-### #is_/same_as :: [Star_Wars.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Star_Wars.personal.md) 
+### #is_/same_as :: [Star_Wars.personal](/_personal/Society/Communication/Media/Media_Franchise/Star_Wars.personal.md) 
 
-### #is_/same_as :: [Star_Wars.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Star_Wars.secret.md)
+### #is_/same_as :: [Star_Wars.secret](/_secret/Society/Communication/Media/Media_Franchise/Star_Wars.secret.md)
 

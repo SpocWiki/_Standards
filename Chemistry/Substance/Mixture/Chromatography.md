@@ -36,3 +36,22 @@ has_id_wikidata: Q170050
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chromatography) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chromatography](/_Standards/Chemistry/Substance/Mixture/Chromatography.md) 
+
+### #is_/same_as :: [Chromatography.public](/_public/Chemistry/Substance/Mixture/Chromatography.public.md) 
+
+### #is_/same_as :: [Chromatography.internal](/_internal/Chemistry/Substance/Mixture/Chromatography.internal.md) 
+
+### #is_/same_as :: [Chromatography.protect](/_protect/Chemistry/Substance/Mixture/Chromatography.protect.md) 
+
+### #is_/same_as :: [Chromatography.private](/_private/Chemistry/Substance/Mixture/Chromatography.private.md) 
+
+### #is_/same_as :: [Chromatography.personal](/_personal/Chemistry/Substance/Mixture/Chromatography.personal.md) 
+
+### #is_/same_as :: [Chromatography.secret](/_secret/Chemistry/Substance/Mixture/Chromatography.secret.md)
+

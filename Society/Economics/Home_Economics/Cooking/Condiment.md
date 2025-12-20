@@ -43,3 +43,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Condiment) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Condiment](/_Standards/Society/Economics/Home_Economics/Cooking/Condiment.md) 
+
+### #is_/same_as :: [Condiment.public](/_public/Society/Economics/Home_Economics/Cooking/Condiment.public.md) 
+
+### #is_/same_as :: [Condiment.internal](/_internal/Society/Economics/Home_Economics/Cooking/Condiment.internal.md) 
+
+### #is_/same_as :: [Condiment.protect](/_protect/Society/Economics/Home_Economics/Cooking/Condiment.protect.md) 
+
+### #is_/same_as :: [Condiment.private](/_private/Society/Economics/Home_Economics/Cooking/Condiment.private.md) 
+
+### #is_/same_as :: [Condiment.personal](/_personal/Society/Economics/Home_Economics/Cooking/Condiment.personal.md) 
+
+### #is_/same_as :: [Condiment.secret](/_secret/Society/Economics/Home_Economics/Cooking/Condiment.secret.md)
+

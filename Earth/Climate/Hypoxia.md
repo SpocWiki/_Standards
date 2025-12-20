@@ -31,3 +31,22 @@ Commons_category: Hypoxia (medical)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypoxia%20(environmental)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hypoxia](/_Standards/Earth/Climate/Hypoxia.md) 
+
+### #is_/same_as :: [Hypoxia.public](/_public/Earth/Climate/Hypoxia.public.md) 
+
+### #is_/same_as :: [Hypoxia.internal](/_internal/Earth/Climate/Hypoxia.internal.md) 
+
+### #is_/same_as :: [Hypoxia.protect](/_protect/Earth/Climate/Hypoxia.protect.md) 
+
+### #is_/same_as :: [Hypoxia.private](/_private/Earth/Climate/Hypoxia.private.md) 
+
+### #is_/same_as :: [Hypoxia.personal](/_personal/Earth/Climate/Hypoxia.personal.md) 
+
+### #is_/same_as :: [Hypoxia.secret](/_secret/Earth/Climate/Hypoxia.secret.md)
+

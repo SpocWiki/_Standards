@@ -44,3 +44,22 @@ Colon_Classification: Q:364
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paradise) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Paradise](/_Standards/Philosophy/Metaphysic/Religion/Paradise.md) 
+
+### #is_/same_as :: [Paradise.public](/_public/Philosophy/Metaphysic/Religion/Paradise.public.md) 
+
+### #is_/same_as :: [Paradise.internal](/_internal/Philosophy/Metaphysic/Religion/Paradise.internal.md) 
+
+### #is_/same_as :: [Paradise.protect](/_protect/Philosophy/Metaphysic/Religion/Paradise.protect.md) 
+
+### #is_/same_as :: [Paradise.private](/_private/Philosophy/Metaphysic/Religion/Paradise.private.md) 
+
+### #is_/same_as :: [Paradise.personal](/_personal/Philosophy/Metaphysic/Religion/Paradise.personal.md) 
+
+### #is_/same_as :: [Paradise.secret](/_secret/Philosophy/Metaphysic/Religion/Paradise.secret.md)
+

@@ -59,3 +59,22 @@ Commons_category: Trademarks
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trademark) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trademark](/_Standards/Society/Law/Civil_Law/Intellectual_Property/Trademark.md) 
+
+### #is_/same_as :: [Trademark.public](/_public/Society/Law/Civil_Law/Intellectual_Property/Trademark.public.md) 
+
+### #is_/same_as :: [Trademark.internal](/_internal/Society/Law/Civil_Law/Intellectual_Property/Trademark.internal.md) 
+
+### #is_/same_as :: [Trademark.protect](/_protect/Society/Law/Civil_Law/Intellectual_Property/Trademark.protect.md) 
+
+### #is_/same_as :: [Trademark.private](/_private/Society/Law/Civil_Law/Intellectual_Property/Trademark.private.md) 
+
+### #is_/same_as :: [Trademark.personal](/_personal/Society/Law/Civil_Law/Intellectual_Property/Trademark.personal.md) 
+
+### #is_/same_as :: [Trademark.secret](/_secret/Society/Law/Civil_Law/Intellectual_Property/Trademark.secret.md)
+

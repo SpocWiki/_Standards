@@ -136,3 +136,22 @@ vocalized_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20the%20Baptist) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [John_the_Baptist](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.md) 
+
+### #is_/same_as :: [John_the_Baptist.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.public.md) 
+
+### #is_/same_as :: [John_the_Baptist.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.internal.md) 
+
+### #is_/same_as :: [John_the_Baptist.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.protect.md) 
+
+### #is_/same_as :: [John_the_Baptist.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.private.md) 
+
+### #is_/same_as :: [John_the_Baptist.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.personal.md) 
+
+### #is_/same_as :: [John_the_Baptist.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.secret.md)
+

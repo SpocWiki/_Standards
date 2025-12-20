@@ -50,3 +50,22 @@ Commons_category: Electrophoresis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrophoresis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electrophoresis](/_Standards/Chemistry/Substance/Mixture/Electrophoresis.md) 
+
+### #is_/same_as :: [Electrophoresis.public](/_public/Chemistry/Substance/Mixture/Electrophoresis.public.md) 
+
+### #is_/same_as :: [Electrophoresis.internal](/_internal/Chemistry/Substance/Mixture/Electrophoresis.internal.md) 
+
+### #is_/same_as :: [Electrophoresis.protect](/_protect/Chemistry/Substance/Mixture/Electrophoresis.protect.md) 
+
+### #is_/same_as :: [Electrophoresis.private](/_private/Chemistry/Substance/Mixture/Electrophoresis.private.md) 
+
+### #is_/same_as :: [Electrophoresis.personal](/_personal/Chemistry/Substance/Mixture/Electrophoresis.personal.md) 
+
+### #is_/same_as :: [Electrophoresis.secret](/_secret/Chemistry/Substance/Mixture/Electrophoresis.secret.md)
+

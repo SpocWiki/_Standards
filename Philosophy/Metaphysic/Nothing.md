@@ -41,3 +41,22 @@ native_label: Anyen
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nothing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nothing](/_Standards/Philosophy/Metaphysic/Nothing.md) 
+
+### #is_/same_as :: [Nothing.public](/_public/Philosophy/Metaphysic/Nothing.public.md) 
+
+### #is_/same_as :: [Nothing.internal](/_internal/Philosophy/Metaphysic/Nothing.internal.md) 
+
+### #is_/same_as :: [Nothing.protect](/_protect/Philosophy/Metaphysic/Nothing.protect.md) 
+
+### #is_/same_as :: [Nothing.private](/_private/Philosophy/Metaphysic/Nothing.private.md) 
+
+### #is_/same_as :: [Nothing.personal](/_personal/Philosophy/Metaphysic/Nothing.personal.md) 
+
+### #is_/same_as :: [Nothing.secret](/_secret/Philosophy/Metaphysic/Nothing.secret.md)
+

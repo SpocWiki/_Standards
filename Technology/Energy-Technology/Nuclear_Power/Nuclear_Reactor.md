@@ -18,3 +18,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20reactor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nuclear_Reactor](/_Standards/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.md) 
+
+### #is_/same_as :: [Nuclear_Reactor.public](/_public/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.public.md) 
+
+### #is_/same_as :: [Nuclear_Reactor.internal](/_internal/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.internal.md) 
+
+### #is_/same_as :: [Nuclear_Reactor.protect](/_protect/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.protect.md) 
+
+### #is_/same_as :: [Nuclear_Reactor.private](/_private/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.private.md) 
+
+### #is_/same_as :: [Nuclear_Reactor.personal](/_personal/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.personal.md) 
+
+### #is_/same_as :: [Nuclear_Reactor.secret](/_secret/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.secret.md)
+

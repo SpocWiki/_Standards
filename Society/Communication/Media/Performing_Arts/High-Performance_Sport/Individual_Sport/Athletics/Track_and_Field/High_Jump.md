@@ -44,3 +44,22 @@ OpenStreetMap_tag: athletics=high_jump
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/High%20jump) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [High_Jump](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/High_Jump.md) 
+
+### #is_/same_as :: [High_Jump.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/High_Jump.public.md) 
+
+### #is_/same_as :: [High_Jump.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/High_Jump.internal.md) 
+
+### #is_/same_as :: [High_Jump.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/High_Jump.protect.md) 
+
+### #is_/same_as :: [High_Jump.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/High_Jump.private.md) 
+
+### #is_/same_as :: [High_Jump.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/High_Jump.personal.md) 
+
+### #is_/same_as :: [High_Jump.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/High_Jump.secret.md)
+

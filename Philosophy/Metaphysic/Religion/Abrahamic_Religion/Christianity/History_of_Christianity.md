@@ -37,3 +37,22 @@ Library_of_Congress_Classification: BR140-BR1510
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Christianity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Christianity](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.md) 
+
+### #is_/same_as :: [History_of_Christianity.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.public.md) 
+
+### #is_/same_as :: [History_of_Christianity.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.internal.md) 
+
+### #is_/same_as :: [History_of_Christianity.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.protect.md) 
+
+### #is_/same_as :: [History_of_Christianity.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.private.md) 
+
+### #is_/same_as :: [History_of_Christianity.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.personal.md) 
+
+### #is_/same_as :: [History_of_Christianity.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.secret.md)
+

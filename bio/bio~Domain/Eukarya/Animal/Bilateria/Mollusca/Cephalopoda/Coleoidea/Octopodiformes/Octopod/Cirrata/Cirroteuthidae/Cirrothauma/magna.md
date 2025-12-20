@@ -149,7 +149,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
   Reference         Hoyle, W. E. 1886. Report on the Cephalopoda. Rept. Sci. Res. Challenger. 16 (44): 246 pp.
   View              Side
   Type              Holotype
-  --------------------------------
+  --------------------------------
 
 
 ## Confidential Links & Embeds: 

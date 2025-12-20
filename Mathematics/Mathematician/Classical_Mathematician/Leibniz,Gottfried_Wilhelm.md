@@ -303,17 +303,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leibniz,Gottfried_Wilhelm](/_Standards/Mathematics/Mathematician/Leibniz,Gottfried_Wilhelm.md) 
+### #is_/same_as :: [Leibniz,Gottfried_Wilhelm](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Leibniz,Gottfried_Wilhelm.md) 
 
-### #is_/same_as :: [Leibniz,Gottfried_Wilhelm.public](/_public/Mathematics/Mathematician/Leibniz,Gottfried_Wilhelm.public.md) 
+### #is_/same_as :: [Leibniz,Gottfried_Wilhelm.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Leibniz,Gottfried_Wilhelm.public.md) 
 
-### #is_/same_as :: [Leibniz,Gottfried_Wilhelm.internal](/_internal/Mathematics/Mathematician/Leibniz,Gottfried_Wilhelm.internal.md) 
+### #is_/same_as :: [Leibniz,Gottfried_Wilhelm.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Leibniz,Gottfried_Wilhelm.internal.md) 
 
-### #is_/same_as :: [Leibniz,Gottfried_Wilhelm.protect](/_protect/Mathematics/Mathematician/Leibniz,Gottfried_Wilhelm.protect.md) 
+### #is_/same_as :: [Leibniz,Gottfried_Wilhelm.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Leibniz,Gottfried_Wilhelm.protect.md) 
 
-### #is_/same_as :: [Leibniz,Gottfried_Wilhelm.private](/_private/Mathematics/Mathematician/Leibniz,Gottfried_Wilhelm.private.md) 
+### #is_/same_as :: [Leibniz,Gottfried_Wilhelm.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Leibniz,Gottfried_Wilhelm.private.md) 
 
-### #is_/same_as :: [Leibniz,Gottfried_Wilhelm.personal](/_personal/Mathematics/Mathematician/Leibniz,Gottfried_Wilhelm.personal.md) 
+### #is_/same_as :: [Leibniz,Gottfried_Wilhelm.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Leibniz,Gottfried_Wilhelm.personal.md) 
 
-### #is_/same_as :: [Leibniz,Gottfried_Wilhelm.secret](/_secret/Mathematics/Mathematician/Leibniz,Gottfried_Wilhelm.secret.md)
+### #is_/same_as :: [Leibniz,Gottfried_Wilhelm.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Leibniz,Gottfried_Wilhelm.secret.md)
 

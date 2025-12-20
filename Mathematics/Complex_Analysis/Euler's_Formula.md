@@ -44,3 +44,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Euler's%20formula) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Euler's_Formula](/_Standards/Mathematics/Complex_Analysis/Euler's_Formula.md) 
+
+### #is_/same_as :: [Euler's_Formula.public](/_public/Mathematics/Complex_Analysis/Euler's_Formula.public.md) 
+
+### #is_/same_as :: [Euler's_Formula.internal](/_internal/Mathematics/Complex_Analysis/Euler's_Formula.internal.md) 
+
+### #is_/same_as :: [Euler's_Formula.protect](/_protect/Mathematics/Complex_Analysis/Euler's_Formula.protect.md) 
+
+### #is_/same_as :: [Euler's_Formula.private](/_private/Mathematics/Complex_Analysis/Euler's_Formula.private.md) 
+
+### #is_/same_as :: [Euler's_Formula.personal](/_personal/Mathematics/Complex_Analysis/Euler's_Formula.personal.md) 
+
+### #is_/same_as :: [Euler's_Formula.secret](/_secret/Mathematics/Complex_Analysis/Euler's_Formula.secret.md)
+

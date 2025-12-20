@@ -35,3 +35,22 @@ Commons_category: Economic models
 > [Wikipedia](https://en.wikipedia.org/wiki/Economic%20model) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Economic_Model](/_Standards/Society/Economics/Economic_Model.md) 
+
+### #is_/same_as :: [Economic_Model.public](/_public/Society/Economics/Economic_Model.public.md) 
+
+### #is_/same_as :: [Economic_Model.internal](/_internal/Society/Economics/Economic_Model.internal.md) 
+
+### #is_/same_as :: [Economic_Model.protect](/_protect/Society/Economics/Economic_Model.protect.md) 
+
+### #is_/same_as :: [Economic_Model.private](/_private/Society/Economics/Economic_Model.private.md) 
+
+### #is_/same_as :: [Economic_Model.personal](/_personal/Society/Economics/Economic_Model.personal.md) 
+
+### #is_/same_as :: [Economic_Model.secret](/_secret/Society/Economics/Economic_Model.secret.md)
+

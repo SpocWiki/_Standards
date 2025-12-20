@@ -101,3 +101,22 @@ Dewey_Decimal_Classification: "133.43"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Witchcraft) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Witchcraft](/_Standards/Philosophy/Metaphysic/Supernatural/Witchcraft.md) 
+
+### #is_/same_as :: [Witchcraft.public](/_public/Philosophy/Metaphysic/Supernatural/Witchcraft.public.md) 
+
+### #is_/same_as :: [Witchcraft.internal](/_internal/Philosophy/Metaphysic/Supernatural/Witchcraft.internal.md) 
+
+### #is_/same_as :: [Witchcraft.protect](/_protect/Philosophy/Metaphysic/Supernatural/Witchcraft.protect.md) 
+
+### #is_/same_as :: [Witchcraft.private](/_private/Philosophy/Metaphysic/Supernatural/Witchcraft.private.md) 
+
+### #is_/same_as :: [Witchcraft.personal](/_personal/Philosophy/Metaphysic/Supernatural/Witchcraft.personal.md) 
+
+### #is_/same_as :: [Witchcraft.secret](/_secret/Philosophy/Metaphysic/Supernatural/Witchcraft.secret.md)
+

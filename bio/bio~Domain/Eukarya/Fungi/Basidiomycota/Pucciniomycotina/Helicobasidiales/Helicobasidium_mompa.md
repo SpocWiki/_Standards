@@ -38,7 +38,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
   Life Cycle Stage ::     Sterile stage (Thanatophytum) of the phytoparasitic teleomorph
   Collection           2002
   Copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
-  -----------------------------------------------------------------------------
+  -----------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

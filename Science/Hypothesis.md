@@ -52,3 +52,22 @@ Commons_category: Hypotheses
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypothesis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hypothesis](/_Standards/Science/Hypothesis.md) 
+
+### #is_/same_as :: [Hypothesis.public](/_public/Science/Hypothesis.public.md) 
+
+### #is_/same_as :: [Hypothesis.internal](/_internal/Science/Hypothesis.internal.md) 
+
+### #is_/same_as :: [Hypothesis.protect](/_protect/Science/Hypothesis.protect.md) 
+
+### #is_/same_as :: [Hypothesis.private](/_private/Science/Hypothesis.private.md) 
+
+### #is_/same_as :: [Hypothesis.personal](/_personal/Science/Hypothesis.personal.md) 
+
+### #is_/same_as :: [Hypothesis.secret](/_secret/Science/Hypothesis.secret.md)
+

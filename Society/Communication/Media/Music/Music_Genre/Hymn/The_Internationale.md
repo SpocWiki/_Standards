@@ -95,3 +95,22 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/La%20Internacio%20en%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Internationale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [The_Internationale](/_Standards/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.md) 
+
+### #is_/same_as :: [The_Internationale.public](/_public/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.public.md) 
+
+### #is_/same_as :: [The_Internationale.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.internal.md) 
+
+### #is_/same_as :: [The_Internationale.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.protect.md) 
+
+### #is_/same_as :: [The_Internationale.private](/_private/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.private.md) 
+
+### #is_/same_as :: [The_Internationale.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.personal.md) 
+
+### #is_/same_as :: [The_Internationale.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.secret.md)
+

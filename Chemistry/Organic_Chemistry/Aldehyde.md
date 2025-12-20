@@ -64,17 +64,17 @@ Krugosvet_article: himiya/aldegidy-i-ketony
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aldehyde](Aldehyde.md) 
+### #is_/same_as :: [Aldehyde](/_Standards/Chemistry/Organic_Chemistry/Aldehyde.md) 
 
-### #is_/same_as :: [Aldehyde.public](/_public/Chemistry/organic/Aldehyde.public.md) 
+### #is_/same_as :: [Aldehyde.public](/_public/Chemistry/Organic_Chemistry/Aldehyde.public.md) 
 
-### #is_/same_as :: [Aldehyde.internal](/_internal/Chemistry/organic/Aldehyde.internal.md) 
+### #is_/same_as :: [Aldehyde.internal](/_internal/Chemistry/Organic_Chemistry/Aldehyde.internal.md) 
 
-### #is_/same_as :: [Aldehyde.protect](/_protect/Chemistry/organic/Aldehyde.protect.md) 
+### #is_/same_as :: [Aldehyde.protect](/_protect/Chemistry/Organic_Chemistry/Aldehyde.protect.md) 
 
-### #is_/same_as :: [Aldehyde.private](/_private/Chemistry/organic/Aldehyde.private.md) 
+### #is_/same_as :: [Aldehyde.private](/_private/Chemistry/Organic_Chemistry/Aldehyde.private.md) 
 
-### #is_/same_as :: [Aldehyde.personal](/_personal/Chemistry/organic/Aldehyde.personal.md) 
+### #is_/same_as :: [Aldehyde.personal](/_personal/Chemistry/Organic_Chemistry/Aldehyde.personal.md) 
 
-### #is_/same_as :: [Aldehyde.secret](/_secret/Chemistry/organic/Aldehyde.secret.md)
+### #is_/same_as :: [Aldehyde.secret](/_secret/Chemistry/Organic_Chemistry/Aldehyde.secret.md)
 

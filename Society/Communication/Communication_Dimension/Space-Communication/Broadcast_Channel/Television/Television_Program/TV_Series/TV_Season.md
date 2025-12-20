@@ -70,17 +70,17 @@ Season dedicated to TV broadcast and associated online delivery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tv_Season](/_Standards/Society/Communication/Media/Creative_Work/Tv_Season.md) 
+### #is_/same_as :: [TV_Season](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/TV_Season.md) 
 
-### #is_/same_as :: [Tv_Season.public](/_public/Society/Communication/Media/Creative_Work/Tv_Season.public.md) 
+### #is_/same_as :: [TV_Season.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/TV_Season.public.md) 
 
-### #is_/same_as :: [Tv_Season.internal](/_internal/Society/Communication/Media/Creative_Work/Tv_Season.internal.md) 
+### #is_/same_as :: [TV_Season.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/TV_Season.internal.md) 
 
-### #is_/same_as :: [Tv_Season.protect](/_protect/Society/Communication/Media/Creative_Work/Tv_Season.protect.md) 
+### #is_/same_as :: [TV_Season.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/TV_Season.protect.md) 
 
-### #is_/same_as :: [Tv_Season.private](/_private/Society/Communication/Media/Creative_Work/Tv_Season.private.md) 
+### #is_/same_as :: [TV_Season.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/TV_Season.private.md) 
 
-### #is_/same_as :: [Tv_Season.personal](/_personal/Society/Communication/Media/Creative_Work/Tv_Season.personal.md) 
+### #is_/same_as :: [TV_Season.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/TV_Season.personal.md) 
 
-### #is_/same_as :: [Tv_Season.secret](/_secret/Society/Communication/Media/Creative_Work/Tv_Season.secret.md)
+### #is_/same_as :: [TV_Season.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/TV_Season.secret.md)
 

@@ -158,3 +158,22 @@ birth_name: Ernst Wilhelm Wenders
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wim%20Wenders) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wenders,Wim](/_Standards/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.md) 
+
+### #is_/same_as :: [Wenders,Wim.public](/_public/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.public.md) 
+
+### #is_/same_as :: [Wenders,Wim.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.internal.md) 
+
+### #is_/same_as :: [Wenders,Wim.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.protect.md) 
+
+### #is_/same_as :: [Wenders,Wim.private](/_private/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.private.md) 
+
+### #is_/same_as :: [Wenders,Wim.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.personal.md) 
+
+### #is_/same_as :: [Wenders,Wim.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Wenders,Wim.secret.md)
+

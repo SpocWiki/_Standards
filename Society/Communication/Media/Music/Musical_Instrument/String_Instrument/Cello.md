@@ -25,3 +25,22 @@ has_id_wikidata:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cello) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cello](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.md) 
+
+### #is_/same_as :: [Cello.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.public.md) 
+
+### #is_/same_as :: [Cello.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.internal.md) 
+
+### #is_/same_as :: [Cello.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.protect.md) 
+
+### #is_/same_as :: [Cello.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.private.md) 
+
+### #is_/same_as :: [Cello.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.personal.md) 
+
+### #is_/same_as :: [Cello.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.secret.md)
+

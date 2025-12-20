@@ -53,3 +53,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vulcanization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vulcanization](/_Standards/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.md) 
+
+### #is_/same_as :: [Vulcanization.public](/_public/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.public.md) 
+
+### #is_/same_as :: [Vulcanization.internal](/_internal/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.internal.md) 
+
+### #is_/same_as :: [Vulcanization.protect](/_protect/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.protect.md) 
+
+### #is_/same_as :: [Vulcanization.private](/_private/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.private.md) 
+
+### #is_/same_as :: [Vulcanization.personal](/_personal/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.personal.md) 
+
+### #is_/same_as :: [Vulcanization.secret](/_secret/Chemistry/Chemical_Engineering/Chemical_Process/Vulcanization.secret.md)
+

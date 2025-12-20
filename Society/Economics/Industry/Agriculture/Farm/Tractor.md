@@ -50,3 +50,22 @@ Commons_category: Tractors
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tractor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tractor](/_Standards/Society/Economics/Industry/Agriculture/Farm/Tractor.md) 
+
+### #is_/same_as :: [Tractor.public](/_public/Society/Economics/Industry/Agriculture/Farm/Tractor.public.md) 
+
+### #is_/same_as :: [Tractor.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Tractor.internal.md) 
+
+### #is_/same_as :: [Tractor.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Tractor.protect.md) 
+
+### #is_/same_as :: [Tractor.private](/_private/Society/Economics/Industry/Agriculture/Farm/Tractor.private.md) 
+
+### #is_/same_as :: [Tractor.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Tractor.personal.md) 
+
+### #is_/same_as :: [Tractor.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Tractor.secret.md)
+

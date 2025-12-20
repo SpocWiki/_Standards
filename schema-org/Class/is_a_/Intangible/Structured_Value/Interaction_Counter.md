@@ -41,17 +41,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [interaction_counter](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.md) 
+### #is_/same_as :: [Interaction_Counter](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.md) 
 
-### #is_/same_as :: [interaction_counter.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.public.md) 
+### #is_/same_as :: [Interaction_Counter.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.public.md) 
 
-### #is_/same_as :: [interaction_counter.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.internal.md) 
+### #is_/same_as :: [Interaction_Counter.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.internal.md) 
 
-### #is_/same_as :: [interaction_counter.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.protect.md) 
+### #is_/same_as :: [Interaction_Counter.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.protect.md) 
 
-### #is_/same_as :: [interaction_counter.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.private.md) 
+### #is_/same_as :: [Interaction_Counter.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.private.md) 
 
-### #is_/same_as :: [interaction_counter.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.personal.md) 
+### #is_/same_as :: [Interaction_Counter.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.personal.md) 
 
-### #is_/same_as :: [interaction_counter.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.secret.md)
+### #is_/same_as :: [Interaction_Counter.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.secret.md)
 

@@ -76,17 +76,17 @@ ISNI: "0000000113390245"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bonaventura_Cavalieri](/_Standards/Mathematics/Mathematician/Bonaventura_Cavalieri.md) 
+### #is_/same_as :: [Cavalieri,Bonaventura](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.md) 
 
-### #is_/same_as :: [Bonaventura_Cavalieri.public](/_public/Mathematics/Mathematician/Bonaventura_Cavalieri.public.md) 
+### #is_/same_as :: [Cavalieri,Bonaventura.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.public.md) 
 
-### #is_/same_as :: [Bonaventura_Cavalieri.internal](/_internal/Mathematics/Mathematician/Bonaventura_Cavalieri.internal.md) 
+### #is_/same_as :: [Cavalieri,Bonaventura.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.internal.md) 
 
-### #is_/same_as :: [Bonaventura_Cavalieri.protect](/_protect/Mathematics/Mathematician/Bonaventura_Cavalieri.protect.md) 
+### #is_/same_as :: [Cavalieri,Bonaventura.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.protect.md) 
 
-### #is_/same_as :: [Bonaventura_Cavalieri.private](/_private/Mathematics/Mathematician/Bonaventura_Cavalieri.private.md) 
+### #is_/same_as :: [Cavalieri,Bonaventura.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.private.md) 
 
-### #is_/same_as :: [Bonaventura_Cavalieri.personal](/_personal/Mathematics/Mathematician/Bonaventura_Cavalieri.personal.md) 
+### #is_/same_as :: [Cavalieri,Bonaventura.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.personal.md) 
 
-### #is_/same_as :: [Bonaventura_Cavalieri.secret](/_secret/Mathematics/Mathematician/Bonaventura_Cavalieri.secret.md)
+### #is_/same_as :: [Cavalieri,Bonaventura.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Cavalieri,Bonaventura.secret.md)
 

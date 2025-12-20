@@ -93,3 +93,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quartz) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Quartz](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.md) 
+
+### #is_/same_as :: [Quartz.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.public.md) 
+
+### #is_/same_as :: [Quartz.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.internal.md) 
+
+### #is_/same_as :: [Quartz.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.protect.md) 
+
+### #is_/same_as :: [Quartz.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.private.md) 
+
+### #is_/same_as :: [Quartz.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.personal.md) 
+
+### #is_/same_as :: [Quartz.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Quartz.secret.md)
+

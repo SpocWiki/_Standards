@@ -53,7 +53,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md))
   Sex ::                Female
   Life Cycle Stage ::     adult
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

@@ -43,3 +43,22 @@ Commons_gallery: Rainforest
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rainforest) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rainforest](/_Standards/bio/Ecology/Ecosystem/Rainforest.md) 
+
+### #is_/same_as :: [Rainforest.public](/_public/bio/Ecology/Ecosystem/Rainforest.public.md) 
+
+### #is_/same_as :: [Rainforest.internal](/_internal/bio/Ecology/Ecosystem/Rainforest.internal.md) 
+
+### #is_/same_as :: [Rainforest.protect](/_protect/bio/Ecology/Ecosystem/Rainforest.protect.md) 
+
+### #is_/same_as :: [Rainforest.private](/_private/bio/Ecology/Ecosystem/Rainforest.private.md) 
+
+### #is_/same_as :: [Rainforest.personal](/_personal/bio/Ecology/Ecosystem/Rainforest.personal.md) 
+
+### #is_/same_as :: [Rainforest.secret](/_secret/bio/Ecology/Ecosystem/Rainforest.secret.md)
+

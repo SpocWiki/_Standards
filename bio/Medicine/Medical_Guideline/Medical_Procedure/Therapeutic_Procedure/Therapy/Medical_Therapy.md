@@ -104,19 +104,20 @@ It usually includes:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Therapy) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Therapy](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.md) 
+### #is_/same_as :: [Medical_Therapy](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy.md) 
 
-### #is_/same_as :: [Medical_Therapy.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.public.md) 
+### #is_/same_as :: [Medical_Therapy.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy.public.md) 
 
-### #is_/same_as :: [Medical_Therapy.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.internal.md) 
+### #is_/same_as :: [Medical_Therapy.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy.internal.md) 
 
-### #is_/same_as :: [Medical_Therapy.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.protect.md) 
+### #is_/same_as :: [Medical_Therapy.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy.protect.md) 
 
-### #is_/same_as :: [Medical_Therapy.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.private.md) 
+### #is_/same_as :: [Medical_Therapy.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy.private.md) 
 
-### #is_/same_as :: [Medical_Therapy.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.personal.md) 
+### #is_/same_as :: [Medical_Therapy.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy.personal.md) 
 
-### #is_/same_as :: [Medical_Therapy.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Medical_Therapy.secret.md)
+### #is_/same_as :: [Medical_Therapy.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy.secret.md)
 

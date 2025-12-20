@@ -69,3 +69,22 @@ Dewey_Decimal_Classification: "599.335"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Talpidae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Talpidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Talpidae.md) 
+
+### #is_/same_as :: [Talpidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Talpidae.public.md) 
+
+### #is_/same_as :: [Talpidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Talpidae.internal.md) 
+
+### #is_/same_as :: [Talpidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Talpidae.protect.md) 
+
+### #is_/same_as :: [Talpidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Talpidae.private.md) 
+
+### #is_/same_as :: [Talpidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Talpidae.personal.md) 
+
+### #is_/same_as :: [Talpidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Talpidae.secret.md)
+

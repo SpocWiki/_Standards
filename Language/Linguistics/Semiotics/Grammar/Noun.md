@@ -65,3 +65,22 @@ Commons_category: Nouns
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Noun) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Noun](/_Standards/Language/Linguistics/Semiotics/Grammar/Noun.md) 
+
+### #is_/same_as :: [Noun.public](/_public/Language/Linguistics/Semiotics/Grammar/Noun.public.md) 
+
+### #is_/same_as :: [Noun.internal](/_internal/Language/Linguistics/Semiotics/Grammar/Noun.internal.md) 
+
+### #is_/same_as :: [Noun.protect](/_protect/Language/Linguistics/Semiotics/Grammar/Noun.protect.md) 
+
+### #is_/same_as :: [Noun.private](/_private/Language/Linguistics/Semiotics/Grammar/Noun.private.md) 
+
+### #is_/same_as :: [Noun.personal](/_personal/Language/Linguistics/Semiotics/Grammar/Noun.personal.md) 
+
+### #is_/same_as :: [Noun.secret](/_secret/Language/Linguistics/Semiotics/Grammar/Noun.secret.md)
+

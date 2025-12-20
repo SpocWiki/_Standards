@@ -29,3 +29,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Acrostic)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Acrostic](/_Standards/Language/Acrostic.md) 
+
+### #is_/same_as :: [Acrostic.public](/_public/Language/Acrostic.public.md) 
+
+### #is_/same_as :: [Acrostic.internal](/_internal/Language/Acrostic.internal.md) 
+
+### #is_/same_as :: [Acrostic.protect](/_protect/Language/Acrostic.protect.md) 
+
+### #is_/same_as :: [Acrostic.private](/_private/Language/Acrostic.private.md) 
+
+### #is_/same_as :: [Acrostic.personal](/_personal/Language/Acrostic.personal.md) 
+
+### #is_/same_as :: [Acrostic.secret](/_secret/Language/Acrostic.secret.md)
+

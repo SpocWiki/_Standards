@@ -68,3 +68,22 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spin%20(physics)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spin(Physics)](/_Standards/Science/Physics/Quantum_Mechanics/Spin(Physics).md) 
+
+### #is_/same_as :: [Spin(Physics).public](/_public/Science/Physics/Quantum_Mechanics/Spin(Physics).public.md) 
+
+### #is_/same_as :: [Spin(Physics).internal](/_internal/Science/Physics/Quantum_Mechanics/Spin(Physics).internal.md) 
+
+### #is_/same_as :: [Spin(Physics).protect](/_protect/Science/Physics/Quantum_Mechanics/Spin(Physics).protect.md) 
+
+### #is_/same_as :: [Spin(Physics).private](/_private/Science/Physics/Quantum_Mechanics/Spin(Physics).private.md) 
+
+### #is_/same_as :: [Spin(Physics).personal](/_personal/Science/Physics/Quantum_Mechanics/Spin(Physics).personal.md) 
+
+### #is_/same_as :: [Spin(Physics).secret](/_secret/Science/Physics/Quantum_Mechanics/Spin(Physics).secret.md)
+

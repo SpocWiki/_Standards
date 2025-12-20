@@ -33,3 +33,22 @@ MeSH_tree_code: H01.158.273.200
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Developmental%20biology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Developmental_Biology](/_Standards/bio/Reproduction/Developmental_Biology.md) 
+
+### #is_/same_as :: [Developmental_Biology.public](/_public/bio/Reproduction/Developmental_Biology.public.md) 
+
+### #is_/same_as :: [Developmental_Biology.internal](/_internal/bio/Reproduction/Developmental_Biology.internal.md) 
+
+### #is_/same_as :: [Developmental_Biology.protect](/_protect/bio/Reproduction/Developmental_Biology.protect.md) 
+
+### #is_/same_as :: [Developmental_Biology.private](/_private/bio/Reproduction/Developmental_Biology.private.md) 
+
+### #is_/same_as :: [Developmental_Biology.personal](/_personal/bio/Reproduction/Developmental_Biology.personal.md) 
+
+### #is_/same_as :: [Developmental_Biology.secret](/_secret/bio/Reproduction/Developmental_Biology.secret.md)
+

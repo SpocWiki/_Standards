@@ -40,3 +40,22 @@ Commons_category: Hypothesis testing
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Statistical%20hypothesis%20test) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Statistical_Test](/_Standards/Mathematics/Statistics/Statistical_Test.md) 
+
+### #is_/same_as :: [Statistical_Test.public](/_public/Mathematics/Statistics/Statistical_Test.public.md) 
+
+### #is_/same_as :: [Statistical_Test.internal](/_internal/Mathematics/Statistics/Statistical_Test.internal.md) 
+
+### #is_/same_as :: [Statistical_Test.protect](/_protect/Mathematics/Statistics/Statistical_Test.protect.md) 
+
+### #is_/same_as :: [Statistical_Test.private](/_private/Mathematics/Statistics/Statistical_Test.private.md) 
+
+### #is_/same_as :: [Statistical_Test.personal](/_personal/Mathematics/Statistics/Statistical_Test.personal.md) 
+
+### #is_/same_as :: [Statistical_Test.secret](/_secret/Mathematics/Statistics/Statistical_Test.secret.md)
+

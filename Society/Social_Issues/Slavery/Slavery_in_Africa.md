@@ -34,3 +34,22 @@ Commons_category: Slavery in Africa
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Slavery%20in%20Africa) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Slavery_in_Africa](/_Standards/Society/Social_Issues/Slavery/Slavery_in_Africa.md) 
+
+### #is_/same_as :: [Slavery_in_Africa.public](/_public/Society/Social_Issues/Slavery/Slavery_in_Africa.public.md) 
+
+### #is_/same_as :: [Slavery_in_Africa.internal](/_internal/Society/Social_Issues/Slavery/Slavery_in_Africa.internal.md) 
+
+### #is_/same_as :: [Slavery_in_Africa.protect](/_protect/Society/Social_Issues/Slavery/Slavery_in_Africa.protect.md) 
+
+### #is_/same_as :: [Slavery_in_Africa.private](/_private/Society/Social_Issues/Slavery/Slavery_in_Africa.private.md) 
+
+### #is_/same_as :: [Slavery_in_Africa.personal](/_personal/Society/Social_Issues/Slavery/Slavery_in_Africa.personal.md) 
+
+### #is_/same_as :: [Slavery_in_Africa.secret](/_secret/Society/Social_Issues/Slavery/Slavery_in_Africa.secret.md)
+

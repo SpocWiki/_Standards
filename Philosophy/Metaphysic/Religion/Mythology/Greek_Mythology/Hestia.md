@@ -73,3 +73,22 @@ name_in_native_language:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hestia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hestia](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.md) 
+
+### #is_/same_as :: [Hestia.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.public.md) 
+
+### #is_/same_as :: [Hestia.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.internal.md) 
+
+### #is_/same_as :: [Hestia.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.protect.md) 
+
+### #is_/same_as :: [Hestia.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.private.md) 
+
+### #is_/same_as :: [Hestia.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.personal.md) 
+
+### #is_/same_as :: [Hestia.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.secret.md)
+

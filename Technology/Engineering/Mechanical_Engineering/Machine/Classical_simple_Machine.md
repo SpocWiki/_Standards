@@ -31,3 +31,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Simple%20machine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Classical_simple_Machine](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.md) 
+
+### #is_/same_as :: [Classical_simple_Machine.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.public.md) 
+
+### #is_/same_as :: [Classical_simple_Machine.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.internal.md) 
+
+### #is_/same_as :: [Classical_simple_Machine.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.protect.md) 
+
+### #is_/same_as :: [Classical_simple_Machine.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.private.md) 
+
+### #is_/same_as :: [Classical_simple_Machine.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.personal.md) 
+
+### #is_/same_as :: [Classical_simple_Machine.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.secret.md)
+

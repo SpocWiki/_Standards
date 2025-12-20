@@ -163,3 +163,22 @@ ISNI: "0000000121016384"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Graham%20Greene) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Greene,Graham](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Greene,Graham.md) 
+
+### #is_/same_as :: [Greene,Graham.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Greene,Graham.public.md) 
+
+### #is_/same_as :: [Greene,Graham.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Greene,Graham.internal.md) 
+
+### #is_/same_as :: [Greene,Graham.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Greene,Graham.protect.md) 
+
+### #is_/same_as :: [Greene,Graham.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Greene,Graham.private.md) 
+
+### #is_/same_as :: [Greene,Graham.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Greene,Graham.personal.md) 
+
+### #is_/same_as :: [Greene,Graham.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Greene,Graham.secret.md)
+

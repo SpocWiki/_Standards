@@ -31,3 +31,22 @@ Commons_gallery: Irrigation sprinkler
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Irrigation%20sprinkler) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Irrigation_Sprinkler](/_Standards/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.md) 
+
+### #is_/same_as :: [Irrigation_Sprinkler.public](/_public/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.public.md) 
+
+### #is_/same_as :: [Irrigation_Sprinkler.internal](/_internal/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.internal.md) 
+
+### #is_/same_as :: [Irrigation_Sprinkler.protect](/_protect/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.protect.md) 
+
+### #is_/same_as :: [Irrigation_Sprinkler.private](/_private/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.private.md) 
+
+### #is_/same_as :: [Irrigation_Sprinkler.personal](/_personal/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.personal.md) 
+
+### #is_/same_as :: [Irrigation_Sprinkler.secret](/_secret/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.secret.md)
+

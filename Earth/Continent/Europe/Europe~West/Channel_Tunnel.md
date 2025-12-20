@@ -112,3 +112,22 @@ service_entry: 1994-11-14T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Channel%20Tunnel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Channel_Tunnel](/_Standards/Earth/Continent/Europe/Europe~West/Channel_Tunnel.md) 
+
+### #is_/same_as :: [Channel_Tunnel.public](/_public/Earth/Continent/Europe/Europe~West/Channel_Tunnel.public.md) 
+
+### #is_/same_as :: [Channel_Tunnel.internal](/_internal/Earth/Continent/Europe/Europe~West/Channel_Tunnel.internal.md) 
+
+### #is_/same_as :: [Channel_Tunnel.protect](/_protect/Earth/Continent/Europe/Europe~West/Channel_Tunnel.protect.md) 
+
+### #is_/same_as :: [Channel_Tunnel.private](/_private/Earth/Continent/Europe/Europe~West/Channel_Tunnel.private.md) 
+
+### #is_/same_as :: [Channel_Tunnel.personal](/_personal/Earth/Continent/Europe/Europe~West/Channel_Tunnel.personal.md) 
+
+### #is_/same_as :: [Channel_Tunnel.secret](/_secret/Earth/Continent/Europe/Europe~West/Channel_Tunnel.secret.md)
+

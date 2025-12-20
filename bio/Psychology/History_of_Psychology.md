@@ -35,3 +35,22 @@ PhilPapers_topic: history-of-psychology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20psychology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Psychology](/_Standards/bio/Psychology/History_of_Psychology.md) 
+
+### #is_/same_as :: [History_of_Psychology.public](/_public/bio/Psychology/History_of_Psychology.public.md) 
+
+### #is_/same_as :: [History_of_Psychology.internal](/_internal/bio/Psychology/History_of_Psychology.internal.md) 
+
+### #is_/same_as :: [History_of_Psychology.protect](/_protect/bio/Psychology/History_of_Psychology.protect.md) 
+
+### #is_/same_as :: [History_of_Psychology.private](/_private/bio/Psychology/History_of_Psychology.private.md) 
+
+### #is_/same_as :: [History_of_Psychology.personal](/_personal/bio/Psychology/History_of_Psychology.personal.md) 
+
+### #is_/same_as :: [History_of_Psychology.secret](/_secret/bio/Psychology/History_of_Psychology.secret.md)
+

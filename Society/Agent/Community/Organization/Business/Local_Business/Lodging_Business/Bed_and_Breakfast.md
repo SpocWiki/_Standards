@@ -41,17 +41,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bed_and_Breakfast](Bed_and_Breakfast.md) 
+### #is_/same_as :: [Bed_and_Breakfast](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.md) 
 
-### #is_/same_as :: [Bed_and_Breakfast.public](/_public/Society/Organization/Local_Business/Lodging_Business/Bed_and_Breakfast.public.md) 
+### #is_/same_as :: [Bed_and_Breakfast.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.public.md) 
 
-### #is_/same_as :: [Bed_and_Breakfast.internal](/_internal/Society/Organization/Local_Business/Lodging_Business/Bed_and_Breakfast.internal.md) 
+### #is_/same_as :: [Bed_and_Breakfast.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.internal.md) 
 
-### #is_/same_as :: [Bed_and_Breakfast.protect](/_protect/Society/Organization/Local_Business/Lodging_Business/Bed_and_Breakfast.protect.md) 
+### #is_/same_as :: [Bed_and_Breakfast.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.protect.md) 
 
-### #is_/same_as :: [Bed_and_Breakfast.private](/_private/Society/Organization/Local_Business/Lodging_Business/Bed_and_Breakfast.private.md) 
+### #is_/same_as :: [Bed_and_Breakfast.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.private.md) 
 
-### #is_/same_as :: [Bed_and_Breakfast.personal](/_personal/Society/Organization/Local_Business/Lodging_Business/Bed_and_Breakfast.personal.md) 
+### #is_/same_as :: [Bed_and_Breakfast.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.personal.md) 
 
-### #is_/same_as :: [Bed_and_Breakfast.secret](/_secret/Society/Organization/Local_Business/Lodging_Business/Bed_and_Breakfast.secret.md)
+### #is_/same_as :: [Bed_and_Breakfast.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.secret.md)
 

@@ -42,3 +42,22 @@ Colon_Classification: J:7
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Harvest)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Harvest](/_Standards/Society/Economics/Industry/Agriculture/Harvest.md) 
+
+### #is_/same_as :: [Harvest.public](/_public/Society/Economics/Industry/Agriculture/Harvest.public.md) 
+
+### #is_/same_as :: [Harvest.internal](/_internal/Society/Economics/Industry/Agriculture/Harvest.internal.md) 
+
+### #is_/same_as :: [Harvest.protect](/_protect/Society/Economics/Industry/Agriculture/Harvest.protect.md) 
+
+### #is_/same_as :: [Harvest.private](/_private/Society/Economics/Industry/Agriculture/Harvest.private.md) 
+
+### #is_/same_as :: [Harvest.personal](/_personal/Society/Economics/Industry/Agriculture/Harvest.personal.md) 
+
+### #is_/same_as :: [Harvest.secret](/_secret/Society/Economics/Industry/Agriculture/Harvest.secret.md)
+

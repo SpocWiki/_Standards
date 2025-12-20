@@ -40,3 +40,22 @@ Commons_category: Renaissance philosophy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Renaissance%20philosophy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1355-Renaissance_Philosophy+1650](/_Standards/Philosophy/1355-Renaissance_Philosophy+1650.md) 
+
+### #is_/same_as :: [1355-Renaissance_Philosophy+1650.public](/_public/Philosophy/1355-Renaissance_Philosophy+1650.public.md) 
+
+### #is_/same_as :: [1355-Renaissance_Philosophy+1650.internal](/_internal/Philosophy/1355-Renaissance_Philosophy+1650.internal.md) 
+
+### #is_/same_as :: [1355-Renaissance_Philosophy+1650.protect](/_protect/Philosophy/1355-Renaissance_Philosophy+1650.protect.md) 
+
+### #is_/same_as :: [1355-Renaissance_Philosophy+1650.private](/_private/Philosophy/1355-Renaissance_Philosophy+1650.private.md) 
+
+### #is_/same_as :: [1355-Renaissance_Philosophy+1650.personal](/_personal/Philosophy/1355-Renaissance_Philosophy+1650.personal.md) 
+
+### #is_/same_as :: [1355-Renaissance_Philosophy+1650.secret](/_secret/Philosophy/1355-Renaissance_Philosophy+1650.secret.md)
+

@@ -50,3 +50,22 @@ MeSH_tree_code:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hydroxide](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide.md) 
+
+### #is_/same_as :: [Hydroxide.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide.public.md) 
+
+### #is_/same_as :: [Hydroxide.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide.internal.md) 
+
+### #is_/same_as :: [Hydroxide.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide.protect.md) 
+
+### #is_/same_as :: [Hydroxide.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide.private.md) 
+
+### #is_/same_as :: [Hydroxide.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide.personal.md) 
+
+### #is_/same_as :: [Hydroxide.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide.secret.md)
+

@@ -46,3 +46,22 @@ Commons_category: Fibers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fiber) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fiber](/_Standards/Chemistry/Material/Fiber.md) 
+
+### #is_/same_as :: [Fiber.public](/_public/Chemistry/Material/Fiber.public.md) 
+
+### #is_/same_as :: [Fiber.internal](/_internal/Chemistry/Material/Fiber.internal.md) 
+
+### #is_/same_as :: [Fiber.protect](/_protect/Chemistry/Material/Fiber.protect.md) 
+
+### #is_/same_as :: [Fiber.private](/_private/Chemistry/Material/Fiber.private.md) 
+
+### #is_/same_as :: [Fiber.personal](/_personal/Chemistry/Material/Fiber.personal.md) 
+
+### #is_/same_as :: [Fiber.secret](/_secret/Chemistry/Material/Fiber.secret.md)
+

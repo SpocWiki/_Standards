@@ -37,3 +37,22 @@ IMDb_keyword: stockholm-syndrome
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stockholm%20syndrome) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stockholm_Syndrome](/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.md) 
+
+### #is_/same_as :: [Stockholm_Syndrome.public](/_public/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.public.md) 
+
+### #is_/same_as :: [Stockholm_Syndrome.internal](/_internal/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.internal.md) 
+
+### #is_/same_as :: [Stockholm_Syndrome.protect](/_protect/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.protect.md) 
+
+### #is_/same_as :: [Stockholm_Syndrome.private](/_private/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.private.md) 
+
+### #is_/same_as :: [Stockholm_Syndrome.personal](/_personal/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.personal.md) 
+
+### #is_/same_as :: [Stockholm_Syndrome.secret](/_secret/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.secret.md)
+

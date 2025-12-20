@@ -72,3 +72,22 @@ name: plankton
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plankton) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plankton](/_Standards/bio/Ecology/Ecosystem/Plankton.md) 
+
+### #is_/same_as :: [Plankton.public](/_public/bio/Ecology/Ecosystem/Plankton.public.md) 
+
+### #is_/same_as :: [Plankton.internal](/_internal/bio/Ecology/Ecosystem/Plankton.internal.md) 
+
+### #is_/same_as :: [Plankton.protect](/_protect/bio/Ecology/Ecosystem/Plankton.protect.md) 
+
+### #is_/same_as :: [Plankton.private](/_private/bio/Ecology/Ecosystem/Plankton.private.md) 
+
+### #is_/same_as :: [Plankton.personal](/_personal/bio/Ecology/Ecosystem/Plankton.personal.md) 
+
+### #is_/same_as :: [Plankton.secret](/_secret/bio/Ecology/Ecosystem/Plankton.secret.md)
+

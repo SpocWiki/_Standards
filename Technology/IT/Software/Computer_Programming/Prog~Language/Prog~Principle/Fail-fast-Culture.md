@@ -30,3 +30,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fail-fast-Culture](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.md) 
+
+### #is_/same_as :: [Fail-fast-Culture.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.public.md) 
+
+### #is_/same_as :: [Fail-fast-Culture.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.internal.md) 
+
+### #is_/same_as :: [Fail-fast-Culture.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.protect.md) 
+
+### #is_/same_as :: [Fail-fast-Culture.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.private.md) 
+
+### #is_/same_as :: [Fail-fast-Culture.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.personal.md) 
+
+### #is_/same_as :: [Fail-fast-Culture.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.secret.md)
+

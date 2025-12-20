@@ -46,3 +46,22 @@ HO   O
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Citric%20acid) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Citric_Acid](/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.md) 
+
+### #is_/same_as :: [Citric_Acid.public](/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.public.md) 
+
+### #is_/same_as :: [Citric_Acid.internal](/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.internal.md) 
+
+### #is_/same_as :: [Citric_Acid.protect](/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.protect.md) 
+
+### #is_/same_as :: [Citric_Acid.private](/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.private.md) 
+
+### #is_/same_as :: [Citric_Acid.personal](/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.personal.md) 
+
+### #is_/same_as :: [Citric_Acid.secret](/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.secret.md)
+

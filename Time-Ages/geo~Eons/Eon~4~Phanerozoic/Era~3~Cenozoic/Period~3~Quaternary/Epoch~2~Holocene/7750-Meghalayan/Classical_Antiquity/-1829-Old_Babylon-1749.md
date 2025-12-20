@@ -39,3 +39,22 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Babylone%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Old%20Babylonian%20Empire) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [-1829-Old_Babylon-1749](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.md) 
+
+### #is_/same_as :: [-1829-Old_Babylon-1749.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.public.md) 
+
+### #is_/same_as :: [-1829-Old_Babylon-1749.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.internal.md) 
+
+### #is_/same_as :: [-1829-Old_Babylon-1749.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.protect.md) 
+
+### #is_/same_as :: [-1829-Old_Babylon-1749.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.private.md) 
+
+### #is_/same_as :: [-1829-Old_Babylon-1749.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.personal.md) 
+
+### #is_/same_as :: [-1829-Old_Babylon-1749.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.secret.md)
+

@@ -28,3 +28,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Conservation%20law) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Conservation_Law](/_Standards/Science/Physics/Conservation_Law.md) 
+
+### #is_/same_as :: [Conservation_Law.public](/_public/Science/Physics/Conservation_Law.public.md) 
+
+### #is_/same_as :: [Conservation_Law.internal](/_internal/Science/Physics/Conservation_Law.internal.md) 
+
+### #is_/same_as :: [Conservation_Law.protect](/_protect/Science/Physics/Conservation_Law.protect.md) 
+
+### #is_/same_as :: [Conservation_Law.private](/_private/Science/Physics/Conservation_Law.private.md) 
+
+### #is_/same_as :: [Conservation_Law.personal](/_personal/Science/Physics/Conservation_Law.personal.md) 
+
+### #is_/same_as :: [Conservation_Law.secret](/_secret/Science/Physics/Conservation_Law.secret.md)
+

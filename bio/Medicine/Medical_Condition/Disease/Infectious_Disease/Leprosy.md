@@ -126,3 +126,22 @@ U_S_National_Archives_Identifier: "10664110"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leprosy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leprosy](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.md) 
+
+### #is_/same_as :: [Leprosy.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.public.md) 
+
+### #is_/same_as :: [Leprosy.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.internal.md) 
+
+### #is_/same_as :: [Leprosy.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.protect.md) 
+
+### #is_/same_as :: [Leprosy.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.private.md) 
+
+### #is_/same_as :: [Leprosy.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.personal.md) 
+
+### #is_/same_as :: [Leprosy.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.secret.md)
+

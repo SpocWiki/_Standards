@@ -67,3 +67,22 @@ Commons_category: Ring theory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ring%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ring_Theory](/_Standards/Mathematics/Algebra/Ring_Theory.md) 
+
+### #is_/same_as :: [Ring_Theory.public](/_public/Mathematics/Algebra/Ring_Theory.public.md) 
+
+### #is_/same_as :: [Ring_Theory.internal](/_internal/Mathematics/Algebra/Ring_Theory.internal.md) 
+
+### #is_/same_as :: [Ring_Theory.protect](/_protect/Mathematics/Algebra/Ring_Theory.protect.md) 
+
+### #is_/same_as :: [Ring_Theory.private](/_private/Mathematics/Algebra/Ring_Theory.private.md) 
+
+### #is_/same_as :: [Ring_Theory.personal](/_personal/Mathematics/Algebra/Ring_Theory.personal.md) 
+
+### #is_/same_as :: [Ring_Theory.secret](/_secret/Mathematics/Algebra/Ring_Theory.secret.md)
+

@@ -54,3 +54,22 @@ The name derives from the fact that most Stars in the [[../../Star~Constellation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cepheid%20variable) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cepheid_Variable](/_Standards/Astronomy/Star/Cepheid_Variable.md) 
+
+### #is_/same_as :: [Cepheid_Variable.public](/_public/Astronomy/Star/Cepheid_Variable.public.md) 
+
+### #is_/same_as :: [Cepheid_Variable.internal](/_internal/Astronomy/Star/Cepheid_Variable.internal.md) 
+
+### #is_/same_as :: [Cepheid_Variable.protect](/_protect/Astronomy/Star/Cepheid_Variable.protect.md) 
+
+### #is_/same_as :: [Cepheid_Variable.private](/_private/Astronomy/Star/Cepheid_Variable.private.md) 
+
+### #is_/same_as :: [Cepheid_Variable.personal](/_personal/Astronomy/Star/Cepheid_Variable.personal.md) 
+
+### #is_/same_as :: [Cepheid_Variable.secret](/_secret/Astronomy/Star/Cepheid_Variable.secret.md)
+

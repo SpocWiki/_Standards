@@ -156,3 +156,22 @@ Krugosvet_article: istoriya/IMPERATOR.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Emperor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Emperor](/_Standards/Society/Politics/Government/Monarchy/Empire/Emperor.md) 
+
+### #is_/same_as :: [Emperor.public](/_public/Society/Politics/Government/Monarchy/Empire/Emperor.public.md) 
+
+### #is_/same_as :: [Emperor.internal](/_internal/Society/Politics/Government/Monarchy/Empire/Emperor.internal.md) 
+
+### #is_/same_as :: [Emperor.protect](/_protect/Society/Politics/Government/Monarchy/Empire/Emperor.protect.md) 
+
+### #is_/same_as :: [Emperor.private](/_private/Society/Politics/Government/Monarchy/Empire/Emperor.private.md) 
+
+### #is_/same_as :: [Emperor.personal](/_personal/Society/Politics/Government/Monarchy/Empire/Emperor.personal.md) 
+
+### #is_/same_as :: [Emperor.secret](/_secret/Society/Politics/Government/Monarchy/Empire/Emperor.secret.md)
+

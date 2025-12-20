@@ -33,3 +33,22 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Iranian_languages,8084951
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iranian%20languages) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-ira](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.md) 
+
+### #is_/same_as :: [Lang-ira.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.public.md) 
+
+### #is_/same_as :: [Lang-ira.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.internal.md) 
+
+### #is_/same_as :: [Lang-ira.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.protect.md) 
+
+### #is_/same_as :: [Lang-ira.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.private.md) 
+
+### #is_/same_as :: [Lang-ira.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.personal.md) 
+
+### #is_/same_as :: [Lang-ira.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.secret.md)
+

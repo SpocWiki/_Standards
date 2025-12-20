@@ -79,3 +79,22 @@ coordinate_location: Point(-0.080277777 51.514444444)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Gherkin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gherkin,London](/_Standards/Earth/Geography/Place/Gherkin,London.md) 
+
+### #is_/same_as :: [Gherkin,London.public](/_public/Earth/Geography/Place/Gherkin,London.public.md) 
+
+### #is_/same_as :: [Gherkin,London.internal](/_internal/Earth/Geography/Place/Gherkin,London.internal.md) 
+
+### #is_/same_as :: [Gherkin,London.protect](/_protect/Earth/Geography/Place/Gherkin,London.protect.md) 
+
+### #is_/same_as :: [Gherkin,London.private](/_private/Earth/Geography/Place/Gherkin,London.private.md) 
+
+### #is_/same_as :: [Gherkin,London.personal](/_personal/Earth/Geography/Place/Gherkin,London.personal.md) 
+
+### #is_/same_as :: [Gherkin,London.secret](/_secret/Earth/Geography/Place/Gherkin,London.secret.md)
+

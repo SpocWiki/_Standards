@@ -47,3 +47,22 @@ Commons_category: Polarization (waves)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polarization%20(waves)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polarization(Waves)](/_Standards/Science/Physics/Wave/Polarization(Waves).md) 
+
+### #is_/same_as :: [Polarization(Waves).public](/_public/Science/Physics/Wave/Polarization(Waves).public.md) 
+
+### #is_/same_as :: [Polarization(Waves).internal](/_internal/Science/Physics/Wave/Polarization(Waves).internal.md) 
+
+### #is_/same_as :: [Polarization(Waves).protect](/_protect/Science/Physics/Wave/Polarization(Waves).protect.md) 
+
+### #is_/same_as :: [Polarization(Waves).private](/_private/Science/Physics/Wave/Polarization(Waves).private.md) 
+
+### #is_/same_as :: [Polarization(Waves).personal](/_personal/Science/Physics/Wave/Polarization(Waves).personal.md) 
+
+### #is_/same_as :: [Polarization(Waves).secret](/_secret/Science/Physics/Wave/Polarization(Waves).secret.md)
+

@@ -188,17 +188,17 @@ writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kipling,Rudyard](/_Standards/Society/Communication/Media/Writing/Book/Author/Kipling,Rudyard.md) 
+### #is_/same_as :: [Kipling,Rudyard](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.md) 
 
-### #is_/same_as :: [Kipling,Rudyard.public](/_public/Society/Communication/Media/Writing/Book/Author/Kipling,Rudyard.public.md) 
+### #is_/same_as :: [Kipling,Rudyard.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.public.md) 
 
-### #is_/same_as :: [Kipling,Rudyard.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Kipling,Rudyard.internal.md) 
+### #is_/same_as :: [Kipling,Rudyard.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.internal.md) 
 
-### #is_/same_as :: [Kipling,Rudyard.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Kipling,Rudyard.protect.md) 
+### #is_/same_as :: [Kipling,Rudyard.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.protect.md) 
 
-### #is_/same_as :: [Kipling,Rudyard.private](/_private/Society/Communication/Media/Writing/Book/Author/Kipling,Rudyard.private.md) 
+### #is_/same_as :: [Kipling,Rudyard.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.private.md) 
 
-### #is_/same_as :: [Kipling,Rudyard.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Kipling,Rudyard.personal.md) 
+### #is_/same_as :: [Kipling,Rudyard.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.personal.md) 
 
-### #is_/same_as :: [Kipling,Rudyard.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Kipling,Rudyard.secret.md)
+### #is_/same_as :: [Kipling,Rudyard.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Kipling,Rudyard.secret.md)
 

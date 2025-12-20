@@ -182,7 +182,7 @@ type repositories of Recent Cephalopoda. Smithson. Contr. Zool., No. 586
   Location ::        off Naples
   Reference         modified from Naef, A. 1921-23b. Cephalopoda. Fauna e Flora de Golfo di Napoli. Monograph, no. 35, 863 pp.
   View              Dorsal and ventral
-  -------------------------------------
+  -------------------------------------
 
 
 ## Confidential Links & Embeds: 

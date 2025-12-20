@@ -69,3 +69,22 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/GuentherZ%20200
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Max%20Steiner) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Steiner,Max](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.md) 
+
+### #is_/same_as :: [Steiner,Max.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.public.md) 
+
+### #is_/same_as :: [Steiner,Max.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.internal.md) 
+
+### #is_/same_as :: [Steiner,Max.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.protect.md) 
+
+### #is_/same_as :: [Steiner,Max.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.private.md) 
+
+### #is_/same_as :: [Steiner,Max.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.personal.md) 
+
+### #is_/same_as :: [Steiner,Max.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.secret.md)
+

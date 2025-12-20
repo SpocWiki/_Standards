@@ -52,3 +52,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Energy%20drink) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Energy_Drink](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Energy_Drink.md) 
+
+### #is_/same_as :: [Energy_Drink.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Energy_Drink.public.md) 
+
+### #is_/same_as :: [Energy_Drink.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Energy_Drink.internal.md) 
+
+### #is_/same_as :: [Energy_Drink.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Energy_Drink.protect.md) 
+
+### #is_/same_as :: [Energy_Drink.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Energy_Drink.private.md) 
+
+### #is_/same_as :: [Energy_Drink.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Energy_Drink.personal.md) 
+
+### #is_/same_as :: [Energy_Drink.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Energy_Drink.secret.md)
+

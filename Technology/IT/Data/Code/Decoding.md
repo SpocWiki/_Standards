@@ -16,3 +16,22 @@ opposite_of: "[[_Standards/WikiData/WD~encoding,5375490]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Decoding) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Decoding](/_Standards/Technology/IT/Data/Code/Decoding.md) 
+
+### #is_/same_as :: [Decoding.public](/_public/Technology/IT/Data/Code/Decoding.public.md) 
+
+### #is_/same_as :: [Decoding.internal](/_internal/Technology/IT/Data/Code/Decoding.internal.md) 
+
+### #is_/same_as :: [Decoding.protect](/_protect/Technology/IT/Data/Code/Decoding.protect.md) 
+
+### #is_/same_as :: [Decoding.private](/_private/Technology/IT/Data/Code/Decoding.private.md) 
+
+### #is_/same_as :: [Decoding.personal](/_personal/Technology/IT/Data/Code/Decoding.personal.md) 
+
+### #is_/same_as :: [Decoding.secret](/_secret/Technology/IT/Data/Code/Decoding.secret.md)
+

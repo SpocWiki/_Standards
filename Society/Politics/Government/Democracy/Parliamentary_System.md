@@ -51,3 +51,22 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Sistema%20parlamen
 > is used by many local governments in the United States.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parliamentary%20system) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parliamentary_System](/_Standards/Society/Politics/Government/Democracy/Parliamentary_System.md) 
+
+### #is_/same_as :: [Parliamentary_System.public](/_public/Society/Politics/Government/Democracy/Parliamentary_System.public.md) 
+
+### #is_/same_as :: [Parliamentary_System.internal](/_internal/Society/Politics/Government/Democracy/Parliamentary_System.internal.md) 
+
+### #is_/same_as :: [Parliamentary_System.protect](/_protect/Society/Politics/Government/Democracy/Parliamentary_System.protect.md) 
+
+### #is_/same_as :: [Parliamentary_System.private](/_private/Society/Politics/Government/Democracy/Parliamentary_System.private.md) 
+
+### #is_/same_as :: [Parliamentary_System.personal](/_personal/Society/Politics/Government/Democracy/Parliamentary_System.personal.md) 
+
+### #is_/same_as :: [Parliamentary_System.secret](/_secret/Society/Politics/Government/Democracy/Parliamentary_System.secret.md)
+

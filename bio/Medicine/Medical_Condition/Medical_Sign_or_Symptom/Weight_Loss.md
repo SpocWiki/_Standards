@@ -56,3 +56,22 @@ Baidu_Tieba_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Weight%20loss) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Weight_Loss](/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Weight_Loss.md) 
+
+### #is_/same_as :: [Weight_Loss.public](/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Weight_Loss.public.md) 
+
+### #is_/same_as :: [Weight_Loss.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Weight_Loss.internal.md) 
+
+### #is_/same_as :: [Weight_Loss.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Weight_Loss.protect.md) 
+
+### #is_/same_as :: [Weight_Loss.private](/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Weight_Loss.private.md) 
+
+### #is_/same_as :: [Weight_Loss.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Weight_Loss.personal.md) 
+
+### #is_/same_as :: [Weight_Loss.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Weight_Loss.secret.md)
+

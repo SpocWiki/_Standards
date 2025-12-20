@@ -119,3 +119,22 @@ Commons_category: Salmonellosis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Salmonellosis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Salmonellosis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.md) 
+
+### #is_/same_as :: [Salmonellosis.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.public.md) 
+
+### #is_/same_as :: [Salmonellosis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.internal.md) 
+
+### #is_/same_as :: [Salmonellosis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.protect.md) 
+
+### #is_/same_as :: [Salmonellosis.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.private.md) 
+
+### #is_/same_as :: [Salmonellosis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.personal.md) 
+
+### #is_/same_as :: [Salmonellosis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.secret.md)
+

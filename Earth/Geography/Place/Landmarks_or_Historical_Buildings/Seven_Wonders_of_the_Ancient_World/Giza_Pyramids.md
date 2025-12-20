@@ -41,3 +41,22 @@ coordinate_location: Point(31.133333 29.983333)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Giza%20pyramid%20complex) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Giza_Pyramids](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.md) 
+
+### #is_/same_as :: [Giza_Pyramids.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.public.md) 
+
+### #is_/same_as :: [Giza_Pyramids.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.internal.md) 
+
+### #is_/same_as :: [Giza_Pyramids.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.protect.md) 
+
+### #is_/same_as :: [Giza_Pyramids.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.private.md) 
+
+### #is_/same_as :: [Giza_Pyramids.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.personal.md) 
+
+### #is_/same_as :: [Giza_Pyramids.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.secret.md)
+

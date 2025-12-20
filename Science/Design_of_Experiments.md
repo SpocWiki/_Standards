@@ -32,3 +32,22 @@ Commons_category: Design of experiments
 > [Wikipedia](https://en.wikipedia.org/wiki/Design%20of%20experiments) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Design_of_Experiments](/_Standards/Science/Design_of_Experiments.md) 
+
+### #is_/same_as :: [Design_of_Experiments.public](/_public/Science/Design_of_Experiments.public.md) 
+
+### #is_/same_as :: [Design_of_Experiments.internal](/_internal/Science/Design_of_Experiments.internal.md) 
+
+### #is_/same_as :: [Design_of_Experiments.protect](/_protect/Science/Design_of_Experiments.protect.md) 
+
+### #is_/same_as :: [Design_of_Experiments.private](/_private/Science/Design_of_Experiments.private.md) 
+
+### #is_/same_as :: [Design_of_Experiments.personal](/_personal/Science/Design_of_Experiments.personal.md) 
+
+### #is_/same_as :: [Design_of_Experiments.secret](/_secret/Science/Design_of_Experiments.secret.md)
+

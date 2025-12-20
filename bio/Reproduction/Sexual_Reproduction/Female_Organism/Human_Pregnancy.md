@@ -73,3 +73,22 @@ MeSH_tree_code: G08.686.784.769
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pregnancy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Human_Pregnancy](/_Standards/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.md) 
+
+### #is_/same_as :: [Human_Pregnancy.public](/_public/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.public.md) 
+
+### #is_/same_as :: [Human_Pregnancy.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.internal.md) 
+
+### #is_/same_as :: [Human_Pregnancy.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.protect.md) 
+
+### #is_/same_as :: [Human_Pregnancy.private](/_private/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.private.md) 
+
+### #is_/same_as :: [Human_Pregnancy.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.personal.md) 
+
+### #is_/same_as :: [Human_Pregnancy.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Female_Organism/Human_Pregnancy.secret.md)
+

@@ -88,3 +88,21 @@ date_of_birth: 1908-03-25T00:00:00Z
 > Lean is described by film critic Michael Sragow as "a director's director, whose total mastery of filmcraft commands nothing less than awe among his peers". He has been lauded by directors such as Steven Spielberg, Stanley Kubrick, Martin Scorsese, and Ridley Scott. He was voted 9th greatest film director of all time in the British Film Institute Sight & Sound "Directors' Top Directors" poll in 2002. He was nominated seven times for the Academy Award for Best Director, which he won twice for The Bridge on the River Kwai and Lawrence of Arabia, and he has seven films in the British Film Institute's Top 100 British Films (with three of them being in the top five) and was awarded the AFI Life Achievement Award in 1990.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/David%20Lean)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lean,David](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lean,David.md) 
+
+### #is_/same_as :: [Lean,David.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lean,David.public.md) 
+
+### #is_/same_as :: [Lean,David.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lean,David.internal.md) 
+
+### #is_/same_as :: [Lean,David.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lean,David.protect.md) 
+
+### #is_/same_as :: [Lean,David.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lean,David.private.md) 
+
+### #is_/same_as :: [Lean,David.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lean,David.personal.md) 
+
+### #is_/same_as :: [Lean,David.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lean,David.secret.md)
+

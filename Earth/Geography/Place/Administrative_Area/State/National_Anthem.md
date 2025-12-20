@@ -47,3 +47,22 @@ Commons_gallery: National anthem
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20anthem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [National_Anthem](/_Standards/Earth/Geography/Place/Administrative_Area/State/National_Anthem.md) 
+
+### #is_/same_as :: [National_Anthem.public](/_public/Earth/Geography/Place/Administrative_Area/State/National_Anthem.public.md) 
+
+### #is_/same_as :: [National_Anthem.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/National_Anthem.internal.md) 
+
+### #is_/same_as :: [National_Anthem.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/National_Anthem.protect.md) 
+
+### #is_/same_as :: [National_Anthem.private](/_private/Earth/Geography/Place/Administrative_Area/State/National_Anthem.private.md) 
+
+### #is_/same_as :: [National_Anthem.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/National_Anthem.personal.md) 
+
+### #is_/same_as :: [National_Anthem.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/National_Anthem.secret.md)
+

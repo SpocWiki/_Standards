@@ -113,3 +113,22 @@ Libris_URI: c9prsl8w59vcj9m
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sylvia%20Plath) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plath,Sylvia](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Plath,Sylvia.md) 
+
+### #is_/same_as :: [Plath,Sylvia.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Plath,Sylvia.public.md) 
+
+### #is_/same_as :: [Plath,Sylvia.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Plath,Sylvia.internal.md) 
+
+### #is_/same_as :: [Plath,Sylvia.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Plath,Sylvia.protect.md) 
+
+### #is_/same_as :: [Plath,Sylvia.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Plath,Sylvia.private.md) 
+
+### #is_/same_as :: [Plath,Sylvia.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Plath,Sylvia.personal.md) 
+
+### #is_/same_as :: [Plath,Sylvia.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Plath,Sylvia.secret.md)
+

@@ -36,3 +36,22 @@ Commons_category: Lianas
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Liana) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Liana](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liana.md) 
+
+### #is_/same_as :: [Liana.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liana.public.md) 
+
+### #is_/same_as :: [Liana.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liana.internal.md) 
+
+### #is_/same_as :: [Liana.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liana.protect.md) 
+
+### #is_/same_as :: [Liana.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liana.private.md) 
+
+### #is_/same_as :: [Liana.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liana.personal.md) 
+
+### #is_/same_as :: [Liana.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liana.secret.md)
+

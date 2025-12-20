@@ -67,3 +67,22 @@ neuroticism (N) measures depression, irritability, and moodiness.
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Big5~Emotional_Stability](/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.md) 
+
+### #is_/same_as :: [Big5~Emotional_Stability.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.public.md) 
+
+### #is_/same_as :: [Big5~Emotional_Stability.internal](/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.internal.md) 
+
+### #is_/same_as :: [Big5~Emotional_Stability.protect](/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.protect.md) 
+
+### #is_/same_as :: [Big5~Emotional_Stability.private](/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.private.md) 
+
+### #is_/same_as :: [Big5~Emotional_Stability.personal](/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.personal.md) 
+
+### #is_/same_as :: [Big5~Emotional_Stability.secret](/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.secret.md)
+

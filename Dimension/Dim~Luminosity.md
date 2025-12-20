@@ -41,3 +41,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Inverse%20square%20law
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Luminosity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dim~Luminosity](/_Standards/Dimension/Dim~Luminosity.md) 
+
+### #is_/same_as :: [Dim~Luminosity.public](/_public/Dimension/Dim~Luminosity.public.md) 
+
+### #is_/same_as :: [Dim~Luminosity.internal](/_internal/Dimension/Dim~Luminosity.internal.md) 
+
+### #is_/same_as :: [Dim~Luminosity.protect](/_protect/Dimension/Dim~Luminosity.protect.md) 
+
+### #is_/same_as :: [Dim~Luminosity.private](/_private/Dimension/Dim~Luminosity.private.md) 
+
+### #is_/same_as :: [Dim~Luminosity.personal](/_personal/Dimension/Dim~Luminosity.personal.md) 
+
+### #is_/same_as :: [Dim~Luminosity.secret](/_secret/Dimension/Dim~Luminosity.secret.md)
+

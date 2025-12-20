@@ -46,3 +46,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Limit%20(mathematics)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Limit(Math)](/_Standards/Mathematics/Calculus/Analysis(Math)/Limit(Math).md) 
+
+### #is_/same_as :: [Limit(Math).public](/_public/Mathematics/Calculus/Analysis(Math)/Limit(Math).public.md) 
+
+### #is_/same_as :: [Limit(Math).internal](/_internal/Mathematics/Calculus/Analysis(Math)/Limit(Math).internal.md) 
+
+### #is_/same_as :: [Limit(Math).protect](/_protect/Mathematics/Calculus/Analysis(Math)/Limit(Math).protect.md) 
+
+### #is_/same_as :: [Limit(Math).private](/_private/Mathematics/Calculus/Analysis(Math)/Limit(Math).private.md) 
+
+### #is_/same_as :: [Limit(Math).personal](/_personal/Mathematics/Calculus/Analysis(Math)/Limit(Math).personal.md) 
+
+### #is_/same_as :: [Limit(Math).secret](/_secret/Mathematics/Calculus/Analysis(Math)/Limit(Math).secret.md)
+

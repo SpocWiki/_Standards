@@ -24,17 +24,17 @@ has_id_wikidata: Q35872
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boat](/_Standards/Technology/Transport/Water_Transport/Boat.md) 
+### #is_/same_as :: [Boat](/_Standards/Technology/Transport/Water_Transport/Watercraft/Boat.md) 
 
-### #is_/same_as :: [Boat.public](/_public/Technology/Transport/Water_Transport/Boat.public.md) 
+### #is_/same_as :: [Boat.public](/_public/Technology/Transport/Water_Transport/Watercraft/Boat.public.md) 
 
-### #is_/same_as :: [Boat.internal](/_internal/Technology/Transport/Water_Transport/Boat.internal.md) 
+### #is_/same_as :: [Boat.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Boat.internal.md) 
 
-### #is_/same_as :: [Boat.protect](/_protect/Technology/Transport/Water_Transport/Boat.protect.md) 
+### #is_/same_as :: [Boat.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Boat.protect.md) 
 
-### #is_/same_as :: [Boat.private](/_private/Technology/Transport/Water_Transport/Boat.private.md) 
+### #is_/same_as :: [Boat.private](/_private/Technology/Transport/Water_Transport/Watercraft/Boat.private.md) 
 
-### #is_/same_as :: [Boat.personal](/_personal/Technology/Transport/Water_Transport/Boat.personal.md) 
+### #is_/same_as :: [Boat.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Boat.personal.md) 
 
-### #is_/same_as :: [Boat.secret](/_secret/Technology/Transport/Water_Transport/Boat.secret.md)
+### #is_/same_as :: [Boat.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Boat.secret.md)
 

@@ -84,17 +84,17 @@ MeSH_tree_code: D12.125
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amino_Acid](Amino_Acid.md) 
+### #is_/same_as :: [Amino_Acid](/_Standards/Chemistry/Organic_Chemistry/Amine/Amino_Acid.md) 
 
-### #is_/same_as :: [Amino_Acid.public](/_public/Chemistry/organic/Amine/Amino_Acid.public.md) 
+### #is_/same_as :: [Amino_Acid.public](/_public/Chemistry/Organic_Chemistry/Amine/Amino_Acid.public.md) 
 
-### #is_/same_as :: [Amino_Acid.internal](/_internal/Chemistry/organic/Amine/Amino_Acid.internal.md) 
+### #is_/same_as :: [Amino_Acid.internal](/_internal/Chemistry/Organic_Chemistry/Amine/Amino_Acid.internal.md) 
 
-### #is_/same_as :: [Amino_Acid.protect](/_protect/Chemistry/organic/Amine/Amino_Acid.protect.md) 
+### #is_/same_as :: [Amino_Acid.protect](/_protect/Chemistry/Organic_Chemistry/Amine/Amino_Acid.protect.md) 
 
-### #is_/same_as :: [Amino_Acid.private](/_private/Chemistry/organic/Amine/Amino_Acid.private.md) 
+### #is_/same_as :: [Amino_Acid.private](/_private/Chemistry/Organic_Chemistry/Amine/Amino_Acid.private.md) 
 
-### #is_/same_as :: [Amino_Acid.personal](/_personal/Chemistry/organic/Amine/Amino_Acid.personal.md) 
+### #is_/same_as :: [Amino_Acid.personal](/_personal/Chemistry/Organic_Chemistry/Amine/Amino_Acid.personal.md) 
 
-### #is_/same_as :: [Amino_Acid.secret](/_secret/Chemistry/organic/Amine/Amino_Acid.secret.md)
+### #is_/same_as :: [Amino_Acid.secret](/_secret/Chemistry/Organic_Chemistry/Amine/Amino_Acid.secret.md)
 

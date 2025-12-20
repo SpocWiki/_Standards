@@ -27,3 +27,22 @@ has_id_wikidata: Q8084905
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Autoimmune%20disease) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Autoimmune_Disease](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.md) 
+
+### #is_/same_as :: [Autoimmune_Disease.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.public.md) 
+
+### #is_/same_as :: [Autoimmune_Disease.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.internal.md) 
+
+### #is_/same_as :: [Autoimmune_Disease.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.protect.md) 
+
+### #is_/same_as :: [Autoimmune_Disease.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.private.md) 
+
+### #is_/same_as :: [Autoimmune_Disease.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.personal.md) 
+
+### #is_/same_as :: [Autoimmune_Disease.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.secret.md)
+

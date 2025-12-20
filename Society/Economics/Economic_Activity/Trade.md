@@ -87,3 +87,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Fredmeyer%20edit%201.j
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trade)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trade](/_Standards/Society/Economics/Economic_Activity/Trade.md) 
+
+### #is_/same_as :: [Trade.public](/_public/Society/Economics/Economic_Activity/Trade.public.md) 
+
+### #is_/same_as :: [Trade.internal](/_internal/Society/Economics/Economic_Activity/Trade.internal.md) 
+
+### #is_/same_as :: [Trade.protect](/_protect/Society/Economics/Economic_Activity/Trade.protect.md) 
+
+### #is_/same_as :: [Trade.private](/_private/Society/Economics/Economic_Activity/Trade.private.md) 
+
+### #is_/same_as :: [Trade.personal](/_personal/Society/Economics/Economic_Activity/Trade.personal.md) 
+
+### #is_/same_as :: [Trade.secret](/_secret/Society/Economics/Economic_Activity/Trade.secret.md)
+

@@ -54,17 +54,17 @@ dv_is_same_as:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grove,Andrew](Grove,Andrew.md) 
+### #is_/same_as :: [Grove,Andrew](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.md) 
 
-### #is_/same_as :: [Grove,Andrew.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.public.md) 
+### #is_/same_as :: [Grove,Andrew.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.public.md) 
 
-### #is_/same_as :: [Grove,Andrew.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.internal.md) 
+### #is_/same_as :: [Grove,Andrew.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.internal.md) 
 
-### #is_/same_as :: [Grove,Andrew.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.protect.md) 
+### #is_/same_as :: [Grove,Andrew.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.protect.md) 
 
-### #is_/same_as :: [Grove,Andrew.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.private.md) 
+### #is_/same_as :: [Grove,Andrew.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.private.md) 
 
-### #is_/same_as :: [Grove,Andrew.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.personal.md) 
+### #is_/same_as :: [Grove,Andrew.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.personal.md) 
 
-### #is_/same_as :: [Grove,Andrew.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.secret.md)
+### #is_/same_as :: [Grove,Andrew.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.secret.md)
 

@@ -42,3 +42,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cognitive%20psychology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cognitive_Psychology](/_Standards/bio/Psychology/Cognition/Cognitive_Psychology.md) 
+
+### #is_/same_as :: [Cognitive_Psychology.public](/_public/bio/Psychology/Cognition/Cognitive_Psychology.public.md) 
+
+### #is_/same_as :: [Cognitive_Psychology.internal](/_internal/bio/Psychology/Cognition/Cognitive_Psychology.internal.md) 
+
+### #is_/same_as :: [Cognitive_Psychology.protect](/_protect/bio/Psychology/Cognition/Cognitive_Psychology.protect.md) 
+
+### #is_/same_as :: [Cognitive_Psychology.private](/_private/bio/Psychology/Cognition/Cognitive_Psychology.private.md) 
+
+### #is_/same_as :: [Cognitive_Psychology.personal](/_personal/bio/Psychology/Cognition/Cognitive_Psychology.personal.md) 
+
+### #is_/same_as :: [Cognitive_Psychology.secret](/_secret/bio/Psychology/Cognition/Cognitive_Psychology.secret.md)
+

@@ -106,3 +106,22 @@ Glottolog_code: sout1528
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Serbo-Croatian) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-hbs](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-hbs.md) 
+
+### #is_/same_as :: [Lang-hbs.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-hbs.public.md) 
+
+### #is_/same_as :: [Lang-hbs.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-hbs.internal.md) 
+
+### #is_/same_as :: [Lang-hbs.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-hbs.protect.md) 
+
+### #is_/same_as :: [Lang-hbs.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-hbs.private.md) 
+
+### #is_/same_as :: [Lang-hbs.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-hbs.personal.md) 
+
+### #is_/same_as :: [Lang-hbs.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-hbs.secret.md)
+

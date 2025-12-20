@@ -55,6 +55,7 @@ topic_s_main_template:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mechanics)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Classical_Mechanics](/_Standards/Science/Physics/Classical_Mechanics.md) 

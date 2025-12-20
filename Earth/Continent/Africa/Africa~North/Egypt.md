@@ -622,3 +622,4 @@ Capital ::[[Cairo]]]
 ### #is_/same_as :: [Egypt.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt.personal.md) 
 
 ### #is_/same_as :: [Egypt.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt.secret.md)
+

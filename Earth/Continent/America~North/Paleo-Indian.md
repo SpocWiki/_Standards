@@ -63,3 +63,22 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Poblamient
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paleo-Indians) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Paleo-Indian](/_Standards/Earth/Continent/America~North/Paleo-Indian.md) 
+
+### #is_/same_as :: [Paleo-Indian.public](/_public/Earth/Continent/America~North/Paleo-Indian.public.md) 
+
+### #is_/same_as :: [Paleo-Indian.internal](/_internal/Earth/Continent/America~North/Paleo-Indian.internal.md) 
+
+### #is_/same_as :: [Paleo-Indian.protect](/_protect/Earth/Continent/America~North/Paleo-Indian.protect.md) 
+
+### #is_/same_as :: [Paleo-Indian.private](/_private/Earth/Continent/America~North/Paleo-Indian.private.md) 
+
+### #is_/same_as :: [Paleo-Indian.personal](/_personal/Earth/Continent/America~North/Paleo-Indian.personal.md) 
+
+### #is_/same_as :: [Paleo-Indian.secret](/_secret/Earth/Continent/America~North/Paleo-Indian.secret.md)
+

@@ -36,3 +36,22 @@ Commons_category: History of Islam
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Islam) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Islam](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.md) 
+
+### #is_/same_as :: [History_of_Islam.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.public.md) 
+
+### #is_/same_as :: [History_of_Islam.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.internal.md) 
+
+### #is_/same_as :: [History_of_Islam.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.protect.md) 
+
+### #is_/same_as :: [History_of_Islam.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.private.md) 
+
+### #is_/same_as :: [History_of_Islam.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.personal.md) 
+
+### #is_/same_as :: [History_of_Islam.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.secret.md)
+

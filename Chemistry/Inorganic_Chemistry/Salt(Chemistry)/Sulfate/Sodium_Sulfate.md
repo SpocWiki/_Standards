@@ -69,3 +69,22 @@ RTECS_number: WE1650000
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sodium%20sulfate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sodium_Sulfate](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.md) 
+
+### #is_/same_as :: [Sodium_Sulfate.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.public.md) 
+
+### #is_/same_as :: [Sodium_Sulfate.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.internal.md) 
+
+### #is_/same_as :: [Sodium_Sulfate.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.protect.md) 
+
+### #is_/same_as :: [Sodium_Sulfate.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.private.md) 
+
+### #is_/same_as :: [Sodium_Sulfate.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.personal.md) 
+
+### #is_/same_as :: [Sodium_Sulfate.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.secret.md)
+

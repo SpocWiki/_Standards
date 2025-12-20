@@ -108,3 +108,22 @@ flowchart TD
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Causality) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Causality](/_Standards/Mathematics/Statistics/Correlation/Causality.md) 
+
+### #is_/same_as :: [Causality.public](/_public/Mathematics/Statistics/Correlation/Causality.public.md) 
+
+### #is_/same_as :: [Causality.internal](/_internal/Mathematics/Statistics/Correlation/Causality.internal.md) 
+
+### #is_/same_as :: [Causality.protect](/_protect/Mathematics/Statistics/Correlation/Causality.protect.md) 
+
+### #is_/same_as :: [Causality.private](/_private/Mathematics/Statistics/Correlation/Causality.private.md) 
+
+### #is_/same_as :: [Causality.personal](/_personal/Mathematics/Statistics/Correlation/Causality.personal.md) 
+
+### #is_/same_as :: [Causality.secret](/_secret/Mathematics/Statistics/Correlation/Causality.secret.md)
+

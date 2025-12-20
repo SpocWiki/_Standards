@@ -91,3 +91,22 @@ Wolfram_Language_entity_code: Entity["Concept", "Telegraphy::fd4j5"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Telegraphy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Telegraphy](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telegraphy.md) 
+
+### #is_/same_as :: [Telegraphy.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telegraphy.public.md) 
+
+### #is_/same_as :: [Telegraphy.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telegraphy.internal.md) 
+
+### #is_/same_as :: [Telegraphy.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telegraphy.protect.md) 
+
+### #is_/same_as :: [Telegraphy.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telegraphy.private.md) 
+
+### #is_/same_as :: [Telegraphy.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telegraphy.personal.md) 
+
+### #is_/same_as :: [Telegraphy.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telegraphy.secret.md)
+

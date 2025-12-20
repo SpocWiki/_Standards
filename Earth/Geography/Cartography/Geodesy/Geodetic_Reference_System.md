@@ -20,3 +20,22 @@ Commons_category: Geodetic datum
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Geodetic%20Reference%20System%201980) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geodetic_Reference_System](/_Standards/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.md) 
+
+### #is_/same_as :: [Geodetic_Reference_System.public](/_public/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.public.md) 
+
+### #is_/same_as :: [Geodetic_Reference_System.internal](/_internal/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.internal.md) 
+
+### #is_/same_as :: [Geodetic_Reference_System.protect](/_protect/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.protect.md) 
+
+### #is_/same_as :: [Geodetic_Reference_System.private](/_private/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.private.md) 
+
+### #is_/same_as :: [Geodetic_Reference_System.personal](/_personal/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.personal.md) 
+
+### #is_/same_as :: [Geodetic_Reference_System.secret](/_secret/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.secret.md)
+

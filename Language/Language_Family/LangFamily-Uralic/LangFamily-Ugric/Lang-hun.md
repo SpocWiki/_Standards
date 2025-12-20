@@ -171,3 +171,22 @@ entry_in_abbreviations_table: венг.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hungarian%20language) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-hun](/_Standards/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.md) 
+
+### #is_/same_as :: [Lang-hun.public](/_public/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.public.md) 
+
+### #is_/same_as :: [Lang-hun.internal](/_internal/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.internal.md) 
+
+### #is_/same_as :: [Lang-hun.protect](/_protect/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.protect.md) 
+
+### #is_/same_as :: [Lang-hun.private](/_private/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.private.md) 
+
+### #is_/same_as :: [Lang-hun.personal](/_personal/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.personal.md) 
+
+### #is_/same_as :: [Lang-hun.secret](/_secret/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.secret.md)
+

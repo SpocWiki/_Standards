@@ -40,17 +40,17 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [hematologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/hematologic.md) 
+### #is_/same_as :: [Hematologic](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Hematologic.md) 
 
-### #is_/same_as :: [hematologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/hematologic.public.md) 
+### #is_/same_as :: [Hematologic.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Hematologic.public.md) 
 
-### #is_/same_as :: [hematologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/hematologic.internal.md) 
+### #is_/same_as :: [Hematologic.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Hematologic.internal.md) 
 
-### #is_/same_as :: [hematologic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/hematologic.protect.md) 
+### #is_/same_as :: [Hematologic.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Hematologic.protect.md) 
 
-### #is_/same_as :: [hematologic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/hematologic.private.md) 
+### #is_/same_as :: [Hematologic.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Hematologic.private.md) 
 
-### #is_/same_as :: [hematologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/hematologic.personal.md) 
+### #is_/same_as :: [Hematologic.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Hematologic.personal.md) 
 
-### #is_/same_as :: [hematologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/hematologic.secret.md)
+### #is_/same_as :: [Hematologic.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Hematologic.secret.md)
 

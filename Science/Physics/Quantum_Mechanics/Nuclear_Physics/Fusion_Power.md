@@ -55,3 +55,22 @@ Commons_category: Nuclear fusion reactors
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fusion%20power) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fusion_Power](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.md) 
+
+### #is_/same_as :: [Fusion_Power.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.public.md) 
+
+### #is_/same_as :: [Fusion_Power.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.internal.md) 
+
+### #is_/same_as :: [Fusion_Power.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.protect.md) 
+
+### #is_/same_as :: [Fusion_Power.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.private.md) 
+
+### #is_/same_as :: [Fusion_Power.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.personal.md) 
+
+### #is_/same_as :: [Fusion_Power.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.secret.md)
+

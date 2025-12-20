@@ -185,3 +185,22 @@ IPA_transcription: sælˈmɑːn ˈrʊʃdi
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Salman%20Rushdie) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Salman_Rushdie](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Salman_Rushdie.md) 
+
+### #is_/same_as :: [Salman_Rushdie.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Salman_Rushdie.public.md) 
+
+### #is_/same_as :: [Salman_Rushdie.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Salman_Rushdie.internal.md) 
+
+### #is_/same_as :: [Salman_Rushdie.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Salman_Rushdie.protect.md) 
+
+### #is_/same_as :: [Salman_Rushdie.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Salman_Rushdie.private.md) 
+
+### #is_/same_as :: [Salman_Rushdie.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Salman_Rushdie.personal.md) 
+
+### #is_/same_as :: [Salman_Rushdie.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Salman_Rushdie.secret.md)
+

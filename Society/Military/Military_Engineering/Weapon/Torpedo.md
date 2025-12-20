@@ -15,3 +15,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Torpedo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Torpedo](/_Standards/Society/Military/Military_Engineering/Weapon/Torpedo.md) 
+
+### #is_/same_as :: [Torpedo.public](/_public/Society/Military/Military_Engineering/Weapon/Torpedo.public.md) 
+
+### #is_/same_as :: [Torpedo.internal](/_internal/Society/Military/Military_Engineering/Weapon/Torpedo.internal.md) 
+
+### #is_/same_as :: [Torpedo.protect](/_protect/Society/Military/Military_Engineering/Weapon/Torpedo.protect.md) 
+
+### #is_/same_as :: [Torpedo.private](/_private/Society/Military/Military_Engineering/Weapon/Torpedo.private.md) 
+
+### #is_/same_as :: [Torpedo.personal](/_personal/Society/Military/Military_Engineering/Weapon/Torpedo.personal.md) 
+
+### #is_/same_as :: [Torpedo.secret](/_secret/Society/Military/Military_Engineering/Weapon/Torpedo.secret.md)
+

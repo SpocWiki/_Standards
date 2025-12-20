@@ -26,3 +26,22 @@ APA_Dictionary_of_Psychology_entry: group-dynamics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%20dynamics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Group_Dynamics](/_Standards/Society/Social_Relation/Group_Dynamics.md) 
+
+### #is_/same_as :: [Group_Dynamics.public](/_public/Society/Social_Relation/Group_Dynamics.public.md) 
+
+### #is_/same_as :: [Group_Dynamics.internal](/_internal/Society/Social_Relation/Group_Dynamics.internal.md) 
+
+### #is_/same_as :: [Group_Dynamics.protect](/_protect/Society/Social_Relation/Group_Dynamics.protect.md) 
+
+### #is_/same_as :: [Group_Dynamics.private](/_private/Society/Social_Relation/Group_Dynamics.private.md) 
+
+### #is_/same_as :: [Group_Dynamics.personal](/_personal/Society/Social_Relation/Group_Dynamics.personal.md) 
+
+### #is_/same_as :: [Group_Dynamics.secret](/_secret/Society/Social_Relation/Group_Dynamics.secret.md)
+

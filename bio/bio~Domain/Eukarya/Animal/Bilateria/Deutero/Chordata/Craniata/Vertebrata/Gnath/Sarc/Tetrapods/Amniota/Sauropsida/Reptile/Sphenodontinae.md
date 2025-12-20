@@ -36,3 +36,22 @@ taxon_name: Sphenodontinae
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sphenodontidae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sphenodontinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae.md) 
+
+### #is_/same_as :: [Sphenodontinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae.public.md) 
+
+### #is_/same_as :: [Sphenodontinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae.internal.md) 
+
+### #is_/same_as :: [Sphenodontinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae.protect.md) 
+
+### #is_/same_as :: [Sphenodontinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae.private.md) 
+
+### #is_/same_as :: [Sphenodontinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae.personal.md) 
+
+### #is_/same_as :: [Sphenodontinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae.secret.md)
+

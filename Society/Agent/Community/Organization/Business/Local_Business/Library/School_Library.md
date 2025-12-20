@@ -36,3 +36,22 @@ Commons_category: School libraries
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/School%20library) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [School_Library](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.md) 
+
+### #is_/same_as :: [School_Library.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.public.md) 
+
+### #is_/same_as :: [School_Library.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.internal.md) 
+
+### #is_/same_as :: [School_Library.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.protect.md) 
+
+### #is_/same_as :: [School_Library.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.private.md) 
+
+### #is_/same_as :: [School_Library.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.personal.md) 
+
+### #is_/same_as :: [School_Library.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/School_Library.secret.md)
+

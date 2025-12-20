@@ -155,3 +155,22 @@ date_of_death: 1945-08-31T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stefan%20Banach) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Banach,Stefan](/_Standards/Mathematics/Mathematician/Banach,Stefan.md) 
+
+### #is_/same_as :: [Banach,Stefan.public](/_public/Mathematics/Mathematician/Banach,Stefan.public.md) 
+
+### #is_/same_as :: [Banach,Stefan.internal](/_internal/Mathematics/Mathematician/Banach,Stefan.internal.md) 
+
+### #is_/same_as :: [Banach,Stefan.protect](/_protect/Mathematics/Mathematician/Banach,Stefan.protect.md) 
+
+### #is_/same_as :: [Banach,Stefan.private](/_private/Mathematics/Mathematician/Banach,Stefan.private.md) 
+
+### #is_/same_as :: [Banach,Stefan.personal](/_personal/Mathematics/Mathematician/Banach,Stefan.personal.md) 
+
+### #is_/same_as :: [Banach,Stefan.secret](/_secret/Mathematics/Mathematician/Banach,Stefan.secret.md)
+

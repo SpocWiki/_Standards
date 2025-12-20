@@ -78,3 +78,22 @@ Commons_category: Mikhail Alexandrovich Ulyanov
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mikhail%20Ulyanov%20(actor))  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ulyanov,Mikhail](/_Standards/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.md) 
+
+### #is_/same_as :: [Ulyanov,Mikhail.public](/_public/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.public.md) 
+
+### #is_/same_as :: [Ulyanov,Mikhail.internal](/_internal/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.internal.md) 
+
+### #is_/same_as :: [Ulyanov,Mikhail.protect](/_protect/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.protect.md) 
+
+### #is_/same_as :: [Ulyanov,Mikhail.private](/_private/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.private.md) 
+
+### #is_/same_as :: [Ulyanov,Mikhail.personal](/_personal/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.personal.md) 
+
+### #is_/same_as :: [Ulyanov,Mikhail.secret](/_secret/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.secret.md)
+

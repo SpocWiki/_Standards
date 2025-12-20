@@ -48,3 +48,22 @@ Commons_category: Elementary algebra
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Elementary%20algebra) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Elementary_Algebra](/_Standards/Mathematics/Algebra/Elementary_Algebra.md) 
+
+### #is_/same_as :: [Elementary_Algebra.public](/_public/Mathematics/Algebra/Elementary_Algebra.public.md) 
+
+### #is_/same_as :: [Elementary_Algebra.internal](/_internal/Mathematics/Algebra/Elementary_Algebra.internal.md) 
+
+### #is_/same_as :: [Elementary_Algebra.protect](/_protect/Mathematics/Algebra/Elementary_Algebra.protect.md) 
+
+### #is_/same_as :: [Elementary_Algebra.private](/_private/Mathematics/Algebra/Elementary_Algebra.private.md) 
+
+### #is_/same_as :: [Elementary_Algebra.personal](/_personal/Mathematics/Algebra/Elementary_Algebra.personal.md) 
+
+### #is_/same_as :: [Elementary_Algebra.secret](/_secret/Mathematics/Algebra/Elementary_Algebra.secret.md)
+

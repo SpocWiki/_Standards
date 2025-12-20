@@ -249,7 +249,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
   Location ::        Hawaii
   View              ventral
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  -------------------------------------------------------------------------------
+  -------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

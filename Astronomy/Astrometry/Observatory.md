@@ -41,3 +41,22 @@ OpenStreetMap_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Observatory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Observatory](/_Standards/Astronomy/Astrometry/Observatory.md) 
+
+### #is_/same_as :: [Observatory.public](/_public/Astronomy/Astrometry/Observatory.public.md) 
+
+### #is_/same_as :: [Observatory.internal](/_internal/Astronomy/Astrometry/Observatory.internal.md) 
+
+### #is_/same_as :: [Observatory.protect](/_protect/Astronomy/Astrometry/Observatory.protect.md) 
+
+### #is_/same_as :: [Observatory.private](/_private/Astronomy/Astrometry/Observatory.private.md) 
+
+### #is_/same_as :: [Observatory.personal](/_personal/Astronomy/Astrometry/Observatory.personal.md) 
+
+### #is_/same_as :: [Observatory.secret](/_secret/Astronomy/Astrometry/Observatory.secret.md)
+

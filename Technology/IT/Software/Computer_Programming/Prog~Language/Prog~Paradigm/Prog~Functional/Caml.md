@@ -20,3 +20,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Caml)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Caml](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Caml.md) 
+
+### #is_/same_as :: [Caml.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Caml.public.md) 
+
+### #is_/same_as :: [Caml.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Caml.internal.md) 
+
+### #is_/same_as :: [Caml.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Caml.protect.md) 
+
+### #is_/same_as :: [Caml.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Caml.private.md) 
+
+### #is_/same_as :: [Caml.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Caml.personal.md) 
+
+### #is_/same_as :: [Caml.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Caml.secret.md)
+

@@ -101,3 +101,22 @@ date_of_death: -0545-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thales%20of%20Miletus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thales](/_Standards/Philosophy/Philosopher/Thales.md) 
+
+### #is_/same_as :: [Thales.public](/_public/Philosophy/Philosopher/Thales.public.md) 
+
+### #is_/same_as :: [Thales.internal](/_internal/Philosophy/Philosopher/Thales.internal.md) 
+
+### #is_/same_as :: [Thales.protect](/_protect/Philosophy/Philosopher/Thales.protect.md) 
+
+### #is_/same_as :: [Thales.private](/_private/Philosophy/Philosopher/Thales.private.md) 
+
+### #is_/same_as :: [Thales.personal](/_personal/Philosophy/Philosopher/Thales.personal.md) 
+
+### #is_/same_as :: [Thales.secret](/_secret/Philosophy/Philosopher/Thales.secret.md)
+

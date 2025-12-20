@@ -42,17 +42,17 @@ Specifies that the customer must pay the original shipping costs when returning 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Original_Shipping_Fees](Original_Shipping_Fees.md) 
+### #is_/same_as :: [Original_Shipping_Fees](/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.md) 
 
-### #is_/same_as :: [original_shipping_fees.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/original_shipping_fees.public.md) 
+### #is_/same_as :: [Original_Shipping_Fees.public](/_public/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.public.md) 
 
-### #is_/same_as :: [original_shipping_fees.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/original_shipping_fees.internal.md) 
+### #is_/same_as :: [Original_Shipping_Fees.internal](/_internal/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.internal.md) 
 
-### #is_/same_as :: [original_shipping_fees.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/original_shipping_fees.protect.md) 
+### #is_/same_as :: [Original_Shipping_Fees.protect](/_protect/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.protect.md) 
 
-### #is_/same_as :: [original_shipping_fees.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/original_shipping_fees.private.md) 
+### #is_/same_as :: [Original_Shipping_Fees.private](/_private/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.private.md) 
 
-### #is_/same_as :: [original_shipping_fees.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/original_shipping_fees.personal.md) 
+### #is_/same_as :: [Original_Shipping_Fees.personal](/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.personal.md) 
 
-### #is_/same_as :: [original_shipping_fees.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/original_shipping_fees.secret.md)
+### #is_/same_as :: [Original_Shipping_Fees.secret](/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Original_Shipping_Fees.secret.md)
 

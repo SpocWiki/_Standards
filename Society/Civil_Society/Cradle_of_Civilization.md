@@ -38,3 +38,22 @@ different_from: "[[_Standards/WikiData/WD~Four_Great_Ancient_Civilizations,11119
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cradle%20of%20civilization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cradle_of_Civilization](/_Standards/Society/Civil_Society/Cradle_of_Civilization.md) 
+
+### #is_/same_as :: [Cradle_of_Civilization.public](/_public/Society/Civil_Society/Cradle_of_Civilization.public.md) 
+
+### #is_/same_as :: [Cradle_of_Civilization.internal](/_internal/Society/Civil_Society/Cradle_of_Civilization.internal.md) 
+
+### #is_/same_as :: [Cradle_of_Civilization.protect](/_protect/Society/Civil_Society/Cradle_of_Civilization.protect.md) 
+
+### #is_/same_as :: [Cradle_of_Civilization.private](/_private/Society/Civil_Society/Cradle_of_Civilization.private.md) 
+
+### #is_/same_as :: [Cradle_of_Civilization.personal](/_personal/Society/Civil_Society/Cradle_of_Civilization.personal.md) 
+
+### #is_/same_as :: [Cradle_of_Civilization.secret](/_secret/Society/Civil_Society/Cradle_of_Civilization.secret.md)
+

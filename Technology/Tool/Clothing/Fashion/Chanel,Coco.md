@@ -116,3 +116,22 @@ Libris_URI: tr5774gc3th392d
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chanel,Coco](/_Standards/Technology/Tool/Clothing/Fashion/Chanel,Coco.md) 
+
+### #is_/same_as :: [Chanel,Coco.public](/_public/Technology/Tool/Clothing/Fashion/Chanel,Coco.public.md) 
+
+### #is_/same_as :: [Chanel,Coco.internal](/_internal/Technology/Tool/Clothing/Fashion/Chanel,Coco.internal.md) 
+
+### #is_/same_as :: [Chanel,Coco.protect](/_protect/Technology/Tool/Clothing/Fashion/Chanel,Coco.protect.md) 
+
+### #is_/same_as :: [Chanel,Coco.private](/_private/Technology/Tool/Clothing/Fashion/Chanel,Coco.private.md) 
+
+### #is_/same_as :: [Chanel,Coco.personal](/_personal/Technology/Tool/Clothing/Fashion/Chanel,Coco.personal.md) 
+
+### #is_/same_as :: [Chanel,Coco.secret](/_secret/Technology/Tool/Clothing/Fashion/Chanel,Coco.secret.md)
+

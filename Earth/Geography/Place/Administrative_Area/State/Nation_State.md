@@ -59,3 +59,22 @@ described_at_URL: https://wikispooks.com/wiki/Nation_state
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nation%20state) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nation_State](/_Standards/Earth/Geography/Place/Administrative_Area/State/Nation_State.md) 
+
+### #is_/same_as :: [Nation_State.public](/_public/Earth/Geography/Place/Administrative_Area/State/Nation_State.public.md) 
+
+### #is_/same_as :: [Nation_State.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/Nation_State.internal.md) 
+
+### #is_/same_as :: [Nation_State.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/Nation_State.protect.md) 
+
+### #is_/same_as :: [Nation_State.private](/_private/Earth/Geography/Place/Administrative_Area/State/Nation_State.private.md) 
+
+### #is_/same_as :: [Nation_State.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/Nation_State.personal.md) 
+
+### #is_/same_as :: [Nation_State.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/Nation_State.secret.md)
+

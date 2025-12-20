@@ -174,3 +174,22 @@ Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/2236194
 > [Wikipedia](https://en.wikipedia.org/wiki/Rabindranath%20Tagore) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tagore,Rabindranath](/_Standards/Science/Polymath/Tagore,Rabindranath.md) 
+
+### #is_/same_as :: [Tagore,Rabindranath.public](/_public/Science/Polymath/Tagore,Rabindranath.public.md) 
+
+### #is_/same_as :: [Tagore,Rabindranath.internal](/_internal/Science/Polymath/Tagore,Rabindranath.internal.md) 
+
+### #is_/same_as :: [Tagore,Rabindranath.protect](/_protect/Science/Polymath/Tagore,Rabindranath.protect.md) 
+
+### #is_/same_as :: [Tagore,Rabindranath.private](/_private/Science/Polymath/Tagore,Rabindranath.private.md) 
+
+### #is_/same_as :: [Tagore,Rabindranath.personal](/_personal/Science/Polymath/Tagore,Rabindranath.personal.md) 
+
+### #is_/same_as :: [Tagore,Rabindranath.secret](/_secret/Science/Polymath/Tagore,Rabindranath.secret.md)
+

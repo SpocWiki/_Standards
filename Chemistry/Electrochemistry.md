@@ -47,3 +47,22 @@ Krugosvet_article: nauka_i_tehnika/himiya/ELEKTROHIMIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrochemistry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electrochemistry](/_Standards/Chemistry/Electrochemistry.md) 
+
+### #is_/same_as :: [Electrochemistry.public](/_public/Chemistry/Electrochemistry.public.md) 
+
+### #is_/same_as :: [Electrochemistry.internal](/_internal/Chemistry/Electrochemistry.internal.md) 
+
+### #is_/same_as :: [Electrochemistry.protect](/_protect/Chemistry/Electrochemistry.protect.md) 
+
+### #is_/same_as :: [Electrochemistry.private](/_private/Chemistry/Electrochemistry.private.md) 
+
+### #is_/same_as :: [Electrochemistry.personal](/_personal/Chemistry/Electrochemistry.personal.md) 
+
+### #is_/same_as :: [Electrochemistry.secret](/_secret/Chemistry/Electrochemistry.secret.md)
+

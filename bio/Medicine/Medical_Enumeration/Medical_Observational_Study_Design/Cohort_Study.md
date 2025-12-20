@@ -40,17 +40,17 @@ Also known as a panel study. A cohort study is a form of longitudinal study used
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [cohort_study](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.md) 
+### #is_/same_as :: [Cohort_Study](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.md) 
 
-### #is_/same_as :: [cohort_study.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.public.md) 
+### #is_/same_as :: [Cohort_Study.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.public.md) 
 
-### #is_/same_as :: [cohort_study.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.internal.md) 
+### #is_/same_as :: [Cohort_Study.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.internal.md) 
 
-### #is_/same_as :: [cohort_study.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.protect.md) 
+### #is_/same_as :: [Cohort_Study.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.protect.md) 
 
-### #is_/same_as :: [cohort_study.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.private.md) 
+### #is_/same_as :: [Cohort_Study.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.private.md) 
 
-### #is_/same_as :: [cohort_study.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.personal.md) 
+### #is_/same_as :: [Cohort_Study.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.personal.md) 
 
-### #is_/same_as :: [cohort_study.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.secret.md)
+### #is_/same_as :: [Cohort_Study.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.secret.md)
 

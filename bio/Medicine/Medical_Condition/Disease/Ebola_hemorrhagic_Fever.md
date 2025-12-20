@@ -113,3 +113,22 @@ Krugosvet_article: meditsina/ebola
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ebola) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ebola_hemorrhagic_Fever](/_Standards/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.md) 
+
+### #is_/same_as :: [Ebola_hemorrhagic_Fever.public](/_public/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.public.md) 
+
+### #is_/same_as :: [Ebola_hemorrhagic_Fever.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.internal.md) 
+
+### #is_/same_as :: [Ebola_hemorrhagic_Fever.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.protect.md) 
+
+### #is_/same_as :: [Ebola_hemorrhagic_Fever.private](/_private/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.private.md) 
+
+### #is_/same_as :: [Ebola_hemorrhagic_Fever.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.personal.md) 
+
+### #is_/same_as :: [Ebola_hemorrhagic_Fever.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.secret.md)
+

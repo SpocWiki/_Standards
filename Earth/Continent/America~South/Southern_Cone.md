@@ -53,3 +53,22 @@ Commons_category: Southern Cone
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Southern%20Cone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Southern_Cone](/_Standards/Earth/Continent/America~South/Southern_Cone.md) 
+
+### #is_/same_as :: [Southern_Cone.public](/_public/Earth/Continent/America~South/Southern_Cone.public.md) 
+
+### #is_/same_as :: [Southern_Cone.internal](/_internal/Earth/Continent/America~South/Southern_Cone.internal.md) 
+
+### #is_/same_as :: [Southern_Cone.protect](/_protect/Earth/Continent/America~South/Southern_Cone.protect.md) 
+
+### #is_/same_as :: [Southern_Cone.private](/_private/Earth/Continent/America~South/Southern_Cone.private.md) 
+
+### #is_/same_as :: [Southern_Cone.personal](/_personal/Earth/Continent/America~South/Southern_Cone.personal.md) 
+
+### #is_/same_as :: [Southern_Cone.secret](/_secret/Earth/Continent/America~South/Southern_Cone.secret.md)
+

@@ -53,3 +53,22 @@ Commons_category: Reflexes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reflex) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reflex](/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.md) 
+
+### #is_/same_as :: [Reflex.public](/_public/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.public.md) 
+
+### #is_/same_as :: [Reflex.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.internal.md) 
+
+### #is_/same_as :: [Reflex.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.protect.md) 
+
+### #is_/same_as :: [Reflex.private](/_private/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.private.md) 
+
+### #is_/same_as :: [Reflex.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.personal.md) 
+
+### #is_/same_as :: [Reflex.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.secret.md)
+

@@ -54,3 +54,22 @@ Commons_category: Nonlinear optics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nonlinear%20optics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nonlinear_Optics](/_Standards/Science/Physics/Wave/Optics/Nonlinear_Optics.md) 
+
+### #is_/same_as :: [Nonlinear_Optics.public](/_public/Science/Physics/Wave/Optics/Nonlinear_Optics.public.md) 
+
+### #is_/same_as :: [Nonlinear_Optics.internal](/_internal/Science/Physics/Wave/Optics/Nonlinear_Optics.internal.md) 
+
+### #is_/same_as :: [Nonlinear_Optics.protect](/_protect/Science/Physics/Wave/Optics/Nonlinear_Optics.protect.md) 
+
+### #is_/same_as :: [Nonlinear_Optics.private](/_private/Science/Physics/Wave/Optics/Nonlinear_Optics.private.md) 
+
+### #is_/same_as :: [Nonlinear_Optics.personal](/_personal/Science/Physics/Wave/Optics/Nonlinear_Optics.personal.md) 
+
+### #is_/same_as :: [Nonlinear_Optics.secret](/_secret/Science/Physics/Wave/Optics/Nonlinear_Optics.secret.md)
+

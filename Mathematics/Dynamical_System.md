@@ -78,3 +78,22 @@ Commons_gallery: Dynamical system
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dynamical%20system) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dynamical_System](/_Standards/Mathematics/Dynamical_System.md) 
+
+### #is_/same_as :: [Dynamical_System.public](/_public/Mathematics/Dynamical_System.public.md) 
+
+### #is_/same_as :: [Dynamical_System.internal](/_internal/Mathematics/Dynamical_System.internal.md) 
+
+### #is_/same_as :: [Dynamical_System.protect](/_protect/Mathematics/Dynamical_System.protect.md) 
+
+### #is_/same_as :: [Dynamical_System.private](/_private/Mathematics/Dynamical_System.private.md) 
+
+### #is_/same_as :: [Dynamical_System.personal](/_personal/Mathematics/Dynamical_System.personal.md) 
+
+### #is_/same_as :: [Dynamical_System.secret](/_secret/Mathematics/Dynamical_System.secret.md)
+

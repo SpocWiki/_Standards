@@ -55,3 +55,22 @@ Commons_category: Human sexuality
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20sexuality) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Human_Sexuality](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.md) 
+
+### #is_/same_as :: [Human_Sexuality.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.public.md) 
+
+### #is_/same_as :: [Human_Sexuality.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.internal.md) 
+
+### #is_/same_as :: [Human_Sexuality.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.protect.md) 
+
+### #is_/same_as :: [Human_Sexuality.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.private.md) 
+
+### #is_/same_as :: [Human_Sexuality.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.personal.md) 
+
+### #is_/same_as :: [Human_Sexuality.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.secret.md)
+

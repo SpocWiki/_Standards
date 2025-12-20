@@ -69,3 +69,22 @@ OpenStreetMap_tag_or_key: Tag:place=farm
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Farm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Farm](/_Standards/Society/Economics/Industry/Agriculture/Farm.md) 
+
+### #is_/same_as :: [Farm.public](/_public/Society/Economics/Industry/Agriculture/Farm.public.md) 
+
+### #is_/same_as :: [Farm.internal](/_internal/Society/Economics/Industry/Agriculture/Farm.internal.md) 
+
+### #is_/same_as :: [Farm.protect](/_protect/Society/Economics/Industry/Agriculture/Farm.protect.md) 
+
+### #is_/same_as :: [Farm.private](/_private/Society/Economics/Industry/Agriculture/Farm.private.md) 
+
+### #is_/same_as :: [Farm.personal](/_personal/Society/Economics/Industry/Agriculture/Farm.personal.md) 
+
+### #is_/same_as :: [Farm.secret](/_secret/Society/Economics/Industry/Agriculture/Farm.secret.md)
+

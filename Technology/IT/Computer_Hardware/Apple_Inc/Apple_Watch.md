@@ -101,3 +101,22 @@ I have an SE (1st) LTE
 | Edition                                                                                                                                                                                                                                                                     | $10,000 / $12,000                                                                                                                               | $1,249 / $1,299                                                                                                     | $1,299 / $1,349                                                                                                                                                                                                                                                    | —                                                                                                                                                                                                                                            | $799 (Titanium) <br>$1,299 (Ceramic)                                                                                                                                                                                                         | $799                                                                                                                                                                                  | —                                                                                                                                                                                    | —                                                                                                                                                                                        | —                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                         |                                                                                                                            |                                                                                                                                  |           |
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Apple_Watch](/_Standards/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.md) 
+
+### #is_/same_as :: [Apple_Watch.public](/_public/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.public.md) 
+
+### #is_/same_as :: [Apple_Watch.internal](/_internal/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.internal.md) 
+
+### #is_/same_as :: [Apple_Watch.protect](/_protect/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.protect.md) 
+
+### #is_/same_as :: [Apple_Watch.private](/_private/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.private.md) 
+
+### #is_/same_as :: [Apple_Watch.personal](/_personal/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.personal.md) 
+
+### #is_/same_as :: [Apple_Watch.secret](/_secret/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Watch.secret.md)
+

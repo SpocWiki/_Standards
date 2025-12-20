@@ -62,3 +62,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/LG%20%EB%93%9C%EB%9F%B
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Washing%20machine) 
 > 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Washing_Machine](/_Standards/Technology/Tool/Home_Appliance/Washing_Machine.md) 
+
+### #is_/same_as :: [Washing_Machine.public](/_public/Technology/Tool/Home_Appliance/Washing_Machine.public.md) 
+
+### #is_/same_as :: [Washing_Machine.internal](/_internal/Technology/Tool/Home_Appliance/Washing_Machine.internal.md) 
+
+### #is_/same_as :: [Washing_Machine.protect](/_protect/Technology/Tool/Home_Appliance/Washing_Machine.protect.md) 
+
+### #is_/same_as :: [Washing_Machine.private](/_private/Technology/Tool/Home_Appliance/Washing_Machine.private.md) 
+
+### #is_/same_as :: [Washing_Machine.personal](/_personal/Technology/Tool/Home_Appliance/Washing_Machine.personal.md) 
+
+### #is_/same_as :: [Washing_Machine.secret](/_secret/Technology/Tool/Home_Appliance/Washing_Machine.secret.md)
+

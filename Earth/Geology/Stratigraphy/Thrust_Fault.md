@@ -20,3 +20,22 @@ Commons_category: Thrust faults
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thrust%20fault) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thrust_Fault](/_Standards/Earth/Geology/Stratigraphy/Thrust_Fault.md) 
+
+### #is_/same_as :: [Thrust_Fault.public](/_public/Earth/Geology/Stratigraphy/Thrust_Fault.public.md) 
+
+### #is_/same_as :: [Thrust_Fault.internal](/_internal/Earth/Geology/Stratigraphy/Thrust_Fault.internal.md) 
+
+### #is_/same_as :: [Thrust_Fault.protect](/_protect/Earth/Geology/Stratigraphy/Thrust_Fault.protect.md) 
+
+### #is_/same_as :: [Thrust_Fault.private](/_private/Earth/Geology/Stratigraphy/Thrust_Fault.private.md) 
+
+### #is_/same_as :: [Thrust_Fault.personal](/_personal/Earth/Geology/Stratigraphy/Thrust_Fault.personal.md) 
+
+### #is_/same_as :: [Thrust_Fault.secret](/_secret/Earth/Geology/Stratigraphy/Thrust_Fault.secret.md)
+

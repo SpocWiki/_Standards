@@ -39,17 +39,17 @@ Event type: Music event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [music_event](/_Standards/schema-org/Class/is_a_/event/music_event.md) 
+### #is_/same_as :: [Music_Event](/_Standards/schema-org/Class/is_a_/Event/Music_Event.md) 
 
-### #is_/same_as :: [music_event.public](/_public/schema-org/Class/is_a_/event/music_event.public.md) 
+### #is_/same_as :: [Music_Event.public](/_public/schema-org/Class/is_a_/Event/Music_Event.public.md) 
 
-### #is_/same_as :: [music_event.internal](/_internal/schema-org/Class/is_a_/event/music_event.internal.md) 
+### #is_/same_as :: [Music_Event.internal](/_internal/schema-org/Class/is_a_/Event/Music_Event.internal.md) 
 
-### #is_/same_as :: [music_event.protect](/_protect/schema-org/Class/is_a_/event/music_event.protect.md) 
+### #is_/same_as :: [Music_Event.protect](/_protect/schema-org/Class/is_a_/Event/Music_Event.protect.md) 
 
-### #is_/same_as :: [music_event.private](/_private/schema-org/Class/is_a_/event/music_event.private.md) 
+### #is_/same_as :: [Music_Event.private](/_private/schema-org/Class/is_a_/Event/Music_Event.private.md) 
 
-### #is_/same_as :: [music_event.personal](/_personal/schema-org/Class/is_a_/event/music_event.personal.md) 
+### #is_/same_as :: [Music_Event.personal](/_personal/schema-org/Class/is_a_/Event/Music_Event.personal.md) 
 
-### #is_/same_as :: [music_event.secret](/_secret/schema-org/Class/is_a_/event/music_event.secret.md)
+### #is_/same_as :: [Music_Event.secret](/_secret/schema-org/Class/is_a_/Event/Music_Event.secret.md)
 

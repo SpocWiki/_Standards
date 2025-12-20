@@ -57,3 +57,22 @@ Commons_category: Irrational numbers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Irrational%20number) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Irrational_Number](/_Standards/Mathematics/Number/Irrational_Number.md) 
+
+### #is_/same_as :: [Irrational_Number.public](/_public/Mathematics/Number/Irrational_Number.public.md) 
+
+### #is_/same_as :: [Irrational_Number.internal](/_internal/Mathematics/Number/Irrational_Number.internal.md) 
+
+### #is_/same_as :: [Irrational_Number.protect](/_protect/Mathematics/Number/Irrational_Number.protect.md) 
+
+### #is_/same_as :: [Irrational_Number.private](/_private/Mathematics/Number/Irrational_Number.private.md) 
+
+### #is_/same_as :: [Irrational_Number.personal](/_personal/Mathematics/Number/Irrational_Number.personal.md) 
+
+### #is_/same_as :: [Irrational_Number.secret](/_secret/Mathematics/Number/Irrational_Number.secret.md)
+

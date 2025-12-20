@@ -38,3 +38,21 @@ Library_of_Congress_Classification: BL51
 > The philosophy of religion differs from religious philosophy in that it seeks to discuss questions regarding the nature of religion as a whole, rather than examining the problems brought forth by a particular belief-system. The philosophy of religion differs from theology in that it aims to examine religious concepts from an objective philosophical perspective rather than from the perspective of a specific religious tradition. The philosophy of religion also differs from religious studies in that it seeks to evaluate the truth of religious worldviews. It can be carried out dispassionately by those who identify as believers or non-believers.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philosophy%20of%20religion)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Philosophy_of_Religion](/_Standards/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.md) 
+
+### #is_/same_as :: [Philosophy_of_Religion.public](/_public/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.public.md) 
+
+### #is_/same_as :: [Philosophy_of_Religion.internal](/_internal/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.internal.md) 
+
+### #is_/same_as :: [Philosophy_of_Religion.protect](/_protect/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.protect.md) 
+
+### #is_/same_as :: [Philosophy_of_Religion.private](/_private/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.private.md) 
+
+### #is_/same_as :: [Philosophy_of_Religion.personal](/_personal/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.personal.md) 
+
+### #is_/same_as :: [Philosophy_of_Religion.secret](/_secret/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.secret.md)
+

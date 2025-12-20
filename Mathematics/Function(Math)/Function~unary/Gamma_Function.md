@@ -49,3 +49,22 @@ Commons_category: Gamma and related functions
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gamma%20function) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gamma_Function](/_Standards/Mathematics/Function(Math)/Function~unary/Gamma_Function.md) 
+
+### #is_/same_as :: [Gamma_Function.public](/_public/Mathematics/Function(Math)/Function~unary/Gamma_Function.public.md) 
+
+### #is_/same_as :: [Gamma_Function.internal](/_internal/Mathematics/Function(Math)/Function~unary/Gamma_Function.internal.md) 
+
+### #is_/same_as :: [Gamma_Function.protect](/_protect/Mathematics/Function(Math)/Function~unary/Gamma_Function.protect.md) 
+
+### #is_/same_as :: [Gamma_Function.private](/_private/Mathematics/Function(Math)/Function~unary/Gamma_Function.private.md) 
+
+### #is_/same_as :: [Gamma_Function.personal](/_personal/Mathematics/Function(Math)/Function~unary/Gamma_Function.personal.md) 
+
+### #is_/same_as :: [Gamma_Function.secret](/_secret/Mathematics/Function(Math)/Function~unary/Gamma_Function.secret.md)
+

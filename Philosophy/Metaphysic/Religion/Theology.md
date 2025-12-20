@@ -103,3 +103,22 @@ UMLS_CUI: C0205932
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Theology](/_Standards/Philosophy/Metaphysic/Religion/Theology.md) 
+
+### #is_/same_as :: [Theology.public](/_public/Philosophy/Metaphysic/Religion/Theology.public.md) 
+
+### #is_/same_as :: [Theology.internal](/_internal/Philosophy/Metaphysic/Religion/Theology.internal.md) 
+
+### #is_/same_as :: [Theology.protect](/_protect/Philosophy/Metaphysic/Religion/Theology.protect.md) 
+
+### #is_/same_as :: [Theology.private](/_private/Philosophy/Metaphysic/Religion/Theology.private.md) 
+
+### #is_/same_as :: [Theology.personal](/_personal/Philosophy/Metaphysic/Religion/Theology.personal.md) 
+
+### #is_/same_as :: [Theology.secret](/_secret/Philosophy/Metaphysic/Religion/Theology.secret.md)
+

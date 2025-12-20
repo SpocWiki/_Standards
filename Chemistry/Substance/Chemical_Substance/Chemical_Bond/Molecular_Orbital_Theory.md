@@ -38,3 +38,22 @@ Commons_category: Molecular orbitals
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Molecular%20orbital%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Molecular_Orbital_Theory](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.md) 
+
+### #is_/same_as :: [Molecular_Orbital_Theory.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.public.md) 
+
+### #is_/same_as :: [Molecular_Orbital_Theory.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.internal.md) 
+
+### #is_/same_as :: [Molecular_Orbital_Theory.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.protect.md) 
+
+### #is_/same_as :: [Molecular_Orbital_Theory.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.private.md) 
+
+### #is_/same_as :: [Molecular_Orbital_Theory.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.personal.md) 
+
+### #is_/same_as :: [Molecular_Orbital_Theory.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.secret.md)
+

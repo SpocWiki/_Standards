@@ -654,17 +654,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Google](Google.md) 
+### #is_/same_as :: [Google](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.md) 
 
-### #is_/same_as :: [Google.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Google.public.md) 
+### #is_/same_as :: [Google.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.public.md) 
 
-### #is_/same_as :: [Google.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Google.internal.md) 
+### #is_/same_as :: [Google.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.internal.md) 
 
-### #is_/same_as :: [Google.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Google.protect.md) 
+### #is_/same_as :: [Google.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.protect.md) 
 
-### #is_/same_as :: [Google.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Google.private.md) 
+### #is_/same_as :: [Google.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.private.md) 
 
-### #is_/same_as :: [Google.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Google.personal.md) 
+### #is_/same_as :: [Google.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.personal.md) 
 
-### #is_/same_as :: [Google.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Google.secret.md)
+### #is_/same_as :: [Google.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google.secret.md)
 

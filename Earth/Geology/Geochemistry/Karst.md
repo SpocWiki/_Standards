@@ -42,3 +42,22 @@ OmegaWiki_Defined_Meaning: "1507851"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Karst) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Karst](/_Standards/Earth/Geology/Geochemistry/Karst.md) 
+
+### #is_/same_as :: [Karst.public](/_public/Earth/Geology/Geochemistry/Karst.public.md) 
+
+### #is_/same_as :: [Karst.internal](/_internal/Earth/Geology/Geochemistry/Karst.internal.md) 
+
+### #is_/same_as :: [Karst.protect](/_protect/Earth/Geology/Geochemistry/Karst.protect.md) 
+
+### #is_/same_as :: [Karst.private](/_private/Earth/Geology/Geochemistry/Karst.private.md) 
+
+### #is_/same_as :: [Karst.personal](/_personal/Earth/Geology/Geochemistry/Karst.personal.md) 
+
+### #is_/same_as :: [Karst.secret](/_secret/Earth/Geology/Geochemistry/Karst.secret.md)
+

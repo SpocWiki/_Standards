@@ -70,8 +70,6 @@ Gujarati_Vishwakosh_entry: આવૃત્તિ
 > [Wikipedia](https://en.wikipedia.org/wiki/Frequency) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Frequency](/_Standards/Dimension/Frequency.md) 

@@ -56,3 +56,22 @@ Amazon_com_browse_node: "16319881"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mayonnaise) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mayonnaise](/_Standards/Society/Economics/Home_Economics/Cooking/Condiment/Mayonnaise.md) 
+
+### #is_/same_as :: [Mayonnaise.public](/_public/Society/Economics/Home_Economics/Cooking/Condiment/Mayonnaise.public.md) 
+
+### #is_/same_as :: [Mayonnaise.internal](/_internal/Society/Economics/Home_Economics/Cooking/Condiment/Mayonnaise.internal.md) 
+
+### #is_/same_as :: [Mayonnaise.protect](/_protect/Society/Economics/Home_Economics/Cooking/Condiment/Mayonnaise.protect.md) 
+
+### #is_/same_as :: [Mayonnaise.private](/_private/Society/Economics/Home_Economics/Cooking/Condiment/Mayonnaise.private.md) 
+
+### #is_/same_as :: [Mayonnaise.personal](/_personal/Society/Economics/Home_Economics/Cooking/Condiment/Mayonnaise.personal.md) 
+
+### #is_/same_as :: [Mayonnaise.secret](/_secret/Society/Economics/Home_Economics/Cooking/Condiment/Mayonnaise.secret.md)
+

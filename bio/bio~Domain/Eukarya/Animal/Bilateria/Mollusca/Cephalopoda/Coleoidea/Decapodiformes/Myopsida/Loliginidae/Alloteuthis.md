@@ -141,7 +141,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
   View                 Ventral
   Size                 62 mm ML
   Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

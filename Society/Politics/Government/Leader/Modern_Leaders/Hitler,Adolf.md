@@ -227,22 +227,3 @@ type: private_note
 
 ### #is_/same_as :: [Hitler,Adolf.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.secret.md)
 
-
-# [[Hitler,Adolf]] 
-
-#is_/part_of :: [[Hitler,Adolf]] 
-
-![[Hitler,Adolf.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Hitler,Adolf.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

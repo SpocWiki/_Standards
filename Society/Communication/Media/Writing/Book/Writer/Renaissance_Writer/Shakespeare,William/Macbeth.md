@@ -153,3 +153,22 @@ first_line: When shall we three meet againe?
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Macbeth) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Macbeth](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.md) 
+
+### #is_/same_as :: [Macbeth.public](/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.public.md) 
+
+### #is_/same_as :: [Macbeth.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.internal.md) 
+
+### #is_/same_as :: [Macbeth.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.protect.md) 
+
+### #is_/same_as :: [Macbeth.private](/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.private.md) 
+
+### #is_/same_as :: [Macbeth.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.personal.md) 
+
+### #is_/same_as :: [Macbeth.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.secret.md)
+

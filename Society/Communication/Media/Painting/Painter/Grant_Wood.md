@@ -111,3 +111,22 @@ date_of_death:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grant%20Wood) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grant_Wood](/_Standards/Society/Communication/Media/Painting/Painter/Grant_Wood.md) 
+
+### #is_/same_as :: [Grant_Wood.public](/_public/Society/Communication/Media/Painting/Painter/Grant_Wood.public.md) 
+
+### #is_/same_as :: [Grant_Wood.internal](/_internal/Society/Communication/Media/Painting/Painter/Grant_Wood.internal.md) 
+
+### #is_/same_as :: [Grant_Wood.protect](/_protect/Society/Communication/Media/Painting/Painter/Grant_Wood.protect.md) 
+
+### #is_/same_as :: [Grant_Wood.private](/_private/Society/Communication/Media/Painting/Painter/Grant_Wood.private.md) 
+
+### #is_/same_as :: [Grant_Wood.personal](/_personal/Society/Communication/Media/Painting/Painter/Grant_Wood.personal.md) 
+
+### #is_/same_as :: [Grant_Wood.secret](/_secret/Society/Communication/Media/Painting/Painter/Grant_Wood.secret.md)
+

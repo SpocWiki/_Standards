@@ -37,3 +37,22 @@ Commons_category: Onomastics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Onomastics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Onomastics](/_Standards/Language/Onomastics.md) 
+
+### #is_/same_as :: [Onomastics.public](/_public/Language/Onomastics.public.md) 
+
+### #is_/same_as :: [Onomastics.internal](/_internal/Language/Onomastics.internal.md) 
+
+### #is_/same_as :: [Onomastics.protect](/_protect/Language/Onomastics.protect.md) 
+
+### #is_/same_as :: [Onomastics.private](/_private/Language/Onomastics.private.md) 
+
+### #is_/same_as :: [Onomastics.personal](/_personal/Language/Onomastics.personal.md) 
+
+### #is_/same_as :: [Onomastics.secret](/_secret/Language/Onomastics.secret.md)
+

@@ -112,3 +112,22 @@ date_of_birth: 1910-07-04T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20K.%20Merton) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Merton,Robert_K](/_Standards/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.md) 
+
+### #is_/same_as :: [Merton,Robert_K.public](/_public/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.public.md) 
+
+### #is_/same_as :: [Merton,Robert_K.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.internal.md) 
+
+### #is_/same_as :: [Merton,Robert_K.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.protect.md) 
+
+### #is_/same_as :: [Merton,Robert_K.private](/_private/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.private.md) 
+
+### #is_/same_as :: [Merton,Robert_K.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.personal.md) 
+
+### #is_/same_as :: [Merton,Robert_K.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.secret.md)
+

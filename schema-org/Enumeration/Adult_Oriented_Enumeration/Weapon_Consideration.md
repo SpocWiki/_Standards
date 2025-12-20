@@ -42,17 +42,17 @@ The item is intended to induce bodily harm, for example guns, mace, combat knive
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weapon_Consideration](Weapon_Consideration.md) 
+### #is_/same_as :: [Weapon_Consideration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.md) 
 
-### #is_/same_as :: [weapon_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.public.md) 
+### #is_/same_as :: [Weapon_Consideration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.public.md) 
 
-### #is_/same_as :: [weapon_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.internal.md) 
+### #is_/same_as :: [Weapon_Consideration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.internal.md) 
 
-### #is_/same_as :: [weapon_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.protect.md) 
+### #is_/same_as :: [Weapon_Consideration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.protect.md) 
 
-### #is_/same_as :: [weapon_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.private.md) 
+### #is_/same_as :: [Weapon_Consideration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.private.md) 
 
-### #is_/same_as :: [weapon_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.personal.md) 
+### #is_/same_as :: [Weapon_Consideration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.personal.md) 
 
-### #is_/same_as :: [weapon_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.secret.md)
+### #is_/same_as :: [Weapon_Consideration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Weapon_Consideration.secret.md)
 

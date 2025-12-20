@@ -298,17 +298,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Programming_Language](/_Standards/Technology/IT/Software/Programming_Language.md) 
+### #is_/same_as :: [Prog~Language](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language.md) 
 
-### #is_/same_as :: [Programming_Language.public](/_public/Technology/IT/Software/Programming_Language.public.md) 
+### #is_/same_as :: [Prog~Language.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language.public.md) 
 
-### #is_/same_as :: [Programming_Language.internal](/_internal/Technology/IT/Software/Programming_Language.internal.md) 
+### #is_/same_as :: [Prog~Language.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language.internal.md) 
 
-### #is_/same_as :: [Programming_Language.protect](/_protect/Technology/IT/Software/Programming_Language.protect.md) 
+### #is_/same_as :: [Prog~Language.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language.protect.md) 
 
-### #is_/same_as :: [Programming_Language.private](/_private/Technology/IT/Software/Programming_Language.private.md) 
+### #is_/same_as :: [Prog~Language.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language.private.md) 
 
-### #is_/same_as :: [Programming_Language.personal](/_personal/Technology/IT/Software/Programming_Language.personal.md) 
+### #is_/same_as :: [Prog~Language.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language.personal.md) 
 
-### #is_/same_as :: [Programming_Language.secret](/_secret/Technology/IT/Software/Programming_Language.secret.md)
+### #is_/same_as :: [Prog~Language.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language.secret.md)
 

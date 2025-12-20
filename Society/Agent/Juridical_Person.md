@@ -65,3 +65,22 @@ part_of: "[[_Standards/WikiData/WD~organization,43229]]"
 > At least three persons were required in Rome to found an association.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Juridical%20person)
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Juridical_Person](/_Standards/Society/Agent/Juridical_Person.md) 
+
+### #is_/same_as :: [Juridical_Person.public](/_public/Society/Agent/Juridical_Person.public.md) 
+
+### #is_/same_as :: [Juridical_Person.internal](/_internal/Society/Agent/Juridical_Person.internal.md) 
+
+### #is_/same_as :: [Juridical_Person.protect](/_protect/Society/Agent/Juridical_Person.protect.md) 
+
+### #is_/same_as :: [Juridical_Person.private](/_private/Society/Agent/Juridical_Person.private.md) 
+
+### #is_/same_as :: [Juridical_Person.personal](/_personal/Society/Agent/Juridical_Person.personal.md) 
+
+### #is_/same_as :: [Juridical_Person.secret](/_secret/Society/Agent/Juridical_Person.secret.md)
+

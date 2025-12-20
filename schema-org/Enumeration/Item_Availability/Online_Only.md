@@ -40,17 +40,17 @@ Indicates that the item is available only online.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Online_Only](Online_Only.md) 
+### #is_/same_as :: [Online_Only](/_Standards/schema-org/Enumeration/Item_Availability/Online_Only.md) 
 
-### #is_/same_as :: [online_only.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/online_only.public.md) 
+### #is_/same_as :: [Online_Only.public](/_public/schema-org/Enumeration/Item_Availability/Online_Only.public.md) 
 
-### #is_/same_as :: [online_only.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/online_only.internal.md) 
+### #is_/same_as :: [Online_Only.internal](/_internal/schema-org/Enumeration/Item_Availability/Online_Only.internal.md) 
 
-### #is_/same_as :: [online_only.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/online_only.protect.md) 
+### #is_/same_as :: [Online_Only.protect](/_protect/schema-org/Enumeration/Item_Availability/Online_Only.protect.md) 
 
-### #is_/same_as :: [online_only.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/online_only.private.md) 
+### #is_/same_as :: [Online_Only.private](/_private/schema-org/Enumeration/Item_Availability/Online_Only.private.md) 
 
-### #is_/same_as :: [online_only.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/online_only.personal.md) 
+### #is_/same_as :: [Online_Only.personal](/_personal/schema-org/Enumeration/Item_Availability/Online_Only.personal.md) 
 
-### #is_/same_as :: [online_only.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/online_only.secret.md)
+### #is_/same_as :: [Online_Only.secret](/_secret/schema-org/Enumeration/Item_Availability/Online_Only.secret.md)
 

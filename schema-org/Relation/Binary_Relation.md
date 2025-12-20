@@ -66,3 +66,22 @@ has_id_wikidata: Q130901
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Binary%20relation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Binary_Relation](/_Standards/schema-org/Relation/Binary_Relation.md) 
+
+### #is_/same_as :: [Binary_Relation.public](/_public/schema-org/Relation/Binary_Relation.public.md) 
+
+### #is_/same_as :: [Binary_Relation.internal](/_internal/schema-org/Relation/Binary_Relation.internal.md) 
+
+### #is_/same_as :: [Binary_Relation.protect](/_protect/schema-org/Relation/Binary_Relation.protect.md) 
+
+### #is_/same_as :: [Binary_Relation.private](/_private/schema-org/Relation/Binary_Relation.private.md) 
+
+### #is_/same_as :: [Binary_Relation.personal](/_personal/schema-org/Relation/Binary_Relation.personal.md) 
+
+### #is_/same_as :: [Binary_Relation.secret](/_secret/schema-org/Relation/Binary_Relation.secret.md)
+

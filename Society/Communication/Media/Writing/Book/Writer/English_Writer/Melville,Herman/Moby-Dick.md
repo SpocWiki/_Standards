@@ -213,3 +213,22 @@ subtitle: or, The Whale
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Moby-Dick) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Moby-Dick](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.md) 
+
+### #is_/same_as :: [Moby-Dick.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.public.md) 
+
+### #is_/same_as :: [Moby-Dick.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.internal.md) 
+
+### #is_/same_as :: [Moby-Dick.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.protect.md) 
+
+### #is_/same_as :: [Moby-Dick.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.private.md) 
+
+### #is_/same_as :: [Moby-Dick.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.personal.md) 
+
+### #is_/same_as :: [Moby-Dick.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.secret.md)
+

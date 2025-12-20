@@ -61,3 +61,22 @@ Commons_category: Hourglasses
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hourglass) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hourglass](/_Standards/Technology/Tool/Instrumentation/Hourglass.md) 
+
+### #is_/same_as :: [Hourglass.public](/_public/Technology/Tool/Instrumentation/Hourglass.public.md) 
+
+### #is_/same_as :: [Hourglass.internal](/_internal/Technology/Tool/Instrumentation/Hourglass.internal.md) 
+
+### #is_/same_as :: [Hourglass.protect](/_protect/Technology/Tool/Instrumentation/Hourglass.protect.md) 
+
+### #is_/same_as :: [Hourglass.private](/_private/Technology/Tool/Instrumentation/Hourglass.private.md) 
+
+### #is_/same_as :: [Hourglass.personal](/_personal/Technology/Tool/Instrumentation/Hourglass.personal.md) 
+
+### #is_/same_as :: [Hourglass.secret](/_secret/Technology/Tool/Instrumentation/Hourglass.secret.md)
+

@@ -127,17 +127,17 @@ native_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-zh-wuu](/_Standards/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.md) 
+### #is_/same_as :: [Lang-zh-wuu](/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.md) 
 
-### #is_/same_as :: [Lang-zh-wuu.public](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.public.md) 
+### #is_/same_as :: [Lang-zh-wuu.public](/_public/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.public.md) 
 
-### #is_/same_as :: [Lang-zh-wuu.internal](/_internal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.internal.md) 
+### #is_/same_as :: [Lang-zh-wuu.internal](/_internal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.internal.md) 
 
-### #is_/same_as :: [Lang-zh-wuu.protect](/_protect/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.protect.md) 
+### #is_/same_as :: [Lang-zh-wuu.protect](/_protect/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.protect.md) 
 
-### #is_/same_as :: [Lang-zh-wuu.private](/_private/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.private.md) 
+### #is_/same_as :: [Lang-zh-wuu.private](/_private/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.private.md) 
 
-### #is_/same_as :: [Lang-zh-wuu.personal](/_personal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.personal.md) 
+### #is_/same_as :: [Lang-zh-wuu.personal](/_personal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.personal.md) 
 
-### #is_/same_as :: [Lang-zh-wuu.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.secret.md)
+### #is_/same_as :: [Lang-zh-wuu.secret](/_secret/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.secret.md)
 

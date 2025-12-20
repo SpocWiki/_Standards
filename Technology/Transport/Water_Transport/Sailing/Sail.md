@@ -32,3 +32,22 @@ has_id_wikidata: Q25999
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sail) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sail](/_Standards/Technology/Transport/Water_Transport/Sailing/Sail.md) 
+
+### #is_/same_as :: [Sail.public](/_public/Technology/Transport/Water_Transport/Sailing/Sail.public.md) 
+
+### #is_/same_as :: [Sail.internal](/_internal/Technology/Transport/Water_Transport/Sailing/Sail.internal.md) 
+
+### #is_/same_as :: [Sail.protect](/_protect/Technology/Transport/Water_Transport/Sailing/Sail.protect.md) 
+
+### #is_/same_as :: [Sail.private](/_private/Technology/Transport/Water_Transport/Sailing/Sail.private.md) 
+
+### #is_/same_as :: [Sail.personal](/_personal/Technology/Transport/Water_Transport/Sailing/Sail.personal.md) 
+
+### #is_/same_as :: [Sail.secret](/_secret/Technology/Transport/Water_Transport/Sailing/Sail.secret.md)
+

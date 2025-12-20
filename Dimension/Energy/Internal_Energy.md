@@ -53,3 +53,21 @@ has_id_wikidata: Q180241
 > The unit of energy in the International System of Units (SI) is the joule (J). The internal energy relative to the mass with unit J/kg is the specific internal energy. The corresponding quantity relative to the amount of substance with unit J/mol is the molar internal energy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Internal%20energy)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Internal_Energy](/_Standards/Dimension/Energy/Internal_Energy.md) 
+
+### #is_/same_as :: [Internal_Energy.public](/_public/Dimension/Energy/Internal_Energy.public.md) 
+
+### #is_/same_as :: [Internal_Energy.internal](/_internal/Dimension/Energy/Internal_Energy.internal.md) 
+
+### #is_/same_as :: [Internal_Energy.protect](/_protect/Dimension/Energy/Internal_Energy.protect.md) 
+
+### #is_/same_as :: [Internal_Energy.private](/_private/Dimension/Energy/Internal_Energy.private.md) 
+
+### #is_/same_as :: [Internal_Energy.personal](/_personal/Dimension/Energy/Internal_Energy.personal.md) 
+
+### #is_/same_as :: [Internal_Energy.secret](/_secret/Dimension/Energy/Internal_Energy.secret.md)
+

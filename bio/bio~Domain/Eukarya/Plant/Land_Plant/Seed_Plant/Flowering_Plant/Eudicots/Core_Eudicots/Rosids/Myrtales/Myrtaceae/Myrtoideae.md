@@ -35,3 +35,22 @@ UMLS_CUI: C4096999
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Myrtaceae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Myrtoideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae.md) 
+
+### #is_/same_as :: [Myrtoideae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae.public.md) 
+
+### #is_/same_as :: [Myrtoideae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae.internal.md) 
+
+### #is_/same_as :: [Myrtoideae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae.protect.md) 
+
+### #is_/same_as :: [Myrtoideae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae.private.md) 
+
+### #is_/same_as :: [Myrtoideae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae.personal.md) 
+
+### #is_/same_as :: [Myrtoideae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae.secret.md)
+

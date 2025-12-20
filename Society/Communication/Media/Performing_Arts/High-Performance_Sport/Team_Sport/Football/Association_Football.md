@@ -145,17 +145,17 @@ Baidu_Tieba_name: 足球
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Association_Football](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Association_Football.md) 
+### #is_/same_as :: [Association_Football](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football.md) 
 
-### #is_/same_as :: [Association_Football.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Association_Football.public.md) 
+### #is_/same_as :: [Association_Football.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football.public.md) 
 
-### #is_/same_as :: [Association_Football.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Association_Football.internal.md) 
+### #is_/same_as :: [Association_Football.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football.internal.md) 
 
-### #is_/same_as :: [Association_Football.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Association_Football.protect.md) 
+### #is_/same_as :: [Association_Football.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football.protect.md) 
 
-### #is_/same_as :: [Association_Football.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Association_Football.private.md) 
+### #is_/same_as :: [Association_Football.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football.private.md) 
 
-### #is_/same_as :: [Association_Football.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Association_Football.personal.md) 
+### #is_/same_as :: [Association_Football.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football.personal.md) 
 
-### #is_/same_as :: [Association_Football.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Association_Football.secret.md)
+### #is_/same_as :: [Association_Football.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football.secret.md)
 

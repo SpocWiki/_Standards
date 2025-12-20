@@ -31,17 +31,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Last_Question(Asimov)](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov/Last_Question(Asimov).md) 
+### #is_/same_as :: [Last_Question(Asimov)](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).md) 
 
-### #is_/same_as :: [Last_Question(Asimov).public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov/Last_Question(Asimov).public.md) 
+### #is_/same_as :: [Last_Question(Asimov).public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).public.md) 
 
-### #is_/same_as :: [Last_Question(Asimov).internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov/Last_Question(Asimov).internal.md) 
+### #is_/same_as :: [Last_Question(Asimov).internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).internal.md) 
 
-### #is_/same_as :: [Last_Question(Asimov).protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov/Last_Question(Asimov).protect.md) 
+### #is_/same_as :: [Last_Question(Asimov).protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).protect.md) 
 
-### #is_/same_as :: [Last_Question(Asimov).private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov/Last_Question(Asimov).private.md) 
+### #is_/same_as :: [Last_Question(Asimov).private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).private.md) 
 
-### #is_/same_as :: [Last_Question(Asimov).personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov/Last_Question(Asimov).personal.md) 
+### #is_/same_as :: [Last_Question(Asimov).personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).personal.md) 
 
-### #is_/same_as :: [Last_Question(Asimov).secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov/Last_Question(Asimov).secret.md)
+### #is_/same_as :: [Last_Question(Asimov).secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).secret.md)
 

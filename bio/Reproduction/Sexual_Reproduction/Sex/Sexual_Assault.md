@@ -31,3 +31,22 @@ Archive_of_Our_Own_tag: Sexual Assault
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sexual%20assault) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sexual_Assault](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.md) 
+
+### #is_/same_as :: [Sexual_Assault.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.public.md) 
+
+### #is_/same_as :: [Sexual_Assault.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.internal.md) 
+
+### #is_/same_as :: [Sexual_Assault.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.protect.md) 
+
+### #is_/same_as :: [Sexual_Assault.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.private.md) 
+
+### #is_/same_as :: [Sexual_Assault.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.personal.md) 
+
+### #is_/same_as :: [Sexual_Assault.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.secret.md)
+

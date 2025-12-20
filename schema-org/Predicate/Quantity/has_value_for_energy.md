@@ -173,36 +173,17 @@ Properties that take Energy as values are of the form '{Number} {Energy unit of 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_energy](has_energy.md) 
+### #is_/same_as :: [has_value_for_energy](/_Standards/schema-org/Predicate/Quantity/has_value_for_energy.md) 
 
-### #is_/same_as :: [energy.public](/_public/schema-org/Predicate/Quantity/energy.public.md) 
+### #is_/same_as :: [has_value_for_energy.public](/_public/schema-org/Predicate/Quantity/has_value_for_energy.public.md) 
 
-### #is_/same_as :: [energy.internal](/_internal/schema-org/Predicate/Quantity/energy.internal.md) 
+### #is_/same_as :: [has_value_for_energy.internal](/_internal/schema-org/Predicate/Quantity/has_value_for_energy.internal.md) 
 
-### #is_/same_as :: [energy.protect](/_protect/schema-org/Predicate/Quantity/energy.protect.md) 
+### #is_/same_as :: [has_value_for_energy.protect](/_protect/schema-org/Predicate/Quantity/has_value_for_energy.protect.md) 
 
-### #is_/same_as :: [energy.private](/_private/schema-org/Predicate/Quantity/energy.private.md) 
+### #is_/same_as :: [has_value_for_energy.private](/_private/schema-org/Predicate/Quantity/has_value_for_energy.private.md) 
 
-### #is_/same_as :: [energy.personal](/_personal/schema-org/Predicate/Quantity/energy.personal.md) 
+### #is_/same_as :: [has_value_for_energy.personal](/_personal/schema-org/Predicate/Quantity/has_value_for_energy.personal.md) 
 
-### #is_/same_as :: [energy.secret](/_secret/schema-org/Predicate/Quantity/energy.secret.md)
+### #is_/same_as :: [has_value_for_energy.secret](/_secret/schema-org/Predicate/Quantity/has_value_for_energy.secret.md)
 
-
-# [[has_value_for_energy]] 
-
-#is_/part_of :: [[has_energy]] 
-
-![[has_value_for_energy.svg]]
-
- 
-
-## Embedded Graph 
-
-![[has_value_for_energy.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

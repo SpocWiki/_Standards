@@ -41,17 +41,17 @@ An audio file.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Audio_Object](Audio_Object.md) 
+### #is_/same_as :: [Audio_Object](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object.md) 
 
-### #is_/same_as :: [Audio_Object.public](/_public/Society/Communication/Media/Media_Object/Audio_Object.public.md) 
+### #is_/same_as :: [Audio_Object.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object.public.md) 
 
-### #is_/same_as :: [Audio_Object.internal](/_internal/Society/Communication/Media/Media_Object/Audio_Object.internal.md) 
+### #is_/same_as :: [Audio_Object.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object.internal.md) 
 
-### #is_/same_as :: [Audio_Object.protect](/_protect/Society/Communication/Media/Media_Object/Audio_Object.protect.md) 
+### #is_/same_as :: [Audio_Object.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object.protect.md) 
 
-### #is_/same_as :: [Audio_Object.private](/_private/Society/Communication/Media/Media_Object/Audio_Object.private.md) 
+### #is_/same_as :: [Audio_Object.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object.private.md) 
 
-### #is_/same_as :: [Audio_Object.personal](/_personal/Society/Communication/Media/Media_Object/Audio_Object.personal.md) 
+### #is_/same_as :: [Audio_Object.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object.personal.md) 
 
-### #is_/same_as :: [Audio_Object.secret](/_secret/Society/Communication/Media/Media_Object/Audio_Object.secret.md)
+### #is_/same_as :: [Audio_Object.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object.secret.md)
 

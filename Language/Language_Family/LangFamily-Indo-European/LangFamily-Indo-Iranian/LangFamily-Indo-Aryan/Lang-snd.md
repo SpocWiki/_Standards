@@ -102,3 +102,22 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Sindhi-spea
 > [Wikipedia](https://en.wikipedia.org/wiki/Sindhi%20language) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-snd](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-snd.md) 
+
+### #is_/same_as :: [Lang-snd.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-snd.public.md) 
+
+### #is_/same_as :: [Lang-snd.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-snd.internal.md) 
+
+### #is_/same_as :: [Lang-snd.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-snd.protect.md) 
+
+### #is_/same_as :: [Lang-snd.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-snd.private.md) 
+
+### #is_/same_as :: [Lang-snd.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-snd.personal.md) 
+
+### #is_/same_as :: [Lang-snd.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-snd.secret.md)
+

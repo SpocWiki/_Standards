@@ -39,17 +39,17 @@ The act of expressing a desire about the object. An agent wants an object.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [want_action](/_Standards/schema-org/Class/is_a_/action/assess_action/react_action/want_action.md) 
+### #is_/same_as :: [Want_Action](/_Standards/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Want_Action.md) 
 
-### #is_/same_as :: [want_action.public](/_public/schema-org/Class/is_a_/action/assess_action/react_action/want_action.public.md) 
+### #is_/same_as :: [Want_Action.public](/_public/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Want_Action.public.md) 
 
-### #is_/same_as :: [want_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/react_action/want_action.internal.md) 
+### #is_/same_as :: [Want_Action.internal](/_internal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Want_Action.internal.md) 
 
-### #is_/same_as :: [want_action.protect](/_protect/schema-org/Class/is_a_/action/assess_action/react_action/want_action.protect.md) 
+### #is_/same_as :: [Want_Action.protect](/_protect/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Want_Action.protect.md) 
 
-### #is_/same_as :: [want_action.private](/_private/schema-org/Class/is_a_/action/assess_action/react_action/want_action.private.md) 
+### #is_/same_as :: [Want_Action.private](/_private/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Want_Action.private.md) 
 
-### #is_/same_as :: [want_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/react_action/want_action.personal.md) 
+### #is_/same_as :: [Want_Action.personal](/_personal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Want_Action.personal.md) 
 
-### #is_/same_as :: [want_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/react_action/want_action.secret.md)
+### #is_/same_as :: [Want_Action.secret](/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Want_Action.secret.md)
 

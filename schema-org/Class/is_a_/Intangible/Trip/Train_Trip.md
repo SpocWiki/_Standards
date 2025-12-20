@@ -39,17 +39,17 @@ A trip on a commercial train line.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [train_trip](/_Standards/schema-org/Class/is_a_/Intangible/trip/train_trip.md) 
+### #is_/same_as :: [Train_Trip](/_Standards/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.md) 
 
-### #is_/same_as :: [train_trip.public](/_public/schema-org/Class/is_a_/Intangible/trip/train_trip.public.md) 
+### #is_/same_as :: [Train_Trip.public](/_public/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.public.md) 
 
-### #is_/same_as :: [train_trip.internal](/_internal/schema-org/Class/is_a_/Intangible/trip/train_trip.internal.md) 
+### #is_/same_as :: [Train_Trip.internal](/_internal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.internal.md) 
 
-### #is_/same_as :: [train_trip.protect](/_protect/schema-org/Class/is_a_/Intangible/trip/train_trip.protect.md) 
+### #is_/same_as :: [Train_Trip.protect](/_protect/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.protect.md) 
 
-### #is_/same_as :: [train_trip.private](/_private/schema-org/Class/is_a_/Intangible/trip/train_trip.private.md) 
+### #is_/same_as :: [Train_Trip.private](/_private/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.private.md) 
 
-### #is_/same_as :: [train_trip.personal](/_personal/schema-org/Class/is_a_/Intangible/trip/train_trip.personal.md) 
+### #is_/same_as :: [Train_Trip.personal](/_personal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.personal.md) 
 
-### #is_/same_as :: [train_trip.secret](/_secret/schema-org/Class/is_a_/Intangible/trip/train_trip.secret.md)
+### #is_/same_as :: [Train_Trip.secret](/_secret/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.secret.md)
 

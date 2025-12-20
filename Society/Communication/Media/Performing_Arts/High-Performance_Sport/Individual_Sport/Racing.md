@@ -40,3 +40,22 @@ U_S_National_Archives_Identifier: "10643549"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Racing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Racing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing.md) 
+
+### #is_/same_as :: [Racing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing.public.md) 
+
+### #is_/same_as :: [Racing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing.internal.md) 
+
+### #is_/same_as :: [Racing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing.protect.md) 
+
+### #is_/same_as :: [Racing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing.private.md) 
+
+### #is_/same_as :: [Racing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing.personal.md) 
+
+### #is_/same_as :: [Racing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing.secret.md)
+

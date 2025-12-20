@@ -25,3 +25,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Pascal](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Pascal.md) 
+
+### #is_/same_as :: [Prog~Pascal.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Pascal.public.md) 
+
+### #is_/same_as :: [Prog~Pascal.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Pascal.internal.md) 
+
+### #is_/same_as :: [Prog~Pascal.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Pascal.protect.md) 
+
+### #is_/same_as :: [Prog~Pascal.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Pascal.private.md) 
+
+### #is_/same_as :: [Prog~Pascal.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Pascal.personal.md) 
+
+### #is_/same_as :: [Prog~Pascal.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Pascal.secret.md)
+

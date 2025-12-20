@@ -80,3 +80,22 @@ publication_date: 1812-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hansel%20and%20Gretel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hansel_and_Gretel](/_Standards/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.md) 
+
+### #is_/same_as :: [Hansel_and_Gretel.public](/_public/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.public.md) 
+
+### #is_/same_as :: [Hansel_and_Gretel.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.internal.md) 
+
+### #is_/same_as :: [Hansel_and_Gretel.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.protect.md) 
+
+### #is_/same_as :: [Hansel_and_Gretel.private](/_private/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.private.md) 
+
+### #is_/same_as :: [Hansel_and_Gretel.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.personal.md) 
+
+### #is_/same_as :: [Hansel_and_Gretel.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.secret.md)
+

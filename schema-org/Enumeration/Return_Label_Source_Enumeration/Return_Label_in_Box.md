@@ -42,17 +42,17 @@ Specifies that a return label will be provided by the seller in the shipping box
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_Label_in_Box](Return_Label_in_Box.md) 
+### #is_/same_as :: [Return_Label_in_Box](/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_in_Box.md) 
 
-### #is_/same_as :: [return_label_in_box.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_in_box.public.md) 
+### #is_/same_as :: [Return_Label_in_Box.public](/_public/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_in_Box.public.md) 
 
-### #is_/same_as :: [return_label_in_box.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_in_box.internal.md) 
+### #is_/same_as :: [Return_Label_in_Box.internal](/_internal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_in_Box.internal.md) 
 
-### #is_/same_as :: [return_label_in_box.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_in_box.protect.md) 
+### #is_/same_as :: [Return_Label_in_Box.protect](/_protect/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_in_Box.protect.md) 
 
-### #is_/same_as :: [return_label_in_box.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_in_box.private.md) 
+### #is_/same_as :: [Return_Label_in_Box.private](/_private/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_in_Box.private.md) 
 
-### #is_/same_as :: [return_label_in_box.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_in_box.personal.md) 
+### #is_/same_as :: [Return_Label_in_Box.personal](/_personal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_in_Box.personal.md) 
 
-### #is_/same_as :: [return_label_in_box.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_in_box.secret.md)
+### #is_/same_as :: [Return_Label_in_Box.secret](/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_in_Box.secret.md)
 

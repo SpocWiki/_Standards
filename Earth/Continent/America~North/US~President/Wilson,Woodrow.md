@@ -256,3 +256,22 @@ The new Slogan was "A War to end all Wars".
 > [Wikipedia](https://en.wikipedia.org/wiki/Woodrow%20Wilson)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wilson,Woodrow](/_Standards/Earth/Continent/America~North/US~President/Wilson,Woodrow.md) 
+
+### #is_/same_as :: [Wilson,Woodrow.public](/_public/Earth/Continent/America~North/US~President/Wilson,Woodrow.public.md) 
+
+### #is_/same_as :: [Wilson,Woodrow.internal](/_internal/Earth/Continent/America~North/US~President/Wilson,Woodrow.internal.md) 
+
+### #is_/same_as :: [Wilson,Woodrow.protect](/_protect/Earth/Continent/America~North/US~President/Wilson,Woodrow.protect.md) 
+
+### #is_/same_as :: [Wilson,Woodrow.private](/_private/Earth/Continent/America~North/US~President/Wilson,Woodrow.private.md) 
+
+### #is_/same_as :: [Wilson,Woodrow.personal](/_personal/Earth/Continent/America~North/US~President/Wilson,Woodrow.personal.md) 
+
+### #is_/same_as :: [Wilson,Woodrow.secret](/_secret/Earth/Continent/America~North/US~President/Wilson,Woodrow.secret.md)
+

@@ -116,3 +116,22 @@ date_of_birth: 1795-11-02T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20K.%20Polk) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polk,James_K](/_Standards/Earth/Continent/America~North/US~President/Polk,James_K.md) 
+
+### #is_/same_as :: [Polk,James_K.public](/_public/Earth/Continent/America~North/US~President/Polk,James_K.public.md) 
+
+### #is_/same_as :: [Polk,James_K.internal](/_internal/Earth/Continent/America~North/US~President/Polk,James_K.internal.md) 
+
+### #is_/same_as :: [Polk,James_K.protect](/_protect/Earth/Continent/America~North/US~President/Polk,James_K.protect.md) 
+
+### #is_/same_as :: [Polk,James_K.private](/_private/Earth/Continent/America~North/US~President/Polk,James_K.private.md) 
+
+### #is_/same_as :: [Polk,James_K.personal](/_personal/Earth/Continent/America~North/US~President/Polk,James_K.personal.md) 
+
+### #is_/same_as :: [Polk,James_K.secret](/_secret/Earth/Continent/America~North/US~President/Polk,James_K.secret.md)
+

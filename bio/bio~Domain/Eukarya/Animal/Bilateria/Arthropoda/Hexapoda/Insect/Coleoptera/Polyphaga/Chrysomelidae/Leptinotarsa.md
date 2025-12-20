@@ -30,3 +30,22 @@ UMLS_CUI: C0998632
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leptinotarsa) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leptinotarsa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa.md) 
+
+### #is_/same_as :: [Leptinotarsa.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa.public.md) 
+
+### #is_/same_as :: [Leptinotarsa.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa.internal.md) 
+
+### #is_/same_as :: [Leptinotarsa.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa.protect.md) 
+
+### #is_/same_as :: [Leptinotarsa.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa.private.md) 
+
+### #is_/same_as :: [Leptinotarsa.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa.personal.md) 
+
+### #is_/same_as :: [Leptinotarsa.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa.secret.md)
+

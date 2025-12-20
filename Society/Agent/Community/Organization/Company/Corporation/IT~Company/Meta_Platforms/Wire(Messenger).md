@@ -80,3 +80,22 @@ publication_date: 2014-12-03T00:00:00Z
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wire(Messenger)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Wire(Messenger).md) 
+
+### #is_/same_as :: [Wire(Messenger).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Wire(Messenger).public.md) 
+
+### #is_/same_as :: [Wire(Messenger).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Wire(Messenger).internal.md) 
+
+### #is_/same_as :: [Wire(Messenger).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Wire(Messenger).protect.md) 
+
+### #is_/same_as :: [Wire(Messenger).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Wire(Messenger).private.md) 
+
+### #is_/same_as :: [Wire(Messenger).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Wire(Messenger).personal.md) 
+
+### #is_/same_as :: [Wire(Messenger).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Wire(Messenger).secret.md)
+

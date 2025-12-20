@@ -217,17 +217,17 @@ Lower Managers, similar to Employees, have no liabilities, except specified by t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Corporation](Corporation.md) 
+### #is_/same_as :: [Corporation](/_Standards/Society/Agent/Community/Organization/Company/Corporation.md) 
 
-### #is_/same_as :: [Corporation.public](/_public/Society/Organization/Corporation.public.md) 
+### #is_/same_as :: [Corporation.public](/_public/Society/Agent/Community/Organization/Company/Corporation.public.md) 
 
-### #is_/same_as :: [Corporation.internal](/_internal/Society/Organization/Corporation.internal.md) 
+### #is_/same_as :: [Corporation.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation.internal.md) 
 
-### #is_/same_as :: [Corporation.protect](/_protect/Society/Organization/Corporation.protect.md) 
+### #is_/same_as :: [Corporation.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation.protect.md) 
 
-### #is_/same_as :: [Corporation.private](/_private/Society/Organization/Corporation.private.md) 
+### #is_/same_as :: [Corporation.private](/_private/Society/Agent/Community/Organization/Company/Corporation.private.md) 
 
-### #is_/same_as :: [Corporation.personal](/_personal/Society/Organization/Corporation.personal.md) 
+### #is_/same_as :: [Corporation.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation.personal.md) 
 
-### #is_/same_as :: [Corporation.secret](/_secret/Society/Organization/Corporation.secret.md)
+### #is_/same_as :: [Corporation.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation.secret.md)
 

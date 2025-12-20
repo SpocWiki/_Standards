@@ -53,3 +53,22 @@ Unicode_character: 🐉
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Azure%20Dragon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Azure_Dragon](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.md) 
+
+### #is_/same_as :: [Azure_Dragon.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.public.md) 
+
+### #is_/same_as :: [Azure_Dragon.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.internal.md) 
+
+### #is_/same_as :: [Azure_Dragon.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.protect.md) 
+
+### #is_/same_as :: [Azure_Dragon.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.private.md) 
+
+### #is_/same_as :: [Azure_Dragon.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.personal.md) 
+
+### #is_/same_as :: [Azure_Dragon.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.secret.md)
+

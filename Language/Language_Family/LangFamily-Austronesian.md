@@ -61,17 +61,17 @@ WALS_family_code: austronesian
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Austronesian](/_Standards/Language/Lang~Family/LangFamily-Austronesian.md) 
+### #is_/same_as :: [LangFamily-Austronesian](/_Standards/Language/Language_Family/LangFamily-Austronesian.md) 
 
-### #is_/same_as :: [LangFamily-Austronesian.public](/_public/Language/Lang~Family/LangFamily-Austronesian.public.md) 
+### #is_/same_as :: [LangFamily-Austronesian.public](/_public/Language/Language_Family/LangFamily-Austronesian.public.md) 
 
-### #is_/same_as :: [LangFamily-Austronesian.internal](/_internal/Language/Lang~Family/LangFamily-Austronesian.internal.md) 
+### #is_/same_as :: [LangFamily-Austronesian.internal](/_internal/Language/Language_Family/LangFamily-Austronesian.internal.md) 
 
-### #is_/same_as :: [LangFamily-Austronesian.protect](/_protect/Language/Lang~Family/LangFamily-Austronesian.protect.md) 
+### #is_/same_as :: [LangFamily-Austronesian.protect](/_protect/Language/Language_Family/LangFamily-Austronesian.protect.md) 
 
-### #is_/same_as :: [LangFamily-Austronesian.private](/_private/Language/Lang~Family/LangFamily-Austronesian.private.md) 
+### #is_/same_as :: [LangFamily-Austronesian.private](/_private/Language/Language_Family/LangFamily-Austronesian.private.md) 
 
-### #is_/same_as :: [LangFamily-Austronesian.personal](/_personal/Language/Lang~Family/LangFamily-Austronesian.personal.md) 
+### #is_/same_as :: [LangFamily-Austronesian.personal](/_personal/Language/Language_Family/LangFamily-Austronesian.personal.md) 
 
-### #is_/same_as :: [LangFamily-Austronesian.secret](/_secret/Language/Lang~Family/LangFamily-Austronesian.secret.md)
+### #is_/same_as :: [LangFamily-Austronesian.secret](/_secret/Language/Language_Family/LangFamily-Austronesian.secret.md)
 

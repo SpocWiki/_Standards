@@ -135,3 +135,22 @@ By integrating these principles, pragmatism became a distinctive and influential
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pragmatism](/_Standards/Philosophy/Pragmatism.md) 
+
+### #is_/same_as :: [Pragmatism.public](/_public/Philosophy/Pragmatism.public.md) 
+
+### #is_/same_as :: [Pragmatism.internal](/_internal/Philosophy/Pragmatism.internal.md) 
+
+### #is_/same_as :: [Pragmatism.protect](/_protect/Philosophy/Pragmatism.protect.md) 
+
+### #is_/same_as :: [Pragmatism.private](/_private/Philosophy/Pragmatism.private.md) 
+
+### #is_/same_as :: [Pragmatism.personal](/_personal/Philosophy/Pragmatism.personal.md) 
+
+### #is_/same_as :: [Pragmatism.secret](/_secret/Philosophy/Pragmatism.secret.md)
+

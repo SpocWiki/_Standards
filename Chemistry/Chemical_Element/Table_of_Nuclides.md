@@ -43,3 +43,22 @@ Commons_category: Chart of nuclides
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Table%20of%20nuclides) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Table_of_Nuclides](/_Standards/Chemistry/Chemical_Element/Table_of_Nuclides.md) 
+
+### #is_/same_as :: [Table_of_Nuclides.public](/_public/Chemistry/Chemical_Element/Table_of_Nuclides.public.md) 
+
+### #is_/same_as :: [Table_of_Nuclides.internal](/_internal/Chemistry/Chemical_Element/Table_of_Nuclides.internal.md) 
+
+### #is_/same_as :: [Table_of_Nuclides.protect](/_protect/Chemistry/Chemical_Element/Table_of_Nuclides.protect.md) 
+
+### #is_/same_as :: [Table_of_Nuclides.private](/_private/Chemistry/Chemical_Element/Table_of_Nuclides.private.md) 
+
+### #is_/same_as :: [Table_of_Nuclides.personal](/_personal/Chemistry/Chemical_Element/Table_of_Nuclides.personal.md) 
+
+### #is_/same_as :: [Table_of_Nuclides.secret](/_secret/Chemistry/Chemical_Element/Table_of_Nuclides.secret.md)
+

@@ -76,3 +76,22 @@ date_of_death: 1520-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pedro%20%C3%81lvares%20Cabral) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pedro_Álvares_Cabral](/_Standards/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.md) 
+
+### #is_/same_as :: [Pedro_Álvares_Cabral.public](/_public/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.public.md) 
+
+### #is_/same_as :: [Pedro_Álvares_Cabral.internal](/_internal/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.internal.md) 
+
+### #is_/same_as :: [Pedro_Álvares_Cabral.protect](/_protect/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.protect.md) 
+
+### #is_/same_as :: [Pedro_Álvares_Cabral.private](/_private/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.private.md) 
+
+### #is_/same_as :: [Pedro_Álvares_Cabral.personal](/_personal/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.personal.md) 
+
+### #is_/same_as :: [Pedro_Álvares_Cabral.secret](/_secret/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.secret.md)
+

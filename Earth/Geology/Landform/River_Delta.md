@@ -37,3 +37,22 @@ Commons_category: River deltas
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/River%20delta) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [River_Delta](/_Standards/Earth/Geology/Landform/River_Delta.md) 
+
+### #is_/same_as :: [River_Delta.public](/_public/Earth/Geology/Landform/River_Delta.public.md) 
+
+### #is_/same_as :: [River_Delta.internal](/_internal/Earth/Geology/Landform/River_Delta.internal.md) 
+
+### #is_/same_as :: [River_Delta.protect](/_protect/Earth/Geology/Landform/River_Delta.protect.md) 
+
+### #is_/same_as :: [River_Delta.private](/_private/Earth/Geology/Landform/River_Delta.private.md) 
+
+### #is_/same_as :: [River_Delta.personal](/_personal/Earth/Geology/Landform/River_Delta.personal.md) 
+
+### #is_/same_as :: [River_Delta.secret](/_secret/Earth/Geology/Landform/River_Delta.secret.md)
+

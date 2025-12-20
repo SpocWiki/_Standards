@@ -40,17 +40,17 @@ Indicates that the item is refurbished.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Refurbished_Condition](Refurbished_Condition.md) 
+### #is_/same_as :: [Refurbished_Condition](/_Standards/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.md) 
 
-### #is_/same_as :: [refurbished_condition.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/refurbished_condition.public.md) 
+### #is_/same_as :: [Refurbished_Condition.public](/_public/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.public.md) 
 
-### #is_/same_as :: [refurbished_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/refurbished_condition.internal.md) 
+### #is_/same_as :: [Refurbished_Condition.internal](/_internal/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.internal.md) 
 
-### #is_/same_as :: [refurbished_condition.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/refurbished_condition.protect.md) 
+### #is_/same_as :: [Refurbished_Condition.protect](/_protect/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.protect.md) 
 
-### #is_/same_as :: [refurbished_condition.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/refurbished_condition.private.md) 
+### #is_/same_as :: [Refurbished_Condition.private](/_private/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.private.md) 
 
-### #is_/same_as :: [refurbished_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/refurbished_condition.personal.md) 
+### #is_/same_as :: [Refurbished_Condition.personal](/_personal/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.personal.md) 
 
-### #is_/same_as :: [refurbished_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/refurbished_condition.secret.md)
+### #is_/same_as :: [Refurbished_Condition.secret](/_secret/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.secret.md)
 

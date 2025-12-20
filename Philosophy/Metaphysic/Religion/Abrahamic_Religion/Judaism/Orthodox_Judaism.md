@@ -31,3 +31,22 @@ OpenStreetMap_tag: denomination=orthodox
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orthodox%20Judaism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orthodox_Judaism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.md) 
+
+### #is_/same_as :: [Orthodox_Judaism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.public.md) 
+
+### #is_/same_as :: [Orthodox_Judaism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.internal.md) 
+
+### #is_/same_as :: [Orthodox_Judaism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.protect.md) 
+
+### #is_/same_as :: [Orthodox_Judaism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.private.md) 
+
+### #is_/same_as :: [Orthodox_Judaism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.personal.md) 
+
+### #is_/same_as :: [Orthodox_Judaism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.secret.md)
+

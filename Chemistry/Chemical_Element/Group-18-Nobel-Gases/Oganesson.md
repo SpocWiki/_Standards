@@ -74,3 +74,22 @@ time_of_discovery_or_invention: 2002-06-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oganesson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oganesson](/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.md) 
+
+### #is_/same_as :: [Oganesson.public](/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.public.md) 
+
+### #is_/same_as :: [Oganesson.internal](/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.internal.md) 
+
+### #is_/same_as :: [Oganesson.protect](/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.protect.md) 
+
+### #is_/same_as :: [Oganesson.private](/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.private.md) 
+
+### #is_/same_as :: [Oganesson.personal](/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.personal.md) 
+
+### #is_/same_as :: [Oganesson.secret](/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.secret.md)
+

@@ -16,3 +16,22 @@ has_id_wikidata:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chestnut) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chestnut](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Fagaceae/Castanea/Chestnut.md) 
+
+### #is_/same_as :: [Chestnut.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Fagaceae/Castanea/Chestnut.public.md) 
+
+### #is_/same_as :: [Chestnut.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Fagaceae/Castanea/Chestnut.internal.md) 
+
+### #is_/same_as :: [Chestnut.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Fagaceae/Castanea/Chestnut.protect.md) 
+
+### #is_/same_as :: [Chestnut.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Fagaceae/Castanea/Chestnut.private.md) 
+
+### #is_/same_as :: [Chestnut.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Fagaceae/Castanea/Chestnut.personal.md) 
+
+### #is_/same_as :: [Chestnut.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Fagaceae/Castanea/Chestnut.secret.md)
+

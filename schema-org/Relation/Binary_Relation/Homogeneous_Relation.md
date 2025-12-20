@@ -34,3 +34,22 @@ instance_of: "[[_Standards/WikiData/WD~type_of_relation,130324710]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Homogeneous%20relation) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Homogeneous_Relation](/_Standards/schema-org/Relation/Binary_Relation/Homogeneous_Relation.md) 
+
+### #is_/same_as :: [Homogeneous_Relation.public](/_public/schema-org/Relation/Binary_Relation/Homogeneous_Relation.public.md) 
+
+### #is_/same_as :: [Homogeneous_Relation.internal](/_internal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.internal.md) 
+
+### #is_/same_as :: [Homogeneous_Relation.protect](/_protect/schema-org/Relation/Binary_Relation/Homogeneous_Relation.protect.md) 
+
+### #is_/same_as :: [Homogeneous_Relation.private](/_private/schema-org/Relation/Binary_Relation/Homogeneous_Relation.private.md) 
+
+### #is_/same_as :: [Homogeneous_Relation.personal](/_personal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.personal.md) 
+
+### #is_/same_as :: [Homogeneous_Relation.secret](/_secret/schema-org/Relation/Binary_Relation/Homogeneous_Relation.secret.md)
+

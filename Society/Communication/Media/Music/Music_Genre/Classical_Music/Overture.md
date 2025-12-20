@@ -47,3 +47,21 @@ Commons_category: Overtures (music)
 > which introduced the overarching themes of the stories depicted.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Overture)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Overture](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.md) 
+
+### #is_/same_as :: [Overture.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.public.md) 
+
+### #is_/same_as :: [Overture.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.internal.md) 
+
+### #is_/same_as :: [Overture.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.protect.md) 
+
+### #is_/same_as :: [Overture.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.private.md) 
+
+### #is_/same_as :: [Overture.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.personal.md) 
+
+### #is_/same_as :: [Overture.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.secret.md)
+

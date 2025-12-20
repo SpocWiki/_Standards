@@ -74,3 +74,22 @@ Commons_category: Physiologists
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Physiology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Physiologist](/_Standards/bio/Physiology/Physiologist.md) 
+
+### #is_/same_as :: [Physiologist.public](/_public/bio/Physiology/Physiologist.public.md) 
+
+### #is_/same_as :: [Physiologist.internal](/_internal/bio/Physiology/Physiologist.internal.md) 
+
+### #is_/same_as :: [Physiologist.protect](/_protect/bio/Physiology/Physiologist.protect.md) 
+
+### #is_/same_as :: [Physiologist.private](/_private/bio/Physiology/Physiologist.private.md) 
+
+### #is_/same_as :: [Physiologist.personal](/_personal/bio/Physiology/Physiologist.personal.md) 
+
+### #is_/same_as :: [Physiologist.secret](/_secret/bio/Physiology/Physiologist.secret.md)
+

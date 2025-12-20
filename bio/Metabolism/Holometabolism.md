@@ -34,3 +34,22 @@ OmegaWiki_Defined_Meaning: "1085116"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Holometabolism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Holometabolism](/_Standards/bio/Metabolism/Holometabolism.md) 
+
+### #is_/same_as :: [Holometabolism.public](/_public/bio/Metabolism/Holometabolism.public.md) 
+
+### #is_/same_as :: [Holometabolism.internal](/_internal/bio/Metabolism/Holometabolism.internal.md) 
+
+### #is_/same_as :: [Holometabolism.protect](/_protect/bio/Metabolism/Holometabolism.protect.md) 
+
+### #is_/same_as :: [Holometabolism.private](/_private/bio/Metabolism/Holometabolism.private.md) 
+
+### #is_/same_as :: [Holometabolism.personal](/_personal/bio/Metabolism/Holometabolism.personal.md) 
+
+### #is_/same_as :: [Holometabolism.secret](/_secret/bio/Metabolism/Holometabolism.secret.md)
+

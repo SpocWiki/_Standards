@@ -100,3 +100,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hephaestus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hephaestus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.md) 
+
+### #is_/same_as :: [Hephaestus.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.public.md) 
+
+### #is_/same_as :: [Hephaestus.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.internal.md) 
+
+### #is_/same_as :: [Hephaestus.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.protect.md) 
+
+### #is_/same_as :: [Hephaestus.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.private.md) 
+
+### #is_/same_as :: [Hephaestus.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.personal.md) 
+
+### #is_/same_as :: [Hephaestus.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.secret.md)
+

@@ -100,17 +100,17 @@ U_S_National_Archives_Identifier: 10580795
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Capone](/_Standards/Society/Criminology/Crime/Organized_Crime/Al_Capone.md) 
+### #is_/same_as :: [Al_Capone](/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Al_Capone.md) 
 
-### #is_/same_as :: [Al_Capone.public](/_public/Society/Criminology/Crime/Organized_Crime/Al_Capone.public.md) 
+### #is_/same_as :: [Al_Capone.public](/_public/Society/Law/Criminal_Law/Crime/Organized_Crime/Al_Capone.public.md) 
 
-### #is_/same_as :: [Al_Capone.internal](/_internal/Society/Criminology/Crime/Organized_Crime/Al_Capone.internal.md) 
+### #is_/same_as :: [Al_Capone.internal](/_internal/Society/Law/Criminal_Law/Crime/Organized_Crime/Al_Capone.internal.md) 
 
-### #is_/same_as :: [Al_Capone.protect](/_protect/Society/Criminology/Crime/Organized_Crime/Al_Capone.protect.md) 
+### #is_/same_as :: [Al_Capone.protect](/_protect/Society/Law/Criminal_Law/Crime/Organized_Crime/Al_Capone.protect.md) 
 
-### #is_/same_as :: [Al_Capone.private](/_private/Society/Criminology/Crime/Organized_Crime/Al_Capone.private.md) 
+### #is_/same_as :: [Al_Capone.private](/_private/Society/Law/Criminal_Law/Crime/Organized_Crime/Al_Capone.private.md) 
 
-### #is_/same_as :: [Al_Capone.personal](/_personal/Society/Criminology/Crime/Organized_Crime/Al_Capone.personal.md) 
+### #is_/same_as :: [Al_Capone.personal](/_personal/Society/Law/Criminal_Law/Crime/Organized_Crime/Al_Capone.personal.md) 
 
-### #is_/same_as :: [Al_Capone.secret](/_secret/Society/Criminology/Crime/Organized_Crime/Al_Capone.secret.md)
+### #is_/same_as :: [Al_Capone.secret](/_secret/Society/Law/Criminal_Law/Crime/Organized_Crime/Al_Capone.secret.md)
 

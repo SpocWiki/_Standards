@@ -172,3 +172,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/BETE_HANS_ALBREHT.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hans%20Bethe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bethe,Hans](/_Standards/Science/Physics/Physicist/Bethe,Hans.md) 
+
+### #is_/same_as :: [Bethe,Hans.public](/_public/Science/Physics/Physicist/Bethe,Hans.public.md) 
+
+### #is_/same_as :: [Bethe,Hans.internal](/_internal/Science/Physics/Physicist/Bethe,Hans.internal.md) 
+
+### #is_/same_as :: [Bethe,Hans.protect](/_protect/Science/Physics/Physicist/Bethe,Hans.protect.md) 
+
+### #is_/same_as :: [Bethe,Hans.private](/_private/Science/Physics/Physicist/Bethe,Hans.private.md) 
+
+### #is_/same_as :: [Bethe,Hans.personal](/_personal/Science/Physics/Physicist/Bethe,Hans.personal.md) 
+
+### #is_/same_as :: [Bethe,Hans.secret](/_secret/Science/Physics/Physicist/Bethe,Hans.secret.md)
+

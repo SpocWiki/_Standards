@@ -137,3 +137,22 @@ Commons_category: Neutron stars
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neutron%20star) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Neutron_Star](/_Standards/Astronomy/Star/Star~Class/Neutron_Star.md) 
+
+### #is_/same_as :: [Neutron_Star.public](/_public/Astronomy/Star/Star~Class/Neutron_Star.public.md) 
+
+### #is_/same_as :: [Neutron_Star.internal](/_internal/Astronomy/Star/Star~Class/Neutron_Star.internal.md) 
+
+### #is_/same_as :: [Neutron_Star.protect](/_protect/Astronomy/Star/Star~Class/Neutron_Star.protect.md) 
+
+### #is_/same_as :: [Neutron_Star.private](/_private/Astronomy/Star/Star~Class/Neutron_Star.private.md) 
+
+### #is_/same_as :: [Neutron_Star.personal](/_personal/Astronomy/Star/Star~Class/Neutron_Star.personal.md) 
+
+### #is_/same_as :: [Neutron_Star.secret](/_secret/Astronomy/Star/Star~Class/Neutron_Star.secret.md)
+

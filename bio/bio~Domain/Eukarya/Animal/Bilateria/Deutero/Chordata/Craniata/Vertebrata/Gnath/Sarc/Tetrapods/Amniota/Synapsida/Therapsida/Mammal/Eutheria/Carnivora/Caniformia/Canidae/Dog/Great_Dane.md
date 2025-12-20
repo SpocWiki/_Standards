@@ -40,3 +40,22 @@ subreddit: greatdanes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Dane) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Great_Dane](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Great_Dane.md) 
+
+### #is_/same_as :: [Great_Dane.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Great_Dane.public.md) 
+
+### #is_/same_as :: [Great_Dane.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Great_Dane.internal.md) 
+
+### #is_/same_as :: [Great_Dane.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Great_Dane.protect.md) 
+
+### #is_/same_as :: [Great_Dane.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Great_Dane.private.md) 
+
+### #is_/same_as :: [Great_Dane.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Great_Dane.personal.md) 
+
+### #is_/same_as :: [Great_Dane.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Great_Dane.secret.md)
+

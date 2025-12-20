@@ -30,3 +30,22 @@ taxon_common_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nepetoideae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nepetoideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae.md) 
+
+### #is_/same_as :: [Nepetoideae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae.public.md) 
+
+### #is_/same_as :: [Nepetoideae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae.internal.md) 
+
+### #is_/same_as :: [Nepetoideae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae.protect.md) 
+
+### #is_/same_as :: [Nepetoideae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae.private.md) 
+
+### #is_/same_as :: [Nepetoideae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae.personal.md) 
+
+### #is_/same_as :: [Nepetoideae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae.secret.md)
+

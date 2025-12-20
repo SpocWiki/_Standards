@@ -31,3 +31,22 @@ Dewey_Decimal_Classification: "361.37"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Volunteering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Volunteering](/_Standards/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.md) 
+
+### #is_/same_as :: [Volunteering.public](/_public/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.public.md) 
+
+### #is_/same_as :: [Volunteering.internal](/_internal/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.internal.md) 
+
+### #is_/same_as :: [Volunteering.protect](/_protect/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.protect.md) 
+
+### #is_/same_as :: [Volunteering.private](/_private/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.private.md) 
+
+### #is_/same_as :: [Volunteering.personal](/_personal/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.personal.md) 
+
+### #is_/same_as :: [Volunteering.secret](/_secret/Society/Economics/Economic_Activity/Work/Unpaid_Work/Volunteering.secret.md)
+

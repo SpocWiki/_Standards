@@ -64,3 +64,22 @@ OpenStreetMap_tag: sport=karate
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Karate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Karate](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.md) 
+
+### #is_/same_as :: [Karate.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.public.md) 
+
+### #is_/same_as :: [Karate.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.internal.md) 
+
+### #is_/same_as :: [Karate.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.protect.md) 
+
+### #is_/same_as :: [Karate.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.private.md) 
+
+### #is_/same_as :: [Karate.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.personal.md) 
+
+### #is_/same_as :: [Karate.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Karate.secret.md)
+

@@ -47,3 +47,22 @@ Commons_category: Galleys (ship)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Galley) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Galley](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.md) 
+
+### #is_/same_as :: [Galley.public](/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.public.md) 
+
+### #is_/same_as :: [Galley.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.internal.md) 
+
+### #is_/same_as :: [Galley.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.protect.md) 
+
+### #is_/same_as :: [Galley.private](/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.private.md) 
+
+### #is_/same_as :: [Galley.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.personal.md) 
+
+### #is_/same_as :: [Galley.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.secret.md)
+

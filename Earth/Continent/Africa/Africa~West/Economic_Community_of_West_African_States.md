@@ -118,3 +118,22 @@ native_label: Westafrikanische Wirtschaftsgemeinschaft
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/ECOWAS) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Economic_Community_of_West_African_States](/_Standards/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.md) 
+
+### #is_/same_as :: [Economic_Community_of_West_African_States.public](/_public/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.public.md) 
+
+### #is_/same_as :: [Economic_Community_of_West_African_States.internal](/_internal/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.internal.md) 
+
+### #is_/same_as :: [Economic_Community_of_West_African_States.protect](/_protect/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.protect.md) 
+
+### #is_/same_as :: [Economic_Community_of_West_African_States.private](/_private/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.private.md) 
+
+### #is_/same_as :: [Economic_Community_of_West_African_States.personal](/_personal/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.personal.md) 
+
+### #is_/same_as :: [Economic_Community_of_West_African_States.secret](/_secret/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.secret.md)
+

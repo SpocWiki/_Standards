@@ -25,3 +25,22 @@ Commons_gallery: Agricultural equipment
 #is_/same_as :: [[_Standards/WikiData/WD~agricultural_tool,3629395]] 
 
 tool used for farming
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Agricultural_Tool](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool.md) 
+
+### #is_/same_as :: [Agricultural_Tool.public](/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool.public.md) 
+
+### #is_/same_as :: [Agricultural_Tool.internal](/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool.internal.md) 
+
+### #is_/same_as :: [Agricultural_Tool.protect](/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool.protect.md) 
+
+### #is_/same_as :: [Agricultural_Tool.private](/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool.private.md) 
+
+### #is_/same_as :: [Agricultural_Tool.personal](/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool.personal.md) 
+
+### #is_/same_as :: [Agricultural_Tool.secret](/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool.secret.md)
+

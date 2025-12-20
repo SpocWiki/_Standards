@@ -30,3 +30,22 @@ Commons_category: Petroleum engineering
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Petroleum%20engineering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Petroleum_Engineering](/_Standards/Society/Economics/Industry/Oil_Industry/Petroleum_Engineering.md) 
+
+### #is_/same_as :: [Petroleum_Engineering.public](/_public/Society/Economics/Industry/Oil_Industry/Petroleum_Engineering.public.md) 
+
+### #is_/same_as :: [Petroleum_Engineering.internal](/_internal/Society/Economics/Industry/Oil_Industry/Petroleum_Engineering.internal.md) 
+
+### #is_/same_as :: [Petroleum_Engineering.protect](/_protect/Society/Economics/Industry/Oil_Industry/Petroleum_Engineering.protect.md) 
+
+### #is_/same_as :: [Petroleum_Engineering.private](/_private/Society/Economics/Industry/Oil_Industry/Petroleum_Engineering.private.md) 
+
+### #is_/same_as :: [Petroleum_Engineering.personal](/_personal/Society/Economics/Industry/Oil_Industry/Petroleum_Engineering.personal.md) 
+
+### #is_/same_as :: [Petroleum_Engineering.secret](/_secret/Society/Economics/Industry/Oil_Industry/Petroleum_Engineering.secret.md)
+

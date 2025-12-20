@@ -23,3 +23,22 @@ ML can be referred to as an _impure_ functional language, because although it 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/ML%20(programming%20language))
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~ML](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~ML.md) 
+
+### #is_/same_as :: [Prog~ML.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~ML.public.md) 
+
+### #is_/same_as :: [Prog~ML.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~ML.internal.md) 
+
+### #is_/same_as :: [Prog~ML.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~ML.protect.md) 
+
+### #is_/same_as :: [Prog~ML.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~ML.private.md) 
+
+### #is_/same_as :: [Prog~ML.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~ML.personal.md) 
+
+### #is_/same_as :: [Prog~ML.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~ML.secret.md)
+

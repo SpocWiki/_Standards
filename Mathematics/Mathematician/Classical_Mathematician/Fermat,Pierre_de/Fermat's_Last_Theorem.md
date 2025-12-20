@@ -56,3 +56,22 @@ inception: 1637-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fermat's%20Last%20Theorem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fermat's_Last_Theorem](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.md) 
+
+### #is_/same_as :: [Fermat's_Last_Theorem.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.public.md) 
+
+### #is_/same_as :: [Fermat's_Last_Theorem.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.internal.md) 
+
+### #is_/same_as :: [Fermat's_Last_Theorem.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.protect.md) 
+
+### #is_/same_as :: [Fermat's_Last_Theorem.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.private.md) 
+
+### #is_/same_as :: [Fermat's_Last_Theorem.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.personal.md) 
+
+### #is_/same_as :: [Fermat's_Last_Theorem.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.secret.md)
+

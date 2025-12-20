@@ -39,3 +39,22 @@ publication_date: 1935-01-01T00:00:00Z
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cheek_to_Cheek](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Cheek_to_Cheek.md) 
+
+### #is_/same_as :: [Cheek_to_Cheek.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Cheek_to_Cheek.public.md) 
+
+### #is_/same_as :: [Cheek_to_Cheek.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Cheek_to_Cheek.internal.md) 
+
+### #is_/same_as :: [Cheek_to_Cheek.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Cheek_to_Cheek.protect.md) 
+
+### #is_/same_as :: [Cheek_to_Cheek.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Cheek_to_Cheek.private.md) 
+
+### #is_/same_as :: [Cheek_to_Cheek.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Cheek_to_Cheek.personal.md) 
+
+### #is_/same_as :: [Cheek_to_Cheek.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Cheek_to_Cheek.secret.md)
+

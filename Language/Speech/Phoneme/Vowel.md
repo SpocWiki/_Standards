@@ -44,17 +44,17 @@ subclass_of: "[[_Standards/WikiData/WD~phone,202064]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vowel](Vowel.md) 
+### #is_/same_as :: [Vowel](/_Standards/Language/Speech/Phoneme/Vowel.md) 
 
-### #is_/same_as :: [Vowel.public](/_public/Language/Word/Phoneme/Vowel.public.md) 
+### #is_/same_as :: [Vowel.public](/_public/Language/Speech/Phoneme/Vowel.public.md) 
 
-### #is_/same_as :: [Vowel.internal](/_internal/Language/Word/Phoneme/Vowel.internal.md) 
+### #is_/same_as :: [Vowel.internal](/_internal/Language/Speech/Phoneme/Vowel.internal.md) 
 
-### #is_/same_as :: [Vowel.protect](/_protect/Language/Word/Phoneme/Vowel.protect.md) 
+### #is_/same_as :: [Vowel.protect](/_protect/Language/Speech/Phoneme/Vowel.protect.md) 
 
-### #is_/same_as :: [Vowel.private](/_private/Language/Word/Phoneme/Vowel.private.md) 
+### #is_/same_as :: [Vowel.private](/_private/Language/Speech/Phoneme/Vowel.private.md) 
 
-### #is_/same_as :: [Vowel.personal](/_personal/Language/Word/Phoneme/Vowel.personal.md) 
+### #is_/same_as :: [Vowel.personal](/_personal/Language/Speech/Phoneme/Vowel.personal.md) 
 
-### #is_/same_as :: [Vowel.secret](/_secret/Language/Word/Phoneme/Vowel.secret.md)
+### #is_/same_as :: [Vowel.secret](/_secret/Language/Speech/Phoneme/Vowel.secret.md)
 

@@ -62,3 +62,22 @@ OpenStreetMap_tag: genus=Platanus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Platanus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Platanus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Platanaceae/Platanus.md) 
+
+### #is_/same_as :: [Platanus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Platanaceae/Platanus.public.md) 
+
+### #is_/same_as :: [Platanus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Platanaceae/Platanus.internal.md) 
+
+### #is_/same_as :: [Platanus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Platanaceae/Platanus.protect.md) 
+
+### #is_/same_as :: [Platanus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Platanaceae/Platanus.private.md) 
+
+### #is_/same_as :: [Platanus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Platanaceae/Platanus.personal.md) 
+
+### #is_/same_as :: [Platanus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Platanaceae/Platanus.secret.md)
+

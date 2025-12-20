@@ -32,3 +32,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Backronym) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Backronym](/_Standards/Language/Backronym.md) 
+
+### #is_/same_as :: [Backronym.public](/_public/Language/Backronym.public.md) 
+
+### #is_/same_as :: [Backronym.internal](/_internal/Language/Backronym.internal.md) 
+
+### #is_/same_as :: [Backronym.protect](/_protect/Language/Backronym.protect.md) 
+
+### #is_/same_as :: [Backronym.private](/_private/Language/Backronym.private.md) 
+
+### #is_/same_as :: [Backronym.personal](/_personal/Language/Backronym.personal.md) 
+
+### #is_/same_as :: [Backronym.secret](/_secret/Language/Backronym.secret.md)
+

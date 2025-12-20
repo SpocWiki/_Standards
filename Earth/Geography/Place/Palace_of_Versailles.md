@@ -159,3 +159,22 @@ By <a href="https://fr.wikipedia.org/wiki/Utilisateur:G_CHP" class="extiw" title
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Palace%20of%20Versailles) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Palace_of_Versailles](/_Standards/Earth/Geography/Place/Palace_of_Versailles.md) 
+
+### #is_/same_as :: [Palace_of_Versailles.public](/_public/Earth/Geography/Place/Palace_of_Versailles.public.md) 
+
+### #is_/same_as :: [Palace_of_Versailles.internal](/_internal/Earth/Geography/Place/Palace_of_Versailles.internal.md) 
+
+### #is_/same_as :: [Palace_of_Versailles.protect](/_protect/Earth/Geography/Place/Palace_of_Versailles.protect.md) 
+
+### #is_/same_as :: [Palace_of_Versailles.private](/_private/Earth/Geography/Place/Palace_of_Versailles.private.md) 
+
+### #is_/same_as :: [Palace_of_Versailles.personal](/_personal/Earth/Geography/Place/Palace_of_Versailles.personal.md) 
+
+### #is_/same_as :: [Palace_of_Versailles.secret](/_secret/Earth/Geography/Place/Palace_of_Versailles.secret.md)
+

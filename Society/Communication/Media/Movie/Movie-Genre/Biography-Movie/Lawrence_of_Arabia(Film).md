@@ -213,3 +213,22 @@ EcuRed_article: Lawrence_de_Arabia_(película)
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lawrence_of_Arabia(Film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).md) 
+
+### #is_/same_as :: [Lawrence_of_Arabia(Film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).public.md) 
+
+### #is_/same_as :: [Lawrence_of_Arabia(Film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).internal.md) 
+
+### #is_/same_as :: [Lawrence_of_Arabia(Film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).protect.md) 
+
+### #is_/same_as :: [Lawrence_of_Arabia(Film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).private.md) 
+
+### #is_/same_as :: [Lawrence_of_Arabia(Film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).personal.md) 
+
+### #is_/same_as :: [Lawrence_of_Arabia(Film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).secret.md)
+

@@ -86,3 +86,22 @@ name_in_kana: ビジュアルアート
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Visual%20arts) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Visual_Arts](/_Standards/Society/Communication/Art/Visual_Arts.md) 
+
+### #is_/same_as :: [Visual_Arts.public](/_public/Society/Communication/Art/Visual_Arts.public.md) 
+
+### #is_/same_as :: [Visual_Arts.internal](/_internal/Society/Communication/Art/Visual_Arts.internal.md) 
+
+### #is_/same_as :: [Visual_Arts.protect](/_protect/Society/Communication/Art/Visual_Arts.protect.md) 
+
+### #is_/same_as :: [Visual_Arts.private](/_private/Society/Communication/Art/Visual_Arts.private.md) 
+
+### #is_/same_as :: [Visual_Arts.personal](/_personal/Society/Communication/Art/Visual_Arts.personal.md) 
+
+### #is_/same_as :: [Visual_Arts.secret](/_secret/Society/Communication/Art/Visual_Arts.secret.md)
+

@@ -55,3 +55,22 @@ has_id_wikidata: Q39246
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Feynman)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Feynman,Richard](/_Standards/Science/Physics/Physicist/Feynman,Richard.md) 
+
+### #is_/same_as :: [Feynman,Richard.public](/_public/Science/Physics/Physicist/Feynman,Richard.public.md) 
+
+### #is_/same_as :: [Feynman,Richard.internal](/_internal/Science/Physics/Physicist/Feynman,Richard.internal.md) 
+
+### #is_/same_as :: [Feynman,Richard.protect](/_protect/Science/Physics/Physicist/Feynman,Richard.protect.md) 
+
+### #is_/same_as :: [Feynman,Richard.private](/_private/Science/Physics/Physicist/Feynman,Richard.private.md) 
+
+### #is_/same_as :: [Feynman,Richard.personal](/_personal/Science/Physics/Physicist/Feynman,Richard.personal.md) 
+
+### #is_/same_as :: [Feynman,Richard.secret](/_secret/Science/Physics/Physicist/Feynman,Richard.secret.md)
+

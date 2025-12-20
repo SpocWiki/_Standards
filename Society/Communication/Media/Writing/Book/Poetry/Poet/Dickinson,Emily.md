@@ -125,3 +125,22 @@ Libris_URI: 86lnnlzs1010f80
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Emily%20Dickinson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dickinson,Emily](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.md) 
+
+### #is_/same_as :: [Dickinson,Emily.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.public.md) 
+
+### #is_/same_as :: [Dickinson,Emily.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.internal.md) 
+
+### #is_/same_as :: [Dickinson,Emily.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.protect.md) 
+
+### #is_/same_as :: [Dickinson,Emily.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.private.md) 
+
+### #is_/same_as :: [Dickinson,Emily.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.personal.md) 
+
+### #is_/same_as :: [Dickinson,Emily.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.secret.md)
+

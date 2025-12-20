@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [STMicroelectronics](STMicroelectronics.md) 
+### #is_/same_as :: [STMicroelectronics](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.md) 
 
-### #is_/same_as :: [STMicroelectronics.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/STMicroelectronics.public.md) 
+### #is_/same_as :: [STMicroelectronics.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.public.md) 
 
-### #is_/same_as :: [STMicroelectronics.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/STMicroelectronics.internal.md) 
+### #is_/same_as :: [STMicroelectronics.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.internal.md) 
 
-### #is_/same_as :: [STMicroelectronics.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/STMicroelectronics.protect.md) 
+### #is_/same_as :: [STMicroelectronics.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.protect.md) 
 
-### #is_/same_as :: [STMicroelectronics.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/STMicroelectronics.private.md) 
+### #is_/same_as :: [STMicroelectronics.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.private.md) 
 
-### #is_/same_as :: [STMicroelectronics.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/STMicroelectronics.personal.md) 
+### #is_/same_as :: [STMicroelectronics.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.personal.md) 
 
-### #is_/same_as :: [STMicroelectronics.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/STMicroelectronics.secret.md)
+### #is_/same_as :: [STMicroelectronics.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.secret.md)
 

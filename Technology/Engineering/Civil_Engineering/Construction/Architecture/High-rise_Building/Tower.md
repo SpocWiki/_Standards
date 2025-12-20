@@ -63,17 +63,17 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Q22845830,22845830]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tower](Tower.md) 
+### #is_/same_as :: [Tower](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.md) 
 
-### #is_/same_as :: [Tower.public](/_public/Technology/Construction/Building/Tower.public.md) 
+### #is_/same_as :: [Tower.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.public.md) 
 
-### #is_/same_as :: [Tower.internal](/_internal/Technology/Construction/Building/Tower.internal.md) 
+### #is_/same_as :: [Tower.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.internal.md) 
 
-### #is_/same_as :: [Tower.protect](/_protect/Technology/Construction/Building/Tower.protect.md) 
+### #is_/same_as :: [Tower.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.protect.md) 
 
-### #is_/same_as :: [Tower.private](/_private/Technology/Construction/Building/Tower.private.md) 
+### #is_/same_as :: [Tower.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.private.md) 
 
-### #is_/same_as :: [Tower.personal](/_personal/Technology/Construction/Building/Tower.personal.md) 
+### #is_/same_as :: [Tower.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.personal.md) 
 
-### #is_/same_as :: [Tower.secret](/_secret/Technology/Construction/Building/Tower.secret.md)
+### #is_/same_as :: [Tower.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Tower.secret.md)
 

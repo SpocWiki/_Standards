@@ -75,3 +75,22 @@ Library_of_Congress_Classification: JC355
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Federalism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Federalism](/_Standards/Society/Politics/Political_Power/Separation_of_Powers/Federalism.md) 
+
+### #is_/same_as :: [Federalism.public](/_public/Society/Politics/Political_Power/Separation_of_Powers/Federalism.public.md) 
+
+### #is_/same_as :: [Federalism.internal](/_internal/Society/Politics/Political_Power/Separation_of_Powers/Federalism.internal.md) 
+
+### #is_/same_as :: [Federalism.protect](/_protect/Society/Politics/Political_Power/Separation_of_Powers/Federalism.protect.md) 
+
+### #is_/same_as :: [Federalism.private](/_private/Society/Politics/Political_Power/Separation_of_Powers/Federalism.private.md) 
+
+### #is_/same_as :: [Federalism.personal](/_personal/Society/Politics/Political_Power/Separation_of_Powers/Federalism.personal.md) 
+
+### #is_/same_as :: [Federalism.secret](/_secret/Society/Politics/Political_Power/Separation_of_Powers/Federalism.secret.md)
+

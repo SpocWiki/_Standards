@@ -18,3 +18,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eiffel%20(programming%20language))
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Eiffel](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.md) 
+
+### #is_/same_as :: [Prog~Eiffel.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.public.md) 
+
+### #is_/same_as :: [Prog~Eiffel.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.internal.md) 
+
+### #is_/same_as :: [Prog~Eiffel.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.protect.md) 
+
+### #is_/same_as :: [Prog~Eiffel.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.private.md) 
+
+### #is_/same_as :: [Prog~Eiffel.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.personal.md) 
+
+### #is_/same_as :: [Prog~Eiffel.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Prog~Eiffel.secret.md)
+

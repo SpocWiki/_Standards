@@ -62,3 +62,22 @@ Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/EMPATIYA.html
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Empathy](/_Standards/bio/Psychology/Affect/Emotion/Empathy.md) 
+
+### #is_/same_as :: [Empathy.public](/_public/bio/Psychology/Affect/Emotion/Empathy.public.md) 
+
+### #is_/same_as :: [Empathy.internal](/_internal/bio/Psychology/Affect/Emotion/Empathy.internal.md) 
+
+### #is_/same_as :: [Empathy.protect](/_protect/bio/Psychology/Affect/Emotion/Empathy.protect.md) 
+
+### #is_/same_as :: [Empathy.private](/_private/bio/Psychology/Affect/Emotion/Empathy.private.md) 
+
+### #is_/same_as :: [Empathy.personal](/_personal/bio/Psychology/Affect/Emotion/Empathy.personal.md) 
+
+### #is_/same_as :: [Empathy.secret](/_secret/bio/Psychology/Affect/Emotion/Empathy.secret.md)
+

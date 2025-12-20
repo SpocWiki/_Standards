@@ -27,3 +27,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sidereal%20time) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sidereal_Time](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.md) 
+
+### #is_/same_as :: [Sidereal_Time.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.public.md) 
+
+### #is_/same_as :: [Sidereal_Time.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.internal.md) 
+
+### #is_/same_as :: [Sidereal_Time.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.protect.md) 
+
+### #is_/same_as :: [Sidereal_Time.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.private.md) 
+
+### #is_/same_as :: [Sidereal_Time.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.personal.md) 
+
+### #is_/same_as :: [Sidereal_Time.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.secret.md)
+

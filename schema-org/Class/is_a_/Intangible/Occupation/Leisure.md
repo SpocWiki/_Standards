@@ -58,3 +58,22 @@ IPTC_NewsCode: mediatopic/20000538
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leisure) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leisure](/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure.md) 
+
+### #is_/same_as :: [Leisure.public](/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure.public.md) 
+
+### #is_/same_as :: [Leisure.internal](/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure.internal.md) 
+
+### #is_/same_as :: [Leisure.protect](/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure.protect.md) 
+
+### #is_/same_as :: [Leisure.private](/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure.private.md) 
+
+### #is_/same_as :: [Leisure.personal](/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure.personal.md) 
+
+### #is_/same_as :: [Leisure.secret](/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure.secret.md)
+

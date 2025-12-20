@@ -92,3 +92,22 @@ Debian_Wiki_article: VideoGameConsole
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Video%20game%20console) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Video_Game_Console](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.md) 
+
+### #is_/same_as :: [Video_Game_Console.public](/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.public.md) 
+
+### #is_/same_as :: [Video_Game_Console.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.internal.md) 
+
+### #is_/same_as :: [Video_Game_Console.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.protect.md) 
+
+### #is_/same_as :: [Video_Game_Console.private](/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.private.md) 
+
+### #is_/same_as :: [Video_Game_Console.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.personal.md) 
+
+### #is_/same_as :: [Video_Game_Console.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.secret.md)
+

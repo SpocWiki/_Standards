@@ -46,3 +46,22 @@ P8189: "987007544605305171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Christian%20philosophy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Christian_philosophy](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.md) 
+
+### #is_/same_as :: [Christian_philosophy.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.public.md) 
+
+### #is_/same_as :: [Christian_philosophy.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.internal.md) 
+
+### #is_/same_as :: [Christian_philosophy.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.protect.md) 
+
+### #is_/same_as :: [Christian_philosophy.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.private.md) 
+
+### #is_/same_as :: [Christian_philosophy.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.personal.md) 
+
+### #is_/same_as :: [Christian_philosophy.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.secret.md)
+

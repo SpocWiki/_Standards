@@ -39,17 +39,17 @@ Enumeration of considerations that make a product relevant or potentially restri
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adult_Oriented_Enumeration](Adult_Oriented_Enumeration.md) 
+### #is_/same_as :: [Adult_Oriented_Enumeration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration.md) 
 
-### #is_/same_as :: [adult_oriented_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration.public.md) 
+### #is_/same_as :: [Adult_Oriented_Enumeration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration.public.md) 
 
-### #is_/same_as :: [adult_oriented_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration.internal.md) 
+### #is_/same_as :: [Adult_Oriented_Enumeration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration.internal.md) 
 
-### #is_/same_as :: [adult_oriented_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration.protect.md) 
+### #is_/same_as :: [Adult_Oriented_Enumeration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration.protect.md) 
 
-### #is_/same_as :: [adult_oriented_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration.private.md) 
+### #is_/same_as :: [Adult_Oriented_Enumeration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration.private.md) 
 
-### #is_/same_as :: [adult_oriented_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration.personal.md) 
+### #is_/same_as :: [Adult_Oriented_Enumeration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration.personal.md) 
 
-### #is_/same_as :: [adult_oriented_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration.secret.md)
+### #is_/same_as :: [Adult_Oriented_Enumeration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration.secret.md)
 

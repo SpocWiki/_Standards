@@ -64,3 +64,22 @@ official_website: https://leninism.su
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leninism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leninism](/_Standards/Society/Ideology/Political_Ideology/Communism/Leninism.md) 
+
+### #is_/same_as :: [Leninism.public](/_public/Society/Ideology/Political_Ideology/Communism/Leninism.public.md) 
+
+### #is_/same_as :: [Leninism.internal](/_internal/Society/Ideology/Political_Ideology/Communism/Leninism.internal.md) 
+
+### #is_/same_as :: [Leninism.protect](/_protect/Society/Ideology/Political_Ideology/Communism/Leninism.protect.md) 
+
+### #is_/same_as :: [Leninism.private](/_private/Society/Ideology/Political_Ideology/Communism/Leninism.private.md) 
+
+### #is_/same_as :: [Leninism.personal](/_personal/Society/Ideology/Political_Ideology/Communism/Leninism.personal.md) 
+
+### #is_/same_as :: [Leninism.secret](/_secret/Society/Ideology/Political_Ideology/Communism/Leninism.secret.md)
+

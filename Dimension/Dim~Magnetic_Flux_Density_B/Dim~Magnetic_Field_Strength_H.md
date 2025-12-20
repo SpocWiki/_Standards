@@ -72,3 +72,22 @@ IEV_number: 121-11-56
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetic%20field) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dim~Magnetic_Field_Strength_H](/_Standards/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.md) 
+
+### #is_/same_as :: [Dim~Magnetic_Field_Strength_H.public](/_public/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.public.md) 
+
+### #is_/same_as :: [Dim~Magnetic_Field_Strength_H.internal](/_internal/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.internal.md) 
+
+### #is_/same_as :: [Dim~Magnetic_Field_Strength_H.protect](/_protect/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.protect.md) 
+
+### #is_/same_as :: [Dim~Magnetic_Field_Strength_H.private](/_private/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.private.md) 
+
+### #is_/same_as :: [Dim~Magnetic_Field_Strength_H.personal](/_personal/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.personal.md) 
+
+### #is_/same_as :: [Dim~Magnetic_Field_Strength_H.secret](/_secret/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.secret.md)
+

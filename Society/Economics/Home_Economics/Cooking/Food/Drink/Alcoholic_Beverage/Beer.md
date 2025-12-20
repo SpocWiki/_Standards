@@ -115,17 +115,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Beer"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beer](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Beer.md) 
+### #is_/same_as :: [Beer](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Beer.md) 
 
-### #is_/same_as :: [Beer.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Beer.public.md) 
+### #is_/same_as :: [Beer.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Beer.public.md) 
 
-### #is_/same_as :: [Beer.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Beer.internal.md) 
+### #is_/same_as :: [Beer.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Beer.internal.md) 
 
-### #is_/same_as :: [Beer.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Beer.protect.md) 
+### #is_/same_as :: [Beer.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Beer.protect.md) 
 
-### #is_/same_as :: [Beer.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Beer.private.md) 
+### #is_/same_as :: [Beer.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Beer.private.md) 
 
-### #is_/same_as :: [Beer.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Beer.personal.md) 
+### #is_/same_as :: [Beer.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Beer.personal.md) 
 
-### #is_/same_as :: [Beer.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Beer.secret.md)
+### #is_/same_as :: [Beer.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Beer.secret.md)
 

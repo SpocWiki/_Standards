@@ -141,3 +141,22 @@ date_of_death: -0930-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solomon)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Solomon](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.md) 
+
+### #is_/same_as :: [Solomon.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.public.md) 
+
+### #is_/same_as :: [Solomon.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.internal.md) 
+
+### #is_/same_as :: [Solomon.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.protect.md) 
+
+### #is_/same_as :: [Solomon.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.private.md) 
+
+### #is_/same_as :: [Solomon.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.personal.md) 
+
+### #is_/same_as :: [Solomon.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Solomon.secret.md)
+

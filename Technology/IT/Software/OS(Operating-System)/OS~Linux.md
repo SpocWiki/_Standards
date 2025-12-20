@@ -149,3 +149,22 @@ Jeder Euro der in dieses Projekt gesteckt wird, kommt 4-fach zurück.
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OS~Linux](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux.md) 
+
+### #is_/same_as :: [OS~Linux.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux.public.md) 
+
+### #is_/same_as :: [OS~Linux.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux.internal.md) 
+
+### #is_/same_as :: [OS~Linux.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux.protect.md) 
+
+### #is_/same_as :: [OS~Linux.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux.private.md) 
+
+### #is_/same_as :: [OS~Linux.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux.personal.md) 
+
+### #is_/same_as :: [OS~Linux.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux.secret.md)
+

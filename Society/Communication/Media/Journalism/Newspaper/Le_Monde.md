@@ -98,3 +98,22 @@ inception: 1944-12-18T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Le%20Monde) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Le_Monde](/_Standards/Society/Communication/Media/Journalism/Newspaper/Le_Monde.md) 
+
+### #is_/same_as :: [Le_Monde.public](/_public/Society/Communication/Media/Journalism/Newspaper/Le_Monde.public.md) 
+
+### #is_/same_as :: [Le_Monde.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Le_Monde.internal.md) 
+
+### #is_/same_as :: [Le_Monde.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Le_Monde.protect.md) 
+
+### #is_/same_as :: [Le_Monde.private](/_private/Society/Communication/Media/Journalism/Newspaper/Le_Monde.private.md) 
+
+### #is_/same_as :: [Le_Monde.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Le_Monde.personal.md) 
+
+### #is_/same_as :: [Le_Monde.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Le_Monde.secret.md)
+

@@ -28,3 +28,22 @@ coordinate_location: Point(-94.0 -43.0)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chile%20Ridge) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chile_Rise](/_Standards/Earth/Ocean/Ocean~Pacific/Chile_Rise.md) 
+
+### #is_/same_as :: [Chile_Rise.public](/_public/Earth/Ocean/Ocean~Pacific/Chile_Rise.public.md) 
+
+### #is_/same_as :: [Chile_Rise.internal](/_internal/Earth/Ocean/Ocean~Pacific/Chile_Rise.internal.md) 
+
+### #is_/same_as :: [Chile_Rise.protect](/_protect/Earth/Ocean/Ocean~Pacific/Chile_Rise.protect.md) 
+
+### #is_/same_as :: [Chile_Rise.private](/_private/Earth/Ocean/Ocean~Pacific/Chile_Rise.private.md) 
+
+### #is_/same_as :: [Chile_Rise.personal](/_personal/Earth/Ocean/Ocean~Pacific/Chile_Rise.personal.md) 
+
+### #is_/same_as :: [Chile_Rise.secret](/_secret/Earth/Ocean/Ocean~Pacific/Chile_Rise.secret.md)
+

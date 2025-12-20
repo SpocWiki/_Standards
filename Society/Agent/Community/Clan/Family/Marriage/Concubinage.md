@@ -44,3 +44,22 @@ Krugosvet_article: ekonomika-i-pravo/konkubinat
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Concubinage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Concubinage](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Concubinage.md) 
+
+### #is_/same_as :: [Concubinage.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Concubinage.public.md) 
+
+### #is_/same_as :: [Concubinage.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Concubinage.internal.md) 
+
+### #is_/same_as :: [Concubinage.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Concubinage.protect.md) 
+
+### #is_/same_as :: [Concubinage.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Concubinage.private.md) 
+
+### #is_/same_as :: [Concubinage.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Concubinage.personal.md) 
+
+### #is_/same_as :: [Concubinage.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Concubinage.secret.md)
+

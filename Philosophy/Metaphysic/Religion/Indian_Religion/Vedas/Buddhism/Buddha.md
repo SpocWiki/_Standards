@@ -152,3 +152,22 @@ Iconclass_notation: 12H13(BUDDHA)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Buddha) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Buddha](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.md) 
+
+### #is_/same_as :: [Buddha.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.public.md) 
+
+### #is_/same_as :: [Buddha.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.internal.md) 
+
+### #is_/same_as :: [Buddha.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.protect.md) 
+
+### #is_/same_as :: [Buddha.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.private.md) 
+
+### #is_/same_as :: [Buddha.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.personal.md) 
+
+### #is_/same_as :: [Buddha.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.secret.md)
+

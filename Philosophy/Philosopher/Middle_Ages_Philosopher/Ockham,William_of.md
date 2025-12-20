@@ -110,3 +110,22 @@ Libris_URI: ljx01d641fffcg4
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20of%20Ockham) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ockham,William_of](/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.md) 
+
+### #is_/same_as :: [Ockham,William_of.public](/_public/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.public.md) 
+
+### #is_/same_as :: [Ockham,William_of.internal](/_internal/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.internal.md) 
+
+### #is_/same_as :: [Ockham,William_of.protect](/_protect/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.protect.md) 
+
+### #is_/same_as :: [Ockham,William_of.private](/_private/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.private.md) 
+
+### #is_/same_as :: [Ockham,William_of.personal](/_personal/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.personal.md) 
+
+### #is_/same_as :: [Ockham,William_of.secret](/_secret/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.secret.md)
+

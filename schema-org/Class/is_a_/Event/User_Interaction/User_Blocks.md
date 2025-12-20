@@ -41,17 +41,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [user_blocks](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_blocks.md) 
+### #is_/same_as :: [User_Blocks](/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Blocks.md) 
 
-### #is_/same_as :: [user_blocks.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_blocks.public.md) 
+### #is_/same_as :: [User_Blocks.public](/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Blocks.public.md) 
 
-### #is_/same_as :: [user_blocks.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_blocks.internal.md) 
+### #is_/same_as :: [User_Blocks.internal](/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Blocks.internal.md) 
 
-### #is_/same_as :: [user_blocks.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_blocks.protect.md) 
+### #is_/same_as :: [User_Blocks.protect](/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Blocks.protect.md) 
 
-### #is_/same_as :: [user_blocks.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_blocks.private.md) 
+### #is_/same_as :: [User_Blocks.private](/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Blocks.private.md) 
 
-### #is_/same_as :: [user_blocks.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_blocks.personal.md) 
+### #is_/same_as :: [User_Blocks.personal](/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Blocks.personal.md) 
 
-### #is_/same_as :: [user_blocks.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_blocks.secret.md)
+### #is_/same_as :: [User_Blocks.secret](/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Blocks.secret.md)
 

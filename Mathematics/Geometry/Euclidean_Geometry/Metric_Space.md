@@ -55,3 +55,22 @@ Commons_category: Metric geometry
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metric%20space) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metric_Space](/_Standards/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.md) 
+
+### #is_/same_as :: [Metric_Space.public](/_public/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.public.md) 
+
+### #is_/same_as :: [Metric_Space.internal](/_internal/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.internal.md) 
+
+### #is_/same_as :: [Metric_Space.protect](/_protect/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.protect.md) 
+
+### #is_/same_as :: [Metric_Space.private](/_private/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.private.md) 
+
+### #is_/same_as :: [Metric_Space.personal](/_personal/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.personal.md) 
+
+### #is_/same_as :: [Metric_Space.secret](/_secret/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.secret.md)
+

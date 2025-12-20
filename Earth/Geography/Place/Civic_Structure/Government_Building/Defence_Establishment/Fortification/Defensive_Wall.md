@@ -42,3 +42,21 @@ Commons_category: Defensive walls
 > Simpler defensive walls of earth or stone, thrown up around hillforts, ringworks, early castles and the like, tend to be referred to as ramparts or banks.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Defensive%20wall)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Defensive_Wall](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.md) 
+
+### #is_/same_as :: [Defensive_Wall.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.public.md) 
+
+### #is_/same_as :: [Defensive_Wall.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.internal.md) 
+
+### #is_/same_as :: [Defensive_Wall.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.protect.md) 
+
+### #is_/same_as :: [Defensive_Wall.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.private.md) 
+
+### #is_/same_as :: [Defensive_Wall.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.personal.md) 
+
+### #is_/same_as :: [Defensive_Wall.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.secret.md)
+

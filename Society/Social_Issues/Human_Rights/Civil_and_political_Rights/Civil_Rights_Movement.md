@@ -28,3 +28,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Civil%20rights%20movement) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Civil_Rights_Movement](/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.md) 
+
+### #is_/same_as :: [Civil_Rights_Movement.public](/_public/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.public.md) 
+
+### #is_/same_as :: [Civil_Rights_Movement.internal](/_internal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.internal.md) 
+
+### #is_/same_as :: [Civil_Rights_Movement.protect](/_protect/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.protect.md) 
+
+### #is_/same_as :: [Civil_Rights_Movement.private](/_private/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.private.md) 
+
+### #is_/same_as :: [Civil_Rights_Movement.personal](/_personal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.personal.md) 
+
+### #is_/same_as :: [Civil_Rights_Movement.secret](/_secret/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.secret.md)
+

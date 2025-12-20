@@ -43,3 +43,22 @@ Commons_category: Iced tea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iced%20tea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Iced_Tea](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.md) 
+
+### #is_/same_as :: [Iced_Tea.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.public.md) 
+
+### #is_/same_as :: [Iced_Tea.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.internal.md) 
+
+### #is_/same_as :: [Iced_Tea.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.protect.md) 
+
+### #is_/same_as :: [Iced_Tea.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.private.md) 
+
+### #is_/same_as :: [Iced_Tea.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.personal.md) 
+
+### #is_/same_as :: [Iced_Tea.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.secret.md)
+

@@ -46,3 +46,22 @@ Commons_category: Euphoniums
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Euphonium) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Euphonium](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.md) 
+
+### #is_/same_as :: [Euphonium.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.public.md) 
+
+### #is_/same_as :: [Euphonium.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.internal.md) 
+
+### #is_/same_as :: [Euphonium.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.protect.md) 
+
+### #is_/same_as :: [Euphonium.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.private.md) 
+
+### #is_/same_as :: [Euphonium.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.personal.md) 
+
+### #is_/same_as :: [Euphonium.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.secret.md)
+

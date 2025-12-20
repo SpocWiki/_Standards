@@ -61,17 +61,17 @@ part_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio~Family](bio~Family.md) 
+### #is_/same_as :: [bio~Family](/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family.md) 
 
-### #is_/same_as :: [bio~Family.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family.public.md) 
+### #is_/same_as :: [bio~Family.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family.public.md) 
 
-### #is_/same_as :: [bio~Family.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family.internal.md) 
+### #is_/same_as :: [bio~Family.internal](/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family.internal.md) 
 
-### #is_/same_as :: [bio~Family.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family.protect.md) 
+### #is_/same_as :: [bio~Family.protect](/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family.protect.md) 
 
-### #is_/same_as :: [bio~Family.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family.private.md) 
+### #is_/same_as :: [bio~Family.private](/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family.private.md) 
 
-### #is_/same_as :: [bio~Family.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family.personal.md) 
+### #is_/same_as :: [bio~Family.personal](/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family.personal.md) 
 
-### #is_/same_as :: [bio~Family.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family.secret.md)
+### #is_/same_as :: [bio~Family.secret](/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family.secret.md)
 

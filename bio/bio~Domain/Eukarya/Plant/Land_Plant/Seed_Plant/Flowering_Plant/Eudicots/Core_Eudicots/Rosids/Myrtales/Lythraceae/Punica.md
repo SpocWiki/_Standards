@@ -53,3 +53,22 @@ NBN_System_Key: NHMSYS0000462155
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Punica) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Punica](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica.md) 
+
+### #is_/same_as :: [Punica.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica.public.md) 
+
+### #is_/same_as :: [Punica.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica.internal.md) 
+
+### #is_/same_as :: [Punica.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica.protect.md) 
+
+### #is_/same_as :: [Punica.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica.private.md) 
+
+### #is_/same_as :: [Punica.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica.personal.md) 
+
+### #is_/same_as :: [Punica.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica.secret.md)
+

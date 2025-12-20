@@ -79,3 +79,22 @@ Archive_of_Our_Own_tag: Political RPF
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Politics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Politics](/_Standards/Society/Politics.md) 
+
+### #is_/same_as :: [Politics.public](/_public/Society/Politics.public.md) 
+
+### #is_/same_as :: [Politics.internal](/_internal/Society/Politics.internal.md) 
+
+### #is_/same_as :: [Politics.protect](/_protect/Society/Politics.protect.md) 
+
+### #is_/same_as :: [Politics.private](/_private/Society/Politics.private.md) 
+
+### #is_/same_as :: [Politics.personal](/_personal/Society/Politics.personal.md) 
+
+### #is_/same_as :: [Politics.secret](/_secret/Society/Politics.secret.md)
+

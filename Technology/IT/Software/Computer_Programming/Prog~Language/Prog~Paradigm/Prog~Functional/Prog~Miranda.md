@@ -14,3 +14,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Miranda%20(programming%20language))
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Miranda](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Miranda.md) 
+
+### #is_/same_as :: [Prog~Miranda.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Miranda.public.md) 
+
+### #is_/same_as :: [Prog~Miranda.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Miranda.internal.md) 
+
+### #is_/same_as :: [Prog~Miranda.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Miranda.protect.md) 
+
+### #is_/same_as :: [Prog~Miranda.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Miranda.private.md) 
+
+### #is_/same_as :: [Prog~Miranda.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Miranda.personal.md) 
+
+### #is_/same_as :: [Prog~Miranda.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Miranda.secret.md)
+

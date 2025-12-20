@@ -20,3 +20,22 @@
 #is_/same_as :: [[../../../../WikiData/WD~Art_of_sculpture,11634|WD~Art_of_sculpture,11634]] 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plastic_Arts](/_Standards/Society/Communication/Media/Plastic_Arts.md) 
+
+### #is_/same_as :: [Plastic_Arts.public](/_public/Society/Communication/Media/Plastic_Arts.public.md) 
+
+### #is_/same_as :: [Plastic_Arts.internal](/_internal/Society/Communication/Media/Plastic_Arts.internal.md) 
+
+### #is_/same_as :: [Plastic_Arts.protect](/_protect/Society/Communication/Media/Plastic_Arts.protect.md) 
+
+### #is_/same_as :: [Plastic_Arts.private](/_private/Society/Communication/Media/Plastic_Arts.private.md) 
+
+### #is_/same_as :: [Plastic_Arts.personal](/_personal/Society/Communication/Media/Plastic_Arts.personal.md) 
+
+### #is_/same_as :: [Plastic_Arts.secret](/_secret/Society/Communication/Media/Plastic_Arts.secret.md)
+

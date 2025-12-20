@@ -41,17 +41,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alexander_Romance](/_Standards/Society/Communication/Genre/Fiction/Novel/Alexander_Romance.md) 
+### #is_/same_as :: [Alexander_Romance](/_Standards/Society/Communication/Genre/Fiction/Historical_Fiction/Alexander_Romance.md) 
 
-### #is_/same_as :: [Alexander_Romance.public](/_public/Society/Communication/Genre/Fiction/Novel/Alexander_Romance.public.md) 
+### #is_/same_as :: [Alexander_Romance.public](/_public/Society/Communication/Genre/Fiction/Historical_Fiction/Alexander_Romance.public.md) 
 
-### #is_/same_as :: [Alexander_Romance.internal](/_internal/Society/Communication/Genre/Fiction/Novel/Alexander_Romance.internal.md) 
+### #is_/same_as :: [Alexander_Romance.internal](/_internal/Society/Communication/Genre/Fiction/Historical_Fiction/Alexander_Romance.internal.md) 
 
-### #is_/same_as :: [Alexander_Romance.protect](/_protect/Society/Communication/Genre/Fiction/Novel/Alexander_Romance.protect.md) 
+### #is_/same_as :: [Alexander_Romance.protect](/_protect/Society/Communication/Genre/Fiction/Historical_Fiction/Alexander_Romance.protect.md) 
 
-### #is_/same_as :: [Alexander_Romance.private](/_private/Society/Communication/Genre/Fiction/Novel/Alexander_Romance.private.md) 
+### #is_/same_as :: [Alexander_Romance.private](/_private/Society/Communication/Genre/Fiction/Historical_Fiction/Alexander_Romance.private.md) 
 
-### #is_/same_as :: [Alexander_Romance.personal](/_personal/Society/Communication/Genre/Fiction/Novel/Alexander_Romance.personal.md) 
+### #is_/same_as :: [Alexander_Romance.personal](/_personal/Society/Communication/Genre/Fiction/Historical_Fiction/Alexander_Romance.personal.md) 
 
-### #is_/same_as :: [Alexander_Romance.secret](/_secret/Society/Communication/Genre/Fiction/Novel/Alexander_Romance.secret.md)
+### #is_/same_as :: [Alexander_Romance.secret](/_secret/Society/Communication/Genre/Fiction/Historical_Fiction/Alexander_Romance.secret.md)
 

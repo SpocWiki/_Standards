@@ -109,3 +109,22 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/JWgibbs-signature.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Josiah%20Willard%20Gibbs) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gibbs,Josiah_Willard](/_Standards/Chemistry/Chemist/Gibbs,Josiah_Willard.md) 
+
+### #is_/same_as :: [Gibbs,Josiah_Willard.public](/_public/Chemistry/Chemist/Gibbs,Josiah_Willard.public.md) 
+
+### #is_/same_as :: [Gibbs,Josiah_Willard.internal](/_internal/Chemistry/Chemist/Gibbs,Josiah_Willard.internal.md) 
+
+### #is_/same_as :: [Gibbs,Josiah_Willard.protect](/_protect/Chemistry/Chemist/Gibbs,Josiah_Willard.protect.md) 
+
+### #is_/same_as :: [Gibbs,Josiah_Willard.private](/_private/Chemistry/Chemist/Gibbs,Josiah_Willard.private.md) 
+
+### #is_/same_as :: [Gibbs,Josiah_Willard.personal](/_personal/Chemistry/Chemist/Gibbs,Josiah_Willard.personal.md) 
+
+### #is_/same_as :: [Gibbs,Josiah_Willard.secret](/_secret/Chemistry/Chemist/Gibbs,Josiah_Willard.secret.md)
+

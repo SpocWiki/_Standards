@@ -166,3 +166,22 @@ date_of_birth: 1930-05-31T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Clint%20Eastwood) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eastwood,Clint](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.md) 
+
+### #is_/same_as :: [Eastwood,Clint.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.public.md) 
+
+### #is_/same_as :: [Eastwood,Clint.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.internal.md) 
+
+### #is_/same_as :: [Eastwood,Clint.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.protect.md) 
+
+### #is_/same_as :: [Eastwood,Clint.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.private.md) 
+
+### #is_/same_as :: [Eastwood,Clint.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.personal.md) 
+
+### #is_/same_as :: [Eastwood,Clint.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.secret.md)
+

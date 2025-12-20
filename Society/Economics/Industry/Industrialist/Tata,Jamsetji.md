@@ -58,3 +58,22 @@ date_of_death: 1904-05-19T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jamsetji%20Tata) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tata,Jamsetji](/_Standards/Society/Economics/Industry/Industrialist/Tata,Jamsetji.md) 
+
+### #is_/same_as :: [Tata,Jamsetji.public](/_public/Society/Economics/Industry/Industrialist/Tata,Jamsetji.public.md) 
+
+### #is_/same_as :: [Tata,Jamsetji.internal](/_internal/Society/Economics/Industry/Industrialist/Tata,Jamsetji.internal.md) 
+
+### #is_/same_as :: [Tata,Jamsetji.protect](/_protect/Society/Economics/Industry/Industrialist/Tata,Jamsetji.protect.md) 
+
+### #is_/same_as :: [Tata,Jamsetji.private](/_private/Society/Economics/Industry/Industrialist/Tata,Jamsetji.private.md) 
+
+### #is_/same_as :: [Tata,Jamsetji.personal](/_personal/Society/Economics/Industry/Industrialist/Tata,Jamsetji.personal.md) 
+
+### #is_/same_as :: [Tata,Jamsetji.secret](/_secret/Society/Economics/Industry/Industrialist/Tata,Jamsetji.secret.md)
+

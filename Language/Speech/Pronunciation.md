@@ -41,3 +41,22 @@ Commons_category: Pronunciation
 > [Wikipedia](https://en.wikipedia.org/wiki/Pronunciation) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pronunciation](/_Standards/Language/Speech/Pronunciation.md) 
+
+### #is_/same_as :: [Pronunciation.public](/_public/Language/Speech/Pronunciation.public.md) 
+
+### #is_/same_as :: [Pronunciation.internal](/_internal/Language/Speech/Pronunciation.internal.md) 
+
+### #is_/same_as :: [Pronunciation.protect](/_protect/Language/Speech/Pronunciation.protect.md) 
+
+### #is_/same_as :: [Pronunciation.private](/_private/Language/Speech/Pronunciation.private.md) 
+
+### #is_/same_as :: [Pronunciation.personal](/_personal/Language/Speech/Pronunciation.personal.md) 
+
+### #is_/same_as :: [Pronunciation.secret](/_secret/Language/Speech/Pronunciation.secret.md)
+

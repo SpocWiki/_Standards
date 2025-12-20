@@ -40,17 +40,17 @@ The day of the week between Tuesday and Thursday.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wednesday](Wednesday.md) 
+### #is_/same_as :: [Wednesday](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Wednesday.md) 
 
-### #is_/same_as :: [wednesday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.public.md) 
+### #is_/same_as :: [Wednesday.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Wednesday.public.md) 
 
-### #is_/same_as :: [wednesday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.internal.md) 
+### #is_/same_as :: [Wednesday.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Wednesday.internal.md) 
 
-### #is_/same_as :: [wednesday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.protect.md) 
+### #is_/same_as :: [Wednesday.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Wednesday.protect.md) 
 
-### #is_/same_as :: [wednesday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.private.md) 
+### #is_/same_as :: [Wednesday.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Wednesday.private.md) 
 
-### #is_/same_as :: [wednesday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.personal.md) 
+### #is_/same_as :: [Wednesday.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Wednesday.personal.md) 
 
-### #is_/same_as :: [wednesday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/wednesday.secret.md)
+### #is_/same_as :: [Wednesday.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Wednesday.secret.md)
 

@@ -20,3 +20,22 @@ Commons_category: Plant epidermis
 # [[Plant-Epidermis]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Epidermis,796482|WD~Epidermis,796482]] 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plant-Epidermis](/_Standards/bio/Botany/Plant-Epidermis.md) 
+
+### #is_/same_as :: [Plant-Epidermis.public](/_public/bio/Botany/Plant-Epidermis.public.md) 
+
+### #is_/same_as :: [Plant-Epidermis.internal](/_internal/bio/Botany/Plant-Epidermis.internal.md) 
+
+### #is_/same_as :: [Plant-Epidermis.protect](/_protect/bio/Botany/Plant-Epidermis.protect.md) 
+
+### #is_/same_as :: [Plant-Epidermis.private](/_private/bio/Botany/Plant-Epidermis.private.md) 
+
+### #is_/same_as :: [Plant-Epidermis.personal](/_personal/bio/Botany/Plant-Epidermis.personal.md) 
+
+### #is_/same_as :: [Plant-Epidermis.secret](/_secret/bio/Botany/Plant-Epidermis.secret.md)
+

@@ -58,3 +58,22 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "SecondLawOfThermodynamic
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Second%20law%20of%20thermodynamics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Second_Law_of_Thermodynamics](/_Standards/Science/Physics/Thermodynamics/Second_Law_of_Thermodynamics.md) 
+
+### #is_/same_as :: [Second_Law_of_Thermodynamics.public](/_public/Science/Physics/Thermodynamics/Second_Law_of_Thermodynamics.public.md) 
+
+### #is_/same_as :: [Second_Law_of_Thermodynamics.internal](/_internal/Science/Physics/Thermodynamics/Second_Law_of_Thermodynamics.internal.md) 
+
+### #is_/same_as :: [Second_Law_of_Thermodynamics.protect](/_protect/Science/Physics/Thermodynamics/Second_Law_of_Thermodynamics.protect.md) 
+
+### #is_/same_as :: [Second_Law_of_Thermodynamics.private](/_private/Science/Physics/Thermodynamics/Second_Law_of_Thermodynamics.private.md) 
+
+### #is_/same_as :: [Second_Law_of_Thermodynamics.personal](/_personal/Science/Physics/Thermodynamics/Second_Law_of_Thermodynamics.personal.md) 
+
+### #is_/same_as :: [Second_Law_of_Thermodynamics.secret](/_secret/Science/Physics/Thermodynamics/Second_Law_of_Thermodynamics.secret.md)
+

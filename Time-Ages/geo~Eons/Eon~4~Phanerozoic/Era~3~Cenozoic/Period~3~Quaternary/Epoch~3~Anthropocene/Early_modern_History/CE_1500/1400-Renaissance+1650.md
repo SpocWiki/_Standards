@@ -69,3 +69,22 @@ Krugosvet_article: istoriya/EPOHA_VOZROZHDENIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Renaissance) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1400-Renaissance+1650](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1400-Renaissance+1650.md) 
+
+### #is_/same_as :: [1400-Renaissance+1650.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1400-Renaissance+1650.public.md) 
+
+### #is_/same_as :: [1400-Renaissance+1650.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1400-Renaissance+1650.internal.md) 
+
+### #is_/same_as :: [1400-Renaissance+1650.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1400-Renaissance+1650.protect.md) 
+
+### #is_/same_as :: [1400-Renaissance+1650.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1400-Renaissance+1650.private.md) 
+
+### #is_/same_as :: [1400-Renaissance+1650.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1400-Renaissance+1650.personal.md) 
+
+### #is_/same_as :: [1400-Renaissance+1650.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1400-Renaissance+1650.secret.md)
+

@@ -41,17 +41,17 @@ A media object, such as an image, video, or audio object embedded in a web page 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Media_Object](Media_Object.md) 
+### #is_/same_as :: [Media_Object](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object.md) 
 
-### #is_/same_as :: [Media_Object.public](/_public/Society/Communication/Media/Media_Object.public.md) 
+### #is_/same_as :: [Media_Object.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object.public.md) 
 
-### #is_/same_as :: [Media_Object.internal](/_internal/Society/Communication/Media/Media_Object.internal.md) 
+### #is_/same_as :: [Media_Object.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object.internal.md) 
 
-### #is_/same_as :: [Media_Object.protect](/_protect/Society/Communication/Media/Media_Object.protect.md) 
+### #is_/same_as :: [Media_Object.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object.protect.md) 
 
-### #is_/same_as :: [Media_Object.private](/_private/Society/Communication/Media/Media_Object.private.md) 
+### #is_/same_as :: [Media_Object.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object.private.md) 
 
-### #is_/same_as :: [Media_Object.personal](/_personal/Society/Communication/Media/Media_Object.personal.md) 
+### #is_/same_as :: [Media_Object.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object.personal.md) 
 
-### #is_/same_as :: [Media_Object.secret](/_secret/Society/Communication/Media/Media_Object.secret.md)
+### #is_/same_as :: [Media_Object.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object.secret.md)
 

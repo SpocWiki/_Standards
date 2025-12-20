@@ -75,3 +75,22 @@ Commons_category: Space Shuttles
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Space%20Shuttle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Space_Shuttle](/_Standards/Technology/Spaceflight/Space_Shuttle.md) 
+
+### #is_/same_as :: [Space_Shuttle.public](/_public/Technology/Spaceflight/Space_Shuttle.public.md) 
+
+### #is_/same_as :: [Space_Shuttle.internal](/_internal/Technology/Spaceflight/Space_Shuttle.internal.md) 
+
+### #is_/same_as :: [Space_Shuttle.protect](/_protect/Technology/Spaceflight/Space_Shuttle.protect.md) 
+
+### #is_/same_as :: [Space_Shuttle.private](/_private/Technology/Spaceflight/Space_Shuttle.private.md) 
+
+### #is_/same_as :: [Space_Shuttle.personal](/_personal/Technology/Spaceflight/Space_Shuttle.personal.md) 
+
+### #is_/same_as :: [Space_Shuttle.secret](/_secret/Technology/Spaceflight/Space_Shuttle.secret.md)
+

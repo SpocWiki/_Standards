@@ -131,17 +131,17 @@ native_label: Colosseum
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Colosseum](Colosseum.md) 
+### #is_/same_as :: [Colosseum](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.md) 
 
-### #is_/same_as :: [Colosseum.public](/_public/Technology/Construction/Architecture/Colosseum.public.md) 
+### #is_/same_as :: [Colosseum.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.public.md) 
 
-### #is_/same_as :: [Colosseum.internal](/_internal/Technology/Construction/Architecture/Colosseum.internal.md) 
+### #is_/same_as :: [Colosseum.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.internal.md) 
 
-### #is_/same_as :: [Colosseum.protect](/_protect/Technology/Construction/Architecture/Colosseum.protect.md) 
+### #is_/same_as :: [Colosseum.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.protect.md) 
 
-### #is_/same_as :: [Colosseum.private](/_private/Technology/Construction/Architecture/Colosseum.private.md) 
+### #is_/same_as :: [Colosseum.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.private.md) 
 
-### #is_/same_as :: [Colosseum.personal](/_personal/Technology/Construction/Architecture/Colosseum.personal.md) 
+### #is_/same_as :: [Colosseum.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.personal.md) 
 
-### #is_/same_as :: [Colosseum.secret](/_secret/Technology/Construction/Architecture/Colosseum.secret.md)
+### #is_/same_as :: [Colosseum.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.secret.md)
 

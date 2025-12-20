@@ -45,3 +45,22 @@ OpenStreetMap_tag: healthcare:speciality=gynaecology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Obstetrics%20and%20gynaecology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Obstetrics_and_Gynaecology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.md) 
+
+### #is_/same_as :: [Obstetrics_and_Gynaecology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.public.md) 
+
+### #is_/same_as :: [Obstetrics_and_Gynaecology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.internal.md) 
+
+### #is_/same_as :: [Obstetrics_and_Gynaecology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.protect.md) 
+
+### #is_/same_as :: [Obstetrics_and_Gynaecology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.private.md) 
+
+### #is_/same_as :: [Obstetrics_and_Gynaecology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.personal.md) 
+
+### #is_/same_as :: [Obstetrics_and_Gynaecology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.secret.md)
+

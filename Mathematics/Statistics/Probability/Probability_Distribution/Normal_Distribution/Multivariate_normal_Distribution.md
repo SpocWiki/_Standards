@@ -38,3 +38,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Multivariate%20normal%20distribution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Multivariate_normal_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.md) 
+
+### #is_/same_as :: [Multivariate_normal_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.public.md) 
+
+### #is_/same_as :: [Multivariate_normal_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.internal.md) 
+
+### #is_/same_as :: [Multivariate_normal_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.protect.md) 
+
+### #is_/same_as :: [Multivariate_normal_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.private.md) 
+
+### #is_/same_as :: [Multivariate_normal_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.personal.md) 
+
+### #is_/same_as :: [Multivariate_normal_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.secret.md)
+

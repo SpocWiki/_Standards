@@ -35,17 +35,17 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_business,1817462]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Business-Activity](Business-Activity.md) 
+### #is_/same_as :: [Business-Activity](/_Standards/Society/Agent/Community/Organization/Business/Business-Activity.md) 
 
-### #is_/same_as :: [Business-Activity.public](/_public/Society/Economics/Business/Business-Activity.public.md) 
+### #is_/same_as :: [Business-Activity.public](/_public/Society/Agent/Community/Organization/Business/Business-Activity.public.md) 
 
-### #is_/same_as :: [Business-Activity.internal](/_internal/Society/Economics/Business/Business-Activity.internal.md) 
+### #is_/same_as :: [Business-Activity.internal](/_internal/Society/Agent/Community/Organization/Business/Business-Activity.internal.md) 
 
-### #is_/same_as :: [Business-Activity.protect](/_protect/Society/Economics/Business/Business-Activity.protect.md) 
+### #is_/same_as :: [Business-Activity.protect](/_protect/Society/Agent/Community/Organization/Business/Business-Activity.protect.md) 
 
-### #is_/same_as :: [Business-Activity.private](/_private/Society/Economics/Business/Business-Activity.private.md) 
+### #is_/same_as :: [Business-Activity.private](/_private/Society/Agent/Community/Organization/Business/Business-Activity.private.md) 
 
-### #is_/same_as :: [Business-Activity.personal](/_personal/Society/Economics/Business/Business-Activity.personal.md) 
+### #is_/same_as :: [Business-Activity.personal](/_personal/Society/Agent/Community/Organization/Business/Business-Activity.personal.md) 
 
-### #is_/same_as :: [Business-Activity.secret](/_secret/Society/Economics/Business/Business-Activity.secret.md)
+### #is_/same_as :: [Business-Activity.secret](/_secret/Society/Agent/Community/Organization/Business/Business-Activity.secret.md)
 

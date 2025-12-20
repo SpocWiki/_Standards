@@ -47,3 +47,22 @@ has_id_wikidata: Q596
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ceres](/_Standards/Astronomy/Solar_System/Asteroid_Belt/Ceres.md) 
+
+### #is_/same_as :: [Ceres.public](/_public/Astronomy/Solar_System/Asteroid_Belt/Ceres.public.md) 
+
+### #is_/same_as :: [Ceres.internal](/_internal/Astronomy/Solar_System/Asteroid_Belt/Ceres.internal.md) 
+
+### #is_/same_as :: [Ceres.protect](/_protect/Astronomy/Solar_System/Asteroid_Belt/Ceres.protect.md) 
+
+### #is_/same_as :: [Ceres.private](/_private/Astronomy/Solar_System/Asteroid_Belt/Ceres.private.md) 
+
+### #is_/same_as :: [Ceres.personal](/_personal/Astronomy/Solar_System/Asteroid_Belt/Ceres.personal.md) 
+
+### #is_/same_as :: [Ceres.secret](/_secret/Astronomy/Solar_System/Asteroid_Belt/Ceres.secret.md)
+

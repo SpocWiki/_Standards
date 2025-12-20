@@ -46,3 +46,22 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/FENTEZI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fantasy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fantasy](/_Standards/Society/Communication/Genre/Fiction/Fantasy.md) 
+
+### #is_/same_as :: [Fantasy.public](/_public/Society/Communication/Genre/Fiction/Fantasy.public.md) 
+
+### #is_/same_as :: [Fantasy.internal](/_internal/Society/Communication/Genre/Fiction/Fantasy.internal.md) 
+
+### #is_/same_as :: [Fantasy.protect](/_protect/Society/Communication/Genre/Fiction/Fantasy.protect.md) 
+
+### #is_/same_as :: [Fantasy.private](/_private/Society/Communication/Genre/Fiction/Fantasy.private.md) 
+
+### #is_/same_as :: [Fantasy.personal](/_personal/Society/Communication/Genre/Fiction/Fantasy.personal.md) 
+
+### #is_/same_as :: [Fantasy.secret](/_secret/Society/Communication/Genre/Fiction/Fantasy.secret.md)
+

@@ -24,3 +24,22 @@ has_id_wikidata: Q16354816
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Otherworld) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Otherworld](/_Standards/Philosophy/Metaphysic/Religion/Otherworld.md) 
+
+### #is_/same_as :: [Otherworld.public](/_public/Philosophy/Metaphysic/Religion/Otherworld.public.md) 
+
+### #is_/same_as :: [Otherworld.internal](/_internal/Philosophy/Metaphysic/Religion/Otherworld.internal.md) 
+
+### #is_/same_as :: [Otherworld.protect](/_protect/Philosophy/Metaphysic/Religion/Otherworld.protect.md) 
+
+### #is_/same_as :: [Otherworld.private](/_private/Philosophy/Metaphysic/Religion/Otherworld.private.md) 
+
+### #is_/same_as :: [Otherworld.personal](/_personal/Philosophy/Metaphysic/Religion/Otherworld.personal.md) 
+
+### #is_/same_as :: [Otherworld.secret](/_secret/Philosophy/Metaphysic/Religion/Otherworld.secret.md)
+

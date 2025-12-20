@@ -51,3 +51,22 @@ OpenStreetMap_tag_or_key: Tag:sport=darts
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Darts) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Darts](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.md) 
+
+### #is_/same_as :: [Darts.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.public.md) 
+
+### #is_/same_as :: [Darts.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.internal.md) 
+
+### #is_/same_as :: [Darts.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.protect.md) 
+
+### #is_/same_as :: [Darts.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.private.md) 
+
+### #is_/same_as :: [Darts.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.personal.md) 
+
+### #is_/same_as :: [Darts.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.secret.md)
+

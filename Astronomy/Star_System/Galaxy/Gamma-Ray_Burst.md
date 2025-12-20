@@ -56,3 +56,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gamma-ray%20burst) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gamma-Ray_Burst](/_Standards/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.md) 
+
+### #is_/same_as :: [Gamma-Ray_Burst.public](/_public/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.public.md) 
+
+### #is_/same_as :: [Gamma-Ray_Burst.internal](/_internal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.internal.md) 
+
+### #is_/same_as :: [Gamma-Ray_Burst.protect](/_protect/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.protect.md) 
+
+### #is_/same_as :: [Gamma-Ray_Burst.private](/_private/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.private.md) 
+
+### #is_/same_as :: [Gamma-Ray_Burst.personal](/_personal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.personal.md) 
+
+### #is_/same_as :: [Gamma-Ray_Burst.secret](/_secret/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.secret.md)
+

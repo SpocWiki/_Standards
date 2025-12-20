@@ -63,3 +63,22 @@ NBN_System_Key: NHMSYS0000841073
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fly) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera.md) 
+
+### #is_/same_as :: [Diptera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera.public.md) 
+
+### #is_/same_as :: [Diptera.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera.internal.md) 
+
+### #is_/same_as :: [Diptera.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera.protect.md) 
+
+### #is_/same_as :: [Diptera.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera.private.md) 
+
+### #is_/same_as :: [Diptera.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera.personal.md) 
+
+### #is_/same_as :: [Diptera.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera.secret.md)
+

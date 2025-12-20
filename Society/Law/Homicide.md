@@ -58,3 +58,22 @@ time_of_earliest_written_record: -1751-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Homicide) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Homicide](/_Standards/Society/Law/Homicide.md) 
+
+### #is_/same_as :: [Homicide.public](/_public/Society/Law/Homicide.public.md) 
+
+### #is_/same_as :: [Homicide.internal](/_internal/Society/Law/Homicide.internal.md) 
+
+### #is_/same_as :: [Homicide.protect](/_protect/Society/Law/Homicide.protect.md) 
+
+### #is_/same_as :: [Homicide.private](/_private/Society/Law/Homicide.private.md) 
+
+### #is_/same_as :: [Homicide.personal](/_personal/Society/Law/Homicide.personal.md) 
+
+### #is_/same_as :: [Homicide.secret](/_secret/Society/Law/Homicide.secret.md)
+

@@ -52,3 +52,22 @@ taxon_name: Tachyglossidae
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Echidna) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tachyglossidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea/Tachyglossidae.md) 
+
+### #is_/same_as :: [Tachyglossidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea/Tachyglossidae.public.md) 
+
+### #is_/same_as :: [Tachyglossidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea/Tachyglossidae.internal.md) 
+
+### #is_/same_as :: [Tachyglossidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea/Tachyglossidae.protect.md) 
+
+### #is_/same_as :: [Tachyglossidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea/Tachyglossidae.private.md) 
+
+### #is_/same_as :: [Tachyglossidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea/Tachyglossidae.personal.md) 
+
+### #is_/same_as :: [Tachyglossidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypoda/Ornithorhynchoidea/Tachyglossidae.secret.md)
+

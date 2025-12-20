@@ -33,3 +33,22 @@ IEV_number: 881-03-26
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromagnetism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electromagnetic_Interaction](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.md) 
+
+### #is_/same_as :: [Electromagnetic_Interaction.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.public.md) 
+
+### #is_/same_as :: [Electromagnetic_Interaction.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.internal.md) 
+
+### #is_/same_as :: [Electromagnetic_Interaction.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.protect.md) 
+
+### #is_/same_as :: [Electromagnetic_Interaction.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.private.md) 
+
+### #is_/same_as :: [Electromagnetic_Interaction.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.personal.md) 
+
+### #is_/same_as :: [Electromagnetic_Interaction.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.secret.md)
+

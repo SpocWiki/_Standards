@@ -92,3 +92,22 @@ UMLS_CUI:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Syphilis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Syphilis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.md) 
+
+### #is_/same_as :: [Syphilis.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.public.md) 
+
+### #is_/same_as :: [Syphilis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.internal.md) 
+
+### #is_/same_as :: [Syphilis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.protect.md) 
+
+### #is_/same_as :: [Syphilis.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.private.md) 
+
+### #is_/same_as :: [Syphilis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.personal.md) 
+
+### #is_/same_as :: [Syphilis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.secret.md)
+

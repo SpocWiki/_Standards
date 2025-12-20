@@ -138,3 +138,22 @@ Europeana_entity: agent/base/147049
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hector%20Berlioz) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Berlioz,Hector](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.md) 
+
+### #is_/same_as :: [Berlioz,Hector.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.public.md) 
+
+### #is_/same_as :: [Berlioz,Hector.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.internal.md) 
+
+### #is_/same_as :: [Berlioz,Hector.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.protect.md) 
+
+### #is_/same_as :: [Berlioz,Hector.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.private.md) 
+
+### #is_/same_as :: [Berlioz,Hector.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.personal.md) 
+
+### #is_/same_as :: [Berlioz,Hector.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.secret.md)
+

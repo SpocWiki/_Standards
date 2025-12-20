@@ -108,3 +108,22 @@ Iconclass_notation: 23I32
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/August) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [August](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.md) 
+
+### #is_/same_as :: [August.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.public.md) 
+
+### #is_/same_as :: [August.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.internal.md) 
+
+### #is_/same_as :: [August.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.protect.md) 
+
+### #is_/same_as :: [August.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.private.md) 
+
+### #is_/same_as :: [August.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.personal.md) 
+
+### #is_/same_as :: [August.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.secret.md)
+

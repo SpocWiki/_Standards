@@ -42,3 +42,22 @@ short_name: Ciquepasa
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cirrus%20(biology)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cirrus](/_Standards/Earth/Climate/Weather/Cloud/Cirrus.md) 
+
+### #is_/same_as :: [Cirrus.public](/_public/Earth/Climate/Weather/Cloud/Cirrus.public.md) 
+
+### #is_/same_as :: [Cirrus.internal](/_internal/Earth/Climate/Weather/Cloud/Cirrus.internal.md) 
+
+### #is_/same_as :: [Cirrus.protect](/_protect/Earth/Climate/Weather/Cloud/Cirrus.protect.md) 
+
+### #is_/same_as :: [Cirrus.private](/_private/Earth/Climate/Weather/Cloud/Cirrus.private.md) 
+
+### #is_/same_as :: [Cirrus.personal](/_personal/Earth/Climate/Weather/Cloud/Cirrus.personal.md) 
+
+### #is_/same_as :: [Cirrus.secret](/_secret/Earth/Climate/Weather/Cloud/Cirrus.secret.md)
+

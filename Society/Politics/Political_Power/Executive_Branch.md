@@ -57,3 +57,22 @@ the top leadership roles of the executive branch may include:
 		  and managing national budget.
 		- justice minister – overseeing criminal prosecutions, corrections, 
 		  enforcement of court orders.
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Executive_Branch](/_Standards/Society/Politics/Political_Power/Executive_Branch.md) 
+
+### #is_/same_as :: [Executive_Branch.public](/_public/Society/Politics/Political_Power/Executive_Branch.public.md) 
+
+### #is_/same_as :: [Executive_Branch.internal](/_internal/Society/Politics/Political_Power/Executive_Branch.internal.md) 
+
+### #is_/same_as :: [Executive_Branch.protect](/_protect/Society/Politics/Political_Power/Executive_Branch.protect.md) 
+
+### #is_/same_as :: [Executive_Branch.private](/_private/Society/Politics/Political_Power/Executive_Branch.private.md) 
+
+### #is_/same_as :: [Executive_Branch.personal](/_personal/Society/Politics/Political_Power/Executive_Branch.personal.md) 
+
+### #is_/same_as :: [Executive_Branch.secret](/_secret/Society/Politics/Political_Power/Executive_Branch.secret.md)
+

@@ -147,3 +147,22 @@ ISNI: "0000000121030063"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Calvin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [John_Calvin](/_Standards/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.md) 
+
+### #is_/same_as :: [John_Calvin.public](/_public/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.public.md) 
+
+### #is_/same_as :: [John_Calvin.internal](/_internal/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.internal.md) 
+
+### #is_/same_as :: [John_Calvin.protect](/_protect/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.protect.md) 
+
+### #is_/same_as :: [John_Calvin.private](/_private/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.private.md) 
+
+### #is_/same_as :: [John_Calvin.personal](/_personal/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.personal.md) 
+
+### #is_/same_as :: [John_Calvin.secret](/_secret/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.secret.md)
+

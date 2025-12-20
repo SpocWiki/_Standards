@@ -111,3 +111,22 @@ Europeana_entity: agent/base/61660
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Waters)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Waters,Roger](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.md) 
+
+### #is_/same_as :: [Waters,Roger.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.public.md) 
+
+### #is_/same_as :: [Waters,Roger.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.internal.md) 
+
+### #is_/same_as :: [Waters,Roger.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.protect.md) 
+
+### #is_/same_as :: [Waters,Roger.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.private.md) 
+
+### #is_/same_as :: [Waters,Roger.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.personal.md) 
+
+### #is_/same_as :: [Waters,Roger.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.secret.md)
+

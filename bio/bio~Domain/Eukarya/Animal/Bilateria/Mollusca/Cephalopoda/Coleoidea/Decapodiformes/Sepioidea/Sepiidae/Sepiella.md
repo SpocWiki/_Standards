@@ -103,7 +103,7 @@ Africa. Annals of the South African Museum, 59(10):193-313.
   Reference         Roeleveld, M.A. 1972. A Review of the Sepiidae (Cephalopoda) of Southern Africa. Annals of the South African Museum, 59(10):193-313.
   View              Ventral
   Copyright ::         © 2004 Martina Roeleveld
-  ---------------------------------------------
+  ---------------------------------------------
 
 
 ## Confidential Links & Embeds: 

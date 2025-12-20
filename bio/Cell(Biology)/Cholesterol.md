@@ -641,3 +641,22 @@ chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Structura
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cholesterol) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cholesterol](/_Standards/bio/Cell(Biology)/Cholesterol.md) 
+
+### #is_/same_as :: [Cholesterol.public](/_public/bio/Cell(Biology)/Cholesterol.public.md) 
+
+### #is_/same_as :: [Cholesterol.internal](/_internal/bio/Cell(Biology)/Cholesterol.internal.md) 
+
+### #is_/same_as :: [Cholesterol.protect](/_protect/bio/Cell(Biology)/Cholesterol.protect.md) 
+
+### #is_/same_as :: [Cholesterol.private](/_private/bio/Cell(Biology)/Cholesterol.private.md) 
+
+### #is_/same_as :: [Cholesterol.personal](/_personal/bio/Cell(Biology)/Cholesterol.personal.md) 
+
+### #is_/same_as :: [Cholesterol.secret](/_secret/bio/Cell(Biology)/Cholesterol.secret.md)
+

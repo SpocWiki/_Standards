@@ -115,3 +115,22 @@ ISNI: "0000000121487346"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lars%20von%20Trier) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trier,Lars_von](/_Standards/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.md) 
+
+### #is_/same_as :: [Trier,Lars_von.public](/_public/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.public.md) 
+
+### #is_/same_as :: [Trier,Lars_von.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.internal.md) 
+
+### #is_/same_as :: [Trier,Lars_von.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.protect.md) 
+
+### #is_/same_as :: [Trier,Lars_von.private](/_private/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.private.md) 
+
+### #is_/same_as :: [Trier,Lars_von.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.personal.md) 
+
+### #is_/same_as :: [Trier,Lars_von.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.secret.md)
+

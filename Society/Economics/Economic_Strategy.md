@@ -45,3 +45,22 @@ Commons_category: Strategic management
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Economic_Strategy](/_Standards/Society/Economics/Economic_Strategy.md) 
+
+### #is_/same_as :: [Economic_Strategy.public](/_public/Society/Economics/Economic_Strategy.public.md) 
+
+### #is_/same_as :: [Economic_Strategy.internal](/_internal/Society/Economics/Economic_Strategy.internal.md) 
+
+### #is_/same_as :: [Economic_Strategy.protect](/_protect/Society/Economics/Economic_Strategy.protect.md) 
+
+### #is_/same_as :: [Economic_Strategy.private](/_private/Society/Economics/Economic_Strategy.private.md) 
+
+### #is_/same_as :: [Economic_Strategy.personal](/_personal/Society/Economics/Economic_Strategy.personal.md) 
+
+### #is_/same_as :: [Economic_Strategy.secret](/_secret/Society/Economics/Economic_Strategy.secret.md)
+

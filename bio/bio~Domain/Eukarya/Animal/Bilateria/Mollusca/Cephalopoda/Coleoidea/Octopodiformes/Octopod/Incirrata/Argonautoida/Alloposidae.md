@@ -198,7 +198,7 @@ of the Hawaiian mesopelagic-boundary region. Pacific Science, 49:
   Reference         from Verrill, A.E. 1881. The cephalopods of the north-eastern coast of America. Part II. The smaller cephalopods, including the \"squids\" and the octopi, with other allied forms. Trans. Connecticut Acad. Sciences 5:259-446.
   View              ventral
   Size              70 mm ML
-  ---------------------------------------------------------------------------
+  ---------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

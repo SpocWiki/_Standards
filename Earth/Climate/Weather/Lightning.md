@@ -73,3 +73,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/MOLNIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lightning) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lightning](/_Standards/Earth/Climate/Weather/Lightning.md) 
+
+### #is_/same_as :: [Lightning.public](/_public/Earth/Climate/Weather/Lightning.public.md) 
+
+### #is_/same_as :: [Lightning.internal](/_internal/Earth/Climate/Weather/Lightning.internal.md) 
+
+### #is_/same_as :: [Lightning.protect](/_protect/Earth/Climate/Weather/Lightning.protect.md) 
+
+### #is_/same_as :: [Lightning.private](/_private/Earth/Climate/Weather/Lightning.private.md) 
+
+### #is_/same_as :: [Lightning.personal](/_personal/Earth/Climate/Weather/Lightning.personal.md) 
+
+### #is_/same_as :: [Lightning.secret](/_secret/Earth/Climate/Weather/Lightning.secret.md)
+

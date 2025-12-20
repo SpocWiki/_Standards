@@ -35,8 +35,6 @@ Commons_category: Metallic bonding
 > [Wikipedia](https://en.wikipedia.org/wiki/Metallic%20bonding) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Metallic_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.md) 

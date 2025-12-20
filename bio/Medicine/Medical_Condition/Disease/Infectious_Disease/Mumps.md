@@ -82,3 +82,22 @@ Krugosvet_article_archived_: medicina/SVINKA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mumps) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mumps](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Mumps.md) 
+
+### #is_/same_as :: [Mumps.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Mumps.public.md) 
+
+### #is_/same_as :: [Mumps.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Mumps.internal.md) 
+
+### #is_/same_as :: [Mumps.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Mumps.protect.md) 
+
+### #is_/same_as :: [Mumps.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Mumps.private.md) 
+
+### #is_/same_as :: [Mumps.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Mumps.personal.md) 
+
+### #is_/same_as :: [Mumps.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Mumps.secret.md)
+

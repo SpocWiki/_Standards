@@ -40,17 +40,17 @@ A diet focused on reduced calorie intake.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Low_Calorie_Diet](Low_Calorie_Diet.md) 
+### #is_/same_as :: [Low_Calorie_Diet](/_Standards/schema-org/Enumeration/Restricted_Diet/Low_Calorie_Diet.md) 
 
-### #is_/same_as :: [low_calorie_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_calorie_diet.public.md) 
+### #is_/same_as :: [Low_Calorie_Diet.public](/_public/schema-org/Enumeration/Restricted_Diet/Low_Calorie_Diet.public.md) 
 
-### #is_/same_as :: [low_calorie_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_calorie_diet.internal.md) 
+### #is_/same_as :: [Low_Calorie_Diet.internal](/_internal/schema-org/Enumeration/Restricted_Diet/Low_Calorie_Diet.internal.md) 
 
-### #is_/same_as :: [low_calorie_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_calorie_diet.protect.md) 
+### #is_/same_as :: [Low_Calorie_Diet.protect](/_protect/schema-org/Enumeration/Restricted_Diet/Low_Calorie_Diet.protect.md) 
 
-### #is_/same_as :: [low_calorie_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_calorie_diet.private.md) 
+### #is_/same_as :: [Low_Calorie_Diet.private](/_private/schema-org/Enumeration/Restricted_Diet/Low_Calorie_Diet.private.md) 
 
-### #is_/same_as :: [low_calorie_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_calorie_diet.personal.md) 
+### #is_/same_as :: [Low_Calorie_Diet.personal](/_personal/schema-org/Enumeration/Restricted_Diet/Low_Calorie_Diet.personal.md) 
 
-### #is_/same_as :: [low_calorie_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_calorie_diet.secret.md)
+### #is_/same_as :: [Low_Calorie_Diet.secret](/_secret/schema-org/Enumeration/Restricted_Diet/Low_Calorie_Diet.secret.md)
 

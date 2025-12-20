@@ -53,3 +53,22 @@ Commons_category: Operational amplifiers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Operational%20amplifier) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Operational_Amplifier](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.md) 
+
+### #is_/same_as :: [Operational_Amplifier.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.public.md) 
+
+### #is_/same_as :: [Operational_Amplifier.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.internal.md) 
+
+### #is_/same_as :: [Operational_Amplifier.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.protect.md) 
+
+### #is_/same_as :: [Operational_Amplifier.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.private.md) 
+
+### #is_/same_as :: [Operational_Amplifier.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.personal.md) 
+
+### #is_/same_as :: [Operational_Amplifier.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.secret.md)
+

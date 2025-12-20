@@ -37,3 +37,22 @@ short_name: ударные
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Percussion%20instrument) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Percussion_Instrument](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument.md) 
+
+### #is_/same_as :: [Percussion_Instrument.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument.public.md) 
+
+### #is_/same_as :: [Percussion_Instrument.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument.internal.md) 
+
+### #is_/same_as :: [Percussion_Instrument.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument.protect.md) 
+
+### #is_/same_as :: [Percussion_Instrument.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument.private.md) 
+
+### #is_/same_as :: [Percussion_Instrument.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument.personal.md) 
+
+### #is_/same_as :: [Percussion_Instrument.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument.secret.md)
+

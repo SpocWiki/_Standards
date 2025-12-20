@@ -77,3 +77,22 @@ MeSH_tree_code: F02.463.593
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Perception) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Perception](/_Standards/bio/Psychology/Consciousness/Perception.md) 
+
+### #is_/same_as :: [Perception.public](/_public/bio/Psychology/Consciousness/Perception.public.md) 
+
+### #is_/same_as :: [Perception.internal](/_internal/bio/Psychology/Consciousness/Perception.internal.md) 
+
+### #is_/same_as :: [Perception.protect](/_protect/bio/Psychology/Consciousness/Perception.protect.md) 
+
+### #is_/same_as :: [Perception.private](/_private/bio/Psychology/Consciousness/Perception.private.md) 
+
+### #is_/same_as :: [Perception.personal](/_personal/bio/Psychology/Consciousness/Perception.personal.md) 
+
+### #is_/same_as :: [Perception.secret](/_secret/bio/Psychology/Consciousness/Perception.secret.md)
+

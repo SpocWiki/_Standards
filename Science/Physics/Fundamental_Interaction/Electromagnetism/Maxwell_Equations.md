@@ -486,3 +486,22 @@ IEV_number: 121-11-62
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Maxwell's%20equations) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Maxwell_Equations](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.md) 
+
+### #is_/same_as :: [Maxwell_Equations.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.public.md) 
+
+### #is_/same_as :: [Maxwell_Equations.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.internal.md) 
+
+### #is_/same_as :: [Maxwell_Equations.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.protect.md) 
+
+### #is_/same_as :: [Maxwell_Equations.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.private.md) 
+
+### #is_/same_as :: [Maxwell_Equations.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.personal.md) 
+
+### #is_/same_as :: [Maxwell_Equations.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.secret.md)
+

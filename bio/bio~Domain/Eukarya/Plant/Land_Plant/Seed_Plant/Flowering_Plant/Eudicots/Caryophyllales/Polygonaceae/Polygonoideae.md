@@ -29,3 +29,22 @@ taxon_common_name: بطباطاوات
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polygonoideae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polygonoideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae.md) 
+
+### #is_/same_as :: [Polygonoideae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae.public.md) 
+
+### #is_/same_as :: [Polygonoideae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae.internal.md) 
+
+### #is_/same_as :: [Polygonoideae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae.protect.md) 
+
+### #is_/same_as :: [Polygonoideae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae.private.md) 
+
+### #is_/same_as :: [Polygonoideae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae.personal.md) 
+
+### #is_/same_as :: [Polygonoideae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae.secret.md)
+

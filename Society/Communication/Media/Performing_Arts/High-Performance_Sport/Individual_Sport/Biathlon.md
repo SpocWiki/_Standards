@@ -52,17 +52,17 @@ Krugosvet_article: sport/BIATLON.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biathlon](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Biathlon.md) 
+### #is_/same_as :: [Biathlon](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.md) 
 
-### #is_/same_as :: [Biathlon.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Biathlon.public.md) 
+### #is_/same_as :: [Biathlon.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.public.md) 
 
-### #is_/same_as :: [Biathlon.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Biathlon.internal.md) 
+### #is_/same_as :: [Biathlon.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.internal.md) 
 
-### #is_/same_as :: [Biathlon.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Biathlon.protect.md) 
+### #is_/same_as :: [Biathlon.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.protect.md) 
 
-### #is_/same_as :: [Biathlon.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Biathlon.private.md) 
+### #is_/same_as :: [Biathlon.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.private.md) 
 
-### #is_/same_as :: [Biathlon.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Biathlon.personal.md) 
+### #is_/same_as :: [Biathlon.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.personal.md) 
 
-### #is_/same_as :: [Biathlon.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Biathlon.secret.md)
+### #is_/same_as :: [Biathlon.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon.secret.md)
 

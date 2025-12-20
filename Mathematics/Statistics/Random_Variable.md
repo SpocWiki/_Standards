@@ -73,3 +73,22 @@ Commons_category: Random variable
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Random%20variable) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Random_Variable](/_Standards/Mathematics/Statistics/Random_Variable.md) 
+
+### #is_/same_as :: [Random_Variable.public](/_public/Mathematics/Statistics/Random_Variable.public.md) 
+
+### #is_/same_as :: [Random_Variable.internal](/_internal/Mathematics/Statistics/Random_Variable.internal.md) 
+
+### #is_/same_as :: [Random_Variable.protect](/_protect/Mathematics/Statistics/Random_Variable.protect.md) 
+
+### #is_/same_as :: [Random_Variable.private](/_private/Mathematics/Statistics/Random_Variable.private.md) 
+
+### #is_/same_as :: [Random_Variable.personal](/_personal/Mathematics/Statistics/Random_Variable.personal.md) 
+
+### #is_/same_as :: [Random_Variable.secret](/_secret/Mathematics/Statistics/Random_Variable.secret.md)
+

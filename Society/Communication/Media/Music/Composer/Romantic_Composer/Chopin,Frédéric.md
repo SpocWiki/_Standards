@@ -187,17 +187,17 @@ U_S_National_Archives_Identifier: "25341204"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chopin,Frédéric](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.md) 
+### #is_/same_as :: [Chopin,Frédéric](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.md) 
 
-### #is_/same_as :: [Chopin,Frédéric.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.public.md) 
+### #is_/same_as :: [Chopin,Frédéric.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.public.md) 
 
-### #is_/same_as :: [Chopin,Frédéric.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.internal.md) 
+### #is_/same_as :: [Chopin,Frédéric.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.internal.md) 
 
-### #is_/same_as :: [Chopin,Frédéric.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.protect.md) 
+### #is_/same_as :: [Chopin,Frédéric.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.protect.md) 
 
-### #is_/same_as :: [Chopin,Frédéric.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.private.md) 
+### #is_/same_as :: [Chopin,Frédéric.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.private.md) 
 
-### #is_/same_as :: [Chopin,Frédéric.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.personal.md) 
+### #is_/same_as :: [Chopin,Frédéric.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.personal.md) 
 
-### #is_/same_as :: [Chopin,Frédéric.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.secret.md)
+### #is_/same_as :: [Chopin,Frédéric.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Chopin,Frédéric.secret.md)
 

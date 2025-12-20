@@ -72,3 +72,22 @@ Commons_category: Hydrochloric acid
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrochloric%20acid) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hydrochloric_Acid](/_Standards/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.md) 
+
+### #is_/same_as :: [Hydrochloric_Acid.public](/_public/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.public.md) 
+
+### #is_/same_as :: [Hydrochloric_Acid.internal](/_internal/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.internal.md) 
+
+### #is_/same_as :: [Hydrochloric_Acid.protect](/_protect/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.protect.md) 
+
+### #is_/same_as :: [Hydrochloric_Acid.private](/_private/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.private.md) 
+
+### #is_/same_as :: [Hydrochloric_Acid.personal](/_personal/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.personal.md) 
+
+### #is_/same_as :: [Hydrochloric_Acid.secret](/_secret/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.secret.md)
+

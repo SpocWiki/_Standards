@@ -38,3 +38,22 @@ Universal_Decimal_Classification: "794.92"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roulette) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Roulette](/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Roulette.md) 
+
+### #is_/same_as :: [Roulette.public](/_public/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Roulette.public.md) 
+
+### #is_/same_as :: [Roulette.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Roulette.internal.md) 
+
+### #is_/same_as :: [Roulette.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Roulette.protect.md) 
+
+### #is_/same_as :: [Roulette.private](/_private/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Roulette.private.md) 
+
+### #is_/same_as :: [Roulette.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Roulette.personal.md) 
+
+### #is_/same_as :: [Roulette.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Roulette.secret.md)
+

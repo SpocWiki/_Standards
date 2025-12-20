@@ -49,3 +49,22 @@ Commons_category: Remember (Irving Berlin song)
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Remember(Irving_Berlin_song)](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).md) 
+
+### #is_/same_as :: [Remember(Irving_Berlin_song).public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).public.md) 
+
+### #is_/same_as :: [Remember(Irving_Berlin_song).internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).internal.md) 
+
+### #is_/same_as :: [Remember(Irving_Berlin_song).protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).protect.md) 
+
+### #is_/same_as :: [Remember(Irving_Berlin_song).private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).private.md) 
+
+### #is_/same_as :: [Remember(Irving_Berlin_song).personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).personal.md) 
+
+### #is_/same_as :: [Remember(Irving_Berlin_song).secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).secret.md)
+

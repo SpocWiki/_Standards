@@ -140,3 +140,22 @@ short_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Danish%20language) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-dan](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.md) 
+
+### #is_/same_as :: [Lang-dan.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.public.md) 
+
+### #is_/same_as :: [Lang-dan.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.internal.md) 
+
+### #is_/same_as :: [Lang-dan.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.protect.md) 
+
+### #is_/same_as :: [Lang-dan.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.private.md) 
+
+### #is_/same_as :: [Lang-dan.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.personal.md) 
+
+### #is_/same_as :: [Lang-dan.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.secret.md)
+

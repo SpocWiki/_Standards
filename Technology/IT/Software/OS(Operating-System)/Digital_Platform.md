@@ -46,17 +46,17 @@ Additional codes can be suggested <a href="https://github.com/schemaorg/schemaor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Digital_Platform](Digital_Platform.md) 
+### #is_/same_as :: [Digital_Platform](/_Standards/Technology/IT/Software/OS(Operating-System)/Digital_Platform.md) 
 
-### #is_/same_as :: [digital_platform_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.public.md) 
+### #is_/same_as :: [Digital_Platform.public](/_public/Technology/IT/Software/OS(Operating-System)/Digital_Platform.public.md) 
 
-### #is_/same_as :: [digital_platform_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.internal.md) 
+### #is_/same_as :: [Digital_Platform.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Digital_Platform.internal.md) 
 
-### #is_/same_as :: [digital_platform_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.protect.md) 
+### #is_/same_as :: [Digital_Platform.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Digital_Platform.protect.md) 
 
-### #is_/same_as :: [digital_platform_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.private.md) 
+### #is_/same_as :: [Digital_Platform.private](/_private/Technology/IT/Software/OS(Operating-System)/Digital_Platform.private.md) 
 
-### #is_/same_as :: [digital_platform_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.personal.md) 
+### #is_/same_as :: [Digital_Platform.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Digital_Platform.personal.md) 
 
-### #is_/same_as :: [digital_platform_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.secret.md)
+### #is_/same_as :: [Digital_Platform.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Digital_Platform.secret.md)
 

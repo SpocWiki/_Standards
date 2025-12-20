@@ -28,7 +28,7 @@ title: Geoglossaceae
 -   *Trichoglossum*
 -   *Sarcoleotia*
 
-Containing group:[Pezizomycotina](../Pezizomycotina.md))
+Containing group:[Pezizomycotina](../Pezizomycotina.md))
 
 
 ## Confidential Links & Embeds: 

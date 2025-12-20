@@ -49,3 +49,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Noise) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Noise](/_Standards/Science/Physics/Wave/Acoustics/Noise.md) 
+
+### #is_/same_as :: [Noise.public](/_public/Science/Physics/Wave/Acoustics/Noise.public.md) 
+
+### #is_/same_as :: [Noise.internal](/_internal/Science/Physics/Wave/Acoustics/Noise.internal.md) 
+
+### #is_/same_as :: [Noise.protect](/_protect/Science/Physics/Wave/Acoustics/Noise.protect.md) 
+
+### #is_/same_as :: [Noise.private](/_private/Science/Physics/Wave/Acoustics/Noise.private.md) 
+
+### #is_/same_as :: [Noise.personal](/_personal/Science/Physics/Wave/Acoustics/Noise.personal.md) 
+
+### #is_/same_as :: [Noise.secret](/_secret/Science/Physics/Wave/Acoustics/Noise.secret.md)
+

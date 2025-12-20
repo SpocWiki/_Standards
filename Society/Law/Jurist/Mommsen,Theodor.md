@@ -173,3 +173,22 @@ Krugosvet_article_archived_: istoriya/MOMMZEN_TEODOR.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theodor%20Mommsen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mommsen,Theodor](/_Standards/Society/Law/Jurist/Mommsen,Theodor.md) 
+
+### #is_/same_as :: [Mommsen,Theodor.public](/_public/Society/Law/Jurist/Mommsen,Theodor.public.md) 
+
+### #is_/same_as :: [Mommsen,Theodor.internal](/_internal/Society/Law/Jurist/Mommsen,Theodor.internal.md) 
+
+### #is_/same_as :: [Mommsen,Theodor.protect](/_protect/Society/Law/Jurist/Mommsen,Theodor.protect.md) 
+
+### #is_/same_as :: [Mommsen,Theodor.private](/_private/Society/Law/Jurist/Mommsen,Theodor.private.md) 
+
+### #is_/same_as :: [Mommsen,Theodor.personal](/_personal/Society/Law/Jurist/Mommsen,Theodor.personal.md) 
+
+### #is_/same_as :: [Mommsen,Theodor.secret](/_secret/Society/Law/Jurist/Mommsen,Theodor.secret.md)
+

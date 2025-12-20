@@ -53,3 +53,22 @@ short_name: UTC
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Coordinated%20Universal%20Time) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [UTC(Coordinated_Universal_Time)](/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).md) 
+
+### #is_/same_as :: [UTC(Coordinated_Universal_Time).public](/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).public.md) 
+
+### #is_/same_as :: [UTC(Coordinated_Universal_Time).internal](/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).internal.md) 
+
+### #is_/same_as :: [UTC(Coordinated_Universal_Time).protect](/_protect/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).protect.md) 
+
+### #is_/same_as :: [UTC(Coordinated_Universal_Time).private](/_private/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).private.md) 
+
+### #is_/same_as :: [UTC(Coordinated_Universal_Time).personal](/_personal/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).personal.md) 
+
+### #is_/same_as :: [UTC(Coordinated_Universal_Time).secret](/_secret/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).secret.md)
+

@@ -52,3 +52,21 @@ coordinate_location: Point(13.3825 52.507222)
 > The Gestapo committed widespread atrocities during its existence. The power of the Gestapo was used to focus upon political opponents, ideological dissenters (clergy and religious organisations), career criminals, the Sinti and Roma population, handicapped persons, homosexuals, and, above all, the Jews. Those arrested by the Gestapo were often held without judicial process, and political prisoners throughout Germany—and from 1941, throughout the occupied territories under the Night and Fog Decree (German: Nacht und Nebel)—simply disappeared while in Gestapo custody. Contrary to popular perception, the Gestapo was actually a relatively small organization with limited surveillance capability; still it proved extremely effective due to the willingness of ordinary Germans to report on fellow citizens. During World War II, the Gestapo played a key role in the Holocaust. After the war ended, the Gestapo was declared a criminal organisation by the International Military Tribunal (IMT) at the Nuremberg trials, and several top Gestapo members were sentenced to death.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gestapo)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gestapo](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/Gestapo.md) 
+
+### #is_/same_as :: [Gestapo.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/Gestapo.public.md) 
+
+### #is_/same_as :: [Gestapo.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/Gestapo.internal.md) 
+
+### #is_/same_as :: [Gestapo.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/Gestapo.protect.md) 
+
+### #is_/same_as :: [Gestapo.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/Gestapo.private.md) 
+
+### #is_/same_as :: [Gestapo.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/Gestapo.personal.md) 
+
+### #is_/same_as :: [Gestapo.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/Gestapo.secret.md)
+

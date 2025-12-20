@@ -74,3 +74,22 @@ NBN_System_Key: NHMSYS0000462196
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pear)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Peartree](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Peartree.md) 
+
+### #is_/same_as :: [Peartree.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Peartree.public.md) 
+
+### #is_/same_as :: [Peartree.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Peartree.internal.md) 
+
+### #is_/same_as :: [Peartree.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Peartree.protect.md) 
+
+### #is_/same_as :: [Peartree.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Peartree.private.md) 
+
+### #is_/same_as :: [Peartree.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Peartree.personal.md) 
+
+### #is_/same_as :: [Peartree.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae/Maleae/Peartree.secret.md)
+

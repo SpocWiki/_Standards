@@ -30,3 +30,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ceratopsia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ceratopsia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia.md) 
+
+### #is_/same_as :: [Ceratopsia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia.public.md) 
+
+### #is_/same_as :: [Ceratopsia.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia.internal.md) 
+
+### #is_/same_as :: [Ceratopsia.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia.protect.md) 
+
+### #is_/same_as :: [Ceratopsia.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia.private.md) 
+
+### #is_/same_as :: [Ceratopsia.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia.personal.md) 
+
+### #is_/same_as :: [Ceratopsia.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia.secret.md)
+

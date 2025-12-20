@@ -49,3 +49,22 @@ Commons_category: Smuggling
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Smuggling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Smuggling](/_Standards/Society/Law/Criminal_Law/Crime/Smuggling.md) 
+
+### #is_/same_as :: [Smuggling.public](/_public/Society/Law/Criminal_Law/Crime/Smuggling.public.md) 
+
+### #is_/same_as :: [Smuggling.internal](/_internal/Society/Law/Criminal_Law/Crime/Smuggling.internal.md) 
+
+### #is_/same_as :: [Smuggling.protect](/_protect/Society/Law/Criminal_Law/Crime/Smuggling.protect.md) 
+
+### #is_/same_as :: [Smuggling.private](/_private/Society/Law/Criminal_Law/Crime/Smuggling.private.md) 
+
+### #is_/same_as :: [Smuggling.personal](/_personal/Society/Law/Criminal_Law/Crime/Smuggling.personal.md) 
+
+### #is_/same_as :: [Smuggling.secret](/_secret/Society/Law/Criminal_Law/Crime/Smuggling.secret.md)
+

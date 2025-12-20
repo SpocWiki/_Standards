@@ -27,3 +27,22 @@ subreddit: handtools
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hand%20tool) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hand_Tool](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool.md) 
+
+### #is_/same_as :: [Hand_Tool.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool.public.md) 
+
+### #is_/same_as :: [Hand_Tool.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool.internal.md) 
+
+### #is_/same_as :: [Hand_Tool.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool.protect.md) 
+
+### #is_/same_as :: [Hand_Tool.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool.private.md) 
+
+### #is_/same_as :: [Hand_Tool.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool.personal.md) 
+
+### #is_/same_as :: [Hand_Tool.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool.secret.md)
+

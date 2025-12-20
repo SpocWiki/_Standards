@@ -29,3 +29,22 @@ Commons_category: Short films
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Short%20film) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Short_Film](/_Standards/Society/Communication/Media/Movie/Short_Film.md) 
+
+### #is_/same_as :: [Short_Film.public](/_public/Society/Communication/Media/Movie/Short_Film.public.md) 
+
+### #is_/same_as :: [Short_Film.internal](/_internal/Society/Communication/Media/Movie/Short_Film.internal.md) 
+
+### #is_/same_as :: [Short_Film.protect](/_protect/Society/Communication/Media/Movie/Short_Film.protect.md) 
+
+### #is_/same_as :: [Short_Film.private](/_private/Society/Communication/Media/Movie/Short_Film.private.md) 
+
+### #is_/same_as :: [Short_Film.personal](/_personal/Society/Communication/Media/Movie/Short_Film.personal.md) 
+
+### #is_/same_as :: [Short_Film.secret](/_secret/Society/Communication/Media/Movie/Short_Film.secret.md)
+

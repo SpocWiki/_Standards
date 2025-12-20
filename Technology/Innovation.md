@@ -56,3 +56,22 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Tip-of-the-day-bulb-%28
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Innovation)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Innovation](/_Standards/Technology/Innovation.md) 
+
+### #is_/same_as :: [Innovation.public](/_public/Technology/Innovation.public.md) 
+
+### #is_/same_as :: [Innovation.internal](/_internal/Technology/Innovation.internal.md) 
+
+### #is_/same_as :: [Innovation.protect](/_protect/Technology/Innovation.protect.md) 
+
+### #is_/same_as :: [Innovation.private](/_private/Technology/Innovation.private.md) 
+
+### #is_/same_as :: [Innovation.personal](/_personal/Technology/Innovation.personal.md) 
+
+### #is_/same_as :: [Innovation.secret](/_secret/Technology/Innovation.secret.md)
+

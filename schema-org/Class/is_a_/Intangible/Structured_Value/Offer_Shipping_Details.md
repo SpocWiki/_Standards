@@ -52,17 +52,17 @@ or Fast and expensive: $15 in 1-2 days.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [offer_shipping_details](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/offer_shipping_details.md) 
+### #is_/same_as :: [Offer_Shipping_Details](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.md) 
 
-### #is_/same_as :: [offer_shipping_details.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/offer_shipping_details.public.md) 
+### #is_/same_as :: [Offer_Shipping_Details.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.public.md) 
 
-### #is_/same_as :: [offer_shipping_details.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/offer_shipping_details.internal.md) 
+### #is_/same_as :: [Offer_Shipping_Details.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.internal.md) 
 
-### #is_/same_as :: [offer_shipping_details.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/offer_shipping_details.protect.md) 
+### #is_/same_as :: [Offer_Shipping_Details.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.protect.md) 
 
-### #is_/same_as :: [offer_shipping_details.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/offer_shipping_details.private.md) 
+### #is_/same_as :: [Offer_Shipping_Details.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.private.md) 
 
-### #is_/same_as :: [offer_shipping_details.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/offer_shipping_details.personal.md) 
+### #is_/same_as :: [Offer_Shipping_Details.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.personal.md) 
 
-### #is_/same_as :: [offer_shipping_details.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/offer_shipping_details.secret.md)
+### #is_/same_as :: [Offer_Shipping_Details.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.secret.md)
 

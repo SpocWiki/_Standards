@@ -87,3 +87,22 @@ Commons_gallery: Measles
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Measles) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Measles](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.md) 
+
+### #is_/same_as :: [Measles.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.public.md) 
+
+### #is_/same_as :: [Measles.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.internal.md) 
+
+### #is_/same_as :: [Measles.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.protect.md) 
+
+### #is_/same_as :: [Measles.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.private.md) 
+
+### #is_/same_as :: [Measles.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.personal.md) 
+
+### #is_/same_as :: [Measles.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.secret.md)
+

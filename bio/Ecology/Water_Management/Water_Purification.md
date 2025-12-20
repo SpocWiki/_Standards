@@ -65,3 +65,22 @@ Dewey_Decimal_Classification: "628.162"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Water%20purification) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Water_Purification](/_Standards/bio/Ecology/Water_Management/Water_Purification.md) 
+
+### #is_/same_as :: [Water_Purification.public](/_public/bio/Ecology/Water_Management/Water_Purification.public.md) 
+
+### #is_/same_as :: [Water_Purification.internal](/_internal/bio/Ecology/Water_Management/Water_Purification.internal.md) 
+
+### #is_/same_as :: [Water_Purification.protect](/_protect/bio/Ecology/Water_Management/Water_Purification.protect.md) 
+
+### #is_/same_as :: [Water_Purification.private](/_private/bio/Ecology/Water_Management/Water_Purification.private.md) 
+
+### #is_/same_as :: [Water_Purification.personal](/_personal/bio/Ecology/Water_Management/Water_Purification.personal.md) 
+
+### #is_/same_as :: [Water_Purification.secret](/_secret/bio/Ecology/Water_Management/Water_Purification.secret.md)
+

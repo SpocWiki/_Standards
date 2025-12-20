@@ -99,3 +99,22 @@ Plex_person_key: 5d7768284de0ee001fcc8dd1
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Sellers) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sellers,Peter](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.md) 
+
+### #is_/same_as :: [Sellers,Peter.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.public.md) 
+
+### #is_/same_as :: [Sellers,Peter.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.internal.md) 
+
+### #is_/same_as :: [Sellers,Peter.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.protect.md) 
+
+### #is_/same_as :: [Sellers,Peter.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.private.md) 
+
+### #is_/same_as :: [Sellers,Peter.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.personal.md) 
+
+### #is_/same_as :: [Sellers,Peter.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.secret.md)
+

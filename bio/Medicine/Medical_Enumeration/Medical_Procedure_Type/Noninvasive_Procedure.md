@@ -40,17 +40,17 @@ A type of medical procedure that involves noninvasive techniques.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [noninvasive_procedure](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.md) 
+### #is_/same_as :: [Noninvasive_Procedure](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Noninvasive_Procedure.md) 
 
-### #is_/same_as :: [noninvasive_procedure.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.public.md) 
+### #is_/same_as :: [Noninvasive_Procedure.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Noninvasive_Procedure.public.md) 
 
-### #is_/same_as :: [noninvasive_procedure.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.internal.md) 
+### #is_/same_as :: [Noninvasive_Procedure.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Noninvasive_Procedure.internal.md) 
 
-### #is_/same_as :: [noninvasive_procedure.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.protect.md) 
+### #is_/same_as :: [Noninvasive_Procedure.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Noninvasive_Procedure.protect.md) 
 
-### #is_/same_as :: [noninvasive_procedure.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.private.md) 
+### #is_/same_as :: [Noninvasive_Procedure.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Noninvasive_Procedure.private.md) 
 
-### #is_/same_as :: [noninvasive_procedure.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.personal.md) 
+### #is_/same_as :: [Noninvasive_Procedure.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Noninvasive_Procedure.personal.md) 
 
-### #is_/same_as :: [noninvasive_procedure.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.secret.md)
+### #is_/same_as :: [Noninvasive_Procedure.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type/Noninvasive_Procedure.secret.md)
 

@@ -112,3 +112,22 @@ ISNI: "0000000120959583"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean%20Piaget) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Piaget,Jean](/_Standards/bio/Psychology/Psychologist/Piaget,Jean.md) 
+
+### #is_/same_as :: [Piaget,Jean.public](/_public/bio/Psychology/Psychologist/Piaget,Jean.public.md) 
+
+### #is_/same_as :: [Piaget,Jean.internal](/_internal/bio/Psychology/Psychologist/Piaget,Jean.internal.md) 
+
+### #is_/same_as :: [Piaget,Jean.protect](/_protect/bio/Psychology/Psychologist/Piaget,Jean.protect.md) 
+
+### #is_/same_as :: [Piaget,Jean.private](/_private/bio/Psychology/Psychologist/Piaget,Jean.private.md) 
+
+### #is_/same_as :: [Piaget,Jean.personal](/_personal/bio/Psychology/Psychologist/Piaget,Jean.personal.md) 
+
+### #is_/same_as :: [Piaget,Jean.secret](/_secret/bio/Psychology/Psychologist/Piaget,Jean.secret.md)
+

@@ -20,3 +20,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carom%20billiards) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carom_Billiards](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Carom_Billiards.md) 
+
+### #is_/same_as :: [Carom_Billiards.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Carom_Billiards.public.md) 
+
+### #is_/same_as :: [Carom_Billiards.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Carom_Billiards.internal.md) 
+
+### #is_/same_as :: [Carom_Billiards.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Carom_Billiards.protect.md) 
+
+### #is_/same_as :: [Carom_Billiards.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Carom_Billiards.private.md) 
+
+### #is_/same_as :: [Carom_Billiards.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Carom_Billiards.personal.md) 
+
+### #is_/same_as :: [Carom_Billiards.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Carom_Billiards.secret.md)
+

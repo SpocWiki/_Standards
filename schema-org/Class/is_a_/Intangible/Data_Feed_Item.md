@@ -39,17 +39,17 @@ A single item within a larger data feed.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [data_feed_item](/_Standards/schema-org/Class/is_a_/Intangible/data_feed_item.md) 
+### #is_/same_as :: [Data_Feed_Item](/_Standards/schema-org/Class/is_a_/Intangible/Data_Feed_Item.md) 
 
-### #is_/same_as :: [data_feed_item.public](/_public/schema-org/Class/is_a_/Intangible/data_feed_item.public.md) 
+### #is_/same_as :: [Data_Feed_Item.public](/_public/schema-org/Class/is_a_/Intangible/Data_Feed_Item.public.md) 
 
-### #is_/same_as :: [data_feed_item.internal](/_internal/schema-org/Class/is_a_/Intangible/data_feed_item.internal.md) 
+### #is_/same_as :: [Data_Feed_Item.internal](/_internal/schema-org/Class/is_a_/Intangible/Data_Feed_Item.internal.md) 
 
-### #is_/same_as :: [data_feed_item.protect](/_protect/schema-org/Class/is_a_/Intangible/data_feed_item.protect.md) 
+### #is_/same_as :: [Data_Feed_Item.protect](/_protect/schema-org/Class/is_a_/Intangible/Data_Feed_Item.protect.md) 
 
-### #is_/same_as :: [data_feed_item.private](/_private/schema-org/Class/is_a_/Intangible/data_feed_item.private.md) 
+### #is_/same_as :: [Data_Feed_Item.private](/_private/schema-org/Class/is_a_/Intangible/Data_Feed_Item.private.md) 
 
-### #is_/same_as :: [data_feed_item.personal](/_personal/schema-org/Class/is_a_/Intangible/data_feed_item.personal.md) 
+### #is_/same_as :: [Data_Feed_Item.personal](/_personal/schema-org/Class/is_a_/Intangible/Data_Feed_Item.personal.md) 
 
-### #is_/same_as :: [data_feed_item.secret](/_secret/schema-org/Class/is_a_/Intangible/data_feed_item.secret.md)
+### #is_/same_as :: [Data_Feed_Item.secret](/_secret/schema-org/Class/is_a_/Intangible/Data_Feed_Item.secret.md)
 

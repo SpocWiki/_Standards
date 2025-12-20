@@ -76,3 +76,22 @@ Baidu_Tieba_name: 珍珠
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pearl) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pearl](/_Standards/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.md) 
+
+### #is_/same_as :: [Pearl.public](/_public/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.public.md) 
+
+### #is_/same_as :: [Pearl.internal](/_internal/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.internal.md) 
+
+### #is_/same_as :: [Pearl.protect](/_protect/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.protect.md) 
+
+### #is_/same_as :: [Pearl.private](/_private/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.private.md) 
+
+### #is_/same_as :: [Pearl.personal](/_personal/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.personal.md) 
+
+### #is_/same_as :: [Pearl.secret](/_secret/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.secret.md)
+

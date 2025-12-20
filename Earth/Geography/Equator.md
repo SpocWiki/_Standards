@@ -52,3 +52,22 @@ Commons_category: Equator
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Equator) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Equator](/_Standards/Earth/Geography/Equator.md) 
+
+### #is_/same_as :: [Equator.public](/_public/Earth/Geography/Equator.public.md) 
+
+### #is_/same_as :: [Equator.internal](/_internal/Earth/Geography/Equator.internal.md) 
+
+### #is_/same_as :: [Equator.protect](/_protect/Earth/Geography/Equator.protect.md) 
+
+### #is_/same_as :: [Equator.private](/_private/Earth/Geography/Equator.private.md) 
+
+### #is_/same_as :: [Equator.personal](/_personal/Earth/Geography/Equator.personal.md) 
+
+### #is_/same_as :: [Equator.secret](/_secret/Earth/Geography/Equator.secret.md)
+

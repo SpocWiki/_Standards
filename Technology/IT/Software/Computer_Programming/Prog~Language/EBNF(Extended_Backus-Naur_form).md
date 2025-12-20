@@ -64,3 +64,22 @@ private static readonly Parser<IEnumerable<string>> ArgumentListParser =
     select new[] { first }.Concat(rest);
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [EBNF(Extended_Backus-Naur_form)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).md) 
+
+### #is_/same_as :: [EBNF(Extended_Backus-Naur_form).public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).public.md) 
+
+### #is_/same_as :: [EBNF(Extended_Backus-Naur_form).internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).internal.md) 
+
+### #is_/same_as :: [EBNF(Extended_Backus-Naur_form).protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).protect.md) 
+
+### #is_/same_as :: [EBNF(Extended_Backus-Naur_form).private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).private.md) 
+
+### #is_/same_as :: [EBNF(Extended_Backus-Naur_form).personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).personal.md) 
+
+### #is_/same_as :: [EBNF(Extended_Backus-Naur_form).secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).secret.md)
+

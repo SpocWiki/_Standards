@@ -135,3 +135,22 @@ Plex_person_key: 5d7768377e9a3c0020c6d3a5
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eric%20Clapton) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Clapton,Eric](/_Standards/Society/Communication/Media/Music/Musician/Singer/Clapton,Eric.md) 
+
+### #is_/same_as :: [Clapton,Eric.public](/_public/Society/Communication/Media/Music/Musician/Singer/Clapton,Eric.public.md) 
+
+### #is_/same_as :: [Clapton,Eric.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Clapton,Eric.internal.md) 
+
+### #is_/same_as :: [Clapton,Eric.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Clapton,Eric.protect.md) 
+
+### #is_/same_as :: [Clapton,Eric.private](/_private/Society/Communication/Media/Music/Musician/Singer/Clapton,Eric.private.md) 
+
+### #is_/same_as :: [Clapton,Eric.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Clapton,Eric.personal.md) 
+
+### #is_/same_as :: [Clapton,Eric.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Clapton,Eric.secret.md)
+

@@ -28,3 +28,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz%20Nowak%20in
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Exploration) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Exploration](/_Standards/Earth/Explorer/Exploration.md) 
+
+### #is_/same_as :: [Exploration.public](/_public/Earth/Explorer/Exploration.public.md) 
+
+### #is_/same_as :: [Exploration.internal](/_internal/Earth/Explorer/Exploration.internal.md) 
+
+### #is_/same_as :: [Exploration.protect](/_protect/Earth/Explorer/Exploration.protect.md) 
+
+### #is_/same_as :: [Exploration.private](/_private/Earth/Explorer/Exploration.private.md) 
+
+### #is_/same_as :: [Exploration.personal](/_personal/Earth/Explorer/Exploration.personal.md) 
+
+### #is_/same_as :: [Exploration.secret](/_secret/Earth/Explorer/Exploration.secret.md)
+

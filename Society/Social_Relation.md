@@ -25,3 +25,22 @@ Commons_category: Social interaction
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20relation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Relation](/_Standards/Society/Social_Relation.md) 
+
+### #is_/same_as :: [Social_Relation.public](/_public/Society/Social_Relation.public.md) 
+
+### #is_/same_as :: [Social_Relation.internal](/_internal/Society/Social_Relation.internal.md) 
+
+### #is_/same_as :: [Social_Relation.protect](/_protect/Society/Social_Relation.protect.md) 
+
+### #is_/same_as :: [Social_Relation.private](/_private/Society/Social_Relation.private.md) 
+
+### #is_/same_as :: [Social_Relation.personal](/_personal/Society/Social_Relation.personal.md) 
+
+### #is_/same_as :: [Social_Relation.secret](/_secret/Society/Social_Relation.secret.md)
+

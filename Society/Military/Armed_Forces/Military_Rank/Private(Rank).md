@@ -48,3 +48,22 @@ male_form_of_label: eilinis
 > [Wikipedia](https://en.wikipedia.org/wiki/Private%20(rank)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Private(Rank)](/_Standards/Society/Military/Armed_Forces/Military_Rank/Private(Rank).md) 
+
+### #is_/same_as :: [Private(Rank).public](/_public/Society/Military/Armed_Forces/Military_Rank/Private(Rank).public.md) 
+
+### #is_/same_as :: [Private(Rank).internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Private(Rank).internal.md) 
+
+### #is_/same_as :: [Private(Rank).protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Private(Rank).protect.md) 
+
+### #is_/same_as :: [Private(Rank).private](/_private/Society/Military/Armed_Forces/Military_Rank/Private(Rank).private.md) 
+
+### #is_/same_as :: [Private(Rank).personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Private(Rank).personal.md) 
+
+### #is_/same_as :: [Private(Rank).secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Private(Rank).secret.md)
+

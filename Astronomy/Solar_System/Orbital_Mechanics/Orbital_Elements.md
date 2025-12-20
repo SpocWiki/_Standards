@@ -43,3 +43,22 @@ different_from: "[[_Standards/WikiData/WD~Keplerian_elements,78147576]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbital%20elements) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orbital_Elements](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.md) 
+
+### #is_/same_as :: [Orbital_Elements.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.public.md) 
+
+### #is_/same_as :: [Orbital_Elements.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.internal.md) 
+
+### #is_/same_as :: [Orbital_Elements.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.protect.md) 
+
+### #is_/same_as :: [Orbital_Elements.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.private.md) 
+
+### #is_/same_as :: [Orbital_Elements.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.personal.md) 
+
+### #is_/same_as :: [Orbital_Elements.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.secret.md)
+

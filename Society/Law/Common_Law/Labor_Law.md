@@ -43,3 +43,22 @@ Commons_category: Labour law
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Labour%20law) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Labor_Law](/_Standards/Society/Law/Common_Law/Labor_Law.md) 
+
+### #is_/same_as :: [Labor_Law.public](/_public/Society/Law/Common_Law/Labor_Law.public.md) 
+
+### #is_/same_as :: [Labor_Law.internal](/_internal/Society/Law/Common_Law/Labor_Law.internal.md) 
+
+### #is_/same_as :: [Labor_Law.protect](/_protect/Society/Law/Common_Law/Labor_Law.protect.md) 
+
+### #is_/same_as :: [Labor_Law.private](/_private/Society/Law/Common_Law/Labor_Law.private.md) 
+
+### #is_/same_as :: [Labor_Law.personal](/_personal/Society/Law/Common_Law/Labor_Law.personal.md) 
+
+### #is_/same_as :: [Labor_Law.secret](/_secret/Society/Law/Common_Law/Labor_Law.secret.md)
+

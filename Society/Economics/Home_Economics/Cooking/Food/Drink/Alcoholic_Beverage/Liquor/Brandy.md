@@ -32,17 +32,17 @@ has_id_wikidata: Q146470
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brandy](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Brandy.md) 
+### #is_/same_as :: [Brandy](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.md) 
 
-### #is_/same_as :: [Brandy.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Brandy.public.md) 
+### #is_/same_as :: [Brandy.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.public.md) 
 
-### #is_/same_as :: [Brandy.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Brandy.internal.md) 
+### #is_/same_as :: [Brandy.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.internal.md) 
 
-### #is_/same_as :: [Brandy.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Brandy.protect.md) 
+### #is_/same_as :: [Brandy.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.protect.md) 
 
-### #is_/same_as :: [Brandy.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Brandy.private.md) 
+### #is_/same_as :: [Brandy.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.private.md) 
 
-### #is_/same_as :: [Brandy.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Brandy.personal.md) 
+### #is_/same_as :: [Brandy.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.personal.md) 
 
-### #is_/same_as :: [Brandy.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Brandy.secret.md)
+### #is_/same_as :: [Brandy.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Brandy.secret.md)
 

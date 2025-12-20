@@ -160,3 +160,22 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Hemingway%20T
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ernest%20Hemingway) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hemingway,Ernest](/_Standards/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.md) 
+
+### #is_/same_as :: [Hemingway,Ernest.public](/_public/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.public.md) 
+
+### #is_/same_as :: [Hemingway,Ernest.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.internal.md) 
+
+### #is_/same_as :: [Hemingway,Ernest.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.protect.md) 
+
+### #is_/same_as :: [Hemingway,Ernest.private](/_private/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.private.md) 
+
+### #is_/same_as :: [Hemingway,Ernest.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.personal.md) 
+
+### #is_/same_as :: [Hemingway,Ernest.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.secret.md)
+

@@ -48,3 +48,22 @@ Commons_category: Ores
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ore) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ore](/_Standards/Earth/Geology/Mineral/Ore.md) 
+
+### #is_/same_as :: [Ore.public](/_public/Earth/Geology/Mineral/Ore.public.md) 
+
+### #is_/same_as :: [Ore.internal](/_internal/Earth/Geology/Mineral/Ore.internal.md) 
+
+### #is_/same_as :: [Ore.protect](/_protect/Earth/Geology/Mineral/Ore.protect.md) 
+
+### #is_/same_as :: [Ore.private](/_private/Earth/Geology/Mineral/Ore.private.md) 
+
+### #is_/same_as :: [Ore.personal](/_personal/Earth/Geology/Mineral/Ore.personal.md) 
+
+### #is_/same_as :: [Ore.secret](/_secret/Earth/Geology/Mineral/Ore.secret.md)
+

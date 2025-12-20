@@ -125,3 +125,22 @@ Stack_Exchange_tag: https://literature.stackexchange.com/tags/war-and-peace
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/War%20and%20Peace) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [War_and_Peace](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/War_and_Peace.md) 
+
+### #is_/same_as :: [War_and_Peace.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/War_and_Peace.public.md) 
+
+### #is_/same_as :: [War_and_Peace.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/War_and_Peace.internal.md) 
+
+### #is_/same_as :: [War_and_Peace.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/War_and_Peace.protect.md) 
+
+### #is_/same_as :: [War_and_Peace.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/War_and_Peace.private.md) 
+
+### #is_/same_as :: [War_and_Peace.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/War_and_Peace.personal.md) 
+
+### #is_/same_as :: [War_and_Peace.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/War_and_Peace.secret.md)
+

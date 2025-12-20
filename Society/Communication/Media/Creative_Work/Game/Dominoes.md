@@ -59,3 +59,22 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Domino-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dominoes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dominoes](/_Standards/Society/Communication/Media/Creative_Work/Game/Dominoes.md) 
+
+### #is_/same_as :: [Dominoes.public](/_public/Society/Communication/Media/Creative_Work/Game/Dominoes.public.md) 
+
+### #is_/same_as :: [Dominoes.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Dominoes.internal.md) 
+
+### #is_/same_as :: [Dominoes.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Dominoes.protect.md) 
+
+### #is_/same_as :: [Dominoes.private](/_private/Society/Communication/Media/Creative_Work/Game/Dominoes.private.md) 
+
+### #is_/same_as :: [Dominoes.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Dominoes.personal.md) 
+
+### #is_/same_as :: [Dominoes.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Dominoes.secret.md)
+

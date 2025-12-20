@@ -42,3 +42,22 @@ Commons_category: Neckties
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Necktie) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Necktie](/_Standards/Technology/Tool/Clothing/Fashion/Necktie.md) 
+
+### #is_/same_as :: [Necktie.public](/_public/Technology/Tool/Clothing/Fashion/Necktie.public.md) 
+
+### #is_/same_as :: [Necktie.internal](/_internal/Technology/Tool/Clothing/Fashion/Necktie.internal.md) 
+
+### #is_/same_as :: [Necktie.protect](/_protect/Technology/Tool/Clothing/Fashion/Necktie.protect.md) 
+
+### #is_/same_as :: [Necktie.private](/_private/Technology/Tool/Clothing/Fashion/Necktie.private.md) 
+
+### #is_/same_as :: [Necktie.personal](/_personal/Technology/Tool/Clothing/Fashion/Necktie.personal.md) 
+
+### #is_/same_as :: [Necktie.secret](/_secret/Technology/Tool/Clothing/Fashion/Necktie.secret.md)
+

@@ -53,3 +53,22 @@ Dewey_Decimal_Classification: "153.42"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thought) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thinking](/_Standards/bio/Psychology/Cognition/Thinking.md) 
+
+### #is_/same_as :: [Thinking.public](/_public/bio/Psychology/Cognition/Thinking.public.md) 
+
+### #is_/same_as :: [Thinking.internal](/_internal/bio/Psychology/Cognition/Thinking.internal.md) 
+
+### #is_/same_as :: [Thinking.protect](/_protect/bio/Psychology/Cognition/Thinking.protect.md) 
+
+### #is_/same_as :: [Thinking.private](/_private/bio/Psychology/Cognition/Thinking.private.md) 
+
+### #is_/same_as :: [Thinking.personal](/_personal/bio/Psychology/Cognition/Thinking.personal.md) 
+
+### #is_/same_as :: [Thinking.secret](/_secret/bio/Psychology/Cognition/Thinking.secret.md)
+

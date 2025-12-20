@@ -111,7 +111,7 @@ ZVG_number: 12160
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Starch](Starch.md) 
+### #is_/same_as :: [Starch](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.md) 
 
 ### #is_/same_as :: [Starch.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.public.md) 
 

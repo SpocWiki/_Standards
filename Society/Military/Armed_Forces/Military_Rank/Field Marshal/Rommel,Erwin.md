@@ -118,3 +118,22 @@ birth_name: Johannes Erwin Eugen Rommel
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Erwin%20Rommel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rommel,Erwin](/_Standards/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.md) 
+
+### #is_/same_as :: [Rommel,Erwin.public](/_public/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.public.md) 
+
+### #is_/same_as :: [Rommel,Erwin.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.internal.md) 
+
+### #is_/same_as :: [Rommel,Erwin.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.protect.md) 
+
+### #is_/same_as :: [Rommel,Erwin.private](/_private/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.private.md) 
+
+### #is_/same_as :: [Rommel,Erwin.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.personal.md) 
+
+### #is_/same_as :: [Rommel,Erwin.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.secret.md)
+

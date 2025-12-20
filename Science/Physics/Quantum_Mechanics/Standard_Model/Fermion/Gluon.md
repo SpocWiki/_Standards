@@ -28,3 +28,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gluon](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Gluon.md) 
+
+### #is_/same_as :: [Gluon.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Gluon.public.md) 
+
+### #is_/same_as :: [Gluon.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Gluon.internal.md) 
+
+### #is_/same_as :: [Gluon.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Gluon.protect.md) 
+
+### #is_/same_as :: [Gluon.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Gluon.private.md) 
+
+### #is_/same_as :: [Gluon.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Gluon.personal.md) 
+
+### #is_/same_as :: [Gluon.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Gluon.secret.md)
+

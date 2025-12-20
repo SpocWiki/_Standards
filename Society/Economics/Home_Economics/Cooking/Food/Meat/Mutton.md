@@ -35,3 +35,22 @@ UNII: XEN0DR371D
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lamb%20and%20mutton) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mutton](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.md) 
+
+### #is_/same_as :: [Mutton.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.public.md) 
+
+### #is_/same_as :: [Mutton.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.internal.md) 
+
+### #is_/same_as :: [Mutton.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.protect.md) 
+
+### #is_/same_as :: [Mutton.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.private.md) 
+
+### #is_/same_as :: [Mutton.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.personal.md) 
+
+### #is_/same_as :: [Mutton.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.secret.md)
+

@@ -68,3 +68,22 @@ name_in_native_language: Ward Cunningham
 
 The best way to get the right answer on the Internet is not to ask a question; It's to post the wrong answer. 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cunningham,Ward](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Cunningham,Ward.md) 
+
+### #is_/same_as :: [Cunningham,Ward.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Cunningham,Ward.public.md) 
+
+### #is_/same_as :: [Cunningham,Ward.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Cunningham,Ward.internal.md) 
+
+### #is_/same_as :: [Cunningham,Ward.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Cunningham,Ward.protect.md) 
+
+### #is_/same_as :: [Cunningham,Ward.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Cunningham,Ward.private.md) 
+
+### #is_/same_as :: [Cunningham,Ward.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Cunningham,Ward.personal.md) 
+
+### #is_/same_as :: [Cunningham,Ward.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Cunningham,Ward.secret.md)
+

@@ -91,3 +91,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Oman%20Symphon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orchestra)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orchestra](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.md) 
+
+### #is_/same_as :: [Orchestra.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.public.md) 
+
+### #is_/same_as :: [Orchestra.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.internal.md) 
+
+### #is_/same_as :: [Orchestra.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.protect.md) 
+
+### #is_/same_as :: [Orchestra.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.private.md) 
+
+### #is_/same_as :: [Orchestra.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.personal.md) 
+
+### #is_/same_as :: [Orchestra.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.secret.md)
+

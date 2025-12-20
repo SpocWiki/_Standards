@@ -100,3 +100,22 @@ Commons_category: Diethyl ether
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diethyl%20ether) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diethyl_Ether](/_Standards/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.md) 
+
+### #is_/same_as :: [Diethyl_Ether.public](/_public/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.public.md) 
+
+### #is_/same_as :: [Diethyl_Ether.internal](/_internal/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.internal.md) 
+
+### #is_/same_as :: [Diethyl_Ether.protect](/_protect/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.protect.md) 
+
+### #is_/same_as :: [Diethyl_Ether.private](/_private/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.private.md) 
+
+### #is_/same_as :: [Diethyl_Ether.personal](/_personal/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.personal.md) 
+
+### #is_/same_as :: [Diethyl_Ether.secret](/_secret/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.secret.md)
+

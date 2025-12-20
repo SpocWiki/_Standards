@@ -283,3 +283,22 @@ Europeana_entity: agent/base/60657
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Edgar%20Degas) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Degas,Edgar](/_Standards/Society/Communication/Art/Art_History/Impressionism/Degas,Edgar.md) 
+
+### #is_/same_as :: [Degas,Edgar.public](/_public/Society/Communication/Art/Art_History/Impressionism/Degas,Edgar.public.md) 
+
+### #is_/same_as :: [Degas,Edgar.internal](/_internal/Society/Communication/Art/Art_History/Impressionism/Degas,Edgar.internal.md) 
+
+### #is_/same_as :: [Degas,Edgar.protect](/_protect/Society/Communication/Art/Art_History/Impressionism/Degas,Edgar.protect.md) 
+
+### #is_/same_as :: [Degas,Edgar.private](/_private/Society/Communication/Art/Art_History/Impressionism/Degas,Edgar.private.md) 
+
+### #is_/same_as :: [Degas,Edgar.personal](/_personal/Society/Communication/Art/Art_History/Impressionism/Degas,Edgar.personal.md) 
+
+### #is_/same_as :: [Degas,Edgar.secret](/_secret/Society/Communication/Art/Art_History/Impressionism/Degas,Edgar.secret.md)
+

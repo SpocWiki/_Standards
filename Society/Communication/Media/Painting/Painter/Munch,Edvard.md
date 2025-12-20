@@ -250,3 +250,22 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/MUNK_EDVARD.ht
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Edvard%20Munch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Munch,Edvard](/_Standards/Society/Communication/Media/Painting/Painter/Munch,Edvard.md) 
+
+### #is_/same_as :: [Munch,Edvard.public](/_public/Society/Communication/Media/Painting/Painter/Munch,Edvard.public.md) 
+
+### #is_/same_as :: [Munch,Edvard.internal](/_internal/Society/Communication/Media/Painting/Painter/Munch,Edvard.internal.md) 
+
+### #is_/same_as :: [Munch,Edvard.protect](/_protect/Society/Communication/Media/Painting/Painter/Munch,Edvard.protect.md) 
+
+### #is_/same_as :: [Munch,Edvard.private](/_private/Society/Communication/Media/Painting/Painter/Munch,Edvard.private.md) 
+
+### #is_/same_as :: [Munch,Edvard.personal](/_personal/Society/Communication/Media/Painting/Painter/Munch,Edvard.personal.md) 
+
+### #is_/same_as :: [Munch,Edvard.secret](/_secret/Society/Communication/Media/Painting/Painter/Munch,Edvard.secret.md)
+

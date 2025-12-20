@@ -43,3 +43,22 @@ Commons_category: Soil science
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Soil%20science) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Soil_Science](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.md) 
+
+### #is_/same_as :: [Soil_Science.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.public.md) 
+
+### #is_/same_as :: [Soil_Science.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.internal.md) 
+
+### #is_/same_as :: [Soil_Science.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.protect.md) 
+
+### #is_/same_as :: [Soil_Science.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.private.md) 
+
+### #is_/same_as :: [Soil_Science.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.personal.md) 
+
+### #is_/same_as :: [Soil_Science.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.secret.md)
+

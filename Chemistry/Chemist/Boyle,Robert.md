@@ -117,3 +117,22 @@ Provenio_UUID: 7274d432-9780-4dbf-a79d-ec317dccbea8
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Boyle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Boyle,Robert](/_Standards/Chemistry/Chemist/Boyle,Robert.md) 
+
+### #is_/same_as :: [Boyle,Robert.public](/_public/Chemistry/Chemist/Boyle,Robert.public.md) 
+
+### #is_/same_as :: [Boyle,Robert.internal](/_internal/Chemistry/Chemist/Boyle,Robert.internal.md) 
+
+### #is_/same_as :: [Boyle,Robert.protect](/_protect/Chemistry/Chemist/Boyle,Robert.protect.md) 
+
+### #is_/same_as :: [Boyle,Robert.private](/_private/Chemistry/Chemist/Boyle,Robert.private.md) 
+
+### #is_/same_as :: [Boyle,Robert.personal](/_personal/Chemistry/Chemist/Boyle,Robert.personal.md) 
+
+### #is_/same_as :: [Boyle,Robert.secret](/_secret/Chemistry/Chemist/Boyle,Robert.secret.md)
+

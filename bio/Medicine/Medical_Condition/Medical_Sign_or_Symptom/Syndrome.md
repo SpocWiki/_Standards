@@ -58,3 +58,22 @@ Commons_category: Syndromes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Syndrome) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Syndrome](/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.md) 
+
+### #is_/same_as :: [Syndrome.public](/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.public.md) 
+
+### #is_/same_as :: [Syndrome.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.internal.md) 
+
+### #is_/same_as :: [Syndrome.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.protect.md) 
+
+### #is_/same_as :: [Syndrome.private](/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.private.md) 
+
+### #is_/same_as :: [Syndrome.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.personal.md) 
+
+### #is_/same_as :: [Syndrome.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.secret.md)
+

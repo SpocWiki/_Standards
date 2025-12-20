@@ -45,3 +45,22 @@ Terminologia_Histologica: H2.00.02.0.00002
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Epithelium) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Epithelium](/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.md) 
+
+### #is_/same_as :: [Epithelium.public](/_public/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.public.md) 
+
+### #is_/same_as :: [Epithelium.internal](/_internal/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.internal.md) 
+
+### #is_/same_as :: [Epithelium.protect](/_protect/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.protect.md) 
+
+### #is_/same_as :: [Epithelium.private](/_private/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.private.md) 
+
+### #is_/same_as :: [Epithelium.personal](/_personal/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.personal.md) 
+
+### #is_/same_as :: [Epithelium.secret](/_secret/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.secret.md)
+

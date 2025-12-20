@@ -68,3 +68,22 @@ IPTC_NewsCode: mediatopic/20000768
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Community) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Community](/_Standards/Society/Agent/Community.md) 
+
+### #is_/same_as :: [Community.public](/_public/Society/Agent/Community.public.md) 
+
+### #is_/same_as :: [Community.internal](/_internal/Society/Agent/Community.internal.md) 
+
+### #is_/same_as :: [Community.protect](/_protect/Society/Agent/Community.protect.md) 
+
+### #is_/same_as :: [Community.private](/_private/Society/Agent/Community.private.md) 
+
+### #is_/same_as :: [Community.personal](/_personal/Society/Agent/Community.personal.md) 
+
+### #is_/same_as :: [Community.secret](/_secret/Society/Agent/Community.secret.md)
+

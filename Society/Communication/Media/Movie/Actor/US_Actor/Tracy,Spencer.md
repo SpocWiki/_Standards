@@ -135,3 +135,22 @@ work_period_start_: 1921-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spencer%20Tracy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tracy,Spencer](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Tracy,Spencer.md) 
+
+### #is_/same_as :: [Tracy,Spencer.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Tracy,Spencer.public.md) 
+
+### #is_/same_as :: [Tracy,Spencer.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Tracy,Spencer.internal.md) 
+
+### #is_/same_as :: [Tracy,Spencer.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Tracy,Spencer.protect.md) 
+
+### #is_/same_as :: [Tracy,Spencer.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Tracy,Spencer.private.md) 
+
+### #is_/same_as :: [Tracy,Spencer.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Tracy,Spencer.personal.md) 
+
+### #is_/same_as :: [Tracy,Spencer.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Tracy,Spencer.secret.md)
+

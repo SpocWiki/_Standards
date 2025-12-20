@@ -33,3 +33,22 @@ parent_taxon: "[[../Xenarthra]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pilosa) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pilosa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa.md) 
+
+### #is_/same_as :: [Pilosa.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa.public.md) 
+
+### #is_/same_as :: [Pilosa.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa.internal.md) 
+
+### #is_/same_as :: [Pilosa.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa.protect.md) 
+
+### #is_/same_as :: [Pilosa.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa.private.md) 
+
+### #is_/same_as :: [Pilosa.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa.personal.md) 
+
+### #is_/same_as :: [Pilosa.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa.secret.md)
+

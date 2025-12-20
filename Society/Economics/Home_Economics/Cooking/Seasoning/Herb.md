@@ -54,3 +54,22 @@ Commons_category: Herbs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Herb) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Herb](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.md) 
+
+### #is_/same_as :: [Herb.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.public.md) 
+
+### #is_/same_as :: [Herb.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.internal.md) 
+
+### #is_/same_as :: [Herb.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.protect.md) 
+
+### #is_/same_as :: [Herb.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.private.md) 
+
+### #is_/same_as :: [Herb.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.personal.md) 
+
+### #is_/same_as :: [Herb.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.secret.md)
+

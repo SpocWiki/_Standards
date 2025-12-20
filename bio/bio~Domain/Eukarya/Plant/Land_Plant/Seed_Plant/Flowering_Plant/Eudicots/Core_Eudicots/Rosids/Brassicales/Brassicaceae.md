@@ -42,3 +42,22 @@ has_id_wikidata: Q156888
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brassicaceae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brassicaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae.md) 
+
+### #is_/same_as :: [Brassicaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae.public.md) 
+
+### #is_/same_as :: [Brassicaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae.internal.md) 
+
+### #is_/same_as :: [Brassicaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae.protect.md) 
+
+### #is_/same_as :: [Brassicaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae.private.md) 
+
+### #is_/same_as :: [Brassicaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae.personal.md) 
+
+### #is_/same_as :: [Brassicaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae.secret.md)
+

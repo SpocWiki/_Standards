@@ -44,3 +44,22 @@ IMDb_keyword: video-camera
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Video%20camera) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Video_Camera](/_Standards/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.md) 
+
+### #is_/same_as :: [Video_Camera.public](/_public/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.public.md) 
+
+### #is_/same_as :: [Video_Camera.internal](/_internal/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.internal.md) 
+
+### #is_/same_as :: [Video_Camera.protect](/_protect/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.protect.md) 
+
+### #is_/same_as :: [Video_Camera.private](/_private/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.private.md) 
+
+### #is_/same_as :: [Video_Camera.personal](/_personal/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.personal.md) 
+
+### #is_/same_as :: [Video_Camera.secret](/_secret/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.secret.md)
+

@@ -32,3 +32,22 @@ subreddit: StockMarket
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stock%20market) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stock_Market](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.md) 
+
+### #is_/same_as :: [Stock_Market.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.public.md) 
+
+### #is_/same_as :: [Stock_Market.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.internal.md) 
+
+### #is_/same_as :: [Stock_Market.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.protect.md) 
+
+### #is_/same_as :: [Stock_Market.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.private.md) 
+
+### #is_/same_as :: [Stock_Market.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.personal.md) 
+
+### #is_/same_as :: [Stock_Market.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.secret.md)
+

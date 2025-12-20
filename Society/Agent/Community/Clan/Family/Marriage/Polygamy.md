@@ -61,3 +61,22 @@ Commons_category: Polygamy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polygamy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polygamy](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Polygamy.md) 
+
+### #is_/same_as :: [Polygamy.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Polygamy.public.md) 
+
+### #is_/same_as :: [Polygamy.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Polygamy.internal.md) 
+
+### #is_/same_as :: [Polygamy.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Polygamy.protect.md) 
+
+### #is_/same_as :: [Polygamy.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Polygamy.private.md) 
+
+### #is_/same_as :: [Polygamy.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Polygamy.personal.md) 
+
+### #is_/same_as :: [Polygamy.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Polygamy.secret.md)
+

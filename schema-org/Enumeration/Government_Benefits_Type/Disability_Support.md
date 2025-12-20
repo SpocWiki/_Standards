@@ -42,17 +42,17 @@ DisabilitySupport: this is a benefit for disability support.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Disability_Support](Disability_Support.md) 
+### #is_/same_as :: [Disability_Support](/_Standards/schema-org/Enumeration/Government_Benefits_Type/Disability_Support.md) 
 
-### #is_/same_as :: [disability_support.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/disability_support.public.md) 
+### #is_/same_as :: [Disability_Support.public](/_public/schema-org/Enumeration/Government_Benefits_Type/Disability_Support.public.md) 
 
-### #is_/same_as :: [disability_support.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/disability_support.internal.md) 
+### #is_/same_as :: [Disability_Support.internal](/_internal/schema-org/Enumeration/Government_Benefits_Type/Disability_Support.internal.md) 
 
-### #is_/same_as :: [disability_support.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/disability_support.protect.md) 
+### #is_/same_as :: [Disability_Support.protect](/_protect/schema-org/Enumeration/Government_Benefits_Type/Disability_Support.protect.md) 
 
-### #is_/same_as :: [disability_support.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/disability_support.private.md) 
+### #is_/same_as :: [Disability_Support.private](/_private/schema-org/Enumeration/Government_Benefits_Type/Disability_Support.private.md) 
 
-### #is_/same_as :: [disability_support.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/disability_support.personal.md) 
+### #is_/same_as :: [Disability_Support.personal](/_personal/schema-org/Enumeration/Government_Benefits_Type/Disability_Support.personal.md) 
 
-### #is_/same_as :: [disability_support.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/disability_support.secret.md)
+### #is_/same_as :: [Disability_Support.secret](/_secret/schema-org/Enumeration/Government_Benefits_Type/Disability_Support.secret.md)
 

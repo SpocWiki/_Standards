@@ -157,3 +157,22 @@ native_label: Warner Music Group
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Warner_Music](/_Standards/Society/Communication/Media/Music/Music_Publisher/Warner_Music.md) 
+
+### #is_/same_as :: [Warner_Music.public](/_public/Society/Communication/Media/Music/Music_Publisher/Warner_Music.public.md) 
+
+### #is_/same_as :: [Warner_Music.internal](/_internal/Society/Communication/Media/Music/Music_Publisher/Warner_Music.internal.md) 
+
+### #is_/same_as :: [Warner_Music.protect](/_protect/Society/Communication/Media/Music/Music_Publisher/Warner_Music.protect.md) 
+
+### #is_/same_as :: [Warner_Music.private](/_private/Society/Communication/Media/Music/Music_Publisher/Warner_Music.private.md) 
+
+### #is_/same_as :: [Warner_Music.personal](/_personal/Society/Communication/Media/Music/Music_Publisher/Warner_Music.personal.md) 
+
+### #is_/same_as :: [Warner_Music.secret](/_secret/Society/Communication/Media/Music/Music_Publisher/Warner_Music.secret.md)
+

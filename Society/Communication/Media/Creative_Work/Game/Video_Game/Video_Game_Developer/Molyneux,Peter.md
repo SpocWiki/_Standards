@@ -64,3 +64,22 @@ birth_name: Peter Douglas Molyneux
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Molyneux) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Molyneux,Peter](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.md) 
+
+### #is_/same_as :: [Molyneux,Peter.public](/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.public.md) 
+
+### #is_/same_as :: [Molyneux,Peter.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.internal.md) 
+
+### #is_/same_as :: [Molyneux,Peter.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.protect.md) 
+
+### #is_/same_as :: [Molyneux,Peter.private](/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.private.md) 
+
+### #is_/same_as :: [Molyneux,Peter.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.personal.md) 
+
+### #is_/same_as :: [Molyneux,Peter.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.secret.md)
+

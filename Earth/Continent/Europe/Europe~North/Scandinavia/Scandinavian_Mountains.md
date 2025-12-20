@@ -13,3 +13,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scandinavian%20Mountains) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scandinavian_Mountains](/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.md) 
+
+### #is_/same_as :: [Scandinavian_Mountains.public](/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.public.md) 
+
+### #is_/same_as :: [Scandinavian_Mountains.internal](/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.internal.md) 
+
+### #is_/same_as :: [Scandinavian_Mountains.protect](/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.protect.md) 
+
+### #is_/same_as :: [Scandinavian_Mountains.private](/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.private.md) 
+
+### #is_/same_as :: [Scandinavian_Mountains.personal](/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.personal.md) 
+
+### #is_/same_as :: [Scandinavian_Mountains.secret](/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.secret.md)
+

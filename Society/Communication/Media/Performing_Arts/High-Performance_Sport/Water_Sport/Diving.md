@@ -43,3 +43,22 @@ Krugosvet_article: sport/PRIZHKI_V_VODU.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Diving%20(sport)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diving](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.md) 
+
+### #is_/same_as :: [Diving.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.public.md) 
+
+### #is_/same_as :: [Diving.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.internal.md) 
+
+### #is_/same_as :: [Diving.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.protect.md) 
+
+### #is_/same_as :: [Diving.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.private.md) 
+
+### #is_/same_as :: [Diving.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.personal.md) 
+
+### #is_/same_as :: [Diving.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.secret.md)
+

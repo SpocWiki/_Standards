@@ -60,3 +60,22 @@ Krugosvet_article_archived_: istoriya/SAMURA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Samurai) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Samurai](/_Standards/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.md) 
+
+### #is_/same_as :: [Samurai.public](/_public/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.public.md) 
+
+### #is_/same_as :: [Samurai.internal](/_internal/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.internal.md) 
+
+### #is_/same_as :: [Samurai.protect](/_protect/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.protect.md) 
+
+### #is_/same_as :: [Samurai.private](/_private/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.private.md) 
+
+### #is_/same_as :: [Samurai.personal](/_personal/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.personal.md) 
+
+### #is_/same_as :: [Samurai.secret](/_secret/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.secret.md)
+

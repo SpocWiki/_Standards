@@ -56,3 +56,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Motivation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Motivation](/_Standards/bio/Psychology/Motivation.md) 
+
+### #is_/same_as :: [Motivation.public](/_public/bio/Psychology/Motivation.public.md) 
+
+### #is_/same_as :: [Motivation.internal](/_internal/bio/Psychology/Motivation.internal.md) 
+
+### #is_/same_as :: [Motivation.protect](/_protect/bio/Psychology/Motivation.protect.md) 
+
+### #is_/same_as :: [Motivation.private](/_private/bio/Psychology/Motivation.private.md) 
+
+### #is_/same_as :: [Motivation.personal](/_personal/bio/Psychology/Motivation.personal.md) 
+
+### #is_/same_as :: [Motivation.secret](/_secret/bio/Psychology/Motivation.secret.md)
+

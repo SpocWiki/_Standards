@@ -103,17 +103,17 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_probability,7112704]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Probability](/_Standards/Mathematics/Probability.md) 
+### #is_/same_as :: [Probability](/_Standards/Mathematics/Statistics/Probability.md) 
 
-### #is_/same_as :: [Probability.public](/_public/Mathematics/Probability.public.md) 
+### #is_/same_as :: [Probability.public](/_public/Mathematics/Statistics/Probability.public.md) 
 
-### #is_/same_as :: [Probability.internal](/_internal/Mathematics/Probability.internal.md) 
+### #is_/same_as :: [Probability.internal](/_internal/Mathematics/Statistics/Probability.internal.md) 
 
-### #is_/same_as :: [Probability.protect](/_protect/Mathematics/Probability.protect.md) 
+### #is_/same_as :: [Probability.protect](/_protect/Mathematics/Statistics/Probability.protect.md) 
 
-### #is_/same_as :: [Probability.private](/_private/Mathematics/Probability.private.md) 
+### #is_/same_as :: [Probability.private](/_private/Mathematics/Statistics/Probability.private.md) 
 
-### #is_/same_as :: [Probability.personal](/_personal/Mathematics/Probability.personal.md) 
+### #is_/same_as :: [Probability.personal](/_personal/Mathematics/Statistics/Probability.personal.md) 
 
-### #is_/same_as :: [Probability.secret](/_secret/Mathematics/Probability.secret.md)
+### #is_/same_as :: [Probability.secret](/_secret/Mathematics/Statistics/Probability.secret.md)
 

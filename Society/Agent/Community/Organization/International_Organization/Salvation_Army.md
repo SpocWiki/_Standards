@@ -197,3 +197,22 @@ Instagram_username: salvationarmyus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Salvation%20Army) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Salvation_Army](/_Standards/Society/Agent/Community/Organization/International_Organization/Salvation_Army.md) 
+
+### #is_/same_as :: [Salvation_Army.public](/_public/Society/Agent/Community/Organization/International_Organization/Salvation_Army.public.md) 
+
+### #is_/same_as :: [Salvation_Army.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Salvation_Army.internal.md) 
+
+### #is_/same_as :: [Salvation_Army.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Salvation_Army.protect.md) 
+
+### #is_/same_as :: [Salvation_Army.private](/_private/Society/Agent/Community/Organization/International_Organization/Salvation_Army.private.md) 
+
+### #is_/same_as :: [Salvation_Army.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Salvation_Army.personal.md) 
+
+### #is_/same_as :: [Salvation_Army.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Salvation_Army.secret.md)
+

@@ -96,3 +96,22 @@ Europeana_entity: agent/base/60659
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Erich%20Maria%20Remarque) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Remarque,Erich_Maria](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.md) 
+
+### #is_/same_as :: [Remarque,Erich_Maria.public](/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.public.md) 
+
+### #is_/same_as :: [Remarque,Erich_Maria.internal](/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.internal.md) 
+
+### #is_/same_as :: [Remarque,Erich_Maria.protect](/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.protect.md) 
+
+### #is_/same_as :: [Remarque,Erich_Maria.private](/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.private.md) 
+
+### #is_/same_as :: [Remarque,Erich_Maria.personal](/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.personal.md) 
+
+### #is_/same_as :: [Remarque,Erich_Maria.secret](/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.secret.md)
+

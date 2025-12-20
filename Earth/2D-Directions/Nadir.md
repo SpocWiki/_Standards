@@ -29,3 +29,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q145825-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nadir) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nadir](/_Standards/Earth/2D-Directions/Nadir.md) 
+
+### #is_/same_as :: [Nadir.public](/_public/Earth/2D-Directions/Nadir.public.md) 
+
+### #is_/same_as :: [Nadir.internal](/_internal/Earth/2D-Directions/Nadir.internal.md) 
+
+### #is_/same_as :: [Nadir.protect](/_protect/Earth/2D-Directions/Nadir.protect.md) 
+
+### #is_/same_as :: [Nadir.private](/_private/Earth/2D-Directions/Nadir.private.md) 
+
+### #is_/same_as :: [Nadir.personal](/_personal/Earth/2D-Directions/Nadir.personal.md) 
+
+### #is_/same_as :: [Nadir.secret](/_secret/Earth/2D-Directions/Nadir.secret.md)
+

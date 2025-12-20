@@ -108,3 +108,22 @@ name_in_native_language:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kublai%20Khan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kublai_Khan](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.md) 
+
+### #is_/same_as :: [Kublai_Khan.public](/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.public.md) 
+
+### #is_/same_as :: [Kublai_Khan.internal](/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.internal.md) 
+
+### #is_/same_as :: [Kublai_Khan.protect](/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.protect.md) 
+
+### #is_/same_as :: [Kublai_Khan.private](/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.private.md) 
+
+### #is_/same_as :: [Kublai_Khan.personal](/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.personal.md) 
+
+### #is_/same_as :: [Kublai_Khan.secret](/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.secret.md)
+

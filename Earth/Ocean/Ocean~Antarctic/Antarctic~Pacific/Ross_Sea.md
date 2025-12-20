@@ -53,3 +53,22 @@ Commons_category: Ross Sea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ross%20Sea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ross_Sea](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.md) 
+
+### #is_/same_as :: [Ross_Sea.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.public.md) 
+
+### #is_/same_as :: [Ross_Sea.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.internal.md) 
+
+### #is_/same_as :: [Ross_Sea.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.protect.md) 
+
+### #is_/same_as :: [Ross_Sea.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.private.md) 
+
+### #is_/same_as :: [Ross_Sea.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.personal.md) 
+
+### #is_/same_as :: [Ross_Sea.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.secret.md)
+

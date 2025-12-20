@@ -45,3 +45,22 @@ Commons_category: Means
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mean) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mean](/_Standards/Mathematics/Statistics/Probability/Mean.md) 
+
+### #is_/same_as :: [Mean.public](/_public/Mathematics/Statistics/Probability/Mean.public.md) 
+
+### #is_/same_as :: [Mean.internal](/_internal/Mathematics/Statistics/Probability/Mean.internal.md) 
+
+### #is_/same_as :: [Mean.protect](/_protect/Mathematics/Statistics/Probability/Mean.protect.md) 
+
+### #is_/same_as :: [Mean.private](/_private/Mathematics/Statistics/Probability/Mean.private.md) 
+
+### #is_/same_as :: [Mean.personal](/_personal/Mathematics/Statistics/Probability/Mean.personal.md) 
+
+### #is_/same_as :: [Mean.secret](/_secret/Mathematics/Statistics/Probability/Mean.secret.md)
+

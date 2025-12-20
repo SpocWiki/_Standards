@@ -87,3 +87,22 @@ ISNI: "0000000110197343"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pitirim%20Sorokin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sorokin,Pitirim](/_Standards/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.md) 
+
+### #is_/same_as :: [Sorokin,Pitirim.public](/_public/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.public.md) 
+
+### #is_/same_as :: [Sorokin,Pitirim.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.internal.md) 
+
+### #is_/same_as :: [Sorokin,Pitirim.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.protect.md) 
+
+### #is_/same_as :: [Sorokin,Pitirim.private](/_private/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.private.md) 
+
+### #is_/same_as :: [Sorokin,Pitirim.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.personal.md) 
+
+### #is_/same_as :: [Sorokin,Pitirim.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.secret.md)
+

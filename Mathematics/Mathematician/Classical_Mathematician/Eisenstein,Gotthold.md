@@ -60,3 +60,22 @@ name_in_native_language: Ferdinand Gotthold Max Eisenstein
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gotthold%20Eisenstein) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eisenstein,Gotthold](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.md) 
+
+### #is_/same_as :: [Eisenstein,Gotthold.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.public.md) 
+
+### #is_/same_as :: [Eisenstein,Gotthold.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.internal.md) 
+
+### #is_/same_as :: [Eisenstein,Gotthold.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.protect.md) 
+
+### #is_/same_as :: [Eisenstein,Gotthold.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.private.md) 
+
+### #is_/same_as :: [Eisenstein,Gotthold.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.personal.md) 
+
+### #is_/same_as :: [Eisenstein,Gotthold.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.secret.md)
+

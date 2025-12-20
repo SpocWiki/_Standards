@@ -25,3 +25,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jurist) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jurist](/_Standards/Society/Law/Jurist.md) 
+
+### #is_/same_as :: [Jurist.public](/_public/Society/Law/Jurist.public.md) 
+
+### #is_/same_as :: [Jurist.internal](/_internal/Society/Law/Jurist.internal.md) 
+
+### #is_/same_as :: [Jurist.protect](/_protect/Society/Law/Jurist.protect.md) 
+
+### #is_/same_as :: [Jurist.private](/_private/Society/Law/Jurist.private.md) 
+
+### #is_/same_as :: [Jurist.personal](/_personal/Society/Law/Jurist.personal.md) 
+
+### #is_/same_as :: [Jurist.secret](/_secret/Society/Law/Jurist.secret.md)
+

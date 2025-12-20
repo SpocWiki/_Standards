@@ -137,3 +137,22 @@ title: Καινή Διαθήκη
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/New%20Testament)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [New_Testament](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/New_Testament.md) 
+
+### #is_/same_as :: [New_Testament.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/New_Testament.public.md) 
+
+### #is_/same_as :: [New_Testament.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/New_Testament.internal.md) 
+
+### #is_/same_as :: [New_Testament.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/New_Testament.protect.md) 
+
+### #is_/same_as :: [New_Testament.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/New_Testament.private.md) 
+
+### #is_/same_as :: [New_Testament.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/New_Testament.personal.md) 
+
+### #is_/same_as :: [New_Testament.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/New_Testament.secret.md)
+

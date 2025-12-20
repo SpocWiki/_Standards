@@ -31,3 +31,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2025-07-31-Elektro-L-3
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Earth) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Earth](/_Standards/Earth/History_of_Earth.md) 
+
+### #is_/same_as :: [History_of_Earth.public](/_public/Earth/History_of_Earth.public.md) 
+
+### #is_/same_as :: [History_of_Earth.internal](/_internal/Earth/History_of_Earth.internal.md) 
+
+### #is_/same_as :: [History_of_Earth.protect](/_protect/Earth/History_of_Earth.protect.md) 
+
+### #is_/same_as :: [History_of_Earth.private](/_private/Earth/History_of_Earth.private.md) 
+
+### #is_/same_as :: [History_of_Earth.personal](/_personal/Earth/History_of_Earth.personal.md) 
+
+### #is_/same_as :: [History_of_Earth.secret](/_secret/Earth/History_of_Earth.secret.md)
+

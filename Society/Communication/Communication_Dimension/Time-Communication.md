@@ -7,3 +7,22 @@ Only Film and News on Celluloid and, starting in the 1960s later on Magnetic Tap
 
 Most Radio and TV Broadcasts from earlier times were not recorded. 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Time-Communication](/_Standards/Society/Communication/Communication_Dimension/Time-Communication.md) 
+
+### #is_/same_as :: [Time-Communication.public](/_public/Society/Communication/Communication_Dimension/Time-Communication.public.md) 
+
+### #is_/same_as :: [Time-Communication.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication.internal.md) 
+
+### #is_/same_as :: [Time-Communication.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication.protect.md) 
+
+### #is_/same_as :: [Time-Communication.private](/_private/Society/Communication/Communication_Dimension/Time-Communication.private.md) 
+
+### #is_/same_as :: [Time-Communication.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication.personal.md) 
+
+### #is_/same_as :: [Time-Communication.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication.secret.md)
+

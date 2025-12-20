@@ -240,3 +240,22 @@ date_of_birth: 1940-10-09T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Lennon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lennon,John](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.md) 
+
+### #is_/same_as :: [Lennon,John.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.public.md) 
+
+### #is_/same_as :: [Lennon,John.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.internal.md) 
+
+### #is_/same_as :: [Lennon,John.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.protect.md) 
+
+### #is_/same_as :: [Lennon,John.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.private.md) 
+
+### #is_/same_as :: [Lennon,John.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.personal.md) 
+
+### #is_/same_as :: [Lennon,John.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.secret.md)
+

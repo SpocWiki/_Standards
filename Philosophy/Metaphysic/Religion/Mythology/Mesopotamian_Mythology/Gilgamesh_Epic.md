@@ -113,17 +113,17 @@ spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gilgamesh_Epic](/_Standards/Society/Communication/Media/Writing/Book/Literary_Works/Gilgamesh_Epic.md) 
+### #is_/same_as :: [Gilgamesh_Epic](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Gilgamesh_Epic.md) 
 
-### #is_/same_as :: [Gilgamesh_Epic.public](/_public/Society/Communication/Media/Writing/Book/Literary_Works/Gilgamesh_Epic.public.md) 
+### #is_/same_as :: [Gilgamesh_Epic.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Gilgamesh_Epic.public.md) 
 
-### #is_/same_as :: [Gilgamesh_Epic.internal](/_internal/Society/Communication/Media/Writing/Book/Literary_Works/Gilgamesh_Epic.internal.md) 
+### #is_/same_as :: [Gilgamesh_Epic.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Gilgamesh_Epic.internal.md) 
 
-### #is_/same_as :: [Gilgamesh_Epic.protect](/_protect/Society/Communication/Media/Writing/Book/Literary_Works/Gilgamesh_Epic.protect.md) 
+### #is_/same_as :: [Gilgamesh_Epic.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Gilgamesh_Epic.protect.md) 
 
-### #is_/same_as :: [Gilgamesh_Epic.private](/_private/Society/Communication/Media/Writing/Book/Literary_Works/Gilgamesh_Epic.private.md) 
+### #is_/same_as :: [Gilgamesh_Epic.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Gilgamesh_Epic.private.md) 
 
-### #is_/same_as :: [Gilgamesh_Epic.personal](/_personal/Society/Communication/Media/Writing/Book/Literary_Works/Gilgamesh_Epic.personal.md) 
+### #is_/same_as :: [Gilgamesh_Epic.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Gilgamesh_Epic.personal.md) 
 
-### #is_/same_as :: [Gilgamesh_Epic.secret](/_secret/Society/Communication/Media/Writing/Book/Literary_Works/Gilgamesh_Epic.secret.md)
+### #is_/same_as :: [Gilgamesh_Epic.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Gilgamesh_Epic.secret.md)
 

@@ -45,3 +45,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/PrimeNumberTheorem.png
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prime%20number%20theorem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prime_Number_Theorem](/_Standards/Mathematics/Number_Theory/Prime_Number_Theorem.md) 
+
+### #is_/same_as :: [Prime_Number_Theorem.public](/_public/Mathematics/Number_Theory/Prime_Number_Theorem.public.md) 
+
+### #is_/same_as :: [Prime_Number_Theorem.internal](/_internal/Mathematics/Number_Theory/Prime_Number_Theorem.internal.md) 
+
+### #is_/same_as :: [Prime_Number_Theorem.protect](/_protect/Mathematics/Number_Theory/Prime_Number_Theorem.protect.md) 
+
+### #is_/same_as :: [Prime_Number_Theorem.private](/_private/Mathematics/Number_Theory/Prime_Number_Theorem.private.md) 
+
+### #is_/same_as :: [Prime_Number_Theorem.personal](/_personal/Mathematics/Number_Theory/Prime_Number_Theorem.personal.md) 
+
+### #is_/same_as :: [Prime_Number_Theorem.secret](/_secret/Mathematics/Number_Theory/Prime_Number_Theorem.secret.md)
+

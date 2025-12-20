@@ -50,3 +50,22 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Space%20Ra
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Space%20Race) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Space_Race](/_Standards/Technology/Spaceflight/Space_Race.md) 
+
+### #is_/same_as :: [Space_Race.public](/_public/Technology/Spaceflight/Space_Race.public.md) 
+
+### #is_/same_as :: [Space_Race.internal](/_internal/Technology/Spaceflight/Space_Race.internal.md) 
+
+### #is_/same_as :: [Space_Race.protect](/_protect/Technology/Spaceflight/Space_Race.protect.md) 
+
+### #is_/same_as :: [Space_Race.private](/_private/Technology/Spaceflight/Space_Race.private.md) 
+
+### #is_/same_as :: [Space_Race.personal](/_personal/Technology/Spaceflight/Space_Race.personal.md) 
+
+### #is_/same_as :: [Space_Race.secret](/_secret/Technology/Spaceflight/Space_Race.secret.md)
+

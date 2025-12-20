@@ -201,3 +201,22 @@ name_in_native_language: Linus Carl Pauling
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Linus%20Pauling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Linus_Pauling](/_Standards/Chemistry/Chemist/Linus_Pauling.md) 
+
+### #is_/same_as :: [Linus_Pauling.public](/_public/Chemistry/Chemist/Linus_Pauling.public.md) 
+
+### #is_/same_as :: [Linus_Pauling.internal](/_internal/Chemistry/Chemist/Linus_Pauling.internal.md) 
+
+### #is_/same_as :: [Linus_Pauling.protect](/_protect/Chemistry/Chemist/Linus_Pauling.protect.md) 
+
+### #is_/same_as :: [Linus_Pauling.private](/_private/Chemistry/Chemist/Linus_Pauling.private.md) 
+
+### #is_/same_as :: [Linus_Pauling.personal](/_personal/Chemistry/Chemist/Linus_Pauling.personal.md) 
+
+### #is_/same_as :: [Linus_Pauling.secret](/_secret/Chemistry/Chemist/Linus_Pauling.secret.md)
+

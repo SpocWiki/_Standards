@@ -39,3 +39,22 @@ Commons_category: Blue Skies (song)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blue%20Skies%20(1929%20film)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blue_Skies(Film)](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).md) 
+
+### #is_/same_as :: [Blue_Skies(Film).public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).public.md) 
+
+### #is_/same_as :: [Blue_Skies(Film).internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).internal.md) 
+
+### #is_/same_as :: [Blue_Skies(Film).protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).protect.md) 
+
+### #is_/same_as :: [Blue_Skies(Film).private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).private.md) 
+
+### #is_/same_as :: [Blue_Skies(Film).personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).personal.md) 
+
+### #is_/same_as :: [Blue_Skies(Film).secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).secret.md)
+

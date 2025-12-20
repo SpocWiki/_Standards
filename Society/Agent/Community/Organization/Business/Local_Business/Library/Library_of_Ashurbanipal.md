@@ -52,3 +52,22 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Library%20
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Library%20of%20Ashurbanipal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Library_of_Ashurbanipal](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.md) 
+
+### #is_/same_as :: [Library_of_Ashurbanipal.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.public.md) 
+
+### #is_/same_as :: [Library_of_Ashurbanipal.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.internal.md) 
+
+### #is_/same_as :: [Library_of_Ashurbanipal.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.protect.md) 
+
+### #is_/same_as :: [Library_of_Ashurbanipal.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.private.md) 
+
+### #is_/same_as :: [Library_of_Ashurbanipal.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.personal.md) 
+
+### #is_/same_as :: [Library_of_Ashurbanipal.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.secret.md)
+

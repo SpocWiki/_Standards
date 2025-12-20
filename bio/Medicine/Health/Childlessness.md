@@ -24,3 +24,22 @@ Commons_category: Childlessness
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Childlessness) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Childlessness](/_Standards/bio/Medicine/Health/Childlessness.md) 
+
+### #is_/same_as :: [Childlessness.public](/_public/bio/Medicine/Health/Childlessness.public.md) 
+
+### #is_/same_as :: [Childlessness.internal](/_internal/bio/Medicine/Health/Childlessness.internal.md) 
+
+### #is_/same_as :: [Childlessness.protect](/_protect/bio/Medicine/Health/Childlessness.protect.md) 
+
+### #is_/same_as :: [Childlessness.private](/_private/bio/Medicine/Health/Childlessness.private.md) 
+
+### #is_/same_as :: [Childlessness.personal](/_personal/bio/Medicine/Health/Childlessness.personal.md) 
+
+### #is_/same_as :: [Childlessness.secret](/_secret/bio/Medicine/Health/Childlessness.secret.md)
+

@@ -72,3 +72,22 @@ Krugosvet_article: sport/SHASHKI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Checkers) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Checkers](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.md) 
+
+### #is_/same_as :: [Checkers.public](/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.public.md) 
+
+### #is_/same_as :: [Checkers.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.internal.md) 
+
+### #is_/same_as :: [Checkers.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.protect.md) 
+
+### #is_/same_as :: [Checkers.private](/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.private.md) 
+
+### #is_/same_as :: [Checkers.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.personal.md) 
+
+### #is_/same_as :: [Checkers.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Checkers.secret.md)
+

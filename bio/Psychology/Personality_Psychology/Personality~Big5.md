@@ -73,3 +73,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Big%20Five%20personality%20traits)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Personality~Big5](/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5.md) 
+
+### #is_/same_as :: [Personality~Big5.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5.public.md) 
+
+### #is_/same_as :: [Personality~Big5.internal](/_internal/bio/Psychology/Personality_Psychology/Personality~Big5.internal.md) 
+
+### #is_/same_as :: [Personality~Big5.protect](/_protect/bio/Psychology/Personality_Psychology/Personality~Big5.protect.md) 
+
+### #is_/same_as :: [Personality~Big5.private](/_private/bio/Psychology/Personality_Psychology/Personality~Big5.private.md) 
+
+### #is_/same_as :: [Personality~Big5.personal](/_personal/bio/Psychology/Personality_Psychology/Personality~Big5.personal.md) 
+
+### #is_/same_as :: [Personality~Big5.secret](/_secret/bio/Psychology/Personality_Psychology/Personality~Big5.secret.md)
+

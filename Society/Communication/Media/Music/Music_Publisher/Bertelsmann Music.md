@@ -54,3 +54,22 @@ native_label: Bertelsmann Music Group
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bertelsmann%20Music%20Group) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bertelsmann Music](/_Standards/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.md) 
+
+### #is_/same_as :: [Bertelsmann Music.public](/_public/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.public.md) 
+
+### #is_/same_as :: [Bertelsmann Music.internal](/_internal/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.internal.md) 
+
+### #is_/same_as :: [Bertelsmann Music.protect](/_protect/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.protect.md) 
+
+### #is_/same_as :: [Bertelsmann Music.private](/_private/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.private.md) 
+
+### #is_/same_as :: [Bertelsmann Music.personal](/_personal/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.personal.md) 
+
+### #is_/same_as :: [Bertelsmann Music.secret](/_secret/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.secret.md)
+

@@ -42,17 +42,17 @@ PaidLeave: this is a benefit for paid leave.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paid_Leave](Paid_Leave.md) 
+### #is_/same_as :: [Paid_Leave](/_Standards/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.md) 
 
-### #is_/same_as :: [paid_leave.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/paid_leave.public.md) 
+### #is_/same_as :: [Paid_Leave.public](/_public/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.public.md) 
 
-### #is_/same_as :: [paid_leave.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/paid_leave.internal.md) 
+### #is_/same_as :: [Paid_Leave.internal](/_internal/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.internal.md) 
 
-### #is_/same_as :: [paid_leave.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/paid_leave.protect.md) 
+### #is_/same_as :: [Paid_Leave.protect](/_protect/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.protect.md) 
 
-### #is_/same_as :: [paid_leave.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/paid_leave.private.md) 
+### #is_/same_as :: [Paid_Leave.private](/_private/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.private.md) 
 
-### #is_/same_as :: [paid_leave.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/paid_leave.personal.md) 
+### #is_/same_as :: [Paid_Leave.personal](/_personal/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.personal.md) 
 
-### #is_/same_as :: [paid_leave.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/paid_leave.secret.md)
+### #is_/same_as :: [Paid_Leave.secret](/_secret/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.secret.md)
 

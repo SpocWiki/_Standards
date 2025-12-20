@@ -64,17 +64,17 @@ official_name: BBC World
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [BBC_News](/_Standards/Society/Communication/Media/Television/BBC/BBC_News.md) 
+### #is_/same_as :: [BBC_News](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/BBC/BBC_News.md) 
 
-### #is_/same_as :: [BBC_News.public](/_public/Society/Communication/Media/Television/BBC/BBC_News.public.md) 
+### #is_/same_as :: [BBC_News.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/BBC/BBC_News.public.md) 
 
-### #is_/same_as :: [BBC_News.internal](/_internal/Society/Communication/Media/Television/BBC/BBC_News.internal.md) 
+### #is_/same_as :: [BBC_News.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/BBC/BBC_News.internal.md) 
 
-### #is_/same_as :: [BBC_News.protect](/_protect/Society/Communication/Media/Television/BBC/BBC_News.protect.md) 
+### #is_/same_as :: [BBC_News.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/BBC/BBC_News.protect.md) 
 
-### #is_/same_as :: [BBC_News.private](/_private/Society/Communication/Media/Television/BBC/BBC_News.private.md) 
+### #is_/same_as :: [BBC_News.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/BBC/BBC_News.private.md) 
 
-### #is_/same_as :: [BBC_News.personal](/_personal/Society/Communication/Media/Television/BBC/BBC_News.personal.md) 
+### #is_/same_as :: [BBC_News.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/BBC/BBC_News.personal.md) 
 
-### #is_/same_as :: [BBC_News.secret](/_secret/Society/Communication/Media/Television/BBC/BBC_News.secret.md)
+### #is_/same_as :: [BBC_News.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/BBC/BBC_News.secret.md)
 

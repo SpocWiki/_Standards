@@ -164,3 +164,22 @@ Dewey_Decimal_Classification: "491.79"
 > [Wikipedia](https://en.wikipedia.org/wiki/Ukrainian%20language) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-ukr](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.md) 
+
+### #is_/same_as :: [Lang-ukr.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.public.md) 
+
+### #is_/same_as :: [Lang-ukr.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.internal.md) 
+
+### #is_/same_as :: [Lang-ukr.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.protect.md) 
+
+### #is_/same_as :: [Lang-ukr.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.private.md) 
+
+### #is_/same_as :: [Lang-ukr.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.personal.md) 
+
+### #is_/same_as :: [Lang-ukr.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.secret.md)
+

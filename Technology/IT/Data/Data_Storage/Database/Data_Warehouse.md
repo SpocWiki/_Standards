@@ -41,3 +41,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Data%20warehouse) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Data_Warehouse](/_Standards/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.md) 
+
+### #is_/same_as :: [Data_Warehouse.public](/_public/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.public.md) 
+
+### #is_/same_as :: [Data_Warehouse.internal](/_internal/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.internal.md) 
+
+### #is_/same_as :: [Data_Warehouse.protect](/_protect/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.protect.md) 
+
+### #is_/same_as :: [Data_Warehouse.private](/_private/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.private.md) 
+
+### #is_/same_as :: [Data_Warehouse.personal](/_personal/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.personal.md) 
+
+### #is_/same_as :: [Data_Warehouse.secret](/_secret/Technology/IT/Data/Data_Storage/Database/Data_Warehouse.secret.md)
+

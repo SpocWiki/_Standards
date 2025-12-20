@@ -39,17 +39,17 @@ Enumerates several kinds of product return refund types.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Refund_Type_Enumeration](Refund_Type_Enumeration.md) 
+### #is_/same_as :: [Refund_Type_Enumeration](/_Standards/schema-org/Enumeration/Refund_Type_Enumeration.md) 
 
-### #is_/same_as :: [refund_type_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration.public.md) 
+### #is_/same_as :: [Refund_Type_Enumeration.public](/_public/schema-org/Enumeration/Refund_Type_Enumeration.public.md) 
 
-### #is_/same_as :: [refund_type_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration.internal.md) 
+### #is_/same_as :: [Refund_Type_Enumeration.internal](/_internal/schema-org/Enumeration/Refund_Type_Enumeration.internal.md) 
 
-### #is_/same_as :: [refund_type_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration.protect.md) 
+### #is_/same_as :: [Refund_Type_Enumeration.protect](/_protect/schema-org/Enumeration/Refund_Type_Enumeration.protect.md) 
 
-### #is_/same_as :: [refund_type_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration.private.md) 
+### #is_/same_as :: [Refund_Type_Enumeration.private](/_private/schema-org/Enumeration/Refund_Type_Enumeration.private.md) 
 
-### #is_/same_as :: [refund_type_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration.personal.md) 
+### #is_/same_as :: [Refund_Type_Enumeration.personal](/_personal/schema-org/Enumeration/Refund_Type_Enumeration.personal.md) 
 
-### #is_/same_as :: [refund_type_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration.secret.md)
+### #is_/same_as :: [Refund_Type_Enumeration.secret](/_secret/schema-org/Enumeration/Refund_Type_Enumeration.secret.md)
 

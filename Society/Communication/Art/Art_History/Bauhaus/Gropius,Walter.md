@@ -129,3 +129,22 @@ Google_Doodle: 125th-birthday-of-walter-gropius
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Walter%20Gropius) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gropius,Walter](/_Standards/Society/Communication/Art/Art_History/Bauhaus/Gropius,Walter.md) 
+
+### #is_/same_as :: [Gropius,Walter.public](/_public/Society/Communication/Art/Art_History/Bauhaus/Gropius,Walter.public.md) 
+
+### #is_/same_as :: [Gropius,Walter.internal](/_internal/Society/Communication/Art/Art_History/Bauhaus/Gropius,Walter.internal.md) 
+
+### #is_/same_as :: [Gropius,Walter.protect](/_protect/Society/Communication/Art/Art_History/Bauhaus/Gropius,Walter.protect.md) 
+
+### #is_/same_as :: [Gropius,Walter.private](/_private/Society/Communication/Art/Art_History/Bauhaus/Gropius,Walter.private.md) 
+
+### #is_/same_as :: [Gropius,Walter.personal](/_personal/Society/Communication/Art/Art_History/Bauhaus/Gropius,Walter.personal.md) 
+
+### #is_/same_as :: [Gropius,Walter.secret](/_secret/Society/Communication/Art/Art_History/Bauhaus/Gropius,Walter.secret.md)
+

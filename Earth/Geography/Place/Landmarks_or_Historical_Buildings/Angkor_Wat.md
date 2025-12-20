@@ -78,17 +78,17 @@ video:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Angkor_Wat](Angkor_Wat.md) 
+### #is_/same_as :: [Angkor_Wat](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.md) 
 
-### #is_/same_as :: [Angkor_Wat.public](/_public/Technology/Construction/Architecture/Angkor_Wat.public.md) 
+### #is_/same_as :: [Angkor_Wat.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.public.md) 
 
-### #is_/same_as :: [Angkor_Wat.internal](/_internal/Technology/Construction/Architecture/Angkor_Wat.internal.md) 
+### #is_/same_as :: [Angkor_Wat.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.internal.md) 
 
-### #is_/same_as :: [Angkor_Wat.protect](/_protect/Technology/Construction/Architecture/Angkor_Wat.protect.md) 
+### #is_/same_as :: [Angkor_Wat.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.protect.md) 
 
-### #is_/same_as :: [Angkor_Wat.private](/_private/Technology/Construction/Architecture/Angkor_Wat.private.md) 
+### #is_/same_as :: [Angkor_Wat.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.private.md) 
 
-### #is_/same_as :: [Angkor_Wat.personal](/_personal/Technology/Construction/Architecture/Angkor_Wat.personal.md) 
+### #is_/same_as :: [Angkor_Wat.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.personal.md) 
 
-### #is_/same_as :: [Angkor_Wat.secret](/_secret/Technology/Construction/Architecture/Angkor_Wat.secret.md)
+### #is_/same_as :: [Angkor_Wat.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.secret.md)
 

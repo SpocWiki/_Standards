@@ -43,3 +43,22 @@ PhilPapers_topic: thomism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thomism](/_Standards/Philosophy/Thomism.md) 
+
+### #is_/same_as :: [Thomism.public](/_public/Philosophy/Thomism.public.md) 
+
+### #is_/same_as :: [Thomism.internal](/_internal/Philosophy/Thomism.internal.md) 
+
+### #is_/same_as :: [Thomism.protect](/_protect/Philosophy/Thomism.protect.md) 
+
+### #is_/same_as :: [Thomism.private](/_private/Philosophy/Thomism.private.md) 
+
+### #is_/same_as :: [Thomism.personal](/_personal/Philosophy/Thomism.personal.md) 
+
+### #is_/same_as :: [Thomism.secret](/_secret/Philosophy/Thomism.secret.md)
+

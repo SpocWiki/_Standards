@@ -62,3 +62,22 @@ Commons_category: Pasteurization
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pasteurization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pasteurization](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.md) 
+
+### #is_/same_as :: [Pasteurization.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.public.md) 
+
+### #is_/same_as :: [Pasteurization.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.internal.md) 
+
+### #is_/same_as :: [Pasteurization.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.protect.md) 
+
+### #is_/same_as :: [Pasteurization.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.private.md) 
+
+### #is_/same_as :: [Pasteurization.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.personal.md) 
+
+### #is_/same_as :: [Pasteurization.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.secret.md)
+

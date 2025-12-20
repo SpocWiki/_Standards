@@ -217,3 +217,22 @@ ISNI: "0000000123215491"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Margaret%20Atwood) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atwood,Margaret](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.md) 
+
+### #is_/same_as :: [Atwood,Margaret.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.public.md) 
+
+### #is_/same_as :: [Atwood,Margaret.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.internal.md) 
+
+### #is_/same_as :: [Atwood,Margaret.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.protect.md) 
+
+### #is_/same_as :: [Atwood,Margaret.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.private.md) 
+
+### #is_/same_as :: [Atwood,Margaret.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.personal.md) 
+
+### #is_/same_as :: [Atwood,Margaret.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.secret.md)
+

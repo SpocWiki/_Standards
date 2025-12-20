@@ -60,3 +60,22 @@ OpenStreetMap_tag_or_key:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/County) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [County](/_Standards/Earth/Geography/Place/Administrative_Area/County.md) 
+
+### #is_/same_as :: [County.public](/_public/Earth/Geography/Place/Administrative_Area/County.public.md) 
+
+### #is_/same_as :: [County.internal](/_internal/Earth/Geography/Place/Administrative_Area/County.internal.md) 
+
+### #is_/same_as :: [County.protect](/_protect/Earth/Geography/Place/Administrative_Area/County.protect.md) 
+
+### #is_/same_as :: [County.private](/_private/Earth/Geography/Place/Administrative_Area/County.private.md) 
+
+### #is_/same_as :: [County.personal](/_personal/Earth/Geography/Place/Administrative_Area/County.personal.md) 
+
+### #is_/same_as :: [County.secret](/_secret/Earth/Geography/Place/Administrative_Area/County.secret.md)
+

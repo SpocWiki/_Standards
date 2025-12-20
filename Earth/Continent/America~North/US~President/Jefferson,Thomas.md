@@ -208,3 +208,22 @@ Libris_URI: b8nqrxpv1v5qwk3
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Jefferson)  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jefferson,Thomas](/_Standards/Earth/Continent/America~North/US~President/Jefferson,Thomas.md) 
+
+### #is_/same_as :: [Jefferson,Thomas.public](/_public/Earth/Continent/America~North/US~President/Jefferson,Thomas.public.md) 
+
+### #is_/same_as :: [Jefferson,Thomas.internal](/_internal/Earth/Continent/America~North/US~President/Jefferson,Thomas.internal.md) 
+
+### #is_/same_as :: [Jefferson,Thomas.protect](/_protect/Earth/Continent/America~North/US~President/Jefferson,Thomas.protect.md) 
+
+### #is_/same_as :: [Jefferson,Thomas.private](/_private/Earth/Continent/America~North/US~President/Jefferson,Thomas.private.md) 
+
+### #is_/same_as :: [Jefferson,Thomas.personal](/_personal/Earth/Continent/America~North/US~President/Jefferson,Thomas.personal.md) 
+
+### #is_/same_as :: [Jefferson,Thomas.secret](/_secret/Earth/Continent/America~North/US~President/Jefferson,Thomas.secret.md)
+

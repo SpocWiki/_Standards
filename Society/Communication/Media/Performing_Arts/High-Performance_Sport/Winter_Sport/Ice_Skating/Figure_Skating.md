@@ -55,3 +55,22 @@ Baidu_Tieba_name: 花样滑冰
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Figure_Skating](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating.md) 
+
+### #is_/same_as :: [Figure_Skating.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating.public.md) 
+
+### #is_/same_as :: [Figure_Skating.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating.internal.md) 
+
+### #is_/same_as :: [Figure_Skating.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating.protect.md) 
+
+### #is_/same_as :: [Figure_Skating.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating.private.md) 
+
+### #is_/same_as :: [Figure_Skating.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating.personal.md) 
+
+### #is_/same_as :: [Figure_Skating.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating.secret.md)
+

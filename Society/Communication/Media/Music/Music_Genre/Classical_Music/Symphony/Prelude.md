@@ -40,3 +40,22 @@ Commons_category: Preludes (music)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prelude%20(music)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prelude](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.md) 
+
+### #is_/same_as :: [Prelude.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.public.md) 
+
+### #is_/same_as :: [Prelude.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.internal.md) 
+
+### #is_/same_as :: [Prelude.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.protect.md) 
+
+### #is_/same_as :: [Prelude.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.private.md) 
+
+### #is_/same_as :: [Prelude.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.personal.md) 
+
+### #is_/same_as :: [Prelude.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony/Prelude.secret.md)
+

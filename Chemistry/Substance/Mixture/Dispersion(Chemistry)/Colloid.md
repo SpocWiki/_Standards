@@ -60,21 +60,19 @@ Colon_Classification: E:235
 > [Wikipedia](https://en.wikipedia.org/wiki/Colloid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Colloid](/_Standards/Chemistry/Substance/Mixture/Colloid.md) 
+### #is_/same_as :: [Colloid](/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.md) 
 
-### #is_/same_as :: [Colloid.public](/_public/Chemistry/Substance/Mixture/Colloid.public.md) 
+### #is_/same_as :: [Colloid.public](/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.public.md) 
 
-### #is_/same_as :: [Colloid.internal](/_internal/Chemistry/Substance/Mixture/Colloid.internal.md) 
+### #is_/same_as :: [Colloid.internal](/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.internal.md) 
 
-### #is_/same_as :: [Colloid.protect](/_protect/Chemistry/Substance/Mixture/Colloid.protect.md) 
+### #is_/same_as :: [Colloid.protect](/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.protect.md) 
 
-### #is_/same_as :: [Colloid.private](/_private/Chemistry/Substance/Mixture/Colloid.private.md) 
+### #is_/same_as :: [Colloid.private](/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.private.md) 
 
-### #is_/same_as :: [Colloid.personal](/_personal/Chemistry/Substance/Mixture/Colloid.personal.md) 
+### #is_/same_as :: [Colloid.personal](/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.personal.md) 
 
-### #is_/same_as :: [Colloid.secret](/_secret/Chemistry/Substance/Mixture/Colloid.secret.md)
+### #is_/same_as :: [Colloid.secret](/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.secret.md)
 

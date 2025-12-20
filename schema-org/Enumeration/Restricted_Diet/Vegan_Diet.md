@@ -40,17 +40,17 @@ A diet exclusive of all animal products.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vegan_Diet](Vegan_Diet.md) 
+### #is_/same_as :: [Vegan_Diet](/_Standards/schema-org/Enumeration/Restricted_Diet/Vegan_Diet.md) 
 
-### #is_/same_as :: [vegan_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/vegan_diet.public.md) 
+### #is_/same_as :: [Vegan_Diet.public](/_public/schema-org/Enumeration/Restricted_Diet/Vegan_Diet.public.md) 
 
-### #is_/same_as :: [vegan_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/vegan_diet.internal.md) 
+### #is_/same_as :: [Vegan_Diet.internal](/_internal/schema-org/Enumeration/Restricted_Diet/Vegan_Diet.internal.md) 
 
-### #is_/same_as :: [vegan_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/vegan_diet.protect.md) 
+### #is_/same_as :: [Vegan_Diet.protect](/_protect/schema-org/Enumeration/Restricted_Diet/Vegan_Diet.protect.md) 
 
-### #is_/same_as :: [vegan_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/vegan_diet.private.md) 
+### #is_/same_as :: [Vegan_Diet.private](/_private/schema-org/Enumeration/Restricted_Diet/Vegan_Diet.private.md) 
 
-### #is_/same_as :: [vegan_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/vegan_diet.personal.md) 
+### #is_/same_as :: [Vegan_Diet.personal](/_personal/schema-org/Enumeration/Restricted_Diet/Vegan_Diet.personal.md) 
 
-### #is_/same_as :: [vegan_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/vegan_diet.secret.md)
+### #is_/same_as :: [Vegan_Diet.secret](/_secret/schema-org/Enumeration/Restricted_Diet/Vegan_Diet.secret.md)
 

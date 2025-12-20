@@ -95,3 +95,22 @@ PermID: "5000880810"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/NASCAR) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [NASCAR](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/NASCAR.md) 
+
+### #is_/same_as :: [NASCAR.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/NASCAR.public.md) 
+
+### #is_/same_as :: [NASCAR.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/NASCAR.internal.md) 
+
+### #is_/same_as :: [NASCAR.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/NASCAR.protect.md) 
+
+### #is_/same_as :: [NASCAR.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/NASCAR.private.md) 
+
+### #is_/same_as :: [NASCAR.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/NASCAR.personal.md) 
+
+### #is_/same_as :: [NASCAR.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/NASCAR.secret.md)
+

@@ -91,3 +91,22 @@ inception: -1499-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rigveda) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rigveda](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.md) 
+
+### #is_/same_as :: [Rigveda.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.public.md) 
+
+### #is_/same_as :: [Rigveda.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.internal.md) 
+
+### #is_/same_as :: [Rigveda.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.protect.md) 
+
+### #is_/same_as :: [Rigveda.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.private.md) 
+
+### #is_/same_as :: [Rigveda.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.personal.md) 
+
+### #is_/same_as :: [Rigveda.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.secret.md)
+

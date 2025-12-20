@@ -35,3 +35,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Zuckerfabrik01.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sugar%20industry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Big Sugar](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.md) 
+
+### #is_/same_as :: [Big Sugar.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.public.md) 
+
+### #is_/same_as :: [Big Sugar.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.internal.md) 
+
+### #is_/same_as :: [Big Sugar.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.protect.md) 
+
+### #is_/same_as :: [Big Sugar.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.private.md) 
+
+### #is_/same_as :: [Big Sugar.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.personal.md) 
+
+### #is_/same_as :: [Big Sugar.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big Sugar.secret.md)
+

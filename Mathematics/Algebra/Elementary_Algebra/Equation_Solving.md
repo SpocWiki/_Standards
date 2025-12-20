@@ -51,3 +51,22 @@ subclass_of:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Equation%20solving) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Equation_Solving](/_Standards/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.md) 
+
+### #is_/same_as :: [Equation_Solving.public](/_public/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.public.md) 
+
+### #is_/same_as :: [Equation_Solving.internal](/_internal/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.internal.md) 
+
+### #is_/same_as :: [Equation_Solving.protect](/_protect/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.protect.md) 
+
+### #is_/same_as :: [Equation_Solving.private](/_private/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.private.md) 
+
+### #is_/same_as :: [Equation_Solving.personal](/_personal/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.personal.md) 
+
+### #is_/same_as :: [Equation_Solving.secret](/_secret/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.secret.md)
+

@@ -123,3 +123,22 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Samuel%20
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Samuel%20Johnson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Johnson,Samuel](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.md) 
+
+### #is_/same_as :: [Johnson,Samuel.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.public.md) 
+
+### #is_/same_as :: [Johnson,Samuel.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.internal.md) 
+
+### #is_/same_as :: [Johnson,Samuel.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.protect.md) 
+
+### #is_/same_as :: [Johnson,Samuel.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.private.md) 
+
+### #is_/same_as :: [Johnson,Samuel.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.personal.md) 
+
+### #is_/same_as :: [Johnson,Samuel.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.secret.md)
+

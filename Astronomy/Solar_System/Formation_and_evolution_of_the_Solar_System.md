@@ -55,3 +55,22 @@ Commons_category: Formation of the Solar System
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Formation%20and%20evolution%20of%20the%20Solar%20System) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Formation_and_evolution_of_the_Solar_System](/_Standards/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.md) 
+
+### #is_/same_as :: [Formation_and_evolution_of_the_Solar_System.public](/_public/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.public.md) 
+
+### #is_/same_as :: [Formation_and_evolution_of_the_Solar_System.internal](/_internal/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.internal.md) 
+
+### #is_/same_as :: [Formation_and_evolution_of_the_Solar_System.protect](/_protect/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.protect.md) 
+
+### #is_/same_as :: [Formation_and_evolution_of_the_Solar_System.private](/_private/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.private.md) 
+
+### #is_/same_as :: [Formation_and_evolution_of_the_Solar_System.personal](/_personal/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.personal.md) 
+
+### #is_/same_as :: [Formation_and_evolution_of_the_Solar_System.secret](/_secret/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.secret.md)
+

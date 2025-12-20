@@ -204,3 +204,22 @@ child: "[[_Standards/WikiData/WD~Adolf_Friedrich,18611778]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Caspar%20David%20Friedrich) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Friedrich,Caspar_David](/_Standards/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.md) 
+
+### #is_/same_as :: [Friedrich,Caspar_David.public](/_public/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.public.md) 
+
+### #is_/same_as :: [Friedrich,Caspar_David.internal](/_internal/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.internal.md) 
+
+### #is_/same_as :: [Friedrich,Caspar_David.protect](/_protect/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.protect.md) 
+
+### #is_/same_as :: [Friedrich,Caspar_David.private](/_private/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.private.md) 
+
+### #is_/same_as :: [Friedrich,Caspar_David.personal](/_personal/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.personal.md) 
+
+### #is_/same_as :: [Friedrich,Caspar_David.secret](/_secret/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.secret.md)
+

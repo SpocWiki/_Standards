@@ -48,3 +48,22 @@ GitHub_topic: photonics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Photonics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Photonics](/_Standards/Science/Physics/Wave/Optics/Photonics.md) 
+
+### #is_/same_as :: [Photonics.public](/_public/Science/Physics/Wave/Optics/Photonics.public.md) 
+
+### #is_/same_as :: [Photonics.internal](/_internal/Science/Physics/Wave/Optics/Photonics.internal.md) 
+
+### #is_/same_as :: [Photonics.protect](/_protect/Science/Physics/Wave/Optics/Photonics.protect.md) 
+
+### #is_/same_as :: [Photonics.private](/_private/Science/Physics/Wave/Optics/Photonics.private.md) 
+
+### #is_/same_as :: [Photonics.personal](/_personal/Science/Physics/Wave/Optics/Photonics.personal.md) 
+
+### #is_/same_as :: [Photonics.secret](/_secret/Science/Physics/Wave/Optics/Photonics.secret.md)
+

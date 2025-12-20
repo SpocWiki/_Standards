@@ -96,3 +96,22 @@ Commons_category: Underground water
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Groundwater) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Groundwater](/_Standards/Earth/Geology/Hydrology/Groundwater.md) 
+
+### #is_/same_as :: [Groundwater.public](/_public/Earth/Geology/Hydrology/Groundwater.public.md) 
+
+### #is_/same_as :: [Groundwater.internal](/_internal/Earth/Geology/Hydrology/Groundwater.internal.md) 
+
+### #is_/same_as :: [Groundwater.protect](/_protect/Earth/Geology/Hydrology/Groundwater.protect.md) 
+
+### #is_/same_as :: [Groundwater.private](/_private/Earth/Geology/Hydrology/Groundwater.private.md) 
+
+### #is_/same_as :: [Groundwater.personal](/_personal/Earth/Geology/Hydrology/Groundwater.personal.md) 
+
+### #is_/same_as :: [Groundwater.secret](/_secret/Earth/Geology/Hydrology/Groundwater.secret.md)
+

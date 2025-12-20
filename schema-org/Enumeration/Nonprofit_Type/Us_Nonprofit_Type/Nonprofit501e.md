@@ -42,17 +42,17 @@ Nonprofit501e: Non-profit type referring to Cooperative Hospital Service Organiz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501e](Nonprofit501e.md) 
+### #is_/same_as :: [Nonprofit501e](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.md) 
 
-### #is_/same_as :: [nonprofit501e.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.public.md) 
+### #is_/same_as :: [Nonprofit501e.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.public.md) 
 
-### #is_/same_as :: [nonprofit501e.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.internal.md) 
+### #is_/same_as :: [Nonprofit501e.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.internal.md) 
 
-### #is_/same_as :: [nonprofit501e.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.protect.md) 
+### #is_/same_as :: [Nonprofit501e.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.protect.md) 
 
-### #is_/same_as :: [nonprofit501e.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.private.md) 
+### #is_/same_as :: [Nonprofit501e.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.private.md) 
 
-### #is_/same_as :: [nonprofit501e.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.personal.md) 
+### #is_/same_as :: [Nonprofit501e.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.personal.md) 
 
-### #is_/same_as :: [nonprofit501e.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.secret.md)
+### #is_/same_as :: [Nonprofit501e.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501e.secret.md)
 

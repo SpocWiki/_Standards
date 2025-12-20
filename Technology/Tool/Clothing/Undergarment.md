@@ -59,3 +59,22 @@ Dewey_Decimal_Classification: "391.42"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Underwear) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Undergarment](/_Standards/Technology/Tool/Clothing/Undergarment.md) 
+
+### #is_/same_as :: [Undergarment.public](/_public/Technology/Tool/Clothing/Undergarment.public.md) 
+
+### #is_/same_as :: [Undergarment.internal](/_internal/Technology/Tool/Clothing/Undergarment.internal.md) 
+
+### #is_/same_as :: [Undergarment.protect](/_protect/Technology/Tool/Clothing/Undergarment.protect.md) 
+
+### #is_/same_as :: [Undergarment.private](/_private/Technology/Tool/Clothing/Undergarment.private.md) 
+
+### #is_/same_as :: [Undergarment.personal](/_personal/Technology/Tool/Clothing/Undergarment.personal.md) 
+
+### #is_/same_as :: [Undergarment.secret](/_secret/Technology/Tool/Clothing/Undergarment.secret.md)
+

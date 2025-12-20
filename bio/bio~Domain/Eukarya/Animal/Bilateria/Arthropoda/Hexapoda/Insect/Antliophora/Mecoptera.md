@@ -46,3 +46,22 @@ NBN_System_Key: NBNSYS0000160388
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mecoptera) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mecoptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.md) 
+
+### #is_/same_as :: [Mecoptera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.public.md) 
+
+### #is_/same_as :: [Mecoptera.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.internal.md) 
+
+### #is_/same_as :: [Mecoptera.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.protect.md) 
+
+### #is_/same_as :: [Mecoptera.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.private.md) 
+
+### #is_/same_as :: [Mecoptera.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.personal.md) 
+
+### #is_/same_as :: [Mecoptera.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.secret.md)
+

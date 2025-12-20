@@ -36,3 +36,21 @@ Commons_category: Holstein Friesian cattle
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Holstein%20Friesian)  
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Holstein_Cattle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Cattle/Holstein_Cattle.md) 
+
+### #is_/same_as :: [Holstein_Cattle.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Cattle/Holstein_Cattle.public.md) 
+
+### #is_/same_as :: [Holstein_Cattle.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Cattle/Holstein_Cattle.internal.md) 
+
+### #is_/same_as :: [Holstein_Cattle.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Cattle/Holstein_Cattle.protect.md) 
+
+### #is_/same_as :: [Holstein_Cattle.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Cattle/Holstein_Cattle.private.md) 
+
+### #is_/same_as :: [Holstein_Cattle.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Cattle/Holstein_Cattle.personal.md) 
+
+### #is_/same_as :: [Holstein_Cattle.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Cattle/Holstein_Cattle.secret.md)
+

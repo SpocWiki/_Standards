@@ -28,3 +28,22 @@ has_id_wikidata: Q163943
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Druze) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Druze](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.md) 
+
+### #is_/same_as :: [Druze.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.public.md) 
+
+### #is_/same_as :: [Druze.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.internal.md) 
+
+### #is_/same_as :: [Druze.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.protect.md) 
+
+### #is_/same_as :: [Druze.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.private.md) 
+
+### #is_/same_as :: [Druze.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.personal.md) 
+
+### #is_/same_as :: [Druze.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.secret.md)
+

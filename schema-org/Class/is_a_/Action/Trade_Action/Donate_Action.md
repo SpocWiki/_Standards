@@ -39,17 +39,17 @@ The act of providing goods, services, or money without compensation, often for p
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [donate_action](/_Standards/schema-org/Class/is_a_/action/trade_action/donate_action.md) 
+### #is_/same_as :: [Donate_Action](/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Donate_Action.md) 
 
-### #is_/same_as :: [donate_action.public](/_public/schema-org/Class/is_a_/action/trade_action/donate_action.public.md) 
+### #is_/same_as :: [Donate_Action.public](/_public/schema-org/Class/is_a_/Action/Trade_Action/Donate_Action.public.md) 
 
-### #is_/same_as :: [donate_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action/donate_action.internal.md) 
+### #is_/same_as :: [Donate_Action.internal](/_internal/schema-org/Class/is_a_/Action/Trade_Action/Donate_Action.internal.md) 
 
-### #is_/same_as :: [donate_action.protect](/_protect/schema-org/Class/is_a_/action/trade_action/donate_action.protect.md) 
+### #is_/same_as :: [Donate_Action.protect](/_protect/schema-org/Class/is_a_/Action/Trade_Action/Donate_Action.protect.md) 
 
-### #is_/same_as :: [donate_action.private](/_private/schema-org/Class/is_a_/action/trade_action/donate_action.private.md) 
+### #is_/same_as :: [Donate_Action.private](/_private/schema-org/Class/is_a_/Action/Trade_Action/Donate_Action.private.md) 
 
-### #is_/same_as :: [donate_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action/donate_action.personal.md) 
+### #is_/same_as :: [Donate_Action.personal](/_personal/schema-org/Class/is_a_/Action/Trade_Action/Donate_Action.personal.md) 
 
-### #is_/same_as :: [donate_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/donate_action.secret.md)
+### #is_/same_as :: [Donate_Action.secret](/_secret/schema-org/Class/is_a_/Action/Trade_Action/Donate_Action.secret.md)
 

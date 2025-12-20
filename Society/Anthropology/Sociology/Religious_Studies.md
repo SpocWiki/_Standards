@@ -52,3 +52,22 @@ PhilPapers_topic: religious-studies
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Religious%20studies) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Religious_Studies](/_Standards/Society/Anthropology/Sociology/Religious_Studies.md) 
+
+### #is_/same_as :: [Religious_Studies.public](/_public/Society/Anthropology/Sociology/Religious_Studies.public.md) 
+
+### #is_/same_as :: [Religious_Studies.internal](/_internal/Society/Anthropology/Sociology/Religious_Studies.internal.md) 
+
+### #is_/same_as :: [Religious_Studies.protect](/_protect/Society/Anthropology/Sociology/Religious_Studies.protect.md) 
+
+### #is_/same_as :: [Religious_Studies.private](/_private/Society/Anthropology/Sociology/Religious_Studies.private.md) 
+
+### #is_/same_as :: [Religious_Studies.personal](/_personal/Society/Anthropology/Sociology/Religious_Studies.personal.md) 
+
+### #is_/same_as :: [Religious_Studies.secret](/_secret/Society/Anthropology/Sociology/Religious_Studies.secret.md)
+

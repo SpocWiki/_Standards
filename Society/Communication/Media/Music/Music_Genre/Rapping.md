@@ -92,3 +92,22 @@ Library_of_Congress_Classification: ML3918.R37
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rapping) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rapping](/_Standards/Society/Communication/Media/Music/Music_Genre/Rapping.md) 
+
+### #is_/same_as :: [Rapping.public](/_public/Society/Communication/Media/Music/Music_Genre/Rapping.public.md) 
+
+### #is_/same_as :: [Rapping.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Rapping.internal.md) 
+
+### #is_/same_as :: [Rapping.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Rapping.protect.md) 
+
+### #is_/same_as :: [Rapping.private](/_private/Society/Communication/Media/Music/Music_Genre/Rapping.private.md) 
+
+### #is_/same_as :: [Rapping.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Rapping.personal.md) 
+
+### #is_/same_as :: [Rapping.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Rapping.secret.md)
+

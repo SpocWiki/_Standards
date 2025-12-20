@@ -118,3 +118,22 @@ German philosopher and anthropologist (1804–1872)
 > [Wikipedia](https://en.wikipedia.org/wiki/Ludwig%20Feuerbach) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ludwig_Feuerbach](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.md) 
+
+### #is_/same_as :: [Ludwig_Feuerbach.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.public.md) 
+
+### #is_/same_as :: [Ludwig_Feuerbach.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.internal.md) 
+
+### #is_/same_as :: [Ludwig_Feuerbach.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.protect.md) 
+
+### #is_/same_as :: [Ludwig_Feuerbach.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.private.md) 
+
+### #is_/same_as :: [Ludwig_Feuerbach.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.personal.md) 
+
+### #is_/same_as :: [Ludwig_Feuerbach.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Ludwig_Feuerbach.secret.md)
+

@@ -38,3 +38,22 @@ Commons_category: Agricultural rollers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roller%20(agricultural%20tool)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Roller(Agriculture)](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).md) 
+
+### #is_/same_as :: [Roller(Agriculture).public](/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).public.md) 
+
+### #is_/same_as :: [Roller(Agriculture).internal](/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).internal.md) 
+
+### #is_/same_as :: [Roller(Agriculture).protect](/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).protect.md) 
+
+### #is_/same_as :: [Roller(Agriculture).private](/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).private.md) 
+
+### #is_/same_as :: [Roller(Agriculture).personal](/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).personal.md) 
+
+### #is_/same_as :: [Roller(Agriculture).secret](/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).secret.md)
+

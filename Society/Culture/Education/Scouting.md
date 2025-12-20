@@ -74,3 +74,22 @@ inception: 1907-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scouting) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scouting](/_Standards/Society/Culture/Education/Scouting.md) 
+
+### #is_/same_as :: [Scouting.public](/_public/Society/Culture/Education/Scouting.public.md) 
+
+### #is_/same_as :: [Scouting.internal](/_internal/Society/Culture/Education/Scouting.internal.md) 
+
+### #is_/same_as :: [Scouting.protect](/_protect/Society/Culture/Education/Scouting.protect.md) 
+
+### #is_/same_as :: [Scouting.private](/_private/Society/Culture/Education/Scouting.private.md) 
+
+### #is_/same_as :: [Scouting.personal](/_personal/Society/Culture/Education/Scouting.personal.md) 
+
+### #is_/same_as :: [Scouting.secret](/_secret/Society/Culture/Education/Scouting.secret.md)
+

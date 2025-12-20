@@ -47,3 +47,22 @@ Commons_category: Daytime (astronomy)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Daytime) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Daytime](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.md) 
+
+### #is_/same_as :: [Daytime.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.public.md) 
+
+### #is_/same_as :: [Daytime.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.internal.md) 
+
+### #is_/same_as :: [Daytime.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.protect.md) 
+
+### #is_/same_as :: [Daytime.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.private.md) 
+
+### #is_/same_as :: [Daytime.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.personal.md) 
+
+### #is_/same_as :: [Daytime.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.secret.md)
+

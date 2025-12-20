@@ -76,3 +76,22 @@ OpenStreetMap_tag_or_key: Tag:landform=dune_system
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dune) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dune](/_Standards/Earth/Geology/Landform/Dune.md) 
+
+### #is_/same_as :: [Dune.public](/_public/Earth/Geology/Landform/Dune.public.md) 
+
+### #is_/same_as :: [Dune.internal](/_internal/Earth/Geology/Landform/Dune.internal.md) 
+
+### #is_/same_as :: [Dune.protect](/_protect/Earth/Geology/Landform/Dune.protect.md) 
+
+### #is_/same_as :: [Dune.private](/_private/Earth/Geology/Landform/Dune.private.md) 
+
+### #is_/same_as :: [Dune.personal](/_personal/Earth/Geology/Landform/Dune.personal.md) 
+
+### #is_/same_as :: [Dune.secret](/_secret/Earth/Geology/Landform/Dune.secret.md)
+

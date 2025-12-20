@@ -177,9 +177,6 @@ Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/KAPITAL.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Capital%20(economics)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Capital(Economics)](/_Standards/Society/Ideology/Economic_Ideology/Capitalism/Capital(Economics).md) 

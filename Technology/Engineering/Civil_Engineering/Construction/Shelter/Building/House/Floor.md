@@ -55,3 +55,22 @@ Commons_category: Floors
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Floor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Floor](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor.md) 
+
+### #is_/same_as :: [Floor.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor.public.md) 
+
+### #is_/same_as :: [Floor.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor.internal.md) 
+
+### #is_/same_as :: [Floor.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor.protect.md) 
+
+### #is_/same_as :: [Floor.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor.private.md) 
+
+### #is_/same_as :: [Floor.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor.personal.md) 
+
+### #is_/same_as :: [Floor.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor.secret.md)
+

@@ -91,3 +91,22 @@ work_period_start_: 1925-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marian%20Anderson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anderson,Marian](/_Standards/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.md) 
+
+### #is_/same_as :: [Anderson,Marian.public](/_public/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.public.md) 
+
+### #is_/same_as :: [Anderson,Marian.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.internal.md) 
+
+### #is_/same_as :: [Anderson,Marian.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.protect.md) 
+
+### #is_/same_as :: [Anderson,Marian.private](/_private/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.private.md) 
+
+### #is_/same_as :: [Anderson,Marian.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.personal.md) 
+
+### #is_/same_as :: [Anderson,Marian.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.secret.md)
+

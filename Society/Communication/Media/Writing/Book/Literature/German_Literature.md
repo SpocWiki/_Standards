@@ -45,3 +45,22 @@ Library_of_Congress_Classification: PT1-4897
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/German%20literature) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [German_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/German_Literature.md) 
+
+### #is_/same_as :: [German_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/German_Literature.public.md) 
+
+### #is_/same_as :: [German_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/German_Literature.internal.md) 
+
+### #is_/same_as :: [German_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/German_Literature.protect.md) 
+
+### #is_/same_as :: [German_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/German_Literature.private.md) 
+
+### #is_/same_as :: [German_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/German_Literature.personal.md) 
+
+### #is_/same_as :: [German_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/German_Literature.secret.md)
+

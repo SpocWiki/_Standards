@@ -82,7 +82,7 @@ Compare all phyllotine genera together by selecting the view below.
   -----------
   Scientific Name ::  Auliscomys boliviensis
   Copyright ::         © 1996 O. Pearson
-  -----------
+  -----------
 
 
 ## Confidential Links & Embeds: 

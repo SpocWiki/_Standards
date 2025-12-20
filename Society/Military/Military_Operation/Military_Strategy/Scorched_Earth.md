@@ -38,3 +38,22 @@ Commons_category: Scorched earth (military)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scorched%20earth) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scorched_Earth](/_Standards/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.md) 
+
+### #is_/same_as :: [Scorched_Earth.public](/_public/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.public.md) 
+
+### #is_/same_as :: [Scorched_Earth.internal](/_internal/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.internal.md) 
+
+### #is_/same_as :: [Scorched_Earth.protect](/_protect/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.protect.md) 
+
+### #is_/same_as :: [Scorched_Earth.private](/_private/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.private.md) 
+
+### #is_/same_as :: [Scorched_Earth.personal](/_personal/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.personal.md) 
+
+### #is_/same_as :: [Scorched_Earth.secret](/_secret/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.secret.md)
+

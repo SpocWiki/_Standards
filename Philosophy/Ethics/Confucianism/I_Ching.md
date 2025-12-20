@@ -88,3 +88,22 @@ first_line: 乾 ䷀ 元亨利貞
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/I%20Ching) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [I_Ching](/_Standards/Philosophy/Ethics/Confucianism/I_Ching.md) 
+
+### #is_/same_as :: [I_Ching.public](/_public/Philosophy/Ethics/Confucianism/I_Ching.public.md) 
+
+### #is_/same_as :: [I_Ching.internal](/_internal/Philosophy/Ethics/Confucianism/I_Ching.internal.md) 
+
+### #is_/same_as :: [I_Ching.protect](/_protect/Philosophy/Ethics/Confucianism/I_Ching.protect.md) 
+
+### #is_/same_as :: [I_Ching.private](/_private/Philosophy/Ethics/Confucianism/I_Ching.private.md) 
+
+### #is_/same_as :: [I_Ching.personal](/_personal/Philosophy/Ethics/Confucianism/I_Ching.personal.md) 
+
+### #is_/same_as :: [I_Ching.secret](/_secret/Philosophy/Ethics/Confucianism/I_Ching.secret.md)
+

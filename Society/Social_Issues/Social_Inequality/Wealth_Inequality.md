@@ -27,3 +27,22 @@ Since 1982, [[Forbes_Magazine]] unashamedly publishes the List of the richest Pe
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Distribution%20of%20wealth) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wealth_Inequality](/_Standards/Society/Social_Issues/Social_Inequality/Wealth_Inequality.md) 
+
+### #is_/same_as :: [Wealth_Inequality.public](/_public/Society/Social_Issues/Social_Inequality/Wealth_Inequality.public.md) 
+
+### #is_/same_as :: [Wealth_Inequality.internal](/_internal/Society/Social_Issues/Social_Inequality/Wealth_Inequality.internal.md) 
+
+### #is_/same_as :: [Wealth_Inequality.protect](/_protect/Society/Social_Issues/Social_Inequality/Wealth_Inequality.protect.md) 
+
+### #is_/same_as :: [Wealth_Inequality.private](/_private/Society/Social_Issues/Social_Inequality/Wealth_Inequality.private.md) 
+
+### #is_/same_as :: [Wealth_Inequality.personal](/_personal/Society/Social_Issues/Social_Inequality/Wealth_Inequality.personal.md) 
+
+### #is_/same_as :: [Wealth_Inequality.secret](/_secret/Society/Social_Issues/Social_Inequality/Wealth_Inequality.secret.md)
+

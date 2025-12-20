@@ -38,3 +38,22 @@ facet_of: "[[_Standards/WikiData/WD~society,8425]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20formation) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Formation](/_Standards/Society/Anthropology/Sociology/Social_Formation.md) 
+
+### #is_/same_as :: [Social_Formation.public](/_public/Society/Anthropology/Sociology/Social_Formation.public.md) 
+
+### #is_/same_as :: [Social_Formation.internal](/_internal/Society/Anthropology/Sociology/Social_Formation.internal.md) 
+
+### #is_/same_as :: [Social_Formation.protect](/_protect/Society/Anthropology/Sociology/Social_Formation.protect.md) 
+
+### #is_/same_as :: [Social_Formation.private](/_private/Society/Anthropology/Sociology/Social_Formation.private.md) 
+
+### #is_/same_as :: [Social_Formation.personal](/_personal/Society/Anthropology/Sociology/Social_Formation.personal.md) 
+
+### #is_/same_as :: [Social_Formation.secret](/_secret/Society/Anthropology/Sociology/Social_Formation.secret.md)
+

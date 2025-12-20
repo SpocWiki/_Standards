@@ -94,3 +94,22 @@ Unicode_character: 🐨
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Koala) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Koala](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph/Phas7idae/Koala.md) 
+
+### #is_/same_as :: [Koala.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph/Phas7idae/Koala.public.md) 
+
+### #is_/same_as :: [Koala.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph/Phas7idae/Koala.internal.md) 
+
+### #is_/same_as :: [Koala.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph/Phas7idae/Koala.protect.md) 
+
+### #is_/same_as :: [Koala.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph/Phas7idae/Koala.private.md) 
+
+### #is_/same_as :: [Koala.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph/Phas7idae/Koala.personal.md) 
+
+### #is_/same_as :: [Koala.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph/Phas7idae/Koala.secret.md)
+

@@ -52,3 +52,22 @@ coordinate_location: Point(-0.05 16.26666667)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Songhai%20Empire) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1464-Songhai_Empire+1591](/_Standards/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.md) 
+
+### #is_/same_as :: [1464-Songhai_Empire+1591.public](/_public/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.public.md) 
+
+### #is_/same_as :: [1464-Songhai_Empire+1591.internal](/_internal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.internal.md) 
+
+### #is_/same_as :: [1464-Songhai_Empire+1591.protect](/_protect/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.protect.md) 
+
+### #is_/same_as :: [1464-Songhai_Empire+1591.private](/_private/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.private.md) 
+
+### #is_/same_as :: [1464-Songhai_Empire+1591.personal](/_personal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.personal.md) 
+
+### #is_/same_as :: [1464-Songhai_Empire+1591.secret](/_secret/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.secret.md)
+

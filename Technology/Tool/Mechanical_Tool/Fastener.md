@@ -59,3 +59,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Screws.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fastener) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fastener](/_Standards/Technology/Tool/Mechanical_Tool/Fastener.md) 
+
+### #is_/same_as :: [Fastener.public](/_public/Technology/Tool/Mechanical_Tool/Fastener.public.md) 
+
+### #is_/same_as :: [Fastener.internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener.internal.md) 
+
+### #is_/same_as :: [Fastener.protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener.protect.md) 
+
+### #is_/same_as :: [Fastener.private](/_private/Technology/Tool/Mechanical_Tool/Fastener.private.md) 
+
+### #is_/same_as :: [Fastener.personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener.personal.md) 
+
+### #is_/same_as :: [Fastener.secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener.secret.md)
+

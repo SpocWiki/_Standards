@@ -54,3 +54,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/200%20y%20Anniversary%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Learned%20society) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Learned_Society](/_Standards/Society/Agent/Community/Organization/Educational_Organization/Learned_Society.md) 
+
+### #is_/same_as :: [Learned_Society.public](/_public/Society/Agent/Community/Organization/Educational_Organization/Learned_Society.public.md) 
+
+### #is_/same_as :: [Learned_Society.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/Learned_Society.internal.md) 
+
+### #is_/same_as :: [Learned_Society.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/Learned_Society.protect.md) 
+
+### #is_/same_as :: [Learned_Society.private](/_private/Society/Agent/Community/Organization/Educational_Organization/Learned_Society.private.md) 
+
+### #is_/same_as :: [Learned_Society.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/Learned_Society.personal.md) 
+
+### #is_/same_as :: [Learned_Society.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/Learned_Society.secret.md)
+

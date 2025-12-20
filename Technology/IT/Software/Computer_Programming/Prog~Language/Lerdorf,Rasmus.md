@@ -45,3 +45,22 @@ Mastodon_address: rasmus@phpc.social
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rasmus%20Lerdorf) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lerdorf,Rasmus](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.md) 
+
+### #is_/same_as :: [Lerdorf,Rasmus.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.public.md) 
+
+### #is_/same_as :: [Lerdorf,Rasmus.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.internal.md) 
+
+### #is_/same_as :: [Lerdorf,Rasmus.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.protect.md) 
+
+### #is_/same_as :: [Lerdorf,Rasmus.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.private.md) 
+
+### #is_/same_as :: [Lerdorf,Rasmus.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.personal.md) 
+
+### #is_/same_as :: [Lerdorf,Rasmus.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.secret.md)
+

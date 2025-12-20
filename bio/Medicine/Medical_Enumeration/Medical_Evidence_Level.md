@@ -37,17 +37,17 @@ Level of evidence for a medical guideline. Enumerated type.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [medical_evidence_level](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.md) 
+### #is_/same_as :: [Medical_Evidence_Level](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.md) 
 
-### #is_/same_as :: [medical_evidence_level.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.public.md) 
+### #is_/same_as :: [Medical_Evidence_Level.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.public.md) 
 
-### #is_/same_as :: [medical_evidence_level.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.internal.md) 
+### #is_/same_as :: [Medical_Evidence_Level.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.internal.md) 
 
-### #is_/same_as :: [medical_evidence_level.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.protect.md) 
+### #is_/same_as :: [Medical_Evidence_Level.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.protect.md) 
 
-### #is_/same_as :: [medical_evidence_level.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.private.md) 
+### #is_/same_as :: [Medical_Evidence_Level.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.private.md) 
 
-### #is_/same_as :: [medical_evidence_level.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.personal.md) 
+### #is_/same_as :: [Medical_Evidence_Level.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.personal.md) 
 
-### #is_/same_as :: [medical_evidence_level.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.secret.md)
+### #is_/same_as :: [Medical_Evidence_Level.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.secret.md)
 

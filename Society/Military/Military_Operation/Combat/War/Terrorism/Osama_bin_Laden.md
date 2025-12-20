@@ -169,3 +169,22 @@ booru_tag: osama_bin_laden
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Osama%20bin%20Laden)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Osama_bin_Laden](/_Standards/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.md) 
+
+### #is_/same_as :: [Osama_bin_Laden.public](/_public/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.public.md) 
+
+### #is_/same_as :: [Osama_bin_Laden.internal](/_internal/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.internal.md) 
+
+### #is_/same_as :: [Osama_bin_Laden.protect](/_protect/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.protect.md) 
+
+### #is_/same_as :: [Osama_bin_Laden.private](/_private/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.private.md) 
+
+### #is_/same_as :: [Osama_bin_Laden.personal](/_personal/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.personal.md) 
+
+### #is_/same_as :: [Osama_bin_Laden.secret](/_secret/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.secret.md)
+

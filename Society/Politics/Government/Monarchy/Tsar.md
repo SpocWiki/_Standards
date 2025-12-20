@@ -83,3 +83,22 @@ native_label: Цьръ
 > [Wikipedia](https://en.wikipedia.org/wiki/Tsar) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tsar](/_Standards/Society/Politics/Government/Monarchy/Tsar.md) 
+
+### #is_/same_as :: [Tsar.public](/_public/Society/Politics/Government/Monarchy/Tsar.public.md) 
+
+### #is_/same_as :: [Tsar.internal](/_internal/Society/Politics/Government/Monarchy/Tsar.internal.md) 
+
+### #is_/same_as :: [Tsar.protect](/_protect/Society/Politics/Government/Monarchy/Tsar.protect.md) 
+
+### #is_/same_as :: [Tsar.private](/_private/Society/Politics/Government/Monarchy/Tsar.private.md) 
+
+### #is_/same_as :: [Tsar.personal](/_personal/Society/Politics/Government/Monarchy/Tsar.personal.md) 
+
+### #is_/same_as :: [Tsar.secret](/_secret/Society/Politics/Government/Monarchy/Tsar.secret.md)
+

@@ -44,3 +44,22 @@ Commons_category: Dew point
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dew%20point) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dew_Point](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Dew_Point.md) 
+
+### #is_/same_as :: [Dew_Point.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Dew_Point.public.md) 
+
+### #is_/same_as :: [Dew_Point.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Dew_Point.internal.md) 
+
+### #is_/same_as :: [Dew_Point.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Dew_Point.protect.md) 
+
+### #is_/same_as :: [Dew_Point.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Dew_Point.private.md) 
+
+### #is_/same_as :: [Dew_Point.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Dew_Point.personal.md) 
+
+### #is_/same_as :: [Dew_Point.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Dew_Point.secret.md)
+

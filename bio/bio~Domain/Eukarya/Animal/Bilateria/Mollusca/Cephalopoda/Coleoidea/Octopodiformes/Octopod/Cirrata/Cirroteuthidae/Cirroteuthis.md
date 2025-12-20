@@ -145,7 +145,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
   Reference         Voss, G. L. and W. G. Pearcy. 1990. Deep-water octopods (Mollusca: Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47: 47-94.
   View              Ventral
   Copyright ::         © 1990 G.L. Voss and W.G. Pearcy
-  -------------------------------------------------
+  -------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

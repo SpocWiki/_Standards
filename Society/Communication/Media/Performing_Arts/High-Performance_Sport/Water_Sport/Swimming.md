@@ -77,17 +77,17 @@ Unicode_character: "\U0001F3CA"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Swimming](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Water_Sport/Swimming.md) 
+### #is_/same_as :: [Swimming](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.md) 
 
-### #is_/same_as :: [Swimming.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Water_Sport/Swimming.public.md) 
+### #is_/same_as :: [Swimming.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.public.md) 
 
-### #is_/same_as :: [Swimming.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Water_Sport/Swimming.internal.md) 
+### #is_/same_as :: [Swimming.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.internal.md) 
 
-### #is_/same_as :: [Swimming.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Water_Sport/Swimming.protect.md) 
+### #is_/same_as :: [Swimming.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.protect.md) 
 
-### #is_/same_as :: [Swimming.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Water_Sport/Swimming.private.md) 
+### #is_/same_as :: [Swimming.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.private.md) 
 
-### #is_/same_as :: [Swimming.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Water_Sport/Swimming.personal.md) 
+### #is_/same_as :: [Swimming.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.personal.md) 
 
-### #is_/same_as :: [Swimming.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Water_Sport/Swimming.secret.md)
+### #is_/same_as :: [Swimming.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.secret.md)
 

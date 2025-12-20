@@ -20,3 +20,22 @@ Graphical Representation:
 
 ![[Structogram#Code-Sequence]] 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Structure~Sequence](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.md) 
+
+### #is_/same_as :: [Structure~Sequence.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.public.md) 
+
+### #is_/same_as :: [Structure~Sequence.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.internal.md) 
+
+### #is_/same_as :: [Structure~Sequence.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.protect.md) 
+
+### #is_/same_as :: [Structure~Sequence.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.private.md) 
+
+### #is_/same_as :: [Structure~Sequence.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.personal.md) 
+
+### #is_/same_as :: [Structure~Sequence.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.secret.md)
+

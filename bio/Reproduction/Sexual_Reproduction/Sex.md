@@ -79,17 +79,17 @@ Wikidata_property: sex or gender
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sex](/_Standards/bio/Reproduction/Sex.md) 
+### #is_/same_as :: [Sex](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex.md) 
 
-### #is_/same_as :: [Sex.public](/_public/bio/Reproduction/Sex.public.md) 
+### #is_/same_as :: [Sex.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex.public.md) 
 
-### #is_/same_as :: [Sex.internal](/_internal/bio/Reproduction/Sex.internal.md) 
+### #is_/same_as :: [Sex.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex.internal.md) 
 
-### #is_/same_as :: [Sex.protect](/_protect/bio/Reproduction/Sex.protect.md) 
+### #is_/same_as :: [Sex.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex.protect.md) 
 
-### #is_/same_as :: [Sex.private](/_private/bio/Reproduction/Sex.private.md) 
+### #is_/same_as :: [Sex.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex.private.md) 
 
-### #is_/same_as :: [Sex.personal](/_personal/bio/Reproduction/Sex.personal.md) 
+### #is_/same_as :: [Sex.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex.personal.md) 
 
-### #is_/same_as :: [Sex.secret](/_secret/bio/Reproduction/Sex.secret.md)
+### #is_/same_as :: [Sex.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex.secret.md)
 

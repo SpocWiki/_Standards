@@ -42,17 +42,17 @@ Nonprofit501c22: Non-profit type referring to Withdrawal Liability Payment Funds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c22](Nonprofit501c22.md) 
+### #is_/same_as :: [Nonprofit501c22](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.md) 
 
-### #is_/same_as :: [nonprofit501c22.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c22.public.md) 
+### #is_/same_as :: [Nonprofit501c22.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.public.md) 
 
-### #is_/same_as :: [nonprofit501c22.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c22.internal.md) 
+### #is_/same_as :: [Nonprofit501c22.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.internal.md) 
 
-### #is_/same_as :: [nonprofit501c22.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c22.protect.md) 
+### #is_/same_as :: [Nonprofit501c22.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.protect.md) 
 
-### #is_/same_as :: [nonprofit501c22.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c22.private.md) 
+### #is_/same_as :: [Nonprofit501c22.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.private.md) 
 
-### #is_/same_as :: [nonprofit501c22.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c22.personal.md) 
+### #is_/same_as :: [Nonprofit501c22.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.personal.md) 
 
-### #is_/same_as :: [nonprofit501c22.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c22.secret.md)
+### #is_/same_as :: [Nonprofit501c22.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.secret.md)
 

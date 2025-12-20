@@ -39,3 +39,22 @@ inception: 1913-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Suprematism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Suprematism](/_Standards/Society/Communication/Art/Art_History/Suprematism.md) 
+
+### #is_/same_as :: [Suprematism.public](/_public/Society/Communication/Art/Art_History/Suprematism.public.md) 
+
+### #is_/same_as :: [Suprematism.internal](/_internal/Society/Communication/Art/Art_History/Suprematism.internal.md) 
+
+### #is_/same_as :: [Suprematism.protect](/_protect/Society/Communication/Art/Art_History/Suprematism.protect.md) 
+
+### #is_/same_as :: [Suprematism.private](/_private/Society/Communication/Art/Art_History/Suprematism.private.md) 
+
+### #is_/same_as :: [Suprematism.personal](/_personal/Society/Communication/Art/Art_History/Suprematism.personal.md) 
+
+### #is_/same_as :: [Suprematism.secret](/_secret/Society/Communication/Art/Art_History/Suprematism.secret.md)
+

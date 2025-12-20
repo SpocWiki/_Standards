@@ -61,3 +61,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sanitation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sanitation](/_Standards/bio/Medicine/Medical_Business/Public_Health/Sanitation.md) 
+
+### #is_/same_as :: [Sanitation.public](/_public/bio/Medicine/Medical_Business/Public_Health/Sanitation.public.md) 
+
+### #is_/same_as :: [Sanitation.internal](/_internal/bio/Medicine/Medical_Business/Public_Health/Sanitation.internal.md) 
+
+### #is_/same_as :: [Sanitation.protect](/_protect/bio/Medicine/Medical_Business/Public_Health/Sanitation.protect.md) 
+
+### #is_/same_as :: [Sanitation.private](/_private/bio/Medicine/Medical_Business/Public_Health/Sanitation.private.md) 
+
+### #is_/same_as :: [Sanitation.personal](/_personal/bio/Medicine/Medical_Business/Public_Health/Sanitation.personal.md) 
+
+### #is_/same_as :: [Sanitation.secret](/_secret/bio/Medicine/Medical_Business/Public_Health/Sanitation.secret.md)
+

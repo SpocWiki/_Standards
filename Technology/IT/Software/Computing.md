@@ -39,3 +39,22 @@ Commons_category: Computing
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Computing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Computing](/_Standards/Technology/IT/Software/Computing.md) 
+
+### #is_/same_as :: [Computing.public](/_public/Technology/IT/Software/Computing.public.md) 
+
+### #is_/same_as :: [Computing.internal](/_internal/Technology/IT/Software/Computing.internal.md) 
+
+### #is_/same_as :: [Computing.protect](/_protect/Technology/IT/Software/Computing.protect.md) 
+
+### #is_/same_as :: [Computing.private](/_private/Technology/IT/Software/Computing.private.md) 
+
+### #is_/same_as :: [Computing.personal](/_personal/Technology/IT/Software/Computing.personal.md) 
+
+### #is_/same_as :: [Computing.secret](/_secret/Technology/IT/Software/Computing.secret.md)
+

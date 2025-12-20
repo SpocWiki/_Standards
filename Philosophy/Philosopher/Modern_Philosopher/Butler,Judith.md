@@ -140,3 +140,22 @@ Europeana_entity: agent/base/145434
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Judith%20Butler) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Butler,Judith](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.md) 
+
+### #is_/same_as :: [Butler,Judith.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.public.md) 
+
+### #is_/same_as :: [Butler,Judith.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.internal.md) 
+
+### #is_/same_as :: [Butler,Judith.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.protect.md) 
+
+### #is_/same_as :: [Butler,Judith.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.private.md) 
+
+### #is_/same_as :: [Butler,Judith.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.personal.md) 
+
+### #is_/same_as :: [Butler,Judith.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.secret.md)
+

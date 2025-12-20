@@ -71,3 +71,22 @@ Commons_category: Representation theory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Representation%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Representation_Theory](/_Standards/Mathematics/Representation_Theory.md) 
+
+### #is_/same_as :: [Representation_Theory.public](/_public/Mathematics/Representation_Theory.public.md) 
+
+### #is_/same_as :: [Representation_Theory.internal](/_internal/Mathematics/Representation_Theory.internal.md) 
+
+### #is_/same_as :: [Representation_Theory.protect](/_protect/Mathematics/Representation_Theory.protect.md) 
+
+### #is_/same_as :: [Representation_Theory.private](/_private/Mathematics/Representation_Theory.private.md) 
+
+### #is_/same_as :: [Representation_Theory.personal](/_personal/Mathematics/Representation_Theory.personal.md) 
+
+### #is_/same_as :: [Representation_Theory.secret](/_secret/Mathematics/Representation_Theory.secret.md)
+

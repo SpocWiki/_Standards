@@ -89,3 +89,22 @@ ISNI: "0000000114499517"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leontyne%20Price) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leontyne_Price](/_Standards/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Leontyne_Price.md) 
+
+### #is_/same_as :: [Leontyne_Price.public](/_public/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Leontyne_Price.public.md) 
+
+### #is_/same_as :: [Leontyne_Price.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Leontyne_Price.internal.md) 
+
+### #is_/same_as :: [Leontyne_Price.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Leontyne_Price.protect.md) 
+
+### #is_/same_as :: [Leontyne_Price.private](/_private/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Leontyne_Price.private.md) 
+
+### #is_/same_as :: [Leontyne_Price.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Leontyne_Price.personal.md) 
+
+### #is_/same_as :: [Leontyne_Price.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Leontyne_Price.secret.md)
+

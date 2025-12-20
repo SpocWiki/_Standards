@@ -60,3 +60,22 @@ described_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wayang) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wayang](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Wayang.md) 
+
+### #is_/same_as :: [Wayang.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Wayang.public.md) 
+
+### #is_/same_as :: [Wayang.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Wayang.internal.md) 
+
+### #is_/same_as :: [Wayang.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Wayang.protect.md) 
+
+### #is_/same_as :: [Wayang.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Wayang.private.md) 
+
+### #is_/same_as :: [Wayang.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Wayang.personal.md) 
+
+### #is_/same_as :: [Wayang.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Wayang.secret.md)
+

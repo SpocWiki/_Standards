@@ -91,3 +91,22 @@ Instagram_username: isostandards
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Organization%20for%20Standardization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ISO(International_Organization_for_Standardization)](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).md) 
+
+### #is_/same_as :: [ISO(International_Organization_for_Standardization).public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).public.md) 
+
+### #is_/same_as :: [ISO(International_Organization_for_Standardization).internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).internal.md) 
+
+### #is_/same_as :: [ISO(International_Organization_for_Standardization).protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).protect.md) 
+
+### #is_/same_as :: [ISO(International_Organization_for_Standardization).private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).private.md) 
+
+### #is_/same_as :: [ISO(International_Organization_for_Standardization).personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).personal.md) 
+
+### #is_/same_as :: [ISO(International_Organization_for_Standardization).secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).secret.md)
+

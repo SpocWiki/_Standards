@@ -46,3 +46,22 @@ Unicode_character: 🪚
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saw) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Saw](/_Standards/Technology/Tool/Mechanical_Tool/Saw.md) 
+
+### #is_/same_as :: [Saw.public](/_public/Technology/Tool/Mechanical_Tool/Saw.public.md) 
+
+### #is_/same_as :: [Saw.internal](/_internal/Technology/Tool/Mechanical_Tool/Saw.internal.md) 
+
+### #is_/same_as :: [Saw.protect](/_protect/Technology/Tool/Mechanical_Tool/Saw.protect.md) 
+
+### #is_/same_as :: [Saw.private](/_private/Technology/Tool/Mechanical_Tool/Saw.private.md) 
+
+### #is_/same_as :: [Saw.personal](/_personal/Technology/Tool/Mechanical_Tool/Saw.personal.md) 
+
+### #is_/same_as :: [Saw.secret](/_secret/Technology/Tool/Mechanical_Tool/Saw.secret.md)
+

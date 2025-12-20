@@ -42,17 +42,17 @@ Item shows or promotes violence.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Violence_Consideration](Violence_Consideration.md) 
+### #is_/same_as :: [Violence_Consideration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.md) 
 
-### #is_/same_as :: [violence_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.public.md) 
+### #is_/same_as :: [Violence_Consideration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.public.md) 
 
-### #is_/same_as :: [violence_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.internal.md) 
+### #is_/same_as :: [Violence_Consideration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.internal.md) 
 
-### #is_/same_as :: [violence_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.protect.md) 
+### #is_/same_as :: [Violence_Consideration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.protect.md) 
 
-### #is_/same_as :: [violence_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.private.md) 
+### #is_/same_as :: [Violence_Consideration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.private.md) 
 
-### #is_/same_as :: [violence_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.personal.md) 
+### #is_/same_as :: [Violence_Consideration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.personal.md) 
 
-### #is_/same_as :: [violence_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.secret.md)
+### #is_/same_as :: [Violence_Consideration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.secret.md)
 

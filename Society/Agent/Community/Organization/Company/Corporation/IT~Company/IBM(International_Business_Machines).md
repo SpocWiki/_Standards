@@ -273,3 +273,22 @@ IPv4_routing_prefix: 9.0.0.0/8
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/IBM) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [IBM(International_Business_Machines)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).md) 
+
+### #is_/same_as :: [IBM(International_Business_Machines).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).public.md) 
+
+### #is_/same_as :: [IBM(International_Business_Machines).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).internal.md) 
+
+### #is_/same_as :: [IBM(International_Business_Machines).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).protect.md) 
+
+### #is_/same_as :: [IBM(International_Business_Machines).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).private.md) 
+
+### #is_/same_as :: [IBM(International_Business_Machines).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).personal.md) 
+
+### #is_/same_as :: [IBM(International_Business_Machines).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/IBM(International_Business_Machines).secret.md)
+

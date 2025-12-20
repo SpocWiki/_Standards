@@ -51,3 +51,22 @@ OpenStreetMap_tag: sport=petanque
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/P%C3%A9tanque) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Petanque](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Petanque.md) 
+
+### #is_/same_as :: [Petanque.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Petanque.public.md) 
+
+### #is_/same_as :: [Petanque.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Petanque.internal.md) 
+
+### #is_/same_as :: [Petanque.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Petanque.protect.md) 
+
+### #is_/same_as :: [Petanque.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Petanque.private.md) 
+
+### #is_/same_as :: [Petanque.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Petanque.personal.md) 
+
+### #is_/same_as :: [Petanque.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Petanque.secret.md)
+

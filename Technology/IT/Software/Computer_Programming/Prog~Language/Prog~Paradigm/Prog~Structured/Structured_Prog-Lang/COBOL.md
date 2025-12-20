@@ -82,3 +82,22 @@ name_in_kana: コボル
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/COBOL)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [COBOL](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/COBOL.md) 
+
+### #is_/same_as :: [COBOL.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/COBOL.public.md) 
+
+### #is_/same_as :: [COBOL.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/COBOL.internal.md) 
+
+### #is_/same_as :: [COBOL.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/COBOL.protect.md) 
+
+### #is_/same_as :: [COBOL.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/COBOL.private.md) 
+
+### #is_/same_as :: [COBOL.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/COBOL.personal.md) 
+
+### #is_/same_as :: [COBOL.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/COBOL.secret.md)
+

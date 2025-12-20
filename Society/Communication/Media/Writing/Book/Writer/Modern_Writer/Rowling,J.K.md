@@ -192,3 +192,21 @@ NLC_authorities: "051064532"
 > Beginning in 2019, Rowling began making public remarks about transgender people, in opposition to the notion that gender identity differs from birth sex. She has been condemned as transphobic by LGBT rights groups, some Harry Potter fans, and various other critics, including academics, which has affected her public image and relationship with readers and colleagues, altering the way they engage with her works.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/J.%20K.%20Rowling)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rowling,J.K](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.md) 
+
+### #is_/same_as :: [Rowling,J.K.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.public.md) 
+
+### #is_/same_as :: [Rowling,J.K.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.internal.md) 
+
+### #is_/same_as :: [Rowling,J.K.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.protect.md) 
+
+### #is_/same_as :: [Rowling,J.K.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.private.md) 
+
+### #is_/same_as :: [Rowling,J.K.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.personal.md) 
+
+### #is_/same_as :: [Rowling,J.K.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Rowling,J.K.secret.md)
+

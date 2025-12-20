@@ -183,3 +183,22 @@ X_Twitter_username: NATO
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/NATO)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [NATO](/_Standards/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.md) 
+
+### #is_/same_as :: [NATO.public](/_public/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.public.md) 
+
+### #is_/same_as :: [NATO.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.internal.md) 
+
+### #is_/same_as :: [NATO.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.protect.md) 
+
+### #is_/same_as :: [NATO.private](/_private/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.private.md) 
+
+### #is_/same_as :: [NATO.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.personal.md) 
+
+### #is_/same_as :: [NATO.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.secret.md)
+

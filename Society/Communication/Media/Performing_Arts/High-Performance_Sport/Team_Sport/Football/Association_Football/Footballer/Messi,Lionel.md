@@ -271,3 +271,22 @@ IPA_transcription: ljoˈnel anˈdɾes ˈmesi
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lionel%20Messi) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Messi,Lionel](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.md) 
+
+### #is_/same_as :: [Messi,Lionel.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.public.md) 
+
+### #is_/same_as :: [Messi,Lionel.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.internal.md) 
+
+### #is_/same_as :: [Messi,Lionel.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.protect.md) 
+
+### #is_/same_as :: [Messi,Lionel.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.private.md) 
+
+### #is_/same_as :: [Messi,Lionel.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.personal.md) 
+
+### #is_/same_as :: [Messi,Lionel.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.secret.md)
+

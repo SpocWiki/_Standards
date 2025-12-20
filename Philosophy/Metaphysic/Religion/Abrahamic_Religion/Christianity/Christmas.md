@@ -139,3 +139,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q3423
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Christmas) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Christmas](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christmas.md) 
+
+### #is_/same_as :: [Christmas.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christmas.public.md) 
+
+### #is_/same_as :: [Christmas.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christmas.internal.md) 
+
+### #is_/same_as :: [Christmas.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christmas.protect.md) 
+
+### #is_/same_as :: [Christmas.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christmas.private.md) 
+
+### #is_/same_as :: [Christmas.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christmas.personal.md) 
+
+### #is_/same_as :: [Christmas.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christmas.secret.md)
+

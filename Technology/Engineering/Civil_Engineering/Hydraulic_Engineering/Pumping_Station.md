@@ -48,3 +48,22 @@ Commons_category: Pumping stations
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pumping%20station) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pumping_Station](/_Standards/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.md) 
+
+### #is_/same_as :: [Pumping_Station.public](/_public/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.public.md) 
+
+### #is_/same_as :: [Pumping_Station.internal](/_internal/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.internal.md) 
+
+### #is_/same_as :: [Pumping_Station.protect](/_protect/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.protect.md) 
+
+### #is_/same_as :: [Pumping_Station.private](/_private/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.private.md) 
+
+### #is_/same_as :: [Pumping_Station.personal](/_personal/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.personal.md) 
+
+### #is_/same_as :: [Pumping_Station.secret](/_secret/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering/Pumping_Station.secret.md)
+

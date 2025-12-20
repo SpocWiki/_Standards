@@ -109,3 +109,22 @@ ISNI: "0000000122762514"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gotthold%20Ephraim%20Lessing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lessing,Gotthold_Ephraim](/_Standards/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.md) 
+
+### #is_/same_as :: [Lessing,Gotthold_Ephraim.public](/_public/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.public.md) 
+
+### #is_/same_as :: [Lessing,Gotthold_Ephraim.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.internal.md) 
+
+### #is_/same_as :: [Lessing,Gotthold_Ephraim.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.protect.md) 
+
+### #is_/same_as :: [Lessing,Gotthold_Ephraim.private](/_private/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.private.md) 
+
+### #is_/same_as :: [Lessing,Gotthold_Ephraim.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.personal.md) 
+
+### #is_/same_as :: [Lessing,Gotthold_Ephraim.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.secret.md)
+

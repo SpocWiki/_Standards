@@ -187,17 +187,17 @@ work_location: "[[_Standards/WikiData/WD~Frombork,497115]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Copernicus,Nicolaus](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.md) 
+### #is_/same_as :: [Copernicus,Nicolaus](/_Standards/Science/Polymath/Copernicus,Nicolaus.md) 
 
-### #is_/same_as :: [Copernicus,Nicolaus.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.public.md) 
+### #is_/same_as :: [Copernicus,Nicolaus.public](/_public/Science/Polymath/Copernicus,Nicolaus.public.md) 
 
-### #is_/same_as :: [Copernicus,Nicolaus.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.internal.md) 
+### #is_/same_as :: [Copernicus,Nicolaus.internal](/_internal/Science/Polymath/Copernicus,Nicolaus.internal.md) 
 
-### #is_/same_as :: [Copernicus,Nicolaus.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.protect.md) 
+### #is_/same_as :: [Copernicus,Nicolaus.protect](/_protect/Science/Polymath/Copernicus,Nicolaus.protect.md) 
 
-### #is_/same_as :: [Copernicus,Nicolaus.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.private.md) 
+### #is_/same_as :: [Copernicus,Nicolaus.private](/_private/Science/Polymath/Copernicus,Nicolaus.private.md) 
 
-### #is_/same_as :: [Copernicus,Nicolaus.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.personal.md) 
+### #is_/same_as :: [Copernicus,Nicolaus.personal](/_personal/Science/Polymath/Copernicus,Nicolaus.personal.md) 
 
-### #is_/same_as :: [Copernicus,Nicolaus.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.secret.md)
+### #is_/same_as :: [Copernicus,Nicolaus.secret](/_secret/Science/Polymath/Copernicus,Nicolaus.secret.md)
 

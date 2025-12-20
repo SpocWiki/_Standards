@@ -81,3 +81,22 @@ hashtag_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Workers'%20Day) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [International_Workers_Day](/_Standards/ISO/Calendar/International_Workers_Day.md) 
+
+### #is_/same_as :: [International_Workers_Day.public](/_public/ISO/Calendar/International_Workers_Day.public.md) 
+
+### #is_/same_as :: [International_Workers_Day.internal](/_internal/ISO/Calendar/International_Workers_Day.internal.md) 
+
+### #is_/same_as :: [International_Workers_Day.protect](/_protect/ISO/Calendar/International_Workers_Day.protect.md) 
+
+### #is_/same_as :: [International_Workers_Day.private](/_private/ISO/Calendar/International_Workers_Day.private.md) 
+
+### #is_/same_as :: [International_Workers_Day.personal](/_personal/ISO/Calendar/International_Workers_Day.personal.md) 
+
+### #is_/same_as :: [International_Workers_Day.secret](/_secret/ISO/Calendar/International_Workers_Day.secret.md)
+

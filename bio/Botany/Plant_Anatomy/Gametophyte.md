@@ -30,3 +30,22 @@ Commons_category: Gametophytes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gametophyte) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gametophyte](/_Standards/bio/Botany/Plant_Anatomy/Gametophyte.md) 
+
+### #is_/same_as :: [Gametophyte.public](/_public/bio/Botany/Plant_Anatomy/Gametophyte.public.md) 
+
+### #is_/same_as :: [Gametophyte.internal](/_internal/bio/Botany/Plant_Anatomy/Gametophyte.internal.md) 
+
+### #is_/same_as :: [Gametophyte.protect](/_protect/bio/Botany/Plant_Anatomy/Gametophyte.protect.md) 
+
+### #is_/same_as :: [Gametophyte.private](/_private/bio/Botany/Plant_Anatomy/Gametophyte.private.md) 
+
+### #is_/same_as :: [Gametophyte.personal](/_personal/bio/Botany/Plant_Anatomy/Gametophyte.personal.md) 
+
+### #is_/same_as :: [Gametophyte.secret](/_secret/bio/Botany/Plant_Anatomy/Gametophyte.secret.md)
+

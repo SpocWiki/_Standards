@@ -30,17 +30,17 @@ type: Unit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Units-Template](/_Standards/Unit/gs1/_Units-Template.md) 
+### #is_/same_as :: [_Units-Template](/_Standards/Dimension/Unit_of_Measurement/gs1/_Units-Template.md) 
 
-### #is_/same_as :: [_Units-Template.public](/_public/Unit/gs1/_Units-Template.public.md) 
+### #is_/same_as :: [_Units-Template.public](/_public/Dimension/Unit_of_Measurement/gs1/_Units-Template.public.md) 
 
-### #is_/same_as :: [_Units-Template.internal](/_internal/Unit/gs1/_Units-Template.internal.md) 
+### #is_/same_as :: [_Units-Template.internal](/_internal/Dimension/Unit_of_Measurement/gs1/_Units-Template.internal.md) 
 
-### #is_/same_as :: [_Units-Template.protect](/_protect/Unit/gs1/_Units-Template.protect.md) 
+### #is_/same_as :: [_Units-Template.protect](/_protect/Dimension/Unit_of_Measurement/gs1/_Units-Template.protect.md) 
 
-### #is_/same_as :: [_Units-Template.private](/_private/Unit/gs1/_Units-Template.private.md) 
+### #is_/same_as :: [_Units-Template.private](/_private/Dimension/Unit_of_Measurement/gs1/_Units-Template.private.md) 
 
-### #is_/same_as :: [_Units-Template.personal](/_personal/Unit/gs1/_Units-Template.personal.md) 
+### #is_/same_as :: [_Units-Template.personal](/_personal/Dimension/Unit_of_Measurement/gs1/_Units-Template.personal.md) 
 
-### #is_/same_as :: [_Units-Template.secret](/_secret/Unit/gs1/_Units-Template.secret.md)
+### #is_/same_as :: [_Units-Template.secret](/_secret/Dimension/Unit_of_Measurement/gs1/_Units-Template.secret.md)
 

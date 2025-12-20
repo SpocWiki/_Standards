@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 1GL
 ---
@@ -66,4 +66,23 @@ different from the 1st Generation [[Machine-Language]].
 > happens transparently to the programmer except for performance related side effects.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Machine%20code)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Machine-Language](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.md) 
+
+### #is_/same_as :: [Machine-Language.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.public.md) 
+
+### #is_/same_as :: [Machine-Language.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.internal.md) 
+
+### #is_/same_as :: [Machine-Language.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.protect.md) 
+
+### #is_/same_as :: [Machine-Language.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.private.md) 
+
+### #is_/same_as :: [Machine-Language.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.personal.md) 
+
+### #is_/same_as :: [Machine-Language.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.secret.md)
 

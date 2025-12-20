@@ -89,3 +89,22 @@ inception: 1922-05-30T00:00:00Z
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lincoln_Memorial](/_Standards/Earth/Geography/Place/Lincoln_Memorial.md) 
+
+### #is_/same_as :: [Lincoln_Memorial.public](/_public/Earth/Geography/Place/Lincoln_Memorial.public.md) 
+
+### #is_/same_as :: [Lincoln_Memorial.internal](/_internal/Earth/Geography/Place/Lincoln_Memorial.internal.md) 
+
+### #is_/same_as :: [Lincoln_Memorial.protect](/_protect/Earth/Geography/Place/Lincoln_Memorial.protect.md) 
+
+### #is_/same_as :: [Lincoln_Memorial.private](/_private/Earth/Geography/Place/Lincoln_Memorial.private.md) 
+
+### #is_/same_as :: [Lincoln_Memorial.personal](/_personal/Earth/Geography/Place/Lincoln_Memorial.personal.md) 
+
+### #is_/same_as :: [Lincoln_Memorial.secret](/_secret/Earth/Geography/Place/Lincoln_Memorial.secret.md)
+

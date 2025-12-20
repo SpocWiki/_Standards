@@ -79,17 +79,17 @@ Beeinträchtigt wird Immunsystem, Krebsgefahr steigt.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alcohol](Alcohol.md) 
+### #is_/same_as :: [Alcohol](/_Standards/Chemistry/Organic_Chemistry/Alcohol.md) 
 
-### #is_/same_as :: [Alcohol.public](/_public/Chemistry/organic/Alcohol.public.md) 
+### #is_/same_as :: [Alcohol.public](/_public/Chemistry/Organic_Chemistry/Alcohol.public.md) 
 
-### #is_/same_as :: [Alcohol.internal](/_internal/Chemistry/organic/Alcohol.internal.md) 
+### #is_/same_as :: [Alcohol.internal](/_internal/Chemistry/Organic_Chemistry/Alcohol.internal.md) 
 
-### #is_/same_as :: [Alcohol.protect](/_protect/Chemistry/organic/Alcohol.protect.md) 
+### #is_/same_as :: [Alcohol.protect](/_protect/Chemistry/Organic_Chemistry/Alcohol.protect.md) 
 
-### #is_/same_as :: [Alcohol.private](/_private/Chemistry/organic/Alcohol.private.md) 
+### #is_/same_as :: [Alcohol.private](/_private/Chemistry/Organic_Chemistry/Alcohol.private.md) 
 
-### #is_/same_as :: [Alcohol.personal](/_personal/Chemistry/organic/Alcohol.personal.md) 
+### #is_/same_as :: [Alcohol.personal](/_personal/Chemistry/Organic_Chemistry/Alcohol.personal.md) 
 
-### #is_/same_as :: [Alcohol.secret](/_secret/Chemistry/organic/Alcohol.secret.md)
+### #is_/same_as :: [Alcohol.secret](/_secret/Chemistry/Organic_Chemistry/Alcohol.secret.md)
 

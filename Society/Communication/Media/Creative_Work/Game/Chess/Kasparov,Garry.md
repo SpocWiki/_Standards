@@ -125,3 +125,22 @@ X_Twitter_username: Kasparov63
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Garry%20Kasparov) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kasparov,Garry](/_Standards/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.md) 
+
+### #is_/same_as :: [Kasparov,Garry.public](/_public/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.public.md) 
+
+### #is_/same_as :: [Kasparov,Garry.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.internal.md) 
+
+### #is_/same_as :: [Kasparov,Garry.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.protect.md) 
+
+### #is_/same_as :: [Kasparov,Garry.private](/_private/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.private.md) 
+
+### #is_/same_as :: [Kasparov,Garry.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.personal.md) 
+
+### #is_/same_as :: [Kasparov,Garry.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.secret.md)
+

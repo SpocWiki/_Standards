@@ -25,3 +25,22 @@ subclass_of: "[[_Standards/WikiData/WD~war,198]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Conventional%20warfare) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Conventional_Warfare](/_Standards/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.md) 
+
+### #is_/same_as :: [Conventional_Warfare.public](/_public/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.public.md) 
+
+### #is_/same_as :: [Conventional_Warfare.internal](/_internal/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.internal.md) 
+
+### #is_/same_as :: [Conventional_Warfare.protect](/_protect/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.protect.md) 
+
+### #is_/same_as :: [Conventional_Warfare.private](/_private/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.private.md) 
+
+### #is_/same_as :: [Conventional_Warfare.personal](/_personal/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.personal.md) 
+
+### #is_/same_as :: [Conventional_Warfare.secret](/_secret/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.secret.md)
+

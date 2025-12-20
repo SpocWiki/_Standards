@@ -156,3 +156,22 @@ Royal_Academy_new_identifier: clemens-lothar-wenzel-prince-metternich
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Klemens%20von%20Metternich) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Klemens_von_Metternich](/_Standards/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.md) 
+
+### #is_/same_as :: [Klemens_von_Metternich.public](/_public/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.public.md) 
+
+### #is_/same_as :: [Klemens_von_Metternich.internal](/_internal/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.internal.md) 
+
+### #is_/same_as :: [Klemens_von_Metternich.protect](/_protect/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.protect.md) 
+
+### #is_/same_as :: [Klemens_von_Metternich.private](/_private/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.private.md) 
+
+### #is_/same_as :: [Klemens_von_Metternich.personal](/_personal/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.personal.md) 
+
+### #is_/same_as :: [Klemens_von_Metternich.secret](/_secret/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.secret.md)
+

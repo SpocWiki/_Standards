@@ -115,3 +115,22 @@ name_in_native_language: Geoffrey Ingram Taylor
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/G.%20I.%20Taylor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Taylor,Geoffrey_Ingram](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.md) 
+
+### #is_/same_as :: [Taylor,Geoffrey_Ingram.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.public.md) 
+
+### #is_/same_as :: [Taylor,Geoffrey_Ingram.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.internal.md) 
+
+### #is_/same_as :: [Taylor,Geoffrey_Ingram.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.protect.md) 
+
+### #is_/same_as :: [Taylor,Geoffrey_Ingram.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.private.md) 
+
+### #is_/same_as :: [Taylor,Geoffrey_Ingram.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.personal.md) 
+
+### #is_/same_as :: [Taylor,Geoffrey_Ingram.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.secret.md)
+

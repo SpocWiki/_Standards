@@ -39,17 +39,17 @@ A screening of a movie or other video.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [screening_event](/_Standards/schema-org/Class/is_a_/event/screening_event.md) 
+### #is_/same_as :: [Screening_Event](/_Standards/schema-org/Class/is_a_/Event/Screening_Event.md) 
 
-### #is_/same_as :: [screening_event.public](/_public/schema-org/Class/is_a_/event/screening_event.public.md) 
+### #is_/same_as :: [Screening_Event.public](/_public/schema-org/Class/is_a_/Event/Screening_Event.public.md) 
 
-### #is_/same_as :: [screening_event.internal](/_internal/schema-org/Class/is_a_/event/screening_event.internal.md) 
+### #is_/same_as :: [Screening_Event.internal](/_internal/schema-org/Class/is_a_/Event/Screening_Event.internal.md) 
 
-### #is_/same_as :: [screening_event.protect](/_protect/schema-org/Class/is_a_/event/screening_event.protect.md) 
+### #is_/same_as :: [Screening_Event.protect](/_protect/schema-org/Class/is_a_/Event/Screening_Event.protect.md) 
 
-### #is_/same_as :: [screening_event.private](/_private/schema-org/Class/is_a_/event/screening_event.private.md) 
+### #is_/same_as :: [Screening_Event.private](/_private/schema-org/Class/is_a_/Event/Screening_Event.private.md) 
 
-### #is_/same_as :: [screening_event.personal](/_personal/schema-org/Class/is_a_/event/screening_event.personal.md) 
+### #is_/same_as :: [Screening_Event.personal](/_personal/schema-org/Class/is_a_/Event/Screening_Event.personal.md) 
 
-### #is_/same_as :: [screening_event.secret](/_secret/schema-org/Class/is_a_/event/screening_event.secret.md)
+### #is_/same_as :: [Screening_Event.secret](/_secret/schema-org/Class/is_a_/Event/Screening_Event.secret.md)
 

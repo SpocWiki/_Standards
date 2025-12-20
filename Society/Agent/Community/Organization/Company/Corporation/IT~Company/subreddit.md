@@ -46,17 +46,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [subreddit](subreddit.md) 
+### #is_/same_as :: [subreddit](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/subreddit.md) 
 
-### #is_/same_as :: [subreddit.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/subreddit.public.md) 
+### #is_/same_as :: [subreddit.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/subreddit.public.md) 
 
-### #is_/same_as :: [subreddit.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/subreddit.internal.md) 
+### #is_/same_as :: [subreddit.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/subreddit.internal.md) 
 
-### #is_/same_as :: [subreddit.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/subreddit.protect.md) 
+### #is_/same_as :: [subreddit.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/subreddit.protect.md) 
 
-### #is_/same_as :: [subreddit.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/subreddit.private.md) 
+### #is_/same_as :: [subreddit.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/subreddit.private.md) 
 
-### #is_/same_as :: [subreddit.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/subreddit.personal.md) 
+### #is_/same_as :: [subreddit.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/subreddit.personal.md) 
 
-### #is_/same_as :: [subreddit.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/subreddit.secret.md)
+### #is_/same_as :: [subreddit.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/subreddit.secret.md)
 

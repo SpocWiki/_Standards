@@ -85,3 +85,22 @@ Commons_category: Modems
 | Hardware compression (variable) ([V.90](https://en.wikipedia.org/wiki/ITU-T_V.90 "ITU-T V.90")/[V.42bis](https://en.wikipedia.org/wiki/ITU-T_V.42bis "ITU-T V.42bis")) |                                                                                              |    56.0–220.0 |       |
 | Hardware compression (variable) ([V.92](https://en.wikipedia.org/wiki/ITU-T_V.92 "ITU-T V.92")/[V.44](https://en.wikipedia.org/wiki/ITU-T_V.44 "ITU-T V.44"))          |                                                                                              |    56.0–320.0 |       |
 | Server-side web compression (variable) ([Netscape ISP](https://en.wikipedia.org/wiki/Netscape#Netscape_Internet_Service "Netscape"))                                   |                                                                                              | 100.0–1,000.0 |       |
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Modem](/_Standards/Technology/IT/Computer_Network/Modem.md) 
+
+### #is_/same_as :: [Modem.public](/_public/Technology/IT/Computer_Network/Modem.public.md) 
+
+### #is_/same_as :: [Modem.internal](/_internal/Technology/IT/Computer_Network/Modem.internal.md) 
+
+### #is_/same_as :: [Modem.protect](/_protect/Technology/IT/Computer_Network/Modem.protect.md) 
+
+### #is_/same_as :: [Modem.private](/_private/Technology/IT/Computer_Network/Modem.private.md) 
+
+### #is_/same_as :: [Modem.personal](/_personal/Technology/IT/Computer_Network/Modem.personal.md) 
+
+### #is_/same_as :: [Modem.secret](/_secret/Technology/IT/Computer_Network/Modem.secret.md)
+

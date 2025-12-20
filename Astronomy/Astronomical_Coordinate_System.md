@@ -38,17 +38,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Celestial.png
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astronomical_Coordinate_System](Astronomical_Coordinate_System.md) 
+### #is_/same_as :: [Astronomical_Coordinate_System](/_Standards/Astronomy/Astronomical_Coordinate_System.md) 
 
-### #is_/same_as :: [Astronomical_coordinate_systems.public](/_public/Astronomy/Astronomical_coordinate_systems.public.md) 
+### #is_/same_as :: [Astronomical_Coordinate_System.public](/_public/Astronomy/Astronomical_Coordinate_System.public.md) 
 
-### #is_/same_as :: [Astronomical_coordinate_systems.internal](/_internal/Astronomy/Astronomical_coordinate_systems.internal.md) 
+### #is_/same_as :: [Astronomical_Coordinate_System.internal](/_internal/Astronomy/Astronomical_Coordinate_System.internal.md) 
 
-### #is_/same_as :: [Astronomical_coordinate_systems.protect](/_protect/Astronomy/Astronomical_coordinate_systems.protect.md) 
+### #is_/same_as :: [Astronomical_Coordinate_System.protect](/_protect/Astronomy/Astronomical_Coordinate_System.protect.md) 
 
-### #is_/same_as :: [Astronomical_coordinate_systems.private](/_private/Astronomy/Astronomical_coordinate_systems.private.md) 
+### #is_/same_as :: [Astronomical_Coordinate_System.private](/_private/Astronomy/Astronomical_Coordinate_System.private.md) 
 
-### #is_/same_as :: [Astronomical_coordinate_systems.personal](/_personal/Astronomy/Astronomical_coordinate_systems.personal.md) 
+### #is_/same_as :: [Astronomical_Coordinate_System.personal](/_personal/Astronomy/Astronomical_Coordinate_System.personal.md) 
 
-### #is_/same_as :: [Astronomical_coordinate_systems.secret](/_secret/Astronomy/Astronomical_coordinate_systems.secret.md)
+### #is_/same_as :: [Astronomical_Coordinate_System.secret](/_secret/Astronomy/Astronomical_Coordinate_System.secret.md)
 

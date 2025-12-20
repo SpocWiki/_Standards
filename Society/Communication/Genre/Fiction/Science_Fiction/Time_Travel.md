@@ -54,3 +54,22 @@ Baidu_Tieba_name: 穿越
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Time%20travel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Time_Travel](/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.md) 
+
+### #is_/same_as :: [Time_Travel.public](/_public/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.public.md) 
+
+### #is_/same_as :: [Time_Travel.internal](/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.internal.md) 
+
+### #is_/same_as :: [Time_Travel.protect](/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.protect.md) 
+
+### #is_/same_as :: [Time_Travel.private](/_private/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.private.md) 
+
+### #is_/same_as :: [Time_Travel.personal](/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.personal.md) 
+
+### #is_/same_as :: [Time_Travel.secret](/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.secret.md)
+

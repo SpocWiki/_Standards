@@ -121,7 +121,7 @@ Mar. Sci. 20: 421-428.
   Reference         Berry, S.S. 1917. Cephalopoda. Scientific Reports of the Australasian Antarctic Expedition 1911-1914, (series C)14(2):1-39.
   View              Side
   Type              Holotype
-  -------------------------------------------
+  -------------------------------------------
 
 
 ## Confidential Links & Embeds: 

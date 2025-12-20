@@ -54,3 +54,22 @@ NBN_System_Key: NHMSYS0000459069
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gladiolus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gladiolus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Gladiolus.md) 
+
+### #is_/same_as :: [Gladiolus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Gladiolus.public.md) 
+
+### #is_/same_as :: [Gladiolus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Gladiolus.internal.md) 
+
+### #is_/same_as :: [Gladiolus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Gladiolus.protect.md) 
+
+### #is_/same_as :: [Gladiolus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Gladiolus.private.md) 
+
+### #is_/same_as :: [Gladiolus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Gladiolus.personal.md) 
+
+### #is_/same_as :: [Gladiolus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Gladiolus.secret.md)
+

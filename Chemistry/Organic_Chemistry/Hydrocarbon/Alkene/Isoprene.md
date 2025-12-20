@@ -111,3 +111,22 @@ CH2=C−CH=CH2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Isoprene) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Isoprene](/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.md) 
+
+### #is_/same_as :: [Isoprene.public](/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.public.md) 
+
+### #is_/same_as :: [Isoprene.internal](/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.internal.md) 
+
+### #is_/same_as :: [Isoprene.protect](/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.protect.md) 
+
+### #is_/same_as :: [Isoprene.private](/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.private.md) 
+
+### #is_/same_as :: [Isoprene.personal](/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.personal.md) 
+
+### #is_/same_as :: [Isoprene.secret](/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.secret.md)
+

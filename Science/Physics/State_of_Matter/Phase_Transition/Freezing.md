@@ -44,3 +44,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Freezing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Freezing](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Freezing.md) 
+
+### #is_/same_as :: [Freezing.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Freezing.public.md) 
+
+### #is_/same_as :: [Freezing.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Freezing.internal.md) 
+
+### #is_/same_as :: [Freezing.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Freezing.protect.md) 
+
+### #is_/same_as :: [Freezing.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Freezing.private.md) 
+
+### #is_/same_as :: [Freezing.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Freezing.personal.md) 
+
+### #is_/same_as :: [Freezing.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Freezing.secret.md)
+

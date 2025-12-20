@@ -89,3 +89,22 @@ Europeana_entity: agent/base/147108
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Modest%20Mussorgsky)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mussorgsky,Modest_Petrovich](/_Standards/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.md) 
+
+### #is_/same_as :: [Mussorgsky,Modest_Petrovich.public](/_public/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.public.md) 
+
+### #is_/same_as :: [Mussorgsky,Modest_Petrovich.internal](/_internal/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.internal.md) 
+
+### #is_/same_as :: [Mussorgsky,Modest_Petrovich.protect](/_protect/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.protect.md) 
+
+### #is_/same_as :: [Mussorgsky,Modest_Petrovich.private](/_private/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.private.md) 
+
+### #is_/same_as :: [Mussorgsky,Modest_Petrovich.personal](/_personal/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.personal.md) 
+
+### #is_/same_as :: [Mussorgsky,Modest_Petrovich.secret](/_secret/Society/Communication/Media/Music/Composer/Renaissance_Composer/Mussorgsky,Modest_Petrovich.secret.md)
+

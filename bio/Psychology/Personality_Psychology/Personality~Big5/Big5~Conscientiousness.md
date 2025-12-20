@@ -63,3 +63,22 @@ conscientiousness (C) measures self-control, diligence, and attention to detail.
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Big5~Conscientiousness](/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.md) 
+
+### #is_/same_as :: [Big5~Conscientiousness.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.public.md) 
+
+### #is_/same_as :: [Big5~Conscientiousness.internal](/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.internal.md) 
+
+### #is_/same_as :: [Big5~Conscientiousness.protect](/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.protect.md) 
+
+### #is_/same_as :: [Big5~Conscientiousness.private](/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.private.md) 
+
+### #is_/same_as :: [Big5~Conscientiousness.personal](/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.personal.md) 
+
+### #is_/same_as :: [Big5~Conscientiousness.secret](/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.secret.md)
+

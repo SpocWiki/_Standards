@@ -108,3 +108,22 @@ Krugosvet_article_archived_: meditsina/psikhozy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychosis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Psychosis](/_Standards/bio/Psychology/Psychosis.md) 
+
+### #is_/same_as :: [Psychosis.public](/_public/bio/Psychology/Psychosis.public.md) 
+
+### #is_/same_as :: [Psychosis.internal](/_internal/bio/Psychology/Psychosis.internal.md) 
+
+### #is_/same_as :: [Psychosis.protect](/_protect/bio/Psychology/Psychosis.protect.md) 
+
+### #is_/same_as :: [Psychosis.private](/_private/bio/Psychology/Psychosis.private.md) 
+
+### #is_/same_as :: [Psychosis.personal](/_personal/bio/Psychology/Psychosis.personal.md) 
+
+### #is_/same_as :: [Psychosis.secret](/_secret/bio/Psychology/Psychosis.secret.md)
+

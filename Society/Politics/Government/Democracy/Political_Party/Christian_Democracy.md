@@ -71,3 +71,22 @@ P8189: "987007285591405171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Christian%20democracy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Christian_Democracy](/_Standards/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.md) 
+
+### #is_/same_as :: [Christian_Democracy.public](/_public/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.public.md) 
+
+### #is_/same_as :: [Christian_Democracy.internal](/_internal/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.internal.md) 
+
+### #is_/same_as :: [Christian_Democracy.protect](/_protect/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.protect.md) 
+
+### #is_/same_as :: [Christian_Democracy.private](/_private/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.private.md) 
+
+### #is_/same_as :: [Christian_Democracy.personal](/_personal/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.personal.md) 
+
+### #is_/same_as :: [Christian_Democracy.secret](/_secret/Society/Politics/Government/Democracy/Political_Party/Christian_Democracy.secret.md)
+

@@ -45,6 +45,7 @@ official_name: Pictor
 
 #is_/same_as :: [[_Standards/WikiData/WD~Pictor,10486]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Pictor](/_Standards/Astronomy/Star~Constellation/Zodiac~Pictor.md) 

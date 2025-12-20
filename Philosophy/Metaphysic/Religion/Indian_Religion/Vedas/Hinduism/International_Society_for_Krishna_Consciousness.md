@@ -62,3 +62,22 @@ short_name: ISKCON
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Society%20for%20Krishna%20Consciousness) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [International_Society_for_Krishna_Consciousness](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/International_Society_for_Krishna_Consciousness.md) 
+
+### #is_/same_as :: [International_Society_for_Krishna_Consciousness.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/International_Society_for_Krishna_Consciousness.public.md) 
+
+### #is_/same_as :: [International_Society_for_Krishna_Consciousness.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/International_Society_for_Krishna_Consciousness.internal.md) 
+
+### #is_/same_as :: [International_Society_for_Krishna_Consciousness.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/International_Society_for_Krishna_Consciousness.protect.md) 
+
+### #is_/same_as :: [International_Society_for_Krishna_Consciousness.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/International_Society_for_Krishna_Consciousness.private.md) 
+
+### #is_/same_as :: [International_Society_for_Krishna_Consciousness.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/International_Society_for_Krishna_Consciousness.personal.md) 
+
+### #is_/same_as :: [International_Society_for_Krishna_Consciousness.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/International_Society_for_Krishna_Consciousness.secret.md)
+

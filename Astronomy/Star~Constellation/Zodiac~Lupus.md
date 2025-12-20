@@ -52,6 +52,7 @@ official_name: Lupus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lupus%20(constellation)) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Lupus](/_Standards/Astronomy/Star~Constellation/Zodiac~Lupus.md) 

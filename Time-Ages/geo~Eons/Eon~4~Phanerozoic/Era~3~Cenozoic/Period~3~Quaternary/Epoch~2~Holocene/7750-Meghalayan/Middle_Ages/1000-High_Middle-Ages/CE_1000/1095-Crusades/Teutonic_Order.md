@@ -118,3 +118,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TEVTONSKI_ORDEN.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Teutonic%20Order) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Teutonic_Order](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades/Teutonic_Order.md) 
+
+### #is_/same_as :: [Teutonic_Order.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades/Teutonic_Order.public.md) 
+
+### #is_/same_as :: [Teutonic_Order.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades/Teutonic_Order.internal.md) 
+
+### #is_/same_as :: [Teutonic_Order.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades/Teutonic_Order.protect.md) 
+
+### #is_/same_as :: [Teutonic_Order.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades/Teutonic_Order.private.md) 
+
+### #is_/same_as :: [Teutonic_Order.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades/Teutonic_Order.personal.md) 
+
+### #is_/same_as :: [Teutonic_Order.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades/Teutonic_Order.secret.md)
+

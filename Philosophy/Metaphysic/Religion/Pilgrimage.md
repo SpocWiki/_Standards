@@ -46,3 +46,22 @@ Colon_Classification: Q:4198
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pilgrimage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pilgrimage](/_Standards/Philosophy/Metaphysic/Religion/Pilgrimage.md) 
+
+### #is_/same_as :: [Pilgrimage.public](/_public/Philosophy/Metaphysic/Religion/Pilgrimage.public.md) 
+
+### #is_/same_as :: [Pilgrimage.internal](/_internal/Philosophy/Metaphysic/Religion/Pilgrimage.internal.md) 
+
+### #is_/same_as :: [Pilgrimage.protect](/_protect/Philosophy/Metaphysic/Religion/Pilgrimage.protect.md) 
+
+### #is_/same_as :: [Pilgrimage.private](/_private/Philosophy/Metaphysic/Religion/Pilgrimage.private.md) 
+
+### #is_/same_as :: [Pilgrimage.personal](/_personal/Philosophy/Metaphysic/Religion/Pilgrimage.personal.md) 
+
+### #is_/same_as :: [Pilgrimage.secret](/_secret/Philosophy/Metaphysic/Religion/Pilgrimage.secret.md)
+

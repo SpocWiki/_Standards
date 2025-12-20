@@ -42,3 +42,22 @@ Library_of_Congress_Classification: JC575
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Egalitarianism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Egalitarianism](/_Standards/Society/Ideology/Political_Ideology/Egalitarianism.md) 
+
+### #is_/same_as :: [Egalitarianism.public](/_public/Society/Ideology/Political_Ideology/Egalitarianism.public.md) 
+
+### #is_/same_as :: [Egalitarianism.internal](/_internal/Society/Ideology/Political_Ideology/Egalitarianism.internal.md) 
+
+### #is_/same_as :: [Egalitarianism.protect](/_protect/Society/Ideology/Political_Ideology/Egalitarianism.protect.md) 
+
+### #is_/same_as :: [Egalitarianism.private](/_private/Society/Ideology/Political_Ideology/Egalitarianism.private.md) 
+
+### #is_/same_as :: [Egalitarianism.personal](/_personal/Society/Ideology/Political_Ideology/Egalitarianism.personal.md) 
+
+### #is_/same_as :: [Egalitarianism.secret](/_secret/Society/Ideology/Political_Ideology/Egalitarianism.secret.md)
+

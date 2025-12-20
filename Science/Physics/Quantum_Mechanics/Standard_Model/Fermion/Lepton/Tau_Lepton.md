@@ -56,3 +56,22 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Feynman%20diag
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tau_Lepton](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.md) 
+
+### #is_/same_as :: [Tau_Lepton.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.public.md) 
+
+### #is_/same_as :: [Tau_Lepton.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.internal.md) 
+
+### #is_/same_as :: [Tau_Lepton.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.protect.md) 
+
+### #is_/same_as :: [Tau_Lepton.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.private.md) 
+
+### #is_/same_as :: [Tau_Lepton.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.personal.md) 
+
+### #is_/same_as :: [Tau_Lepton.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.secret.md)
+

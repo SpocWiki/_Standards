@@ -74,3 +74,22 @@ Hederich_encyclopedia_article: Evropa
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Europa%20(consort%20of%20Zeus)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Europa(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Europa(Mythology).md) 
+
+### #is_/same_as :: [Europa(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Europa(Mythology).public.md) 
+
+### #is_/same_as :: [Europa(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Europa(Mythology).internal.md) 
+
+### #is_/same_as :: [Europa(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Europa(Mythology).protect.md) 
+
+### #is_/same_as :: [Europa(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Europa(Mythology).private.md) 
+
+### #is_/same_as :: [Europa(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Europa(Mythology).personal.md) 
+
+### #is_/same_as :: [Europa(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Europa(Mythology).secret.md)
+

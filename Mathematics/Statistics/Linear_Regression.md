@@ -57,3 +57,22 @@ Commons_category: Linear regression
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Linear%20regression) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Linear_Regression](/_Standards/Mathematics/Statistics/Linear_Regression.md) 
+
+### #is_/same_as :: [Linear_Regression.public](/_public/Mathematics/Statistics/Linear_Regression.public.md) 
+
+### #is_/same_as :: [Linear_Regression.internal](/_internal/Mathematics/Statistics/Linear_Regression.internal.md) 
+
+### #is_/same_as :: [Linear_Regression.protect](/_protect/Mathematics/Statistics/Linear_Regression.protect.md) 
+
+### #is_/same_as :: [Linear_Regression.private](/_private/Mathematics/Statistics/Linear_Regression.private.md) 
+
+### #is_/same_as :: [Linear_Regression.personal](/_personal/Mathematics/Statistics/Linear_Regression.personal.md) 
+
+### #is_/same_as :: [Linear_Regression.secret](/_secret/Mathematics/Statistics/Linear_Regression.secret.md)
+

@@ -176,7 +176,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
   Size                 23 mm ML, 76 mm ML (2)
   Type                 holotype (2)
   Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

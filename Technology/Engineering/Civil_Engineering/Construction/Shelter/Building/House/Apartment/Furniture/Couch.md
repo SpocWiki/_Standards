@@ -50,3 +50,22 @@ Commons_category: Couches
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Couch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Couch](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Couch.md) 
+
+### #is_/same_as :: [Couch.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Couch.public.md) 
+
+### #is_/same_as :: [Couch.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Couch.internal.md) 
+
+### #is_/same_as :: [Couch.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Couch.protect.md) 
+
+### #is_/same_as :: [Couch.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Couch.private.md) 
+
+### #is_/same_as :: [Couch.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Couch.personal.md) 
+
+### #is_/same_as :: [Couch.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Couch.secret.md)
+

@@ -168,3 +168,22 @@ Europeana_entity: agent/base/147204
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cher) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cher](/_Standards/Society/Communication/Media/Music/Musician/Singer/Cher.md) 
+
+### #is_/same_as :: [Cher.public](/_public/Society/Communication/Media/Music/Musician/Singer/Cher.public.md) 
+
+### #is_/same_as :: [Cher.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Cher.internal.md) 
+
+### #is_/same_as :: [Cher.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Cher.protect.md) 
+
+### #is_/same_as :: [Cher.private](/_private/Society/Communication/Media/Music/Musician/Singer/Cher.private.md) 
+
+### #is_/same_as :: [Cher.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Cher.personal.md) 
+
+### #is_/same_as :: [Cher.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Cher.secret.md)
+

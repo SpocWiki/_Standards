@@ -26,3 +26,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Sociology%20Department
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20sociology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Sociology](/_Standards/Society/Anthropology/Sociology/History_of_Sociology.md) 
+
+### #is_/same_as :: [History_of_Sociology.public](/_public/Society/Anthropology/Sociology/History_of_Sociology.public.md) 
+
+### #is_/same_as :: [History_of_Sociology.internal](/_internal/Society/Anthropology/Sociology/History_of_Sociology.internal.md) 
+
+### #is_/same_as :: [History_of_Sociology.protect](/_protect/Society/Anthropology/Sociology/History_of_Sociology.protect.md) 
+
+### #is_/same_as :: [History_of_Sociology.private](/_private/Society/Anthropology/Sociology/History_of_Sociology.private.md) 
+
+### #is_/same_as :: [History_of_Sociology.personal](/_personal/Society/Anthropology/Sociology/History_of_Sociology.personal.md) 
+
+### #is_/same_as :: [History_of_Sociology.secret](/_secret/Society/Anthropology/Sociology/History_of_Sociology.secret.md)
+

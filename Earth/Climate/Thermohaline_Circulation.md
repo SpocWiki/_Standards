@@ -24,3 +24,22 @@ has_id_wikidata: Q463223
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thermohaline%20circulation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thermohaline_Circulation](/_Standards/Earth/Climate/Thermohaline_Circulation.md) 
+
+### #is_/same_as :: [Thermohaline_Circulation.public](/_public/Earth/Climate/Thermohaline_Circulation.public.md) 
+
+### #is_/same_as :: [Thermohaline_Circulation.internal](/_internal/Earth/Climate/Thermohaline_Circulation.internal.md) 
+
+### #is_/same_as :: [Thermohaline_Circulation.protect](/_protect/Earth/Climate/Thermohaline_Circulation.protect.md) 
+
+### #is_/same_as :: [Thermohaline_Circulation.private](/_private/Earth/Climate/Thermohaline_Circulation.private.md) 
+
+### #is_/same_as :: [Thermohaline_Circulation.personal](/_personal/Earth/Climate/Thermohaline_Circulation.personal.md) 
+
+### #is_/same_as :: [Thermohaline_Circulation.secret](/_secret/Earth/Climate/Thermohaline_Circulation.secret.md)
+

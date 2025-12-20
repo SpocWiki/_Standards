@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ionos](Ionos.md) 
+### #is_/same_as :: [Ionos](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Ionos.md) 
 
-### #is_/same_as :: [Ionos.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Ionos.public.md) 
+### #is_/same_as :: [Ionos.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Ionos.public.md) 
 
-### #is_/same_as :: [Ionos.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Ionos.internal.md) 
+### #is_/same_as :: [Ionos.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Ionos.internal.md) 
 
-### #is_/same_as :: [Ionos.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Ionos.protect.md) 
+### #is_/same_as :: [Ionos.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Ionos.protect.md) 
 
-### #is_/same_as :: [Ionos.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Ionos.private.md) 
+### #is_/same_as :: [Ionos.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Ionos.private.md) 
 
-### #is_/same_as :: [Ionos.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Ionos.personal.md) 
+### #is_/same_as :: [Ionos.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Ionos.personal.md) 
 
-### #is_/same_as :: [Ionos.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Ionos.secret.md)
+### #is_/same_as :: [Ionos.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Ionos.secret.md)
 

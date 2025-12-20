@@ -41,3 +41,22 @@ Hederich_encyclopedia_article: Cephevs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cepheus%20(father%20of%20Andromeda)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cepheus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cepheus.md) 
+
+### #is_/same_as :: [Cepheus.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cepheus.public.md) 
+
+### #is_/same_as :: [Cepheus.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cepheus.internal.md) 
+
+### #is_/same_as :: [Cepheus.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cepheus.protect.md) 
+
+### #is_/same_as :: [Cepheus.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cepheus.private.md) 
+
+### #is_/same_as :: [Cepheus.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cepheus.personal.md) 
+
+### #is_/same_as :: [Cepheus.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cepheus.secret.md)
+

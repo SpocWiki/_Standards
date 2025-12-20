@@ -47,3 +47,22 @@ Commons_category: Electrostatics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrostatics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electrostatics](/_Standards/Science/Physics/Electricity/Electrostatics.md) 
+
+### #is_/same_as :: [Electrostatics.public](/_public/Science/Physics/Electricity/Electrostatics.public.md) 
+
+### #is_/same_as :: [Electrostatics.internal](/_internal/Science/Physics/Electricity/Electrostatics.internal.md) 
+
+### #is_/same_as :: [Electrostatics.protect](/_protect/Science/Physics/Electricity/Electrostatics.protect.md) 
+
+### #is_/same_as :: [Electrostatics.private](/_private/Science/Physics/Electricity/Electrostatics.private.md) 
+
+### #is_/same_as :: [Electrostatics.personal](/_personal/Science/Physics/Electricity/Electrostatics.personal.md) 
+
+### #is_/same_as :: [Electrostatics.secret](/_secret/Science/Physics/Electricity/Electrostatics.secret.md)
+

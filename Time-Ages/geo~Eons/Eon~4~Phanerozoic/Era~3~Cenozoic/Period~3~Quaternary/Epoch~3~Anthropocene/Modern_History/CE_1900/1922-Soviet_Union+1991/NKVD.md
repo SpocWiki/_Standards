@@ -79,3 +79,22 @@ inception: 1934-07-10T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/NKVD) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [NKVD](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.md) 
+
+### #is_/same_as :: [NKVD.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.public.md) 
+
+### #is_/same_as :: [NKVD.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.internal.md) 
+
+### #is_/same_as :: [NKVD.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.protect.md) 
+
+### #is_/same_as :: [NKVD.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.private.md) 
+
+### #is_/same_as :: [NKVD.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.personal.md) 
+
+### #is_/same_as :: [NKVD.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.secret.md)
+

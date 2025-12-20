@@ -452,3 +452,22 @@ planar, bipolar Transistors
 
 [[../../../_Standards/chemic/chemic~Elements/Group-14-Carbon/Germanium|Germanium]] first, but [[../../../_Standards/chemic/chemic~Elements/Group-14-Carbon/Silicon|Silicon]] from the 1960s on. 
 [[Point-Transistors]] first, but 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OS~Unix](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Unix.md) 
+
+### #is_/same_as :: [OS~Unix.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Unix.public.md) 
+
+### #is_/same_as :: [OS~Unix.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Unix.internal.md) 
+
+### #is_/same_as :: [OS~Unix.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Unix.protect.md) 
+
+### #is_/same_as :: [OS~Unix.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Unix.private.md) 
+
+### #is_/same_as :: [OS~Unix.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Unix.personal.md) 
+
+### #is_/same_as :: [OS~Unix.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Unix.secret.md)
+

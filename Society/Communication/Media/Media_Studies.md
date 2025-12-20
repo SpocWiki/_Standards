@@ -37,3 +37,22 @@ Commons_category: Media studies
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Media%20studies) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Media_Studies](/_Standards/Society/Communication/Media/Media_Studies.md) 
+
+### #is_/same_as :: [Media_Studies.public](/_public/Society/Communication/Media/Media_Studies.public.md) 
+
+### #is_/same_as :: [Media_Studies.internal](/_internal/Society/Communication/Media/Media_Studies.internal.md) 
+
+### #is_/same_as :: [Media_Studies.protect](/_protect/Society/Communication/Media/Media_Studies.protect.md) 
+
+### #is_/same_as :: [Media_Studies.private](/_private/Society/Communication/Media/Media_Studies.private.md) 
+
+### #is_/same_as :: [Media_Studies.personal](/_personal/Society/Communication/Media/Media_Studies.personal.md) 
+
+### #is_/same_as :: [Media_Studies.secret](/_secret/Society/Communication/Media/Media_Studies.secret.md)
+

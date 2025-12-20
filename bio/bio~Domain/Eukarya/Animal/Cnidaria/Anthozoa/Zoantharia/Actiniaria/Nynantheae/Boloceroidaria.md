@@ -54,7 +54,7 @@ Photo copyright © 2000, Ron Ates.
 
   -------
   Copyright ::   © 2000 Ron Ates
-  -------
+  -------
 
 
 ## Confidential Links & Embeds: 

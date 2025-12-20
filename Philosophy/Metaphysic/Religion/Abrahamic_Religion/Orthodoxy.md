@@ -40,3 +40,22 @@ Commons_category: Orthodoxy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orthodoxy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orthodoxy](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Orthodoxy.md) 
+
+### #is_/same_as :: [Orthodoxy.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Orthodoxy.public.md) 
+
+### #is_/same_as :: [Orthodoxy.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Orthodoxy.internal.md) 
+
+### #is_/same_as :: [Orthodoxy.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Orthodoxy.protect.md) 
+
+### #is_/same_as :: [Orthodoxy.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Orthodoxy.private.md) 
+
+### #is_/same_as :: [Orthodoxy.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Orthodoxy.personal.md) 
+
+### #is_/same_as :: [Orthodoxy.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Orthodoxy.secret.md)
+

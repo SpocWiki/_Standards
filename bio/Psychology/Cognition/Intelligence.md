@@ -38,3 +38,22 @@ has_id_wikidata: Q83500
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Intelligence) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Intelligence](/_Standards/bio/Psychology/Cognition/Intelligence.md) 
+
+### #is_/same_as :: [Intelligence.public](/_public/bio/Psychology/Cognition/Intelligence.public.md) 
+
+### #is_/same_as :: [Intelligence.internal](/_internal/bio/Psychology/Cognition/Intelligence.internal.md) 
+
+### #is_/same_as :: [Intelligence.protect](/_protect/bio/Psychology/Cognition/Intelligence.protect.md) 
+
+### #is_/same_as :: [Intelligence.private](/_private/bio/Psychology/Cognition/Intelligence.private.md) 
+
+### #is_/same_as :: [Intelligence.personal](/_personal/bio/Psychology/Cognition/Intelligence.personal.md) 
+
+### #is_/same_as :: [Intelligence.secret](/_secret/bio/Psychology/Cognition/Intelligence.secret.md)
+

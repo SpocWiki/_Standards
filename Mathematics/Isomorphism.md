@@ -76,3 +76,22 @@ GitHub_topic: isomorphism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Isomorphism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Isomorphism](/_Standards/Mathematics/Isomorphism.md) 
+
+### #is_/same_as :: [Isomorphism.public](/_public/Mathematics/Isomorphism.public.md) 
+
+### #is_/same_as :: [Isomorphism.internal](/_internal/Mathematics/Isomorphism.internal.md) 
+
+### #is_/same_as :: [Isomorphism.protect](/_protect/Mathematics/Isomorphism.protect.md) 
+
+### #is_/same_as :: [Isomorphism.private](/_private/Mathematics/Isomorphism.private.md) 
+
+### #is_/same_as :: [Isomorphism.personal](/_personal/Mathematics/Isomorphism.personal.md) 
+
+### #is_/same_as :: [Isomorphism.secret](/_secret/Mathematics/Isomorphism.secret.md)
+

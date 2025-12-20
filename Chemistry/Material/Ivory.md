@@ -39,3 +39,22 @@ EAGLE_id: material/lod/120
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ivory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ivory](/_Standards/Chemistry/Material/Ivory.md) 
+
+### #is_/same_as :: [Ivory.public](/_public/Chemistry/Material/Ivory.public.md) 
+
+### #is_/same_as :: [Ivory.internal](/_internal/Chemistry/Material/Ivory.internal.md) 
+
+### #is_/same_as :: [Ivory.protect](/_protect/Chemistry/Material/Ivory.protect.md) 
+
+### #is_/same_as :: [Ivory.private](/_private/Chemistry/Material/Ivory.private.md) 
+
+### #is_/same_as :: [Ivory.personal](/_personal/Chemistry/Material/Ivory.personal.md) 
+
+### #is_/same_as :: [Ivory.secret](/_secret/Chemistry/Material/Ivory.secret.md)
+

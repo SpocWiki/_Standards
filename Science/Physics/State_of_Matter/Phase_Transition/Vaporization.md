@@ -25,3 +25,22 @@ has_id_wikidata: Q6452502
 > [Wikipedia](https://en.wikipedia.org/wiki/Vaporization) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vaporization](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.md) 
+
+### #is_/same_as :: [Vaporization.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.public.md) 
+
+### #is_/same_as :: [Vaporization.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.internal.md) 
+
+### #is_/same_as :: [Vaporization.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.protect.md) 
+
+### #is_/same_as :: [Vaporization.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.private.md) 
+
+### #is_/same_as :: [Vaporization.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.personal.md) 
+
+### #is_/same_as :: [Vaporization.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.secret.md)
+

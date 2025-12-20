@@ -65,3 +65,22 @@ has_id_wikidata: Q190247
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20numerical%20control) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [CNC(Computer_Numerical_Control)](/_Standards/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).md) 
+
+### #is_/same_as :: [CNC(Computer_Numerical_Control).public](/_public/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).public.md) 
+
+### #is_/same_as :: [CNC(Computer_Numerical_Control).internal](/_internal/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).internal.md) 
+
+### #is_/same_as :: [CNC(Computer_Numerical_Control).protect](/_protect/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).protect.md) 
+
+### #is_/same_as :: [CNC(Computer_Numerical_Control).private](/_private/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).private.md) 
+
+### #is_/same_as :: [CNC(Computer_Numerical_Control).personal](/_personal/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).personal.md) 
+
+### #is_/same_as :: [CNC(Computer_Numerical_Control).secret](/_secret/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).secret.md)
+

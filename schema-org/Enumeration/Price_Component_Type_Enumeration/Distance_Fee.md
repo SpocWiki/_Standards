@@ -42,17 +42,17 @@ Represents the distance fee (e.g., price per km or mile) part of the total price
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Distance_Fee](Distance_Fee.md) 
+### #is_/same_as :: [Distance_Fee](/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.md) 
 
-### #is_/same_as :: [distance_fee.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.public.md) 
+### #is_/same_as :: [Distance_Fee.public](/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.public.md) 
 
-### #is_/same_as :: [distance_fee.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.internal.md) 
+### #is_/same_as :: [Distance_Fee.internal](/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.internal.md) 
 
-### #is_/same_as :: [distance_fee.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.protect.md) 
+### #is_/same_as :: [Distance_Fee.protect](/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.protect.md) 
 
-### #is_/same_as :: [distance_fee.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.private.md) 
+### #is_/same_as :: [Distance_Fee.private](/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.private.md) 
 
-### #is_/same_as :: [distance_fee.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.personal.md) 
+### #is_/same_as :: [Distance_Fee.personal](/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.personal.md) 
 
-### #is_/same_as :: [distance_fee.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.secret.md)
+### #is_/same_as :: [Distance_Fee.secret](/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.secret.md)
 

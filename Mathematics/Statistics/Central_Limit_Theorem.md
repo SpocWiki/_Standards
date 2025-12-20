@@ -51,3 +51,22 @@ Commons_category: Central limit theorem
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Central%20limit%20theorem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Central_Limit_Theorem](/_Standards/Mathematics/Statistics/Central_Limit_Theorem.md) 
+
+### #is_/same_as :: [Central_Limit_Theorem.public](/_public/Mathematics/Statistics/Central_Limit_Theorem.public.md) 
+
+### #is_/same_as :: [Central_Limit_Theorem.internal](/_internal/Mathematics/Statistics/Central_Limit_Theorem.internal.md) 
+
+### #is_/same_as :: [Central_Limit_Theorem.protect](/_protect/Mathematics/Statistics/Central_Limit_Theorem.protect.md) 
+
+### #is_/same_as :: [Central_Limit_Theorem.private](/_private/Mathematics/Statistics/Central_Limit_Theorem.private.md) 
+
+### #is_/same_as :: [Central_Limit_Theorem.personal](/_personal/Mathematics/Statistics/Central_Limit_Theorem.personal.md) 
+
+### #is_/same_as :: [Central_Limit_Theorem.secret](/_secret/Mathematics/Statistics/Central_Limit_Theorem.secret.md)
+

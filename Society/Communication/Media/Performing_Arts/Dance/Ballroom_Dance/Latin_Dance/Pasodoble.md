@@ -38,3 +38,22 @@ inception: 1780-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pasodoble) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pasodoble](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Pasodoble.md) 
+
+### #is_/same_as :: [Pasodoble.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Pasodoble.public.md) 
+
+### #is_/same_as :: [Pasodoble.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Pasodoble.internal.md) 
+
+### #is_/same_as :: [Pasodoble.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Pasodoble.protect.md) 
+
+### #is_/same_as :: [Pasodoble.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Pasodoble.private.md) 
+
+### #is_/same_as :: [Pasodoble.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Pasodoble.personal.md) 
+
+### #is_/same_as :: [Pasodoble.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Pasodoble.secret.md)
+

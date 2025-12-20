@@ -68,3 +68,22 @@ Dewey_Decimal_Classification: "381.149"
 > [Wikipedia](https://en.wikipedia.org/wiki/Supermarket) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Supermarket](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.md) 
+
+### #is_/same_as :: [Supermarket.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.public.md) 
+
+### #is_/same_as :: [Supermarket.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.internal.md) 
+
+### #is_/same_as :: [Supermarket.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.protect.md) 
+
+### #is_/same_as :: [Supermarket.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.private.md) 
+
+### #is_/same_as :: [Supermarket.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.personal.md) 
+
+### #is_/same_as :: [Supermarket.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Grocery_Store/Supermarket.secret.md)
+

@@ -71,3 +71,22 @@ Reciprocally, all other Energy Forms can be converted to Heat.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Heat) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heat](/_Standards/Science/Physics/Thermodynamics/Heat.md) 
+
+### #is_/same_as :: [Heat.public](/_public/Science/Physics/Thermodynamics/Heat.public.md) 
+
+### #is_/same_as :: [Heat.internal](/_internal/Science/Physics/Thermodynamics/Heat.internal.md) 
+
+### #is_/same_as :: [Heat.protect](/_protect/Science/Physics/Thermodynamics/Heat.protect.md) 
+
+### #is_/same_as :: [Heat.private](/_private/Science/Physics/Thermodynamics/Heat.private.md) 
+
+### #is_/same_as :: [Heat.personal](/_personal/Science/Physics/Thermodynamics/Heat.personal.md) 
+
+### #is_/same_as :: [Heat.secret](/_secret/Science/Physics/Thermodynamics/Heat.secret.md)
+

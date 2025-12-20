@@ -110,3 +110,22 @@ work_period_start_: 1913-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Harold%20Lloyd) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lloyd,Harold](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Lloyd,Harold.md) 
+
+### #is_/same_as :: [Lloyd,Harold.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Lloyd,Harold.public.md) 
+
+### #is_/same_as :: [Lloyd,Harold.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Lloyd,Harold.internal.md) 
+
+### #is_/same_as :: [Lloyd,Harold.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Lloyd,Harold.protect.md) 
+
+### #is_/same_as :: [Lloyd,Harold.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Lloyd,Harold.private.md) 
+
+### #is_/same_as :: [Lloyd,Harold.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Lloyd,Harold.personal.md) 
+
+### #is_/same_as :: [Lloyd,Harold.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Lloyd,Harold.secret.md)
+

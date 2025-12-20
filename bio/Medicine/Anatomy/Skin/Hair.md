@@ -69,3 +69,22 @@ TA98_Latin_term: pili
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hair) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hair](/_Standards/bio/Medicine/Anatomy/Skin/Hair.md) 
+
+### #is_/same_as :: [Hair.public](/_public/bio/Medicine/Anatomy/Skin/Hair.public.md) 
+
+### #is_/same_as :: [Hair.internal](/_internal/bio/Medicine/Anatomy/Skin/Hair.internal.md) 
+
+### #is_/same_as :: [Hair.protect](/_protect/bio/Medicine/Anatomy/Skin/Hair.protect.md) 
+
+### #is_/same_as :: [Hair.private](/_private/bio/Medicine/Anatomy/Skin/Hair.private.md) 
+
+### #is_/same_as :: [Hair.personal](/_personal/bio/Medicine/Anatomy/Skin/Hair.personal.md) 
+
+### #is_/same_as :: [Hair.secret](/_secret/bio/Medicine/Anatomy/Skin/Hair.secret.md)
+

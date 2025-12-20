@@ -58,3 +58,22 @@ IMDb_keyword: public-relations
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Public%20relations) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Public_Relations](/_Standards/Society/Social_Relation/Reputation/Public_Relations.md) 
+
+### #is_/same_as :: [Public_Relations.public](/_public/Society/Social_Relation/Reputation/Public_Relations.public.md) 
+
+### #is_/same_as :: [Public_Relations.internal](/_internal/Society/Social_Relation/Reputation/Public_Relations.internal.md) 
+
+### #is_/same_as :: [Public_Relations.protect](/_protect/Society/Social_Relation/Reputation/Public_Relations.protect.md) 
+
+### #is_/same_as :: [Public_Relations.private](/_private/Society/Social_Relation/Reputation/Public_Relations.private.md) 
+
+### #is_/same_as :: [Public_Relations.personal](/_personal/Society/Social_Relation/Reputation/Public_Relations.personal.md) 
+
+### #is_/same_as :: [Public_Relations.secret](/_secret/Society/Social_Relation/Reputation/Public_Relations.secret.md)
+

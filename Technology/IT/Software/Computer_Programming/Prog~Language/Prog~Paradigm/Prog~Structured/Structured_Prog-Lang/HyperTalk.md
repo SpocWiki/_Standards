@@ -16,3 +16,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/HyperTalk)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [HyperTalk](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/HyperTalk.md) 
+
+### #is_/same_as :: [HyperTalk.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/HyperTalk.public.md) 
+
+### #is_/same_as :: [HyperTalk.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/HyperTalk.internal.md) 
+
+### #is_/same_as :: [HyperTalk.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/HyperTalk.protect.md) 
+
+### #is_/same_as :: [HyperTalk.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/HyperTalk.private.md) 
+
+### #is_/same_as :: [HyperTalk.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/HyperTalk.personal.md) 
+
+### #is_/same_as :: [HyperTalk.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/HyperTalk.secret.md)
+

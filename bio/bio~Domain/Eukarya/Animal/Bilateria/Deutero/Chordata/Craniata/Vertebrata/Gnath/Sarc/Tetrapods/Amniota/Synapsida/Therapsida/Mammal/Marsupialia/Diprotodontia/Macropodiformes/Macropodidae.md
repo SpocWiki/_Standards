@@ -41,3 +41,22 @@ start_time: -28000000-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Macropodidae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Macropodidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae.md) 
+
+### #is_/same_as :: [Macropodidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae.public.md) 
+
+### #is_/same_as :: [Macropodidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae.internal.md) 
+
+### #is_/same_as :: [Macropodidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae.protect.md) 
+
+### #is_/same_as :: [Macropodidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae.private.md) 
+
+### #is_/same_as :: [Macropodidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae.personal.md) 
+
+### #is_/same_as :: [Macropodidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae.secret.md)
+

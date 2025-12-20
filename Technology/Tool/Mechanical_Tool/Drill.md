@@ -39,3 +39,22 @@ Iconclass_notation: 47D8(DRILL)
 > [Wikipedia](https://en.wikipedia.org/wiki/Drill) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Drill](/_Standards/Technology/Tool/Mechanical_Tool/Drill.md) 
+
+### #is_/same_as :: [Drill.public](/_public/Technology/Tool/Mechanical_Tool/Drill.public.md) 
+
+### #is_/same_as :: [Drill.internal](/_internal/Technology/Tool/Mechanical_Tool/Drill.internal.md) 
+
+### #is_/same_as :: [Drill.protect](/_protect/Technology/Tool/Mechanical_Tool/Drill.protect.md) 
+
+### #is_/same_as :: [Drill.private](/_private/Technology/Tool/Mechanical_Tool/Drill.private.md) 
+
+### #is_/same_as :: [Drill.personal](/_personal/Technology/Tool/Mechanical_Tool/Drill.personal.md) 
+
+### #is_/same_as :: [Drill.secret](/_secret/Technology/Tool/Mechanical_Tool/Drill.secret.md)
+

@@ -81,3 +81,22 @@ Library_of_Congress_Classification: TK5105.885.G66
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Google%20Search) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Google_Search](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_Search.md) 
+
+### #is_/same_as :: [Google_Search.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_Search.public.md) 
+
+### #is_/same_as :: [Google_Search.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_Search.internal.md) 
+
+### #is_/same_as :: [Google_Search.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_Search.protect.md) 
+
+### #is_/same_as :: [Google_Search.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_Search.private.md) 
+
+### #is_/same_as :: [Google_Search.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_Search.personal.md) 
+
+### #is_/same_as :: [Google_Search.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_Search.secret.md)
+

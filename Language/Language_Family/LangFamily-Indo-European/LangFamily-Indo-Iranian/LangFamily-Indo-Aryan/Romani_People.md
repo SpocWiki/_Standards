@@ -110,3 +110,22 @@ Krugosvet_article_archived_: narody-i-yazyki/tsygane
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Romani%20people) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Romani_People](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Romani_People.md) 
+
+### #is_/same_as :: [Romani_People.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Romani_People.public.md) 
+
+### #is_/same_as :: [Romani_People.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Romani_People.internal.md) 
+
+### #is_/same_as :: [Romani_People.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Romani_People.protect.md) 
+
+### #is_/same_as :: [Romani_People.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Romani_People.private.md) 
+
+### #is_/same_as :: [Romani_People.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Romani_People.personal.md) 
+
+### #is_/same_as :: [Romani_People.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Romani_People.secret.md)
+

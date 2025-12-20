@@ -41,3 +41,22 @@ Baidu_Tieba_name: 鸡尾酒
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cocktail) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cocktail](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.md) 
+
+### #is_/same_as :: [Cocktail.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.public.md) 
+
+### #is_/same_as :: [Cocktail.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.internal.md) 
+
+### #is_/same_as :: [Cocktail.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.protect.md) 
+
+### #is_/same_as :: [Cocktail.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.private.md) 
+
+### #is_/same_as :: [Cocktail.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.personal.md) 
+
+### #is_/same_as :: [Cocktail.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.secret.md)
+

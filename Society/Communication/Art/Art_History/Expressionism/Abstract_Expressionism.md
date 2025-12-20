@@ -33,17 +33,17 @@ subclass_of: '[[_Standards/WikiData/WD~abstract_art,128115]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abstract_Expressionism](/_Standards/Society/Communication/Art/Abstract_Expressionism.md) 
+### #is_/same_as :: [Abstract_Expressionism](/_Standards/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.md) 
 
-### #is_/same_as :: [Abstract_Expressionism.public](/_public/Society/Communication/Art/Abstract_Expressionism.public.md) 
+### #is_/same_as :: [Abstract_Expressionism.public](/_public/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.public.md) 
 
-### #is_/same_as :: [Abstract_Expressionism.internal](/_internal/Society/Communication/Art/Abstract_Expressionism.internal.md) 
+### #is_/same_as :: [Abstract_Expressionism.internal](/_internal/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.internal.md) 
 
-### #is_/same_as :: [Abstract_Expressionism.protect](/_protect/Society/Communication/Art/Abstract_Expressionism.protect.md) 
+### #is_/same_as :: [Abstract_Expressionism.protect](/_protect/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.protect.md) 
 
-### #is_/same_as :: [Abstract_Expressionism.private](/_private/Society/Communication/Art/Abstract_Expressionism.private.md) 
+### #is_/same_as :: [Abstract_Expressionism.private](/_private/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.private.md) 
 
-### #is_/same_as :: [Abstract_Expressionism.personal](/_personal/Society/Communication/Art/Abstract_Expressionism.personal.md) 
+### #is_/same_as :: [Abstract_Expressionism.personal](/_personal/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.personal.md) 
 
-### #is_/same_as :: [Abstract_Expressionism.secret](/_secret/Society/Communication/Art/Abstract_Expressionism.secret.md)
+### #is_/same_as :: [Abstract_Expressionism.secret](/_secret/Society/Communication/Art/Art_History/Expressionism/Abstract_Expressionism.secret.md)
 

@@ -129,3 +129,22 @@ official_website:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Notre-Dame%20de%20Paris) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Notre-Dame_de_Paris](/_Standards/Earth/Geography/Place/Notre-Dame_de_Paris.md) 
+
+### #is_/same_as :: [Notre-Dame_de_Paris.public](/_public/Earth/Geography/Place/Notre-Dame_de_Paris.public.md) 
+
+### #is_/same_as :: [Notre-Dame_de_Paris.internal](/_internal/Earth/Geography/Place/Notre-Dame_de_Paris.internal.md) 
+
+### #is_/same_as :: [Notre-Dame_de_Paris.protect](/_protect/Earth/Geography/Place/Notre-Dame_de_Paris.protect.md) 
+
+### #is_/same_as :: [Notre-Dame_de_Paris.private](/_private/Earth/Geography/Place/Notre-Dame_de_Paris.private.md) 
+
+### #is_/same_as :: [Notre-Dame_de_Paris.personal](/_personal/Earth/Geography/Place/Notre-Dame_de_Paris.personal.md) 
+
+### #is_/same_as :: [Notre-Dame_de_Paris.secret](/_secret/Earth/Geography/Place/Notre-Dame_de_Paris.secret.md)
+

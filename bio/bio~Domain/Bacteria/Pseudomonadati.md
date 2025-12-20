@@ -16,3 +16,21 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pseudomonadati) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pseudomonadati](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati.md) 
+
+### #is_/same_as :: [Pseudomonadati.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati.public.md) 
+
+### #is_/same_as :: [Pseudomonadati.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati.internal.md) 
+
+### #is_/same_as :: [Pseudomonadati.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati.protect.md) 
+
+### #is_/same_as :: [Pseudomonadati.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati.private.md) 
+
+### #is_/same_as :: [Pseudomonadati.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati.personal.md) 
+
+### #is_/same_as :: [Pseudomonadati.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati.secret.md)
+

@@ -107,3 +107,22 @@ P1015: "90053007"
 > [Wikipedia](https://en.wikipedia.org/wiki/Truman%20Capote) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Capote,Truman](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.md) 
+
+### #is_/same_as :: [Capote,Truman.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.public.md) 
+
+### #is_/same_as :: [Capote,Truman.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.internal.md) 
+
+### #is_/same_as :: [Capote,Truman.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.protect.md) 
+
+### #is_/same_as :: [Capote,Truman.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.private.md) 
+
+### #is_/same_as :: [Capote,Truman.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.personal.md) 
+
+### #is_/same_as :: [Capote,Truman.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.secret.md)
+

@@ -46,3 +46,22 @@ subclass_of: "[[_Standards/WikiData/WD~textile_arts_tool,19394283]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Jacquard%20machine) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jacquard_Machine](/_Standards/Technology/IT/Computer_Hardware/Jacquard_Machine.md) 
+
+### #is_/same_as :: [Jacquard_Machine.public](/_public/Technology/IT/Computer_Hardware/Jacquard_Machine.public.md) 
+
+### #is_/same_as :: [Jacquard_Machine.internal](/_internal/Technology/IT/Computer_Hardware/Jacquard_Machine.internal.md) 
+
+### #is_/same_as :: [Jacquard_Machine.protect](/_protect/Technology/IT/Computer_Hardware/Jacquard_Machine.protect.md) 
+
+### #is_/same_as :: [Jacquard_Machine.private](/_private/Technology/IT/Computer_Hardware/Jacquard_Machine.private.md) 
+
+### #is_/same_as :: [Jacquard_Machine.personal](/_personal/Technology/IT/Computer_Hardware/Jacquard_Machine.personal.md) 
+
+### #is_/same_as :: [Jacquard_Machine.secret](/_secret/Technology/IT/Computer_Hardware/Jacquard_Machine.secret.md)
+

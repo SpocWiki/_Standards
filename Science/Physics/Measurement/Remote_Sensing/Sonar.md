@@ -45,3 +45,22 @@ Commons_category: Sonar
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sonar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sonar](/_Standards/Science/Physics/Measurement/Remote_Sensing/Sonar.md) 
+
+### #is_/same_as :: [Sonar.public](/_public/Science/Physics/Measurement/Remote_Sensing/Sonar.public.md) 
+
+### #is_/same_as :: [Sonar.internal](/_internal/Science/Physics/Measurement/Remote_Sensing/Sonar.internal.md) 
+
+### #is_/same_as :: [Sonar.protect](/_protect/Science/Physics/Measurement/Remote_Sensing/Sonar.protect.md) 
+
+### #is_/same_as :: [Sonar.private](/_private/Science/Physics/Measurement/Remote_Sensing/Sonar.private.md) 
+
+### #is_/same_as :: [Sonar.personal](/_personal/Science/Physics/Measurement/Remote_Sensing/Sonar.personal.md) 
+
+### #is_/same_as :: [Sonar.secret](/_secret/Science/Physics/Measurement/Remote_Sensing/Sonar.secret.md)
+

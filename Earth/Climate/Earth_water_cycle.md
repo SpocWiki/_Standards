@@ -60,3 +60,22 @@ Commons_category: Water cycle
 > [Wikipedia](https://en.wikipedia.org/wiki/Water%20cycle) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Earth_water_cycle](/_Standards/Earth/Climate/Earth_water_cycle.md) 
+
+### #is_/same_as :: [Earth_water_cycle.public](/_public/Earth/Climate/Earth_water_cycle.public.md) 
+
+### #is_/same_as :: [Earth_water_cycle.internal](/_internal/Earth/Climate/Earth_water_cycle.internal.md) 
+
+### #is_/same_as :: [Earth_water_cycle.protect](/_protect/Earth/Climate/Earth_water_cycle.protect.md) 
+
+### #is_/same_as :: [Earth_water_cycle.private](/_private/Earth/Climate/Earth_water_cycle.private.md) 
+
+### #is_/same_as :: [Earth_water_cycle.personal](/_personal/Earth/Climate/Earth_water_cycle.personal.md) 
+
+### #is_/same_as :: [Earth_water_cycle.secret](/_secret/Earth/Climate/Earth_water_cycle.secret.md)
+

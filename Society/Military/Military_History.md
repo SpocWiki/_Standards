@@ -47,3 +47,22 @@ subreddit: MilitaryHistory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20history) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Military_History](/_Standards/Society/Military/Military_History.md) 
+
+### #is_/same_as :: [Military_History.public](/_public/Society/Military/Military_History.public.md) 
+
+### #is_/same_as :: [Military_History.internal](/_internal/Society/Military/Military_History.internal.md) 
+
+### #is_/same_as :: [Military_History.protect](/_protect/Society/Military/Military_History.protect.md) 
+
+### #is_/same_as :: [Military_History.private](/_private/Society/Military/Military_History.private.md) 
+
+### #is_/same_as :: [Military_History.personal](/_personal/Society/Military/Military_History.personal.md) 
+
+### #is_/same_as :: [Military_History.secret](/_secret/Society/Military/Military_History.secret.md)
+

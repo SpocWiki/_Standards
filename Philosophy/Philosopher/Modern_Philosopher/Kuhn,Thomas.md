@@ -111,3 +111,22 @@ Libris_URI: tr57b1tc40dv4xv
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Kuhn) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kuhn,Thomas](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Kuhn,Thomas.md) 
+
+### #is_/same_as :: [Kuhn,Thomas.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Kuhn,Thomas.public.md) 
+
+### #is_/same_as :: [Kuhn,Thomas.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Kuhn,Thomas.internal.md) 
+
+### #is_/same_as :: [Kuhn,Thomas.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Kuhn,Thomas.protect.md) 
+
+### #is_/same_as :: [Kuhn,Thomas.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Kuhn,Thomas.private.md) 
+
+### #is_/same_as :: [Kuhn,Thomas.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Kuhn,Thomas.personal.md) 
+
+### #is_/same_as :: [Kuhn,Thomas.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Kuhn,Thomas.secret.md)
+

@@ -132,7 +132,7 @@ Nat. Mus., 234: 1-180.
   View              Ventral
   Size              83 mm ML (including tail).
   Type              Holotype
-  ------------------------------------------------------
+  ------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

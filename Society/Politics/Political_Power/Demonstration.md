@@ -47,3 +47,22 @@ Commons_category: Political demonstrations
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Demonstration](/_Standards/Society/Politics/Political_Power/Demonstration.md) 
+
+### #is_/same_as :: [Demonstration.public](/_public/Society/Politics/Political_Power/Demonstration.public.md) 
+
+### #is_/same_as :: [Demonstration.internal](/_internal/Society/Politics/Political_Power/Demonstration.internal.md) 
+
+### #is_/same_as :: [Demonstration.protect](/_protect/Society/Politics/Political_Power/Demonstration.protect.md) 
+
+### #is_/same_as :: [Demonstration.private](/_private/Society/Politics/Political_Power/Demonstration.private.md) 
+
+### #is_/same_as :: [Demonstration.personal](/_personal/Society/Politics/Political_Power/Demonstration.personal.md) 
+
+### #is_/same_as :: [Demonstration.secret](/_secret/Society/Politics/Political_Power/Demonstration.secret.md)
+

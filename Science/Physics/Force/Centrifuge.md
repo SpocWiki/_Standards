@@ -11,3 +11,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Centrifuge) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Centrifuge](/_Standards/Science/Physics/Force/Centrifuge.md) 
+
+### #is_/same_as :: [Centrifuge.public](/_public/Science/Physics/Force/Centrifuge.public.md) 
+
+### #is_/same_as :: [Centrifuge.internal](/_internal/Science/Physics/Force/Centrifuge.internal.md) 
+
+### #is_/same_as :: [Centrifuge.protect](/_protect/Science/Physics/Force/Centrifuge.protect.md) 
+
+### #is_/same_as :: [Centrifuge.private](/_private/Science/Physics/Force/Centrifuge.private.md) 
+
+### #is_/same_as :: [Centrifuge.personal](/_personal/Science/Physics/Force/Centrifuge.personal.md) 
+
+### #is_/same_as :: [Centrifuge.secret](/_secret/Science/Physics/Force/Centrifuge.secret.md)
+

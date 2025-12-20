@@ -28,3 +28,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Substance%20dependence) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Substance_Dependence](/_Standards/bio/Psychology/Mental_Disorder/Substance_Dependence.md) 
+
+### #is_/same_as :: [Substance_Dependence.public](/_public/bio/Psychology/Mental_Disorder/Substance_Dependence.public.md) 
+
+### #is_/same_as :: [Substance_Dependence.internal](/_internal/bio/Psychology/Mental_Disorder/Substance_Dependence.internal.md) 
+
+### #is_/same_as :: [Substance_Dependence.protect](/_protect/bio/Psychology/Mental_Disorder/Substance_Dependence.protect.md) 
+
+### #is_/same_as :: [Substance_Dependence.private](/_private/bio/Psychology/Mental_Disorder/Substance_Dependence.private.md) 
+
+### #is_/same_as :: [Substance_Dependence.personal](/_personal/bio/Psychology/Mental_Disorder/Substance_Dependence.personal.md) 
+
+### #is_/same_as :: [Substance_Dependence.secret](/_secret/bio/Psychology/Mental_Disorder/Substance_Dependence.secret.md)
+

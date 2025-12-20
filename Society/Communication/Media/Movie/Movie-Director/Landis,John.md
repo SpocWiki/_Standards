@@ -44,3 +44,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Landis,John](/_Standards/Society/Communication/Media/Movie/Movie-Director/Landis,John.md) 
+
+### #is_/same_as :: [Landis,John.public](/_public/Society/Communication/Media/Movie/Movie-Director/Landis,John.public.md) 
+
+### #is_/same_as :: [Landis,John.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Landis,John.internal.md) 
+
+### #is_/same_as :: [Landis,John.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Landis,John.protect.md) 
+
+### #is_/same_as :: [Landis,John.private](/_private/Society/Communication/Media/Movie/Movie-Director/Landis,John.private.md) 
+
+### #is_/same_as :: [Landis,John.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Landis,John.personal.md) 
+
+### #is_/same_as :: [Landis,John.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Landis,John.secret.md)
+

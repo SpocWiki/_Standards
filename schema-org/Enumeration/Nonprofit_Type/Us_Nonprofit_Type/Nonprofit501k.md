@@ -42,17 +42,17 @@ Nonprofit501k: Non-profit type referring to Child Care Organizations.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501k](Nonprofit501k.md) 
+### #is_/same_as :: [Nonprofit501k](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.md) 
 
-### #is_/same_as :: [nonprofit501k.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501k.public.md) 
+### #is_/same_as :: [Nonprofit501k.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.public.md) 
 
-### #is_/same_as :: [nonprofit501k.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501k.internal.md) 
+### #is_/same_as :: [Nonprofit501k.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.internal.md) 
 
-### #is_/same_as :: [nonprofit501k.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501k.protect.md) 
+### #is_/same_as :: [Nonprofit501k.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.protect.md) 
 
-### #is_/same_as :: [nonprofit501k.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501k.private.md) 
+### #is_/same_as :: [Nonprofit501k.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.private.md) 
 
-### #is_/same_as :: [nonprofit501k.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501k.personal.md) 
+### #is_/same_as :: [Nonprofit501k.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.personal.md) 
 
-### #is_/same_as :: [nonprofit501k.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501k.secret.md)
+### #is_/same_as :: [Nonprofit501k.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.secret.md)
 

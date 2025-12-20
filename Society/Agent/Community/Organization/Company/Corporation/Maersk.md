@@ -27,3 +27,22 @@ has_id_wikidata: Q18224
 > [Wikipedia](https://en.wikipedia.org/wiki/Maersk) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Maersk](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Maersk.md) 
+
+### #is_/same_as :: [Maersk.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Maersk.public.md) 
+
+### #is_/same_as :: [Maersk.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Maersk.internal.md) 
+
+### #is_/same_as :: [Maersk.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Maersk.protect.md) 
+
+### #is_/same_as :: [Maersk.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Maersk.private.md) 
+
+### #is_/same_as :: [Maersk.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Maersk.personal.md) 
+
+### #is_/same_as :: [Maersk.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Maersk.secret.md)
+

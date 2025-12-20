@@ -35,3 +35,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%2C%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Minimalism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Minimalism](/_Standards/Society/Communication/Art/Art_History/Minimalism.md) 
+
+### #is_/same_as :: [Minimalism.public](/_public/Society/Communication/Art/Art_History/Minimalism.public.md) 
+
+### #is_/same_as :: [Minimalism.internal](/_internal/Society/Communication/Art/Art_History/Minimalism.internal.md) 
+
+### #is_/same_as :: [Minimalism.protect](/_protect/Society/Communication/Art/Art_History/Minimalism.protect.md) 
+
+### #is_/same_as :: [Minimalism.private](/_private/Society/Communication/Art/Art_History/Minimalism.private.md) 
+
+### #is_/same_as :: [Minimalism.personal](/_personal/Society/Communication/Art/Art_History/Minimalism.personal.md) 
+
+### #is_/same_as :: [Minimalism.secret](/_secret/Society/Communication/Art/Art_History/Minimalism.secret.md)
+

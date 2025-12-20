@@ -147,17 +147,17 @@ CreativeWorkSeries dedicated to TV broadcast and associated online delivery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [TV_series](/_Standards/Society/Communication/Media/Television/TV_series.md) 
+### #is_/same_as :: [TV_Series](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series.md) 
 
-### #is_/same_as :: [TV_series.public](/_public/Society/Communication/Media/Television/TV_series.public.md) 
+### #is_/same_as :: [TV_Series.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series.public.md) 
 
-### #is_/same_as :: [TV_series.internal](/_internal/Society/Communication/Media/Television/TV_series.internal.md) 
+### #is_/same_as :: [TV_Series.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series.internal.md) 
 
-### #is_/same_as :: [TV_series.protect](/_protect/Society/Communication/Media/Television/TV_series.protect.md) 
+### #is_/same_as :: [TV_Series.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series.protect.md) 
 
-### #is_/same_as :: [TV_series.private](/_private/Society/Communication/Media/Television/TV_series.private.md) 
+### #is_/same_as :: [TV_Series.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series.private.md) 
 
-### #is_/same_as :: [TV_series.personal](/_personal/Society/Communication/Media/Television/TV_series.personal.md) 
+### #is_/same_as :: [TV_Series.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series.personal.md) 
 
-### #is_/same_as :: [TV_series.secret](/_secret/Society/Communication/Media/Television/TV_series.secret.md)
+### #is_/same_as :: [TV_Series.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series.secret.md)
 

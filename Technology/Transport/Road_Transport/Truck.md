@@ -79,3 +79,22 @@ Dewey_Decimal_Classification: "629.224"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Truck) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Truck](/_Standards/Technology/Transport/Road_Transport/Truck.md) 
+
+### #is_/same_as :: [Truck.public](/_public/Technology/Transport/Road_Transport/Truck.public.md) 
+
+### #is_/same_as :: [Truck.internal](/_internal/Technology/Transport/Road_Transport/Truck.internal.md) 
+
+### #is_/same_as :: [Truck.protect](/_protect/Technology/Transport/Road_Transport/Truck.protect.md) 
+
+### #is_/same_as :: [Truck.private](/_private/Technology/Transport/Road_Transport/Truck.private.md) 
+
+### #is_/same_as :: [Truck.personal](/_personal/Technology/Transport/Road_Transport/Truck.personal.md) 
+
+### #is_/same_as :: [Truck.secret](/_secret/Technology/Transport/Road_Transport/Truck.secret.md)
+

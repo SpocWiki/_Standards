@@ -50,3 +50,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tom%20and%20Jerry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tom_and_Jerry](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Tom_and_Jerry.md) 
+
+### #is_/same_as :: [Tom_and_Jerry.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Tom_and_Jerry.public.md) 
+
+### #is_/same_as :: [Tom_and_Jerry.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Tom_and_Jerry.internal.md) 
+
+### #is_/same_as :: [Tom_and_Jerry.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Tom_and_Jerry.protect.md) 
+
+### #is_/same_as :: [Tom_and_Jerry.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Tom_and_Jerry.private.md) 
+
+### #is_/same_as :: [Tom_and_Jerry.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Tom_and_Jerry.personal.md) 
+
+### #is_/same_as :: [Tom_and_Jerry.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Tom_and_Jerry.secret.md)
+

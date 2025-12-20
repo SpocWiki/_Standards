@@ -49,3 +49,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Archiv%20f%C3%BCr%20di
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrography) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hydrography](/_Standards/Earth/Geography/Hydrography.md) 
+
+### #is_/same_as :: [Hydrography.public](/_public/Earth/Geography/Hydrography.public.md) 
+
+### #is_/same_as :: [Hydrography.internal](/_internal/Earth/Geography/Hydrography.internal.md) 
+
+### #is_/same_as :: [Hydrography.protect](/_protect/Earth/Geography/Hydrography.protect.md) 
+
+### #is_/same_as :: [Hydrography.private](/_private/Earth/Geography/Hydrography.private.md) 
+
+### #is_/same_as :: [Hydrography.personal](/_personal/Earth/Geography/Hydrography.personal.md) 
+
+### #is_/same_as :: [Hydrography.secret](/_secret/Earth/Geography/Hydrography.secret.md)
+

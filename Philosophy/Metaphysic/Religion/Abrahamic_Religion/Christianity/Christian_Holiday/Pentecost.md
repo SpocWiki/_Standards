@@ -37,3 +37,22 @@ has_id_wikidata: Q39864
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pentecost) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pentecost](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Pentecost.md) 
+
+### #is_/same_as :: [Pentecost.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Pentecost.public.md) 
+
+### #is_/same_as :: [Pentecost.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Pentecost.internal.md) 
+
+### #is_/same_as :: [Pentecost.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Pentecost.protect.md) 
+
+### #is_/same_as :: [Pentecost.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Pentecost.private.md) 
+
+### #is_/same_as :: [Pentecost.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Pentecost.personal.md) 
+
+### #is_/same_as :: [Pentecost.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Pentecost.secret.md)
+

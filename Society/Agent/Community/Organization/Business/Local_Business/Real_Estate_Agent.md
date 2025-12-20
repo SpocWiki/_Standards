@@ -39,17 +39,17 @@ A real-estate agent.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Real_Estate_Agent](Real_Estate_Agent.md) 
+### #is_/same_as :: [Real_Estate_Agent](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.md) 
 
-### #is_/same_as :: [Real_Estate_Agent.public](/_public/Society/Organization/Local_Business/Real_Estate_Agent.public.md) 
+### #is_/same_as :: [Real_Estate_Agent.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.public.md) 
 
-### #is_/same_as :: [Real_Estate_Agent.internal](/_internal/Society/Organization/Local_Business/Real_Estate_Agent.internal.md) 
+### #is_/same_as :: [Real_Estate_Agent.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.internal.md) 
 
-### #is_/same_as :: [Real_Estate_Agent.protect](/_protect/Society/Organization/Local_Business/Real_Estate_Agent.protect.md) 
+### #is_/same_as :: [Real_Estate_Agent.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.protect.md) 
 
-### #is_/same_as :: [Real_Estate_Agent.private](/_private/Society/Organization/Local_Business/Real_Estate_Agent.private.md) 
+### #is_/same_as :: [Real_Estate_Agent.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.private.md) 
 
-### #is_/same_as :: [Real_Estate_Agent.personal](/_personal/Society/Organization/Local_Business/Real_Estate_Agent.personal.md) 
+### #is_/same_as :: [Real_Estate_Agent.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.personal.md) 
 
-### #is_/same_as :: [Real_Estate_Agent.secret](/_secret/Society/Organization/Local_Business/Real_Estate_Agent.secret.md)
+### #is_/same_as :: [Real_Estate_Agent.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Real_Estate_Agent.secret.md)
 

@@ -191,3 +191,22 @@ the astrophysical origin of most elements beyond iron.
 | Core Temperature (end of life) |               0.1 GK |                 10 GK |
 | Final Object Mass              | 0.6 M☉ (white dwarf) | 2.0 M☉ (neutron star) |
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Main_Sequence](/_Standards/Astronomy/Star/Main_Sequence.md) 
+
+### #is_/same_as :: [Main_Sequence.public](/_public/Astronomy/Star/Main_Sequence.public.md) 
+
+### #is_/same_as :: [Main_Sequence.internal](/_internal/Astronomy/Star/Main_Sequence.internal.md) 
+
+### #is_/same_as :: [Main_Sequence.protect](/_protect/Astronomy/Star/Main_Sequence.protect.md) 
+
+### #is_/same_as :: [Main_Sequence.private](/_private/Astronomy/Star/Main_Sequence.private.md) 
+
+### #is_/same_as :: [Main_Sequence.personal](/_personal/Astronomy/Star/Main_Sequence.personal.md) 
+
+### #is_/same_as :: [Main_Sequence.secret](/_secret/Astronomy/Star/Main_Sequence.secret.md)
+

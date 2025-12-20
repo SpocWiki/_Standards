@@ -67,3 +67,22 @@ Commons_category: Power supplies
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Power%20supply) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Power_Supply](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.md) 
+
+### #is_/same_as :: [Power_Supply.public](/_public/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.public.md) 
+
+### #is_/same_as :: [Power_Supply.internal](/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.internal.md) 
+
+### #is_/same_as :: [Power_Supply.protect](/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.protect.md) 
+
+### #is_/same_as :: [Power_Supply.private](/_private/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.private.md) 
+
+### #is_/same_as :: [Power_Supply.personal](/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.personal.md) 
+
+### #is_/same_as :: [Power_Supply.secret](/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.secret.md)
+

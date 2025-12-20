@@ -47,3 +47,22 @@ NBN_System_Key: NHMSYS0000842028
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Osteichthyes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Osteichthyes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes.md) 
+
+### #is_/same_as :: [Osteichthyes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes.public.md) 
+
+### #is_/same_as :: [Osteichthyes.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes.internal.md) 
+
+### #is_/same_as :: [Osteichthyes.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes.protect.md) 
+
+### #is_/same_as :: [Osteichthyes.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes.private.md) 
+
+### #is_/same_as :: [Osteichthyes.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes.personal.md) 
+
+### #is_/same_as :: [Osteichthyes.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes.secret.md)
+

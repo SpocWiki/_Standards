@@ -24,17 +24,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baseball](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball.md) 
+### #is_/same_as :: [Baseball](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball.md) 
 
-### #is_/same_as :: [Baseball.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball.public.md) 
+### #is_/same_as :: [Baseball.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball.public.md) 
 
-### #is_/same_as :: [Baseball.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball.internal.md) 
+### #is_/same_as :: [Baseball.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball.internal.md) 
 
-### #is_/same_as :: [Baseball.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball.protect.md) 
+### #is_/same_as :: [Baseball.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball.protect.md) 
 
-### #is_/same_as :: [Baseball.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball.private.md) 
+### #is_/same_as :: [Baseball.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball.private.md) 
 
-### #is_/same_as :: [Baseball.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball.personal.md) 
+### #is_/same_as :: [Baseball.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball.personal.md) 
 
-### #is_/same_as :: [Baseball.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball.secret.md)
+### #is_/same_as :: [Baseball.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball.secret.md)
 

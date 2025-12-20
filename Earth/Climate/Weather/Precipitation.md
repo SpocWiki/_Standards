@@ -48,3 +48,22 @@ Commons_category: Precipitation (weather)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Precipitation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Precipitation](/_Standards/Earth/Climate/Weather/Precipitation.md) 
+
+### #is_/same_as :: [Precipitation.public](/_public/Earth/Climate/Weather/Precipitation.public.md) 
+
+### #is_/same_as :: [Precipitation.internal](/_internal/Earth/Climate/Weather/Precipitation.internal.md) 
+
+### #is_/same_as :: [Precipitation.protect](/_protect/Earth/Climate/Weather/Precipitation.protect.md) 
+
+### #is_/same_as :: [Precipitation.private](/_private/Earth/Climate/Weather/Precipitation.private.md) 
+
+### #is_/same_as :: [Precipitation.personal](/_personal/Earth/Climate/Weather/Precipitation.personal.md) 
+
+### #is_/same_as :: [Precipitation.secret](/_secret/Earth/Climate/Weather/Precipitation.secret.md)
+

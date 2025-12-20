@@ -46,17 +46,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Andromeda_Galaxy](/_Standards/Astronomy/Galaxy/Andromeda_Galaxy.md) 
+### #is_/same_as :: [Andromeda_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.md) 
 
-### #is_/same_as :: [Andromeda_Galaxy.public](/_public/Astronomy/Galaxy/Andromeda_Galaxy.public.md) 
+### #is_/same_as :: [Andromeda_Galaxy.public](/_public/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.public.md) 
 
-### #is_/same_as :: [Andromeda_Galaxy.internal](/_internal/Astronomy/Galaxy/Andromeda_Galaxy.internal.md) 
+### #is_/same_as :: [Andromeda_Galaxy.internal](/_internal/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.internal.md) 
 
-### #is_/same_as :: [Andromeda_Galaxy.protect](/_protect/Astronomy/Galaxy/Andromeda_Galaxy.protect.md) 
+### #is_/same_as :: [Andromeda_Galaxy.protect](/_protect/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.protect.md) 
 
-### #is_/same_as :: [Andromeda_Galaxy.private](/_private/Astronomy/Galaxy/Andromeda_Galaxy.private.md) 
+### #is_/same_as :: [Andromeda_Galaxy.private](/_private/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.private.md) 
 
-### #is_/same_as :: [Andromeda_Galaxy.personal](/_personal/Astronomy/Galaxy/Andromeda_Galaxy.personal.md) 
+### #is_/same_as :: [Andromeda_Galaxy.personal](/_personal/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.personal.md) 
 
-### #is_/same_as :: [Andromeda_Galaxy.secret](/_secret/Astronomy/Galaxy/Andromeda_Galaxy.secret.md)
+### #is_/same_as :: [Andromeda_Galaxy.secret](/_secret/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.secret.md)
 

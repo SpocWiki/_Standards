@@ -84,3 +84,22 @@ Wolfram_Language_entity_code: Entity["FoodType", "Poultry"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poultry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Poultry](/_Standards/Society/Economics/Industry/Agriculture/Domestication/Poultry.md) 
+
+### #is_/same_as :: [Poultry.public](/_public/Society/Economics/Industry/Agriculture/Domestication/Poultry.public.md) 
+
+### #is_/same_as :: [Poultry.internal](/_internal/Society/Economics/Industry/Agriculture/Domestication/Poultry.internal.md) 
+
+### #is_/same_as :: [Poultry.protect](/_protect/Society/Economics/Industry/Agriculture/Domestication/Poultry.protect.md) 
+
+### #is_/same_as :: [Poultry.private](/_private/Society/Economics/Industry/Agriculture/Domestication/Poultry.private.md) 
+
+### #is_/same_as :: [Poultry.personal](/_personal/Society/Economics/Industry/Agriculture/Domestication/Poultry.personal.md) 
+
+### #is_/same_as :: [Poultry.secret](/_secret/Society/Economics/Industry/Agriculture/Domestication/Poultry.secret.md)
+

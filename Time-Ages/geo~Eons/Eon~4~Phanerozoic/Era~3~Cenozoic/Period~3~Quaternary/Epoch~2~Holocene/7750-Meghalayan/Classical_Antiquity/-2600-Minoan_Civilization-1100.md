@@ -33,3 +33,22 @@ has_id_wikidata: Q134178
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Minoan%20civilization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [-2600-Minoan_Civilization-1100](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.md) 
+
+### #is_/same_as :: [-2600-Minoan_Civilization-1100.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.public.md) 
+
+### #is_/same_as :: [-2600-Minoan_Civilization-1100.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.internal.md) 
+
+### #is_/same_as :: [-2600-Minoan_Civilization-1100.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.protect.md) 
+
+### #is_/same_as :: [-2600-Minoan_Civilization-1100.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.private.md) 
+
+### #is_/same_as :: [-2600-Minoan_Civilization-1100.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.personal.md) 
+
+### #is_/same_as :: [-2600-Minoan_Civilization-1100.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.secret.md)
+

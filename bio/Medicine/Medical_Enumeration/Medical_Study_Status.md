@@ -37,17 +37,17 @@ The status of a medical study. Enumerated type.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [medical_study_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.md) 
+### #is_/same_as :: [Medical_Study_Status](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status.md) 
 
-### #is_/same_as :: [medical_study_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.public.md) 
+### #is_/same_as :: [Medical_Study_Status.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status.public.md) 
 
-### #is_/same_as :: [medical_study_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.internal.md) 
+### #is_/same_as :: [Medical_Study_Status.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status.internal.md) 
 
-### #is_/same_as :: [medical_study_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.protect.md) 
+### #is_/same_as :: [Medical_Study_Status.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status.protect.md) 
 
-### #is_/same_as :: [medical_study_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.private.md) 
+### #is_/same_as :: [Medical_Study_Status.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status.private.md) 
 
-### #is_/same_as :: [medical_study_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.personal.md) 
+### #is_/same_as :: [Medical_Study_Status.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status.personal.md) 
 
-### #is_/same_as :: [medical_study_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.secret.md)
+### #is_/same_as :: [Medical_Study_Status.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status.secret.md)
 

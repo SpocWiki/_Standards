@@ -64,3 +64,22 @@ birth_name: Gerd Karl Binnig
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gerd%20Binnig) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Binnig,Gerd](/_Standards/Science/Physics/Physicist/Binnig,Gerd.md) 
+
+### #is_/same_as :: [Binnig,Gerd.public](/_public/Science/Physics/Physicist/Binnig,Gerd.public.md) 
+
+### #is_/same_as :: [Binnig,Gerd.internal](/_internal/Science/Physics/Physicist/Binnig,Gerd.internal.md) 
+
+### #is_/same_as :: [Binnig,Gerd.protect](/_protect/Science/Physics/Physicist/Binnig,Gerd.protect.md) 
+
+### #is_/same_as :: [Binnig,Gerd.private](/_private/Science/Physics/Physicist/Binnig,Gerd.private.md) 
+
+### #is_/same_as :: [Binnig,Gerd.personal](/_personal/Science/Physics/Physicist/Binnig,Gerd.personal.md) 
+
+### #is_/same_as :: [Binnig,Gerd.secret](/_secret/Science/Physics/Physicist/Binnig,Gerd.secret.md)
+

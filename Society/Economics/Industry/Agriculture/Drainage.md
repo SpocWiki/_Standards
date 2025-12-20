@@ -35,3 +35,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Drainbankstown.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Storm%20drain) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Drainage](/_Standards/Society/Economics/Industry/Agriculture/Drainage.md) 
+
+### #is_/same_as :: [Drainage.public](/_public/Society/Economics/Industry/Agriculture/Drainage.public.md) 
+
+### #is_/same_as :: [Drainage.internal](/_internal/Society/Economics/Industry/Agriculture/Drainage.internal.md) 
+
+### #is_/same_as :: [Drainage.protect](/_protect/Society/Economics/Industry/Agriculture/Drainage.protect.md) 
+
+### #is_/same_as :: [Drainage.private](/_private/Society/Economics/Industry/Agriculture/Drainage.private.md) 
+
+### #is_/same_as :: [Drainage.personal](/_personal/Society/Economics/Industry/Agriculture/Drainage.personal.md) 
+
+### #is_/same_as :: [Drainage.secret](/_secret/Society/Economics/Industry/Agriculture/Drainage.secret.md)
+

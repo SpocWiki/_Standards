@@ -47,3 +47,22 @@ GeoNames_feature_code: H.GYSR
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Geyser) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geyser](/_Standards/Earth/Geology/Landform/Geyser.md) 
+
+### #is_/same_as :: [Geyser.public](/_public/Earth/Geology/Landform/Geyser.public.md) 
+
+### #is_/same_as :: [Geyser.internal](/_internal/Earth/Geology/Landform/Geyser.internal.md) 
+
+### #is_/same_as :: [Geyser.protect](/_protect/Earth/Geology/Landform/Geyser.protect.md) 
+
+### #is_/same_as :: [Geyser.private](/_private/Earth/Geology/Landform/Geyser.private.md) 
+
+### #is_/same_as :: [Geyser.personal](/_personal/Earth/Geology/Landform/Geyser.personal.md) 
+
+### #is_/same_as :: [Geyser.secret](/_secret/Earth/Geology/Landform/Geyser.secret.md)
+

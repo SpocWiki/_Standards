@@ -41,20 +41,19 @@ A delivery service through which radio content is provided via broadcast over th
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, area, areaServed, audience, availableChannel, award, brand, broadcastAffiliateOf, broadcastDisplayName, broadcastFrequency, broadcastTimezone, broadcaster, broker, callSign, category, description, disambiguatingDescription, hasBroadcastChannel, hasOfferCatalog, hoursAvailable, identifier, image, inLanguage, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, parentService, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url, videoFormat ] ]
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio_Broadcast_Service](Radio_Broadcast_Service.md) 
+### #is_/same_as :: [Radio_Broadcast_Service](/_Standards/Society/Agent/Community/Organization/Business/Service/Broadcast_Service/Radio_Broadcast_Service.md) 
 
-### #is_/same_as :: [radio_broadcast_service.public](/_public/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.public.md) 
+### #is_/same_as :: [Radio_Broadcast_Service.public](/_public/Society/Agent/Community/Organization/Business/Service/Broadcast_Service/Radio_Broadcast_Service.public.md) 
 
-### #is_/same_as :: [radio_broadcast_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.internal.md) 
+### #is_/same_as :: [Radio_Broadcast_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Broadcast_Service/Radio_Broadcast_Service.internal.md) 
 
-### #is_/same_as :: [radio_broadcast_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.protect.md) 
+### #is_/same_as :: [Radio_Broadcast_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Broadcast_Service/Radio_Broadcast_Service.protect.md) 
 
-### #is_/same_as :: [radio_broadcast_service.private](/_private/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.private.md) 
+### #is_/same_as :: [Radio_Broadcast_Service.private](/_private/Society/Agent/Community/Organization/Business/Service/Broadcast_Service/Radio_Broadcast_Service.private.md) 
 
-### #is_/same_as :: [radio_broadcast_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.personal.md) 
+### #is_/same_as :: [Radio_Broadcast_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Broadcast_Service/Radio_Broadcast_Service.personal.md) 
 
-### #is_/same_as :: [radio_broadcast_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.secret.md)
+### #is_/same_as :: [Radio_Broadcast_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Broadcast_Service/Radio_Broadcast_Service.secret.md)
 

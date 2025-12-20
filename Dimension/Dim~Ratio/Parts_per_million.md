@@ -50,3 +50,22 @@ unit_symbol: ppm
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parts-per%20notation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parts_per_million](/_Standards/Dimension/Dim~Ratio/Parts_per_million.md) 
+
+### #is_/same_as :: [Parts_per_million.public](/_public/Dimension/Dim~Ratio/Parts_per_million.public.md) 
+
+### #is_/same_as :: [Parts_per_million.internal](/_internal/Dimension/Dim~Ratio/Parts_per_million.internal.md) 
+
+### #is_/same_as :: [Parts_per_million.protect](/_protect/Dimension/Dim~Ratio/Parts_per_million.protect.md) 
+
+### #is_/same_as :: [Parts_per_million.private](/_private/Dimension/Dim~Ratio/Parts_per_million.private.md) 
+
+### #is_/same_as :: [Parts_per_million.personal](/_personal/Dimension/Dim~Ratio/Parts_per_million.personal.md) 
+
+### #is_/same_as :: [Parts_per_million.secret](/_secret/Dimension/Dim~Ratio/Parts_per_million.secret.md)
+

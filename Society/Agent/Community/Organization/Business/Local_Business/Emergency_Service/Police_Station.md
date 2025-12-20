@@ -39,17 +39,17 @@ A police station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Police_Station](Police_Station.md) 
+### #is_/same_as :: [Police_Station](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.md) 
 
-### #is_/same_as :: [Police_Station.public](/_public/Society/Organization/Local_Business/Emergency_Service/Police_Station.public.md) 
+### #is_/same_as :: [Police_Station.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.public.md) 
 
-### #is_/same_as :: [Police_Station.internal](/_internal/Society/Organization/Local_Business/Emergency_Service/Police_Station.internal.md) 
+### #is_/same_as :: [Police_Station.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.internal.md) 
 
-### #is_/same_as :: [Police_Station.protect](/_protect/Society/Organization/Local_Business/Emergency_Service/Police_Station.protect.md) 
+### #is_/same_as :: [Police_Station.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.protect.md) 
 
-### #is_/same_as :: [Police_Station.private](/_private/Society/Organization/Local_Business/Emergency_Service/Police_Station.private.md) 
+### #is_/same_as :: [Police_Station.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.private.md) 
 
-### #is_/same_as :: [Police_Station.personal](/_personal/Society/Organization/Local_Business/Emergency_Service/Police_Station.personal.md) 
+### #is_/same_as :: [Police_Station.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.personal.md) 
 
-### #is_/same_as :: [Police_Station.secret](/_secret/Society/Organization/Local_Business/Emergency_Service/Police_Station.secret.md)
+### #is_/same_as :: [Police_Station.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.secret.md)
 

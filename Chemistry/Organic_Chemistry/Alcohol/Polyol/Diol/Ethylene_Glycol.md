@@ -24,3 +24,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethylene%20glycol) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ethylene_Glycol](/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.md) 
+
+### #is_/same_as :: [Ethylene_Glycol.public](/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.public.md) 
+
+### #is_/same_as :: [Ethylene_Glycol.internal](/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.internal.md) 
+
+### #is_/same_as :: [Ethylene_Glycol.protect](/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.protect.md) 
+
+### #is_/same_as :: [Ethylene_Glycol.private](/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.private.md) 
+
+### #is_/same_as :: [Ethylene_Glycol.personal](/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.personal.md) 
+
+### #is_/same_as :: [Ethylene_Glycol.secret](/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.secret.md)
+

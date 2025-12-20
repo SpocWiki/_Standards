@@ -208,17 +208,17 @@ OpenStreetMap_key: language:pl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-pl](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.md) 
+### #is_/same_as :: [Lang-pol](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pol.md) 
 
-### #is_/same_as :: [Lang-pl.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.public.md) 
+### #is_/same_as :: [Lang-pol.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pol.public.md) 
 
-### #is_/same_as :: [Lang-pl.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.internal.md) 
+### #is_/same_as :: [Lang-pol.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pol.internal.md) 
 
-### #is_/same_as :: [Lang-pl.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.protect.md) 
+### #is_/same_as :: [Lang-pol.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pol.protect.md) 
 
-### #is_/same_as :: [Lang-pl.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.private.md) 
+### #is_/same_as :: [Lang-pol.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pol.private.md) 
 
-### #is_/same_as :: [Lang-pl.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.personal.md) 
+### #is_/same_as :: [Lang-pol.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pol.personal.md) 
 
-### #is_/same_as :: [Lang-pl.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.secret.md)
+### #is_/same_as :: [Lang-pol.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pol.secret.md)
 

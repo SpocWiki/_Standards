@@ -40,3 +40,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bacillati) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bacillati](/_Standards/bio/bio~Domain/Bacteria/Bacillati.md) 
+
+### #is_/same_as :: [Bacillati.public](/_public/bio/bio~Domain/Bacteria/Bacillati.public.md) 
+
+### #is_/same_as :: [Bacillati.internal](/_internal/bio/bio~Domain/Bacteria/Bacillati.internal.md) 
+
+### #is_/same_as :: [Bacillati.protect](/_protect/bio/bio~Domain/Bacteria/Bacillati.protect.md) 
+
+### #is_/same_as :: [Bacillati.private](/_private/bio/bio~Domain/Bacteria/Bacillati.private.md) 
+
+### #is_/same_as :: [Bacillati.personal](/_personal/bio/bio~Domain/Bacteria/Bacillati.personal.md) 
+
+### #is_/same_as :: [Bacillati.secret](/_secret/bio/bio~Domain/Bacteria/Bacillati.secret.md)
+

@@ -82,3 +82,22 @@ Commons_category: Induction (mathematics)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mathematical%20induction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Induction_Proof](/_Standards/Mathematics/Proof(Math)/Induction_Proof.md) 
+
+### #is_/same_as :: [Induction_Proof.public](/_public/Mathematics/Proof(Math)/Induction_Proof.public.md) 
+
+### #is_/same_as :: [Induction_Proof.internal](/_internal/Mathematics/Proof(Math)/Induction_Proof.internal.md) 
+
+### #is_/same_as :: [Induction_Proof.protect](/_protect/Mathematics/Proof(Math)/Induction_Proof.protect.md) 
+
+### #is_/same_as :: [Induction_Proof.private](/_private/Mathematics/Proof(Math)/Induction_Proof.private.md) 
+
+### #is_/same_as :: [Induction_Proof.personal](/_personal/Mathematics/Proof(Math)/Induction_Proof.personal.md) 
+
+### #is_/same_as :: [Induction_Proof.secret](/_secret/Mathematics/Proof(Math)/Induction_Proof.secret.md)
+

@@ -98,3 +98,22 @@ ISNI: "0000000116616596"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zoroaster) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zoroaster](/_Standards/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.md) 
+
+### #is_/same_as :: [Zoroaster.public](/_public/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.public.md) 
+
+### #is_/same_as :: [Zoroaster.internal](/_internal/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.internal.md) 
+
+### #is_/same_as :: [Zoroaster.protect](/_protect/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.protect.md) 
+
+### #is_/same_as :: [Zoroaster.private](/_private/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.private.md) 
+
+### #is_/same_as :: [Zoroaster.personal](/_personal/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.personal.md) 
+
+### #is_/same_as :: [Zoroaster.secret](/_secret/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.secret.md)
+

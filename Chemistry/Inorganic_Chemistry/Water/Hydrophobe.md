@@ -43,3 +43,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Super-hydrophobic%20pa
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrophobe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hydrophobe](/_Standards/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.md) 
+
+### #is_/same_as :: [Hydrophobe.public](/_public/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.public.md) 
+
+### #is_/same_as :: [Hydrophobe.internal](/_internal/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.internal.md) 
+
+### #is_/same_as :: [Hydrophobe.protect](/_protect/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.protect.md) 
+
+### #is_/same_as :: [Hydrophobe.private](/_private/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.private.md) 
+
+### #is_/same_as :: [Hydrophobe.personal](/_personal/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.personal.md) 
+
+### #is_/same_as :: [Hydrophobe.secret](/_secret/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.secret.md)
+

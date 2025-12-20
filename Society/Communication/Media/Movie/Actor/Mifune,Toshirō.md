@@ -131,3 +131,22 @@ ISNI: "0000000110201162"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Toshiro%20Mifune) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mifune,Toshirō](/_Standards/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.md) 
+
+### #is_/same_as :: [Mifune,Toshirō.public](/_public/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.public.md) 
+
+### #is_/same_as :: [Mifune,Toshirō.internal](/_internal/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.internal.md) 
+
+### #is_/same_as :: [Mifune,Toshirō.protect](/_protect/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.protect.md) 
+
+### #is_/same_as :: [Mifune,Toshirō.private](/_private/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.private.md) 
+
+### #is_/same_as :: [Mifune,Toshirō.personal](/_personal/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.personal.md) 
+
+### #is_/same_as :: [Mifune,Toshirō.secret](/_secret/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.secret.md)
+

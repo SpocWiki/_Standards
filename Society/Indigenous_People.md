@@ -68,3 +68,22 @@ MeSH_tree_code: M01.270.968
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indigenous%20peoples) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Indigenous_People](/_Standards/Society/Indigenous_People.md) 
+
+### #is_/same_as :: [Indigenous_People.public](/_public/Society/Indigenous_People.public.md) 
+
+### #is_/same_as :: [Indigenous_People.internal](/_internal/Society/Indigenous_People.internal.md) 
+
+### #is_/same_as :: [Indigenous_People.protect](/_protect/Society/Indigenous_People.protect.md) 
+
+### #is_/same_as :: [Indigenous_People.private](/_private/Society/Indigenous_People.private.md) 
+
+### #is_/same_as :: [Indigenous_People.personal](/_personal/Society/Indigenous_People.personal.md) 
+
+### #is_/same_as :: [Indigenous_People.secret](/_secret/Society/Indigenous_People.secret.md)
+

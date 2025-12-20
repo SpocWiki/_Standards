@@ -27,3 +27,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Yann%20LeCun)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [LeCun,Yann](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.md) 
+
+### #is_/same_as :: [LeCun,Yann.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.public.md) 
+
+### #is_/same_as :: [LeCun,Yann.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.internal.md) 
+
+### #is_/same_as :: [LeCun,Yann.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.protect.md) 
+
+### #is_/same_as :: [LeCun,Yann.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.private.md) 
+
+### #is_/same_as :: [LeCun,Yann.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.personal.md) 
+
+### #is_/same_as :: [LeCun,Yann.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.secret.md)
+

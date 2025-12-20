@@ -66,3 +66,21 @@ MeSH_tree_code:
 > When a sauce is used to flavor a salad, it is generally called a dressing; most salad dressings are based on either a mixture of oil and vinegar or a creamy dairy base.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Salad)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Salad](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Salad.md) 
+
+### #is_/same_as :: [Salad.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Salad.public.md) 
+
+### #is_/same_as :: [Salad.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Salad.internal.md) 
+
+### #is_/same_as :: [Salad.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Salad.protect.md) 
+
+### #is_/same_as :: [Salad.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Salad.private.md) 
+
+### #is_/same_as :: [Salad.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Salad.personal.md) 
+
+### #is_/same_as :: [Salad.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Salad.secret.md)
+

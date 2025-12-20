@@ -26,3 +26,22 @@ has_id_wikidata: Q106687
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Unitarianism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unitarianism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.md) 
+
+### #is_/same_as :: [Unitarianism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.public.md) 
+
+### #is_/same_as :: [Unitarianism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.internal.md) 
+
+### #is_/same_as :: [Unitarianism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.protect.md) 
+
+### #is_/same_as :: [Unitarianism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.private.md) 
+
+### #is_/same_as :: [Unitarianism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.personal.md) 
+
+### #is_/same_as :: [Unitarianism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.secret.md)
+

@@ -44,3 +44,22 @@ coordinate_location: Point(0.0 -23.436694444)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tropic%20of%20Capricorn) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tropic_of_Capricorn](/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.md) 
+
+### #is_/same_as :: [Tropic_of_Capricorn.public](/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.public.md) 
+
+### #is_/same_as :: [Tropic_of_Capricorn.internal](/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.internal.md) 
+
+### #is_/same_as :: [Tropic_of_Capricorn.protect](/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.protect.md) 
+
+### #is_/same_as :: [Tropic_of_Capricorn.private](/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.private.md) 
+
+### #is_/same_as :: [Tropic_of_Capricorn.personal](/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.personal.md) 
+
+### #is_/same_as :: [Tropic_of_Capricorn.secret](/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.secret.md)
+

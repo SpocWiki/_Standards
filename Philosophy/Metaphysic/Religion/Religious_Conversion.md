@@ -28,3 +28,22 @@ has_id_wikidata: Q904756
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Religious%20conversion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Religious_Conversion](/_Standards/Philosophy/Metaphysic/Religion/Religious_Conversion.md) 
+
+### #is_/same_as :: [Religious_Conversion.public](/_public/Philosophy/Metaphysic/Religion/Religious_Conversion.public.md) 
+
+### #is_/same_as :: [Religious_Conversion.internal](/_internal/Philosophy/Metaphysic/Religion/Religious_Conversion.internal.md) 
+
+### #is_/same_as :: [Religious_Conversion.protect](/_protect/Philosophy/Metaphysic/Religion/Religious_Conversion.protect.md) 
+
+### #is_/same_as :: [Religious_Conversion.private](/_private/Philosophy/Metaphysic/Religion/Religious_Conversion.private.md) 
+
+### #is_/same_as :: [Religious_Conversion.personal](/_personal/Philosophy/Metaphysic/Religion/Religious_Conversion.personal.md) 
+
+### #is_/same_as :: [Religious_Conversion.secret](/_secret/Philosophy/Metaphysic/Religion/Religious_Conversion.secret.md)
+

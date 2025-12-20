@@ -149,17 +149,17 @@ Wolfram_Language_entity_code: Entity["Concept", "CyrusII::spbg8"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cyrus_the_Great](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Cyrus_the_Great.md) 
+### #is_/same_as :: [Cyrus_the_Great](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.md) 
 
-### #is_/same_as :: [Cyrus_the_Great.public](/_public/Society/Politics/Government/Leader/Ancient_Leaders/Cyrus_the_Great.public.md) 
+### #is_/same_as :: [Cyrus_the_Great.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.public.md) 
 
-### #is_/same_as :: [Cyrus_the_Great.internal](/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Cyrus_the_Great.internal.md) 
+### #is_/same_as :: [Cyrus_the_Great.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.internal.md) 
 
-### #is_/same_as :: [Cyrus_the_Great.protect](/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Cyrus_the_Great.protect.md) 
+### #is_/same_as :: [Cyrus_the_Great.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.protect.md) 
 
-### #is_/same_as :: [Cyrus_the_Great.private](/_private/Society/Politics/Government/Leader/Ancient_Leaders/Cyrus_the_Great.private.md) 
+### #is_/same_as :: [Cyrus_the_Great.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.private.md) 
 
-### #is_/same_as :: [Cyrus_the_Great.personal](/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Cyrus_the_Great.personal.md) 
+### #is_/same_as :: [Cyrus_the_Great.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.personal.md) 
 
-### #is_/same_as :: [Cyrus_the_Great.secret](/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Cyrus_the_Great.secret.md)
+### #is_/same_as :: [Cyrus_the_Great.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.secret.md)
 

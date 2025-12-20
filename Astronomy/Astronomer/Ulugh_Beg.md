@@ -48,3 +48,22 @@ has_id_wikidata: Q486088
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ulugh%20Beg) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ulugh_Beg](/_Standards/Astronomy/Astronomer/Ulugh_Beg.md) 
+
+### #is_/same_as :: [Ulugh_Beg.public](/_public/Astronomy/Astronomer/Ulugh_Beg.public.md) 
+
+### #is_/same_as :: [Ulugh_Beg.internal](/_internal/Astronomy/Astronomer/Ulugh_Beg.internal.md) 
+
+### #is_/same_as :: [Ulugh_Beg.protect](/_protect/Astronomy/Astronomer/Ulugh_Beg.protect.md) 
+
+### #is_/same_as :: [Ulugh_Beg.private](/_private/Astronomy/Astronomer/Ulugh_Beg.private.md) 
+
+### #is_/same_as :: [Ulugh_Beg.personal](/_personal/Astronomy/Astronomer/Ulugh_Beg.personal.md) 
+
+### #is_/same_as :: [Ulugh_Beg.secret](/_secret/Astronomy/Astronomer/Ulugh_Beg.secret.md)
+

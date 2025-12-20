@@ -104,3 +104,22 @@ name_in_native_language:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mikhail%20Baryshnikov) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Baryshnikov,Mikhail](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Baryshnikov,Mikhail.md) 
+
+### #is_/same_as :: [Baryshnikov,Mikhail.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballet/Baryshnikov,Mikhail.public.md) 
+
+### #is_/same_as :: [Baryshnikov,Mikhail.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Baryshnikov,Mikhail.internal.md) 
+
+### #is_/same_as :: [Baryshnikov,Mikhail.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballet/Baryshnikov,Mikhail.protect.md) 
+
+### #is_/same_as :: [Baryshnikov,Mikhail.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballet/Baryshnikov,Mikhail.private.md) 
+
+### #is_/same_as :: [Baryshnikov,Mikhail.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Baryshnikov,Mikhail.personal.md) 
+
+### #is_/same_as :: [Baryshnikov,Mikhail.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballet/Baryshnikov,Mikhail.secret.md)
+

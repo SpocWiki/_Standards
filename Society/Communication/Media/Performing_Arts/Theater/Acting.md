@@ -43,17 +43,17 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q16347481,16347481]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Acting](/_Standards/Society/Communication/Media/Performing_Arts/Theatre/Acting.md) 
+### #is_/same_as :: [Acting](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Acting.md) 
 
-### #is_/same_as :: [Acting.public](/_public/Society/Communication/Media/Performing_Arts/Theatre/Acting.public.md) 
+### #is_/same_as :: [Acting.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Acting.public.md) 
 
-### #is_/same_as :: [Acting.internal](/_internal/Society/Communication/Media/Performing_Arts/Theatre/Acting.internal.md) 
+### #is_/same_as :: [Acting.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Acting.internal.md) 
 
-### #is_/same_as :: [Acting.protect](/_protect/Society/Communication/Media/Performing_Arts/Theatre/Acting.protect.md) 
+### #is_/same_as :: [Acting.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Acting.protect.md) 
 
-### #is_/same_as :: [Acting.private](/_private/Society/Communication/Media/Performing_Arts/Theatre/Acting.private.md) 
+### #is_/same_as :: [Acting.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Acting.private.md) 
 
-### #is_/same_as :: [Acting.personal](/_personal/Society/Communication/Media/Performing_Arts/Theatre/Acting.personal.md) 
+### #is_/same_as :: [Acting.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Acting.personal.md) 
 
-### #is_/same_as :: [Acting.secret](/_secret/Society/Communication/Media/Performing_Arts/Theatre/Acting.secret.md)
+### #is_/same_as :: [Acting.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Acting.secret.md)
 

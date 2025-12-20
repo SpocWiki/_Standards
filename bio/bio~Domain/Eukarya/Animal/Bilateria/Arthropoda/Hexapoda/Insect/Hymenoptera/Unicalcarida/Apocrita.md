@@ -36,3 +36,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Apocrita) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Apocrita](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.md) 
+
+### #is_/same_as :: [Apocrita.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.public.md) 
+
+### #is_/same_as :: [Apocrita.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.internal.md) 
+
+### #is_/same_as :: [Apocrita.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.protect.md) 
+
+### #is_/same_as :: [Apocrita.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.private.md) 
+
+### #is_/same_as :: [Apocrita.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.personal.md) 
+
+### #is_/same_as :: [Apocrita.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.secret.md)
+

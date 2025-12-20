@@ -36,3 +36,22 @@ Commons_category: Lunisolar calendars
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lunisolar%20calendar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lunisolar_Calendar](/_Standards/ISO/Calendar/Lunisolar_Calendar.md) 
+
+### #is_/same_as :: [Lunisolar_Calendar.public](/_public/ISO/Calendar/Lunisolar_Calendar.public.md) 
+
+### #is_/same_as :: [Lunisolar_Calendar.internal](/_internal/ISO/Calendar/Lunisolar_Calendar.internal.md) 
+
+### #is_/same_as :: [Lunisolar_Calendar.protect](/_protect/ISO/Calendar/Lunisolar_Calendar.protect.md) 
+
+### #is_/same_as :: [Lunisolar_Calendar.private](/_private/ISO/Calendar/Lunisolar_Calendar.private.md) 
+
+### #is_/same_as :: [Lunisolar_Calendar.personal](/_personal/ISO/Calendar/Lunisolar_Calendar.personal.md) 
+
+### #is_/same_as :: [Lunisolar_Calendar.secret](/_secret/ISO/Calendar/Lunisolar_Calendar.secret.md)
+

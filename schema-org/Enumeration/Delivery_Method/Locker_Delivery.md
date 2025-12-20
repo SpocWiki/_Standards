@@ -40,17 +40,17 @@ A DeliveryMethod in which an item is made available via locker.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Locker_Delivery](Locker_Delivery.md) 
+### #is_/same_as :: [Locker_Delivery](/_Standards/schema-org/Enumeration/Delivery_Method/Locker_Delivery.md) 
 
-### #is_/same_as :: [locker_delivery.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.public.md) 
+### #is_/same_as :: [Locker_Delivery.public](/_public/schema-org/Enumeration/Delivery_Method/Locker_Delivery.public.md) 
 
-### #is_/same_as :: [locker_delivery.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.internal.md) 
+### #is_/same_as :: [Locker_Delivery.internal](/_internal/schema-org/Enumeration/Delivery_Method/Locker_Delivery.internal.md) 
 
-### #is_/same_as :: [locker_delivery.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.protect.md) 
+### #is_/same_as :: [Locker_Delivery.protect](/_protect/schema-org/Enumeration/Delivery_Method/Locker_Delivery.protect.md) 
 
-### #is_/same_as :: [locker_delivery.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.private.md) 
+### #is_/same_as :: [Locker_Delivery.private](/_private/schema-org/Enumeration/Delivery_Method/Locker_Delivery.private.md) 
 
-### #is_/same_as :: [locker_delivery.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.personal.md) 
+### #is_/same_as :: [Locker_Delivery.personal](/_personal/schema-org/Enumeration/Delivery_Method/Locker_Delivery.personal.md) 
 
-### #is_/same_as :: [locker_delivery.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.secret.md)
+### #is_/same_as :: [Locker_Delivery.secret](/_secret/schema-org/Enumeration/Delivery_Method/Locker_Delivery.secret.md)
 

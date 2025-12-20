@@ -41,17 +41,17 @@ The act of conveying information to another person via a communication medium (i
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [communicate_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action.md) 
+### #is_/same_as :: [Communicate_Action](/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.md) 
 
-### #is_/same_as :: [communicate_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action.public.md) 
+### #is_/same_as :: [Communicate_Action.public](/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.public.md) 
 
-### #is_/same_as :: [communicate_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action.internal.md) 
+### #is_/same_as :: [Communicate_Action.internal](/_internal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.internal.md) 
 
-### #is_/same_as :: [communicate_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action.protect.md) 
+### #is_/same_as :: [Communicate_Action.protect](/_protect/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.protect.md) 
 
-### #is_/same_as :: [communicate_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action.private.md) 
+### #is_/same_as :: [Communicate_Action.private](/_private/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.private.md) 
 
-### #is_/same_as :: [communicate_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action.personal.md) 
+### #is_/same_as :: [Communicate_Action.personal](/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.personal.md) 
 
-### #is_/same_as :: [communicate_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action.secret.md)
+### #is_/same_as :: [Communicate_Action.secret](/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.secret.md)
 

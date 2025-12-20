@@ -54,3 +54,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Formation%20of%20a%20L
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fighter_Aircraft](/_Standards/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.md) 
+
+### #is_/same_as :: [Fighter_Aircraft.public](/_public/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.public.md) 
+
+### #is_/same_as :: [Fighter_Aircraft.internal](/_internal/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.internal.md) 
+
+### #is_/same_as :: [Fighter_Aircraft.protect](/_protect/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.protect.md) 
+
+### #is_/same_as :: [Fighter_Aircraft.private](/_private/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.private.md) 
+
+### #is_/same_as :: [Fighter_Aircraft.personal](/_personal/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.personal.md) 
+
+### #is_/same_as :: [Fighter_Aircraft.secret](/_secret/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.secret.md)
+

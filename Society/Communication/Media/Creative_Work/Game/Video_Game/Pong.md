@@ -46,3 +46,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Signed%20Pong%20Cabine
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pong) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pong](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Pong.md) 
+
+### #is_/same_as :: [Pong.public](/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Pong.public.md) 
+
+### #is_/same_as :: [Pong.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Pong.internal.md) 
+
+### #is_/same_as :: [Pong.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Pong.protect.md) 
+
+### #is_/same_as :: [Pong.private](/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Pong.private.md) 
+
+### #is_/same_as :: [Pong.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Pong.personal.md) 
+
+### #is_/same_as :: [Pong.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Pong.secret.md)
+

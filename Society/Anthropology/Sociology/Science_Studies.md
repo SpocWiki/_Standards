@@ -30,3 +30,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bibliometrics%20defini
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Science%20studies) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Science_Studies](/_Standards/Society/Anthropology/Sociology/Science_Studies.md) 
+
+### #is_/same_as :: [Science_Studies.public](/_public/Society/Anthropology/Sociology/Science_Studies.public.md) 
+
+### #is_/same_as :: [Science_Studies.internal](/_internal/Society/Anthropology/Sociology/Science_Studies.internal.md) 
+
+### #is_/same_as :: [Science_Studies.protect](/_protect/Society/Anthropology/Sociology/Science_Studies.protect.md) 
+
+### #is_/same_as :: [Science_Studies.private](/_private/Society/Anthropology/Sociology/Science_Studies.private.md) 
+
+### #is_/same_as :: [Science_Studies.personal](/_personal/Society/Anthropology/Sociology/Science_Studies.personal.md) 
+
+### #is_/same_as :: [Science_Studies.secret](/_secret/Society/Anthropology/Sociology/Science_Studies.secret.md)
+

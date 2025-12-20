@@ -78,17 +78,17 @@ Unicode_character: 🧱
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brick](Brick.md) 
+### #is_/same_as :: [Brick](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.md) 
 
-### #is_/same_as :: [Brick.public](/_public/Technology/Construction/Building/House/Brick.public.md) 
+### #is_/same_as :: [Brick.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.public.md) 
 
-### #is_/same_as :: [Brick.internal](/_internal/Technology/Construction/Building/House/Brick.internal.md) 
+### #is_/same_as :: [Brick.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.internal.md) 
 
-### #is_/same_as :: [Brick.protect](/_protect/Technology/Construction/Building/House/Brick.protect.md) 
+### #is_/same_as :: [Brick.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.protect.md) 
 
-### #is_/same_as :: [Brick.private](/_private/Technology/Construction/Building/House/Brick.private.md) 
+### #is_/same_as :: [Brick.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.private.md) 
 
-### #is_/same_as :: [Brick.personal](/_personal/Technology/Construction/Building/House/Brick.personal.md) 
+### #is_/same_as :: [Brick.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.personal.md) 
 
-### #is_/same_as :: [Brick.secret](/_secret/Technology/Construction/Building/House/Brick.secret.md)
+### #is_/same_as :: [Brick.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.secret.md)
 

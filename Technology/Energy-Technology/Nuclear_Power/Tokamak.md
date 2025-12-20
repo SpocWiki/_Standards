@@ -76,3 +76,22 @@ Commons_category: Tokamaks
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tokamak) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tokamak](/_Standards/Technology/Energy-Technology/Nuclear_Power/Tokamak.md) 
+
+### #is_/same_as :: [Tokamak.public](/_public/Technology/Energy-Technology/Nuclear_Power/Tokamak.public.md) 
+
+### #is_/same_as :: [Tokamak.internal](/_internal/Technology/Energy-Technology/Nuclear_Power/Tokamak.internal.md) 
+
+### #is_/same_as :: [Tokamak.protect](/_protect/Technology/Energy-Technology/Nuclear_Power/Tokamak.protect.md) 
+
+### #is_/same_as :: [Tokamak.private](/_private/Technology/Energy-Technology/Nuclear_Power/Tokamak.private.md) 
+
+### #is_/same_as :: [Tokamak.personal](/_personal/Technology/Energy-Technology/Nuclear_Power/Tokamak.personal.md) 
+
+### #is_/same_as :: [Tokamak.secret](/_secret/Technology/Energy-Technology/Nuclear_Power/Tokamak.secret.md)
+

@@ -42,3 +42,22 @@ inception: 1908-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Expressionist%20music) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Expressionist_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.md) 
+
+### #is_/same_as :: [Expressionist_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.public.md) 
+
+### #is_/same_as :: [Expressionist_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.internal.md) 
+
+### #is_/same_as :: [Expressionist_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.protect.md) 
+
+### #is_/same_as :: [Expressionist_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.private.md) 
+
+### #is_/same_as :: [Expressionist_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.personal.md) 
+
+### #is_/same_as :: [Expressionist_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.secret.md)
+

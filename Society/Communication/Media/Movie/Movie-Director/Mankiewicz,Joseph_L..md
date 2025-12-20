@@ -86,3 +86,22 @@ date_of_birth: 1909-02-11T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20L.%20Mankiewicz) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mankiewicz,Joseph_L.](/_Standards/Society/Communication/Media/Movie/Movie-Director/Mankiewicz,Joseph_L..md) 
+
+### #is_/same_as :: [Mankiewicz,Joseph_L..public](/_public/Society/Communication/Media/Movie/Movie-Director/Mankiewicz,Joseph_L..public.md) 
+
+### #is_/same_as :: [Mankiewicz,Joseph_L..internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Mankiewicz,Joseph_L..internal.md) 
+
+### #is_/same_as :: [Mankiewicz,Joseph_L..protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Mankiewicz,Joseph_L..protect.md) 
+
+### #is_/same_as :: [Mankiewicz,Joseph_L..private](/_private/Society/Communication/Media/Movie/Movie-Director/Mankiewicz,Joseph_L..private.md) 
+
+### #is_/same_as :: [Mankiewicz,Joseph_L..personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Mankiewicz,Joseph_L..personal.md) 
+
+### #is_/same_as :: [Mankiewicz,Joseph_L..secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Mankiewicz,Joseph_L..secret.md)
+

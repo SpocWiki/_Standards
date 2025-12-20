@@ -134,22 +134,3 @@ type: private_note
 
 ### #is_/same_as :: [Opera.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.secret.md)
 
-
-# [[Opera]] 
-
-#is_/part_of :: [[Opera]] 
-
-![[Opera.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Opera.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

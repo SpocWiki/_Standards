@@ -22,3 +22,22 @@ Commons_category: Social philosophy
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20philosophy) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Philosophy](/_Standards/Philosophy/Social_Philosophy.md) 
+
+### #is_/same_as :: [Social_Philosophy.public](/_public/Philosophy/Social_Philosophy.public.md) 
+
+### #is_/same_as :: [Social_Philosophy.internal](/_internal/Philosophy/Social_Philosophy.internal.md) 
+
+### #is_/same_as :: [Social_Philosophy.protect](/_protect/Philosophy/Social_Philosophy.protect.md) 
+
+### #is_/same_as :: [Social_Philosophy.private](/_private/Philosophy/Social_Philosophy.private.md) 
+
+### #is_/same_as :: [Social_Philosophy.personal](/_personal/Philosophy/Social_Philosophy.personal.md) 
+
+### #is_/same_as :: [Social_Philosophy.secret](/_secret/Philosophy/Social_Philosophy.secret.md)
+

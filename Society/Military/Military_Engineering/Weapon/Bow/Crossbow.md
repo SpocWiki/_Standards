@@ -61,3 +61,22 @@ Commons_category: Crossbows
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Crossbow) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Crossbow](/_Standards/Society/Military/Military_Engineering/Weapon/Bow/Crossbow.md) 
+
+### #is_/same_as :: [Crossbow.public](/_public/Society/Military/Military_Engineering/Weapon/Bow/Crossbow.public.md) 
+
+### #is_/same_as :: [Crossbow.internal](/_internal/Society/Military/Military_Engineering/Weapon/Bow/Crossbow.internal.md) 
+
+### #is_/same_as :: [Crossbow.protect](/_protect/Society/Military/Military_Engineering/Weapon/Bow/Crossbow.protect.md) 
+
+### #is_/same_as :: [Crossbow.private](/_private/Society/Military/Military_Engineering/Weapon/Bow/Crossbow.private.md) 
+
+### #is_/same_as :: [Crossbow.personal](/_personal/Society/Military/Military_Engineering/Weapon/Bow/Crossbow.personal.md) 
+
+### #is_/same_as :: [Crossbow.secret](/_secret/Society/Military/Military_Engineering/Weapon/Bow/Crossbow.secret.md)
+

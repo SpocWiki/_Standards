@@ -42,3 +42,22 @@ subclass_of:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Microbial%20cyst) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Microbial_Cyst](/_Standards/bio/bio~Domain/Bacteria/Microbial_Cyst.md) 
+
+### #is_/same_as :: [Microbial_Cyst.public](/_public/bio/bio~Domain/Bacteria/Microbial_Cyst.public.md) 
+
+### #is_/same_as :: [Microbial_Cyst.internal](/_internal/bio/bio~Domain/Bacteria/Microbial_Cyst.internal.md) 
+
+### #is_/same_as :: [Microbial_Cyst.protect](/_protect/bio/bio~Domain/Bacteria/Microbial_Cyst.protect.md) 
+
+### #is_/same_as :: [Microbial_Cyst.private](/_private/bio/bio~Domain/Bacteria/Microbial_Cyst.private.md) 
+
+### #is_/same_as :: [Microbial_Cyst.personal](/_personal/bio/bio~Domain/Bacteria/Microbial_Cyst.personal.md) 
+
+### #is_/same_as :: [Microbial_Cyst.secret](/_secret/bio/bio~Domain/Bacteria/Microbial_Cyst.secret.md)
+

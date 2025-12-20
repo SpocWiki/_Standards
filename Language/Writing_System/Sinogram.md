@@ -26,3 +26,22 @@
 > At the most basic level, characters are composed of strokes that are written in a fixed order. Historically, methods of writing characters have included inscribing stone, bone, or bronze; brushing ink onto silk, bamboo, or paper; and printing with woodblocks or moveable type. Technologies invented since the 19th century to facilitate the use of characters include telegraph codes and typewriters, as well as input methods and text encodings on computers.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chinese%20characters)
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sinogram](/_Standards/Language/Writing_System/Sinogram.md) 
+
+### #is_/same_as :: [Sinogram.public](/_public/Language/Writing_System/Sinogram.public.md) 
+
+### #is_/same_as :: [Sinogram.internal](/_internal/Language/Writing_System/Sinogram.internal.md) 
+
+### #is_/same_as :: [Sinogram.protect](/_protect/Language/Writing_System/Sinogram.protect.md) 
+
+### #is_/same_as :: [Sinogram.private](/_private/Language/Writing_System/Sinogram.private.md) 
+
+### #is_/same_as :: [Sinogram.personal](/_personal/Language/Writing_System/Sinogram.personal.md) 
+
+### #is_/same_as :: [Sinogram.secret](/_secret/Language/Writing_System/Sinogram.secret.md)
+

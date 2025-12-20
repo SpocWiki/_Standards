@@ -34,3 +34,22 @@ has_id_wikidata: Q1402
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Giovanni%20Boccaccio) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Boccaccio,Giovanni](/_Standards/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Boccaccio,Giovanni.md) 
+
+### #is_/same_as :: [Boccaccio,Giovanni.public](/_public/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Boccaccio,Giovanni.public.md) 
+
+### #is_/same_as :: [Boccaccio,Giovanni.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Boccaccio,Giovanni.internal.md) 
+
+### #is_/same_as :: [Boccaccio,Giovanni.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Boccaccio,Giovanni.protect.md) 
+
+### #is_/same_as :: [Boccaccio,Giovanni.private](/_private/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Boccaccio,Giovanni.private.md) 
+
+### #is_/same_as :: [Boccaccio,Giovanni.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Boccaccio,Giovanni.personal.md) 
+
+### #is_/same_as :: [Boccaccio,Giovanni.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Boccaccio,Giovanni.secret.md)
+

@@ -79,3 +79,22 @@ subreddit: knives
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Knife) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Knife](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.md) 
+
+### #is_/same_as :: [Knife.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.public.md) 
+
+### #is_/same_as :: [Knife.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.internal.md) 
+
+### #is_/same_as :: [Knife.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.protect.md) 
+
+### #is_/same_as :: [Knife.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.private.md) 
+
+### #is_/same_as :: [Knife.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.personal.md) 
+
+### #is_/same_as :: [Knife.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.secret.md)
+

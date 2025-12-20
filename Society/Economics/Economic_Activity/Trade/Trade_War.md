@@ -26,3 +26,22 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Handels
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trade%20war) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trade_War](/_Standards/Society/Economics/Economic_Activity/Trade/Trade_War.md) 
+
+### #is_/same_as :: [Trade_War.public](/_public/Society/Economics/Economic_Activity/Trade/Trade_War.public.md) 
+
+### #is_/same_as :: [Trade_War.internal](/_internal/Society/Economics/Economic_Activity/Trade/Trade_War.internal.md) 
+
+### #is_/same_as :: [Trade_War.protect](/_protect/Society/Economics/Economic_Activity/Trade/Trade_War.protect.md) 
+
+### #is_/same_as :: [Trade_War.private](/_private/Society/Economics/Economic_Activity/Trade/Trade_War.private.md) 
+
+### #is_/same_as :: [Trade_War.personal](/_personal/Society/Economics/Economic_Activity/Trade/Trade_War.personal.md) 
+
+### #is_/same_as :: [Trade_War.secret](/_secret/Society/Economics/Economic_Activity/Trade/Trade_War.secret.md)
+

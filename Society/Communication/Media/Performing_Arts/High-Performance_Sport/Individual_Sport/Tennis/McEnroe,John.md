@@ -291,17 +291,17 @@ has_id_wikidata: Q16474
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [McEnroe,John](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.md) 
+### #is_/same_as :: [McEnroe,John](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/McEnroe,John.md) 
 
-### #is_/same_as :: [McEnroe,John.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.public.md) 
+### #is_/same_as :: [McEnroe,John.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/McEnroe,John.public.md) 
 
-### #is_/same_as :: [McEnroe,John.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.internal.md) 
+### #is_/same_as :: [McEnroe,John.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/McEnroe,John.internal.md) 
 
-### #is_/same_as :: [McEnroe,John.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.protect.md) 
+### #is_/same_as :: [McEnroe,John.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/McEnroe,John.protect.md) 
 
-### #is_/same_as :: [McEnroe,John.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.private.md) 
+### #is_/same_as :: [McEnroe,John.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/McEnroe,John.private.md) 
 
-### #is_/same_as :: [McEnroe,John.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.personal.md) 
+### #is_/same_as :: [McEnroe,John.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/McEnroe,John.personal.md) 
 
-### #is_/same_as :: [McEnroe,John.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.secret.md)
+### #is_/same_as :: [McEnroe,John.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/McEnroe,John.secret.md)
 

@@ -41,17 +41,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [rental_car_reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation/rental_car_reservation.md) 
+### #is_/same_as :: [Rental_Car_Reservation](/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation.md) 
 
-### #is_/same_as :: [rental_car_reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation/rental_car_reservation.public.md) 
+### #is_/same_as :: [Rental_Car_Reservation.public](/_public/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation.public.md) 
 
-### #is_/same_as :: [rental_car_reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation/rental_car_reservation.internal.md) 
+### #is_/same_as :: [Rental_Car_Reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation.internal.md) 
 
-### #is_/same_as :: [rental_car_reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/reservation/rental_car_reservation.protect.md) 
+### #is_/same_as :: [Rental_Car_Reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation.protect.md) 
 
-### #is_/same_as :: [rental_car_reservation.private](/_private/schema-org/Class/is_a_/Intangible/reservation/rental_car_reservation.private.md) 
+### #is_/same_as :: [Rental_Car_Reservation.private](/_private/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation.private.md) 
 
-### #is_/same_as :: [rental_car_reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation/rental_car_reservation.personal.md) 
+### #is_/same_as :: [Rental_Car_Reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation.personal.md) 
 
-### #is_/same_as :: [rental_car_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/rental_car_reservation.secret.md)
+### #is_/same_as :: [Rental_Car_Reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation.secret.md)
 

@@ -48,3 +48,22 @@ Wolfram_Language_entity_type: MinorPlanet
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Minor%20planet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Minor_Planet](/_Standards/Astronomy/Planet/Minor_Planet.md) 
+
+### #is_/same_as :: [Minor_Planet.public](/_public/Astronomy/Planet/Minor_Planet.public.md) 
+
+### #is_/same_as :: [Minor_Planet.internal](/_internal/Astronomy/Planet/Minor_Planet.internal.md) 
+
+### #is_/same_as :: [Minor_Planet.protect](/_protect/Astronomy/Planet/Minor_Planet.protect.md) 
+
+### #is_/same_as :: [Minor_Planet.private](/_private/Astronomy/Planet/Minor_Planet.private.md) 
+
+### #is_/same_as :: [Minor_Planet.personal](/_personal/Astronomy/Planet/Minor_Planet.personal.md) 
+
+### #is_/same_as :: [Minor_Planet.secret](/_secret/Astronomy/Planet/Minor_Planet.secret.md)
+

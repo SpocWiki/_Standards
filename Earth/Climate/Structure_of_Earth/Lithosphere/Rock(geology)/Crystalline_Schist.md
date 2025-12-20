@@ -38,3 +38,22 @@ Commons_category: Schist
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Crystalline_Schist](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.md) 
+
+### #is_/same_as :: [Crystalline_Schist.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.public.md) 
+
+### #is_/same_as :: [Crystalline_Schist.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.internal.md) 
+
+### #is_/same_as :: [Crystalline_Schist.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.protect.md) 
+
+### #is_/same_as :: [Crystalline_Schist.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.private.md) 
+
+### #is_/same_as :: [Crystalline_Schist.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.personal.md) 
+
+### #is_/same_as :: [Crystalline_Schist.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.secret.md)
+

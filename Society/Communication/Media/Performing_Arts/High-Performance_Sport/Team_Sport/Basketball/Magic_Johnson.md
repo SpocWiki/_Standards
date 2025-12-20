@@ -28,3 +28,22 @@ has_id_wikidata: Q134183
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magic%20Johnson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Magic_Johnson](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.md) 
+
+### #is_/same_as :: [Magic_Johnson.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.public.md) 
+
+### #is_/same_as :: [Magic_Johnson.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.internal.md) 
+
+### #is_/same_as :: [Magic_Johnson.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.protect.md) 
+
+### #is_/same_as :: [Magic_Johnson.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.private.md) 
+
+### #is_/same_as :: [Magic_Johnson.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.personal.md) 
+
+### #is_/same_as :: [Magic_Johnson.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.secret.md)
+

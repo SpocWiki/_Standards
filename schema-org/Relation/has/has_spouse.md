@@ -39,6 +39,7 @@ Relation describes that:
 
 This Relation is symmetric, and mostly a Function. 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [has_spouse](/_Standards/schema-org/Relation/has/has_spouse.md) 

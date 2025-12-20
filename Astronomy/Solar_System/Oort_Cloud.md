@@ -59,3 +59,22 @@ Commons_category: Oort cloud
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oort%20cloud) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oort_Cloud](/_Standards/Astronomy/Solar_System/Oort_Cloud.md) 
+
+### #is_/same_as :: [Oort_Cloud.public](/_public/Astronomy/Solar_System/Oort_Cloud.public.md) 
+
+### #is_/same_as :: [Oort_Cloud.internal](/_internal/Astronomy/Solar_System/Oort_Cloud.internal.md) 
+
+### #is_/same_as :: [Oort_Cloud.protect](/_protect/Astronomy/Solar_System/Oort_Cloud.protect.md) 
+
+### #is_/same_as :: [Oort_Cloud.private](/_private/Astronomy/Solar_System/Oort_Cloud.private.md) 
+
+### #is_/same_as :: [Oort_Cloud.personal](/_personal/Astronomy/Solar_System/Oort_Cloud.personal.md) 
+
+### #is_/same_as :: [Oort_Cloud.secret](/_secret/Astronomy/Solar_System/Oort_Cloud.secret.md)
+

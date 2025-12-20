@@ -60,3 +60,22 @@ OpenStreetMap_tag: clothing=swimwear
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Swimsuit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Swimsuit](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.md) 
+
+### #is_/same_as :: [Swimsuit.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.public.md) 
+
+### #is_/same_as :: [Swimsuit.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.internal.md) 
+
+### #is_/same_as :: [Swimsuit.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.protect.md) 
+
+### #is_/same_as :: [Swimsuit.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.private.md) 
+
+### #is_/same_as :: [Swimsuit.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.personal.md) 
+
+### #is_/same_as :: [Swimsuit.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.secret.md)
+

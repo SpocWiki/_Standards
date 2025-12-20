@@ -91,3 +91,22 @@ chemical_formula:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sulfate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sulfate](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.md) 
+
+### #is_/same_as :: [Sulfate.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.public.md) 
+
+### #is_/same_as :: [Sulfate.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.internal.md) 
+
+### #is_/same_as :: [Sulfate.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.protect.md) 
+
+### #is_/same_as :: [Sulfate.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.private.md) 
+
+### #is_/same_as :: [Sulfate.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.personal.md) 
+
+### #is_/same_as :: [Sulfate.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.secret.md)
+

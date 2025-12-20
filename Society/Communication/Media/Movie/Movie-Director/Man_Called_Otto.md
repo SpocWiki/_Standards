@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Man_Called_Otto](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Man_Called_Otto.md) 
+### #is_/same_as :: [Man_Called_Otto](/_Standards/Society/Communication/Media/Movie/Movie-Director/Man_Called_Otto.md) 
 
-### #is_/same_as :: [Man_Called_Otto.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Man_Called_Otto.public.md) 
+### #is_/same_as :: [Man_Called_Otto.public](/_public/Society/Communication/Media/Movie/Movie-Director/Man_Called_Otto.public.md) 
 
-### #is_/same_as :: [Man_Called_Otto.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Man_Called_Otto.internal.md) 
+### #is_/same_as :: [Man_Called_Otto.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Man_Called_Otto.internal.md) 
 
-### #is_/same_as :: [Man_Called_Otto.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Man_Called_Otto.protect.md) 
+### #is_/same_as :: [Man_Called_Otto.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Man_Called_Otto.protect.md) 
 
-### #is_/same_as :: [Man_Called_Otto.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Man_Called_Otto.private.md) 
+### #is_/same_as :: [Man_Called_Otto.private](/_private/Society/Communication/Media/Movie/Movie-Director/Man_Called_Otto.private.md) 
 
-### #is_/same_as :: [Man_Called_Otto.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Man_Called_Otto.personal.md) 
+### #is_/same_as :: [Man_Called_Otto.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Man_Called_Otto.personal.md) 
 
-### #is_/same_as :: [Man_Called_Otto.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Man_Called_Otto.secret.md)
+### #is_/same_as :: [Man_Called_Otto.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Man_Called_Otto.secret.md)
 

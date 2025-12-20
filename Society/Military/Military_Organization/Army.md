@@ -47,17 +47,17 @@ OpenStreetMap_tag_or_key: Tag:military_service=army
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Army](/_Standards/Society/Military/Army.md) 
+### #is_/same_as :: [Army](/_Standards/Society/Military/Military_Organization/Army.md) 
 
-### #is_/same_as :: [Army.public](/_public/Society/Military/Army.public.md) 
+### #is_/same_as :: [Army.public](/_public/Society/Military/Military_Organization/Army.public.md) 
 
-### #is_/same_as :: [Army.internal](/_internal/Society/Military/Army.internal.md) 
+### #is_/same_as :: [Army.internal](/_internal/Society/Military/Military_Organization/Army.internal.md) 
 
-### #is_/same_as :: [Army.protect](/_protect/Society/Military/Army.protect.md) 
+### #is_/same_as :: [Army.protect](/_protect/Society/Military/Military_Organization/Army.protect.md) 
 
-### #is_/same_as :: [Army.private](/_private/Society/Military/Army.private.md) 
+### #is_/same_as :: [Army.private](/_private/Society/Military/Military_Organization/Army.private.md) 
 
-### #is_/same_as :: [Army.personal](/_personal/Society/Military/Army.personal.md) 
+### #is_/same_as :: [Army.personal](/_personal/Society/Military/Military_Organization/Army.personal.md) 
 
-### #is_/same_as :: [Army.secret](/_secret/Society/Military/Army.secret.md)
+### #is_/same_as :: [Army.secret](/_secret/Society/Military/Military_Organization/Army.secret.md)
 

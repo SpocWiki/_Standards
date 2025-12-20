@@ -52,3 +52,22 @@ Commons_category: Spectrometers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spectrometer)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spectrometer](/_Standards/Technology/Tool/Instrumentation/Spectrometer.md) 
+
+### #is_/same_as :: [Spectrometer.public](/_public/Technology/Tool/Instrumentation/Spectrometer.public.md) 
+
+### #is_/same_as :: [Spectrometer.internal](/_internal/Technology/Tool/Instrumentation/Spectrometer.internal.md) 
+
+### #is_/same_as :: [Spectrometer.protect](/_protect/Technology/Tool/Instrumentation/Spectrometer.protect.md) 
+
+### #is_/same_as :: [Spectrometer.private](/_private/Technology/Tool/Instrumentation/Spectrometer.private.md) 
+
+### #is_/same_as :: [Spectrometer.personal](/_personal/Technology/Tool/Instrumentation/Spectrometer.personal.md) 
+
+### #is_/same_as :: [Spectrometer.secret](/_secret/Technology/Tool/Instrumentation/Spectrometer.secret.md)
+

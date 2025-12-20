@@ -15,3 +15,22 @@ has_id_wikidata: Q190172
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cymbal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cymbal](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.md) 
+
+### #is_/same_as :: [Cymbal.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.public.md) 
+
+### #is_/same_as :: [Cymbal.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.internal.md) 
+
+### #is_/same_as :: [Cymbal.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.protect.md) 
+
+### #is_/same_as :: [Cymbal.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.private.md) 
+
+### #is_/same_as :: [Cymbal.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.personal.md) 
+
+### #is_/same_as :: [Cymbal.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.secret.md)
+

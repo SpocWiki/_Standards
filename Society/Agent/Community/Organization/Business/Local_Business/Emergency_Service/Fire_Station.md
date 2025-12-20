@@ -39,17 +39,17 @@ A fire station. With firemen.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fire_Station](Fire_Station.md) 
+### #is_/same_as :: [Fire_Station](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.md) 
 
-### #is_/same_as :: [Fire_Station.public](/_public/Society/Organization/Local_Business/Emergency_Service/Fire_Station.public.md) 
+### #is_/same_as :: [Fire_Station.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.public.md) 
 
-### #is_/same_as :: [Fire_Station.internal](/_internal/Society/Organization/Local_Business/Emergency_Service/Fire_Station.internal.md) 
+### #is_/same_as :: [Fire_Station.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.internal.md) 
 
-### #is_/same_as :: [Fire_Station.protect](/_protect/Society/Organization/Local_Business/Emergency_Service/Fire_Station.protect.md) 
+### #is_/same_as :: [Fire_Station.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.protect.md) 
 
-### #is_/same_as :: [Fire_Station.private](/_private/Society/Organization/Local_Business/Emergency_Service/Fire_Station.private.md) 
+### #is_/same_as :: [Fire_Station.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.private.md) 
 
-### #is_/same_as :: [Fire_Station.personal](/_personal/Society/Organization/Local_Business/Emergency_Service/Fire_Station.personal.md) 
+### #is_/same_as :: [Fire_Station.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.personal.md) 
 
-### #is_/same_as :: [Fire_Station.secret](/_secret/Society/Organization/Local_Business/Emergency_Service/Fire_Station.secret.md)
+### #is_/same_as :: [Fire_Station.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.secret.md)
 

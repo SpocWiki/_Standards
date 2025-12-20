@@ -24,3 +24,22 @@ has_id_wikidata: Q191675
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mixed%20economy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mixed_Economy](/_Standards/Society/Economics/Economy/Mixed_Economy.md) 
+
+### #is_/same_as :: [Mixed_Economy.public](/_public/Society/Economics/Economy/Mixed_Economy.public.md) 
+
+### #is_/same_as :: [Mixed_Economy.internal](/_internal/Society/Economics/Economy/Mixed_Economy.internal.md) 
+
+### #is_/same_as :: [Mixed_Economy.protect](/_protect/Society/Economics/Economy/Mixed_Economy.protect.md) 
+
+### #is_/same_as :: [Mixed_Economy.private](/_private/Society/Economics/Economy/Mixed_Economy.private.md) 
+
+### #is_/same_as :: [Mixed_Economy.personal](/_personal/Society/Economics/Economy/Mixed_Economy.personal.md) 
+
+### #is_/same_as :: [Mixed_Economy.secret](/_secret/Society/Economics/Economy/Mixed_Economy.secret.md)
+

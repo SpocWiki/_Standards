@@ -51,3 +51,22 @@ and ensure that the detective story was a solvable puzzle for the reader.
 Knox's rules were influential in shaping the detective fiction genre, 
 promoting a standard that many authors adhered to during the Golden Age. 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ten_Commandments(detective_stories)](/_Standards/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).md) 
+
+### #is_/same_as :: [Ten_Commandments(detective_stories).public](/_public/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).public.md) 
+
+### #is_/same_as :: [Ten_Commandments(detective_stories).internal](/_internal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).internal.md) 
+
+### #is_/same_as :: [Ten_Commandments(detective_stories).protect](/_protect/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).protect.md) 
+
+### #is_/same_as :: [Ten_Commandments(detective_stories).private](/_private/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).private.md) 
+
+### #is_/same_as :: [Ten_Commandments(detective_stories).personal](/_personal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).personal.md) 
+
+### #is_/same_as :: [Ten_Commandments(detective_stories).secret](/_secret/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).secret.md)
+

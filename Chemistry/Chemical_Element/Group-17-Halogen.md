@@ -92,17 +92,17 @@ Commons_category: Halogens
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-17-Halogene](/_Standards/Chemistry/Chemical_Element/Group-17-Halogene.md) 
+### #is_/same_as :: [Group-17-Halogen](/_Standards/Chemistry/Chemical_Element/Group-17-Halogen.md) 
 
-### #is_/same_as :: [Group-17-Halogene.public](/_public/Chemistry/Chemical_Element/Group-17-Halogene.public.md) 
+### #is_/same_as :: [Group-17-Halogen.public](/_public/Chemistry/Chemical_Element/Group-17-Halogen.public.md) 
 
-### #is_/same_as :: [Group-17-Halogene.internal](/_internal/Chemistry/Chemical_Element/Group-17-Halogene.internal.md) 
+### #is_/same_as :: [Group-17-Halogen.internal](/_internal/Chemistry/Chemical_Element/Group-17-Halogen.internal.md) 
 
-### #is_/same_as :: [Group-17-Halogene.protect](/_protect/Chemistry/Chemical_Element/Group-17-Halogene.protect.md) 
+### #is_/same_as :: [Group-17-Halogen.protect](/_protect/Chemistry/Chemical_Element/Group-17-Halogen.protect.md) 
 
-### #is_/same_as :: [Group-17-Halogene.private](/_private/Chemistry/Chemical_Element/Group-17-Halogene.private.md) 
+### #is_/same_as :: [Group-17-Halogen.private](/_private/Chemistry/Chemical_Element/Group-17-Halogen.private.md) 
 
-### #is_/same_as :: [Group-17-Halogene.personal](/_personal/Chemistry/Chemical_Element/Group-17-Halogene.personal.md) 
+### #is_/same_as :: [Group-17-Halogen.personal](/_personal/Chemistry/Chemical_Element/Group-17-Halogen.personal.md) 
 
-### #is_/same_as :: [Group-17-Halogene.secret](/_secret/Chemistry/Chemical_Element/Group-17-Halogene.secret.md)
+### #is_/same_as :: [Group-17-Halogen.secret](/_secret/Chemistry/Chemical_Element/Group-17-Halogen.secret.md)
 

@@ -56,17 +56,17 @@ subclass_of: "[[_Standards/WikiData/WD~electronic_component,11653]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Resistor](/_Standards/Technology/Electronics/Electronic_Component/Resistor.md) 
+### #is_/same_as :: [Resistor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.md) 
 
-### #is_/same_as :: [Resistor.public](/_public/Technology/Electronics/Electronic_Component/Resistor.public.md) 
+### #is_/same_as :: [Resistor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.public.md) 
 
-### #is_/same_as :: [Resistor.internal](/_internal/Technology/Electronics/Electronic_Component/Resistor.internal.md) 
+### #is_/same_as :: [Resistor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.internal.md) 
 
-### #is_/same_as :: [Resistor.protect](/_protect/Technology/Electronics/Electronic_Component/Resistor.protect.md) 
+### #is_/same_as :: [Resistor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.protect.md) 
 
-### #is_/same_as :: [Resistor.private](/_private/Technology/Electronics/Electronic_Component/Resistor.private.md) 
+### #is_/same_as :: [Resistor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.private.md) 
 
-### #is_/same_as :: [Resistor.personal](/_personal/Technology/Electronics/Electronic_Component/Resistor.personal.md) 
+### #is_/same_as :: [Resistor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.personal.md) 
 
-### #is_/same_as :: [Resistor.secret](/_secret/Technology/Electronics/Electronic_Component/Resistor.secret.md)
+### #is_/same_as :: [Resistor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.secret.md)
 

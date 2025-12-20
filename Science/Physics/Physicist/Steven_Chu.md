@@ -146,3 +146,22 @@ CYT_CCS: AC000004889
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Steven%20Chu) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Steven_Chu](/_Standards/Science/Physics/Physicist/Steven_Chu.md) 
+
+### #is_/same_as :: [Steven_Chu.public](/_public/Science/Physics/Physicist/Steven_Chu.public.md) 
+
+### #is_/same_as :: [Steven_Chu.internal](/_internal/Science/Physics/Physicist/Steven_Chu.internal.md) 
+
+### #is_/same_as :: [Steven_Chu.protect](/_protect/Science/Physics/Physicist/Steven_Chu.protect.md) 
+
+### #is_/same_as :: [Steven_Chu.private](/_private/Science/Physics/Physicist/Steven_Chu.private.md) 
+
+### #is_/same_as :: [Steven_Chu.personal](/_personal/Science/Physics/Physicist/Steven_Chu.personal.md) 
+
+### #is_/same_as :: [Steven_Chu.secret](/_secret/Science/Physics/Physicist/Steven_Chu.secret.md)
+

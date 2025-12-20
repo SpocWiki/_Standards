@@ -78,3 +78,22 @@ Munzinger_Sport_number: "01000000915"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gerd%20M%C3%BCller) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Müller,Gerd](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.md) 
+
+### #is_/same_as :: [Müller,Gerd.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.public.md) 
+
+### #is_/same_as :: [Müller,Gerd.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.internal.md) 
+
+### #is_/same_as :: [Müller,Gerd.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.protect.md) 
+
+### #is_/same_as :: [Müller,Gerd.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.private.md) 
+
+### #is_/same_as :: [Müller,Gerd.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.personal.md) 
+
+### #is_/same_as :: [Müller,Gerd.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.secret.md)
+

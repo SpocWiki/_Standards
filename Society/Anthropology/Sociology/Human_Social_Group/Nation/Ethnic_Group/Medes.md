@@ -37,3 +37,22 @@ inception: -0677-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Medes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Medes](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.md) 
+
+### #is_/same_as :: [Medes.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.public.md) 
+
+### #is_/same_as :: [Medes.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.internal.md) 
+
+### #is_/same_as :: [Medes.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.protect.md) 
+
+### #is_/same_as :: [Medes.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.private.md) 
+
+### #is_/same_as :: [Medes.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.personal.md) 
+
+### #is_/same_as :: [Medes.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.secret.md)
+

@@ -114,3 +114,22 @@ date_of_death: 2011-01-30T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Barry%20(composer)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Barry,John(composer)](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).md) 
+
+### #is_/same_as :: [Barry,John(composer).public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).public.md) 
+
+### #is_/same_as :: [Barry,John(composer).internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).internal.md) 
+
+### #is_/same_as :: [Barry,John(composer).protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).protect.md) 
+
+### #is_/same_as :: [Barry,John(composer).private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).private.md) 
+
+### #is_/same_as :: [Barry,John(composer).personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).personal.md) 
+
+### #is_/same_as :: [Barry,John(composer).secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).secret.md)
+

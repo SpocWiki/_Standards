@@ -149,3 +149,22 @@ Provenio_UUID: faee69fa-5eb4-4493-a253-d630f0e5c620
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ivan%20Turgenev) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Turgenev,Ivan](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Turgenev,Ivan.md) 
+
+### #is_/same_as :: [Turgenev,Ivan.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Turgenev,Ivan.public.md) 
+
+### #is_/same_as :: [Turgenev,Ivan.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Turgenev,Ivan.internal.md) 
+
+### #is_/same_as :: [Turgenev,Ivan.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Turgenev,Ivan.protect.md) 
+
+### #is_/same_as :: [Turgenev,Ivan.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Turgenev,Ivan.private.md) 
+
+### #is_/same_as :: [Turgenev,Ivan.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Turgenev,Ivan.personal.md) 
+
+### #is_/same_as :: [Turgenev,Ivan.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Turgenev,Ivan.secret.md)
+

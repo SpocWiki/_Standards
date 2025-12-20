@@ -37,3 +37,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2025%20K%C5%82odzko%2C
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orphanage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orphanage](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital/Orphanage.md) 
+
+### #is_/same_as :: [Orphanage.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital/Orphanage.public.md) 
+
+### #is_/same_as :: [Orphanage.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital/Orphanage.internal.md) 
+
+### #is_/same_as :: [Orphanage.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital/Orphanage.protect.md) 
+
+### #is_/same_as :: [Orphanage.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital/Orphanage.private.md) 
+
+### #is_/same_as :: [Orphanage.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital/Orphanage.personal.md) 
+
+### #is_/same_as :: [Orphanage.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital/Orphanage.secret.md)
+

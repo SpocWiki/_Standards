@@ -53,3 +53,22 @@ subreddit: Monitors
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20monitor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Computer_Monitor](/_Standards/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.md) 
+
+### #is_/same_as :: [Computer_Monitor.public](/_public/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.public.md) 
+
+### #is_/same_as :: [Computer_Monitor.internal](/_internal/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.internal.md) 
+
+### #is_/same_as :: [Computer_Monitor.protect](/_protect/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.protect.md) 
+
+### #is_/same_as :: [Computer_Monitor.private](/_private/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.private.md) 
+
+### #is_/same_as :: [Computer_Monitor.personal](/_personal/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.personal.md) 
+
+### #is_/same_as :: [Computer_Monitor.secret](/_secret/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.secret.md)
+

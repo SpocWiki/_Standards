@@ -53,17 +53,17 @@ Universal_Decimal_Classification: 546
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inorganic_Chemistry](Inorganic_Chemistry.md) 
+### #is_/same_as :: [Inorganic_Chemistry](/_Standards/Chemistry/Inorganic_Chemistry.md) 
 
-### #is_/same_as :: [inOrganic.public](/_public/Chemistry/inOrganic.public.md) 
+### #is_/same_as :: [Inorganic_Chemistry.public](/_public/Chemistry/Inorganic_Chemistry.public.md) 
 
-### #is_/same_as :: [inOrganic.internal](/_internal/Chemistry/inOrganic.internal.md) 
+### #is_/same_as :: [Inorganic_Chemistry.internal](/_internal/Chemistry/Inorganic_Chemistry.internal.md) 
 
-### #is_/same_as :: [inOrganic.protect](/_protect/Chemistry/inOrganic.protect.md) 
+### #is_/same_as :: [Inorganic_Chemistry.protect](/_protect/Chemistry/Inorganic_Chemistry.protect.md) 
 
-### #is_/same_as :: [inOrganic.private](/_private/Chemistry/inOrganic.private.md) 
+### #is_/same_as :: [Inorganic_Chemistry.private](/_private/Chemistry/Inorganic_Chemistry.private.md) 
 
-### #is_/same_as :: [inOrganic.personal](/_personal/Chemistry/inOrganic.personal.md) 
+### #is_/same_as :: [Inorganic_Chemistry.personal](/_personal/Chemistry/Inorganic_Chemistry.personal.md) 
 
-### #is_/same_as :: [inOrganic.secret](/_secret/Chemistry/inOrganic.secret.md)
+### #is_/same_as :: [Inorganic_Chemistry.secret](/_secret/Chemistry/Inorganic_Chemistry.secret.md)
 

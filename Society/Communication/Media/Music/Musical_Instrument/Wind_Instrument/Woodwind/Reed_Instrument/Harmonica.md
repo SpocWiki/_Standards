@@ -79,3 +79,22 @@ Baidu_Tieba_name: 口琴
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Harmonica) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Harmonica](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.md) 
+
+### #is_/same_as :: [Harmonica.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.public.md) 
+
+### #is_/same_as :: [Harmonica.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.internal.md) 
+
+### #is_/same_as :: [Harmonica.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.protect.md) 
+
+### #is_/same_as :: [Harmonica.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.private.md) 
+
+### #is_/same_as :: [Harmonica.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.personal.md) 
+
+### #is_/same_as :: [Harmonica.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.secret.md)
+

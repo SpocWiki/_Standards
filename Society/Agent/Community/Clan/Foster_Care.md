@@ -53,3 +53,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Foster%20care) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Foster_Care](/_Standards/Society/Agent/Community/Clan/Foster_Care.md) 
+
+### #is_/same_as :: [Foster_Care.public](/_public/Society/Agent/Community/Clan/Foster_Care.public.md) 
+
+### #is_/same_as :: [Foster_Care.internal](/_internal/Society/Agent/Community/Clan/Foster_Care.internal.md) 
+
+### #is_/same_as :: [Foster_Care.protect](/_protect/Society/Agent/Community/Clan/Foster_Care.protect.md) 
+
+### #is_/same_as :: [Foster_Care.private](/_private/Society/Agent/Community/Clan/Foster_Care.private.md) 
+
+### #is_/same_as :: [Foster_Care.personal](/_personal/Society/Agent/Community/Clan/Foster_Care.personal.md) 
+
+### #is_/same_as :: [Foster_Care.secret](/_secret/Society/Agent/Community/Clan/Foster_Care.secret.md)
+

@@ -40,17 +40,17 @@ A branch of medicine that is involved in the dental care.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [dentistry](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.md) 
+### #is_/same_as :: [Dentistry](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.md) 
 
-### #is_/same_as :: [dentistry.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.public.md) 
+### #is_/same_as :: [Dentistry.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.public.md) 
 
-### #is_/same_as :: [dentistry.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.internal.md) 
+### #is_/same_as :: [Dentistry.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.internal.md) 
 
-### #is_/same_as :: [dentistry.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.protect.md) 
+### #is_/same_as :: [Dentistry.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.protect.md) 
 
-### #is_/same_as :: [dentistry.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.private.md) 
+### #is_/same_as :: [Dentistry.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.private.md) 
 
-### #is_/same_as :: [dentistry.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.personal.md) 
+### #is_/same_as :: [Dentistry.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.personal.md) 
 
-### #is_/same_as :: [dentistry.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.secret.md)
+### #is_/same_as :: [Dentistry.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Dentistry.secret.md)
 

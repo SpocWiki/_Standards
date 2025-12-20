@@ -45,3 +45,22 @@ Commons_category: Woodwind instruments
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Woodwind%20instrument) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Woodwind](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind.md) 
+
+### #is_/same_as :: [Woodwind.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind.public.md) 
+
+### #is_/same_as :: [Woodwind.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind.internal.md) 
+
+### #is_/same_as :: [Woodwind.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind.protect.md) 
+
+### #is_/same_as :: [Woodwind.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind.private.md) 
+
+### #is_/same_as :: [Woodwind.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind.personal.md) 
+
+### #is_/same_as :: [Woodwind.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind.secret.md)
+

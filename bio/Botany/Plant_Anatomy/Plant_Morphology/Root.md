@@ -16,3 +16,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Root) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Root](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.md) 
+
+### #is_/same_as :: [Root.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.public.md) 
+
+### #is_/same_as :: [Root.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.internal.md) 
+
+### #is_/same_as :: [Root.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.protect.md) 
+
+### #is_/same_as :: [Root.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.private.md) 
+
+### #is_/same_as :: [Root.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.personal.md) 
+
+### #is_/same_as :: [Root.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.secret.md)
+

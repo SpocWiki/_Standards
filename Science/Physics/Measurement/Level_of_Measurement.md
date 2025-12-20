@@ -75,3 +75,22 @@ Measurements bound to a range and repeating (like degrees in a circle, clock tim
 10. Absolute
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Level_of_Measurement](/_Standards/Science/Physics/Measurement/Level_of_Measurement.md) 
+
+### #is_/same_as :: [Level_of_Measurement.public](/_public/Science/Physics/Measurement/Level_of_Measurement.public.md) 
+
+### #is_/same_as :: [Level_of_Measurement.internal](/_internal/Science/Physics/Measurement/Level_of_Measurement.internal.md) 
+
+### #is_/same_as :: [Level_of_Measurement.protect](/_protect/Science/Physics/Measurement/Level_of_Measurement.protect.md) 
+
+### #is_/same_as :: [Level_of_Measurement.private](/_private/Science/Physics/Measurement/Level_of_Measurement.private.md) 
+
+### #is_/same_as :: [Level_of_Measurement.personal](/_personal/Science/Physics/Measurement/Level_of_Measurement.personal.md) 
+
+### #is_/same_as :: [Level_of_Measurement.secret](/_secret/Science/Physics/Measurement/Level_of_Measurement.secret.md)
+

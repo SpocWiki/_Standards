@@ -57,3 +57,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dutch%20East%20India%20Company) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dutch_East_India_Company](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.md) 
+
+### #is_/same_as :: [Dutch_East_India_Company.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.public.md) 
+
+### #is_/same_as :: [Dutch_East_India_Company.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.internal.md) 
+
+### #is_/same_as :: [Dutch_East_India_Company.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.protect.md) 
+
+### #is_/same_as :: [Dutch_East_India_Company.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.private.md) 
+
+### #is_/same_as :: [Dutch_East_India_Company.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.personal.md) 
+
+### #is_/same_as :: [Dutch_East_India_Company.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.secret.md)
+

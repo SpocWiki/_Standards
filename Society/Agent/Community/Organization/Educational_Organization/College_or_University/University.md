@@ -103,3 +103,22 @@ OpenStreetMap_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/University) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [University](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University.md) 
+
+### #is_/same_as :: [University.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University.public.md) 
+
+### #is_/same_as :: [University.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University.internal.md) 
+
+### #is_/same_as :: [University.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University.protect.md) 
+
+### #is_/same_as :: [University.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University.private.md) 
+
+### #is_/same_as :: [University.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University.personal.md) 
+
+### #is_/same_as :: [University.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University.secret.md)
+

@@ -113,3 +113,22 @@ Modern Variants are  CLOS and [[Prog~LISP/Prog~Clojure]]
 type: folder_brief_live
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~LISP](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP.md) 
+
+### #is_/same_as :: [Prog~LISP.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP.public.md) 
+
+### #is_/same_as :: [Prog~LISP.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP.internal.md) 
+
+### #is_/same_as :: [Prog~LISP.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP.protect.md) 
+
+### #is_/same_as :: [Prog~LISP.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP.private.md) 
+
+### #is_/same_as :: [Prog~LISP.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP.personal.md) 
+
+### #is_/same_as :: [Prog~LISP.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP.secret.md)
+

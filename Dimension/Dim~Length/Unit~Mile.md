@@ -84,3 +84,22 @@ Wikidata_SPARQL_query_equivalent: wd:Q253276 p:P2370/psn:P2370 [wikibase:quantit
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mile) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~Mile](/_Standards/Dimension/Dim~Length/Unit~Mile.md) 
+
+### #is_/same_as :: [Unit~Mile.public](/_public/Dimension/Dim~Length/Unit~Mile.public.md) 
+
+### #is_/same_as :: [Unit~Mile.internal](/_internal/Dimension/Dim~Length/Unit~Mile.internal.md) 
+
+### #is_/same_as :: [Unit~Mile.protect](/_protect/Dimension/Dim~Length/Unit~Mile.protect.md) 
+
+### #is_/same_as :: [Unit~Mile.private](/_private/Dimension/Dim~Length/Unit~Mile.private.md) 
+
+### #is_/same_as :: [Unit~Mile.personal](/_personal/Dimension/Dim~Length/Unit~Mile.personal.md) 
+
+### #is_/same_as :: [Unit~Mile.secret](/_secret/Dimension/Dim~Length/Unit~Mile.secret.md)
+

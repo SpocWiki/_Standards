@@ -35,3 +35,22 @@ has_id_wikidata: Q3122864
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Big_Tech](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.md) 
+
+### #is_/same_as :: [Big_Tech.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.public.md) 
+
+### #is_/same_as :: [Big_Tech.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.internal.md) 
+
+### #is_/same_as :: [Big_Tech.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.protect.md) 
+
+### #is_/same_as :: [Big_Tech.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.private.md) 
+
+### #is_/same_as :: [Big_Tech.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.personal.md) 
+
+### #is_/same_as :: [Big_Tech.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.secret.md)
+

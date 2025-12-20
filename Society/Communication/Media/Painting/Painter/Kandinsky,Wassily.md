@@ -293,3 +293,22 @@ Europeana_entity: agent/base/60316
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wassily%20Kandinsky) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kandinsky,Wassily](/_Standards/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.md) 
+
+### #is_/same_as :: [Kandinsky,Wassily.public](/_public/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.public.md) 
+
+### #is_/same_as :: [Kandinsky,Wassily.internal](/_internal/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.internal.md) 
+
+### #is_/same_as :: [Kandinsky,Wassily.protect](/_protect/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.protect.md) 
+
+### #is_/same_as :: [Kandinsky,Wassily.private](/_private/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.private.md) 
+
+### #is_/same_as :: [Kandinsky,Wassily.personal](/_personal/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.personal.md) 
+
+### #is_/same_as :: [Kandinsky,Wassily.secret](/_secret/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.secret.md)
+

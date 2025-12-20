@@ -16,3 +16,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tropical%20forest) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tropical_Forest](/_Standards/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.md) 
+
+### #is_/same_as :: [Tropical_Forest.public](/_public/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.public.md) 
+
+### #is_/same_as :: [Tropical_Forest.internal](/_internal/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.internal.md) 
+
+### #is_/same_as :: [Tropical_Forest.protect](/_protect/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.protect.md) 
+
+### #is_/same_as :: [Tropical_Forest.private](/_private/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.private.md) 
+
+### #is_/same_as :: [Tropical_Forest.personal](/_personal/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.personal.md) 
+
+### #is_/same_as :: [Tropical_Forest.secret](/_secret/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.secret.md)
+

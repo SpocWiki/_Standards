@@ -75,3 +75,22 @@ short_name: LWL
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Optical%20fiber) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Optical_Fiber](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.md) 
+
+### #is_/same_as :: [Optical_Fiber.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.public.md) 
+
+### #is_/same_as :: [Optical_Fiber.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.internal.md) 
+
+### #is_/same_as :: [Optical_Fiber.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.protect.md) 
+
+### #is_/same_as :: [Optical_Fiber.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.private.md) 
+
+### #is_/same_as :: [Optical_Fiber.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.personal.md) 
+
+### #is_/same_as :: [Optical_Fiber.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.secret.md)
+

@@ -43,3 +43,22 @@ has_id_wikidata: Q2440857
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Exotic_Hadron](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.md) 
+
+### #is_/same_as :: [Exotic_Hadron.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.public.md) 
+
+### #is_/same_as :: [Exotic_Hadron.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.internal.md) 
+
+### #is_/same_as :: [Exotic_Hadron.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.protect.md) 
+
+### #is_/same_as :: [Exotic_Hadron.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.private.md) 
+
+### #is_/same_as :: [Exotic_Hadron.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.personal.md) 
+
+### #is_/same_as :: [Exotic_Hadron.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.secret.md)
+

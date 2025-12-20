@@ -42,17 +42,17 @@ has_id_wikidata: Q12807
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eco,Umberto](/_Standards/Society/Communication/Media/Writing/Book/Author/Eco,Umberto.md) 
+### #is_/same_as :: [Eco,Umberto](/_Standards/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.md) 
 
-### #is_/same_as :: [Eco,Umberto.public](/_public/Society/Communication/Media/Writing/Book/Author/Eco,Umberto.public.md) 
+### #is_/same_as :: [Eco,Umberto.public](/_public/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.public.md) 
 
-### #is_/same_as :: [Eco,Umberto.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Eco,Umberto.internal.md) 
+### #is_/same_as :: [Eco,Umberto.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.internal.md) 
 
-### #is_/same_as :: [Eco,Umberto.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Eco,Umberto.protect.md) 
+### #is_/same_as :: [Eco,Umberto.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.protect.md) 
 
-### #is_/same_as :: [Eco,Umberto.private](/_private/Society/Communication/Media/Writing/Book/Author/Eco,Umberto.private.md) 
+### #is_/same_as :: [Eco,Umberto.private](/_private/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.private.md) 
 
-### #is_/same_as :: [Eco,Umberto.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Eco,Umberto.personal.md) 
+### #is_/same_as :: [Eco,Umberto.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.personal.md) 
 
-### #is_/same_as :: [Eco,Umberto.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Eco,Umberto.secret.md)
+### #is_/same_as :: [Eco,Umberto.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto.secret.md)
 

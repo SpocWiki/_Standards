@@ -143,3 +143,22 @@ Royal_Academy_new_identifier: jacob-berzelius
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/J%C3%B6ns%20Jacob%20Berzelius) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Berzelius,Jöns_Jacob](/_Standards/Chemistry/Chemist/Berzelius,Jöns_Jacob.md) 
+
+### #is_/same_as :: [Berzelius,Jöns_Jacob.public](/_public/Chemistry/Chemist/Berzelius,Jöns_Jacob.public.md) 
+
+### #is_/same_as :: [Berzelius,Jöns_Jacob.internal](/_internal/Chemistry/Chemist/Berzelius,Jöns_Jacob.internal.md) 
+
+### #is_/same_as :: [Berzelius,Jöns_Jacob.protect](/_protect/Chemistry/Chemist/Berzelius,Jöns_Jacob.protect.md) 
+
+### #is_/same_as :: [Berzelius,Jöns_Jacob.private](/_private/Chemistry/Chemist/Berzelius,Jöns_Jacob.private.md) 
+
+### #is_/same_as :: [Berzelius,Jöns_Jacob.personal](/_personal/Chemistry/Chemist/Berzelius,Jöns_Jacob.personal.md) 
+
+### #is_/same_as :: [Berzelius,Jöns_Jacob.secret](/_secret/Chemistry/Chemist/Berzelius,Jöns_Jacob.secret.md)
+

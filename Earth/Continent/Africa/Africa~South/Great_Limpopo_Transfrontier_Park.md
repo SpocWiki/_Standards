@@ -30,3 +30,22 @@ Commons_category: Great Limpopo Transfrontier Park
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Limpopo%20Transfrontier%20Park) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Great_Limpopo_Transfrontier_Park](/_Standards/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.md) 
+
+### #is_/same_as :: [Great_Limpopo_Transfrontier_Park.public](/_public/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.public.md) 
+
+### #is_/same_as :: [Great_Limpopo_Transfrontier_Park.internal](/_internal/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.internal.md) 
+
+### #is_/same_as :: [Great_Limpopo_Transfrontier_Park.protect](/_protect/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.protect.md) 
+
+### #is_/same_as :: [Great_Limpopo_Transfrontier_Park.private](/_private/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.private.md) 
+
+### #is_/same_as :: [Great_Limpopo_Transfrontier_Park.personal](/_personal/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.personal.md) 
+
+### #is_/same_as :: [Great_Limpopo_Transfrontier_Park.secret](/_secret/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.secret.md)
+

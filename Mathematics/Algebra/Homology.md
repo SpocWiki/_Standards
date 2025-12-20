@@ -35,3 +35,22 @@ Commons_category: Homology
 > [Wikipedia](https://en.wikipedia.org/wiki/Homology%20(mathematics)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Homology](/_Standards/Mathematics/Algebra/Homology.md) 
+
+### #is_/same_as :: [Homology.public](/_public/Mathematics/Algebra/Homology.public.md) 
+
+### #is_/same_as :: [Homology.internal](/_internal/Mathematics/Algebra/Homology.internal.md) 
+
+### #is_/same_as :: [Homology.protect](/_protect/Mathematics/Algebra/Homology.protect.md) 
+
+### #is_/same_as :: [Homology.private](/_private/Mathematics/Algebra/Homology.private.md) 
+
+### #is_/same_as :: [Homology.personal](/_personal/Mathematics/Algebra/Homology.personal.md) 
+
+### #is_/same_as :: [Homology.secret](/_secret/Mathematics/Algebra/Homology.secret.md)
+

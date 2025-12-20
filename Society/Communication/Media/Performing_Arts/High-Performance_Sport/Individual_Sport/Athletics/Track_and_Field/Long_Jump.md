@@ -40,3 +40,22 @@ OpenStreetMap_tag: sport=long_jump
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Long%20jump) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Long_Jump](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Long_Jump.md) 
+
+### #is_/same_as :: [Long_Jump.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Long_Jump.public.md) 
+
+### #is_/same_as :: [Long_Jump.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Long_Jump.internal.md) 
+
+### #is_/same_as :: [Long_Jump.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Long_Jump.protect.md) 
+
+### #is_/same_as :: [Long_Jump.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Long_Jump.private.md) 
+
+### #is_/same_as :: [Long_Jump.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Long_Jump.personal.md) 
+
+### #is_/same_as :: [Long_Jump.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Long_Jump.secret.md)
+

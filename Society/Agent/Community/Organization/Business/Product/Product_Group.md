@@ -43,17 +43,17 @@ While a ProductGroup itself is not directly offered for sale, the various varyin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Product_Group](Product_Group.md) 
+### #is_/same_as :: [Product_Group](/_Standards/Society/Agent/Community/Organization/Business/Product/Product_Group.md) 
 
-### #is_/same_as :: [product_group.public](/_public/schema-org/Class/is_a_/product/product_group.public.md) 
+### #is_/same_as :: [Product_Group.public](/_public/Society/Agent/Community/Organization/Business/Product/Product_Group.public.md) 
 
-### #is_/same_as :: [product_group.internal](/_internal/schema-org/Class/is_a_/product/product_group.internal.md) 
+### #is_/same_as :: [Product_Group.internal](/_internal/Society/Agent/Community/Organization/Business/Product/Product_Group.internal.md) 
 
-### #is_/same_as :: [product_group.protect](/_protect/schema-org/Class/is_a_/product/product_group.protect.md) 
+### #is_/same_as :: [Product_Group.protect](/_protect/Society/Agent/Community/Organization/Business/Product/Product_Group.protect.md) 
 
-### #is_/same_as :: [product_group.private](/_private/schema-org/Class/is_a_/product/product_group.private.md) 
+### #is_/same_as :: [Product_Group.private](/_private/Society/Agent/Community/Organization/Business/Product/Product_Group.private.md) 
 
-### #is_/same_as :: [product_group.personal](/_personal/schema-org/Class/is_a_/product/product_group.personal.md) 
+### #is_/same_as :: [Product_Group.personal](/_personal/Society/Agent/Community/Organization/Business/Product/Product_Group.personal.md) 
 
-### #is_/same_as :: [product_group.secret](/_secret/schema-org/Class/is_a_/product/product_group.secret.md)
+### #is_/same_as :: [Product_Group.secret](/_secret/Society/Agent/Community/Organization/Business/Product/Product_Group.secret.md)
 

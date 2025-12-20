@@ -43,3 +43,22 @@ IMDb_keyword: armor
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Armour) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Armor](/_Standards/Society/Military/Military_Engineering/Defense/Armor.md) 
+
+### #is_/same_as :: [Armor.public](/_public/Society/Military/Military_Engineering/Defense/Armor.public.md) 
+
+### #is_/same_as :: [Armor.internal](/_internal/Society/Military/Military_Engineering/Defense/Armor.internal.md) 
+
+### #is_/same_as :: [Armor.protect](/_protect/Society/Military/Military_Engineering/Defense/Armor.protect.md) 
+
+### #is_/same_as :: [Armor.private](/_private/Society/Military/Military_Engineering/Defense/Armor.private.md) 
+
+### #is_/same_as :: [Armor.personal](/_personal/Society/Military/Military_Engineering/Defense/Armor.personal.md) 
+
+### #is_/same_as :: [Armor.secret](/_secret/Society/Military/Military_Engineering/Defense/Armor.secret.md)
+

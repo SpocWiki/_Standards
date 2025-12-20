@@ -142,3 +142,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/VONNEGUT_KURT.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kurt%20Vonnegut) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vonnegut,Kurt](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.md) 
+
+### #is_/same_as :: [Vonnegut,Kurt.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.public.md) 
+
+### #is_/same_as :: [Vonnegut,Kurt.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.internal.md) 
+
+### #is_/same_as :: [Vonnegut,Kurt.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.protect.md) 
+
+### #is_/same_as :: [Vonnegut,Kurt.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.private.md) 
+
+### #is_/same_as :: [Vonnegut,Kurt.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.personal.md) 
+
+### #is_/same_as :: [Vonnegut,Kurt.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.secret.md)
+

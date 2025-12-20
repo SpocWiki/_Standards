@@ -213,7 +213,7 @@ pelagic cephalopods from Hawaiian waters. Fish. Bull., 76: 583-615.
   View              Dorsal and ventral
   Size              241 mm ML
   Copyright ::         © 2004 Richard E. Young
-  ------------
+  ------------
 
 
 ## Confidential Links & Embeds: 

@@ -31,3 +31,22 @@ time_of_discovery_or_invention: 1995-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Disruptive%20innovation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Disruptive_Innovation](/_Standards/Technology/Innovation/Disruptive_Innovation.md) 
+
+### #is_/same_as :: [Disruptive_Innovation.public](/_public/Technology/Innovation/Disruptive_Innovation.public.md) 
+
+### #is_/same_as :: [Disruptive_Innovation.internal](/_internal/Technology/Innovation/Disruptive_Innovation.internal.md) 
+
+### #is_/same_as :: [Disruptive_Innovation.protect](/_protect/Technology/Innovation/Disruptive_Innovation.protect.md) 
+
+### #is_/same_as :: [Disruptive_Innovation.private](/_private/Technology/Innovation/Disruptive_Innovation.private.md) 
+
+### #is_/same_as :: [Disruptive_Innovation.personal](/_personal/Technology/Innovation/Disruptive_Innovation.personal.md) 
+
+### #is_/same_as :: [Disruptive_Innovation.secret](/_secret/Technology/Innovation/Disruptive_Innovation.secret.md)
+

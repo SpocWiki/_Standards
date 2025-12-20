@@ -64,3 +64,22 @@ SPLASH:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nitrate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nitrate_Ion](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.md) 
+
+### #is_/same_as :: [Nitrate_Ion.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.public.md) 
+
+### #is_/same_as :: [Nitrate_Ion.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.internal.md) 
+
+### #is_/same_as :: [Nitrate_Ion.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.protect.md) 
+
+### #is_/same_as :: [Nitrate_Ion.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.private.md) 
+
+### #is_/same_as :: [Nitrate_Ion.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.personal.md) 
+
+### #is_/same_as :: [Nitrate_Ion.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.secret.md)
+

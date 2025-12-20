@@ -121,3 +121,22 @@ ISNI: "0000000121428944"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ignatius%20of%20Loyola) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ignatius_of_Loyola](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.md) 
+
+### #is_/same_as :: [Ignatius_of_Loyola.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.public.md) 
+
+### #is_/same_as :: [Ignatius_of_Loyola.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.internal.md) 
+
+### #is_/same_as :: [Ignatius_of_Loyola.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.protect.md) 
+
+### #is_/same_as :: [Ignatius_of_Loyola.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.private.md) 
+
+### #is_/same_as :: [Ignatius_of_Loyola.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.personal.md) 
+
+### #is_/same_as :: [Ignatius_of_Loyola.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.secret.md)
+

@@ -64,3 +64,22 @@ Dewey_Decimal_Classification: "532.0533"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Viscosity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Viscosity](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.md) 
+
+### #is_/same_as :: [Viscosity.public](/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.public.md) 
+
+### #is_/same_as :: [Viscosity.internal](/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.internal.md) 
+
+### #is_/same_as :: [Viscosity.protect](/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.protect.md) 
+
+### #is_/same_as :: [Viscosity.private](/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.private.md) 
+
+### #is_/same_as :: [Viscosity.personal](/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.personal.md) 
+
+### #is_/same_as :: [Viscosity.secret](/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.secret.md)
+

@@ -101,16 +101,17 @@ start_time: 0793-06
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [0793-Vikings](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Vikings.md) 
+### #is_/same_as :: [Viking](/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.md) 
 
-### #is_/same_as :: [0793-Vikings.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Vikings.public.md) 
+### #is_/same_as :: [Viking.public](/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.public.md) 
 
-### #is_/same_as :: [0793-Vikings.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Vikings.internal.md) 
+### #is_/same_as :: [Viking.internal](/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.internal.md) 
 
-### #is_/same_as :: [0793-Vikings.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Vikings.protect.md) 
+### #is_/same_as :: [Viking.protect](/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.protect.md) 
 
-### #is_/same_as :: [0793-Vikings.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Vikings.private.md) 
+### #is_/same_as :: [Viking.private](/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.private.md) 
 
-### #is_/same_as :: [0793-Vikings.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Vikings.personal.md) 
+### #is_/same_as :: [Viking.personal](/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.personal.md) 
 
-### #is_/same_as :: [0793-Vikings.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Vikings.secret.md)
+### #is_/same_as :: [Viking.secret](/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.secret.md)
+

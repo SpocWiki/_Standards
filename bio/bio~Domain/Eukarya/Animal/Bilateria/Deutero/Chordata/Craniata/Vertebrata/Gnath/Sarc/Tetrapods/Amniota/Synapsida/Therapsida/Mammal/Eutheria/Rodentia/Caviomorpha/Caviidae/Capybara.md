@@ -113,3 +113,22 @@ EPPO_Code: HYUSHY
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Capybara)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Capybara](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Caviidae/Capybara.md) 
+
+### #is_/same_as :: [Capybara.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Caviidae/Capybara.public.md) 
+
+### #is_/same_as :: [Capybara.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Caviidae/Capybara.internal.md) 
+
+### #is_/same_as :: [Capybara.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Caviidae/Capybara.protect.md) 
+
+### #is_/same_as :: [Capybara.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Caviidae/Capybara.private.md) 
+
+### #is_/same_as :: [Capybara.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Caviidae/Capybara.personal.md) 
+
+### #is_/same_as :: [Capybara.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Caviidae/Capybara.secret.md)
+

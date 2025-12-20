@@ -124,19 +124,20 @@ graph TD
 
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [War](/_Standards/Society/Military/War.md) 
+### #is_/same_as :: [War](/_Standards/Society/Military/Military_Operation/Combat/War.md) 
 
-### #is_/same_as :: [War.public](/_public/Society/Military/War.public.md) 
+### #is_/same_as :: [War.public](/_public/Society/Military/Military_Operation/Combat/War.public.md) 
 
-### #is_/same_as :: [War.internal](/_internal/Society/Military/War.internal.md) 
+### #is_/same_as :: [War.internal](/_internal/Society/Military/Military_Operation/Combat/War.internal.md) 
 
-### #is_/same_as :: [War.protect](/_protect/Society/Military/War.protect.md) 
+### #is_/same_as :: [War.protect](/_protect/Society/Military/Military_Operation/Combat/War.protect.md) 
 
-### #is_/same_as :: [War.private](/_private/Society/Military/War.private.md) 
+### #is_/same_as :: [War.private](/_private/Society/Military/Military_Operation/Combat/War.private.md) 
 
-### #is_/same_as :: [War.personal](/_personal/Society/Military/War.personal.md) 
+### #is_/same_as :: [War.personal](/_personal/Society/Military/Military_Operation/Combat/War.personal.md) 
 
-### #is_/same_as :: [War.secret](/_secret/Society/Military/War.secret.md)
+### #is_/same_as :: [War.secret](/_secret/Society/Military/Military_Operation/Combat/War.secret.md)
 

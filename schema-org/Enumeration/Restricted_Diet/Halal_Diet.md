@@ -40,17 +40,17 @@ A diet conforming to Islamic dietary practices.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Halal_Diet](Halal_Diet.md) 
+### #is_/same_as :: [Halal_Diet](/_Standards/schema-org/Enumeration/Restricted_Diet/Halal_Diet.md) 
 
-### #is_/same_as :: [halal_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/halal_diet.public.md) 
+### #is_/same_as :: [Halal_Diet.public](/_public/schema-org/Enumeration/Restricted_Diet/Halal_Diet.public.md) 
 
-### #is_/same_as :: [halal_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/halal_diet.internal.md) 
+### #is_/same_as :: [Halal_Diet.internal](/_internal/schema-org/Enumeration/Restricted_Diet/Halal_Diet.internal.md) 
 
-### #is_/same_as :: [halal_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/halal_diet.protect.md) 
+### #is_/same_as :: [Halal_Diet.protect](/_protect/schema-org/Enumeration/Restricted_Diet/Halal_Diet.protect.md) 
 
-### #is_/same_as :: [halal_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/halal_diet.private.md) 
+### #is_/same_as :: [Halal_Diet.private](/_private/schema-org/Enumeration/Restricted_Diet/Halal_Diet.private.md) 
 
-### #is_/same_as :: [halal_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/halal_diet.personal.md) 
+### #is_/same_as :: [Halal_Diet.personal](/_personal/schema-org/Enumeration/Restricted_Diet/Halal_Diet.personal.md) 
 
-### #is_/same_as :: [halal_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/halal_diet.secret.md)
+### #is_/same_as :: [Halal_Diet.secret](/_secret/schema-org/Enumeration/Restricted_Diet/Halal_Diet.secret.md)
 

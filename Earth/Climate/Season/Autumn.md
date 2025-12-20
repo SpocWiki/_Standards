@@ -97,17 +97,17 @@ Google_Doodle:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Autumn](/_Standards/Earth/Atmosphere,Earth/Climate/Season/Autumn.md) 
+### #is_/same_as :: [Autumn](/_Standards/Earth/Climate/Season/Autumn.md) 
 
-### #is_/same_as :: [Autumn.public](/_public/Earth/Atmosphere,Earth/Climate/Season/Autumn.public.md) 
+### #is_/same_as :: [Autumn.public](/_public/Earth/Climate/Season/Autumn.public.md) 
 
-### #is_/same_as :: [Autumn.internal](/_internal/Earth/Atmosphere,Earth/Climate/Season/Autumn.internal.md) 
+### #is_/same_as :: [Autumn.internal](/_internal/Earth/Climate/Season/Autumn.internal.md) 
 
-### #is_/same_as :: [Autumn.protect](/_protect/Earth/Atmosphere,Earth/Climate/Season/Autumn.protect.md) 
+### #is_/same_as :: [Autumn.protect](/_protect/Earth/Climate/Season/Autumn.protect.md) 
 
-### #is_/same_as :: [Autumn.private](/_private/Earth/Atmosphere,Earth/Climate/Season/Autumn.private.md) 
+### #is_/same_as :: [Autumn.private](/_private/Earth/Climate/Season/Autumn.private.md) 
 
-### #is_/same_as :: [Autumn.personal](/_personal/Earth/Atmosphere,Earth/Climate/Season/Autumn.personal.md) 
+### #is_/same_as :: [Autumn.personal](/_personal/Earth/Climate/Season/Autumn.personal.md) 
 
-### #is_/same_as :: [Autumn.secret](/_secret/Earth/Atmosphere,Earth/Climate/Season/Autumn.secret.md)
+### #is_/same_as :: [Autumn.secret](/_secret/Earth/Climate/Season/Autumn.secret.md)
 

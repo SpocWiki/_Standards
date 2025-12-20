@@ -20,3 +20,22 @@ Commons_category: History of Buddhism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Buddhism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Buddhism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.md) 
+
+### #is_/same_as :: [History_of_Buddhism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.public.md) 
+
+### #is_/same_as :: [History_of_Buddhism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.internal.md) 
+
+### #is_/same_as :: [History_of_Buddhism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.protect.md) 
+
+### #is_/same_as :: [History_of_Buddhism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.private.md) 
+
+### #is_/same_as :: [History_of_Buddhism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.personal.md) 
+
+### #is_/same_as :: [History_of_Buddhism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.secret.md)
+

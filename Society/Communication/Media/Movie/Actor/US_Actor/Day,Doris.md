@@ -138,3 +138,22 @@ Europeana_entity: agent/base/146799
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Doris%20Day) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Day,Doris](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.md) 
+
+### #is_/same_as :: [Day,Doris.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.public.md) 
+
+### #is_/same_as :: [Day,Doris.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.internal.md) 
+
+### #is_/same_as :: [Day,Doris.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.protect.md) 
+
+### #is_/same_as :: [Day,Doris.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.private.md) 
+
+### #is_/same_as :: [Day,Doris.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.personal.md) 
+
+### #is_/same_as :: [Day,Doris.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.secret.md)
+

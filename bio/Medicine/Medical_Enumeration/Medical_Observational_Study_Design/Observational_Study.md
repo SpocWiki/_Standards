@@ -38,17 +38,17 @@ An observational study design.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [observational](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.md) 
+### #is_/same_as :: [Observational_Study](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Observational_Study.md) 
 
-### #is_/same_as :: [observational.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.public.md) 
+### #is_/same_as :: [Observational_Study.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Observational_Study.public.md) 
 
-### #is_/same_as :: [observational.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.internal.md) 
+### #is_/same_as :: [Observational_Study.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Observational_Study.internal.md) 
 
-### #is_/same_as :: [observational.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.protect.md) 
+### #is_/same_as :: [Observational_Study.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Observational_Study.protect.md) 
 
-### #is_/same_as :: [observational.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.private.md) 
+### #is_/same_as :: [Observational_Study.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Observational_Study.private.md) 
 
-### #is_/same_as :: [observational.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.personal.md) 
+### #is_/same_as :: [Observational_Study.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Observational_Study.personal.md) 
 
-### #is_/same_as :: [observational.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.secret.md)
+### #is_/same_as :: [Observational_Study.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Observational_Study.secret.md)
 

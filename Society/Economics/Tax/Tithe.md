@@ -66,3 +66,22 @@ Dewey_Decimal_Classification: "248.6"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tithe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tithe](/_Standards/Society/Economics/Tax/Tithe.md) 
+
+### #is_/same_as :: [Tithe.public](/_public/Society/Economics/Tax/Tithe.public.md) 
+
+### #is_/same_as :: [Tithe.internal](/_internal/Society/Economics/Tax/Tithe.internal.md) 
+
+### #is_/same_as :: [Tithe.protect](/_protect/Society/Economics/Tax/Tithe.protect.md) 
+
+### #is_/same_as :: [Tithe.private](/_private/Society/Economics/Tax/Tithe.private.md) 
+
+### #is_/same_as :: [Tithe.personal](/_personal/Society/Economics/Tax/Tithe.personal.md) 
+
+### #is_/same_as :: [Tithe.secret](/_secret/Society/Economics/Tax/Tithe.secret.md)
+

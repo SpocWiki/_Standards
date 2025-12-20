@@ -48,3 +48,22 @@ quantity_symbol_LaTeX_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Right%20ascension) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Right_Ascension](/_Standards/Astronomy/Astrometry/Right_Ascension.md) 
+
+### #is_/same_as :: [Right_Ascension.public](/_public/Astronomy/Astrometry/Right_Ascension.public.md) 
+
+### #is_/same_as :: [Right_Ascension.internal](/_internal/Astronomy/Astrometry/Right_Ascension.internal.md) 
+
+### #is_/same_as :: [Right_Ascension.protect](/_protect/Astronomy/Astrometry/Right_Ascension.protect.md) 
+
+### #is_/same_as :: [Right_Ascension.private](/_private/Astronomy/Astrometry/Right_Ascension.private.md) 
+
+### #is_/same_as :: [Right_Ascension.personal](/_personal/Astronomy/Astrometry/Right_Ascension.personal.md) 
+
+### #is_/same_as :: [Right_Ascension.secret](/_secret/Astronomy/Astrometry/Right_Ascension.secret.md)
+

@@ -45,17 +45,17 @@ uses: '[[_Standards/WikiData/WD~motor_fuel,337540]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Combustion_Engine](/_Standards/Technology/Mechanical_Engineering/Engine/Combustion_Engine.md) 
+### #is_/same_as :: [Combustion_Engine](/_Standards/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.md) 
 
-### #is_/same_as :: [Combustion_Engine.public](/_public/Technology/Mechanical_Engineering/Engine/Combustion_Engine.public.md) 
+### #is_/same_as :: [Combustion_Engine.public](/_public/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.public.md) 
 
-### #is_/same_as :: [Combustion_Engine.internal](/_internal/Technology/Mechanical_Engineering/Engine/Combustion_Engine.internal.md) 
+### #is_/same_as :: [Combustion_Engine.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.internal.md) 
 
-### #is_/same_as :: [Combustion_Engine.protect](/_protect/Technology/Mechanical_Engineering/Engine/Combustion_Engine.protect.md) 
+### #is_/same_as :: [Combustion_Engine.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.protect.md) 
 
-### #is_/same_as :: [Combustion_Engine.private](/_private/Technology/Mechanical_Engineering/Engine/Combustion_Engine.private.md) 
+### #is_/same_as :: [Combustion_Engine.private](/_private/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.private.md) 
 
-### #is_/same_as :: [Combustion_Engine.personal](/_personal/Technology/Mechanical_Engineering/Engine/Combustion_Engine.personal.md) 
+### #is_/same_as :: [Combustion_Engine.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.personal.md) 
 
-### #is_/same_as :: [Combustion_Engine.secret](/_secret/Technology/Mechanical_Engineering/Engine/Combustion_Engine.secret.md)
+### #is_/same_as :: [Combustion_Engine.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Engine/Combustion_Engine.secret.md)
 

@@ -26,3 +26,22 @@ making it a popular choice for building web applications, especially for beginne
 
 If you're looking for a Python web framework that's easy to learn, flexible, and has a large community, Flask is a great option.
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Python~Flask](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python/Python~Flask.md) 
+
+### #is_/same_as :: [Python~Flask.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python/Python~Flask.public.md) 
+
+### #is_/same_as :: [Python~Flask.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python/Python~Flask.internal.md) 
+
+### #is_/same_as :: [Python~Flask.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python/Python~Flask.protect.md) 
+
+### #is_/same_as :: [Python~Flask.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python/Python~Flask.private.md) 
+
+### #is_/same_as :: [Python~Flask.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python/Python~Flask.personal.md) 
+
+### #is_/same_as :: [Python~Flask.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python/Python~Flask.secret.md)
+

@@ -41,3 +41,22 @@ The placement process in Orleans is fully configurable. Developers can choose fr
 ####  [Timers and reminders](https://learn.microsoft.com/en-us/dotnet/orleans/grains/timers-and-reminders)    
 
 Reminders are a durable scheduling mechanism for grains.
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Actor](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.md) 
+
+### #is_/same_as :: [Prog~Actor.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.public.md) 
+
+### #is_/same_as :: [Prog~Actor.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.internal.md) 
+
+### #is_/same_as :: [Prog~Actor.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.protect.md) 
+
+### #is_/same_as :: [Prog~Actor.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.private.md) 
+
+### #is_/same_as :: [Prog~Actor.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.personal.md) 
+
+### #is_/same_as :: [Prog~Actor.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.secret.md)
+

@@ -68,3 +68,22 @@ UNII: NW7F4358J8
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shiitake) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shiitake](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.md) 
+
+### #is_/same_as :: [Shiitake.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.public.md) 
+
+### #is_/same_as :: [Shiitake.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.internal.md) 
+
+### #is_/same_as :: [Shiitake.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.protect.md) 
+
+### #is_/same_as :: [Shiitake.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.private.md) 
+
+### #is_/same_as :: [Shiitake.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.personal.md) 
+
+### #is_/same_as :: [Shiitake.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.secret.md)
+

@@ -28,3 +28,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Josef%20Land)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Franz_Josef_Land](/_Standards/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.md) 
+
+### #is_/same_as :: [Franz_Josef_Land.public](/_public/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.public.md) 
+
+### #is_/same_as :: [Franz_Josef_Land.internal](/_internal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.internal.md) 
+
+### #is_/same_as :: [Franz_Josef_Land.protect](/_protect/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.protect.md) 
+
+### #is_/same_as :: [Franz_Josef_Land.private](/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.private.md) 
+
+### #is_/same_as :: [Franz_Josef_Land.personal](/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.personal.md) 
+
+### #is_/same_as :: [Franz_Josef_Land.secret](/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.secret.md)
+

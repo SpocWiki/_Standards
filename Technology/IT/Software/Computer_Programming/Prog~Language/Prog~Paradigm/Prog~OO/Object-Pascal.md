@@ -21,3 +21,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Object%20Pascal)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Object-Pascal](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.md) 
+
+### #is_/same_as :: [Object-Pascal.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.public.md) 
+
+### #is_/same_as :: [Object-Pascal.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.internal.md) 
+
+### #is_/same_as :: [Object-Pascal.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.protect.md) 
+
+### #is_/same_as :: [Object-Pascal.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.private.md) 
+
+### #is_/same_as :: [Object-Pascal.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.personal.md) 
+
+### #is_/same_as :: [Object-Pascal.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.secret.md)
+

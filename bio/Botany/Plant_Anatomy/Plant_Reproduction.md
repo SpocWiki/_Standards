@@ -33,3 +33,22 @@ Commons_category: Plant reproduction
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant%20reproduction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plant_Reproduction](/_Standards/bio/Botany/Plant_Anatomy/Plant_Reproduction.md) 
+
+### #is_/same_as :: [Plant_Reproduction.public](/_public/bio/Botany/Plant_Anatomy/Plant_Reproduction.public.md) 
+
+### #is_/same_as :: [Plant_Reproduction.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Reproduction.internal.md) 
+
+### #is_/same_as :: [Plant_Reproduction.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Reproduction.protect.md) 
+
+### #is_/same_as :: [Plant_Reproduction.private](/_private/bio/Botany/Plant_Anatomy/Plant_Reproduction.private.md) 
+
+### #is_/same_as :: [Plant_Reproduction.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Reproduction.personal.md) 
+
+### #is_/same_as :: [Plant_Reproduction.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Reproduction.secret.md)
+

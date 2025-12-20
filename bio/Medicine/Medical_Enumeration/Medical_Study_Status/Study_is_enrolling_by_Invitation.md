@@ -40,17 +40,17 @@ Enrolling participants by invitation only.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [enrolling_by_invitation](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.md) 
+### #is_/same_as :: [Study_is_enrolling_by_Invitation](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.md) 
 
-### #is_/same_as :: [enrolling_by_invitation.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.public.md) 
+### #is_/same_as :: [Study_is_enrolling_by_Invitation.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.public.md) 
 
-### #is_/same_as :: [enrolling_by_invitation.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.internal.md) 
+### #is_/same_as :: [Study_is_enrolling_by_Invitation.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.internal.md) 
 
-### #is_/same_as :: [enrolling_by_invitation.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.protect.md) 
+### #is_/same_as :: [Study_is_enrolling_by_Invitation.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.protect.md) 
 
-### #is_/same_as :: [enrolling_by_invitation.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.private.md) 
+### #is_/same_as :: [Study_is_enrolling_by_Invitation.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.private.md) 
 
-### #is_/same_as :: [enrolling_by_invitation.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.personal.md) 
+### #is_/same_as :: [Study_is_enrolling_by_Invitation.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.personal.md) 
 
-### #is_/same_as :: [enrolling_by_invitation.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.secret.md)
+### #is_/same_as :: [Study_is_enrolling_by_Invitation.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_enrolling_by_Invitation.secret.md)
 

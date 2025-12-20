@@ -46,3 +46,22 @@ A common source of confusion occurs when failing to distinguish clearly between:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Standard%20error) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Standard_Error](/_Standards/Mathematics/Statistics/Probability/Standard_Error.md) 
+
+### #is_/same_as :: [Standard_Error.public](/_public/Mathematics/Statistics/Probability/Standard_Error.public.md) 
+
+### #is_/same_as :: [Standard_Error.internal](/_internal/Mathematics/Statistics/Probability/Standard_Error.internal.md) 
+
+### #is_/same_as :: [Standard_Error.protect](/_protect/Mathematics/Statistics/Probability/Standard_Error.protect.md) 
+
+### #is_/same_as :: [Standard_Error.private](/_private/Mathematics/Statistics/Probability/Standard_Error.private.md) 
+
+### #is_/same_as :: [Standard_Error.personal](/_personal/Mathematics/Statistics/Probability/Standard_Error.personal.md) 
+
+### #is_/same_as :: [Standard_Error.secret](/_secret/Mathematics/Statistics/Probability/Standard_Error.secret.md)
+

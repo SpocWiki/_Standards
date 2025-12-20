@@ -45,3 +45,22 @@ Krugosvet_article_archived_: medicina/NEVROZ.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neurosis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Neurosis](/_Standards/bio/Psychology/Mental_Disorder/Neurosis.md) 
+
+### #is_/same_as :: [Neurosis.public](/_public/bio/Psychology/Mental_Disorder/Neurosis.public.md) 
+
+### #is_/same_as :: [Neurosis.internal](/_internal/bio/Psychology/Mental_Disorder/Neurosis.internal.md) 
+
+### #is_/same_as :: [Neurosis.protect](/_protect/bio/Psychology/Mental_Disorder/Neurosis.protect.md) 
+
+### #is_/same_as :: [Neurosis.private](/_private/bio/Psychology/Mental_Disorder/Neurosis.private.md) 
+
+### #is_/same_as :: [Neurosis.personal](/_personal/bio/Psychology/Mental_Disorder/Neurosis.personal.md) 
+
+### #is_/same_as :: [Neurosis.secret](/_secret/bio/Psychology/Mental_Disorder/Neurosis.secret.md)
+

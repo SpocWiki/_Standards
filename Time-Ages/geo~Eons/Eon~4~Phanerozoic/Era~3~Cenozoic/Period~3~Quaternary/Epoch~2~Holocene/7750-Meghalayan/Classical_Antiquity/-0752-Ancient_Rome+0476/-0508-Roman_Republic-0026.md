@@ -117,17 +117,17 @@ OpenStreetMap_tag: historic:period=roman_republic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [9490-Roman_Republic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.md) 
+### #is_/same_as :: [-0508-Roman_Republic-0026](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.md) 
 
-### #is_/same_as :: [9490-Roman_Republic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.public.md) 
+### #is_/same_as :: [-0508-Roman_Republic-0026.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.public.md) 
 
-### #is_/same_as :: [9490-Roman_Republic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.internal.md) 
+### #is_/same_as :: [-0508-Roman_Republic-0026.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.internal.md) 
 
-### #is_/same_as :: [9490-Roman_Republic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.protect.md) 
+### #is_/same_as :: [-0508-Roman_Republic-0026.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.protect.md) 
 
-### #is_/same_as :: [9490-Roman_Republic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.private.md) 
+### #is_/same_as :: [-0508-Roman_Republic-0026.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.private.md) 
 
-### #is_/same_as :: [9490-Roman_Republic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.personal.md) 
+### #is_/same_as :: [-0508-Roman_Republic-0026.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.personal.md) 
 
-### #is_/same_as :: [9490-Roman_Republic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.secret.md)
+### #is_/same_as :: [-0508-Roman_Republic-0026.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.secret.md)
 

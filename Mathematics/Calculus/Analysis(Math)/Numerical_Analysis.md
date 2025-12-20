@@ -51,17 +51,17 @@ UMLS_CUI: C0028645
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Numerical_Analysis](/_Standards/Mathematics/Calculus/Numerical_Analysis.md) 
+### #is_/same_as :: [Numerical_Analysis](/_Standards/Mathematics/Calculus/Analysis(Math)/Numerical_Analysis.md) 
 
-### #is_/same_as :: [Numerical_Analysis.public](/_public/Mathematics/Calculus/Numerical_Analysis.public.md) 
+### #is_/same_as :: [Numerical_Analysis.public](/_public/Mathematics/Calculus/Analysis(Math)/Numerical_Analysis.public.md) 
 
-### #is_/same_as :: [Numerical_Analysis.internal](/_internal/Mathematics/Calculus/Numerical_Analysis.internal.md) 
+### #is_/same_as :: [Numerical_Analysis.internal](/_internal/Mathematics/Calculus/Analysis(Math)/Numerical_Analysis.internal.md) 
 
-### #is_/same_as :: [Numerical_Analysis.protect](/_protect/Mathematics/Calculus/Numerical_Analysis.protect.md) 
+### #is_/same_as :: [Numerical_Analysis.protect](/_protect/Mathematics/Calculus/Analysis(Math)/Numerical_Analysis.protect.md) 
 
-### #is_/same_as :: [Numerical_Analysis.private](/_private/Mathematics/Calculus/Numerical_Analysis.private.md) 
+### #is_/same_as :: [Numerical_Analysis.private](/_private/Mathematics/Calculus/Analysis(Math)/Numerical_Analysis.private.md) 
 
-### #is_/same_as :: [Numerical_Analysis.personal](/_personal/Mathematics/Calculus/Numerical_Analysis.personal.md) 
+### #is_/same_as :: [Numerical_Analysis.personal](/_personal/Mathematics/Calculus/Analysis(Math)/Numerical_Analysis.personal.md) 
 
-### #is_/same_as :: [Numerical_Analysis.secret](/_secret/Mathematics/Calculus/Numerical_Analysis.secret.md)
+### #is_/same_as :: [Numerical_Analysis.secret](/_secret/Mathematics/Calculus/Analysis(Math)/Numerical_Analysis.secret.md)
 

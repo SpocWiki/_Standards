@@ -48,3 +48,22 @@ IPTC_NewsCode: mediatopic/20000611
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Impeachment) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Impeachment](/_Standards/Society/Politics/Government/Democracy/Impeachment.md) 
+
+### #is_/same_as :: [Impeachment.public](/_public/Society/Politics/Government/Democracy/Impeachment.public.md) 
+
+### #is_/same_as :: [Impeachment.internal](/_internal/Society/Politics/Government/Democracy/Impeachment.internal.md) 
+
+### #is_/same_as :: [Impeachment.protect](/_protect/Society/Politics/Government/Democracy/Impeachment.protect.md) 
+
+### #is_/same_as :: [Impeachment.private](/_private/Society/Politics/Government/Democracy/Impeachment.private.md) 
+
+### #is_/same_as :: [Impeachment.personal](/_personal/Society/Politics/Government/Democracy/Impeachment.personal.md) 
+
+### #is_/same_as :: [Impeachment.secret](/_secret/Society/Politics/Government/Democracy/Impeachment.secret.md)
+

@@ -41,17 +41,17 @@ A guideline recommendation that is regarded as efficacious and where quality of 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Guideline_Recommendation](/_Standards/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.md) 
+### #is_/same_as :: [Medical_Recommendation](/_Standards/bio/Medicine/Medical_Guideline/Medical_Recommendation.md) 
 
-### #is_/same_as :: [Medical_Guideline_Recommendation.public](/_public/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.public.md) 
+### #is_/same_as :: [Medical_Recommendation.public](/_public/bio/Medicine/Medical_Guideline/Medical_Recommendation.public.md) 
 
-### #is_/same_as :: [Medical_Guideline_Recommendation.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.internal.md) 
+### #is_/same_as :: [Medical_Recommendation.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Recommendation.internal.md) 
 
-### #is_/same_as :: [Medical_Guideline_Recommendation.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.protect.md) 
+### #is_/same_as :: [Medical_Recommendation.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Recommendation.protect.md) 
 
-### #is_/same_as :: [Medical_Guideline_Recommendation.private](/_private/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.private.md) 
+### #is_/same_as :: [Medical_Recommendation.private](/_private/bio/Medicine/Medical_Guideline/Medical_Recommendation.private.md) 
 
-### #is_/same_as :: [Medical_Guideline_Recommendation.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.personal.md) 
+### #is_/same_as :: [Medical_Recommendation.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Recommendation.personal.md) 
 
-### #is_/same_as :: [Medical_Guideline_Recommendation.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.secret.md)
+### #is_/same_as :: [Medical_Recommendation.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Recommendation.secret.md)
 

@@ -56,3 +56,22 @@ subreddit: heatpumps
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Heat%20pump) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heat_Pump](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating/Heat_Pump.md) 
+
+### #is_/same_as :: [Heat_Pump.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating/Heat_Pump.public.md) 
+
+### #is_/same_as :: [Heat_Pump.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating/Heat_Pump.internal.md) 
+
+### #is_/same_as :: [Heat_Pump.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating/Heat_Pump.protect.md) 
+
+### #is_/same_as :: [Heat_Pump.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating/Heat_Pump.private.md) 
+
+### #is_/same_as :: [Heat_Pump.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating/Heat_Pump.personal.md) 
+
+### #is_/same_as :: [Heat_Pump.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating/Heat_Pump.secret.md)
+

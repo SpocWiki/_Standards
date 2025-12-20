@@ -45,17 +45,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gray,Alasdair](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Gray,Alasdair.md) 
+### #is_/same_as :: [Gray,Alasdair](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.md) 
 
-### #is_/same_as :: [Gray,Alasdair.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Gray,Alasdair.public.md) 
+### #is_/same_as :: [Gray,Alasdair.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.public.md) 
 
-### #is_/same_as :: [Gray,Alasdair.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Gray,Alasdair.internal.md) 
+### #is_/same_as :: [Gray,Alasdair.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.internal.md) 
 
-### #is_/same_as :: [Gray,Alasdair.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Gray,Alasdair.protect.md) 
+### #is_/same_as :: [Gray,Alasdair.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.protect.md) 
 
-### #is_/same_as :: [Gray,Alasdair.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Gray,Alasdair.private.md) 
+### #is_/same_as :: [Gray,Alasdair.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.private.md) 
 
-### #is_/same_as :: [Gray,Alasdair.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Gray,Alasdair.personal.md) 
+### #is_/same_as :: [Gray,Alasdair.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.personal.md) 
 
-### #is_/same_as :: [Gray,Alasdair.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Gray,Alasdair.secret.md)
+### #is_/same_as :: [Gray,Alasdair.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gray,Alasdair.secret.md)
 

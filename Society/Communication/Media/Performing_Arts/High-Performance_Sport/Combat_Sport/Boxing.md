@@ -75,17 +75,17 @@ UMLS_CUI: C0006080
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boxing](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Boxing.md) 
+### #is_/same_as :: [Boxing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.md) 
 
-### #is_/same_as :: [Boxing.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Boxing.public.md) 
+### #is_/same_as :: [Boxing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.public.md) 
 
-### #is_/same_as :: [Boxing.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Boxing.internal.md) 
+### #is_/same_as :: [Boxing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.internal.md) 
 
-### #is_/same_as :: [Boxing.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Boxing.protect.md) 
+### #is_/same_as :: [Boxing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.protect.md) 
 
-### #is_/same_as :: [Boxing.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Boxing.private.md) 
+### #is_/same_as :: [Boxing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.private.md) 
 
-### #is_/same_as :: [Boxing.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Boxing.personal.md) 
+### #is_/same_as :: [Boxing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.personal.md) 
 
-### #is_/same_as :: [Boxing.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts/Boxing.secret.md)
+### #is_/same_as :: [Boxing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing.secret.md)
 

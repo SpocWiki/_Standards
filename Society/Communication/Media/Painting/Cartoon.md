@@ -50,8 +50,6 @@ subreddit: CARTOON
 > [Wikipedia](https://en.wikipedia.org/wiki/Cartoon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cartoon](/_Standards/Society/Communication/Media/Painting/Cartoon.md) 

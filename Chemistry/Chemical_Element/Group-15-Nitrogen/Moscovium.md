@@ -44,3 +44,22 @@ time_of_discovery_or_invention: 2003-08-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Moscovium) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Moscovium](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.md) 
+
+### #is_/same_as :: [Moscovium.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.public.md) 
+
+### #is_/same_as :: [Moscovium.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.internal.md) 
+
+### #is_/same_as :: [Moscovium.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.protect.md) 
+
+### #is_/same_as :: [Moscovium.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.private.md) 
+
+### #is_/same_as :: [Moscovium.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.personal.md) 
+
+### #is_/same_as :: [Moscovium.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.secret.md)
+

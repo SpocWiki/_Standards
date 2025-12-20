@@ -38,3 +38,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Equinox) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Equinox](/_Standards/Astronomy/Astronomical_Event/Equinox.md) 
+
+### #is_/same_as :: [Equinox.public](/_public/Astronomy/Astronomical_Event/Equinox.public.md) 
+
+### #is_/same_as :: [Equinox.internal](/_internal/Astronomy/Astronomical_Event/Equinox.internal.md) 
+
+### #is_/same_as :: [Equinox.protect](/_protect/Astronomy/Astronomical_Event/Equinox.protect.md) 
+
+### #is_/same_as :: [Equinox.private](/_private/Astronomy/Astronomical_Event/Equinox.private.md) 
+
+### #is_/same_as :: [Equinox.personal](/_personal/Astronomy/Astronomical_Event/Equinox.personal.md) 
+
+### #is_/same_as :: [Equinox.secret](/_secret/Astronomy/Astronomical_Event/Equinox.secret.md)
+

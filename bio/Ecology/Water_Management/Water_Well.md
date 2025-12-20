@@ -108,3 +108,22 @@ OpenStreetMap_tag: man_made=water_well
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Well) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Water_Well](/_Standards/bio/Ecology/Water_Management/Water_Well.md) 
+
+### #is_/same_as :: [Water_Well.public](/_public/bio/Ecology/Water_Management/Water_Well.public.md) 
+
+### #is_/same_as :: [Water_Well.internal](/_internal/bio/Ecology/Water_Management/Water_Well.internal.md) 
+
+### #is_/same_as :: [Water_Well.protect](/_protect/bio/Ecology/Water_Management/Water_Well.protect.md) 
+
+### #is_/same_as :: [Water_Well.private](/_private/bio/Ecology/Water_Management/Water_Well.private.md) 
+
+### #is_/same_as :: [Water_Well.personal](/_personal/bio/Ecology/Water_Management/Water_Well.personal.md) 
+
+### #is_/same_as :: [Water_Well.secret](/_secret/bio/Ecology/Water_Management/Water_Well.secret.md)
+

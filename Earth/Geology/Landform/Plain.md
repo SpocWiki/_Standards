@@ -47,3 +47,22 @@ OpenStreetMap_tag: natural=plain
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plain) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plain](/_Standards/Earth/Geology/Landform/Plain.md) 
+
+### #is_/same_as :: [Plain.public](/_public/Earth/Geology/Landform/Plain.public.md) 
+
+### #is_/same_as :: [Plain.internal](/_internal/Earth/Geology/Landform/Plain.internal.md) 
+
+### #is_/same_as :: [Plain.protect](/_protect/Earth/Geology/Landform/Plain.protect.md) 
+
+### #is_/same_as :: [Plain.private](/_private/Earth/Geology/Landform/Plain.private.md) 
+
+### #is_/same_as :: [Plain.personal](/_personal/Earth/Geology/Landform/Plain.personal.md) 
+
+### #is_/same_as :: [Plain.secret](/_secret/Earth/Geology/Landform/Plain.secret.md)
+

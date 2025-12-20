@@ -157,7 +157,7 @@ U_S_National_Archives_Identifier: 10641540
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sugar](Sugar.md) 
+### #is_/same_as :: [Sugar](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Sugar.md) 
 
 ### #is_/same_as :: [Sugar.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Sugar.public.md) 
 

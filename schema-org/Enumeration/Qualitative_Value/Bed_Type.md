@@ -76,17 +76,17 @@ The day of the week between Saturday and Monday.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bed_Type](Bed_Type.md) 
+### #is_/same_as :: [Bed_Type](/_Standards/schema-org/Enumeration/Qualitative_Value/Bed_Type.md) 
 
-### #is_/same_as :: [bed_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/bed_type.public.md) 
+### #is_/same_as :: [Bed_Type.public](/_public/schema-org/Enumeration/Qualitative_Value/Bed_Type.public.md) 
 
-### #is_/same_as :: [bed_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/bed_type.internal.md) 
+### #is_/same_as :: [Bed_Type.internal](/_internal/schema-org/Enumeration/Qualitative_Value/Bed_Type.internal.md) 
 
-### #is_/same_as :: [bed_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/bed_type.protect.md) 
+### #is_/same_as :: [Bed_Type.protect](/_protect/schema-org/Enumeration/Qualitative_Value/Bed_Type.protect.md) 
 
-### #is_/same_as :: [bed_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/bed_type.private.md) 
+### #is_/same_as :: [Bed_Type.private](/_private/schema-org/Enumeration/Qualitative_Value/Bed_Type.private.md) 
 
-### #is_/same_as :: [bed_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/bed_type.personal.md) 
+### #is_/same_as :: [Bed_Type.personal](/_personal/schema-org/Enumeration/Qualitative_Value/Bed_Type.personal.md) 
 
-### #is_/same_as :: [bed_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/bed_type.secret.md)
+### #is_/same_as :: [Bed_Type.secret](/_secret/schema-org/Enumeration/Qualitative_Value/Bed_Type.secret.md)
 

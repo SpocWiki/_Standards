@@ -43,3 +43,22 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/polar-coordinates
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polar_Coordinate_System](/_Standards/Mathematics/Geometry/Coordinate_System/Polar_Coordinate_System.md) 
+
+### #is_/same_as :: [Polar_Coordinate_System.public](/_public/Mathematics/Geometry/Coordinate_System/Polar_Coordinate_System.public.md) 
+
+### #is_/same_as :: [Polar_Coordinate_System.internal](/_internal/Mathematics/Geometry/Coordinate_System/Polar_Coordinate_System.internal.md) 
+
+### #is_/same_as :: [Polar_Coordinate_System.protect](/_protect/Mathematics/Geometry/Coordinate_System/Polar_Coordinate_System.protect.md) 
+
+### #is_/same_as :: [Polar_Coordinate_System.private](/_private/Mathematics/Geometry/Coordinate_System/Polar_Coordinate_System.private.md) 
+
+### #is_/same_as :: [Polar_Coordinate_System.personal](/_personal/Mathematics/Geometry/Coordinate_System/Polar_Coordinate_System.personal.md) 
+
+### #is_/same_as :: [Polar_Coordinate_System.secret](/_secret/Mathematics/Geometry/Coordinate_System/Polar_Coordinate_System.secret.md)
+

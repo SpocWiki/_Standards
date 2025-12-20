@@ -61,3 +61,22 @@ catalog_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Attractor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Great_Attractor](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.md) 
+
+### #is_/same_as :: [Great_Attractor.public](/_public/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.public.md) 
+
+### #is_/same_as :: [Great_Attractor.internal](/_internal/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.internal.md) 
+
+### #is_/same_as :: [Great_Attractor.protect](/_protect/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.protect.md) 
+
+### #is_/same_as :: [Great_Attractor.private](/_private/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.private.md) 
+
+### #is_/same_as :: [Great_Attractor.personal](/_personal/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.personal.md) 
+
+### #is_/same_as :: [Great_Attractor.secret](/_secret/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.secret.md)
+

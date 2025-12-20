@@ -49,17 +49,17 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/AUSTROAZIATSKIE_YAZIKI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Austro-Asiatic](/_Standards/Language/Lang~Family/LangFamily-Austro-Asiatic.md) 
+### #is_/same_as :: [LangFamily-Austro-Asiatic](/_Standards/Language/Language_Family/LangFamily-Austro-Asiatic.md) 
 
-### #is_/same_as :: [LangFamily-Austro-Asiatic.public](/_public/Language/Lang~Family/LangFamily-Austro-Asiatic.public.md) 
+### #is_/same_as :: [LangFamily-Austro-Asiatic.public](/_public/Language/Language_Family/LangFamily-Austro-Asiatic.public.md) 
 
-### #is_/same_as :: [LangFamily-Austro-Asiatic.internal](/_internal/Language/Lang~Family/LangFamily-Austro-Asiatic.internal.md) 
+### #is_/same_as :: [LangFamily-Austro-Asiatic.internal](/_internal/Language/Language_Family/LangFamily-Austro-Asiatic.internal.md) 
 
-### #is_/same_as :: [LangFamily-Austro-Asiatic.protect](/_protect/Language/Lang~Family/LangFamily-Austro-Asiatic.protect.md) 
+### #is_/same_as :: [LangFamily-Austro-Asiatic.protect](/_protect/Language/Language_Family/LangFamily-Austro-Asiatic.protect.md) 
 
-### #is_/same_as :: [LangFamily-Austro-Asiatic.private](/_private/Language/Lang~Family/LangFamily-Austro-Asiatic.private.md) 
+### #is_/same_as :: [LangFamily-Austro-Asiatic.private](/_private/Language/Language_Family/LangFamily-Austro-Asiatic.private.md) 
 
-### #is_/same_as :: [LangFamily-Austro-Asiatic.personal](/_personal/Language/Lang~Family/LangFamily-Austro-Asiatic.personal.md) 
+### #is_/same_as :: [LangFamily-Austro-Asiatic.personal](/_personal/Language/Language_Family/LangFamily-Austro-Asiatic.personal.md) 
 
-### #is_/same_as :: [LangFamily-Austro-Asiatic.secret](/_secret/Language/Lang~Family/LangFamily-Austro-Asiatic.secret.md)
+### #is_/same_as :: [LangFamily-Austro-Asiatic.secret](/_secret/Language/Language_Family/LangFamily-Austro-Asiatic.secret.md)
 

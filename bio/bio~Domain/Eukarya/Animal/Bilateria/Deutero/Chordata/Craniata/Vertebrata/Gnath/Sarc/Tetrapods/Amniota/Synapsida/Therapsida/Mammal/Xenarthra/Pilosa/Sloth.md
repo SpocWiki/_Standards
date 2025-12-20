@@ -44,3 +44,22 @@ taxon_common_name: lenivci
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sloth) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sloth](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa/Sloth.md) 
+
+### #is_/same_as :: [Sloth.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa/Sloth.public.md) 
+
+### #is_/same_as :: [Sloth.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa/Sloth.internal.md) 
+
+### #is_/same_as :: [Sloth.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa/Sloth.protect.md) 
+
+### #is_/same_as :: [Sloth.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa/Sloth.private.md) 
+
+### #is_/same_as :: [Sloth.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa/Sloth.personal.md) 
+
+### #is_/same_as :: [Sloth.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra/Pilosa/Sloth.secret.md)
+

@@ -51,3 +51,22 @@ Commons_category: Congruence
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Congruence%20(geometry)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Congruence](/_Standards/Mathematics/Geometry/Congruence.md) 
+
+### #is_/same_as :: [Congruence.public](/_public/Mathematics/Geometry/Congruence.public.md) 
+
+### #is_/same_as :: [Congruence.internal](/_internal/Mathematics/Geometry/Congruence.internal.md) 
+
+### #is_/same_as :: [Congruence.protect](/_protect/Mathematics/Geometry/Congruence.protect.md) 
+
+### #is_/same_as :: [Congruence.private](/_private/Mathematics/Geometry/Congruence.private.md) 
+
+### #is_/same_as :: [Congruence.personal](/_personal/Mathematics/Geometry/Congruence.personal.md) 
+
+### #is_/same_as :: [Congruence.secret](/_secret/Mathematics/Geometry/Congruence.secret.md)
+

@@ -39,3 +39,22 @@ has_id_wikidata: Q507246
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Serialism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Serialism](/_Standards/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.md) 
+
+### #is_/same_as :: [Serialism.public](/_public/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.public.md) 
+
+### #is_/same_as :: [Serialism.internal](/_internal/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.internal.md) 
+
+### #is_/same_as :: [Serialism.protect](/_protect/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.protect.md) 
+
+### #is_/same_as :: [Serialism.private](/_private/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.private.md) 
+
+### #is_/same_as :: [Serialism.personal](/_personal/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.personal.md) 
+
+### #is_/same_as :: [Serialism.secret](/_secret/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.secret.md)
+

@@ -24,3 +24,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vapor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vapor](/_Standards/Science/Physics/State_of_Matter/Vapor.md) 
+
+### #is_/same_as :: [Vapor.public](/_public/Science/Physics/State_of_Matter/Vapor.public.md) 
+
+### #is_/same_as :: [Vapor.internal](/_internal/Science/Physics/State_of_Matter/Vapor.internal.md) 
+
+### #is_/same_as :: [Vapor.protect](/_protect/Science/Physics/State_of_Matter/Vapor.protect.md) 
+
+### #is_/same_as :: [Vapor.private](/_private/Science/Physics/State_of_Matter/Vapor.private.md) 
+
+### #is_/same_as :: [Vapor.personal](/_personal/Science/Physics/State_of_Matter/Vapor.personal.md) 
+
+### #is_/same_as :: [Vapor.secret](/_secret/Science/Physics/State_of_Matter/Vapor.secret.md)
+

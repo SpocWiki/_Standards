@@ -40,17 +40,17 @@ Book format: Ebook.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [E_Book](E_Book.md) 
+### #is_/same_as :: [E_Book](/_Standards/schema-org/Enumeration/Book_Format_Type/E_Book.md) 
 
-### #is_/same_as :: [e_book.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/e_book.public.md) 
+### #is_/same_as :: [E_Book.public](/_public/schema-org/Enumeration/Book_Format_Type/E_Book.public.md) 
 
-### #is_/same_as :: [e_book.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/e_book.internal.md) 
+### #is_/same_as :: [E_Book.internal](/_internal/schema-org/Enumeration/Book_Format_Type/E_Book.internal.md) 
 
-### #is_/same_as :: [e_book.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/e_book.protect.md) 
+### #is_/same_as :: [E_Book.protect](/_protect/schema-org/Enumeration/Book_Format_Type/E_Book.protect.md) 
 
-### #is_/same_as :: [e_book.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/e_book.private.md) 
+### #is_/same_as :: [E_Book.private](/_private/schema-org/Enumeration/Book_Format_Type/E_Book.private.md) 
 
-### #is_/same_as :: [e_book.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/e_book.personal.md) 
+### #is_/same_as :: [E_Book.personal](/_personal/schema-org/Enumeration/Book_Format_Type/E_Book.personal.md) 
 
-### #is_/same_as :: [e_book.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/e_book.secret.md)
+### #is_/same_as :: [E_Book.secret](/_secret/schema-org/Enumeration/Book_Format_Type/E_Book.secret.md)
 

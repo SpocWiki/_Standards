@@ -130,3 +130,22 @@ Munzinger_Sport_number: "01000000377"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sepp%20Blatter) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blatter,Sepp](/_Standards/Society/Agent/Community/Organization/Sports_Organization/FIFA/Blatter,Sepp.md) 
+
+### #is_/same_as :: [Blatter,Sepp.public](/_public/Society/Agent/Community/Organization/Sports_Organization/FIFA/Blatter,Sepp.public.md) 
+
+### #is_/same_as :: [Blatter,Sepp.internal](/_internal/Society/Agent/Community/Organization/Sports_Organization/FIFA/Blatter,Sepp.internal.md) 
+
+### #is_/same_as :: [Blatter,Sepp.protect](/_protect/Society/Agent/Community/Organization/Sports_Organization/FIFA/Blatter,Sepp.protect.md) 
+
+### #is_/same_as :: [Blatter,Sepp.private](/_private/Society/Agent/Community/Organization/Sports_Organization/FIFA/Blatter,Sepp.private.md) 
+
+### #is_/same_as :: [Blatter,Sepp.personal](/_personal/Society/Agent/Community/Organization/Sports_Organization/FIFA/Blatter,Sepp.personal.md) 
+
+### #is_/same_as :: [Blatter,Sepp.secret](/_secret/Society/Agent/Community/Organization/Sports_Organization/FIFA/Blatter,Sepp.secret.md)
+

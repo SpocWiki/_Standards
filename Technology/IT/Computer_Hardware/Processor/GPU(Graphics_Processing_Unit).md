@@ -10,3 +10,22 @@ also because they use 4Byte Float Numbers, unlike NPUs which use 1Byte signed.
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [GPU(Graphics_Processing_Unit)](/_Standards/Technology/IT/Computer_Hardware/Processor/GPU(Graphics_Processing_Unit).md) 
+
+### #is_/same_as :: [GPU(Graphics_Processing_Unit).public](/_public/Technology/IT/Computer_Hardware/Processor/GPU(Graphics_Processing_Unit).public.md) 
+
+### #is_/same_as :: [GPU(Graphics_Processing_Unit).internal](/_internal/Technology/IT/Computer_Hardware/Processor/GPU(Graphics_Processing_Unit).internal.md) 
+
+### #is_/same_as :: [GPU(Graphics_Processing_Unit).protect](/_protect/Technology/IT/Computer_Hardware/Processor/GPU(Graphics_Processing_Unit).protect.md) 
+
+### #is_/same_as :: [GPU(Graphics_Processing_Unit).private](/_private/Technology/IT/Computer_Hardware/Processor/GPU(Graphics_Processing_Unit).private.md) 
+
+### #is_/same_as :: [GPU(Graphics_Processing_Unit).personal](/_personal/Technology/IT/Computer_Hardware/Processor/GPU(Graphics_Processing_Unit).personal.md) 
+
+### #is_/same_as :: [GPU(Graphics_Processing_Unit).secret](/_secret/Technology/IT/Computer_Hardware/Processor/GPU(Graphics_Processing_Unit).secret.md)
+

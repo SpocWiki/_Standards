@@ -50,3 +50,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Magnet](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.md) 
+
+### #is_/same_as :: [Magnet.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.public.md) 
+
+### #is_/same_as :: [Magnet.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.internal.md) 
+
+### #is_/same_as :: [Magnet.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.protect.md) 
+
+### #is_/same_as :: [Magnet.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.private.md) 
+
+### #is_/same_as :: [Magnet.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.personal.md) 
+
+### #is_/same_as :: [Magnet.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.secret.md)
+

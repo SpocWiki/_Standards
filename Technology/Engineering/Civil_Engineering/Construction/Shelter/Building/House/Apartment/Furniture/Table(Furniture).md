@@ -69,3 +69,22 @@ OpenStreetMap_tag: amenity=table
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Table(Furniture)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).md) 
+
+### #is_/same_as :: [Table(Furniture).public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).public.md) 
+
+### #is_/same_as :: [Table(Furniture).internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).internal.md) 
+
+### #is_/same_as :: [Table(Furniture).protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).protect.md) 
+
+### #is_/same_as :: [Table(Furniture).private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).private.md) 
+
+### #is_/same_as :: [Table(Furniture).personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).personal.md) 
+
+### #is_/same_as :: [Table(Furniture).secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).secret.md)
+

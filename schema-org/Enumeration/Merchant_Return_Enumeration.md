@@ -40,17 +40,17 @@ Enumerates several kinds of product return policies.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Merchant_Return_Enumeration](Merchant_Return_Enumeration.md) 
+### #is_/same_as :: [Merchant_Return_Enumeration](/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration.md) 
 
-### #is_/same_as :: [merchant_return_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.public.md) 
+### #is_/same_as :: [Merchant_Return_Enumeration.public](/_public/schema-org/Enumeration/Merchant_Return_Enumeration.public.md) 
 
-### #is_/same_as :: [merchant_return_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.internal.md) 
+### #is_/same_as :: [Merchant_Return_Enumeration.internal](/_internal/schema-org/Enumeration/Merchant_Return_Enumeration.internal.md) 
 
-### #is_/same_as :: [merchant_return_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.protect.md) 
+### #is_/same_as :: [Merchant_Return_Enumeration.protect](/_protect/schema-org/Enumeration/Merchant_Return_Enumeration.protect.md) 
 
-### #is_/same_as :: [merchant_return_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.private.md) 
+### #is_/same_as :: [Merchant_Return_Enumeration.private](/_private/schema-org/Enumeration/Merchant_Return_Enumeration.private.md) 
 
-### #is_/same_as :: [merchant_return_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.personal.md) 
+### #is_/same_as :: [Merchant_Return_Enumeration.personal](/_personal/schema-org/Enumeration/Merchant_Return_Enumeration.personal.md) 
 
-### #is_/same_as :: [merchant_return_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.secret.md)
+### #is_/same_as :: [Merchant_Return_Enumeration.secret](/_secret/schema-org/Enumeration/Merchant_Return_Enumeration.secret.md)
 

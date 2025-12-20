@@ -23,3 +23,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Roosevelt,Nicholas](/_Standards/Earth/Continent/America~North/US~President/Roosevelt,Nicholas.md) 
+
+### #is_/same_as :: [Roosevelt,Nicholas.public](/_public/Earth/Continent/America~North/US~President/Roosevelt,Nicholas.public.md) 
+
+### #is_/same_as :: [Roosevelt,Nicholas.internal](/_internal/Earth/Continent/America~North/US~President/Roosevelt,Nicholas.internal.md) 
+
+### #is_/same_as :: [Roosevelt,Nicholas.protect](/_protect/Earth/Continent/America~North/US~President/Roosevelt,Nicholas.protect.md) 
+
+### #is_/same_as :: [Roosevelt,Nicholas.private](/_private/Earth/Continent/America~North/US~President/Roosevelt,Nicholas.private.md) 
+
+### #is_/same_as :: [Roosevelt,Nicholas.personal](/_personal/Earth/Continent/America~North/US~President/Roosevelt,Nicholas.personal.md) 
+
+### #is_/same_as :: [Roosevelt,Nicholas.secret](/_secret/Earth/Continent/America~North/US~President/Roosevelt,Nicholas.secret.md)
+

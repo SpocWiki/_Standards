@@ -36,3 +36,22 @@ nickname: Geneva Suggestions
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Geneva%20Conventions) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geneva_Conventions](/_Standards/Society/Military/Military_Operation/Combat/Geneva_Conventions.md) 
+
+### #is_/same_as :: [Geneva_Conventions.public](/_public/Society/Military/Military_Operation/Combat/Geneva_Conventions.public.md) 
+
+### #is_/same_as :: [Geneva_Conventions.internal](/_internal/Society/Military/Military_Operation/Combat/Geneva_Conventions.internal.md) 
+
+### #is_/same_as :: [Geneva_Conventions.protect](/_protect/Society/Military/Military_Operation/Combat/Geneva_Conventions.protect.md) 
+
+### #is_/same_as :: [Geneva_Conventions.private](/_private/Society/Military/Military_Operation/Combat/Geneva_Conventions.private.md) 
+
+### #is_/same_as :: [Geneva_Conventions.personal](/_personal/Society/Military/Military_Operation/Combat/Geneva_Conventions.personal.md) 
+
+### #is_/same_as :: [Geneva_Conventions.secret](/_secret/Society/Military/Military_Operation/Combat/Geneva_Conventions.secret.md)
+

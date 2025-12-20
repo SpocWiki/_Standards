@@ -80,3 +80,22 @@ Gujarati_Vishwakosh_entry: ત્રિકોણ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Triangle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Triangle](/_Standards/Mathematics/Geometry/Geometry-2D/Triangle.md) 
+
+### #is_/same_as :: [Triangle.public](/_public/Mathematics/Geometry/Geometry-2D/Triangle.public.md) 
+
+### #is_/same_as :: [Triangle.internal](/_internal/Mathematics/Geometry/Geometry-2D/Triangle.internal.md) 
+
+### #is_/same_as :: [Triangle.protect](/_protect/Mathematics/Geometry/Geometry-2D/Triangle.protect.md) 
+
+### #is_/same_as :: [Triangle.private](/_private/Mathematics/Geometry/Geometry-2D/Triangle.private.md) 
+
+### #is_/same_as :: [Triangle.personal](/_personal/Mathematics/Geometry/Geometry-2D/Triangle.personal.md) 
+
+### #is_/same_as :: [Triangle.secret](/_secret/Mathematics/Geometry/Geometry-2D/Triangle.secret.md)
+

@@ -50,3 +50,22 @@ The charm about you
 Will carry me through to Heaven  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cheek_to_Cheek](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred/Cheek_to_Cheek.md) 
+
+### #is_/same_as :: [Cheek_to_Cheek.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred/Cheek_to_Cheek.public.md) 
+
+### #is_/same_as :: [Cheek_to_Cheek.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred/Cheek_to_Cheek.internal.md) 
+
+### #is_/same_as :: [Cheek_to_Cheek.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred/Cheek_to_Cheek.protect.md) 
+
+### #is_/same_as :: [Cheek_to_Cheek.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred/Cheek_to_Cheek.private.md) 
+
+### #is_/same_as :: [Cheek_to_Cheek.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred/Cheek_to_Cheek.personal.md) 
+
+### #is_/same_as :: [Cheek_to_Cheek.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred/Cheek_to_Cheek.secret.md)
+

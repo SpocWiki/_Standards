@@ -136,3 +136,22 @@ ISNI:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Takeshi%20Kitano)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kitano,Takeshi](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.md) 
+
+### #is_/same_as :: [Kitano,Takeshi.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.public.md) 
+
+### #is_/same_as :: [Kitano,Takeshi.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.internal.md) 
+
+### #is_/same_as :: [Kitano,Takeshi.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.protect.md) 
+
+### #is_/same_as :: [Kitano,Takeshi.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.private.md) 
+
+### #is_/same_as :: [Kitano,Takeshi.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.personal.md) 
+
+### #is_/same_as :: [Kitano,Takeshi.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.secret.md)
+

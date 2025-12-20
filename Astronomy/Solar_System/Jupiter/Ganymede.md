@@ -27,3 +27,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ganymede%20(moon)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ganymede](/_Standards/Astronomy/Solar_System/Jupiter/Ganymede.md) 
+
+### #is_/same_as :: [Ganymede.public](/_public/Astronomy/Solar_System/Jupiter/Ganymede.public.md) 
+
+### #is_/same_as :: [Ganymede.internal](/_internal/Astronomy/Solar_System/Jupiter/Ganymede.internal.md) 
+
+### #is_/same_as :: [Ganymede.protect](/_protect/Astronomy/Solar_System/Jupiter/Ganymede.protect.md) 
+
+### #is_/same_as :: [Ganymede.private](/_private/Astronomy/Solar_System/Jupiter/Ganymede.private.md) 
+
+### #is_/same_as :: [Ganymede.personal](/_personal/Astronomy/Solar_System/Jupiter/Ganymede.personal.md) 
+
+### #is_/same_as :: [Ganymede.secret](/_secret/Astronomy/Solar_System/Jupiter/Ganymede.secret.md)
+

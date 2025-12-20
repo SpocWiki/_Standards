@@ -39,17 +39,17 @@ An elementary school.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elementary_School](Elementary_School.md) 
+### #is_/same_as :: [Elementary_School](/_Standards/Society/Agent/Community/Organization/Educational_Organization/Elementary_School.md) 
 
-### #is_/same_as :: [Elementary_School.public](/_public/Society/Organization/Educational_Organization/Elementary_School.public.md) 
+### #is_/same_as :: [Elementary_School.public](/_public/Society/Agent/Community/Organization/Educational_Organization/Elementary_School.public.md) 
 
-### #is_/same_as :: [Elementary_School.internal](/_internal/Society/Organization/Educational_Organization/Elementary_School.internal.md) 
+### #is_/same_as :: [Elementary_School.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/Elementary_School.internal.md) 
 
-### #is_/same_as :: [Elementary_School.protect](/_protect/Society/Organization/Educational_Organization/Elementary_School.protect.md) 
+### #is_/same_as :: [Elementary_School.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/Elementary_School.protect.md) 
 
-### #is_/same_as :: [Elementary_School.private](/_private/Society/Organization/Educational_Organization/Elementary_School.private.md) 
+### #is_/same_as :: [Elementary_School.private](/_private/Society/Agent/Community/Organization/Educational_Organization/Elementary_School.private.md) 
 
-### #is_/same_as :: [Elementary_School.personal](/_personal/Society/Organization/Educational_Organization/Elementary_School.personal.md) 
+### #is_/same_as :: [Elementary_School.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/Elementary_School.personal.md) 
 
-### #is_/same_as :: [Elementary_School.secret](/_secret/Society/Organization/Educational_Organization/Elementary_School.secret.md)
+### #is_/same_as :: [Elementary_School.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/Elementary_School.secret.md)
 

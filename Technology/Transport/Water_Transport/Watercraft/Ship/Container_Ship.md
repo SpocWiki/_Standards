@@ -38,3 +38,22 @@ Commons_category: Container ships
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Container%20ship) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Container_Ship](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.md) 
+
+### #is_/same_as :: [Container_Ship.public](/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.public.md) 
+
+### #is_/same_as :: [Container_Ship.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.internal.md) 
+
+### #is_/same_as :: [Container_Ship.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.protect.md) 
+
+### #is_/same_as :: [Container_Ship.private](/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.private.md) 
+
+### #is_/same_as :: [Container_Ship.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.personal.md) 
+
+### #is_/same_as :: [Container_Ship.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.secret.md)
+

@@ -11,3 +11,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solar%20wind) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Solar_Wind](/_Standards/Astronomy/Solar_System/Sun/Solar_Wind.md) 
+
+### #is_/same_as :: [Solar_Wind.public](/_public/Astronomy/Solar_System/Sun/Solar_Wind.public.md) 
+
+### #is_/same_as :: [Solar_Wind.internal](/_internal/Astronomy/Solar_System/Sun/Solar_Wind.internal.md) 
+
+### #is_/same_as :: [Solar_Wind.protect](/_protect/Astronomy/Solar_System/Sun/Solar_Wind.protect.md) 
+
+### #is_/same_as :: [Solar_Wind.private](/_private/Astronomy/Solar_System/Sun/Solar_Wind.private.md) 
+
+### #is_/same_as :: [Solar_Wind.personal](/_personal/Astronomy/Solar_System/Sun/Solar_Wind.personal.md) 
+
+### #is_/same_as :: [Solar_Wind.secret](/_secret/Astronomy/Solar_System/Sun/Solar_Wind.secret.md)
+

@@ -21,3 +21,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cesia%20(visual%20appearance)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cesia(Optics)](/_Standards/Science/Physics/Wave/Optics/Cesia(Optics).md) 
+
+### #is_/same_as :: [Cesia(Optics).public](/_public/Science/Physics/Wave/Optics/Cesia(Optics).public.md) 
+
+### #is_/same_as :: [Cesia(Optics).internal](/_internal/Science/Physics/Wave/Optics/Cesia(Optics).internal.md) 
+
+### #is_/same_as :: [Cesia(Optics).protect](/_protect/Science/Physics/Wave/Optics/Cesia(Optics).protect.md) 
+
+### #is_/same_as :: [Cesia(Optics).private](/_private/Science/Physics/Wave/Optics/Cesia(Optics).private.md) 
+
+### #is_/same_as :: [Cesia(Optics).personal](/_personal/Science/Physics/Wave/Optics/Cesia(Optics).personal.md) 
+
+### #is_/same_as :: [Cesia(Optics).secret](/_secret/Science/Physics/Wave/Optics/Cesia(Optics).secret.md)
+

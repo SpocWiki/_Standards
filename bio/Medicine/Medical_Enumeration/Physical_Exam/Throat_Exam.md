@@ -38,17 +38,17 @@ Throat assessment with  clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [throat](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.md) 
+### #is_/same_as :: [Throat_Exam](/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Throat_Exam.md) 
 
-### #is_/same_as :: [throat.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.public.md) 
+### #is_/same_as :: [Throat_Exam.public](/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Throat_Exam.public.md) 
 
-### #is_/same_as :: [throat.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.internal.md) 
+### #is_/same_as :: [Throat_Exam.internal](/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Throat_Exam.internal.md) 
 
-### #is_/same_as :: [throat.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.protect.md) 
+### #is_/same_as :: [Throat_Exam.protect](/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Throat_Exam.protect.md) 
 
-### #is_/same_as :: [throat.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.private.md) 
+### #is_/same_as :: [Throat_Exam.private](/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Throat_Exam.private.md) 
 
-### #is_/same_as :: [throat.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.personal.md) 
+### #is_/same_as :: [Throat_Exam.personal](/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Throat_Exam.personal.md) 
 
-### #is_/same_as :: [throat.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.secret.md)
+### #is_/same_as :: [Throat_Exam.secret](/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Throat_Exam.secret.md)
 

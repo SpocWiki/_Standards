@@ -24,3 +24,22 @@ Commons_category: Civil marriage
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Civil%20marriage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Civil_Marriage](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.md) 
+
+### #is_/same_as :: [Civil_Marriage.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.public.md) 
+
+### #is_/same_as :: [Civil_Marriage.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.internal.md) 
+
+### #is_/same_as :: [Civil_Marriage.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.protect.md) 
+
+### #is_/same_as :: [Civil_Marriage.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.private.md) 
+
+### #is_/same_as :: [Civil_Marriage.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.personal.md) 
+
+### #is_/same_as :: [Civil_Marriage.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Civil_Marriage.secret.md)
+

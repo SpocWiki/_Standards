@@ -79,3 +79,22 @@ Commons_category: Mosaics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mosaic) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mosaic](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.md) 
+
+### #is_/same_as :: [Mosaic.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.public.md) 
+
+### #is_/same_as :: [Mosaic.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.internal.md) 
+
+### #is_/same_as :: [Mosaic.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.protect.md) 
+
+### #is_/same_as :: [Mosaic.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.private.md) 
+
+### #is_/same_as :: [Mosaic.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.personal.md) 
+
+### #is_/same_as :: [Mosaic.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.secret.md)
+

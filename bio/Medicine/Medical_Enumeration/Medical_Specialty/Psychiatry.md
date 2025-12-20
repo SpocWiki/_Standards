@@ -95,3 +95,21 @@ Krugosvet_article_archived_: medicina/PSIHIATRIYA.html
 > and its historical role in social control and contentious treatments.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychiatry)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Psychiatry](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.md) 
+
+### #is_/same_as :: [Psychiatry.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.public.md) 
+
+### #is_/same_as :: [Psychiatry.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.internal.md) 
+
+### #is_/same_as :: [Psychiatry.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.protect.md) 
+
+### #is_/same_as :: [Psychiatry.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.private.md) 
+
+### #is_/same_as :: [Psychiatry.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.personal.md) 
+
+### #is_/same_as :: [Psychiatry.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Psychiatry.secret.md)
+

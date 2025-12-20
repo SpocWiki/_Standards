@@ -66,3 +66,22 @@ Unicode_character: 🪑
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chair) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chair](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.md) 
+
+### #is_/same_as :: [Chair.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.public.md) 
+
+### #is_/same_as :: [Chair.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.internal.md) 
+
+### #is_/same_as :: [Chair.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.protect.md) 
+
+### #is_/same_as :: [Chair.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.private.md) 
+
+### #is_/same_as :: [Chair.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.personal.md) 
+
+### #is_/same_as :: [Chair.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.secret.md)
+

@@ -52,3 +52,22 @@ subreddit: fractals
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fractal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fractal](/_Standards/Mathematics/Geometry/Fractal.md) 
+
+### #is_/same_as :: [Fractal.public](/_public/Mathematics/Geometry/Fractal.public.md) 
+
+### #is_/same_as :: [Fractal.internal](/_internal/Mathematics/Geometry/Fractal.internal.md) 
+
+### #is_/same_as :: [Fractal.protect](/_protect/Mathematics/Geometry/Fractal.protect.md) 
+
+### #is_/same_as :: [Fractal.private](/_private/Mathematics/Geometry/Fractal.private.md) 
+
+### #is_/same_as :: [Fractal.personal](/_personal/Mathematics/Geometry/Fractal.personal.md) 
+
+### #is_/same_as :: [Fractal.secret](/_secret/Mathematics/Geometry/Fractal.secret.md)
+

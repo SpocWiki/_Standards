@@ -48,17 +48,17 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Boules%20sports%20picto
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bocce](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Bocce.md) 
+### #is_/same_as :: [Bocce](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Bocce.md) 
 
-### #is_/same_as :: [Bocce.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Bocce.public.md) 
+### #is_/same_as :: [Bocce.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Bocce.public.md) 
 
-### #is_/same_as :: [Bocce.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Bocce.internal.md) 
+### #is_/same_as :: [Bocce.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Bocce.internal.md) 
 
-### #is_/same_as :: [Bocce.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Bocce.protect.md) 
+### #is_/same_as :: [Bocce.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Bocce.protect.md) 
 
-### #is_/same_as :: [Bocce.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Bocce.private.md) 
+### #is_/same_as :: [Bocce.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Bocce.private.md) 
 
-### #is_/same_as :: [Bocce.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Bocce.personal.md) 
+### #is_/same_as :: [Bocce.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Bocce.personal.md) 
 
-### #is_/same_as :: [Bocce.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Bocce.secret.md)
+### #is_/same_as :: [Bocce.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Bocce.secret.md)
 

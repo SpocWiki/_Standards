@@ -59,3 +59,22 @@ OpenStreetMap_tag: natural=wetland
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wetland) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wetland](/_Standards/bio/Ecology/Ecosystem/Wetland.md) 
+
+### #is_/same_as :: [Wetland.public](/_public/bio/Ecology/Ecosystem/Wetland.public.md) 
+
+### #is_/same_as :: [Wetland.internal](/_internal/bio/Ecology/Ecosystem/Wetland.internal.md) 
+
+### #is_/same_as :: [Wetland.protect](/_protect/bio/Ecology/Ecosystem/Wetland.protect.md) 
+
+### #is_/same_as :: [Wetland.private](/_private/bio/Ecology/Ecosystem/Wetland.private.md) 
+
+### #is_/same_as :: [Wetland.personal](/_personal/bio/Ecology/Ecosystem/Wetland.personal.md) 
+
+### #is_/same_as :: [Wetland.secret](/_secret/bio/Ecology/Ecosystem/Wetland.secret.md)
+

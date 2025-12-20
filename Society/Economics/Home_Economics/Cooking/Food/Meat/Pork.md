@@ -52,3 +52,22 @@ Library_of_Congress_Classification: TX556.P8
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pork) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pork](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.md) 
+
+### #is_/same_as :: [Pork.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.public.md) 
+
+### #is_/same_as :: [Pork.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.internal.md) 
+
+### #is_/same_as :: [Pork.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.protect.md) 
+
+### #is_/same_as :: [Pork.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.private.md) 
+
+### #is_/same_as :: [Pork.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.personal.md) 
+
+### #is_/same_as :: [Pork.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.secret.md)
+

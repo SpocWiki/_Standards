@@ -170,3 +170,22 @@ U_S_National_Archives_Identifier: "10568297"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Stewart) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [James_Stewart](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/James_Stewart.md) 
+
+### #is_/same_as :: [James_Stewart.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/James_Stewart.public.md) 
+
+### #is_/same_as :: [James_Stewart.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/James_Stewart.internal.md) 
+
+### #is_/same_as :: [James_Stewart.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/James_Stewart.protect.md) 
+
+### #is_/same_as :: [James_Stewart.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/James_Stewart.private.md) 
+
+### #is_/same_as :: [James_Stewart.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/James_Stewart.personal.md) 
+
+### #is_/same_as :: [James_Stewart.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/James_Stewart.secret.md)
+

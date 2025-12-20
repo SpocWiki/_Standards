@@ -28,3 +28,22 @@ Commons_category: Contrabassoons
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Contrabassoon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Contrabassoon](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.md) 
+
+### #is_/same_as :: [Contrabassoon.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.public.md) 
+
+### #is_/same_as :: [Contrabassoon.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.internal.md) 
+
+### #is_/same_as :: [Contrabassoon.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.protect.md) 
+
+### #is_/same_as :: [Contrabassoon.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.private.md) 
+
+### #is_/same_as :: [Contrabassoon.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.personal.md) 
+
+### #is_/same_as :: [Contrabassoon.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Contrabassoon.secret.md)
+

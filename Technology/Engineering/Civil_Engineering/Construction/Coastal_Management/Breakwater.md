@@ -27,17 +27,17 @@ has_id_wikidata: Q215635
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Breakwater](Breakwater.md) 
+### #is_/same_as :: [Breakwater](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Breakwater.md) 
 
-### #is_/same_as :: [Breakwater.public](/_public/Technology/Construction/Breakwater.public.md) 
+### #is_/same_as :: [Breakwater.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Breakwater.public.md) 
 
-### #is_/same_as :: [Breakwater.internal](/_internal/Technology/Construction/Breakwater.internal.md) 
+### #is_/same_as :: [Breakwater.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Breakwater.internal.md) 
 
-### #is_/same_as :: [Breakwater.protect](/_protect/Technology/Construction/Breakwater.protect.md) 
+### #is_/same_as :: [Breakwater.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Breakwater.protect.md) 
 
-### #is_/same_as :: [Breakwater.private](/_private/Technology/Construction/Breakwater.private.md) 
+### #is_/same_as :: [Breakwater.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Breakwater.private.md) 
 
-### #is_/same_as :: [Breakwater.personal](/_personal/Technology/Construction/Breakwater.personal.md) 
+### #is_/same_as :: [Breakwater.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Breakwater.personal.md) 
 
-### #is_/same_as :: [Breakwater.secret](/_secret/Technology/Construction/Breakwater.secret.md)
+### #is_/same_as :: [Breakwater.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Breakwater.secret.md)
 

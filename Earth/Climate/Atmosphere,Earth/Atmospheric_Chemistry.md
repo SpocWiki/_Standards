@@ -36,17 +36,17 @@ Krugosvet_article:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atmospheric_Chemistry](/_Standards/Earth/Atmosphere,Earth/Atmospheric_Chemistry.md) 
+### #is_/same_as :: [Atmospheric_Chemistry](/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Chemistry.md) 
 
-### #is_/same_as :: [Atmospheric_Chemistry.public](/_public/Earth/Atmosphere,Earth/Atmospheric_Chemistry.public.md) 
+### #is_/same_as :: [Atmospheric_Chemistry.public](/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Chemistry.public.md) 
 
-### #is_/same_as :: [Atmospheric_Chemistry.internal](/_internal/Earth/Atmosphere,Earth/Atmospheric_Chemistry.internal.md) 
+### #is_/same_as :: [Atmospheric_Chemistry.internal](/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Chemistry.internal.md) 
 
-### #is_/same_as :: [Atmospheric_Chemistry.protect](/_protect/Earth/Atmosphere,Earth/Atmospheric_Chemistry.protect.md) 
+### #is_/same_as :: [Atmospheric_Chemistry.protect](/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Chemistry.protect.md) 
 
-### #is_/same_as :: [Atmospheric_Chemistry.private](/_private/Earth/Atmosphere,Earth/Atmospheric_Chemistry.private.md) 
+### #is_/same_as :: [Atmospheric_Chemistry.private](/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Chemistry.private.md) 
 
-### #is_/same_as :: [Atmospheric_Chemistry.personal](/_personal/Earth/Atmosphere,Earth/Atmospheric_Chemistry.personal.md) 
+### #is_/same_as :: [Atmospheric_Chemistry.personal](/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Chemistry.personal.md) 
 
-### #is_/same_as :: [Atmospheric_Chemistry.secret](/_secret/Earth/Atmosphere,Earth/Atmospheric_Chemistry.secret.md)
+### #is_/same_as :: [Atmospheric_Chemistry.secret](/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Chemistry.secret.md)
 

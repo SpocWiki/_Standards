@@ -53,3 +53,22 @@ Baidu_Tieba_name: 马拉松
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marathon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Marathon](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.md) 
+
+### #is_/same_as :: [Marathon.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.public.md) 
+
+### #is_/same_as :: [Marathon.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.internal.md) 
+
+### #is_/same_as :: [Marathon.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.protect.md) 
+
+### #is_/same_as :: [Marathon.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.private.md) 
+
+### #is_/same_as :: [Marathon.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.personal.md) 
+
+### #is_/same_as :: [Marathon.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Marathon.secret.md)
+

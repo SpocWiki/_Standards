@@ -13,3 +13,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Halocarbon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Halocarbon](/_Standards/Chemistry/Organic_Chemistry/Halocarbon.md) 
+
+### #is_/same_as :: [Halocarbon.public](/_public/Chemistry/Organic_Chemistry/Halocarbon.public.md) 
+
+### #is_/same_as :: [Halocarbon.internal](/_internal/Chemistry/Organic_Chemistry/Halocarbon.internal.md) 
+
+### #is_/same_as :: [Halocarbon.protect](/_protect/Chemistry/Organic_Chemistry/Halocarbon.protect.md) 
+
+### #is_/same_as :: [Halocarbon.private](/_private/Chemistry/Organic_Chemistry/Halocarbon.private.md) 
+
+### #is_/same_as :: [Halocarbon.personal](/_personal/Chemistry/Organic_Chemistry/Halocarbon.personal.md) 
+
+### #is_/same_as :: [Halocarbon.secret](/_secret/Chemistry/Organic_Chemistry/Halocarbon.secret.md)
+

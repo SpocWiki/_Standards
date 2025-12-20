@@ -60,3 +60,22 @@ PhilPapers_topic: representative-democracy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Representative%20democracy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Representative_Democracy](/_Standards/Society/Politics/Government/Democracy/Representative_Democracy.md) 
+
+### #is_/same_as :: [Representative_Democracy.public](/_public/Society/Politics/Government/Democracy/Representative_Democracy.public.md) 
+
+### #is_/same_as :: [Representative_Democracy.internal](/_internal/Society/Politics/Government/Democracy/Representative_Democracy.internal.md) 
+
+### #is_/same_as :: [Representative_Democracy.protect](/_protect/Society/Politics/Government/Democracy/Representative_Democracy.protect.md) 
+
+### #is_/same_as :: [Representative_Democracy.private](/_private/Society/Politics/Government/Democracy/Representative_Democracy.private.md) 
+
+### #is_/same_as :: [Representative_Democracy.personal](/_personal/Society/Politics/Government/Democracy/Representative_Democracy.personal.md) 
+
+### #is_/same_as :: [Representative_Democracy.secret](/_secret/Society/Politics/Government/Democracy/Representative_Democracy.secret.md)
+

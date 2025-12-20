@@ -37,3 +37,22 @@ name_in_native_language: Κασσιόπη
 > [Wikipedia](https://en.wikipedia.org/wiki/Cassiopeia%20(mother%20of%20Andromeda)) 
 
 #is_/same_as :: [[/_Standards/WikiData/WD~Cassiopeia,207681]]
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cassiopeia(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cassiopeia(Mythology).md) 
+
+### #is_/same_as :: [Cassiopeia(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cassiopeia(Mythology).public.md) 
+
+### #is_/same_as :: [Cassiopeia(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cassiopeia(Mythology).internal.md) 
+
+### #is_/same_as :: [Cassiopeia(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cassiopeia(Mythology).protect.md) 
+
+### #is_/same_as :: [Cassiopeia(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cassiopeia(Mythology).private.md) 
+
+### #is_/same_as :: [Cassiopeia(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cassiopeia(Mythology).personal.md) 
+
+### #is_/same_as :: [Cassiopeia(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cassiopeia(Mythology).secret.md)
+

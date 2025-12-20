@@ -40,17 +40,17 @@ A system of medicine focused on the relationship between the body's structure, m
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [chiropractic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.md) 
+### #is_/same_as :: [Chiropractic](/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.md) 
 
-### #is_/same_as :: [chiropractic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.public.md) 
+### #is_/same_as :: [Chiropractic.public](/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.public.md) 
 
-### #is_/same_as :: [chiropractic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.internal.md) 
+### #is_/same_as :: [Chiropractic.internal](/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.internal.md) 
 
-### #is_/same_as :: [chiropractic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.protect.md) 
+### #is_/same_as :: [Chiropractic.protect](/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.protect.md) 
 
-### #is_/same_as :: [chiropractic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.private.md) 
+### #is_/same_as :: [Chiropractic.private](/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.private.md) 
 
-### #is_/same_as :: [chiropractic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.personal.md) 
+### #is_/same_as :: [Chiropractic.personal](/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.personal.md) 
 
-### #is_/same_as :: [chiropractic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.secret.md)
+### #is_/same_as :: [Chiropractic.secret](/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Chiropractic.secret.md)
 

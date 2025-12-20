@@ -50,3 +50,22 @@ described_at_URL: https://web.archive.org/web/20230624225034/https://www.hamburg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fa%C3%A7ade) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Façade](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.md) 
+
+### #is_/same_as :: [Façade.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.public.md) 
+
+### #is_/same_as :: [Façade.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.internal.md) 
+
+### #is_/same_as :: [Façade.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.protect.md) 
+
+### #is_/same_as :: [Façade.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.private.md) 
+
+### #is_/same_as :: [Façade.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.personal.md) 
+
+### #is_/same_as :: [Façade.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.secret.md)
+

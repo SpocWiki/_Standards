@@ -53,3 +53,22 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Diels%C3%A4gen%20auf%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lumber) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lumber](/_Standards/Chemistry/Material/Lumber.md) 
+
+### #is_/same_as :: [Lumber.public](/_public/Chemistry/Material/Lumber.public.md) 
+
+### #is_/same_as :: [Lumber.internal](/_internal/Chemistry/Material/Lumber.internal.md) 
+
+### #is_/same_as :: [Lumber.protect](/_protect/Chemistry/Material/Lumber.protect.md) 
+
+### #is_/same_as :: [Lumber.private](/_private/Chemistry/Material/Lumber.private.md) 
+
+### #is_/same_as :: [Lumber.personal](/_personal/Chemistry/Material/Lumber.personal.md) 
+
+### #is_/same_as :: [Lumber.secret](/_secret/Chemistry/Material/Lumber.secret.md)
+

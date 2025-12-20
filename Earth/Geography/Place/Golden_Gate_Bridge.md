@@ -104,3 +104,22 @@ Danbooru_tag: golden_gate_bridge
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Golden%20Gate%20Bridge) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Golden_Gate_Bridge](/_Standards/Earth/Geography/Place/Golden_Gate_Bridge.md) 
+
+### #is_/same_as :: [Golden_Gate_Bridge.public](/_public/Earth/Geography/Place/Golden_Gate_Bridge.public.md) 
+
+### #is_/same_as :: [Golden_Gate_Bridge.internal](/_internal/Earth/Geography/Place/Golden_Gate_Bridge.internal.md) 
+
+### #is_/same_as :: [Golden_Gate_Bridge.protect](/_protect/Earth/Geography/Place/Golden_Gate_Bridge.protect.md) 
+
+### #is_/same_as :: [Golden_Gate_Bridge.private](/_private/Earth/Geography/Place/Golden_Gate_Bridge.private.md) 
+
+### #is_/same_as :: [Golden_Gate_Bridge.personal](/_personal/Earth/Geography/Place/Golden_Gate_Bridge.personal.md) 
+
+### #is_/same_as :: [Golden_Gate_Bridge.secret](/_secret/Earth/Geography/Place/Golden_Gate_Bridge.secret.md)
+

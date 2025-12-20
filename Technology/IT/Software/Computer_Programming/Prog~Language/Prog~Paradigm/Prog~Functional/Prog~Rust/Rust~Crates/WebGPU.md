@@ -17,3 +17,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/WebGPU)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [WebGPU](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGPU.md) 
+
+### #is_/same_as :: [WebGPU.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGPU.public.md) 
+
+### #is_/same_as :: [WebGPU.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGPU.internal.md) 
+
+### #is_/same_as :: [WebGPU.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGPU.protect.md) 
+
+### #is_/same_as :: [WebGPU.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGPU.private.md) 
+
+### #is_/same_as :: [WebGPU.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGPU.personal.md) 
+
+### #is_/same_as :: [WebGPU.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGPU.secret.md)
+

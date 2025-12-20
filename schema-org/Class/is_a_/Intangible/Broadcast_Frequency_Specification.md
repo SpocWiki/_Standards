@@ -39,17 +39,17 @@ The frequency in MHz and the modulation used for a particular BroadcastService.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [broadcast_frequency_specification](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.md) 
+### #is_/same_as :: [Broadcast_Frequency_Specification](/_Standards/schema-org/Class/is_a_/Intangible/Broadcast_Frequency_Specification.md) 
 
-### #is_/same_as :: [broadcast_frequency_specification.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.public.md) 
+### #is_/same_as :: [Broadcast_Frequency_Specification.public](/_public/schema-org/Class/is_a_/Intangible/Broadcast_Frequency_Specification.public.md) 
 
-### #is_/same_as :: [broadcast_frequency_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.internal.md) 
+### #is_/same_as :: [Broadcast_Frequency_Specification.internal](/_internal/schema-org/Class/is_a_/Intangible/Broadcast_Frequency_Specification.internal.md) 
 
-### #is_/same_as :: [broadcast_frequency_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.protect.md) 
+### #is_/same_as :: [Broadcast_Frequency_Specification.protect](/_protect/schema-org/Class/is_a_/Intangible/Broadcast_Frequency_Specification.protect.md) 
 
-### #is_/same_as :: [broadcast_frequency_specification.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.private.md) 
+### #is_/same_as :: [Broadcast_Frequency_Specification.private](/_private/schema-org/Class/is_a_/Intangible/Broadcast_Frequency_Specification.private.md) 
 
-### #is_/same_as :: [broadcast_frequency_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.personal.md) 
+### #is_/same_as :: [Broadcast_Frequency_Specification.personal](/_personal/schema-org/Class/is_a_/Intangible/Broadcast_Frequency_Specification.personal.md) 
 
-### #is_/same_as :: [broadcast_frequency_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.secret.md)
+### #is_/same_as :: [Broadcast_Frequency_Specification.secret](/_secret/schema-org/Class/is_a_/Intangible/Broadcast_Frequency_Specification.secret.md)
 

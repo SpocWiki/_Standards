@@ -27,17 +27,17 @@ has_id_wikidata: Q6786
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bottom_Quark](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Bottom_Quark.md) 
+### #is_/same_as :: [Bottom_Quark](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.md) 
 
-### #is_/same_as :: [Bottom_Quark.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Bottom_Quark.public.md) 
+### #is_/same_as :: [Bottom_Quark.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.public.md) 
 
-### #is_/same_as :: [Bottom_Quark.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Bottom_Quark.internal.md) 
+### #is_/same_as :: [Bottom_Quark.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.internal.md) 
 
-### #is_/same_as :: [Bottom_Quark.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Bottom_Quark.protect.md) 
+### #is_/same_as :: [Bottom_Quark.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.protect.md) 
 
-### #is_/same_as :: [Bottom_Quark.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Bottom_Quark.private.md) 
+### #is_/same_as :: [Bottom_Quark.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.private.md) 
 
-### #is_/same_as :: [Bottom_Quark.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Bottom_Quark.personal.md) 
+### #is_/same_as :: [Bottom_Quark.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.personal.md) 
 
-### #is_/same_as :: [Bottom_Quark.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Bottom_Quark.secret.md)
+### #is_/same_as :: [Bottom_Quark.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Bottom_Quark.secret.md)
 

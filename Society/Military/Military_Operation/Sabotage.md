@@ -69,3 +69,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sabotage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sabotage](/_Standards/Society/Military/Military_Operation/Sabotage.md) 
+
+### #is_/same_as :: [Sabotage.public](/_public/Society/Military/Military_Operation/Sabotage.public.md) 
+
+### #is_/same_as :: [Sabotage.internal](/_internal/Society/Military/Military_Operation/Sabotage.internal.md) 
+
+### #is_/same_as :: [Sabotage.protect](/_protect/Society/Military/Military_Operation/Sabotage.protect.md) 
+
+### #is_/same_as :: [Sabotage.private](/_private/Society/Military/Military_Operation/Sabotage.private.md) 
+
+### #is_/same_as :: [Sabotage.personal](/_personal/Society/Military/Military_Operation/Sabotage.personal.md) 
+
+### #is_/same_as :: [Sabotage.secret](/_secret/Society/Military/Military_Operation/Sabotage.secret.md)
+

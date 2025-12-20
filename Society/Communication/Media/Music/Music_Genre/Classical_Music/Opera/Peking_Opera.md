@@ -82,3 +82,22 @@ inception: 1790-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peking%20opera) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Peking_Opera](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.md) 
+
+### #is_/same_as :: [Peking_Opera.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.public.md) 
+
+### #is_/same_as :: [Peking_Opera.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.internal.md) 
+
+### #is_/same_as :: [Peking_Opera.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.protect.md) 
+
+### #is_/same_as :: [Peking_Opera.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.private.md) 
+
+### #is_/same_as :: [Peking_Opera.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.personal.md) 
+
+### #is_/same_as :: [Peking_Opera.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.secret.md)
+

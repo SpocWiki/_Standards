@@ -40,17 +40,17 @@ Indicates that the item is in stock.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [In_Stock](In_Stock.md) 
+### #is_/same_as :: [In_Stock](/_Standards/schema-org/Enumeration/Item_Availability/In_Stock.md) 
 
-### #is_/same_as :: [in_stock.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_stock.public.md) 
+### #is_/same_as :: [In_Stock.public](/_public/schema-org/Enumeration/Item_Availability/In_Stock.public.md) 
 
-### #is_/same_as :: [in_stock.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_stock.internal.md) 
+### #is_/same_as :: [In_Stock.internal](/_internal/schema-org/Enumeration/Item_Availability/In_Stock.internal.md) 
 
-### #is_/same_as :: [in_stock.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_stock.protect.md) 
+### #is_/same_as :: [In_Stock.protect](/_protect/schema-org/Enumeration/Item_Availability/In_Stock.protect.md) 
 
-### #is_/same_as :: [in_stock.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_stock.private.md) 
+### #is_/same_as :: [In_Stock.private](/_private/schema-org/Enumeration/Item_Availability/In_Stock.private.md) 
 
-### #is_/same_as :: [in_stock.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_stock.personal.md) 
+### #is_/same_as :: [In_Stock.personal](/_personal/schema-org/Enumeration/Item_Availability/In_Stock.personal.md) 
 
-### #is_/same_as :: [in_stock.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_stock.secret.md)
+### #is_/same_as :: [In_Stock.secret](/_secret/schema-org/Enumeration/Item_Availability/In_Stock.secret.md)
 

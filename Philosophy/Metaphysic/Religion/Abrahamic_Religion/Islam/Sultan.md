@@ -78,3 +78,22 @@ Commons_category: Sultans
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sultan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sultan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sultan.md) 
+
+### #is_/same_as :: [Sultan.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sultan.public.md) 
+
+### #is_/same_as :: [Sultan.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sultan.internal.md) 
+
+### #is_/same_as :: [Sultan.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sultan.protect.md) 
+
+### #is_/same_as :: [Sultan.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sultan.private.md) 
+
+### #is_/same_as :: [Sultan.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sultan.personal.md) 
+
+### #is_/same_as :: [Sultan.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sultan.secret.md)
+

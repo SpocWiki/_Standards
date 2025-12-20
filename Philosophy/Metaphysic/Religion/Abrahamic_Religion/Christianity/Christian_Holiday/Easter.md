@@ -83,3 +83,22 @@ IPTC_NewsCode: mediatopic/20000692
 > Easter traditions vary across the Christian world, and include sunrise services or late-night vigils, exclamations and exchanges of Paschal greetings, flowering the cross, the wearing of Easter bonnets by women, clipping the church, and the decoration and the communal breaking of Easter eggs (a symbol of the empty tomb). The Easter lily, a symbol of the resurrection in Western Christianity, traditionally decorates the chancel area of churches on this day and for the rest of Eastertide. In addition to the viewing of Passion Plays during Lent and Easter, many television channels air films related to the resurrection, such as The Passion of the Christ, The Greatest Story Ever Told and The Jesus Film. Additional customs that have become associated with Easter and are observed by both Christians and some non-Christians include Easter parades, communal dancing (Eastern Europe), the Easter Bunny and egg hunting. There are also traditional Easter foods that vary by region and culture.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Easter) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Easter](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.md) 
+
+### #is_/same_as :: [Easter.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.public.md) 
+
+### #is_/same_as :: [Easter.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.internal.md) 
+
+### #is_/same_as :: [Easter.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.protect.md) 
+
+### #is_/same_as :: [Easter.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.private.md) 
+
+### #is_/same_as :: [Easter.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.personal.md) 
+
+### #is_/same_as :: [Easter.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.secret.md)
+

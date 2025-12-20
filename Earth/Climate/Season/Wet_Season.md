@@ -35,3 +35,22 @@ Commons_category: Wet season
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wet%20season) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wet_Season](/_Standards/Earth/Climate/Season/Wet_Season.md) 
+
+### #is_/same_as :: [Wet_Season.public](/_public/Earth/Climate/Season/Wet_Season.public.md) 
+
+### #is_/same_as :: [Wet_Season.internal](/_internal/Earth/Climate/Season/Wet_Season.internal.md) 
+
+### #is_/same_as :: [Wet_Season.protect](/_protect/Earth/Climate/Season/Wet_Season.protect.md) 
+
+### #is_/same_as :: [Wet_Season.private](/_private/Earth/Climate/Season/Wet_Season.private.md) 
+
+### #is_/same_as :: [Wet_Season.personal](/_personal/Earth/Climate/Season/Wet_Season.personal.md) 
+
+### #is_/same_as :: [Wet_Season.secret](/_secret/Earth/Climate/Season/Wet_Season.secret.md)
+

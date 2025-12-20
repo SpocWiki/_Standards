@@ -32,17 +32,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [AMD(Advanced_Micro_Devices)](AMD(Advanced_Micro_Devices).md) 
+### #is_/same_as :: [AMD(Advanced_Micro_Devices)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/AMD(Advanced_Micro_Devices).md) 
 
-### #is_/same_as :: [AMD(Advanced_Micro_Devices).public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/AMD(Advanced_Micro_Devices).public.md) 
+### #is_/same_as :: [AMD(Advanced_Micro_Devices).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/AMD(Advanced_Micro_Devices).public.md) 
 
-### #is_/same_as :: [AMD(Advanced_Micro_Devices).internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/AMD(Advanced_Micro_Devices).internal.md) 
+### #is_/same_as :: [AMD(Advanced_Micro_Devices).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/AMD(Advanced_Micro_Devices).internal.md) 
 
-### #is_/same_as :: [AMD(Advanced_Micro_Devices).protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/AMD(Advanced_Micro_Devices).protect.md) 
+### #is_/same_as :: [AMD(Advanced_Micro_Devices).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/AMD(Advanced_Micro_Devices).protect.md) 
 
-### #is_/same_as :: [AMD(Advanced_Micro_Devices).private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/AMD(Advanced_Micro_Devices).private.md) 
+### #is_/same_as :: [AMD(Advanced_Micro_Devices).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/AMD(Advanced_Micro_Devices).private.md) 
 
-### #is_/same_as :: [AMD(Advanced_Micro_Devices).personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/AMD(Advanced_Micro_Devices).personal.md) 
+### #is_/same_as :: [AMD(Advanced_Micro_Devices).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/AMD(Advanced_Micro_Devices).personal.md) 
 
-### #is_/same_as :: [AMD(Advanced_Micro_Devices).secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/AMD(Advanced_Micro_Devices).secret.md)
+### #is_/same_as :: [AMD(Advanced_Micro_Devices).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/AMD(Advanced_Micro_Devices).secret.md)
 

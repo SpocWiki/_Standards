@@ -70,3 +70,22 @@ OpenStreetMap_tag: healthcare:speciality=ophthalmology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ophthalmology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ophthalmology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.md) 
+
+### #is_/same_as :: [Ophthalmology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.public.md) 
+
+### #is_/same_as :: [Ophthalmology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.internal.md) 
+
+### #is_/same_as :: [Ophthalmology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.protect.md) 
+
+### #is_/same_as :: [Ophthalmology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.private.md) 
+
+### #is_/same_as :: [Ophthalmology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.personal.md) 
+
+### #is_/same_as :: [Ophthalmology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.secret.md)
+

@@ -48,3 +48,22 @@ Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/particles
 > [Wikipedia](https://en.wikipedia.org/wiki/Particle) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Particle](/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Particle.md) 
+
+### #is_/same_as :: [Particle.public](/_public/Science/Physics/Classical_Mechanics/Kinematics/Particle.public.md) 
+
+### #is_/same_as :: [Particle.internal](/_internal/Science/Physics/Classical_Mechanics/Kinematics/Particle.internal.md) 
+
+### #is_/same_as :: [Particle.protect](/_protect/Science/Physics/Classical_Mechanics/Kinematics/Particle.protect.md) 
+
+### #is_/same_as :: [Particle.private](/_private/Science/Physics/Classical_Mechanics/Kinematics/Particle.private.md) 
+
+### #is_/same_as :: [Particle.personal](/_personal/Science/Physics/Classical_Mechanics/Kinematics/Particle.personal.md) 
+
+### #is_/same_as :: [Particle.secret](/_secret/Science/Physics/Classical_Mechanics/Kinematics/Particle.secret.md)
+

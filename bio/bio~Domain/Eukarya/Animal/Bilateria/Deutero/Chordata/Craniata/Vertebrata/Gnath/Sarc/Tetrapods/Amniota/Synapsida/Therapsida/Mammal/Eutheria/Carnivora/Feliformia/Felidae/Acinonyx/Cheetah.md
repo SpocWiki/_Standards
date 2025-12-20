@@ -124,3 +124,22 @@ taxon_common_name: gepard grzywiasty
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cheetah) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cheetah](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Acinonyx/Cheetah.md) 
+
+### #is_/same_as :: [Cheetah.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Acinonyx/Cheetah.public.md) 
+
+### #is_/same_as :: [Cheetah.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Acinonyx/Cheetah.internal.md) 
+
+### #is_/same_as :: [Cheetah.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Acinonyx/Cheetah.protect.md) 
+
+### #is_/same_as :: [Cheetah.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Acinonyx/Cheetah.private.md) 
+
+### #is_/same_as :: [Cheetah.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Acinonyx/Cheetah.personal.md) 
+
+### #is_/same_as :: [Cheetah.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Acinonyx/Cheetah.secret.md)
+

@@ -8,3 +8,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Godparent) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Godparent](/_Standards/Society/Agent/Community/Clan/Godparent.md) 
+
+### #is_/same_as :: [Godparent.public](/_public/Society/Agent/Community/Clan/Godparent.public.md) 
+
+### #is_/same_as :: [Godparent.internal](/_internal/Society/Agent/Community/Clan/Godparent.internal.md) 
+
+### #is_/same_as :: [Godparent.protect](/_protect/Society/Agent/Community/Clan/Godparent.protect.md) 
+
+### #is_/same_as :: [Godparent.private](/_private/Society/Agent/Community/Clan/Godparent.private.md) 
+
+### #is_/same_as :: [Godparent.personal](/_personal/Society/Agent/Community/Clan/Godparent.personal.md) 
+
+### #is_/same_as :: [Godparent.secret](/_secret/Society/Agent/Community/Clan/Godparent.secret.md)
+

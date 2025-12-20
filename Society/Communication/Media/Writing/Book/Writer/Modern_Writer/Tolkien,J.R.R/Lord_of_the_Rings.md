@@ -121,3 +121,21 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Hobbiton%20banne
 > Award-winning adaptations of The Lord of the Rings have been made for radio, theatre, and film. It was named Britain's best-loved novel of all time in a 2003 poll by the BBC called The Big Read.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Lord%20of%20the%20Rings)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lord_of_the_Rings](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.md) 
+
+### #is_/same_as :: [Lord_of_the_Rings.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.public.md) 
+
+### #is_/same_as :: [Lord_of_the_Rings.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.internal.md) 
+
+### #is_/same_as :: [Lord_of_the_Rings.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.protect.md) 
+
+### #is_/same_as :: [Lord_of_the_Rings.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.private.md) 
+
+### #is_/same_as :: [Lord_of_the_Rings.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.personal.md) 
+
+### #is_/same_as :: [Lord_of_the_Rings.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.secret.md)
+

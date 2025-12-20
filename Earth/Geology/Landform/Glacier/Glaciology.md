@@ -46,3 +46,22 @@ Commons_category: Glaciology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Glaciology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Glaciology](/_Standards/Earth/Geology/Landform/Glacier/Glaciology.md) 
+
+### #is_/same_as :: [Glaciology.public](/_public/Earth/Geology/Landform/Glacier/Glaciology.public.md) 
+
+### #is_/same_as :: [Glaciology.internal](/_internal/Earth/Geology/Landform/Glacier/Glaciology.internal.md) 
+
+### #is_/same_as :: [Glaciology.protect](/_protect/Earth/Geology/Landform/Glacier/Glaciology.protect.md) 
+
+### #is_/same_as :: [Glaciology.private](/_private/Earth/Geology/Landform/Glacier/Glaciology.private.md) 
+
+### #is_/same_as :: [Glaciology.personal](/_personal/Earth/Geology/Landform/Glacier/Glaciology.personal.md) 
+
+### #is_/same_as :: [Glaciology.secret](/_secret/Earth/Geology/Landform/Glacier/Glaciology.secret.md)
+

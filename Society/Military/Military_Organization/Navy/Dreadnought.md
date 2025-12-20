@@ -44,3 +44,22 @@ has_id_wikidata: Q847109
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dreadnought) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dreadnought](/_Standards/Society/Military/Military_Organization/Navy/Dreadnought.md) 
+
+### #is_/same_as :: [Dreadnought.public](/_public/Society/Military/Military_Organization/Navy/Dreadnought.public.md) 
+
+### #is_/same_as :: [Dreadnought.internal](/_internal/Society/Military/Military_Organization/Navy/Dreadnought.internal.md) 
+
+### #is_/same_as :: [Dreadnought.protect](/_protect/Society/Military/Military_Organization/Navy/Dreadnought.protect.md) 
+
+### #is_/same_as :: [Dreadnought.private](/_private/Society/Military/Military_Organization/Navy/Dreadnought.private.md) 
+
+### #is_/same_as :: [Dreadnought.personal](/_personal/Society/Military/Military_Organization/Navy/Dreadnought.personal.md) 
+
+### #is_/same_as :: [Dreadnought.secret](/_secret/Society/Military/Military_Organization/Navy/Dreadnought.secret.md)
+

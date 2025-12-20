@@ -27,3 +27,22 @@ has_id_wikidata: Q124946
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gardening) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gardening](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.md) 
+
+### #is_/same_as :: [Gardening.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.public.md) 
+
+### #is_/same_as :: [Gardening.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.internal.md) 
+
+### #is_/same_as :: [Gardening.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.protect.md) 
+
+### #is_/same_as :: [Gardening.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.private.md) 
+
+### #is_/same_as :: [Gardening.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.personal.md) 
+
+### #is_/same_as :: [Gardening.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.secret.md)
+

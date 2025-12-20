@@ -49,3 +49,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Satellite%20navigation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Global_Navigation_Satellite_System](/_Standards/Earth/Geography/Cartography/Global_Navigation_Satellite_System.md) 
+
+### #is_/same_as :: [Global_Navigation_Satellite_System.public](/_public/Earth/Geography/Cartography/Global_Navigation_Satellite_System.public.md) 
+
+### #is_/same_as :: [Global_Navigation_Satellite_System.internal](/_internal/Earth/Geography/Cartography/Global_Navigation_Satellite_System.internal.md) 
+
+### #is_/same_as :: [Global_Navigation_Satellite_System.protect](/_protect/Earth/Geography/Cartography/Global_Navigation_Satellite_System.protect.md) 
+
+### #is_/same_as :: [Global_Navigation_Satellite_System.private](/_private/Earth/Geography/Cartography/Global_Navigation_Satellite_System.private.md) 
+
+### #is_/same_as :: [Global_Navigation_Satellite_System.personal](/_personal/Earth/Geography/Cartography/Global_Navigation_Satellite_System.personal.md) 
+
+### #is_/same_as :: [Global_Navigation_Satellite_System.secret](/_secret/Earth/Geography/Cartography/Global_Navigation_Satellite_System.secret.md)
+

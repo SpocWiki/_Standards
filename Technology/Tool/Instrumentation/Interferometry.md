@@ -21,3 +21,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Interferometry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Interferometry](/_Standards/Technology/Tool/Instrumentation/Interferometry.md) 
+
+### #is_/same_as :: [Interferometry.public](/_public/Technology/Tool/Instrumentation/Interferometry.public.md) 
+
+### #is_/same_as :: [Interferometry.internal](/_internal/Technology/Tool/Instrumentation/Interferometry.internal.md) 
+
+### #is_/same_as :: [Interferometry.protect](/_protect/Technology/Tool/Instrumentation/Interferometry.protect.md) 
+
+### #is_/same_as :: [Interferometry.private](/_private/Technology/Tool/Instrumentation/Interferometry.private.md) 
+
+### #is_/same_as :: [Interferometry.personal](/_personal/Technology/Tool/Instrumentation/Interferometry.personal.md) 
+
+### #is_/same_as :: [Interferometry.secret](/_secret/Technology/Tool/Instrumentation/Interferometry.secret.md)
+

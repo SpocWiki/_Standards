@@ -48,3 +48,22 @@ Library_of_Congress_Classification: BF575.S23
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sadness) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sadness](/_Standards/bio/Psychology/Affect/Emotion/Sadness.md) 
+
+### #is_/same_as :: [Sadness.public](/_public/bio/Psychology/Affect/Emotion/Sadness.public.md) 
+
+### #is_/same_as :: [Sadness.internal](/_internal/bio/Psychology/Affect/Emotion/Sadness.internal.md) 
+
+### #is_/same_as :: [Sadness.protect](/_protect/bio/Psychology/Affect/Emotion/Sadness.protect.md) 
+
+### #is_/same_as :: [Sadness.private](/_private/bio/Psychology/Affect/Emotion/Sadness.private.md) 
+
+### #is_/same_as :: [Sadness.personal](/_personal/bio/Psychology/Affect/Emotion/Sadness.personal.md) 
+
+### #is_/same_as :: [Sadness.secret](/_secret/bio/Psychology/Affect/Emotion/Sadness.secret.md)
+

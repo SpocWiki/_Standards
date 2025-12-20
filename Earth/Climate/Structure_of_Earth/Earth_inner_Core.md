@@ -42,3 +42,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCnyan%C4%B1n%20i
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Earth's%20inner%20core) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Earth_inner_Core](/_Standards/Earth/Climate/Structure_of_Earth/Earth_inner_Core.md) 
+
+### #is_/same_as :: [Earth_inner_Core.public](/_public/Earth/Climate/Structure_of_Earth/Earth_inner_Core.public.md) 
+
+### #is_/same_as :: [Earth_inner_Core.internal](/_internal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.internal.md) 
+
+### #is_/same_as :: [Earth_inner_Core.protect](/_protect/Earth/Climate/Structure_of_Earth/Earth_inner_Core.protect.md) 
+
+### #is_/same_as :: [Earth_inner_Core.private](/_private/Earth/Climate/Structure_of_Earth/Earth_inner_Core.private.md) 
+
+### #is_/same_as :: [Earth_inner_Core.personal](/_personal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.personal.md) 
+
+### #is_/same_as :: [Earth_inner_Core.secret](/_secret/Earth/Climate/Structure_of_Earth/Earth_inner_Core.secret.md)
+

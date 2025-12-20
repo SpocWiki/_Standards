@@ -107,3 +107,22 @@ name_in_hiero_markup: st:D4-A40
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Osiris) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Osiris](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.md) 
+
+### #is_/same_as :: [Osiris.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.public.md) 
+
+### #is_/same_as :: [Osiris.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.internal.md) 
+
+### #is_/same_as :: [Osiris.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.protect.md) 
+
+### #is_/same_as :: [Osiris.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.private.md) 
+
+### #is_/same_as :: [Osiris.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.personal.md) 
+
+### #is_/same_as :: [Osiris.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.secret.md)
+

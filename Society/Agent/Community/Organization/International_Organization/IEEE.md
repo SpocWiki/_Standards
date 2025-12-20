@@ -172,3 +172,22 @@ X_Twitter_username: ieeeorg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Institute%20of%20Electrical%20and%20Electronics%20Engineers) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [IEEE](/_Standards/Society/Agent/Community/Organization/International_Organization/IEEE.md) 
+
+### #is_/same_as :: [IEEE.public](/_public/Society/Agent/Community/Organization/International_Organization/IEEE.public.md) 
+
+### #is_/same_as :: [IEEE.internal](/_internal/Society/Agent/Community/Organization/International_Organization/IEEE.internal.md) 
+
+### #is_/same_as :: [IEEE.protect](/_protect/Society/Agent/Community/Organization/International_Organization/IEEE.protect.md) 
+
+### #is_/same_as :: [IEEE.private](/_private/Society/Agent/Community/Organization/International_Organization/IEEE.private.md) 
+
+### #is_/same_as :: [IEEE.personal](/_personal/Society/Agent/Community/Organization/International_Organization/IEEE.personal.md) 
+
+### #is_/same_as :: [IEEE.secret](/_secret/Society/Agent/Community/Organization/International_Organization/IEEE.secret.md)
+

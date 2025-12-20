@@ -86,3 +86,22 @@ Dewey_Decimal_Classification: "294.3927"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zen](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.md) 
+
+### #is_/same_as :: [Zen.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.public.md) 
+
+### #is_/same_as :: [Zen.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.internal.md) 
+
+### #is_/same_as :: [Zen.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.protect.md) 
+
+### #is_/same_as :: [Zen.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.private.md) 
+
+### #is_/same_as :: [Zen.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.personal.md) 
+
+### #is_/same_as :: [Zen.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.secret.md)
+

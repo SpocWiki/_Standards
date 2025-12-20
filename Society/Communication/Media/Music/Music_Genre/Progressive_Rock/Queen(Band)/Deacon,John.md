@@ -87,3 +87,22 @@ work_period_end_: 1997-01-01T00:00:00Z
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Deacon,John](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Deacon,John.md) 
+
+### #is_/same_as :: [Deacon,John.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Deacon,John.public.md) 
+
+### #is_/same_as :: [Deacon,John.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Deacon,John.internal.md) 
+
+### #is_/same_as :: [Deacon,John.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Deacon,John.protect.md) 
+
+### #is_/same_as :: [Deacon,John.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Deacon,John.private.md) 
+
+### #is_/same_as :: [Deacon,John.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Deacon,John.personal.md) 
+
+### #is_/same_as :: [Deacon,John.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Deacon,John.secret.md)
+

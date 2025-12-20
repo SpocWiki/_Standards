@@ -31,3 +31,22 @@ Library_of_Congress_Classification: K2320
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Injunction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Injunction](/_Standards/Society/Law/Judiciary/Court/Injunction.md) 
+
+### #is_/same_as :: [Injunction.public](/_public/Society/Law/Judiciary/Court/Injunction.public.md) 
+
+### #is_/same_as :: [Injunction.internal](/_internal/Society/Law/Judiciary/Court/Injunction.internal.md) 
+
+### #is_/same_as :: [Injunction.protect](/_protect/Society/Law/Judiciary/Court/Injunction.protect.md) 
+
+### #is_/same_as :: [Injunction.private](/_private/Society/Law/Judiciary/Court/Injunction.private.md) 
+
+### #is_/same_as :: [Injunction.personal](/_personal/Society/Law/Judiciary/Court/Injunction.personal.md) 
+
+### #is_/same_as :: [Injunction.secret](/_secret/Society/Law/Judiciary/Court/Injunction.secret.md)
+

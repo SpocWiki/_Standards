@@ -27,3 +27,22 @@ Dewey_Decimal_Classification: "894.35"
 > [Wikipedia](https://en.wikipedia.org/wiki/Turkish%20literature) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Turkish_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.md) 
+
+### #is_/same_as :: [Turkish_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.public.md) 
+
+### #is_/same_as :: [Turkish_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.internal.md) 
+
+### #is_/same_as :: [Turkish_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.protect.md) 
+
+### #is_/same_as :: [Turkish_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.private.md) 
+
+### #is_/same_as :: [Turkish_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.personal.md) 
+
+### #is_/same_as :: [Turkish_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.secret.md)
+

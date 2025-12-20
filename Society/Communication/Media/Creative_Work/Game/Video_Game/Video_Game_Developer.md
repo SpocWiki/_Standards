@@ -48,3 +48,22 @@ female_form_of_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Video%20game%20developer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Video_Game_Developer](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.md) 
+
+### #is_/same_as :: [Video_Game_Developer.public](/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.public.md) 
+
+### #is_/same_as :: [Video_Game_Developer.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.internal.md) 
+
+### #is_/same_as :: [Video_Game_Developer.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.protect.md) 
+
+### #is_/same_as :: [Video_Game_Developer.private](/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.private.md) 
+
+### #is_/same_as :: [Video_Game_Developer.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.personal.md) 
+
+### #is_/same_as :: [Video_Game_Developer.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.secret.md)
+

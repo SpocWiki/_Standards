@@ -58,3 +58,22 @@ ICD_10_CM: T63.0
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Snakebite) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Snakebite](/_Standards/bio/Medicine/Medical_Condition/Injury/Snakebite.md) 
+
+### #is_/same_as :: [Snakebite.public](/_public/bio/Medicine/Medical_Condition/Injury/Snakebite.public.md) 
+
+### #is_/same_as :: [Snakebite.internal](/_internal/bio/Medicine/Medical_Condition/Injury/Snakebite.internal.md) 
+
+### #is_/same_as :: [Snakebite.protect](/_protect/bio/Medicine/Medical_Condition/Injury/Snakebite.protect.md) 
+
+### #is_/same_as :: [Snakebite.private](/_private/bio/Medicine/Medical_Condition/Injury/Snakebite.private.md) 
+
+### #is_/same_as :: [Snakebite.personal](/_personal/bio/Medicine/Medical_Condition/Injury/Snakebite.personal.md) 
+
+### #is_/same_as :: [Snakebite.secret](/_secret/bio/Medicine/Medical_Condition/Injury/Snakebite.secret.md)
+

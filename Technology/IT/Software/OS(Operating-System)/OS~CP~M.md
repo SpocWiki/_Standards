@@ -8,3 +8,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/CP/M)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OS~CP~M](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~CP~M.md) 
+
+### #is_/same_as :: [OS~CP~M.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~CP~M.public.md) 
+
+### #is_/same_as :: [OS~CP~M.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~CP~M.internal.md) 
+
+### #is_/same_as :: [OS~CP~M.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~CP~M.protect.md) 
+
+### #is_/same_as :: [OS~CP~M.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~CP~M.private.md) 
+
+### #is_/same_as :: [OS~CP~M.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~CP~M.personal.md) 
+
+### #is_/same_as :: [OS~CP~M.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~CP~M.secret.md)
+

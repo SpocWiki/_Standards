@@ -74,3 +74,22 @@ Commons_category: Tomás de Torquemada
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tom%C3%A1s%20de%20Torquemada) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Torquemada,Tomás_de](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.md) 
+
+### #is_/same_as :: [Torquemada,Tomás_de.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.public.md) 
+
+### #is_/same_as :: [Torquemada,Tomás_de.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.internal.md) 
+
+### #is_/same_as :: [Torquemada,Tomás_de.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.protect.md) 
+
+### #is_/same_as :: [Torquemada,Tomás_de.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.private.md) 
+
+### #is_/same_as :: [Torquemada,Tomás_de.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.personal.md) 
+
+### #is_/same_as :: [Torquemada,Tomás_de.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.secret.md)
+

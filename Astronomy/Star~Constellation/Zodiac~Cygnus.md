@@ -81,6 +81,7 @@ short_name: Cyg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cygnus%20(constellation))
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Cygnus](/_Standards/Astronomy/Star~Constellation/Zodiac~Cygnus.md) 

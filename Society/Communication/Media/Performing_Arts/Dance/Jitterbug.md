@@ -33,3 +33,22 @@ instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jitterbug) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jitterbug](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.md) 
+
+### #is_/same_as :: [Jitterbug.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.public.md) 
+
+### #is_/same_as :: [Jitterbug.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.internal.md) 
+
+### #is_/same_as :: [Jitterbug.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.protect.md) 
+
+### #is_/same_as :: [Jitterbug.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.private.md) 
+
+### #is_/same_as :: [Jitterbug.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.personal.md) 
+
+### #is_/same_as :: [Jitterbug.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.secret.md)
+

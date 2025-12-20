@@ -40,3 +40,22 @@ has_id_wikidata: Q45393
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Piracy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Piracy](/_Standards/Society/Military/Military_Organization/Navy/Piracy.md) 
+
+### #is_/same_as :: [Piracy.public](/_public/Society/Military/Military_Organization/Navy/Piracy.public.md) 
+
+### #is_/same_as :: [Piracy.internal](/_internal/Society/Military/Military_Organization/Navy/Piracy.internal.md) 
+
+### #is_/same_as :: [Piracy.protect](/_protect/Society/Military/Military_Organization/Navy/Piracy.protect.md) 
+
+### #is_/same_as :: [Piracy.private](/_private/Society/Military/Military_Organization/Navy/Piracy.private.md) 
+
+### #is_/same_as :: [Piracy.personal](/_personal/Society/Military/Military_Organization/Navy/Piracy.personal.md) 
+
+### #is_/same_as :: [Piracy.secret](/_secret/Society/Military/Military_Organization/Navy/Piracy.secret.md)
+

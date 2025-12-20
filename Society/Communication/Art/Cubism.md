@@ -44,3 +44,22 @@ inception: 1907-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cubism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cubism](/_Standards/Society/Communication/Art/Cubism.md) 
+
+### #is_/same_as :: [Cubism.public](/_public/Society/Communication/Art/Cubism.public.md) 
+
+### #is_/same_as :: [Cubism.internal](/_internal/Society/Communication/Art/Cubism.internal.md) 
+
+### #is_/same_as :: [Cubism.protect](/_protect/Society/Communication/Art/Cubism.protect.md) 
+
+### #is_/same_as :: [Cubism.private](/_private/Society/Communication/Art/Cubism.private.md) 
+
+### #is_/same_as :: [Cubism.personal](/_personal/Society/Communication/Art/Cubism.personal.md) 
+
+### #is_/same_as :: [Cubism.secret](/_secret/Society/Communication/Art/Cubism.secret.md)
+

@@ -74,3 +74,21 @@ dissolved_abolished_or_demolished_date: 1918-11-09T00:00:00Z
 > In the First World War, German plans to capture Paris quickly in the autumn of 1914 failed, and the war on the Western Front became a stalemate. The Allied naval blockade caused severe shortages of food and supplements. However, Imperial Germany had success on the Eastern Front; it occupied a large amount of territory to its east following the Treaty of Brest-Litovsk. The German declaration of unrestricted submarine warfare in early 1917 contributed to bringing the United States into the war. In October 1918, after the failed Spring Offensive, the German armies were in retreat, allies Austria-Hungary and the Ottoman Empire had collapsed, and Bulgaria had surrendered. The empire collapsed in the November 1918 Revolution with the abdication of Wilhelm II, which left the post-war federal republic to govern a devastated populace. The Treaty of Versailles imposed post-war reparation costs of 132 billion gold marks (around US$269 billion or €240 billion in 2019, or roughly US$32 billion in 1921), as well as limiting the army to 100,000 men and disallowing conscription, armored vehicles, submarines, aircraft, and more than six battleships. The consequential economic devastation, later exacerbated by the Great Depression, as well as humiliation and outrage experienced by the German population are considered leading factors in the rise of Adolf Hitler and Nazism.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/German%20Empire)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1871-1918_German_Empire](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.md) 
+
+### #is_/same_as :: [1871-1918_German_Empire.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.public.md) 
+
+### #is_/same_as :: [1871-1918_German_Empire.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.internal.md) 
+
+### #is_/same_as :: [1871-1918_German_Empire.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.protect.md) 
+
+### #is_/same_as :: [1871-1918_German_Empire.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.private.md) 
+
+### #is_/same_as :: [1871-1918_German_Empire.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.personal.md) 
+
+### #is_/same_as :: [1871-1918_German_Empire.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1871-1918_German_Empire.secret.md)
+

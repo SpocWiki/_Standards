@@ -107,3 +107,22 @@ Reddit_username: mlbofficial
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Major%20League%20Baseball) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Major_League_Baseball](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.md) 
+
+### #is_/same_as :: [Major_League_Baseball.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.public.md) 
+
+### #is_/same_as :: [Major_League_Baseball.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.internal.md) 
+
+### #is_/same_as :: [Major_League_Baseball.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.protect.md) 
+
+### #is_/same_as :: [Major_League_Baseball.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.private.md) 
+
+### #is_/same_as :: [Major_League_Baseball.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.personal.md) 
+
+### #is_/same_as :: [Major_League_Baseball.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.secret.md)
+

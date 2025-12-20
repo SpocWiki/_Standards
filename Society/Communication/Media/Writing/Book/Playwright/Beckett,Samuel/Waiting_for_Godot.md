@@ -103,3 +103,22 @@ last_line: Estragon — Allons-y. [Il ne bougent pas.]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Waiting%20for%20Godot) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Waiting_for_Godot](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.md) 
+
+### #is_/same_as :: [Waiting_for_Godot.public](/_public/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.public.md) 
+
+### #is_/same_as :: [Waiting_for_Godot.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.internal.md) 
+
+### #is_/same_as :: [Waiting_for_Godot.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.protect.md) 
+
+### #is_/same_as :: [Waiting_for_Godot.private](/_private/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.private.md) 
+
+### #is_/same_as :: [Waiting_for_Godot.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.personal.md) 
+
+### #is_/same_as :: [Waiting_for_Godot.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.secret.md)
+

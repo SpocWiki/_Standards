@@ -42,3 +42,22 @@ Commons_gallery: Electron shell
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electron%20shell) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electron_Shell](/_Standards/Science/Physics/Atom/Electron_Shell.md) 
+
+### #is_/same_as :: [Electron_Shell.public](/_public/Science/Physics/Atom/Electron_Shell.public.md) 
+
+### #is_/same_as :: [Electron_Shell.internal](/_internal/Science/Physics/Atom/Electron_Shell.internal.md) 
+
+### #is_/same_as :: [Electron_Shell.protect](/_protect/Science/Physics/Atom/Electron_Shell.protect.md) 
+
+### #is_/same_as :: [Electron_Shell.private](/_private/Science/Physics/Atom/Electron_Shell.private.md) 
+
+### #is_/same_as :: [Electron_Shell.personal](/_personal/Science/Physics/Atom/Electron_Shell.personal.md) 
+
+### #is_/same_as :: [Electron_Shell.secret](/_secret/Science/Physics/Atom/Electron_Shell.secret.md)
+

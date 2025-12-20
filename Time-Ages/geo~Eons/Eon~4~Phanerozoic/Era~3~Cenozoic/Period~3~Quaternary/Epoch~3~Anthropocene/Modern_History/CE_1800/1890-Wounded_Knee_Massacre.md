@@ -47,3 +47,22 @@ IMDb_keyword: wounded-knee-massacre
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wounded%20Knee%20Massacre) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1890-Wounded_Knee_Massacre](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.md) 
+
+### #is_/same_as :: [1890-Wounded_Knee_Massacre.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.public.md) 
+
+### #is_/same_as :: [1890-Wounded_Knee_Massacre.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.internal.md) 
+
+### #is_/same_as :: [1890-Wounded_Knee_Massacre.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.protect.md) 
+
+### #is_/same_as :: [1890-Wounded_Knee_Massacre.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.private.md) 
+
+### #is_/same_as :: [1890-Wounded_Knee_Massacre.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.personal.md) 
+
+### #is_/same_as :: [1890-Wounded_Knee_Massacre.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.secret.md)
+

@@ -24,3 +24,22 @@ Commons_category: Nordic Middle Ages
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Scandinavia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Scandinavia](/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.md) 
+
+### #is_/same_as :: [History_of_Scandinavia.public](/_public/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.public.md) 
+
+### #is_/same_as :: [History_of_Scandinavia.internal](/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.internal.md) 
+
+### #is_/same_as :: [History_of_Scandinavia.protect](/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.protect.md) 
+
+### #is_/same_as :: [History_of_Scandinavia.private](/_private/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.private.md) 
+
+### #is_/same_as :: [History_of_Scandinavia.personal](/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.personal.md) 
+
+### #is_/same_as :: [History_of_Scandinavia.secret](/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.secret.md)
+

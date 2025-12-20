@@ -57,3 +57,22 @@ Colon_Classification: S:7
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Personality) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Personality](/_Standards/bio/Psychology/Personality_Psychology/Personality.md) 
+
+### #is_/same_as :: [Personality.public](/_public/bio/Psychology/Personality_Psychology/Personality.public.md) 
+
+### #is_/same_as :: [Personality.internal](/_internal/bio/Psychology/Personality_Psychology/Personality.internal.md) 
+
+### #is_/same_as :: [Personality.protect](/_protect/bio/Psychology/Personality_Psychology/Personality.protect.md) 
+
+### #is_/same_as :: [Personality.private](/_private/bio/Psychology/Personality_Psychology/Personality.private.md) 
+
+### #is_/same_as :: [Personality.personal](/_personal/bio/Psychology/Personality_Psychology/Personality.personal.md) 
+
+### #is_/same_as :: [Personality.secret](/_secret/bio/Psychology/Personality_Psychology/Personality.secret.md)
+

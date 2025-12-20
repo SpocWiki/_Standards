@@ -78,3 +78,22 @@ Commons_category: Hilbert's problems
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hilbert's%20problems) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hilbert's_Problems](/_Standards/Mathematics/Hilbert's_Problems.md) 
+
+### #is_/same_as :: [Hilbert's_Problems.public](/_public/Mathematics/Hilbert's_Problems.public.md) 
+
+### #is_/same_as :: [Hilbert's_Problems.internal](/_internal/Mathematics/Hilbert's_Problems.internal.md) 
+
+### #is_/same_as :: [Hilbert's_Problems.protect](/_protect/Mathematics/Hilbert's_Problems.protect.md) 
+
+### #is_/same_as :: [Hilbert's_Problems.private](/_private/Mathematics/Hilbert's_Problems.private.md) 
+
+### #is_/same_as :: [Hilbert's_Problems.personal](/_personal/Mathematics/Hilbert's_Problems.personal.md) 
+
+### #is_/same_as :: [Hilbert's_Problems.secret](/_secret/Mathematics/Hilbert's_Problems.secret.md)
+

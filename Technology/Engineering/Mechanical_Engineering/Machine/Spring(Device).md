@@ -78,3 +78,22 @@ Dewey_Decimal_Classification: "621.824"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spring(Device)](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Spring(Device).md) 
+
+### #is_/same_as :: [Spring(Device).public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Spring(Device).public.md) 
+
+### #is_/same_as :: [Spring(Device).internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Spring(Device).internal.md) 
+
+### #is_/same_as :: [Spring(Device).protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Spring(Device).protect.md) 
+
+### #is_/same_as :: [Spring(Device).private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Spring(Device).private.md) 
+
+### #is_/same_as :: [Spring(Device).personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Spring(Device).personal.md) 
+
+### #is_/same_as :: [Spring(Device).secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Spring(Device).secret.md)
+

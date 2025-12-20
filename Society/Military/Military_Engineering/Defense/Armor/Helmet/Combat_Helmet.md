@@ -18,3 +18,22 @@ Unicode_character: 🪖
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Combat_helmet,3579211|WD~Combat_helmet,3579211]] 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Combat_Helmet](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.md) 
+
+### #is_/same_as :: [Combat_Helmet.public](/_public/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.public.md) 
+
+### #is_/same_as :: [Combat_Helmet.internal](/_internal/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.internal.md) 
+
+### #is_/same_as :: [Combat_Helmet.protect](/_protect/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.protect.md) 
+
+### #is_/same_as :: [Combat_Helmet.private](/_private/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.private.md) 
+
+### #is_/same_as :: [Combat_Helmet.personal](/_personal/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.personal.md) 
+
+### #is_/same_as :: [Combat_Helmet.secret](/_secret/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.secret.md)
+

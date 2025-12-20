@@ -47,3 +47,22 @@ Commons_category: Oxidizing agents
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oxidizing%20agent) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oxidizing_Agent](/_Standards/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.md) 
+
+### #is_/same_as :: [Oxidizing_Agent.public](/_public/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.public.md) 
+
+### #is_/same_as :: [Oxidizing_Agent.internal](/_internal/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.internal.md) 
+
+### #is_/same_as :: [Oxidizing_Agent.protect](/_protect/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.protect.md) 
+
+### #is_/same_as :: [Oxidizing_Agent.private](/_private/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.private.md) 
+
+### #is_/same_as :: [Oxidizing_Agent.personal](/_personal/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.personal.md) 
+
+### #is_/same_as :: [Oxidizing_Agent.secret](/_secret/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.secret.md)
+

@@ -48,3 +48,22 @@ dissolved_abolished_or_demolished_date: 2015-01-01T00:00:00Z
 > On 10 October 2014, an agreement on the termination of the Eurasian Economic Community was signed in Minsk after a session of the Interstate Council of the EAEC. The Eurasian Economic Community was terminated from 1 January 2015 in connection with the launch of the Eurasian Economic Union. While the Eurasian Economic Union effectively replaces the community, membership negotiations with Tajikistan are still ongoing. All other EAEC members have joined the new union.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eurasian%20Economic%20Community) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eurasian_Economic_Community](/_Standards/Earth/Continent/Asia/Eurasian_Economic_Community.md) 
+
+### #is_/same_as :: [Eurasian_Economic_Community.public](/_public/Earth/Continent/Asia/Eurasian_Economic_Community.public.md) 
+
+### #is_/same_as :: [Eurasian_Economic_Community.internal](/_internal/Earth/Continent/Asia/Eurasian_Economic_Community.internal.md) 
+
+### #is_/same_as :: [Eurasian_Economic_Community.protect](/_protect/Earth/Continent/Asia/Eurasian_Economic_Community.protect.md) 
+
+### #is_/same_as :: [Eurasian_Economic_Community.private](/_private/Earth/Continent/Asia/Eurasian_Economic_Community.private.md) 
+
+### #is_/same_as :: [Eurasian_Economic_Community.personal](/_personal/Earth/Continent/Asia/Eurasian_Economic_Community.personal.md) 
+
+### #is_/same_as :: [Eurasian_Economic_Community.secret](/_secret/Earth/Continent/Asia/Eurasian_Economic_Community.secret.md)
+

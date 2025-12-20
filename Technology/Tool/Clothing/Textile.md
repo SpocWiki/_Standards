@@ -87,3 +87,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/TEKSTI
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Textile) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Textile](/_Standards/Technology/Tool/Clothing/Textile.md) 
+
+### #is_/same_as :: [Textile.public](/_public/Technology/Tool/Clothing/Textile.public.md) 
+
+### #is_/same_as :: [Textile.internal](/_internal/Technology/Tool/Clothing/Textile.internal.md) 
+
+### #is_/same_as :: [Textile.protect](/_protect/Technology/Tool/Clothing/Textile.protect.md) 
+
+### #is_/same_as :: [Textile.private](/_private/Technology/Tool/Clothing/Textile.private.md) 
+
+### #is_/same_as :: [Textile.personal](/_personal/Technology/Tool/Clothing/Textile.personal.md) 
+
+### #is_/same_as :: [Textile.secret](/_secret/Technology/Tool/Clothing/Textile.secret.md)
+

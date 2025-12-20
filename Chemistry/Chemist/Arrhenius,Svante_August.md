@@ -156,3 +156,22 @@ ISNI: 000000008084414X
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Svante%20Arrhenius) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Arrhenius,Svante_August](/_Standards/Chemistry/Chemist/Arrhenius,Svante_August.md) 
+
+### #is_/same_as :: [Arrhenius,Svante_August.public](/_public/Chemistry/Chemist/Arrhenius,Svante_August.public.md) 
+
+### #is_/same_as :: [Arrhenius,Svante_August.internal](/_internal/Chemistry/Chemist/Arrhenius,Svante_August.internal.md) 
+
+### #is_/same_as :: [Arrhenius,Svante_August.protect](/_protect/Chemistry/Chemist/Arrhenius,Svante_August.protect.md) 
+
+### #is_/same_as :: [Arrhenius,Svante_August.private](/_private/Chemistry/Chemist/Arrhenius,Svante_August.private.md) 
+
+### #is_/same_as :: [Arrhenius,Svante_August.personal](/_personal/Chemistry/Chemist/Arrhenius,Svante_August.personal.md) 
+
+### #is_/same_as :: [Arrhenius,Svante_August.secret](/_secret/Chemistry/Chemist/Arrhenius,Svante_August.secret.md)
+

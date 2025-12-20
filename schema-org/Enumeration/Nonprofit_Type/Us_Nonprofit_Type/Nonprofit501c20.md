@@ -42,17 +42,17 @@ Nonprofit501c20: Non-profit type referring to Group Legal Services Plan Organiza
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c20](Nonprofit501c20.md) 
+### #is_/same_as :: [Nonprofit501c20](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.md) 
 
-### #is_/same_as :: [nonprofit501c20.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.public.md) 
+### #is_/same_as :: [Nonprofit501c20.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.public.md) 
 
-### #is_/same_as :: [nonprofit501c20.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.internal.md) 
+### #is_/same_as :: [Nonprofit501c20.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.internal.md) 
 
-### #is_/same_as :: [nonprofit501c20.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.protect.md) 
+### #is_/same_as :: [Nonprofit501c20.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.protect.md) 
 
-### #is_/same_as :: [nonprofit501c20.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.private.md) 
+### #is_/same_as :: [Nonprofit501c20.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.private.md) 
 
-### #is_/same_as :: [nonprofit501c20.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.personal.md) 
+### #is_/same_as :: [Nonprofit501c20.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.personal.md) 
 
-### #is_/same_as :: [nonprofit501c20.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.secret.md)
+### #is_/same_as :: [Nonprofit501c20.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.secret.md)
 

@@ -35,17 +35,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inductor](/_Standards/Technology/Electronics/Electronic_Component/Inductor.md) 
+### #is_/same_as :: [Inductor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.md) 
 
-### #is_/same_as :: [Inductor.public](/_public/Technology/Electronics/Electronic_Component/Inductor.public.md) 
+### #is_/same_as :: [Inductor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.public.md) 
 
-### #is_/same_as :: [Inductor.internal](/_internal/Technology/Electronics/Electronic_Component/Inductor.internal.md) 
+### #is_/same_as :: [Inductor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.internal.md) 
 
-### #is_/same_as :: [Inductor.protect](/_protect/Technology/Electronics/Electronic_Component/Inductor.protect.md) 
+### #is_/same_as :: [Inductor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.protect.md) 
 
-### #is_/same_as :: [Inductor.private](/_private/Technology/Electronics/Electronic_Component/Inductor.private.md) 
+### #is_/same_as :: [Inductor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.private.md) 
 
-### #is_/same_as :: [Inductor.personal](/_personal/Technology/Electronics/Electronic_Component/Inductor.personal.md) 
+### #is_/same_as :: [Inductor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.personal.md) 
 
-### #is_/same_as :: [Inductor.secret](/_secret/Technology/Electronics/Electronic_Component/Inductor.secret.md)
+### #is_/same_as :: [Inductor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Inductor.secret.md)
 

@@ -70,3 +70,22 @@ Dewey_Decimal_Classification: "321.9092"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tyrant) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tyrant](/_Standards/Society/Politics/Government/Dictatorship/Tyrant.md) 
+
+### #is_/same_as :: [Tyrant.public](/_public/Society/Politics/Government/Dictatorship/Tyrant.public.md) 
+
+### #is_/same_as :: [Tyrant.internal](/_internal/Society/Politics/Government/Dictatorship/Tyrant.internal.md) 
+
+### #is_/same_as :: [Tyrant.protect](/_protect/Society/Politics/Government/Dictatorship/Tyrant.protect.md) 
+
+### #is_/same_as :: [Tyrant.private](/_private/Society/Politics/Government/Dictatorship/Tyrant.private.md) 
+
+### #is_/same_as :: [Tyrant.personal](/_personal/Society/Politics/Government/Dictatorship/Tyrant.personal.md) 
+
+### #is_/same_as :: [Tyrant.secret](/_secret/Society/Politics/Government/Dictatorship/Tyrant.secret.md)
+

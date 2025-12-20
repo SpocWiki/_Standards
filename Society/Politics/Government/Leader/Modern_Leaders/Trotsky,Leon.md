@@ -170,3 +170,22 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Trotsky%20S
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leon%20Trotsky) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trotsky,Leon](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Trotsky,Leon.md) 
+
+### #is_/same_as :: [Trotsky,Leon.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Trotsky,Leon.public.md) 
+
+### #is_/same_as :: [Trotsky,Leon.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Trotsky,Leon.internal.md) 
+
+### #is_/same_as :: [Trotsky,Leon.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Trotsky,Leon.protect.md) 
+
+### #is_/same_as :: [Trotsky,Leon.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Trotsky,Leon.private.md) 
+
+### #is_/same_as :: [Trotsky,Leon.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Trotsky,Leon.personal.md) 
+
+### #is_/same_as :: [Trotsky,Leon.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Trotsky,Leon.secret.md)
+

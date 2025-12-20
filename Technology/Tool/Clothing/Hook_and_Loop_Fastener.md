@@ -42,3 +42,22 @@ time_of_discovery_or_invention: 1941-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hook-and-loop%20fastener) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hook_and_Loop_Fastener](/_Standards/Technology/Tool/Clothing/Hook_and_Loop_Fastener.md) 
+
+### #is_/same_as :: [Hook_and_Loop_Fastener.public](/_public/Technology/Tool/Clothing/Hook_and_Loop_Fastener.public.md) 
+
+### #is_/same_as :: [Hook_and_Loop_Fastener.internal](/_internal/Technology/Tool/Clothing/Hook_and_Loop_Fastener.internal.md) 
+
+### #is_/same_as :: [Hook_and_Loop_Fastener.protect](/_protect/Technology/Tool/Clothing/Hook_and_Loop_Fastener.protect.md) 
+
+### #is_/same_as :: [Hook_and_Loop_Fastener.private](/_private/Technology/Tool/Clothing/Hook_and_Loop_Fastener.private.md) 
+
+### #is_/same_as :: [Hook_and_Loop_Fastener.personal](/_personal/Technology/Tool/Clothing/Hook_and_Loop_Fastener.personal.md) 
+
+### #is_/same_as :: [Hook_and_Loop_Fastener.secret](/_secret/Technology/Tool/Clothing/Hook_and_Loop_Fastener.secret.md)
+

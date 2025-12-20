@@ -99,3 +99,22 @@ Libris_URI: c9prp99w1wf4jxg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Atomic%20Energy%20Agency) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency)](/_Standards/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).md) 
+
+### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency).public](/_public/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).public.md) 
+
+### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency).internal](/_internal/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).internal.md) 
+
+### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency).protect](/_protect/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).protect.md) 
+
+### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency).private](/_private/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).private.md) 
+
+### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency).personal](/_personal/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).personal.md) 
+
+### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency).secret](/_secret/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).secret.md)
+

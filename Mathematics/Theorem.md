@@ -72,3 +72,22 @@ Commons_category: Theorems
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theorem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Theorem](/_Standards/Mathematics/Theorem.md) 
+
+### #is_/same_as :: [Theorem.public](/_public/Mathematics/Theorem.public.md) 
+
+### #is_/same_as :: [Theorem.internal](/_internal/Mathematics/Theorem.internal.md) 
+
+### #is_/same_as :: [Theorem.protect](/_protect/Mathematics/Theorem.protect.md) 
+
+### #is_/same_as :: [Theorem.private](/_private/Mathematics/Theorem.private.md) 
+
+### #is_/same_as :: [Theorem.personal](/_personal/Mathematics/Theorem.personal.md) 
+
+### #is_/same_as :: [Theorem.secret](/_secret/Mathematics/Theorem.secret.md)
+

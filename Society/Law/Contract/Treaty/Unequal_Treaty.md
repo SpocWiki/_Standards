@@ -53,3 +53,22 @@ Commons_category: Unequal Treaties
 > [Wikipedia](https://en.wikipedia.org/wiki/Unequal%20treaties) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unequal_Treaty](/_Standards/Society/Law/Contract/Treaty/Unequal_Treaty.md) 
+
+### #is_/same_as :: [Unequal_Treaty.public](/_public/Society/Law/Contract/Treaty/Unequal_Treaty.public.md) 
+
+### #is_/same_as :: [Unequal_Treaty.internal](/_internal/Society/Law/Contract/Treaty/Unequal_Treaty.internal.md) 
+
+### #is_/same_as :: [Unequal_Treaty.protect](/_protect/Society/Law/Contract/Treaty/Unequal_Treaty.protect.md) 
+
+### #is_/same_as :: [Unequal_Treaty.private](/_private/Society/Law/Contract/Treaty/Unequal_Treaty.private.md) 
+
+### #is_/same_as :: [Unequal_Treaty.personal](/_personal/Society/Law/Contract/Treaty/Unequal_Treaty.personal.md) 
+
+### #is_/same_as :: [Unequal_Treaty.secret](/_secret/Society/Law/Contract/Treaty/Unequal_Treaty.secret.md)
+

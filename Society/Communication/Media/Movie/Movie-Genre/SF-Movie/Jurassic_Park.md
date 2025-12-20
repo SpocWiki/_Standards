@@ -23,17 +23,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jurassic_Park](Jurassic_Park.md) 
+### #is_/same_as :: [Jurassic_Park](/_Standards/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Jurassic_Park.md) 
 
-### #is_/same_as :: [Jurassic_Park.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_Park.public.md) 
+### #is_/same_as :: [Jurassic_Park.public](/_public/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Jurassic_Park.public.md) 
 
-### #is_/same_as :: [Jurassic_Park.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_Park.internal.md) 
+### #is_/same_as :: [Jurassic_Park.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Jurassic_Park.internal.md) 
 
-### #is_/same_as :: [Jurassic_Park.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_Park.protect.md) 
+### #is_/same_as :: [Jurassic_Park.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Jurassic_Park.protect.md) 
 
-### #is_/same_as :: [Jurassic_Park.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_Park.private.md) 
+### #is_/same_as :: [Jurassic_Park.private](/_private/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Jurassic_Park.private.md) 
 
-### #is_/same_as :: [Jurassic_Park.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_Park.personal.md) 
+### #is_/same_as :: [Jurassic_Park.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Jurassic_Park.personal.md) 
 
-### #is_/same_as :: [Jurassic_Park.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_Park.secret.md)
+### #is_/same_as :: [Jurassic_Park.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Jurassic_Park.secret.md)
 

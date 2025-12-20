@@ -65,3 +65,22 @@ Commons_category: History of Sudan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Sudan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Sudan](/_Standards/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.md) 
+
+### #is_/same_as :: [History_of_Sudan.public](/_public/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.public.md) 
+
+### #is_/same_as :: [History_of_Sudan.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.internal.md) 
+
+### #is_/same_as :: [History_of_Sudan.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.protect.md) 
+
+### #is_/same_as :: [History_of_Sudan.private](/_private/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.private.md) 
+
+### #is_/same_as :: [History_of_Sudan.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.personal.md) 
+
+### #is_/same_as :: [History_of_Sudan.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.secret.md)
+

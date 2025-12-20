@@ -181,3 +181,22 @@ ISNI: "0000000110810865"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Debye) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Debye,Peter](/_Standards/Science/Physics/Physicist/Debye,Peter.md) 
+
+### #is_/same_as :: [Debye,Peter.public](/_public/Science/Physics/Physicist/Debye,Peter.public.md) 
+
+### #is_/same_as :: [Debye,Peter.internal](/_internal/Science/Physics/Physicist/Debye,Peter.internal.md) 
+
+### #is_/same_as :: [Debye,Peter.protect](/_protect/Science/Physics/Physicist/Debye,Peter.protect.md) 
+
+### #is_/same_as :: [Debye,Peter.private](/_private/Science/Physics/Physicist/Debye,Peter.private.md) 
+
+### #is_/same_as :: [Debye,Peter.personal](/_personal/Science/Physics/Physicist/Debye,Peter.personal.md) 
+
+### #is_/same_as :: [Debye,Peter.secret](/_secret/Science/Physics/Physicist/Debye,Peter.secret.md)
+

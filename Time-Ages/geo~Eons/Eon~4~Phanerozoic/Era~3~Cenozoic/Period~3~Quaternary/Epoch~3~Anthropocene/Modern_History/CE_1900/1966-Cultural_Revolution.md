@@ -68,3 +68,22 @@ official_name: 无产阶级文化大革命
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cultural%20Revolution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1966-Cultural_Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.md) 
+
+### #is_/same_as :: [1966-Cultural_Revolution.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.public.md) 
+
+### #is_/same_as :: [1966-Cultural_Revolution.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.internal.md) 
+
+### #is_/same_as :: [1966-Cultural_Revolution.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.protect.md) 
+
+### #is_/same_as :: [1966-Cultural_Revolution.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.private.md) 
+
+### #is_/same_as :: [1966-Cultural_Revolution.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.personal.md) 
+
+### #is_/same_as :: [1966-Cultural_Revolution.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.secret.md)
+

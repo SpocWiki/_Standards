@@ -54,17 +54,17 @@ UMLS_CUI: C0028576
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nuclear_Fission](/_Standards/Science/Physics/Nuclear_Fission.md) 
+### #is_/same_as :: [Nuclear_Fission](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fission.md) 
 
-### #is_/same_as :: [Nuclear_Fission.public](/_public/Science/Physics/Nuclear_Fission.public.md) 
+### #is_/same_as :: [Nuclear_Fission.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fission.public.md) 
 
-### #is_/same_as :: [Nuclear_Fission.internal](/_internal/Science/Physics/Nuclear_Fission.internal.md) 
+### #is_/same_as :: [Nuclear_Fission.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fission.internal.md) 
 
-### #is_/same_as :: [Nuclear_Fission.protect](/_protect/Science/Physics/Nuclear_Fission.protect.md) 
+### #is_/same_as :: [Nuclear_Fission.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fission.protect.md) 
 
-### #is_/same_as :: [Nuclear_Fission.private](/_private/Science/Physics/Nuclear_Fission.private.md) 
+### #is_/same_as :: [Nuclear_Fission.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fission.private.md) 
 
-### #is_/same_as :: [Nuclear_Fission.personal](/_personal/Science/Physics/Nuclear_Fission.personal.md) 
+### #is_/same_as :: [Nuclear_Fission.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fission.personal.md) 
 
-### #is_/same_as :: [Nuclear_Fission.secret](/_secret/Science/Physics/Nuclear_Fission.secret.md)
+### #is_/same_as :: [Nuclear_Fission.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fission.secret.md)
 

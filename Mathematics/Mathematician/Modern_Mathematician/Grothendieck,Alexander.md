@@ -39,17 +39,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grothendieck,Alexander](/_Standards/Mathematics/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.md) 
+### #is_/same_as :: [Grothendieck,Alexander](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.md) 
 
-### #is_/same_as :: [Grothendieck,Alexander.public](/_public/Mathematics/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.public.md) 
+### #is_/same_as :: [Grothendieck,Alexander.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.public.md) 
 
-### #is_/same_as :: [Grothendieck,Alexander.internal](/_internal/Mathematics/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.internal.md) 
+### #is_/same_as :: [Grothendieck,Alexander.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.internal.md) 
 
-### #is_/same_as :: [Grothendieck,Alexander.protect](/_protect/Mathematics/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.protect.md) 
+### #is_/same_as :: [Grothendieck,Alexander.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.protect.md) 
 
-### #is_/same_as :: [Grothendieck,Alexander.private](/_private/Mathematics/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.private.md) 
+### #is_/same_as :: [Grothendieck,Alexander.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.private.md) 
 
-### #is_/same_as :: [Grothendieck,Alexander.personal](/_personal/Mathematics/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.personal.md) 
+### #is_/same_as :: [Grothendieck,Alexander.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.personal.md) 
 
-### #is_/same_as :: [Grothendieck,Alexander.secret](/_secret/Mathematics/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.secret.md)
+### #is_/same_as :: [Grothendieck,Alexander.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.secret.md)
 

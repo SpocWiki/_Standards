@@ -87,3 +87,22 @@ Commons_category: Macintosh operating systems
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mac_OS](/_Standards/Technology/IT/Software/OS(Operating-System)/Mac_OS.md) 
+
+### #is_/same_as :: [Mac_OS.public](/_public/Technology/IT/Software/OS(Operating-System)/Mac_OS.public.md) 
+
+### #is_/same_as :: [Mac_OS.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Mac_OS.internal.md) 
+
+### #is_/same_as :: [Mac_OS.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Mac_OS.protect.md) 
+
+### #is_/same_as :: [Mac_OS.private](/_private/Technology/IT/Software/OS(Operating-System)/Mac_OS.private.md) 
+
+### #is_/same_as :: [Mac_OS.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Mac_OS.personal.md) 
+
+### #is_/same_as :: [Mac_OS.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Mac_OS.secret.md)
+

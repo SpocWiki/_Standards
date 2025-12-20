@@ -39,17 +39,17 @@ The delivery of a parcel either via the postal service or a commercial service.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [parcel_delivery](/_Standards/schema-org/Class/is_a_/Intangible/parcel_delivery.md) 
+### #is_/same_as :: [Parcel_Delivery](/_Standards/schema-org/Class/is_a_/Intangible/Parcel_Delivery.md) 
 
-### #is_/same_as :: [parcel_delivery.public](/_public/schema-org/Class/is_a_/Intangible/parcel_delivery.public.md) 
+### #is_/same_as :: [Parcel_Delivery.public](/_public/schema-org/Class/is_a_/Intangible/Parcel_Delivery.public.md) 
 
-### #is_/same_as :: [parcel_delivery.internal](/_internal/schema-org/Class/is_a_/Intangible/parcel_delivery.internal.md) 
+### #is_/same_as :: [Parcel_Delivery.internal](/_internal/schema-org/Class/is_a_/Intangible/Parcel_Delivery.internal.md) 
 
-### #is_/same_as :: [parcel_delivery.protect](/_protect/schema-org/Class/is_a_/Intangible/parcel_delivery.protect.md) 
+### #is_/same_as :: [Parcel_Delivery.protect](/_protect/schema-org/Class/is_a_/Intangible/Parcel_Delivery.protect.md) 
 
-### #is_/same_as :: [parcel_delivery.private](/_private/schema-org/Class/is_a_/Intangible/parcel_delivery.private.md) 
+### #is_/same_as :: [Parcel_Delivery.private](/_private/schema-org/Class/is_a_/Intangible/Parcel_Delivery.private.md) 
 
-### #is_/same_as :: [parcel_delivery.personal](/_personal/schema-org/Class/is_a_/Intangible/parcel_delivery.personal.md) 
+### #is_/same_as :: [Parcel_Delivery.personal](/_personal/schema-org/Class/is_a_/Intangible/Parcel_Delivery.personal.md) 
 
-### #is_/same_as :: [parcel_delivery.secret](/_secret/schema-org/Class/is_a_/Intangible/parcel_delivery.secret.md)
+### #is_/same_as :: [Parcel_Delivery.secret](/_secret/schema-org/Class/is_a_/Intangible/Parcel_Delivery.secret.md)
 

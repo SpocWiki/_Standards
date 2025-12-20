@@ -34,3 +34,22 @@ has_id_wikidata: Q134566
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Weighing%20scale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Weighing_Scale](/_Standards/Technology/Tool/Instrumentation/Weighing_Scale.md) 
+
+### #is_/same_as :: [Weighing_Scale.public](/_public/Technology/Tool/Instrumentation/Weighing_Scale.public.md) 
+
+### #is_/same_as :: [Weighing_Scale.internal](/_internal/Technology/Tool/Instrumentation/Weighing_Scale.internal.md) 
+
+### #is_/same_as :: [Weighing_Scale.protect](/_protect/Technology/Tool/Instrumentation/Weighing_Scale.protect.md) 
+
+### #is_/same_as :: [Weighing_Scale.private](/_private/Technology/Tool/Instrumentation/Weighing_Scale.private.md) 
+
+### #is_/same_as :: [Weighing_Scale.personal](/_personal/Technology/Tool/Instrumentation/Weighing_Scale.personal.md) 
+
+### #is_/same_as :: [Weighing_Scale.secret](/_secret/Technology/Tool/Instrumentation/Weighing_Scale.secret.md)
+

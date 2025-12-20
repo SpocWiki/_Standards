@@ -47,3 +47,22 @@ IPTC_NewsCode: mediatopic/20000764
 > Materials science is also an important part of forensic engineering and failure analysis –  investigating materials, products, structures or components, which fail or do not function as intended, causing personal injury or damage to property. Such investigations are key to understanding, for example, the causes of various aviation accidents and incidents.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Materials%20science) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Materials_Science](/_Standards/Chemistry/Material/Materials_Science.md) 
+
+### #is_/same_as :: [Materials_Science.public](/_public/Chemistry/Material/Materials_Science.public.md) 
+
+### #is_/same_as :: [Materials_Science.internal](/_internal/Chemistry/Material/Materials_Science.internal.md) 
+
+### #is_/same_as :: [Materials_Science.protect](/_protect/Chemistry/Material/Materials_Science.protect.md) 
+
+### #is_/same_as :: [Materials_Science.private](/_private/Chemistry/Material/Materials_Science.private.md) 
+
+### #is_/same_as :: [Materials_Science.personal](/_personal/Chemistry/Material/Materials_Science.personal.md) 
+
+### #is_/same_as :: [Materials_Science.secret](/_secret/Chemistry/Material/Materials_Science.secret.md)
+

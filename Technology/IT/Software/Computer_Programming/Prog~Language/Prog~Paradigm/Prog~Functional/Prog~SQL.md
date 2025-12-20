@@ -98,3 +98,21 @@ official_name: SQL
 > [Wikipedia](https://en.wikipedia.org/wiki/SQL)
 
 #see  ![[../../../../../IT/Data/DataBase/Sql|Sql]]
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~SQL](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~SQL.md) 
+
+### #is_/same_as :: [Prog~SQL.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~SQL.public.md) 
+
+### #is_/same_as :: [Prog~SQL.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~SQL.internal.md) 
+
+### #is_/same_as :: [Prog~SQL.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~SQL.protect.md) 
+
+### #is_/same_as :: [Prog~SQL.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~SQL.private.md) 
+
+### #is_/same_as :: [Prog~SQL.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~SQL.personal.md) 
+
+### #is_/same_as :: [Prog~SQL.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~SQL.secret.md)
+

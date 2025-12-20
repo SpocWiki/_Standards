@@ -24,3 +24,22 @@ has_id_wikidata: Q177625
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromagnetic%20field) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electromagnetic_Field](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.md) 
+
+### #is_/same_as :: [Electromagnetic_Field.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.public.md) 
+
+### #is_/same_as :: [Electromagnetic_Field.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.internal.md) 
+
+### #is_/same_as :: [Electromagnetic_Field.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.protect.md) 
+
+### #is_/same_as :: [Electromagnetic_Field.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.private.md) 
+
+### #is_/same_as :: [Electromagnetic_Field.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.personal.md) 
+
+### #is_/same_as :: [Electromagnetic_Field.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.secret.md)
+

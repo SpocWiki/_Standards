@@ -92,3 +92,22 @@ Commons_category: Fourier transformation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fourier%20transform) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fourier_Transform](/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.md) 
+
+### #is_/same_as :: [Fourier_Transform.public](/_public/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.public.md) 
+
+### #is_/same_as :: [Fourier_Transform.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.internal.md) 
+
+### #is_/same_as :: [Fourier_Transform.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.protect.md) 
+
+### #is_/same_as :: [Fourier_Transform.private](/_private/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.private.md) 
+
+### #is_/same_as :: [Fourier_Transform.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.personal.md) 
+
+### #is_/same_as :: [Fourier_Transform.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.secret.md)
+

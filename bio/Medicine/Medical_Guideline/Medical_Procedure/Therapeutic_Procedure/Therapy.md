@@ -47,3 +47,22 @@ Commons_category: Therapies
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Therapy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Therapy](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy.md) 
+
+### #is_/same_as :: [Therapy.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy.public.md) 
+
+### #is_/same_as :: [Therapy.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy.internal.md) 
+
+### #is_/same_as :: [Therapy.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy.protect.md) 
+
+### #is_/same_as :: [Therapy.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy.private.md) 
+
+### #is_/same_as :: [Therapy.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy.personal.md) 
+
+### #is_/same_as :: [Therapy.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy.secret.md)
+

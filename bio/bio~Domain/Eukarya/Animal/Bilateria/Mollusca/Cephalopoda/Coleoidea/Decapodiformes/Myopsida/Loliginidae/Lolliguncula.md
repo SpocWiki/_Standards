@@ -170,7 +170,7 @@ PILLSBURY in the Gulf of Panama in 1967. Bull. Mar. Sci. 21:1-34.
   Reference         Vecchione, M., C. F. E. Roper and M. J. Sweeney (1989). Marine flora and fauna of the eastern United States. Mollusca: Cephalopoda. NOAA Tech. Rep., NMFS 73: 23 pp.
   View              Ventral, dorsal
   Copyright ::         © [Michael Vecchione](mailto:vecchiom@si.edu) 
-  ----------------------------------------------------------------------
+  ----------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

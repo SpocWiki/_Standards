@@ -41,17 +41,17 @@ A PublicationEvent corresponds indifferently to the event of publication for a C
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [publication_event](/_Standards/schema-org/Class/is_a_/event/publication_event.md) 
+### #is_/same_as :: [Publication_Event](/_Standards/schema-org/Class/is_a_/Event/Publication_Event.md) 
 
-### #is_/same_as :: [publication_event.public](/_public/schema-org/Class/is_a_/event/publication_event.public.md) 
+### #is_/same_as :: [Publication_Event.public](/_public/schema-org/Class/is_a_/Event/Publication_Event.public.md) 
 
-### #is_/same_as :: [publication_event.internal](/_internal/schema-org/Class/is_a_/event/publication_event.internal.md) 
+### #is_/same_as :: [Publication_Event.internal](/_internal/schema-org/Class/is_a_/Event/Publication_Event.internal.md) 
 
-### #is_/same_as :: [publication_event.protect](/_protect/schema-org/Class/is_a_/event/publication_event.protect.md) 
+### #is_/same_as :: [Publication_Event.protect](/_protect/schema-org/Class/is_a_/Event/Publication_Event.protect.md) 
 
-### #is_/same_as :: [publication_event.private](/_private/schema-org/Class/is_a_/event/publication_event.private.md) 
+### #is_/same_as :: [Publication_Event.private](/_private/schema-org/Class/is_a_/Event/Publication_Event.private.md) 
 
-### #is_/same_as :: [publication_event.personal](/_personal/schema-org/Class/is_a_/event/publication_event.personal.md) 
+### #is_/same_as :: [Publication_Event.personal](/_personal/schema-org/Class/is_a_/Event/Publication_Event.personal.md) 
 
-### #is_/same_as :: [publication_event.secret](/_secret/schema-org/Class/is_a_/event/publication_event.secret.md)
+### #is_/same_as :: [Publication_Event.secret](/_secret/schema-org/Class/is_a_/Event/Publication_Event.secret.md)
 

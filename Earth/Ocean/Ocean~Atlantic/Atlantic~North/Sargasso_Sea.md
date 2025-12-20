@@ -48,3 +48,22 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sargasso.s
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sargasso%20Sea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sargasso_Sea](/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.md) 
+
+### #is_/same_as :: [Sargasso_Sea.public](/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.public.md) 
+
+### #is_/same_as :: [Sargasso_Sea.internal](/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.internal.md) 
+
+### #is_/same_as :: [Sargasso_Sea.protect](/_protect/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.protect.md) 
+
+### #is_/same_as :: [Sargasso_Sea.private](/_private/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.private.md) 
+
+### #is_/same_as :: [Sargasso_Sea.personal](/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.personal.md) 
+
+### #is_/same_as :: [Sargasso_Sea.secret](/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.secret.md)
+

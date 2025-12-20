@@ -89,3 +89,22 @@ openness (O) measures creativity, curiosity, and willingness to entertain new id
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Big5~Openness](/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Openness.md) 
+
+### #is_/same_as :: [Big5~Openness.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Openness.public.md) 
+
+### #is_/same_as :: [Big5~Openness.internal](/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Openness.internal.md) 
+
+### #is_/same_as :: [Big5~Openness.protect](/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Openness.protect.md) 
+
+### #is_/same_as :: [Big5~Openness.private](/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Openness.private.md) 
+
+### #is_/same_as :: [Big5~Openness.personal](/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Openness.personal.md) 
+
+### #is_/same_as :: [Big5~Openness.secret](/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Openness.secret.md)
+

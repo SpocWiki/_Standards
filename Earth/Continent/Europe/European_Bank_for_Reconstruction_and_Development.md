@@ -68,3 +68,22 @@ native_label: European Bank for Reconstruction and Development
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Bank%20for%20Reconstruction%20and%20Development) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development](/_Standards/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.md) 
+
+### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development.public](/_public/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.public.md) 
+
+### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development.internal](/_internal/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.internal.md) 
+
+### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development.protect](/_protect/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.protect.md) 
+
+### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development.private](/_private/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.private.md) 
+
+### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development.personal](/_personal/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.personal.md) 
+
+### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development.secret](/_secret/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.secret.md)
+

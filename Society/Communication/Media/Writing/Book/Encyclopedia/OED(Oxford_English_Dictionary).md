@@ -41,3 +41,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oxford%20English%20Dictionary) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OED(Oxford_English_Dictionary)](/_Standards/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).md) 
+
+### #is_/same_as :: [OED(Oxford_English_Dictionary).public](/_public/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).public.md) 
+
+### #is_/same_as :: [OED(Oxford_English_Dictionary).internal](/_internal/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).internal.md) 
+
+### #is_/same_as :: [OED(Oxford_English_Dictionary).protect](/_protect/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).protect.md) 
+
+### #is_/same_as :: [OED(Oxford_English_Dictionary).private](/_private/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).private.md) 
+
+### #is_/same_as :: [OED(Oxford_English_Dictionary).personal](/_personal/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).personal.md) 
+
+### #is_/same_as :: [OED(Oxford_English_Dictionary).secret](/_secret/Society/Communication/Media/Writing/Book/Encyclopedia/OED(Oxford_English_Dictionary).secret.md)
+

@@ -50,17 +50,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo](Bernini,Gian_Lorenzo.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.md) 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.public](/_public/Technology/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.public.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.public.md) 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.internal](/_internal/Technology/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.internal.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.internal.md) 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.protect](/_protect/Technology/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.protect.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.protect.md) 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.private](/_private/Technology/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.private.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.private.md) 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.personal](/_personal/Technology/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.personal.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.personal.md) 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.secret](/_secret/Technology/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.secret.md)
+### #is_/same_as :: [Bernini,Gian_Lorenzo.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.secret.md)
 

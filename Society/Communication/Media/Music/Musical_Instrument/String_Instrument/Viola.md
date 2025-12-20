@@ -22,3 +22,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Viola) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Viola](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.md) 
+
+### #is_/same_as :: [Viola.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.public.md) 
+
+### #is_/same_as :: [Viola.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.internal.md) 
+
+### #is_/same_as :: [Viola.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.protect.md) 
+
+### #is_/same_as :: [Viola.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.private.md) 
+
+### #is_/same_as :: [Viola.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.personal.md) 
+
+### #is_/same_as :: [Viola.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.secret.md)
+

@@ -113,3 +113,22 @@ demonym:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dome%20of%20the%20Rock)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dome_of_the_Rock](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.md) 
+
+### #is_/same_as :: [Dome_of_the_Rock.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.public.md) 
+
+### #is_/same_as :: [Dome_of_the_Rock.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.internal.md) 
+
+### #is_/same_as :: [Dome_of_the_Rock.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.protect.md) 
+
+### #is_/same_as :: [Dome_of_the_Rock.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.private.md) 
+
+### #is_/same_as :: [Dome_of_the_Rock.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.personal.md) 
+
+### #is_/same_as :: [Dome_of_the_Rock.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.secret.md)
+

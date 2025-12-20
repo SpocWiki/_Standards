@@ -218,3 +218,22 @@ Danbooru_tag: joe_biden
 > [Wikipedia](https://en.wikipedia.org/wiki/Joe%20Biden)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Biden,Joe](/_Standards/Earth/Continent/America~North/US~President/Biden,Joe.md) 
+
+### #is_/same_as :: [Biden,Joe.public](/_public/Earth/Continent/America~North/US~President/Biden,Joe.public.md) 
+
+### #is_/same_as :: [Biden,Joe.internal](/_internal/Earth/Continent/America~North/US~President/Biden,Joe.internal.md) 
+
+### #is_/same_as :: [Biden,Joe.protect](/_protect/Earth/Continent/America~North/US~President/Biden,Joe.protect.md) 
+
+### #is_/same_as :: [Biden,Joe.private](/_private/Earth/Continent/America~North/US~President/Biden,Joe.private.md) 
+
+### #is_/same_as :: [Biden,Joe.personal](/_personal/Earth/Continent/America~North/US~President/Biden,Joe.personal.md) 
+
+### #is_/same_as :: [Biden,Joe.secret](/_secret/Earth/Continent/America~North/US~President/Biden,Joe.secret.md)
+

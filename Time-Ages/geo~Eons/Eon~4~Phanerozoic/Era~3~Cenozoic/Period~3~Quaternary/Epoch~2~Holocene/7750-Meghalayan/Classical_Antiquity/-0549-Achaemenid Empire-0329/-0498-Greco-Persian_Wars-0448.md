@@ -57,3 +57,22 @@ Krugosvet_article_archived_: istoriya/GREKO-PERSIDSKIE_VONI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Greco-Persian%20Wars) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [-0498-Greco-Persian_Wars-0448](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.md) 
+
+### #is_/same_as :: [-0498-Greco-Persian_Wars-0448.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.public.md) 
+
+### #is_/same_as :: [-0498-Greco-Persian_Wars-0448.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.internal.md) 
+
+### #is_/same_as :: [-0498-Greco-Persian_Wars-0448.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.protect.md) 
+
+### #is_/same_as :: [-0498-Greco-Persian_Wars-0448.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.private.md) 
+
+### #is_/same_as :: [-0498-Greco-Persian_Wars-0448.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.personal.md) 
+
+### #is_/same_as :: [-0498-Greco-Persian_Wars-0448.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.secret.md)
+

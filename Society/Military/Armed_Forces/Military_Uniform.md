@@ -49,3 +49,22 @@ IMDb_keyword: military-uniform
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20uniform) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Military_Uniform](/_Standards/Society/Military/Armed_Forces/Military_Uniform.md) 
+
+### #is_/same_as :: [Military_Uniform.public](/_public/Society/Military/Armed_Forces/Military_Uniform.public.md) 
+
+### #is_/same_as :: [Military_Uniform.internal](/_internal/Society/Military/Armed_Forces/Military_Uniform.internal.md) 
+
+### #is_/same_as :: [Military_Uniform.protect](/_protect/Society/Military/Armed_Forces/Military_Uniform.protect.md) 
+
+### #is_/same_as :: [Military_Uniform.private](/_private/Society/Military/Armed_Forces/Military_Uniform.private.md) 
+
+### #is_/same_as :: [Military_Uniform.personal](/_personal/Society/Military/Armed_Forces/Military_Uniform.personal.md) 
+
+### #is_/same_as :: [Military_Uniform.secret](/_secret/Society/Military/Armed_Forces/Military_Uniform.secret.md)
+

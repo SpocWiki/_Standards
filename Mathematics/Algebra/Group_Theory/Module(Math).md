@@ -48,3 +48,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Module%20(mathematics)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Module(Math)](/_Standards/Mathematics/Algebra/Group_Theory/Module(Math).md) 
+
+### #is_/same_as :: [Module(Math).public](/_public/Mathematics/Algebra/Group_Theory/Module(Math).public.md) 
+
+### #is_/same_as :: [Module(Math).internal](/_internal/Mathematics/Algebra/Group_Theory/Module(Math).internal.md) 
+
+### #is_/same_as :: [Module(Math).protect](/_protect/Mathematics/Algebra/Group_Theory/Module(Math).protect.md) 
+
+### #is_/same_as :: [Module(Math).private](/_private/Mathematics/Algebra/Group_Theory/Module(Math).private.md) 
+
+### #is_/same_as :: [Module(Math).personal](/_personal/Mathematics/Algebra/Group_Theory/Module(Math).personal.md) 
+
+### #is_/same_as :: [Module(Math).secret](/_secret/Mathematics/Algebra/Group_Theory/Module(Math).secret.md)
+

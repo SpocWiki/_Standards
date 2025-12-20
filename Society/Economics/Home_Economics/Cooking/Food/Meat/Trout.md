@@ -57,3 +57,22 @@ MeSH_tree_code: B01.050.150.900.493.817.750.825
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trout) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trout](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.md) 
+
+### #is_/same_as :: [Trout.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.public.md) 
+
+### #is_/same_as :: [Trout.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.internal.md) 
+
+### #is_/same_as :: [Trout.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.protect.md) 
+
+### #is_/same_as :: [Trout.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.private.md) 
+
+### #is_/same_as :: [Trout.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.personal.md) 
+
+### #is_/same_as :: [Trout.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.secret.md)
+

@@ -65,3 +65,22 @@ name_in_native_language: John Stossel
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Stossel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stossel,John](/_Standards/Society/Communication/Media/Journalism/Journalist/Stossel,John.md) 
+
+### #is_/same_as :: [Stossel,John.public](/_public/Society/Communication/Media/Journalism/Journalist/Stossel,John.public.md) 
+
+### #is_/same_as :: [Stossel,John.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Stossel,John.internal.md) 
+
+### #is_/same_as :: [Stossel,John.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Stossel,John.protect.md) 
+
+### #is_/same_as :: [Stossel,John.private](/_private/Society/Communication/Media/Journalism/Journalist/Stossel,John.private.md) 
+
+### #is_/same_as :: [Stossel,John.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Stossel,John.personal.md) 
+
+### #is_/same_as :: [Stossel,John.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Stossel,John.secret.md)
+

@@ -51,3 +51,22 @@ entry_in_abbreviations_table: ил.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Illustration) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Illustration](/_Standards/Society/Communication/Media/Creative_Work/Illustration.md) 
+
+### #is_/same_as :: [Illustration.public](/_public/Society/Communication/Media/Creative_Work/Illustration.public.md) 
+
+### #is_/same_as :: [Illustration.internal](/_internal/Society/Communication/Media/Creative_Work/Illustration.internal.md) 
+
+### #is_/same_as :: [Illustration.protect](/_protect/Society/Communication/Media/Creative_Work/Illustration.protect.md) 
+
+### #is_/same_as :: [Illustration.private](/_private/Society/Communication/Media/Creative_Work/Illustration.private.md) 
+
+### #is_/same_as :: [Illustration.personal](/_personal/Society/Communication/Media/Creative_Work/Illustration.personal.md) 
+
+### #is_/same_as :: [Illustration.secret](/_secret/Society/Communication/Media/Creative_Work/Illustration.secret.md)
+

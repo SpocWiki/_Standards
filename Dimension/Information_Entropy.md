@@ -109,3 +109,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Entropy%20(information%20theory)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Information_Entropy](/_Standards/Dimension/Information_Entropy.md) 
+
+### #is_/same_as :: [Information_Entropy.public](/_public/Dimension/Information_Entropy.public.md) 
+
+### #is_/same_as :: [Information_Entropy.internal](/_internal/Dimension/Information_Entropy.internal.md) 
+
+### #is_/same_as :: [Information_Entropy.protect](/_protect/Dimension/Information_Entropy.protect.md) 
+
+### #is_/same_as :: [Information_Entropy.private](/_private/Dimension/Information_Entropy.private.md) 
+
+### #is_/same_as :: [Information_Entropy.personal](/_personal/Dimension/Information_Entropy.personal.md) 
+
+### #is_/same_as :: [Information_Entropy.secret](/_secret/Dimension/Information_Entropy.secret.md)
+

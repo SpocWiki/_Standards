@@ -45,3 +45,22 @@ Commons_category: Lyres
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lyre) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lyre](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.md) 
+
+### #is_/same_as :: [Lyre.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.public.md) 
+
+### #is_/same_as :: [Lyre.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.internal.md) 
+
+### #is_/same_as :: [Lyre.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.protect.md) 
+
+### #is_/same_as :: [Lyre.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.private.md) 
+
+### #is_/same_as :: [Lyre.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.personal.md) 
+
+### #is_/same_as :: [Lyre.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.secret.md)
+

@@ -61,17 +61,17 @@ EAGLE_id: objtyp/lod/13
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Building_Material](Building_Material.md) 
+### #is_/same_as :: [Building_Material](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material.md) 
 
-### #is_/same_as :: [Building_Material.public](/_public/Technology/Construction/Building/Building_Material.public.md) 
+### #is_/same_as :: [Building_Material.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material.public.md) 
 
-### #is_/same_as :: [Building_Material.internal](/_internal/Technology/Construction/Building/Building_Material.internal.md) 
+### #is_/same_as :: [Building_Material.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material.internal.md) 
 
-### #is_/same_as :: [Building_Material.protect](/_protect/Technology/Construction/Building/Building_Material.protect.md) 
+### #is_/same_as :: [Building_Material.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material.protect.md) 
 
-### #is_/same_as :: [Building_Material.private](/_private/Technology/Construction/Building/Building_Material.private.md) 
+### #is_/same_as :: [Building_Material.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material.private.md) 
 
-### #is_/same_as :: [Building_Material.personal](/_personal/Technology/Construction/Building/Building_Material.personal.md) 
+### #is_/same_as :: [Building_Material.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material.personal.md) 
 
-### #is_/same_as :: [Building_Material.secret](/_secret/Technology/Construction/Building/Building_Material.secret.md)
+### #is_/same_as :: [Building_Material.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material.secret.md)
 

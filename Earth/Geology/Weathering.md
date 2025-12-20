@@ -51,3 +51,22 @@ Commons_category: Weathering
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Weathering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Weathering](/_Standards/Earth/Geology/Weathering.md) 
+
+### #is_/same_as :: [Weathering.public](/_public/Earth/Geology/Weathering.public.md) 
+
+### #is_/same_as :: [Weathering.internal](/_internal/Earth/Geology/Weathering.internal.md) 
+
+### #is_/same_as :: [Weathering.protect](/_protect/Earth/Geology/Weathering.protect.md) 
+
+### #is_/same_as :: [Weathering.private](/_private/Earth/Geology/Weathering.private.md) 
+
+### #is_/same_as :: [Weathering.personal](/_personal/Earth/Geology/Weathering.personal.md) 
+
+### #is_/same_as :: [Weathering.secret](/_secret/Earth/Geology/Weathering.secret.md)
+

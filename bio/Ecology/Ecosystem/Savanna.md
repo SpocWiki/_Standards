@@ -49,3 +49,22 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000261
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Savanna) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Savanna](/_Standards/bio/Ecology/Ecosystem/Savanna.md) 
+
+### #is_/same_as :: [Savanna.public](/_public/bio/Ecology/Ecosystem/Savanna.public.md) 
+
+### #is_/same_as :: [Savanna.internal](/_internal/bio/Ecology/Ecosystem/Savanna.internal.md) 
+
+### #is_/same_as :: [Savanna.protect](/_protect/bio/Ecology/Ecosystem/Savanna.protect.md) 
+
+### #is_/same_as :: [Savanna.private](/_private/bio/Ecology/Ecosystem/Savanna.private.md) 
+
+### #is_/same_as :: [Savanna.personal](/_personal/bio/Ecology/Ecosystem/Savanna.personal.md) 
+
+### #is_/same_as :: [Savanna.secret](/_secret/bio/Ecology/Ecosystem/Savanna.secret.md)
+

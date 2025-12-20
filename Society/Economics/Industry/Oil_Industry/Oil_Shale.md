@@ -67,3 +67,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oil%20shale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oil_Shale](/_Standards/Society/Economics/Industry/Oil_Industry/Oil_Shale.md) 
+
+### #is_/same_as :: [Oil_Shale.public](/_public/Society/Economics/Industry/Oil_Industry/Oil_Shale.public.md) 
+
+### #is_/same_as :: [Oil_Shale.internal](/_internal/Society/Economics/Industry/Oil_Industry/Oil_Shale.internal.md) 
+
+### #is_/same_as :: [Oil_Shale.protect](/_protect/Society/Economics/Industry/Oil_Industry/Oil_Shale.protect.md) 
+
+### #is_/same_as :: [Oil_Shale.private](/_private/Society/Economics/Industry/Oil_Industry/Oil_Shale.private.md) 
+
+### #is_/same_as :: [Oil_Shale.personal](/_personal/Society/Economics/Industry/Oil_Industry/Oil_Shale.personal.md) 
+
+### #is_/same_as :: [Oil_Shale.secret](/_secret/Society/Economics/Industry/Oil_Industry/Oil_Shale.secret.md)
+

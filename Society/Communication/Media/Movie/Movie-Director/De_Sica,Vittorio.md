@@ -127,3 +127,21 @@ P1015: "90382225"
 > De Sica's acting was considered the highlight of the film.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vittorio%20De%20Sica)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [De_Sica,Vittorio](/_Standards/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.md) 
+
+### #is_/same_as :: [De_Sica,Vittorio.public](/_public/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.public.md) 
+
+### #is_/same_as :: [De_Sica,Vittorio.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.internal.md) 
+
+### #is_/same_as :: [De_Sica,Vittorio.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.protect.md) 
+
+### #is_/same_as :: [De_Sica,Vittorio.private](/_private/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.private.md) 
+
+### #is_/same_as :: [De_Sica,Vittorio.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.personal.md) 
+
+### #is_/same_as :: [De_Sica,Vittorio.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.secret.md)
+

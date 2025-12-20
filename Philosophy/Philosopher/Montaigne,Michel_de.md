@@ -137,3 +137,22 @@ ISNI: "0000000121441268"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Michel%20de%20Montaigne) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Montaigne,Michel_de](/_Standards/Philosophy/Philosopher/Montaigne,Michel_de.md) 
+
+### #is_/same_as :: [Montaigne,Michel_de.public](/_public/Philosophy/Philosopher/Montaigne,Michel_de.public.md) 
+
+### #is_/same_as :: [Montaigne,Michel_de.internal](/_internal/Philosophy/Philosopher/Montaigne,Michel_de.internal.md) 
+
+### #is_/same_as :: [Montaigne,Michel_de.protect](/_protect/Philosophy/Philosopher/Montaigne,Michel_de.protect.md) 
+
+### #is_/same_as :: [Montaigne,Michel_de.private](/_private/Philosophy/Philosopher/Montaigne,Michel_de.private.md) 
+
+### #is_/same_as :: [Montaigne,Michel_de.personal](/_personal/Philosophy/Philosopher/Montaigne,Michel_de.personal.md) 
+
+### #is_/same_as :: [Montaigne,Michel_de.secret](/_secret/Philosophy/Philosopher/Montaigne,Michel_de.secret.md)
+

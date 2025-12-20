@@ -19,3 +19,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Milankovitch%20cycles) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Milankovitch cycle](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.md) 
+
+### #is_/same_as :: [Milankovitch cycle.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.public.md) 
+
+### #is_/same_as :: [Milankovitch cycle.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.internal.md) 
+
+### #is_/same_as :: [Milankovitch cycle.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.protect.md) 
+
+### #is_/same_as :: [Milankovitch cycle.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.private.md) 
+
+### #is_/same_as :: [Milankovitch cycle.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.personal.md) 
+
+### #is_/same_as :: [Milankovitch cycle.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.secret.md)
+

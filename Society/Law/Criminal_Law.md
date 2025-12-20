@@ -61,3 +61,22 @@ IPTC_NewsCode: mediatopic/20000125
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Criminal%20law) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Criminal_Law](/_Standards/Society/Law/Criminal_Law.md) 
+
+### #is_/same_as :: [Criminal_Law.public](/_public/Society/Law/Criminal_Law.public.md) 
+
+### #is_/same_as :: [Criminal_Law.internal](/_internal/Society/Law/Criminal_Law.internal.md) 
+
+### #is_/same_as :: [Criminal_Law.protect](/_protect/Society/Law/Criminal_Law.protect.md) 
+
+### #is_/same_as :: [Criminal_Law.private](/_private/Society/Law/Criminal_Law.private.md) 
+
+### #is_/same_as :: [Criminal_Law.personal](/_personal/Society/Law/Criminal_Law.personal.md) 
+
+### #is_/same_as :: [Criminal_Law.secret](/_secret/Society/Law/Criminal_Law.secret.md)
+

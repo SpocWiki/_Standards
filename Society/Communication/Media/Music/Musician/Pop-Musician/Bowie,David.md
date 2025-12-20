@@ -218,3 +218,21 @@ Archive_of_Our_Own_tag: David Bowie (Musician)
 > During his lifetime, his record sales, estimated at over 100 million worldwide, made him one of the best-selling musicians of all time. He is the recipient of numerous accolades, including six Grammy Awards and four Brit Awards. Often dubbed the "chameleon of rock" due to his continual musical reinventions, he was inducted into the Rock and Roll Hall of Fame in 1996. Rolling Stone ranked him among the greatest singers, songwriters and artists of all time. As of 2022, Bowie was the best-selling vinyl artist of the 21st century.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/David%20Bowie)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bowie,David](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.md) 
+
+### #is_/same_as :: [Bowie,David.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.public.md) 
+
+### #is_/same_as :: [Bowie,David.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.internal.md) 
+
+### #is_/same_as :: [Bowie,David.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.protect.md) 
+
+### #is_/same_as :: [Bowie,David.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.private.md) 
+
+### #is_/same_as :: [Bowie,David.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.personal.md) 
+
+### #is_/same_as :: [Bowie,David.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.secret.md)
+

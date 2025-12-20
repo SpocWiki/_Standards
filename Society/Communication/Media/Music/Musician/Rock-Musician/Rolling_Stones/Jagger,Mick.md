@@ -167,3 +167,22 @@ IPI_name_number:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mick%20Jagger) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jagger,Mick](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.md) 
+
+### #is_/same_as :: [Jagger,Mick.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.public.md) 
+
+### #is_/same_as :: [Jagger,Mick.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.internal.md) 
+
+### #is_/same_as :: [Jagger,Mick.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.protect.md) 
+
+### #is_/same_as :: [Jagger,Mick.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.private.md) 
+
+### #is_/same_as :: [Jagger,Mick.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.personal.md) 
+
+### #is_/same_as :: [Jagger,Mick.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.secret.md)
+

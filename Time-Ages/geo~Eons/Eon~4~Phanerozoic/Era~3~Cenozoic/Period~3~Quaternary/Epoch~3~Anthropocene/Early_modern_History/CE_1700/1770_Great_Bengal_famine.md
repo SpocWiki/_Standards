@@ -28,3 +28,21 @@ start_time: 1767-01-01T00:00:00Z
 > Between seven and ten million people—or between a quarter and third of the presidency's population—were thought to have died. The loss to cultivation was estimated to be a third of the total cultivation. Some scholars consider these numbers to be exaggerated in large part because reliable demographic information had been lacking in 1770. They estimate lower at at least 1 million deaths. Even so, the famine devastated traditional ways of life in the affected regions. It proved disastrous to the mulberries and cotton grown in Bengal; as a result, a large proportion of the dead were spinners and weavers who had no reserves of food. The famine hastened the end of dual governance in Bengal, the Company becoming the sole administrator soon after. Its cultural impact was felt long afterwards, becoming the subject a century later of Bankim Chandra Chatterjee's influential novel Anandamath.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Bengal%20famine%20of%201770)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1770_Great_Bengal_famine](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.md) 
+
+### #is_/same_as :: [1770_Great_Bengal_famine.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.public.md) 
+
+### #is_/same_as :: [1770_Great_Bengal_famine.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.internal.md) 
+
+### #is_/same_as :: [1770_Great_Bengal_famine.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.protect.md) 
+
+### #is_/same_as :: [1770_Great_Bengal_famine.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.private.md) 
+
+### #is_/same_as :: [1770_Great_Bengal_famine.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.personal.md) 
+
+### #is_/same_as :: [1770_Great_Bengal_famine.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.secret.md)
+

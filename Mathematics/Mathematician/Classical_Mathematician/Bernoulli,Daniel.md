@@ -119,3 +119,22 @@ date_of_death: 1782-03-17T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Daniel%20Bernoulli) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bernoulli,Daniel](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.md) 
+
+### #is_/same_as :: [Bernoulli,Daniel.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.public.md) 
+
+### #is_/same_as :: [Bernoulli,Daniel.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.internal.md) 
+
+### #is_/same_as :: [Bernoulli,Daniel.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.protect.md) 
+
+### #is_/same_as :: [Bernoulli,Daniel.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.private.md) 
+
+### #is_/same_as :: [Bernoulli,Daniel.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.personal.md) 
+
+### #is_/same_as :: [Bernoulli,Daniel.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.secret.md)
+

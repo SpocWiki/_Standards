@@ -37,3 +37,22 @@ Commons_category: Lava domes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lava%20dome) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lava_Dome](/_Standards/Earth/Geology/Landform/Lava_Dome.md) 
+
+### #is_/same_as :: [Lava_Dome.public](/_public/Earth/Geology/Landform/Lava_Dome.public.md) 
+
+### #is_/same_as :: [Lava_Dome.internal](/_internal/Earth/Geology/Landform/Lava_Dome.internal.md) 
+
+### #is_/same_as :: [Lava_Dome.protect](/_protect/Earth/Geology/Landform/Lava_Dome.protect.md) 
+
+### #is_/same_as :: [Lava_Dome.private](/_private/Earth/Geology/Landform/Lava_Dome.private.md) 
+
+### #is_/same_as :: [Lava_Dome.personal](/_personal/Earth/Geology/Landform/Lava_Dome.personal.md) 
+
+### #is_/same_as :: [Lava_Dome.secret](/_secret/Earth/Geology/Landform/Lava_Dome.secret.md)
+

@@ -37,3 +37,22 @@ Commons_category: Periodic table row 1
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Period%201%20element) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Period_1](/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_1.md) 
+
+### #is_/same_as :: [Period_1.public](/_public/Chemistry/Chemical_Element/Periodic_Table/Period_1.public.md) 
+
+### #is_/same_as :: [Period_1.internal](/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_1.internal.md) 
+
+### #is_/same_as :: [Period_1.protect](/_protect/Chemistry/Chemical_Element/Periodic_Table/Period_1.protect.md) 
+
+### #is_/same_as :: [Period_1.private](/_private/Chemistry/Chemical_Element/Periodic_Table/Period_1.private.md) 
+
+### #is_/same_as :: [Period_1.personal](/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_1.personal.md) 
+
+### #is_/same_as :: [Period_1.secret](/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_1.secret.md)
+

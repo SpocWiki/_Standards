@@ -37,3 +37,22 @@ subreddit: georgism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Georgism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Georgism](/_Standards/Society/Economics/Economy/Georgism.md) 
+
+### #is_/same_as :: [Georgism.public](/_public/Society/Economics/Economy/Georgism.public.md) 
+
+### #is_/same_as :: [Georgism.internal](/_internal/Society/Economics/Economy/Georgism.internal.md) 
+
+### #is_/same_as :: [Georgism.protect](/_protect/Society/Economics/Economy/Georgism.protect.md) 
+
+### #is_/same_as :: [Georgism.private](/_private/Society/Economics/Economy/Georgism.private.md) 
+
+### #is_/same_as :: [Georgism.personal](/_personal/Society/Economics/Economy/Georgism.personal.md) 
+
+### #is_/same_as :: [Georgism.secret](/_secret/Society/Economics/Economy/Georgism.secret.md)
+

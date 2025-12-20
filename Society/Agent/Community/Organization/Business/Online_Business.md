@@ -43,17 +43,17 @@ A particular online business, either standalone or the online part of a broader 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Online_Business](Online_Business.md) 
+### #is_/same_as :: [Online_Business](/_Standards/Society/Agent/Community/Organization/Business/Online_Business.md) 
 
-### #is_/same_as :: [Online_Business.public](/_public/Society/Organization/Online_Business.public.md) 
+### #is_/same_as :: [Online_Business.public](/_public/Society/Agent/Community/Organization/Business/Online_Business.public.md) 
 
-### #is_/same_as :: [Online_Business.internal](/_internal/Society/Organization/Online_Business.internal.md) 
+### #is_/same_as :: [Online_Business.internal](/_internal/Society/Agent/Community/Organization/Business/Online_Business.internal.md) 
 
-### #is_/same_as :: [Online_Business.protect](/_protect/Society/Organization/Online_Business.protect.md) 
+### #is_/same_as :: [Online_Business.protect](/_protect/Society/Agent/Community/Organization/Business/Online_Business.protect.md) 
 
-### #is_/same_as :: [Online_Business.private](/_private/Society/Organization/Online_Business.private.md) 
+### #is_/same_as :: [Online_Business.private](/_private/Society/Agent/Community/Organization/Business/Online_Business.private.md) 
 
-### #is_/same_as :: [Online_Business.personal](/_personal/Society/Organization/Online_Business.personal.md) 
+### #is_/same_as :: [Online_Business.personal](/_personal/Society/Agent/Community/Organization/Business/Online_Business.personal.md) 
 
-### #is_/same_as :: [Online_Business.secret](/_secret/Society/Organization/Online_Business.secret.md)
+### #is_/same_as :: [Online_Business.secret](/_secret/Society/Agent/Community/Organization/Business/Online_Business.secret.md)
 

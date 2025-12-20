@@ -123,17 +123,17 @@ date_of_birth: 1903-02-28T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Minnelli,Vincente](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.md) 
+### #is_/same_as :: [Minnelli,Vincente](/_Standards/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.md) 
 
-### #is_/same_as :: [Minnelli,Vincente.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.public.md) 
+### #is_/same_as :: [Minnelli,Vincente.public](/_public/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.public.md) 
 
-### #is_/same_as :: [Minnelli,Vincente.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.internal.md) 
+### #is_/same_as :: [Minnelli,Vincente.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.internal.md) 
 
-### #is_/same_as :: [Minnelli,Vincente.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.protect.md) 
+### #is_/same_as :: [Minnelli,Vincente.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.protect.md) 
 
-### #is_/same_as :: [Minnelli,Vincente.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.private.md) 
+### #is_/same_as :: [Minnelli,Vincente.private](/_private/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.private.md) 
 
-### #is_/same_as :: [Minnelli,Vincente.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.personal.md) 
+### #is_/same_as :: [Minnelli,Vincente.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.personal.md) 
 
-### #is_/same_as :: [Minnelli,Vincente.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.secret.md)
+### #is_/same_as :: [Minnelli,Vincente.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Minnelli,Vincente.secret.md)
 

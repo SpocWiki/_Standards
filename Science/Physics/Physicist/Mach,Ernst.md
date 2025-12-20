@@ -166,3 +166,22 @@ ISNI: "0000000110211758"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ernst%20Mach) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mach,Ernst](/_Standards/Science/Physics/Physicist/Mach,Ernst.md) 
+
+### #is_/same_as :: [Mach,Ernst.public](/_public/Science/Physics/Physicist/Mach,Ernst.public.md) 
+
+### #is_/same_as :: [Mach,Ernst.internal](/_internal/Science/Physics/Physicist/Mach,Ernst.internal.md) 
+
+### #is_/same_as :: [Mach,Ernst.protect](/_protect/Science/Physics/Physicist/Mach,Ernst.protect.md) 
+
+### #is_/same_as :: [Mach,Ernst.private](/_private/Science/Physics/Physicist/Mach,Ernst.private.md) 
+
+### #is_/same_as :: [Mach,Ernst.personal](/_personal/Science/Physics/Physicist/Mach,Ernst.personal.md) 
+
+### #is_/same_as :: [Mach,Ernst.secret](/_secret/Science/Physics/Physicist/Mach,Ernst.secret.md)
+

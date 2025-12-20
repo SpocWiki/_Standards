@@ -40,3 +40,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Air%20Force%20A
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Free%20fall) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Free_Fall](/_Standards/Science/Physics/Classical_Mechanics/Free_Fall.md) 
+
+### #is_/same_as :: [Free_Fall.public](/_public/Science/Physics/Classical_Mechanics/Free_Fall.public.md) 
+
+### #is_/same_as :: [Free_Fall.internal](/_internal/Science/Physics/Classical_Mechanics/Free_Fall.internal.md) 
+
+### #is_/same_as :: [Free_Fall.protect](/_protect/Science/Physics/Classical_Mechanics/Free_Fall.protect.md) 
+
+### #is_/same_as :: [Free_Fall.private](/_private/Science/Physics/Classical_Mechanics/Free_Fall.private.md) 
+
+### #is_/same_as :: [Free_Fall.personal](/_personal/Science/Physics/Classical_Mechanics/Free_Fall.personal.md) 
+
+### #is_/same_as :: [Free_Fall.secret](/_secret/Science/Physics/Classical_Mechanics/Free_Fall.secret.md)
+

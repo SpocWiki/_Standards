@@ -42,17 +42,17 @@ Nonprofit501q: Non-profit type referring to Credit Counseling Organizations.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501q](Nonprofit501q.md) 
+### #is_/same_as :: [Nonprofit501q](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.md) 
 
-### #is_/same_as :: [nonprofit501q.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.public.md) 
+### #is_/same_as :: [Nonprofit501q.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.public.md) 
 
-### #is_/same_as :: [nonprofit501q.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.internal.md) 
+### #is_/same_as :: [Nonprofit501q.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.internal.md) 
 
-### #is_/same_as :: [nonprofit501q.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.protect.md) 
+### #is_/same_as :: [Nonprofit501q.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.protect.md) 
 
-### #is_/same_as :: [nonprofit501q.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.private.md) 
+### #is_/same_as :: [Nonprofit501q.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.private.md) 
 
-### #is_/same_as :: [nonprofit501q.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.personal.md) 
+### #is_/same_as :: [Nonprofit501q.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.personal.md) 
 
-### #is_/same_as :: [nonprofit501q.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.secret.md)
+### #is_/same_as :: [Nonprofit501q.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501q.secret.md)
 

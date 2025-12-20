@@ -40,17 +40,17 @@ Cardiovascular system assessment with clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [cardiovascular_exam](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.md) 
+### #is_/same_as :: [Cardiovascular_Exam](/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Cardiovascular_Exam.md) 
 
-### #is_/same_as :: [cardiovascular_exam.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.public.md) 
+### #is_/same_as :: [Cardiovascular_Exam.public](/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Cardiovascular_Exam.public.md) 
 
-### #is_/same_as :: [cardiovascular_exam.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.internal.md) 
+### #is_/same_as :: [Cardiovascular_Exam.internal](/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Cardiovascular_Exam.internal.md) 
 
-### #is_/same_as :: [cardiovascular_exam.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.protect.md) 
+### #is_/same_as :: [Cardiovascular_Exam.protect](/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Cardiovascular_Exam.protect.md) 
 
-### #is_/same_as :: [cardiovascular_exam.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.private.md) 
+### #is_/same_as :: [Cardiovascular_Exam.private](/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Cardiovascular_Exam.private.md) 
 
-### #is_/same_as :: [cardiovascular_exam.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.personal.md) 
+### #is_/same_as :: [Cardiovascular_Exam.personal](/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Cardiovascular_Exam.personal.md) 
 
-### #is_/same_as :: [cardiovascular_exam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.secret.md)
+### #is_/same_as :: [Cardiovascular_Exam.secret](/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Cardiovascular_Exam.secret.md)
 

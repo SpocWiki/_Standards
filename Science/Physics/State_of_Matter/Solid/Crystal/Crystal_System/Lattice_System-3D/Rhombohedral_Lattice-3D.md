@@ -21,3 +21,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hexagonal%20crystal%20family) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rhombohedral_Lattice-3D](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Lattice_System-3D/Rhombohedral_Lattice-3D.md) 
+
+### #is_/same_as :: [Rhombohedral_Lattice-3D.public](/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Lattice_System-3D/Rhombohedral_Lattice-3D.public.md) 
+
+### #is_/same_as :: [Rhombohedral_Lattice-3D.internal](/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Lattice_System-3D/Rhombohedral_Lattice-3D.internal.md) 
+
+### #is_/same_as :: [Rhombohedral_Lattice-3D.protect](/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Lattice_System-3D/Rhombohedral_Lattice-3D.protect.md) 
+
+### #is_/same_as :: [Rhombohedral_Lattice-3D.private](/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Lattice_System-3D/Rhombohedral_Lattice-3D.private.md) 
+
+### #is_/same_as :: [Rhombohedral_Lattice-3D.personal](/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Lattice_System-3D/Rhombohedral_Lattice-3D.personal.md) 
+
+### #is_/same_as :: [Rhombohedral_Lattice-3D.secret](/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Lattice_System-3D/Rhombohedral_Lattice-3D.secret.md)
+

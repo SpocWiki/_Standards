@@ -23,3 +23,21 @@ Commons_category: Earthquake engineering
 > A properly engineered structure does not necessarily have to be extremely strong or expensive. It has to be properly designed to withstand the seismic effects while sustaining an acceptable level of damage.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Earthquake%20engineering)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Earthquake_engineering](/_Standards/Technology/Engineering/Earthquake_engineering.md) 
+
+### #is_/same_as :: [Earthquake_engineering.public](/_public/Technology/Engineering/Earthquake_engineering.public.md) 
+
+### #is_/same_as :: [Earthquake_engineering.internal](/_internal/Technology/Engineering/Earthquake_engineering.internal.md) 
+
+### #is_/same_as :: [Earthquake_engineering.protect](/_protect/Technology/Engineering/Earthquake_engineering.protect.md) 
+
+### #is_/same_as :: [Earthquake_engineering.private](/_private/Technology/Engineering/Earthquake_engineering.private.md) 
+
+### #is_/same_as :: [Earthquake_engineering.personal](/_personal/Technology/Engineering/Earthquake_engineering.personal.md) 
+
+### #is_/same_as :: [Earthquake_engineering.secret](/_secret/Technology/Engineering/Earthquake_engineering.secret.md)
+

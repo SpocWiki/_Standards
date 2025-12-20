@@ -95,3 +95,22 @@ Wolfram_Language_entity_code: Entity["Concept", "ComputerScientist::n3qj3"]
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Computer_Scientist](/_Standards/Technology/IT/Computer_Science/Computer_Scientist.md) 
+
+### #is_/same_as :: [Computer_Scientist.public](/_public/Technology/IT/Computer_Science/Computer_Scientist.public.md) 
+
+### #is_/same_as :: [Computer_Scientist.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist.internal.md) 
+
+### #is_/same_as :: [Computer_Scientist.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist.protect.md) 
+
+### #is_/same_as :: [Computer_Scientist.private](/_private/Technology/IT/Computer_Science/Computer_Scientist.private.md) 
+
+### #is_/same_as :: [Computer_Scientist.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist.personal.md) 
+
+### #is_/same_as :: [Computer_Scientist.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist.secret.md)
+

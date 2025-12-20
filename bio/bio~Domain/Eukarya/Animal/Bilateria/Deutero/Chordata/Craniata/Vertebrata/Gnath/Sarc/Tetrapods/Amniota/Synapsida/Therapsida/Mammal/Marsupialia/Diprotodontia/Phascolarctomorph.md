@@ -25,3 +25,22 @@ taxon_name: Phascolarctomorphia
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phascolarctidae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Phascolarctomorph](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph.md) 
+
+### #is_/same_as :: [Phascolarctomorph.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph.public.md) 
+
+### #is_/same_as :: [Phascolarctomorph.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph.internal.md) 
+
+### #is_/same_as :: [Phascolarctomorph.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph.protect.md) 
+
+### #is_/same_as :: [Phascolarctomorph.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph.private.md) 
+
+### #is_/same_as :: [Phascolarctomorph.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph.personal.md) 
+
+### #is_/same_as :: [Phascolarctomorph.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Phascolarctomorph.secret.md)
+

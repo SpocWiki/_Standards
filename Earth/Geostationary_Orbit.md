@@ -27,3 +27,22 @@ Commons_category: Geostationary orbit
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Geostationary%20orbit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geostationary_Orbit](/_Standards/Earth/Geostationary_Orbit.md) 
+
+### #is_/same_as :: [Geostationary_Orbit.public](/_public/Earth/Geostationary_Orbit.public.md) 
+
+### #is_/same_as :: [Geostationary_Orbit.internal](/_internal/Earth/Geostationary_Orbit.internal.md) 
+
+### #is_/same_as :: [Geostationary_Orbit.protect](/_protect/Earth/Geostationary_Orbit.protect.md) 
+
+### #is_/same_as :: [Geostationary_Orbit.private](/_private/Earth/Geostationary_Orbit.private.md) 
+
+### #is_/same_as :: [Geostationary_Orbit.personal](/_personal/Earth/Geostationary_Orbit.personal.md) 
+
+### #is_/same_as :: [Geostationary_Orbit.secret](/_secret/Earth/Geostationary_Orbit.secret.md)
+

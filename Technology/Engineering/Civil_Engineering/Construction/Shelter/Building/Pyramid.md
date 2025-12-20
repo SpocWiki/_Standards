@@ -62,17 +62,17 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_pyramid,133618
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pyramid](Pyramid.md) 
+### #is_/same_as :: [Pyramid](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.md) 
 
-### #is_/same_as :: [Pyramid.public](/_public/Technology/Construction/Building/Pyramid.public.md) 
+### #is_/same_as :: [Pyramid.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.public.md) 
 
-### #is_/same_as :: [Pyramid.internal](/_internal/Technology/Construction/Building/Pyramid.internal.md) 
+### #is_/same_as :: [Pyramid.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.internal.md) 
 
-### #is_/same_as :: [Pyramid.protect](/_protect/Technology/Construction/Building/Pyramid.protect.md) 
+### #is_/same_as :: [Pyramid.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.protect.md) 
 
-### #is_/same_as :: [Pyramid.private](/_private/Technology/Construction/Building/Pyramid.private.md) 
+### #is_/same_as :: [Pyramid.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.private.md) 
 
-### #is_/same_as :: [Pyramid.personal](/_personal/Technology/Construction/Building/Pyramid.personal.md) 
+### #is_/same_as :: [Pyramid.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.personal.md) 
 
-### #is_/same_as :: [Pyramid.secret](/_secret/Technology/Construction/Building/Pyramid.secret.md)
+### #is_/same_as :: [Pyramid.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.secret.md)
 

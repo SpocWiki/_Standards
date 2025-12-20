@@ -71,3 +71,21 @@ Commons_gallery: Loudspeaker
 > Smaller speakers are found in devices such as radios, televisions, portable audio players, personal computers (computer speakers), headphones, and earphones. Larger, louder speaker systems are used for home hi-fi systems (stereos), electronic musical instruments, sound reinforcement in theaters and concert halls, and in public address systems.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Loudspeaker)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Loudspeaker](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Loudspeaker.md) 
+
+### #is_/same_as :: [Loudspeaker.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Loudspeaker.public.md) 
+
+### #is_/same_as :: [Loudspeaker.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Loudspeaker.internal.md) 
+
+### #is_/same_as :: [Loudspeaker.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Loudspeaker.protect.md) 
+
+### #is_/same_as :: [Loudspeaker.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Loudspeaker.private.md) 
+
+### #is_/same_as :: [Loudspeaker.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Loudspeaker.personal.md) 
+
+### #is_/same_as :: [Loudspeaker.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Loudspeaker.secret.md)
+

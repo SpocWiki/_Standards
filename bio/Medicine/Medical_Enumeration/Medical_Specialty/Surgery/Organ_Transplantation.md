@@ -44,3 +44,22 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Organ%20transplantation)  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Organ_Transplantation](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Organ_Transplantation.md) 
+
+### #is_/same_as :: [Organ_Transplantation.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Organ_Transplantation.public.md) 
+
+### #is_/same_as :: [Organ_Transplantation.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Organ_Transplantation.internal.md) 
+
+### #is_/same_as :: [Organ_Transplantation.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Organ_Transplantation.protect.md) 
+
+### #is_/same_as :: [Organ_Transplantation.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Organ_Transplantation.private.md) 
+
+### #is_/same_as :: [Organ_Transplantation.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Organ_Transplantation.personal.md) 
+
+### #is_/same_as :: [Organ_Transplantation.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Organ_Transplantation.secret.md)
+

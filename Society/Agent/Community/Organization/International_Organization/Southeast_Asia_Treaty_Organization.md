@@ -56,3 +56,22 @@ short_name: OTASE
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Southeast%20Asia%20Treaty%20Organization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Southeast_Asia_Treaty_Organization](/_Standards/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.md) 
+
+### #is_/same_as :: [Southeast_Asia_Treaty_Organization.public](/_public/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.public.md) 
+
+### #is_/same_as :: [Southeast_Asia_Treaty_Organization.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.internal.md) 
+
+### #is_/same_as :: [Southeast_Asia_Treaty_Organization.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.protect.md) 
+
+### #is_/same_as :: [Southeast_Asia_Treaty_Organization.private](/_private/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.private.md) 
+
+### #is_/same_as :: [Southeast_Asia_Treaty_Organization.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.personal.md) 
+
+### #is_/same_as :: [Southeast_Asia_Treaty_Organization.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.secret.md)
+

@@ -24,3 +24,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Practical%20joke) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Practical_Joke](/_Standards/Society/Communication/Media/Joke/Practical_Joke.md) 
+
+### #is_/same_as :: [Practical_Joke.public](/_public/Society/Communication/Media/Joke/Practical_Joke.public.md) 
+
+### #is_/same_as :: [Practical_Joke.internal](/_internal/Society/Communication/Media/Joke/Practical_Joke.internal.md) 
+
+### #is_/same_as :: [Practical_Joke.protect](/_protect/Society/Communication/Media/Joke/Practical_Joke.protect.md) 
+
+### #is_/same_as :: [Practical_Joke.private](/_private/Society/Communication/Media/Joke/Practical_Joke.private.md) 
+
+### #is_/same_as :: [Practical_Joke.personal](/_personal/Society/Communication/Media/Joke/Practical_Joke.personal.md) 
+
+### #is_/same_as :: [Practical_Joke.secret](/_secret/Society/Communication/Media/Joke/Practical_Joke.secret.md)
+

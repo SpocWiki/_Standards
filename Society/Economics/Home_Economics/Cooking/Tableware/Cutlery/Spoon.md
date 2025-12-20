@@ -39,3 +39,21 @@ Commons_category: Spoons
 > A **Spoon** (UK: , US:  SPOON) is a utensil consisting of a shallow bowl (also known as a head), oval or round, at the end of a handle. A type of cutlery (sometimes called flatware in the United States), especially as part of a place setting, it is used primarily for transferring food to the mouth (eating). Spoons are also used in food preparation to measure, mix, stir and toss ingredients and for serving food. Present day spoons are made from metal (notably stainless steel, flat silver or silverware, plated or solid), wood, porcelain or plastic. There are many different types of spoons made from different materials by different cultures for different purposes and food.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spoon)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spoon](/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.md) 
+
+### #is_/same_as :: [Spoon.public](/_public/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.public.md) 
+
+### #is_/same_as :: [Spoon.internal](/_internal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.internal.md) 
+
+### #is_/same_as :: [Spoon.protect](/_protect/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.protect.md) 
+
+### #is_/same_as :: [Spoon.private](/_private/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.private.md) 
+
+### #is_/same_as :: [Spoon.personal](/_personal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.personal.md) 
+
+### #is_/same_as :: [Spoon.secret](/_secret/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.secret.md)
+

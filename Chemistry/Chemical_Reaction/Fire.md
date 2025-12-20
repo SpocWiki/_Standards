@@ -61,17 +61,17 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Burning%20Tent.ogv"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fire](/_Standards/Chemistry/inOrganic/Fire.md) 
+### #is_/same_as :: [Fire](/_Standards/Chemistry/Chemical_Reaction/Fire.md) 
 
-### #is_/same_as :: [Fire.public](/_public/Chemistry/inOrganic/Fire.public.md) 
+### #is_/same_as :: [Fire.public](/_public/Chemistry/Chemical_Reaction/Fire.public.md) 
 
-### #is_/same_as :: [Fire.internal](/_internal/Chemistry/inOrganic/Fire.internal.md) 
+### #is_/same_as :: [Fire.internal](/_internal/Chemistry/Chemical_Reaction/Fire.internal.md) 
 
-### #is_/same_as :: [Fire.protect](/_protect/Chemistry/inOrganic/Fire.protect.md) 
+### #is_/same_as :: [Fire.protect](/_protect/Chemistry/Chemical_Reaction/Fire.protect.md) 
 
-### #is_/same_as :: [Fire.private](/_private/Chemistry/inOrganic/Fire.private.md) 
+### #is_/same_as :: [Fire.private](/_private/Chemistry/Chemical_Reaction/Fire.private.md) 
 
-### #is_/same_as :: [Fire.personal](/_personal/Chemistry/inOrganic/Fire.personal.md) 
+### #is_/same_as :: [Fire.personal](/_personal/Chemistry/Chemical_Reaction/Fire.personal.md) 
 
-### #is_/same_as :: [Fire.secret](/_secret/Chemistry/inOrganic/Fire.secret.md)
+### #is_/same_as :: [Fire.secret](/_secret/Chemistry/Chemical_Reaction/Fire.secret.md)
 

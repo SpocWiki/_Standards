@@ -65,3 +65,22 @@ name_in_hiero_markup: r:D36-ra:Z1-C2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ra) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ra](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.md) 
+
+### #is_/same_as :: [Ra.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.public.md) 
+
+### #is_/same_as :: [Ra.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.internal.md) 
+
+### #is_/same_as :: [Ra.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.protect.md) 
+
+### #is_/same_as :: [Ra.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.private.md) 
+
+### #is_/same_as :: [Ra.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.personal.md) 
+
+### #is_/same_as :: [Ra.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.secret.md)
+

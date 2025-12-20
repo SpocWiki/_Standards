@@ -66,3 +66,22 @@ Colon_Classification: SG--54
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iberian%20Peninsula) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Iberia](/_Standards/Earth/Continent/Europe/Iberia.md) 
+
+### #is_/same_as :: [Iberia.public](/_public/Earth/Continent/Europe/Iberia.public.md) 
+
+### #is_/same_as :: [Iberia.internal](/_internal/Earth/Continent/Europe/Iberia.internal.md) 
+
+### #is_/same_as :: [Iberia.protect](/_protect/Earth/Continent/Europe/Iberia.protect.md) 
+
+### #is_/same_as :: [Iberia.private](/_private/Earth/Continent/Europe/Iberia.private.md) 
+
+### #is_/same_as :: [Iberia.personal](/_personal/Earth/Continent/Europe/Iberia.personal.md) 
+
+### #is_/same_as :: [Iberia.secret](/_secret/Earth/Continent/Europe/Iberia.secret.md)
+

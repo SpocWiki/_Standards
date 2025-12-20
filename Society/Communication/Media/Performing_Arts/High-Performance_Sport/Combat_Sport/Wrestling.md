@@ -78,3 +78,22 @@ Dewey_Decimal_Classification: "796.812"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wrestling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wrestling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.md) 
+
+### #is_/same_as :: [Wrestling.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.public.md) 
+
+### #is_/same_as :: [Wrestling.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.internal.md) 
+
+### #is_/same_as :: [Wrestling.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.protect.md) 
+
+### #is_/same_as :: [Wrestling.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.private.md) 
+
+### #is_/same_as :: [Wrestling.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.personal.md) 
+
+### #is_/same_as :: [Wrestling.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling.secret.md)
+

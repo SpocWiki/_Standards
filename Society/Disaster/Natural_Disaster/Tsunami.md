@@ -150,3 +150,22 @@ type: private_note
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tsunami](/_Standards/Society/Disaster/Natural_Disaster/Tsunami.md) 
+
+### #is_/same_as :: [Tsunami.public](/_public/Society/Disaster/Natural_Disaster/Tsunami.public.md) 
+
+### #is_/same_as :: [Tsunami.internal](/_internal/Society/Disaster/Natural_Disaster/Tsunami.internal.md) 
+
+### #is_/same_as :: [Tsunami.protect](/_protect/Society/Disaster/Natural_Disaster/Tsunami.protect.md) 
+
+### #is_/same_as :: [Tsunami.private](/_private/Society/Disaster/Natural_Disaster/Tsunami.private.md) 
+
+### #is_/same_as :: [Tsunami.personal](/_personal/Society/Disaster/Natural_Disaster/Tsunami.personal.md) 
+
+### #is_/same_as :: [Tsunami.secret](/_secret/Society/Disaster/Natural_Disaster/Tsunami.secret.md)
+

@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [id_Software](id_Software.md) 
+### #is_/same_as :: [id_Software](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.md) 
 
-### #is_/same_as :: [id_Software.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/id_Software.public.md) 
+### #is_/same_as :: [id_Software.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.public.md) 
 
-### #is_/same_as :: [id_Software.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/id_Software.internal.md) 
+### #is_/same_as :: [id_Software.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.internal.md) 
 
-### #is_/same_as :: [id_Software.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/id_Software.protect.md) 
+### #is_/same_as :: [id_Software.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.protect.md) 
 
-### #is_/same_as :: [id_Software.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/id_Software.private.md) 
+### #is_/same_as :: [id_Software.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.private.md) 
 
-### #is_/same_as :: [id_Software.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/id_Software.personal.md) 
+### #is_/same_as :: [id_Software.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.personal.md) 
 
-### #is_/same_as :: [id_Software.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/id_Software.secret.md)
+### #is_/same_as :: [id_Software.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software.secret.md)
 

@@ -42,17 +42,17 @@ Represents the activation fee part of the total price for an offered product, fo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Activation_Fee](Activation_Fee.md) 
+### #is_/same_as :: [Activation_Fee](/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.md) 
 
-### #is_/same_as :: [activation_fee.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/activation_fee.public.md) 
+### #is_/same_as :: [Activation_Fee.public](/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.public.md) 
 
-### #is_/same_as :: [activation_fee.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/activation_fee.internal.md) 
+### #is_/same_as :: [Activation_Fee.internal](/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.internal.md) 
 
-### #is_/same_as :: [activation_fee.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/activation_fee.protect.md) 
+### #is_/same_as :: [Activation_Fee.protect](/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.protect.md) 
 
-### #is_/same_as :: [activation_fee.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/activation_fee.private.md) 
+### #is_/same_as :: [Activation_Fee.private](/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.private.md) 
 
-### #is_/same_as :: [activation_fee.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/activation_fee.personal.md) 
+### #is_/same_as :: [Activation_Fee.personal](/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.personal.md) 
 
-### #is_/same_as :: [activation_fee.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/activation_fee.secret.md)
+### #is_/same_as :: [Activation_Fee.secret](/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.secret.md)
 

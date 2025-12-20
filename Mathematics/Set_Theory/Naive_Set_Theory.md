@@ -33,3 +33,22 @@ Stack_Exchange_tag: https://math.stackexchange.com/tags/elementary-set-theory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Naive%20set%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Naive_Set_Theory](/_Standards/Mathematics/Set_Theory/Naive_Set_Theory.md) 
+
+### #is_/same_as :: [Naive_Set_Theory.public](/_public/Mathematics/Set_Theory/Naive_Set_Theory.public.md) 
+
+### #is_/same_as :: [Naive_Set_Theory.internal](/_internal/Mathematics/Set_Theory/Naive_Set_Theory.internal.md) 
+
+### #is_/same_as :: [Naive_Set_Theory.protect](/_protect/Mathematics/Set_Theory/Naive_Set_Theory.protect.md) 
+
+### #is_/same_as :: [Naive_Set_Theory.private](/_private/Mathematics/Set_Theory/Naive_Set_Theory.private.md) 
+
+### #is_/same_as :: [Naive_Set_Theory.personal](/_personal/Mathematics/Set_Theory/Naive_Set_Theory.personal.md) 
+
+### #is_/same_as :: [Naive_Set_Theory.secret](/_secret/Mathematics/Set_Theory/Naive_Set_Theory.secret.md)
+

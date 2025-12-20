@@ -54,3 +54,22 @@ Colon_Classification: CRT
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Space) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Space](/_Standards/Mathematics/Geometry/Space.md) 
+
+### #is_/same_as :: [Space.public](/_public/Mathematics/Geometry/Space.public.md) 
+
+### #is_/same_as :: [Space.internal](/_internal/Mathematics/Geometry/Space.internal.md) 
+
+### #is_/same_as :: [Space.protect](/_protect/Mathematics/Geometry/Space.protect.md) 
+
+### #is_/same_as :: [Space.private](/_private/Mathematics/Geometry/Space.private.md) 
+
+### #is_/same_as :: [Space.personal](/_personal/Mathematics/Geometry/Space.personal.md) 
+
+### #is_/same_as :: [Space.secret](/_secret/Mathematics/Geometry/Space.secret.md)
+

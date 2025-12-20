@@ -40,3 +40,22 @@ Provenio_UUID: 7733d8ab-c2ea-4d0e-8ef9-0bf5939cf682
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20agriculture) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Agriculture](/_Standards/Society/Economics/Industry/Agriculture/History_of_Agriculture.md) 
+
+### #is_/same_as :: [History_of_Agriculture.public](/_public/Society/Economics/Industry/Agriculture/History_of_Agriculture.public.md) 
+
+### #is_/same_as :: [History_of_Agriculture.internal](/_internal/Society/Economics/Industry/Agriculture/History_of_Agriculture.internal.md) 
+
+### #is_/same_as :: [History_of_Agriculture.protect](/_protect/Society/Economics/Industry/Agriculture/History_of_Agriculture.protect.md) 
+
+### #is_/same_as :: [History_of_Agriculture.private](/_private/Society/Economics/Industry/Agriculture/History_of_Agriculture.private.md) 
+
+### #is_/same_as :: [History_of_Agriculture.personal](/_personal/Society/Economics/Industry/Agriculture/History_of_Agriculture.personal.md) 
+
+### #is_/same_as :: [History_of_Agriculture.secret](/_secret/Society/Economics/Industry/Agriculture/History_of_Agriculture.secret.md)
+

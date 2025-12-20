@@ -38,3 +38,22 @@ earliest_date: -400000-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pigment) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pigment](/_Standards/Society/Communication/Media/Painting/Pigment.md) 
+
+### #is_/same_as :: [Pigment.public](/_public/Society/Communication/Media/Painting/Pigment.public.md) 
+
+### #is_/same_as :: [Pigment.internal](/_internal/Society/Communication/Media/Painting/Pigment.internal.md) 
+
+### #is_/same_as :: [Pigment.protect](/_protect/Society/Communication/Media/Painting/Pigment.protect.md) 
+
+### #is_/same_as :: [Pigment.private](/_private/Society/Communication/Media/Painting/Pigment.private.md) 
+
+### #is_/same_as :: [Pigment.personal](/_personal/Society/Communication/Media/Painting/Pigment.personal.md) 
+
+### #is_/same_as :: [Pigment.secret](/_secret/Society/Communication/Media/Painting/Pigment.secret.md)
+

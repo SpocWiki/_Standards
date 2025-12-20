@@ -98,3 +98,22 @@ Europeana_entity: agent/base/61533
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stevie%20Ray%20Vaughan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vaughan,Stevie_Ray](/_Standards/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.md) 
+
+### #is_/same_as :: [Vaughan,Stevie_Ray.public](/_public/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.public.md) 
+
+### #is_/same_as :: [Vaughan,Stevie_Ray.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.internal.md) 
+
+### #is_/same_as :: [Vaughan,Stevie_Ray.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.protect.md) 
+
+### #is_/same_as :: [Vaughan,Stevie_Ray.private](/_private/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.private.md) 
+
+### #is_/same_as :: [Vaughan,Stevie_Ray.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.personal.md) 
+
+### #is_/same_as :: [Vaughan,Stevie_Ray.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.secret.md)
+

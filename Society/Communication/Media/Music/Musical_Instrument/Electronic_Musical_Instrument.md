@@ -26,3 +26,22 @@ has_id_wikidata: Q1327500
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electronic%20musical%20instrument) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electronic_Musical_Instrument](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.md) 
+
+### #is_/same_as :: [Electronic_Musical_Instrument.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.public.md) 
+
+### #is_/same_as :: [Electronic_Musical_Instrument.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.internal.md) 
+
+### #is_/same_as :: [Electronic_Musical_Instrument.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.protect.md) 
+
+### #is_/same_as :: [Electronic_Musical_Instrument.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.private.md) 
+
+### #is_/same_as :: [Electronic_Musical_Instrument.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.personal.md) 
+
+### #is_/same_as :: [Electronic_Musical_Instrument.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.secret.md)
+

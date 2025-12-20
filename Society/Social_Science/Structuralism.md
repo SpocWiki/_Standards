@@ -38,3 +38,22 @@ Library_of_Congress_Classification: B841.4.A-B841.4.Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Structuralism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Structuralism](/_Standards/Society/Social_Science/Structuralism.md) 
+
+### #is_/same_as :: [Structuralism.public](/_public/Society/Social_Science/Structuralism.public.md) 
+
+### #is_/same_as :: [Structuralism.internal](/_internal/Society/Social_Science/Structuralism.internal.md) 
+
+### #is_/same_as :: [Structuralism.protect](/_protect/Society/Social_Science/Structuralism.protect.md) 
+
+### #is_/same_as :: [Structuralism.private](/_private/Society/Social_Science/Structuralism.private.md) 
+
+### #is_/same_as :: [Structuralism.personal](/_personal/Society/Social_Science/Structuralism.personal.md) 
+
+### #is_/same_as :: [Structuralism.secret](/_secret/Society/Social_Science/Structuralism.secret.md)
+

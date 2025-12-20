@@ -171,3 +171,22 @@ World_Health_Organisation_international_non_proprietary_name: glyceryl trinitrat
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nitroglycerin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nitroglycerin](/_Standards/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.md) 
+
+### #is_/same_as :: [Nitroglycerin.public](/_public/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.public.md) 
+
+### #is_/same_as :: [Nitroglycerin.internal](/_internal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.internal.md) 
+
+### #is_/same_as :: [Nitroglycerin.protect](/_protect/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.protect.md) 
+
+### #is_/same_as :: [Nitroglycerin.private](/_private/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.private.md) 
+
+### #is_/same_as :: [Nitroglycerin.personal](/_personal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.personal.md) 
+
+### #is_/same_as :: [Nitroglycerin.secret](/_secret/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.secret.md)
+

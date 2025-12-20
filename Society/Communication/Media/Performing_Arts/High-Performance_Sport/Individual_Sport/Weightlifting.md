@@ -61,3 +61,22 @@ OpenStreetMap_tag: sport=weightlifting
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Weightlifting) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Weightlifting](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Weightlifting.md) 
+
+### #is_/same_as :: [Weightlifting.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Weightlifting.public.md) 
+
+### #is_/same_as :: [Weightlifting.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Weightlifting.internal.md) 
+
+### #is_/same_as :: [Weightlifting.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Weightlifting.protect.md) 
+
+### #is_/same_as :: [Weightlifting.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Weightlifting.private.md) 
+
+### #is_/same_as :: [Weightlifting.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Weightlifting.personal.md) 
+
+### #is_/same_as :: [Weightlifting.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Weightlifting.secret.md)
+

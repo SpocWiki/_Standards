@@ -41,3 +41,22 @@ Commons_category: Globular clusters
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Globular%20cluster) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Globular_Cluster](/_Standards/Astronomy/Star_System/Galaxy/Globular_Cluster.md) 
+
+### #is_/same_as :: [Globular_Cluster.public](/_public/Astronomy/Star_System/Galaxy/Globular_Cluster.public.md) 
+
+### #is_/same_as :: [Globular_Cluster.internal](/_internal/Astronomy/Star_System/Galaxy/Globular_Cluster.internal.md) 
+
+### #is_/same_as :: [Globular_Cluster.protect](/_protect/Astronomy/Star_System/Galaxy/Globular_Cluster.protect.md) 
+
+### #is_/same_as :: [Globular_Cluster.private](/_private/Astronomy/Star_System/Galaxy/Globular_Cluster.private.md) 
+
+### #is_/same_as :: [Globular_Cluster.personal](/_personal/Astronomy/Star_System/Galaxy/Globular_Cluster.personal.md) 
+
+### #is_/same_as :: [Globular_Cluster.secret](/_secret/Astronomy/Star_System/Galaxy/Globular_Cluster.secret.md)
+

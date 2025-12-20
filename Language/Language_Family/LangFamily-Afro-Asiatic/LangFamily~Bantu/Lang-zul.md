@@ -90,3 +90,22 @@ native_label: isiZulu
 > [Wikipedia](https://en.wikipedia.org/wiki/Zulu%20language) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-zul](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-zul.md) 
+
+### #is_/same_as :: [Lang-zul.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-zul.public.md) 
+
+### #is_/same_as :: [Lang-zul.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-zul.internal.md) 
+
+### #is_/same_as :: [Lang-zul.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-zul.protect.md) 
+
+### #is_/same_as :: [Lang-zul.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-zul.private.md) 
+
+### #is_/same_as :: [Lang-zul.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-zul.personal.md) 
+
+### #is_/same_as :: [Lang-zul.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-zul.secret.md)
+

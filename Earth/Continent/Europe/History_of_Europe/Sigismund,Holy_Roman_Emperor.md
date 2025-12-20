@@ -124,3 +124,22 @@ date_of_birth: 1368-02-22T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sigismund,%20Holy%20Roman%20Emperor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sigismund,Holy_Roman_Emperor](/_Standards/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.md) 
+
+### #is_/same_as :: [Sigismund,Holy_Roman_Emperor.public](/_public/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.public.md) 
+
+### #is_/same_as :: [Sigismund,Holy_Roman_Emperor.internal](/_internal/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.internal.md) 
+
+### #is_/same_as :: [Sigismund,Holy_Roman_Emperor.protect](/_protect/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.protect.md) 
+
+### #is_/same_as :: [Sigismund,Holy_Roman_Emperor.private](/_private/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.private.md) 
+
+### #is_/same_as :: [Sigismund,Holy_Roman_Emperor.personal](/_personal/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.personal.md) 
+
+### #is_/same_as :: [Sigismund,Holy_Roman_Emperor.secret](/_secret/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.secret.md)
+

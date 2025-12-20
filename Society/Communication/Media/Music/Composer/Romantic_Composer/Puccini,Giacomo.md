@@ -118,17 +118,17 @@ work_period_start_: 1876
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Puccini,Giacomo](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Puccini,Giacomo.md) 
+### #is_/same_as :: [Puccini,Giacomo](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Puccini,Giacomo.md) 
 
-### #is_/same_as :: [Puccini,Giacomo.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Puccini,Giacomo.public.md) 
+### #is_/same_as :: [Puccini,Giacomo.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Puccini,Giacomo.public.md) 
 
-### #is_/same_as :: [Puccini,Giacomo.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Puccini,Giacomo.internal.md) 
+### #is_/same_as :: [Puccini,Giacomo.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Puccini,Giacomo.internal.md) 
 
-### #is_/same_as :: [Puccini,Giacomo.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Puccini,Giacomo.protect.md) 
+### #is_/same_as :: [Puccini,Giacomo.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Puccini,Giacomo.protect.md) 
 
-### #is_/same_as :: [Puccini,Giacomo.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Puccini,Giacomo.private.md) 
+### #is_/same_as :: [Puccini,Giacomo.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Puccini,Giacomo.private.md) 
 
-### #is_/same_as :: [Puccini,Giacomo.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Puccini,Giacomo.personal.md) 
+### #is_/same_as :: [Puccini,Giacomo.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Puccini,Giacomo.personal.md) 
 
-### #is_/same_as :: [Puccini,Giacomo.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Puccini,Giacomo.secret.md)
+### #is_/same_as :: [Puccini,Giacomo.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Puccini,Giacomo.secret.md)
 

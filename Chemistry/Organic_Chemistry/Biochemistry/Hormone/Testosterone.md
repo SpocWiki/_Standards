@@ -161,17 +161,17 @@ ZVG_number: 492352
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Testosterone](Testosterone.md) 
+### #is_/same_as :: [Testosterone](/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.md) 
 
-### #is_/same_as :: [Testosterone.public](/_public/Chemistry/organic/Biochemistry/Hormone/Testosterone.public.md) 
+### #is_/same_as :: [Testosterone.public](/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.public.md) 
 
-### #is_/same_as :: [Testosterone.internal](/_internal/Chemistry/organic/Biochemistry/Hormone/Testosterone.internal.md) 
+### #is_/same_as :: [Testosterone.internal](/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.internal.md) 
 
-### #is_/same_as :: [Testosterone.protect](/_protect/Chemistry/organic/Biochemistry/Hormone/Testosterone.protect.md) 
+### #is_/same_as :: [Testosterone.protect](/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.protect.md) 
 
-### #is_/same_as :: [Testosterone.private](/_private/Chemistry/organic/Biochemistry/Hormone/Testosterone.private.md) 
+### #is_/same_as :: [Testosterone.private](/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.private.md) 
 
-### #is_/same_as :: [Testosterone.personal](/_personal/Chemistry/organic/Biochemistry/Hormone/Testosterone.personal.md) 
+### #is_/same_as :: [Testosterone.personal](/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.personal.md) 
 
-### #is_/same_as :: [Testosterone.secret](/_secret/Chemistry/organic/Biochemistry/Hormone/Testosterone.secret.md)
+### #is_/same_as :: [Testosterone.secret](/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Testosterone.secret.md)
 

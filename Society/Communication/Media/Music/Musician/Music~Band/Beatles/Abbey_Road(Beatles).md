@@ -95,3 +95,22 @@ of unmatched creativity and camaraderie.
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Abbey_Road(Beatles)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Abbey_Road(Beatles).md) 
+
+### #is_/same_as :: [Abbey_Road(Beatles).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Abbey_Road(Beatles).public.md) 
+
+### #is_/same_as :: [Abbey_Road(Beatles).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Abbey_Road(Beatles).internal.md) 
+
+### #is_/same_as :: [Abbey_Road(Beatles).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Abbey_Road(Beatles).protect.md) 
+
+### #is_/same_as :: [Abbey_Road(Beatles).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Abbey_Road(Beatles).private.md) 
+
+### #is_/same_as :: [Abbey_Road(Beatles).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Abbey_Road(Beatles).personal.md) 
+
+### #is_/same_as :: [Abbey_Road(Beatles).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Abbey_Road(Beatles).secret.md)
+

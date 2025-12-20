@@ -40,17 +40,17 @@ CassetteFormat.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cassette_Format](Cassette_Format.md) 
+### #is_/same_as :: [Cassette_Format](/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.md) 
 
-### #is_/same_as :: [cassette_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.public.md) 
+### #is_/same_as :: [Cassette_Format.public](/_public/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.public.md) 
 
-### #is_/same_as :: [cassette_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.internal.md) 
+### #is_/same_as :: [Cassette_Format.internal](/_internal/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.internal.md) 
 
-### #is_/same_as :: [cassette_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.protect.md) 
+### #is_/same_as :: [Cassette_Format.protect](/_protect/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.protect.md) 
 
-### #is_/same_as :: [cassette_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.private.md) 
+### #is_/same_as :: [Cassette_Format.private](/_private/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.private.md) 
 
-### #is_/same_as :: [cassette_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.personal.md) 
+### #is_/same_as :: [Cassette_Format.personal](/_personal/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.personal.md) 
 
-### #is_/same_as :: [cassette_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.secret.md)
+### #is_/same_as :: [Cassette_Format.secret](/_secret/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.secret.md)
 

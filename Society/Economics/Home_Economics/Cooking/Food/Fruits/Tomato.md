@@ -129,3 +129,22 @@ external_data_available_at_URL: https://www.gbif.org/dataset/31dc1507-a6e1-4233-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tomato) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tomato](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Tomato.md) 
+
+### #is_/same_as :: [Tomato.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Tomato.public.md) 
+
+### #is_/same_as :: [Tomato.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Tomato.internal.md) 
+
+### #is_/same_as :: [Tomato.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Tomato.protect.md) 
+
+### #is_/same_as :: [Tomato.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Tomato.private.md) 
+
+### #is_/same_as :: [Tomato.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Tomato.personal.md) 
+
+### #is_/same_as :: [Tomato.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Tomato.secret.md)
+

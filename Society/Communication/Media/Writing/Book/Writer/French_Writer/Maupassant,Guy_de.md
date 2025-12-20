@@ -111,3 +111,22 @@ official_website: http://maupassantiana.fr
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guy%20de%20Maupassant) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Maupassant,Guy_de](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.md) 
+
+### #is_/same_as :: [Maupassant,Guy_de.public](/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.public.md) 
+
+### #is_/same_as :: [Maupassant,Guy_de.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.internal.md) 
+
+### #is_/same_as :: [Maupassant,Guy_de.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.protect.md) 
+
+### #is_/same_as :: [Maupassant,Guy_de.private](/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.private.md) 
+
+### #is_/same_as :: [Maupassant,Guy_de.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.personal.md) 
+
+### #is_/same_as :: [Maupassant,Guy_de.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.secret.md)
+

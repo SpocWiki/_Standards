@@ -54,3 +54,22 @@ NBN_System_Key: NBNSYS0000135345
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mouse) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mouse](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Muridae/Murinae/Mouse.md) 
+
+### #is_/same_as :: [Mouse.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Muridae/Murinae/Mouse.public.md) 
+
+### #is_/same_as :: [Mouse.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Muridae/Murinae/Mouse.internal.md) 
+
+### #is_/same_as :: [Mouse.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Muridae/Murinae/Mouse.protect.md) 
+
+### #is_/same_as :: [Mouse.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Muridae/Murinae/Mouse.private.md) 
+
+### #is_/same_as :: [Mouse.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Muridae/Murinae/Mouse.personal.md) 
+
+### #is_/same_as :: [Mouse.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Muridae/Murinae/Mouse.secret.md)
+

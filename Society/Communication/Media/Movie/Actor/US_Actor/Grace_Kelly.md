@@ -152,3 +152,22 @@ ISNI: "0000000120955240"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grace%20Kelly) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grace_Kelly](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.md) 
+
+### #is_/same_as :: [Grace_Kelly.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.public.md) 
+
+### #is_/same_as :: [Grace_Kelly.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.internal.md) 
+
+### #is_/same_as :: [Grace_Kelly.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.protect.md) 
+
+### #is_/same_as :: [Grace_Kelly.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.private.md) 
+
+### #is_/same_as :: [Grace_Kelly.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.personal.md) 
+
+### #is_/same_as :: [Grace_Kelly.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.secret.md)
+

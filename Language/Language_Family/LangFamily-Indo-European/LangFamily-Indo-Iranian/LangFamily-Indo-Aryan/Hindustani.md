@@ -52,3 +52,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Hindustani%20language) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hindustani](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.md) 
+
+### #is_/same_as :: [Hindustani.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.public.md) 
+
+### #is_/same_as :: [Hindustani.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.internal.md) 
+
+### #is_/same_as :: [Hindustani.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.protect.md) 
+
+### #is_/same_as :: [Hindustani.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.private.md) 
+
+### #is_/same_as :: [Hindustani.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.personal.md) 
+
+### #is_/same_as :: [Hindustani.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.secret.md)
+

@@ -78,3 +78,22 @@ Gujarati_Vishwakosh_entry: આદર્શ-વાયુ
 > [Wikipedia](https://en.wikipedia.org/wiki/Ideal%20gas) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ideal_Gas](/_Standards/Science/Physics/Thermodynamics/Ideal_Gas.md) 
+
+### #is_/same_as :: [Ideal_Gas.public](/_public/Science/Physics/Thermodynamics/Ideal_Gas.public.md) 
+
+### #is_/same_as :: [Ideal_Gas.internal](/_internal/Science/Physics/Thermodynamics/Ideal_Gas.internal.md) 
+
+### #is_/same_as :: [Ideal_Gas.protect](/_protect/Science/Physics/Thermodynamics/Ideal_Gas.protect.md) 
+
+### #is_/same_as :: [Ideal_Gas.private](/_private/Science/Physics/Thermodynamics/Ideal_Gas.private.md) 
+
+### #is_/same_as :: [Ideal_Gas.personal](/_personal/Science/Physics/Thermodynamics/Ideal_Gas.personal.md) 
+
+### #is_/same_as :: [Ideal_Gas.secret](/_secret/Science/Physics/Thermodynamics/Ideal_Gas.secret.md)
+

@@ -28,3 +28,22 @@ Commons_category: Lunar calendars
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lunar%20calendar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lunar_Calendar](/_Standards/ISO/Calendar/Lunar_Calendar.md) 
+
+### #is_/same_as :: [Lunar_Calendar.public](/_public/ISO/Calendar/Lunar_Calendar.public.md) 
+
+### #is_/same_as :: [Lunar_Calendar.internal](/_internal/ISO/Calendar/Lunar_Calendar.internal.md) 
+
+### #is_/same_as :: [Lunar_Calendar.protect](/_protect/ISO/Calendar/Lunar_Calendar.protect.md) 
+
+### #is_/same_as :: [Lunar_Calendar.private](/_private/ISO/Calendar/Lunar_Calendar.private.md) 
+
+### #is_/same_as :: [Lunar_Calendar.personal](/_personal/ISO/Calendar/Lunar_Calendar.personal.md) 
+
+### #is_/same_as :: [Lunar_Calendar.secret](/_secret/ISO/Calendar/Lunar_Calendar.secret.md)
+

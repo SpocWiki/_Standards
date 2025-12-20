@@ -149,3 +149,4 @@ type: Element
 ### #is_/same_as :: [Germanium.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.personal.md) 
 
 ### #is_/same_as :: [Germanium.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.secret.md)
+

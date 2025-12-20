@@ -101,3 +101,22 @@ birth_name: Gilbert Newton Lewis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gilbert%20N.%20Lewis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lewis,Gilbert_N.](/_Standards/Chemistry/Chemist/Lewis,Gilbert_N..md) 
+
+### #is_/same_as :: [Lewis,Gilbert_N..public](/_public/Chemistry/Chemist/Lewis,Gilbert_N..public.md) 
+
+### #is_/same_as :: [Lewis,Gilbert_N..internal](/_internal/Chemistry/Chemist/Lewis,Gilbert_N..internal.md) 
+
+### #is_/same_as :: [Lewis,Gilbert_N..protect](/_protect/Chemistry/Chemist/Lewis,Gilbert_N..protect.md) 
+
+### #is_/same_as :: [Lewis,Gilbert_N..private](/_private/Chemistry/Chemist/Lewis,Gilbert_N..private.md) 
+
+### #is_/same_as :: [Lewis,Gilbert_N..personal](/_personal/Chemistry/Chemist/Lewis,Gilbert_N..personal.md) 
+
+### #is_/same_as :: [Lewis,Gilbert_N..secret](/_secret/Chemistry/Chemist/Lewis,Gilbert_N..secret.md)
+

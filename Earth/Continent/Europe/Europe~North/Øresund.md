@@ -68,3 +68,22 @@ Commons_category: Oresund
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%98resund) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Øresund](/_Standards/Earth/Continent/Europe/Europe~North/Øresund.md) 
+
+### #is_/same_as :: [Øresund.public](/_public/Earth/Continent/Europe/Europe~North/Øresund.public.md) 
+
+### #is_/same_as :: [Øresund.internal](/_internal/Earth/Continent/Europe/Europe~North/Øresund.internal.md) 
+
+### #is_/same_as :: [Øresund.protect](/_protect/Earth/Continent/Europe/Europe~North/Øresund.protect.md) 
+
+### #is_/same_as :: [Øresund.private](/_private/Earth/Continent/Europe/Europe~North/Øresund.private.md) 
+
+### #is_/same_as :: [Øresund.personal](/_personal/Earth/Continent/Europe/Europe~North/Øresund.personal.md) 
+
+### #is_/same_as :: [Øresund.secret](/_secret/Earth/Continent/Europe/Europe~North/Øresund.secret.md)
+

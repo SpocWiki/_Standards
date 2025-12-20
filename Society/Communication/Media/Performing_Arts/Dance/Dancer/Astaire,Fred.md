@@ -21,3 +21,22 @@ has_id_wikidata: Q100937
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fred%20Astaire) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Astaire,Fred](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.md) 
+
+### #is_/same_as :: [Astaire,Fred.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.public.md) 
+
+### #is_/same_as :: [Astaire,Fred.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.internal.md) 
+
+### #is_/same_as :: [Astaire,Fred.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.protect.md) 
+
+### #is_/same_as :: [Astaire,Fred.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.private.md) 
+
+### #is_/same_as :: [Astaire,Fred.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.personal.md) 
+
+### #is_/same_as :: [Astaire,Fred.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.secret.md)
+

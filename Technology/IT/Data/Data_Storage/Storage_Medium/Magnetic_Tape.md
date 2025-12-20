@@ -56,3 +56,22 @@ Commons_category: Magnetic tapes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetic%20tape) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Magnetic_Tape](/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.md) 
+
+### #is_/same_as :: [Magnetic_Tape.public](/_public/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.public.md) 
+
+### #is_/same_as :: [Magnetic_Tape.internal](/_internal/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.internal.md) 
+
+### #is_/same_as :: [Magnetic_Tape.protect](/_protect/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.protect.md) 
+
+### #is_/same_as :: [Magnetic_Tape.private](/_private/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.private.md) 
+
+### #is_/same_as :: [Magnetic_Tape.personal](/_personal/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.personal.md) 
+
+### #is_/same_as :: [Magnetic_Tape.secret](/_secret/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.secret.md)
+

@@ -116,3 +116,22 @@ Commons_category: Viola (Violaceae)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Viola%20(plant)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Viola(Plant)](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Violaceae/Viola(Plant).md) 
+
+### #is_/same_as :: [Viola(Plant).public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Violaceae/Viola(Plant).public.md) 
+
+### #is_/same_as :: [Viola(Plant).internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Violaceae/Viola(Plant).internal.md) 
+
+### #is_/same_as :: [Viola(Plant).protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Violaceae/Viola(Plant).protect.md) 
+
+### #is_/same_as :: [Viola(Plant).private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Violaceae/Viola(Plant).private.md) 
+
+### #is_/same_as :: [Viola(Plant).personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Violaceae/Viola(Plant).personal.md) 
+
+### #is_/same_as :: [Viola(Plant).secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Violaceae/Viola(Plant).secret.md)
+

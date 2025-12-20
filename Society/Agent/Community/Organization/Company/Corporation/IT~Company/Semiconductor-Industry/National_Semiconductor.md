@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [National_Semiconductor](National_Semiconductor.md) 
+### #is_/same_as :: [National_Semiconductor](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/National_Semiconductor.md) 
 
-### #is_/same_as :: [National_Semiconductor.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/National_Semiconductor.public.md) 
+### #is_/same_as :: [National_Semiconductor.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/National_Semiconductor.public.md) 
 
-### #is_/same_as :: [National_Semiconductor.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/National_Semiconductor.internal.md) 
+### #is_/same_as :: [National_Semiconductor.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/National_Semiconductor.internal.md) 
 
-### #is_/same_as :: [National_Semiconductor.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/National_Semiconductor.protect.md) 
+### #is_/same_as :: [National_Semiconductor.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/National_Semiconductor.protect.md) 
 
-### #is_/same_as :: [National_Semiconductor.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/National_Semiconductor.private.md) 
+### #is_/same_as :: [National_Semiconductor.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/National_Semiconductor.private.md) 
 
-### #is_/same_as :: [National_Semiconductor.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/National_Semiconductor.personal.md) 
+### #is_/same_as :: [National_Semiconductor.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/National_Semiconductor.personal.md) 
 
-### #is_/same_as :: [National_Semiconductor.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/National_Semiconductor.secret.md)
+### #is_/same_as :: [National_Semiconductor.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/National_Semiconductor.secret.md)
 

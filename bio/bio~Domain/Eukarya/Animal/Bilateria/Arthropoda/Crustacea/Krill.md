@@ -43,3 +43,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Krill) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Krill](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Krill.md) 
+
+### #is_/same_as :: [Krill.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Krill.public.md) 
+
+### #is_/same_as :: [Krill.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Krill.internal.md) 
+
+### #is_/same_as :: [Krill.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Krill.protect.md) 
+
+### #is_/same_as :: [Krill.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Krill.private.md) 
+
+### #is_/same_as :: [Krill.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Krill.personal.md) 
+
+### #is_/same_as :: [Krill.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Krill.secret.md)
+

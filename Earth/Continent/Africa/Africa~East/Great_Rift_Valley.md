@@ -69,3 +69,22 @@ Commons_category: Great Plains
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Rift%20Valley) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Great_Rift_Valley](/_Standards/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.md) 
+
+### #is_/same_as :: [Great_Rift_Valley.public](/_public/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.public.md) 
+
+### #is_/same_as :: [Great_Rift_Valley.internal](/_internal/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.internal.md) 
+
+### #is_/same_as :: [Great_Rift_Valley.protect](/_protect/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.protect.md) 
+
+### #is_/same_as :: [Great_Rift_Valley.private](/_private/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.private.md) 
+
+### #is_/same_as :: [Great_Rift_Valley.personal](/_personal/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.personal.md) 
+
+### #is_/same_as :: [Great_Rift_Valley.secret](/_secret/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.secret.md)
+

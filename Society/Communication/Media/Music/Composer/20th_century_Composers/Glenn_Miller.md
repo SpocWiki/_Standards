@@ -110,3 +110,22 @@ date_of_birth: 1904-03-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Glenn%20Miller) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Glenn_Miller](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Glenn_Miller.md) 
+
+### #is_/same_as :: [Glenn_Miller.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Glenn_Miller.public.md) 
+
+### #is_/same_as :: [Glenn_Miller.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Glenn_Miller.internal.md) 
+
+### #is_/same_as :: [Glenn_Miller.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Glenn_Miller.protect.md) 
+
+### #is_/same_as :: [Glenn_Miller.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Glenn_Miller.private.md) 
+
+### #is_/same_as :: [Glenn_Miller.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Glenn_Miller.personal.md) 
+
+### #is_/same_as :: [Glenn_Miller.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Glenn_Miller.secret.md)
+

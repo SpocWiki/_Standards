@@ -80,3 +80,22 @@ has_id_wikidata: Q134165
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oscar%20Niemeyer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Niemeyer,Oscar](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.md) 
+
+### #is_/same_as :: [Niemeyer,Oscar.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.public.md) 
+
+### #is_/same_as :: [Niemeyer,Oscar.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.internal.md) 
+
+### #is_/same_as :: [Niemeyer,Oscar.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.protect.md) 
+
+### #is_/same_as :: [Niemeyer,Oscar.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.private.md) 
+
+### #is_/same_as :: [Niemeyer,Oscar.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.personal.md) 
+
+### #is_/same_as :: [Niemeyer,Oscar.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.secret.md)
+

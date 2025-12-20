@@ -105,3 +105,22 @@ booru_tag: francis_drake
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Francis%20Drake) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Drake,Francis](/_Standards/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.md) 
+
+### #is_/same_as :: [Drake,Francis.public](/_public/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.public.md) 
+
+### #is_/same_as :: [Drake,Francis.internal](/_internal/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.internal.md) 
+
+### #is_/same_as :: [Drake,Francis.protect](/_protect/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.protect.md) 
+
+### #is_/same_as :: [Drake,Francis.private](/_private/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.private.md) 
+
+### #is_/same_as :: [Drake,Francis.personal](/_personal/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.personal.md) 
+
+### #is_/same_as :: [Drake,Francis.secret](/_secret/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.secret.md)
+

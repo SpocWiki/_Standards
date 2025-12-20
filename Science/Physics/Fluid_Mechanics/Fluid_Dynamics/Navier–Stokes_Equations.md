@@ -25,3 +25,22 @@ has_id_wikidata: Q201321
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes%20equations) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Navier–Stokes_Equations](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.md) 
+
+### #is_/same_as :: [Navier–Stokes_Equations.public](/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.public.md) 
+
+### #is_/same_as :: [Navier–Stokes_Equations.internal](/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.internal.md) 
+
+### #is_/same_as :: [Navier–Stokes_Equations.protect](/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.protect.md) 
+
+### #is_/same_as :: [Navier–Stokes_Equations.private](/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.private.md) 
+
+### #is_/same_as :: [Navier–Stokes_Equations.personal](/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.personal.md) 
+
+### #is_/same_as :: [Navier–Stokes_Equations.secret](/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.secret.md)
+

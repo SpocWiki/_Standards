@@ -122,3 +122,22 @@ Europeana_entity: agent/base/146819
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gene%20Kelly) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kelly,Gene](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.md) 
+
+### #is_/same_as :: [Kelly,Gene.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.public.md) 
+
+### #is_/same_as :: [Kelly,Gene.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.internal.md) 
+
+### #is_/same_as :: [Kelly,Gene.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.protect.md) 
+
+### #is_/same_as :: [Kelly,Gene.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.private.md) 
+
+### #is_/same_as :: [Kelly,Gene.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.personal.md) 
+
+### #is_/same_as :: [Kelly,Gene.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.secret.md)
+

@@ -145,7 +145,7 @@ Alice (1898-1910). 3e Serie. Monaco.
   -------------------------------
   Scientific Name ::  Mastigoteuthis magna
   Comments          Ventrolateral view of a squid thought to be M. magna that was taken from a submersible
-  -------------------------------
+  -------------------------------
 
 
 ## Confidential Links & Embeds: 

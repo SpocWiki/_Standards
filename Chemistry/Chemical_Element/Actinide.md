@@ -68,17 +68,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Actinide-Group](/_Standards/Chemistry/Chemical_Element/Actinide-Group.md) 
+### #is_/same_as :: [Actinide](/_Standards/Chemistry/Chemical_Element/Actinide.md) 
 
-### #is_/same_as :: [Actinide-Group.public](/_public/Chemistry/Chemical_Element/Actinide-Group.public.md) 
+### #is_/same_as :: [Actinide.public](/_public/Chemistry/Chemical_Element/Actinide.public.md) 
 
-### #is_/same_as :: [Actinide-Group.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group.internal.md) 
+### #is_/same_as :: [Actinide.internal](/_internal/Chemistry/Chemical_Element/Actinide.internal.md) 
 
-### #is_/same_as :: [Actinide-Group.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group.protect.md) 
+### #is_/same_as :: [Actinide.protect](/_protect/Chemistry/Chemical_Element/Actinide.protect.md) 
 
-### #is_/same_as :: [Actinide-Group.private](/_private/Chemistry/Chemical_Element/Actinide-Group.private.md) 
+### #is_/same_as :: [Actinide.private](/_private/Chemistry/Chemical_Element/Actinide.private.md) 
 
-### #is_/same_as :: [Actinide-Group.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group.personal.md) 
+### #is_/same_as :: [Actinide.personal](/_personal/Chemistry/Chemical_Element/Actinide.personal.md) 
 
-### #is_/same_as :: [Actinide-Group.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group.secret.md)
+### #is_/same_as :: [Actinide.secret](/_secret/Chemistry/Chemical_Element/Actinide.secret.md)
 

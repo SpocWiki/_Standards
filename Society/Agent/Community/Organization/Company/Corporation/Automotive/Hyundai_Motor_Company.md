@@ -380,3 +380,22 @@ Commons_category: Hyundai vehicles
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hyundai%20Motor%20Company) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hyundai_Motor_Company](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Hyundai_Motor_Company.md) 
+
+### #is_/same_as :: [Hyundai_Motor_Company.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/Hyundai_Motor_Company.public.md) 
+
+### #is_/same_as :: [Hyundai_Motor_Company.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Hyundai_Motor_Company.internal.md) 
+
+### #is_/same_as :: [Hyundai_Motor_Company.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/Hyundai_Motor_Company.protect.md) 
+
+### #is_/same_as :: [Hyundai_Motor_Company.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/Hyundai_Motor_Company.private.md) 
+
+### #is_/same_as :: [Hyundai_Motor_Company.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Hyundai_Motor_Company.personal.md) 
+
+### #is_/same_as :: [Hyundai_Motor_Company.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/Hyundai_Motor_Company.secret.md)
+

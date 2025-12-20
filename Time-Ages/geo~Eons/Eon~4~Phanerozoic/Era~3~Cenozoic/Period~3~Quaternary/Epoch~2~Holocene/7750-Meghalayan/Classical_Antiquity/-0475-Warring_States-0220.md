@@ -41,3 +41,22 @@ Commons_gallery: 戰國時代
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Warring%20States%20period) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [-0475-Warring_States-0220](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0475-Warring_States-0220.md) 
+
+### #is_/same_as :: [-0475-Warring_States-0220.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0475-Warring_States-0220.public.md) 
+
+### #is_/same_as :: [-0475-Warring_States-0220.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0475-Warring_States-0220.internal.md) 
+
+### #is_/same_as :: [-0475-Warring_States-0220.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0475-Warring_States-0220.protect.md) 
+
+### #is_/same_as :: [-0475-Warring_States-0220.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0475-Warring_States-0220.private.md) 
+
+### #is_/same_as :: [-0475-Warring_States-0220.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0475-Warring_States-0220.personal.md) 
+
+### #is_/same_as :: [-0475-Warring_States-0220.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0475-Warring_States-0220.secret.md)
+

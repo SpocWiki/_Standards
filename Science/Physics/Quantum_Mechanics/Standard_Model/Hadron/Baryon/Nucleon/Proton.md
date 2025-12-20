@@ -197,3 +197,22 @@ time_of_discovery_or_invention: 1920-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Proton) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Proton](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.md) 
+
+### #is_/same_as :: [Proton.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.public.md) 
+
+### #is_/same_as :: [Proton.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.internal.md) 
+
+### #is_/same_as :: [Proton.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.protect.md) 
+
+### #is_/same_as :: [Proton.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.private.md) 
+
+### #is_/same_as :: [Proton.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.personal.md) 
+
+### #is_/same_as :: [Proton.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.secret.md)
+

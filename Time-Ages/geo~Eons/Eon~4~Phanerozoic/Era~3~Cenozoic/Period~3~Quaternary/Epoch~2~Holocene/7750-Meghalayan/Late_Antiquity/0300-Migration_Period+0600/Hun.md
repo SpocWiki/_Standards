@@ -80,3 +80,22 @@ OpenStreetMap_tag: historic:civilization=hun
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Huns) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hun](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600/Hun.md) 
+
+### #is_/same_as :: [Hun.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600/Hun.public.md) 
+
+### #is_/same_as :: [Hun.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600/Hun.internal.md) 
+
+### #is_/same_as :: [Hun.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600/Hun.protect.md) 
+
+### #is_/same_as :: [Hun.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600/Hun.private.md) 
+
+### #is_/same_as :: [Hun.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600/Hun.personal.md) 
+
+### #is_/same_as :: [Hun.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600/Hun.secret.md)
+

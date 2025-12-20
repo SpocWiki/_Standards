@@ -25,3 +25,22 @@ Commons_category: Galaxy morphological classification
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Galaxy%20morphological%20classification) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Galaxy_morphological_Classification](/_Standards/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.md) 
+
+### #is_/same_as :: [Galaxy_morphological_Classification.public](/_public/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.public.md) 
+
+### #is_/same_as :: [Galaxy_morphological_Classification.internal](/_internal/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.internal.md) 
+
+### #is_/same_as :: [Galaxy_morphological_Classification.protect](/_protect/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.protect.md) 
+
+### #is_/same_as :: [Galaxy_morphological_Classification.private](/_private/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.private.md) 
+
+### #is_/same_as :: [Galaxy_morphological_Classification.personal](/_personal/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.personal.md) 
+
+### #is_/same_as :: [Galaxy_morphological_Classification.secret](/_secret/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.secret.md)
+

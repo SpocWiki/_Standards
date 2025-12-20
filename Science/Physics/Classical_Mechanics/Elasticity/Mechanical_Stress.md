@@ -34,3 +34,22 @@ has_id_wikidata: Q206175
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stress%20(mechanics)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mechanical_Stress](/_Standards/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.md) 
+
+### #is_/same_as :: [Mechanical_Stress.public](/_public/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.public.md) 
+
+### #is_/same_as :: [Mechanical_Stress.internal](/_internal/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.internal.md) 
+
+### #is_/same_as :: [Mechanical_Stress.protect](/_protect/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.protect.md) 
+
+### #is_/same_as :: [Mechanical_Stress.private](/_private/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.private.md) 
+
+### #is_/same_as :: [Mechanical_Stress.personal](/_personal/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.personal.md) 
+
+### #is_/same_as :: [Mechanical_Stress.secret](/_secret/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.secret.md)
+

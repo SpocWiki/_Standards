@@ -88,3 +88,22 @@ IPTC_NewsCode: mediatopic/09000000
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Work](/_Standards/Society/Economics/Economic_Activity/Work.md) 
+
+### #is_/same_as :: [Work.public](/_public/Society/Economics/Economic_Activity/Work.public.md) 
+
+### #is_/same_as :: [Work.internal](/_internal/Society/Economics/Economic_Activity/Work.internal.md) 
+
+### #is_/same_as :: [Work.protect](/_protect/Society/Economics/Economic_Activity/Work.protect.md) 
+
+### #is_/same_as :: [Work.private](/_private/Society/Economics/Economic_Activity/Work.private.md) 
+
+### #is_/same_as :: [Work.personal](/_personal/Society/Economics/Economic_Activity/Work.personal.md) 
+
+### #is_/same_as :: [Work.secret](/_secret/Society/Economics/Economic_Activity/Work.secret.md)
+

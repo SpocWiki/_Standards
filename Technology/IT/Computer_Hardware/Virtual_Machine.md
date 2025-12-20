@@ -26,3 +26,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Virtual_Machine](/_Standards/Technology/IT/Computer_Hardware/Virtual_Machine.md) 
+
+### #is_/same_as :: [Virtual_Machine.public](/_public/Technology/IT/Computer_Hardware/Virtual_Machine.public.md) 
+
+### #is_/same_as :: [Virtual_Machine.internal](/_internal/Technology/IT/Computer_Hardware/Virtual_Machine.internal.md) 
+
+### #is_/same_as :: [Virtual_Machine.protect](/_protect/Technology/IT/Computer_Hardware/Virtual_Machine.protect.md) 
+
+### #is_/same_as :: [Virtual_Machine.private](/_private/Technology/IT/Computer_Hardware/Virtual_Machine.private.md) 
+
+### #is_/same_as :: [Virtual_Machine.personal](/_personal/Technology/IT/Computer_Hardware/Virtual_Machine.personal.md) 
+
+### #is_/same_as :: [Virtual_Machine.secret](/_secret/Technology/IT/Computer_Hardware/Virtual_Machine.secret.md)
+

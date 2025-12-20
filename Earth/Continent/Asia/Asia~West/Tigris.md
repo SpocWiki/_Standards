@@ -78,3 +78,22 @@ Iconclass_notation: 71A32113
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tigris) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tigris](/_Standards/Earth/Continent/Asia/Asia~West/Tigris.md) 
+
+### #is_/same_as :: [Tigris.public](/_public/Earth/Continent/Asia/Asia~West/Tigris.public.md) 
+
+### #is_/same_as :: [Tigris.internal](/_internal/Earth/Continent/Asia/Asia~West/Tigris.internal.md) 
+
+### #is_/same_as :: [Tigris.protect](/_protect/Earth/Continent/Asia/Asia~West/Tigris.protect.md) 
+
+### #is_/same_as :: [Tigris.private](/_private/Earth/Continent/Asia/Asia~West/Tigris.private.md) 
+
+### #is_/same_as :: [Tigris.personal](/_personal/Earth/Continent/Asia/Asia~West/Tigris.personal.md) 
+
+### #is_/same_as :: [Tigris.secret](/_secret/Earth/Continent/Asia/Asia~West/Tigris.secret.md)
+

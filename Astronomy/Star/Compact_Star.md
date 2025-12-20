@@ -20,3 +20,22 @@ has_id_wikidata: Q368442
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Compact%20object) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Compact_Star](/_Standards/Astronomy/Star/Compact_Star.md) 
+
+### #is_/same_as :: [Compact_Star.public](/_public/Astronomy/Star/Compact_Star.public.md) 
+
+### #is_/same_as :: [Compact_Star.internal](/_internal/Astronomy/Star/Compact_Star.internal.md) 
+
+### #is_/same_as :: [Compact_Star.protect](/_protect/Astronomy/Star/Compact_Star.protect.md) 
+
+### #is_/same_as :: [Compact_Star.private](/_private/Astronomy/Star/Compact_Star.private.md) 
+
+### #is_/same_as :: [Compact_Star.personal](/_personal/Astronomy/Star/Compact_Star.personal.md) 
+
+### #is_/same_as :: [Compact_Star.secret](/_secret/Astronomy/Star/Compact_Star.secret.md)
+

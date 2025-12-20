@@ -58,3 +58,22 @@ Commons_category: Probability distributions
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Probability%20distribution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Probability_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution.md) 
+
+### #is_/same_as :: [Probability_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution.public.md) 
+
+### #is_/same_as :: [Probability_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution.internal.md) 
+
+### #is_/same_as :: [Probability_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution.protect.md) 
+
+### #is_/same_as :: [Probability_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution.private.md) 
+
+### #is_/same_as :: [Probability_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution.personal.md) 
+
+### #is_/same_as :: [Probability_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution.secret.md)
+

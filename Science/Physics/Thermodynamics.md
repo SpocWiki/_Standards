@@ -70,3 +70,22 @@ Commons_category: Thermodynamics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thermodynamics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thermodynamics](/_Standards/Science/Physics/Thermodynamics.md) 
+
+### #is_/same_as :: [Thermodynamics.public](/_public/Science/Physics/Thermodynamics.public.md) 
+
+### #is_/same_as :: [Thermodynamics.internal](/_internal/Science/Physics/Thermodynamics.internal.md) 
+
+### #is_/same_as :: [Thermodynamics.protect](/_protect/Science/Physics/Thermodynamics.protect.md) 
+
+### #is_/same_as :: [Thermodynamics.private](/_private/Science/Physics/Thermodynamics.private.md) 
+
+### #is_/same_as :: [Thermodynamics.personal](/_personal/Science/Physics/Thermodynamics.personal.md) 
+
+### #is_/same_as :: [Thermodynamics.secret](/_secret/Science/Physics/Thermodynamics.secret.md)
+

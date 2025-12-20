@@ -88,3 +88,22 @@ start_time: -1199-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phoenician%20alphabet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Script~Phoenician](/_Standards/Language/Writing_System/Script~Phoenician.md) 
+
+### #is_/same_as :: [Script~Phoenician.public](/_public/Language/Writing_System/Script~Phoenician.public.md) 
+
+### #is_/same_as :: [Script~Phoenician.internal](/_internal/Language/Writing_System/Script~Phoenician.internal.md) 
+
+### #is_/same_as :: [Script~Phoenician.protect](/_protect/Language/Writing_System/Script~Phoenician.protect.md) 
+
+### #is_/same_as :: [Script~Phoenician.private](/_private/Language/Writing_System/Script~Phoenician.private.md) 
+
+### #is_/same_as :: [Script~Phoenician.personal](/_personal/Language/Writing_System/Script~Phoenician.personal.md) 
+
+### #is_/same_as :: [Script~Phoenician.secret](/_secret/Language/Writing_System/Script~Phoenician.secret.md)
+

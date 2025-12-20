@@ -100,3 +100,22 @@ Know_Your_Meme_slug: the-adventures-of-tintin
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Adventures%20of%20Tintin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tintin](/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.md) 
+
+### #is_/same_as :: [Tintin.public](/_public/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.public.md) 
+
+### #is_/same_as :: [Tintin.internal](/_internal/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.internal.md) 
+
+### #is_/same_as :: [Tintin.protect](/_protect/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.protect.md) 
+
+### #is_/same_as :: [Tintin.private](/_private/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.private.md) 
+
+### #is_/same_as :: [Tintin.personal](/_personal/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.personal.md) 
+
+### #is_/same_as :: [Tintin.secret](/_secret/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.secret.md)
+

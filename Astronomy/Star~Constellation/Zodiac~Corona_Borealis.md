@@ -49,6 +49,7 @@ short_name: CrB
 
 #is_/same_as :: [[../../WikiData/WD~Corona_Borealis,10406|WD~Corona_Borealis,10406]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Corona_Borealis](/_Standards/Astronomy/Star~Constellation/Zodiac~Corona_Borealis.md) 

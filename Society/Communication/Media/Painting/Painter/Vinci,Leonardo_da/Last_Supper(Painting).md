@@ -119,3 +119,22 @@ coordinate_location: Point(9.170833333 45.466666666)
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Last%20Supper%20(Leonardo)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Last_Supper(Painting)](/_Standards/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).md) 
+
+### #is_/same_as :: [Last_Supper(Painting).public](/_public/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).public.md) 
+
+### #is_/same_as :: [Last_Supper(Painting).internal](/_internal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).internal.md) 
+
+### #is_/same_as :: [Last_Supper(Painting).protect](/_protect/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).protect.md) 
+
+### #is_/same_as :: [Last_Supper(Painting).private](/_private/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).private.md) 
+
+### #is_/same_as :: [Last_Supper(Painting).personal](/_personal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).personal.md) 
+
+### #is_/same_as :: [Last_Supper(Painting).secret](/_secret/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Last_Supper(Painting).secret.md)
+

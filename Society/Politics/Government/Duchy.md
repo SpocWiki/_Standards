@@ -36,3 +36,22 @@ Commons_category: Duchies
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Duchy)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Duchy](/_Standards/Society/Politics/Government/Duchy.md) 
+
+### #is_/same_as :: [Duchy.public](/_public/Society/Politics/Government/Duchy.public.md) 
+
+### #is_/same_as :: [Duchy.internal](/_internal/Society/Politics/Government/Duchy.internal.md) 
+
+### #is_/same_as :: [Duchy.protect](/_protect/Society/Politics/Government/Duchy.protect.md) 
+
+### #is_/same_as :: [Duchy.private](/_private/Society/Politics/Government/Duchy.private.md) 
+
+### #is_/same_as :: [Duchy.personal](/_personal/Society/Politics/Government/Duchy.personal.md) 
+
+### #is_/same_as :: [Duchy.secret](/_secret/Society/Politics/Government/Duchy.secret.md)
+

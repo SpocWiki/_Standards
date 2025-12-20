@@ -51,3 +51,22 @@ official_name: Fédération Internationale de Volleyball
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/F%C3%A9d%C3%A9ration%20Internationale%20de%20Volleyball) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fédération_Internationale_de_Volleyball](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Fédération_Internationale_de_Volleyball.md) 
+
+### #is_/same_as :: [Fédération_Internationale_de_Volleyball.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Fédération_Internationale_de_Volleyball.public.md) 
+
+### #is_/same_as :: [Fédération_Internationale_de_Volleyball.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Fédération_Internationale_de_Volleyball.internal.md) 
+
+### #is_/same_as :: [Fédération_Internationale_de_Volleyball.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Fédération_Internationale_de_Volleyball.protect.md) 
+
+### #is_/same_as :: [Fédération_Internationale_de_Volleyball.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Fédération_Internationale_de_Volleyball.private.md) 
+
+### #is_/same_as :: [Fédération_Internationale_de_Volleyball.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Fédération_Internationale_de_Volleyball.personal.md) 
+
+### #is_/same_as :: [Fédération_Internationale_de_Volleyball.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Fédération_Internationale_de_Volleyball.secret.md)
+

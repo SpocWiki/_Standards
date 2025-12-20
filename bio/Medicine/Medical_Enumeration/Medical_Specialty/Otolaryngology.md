@@ -52,3 +52,22 @@ OpenStreetMap_tag: healthcare:speciality=otolaryngology
 > and reconstruction of the head and neck as well as plastic surgery of the face, scalp, and neck.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Otorhinolaryngology) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Otolaryngology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Otolaryngology.md) 
+
+### #is_/same_as :: [Otolaryngology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Otolaryngology.public.md) 
+
+### #is_/same_as :: [Otolaryngology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Otolaryngology.internal.md) 
+
+### #is_/same_as :: [Otolaryngology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Otolaryngology.protect.md) 
+
+### #is_/same_as :: [Otolaryngology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Otolaryngology.private.md) 
+
+### #is_/same_as :: [Otolaryngology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Otolaryngology.personal.md) 
+
+### #is_/same_as :: [Otolaryngology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Otolaryngology.secret.md)
+

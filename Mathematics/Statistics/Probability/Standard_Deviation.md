@@ -56,3 +56,22 @@ Commons_category: Standard deviation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Standard%20deviation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Standard_Deviation](/_Standards/Mathematics/Statistics/Probability/Standard_Deviation.md) 
+
+### #is_/same_as :: [Standard_Deviation.public](/_public/Mathematics/Statistics/Probability/Standard_Deviation.public.md) 
+
+### #is_/same_as :: [Standard_Deviation.internal](/_internal/Mathematics/Statistics/Probability/Standard_Deviation.internal.md) 
+
+### #is_/same_as :: [Standard_Deviation.protect](/_protect/Mathematics/Statistics/Probability/Standard_Deviation.protect.md) 
+
+### #is_/same_as :: [Standard_Deviation.private](/_private/Mathematics/Statistics/Probability/Standard_Deviation.private.md) 
+
+### #is_/same_as :: [Standard_Deviation.personal](/_personal/Mathematics/Statistics/Probability/Standard_Deviation.personal.md) 
+
+### #is_/same_as :: [Standard_Deviation.secret](/_secret/Mathematics/Statistics/Probability/Standard_Deviation.secret.md)
+

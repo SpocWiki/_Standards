@@ -40,17 +40,17 @@ Permission to write or edit the document.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Write_Permission](Write_Permission.md) 
+### #is_/same_as :: [Write_Permission](/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.md) 
 
-### #is_/same_as :: [write_permission.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/write_permission.public.md) 
+### #is_/same_as :: [Write_Permission.public](/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.public.md) 
 
-### #is_/same_as :: [write_permission.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/write_permission.internal.md) 
+### #is_/same_as :: [Write_Permission.internal](/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.internal.md) 
 
-### #is_/same_as :: [write_permission.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/write_permission.protect.md) 
+### #is_/same_as :: [Write_Permission.protect](/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.protect.md) 
 
-### #is_/same_as :: [write_permission.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/write_permission.private.md) 
+### #is_/same_as :: [Write_Permission.private](/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.private.md) 
 
-### #is_/same_as :: [write_permission.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/write_permission.personal.md) 
+### #is_/same_as :: [Write_Permission.personal](/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.personal.md) 
 
-### #is_/same_as :: [write_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/write_permission.secret.md)
+### #is_/same_as :: [Write_Permission.secret](/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.secret.md)
 

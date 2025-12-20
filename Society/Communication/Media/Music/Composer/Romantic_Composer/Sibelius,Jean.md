@@ -33,3 +33,22 @@ has_id_wikidata: Q45682
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean%20Sibelius) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sibelius,Jean](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.md) 
+
+### #is_/same_as :: [Sibelius,Jean.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.public.md) 
+
+### #is_/same_as :: [Sibelius,Jean.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.internal.md) 
+
+### #is_/same_as :: [Sibelius,Jean.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.protect.md) 
+
+### #is_/same_as :: [Sibelius,Jean.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.private.md) 
+
+### #is_/same_as :: [Sibelius,Jean.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.personal.md) 
+
+### #is_/same_as :: [Sibelius,Jean.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.secret.md)
+

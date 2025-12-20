@@ -40,17 +40,17 @@ A specific branch of medical science that pertains to the health care of women, 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gynecologic](Gynecologic.md) 
+### #is_/same_as :: [Gynecologic](/_Standards/bio/Medicine/Medical_Business/Gynecologic.md) 
 
-### #is_/same_as :: [Gynecologic.public](/_public/Society/Organization/Local_Business/Medical_Business/Gynecologic.public.md) 
+### #is_/same_as :: [Gynecologic.public](/_public/bio/Medicine/Medical_Business/Gynecologic.public.md) 
 
-### #is_/same_as :: [Gynecologic.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Gynecologic.internal.md) 
+### #is_/same_as :: [Gynecologic.internal](/_internal/bio/Medicine/Medical_Business/Gynecologic.internal.md) 
 
-### #is_/same_as :: [Gynecologic.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Gynecologic.protect.md) 
+### #is_/same_as :: [Gynecologic.protect](/_protect/bio/Medicine/Medical_Business/Gynecologic.protect.md) 
 
-### #is_/same_as :: [Gynecologic.private](/_private/Society/Organization/Local_Business/Medical_Business/Gynecologic.private.md) 
+### #is_/same_as :: [Gynecologic.private](/_private/bio/Medicine/Medical_Business/Gynecologic.private.md) 
 
-### #is_/same_as :: [Gynecologic.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Gynecologic.personal.md) 
+### #is_/same_as :: [Gynecologic.personal](/_personal/bio/Medicine/Medical_Business/Gynecologic.personal.md) 
 
-### #is_/same_as :: [Gynecologic.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Gynecologic.secret.md)
+### #is_/same_as :: [Gynecologic.secret](/_secret/bio/Medicine/Medical_Business/Gynecologic.secret.md)
 

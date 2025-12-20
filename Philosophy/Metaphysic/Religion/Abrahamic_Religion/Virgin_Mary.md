@@ -43,3 +43,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mary,%20mother%20of%20Jesus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Virgin_Mary](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.md) 
+
+### #is_/same_as :: [Virgin_Mary.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.public.md) 
+
+### #is_/same_as :: [Virgin_Mary.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.internal.md) 
+
+### #is_/same_as :: [Virgin_Mary.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.protect.md) 
+
+### #is_/same_as :: [Virgin_Mary.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.private.md) 
+
+### #is_/same_as :: [Virgin_Mary.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.personal.md) 
+
+### #is_/same_as :: [Virgin_Mary.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.secret.md)
+

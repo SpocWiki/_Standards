@@ -28,3 +28,22 @@ PhilPapers_topic: european-philosophy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Western%20philosophy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Western_Philosophy](/_Standards/Philosophy/Western_Philosophy.md) 
+
+### #is_/same_as :: [Western_Philosophy.public](/_public/Philosophy/Western_Philosophy.public.md) 
+
+### #is_/same_as :: [Western_Philosophy.internal](/_internal/Philosophy/Western_Philosophy.internal.md) 
+
+### #is_/same_as :: [Western_Philosophy.protect](/_protect/Philosophy/Western_Philosophy.protect.md) 
+
+### #is_/same_as :: [Western_Philosophy.private](/_private/Philosophy/Western_Philosophy.private.md) 
+
+### #is_/same_as :: [Western_Philosophy.personal](/_personal/Philosophy/Western_Philosophy.personal.md) 
+
+### #is_/same_as :: [Western_Philosophy.secret](/_secret/Philosophy/Western_Philosophy.secret.md)
+

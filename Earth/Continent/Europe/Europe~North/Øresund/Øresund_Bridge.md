@@ -82,3 +82,22 @@ Commons_gallery: Øresund bridge
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%98resund%20Bridge) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Øresund_Bridge](/_Standards/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.md) 
+
+### #is_/same_as :: [Øresund_Bridge.public](/_public/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.public.md) 
+
+### #is_/same_as :: [Øresund_Bridge.internal](/_internal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.internal.md) 
+
+### #is_/same_as :: [Øresund_Bridge.protect](/_protect/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.protect.md) 
+
+### #is_/same_as :: [Øresund_Bridge.private](/_private/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.private.md) 
+
+### #is_/same_as :: [Øresund_Bridge.personal](/_personal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.personal.md) 
+
+### #is_/same_as :: [Øresund_Bridge.secret](/_secret/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.secret.md)
+

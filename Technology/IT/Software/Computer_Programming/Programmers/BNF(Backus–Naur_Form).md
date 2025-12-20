@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Backus–Naur form"
 ---
@@ -50,4 +50,23 @@ aliases:
 > This article uses EBNF as specified by the ISO for examples applying to all EBNFs. Other EBNF variants use somewhat different syntactic conventions.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Extended%20Backus%E2%80%93Naur%20form)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [BNF(Backus–Naur_Form)](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).md) 
+
+### #is_/same_as :: [BNF(Backus–Naur_Form).public](/_public/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).public.md) 
+
+### #is_/same_as :: [BNF(Backus–Naur_Form).internal](/_internal/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).internal.md) 
+
+### #is_/same_as :: [BNF(Backus–Naur_Form).protect](/_protect/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).protect.md) 
+
+### #is_/same_as :: [BNF(Backus–Naur_Form).private](/_private/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).private.md) 
+
+### #is_/same_as :: [BNF(Backus–Naur_Form).personal](/_personal/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).personal.md) 
+
+### #is_/same_as :: [BNF(Backus–Naur_Form).secret](/_secret/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).secret.md)
 

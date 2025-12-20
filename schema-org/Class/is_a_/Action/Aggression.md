@@ -57,3 +57,22 @@ Gujarati_Vishwakosh_entry: આક્રમક-વર્તન
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aggression) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aggression](/_Standards/schema-org/Class/is_a_/Action/Aggression.md) 
+
+### #is_/same_as :: [Aggression.public](/_public/schema-org/Class/is_a_/Action/Aggression.public.md) 
+
+### #is_/same_as :: [Aggression.internal](/_internal/schema-org/Class/is_a_/Action/Aggression.internal.md) 
+
+### #is_/same_as :: [Aggression.protect](/_protect/schema-org/Class/is_a_/Action/Aggression.protect.md) 
+
+### #is_/same_as :: [Aggression.private](/_private/schema-org/Class/is_a_/Action/Aggression.private.md) 
+
+### #is_/same_as :: [Aggression.personal](/_personal/schema-org/Class/is_a_/Action/Aggression.personal.md) 
+
+### #is_/same_as :: [Aggression.secret](/_secret/schema-org/Class/is_a_/Action/Aggression.secret.md)
+

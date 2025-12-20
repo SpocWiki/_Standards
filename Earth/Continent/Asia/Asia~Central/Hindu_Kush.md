@@ -62,3 +62,22 @@ Commons_category: Hindu Kush
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hindu%20Kush) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hindu_Kush](/_Standards/Earth/Continent/Asia/Asia~Central/Hindu_Kush.md) 
+
+### #is_/same_as :: [Hindu_Kush.public](/_public/Earth/Continent/Asia/Asia~Central/Hindu_Kush.public.md) 
+
+### #is_/same_as :: [Hindu_Kush.internal](/_internal/Earth/Continent/Asia/Asia~Central/Hindu_Kush.internal.md) 
+
+### #is_/same_as :: [Hindu_Kush.protect](/_protect/Earth/Continent/Asia/Asia~Central/Hindu_Kush.protect.md) 
+
+### #is_/same_as :: [Hindu_Kush.private](/_private/Earth/Continent/Asia/Asia~Central/Hindu_Kush.private.md) 
+
+### #is_/same_as :: [Hindu_Kush.personal](/_personal/Earth/Continent/Asia/Asia~Central/Hindu_Kush.personal.md) 
+
+### #is_/same_as :: [Hindu_Kush.secret](/_secret/Earth/Continent/Asia/Asia~Central/Hindu_Kush.secret.md)
+

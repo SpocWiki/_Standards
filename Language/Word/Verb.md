@@ -74,3 +74,22 @@ Commons_category: Verbs
 > and shares the same Indo-European root as word.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Verb)
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Verb](/_Standards/Language/Word/Verb.md) 
+
+### #is_/same_as :: [Verb.public](/_public/Language/Word/Verb.public.md) 
+
+### #is_/same_as :: [Verb.internal](/_internal/Language/Word/Verb.internal.md) 
+
+### #is_/same_as :: [Verb.protect](/_protect/Language/Word/Verb.protect.md) 
+
+### #is_/same_as :: [Verb.private](/_private/Language/Word/Verb.private.md) 
+
+### #is_/same_as :: [Verb.personal](/_personal/Language/Word/Verb.personal.md) 
+
+### #is_/same_as :: [Verb.secret](/_secret/Language/Word/Verb.secret.md)
+

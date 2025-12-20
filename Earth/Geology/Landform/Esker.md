@@ -29,3 +29,22 @@ OpenStreetMap_tag_or_key: Tag:landform=esker
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Esker) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Esker](/_Standards/Earth/Geology/Landform/Esker.md) 
+
+### #is_/same_as :: [Esker.public](/_public/Earth/Geology/Landform/Esker.public.md) 
+
+### #is_/same_as :: [Esker.internal](/_internal/Earth/Geology/Landform/Esker.internal.md) 
+
+### #is_/same_as :: [Esker.protect](/_protect/Earth/Geology/Landform/Esker.protect.md) 
+
+### #is_/same_as :: [Esker.private](/_private/Earth/Geology/Landform/Esker.private.md) 
+
+### #is_/same_as :: [Esker.personal](/_personal/Earth/Geology/Landform/Esker.personal.md) 
+
+### #is_/same_as :: [Esker.secret](/_secret/Earth/Geology/Landform/Esker.secret.md)
+

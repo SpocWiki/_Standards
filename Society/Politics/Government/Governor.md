@@ -59,3 +59,22 @@ equivalent_class: http://dbpedia.org/ontology/Governor
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Governor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Governor](/_Standards/Society/Politics/Government/Governor.md) 
+
+### #is_/same_as :: [Governor.public](/_public/Society/Politics/Government/Governor.public.md) 
+
+### #is_/same_as :: [Governor.internal](/_internal/Society/Politics/Government/Governor.internal.md) 
+
+### #is_/same_as :: [Governor.protect](/_protect/Society/Politics/Government/Governor.protect.md) 
+
+### #is_/same_as :: [Governor.private](/_private/Society/Politics/Government/Governor.private.md) 
+
+### #is_/same_as :: [Governor.personal](/_personal/Society/Politics/Government/Governor.personal.md) 
+
+### #is_/same_as :: [Governor.secret](/_secret/Society/Politics/Government/Governor.secret.md)
+

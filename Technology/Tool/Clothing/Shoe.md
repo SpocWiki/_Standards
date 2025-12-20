@@ -37,3 +37,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shoe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shoe](/_Standards/Technology/Tool/Clothing/Shoe.md) 
+
+### #is_/same_as :: [Shoe.public](/_public/Technology/Tool/Clothing/Shoe.public.md) 
+
+### #is_/same_as :: [Shoe.internal](/_internal/Technology/Tool/Clothing/Shoe.internal.md) 
+
+### #is_/same_as :: [Shoe.protect](/_protect/Technology/Tool/Clothing/Shoe.protect.md) 
+
+### #is_/same_as :: [Shoe.private](/_private/Technology/Tool/Clothing/Shoe.private.md) 
+
+### #is_/same_as :: [Shoe.personal](/_personal/Technology/Tool/Clothing/Shoe.personal.md) 
+
+### #is_/same_as :: [Shoe.secret](/_secret/Technology/Tool/Clothing/Shoe.secret.md)
+

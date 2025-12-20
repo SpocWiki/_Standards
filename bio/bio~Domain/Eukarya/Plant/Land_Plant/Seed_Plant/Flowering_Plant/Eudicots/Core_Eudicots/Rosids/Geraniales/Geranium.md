@@ -50,3 +50,22 @@ taxon_common_name: Crane's-bills
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Geranium) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geranium](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Geraniales/Geranium.md) 
+
+### #is_/same_as :: [Geranium.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Geraniales/Geranium.public.md) 
+
+### #is_/same_as :: [Geranium.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Geraniales/Geranium.internal.md) 
+
+### #is_/same_as :: [Geranium.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Geraniales/Geranium.protect.md) 
+
+### #is_/same_as :: [Geranium.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Geraniales/Geranium.private.md) 
+
+### #is_/same_as :: [Geranium.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Geraniales/Geranium.personal.md) 
+
+### #is_/same_as :: [Geranium.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Geraniales/Geranium.secret.md)
+

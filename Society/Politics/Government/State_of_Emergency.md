@@ -37,3 +37,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Police%20nationale%20e
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/State%20of%20emergency) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [State_of_Emergency](/_Standards/Society/Politics/Government/State_of_Emergency.md) 
+
+### #is_/same_as :: [State_of_Emergency.public](/_public/Society/Politics/Government/State_of_Emergency.public.md) 
+
+### #is_/same_as :: [State_of_Emergency.internal](/_internal/Society/Politics/Government/State_of_Emergency.internal.md) 
+
+### #is_/same_as :: [State_of_Emergency.protect](/_protect/Society/Politics/Government/State_of_Emergency.protect.md) 
+
+### #is_/same_as :: [State_of_Emergency.private](/_private/Society/Politics/Government/State_of_Emergency.private.md) 
+
+### #is_/same_as :: [State_of_Emergency.personal](/_personal/Society/Politics/Government/State_of_Emergency.personal.md) 
+
+### #is_/same_as :: [State_of_Emergency.secret](/_secret/Society/Politics/Government/State_of_Emergency.secret.md)
+

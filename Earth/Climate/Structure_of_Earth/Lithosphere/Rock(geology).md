@@ -46,17 +46,17 @@ OpenStreetMap_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rock(geology)](/_Standards/Earth/Geology/Rock(geology).md) 
+### #is_/same_as :: [Rock(geology)](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).md) 
 
-### #is_/same_as :: [Rock(geology).public](/_public/Earth/Geology/Rock(geology).public.md) 
+### #is_/same_as :: [Rock(geology).public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).public.md) 
 
-### #is_/same_as :: [Rock(geology).internal](/_internal/Earth/Geology/Rock(geology).internal.md) 
+### #is_/same_as :: [Rock(geology).internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).internal.md) 
 
-### #is_/same_as :: [Rock(geology).protect](/_protect/Earth/Geology/Rock(geology).protect.md) 
+### #is_/same_as :: [Rock(geology).protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).protect.md) 
 
-### #is_/same_as :: [Rock(geology).private](/_private/Earth/Geology/Rock(geology).private.md) 
+### #is_/same_as :: [Rock(geology).private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).private.md) 
 
-### #is_/same_as :: [Rock(geology).personal](/_personal/Earth/Geology/Rock(geology).personal.md) 
+### #is_/same_as :: [Rock(geology).personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).personal.md) 
 
-### #is_/same_as :: [Rock(geology).secret](/_secret/Earth/Geology/Rock(geology).secret.md)
+### #is_/same_as :: [Rock(geology).secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).secret.md)
 

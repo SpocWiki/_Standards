@@ -80,3 +80,22 @@ Commons_category: Sausages
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sausage](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Sausage.md) 
+
+### #is_/same_as :: [Sausage.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Sausage.public.md) 
+
+### #is_/same_as :: [Sausage.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Sausage.internal.md) 
+
+### #is_/same_as :: [Sausage.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Sausage.protect.md) 
+
+### #is_/same_as :: [Sausage.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Sausage.private.md) 
+
+### #is_/same_as :: [Sausage.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Sausage.personal.md) 
+
+### #is_/same_as :: [Sausage.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Sausage.secret.md)
+

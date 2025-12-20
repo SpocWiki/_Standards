@@ -74,3 +74,22 @@ EPPO_Code: PIPNI
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Black%20pepper) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Black_Pepper](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Piperales/Piperaceae/Black_Pepper.md) 
+
+### #is_/same_as :: [Black_Pepper.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Piperales/Piperaceae/Black_Pepper.public.md) 
+
+### #is_/same_as :: [Black_Pepper.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Piperales/Piperaceae/Black_Pepper.internal.md) 
+
+### #is_/same_as :: [Black_Pepper.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Piperales/Piperaceae/Black_Pepper.protect.md) 
+
+### #is_/same_as :: [Black_Pepper.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Piperales/Piperaceae/Black_Pepper.private.md) 
+
+### #is_/same_as :: [Black_Pepper.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Piperales/Piperaceae/Black_Pepper.personal.md) 
+
+### #is_/same_as :: [Black_Pepper.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Piperales/Piperaceae/Black_Pepper.secret.md)
+

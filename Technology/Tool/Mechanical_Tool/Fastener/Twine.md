@@ -25,3 +25,22 @@ Commons_category: Twine
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Twine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Twine](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Twine.md) 
+
+### #is_/same_as :: [Twine.public](/_public/Technology/Tool/Mechanical_Tool/Fastener/Twine.public.md) 
+
+### #is_/same_as :: [Twine.internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener/Twine.internal.md) 
+
+### #is_/same_as :: [Twine.protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener/Twine.protect.md) 
+
+### #is_/same_as :: [Twine.private](/_private/Technology/Tool/Mechanical_Tool/Fastener/Twine.private.md) 
+
+### #is_/same_as :: [Twine.personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener/Twine.personal.md) 
+
+### #is_/same_as :: [Twine.secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener/Twine.secret.md)
+

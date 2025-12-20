@@ -14,3 +14,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/BCPL)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~BCPL](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.md) 
+
+### #is_/same_as :: [Prog~BCPL.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.public.md) 
+
+### #is_/same_as :: [Prog~BCPL.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.internal.md) 
+
+### #is_/same_as :: [Prog~BCPL.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.protect.md) 
+
+### #is_/same_as :: [Prog~BCPL.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.private.md) 
+
+### #is_/same_as :: [Prog~BCPL.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.personal.md) 
+
+### #is_/same_as :: [Prog~BCPL.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.secret.md)
+

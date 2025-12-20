@@ -49,3 +49,22 @@ entry_in_abbreviations_table:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Conjunction%20(grammar)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Conjunction](/_Standards/Language/Linguistics/Semiotics/Grammar/Conjunction.md) 
+
+### #is_/same_as :: [Conjunction.public](/_public/Language/Linguistics/Semiotics/Grammar/Conjunction.public.md) 
+
+### #is_/same_as :: [Conjunction.internal](/_internal/Language/Linguistics/Semiotics/Grammar/Conjunction.internal.md) 
+
+### #is_/same_as :: [Conjunction.protect](/_protect/Language/Linguistics/Semiotics/Grammar/Conjunction.protect.md) 
+
+### #is_/same_as :: [Conjunction.private](/_private/Language/Linguistics/Semiotics/Grammar/Conjunction.private.md) 
+
+### #is_/same_as :: [Conjunction.personal](/_personal/Language/Linguistics/Semiotics/Grammar/Conjunction.personal.md) 
+
+### #is_/same_as :: [Conjunction.secret](/_secret/Language/Linguistics/Semiotics/Grammar/Conjunction.secret.md)
+

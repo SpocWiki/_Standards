@@ -46,17 +46,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [give_action](/_Standards/schema-org/Class/is_a_/action/transfer_action/give_action.md) 
+### #is_/same_as :: [Give_Action](/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.md) 
 
-### #is_/same_as :: [give_action.public](/_public/schema-org/Class/is_a_/action/transfer_action/give_action.public.md) 
+### #is_/same_as :: [Give_Action.public](/_public/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.public.md) 
 
-### #is_/same_as :: [give_action.internal](/_internal/schema-org/Class/is_a_/action/transfer_action/give_action.internal.md) 
+### #is_/same_as :: [Give_Action.internal](/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.internal.md) 
 
-### #is_/same_as :: [give_action.protect](/_protect/schema-org/Class/is_a_/action/transfer_action/give_action.protect.md) 
+### #is_/same_as :: [Give_Action.protect](/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.protect.md) 
 
-### #is_/same_as :: [give_action.private](/_private/schema-org/Class/is_a_/action/transfer_action/give_action.private.md) 
+### #is_/same_as :: [Give_Action.private](/_private/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.private.md) 
 
-### #is_/same_as :: [give_action.personal](/_personal/schema-org/Class/is_a_/action/transfer_action/give_action.personal.md) 
+### #is_/same_as :: [Give_Action.personal](/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.personal.md) 
 
-### #is_/same_as :: [give_action.secret](/_secret/schema-org/Class/is_a_/action/transfer_action/give_action.secret.md)
+### #is_/same_as :: [Give_Action.secret](/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.secret.md)
 

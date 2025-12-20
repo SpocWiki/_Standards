@@ -119,3 +119,22 @@ ISNI: "0000000078791368"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sergey%20Brin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brin,Sergey](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.md) 
+
+### #is_/same_as :: [Brin,Sergey.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.public.md) 
+
+### #is_/same_as :: [Brin,Sergey.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.internal.md) 
+
+### #is_/same_as :: [Brin,Sergey.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.protect.md) 
+
+### #is_/same_as :: [Brin,Sergey.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.private.md) 
+
+### #is_/same_as :: [Brin,Sergey.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.personal.md) 
+
+### #is_/same_as :: [Brin,Sergey.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.secret.md)
+

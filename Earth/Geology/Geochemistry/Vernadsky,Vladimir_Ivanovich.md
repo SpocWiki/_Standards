@@ -156,3 +156,22 @@ Google_Doodle: vladimir-vernadskys-150th-birthday
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Vernadsky) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich](/_Standards/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.md) 
+
+### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich.public](/_public/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.public.md) 
+
+### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich.internal](/_internal/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.internal.md) 
+
+### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich.protect](/_protect/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.protect.md) 
+
+### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich.private](/_private/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.private.md) 
+
+### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich.personal](/_personal/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.personal.md) 
+
+### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich.secret](/_secret/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.secret.md)
+

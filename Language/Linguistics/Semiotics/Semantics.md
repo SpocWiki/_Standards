@@ -59,3 +59,22 @@ Commons_category: Semantics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Semantics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Semantics](/_Standards/Language/Linguistics/Semiotics/Semantics.md) 
+
+### #is_/same_as :: [Semantics.public](/_public/Language/Linguistics/Semiotics/Semantics.public.md) 
+
+### #is_/same_as :: [Semantics.internal](/_internal/Language/Linguistics/Semiotics/Semantics.internal.md) 
+
+### #is_/same_as :: [Semantics.protect](/_protect/Language/Linguistics/Semiotics/Semantics.protect.md) 
+
+### #is_/same_as :: [Semantics.private](/_private/Language/Linguistics/Semiotics/Semantics.private.md) 
+
+### #is_/same_as :: [Semantics.personal](/_personal/Language/Linguistics/Semiotics/Semantics.personal.md) 
+
+### #is_/same_as :: [Semantics.secret](/_secret/Language/Linguistics/Semiotics/Semantics.secret.md)
+

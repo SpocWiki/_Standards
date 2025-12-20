@@ -214,17 +214,17 @@ OpenStreetMap_key:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-pa](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.md) 
+### #is_/same_as :: [Lang-pan](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pan.md) 
 
-### #is_/same_as :: [Lang-pa.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.public.md) 
+### #is_/same_as :: [Lang-pan.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pan.public.md) 
 
-### #is_/same_as :: [Lang-pa.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.internal.md) 
+### #is_/same_as :: [Lang-pan.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pan.internal.md) 
 
-### #is_/same_as :: [Lang-pa.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.protect.md) 
+### #is_/same_as :: [Lang-pan.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pan.protect.md) 
 
-### #is_/same_as :: [Lang-pa.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.private.md) 
+### #is_/same_as :: [Lang-pan.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pan.private.md) 
 
-### #is_/same_as :: [Lang-pa.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.personal.md) 
+### #is_/same_as :: [Lang-pan.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pan.personal.md) 
 
-### #is_/same_as :: [Lang-pa.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.secret.md)
+### #is_/same_as :: [Lang-pan.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pan.secret.md)
 

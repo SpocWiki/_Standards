@@ -50,17 +50,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Full_biological_kingdo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio~Kingdom](bio~Kingdom.md) 
+### #is_/same_as :: [bio~Kingdom](/_Standards/bio/Taxon_Rank/bio~Kingdom.md) 
 
-### #is_/same_as :: [bio~Kingdom.public](/_public/bio/bio~Domain/Eukarya/bio~Kingdom.public.md) 
+### #is_/same_as :: [bio~Kingdom.public](/_public/bio/Taxon_Rank/bio~Kingdom.public.md) 
 
-### #is_/same_as :: [bio~Kingdom.internal](/_internal/bio/bio~Domain/Eukarya/bio~Kingdom.internal.md) 
+### #is_/same_as :: [bio~Kingdom.internal](/_internal/bio/Taxon_Rank/bio~Kingdom.internal.md) 
 
-### #is_/same_as :: [bio~Kingdom.protect](/_protect/bio/bio~Domain/Eukarya/bio~Kingdom.protect.md) 
+### #is_/same_as :: [bio~Kingdom.protect](/_protect/bio/Taxon_Rank/bio~Kingdom.protect.md) 
 
-### #is_/same_as :: [bio~Kingdom.private](/_private/bio/bio~Domain/Eukarya/bio~Kingdom.private.md) 
+### #is_/same_as :: [bio~Kingdom.private](/_private/bio/Taxon_Rank/bio~Kingdom.private.md) 
 
-### #is_/same_as :: [bio~Kingdom.personal](/_personal/bio/bio~Domain/Eukarya/bio~Kingdom.personal.md) 
+### #is_/same_as :: [bio~Kingdom.personal](/_personal/bio/Taxon_Rank/bio~Kingdom.personal.md) 
 
-### #is_/same_as :: [bio~Kingdom.secret](/_secret/bio/bio~Domain/Eukarya/bio~Kingdom.secret.md)
+### #is_/same_as :: [bio~Kingdom.secret](/_secret/bio/Taxon_Rank/bio~Kingdom.secret.md)
 

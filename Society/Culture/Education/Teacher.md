@@ -171,3 +171,22 @@ Wolfram_Language_entity_code: Entity["Concept", "Teacher::5wm23"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Teacher) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Teacher](/_Standards/Society/Culture/Education/Teacher.md) 
+
+### #is_/same_as :: [Teacher.public](/_public/Society/Culture/Education/Teacher.public.md) 
+
+### #is_/same_as :: [Teacher.internal](/_internal/Society/Culture/Education/Teacher.internal.md) 
+
+### #is_/same_as :: [Teacher.protect](/_protect/Society/Culture/Education/Teacher.protect.md) 
+
+### #is_/same_as :: [Teacher.private](/_private/Society/Culture/Education/Teacher.private.md) 
+
+### #is_/same_as :: [Teacher.personal](/_personal/Society/Culture/Education/Teacher.personal.md) 
+
+### #is_/same_as :: [Teacher.secret](/_secret/Society/Culture/Education/Teacher.secret.md)
+

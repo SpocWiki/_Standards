@@ -171,3 +171,22 @@ He may be motivated by his absence from his wife in New Haven, Connecticut
 while painting a picture of the Marquis de Lafayette when she died. 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Morse,Samuel_Finley_Breese](/_Standards/Science/Inventor/Morse,Samuel_Finley_Breese.md) 
+
+### #is_/same_as :: [Morse,Samuel_Finley_Breese.public](/_public/Science/Inventor/Morse,Samuel_Finley_Breese.public.md) 
+
+### #is_/same_as :: [Morse,Samuel_Finley_Breese.internal](/_internal/Science/Inventor/Morse,Samuel_Finley_Breese.internal.md) 
+
+### #is_/same_as :: [Morse,Samuel_Finley_Breese.protect](/_protect/Science/Inventor/Morse,Samuel_Finley_Breese.protect.md) 
+
+### #is_/same_as :: [Morse,Samuel_Finley_Breese.private](/_private/Science/Inventor/Morse,Samuel_Finley_Breese.private.md) 
+
+### #is_/same_as :: [Morse,Samuel_Finley_Breese.personal](/_personal/Science/Inventor/Morse,Samuel_Finley_Breese.personal.md) 
+
+### #is_/same_as :: [Morse,Samuel_Finley_Breese.secret](/_secret/Science/Inventor/Morse,Samuel_Finley_Breese.secret.md)
+

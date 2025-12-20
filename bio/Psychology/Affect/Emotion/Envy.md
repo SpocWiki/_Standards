@@ -39,3 +39,22 @@ PhilPapers_topic: envy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Envy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Envy](/_Standards/bio/Psychology/Affect/Emotion/Envy.md) 
+
+### #is_/same_as :: [Envy.public](/_public/bio/Psychology/Affect/Emotion/Envy.public.md) 
+
+### #is_/same_as :: [Envy.internal](/_internal/bio/Psychology/Affect/Emotion/Envy.internal.md) 
+
+### #is_/same_as :: [Envy.protect](/_protect/bio/Psychology/Affect/Emotion/Envy.protect.md) 
+
+### #is_/same_as :: [Envy.private](/_private/bio/Psychology/Affect/Emotion/Envy.private.md) 
+
+### #is_/same_as :: [Envy.personal](/_personal/bio/Psychology/Affect/Emotion/Envy.personal.md) 
+
+### #is_/same_as :: [Envy.secret](/_secret/bio/Psychology/Affect/Emotion/Envy.secret.md)
+

@@ -44,3 +44,22 @@ Wikidata_usage_instructions:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Male) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Male_Organism](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.md) 
+
+### #is_/same_as :: [Male_Organism.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.public.md) 
+
+### #is_/same_as :: [Male_Organism.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.internal.md) 
+
+### #is_/same_as :: [Male_Organism.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.protect.md) 
+
+### #is_/same_as :: [Male_Organism.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.private.md) 
+
+### #is_/same_as :: [Male_Organism.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.personal.md) 
+
+### #is_/same_as :: [Male_Organism.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.secret.md)
+

@@ -124,3 +124,22 @@ IMDb_keyword: reference-to-satan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Satan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Satan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Satan.md) 
+
+### #is_/same_as :: [Satan.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Satan.public.md) 
+
+### #is_/same_as :: [Satan.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Satan.internal.md) 
+
+### #is_/same_as :: [Satan.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Satan.protect.md) 
+
+### #is_/same_as :: [Satan.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Satan.private.md) 
+
+### #is_/same_as :: [Satan.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Satan.personal.md) 
+
+### #is_/same_as :: [Satan.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Satan.secret.md)
+

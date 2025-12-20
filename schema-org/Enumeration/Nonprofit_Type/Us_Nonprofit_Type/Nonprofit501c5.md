@@ -42,17 +42,17 @@ Nonprofit501c5: Non-profit type referring to Labor, Agricultural and Horticultur
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c5](Nonprofit501c5.md) 
+### #is_/same_as :: [Nonprofit501c5](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.md) 
 
-### #is_/same_as :: [nonprofit501c5.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.public.md) 
+### #is_/same_as :: [Nonprofit501c5.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.public.md) 
 
-### #is_/same_as :: [nonprofit501c5.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.internal.md) 
+### #is_/same_as :: [Nonprofit501c5.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.internal.md) 
 
-### #is_/same_as :: [nonprofit501c5.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.protect.md) 
+### #is_/same_as :: [Nonprofit501c5.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.protect.md) 
 
-### #is_/same_as :: [nonprofit501c5.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.private.md) 
+### #is_/same_as :: [Nonprofit501c5.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.private.md) 
 
-### #is_/same_as :: [nonprofit501c5.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.personal.md) 
+### #is_/same_as :: [Nonprofit501c5.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.personal.md) 
 
-### #is_/same_as :: [nonprofit501c5.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.secret.md)
+### #is_/same_as :: [Nonprofit501c5.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c5.secret.md)
 

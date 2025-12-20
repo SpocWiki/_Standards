@@ -136,3 +136,22 @@ Java was originally called Oak.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Java%20(programming%20language))
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Java](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Java.md) 
+
+### #is_/same_as :: [Prog~Java.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Java.public.md) 
+
+### #is_/same_as :: [Prog~Java.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Java.internal.md) 
+
+### #is_/same_as :: [Prog~Java.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Java.protect.md) 
+
+### #is_/same_as :: [Prog~Java.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Java.private.md) 
+
+### #is_/same_as :: [Prog~Java.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Java.personal.md) 
+
+### #is_/same_as :: [Prog~Java.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Java.secret.md)
+

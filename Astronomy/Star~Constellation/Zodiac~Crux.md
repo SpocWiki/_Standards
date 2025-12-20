@@ -54,6 +54,7 @@ short_name: Cru
 
 #is_/same_as :: [[../../WikiData/WD~Crux,10542|WD~Crux,10542]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Crux](/_Standards/Astronomy/Star~Constellation/Zodiac~Crux.md) 

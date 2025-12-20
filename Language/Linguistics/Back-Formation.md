@@ -17,3 +17,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Back-formation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Back-Formation](/_Standards/Language/Linguistics/Back-Formation.md) 
+
+### #is_/same_as :: [Back-Formation.public](/_public/Language/Linguistics/Back-Formation.public.md) 
+
+### #is_/same_as :: [Back-Formation.internal](/_internal/Language/Linguistics/Back-Formation.internal.md) 
+
+### #is_/same_as :: [Back-Formation.protect](/_protect/Language/Linguistics/Back-Formation.protect.md) 
+
+### #is_/same_as :: [Back-Formation.private](/_private/Language/Linguistics/Back-Formation.private.md) 
+
+### #is_/same_as :: [Back-Formation.personal](/_personal/Language/Linguistics/Back-Formation.personal.md) 
+
+### #is_/same_as :: [Back-Formation.secret](/_secret/Language/Linguistics/Back-Formation.secret.md)
+

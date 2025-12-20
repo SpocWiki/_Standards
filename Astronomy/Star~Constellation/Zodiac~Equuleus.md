@@ -46,6 +46,7 @@ official_name: Equuleus
 
 #is_/same_as :: [[../../WikiData/WD~Equuleus,10438|WD~Equuleus,10438]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Equuleus](/_Standards/Astronomy/Star~Constellation/Zodiac~Equuleus.md) 

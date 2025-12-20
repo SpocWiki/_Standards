@@ -53,3 +53,22 @@ taxon_name: Nelumbo
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nelumbo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nelumbo](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Nelumbo.md) 
+
+### #is_/same_as :: [Nelumbo.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Nelumbo.public.md) 
+
+### #is_/same_as :: [Nelumbo.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Nelumbo.internal.md) 
+
+### #is_/same_as :: [Nelumbo.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Nelumbo.protect.md) 
+
+### #is_/same_as :: [Nelumbo.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Nelumbo.private.md) 
+
+### #is_/same_as :: [Nelumbo.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Nelumbo.personal.md) 
+
+### #is_/same_as :: [Nelumbo.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Nelumbo.secret.md)
+

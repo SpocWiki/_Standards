@@ -39,17 +39,17 @@ A Service to transfer funds from a person or organization to a beneficiary perso
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Payment_Service](Payment_Service.md) 
+### #is_/same_as :: [Payment_Service](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.md) 
 
-### #is_/same_as :: [payment_service.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.public.md) 
+### #is_/same_as :: [Payment_Service.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.public.md) 
 
-### #is_/same_as :: [payment_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.internal.md) 
+### #is_/same_as :: [Payment_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.internal.md) 
 
-### #is_/same_as :: [payment_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.protect.md) 
+### #is_/same_as :: [Payment_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.protect.md) 
 
-### #is_/same_as :: [payment_service.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.private.md) 
+### #is_/same_as :: [Payment_Service.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.private.md) 
 
-### #is_/same_as :: [payment_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.personal.md) 
+### #is_/same_as :: [Payment_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.personal.md) 
 
-### #is_/same_as :: [payment_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.secret.md)
+### #is_/same_as :: [Payment_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Service.secret.md)
 

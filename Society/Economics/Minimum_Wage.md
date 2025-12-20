@@ -73,3 +73,22 @@ Commons_category: Minimum wage
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Minimum%20wage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Minimum_Wage](/_Standards/Society/Economics/Minimum_Wage.md) 
+
+### #is_/same_as :: [Minimum_Wage.public](/_public/Society/Economics/Minimum_Wage.public.md) 
+
+### #is_/same_as :: [Minimum_Wage.internal](/_internal/Society/Economics/Minimum_Wage.internal.md) 
+
+### #is_/same_as :: [Minimum_Wage.protect](/_protect/Society/Economics/Minimum_Wage.protect.md) 
+
+### #is_/same_as :: [Minimum_Wage.private](/_private/Society/Economics/Minimum_Wage.private.md) 
+
+### #is_/same_as :: [Minimum_Wage.personal](/_personal/Society/Economics/Minimum_Wage.personal.md) 
+
+### #is_/same_as :: [Minimum_Wage.secret](/_secret/Society/Economics/Minimum_Wage.secret.md)
+

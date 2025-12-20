@@ -30,3 +30,22 @@ Commons_category: Limit of a sequence
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Limit%20of%20a%20sequence) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Limit_of_a_Sequence](/_Standards/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.md) 
+
+### #is_/same_as :: [Limit_of_a_Sequence.public](/_public/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.public.md) 
+
+### #is_/same_as :: [Limit_of_a_Sequence.internal](/_internal/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.internal.md) 
+
+### #is_/same_as :: [Limit_of_a_Sequence.protect](/_protect/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.protect.md) 
+
+### #is_/same_as :: [Limit_of_a_Sequence.private](/_private/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.private.md) 
+
+### #is_/same_as :: [Limit_of_a_Sequence.personal](/_personal/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.personal.md) 
+
+### #is_/same_as :: [Limit_of_a_Sequence.secret](/_secret/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.secret.md)
+

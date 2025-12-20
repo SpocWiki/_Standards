@@ -39,17 +39,17 @@ An internet cafe.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Internet_Cafe](Internet_Cafe.md) 
+### #is_/same_as :: [Internet_Cafe](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.md) 
 
-### #is_/same_as :: [Internet_Cafe.public](/_public/Society/Organization/Local_Business/Internet_Cafe.public.md) 
+### #is_/same_as :: [Internet_Cafe.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.public.md) 
 
-### #is_/same_as :: [Internet_Cafe.internal](/_internal/Society/Organization/Local_Business/Internet_Cafe.internal.md) 
+### #is_/same_as :: [Internet_Cafe.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.internal.md) 
 
-### #is_/same_as :: [Internet_Cafe.protect](/_protect/Society/Organization/Local_Business/Internet_Cafe.protect.md) 
+### #is_/same_as :: [Internet_Cafe.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.protect.md) 
 
-### #is_/same_as :: [Internet_Cafe.private](/_private/Society/Organization/Local_Business/Internet_Cafe.private.md) 
+### #is_/same_as :: [Internet_Cafe.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.private.md) 
 
-### #is_/same_as :: [Internet_Cafe.personal](/_personal/Society/Organization/Local_Business/Internet_Cafe.personal.md) 
+### #is_/same_as :: [Internet_Cafe.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.personal.md) 
 
-### #is_/same_as :: [Internet_Cafe.secret](/_secret/Society/Organization/Local_Business/Internet_Cafe.secret.md)
+### #is_/same_as :: [Internet_Cafe.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.secret.md)
 

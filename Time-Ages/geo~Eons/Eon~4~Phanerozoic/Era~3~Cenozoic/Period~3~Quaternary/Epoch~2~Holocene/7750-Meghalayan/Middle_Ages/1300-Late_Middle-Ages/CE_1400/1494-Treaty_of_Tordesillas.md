@@ -72,3 +72,22 @@ inception: 1494-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Treaty%20of%20Tordesillas) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1494-Treaty_of_Tordesillas](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1494-Treaty_of_Tordesillas.md) 
+
+### #is_/same_as :: [1494-Treaty_of_Tordesillas.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1494-Treaty_of_Tordesillas.public.md) 
+
+### #is_/same_as :: [1494-Treaty_of_Tordesillas.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1494-Treaty_of_Tordesillas.internal.md) 
+
+### #is_/same_as :: [1494-Treaty_of_Tordesillas.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1494-Treaty_of_Tordesillas.protect.md) 
+
+### #is_/same_as :: [1494-Treaty_of_Tordesillas.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1494-Treaty_of_Tordesillas.private.md) 
+
+### #is_/same_as :: [1494-Treaty_of_Tordesillas.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1494-Treaty_of_Tordesillas.personal.md) 
+
+### #is_/same_as :: [1494-Treaty_of_Tordesillas.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1494-Treaty_of_Tordesillas.secret.md)
+

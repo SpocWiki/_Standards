@@ -33,3 +33,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gram-positive%20bacteria) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gram-positive](/_Standards/bio/bio~Domain/Bacteria/Gram-positive.md) 
+
+### #is_/same_as :: [Gram-positive.public](/_public/bio/bio~Domain/Bacteria/Gram-positive.public.md) 
+
+### #is_/same_as :: [Gram-positive.internal](/_internal/bio/bio~Domain/Bacteria/Gram-positive.internal.md) 
+
+### #is_/same_as :: [Gram-positive.protect](/_protect/bio/bio~Domain/Bacteria/Gram-positive.protect.md) 
+
+### #is_/same_as :: [Gram-positive.private](/_private/bio/bio~Domain/Bacteria/Gram-positive.private.md) 
+
+### #is_/same_as :: [Gram-positive.personal](/_personal/bio/bio~Domain/Bacteria/Gram-positive.personal.md) 
+
+### #is_/same_as :: [Gram-positive.secret](/_secret/bio/bio~Domain/Bacteria/Gram-positive.secret.md)
+

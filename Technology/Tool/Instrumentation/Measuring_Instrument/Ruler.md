@@ -46,3 +46,22 @@ Commons_category: Rulers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ruler) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ruler](/_Standards/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.md) 
+
+### #is_/same_as :: [Ruler.public](/_public/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.public.md) 
+
+### #is_/same_as :: [Ruler.internal](/_internal/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.internal.md) 
+
+### #is_/same_as :: [Ruler.protect](/_protect/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.protect.md) 
+
+### #is_/same_as :: [Ruler.private](/_private/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.private.md) 
+
+### #is_/same_as :: [Ruler.personal](/_personal/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.personal.md) 
+
+### #is_/same_as :: [Ruler.secret](/_secret/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.secret.md)
+

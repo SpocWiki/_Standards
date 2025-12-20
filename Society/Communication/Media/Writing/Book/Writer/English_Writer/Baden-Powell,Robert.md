@@ -164,3 +164,22 @@ birth_name: Sir Lord Robert Cecil Stephenson Smith Baden Powell Of Gilwell
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Baden-Powell,%201st%20Baron%20Baden-Powell) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Baden-Powell,Robert](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.md) 
+
+### #is_/same_as :: [Baden-Powell,Robert.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.public.md) 
+
+### #is_/same_as :: [Baden-Powell,Robert.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.internal.md) 
+
+### #is_/same_as :: [Baden-Powell,Robert.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.protect.md) 
+
+### #is_/same_as :: [Baden-Powell,Robert.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.private.md) 
+
+### #is_/same_as :: [Baden-Powell,Robert.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.personal.md) 
+
+### #is_/same_as :: [Baden-Powell,Robert.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.secret.md)
+

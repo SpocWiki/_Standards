@@ -40,3 +40,22 @@ Commons_category: Plant cells
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant%20cell) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plant_Cell](/_Standards/bio/Botany/Plant_Anatomy/Plant_Cell.md) 
+
+### #is_/same_as :: [Plant_Cell.public](/_public/bio/Botany/Plant_Anatomy/Plant_Cell.public.md) 
+
+### #is_/same_as :: [Plant_Cell.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Cell.internal.md) 
+
+### #is_/same_as :: [Plant_Cell.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Cell.protect.md) 
+
+### #is_/same_as :: [Plant_Cell.private](/_private/bio/Botany/Plant_Anatomy/Plant_Cell.private.md) 
+
+### #is_/same_as :: [Plant_Cell.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Cell.personal.md) 
+
+### #is_/same_as :: [Plant_Cell.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Cell.secret.md)
+

@@ -85,3 +85,22 @@ IPTC_NewsCode: mediatopic/20000068
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Revolution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Revolution](/_Standards/Society/Politics/Government/Revolution.md) 
+
+### #is_/same_as :: [Revolution.public](/_public/Society/Politics/Government/Revolution.public.md) 
+
+### #is_/same_as :: [Revolution.internal](/_internal/Society/Politics/Government/Revolution.internal.md) 
+
+### #is_/same_as :: [Revolution.protect](/_protect/Society/Politics/Government/Revolution.protect.md) 
+
+### #is_/same_as :: [Revolution.private](/_private/Society/Politics/Government/Revolution.private.md) 
+
+### #is_/same_as :: [Revolution.personal](/_personal/Society/Politics/Government/Revolution.personal.md) 
+
+### #is_/same_as :: [Revolution.secret](/_secret/Society/Politics/Government/Revolution.secret.md)
+

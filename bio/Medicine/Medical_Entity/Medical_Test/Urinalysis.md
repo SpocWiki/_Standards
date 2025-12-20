@@ -32,3 +32,22 @@ ATC_code: V04B
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Urinalysis)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Urinalysis](/_Standards/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.md) 
+
+### #is_/same_as :: [Urinalysis.public](/_public/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.public.md) 
+
+### #is_/same_as :: [Urinalysis.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.internal.md) 
+
+### #is_/same_as :: [Urinalysis.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.protect.md) 
+
+### #is_/same_as :: [Urinalysis.private](/_private/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.private.md) 
+
+### #is_/same_as :: [Urinalysis.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.personal.md) 
+
+### #is_/same_as :: [Urinalysis.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.secret.md)
+

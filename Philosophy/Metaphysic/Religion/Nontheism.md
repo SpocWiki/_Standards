@@ -17,3 +17,22 @@ subclass_of: "[[_Standards/WikiData/WD~belief,34394]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nontheism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nontheism](/_Standards/Philosophy/Metaphysic/Religion/Nontheism.md) 
+
+### #is_/same_as :: [Nontheism.public](/_public/Philosophy/Metaphysic/Religion/Nontheism.public.md) 
+
+### #is_/same_as :: [Nontheism.internal](/_internal/Philosophy/Metaphysic/Religion/Nontheism.internal.md) 
+
+### #is_/same_as :: [Nontheism.protect](/_protect/Philosophy/Metaphysic/Religion/Nontheism.protect.md) 
+
+### #is_/same_as :: [Nontheism.private](/_private/Philosophy/Metaphysic/Religion/Nontheism.private.md) 
+
+### #is_/same_as :: [Nontheism.personal](/_personal/Philosophy/Metaphysic/Religion/Nontheism.personal.md) 
+
+### #is_/same_as :: [Nontheism.secret](/_secret/Philosophy/Metaphysic/Religion/Nontheism.secret.md)
+

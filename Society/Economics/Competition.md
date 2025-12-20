@@ -118,3 +118,22 @@ type: private_note
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Competition](/_Standards/Society/Economics/Competition.md) 
+
+### #is_/same_as :: [Competition.public](/_public/Society/Economics/Competition.public.md) 
+
+### #is_/same_as :: [Competition.internal](/_internal/Society/Economics/Competition.internal.md) 
+
+### #is_/same_as :: [Competition.protect](/_protect/Society/Economics/Competition.protect.md) 
+
+### #is_/same_as :: [Competition.private](/_private/Society/Economics/Competition.private.md) 
+
+### #is_/same_as :: [Competition.personal](/_personal/Society/Economics/Competition.personal.md) 
+
+### #is_/same_as :: [Competition.secret](/_secret/Society/Economics/Competition.secret.md)
+

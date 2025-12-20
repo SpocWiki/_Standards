@@ -90,3 +90,22 @@ street_address: Neuschwansteinstraße 20, 87645 Hohenschwangau
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Neuschwanstein_Castle](/_Standards/Earth/Geography/Place/Neuschwanstein_Castle.md) 
+
+### #is_/same_as :: [Neuschwanstein_Castle.public](/_public/Earth/Geography/Place/Neuschwanstein_Castle.public.md) 
+
+### #is_/same_as :: [Neuschwanstein_Castle.internal](/_internal/Earth/Geography/Place/Neuschwanstein_Castle.internal.md) 
+
+### #is_/same_as :: [Neuschwanstein_Castle.protect](/_protect/Earth/Geography/Place/Neuschwanstein_Castle.protect.md) 
+
+### #is_/same_as :: [Neuschwanstein_Castle.private](/_private/Earth/Geography/Place/Neuschwanstein_Castle.private.md) 
+
+### #is_/same_as :: [Neuschwanstein_Castle.personal](/_personal/Earth/Geography/Place/Neuschwanstein_Castle.personal.md) 
+
+### #is_/same_as :: [Neuschwanstein_Castle.secret](/_secret/Earth/Geography/Place/Neuschwanstein_Castle.secret.md)
+

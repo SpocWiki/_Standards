@@ -45,3 +45,22 @@ has_id_wikidata: Q942040
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sheaf%20(agriculture)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sheaf(Agriculture)](/_Standards/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).md) 
+
+### #is_/same_as :: [Sheaf(Agriculture).public](/_public/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).public.md) 
+
+### #is_/same_as :: [Sheaf(Agriculture).internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).internal.md) 
+
+### #is_/same_as :: [Sheaf(Agriculture).protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).protect.md) 
+
+### #is_/same_as :: [Sheaf(Agriculture).private](/_private/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).private.md) 
+
+### #is_/same_as :: [Sheaf(Agriculture).personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).personal.md) 
+
+### #is_/same_as :: [Sheaf(Agriculture).secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).secret.md)
+

@@ -31,3 +31,22 @@ has_id_wikidata: Q483261
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~Dalton](/_Standards/Dimension/Mass/Unit~Dalton.md) 
+
+### #is_/same_as :: [Unit~Dalton.public](/_public/Dimension/Mass/Unit~Dalton.public.md) 
+
+### #is_/same_as :: [Unit~Dalton.internal](/_internal/Dimension/Mass/Unit~Dalton.internal.md) 
+
+### #is_/same_as :: [Unit~Dalton.protect](/_protect/Dimension/Mass/Unit~Dalton.protect.md) 
+
+### #is_/same_as :: [Unit~Dalton.private](/_private/Dimension/Mass/Unit~Dalton.private.md) 
+
+### #is_/same_as :: [Unit~Dalton.personal](/_personal/Dimension/Mass/Unit~Dalton.personal.md) 
+
+### #is_/same_as :: [Unit~Dalton.secret](/_secret/Dimension/Mass/Unit~Dalton.secret.md)
+

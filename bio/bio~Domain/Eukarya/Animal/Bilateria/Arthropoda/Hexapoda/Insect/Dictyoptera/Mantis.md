@@ -64,3 +64,22 @@ start_time: -145000000-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mantis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mantis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera/Mantis.md) 
+
+### #is_/same_as :: [Mantis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera/Mantis.public.md) 
+
+### #is_/same_as :: [Mantis.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera/Mantis.internal.md) 
+
+### #is_/same_as :: [Mantis.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera/Mantis.protect.md) 
+
+### #is_/same_as :: [Mantis.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera/Mantis.private.md) 
+
+### #is_/same_as :: [Mantis.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera/Mantis.personal.md) 
+
+### #is_/same_as :: [Mantis.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera/Mantis.secret.md)
+

@@ -40,3 +40,22 @@ Commons_category: Wave–particle duality
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wave%E2%80%93particle%20duality) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wave–Particle_Duality](/_Standards/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.md) 
+
+### #is_/same_as :: [Wave–Particle_Duality.public](/_public/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.public.md) 
+
+### #is_/same_as :: [Wave–Particle_Duality.internal](/_internal/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.internal.md) 
+
+### #is_/same_as :: [Wave–Particle_Duality.protect](/_protect/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.protect.md) 
+
+### #is_/same_as :: [Wave–Particle_Duality.private](/_private/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.private.md) 
+
+### #is_/same_as :: [Wave–Particle_Duality.personal](/_personal/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.personal.md) 
+
+### #is_/same_as :: [Wave–Particle_Duality.secret](/_secret/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.secret.md)
+

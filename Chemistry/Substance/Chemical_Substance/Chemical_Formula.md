@@ -89,3 +89,22 @@ Commons_category: Chemical formulas
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20formula) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chemical_Formula](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Formula.md) 
+
+### #is_/same_as :: [Chemical_Formula.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Formula.public.md) 
+
+### #is_/same_as :: [Chemical_Formula.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.internal.md) 
+
+### #is_/same_as :: [Chemical_Formula.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Formula.protect.md) 
+
+### #is_/same_as :: [Chemical_Formula.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Formula.private.md) 
+
+### #is_/same_as :: [Chemical_Formula.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.personal.md) 
+
+### #is_/same_as :: [Chemical_Formula.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Formula.secret.md)
+

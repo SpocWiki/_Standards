@@ -34,3 +34,22 @@ OpenStreetMap_tag: artwork_type=landart
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Land%20art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Land_Art](/_Standards/Society/Communication/Art/Land_Art.md) 
+
+### #is_/same_as :: [Land_Art.public](/_public/Society/Communication/Art/Land_Art.public.md) 
+
+### #is_/same_as :: [Land_Art.internal](/_internal/Society/Communication/Art/Land_Art.internal.md) 
+
+### #is_/same_as :: [Land_Art.protect](/_protect/Society/Communication/Art/Land_Art.protect.md) 
+
+### #is_/same_as :: [Land_Art.private](/_private/Society/Communication/Art/Land_Art.private.md) 
+
+### #is_/same_as :: [Land_Art.personal](/_personal/Society/Communication/Art/Land_Art.personal.md) 
+
+### #is_/same_as :: [Land_Art.secret](/_secret/Society/Communication/Art/Land_Art.secret.md)
+

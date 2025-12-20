@@ -46,3 +46,22 @@ Dewey_Decimal_Classification: "617.14"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wound) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wound](/_Standards/bio/Medicine/Medical_Condition/Injury/Wound.md) 
+
+### #is_/same_as :: [Wound.public](/_public/bio/Medicine/Medical_Condition/Injury/Wound.public.md) 
+
+### #is_/same_as :: [Wound.internal](/_internal/bio/Medicine/Medical_Condition/Injury/Wound.internal.md) 
+
+### #is_/same_as :: [Wound.protect](/_protect/bio/Medicine/Medical_Condition/Injury/Wound.protect.md) 
+
+### #is_/same_as :: [Wound.private](/_private/bio/Medicine/Medical_Condition/Injury/Wound.private.md) 
+
+### #is_/same_as :: [Wound.personal](/_personal/bio/Medicine/Medical_Condition/Injury/Wound.personal.md) 
+
+### #is_/same_as :: [Wound.secret](/_secret/bio/Medicine/Medical_Condition/Injury/Wound.secret.md)
+

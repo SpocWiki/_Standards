@@ -59,3 +59,21 @@ MeSH_tree_code: L01.462.500.847
 > Since the 1960s, the proliferation of digital technologies has meant that voice communications have gradually been supplemented by data. The physical limitations of metallic media prompted the development of optical fibre. The Internet, a technology independent of any given medium, has provided global access to services for individual users and further reduced location and time limitations on communications.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Telecommunications)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Telecommunication](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.md) 
+
+### #is_/same_as :: [Telecommunication.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.public.md) 
+
+### #is_/same_as :: [Telecommunication.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.internal.md) 
+
+### #is_/same_as :: [Telecommunication.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.protect.md) 
+
+### #is_/same_as :: [Telecommunication.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.private.md) 
+
+### #is_/same_as :: [Telecommunication.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.personal.md) 
+
+### #is_/same_as :: [Telecommunication.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.secret.md)
+

@@ -69,3 +69,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ninja%20The%20Last%20T
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ninja) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ninja](/_Standards/Society/Military/Military_Operation/Espionage/Spy/Ninja.md) 
+
+### #is_/same_as :: [Ninja.public](/_public/Society/Military/Military_Operation/Espionage/Spy/Ninja.public.md) 
+
+### #is_/same_as :: [Ninja.internal](/_internal/Society/Military/Military_Operation/Espionage/Spy/Ninja.internal.md) 
+
+### #is_/same_as :: [Ninja.protect](/_protect/Society/Military/Military_Operation/Espionage/Spy/Ninja.protect.md) 
+
+### #is_/same_as :: [Ninja.private](/_private/Society/Military/Military_Operation/Espionage/Spy/Ninja.private.md) 
+
+### #is_/same_as :: [Ninja.personal](/_personal/Society/Military/Military_Operation/Espionage/Spy/Ninja.personal.md) 
+
+### #is_/same_as :: [Ninja.secret](/_secret/Society/Military/Military_Operation/Espionage/Spy/Ninja.secret.md)
+

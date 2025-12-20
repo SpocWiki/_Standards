@@ -85,3 +85,22 @@ IPTC_NewsCode: mediatopic/20000742
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20science)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Science](/_Standards/Society/Social_Science.md) 
+
+### #is_/same_as :: [Social_Science.public](/_public/Society/Social_Science.public.md) 
+
+### #is_/same_as :: [Social_Science.internal](/_internal/Society/Social_Science.internal.md) 
+
+### #is_/same_as :: [Social_Science.protect](/_protect/Society/Social_Science.protect.md) 
+
+### #is_/same_as :: [Social_Science.private](/_private/Society/Social_Science.private.md) 
+
+### #is_/same_as :: [Social_Science.personal](/_personal/Society/Social_Science.personal.md) 
+
+### #is_/same_as :: [Social_Science.secret](/_secret/Society/Social_Science.secret.md)
+

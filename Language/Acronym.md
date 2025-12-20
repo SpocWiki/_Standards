@@ -26,3 +26,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Acronym) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Acronym](/_Standards/Language/Acronym.md) 
+
+### #is_/same_as :: [Acronym.public](/_public/Language/Acronym.public.md) 
+
+### #is_/same_as :: [Acronym.internal](/_internal/Language/Acronym.internal.md) 
+
+### #is_/same_as :: [Acronym.protect](/_protect/Language/Acronym.protect.md) 
+
+### #is_/same_as :: [Acronym.private](/_private/Language/Acronym.private.md) 
+
+### #is_/same_as :: [Acronym.personal](/_personal/Language/Acronym.personal.md) 
+
+### #is_/same_as :: [Acronym.secret](/_secret/Language/Acronym.secret.md)
+

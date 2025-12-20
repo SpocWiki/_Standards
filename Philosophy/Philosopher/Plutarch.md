@@ -100,3 +100,22 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/53787
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plutarch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plutarch](/_Standards/Philosophy/Philosopher/Plutarch.md) 
+
+### #is_/same_as :: [Plutarch.public](/_public/Philosophy/Philosopher/Plutarch.public.md) 
+
+### #is_/same_as :: [Plutarch.internal](/_internal/Philosophy/Philosopher/Plutarch.internal.md) 
+
+### #is_/same_as :: [Plutarch.protect](/_protect/Philosophy/Philosopher/Plutarch.protect.md) 
+
+### #is_/same_as :: [Plutarch.private](/_private/Philosophy/Philosopher/Plutarch.private.md) 
+
+### #is_/same_as :: [Plutarch.personal](/_personal/Philosophy/Philosopher/Plutarch.personal.md) 
+
+### #is_/same_as :: [Plutarch.secret](/_secret/Philosophy/Philosopher/Plutarch.secret.md)
+

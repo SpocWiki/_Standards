@@ -27,3 +27,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Manis.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Manis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Manis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota/Manidae/Manis.md) 
+
+### #is_/same_as :: [Manis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota/Manidae/Manis.public.md) 
+
+### #is_/same_as :: [Manis.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota/Manidae/Manis.internal.md) 
+
+### #is_/same_as :: [Manis.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota/Manidae/Manis.protect.md) 
+
+### #is_/same_as :: [Manis.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota/Manidae/Manis.private.md) 
+
+### #is_/same_as :: [Manis.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota/Manidae/Manis.personal.md) 
+
+### #is_/same_as :: [Manis.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota/Manidae/Manis.secret.md)
+

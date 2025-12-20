@@ -77,3 +77,22 @@ Commons_category: Cross product
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cross%20product)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vector_Product](/_Standards/Mathematics/Geometry/Vector/Vector_Product.md) 
+
+### #is_/same_as :: [Vector_Product.public](/_public/Mathematics/Geometry/Vector/Vector_Product.public.md) 
+
+### #is_/same_as :: [Vector_Product.internal](/_internal/Mathematics/Geometry/Vector/Vector_Product.internal.md) 
+
+### #is_/same_as :: [Vector_Product.protect](/_protect/Mathematics/Geometry/Vector/Vector_Product.protect.md) 
+
+### #is_/same_as :: [Vector_Product.private](/_private/Mathematics/Geometry/Vector/Vector_Product.private.md) 
+
+### #is_/same_as :: [Vector_Product.personal](/_personal/Mathematics/Geometry/Vector/Vector_Product.personal.md) 
+
+### #is_/same_as :: [Vector_Product.secret](/_secret/Mathematics/Geometry/Vector/Vector_Product.secret.md)
+

@@ -78,3 +78,22 @@ OpenStreetMap_tag: railway=subway
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rapid%20transit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rapid_Transit](/_Standards/Technology/Transport/Public_Transport/Rapid_Transit.md) 
+
+### #is_/same_as :: [Rapid_Transit.public](/_public/Technology/Transport/Public_Transport/Rapid_Transit.public.md) 
+
+### #is_/same_as :: [Rapid_Transit.internal](/_internal/Technology/Transport/Public_Transport/Rapid_Transit.internal.md) 
+
+### #is_/same_as :: [Rapid_Transit.protect](/_protect/Technology/Transport/Public_Transport/Rapid_Transit.protect.md) 
+
+### #is_/same_as :: [Rapid_Transit.private](/_private/Technology/Transport/Public_Transport/Rapid_Transit.private.md) 
+
+### #is_/same_as :: [Rapid_Transit.personal](/_personal/Technology/Transport/Public_Transport/Rapid_Transit.personal.md) 
+
+### #is_/same_as :: [Rapid_Transit.secret](/_secret/Technology/Transport/Public_Transport/Rapid_Transit.secret.md)
+

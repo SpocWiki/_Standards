@@ -31,3 +31,22 @@ Commons_category: Organosilicon compounds
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Organosilicon%20chemistry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Organosilicon_Compound](/_Standards/Chemistry/Organosilicon_Compound.md) 
+
+### #is_/same_as :: [Organosilicon_Compound.public](/_public/Chemistry/Organosilicon_Compound.public.md) 
+
+### #is_/same_as :: [Organosilicon_Compound.internal](/_internal/Chemistry/Organosilicon_Compound.internal.md) 
+
+### #is_/same_as :: [Organosilicon_Compound.protect](/_protect/Chemistry/Organosilicon_Compound.protect.md) 
+
+### #is_/same_as :: [Organosilicon_Compound.private](/_private/Chemistry/Organosilicon_Compound.private.md) 
+
+### #is_/same_as :: [Organosilicon_Compound.personal](/_personal/Chemistry/Organosilicon_Compound.personal.md) 
+
+### #is_/same_as :: [Organosilicon_Compound.secret](/_secret/Chemistry/Organosilicon_Compound.secret.md)
+

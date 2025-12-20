@@ -45,3 +45,22 @@ Stack_Exchange_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Galaxy%20cluster) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Galaxy_Cluster](/_Standards/Astronomy/Star_System/Galaxy/Galaxy_Cluster.md) 
+
+### #is_/same_as :: [Galaxy_Cluster.public](/_public/Astronomy/Star_System/Galaxy/Galaxy_Cluster.public.md) 
+
+### #is_/same_as :: [Galaxy_Cluster.internal](/_internal/Astronomy/Star_System/Galaxy/Galaxy_Cluster.internal.md) 
+
+### #is_/same_as :: [Galaxy_Cluster.protect](/_protect/Astronomy/Star_System/Galaxy/Galaxy_Cluster.protect.md) 
+
+### #is_/same_as :: [Galaxy_Cluster.private](/_private/Astronomy/Star_System/Galaxy/Galaxy_Cluster.private.md) 
+
+### #is_/same_as :: [Galaxy_Cluster.personal](/_personal/Astronomy/Star_System/Galaxy/Galaxy_Cluster.personal.md) 
+
+### #is_/same_as :: [Galaxy_Cluster.secret](/_secret/Astronomy/Star_System/Galaxy/Galaxy_Cluster.secret.md)
+

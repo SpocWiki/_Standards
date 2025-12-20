@@ -126,3 +126,22 @@ Bluesky_handle: pbs.org
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/PBS) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [PBS(Public_Broadcasting_Service)](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).md) 
+
+### #is_/same_as :: [PBS(Public_Broadcasting_Service).public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).public.md) 
+
+### #is_/same_as :: [PBS(Public_Broadcasting_Service).internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).internal.md) 
+
+### #is_/same_as :: [PBS(Public_Broadcasting_Service).protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).protect.md) 
+
+### #is_/same_as :: [PBS(Public_Broadcasting_Service).private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).private.md) 
+
+### #is_/same_as :: [PBS(Public_Broadcasting_Service).personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).personal.md) 
+
+### #is_/same_as :: [PBS(Public_Broadcasting_Service).secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).secret.md)
+

@@ -39,17 +39,17 @@ A recycling center.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Recycling_Center](Recycling_Center.md) 
+### #is_/same_as :: [Recycling_Center](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.md) 
 
-### #is_/same_as :: [Recycling_Center.public](/_public/Society/Organization/Local_Business/Recycling_Center.public.md) 
+### #is_/same_as :: [Recycling_Center.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.public.md) 
 
-### #is_/same_as :: [Recycling_Center.internal](/_internal/Society/Organization/Local_Business/Recycling_Center.internal.md) 
+### #is_/same_as :: [Recycling_Center.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.internal.md) 
 
-### #is_/same_as :: [Recycling_Center.protect](/_protect/Society/Organization/Local_Business/Recycling_Center.protect.md) 
+### #is_/same_as :: [Recycling_Center.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.protect.md) 
 
-### #is_/same_as :: [Recycling_Center.private](/_private/Society/Organization/Local_Business/Recycling_Center.private.md) 
+### #is_/same_as :: [Recycling_Center.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.private.md) 
 
-### #is_/same_as :: [Recycling_Center.personal](/_personal/Society/Organization/Local_Business/Recycling_Center.personal.md) 
+### #is_/same_as :: [Recycling_Center.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.personal.md) 
 
-### #is_/same_as :: [Recycling_Center.secret](/_secret/Society/Organization/Local_Business/Recycling_Center.secret.md)
+### #is_/same_as :: [Recycling_Center.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Recycling_Center.secret.md)
 

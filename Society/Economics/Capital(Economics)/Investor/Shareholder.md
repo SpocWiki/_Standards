@@ -48,3 +48,22 @@ IPTC_NewsCode: mediatopic/20000185
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shareholder) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shareholder](/_Standards/Society/Economics/Capital(Economics)/Investor/Shareholder.md) 
+
+### #is_/same_as :: [Shareholder.public](/_public/Society/Economics/Capital(Economics)/Investor/Shareholder.public.md) 
+
+### #is_/same_as :: [Shareholder.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Shareholder.internal.md) 
+
+### #is_/same_as :: [Shareholder.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Shareholder.protect.md) 
+
+### #is_/same_as :: [Shareholder.private](/_private/Society/Economics/Capital(Economics)/Investor/Shareholder.private.md) 
+
+### #is_/same_as :: [Shareholder.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Shareholder.personal.md) 
+
+### #is_/same_as :: [Shareholder.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Shareholder.secret.md)
+

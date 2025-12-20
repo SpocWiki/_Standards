@@ -40,3 +40,22 @@ date_of_death: 2025-05-26T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Jarvik) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jarvik,Robert](/_Standards/Science/Inventor/Jarvik,Robert.md) 
+
+### #is_/same_as :: [Jarvik,Robert.public](/_public/Science/Inventor/Jarvik,Robert.public.md) 
+
+### #is_/same_as :: [Jarvik,Robert.internal](/_internal/Science/Inventor/Jarvik,Robert.internal.md) 
+
+### #is_/same_as :: [Jarvik,Robert.protect](/_protect/Science/Inventor/Jarvik,Robert.protect.md) 
+
+### #is_/same_as :: [Jarvik,Robert.private](/_private/Science/Inventor/Jarvik,Robert.private.md) 
+
+### #is_/same_as :: [Jarvik,Robert.personal](/_personal/Science/Inventor/Jarvik,Robert.personal.md) 
+
+### #is_/same_as :: [Jarvik,Robert.secret](/_secret/Science/Inventor/Jarvik,Robert.secret.md)
+

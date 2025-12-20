@@ -140,3 +140,21 @@ NBN_System_Key: NHMSYS0001745235
 > The great white shark is depicted in popular culture as a ferocious man-eater, largely as a result of the novel Jaws by Peter Benchley and its subsequent film adaptation by Steven Spielberg. While humans are not a preferred prey, this species is nonetheless responsible for the largest number of reported and identified fatal unprovoked shark attacks on humans. However, attacks are rare, typically occurring fewer than 10 times per year globally.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20white%20shark)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Great_white_Shark](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.md) 
+
+### #is_/same_as :: [Great_white_Shark.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.public.md) 
+
+### #is_/same_as :: [Great_white_Shark.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.internal.md) 
+
+### #is_/same_as :: [Great_white_Shark.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.protect.md) 
+
+### #is_/same_as :: [Great_white_Shark.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.private.md) 
+
+### #is_/same_as :: [Great_white_Shark.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.personal.md) 
+
+### #is_/same_as :: [Great_white_Shark.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Chondrichthyes/Great_white_Shark.secret.md)
+

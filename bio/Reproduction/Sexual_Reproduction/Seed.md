@@ -73,3 +73,22 @@ Krugosvet_article: biologiya/semya
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seed) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Seed](/_Standards/bio/Reproduction/Sexual_Reproduction/Seed.md) 
+
+### #is_/same_as :: [Seed.public](/_public/bio/Reproduction/Sexual_Reproduction/Seed.public.md) 
+
+### #is_/same_as :: [Seed.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Seed.internal.md) 
+
+### #is_/same_as :: [Seed.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Seed.protect.md) 
+
+### #is_/same_as :: [Seed.private](/_private/bio/Reproduction/Sexual_Reproduction/Seed.private.md) 
+
+### #is_/same_as :: [Seed.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Seed.personal.md) 
+
+### #is_/same_as :: [Seed.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Seed.secret.md)
+

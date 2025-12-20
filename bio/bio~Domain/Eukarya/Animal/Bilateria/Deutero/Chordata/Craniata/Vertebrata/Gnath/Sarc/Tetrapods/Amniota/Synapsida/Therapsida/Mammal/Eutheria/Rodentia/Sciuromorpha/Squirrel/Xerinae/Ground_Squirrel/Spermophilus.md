@@ -54,3 +54,22 @@ NBN_System_Key: NHMSYS0000376534
 > [Wikipedia](https://en.wikipedia.org/wiki/Spermophilus) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spermophilus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Ground_Squirrel/Spermophilus.md) 
+
+### #is_/same_as :: [Spermophilus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Ground_Squirrel/Spermophilus.public.md) 
+
+### #is_/same_as :: [Spermophilus.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Ground_Squirrel/Spermophilus.internal.md) 
+
+### #is_/same_as :: [Spermophilus.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Ground_Squirrel/Spermophilus.protect.md) 
+
+### #is_/same_as :: [Spermophilus.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Ground_Squirrel/Spermophilus.private.md) 
+
+### #is_/same_as :: [Spermophilus.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Ground_Squirrel/Spermophilus.personal.md) 
+
+### #is_/same_as :: [Spermophilus.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Sciuromorpha/Squirrel/Xerinae/Ground_Squirrel/Spermophilus.secret.md)
+

@@ -147,3 +147,22 @@ ISNI: "0000000121400378"
 > [Wikipedia](https://en.wikipedia.org/wiki/Philip%20Melanchthon) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Melanchthon,Philipp](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.md) 
+
+### #is_/same_as :: [Melanchthon,Philipp.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.public.md) 
+
+### #is_/same_as :: [Melanchthon,Philipp.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.internal.md) 
+
+### #is_/same_as :: [Melanchthon,Philipp.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.protect.md) 
+
+### #is_/same_as :: [Melanchthon,Philipp.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.private.md) 
+
+### #is_/same_as :: [Melanchthon,Philipp.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.personal.md) 
+
+### #is_/same_as :: [Melanchthon,Philipp.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.secret.md)
+

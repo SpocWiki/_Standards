@@ -26,3 +26,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ceres%20(mythology)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ceres(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Ceres(Mythology).md) 
+
+### #is_/same_as :: [Ceres(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Ceres(Mythology).public.md) 
+
+### #is_/same_as :: [Ceres(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Ceres(Mythology).internal.md) 
+
+### #is_/same_as :: [Ceres(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Ceres(Mythology).protect.md) 
+
+### #is_/same_as :: [Ceres(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Ceres(Mythology).private.md) 
+
+### #is_/same_as :: [Ceres(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Ceres(Mythology).personal.md) 
+
+### #is_/same_as :: [Ceres(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Ceres(Mythology).secret.md)
+

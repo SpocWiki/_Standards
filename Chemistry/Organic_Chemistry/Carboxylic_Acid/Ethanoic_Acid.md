@@ -77,17 +77,17 @@ H-C-C=O
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ethanoic_Acid](Ethanoic_Acid.md) 
+### #is_/same_as :: [Ethanoic_Acid](/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.md) 
 
-### #is_/same_as :: [Ethanoic_Acid.public](/_public/Chemistry/organic/Carboxylic_Acid/Ethanoic_Acid.public.md) 
+### #is_/same_as :: [Ethanoic_Acid.public](/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.public.md) 
 
-### #is_/same_as :: [Ethanoic_Acid.internal](/_internal/Chemistry/organic/Carboxylic_Acid/Ethanoic_Acid.internal.md) 
+### #is_/same_as :: [Ethanoic_Acid.internal](/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.internal.md) 
 
-### #is_/same_as :: [Ethanoic_Acid.protect](/_protect/Chemistry/organic/Carboxylic_Acid/Ethanoic_Acid.protect.md) 
+### #is_/same_as :: [Ethanoic_Acid.protect](/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.protect.md) 
 
-### #is_/same_as :: [Ethanoic_Acid.private](/_private/Chemistry/organic/Carboxylic_Acid/Ethanoic_Acid.private.md) 
+### #is_/same_as :: [Ethanoic_Acid.private](/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.private.md) 
 
-### #is_/same_as :: [Ethanoic_Acid.personal](/_personal/Chemistry/organic/Carboxylic_Acid/Ethanoic_Acid.personal.md) 
+### #is_/same_as :: [Ethanoic_Acid.personal](/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.personal.md) 
 
-### #is_/same_as :: [Ethanoic_Acid.secret](/_secret/Chemistry/organic/Carboxylic_Acid/Ethanoic_Acid.secret.md)
+### #is_/same_as :: [Ethanoic_Acid.secret](/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.secret.md)
 

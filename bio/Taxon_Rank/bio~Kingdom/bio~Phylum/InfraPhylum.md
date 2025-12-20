@@ -26,3 +26,22 @@ different_from: "[[_Standards/WikiData/WD~infradivision,23759835]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Subphylum) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [InfraPhylum](/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.md) 
+
+### #is_/same_as :: [InfraPhylum.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.public.md) 
+
+### #is_/same_as :: [InfraPhylum.internal](/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.internal.md) 
+
+### #is_/same_as :: [InfraPhylum.protect](/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.protect.md) 
+
+### #is_/same_as :: [InfraPhylum.private](/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.private.md) 
+
+### #is_/same_as :: [InfraPhylum.personal](/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.personal.md) 
+
+### #is_/same_as :: [InfraPhylum.secret](/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.secret.md)
+

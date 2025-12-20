@@ -47,17 +47,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Samba,22880924]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Samba](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Samba.md) 
+### #is_/same_as :: [Samba](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.md) 
 
-### #is_/same_as :: [Samba.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Samba.public.md) 
+### #is_/same_as :: [Samba.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.public.md) 
 
-### #is_/same_as :: [Samba.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Samba.internal.md) 
+### #is_/same_as :: [Samba.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.internal.md) 
 
-### #is_/same_as :: [Samba.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Samba.protect.md) 
+### #is_/same_as :: [Samba.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.protect.md) 
 
-### #is_/same_as :: [Samba.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Samba.private.md) 
+### #is_/same_as :: [Samba.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.private.md) 
 
-### #is_/same_as :: [Samba.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Samba.personal.md) 
+### #is_/same_as :: [Samba.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.personal.md) 
 
-### #is_/same_as :: [Samba.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Samba.secret.md)
+### #is_/same_as :: [Samba.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.secret.md)
 

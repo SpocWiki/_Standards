@@ -138,3 +138,22 @@ exact_match:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sanskrit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sanskrit](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Sanskrit.md) 
+
+### #is_/same_as :: [Sanskrit.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Sanskrit.public.md) 
+
+### #is_/same_as :: [Sanskrit.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Sanskrit.internal.md) 
+
+### #is_/same_as :: [Sanskrit.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Sanskrit.protect.md) 
+
+### #is_/same_as :: [Sanskrit.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Sanskrit.private.md) 
+
+### #is_/same_as :: [Sanskrit.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Sanskrit.personal.md) 
+
+### #is_/same_as :: [Sanskrit.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Sanskrit.secret.md)
+

@@ -40,17 +40,17 @@ Indicates that the item has been discontinued.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Discontinued](Discontinued.md) 
+### #is_/same_as :: [Discontinued](/_Standards/schema-org/Enumeration/Item_Availability/Discontinued.md) 
 
-### #is_/same_as :: [discontinued.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/discontinued.public.md) 
+### #is_/same_as :: [Discontinued.public](/_public/schema-org/Enumeration/Item_Availability/Discontinued.public.md) 
 
-### #is_/same_as :: [discontinued.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/discontinued.internal.md) 
+### #is_/same_as :: [Discontinued.internal](/_internal/schema-org/Enumeration/Item_Availability/Discontinued.internal.md) 
 
-### #is_/same_as :: [discontinued.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/discontinued.protect.md) 
+### #is_/same_as :: [Discontinued.protect](/_protect/schema-org/Enumeration/Item_Availability/Discontinued.protect.md) 
 
-### #is_/same_as :: [discontinued.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/discontinued.private.md) 
+### #is_/same_as :: [Discontinued.private](/_private/schema-org/Enumeration/Item_Availability/Discontinued.private.md) 
 
-### #is_/same_as :: [discontinued.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/discontinued.personal.md) 
+### #is_/same_as :: [Discontinued.personal](/_personal/schema-org/Enumeration/Item_Availability/Discontinued.personal.md) 
 
-### #is_/same_as :: [discontinued.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/discontinued.secret.md)
+### #is_/same_as :: [Discontinued.secret](/_secret/schema-org/Enumeration/Item_Availability/Discontinued.secret.md)
 

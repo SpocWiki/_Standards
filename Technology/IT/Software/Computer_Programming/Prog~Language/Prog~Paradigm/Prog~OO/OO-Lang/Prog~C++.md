@@ -115,3 +115,22 @@ C++ was designed with systems programming and embedded, resource-constrained sof
 
 C++ has also been found useful in many other contexts, with key strengths being software infrastructure and resource-constrained applications, including desktop applications, video games, servers (e.g., e-commerce, web search, or databases), and performance-critical applications (e.g., telephone switches or space probes).
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~C++](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~C++.md) 
+
+### #is_/same_as :: [Prog~C++.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~C++.public.md) 
+
+### #is_/same_as :: [Prog~C++.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~C++.internal.md) 
+
+### #is_/same_as :: [Prog~C++.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~C++.protect.md) 
+
+### #is_/same_as :: [Prog~C++.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~C++.private.md) 
+
+### #is_/same_as :: [Prog~C++.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~C++.personal.md) 
+
+### #is_/same_as :: [Prog~C++.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~C++.secret.md)
+

@@ -95,3 +95,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tiger%20Woods) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tiger_Woods](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf/Tiger_Woods.md) 
+
+### #is_/same_as :: [Tiger_Woods.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf/Tiger_Woods.public.md) 
+
+### #is_/same_as :: [Tiger_Woods.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf/Tiger_Woods.internal.md) 
+
+### #is_/same_as :: [Tiger_Woods.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf/Tiger_Woods.protect.md) 
+
+### #is_/same_as :: [Tiger_Woods.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf/Tiger_Woods.private.md) 
+
+### #is_/same_as :: [Tiger_Woods.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf/Tiger_Woods.personal.md) 
+
+### #is_/same_as :: [Tiger_Woods.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf/Tiger_Woods.secret.md)
+

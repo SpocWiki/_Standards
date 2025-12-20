@@ -39,17 +39,17 @@ A set of characteristics describing parents, who can be interested in viewing so
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [parent_audience](/_Standards/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.md) 
+### #is_/same_as :: [Parent_Audience](/_Standards/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.md) 
 
-### #is_/same_as :: [parent_audience.public](/_public/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.public.md) 
+### #is_/same_as :: [Parent_Audience.public](/_public/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.public.md) 
 
-### #is_/same_as :: [parent_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.internal.md) 
+### #is_/same_as :: [Parent_Audience.internal](/_internal/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.internal.md) 
 
-### #is_/same_as :: [parent_audience.protect](/_protect/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.protect.md) 
+### #is_/same_as :: [Parent_Audience.protect](/_protect/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.protect.md) 
 
-### #is_/same_as :: [parent_audience.private](/_private/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.private.md) 
+### #is_/same_as :: [Parent_Audience.private](/_private/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.private.md) 
 
-### #is_/same_as :: [parent_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.personal.md) 
+### #is_/same_as :: [Parent_Audience.personal](/_personal/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.personal.md) 
 
-### #is_/same_as :: [parent_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.secret.md)
+### #is_/same_as :: [Parent_Audience.secret](/_secret/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.secret.md)
 

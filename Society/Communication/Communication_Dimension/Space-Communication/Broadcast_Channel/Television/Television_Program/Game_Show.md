@@ -39,3 +39,22 @@ IMDb_keyword: quiz-game-show
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Game%20show) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Game_Show](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Game_Show.md) 
+
+### #is_/same_as :: [Game_Show.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Game_Show.public.md) 
+
+### #is_/same_as :: [Game_Show.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Game_Show.internal.md) 
+
+### #is_/same_as :: [Game_Show.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Game_Show.protect.md) 
+
+### #is_/same_as :: [Game_Show.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Game_Show.private.md) 
+
+### #is_/same_as :: [Game_Show.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Game_Show.personal.md) 
+
+### #is_/same_as :: [Game_Show.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Game_Show.secret.md)
+

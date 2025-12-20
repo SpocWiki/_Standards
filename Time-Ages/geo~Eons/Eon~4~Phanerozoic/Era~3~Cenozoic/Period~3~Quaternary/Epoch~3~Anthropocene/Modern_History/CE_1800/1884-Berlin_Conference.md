@@ -39,3 +39,22 @@ has_id_wikidata:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1884-Berlin_Conference](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.md) 
+
+### #is_/same_as :: [1884-Berlin_Conference.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.public.md) 
+
+### #is_/same_as :: [1884-Berlin_Conference.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.internal.md) 
+
+### #is_/same_as :: [1884-Berlin_Conference.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.protect.md) 
+
+### #is_/same_as :: [1884-Berlin_Conference.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.private.md) 
+
+### #is_/same_as :: [1884-Berlin_Conference.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.personal.md) 
+
+### #is_/same_as :: [1884-Berlin_Conference.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.secret.md)
+

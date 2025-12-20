@@ -62,3 +62,22 @@ Commons_category: Magnetic levitation trains
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Maglev) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Maglev_Train](/_Standards/Technology/Transport/Rail_Transport/Maglev_Train.md) 
+
+### #is_/same_as :: [Maglev_Train.public](/_public/Technology/Transport/Rail_Transport/Maglev_Train.public.md) 
+
+### #is_/same_as :: [Maglev_Train.internal](/_internal/Technology/Transport/Rail_Transport/Maglev_Train.internal.md) 
+
+### #is_/same_as :: [Maglev_Train.protect](/_protect/Technology/Transport/Rail_Transport/Maglev_Train.protect.md) 
+
+### #is_/same_as :: [Maglev_Train.private](/_private/Technology/Transport/Rail_Transport/Maglev_Train.private.md) 
+
+### #is_/same_as :: [Maglev_Train.personal](/_personal/Technology/Transport/Rail_Transport/Maglev_Train.personal.md) 
+
+### #is_/same_as :: [Maglev_Train.secret](/_secret/Technology/Transport/Rail_Transport/Maglev_Train.secret.md)
+

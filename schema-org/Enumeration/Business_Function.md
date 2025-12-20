@@ -50,17 +50,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Business_Function](Business_Function.md) 
+### #is_/same_as :: [Business_Function](/_Standards/schema-org/Enumeration/Business_Function.md) 
 
-### #is_/same_as :: [business_function.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/business_function.public.md) 
+### #is_/same_as :: [Business_Function.public](/_public/schema-org/Enumeration/Business_Function.public.md) 
 
-### #is_/same_as :: [business_function.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/business_function.internal.md) 
+### #is_/same_as :: [Business_Function.internal](/_internal/schema-org/Enumeration/Business_Function.internal.md) 
 
-### #is_/same_as :: [business_function.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/business_function.protect.md) 
+### #is_/same_as :: [Business_Function.protect](/_protect/schema-org/Enumeration/Business_Function.protect.md) 
 
-### #is_/same_as :: [business_function.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/business_function.private.md) 
+### #is_/same_as :: [Business_Function.private](/_private/schema-org/Enumeration/Business_Function.private.md) 
 
-### #is_/same_as :: [business_function.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/business_function.personal.md) 
+### #is_/same_as :: [Business_Function.personal](/_personal/schema-org/Enumeration/Business_Function.personal.md) 
 
-### #is_/same_as :: [business_function.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/business_function.secret.md)
+### #is_/same_as :: [Business_Function.secret](/_secret/schema-org/Enumeration/Business_Function.secret.md)
 

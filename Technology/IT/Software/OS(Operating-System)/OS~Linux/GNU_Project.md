@@ -187,3 +187,22 @@ search_formatter_URL: https://www.gnu.org/cgi-bin/estseek.cgi?phrase=$1
 > The project's current work includes software development, awareness building, political campaigning, and sharing of new material.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/GNU%20Project)
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [GNU_Project](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.md) 
+
+### #is_/same_as :: [GNU_Project.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.public.md) 
+
+### #is_/same_as :: [GNU_Project.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.internal.md) 
+
+### #is_/same_as :: [GNU_Project.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.protect.md) 
+
+### #is_/same_as :: [GNU_Project.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.private.md) 
+
+### #is_/same_as :: [GNU_Project.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.personal.md) 
+
+### #is_/same_as :: [GNU_Project.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.secret.md)
+

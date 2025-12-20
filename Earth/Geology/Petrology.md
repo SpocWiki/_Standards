@@ -44,3 +44,22 @@ Library_of_Congress_Classification: QE420-QE499
 > [Wikipedia](https://en.wikipedia.org/wiki/Petrology)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Petrology](/_Standards/Earth/Geology/Petrology.md) 
+
+### #is_/same_as :: [Petrology.public](/_public/Earth/Geology/Petrology.public.md) 
+
+### #is_/same_as :: [Petrology.internal](/_internal/Earth/Geology/Petrology.internal.md) 
+
+### #is_/same_as :: [Petrology.protect](/_protect/Earth/Geology/Petrology.protect.md) 
+
+### #is_/same_as :: [Petrology.private](/_private/Earth/Geology/Petrology.private.md) 
+
+### #is_/same_as :: [Petrology.personal](/_personal/Earth/Geology/Petrology.personal.md) 
+
+### #is_/same_as :: [Petrology.secret](/_secret/Earth/Geology/Petrology.secret.md)
+

@@ -96,7 +96,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Life Cycle Stage ::     adult
   Size                 Spider body length ca. 13 mm.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

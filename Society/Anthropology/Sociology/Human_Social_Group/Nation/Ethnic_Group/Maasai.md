@@ -53,3 +53,22 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Maasai%20people) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Maasai](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.md) 
+
+### #is_/same_as :: [Maasai.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.public.md) 
+
+### #is_/same_as :: [Maasai.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.internal.md) 
+
+### #is_/same_as :: [Maasai.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.protect.md) 
+
+### #is_/same_as :: [Maasai.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.private.md) 
+
+### #is_/same_as :: [Maasai.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.personal.md) 
+
+### #is_/same_as :: [Maasai.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.secret.md)
+

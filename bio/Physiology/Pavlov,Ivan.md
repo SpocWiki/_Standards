@@ -143,3 +143,22 @@ ISNI: 000000008115516X
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ivan%20Pavlov)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pavlov,Ivan](/_Standards/bio/Physiology/Pavlov,Ivan.md) 
+
+### #is_/same_as :: [Pavlov,Ivan.public](/_public/bio/Physiology/Pavlov,Ivan.public.md) 
+
+### #is_/same_as :: [Pavlov,Ivan.internal](/_internal/bio/Physiology/Pavlov,Ivan.internal.md) 
+
+### #is_/same_as :: [Pavlov,Ivan.protect](/_protect/bio/Physiology/Pavlov,Ivan.protect.md) 
+
+### #is_/same_as :: [Pavlov,Ivan.private](/_private/bio/Physiology/Pavlov,Ivan.private.md) 
+
+### #is_/same_as :: [Pavlov,Ivan.personal](/_personal/bio/Physiology/Pavlov,Ivan.personal.md) 
+
+### #is_/same_as :: [Pavlov,Ivan.secret](/_secret/bio/Physiology/Pavlov,Ivan.secret.md)
+

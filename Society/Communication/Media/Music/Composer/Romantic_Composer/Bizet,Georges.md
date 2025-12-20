@@ -104,3 +104,22 @@ ISNI:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Georges%20Bizet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bizet,Georges](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.md) 
+
+### #is_/same_as :: [Bizet,Georges.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.public.md) 
+
+### #is_/same_as :: [Bizet,Georges.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.internal.md) 
+
+### #is_/same_as :: [Bizet,Georges.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.protect.md) 
+
+### #is_/same_as :: [Bizet,Georges.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.private.md) 
+
+### #is_/same_as :: [Bizet,Georges.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.personal.md) 
+
+### #is_/same_as :: [Bizet,Georges.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.secret.md)
+

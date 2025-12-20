@@ -60,3 +60,22 @@ OpenStreetMap_tag: healthcare:speciality=hypnosis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypnosis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hypnosis](/_Standards/bio/Psychology/Mind/Mental_State/Hypnosis.md) 
+
+### #is_/same_as :: [Hypnosis.public](/_public/bio/Psychology/Mind/Mental_State/Hypnosis.public.md) 
+
+### #is_/same_as :: [Hypnosis.internal](/_internal/bio/Psychology/Mind/Mental_State/Hypnosis.internal.md) 
+
+### #is_/same_as :: [Hypnosis.protect](/_protect/bio/Psychology/Mind/Mental_State/Hypnosis.protect.md) 
+
+### #is_/same_as :: [Hypnosis.private](/_private/bio/Psychology/Mind/Mental_State/Hypnosis.private.md) 
+
+### #is_/same_as :: [Hypnosis.personal](/_personal/bio/Psychology/Mind/Mental_State/Hypnosis.personal.md) 
+
+### #is_/same_as :: [Hypnosis.secret](/_secret/bio/Psychology/Mind/Mental_State/Hypnosis.secret.md)
+

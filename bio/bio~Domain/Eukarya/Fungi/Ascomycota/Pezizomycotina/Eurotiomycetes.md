@@ -22,7 +22,7 @@ title: Eurotiomycetes
 
 # Eurotiomycetes 
 
-Containing group:[Pezizomycotina](../Pezizomycotina.md))
+Containing group:[Pezizomycotina](../Pezizomycotina.md))
 
 
 ## Confidential Links & Embeds: 

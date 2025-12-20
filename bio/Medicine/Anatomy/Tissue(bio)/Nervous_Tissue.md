@@ -38,3 +38,22 @@ Commons_category: Nerve tissue
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nervous%20tissue) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nervous_Tissue](/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Nervous_Tissue.md) 
+
+### #is_/same_as :: [Nervous_Tissue.public](/_public/bio/Medicine/Anatomy/Tissue(bio)/Nervous_Tissue.public.md) 
+
+### #is_/same_as :: [Nervous_Tissue.internal](/_internal/bio/Medicine/Anatomy/Tissue(bio)/Nervous_Tissue.internal.md) 
+
+### #is_/same_as :: [Nervous_Tissue.protect](/_protect/bio/Medicine/Anatomy/Tissue(bio)/Nervous_Tissue.protect.md) 
+
+### #is_/same_as :: [Nervous_Tissue.private](/_private/bio/Medicine/Anatomy/Tissue(bio)/Nervous_Tissue.private.md) 
+
+### #is_/same_as :: [Nervous_Tissue.personal](/_personal/bio/Medicine/Anatomy/Tissue(bio)/Nervous_Tissue.personal.md) 
+
+### #is_/same_as :: [Nervous_Tissue.secret](/_secret/bio/Medicine/Anatomy/Tissue(bio)/Nervous_Tissue.secret.md)
+

@@ -63,3 +63,22 @@ short_name: Diss.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thesis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Doctoral_Thesis](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.md) 
+
+### #is_/same_as :: [Doctoral_Thesis.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.public.md) 
+
+### #is_/same_as :: [Doctoral_Thesis.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.internal.md) 
+
+### #is_/same_as :: [Doctoral_Thesis.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.protect.md) 
+
+### #is_/same_as :: [Doctoral_Thesis.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.private.md) 
+
+### #is_/same_as :: [Doctoral_Thesis.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.personal.md) 
+
+### #is_/same_as :: [Doctoral_Thesis.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.secret.md)
+

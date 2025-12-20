@@ -24,3 +24,22 @@ Commons_category: Spontaneous symmetry breaking
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spontaneous%20symmetry%20breaking) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spontaneous_Symmetry_Breaking](/_Standards/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.md) 
+
+### #is_/same_as :: [Spontaneous_Symmetry_Breaking.public](/_public/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.public.md) 
+
+### #is_/same_as :: [Spontaneous_Symmetry_Breaking.internal](/_internal/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.internal.md) 
+
+### #is_/same_as :: [Spontaneous_Symmetry_Breaking.protect](/_protect/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.protect.md) 
+
+### #is_/same_as :: [Spontaneous_Symmetry_Breaking.private](/_private/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.private.md) 
+
+### #is_/same_as :: [Spontaneous_Symmetry_Breaking.personal](/_personal/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.personal.md) 
+
+### #is_/same_as :: [Spontaneous_Symmetry_Breaking.secret](/_secret/Science/Physics/Quantum_Mechanics/Spontaneous_Symmetry_Breaking.secret.md)
+

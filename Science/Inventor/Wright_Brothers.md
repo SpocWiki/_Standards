@@ -95,3 +95,22 @@ Commons_category: Wright brothers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wright%20brothers) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wright_Brothers](/_Standards/Science/Inventor/Wright_Brothers.md) 
+
+### #is_/same_as :: [Wright_Brothers.public](/_public/Science/Inventor/Wright_Brothers.public.md) 
+
+### #is_/same_as :: [Wright_Brothers.internal](/_internal/Science/Inventor/Wright_Brothers.internal.md) 
+
+### #is_/same_as :: [Wright_Brothers.protect](/_protect/Science/Inventor/Wright_Brothers.protect.md) 
+
+### #is_/same_as :: [Wright_Brothers.private](/_private/Science/Inventor/Wright_Brothers.private.md) 
+
+### #is_/same_as :: [Wright_Brothers.personal](/_personal/Science/Inventor/Wright_Brothers.personal.md) 
+
+### #is_/same_as :: [Wright_Brothers.secret](/_secret/Science/Inventor/Wright_Brothers.secret.md)
+

@@ -71,3 +71,22 @@ Unicode_character: 🧤
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Glove) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Glove](/_Standards/Technology/Tool/Clothing/Glove.md) 
+
+### #is_/same_as :: [Glove.public](/_public/Technology/Tool/Clothing/Glove.public.md) 
+
+### #is_/same_as :: [Glove.internal](/_internal/Technology/Tool/Clothing/Glove.internal.md) 
+
+### #is_/same_as :: [Glove.protect](/_protect/Technology/Tool/Clothing/Glove.protect.md) 
+
+### #is_/same_as :: [Glove.private](/_private/Technology/Tool/Clothing/Glove.private.md) 
+
+### #is_/same_as :: [Glove.personal](/_personal/Technology/Tool/Clothing/Glove.personal.md) 
+
+### #is_/same_as :: [Glove.secret](/_secret/Technology/Tool/Clothing/Glove.secret.md)
+

@@ -100,3 +100,22 @@ Iconclass_notation: 23I31
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/July) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [July](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/July.md) 
+
+### #is_/same_as :: [July.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/July.public.md) 
+
+### #is_/same_as :: [July.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/July.internal.md) 
+
+### #is_/same_as :: [July.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/July.protect.md) 
+
+### #is_/same_as :: [July.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/July.private.md) 
+
+### #is_/same_as :: [July.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/July.personal.md) 
+
+### #is_/same_as :: [July.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/July.secret.md)
+

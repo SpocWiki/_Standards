@@ -270,3 +270,22 @@ Libris_URI: pm148zw7138dng9
 > He has always been appreciated for "the chromatic brilliance of his palette, the splendor and sensibility of his brushwork, the aristocratic elegance of his figures, and the magnificence of his spectacle", but his work has been felt "not to permit expression of the profound, the human, or the sublime", and of the "great trio" he has often been the least appreciated by modern criticism. Nonetheless, "many of the greatest artists ... may be counted among his admirers, including Rubens, Watteau, Tiepolo, Delacroix, and Renoir".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paolo%20Veronese) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Veronese,Paolo](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.md) 
+
+### #is_/same_as :: [Veronese,Paolo.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.public.md) 
+
+### #is_/same_as :: [Veronese,Paolo.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.internal.md) 
+
+### #is_/same_as :: [Veronese,Paolo.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.protect.md) 
+
+### #is_/same_as :: [Veronese,Paolo.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.private.md) 
+
+### #is_/same_as :: [Veronese,Paolo.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.personal.md) 
+
+### #is_/same_as :: [Veronese,Paolo.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.secret.md)
+

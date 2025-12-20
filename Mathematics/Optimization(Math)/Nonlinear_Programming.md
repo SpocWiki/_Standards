@@ -29,3 +29,22 @@ Stack_Exchange_tag: https://or.stackexchange.com/tags/nonlinear-programming
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nonlinear%20programming) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nonlinear_Programming](/_Standards/Mathematics/Optimization(Math)/Nonlinear_Programming.md) 
+
+### #is_/same_as :: [Nonlinear_Programming.public](/_public/Mathematics/Optimization(Math)/Nonlinear_Programming.public.md) 
+
+### #is_/same_as :: [Nonlinear_Programming.internal](/_internal/Mathematics/Optimization(Math)/Nonlinear_Programming.internal.md) 
+
+### #is_/same_as :: [Nonlinear_Programming.protect](/_protect/Mathematics/Optimization(Math)/Nonlinear_Programming.protect.md) 
+
+### #is_/same_as :: [Nonlinear_Programming.private](/_private/Mathematics/Optimization(Math)/Nonlinear_Programming.private.md) 
+
+### #is_/same_as :: [Nonlinear_Programming.personal](/_personal/Mathematics/Optimization(Math)/Nonlinear_Programming.personal.md) 
+
+### #is_/same_as :: [Nonlinear_Programming.secret](/_secret/Mathematics/Optimization(Math)/Nonlinear_Programming.secret.md)
+

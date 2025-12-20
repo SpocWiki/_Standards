@@ -16,3 +16,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cave) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cave](/_Standards/Earth/Geography/Cave.md) 
+
+### #is_/same_as :: [Cave.public](/_public/Earth/Geography/Cave.public.md) 
+
+### #is_/same_as :: [Cave.internal](/_internal/Earth/Geography/Cave.internal.md) 
+
+### #is_/same_as :: [Cave.protect](/_protect/Earth/Geography/Cave.protect.md) 
+
+### #is_/same_as :: [Cave.private](/_private/Earth/Geography/Cave.private.md) 
+
+### #is_/same_as :: [Cave.personal](/_personal/Earth/Geography/Cave.personal.md) 
+
+### #is_/same_as :: [Cave.secret](/_secret/Earth/Geography/Cave.secret.md)
+

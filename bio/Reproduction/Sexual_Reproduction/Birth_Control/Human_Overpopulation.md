@@ -44,3 +44,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20population%20v
 > Critics of the belief note that human population growth is decreasing and the population will likely peak, and possibly even begin to decrease, before the end of the century. They argue the concerns surrounding population growth are overstated, noting that quickly declining birth rates and technological innovation make it possible to sustain projected population sizes. Other critics claim that overpopulation concerns ignore more pressing issues, like poverty or overconsumption, are motivated by racism, or place an undue burden on the Global South, where most population growth happens.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20overpopulation) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Human_Overpopulation](/_Standards/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.md) 
+
+### #is_/same_as :: [Human_Overpopulation.public](/_public/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.public.md) 
+
+### #is_/same_as :: [Human_Overpopulation.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.internal.md) 
+
+### #is_/same_as :: [Human_Overpopulation.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.protect.md) 
+
+### #is_/same_as :: [Human_Overpopulation.private](/_private/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.private.md) 
+
+### #is_/same_as :: [Human_Overpopulation.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.personal.md) 
+
+### #is_/same_as :: [Human_Overpopulation.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.secret.md)
+

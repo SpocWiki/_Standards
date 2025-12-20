@@ -89,3 +89,22 @@ zoomFeatures: true
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orinoco) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orinoco_River](/_Standards/Earth/Continent/America~South/Orinoco_River.md) 
+
+### #is_/same_as :: [Orinoco_River.public](/_public/Earth/Continent/America~South/Orinoco_River.public.md) 
+
+### #is_/same_as :: [Orinoco_River.internal](/_internal/Earth/Continent/America~South/Orinoco_River.internal.md) 
+
+### #is_/same_as :: [Orinoco_River.protect](/_protect/Earth/Continent/America~South/Orinoco_River.protect.md) 
+
+### #is_/same_as :: [Orinoco_River.private](/_private/Earth/Continent/America~South/Orinoco_River.private.md) 
+
+### #is_/same_as :: [Orinoco_River.personal](/_personal/Earth/Continent/America~South/Orinoco_River.personal.md) 
+
+### #is_/same_as :: [Orinoco_River.secret](/_secret/Earth/Continent/America~South/Orinoco_River.secret.md)
+

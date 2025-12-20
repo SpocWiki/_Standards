@@ -16,17 +16,17 @@ in the combustion of the fuel in an automobile fuel tank of 57.2 L.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Planck-Energy](/_Standards/Unit/Planck-Unit/Planck-Energy.md) 
+### #is_/same_as :: [Planck-Energy](/_Standards/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Energy.md) 
 
-### #is_/same_as :: [Planck-Energy.public](/_public/Unit/Planck-Unit/Planck-Energy.public.md) 
+### #is_/same_as :: [Planck-Energy.public](/_public/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Energy.public.md) 
 
-### #is_/same_as :: [Planck-Energy.internal](/_internal/Unit/Planck-Unit/Planck-Energy.internal.md) 
+### #is_/same_as :: [Planck-Energy.internal](/_internal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Energy.internal.md) 
 
-### #is_/same_as :: [Planck-Energy.protect](/_protect/Unit/Planck-Unit/Planck-Energy.protect.md) 
+### #is_/same_as :: [Planck-Energy.protect](/_protect/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Energy.protect.md) 
 
-### #is_/same_as :: [Planck-Energy.private](/_private/Unit/Planck-Unit/Planck-Energy.private.md) 
+### #is_/same_as :: [Planck-Energy.private](/_private/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Energy.private.md) 
 
-### #is_/same_as :: [Planck-Energy.personal](/_personal/Unit/Planck-Unit/Planck-Energy.personal.md) 
+### #is_/same_as :: [Planck-Energy.personal](/_personal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Energy.personal.md) 
 
-### #is_/same_as :: [Planck-Energy.secret](/_secret/Unit/Planck-Unit/Planck-Energy.secret.md)
+### #is_/same_as :: [Planck-Energy.secret](/_secret/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Energy.secret.md)
 

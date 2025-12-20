@@ -52,3 +52,22 @@ MeSH_tree_code: F01.470.257
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Courage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Courage](/_Standards/bio/Psychology/Affect/Emotion/Courage.md) 
+
+### #is_/same_as :: [Courage.public](/_public/bio/Psychology/Affect/Emotion/Courage.public.md) 
+
+### #is_/same_as :: [Courage.internal](/_internal/bio/Psychology/Affect/Emotion/Courage.internal.md) 
+
+### #is_/same_as :: [Courage.protect](/_protect/bio/Psychology/Affect/Emotion/Courage.protect.md) 
+
+### #is_/same_as :: [Courage.private](/_private/bio/Psychology/Affect/Emotion/Courage.private.md) 
+
+### #is_/same_as :: [Courage.personal](/_personal/bio/Psychology/Affect/Emotion/Courage.personal.md) 
+
+### #is_/same_as :: [Courage.secret](/_secret/bio/Psychology/Affect/Emotion/Courage.secret.md)
+

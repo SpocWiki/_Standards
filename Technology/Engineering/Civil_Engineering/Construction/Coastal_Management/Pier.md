@@ -71,3 +71,22 @@ OpenStreetMap_tag: man_made=pier
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pier) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pier](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.md) 
+
+### #is_/same_as :: [Pier.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.public.md) 
+
+### #is_/same_as :: [Pier.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.internal.md) 
+
+### #is_/same_as :: [Pier.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.protect.md) 
+
+### #is_/same_as :: [Pier.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.private.md) 
+
+### #is_/same_as :: [Pier.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.personal.md) 
+
+### #is_/same_as :: [Pier.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.secret.md)
+

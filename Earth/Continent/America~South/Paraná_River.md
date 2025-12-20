@@ -147,3 +147,22 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Paran%C3%A1%20River) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Paraná_River](/_Standards/Earth/Continent/America~South/Paraná_River.md) 
+
+### #is_/same_as :: [Paraná_River.public](/_public/Earth/Continent/America~South/Paraná_River.public.md) 
+
+### #is_/same_as :: [Paraná_River.internal](/_internal/Earth/Continent/America~South/Paraná_River.internal.md) 
+
+### #is_/same_as :: [Paraná_River.protect](/_protect/Earth/Continent/America~South/Paraná_River.protect.md) 
+
+### #is_/same_as :: [Paraná_River.private](/_private/Earth/Continent/America~South/Paraná_River.private.md) 
+
+### #is_/same_as :: [Paraná_River.personal](/_personal/Earth/Continent/America~South/Paraná_River.personal.md) 
+
+### #is_/same_as :: [Paraná_River.secret](/_secret/Earth/Continent/America~South/Paraná_River.secret.md)
+

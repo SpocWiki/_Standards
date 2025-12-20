@@ -136,3 +136,22 @@ Europeana_entity: agent/base/145331
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dewey,John](/_Standards/Philosophy/Philosopher/Dewey,John.md) 
+
+### #is_/same_as :: [Dewey,John.public](/_public/Philosophy/Philosopher/Dewey,John.public.md) 
+
+### #is_/same_as :: [Dewey,John.internal](/_internal/Philosophy/Philosopher/Dewey,John.internal.md) 
+
+### #is_/same_as :: [Dewey,John.protect](/_protect/Philosophy/Philosopher/Dewey,John.protect.md) 
+
+### #is_/same_as :: [Dewey,John.private](/_private/Philosophy/Philosopher/Dewey,John.private.md) 
+
+### #is_/same_as :: [Dewey,John.personal](/_personal/Philosophy/Philosopher/Dewey,John.personal.md) 
+
+### #is_/same_as :: [Dewey,John.secret](/_secret/Philosophy/Philosopher/Dewey,John.secret.md)
+

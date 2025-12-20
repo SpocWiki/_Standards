@@ -79,19 +79,20 @@ are more likely to fall under the missing context rating.)
 
 ### For an [[../../../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object|AudioObject]]: 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Satire_or_Parody_Content](Satire_or_Parody_Content.md) 
+### #is_/same_as :: [Satire_or_Parody_Content](/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.md) 
 
-### #is_/same_as :: [satire_or_parody_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.public.md) 
+### #is_/same_as :: [Satire_or_Parody_Content.public](/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.public.md) 
 
-### #is_/same_as :: [satire_or_parody_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.internal.md) 
+### #is_/same_as :: [Satire_or_Parody_Content.internal](/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.internal.md) 
 
-### #is_/same_as :: [satire_or_parody_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.protect.md) 
+### #is_/same_as :: [Satire_or_Parody_Content.protect](/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.protect.md) 
 
-### #is_/same_as :: [satire_or_parody_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.private.md) 
+### #is_/same_as :: [Satire_or_Parody_Content.private](/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.private.md) 
 
-### #is_/same_as :: [satire_or_parody_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.personal.md) 
+### #is_/same_as :: [Satire_or_Parody_Content.personal](/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.personal.md) 
 
-### #is_/same_as :: [satire_or_parody_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.secret.md)
+### #is_/same_as :: [Satire_or_Parody_Content.secret](/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.secret.md)
 

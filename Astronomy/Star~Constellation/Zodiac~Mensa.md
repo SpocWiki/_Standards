@@ -45,6 +45,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mens
 
 #is_/same_as :: [[_Standards/WikiData/WD~Mensa,9289]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Mensa](/_Standards/Astronomy/Star~Constellation/Zodiac~Mensa.md) 

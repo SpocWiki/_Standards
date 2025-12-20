@@ -44,3 +44,22 @@ MeSH_tree_code: F01.470.548
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hatred) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hatred](/_Standards/bio/Psychology/Affect/Emotion/Hatred.md) 
+
+### #is_/same_as :: [Hatred.public](/_public/bio/Psychology/Affect/Emotion/Hatred.public.md) 
+
+### #is_/same_as :: [Hatred.internal](/_internal/bio/Psychology/Affect/Emotion/Hatred.internal.md) 
+
+### #is_/same_as :: [Hatred.protect](/_protect/bio/Psychology/Affect/Emotion/Hatred.protect.md) 
+
+### #is_/same_as :: [Hatred.private](/_private/bio/Psychology/Affect/Emotion/Hatred.private.md) 
+
+### #is_/same_as :: [Hatred.personal](/_personal/bio/Psychology/Affect/Emotion/Hatred.personal.md) 
+
+### #is_/same_as :: [Hatred.secret](/_secret/bio/Psychology/Affect/Emotion/Hatred.secret.md)
+

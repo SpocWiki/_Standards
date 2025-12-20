@@ -45,3 +45,22 @@ Baidu_Tieba_name: 吸尘器
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vacuum%20cleaner) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vacuum_Cleaner](/_Standards/Technology/Tool/Home_Appliance/Vacuum_Cleaner.md) 
+
+### #is_/same_as :: [Vacuum_Cleaner.public](/_public/Technology/Tool/Home_Appliance/Vacuum_Cleaner.public.md) 
+
+### #is_/same_as :: [Vacuum_Cleaner.internal](/_internal/Technology/Tool/Home_Appliance/Vacuum_Cleaner.internal.md) 
+
+### #is_/same_as :: [Vacuum_Cleaner.protect](/_protect/Technology/Tool/Home_Appliance/Vacuum_Cleaner.protect.md) 
+
+### #is_/same_as :: [Vacuum_Cleaner.private](/_private/Technology/Tool/Home_Appliance/Vacuum_Cleaner.private.md) 
+
+### #is_/same_as :: [Vacuum_Cleaner.personal](/_personal/Technology/Tool/Home_Appliance/Vacuum_Cleaner.personal.md) 
+
+### #is_/same_as :: [Vacuum_Cleaner.secret](/_secret/Technology/Tool/Home_Appliance/Vacuum_Cleaner.secret.md)
+

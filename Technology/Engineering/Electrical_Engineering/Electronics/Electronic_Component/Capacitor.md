@@ -84,17 +84,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capacitor](/_Standards/Technology/Electronics/Electronic_Component/Capacitor.md) 
+### #is_/same_as :: [Capacitor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.md) 
 
-### #is_/same_as :: [Capacitor.public](/_public/Technology/Electronics/Electronic_Component/Capacitor.public.md) 
+### #is_/same_as :: [Capacitor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.public.md) 
 
-### #is_/same_as :: [Capacitor.internal](/_internal/Technology/Electronics/Electronic_Component/Capacitor.internal.md) 
+### #is_/same_as :: [Capacitor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.internal.md) 
 
-### #is_/same_as :: [Capacitor.protect](/_protect/Technology/Electronics/Electronic_Component/Capacitor.protect.md) 
+### #is_/same_as :: [Capacitor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.protect.md) 
 
-### #is_/same_as :: [Capacitor.private](/_private/Technology/Electronics/Electronic_Component/Capacitor.private.md) 
+### #is_/same_as :: [Capacitor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.private.md) 
 
-### #is_/same_as :: [Capacitor.personal](/_personal/Technology/Electronics/Electronic_Component/Capacitor.personal.md) 
+### #is_/same_as :: [Capacitor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.personal.md) 
 
-### #is_/same_as :: [Capacitor.secret](/_secret/Technology/Electronics/Electronic_Component/Capacitor.secret.md)
+### #is_/same_as :: [Capacitor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Capacitor.secret.md)
 

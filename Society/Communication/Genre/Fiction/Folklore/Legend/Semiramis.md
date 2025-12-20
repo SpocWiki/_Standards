@@ -85,3 +85,22 @@ name_in_native_language:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Semiramis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Semiramis](/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.md) 
+
+### #is_/same_as :: [Semiramis.public](/_public/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.public.md) 
+
+### #is_/same_as :: [Semiramis.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.internal.md) 
+
+### #is_/same_as :: [Semiramis.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.protect.md) 
+
+### #is_/same_as :: [Semiramis.private](/_private/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.private.md) 
+
+### #is_/same_as :: [Semiramis.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.personal.md) 
+
+### #is_/same_as :: [Semiramis.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.secret.md)
+

@@ -205,3 +205,22 @@ IPI_name_number: "00018232018"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Liszt) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Franz_Liszt](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.md) 
+
+### #is_/same_as :: [Franz_Liszt.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.public.md) 
+
+### #is_/same_as :: [Franz_Liszt.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.internal.md) 
+
+### #is_/same_as :: [Franz_Liszt.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.protect.md) 
+
+### #is_/same_as :: [Franz_Liszt.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.private.md) 
+
+### #is_/same_as :: [Franz_Liszt.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.personal.md) 
+
+### #is_/same_as :: [Franz_Liszt.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.secret.md)
+

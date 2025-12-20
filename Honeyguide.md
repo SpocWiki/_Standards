@@ -41,3 +41,22 @@ taxon_common_name: vokseterfamilien
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Honeyguide) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Honeyguide](/_Standards/Honeyguide.md) 
+
+### #is_/same_as :: [Honeyguide.public](/_public/Honeyguide.public.md) 
+
+### #is_/same_as :: [Honeyguide.internal](/_internal/Honeyguide.internal.md) 
+
+### #is_/same_as :: [Honeyguide.protect](/_protect/Honeyguide.protect.md) 
+
+### #is_/same_as :: [Honeyguide.private](/_private/Honeyguide.private.md) 
+
+### #is_/same_as :: [Honeyguide.personal](/_personal/Honeyguide.personal.md) 
+
+### #is_/same_as :: [Honeyguide.secret](/_secret/Honeyguide.secret.md)
+

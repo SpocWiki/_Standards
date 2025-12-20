@@ -240,3 +240,22 @@ Wolfram_Language_entity_code: Entity["Movie", "GoneWithTheWind::55mm5"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gone%20with%20the%20Wind%20(film)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gone_with_the_Wind](/_Standards/Society/Communication/Media/Movie/Gone_with_the_Wind.md) 
+
+### #is_/same_as :: [Gone_with_the_Wind.public](/_public/Society/Communication/Media/Movie/Gone_with_the_Wind.public.md) 
+
+### #is_/same_as :: [Gone_with_the_Wind.internal](/_internal/Society/Communication/Media/Movie/Gone_with_the_Wind.internal.md) 
+
+### #is_/same_as :: [Gone_with_the_Wind.protect](/_protect/Society/Communication/Media/Movie/Gone_with_the_Wind.protect.md) 
+
+### #is_/same_as :: [Gone_with_the_Wind.private](/_private/Society/Communication/Media/Movie/Gone_with_the_Wind.private.md) 
+
+### #is_/same_as :: [Gone_with_the_Wind.personal](/_personal/Society/Communication/Media/Movie/Gone_with_the_Wind.personal.md) 
+
+### #is_/same_as :: [Gone_with_the_Wind.secret](/_secret/Society/Communication/Media/Movie/Gone_with_the_Wind.secret.md)
+

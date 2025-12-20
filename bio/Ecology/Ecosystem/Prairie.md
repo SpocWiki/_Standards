@@ -50,3 +50,22 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000260
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prairie) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prairie](/_Standards/bio/Ecology/Ecosystem/Prairie.md) 
+
+### #is_/same_as :: [Prairie.public](/_public/bio/Ecology/Ecosystem/Prairie.public.md) 
+
+### #is_/same_as :: [Prairie.internal](/_internal/bio/Ecology/Ecosystem/Prairie.internal.md) 
+
+### #is_/same_as :: [Prairie.protect](/_protect/bio/Ecology/Ecosystem/Prairie.protect.md) 
+
+### #is_/same_as :: [Prairie.private](/_private/bio/Ecology/Ecosystem/Prairie.private.md) 
+
+### #is_/same_as :: [Prairie.personal](/_personal/bio/Ecology/Ecosystem/Prairie.personal.md) 
+
+### #is_/same_as :: [Prairie.secret](/_secret/bio/Ecology/Ecosystem/Prairie.secret.md)
+

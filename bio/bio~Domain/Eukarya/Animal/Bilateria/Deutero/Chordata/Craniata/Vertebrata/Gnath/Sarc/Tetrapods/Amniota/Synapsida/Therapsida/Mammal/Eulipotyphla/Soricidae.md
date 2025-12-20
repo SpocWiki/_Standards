@@ -46,3 +46,22 @@ taxon_name: Soricidae
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shrew) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Soricidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Soricidae.md) 
+
+### #is_/same_as :: [Soricidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Soricidae.public.md) 
+
+### #is_/same_as :: [Soricidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Soricidae.internal.md) 
+
+### #is_/same_as :: [Soricidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Soricidae.protect.md) 
+
+### #is_/same_as :: [Soricidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Soricidae.private.md) 
+
+### #is_/same_as :: [Soricidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Soricidae.personal.md) 
+
+### #is_/same_as :: [Soricidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Soricidae.secret.md)
+

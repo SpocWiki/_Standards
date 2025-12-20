@@ -151,7 +151,7 @@ families.\" Smithson. Contr. Zool., No. 586: 257-270.
   Comments          *Ancistrocheirus lesueurii*, drawing modified from Okutani, 1974. *Selenoteuthis scintillans* photograph by M. Vecchione. *Abralia trigonura* and *Pyroteuthis addolux* photographs by R. Young
   Reference         Ancistrocheirus lesueurii, drawing modified from Okutani, 1974.
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  -------------------------------------------------------------------------------
+  -------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

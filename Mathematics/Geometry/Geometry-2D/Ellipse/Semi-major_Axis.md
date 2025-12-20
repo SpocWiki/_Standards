@@ -37,3 +37,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Semimajoraxis.svg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Semi-major%20and%20semi-minor%20axes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Semi-major_Axis](/_Standards/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.md) 
+
+### #is_/same_as :: [Semi-major_Axis.public](/_public/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.public.md) 
+
+### #is_/same_as :: [Semi-major_Axis.internal](/_internal/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.internal.md) 
+
+### #is_/same_as :: [Semi-major_Axis.protect](/_protect/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.protect.md) 
+
+### #is_/same_as :: [Semi-major_Axis.private](/_private/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.private.md) 
+
+### #is_/same_as :: [Semi-major_Axis.personal](/_personal/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.personal.md) 
+
+### #is_/same_as :: [Semi-major_Axis.secret](/_secret/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.secret.md)
+

@@ -79,3 +79,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eggs%20as%20food) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Egg_as_Food](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.md) 
+
+### #is_/same_as :: [Egg_as_Food.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.public.md) 
+
+### #is_/same_as :: [Egg_as_Food.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.internal.md) 
+
+### #is_/same_as :: [Egg_as_Food.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.protect.md) 
+
+### #is_/same_as :: [Egg_as_Food.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.private.md) 
+
+### #is_/same_as :: [Egg_as_Food.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.personal.md) 
+
+### #is_/same_as :: [Egg_as_Food.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.secret.md)
+

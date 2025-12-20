@@ -131,3 +131,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/LYUMET_SIDNE.htm
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sidney%20Lumet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lumet,Sidney](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.md) 
+
+### #is_/same_as :: [Lumet,Sidney.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.public.md) 
+
+### #is_/same_as :: [Lumet,Sidney.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.internal.md) 
+
+### #is_/same_as :: [Lumet,Sidney.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.protect.md) 
+
+### #is_/same_as :: [Lumet,Sidney.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.private.md) 
+
+### #is_/same_as :: [Lumet,Sidney.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.personal.md) 
+
+### #is_/same_as :: [Lumet,Sidney.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.secret.md)
+

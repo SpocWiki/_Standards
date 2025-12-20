@@ -82,3 +82,22 @@ time_of_discovery_or_invention: 1924-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Internal%20combustion%20engine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Internal_Combustion_Engine](/_Standards/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.md) 
+
+### #is_/same_as :: [Internal_Combustion_Engine.public](/_public/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.public.md) 
+
+### #is_/same_as :: [Internal_Combustion_Engine.internal](/_internal/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.internal.md) 
+
+### #is_/same_as :: [Internal_Combustion_Engine.protect](/_protect/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.protect.md) 
+
+### #is_/same_as :: [Internal_Combustion_Engine.private](/_private/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.private.md) 
+
+### #is_/same_as :: [Internal_Combustion_Engine.personal](/_personal/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.personal.md) 
+
+### #is_/same_as :: [Internal_Combustion_Engine.secret](/_secret/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.secret.md)
+

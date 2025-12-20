@@ -87,3 +87,22 @@ Commons_category: The Tonight Show
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Tonight%20Show) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tonight_Show](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.md) 
+
+### #is_/same_as :: [Tonight_Show.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.public.md) 
+
+### #is_/same_as :: [Tonight_Show.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.internal.md) 
+
+### #is_/same_as :: [Tonight_Show.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.protect.md) 
+
+### #is_/same_as :: [Tonight_Show.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.private.md) 
+
+### #is_/same_as :: [Tonight_Show.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.personal.md) 
+
+### #is_/same_as :: [Tonight_Show.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.secret.md)
+

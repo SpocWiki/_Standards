@@ -69,3 +69,22 @@ Unicode_character: 🛡
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shield) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shield](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Shield.md) 
+
+### #is_/same_as :: [Shield.public](/_public/Society/Military/Military_Engineering/Defense/Armor/Shield.public.md) 
+
+### #is_/same_as :: [Shield.internal](/_internal/Society/Military/Military_Engineering/Defense/Armor/Shield.internal.md) 
+
+### #is_/same_as :: [Shield.protect](/_protect/Society/Military/Military_Engineering/Defense/Armor/Shield.protect.md) 
+
+### #is_/same_as :: [Shield.private](/_private/Society/Military/Military_Engineering/Defense/Armor/Shield.private.md) 
+
+### #is_/same_as :: [Shield.personal](/_personal/Society/Military/Military_Engineering/Defense/Armor/Shield.personal.md) 
+
+### #is_/same_as :: [Shield.secret](/_secret/Society/Military/Military_Engineering/Defense/Armor/Shield.secret.md)
+

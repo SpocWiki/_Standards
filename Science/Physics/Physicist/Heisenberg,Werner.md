@@ -46,3 +46,22 @@ has_id_wikidata: Q40904
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Werner%20Heisenberg) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heisenberg,Werner](/_Standards/Science/Physics/Physicist/Heisenberg,Werner.md) 
+
+### #is_/same_as :: [Heisenberg,Werner.public](/_public/Science/Physics/Physicist/Heisenberg,Werner.public.md) 
+
+### #is_/same_as :: [Heisenberg,Werner.internal](/_internal/Science/Physics/Physicist/Heisenberg,Werner.internal.md) 
+
+### #is_/same_as :: [Heisenberg,Werner.protect](/_protect/Science/Physics/Physicist/Heisenberg,Werner.protect.md) 
+
+### #is_/same_as :: [Heisenberg,Werner.private](/_private/Science/Physics/Physicist/Heisenberg,Werner.private.md) 
+
+### #is_/same_as :: [Heisenberg,Werner.personal](/_personal/Science/Physics/Physicist/Heisenberg,Werner.personal.md) 
+
+### #is_/same_as :: [Heisenberg,Werner.secret](/_secret/Science/Physics/Physicist/Heisenberg,Werner.secret.md)
+

@@ -42,17 +42,17 @@ Measurement of the width, for example of shoes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Measurement_Width](Wearable_Measurement_Width.md) 
+### #is_/same_as :: [Wearable_Measurement_Width](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.md) 
 
-### #is_/same_as :: [wearable_measurement_width.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_width.public.md) 
+### #is_/same_as :: [Wearable_Measurement_Width.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.public.md) 
 
-### #is_/same_as :: [wearable_measurement_width.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_width.internal.md) 
+### #is_/same_as :: [Wearable_Measurement_Width.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.internal.md) 
 
-### #is_/same_as :: [wearable_measurement_width.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_width.protect.md) 
+### #is_/same_as :: [Wearable_Measurement_Width.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.protect.md) 
 
-### #is_/same_as :: [wearable_measurement_width.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_width.private.md) 
+### #is_/same_as :: [Wearable_Measurement_Width.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.private.md) 
 
-### #is_/same_as :: [wearable_measurement_width.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_width.personal.md) 
+### #is_/same_as :: [Wearable_Measurement_Width.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.personal.md) 
 
-### #is_/same_as :: [wearable_measurement_width.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_width.secret.md)
+### #is_/same_as :: [Wearable_Measurement_Width.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.secret.md)
 

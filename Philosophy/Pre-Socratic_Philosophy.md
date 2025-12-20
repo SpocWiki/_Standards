@@ -31,3 +31,22 @@ PhilPapers_topic: pre-socratic-philosophy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pre-Socratic%20philosophy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pre-Socratic_Philosophy](/_Standards/Philosophy/Pre-Socratic_Philosophy.md) 
+
+### #is_/same_as :: [Pre-Socratic_Philosophy.public](/_public/Philosophy/Pre-Socratic_Philosophy.public.md) 
+
+### #is_/same_as :: [Pre-Socratic_Philosophy.internal](/_internal/Philosophy/Pre-Socratic_Philosophy.internal.md) 
+
+### #is_/same_as :: [Pre-Socratic_Philosophy.protect](/_protect/Philosophy/Pre-Socratic_Philosophy.protect.md) 
+
+### #is_/same_as :: [Pre-Socratic_Philosophy.private](/_private/Philosophy/Pre-Socratic_Philosophy.private.md) 
+
+### #is_/same_as :: [Pre-Socratic_Philosophy.personal](/_personal/Philosophy/Pre-Socratic_Philosophy.personal.md) 
+
+### #is_/same_as :: [Pre-Socratic_Philosophy.secret](/_secret/Philosophy/Pre-Socratic_Philosophy.secret.md)
+

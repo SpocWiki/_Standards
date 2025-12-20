@@ -41,17 +41,17 @@ Classes of agents or pathogens that transmit infectious diseases. Enumerated typ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [infectious_agent](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.md) 
+### #is_/same_as :: [Infectious_Agent](/_Standards/bio/Medicine/Medical_Enumeration/Infectious_Agent.md) 
 
-### #is_/same_as :: [infectious_agent.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.public.md) 
+### #is_/same_as :: [Infectious_Agent.public](/_public/bio/Medicine/Medical_Enumeration/Infectious_Agent.public.md) 
 
-### #is_/same_as :: [infectious_agent.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.internal.md) 
+### #is_/same_as :: [Infectious_Agent.internal](/_internal/bio/Medicine/Medical_Enumeration/Infectious_Agent.internal.md) 
 
-### #is_/same_as :: [infectious_agent.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.protect.md) 
+### #is_/same_as :: [Infectious_Agent.protect](/_protect/bio/Medicine/Medical_Enumeration/Infectious_Agent.protect.md) 
 
-### #is_/same_as :: [infectious_agent.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.private.md) 
+### #is_/same_as :: [Infectious_Agent.private](/_private/bio/Medicine/Medical_Enumeration/Infectious_Agent.private.md) 
 
-### #is_/same_as :: [infectious_agent.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.personal.md) 
+### #is_/same_as :: [Infectious_Agent.personal](/_personal/bio/Medicine/Medical_Enumeration/Infectious_Agent.personal.md) 
 
-### #is_/same_as :: [infectious_agent.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.secret.md)
+### #is_/same_as :: [Infectious_Agent.secret](/_secret/bio/Medicine/Medical_Enumeration/Infectious_Agent.secret.md)
 

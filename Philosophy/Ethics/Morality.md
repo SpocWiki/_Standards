@@ -38,3 +38,22 @@ Commons_category: Morality
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Morality) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Morality](/_Standards/Philosophy/Ethics/Morality.md) 
+
+### #is_/same_as :: [Morality.public](/_public/Philosophy/Ethics/Morality.public.md) 
+
+### #is_/same_as :: [Morality.internal](/_internal/Philosophy/Ethics/Morality.internal.md) 
+
+### #is_/same_as :: [Morality.protect](/_protect/Philosophy/Ethics/Morality.protect.md) 
+
+### #is_/same_as :: [Morality.private](/_private/Philosophy/Ethics/Morality.private.md) 
+
+### #is_/same_as :: [Morality.personal](/_personal/Philosophy/Ethics/Morality.personal.md) 
+
+### #is_/same_as :: [Morality.secret](/_secret/Philosophy/Ethics/Morality.secret.md)
+

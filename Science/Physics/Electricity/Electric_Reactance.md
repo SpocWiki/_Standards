@@ -31,3 +31,22 @@ has_id_wikidata: Q193972
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20reactance) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electric_Reactance](/_Standards/Science/Physics/Electricity/Electric_Reactance.md) 
+
+### #is_/same_as :: [Electric_Reactance.public](/_public/Science/Physics/Electricity/Electric_Reactance.public.md) 
+
+### #is_/same_as :: [Electric_Reactance.internal](/_internal/Science/Physics/Electricity/Electric_Reactance.internal.md) 
+
+### #is_/same_as :: [Electric_Reactance.protect](/_protect/Science/Physics/Electricity/Electric_Reactance.protect.md) 
+
+### #is_/same_as :: [Electric_Reactance.private](/_private/Science/Physics/Electricity/Electric_Reactance.private.md) 
+
+### #is_/same_as :: [Electric_Reactance.personal](/_personal/Science/Physics/Electricity/Electric_Reactance.personal.md) 
+
+### #is_/same_as :: [Electric_Reactance.secret](/_secret/Science/Physics/Electricity/Electric_Reactance.secret.md)
+

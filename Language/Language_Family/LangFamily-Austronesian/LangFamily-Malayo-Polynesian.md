@@ -29,3 +29,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Malayo-Polynesian%20languages) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [LangFamily-Malayo-Polynesian](/_Standards/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.md) 
+
+### #is_/same_as :: [LangFamily-Malayo-Polynesian.public](/_public/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.public.md) 
+
+### #is_/same_as :: [LangFamily-Malayo-Polynesian.internal](/_internal/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.internal.md) 
+
+### #is_/same_as :: [LangFamily-Malayo-Polynesian.protect](/_protect/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.protect.md) 
+
+### #is_/same_as :: [LangFamily-Malayo-Polynesian.private](/_private/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.private.md) 
+
+### #is_/same_as :: [LangFamily-Malayo-Polynesian.personal](/_personal/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.personal.md) 
+
+### #is_/same_as :: [LangFamily-Malayo-Polynesian.secret](/_secret/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.secret.md)
+

@@ -85,3 +85,22 @@ name_in_native_language: Dieter Hallervorden
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dieter%20Hallervorden) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hallervorden,Dieter](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Hallervorden,Dieter.md) 
+
+### #is_/same_as :: [Hallervorden,Dieter.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Hallervorden,Dieter.public.md) 
+
+### #is_/same_as :: [Hallervorden,Dieter.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Hallervorden,Dieter.internal.md) 
+
+### #is_/same_as :: [Hallervorden,Dieter.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Hallervorden,Dieter.protect.md) 
+
+### #is_/same_as :: [Hallervorden,Dieter.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Hallervorden,Dieter.private.md) 
+
+### #is_/same_as :: [Hallervorden,Dieter.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Hallervorden,Dieter.personal.md) 
+
+### #is_/same_as :: [Hallervorden,Dieter.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Hallervorden,Dieter.secret.md)
+

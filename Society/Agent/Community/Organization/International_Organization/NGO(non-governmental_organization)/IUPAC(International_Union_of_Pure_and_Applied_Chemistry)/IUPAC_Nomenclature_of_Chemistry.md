@@ -15,3 +15,22 @@ subclass_of: "[[_Standards/WikiData/WD~chemical_nomenclature,6503924]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/IUPAC%20nomenclature%20of%20chemistry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [IUPAC_Nomenclature_of_Chemistry](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry)/IUPAC_Nomenclature_of_Chemistry.md) 
+
+### #is_/same_as :: [IUPAC_Nomenclature_of_Chemistry.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry)/IUPAC_Nomenclature_of_Chemistry.public.md) 
+
+### #is_/same_as :: [IUPAC_Nomenclature_of_Chemistry.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry)/IUPAC_Nomenclature_of_Chemistry.internal.md) 
+
+### #is_/same_as :: [IUPAC_Nomenclature_of_Chemistry.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry)/IUPAC_Nomenclature_of_Chemistry.protect.md) 
+
+### #is_/same_as :: [IUPAC_Nomenclature_of_Chemistry.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry)/IUPAC_Nomenclature_of_Chemistry.private.md) 
+
+### #is_/same_as :: [IUPAC_Nomenclature_of_Chemistry.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry)/IUPAC_Nomenclature_of_Chemistry.personal.md) 
+
+### #is_/same_as :: [IUPAC_Nomenclature_of_Chemistry.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry)/IUPAC_Nomenclature_of_Chemistry.secret.md)
+

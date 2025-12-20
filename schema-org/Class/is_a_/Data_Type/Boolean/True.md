@@ -35,17 +35,17 @@ The boolean value true.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [TRUE](/_Standards/schema-org/Class/is_a_/data_type/boolean/TRUE.md) 
+### #is_/same_as :: [True](/_Standards/schema-org/Class/is_a_/Data_Type/Boolean/True.md) 
 
-### #is_/same_as :: [TRUE.public](/_public/schema-org/Class/is_a_/data_type/boolean/TRUE.public.md) 
+### #is_/same_as :: [True.public](/_public/schema-org/Class/is_a_/Data_Type/Boolean/True.public.md) 
 
-### #is_/same_as :: [TRUE.internal](/_internal/schema-org/Class/is_a_/data_type/boolean/TRUE.internal.md) 
+### #is_/same_as :: [True.internal](/_internal/schema-org/Class/is_a_/Data_Type/Boolean/True.internal.md) 
 
-### #is_/same_as :: [TRUE.protect](/_protect/schema-org/Class/is_a_/data_type/boolean/TRUE.protect.md) 
+### #is_/same_as :: [True.protect](/_protect/schema-org/Class/is_a_/Data_Type/Boolean/True.protect.md) 
 
-### #is_/same_as :: [TRUE.private](/_private/schema-org/Class/is_a_/data_type/boolean/TRUE.private.md) 
+### #is_/same_as :: [True.private](/_private/schema-org/Class/is_a_/Data_Type/Boolean/True.private.md) 
 
-### #is_/same_as :: [TRUE.personal](/_personal/schema-org/Class/is_a_/data_type/boolean/TRUE.personal.md) 
+### #is_/same_as :: [True.personal](/_personal/schema-org/Class/is_a_/Data_Type/Boolean/True.personal.md) 
 
-### #is_/same_as :: [TRUE.secret](/_secret/schema-org/Class/is_a_/data_type/boolean/TRUE.secret.md)
+### #is_/same_as :: [True.secret](/_secret/schema-org/Class/is_a_/Data_Type/Boolean/True.secret.md)
 

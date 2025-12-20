@@ -150,3 +150,22 @@ catalog_code: 23:287039F
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Don%20Quixote) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Don_Quixote](/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.md) 
+
+### #is_/same_as :: [Don_Quixote.public](/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.public.md) 
+
+### #is_/same_as :: [Don_Quixote.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.internal.md) 
+
+### #is_/same_as :: [Don_Quixote.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.protect.md) 
+
+### #is_/same_as :: [Don_Quixote.private](/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.private.md) 
+
+### #is_/same_as :: [Don_Quixote.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.personal.md) 
+
+### #is_/same_as :: [Don_Quixote.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.secret.md)
+

@@ -41,17 +41,17 @@ A food-related business.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Food_Establishment](Food_Establishment.md) 
+### #is_/same_as :: [Food_Establishment](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.md) 
 
-### #is_/same_as :: [Food_Establishment.public](/_public/Society/Organization/Local_Business/Food_Establishment.public.md) 
+### #is_/same_as :: [Food_Establishment.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.public.md) 
 
-### #is_/same_as :: [Food_Establishment.internal](/_internal/Society/Organization/Local_Business/Food_Establishment.internal.md) 
+### #is_/same_as :: [Food_Establishment.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.internal.md) 
 
-### #is_/same_as :: [Food_Establishment.protect](/_protect/Society/Organization/Local_Business/Food_Establishment.protect.md) 
+### #is_/same_as :: [Food_Establishment.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.protect.md) 
 
-### #is_/same_as :: [Food_Establishment.private](/_private/Society/Organization/Local_Business/Food_Establishment.private.md) 
+### #is_/same_as :: [Food_Establishment.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.private.md) 
 
-### #is_/same_as :: [Food_Establishment.personal](/_personal/Society/Organization/Local_Business/Food_Establishment.personal.md) 
+### #is_/same_as :: [Food_Establishment.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.personal.md) 
 
-### #is_/same_as :: [Food_Establishment.secret](/_secret/Society/Organization/Local_Business/Food_Establishment.secret.md)
+### #is_/same_as :: [Food_Establishment.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.secret.md)
 

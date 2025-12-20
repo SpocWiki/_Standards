@@ -45,3 +45,22 @@ OpenStreetMap_tag: healthcare:speciality=pulmonology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pulmonology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pulmonology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.md) 
+
+### #is_/same_as :: [Pulmonology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.public.md) 
+
+### #is_/same_as :: [Pulmonology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.internal.md) 
+
+### #is_/same_as :: [Pulmonology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.protect.md) 
+
+### #is_/same_as :: [Pulmonology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.private.md) 
+
+### #is_/same_as :: [Pulmonology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.personal.md) 
+
+### #is_/same_as :: [Pulmonology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.secret.md)
+

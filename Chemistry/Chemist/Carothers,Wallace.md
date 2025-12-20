@@ -79,3 +79,22 @@ name_in_native_language: Wallace Hume Carothers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wallace%20Carothers) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carothers,Wallace](/_Standards/Chemistry/Chemist/Carothers,Wallace.md) 
+
+### #is_/same_as :: [Carothers,Wallace.public](/_public/Chemistry/Chemist/Carothers,Wallace.public.md) 
+
+### #is_/same_as :: [Carothers,Wallace.internal](/_internal/Chemistry/Chemist/Carothers,Wallace.internal.md) 
+
+### #is_/same_as :: [Carothers,Wallace.protect](/_protect/Chemistry/Chemist/Carothers,Wallace.protect.md) 
+
+### #is_/same_as :: [Carothers,Wallace.private](/_private/Chemistry/Chemist/Carothers,Wallace.private.md) 
+
+### #is_/same_as :: [Carothers,Wallace.personal](/_personal/Chemistry/Chemist/Carothers,Wallace.personal.md) 
+
+### #is_/same_as :: [Carothers,Wallace.secret](/_secret/Chemistry/Chemist/Carothers,Wallace.secret.md)
+

@@ -42,17 +42,17 @@ Indicates that a legislation is in force.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [In_Force](In_Force.md) 
+### #is_/same_as :: [In_Force](/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/In_Force.md) 
 
-### #is_/same_as :: [in_force.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.public.md) 
+### #is_/same_as :: [In_Force.public](/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/In_Force.public.md) 
 
-### #is_/same_as :: [in_force.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.internal.md) 
+### #is_/same_as :: [In_Force.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/In_Force.internal.md) 
 
-### #is_/same_as :: [in_force.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.protect.md) 
+### #is_/same_as :: [In_Force.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/In_Force.protect.md) 
 
-### #is_/same_as :: [in_force.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.private.md) 
+### #is_/same_as :: [In_Force.private](/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/In_Force.private.md) 
 
-### #is_/same_as :: [in_force.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.personal.md) 
+### #is_/same_as :: [In_Force.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/In_Force.personal.md) 
 
-### #is_/same_as :: [in_force.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.secret.md)
+### #is_/same_as :: [In_Force.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/In_Force.secret.md)
 

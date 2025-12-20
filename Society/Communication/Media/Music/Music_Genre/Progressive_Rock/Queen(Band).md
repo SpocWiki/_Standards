@@ -61,3 +61,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Queen%20(band))
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Queen(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).md) 
+
+### #is_/same_as :: [Queen(Band).public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).public.md) 
+
+### #is_/same_as :: [Queen(Band).internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).internal.md) 
+
+### #is_/same_as :: [Queen(Band).protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).protect.md) 
+
+### #is_/same_as :: [Queen(Band).private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).private.md) 
+
+### #is_/same_as :: [Queen(Band).personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).personal.md) 
+
+### #is_/same_as :: [Queen(Band).secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).secret.md)
+

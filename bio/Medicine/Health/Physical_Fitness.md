@@ -58,3 +58,22 @@ Krugosvet_article_archived_: sport/FITNES.html
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Physical_Fitness](/_Standards/bio/Medicine/Health/Physical_Fitness.md) 
+
+### #is_/same_as :: [Physical_Fitness.public](/_public/bio/Medicine/Health/Physical_Fitness.public.md) 
+
+### #is_/same_as :: [Physical_Fitness.internal](/_internal/bio/Medicine/Health/Physical_Fitness.internal.md) 
+
+### #is_/same_as :: [Physical_Fitness.protect](/_protect/bio/Medicine/Health/Physical_Fitness.protect.md) 
+
+### #is_/same_as :: [Physical_Fitness.private](/_private/bio/Medicine/Health/Physical_Fitness.private.md) 
+
+### #is_/same_as :: [Physical_Fitness.personal](/_personal/bio/Medicine/Health/Physical_Fitness.personal.md) 
+
+### #is_/same_as :: [Physical_Fitness.secret](/_secret/bio/Medicine/Health/Physical_Fitness.secret.md)
+

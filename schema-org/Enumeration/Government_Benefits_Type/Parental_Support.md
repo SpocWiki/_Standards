@@ -42,17 +42,17 @@ ParentalSupport: this is a benefit for parental support.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parental_Support](Parental_Support.md) 
+### #is_/same_as :: [Parental_Support](/_Standards/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.md) 
 
-### #is_/same_as :: [parental_support.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/parental_support.public.md) 
+### #is_/same_as :: [Parental_Support.public](/_public/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.public.md) 
 
-### #is_/same_as :: [parental_support.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/parental_support.internal.md) 
+### #is_/same_as :: [Parental_Support.internal](/_internal/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.internal.md) 
 
-### #is_/same_as :: [parental_support.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/parental_support.protect.md) 
+### #is_/same_as :: [Parental_Support.protect](/_protect/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.protect.md) 
 
-### #is_/same_as :: [parental_support.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/parental_support.private.md) 
+### #is_/same_as :: [Parental_Support.private](/_private/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.private.md) 
 
-### #is_/same_as :: [parental_support.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/parental_support.personal.md) 
+### #is_/same_as :: [Parental_Support.personal](/_personal/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.personal.md) 
 
-### #is_/same_as :: [parental_support.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/parental_support.secret.md)
+### #is_/same_as :: [Parental_Support.secret](/_secret/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.secret.md)
 

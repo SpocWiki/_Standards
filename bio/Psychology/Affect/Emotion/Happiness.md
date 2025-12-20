@@ -25,3 +25,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Happiness) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Happiness](/_Standards/bio/Psychology/Affect/Emotion/Happiness.md) 
+
+### #is_/same_as :: [Happiness.public](/_public/bio/Psychology/Affect/Emotion/Happiness.public.md) 
+
+### #is_/same_as :: [Happiness.internal](/_internal/bio/Psychology/Affect/Emotion/Happiness.internal.md) 
+
+### #is_/same_as :: [Happiness.protect](/_protect/bio/Psychology/Affect/Emotion/Happiness.protect.md) 
+
+### #is_/same_as :: [Happiness.private](/_private/bio/Psychology/Affect/Emotion/Happiness.private.md) 
+
+### #is_/same_as :: [Happiness.personal](/_personal/bio/Psychology/Affect/Emotion/Happiness.personal.md) 
+
+### #is_/same_as :: [Happiness.secret](/_secret/bio/Psychology/Affect/Emotion/Happiness.secret.md)
+

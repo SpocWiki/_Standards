@@ -48,3 +48,22 @@ for specific outcomes
 > [Wikipedia](https://en.wikipedia.org/wiki/Urban%20design) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Urban_Design](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.md) 
+
+### #is_/same_as :: [Urban_Design.public](/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.public.md) 
+
+### #is_/same_as :: [Urban_Design.internal](/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.internal.md) 
+
+### #is_/same_as :: [Urban_Design.protect](/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.protect.md) 
+
+### #is_/same_as :: [Urban_Design.private](/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.private.md) 
+
+### #is_/same_as :: [Urban_Design.personal](/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.personal.md) 
+
+### #is_/same_as :: [Urban_Design.secret](/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.secret.md)
+

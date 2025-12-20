@@ -202,17 +202,17 @@ writing_language: "[[_Standards/WikiData/WD~German,188]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mozart,Wolfgang_Amadeus](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.md) 
+### #is_/same_as :: [Mozart,Wolfgang_Amadeus](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus.md) 
 
-### #is_/same_as :: [Mozart,Wolfgang_Amadeus.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.public.md) 
+### #is_/same_as :: [Mozart,Wolfgang_Amadeus.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus.public.md) 
 
-### #is_/same_as :: [Mozart,Wolfgang_Amadeus.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.internal.md) 
+### #is_/same_as :: [Mozart,Wolfgang_Amadeus.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus.internal.md) 
 
-### #is_/same_as :: [Mozart,Wolfgang_Amadeus.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.protect.md) 
+### #is_/same_as :: [Mozart,Wolfgang_Amadeus.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus.protect.md) 
 
-### #is_/same_as :: [Mozart,Wolfgang_Amadeus.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.private.md) 
+### #is_/same_as :: [Mozart,Wolfgang_Amadeus.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus.private.md) 
 
-### #is_/same_as :: [Mozart,Wolfgang_Amadeus.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.personal.md) 
+### #is_/same_as :: [Mozart,Wolfgang_Amadeus.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus.personal.md) 
 
-### #is_/same_as :: [Mozart,Wolfgang_Amadeus.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.secret.md)
+### #is_/same_as :: [Mozart,Wolfgang_Amadeus.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus.secret.md)
 

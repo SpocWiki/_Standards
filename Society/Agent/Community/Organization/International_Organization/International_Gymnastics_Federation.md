@@ -62,3 +62,22 @@ official_name:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [International_Gymnastics_Federation](/_Standards/Society/Agent/Community/Organization/International_Organization/International_Gymnastics_Federation.md) 
+
+### #is_/same_as :: [International_Gymnastics_Federation.public](/_public/Society/Agent/Community/Organization/International_Organization/International_Gymnastics_Federation.public.md) 
+
+### #is_/same_as :: [International_Gymnastics_Federation.internal](/_internal/Society/Agent/Community/Organization/International_Organization/International_Gymnastics_Federation.internal.md) 
+
+### #is_/same_as :: [International_Gymnastics_Federation.protect](/_protect/Society/Agent/Community/Organization/International_Organization/International_Gymnastics_Federation.protect.md) 
+
+### #is_/same_as :: [International_Gymnastics_Federation.private](/_private/Society/Agent/Community/Organization/International_Organization/International_Gymnastics_Federation.private.md) 
+
+### #is_/same_as :: [International_Gymnastics_Federation.personal](/_personal/Society/Agent/Community/Organization/International_Organization/International_Gymnastics_Federation.personal.md) 
+
+### #is_/same_as :: [International_Gymnastics_Federation.secret](/_secret/Society/Agent/Community/Organization/International_Organization/International_Gymnastics_Federation.secret.md)
+

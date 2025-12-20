@@ -62,17 +62,17 @@ name: digka
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Axe](/_Standards/Technology/Tool/Axe.md) 
+### #is_/same_as :: [Axe](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.md) 
 
-### #is_/same_as :: [Axe.public](/_public/Technology/Tool/Axe.public.md) 
+### #is_/same_as :: [Axe.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.public.md) 
 
-### #is_/same_as :: [Axe.internal](/_internal/Technology/Tool/Axe.internal.md) 
+### #is_/same_as :: [Axe.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.internal.md) 
 
-### #is_/same_as :: [Axe.protect](/_protect/Technology/Tool/Axe.protect.md) 
+### #is_/same_as :: [Axe.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.protect.md) 
 
-### #is_/same_as :: [Axe.private](/_private/Technology/Tool/Axe.private.md) 
+### #is_/same_as :: [Axe.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.private.md) 
 
-### #is_/same_as :: [Axe.personal](/_personal/Technology/Tool/Axe.personal.md) 
+### #is_/same_as :: [Axe.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.personal.md) 
 
-### #is_/same_as :: [Axe.secret](/_secret/Technology/Tool/Axe.secret.md)
+### #is_/same_as :: [Axe.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Axe.secret.md)
 

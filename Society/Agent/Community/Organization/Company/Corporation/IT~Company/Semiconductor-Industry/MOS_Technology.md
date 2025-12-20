@@ -37,17 +37,17 @@ The same year Atari brought out their [[Atari_2600]] Console also with a [[MOS65
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [MOS_Technology](MOS_Technology.md) 
+### #is_/same_as :: [MOS_Technology](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/MOS_Technology.md) 
 
-### #is_/same_as :: [MOS_Technology.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/MOS_Technology.public.md) 
+### #is_/same_as :: [MOS_Technology.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/MOS_Technology.public.md) 
 
-### #is_/same_as :: [MOS_Technology.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/MOS_Technology.internal.md) 
+### #is_/same_as :: [MOS_Technology.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/MOS_Technology.internal.md) 
 
-### #is_/same_as :: [MOS_Technology.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/MOS_Technology.protect.md) 
+### #is_/same_as :: [MOS_Technology.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/MOS_Technology.protect.md) 
 
-### #is_/same_as :: [MOS_Technology.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/MOS_Technology.private.md) 
+### #is_/same_as :: [MOS_Technology.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/MOS_Technology.private.md) 
 
-### #is_/same_as :: [MOS_Technology.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/MOS_Technology.personal.md) 
+### #is_/same_as :: [MOS_Technology.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/MOS_Technology.personal.md) 
 
-### #is_/same_as :: [MOS_Technology.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/MOS_Technology.secret.md)
+### #is_/same_as :: [MOS_Technology.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/MOS_Technology.secret.md)
 

@@ -46,3 +46,22 @@ Dewey_Decimal_Classification:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vanilla](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.md) 
+
+### #is_/same_as :: [Vanilla.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.public.md) 
+
+### #is_/same_as :: [Vanilla.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.internal.md) 
+
+### #is_/same_as :: [Vanilla.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.protect.md) 
+
+### #is_/same_as :: [Vanilla.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.private.md) 
+
+### #is_/same_as :: [Vanilla.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.personal.md) 
+
+### #is_/same_as :: [Vanilla.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.secret.md)
+

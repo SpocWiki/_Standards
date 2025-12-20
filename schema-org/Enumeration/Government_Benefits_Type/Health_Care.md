@@ -103,19 +103,21 @@ HealthCare: this is a benefit for health care.
 > An efficient health care system can contribute to a significant part of a country's economy, development, and industrialization. Health care is an important determinant in promoting the general physical and mental health and well-being of people around the world. An example of this was the worldwide eradication of smallpox in 1980, declared by the WHO, as the first disease in human history to be eliminated by deliberate health care interventions.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Health%20care)
+
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Health_Care](Health_Care.md) 
+### #is_/same_as :: [Health_Care](/_Standards/schema-org/Enumeration/Government_Benefits_Type/Health_Care.md) 
 
-### #is_/same_as :: [health_care.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.public.md) 
+### #is_/same_as :: [Health_Care.public](/_public/schema-org/Enumeration/Government_Benefits_Type/Health_Care.public.md) 
 
-### #is_/same_as :: [health_care.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.internal.md) 
+### #is_/same_as :: [Health_Care.internal](/_internal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.internal.md) 
 
-### #is_/same_as :: [health_care.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.protect.md) 
+### #is_/same_as :: [Health_Care.protect](/_protect/schema-org/Enumeration/Government_Benefits_Type/Health_Care.protect.md) 
 
-### #is_/same_as :: [health_care.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.private.md) 
+### #is_/same_as :: [Health_Care.private](/_private/schema-org/Enumeration/Government_Benefits_Type/Health_Care.private.md) 
 
-### #is_/same_as :: [health_care.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.personal.md) 
+### #is_/same_as :: [Health_Care.personal](/_personal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.personal.md) 
 
-### #is_/same_as :: [health_care.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.secret.md)
+### #is_/same_as :: [Health_Care.secret](/_secret/schema-org/Enumeration/Government_Benefits_Type/Health_Care.secret.md)
 

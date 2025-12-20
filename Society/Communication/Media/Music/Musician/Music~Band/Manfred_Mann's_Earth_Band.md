@@ -9,3 +9,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Manfred%20Mann's%20Earth%20Band) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Manfred_Mann's_Earth_Band](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.md) 
+
+### #is_/same_as :: [Manfred_Mann's_Earth_Band.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.public.md) 
+
+### #is_/same_as :: [Manfred_Mann's_Earth_Band.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.internal.md) 
+
+### #is_/same_as :: [Manfred_Mann's_Earth_Band.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.protect.md) 
+
+### #is_/same_as :: [Manfred_Mann's_Earth_Band.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.private.md) 
+
+### #is_/same_as :: [Manfred_Mann's_Earth_Band.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.personal.md) 
+
+### #is_/same_as :: [Manfred_Mann's_Earth_Band.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.secret.md)
+

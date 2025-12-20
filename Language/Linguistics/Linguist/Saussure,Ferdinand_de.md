@@ -104,3 +104,22 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/SOSSYUR_FERDINAND.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ferdinand%20de%20Saussure) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Saussure,Ferdinand_de](/_Standards/Language/Linguistics/Linguist/Saussure,Ferdinand_de.md) 
+
+### #is_/same_as :: [Saussure,Ferdinand_de.public](/_public/Language/Linguistics/Linguist/Saussure,Ferdinand_de.public.md) 
+
+### #is_/same_as :: [Saussure,Ferdinand_de.internal](/_internal/Language/Linguistics/Linguist/Saussure,Ferdinand_de.internal.md) 
+
+### #is_/same_as :: [Saussure,Ferdinand_de.protect](/_protect/Language/Linguistics/Linguist/Saussure,Ferdinand_de.protect.md) 
+
+### #is_/same_as :: [Saussure,Ferdinand_de.private](/_private/Language/Linguistics/Linguist/Saussure,Ferdinand_de.private.md) 
+
+### #is_/same_as :: [Saussure,Ferdinand_de.personal](/_personal/Language/Linguistics/Linguist/Saussure,Ferdinand_de.personal.md) 
+
+### #is_/same_as :: [Saussure,Ferdinand_de.secret](/_secret/Language/Linguistics/Linguist/Saussure,Ferdinand_de.secret.md)
+

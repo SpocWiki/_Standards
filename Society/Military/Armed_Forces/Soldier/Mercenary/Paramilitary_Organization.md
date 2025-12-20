@@ -24,3 +24,22 @@ Commons_category: Paramilitary organizations
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paramilitary) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Paramilitary_Organization](/_Standards/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.md) 
+
+### #is_/same_as :: [Paramilitary_Organization.public](/_public/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.public.md) 
+
+### #is_/same_as :: [Paramilitary_Organization.internal](/_internal/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.internal.md) 
+
+### #is_/same_as :: [Paramilitary_Organization.protect](/_protect/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.protect.md) 
+
+### #is_/same_as :: [Paramilitary_Organization.private](/_private/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.private.md) 
+
+### #is_/same_as :: [Paramilitary_Organization.personal](/_personal/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.personal.md) 
+
+### #is_/same_as :: [Paramilitary_Organization.secret](/_secret/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.secret.md)
+

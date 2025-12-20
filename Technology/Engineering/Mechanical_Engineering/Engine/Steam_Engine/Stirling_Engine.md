@@ -55,17 +55,17 @@ The idealised Stirling cycle consists of four [thermodynamic processes](https:/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stirling_Engine](/_Standards/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.md) 
+### #is_/same_as :: [Stirling_Engine](/_Standards/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.md) 
 
-### #is_/same_as :: [Stirling_Engine.public](/_public/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.public.md) 
+### #is_/same_as :: [Stirling_Engine.public](/_public/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.public.md) 
 
-### #is_/same_as :: [Stirling_Engine.internal](/_internal/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.internal.md) 
+### #is_/same_as :: [Stirling_Engine.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.internal.md) 
 
-### #is_/same_as :: [Stirling_Engine.protect](/_protect/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.protect.md) 
+### #is_/same_as :: [Stirling_Engine.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.protect.md) 
 
-### #is_/same_as :: [Stirling_Engine.private](/_private/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.private.md) 
+### #is_/same_as :: [Stirling_Engine.private](/_private/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.private.md) 
 
-### #is_/same_as :: [Stirling_Engine.personal](/_personal/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.personal.md) 
+### #is_/same_as :: [Stirling_Engine.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.personal.md) 
 
-### #is_/same_as :: [Stirling_Engine.secret](/_secret/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.secret.md)
+### #is_/same_as :: [Stirling_Engine.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.secret.md)
 

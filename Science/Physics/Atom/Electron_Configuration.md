@@ -34,3 +34,22 @@ has_id_wikidata: Q53859
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electron%20configuration) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electron_Configuration](/_Standards/Science/Physics/Atom/Electron_Configuration.md) 
+
+### #is_/same_as :: [Electron_Configuration.public](/_public/Science/Physics/Atom/Electron_Configuration.public.md) 
+
+### #is_/same_as :: [Electron_Configuration.internal](/_internal/Science/Physics/Atom/Electron_Configuration.internal.md) 
+
+### #is_/same_as :: [Electron_Configuration.protect](/_protect/Science/Physics/Atom/Electron_Configuration.protect.md) 
+
+### #is_/same_as :: [Electron_Configuration.private](/_private/Science/Physics/Atom/Electron_Configuration.private.md) 
+
+### #is_/same_as :: [Electron_Configuration.personal](/_personal/Science/Physics/Atom/Electron_Configuration.personal.md) 
+
+### #is_/same_as :: [Electron_Configuration.secret](/_secret/Science/Physics/Atom/Electron_Configuration.secret.md)
+

@@ -41,17 +41,17 @@ Indicates a range of postal codes, usually defined as the set of valid codes bet
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [postal_code_range_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.md) 
+### #is_/same_as :: [Postal_Code_Range_Specification](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.md) 
 
-### #is_/same_as :: [postal_code_range_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.public.md) 
+### #is_/same_as :: [Postal_Code_Range_Specification.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.public.md) 
 
-### #is_/same_as :: [postal_code_range_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.internal.md) 
+### #is_/same_as :: [Postal_Code_Range_Specification.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.internal.md) 
 
-### #is_/same_as :: [postal_code_range_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.protect.md) 
+### #is_/same_as :: [Postal_Code_Range_Specification.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.protect.md) 
 
-### #is_/same_as :: [postal_code_range_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.private.md) 
+### #is_/same_as :: [Postal_Code_Range_Specification.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.private.md) 
 
-### #is_/same_as :: [postal_code_range_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.personal.md) 
+### #is_/same_as :: [Postal_Code_Range_Specification.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.personal.md) 
 
-### #is_/same_as :: [postal_code_range_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.secret.md)
+### #is_/same_as :: [Postal_Code_Range_Specification.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.secret.md)
 

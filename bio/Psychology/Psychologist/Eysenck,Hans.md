@@ -88,3 +88,22 @@ ISNI: "0000000121468874"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hans%20Eysenck) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eysenck,Hans](/_Standards/bio/Psychology/Psychologist/Eysenck,Hans.md) 
+
+### #is_/same_as :: [Eysenck,Hans.public](/_public/bio/Psychology/Psychologist/Eysenck,Hans.public.md) 
+
+### #is_/same_as :: [Eysenck,Hans.internal](/_internal/bio/Psychology/Psychologist/Eysenck,Hans.internal.md) 
+
+### #is_/same_as :: [Eysenck,Hans.protect](/_protect/bio/Psychology/Psychologist/Eysenck,Hans.protect.md) 
+
+### #is_/same_as :: [Eysenck,Hans.private](/_private/bio/Psychology/Psychologist/Eysenck,Hans.private.md) 
+
+### #is_/same_as :: [Eysenck,Hans.personal](/_personal/bio/Psychology/Psychologist/Eysenck,Hans.personal.md) 
+
+### #is_/same_as :: [Eysenck,Hans.secret](/_secret/bio/Psychology/Psychologist/Eysenck,Hans.secret.md)
+

@@ -90,3 +90,22 @@ RTECS_number: OM4500000
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnesium%20sulfate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Magnesium_Sulfate](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.md) 
+
+### #is_/same_as :: [Magnesium_Sulfate.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.public.md) 
+
+### #is_/same_as :: [Magnesium_Sulfate.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.internal.md) 
+
+### #is_/same_as :: [Magnesium_Sulfate.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.protect.md) 
+
+### #is_/same_as :: [Magnesium_Sulfate.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.private.md) 
+
+### #is_/same_as :: [Magnesium_Sulfate.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.personal.md) 
+
+### #is_/same_as :: [Magnesium_Sulfate.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.secret.md)
+

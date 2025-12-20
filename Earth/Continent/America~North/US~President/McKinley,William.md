@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - McKinley,William
 - "William McKinley"
@@ -30,4 +30,23 @@ type: private_note
 #has_/time_/started :: 1843-01-29
 #has_/time_/stopped  :: 1901-09-14
 -   [has_role :: [[../US~President]] ] [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]] ] [created:: 1897-03-04]  [cancelled:: 1901-09-14]  
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [McKinley,William](/_Standards/Earth/Continent/America~North/US~President/McKinley,William.md) 
+
+### #is_/same_as :: [McKinley,William.public](/_public/Earth/Continent/America~North/US~President/McKinley,William.public.md) 
+
+### #is_/same_as :: [McKinley,William.internal](/_internal/Earth/Continent/America~North/US~President/McKinley,William.internal.md) 
+
+### #is_/same_as :: [McKinley,William.protect](/_protect/Earth/Continent/America~North/US~President/McKinley,William.protect.md) 
+
+### #is_/same_as :: [McKinley,William.private](/_private/Earth/Continent/America~North/US~President/McKinley,William.private.md) 
+
+### #is_/same_as :: [McKinley,William.personal](/_personal/Earth/Continent/America~North/US~President/McKinley,William.personal.md) 
+
+### #is_/same_as :: [McKinley,William.secret](/_secret/Earth/Continent/America~North/US~President/McKinley,William.secret.md)
 

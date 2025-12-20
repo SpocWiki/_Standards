@@ -43,3 +43,22 @@ subreddit: musictheory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Music%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Music_Theory](/_Standards/Society/Communication/Media/Music/Music_Theory.md) 
+
+### #is_/same_as :: [Music_Theory.public](/_public/Society/Communication/Media/Music/Music_Theory.public.md) 
+
+### #is_/same_as :: [Music_Theory.internal](/_internal/Society/Communication/Media/Music/Music_Theory.internal.md) 
+
+### #is_/same_as :: [Music_Theory.protect](/_protect/Society/Communication/Media/Music/Music_Theory.protect.md) 
+
+### #is_/same_as :: [Music_Theory.private](/_private/Society/Communication/Media/Music/Music_Theory.private.md) 
+
+### #is_/same_as :: [Music_Theory.personal](/_personal/Society/Communication/Media/Music/Music_Theory.personal.md) 
+
+### #is_/same_as :: [Music_Theory.secret](/_secret/Society/Communication/Media/Music/Music_Theory.secret.md)
+

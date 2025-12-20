@@ -79,3 +79,22 @@ Colon_Classification: W:56
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Privacy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Privacy](/_Standards/Society/Agent/Management/Risk-Management/Privacy.md) 
+
+### #is_/same_as :: [Privacy.public](/_public/Society/Agent/Management/Risk-Management/Privacy.public.md) 
+
+### #is_/same_as :: [Privacy.internal](/_internal/Society/Agent/Management/Risk-Management/Privacy.internal.md) 
+
+### #is_/same_as :: [Privacy.protect](/_protect/Society/Agent/Management/Risk-Management/Privacy.protect.md) 
+
+### #is_/same_as :: [Privacy.private](/_private/Society/Agent/Management/Risk-Management/Privacy.private.md) 
+
+### #is_/same_as :: [Privacy.personal](/_personal/Society/Agent/Management/Risk-Management/Privacy.personal.md) 
+
+### #is_/same_as :: [Privacy.secret](/_secret/Society/Agent/Management/Risk-Management/Privacy.secret.md)
+

@@ -58,3 +58,22 @@ Iconclass_notation: "49E2511"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lens) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lens](/_Standards/Science/Physics/Wave/Optics/Lens.md) 
+
+### #is_/same_as :: [Lens.public](/_public/Science/Physics/Wave/Optics/Lens.public.md) 
+
+### #is_/same_as :: [Lens.internal](/_internal/Science/Physics/Wave/Optics/Lens.internal.md) 
+
+### #is_/same_as :: [Lens.protect](/_protect/Science/Physics/Wave/Optics/Lens.protect.md) 
+
+### #is_/same_as :: [Lens.private](/_private/Science/Physics/Wave/Optics/Lens.private.md) 
+
+### #is_/same_as :: [Lens.personal](/_personal/Science/Physics/Wave/Optics/Lens.personal.md) 
+
+### #is_/same_as :: [Lens.secret](/_secret/Science/Physics/Wave/Optics/Lens.secret.md)
+

@@ -45,3 +45,22 @@ OpenStreetMap_tag_or_key: Tag:estuary=yes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Estuary) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Estuary](/_Standards/bio/Ecology/Ecosystem/Estuary.md) 
+
+### #is_/same_as :: [Estuary.public](/_public/bio/Ecology/Ecosystem/Estuary.public.md) 
+
+### #is_/same_as :: [Estuary.internal](/_internal/bio/Ecology/Ecosystem/Estuary.internal.md) 
+
+### #is_/same_as :: [Estuary.protect](/_protect/bio/Ecology/Ecosystem/Estuary.protect.md) 
+
+### #is_/same_as :: [Estuary.private](/_private/bio/Ecology/Ecosystem/Estuary.private.md) 
+
+### #is_/same_as :: [Estuary.personal](/_personal/bio/Ecology/Ecosystem/Estuary.personal.md) 
+
+### #is_/same_as :: [Estuary.secret](/_secret/bio/Ecology/Ecosystem/Estuary.secret.md)
+

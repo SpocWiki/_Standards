@@ -158,3 +158,22 @@ Krugosvet_article_archived_: istoriya/TIBERI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Tiberius)  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tiberius](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.md) 
+
+### #is_/same_as :: [Tiberius.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.public.md) 
+
+### #is_/same_as :: [Tiberius.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.internal.md) 
+
+### #is_/same_as :: [Tiberius.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.protect.md) 
+
+### #is_/same_as :: [Tiberius.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.private.md) 
+
+### #is_/same_as :: [Tiberius.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.personal.md) 
+
+### #is_/same_as :: [Tiberius.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.secret.md)
+

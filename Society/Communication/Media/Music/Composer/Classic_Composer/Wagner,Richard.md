@@ -176,17 +176,17 @@ writing_language: "[[_Standards/WikiData/WD~German,188]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wagner,Richard](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.md) 
+### #is_/same_as :: [Wagner,Richard](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.md) 
 
-### #is_/same_as :: [Wagner,Richard.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.public.md) 
+### #is_/same_as :: [Wagner,Richard.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.public.md) 
 
-### #is_/same_as :: [Wagner,Richard.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.internal.md) 
+### #is_/same_as :: [Wagner,Richard.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.internal.md) 
 
-### #is_/same_as :: [Wagner,Richard.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.protect.md) 
+### #is_/same_as :: [Wagner,Richard.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.protect.md) 
 
-### #is_/same_as :: [Wagner,Richard.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.private.md) 
+### #is_/same_as :: [Wagner,Richard.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.private.md) 
 
-### #is_/same_as :: [Wagner,Richard.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.personal.md) 
+### #is_/same_as :: [Wagner,Richard.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.personal.md) 
 
-### #is_/same_as :: [Wagner,Richard.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.secret.md)
+### #is_/same_as :: [Wagner,Richard.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.secret.md)
 

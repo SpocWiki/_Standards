@@ -23,3 +23,22 @@ Commons_category: Stealth technology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stealth%20technology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stealth_Technology](/_Standards/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.md) 
+
+### #is_/same_as :: [Stealth_Technology.public](/_public/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.public.md) 
+
+### #is_/same_as :: [Stealth_Technology.internal](/_internal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.internal.md) 
+
+### #is_/same_as :: [Stealth_Technology.protect](/_protect/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.protect.md) 
+
+### #is_/same_as :: [Stealth_Technology.private](/_private/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.private.md) 
+
+### #is_/same_as :: [Stealth_Technology.personal](/_personal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.personal.md) 
+
+### #is_/same_as :: [Stealth_Technology.secret](/_secret/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.secret.md)
+

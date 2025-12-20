@@ -104,3 +104,22 @@ P8189: "987007449990205171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Clark%20Gable) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gable,Clark](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Gable,Clark.md) 
+
+### #is_/same_as :: [Gable,Clark.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Gable,Clark.public.md) 
+
+### #is_/same_as :: [Gable,Clark.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Gable,Clark.internal.md) 
+
+### #is_/same_as :: [Gable,Clark.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Gable,Clark.protect.md) 
+
+### #is_/same_as :: [Gable,Clark.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Gable,Clark.private.md) 
+
+### #is_/same_as :: [Gable,Clark.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Gable,Clark.personal.md) 
+
+### #is_/same_as :: [Gable,Clark.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Gable,Clark.secret.md)
+

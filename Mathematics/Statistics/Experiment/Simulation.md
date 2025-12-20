@@ -71,3 +71,22 @@ Commons_category: Simulation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Simulation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Simulation](/_Standards/Mathematics/Statistics/Experiment/Simulation.md) 
+
+### #is_/same_as :: [Simulation.public](/_public/Mathematics/Statistics/Experiment/Simulation.public.md) 
+
+### #is_/same_as :: [Simulation.internal](/_internal/Mathematics/Statistics/Experiment/Simulation.internal.md) 
+
+### #is_/same_as :: [Simulation.protect](/_protect/Mathematics/Statistics/Experiment/Simulation.protect.md) 
+
+### #is_/same_as :: [Simulation.private](/_private/Mathematics/Statistics/Experiment/Simulation.private.md) 
+
+### #is_/same_as :: [Simulation.personal](/_personal/Mathematics/Statistics/Experiment/Simulation.personal.md) 
+
+### #is_/same_as :: [Simulation.secret](/_secret/Mathematics/Statistics/Experiment/Simulation.secret.md)
+

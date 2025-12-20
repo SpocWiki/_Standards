@@ -71,3 +71,22 @@ Commons_category: Electrical resistance
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20resistance%20and%20conductance) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electrical_Resistance](/_Standards/Science/Physics/Electricity/Electrical_Resistance.md) 
+
+### #is_/same_as :: [Electrical_Resistance.public](/_public/Science/Physics/Electricity/Electrical_Resistance.public.md) 
+
+### #is_/same_as :: [Electrical_Resistance.internal](/_internal/Science/Physics/Electricity/Electrical_Resistance.internal.md) 
+
+### #is_/same_as :: [Electrical_Resistance.protect](/_protect/Science/Physics/Electricity/Electrical_Resistance.protect.md) 
+
+### #is_/same_as :: [Electrical_Resistance.private](/_private/Science/Physics/Electricity/Electrical_Resistance.private.md) 
+
+### #is_/same_as :: [Electrical_Resistance.personal](/_personal/Science/Physics/Electricity/Electrical_Resistance.personal.md) 
+
+### #is_/same_as :: [Electrical_Resistance.secret](/_secret/Science/Physics/Electricity/Electrical_Resistance.secret.md)
+

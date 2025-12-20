@@ -50,3 +50,22 @@ Commons_category: Shock (circulatory)
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shock(Circulatory)](/_Standards/bio/Medicine/Medical_Condition/Shock(Circulatory).md) 
+
+### #is_/same_as :: [Shock(Circulatory).public](/_public/bio/Medicine/Medical_Condition/Shock(Circulatory).public.md) 
+
+### #is_/same_as :: [Shock(Circulatory).internal](/_internal/bio/Medicine/Medical_Condition/Shock(Circulatory).internal.md) 
+
+### #is_/same_as :: [Shock(Circulatory).protect](/_protect/bio/Medicine/Medical_Condition/Shock(Circulatory).protect.md) 
+
+### #is_/same_as :: [Shock(Circulatory).private](/_private/bio/Medicine/Medical_Condition/Shock(Circulatory).private.md) 
+
+### #is_/same_as :: [Shock(Circulatory).personal](/_personal/bio/Medicine/Medical_Condition/Shock(Circulatory).personal.md) 
+
+### #is_/same_as :: [Shock(Circulatory).secret](/_secret/bio/Medicine/Medical_Condition/Shock(Circulatory).secret.md)
+

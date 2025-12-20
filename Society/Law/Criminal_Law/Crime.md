@@ -74,17 +74,17 @@ WordLift_URL: "https://data.wordlift.io/wl76541/entity/criminal"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crime](/_Standards/Society/Criminology/Crime.md) 
+### #is_/same_as :: [Crime](/_Standards/Society/Law/Criminal_Law/Crime.md) 
 
-### #is_/same_as :: [Crime.public](/_public/Society/Criminology/Crime.public.md) 
+### #is_/same_as :: [Crime.public](/_public/Society/Law/Criminal_Law/Crime.public.md) 
 
-### #is_/same_as :: [Crime.internal](/_internal/Society/Criminology/Crime.internal.md) 
+### #is_/same_as :: [Crime.internal](/_internal/Society/Law/Criminal_Law/Crime.internal.md) 
 
-### #is_/same_as :: [Crime.protect](/_protect/Society/Criminology/Crime.protect.md) 
+### #is_/same_as :: [Crime.protect](/_protect/Society/Law/Criminal_Law/Crime.protect.md) 
 
-### #is_/same_as :: [Crime.private](/_private/Society/Criminology/Crime.private.md) 
+### #is_/same_as :: [Crime.private](/_private/Society/Law/Criminal_Law/Crime.private.md) 
 
-### #is_/same_as :: [Crime.personal](/_personal/Society/Criminology/Crime.personal.md) 
+### #is_/same_as :: [Crime.personal](/_personal/Society/Law/Criminal_Law/Crime.personal.md) 
 
-### #is_/same_as :: [Crime.secret](/_secret/Society/Criminology/Crime.secret.md)
+### #is_/same_as :: [Crime.secret](/_secret/Society/Law/Criminal_Law/Crime.secret.md)
 

@@ -84,3 +84,22 @@ nickname: freezepeach
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Freedom%20of%20speech) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Freedom_of_Speech](/_Standards/Society/Social_Issues/Human_Rights/Freedom_of_Speech.md) 
+
+### #is_/same_as :: [Freedom_of_Speech.public](/_public/Society/Social_Issues/Human_Rights/Freedom_of_Speech.public.md) 
+
+### #is_/same_as :: [Freedom_of_Speech.internal](/_internal/Society/Social_Issues/Human_Rights/Freedom_of_Speech.internal.md) 
+
+### #is_/same_as :: [Freedom_of_Speech.protect](/_protect/Society/Social_Issues/Human_Rights/Freedom_of_Speech.protect.md) 
+
+### #is_/same_as :: [Freedom_of_Speech.private](/_private/Society/Social_Issues/Human_Rights/Freedom_of_Speech.private.md) 
+
+### #is_/same_as :: [Freedom_of_Speech.personal](/_personal/Society/Social_Issues/Human_Rights/Freedom_of_Speech.personal.md) 
+
+### #is_/same_as :: [Freedom_of_Speech.secret](/_secret/Society/Social_Issues/Human_Rights/Freedom_of_Speech.secret.md)
+

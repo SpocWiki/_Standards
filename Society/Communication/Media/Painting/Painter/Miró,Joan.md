@@ -24,3 +24,22 @@ has_id_wikidata: Q152384
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joan%20Mir%C3%B3) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Miró,Joan](/_Standards/Society/Communication/Media/Painting/Painter/Miró,Joan.md) 
+
+### #is_/same_as :: [Miró,Joan.public](/_public/Society/Communication/Media/Painting/Painter/Miró,Joan.public.md) 
+
+### #is_/same_as :: [Miró,Joan.internal](/_internal/Society/Communication/Media/Painting/Painter/Miró,Joan.internal.md) 
+
+### #is_/same_as :: [Miró,Joan.protect](/_protect/Society/Communication/Media/Painting/Painter/Miró,Joan.protect.md) 
+
+### #is_/same_as :: [Miró,Joan.private](/_private/Society/Communication/Media/Painting/Painter/Miró,Joan.private.md) 
+
+### #is_/same_as :: [Miró,Joan.personal](/_personal/Society/Communication/Media/Painting/Painter/Miró,Joan.personal.md) 
+
+### #is_/same_as :: [Miró,Joan.secret](/_secret/Society/Communication/Media/Painting/Painter/Miró,Joan.secret.md)
+

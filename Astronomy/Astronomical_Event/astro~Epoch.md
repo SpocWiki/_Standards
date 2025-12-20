@@ -49,3 +49,22 @@ has_id_wikidata: Q2703
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Epoch%20(astronomy)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [astro~Epoch](/_Standards/Astronomy/Astronomical_Event/astro~Epoch.md) 
+
+### #is_/same_as :: [astro~Epoch.public](/_public/Astronomy/Astronomical_Event/astro~Epoch.public.md) 
+
+### #is_/same_as :: [astro~Epoch.internal](/_internal/Astronomy/Astronomical_Event/astro~Epoch.internal.md) 
+
+### #is_/same_as :: [astro~Epoch.protect](/_protect/Astronomy/Astronomical_Event/astro~Epoch.protect.md) 
+
+### #is_/same_as :: [astro~Epoch.private](/_private/Astronomy/Astronomical_Event/astro~Epoch.private.md) 
+
+### #is_/same_as :: [astro~Epoch.personal](/_personal/Astronomy/Astronomical_Event/astro~Epoch.personal.md) 
+
+### #is_/same_as :: [astro~Epoch.secret](/_secret/Astronomy/Astronomical_Event/astro~Epoch.secret.md)
+

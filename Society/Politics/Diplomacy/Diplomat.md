@@ -80,3 +80,22 @@ Commons_category: Diplomats
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diplomat) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diplomat](/_Standards/Society/Politics/Diplomacy/Diplomat.md) 
+
+### #is_/same_as :: [Diplomat.public](/_public/Society/Politics/Diplomacy/Diplomat.public.md) 
+
+### #is_/same_as :: [Diplomat.internal](/_internal/Society/Politics/Diplomacy/Diplomat.internal.md) 
+
+### #is_/same_as :: [Diplomat.protect](/_protect/Society/Politics/Diplomacy/Diplomat.protect.md) 
+
+### #is_/same_as :: [Diplomat.private](/_private/Society/Politics/Diplomacy/Diplomat.private.md) 
+
+### #is_/same_as :: [Diplomat.personal](/_personal/Society/Politics/Diplomacy/Diplomat.personal.md) 
+
+### #is_/same_as :: [Diplomat.secret](/_secret/Society/Politics/Diplomacy/Diplomat.secret.md)
+

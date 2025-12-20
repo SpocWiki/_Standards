@@ -17,17 +17,17 @@ Ungermann had a falling-out with [[Exxon]] and left Zilog in 1978.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zilog](Zilog.md) 
+### #is_/same_as :: [Zilog](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.md) 
 
-### #is_/same_as :: [Zilog.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Zilog.public.md) 
+### #is_/same_as :: [Zilog.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.public.md) 
 
-### #is_/same_as :: [Zilog.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Zilog.internal.md) 
+### #is_/same_as :: [Zilog.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.internal.md) 
 
-### #is_/same_as :: [Zilog.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Zilog.protect.md) 
+### #is_/same_as :: [Zilog.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.protect.md) 
 
-### #is_/same_as :: [Zilog.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Zilog.private.md) 
+### #is_/same_as :: [Zilog.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.private.md) 
 
-### #is_/same_as :: [Zilog.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Zilog.personal.md) 
+### #is_/same_as :: [Zilog.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.personal.md) 
 
-### #is_/same_as :: [Zilog.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Zilog.secret.md)
+### #is_/same_as :: [Zilog.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Zilog.secret.md)
 

@@ -40,17 +40,17 @@ Positron emission tomography imaging.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [pet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.md) 
+### #is_/same_as :: [Pet_Image](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.md) 
 
-### #is_/same_as :: [pet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.public.md) 
+### #is_/same_as :: [Pet_Image.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.public.md) 
 
-### #is_/same_as :: [pet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.internal.md) 
+### #is_/same_as :: [Pet_Image.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.internal.md) 
 
-### #is_/same_as :: [pet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.protect.md) 
+### #is_/same_as :: [Pet_Image.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.protect.md) 
 
-### #is_/same_as :: [pet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.private.md) 
+### #is_/same_as :: [Pet_Image.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.private.md) 
 
-### #is_/same_as :: [pet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.personal.md) 
+### #is_/same_as :: [Pet_Image.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.personal.md) 
 
-### #is_/same_as :: [pet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.secret.md)
+### #is_/same_as :: [Pet_Image.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.secret.md)
 

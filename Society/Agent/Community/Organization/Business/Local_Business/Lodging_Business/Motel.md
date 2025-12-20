@@ -41,17 +41,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Motel](Motel.md) 
+### #is_/same_as :: [Motel](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Motel.md) 
 
-### #is_/same_as :: [Motel.public](/_public/Society/Organization/Local_Business/Lodging_Business/Motel.public.md) 
+### #is_/same_as :: [Motel.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Motel.public.md) 
 
-### #is_/same_as :: [Motel.internal](/_internal/Society/Organization/Local_Business/Lodging_Business/Motel.internal.md) 
+### #is_/same_as :: [Motel.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Motel.internal.md) 
 
-### #is_/same_as :: [Motel.protect](/_protect/Society/Organization/Local_Business/Lodging_Business/Motel.protect.md) 
+### #is_/same_as :: [Motel.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Motel.protect.md) 
 
-### #is_/same_as :: [Motel.private](/_private/Society/Organization/Local_Business/Lodging_Business/Motel.private.md) 
+### #is_/same_as :: [Motel.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Motel.private.md) 
 
-### #is_/same_as :: [Motel.personal](/_personal/Society/Organization/Local_Business/Lodging_Business/Motel.personal.md) 
+### #is_/same_as :: [Motel.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Motel.personal.md) 
 
-### #is_/same_as :: [Motel.secret](/_secret/Society/Organization/Local_Business/Lodging_Business/Motel.secret.md)
+### #is_/same_as :: [Motel.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Motel.secret.md)
 

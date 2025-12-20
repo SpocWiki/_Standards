@@ -47,3 +47,22 @@ Commons_category: Multiculturalism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Multiculturalism)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Multiculturalism](/_Standards/Society/Anthropology/Sociology/Multiculturalism.md) 
+
+### #is_/same_as :: [Multiculturalism.public](/_public/Society/Anthropology/Sociology/Multiculturalism.public.md) 
+
+### #is_/same_as :: [Multiculturalism.internal](/_internal/Society/Anthropology/Sociology/Multiculturalism.internal.md) 
+
+### #is_/same_as :: [Multiculturalism.protect](/_protect/Society/Anthropology/Sociology/Multiculturalism.protect.md) 
+
+### #is_/same_as :: [Multiculturalism.private](/_private/Society/Anthropology/Sociology/Multiculturalism.private.md) 
+
+### #is_/same_as :: [Multiculturalism.personal](/_personal/Society/Anthropology/Sociology/Multiculturalism.personal.md) 
+
+### #is_/same_as :: [Multiculturalism.secret](/_secret/Society/Anthropology/Sociology/Multiculturalism.secret.md)
+

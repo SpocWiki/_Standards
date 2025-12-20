@@ -56,3 +56,22 @@ short_name: marsz.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marshal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Marshal](/_Standards/Society/Military/Armed_Forces/Military_Rank/Marshal.md) 
+
+### #is_/same_as :: [Marshal.public](/_public/Society/Military/Armed_Forces/Military_Rank/Marshal.public.md) 
+
+### #is_/same_as :: [Marshal.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Marshal.internal.md) 
+
+### #is_/same_as :: [Marshal.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Marshal.protect.md) 
+
+### #is_/same_as :: [Marshal.private](/_private/Society/Military/Armed_Forces/Military_Rank/Marshal.private.md) 
+
+### #is_/same_as :: [Marshal.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Marshal.personal.md) 
+
+### #is_/same_as :: [Marshal.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Marshal.secret.md)
+

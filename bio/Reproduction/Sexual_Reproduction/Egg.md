@@ -72,3 +72,22 @@ name: ꠄꠘ꠆ꠒꠣ
 > [Wikipedia](https://en.wikipedia.org/wiki/Egg) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Egg](/_Standards/bio/Reproduction/Sexual_Reproduction/Egg.md) 
+
+### #is_/same_as :: [Egg.public](/_public/bio/Reproduction/Sexual_Reproduction/Egg.public.md) 
+
+### #is_/same_as :: [Egg.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Egg.internal.md) 
+
+### #is_/same_as :: [Egg.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Egg.protect.md) 
+
+### #is_/same_as :: [Egg.private](/_private/bio/Reproduction/Sexual_Reproduction/Egg.private.md) 
+
+### #is_/same_as :: [Egg.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Egg.personal.md) 
+
+### #is_/same_as :: [Egg.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Egg.secret.md)
+

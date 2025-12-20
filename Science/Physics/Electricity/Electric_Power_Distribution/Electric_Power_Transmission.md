@@ -51,3 +51,22 @@ described_at_URL: https://www.osha.gov/etools/electric-power/illustrated-glossar
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20power%20transmission) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electric_Power_Transmission](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.md) 
+
+### #is_/same_as :: [Electric_Power_Transmission.public](/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.public.md) 
+
+### #is_/same_as :: [Electric_Power_Transmission.internal](/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.internal.md) 
+
+### #is_/same_as :: [Electric_Power_Transmission.protect](/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.protect.md) 
+
+### #is_/same_as :: [Electric_Power_Transmission.private](/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.private.md) 
+
+### #is_/same_as :: [Electric_Power_Transmission.personal](/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.personal.md) 
+
+### #is_/same_as :: [Electric_Power_Transmission.secret](/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.secret.md)
+

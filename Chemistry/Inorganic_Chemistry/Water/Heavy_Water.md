@@ -88,3 +88,22 @@ Gujarati_Vishwakosh_entry: ભારે-પાણી-ડ્યૂટેરિય
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Heavy%20water) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heavy_Water](/_Standards/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.md) 
+
+### #is_/same_as :: [Heavy_Water.public](/_public/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.public.md) 
+
+### #is_/same_as :: [Heavy_Water.internal](/_internal/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.internal.md) 
+
+### #is_/same_as :: [Heavy_Water.protect](/_protect/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.protect.md) 
+
+### #is_/same_as :: [Heavy_Water.private](/_private/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.private.md) 
+
+### #is_/same_as :: [Heavy_Water.personal](/_personal/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.personal.md) 
+
+### #is_/same_as :: [Heavy_Water.secret](/_secret/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.secret.md)
+

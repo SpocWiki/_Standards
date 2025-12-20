@@ -39,17 +39,17 @@ An airline flight.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [flight](/_Standards/schema-org/Class/is_a_/Intangible/trip/flight.md) 
+### #is_/same_as :: [Flight](/_Standards/schema-org/Class/is_a_/Intangible/Trip/Flight.md) 
 
-### #is_/same_as :: [flight.public](/_public/schema-org/Class/is_a_/Intangible/trip/flight.public.md) 
+### #is_/same_as :: [Flight.public](/_public/schema-org/Class/is_a_/Intangible/Trip/Flight.public.md) 
 
-### #is_/same_as :: [flight.internal](/_internal/schema-org/Class/is_a_/Intangible/trip/flight.internal.md) 
+### #is_/same_as :: [Flight.internal](/_internal/schema-org/Class/is_a_/Intangible/Trip/Flight.internal.md) 
 
-### #is_/same_as :: [flight.protect](/_protect/schema-org/Class/is_a_/Intangible/trip/flight.protect.md) 
+### #is_/same_as :: [Flight.protect](/_protect/schema-org/Class/is_a_/Intangible/Trip/Flight.protect.md) 
 
-### #is_/same_as :: [flight.private](/_private/schema-org/Class/is_a_/Intangible/trip/flight.private.md) 
+### #is_/same_as :: [Flight.private](/_private/schema-org/Class/is_a_/Intangible/Trip/Flight.private.md) 
 
-### #is_/same_as :: [flight.personal](/_personal/schema-org/Class/is_a_/Intangible/trip/flight.personal.md) 
+### #is_/same_as :: [Flight.personal](/_personal/schema-org/Class/is_a_/Intangible/Trip/Flight.personal.md) 
 
-### #is_/same_as :: [flight.secret](/_secret/schema-org/Class/is_a_/Intangible/trip/flight.secret.md)
+### #is_/same_as :: [Flight.secret](/_secret/schema-org/Class/is_a_/Intangible/Trip/Flight.secret.md)
 
