@@ -6,7 +6,7 @@ aliases:
 has_id_wikidata: Q79852
 instance_of: "[[_Standards/WikiData/WD~great_circle,146657]]"
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
@@ -24,7 +24,7 @@ image:
 
 # [[Ecliptic]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Ecliptic,79852|WD~Ecliptic,79852]] 
+#is_/same_as :: [[../../../../WikiData/WD~Ecliptic,79852|WD~Ecliptic,79852]] 
 
 ## #has_/text_of_/abstract 
 
@@ -51,7 +51,7 @@ image:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ecliptic](/_Standards/Astronomy/Solar_System/Occultation/Ecliptic.md) 
+### #is_/same_as :: [Ecliptic](Ecliptic.md) 
 
 ### #is_/same_as :: [Ecliptic.public](/_public/Astronomy/Solar_System/Occultation/Ecliptic.public.md) 
 

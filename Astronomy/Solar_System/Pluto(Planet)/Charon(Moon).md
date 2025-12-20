@@ -31,7 +31,7 @@ IPA_transcription: ˈçaːʁɔn
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Charon.ogg
 ---
 
-# [[Charon]] 
+# [[Charon(Moon)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Charon,6604|WD~Charon,6604]] 
 
@@ -73,7 +73,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Charo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Charon](/_Standards/Astronomy/Solar_System/Pluto/Charon.md) 
+### #is_/same_as :: [Charon(Moon)](Charon(Moon).md) 
 
 ### #is_/same_as :: [Charon.public](/_public/Astronomy/Solar_System/Pluto/Charon.public.md) 
 

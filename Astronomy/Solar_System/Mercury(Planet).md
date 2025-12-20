@@ -117,7 +117,7 @@ excalidraw_plugin: parsed
 expiryDate:
 ---
 
-# [[Mercury,Planet]]]
+# [[Mercury(Planet)]]]
 
 #is_/different_from :: [[../../WikiData/WD~Mercury,925]]  
 #is_/different_from :: [[_Standards/WikiData/WD~Mercury,1150]] 
@@ -173,7 +173,7 @@ expiryDate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mercury,Planet](/_Standards/Astronomy/Solar_System/Mercury,Planet.md) 
+### #is_/same_as :: [Mercury(Planet)](Mercury(Planet).md) 
 
 ### #is_/same_as :: [Mercury,Planet.public](/_public/Astronomy/Solar_System/Mercury,Planet.public.md) 
 

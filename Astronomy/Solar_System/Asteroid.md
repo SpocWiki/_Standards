@@ -1,4 +1,6 @@
 ---
+aliases:
+  - minor planet
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Asteroid%20symbol%20%28National%20Geographic%20Society%29.svg
 Commons_category: Asteroids
 described_by_source:
@@ -37,7 +39,8 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Asteroids,6689285]]"
 
 ## #has_/text_of_/abstract 
 
-> An **Asteroid** is a minor planet—an object larger than a meteoroid that is neither a planet nor an identified comet—
+> An **Asteroid** is a minor planet—
+> an object larger than a meteoroid that is neither a planet nor an identified comet—
 > that orbits within the inner Solar System or is co-orbital with Jupiter (Trojan asteroids). 
 > 
 > Asteroids are rocky, metallic, or icy bodies with no atmosphere, and are broadly classified into 

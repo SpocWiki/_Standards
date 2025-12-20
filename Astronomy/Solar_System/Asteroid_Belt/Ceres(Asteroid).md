@@ -3,7 +3,7 @@ aliases:
 has_id_wikidata: Q596
 ---
 
-# [[Ceres]] 
+# [[Ceres(Asteroid)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ceres,596|WD~Ceres,596]] 
 
@@ -52,7 +52,7 @@ has_id_wikidata: Q596
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ceres](/_Standards/Astronomy/Solar_System/Asteroid_Belt/Ceres.md) 
+### #is_/same_as :: [Ceres(Asteroid)](Ceres(Asteroid).md) 
 
 ### #is_/same_as :: [Ceres.public](/_public/Astronomy/Solar_System/Asteroid_Belt/Ceres.public.md) 
 

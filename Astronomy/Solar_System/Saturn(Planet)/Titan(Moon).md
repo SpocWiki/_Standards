@@ -105,7 +105,7 @@ time_of_discovery_or_invention: 1655-03-25T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Titan(Moon)](/_Standards/Astronomy/Solar_System/Saturn/Titan(Moon).md) 
+### #is_/same_as :: [Titan(Moon)](Titan(Moon).md) 
 
 ### #is_/same_as :: [Titan(Moon).public](/_public/Astronomy/Solar_System/Saturn/Titan(Moon).public.md) 
 

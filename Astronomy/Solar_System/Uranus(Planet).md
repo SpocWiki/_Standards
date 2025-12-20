@@ -153,7 +153,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Uranus,30589067]]"
 Wolfram_Language_entity_code: Entity["Planet", "Uranus"]
 ---
 
-# [[Uranus]] 
+# [[Uranus(Planet)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Uranus,324]] 
 #is_/different_from :: [[_Standards/WikiData/WD~Uranus,79999]] 
@@ -211,7 +211,7 @@ Wolfram_Language_entity_code: Entity["Planet", "Uranus"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uranus](/_Standards/Astronomy/Solar_System/Uranus.md) 
+### #is_/same_as :: [Uranus(Planet)](Uranus(Planet).md) 
 
 ### #is_/same_as :: [Uranus.public](/_public/Astronomy/Solar_System/Uranus.public.md) 
 

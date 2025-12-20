@@ -21,7 +21,7 @@ An eon is the largest formal geo-chronologic time unit
 and is equivalent to a chronostratigraphic eonothem. 
 These are several hundred million years to two billion years in length.
 
-They naturally apply to the [[../Earth]] only. E.g. [[../Astronomy/Solar_System/Mars|Mars]] has its own Periods. 
+They naturally apply to the [[../Earth]] only. E.g. [[../Astronomy/Solar_System/Mars(Planet)|Mars(Planet)]] has its own Periods. 
 ## Eon 
 
 

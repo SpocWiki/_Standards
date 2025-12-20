@@ -157,7 +157,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Mars,30589069]]"
 Wolfram_Language_entity_code: Entity["Planet", "Mars"]
 ---
 
-# [[Mars]] 
+# [[Mars(Planet)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Mars,111|WD~Mars,111]] 
 #is_/different_from :: [[_Standards/WikiData/WD~Mars,426315]] 
@@ -216,7 +216,7 @@ Wolfram_Language_entity_code: Entity["Planet", "Mars"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mars](/_Standards/Astronomy/Solar_System/Mars.md) 
+### #is_/same_as :: [Mars(Planet)](Mars(Planet).md) 
 
 ### #is_/same_as :: [Mars.public](/_public/Astronomy/Solar_System/Mars.public.md) 
 

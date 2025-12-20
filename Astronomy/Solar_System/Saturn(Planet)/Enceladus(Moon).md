@@ -38,7 +38,7 @@ Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Enceladus"]
 time_of_discovery_or_invention: 1789-08-28T00:00:00Z
 ---
 
-# [[Enceladus]] 
+# [[Enceladus(Moon)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Enceladus,3303|WD~Enceladus,3303]] 
 
@@ -83,7 +83,7 @@ time_of_discovery_or_invention: 1789-08-28T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Enceladus](/_Standards/Astronomy/Solar_System/Saturn/Enceladus.md) 
+### #is_/same_as :: [Enceladus(Moon)](Enceladus(Moon).md) 
 
 ### #is_/same_as :: [Enceladus.public](/_public/Astronomy/Solar_System/Saturn/Enceladus.public.md) 
 

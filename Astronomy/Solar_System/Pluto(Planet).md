@@ -91,7 +91,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/15-02652-PlutoFilm-50
 Wolfram_Language_entity_code: "Entity[\"MinorPlanet\", \"Pluto\"]"
 ---
 
-# [[Pluto]] 
+# [[Pluto(Planet)]] 
 
 #is_/different_from :: [[../../WikiData/WD~Pluto,152262]] 
 #is_/same_as :: [[../../WikiData/WD~Pluto,339]] 
@@ -137,7 +137,7 @@ Wolfram_Language_entity_code: "Entity[\"MinorPlanet\", \"Pluto\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pluto](/_Standards/Astronomy/Solar_System/Pluto.md) 
+### #is_/same_as :: [Pluto(Planet)](Pluto(Planet).md) 
 
 ### #is_/same_as :: [Pluto.public](/_public/Astronomy/Solar_System/Pluto.public.md) 
 

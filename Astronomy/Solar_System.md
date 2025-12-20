@@ -75,10 +75,10 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Solar_System,2845514
 >
 > The largest objects that orbit the [[Solar_System/Sun|Sun]] are the eight planets. 
 > In order from the [[Solar_System/Sun|Sun]] , they are 
-> - four terrestrial planets [[Solar_System/Mercury,Planet|Mercury]], [[Solar_System/Venus(Planet)|Venus(Planet)]], [[/_Standards/Earth|Earth]] and [[Solar_System/Mars|Mars]]); 
-> - two gas giants [[Solar_System/Jupiter(Planet)|Jupiter(Planet)]] and [[Solar_System/Saturn|Saturn]]); 
-> - and two ice giants [[Solar_System/Uranus|Uranus]] and [[Solar_System/Neptune|Neptune]]). 
-> -[[Solar_System/Pluto|Pluto]] is considered to be a dwarf planet. 
+> - four terrestrial planets [[Solar_System/Mercury(Planet)|Mercury]], [[Solar_System/Venus(Planet)|Venus(Planet)]], [[/_Standards/Earth|Earth]] and [[Solar_System/Mars(Planet)|Mars(Planet)]]); 
+> - two gas giants [[Solar_System/Jupiter(Planet)|Jupiter(Planet)]] and [[Solar_System/Saturn(Planet)|Saturn(Planet)]]); 
+> - and two ice giants [[Solar_System/Uranus(Planet)|Uranus(Planet)]] and [[Solar_System/Neptune(Planet)|Neptune(Planet)]]). 
+> -[[Solar_System/Pluto(Planet)|Pluto(Planet)]] is considered to be a dwarf planet. 
 > 
 > All terrestrial planets have solid surfaces. 
 > Inversely, all giant planets do not have a definite surface, as they are mainly composed of gases and liquids. 

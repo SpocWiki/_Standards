@@ -1,5 +1,5 @@
 
-# [[Phobos]] 
+# [[Phobos(Moon)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Phobos,7547|WD~Phobos,7547]] 
 
@@ -28,7 +28,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phobos](/_Standards/Astronomy/Solar_System/Mars/Phobos.md) 
+### #is_/same_as :: [Phobos(Moon)](Phobos(Moon).md) 
 
 ### #is_/same_as :: [Phobos.public](/_public/Astronomy/Solar_System/Mars/Phobos.public.md) 
 

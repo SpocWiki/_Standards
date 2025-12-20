@@ -10,7 +10,7 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~magnitude_of_eclipse,1268559]]"
 has_list: "[[_Standards/WikiData/WD~list_of_lunar_eclipses,251640]]"
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -73,7 +73,7 @@ Wolfram_Language_entity_type: LunarEclipse
 
 # [[Lunar_Eclipse]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Lunar_eclipse,44235|WD~Lunar_eclipse,44235]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Lunar_eclipse,44235|WD~Lunar_eclipse,44235]] 
 
 ## #has_/text_of_/abstract 
 
@@ -110,7 +110,7 @@ Wolfram_Language_entity_type: LunarEclipse
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lunar_Eclipse](/_Standards/Astronomy/Solar_System/Occultation/Eclipse/Lunar_Eclipse.md) 
+### #is_/same_as :: [Lunar_Eclipse](Lunar_Eclipse.md) 
 
 ### #is_/same_as :: [Lunar_Eclipse.public](/_public/Astronomy/Solar_System/Occultation/Eclipse/Lunar_Eclipse.public.md) 
 

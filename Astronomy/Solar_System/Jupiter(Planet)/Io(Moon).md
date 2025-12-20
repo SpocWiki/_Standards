@@ -41,7 +41,7 @@ Commons_category: Io (moon)
 provisional_designation: Jupiter I
 ---
 
-# [[Io]] 
+# [[Io(Moon)]] 
 
 #is_/same_as :: [[WD~Io,3123]] 
 

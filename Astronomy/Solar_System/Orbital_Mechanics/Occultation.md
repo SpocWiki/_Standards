@@ -24,7 +24,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/HD%2071567.webm
 
 # [[Occultation]] 
 
-#is_/same_as :: [[../../WikiData/WD~Occultation,202746|WD~Occultation,202746]] 
+#is_/same_as :: [[../../../WikiData/WD~Occultation,202746|WD~Occultation,202746]] 
 
 ## #has_/text_of_/abstract 
 
@@ -49,7 +49,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/HD%2071567.webm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Occultation](/_Standards/Astronomy/Solar_System/Occultation.md) 
+### #is_/same_as :: [Occultation](Occultation.md) 
 
 ### #is_/same_as :: [Occultation.public](/_public/Astronomy/Solar_System/Occultation.public.md) 
 

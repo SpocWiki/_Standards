@@ -25,7 +25,7 @@ Commons_category: Deimos (moon)
 Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Deimos"]
 ---
 
-# [[Deimos]] 
+# [[Deimos(Moon)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Deimos,7548|WD~Deimos,7548]] 
 
@@ -43,7 +43,7 @@ Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Deimos"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deimos](/_Standards/Astronomy/Solar_System/Mars/Deimos.md) 
+### #is_/same_as :: [Deimos(Moon)](Deimos(Moon).md) 
 
 ### #is_/same_as :: [Deimos.public](/_public/Astronomy/Solar_System/Mars/Deimos.public.md) 
 

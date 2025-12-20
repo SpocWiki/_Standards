@@ -5,7 +5,7 @@ has_id_wikidata: Q141022
 
 # [[Eclipse]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Eclipse,141022|WD~Eclipse,141022]] 
+#is_/same_as :: [[../../../../WikiData/WD~Eclipse,141022|WD~Eclipse,141022]] 
 
 ## #has_/text_of_/abstract 
 
@@ -34,7 +34,7 @@ has_id_wikidata: Q141022
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eclipse](/_Standards/Astronomy/Solar_System/Occultation/Eclipse.md) 
+### #is_/same_as :: [Eclipse](Eclipse.md) 
 
 ### #is_/same_as :: [Eclipse.public](/_public/Astronomy/Solar_System/Occultation/Eclipse.public.md) 
 

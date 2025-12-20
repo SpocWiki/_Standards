@@ -48,7 +48,7 @@ The Name is derived from the roman goddess [[../../../../../../../../../../../Ph
 > Winter varieties are hardy enough to be planted in the autumn, 
 > becoming dormant in the winter, and harvested in spring or early summer; 
 > spring varieties are planted in spring and harvested in late summer. 
-> The term cereal is derived from the name of the Roman goddess of grain crops and fertility, [[Ceres]].
+> The term cereal is derived from the name of the Roman goddess of grain crops and fertility, [[../../../../../../../../../../../Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid)]].
 >
 > Cereals were domesticated in the Neolithic, some 8,000 years ago. 
 > [[Cereal/Wheat|Wheat]] and [[Cereal/Barley|barley]] were domesticated in the Fertile Crescent; 

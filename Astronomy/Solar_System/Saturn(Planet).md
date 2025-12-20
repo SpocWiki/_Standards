@@ -210,7 +210,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Saturn,30589070]]"
 Wolfram_Language_entity_code: Entity["Planet", "Saturn"]
 ---
 
-# [[Saturn]]
+# [[Saturn(Planet)]]
 
 #is_/same_as :: [[../../WikiData/WD~Saturn,193]] 
 #is_/different_from :: [[_Standards/WikiData/WD~Saturn,134388]] 
@@ -252,7 +252,7 @@ Wolfram_Language_entity_code: Entity["Planet", "Saturn"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saturn](/_Standards/Astronomy/Solar_System/Saturn.md) 
+### #is_/same_as :: [Saturn(Planet)](Saturn(Planet).md) 
 
 ### #is_/same_as :: [Saturn.public](/_public/Astronomy/Solar_System/Saturn.public.md) 
 

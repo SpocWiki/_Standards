@@ -1,5 +1,5 @@
 
-# [[Ganymede]] 
+# [[Ganymede(Moon)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ganymede,3169|WD~Ganymede,3169]] 
 

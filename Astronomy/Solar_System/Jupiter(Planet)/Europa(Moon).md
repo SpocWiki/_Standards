@@ -1,5 +1,5 @@
 
-# [[Europa]] 
+# [[Europa(Moon)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Europa,3143|WD~Europa,3143]] 
 

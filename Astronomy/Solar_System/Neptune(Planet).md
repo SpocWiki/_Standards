@@ -120,7 +120,7 @@ volume_as_quantity: 62540000000000
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Neptune,30589066]]"
 ---
 
-# [[Neptune]] 
+# [[Neptune(Planet)]] 
 
 #is_/different_from :: [[_Standards/WikiData/WD~Neptune,3954]] 
 #is_/different_from :: [[_Standards/WikiData/WD~Neptune,2456503]] 
@@ -197,7 +197,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Neptune,30589066]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neptune](/_Standards/Astronomy/Solar_System/Neptune.md) 
+### #is_/same_as :: [Neptune(Planet)](Neptune(Planet).md) 
 
 ### #is_/same_as :: [Neptune.public](/_public/Astronomy/Solar_System/Neptune.public.md) 
 

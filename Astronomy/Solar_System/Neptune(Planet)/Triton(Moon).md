@@ -102,7 +102,7 @@ Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Triton"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Triton(Moon)](/_Standards/Astronomy/Solar_System/Neptune/Triton(Moon).md) 
+### #is_/same_as :: [Triton(Moon)](Triton(Moon).md) 
 
 ### #is_/same_as :: [Triton(Moon).public](/_public/Astronomy/Solar_System/Neptune/Triton(Moon).public.md) 
 
